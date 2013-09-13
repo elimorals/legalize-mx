@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-del-tribunal-superior-6868
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-03"
-last_updated: "2011-10-31"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2004-08-11"
 ---
 # REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL -ANTES REGLAMENTO DEL CONCURSO DE OPOSICION-
 
-REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+REGLAMENTO DEL CONCURSO DE OPOSICIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de agosto de 2004.
 
@@ -30,7 +30,7 @@ En cumplimiento al Acuerdo General 11-35/2004 emitido por el Consejo de la Judic
 
 "El Consejo de la Judicatura del Distrito Federal expide, con fundamento en los artículos 122, párrafo quinto, apartado C, BASE CUARTA, fracciones II y III de la Constitución General de la República; 77 del Estatuto de Gobierno del Distrito Federal; 17 fracción VIII; 18 fracción VII; 76 segundo párrafo; 77; 190; 193; 201 fracción III de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal vigente, el siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE JUNIO DE 2009)</small>
 
 REGLAMENTO DEL CONCURSO DE OPOSICIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL.
 
@@ -166,7 +166,7 @@ El Instituto de Estudios Judiciales posteriormente, abrirá cada sobre y fotocop
 
 El Jurado del Concurso de Oposición, procederá a calificar los exámenes escritos aplicando lo dispuesto en el artículo 15 de este ordenamiento. La calificación de los aspirantes se definirá mediante la obtención del promedio de puntos que cada uno de los integrantes del Jurado le haya otorgado a cada uno de ellos.
 
-El Jurado dará a conocer al Consejo, oportunamente, las calificaciones asignadas a los aspirantes.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 El Consejo, declarará desierto el concurso, cuando ninguno de los aspirantes alcance el puntaje mínimo que para esta etapa señala el artículo 15 de este ordenamiento y procederá a emitir nueva convocatoria.
 
@@ -198,6 +198,12 @@ La calificación de cada sustentante, en esta etapa del concurso, se obtendrá c
 
 Los sustentantes no podrán acudir a los exámenes tanto escrito como oral, con leyes, códigos y material alguno que no sean aquellos que les haya facilitado el Instituto de Estudios Judiciales para su consulta.
 
+> <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV. El Jurado, a través del Instituto de Estudios Judiciales, dará a conocer al Consejo de la Judicatura del Distrito Federal el nombre de los sustentantes que hayan acreditado las tres etapas de evaluación descritas en las fracciones anteriores, señaladas con ese carácter, a efecto de que dicho órgano los tome en cuenta dentro del conjunto de los elementos a evaluar para su designación.
+
+El Consejo, declarará desierto el concurso, cuando ninguno de los aspirantes alcance el puntaje mínimo que para esta etapa señala el artículo 15 de este ordenamiento y procederá a emitir nueva convocatoria.
+
 ### CAPÍTULO SEGUNDO. DE LA CALIFICACIÓN DE LOS EXÁMENES
 
 > <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
@@ -222,11 +228,17 @@ IV. La redacción.
 
 La calificación final de los sustentantes que hayan participado en todas las etapas del concurso, se definirá mediante la obtención del promedio de puntos que cada integrante del Jurado le haya asignado a cada uno de ellos en las dos últimas etapas del mismo y conforme a la valoración de los siguientes aspectos: resultado del examen psicométrico; antigüedad y desempeño en la función judicial en el Distrito Federal; experiencia profesional, cursos de especialización y actualización que haya aprobado y acreditado, así como la reputación de la que goce.
 
-Se levantará, asimismo, un acta final una vez que hayan concluido los exámenes, para hacer constar las calificaciones que cada miembro del Jurado le haya asignado a cada sustentante.
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-El Presidente del Jurado comunicará el resultado al Consejo de la Judicatura del Distrito Federal, para que éste antes de resolver sobre la designación correspondiente, mande publicar de inmediato y por un día en por lo menos dos de los diarios de mayor circulación nacional, los nombres de los candidatos, así como poner en conocimiento al Pleno del Tribunal Superior de Justicia del Distrito Federal, a fin de que dentro de los cinco días siguientes a la última publicación, las personas interesadas le aporten elementos de juicio.
+Se levantará, asimismo, un acta final una vez que hayan concluido los exámenes, en donde se haga constar aquellos sustentantes que resulten aprobados.
 
-El Consejo de la Judicatura del Distrito Federal mandará publicar en el Boletín Judicial el resultado final de los exámenes, asignándose a la publicación el carácter de notificación para los participantes.
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El Presidente del Jurado comunicará al Consejo la lista de los sustentantes aprobados, para que antes de resolver sobre la designación correspondiente, mande publicar de inmediato y por un día en el Boletín Judicial, los nombres de los mismos, al tiempo que lo comunica al Pleno de Magistrados del Tribunal Superior de Justicia del Distrito Federal, a fin de que dentro de los siguientes cinco días posteriores a la publicación, para que aquellas personas que así lo deseen aporten los elementos de juicio que consideren pertinentes.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El Consejo de la Judicatura del Distrito Federal mandará publicar en el Boletín Judicial el resultado final de los sustentantes que resultaron aprobados, asignándose a la publicación el carácter de notificación para los participantes.
 
 Cuando ningún sustentante alcance el puntaje mínimo señalado en los artículos 15 y 16 de este ordenamiento, el Consejo de la Judicatura del Distrito Federal, declarara desierto el concurso y procederá a emitir nueva convocatoria.
 
@@ -242,7 +254,7 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 3 DE JUNIO DE 2009.
 
@@ -263,3 +275,7 @@ UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicació
 G.O. 31 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
