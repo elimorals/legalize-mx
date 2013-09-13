@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2012-12-31"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -311,7 +311,13 @@ XVI.- Participar en programas de rehabilitación y educación especial;
 
 XVII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de personas con discapacidad o incapaces; y
 
-XVIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Crear y operar Centros de Mediación destinados a la solución de conflictos derivados de cuestiones familiares; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 18.
 
@@ -878,5 +884,11 @@ La documentación en poder del Patronato del Organismo, deberá entregarse en cu
 P.O. 31 DE DICIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
