@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2012-12-07"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -385,7 +385,7 @@ Para el despacho de los asuntos del Tribunal Superior habrá tres Secretarios, q
 
 ### CAPÍTULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 14.
 
@@ -2761,7 +2761,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los seis días del mes de diciembre del año dos mil dos.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE DICIEMBRE DE 2003.
 
@@ -2827,9 +2827,13 @@ SEGUNDO.- Para los efectos del artículo Primero Transitorio del Decreto publica
 
 I.- Oriente: el 15 de enero de 2013;
 
-II.- Norte: el 17 de septiembre de 2013;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Sur: el 18 de marzo de 2014;
+II.- Norte: el 21 de mayo de 2014;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Sur: el 21 de mayo de 2014;
 
 IV.- Sur-Oriente: el 17 de septiembre de 2014;
 
@@ -2872,3 +2876,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos regulados por las disposiciones que son reformadas mediante el presente Decreto y que se encuentren en trámite, deberán ajustarse a los términos previstos en el mismo.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
