@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-08-20"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1336,6 +1336,10 @@ II.- Intervenir en la forma y términos que la ley disponga, en los juicios que 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
 
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
+
+> <small>(ADICIONADO, B.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Es facultad del Procurador General de Justicia del Estado proponer al Consejo Estatal de Seguridad Pública del Estado, los criterios de política criminal necesarios para el mejoramiento de la seguridad pública, procuración e impartición de justicia en el Estado Libre y Soberano de Baja California Sur.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
 
@@ -3174,3 +3178,7 @@ B.O. 20 DE AGOSTO DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- La XIII Legislatura del Congreso del Estado en coordinación con los Municipios, revisarán la legislación de la materia y realizarán los ajustes necesarios en un lapso de 120 días máximo, contados a partir de la entrada en vigor la (sic) presente reforma constitucional.
+
+B.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrara en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
