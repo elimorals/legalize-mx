@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-09-09"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1023,7 +1023,7 @@ K.- Homicidio, previsto en el artículo 312 en relación con los artículos 316,
 
 K Bis.- Feminicidio, previsto en el artículo 312 Bis;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1089,11 +1089,7 @@ X.- Fraude, previsto en el artículo 406 Bis;
 
 Y.- Delitos que afectan la Procuración y Administración de Justicia, previstos en el artículo 421 fracción XXXV;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
-
-Z.- Narcomenudeo, previsto en los artículos 463 y 464;
+Z.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3813,6 +3809,16 @@ La mediación será procedente únicamente en delitos de querella.
 
 En ningún caso se podrá iniciar proceso de mediación cuando se afecten la libertad sexual, los intereses, derechos, dignidad e integridad psíquica y corporal de incapaces que carezcan de representante legal. Tampoco habrá proceso de mediación cuando exista pluralidad de agraviados sea en una averiguación o en averiguaciones conexas y acumulables. No habrá mediación cuando se afecten los intereses y derechos de la colectividad.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+En los delitos de violencia familiar sólo podrá iniciarse el procedimiento de mediación cuando así lo solicite en forma expresa la víctima o su representante legal y no exista una relación de sometimiento, conforme un estudio psicológico emitido por alguna institución pública que concluya que la víctima se encuentra apta para mediar con su agresor.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Lo dispuesto en el párrafo anterior, no será aplicable cuando el agresor sea reincidente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 Se preferirá el procedimiento de mediación en la averiguación previa o en el proceso, respecto de aquellos delitos que busquen la reparación del daño patrimonial producida a la víctima.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
@@ -4220,5 +4226,21 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 9 DE SEPTIEMBRE DE 2013.
 
 PRIMERO.- EI presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO ÚNICO POR EL QUE SE DEROGA EL APARTADO Z DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al Presente ordenamiento.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO ÚNICO POR EL QUE SE REFORMA EL CUARTO PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 395 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
