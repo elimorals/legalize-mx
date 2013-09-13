@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-06-28"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -387,6 +387,12 @@ La Institución de Salud entregará el certificado a la madre, para la correspon
 
 Recibido el certificado de nacimiento, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+En los casos en que los supuestos padres o demás familiares señalados en el primer párrafo de este artículo, no pudieran acreditar su filiación respecto del recién nacido, el Director o la persona encargada de la administración del nosocomio lo hará del conocimiento del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de los Menores y la Familia, en los términos del artículo 65 de este Código.
+
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ARTICULO 55 BIS.- En los términos del presente Capítulo se llevará a cabo el registro de niños o niñas entregados en las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, designados por las autoridades competentes, siempre que se acredite que el menor no se encuentra registrado y que no se haya solicitado la devolución del menor por los padres biológicos, conjunta o separadamente en los términos previstos por el presente código.
@@ -427,9 +433,11 @@ Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo
 
 El padre y la madre tienen obligación de que su nombre y apellidos figuren en el acta de nacimiento del hijo. Cuando sólo uno de los padres haga la presentación del hijo habido fuera de matrimonio, se pondrán siguiendo al nombre de éste, los dos apellidos del padre o la madre compareciente. Esto será sin perjuicio de la investigación de la paternidad o de la maternidad ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando los adoptantes opten por sujetarse a la adopción plena se asentarán en todo lo posible los datos a que hace referencia el artículo 58 del presente Código sin hacer mención de aquella circunstancia.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Cuando los adoptantes opten por sujetarse a la adopción se asentarán en todo lo posible los datos a que hace referencia el artículo 58 del presente Código sin hacer mención de aquella circunstancia.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -571,11 +579,13 @@ Si el reconocimiento se hiciere en Oficina distinta de aquella en que se levant�
 
 ### CAPITULO IV. DE LAS ACTAS DE ADOPCION
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 84.
 
-Dictada la resolución Judicial definitiva que autorice la adopción simple o plena, el Juez dentro del término de ocho días siguientes a la fecha en que cauce ejecutoria la misma, remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del adoptante, se levante el acta correspondiente.
+Dictada la resolución Judicial definitiva que autorice la adopción, el Juez de lo familiar, dentro del término de ocho días siguientes a la fecha en que cauce ejecutoria la misma, remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del adoptante, se levante al acta correspondiente.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -583,25 +593,25 @@ Dictada la resolución Judicial definitiva que autorice la adopción simple o pl
 
 La falta del registro de la adopción no quita a ésta sus efectos legales.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 86.
 
-El acta de adopción contendrá: el nombre, apellidos, fecha y lugar de nacimiento y domicilio del adoptado, nombres, apellidos, estado civil, domicilio y nacionalidad del o de los adoptantes y los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y Tribunal que la dictó, siempre que los adoptantes se sujeten a la adopción simple.
+El acta de adopción se levantará como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos; procediendo en tal circunstancia a realizar las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará, ni se expedirá constancia alguna que revele el origen del adoptado ni su condición como tal salvo providencia dictada en juicio o cuando lo solicite personalmente el adoptado.
 
-En los casos de adopción plena, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos; procediendo en tal circunstancia a realizar las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará, ni se expedirá constancia alguna que revele el origen del adoptado ni su condición como tal salvo providencia dictada en juicio o cuando lo solicite personalmente el adoptado.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 87.
 
-Extendida el acta de adopción simple, se anotará la de nacimiento del adoptado, y se formará el apéndice respectivo con la copia de las diligencias relativas, el que llevará el mismo número del acta de adopción.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 88.
 
-El Juez o Tribunal que deje sin efectos una adopción simple, remitirá copia certificada de la resolución al Oficial del Registro Civil que corresponda, dentro del término de ocho días después de que se declare ejecutoriada, para los efectos de que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1157,13 +1167,13 @@ X.- El matrimonio subsistente con persona distinta de aquella con quien se prete
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 154.
 
-Bajo el régimen de adopción simple, mientras dure el lazo jurídico, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
-
-Bajo el régimen de adopción plena se deberá de estar a los impedimentos que se prevén para los casos de parentesco por consanguinidad.
+El adoptante no puede contraer matrimonio con el adoptado o sus descendientes de conformidad con los impedimentos que se prevén para los casos de parentesco por consanguinidad.
 
 ###### ARTICULO 155.
 
@@ -1979,9 +1989,11 @@ La Ley no reconoce más parentescos que los de consanguinidad, afinidad y el civ
 
 El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El parentesco resultante de la adopción plena se equipara al de consanguinidad con todos sus efectos, tanto en relación al adoptado como a sus descendientes con respecto al adoptante.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El parentesco resultante de la adopción se equipara al de consanguinidad con todos sus efectos, tanto en relación al adoptado como a sus descendientes con respecto al adoptante.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -1989,11 +2001,11 @@ El parentesco resultante de la adopción plena se equipara al de consanguinidad 
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 292.
 
-El parentesco civil en la adopción simple, nace y sólo existe entre el adoptante y adoptado.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 293.
 
@@ -2049,19 +2061,25 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 También deben alimentar a sus parientes dentro del grado mencionado, que fueren personas que no tienen capacidad para comprender el significado del hecho.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 303 BIS.- Los acreedores alimentarios tendrán derecho preferente sobre los ingresos y bienes de quien tenga dicha obligación, respecto de otra calidad de acreedores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 304.
 
-Tratándose de la adopción simple, el adoptante y el adoptado tienen la obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+En la adopción, se aplicará lo dispuesto por las reglas relativas al parentesco por consanguinidad, tratándose de la obligación de dar alimentos entre las personas que concurran en los términos del artículo 290 de este ordenamiento.
 
-Tratándose de adopción plena se aplicará lo dispuesto por las reglas relativas al parentesco por consanguinidad, entre las personas que concurran en los términos del artículo 290 de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 305.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de las personas menores de dieciocho años de edad, se comprende por alimentos, además, los gastos necesarios para la educación básica obligatoria del alimentista, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y los gastos correspondientes a la asistencia en caso de enfermedad. Respecto de las personas menores de dieciocho años de edad, se comprende por alimentos, además, los gastos necesarios para la educación básica y la media superior obligatoria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo, capacidades, potencialidades y circunstancias personales. También comprende, la atención a las necesidades resultantes de algún tipo de trastorno del desarrollo, discapacidad y de sano esparcimiento.
 
 ###### ARTICULO 306.
 
@@ -2074,6 +2092,12 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 ###### ARTICULO 308.
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
 
 ###### ARTICULO 309.
 
@@ -2150,6 +2174,12 @@ Cuando el deudor alimentario no estuviere presente o estándolo rehusare entrega
 ###### ARTICULO 320.
 
 El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de lo Familiar, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 320 BIS.- Toda a (sic) persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles.
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
@@ -2451,11 +2481,11 @@ La mujer que cuida o ha cuidado la lactancia de un niño, a quien le ha dado su 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 377.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres, y al Sistema para el Desarrollo Integral de la Familia de Baja California, resolverá lo que creyere más conveniente a los intereses de la persona menor de dieciocho años de edad.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres, y al Sistema para el Desarrollo Integral de la Familia de Baja California, resolverá lo que creyere más conveniente a los intereses de la persona menor de dieciocho años de edad, Así mismo les recomendará la participación en el programa de escuela para padres ofrecidos (sic) por El Sistema para el Desarrollo Integral de la Familia de Baja California.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -2545,23 +2575,35 @@ V.- Que goza de salud mental, acreditada mediante estudio psicológico realizado
 
 VI.- Tratándose de extranjeros, deberán acreditar que pueden realizar dicho acto, con la respectiva autorización expedida por las autoridades competentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Tratándose de solicitantes de adopción, el Sistema Estatal para el Desarrollo Integral de la Familia, será la autoridad central del Estado de Baja California, en materia de adopción nacional e internacional y deberán acreditar antes de iniciar las diligencias respectivas, los siguientes requisitos:
+
+a).- Que el menor es adoptable;
+
+b).- Que después de haber examinado adecuadamente las posibilidades de colocación del menor en el país, la adopción internacional responde al interés del menor;
+
+c).- Que las personas, instituciones y autoridades cuyo consentimiento se requiera para la adopción han sido convenientemente asesoradas y debidamente informadas de las consecuencias de su consentimiento, el cual debe otorgarse por escrito, libremente, y sin que medie pago o compensación de clase alguna, en particular en relación a la ruptura, en virtud de la adopción, de los vínculos jurídicos entre el menor y su familia de origen;
+
+d).- Se ha asegurado, teniendo en cuenta la edad y grado de madurez del niño, de que, ha sido convenientemente asesorado y debidamente informado sobre las consecuencias de la adopción, tomando en consideración su opinión; y en caso de proceder su consentimiento, el cual debe otorgarse libremente, por escrito y que no se ha obtenido mediante pago o compensación de clase alguna; y
+
+e).- Que las autoridades centrales del Estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos son adecuados y aptos para adoptar, asegurando que han sido convenientemente asesorados y que, se ha constatado que el menor ha sido o será autorizado a entrar y residir permanentemente en dicho Estado. Expidiendo al efecto, el certificado de idoneidad correspondiente.
+
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 Los requisitos contemplados en las fracciones I, II y III, deberán acreditarse mediante estudio socioeconómico realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, en el cual se señale la identidad del adoptante, sus antecedentes, historia familiar, entorno social y sus razones para adoptar.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No podrán adoptar mediante el régimen de adopción plena, las personas que tengan vínculo de parentesco consanguíneo con la persona menor de dieciocho años de edad o con persona que no tenga la capacidad para comprender el significado del hecho.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 388.
 
-Los cónyuges podrán adoptar, cuando estén de acuerdo en considerar al adoptado como hijo y acrediten los requisitos señalados en el artículo anterior, aunque sólo uno de ellos cumpla el requisito de la edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años.
+Los cónyuges o concubinos podrán adoptar cuando estén de acuerdo en considerar al adoptado como hijo y acrediten los requisitos señalados en el artículo anterior, aunque sólo uno de ellos cumpla el requisito de la edad, pero siempre y cuando la diferencia de edad entre cualquier (sic) de los adoptantes y el adoptado sea de diecisiete años.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-Cuando uno de los concubinos pretenda adoptar a una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, en forma individual, deberá obtener el consentimiento del otro por escrito y ratificado ante el Juez de la causa.
+Cuando uno de los cónyuges o concubinos pretenda adoptar a una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, en forma individual, deberá obtener el consentimiento del otro por escrito y ratificado ante el Juez de la causa.
 
 ###### ARTICULO 389.
 
@@ -2571,29 +2613,31 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 391.
 
-La adopción simple podrá convertirse en plena siempre que se obtenga el consentimiento del adoptado, si este ya hubiere cumplido 14 años. Si fuere persona menor de catorce años de edad se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo, de lo contrario el Juez, deberá resolver atendiendo al interés del adoptado y a la opinión que deberán emitir el Ministerio Público y de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, dependiente del Sistema para el Desarrollo Integral de la Familia de Baja California.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
-Para que dicha adopción surta efectos respecto a los parientes del adoptante con el adoptado y sus descendientes, se estará a lo previsto por el artículo 290 de este ordenamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 392.
 
 El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
 
-El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
-
 ###### ARTICULO 393.
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 394.
 
-Para que la adopción simple o plena pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
+Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -2615,7 +2659,59 @@ V.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no
 
 Si la persona que se va a adoptar tiene más de catorce años de edad, también se necesita su consentimiento para la adopción.
 
-VI.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2007)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Si la persona que se va adoptar tiene más de catorce años de edad, también se necesita su consentimiento para la adopción; asegurando que lo ha otorgado libremente, asesorándolo e informándole sobre las consecuencias de la adopción. Si la persona que se va adoptar tiene menos de catorce años se le preguntará y se tomará en cuenta su opinión de acuerdo a su edad y madurez. En el caso de las personas mayores de edad que no tengan capacidad para comprender el significado del hecho, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- En caso de que los progenitores del menor que se trata de adoptar estén sujetos a patria potestad por ser menores de edad, deberán consentir en la adopción los padres de éstos si están presentes; en caso contrario, el Juez de lo familiar, suplirá el consentimiento con la previa intervención de la Procuraduría para la Defensa de los Menores y la Familia en el Estado, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia y del Ministerio Público adscrito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 394 BIS.- En toda adopción se deberá asegurar:
+
+I.- Que las personas referidas en las fracciones I, II, III y VII del artículo que antecede, y cuyo consentimiento se requiera, han sido convenientemente asesoradas y debidamente informadas por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de los Menores y la Familia en el Estado, de las consecuencias legales que la adopción implica y del consentimiento otorgado en particular de la ruptura de los vínculos jurídicos entre el adoptado y su familia de origen en su caso; que se ha otorgado libremente, levantándose al efecto constancia por escrito;
+
+II.- Que el Sistema Estatal para el Desarrollo Integral de la Familia, en caso de resultar procedente, se asegure teniendo en cuenta la edad y grado de madurez del menor, de que, ha sido convenientemente asesorado y debidamente informado sobre las consecuencias de la adopción, se han considerado sus deseos y opiniones, y que su consentimiento ha sido otorgado libremente y por escrito;
+
+III.- Posteriormente, los escritos de referencia, deberán ser presentados ante el juez de lo familiar, que conozca del procedimiento de adopción para su ratificación;
+
+Aquellas personas a las que se refiere la fracción I de este artículo, hubieran otorgado su consentimiento por escrito ante la Procuraduría para la Defensa de los Menores y la Familia en el Estado, se abstuvieren de presentarse ante el juez de lo familiar para su ratificación, en este caso, aquel los notificará personalmente, ha efecto de que se presenten ante él en un término improrrogable de cinco días, para que lo ratifiquen o en su defecto, manifiesten lo que a su derecho corresponda; por lo que, de no presentarse y no justifique su incomparecencia, se entenderá como otorgado su consentimiento para realizar la adopción;
+
+IV.- Que el consentimiento no se haya obtenido mediante pago o compensación alguna; y
+
+V.- Que el consentimiento de las personas que ejercen la patria potestad, se ha dado únicamente después del nacimiento de su menor hijo.
+
+En ese sentido cuando se lleve a cabo el nacimiento de un menor en cualquier hospital o institución de carácter público o privado, las personas que ejerzan la patria potestad si así lo deciden, podrán entregar al menor a la Procuraduría para la Defensa del Menor y la Familia, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, otorgando su consentimiento para su adopción.
+
+Únicamente para tal efecto, el titular de la Procuraduría para la Defensa de los Menores y la Familia estará investido de fe pública, y deberá levantar acta circunstanciada ante la presencia de dos testigos, haciendo alusión a la entrega y el propósito con el que se efectúo, así como la manifestación expresa de la situación familiar y los motivos que originan tal entrega, debiendo anexar por lo menos el certificado de nacimiento del menor e identificación oficial de quien se ostenta como madre o padre, así come informando su domicilio actual.
+
+El mismo consentimiento puede ser otorgado en las propias instalaciones de la Procuraduría para la Defensa de los Menores y la Familia, bajo los términos y condiciones señalados en el párrafo anterior. En ambos supuestos, no procederá la asignación del menor a la familia adoptiva hasta transcurrido el término de tres meses, en el cual los padres biológicos podrán solicitar la revocación de la entrega voluntaria; levantando al efecto, acta circunstanciada asentando los motivos de la reintegración al seno familiar.
+
+Una vez transcurrido el término señalado en el párrafo anterior, sin que se revoque la entrega voluntaria se asignará al menor a una familia adoptiva y se dará inicio al trámite judicial de adopción.
+
+VI.- Que el adoptante o los adoptantes, según el caso, han recibido por conducto de la Procuraduría para la Defensa de los Menores y la Familia, la debida asesoría y capacitación sobre los alcances psíquicos afectivos y jurídicos que la adopción les implica. Levantando al efecto, certificado de idoneidad, que contenga información sobre su identidad, capacidad jurídica y aptitud para adoptar, su situación personal, familiar y médica, su medio social, los motivos que les animan para asumir una adopción.
+
+No será necesaria la expedición del certificado de idoneidad, cuando la Procuraduría lo reciba por conducto de las autoridades extranjeras competentes para ello.
+
+VII.- Que las autoridades procuren que el menor sujeto a adopción tenga la posibilidad de desarrollarse en un ambiente familiar sano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 394 TER.- Cuando se hubieren satisfecho los requisitos previstos en el artículo anterior, la Procuraduría Para la Defensa de los Menores y la Familia del Estado podrá solicitar al juez de lo familiar, que conozca del procedimiento de adopción otorgue en forma temporal la custodia del menor con los presuntos adoptantes, hasta en tanto quede consumada la misma, quien deberá resolver de plano.
+
+En este caso, el menor podrá abandonar su estado de origen para irse con sus presuntos padres adoptivos.
+
+La custodia otorgada en los términos del párrafo anterior podrá ser revocada por el juez que la otorgó a petición fundada de la propia Procuraduría.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -2631,107 +2727,93 @@ El procedimiento para hacer la adopción será fijado en el Código de Procedimi
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 398.
 
-El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y a la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia para que verifique si la adopción de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho le ha sido benéfica.
+El Juez de lo familiar, que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y a la Procuraduría para la Defensa de los Menores y la Familia, para que realice el seguimiento de la adopción del menor, realizando como mínimo dos visitas durante el año, en un período hasta de dos años, contados a partir de la fecha en que se otorgó la adopción.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+Tratándose de la aprobación de una adopción internacional, de adoptantes originarios de países que son parte de Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, la Procuraduría para la Defensa de los Menores y la Familia solicitará a la autoridad central del país de recepción, o del Servicio Exterior Mexicano realice el seguimiento en los términos señalados en el párrafo anterior.
 
-Cuando el Juez resuelva no autorizar la adopción y la persona menor de dieciocho años de edad se encuentre viviendo con quien pretende adoptarlo, decretará la separación de la persona menor de dieciocho años de edad de aquél y ordenará su depósito en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, para que lo reincorpore con las personas que gozan del ejercicio de la patria potestad sobre la persona menor de dieciocho años de edad y en caso de ser expósitos o abadanados (sic) quedarán legalmente bajo su tutela con el fin de buscar su reintegración inmediata y oportuna a un ambiente familiar a través de hogares adoptivos o substitutos.
+Cuando el Juez resuelva no autorizar la adopción y la persona menor de dieciocho años de edad se encuentre viviendo con quien pretende adoptarlo, decretará la separación de la persona menor de dieciocho años de edad de aquél y ordenará su depósito en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de los Menores y la Familia, para que lo reincorpore con las personas que gozan del ejercicio de la patria potestad sobre la persona menor de dieciocho años de edad y en caso de ser expósitos o abandonados quedarán legalmente bajo su tutela con el fin de buscar su reintegración inmediata y oportuna a un ambiente familiar a través de hogares adoptivos o substitutos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 399.
-
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 154 de este Código.
-
-En la adopción simple no se extinguen los derechos y obligaciones que resultan del parentesco consanguíneo, los cuales permanecerán suspendidos respecto de los progenitores, transfiriéndose el ejercicio de la patria potestad al adoptante, salvo que esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
 
 El adoptado llevará el apellido del adoptante, quien tendrá el derecho de cambiarle el nombre, haciéndose las anotaciones correspondientes en el acta de adopción.
 
 La adopción producirá sus efectos aunque sobrevengan hijos del adoptante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 400.
 
-La persona menor de dieciocho años de edad o la persona que no tenga capacidad para comprender el significado del hecho, que hayan sido adoptados bajo el régimen de adopción simple, podrán impugnar la adopción dentro del año siguiente de haber cumplido dieciocho años de edad o a la fecha en que haya obtenido la capacidad para comprender el significado del hecho.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-Esta clase de adopción sólo podrá revocarse en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado haya cumplido dieciocho años de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 394, cuando fueren de domicilio conocido, y a falta de ellas, al Ministerio Público y el Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-II.- Por ingratitud del adoptado; oyendo al Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-III.- Cuando dejaren de reunirse los requisitos a que se refiere el artículo 387 de este código, a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia; y,
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-IV.- Cuando exista una causa grave que pongo en peligro los derechos fundamentales del adoptado a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
-
-En el Primer caso, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses del adoptado.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 401.
 
-Para los efectos de la Fracción II contenida en el artículo anterior, se considera ingrato al adoptado cuando comete un delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes; cuando formule denuncia o querella contra el adoptante, por algún delito aun cuando no se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes; y, cuando rehusa dar alimentos al adoptante que ha caído en pobreza o que ha sido por una forma de incapacidad. En este caso, la adopción deja de producir efectos desde que se comete el acto de ingratitud aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
-En los casos de revocación o impugnación, la resolución del Juez deja sin efecto la adopción simple y restituye las cosas al estado que guardaban antes de efectuarse ésta, debiéndose comunicar ésta al Oficial del Registro Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 402.
 
-El adoptado bajo el régimen de adopción plena adquiere la misma condición de un hijo consanguíneo para todos los efectos legales incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+El adoptado adquiere la misma condición de un hijo consanguíneo para todos los efectos legales incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
 
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán en relación a éste y sus parientes los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+La adopción extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de estos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán en relación a este y sus parientes los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
 
-La adopción plena es irrevocable.
+La adopción es irrevocable.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+Procederá la nulidad de la adopción, cuando la misma se haya realizado mediante actos ilícitos, previos a la obtención de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 403.
 
-En el caso de adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los siguientes casos:
+El Registro Civil, la Procuraduría para la Defensa de los Menores y la Familia y las demás instituciones que hubieran intervenido en el proceso de adopción, se abstendrán de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes:
 
-I.- Para efectos de impedimento para contraer matrimonio;
+I.- Para efectos de impedimento para contraer matrimonio; y
 
-II.- En los demás casos previstos por la Ley.
+II.- Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; si fuere menor de edad se requerirá el consentimiento del o de los adoptantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 404.
 
-La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en un ambiente familiar a la persona menor de dieciocho años de edad.
+La adopción internacional es aquella en la que el adoptado será trasladado a un País diverso de su residencia habitual y tiene por objeto incorporar en un ambiente familiar a la persona menor de dieciocho años de edad.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+La adopción internacional se regirá por los instrumentos internacionales suscritos por el Estado Mexicano, procediendo sólo con ciudadanos que residan en países con los que nuestro país haya suscrito y ratificado un instrumento al respecto, y cuyas normas en materia de adopción y protección de menores tenga una razonable equivalencia con las mexicanas.
 
-La adopción internacional se regirá por los tratados internacionales suscritos por el Estado Mexicano, y en lo que corresponda, por las disposiciones de este Código.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 405.
 
-Las adopciones internacionales siempre serán plenas.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 406.
 
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en territorio nacional.
+
+Los extranjeros residentes en Baja California con una permanencia menor de dos años se regirán por las disposiciones sobre la adopción internacional establecida en la fracción VII del artículo 387 de este Código.
+
+Los extranjeros residentes en la entidad con una permanencia mayor a dos años, se sujetarán a las disposiciones de este Código.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -2789,13 +2871,13 @@ Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se sepa
 
 A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fracciones II y III del artículo 411, en el orden que determine el Juez de Primera Instancia de lo Familiar, tomando en cuenta las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 416.
 
-La patria potestad, sobre el hijo adoptivo, la ejercerán, en el régimen de adopción simple, únicamente las personas que lo adopten.
-
-En el régimen de la adopción plena se seguirán las reglas aplicables con respecto a los hijos consanguíneos.
+La patria potestad, sobre el hijo adoptivo, se ejercerá conforme a las reglas aplicables con respecto a los hijos consanguíneos.
 
 ###### ARTICULO 417.
 
@@ -3619,7 +3701,7 @@ Si los bienes de la persona menor de dieciocho años de edad o persona que no te
 
 ###### ARTICULO 527.
 
-El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, por no haber exigido que se caucione el manejo de la tutela.
+El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, por no haber exigido que se caucione el manejo de la tutela.
 
 ###### ARTICULO 528.
 
@@ -4169,13 +4251,13 @@ IV.- A cumplir las demás obligaciones que la Ley le señale.
 
 ###### ARTICULO 624.
 
-El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren a la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren a la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 625.
 
-Las funciones del curador cesarán cuando la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+Las funciones del curador cesarán cuando la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
 
 ###### ARTICULO 626.
 
@@ -8433,21 +8515,21 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 1499.
 
-El adoptado sujeto al régimen de la adopción simple, hereda como hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado, hereda como hijo; siguiendo las reglas aplicables a los hijos consanguíneos.
 
-En la adopción plena, se seguirán las reglas aplicables a los hijos consanguíneos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 1500.
 
-En el régimen de adopción simple, concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
-
-En el régimen de adopción plena se seguirán las reglas aplicables al parentesco por consanguinidad.
+En el régimen de adopción se seguirán las reglas aplicables al parentesco por consanguinidad.
 
 ###### ARTICULO 1501.
 
@@ -14967,7 +15049,7 @@ I.- En el caso de bienes de que fueren meros administradores los padres, por los
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador de la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho;
+II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador de la persona persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -16118,3 +16200,27 @@ P.O. 28 DE JUNIO DE 2013.
 DECRETO NÚMERO 475, POR EL QUE SE REFORMA AL ARTÍCULO 2140 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 511, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 377 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA…
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 517, POR EL QUE SE REFORMA EL ARTÍCULO 305 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO No. 512 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 55, 59, 84, 86, 154, 290, 303 BIS, 304, 308, 320 BIS, 387, 388, 392, 394, 394 BIS, 394 TER, 398, 399, 400, 402, 403, 404, 406, 416, 1499 Y 1500, LA ADICIÓN DE LOS ARTÍCULOS 303 BIS, 320 BIS, 394 BIS, 394 TER, ASÍ COMO LA DEROGACIÓN DE LOS ARTÍCULOS 87, 88, 292, 391, 400, 401 Y 405 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Primero.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
+
+Segundo.- Las adopciones realizadas, con anterioridad a la entrada en vigor del presente decreto, en la modalidad de simple, continuarán rigiéndose por las disposiciones que normaron este tipo de modalidad.
+
+Tercero.- La adopción simple podrá convertirse en plena siempre que se obtenga consentimiento del adoptado, si este ya hubiere cumplido 14 años. Si fuere persona menor de catorce años de edad, se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo, de lo contrario el Juez de lo Familiar, deberá resolver atendiendo al interés del adoptado y a la opinión que deberá emitir el Ministerio Público y de la Procuraduría para la Defensa de los Menores y la Familia, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+Cuarto.- Las solicitudes de adopción, en modalidad simple, que se encuentren en trámite a la entrada en vigor del presente decreto, deberán apegarse a las disposiciones vigentes antes de la derogación de esta forma de adopción.
