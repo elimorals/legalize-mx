@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-transparencia-y-acceso-a-la-informacion-4969
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-17"
-last_updated: "2006-02-24"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA
 
-REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA
+REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Gobierno del Estado de Puebla, el viernes 17 de febrero de 2006.
 
@@ -123,7 +125,7 @@ El Poder Legislativo procurará la capacitación y actualización de sus Servido
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO
 
-(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006) (F. DE E., P.O. 24 DE MAYO DE 2006)
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2006) (F. DE E., P.O. 24 DE MAYO DE 2006)
 
 ###### ARTÍCULO 12.
 
@@ -395,7 +397,7 @@ Las notificaciones se practicarán por lista dentro del tercer día hábil sigui
 
 Sólo se notificarán personalmente:
 
-l. Los requerimientos;
+I. Los requerimientos;
 
 II. La primera notificación que se practique a terceros;
 
@@ -433,10 +435,18 @@ SEGUNDO. La Gran Comisión del Honorable Congreso del Estado deberá proveer lo 
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-EL GOBERNADOR, hará publicar la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de febrero de dos mil seis.- Diputado Presidente.- PERlCLES OLIVARES FLORES.- Rúbrica.- Diputada Vicepresidenta.- ZENORINA GONZALEZ ORTEGA.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELlZABETH GÓMEZ CORTÉS.- Rúbrica.- Diputado Secretario.- MARlANO HERNÁNDEZ REYES.- Rúbrica.
+EL GOBERNADOR, hará publicar la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de febrero de dos mil seis.- Diputado Presidente.- PERICLES OLIVARES FLORES.- Rúbrica.- Diputada Vicepresidenta.- ZENORINA GONZALEZ ORTEGA.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS.- Rúbrica.- Diputado Secretario.- MARIANO HERNÁNDEZ REYES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE FEBRERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento para la Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado de Puebla, publicado en el Periódico Oficial del Estado el diecisiete de febrero de dos mil seis.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
