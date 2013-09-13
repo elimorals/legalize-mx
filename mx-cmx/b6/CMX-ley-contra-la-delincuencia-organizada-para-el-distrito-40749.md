@@ -4,7 +4,7 @@ identifier: "CMX-ley-contra-la-delincuencia-organizada-para-el-distrito-40749"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-15"
-last_updated: "2010-07-19"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-08-31"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO Y EL TRANSITORIO SEGUNDO DEL “DECRETO POR EL QUE SE DEROGAN, ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL; POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y SE ABROGA LA LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL DISTRITO FEDERAL”, PUBLICADO EN LA G.O. DE 13 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 30 DÍAS DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL DISTRITO FEDERAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 15 de septiembre de 2004.
 
@@ -64,7 +66,7 @@ I. Código de Procedimientos Penales: el Código de Procedimientos Penales para 
 
 II. Código Penal: el Nuevo Código Penal para el Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -76,7 +78,7 @@ V. Ley de Ejecución: la Ley de Ejecución de Sanciones Penales para el Distrito
 
 VI. Ley Orgánica: la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII. (REFORMADA [N. DE E. DEROGADA], G.O. 19 DE JULIO DE 2010)
 
@@ -306,10 +308,20 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de agosto del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 19 DE JULIO DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguiente (sic) a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente decreto entrará en vigor a los 30 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - Los procesos penales que se sigan por los tipos penales que integren delincuencia organizada y las sentencias que se hayan dictado al respecto, seguirán substanciándose hasta su culminación y se compurgarán de conformidad con los artículos 254 y 255 del Código Penal para el Distrito Federal y la Ley contra la Delincuencia Organizada para el Distrito Federal, que seguirán vigentes sólo en estos supuestos.
+
+CUARTO.- Se derogan todas las disposiciones contrarias a este Decreto.
