@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2013-06-28"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -181,6 +181,12 @@ Lo anterior sin perjuicio de las funciones indagatorias del Ministerio Público,
 
 La Procuraduría podrá solicitar de la autoridad judicial competente, la pérdida de la patria potestad de menores expósitos y abandonados en los términos previstos por las fracciones V y VI del artículo 441 del Código Civil para el Estado de Baja California.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+De igual forma, solicitará a la autoridad, la pérdida de la patria potestad, cuando en seguimiento de una adopción de un menor en los términos establecidos en el segundo párrafo del artículo 398 del Código Civil para el Estado de Baja California, detecte anomalías o el hecho de que la adopción resulto en perjuicio del menor, por las causas previstas en las fracciones III, IV, V y VI del artículo 441 del referido Código; o cuando él o los adoptantes hayan ejecutado conductas tipificadas en la legislación penal como delitos que conlleven aparejada la pérdida o suspensión de la patria potestad.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
@@ -197,6 +203,12 @@ La Procuraduría recibirá en todo momento las denuncias referidas en el párraf
 
 La Procuraduría protegerá y promoverá los derechos de los menores y procurará su equidad y seguridad jurídica en las relaciones en que por cualquier motivo participen, emitiendo los acuerdos necesarios para garantizar dicha protección; en los que deberá solicitar la calificación de la medida a la Autoridad Jurisdiccional, Ministerio Público o autoridad política del lugar que corresponda, cuando así lo prevea la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Simultáneamente al procedimiento interno que se inicie para brindar atención y protección a las personas adultas mayores en situación vulnerable, la Procuraduría además, en caso de proceder, solicitará judicialmente los alimentos a sus hijos o demás familiares que legalmente les corresponda dicha obligación.
+
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 14.
@@ -205,13 +217,21 @@ La Procuraduría, en coordinación con las autoridades federales, estatales y mu
 
 ### CAPÍTULO II. DEL RESGUARDO DE LOS MENORES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-Cuando por cualquier motivo la Procuraduría tenga conocimiento de que un menor se encuentre en estado de vulnerabilidad, deberá protegerlo y en su caso, custodiarlo o ubicarlo en un albergue temporal, casa hogar u hogar substituto, siguiendo los procedimientos previstos en la presente Ley.
+Cuando por cualquier motivo la Procuraduría tenga conocimiento de que un menor se encuentre en estado de vulnerabilidad, deberá protegerlo y en su caso, custodiarlo o ubicarlo en un albergue temporal, casa hogar, hogar sustituto y hogar voluntario, siguiendo los procedimientos previstos en la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 16.
 
-Los albergues temporales, casas hogar y hogares substitutos, deberán cumplir con los requisitos establecidos en la legislación aplicable.
+Los albergues temporales, casas hogar, hogares sustitutos, y hogares voluntarios deberán cumplir con los requisitos establecidos en la legislación aplicable.
 
 Por albergue temporal se entenderá el establecimiento dependiente de la Procuraduría, para la atención temporal del menor en situación de vulnerabilidad.
 
@@ -223,9 +243,11 @@ Los albergues temporales deberán contar con instalaciones y programas adecuados
 
 Por casa hogar se entenderá el establecimiento de asistencia privada que atiende al menor en situación de vulnerabilidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Por hogar substituto se entenderá el espacio ofrecido por una persona o familia, propuesta por la Procuraduría y autorizada por el Consejo, con fines de adopción.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Por hogar voluntario se entenderá el espacio temporal ofrecido por una persona o familia, propuesta por la Procuraduría para tener la custodia temporal de uno o más menores, bajo la estricta vigilancia de la Procuraduría, mientras esta determine la reintegración inmediata del menor a su medio familiar o, bien, la no reintegración temporal por existir condiciones nocivas para el menor.
 
 ###### ARTÍCULO 17.
 
@@ -291,21 +313,41 @@ XVIII.- Realizar las acciones necesarias para brindar atención y protección in
 
 XIX.- Gestionar en su caso, ante el Oficial del Registro Civil de los distintos ayuntamientos del estado, la elaboración del acta de nacimiento de los menores expósitos o abandonados;
 
-XX.- Solicitar a otras instancias públicas o privadas ya sean federales, estatales o municipales inclusive extranjeras, diversas peticiones, documentos, estudios sociales, valoraciones psicológicas, comparecencias documentadas de personas y demás que sean necesarias para la debida integración de los expedientes administrativos a su cargo; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+XX.- Solicitar a otras instancias públicas o privadas ya sean federales, estatales o municipales inclusive extranjeras, diversas peticiones, documentos, estudios sociales, valoraciones psicológicas, comparecencias documentadas de personas y demás que sean necesarias para la debida integración de los expedientes administrativos a su cargo;
 
-XXI.- Otorgar asesoría o representación jurídica a los adultos mayores de sesenta años de edad, que así lo soliciten, en la demanda de alimentos que establece el Código Civil del Estado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XXII. Presentar ante la autoridad competente, las solicitudes de aseguramiento de alimentos a favor del acreedor alimentario, cuando lo sea requerido, así como vigilar de manera activa el cumplimiento del derecho a una pensión alimentaria por parte del deudor alimentario; y,
+XXI.- Solicitar a la autoridad, la pérdida de la patria potestad, cuando en seguimiento de una adopción de un menor en los términos establecidos en el segundo párrafo del artículo 398 del Código Civil para el Estado de Baja California, detecte anomalías o el hecho de que la adopción resultó en perjuicio del menor, por las causas previstas en las fracciones III, IV, V y VI del artículo 441 del referido Código; o cuando él o los adoptantes hayan ejecutado conductas tipificadas en la legislación penal como delitos que conlleven aparejada la pérdida o suspensión de la patria potestad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XXII.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2013)</small>
 
-XXIII. Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
+XXIII. Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo. (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 21 BIS.- La Procuraduría, llevará a cabo el registro de las adopciones que se promuevan ante los juzgados de la Entidad, con el objeto de conservar la información correspondiente a los orígenes del menor adoptado, incluyendo la identidad de sus progenitores, su historia médica y de su familia, debiendo además, conservar los datos de identificación del proceso, incluyendo el tribunal que autorizó la adopción; así como la información correspondiente de los padres adoptivos.
+
+La información obtenida, tendrá el carácter de confidencial y, sólo será proporcionada a las autoridades, en los siguientes supuestos:
+
+I.- Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; si fuere menor de edad se requerirá el consentimiento del o de los adoptantes;
+
+II.- Para cumplir los fines del artículo 403 del Código Civil para el Estado de Baja California;
+
+Cuando sea solicitada vía oficio por las diversas autoridades administrativas competentes en el tema de adopciones, con el único fin de llevar a cabo su registro, control y estadística.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
@@ -313,23 +355,51 @@ XXIII. Las demás contempladas en otras disposiciones legales que sean aplicable
 
 El titular de la Procuraduría será el Procurador, quien para el ejercicio de sus atribuciones, funciones y despacho, se auxiliará de las siguientes áreas y servidores públicos:
 
-I.- Las Subprocuradurías;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Coordinación de Adopciones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Coordinación de Asistencia Privada;
+I. La Subprocuraduría Estatal;
 
-IV.- Coordinación de Albergues y Módulos temporales; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Coordinación de Asistencia a Acreedores Alimentarios; y,
+II. Las Subprocuradurías asignadas a cada Municipio del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Las demás que sean necesarias para el cumplimiento de sus atribuciones que señalen la presente ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-Las Áreas referidas en el presente artículo dependerán directamente del Procurador.
+III. Coordinación de Adopciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Coordinación de Asistencia Privada;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V. Coordinación de Albergues y Módulos temporales; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Las demás que sean necesarias para el cumplimiento de sus atribuciones que señalen la presente Ley y demás disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Las áreas referidas en el presente artículo dependerán directamente del Procurador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Para ocupar el cargo de cualquiera de las Coordinaciones antes señaladas, se deberán cumplir con los requisitos previstos en las fracciones I, III, IV, V, VI y VII del artículo 24 de la presente Ley.
 
@@ -387,11 +457,51 @@ XIII.- Expedir copias certificadas de sus resoluciones;
 
 XIV.- Delegar a los Subprocuradores las atribuciones que sean necesarias para correcto desempeño de sus funciones; y,
 
-XV.- Las demás que le sean encomendadas por el Director y las señaladas en otras disposiciones legales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Fe pública, para efecto de dar cumplimiento al artículo 394 BIS fracción V segundo párrafo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Las demás que le sean encomendadas por el Director y las señaladas en otras disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 25 BIS.- El Subprocurador Estatal tendrá las facultades y obligaciones siguientes:
+
+I. Constituirse como coadyuvante del Procurador en el control administrativo de las Subprocuradurías, sus Delegaciones y demás Coordinaciones de Áreas, así como del personal bajo su responsabilidad, a efecto, de supervisar y evaluar el desempeño de sus labores encomendadas;
+
+II. Informar permanentemente al Procurador las actividades realizadas, en las Subprocuradurías del Estado, sus Delegaciones y demás Coordinaciones, y que con anterioridad le hubieren sido encomendadas;
+
+III. Constituirse en un enlace de comunicación, coordinación y ejecución de acciones entre el Procurador, Subprocuradores y Coordinadores de Áreas;
+
+IV. Llevar a cabo la supervisión y evaluación permanente de los expedientes más relevantes que se integran en cada una de las Subprocuradurías del Estado y sus Delegaciones, así como definir la política en su conducción, de manera conjunta con el Subprocurador responsable del mismo; lo anterior, con apego estricto a derecho y tomando siempre en consideración el interés del menor y la familia;
+
+V. A ser informado por conducto de los Subprocuradores responsables, sobre los proyectos de determinación correspondientes a los expedientes más relevantes a cargo de la Subprocuraduría que representan, ha efecto de que su opinión o recomendación debidamente fundamentada en ley sea tomada en consideración, privilegiando siempre el interés superior del menor y la familia;
+
+VI. Supervisar y evaluar el cumplimiento de los acuerdos y compromisos asumidos entre los padres o las personas responsables del cuidado de los menores y el personal profesional de las distintas áreas que conforman cada una de las subprocuradurías y sus delegaciones, plasmados en las mismas determinaciones;
+
+VII. Brindar asesoría a los Subprocuradores, Coordinadores de Áreas y demás empleados que conforman las distintas áreas pertenecientes a las Subprocuradurías y Delegaciones en el Estado, cuando así lo considere necesario, o en su caso, se lo soliciten;
+
+VIII. Investigar de oficio o por medio de denuncia, las presuntas irregularidades cometidas por los servidores públicos adscritos a la Procuraduría en el desempeño de sus funciones, y en caso de responsabilidad, promover lo conducente;
+
+IX. Actuar en representación del Procurador cuando le sea asignada alguna comisión especial; y
+
+X. Las demás que le sean encomendadas por el Procurador y Director General del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-Operarán bajo el régimen de desconcentración, pero directamente subordinadas al Procurador, las siguientes Subprocuradurías:
+Operarán bajo el régimen de desconcentración, pero directamente subordinadas al Procurador, las siguientes Subprocuradurías y Delegaciones:
 
 I.- Subprocuraduría para la Defensa del Menor y la Familia en Mexicali, que comprenderá el Municipio de Mexicali;
 
@@ -403,25 +513,57 @@ IV.- Subprocuraduría para la Defensa del Menor y la Familia en Ensenada, que co
 
 V.- Subprocuraduría para la Defensa del Menor y la Familia en Playas de Rosarito, que comprenderá el Municipio de Playas de Rosarito.
 
-De conformidad a las necesidades del servicio, el Director a propuesta del Procurador podrá establecer delegaciones de la Procuraduría en poblaciones de la entidad donde se requieran, de acuerdo a las disponibilidades presupuestales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Delegación de la Subprocuraduría para la Defensa del Menor y la Familia en el Poblado de San Felipe, perteneciente al Municipio de Mexicali;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Delegación de la Subprocuraduría para la Defensa del Menor y la Familia en el Poblado de San Quintín, perteneciente al Municipio de Ensenada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+De conformidad a las necesidades del servicio, el Director a propuesta del Procurador podrá establecer otras delegaciones de la Procuraduría en poblaciones de la entidad donde se requieran, de acuerdo a las disponibilidades presupuestales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Por cada Subprocuraduría, habrá un Subprocurador que tendrá las siguientes atribuciones:
+Por cada Subprocuraduría Municipal, habrá un Subprocurador que tendrá las siguientes atribuciones:
 
 I.- Representar al Procurador en el Municipio de adscripción;
 
 II.- Auxiliar al Procurador en las funciones que le sean conferidas;
 
-III.- Acordar con el Procurador los asuntos relacionados con la Subprocuraduría de su adscripción y los demás asuntos que éste le encomiende;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Someter a la aprobación del Procurador, los estudios y proyectos de trascendencia que se elaboren en el área de su responsabilidad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Acordar con el Procurador los asuntos relacionados con la Subprocuraduría de su adscripción y los demás asuntos que esté les encomiende personalmente o por conducto del Subprocurador Estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Someter a la aprobación del Procurador directamente o por conducto del Subprocurador Estatal, los estudios y proyectos de trascendencia que se elaboren en el área de su responsabilidad;
 
 V.- Conceder audiencias al público que lo solicite para tratar asuntos del área de su competencia;
 
 VI.- Informar mensualmente al Procurador de los asuntos de su competencia;
 
-VII.- Mantener informado al Procurador del Estado que guardan los asuntos que por su importancia y trascendencia requieran de su atención personal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Mantener informado al Procurador del estado que guardan los asuntos que por su importancia y trascendencia requieran de su atención personal; pudiéndolo hacer a través del Subprocurador Estatal; y,
 
 VIII.- Transmitir al personal a su cargo, las instrucciones generales y especiales para el cumplimiento de sus atribuciones y funciones; y,
 
@@ -539,9 +681,67 @@ IV.- Dar seguimiento a los solicitantes de adopción presentados en la Procuradu
 
 V.- Vigilar la debida integración de los expedientes de los solicitantes de adopción;
 
-VI.- Proponer al Procurador aquellos expedientes de solicitantes de adopción que se encuentren completos y debidamente integrados para ser considerados por el Consejo; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Las demás que le sean encomendadas legalmente por el Procurador, o en su caso, le señalen las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Proponer al Procurador aquellos expedientes de solicitantes de adopción que se encuentren completos y debidamente integrados para ser considerados por el Consejo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Promover ante el Sistema Nacional para el Desarrollo Integral de la Familia, así como los Sistemas Estatales para el Desarrollo Integral de la Familia, la recepción de menores bajo la disposición del Sistema, y que por su situación especial resulta difícil colocarlo en hogar sustituto con personas residentes de esta entidad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Recibir las solicitudes de ciudadanos nacionales residentes en otras entidades federativas del país; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Las demás que le sean encomendadas legalmente por el Procurador, o en su caso, le señalen las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 35 BIS.- La Coordinación de Adopciones, del Sistema, será el área encargada de dar trámite y seguimiento a las solicitudes de adopción que se reciban del Sistema Nacional para el Desarrollo Integral de la Familia o la Consultoría Jurídica de la Secretaría de Relaciones Exteriores, provenientes de las autoridades centrales designadas por los países que han ratificado la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional.
+
+La Coordinación de Adopciones, también se encargará de mantener contacto permanente e intercambio de información y documentación con dichas autoridades centrales, antes de iniciar los trámites legales de adopción, durante su seguimiento ante el Juez de conocimiento, y hasta que concluya la aplicación de la Convención, en los términos establecidos en la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 35 TER.- La Coordinación de Adopciones en el cumplimiento de sus funciones deberá cumplir con las siguientes directrices:
+
+I.- Agotar el principio de subsidiaridad, al constatar que, después de examinar adecuadamente las posibilidades de colocación del menor en el país, la adopción internacional responde al interés superior del propio menor;
+
+II.- Cerciorarse de que no existe o habrá contacto alguno entre los futuros padres adoptivos y los padres del menor u otras personas que tengan la guarda de este, hasta que se hayan cumplido las condiciones del artículo 387 fracción VII, incisos a) al e) del Código Civil para el Estado de Baja California, salvo cuando la adopción del menor tenga lugar entre familiares;
+
+III.- Gestionar el informe de compatibilidad de la adopción que expedirá el Procurador, relativo a un menor adoptado por ciudadanos extranjeros radicados en otro país, bajo los términos establecidos en el artículo 16 de la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional;
+
+IV.- Cerciorarse que el Sistema, por conducto de la Procuraduría, en su carácter de Autoridad Central en la aplicación de la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, sólo podrá confiar al menor a los futuros padres adoptivos si se ha corroborado por lo menos de lo siguiente:
+
+a).- Se ha asegurado de que los futuros padres adoptivos han manifestado su acuerdo con la adopción que se intenta;
+
+b).- Que la Autoridad Central del Estado de Recepción de los solicitantes radicados en el extranjero, ha aprobado la decisión anterior;
+
+c).- Que el Sistema, y la Autoridad Central del Estado de recepción, están de acuerdo en que la autoridad judicial de esta Entidad Federativa y del país continúen con el procedimiento de adopción;
+
+d).- Se ha constatado que los futuros padres adoptivos son adecuados y aptos para adoptar y que el menor ha sido o será autorizado para entrar V residir permanentemente en el Estado de Recepción de los solicitantes radicados en el extranjero,
+
+V.- Que la adopción que se promueve, obedece al interés superior del propio menor,
+
+VI.- Tomar las medidas necesarias para que el menor adoptado, reciba la autorización de salida del país, así como la entrada y residencia en el estado de recepción; esto último con la cooperación de la Autoridad Central del país de origen de los adoptantes residentes en el extranjero;
+
+VII.- Prohibir el desplazamiento del menor adoptado al país de origen de los solicitantes, si no se han observado las exigencias anteriores, debiéndose además asegurar que su desplazamiento se realizará con toda seguridad, en condiciones adecuadas y, siempre en compañía de los padres adoptivos;
+
+VIII.- Recibir las solicitudes de ciudadanos nacionales residentes en otras entidades federativas del país.
 
 ###### ARTÍCULO 36.
 
@@ -649,9 +849,27 @@ Aunado a lo anterior, la Procuraduría llevará a cabo las diligencias y actuaci
 
 Una vez que todas las áreas de la Procuraduría hayan realizado sus investigaciones, estudios, pruebas, dictámenes y en general todas las diligencias necesarias, la Procuraduría recomendará a la autoridad que tenga bajo su disposición al menor, la reintegración inmediata del menor a su medio familiar o, bien, la no reintegración temporal por existir condiciones nocivas para el menor.
 
-En el último supuesto a que se refiere el párrafo anterior, la Procuraduría recomendará también el cumplimiento de un Plan Social y su duración, así como la ubicación del menor en una institución pública o privada con la finalidad de que reciba las atenciones e instrucciones adecuadas a su edad y nivel de madurez, en tanto la autoridad competente determine su reintegración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+En el último supuesto a que se refiere el párrafo anterior, la Procuraduría recomendará también el cumplimiento de un Plan Social y su duración, así como la ubicación del menor en una institución pública, privada u hogar voluntario con la finalidad de que reciba las atenciones e instrucciones adecuadas a su edad y nivel de madurez, en tanto, la autoridad competente determine su reintegración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El tiempo que en (sic) el menor deba estar ubicado en las instalaciones señaladas en el párrafo anterior, será determinado, con base a las consideraciones individuales de cada caso, por la autoridad competente a propuesta de la Procuraduría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Si la autoridad competente aplica las medidas a que se refiere el párrafo anterior, la Procuraduría vigilará sobre su cumplimiento; y de persistir las condiciones nocivas para el menor en su entorno familiar, solicitará se resuelva sobre la custodia del menor a la Autoridad Jurisdiccional, y se de vista a la Representación Social, a efecto de que se inicien las gestiones necesarias para determinar su situación jurídica definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Si de las investigaciones realizadas por la Procuraduría, no se consideró necesaria la separación preventiva de algún menor, pero a su juicio existen indicios de la posible comisión de algún delito, se hará del conocimiento inmediato del Ministerio Público.
 
@@ -854,3 +1072,9 @@ SEGUNDO.- Se concede un plazo de 60 días, a partir de la entrada en vigor del p
 P.O. 28 DE JUNIO DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+Primero.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
+
+Segundo.- El Poder Ejecutivo del Estado, deberá publicar las disposiciones reglamentarias para el cumplimiento de las presentes reformas dentro de los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
