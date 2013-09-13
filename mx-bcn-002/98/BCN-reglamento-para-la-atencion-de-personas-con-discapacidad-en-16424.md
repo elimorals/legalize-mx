@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-atencion-de-personas-con-discapacidad-en-164
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-18"
-last_updated: "2002-12-27"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA ATENCION DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA ATENCION DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de febrero de 2000.
 
@@ -53,15 +53,27 @@ REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEX
 
 El presente Reglamento tiene por objeto normar las políticas y acciones de competencia municipal, que contribuyan al desarrollo integral de las personas con discapacidad en el Municipio de Mexicali, Baja California.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-Para los efectos de este reglamento se entiende por:
+Para los efectos de éste reglamento se entiende por:
 
-I.- Discapacidad.- Restricción o pérdida temporal o permanente, de la habilidad para desarrollar una actividad en la forma o dentro del margen considerado como normal para un ser humano;
+I.- Discapacidad.- Toda restricción o ausencia (debido a una deficiencia) de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales;
 
-II.- Ayudas técnicas.- Aquellos dispositivos tecnológicos que ayudan a la movilidad, comunicación y vida cotidiana de las personas con discapacidad;
+II.- Discapacidad Auditiva.- La originada por una deficiencia sensorial congénita o adquirida, caracterizada por la pérdida severa de la capacidad de percepción de las formas acústicas, producida ya sea por una alteración del órgano de la audición o bien de la vía auditiva, y que por la carencia de la agudeza auditiva se limita o impide la comunicación oral;
 
-III.- Barreras físicas.- Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, exteriores, interiores o el uso de servicios comunitarios.
+III.- Discapacidad Mental.- A la presencia de un desarrollo mental detenido o incompleto, derivado de lesiones o deficiencias en los procesos cerebrales, adquiridos de forma prenatal, perinatal, natal o posnatal, que afectan a nivel global la inteligencia, las funciones cognitivas, las del lenguaje, las motrices y la socialización, incluidos los trastornos del neurodesarrollo;
+
+IV.- Discapacidad Motriz.- Al Conjunto de alteraciones y deficiencias congénitas o adquiridas, que en distintos grados, afectan la ejecución y control de movimientos, la postura del cuerpo y la motricidad en general de la persona, independientemente de la causa o hecho desencadenante;
+
+V.- Discapacidad Múltiple.- A la presencia de dos o más discapacidades en una persona;
+
+VI.- Discapacidad Visual.- A la derivada de una deficiencia sensorial del sentido de la vista, que se caracteriza por la carencia o disminución de la agudeza o campo visual, cuando esto represente una barrera insuperable, la cual impacte o restrinja la capacidad para realizar una actividad o función necesaria dentro del rol normal de la persona
+
+VII.- Ayudas técnicas.-Aquellos dispositivos tecnológicos que ayudan a la movilidad, comunicación y vida cotidiana de las personas con discapacidad;
+
+VIII.- Barreras físicas.-Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, exteriores, interiores o el uso de servicios comunitarios.
 
 ###### Artículo 3.
 
@@ -69,13 +81,17 @@ Corresponde a las dependencias y entidades de la Administración Pública Munici
 
 El Presidente Municipal vigilará que las dependencias y entidades competentes, apliquen las disposiciones del presente Reglamento e impongan las sanciones que procedan por la comisión de infracciones a las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 4.
 
-Es competencia municipal en materia de desarrollo integral de personas con discapacidad, promover, impulsar y ejecutar para éstas:
+Es obligación municipal en materia de desarrollo integral de personas con discapacidad, promover, impulsar y ejecutar para éstas:
 
 I.- La expedición de los medios de identificación que requieran para aprovechar las facilidades y beneficios que les concede éste y otros ordenamientos;
 
-II.- La difusión y el respeto a sus derechos, así como el fomento de programas para la aplicación de las disposiciones legales que los contemplan;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II.- La difusión y el respeto a sus derechos, así como la creación e institucionalización de programas para aplicación de las disposiciones legales que los contemplan;
 
 III.- El desarrollo de programas de asistencia social que promuevan su integración social;
 
@@ -89,7 +105,9 @@ VII.- Los servicios de turismo;
 
 VIII.- La construcción de vivienda; y,
 
-IX.- El fomento de actividades deportivas, recreativas y culturales.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Institucionalizar la creación de programas deportivos, recreativos y culturales.
 
 ### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE PERSONAS CON DISCAPACIDAD EN LA PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
@@ -103,9 +121,11 @@ Las normas relativas a la integración, organización y funcionamiento de la Com
 
 ### CAPÍTULO TERCERO. DE LOS MEDIOS DE IDENTIFICACIÓN PARA LAS PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-El departamento de Servicios Médicos Municipales, expedirá los medios de identificación para las personas con discapacidad que los requieran.
+El Departamento de Servicios Médicos Municipales, expedirá los medios de identificación para las personas con discapacidad que los requieran, a través de las oficinas o módulos habilitados para dicho fin en diversos puntos de la localidad.
 
 Los medios de identificación serán de dos tipos:
 
@@ -121,9 +141,11 @@ La credencial servirá para que la persona con discapacidad pueda acreditar su c
 
 El gobierno municipal promoverá con los demás órdenes de gobierno, empresas e instituciones, que la credencial expedida por el departamento de Servicios Médicos Municipales, sea el medio de identificación suficiente para el otorgamiento de beneficios a personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 10.
 
-La credencial municipal para personas con discapacidad y la tarjeta para vehículo, permanecerán vigentes por el año en que se expidan.
+La credencial municipal para personas con discapacidad y la tarjeta para vehículo, permanecerán vigentes por tres años en caso de discapacidad permanente y por un año en caso de discapacidad temporal.
 
 ###### Artículo 11.
 
@@ -131,11 +153,15 @@ Los requisitos que deberán cumplir las personas con discapacidad para obtener l
 
 I.- Mostrar una identificación con fotografía si se trata de adultos. En el caso de menores, deberán presentarse con sus padres o tutores a realizar el trámite;
 
-II.- Presentar resumen clínico expedido por el médico tratante, o exámenes que demuestren las alteraciones que originen la discapacidad, sólo cuando ésta no sea evidente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Presentar resumen clínico expedido por el médico tratante especificando si es permanente o temporal, o exámenes que demuestren las alteraciones que originen la discapacidad, solo cuando ésta no sea evidente;
 
 III.- Presentarse el solicitante en las oficinas que indique el departamento de Servicios Médicos Municipales, a fin de someterse a exámen médico para la emisión del certificado correspondiente, así como para tomarle la fotografía necesaria para la credencial;
 
-IV.- Realizar el pago de los derechos que indique la Ley de Ingresos Municipal; y,
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Éste trámite será gratuito para los solicitantes con discapacidad permanente. Sólo se aplicará el pago de derechos a los solicitantes con discapacidad temporal, según lo indique la Ley de Ingresos Municipal; y,
 
 V.- En el caso de que se solicite tarjeta para vehículo, deberá presentarse original y copia de la tarjeta de circulación de vehículo en el que habitualmente se transporte la persona con discapacidad.
 
@@ -173,11 +199,11 @@ III.- Desarrollar programas de asistencia social para personas con discapacidad,
 
 Las autoridades municipales responsables del otorgamiento de autorizaciones de acciones de urbanización y licencias de construcción, vigilarán que las edificaciones o modificaciones que a éstas se realicen en el Municipio de Mexicali, contemplen de ser procedente, facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 16.
 
-La autoridad municipal responsable de autorizar el desarrollo de fraccionamientos habitacionales, promoverá que en éstos se incluya la construcción de vivienda digna para personas con discapacidad, la que deberá cumplir con las normas técnicas en su infraestructura interior y exterior, para el acceso y libre desplazamiento.
-
-Asimismo, desarrollará programas para facilitar el otorgamiento de autorizaciones a la adaptación de viviendas en que habiten personas con discapacidad.
+La Dirección de Administración Urbana, será la responsable de autorizar y regular el desarrollo de fraccionamientos, con facilidades urbanísticas y arquitectónicas acordes a las necesidades de las personas con discapacidad o que incluyan en éstos la construcción de vivienda digna para personas con discapacidad, la que deberá cumplir con las normas técnicas en su infraestructura interior y exterior, para el acceso y libre desplazamiento.
 
 ###### Artículo 17.
 
@@ -187,7 +213,9 @@ Las dependencias y entidades de la Administración Pública Municipal, responsab
 
 En los auditorios, cines, teatros, salas de conciertos y de conferencias, centros recreativos, deportivos y en general cualquier recinto en el que se presenten espectáculos públicos, los administradores u organizadores deberán establecer accesos y espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios.
 
-La inobservancia de lo previsto en este artículo será sancionada con multa de veinte a cuarenta días de salario mínimo general vigente en el Municipio, por los inspectores de la Secretaría del Ayuntamiento.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+La inobservancia de lo previsto en éste artículo será sancionada con multa de cien a ciento veinte días de salario mínimo general vigente en el Municipio, por los inspectores de la Secretaría del Ayuntamiento.
 
 ### CAPÍTULO SEXTO. TRANSPORTE PÚBLICO Y VIALIDAD
 
@@ -201,7 +229,9 @@ Los concesionarios del servicio de transporte colectivo de pasajeros, deberán r
 
 Los asientos destinados para tal fin, deberán contar con el emblema autorizado que los identifique, y podrán utilizarse por cualquier persona, en tanto no sean requeridos por alguna discapacidad.
 
-La infracción a lo previsto por este artículo, será sancionada con multa de cinco a doce días de salario mínimo general vigente en el Municipio, por la autoridad correspondiente del Sistema Municipal del Transporte.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+La infracción a lo previsto por éste artículo será sancionada con multa de treinta a cuarenta y cinco días de salario mínimo general vigente en el municipio, por la autoridad correspondiente del Sistema Municipal del Transporte.
 
 ###### Artículo 21.
 
@@ -245,9 +275,13 @@ II.- Procurar que la biblioteca a cargo del gobierno municipal que se determine,
 
 III.- Desarrollar programas tendientes a estimular la práctica deportiva para las personas con discapacidad;
 
-IV.- Promover la ejecución de programas que fomenten el desarrollo cultural de las personas con discapacidad.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Fomentar programas y actividades de recreación y esparcimiento para personas con discapacidad;
+IV.- Promover la ejecución de programas que fomenten el desarrollo cultural de niños, jóvenes, adultos y adultos mayores con discapacidad;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Fomentar programas y actividades de recreación y esparcimiento, asesoría, orientación y apoyo psicológico para personas con discapacidad en los Centros de Desarrollo Humano;
 
 VI.- Desarrollar programas para que los jóvenes con discapacidad, obtengan su Cartilla del Servicio Militar Nacional; y,
 
@@ -256,6 +290,114 @@ VII.- Establecer facilidades para que en los actos cívicos que organice el gobi
 ###### Artículo 25.
 
 La autoridad municipal competente para otorgar permisos para el ejercicio del comercio en la vía pública, preferirá y otorgará las facilidades que procedan, cuando los solicitantes sean personas con discapacidad, concediéndoles en su caso, los apoyos necesarios para el pago de los derechos respectivos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO NOVENO. DEL CONSEJO CONSULTIVO MUNICIPAL POR LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 26.
+
+Se crea el Consejo Consultivo por los Derechos de las Personas con Discapacidad, en adelante el Consejo, como instrumento de coordinación entre el Gobierno Municipal y las Organizaciones de la Sociedad Civil Especializadas en la materia, de carácter técnico consultivo, honorario y que tiene por objeto contribuir al establecimiento de una Política Municipal en la materia, así como coadyuvar en la planeación, promoción, vigilancia y evaluación de las acciones, estrategias y programas encaminados a la atención, integración y desarrollo de las personas con discapacidad.
+
+El Consejo estará adscrito a la Dirección de Desarrollo Social Municipal.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 27.
+
+Las funciones de El Consejo serán las siguientes:
+
+I.- Hacer una amplia promoción de los principios, normas jurídicas y las acciones de gobierno, que tengan como objetivo proteger, promover y asegurar los derechos de las personas con discapacidad;
+
+II.- Hacer recomendaciones, propuestas y solicitudes que redunden en beneficio de las personas con discapacidad, en relación con los planes y programas de gobierno destinados a ejecutarse en el municipio de Mexicali;
+
+III.- Promover la compilación de estudios, análisis y todo tipo de material, ya sea impreso o grabado por cualquier medio, referente a las personas con discapacidad, así como la elaboración y difusión de todo tipo de información relacionada con este tipo de ciudadanos;
+
+IV.- Asegurar que la partida asignada en el Presupuesto de Egresos del Ayuntamiento sea la suficiente y necesaria para la contratación de la plantilla de personas con discapacidad y la ejecución de los programas en las diversas dependencias relativos a la atención de las mismas; y,
+
+V.- Verificar el cumplimiento de los programas que contribuyan al desarrollo integral de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 28.
+
+El Consejo estará integrado por:
+
+I.- El Presidente Municipal o la persona que designe;
+
+II.- Director de Desarrollo Social Municipal;
+
+III.- El Regidor Coordinador de la Comisión de Educación, Cultura y Asuntos Indígenas;
+
+IV.- El Regidor Coordinador de la Comisión de Desarrollo y Asistencia Social;
+
+Presidirá el Consejo el Presidente Municipal o la persona que éste designe quien, necesariamente, será una de las personas con discapacidad, a las que se refiere el presente ordenamiento.
+
+V.- Cinco representantes de Organizaciones de la Sociedad Civil cuyo objeto sea la atención de personas con discapacidad, los cuales tienen que ser representantes de las distintas discapacidades que la ley estatal reconoce, y serán elegidos mediante votación de acuerdo a la convocatoria que la Dirección de Desarrollo Social Municipal expida para tal efecto, cuyo cargo tendrá una duración de tres años con la posibilidad de ser ratificados por otro periodo igual.
+
+VI.- El Director o representante del DIF Municipal o bien, la Coordinadora de Atención a Personas con Discapacidad del XX Ayuntamiento de Mexicali.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 29.
+
+El Representante ante el Consejo Consultivo Estatal será designado mediante votación nominal directa de todos los miembros del Consejo, de una tema propuesta por el Presidente Municipal integrada por los cinco Consejeros representantes de las Organizaciones de la Sociedad Civil.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 30.
+
+El cargo de integrante del Consejo es honorífico, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 31.
+
+Los integrantes del Consejo cuentan con voz y voto en las resoluciones o acuerdos que el mismo emita.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 32.
+
+Los acuerdos del Consejo se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente del Consejo voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 33.
+
+Para la validez de las reuniones se requerirá la asistencia de por lo menos la mitad mas uno del total de los miembros del Consejo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 34.
+
+El Consejo sesionará en pleno, en forma ordinaria trimestralmente cuatro veces por año, y podrá hacerlo en sesiones extraordinarias cuantas veces sea necesario, debiendo ser convocado por su presidente, o en su caso, por una tercera parte de sus consejeros.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 35.
+
+Los representantes de la Sociedad Civil a los que se refiere el Artículo 28 fracción V, durarán en el cargo tres años y serán reemplazados o ratificados, por una vez, por Acuerdo de las Comisiones Conjuntas de Regidores a que alude el Artículo 28, en el mes de mayo del segundo año del periodo constitucional del gobierno municipal.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 36.
+
+El nombramiento de los Representantes de las Organizaciones de la Sociedad Civil ante el Consejo, se realizará conforme al siguiente procedimiento:
+
+I.- El Ayuntamiento, por conducto de la Dirección de Desarrollo Social Municipal, emitirá y publicará en uno de los diarios de mayor circulación de la ciudad, la convocatoria para la elección de Representantes, en las que se establecerán las bases y requisitos para su nombramiento.
+
+II.- Los interesados tendrán un plazo de diez días hábiles contados a partir de la fecha de publicación de la convocatoria, para presentar sus solicitudes ante la Dirección de Desarrollo Social Municipal, acompañando a éstas la documentación con la cual acrediten los requisitos señalados en la convocatoria;
+
+III.- Transcurrido el plazo para la presentación de solicitudes, éstas serán enviadas, para su análisis, a las Comisiones Conjuntas de Educación, Cultura y Asuntos Indígenas y de Desarrollo y Asistencia Social, dentro de un plazo no mayor de tres días.
+
+IV.- Las solicitudes deberán ser analizadas y resueltas por las Comisiones Conjuntas a que alude este artículo en un plazo que no deberá exceder de cinco días hábiles, a partir de la fecha de su recepción.
+
+V.- Una vez analizadas y validadas las propuestas conforme a los requisitos establecidos, la Comisión de Desarrollo y Asistencia Social convocará a los representantes legales de las Organizaciones de la Sociedad Civil de y para personas con discapacidad a fin de que conozcan las propuestas y emitan su voto nominal directo para elegir a sus representantes en el Consejo. Una vez electos, la Comisión de Desarrollo y Asistencia Social propondrá a
+
+Cabildo, para su aprobación, la lista de los que las Organizaciones de la Sociedad Civil consideraron deben de fungir como sus Representantes ante el Consejo. Una vez aprobada la lista por cabildo, se procederá a la toma de protesta de los seleccionados.
 
 T R A N S I T O R I O S
 
@@ -269,8 +411,18 @@ LIC. MARIO LUIS CORRAL CALIGARIS
 
 SECRETARIO DEL AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE DICIEMBRE DE 2002.
 
 UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro del plazo de treinta días a partir de la publicación de las presentes reformas, la Dirección de Desarrollo Social Municipal deberá emitir y publicar la convocatoria para la designación de las personas que fungirán como representantes de las Organizaciones de la Sociedad Civil a que se refiere la fracción V del Artículo 28 del presente ordenamiento.
+
+TERCERO.- Gírense instrucciones a la Secretaría de éste XX Ayuntamiento de Mexicali, a fin de que sean publicadas las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- Gírense instrucciones a las dependencias involucradas en el presente Reglamento para que establezcan, en el Presupuesto de Egresos del ejercicio presupuestal inmediato siguiente a la publicación del mismo, las necesidades presupuestales en los programas respectivos para dar cumplimiento a las atribuciones y obligaciones previstas en tal ordenamiento normativo; con base a planes y programas anuales, que deberán ser contemplados en el Presupuesto de Egresos próximo a la fecha de aprobación de dicho Reglamento.
