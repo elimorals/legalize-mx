@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-el-desarrollo-y-proteccion-social-de-los-89769"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2012-10-05"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN SOCIAL DE LOS PERIODISTAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2012.
 
@@ -197,13 +197,13 @@ El Fondo de Apoyo para la Protección Social de los Periodistas de Baja Californ
 
 I.- Créditos para la adquisición de bienes o elementos personales de trabajo, vinculados al desarrollo profesional de los periodistas de Baja california;
 
-II.- Préstamos personales para adquisición de vehículos nuevos o usados;
+II.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 III.- Créditos para la compra de materiales de construcción;
 
 IV.- Préstamos quirografarios para la atención de necesidades urgentes de la vida diaria; y
 
-V.- Créditos para servicios turísticos y de recreación familiar.
+V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 ###### Artículo 20.
 
@@ -360,3 +360,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
