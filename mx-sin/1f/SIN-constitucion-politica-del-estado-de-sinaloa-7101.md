@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2012-12-19"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -38,6 +38,12 @@ CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 QUE REFORMA LA DE 25 DE AGOSTO DE 1917.
 
 ## TITULO I. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Art. 1°.
+
+El Estado de Sinaloa, como parte integrante de los Estados Unidos Mexicanos, se constituye en un Estado democrático de derecho, cuyo fundamento y objetivo último es la protección de la dignidad humana y de los derechos humanos.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -56,6 +62,14 @@ El territorio del Estado de Sinaloa es el que posee actualmente y el que por tod
 En el Estado de Sinaloa toda persona es titular de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución, así como de los previstos en los instrumentos internacionales incorporados al orden jurídico mexicano. Su ejercicio implica deberes correlativos de respeto a los derechos de los demás y de solidaridad hacia la familia, los más desfavorecidos y la sociedad.
 
 Los derechos humanos tienen eficacia directa y vinculan a todos los poderes públicos. Serán regulados por ley orgánica, la cual respetará en todo tiempo su contenido esencial y su progresividad.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -91,11 +105,23 @@ XIII. Los niños son titulares de derechos y no sólo objeto de protección. En 
 
 Art. 4° Bis B. El Estado tomará las medidas correspondientes a efecto de dar cumplimiento a los siguientes derechos y deberes:
 
-l. Todas las personas tienen derecho a la alimentación a fin de poder desarrollarse plenamente y conservar sus capacidades físicas y mentales, sin que padezcan hambre y malnutrición. La ley determinará las medidas necesarias para remover los obstáculos en el logro de este fin y propiciar el altruismo para con los menos favorecidos.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-II. Toda persona tiene derecho de acceder al agua segura en cantidades suficientes para su consumo personal y uso doméstico en condiciones de igualdad y sin discriminación de ningún tipo, a fin de no poner en riesgo su supervivencia. La ley determinará las actividades a realizar para el logro progresivo de este derecho.
+I. Todas las personas tienen derecho a una alimentación nutritiva, suficiente y de calidad a fin de poder desarrollarse plenamente y conservar sus capacidades físicas y mentales, sin que padezcan hambre y malnutrición.
 
-III. Toda persona tiene derecho a gozar de un medio ambiente saludable. La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
+La ley determinará las medidas necesarias para remover los obstáculos en el logro de este fin y propiciar el altruismo para con los menos favorecidos.
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II. Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible en condiciones de igualdad y sin discriminación de ningún tipo, a fin de no poner en riesgo su supervivencia.
+
+La ley determinará las actividades a realizar para el logro progresivo de este derecho.
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+III. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar.
+
+La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
 
 IV. Los habitantes en el Estado tienen el derecho a disfrutar una vida libre de violencia. La ley establecerá las bases de la actuación de las autoridades para prevenirla y atender a las personas que sufran de ella, así como generar una cultura que permita eliminar las causas y patrones que la generan, poniendo especial atención en la erradicación de la violencia intrafamiliar.
 
@@ -117,7 +143,9 @@ VIII. El Estado adoptará las medidas especiales de carácter temporal encaminad
 
 Art. 4° Bis C. Los derechos humanos a los que hace alusión esta Constitución se interpretarán de acuerdo con los siguientes principios:
 
-I. Los derechos humanos deben interpretarse evitando la contradicción con el texto constitucional y propiciando el sentido que le sea más favorable.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+l. Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
 II. Su sentido se determinará de conformidad con los instrumentos internacionales incorporados al orden jurídico mexicano aplicables y atendiendo los criterios de los organismos internacionales de protección de los derechos humanos reconocidos por el Estado mexicano, especialmente de la Corte Interamericana de Derechos Humanos.
 
@@ -125,7 +153,7 @@ III. Cuando resulten aplicables o en conflicto dos o más derechos humanos, se h
 
 IV. Las únicas limitaciones admisibles son las previstas en el texto constitucional, mismas que deberán ser interpretadas restrictivamente.
 
-V. Se deberá optar por el sentido más favorable a la persona y atendiendo a su progresividad.
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 VI. El interés superior del niño deberá tener consideración primordial por parte de los tribunales, autoridades administrativas u órganos legislativos, así como en todas las medidas que tomen las instituciones públicas o privadas de bienestar social. Dicho deber implica que el desarrollo del niño y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas y la aplicación de éstas en todos los órdenes relativos a la vida del niño.
 
@@ -747,7 +775,13 @@ XXXIII. Expedir las leyes que fueren necesarias para hacer efectivas las faculta
 
 XXXIII Bis. Para expedir leyes que regulen actividades relativas a la prestación de servicios inmobiliarios.
 
-XXXIV. Todas las demás facultades que las leyes le otorguen.
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XXXIV. Citar a comparecer a la autoridad o servidor público que se hubieren negado a aceptar o cumplir una recomendación de la Comisión Estatal de Derechos Humanos, para el efecto de que expliquen el motivo de su negativa.
+
+Lo anterior, a solicitud del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno.
+
+XXXV. Todas las demás facultades que las leyes le otorguen.
 
 ###### Art. 44.
 
@@ -1033,7 +1067,7 @@ II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombrami
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas;
+III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas.;
 
 IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, y pedir al mismo la prórroga del período de sesiones por el tiempo que estime necesario.
 
@@ -1185,7 +1219,9 @@ La seguridad pública es una función a cargo del Estado y los Municipios, en la
 
 La seguridad pública tiene como fines salvaguardar la integridad, bienes y derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
 
-Las autoridades competentes alcanzarán los fines de la seguridad pública mediante la prevención, persecución y sanción de las infracciones y delitos, así como a través de la readaptación social de los delincuentes y el tratamiento de menores infractores.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Las autoridades competentes alcanzarán los fines de la seguridad pública mediante la prevención, persecución y sanción de las infracciones y delitos, así como a través de la reinserción social de los delincuentes y el tratamiento de menores infractores.
 
 Las instituciones encargadas de la seguridad pública regirán su actuación por los principios de legalidad, protección social, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
@@ -1201,19 +1237,27 @@ La coordinación entre las instituciones de seguridad pública estatales y munic
 
 La Ley establecerá las bases de organización, funcionamiento y procedimientos de las Policías Preventivas. Asimismo, señalará los requisitos para ser titular e integrante de éstas.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 75.
 
-La readaptación social de delincuentes y el tratamiento de menores infractores, estarán a cargo del Poder Ejecutivo Estatal.
+La reinserción social de delincuentes y el tratamiento de menores infractores, estarán a cargo del Poder Ejecutivo Estatal.
 
-El sistema de readaptación social de delincuentes se establecerá en los términos que señale la Ley, sobre la base de la educación, el trabajo y la capacitación para el mismo.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El sistema de reinserción social se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la Ley de Ejecución de Sanciones Penales. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
 El tratamiento de menores infractores se basará en la protección del interés superior del menor, preferentemente a través de medidas de contenido educativo y sociopedagógico, en los términos que señale la Ley.
 
-Para lograr la reintegración social de los delincuentes y menores infractores, el Poder Ejecutivo creará los organismos públicos necesarios, procurando la participación de los sectores social y privado.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-La Ley precisará los requisitos para ser titular e integrante de los centros e instituciones encargadas de la readaptación social y del tratamiento de menores infractores.
+Para lograr la reinserción social de los delincuentes y menores infractores, el Poder Ejecutivo creará los organismos públicos necesarios, procurando la participación de los sectores social y privado.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+La Ley precisará los requisitos para ser titular e integrante de los centros e instituciones encargadas de la reinserción social y del tratamiento de menores infractores.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
@@ -1253,17 +1297,21 @@ El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o com
 
 #### SECCION II BIS. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2001)</small>
+(NOTA: EL 29 DE JUNIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE JUNIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 77 Bis.
 
-Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa violatorias de los derechos humanos, provenientes de cualquier autoridad o servidor público del estado o los municipios, con excepción de los del Poder Judicial del Estado, se establece un organismo denominado Comisión Estatal de los Derechos Humanos, con carácter autónomo, personalidad jurídica y patrimonio propio, que tendrá por objeto la protección, observación, promoción, estudio y divulgación de los derechos humanos previstos en nuestro orden jurídico vigente.
+Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa violatorias de los derechos humanos, provenientes de cualquier autoridad o servidor público del estado o los municipios, CON EXCEPCIÓN DE LOS DEL PODER JUDICIAL DEL ESTADO, se establece un organismo denominado Comisión Estatal de los Derechos Humanos, con carácter autónomo, personalidad jurídica y patrimonio propio, que tendrá por objeto la defensa, protección, observación, promoción, estudio y divulgación de los derechos humanos previstos en nuestro orden jurídico vigente.
 
-Este organismo formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+Este organismo formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-La Comisión Estatal de los Derechos Humanos, tendrá un Consejo Consultivo integrado por diez Consejeros, que serán elegidos por el voto de las dos terceras partes de los integrantes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Cada dos años serán sustituidos los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+Todo servidor público está obligado a responder las recomendaciones que emita la Comisión Estatal de los Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar, y hacer pública su negativa; además, el Congreso del Estado, a solicitud del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno, podrá llamar, a las autoridades o servidores públicos responsables para que comparezcan ante dichas Comisiones Permanentes a efecto de que expliquen el motivo de su negativa.
 
-El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+La Comisión Estatal de los Derechos Humanos, tendrá un Consejo Consultivo integrado por diez Consejeros, que serán elegidos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, mediante un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley. Cada dos años serán sustituidos los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
 
@@ -1361,11 +1409,11 @@ La educación que se imparta en el Estado se regirá por la filosofía y princip
 
 Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 91.
 
-Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación primaria y la secundaria serán además obligatorias.
+Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación preescolar, primaria y secundaria conforman la educación básica, ésta y la media superior serán obligatorias.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
 
@@ -2401,11 +2449,9 @@ Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere q
 
 TRANSITORIOS:
 
-###### Art. 1º.
+###### Art. 1o.
 
-El Estado de Sinaloa, como parte integrante de los Estados Unidos Mexicanos, se constituye en un Estado democrático de derecho, cuyo fundamento y objetivo último es la protección de la dignidad humana y la promoción de los derechos fundamentales que le son inherentes.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
+Esta Constitución comenzará a regir desde el día siguiente al de su promulgación y se publicará por bando solemne en todo el Estado.
 
 ###### Art. 2º.
 
@@ -2556,10 +2602,6 @@ P.O. 25 DE MAYO DE 1939.
 ###### Art. 1o.
 
 La visita anual a que se refiere este Decreto, deberá efectuarse en el curso de los meses que restan del presente año.
-
-###### Art. 1o.
-
-Esta Constitución comenzará a regir desde el día siguiente al de su promulgación y se publicará por bando solemne en todo el Estado.
 
 ###### Art. 2o.
 
@@ -3408,3 +3450,7 @@ P.O. 19 DE DICIEMBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado deberá expedir la Ley reglamentaria correspondiente.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
