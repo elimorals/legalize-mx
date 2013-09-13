@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2012-09-26"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -53,147 +53,213 @@ El Estado de Tabasco es parte integrante de los Estados Unidos Mexicanos, perten
 
 El Territorio del Estado es el que de hecho y por derecho le pertenece.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO II. DE LOS HABITANTES
+El Estado de Tabasco se integra con los Municipios siguientes: Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO II. DE LOS DERECHOS HUMANOS
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 2°.
 
-El Estado de Tabasco, reconoce expresamente en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, que como parte de la Nación Mexicana tiene una composición pluricultural, sustentada en la diversidad de pueblos y comunidades indígenas que se encuentran asentados y conviven en su territorio.
+El Estado de Tabasco se constituye como un Estado Social y Democrático de Derecho que promueve la igualdad de oportunidades de los individuos. El respeto a la dignidad de las personas, a sus derechos y libertades, es el fundamento del orden y la paz social.
+
+En su territorio, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución.
+
+Las normas jurídicas relativas a estos derechos se interpretarán de conformidad con los ordenamientos antes invocados, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos en los términos que establezca la ley.
+
+En el Estado de Tabasco:
+
+I. Los derechos fundamentales reconocidos en esta Constitución sólo pueden ser restringidos con fundamento en una ley del Congreso del Estado. Esta respetará el contenido esencial de los derechos humanos;
+
+II. Toda persona tiene derecho a que se respete su vida;
+
+III. Toda persona tiene derecho a que se respete su integridad física, psíquica y moral;
+
+IV. Toda persona tiene derecho a la libertad y a la seguridad;
+
+V. Nadie puede ser sometido a esclavitud o servidumbre, y tanto éstas, como la trata de personas, están prohibidas en todas sus formas;
+
+VI. Toda persona tiene derecho a usar y disfrutar de sus bienes. La ley puede subordinar tal uso y disfrute al interés social. Ninguna persona puede ser privada de susbienes (sic), excepto mediante el pago de indemnización justa, por razones de utilidad pública o de interés social y en los casos y según las formas establecidas por la ley;
+
+VII. Toda persona que se halle en el territorio del Estado de Tabasco tiene derecho a circular por el mismo y a residir en él con sujeción a las disposiciones legales;
+
+VIII. Todas las personas son iguales ante la ley. En consecuencia, tienen derecho sin discriminación a igual protección o beneficio de la ley. Queda prohibida en el Estado toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas;
+
+IX. Toda persona tiene derecho a ser oída, con las debidas garantías y dentro de un plazo razonable, por un juez o tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ella, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal, administrativo o de cualquier otro carácter;
+
+X. A nadie podrá imponerse pena o medida de seguridad, o ser condenado por acciones u omisiones que en el momento de cometerse no fueran delitos según el derecho vigente. Tampoco se puede imponer pena más grave que la aplicable en el momento de la comisión del delito. Si con posterioridad a la comisión del delito la ley dispone la imposición de una pena más leve o cuando la ley suprima un tipo penal, el sentenciado se beneficiará de ello;
+
+XI. Todo individuo acusado de la comisión de un delito tendrá el derecho a que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+
+XII. Son derechos de las víctimas u ofendidos el que se les haga justicia; al que se les repare el daño; y a recibir el apoyo necesario del Estado para el restablecimiento de su salud física y psíquica, así como de su situación laboral, en la forma en que determinen las leyes;
+
+XIII. Toda persona tiene derecho a ser indemnizada conforme a la ley en caso de haber sido condenada en sentencia firme por error judicial;
+
+XIV. Toda persona tiene derecho a la protección de su vida privada, su familia, su domicilio, su correspondencia, su honra, su reputación y su dignidad;
+
+XV. Toda persona tiene derecho a la libertad de conciencia y de religión;
+
+XVI. Toda persona tiene derecho a la libertad de pensamiento y de expresión. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole. La manifestación de las ideas no será objeto de inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público;
+
+XVII. El estado y los municipios garantizarán el derecho de acceso libre y gratuito a internet; a tal efecto, en los términos de la ley, establecerán los mecanismos y políticas públicas necesarias para asegurar progresivamente la efectividad de este derecho;
+
+XVIII. Toda persona afectada por informaciones inexactas o agravantes emitidas en su perjuicio a través de medios de difusión tiene derecho a efectuar por el mismo órgano de difusión su rectificación o respuesta en las condiciones que establezca la ley;
+
+XIX. Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de tal derecho sólo puede estar sujeto a las restricciones previstas por la ley, que sean necesarias en una sociedad democrática, en interés de la seguridad, orden, salud o moral públicos, o los derechos y libertades de los demás;
+
+XX. Todas las personas tienen derecho a asociarse libremente con fines ideológicos, religiosos, políticos, económicos, laborales, sociales, culturales, deportivos, o de cualquier otra índole, siendo lícito.
+
+XXI. Se reconoce el derecho de las personas a contraer matrimonio y fundar una familia;
+
+XXII. Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. El cuidado y crianza de los hijos es un derecho de los padres y una obligación que a ellos les incumbe;
+
+XXIII. El Estado garantizará el respeto, la protección, acceso y libre ejercicio del derecho a la salud reproductiva de las personas que residen en Tabasco;
+
+XXIV. Toda persona tiene derecho a un nombre propio y a los apellidos de sus padres o al de uno de ellos;
+
+XXV. Todo niño, sin discriminación, tiene derecho a las medidas de protección que su condición de menor requiere por parte de su familia, de la sociedad y del Estado;
+
+XXVI. Los hombres y las mujeres deben tener formal y materialmente derechos iguales. Las leyes deberán garantizar la igualdad en el derecho vigente y procurar su implantación en la costumbre social, particularmente en la familia, en la educación y en el lugar de trabajo;
+
+XXVII. Las leyes y políticas públicas deben procurar la eliminación de las desigualdades sociales que afectan a las personas con discapacidad;
+
+XXVIII. Toda persona tiene derecho a un procedimiento judicial ante los jueces o tribunales locales competentes para proteger los derechos y libertades que la Constitución y las leyes del estado le reconocen;
+
+XXIX. Los poderes públicos del Estado procurarán que los derechos humanos se respeten en las relaciones entre particulares;
+
+XXX. Toda persona tiene derecho a la protección de la salud física y mental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud del Estado y establecerá la concurrencia con los municipios en materia de salubridad local;
+
+XXXI. Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al estado y a los municipios su promoción, fomento y estímulo;
+
+XXXII. Toda persona tiene derecho a recibir educación obligatoria, laica y gratuita por parte del Estado y los municipios de Tabasco, la que estará orientada hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y el respeto a los derechos humanos y las libertades fundamentales;
+
+XXXIII. Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que prestan el Estado y los municipios en la materia, así como al ejercicio de sus derechos culturales. El Estado deberá asegurar el pleno ejercicio de este derecho mediante la conservación, el desarrollo y la difusión de la ciencia y la cultura;
+
+XXXIV. Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la ley;
+
+XXXV. Toda persona y su familia tienen derecho a disfrutar de vivienda adecuada, digna y decorosa;
+
+XXXVI. Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado adoptará medidas para mejorar los métodos, conservación y distribución de alimentos mediante la plena utilización de conocimiento técnico y científico;
+
+XXXVII. Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;
+
+XXXVIII. Cualquier persona en situación de necesidad que no tenga la capacidad de valerse por sí mismo tendrá derecho a la asistencia del Estado, y a la provisión de los medios indispensables para una vida digna;
+
+XXXIX. Toda persona tiene derecho a un ambiente saludable y equilibrado en el Estado de Tabasco. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a: la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, de la flora y la fauna existente en su territorio; prevenir, evitar y castigar toda forma de contaminación ambiental; y promover el uso de energías alternativas. El estado y los municipios realizarán asimismo acciones de prevención y control de cambio climático. Los ciudadanos tienen la obligación y el derecho de contribuir, participar y exigir la preservación, restauración y el equilibrio ecológico, disponiendo libremente de la acción popular para denunciar cualquier daño o deterioro ambiental ante el Estado o los Ayuntamientos; y
+
+XL. El Estado promoverá, mediante leyes y políticas públicas que la práctica social y el desempeño de los servidores públicos se apeguen a códigos de conducta y valores éticos que combatan la corrupción; además de la expedición de leyes que la castiguen severamente, con el fin de que toda persona pueda aspirar a una vida libre de corrupción; y
+
+XLI. Toda persona tiene derecho a la seguridad social.
+
+Los derechos que establece esta Constitución, serán entendidos como enunciativos y no limitativos de otros derechos contemplados en la Constitución Política de los Estados Unidos Mexicanos, las leyes del Congreso de la Unión que emanen de ella y todos los tratados que estén de acuerdo con la misma, celebrados y ratificados por el estado mexicano.
+
+El Estado de Tabasco, en el marco de distribución de competencias establecido en el artículo 124 de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 1 y 133 de la misma, se obliga a respetar y hacer respetar a los migrantes y, en general, a los extranjeros que estén sometidos a su jurisdicción, todos sus derechos humanos y a tomar las medidas necesarias para proteger, con carácter preferente, los siguientes:
+
+I. Derecho a la vida, a la libertad y a la seguridad de su persona;
+
+II. Derecho a la igualdad y a la no discriminación;
+
+III. Derecho a la vida familiar;
+
+IV. Derecho a la protección integral a los menores extranjeros no acompañados; y
+
+V. Derecho de acceso a la justicia y al debido proceso.
+
+Asimismo, el Estado garantizará la libertad de circulación y de establecimiento que asiste a los trabajadores migrantes dentro del territorio estatal.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 3°.
+
+El Estado de Tabasco reconoce expresamente en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, que como parte de la nación mexicana tiene una composición pluricultural, sustentada en la diversidad de pueblos y comunidades indígenas que se encuentran asentados y conviven en su territorio.
 
 Se reconoce a los pueblos y comunidades indígenas establecidos en el Estado, su derecho a la libre determinación, mismo que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal y nacional. En consecuencia tendrán autonomía para:
 
-I.- Conservar y mejorar el control sobre su hábitat;
+I. Conservar y mejorar el control sobre su hábitat;
 
-II.- Preservar y enriquecer su lengua sin limitación alguna;
+II. Preservar y enriquecer su lengua sin limitación alguna;
 
-III.- Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
+III. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
 
-IV.- Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la equidad de género, en un marco que respete el pacto federal y la soberanía del Estado;
+IV. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la equidad de género, en un marco que respete el pacto federal y la soberanía del Estado;
 
-V.- De acuerdo con sus normas, procedimientos y prácticas tradicionales, elegir en cada pueblo o comunidad a un ciudadano indígena que los represente ante el Ayuntamiento, mismo que tendrá derecho a voz en las sesiones del Cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
+V. De acuerdo con sus normas, procedimientos y prácticas tradicionales, elegir en cada pueblo o comunidad a un ciudadano indígena que los represente ante el ayuntamiento, mismo que tendrá derecho a voz en las sesiones del cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
 
-VI.- Aplicar sus sistemas normativos en la regulación y resolución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos con respecto a las garantías individuales, a los derechos humanos y, de manera relevante, la dignidad de las mujeres, los niños y los adultos mayores. Las leyes secundarias establecerán los casos y procedimientos de validación por los Jueces o Tribunales correspondientes; y
+VI. Aplicar sus sistemas normativos en la regulación y resolución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos respetando a las garantías individuales, a los derechos humanos y, de manera relevante, la dignidad de las mujeres, los niños y los adultos mayores. Las leyes secundarias establecerán los casos y procedimientos de validación por los jueces o tribunales correspondientes; y
 
-VII.- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de las comunidades, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquéllos que corresponden a las áreas estratégicas. Para tales efectos, las comunidades podrán asociarse en términos de ley;
+VII. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de las comunidades, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquéllos que corresponden a las áreas estratégicas. Para tales efectos, las comunidades podrán asociarse en términos de ley.
 
 También se les reconoce su derecho a tener acceso pleno a la jurisdicción del Estado, por lo que en todo procedimiento y juicio en que una de las partes o ambas sea una comunidad o un indígena, las autoridades respectivas deberán considerar sus costumbres y especificidades culturales. En consecuencia, tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento en su lengua, dialecto y cultura.
 
-Los gobiernos estatales y municipales, garantizarán que los habitantes de los pueblos o comunidades indígenas, tengan acceso en igualdad de condiciones a los servicios de salud, por lo que independientemente de los programas establecidos en el sistema nacional o estatal, procurarán aprovechar la medicina tradicional y apoyar la nutrición de los indígenas, mediante programas de alimentación, en especial para la población infantil.
+Los gobiernos estatal y municipales garantizarán que los habitantes de los pueblos o comunidades indígenas, tengan acceso en igualdad de condiciones a los servicios de salud, por lo que independientemente de los programas establecidos en el sistema nacional o estatal, procurarán aprovechar la medicina tradicional y apoyar la nutrición de los indígenas, mediante programas de alimentación, en especial para la población infantil.
 
 El Estado apoyará el desarrollo y promoción de los conocimientos y la medicina tradicional indígena.
 
 Los pueblos o comunidades indígenas tendrán derecho a que el Estado garantice el mejoramiento de las condiciones de sus espacios, para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado, para la construcción o mejoramiento de sus viviendas.
 
-El Estado deberá establecer en los programas de educación básica, el favorecimiento de la enseñanza bilingüe en los pueblos y comunidades indígenas reconocidos en el Estado de Tabasco.
+El Estado deberá facilitar, en los programas de educación básica, la enseñanza bilingüe en los pueblos y comunidades indígenas reconocidos en el Estado de Tabasco.
 
 El Estado fomentará el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que se establecen en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y las leyes aplicables respectivas.
 
-El Estado con la participación de las comunidades indígenas, instrumentará los planes y programas necesarios para impulsar su desarrollo socioeconómico.
+El Estado, con la participación de las comunidades indígenas, instrumentará los planes y programas necesarios para impulsar su desarrollo socioeconómico.
 
-Las leyes secundarias, atendiendo lo señalado en los cuatro primeros párrafos del artículo 2º de la Constitución federal y a esta Constitución, reconocerán a los pueblos y comunidades indígenas existentes en la entidad, su ubicación dentro del territorio estatal, así como los lineamientos a que se sujetarán los derechos que como tales se les reconoce. Dichas leyes deberán ser traducidas, impresas y publicadas en las diversas lenguas de los pueblos o comunidades indígenas de que se trate.
+Las leyes secundarias, atendiendo lo señalado en los cuatro primeros párrafos del artículo 2° de la Constitución federal y en esta Constitución, reconocerán a los pueblos y comunidades indígenas existentes en la entidad su ubicación dentro del territorio estatal, así como los lineamientos a que se sujetarán los derechos que como tales se les reconoce. Dichas leyes deberán ser traducidas, impresas y publicadas en las diversas lenguas de los pueblos o comunidades indígenas de que se trate.
 
 El Estado y los municipios establecerán la institución y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas, en los términos de las disposiciones que prevean las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-###### ARTICULO 3°.
+### CAPITULO III. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-El Estado de Tabasco se integra con los Municipios siguientes:
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde.
+###### ARTICULO 4°.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO III. DE LOS DERECHOS HUMANOS
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
-ARTICULO 4 TER.- En el Estado de Tabasco todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, tratados internacionales de los que el Estado mexicano sea parte y esta Constitución. Las normas jurídicas relativas a estos derechos se interpretarán de conformidad con los ordenamientos antes invocados, favoreciendo en todo tiempo a las personas la protección más amplia.
-
-Para garantizar el respeto y protección de los derechos humanos, el organismo denominado Comisión Estatal de los Derechos Humanos, contará con plena autonomía orgánica funcional, de gestión y presupuestaria, con personalidad jurídica y patrimonio propio.
-
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos en los términos que establezca la ley.
+Para garantizar el respeto y protección de los derechos humanos, el organismo denominado Comisión Estatal de los Derechos Humanos, contará con plena autonomía orgánica, funcional, de gestión y presupuestaria, con personalidad jurídica y patrimonio propios.
 
 Esta Comisión conocerá de peticiones que contengan denuncias o quejas por presuntas violaciones a los derechos humanos provenientes de actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público del estado y los municipios, con excepción de los del Poder Judicial, que violen estos derechos. En cumplimiento de sus funciones esta Comisión formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder oportunamente las recomendaciones que le presente la Comisión Estatal de los Derechos Humanos.
 
-Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado, o en sus recesos la Comisión Permanente, en los términos que disponga la ley secundaria, podrá llamar, a solicitud de la comisión orgánica competente, a las autoridades o servidores públicos responsables para que comparezcan ante ésta, a efecto de que expliquen el motivo de su negativa.
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado, o en sus recesos la Comisión Permanente, en los términos que disponga la ley secundaria, podrá llamar, a solicitud de la comisión orgánica competente, a las autoridades o servidores públicos responsables para que comparezcan ante ésta o ante el Pleno, a efecto de que expliquen el motivo de su negativa.
 
 Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales. Conocerá de las quejas en materia laboral, en que podrá emitir recomendaciones a las autoridades competentes en materia de violación de derechos humanos laborales.
 
 La Comisión Estatal de los Derechos Humanos en todo tiempo podrá investigar hechos que constituyan violaciones graves de derechos humanos; lo anterior, sin detrimento que lo pidiere el Congreso Local o el Gobernador del Estado, en los términos de la legislación aplicable.
 
-Este organismo podrá solicitar a la Comisión Nacional de los Derechos Humanos que investigue en el estado circunstancias graves que vulneren los derechos humanos. Esta facultad la tendrán también el titular del poder ejecutivo, o la legislatura, cuando lo apruebe, cuando menos, la tercera parte de los diputados presentes.
+Este organismo podrá solicitar a la Comisión Nacional de los Derechos Humanos que investigue en el Estado circunstancias graves que vulneren los derechos humanos. Esta facultad la tendrán también el titular del Poder Ejecutivo, o la legislatura, cuando lo apruebe, cuando menos, la tercera parte de los diputados presentes.
 
 La Comisión Estatal de los Derechos Humanos tendrá ante el Congreso del Estado el derecho a iniciar leyes en materia de derechos humanos. Además, podrá ejercer la acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación en contra de leyes expedidas por la legislatura local que vulneren los derechos humanos.
 
-La Comisión Estatal de los Derechos Humanos tendrá como órgano ejecutivo directo y por ende responsable de la conducción como titular a quien fuere electo como presidente; contará con un Consejo Consultivo que se integrará por siete consejeros, dentro de ellos el titular de la Comisión que lo presidirá; quienes serán elegidos por el voto de las dos terceras partes, de los miembros presentes de la legislatura estatal, o en sus recesos, en forma provisional, por la Comisión Permanente del Congreso del Estado, con la misma votación calificada. Asimismo dispondrá conforme la ley de la materia de los servidores públicos que coadyuven en las tareas legales correspondientes.
+La Comisión Estatal de los Derechos Humanos tendrá como órgano ejecutivo directo y por ende responsable de la conducción como titular a quien fuere electo como presidente; contará con un Consejo Consultivo que se integrará por siete consejeros, dentro de ellos el titular de la Comisión que lo presidirá; quienes serán elegidos por el voto de las dos terceras partes de los miembros presentes de la legislatura estatal, o en sus recesos, en forma provisional, por la Comisión Permanente del Congreso del Estado, con la misma votación calificada.
+
+Asimismo dispondrá, conforme la ley de la materia, de los servidores públicos que coadyuven en las tareas legales correspondientes.
 
 La ley determinará el procedimiento a seguir para la presentación de las propuestas por parte del Congreso del Estado. El titular que presida la Comisión durará en su encargo cinco años, quien podrá ser ratificado, por única vez para un segundo período; durante el ejercicio de sus funciones sólo será removido en los términos del Título Séptimo de esta Constitución. Los consejeros, distintos al presidente del Consejo Consultivo, serán electos para un período de dos años, con la posibilidad de que fuesen propuestos y en su caso, ratificados para un período igual.
 
 La elección del titular de la presidencia de la Comisión Estatal de los Derechos Humanos, así como de los demás integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública. El procedimiento electivo deberá ser transparente, teniendo como premisas las siguientes:
 
-I.- Con la antelación de cuando menos 60 días previos a la fecha de la elección, se emitirá convocatoria pública en la forma y plazos que disponga la ley, que contenga los requisitos y perfiles de los aspirantes cuyas propuestas habrán de ser formulados, preferentemente, por asociaciones civiles legalmente constituidas y cuyo objeto social esté vinculado con el respeto y protección a los derechos humanos; y
+I. Con la antelación de cuando menos 60 días previos a la fecha de la elección, se emitirá convocatoria pública en la forma y plazos que disponga la ley, que contenga los requisitos y perfiles de los aspirantes cuyas propuestas habrán de ser formulados, preferentemente, por asociaciones civiles legalmente constituidas y cuyo objeto social esté vinculado con el respeto y protección a los derechos humanos; y
 
-II.- Concluida esta fase se revisarán las listas de las personas que hayan sido propuestas que cumplan con los requisitos constitucionales y legales; luego, previo dictamen de su procedencia, se darán a conocer en forma pública, para después ser sometidas a la decisión de la plenaria, conforme las prevenciones a que se contrae este precepto.
+II. Concluida esta fase se revisarán las listas de las personas que hayan sido propuestas que cumplan con los requisitos constitucionales y legales; luego, previo dictamen de su procedencia, se darán a conocer en forma pública, para después ser sometidas a la decisión de la plenaria, conforme las prevenciones a que se contrae este precepto.
 
-La ley determinará los requisitos que deban cubrir los integrantes del Consejo Consultivo y demás elementos que contendrá la convocatoria correspondiente. Tratándose del Titular de la Comisión Estatal de los Derechos Humanos, deberá contar con experiencia y suficientes conocimientos en materia de derechos humanos.
+La ley determinará los requisitos que deban cubrir los integrantes del Consejo Consultivo y demás elementos que contendrá la convocatoria correspondiente.
+
+Tratándose del Titular de la Comisión Estatal de los Derechos Humanos, deberá contar con experiencia y suficientes conocimientos en materia de derechos humanos.
 
 El titular de la presidencia de la Comisión Estatal de los Derechos Humanos presentará anualmente al Congreso del Estado de Tabasco un informe escrito de actividades. Al efecto comparecerá durante el mes de diciembre del año de que se trate en los términos que disponga la ley.
 
-La Comisión, estará sujeta a las disposiciones constitucionales, legislativas y legales en todo lo concerniente a los recursos financieros, ejercicio del gasto público y su fiscalización.
+La Comisión estará sujeta a las disposiciones constitucionales, legislativas y legales en todo lo concerniente a los recursos financieros, ejercicio del gasto público y su fiscalización.
 
 La ley establecerá las demás disposiciones relativas a la competencia, facultades y obligaciones, estructura, organización, funcionamiento, y relaciones jurídicas con los servidores públicos del organismo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 4°.
-
-Los habitantes del Estado tienen iguales derechos y obligaciones, en los términos de esta Constitución.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
-
-Queda prohibida en el Estado, toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, sexo, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
-
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
-
-El Estado garantizará a toda persona los derechos fundamentales que en materia de justicia reconoce la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
-
-El proceso penal será acusatorio y oral. Se regirá por los principios generales de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el responsable de la comisión del ilícito no quede impune, y que los daños causados por el delito se reparen.
-
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
-
-Se reconocen los derechos de la víctima o del ofendido y de toda persona imputada en términos de lo dispuesto por el artículo 20 de la citada Norma Fundamental. Los órganos jurisdiccionales dentro de sus esferas de competencias, están obligados a observar los derechos humanos previstos en la Carta Magna, así también por aquéllos contenidos en los instrumentos internacionales celebrados por el Estado Mexicano.
-
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
-
-Las leyes preverán mecanismos alternos gratuitos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
-
-En el Estado de Tabasco toda persona tiene derecho a un ambiente saludable y equilibrado. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a: La preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, de la flora y la fauna existente en su territorio; prevenir, evitar y castigar toda forma de contaminación ambiental; y promover el uso de energías alternativas. El estado y los municipios realizarán asimismo acciones de prevención y control de cambio climático.
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
-
-Los ciudadanos tienen la obligación de contribuir, participar y exigir la preservación, restauración y el equilibrio ecológico, disponiendo libremente de la acción popular para denunciar cualquier daño o deterioro ambiental ante el Estado o los Ayuntamientos.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
-
-La manifestación de las ideas no será objeto de inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la legislación aplicable.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
-
-Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos. El Estado garantizará, el respeto, la protección, acceso y libre ejercicio del derecho a la salud reproductiva de las tabasqueñas y tabasqueños.
-
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 4° Bis.
-
-El derecho a la información es inherente al ser humano y por lo tanto el Estado tiene la obligación primigenia de reconocerlo y garantizarlo, tomando en consideración los siguientes principios:
+ARTICULO 4° BIS.- El derecho a la información es inherente al ser humano y por lo tanto el Estado tiene la obligación primigenia de reconocerlo y garantizarlo, tomando en consideración los siguientes principios:
 
 I. Es información pública la generada o en posesión de cualquier autoridad, entidad, órgano y organismo estatal o municipal, así como de las personas físicas o jurídicas colectivas que reciban recursos públicos, cuando esté directamente relacionada con el ejercicio de éstos;
 
@@ -201,13 +267,17 @@ II. Sólo con motivo de salvaguardar el interés público y por un período de t
 
 III. El derecho a la intimidad que incluye la privacidad de la vida familiar en primer grado y en general la que se refiere a sus datos personales, deberá ser garantizado por el Estado en los términos y excepciones que fijen las leyes, teniendo siempre como referente el respeto a la dignidad humana;
 
-IV. Atendiendo el principio de máxima publicidad en el ejercicio del derecho a la información pública, toda persona sin distinción alguna, y sin necesidad de acreditar interés alguno o justificar su utilización podrá acceder gratuitamente a la información pública, a sus datos personales o a la rectificación de éstos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Atendiendo al principio de máxima publicidad en el ejercicio del derecho de acceso a la información pública y al cumplimiento de las obligaciones en materia de transparencia, toda persona, sin distinción de ningún tipo y sin necesidad de acreditar interés alguno o justificar su utilización, podrá acceder gratuitamente a la información pública y a sus datos personales, o solicitar la rectificación de éstos;
 
 V. Toda autoridad, entidad, órgano y organismo estatal o municipal y toda persona física o jurídica colectiva generadora o en posesión de información pública deberá preservar sus documentos en archivos administrativos actualizados y los primeros publicarán a través de los medios electrónicos disponibles la información completa y actualizada sobre sus indicadores de gestión, el ejercicio de los recursos públicos, incluyendo aquella relativa a los recursos públicos que entregan a las personas físicas o jurídicas colectivas; y
 
 VI. El Estado establecerá mecanismos y procedimientos de revisión expeditos para hacer efectivo el derecho a la información. Los procedimientos se sustanciarán ante un órgano autónomo que se denominará Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, dotado de plena autonomía jurídica, de gestión y presupuestaria, con personalidad jurídica y patrimonio propio, y que tendrá facultades para hacer cumplir a los sujetos obligados y sancionar la inobservancia de las disposiciones jurídicas en materia de acceso a la información pública.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+ARTICULO 4° TER.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO IV. DE LOS TABASQUEÑOS
 
@@ -237,9 +307,9 @@ Son obligaciones de los ciudadanos Tabasqueños:
 
 I.- Inscribirse en los padrones electorales y en el catastro de la municipalidad, en la forma que determinen las leyes;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum, en los términos que señale la ley;
+II.- Votar en las elecciones populares, así como en las consultas populares, en los términos que señale la ley;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -259,15 +329,27 @@ V.- Las demás que las leyes señalen.
 
 Son derechos de los ciudadanos Tabasqueños:
 
-I.- Votar en las elecciones populares y ser electo para los cargos públicos, en la forma y términos que prescriban las leyes;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Participar, en los procesos de plebiscito y referéndum, así como en la presentación de iniciativas populares;
+I.- Votar en las elecciones populares y ser electo para los cargos públicos. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que de manera independiente deseen participar. En ambos casos, deberá cumplirse con los requisitos, condiciones y términos que establezca la ley;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Participar en las consultas populares sobre temas de trascendencia estatal o municipal, de conformidad con lo establecido por esta Constitución y las leyes;
 
 III.- Ser nombrado, si se satisfacen los requisitos legales, para desempeñar cargos, empleos o comisiones de la administración pública estatal o municipal;
 
-IV.- Ejercer el de petición por escrito, en forma pacífica y respetuosa; a toda petición la autoridad ante quien se ejercite, dictará su proveído dentro de quince días hábiles cuando las leyes no señalen otros términos; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado.
+IV.- Ejercer el de petición por escrito, en forma pacífica y respetuosa; a toda petición la autoridad ante quien se ejercite, dictará su proveído dentro de quince días hábiles cuando las leyes no señalen otros términos;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. La autoridad electoral tendrá las facultades que en esta materia le otorgue la ley.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -289,99 +371,33 @@ V.- En los demás casos que las leyes señalen.
 
 ### CAPITULO VI. DE LA PARTICIPACION CIUDADANA
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-###### ARTICULO 8° Bis.
+ARTICULO 8° BIS.- Las consultas populares se sujetarán a lo siguiente:
 
-Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular, en los términos establecidos en la misma y en las demás leyes aplicables.
+I. Serán convocadas por el Congreso del Estado a petición de:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)</small>
+a) El Gobernador;
 
-I. Se entiende por Plebiscito el proceso por el que se consulta a los ciudadanos la aprobación o rechazo de un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, trascendental para la vida pública del Estado o de los Municipios, según el caso.
+b) El equivalente al treinta y tres por ciento de los integrantes del Congreso;
 
-a) Podrán someterse a Plebiscito:
+c) Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores del estado o del municipio, según corresponda, en los términos que determine la ley.
 
-1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
+Con excepción de la hipótesis prevista en el inciso c) de esta fracción, la petición deberá ser aprobada por la mayoría de los miembros presentes del Congreso.
 
-2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren trascendentes para la vida pública del Municipio.
+II. Cada ayuntamiento puede convocar a consulta popular, en los términos de la ley, previa aprobación de cuando menos dos terceras partes de sus integrantes.
 
-b) No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Estado o de los Ayuntamientos, relativos a:
+III. Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del estado o del municipio, según corresponda, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo del Estado, los ayuntamientos y las autoridades competentes;
 
-1.- El régimen interno de la Administración Pública Estatal y Municipal;
+IV. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por la Constitución Federal y la del Estado; los principios consagrados en el artículo 1° de la Constitución local; las reformas a la Constitución Política del Estado y a las leyes locales, que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos; la materia electoral; y las leyes o disposiciones de carácter tributario o fiscal. El Tribunal Superior de Justicia del Estado resolverá, previo a la convocatoria que realicen el Congreso o los ayuntamientos, sobre la constitucionalidad de la materia de la consulta;
 
-2.- Los actos cuya realización sea obligatoria en los términos de las leyes aplicables; y
+V. El Instituto Electoral y de Participación Ciudadana tendrá a su cargo la verificación del requisito establecido en el inciso c) del párrafo primero de la fracción I del presente artículo, así como la organización, desarrollo, cómputo y declaración de resultados de la consulta;
 
-3.- Los demás que determine esta Constitución ó las leyes secundarias expresamente.
+VI. La consulta popular se realizará el mismo día de la jornada electoral estatal. Cuando sea convocada por el Congreso a petición de sus integrantes o convocada por un ayuntamiento, se realizará a la mitad del período constitucional que corresponda, conforme a los requisitos y procedimiento que señale la ley secundaria;
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2006)</small>
+VII. Las resoluciones del Instituto Electoral y de Participación Ciudadana podrán ser impugnadas en los términos de lo dispuesto en el Apartado D del artículo 9 de esta Constitución; y
 
-c).- El Plebiscito, podrá ser promovido en el ámbito de su competencia por:
-
-1.- El Titular del Poder Ejecutivo;
-
-2.- El Congreso Local, previa aprobación de las dos terceras partes de los integrantes de la Legislatura;
-
-3.- Los Ayuntamientos, previa aprobación de la mayoría calificada de sus integrantes; y
-
-4.- El diez por ciento de los ciudadanos que aparezcan en la Lista Nominal del Estado o del Municipio, en su caso.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
-
-Realizado que sea el plebiscito establecido en esta Constitución, si participan en el mismo más del 30% de los ciudadanos que aparezcan en la Lista Nominal del Estado o del Municipio de que se trate, según el caso, y se obtiene el 60% o más de los votos emitidos, los resultados tendrán carácter vinculatorio. Aprobado el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, éstos serán válidos y continuarán; de no aprobarse, deberán interrumpirse, sea para no continuarlos y extinguirlos por el medio legal correspondiente o para revocarlos.
-
-II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos tabasqueños, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a disposiciones de la Constitución Política del Estado, a las leyes que expida el Congreso local; a los acuerdos o reglamentos de carácter general y abstracto que emita el titular del Poder Ejecutivo; a los acuerdos, los reglamentos, bandos, de carácter general y abstracto que emitan los Ayuntamientos.
-
-a) El Referéndum no procederá cuando se trate de:
-
-1.- Leyes o disposiciones de carácter tributario o fiscal;
-
-2.- Las reformas a la Constitución Política del Estado y a las leyes locales, que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos;
-
-3.- Las leyes y reglamentos que regulen el régimen interno de los Poderes Ejecutivo, Legislativo y Judicial, así como del Gobierno Municipal;
-
-4.- La designación del Gobernador interino, substituto o provisional;
-
-5.- Los Convenios celebrados por el Estado con la Federación, y con otros Estados de la República o con los Municipios de la entidad; y
-
-6.- Las demás que determine la propia Constitución, o en forma expresa la ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)</small>
-
-b) El Referéndum, podrá ser promovido en el ámbito de su competencia, por:
-
-1.- El Titular del Poder Ejecutivo;
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
-
-2.- El Congreso Local, previa aprobación de las dos terceras partes de los integrantes de la Legislatura;
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
-
-3.- Los Ayuntamientos, previa aprobación de la mayoría calificada de sus integrantes; y
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2006)</small>
-
-4.- El diez por ciento de los ciudadanos que aparezcan en la Lista Nominal del Estado o del Municipio, en su caso.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
-
-Para que tenga validez el proceso de Referéndum, y sus resultados tengan el carácter vinculatorio, deberá participar más del 30% de los ciudadanos que aparezcan en la Lista Nominal del Estado o del Municipio de que se trate, según el caso, y obtenerse el 60% o más de los votos emitidos.
-
-Las leyes que se refieran a materia electoral no podrán ser sometidas a referéndum dentro de los seis meses anteriores al proceso electoral, ni durante el desarrollo de éste;
-
-III. En el año que se lleven a cabo elecciones populares, no deberá realizarse plebiscito o referéndum alguno. Tampoco podrá celebrarse más de un plebiscito o referéndum en el mismo año. Tratándose de la Constitución local, de leyes, de acuerdos o reglamentos de carácter general y abstracto o de actos o decisiones que incidan en la vida pública del estado, el plebiscito o el referéndum, sólo podrán llevarse a cabo en el segundo, cuarto y quinto año del ejercicio constitucional del titular del Poder Ejecutivo; y cuando se trate de aquellos que sólo repercutan a nivel municipal, podrán llevarse a cabo solamente en el segundo año del ejercicio constitucional del Ayuntamiento de que se trate;
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)</small>
-
-IV. La Iniciativa Popular, es el instrumento por medio del cual los ciudadanos del Estado, podrán presentar al Congreso local, al titular del Poder Ejecutivo o a los Ayuntamientos, iniciativas de leyes, decretos, reglamentos y acuerdos, según se trate, en los términos que se establecen en esta Constitución y en las leyes secundarias. La autoridad ante la que se promueva la iniciativa popular, deberá iniciar el trámite correspondiente en un plazo no mayor de treinta días hábiles, contados a partir de su presentación.
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
-
-La iniciativa popular deberá ser suscrita por al menos el diez por ciento del total de los ciudadanos que aparezcan en la Lista Nominal del Estado o de los Municipios, según sea el caso. La autoridad electoral validará en los términos que la ley señale tal circunstancia.
-
-No podrán ser objeto de iniciativa popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum; y
-
-V. En la ley secundaria se establecerán las normas para la procedencia, aplicación y ejecución del referéndum, plebiscito e iniciativa popular.
+VIII. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en el presente artículo, regulando en forma específica el plebiscito y el referéndum, además de las otras modalidades de participación ciudadana que resulten pertinentes.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -409,23 +425,25 @@ Los partidos políticos tienen como fin promover la participación del pueblo en
 
 II.- Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa; la infracción a esta disposición será castigada con multa o cancelación del registro del partido político en los términos que establezca la ley;
 
-III.- Únicamente los partidos políticos tienen el derecho de solicitar el registro de candidatos a cargo de elección popular;
+III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 IV.- Los partidos políticos en la selección de sus candidatos deberán cumplir con los principios de equidad y paridad de género en los términos que establezca la ley;
 
-V.- La ley regulará los procesos internos de selección de candidatos y el proselitismo que realicen los aspirantes a ocupar los diversos puestos de elección popular al interior de los partidos políticos, asimismo establecerá las reglas para la realización de precampañas y campañas electorales;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V.- La ley regulará los procesos internos de selección de candidatos y el proselitismo que realicen los aspirantes a ocupar los diversos puestos de elección popular al interior de los partidos políticos, asimismo establecerá las reglas para la realización de precampañas y campañas electorales. Del mismo modo se fijarán en la ley los impedimentos para la participación de servidores públicos en activo durante las precampañas de los partidos.
 
 Las precampañas sólo tendrán lugar dentro de los procesos internos de selección de candidatos de los partidos políticos;
 
 Toda persona que realice actos de proselitismo o de promoción personal de cualquier índole sin sujetarse a las disposiciones o tiempos que señale la ley, se hará acreedora, según el caso, a las sanciones que en la misma se establecen;
 
-VI. La duración de las campañas en el año de elecciones para Gobernador, diputados, presidentes municipales y regidores, no será mayor a sesenta días; en el año en que sólo se elijan Diputados locales y Ayuntamientos, las campañas no podrán exceder de cuarenta y cinco días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales respectivas;
+VI.- La duración de las campañas en el año de elecciones para Gobernador, diputados, presidentes municipales y regidores, no será mayor a sesenta días; en el año en que sólo se elijan Diputados locales y Ayuntamientos, las campañas no podrán exceder de cuarenta y cinco días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales respectivas;
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o jurídica colectiva será sancionada conforme a la ley;
 
-VII. La ley garantizará que los partidos políticos nacionales y locales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos para sus precampañas y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado;
+VII.- La ley garantizará que los partidos políticos nacionales y locales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos para sus precampañas y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado;
 
-VIII. El financiamiento público para los partidos políticos que mantengan su registro y alcancen el 2% de la votación en la elección de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
+VIII.- El financiamiento público para los partidos políticos que mantengan su registro y alcancen el 2% de la votación en la elección de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
 a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del estado por el sesenta y cinco por ciento del salario mínimo diario vigente para el estado. El 30% de la cantidad total que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
 
@@ -493,7 +511,9 @@ La fiscalización de los recursos de los partidos políticos que realice el Inst
 
 i) El Instituto Electoral y de Participación Ciudadana de Tabasco tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón electoral y lista nominal de electores conforme al convenio y los documentos técnicos que al respecto se suscriban con el Instituto Federal Electoral, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias, así como la regulación de la observación electoral y las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señala la ley;
 
-j) El Instituto Electoral y de Participación Ciudadana de Tabasco, en los términos establecidos en la ley de la materia, estará facultado para verificar el cumplimiento de los requisitos legales de las propuestas de iniciativa popular y validación de las mismas. Será el órgano responsable de organizar y realizar en forma integral y directa los procesos de referéndum y plebiscito en la forma y términos que señalen las leyes en la materia; tendrá además la obligación de comunicar los resultados a los Poderes de la Entidad y ordenará su publicación en el Periódico Oficial del Estado; y
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+j) El Instituto Electoral y de Participación Ciudadana de Tabasco, en los términos establecidos en la ley de la materia, está facultado para verificar el cumplimiento de los requisitos legales de las propuestas de iniciativa ciudadana. Será el órgano responsable de organizar y realizar los procesos de consulta popular en la forma y términos que señalen las leyes de la materia; tendrá además la obligación de comunicar los resultados a los Poderes de la Entidad y ordenará su publicación en el Periódico Oficial del Estado; y
 
 k) El Instituto Electoral y de Participación Ciudadana de Tabasco declarará la validez de las elecciones de Gobernador, Diputados, Presidentes Municipales y Regidores de acuerdo con lo que disponga la ley; otorgará las constancias de mayoría respectivas al candidato o a las fórmulas de candidatos, según la elección de que se trate, que hubiesen obtenido mayoría de votos; y hará la declaración de validez y la asignación de Diputados y Regidores según el Principio de Representación Proporcional de conformidad con lo previsto en esta Constitución y la propia ley. Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y las asignaciones respectivas podrán ser impugnadas ante el Pleno del Tribunal Electoral de Tabasco, en los términos que señale la ley;
 
@@ -505,7 +525,9 @@ IV.- El Consejo Estatal, por conducto de su Consejero Presidente deberá dar cum
 
 APARTADO D.- Del Sistema de Medios de Impugnación.
 
-l.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, de plebiscito, de referéndum y de iniciativa popular del Estado, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de plebiscito, de referéndum y de iniciativa popular, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado, de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y de consulta popular, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
 
 II.- La ley establecerá los presupuestos, requisitos de procedencia y el trámite del sistema de impugnación;
 
@@ -555,11 +577,11 @@ El Congreso se compone por 35 representantes populares del Estado de Tabasco, de
 
 La ley determinará las formas y procedimientos para la agrupación de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 13.
 
-Se elegirá un diputado propietario y un suplente por cada uno de los Distritos Electorales Uninominales, que corresponde a la demarcación territorial que en términos de la ley reglamentaria se determine, según el principio de votación mayoritaria relativa. Ningún municipio tendrá menos de un distrito.
+Se elegirá un diputado propietario y un suplente por cada uno de los Distritos Electorales Uninominales, que corresponde a la demarcación territorial que en términos de la ley reglamentaria se determine, según el principio de votación mayoritaria relativa.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
 
@@ -581,13 +603,13 @@ II.- Todo partido político que alcance por lo menos el 2% del total de la votac
 
 III.- Al partido político que cumpla con las dos fracciones anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- En ningún caso, un partido político podrá contar con más de 22 diputados por ambos principios;
+IV.- En ningún caso, un partido político podrá contar con más de 21 diputados por ambos principios;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el diez por ciento; y
+V.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -613,19 +635,25 @@ I.- Ser ciudadano mexicano, nativo de la entidad o con residencia efectiva en el
 
 II.- Tener veintiún años cumplidos el día de la elección;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerpo policial en el distrito donde se haga la elección, cuando menos noventa días naturales antes del inicio del registro;
+III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerpo policial en el distrito donde se haga la elección, cuando menos noventa días naturales antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- No ser Titular de Ramo alguno de la Administración Pública, Procurador General de Justicia; Magistrado del Tribunal Superior de Justicia; del Tribunal de lo Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, o Titular de alguna de las Dependencias o Entidades de la Administración Pública Estatal; Presidente Municipal o funcionario federal, a menos que permanezca legalmente separado definitivamente de su cargo desde sesenta días naturales antes del inicio del registro de candidatos de que se trate;
+IV.- No ser titular de alguna dependencia de la Administración Pública Estatal, ni Procurador General de Justicia; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 El Gobernador del Estado no podrá ser electo, durante el periodo de su encargo, aún cuando se separe del puesto.
 
-No ser titular de alguno de los órganos autónomos, ni titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones sesenta días naturales antes del inicio del registro de candidatos de que se trate.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en el Consejo Estatal, Distrital o Municipal del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+No ser titular de alguno de los organismos autónomos, ni titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes de la fecha de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes de la fecha de la elección; y
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -665,21 +693,25 @@ Los Diputados tendrán fuero desde el día en que hayan rendido la protesta de L
 
 ### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 19.
 
-La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando sus funciones el primero de enero siguiente a las elecciones.
+La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando sus funciones el cinco de septiembre siguiente a las elecciones.
 
 ###### ARTICULO 20.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 21.
 
-Los presuntos miembros de la Cámara declarados electos, tanto por el principio de votación de mayoría relativa, como por el de representación proporcional, se reunirán en el salón de Sesiones del Poder Legislativo a las once horas del seis de diciembre del año de la elección, para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniese la mayoría de los presuntos diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese hecho que no aceptan su cargo, llamándose a los suplentes que deberán presentarse en un plazo igual, y si tampoco lo hiciesen se declarará vacante el cargo y se convocará a nuevas elecciones en los distritos respectivos, pudiéndose instalar la legislatura con los diputados que asistieron a la Junta Previa. La convocatoria a elecciones la hará el Congreso si se encontrare reunido, o la Comisión Permanente.
+Los presuntos miembros de la Cámara declarados electos, tanto por el principio de votación de mayoría relativa, como por el de representación proporcional, se reunirán en el salón de Sesiones del Poder Legislativo a las once horas del veinte de agosto del año de la elección, para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniese la mayoría de los presuntos diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran dentro de los cinco días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese hecho que no aceptan su cargo, llamándose a los suplentes que deberán presentarse en un plazo igual, y si tampoco lo hiciesen se declarará vacante el cargo y se convocará a nuevas elecciones en los distritos respectivos, pudiéndose instalar la legislatura con los diputados que asistieron a la Junta Previa. La convocatoria a elecciones la hará el Congreso si se encontrare reunido, o la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -699,11 +731,13 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cámara y habiendo quórum, otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones ordinarias.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-El Congreso del Estado, tendrá dos períodos ordinarios de sesiones al año, el primero, del uno de febrero al quince de mayo, y el segundo, del quince de septiembre al quince de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45, primer párrafo, de esta Constitución, que iniciarán el primero de enero del año respectivo.
+El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año, el primero, del cinco de septiembre al quince de diciembre y el segundo, del uno de febrero al quince de mayo, excepto cuando el Gobernador del Estado inicie su mandato en la fecha prevista en el artículo 45, primer párrafo, en cuyo caso el primer período ordinario podrá extenderse hasta el 31 de diciembre, previo acuerdo de la mayoría de los integrantes del Congreso.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 Durante los recesos funcionará una Comisión Permanente; sin embargo, las distintas comisiones orgánicas que integran el Congreso, continuarán cumpliendo sus atribuciones.
 
@@ -729,11 +763,15 @@ Para tales efectos, el Congreso tiene facultades para practicar las investigacio
 
 La resolución que emita el Congreso al calificar la cuenta pública, es inatacable.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 27.
 
-Durante el segundo período ordinario, el Congreso se ocupará preferentemente, de revisar y calificar la cuenta pública, así como de estudiar, discutir y votar las Leyes de Ingresos de los Municipios y del Estado y el Decreto del proyecto del Presupuesto General de Egresos de este último, que deberá ser presentado por el Ejecutivo, a más tardar en el mes de noviembre del año que corresponda.
+Durante el primer período ordinario, el Congreso se ocupará preferentemente, de revisar y calificar la cuenta pública, así como de estudiar, discutir y votar las Leyes de Ingresos de los Municipios y del Estado y el Decreto del proyecto del Presupuesto General de Egresos de este último, que deberá ser presentado por el Ejecutivo, a más tardar en el mes de noviembre del año que corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 Si iniciado el año fiscal, no está aprobado el Presupuesto General de Egresos enviado por el titular del Ejecutivo del Estado para dicho período, transitoriamente, se utilizarán los parámetros aprobados para el ejercicio fiscal inmediato anterior, en los términos que señale la ley de la materia, hasta en tanto la Legislatura aprueba el nuevo Presupuesto.
 
@@ -791,9 +829,9 @@ III.- Al Poder Judicial del Estado, por conducto del Tribunal Superior de Justic
 
 IV.- A los Ayuntamientos en asuntos del Ramo Municipal;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- A los ciudadanos del Estado, mediante iniciativa popular; y
+V.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes; y
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -805,13 +843,17 @@ VI.- A la Comisión Estatal de los Derechos Humanos, en materia de los derechos 
 
 Ningún proyecto de ley o decreto que fuere desechado en el Congreso podrá ser presentado de nuevo en el mismo período de sesiones.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 35.
 
-Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien si no tuviere observaciones que hacer los promulgará inmediatamente. Se considerará aprobado por el Ejecutivo, todo proyecto no devuelto con observaciones dentro de los diez días hábiles siguientes a su envío. Si corriendo este término, el Congreso cierra o suspende sus sesiones, la devolución deberá hacerse a más tardar el décimo día de haberse vuelto a reunir.
+Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien si no tuviere observaciones que hacer los promulgará inmediatamente. Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones al Congreso dentro de los veinte días naturales siguientes a su recepción; vencido este plazo, el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente del Congreso ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial del Estado, sin que se requiera refrendo. Los plazos a que se refiere este artículo no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
 
@@ -911,9 +953,9 @@ XVII.- (DEROGADA, P.O. 7 DE JULIO DE 2012)
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XIX.- Designar al Consejero Presidente, a los Consejeros Electorales y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco, a los Magistrados del Tribunal Electoral de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; así como remitir al Gobernador del Estado la terna para designar Procurador General de Justicia del Estado;
+XIX.- Designar al Consejero Presidente, a los Consejeros Electorales y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco, a los Magistrados del Tribunal Electoral de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; así como ratificar, en su caso, previa comparecencia ante el Pleno o, en su caso, ante la Comisión Permanente, al Procurador General de Justicia que designe el Gobernador del Estado;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -973,7 +1015,9 @@ XXXIV.- Expedir y modificar la Ley Orgánica del Poder Legislativo y el Reglamen
 
 XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Estado por el voto de las dos terceras partes de los miembros de la Legislatura;
 
-XXXVI.- Conceder licencia a los Diputados para separarse de su cargo hasta por dos meses con goce de dietas, o por más tiempo sin ellas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XXXVI. Conceder licencia a los Diputados para separarse del cargo, en los términos establecidos en esta Constitución y en la Ley Orgánica del Congreso;
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
 
@@ -993,13 +1037,15 @@ XL.- Legislar en materia de Justicia Administrativa, determinando la organizaci�
 
 XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado, de los Municipios y de los demás entes fiscalizables, sin perjuicio de las evaluaciones trimestrales, por períodos anuales, a mas tardar en el segundo período de sesiones ordinario siguiente, con base en los informes técnicos, financieros y los demás soportes documentales suficientes, que en términos de Ley, presente el Órgano Superior de Fiscalización del Estado.
 
-Cuando el Congreso se encuentre en receso, la calificación podrá realizarse dentro de un período extraordinario, o bien, dentro de los primeros treinta días del siguiente período ordinario de sesiones.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-Siempre que las condiciones administrativas lo permitan, la cuenta pública podrá revisarse y calificarse por períodos inferiores a los establecidos en este artículo;
+Cuando el Congreso se encuentre en receso, la calificación podrá realizarse dentro de un período extraordinario, o bien, dentro de los primeros treinta días del siguiente período ordinario de sesiones;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XLII.- Legislar en materia de Participación Ciudadana, estableciendo las normas para la procedencia, aplicación y ejecución del plebiscito referéndum e iniciativa popular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XLII.- Legislar en materia de participación ciudadana, estableciendo las normas para la presentación de las iniciativas ciudadanas; y la procedencia, aplicación y ejecución de las consultas populares;
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2007)</small>
 
@@ -1061,7 +1107,9 @@ IV.- Aprobar o no con carácter provisional los nombramientos de Magistrados Num
 
 V.- Nombrar con carácter provisional a todos los Funcionarios y empleados cuya designación compete al Congreso del Estado;
 
-VI.- Resolver los asuntos de su competencia y recibir durante los recesos del Congreso las iniciativas de ley y proposiciones turnándolas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Resolver los asuntos de su competencia y recibir durante los recesos del Congreso las iniciativas de ley y proposiciones; así como las observaciones a los proyectos de ley o decreto que envíe el Titular del Poder Ejecutivo, turnándolas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
 
 VII.- Convocar a elecciones extraordinarias de Ayuntamientos conforme a la ley respectiva; y
 
@@ -1135,7 +1183,7 @@ Podrá ser sujeto de juicio político y en su caso, removido, exclusivamente, po
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
-###### Artículo 41.
+###### ARTICULO 41.
 
 Los tres Poderes del Estado, los órganos autónomos constitucionales y los Municipios, deberán entregar sus cuentas públicas al Congreso del Estado a través del Órgano Superior de Fiscalización, a más tardar el 31 de marzo del año siguiente, para su examen y calificación. La Cuenta Pública deberá contener los estados y la información financiera con los criterios que rigen la contabilidad pública debidamente armonizada, de acuerdo a lo establecido en las disposiciones legales, reglamentarias y administrativas aplicables.
 
@@ -1197,25 +1245,29 @@ II.- Tener treinta años o más al día de la elección;
 
 III.- No ser ministro de culto religioso alguno;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- No ser titular de alguna Dependencia o Entidad de la Administración Pública del Estado, Órganos Autónomos, ni Presidente Municipal; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, funcionario federal, estatal o municipal, ni ser miembro de las fuerzas armadas, ni haber tenido mando de fuerza pública o policial alguna, salvo que se separe definitivamente cuando menos durante los ciento veinte días naturales inmediatos, antes del inicio de registro de candidatos;
+IV.- No ser titular de alguna dependencia de la Administración Pública del Estado, ni Procurador General de Justicia; o titular de Organismos Autónomos; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje; ni diputado al Congreso del Estado; ni ser miembro de las fuerzas armadas, ni haber tenido mando de fuerza pública o policial alguna, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde ciento veinte días naturales antes de la fecha de la elección;
 
-No ser titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones ciento veinte días naturales inmediatos, antes del inicio de registro de candidatos;
+No ser titular de alguno de los organismos descentralizados u órganos desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones ciento veinte días naturales antes de la fecha de la elección;
 
-No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en el Consejo Estatal, Distrital o Municipal del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes del día de la elección; y
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 V.- No estar comprendido dentro de alguna de las incapacidades del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 45.
 
-El Gobernador Constitucional estará en funciones el día primero de enero siguiente a la elección y durará en su cargo seis años.
+El Gobernador Constitucional entrará en funciones el día primero de octubre siguiente a la elección y durará en su cargo seis años.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
 
 El Gobernador del Estado, cuyo origen sea la elección popular ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
 
 Nunca podrán ser electos para el período inmediato:
 
@@ -1229,27 +1281,33 @@ B) El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier deno
 
 El Gobernador, al tomar posesión de su cargo, rendirá ante el Congreso o ante la Comisión Permanente la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Gobernador que el Pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado. Si no lo hiciere así que la Nación o el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 47.
 
-En el caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en Sesiones, se erigirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un Gobernador Interino. Si no se reúne el quórum requerido o los Diputados presentes no aprueban el nombramiento por mayoría absoluta, se convocará a una segunda sesión para los mismos efectos; y si en ella tampoco acude el número necesario de Diputados para integrar el citado quórum, o persiste el desacuerdo en el nombramiento de Gobernador Interino, se convocará a una Tercera Sesión, que será celebrada con el quórum a que se refiere el artículo 24 de esta Constitución y el nombramiento citado, se hará con el acuerdo que se tome por la mayoría de los diputados presentes.
+En caso de falta absoluta del Gobernador, en tanto el Congreso nombra al Gobernador interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II y IV del artículo 44 de esta Constitución.
 
-El Congreso, expedirá dentro de los cinco días siguientes al de la designación de Gobernador interino, la convocatoria para la elección extraordinaria de Gobernador que deba concluir el periodo respectivo; debiendo mediar entre la fecha de la convocatoria y la que se señale para efectuar elecciones, un plazo no menor de tres meses ni mayor de diez.
+Quien ocupe provisionalmente la Gubernatura no podrá remover o designar a los Secretarios, ni al Procurador General de Justicia, sin autorización previa del Congreso. Asimismo, entregará al Congreso un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego, a un Gobernador Provisional, y en la misma sesión convocará a sesión extraordinaria al Congreso, a celebrarse dentro de los tres días siguientes para que designe al Gobernador Interino y proceda en los términos del párrafo anterior.
+Cuando la falta absoluta del Gobernador ocurriese en los dos primeros años del período respectivo, si el Congreso se encontrase en sesiones y concurriendo, cuando menos, las dos terceras partes del número total de sus integrantes, se constituirá inmediatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino, en los términos que disponga la Ley del Congreso. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección del Gobernador que deba concluir el periodo respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de siete meses ni mayor de nueve. El así electo iniciará su encargo y rendirá protesta ante el Congreso siete días después de concluida la última etapa del proceso electoral.
 
-Cuando la falta de Gobernador ocurriese después del segundo año del periodo, respectivo, si el Congreso se encontrase en sesiones designará al Gobernador Sustituto que deberá concluir el periodo. Si el Congreso no estuviere reunido, la Comisión Permanente nombrará a un Gobernador provisional y en la misma sesión convocará al Congreso a Sesión Extraordinaria a celebrarse dentro de los tres días siguientes, para que se erija en Colegio Electoral y haga la designación del Gobernador Sustituto.
+Si el Congreso no estuviere en sesiones, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral, nombre un Gobernador interino y expida la convocatoria a elecciones para Gobernador, en los términos del párrafo anterior.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+Cuando la falta absoluta del Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, designará al Gobernador substituto que deberá concluir el período, siguiendo, en lo conducente, el mismo procedimiento que en el caso del Gobernador interino.
+
+Si el Congreso no estuviere reunido, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral y nombre un Gobernador substituto siguiendo, en lo conducente, el mismo procedimiento que en el caso del Gobernador interino.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 48.
 
-Si al comenzar un período constitucional no se presentase el Gobernador electo sin causa justificada, o la elección no estuviere hecha o declarada válida, el primero de enero cesará el Gobernador cuyo período haya concluido encargándose del Poder Ejecutivo en calidad de Gobernador Interino, el que designe el Congreso, procediéndose en seguida como se dispone en el artículo anterior.
+Si antes de iniciar un período constitucional la elección no estuviese hecha o declarada válida, cesará el Gobernador cuyo período concluya y será Gobernador interino el que haya designado el Congreso, en los términos del artículo anterior.
 
-Para suplir las ausencias temporales del Gobernador hasta por sesenta días, este designará de entre los titulares de las dependencias de la Administración Pública, al funcionario que deba sustituirlo, comunicándolo al Congreso del Estado, o en su defecto a la Comisión Permanente.
+Si al comenzar el período constitucional hubiese falta absoluta del Gobernador del Estado, asumirá provisionalmente el cargo el Presidente del Congreso, en tanto el propio Congreso designa al Gobernador interino, conforme al artículo anterior.
 
-Cuando la falta de Gobernador fuese temporal excediendo de sesenta días, el Congreso designará Gobernador Interino por el tiempo que dure la falta, o en su defecto la Comisión Permanente designará un Gobernador Provisional, convocando en la misma sesión, al Congreso a sesión extraordinaria para que se erija en Colegio Electoral y haga la designación de Gobernador Interino.
+Cuando el Gobernador solicite licencia para separarse del cargo hasta por sesenta días naturales, prorrogables por una única vez hasta por un periodo igual, una vez autorizada por el Congreso, el Secretario de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo.
+
+Si la falta temporal se convierte en absoluta, se procederá como dispone el artículo anterior.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1301,9 +1359,9 @@ VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras de
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IX.- Convocar en los términos que establece esta Constitución y las demás disposiciones jurídicas aplicables, a plebiscito o referéndum;
+IX.- Solicitar al Congreso, en los términos que establecen esta Constitución y las demás disposiciones jurídicas aplicables, la convocatoria a consultas populares;
 
 X.- (DEROGADA, P.O. 7 DE JULIO DE 2012)
 
@@ -1323,13 +1381,13 @@ XV.- Coordinar la inversión pública estatal y municipal para los efectos de la
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado; informe que contestará en el mismo acto el Presidente del Congreso;
+XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso. Al presentar su informe, el Gobernador del Estado podrá además dirigir al Pleno un mensaje alusivo. En todo caso, el Presidente del Congreso, en términos generales y concisos, realizará la intervención que corresponda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XVIII.- Acordar que concurran a las sesiones de la Legislatura el Secretario del ramo que corresponda, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo;
+XVIII.- Acordar que concurra a las sesiones de la Legislatura el Secretario del ramo que corresponde, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo, o tratar temas relevantes de interés para el Congreso, relacionados con su ramo.
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -1430,6 +1488,18 @@ I.- Órganos que ejercen funciones jurisdiccionales:
 8).- Juzgados de Ejecución de Sanciones.
 
 Estos tres últimos órganos judiciales, ejercerán las funciones que le atribuyan competencia dentro del sistema procesal penal acusatorio y oral, y de las demás en que sean dotados.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El proceso penal será acusatorio y oral. Se regirá por los principios generales de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el responsable de la comisión del ilícito no quede impune, y que los daños causados por el delito se reparen.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Las leyes preverán mecanismos alternos gratuitos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Todos los derechos fundamentales y particularmente los concernientes con la materia penal de esta Constitución Estatal, serán interpretados por los jueces locales apegados estrictamente a la interpretación que de los mismos derechos reconocidos en la Constitución Federal y los Tratados Internacionales hayan hecho la Suprema Corte de Justicia de la Nación y demás tribunales competentes del Poder Judicial de la Federación, así como la Corte Interamericana de Derechos Humanos.
 
 II.- Para el ejercicio de la jurisdicción en los mecanismos alternativos de solución de conflictos, se contará con: Centros de Acceso a la Justicia Alternativa.
 
@@ -1579,9 +1649,7 @@ Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán och
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
-###### ARTICULO 63 Bis.
-
-El Tribunal Electoral de Tabasco será la máxima autoridad jurisdiccional de la materia en el Estado, funcionará de manera permanente, estará dotado de personalidad jurídica y patrimonio propios, independiente en sus resoluciones y autónomo en su funcionamiento.
+ARTICULO 63 BIS.- El Tribunal Electoral de Tabasco será la máxima autoridad jurisdiccional de la materia en el Estado, funcionará de manera permanente, estará dotado de personalidad jurídica y patrimonio propios, independiente en sus resoluciones y autónomo en su funcionamiento.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
@@ -1613,9 +1681,9 @@ VI.- La determinación e imposición de sanciones por parte del Instituto Electo
 
 VII.- Los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y sus servidores públicos; así como los que surjan entre el Tribunal Electoral y sus servidores públicos, en términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Las impugnaciones que se presenten respecto de la celebración de plebiscitos, referéndums o procesos de iniciativa popular; y
+VIII.- Las impugnaciones que se presenten respecto de la celebración de consultas populares o la presentación de iniciativas ciudadanas; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
@@ -1701,9 +1769,9 @@ El Estado tiene como base de su división territorial y de su organización pol�
 
 I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores que la ley determine. El número de Síndicos se determinará en razón directa de la población del Municipio que represente, aquellos municipios con más de cien mil habitantes contarán con dos síndicos. Todos serán, electos mediante sufragio universal, libre, secreto, directo, personal e intransferible o bajo el principio de representación proporcional, y en su caso, por quienes los sustituyan en términos de esta Constitución. La competencia que la Constitución General de la República y la Constitución local, otorgan al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre ésta y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-El Ayuntamiento entrará en funciones el primero de enero siguiente a las elecciones, y durará en su encargo tres años.
+El Ayuntamiento entrará en funciones el día cinco de octubre siguiente a las elecciones, y durará en su encargo tres años.
 
 II.- El Ayuntamiento se integrará con el número de Regidores que determine la Ley correspondiente y radicará en la cabecera del Municipio respectivo.
 
@@ -1743,13 +1811,13 @@ d) No tener antecedentes penales;
 
 e) Haber cumplido 21 años antes del día de la elección;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-f) No ser Titular en alguna de las dependencias de la Administración Pública Estatal; Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, ni del Tribunal de Conciliación y Arbitraje; Oficial Mayor o Titular de alguna de las Direcciones de la propia administración municipal; funcionario federal, a menos que permanezca definitivamente y legalmente separado de su cargo desde noventa días naturales antes del inicio del registro de candidatos de que se trate;
+f) No ser titular en alguna de las dependencias de la Administración Pública Estatal, ni Procurador General de Justicia; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, ni del Tribunal de Conciliación y Arbitraje; Secretario de Ayuntamiento o titular de alguna de las direcciones de la propia administración municipal; ni servidor público de elección popular federal o local; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
-No ser titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes del inicio del registro de candidatos de que se trate;
+No ser titular de alguna de las entidades u organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes de la fecha de la elección;
 
-No ser Magistrado, Juez Instructor, ni Secretario del Tribunal Electoral, ni Consejero Presidente o Consejero Electoral en el Consejo Estatal, Distrital o Municipal del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+No ser Magistrado, Juez Instructor, ni Secretario del Tribunal Electoral, ni Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, dos años antes del día de la elección; y
 
 g) Los demás requisitos que exijan las Leyes correspondientes.
 
@@ -1881,15 +1949,17 @@ g) Participar en la creación y administración de zonas de reservas ecológicas
 
 h) Intervenir conjuntamente con las autoridades competentes, en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-i) Celebrar convenios para la administración y custodia de las zonas federales; y
+i) Celebrar convenios para la administración y custodia de las zonas federales.
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IX.- Convocar en los términos establecidos por esta Constitución y las leyes respectivas, a referéndum o plebiscito.
+En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios; y
 
-En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Convocar en los términos establecidos por esta Constitución y las leyes respectivas a consultas populares.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
@@ -1899,7 +1969,7 @@ En lo conducente y de conformidad con los fines señalados en el párrafo tercer
 
 ### CAPITULO I. REFORMAS DE LA CONSTITUCION
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 66.
 
@@ -2041,7 +2111,9 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 ### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>N. DE E. DE LA LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 13 DE SEPTIEMBRE DE 2013, PÁGINA 17, SE ADVIERTE LA ADICIÓN DEL CONTENIDO AL PRIMER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL ANTERIOR PRIMERO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ## Título Décimo.
 
@@ -2181,13 +2253,19 @@ REFORMA A LA CONSTITUCION.
 
 ###### ARTICULO 83.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones y reformas lleguen a formar parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado, dentro de los quince días naturales siguientes a la legal recepción del expediente y de la notificación respectiva. En caso de que un Ayuntamiento no emita su voto dentro del término concedido, se tendrá como aprobatorio de la reforma o adición de que se trate.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones y reformas lleguen a formar parte de la misma se requiere que el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado, dentro de los veinte días naturales siguientes a la legal recepción del expediente y de la notificación respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 El Congreso o la Comisión Permanente, en su caso, harán el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 84.
+
+La Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanan, los Tratados Internacionales en los que México sea parte, ésta Constitución y las leyes del Congreso del Estado que de ella emanen serán la Ley Suprema del Estado.
+
+> <small>(ADICIONADO [N. DE E. ANTES PÁRRAFO PRIMERO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Esta Constitución no perderá su vigencia, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados quienes hayan figurado en el Gobierno emanado de la rebelión, así como los que hubieren contribuido a ésta.
 
@@ -3024,3 +3102,47 @@ QUINTO.- Se derogan todas las disposiciones que contravengan los términos de es
 SEXTO.- Los bienes muebles, recursos humanos y en su caso bienes inmuebles que actualmente pertenecen o forman parte de la Comisión Estatal de Derechos Humanos, en su carácter de organismo descentralizado de la administración pública estatal pasará a formar parte del patrimonio del órgano autónomo, en términos de las disposiciones aplicables.
 
 SÉPTIMO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO 031, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 3, 4, 4 BIS, FRACCIÓN IV Y 84, PRIMER PÁRRAFO; SE ADICIONAN AL ARTÍCULO 1, UN TERCER PÁRRAFO, AL ARTÍCULO 55, FRACCIÓN I, LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO, Y AL ARTÍCULO 84, UN SEGUNDO PÁRRAFO Y SE DEROGA EL 4 TER, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
+
+TERCERO.- En un plazo no mayor a un año a partir de la publicación de este Decreto, se deberán efectuar las reformas que sean necesarias a las leyes secundarias respectivas.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+DECRETO 032, POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 6, LAS FRACCIONES I, II, IV Y V DEL ARTÍCULO 7; EL ARTÍCULO 8 BIS; LA FRACCIÓN V DEL APARTADO A, EL INCISO J) DE LA FRACCIÓN I DEL APARTADO C Y LA FRACCIÓN I DEL APARTADO D DEL ARTÍCULO 9; EL ARTÍCULO 13; LAS FRACCIONES IV Y V DEL TERCER PÁRRAFO DEL ARTÍCULO 14; LA FRACCIÓN III Y LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DE LA FRACCIÓN IV, DEL ARTÍCULO 15; EL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTICULO 21; EL PRIMER PÁRRAFO DEL ARTÍCULO 23; EL PRIMER PÁRRAFO DEL ARTÍCULO 27; LA FRACCIÓN V DEL ARTÍCULO 33; EL PRIMER PÁRRAFO DEL ARTÍCULO 35; LAS FRACCIONES XIX, XXXVI, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XLI Y LA FRACCIÓN XLII, DEL ARTÍCULO 36; LA FRACCIÓN VI DEL ARTÍCULO 39; LA FRACCIÓN IV DEL ARTÍCULO 44; EL PRIMER PÁRRAFO DEL ARTÍCULO 45; EL ARTÍCULO 47; EL ARTÍCULO 48; LAS FRACCIONES IX, XVII Y XVIII DEL ARTÍCULO 51; LA FRACCIÓN VIII DEL ARTÍCULO 63 BIS; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I Y EL INCISO F) DE LA FRACCIÓN XI DEL ARTÍCULO 64; EL INCISO I) DEL PRIMER PÁRRAFO DE LA FRACCIÓN VIII Y EL SEGUNDO PÁRRAFO DE DICHA FRACCIÓN, ASÍ COMO EL ÚNICO PÁRRAFO DE LA FRACCIÓN IX, DEL ARTÍCULO 65; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 83. SE ADICIONA: UNA FRACCIÓN VI AL ARTÍCULO 7, SE DEROGAN: LA FRACCIÓN III DEL APARTADO A DEL TERCER PÁRRAFO DEL ARTÍCULO 9; Y EL TERCER PÁRRAFO DE LA FRACCIÓN XLI DEL ARTÍCULO 36, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los presidentes municipales y regidores de los ayuntamientos, así como los diputados a la LXI Legislatura del Congreso del Estado, electos el 1° de julio de 2012 para el trienio 2013-2015, concluirán su encargo el 31 de diciembre de 2015. El Gobernador electo para el período 2013-2018 concluirá su mandato el 31 de diciembre de 2018.
+
+Los diputados a la LXII Legislatura del Congreso del Estado de Tabasco, que se elijan el 5 de julio de 2015 para el trienio 2016-2018, entrarán en funciones el 1° de enero de 2016 y concluirán su encargo el 4 de septiembre de 2018.
+
+Los presidentes municipales y regidores, que resulten electos el 5 de julio de 2015 para el trienio 2016-2018, entrarán en funciones el 1° de enero de 2016 y concluirán su encargo el 4 de octubre de 2018
+
+El Gobernador que resulte electo el 1° de julio de 2018, entrará en funciones el 1° de enero de 2019 y concluirá su encargo el 30 de septiembre de 2024.
+
+TERCERO.- La actual LXI Legislatura del Congreso del Estado celebrará sus períodos ordinarios de sesiones en las fechas previstas originalmente para su mandato; es decir, en el primer año de su ejercicio, el primer periodo ordinario será del 1 ° de enero al 15 de mayo y el segundo período del 15 de septiembre al 15 de diciembre de 2013; en el segundo año, el primer período será del 1° de febrero al 15 de mayo y el segundo periodo del 15 de septiembre al 15 de diciembre de 2014; en el tercer año, el primer período será del 1° de febrero al 15 de mayo y el segundo del 15 de septiembre al 15 de diciembre de 2015, concluyendo su mandato el 31 de diciembre del mismo año.
+
+La LXII Legislatura del Congreso del Estado, que fungirá del 1° de enero de 2016 al 4 de septiembre de 2018, tendrá sólo cinco períodos ordinarios de sesiones: en el primer año de ejercicio, el primer período correrá del 1° de enero al 15 de mayo de 2016 y el segundo periodo del 5 de septiembre al 15 de diciembre del mismo año; en el segundo año de ejercicio, el primer período correrá del 1° de febrero al 15 de mayo de 2017 y el segundo período del 5 de septiembre al 15 de diciembre del mismo año; el tercer año de ejercicio tendrá un solo período ordinario de sesiones que correrá del 1° de febrero al 15 de mayo de 2018, concluyendo el ejercicio de la Legislatura el 4 de septiembre de 2018.
+
+CUARTO.- El Gobernador electo para el período 2013-2018, presentará al Congreso del Estado el informe a que se refiere el Artículo 51, fracción XVII de la Constitución del Estado de Tabasco, el segundo domingo del mes de noviembre de cada año de su ejercicio, incluido el último. El Gobernador que resulte electo para la administración 2019-2024, presentará sus respectivos informes conforme a lo señalado en dicho numeral.
+
+QUINTO.- Se abroga la Ley de Participación Ciudadana del Estado de Tabasco. El Congreso deberá expedir la nueva Ley de Participación Ciudadana del Estado de Tabasco, a más tardar en un plazo de seis meses contados a partir de la fecha de publicación del presente Decreto.
+
+De igual modo, a más tardar en un plazo de seis meses contados a partir de la fecha de publicación del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones pertinentes en la Ley Electoral del Estado y en la Ley del Sistema de Medios de Impugnación en Materia Electoral, así como en los demás ordenamientos a que haya lugar.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Comuníquese a las Cámaras de Senadores y de Diputados del Congreso de la Unión, del cumplimiento de lo establecido por el Artículo Tercero Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado el 9 de agosto de 2012 en el Diario Oficial de la Federación, para los efectos procedentes.
+
+OCTAVO.- Las modificaciones a los Artículos 19, 21 y 27 de la Constitución Política del Estado Libre y Soberano de Tabasco contenidas en el presente Decreto entrarán en vigor a partir del 20 de agosto de 2018.
+
+NOVENO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política el Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
