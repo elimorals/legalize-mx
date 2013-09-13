@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-12596"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-07"
-last_updated: "2001-08-17"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 7 de agosto de 1998.
 
@@ -63,7 +63,7 @@ V.- Organismos Descentralizados de la Administración Pública Estatal y Municip
 
 VI.- Los Tribunales Administrativos y Procuradurías con autonomía jurisdiccional que funcionen en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 3o.
 
@@ -75,7 +75,7 @@ II.- Cuando por causas distintas al cambio de administración, se separen de su 
 
 En caso de cese, despido, destitución o licencia por tiempo indefinido en los términos de las leyes respectivas, el servidor público saliente, no quedará relevado de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 4o.
 
@@ -142,6 +142,10 @@ VI.- En general los aspectos relacionados con la situación administrativa, desa
 ###### ARTICULO 12.
 
 El informe a que se refiere la Fracción I del Artículo anterior, deberá contener una descripción resumida de la situación del despacho a la fecha de inicio de su gestión; también describirá las actividades emprendidas y resultados obtenidos durante la misma, señalando especialmente los asuntos que se encuentran en proceso, y por último la situación del despacho en la fecha de retiro o término de su gestión.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Los Titulares de los Órganos de Control al concluir su encargo, deberán incluir un Informe final que contenga la información y/o las observaciones que refieren los artículos 64 y 64 Bis de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios.
 
 ###### ARTICULO 13.
 
@@ -243,10 +247,14 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE AGOSTO DE 2001.
 
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
