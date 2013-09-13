@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2013-07-22"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y PROGRESIVA A PARTIR DEL 1 DE ENERO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -2546,13 +2546,27 @@ El incumplimiento de esta disposición se sancionará de conformidad con las ley
 
 Antes de trasladar al probable responsable al reclusorio preventivo, se le identificará debidamente.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-###### ARTICULO 270 Bis.
+ARTICULO 270 bis.- (DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
 
-Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, pero no excederá de treinta días, prorrogables por otros treinta días, a solicitud del Ministerio Público.
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 270 bis 1.- Procederá la detención con control judicial cuando el Ministerio Público acuda ante el Juez y además, acredite:
+
+I.- Que no se garantice la comparecencia del indiciado en la averiguación previa o proceso penal o pueda evadir la acción de la justicia;
+
+II.- Que la conducta del indiciado entorpezca o impida el desarrollo de la investigación al destruir, modificar, ocultar o falsificar elementos de prueba;
+
+III.- Que la conducta del indiciado represente un riesgo para la integridad de la víctima, los testigos o la comunidad, o que ejerza actos de intimidación o amenaza a los mismos.
+
+La petición deberá realizarse por el Ministerio Público dentro de las cuarenta y ocho horas del periodo de detención en la Averiguación Previa del indiciado, siempre que justifique que existen datos que hagan posible el hecho ilícito y la probable responsabilidad, y que se trate de delito calificado como grave; asimismo, el Juez Penal deberá resolver en un plazo máximo de cuatro horas quien, si lo considera procedente, ordenará la detención hasta por un plazo de cinco días prorrogables por otros cinco más, así como determinará el tiempo, modo y lugar en donde se llevará a cabo la detención con control judicial.
+
+Tomando en consideración el avance de la investigación que presente el Ministerio Público el Juez resolverá, escuchando previamente al detenido y a su abogado defensor, sobre la subsistencia o el levantamiento de la detención con control judicial; esta audiencia se llevará a cabo en el día seis, contados a partir del día en que se decretó dicha detención.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2568,21 +2582,41 @@ El Ministerio Público podrá hacer efectiva la garantía si el probable respons
 
 La garantía se cancelará y en su caso se devolverá cuando se resuelva el no ejercicio de la acción penal o una vez que se haya presentado el probable responsable ante el juez de la causa y éste acuerde la devolución.
 
-En las averiguaciones previas por delitos que sean de la competencia de los juzgados de paz en materia penal o siendo de los juzgados penales cuya pena máxima no exceda de cinco años de prisión el probable responsable no será privado de su libertad en los lugares ordinarios de detención y podrá quedar arraigado en su domicilio, con la facultad de trasladarse al lugar de su trabajo, si concurrieren las circunstancias siguientes:
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-I.- Proteste presentarse ante el Ministerio Público que tramite la averiguación, cuando éste lo disponga;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II.- No existan datos de que pretenda sustraerse a la acción de la justicia;
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Realice convenio con el ofendido o sus causahabientes, ante el Ministerio Público de la forma en que reparará el daño causado, en su caso, cuando no se convenga sobre el monto, el Ministerio Público con base en una estimación de los daños causados, en la inspección ministerial que practique, en las versiones de los sujetos relacionados con los hechos y en los demás elementos de prueba de que disponga, determinará dicho monto;
+EN LAS AVERIGUACIONES PREVIAS POR DELITOS QUE SEAN DE LA COMPETENCIA DE LOS JUZGADOS DE PAZ EN MATERIA PENAL O SIENDO DE LOS JUZGADOS PENALES CUYA PENA MÁXIMA NO EXCEDA DE CINCO AÑOS DE PRISIÓN EL PROBABLE RESPONSABLE NO SERÁ PRIVADO DE SU LIBERTAD EN LOS LUGARES ORDINARIOS DE DETENCIÓN Y PODRÁ SER DETENIDO CON CONTROL JUDICIAL EN SU DOMICILIO, CON LA FACULTAD DE TRASLADARSE AL LUGAR DE SU TRABAJO, SI CONCURRIEREN LAS CIRCUNSTANCIAS SIGUIENTES:
 
-IV.- Que tratándose de delitos por imprudencia ocasionados con motivo del tránsito de vehículos, el presunto responsable no hubiese abandonado al lesionado, ni participado en los hechos en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas;
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-V.- Que alguna persona, a criterio del agente investigador del Ministerio Público, fundado en los datos que recabe al respecto, se comprometa, bajo protesta, a presentar al probable responsable cuando así se resuelva;
+I.- PROTESTE PRESENTARSE ANTE EL MINISTERIO PÚBLICO QUE TRAMITE LA AVERIGUACIÓN, CUANDO ÉSTE LO DISPONGA;
 
-VI.- En caso de que el indiciado o la persona a quien se refiere la fracción anterior, desobedecieren sin justa causa las órdenes que dicte el Ministerio Público, se revocará el arraigo y la averiguación previa será consignada en su caso, solicitando al juez competente la orden de aprehensión o de comparecencia en su contra, según corresponda; y
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VII.- El arraigo no podrá prolongarse por más de tres días; transcurridos éstos el arraigado podrá desplazarse libremente, sin perjuicio de que el Ministerio Público, si así procediese, consigne la averiguación y solicite la orden mencionada.
+II.- NO EXISTAN DATOS DE QUE PRETENDA SUSTRAERSE A LA ACCIÓN DE LA JUSTICIA;
+
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+III.- REALICE CONVENIO CON EL OFENDIDO O SUS CAUSAHABIENTES, ANTE EL MINISTERIO PÚBLICO DE LA FORMA EN QUE REPARARÁ EL DAÑO CAUSADO, EN SU CASO, CUANDO NO SE CONVENGA SOBRE EL MONTO, EL MINISTERIO PÚBLICO CON BASE EN UNA ESTIMACIÓN DE LOS DAÑOS CAUSADOS, EN LA INSPECCIÓN MINISTERIAL QUE PRACTIQUE, EN LAS VERSIONES DE LOS SUJETOS RELACIONADOS CON LOS HECHOS Y EN LOS DEMÁS ELEMENTOS DE PRUEBA DE QUE DISPONGA, DETERMINARÁ DICHO MONTO;
+
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+IV.- QUE TRATÁNDOSE DE DELITOS POR IMPRUDENCIA OCASIONADOS CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS, EL PRESUNTO RESPONSABLE NO HUBIESE ABANDONADO AL LESIONADO, NI PARTICIPADO EN LOS HECHOS EN ESTADO DE EBRIEDAD O BAJO EL INFLUJO DE ESTUPEFACIENTES O SUSTANCIAS PSICOTRÓPICAS;
+
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+V.- QUE ALGUNA PERSONA, A CRITERIO DEL AGENTE INVESTIGADOR DEL MINISTERIO PÚBLICO, FUNDADO EN LOS DATOS QUE RECABE AL RESPECTO, SE COMPROMETA, BAJO PROTESTA, A PRESENTAR AL PROBABLE RESPONSABLE CUANDO ASÍ SE RESUELVA;
+
+(NOTA: EL 20 DE ABRIL DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2013 Y SU ACUMULADA 31/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 14 DE OCTUBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+VI. EN CASO DE QUE EL INDICIADO O LA PERSONA A QUIEN SE REFIERE LA FRACCIÓN ANTERIOR, DESOBEDECIEREN SIN JUSTA CAUSA LAS ÓRDENES QUE DICTE EL MINISTERIO PÚBLICO, LA AVERIGUACIÓN PREVIA SERÁ CONSIGNADA EN SU CASO, SOLICITANDO AL JUEZ COMPETENTE LA ORDEN DE APREHENSIÓN O DE COMPARECENCIA EN SU CONTRA, SEGÚN CORRESPONDA.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+VII. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2013)
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2910,11 +2944,11 @@ Este auto, el de sujeción a proceso y el de libertad por falta de elementos par
 
 El auto de formal prisión y de sujeción al proceso, serán apelables en el efecto devolutivo.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 301.
 
-Cuando por la naturaleza del delito o de la pena aplicable, el imputado no deba ser internado en prisión preventiva y existan elementos para suponer que podrá sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juez fundada y motivadamente o éste disponer de oficio, con audiencia del imputado, el arraigo de éste con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del término en que deba resolverse el proceso.
+(DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
 
 > <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
@@ -6229,3 +6263,13 @@ SÉPTIMO.- El presupuesto de egresos del Distrito Federal para el ejercicio fisc
 Asimismo, en el presupuesto de egresos de los años subsecuentes deberán efectuarse los ejercicios presupuestales que sean necesarios según los requerimientos de este ordenamiento hasta la finalización de la implementación y completa operación del Sistema Procesal Penal Acusatorio.
 
 OCTAVO.- El Pleno del Consejo de la Judicatura del Distrito Federal, la Consejería Jurídica y de Servicios Legales, la Procuraduría General de Justicia del Distrito Federal, la Secretaría de Seguridad Pública del Distrito Federal y cualquier dependencia a la que le sean aplicables las disposiciones contenidas en el nuevo Código de Procedimientos Penales deberán elaborar los planes y programas necesarios para su adecuada, oportuna y correcta implementación, según los tiempos establecidos en el artículo PRIMERO transitorio del presente Decreto; así como, contemplar en los proyectos de presupuesto respectivos, las partidas que se requieran para la ejecución y operación de los programas que se generen, las obras de infraestructura, la contratación de personal, la capacitación, la implementación de un sistema informático que permita la interconexión entre los operadores para un registro eficiente y fehaciente de la información, y todos los demás requerimientos que sean necesarios para cumplir con los objetivos a partir de la entrada en vigor del presente Código.
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente decreto entrará en vigor a los 30 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - Los procesos penales que se sigan por los tipos penales que integren delincuencia organizada y las sentencias que se hayan dictado al respecto, seguirán substanciándose hasta su culminación y se compurgarán de conformidad con los artículos 254 y 255 del Código Penal para el Distrito Federal y la Ley contra la Delincuencia Organizada para el Distrito Federal, que seguirán vigentes sólo en estos supuestos.
+
+CUARTO. - Se derogan todas las disposiciones contrarias a este Decreto.
