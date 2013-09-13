@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2012-11-09"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -451,9 +451,9 @@ X.- Rendir a las autoridades federales y estatales, los informes estadísticos q
 
 XI.- Informar semestralmente a la Dirección del Registro Civil, sobre las labores de la Oficina, proponiendo en su caso, las medidas necesarias para el buen servicio;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XII.- Celebrar todo tipo de jornadas tendientes a promover y efectuar el registro oportuno de menores, con relación al tiempo que refiere el artículo 55 del Código Civil para el Estado de Baja California y,
+XII.- Celebrar todo tipo de jornadas tendientes a promover y efectuar el registro oportuno de menores, con relación al tiempo que refiere el artículo 55 del Código Civil para el Estado de Baja California y Coordinarse con el Ayuntamiento respectivo y otros Organismos interesados en el bienestar de la familia, a fin de obtener la difusión entre los habitantes, de la conveniencia de cumplir con el Registro Civil; de igual manera fomentará la participación en los programas de Escuela para Padres ofrecidos por el sistema estatal para el desarrollo integral de la familia.
 
 XIII.- Fijar en lugar visible de la Oficialía, las tarifas que causen los derechos del Registro Civil;
 
@@ -804,3 +804,7 @@ P.O. 9 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
