@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-gabinetes-del-poder-ejecutivo-del-estado-9420
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-23"
-last_updated: "2013-04-23"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS GABINETES DEL PODER EJECUTIVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 23 de abril de 2013.
 
@@ -67,37 +67,43 @@ Los Gabinetes Legal y Ampliado sesionarán cada vez que lo determine el Gobernad
 
 ## TÍTULO SEGUNDO. DE LOS GABINETES ESPECIALIZADOS
 
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 6.
 
-Se constituyen como instancias de coordinación que proponen, operan y evalúan las políticas públicas en las materias que sean de la competencia concurrente de varias dependencias o entidades de la administración pública estatal, los gabinetes especializados siguientes:
+Se constituyen como instancias de coordinación que proponen, operan y evalúan las políticas públicas en las materias que sean de la competencia concurrente de varias dependencias u organismos auxiliares de la administración pública estatal, los gabinetes especializados siguientes:
 
-1. Sociedad Igualitaria (Social).
+1. Gobierno Solidario.
 
-2. Seguridad Ciudadana.
+2. Sociedad Protegida.
 
-3. Competitividad Económica.
+3. Estado Progresista.
 
-4. Infraestructura.
+4. Cultura de Legalidad, Ética y Buenas Prácticas.
+
+5. Fortalecimiento Municipal.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 7.
 
-Los Gabinetes Especializados a que se refiere el artículo anterior se integran, particularmente, de la siguiente forma:
+Los gabinetes especializados se integran de la siguiente forma:
 
-I. Gabinete de Sociedad Igualitaria (Social):
+I. Gobierno Solidario:
 
-A) Un Presidente, quien será el titular del Poder Ejecutivo del Estado.
+A) Un Presidente, quien será el Titular del Poder Ejecutivo del Estado.
 
 B) Un Vicepresidente, quien será el Secretario General de Gobierno.
 
-C) Un Secretario, quien será el Secretario de Desarrollo Social.
+C) Un Secretario Técnico, quien será el Secretario de Desarrollo Social.
 
-D) Nueve Vocales Permanentes, quienes serán:
+D) Nueve vocales permanentes, quienes serán:
 
 1. El Secretario de Finanzas.
 
-2. El Secretario del Trabajo.
+2. El Secretario de Salud.
 
-3. El Secretario de Salud.
+3. El Secretario del Trabajo.
 
 4. El Secretario de Educación.
 
@@ -107,109 +113,115 @@ D) Nueve Vocales Permanentes, quienes serán:
 
 7. El Secretario Técnico del Gabinete.
 
-8. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+8. El Coordinador General de Comunicación Social.
 
-9. El Coordinador General de Comunicación Social.
+9. La Directora General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-E) Vocales Incorporados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de las dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en el Gabinete Especializado.
+E) Vocales invitados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de las dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en el Gabinete Especializado.
 
-II. Gabinete de Seguridad Ciudadana:
+III. Estado Progresista:
 
-A) Un Presidente, quien será el titular del Poder Ejecutivo del Estado.
-
-B) Un Vicepresidente, quien será el Secretario General de Gobierno.
-
-C) Cuatro Vocales Permanentes, quienes serán:
-
-1. El Secretario de Seguridad Ciudadana.
-
-2. El Procurador General de Justicia.
-
-3. El Secretario de Finanzas.
-
-4. El Coordinador General de Comunicación Social.
-
-D) Vocales Incorporados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en este Gabinete Especializado.
-
-III. Gabinete de Competitividad Económica:
-
-A) Un Presidente, quien será el titular del Poder Ejecutivo del Estado.
+A) Un Presidente, quien será el Titular del Poder Ejecutivo del Estado.
 
 B) Un Vicepresidente, quien será el Secretario General de Gobierno.
 
-C) Un Secretario, quien será el Secretario de Desarrollo Económico.
+C) Un Secretario Técnico, quien será el Secretario de Desarrollo Económico.
 
-D) Trece Vocales Permanentes, quienes serán:
+D) Catorce vocales permanentes, quienes serán:
 
 1. El Secretario de Finanzas.
 
-2. El Secretario del Trabajo.
+2. El Secretario de la Contraloría.
 
-3. El Secretario de Desarrollo Urbano.
+3. El Secretario del Trabajo.
 
-4. El Secretario del Agua y Obra Pública.
+4. El Secretario de Desarrollo Agropecuario.
 
-5. El Secretario de Desarrollo Agropecuario.
-
-6. El Secretario de Turismo.
-
-7. El Secretario de Desarrollo Metropolitano.
-
-8. El Secretario de la Contraloría.
-
-9. El Secretario de Comunicaciones.
-
-10. El Secretario de Transporte.
-
-11. El Secretario del Medio Ambiente.
-
-12. El Secretario Técnico del Gabinete.
-
-13. El Coordinador General de Comunicación Social.
-
-E) Vocales Incorporados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en este Gabinete Especializado.
-
-IV. Gabinete de Infraestructura:
-
-A) Un Presidente, quien será el titular del Poder Ejecutivo del Estado.
-
-B) Un Vicepresidente, quien será el Secretario General de Gobierno.
-
-C) Un Secretario, quien será el Secretario del Agua y Obra Pública.
-
-D) Diez Vocales Permanentes, quienes serán:
-
-1. El Secretario de Finanzas.
-
-2. El Secretario de Salud.
-
-3. El Secretario de Educación.
-
-4. El Secretario de Desarrollo Urbano.
-
-5. El Secretario de Desarrollo Agropecuario.
+5. El Secretario del Agua y obra Pública.
 
 6. El Secretario de Comunicaciones.
 
-7. El Secretario de Transporte.
+7. El Secretario del Medio Ambiente.
 
-8. El Secretario de la Contraloría.
+8. El Secretario de Desarrollo Urbano.
 
-9. El Secretario Técnico del Gabinete.
+9. El Secretario de Turismo.
 
-10. El Coordinador General de Comunicación Social.
+10. El Secretario de Educación
 
-E) Vocales Incorporados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en este Gabinete Especializado.
+11. El Secretario Técnico del Gabinete.
 
-Para la mejor comprensión y solución de los asuntos de la competencia de los Gabinetes Especializados, podrán asistir a sus sesiones, cuando el Presidente, Vicepresidente o Secretario lo estimen conveniente y en calidad de invitados, servidores públicos del Gobierno Federal y de los gobiernos municipales, e igualmente, se podrá solicitar la opinión y presencia de expertos, especialistas y de instituciones académicas y de investigación, relacionados con los temas que se traten.
+12. El Secretario de Desarrollo Metropolitano.
+
+13. El Secretario de Transporte.
+
+14. El Coordinador General de Comunicación Social.
+
+E) Vocales invitados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de las dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en el Gabinete Especializado.
+
+IV. Cultura de Legalidad, Ética y Buenas Prácticas:
+
+A) Un Presidente, quien será el Titular del Poder Ejecutivo del Estado.
+
+B) Un Vicepresidente, quien será el Secretario General de Gobierno.
+
+C) Un Secretario Técnico, quien será el Secretario de la Contraloría.
+
+D) Cinco vocales permanentes, quienes serán:
+
+1. El Secretario de Finanzas.
+
+2. El Secretario de Desarrollo Económico.
+
+3. El Secretario Técnico del Gabinete.
+
+4. Consejería Jurídica.
+
+5. El Coordinador General de Comunicación Social.
+
+E) Vocales invitados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de las dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en el Gabinete Especializado.
+
+Para la mejor comprensión y solución de los asuntos de la competencia de los Gabinetes Especializados, podrán asistir a sus sesiones, cuando el Presidente, Vicepresidente o Secretario lo estimen conveniente y en calidad de invitados, servidores públicos del Gobierno Federal y de los gobiernos municipales, e igualmente, se podrá solicitar la opinión y presencia de expertos, especialistas y de instituciones académicas y de investigación, relacionados con los temas que se traten. Asimismo, podrán invitarse a representantes de la sociedad civil.
+
+V. Fortalecimiento municipal:
+
+A) Un Presidente, quien será el Titular del Poder Ejecutivo del Estado.
+
+B) Un Vicepresidente, quien será el Secretario General de Gobierno.
+
+C) Un Secretario Técnico, quien será el Secretario de Finanzas.
+
+D) Ocho vocales permanentes, quienes serán:
+
+1. El Secretario de la Contraloría.
+
+2. El Secretario Técnico del Gabinete.
+
+3. El Secretario del Agua y Obra Pública.
+
+4. El Secretario de Desarrollo Agropecuario.
+
+5. El Secretario del Medio Ambiente.
+
+6. El Secretario de Desarrollo Metropolitano.
+
+7. El Secretario de Desarrollo Urbano.
+
+8. El Coordinador General de Comunicación Social.
+
+E) Vocales invitados, quienes serán los titulares de las dependencias del Gabinete Legal y Ampliado, subsecretarios y directores generales de las mismas, servidores públicos de organismos auxiliares y descentralizados y de las dependencias que ejecuten programas y políticas públicas en esta materia, que serán convocados cuando les corresponda atender temas o asuntos específicos que sean tratados en el Gabinete Especializado.
+
+El Presidente, a través del Secretario Técnico, podrá invitar a participar en las sesiones que celebre, a cualquier miembro de la sociedad civil organizada, instituciones académicas, dependencias y organismos, que por la naturaleza del asunto a analizar y a consideración del propio Presidente sea necesario su punto de vista para la toma de decisiones.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 8.
 
 Los gabinetes especializados tendrán las funciones siguientes:
 
-I. Corresponde al Gabinete de Sociedad Igualitaria (Social):
+1. Corresponde al Gabinete Especializado de Gobierno Solidario:
 
-A) Coordinar las acciones de las dependencias del Poder Ejecutivo Estatal involucradas en las materias de educación, salud pública y seguridad social.
+A) Coordinar las acciones de las dependencias del Poder Ejecutivo Estatal involucradas en las materias de educación, salud y seguridad social.
 
 B) Conocer y evaluar los fenómenos de pobreza de atención urgente, determinando en tiempo y forma las medidas y acciones procedentes para su erradicación.
 
@@ -221,7 +233,7 @@ E) Atender de forma focalizada a los grupos de población que se encuentran en a
 
 F) Las demás que deriven del Plan de Desarrollo del Estado de México o que le encomiende el Gobernador del Estado.
 
-II. Corresponde al Gabinete de Seguridad Ciudadana:
+II. Corresponde al Gabinete de Sociedad Protegida:
 
 A) Coordinar las acciones de las dependencias del Ejecutivo Estatal involucradas en la materia de seguridad pública y procuración de justicia.
 
@@ -241,7 +253,7 @@ H) Vigilar la ejecución de los programas de protección civil y en general, de 
 
 I) Las demás que deriven del Plan de Desarrollo del Estado de México o que le encomiende el Gobernador del Estado.
 
-III. Corresponde al Gabinete de Competitividad Económica:
+III. Corresponde al Gabinete Especializado de Estado Progresista:
 
 A) Coordinar las acciones de las dependencias del Poder Ejecutivo Estatal involucradas en materia de fomento económico.
 
@@ -271,25 +283,49 @@ M) Fortalecer el Sistema Estatal de Planes de Desarrollo Urbano.
 
 N) Impulsar la evaluación de los planes municipales de desarrollo urbano con la participación de las dependencias involucradas.
 
-O) Mejorar los tiempos de traslado evitando con ello la pérdida de horas-hombre mediante el desarrollo del Transporte Masivo.
+Ñ) Mejorar los tiempos de traslado evitando con ello la pérdida de horas-hombre mediante el desarrollo del transporte masivo.
 
-P) Las demás que deriven del Plan de Desarrollo del Estado de México o que le encomiende el Gobernador del Estado.
+O) Las demás que deriven del Plan de Desarrollo del Estado de México o que le encomiende el Gobernador del Estado.
 
-IV. Corresponde al Gabinete de Infraestructura:
+IV. Corresponde al Gabinete Especializado de Cultura de Legalidad, Ética y Buenas Prácticas:
 
-A) Coordinar las acciones de las dependencias del Poder Ejecutivo Estatal involucradas en materia de infraestructura.
+A) Generar acciones para que la cultura de la legalidad, la ética y las buenas prácticas, sean la constante del servidor público.
 
-B) Fortalecer e impulsar a las instituciones responsables del desarrollo y mantenimiento de infraestructura hidrológica que permitan la implementación de esquemas novedosos a los ayuntamientos en lo que respecta a la prestación de servicios de agua.
+B) Fortalecer el desarrollo institucional, mediante estrategias de mejora regulatoria para que la legalidad y la certidumbre se reflejen en los procesos administrativos y se frene la corrupción.
 
-C) Reforzar la infraestructura dirigida al cuidado de la salud de los mexiquenses.
+C) Automatizar el mayor número de procesos administrativos, a fin de evitar su vulnerabilidad a la corrupción.
 
-D) Proteger y difundir la infraestructura cultural de cada uno de los municipios que conforman la entidad.
+D) Fortalecer los mecanismos de vinculación y participación ciudadana en el combate a las malas prácticas ciudadanas y gubernamentales.
 
-E) Coordinar labores entre las diferentes dependencias del Ejecutivo estatal en lo que respecta a las obras de infraestructura hidroagrícola y preventivas contra inundaciones en territorio mexiquense.
+E) Actualizar de manera permanente el marco jurídico, para que la relación gobierno y sociedad se lleva a cabo en estricto apego a la ley.
 
-F) Coordinar el fortalecimiento de la infraestructura eléctrica en la Entidad para garantizar el abastecimiento industrial, comercial y habitacional.
+V. Corresponde al Gabinete Especializado de Fortalecimiento Municipal:
 
-G) Las demás que deriven del Plan de Desarrollo del Estado de México o que le encomiende el Gobernador del Estado.
+A) Impulsar el fortalecimiento de los municipios en materia de planeación, de programación, de presupuestación y de evaluación, mediante el mejoramiento de sus sistemas de información y prospectiva.
+
+B) Consolidar la cultura de la recaudación colaborando con los municipios para fortalecer sus sistemas de recaudación desde la perspectiva administrativa, normativa y de ejecución.
+
+C) Promover acciones para que las administraciones municipales accedan al mercado financiero para respaldar proyectos de inversión pública productiva.
+
+D) Mejorar la calidad de la recaudación, del gasto público y de la rendición de cuentas de los municipios, mediante la implementación de la armonización contable, el Presupuesto basado en Resultados (PbR) y un Sistema de Evaluación del Desempeño.
+
+E) Promover esquemas de transparencia y de acceso a la información hacendaria municipal.
+
+F) Consolidar el sistema de información estadística hacendaria municipal mediante la evaluación permanente de los informes de la cuenta pública y del Órgano de Transparencia.
+
+G) Fomentar la armonización de los sistemas tributarios municipales.
+
+H) Fortalecer la vigilancia de los recursos estatales ejercidos por los municipios, así como impulsar la creación de la Comisión Permanente de Contralores Estado-Municipios para el fortalecimiento y la capacitación de los órganos de control municipales.
+
+I) Colaborar con los municipios en la adopción de tecnologías de la información para la gestión pública municipal en beneficio de la atención a la ciudadanía.
+
+J) Impulsar la capacitación y la certificación de los servidores públicos municipales.
+
+K) Coadyuvar en el sano manejo de la deuda pública municipal.
+
+L) Fomentar la homologación de los trámites en los municipios de la entidad.
+
+M) Las demás que deriven del Plan de Desarrollo del Estado de México o que le encomiende el Gobernador del Estado.
 
 ###### Artículo 9.
 
@@ -498,3 +534,21 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Los gabinetes especializados deberán instalarse en el término de quince días hábiles, a partir de la entrada en vigor del presente Acuerdo, para lo cual los secretarios técnicos implementarán lo necesario.
+
+CUARTO. Los gabinetes especializados deberán presentar al Gobernador los programas de trabajo que les correspondan, en un plazo de treinta días naturales a partir de la instalación oficial de los gabinetes especializados, los que deberán contener los indicadores estratégicos que orienten las acciones para su debido cumplimiento.
+
+QUINTO. Los gabinetes especializados instalados reorientarán sus acciones apegándose al presente Acuerdo.
+
+SEXTO. Las demás disposiciones del Acuerdo del Ejecutivo del Estado por el que se expide el Reglamento de los Gabinetes del Poder Ejecutivo del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno", el 23 de abril de 2013, quedan vigentes en los términos originalmente establecidos.
+
+SÉPTIMO. Lo no previsto en el presente Acuerdo, para la implementación de los gabinetes especializados, será resuelto por los secretarios técnicos.
