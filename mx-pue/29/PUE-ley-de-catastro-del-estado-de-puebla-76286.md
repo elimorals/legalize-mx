@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2010-08-16"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICAD EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -33,7 +33,7 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57, 63 fracciones I y II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69 fracciones I y II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -75,7 +75,7 @@ La formación y conservación del Catastro, es de interés y utilidad pública.
 
 El Catastro, tiene los siguientes objetivos generales:
 
-l. Identificar en la cartografía catastral los predios ubicados en el territorio del Estado;
+I. Identificar en la cartografía catastral los predios ubicados en el territorio del Estado;
 
 II. Contener y mantener actualizada la información relativa a las características cuantitativas y cualitativas de los predios ubicados en el territorio del Estado;
 
@@ -203,7 +203,7 @@ La prestación de los servicios a que se refiere la presente Ley, proporcionados
 
 Son autoridades catastrales en el Estado:
 
-l. El Gobernador del Estado;
+I. El Gobernador del Estado;
 
 II. El Director General del Instituto;
 
@@ -417,9 +417,9 @@ En un plazo que no excederá de treinta días, contados a partir de la terminaci
 
 I. Nuevas construcciones, reconstrucciones o la demolición parcial o total del predio;
 
-Il. La rectificación del área de la superficie de terreno;
+II. La rectificación del área de la superficie de terreno;
 
-IIl. La fusión, división o fraccionamiento de terrenos; y
+III. La fusión, división o fraccionamiento de terrenos; y
 
 IV. Cualquier otro cambio que modifique los datos contenidos en el registro catastral del predio.
 
@@ -443,7 +443,7 @@ Las Dependencias y Entidades de la. Administración Pública Federal, Estatal y 
 
 ###### Artículo 27.
 
-Los fedatarios públicos, como responsables solidarios, además de las obligaciones que les establece la legislación fiscal estatal y municipal aplicable, deberán dentro del término de quince días hábiles, comunicar a la autoridad catastral la celebración de actos que transmitan o modifiquen la propiedad inmobiliaria, así como realizar la inscripción respectiva ante el registro catastral correspondiente.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
 ###### Artículo 28.
 
@@ -465,7 +465,7 @@ Las autoridades catastrales que lleven a cabo programas generales de regularizac
 
 Para efectos de que el Instituto mantenga actualizado el padrón catastral, los Municipios coadyuvarán con éste proporcionándole bimestralmente a través de sus Delegaciones Catastrales del Instituto, la información siguiente:
 
-l. Informe de los programas de catastro que realicen;
+I. Informe de los programas de catastro que realicen;
 
 II. La de los registros catastrales efectuados, así como de las modificaciones que realicen a sus bases de datos y cartografía catastrales;
 
@@ -723,7 +723,7 @@ Las autoridades a que se refiere esta Ley, podrán llevar a cabo censos catastra
 
 ###### Artículo 70.
 
-Previo al inicio de los censos, las autoridades deberán difundir masivamente entre la población el periodo en que éstos se llevarán al cabo.
+Previo al inicio de los censos, las autoridades deberán difundir masivamente entre la población el periodo en que éstos se llevarán al (sic) cabo.
 
 ###### Artículo 71.
 
@@ -799,7 +799,7 @@ El Instituto efectuará el registro en el Padrón correspondiente, una vez cumpl
 
 Son obligaciones de los Peritos Valuadores registrados en el Padrón:
 
-l. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
+I. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
 
 II. Asentar en los avalúos y en los dictámenes de arrendamiento, los datos que correspondan a la realidad, y determinar los valores de acuerdo a lo establecido por las disposiciones que para tales efectos emita el Instituto;
 
@@ -863,7 +863,7 @@ El Instituto efectuará el registro en el Padrón correspondiente, una vez cumpl
 
 Son obligaciones de los Peritos Topógrafos registrados en el Padrón:
 
-l. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
+I. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
 
 II. Elaborar los peritajes, planos y documentos de acuerdo a lo establecido por las disposiciones que para tales efectos emita el Instituto;
 
@@ -1061,7 +1061,7 @@ Durante la tramitación del Recurso Administrativo de Revisión y a petición de
 
 Se desechará por improcedente el recurso:
 
-l. Contra actos que sean materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y en contra del propio acto impugnado;
+I. Contra actos que sean materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y en contra del propio acto impugnado;
 
 II. Contra actos que no afecten los intereses jurídicos del recurrente;
 
@@ -1127,7 +1127,7 @@ III. Vicios del procedimiento siempre que afecten las defensas del particular y 
 
 IV. Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas, en cuanto al fondo del asunto.
 
-El área a que se refiere este artículo mandará reponer el procedimiento, cuando se trate de lo previsto en las fracciones II y IlI antes señaladas.
+El área a que se refiere este artículo mandará reponer el procedimiento, cuando se trate de lo previsto en las fracciones II y III antes señaladas.
 
 ## TRANSITORIOS
 
@@ -1143,4 +1143,12 @@ Quinto.- Los trámites administrativos iniciados por las autoridades catastrales
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de julio de dos mil diez.- Diputado Presidente.- JOEL JAIME HERNÁNDEZ RUIZ.- Rúbrica.- Diputado Vicepresidente.- MANUEL FERNÁNDEZ GARCÍA.- Rúbrica.- Diputada Secretaria.- MARÍA ANGÉLICA HERNÁNDEZ HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ANDRÉS RICARDO MACIP MONTERROSAS.- Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- EI Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
