@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2013-08-23"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2812,111 +2812,17 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTÍCULO 254.
 
-Se impondrá de cuatro a diez años de prisión y de doscientos hasta mil días multa, sin perjuicio de las penas que correspondan por otros delitos, a quien integre una organización de hecho de tres o más personas para cometer, en forma permanente o reiterada, alguno de los delitos siguientes:
+(DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-I. Ataques a la paz pública; de conformidad con lo establecido por el artículo 362 de este Código;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2007)</small>
-
-II. Corrupción de persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho o de persona que no tiene capacidad de resistir la conducta establecidos en los artículos 184, 185 primero, segundo, tercero, cuarto y quinto párrafos y 186 en sus fracciones I y II de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-III. Extorsión, conforme al contenido del primer párrafo del artículo 236 de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-IV. Falsificación de documentos públicos, de acuerdo con el primer párrafo del artículo 339 de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-V. Homicidio, de conformidad con el artículo 128 de este Código;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2007)</small>
-
-VI. Lenocinio previsto en los artículos 189 y 189 bis de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-VII. Operaciones con recursos de procedencia ilícita, de conformidad con el párrafo primero del artículo 250 de este Código;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2007)</small>
-
-VIII. Pornografía establecido en los artículos 187 y 188 de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-IX. Privación de la libertad personal, en concordancia con lo previsto por los artículos 160 y 161 de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-X. Retención y sustracción de menores e incapaces, de conformidad con el artículo 171 de este Código;
-
-> <small>(REFORMADA, G.O. 8 DE ENERO DE 2008)</small>
-
-XI. Robo de conformidad con el artículo 224, fracciones II y VIII, en su hipótesis primera;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-XII. Secuestro, previsto en el artículo 163 y 163 Bis de este Código;
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-XIII. Tráfico de menores, contemplado en el párrafo tercero del artículo 169 de este Código; o (sic)
-
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
-
-XIV. Violación, de acuerdo con los artículos 174 y 175 de este Código;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2007)</small>
-
-XV. Turismo sexual, establecido en el artículo 186 este Código;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2007)</small>
-
-XVI. Trata de Personas, establecido en el artículo 188 bis de este Código;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2007)</small>
-
-XVII. Explotación laboral de menores o personas con discapacidad física o mental, previsto en los artículos 190 bis y 190 ter de este Código;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
-
-XVIII. Encubrimiento por receptación, contemplado en el artículo 243 de este Código; o (sic)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
-
-XIX. Encubrimiento por favorecimiento, previsto en el artículo 320 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2011)</small>
-
-XX. Delitos ambientales previstos en los artículos 343, 344, 345 bis y 345 ter de este Código.
-
-A quien tenga funciones de administración, dirección o supervisión en la delincuencia organizada, se le impondrá de seis a doce años de prisión y de cuatrocientos a dos mil días multa, sin perjuicio de las reglas de concurso para la imposición de sanciones.
-
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTÍCULO 255.
 
-Si el miembro de la asociación delictuosa o de la delincuencia organizada es o ha sido servidor público o autoridad encargada de la función de seguridad pública, de conformidad con lo previsto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, o miembro de una empresa de seguridad privada, y por virtud del ejercicio de las funciones a él encomendadas se facilitó la comisión del o los ilícitos a que se refieren los artículos anteriores, las penas se aumentarán en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación por un tiempo igual al señalado como prisión para desempeñar otro, en cuyo caso se computará a partir de que se haya cumplido con la pena.
-
-Cuando los miembros de la delincuencia organizada utilicen para delinquir a menores de edad o incapaces, las penas a que se refieren los artículos anteriores se aumentarán en una cuarta parte.
-
-Se presumirá que existe asociación delictuosa o delincuencia organizada cuando las mismas tres o más personas tengan alguna forma de autoría o participación conjunta en dos o más delitos.
+(DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR SERVIDORES PÚBLICOS
 
@@ -4835,3 +4741,13 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los asuntos cuya demanda haya sido presentada con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente decreto entrará en vigor a los 30 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - Los procesos penales que se sigan por los tipos penales que integren delincuencia organizada y las sentencias que se hayan dictado al respecto, seguirán substanciándose hasta su culminación y se compurgarán de conformidad con los artículos 254 y 255 del Código Penal para el Distrito Federal y la Ley contra la Delincuencia Organizada para el Distrito Federal, que seguirán vigentes sólo en estos supuestos.
+
+CUARTO.- Se derogan todas las disposiciones contrarias a este Decreto.
