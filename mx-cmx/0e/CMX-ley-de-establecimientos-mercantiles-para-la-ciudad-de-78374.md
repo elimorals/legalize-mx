@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2012-09-13"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -66,7 +66,9 @@ I. Administración Pública: El conjunto de dependencias y órganos que integran
 
 II. Aforo: Es el número de personas que pueden ingresar y permanecer en un establecimiento mercantil. En el reglamento de la ley se establecerán los procedimientos, términos y formas para determinar número máximo de personas, atendiendo la necesidad de garantizar la seguridad;
 
-III. Aviso: La manifestación bajo protesta de decir verdad efectuada por personas físicas o morales, a través del Sistema, de que se cumplen los requisitos previstos para la apertura de un establecimiento mercantil de bajo impacto, colocación de enseres en la vía pública, cambio de giro mercantil, suspensión o cese de actividades, traspaso del establecimiento mercantil, modificaciones del establecimiento o giro y los demás que establece esta ley;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+III. Centro Comercial: Cualquier inmueble dentro del Distrito Feral (sic), que independientemente del uso que le corresponda por los programas delegacionales de desarrollo urbano, alberga un número determinado de establecimientos mercantiles (ya sea temporales o permanentes), que se dedican a la intermediación y comercialización de bienes y servicios; en donde cada establecimiento en lo individual, debe contar con los avisos o permisos que correspondan, que avale su funcionamiento según su naturaleza.
 
 IV. Clausura: El acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento de la normatividad correspondiente, ordena suspender o impedir las actividades o funcionamiento de un establecimiento mercantil mediante la colocación de sellos en el local correspondiente, pudiendo ser de carácter temporal o permanente, parcial o total;
 
@@ -98,25 +100,39 @@ XVII. Ley: La Ley de Establecimientos Mercantiles del Distrito Federal;
 
 XVIII. Permiso: Acto administrativo por el cual la Delegación, a través del Sistema, autoriza la operación de un giro mercantil de impacto vecinal o zonal, con la vigencia establecida en esta Ley;
 
-XIX. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Gobierno del Distrito Federal;
+> <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XX. Secretaría de Gobierno: La Secretaría de Gobierno del Distrito Federal;
+XIX. Programa Interno de Protección Civil: Instrumento de planeación que se implementa con la finalidad de determinar las acciones de prevención, auxilio y recuperación, destinadas a salvaguardar la integridad física de las personas que habitan, laboran o concurren a determinados inmuebles, así como para proteger las instalaciones, bienes, entorno e información, ante la ocurrencia de fenómenos perturbadores;
 
-XXI. Sistema: El sistema informático que establezca la Secretaría de Desarrollo Económico, a través del cual los particulares presentarán los Avisos y Solicitudes de Permisos a que se refiere esta Ley;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XXII. Solicitud de Permiso: Acto a través del cual una persona física o moral por medio del Sistema inicia ante la Delegación el trámite para operar un giro con impacto vecinal o impacto zonal;
+XX. Secretaria de Desarrollo Económico: La Secretaria de Desarrollo Económico del Gobierno del Distrito Federal;
 
-XXIII. Suspensión Temporal de Actividades: El acto a través del cual la autoridad, como consecuencia de un incumplimiento a la normatividad correspondiente, ordena suspender las actividades de forma inmediata de un establecimiento mercantil en tanto se subsana el incumplimiento;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XXIV. Sistema de Seguridad: Personal y conjunto de equipos y sistemas tecnológicos con el que deben contar los establecimientos mercantiles de impacto zonal para brindar seguridad integral a sus clientes, usuarios y personal.
+XXI. Secretaria de Gobierno: La Secretaria de Gobierno del Distrito Federal;
 
-El Sistema de Seguridad deberá ser aprobado por escrito por la Secretaría de Seguridad Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XXV. Titulares: Las personas físicas o morales, a nombre de quien se le otorga el Aviso o Permiso y es responsable del funcionamiento del establecimiento mercantil;
+XXII. Sistema: El sistema informático que establezca la Secretaria de Desarrollo Económico, a través del cual los particulares presentarán los Avisos y Solicitudes de Permisos a que se refiere esta Ley;
 
-XXVI. Traspaso: La transmisión que el Titular haga de los derechos consignados a su favor a otra persona física o moral, siempre y cuando no se modifique la ubicación del establecimiento, el giro mercantil y la superficie que la misma ampare; y
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XXVII. Verificación: El acto administrativo por medio del cual, la autoridad, a través de los servidores públicos autorizados para tales efectos, comprueba el cumplimiento de las disposiciones jurídicas aplicables para el funcionamiento de los establecimientos mercantiles.
+XXIII. Solicitud de Permiso: Acto a través del cual una persona física o moral por medio del Sistema inicia ante la Delegación el trámite para operar un giro vecinal o impacto zonal;
+
+XXIV. Suspensión Temporal de Actividades: El acto a través del cual la autoridad, como consecuencia de un incumplimiento a la normatividad correspondiente, ordena suspender las actividades de forma inmediata de un establecimiento mercantil en tanto se subsana el incumplimiento;
+
+XXV. Sistema de Seguridad: Personal y conjunto de equipos y sistemas tecnológicos con el que deben contar los establecimientos mercantiles de impacto zonal para brindar seguridad integral a sus clientes, usuarios y personal.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+El Sistema de Seguridad deberá ser aprobado por escrito por la Secretaria de Seguridad Pública del Distrito Federal;
+
+XXVI. Titulares: Las personas físicas o morales, a nombre de quien se le otorga el Aviso o Permiso y es responsable del funcionamiento del establecimiento mercantil;
+
+XXVII. Traspaso: La transmisión que el Titular haga de los derechos consignados a su favor a otra persona física o moral, siempre y cuando no se modifique la ubicación del establecimiento, el giro mercantil y la superficie que la misma ampare; y
+
+XXVIII. Verificación: El acto administrativo por medio del cual, la autoridad, a través de los servidores públicos autorizados para tales efectos, comprueba el cumplimiento de las disposiciones jurídicas aplicables para el funcionamiento de los establecimientos mercantiles.
 
 ###### Artículo 3.
 
@@ -252,7 +268,9 @@ Los Titulares de los establecimientos mercantiles de bajo impacto, impacto vecin
 
 Apartado A:
 
-I. Destinar el local exclusivamente para el giro manifestado en el Aviso y/o Permiso;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+I. Destinar el local exclusivamente para el giro manifestado en el Aviso o Permiso según sea el caso;
 
 II. Tener en el establecimiento mercantil el original o copia certificada del Aviso o Permiso; asimismo cuando sea necesario para el funcionamiento del establecimiento mercantil original o copia de la póliza de la compañía de seguros con la cual se encuentra asegurado y del seguro de responsabilidad civil.
 
@@ -294,9 +312,9 @@ d) La capacidad de aforo manifestada en el Aviso o Solicitud de Permiso.
 
 X. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con personal capacitado y botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-XI. Contar en su caso y cuando así se requiera con programa interno de protección civil, de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
+XI. Contar en su caso y cuando así se requiera con un programa interno de protección civil, de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento; dicho programa deberá ser revalidado cada año.
 
 XII. Cuando no requiera de un programa interno de protección civil, deberá contar, cuando menos, con las siguientes medidas de seguridad:
 
@@ -1216,19 +1234,19 @@ El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al 
 
 Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo y cuarto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b), c) y d), X y XIII; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV y VII; 12; 15; 21; 22 fracción II; 23 fracción V; 33; 34; 37; 39; 40 fracciones I, IV, V y VI; 42 fracciones III y IV; 43 fracciones I y III; 46; 47; 48 fracciones III, VI y VII; 50; 53; 54; 56 fracciones II, III y VII de esta Ley.
+Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b) y c), X; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
-Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V y VI; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 48 fracciones I, II, IV, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta ley.
-
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
-
-La sanción a la que se refiere el artículo 10 apartado A fracción XI, solo será aplicada a los giros de bajo impacto.
+Se sancionara con el equivalente de 351 a 2500 días salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
 
 Las sanciones económicas señaladas en los artículos 64, 65 y 66 de la presente Ley, tendrán una reducción del 50% en sus montos mínimos y máximos cuando se trate de giros de bajo impacto que no vendan bebidas alcohólicas.
 
@@ -1278,7 +1296,9 @@ IX. Cuando estando obligados no cuenten con el programa interno o especial de pr
 
 X. Cuando estando obligados no cuenten con el seguro de responsabilidad civil a que hace referencia la presente Ley; y
 
-XI. Cuando estando obligados no cuenten con cajones de estacionamiento de conformidad con lo establecido en la fracción XVIII del artículo 10 de la presente Ley.
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+XI. Cuando estando obligados no cuenten con cajones de estacionamiento de conformidad con lo establecido en la fracción XIV del artículo 10 apartado A de la presente Ley.
 
 ###### Artículo 71.
 
@@ -1310,7 +1330,9 @@ Cuando en un solo espacio funcionen más de un giro y éstos no puedan ser separ
 
 Procederá el estado de Suspensión Temporal de Actividades de forma inmediata:
 
-I. Cuando el Aviso y/o Permiso no hubiera sido revalidado, estando obligado el titular a hacerlo;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+I. Cuando el establecimiento no cuente con el aviso o permiso que acredite su legal funcionamiento; también cuando el aviso o permiso no hubiera sido revalidado, estando obligado el titular a hacerlo;
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -1372,9 +1394,11 @@ Cuando se detecte, por medio de verificación ocular o queja, que el local claus
 
 PROCEDIMIENTO PARA LA REVOCACIÓN DE OFICIO.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 78.
 
-El procedimiento de revocación de oficio del Aviso o Permiso se iniciará cuando la Delegación o el Instituto detecten, por medio de visita de verificación o análisis documental, que el titular del establecimiento mercantil se halla en las hipótesis previstas en los 70 (sic) y 71 de la presente Ley.
+El procedimiento de revocación de oficio del Aviso o permiso se iniciara cuando la Delegación o el Instituto detecten, por medio de visita de verificación o análisis documental, que el titular del establecimiento mercantil se halla en las hipótesis previstas en el artículo 71 de la presente Ley.
 
 ###### Artículo 79.
 
@@ -1459,3 +1483,9 @@ G.O. 13 DE SEPTIEMBRE DE 2012.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La sanción establecida en el artículo 65, con relación a la fracción X del artículo 48 de la Ley de Establecimientos Mercantiles del Distrito Federal, entrara en vigor a partir de los 90 días hábiles de la publicación del presente Decreto. Con la finalidad de que los establecimientos obligados realicen las adecuaciones correspondientes a sus instalaciones para el cumplimiento de la Ley.
