@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2013-08-30"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -705,7 +705,9 @@ d) Informar a la Asamblea sobre la justificación de las ausencias de los Diputa
 
 e) Cumplir el orden del día aprobado por el Pleno del Congreso, y en el caso del punto del orden del día relativo a asuntos generales el Presidente preguntará hasta en dos ocasiones a la Asamblea si hay algún Diputado que desee presentar algún asunto general;
 
-f) Dar curso a los asuntos y determinar los trámites que deban recaer en éstos, así como turnar a las Comisiones respectivas el estudio de los asuntos que les corresponda;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+f) Dar curso a los asuntos y determinar los trámites que deban recaer en éstos, así como turnar a las comisiones respectivas el estudio de los asuntos que les corresponda y en el caso de que, en razón de su naturaleza, sea turnado a Comisiones Unidas, designar cual será la Comisión responsable que deberá dirigir los trabajos;
 
 g) Conducir los debates, las deliberaciones y declarar las votaciones;
 
@@ -2650,3 +2652,9 @@ SEGUNDO.- Publíquese en la Gaceta del Poder Legislativo del Estado de Baja Cali
 P.O. 30 DE AGOSTO DE 2013.
 
 Único.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicará en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Parlamentaria del Congreso del Estado.
+
+SEGUNDO.- Envíese el presente Decreto al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
