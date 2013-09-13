@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-del-distrito-federal-para-el-90900"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90900&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-12-31"
 
 PRESUPUESTO DE EGRESOS DEL DISTRITO FEDERAL PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
 
 Presupuesto publicado en la Gaceta Oficial del Distrito Federal, el lunes 31 de diciembre de 2012.
 
@@ -1016,10 +1016,46 @@ Décimo Tercero.- Previo al ejercicio de los recursos previstos para las activid
 
 Décimo Cuarto.- La determinación de las acciones específicas que con cargo al presupuesto participativo ejecutarán las delegaciones en cada una de las 1815 colonias y pueblos originarios, que no se encuentren en el supuesto de asentamientos irregulares, o que en su determinación no se contravenga disposiciones jurídicas vigentes, se hará con base en los resultados de la consulta ciudadana que se efectuó el domingo 11 de noviembre de 2012. Conforme al Anexo VII.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de por cualquier motivo no exista Comité Ciudadano o Consejo del Pueblo, o bien que aún existiendo, éste no haya participado en la consulta ciudadana, en alguna de las 1815 colonias y pueblos antes enunciados, o se haya tenido una sola opción de acción prioritaria, o en donde, se hubiesen presentado como resultado de la referida consulta, un empate de dos o más proyectos en primer lugar, será el Consejo Ciudadano Delegacional quien tome la determinación correspondiente, seleccionando un proyecto específico, para lo cual, dicho órgano deberá observar lo siguiente:
+
+1) Los Consejos Ciudadanos Delegacionales Correspondientes, deberán convocar a una sesión extraordinaria para tratar exclusivamente este tema, atendiendo lo dispuesto por el artículo 249, segundo párrafo de la Ley de Participación Ciudadana del Distrito Federal.
+
+2) El mecanismo o mecanismos que se utilicen para la selección de proyectos específicos, serán determinados por cada Consejo Ciudadano Delegacional, considerando únicamente:
+
+-En las colonias o Pueblos, en donde sí se cuente con un Comité Ciudadano o consejo Del Pueblo, sus integrantes tendrán el derecho de asistir en calidad de invitados a la sesión extraordinaria por lo que se deberá convocar a todos los integrantes de los respectivos Comités Ciudadanos o consejos del Pueblo.
+
+-En los demás casos, los Consejos Ciudadanos Delegacionales deberán seleccionar un proyecto específico que cumpla con los requisitos señalados en la convocatoria para la Consulta Ciudadana del 4 al 8 de noviembre vía Internet y 11 e (sic) noviembre de 2012 en mesa receptora, publicada en la Gaceta Oficial del Distrito Federal el 28 de agosto de 2012.
+
+3) Los Consejos Ciudadanos Delegacionales deberán informar por escrito al Instituto Electoral del Distrito Federal, a través de sus direcciones Distritales cabeceras de Delegación, sobre los proyectos específicos seleccionados para cada colonia o pueblo, según corresponda. El documento original en el que conste la selección de proyectos, deberá acompañarse de una copia simple del Acta de la Asamblea respectiva.
+
+4) El Instituto Electoral del Distrito Federal, remitirá al Jefe de Gobierno del Distrito Federal, a las Comisiones de Presupuesto y Cuenta Pública, de Hacienda y de Participación Ciudadana de la Asamblea Legislativa del Distrito Federal y a las Jefaturas Delegacionales que correspondan, copias certificadas de los documentos en donde conste las selección de los proyectos específicos de las referidas colonias o pueblos.
+
+5) El compromiso del ejercicio de los recursos de presupuesto participativo, así como la ejecución de los proyectos específicos validados como prioritarios en estos casos, quedarán a cargo de las Delegaciones, en coordinación con los Comités Ciudadanos y Consejo de los Pueblos respectivos, o en su caso Consejo Ciudadano Delegacional, siempre y cuando no contravengan las disposiciones jurídicas vigentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+Las Colonias o Pueblos que no han elegido o integrado un Comité Ciudadano o un Consejo del Pueblo; o en donde, los referidos órganos de participación no intervinieron en la consulta del 4 al 8 de noviembre vía Internet y 11 de noviembre de 2012 en mesa receptora, se identifican en el Anexo IX
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+En las colonias y pueblos en los que exista un remanente presupuestal, una vez que se haya ejecutado el proyecto específico prioritario decidido en la consulta del 4 al 8 de noviembre vía Internet y 11 de noviembre de 2012 en mesa receptora, el Jefe Delegacional precederá a la ejecución de los otros proyectos seleccionados en la colonia o pueblo de que se trate, respetando en todo momento la prelación determinada de los mismos en la consulta ciudadana.
+
 Décimo Quinto.- Previo al ejercicio de los recursos previstos para las actividades institucionales Ampliación Delegacional de Infraestructura de Nivel Básico, Mantenimiento Delegacional de Infraestructura Educativa de Nivel Básico y del Programa Integral de Mantenimiento de Escuelas a cargo de las Delegaciones Políticas del Distrito Federal, éstas deberán solicitar opinión de las Secretarías de Educación del Distrito Federal y de Protección Civil, a fin de priorizar la atención de inmuebles que se encuentran con daño estructural y por ende representan un riesgo mayor.
 
 > <small>N. DE E. VÉASE ANEXOS EN LA G.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 22 A LA 219.</small>
 
+> <small>N. DE E. VÉASE ADICIÓN DE ANEXO IX EN LA G.O. DE 13 DE SEPTIEMBRE DE 2013, PÁGINAS DE LA 11 A LA 12.</small>
+
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta y un días del mes de diciembre del año dos mil doce.- POR LA MESA DIRECTIVA.- DIP. MANUEL GRANADOS COVARRUBIAS, PRESIDENTE.- DIP. LAURA IRAÍS BALLESTEROS MANCILLA, SECRETARIA.- DIP. ROCÍO SÁNCHEZ PÉREZ, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 Y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de diciembre del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR AMADOR ZAMORA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
