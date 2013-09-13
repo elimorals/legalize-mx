@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-honor-y-justicia-de-la-secretaria-de-74426"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-30"
-last_updated: "2010-03-30"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE HONOR Y JUSTICIA DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO DE HONOR Y JUSTICIA DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de marzo de 2010.
 
@@ -539,7 +539,7 @@ VI. Cese.
 
 Amonestación
 
-###### Articulo 35.
+###### Artículo 35.
 
 La amonestación es la comunicación mediante la cual el superior jerárquico advierte la omisión o falta en el cumplimiento de sus funciones al integrante de la institución policial, conminándolo a corregirse, apercibiéndolo de que si reincide en su conducta se hará acreedor a una sanción mayor. La amonestación deberá ser por escrito.
 
@@ -783,7 +783,7 @@ En caso de que la falta cometida por el integrante de la Institución Policial, 
 
 Interrupción de la prescripción
 
-###### Articulo 67.
+###### Artículo 67.
 
 Con el inicio del procedimiento administrativo disciplinario por el Presidente, se interrumpe cualquier prescripción y ésta no será menor a tres años.
 
@@ -907,7 +907,9 @@ Las condecoraciones consisten en el otorgamiento de medallas o diplomas y honore
 
 I. Al Valor, consistente en diploma y remuneración económica de acuerdo al presupuesto de la Secretaría, y se otorgará en acto público, a quienes en cumplimiento de sus funciones, pongan en grave riesgo su vida o su salud;
 
-II. Al Valor Policial, consiste en medalla y diploma y se conferirá a quienes en el cumplimiento de sus funciones, salven la vida de una o varias personas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II. Al Valor Policial, consiste en medalla, diploma y remuneración económica de acuerdo al presupuesto autorizado de la Secretaría, y se conferirá a quienes en el cumplimiento de sus funciones, salven la vida de una o varias personas;
 
 III. A la Perseverancia, consiste en medalla y diploma y se otorgará a los elementos que hayan mantenido una hoja de servicio ejemplar y cumplan diez, quince, veinte, veinticinco y treinta años de servicio en la institución policial;
 
@@ -929,9 +931,15 @@ Podrán otorgarse reconocimientos, estímulos y recompensas, por antigüedad, pu
 
 I. Otorgamiento de diploma por tiempo y continuidad de servicios al cumplirse los diez, quince, veinte, veinticinco y treinta años de servicio en la institución policial;
 
-II. Otorgamiento de diploma y un día de descanso, a quienes no registren faltas, retardos o permisos en un periodo de doce meses; y
+II. Otorgamiento de diploma y un día de descanso, a quienes no registren faltas, retardos o permisos en un periodo de doce meses; y (sic)
 
-III. Elemento del año, consistente en una medalla y diploma que lleve el escudo de la corporación a la que pertenecen, así como las palabras "Elemento del Año". Se entregará al personal de la corporación que logre destacar por su dedicación y constancia en el trabajo y que haya tenido logros relevantes a juicio del Consejo.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+III. Elemento del año, consistente en una0 medalla, remuneración económica de acuerdo al presupuesto autorizado de la Secretaría y diploma que lleve el escudo de la corporación a la que pertenecen, así como las palabras "Elemento del Año". Se entregará al personal de la corporación que logre destacar por su dedicación y constancia en el trabajo y que haya tenido logros relevantes a juicio del Consejo; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Otorgamiento de diploma y remuneración económica, de acuerdo al presupuesto autorizado de la Secretaría, a quienes se distingan por su participación destacada en operativos contra la delincuencia a juicio del Consejo.
 
 Otorgamiento de reconocimientos
 
@@ -1012,3 +1020,11 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 MIGUEL PIZARRO ARZATE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+Inicio de vigencia del Decreto
+
+Artículo Único. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
