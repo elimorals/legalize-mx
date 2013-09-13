@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-archivos-del-estado-de-puebla-72755"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-16"
-last_updated: "2009-12-16"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE ARCHIVOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. 13 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DE 13 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Quincuagésima Octava Sección del Periódico Oficial del Estado de Puebla, el miércoles 16 de diciembre de 2009.
 
@@ -730,3 +732,15 @@ DÉCIMO. Las erogaciones que se deriven de la aplicación de esta Ley, estarán 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los tres días del mes de diciembre de dos mil nueve.- Diputado Presidente.- EUGENIO EDGARDO GONZÁLEZ ESCAMILLA.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA GARCÍA HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputada Secretaria.- CAROLINA O'FARRILL TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los cuatro días del mes de diciembre de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Archivos del Estado de Puebla, aprobada el tres de diciembre de dos mil nueve y publicada en el Periódico Oficial del Estado el dieciséis de diciembre del mismo año.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+CUARTO.- El Reglamento de la presente Ley se formulará en el término de ciento ochenta días naturales contados a partir de su entrada en vigor.
