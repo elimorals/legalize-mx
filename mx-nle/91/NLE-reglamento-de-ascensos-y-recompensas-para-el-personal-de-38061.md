@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-ascensos-y-recompensas-para-el-personal-de-38061"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-26"
-last_updated: "2004-02-26"
+last_updated: "2013-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LOS CUERPOS DE POLICIA PREVENTIVA
 
-REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LOS CUERPOS DE POLICIA PREVENTIVA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE DESARROLLO POLICIAL DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LOS CUERPOS DE POLICÍA PREVENTIVA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013 (DEROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el jueves 26 de febrero de 2004.
 
@@ -570,3 +572,17 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA
 
 JOSÉ DOMINGO RAMÍREZGARRIDO ABREU
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL REGLAMENTO DE DESARROLLO POLICIAL DEL ESTADO DE NUEVO LEÓN.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se deroga el Reglamento de Ascensos y Recompensas para el Personal de los Cuerpos de Policía Preventivos, publicado en el Periódico Oficial del Estado de fecha 26 de Febrero de 2004.
+
+TERCERO: La Comisión de Carrera Policial implementará los ajustes necesarios en el cumplimiento de este Reglamento, tratándose de elementos policiales que habiendo pertenecido a la Agencia Estatal de Policía, sean incorporados a la Carrera Policial, de conformidad con el Segundo Transitorio del Decreto No. 10 por medio del cual se reforma la Ley de Seguridad Pública del Estado, publicado en el Periódico Oficial del Estado en fecha 19 de enero de 2013.
+
+CUARTO: Los procedimientos de la Carrera Policial, que no puedan ser aplicados íntegramente al personal de los centros penitenciarios, la Comisión de Carrera podrá, con la mayoría de sus integrantes, hacer los ajustes necesarios a los procedimientos establecidos en este Reglamento, emitiendo el acuerdo correspondiente.
