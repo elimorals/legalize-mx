@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-04-01"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -597,7 +597,9 @@ II. Recibir y analizar de los interesados las solicitudes correspondientes;
 
 III. Dictaminar las propuestas de los interesados y resolver la procedencia de la participación de conformidad con las disposiciones legales que resulten aplicables para cada caso;
 
-IV. Celebrar los instrumentos legales y en su caso, otorgar la Concesión, los cuales establecerán los derechos y obligaciones de las partes, así como las sanciones ante el incumplimiento de los participantes, con independencia de aquéllas otras previstas en las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Celebrar o suscribir los instrumentos jurídicos, incluyendo, sin limitar, Concesiones o cualesquier otros convenios o contratos, los cuales establecerán, entre otros, los derechos y obligaciones de las partes, las sanciones por incumplimiento, la posibilidad de afectar, ceder o gravar, irrevocablemente, con el previo consentimiento del Concedente, los derechos derivados del título de Concesión o instrumento correspondiente, la obligación de indemnización a cargo de la autoridad competente por la caducidad, rescate, revocación o terminación anticipada de la Concesión o del instrumento respectivo, los supuestos de reversión de pleno derecho de los activos de la Concesión, incluyendo sus mejoras y accesorios, así como el mecanismo para la determinación de la indemnización correspondiente, con independencia de aquellas otras condiciones previstas en las disposiciones legales aplicables;
 
 V. Vigilar y supervisar que las actividades realizadas por los participantes cumplan con la Ley, las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables al momento de la prestación de los Servicios Públicos que correspondan;
 
@@ -606,6 +608,10 @@ VI. Constatar que los bienes involucrados sean efectivamente destinados al fin p
 VII. Dictar las medidas pertinentes a efecto de que no se especule con la prestación del Servicio Público de que se trate; y
 
 VIII. Retomar las actividades que hayan sido confiadas a los participantes por cualquier título, cuando por motivo de ellas, los participantes pongan en riesgo la seguridad, la salud pública o el ambiente, o cuando los Servicios Públicos involucrados no se presten.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Tratándose del Prestador del Servicio Público del Municipio de Puebla, le serán aplicables las disposiciones del Libro II, Parte III, Capítulo VIII, del Código Fiscal y Presupuestario para el Municipio de Puebla, en lo que no se oponga a lo establecido en la presente Ley.
 
 ### CAPÍTULO III. DE LAS CARACTERÍSTICAS DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
@@ -1489,6 +1495,16 @@ Para la aplicación de dichas actualizaciones, el acuerdo correspondiente deber�
 
 Tratándose de concesionarios, la participación de éstos en la actualización de las tarifas y cuotas, será la que le corresponda en términos del título de Concesión.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 118 Bis.
+
+Los Prestadores de Servicios que tengan a su cargo, en dos o más Municipios, la prestación parcial o integral de Servicios Públicos, en virtud de convenios de coordinación a que se refieren las fracciones IV y V del artículo 23, tendrán la facultad de determinar y actualizar la Estructura Tarifaria para el cobro de los derechos, productos y contribuciones de mejoras previstas en esta Ley, u otros conceptos de ingresos por la prestación de los Servicios Públicos, sin requerir aprobación del Congreso del Estado.
+
+Los adeudos de los Usuarios derivados de dichos conceptos serán considerados créditos fiscales para los efectos establecidos en esta Ley.
+
+En caso de que la prestación de los Servicios Públicos sea concesionada o encomendada por cualquier otro título jurídico a un particular, ya sea de forma total o parcial, la actualización de la Estructura Tarifaria y de los otros conceptos de ingresos, se regulará de conformidad con lo establecido en el título de concesión o contrato respectivo.
+
 ###### Artículo 119.
 
 El Prestador de Servicios Públicos es autoridad fiscal con facultades económico-coactivas para determinar, comprobar, recaudar y cobrar el importe que por concepto de derechos, productos y contribuciones de mejoras le corresponda. Los adeudos de los Usuarios derivados de los conceptos antes señalados serán considerados créditos fiscales y en consecuencia corresponderá a cada Prestador de Servicios Públicos por sí, o a través de sus autoridades fiscales competentes, proceder a su cobro por la vía administrativa de ejecución prevista en esta Ley y en las leyes fiscales aplicables.
@@ -2060,3 +2076,17 @@ P.O. 1 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se ratifica la Estructura Tarifaria del Sistema Operador de los Servicios de Agua Potable y Alcantarillado del Municipio de Puebla, según como la misma se encuentra vigente en la fecha de publicación del presente.
+
+TERCERO.- Para efectos de lo dispuesto en la tracción IX del artículo 31 de esta Ley:
+
+I.- Las atribuciones conferidas al Ayuntamiento por el Libro II, Parte III, Capítulo VIII, del Código Fiscal y Presupuestario para el Municipio de Puebla, se entenderán conferidas al órgano de administración del Organismo Operador, mientras que las atribuciones conferidas al Presidente Municipal, Síndico, Regidores, Tesorería Municipal, Secretaría del Ayuntamiento, Entidad Ejecutora, Comité Municipal de Adquisiciones u otros funcionarios municipales, se entenderán conferidas al Director General del Organismo Operador, según corresponda; y
+
+II.- Lo dispuesto en el artículo 450 del Código Fiscal y Presupuestario para el Municipio de Puebla, será aplicable únicamente a las bases del procedimiento de adjudicación que se emitan para el otorgamiento de Concesiones convocadas en términos de la presente Ley.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
