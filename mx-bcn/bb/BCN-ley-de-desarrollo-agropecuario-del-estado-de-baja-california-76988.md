@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2010-10-08"
+last_updated: "2013-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -63,13 +63,17 @@ V.- La investigación científica aplicada a las actividades agropecuarias en to
 
 VI.- Las campañas para la erradicación de plagas y enfermedades que afecten a las especies agropecuarias;
 
-VII.- La conservación, y explotación del ganado productor de leche y el desarrollo de la industria lechera tendiente a mejorar la producción y distribución de la leche y sus subproductos en beneficio del consumidor;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- La Conservación y explotación del ganado productor de leche y el desarrollo de la industria lechera tendiente a mejorar la producción y distribución de la leche y sus subproductos. La comercialización de productos sustitutos sin valor nutricional, deberán de contener la información adecuada, para beneficio del consumidor.
 
 VIII.- La supervisión, inspección, control, regulación y sanción de la movilización de las especies animales, productos y subproductos agropecuarios;
 
 IX.- El control del manejo y aplicación de químicos utilizados en la actividad agropecuaria;
 
-X.- La construcción, el fomento, conservación y mejoramiento de la infraestructura de la producción agropecuaria;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+X.- La construcción, el fomento, conservación y mejoramiento de la infraestructura hidroagrícola y equipamiento agropecuario, destinado a la producción agropecuaria;
 
 XI.- El servicio de asistencia técnica integral a los productores agropecuarios;
 
@@ -105,7 +109,15 @@ III.- Agricultor: A toda persona física o moral que con fines de explotación y
 
 IV.- Agricultor especializado: A toda persona física o moral que se dedique a la explotación de terrenos o instalaciones en el cultivo de determinada especie y específicamente a la producción de semillas patrones o especies para trasplante ya sean hortícolas o frutales;
 
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 V.- Apicultura: La actividad relacionada a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización de sus productos y subproductos;
+
+Apiario: Al conjunto de colmenas instaladas en un lugar determinado;
+
+Apicultor: Toda persona física o moral que se dedique a la cría y explotación, producción o mejoramiento de las abejas;
+
+Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que ahí finquen sus panales para el almacenamiento de miel;
 
 VI.- Arete: Identificación metálica o de plástico con inscripción registrada y autorizada por la Secretaría que se aplica en la oreja del ganado mayor y menor. En otra especie animal, puede aplicarse en otra parte del cuerpo;
 
@@ -115,7 +127,9 @@ VIII.- Avicultura: La reproducción, cría y explotación de las especies y vari
 
 IX.- Corridas o velas: La reunión que los productores hacen del ganado que se agosta en terrenos de su propiedad o de los cuales tengan posesión;
 
-X.- Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+X.- Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, mediante el uso racional de los mismos, así como la biodiversidad y los servicios ambientales de dicho territorio;
 
 XI.- Especie animal: aquella (sic) cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
 
@@ -197,9 +211,13 @@ II.- Imponer las medidas de seguridad y las sanciones que correspondan a las inf
 
 III.- Designar a los inspectores agropecuarios, y habilitar a los inspectores externos para esa función;
 
-IV.- Solicitar la cooperación en su caso, de los organismos auxiliares previstos en esta Ley, para control y desarrollo de la agricultura, ganadería, avicultura y del mercado de sus productos y subproductos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Analizar, sancionar y coordinar todos aquellos estudios, proyectos e investigaciones científicas tendientes a fomentar el desarrollo agropecuario;
+IV.- Solicitar la cooperación en su caso, de los organismos auxiliares previstos en esta Ley, para control y desarrollo de la agricultura, ganadería, avicultura, apicultura y del mercado de sus productos y subproductos;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Promover y fortalecer la participación de Universidades y Centros de Investigación Científica, en el desarrollo agropecuario así como analizar, sancionar y coordinar todos aquellos estudios, proyectos e investigaciones científicas tendientes a fomentar el desarrollo del sector.
 
 VI.- Promover una mejor distribución y comercialización de la producción agropecuaria del Estado, privilegiando el abastecimiento del mercado interno, y
 
@@ -219,7 +237,9 @@ V.- Fomentar la producción y consumo de los productos de la región;
 
 VI.- Promover, vigilar, conservar y mejorar las instalaciones e infraestructura agrícola del Estado;
 
-VII.- Determinar la forma y documentación que deberá expedirse y requerirse para la movilización de los productos y subproductos agrícolas en el Estado, sobre todo aquellos que provienen de fuera de la Entidad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Determinar la forma y documentación que deberá expedirse y requerirse para la movilización y estricta vigilancia sanitaria de los productos y subproductos agrícolas en el Estado, sobre todo aquellos que provienen de fuera de la Entidad;
 
 VIII.- Promover la protección y vigilancia en las explotaciones agrícolas, de la acción de plagas y enfermedades establecidas, e impedir la entrada de aquellas consideradas como exóticas;
 
@@ -233,7 +253,9 @@ C) En lo Ganadero:
 
 I.- Procurar el debido abastecimiento de carnes, productos y subproductos pecuarios en general para cubrir las necesidades de consumo en el Estado, vigilando que se cumplan las normas de calidad y sanidad establecidas;
 
-II.- Autorizar o negar los permisos para entrada o salida del Estado de animales y demás productos y subproductos pecuarios;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Autorizar o negar con observación a las normas sanitarias los permisos para entrada o salida del Estado de animales y demás productos y subproductos pecuarios; en beneficio del productor y consumidor local.
 
 III.- Reglamentar el sacrificio de animales en etapa productiva para preservar las explotaciones de cría;
 
@@ -293,9 +315,13 @@ I.- Inspeccionar los productos y subproductos agrícolas que vayan a ser moviliz
 
 II.- Inspeccionar todos aquellos productos y subproductos agrícolas en tránsito, exigiendo la documentación que ampare su movilización y procedencia legal;
 
-III.- Impedir que se hagan embarques de productos y subproductos agrícolas fuera del Estado cuando los interesados no presenten la documentación que compruebe su procedencia legal;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Inspeccionar periódicamente los establecimientos y lugares que comercialicen con productos y subproductos agrícolas con objeto de establecer su procedencia legal así como la documentación que ampare la entrada a la entidad debidamente autorizada por la Secretaría;
+III.- Impedir que se hagan embarques de productos y subproductos agrícolas fuera del Estado cuando los interesados no presentan la documentación que compruebe su procedencia legal y condición sanitaria óptima.
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Inspeccionar periódicamente los establecimientos y lugares que comercialicen con productos y subproductos agrícolas con objeto de establecer su procedencia legal y condición sanitaria, así como la documentación que ampare la entrada a la entidad debidamente autorizada por la Secretaría;
 
 V.- Inspeccionar periódicamente todos aquellos lugares que expendan productos y subproductos agrícolas con objeto de conocer las condiciones de sanidad, así como la detección de contaminación por productos o residuos químicos o radiación, en niveles superiores a los permitidos para consumo humano y animal, esto último se llevará a cabo con muestras tomadas al azar y enviadas al laboratorio, y
 
@@ -995,7 +1021,9 @@ Todo apicultor al instalar sus apiarios deberá observar las siguientes distanci
 
 I.- En los caminos vecinales aproximadamente a quince metros de los mismos, y
 
-II.- En los predios, a una distancia de un kilómetro de la casa o casas habitación de la ranchería o centro de población; se deberá acreditar el derecho al uso del predio para instalar apiarios en terrenos de propiedad privada.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+II.- En los predios, a una distancia no menor de 200 metros de la casa o casas habitación de la ranchería o centro de población; se deberá acreditar el derecho al uso del predio para instalar apiarios en terrenos de propiedad privada.
 
 En (sic) incumplimiento de las presentes disposiciones motivará la clausura por parte de la Secretaría. Las colmenas o núcleos quedarán a disposición de la Secretaría y el producto que se obtenga será entregado al infractor, previo pago de la sanción administrativa correspondiente.
 
@@ -1358,3 +1386,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
