@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2013-07-29"
+last_updated: "2013-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -189,7 +189,9 @@ Son derechos de los habitantes del Estado, varones y mujeres:
 
 I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
 
-II.- Ser votado en las elecciones populares y desempeñar cualquier empleo del Estado, cuando, además de los requisitos que fija la fracción anterior, el individuo reúna las condiciones que esta Constitución o la ley relativa, exijan para cada caso.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -2638,3 +2640,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los sesenta días siguientes a la entrada en vigencia del presente Decreto, el Ejecutivo del Estado emitirá el Decreto por el que se regule el otorgamiento del Premio Aguascalientes.
+
+P.O. 16 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
