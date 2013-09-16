@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-y-recoleccion-del-municipio-de-santa-58146
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2013-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LIMPIA Y RECOLECCION DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE LIMPIA Y RECOLECCION DEL MUNICIPIO DE SANTA CATARINA, N. L.
+REGLAMENTO DE LIMPIA Y RECOLECCIÓN DEL MUNICIPIO DE SANTA CATARINA, N. L.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de diciembre de 2007.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE LIMPIA Y RECOLECCIÓN DEL MUNICIPIO DE SANTA CATARINA, N. L.
 
 El presente reglamento es de orden público e interés social y tiene por objeto regular el servicio de limpia y recolección de desechos en el Municipio de Santa Catarina, Nuevo León, fijando las atribuciones y responsabilidades a la autoridad municipal, organizando las dependencias municipales necesarias para hacer cumplir los fines de este Reglamento, así como las prohibiciones y obligaciones para los habitantes y visitantes de paso por la ciudad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 2.
 
-Para efectos de este reglamento se entiende por:
+Para efectos del presente reglamento se consideran de aplicación las normas y los conceptos definidos en la Ley Ambiental del Estado de Nuevo León, la Ley General de Residuos Sólidos, la Ley General de Equilibrio Ecológico y la Protección al Ambiente, así como las Leyes de Salud Federal y Estatal y sus respectivos reglamentos, el Reglamento de Protección Ambiental y demás disposiciones normativas del municipio.
 
 A) Secretaría: La Secretaría de Servicios Públicos.
 
@@ -82,6 +84,14 @@ Q) Cuota: Cantidad económica equivalente a un salario mínimo general diario, v
 R) Inspector de Limpia: Es aquel representante de la Secretaría de Servicios Públicos, facultado para apercibir, amonestar e infraccionar a quien violente este Reglamento.
 
 S) Inspector Honorario: Es el ciudadano que sin percepción económica alguna, autoriza el Municipio como inspector con facultad únicamente de apercibir.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+T) Departamento: Coordinación de Limpia de la Secretaría de Servicios Públicos.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+U) Tesorería: La Secretaria de Administración y Finanzas del Municipio de Santa Catarina, N. L.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
 
@@ -299,7 +309,7 @@ F) La instalación de contenedores y/o depósitos para basura que se ameriten, a
 
 G) Conservar y fomentar la tradición de ciudad limpia y amable, estimulando la cooperación ciudadana para la limpieza del municipio.
 
-H) El comerciante puede utilizar el servicio municipal o contratar un particular.
+H) (DEROGADO, P.O. 16 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 18.
 
@@ -315,9 +325,15 @@ La Dirección de Limpia podrá cambiar el horario, ruta y sistema de recolecció
 
 Los residuos sólidos no peligrosos depositados en la vía pública, los que recolecte la Secretaría, a través de su Dirección u organismos dependientes, o aquellos que los particulares depositen en las instalaciones municipales o de empresas concesionarias destinadas al efecto, son propiedad del municipio, sin que por ello el generador de la basura deje de ser responsable del contenido de la misma; el municipio podrá aprovecharlos comercial o industrialmente en forma directa o indirecta; o asignar su aprovechamiento en virtud del permiso, concesión o contratación que se hiciera a particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 21.
 
-Para todo lo relacionado con los materiales o residuos peligrosos, la autoridad municipal podrá participar como auxiliar de la federación y establecer los instrumentos de coordinación correspondientes. Esto, de acuerdo a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección del Ambiente. Esta Ley define como residuos peligrosos: Todos aquellos residuos que en cualquier estado físico (líquido, sólido o gaseoso) que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables; biológicas infecciosas o irritantes, representan un peligro para el equilibrio ecológico o el ambiente.
+Las empresas privadas además de contar con las autorizaciones federales o estatales según sea el caso, deberán de registrarse y recabar la autorización del municipio para la recolección exclusiva de desechos peligrosos derivados del petróleo como: aceites, asfalto, lubricantes, trapos impregnados con dichos elementos, recolección de baterías, acumuladores y pilas de toda dimensión y uso, televisores, computadoras, monitores, videos, cámaras, hornos de microondas y otros aparatos con sustancias nocivas para la salud; las empresas autorizadas para recolección de desechos médicos y hospitalarios como: vendas, gasas, algodón, jeringas y demás desechos inorgánicos u orgánicos, están obligadas a utilizar el Código Internacional de Colores establecido en la Ley General del Equilibrio Ecológico y Protección al Ambiente que rigen para este tipo de productos y apegarse a las normas de Ecología que rigen en nuestro país, así como al Reglamento de Protección Ambiental y Protección Civil en este municipio.
+
+> <small>N. DE E. DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2013, SE ADVIERTE QUE SE ADICIONÓ EL PRESENTE PÁRRAFO.</small>
+
+La Industria que maneje desechos que se consideren altamente peligrosos como: radioactivos, contaminantes, infecciosos u otros análogos, deberán de reportarlo a la Autoridad Federal competente para determinar su recolección, transporte, tratamiento y confinación e inscribirse en la unidad de Protección Civil municipal.
 
 ###### ARTICULO 22.
 
@@ -345,19 +361,57 @@ Los propietarios o responsables de clínicas, hospitales, laboratorios clínicos
 
 Los residuos sólidos no peligrosos, provenientes de los establecimientos señalados en el párrafo anterior, deberán manejarse por separado a los de naturaleza peligrosa y sólo podrán ser entregados al servicio de aseo contratado y de acuerdo con la normatividad ambiental vigente. Cuando el transporte de estos residuos no peligrosos sea efectuado por la Dirección de Limpia, se realizará el cobro señalado en la Ley de Hacienda para los Municipios del Estado.
 
-El (sic) facultad del inspector solicitar a estos establecimientos información del tipo de residuo que se genera, el contrato de recolección y el pago al Municipio.
+(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2013) N. DE E. DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2013, SE ADVIERTE QUE SE ADICIONÓ LA PRESENTE FRACCIÓN YA QUE EXISTÍA SU CONTENIDO COMO TERCER PÁRRAFO.
+
+I (SIC).- Es facultad del inspector solicitar a estos establecimientos información del tipo de residuo que se genera, el contrato de recolección y el pago al Municipio.
 
 ###### ARTICULO 28.
 
 Los vehículos recolectores del municipio se abstendrán de recoger toda clase de residuos biológicos-infecciosos y peligrosos y si encuentran que en los depósitos de basura se hubieren arrojado los mismos, se dará aviso a la superioridad, levantando acta circunstanciada con intervención del infractor y ante dos testigos. Notificando lo anterior a la autoridad competente para que se determine lo procedente.
 
-###### ARTICULO 29.
+(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2013) N. DE E. DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2013, SE ADVIERTE QUE EL CONTENIDO DE ESTE ARTÍCULO DIFIERE SUSTANCIALMENTE DEL TEXTO ANTERIOR.
 
-Los vehículos tanto oficiales como particulares usados para el transporte de basura y desperdicios o de cadáveres de animales, deberán ir forrados o cubiertos con tapas metálicas, para impedir que la basura y desperdicios se esparzan en la vía pública.
+###### ARTÍCULO 29.
 
-Los recolectores de tracción animal tendrán la obligación de evitar que los animales al defecar quede dispersa en la vía pública.
+La persona que realice una actividad comercial o de recolección de residuos (exclusivamente de tipo domestico no peligroso y no incluyendo escombros, llantas y ramas), total o parcialmente dentro del municipio, deberá cumplir con los siguientes requisitos:
 
-Tanto los vehículos de tracción animal como los de motor que se dediquen a la recolección de basura deberán de contar con un número de identificación que será expedido por la Secretaría de Servicios Públicos debiendo pagar para obtenerlo una cuota mensual para los de tracción animal y dos cuotas mensuales para los de motor. Este permiso deberá renovarse cada mes. Así mismo, deberán de prestar un día de servicio social al mes según lo disponga la Secretaría de Servicios Públicos.
+I ... (SIC)
+
+II.- Estar inscrito en el padrón de recolectores de basura en el municipio.
+
+III…. (SIC)
+
+a)…. (SIC)
+
+b).- Credencial de elector vigente.
+
+c) …….. (SIC)
+
+d) ......... (SIC)
+
+e).- Visto Bueno del Estado de requisitos y/o condiciones para circular del vehículo, expedido por la autoridad municipal competente.
+
+f)…..(SIC)
+
+g).- Los recolectores deberán pagar dos cuotas de salario mínimo, mensualmente por el permiso autorizado para la recolección.
+
+IV……(SIC)
+
+V…..(SIC)
+
+VI……(SIC)
+
+VII….(SIC)
+
+VIII….(SIC)
+
+IX.- Todos los vehículos deberán de estar en buenas condiciones de circulación, a fin de garantizar la seguridad de las personas que recolectan, así mismo deberán de contar con un reflejante en la parte trasera a efecto de prevenir accidentes.
+
+Así mismo contar con toda la documentación que requiere la Dirección de Vialidad y Tránsito para circular en el municipio.
+
+X.- Contar con un seguro del vehículo, por lo menos de responsabilidad civil contra terceros.
+
+XI.- Queda prohibida la recolección en vehículos de tracción animal.
 
 ###### ARTICULO 30.
 
@@ -453,9 +507,27 @@ Los propietarios y/o encargados de expendios, bodegas, despachos o negocios de t
 
 Los propietarios y/o encargados de los comercios, tienen la obligación de mantener en perfecto estado de aseo las afueras de sus comercios, diariamente.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2013)
+
 ###### ARTICULO 46.
 
 Los propietarios o encargados de expendios de gasolina, lubricantes, garajes, talleres de reparación de vehículos, auto lavado y similar, deberán ejecutar sus labores en el interior de los establecimientos, absteniéndose de arrojar residuos en la vía pública.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+I).- Todo vulcanizador, llantera o persona que se dedique a la reparación o cambio de neumáticos (llantas), y las empresas, negocios, comercios tales como: transportistas, talleres mecánicos y similares, tienen la obligación de recoger y guardar en almacén de manera provisional y con las medidas de seguridad pertinentes, los neumáticos desechados y transportarlos hasta su confinamiento final en el sitio autorizado por la autoridad ambiental correspondiente.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+II).- El incumplimiento de lo anteriormente descrito, será motivo de sanción.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+III).- La recolección efectuada por el Departamento, será mediante el pago de la tarifa correspondiente, determinada en la Ley de Hacienda para los municipios del Estado de Nuevo León.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+
+IV).- Para el caso de los neumáticos inservibles y generados en casa habitación, se gozara del servicio gratuito, solo en lo que respecta a su recolección, por parte del Departamento a través de programas o campañas que realice la Secretaria, fuera de ellas, la recolección tendrá un costo de conformidad a la Ley de Hacienda para los municipios del Estado de Nuevo León.
 
 ###### ARTICULO 47.
 
@@ -706,3 +778,11 @@ PRESIDENTE MUNICIPAL
 LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Las reformas por adición y modificación al presente reglamento, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Nuevo León, debiendo hacer su publicación en la Gaceta Municipal y dársele difusión a través de las diversas dependencias de la administración.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga a lo dispuesto en las presentes reformas.
