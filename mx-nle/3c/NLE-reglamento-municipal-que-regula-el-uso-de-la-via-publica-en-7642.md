@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-que-regula-el-uso-de-la-via-publica-en-764
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-08"
-last_updated: "2009-09-09"
+last_updated: "2013-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO MUNICIPAL QUE REGULA EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL EN CD. SANTA CATARINA, N.L
 
-REGLAMENTO MUNICIPAL QUE REGULA EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL EN CD. SANTA CATARINA, NUEVO LEON
+REGLAMENTO MUNICIPAL QUE REGULA EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL EN CD. SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 2 TRANSITORIO DEL REGLAMENTO PARA REGULAR EL USO DE LA VÍA PUBLICA EN MATERIA DE COMERCIO EN EL MUNICIPIO DE SANTA CATARINA, N.L. PUBLICADO EN EL P.O. DE 16 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de noviembre de 1995.
 
@@ -431,7 +433,7 @@ C. SECRETARIO DEL AYUNTAMIENTO
 
 LIC. LEOPOLDO H. SALINAS GAYTAN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 9 DE SEPTIEMBRE DE 2009.
 
@@ -440,3 +442,23 @@ PRIMERO.- Las disposiciones de reformas por modificación y adición al Reglamen
 SEGUNDO.- Se deroga el Reglamento que Regula el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial en Cd. Santa Catarina, N.L., publicado en el Periódico Oficial de fecha 08-ocho días del mes de Noviembre del año 1995-mil novecientos noventa y cinco, en todo lo que contraponga con el presente Reglamento, las demás disposiciones del citado Reglamento permanecerán vigentes.
 
 TERCERO.- Enviese su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno y en la Gaceta Municipal, por parte de la Secretaría del Ayuntamiento del Municipio de Santa Catarina, N.L.
+
+P.O. 16 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO 1.
+
+Envíese para su promulgación y publicación en el Periódico Oficial del Estado, por conducto de la Secretaría del Ayuntamiento.
+
+###### ARTÍCULO 2.
+
+Las disposiciones y contenido del presente reglamento abroga:
+
+El Reglamento Municipal que Regula el Uso de la Vía Pública en el ejercicio de la Actividad Comercial en la Ciudad de Santa Catalina, N. L. publicado el 8 de Noviembre de 1995 y aquellas que se opongan al cumplimiento del mismo.
+
+###### ARTÍCULO 3.
+
+Los comerciantes a los que se refiere este Reglamento, que actualmente desempeñan su actividad en este Municipio, tendrán un plazo de 90 días hábiles contados a partir de la publicación en el Periódico Oficial del Estado del presente Reglamento, para realizar las adecuaciones que correspondan para el exacto cumplimiento del mismo.
+
+###### ARTÍCULO 4.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
