@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-transparencia-y-acceso-a-la-informacion-68355"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-01"
-last_updated: "2009-05-01"
+last_updated: "2013-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE URUAPAN, MICHOACAN
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE URUAPAN, MICH.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE URUAPAN, MICH.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, PROTECCIÓN DE DATOS PERSONALES Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE URUAPAN, MICHOACÁN, PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el viernes 1 de mayo de 2009.
 
@@ -618,3 +620,15 @@ Artículo Segundo.- Se abroga el Reglamento de Acceso a la Información Pública
 Artículo Tercero.- El Ayuntamiento de Uruapan, Michoacán, deberá crear dentro de un plazo no mayor de noventa días naturales, contados a partir de la vigencia de éste Reglamento, la Unidad de Acceso a que se refiere el presente.
 
 Artículo Cuarto.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto integro al H. Congreso del Estado, al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información del Estado de Michoacán de Ocampo para su conocimiento y efectos legales conducentes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo, y para el conocimiento ciudadano publíquese en los estrados de la Presidencia Municipal y de las Tenencias, en los diarios de mayor circulación del municipio, en la página de internet, oficial del Ayuntamiento.
+
+Artículo Segundo. Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Uruapan, Michoacán publicado en el Periódico Oficial del Estado de Michoacán de Ocampo el 01 de mayo de 2009.
+
+Artículo Tercero. Se deberá conformar dentro de un plazo no mayor de noventa días naturales, contados a partir de la vigencia de este Reglamento, el Comité de Transparencia a que se refiere el presente, así mismo, deberá sesionar por primera vez dentro del mismo plazo.
+
+Artículo Cuarto. Conforme a lo previsto en los artículos 144, 145 y 149 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado, al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información del Estado de Michoacán de Ocampo para su conocimiento y efectos legales conducentes.
