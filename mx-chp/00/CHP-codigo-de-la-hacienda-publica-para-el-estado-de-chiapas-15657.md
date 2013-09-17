@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-la-hacienda-publica-para-el-estado-de-chiapas-15657"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-23"
-last_updated: "2013-03-11"
+last_updated: "2013-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el jueves 23 de diciembre de 1999.
 
@@ -1810,6 +1810,10 @@ CUANDO NO SE CUMPLAN LOS REQUISITOS A QUE SE REFIERE ESTE ARTICULO, SE ESTARA A 
 ###### ARTICULO 83.
 
 EN NINGUN TRAMITE ADMINISTRATIVO SE ADMITIRA LA GESTION DE NEGOCIOS. LA REPRESENTACION DE LAS PERSONAS FISICAS O LAS MORALES ANTE LAS AUTORIDADES HACENDARIAS, SE HARA MEDIANTE ESCRITURA PUBLICA O EN CARTA PODER FIRMADA ANTE DOS TESTIGOS Y RATIFICADAS LAS FIRMAS DEL OTORGANTE Y TESTIGOS ANTE LAS AUTORIDADES HACENDARIAS O NOTARIO PUBLICO.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+LA REPRESENTACION DE LAS PERSONAS FISICAS O LAS MORALES ANTE LAS AUTORIDADES HACENDARIAS, SE HARA MEDIANTE ESCRITURA PUBLICA O EN CARTA PODER FIRMADA ANTE DOS TESTIGOS, DEBIENDO EXHIBIR ADEMAS COPIA DE IDENTIFICACION OFICIAL DE CADA UNA DE LAS PARTES QUE INTERVENGAN EN DICHO TRAMITE.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8566,3 +8570,9 @@ P.O. 11 DE MARZO DE 2013.
 Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
