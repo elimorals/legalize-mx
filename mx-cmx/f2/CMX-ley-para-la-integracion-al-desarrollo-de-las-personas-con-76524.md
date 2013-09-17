@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2010-09-10"
+last_updated: "2013-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -163,6 +163,10 @@ II.- El derecho de uso exclusivo: A los lugares y servicios que son de uso únic
 III.- El derecho de libre tránsito: Que constituye el derecho de transitar y circular por todos los lugares públicos, sin que se obstruyan los accesos específicos para su circulación como rampas, puertas, elevadores, entre otros. Dichos lugares deberán estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley.
 
 La violación a estos derechos será sancionada severa e inmediatamente por las autoridades competentes.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- El derecho de facilidad para su plena incorporación a las actividades cotidianas: para contar con una atención preferente, ágil, pronta y expedita cuando se encuentran realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier autoridad local; así como ser atendidos por particulares que brinden algún servicio público.
 
 ###### Artículo 10.
 
@@ -347,6 +351,18 @@ Los Titulares de los Órganos de la Administración Pública del Distrito Federa
 ###### Artículo 29.
 
 Todas las empresas, centros comerciales, áreas culturales o recreativas y en general todo inmueble con acceso al público deberá contar con las medidas adecuadas de seguridad, accesibilidad universal y libre tránsito para todas las personas con discapacidad.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Las autoridades competentes deberán proponer el establecimiento de acciones concretas y obligatorias para que todas las personas con discapacidad, temporal o permanente, gocen de las siguiente (sic) facilidades:
+
+I. Contar con una atención preferente, ágil, pronta y expedita cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier autoridad local;
+
+II. Ser atendidos con prontitud y diligencia por los particulares que brinden algún servicio público, de tal manera que tengan acceso rápido a los mismos, particularmente en los establecimientos mercantiles.
+
+Lo establecido en las dos fracciones anteriores será con el objeto de que permanezcan el menor tiempo posible en una situación o circunstancia que contribuya a deteriorar, en cualquier medida, su estado de salud.
 
 ###### Artículo 30.
 
@@ -737,3 +753,13 @@ El Jefe de Gobierno del Distrito Federal publicará el Reglamento de la presente
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintinueve días del mes de junio del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. AXEL VÁZQUEZ BURGETTE, PRESIDENTA.- DIP. MA. NATIVIDAD PATRICIA RAZO VÁZQUEZ, SECRETARIA.- DIP. JOSÉ MANUEL RENDÓN OBERHAUSER, ECRETARIO (SIC).- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de septiembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- SECRETARIO DE SALUD, DR. ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁSQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.-EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 17 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
