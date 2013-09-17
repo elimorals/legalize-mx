@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2012-07-25"
+last_updated: "2013-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2001-04-09"
 
 LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -88,9 +88,15 @@ XII. Reconocimiento de Hechos: Las visitas que realice la Procuraduría practica
 
 XIII. Reglamento: El Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
 
-XIV. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal, y
+XIV. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal, y (sic)
 
 XV. Sugerencia: Resolución emitida por la Procuraduría y dirigida a la Asamblea Legislativa o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XVI. Tierra: Sistema viviente dinámico conformado por la comunidad indivisible de todos los sistemas de vida y los seres vivos, interrelacionados, interdependientes y complementarios, que comparten un destino común.
 
 ###### Artículo 4°.
 
@@ -214,11 +220,19 @@ XXVII. Formular y difundir estudios, reportes e investigaciones respecto del cum
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables, y
+XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables, y (sic)
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIX. Las demás que le confieran otros ordenamientos legales.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XXIX. Formular y difundir estudios, sustanciar y resolver denuncias, así como celebrar toda clase de actos que abonen en cuanto a la prevención, protección, vigilancia de la Tierra y sus recursos naturales. Además de las facultades para sancionar cualquier daño o menoscabo a dichos recursos naturales, y;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XXX. Las demás que le confieran otros ordenamientos legales.
 
 #### Sección II. De la estructura de la Procuraduría
 
@@ -554,11 +568,19 @@ XII. Dar respuesta en forma oportuna, debidamente fundada y motivada a las denun
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XIII. Solicitar la comparecencia de las personas mencionadas en las denuncias ciudadanas, que sean admitidas o en las investigaciones de oficio que tramite, a fin de desahogar las diligencias que correspondan o manifestar lo que a su derecho convenga, y
+XIII. Solicitar la comparecencia de las personas mencionadas en las denuncias ciudadanas, que sean admitidas o en las investigaciones de oficio que tramite, a fin de desahogar las diligencias que correspondan o manifestar lo que a su derecho convenga, y (sic)
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV. Las demás que le confieren otros ordenamientos jurídicos o administrativos, aplicables o las que les sean encomendadas, por acuerdo del Procurador (a) y las que correspondan a las unidades administrativas a su cargo.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Resolver las denuncias relativas al daño o menoscabo que se cause a la Tierra y sus recursos naturales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XV. Las demás que le confieren otros ordenamientos jurídicos o administrativos, aplicables o las que les sean encomendadas, por acuerdo del Procurador (a) y las que correspondan a las unidades administrativas a su cargo.
 
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -760,11 +782,13 @@ La Procuraduría pondrá a disposición de los interesados formatos para facilit
 
 La denuncia sólo podrá presentarse dentro del plazo de un año, a partir de que se hubiera iniciado la ejecución de los actos, hechos u omisiones referidos en el artículo 22, o de que el denunciante hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de asuntos que impliquen afectaciones graves al ambiente, los recursos naturales y el ordenamiento territorial, la Procuraduría podrá ampliar dicho plazo mediante Acuerdo debidamente motivado.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-La Procuraduría podrá iniciar investigaciones de oficio relacionadas con cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o constituya o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental o del ordenamiento territorial.
+La Procuraduría podrá iniciar investigaciones de oficio relacionadas con cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico, daños al ambiente, a los recursos naturales de la Tierra, o pueda constituir una contravención o falta de aplicación de las disposiciones jurídicas en materia ambiental o del ordenamiento territorial.
 
 Asimismo, la Procuraduría podrá iniciar investigaciones de oficio en los siguientes casos:
 
@@ -1165,3 +1189,15 @@ G.O. 25 DE JULIO DE 2012.
 PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO: El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La modificación y adecuación de la reglamentación de estas leyes deberá ser expedida dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+TERCERO.- En tanto se expidan las disposiciones administrativas que deriven de la presente reforma seguirán en vigor aquéllas que no la contravengan.
+
+CUARTO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley iniciadas con anterioridad a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+QUINTO.- Las reformas a la Ley Ambiental del Distrito Federal, turnadas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, durante el Primer Periodo Ordinario, el Primer Receso y el Segundo Periodo Ordinario, del Primer Año de Ejercicio, y las que se presenten en lo sucesivo, relativo a la Ley Ambiental del Distrito Federal, se entenderán referidas a la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
