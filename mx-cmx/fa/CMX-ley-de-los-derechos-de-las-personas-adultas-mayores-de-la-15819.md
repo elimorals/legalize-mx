@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2012-01-27"
+last_updated: "2013-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -191,6 +191,12 @@ III. A laborar en instalaciones que garanticen su seguridad e integridad física
 F). De la Asistencia Social:
 
 A ser sujetos de programas de asistencia social cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+G) Del acceso a los servicios:
+
+I. A tener una atención preferente en los establecimientos públicos y privados que prestan servicios públicos. Al efecto la totalidad de dichos establecimientos deberá contar en sus reglas de operación o funcionamiento con mecanismos expeditos para que esta atención incluya asientos y cajas, ventanillas o filas, así como lugares especiales en los servicios de autotransporte para las personas adultas mayores; (sic)
 
 ## TITULO TERCERO
 
@@ -647,3 +653,11 @@ G.O. 27 DE ENERO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
