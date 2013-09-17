@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2013-08-27"
+last_updated: "2013-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1651,6 +1651,18 @@ Se consideran como organismos auxiliares municipales, los organismos descentrali
 
 Las estructuras de los órganos de gobierno y vigilancia de estas entidades, serán definidas de conformidad con lo estipulado en las leyes, decretos y reglamentos correspondientes.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 104 Bis.
+
+El ayuntamiento deberá constituir un organismo encargado de auxiliar y orientar a las autoridades respectivas, en todas las funciones relativas a la planeación estratégica, desarrollo urbano y ordenamiento ecológico.
+
+Para poder constituir el organismo auxiliar, por parte del ayuntamiento, se deberá cumplir con los siguientes requisitos:
+
+I. Contar con más de 40,000 habitantes y
+
+II. Se haya realizado previamente un estudio de las características del municipio que se trate, tales como: situación geográfica, demográfica y económica, mismas que determinarán la viabilidad o no, de la constitución e integración del mismo.
+
 ###### ARTICULO 105.
 
 Son organismos paramunicipales las entidades que tienen por objeto atender el interés general y el beneficio colectivo, a través de la prestación de servicios públicos en un municipio.
@@ -1669,7 +1681,7 @@ De igual forma, podrán crearse patronatos que tengan fines específicos, que es
 
 ### CAPITULO I. De la Planeación
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 ## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA MUNICIPAL
 
@@ -1825,7 +1837,9 @@ Las omisiones o excesos de las autoridades municipales en el manejo de la Hacien
 
 ###### ARTICULO 121.
 
-Los ayuntamientos planearán sus actividades en un Plan Municipal de Desarrollo, que deberá elaborarse, aprobarse y publicarse en un plazo no mayor de cuatro meses a partir de la instalación del Ayuntamiento.
+Los ayuntamientos, con apoyo, en su caso, del organismo referido en el artículo 104 Bis de este Ordenamiento, planearán sus actividades en un Plan Municipal de Desarrollo, que deberá elaborarse y publicarse en un plazo no mayor de cuatro meses a partir de la instalación del ayuntamiento.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2002)</small>
 
 La vigencia del Plan no excederá del período constitucional que le corresponde; este programa debe ser congruente con el Plan Estatal de Desarrollo.
 
@@ -2506,6 +2520,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
