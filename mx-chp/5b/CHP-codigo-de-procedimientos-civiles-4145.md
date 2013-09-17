@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-civiles-4145"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2012-10-03"
+last_updated: "2013-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2013.
 
 Código publicado en Alcance al Periódico Oficial del Estado de Chiapas, de 2 de febrero de 1938.
 
@@ -4345,19 +4345,9 @@ TRATANDOSE DE ADOPCIONES DE NIÑAS, NIÑOS O ADOLESCENTES ABANDONADOS O DE EXPOS
 
 ART. 921.- RENDIDAS LAS JUSTIFICACIONES QUE SE EXIGEN EN EL ARTICULO ANTERIOR Y OBTENIDO EL CONSENTIMIENTO DE LAS PERSONAS QUE DEBAN DARLO CONFORME A LOS ARTICULOS 390 Y 390 BIS DEL CODIGO CIVIL, EL TRIBUNAL RESOLVERA DENTRO DEL TERCER DIA.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2003)</small>
+ART. 922.- (DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2013)
 
-ART. 922.- CUANDO EL ADOPTANTE O ADOPTANTES SOLICITEN LA CONVERSION DE LA ADOPCION SIMPLE A PLENA, Y REUNIDOS LOS REQUISITOS DE ESTA, EL JUEZ LOS CITARA A UNA AUDIENCIA VERBAL DENTRO DE LOS OCHO DIAS SIGUIENTES CON LA INTERVENCION DEL MINISTERIO PUBLICO, EN LA QUE RESOLVERA CONFORME A LO DISPUESTO POR EL CODIGO CIVIL.
-
-PARA ACREDITAR QUE LA CONVERSION ES FAVORABLE AL ADOPTADO, PODRAN RENDIRSE TODA CLASE DE PRUEBAS.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2003)</small>
-
-ART. 923.- CUANDO EL ADOPTANTE Y EL ADOPTADO PIDAN QUE LA ADOPCION SIMPLE SEA REVOCADA, EN LOS CASOS DEL ARTICULO 402 DEL CODIGO CIVIL, NO PODRA PROMOVERSE EN DILIGENCIA DE JURISDICCION VOLUNTARIA.
-
-PARA ACREDITAR CUALQUIER HECHO RELATIVO A LA CONVENIENCIA DE LA REVOCACION, PODRAN RENDIRSE TODA CLASE DE PRUEBAS.
-
-SI EL ADOPTADO FUERE MENOR DE EDAD, NO SE DECRETARA LA REVOCACION SIN OIR AL REPRESENTANTE DEL MINISTERIO PUBLICO Y SIN RECABAR LA OPINION DEL CONSEJO TECNICO DE ADOPCIONES DEL INSTITUTO DE DESARROLLO HUMANO.
+ART. 923.- (DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2013)
 
 ### CAPITULO VI.
 
@@ -5320,3 +5310,11 @@ P.O. 3 DE OCTUBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Estado.
+
+Artículo Segundo.- Los trámites de adopción que actualmente estén en curso seguirán su marcha según lo dispuesto para la adopción plena, previsto en el Código Civil para el Estado de Chiapas y en el Código de Procedimientos Civiles del Estado de Chiapas.
+
+Artículo Tercero.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, el juez realizará el proceso correspondiente y resolverá conforme a lo dispuesto por el Código Civil.
