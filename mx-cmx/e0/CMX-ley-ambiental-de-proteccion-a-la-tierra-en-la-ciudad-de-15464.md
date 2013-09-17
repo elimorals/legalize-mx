@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2013-06-27"
+last_updated: "2013-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1999-12-31"
 ---
 # LEY AMBIENTAL DE PROTECCION A LA TIERRA EN LA CIUDAD DE MEXICO -- ANTES LEY AMBIENTAL DEL DISTRITO FEDERAL --
 
-LEY AMBIENTAL DEL DISTRITO FEDERAL
+LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -44,7 +44,11 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
 
-LEY AMBIENTAL DEL DISTRITO FEDERAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -52,11 +56,23 @@ LEY AMBIENTAL DEL DISTRITO FEDERAL
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-I. Definir los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los instrumentos y procedimientos para su aplicación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Regular el ejercicio de las facultades de las autoridades de la Administración Pública del Distrito Federal en materia de conservación del medio ambiente, protección ecológica y restauración del equilibrio ecológico;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-III. Conservar y restaurar el equilibrio ecológico, así como prevenir los daños al ambiente, de manera que sean compatibles la obtención de beneficios económicos y las actividades de la sociedad con la conservación de los ecosistemas;
+I. Definir los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los instrumentos y procedimientos para su protección, vigilancia y aplicación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+II. Regular el ejercicio de las facultades de las autoridades de la Administración Pública del Distrito Federal en materia de conservación del ambiente, protección ecológica y restauración del equilibrio ecológico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+III. Conservar y restaurar el equilibrio ecológico, así como prevenir los daños al ambiente, de manera que la obtención de beneficios económicos y las actividades sociales se generen en un esquema de desarrollo sustentable;
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2013)</small>
 
@@ -66,13 +82,29 @@ V. Prevenir y controlar la contaminación del aire, agua y suelo en el Distrito 
 
 VI. Establecer las medidas de control, de seguridad y las sanciones administrativas que correspondan, para garantizar el cumplimiento y la aplicación de esta ley y de las disposiciones que de ella se deriven;
 
-VII. Regular por daños al ambiente y establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales en los procesos productivos; y (sic)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Establecer el ámbito de participación de la sociedad en el desarrollo y la gestión Ambiental.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
+VII. Regular la responsabilidad por daños al ambiente y establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales en los procesos productivos;
 
-IX. Promover y establecer el ámbito de participación ciudadana individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana en los términos de la ley, en el desarrollo sustentable y de gestión ambiental.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Establecer el ámbito de participación de la sociedad en el desarrollo y la gestión Ambiental;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Reconocer las obligaciones y deberes tanto del Gobierno como de la sociedad, para garantizar el respeto a la Tierra; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+X. Promover y establecer el ámbito de participación ciudadana individual, colectiva o a través de los órganos de representación ciudadana e instrumentos de participación ciudadana en los términos de la ley, en el desarrollo sustentable y de gestión ambiental.
 
 ###### ARTÍCULO 2°.
 
@@ -108,13 +140,23 @@ VIII. En el establecimiento de las competencias de las autoridades ambientales;
 
 IX. En la prevención, control y acciones contra la contaminación ambiental;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. En la prestación de servicios ambientales; y
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+X. En la vigilancia y protección de los recursos naturales de la Tierra;
 
-XI. En el establecimiento de medidas de control, seguridad y sanciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XI. En la prestación de servicios ambientales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XII. En el establecimiento de medidas de control, seguridad y sanciones.
 
 ###### ARTÍCULO 3°.
 
@@ -198,6 +240,18 @@ APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de 
 
 ÁREA VERDE: Toda superficie cubierta de vegetación, natural o inducida que se localice en el Distrito Federal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+ARMONÍA: Las actividades humanas, que en el marco de la pluralidad y la diversidad, deben lograr equilibrios dinámicos con los ciclos y procesos inherentes a la Tierra;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+ASAMBLEA: La Asamblea Legislativa del Distrito Federal;
+
 AUDITORÍA AMBIENTAL: Examen metodológico de las actividades, operaciones y procesos, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 7 DE ABRIL DE 2011)</small>
@@ -232,6 +286,12 @@ CONTINGENCIA AMBIENTAL O EMERGENCIA ECOLÓGICA: situación eventual y transitori
 
 CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+COSMOVISIÓN DE LOS GRUPOS INDÍGENAS: Es la manera de ver e interpretar a la Tierra. Se trata del conjunto de creencias que permiten analizar y reconocer la realidad a partir de la propia existencia.
+
 CUENCA DE MÉXICO: El ámbito geográfico comprendido por los estados de México, Puebla, Tlaxcala, Hidalgo y el Distrito Federal en la que tienen lugar los ciclos naturales del agua, aire, suelo y especies vivas que determinan las condiciones ambientales del Distrito Federal;
 
 CUERPO RECEPTOR: La corriente, depósito de agua, el cauce o bien del dominio público del Distrito Federal en donde se descargan, infiltran o inyectan aguas residuales;
@@ -245,6 +305,18 @@ DECLARATORIA DE CUMPLIMIENTO AMBIENTAL: Instrumento de evaluación ambiental por
 DEMARCACIÓN TERRITORIAL: Cada una de las partes en que se divide el territorio del Distrito Federal para efectos de la organización político-administrativa;
 
 DELEGACIONES: Los Órganos Político Administrativos establecidos en cada una de las Demarcaciones Territoriales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+DAÑO AL AMBIENTE: Perdida, daño, deterioro, menoscabo, afectación o modificación adversos y mensurables de los hábitat, de los ecosistemas, de los recursos naturales, de sus condiciones químicas, físicas o biológicas de las relaciones de interacción que se dan entre estos, así como de los servicios ambientales que proporcionan, de conformidad con lo que establece la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+DERECHO COLECTIVO: La facultad de los individuos para ejercitar el cumplimiento a sus garantías, en el marco de protección a los recursos naturales de la Tierra;
 
 DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de conservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
@@ -280,11 +352,23 @@ FUENTES MÓVILES: los vehículos automotores que emitan contaminantes al ambient
 
 FUENTES NATURALES DE CONTAMINACIÓN: las de origen biogénico, de fenómenos naturales y erosivos;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+GARANTÍA DE REGENERACIÓN DE LA TIERRA: Responsabilidad a cargo de las autoridades competentes en la materia y de la sociedad, en armonía consistente en garantizar las condiciones necesarias para que los diversos sistemas de vida de la Tierra puedan absorber, daños, adaptarse a las perturbaciones y regenerarse sin alterar significativamente sus características de estructura y funcionalidad, reconociendo que los sistemas de vida tienen límites en su capacidad de regenerarse, y que la humanidad tienen (sic) límites en su capacidad de revertir sus acciones;
+
 GACETA OFICIAL: La Gaceta Oficial del Distrito Federal;
 
 IMPACTO AMBIENTAL: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
 
 INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+INTERCULTURALIDAD: El ejercicio de respeto a los recursos naturales de la Tierra requiere del reconocimiento, recuperación, respeto, protección, y dialogo de la diversidad de sentires, valores, saberes, conocimientos, prácticas, habilidades, trascendencias, transformaciones, ciencias, tecnologías y normas, de todas las culturas del mundo que buscan un convivir en armonía con la naturaleza;
 
 LABORATORIO AMBIENTAL: aquellos que acrediten contar con los elementos necesarios para analizar contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos;
 
@@ -315,6 +399,12 @@ PARQUES LOCALES: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 PARQUES URBANOS: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 
 PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y medición de las descargas de contaminantes o materiales de una fuente fija a la atmósfera, agua, suelo o subsuelo, de acuerdo con las Normas Oficiales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+PRECAUCIÓN: Exige tomar medidas que reduzcan la posibilidad de sufrir un daño ambiental grave. La falta de certeza científica absoluta no deberá utilizarse como razón para postergar la adopción de medidas eficaces en función de los costos para impedir la degradación del ambiente.
 
 PRESTADORES DE SERVICIOS AMBIENTALES: Prestador de servicios de impacto ambiental es la persona que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable del contenido de los mismos;
 
@@ -349,6 +439,12 @@ RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, 
 RESIDUOS INDUSTRIALES NO PELIGROSOS: Todos aquéllos residuos en cualquier estado físico generados en los procesos industriales que no contengan las características que los hagan peligrosos;
 
 RESIDUOS SÓLIDOS: Todos aquellos residuos en estado sólido que provengan de actividades domésticas o de establecimientos industriales, mercantiles y de servicios, que no posean las características que los hagan peligrosos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+RESPETO Y DEFENSA DE LOS RECURSOS NATURALES DE LA TIERRA: Las autoridades del Distrito Federal en sus respectivos ámbitos competenciales y cualquier persona individual o colectiva respetan, protegen y garantizan los recursos naturales de la Tierra;
 
 RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
@@ -478,15 +574,25 @@ VII. Expedir normas ambientales para el Distrito Federal en materias de competen
 
 VIII. Desarrollar programas que fomenten la autorregulación y la auditoría ambiental;
 
-> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, la certificación de la reducción de emisiones contaminantes;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, la certificación de la reducción de emisiones contaminantes, contando con la opinión de la Procuraduría;
 
 X. Establecer los criterios ambientales a que deberán sujetarse los programas, adquisiciones y obras de las dependencias del Gobierno del Distrito Federal;
 
-XI. Promover la creación de estándares e indicadores de calidad ambiental;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Establecer o en su caso proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XI. Promover junto con la Procuraduría la creación de estándares e indicadores de calidad ambiental;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Establecer o en su caso proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Distrito Federal contando con la opinión de la Procuraduría;
 
 XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
@@ -806,11 +912,19 @@ XIV. El fondo ambiental público.
 
 ### CAPÍTULO II. PARTICIPACIÓN CIUDADANA
 
-###### ARTÍCULO 20.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los habitantes del Distrito Federal tienen derecho a disfrutar de un ambiente sano. Las autoridades, en los términos de ésta y otras Leyes tomarán las medidas necesarias para conservar ese derecho.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-Todo habitante del Distrito Federal tiene la potestad de exigir el respeto a este derecho y el cumplimiento de las obligaciones correlativas por parte de las autoridades del Distrito Federal, a través de los mecanismos jurídicos previstos en este título y en otros ordenamientos jurídicos.
+###### Artículo 20.
+
+Los habitantes del Distrito Federal tienen derecho a disfrutar de un ambiente sano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+Todo habitante del Distrito Federal tiene la potestad de exigir el respeto a su derecho y a los recursos naturales de la Tierra.
 
 > <small>(ADICIONADO, G.O. 25 DE JULIO DE 2012)</small>
 
@@ -842,19 +956,33 @@ VI. Fomentar, desarrollar y difundir las experiencias y prácticas de ciudadanos
 
 VII. Coordinarán y promoverán acciones e inversiones con los sectores sociales y privados, con instituciones académicas, grupos, organizaciones sociales, y demás personas interesadas, para la conservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-###### ARTÍCULO 23.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las personas, en los términos de la presente Ley, están obligadas a:
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+###### Artículo 23.
 
-I. Prevenir y evitar daños al ambiente y, en su caso, reparar los daños que hubieran causado;
+Son obligaciones de las personas que se encuentran en el Distrito Federal:
 
-II. Minimizar los daños al ambiente que no puedan prevenir o evitar, en cuyo caso estarán obligadas a reparar los daños causados;
+I. Defender y respetar los recursos naturales que componen a la Tierra;
 
-III. Ayudar en la medida de lo posible a establecer las condiciones que permitan garantizar la subsistencia y regeneración del ambiente y los elementos naturales; y
+II. Prevenir y evitar daños al ambiente y, en su caso, reparar los daños que hubieran causado;
 
-IV. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y reuso de agua, conservación del ambiente rural y urbano, prevención y control de la contaminación de aire, agua y suelo, y protección de la flora y fauna en el Distrito Federal.
+III. Promover la armonía en la Tierra en todos los ámbitos de su relación con las personas y el resto de la naturaleza en los sistemas de vida;
+
+IV. Participar de forma activa, personal o colectivamente, en la generación de propuestas orientadas al respeto y la defensa de los recursos naturales de la Tierra;
+
+V. Asumir prácticas de producción y hábitos de consumo en armonía con los recursos naturales de la Tierra;
+
+VI. Minimizar los daños al ambiente que no puedan prevenir o evitar, en cuyo caso estarán obligadas a reparar los daños causados;
+
+VII. Ayudar en la medida de lo posible a establecer las condiciones que permitan garantizar la subsistencia y regeneración del ambiente y los recursos naturales;
+
+VIII. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y reuso de agua, conservación del ambiente rural y urbano, prevención y control de la contaminación de aire, agua y suelo, y protección de la flora y fauna en el Distrito Federal;
+
+IX. Asegurar el uso y aprovechamiento sustentable de los componentes de la Tierra; y
+
+X. Denunciar todo acto que atente contra los recursos naturales de la Tierra, sus sistemas de vida y/o sus componentes.
 
 ### CAPÍTULO III. PLANEACIÓN DEL DESARROLLO SUSTENTABLE
 
@@ -1724,9 +1852,23 @@ VIII. El desarrollo de programas de educación e investigación en materia ambie
 
 IX. El cuidado y protección de los animales del Distrito Federal;
 
-X. La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. La reparación de daños ambientales.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+X. La supervisión del cumplimiento de los convenios con los sectores productivo y académico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XI. La reparación de daños ambientales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Proyectos de participación ciudadana previamente analizados y que cuenten con la autorización de la Procuraduría con relación a los recursos naturales de la Tierra.
 
 ###### ARTÍCULO 70.
 
@@ -1756,11 +1898,13 @@ VI. Los recursos derivados de los instrumentos económicos y de mercado correspo
 
 VII. Los demás recursos que se generen por cualquier otro concepto.
 
-> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 70 Bis.
 
-El Presupuesto de Egresos del Distrito Federal establecerá los recursos del fondo ambiental y, entre otros, aquellos destinados específicamente para la vigilancia y conservación de los recursos naturales, así como la retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica, y su monto no podrá ser menor al que se hubiera establecido en el ejercicio fiscal anterior.
+El Presupuesto de Egresos del Distrito Federal establecerá los recursos del fondo ambiental y, entre otros, aquellos destinados específicamente para la vigilancia y conservación de los recursos naturales, la retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica, así como las acciones de vigilancia de los recursos inherentes a Tierra y su monto no podrá ser menor al que se hubiera establecido en el ejercicio fiscal anterior.
 
 ###### ARTÍCULO 71.
 
@@ -1850,11 +1994,29 @@ I. Que las instituciones de educación en todos sus niveles incorporen en sus pr
 
 II. El fortalecimiento de una cultura ambiental de participación corresponsable;
 
-III. El adiestramiento en y para el trabajo en materia de conservación del medio ambiente, la protección ecológica y la restauración del equilibrio ecológico, con arreglo a lo que establece esta ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. La incorporación de contenidos ambientales en los programas de las comisiones mixtas de seguridad e higiene, en coordinación con las autoridades competentes; y
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
-V. La formación de especialistas así como la coordinación para la investigación y el desarrollo tecnológico y de ecotecnias en materia ambiental, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos y proteger los ecosistemas.
+III. La difusión de los contenidos de los recursos inherentes a la Tierra;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+IV. El adiestramiento en y para el trabajo en materia de conservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico, con arreglo a lo que establece esta ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+V. La incorporación de contenidos ambientales en los programas de las comisiones mixtas de seguridad e higiene, en coordinación con las autoridades competentes; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+VI. La formación de especialistas así como la coordinación para la investigación y el desarrollo tecnológico en materia ambiental, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos y proteger los ecosistemas.
 
 ###### ARTÍCULO 74.
 
@@ -2018,13 +2180,87 @@ Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposici
 
 En caso de que el titular de la delegación no proceda conforme las atribuciones que le brinda esta ley y como lo establece el artículo 86, para desalojar a quienes invadan suelo de conservación con el fin de asentarse irregularmente, o no finque acción penal en contra de quien destruya el mismo, será considerado coparticipe en esa acción y se le impondrá lo establecido en el articulo 343 BIS del Código Penal del Distrito Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO I BIS. DE LA TIERRA Y SUS RECURSOS NATURALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 86 Bis 1.
+
+La Tierra es un sistema viviente dinámico conformado por la comunidad indivisible de todos los sistemas de vida y los seres vivos, interrelacionados, interdependientes y complementarios, que comparten un destino común.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 86 Bis 2.
+
+Los sistemas de vida son comunidades complejas y dinámicas de plantas, animales, micro organismos, otros seres y su entorno, donde interactúan comunidades humanas junto al resto de la naturaleza como una unidad funcional, bajo la influencia de factores climáticos, fisiográficos y geológicos, así como de las prácticas productivas, la diversidad cultural, y las cosmovisiones de los grupos indígenas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 86 Bis 3.
+
+Para efectos de la protección y tutela de sus recursos naturales, la Tierra adopta el carácter de ente colectivo sujeto de la protección del interés público. En su aplicación se tomarán en cuenta las especificidades y particularidades de sus diversos componentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 86 Bis 4.
+
+Todas las personas, al formar parte de la comunidad de seres que componen la Tierra, ejercen los derechos establecidos en la presente ley, de forma armónica con sus derechos individuales y colectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 86 Bis 5.
+
+Los habitantes del Distrito Federal tienen las siguientes responsabilidades para con la Tierra y sus recursos naturales.
+
+I. Al mantenimiento de la vida. A la preservación de la integridad de los sistemas de vida y los procesos naturales que los sustentan, así como las capacidades y condiciones para su regeneración;
+
+II. Al mantenimiento a la diversidad de la vida. A la preservación de la diferenciación y la variedad de los seres que componen la Tierra, sin ser alterados genéticamente ni modificados en su estructura de manera artificial, de tal forma que amenace su existencia, funcionamiento y potencial futuro;
+
+III. A la conservación del agua. A la preservación de la funcionalidad de los ciclos del agua, de su existencia en la cantidad y calidad necesarias para el sostenimiento de los sistemas de vida, y su protección frente a la contaminación para la reproducción de la vida de la Tierra y todos sus componentes;
+
+IV. A mantener el aire limpio. A la preservación de la calidad y composición del aire para el sostenimiento de los sistemas de vida y su protección frente a la contaminación, para la reproducción de la vida de la Tierra y todos sus componentes;
+
+V. Al equilibrio ecológico. Al mantenimiento de la interrelación, interdependencia, complementariedad y funcionalidad de los componentes de la Tierra, de forma equilibrada para la continuación de sus ciclos y la reproducción de sus procesos vitales;
+
+VI. A la restauración del ecosistema. A la restitución oportuna y efectiva de los sistemas de vida afectados por las actividades humanas directa o indirectamente; y
+
+VII. A vivir libre de contaminación. A la preservación de la Tierra de contaminación de cualquiera de sus componentes, así como de residuos tóxicos y radiactivos generados por las actividades humanas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 86 Bis 6.
+
+El Gobierno del Distrito Federal tiene las siguientes obligaciones:
+
+I. Desarrollar políticas públicas y acciones sistemáticas de prevención, alerta temprana, protección, para evitar que las actividades humanas conduzcan a la extinción de poblaciones de seres, la alteración de los ciclos y procesos que garantizan la vida o la destrucción de sistemas de vida, que incluyen los sistemas culturales que son parte de la Tierra;
+
+II. Desarrollar en el ámbito de sus atribuciones, formas de producción y patrones de consumo equilibrados en la búsqueda del bien común, salvaguardando las capacidades regenerativas y la integridad de los ciclos, procesos y equilibrios vitales de la Tierra;
+
+III. Desarrollar políticas para defender la Tierra en el ámbito nacional, de la sobreexplotación de sus componentes, de la mercantilización de los sistemas de vida o los procesos que los sustentan y de las causas estructurales del Cambio Climático y sus efectos;
+
+IV. Desarrollar políticas y campañas de promoción a fin de asegurar la sustentabilidad energética a largo plazo a partir una (sic) cultura del ahorro, el aumento de la eficiencia y la incorporación paulatina de fuentes alternativas limpias y renovables entre los habitantes del Distrito Federal; y
+
+V. Velar en el ámbito de sus atribuciones, por el reconocimiento de la necesidad de financiamiento y transferencia de tecnologías limpias, efectivas y compatibles con los recursos naturales de la Tierra, además de otros mecanismos.
+
 ### CAPÍTULO II. ÁREAS VERDES
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
-
-### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 87.
 
@@ -2160,11 +2396,9 @@ Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sancio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
 
-### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
+### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 90 Bis.
 
@@ -2270,9 +2504,11 @@ VI. Colaborar con las autoridades en la persecución de fondos y/o financiamient
 
 VII. Las demás que determine el Acuerdo que expida el Jefe de Gobierno.
 
-### CAPÍTULO III BIS. ÁREAS COMUNITARIAS DE CONSERVACIÓN ECOLÓGICA
+### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
-> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 91.
 
@@ -2474,7 +2710,9 @@ La Secretaría integrará el Registro de Áreas Naturales Protegidas del Distrit
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE JUNIO DE 2006)</small>
 
-### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
+### CAPÍTULO III BIS. ÁREAS COMUNITARIAS DE CONSERVACIÓN ECOLÓGICA
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 103 Bis.
 
@@ -2554,7 +2792,7 @@ Para apoyar económicamente a los núcleos agrarios que determinen el establecim
 
 En dicho programa se establecerán los montos máximos y condiciones mínimas de las retribuciones provenientes del Fondo Ambiental Público, para que los pueblos, comunidades y ejidos realicen la administración, manejo, conservación y vigilancia de dichas áreas, e incluirá el pago de estímulos por la conservación de los servicios ambientales.
 
-### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
+### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
 
 ###### ARTÍCULO 104.
 
@@ -2632,13 +2870,17 @@ La Secretaría realizará las acciones necesarias para evitar o, en su caso, con
 
 Queda estrictamente prohibido el relleno, secado o uso diferente al que tienen, los cuerpos de agua superficiales del Distrito Federal.
 
-### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
+### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
 
 ###### ARTÍCULO 111.
 
 Para la conservación, restauración, protección y aprovechamiento sustentable del suelo en el territorio del Distrito Federal, se considerarán los siguientes criterios:
 
-I. El uso del suelo debe ser compatible con su aptitud natural y no debe alterar el equilibrio de los ecosistemas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+
+I. El uso del suelo debe ser compatible con su aptitud natural, preservando en todo momento los recursos naturales de la Tierra y no debe alterar el equilibrio de los ecosistemas;
 
 II. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro de los suelos, deben incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su aptitud natural;
 
@@ -2670,7 +2912,7 @@ VII. La formulación del programa de ordenamiento ecológico; y
 
 VIII. La evaluación del impacto ambiental de las obras o proyectos que en su caso se sometan a consideración de la Secretaría.
 
-### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
+### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
 
 ###### ARTÍCULO 113.
 
@@ -2690,9 +2932,7 @@ En los suelos de conservación que presenten deterioros ecológicos, la Secretar
 
 En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación las (sic) instituciones federales a través de un convenio, de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
 
-### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
 
 ###### ARTÍCULO 116.
 
@@ -2768,7 +3008,7 @@ Las acciones de inspección e imposición de medidas de seguridad, correctivas o
 
 La Secretaría establecerá en los programas respectivos las medidas necesarias para evitar los incendios forestales.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2786,13 +3026,15 @@ Las Dependencias, delegaciones, órganos desconcentrados, entidades, órganos au
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
-### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 123.
 
 Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría, así como a utilizar los equipos, dispositivos y sistemas de reducción de emisiones que determine dicha dependencia. Quedan comprendidos la generación de residuos sólidos, de contaminantes visuales y de la emisión de contaminantes de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
 
 ###### ARTÍCULO 124.
 
@@ -2828,7 +3070,7 @@ La Secretaría en coordinación con las autoridades federales y locales, estable
 
 La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de residuos sólidos y de aguas residuales.
 
-### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -3060,7 +3302,7 @@ Los propietarios de fuentes que generen cualquiera de estos contaminantes, está
 
 Corresponde a la Secretaría, en coordinación con las autoridades competentes, la realización de campañas intensivas de información y orientación en materia de emisiones de ruido, vibraciones, energía térmica, lumínica, gases, olores y vapores, así como la contaminación visual.
 
-### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### ARTÍCULO 152.
 
@@ -3150,7 +3392,7 @@ Cuando alguna descarga al sistema de drenaje, a pesar del cumplimiento de los l�
 
 La Secretaría establecerá y operará un sistema de monitoreo de las aguas residuales en el Distrito Federal.
 
-### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
+### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
 ###### ARTÍCULO 163.
 
@@ -3388,9 +3630,7 @@ VI. La infraestructura para la dotación de servicios básicos.
 
 La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimiento de zonas intermedias de salvaguarda, con el objeto de prevenir y controlar el riesgo ambiental que puedan ocasionar las industrias, comercios y servicios que realicen actividades riesgosas en el territorio del Distrito Federal.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
-
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
 
 ###### ARTÍCULO 182.
 
@@ -3412,13 +3652,13 @@ Los Programas de Contingencia Ambiental establecerán las condiciones bajo las c
 
 En situación de contingencia ambiental, los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes.
 
-### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
 
 ###### ARTÍCULO 187.
 
@@ -3454,7 +3694,7 @@ El Reglamento correspondiente a la materia establecerá los procedimientos de co
 
 La falta de calidad técnica, ética, dolo, mala fe o la falsedad en la información presentada por un Prestador de Servicios Ambientales responsable de la elaboración de cualquier modalidad de los estudios de impacto ambiental, será sancionada conforme a lo previsto en la presente ley y en su Reglamento correspondiente a la materia.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3590,7 +3830,7 @@ VII. Prestar sus servicios de conformidad con los contratos autorizados por la S
 
 VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones.
 
-### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3600,7 +3840,7 @@ La Secretaría establecerá los lineamientos y procedimientos para autorizar lab
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO III. MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3638,7 +3878,7 @@ La Secretaría establecerá y aplicará los sistemas de capacitación y profesio
 
 Con independencia de las medidas de seguridad, correctivas y de urgente aplicación, las sanciones y medidas de apremio que en materia administrativa correspondan, los policías ambientales pondrán a disposición de la autoridad competente a quienes realicen actos u omisiones probablemente constitutivos de delito o infracción administrativa en materia ambiental, que sucedan en suelo urbano y suelo de conservación así como en áreas de valor ambiental y áreas naturales protegidas.
 
-### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3800,7 +4040,9 @@ El reglamento conciliará la aplicación de los mecanismos anotados y los proced
 
 Corresponde a la Secretaría y a las delegaciones realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes ecoguardas asignados a esta función deberán estar debidamente acreditados por la Secretaría en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a las visitas domiciliarias y actos de inspección señaladas en este Título.
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 211.
 
@@ -3838,7 +4080,7 @@ Las personas responsables de los hechos que dan lugar a la imposición de las me
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en el artículo 211 de esta Ley, indicará al interesado, cuando procedan, las acciones que debe llevar a cabo para subsanar o corregir los hechos que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se dejen sin efectos o se ordene el retiro de las medidas de seguridad impuestas.
 
-### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 213.
 
@@ -3962,11 +4204,13 @@ En el caso de aquellas constancias, certificados, certificaciones, permisos, lic
 
 Los funcionarios públicos que contravengan las disposiciones de esta Ley, su reglamento y las demás disposiciones aplicables incurren en responsabilidad y serán sancionados en los términos de la Ley correspondiente.
 
-### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
+### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
 
 ###### ARTÍCULO 220.
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales del Distrito Federal y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe el interés jurídico, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Procedimiento Administrativo del Distrito Federal.
+
+### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
 
 ###### ARTÍCULO 221.
 
@@ -4231,3 +4475,15 @@ G.O. 27 DE JUNIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La modificación y adecuación de la reglamentación de estas leyes deberá ser expedida dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+TERCERO.- En tanto se expidan las disposiciones administrativas que deriven de la presente reforma seguirán en vigor aquéllas que no la contravengan.
+
+CUARTO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley iniciadas con anterioridad a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+QUINTO.- Las reformas a la Ley Ambiental del Distrito Federal, turnadas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, durante el Primer Periodo Ordinario, el Primer Receso y el Segundo Periodo Ordinario, del Primer Año de Ejercicio, y las que se presenten en lo sucesivo, relativo a la Ley Ambiental del Distrito Federal, se entenderán referidas a la Ley Ambiental de Protección a la Tierra en el Distrito Federal.
