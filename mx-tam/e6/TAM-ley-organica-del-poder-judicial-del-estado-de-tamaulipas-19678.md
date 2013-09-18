@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2013-06-07"
+last_updated: "2013-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -2941,21 +2941,33 @@ Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rec
 
 Los magistrados electorales durarán en su encargo seis años improrrogables y no podrán ser reelectos; su elección será escalonada. En caso de vacante definitiva se nombrará a un nuevo magistrado quien durará en su cargo por el tiempo restante al del nombramiento original.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 187.
 
-El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado a dos candidatos para ocupar la vacante de magistrado electoral o de Magistrado Presidente, según sea el caso, de conformidad con las reglas y procedimiento siguiente:
+El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado a dos candidatos para ocupar la vacante de magistrado electoral, de conformidad con las reglas y procedimiento siguiente:
 
-I.- A más tardar 90 días antes de la conclusión del periodo para el que fueron electos los magistrados electorales que correspondan o el Magistrado Presidente, o cuando se genere la vacante o ausencia definitiva, el Pleno del Supremo Tribunal de Justicia emitirá una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para integrar el Pleno del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+I.- A más tardar 90 días antes de la conclusión del periodo para el que fueron electos los magistrados electorales que correspondan, o cuando se genere la vacante o ausencia definitiva, el Pleno del Supremo Tribunal de Justicia emitirá una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para integrar el Pleno del Tribunal Electoral;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 II.- Los candidatos que cumplan los requisitos, serán evaluados por el Pleno del Supremo Tribunal de Justicia, conforme a las reglas y modalidades que se establezca en el Acuerdo que para tal efecto emitan;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 III.- En sesión pública, el Pleno del Supremo Tribunal de Justicia determinará por mayoría simple de los presentes, las propuestas que enviará al Congreso del Estado;
 
-IV.- El Presidente del Supremo Tribunal de Justicia hará llegar al Congreso del Estado las propuestas para magistrados electorales o Magistrado Presidente, según sea el caso;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-V.- De entre los candidatos para cada vacante, Congreso del Estado elegirá, a los magistrados electorales o Magistrado Presidente del Tribunal Electoral, según sea el caso, por el voto de las dos terceras partes de sus miembros presentes y conforme a las reglas establecidas en el artículo 134 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado; y
+IV.- El Presidente del Supremo Tribunal de Justicia hará llegar al Congreso del Estado las propuestas para magistrados electorales, según sea el caso;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+V.- De entre los candidatos para cada vacante, el Congreso del Estado elegirá a los magistrados electorales del Tribunal Electoral, según sea el caso, por el voto de las dos terceras partes de sus miembros presentes y conforme a las reglas establecidas en el artículo 134 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VI.- Si ninguno de los candidatos propuestos obtuviera la mayoría calificada en el Congreso del Estado, se notificará al Supremo Tribunal de Justicia para que presente otra propuesta.
 
@@ -3702,3 +3714,9 @@ El Consejo de la Judicatura del Estado proveerá lo conducente para contar con l
 ###### ARTÍCULO TERCERO.
 
 El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Juicio Oral para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Juicio Oral, el Consejo podrá habilitar a Jueces de Primera Instancia del Ramo Penal, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
