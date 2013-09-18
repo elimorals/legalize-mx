@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-contraloria-interna-del-poder-30070"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-09"
-last_updated: "2003-04-09"
+last_updated: "2013-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA INTERNA DEL PODER JUDICIAL
 
-REGLAMENTO INTERIOR DE LA CONTRALORIA INTERNA DEL PODER JUDICIAL
+REGLAMENTO INTERIOR DE LA CONTRALORÍA INTERNA DEL PODER JUDICIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA CONTRALORÍA INTERNA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 9 de abril de 2003.
 
@@ -164,3 +166,11 @@ Presidente del Consejo de la Judicatura del Poder Judicial del Estado.
 LIC. GENOVEVA VERDIAS SANTANA
 
 Secretario de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 18 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y deberá difundirse en el Boletín Judicial del Poder Judicial y en la página de transparencia de éste.
+
+Artículo Segundo. Se abroga el Acuerdo número 3/2002 de fecha 24 de octubre de 2002, mediante el cual se aprobó el Reglamento Interior de la Contraloría Interna.
