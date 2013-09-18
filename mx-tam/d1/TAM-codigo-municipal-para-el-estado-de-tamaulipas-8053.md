@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2013-05-07"
+last_updated: "2013-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -303,27 +303,21 @@ El cargo de miembro de un Ayuntamiento sólo podrá renunciarse por causa justif
 
 Los miembros de los ayuntamientos tendrán la remuneración que se les asigne en el Presupuesto de Egresos respectivo, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación económica de los Municipios.
 
-(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 30/2008, 31/2008 Y 32/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO CON SIETE FRACCIONES DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRA EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+I.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2008)</small>
+II.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
-LA SUMA TOTAL DE TODOS LOS CONCEPTOS QUE SE INCLUYAN COMO REMUNERACIÓN A QUE TENDRÁN DERECHO LOS SÍNDICOS Y REGIDORES DE LOS AYUNTAMIENTOS DEL ESTADO SE ESTABLECERÁ CON EL EQUIVALENTE AL SALARIO MÍNIMO VIGENTE EN EL ÁREA GEOGRÁFICA CORRESPONDIENTE, EN UN PARÁMETRO MÁXIMO EN LOS SIGUIENTES TÉRMINOS:
+III.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
-I. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS MIL Y LOS CINCO MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 101 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 80 SALARIOS MÍNIMOS;
+IV.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
-II. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS CINCO MIL UNO A LOS DIEZ MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 151 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 121 SALARIOS MÍNIMOS;
+V.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
-III. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS DIEZ MIL UNO A LOS QUINCE MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 202 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 161 SALARIOS MÍNIMOS;
+VI.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
-IV. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS QUINCE MIL UNO A LOS CUARENTA MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 252 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 202 SALARIOS MÍNIMOS;
-
-V. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS CUARENTA MIL UNO A LOS CIEN MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 378 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 303 SALARIOS MÍNIMOS;
-
-VI. EN LOS MUNICIPIOS CUYA POBLACIÓN ESTÉ COMPRENDIDA ENTRE LOS CIEN MIL UNO A LOS DOSCIENTOS CINCUENTA MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 505 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 404 SALARIOS MÍNIMOS; Y
-
-VII. EN LOS MUNICIPIOS CUYA POBLACIÓN SEA MAYOR A LOS DOSCIENTOS CINCUENTA MIL HABITANTES, LAS PERCEPCIONES MENSUALES DE LOS SÍNDICOS NO SERÁN MAYORES AL EQUIVALENTE A 757 SALARIOS MÍNIMOS; Y LA DE LOS REGIDORES AL EQUIVALENTE A 606 SALARIOS MÍNIMOS.
+VII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 31.
 
@@ -859,7 +853,9 @@ Para el ejercicio de las facultades y obligaciones que corresponden a los Síndi
 
 ### CAPITULO X. DE LAS COMISIONES
 
-### CAPITULO XI. DEL REGIMEN ADMINISTRATIVO
+### CAPITULO XI
+
+DEL REGIMEN ADMINISTRATIVO.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1489,7 +1485,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-Para los efectos de este impuesto se considera:
+- Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -1853,7 +1849,7 @@ Este impuesto es aplicable como gravamen real sobre los predios que sean benefic
 
 ###### ARTICULO 134.
 
-Son sujetos del impuesto con responsabilidad directa los propietarios, copropietarios, condominios (sic), poseedores, ocupantes, detentadores, fideicomitentes o los que por cualquier título o causa se beneficien con la obra respectiva. Son responsables solidarios los promitentes compradores y los adquirentes en las operaciones con reserva de dominio y las instituciones fiduciarias si el predio estuviere afectado en fideicomiso; estas instituciones cubrirán el impuesto con cargo a quien resulte propietario del predio beneficiado, una vez liberado el fideicomiso.
+Son sujetos del impuesto con responsabilidad directa los propietarios, copropietarios, condóminos, poseedores, ocupantes, detentadores, fideicomitentes o los que por cualquier título o causa se beneficien con la obra respectiva. Son responsables solidarios los promitentes compradores y los adquirentes en las operaciones con reserva de dominio y las instituciones fiduciarias si el predio estuviere afectado en fideicomiso; estas instituciones cubrirán el impuesto con cargo a quien resulte propietario del predio beneficiado, una vez liberado el fideicomiso.
 
 Cuando sean personas distintas el propietario o detentador por cualquier título o causa, del terreno y de las construcciones, el impuesto recaerá sobre aquél.
 
@@ -4002,6 +3998,12 @@ P.O. 30 DE AGOSTO DE 2012.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
