@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-66370"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-29"
-last_updated: "2009-09-10"
+last_updated: "2013-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
+CÓDIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre del 2008.
 
@@ -1435,7 +1435,7 @@ VI.- Concluida la etapa señalada en la fracción que antecede, la comisión emi
 
 VII.- El dictamen final a que hace referencia la fracción que antecede, será sometido a votación de los miembros presentes del Pleno del Congreso del Estado para que, posteriormente y mediante votación por cédula, se realice la designación de los consejeros electorales con el voto de las dos terceras partes de sus miembros presentes;
 
-VIII.- Cuando corresponda designar al Consejero Presidente del Consejo General del Instituto, agotada la etapa anterior, de entre los consejeros electos, los miembros presentes del Pleno del Congreso del Estado realizarán votación por cédula para elegirlo. Dicha designación requerirá también la votación calificada de dos terceras partes de los miembros presentes del Congreso;
+VIII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
 
 IX.- Los consejeros electorales que concluyan su periodo y aspiren a ser reelectos, podrán participar en el proceso a que hace referencia el presente artículo, en los términos que para tal efecto señale la convocatoria respectiva; y
 
@@ -2605,7 +2605,7 @@ V.- El Presidente del Consejo Distrital ordenará la publicación de la lista de
 
 VI.- En su caso, el Presidente del Consejo Distrital ordenará una segunda y última publicación de las listas de ubicación de casillas, y los funcionarios que las integran dentro de los cinco días anteriores al de la jornada electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 235.
 
@@ -2997,7 +2997,7 @@ Los representantes de los partidos políticos o coaliciones podrán presentar al
 
 El secretario recibirá tales escritos y los incorporará al expediente electoral de la casilla, sin que pueda mediar discusión sobre su admisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 262.
 
@@ -4071,8 +4071,14 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO.- NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2009.
 
 Artículo Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
