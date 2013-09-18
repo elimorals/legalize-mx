@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg660-2012-del-consejo-general-del-instituto-89802"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-10-24"
-last_updated: "2012-10-24"
+last_updated: "2013-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-10-03"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA DESTRUCCIÓN DE LOS VOTOS VALIDOS, LOS VOTOS NULOS, LAS BOLETAS SOBRANTES Y LA LISTA NOMINAL DEL PROCESO ELECTORAL FEDERAL 2005-2006
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE SEPTIEMBRE DE 2013.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 24 de octubre de 2012.
 
@@ -191,121 +191,249 @@ Primero. Se aprueban los “Lineamientos para la destrucción de los votos váli
 
 Segundo. Se aprueba la destrucción de los votos válidos y el sobre que los contiene; los votos nulos y el sobre que los contiene; las boletas sobrantes de cada casilla y el sobre que las contiene; la lista nominal y el sobre que la contiene; las boletas que sobraron en cada consejo distrital y que fueron inutilizadas durante la actividad del conteo, sellado y enfajillado correspondientes al Proceso Electoral Federal 2005-2006, almacenada toda ella en 32 bodegas estatales, distribuidas en las entidades federativas del país.
 
-Asimismo, se podrá incluir en la destrucción la documentación correspondiente al Proceso Electoral Federal 2006 (misma que se especifica en el anexo 1, “Lineamientos para la destrucción de los votos válidos, los votos nulos, las boletas sobrantes y la lista nominal del Proceso Electoral Federal 2005-2006”), siempre y cuando así lo determinen los órganos competentes, de conformidad con la normatividad aplicable.
+> <small>(ADICIONADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Asimismo, se podrá incluir en la destrucción la documentación correspondiente al Proceso Electoral Federal 2006 (misma que se especifica en el anexo 1, “Lineamientos para la destrucción de los votos válidos, los votos nulos, las boletas sobrantes y la lista nominal del Proceso Electoral Federal 2005-2006”), en virtud de que ha sido valorada por el Comité Técnico Interno para la Administración de Documentos determinándose que carece de valor documental.
 
 Tercero. La destrucción deberá realizarse en los plazos establecidos en los Lineamientos antes mencionados, con base en los términos que señala el Código Federal de Instituciones y Procedimientos Electorales.
 
-Cuarto. Se instruye a los Vocales Ejecutivos de las Juntas Locales Ejecutivas para que giren invitación por escrito a los órganos directivos estatales de los partidos políticos, así como a los ciudadanos que actuaron con el carácter de consejeros electorales locales durante el Proceso Electoral Federal 2011-2012, para que asistan a la apertura de las bodegas y a la destrucción de la documentación, indicándoles la fecha, lugar y hora en que tendrá lugar el evento. Dichas invitaciones deberán enviarse por lo menos con tres días de anticipación.
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
-Quinto. Se instruye a los vocales ejecutivos locales para que verifiquen con por lo menos tres días de anticipación que los responsables de las custodias en las bodegas estatales tengan conocimiento de las actividades que se llevarán a cabo en dichas bodegas.
+Cuarto. Se instruye al Secretario del Consejo para que gire invitación por escrito a los integrantes del Consejo General y a los órganos directivos de los Partidos Políticos Nacionales, para la apertura de la bodega nacional y al acto de destrucción, indicándoles domicilio, fecha, lugar y hora en donde se realizará dicho el (sic) evento.
 
-Sexto. Se instruye a los órganos estatales, a efecto de que realicen la destrucción bajo el procedimiento ecológico de reciclamiento, considerando las condiciones, recursos e infraestructura disponibles, debiendo observar las medidas de seguridad correspondientes; lo anterior, derivado de la necesidad de proteger y conservar el medio ambiente, situación que el Instituto Federal Electoral, institución socialmente responsable, asume como prioritaria.
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
-Séptimo. El Vocal Secretario de cada Junta Local, dará fe del acto de destrucción y remitirá a la Dirección Ejecutiva de Organización Electoral, por los medios electrónicos disponibles, copia simple del acta circunstanciada.
+Quinto. Se instruye a la Dirección Ejecutiva de Organización Electoral para que informe a los responsables de la custodia en la bodega nacional sobre las actividades que se llevarán a cabo.
 
-Octavo. Los Vocales Ejecutivos de las Juntas Locales informarán a la Dirección Ejecutiva de Organización Electoral, respecto de las actividades llevadas a cabo en su ámbito de competencia; lo anterior, a efecto de que mantenga informados a los integrantes de la Comisión de Organización Electoral y al Secretario Ejecutivo, sobre el desarrollo de la actividad. Una vez concluidos los trabajos de destrucción, la Presidencia de la Comisión de Organización Electoral ofrecerá un informe final al Consejo General del Instituto.
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
-Noveno. Se instruye a la Coordinación Nacional de Comunicación Social, así como a los Vocales Ejecutivos Locales y Distritales, a efecto de dar amplia difusión respecto de los actos de destrucción.
+Sexto. El Secretario del Consejo, por conducto de la Dirección Ejecutiva de Organización Electoral, realizará la destrucción bajo el procedimiento ecológico de reciclamiento, considerando las condiciones, recursos e infraestructura disponibles, debiendo observar las medidas de seguridad correspondientes; lo anterior, derivado de la necesidad de proteger y conservar el medio ambiente, toda vez que el Instituto Federal Electoral, es una Institución socialmente responsable.
 
-Décimo. Se instruye a la Secretaría Ejecutiva del Instituto, para que a través de la Dirección Ejecutiva de Administración, ministre los recursos necesarios a las Juntas, en tiempo y forma, a efecto de que puedan dar cumplimiento a lo establecido en el presente Acuerdo.
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Séptimo. El Secretario del Consejo General, a través de la Dirección Jurídica y en coordinación con la Dirección Ejecutiva de Organización Electoral solicitará a la Asociación Nacional del Notariado Mexicano, A.C., Colegio Nacional, para que designe de entre sus miembros, a los Notarios Públicos que darán fe del acto de inicio de los trabajos encaminados a la destrucción del material electoral multicitado, así como de la conclusión de la actividad, levantando las actas correspondientes. Asimismo, a efecto de dejar constancia de los actos realizados durante el procedimiento de destrucción, el Secretario del Consejo podrá comisionar a los Vocales Ejecutivos Distritales que estime pertinentes, para que estos, dentro del ámbito de sus atribuciones, levanten las actas circunstanciadas correspondientes.
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Octavo. La Dirección Ejecutiva de Organización Electoral, mantendrá informados a los integrantes de la Comisión de Organización Electoral y al Secretario del Consejo, sobre el desarrollo de los trabajos realizados; una vez concluidos, la Presidencia de la Comisión de Organización Electoral ofrecerá un informe final al Consejo General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Noveno. Se instruye a la Coordinación Nacional de Comunicación Social, a efecto de dar difusión a los actos de destrucción.
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Décimo. Se instruye a la Secretaría Ejecutiva del Instituto para que a través de la Dirección Ejecutiva de Administración, provea los recursos necesarios a la Dirección Ejecutiva de Organización Electoral y a la Dirección Jurídica, en tiempo y forma, para que puedan dar cabal cumplimiento a lo establecido en el presente Acuerdo y los Lineamientos respectivos.
 
 Décimo Primero. El presente Acuerdo entrará en vigor al momento de su aprobación por el Consejo General de este Instituto.
 
 Décimo Segundo. Notifíquese el presente Acuerdo a los vocales ejecutivos de las Juntas Locales y Distritales Ejecutivas, para su debido cumplimiento. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
 
+> <small>(ADICIONADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Décimo Tercero. Deberán preservarse las boletas electorales y las listas nominales que sean objeto de los diversos estudios que el Instituto Federal Electoral realiza para el Proceso Electoral Federal 2005-2006. Una vez concluidos los estudios, se procederá a su destrucción acorde a los criterios y procedimientos previstos en los presentes Lineamientos, y conforme al calendario que para tal efecto apruebe la Comisión de Organización Electoral. De lo anterior, se presentará un informe final ante la referida Comisión.
+
+> <small>(ADICIONADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Décimo Cuarto. No deberá destruirse aquella documentación electoral que por disposición de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, y demás normatividad aplicable, deba permanecer bajo el resguardo de los órganos competentes de este Instituto.
+
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 3 de octubre de dos mil doce, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Sergio García Ramírez, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-“LINEAMIENTOS PARA LA DESTRUCCION DE LOS VOTOS VALIDOS, LOS VOTOS NULOS, LAS BOLETAS SOBRANTES Y LA LISTA NOMINAL DEL PROCESO ELECTORAL FEDERAL 2005-2006”
+REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)
 
-OCTUBRE 2012
+LINEAMIENTOS PARA LA DESTRUCCIÓN DE LOS VOTOS VÁLIDOS, LOS VOTOS NULOS, LAS BOLETAS SOBRANTES Y LA LISTA NOMINAL DEL PROCESO ELECTORAL FEDERAL 2005-2006.
+
+> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
 Presentación
 
-El artículo 254, párrafo 2 del Código Federal de Instituciones y Procedimientos Electorales, vigente en 2006, ordena la destrucción de la documentación una vez concluido el proceso electoral.
+El artículo 254, párrafo 2, del Código Federal de Instituciones y Procedimientos Electorales, vigente en 2006, ordena la destrucción de la documentación una vez concluido el Proceso Electoral.
 
-La destrucción de la documentación electoral utilizada en las elecciones federales de 2006 está pendiente de realizarse, toda vez que ciudadanos interesados en acceder a las boletas electorales de aquella elección, interpusieron desde 2006, diversos recursos legales ante instancias nacionales e incluso internacionales. Tal es el caso del recurso interpuesto ante la Corte Interamericana de Derechos Humanos (CIDH), autoridad que notificó al Gobierno de México el día 3 de julio de 2008, una petición para suspender la destrucción de las boletas electorales del 2 de julio de 2006.
+La destrucción de la documentación electoral utilizada en las elecciones federales de 2006 quedó pendiente de realizarse, toda vez que ciudadanos interesados en acceder a las boletas electorales de aquella elección, interpusieron desde 2006, diversos recursos legales ante instancias nacionales e incluso internacionales. Tal es el caso del recurso interpuesto ante la Comisión Interamericana de Derechos Humanos, autoridad que notificó al Gobierno de México el día 3 de julio de 2008, una petición para suspender la destrucción de las boletas electorales del 2 de julio de 2006.
 
-Por tal motivo, desde octubre de 2008, el IFE determinó conservar y resguardar los paquetes electorales de 2006 en 32 bodegas locales, resguardo que se lleva a cabo hasta la fecha.
+Por tal motivo, en octubre de 2008, el IFE determinó conservar y resguardar los paquetes electorales de 2006 en 32 bodegas estatales.
 
 El 2 de noviembre de 2011 la Comisión Interamericana de Derechos Humanos decidió declarar inadmisible la petición P492/08 y levantar las medidas cautelares 102-08, toda vez que su vigencia se justificaba en la necesidad de conservar el material protegido hasta en tanto la CIDH emitiere una decisión respecto de la denuncia presentada.
 
-Tomando en consideración que el Instituto Federal Electoral debe cumplir con las disposiciones aplicables en materia de austeridad y disciplina del gasto, se considera que no se justifican las erogaciones por concepto de arrendamiento, mantenimiento y resguardo de las 32 bodegas estatales, las cuales implican un costo anual de $ 12'842,565.00
+Por lo anterior, el Consejo General, en su sesión extraordinaria del 3 de octubre de 2012, aprobó el ACUERDO POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA DESTRUCCIÓN DE LOS VOTOS VÁLIDOS, LOS VOTOS NULOS, LAS BOLETAS SOBRANTES Y LA LISTA NOMINAL DEL PROCESO ELECTORAL FEDERAL 2005-2006.
 
-Por lo anterior, las juntas locales ejecutivas realizarán una investigación sobre las alternativas existentes en su entidad, que permitan destruir la documentación electoral de 2006 bajo procedimientos ecológicos no contaminantes, relacionados con el reciclamiento del papel. Lo anterior, derivado de la necesidad de proteger y conservar el medio ambiente, situación que el Instituto Federal Electoral, institución socialmente responsable, asume como prioritaria.
+Sin embargo, en virtud de un nuevo recurso promovido por un ciudadano ante el Comité de Derechos Humanos de la Organización de Naciones Unidas, este organismo, mediante escrito enviado el 31 de octubre del mismo año, solicitó al Estado Mexicano suspender, por el momento, la destrucción de la documentación electoral de 2006.
+
+En atención a esa solicitud, el Consejo General del Instituto decidió suspender la destrucción y, con la intención de reducir los costos de almacenamiento y custodia, dispuso la concentración de los paquetes electorales de las bodegas estatales en una bodega nacional, misma que se llevó a cabo el mes de marzo de 2013.
+
+El 22 de agosto de 2013 se recibió el oficio DDH03462, suscrito por el Subsecretario para Asuntos Multilaterales y Derechos Humanos de la Secretaría de Relaciones Exteriores, al que adjunta el comunicado G/SO 215/51 MEX (1) 2202/2012, enviada por la Secretaría de las Naciones Unidas, Oficina del Alto Comisionado para los Derechos Humanos, en el que transmite el texto del dictamen final emitido por el Comité de Derechos Humanos, del 18 de julio de 2013 y en el que se señaló que: "actuando en virtud del artículo 5 párrafo 4, del Protocolo Facultativo del Pacto Internacional de Derechos Civiles y políticos, dictamina que de los hechos que tiene ante sí no se desprende que haya habido una vulneración de disposición alguna al Pacto".
+
+En virtud, que el Comité de Derechos Humanos de la Organización de Naciones Unidas ha determinado que el Estado Mexicano no vulneró los derechos humanos del C. Rafael Rodríguez Castañeda, el Instituto Federal Electoral, está en aptitud de continuar con los trabajos relativos a la destrucción de la documentación relativa a la Jornada Electoral del Proceso Electoral Federal del año 2006; la Dirección Ejecutiva de Organización Electoral realizará una investigación sobre las alternativas existentes, que permitan destruir la documentación electoral de 2006 bajo procedimientos ecológicos no contaminantes, relacionados con el reciclamiento del papel. Lo anterior, derivado de la necesidad de proteger y conservar el medio ambiente, toda vez que el Instituto Federal Electoral, es una Institución socialmente responsable.
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
 Participantes
 
-En el cumplimiento de esta actividad participarán los vocales de las juntas locales ejecutivas (JLE) bajo el siguiente esquema de responsabilidades:
+En el cumplimiento de esta actividad participarán los consejeros electorales del Consejo General o sus representantes, los representantes de los Partidos Políticos Nacionales, el Secretario del Consejo General del Instituto, el Director Ejecutivo de Organización Electoral, el Director Ejecutivo de Administración, la Directora Jurídica, el Contralor General o sus representantes, el Titular de la Unidad Técnica de Planeación, el Vocal Ejecutivo de la Junta Local Ejecutiva del Estado de México, el Director de Estadística y Documentación Electoral adscrito a la Dirección Ejecutiva de Organización Electoral (DEOE), el Director de Recursos Materiales y el Director de Recursos Financieros Servicios (sic) ambos adscritos a la Dirección Ejecutiva de Administración (DEA), así como el Subdirector de Documentación y Materiales Electorales, el Jefe de Departamento de Almacenamiento y Distribución, y el Auxiliar de Almacenamiento y Distribución, adscritos a la DEOE, bajo el siguiente esquema de responsabilidades:
 
-- El vocal ejecutivo local (VEL) será responsable de coordinar la actividad, supervisar el desempeño de los vocales secretario y de organización electoral locales, así como verificar que se cuente con los insumos necesarios para la actividad. Será responsable también de que se lleve a cabo la destrucción de la documentación electoral.
+- El Consejo General, a través de su Secretario, recibirá los paquetes electorales de las elecciones federales de 2006 y las instalaciones donde se resguardan. Además garantizará su resguardo y custodia, y realizará la destrucción.
 
-- El vocal secretario local (VSL) apoyará el trabajo del VEL, y será el responsable de la elaboración de actas circunstanciadas por parte de la JLE, así como su remisión electrónica a la DEOE.
+- Los consejeros electorales del Consejo General o sus representantes, y los representantes de los Partidos Políticos Nacionales, para supervisar y dar seguimiento a la preparación, traslado y destrucción de la documentación electoral de 2006.
 
-- El vocal de organización electoral local (VOEL) será el responsable de llevar el control operativo de la actividad, establecer comunicación con la empresa o empresas que se encargarán de la destrucción de la documentación electoral y reportar los avances y el cumplimiento de la misma a la DEOE mediante los instrumentos que para tal efecto remita la DEDE. Asimismo, deberá apoyar al VEL en labores de seguimiento desde el inicio hasta la conclusión de la actividad.
+- El Secretario del Consejo General, a través de la Dirección Jurídica y en coordinación con la Dirección Ejecutiva de Organización Electoral solicitará a la Asociación Nacional del Notariado Mexicano, A.C., Colegio Nacional, para que designe de entre sus miembros, a los Notarios Públicos que darán fe del acto de inicio de los trabajos encaminados a la destrucción del material electoral multicitado, así como de la conclusión de la actividad, levantando las escrituras públicas correspondientes. Asimismo, a efecto de dejar constancia de los actos realizados durante el procedimiento de destrucción, el Secretario del Consejo podrá comisionar a los Vocales Ejecutivos Distritales que estime pertinentes, para que estos, dentro del ámbito de sus atribuciones, levanten las actas circunstanciadas correspondientes.
 
-- Los ciudadanos que fungieron como consejeros electorales locales en el Proceso Electoral Federal 2011-2012 y los representantes de los partidos políticos correspondientes, podrán supervisar y dar seguimiento a la preparación, traslado y destrucción.
+- El Director Ejecutivo de Organización Electoral coordinará, con el apoyo del Director de Estadística y Documentación Electoral, la destrucción de los paquetes electorales de las elecciones federales del 2006, garantizando que se lleve a cabo bajo el procedimiento ecológico de reciclamiento y observando las medidas de seguridad correspondientes. Mantendrá informados a los integrantes de la Comisión de Organización Electoral y al Secretario del Consejo, sobre el desarrollo de los trabajos realizados.
 
-- El personal disponible en las JLE, apoyará en las tareas necesarias para el cumplimiento de la actividad.
+- El Director Ejecutivo de Administración garantizará que los recursos necesarios sean proveídos a la Dirección Ejecutiva de Organización Electoral y a la Dirección Jurídica, en tiempo y forma, para que puedan dar cabal cumplimiento a lo establecido en el Acuerdo y estos lineamientos.
+
+- La Directora Jurídica coadyuvará al Secretario del Consejo General, en coordinación con la Dirección Ejecutiva de Organización Electoral, a efecto de solicitar a la Asociación Nacional del Notariado Mexicano, A.C., Colegio Nacional, para que designe de entre sus miembros, a los Notarios Públicos que darán fe del acto de inicio de los trabajos encaminados a la destrucción del material electoral multicitado, así como de la conclusión de la actividad, levantando las escrituras públicas correspondientes.
+
+- El Vocal Ejecutivo de la Junta Local Ejecutiva del Estado de México, hará entrega de los paquetes electorales de las elecciones federales de 2006 y las instalaciones donde se resguardan, al Consejo General.
+
+- El Director de Estadística y Documentación Electoral, supervisará el desempeño del Subdirector de Documentación y Materiales Electorales. Además verificará que se cuente con los insumos necesarios para la actividad, coadyuvará para garantizar el resguardo y custodia de los paquetes electorales hasta su destrucción.
+
+- El Director de Recursos Materiales y Servicios de la Dirección Ejecutiva de Administración (DEA), que hará las gestiones necesarias para proporcionar con oportunidad los recursos materiales necesarios que solicite la DEOE, para el desarrollo de la actividad.
+
+- El Director de Recursos Financieros de la DEA, que hará las gestiones necesarias para radicar los recursos necesarios en tiempo y forma a la DEOE, conforme esta última se lo solicite.
+
+- El Titular de la Unidad Técnica de Planeación colaborará para dar cumplimiento a lo establecido en el Acuerdo y en los presentes Lineamientos.
+
+- El Subdirector de Documentación y Materiales Electorales apoyará el trabajo del Director, y supervisará el desempeño del Jefe de Departamento de Almacenamiento y Distribución y de su Auxiliar.
+
+- El Jefe de Departamento de Almacenamiento y Distribución será el responsable de llevar el control operativo de la actividad; establecer comunicación con la empresa o empresas que se encargarán de la destrucción de la documentación electoral, para definir la logística que se implementará; y reportará los avances y el cumplimiento de la actividad al Subdirector. Además deberá de realizar el informe de la actividad, el cual será revisado y autorizado por sus superiores jerárquicos.
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
 Cronograma de actividades
 
-El cronograma a seguir en las JLE para la destrucción de la documentación electoral de 2006 contempla máximo 60 días naturales, que comprenden diversas actividades de coordinación y preparación de la destrucción propiamente dicha, así como posteriormente la rendición de informes y el envío y colocación en la página pública institucional de las actas correspondientes. En cada entidad se estima que la preparación de los documentos y la destrucción tendrán una duración de 2 a 7 días, sin embargo se ha determinado un periodo a nivel nacional de 14 días para realizar dichos operativos, bajo la consideración de que algunas entidades destruirán en días sucesivos en una misma empresa.
+El cronograma a seguir para la destrucción de la documentación electoral de 2006 contempla máximo 41 días naturales, que comprenden diversas actividades de coordinación, preparación de los paquetes electorales, traslado y la destrucción propiamente dicha, así como posteriormente la rendición del informe final de la actividad.
 
-Los 60 días naturales que durará la actividad, serán contados a partir de que sea aprobado el acuerdo respectivo, por parte del Consejo General del Instituto Federal Electoral.
+Los 41 días naturales que durará la actividad, serán contados a partir del día en que sea aprobado el Acuerdo emitido por parte del Consejo General del Instituto Federal Electoral.
 
 En la tabla 1 se detalla cada una de las actividades.
 
+> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
 TABLA 1
 
-CRONOGRAMA DE ACTIVIDADES PARA LLEVAR A CABO LA DESTRUCCION DE LA DOCUMENTACION ELECTORAL DE 2006 POR LAS JUNTAS LOCALES EJECUTIVAS
+CRONOGRAMA DE ACTIVIDADES PARA LLEVAR A CABO LA DESTRUCCIÓN DE LA DOCUMENTACIÓN ELECTORAL DE 2006 QUE SE ENCUENTRA EN LA BODEGA NACIONAL DE LA DEOE
 
 > <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINA 78.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, D.O.F. DE 18 DE SEPTIEMBRE DE 2013, PÁGINAS DE LA 53 A LA 54.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
 Desarrollo de las actividades
 
 A continuación se desarrolla la logística establecida en los puntos del cronograma:
 
-1. Del 4 al 19 de octubre, las JLE realizarán las actividades señaladas en el punto 1 del Cronograma.
+1. Del 4 al 5 de septiembre de 2013, se realizarán las actividades señaladas en el punto 1 del Cronograma:
 
-Dependiendo de la estrategia que se adopte en cada entidad federativa, la apertura, traslado y destrucción podrán realizarse en un mismo día o en días diferentes. Para lo anterior, deberán establecer comunicación formal con las empresas elegidas y acordar el calendario de destrucción.
+a) Se realizará la selección y reclutamiento del personal operativo que se requerirá para llevar a cabo la actividad.
 
-Los VOEL integrarán su calendario en el formato Calendario de las actividades relativas a la preparación, traslado y destrucción de la documentación electoral de 2006 y lo enviarán a la DEDE al correo electrónico dede4ac@ife.org.mx, a más tardar el 19 de octubre, renombrando el archivo según el siguiente ejemplo:
+b) Se invitará a los consejeros electorales del Consejo General del Instituto, a los representantes de los órganos directivos de los Partidos Políticos Nacionales, a presenciar la apertura de la Bodega Nacional y la preparación, traslado y destrucción de la documentación electoral de 2006.
 
-> <small>N. DE E. VÉASE IMAGEN EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINA 79.</small>
+c) En cumplimiento del artículo 98 del Manual de Normas Administrativas en Materia de Recursos Materiales y Servicios Generales del Instituto Federal Electoral, se invitará a la Dirección Jurídica y a la Contraloría General del Instituto, para que envíen a los representantes que consideren necesarios para el acto de apertura de la Bodega Nacional, la preparación, traslado y destrucción del contenido de los paquetes electorales de 2006.
 
-Cualquier cambio al calendario deberá informarse inmediatamente a la DEOE a la IP 345571 con el C. P. Jorge Castillo Gameros, o a la IP 345417 con la Ing. Sinia Alvarez Ramos, y sustituir el calendario modificado.
+En esta invitación, se incluirá un calendario de fechas y lugar(es) donde se llevará a cabo la destrucción, con el propósito de que la Dirección Jurídica y la Contraloría General hagan las previsiones necesarias para enviar a los representantes que consideren convenientes para estos actos.
 
-2. Del 22 de octubre al 11 de noviembre se realizarán las actividades señaladas en el apartado 2 del cronograma.
+Cabe señalar que, aunque es importante contar con la presencia de estas figuras durante la apertura de la Bodega Nacional y el traslado y destrucción de la documentación electoral, en caso de que no asistan, las actividades se llevarán a cabo tal y como se calendarizaron.
 
-La Dirección Ejecutiva de Administración, radicará los recursos financieros a los órganos desconcentrados, para que de ser necesario, adquieran el material con el que se empacará la documentación, preferentemente cajas de cartón y, en su caso, contraten los vehículos de transporte necesarios.
+2. El 5 de septiembre de 2013, se llevarán a cabo las actividades que aparecen en el punto 2 del cronograma:
 
-3. Del 29 de octubre al 2 de noviembre los VEL, procederán a invitar mediante oficio a los ciudadanos que fungieron como consejeros electorales en el Proceso Electoral Federal 2011-2012, así como a los representantes de partidos políticos que integran las Comisiones Locales de Vigilancia, a presenciar la apertura de las bodegas y la preparación, traslado y destrucción de la documentación electoral de 2006.
+a) Contactar a la empresa que se encargará de destruir la documentación electoral y confirmar la logística que se implementará, se levantará una minuta con los detalles de las actividades previstas realizar (sic).
 
-Además, en cumplimiento de la cláusula trigésima octava, Capítulo III de las Normas Generales para el Registro, Control, Disposición Final y Baja de Bienes Muebles, los VEL procederán a invitar a la Contraloría General del Instituto, para que envíe un representante al acto de apertura de la bodega y destrucción de las boletas y se levante el acta circunstanciada para constancia.
+b) Confirmar con la empresa que realizará la destrucción, la cantidad de vehículos que se utilizarán y el calendario para el traslado y destrucción. La empresa recicladora de papel que se encargue de la destrucción, deberá precisar la cantidad, tipo y capacidad de los vehículos que realizarán el traslado de la documentación de 2006, de la Bodega Nacional al lugar de destrucción y se comprometerá a cumplir con el calendario, mediante escrito firmado por su representante legal.
 
-En esta invitación, el VEL deberá incluir un calendario de fechas y el (los) lugar(es) para la destrucción, con el propósito de que la Contraloría General haga las previsiones necesarias para enviar a los representantes que considere convenientes para estos actos.
+c) Visitar a la empresa que se encargará de destruir la documentación para confirmar el modo de destrucción y las medidas de seguridad para dicha actividad. En la visita se verificará la capacidad de destrucción que tiene la planta y las condiciones de seguridad en que se realizará.
 
-Cabe señalar que, aunque es importante contar con la presencia de estas figuras durante la apertura de las bodegas estatales y el traslado y destrucción de la documentación, en caso de que no asistan, las actividades se llevarán a cabo tal y como se calendarizaron, asentando este hecho en las actas correspondientes.
+d) LA DEOE solicitará a la DEA los insumos necesarios para realizar la destrucción de la documentación de 2006.
 
-4. Las actividades de preparación, traslado y destrucción se realizarán del 12 al 26 de noviembre, con base en el apartado 4 del cronograma.
+e) La DEA proporcionará los recursos e insumos necesarios a la DEOE y a la Dirección Jurídica, con la suficiente oportunidad, a fin de dar cumplimiento a estas actividades. Será necesario que este suministro de insumos se efectúe a más tardar el 5 de septiembre de 2013.
 
-La documentación electoral que se destruirá será la siguiente:
+3. Del 5 al 6 de septiembre de 2013, se programarán las actividades relacionadas en el punto 3 del cronograma:
+
+a) Capacitar al personal operativo que se encargará de realizar la preparación y carga de la documentación electoral de 2006. Se sensibilizará al personal sobre la importancia de la actividad, se les indicarán los procedimientos y las medidas de seguridad que deberán cumplir.
+
+b) Formar los equipos de trabajo e informarles sobre sus responsabilidades y cargas de trabajo.
+
+4. Del 9 de septiembre al 7 de octubre de 2013, se cumplirá con las actividades indicadas en el punto 4 del cronograma:
+
+a) Abrir la Bodega Nacional en presencia de los consejeros electorales del Consejo General del Instituto o sus representantes, de los representantes de los órganos directivos de los Partidos Políticos Nacionales, así como de los representantes de la Contraloría General y de la Dirección Jurídica del Instituto que hayan acudido al evento.
+
+El Vocal Ejecutivo de la Junta Local Ejecutiva del Estado de México, procederá a ordenar la apertura de la bodega, mostrando a los asistentes, que los sellos de la bodega están debidamente colocados y no han sido violados.
+
+En el interior, el Vocal Ejecutivo de la Junta Local Ejecutiva del Estado de México, procederá a hacer la entrega de la Bodega Nacional al Consejo General, a través de su Secretario.
+
+Los asistentes podrán entrar a la bodega para constatar el estado físico en el que se encuentran los paquetes electorales, esta información deberá ser consignada en el acta correspondiente levantada por el Notario Público que sea designado por la Asociación Nacional del Notariado Mexicano, A.C., Colegio Nacional, en coordinación con la Dirección Jurídica de este Instituto.
+
+b) Separar los documentos electorales que formen parte de la muestra para los estudios que efectuará el Instituto. El control de los paquetes separados y la extracción de los documentos necesarios para los estudios lo realizarán las áreas responsables de llevarlos a cabo. Asimismo, será su responsabilidad el traslado de dichos documentos al lugar donde se efectuarán los estudios y la integridad de los mismos.
+
+c) Extraer las boletas y el resto de la documentación que se encuentra en los paquetes electorales, depositarlas en los contenedores dispuestos para tal fin y llevar el control de estos paquetes, serán parte de los trabajos de supervisión que realizará la DEOE. Cabe mencionar, que cualquier otro elemento que contenga el paquete electoral que no sea de papel, se separará y se colocará en un área designada previamente.
+
+d) En el caso de encontrarse aplicadores de líquido indeleble, se separarán para someter su contenido al proceso de desactivación que evite la contaminación del medio ambiente.
+
+e) Preparar la documentación sobrante del PEF 2005-2006 que se encuentra en la Bodega Nacional. Se abrirán las cajas que contienen la documentación electoral sobrante y se colocará en los contenedores; si se encuentran elementos diferentes al papel, se separarán y se colocarán en otra área.
+
+f) Cargar los vehículos con la documentación a destruir. Se cargarán los vehículos que trasladarán la documentación incluyendo únicamente materiales de papel.
+
+g) Trasladar la documentación electoral hasta el lugar de su destrucción, bajo la responsabilidad del Director Ejecutivo de Organización Electoral. La DEOE establecerá las medidas de seguridad para el traslado de la documentación y, designará al personal que efectuará el acompañamiento de los vehículos, entregará la documentación electoral y presenciará su destrucción. De la misma manera, corresponderá a la DEOE designar al personal que entregará la documentación a la empresa recicladora de papel, verificar el peso del papel entregado; los Vocales Ejecutivos designados para ello deberán elaborar el acta circunstanciada en la que conste la destrucción total de la documentación de 2006.
+
+h) Cerrar la puerta de la bodega y colocar nuevos sellos sobre ella, al concluir la labor del día. Los sellos serán firmados por los asistentes al acto que en su momento se encuentren presentes y quieran hacerlo. En los casos de interrupción de las actividades, con motivo del horario de alimentos, se procederá de la misma manera.
+
+i) Elaborar el acta circunstanciada de la actividad, la cual será levantada de manera pormenorizada por conducto de los Vocales Ejecutivos designados para ello, en la que conste la destrucción de la documentación electoral del Proceso Electoral Federal del año 2006. Misma que se deberá remitir a la DEOE, al correo electrónico dede4ac@ife.org.mx, para integrar a su expediente.
+
+5. Mantener informadas a las autoridades del Instituto sobre el desarrollo de la destrucción de la documentación electoral de 2006. La Dirección Ejecutiva de Organización Electoral, a través de la Dirección de Estadística y Documentación Electoral, elaborará diariamente un reporte sobre el avance en los trabajos de preparación, traslado y destrucción de la documentación electoral de 2006, con el objeto de mantener informadas a las autoridades del Instituto.
+
+6. Entregar al propietario, el inmueble utilizado como Bodega Nacional el 4 de octubre de 2013. Por parte del Instituto participarán la DEA y la DEOE.
+
+7. Elaborar el informe de la actividad para ser presentado a las autoridades del Instituto. Al finalizar la actividad, la DEOE informará a los miembros de la Comisión de Organización Electoral y al Secretario del Consejo, sobre los trabajos realizados.
+
+Posteriormente, la Presidencia de la Comisión de Organización Electoral ofrecerá al Consejo General, un informe final sobre la destrucción de la documentación electoral de 2006.
+
+8. Difundir en la página de internet del Instituto el informe final sobre la destrucción de las boletas electorales del PEF 2005-2006 y demás documentación electoral. Una vez que se haya hecho del conocimiento del Consejo General.
+
+> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Actas circunstanciadas
+
+Los Vocales Ejecutivos designados para ello levantarán el acta circunstanciada de manera pormenorizada, en la que conste el procedimiento de apertura de la bodega, del estado físico en el que se encontraron los paquetes y de su preparación y traslado, además anotarán en ella el número de paquetes preparados para destruir; el acta deberá ser firmada por los consejeros electorales del Consejo General del Instituto o sus representantes, los representantes de los Partidos Políticos Nacionales (si así lo desean), y los representantes de la Contraloría General y de la Dirección Jurídica del Instituto que hayan acudido al evento. Los vocales designados para el acto de destrucción serán asesorados por personal adscrito a la Dirección Jurídica.
+
+Se precisa que, los Notarios Públicos designados, solo asistirán para dar fe del acto de inicio de los trabajos encaminados a la destrucción del material electoral multicitado, así como de la conclusión de la actividad, levantando las escrituras públicas correspondientes.
+
+El acta se digitalizará en baja resolución y se nombrará según el ejemplo siguiente:
+
+> <small>N. DE E. VÉASE IMAGEN EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 2013, PÁGINA 57.</small>
+
+En caso de que el traslado y destrucción de la documentación electoral preparada se realice al día siguiente, una vez concluida la preparación de los paquetes para su destrucción, deberá cerrarse la bodega siguiendo el protocolo establecido, concluyendo también en ese día el acta respectiva.
+
+El día de la destrucción, deberá preverse nuevamente la presencia de los representantes de la Contraloría General y de la Dirección Jurídica del Instituto. Los Vocales Ejecutivos designados para ello levantarán el acta circunstanciada de manera pormenorizada.
+
+El acta incluirá el día de la preparación de los paquetes a destruir, la cantidad de paquetes, la hora de salida de la documentación electoral de la bodega y la hora de llegada al lugar de destrucción. En la última acta que se levante, se consignará el hecho de que en la bodega no quedó ninguna boleta electoral de 2006.
+
+En el lugar de destrucción, los funcionarios del Instituto presentes testificarán la destrucción de la documentación, recabando la hora de inicio y conclusión para incluirlas en el acta respectiva.
+
+El responsable de la documentación electoral durante sus traslados será la DEOE.
+
+El acta se digitalizará en baja resolución y se nombrará según el ejemplo siguiente:
+
+> <small>N. DE E. VÉASE IMAGEN EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 2013, PÁGINA 57.</small>
+
+Los Vocales Ejecutivos designados para ello, remitirán copias de las acta a la DEOE, al correo electrónico dede4ac@ife.org.mx, para la integración del expediente correspondiente y para que sean colocadas en la página de Internet del Instituto, por lo que se debe verificar que sean legibles y estén completas.
+
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Documentación a destruir
+
+La documentación electoral -que se encuentra en la Bodega Nacional- que se destruirá será la siguiente:
 
 a. Los votos válidos y el sobre que los contiene, los votos nulos y el sobre que los contiene y las boletas sobrantes de cada casilla y el sobre que las contiene, que se encuentran en los paquetes electorales.
 
 b. Las boletas que sobraron y que fueron inutilizadas por los consejos distritales durante la actividad de conteo, sellado y enfajillado.
 
-c. Los sobres de expediente de casilla de cada elección (Presidente, Senadores y Diputados Federales), que contienen un ejemplar del acta de la jornada electoral, un ejemplar del acta de escrutinio y cómputo y los escritos de protesta que se hubieran recibido.
+c. Las listas nominales de electores.
 
-d. Las listas nominales de electores.
+d. La documentación electoral sobrante, no utilizada en la preparación de los paquetes electorales.
 
-e. La documentación electoral sobrante, no utilizada en la preparación de los paquetes electorales.
-
-f. La documentación que fue enviada a las juntas locales ejecutivas para posibles reposiciones.
-
-Se incluirá en la destrucción, siempre y cuando así lo determinen los Subcomités Técnicos Internos para la Administración de Documentos (SUBCOTECIAD) de conformidad con la normatividad aplicable, la documentación correspondiente al Proceso Electoral Federal 2006, que en seguida se enlista y que el Comité Técnico Interno para la Administración de Documentos (COTECIAD), deberá determinar que carece de valor documental:
+Además, se incluirá en la destrucción, la documentación que mediante Acuerdo del Comité Técnico Interno para la Administración de Documentos de fecha 23 de octubre de 2012, estableció que la documentación electoral del Proceso Electoral Federal 2005-2006 no cuenta con las condiciones que les confieran valores primarios o secundarios, por lo tanto carece de valor documental:
 
 - Sobres para boletas sobrantes de la elección de Presidente, Senadores y Diputados Federales.
 
@@ -319,7 +447,7 @@ Se incluirá en la destrucción, siempre y cuando así lo determinen los Subcomi
 
 - Sobres para lista nominal de electores.
 
-- Sobres para acta de escrutinio y computo por fuera del paquete electoral.
+- Sobres para acta de escrutinio y cómputo por fuera del paquete electoral.
 
 - Plantillas braille para la elección de Presidente, Senadores y Diputados Federales.
 
@@ -331,7 +459,7 @@ Se incluirá en la destrucción, siempre y cuando así lo determinen los Subcomi
 
 - Carteles de identificación de casillas y de casillas especiales.
 
-- Carteles de resultados preliminares de las elecciones en el distrito.
+Carteles de resultados preliminares de las elecciones en el distrito.
 
 - Carteles de resultados de cómputo distrital.
 
@@ -355,122 +483,34 @@ Se incluirá en la destrucción, siempre y cuando así lo determinen los Subcomi
 
 - La Hoja de operaciones de la elección de Presidente, Senadores y Diputados Federales.
 
-- Actas de la jornada electoral.
+- Actas de la Jornada Electoral (copias o formatos vacíos).
 
-- Actas de escrutinio y cómputo de casilla de Presidente, y de Senadores y Diputados Federales de mayoría relativa y de representación proporcional.
+- Actas de escrutinio y cómputo de casilla de Presidente, y de Senadores y Diputados Federales de mayoría relativa y de representación proporcional (copias o formatos vacíos).
 
-- Documentación del PEF 2005-2006 que otras áreas del Instituto autoricen a destruir.
+- Actas de escrutinio y cómputo de casilla levantadas en el Consejo Distrital (copias o formatos vacíos).
 
-El VEL procederá a ordenar la apertura de la bodega, mostrando a quienes fungieron como consejeros electorales en las pasadas elecciones federales y a los representantes de partidos políticos, que los sellos de la bodega están debidamente colocados y no han sido violados.
+- Formatos de registro de electores con características o capacidades diferentes que acuden a votar.
 
-Los ciudadanos que fungieron como consejeros electorales y los representantes de los partidos políticos podrán entrar a la bodega para constatar el estado físico en el que se encuentran los paquetes electorales, esta información deberá ser consignada en el acta correspondiente.
+- Avisos de localización de casilla y de centros de recepción y traslado.
 
-El lugar para realizar esta actividad deberá ser dentro de las bodegas estatales. Solamente el personal de las JLE, plenamente identificado con su gafete de trabajador, participará en este ejercicio.
-
-En su caso, el VSL comisionará a una persona de la junta para levantar imagen grabada y/o fotográfica.
-
-El VOEL verificará cada caja paquete electoral de cada distrito electoral, de conformidad con el número de sección (consecutivo) y tipo de casilla (para lo cual deberá contar con los listados de casillas aprobadas por los consejos distritales en el Proceso Electoral Federal 2005-2006), a efecto de pasar los sobres y la documentación electoral que se destruirán a las cajas de cartón.
-
-Las cajas que se vayan llenando y cerrando volverán a ser colocadas dentro de la bodega estatal, los VOEL llevarán el control de esta operación.
-
-El VOEL deberá verificar que se agote la lista de casillas aprobadas de cada uno de los distritos que corresponden a su entidad.
-
-En el caso de la documentación electoral que no se encuentra dentro de los paquetes electorales, también deberá empacarse en cajas de cartón.
-
-Una vez concluida la labor del día, se cerrará la puerta y se colocarán nuevos sellos sobre ella, que firmarán los vocales de la junta, los consejeros electorales y los representantes de los partidos políticos que se encuentren presentes. En los casos de interrupción de las actividades, con motivo del horario de alimentos, se procederá de la misma manera.
-
-Además, los VEL deberán garantizar en todo momento la seguridad de la documentación electoral.
-
-El VSL levantará el acta circunstanciada de manera pormenorizada, que dé fe del procedimiento de apertura de la bodega, del estado físico en el que se encontraron los paquetes y de su preparación; anotará en ella el número resultante de cajas, y el acta deberá ser firmada por los vocales, consejeros electorales y representantes de partido político presentes.
-
-En caso de que el traslado y destrucción de la documentación electoral se realice en un día diferente, una vez concluido el empaque de la documentación en cajas, deberá cerrarse la bodega siguiendo el protocolo establecido, concluyendo también en ese día el acta respectiva.
-
-Deberá preverse nuevamente la presencia de exconsejeros y representantes de partidos políticos para la siguiente apertura de bodega, para el traslado y destrucción de la documentación. El VSL elaborará una nueva acta.
-
-En estos casos, el acta que se elaboró solamente con el evento de apertura de bodega y preparación de la documentación electoral deberá digitalizarla el VSL con baja resolución, nombrándola según el ejemplo siguiente:
-
-> <small>N. DE E. VÉASE IMAGEN EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINA 81.</small>
-
-El VSL deberá remitir el acta a la DEDE, al correo electrónico dede4ac@ife.org.mx.
-
-Por otra parte, los VOEL llevarán el seguimiento de esta actividad en el formato Reporte de avance en la preparación de la documentación electoral de 2006 y lo enviarán a la DEDE, al correo electrónico dede4ac@ife.org.mx, renombrando el archivo según el siguiente ejemplo:
-
-> <small>N. DE E. VÉASE IMAGEN EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINA 81.</small>
-
-Cabe señalar, que la información que se envíe en este formato deberá ser acumulativa, integrando conforme suceda, los datos de la preparación de la documentación.
-
-Como ya se mencionó, el traslado y destrucción de la documentación electoral de 2006 podrá realizarse el mismo día de su preparación o en día posterior, en cuyo caso se seguirá nuevamente el protocolo de apertura de la bodega con los asistentes al evento.
-
-Se procederá a cargar el vehículo con las cajas que contienen la documentación electoral a destruir, siendo el VOEL quien lleve el control estricto conforme se van sacando de la bodega y subiendo al vehículo. Una vez que se haya cargado la última caja, se cerrarán las puertas del vehículo y se colocarán sellos de papel donde firmarán el VEL, los exconsejeros y representantes de partidos políticos presentes.
-
-Los funcionarios que fungieron como consejeros electorales y los representantes de los partidos políticos podrán entrar a la bodega para constatar que no haya quedado ningún paquete electoral en su interior, esta información deberá ser consignada en el acta correspondiente.
-
-Posteriormente, el traslado deberá iniciarse de manera inmediata.
-
-El VSL anotará en el acta la hora de salida de la documentación electoral hacia su destrucción, así como el hecho de que en la bodega no quedó ninguna boleta electoral.
-
-Los responsables de la documentación electoral durante su traslado serán los VEL, quienes se harán acompañar de los VSL.
-
-En el lugar de destrucción, los funcionarios del Instituto presentes testificarán la destrucción de la documentación, recabando la hora de inicio y conclusión para anotarlo en el acta respectiva.
-
-El VSL digitalizará en baja resolución el acta respectiva, nombrando el archivo según el siguiente ejemplo:
-
-> <small>N. DE E. VÉASE IMAGEN EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINA 82.</small>
-
-Nota: Las actas serán colocadas en la página de Internet del Instituto, por lo que se debe verificar que sean legibles y estén completas.
-
-El VSL remitirá el acta a la DEDE, al correo electrónico dede4ac@ife.org.mx.
-
-Por otro lado, el VOEL dará seguimiento a la destrucción de la documentación de 2006, en el formato Reporte de avance en la destrucción de la documentación electoral de 2006 y lo enviará a la DEDE a más tardar a las 10:00 horas del día siguiente en que concluya la destrucción en su entidad, al correo electrónico dede4ac@ife.org.mx, renombrando el archivo según el siguiente ejemplo:
-
-> <small>N. DE E. VÉASE IMAGEN EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINA 82.</small>
-
-5. Los VEL elaborarán un informe pormenorizado de las actividades llevadas a cabo, que incluya:
-
-- Fechas y horarios de las diferentes actividades de preparación, traslado y destrucción de la documentación electoral de 2006.
-
-- Descripción de las actividades llevadas a cabo.
-
-- Nombre y cargo de funcionarios, exconsejeros y representantes de partidos políticos asistentes a las diferentes actividades.
-
-- Razón social y dirección de la empresa encargada de la destrucción y procedimiento utilizado.
-
-- Recursos económicos recibidos y aplicados, así como los ahorros generados, en su caso.
-
-- Recursos obtenidos por el reciclamiento del papel, en su caso.
-
-Los informes deberán ser firmados, digitalizados y enviados por correo electrónico a la DEDE a la cuenta dede4ac@ife.org.mx, a más tardar el 3 de diciembre. Como medida de austeridad, por ningún motivo se enviarán impresos, sólo se recibirán de manera electrónica por los canales indicados.
-
-6. La DEDE elaborará diariamente un reporte sobre el avance en los trabajos de preparación, traslado y destrucción de la documentación electoral de 2006, con el objeto de mantener informadas a las autoridades del Instituto. Por lo anterior, es muy importante el seguimiento que de estas actividades realicen las JLE, así como el envío oportuno de los reportes de avance respectivos.
-
-Al finalizar la actividad, la DEOE informará a los miembros de la Comisión de Organización Electoral y al Secretario Ejecutivo del Instituto, sobre los trabajos realizados.
-
-Posteriormente, el Presidente de la Comisión de Organización Electoral ofrecerá al Consejo General un informe final sobre la destrucción de la documentación electoral de 2006.
-
-7. Con la finalidad de transparentar los actos realizados durante la preparación, traslado y destrucción de los sobres y demás documentación electoral de 2006, será colocado el informe final en la página de internet del Instituto, para ello, es indispensable contar con las actas circunstanciadas levantadas en las JLE, las cuales serán parte integrante del informe. Por lo anterior, será muy importante que éstas cuenten con las firmas de los asistentes a los diferentes actos.
-
-En este sentido, será necesario recabar las firmas de los exconsejeros y representantes de partidos políticos, durante la apertura de las bodegas electorales, así como de quienes testifiquen la destrucción.
-
-Casos especiales
-
-En el caso particular de las JLE que en su entidad no existan empresas dedicadas a la destrucción y reciclamiento de papel, será necesario que trasladen la documentación electoral a otra entidad cercana, donde sí existan estas empresas.
-
-En caso de que una empresa haya sido designada por dos o más JLE para llevar a cabo la destrucción, éstas se coordinarán para efectuar de manera escalonada la destrucción de la documentación electoral de 2006. El VSL levantará las actas circunstanciadas necesarias.
+> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 2013)</small>
 
 Recursos obtenidos por reciclamiento del papel
 
-Para los casos en que las JLE hayan logrado obtener un beneficio económico para el Instituto por el reciclamiento del papel, la Dirección Ejecutiva de Administración (DEA) ha dispuesto las siguientes medidas:
+Para el caso en que se haya logrado obtener un beneficio económico para el Instituto por el reciclamiento del papel, la Dirección Ejecutiva de Administración (DEA) ha dispuesto las siguientes medidas:
 
-1. Se requiere levantar el Acta correspondiente a la adjudicación directa por la entrega del papel de reciclaje, especificando la cantidad en kilogramos y el importe con número y letra;
+1. Se requiere levantar el Acta correspondiente a la adjudicación directa por la entrega del papel de reciclaje, especificando la cantidad en kilogramos y el importe con número y letra; documento que será elaborado por la Dirección Ejecutiva de Administración.
 
-2. La entrega de papel para reciclaje no causa el Impuesto al Valor Agregado (IVA);
+2. La entrega de papel para reciclaje no causa el Impuesto al Valor Agregado (IVA).
 
-3. La empresa que reciba el papel para reciclaje deberá entregar un cheque certificado o de caja a favor del Instituto Federal Electoral, el cual será depositado en la cuenta bancaria de la JLE;
+3. La empresa que reciba el papel para reciclaje deberá entregar un cheque certificado o de caja a favor del Instituto Federal Electoral, el cual será depositado en la cuenta bancaria del Instituto o, en su caso, entregará el comprobante de transferencia electrónica.
 
-4. La JLE expedirá un recibo con papel membreteado indicando: R.F.C. del IFE, el domicilio de la JLE, nombre o denominación de la persona física o moral que recibe el material, la fecha, concepto y cantidad en kg y el importe de la retribución; con número y letra, con firmas del VEL y/o VSL y/o coordinador administrativo o enlace administrativo, según el caso; y,
+4. La DEOE expedirá un recibo con papel membretado indicando: R.F.C. del IFE, domicilio fiscal, nombre o denominación de la persona física o moral que recibe el material, la fecha, el importe de la retribución (con número y letra), el concepto y nombre y firma del Director Ejecutivo de Organización Electoral.
 
-5. La JLE solicitará con oficio a la Subdirección de Operación Financiera de la DEA, el retiro de dichos recursos vía banca electrónica, anexando copia del acta de adjudicación directa y del recibo entregado al adquirente.
+5. La DEOE solicitará con oficio a la Subdirección de Operación Financiera de la DEA, el retiro de dichos recursos vía banca electrónica, anexando copia del acta de adjudicación directa y del recibo entregado al adquirente.
 
-En caso de tener alguna duda sobre este procedimiento, podrán comunicarse a la DEA, con la Lic. Iyanira López Sainz, Subdirectora de Operación Financiera al IP 372707 o al teléfono (55) 57282706.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. VÉASE TABLAS EN LA TERCERA SECCIÓN DEL D.O.F. DE 24 DE OCTUBRE DE 2012, PÁGINAS DE LA 84 A LA 85.</small>
+D.O.F. 18 DE SEPTIEMBRE DE 2013.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL.
