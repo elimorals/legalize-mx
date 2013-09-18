@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-conciliacion-y-arbitraje-medico-para-el-estado-de-78632"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2011-05-26"
+last_updated: "2013-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 23 de diciembre de 2010.
 
@@ -59,57 +59,61 @@ II. Establecer las bases generales para la organización y funcionamiento de la 
 
 En todo lo no previsto en esta ley se aplicarán, en lo conducente y de manera supletoria, las disposiciones del Código Civil y del Código de Procedimientos Civiles para el Estado.
 
-###### ARTICULO 2.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para los efectos de esta ley, se entiende por:
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-I. Cláusula compromisoria: la establecida en cualquier contrato de prestación de servicios médicos profesionales o de hospitalización, a través de la cual las partes que lo suscriban designen, de manera voluntaria, a la Comisión para resolver las controversias o diferencias que pudieren surgir con motivo de esos contratos, mediante la conciliación o, en su caso, el arbitraje.
+###### ARTÍCULO 2.
 
-II. Conciliación: el procedimiento que habrá de seguirse para el arreglo de las controversias que se susciten entre los usuarios y un prestador de servicios médicos, oyendo las propuestas y recomendaciones que formule la Comisión.
+Para los efectos de la presente ley se entenderá por:
 
-III. Convenio de arreglo: el convenio otorgado ante la Comisión por virtud del cual, una vez resuelta la conciliación, las partes se hacen recíprocas concesiones y dan por terminada la diferencia o controversia de que se trate.
+I. Cláusula compromisoria: La establecida en cualquier contrato de prestación de servicios médicos profesionales o de hospitalización, a través de la cual las partes que lo suscriban designen, de manera voluntaria, a la Comisión para resolver las controversias o diferencias que pudieren surgir con motivo de esos contratos, mediante la conciliación o, en su caso, el arbitraje;
 
-IV. Comisión: la Comisión Estatal de Conciliación y Arbitraje Médico.
+II. Comisión: La Comisión Estatal de Conciliación y Arbitraje Médico;
 
-V. Compromiso o cláusula arbitral: la otorgada por las partes en cualesquiera contrato de prestación de servicios médicos profesionales o de hospitalización en que, con plena capacidad jurídica y en ejercicio de sus derechos, designen, para el caso de controversias, a la Comisión para tramitar su resolución conforme al procedimiento arbitral a que se refiere esta ley.
+III. Comisionado: El Comisionado Presidente de la Comisión Estatal de Conciliación y Arbitraje Médico;
 
-VI. Dictamen: el informe pericial emitido por la Comisión en el que precise sus conclusiones respecto de alguna diferencia o controversia que haya sido sometida a su análisis conforme a esta ley.
+IV. Compromiso o cláusula arbitral: La otorgada por las partes en cualquier contrato de prestación de servicios médicos profesionales o de hospitalización en que, con plena capacidad jurídica y en ejercicio de sus derechos, designen, para el caso de controversias, a la Comisión para tramitar su resolución conforme al procedimiento arbitral a que se refiere esta ley;
 
-VII. Dolo: el elemento subjetivo de la voluntad consistente en conocer y decidir realizar un hecho u acto a sabiendas de sus consecuencias negativas en la salud. El dolo comprenderá, además, toda intención, maquinación o artificio realizado para engañar o dañar la salud del usuario de los servicios médicos.
+V. Conciliación: El procedimiento que habrá de seguirse para el arreglo de las controversias que se susciten entre los usuarios y un prestador de servicios médicos, oyendo las propuestas y recomendaciones que formule la Comisión;
 
-VIII. Gabinetes médicos: los establecimientos, públicos o privados, en los que se realizan investigaciones, estudios, análisis, pruebas y demás trabajos clínico-técnicos, químicos, biológicos, bacteriológicos, entre otros, en diversas disciplinas o áreas de la ciencia médica, así como aquellos establecimientos en los que se ofrecen múltiples servicios todos vinculados a la ciencia médica en apoyo del diagnóstico de los prestadores de servicios médicos.
+VI. Consejo: El Consejo Directivo de la Comisión;
 
-IX. Irregularidad en la prestación de los servicios médicos: todo acto u omisión en la prestación de los servicios médicos que contravenga las disposiciones a que se encuentre sujeta, así como los lineamientos éticos y profesionales que orienten la práctica médica.
+VII. Convenio de arreglo: El convenio otorgado ante la Comisión por virtud del cual, una vez resuelta la conciliación, las partes se hacen recíprocas concesiones y dan por terminada la diferencia o controversia;
 
-El reglamento de esta ley precisará las directrices que habrá de considerar la Comisión para valorar la contravención a los lineamientos éticos y profesionales.
+VIII. Dictamen: El informe pericial emitido por la Comisión en el que precise sus conclusiones respecto de alguna diferencia o controversia que haya sido sometida a su análisis conforme a esta ley;
 
-X. Laboratorios médicos: los establecimientos, públicos o privados, en que se realizan investigaciones, análisis, pruebas y estudios clínicos, biológicos, químicos, bacteriológicos, entre otros, en apoyo al diagnóstico que formulan los prestadores de servicios médicos.
+IX. Gabinetes médicos: Los establecimientos, públicos o privados, en los que se realizan investigaciones, estudios, análisis, pruebas y demás trabajos clínico-técnicos, químicos, biológicos, bacteriológicos, entre otros, en diversas disciplinas o áreas de la ciencia médica, así como aquellos establecimientos en los que se ofrecen múltiples servicios todos vinculados a la ciencia médica en apoyo del diagnóstico de los prestadores de servicios médicos;
 
-XI. Laudo: el acto administrativo por medio del cual la Comisión resuelve las diferencias o controversias que sean sometidas a su conocimiento a través del compromiso o cláusula arbitral.
+X. Impericia: La falta de conocimientos en la práctica médica y que debiesen observarse en el caso concreto;
 
-XII. Ley: la presente Ley de Conciliación y Arbitraje Médico para el Estado de Tamaulipas.
+XI. Irregularidad en la prestación de los servicios médicos: Todo acto u omisión en la prestación de los servicios médicos que contravenga las disposiciones a que se encuentre sujeta, así como los lineamientos éticos y profesionales que orienten la práctica médica. El reglamento de esta ley precisará las directrices que habrá de considerar la Comisión para valorar la contravención a los lineamientos éticos y profesionales;
 
-XIII. Lineamentos Eticos de la práctica médica: el conjunto de reglas bioéticas y deontológicas a que se sujeta la prestación de los servicios médicos.
+XII. Laboratorios médicos: Los establecimientos, públicos o privados, en que se realizan investigaciones, análisis, pruebas y estudios clínicos, biológicos, químicos, bacteriológicos, entre otros, en apoyo al diagnóstico que formulan los prestadores de servicios médicos;
 
-El reglamento de esta ley precisará las reglas a que se refiere el párrafo que antecede, así como las bases normativas a que se sujetará la valoración de los lineamientos éticos.
+XIII. Laudo: El acto administrativo por medio del cual la Comisión resuelve las diferencias o controversias que sean sometidas a su conocimiento a través del compromiso o cláusula arbitral;
 
-XIV. Lineamientos Profesionales de la práctica médica: el conjunto de reglas y criterios, de naturaleza ordinaria, que orientan el ejercicio de la medicina conforme a la práctica y métodos científicos aceptados y reconocidos.
+XIV. Ley: La presente Ley de Conciliación y Arbitraje Médico para el Estado de Tamaulipas;
 
-El reglamento de la presente ley precisará las reglas y los criterios a que se refiere el párrafo que antecede, así como las bases normativas a que se sujetará la valoración de los lineamientos profesionales.
+XV. Lineamientos Éticos de la Práctica Médica: El conjunto de reglas bioéticas y deontológicas a que se sujeta la prestación de los servicios médicos. El reglamento de esta ley precisará las reglas a que se refiere la presente fracción, así como las bases normativas a que se sujetará la valoración de los lineamientos éticos;
 
-XV. Negativa en la prestación de los servicios médicos: todo acto u omisión, contrario a las disposiciones que regulan la prestación de los servicios médicos, y a través del cual se rehúse prestar aquellos de naturaleza obligatoria.
+XVI. Lineamientos Profesionales de la Práctica Médica: El conjunto de reglas y criterios, de naturaleza ordinaria, que orientan el ejercicio de la medicina conforme a la práctica y métodos científicos aceptados y reconocidos. El reglamento de la presente ley precisará las reglas y los criterios a que se refiere la presente fracción, así como las bases normativas a que se sujetará la valoración de los lineamientos profesionales;
 
-XVI. Opinión Técnica: la emitida por la Secretaría de Salud, previamente avalada por la Comisión, para el mejoramiento de la calidad en la prestación de servicios médicos que se proporcionan en la entidad.
+XVII. Negativa en la prestación de los servicios médicos: Todo acto u omisión, contrario a las disposiciones que regulan la prestación de los servicios médicos, y a través del cual se rehúse prestar aquellos de naturaleza obligatoria;
 
-XVII. Partes: las que con tal carácter, en virtud de la cláusula compromisoria o de la cláusula de compromiso arbitral, hubieren decidido de manera voluntaria someter sus diferencias o controversias, al conocimiento de la Comisión.
+XVIII. Negligencia: La falta de cuidado, atención o vigilancia en la práctica médica que debió observarse en el caso concreto;
 
-XVIII. Prestador de servicios médicos: las instituciones de salud, laboratorios y gabinetes médicos de carácter público, social y/o privado, así como los profesionales, técnicos y/o auxiliares de la práctica médica, que presten servicios médicos y ejerzan su actividad en esas instituciones, laboratorios o gabinetes o de manera independiente dentro del estado.
+XIX. Opinión Técnica: La emitida por la Secretaría de Salud, previamente avalada por la Comisión, para el mejoramiento de la calidad en la prestación de servicios médicos que se proporcionan en la entidad;
 
-XIX. Queja: la petición a través de la cual una persona o quien le represente, de manera voluntaria, solicita la intervención de la Comisión, en los términos previstos por esta ley.
+XX. Partes: Las que con tal carácter, en virtud de la cláusula compromisoria o de la cláusula de compromiso arbitral, hubieren decidido de manera voluntaria someter sus diferencias o controversias al conocimiento de la Comisión;
 
-XX. Secretaría: la Secretaría de Salud del Estado.
+XXI. Prestador de servicios médicos: Las instituciones de salud, laboratorios y gabinetes médicos de carácter público, social o privado, así como los profesionales, técnicos o auxiliares de la práctica médica, que presten servicios médicos y ejerzan su actividad en esas instituciones, laboratorios o gabinetes o de manera independiente dentro del Estado;
 
-XXI. Usuario de los servicios médicos: la persona que requiera, solicite u obtenga los servicios médicos que proporcionen los prestadores de servicios médicos, sean del sector público, social o privado, bajo las bases que para cada modalidad establezcan la Ley de Salud para el Estado y demás disposiciones aplicables.
+XXII. Queja: La petición a través de la cual una persona o quien le represente, de manera voluntaria, solicita la intervención de la Comisión, en los términos previstos por esta ley;
+
+XXIII. Secretaría: La Secretaría de Salud del Estado; y
+
+XXIV. Usuario de los servicios médicos: La persona que requiera, solicite u obtenga los servicios médicos que proporcionen los prestadores de servicios médicos, sean del sector público, social o privado, bajo las bases que para cada modalidad establezcan la Ley de Salud para el Estado y demás disposiciones aplicables.
 
 ## TITULO SEGUNDO. PROCEDIMIENTOS ALTERNATIVOS PARA LA SOLUCION DE CONFLICTOS
 
@@ -143,21 +147,47 @@ VI. Las partes interesadas deberán conducirse con honradez, transparencia, lega
 
 VII. Las citas, notificaciones, comunicaciones y las resoluciones de la Comisión se podrán dar a conocer a los interesados por oficio, por lista de acuerdos, por correspondencia o mensajería con acuse o razón de recibo, correo electrónico, fax, teléfono u otro medio eficaz, para dar a conocer fehacientemente el contenido de cualquier resolución.
 
-VIII. Radicada la queja, dentro de los dos días hábiles siguientes se dará vista de la misma al prestador de los servicios médicos para que, en un plazo de hasta tres días hábiles, presente una contestación en los términos que correspondan conforme a sus intereses.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+En el caso de que la cita, notificación, comunicación o resolución se efectúe por medios electrónicos, se deberá dejar registro de las mismas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Radicada la queja, dentro de los dos días hábiles siguientes se dará vista de la misma al prestador de los servicios médicos para que, en un plazo de hasta diez días hábiles, presente una contestación en los términos que correspondan conforme a sus intereses.
 
 IX. Respecto de las pruebas se aplicarán las reglas siguientes:
 
-a) Recibida la contestación, dentro de los dos días hábiles siguientes a esa recepción se dará vista a las partes hasta por un plazo común de cinco días hábiles, para que dentro de dicho plazo, ofrezcan sus pruebas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+a) Recibida la contestación, dentro de los cinco días hábiles siguientes a esa recepción se dará vista a las partes hasta por un plazo común de cinco días hábiles, para que dentro de dicho plazo, ofrezcan sus pruebas.
 
 b) Las partes podrán ofrecer y, serán admisibles, todas aquellas pruebas susceptibles de producir convicción, con excepción de los interrogatorios entre las partes con fines confesionales, así como aquellas que fueren contrarias al derecho y/o la moral.
 
 c) Las pruebas deberán ofrecerse expresando claramente el hecho o hechos que se trata de demostrar con las mismas, así como las razones por las que se ofrecen.
 
-d) La Comisión podrá determinar a título de pruebas para mejor proveer, el desahogo de los peritajes que estime necesarios y que deberán realizarse por médicos certificados que acrediten la especialidad de la materia a dictaminar. Cuando se trate del examen del paciente, la oposición injustificada del mismo hará tener por ciertas las manifestaciones de la parte contraria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-e) Sólo los hechos estarán sujetos a prueba. La valoración de las pruebas considerará la procedencia de las apreciaciones de las partes, bajo el sistema de libre apreciación, sana crítica y lógica, en los términos que prevea esta ley.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-f) El Comisionado llevará a cabo racionalmente, de acuerdo con los principios de la lógica y las máximas de la experiencia, el análisis y la valoración de cada una de las pruebas presentadas y de su conjunto.
+d) La Comisión podrá determinar a título de pruebas para mejor proveer, el desahogo de los peritajes que estime necesarios y que deberán realizarse por médicos especialistas en la materia, certificados por los Consejos de Especialidades Médicas que tengan la declaratoria de idoneidad y que estén reconocidos por el Comité Normativo Nacional de Consejos de Especialidades Médicas, en la respectiva especialidad. Cuando se trate del examen del paciente, la oposición injustificada del mismo hará tener por ciertas las manifestaciones de la parte contraria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+e) Sólo los hechos estarán sujetos a prueba. La valoración de las pruebas considerará la procedencia de las apreciaciones de las partes, bajo el sistema de libre apreciación, sana crítica, la ciencia y lógica, en los términos que prevea esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+f) El Comisionado llevará a cabo racionalmente, de acuerdo con los principios de la ciencia, la lógica y las máximas de la experiencia, el análisis y la valoración de cada una de las pruebas presentadas y de su conjunto.
 
 La valoración de las pruebas contradictorias se hará confrontándolas a efecto de que, por el enlace interior de las rendidas, las presunciones y los indicios formen convicción que el Comisionado deberá fundar cuidadosamente en la resolución que emita.
 
@@ -175,7 +205,11 @@ I. Los usuarios de los servicios médicos podrán interponer ante la Comisión q
 
 a) Contravenir las finalidades que persigue el derecho a la protección de la salud, así como proporcionar los servicios en contravención de lo señalado por la Ley de Salud para el Estado u otras disposiciones aplicables en la materia.
 
-b) Contravenir los términos en que se hubiere convenido la prestación de los servicios médicos y/o cuando se hubiere efectuado con dolo, negligencia y/o impericia médica con consecuencias sobre la salud del usuario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+b) Contravenir los términos en que se hubiere convenido la prestación de los servicios médicos, o cuando se hubiera efectuado con negligencia o impericia médica con consecuencias sobre la salud del usuario.
 
 c) Cualquier otro conflicto que se derive por la prestación del servicio médico entre los usuarios de los servicios médicos y los prestadores de los servicios médicos, con excepción del pago de honorarios profesionales.
 
@@ -217,6 +251,12 @@ Los prestadores de servicios médicos contra quienes se presente una queja, debe
 
 El Comisionado en toda cita le hará saber al prestador y/o al usuario de los servicios médicos de su obligación de presentarse por sí o por conducto de su representante legal debidamente acreditado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Si los prestadores de servicio social no se presentan al procedimiento de conciliación ante la Comisión, queda a salvo de los usuarios el derecho de acudir ante los tribunales competentes.
+
 ### CAPITULO II. LA CONCILIACION
 
 ###### ARTICULO 10.
@@ -233,13 +273,31 @@ II. Si se trata de una queja en contra de una persona que carece de título o c�
 
 III. Al radicar el asunto se citará, hasta por dos ocasiones, mediante comunicación, a las partes a una audiencia de conciliación, corriéndole traslado de la queja al prestador de servicios médicos, a fin de que, en el plazo que señala esta ley, presente su contestación y acuda a la audiencia para hacer valer sus derechos.
 
-La audiencia deberá celebrarse en las instalaciones de la Comisión dentro de los ocho días hábiles siguientes a la fecha de radicación de la propia queja.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+La audiencia deberá celebrarse dentro de los doce días hábiles siguientes a la fecha de radicación de la propia queja.
 
 IV. El prestador de servicios médicos deberá presentarse en el día y en la hora señalados para que tenga verificativo la audiencia.
 
-Si no pudiere asistir a la audiencia el prestador de los servicios médicos, podrá éste justificar su inasistencia por escrito a más tardar el mismo día en que aquélla haya de tener lugar, a efecto de la (sic) que la Comisión señale nueva fecha y hora para celebrar la audiencia correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Si a la audiencia no asistiere el usuario de los servicios médicos, se le tendrá por ratificando la queja y se diferirá aquélla para nueva fecha, misma que será notificada a las partes.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Si no pudieren asistir a la audiencia el usuario o el prestador de los servicios médicos, podrán éstos justificar su inasistencia por escrito a más tardar el mismo día en que aquélla haya de tener lugar, a efecto de la que la Comisión señale nueva fecha y hora para celebrar la audiencia correspondiente, misma que se notificará a las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Las citas referidas en el párrafo que antecede deberán señalarse considerando las previsiones correspondientes para que la audiencia se celebre en el término de doce días, señalado en la fracción que antecede.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Si el usuario no acude a la audiencia a la nueva cita, se considerará que desiste de su queja; si es el prestador de servicios quien no se presenta a la audiencia a la nueva cita, se considerará que se niega a acudir a la conciliación y quedan a salvo los derechos de los usuarios de acudir ante las instancias competentes.
 
 V. Las partes podrán asistir a la audiencia por sí o por conducto de su representante legal debidamente acreditado.
 
@@ -250,6 +308,12 @@ VII. Durante esta fase, el Comisionado podrá emitir cualquier opinión a las pa
 VIII. Si las partes conciliaran sus intereses se concluirá el asunto mediante la firma del convenio de arreglo que deberá ajustarse a derecho. En el convenio de arreglo que se levantará ante el Comisionado, se establecerán los acuerdos a que hayan llegado las partes, debiendo firmar las mismas y así dar por concluido el caso. El convenio de arreglo que así fuere acordado tendrá, para los efectos previstos en esta ley u otras disposiciones aplicables, el carácter de laudo.
 
 IX. De toda audiencia se levantará acta circunstanciada en la que se asentará el desarrollo de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Los usuarios y los prestadores de servicios que hayan acordado resolver sus diferencias por medio de la conciliación ante la Comisión, deberán permanecer en este procedimiento, hasta que concluya.
 
 ###### ARTICULO 12.
 
@@ -275,13 +339,23 @@ IV. El Comisionado, dentro de los cinco días hábiles siguientes a la fecha de 
 
 V. Si el Comisionado estima que ya no existen pruebas más por desahogar, al finalizar la audiencia citará a las partes para oír el laudo dentro de los diez días hábiles siguientes.
 
-VI. El Comisionado de oficio o a petición de parte podrá presentar el asunto ante el Consejo Directivo, para oír su opinión. El Presidente del Consejo Directivo podrá solicitar en cualquier tiempo al Comisionado, el informe de casos específicos para que el Consejo Directivo emita la opinión o recomendación correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+VI. El Comisionado de oficio o a petición de parte podrá presentar el asunto ante el Consejo Directivo, para oír su opinión. Cuando la mitad más uno de los miembros del Consejo Directivo lo soliciten por escrito, el Comisionado deberá presentar el informe de casos específicos para que el Consejo Directivo emita la opinión o recomendación correspondiente.
 
 VII. El Comisionado para resolver el asunto se basará en derecho y, en su caso, en la equidad, a fin de apoyar en derecho a quien tenga la razón jurídica.
 
 VIII. El laudo que el Comisionado emita tendrá el carácter de definitivo y deberá ser cumplido por las partes en los términos en que se pronuncie. En contra del laudo no procederá recurso alguno ante la propia Comisión.
 
 IX. En caso de incumplimiento del laudo, las partes tienen derecho a exigir por la vía jurisdiccional correspondiente el cumplimiento forzoso del laudo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Los usuarios y los prestadores de servicios que hayan acordado someter sus diferencias al arbitraje de la Comisión, deberán permanecer en este procedimiento, hasta que concluya.
 
 ###### ARTICULO 14.
 
@@ -331,9 +405,13 @@ Las aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al d
 
 Los laudos deberán ajustarse a derecho. Para determinar la responsabilidad de cada una de las partes en el conflicto, el Comisionado deberá observar integralmente la norma o normas aplicables, según la materia o materias que correspondan, en cada caso concreto.
 
-###### ARTICULO 18.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para fincar la responsabilidad por dolo, falta, impericia o negligencia médica, independientemente de la que, en su caso, corresponda administrativa, civil y/o penalmente, el Comisionado deberá considerar lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 18.
+
+Para fincar la responsabilidad por falta, impericia o negligencia médica, independientemente de la que, en su caso, corresponda administrativa, civil o penalmente, el Comisionado deberá considerar los siguientes:
 
 I. El deber de cuidado médico que dejó de observar el prestador de servicios médicos. El deber se fundará en la ley, reglamento, resolución administrativa o judicial, contrato o convenio respectivo, precedentes que determinaron el riesgo, principios profesionales y comunidad de vida o convivencia social.
 
@@ -341,11 +419,17 @@ II. El resultado dañino en la salud del usuario de los servicios médicos a con
 
 III. La posibilidad racional, objetiva y material de realizar la acción u omisión debida y, en su caso, de evitar el resultado dañino.
 
-Se considerará, para efectos de esta ley, a la impericia como la falta de conocimientos en la práctica médica y que debiesen observarse en el caso concreto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Se considerará, para efectos de esta ley, como negligencia la falta de cuidado, atención o vigilancia en la práctica médica que debió observarse en el caso concreto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-El dolo se entenderá en los términos previstos por el artículo 2, fracción VII de esta ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
 ## TITULO TERCERO. LA COMISION ESTATAL DE CONCILIACION Y ARBITRAJE MEDICO
 
@@ -814,3 +898,13 @@ P.O. 26 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado expedirá y mandará publicar en el Periódico Oficial del Estado el Reglamento de la Ley de Conciliación y Arbitraje Médico para el Estado de Tamaulipas, en un término no mayor de ciento veinte días posteriores a la fecha de entrada en vigor del presente Decreto.
