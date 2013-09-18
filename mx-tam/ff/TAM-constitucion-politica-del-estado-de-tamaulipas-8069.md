@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2013-03-05"
+last_updated: "2013-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -129,9 +129,9 @@ III. Alistarse en la Guardia Nacional.
 
 IV. Alistarse en los Cuerpos de Policía Rural del Estado para defender su territorio y su soberanía, y para sostener su Constitución, sus leyes y autoridad.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-V. Inscribirse en el padrón de su municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste; los profesionistas además se inscribirán en el padrón que al efecto llevará la Secretaría General de Gobierno.
+V. Inscribirse en el padrón de su Municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste; los profesionistas además se inscribirán en el padrón que al efecto llevará la dependencia que señalen las leyes de la materia.
 
 ###### Art. 9o.
 
@@ -225,9 +225,9 @@ Al efecto, la Ley establecerá las normas para alentar el desarrollo social, med
 
 En el ejercicio de la política estatal de desarrollo social serán principios rectores la libertad, solidaridad, justicia distributiva, inclusión, integralidad, participación social, sustentabilidad, respeto a la diversidad y transparencia.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -401,9 +401,13 @@ El Instituto Electoral de Tamaulipas se integrará conforme a las siguientes bas
 
 a) La renovación del Consejero Presidente y de Consejeros Electorales del Consejo General será escalonada, y en caso de ausencia definitiva de alguno de ellos, se designará un sustituto para concluir el período del ausente.
 
-b) Los Consejeros Electorales del Consejo General durarán en su encargo 3 años con posibilidad de una reelección inmediata. Lo mismo aplicará para el Consejero Presidente, quien podrá ser reelecto con esa calidad o como Consejero Electoral.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-c) El Consejero Presidente y los Consejeros Electorales del Consejo General, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante convocatoria abierta que para tal efecto se emita, observando los requisitos, procedimiento y reglas que señale la ley respectiva.
+b) Los Consejeros Electorales del Consejo General durarán en su encargo 3 años con posibilidad de una reelección inmediata.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+c) Los Consejeros Electorales del Consejo General, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante convocatoria abierta que para tal efecto se emita, observando los requisitos, procedimiento y reglas que señale la ley respectiva. Los Consejeros Electorales del Consejo General designarán, de entre ellos, al Consejero Presidente que los dirija y represente; éste ejercerá el cargo hasta por tres años y podrá ser reelecto para otro período.
 
 d) El Consejero Presidente y los Consejeros Electorales del Consejo General no podrán tener otra responsabilidad oficial o empleo, cargo o comisión remunerados, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados, previa autorización del propio Consejo General.
 
@@ -437,7 +441,9 @@ En materia electoral, la interposición de los medios de impugnación legales no
 
 IV. Del órgano jurisdiccional electoral.- La función jurisdiccional electoral estará a cargo del Tribunal Electoral del Poder Judicial del Estado, misma que gozará de autonomía en su funcionamiento e independencia en sus decisiones; será la máxima autoridad de la materia.
 
-El Tribunal Electoral del Poder Judicial del Estado se integrará con un Magistrado Presidente y cuatro Magistrados Electorales, mismos que serán designados por las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que para tal efecto envíe el Pleno del Supremo Tribunal de Justicia del Estado, previa convocatoria pública y evaluación objetiva que el órgano proponente haga entre los participantes. El Supremo Tribunal de Justicia del Estado enviará al Congreso del Estado una propuesta de dos candidatos por cada vacante del Tribunal Electoral del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+El Tribunal Electoral del Poder Judicial del Estado se integrará con cinco Magistrados Electorales, mismos que serán designados por las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que para tal efecto envíe el Pleno del Supremo Tribunal de Justicia del Estado, previa convocatoria pública y evaluación objetiva que el órgano proponente haga entre los participantes. El Supremo Tribunal de Justicia del Estado enviará al Congreso del Estado una propuesta de dos candidatos por cada vacante del Tribunal Electoral del Poder Judicial del Estado. Los Magistrados del Tribunal Electoral designarán, de entre ellos, al Magistrado Presidente que los dirija y represente; quien ejercerá el cargo hasta por seis años.
 
 La elección de los magistrados del Tribunal Electoral del Poder Judicial del Estado será escalonada, conforme a las reglas y al procedimiento que señale la ley, y en caso de ausencia definitiva de alguno de ellos, se designará un sustituto para concluir el período del ausente.
 
@@ -715,6 +721,12 @@ El Presidente del Congreso declarará a la Legislatura legítimamente constituid
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+En fecha de la segunda quincena de septiembre de cada año, que determine el Pleno o la Diputación Permanente, en su caso, celebrará sesión extraordinaria para el único objeto de recibir el informe del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 45.
@@ -941,9 +953,9 @@ XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corr
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; al Magistrado del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; al Magistrado del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -1583,9 +1595,11 @@ XXXI. Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere r
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXIII. Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre la misma en sesión pública, extraordinaria y solemne del Congreso que se verificará el último domingo del mes de noviembre de cada año;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la administración pública estatal en sesión pública, extraordinaria y solemne del Congreso que se verificará en la fecha de la segunda quincena de septiembre de cada año que determine el Congreso o la Diputación Permanente;
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
 
@@ -1677,9 +1691,11 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Durante el mes de noviembre de cada año, los titulares de las dependencias de la administración pública estatal darán cuenta al Congreso, por escrito, del estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+Durante la segunda quincena de septiembre de cada año, mediante informe escrito, los titulares de las dependencias de la administración pública estatal darán cuenta al Congreso del estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -1981,9 +1997,13 @@ A. Del Pleno del Supremo Tribunal de Justicia:
 
 I.- Resolver las controversias constitucionales y las acciones de inconstitucionalidad, conforme lo establezcan esta Constitución y la ley;
 
-II.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de primera instancia o menores;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado o entre particulares y los Ayuntamientos;
+II.- Turnar a las Salas que correspondan los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces, para sustanciar la segunda instancia;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado;
 
 IV.- Erigirse en jurado de sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de esta Constitución;
 
@@ -1993,7 +2013,9 @@ VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judi
 
 VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la impartición de justicia; así como expedir y modificar, en su caso, los reglamentos y los acuerdos generales que se requieran para este fin;
 
-VIII.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Formular, expedir y modificar, en su caso, los reglamentos, acuerdos y circulares que sean necesarias para la impartición de justicia;
 
 IX.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados supernumerarios a las Salas en los supuestos que determine la ley;
 
@@ -2025,7 +2047,9 @@ XXI.- Calificar los impedimentos de los jueces de primera instancia para conocer
 
 XXII.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
 
-XXIII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado y las entidades autónomas, en los términos del Código de Procedimientos Civiles del Estado;
 
 XXIV.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia;
 
@@ -2067,7 +2091,9 @@ XIII.- Administrar y ejercer el presupuesto del Poder Judicial, excepto el del T
 
 XIV.- Establecer una remuneración adecuada e irrenunciable al personal del Poder Judicial, excepto a los Magistrados;
 
-XV.- Elaborar los proyectos de reglamentos y acuerdos necesarios para el funcionamiento del Poder Judicial, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Elaborar los reglamentos, acuerdos y circulares necesarios para la buena marcha administrativa del Poder Judicial, dentro del ámbito de sus competencias, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
 
 XVI.- Nombrar visitadores judiciales, quienes tendrán las facultades señaladas en la ley;
 
@@ -2083,7 +2109,9 @@ XXI.- Organizar, operar y mantener actualizado el sistema de la carrera judicial
 
 XXII.- Administrar y coordinar a los actuarios del Poder Judicial del Estado;
 
-XXIII.- Formular anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII.- Formular anualmente, en el mes de enero, una lista con los nombres de las personas que puedan fungir como auxiliares de la impartición de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
 
 XXIV.- Diseñar, integrar y mantener actualizado el Sistema de Información Estadística del Poder Judicial del Estado;
 
@@ -2151,7 +2179,7 @@ La ley determinará los distritos judiciales en que se dividirá el Estado, el n
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Para su modificación, el Consejo de la Judicatura propondrá un proyecto para que, una vez analizado y aprobado por el Pleno, se plantee al Congreso del Estado en ejercicio de la facultad de iniciativa del Supremo Tribunal del Justicia.
+Para su modificación, el Consejo de la Judicatura propondrá un proyecto para que, una vez analizado y aprobado por el Pleno, se plantee al Congreso del Estado en ejercicio de la facultad de iniciativa del Supremo Tribunal del (sic) Justicia.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -3629,7 +3657,7 @@ Artículo Único: El presente decreto entrará en vigor al día siguiente de su 
 
 P.O. 2 DE OCTUBRE DE 2003.
 
-DECRETO NO. 365 QUE REFORMA LA FRACCIÓN XXXIII DEL ARTICULO 91.
+DECRETO NO. 365 QUE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 91.
 
 Artículo Único.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1º de enero de 2004.
 
@@ -4060,3 +4088,51 @@ La reforma efectuada al artículo 60 de la Constitución Política del Estado de
 ###### ARTÍCULO SEGUNDO.
 
 La reforma concerniente al artículo 53 párrafo 1 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, establecida en el artículo segundo del presente Decreto, entrará en vigor una vez que surta efectos la reforma efectuada al artículo 60 de la Constitución Política del Estado de Tamaulipas, contenida en este Decreto, debiéndose publicar en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+DECRETO NO. LXI-887 POR EL QUE SE REFORMAN LOS ARTÍCULOS 8° FRACCIÓN V Y 114 APARTADOS A FRACCIONES II, III, VIII, Y XXIII; Y B FRACCIONES XV Y XXIII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a los 60 días naturales, posteriores a la entrada en vigor del presente Decreto, se deberán realizar las modificaciones a la legislación secundaria, para dar cumplimiento a lo establecido en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido admitida con anterioridad a la entrada en vigor del presente Decreto, seguirán siendo conocidos por el Pleno del Supremo Tribunal de Justicia hasta su conclusión.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+DECRETO NO. LXI-893 POR EL QUE REFORMA EL NOVENO PÁRRAFO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+DECRETO NO. LXI-893 POR EL QUE REFORMA EL NOVENO PÁRRAFO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-903, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 44 Y SE REFORMAN LA FRACCIÓN XXXIII DEL ARTÍCULO 91 Y EL CUARTO PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y sus disposiciones entrarán en vigor a partir del 1 de enero de 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado realizará las adecuaciones pertinentes a la legislación con motivo de la aprobación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Tratándose del último año de ejercicio constitucional del Ejecutivo del Estado, deberán adoptarse las previsiones de tiempo necesarias a efecto de que durante el mes de septiembre se lleven a cabo la entrega del informe y las comparecencias de los titulares de las dependencias, que en su caso se acuerden.
