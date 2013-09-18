@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2012-04-19"
+last_updated: "2013-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -333,6 +333,10 @@ DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
 
 El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, el cual será el organismo rector de la Asistencia Social y tendrá como objetivos la promoción de la Asistencia Social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+El domicilio del organismo será el municipio de Victoria, y podrá establecer centros o unidades administrativas dependientes de él, programas e instalaciones con fines similares en cualquier lugar del Estado.
+
 ###### ARTICULO 18.
 
 Cuando en esta ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
@@ -611,9 +615,9 @@ VI.- Planear, dirigir y controlar el funcionamiento del organismo con sujeción 
 
 VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del organismo;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Actuar en representación de la Junta de Gobierno con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes;
+VIII.- Ejercer la representación legal del Organismo y fungir como apoderado para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la legislación vigente en el Estado y las correlativas de las demás entidades de la República, por lo que enunciativa más no limitativamente estará facultado para otorgar o revocar poderes, interponer recursos, formular querellas, articular y absolver posiciones, ejercer y desistirse de acciones judiciales, administrativas, laborales, inclusive del juicio de amparo, así como otorgar y suscribir títulos de crédito;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
@@ -655,11 +659,11 @@ El Gobierno del Estado y el organismo, conforme a sus respectivos ámbitos de co
 
 El organismo emitirá opinión sobre el otorgamiento de subsidios a instituciones públicas o privadas que actúen en el campo de asistencia social.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 38.
 
-Las relaciones de trabajo entre el organismo y sus trabajadores se sujetarán a lo establecido en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+Las relaciones de trabajo entre el organismo y sus trabajadores se sujetarán a lo establecido en la Ley Federal del Trabajo.
 
 ###### ARTICULO 39.
 
@@ -686,6 +690,10 @@ VII.- Los Secretarios y Secretarias Privados de los empleados antes mencionados.
 ###### ARTICULO 40.
 
 Los trabajadores del organismo estarán incorporados al régimen de Seguridad Social que corresponda a los trabajadores al servicio del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 40 BIS.- Para la liquidación o extinción del Organismo, se requerirá de las mismas formalidades inherentes a su establecimiento, debiéndose prever la elaboración del inventario de activos y pasivos, así como su rendición final de cuentas y el destino de los bienes a su cargo para la realización de los objetivos que motivaron su edificación o adquisición, en un organismo o institución con propósitos o fines homólogos.
 
 ### CAPITULO TERCERO. DE LA COORDINACION, CONCERTACION E INDUCCION
 
@@ -836,3 +844,13 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
