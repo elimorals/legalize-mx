@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-comision-consultiva-estatal-de-64635"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-12"
-last_updated: "2008-11-12"
+last_updated: "2013-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de noviembre de 2008.
 
@@ -236,3 +238,13 @@ Artículo Segundo.- El presente Reglamento surtirá sus efectos a partir del dí
 Dado en el Seno de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo del Estado de Chiapas; el 29 de septiembre de 2008.
 
 Juan Sabines Guerrero, Gobernador del Estado y Presidente del Consejo.- Lic. Esther Almazán Torres, Secretaria del Trabajo y Presidenta Suplente del Consejo.- Lic. Aarón Yamil Melgar Bravo, Delegado Federal de la Secretaría del Trabajo y Previsión Social en Chiapas, y Secretario Técnico del Consejo.- Dr. Adrián Pérez Vargas, Secretario de Salud.- Dr. E. Samuel Orrico Torres, Delegado Federal del Instituto Mexicano del Seguro Social.- Representantes de las Organizaciones Locales de los Trabajadores: Sr. Jorge Gómez Hernández, Secretario General de la Confederación Regional Obrera Mexicana en el Estado.- Sra. Reyna Ruiz Toledo, Secretaria General de la Confederación General de Trabajadores en el Estado.- Roger Humberto Gómez Solís, Delegado Sindical de la Agencia Tuxtla Bimbo.- Representantes de las Organizaciones Patronales de la Entidad: Arq. Carlos Martín Coutiño Rodríguez, Presidente de la Confederación Patronal de la República Mexicana en el Estado.- Francisco Lazos Morales, Presidente de la Cámara Nacional de la Industria de la Transformación en el Estado.- Rosa María Cancino Moreno, Presidenta de la Asociación de Mujeres Empresarias, Capítulo Tuxtla Gutiérrez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se abroga el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo del Estado de Chiapas, publicado en el Periódico Oficial del Estado número 126, de fecha 12 de noviembre de 2008.
+
+Tercero.- En cumplimiento a lo previsto en el Artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
