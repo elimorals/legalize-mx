@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2013-05-25"
+last_updated: "2013-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -151,9 +151,11 @@ La figura de prórroga contemplada en el artículo 39 de la Ley Federal del Trab
 
 Los empleados públicos y los servidores públicos de base podrán ser cesados en los términos del artículo 22, fracción V, de esta ley.
 
-###### Art. 9°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
 
-Para los efectos de esta ley, se entenderán como Titulares:
+###### Art. 9.
+
+Para los efectos de esta Ley, se entenderán como Titulares:
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
@@ -169,7 +171,9 @@ b) En los Tribunales de lo Contencioso Administrativo y de Arbitraje y Escalafó
 
 IV. En los municipios, los Ayuntamientos representados por el Presidente Municipal o el Presidente del Consejo, en su caso; y
 
-V. En los organismos descentralizados y empresas o asociaciones de participación Estatal o Municipal Mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+
+V. En los Organismos Públicos Descentralizados, Organismos Constitucionales Autónomos y empresas o asociaciones de participación Estatal o Municipal mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
 
 Art. 9 A. (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2012)
 
@@ -227,7 +231,9 @@ Solo se podrá otorgar nombramiento definitivo o temporal cuando exista disponib
 
 Los nombramientos deberán contener:
 
-I. Nombre, nacionalidad, edad, sexo, estado civil y domicilio;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+
+I. Nombre, nacionalidad, edad, sexo, estado civil, domicilio, clave única de registro de población y registro federal de contribuyentes;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -419,9 +425,21 @@ n) Las análogas a las establecidas en los incisos anteriores, y
 
 VI. Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor público deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la entidad pública.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Art. 23.
 
-(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2012)
+El servidor público cesado o despedido injustificadamente, podrá solicitar a su elección, ante el Tribunal de Arbitraje y Escalafón, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+
+Si en el juicio correspondiente no comprueba la Entidad Pública la causa de terminación o cese, o se resuelve que el despido fue injustificado, el servidor público tendrá derecho, sin importar la acción intentada, además a que se le paguen los sueldos vencidos, computados desde la fecha del cese hasta por un periodo máximo de doce meses.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha cumplimentado el laudo, se pagará también al servidor público los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+En caso de muerte del servidor público, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+A los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, el Tribunal de Arbitraje y Escalafón le impondrá una multa de 100 a 1000 veces el salario mínimo general vigente de la zona económica de Guadalajara.
+
+Si la dilación es producto de omisiones o conductas irregulares de los funcionarios o servidores públicos, la sanción aplicable será la suspensión hasta por treinta días sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 ### CAPITULO V. De las relaciones entre las entidades públicas y sus servidores
 
@@ -543,24 +561,6 @@ El órgano de control disciplinario anualmente deberá elaborar y actualizar el 
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
-Art. 26 bis. El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 1. Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 2. Los menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, la cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la ley.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 3. Las labores peligrosas o insalubres, son aquellas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan o por la composición de la materia prima que se utiliza, no pueden realizar los menores de acuerdo a su grado de madurez.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 4. Las entidades, de acuerdo a su presupuesto, ayudarán a los menores de edad con libros o material escolar para incentivar su formación educativa.
-
 ###### Art. 26 Bis.
 
 El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
@@ -569,7 +569,7 @@ El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo
 
 ###### Art. 26 Bis 1.
 
-Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufran detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
+Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -647,13 +647,13 @@ En los trabajos que requieran una labor continua, se fijarán los días en que l
 
 ###### Art. 38.
 
-Serán considerados como días de descanso obligatorio: 1° de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo; en conmemoración del 21 de marzo; 1° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.
+Serán considerados como días de descanso obligatorio: 1° de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 39.
 
-Los servidores públicos, que por necesidad del servicio, laboren en sus días de descanso obligatorio, independientemente de su sueldo percibirán un 200% del mismo por el servicio prestado, pero si coincide el día de descanso obligatorio con el día de descanso semanal obligatorio, se pagará un 300% más del sueldo, independientemente de su salario normal por ese día, sin que tales eventos puedan repetirse en más de dos ocasiones en treinta días naturales.
+Los servidores públicos que por necesidad del servicio, laboren en sus días de descanso obligatorio, independientemente de su sueldo, percibirán un 200% del mismo por el servicio prestado, pero si coincide el día de descanso obligatorio con el día de descanso semanal obligatorio, se pagará un 300% más del sueldo, independientemente de su salario normal por ese día, sin que tales eventos puedan repetirse en más de dos ocasiones en treinta días naturales.
 
 ### CAPITULO III. De las vacaciones y licencias
 
@@ -689,7 +689,9 @@ Para que los permisos o licencias se concedan es requisito previo la solicitud p
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 42 bis. Tratándose de licencias otorgadas a servidores públicos de elección popular, cuando las mismas sean por tiempo determinado, los mismos deberán reintegrarse a su función en la fecha correspondiente.
+###### Art. 42 Bis.
+
+Tratándose de licencias otorgadas a servidores públicos de elección popular, cuando las mismas sean por tiempo determinado, los mismos deberán reintegrarse a su función en la fecha correspondiente.
 
 En el caso de licencias por tiempo indefinido, cuando el servidor público pretenda reintegrarse a su cargo, deberá notificarlo a la autoridad competente, a fin de que quien la autorizó resuelva dentro de los tres días hábiles siguientes a la notificación. En caso de no resolver se entenderá en sentido afirmativo, debiendo el servidor público reintegrarse a su función.
 
@@ -837,7 +839,7 @@ I. De deudas contraídas con la Entidad Pública por concepto de anticipos, de p
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II. Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el servidor hubiere manifestado previamente de una manera expresa y por escrito su conformidad: La manifestación relativa al cobro de la cuota sindical tiene el efecto de acreditar su pertenencia al sindicato.
+II. Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el servidor hubiere manifestado previamente de una manera expresa y por escrito su conformidad. La manifestación relativa al cobro de la cuota sindical tiene el efecto de acreditar su pertenencia al sindicato.
 
 En ningún caso se podrá retener a un servidor público, respecto de una plaza determinada, su cuota sindical para más de un sindicato;
 
@@ -879,7 +881,9 @@ Los servidores públicos que no hayan cumplido un año de labores tendrán derec
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis. Los servidores públicos que integran los entes públicos a que se refiere el artículo 1.° de esta ley, con excepción de sus titulares, secretarios, subsecretarios, directores generales o sus equivalentes, pueden recibir bonos, premios, recompensas, estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en las leyes correspondientes y el Presupuesto de Egresos respectivo.
+###### Art. 54 Bis.
+
+Los servidores públicos que integran los entes públicos a que se refiere el artículo 1.° de esta ley, con excepción de sus titulares, secretarios, subsecretarios, directores generales o sus equivalentes, pueden recibir bonos, premios, recompensas, estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en las leyes correspondientes y el Presupuesto de Egresos respectivo.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -907,7 +911,9 @@ Los servidores públicos que otorguen o reciban estímulos o compensaciones en c
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Art. 54 bis 1.- Son irrenunciables los salarios devengados, indemnizaciones y demás prestaciones otorgados en los términos de la ley que se deriven de los servicios prestados.
+###### Art. 54 Bis 1.
+
+Son irrenunciables los salarios devengados, indemnizaciones y demás prestaciones otorgados en los términos de la ley que se deriven de los servicios prestados.
 
 Queda prohibido para todo servidor público, otorgar o recibir prestaciones distintas a las establecidas en esta ley y demás disposiciones legales aplicables.
 
@@ -917,7 +923,9 @@ Se consideran legales, las prestaciones otorgadas a los servidores públicos en 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis 2. La remuneración de los servidores públicos deberá cumplir con lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables; será conforme a los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, debiendo fijarse anualmente en los presupuestos de egresos respectivos.
+###### Art. 54 Bis 2.
+
+La remuneración de los servidores públicos deberá cumplir con lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables; será conforme a los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, debiendo fijarse anualmente en los presupuestos de egresos respectivos.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -925,13 +933,17 @@ Al determinarse la remuneración de los servidores públicos, con excepción de 
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis 3. Los servidores públicos tendrán derecho a los servicios asistenciales previstos en la ley estatal en materia de pensiones de los servidores públicos.
+###### Art. 54 Bis 3.
+
+Los servidores públicos tendrán derecho a los servicios asistenciales previstos en la ley estatal en materia de pensiones de los servidores públicos.
 
 La citada ley estatal en materia de pensiones determinará el mecanismo y la cuantía de las aportaciones que realicen los servidores públicos afiliados.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Art. 54 bis 4. A los servidores públicos se les garantizará su acceso a los servicios necesarios para preservar su salud. Para tal efecto los entes públicos podrán optar por la afiliación de sus trabajadores a los servicios públicos de salud o cualquier otro medio que consideren conveniente y se encuentre acorde a la normatividad aplicable.
+###### Art. 54 Bis 4.
+
+A los servidores públicos se les garantizará su acceso a los servicios necesarios para preservar su salud. Para tal efecto los entes públicos podrán optar por la afiliación de sus trabajadores a los servicios públicos de salud o cualquier otro medio que consideren conveniente y se encuentre acorde a la normatividad aplicable.
 
 Los servicios de salud otorgados en los términos de la presente ley, deberán permanecer vigentes hasta dos meses después de que el servidor público haya dejado el cargo y los montos asegurados se ajustarán a lo dispuesto por este ordenamiento.
 
@@ -941,21 +953,29 @@ Cuando deba operar un reembolso con motivo de la suscripción de un contrato de 
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Art. 54 bis 5. Los servidores públicos pagarán las contribuciones fiscales que se originen con motivo del recibo de la remuneración y demás prestaciones gravables y para ese efecto las instancias correspondientes harán las retenciones debidas.
+###### Art. 54 Bis 5.
+
+Los servidores públicos pagarán las contribuciones fiscales que se originen con motivo del recibo de la remuneración y demás prestaciones gravables y para ese efecto las instancias correspondientes harán las retenciones debidas.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Art. 54 bis 6. Las licencias para separarse del cargo de manera voluntaria y temporal deberán ser autorizadas por el superior jerárquico del solicitante, con excepción de los casos en que conforme a esta ley se requiera procedimiento distinto, y una vez en vigencia suspenderán el goce del sueldo y demás prestaciones establecidas por el presente ordenamiento.
+###### Art. 54 Bis 6.
+
+Las licencias para separarse del cargo de manera voluntaria y temporal deberán ser autorizadas por el superior jerárquico del solicitante, con excepción de los casos en que conforme a esta ley se requiera procedimiento distinto, y una vez en vigencia suspenderán el goce del sueldo y demás prestaciones establecidas por el presente ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis 7. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.
+###### Art. 54 Bis 7.
+
+No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.
 
 Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2005)</small>
 
-Art. 54 ter. Los estímulos podrán emanar de los convenios de coordinación que el Ejecutivo Estatal celebre con la Federación, en cuyo caso las reglas para su otorgamiento se determinarán por lo establecido en dichos convenios.
+###### Art. 54 Ter.
+
+Los estímulos también podrán emanar de los convenios de coordinación que el Ejecutivo Estatal celebre con la Federación, en cuyo caso las reglas para su otorgamiento se determinarán por lo establecido en dichos convenios.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1185,11 +1205,11 @@ III. Hacer la proposición de nombramientos definitivos, en favor de la persona 
 
 La seguridad social tiene por finalidad garantizar el derecho humano a la salud; a la asistencia médica, a la protección de los medios de subsistencia y a los servicios sociales necesarios, para el bienestar individual y colectivo.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 64.
 
-La seguridad social será proporcionada por las entidades públicas, a los trabajadores y sus beneficiarios, a través de convenios de incorporación que celebren preferentemente con el Instituto Mexicano del Seguro Social, o con las instituciones a que se refiere la fracción XI del artículo 56 de esta Ley, siempre que aseguren cuando menos el mismo nivel de atención y cobertura territorial que el Instituto Mexicano del Seguro Social, para que sean éstas las que proporcionen a los servidores públicos los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y asistenciales; así mismo, tendrán la obligación de afiliar a todos los servidores públicos a la Dirección de Pensiones del Estado para el otorgamiento de las pensiones y jubilaciones correspondientes.
+La seguridad social será proporcionada por las Entidades Públicas, a los trabajadores y sus beneficiarios, a través de convenios de incorporación que celebren preferentemente con el Instituto Mexicano del Seguro Social, o con las instituciones a que se refiere la fracción XII del artículo 56 de esta ley, siempre que aseguren cuando menos el mismo nivel de atención y cobertura territorial que el Instituto Mexicano del Seguro Social, para que sean éstas las que proporcionen a los servidores públicos los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y asistenciales; así mismo, tendrán la obligación de afiliar a todos los servidores públicos al Instituto de Pensiones del Estado para el otorgamiento de las pensiones y jubilaciones correspondientes.
 
 ###### Art. 65.
 
@@ -1583,7 +1603,7 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 Para conocer de los conflictos laborales individuales y colectivos que se presenten entre los sujetos de esta Ley habrá un Tribunal de Arbitraje y Escalafón, el cual se integrará por:
 
-I. Un magistrado designado por el Gobernador el Estado de Jalisco;
+I. Un magistrado designado por el Gobernador del Estado de Jalisco;
 
 II. Un magistrado que será designado por la Federación de Sindicatos que tenga mayor representación de servidores públicos, lo cual será validado por el propio Tribunal de Arbitraje y Escalafón, de conformidad con las disposiciones que establezca esta Ley; y
 
@@ -1599,7 +1619,9 @@ El Tribunal de Arbitraje y Escalafón contará con el personal administrativo qu
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2002)</small>
 
-Art. 112 bis. Para la designación de los magistrados del Tribunal de Arbitraje y Escalafón se estará a lo siguiente:
+###### Art. 112 Bis.
+
+Para la designación de los magistrados del Tribunal de Arbitraje y Escalafón se estará a lo siguiente:
 
 I. El nombramiento de los magistrados designados por el Gobernador del Estado y los trabajadores deberá llevarse a cabo a más tardar el primero de junio del año en que principie su correspondiente periodo; y
 
@@ -1691,15 +1713,17 @@ I. El servidor público demandante.
 
 II. La entidad pública.
 
-III. Los organismos públicos descentralizados.
+III. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2013)
 
-IV. Las empresas o asociaciones de participación mayoritaria estatal o municipal y fideicomisos públicos.
+IV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2013)
 
 V. Las Comisiones Mixtas de Escalafón.
 
 VI. Los sindicatos y la federación de éstos.
 
-VII. Las personas físicas que ejerciten acciones por sí o como beneficiarios de trabajadores públicos al servicio del Estado o de los Municipios, sus organismos públicos descentralizados, Empresas o Asociaciones de participación mayoritaria estatal o municipal.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+
+VII. Las personas físicas que ejerciten acciones por sí o como beneficiarios de trabajadores públicos al servicio del Estado o de los Municipios, sus Organismos Públicos Descentralizados, Organismos Constitucionales Autónomos, empresas o asociaciones de participación mayoritaria estatal o municipal; y
 
 VIII. Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, comprobando su interés jurídico o que sean llamadas a juicio por el Tribunal de Arbitraje y Escalafón.
 
@@ -1712,6 +1736,10 @@ Las partes podrán comparecer a juicio en forma directa o por conducto de apoder
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 Los titulares de las entidades públicas a los que se refiere el artículo 9 de la presente ley, podrán nombrar apoderados para comparecer a juicio por medio de simple oficio, sin necesidad de que la firma sea ratificada ante el Tribunal de Arbitraje y Escalafón.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+
+Los titulares de las entidades públicas y sus apoderados, serán sujetos de responsabilidad, en términos de la legislación aplicable, si por negligencia u omisión en la representación que ostenten en juicio, se genera un daño pecuniario a su representada.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -1795,7 +1823,7 @@ El Tribunal de Arbitraje y Escalafón dictará acuerdo admitiendo la demanda si 
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
-En el acuerdo de admisión se señalara día y hora para que tenga verificativo la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas; ordenándose se notifique el acuerdo personalmente a las partes y se entregue copia certificada de la demanda a la parte demandada para que produzca contestación en un término de diez días contados a partir del día siguiente de su notificación, con el apercibimiento que de no contestar, se le tendrá por contestada la demanda en sentido afirmativo.
+En el acuerdo de admisión se señalará día y hora para que tenga verificativo la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas; ordenándose se notifique el acuerdo personalmente a las partes y se entregue copia certificada de la demanda a la parte demandada para que produzca contestación en un término de diez días contados a partir del día siguiente de su notificación, con el apercibimiento que de no contestar, se le tendrá por contestada la demanda en sentido afirmativo.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1813,7 +1841,7 @@ Cuando el actor sea el trabajador o sus beneficiarios, el Tribunal en caso de qu
 
 ###### Art. 129.
 
-Si las partes no comparecen a la celebración de la audiencia señalada se les tendrá por ratificada su demanda y contestación la demanda; en caso de no asistir en la etapa de ofrecimiento y admisión de pruebas, se les tendrá por perdido el derecho a presentar pruebas e inconformes con todo arreglo, dándose por concluidas todas y cada una de las etapas procesales y se pronunciará laudo en un término que no exceda de quince días.
+Si las partes no comparecen a la celebración de la audiencia señalada se les tendrá por ratificada su demanda y contestación de demanda; en caso de no asistir a la etapa de ofrecimiento y admisión de pruebas, se les tendrá por perdido el derecho a presentar pruebas e inconformes con todo arreglo, dándose por concluidas todas y cada una de las etapas procesales y se pronunciará laudo en un término que no exceda de quince días.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -1941,7 +1969,7 @@ c) Si de las constancias del expediente resulta evidente la mayor representativi
 
 d) El pleno del Tribunal deberá llevar a cabo el recuento de los servidores públicos, en cualquiera de los siguientes casos:
 
-1. SI la entidad pública patronal no remitió la documentación completa, en los términos del inciso a) de esta fracción;
+1. Si la entidad pública patronal no remitió la documentación completa, en los términos del inciso a) de esta fracción;
 
 2. Se acredite, mediante documento formulado bajo protesta de decir verdad por los servidores públicos interesados, que la entidad pública patronal se negó a recibirles la solicitud de cambio de sindicato al que se entregará su cuota sindical, debiendo ser a cualquiera de algunos (sic) de los sindicatos en conflicto.
 
@@ -1989,7 +2017,7 @@ Recibida la demanda por escrito de los peticionarios, el Tribunal correrá trasl
 
 ###### Art. 147.
 
-Una vez transcurrido el término establecido en el Art. anterior, con contestación o sin ella, se citará a una audiencia de avenimiento, en donde la comparecencia de las partes será obligatoria. Si los actores, no concurren, se dará por concluido el conflicto, ordenándose el archivo definitivo del caso y no correrá término para la suspensión de actividades. Si los demandados no concurren, se ordenará hacerlos comparecer por medio de la fuerza pública, sin perjuicio de la sanción económica que fije el Tribunal, en los términos del Art. 143 de esta ley.
+Una vez transcurrido el término establecido en el artículo anterior, con contestación o sin ella, se citará a una audiencia de avenimiento, en donde la comparecencia de las partes será obligatoria. Si los actores, no concurren, se dará por concluido el conflicto, ordenándose el archivo definitivo del caso y no correrá término para la suspensión de actividades. Si los demandados no concurren, se ordenará hacerlos comparecer por medio de la fuerza pública, sin perjuicio de la sanción económica que fije el Tribunal, en los términos del Art. 143 de esta ley.
 
 ###### Art. 148.
 
@@ -2031,7 +2059,7 @@ I. Servicio: El Servicio Civil de Carrera definido en el artículo anterior;
 
 II. Comisión: La Comisión de Evaluación de las Entidades Públicas;
 
-III. Entidades públicas: Las que se refieren en el artículo primero de ésta Ley;
+III. Entidades Públicas: Las que se refieren en el artículo primero de ésta Ley;
 
 IV. Órgano de Administración Interna: La dependencia designada o creada por la Entidad Pública, para que administre el Sistema;
 
@@ -2666,3 +2694,9 @@ P.O. 20 DE NOVIEMBRE DE 2012.
 P.O. 25 DE MAYO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
