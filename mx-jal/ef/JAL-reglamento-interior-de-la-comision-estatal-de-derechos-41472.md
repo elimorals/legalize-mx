@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-comision-estatal-de-derechos-41472"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-19"
-last_updated: "2004-10-19"
+last_updated: "2013-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 19 de octubre de 2004.
 
@@ -59,9 +61,15 @@ El personal de la Comisión regirá sus actuaciones y prestará sus servicios co
 
 ### CAPÍTULO I. De la competencia de la Comisión
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 6°.
 
-La Comisión conocerá de quejas en contra de servidores públicos o autoridades por actos de carácter administrativo en los términos de la Ley.
+La Comisión conocerá de quejas en contra de servidores públicos o autoridades por actos de carácter administrativo en los términos de la ley.
+
+Por ningún motivo la Comisión será competente tratándose de asuntos electorales y jurisdiccionales.
+
+Respecto de los asuntos laborales, la competencia de la Comisión no comprende la facultad para conocer de los conflictos suscitados entre uno o varios patrones y uno o más trabajadores o uno o más sindicatos, ni entre sindicatos y/o trabajadores, incluso cuando el patrón sea una autoridad o dependencia estatal o municipal.
 
 ###### Artículo 7°.
 
@@ -1092,3 +1100,9 @@ Consejero propietario
 CARLOS MERCADO CASILLAS
 
 Secretario técnico
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
