@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-policia-urbana-bancaria-e-34169"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-25"
-last_updated: "2003-09-25"
+last_updated: "2013-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA POLICIA URBANA, BANCARIA E INDUSTRIAL
 
-REGLAMENTO INTERIOR DE LA POLICIA URBANA, BANCARIA E INDUSTRIAL
+REGLAMENTO INTERIOR DE LA POLICÍA URBANA, BANCARIA E INDUSTRIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA POLICÍA URBANA, BANCARIA E INDUSTRIAL, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de septiembre de 2003.
 
@@ -1202,3 +1204,15 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 LIC. MARCO ANTONIO ARANDA MARTÍNEZ.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2013.
+
+Primero.- El presente Reglamento deberá publicarse en el Periódico Oficial del Gobierno del Estado de San Luis Potosí.
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de San Luis Potosí.
+
+Tercero.- La Dirección y administración de la Policía Urbana, Bancaria e Industrial, seguirán estando a cargo del Patronato, quien tendrá las atribuciones, facultades y obligaciones a que se refiere el Decreto de creación del mismo y las que se señalen en este Reglamento.
+
+Cuarto.- Se abroga el Reglamento Interior de la Policía Urbana, Bancaria e Industrial publicado el jueves 25 de septiembre de 2003 en el Periódico Oficial del Gobierno del Estado Libre y Soberano de San Luis Potosí, así como las demás disposiciones internas que se opongan al presente.
