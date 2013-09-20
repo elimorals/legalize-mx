@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-protege-los-derechos-de-los-no-fumadores-en-el-12598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-06"
-last_updated: "2010-09-20"
+last_updated: "2013-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 411, POR EL CUAL SE APRUEBA EL DECRETO QUE ABROGA LA LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 20 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 411, POR EL CUAL SE APRUEBA EL DECRETO QUE ABROGA LA LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 20 DE SEPTIEMBRE DE 2010, Y EL TRANSITORIO QUINTO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 20 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 6 de octubre de 1995.
 
@@ -404,3 +404,17 @@ P.O. 19 DE AGOSTO DE 2005.
 P.O. 20 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, Órgano del Gobierno Constitucional del Estado de Baja California.
+
+P.O. 20 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se emitirá el reglamento a que se refiere esta Ley, a más tardar 90 días después de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Los titulares de las dependencias y entidades del Gobierno Federal con sede en el territorio del Estado de Baja California, del Gobierno del Estado de Baja California, Municipal y Órganos Autónomos, contarán con treinta días hábiles para informar a los trabajadores de la dependencia sobre esta Ley, para que su área administrativa coloque la señalización correspondiente, implantar, cumplir e iniciar la vigilancia de su cumplimiento. Los Órganos de Control Interno de las diferentes oficinas de las Dependencias del Gobierno Federal dentro del territorio del Estado de Baja California, Gobierno del Estado de Baja California, Municipios y Órganos Autónomos, según corresponda, deberán incorporar en sus programas de auditoría, la verificación del cumplimiento de esta Ley después de noventa días de su entrada en vigor, así como la aplicación de las sanciones a que hubiera lugar a los funcionarios y mandos que no la apliquen.
+
+CUARTO.- Los directivos y gerentes de lugares de trabajo, propietarios, poseedores o responsables, de establecimientos cerrados, de sitios de concurrencia colectiva así como de vehículos de transporte público, las autoridades educativas de instituciones escolares públicas, sociales o privadas y las autoridades deportivas contarán con un plazo de sesenta días hábiles para informar a sus trabajadores y empleados, dependientes, personal docente y administrativo, asociaciones de padres de familia de las escuelas; profesores, entrenadores y capitanes de equipos deportivos, alumnos, miembros de equipos y usuarios de los establecimientos cerrados, oficinas, industrias, empresas y servicios sobre la aplicación de las disposiciones de esta Ley, capacitar e iniciar el proceso educativo social que conlleva. En ese periodo deberán colocar la señalización correspondiente, implantar, cumplir y vigilar el cumplimiento de esta Ley. Las verificaciones sanitarias tendrán carácter de fomento durante los siguientes treinta días calendario y tendrán carácter de control sanitario a partir de los noventa días hábiles de su entrada en vigor.
+
+QUINTO.- La presente Ley abroga a la Ley que Protege los Derechos de los No Fumadores del Estado de Baja California, publicada en el Periódico Oficial del Estado el 06 de octubre de 1995, así como deja sin efecto cualquier disposición contraria a la misma.
+
+SEXTO.- Los Municipios deberán incorporar a su marco legal, como mínimo, lo establecido en la presente Ley.
