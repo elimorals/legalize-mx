@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-archivo-general-municipal-de-moroleon-72644"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-29"
-last_updated: "2010-01-29"
+last_updated: "2013-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,15 @@ state: "GUA"
 
 REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE MOROLEON, GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE MOROLEÓN, GUANAJUATO, PUBLICADO EN EL P.O. DE 20 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de enero de 2010.
 
 El Ciudadano PROFR. J. JESÚS ROSILES LÓPEZ, Presidente Constitucional del Municipio de Moroleón, Estado de Guanajuato, a los habitantes del mismo, hace saber:
 
-Que el Ayuntamiento en ejercicio de las facultades que le confieren los artículos 115, fracción ll, de la Constitución Política de los Estados Unidos Mexicanos; 117, fracción I de la Constitución Política del Estado de Guanajuato; 69 fracción I, inciso b); 70, fracción II y V, 202; 204 fracción lll; 205 y 202 de la Ley Orgánica Municipal para el Estado de Guanajuato; en Sesión Ordinaria de Ayuntamiento número 60 (sesenta), del 19 de mayo de 2009 y Sesión Ordinaria de Ayuntamiento número 64 (sesenta y cuatro), de fecha 25 de agosto de 2009, se aprobó el siguiente:
+Que el Ayuntamiento en ejercicio de las facultades que le confieren los artículos 115, fracción ll, de la Constitución Política de los Estados Unidos Mexicanos; 117, fracción I de la Constitución Política del Estado de Guanajuato; 69 fracción I, inciso b); 70, fracción II y V, 202; 204 fracción III; 205 y 202 de la Ley Orgánica Municipal para el Estado de Guanajuato; en Sesión Ordinaria de Ayuntamiento número 60 (sesenta), del 19 de mayo de 2009 y Sesión Ordinaria de Ayuntamiento número 64 (sesenta y cuatro), de fecha 25 de agosto de 2009, se aprobó el siguiente:
 
 REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE MOROLEON, GUANAJUATO.
 
@@ -49,7 +51,7 @@ Para efectos de este Reglamento se entenderá por Sujetos Obligados: todas las D
 
 Para los efectos de este Reglamento se entenderá por Archivo General Municipal de Moroleón, la unidad administrativa adscrita a la Secretaría del H. Ayuntamiento, que en coordinación con aquélla y con observancia de la Ley de Archivos Generales del Estado y los Municipios de Guanajuato, Ley de Acceso a la Información Pública del Estado y Los Municipios de Guanajuato, otras Leyes, reglamentos análogos y aplicables; cumplirá el objeto del presente reglamento, para lo cual se le deberá asignar una partida presupuestaria para el eficaz desarrollo de las obligaciones consignadas en el presente Reglamento.
 
-### Capítulo ll
+### Capítulo II
 
 Glosario de términos.
 
@@ -57,11 +59,11 @@ Glosario de términos.
 
 Para los efectos del presente Reglamento se entiende por:
 
-l.- Archivística: Disciplina que trata de los aspectos teóricos y prácticos de los archivos y su función.
+I.- Archivística: Disciplina que trata de los aspectos teóricos y prácticos de los archivos y su función.
 
-ll.- Administración de documentos: Conjunto de métodos y prácticas destinadas a planear, dirigir y controlar la generación, circulación, organización, conservación, uso, clasificación, transferencia, y destino de los documentos de archivo, con el propósito de lograr eficiencia en su manejo;
+II.- Administración de documentos: Conjunto de métodos y prácticas destinadas a planear, dirigir y controlar la generación, circulación, organización, conservación, uso, clasificación, transferencia, y destino de los documentos de archivo, con el propósito de lograr eficiencia en su manejo;
 
-lll.- Archivo de Concentración: Se conforma por los documentos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados y que permanecen en él hasta que prescribe su valor administrativo, legal, fiscal o contable o concluye el término para conservarlos de manera precautoria.
+III.- Archivo de Concentración: Se conforma por los documentos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados y que permanecen en él hasta que prescribe su valor administrativo, legal, fiscal o contable o concluye el término para conservarlos de manera precautoria.
 
 IV.- Archivo General: Conjunto orgánico de documentos, sea cual fuere su forma o soporte material, generados, circulados, conservados, usados o seleccionados por los sujetos obligados en el ejercicio de sus funciones o actividades y que se organizan en las áreas de Archivos de Trámite, Concentración e Histórico.
 
@@ -97,7 +99,7 @@ XIX.- Transferencia Secundaria: Traslado controlado y sistemático de documentos
 
 XX.- Valoración documental integral: Análisis objetivo de los documentos generados por los sujetos obligados.
 
-### Capítulo lll
+### Capítulo III
 
 De la Organización del Archivo General Municipal de Moroleón.
 
@@ -117,11 +119,11 @@ El Titular del Archivo General Municipal, y el auxiliar deberán brindar capacit
 
 El Titular del Archivo General Municipal de Moroleón, al término de la Administración Pública, deberá rendir informe y localización de los siguientes documentos:
 
-l.- Todas las Sesiones de Ayuntamiento: ordinarias, extraordinarias y secretas.
+I.- Todas las Sesiones de Ayuntamiento: ordinarias, extraordinarias y secretas.
 
-ll.- Los Registros de Contratos y/o Convenios que haya celebrado la Administración Pública Municipal.
+II.- Los Registros de Contratos y/o Convenios que haya celebrado la Administración Pública Municipal.
 
-lll.- Registro de todas las Concesiones que el H. Ayuntamiento haya otorgado a particulares ya sean personas físicas o personas morales.
+III.- Registro de todas las Concesiones que el H. Ayuntamiento haya otorgado a particulares ya sean personas físicas o personas morales.
 
 IV.- Registro del Patrimonio Municipal, de bienes muebles e inmuebles y los movimientos que de ellos se haya realizado. (Donaciones, comodatos, permutas, compraventas, arrendamientos, etc.).
 
@@ -129,21 +131,21 @@ IV.- Registro del Patrimonio Municipal, de bienes muebles e inmuebles y los movi
 
 Son requisitos para el nombramiento del Titular y del Auxiliar los siguientes:
 
-l. Ser originarios del Municipio de Moroleón, Guanajuato.
+I. Ser originarios del Municipio de Moroleón, Guanajuato.
 
-ll. Tener conocimientos archivísticos y de la ISAD.
+II. Tener conocimientos archivísticos y de la ISAD.
 
-lll. Ser de reconocida honorabilidad y de aprecio notorio por el conocimiento y conservación de la Historia Municipal.
+III. Ser de reconocida honorabilidad y de aprecio notorio por el conocimiento y conservación de la Historia Municipal.
 
 ###### Artículo 10.
 
 El Titular y el Auxiliar, podrán ser removidos por los siguientes motivos:
 
-l. Falta de probidad.
+I. Falta de probidad.
 
-ll. Notoria ineficiencia.
+II. Notoria ineficiencia.
 
-lll. Incumplimiento de sus obligaciones.
+III. Incumplimiento de sus obligaciones.
 
 IV. Por la comisión de un delito, o cualquiera de los supuestos establecidos en el artículo 110 - B de la Ley Orgánica Municipal.
 
@@ -163,7 +165,7 @@ El Archivo General Municipal de Moroleón debe contar con el espacio físico y m
 
 La conservación de los Archivos de Concentración e Histórico estará sujeta a las siguientes reglas:
 
-l.- Los espacios tendrán las siguientes características:
+I.- Los espacios tendrán las siguientes características:
 
 a) Estar ubicado en un lugar accesible y bien comunicado;
 
@@ -171,7 +173,7 @@ b) Contar con capacidad suficiente para albergar la información y su aumento pr
 
 c) Libre de riesgos de humedades, incendios y explosiones.
 
-ll.- Los espacios deberán contar con la siguiente distribución:
+II.- Los espacios deberán contar con la siguiente distribución:
 
 a) Área reservada para personal autorizado, la cual estará conformada por los depósitos documentales y zona de trabajo;
 
@@ -179,7 +181,7 @@ b) Área administrativa;
 
 c) Área pública con acceso controlado, destinada a la recepción, información y consulta de documentos; e
 
-lll. Implementar las medidas de protección que incidirán en los siguientes rubros:
+III. Implementar las medidas de protección que incidirán en los siguientes rubros:
 
 a) Incendios;
 
@@ -213,11 +215,11 @@ Documentos de Archivo.
 
 Toda Información generada, recibida y conservada por las Dependencias y Entidades de la Administración Municipal en el desempeño de sus actividades de carácter administrativo, jurídico, fiscal, contable o de relevancia cultural, se clasificará en uno de los siguientes tres rubros:
 
-l. Documentos activos: Los necesarios para el ejercicio de las atribuciones de las unidades administrativas y de uso frecuente.
+I. Documentos activos: Los necesarios para el ejercicio de las atribuciones de las unidades administrativas y de uso frecuente.
 
-ll. Documentos semiactivos: Los de uso esporádico que deben mantenerse en los archivos de concentración por disposición de la Ley, o que el sujeto obligado determine conservar de manera precautoria por un plazo determinado.
+II. Documentos semiactivos: Los de uso esporádico que deben mantenerse en los archivos de concentración por disposición de la Ley, o que el sujeto obligado determine conservar de manera precautoria por un plazo determinado.
 
-lll. Documentos históricos: En los que existen valores informativos, evidenciales y testimoniales de acciones de los sujetos obligados y de sus relaciones con la sociedad, por lo que deben conservarse permanentemente, por ser los que contienen la evolución histórica del Municipio.
+III. Documentos históricos: En los que existen valores informativos, evidenciales y testimoniales de acciones de los sujetos obligados y de sus relaciones con la sociedad, por lo que deben conservarse permanentemente, por ser los que contienen la evolución histórica del Municipio.
 
 ### Capítulo VI
 
@@ -231,11 +233,11 @@ De la unidad de Correspondencia:
 
 Para el control de la gestión documental, cada Dependencia o Entidad de la Administración Pública Municipal deberá llevar los registros por lo menos con los siguientes datos:
 
-l. Número identificador (folio consecutivo, renovable anualmente);
+I. Número identificador (folio consecutivo, renovable anualmente);
 
-ll. Asunto (breve descripción del contenido del documento);
+II. Asunto (breve descripción del contenido del documento);
 
-lll. Lugar y fecha donde se generó la documentación;
+III. Lugar y fecha donde se generó la documentación;
 
 IV. Fecha y hora de recepción del documento;
 
@@ -267,11 +269,11 @@ Del Archivo de Concentración:
 
 El archivo de concentración deberá organizar, conservar, valorar, transferir y describir la documentación semiactiva, como:
 
-l. Recibir los archivos de trámite, de manera que pueda ser localizada y consultada fácilmente;
+I. Recibir los archivos de trámite, de manera que pueda ser localizada y consultada fácilmente;
 
-ll. Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental y su periodo de reserva;
+II. Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental y su periodo de reserva;
 
-lll. Colocar los documentos y expedientes en cajas de archivo de dimensiones apropiadas, de preferencia de polipropileno (libres de ácido) para su fácil manejo y conservación;
+III. Colocar los documentos y expedientes en cajas de archivo de dimensiones apropiadas, de preferencia de polipropileno (libres de ácido) para su fácil manejo y conservación;
 
 IV. Elaborar los inventarios de baja documental y de transferencia secundaria de acuerdo al catálogo de disposición documental; y
 
@@ -283,11 +285,11 @@ V. Realizar las transferencias secundarias al Archivo Histórico.
 
 El Titular del Archivo General Municipal de Moroleón, tendrá a su cargo el Archivo Histórico, el cual se constituirá con la documentación que por su valor deba conservarse a perpetuidad, mediante la organización, conservación, accesibilidad y difusión de los documentos con valor secundario, debiendo:
 
-l.- Recibir ordenadamente los documentos con valor histórico enviados por el Archivo de Concentración, para su conservación permanente;
+I.- Recibir ordenadamente los documentos con valor histórico enviados por el Archivo de Concentración, para su conservación permanente;
 
-ll.- Instalar los documentos históricos en cajas de archivo para su manejo adecuado;
+II.- Instalar los documentos históricos en cajas de archivo para su manejo adecuado;
 
-lll.- Utilizar como instrumentos de descripción los inventarios de transferencia secundaria;
+III.- Utilizar como instrumentos de descripción los inventarios de transferencia secundaria;
 
 IV.- Elaborar guías y catálogos con el propósito de difundir y facilitar el acceso a los documentos públicos de los archivos históricos;
 
@@ -317,11 +319,11 @@ Cada sujeto obligado hará uso de la tecnología para establecer programas que p
 
 Los sujetos obligados deberán asegurarse de que se elaboren los instrumentos de consulta que propicien la conservación, organización y localización expedita de los documentos y expedientes en los archivos generales, por lo que deberán contar al menos con los siguientes instrumentos:
 
-l. Cuadro General de Clasificación Archivística;
+I. Cuadro General de Clasificación Archivística;
 
-ll. Catálogo de Disposición Documental; e
+II. Catálogo de Disposición Documental; e
 
-lll. Inventarios Documentales:
+III. Inventarios Documentales:
 
 a. de series documentales.
 
@@ -361,11 +363,11 @@ El Titular y los Sujetos Obligados gozarán del Tanto en la adquisición de docu
 
 El inventario por series documentales deberá ser elaborado por los responsables de cada una de las áreas de Archivo y coordinado con colaboración de los Sujetos Obligados y podrá ser de tres tipos: general, de transferencia y de baja, y contará como mínimo con los siguientes datos:
 
-l. Fondo, sección y serie;
+I. Fondo, sección y serie;
 
-ll. Volumen;
+II. Volumen;
 
-lll. Periodo;
+III. Periodo;
 
 IV. Signatura de instalación;
 
@@ -377,11 +379,11 @@ VI. Nombre y firma del responsable de la información.
 
 El inventario de documentos y expedientes deberá ser elaborado por los responsables de cada una de las áreas de archivo y coordinado por el responsable del Archivo General, inventario que contará como mínimo con los siguientes datos:
 
-l. Fechas de inicio y término del expediente;
+I. Fechas de inicio y término del expediente;
 
-ll. Lugar de emisión del expediente;
+II. Lugar de emisión del expediente;
 
-lll. Descripción breve del contenido de cada expediente;
+III. Descripción breve del contenido de cada expediente;
 
 IV. Dígitos del Cuadro General de Clasificación Archivística y denominación de la serie; y
 
@@ -395,11 +397,11 @@ De la Consulta y Préstamo del Acervo Documental.
 
 En el servicio de consulta y préstamo de los documentos y expedientes susceptibles de ello, que proporcionen los sujetos obligados, se observarán las siguientes reglas o medidas de seguridad:
 
-l.- Facilitar la consulta de los documentos y expedientes, estableciendo las áreas para tal fin, así como los mecanismos de vigilancia necesarios para garantizar la adecuada utilización, integridad y preservación de los documentos.
+I.- Facilitar la consulta de los documentos y expedientes, estableciendo las áreas para tal fin, así como los mecanismos de vigilancia necesarios para garantizar la adecuada utilización, integridad y preservación de los documentos.
 
-ll.- La consulta y préstamo de los documentos y expedientes activos y semiactivos, a los servidores públicos autorizados, deberá registrarse con los siguientes datos: signatura de instalación, descripción, nombre, firma y cargo del interesado, fechas de entrega y devolución; y (sic)
+II.- La consulta y préstamo de los documentos y expedientes activos y semiactivos, a los servidores públicos autorizados, deberá registrarse con los siguientes datos: signatura de instalación, descripción, nombre, firma y cargo del interesado, fechas de entrega y devolución; y (sic)
 
-lll.- La documentación histórica podrá ser consultada únicamente en las áreas que destine la Titularidad del Archivo Histórico.
+III.- La documentación histórica podrá ser consultada únicamente en las áreas que destine la Titularidad del Archivo Histórico.
 
 IV.- De acuerdo con el Artículo 54 de la Ley de Acceso a la Información Pública, serán causas de responsabilidad administrativa: Sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente, la información pública que se encuentre bajo su custodia, así como actuar con negligencia, dolo o mala fe.
 
@@ -429,11 +431,11 @@ Los inventarios de valor secundario autorizados por el Comité de Dictaminación
 
 El Comité de Dictaminación del Archivo General y de los Sujetos Obligados, estará integrado preferentemente por:
 
-l. Un Presidente, que será el Titular del Archivo General Municipal;
+I. Un Presidente, que será el Titular del Archivo General Municipal;
 
-ll. Un Licenciado en Derecho;
+II. Un Licenciado en Derecho;
 
-lll. Un Contador;
+III. Un Contador;
 
 IV. Un Historiador; y
 
@@ -447,11 +449,11 @@ Por cada uno de los integrantes se nombrará un suplente, que en el caso del Tit
 
 Los responsables de los Archivos de los sujetos obligados, deberán coordinar con el titular, las acciones de organización, conservación, descripción y difusión de los archivos de trámite, de concentración e histórico descritas a continuación:
 
-l. Elaborar los instrumentos de consulta y control referidos en el presente Reglamento, que propicien la organización, conservación y localización expedita de los documentos y expedientes que obran en los archivos de trámite;
+I. Elaborar los instrumentos de consulta y control referidos en el presente Reglamento, que propicien la organización, conservación y localización expedita de los documentos y expedientes que obran en los archivos de trámite;
 
-ll. Presentar anualmente un proyecto de presupuesto para el funcionamiento del Archivo del Sujeto Obligado, auxiliado por el área administrativa;
+II. Presentar anualmente un proyecto de presupuesto para el funcionamiento del Archivo del Sujeto Obligado, auxiliado por el área administrativa;
 
-lll. Colaborar para Expedir y actualizar los manuales de organización y de procedimientos en materia archivística;
+III. Colaborar para Expedir y actualizar los manuales de organización y de procedimientos en materia archivística;
 
 IV. Colaborar con el Comité de Dictaminación del Archivo General Municipal, coadyuvando a determinar el destino de los Documentos de Archivo;
 
@@ -478,3 +480,11 @@ PRESIDENTE MUNICIPAL.
 Profesor Everardo Bedolla López
 
 SECRETARIO DEL H. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2013.
+
+Artículo Uno. El presente Reglamento del Archivo General Municipal de Moroleón abroga el anterior Reglamento del Archivo General Municipal de Moroleón, Gto. Publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de enero de 2010.
+
+Artículo Dos. Este Reglamento iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
