@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-09-13"
+last_updated: "2013-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -8751,9 +8751,11 @@ Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición
 
 La herencia dejada a las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 1542.
 
-La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el Juez.
+La persona casada no necesita la autorización de su cónyuge para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia resolverá el juez.
 
 ###### ARTICULO 1543.
 
@@ -8851,11 +8853,11 @@ La aceptación en ningún caso produce confusión de los bienes del autor de la 
 
 ### CAPITULO IV. DE LOS ALBACEAS
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 1566.
 
-No podrá ser albacea el que no tenga la libre disposición de sus bienes.
-
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+No podrá ser albacea el que no tenga la libre disposición de sus bienes. En caso de nombramiento de albacea en mayor de edad, no se requiere autorización del cónyuge para la aceptación del cargo.
 
 ###### ARTICULO 1567.
 
@@ -16224,3 +16226,7 @@ Segundo.- Las adopciones realizadas, con anterioridad a la entrada en vigor del 
 Tercero.- La adopción simple podrá convertirse en plena siempre que se obtenga consentimiento del adoptado, si este ya hubiere cumplido 14 años. Si fuere persona menor de catorce años de edad, se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo, de lo contrario el Juez de lo Familiar, deberá resolver atendiendo al interés del adoptado y a la opinión que deberá emitir el Ministerio Público y de la Procuraduría para la Defensa de los Menores y la Familia, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 Cuarto.- Las solicitudes de adopción, en modalidad simple, que se encuentren en trámite a la entrada en vigor del presente decreto, deberán apegarse a las disposiciones vigentes antes de la derogación de esta forma de adopción.
+
+P.O. 20 DE SEPTIEMBRE DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
