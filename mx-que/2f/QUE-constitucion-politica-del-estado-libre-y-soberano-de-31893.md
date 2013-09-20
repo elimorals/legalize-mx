@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2013-07-19"
+last_updated: "2013-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -143,7 +143,17 @@ El Estado está obligado a implementar las políticas necesarias para hacer efec
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, de éste emana el Poder Público que se instituye exclusivamente para su beneficio; adopta para su régimen interior la forma de gobierno republicano, representativo, democrático y popular, teniendo como base de su organización política y administrativa el Municipio Libre.
 
-Los ciudadanos ejercerán sus derechos políticos electorales a través de los partidos políticos y mediante los procesos electorales. Los partidos políticos son entidades de interés público, cuyo fin es promover la participación ciudadana en la vida democrática del Estado.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+
+Los partidos políticos son entidades de interés público, cuyo fin es promover la participación ciudadana en la vida democrática del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+
+Los ciudadanos podrán ejercer sus derechos políticos electorales a través de los partidos políticos o por sí mismos y mediante los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+
+EI derecho de solicitar el registro de candidatos ante la autoridad electoral para todos los cargos de elección popular, corresponde a los partidos políticos así como a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
 
 La ley regulará las figuras de participación ciudadana.
 
@@ -1416,3 +1426,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero El Congreso del Estado de Querétaro deberá expedir la Ley reglamentaria del artículo 6 de la Constitución Política del Estado de Querétaro, en un plazo de noventa días contado a partir de la fecha de publicación de la presente Ley.
+
+P.O. 20 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
