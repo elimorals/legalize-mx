@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2013-02-15"
+last_updated: "2013-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -151,9 +151,11 @@ En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuid
 
 Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Desarrollo Económico del Gobierno del Estado, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas, las que deberán observar las unidades administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 9.
 
-En materia de adquisiciones, arrendamientos y servicios, los titulares de las dependencias y entidades observarán los criterios de modernización y desarrollo administrativo que establezca la unidad administrativa.
+En materia de adquisiciones, arrendamientos y servicios, los titulares de las dependencias y entidades observarán los criterios de modernización, desarrollo administrativo y sobre todo de austeridad y ahorro en el gasto público, que establezca la unidad administrativa.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
@@ -1140,3 +1142,9 @@ SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 90 días contados a
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
