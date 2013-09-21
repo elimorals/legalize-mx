@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2013-07-10"
+last_updated: "2013-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -92,6 +92,10 @@ Aquellas entidades que además de órgano de gobierno, coordinador general y ór
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
 
 Artículo 5 bis.- La Junta Central de Agua y Saneamiento del Estado y sus organismos operadores se regirán por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2013)</small>
+
+El Colegio de Bachilleres del Estado de Chihuahua se regirá por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
 ###### Artículo 6º.
 
@@ -880,3 +884,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
+
+P.O. 21 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto No. 652-85, de fecha 17 de diciembre de 1985, publicado en el Periódico Oficial del Estado de fecha 25 de diciembre de ese mismo año, por medio del cual se determinó la creación del "Colegio de Bachilleres del Estado de Chihuahua", por lo que todas las funciones, facultades, derechos y obligaciones establecidos en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias o entidades de la Federación o de los municipios, así como con cualquier persona física o moral, subsisten en todos sus términos en cuanto no se opongan a las disposiciones de la Ley Orgánica del Colegio de Bachilleres del Estado (sic) Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+El Director General y los Directores de Plantel que actualmente se encuentran en funciones, cumplirán con el período de gestión por el que fueron nombrados hasta el año 2014, sin perjuicio de la posibilidad de ser reelectos por una sola ocasión, o de su remoción previa determinada libremente por parte del Ejecutivo Estatal, en el caso del primero, o por la Junta de Gobierno, en el caso de los segundos.
+
+Los demás servidores públicos previstos en el artículo 20 de la Ley, continuarán igualmente en el ejercicio de sus cargos, sin perjuicio del ejercicio de la atribución de remoción por parte de la Junta de Gobierno establecida en la fracción VII, del artículo 12 de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor de la Ley, el Presidente de la Junta de Gobierno gestionará, convocará y realizará los actos conducentes, a fin de ajustar la integración de la Junta de Gobierno a la nueva composición prevista en el artículo 11 de la Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se reconoce la continuidad, así como todas las gestiones realizadas por el Patronato del Colegio de Bachilleres de Chihuahua, A.C., relacionadas con el objeto de la presente Ley, siempre que las mismas se hayan llevado a cabo conforme a derecho y en apego a las disposiciones del Decreto No. 652-85.
+
+###### ARTÍCULO SEXTO.
+
+El personal, empleados o servidores públicos, sea cual fuere su categoría en las distintas unidades administrativas, áreas o instancias del Colegio de Bachilleres del Estado de Chihuahua, continuarán gozando de condiciones laborales, salariales y prestacionales iguales a las que guardaban antes de la entrada en vigor de la nueva Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
