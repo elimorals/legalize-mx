@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-comision-estatal-de-derechos-41472"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-19"
-last_updated: "2013-09-19"
+last_updated: "2013-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE SEPTIEMBRE DE 2013 NO APLICA AL ARTICULADO DE LA REFORMA PUBLICADA EN EL P.O. DE 19 DE SEPTIEMBRE DE 2013.</small>
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 19 de octubre de 2004.
 
