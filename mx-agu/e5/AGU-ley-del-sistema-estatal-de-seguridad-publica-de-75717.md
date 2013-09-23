@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2013-03-25"
+last_updated: "2013-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -93,13 +93,21 @@ X. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procu
 
 XI. Instituciones Policiales: A los cuerpos de Policía, de seguridad y custodia del Sistema Penitenciario Estatal y del Centro Estatal de Desarrollo del Adolescente, de detención preventiva, o centros de arraigo, y en general, todas las dependencias encargadas de la seguridad pública que realicen funciones similares. La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta Ley, sin que ello demerite sus funciones y su sujeción a la potestad y vigilancia del Ministerio Público; y las demás que se constituyan con estricto apego a la Ley;
 
-XII. Procuraduría: A la Procuraduría General de Justicia del Estado;
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
-XIII. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
+XII. Mando Único: La política pública consistente en el conjunto de órdenes y lineamientos a través de los cuales se regulará la actuación conjunta y coordinada de los elementos operativos de las Instituciones Policiales encargadas de la función de Seguridad Pública del Estado y los Municipios del mismo, a través de una sola instancia rectora, la cual estará a cargo del titular de la Secretaría de Seguridad Pública del Estado.
 
-XIV. Secretaría: A la Secretaría de Seguridad Pública del Estado; y
+El Mando Único que ejerza la Secretaría se entenderá única y exclusivamente respecto a funciones que en materia operativa se ejecuten, no así acerca de ninguna otra materia.
 
-XV. Sistema: Al Sistema Estatal de Seguridad Pública.
+El Mando Único no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en el Código Municipal de Aguascalientes;
+
+XIII. Procuraduría: A la Procuraduría General de Justicia del Estado;
+
+XIV. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
+
+XV. Secretaría: A la Secretaría de Seguridad Pública del Estado; y
+
+XVI. Sistema: Al Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 6º.
 
@@ -133,9 +141,25 @@ XI. Determinar la participación de la comunidad y de instituciones académicas 
 
 XII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
-XIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
-XIV. Realizar las acciones necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+XIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Realizar las acciones necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XV. Ejecutar los acuerdos del Consejo de manera inmediata, cuando se trate de implementar la política pública de Mando Único en el ámbito de su competencia territorial;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XVI. Reforzar las acciones de prevención y reacción permanentes mediante operativos conjuntos optimizando recursos humanos materiales mediante la coordinación de las fuerzas del orden público del Estado y los municipios; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XVII. Homologar procesos, procedimientos, protocolos de actuación, vehículos, equipamiento, armamento y calibres, sistemas de comunicación, así como uniformes respecto a los utilizados por la Secretaría.
 
 ###### Artículo 8º.
 
@@ -277,9 +301,17 @@ XX. Promover políticas de coordinación y colaboración con el Poder Judicial d
 
 XXI. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que asigna a cada instancia la Ley General del Sistema Nacional de Seguridad Pública y esta Ley;
 
-XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
-XXIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
+XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII. Establecer como política pública específica, el Mando Único, respetando en todo momento lo preceptuado en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables en la materia; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XXIV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
 ###### Artículo 15.
 
@@ -452,6 +484,10 @@ Esta misma facultad podrá ejercerla cuando exista manifiesta imposibilidad de a
 ###### Artículo 34.
 
 Para efectos de los operativos que deban implementarse de manera conjunta entre las Instituciones Policiales, el titular de la Secretaría tendrá a su cargo la coordinación en la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+También tendrá la facultad de nombrar a los Directores y Subdirectores de cada Institución Policial que conforme al Mando Único para lograr una efectiva operatividad.
 
 ###### Artículo 35.
 
@@ -1736,3 +1772,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El personal y el presupuesto con el que actualmente cuenta y opera el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública se transfieren desde este momento a la Secretaría de Gobierno del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
