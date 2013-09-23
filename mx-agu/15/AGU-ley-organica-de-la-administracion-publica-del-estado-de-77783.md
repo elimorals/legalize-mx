@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2013-06-10"
+last_updated: "2013-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -501,9 +501,37 @@ XXXVI. Tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto
 
 XXXVII. Supervisar los trabajos del Centro de Control y Evaluación de la Actividad Policial, cuyos dictámenes se turnarán a las Dependencias competentes para el análisis y sanción que corresponda, según el caso;
 
-XXXVIII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
-XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XXXVIII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XXXIX. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XL.- Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XLI.- Promover y apoyar el incremento de la calidad y la productividad;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XLII.- Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XLIII.- Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XLIV.- Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XLV.- Ejercer las atribuciones y facultades que les señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Seguridad Pública
 
@@ -769,7 +797,7 @@ XXIV. Fomentar la generación y promoción de proyectos, así como los servicios
 
 XXV. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados, para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
 
-XXVI. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de asistencia técnica y capacitación orientados al incremento de la calidad y productividad de las empresas;
+XXVI.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2013)
 
 XXVII. Coadyuvar en el desarrollo de proyectos y programas que permitan consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, y el fomento y promoción del empleo;
 
@@ -1798,3 +1826,13 @@ Las referencias al instituto de la Juventud del Estado de Aguascalientes que hag
 ###### ARTÍCULO OCTAVO.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La incorporación de la Dirección General del Servicio Nacional de Empleo en Aguascalientes, se hará a la Secretaría de Gobierno en un plazo no mayor a 30 días contados a partir de la entrada en vigencia del presente Decreto, para lo cual participará la Oficialía Mayor, la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de su competencia.
