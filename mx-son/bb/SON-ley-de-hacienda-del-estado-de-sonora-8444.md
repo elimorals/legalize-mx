@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2013-09-02"
+last_updated: "2013-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE SEPTIEMBRE DE 2013.
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2013, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 2 DE SEPTIEMBRE DE 2013.</small>
 
@@ -1995,7 +1995,7 @@ a) El que se enajena por primera vez al consumidor por el fabricante, ensamblado
 
 b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de esta Sección, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
 
-Il.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivarlos de créditos otorgados para la adquisición del mismo.
 
@@ -2245,13 +2245,11 @@ G 9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
 G 10.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 212
 
-G 11.- Los contribuyentes pagarán el impuesto por año de calendario durante los seis primeros meses ante las oficinas autorizadas por la Secretaría de Hacienda, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse dentro de los quince días hábiles siguientes al de su enajenación o importación. El pago del impuesto a que se refiere esta Sección se comprobará de conformidad con las disposiciones del Código Fiscal del Estado.
+G 11.- Los contribuyentes pagarán el impuesto por año de calendario antes del 31 de diciembre del año respectivo, ante las oficinas autorizadas por la Secretaría de Hacienda. El pago del impuesto a que se refiere esta Sección se comprobará de conformidad con las disposiciones del Código Fiscal del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2419,7 +2417,7 @@ Es objeto de este impuesto las actividades de prestación de servicios consisten
 
 Quedan comprendidos en los juegos con apuestas, aquellos en los que solo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervengan directa e indirectamente el azar.
 
-Se considera dentro del concepto de premio a que se refiere el párrafo primero de este artículo, los premios que previo un tiempo de juego, provengan de máquinas tragamonedas, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico o trasferencia electrónica emitida desde cuentas bancarias o·en vales canjeables por dinero en efectivo o bienes muebles.
+Se considera dentro del concepto de premio a que se refiere el párrafo primero de este artículo, los premios que previo un tiempo de juego, provengan de máquinas tragamonedas, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico o trasferencia electrónica emitida desde cuentas bancarias o en vales canjeables por dinero en efectivo o bienes muebles.
 
 Las máquinas a que se refiere el párrafo anterior incluyen, de manera enunciativa más no limitativa, las siguientes:
 
@@ -2505,7 +2503,7 @@ M BIS 1.- Será base de este Impuesto:
 
 I.- En los de juegos con apuestas, el monto total de las apuestas, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
-Il.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+II.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
 III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
@@ -3769,7 +3767,7 @@ La cuota de derechos por el servicio ordinario de expedición de actas del Regis
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 Tratándose de las cuotas de los derechos por los servicios prestados por la Comisión Estatal de Bienes y Concesiones a que se refiere el artículo 326 fracción VIII de esta Ley, únicamente se actualizarán en el mes de enero de cada año de conformidad con el tercer párrafo del presente artículo.
 
@@ -3793,7 +3791,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
@@ -3813,13 +3811,13 @@ b).- Agencia distribuidora. $300,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 c).- Expendio. $495,596.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 d).- Cantina. $330.399.00
 
@@ -3835,7 +3833,7 @@ i).- Tienda de abarrotes. $200,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 j).- Centro nocturno. $495,596.00
 
@@ -3851,13 +3849,13 @@ n).- Porteadora. $30,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 o).- Billar o boliche. $263,049.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 p).- Centro nocturno con espectáculos de baile
 
@@ -3867,7 +3865,7 @@ de edad. $495,596.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 q).- Establecimiento de prestación de servicios de
 
@@ -3891,13 +3889,13 @@ c).- Agencia distribuidora. $45,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 d).- Expendio. $43,814.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 e).- Cantina. $21,907.00
 
@@ -3907,7 +3905,7 @@ f (sic).- Restaurante con bar anexo. $8,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 g).- Tienda de autoservicio. $27,123.00
 
@@ -3917,7 +3915,7 @@ i).- Tienda de abarrotes. $5,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 j). Centro nocturno. $56,333.00
 
@@ -3931,13 +3929,13 @@ n).- Porteadora. $3,750.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ñ).- Billar o boliche. $16,196.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 o).- Centro nocturno con espectáculos de
 
@@ -3947,7 +3945,7 @@ mayores de edad. $65,722.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 p).- Establecimiento de prestación de
 
@@ -3963,7 +3961,7 @@ IV.- Por cada certificación expedida por la Dirección General de Bebidas Alcoh
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 Las copias certificadas de las licencias a que se refiere la fracción I del presente artículo, tendrán validez dentro del ejercicio fiscal en el cual se expidan.
 
@@ -4017,13 +4015,13 @@ será de: $6,000.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 b).- Por reposición de la licencia o permiso. $ 2,408.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 c).- Por cambio de nombre del establecimiento
 
@@ -4049,7 +4047,7 @@ La expedición de estos permisos provisionales causará derechos por cada mes o 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
 
 VIII.- Por él canje de licencias, en el año fiscal que corresponda:
 
@@ -4097,7 +4095,7 @@ servicios de juegos con apuestas. $68,569.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 Cuando se realice el canje de la licencia correspondiente, no se cobrarán los derechos de revalidación contenida en la fracción II de este artículo.
 
@@ -4507,9 +4505,7 @@ VII.- Por suscripción anual por correo dentro del país. N$ 1,300.00
 
 VIII.- Por Boletín Oficial que se adquiera en fecha Posterior a su publicación hasta una antigüedad de 30 años. $37.00
 
-Tratándose de publicaciones de convenios autorización de fraccionamientos
-
-habitacionales se aplicará la cuota correspondiente reducida en un 75%.
+Tratándose de publicaciones de convenios autorización de fraccionamientos habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -4740,6 +4736,8 @@ l.- Por expedición o canje $386.00
 dentro del término establecido en la
 
 presente Ley se pagara: $236.00
+
+l
 
 Por la revalidación extemporánea se pagará un adicional sobre el gravamen anual, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
 
@@ -7560,3 +7558,11 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 23 DE SEPTIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 47, QUE REFORMA EL ARTÍCULO 212-G 11 DE LA LEY DE HACIENDA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
