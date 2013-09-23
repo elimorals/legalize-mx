@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2012-10-29"
+last_updated: "2013-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE OCTUBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 145 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -217,11 +215,11 @@ DEL REGISTRO CIVIL.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 32.
 
-El Registro Civil es la institución de carácter público y de interés social, por medio de la cual el Estado inscribe, autoriza, certifica y da publicidad a los actos constitutivos o modificativos del estado civil de las personas.
+El Registro Civil es la institución de carácter público y de interés social, por medio de la cual el Estado inscribe, autoriza, certifica y da publicidad a los actos constitutivos o modificativos del estado civil de las personas, en archivos físicos y electrónicos, autorizados con firma autógrafa o con la firma electrónica certificada, utilizando los medios electrónicos autorizados al efecto y las formas únicas aprobadas por el Registro Nacional de Población e Identificación Personal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -241,17 +239,17 @@ II.- El Archivo Estatal; y
 
 III.- Las Oficialías que se determinen en el Reglamento interno respectivo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 35.
 
-La titularidad de las Oficialías del Registro Civil estarán a cargo de los Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
+La titularidad de las Oficialías del Registro Civil estará a cargo de los Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 36.
 
-En el asentamiento o registro de los actos del Registro Civil intervendrán: el Oficial del Registro Civil que los autoriza y les otorga fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlos en el espacio correspondiente que para cada uno de ellos se especifique, al igual que las demás personas que se indiquen en tal documentación; asimismo, se imprimirá en ellas el sello autorizado de la Oficialía.
+En el asentamiento o registro de los actos del Registro Civil intervendrán: el Oficial del Registro Civil que los autoriza con firma autógrafa o con la firma electrónica certificada y les otorga fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlos en el espacio correspondiente que para cada uno de ellos se especifique, al igual que las demás personas que se indiquen en tal documentación; asimismo, se imprimirá en ellas el sello autorizado de la Oficialía. En materia de actos del estado civil, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Tales actos podrán hacerse constar mediante mensajes de datos con firma electrónica certificada.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -259,11 +257,13 @@ En el asentamiento o registro de los actos del Registro Civil intervendrán: el 
 
 Los registros que se realicen se referirán exclusivamente a los actos concernientes al estado civil de las personas y harán constar el principio y extensión de su vida jurídica, acreditarán las relaciones de parentesco, matrimonio y las que deriven de actos judiciales y administrativos relativos al estado civil. Tales registros se asentarán en las formas especiales elaboradas y autorizadas previamente para cada caso que se denominarán "Formas del Registro Civil", y en la base de datos del registro informático, según el sistema adoptado y autorizado por el Reglamento interno correspondiente. La infracción a esta disposición producirá la nulidad de los registos (sic). Deberán contener la clave única de registro de población o en su defecto, su transcripción. Los formatos, una vez utilizados, se encuadernarán en volúmenes hasta de doscientas fojas, correspondientes al año a que se refieran.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 38.
 
-Los registros se harán mediante los sistemas informáticos autorizados y se imprimirán por quintuplicado, en los siguientes formatos: Nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, inscripción de las sentencias, ejecutorias que declaren ausencia, la presunción de muerte o la pérdida o limitación de capacidad legal para administrar bienes.
+Los registros se podrán asentar en forma física o electrónica, mediante los sistemas informáticos autorizados, en formatos por triplicado que serán: de nacimiento, de reconocimiento de hijos, de adopción, de tutela, de matrimonio, de divorcio, de defunción, de inscripción de las sentencias ejecutorias que declaren ausencia o presunción de muerte o la pérdida o limitación de la capacidad para administrar bienes.
+
+Los registros realizados en forma electrónica deberán ser autorizados con la firma electrónica certificada del funcionario. La firma electrónica de los funcionarios deberá ser certificada por la autoridad certificadora, dependiente de la Secretaría de Gobierno del Ejecutivo Estatal, en la forma y tiempo en que lo señale la Ley sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -271,13 +271,17 @@ Los registros se harán mediante los sistemas informáticos autorizados y se imp
 
 Si se altera, pierde o se destruye la base de datos del Registro Civil, se utilizarán los respaldos correspondientes para reposición o bien se consultarán las impresiones de los registros en custodia del Director u Oficial del Registro Civil. Tales funcionarios tendrán la obligación de dar aviso al Ministerio Público de la adscripción de dicha pérdida o destrucción para los efectos legales correspondientes.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 40.
 
-Los formatos de Registro Civil serán expedidos por el Director General del Registro Civil y deberán tener un número secuencial, que se iniciará el primer día del año y terminará el último día, expresando el año a que se refiera. Los Oficiales del Registro Civil remitirán un ejemplar de ellos al Archivo Estatal de la Dirección del Registro Civil; otro a la Dirección General del Registro Nacional de Población Identificación Personal de la Secretaría de Gobernación; otro al Instituto Nacional de Estadística, Geografía e Informática; un ejemplar al interesado; y otro quedará en el archivo de la Oficialía.
+Los formatos de Registro Civil serán expedidos por el Director General del Registro Civil y deberán tener un número secuencial, que se iniciará el primer día del año y terminará el último día, expresando el año a que se refiera. Los Oficiales del Registro Civil remitirán un ejemplar de ellos al Archivo Estatal de la Dirección del Registro Civil; un ejemplar al interesado; y otro quedará en el archivo de la Oficialía.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 Los datos contenidos en los formatos podrán remitirse a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y al Instituto Nacional de Estadística, Geografía e informática, a través de medios magnéticos, si así se conviniese legalmente.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 La Dirección General del Registro Civil podrá realizar convenios con el Registro Nacional de Población, en los que se establezcan las normas y criterios legales, para convalidar recíprocamente la información que se derive del estado civil de las personas, a fin de otorgarle plena validez y seguridad jurídica, cuando aquella se obtenga de la utilización de instrumentos y mecanismos técnicos automatizados.
 
@@ -9607,25 +9611,35 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 CONSENTIMIENTO.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 1684.
 
-El consentimiento existe cuando las partes convienen en un mismo objeto y unas mismas condiciones. Puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento existe cuando las partes convienen en un mismo objeto y unas mismas condiciones. Puede ser expreso o tácito, para ello se estará a lo siguiente:
+
+I. Será expreso cuando la voluntad se manifiesta verbalmente, por escrito, por medios electrónicos, ópticos, magnéticos o por cualquier otra tecnología, o por signos inequívocos; y
+
+II. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
 
 ###### Artículo 1685.
 
 Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 1686.
 
-Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono o a través de cualquier otro medio electrónico, óptico, magnético o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
 ###### Artículo 1687.
 
 Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 1688.
 
-La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se retire la aceptación.
+El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los Artículos precedentes. La oferta se considerara como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que retire la aceptación.
 
 ###### Artículo 1689.
 
@@ -9635,9 +9649,181 @@ Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el acept
 
 El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 1691.
 
-La propuesta y aceptación hechas por telégrafo o radiograma, se equiparan a las hechas por correo, siempre que los originales tengan las firmas de los contratantes o en cualquier otra forma se pruebe su autenticidad.
+La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
+Tratándose de la propuesta y aceptación hechas a través de medios electrónicos, ópticos, magnéticos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzca efectos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+CONTRATACIÓN POR MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-A.
+
+Las disposiciones siguientes, se someterán en su interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad y equivalencia funcional del mensaje de datos en relación con la información documentada en medios no electrónicos y de la firma electrónica avanzada o fiable en relación con la firma autógrafa.
+
+En los contratos civiles podrán emplearse los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Para efecto del presente Código, se deberán tomar en cuenta las siguientes definiciones:
+
+I. Certificado: Todo Mensaje de Datos u otro registro que confirme el vínculo entre un Firmante y los datos de creación de Firma Electrónica.
+
+II. Datos de Creación de Firma Electrónica: Son los datos únicos, como códigos o claves criptográficas privadas, que el Firmante genera de manera secreta y utiliza para crear su Firma Electrónica, a fin de lograr el vínculo entre dicha Firma Electrónica y el Firmante.
+
+III. Destinatario: La persona designada por el Emisor para recibir el Mensaje de Datos, pero que no esté actuando a título de Intermediario con respecto a dicho Mensaje.
+
+IV. Emisor: Toda persona que, al tenor del Mensaje de Datos, haya actuado a nombre propio o en cuyo nombre se haya enviado o generado ese mensaje antes de ser archivado, si éste es el caso, pero que no haya actuado a título de Intermediario.
+
+V. Firma Electrónica: Los datos en forma electrónica consignados en un Mensaje de Datos, o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos, y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio.
+
+VI. Firma Electrónica Avanzada o Fiable: Aquella Firma Electrónica que cumpla con los requisitos contemplados en las Fracciones I a IV del Artículo 1706-C del presente Código.
+
+En aquellas disposiciones que se refieran a Firma Digital, se considerará a ésta como una especie de la Firma Electrónica.
+
+VII. Firmante: La persona que posee los datos de la creación de la firma y que actúa en nombre propio o de la persona a la que representa.
+
+VIII. Intermediario: En relación con un determinado Mensaje de Datos, se entenderá toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho Mensaje o preste algún otro servicio con respecto a él.
+
+IX. Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología.
+
+X. Parte que Confía: La persona que, siendo o no el Destinatario, actúa sobre la base de un Certificado o de una Firma Electrónica.
+
+XI. Prestador de Servicios de Certificación: La persona o institución pública que preste servicios relacionados con Firmas Electrónicas y que expide los Certificados, en su caso.
+
+XII. Principio de Autonomía de la Voluntad: Consiste en que los contratantes pueden crear libremente todas las relaciones jurídicas que entre ellos consideren pertinentes, siempre y cuando no sean contrarias a las leyes prohibitivas o de interés público.
+
+XIII. Principio de Equivalencia Funcional del Mensaje de Datos en Relación con la Información Documentada en Medios no Electrónicos y de la Firma Electrónica en Relación con la Firma Autógrafa: Consiste en que ambos sistemas deben tener la misma validez en las mismas circunstancias.
+
+XIV. Principio de Neutralidad Tecnológica: Consiste en que no puede obligarse a los contratantes a cumplir el contrato empleando medios tecnológicos específicos o de reciente innovación.
+
+XV. Sistema de Información: Se entenderá todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna otra forma Mensajes de Datos.
+
+XVI. Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el Certificado.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-B.
+
+No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un mensaje de datos.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-C.
+
+Se presumirá que un mensaje de datos proviene del emisor si ha sido enviado:
+
+I. Por el propio emisor;
+
+II. Usando medios de identificación, tales como claves o contraseñas del emisor o por alguna persona facultada para actuar en nombre del emisor respecto a ese mensaje de datos; o
+
+III. Por un sistema de información programado por el emisor o en su nombre para que opere automáticamente.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-D.
+
+Se presume que un Mensaje de Datos ha sido enviado por el Emisor y, por lo tanto, el Destinatario o la Parte que Confía, en su caso, podrá actuar en consecuencia, cuando:
+
+I. Haya aplicado en forma adecuada el procedimiento acordado previamente con el emisor, con el fin de establecer que el mensaje de datos provenía efectivamente de éste;
+
+II. El mensaje de datos que reciba el destinatario o la parte que confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el emisor para identificar un mensaje de datos como propio.
+
+Lo dispuesto en el presente Artículo no se aplicará:
+
+I. A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; o
+
+II. A partir del momento en que el destinatario o la parte que confía, tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el mensaje de datos no provenía del emisor.
+
+Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-E.
+
+Salvo pacto en contrario entre el emisor y el destinatario, el momento de recepción de un mensaje de datos se determinará como sigue:
+
+I. Si el destinatario ha designado un sistema de información para la recepción de mensajes de datos, ésta tendrá lugar en el momento en que ingrese en dicho Sistema de Información;
+
+II. De enviarse el mensaje de datos a un sistema de información del destinatario que no sea el sistema de Información designado, o de no haber un sistema de información designado, en el momento en que el Destinatario recupere el mensaje de datos; o
+
+III. Si el destinatario no ha designado un sistema de información, la recepción tendrá lugar cuando el mensaje de datos ingrese a un sistema de información del destinatario.
+
+Lo dispuesto en este Artículo será aplicable aun cuando el sistema de información esté ubicado en un lugar distinto de donde se tenga por recibido el mensaje de datos conforme al Artículo 1691-J.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-F.
+
+Salvo pacto en contrario entre el emisor y el destinatario, el mensaje de datos se tendrá por expedido cuando ingrese en un sistema de información que no esté bajo el control del emisor o del intermediario.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-G.
+
+En lo referente a acuse de recibo de mensajes de datos, se estará a lo siguiente:
+
+I. Si al enviar o antes de enviar un mensaje de datos, el emisor solicita o acuerda con el destinatario que se acuse recibo del mensaje de datos, pero no se ha acordado entre éstos una forma o método determinado para efectuarlo, se podrá acusar recibo mediante:
+
+a) Toda comunicación del destinatario, automatizada o no; o
+
+b) Todo acto del destinatario, que baste para indicar al emisor que se ha recibido el mensaje de datos.
+
+II. Cuando el emisor haya indicado que los efectos del mensaje de datos estarán condicionados a la recepción de un acuse de recibo, se considerará que el mensaje de datos no ha sido enviado en tanto que no se haya recibido el acuse de recibo en el plazo fijado por el emisor o dentro de un plazo razonable atendiendo a la naturaleza del negocio, a partir del momento del envío del mensaje de datos;
+
+III. Cuando el emisor haya solicitado o acordado con el destinatario que se acuse recibo del mensaje de datos, independientemente de la forma o método determinado para efectuarlo, salvo que:
+
+a) El emisor no haya indicado expresamente que los efectos del mensaje de datos estén condicionados a la recepción del acuse de recibo; o
+
+b) No se haya recibido el acuse de recibo en el plazo solicitado o acordado o, en su defecto, dentro de un plazo razonable atendiendo a la naturaleza del negocio.
+
+El emisor podrá dar aviso al destinatario de que no ha recibido el acuse de recibo solicitado o acordado y fijar un nuevo plazo razonable para su recepción, contado a partir del momento de este aviso. Cuando el emisor reciba acuse de recibo del destinatario, se presumirá que éste ha recibido el mensaje de datos correspondiente; o
+
+IV. Cuando en el acuse de recibo se indique que el mensaje de datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-H.
+
+Cuando la ley exija la forma escrita para los actos, convenios o contratos, este supuesto se tendrá por cumplido tratándose de Mensaje de Datos, siempre que la información en él contenida se mantenga íntegra y sea accesible para su ulterior consulta, sin importar el formato en el que se encuentre o represente.
+
+Cuando adicionalmente la ley exija la firma de las partes, dicho requisito se tendrá por cumplido tratándose de Mensaje de Datos, siempre que éste sea atribuible a dichas partes.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán, a través de Mensajes de Datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el fedatario público deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuyen dichos mensajes a las partes y conservar bajo su resguardo una versión íntegra de los mismos para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-I.
+
+Cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un mensaje de datos:
+
+I. Si existe garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como mensaje de datos o en alguna otra forma;
+
+II. De requerirse que la información sea presentada, si dicha información puede ser mostrada a la persona a la que se deba presentar.
+
+Para efectos de este Artículo, se considerará que el contenido de un mensaje de datos es íntegro, si éste ha permanecido completo e inalterado independientemente de los cambios que hubiere podido sufrir el medio que lo contiene, resultado del proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido será determinado conforme a los fines para los que se generó la información y de todas las circunstancias relevantes del caso.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-J.
+
+Salvo pacto en contrario entre el emisor y el destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el emisor tenga su residencia habitual y por recibido en el lugar donde el destinatario tenga el suyo.
+
+Para los fines del presente Artículo:
+
+I. Si el emisor o el destinatario, tratándose de personas morales, tienen sucursales en lugares distintos de su casa matriz, se considerará aquella que guarde una relación más estrecha con la operación subyacente; de no haber una operación subyacente, se tendrá como su domicilio el de su casa matriz;
+
+II. Si el emisor o el destinatario, tratándose de personas físicas no tienen residencia habitual, se tendrá como su domicilio el lugar de su simple residencia.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1691-K.
+
+Conforme al Artículo 1691-C, siempre que se entienda que el mensaje de datos proviene del emisor, o que el destinatario tenga derecho a actuar con arreglo a este supuesto, dicho destinatario tendrá derecho a considerar que el mensaje de datos recibido corresponde al que quería enviar el iniciador, y podrá proceder en consecuencia. El destinatario no gozará de este derecho si sabía, o hubiera sabido de haber actuado con la debida diligencia o de haber aplicado algún método previamente acordado, que la transmisión había dado lugar a un error en el mensaje de datos recibido.
+
+Se presume que cada mensaje de datos recibido es un mensaje de datos diferente, salvo que el destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo mensaje de datos era un duplicado.
 
 VICIOS DEL CONSENTIMIENTO.
 
@@ -9700,6 +9886,66 @@ No es lícito renunciar para lo futuro la nulidad que resulte del dolo, de la ma
 ###### Artículo 1706.
 
 Si habiendo cesado la violencia o siendo conocidos el dolo, la mala fe o el error por quien lo sufrió se ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+DE LAS FIRMAS.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1706-A.
+
+Las disposiciones del presente Código serán aplicadas de modo que no excluyan, restrinjan o priven de efecto jurídico cualquier método para crear una firma electrónica.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1706-B.
+
+Cuando la ley requiera o las partes acuerden la existencia de una firma en relación con un mensaje de datos, se entenderá satisfecho dicho requerimiento si se utiliza una firma electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese mensaje de datos.
+
+Cuando se trate de actos jurídicos que deban otorgarse ante fedatario público, se requerirá de la firma electrónica avanzada o fiable.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1706-C.
+
+La Firma Electrónica se considerará Avanzada o Fiable si cumple los siguientes requisitos:
+
+I. Que los Datos de Creación de la Firma, en el contexto en que son utilizados, correspondan exclusivamente al Firmante;
+
+II. Que los Datos de Creación de la Firma hubieran estado, bajo el control exclusivo del Firmante, en el momento del acto de creación de la misma;
+
+III. Que sea posible detectar cualquier alteración de la Firma Electrónica, hecha después del momento de creación de la misma;
+
+IV. Que respecto a la integridad de la información de un Mensaje de Datos, sea posible detectar cualquier alteración de ésta, hecha después del momento de creación de la misma.
+
+Lo dispuesto en el presente Artículo se entenderá sin perjuicio de la posibilidad de que cualquier persona demuestre de cualquier otra manera la fiabilidad de una Firma Electrónica o presente pruebas de que una Firma Electrónica no es fiable.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1706-D.
+
+Los Prestadores de Servicios de Certificación determinarán y harán del conocimiento de los usuarios si las Firmas Electrónicas Avanzadas o Fiables que les ofrecen cumplen o no los requerimientos dispuestos en las Fracciones I a IV del Artículo 1706-C.
+
+La determinación que se haga, con arreglo al párrafo anterior, deberá ser compatible con las normas y criterios internacionales reconocidos.
+
+Lo dispuesto en el presente Artículo se entenderá sin perjuicio de la aplicación de las normas del derecho internacional privado.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 1706-E.
+
+El firmante deberá:
+
+I. Cumplir las obligaciones derivadas del uso de la firma electrónica;
+
+II. Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los datos de creación de la firma;
+
+III. Cuando se emplee un certificado en relación con una firma electrónica, actuar con diligencia razonable para cerciorarse de que todas las declaraciones que haya hecho en relación con el certificado, con su vigencia, o que hayan sido consignadas en el mismo, son exactas.
+
+IV. El firmante será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente las obligaciones previstas en el presente Artículo; y
+
+V. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el destinatario conociere de la inseguridad de la firma electrónica o no hubiere actuado con la debida diligencia.
 
 DEL OBJETO Y CAUSA DE LOS CONTRATOS.
 
@@ -15801,6 +16047,42 @@ DE LAS OFICINAS DEL REGISTRO.
 
 El Registro Público de la Propiedad y del Comercio es una Dependencia del Poder Ejecutivo del Estado, que tiene por objeto proporcionar el servicio de dar publicidad a los actos jurídicos debidamente inscritos en el mismo y que precisen conforme a la Ley de ese requisito para surtir efectos contra terceros. El funcionamiento del Registro Público de la Propiedad y del Comercio se regirá por lo dispuesto en el presente Título y por las disposiciones del Reglamento relativo. Habrá oficinas del Registro Público en la Capital del Estado y en los lugares que determine el Gobernador Constitucional del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 2873-A.
+
+En materia registral, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Las solicitudes de inscripción, de expedición de constancias, certificados, copias, así como las anotaciones o inscripciones, cancelaciones, rectificación o modificación de asientos y cualquier otro acto registral podrán hacerse constar mediante mensajes de datos con firma electrónica avanzada o fiable.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 2873-B.
+
+El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, ya sea de forma física o vía electrónica, que se enteren de los asientos que obren en los folios físicos o electrónicos del Registro Público y de los documentos relacionados con las inscripciones que estén archivados física o electrónicamente. También tienen la obligación de expedir copias certificadas, con la firma autógrafa o con la firma electrónica avanzada o fiable, de las inscripciones o constancias que figuren en los folios físicos o electrónicos del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 2873-C.
+
+El Reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 2873-D.
+
+El encargado y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar cuando:
+
+I. Rehúsen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso, en cualquiera de sus formas, ya sea física o electrónicamente, a que se refiere el Artículo 2905;
+
+II. Practiquen algún asiento indebidamente o rehúsen practicarlo en su forma física y electrónica sin motivo fundado;
+
+III. Retarden, sin causa justificada, la práctica del asiento, física y electrónicamente, a que dé lugar el documento inscribible;
+
+IV. Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los documentos o informes que expidan vía física o electrónica; y
+
+V. No expidan los certificados físicos o electrónicos en el término reglamentario.
+
+Las sentencias firmes que resulten en aplicación del Artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
+
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2874.
@@ -15863,7 +16145,9 @@ XII.- Las resoluciones judiciales en que se declare un concurso o se admita una 
 
 XIII.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas de acuerdo con lo que dispone el Código de Procedimientos Civiles;
 
-XIV.- Las resoluciones judiciales en que se admita una demanda cuyos efectos, en caso de prosperar, alteren la situación de bienes o derechos cuya inscripción sea indispensable en el Registro;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+XIV.- Las resoluciones judiciales en que se admita una demanda cuyos efectos, en caso de prosperar, alteren la situación de bienes o derechos que se encuentran inscritos en el Registro; así como los embargos de todo tipo que recaigan sobre tales bienes o derechos.
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
@@ -15873,23 +16157,33 @@ XVI.- Los demás títulos que la ley ordena expresamente que sean registrados.
 
 Los jueces en los casos en que sus resoluciones deban registrarse, darán los avisos a que se refiere el artículo 2891 comprendiendo en ellos los datos necesarios para fijar el carácter de litigioso que desde ese momento corresponde a los bienes en cuestión y la naturaleza y alcance del litigio entablado.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2877.
 
 Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+La inscripción de los actos o contratos, que se haga en cualquiera de sus formas, física o electrónicamente en el Registro Público, tendrá efectos meramente declarativos, salvo aquellos casos que la ley determine expresamente otra cosa.
 
-La inscripción de los títulos y documentos en el Registro Público tiene efectos meramente declarativos, salvo aquellos casos que la ley determine expresamente otra cosa.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 2878.
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en otra entidad federativa o en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro;
+I. Si los actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público;
 
-II.- Que están debidamente legalizados;
+II. Si los documentos apareciesen redactados en idioma extranjero deberán ser previamente traducidos por perito oficial y protocolizados ante Notario;
 
-III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial nacional que corresponda.
+III. Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro;
+
+IV. Las sentencias dictadas en el extranjero sólo se registraran si no están en desacuerdo con leyes Mexicanas y si ordena su ejecución la Autoridad competente;
+
+V. Que están debidamente legalizados;
+
+VI. Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial nacional que corresponda;
+
+VII. Cuando se trate de documentos físicos firmados con firma electrónica avanzada o fiable o de documentos electrónicos firmados de la misma manera, sólo se inscribirán si tienen el carácter de inscribibles y además cumplen con las disposiciones señaladas en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Aguascalientes y su reglamento respectivo, por lo que ve a la firma electrónica avanzada o fiable.
 
 ###### Artículo 2879.
 
@@ -15901,11 +16195,15 @@ No obstante lo dispuesto en el artículo anterior, los actos o contratos que se 
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2881.
 
-No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de personas o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión tiene la posesión del inmueble inscrito
 
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
+No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+
+En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro Público.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -15915,9 +16213,15 @@ Artículo 2881 BIS.- El principio de legitimación consiste en otorgar certeza y
 
 Artículo 2881 TER.- El principio de consentimiento es la declaración de la voluntad del titular registral o interesado, por la que autoriza al registrador a practicar las inscripciones para que se transmita el dominio o se constituya un derecho real que lo transfiere y del que lo adquiere, o por lo menos del primero. Para cancelar dichas inscripciones por consentimiento de las partes, se estará a lo dispuesto por el Artículo 2907.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2882.
 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
+
+Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables física o electrónicamente, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
+
+Cualquiera de los cónyuges tiene derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezca a la sociedad conyugal y aparezca inscrito a nombre de uno solo de aquéllos.
 
 ### CAPITULO III.
 
@@ -15933,21 +16237,25 @@ El principio de rogación o petición de parte consiste en inscribir o anotar lo
 
 Artículo 2883 BIS.- El principio de tracto sucesivo es la organización de los asientos registrales, de manera que expresen con toda exactitud la sucesión ininterrumpida de los derechos que recaen sobre un mismo inmueble, determinando la correlación o concatenamiento entre los distintos titulares registrales del mismo. Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgó aquel o en cuyo nombre se otorguen esos actos. En virtud de lo anterior, no se inscribirá ni anotará ningún derecho en el que aparezca como titular una persona distinta de la que figure en la inscripción precedente. Para el caso del folio real se observará igualmente la presente disposición.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2884.
 
-Sólo se registrarán:
+Sólo se registrarán física o electrónicamente:
 
-I.- Los testimonios de escritura pública u otros documentos auténticos;
+I. Los testimonios de escrituras o actas notariales u otros documentos auténticos, físicos o electrónicos firmados en forma autógrafa o con la firma electrónica avanzada o fiable;
 
-II.- Las sentencias y providencias judiciales certificadas legalmente;
+II. Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+III. Los documentos privados físicos o electrónicos que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el fedatario público, el director del Registro Público, o la autoridad Judicial, se cercioró de la autenticidad de las firmas autógrafas o electrónicas avanzadas o fiables y de la voluntad de las partes. Dicha constancia deberá estar firmadas (sic) por los mencionados funcionarios y llevar el sello de la oficina respectiva.
 
-III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal en ejercicio legítimo de sus funciones, el juez competente o el Notario Público se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+En los documentos en que se utilice la firma electrónica avanzada o fiable, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible en los formatos predeterminados, y al imprimirse se estamparán en el documento, de acuerdo con los parámetros señalados al efecto; de no ser posible esto último, el documento quedará validado con la sola firma electrónica avanzada o fiable.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 2885.
 
-El interesado presentará el título que va a ser registrado.
+El interesado remitirá electrónicamente o presentará físicamente el título que va a ser registrado.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -15961,9 +16269,9 @@ El registrador hará la inscripción si encuentra que el título presentado es d
 
 En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
-Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, oficiosamente o a petición de parte interesada se cancelará la inscripción preventiva.
+Transcurridos noventa días sin que se comunique al registrador la calificación que del título presentado haya hecho el Juez, oficiosamente o a petición de parte interesada se cancelará la inscripción preventiva.
 
 ###### Artículo 2888.
 
@@ -15997,41 +16305,49 @@ IX. En el sistema de folio real las inscripciones se harán en los términos est
 
 El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 2890.
 
-El principio de fe pública registral, consiste en tener como verdad jurídica el contenido de los asientos del registro, salvo prueba en contrario. Por este principio se reputa siempre exacto en beneficio del adquirente que contrató, confiando en el contenido de sus asientos y, en consecuencia, se le protege con carácter absoluto en su adquisición. El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el Artículo 2891 del presente ordenamiento.
+El principio de fe pública registral, consiste en tener como verdad jurídica el contenido de los asientos del registro, salvo prueba en contrario. Por este principio se reputa siempre exacto en beneficio del adquirente que contrató, confiando en el contenido de sus asientos y, en consecuencia, se le protege con carácter absoluto en su adquisición. El registro producirá sus efectos desde el día y la hora en que el documento se hubiese recibido en la oficina registradora, salvo lo dispuesto en el Artículo 2891 del presente ordenamiento.
 
-Los asientos del Registro Público en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial contraria.
+Los asientos del Registro Público, físicos o electrónicos, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial contraria.
+
+Los asientos del Registro no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado
+
+Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando sustancialmente se hubieren alterado dichos asientos, así como en el caso en que hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de los establecidos respecto a la rectificación de errores.
+
+La nulidad de los asientos de que se trata en el párrafo anterior no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al Artículo 2880 de este Código.
 
 La inscripción definitiva de un derecho que haya sido anotado previamente, surtirá sus efectos desde la fecha en que esta anotación los produjo.
+
+Inscrito o anotado un título de forma física o electrónica, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
+
+Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 Artículo 2890 BIS.- El principio de la prioridad o prelación, consiste en que la preferencia entre derechos reales sobre un mismo inmueble o finca se determina por el orden de la presentación en el Registro y no por la fecha del título o documento que contiene el acto jurídico a registrar. La preferencia entre dos o más inscripciones o anotaciones relativas al mismo inmueble, se establecerá por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución. La prelación entre los diversos documentos ingresados al Registro Público, se establecerá por el día y hora, así como por el número de presentación que les sea asignado, salvo lo dispuesto en el Artículo siguiente.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 2891.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse, deberá solicitar del Registro Público de la Propiedad el certificado sobre la existencia o inexistencia de la inscripción a favor del titular registral, sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho, o la libertad de los mismos.
+Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el Notario, deberá solicitar del Registro Público de la Propiedad el certificado sobre la existencia o inexistencia de la inscripción a favor del titular registral, sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho o la libertad de los mismos.
 
-En dicha solicitud, que surtirá efectos de primer aviso preventivo, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir el antecedente registral. El registrador, con esta solicitud, y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de cincuenta días naturales contados a partir de la fecha de su presentación.
+En dicha solicitud, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral, requisitos sin cuyo cumplimiento será rechazada la solicitud. Una vez recibido el certificado que haya expedido el Registro Público de la Propiedad en el Estado y una vez que se haya otorgado la escritura, dará un primer aviso preventivo, dentro de los dos días hábiles siguientes, para lo cual acompañará copia certificada de la referida escritura. El registrador, una vez recibido el aviso y sin cobro de derechos, hará inmediatamente el asiento de presentación y hará la anotación de primer aviso preventivo, que tendrá vigencia por un término de 30 días hábiles contados a partir de la fecha de su presentación.
 
-Derivado de la solicitud referida, se deberá expedir a costa del solicitante el Certificado correspondiente, en el que se hagan constar las anotaciones a que se refiere el primer párrafo de este artículo.
+Derivado del primer aviso dado, se podrá expedir a costa del solicitante el Certificado correspondiente, en el que se hagan constar las anotaciones a que se refiere el primer párrafo de este Artículo.
 
-Si mientras tanto se presentare al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los cincuenta días naturales posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
+Si mientras tanto se presentaren al Registro otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los treinta días hábiles posteriores al primer aviso del Notario no se hubiere dado el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada y autorizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+Dentro del plazo de treinta días a que se refiere el párrafo segundo de este Artículo, el Notario ante quien se otorgó la escritura, dará al Registro, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo segundo, la fecha de la escritura y la de su firma, el instrumento y volumen, de lo que se tomará razón. El Registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan. Una vez dado el segundo aviso preventivo el Registrador en los subsecuentes certificados que expida dejará constancia del mismo.
 
-Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el Notario ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes una (sic) segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo segundo de este Artículo, la fecha de la escritura y la de su firma, el instrumento y volumen, de lo que se tomará razón. El Registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan. Una vez dado el segundo aviso preventivo el Registrador en los subsecuentes certificados que expida dejará constancia del mismo.
+En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de treinta días que se ha señalado, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
 
-En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de cincuenta días a que se contrae el párrafo primero, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
+Si el testimonio respectivo se presenta al Registro dentro del término de treinta días que se ha señalado, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
-
-Si el testimonio respectivo se presenta al Registro dentro del término a que se contrae el párrafo segundo de este Artículo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
+La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -16057,9 +16373,13 @@ VII. Generen deliberadamente error, inexactitud, omisión o retardo en los certi
 
 (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2010)
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2894.
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
+La inscripción o anotación física y electrónica de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en el derecho que se va a inscribir o a anotar, o por el notario que haya autorizado la escritura de que se trate.
+
+Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número. Lo mismo se hará cuando se realice en forma electrónica, utilizando la misma vía para su regreso.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -16156,6 +16476,12 @@ IV.- Cuando se declare la nulidad de la inscripción;
 V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2195;
 
 VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 2905 Bis.
+
+La nulidad de los asientos de que se trata en el Artículo anterior no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al Artículo 2880 de este Código.
 
 ###### Artículo 2906.
 
@@ -16578,3 +16904,11 @@ P.O. 2 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Las solicitudes de inscripción y rectificación señaladas en el Artículo 2882, párrafos segundo y tercero, serán tramitadas gratuitamente por el Registro Público de la Propiedad durante los 180 días siguientes al inicio de vigencia del presente Decreto.
