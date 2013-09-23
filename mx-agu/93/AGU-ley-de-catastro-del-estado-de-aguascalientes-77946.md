@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-77946"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-13"
-last_updated: "2010-12-13"
+last_updated: "2013-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 23 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2010.
 
@@ -856,3 +858,19 @@ Carlos Lozano de la Torre.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic Miguel Romo Medina.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Catastro del Estado publicada el 13 de diciembre de 2010 en la Primera Sección del Periódico Oficial del Estado, con la única salvedad de los preceptos que en dicha Ley crean el Instituto Catastral de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de esta Ley y los Manuales del Instituto deberán publicarse dentro de los ciento ochenta días del inicio de vigencia del presente ordenamiento.
