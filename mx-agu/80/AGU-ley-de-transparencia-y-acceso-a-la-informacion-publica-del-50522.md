@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2011-08-08"
+last_updated: "2013-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -213,7 +213,7 @@ En la clasificación de la información, deberá optarse por su publicación, si
 
 ### CAPITULO II. De la Información Pública que debe ser Difundida de Oficio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 9º.
 
@@ -243,7 +243,7 @@ XI.- La información sobre el presupuesto de egresos asignado, así como los inf
 
 XII.- El monto, aplicación y destino de los recursos públicos entregados a organismos, institutos, asociaciones, fideicomisos y cualquier otra entidad del derecho privado;
 
-XIII.- Los datos que arrojen las auditorias al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda;
+XIII.- Los datos que arrojen las auditorías al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda;
 
 XIV.- La ejecución, montos asignados y requisitos de acceso a los programas de apoyo y padrones de beneficiarios de los programas sociales;
 
@@ -321,7 +321,9 @@ Los sujetos obligados deberán hacer pública toda aquella información relativa
 
 La información a que se refieren el presente capítulo, deberá estar a disposición del público, a través de medios remotos o locales de comunicación electrónica así como a través de publicaciones, folletos, periódicos murales o cualquier otro medio de comunicación. Los sujetos obligados deberán tener a disposición de las personas interesadas equipo de cómputo, a fin de que éstas puedan obtener la información, de manera directa o mediante impresiones. Asimismo, éstos deberán proporcionar apoyo a los usuarios que lo requieran y proveer todo tipo de asistencia respecto de los trámites y servicios que presten.
 
-Los sujetos obligados de esta Ley deberán preparar la automatización, presentación y contenido de su información, como también su integración en línea.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+Los sujetos obligados de esta Ley deberán preparar la automatización, presentación y contenido de su información, como también su integración en línea además el portal y las páginas deberán tener buscadores temáticos que permitan el acceso expedito a la información solicitada.
 
 ### CAPITULO III. Información Reservada o Confidencial
 
@@ -329,7 +331,7 @@ Los sujetos obligados de esta Ley deberán preparar la automatización, presenta
 
 El ejercicio del derecho de acceso a la información sólo será restringido mediante la figura de: Información reservada o confidencial. Esta es la información que manteniendo su naturaleza, su divulgación se restringe en atención a un interés superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -537,9 +539,13 @@ VIII.- Las demás necesarias para garantizar y agilizar el flujo de información
 
 Corresponderá al Instituto en coordinación con las Unidades de Enlace, la Dirección General de Archivos del Estado y las propias unidades de Archivo de los Poderes Judicial y Legislativo y los Municipios, elaborar los criterios para catalogar, clasificar y conservar los documentos administrativos. Dichos criterios tomarán en cuenta los estándares y mejores prácticas internacionales en la materia.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 32.
 
-Las Unidades de Enlace de los sujetos obligados de esta Ley, deberán promover el adecuado funcionamiento de los archivos. Asimismo, deberán elaborar y poner a disposición del público el catálogo de la información clasificada.
+Las Unidades de Enlace de los sujetos obligados de esta Ley, deberán promover el adecuado funcionamiento de los archivos. Para la correcta organización archivística los sujetos obligados tendrán que prever y presupuestar la aplicación de tecnologías de información en el manejo documental.
+
+Asimismo, deberán elaborar y poner a disposición del público el catálogo de información clasificada.
 
 ### CAPITULO VII. Del Procedimiento de Acceso a la Información Pública
 
@@ -584,6 +590,10 @@ II.- Se expidan copias simples, certificadas, se entregue la información por me
 En caso de que la información ya esté disponible en Internet, la Unidad de Enlace se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida.
 
 Para el caso de que la información ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+En la medida de lo posible, la información se entregará al solicitante de la misma, preferentemente por medios electrónicos.
 
 ###### Artículo 37.
 
@@ -665,7 +675,7 @@ VIII.- No haber sido condenado por la comisión de delito doloso alguno; y
 
 IX.- No estar inhabilitado para ejercer cargos públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -711,7 +721,7 @@ XIV.- Promover y asesorar en la formulación de iniciativas destinadas a adecuar
 
 XV.- Elaborar y publicar estudios, investigaciones y publicaciones para difundir y socializar el conocimiento de las materias objeto de esta Ley, y sobre los probables impactos que provocaría el ejercicio de los derechos tutelados;
 
-XVI.- Promover la rendición de cuentas de los poderes públicos entre si, y la transparencia y rendición de cuentas hacia la sociedad;
+XVI.- Promover la rendición de cuentas de los poderes públicos entre sí, y la transparencia y rendición de cuentas hacia la sociedad;
 
 XVII.- Elaborar su reglamento interior y las disposiciones necesarias para el cumplimiento del mismo;
 
@@ -771,9 +781,15 @@ El Instituto promoverá ante las universidades públicas y privadas, que dentro 
 
 ### CAPITULO X. Recursos de Revisión e Inconformidad
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 55 bis.- Todo lo relativo a los recursos que establece esta Ley, así como lo relativo a notificaciones, se tramitarán conforme a lo que dispone la Ley del Procedimiento Administrativo del Estado de Aguascalientes, salvo que la presente Ley establezca reglas específicas al respecto, y será preferente la tramitación de tales recursos y notificaciones a través de medios electrónicos si el recurrente así lo solicita.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 56.
 
-Los interesados afectados por los actos y resoluciones de las autoridades que negaron o limitaron el acceso a la información, podrán interponer el recurso de revisión ante el superior del titular de la Unidad de Enlace, sin menoscabo de recurrir en forma directa al recurso de inconformidad ante el Instituto, así como a las instancias jurisdiccionales correspondientes.
+Los interesados afectados por los actos y resoluciones de las autoridades que negaron o limitaron el acceso a la información, podrán interponer el recurso de revisión en forma escrita o electrónica, ante el superior del titular de la Unidad de Enlace, sin menoscabo de recurrir en forma directa al recurso de inconformidad ante el Instituto, así como a las instancias jurisdiccionales correspondientes.
 
 ###### Artículo 57.
 
@@ -820,6 +836,10 @@ IX.- Hacer constar nombre y firma del quejoso.
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 Al admitirse el recurso de inconformidad respecto a negativas de acceso a datos personales obtenidos por actividades de Video Vigilancia, invariablemente se concederá suspensión, la que tendrá como efecto únicamente detener el término que la Ley de Video Vigilancia del Estado señala para la destrucción de las grabaciones, sin que esto sea óbice para que se pueda proporcionar esa información a la autoridad correspondiente en caso de ser útil para la investigación de algún hecho punible tipificado como delito.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de que el recurso se haya interpuesto por medio electrónico, se tramitará por este mismo medio y en este caso, el recurrente deberá suscribir el recurso mediante su firma electrónica y precisar los datos necesarios para corroborar que haya sido expedida conforme a las disposiciones legales aplicables.
 
 ###### Artículo 61.
 
@@ -875,7 +895,7 @@ El Instituto podrá prevenir al quejoso de los errores de forma y fondo al prese
 
 Los sujetos de la Ley estarán obligados a rendir oportuna y puntualmente los informes, documentos, archivos y dictámenes que les sean requeridos por el Instituto con motivo de la interposición del recurso de inconformidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 66.
 
@@ -967,7 +987,7 @@ c).- La recolección de datos en forma engañosa y fraudulenta;
 
 d).- Recabar y tratar los datos de carácter personal a los que se refiere esta Ley;
 
-e).- Tratar los datos de carácter personal de forma ilegitima o con menosprecio de los principios y garantías que les sean de aplicación, cuando con ello se impida o se atente contra el ejercicio de los derechos fundamentales;
+e).- Tratar los datos de carácter personal de forma ilegítima o con menosprecio de los principios y garantías que les sean de aplicación, cuando con ello se impida o se atente contra el ejercicio de los derechos fundamentales;
 
 f).- Vulnerar el secreto sobre los datos de carácter personal a que hace mención esta Ley, así como los que hayan sido recabados para fines policiales sin consentimiento de las personas afectadas;
 
@@ -1069,7 +1089,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JULIO DE 2009.
 
@@ -1096,3 +1116,9 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los Comisionados del Instituto nombrados para el período 2010-2014, por única ocasión y con la finalidad de que cumplan en total seis años en su encargo, se ratifican por el Pleno del Congreso del Estado para el período 2014 al 31 de diciembre del año 2016, fecha en que concluirán su encargo, sin posibilidad de reelección, de conformidad con lo dispuesto por el Artículo 47 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
