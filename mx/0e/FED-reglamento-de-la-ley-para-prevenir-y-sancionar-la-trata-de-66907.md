@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-para-prevenir-y-sancionar-la-trata-de-6690
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-27"
-last_updated: "2009-02-27"
+last_updated: "2013-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66907&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-02-11"
 
 REGLAMENTO DE LA LEY PARA PREVENIR Y SANCIONAR LA TRATA DE PERSONAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DEL REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PUBLICADO EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2009.
 
@@ -418,3 +420,31 @@ Artículo Tercero.- Las acciones que lleven a cabo las dependencias y entidades 
 Artículo Cuarto.- El Programa Nacional deberá publicarse en un término no mayor a un año a partir de la instalación de la Comisión.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de febrero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.- El Secretario de Desarrollo Social, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Luis Téllez Kuenzler.- Rúbrica.- La Secretaria de Educación Pública, Josefina Eugenia Vázquez Mota.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.- El Secretario de Turismo, Rodolfo Elizondo Torres.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos realizará las modificaciones a su Reglamento Interno en un plazo de noventa días hábiles siguientes a partir de la entrada en vigor del presente Reglamento.
+
+TERCERO.- Conforme al artículo 89 de la Ley, las autoridades mencionadas en dicho artículo contarán con un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Reglamento, para dar cumplimiento al mismo e informarán a la Secretaría Técnica de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos sobre la implementación de los programas y actividades encomendadas.
+
+La Secretaría Técnica de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en un plazo de noventa días hábiles implementará la página web a que se refiere el artículo 63 del presente Reglamento.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento se realizarán con cargo al presupuesto autorizado para tal fin a las dependencias o entidades de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+QUINTO.- Los programas de capacitación, formación y actualización a que se refieren los artículos 89, fracción XV, de la Ley y 83 de este Reglamento deberán diseñarse dentro del plazo de ciento veinte días hábiles siguientes contados a partir de la entrada en vigor del presente Reglamento.
+
+SEXTO.- Las dependencias y entidades de la Administración Pública Federal que por su ámbito de competencia proporcionen atención directa a las víctimas, ofendidos o testigos de los delitos en materia de trata de personas contarán con un plazo de ciento veinte días hábiles siguientes a partir de la entrada en vigor del presente Reglamento, para diseñar, implementar y, en su caso, modificar planes y programas en materia de trata de personas.
+
+SÉPTIMO.- Las dependencias y entidades de la Administración Pública Federal y la Procuraduría, celebrarán convenios de colaboración con las instancias correspondientes, a efecto de coadyuvar en la interpretación de las campañas de comunicación social en lenguas indígenas, así como en el Lenguaje de Señas Mexicana, de manera progresiva en tanto se establecen los mecanismos institucionales para ello.
+
+OCTAVO.- La Procuraduría contará con un plazo no mayor a noventa días hábiles a partir de la entrada en vigor del presente Reglamento para revisar y, en su caso, adecuar el Programa de Protección a Víctimas y Testigos, a fin de dar cumplimiento al artículo 83 de la Ley.
+
+NOVENO.- Se abroga el Reglamento de la Ley para Prevenir y Sancionar la Trata de Personas publicado en el Diario Oficial de la Federación el 27 de febrero de 2009 y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+DÉCIMO.- La Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría de Gobernación, en coordinación con la instancia competente de atención a víctimas y la Fiscalía Especial para los Delitos de Violencia contra las Mujeres y Trata de Personas de la Procuraduría General de la República, contarán con un término de noventa días hábiles a partir de la entrada en vigor del presente Reglamento, para elaborar el Modelo de Asistencia y Protección a Víctimas, Ofendidos y Testigos.
+
+DÉCIMO PRIMERO.- Los protocolos únicos para el uso de procedimientos y recursos para el rescate, asistencia y protección de las víctimas y posibles víctimas de los delitos previstos en la Ley, a que se refiere el artículo 84 del presente Reglamento, deberán ser expedidos por la Comisión, en coordinación con la Secretaría de Gobernación y la Procuraduría General de la República, en un término de noventa días hábiles a partir de la entrada en vigor del presente Reglamento.
