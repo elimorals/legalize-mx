@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2013-09-02"
+last_updated: "2013-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -783,6 +783,10 @@ Los nombres de las personas que hayan acreditado los cursos regulares impartidos
 
 La lista se difundirá en la página Web del Instituto y en los estrados de la sede central, a fin de que los titulares puedan seleccionar y nombrar a las personas que consideren conveniente.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE SEPTIEMBRE DE 2013)</small>
+
+Las personas que hayan causado baja del Poder Judicial de la Federación por más de tres años, para poder reingresar a los cargos de secretario de tribunal de Circuito o de juzgado de Distrito y de actuario judicial deberán aprobar nuevamente el examen de aptitud a que hace referencia el párrafo segundo del artículo 112 de la Ley o el curso para secretarios.
+
 Los egresados de la Especialidad estarán disponibles para cualquier plaza de la República; y su negativa de trasladarse al lugar donde se les requiera por primera ocasión, tendrá como consecuencia el que sean dados de baja por el Instituto de la referida lista, previa comunicación del titular que los hubiera requerido.
 
 ###### Artículo 70.
@@ -1497,7 +1501,9 @@ SEGUNDO.- Se abrogan los siguientes Acuerdos Generales del Pleno del Consejo: 2/
 
 TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente Acuerdo.
 
-CUARTO.- Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente Acuerdo, subsisten en sus términos.
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE SEPTIEMBRE DE 2013)</small>
+
+CUARTO. Los derechos de las personas que hayan aprobado el examen de aptitud o hayan sido nombradas conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente Acuerdo, subsisten en sus términos, salvo lo dispuesto en el párrafo tercero del artículo 69 de este ordenamiento.
 
 QUINTO.- Se ratifica el Acuerdo General del Pleno del Consejo de la Judicatura Federal 28/2005, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, así como sus reformas, de conformidad con lo dispuesto en el artículo 172 de este Acuerdo.
 
@@ -1519,7 +1525,7 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios.
 
 D.O.F. 22 DE AGOSTO DE 2007.
 
@@ -1846,3 +1852,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de esta adición al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
