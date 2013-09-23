@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2010-02-08"
+last_updated: "2013-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE COSIO, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE COSIO, AGS.
+CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -87,7 +87,7 @@ Las autoridades municipales tienen competencia plena sobre el territorio de Cos�
 
 ### CAPITULO III. De los Fines del Municipio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 8°.
 
@@ -199,7 +199,7 @@ La altitud promedio sobre el nivel del mar es de 2000 metros aproximadamente y c
 
 Al Norte, con el Estado de Zacatecas,
 
-A0l Sur con el Municipio de Rincón de Romos, Ags.
+Al Sur con el Municipio de Rincón de Romos, Ags.
 
 Al Este con el Estado de Zacatecas y Municipio de Rincón de Romos, Ags., y
 
@@ -575,9 +575,11 @@ XXIII.- Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar 
 
 XXIV.- Las demás que le confieran este Código, demás leyes federales y estatales y disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 43.
 
-Para el cumplimiento de sus funciones, el Presidente Municipal puede auxiliarse de los integrantes del Ayuntamiento, de acuerdo con la Comisión que se les haya encomendado.
+Para el cumplimiento de sus funciones, el Presidente Municipal puede auxiliarse de los integrantes del Ayuntamiento, de acuerdo con la Comisión que se les haya encomendado. También puede auxiliarse de profesionales que por sus conocimientos y experiencia se encuentren calificados para proporcionar la asesoría preventiva y correctiva que el municipio y/o áreas de su administración pública requieran y que por sí mismos no puedan satisfacer, teniendo el carácter de asesor, técnico o perito, según sea el caso.
 
 ###### ARTICULO 44.
 
@@ -1871,7 +1873,7 @@ APARTADO DECIMO SEXTO
 
 De la Comisión de Planeación del Desarrollo Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 204.
 
@@ -2153,15 +2155,17 @@ XIV.- La distribución de la partida asignada en el presupuesto municipal a favo
 
 XV.- Con el fin de conocer, analizar y evaluar la actividad de La Instancia Municipal de las Mujeres de Cosío, la Directora General rendirá Un informe trimestral al H. Ayuntamiento y al Presidente Municipal de Cosío de manera integral sobre la operación y funcionamiento de La Instancia Municipal de las Mujeres de Cosío, y se mandata a quien ocupe la Presidencia Municipal de Cosío para que incluya lo relativo a La Instancia Municipal de las Mujeres de Cosío, en el correspondiente informe anual de gobierno.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 221.
 
-Cada una de las dependencias administrativas integrantes de la Administración Pública Municipal, tendrán la competencia, facultades y atribuciones señaladas en el presente Código, así como en las demás disposiciones jurídicas aplicables y contará además con la estructura orgánica señalada en el presente ordenamiento y contará con el número de servidores públicos necesarios para realizar su función.
+Cada una de las dependencias administrativas integrantes de la Administración Pública Municipal, tendrán la competencia, facultades y atribuciones señaladas en el presente Código, así como en las demás disposiciones jurídicas aplicables y contará además con la estructura orgánica señalada en el presente ordenamiento y contará con el número de servidores públicos necesarios para realizar su función. Las dependencias administrativas integrantes de la Administración Pública Municipal, pueden auxiliarse de uno o varios asesores, técnicos o peritos cuando así lo soliciten por escrito a su superior jerárquico, a cualquiera de los regidores, secretario, síndico o Presidente Municipal, explicando las razones de su requerimiento y proponiendo a quien o quienes deban realizar la consultoría.
 
 ###### ARTICULO 222.
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 223.
 
@@ -2313,13 +2317,11 @@ c).- Departamento de Protección Civil. (Honorario).
 
 ### CAPITULO CUARTO. De los Funcionarios Públicos Municipales
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 224.
 
-Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes y atendiendo el criterio de equidad de género, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador y Director de Seguridad Pública. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate, y también deberá observar el principio de equidad de género en las designaciones referidas.
-
-El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos de perspectiva de género y conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia.
+Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador y Director de Seguridad Pública. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate. El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia moral y notoria buena costumbre. Los asesores, técnicos y peritos, además de su título profesional o equivalente, deberán adjuntar la documentación que corrobore su experiencia laboral en el ramo, los cuales tendrán el carácter de trabajadores de este H. Ayuntamiento conforme a lo establecido al Estatuto Jurídico de los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y Organismos descentralizados.
 
 ###### ARTICULO 225.
 
@@ -3281,7 +3283,7 @@ De la Dirección de Seguridad Pública y Vialidad Municipal
 
 ###### ARTICULO 260.
 
-La Dirección de Seguridad Pública y Vialidad Municipal tendrá como facultades y obligaciones las establecidas en Libro Sexto del presente Código DE LA SEGURIDAD PUBLICA Y VIALIDAD MUNICIPAL.
+La Dirección de Seguridad Pública y Vialidad Municipal tendrá como facultades y obligaciones las establecidas en Libro Sexto del presente Código DE LA SEGURIDAD PUBLICA Y VIALlDAD MUNICIPAL.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -4329,7 +4331,7 @@ Para ser inscrito en el Padrón, se presentará por escrito la solicitud ante el
 
 Asimismo, se procederá a la cancelación del registro al proveedor que solicite la declaración de quiebra, concurso o suspensión de pagos o al que no cumpla con los términos y condiciones de un pedido o contrato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 408.
 
@@ -12725,7 +12727,7 @@ Además de las prevenciones contenidas en este artículo se aplicará lo conduce
 
 #### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 1433.
 
@@ -13587,7 +13589,7 @@ Profr. Juan Ignacio Serna López,
 
 SECRETARIO DEL H. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 10 DE MARZO DE 2008.
 
@@ -13604,3 +13606,11 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
+
+P.O. 23 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Se propone la adición al texto de los artículos 43, 221 y 224 del Código Municipal de Cosío, Aguascalientes, para quedar en lo sucesivo redactados en los términos precisados en el cuerpo del presente documento.
+
+SEGUNDO.- Por lo que se deberá publicar la adición a que se refiere la presente iniciativa, en el Periódico Oficial del Estado, y se hará del conocimiento de la población del municipio pegando una copia en los lugares visibles de la cabecera Municipal, Delegaciones y Comisarías Municipales, lo anterior de conformidad con lo dispuesto en el artículo 143 del Código Municipal de Cosío, Aguascalientes, en vigor.
+
+TERCERO.- De ser el caso, las normas municipales aprobadas entrarán en vigor, simultáneamente en todo el Municipio, al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad con lo dispuesto en el artículo 144 del Código Municipal de Cosío, Aguascalientes.
