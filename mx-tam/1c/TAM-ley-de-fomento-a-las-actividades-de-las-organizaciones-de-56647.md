@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-56647
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-02"
-last_updated: "2007-08-02"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de agosto de 2007.
 
@@ -161,9 +161,17 @@ XI. Recibir donativos y aportaciones;
 
 XII. Coadyuvar con las autoridades competentes, en los términos de los convenios que al efecto se celebren, en la prestación de servicios públicos relacionados con las actividades previstas en esta ley;
 
-XIII. Acceder a los beneficios para las organizaciones que se deriven de los convenios o tratados internacionales y que estén relacionados con las actividades y finalidades previstas en esta ley, en los términos de dichos instrumentos; y,
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XIV. Recibir asesoría, capacitación y colaboración por parte de dependencias y entidades para el mejor cumplimiento de su objeto y actividades, en el marco de los programas que al efecto formulen dichas dependencias y entidades.
+XIII. Acceder a los beneficios para las organizaciones que se deriven de los convenios o tratados internacionales y que estén relacionados con las actividades y finalidades previstas en esta ley, en los términos de dichos instrumentos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIV. Recibir asesoría, capacitación y colaboración por parte de dependencias y entidades para el mejor cumplimiento de su objeto y actividades, en el marco de los programas que al efecto formulen dichas dependencias y entidades; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XV. Recibir asesoría y capacitación para promover y desarrollar la equidad de género en los asuntos de interés público.
 
 ###### Artículo 7.
 
@@ -492,3 +500,15 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Cd. Victoria, Tam., a 31 de mayo d
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de junio del año dos mil siete.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
