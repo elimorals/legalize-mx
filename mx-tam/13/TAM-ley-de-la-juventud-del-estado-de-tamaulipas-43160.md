@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-juventud-del-estado-de-tamaulipas-43160"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2013-05-23"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -129,9 +129,9 @@ Son derechos de los jóvenes los conferidos por la Constitución Política de lo
 
 Los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-Todas las políticas, programas y proyectos que se desarrollen en relación a los jóvenes deberán promover la plena vigencia del principio de equidad de género, entendiéndolo como el reconocimiento de la igualdad de derechos, oportunidades y responsabilidades de las y los jóvenes.
+Todas las políticas, programas y proyectos que se desarrollen en relación a los jóvenes deberán promover la plena vigencia del principio de igualdad de género, entendiéndolo como el reconocimiento de la igualdad de derechos, oportunidades y responsabilidades de las y los jóvenes.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -595,11 +595,11 @@ El Programa, dentro de sus lineamientos base, deberá contemplar mecanismos para
 
 El Programa, dentro de sus lineamientos, deberá contemplar mecanismos para el estudio, la sistematización, la promoción y el fortalecimiento de las diferentes identidades juveniles.
 
-(REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 61.
 
-El Programa deberá contener acciones que generen un ambiente de equidad para los sectores juveniles en desventaja social.
+El Programa deberá contener acciones que generen un ambiente de equidad para los sectores juveniles en desventaja social, con base en el principio de igualdad de género.
 
 (REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
 
@@ -708,3 +708,9 @@ P.O. 23 DE MAYO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
