@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2012-11-20"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -119,7 +119,9 @@ XIII. La prevención y el control de las enfermedades transmisibles;
 
 XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-XV. La prevención de la invalidez y la rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XV. La prevención, habilitación y rehabilitación de la discapacidad;
 
 XVI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
@@ -551,9 +553,9 @@ I. Proporcionar a la población los conocimientos sobre las causas de las enferm
 
 II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-III. Orientar y capacitor (sic) a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación famiiiar (sic), riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, tabaquismo, inhalantes y otras sustancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención de rehabilitación de la invalidez y detección oportuna de enfermedades, y
+III. Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1007,7 +1009,9 @@ I. Preventivas, que incluyen las de promoción general y las de protección espe
 
 II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno y adecuado; y
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III. De habilitación y rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1785,11 +1789,11 @@ VII. Información a las autoridades sanitarias a cerca (sic) de efectos secundar
 
 VIII. Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 101.
 
-Las secretarías de Promoción y Desarrollo Económico y de Salud de Jalisco, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
+La Secretaría de Salud de Jalisco en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, promoverá y apoyará la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de discapacidad, así como de habilitación y rehabilitación de personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2353,15 +2357,17 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO UNICO. De su captación y suministro
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 125.
 
-La Secretaría de Promoción y Desarrollo Económico, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, capturará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública en la entidad.
+La Secretaría, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geografía captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública en la entidad.
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad o invalidez.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I. Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
@@ -4154,3 +4160,7 @@ P.O. 20 DE NOVIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor a partir del 1. ° de enero de 2013, previa su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El reglamento del presente decreto deberá ser expedido en un plazo no mayor a noventa días después de la entrada en vigor del presente decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
