@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2013-01-17"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO No. LXI-590,PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -87,9 +85,11 @@ En el ejercicio de sus atribuciones y para el despacho de los asuntos que compet
 
 2. El Ejecutivo del Estado decidirá cuáles dependencias y entidades de la administración pública estatal, deberán coordinarse con las dependencias y entidades de la administración pública federal, así como con las autoridades municipales, para el cumplimiento de cualquiera de los propósitos a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 8.
 
-Corresponderá a los titulares de las secretarías, conforme a esta ley y demás disposiciones aplicables, establecer políticas de desarrollo para las entidades coordinadas por su sector, en congruencia con el Plan Estatal de Desarrollo, normar la programación y presupuestación de sus actividades, de acuerdo a las asignaciones de gasto y financiamiento, conocer su operación y evaluar sus resultados.
+Corresponderá a los titulares de las Secretarías, conforme a esta ley y demás disposiciones aplicables, establecer políticas de desarrollo para las entidades coordinadas por su Sector, en congruencia con el Plan Estatal de Desarrollo y procurando la paridad de género, a fin de normar la programación y presupuestación de sus actividades de acuerdo a las asignaciones de gasto y financiamiento, conocer su operación y evaluar sus resultados.
 
 ###### ARTICULO 9.
 
@@ -179,7 +179,9 @@ ARTICULO 19 BIS. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 22.
 
-1. Las dependencias y entidades de la administración pública estatal normarán su actuación con base en los principios de legalidad, imparcialidad, objetividad, eficiencia y transparencia. Al desempeñar sus funciones promoverán la participación ciudadana, la concertación social y el desarrollo regional.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. Las dependencias y entidades de la administración pública estatal normarán su actuación con base en los principios de legalidad, imparcialidad, igualdad, objetividad, eficiencia y transparencia. Al desempeñar sus funciones promoverán la participación ciudadana, la concertación social y el desarrollo regional.
 
 2. Los titulares de las dependencias informarán permanentemente al Gobernador del Estado sobre el despacho de los asuntos a su cargo; a su vez, los titulares de las entidades darán cuenta regular al propio Ejecutivo del ejercicio de sus atribuciones, en forma directa o a través del coordinador del sector al cual se encuentren adscritos.
 
@@ -669,13 +671,15 @@ III. Participar en la integración y funcionamiento de la Comisión Consultiva E
 
 IV. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-V. Proporcionar el apoyo administrativo que para su funcionamiento requieran las Juntas Locales de Conciliación y Arbitraje y del Tribunal de Arbitraje para los Trabajadores al Servicio del Estado;
+V. Proporcionar el apoyo administrativo que para su funcionamiento requieran las Juntas Locales de Conciliación y Arbitraje y el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas;
 
 VI. Coordinar el funcionamiento de las Juntas Locales de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero-patronales, así como vigilar el funcionamiento de las mismas;
 
-VII. Coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII. Coordinar y vigilar el funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas, así como de la Procuraduría de la Defensa del Trabajo del Servidor Público; promover la conciliación entre las partes en los conflictos laborales, e impulsar la defensa de los derechos de los trabajadores;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -1467,9 +1471,9 @@ La liquidación o extinción de una entidad se realizará mediante el mismo proc
 
 ###### ARTICULO 45.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores, entre los patrones y sus trabajadores, o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Arbitraje para los Trabajadores al Servicio del Estado, las Juntas Locales de Conciliación y Arbitraje, y un Tribunal Fiscal del Estado.
+1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores o entre los Municipios y sus trabajadores; entre los patrones y sus trabajadores; o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, Juntas Locales de Conciliación y Arbitraje, y un Tribunal Fiscal del Estado.
 
 2. Los tribunales administrativos gozarán de plena autonomía jurisdiccional para emitir sus laudos y resoluciones.
 
@@ -1481,9 +1485,9 @@ La liquidación o extinción de una entidad se realizará mediante el mismo proc
 
 1. Para el ejercicio de sus funciones, los tribunales administrativos contarán con el apoyo del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-2. La Secretaría del Trabajo y Asuntos Jurídicos apoyará la operación del Tribunal de Arbitraje para los Trabajadores al Servicio del Estado y de las Juntas Locales de Conciliación y Arbitraje.
+2. La Secretaría del Trabajo y Asuntos Jurídicos atenderá administrativamente el funcionamiento del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas y de las Juntas Locales de Conciliación y Arbitraje.
 
 3. La Secretaría de Finanzas prestará el apoyo que requiera el tribunal competente para dirimir controversias contencioso-administrativas.
 
@@ -1716,3 +1720,67 @@ Este porcentaje será distribuido en proporción a la recaudación que se obteng
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-905, POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 FRACCIONES V Y VII, 45 PÁRRAFO 1 Y 46 PÁRRAFO 2 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que se hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá quedar instalado el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+En virtud de lo anterior, quedarán sin efectos a partir de la designación de los representantes de los Ayuntamientos y de los trabajadores al servicio de los Municipios, los nombramientos de los actuales representantes del Tribunal de Conciliación y Arbitraje de los Municipios, pasando los asuntos que se hayan iniciado ante el mismo y que no hayan sido concluidos, a la Sala de los Municipios del Tribunal de Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, para la designación de los representantes de los Ayuntamientos y de los trabajadores al servicio de los Municipios, a más tardar a los 10 días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado o la Diputación Permanente, en su caso, así como la Secretaría del Trabajo y Asuntos Jurídicos, deberán lanzar las convocatorias para llevar a cabo el procedimiento de designación, conforme a lo establecido en los artículos 92 Ter y 92 Quáter, respectivamente, de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Los actuales representantes del Gobierno del Estado y de los trabajadores al Servicio del Estado que integran al Tribunal de Arbitraje de los Trabajadores al Servicio del Estado, seguirán vigentes hasta el término del plazo para el cual fueron nombrados, e integrarán la Sala de de (sic) los Poderes del Estado del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Tratándose del actual Presidente del Tribunal de Arbitraje de los Trabajadores al Servicio del Estado, su nombramiento quedará sin efectos a partir de que se encuentren instaladas las Salas señaladas en el artículo 92 Bis de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, sin demérito que pueda ser designado como Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTÍCULO SÉPTIMO.
+
+La designación del Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, deberá hacerse a más tardar a los tres días posteriores a los que se encuentren instaladas las 2 Salas que integran el mencionado Tribunal.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos materiales, humanos y financieros al servicio del Tribunal de Conciliación y Arbitraje de los Municipios que se extingue mediante el presente Decreto, se transferirán al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y de los Municipios de Tamaulipas; en el caso de los trabajadores, las relaciones laborales de los mismos quedarán intactas, sin demérito de sus derechos laborales adquiridos.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los sesenta días siguientes posteriores a la instalación del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, se deberá expedir el Reglamento Interior del citado Tribunal.
+
+###### ARTÍCULO DÉCIMO.
+
+Se autoriza al Gobernador del Estado para que por conducto del Secretario del Trabajo y Asuntos Jurídicos, se designe a los servidores públicos adscritos a dicha dependencia que funjan de manera provisional y hasta en tanto se realicen los nombramientos del Procurador y de los Procuradores Auxiliares de la Procuraduría de la Defensa del Trabajo del Servidor Público.
+
+Los actos jurídicos que realicen los servidores públicos designados conforme al párrafo anterior, tendrán plena validez hasta en tanto se nombren en forma definitiva el Procurador y los Procuradores Auxiliares de la Procuraduría de la Defensa del Trabajo del Servidor Público.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-904, POR EL QUE SE REFORMAN LOS ARTÍCULOS 8 Y 22 PÁRRAFO 1 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
