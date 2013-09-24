@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-atencion-a-las-75301"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-11"
-last_updated: "2010-06-11"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ATENCIÓN A LAS VÍCTIMAS DEL DELITO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Sección cuarta de la Gaceta del Gobierno del Estado de México, el viernes 11 de junio de 2010.
 
@@ -71,7 +71,7 @@ III. Departamento de Trabajo Social.
 
 IV. Departamento de Coordinación de Unidades de Atención a Víctimas del Delito.
 
-V. Departamento para la Búsqueda y Localización de Personas Abandonadas, Extraviadas o Ausentes.
+V. (DEROGADA, G.G. 24 DE SEPTIEMBRE DE 2013)
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -87,7 +87,9 @@ II. Dirigir, coordinar y evaluar a las unidades administrativas del Instituto y 
 
 III. Establecer, previo acuerdo del Procurador, albergues temporales para la protección de las víctimas del delito, así como supervisar su funcionamiento.
 
-IV. Proponer al Procurador el establecimiento de Unidades de Atención a Víctimas del Delito y módulos para la búsqueda y localización de personas abandonadas, extraviadas o ausentes.
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Proponer al Procurador el establecimiento de Unidades de Atención a Víctimas del Delito.
 
 V. Establecer mecanismos de coordinación y colaboración con instituciones públicas, sociales y privadas, a fin de atender oportunamente las necesidades inmediatas de las víctimas del delito.
 
@@ -209,21 +211,7 @@ VI. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 ###### Artículo 13.
 
-Corresponde al Departamento para la Búsqueda y Localización de Personas Abandonadas, Extraviadas o Ausentes:
-
-I. Elaborar y ejecutar el Programa para la Búsqueda y Localización de Personas Abandonadas, Extraviadas o Ausentes.
-
-II. Implementar acciones y estrategias para la búsqueda de personas reportadas como abandonadas, extraviadas o ausentes.
-
-III. Coordinar la atención oportuna a los familiares que reportan la ausencia o extravío de alguna persona.
-
-IV. Orientar a los familiares de las personas reportadas como abandonadas, extraviadas o ausentes, sobre las acciones para su búsqueda y localización.
-
-V. Coordinar sus acciones con instituciones de los sectores público, social y privado para la búsqueda y localización de personas abandonadas, extraviadas o ausentes.
-
-VI. Establecer coordinación con el Ministerio Público para presentar las denuncias de hechos e iniciar la averiguación previa del reporte de abandono, extravío o ausencia de personas.
-
-VII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+(DEROGADO, G.G. 24 DE SEPTIEMBRE DE 2013)
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -258,3 +246,19 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 24 DE SEPTIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO DE MÉXICO, POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ATENCIÓN A LAS VÍCTIMAS DEL DELITO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Procurador General de Justicia del Estado de México, en un plazo no mayor a cinco días hábiles, deberá expedir el Acuerdo mediante el cual se adscriba el Departamento para la Búsqueda y Localización de Personas Abandonadas, Extraviadas o Ausentes a la Unidad Administrativa correspondiente.
+
+CUARTO. Los módulos ODISEA, recursos humanos, materiales, así como los expedientes y demás información relacionados con la función que desempeña el Departamento para la Búsqueda y Localización de Personas Abandonadas, Extraviadas o Ausentes pasarán íntegramente a la Unidad Administrativa que el Procurador determine.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
