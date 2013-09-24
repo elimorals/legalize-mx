@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2013-06-07"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3359,7 +3359,41 @@ II.- Si se cometiere por conductores de transporte de servicio público o escola
 
 ### CAPITULO X. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 368 BIS.- Por violencia familiar se considera cualquiera de las siguientes manifestaciones de maltrato en contra de un miembro de la familia por otro integrante de la misma:
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Maltrato físico: Todo acto de agresión que se ejerce sobre el cuerpo de la víctima y es producido mediante la fuerza física o el empleo de cualquier objeto capaz de producir una lesión interna, externa o ambas;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Maltrato psico-emocional: toda acción u omisión que provoque un daño o alteración negativa en la estabilidad psicológica de la víctima; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Maltrato sexual: cualquier acto que degrade o dañe el cuerpo, la integridad y libertad sexuales de la víctima. Se considerará consumada esta conducta si la víctima es menor de 18 años de edad, aún y cuando hubiere dado su consentimiento.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado.
+
+A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 368 TER.- Se equipará a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto o amistad, incluyendo el ex-cónyuge, ex-concubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
+
+Asimismo se le sujetará a tratamiento psicológico especializado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 368 QUÁTER.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en (sic) Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
@@ -3551,9 +3585,25 @@ I.- Cuando el activo sea superior en destreza física al ofendido y éste no se 
 
 II.- Cuando sea superior por las armas empleadas, por su mayor destreza en el manejo de ellas, o por el número de los que lo acompañen;
 
-III.- Cuando se valga de algún medio que debilite la defensa del pasivo; o
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Cuando la víctima se halle inerme o caído y el acusado armado o de pie.
+III.- Cuando valga de algún medio que debilite la defensa del pasivo;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Cuando la víctima se halle inerme o caído y el acusado armado o de pie;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- El homicidio y las lesiones se ocasionen en situaciones de violencia familiar; o
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Exista una situación de vulnerabilidad motivada por la condición física o mental por discriminación.
 
 La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halle armado o de pie fuera el agredido, y además, hubiere corrido peligro su vida por no aprovechar esa circunstancia.
 
@@ -3760,12 +3810,6 @@ Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pa
 A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
-###### ARTICULO 368 Ter.
-
-Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 368 Quáter.
 
@@ -5410,3 +5454,13 @@ P.O. 7 DE JUNIO DE 2013.
 DECRETO No. LXI-860, POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL TÍTULO TERCERO DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 173 PÁRRAFO PRIMERO, 435 FRACCIONES I Y II Y 438; Y SE ADICIONAN LOS CAPÍTULOS V Y VI DEL TÍTULO PRIMERO DEL LIBRO SEGUNDO, EL CAPÍTULO III DEL TÍTULO TERCERO DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 157 BIS, 157 TER, 157 QUÁTER, 171 QUINQUIES, 171 SEXTIES, 178 BIS Y 435, FRACCIÓN III, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
