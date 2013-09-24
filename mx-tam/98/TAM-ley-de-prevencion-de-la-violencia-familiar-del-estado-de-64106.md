@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2008-06-24"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PREVENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-LEY DE PREVENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
+LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -37,7 +37,7 @@ LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERAN
 
 D E C R E T O No. LX-17
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE PREVENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULlPAS, y SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO DE TAMAULlPAS Y DEL CODIGO PENAL PARA EL ESTADO DE TAMAULlPAS.
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE PREVENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, y SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS Y DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO PRIMERO.
 
@@ -75,13 +75,17 @@ I. Maltrato físico: Es todo acto de agresión intencional, que se ejerce sobre 
 
 El maltrato físico puede darse en una variedad de manifestaciones que van desde el pellizco o jalón de cabellos, hasta ocasionar lesiones graves con pérdida de órganos, afectación a las capacidades mental o motriz, o la pérdida de alguna parte del cuerpo de la víctima, sin importar si se produjeron con manos, pies, u objetos tales como cinturones, utensilios domésticos o instrumentos cortantes, punzo-cortantes o punzo-contundentes, armas o instrumentos para sujetar o cualquier otro objeto, así como inmovilizar o causar daño a la integridad física de otra persona mediante su sometimiento y control;
 
-II. Maltrato psicoemocional: Es todo acto u omisión repetitivo consistente en un insulto, burla, silencios prolongados, prohibiciones, amenazas, intimidación, actitudes ofensivas, infidelidad manifiesta o la acusación infundada de ello, así como las actitudes devaluatorias o de abandono que provoquen en quien las recibe deterioro o disminución de la autoestima y devaluación del auto concepto;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II. Maltrato psicoemocional: Es todo acto u omisión repetitivo consistente en un insulto, burla, silencios prolongados, prohibiciones, amenazas, intimidación, actitudes ofensivas, infidelidad manifiesta o la acusación infundada de ello, así como las actitudes devaluatorias o de abandono que provoquen en quien las recibe un daño o alteración en la estabilidad psicológica, incluyendo un deterioro o disminución de la autoestima y devaluación del auto concepto;
 
 III. Maltrato sexual: Es aquel acto ejecutado por una persona en perjuicio de otra para estimularse o satisfacerse sexualmente, empleando coacción, pudiendo producir dolor, sin ameritar contacto físico directo en forma de penetración o de tocamientos, bastando el hecho de utilizar a su víctima para obtener placer.
 
 Se considerará consumada esta conducta si la víctima es menor de 18 años de edad, aun y cuando hubiere dado su consentimiento;
 
-IV. Maltrato económico: Es toda omisión dolosa del pago de los gastos generados por la familia, para la manutención de las necesidades básicas de subsistencia, o bien cubrir sólo parte de éstas, sin causa fundada para ello. Al efecto, se entienden como necesidades básicas de subsistencia los alimentos, el vestido, los gastos de habitación, de educación, de salud, y de diversión.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Maltrato económico: Es toda acción u omisión dolosa del pago de los gastos generados por la familia, para la manutención de las necesidades básicas de subsistencia, o bien cubrir sólo parte de éstas, sin causa fundada para ello. Al efecto, se entienden como necesidades básicas de subsistencia los alimentos, el vestido, los gastos de habitación, de educación, de salud y de diversión;
 
 V. Abandono: Esta situación de desamparo que se genera en un menor, un discapacitado o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes; y
 
@@ -111,7 +115,7 @@ IX. Secretarías: Las Secretarías General de Gobierno; de Desarrollo Social, Cu
 
 X. Tratamiento integral: Son las acciones, programas o estrategias tendientes a reestablecer la salud física, psicológica y emocional de los receptores y los generadores de violencia familiar.
 
-### CAPITULO II. DE LA APLlCACION DE LA LEY
+### CAPITULO II. DE LA APLICACION DE LA LEY
 
 ###### Artículo 5.
 
@@ -189,7 +193,7 @@ II. Prestar servicios de atención y asesoría jurídica, psicológica y social 
 
 III. Remitir ante las instituciones competentes los casos de violencia familiar detectados con motivo de la ejecución de sus programas de asistencia social;
 
-IV. lmplementar programas para detectar casos de violencia familiar en instituciones de asistencia social y para capacitar personal de instancias públicas o privadas que atiendan ese tipo de manifestaciones de violencia;
+IV. Implementar programas para detectar casos de violencia familiar en instituciones de asistencia social y para capacitar personal de instancias públicas o privadas que atiendan ese tipo de manifestaciones de violencia;
 
 V. Promover la creación y funcionamiento de centros de protección y asistencia a receptores de violencia familiar;
 
@@ -435,12 +439,24 @@ La presente ley se publicará en el Periódico Oficial del Estado y entrará en 
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LlX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LlX-563, del 8 de agosto de 2006 y publicado en el Periódico Oficial del Estado número 107, del 6 de septiembre de 2006; y LlX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
+Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LIX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LIX-563, del 8 de agosto de 2006 y publicado en el Periódico Oficial del Estado número 107, del 6 de septiembre de 2006; y LIX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de junio del año 2008.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JUAN CARLOS ALBERTO OLlVARES GUERRERO.- Rúbrica.- DIPUTADO SECRETARIO.- GELACIO MARQUEZ SEGURA.- Rúbrica."
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de junio del año 2008.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JUAN CARLOS ALBERTO OLIVARES GUERRERO.- Rúbrica.- DIPUTADO SECRETARIO.- GELACIO MARQUEZ SEGURA.- Rúbrica."
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de junio del año dos mil ocho.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
