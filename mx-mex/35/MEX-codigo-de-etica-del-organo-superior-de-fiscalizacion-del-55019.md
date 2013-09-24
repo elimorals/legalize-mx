@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-del-organo-superior-de-fiscalizacion-del-55019"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-26"
-last_updated: "2007-03-26"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE MEXICO
 
-CODIGO DE ETICA DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE MEXICO
+CÓDIGO DE ÉTICA DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 24 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Código publicado en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 26 de marzo de 2007.
 
@@ -138,3 +140,13 @@ EL AUDITOR SUPERIOR
 M. EN F. OCTAVIO MENA LARCÓN
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 24 DE SEPTIEMBRE DE 2013.
+
+PRIMERO: Publíquese el presente Código de Ética en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO: El presente Código de Ética, entrará en vigor el día de su publicación en Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO: Se abroga el Código de Ética del Órgano Superior de Fiscalización del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el veintiséis de marzo de dos mil siete.
