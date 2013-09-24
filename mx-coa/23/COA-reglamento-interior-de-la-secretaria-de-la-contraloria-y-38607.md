@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-la-contraloria-y-38607"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-16"
-last_updated: "2005-09-20"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 16 de marzo de 2004.
 
@@ -1043,7 +1045,7 @@ XX. Evaluar y dar seguimiento a los distintos programas implementados en las dep
 
 XXI. Las demás que le confieran las disposiciones legales aplicables, el Secretario y/o el Subsecretario de su adscripción dentro de la esfera de sus atribuciones.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2005)</small>
 
 #### SECCIÓN IV. LAS UNIDADES ADSCRITAS A LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
 
@@ -1221,7 +1223,7 @@ LA SECRETARÍA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 
 C. P. Y M. I. MARÍA INÉS GARZA ORTA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 24 DE JUNIO DE 2005.
 
@@ -1238,3 +1240,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría del Estado de Coahuila (sic) publicado en el Periódico Oficial del Gobierno del Estado No. 22 del 16 de marzo de 2004.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+CUARTO.- Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente reglamento, se tramitarán, resolverán, defenderán y, en general, serán de la competencia de la unidad administrativa de la Secretaría que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme a este reglamento.
