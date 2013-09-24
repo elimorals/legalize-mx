@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2013-03-20"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -199,15 +199,17 @@ LII. Uso Mixto Rural. Aplicación de agua en predios para uso habitacional, cuan
 
 LIII. Uso Público Urbano. Utilización de agua para el abasto a centros de población, a través de la red primaria; dentro de éste uso genérico quedan comprendidos el habitacional, el comercial, el industrial, el de servicios de hotelería, el de instituciones públicas o que presten servicios públicos y los usos mixtos;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-LIV. Usuario. Las personas físicas, los condominios y otras personas jurídicas que hagan uso del agua o de los servicios a que se refiere la Ley. Se diferenciará entre usuarios del agua, aquellos con derechos vigentes de explotación o uso de aguas otorgadas por la autoridad competente, y los usuarios de los servicios públicos urbanos; y
+LIV. Usuario. Las personas físicas, los condominios y otras personas jurídicas que hagan uso del agua o de los servicios a que se refiere la ley. Se diferenciará entre usuarios del agua, aquellos con derechos vigentes de explotación o uso de aguas otorgadas por la autoridad competente, y los usuarios de los servicios públicos urbanos;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-LV. Zona o área de protección o restricción. La franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de propiedad federal, estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, en la extensión que en cada caso determinen las normas aplicables.
+LV. zona o área de protección. La franja de terreno inmediata y contigua a los cauces de depósitos de los cuerpos y corrientes naturales o artificiales de propiedad federal, estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, en la extensión que en cada caso determinen las normas aplicables; y
 
-(SE DEROGA ÚLTIMO PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+LVI. Agua pluvial. La proveniente de la lluvia, nieve o granizo.
 
 ###### Artículo 3.
 
@@ -303,9 +305,9 @@ IX. La proposición de políticas públicas, estrategias, lineamientos, programa
 
 X. La consolidación del conjunto de bases de datos y demás información pública que conformarán el Sistema Estatal de Información del Agua; y
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XI. El conjunto de programas, proyectos, obras, normas y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo la reutilización de las aguas previamente servidas y tratadas, así como la recirculación.
+XI. El conjunto de programas, proyectos, obras, normas y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, su reuso y circulación, así como la captación, tratamiento y uso eficiente de aguas pluviales.
 
 Las dependencias del Gobierno de Estado y los Municipios, aplicarán, en el ámbito de sus facultades, las medidas necesarias para cumplir con los objetivos fijados.
 
@@ -457,9 +459,17 @@ IV. La aprobación del Gobernador del Estado del Programa Hídrico Estatal, para
 
 V. La programación hídrica del Estado, cuando así lo determine el Gobierno Federal, se constituirá en el subprograma específico por entidad, correspondiente al Estado de Jalisco, a que se refiere la Ley de Aguas Nacionales y su reglamento;
 
-VI. La medición sistemática de la ocurrencia del agua y su aprovechamiento, así como de las características de cantidad y calidad de los vertidos procedentes de cada uso en los cuerpos receptores en la entidad; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VII. La coordinación con las autoridades federales competentes para el efecto de que el Sistema Estatal tome en consideración los lineamientos emanados de la Comisión Nacional, así como para que el Gobierno Federal pueda proporcionar, en su caso, la asistencia técnica que le solicite el Gobierno Estatal en relación con los proyectos de las obras de los servicios públicos de agua.
+VI. La medición sistemática de la ocurrencia del agua y su aprovechamiento, así como de las características de cantidad y calidad de los vertidos procedentes de cada uso en los cuerpos receptores en la entidad;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII. La coordinación con las autoridades federales competentes para el efecto de que el Sistema Estatal tome en consideración los lineamientos emanados de la Comisión Nacional, así como para que el Gobierno Federal pueda proporcionar, en su caso, la asistencia que le solicite el Gobierno Estatal en relación con los proyectos de las obras de los servicios públicos de agua; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. La captación, tratamiento y uso eficiente del agua pluvial como recurso alterno.
 
 ###### Artículo 17.
 
@@ -1950,3 +1960,13 @@ SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organism
 P.O. 20 DE MARZO DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Jalisco.
+
+###### ARTÍCULO SEGUNDO.
+
+Los gobiernos municipales del Estado de Jalisco, conforme a la soberanía que les señala el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán realizar las adecuaciones necesarias en sus reglamentos relacionados con el tema, dentro de los 90 días contados a partir de la entrada en vigor del presente decreto.
