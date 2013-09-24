@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2004-12-28"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -55,7 +55,9 @@ c) precisar los elementos rectores para su convivencia; y,
 
 d) definir los principios para su formación, atención, protección y desarrollo integral e integrado en sus aspectos ético y social.
 
-3. Las normas del derecho de familia que esta ley establece son de carácter social, tendentes a satisfacer las necesidades de subsistencia, defensa y desarrollo de los integrantes de la familia; y tutelares substancialmente de la mujer, los menores, los adultos mayores, jubilados y ancianos, así como de todo miembro de la familia con capacidades diferentes.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+3. Las normas del derecho de familia que esta ley establece son de carácter social, tendentes a satisfacer las necesidades de subsistencia, defensa y desarrollo de los integrantes de la familia; y tutelares substancialmente de los derechos de la mujer, los menores, los adultos mayores, jubilados y ancianos, así como de todo miembro de la familia con capacidades diferentes;
 
 4. Las disposiciones de esta ley se aplicarán con preferencia a otras leyes. En caso de ausencia de norma, supletoriamente se aplicarán el Código Civil y el Código de Procedimientos Civiles para el Estado.
 
@@ -251,9 +253,11 @@ h) Fomentar, a través de la educación, sólidos principios de responsabilidad 
 
 3. Cuando la persona a cargo de la representación jurídica de la familia esté imposibilitada o incapacitada se designará un nuevo representante.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 8.
 
-El representante de la familia gozará de las facultades de un mandatario para pleitos, cobranzas y actos de administración, quedando por tanto sujeto a las obligaciones y derechos que establece el Código Civil para el Estado.
+Quien funja como representante de la familia gozará de las facultades de un mandatario para pleitos, cobranzas y actos de administración, quedando por tanto sujeto a las obligaciones y derechos que establece el Código Civil para el Estado.
 
 ###### ARTICULO 9.
 
@@ -740,3 +744,15 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintisiete días del mes de diciembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
