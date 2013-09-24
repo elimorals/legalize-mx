@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2011-09-01"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY PARA LA IGUALDAD DE GENERO EN TAMAULIPAS -ANTES LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS-
 
-LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
+LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -37,7 +37,9 @@ LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBR
 
 D E C R E T O No. LIX-7
 
-LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
 ### Capítulo Primero. De las Disposiciones Generales
 
@@ -47,17 +49,21 @@ LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
 
 2. Este ordenamiento establece, con base en las previsiones de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado:
 
-a) Medidas para promover activamente la equidad de género entre hombres y mujeres, y la plena igualdad de derechos y oportunidades para el desarrollo de la mujer tamaulipeca;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+a) Medidas para promover activamente la igualdad de género entre hombres y mujeres, y la plena igualdad de derechos y oportunidades para el desarrollo de la mujer tamaulipeca;
 
 b) Normas para la organización y funcionamiento del Instituto de la Mujer Tamaulipeca, y
 
 c) Procedimientos administrativos para la actuación del Instituto, con objeto de que éste ejerza atribuciones vinculadas con el respeto a los derechos de las mujeres en el Estado.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-1. Corresponde al Estado promover las condiciones para que la equidad de género y la igualdad de derechos y oportunidades para la mujer sea real y efectiva.
+1. Corresponde al Estado promover las condiciones para que la igualdad de género y la igualdad de derechos y oportunidades para la mujer sea real y efectiva.
 
-2. En el ejercicio de sus funciones, los poderes del Estado contribuirán a la eliminación de aquellos obstáculos que en los hechos limiten la equidad de género entre hombres y mujeres, así como la igualdad de derechos y oportunidades para la mujer; a su vez, promoverán la participación de los Ayuntamientos, la generalidad del sector público, y los sectores social y privado en la obtención de ese propósito.
+2. En el ejercicio de sus funciones, los poderes del Estado contribuirán a la eliminación de aquellos obstáculos que en los hechos limiten la igualdad de género entre hombres y mujeres, así como la igualdad de derechos y oportunidades para la mujer; a su vez, promoverán la participación de los Ayuntamientos, la generalidad del sector público, y los sectores social y privado en la obtención de ese propósito.
 
 ###### Artículo 3.
 
@@ -75,13 +81,17 @@ La aplicación de la presente ley corresponde a los órganos públicos del Estad
 
 La acción pública contemplada en la presente ley persigue los fines siguientes:
 
-a) Promover la igualdad de oportunidades para el desarrollo integral de la mujer tamaulipeca, mediante el aliento de la defensa y representación de sus intereses, el fomento de la cultura de equidad y respeto a sus derechos y la adopción de actitudes y compromisos entre los diferentes órdenes de gobierno, así como en la sociedad en su conjunto, para evitar y eliminar cualquier clase de discriminación por razón de género;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+a) Promover la igualdad de oportunidades para el desarrollo integral de la mujer tamaulipeca, mediante el aliento de la defensa y representación de sus intereses, el fomento de la cultura de igualdad y respeto a sus derechos y la adopción de actitudes y compromisos entre los diferentes órdenes de gobierno, así como en la sociedad en su conjunto, para evitar y eliminar cualquier clase de discriminación por razón de género;
 
 b) Impulsar la modificación de patrones socioculturales de conducta de hombres y mujeres, para superar prejuicios y costumbres, así como eliminar cualquier uso o práctica basada en la premisa de la superioridad o inferioridad del hombre o la mujer o en la asignación de estereotipos sociales para uno u otra y que inciden en la desigualdad de la mujer;
 
 c) Alentar una mayor integración de las mujeres a las actividades del desarrollo político, económico, social y cultural del Estado, mediante el impulso de acciones para abrir y ampliar sus oportunidades de participación en todos los ámbitos de la vida pública y privada;
 
-d) Fomentar la equidad de género entre hombres y mujeres, así como la plena igualdad de derechos y oportunidades para el desarrollo integral de la mujer en el Estado, y
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+d) Fomentar la igualdad de género entre hombres y mujeres, así como fortalecer el desarrollo integral de la mujer en el Estado; y
 
 e) Promover la colaboración entre órdenes de gobierno e institucional en el ámbito estatal, así como de la sociedad en general, con el propósito de lograr sinergias a favor de las acciones tendentes a la igualdad de oportunidades para el desarrollo integral de la mujer.
 
@@ -89,13 +99,17 @@ e) Promover la colaboración entre órdenes de gobierno e institucional en el á
 
 Para los efectos de esta ley se entenderá por:
 
-a) Equidad de género: Principio conforme al cual el hombre y la mujer acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyéndose aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones, el trato digno, las oportunidades y los beneficios del desarrollo, en todos los ámbitos de la vida política, económica, social, cultural y familiar.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+a) Igualdad de género: Principio conforme al cual el hombre y la mujer deben gozar de iguales oportunidades, trato y ejercicio de derechos, sin ningún tipo de discriminación y con pleno respeto a las diferencias de género.
 
 b) Género: Asignación que socialmente se hace a hombres y mujeres de determinados valores, creencias, atributos, interpretaciones, roles, representaciones y características.
 
 c) Igualdad: Capacidad de toda persona para tener y disfrutar de los mismos derechos que otra.
 
-d) Medidas positivas o compensatorias: Acciones que se emprenden para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de oportunidades y la equidad para la mujer en el conjunto de su desempeño en la sociedad.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+d) Medidas positivas o compensatorias: Acciones que se emprenden para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de oportunidades y la igualdad para la mujer en el conjunto de su desempeño en la sociedad.
 
 e) Perspectiva de género: Metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas o culturales entre mujeres y hombres, y
 
@@ -103,7 +117,9 @@ f) Sexo: Características distintivas de las personas en razón de su conformaci
 
 ###### Artículo 7.
 
-No se considerarán conductas que atenten contra la equidad de género, en lo aplicable a la mujer:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+No se considerarán conductas que atenten contra la igualdad de género, en lo aplicable a la mujer:
 
 a) Las acciones legislativas o las políticas públicas de carácter positivo que, sin afectar derechos de terceras personas, establezcan tratamientos diferenciados con objeto de promover la igualdad real de oportunidades, entre grupos de personas que lo requieran para compensar situaciones de rezago en el disfrute y ejercicio de sus derechos;
 
@@ -169,7 +185,9 @@ f) Realizar labores que la expongan al contacto con agentes infectocontagiosos o
 
 ###### Artículo 9.
 
-1. Todo órgano público, estatal o municipal, así como los sectores social y privado en el ámbito de su respectiva competencia, desplegará medidas positivas o compensatorias con la finalidad de lograr la equidad de género. A su vez, el Estado promoverá su adopción e impulso en los sectores social y privado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. Todo órgano público, estatal o municipal, así como los sectores social y privado en el ámbito de su respectiva competencia, desplegará medidas positivas o compensatorias con la finalidad de lograr la igualdad de género. A su vez, el Estado promoverá su adopción e impulso en los sectores social y privado.
 
 2. En especial, se alentarán dichas medidas en materia de alimentación, salud, educación, trabajo, vivienda, asistencia social y acceso a la procuración e impartición de justicia.
 
@@ -189,7 +207,9 @@ d) Alentar la adopción de programas en las instituciones públicas de los tres 
 
 e) Impulsar en las instituciones y organizaciones de los sectores público, social y privado, donde el número de mujeres trabajadoras sea menor al de los varones, el derecho preferente de aquéllas a los beneficios de becas para la capacitación laboral, tanto en el Instituto Tamaulipeco de Capacitación para el Empleo como en cualquier otro que se establezca con recursos públicos;
 
-f) Promover el ascenso y la contratación de mujeres para el desempeño de funciones de carácter directivo, con base en su preparación profesional, a fin de reflejar equidad de género en ese ámbito laboral;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+f) Promover el ascenso y la contratación de mujeres para el desempeño de funciones de carácter directivo, con base en su preparación profesional, a fin de reflejar igualdad de género en ese ámbito laboral;
 
 g) Establecer procedimientos para que en los programas sociales de vivienda, las mujeres accedan a la asignación de créditos, por lo menos en la proporción que representen de la población susceptible de beneficiarse de ellos;
 
@@ -203,9 +223,9 @@ j) Disponer procedimientos para evitar se menoscaben los derechos de la mujer en
 
 k) Promover y coordinar acciones para el establecimiento de guarderías para hijos de mujeres de escasos recursos que carecen de esta prestación.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-4. Con el propósito de alentar la equidad de género para la mujer embarazada, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes medidas:
+4. Con el propósito de alentar la igualdad de género para la mujer embarazada, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes medidas:
 
 a) Facilitar el acceso a las instituciones de protección de la salud para la realización de consultas médicas, exámenes de laboratorio y ultrasonido, atención ginecológica, orientación psicológica y psiquiátrica, orientación nutricional y, en general, las atenciones y cuidados médicos necesarios, de conformidad con la Ley de Salud para el Estado;
 
@@ -247,21 +267,29 @@ El Instituto de la Mujer Tamaulipeca es el organismo público descentralizado de
 
 El Instituto tiene los siguientes objetivos:
 
-a) Proponer, fomentar, promover y ejecutar políticas públicas y acciones para lograr la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+a) Proponer, fomentar, promover y ejecutar políticas públicas y acciones para lograr la igualdad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
 
 b) Impulsar la cultura de respeto a los derechos y libertades de la mujer, el trato digno a su persona, su participación equitativa en la toma de decisiones sobre los asuntos de toda índole que le impliquen y su acceso a los beneficios del desarrollo;
 
 c) Promover, proteger, difundir y alentar el respeto de los derechos de las niñas y las mujeres establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales ratificados por México;
 
-d) Elaborar, alentar, poner en marcha y evaluar proyectos y acciones para la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer, así como promover la concertación indispensable para su realización en el ámbito de la sociedad en general;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+d) Elaborar, alentar, poner en marcha y evaluar proyectos y acciones para la igualdad de género a fin de fortalecer el desarrollo integral de la mujer, así como promover la concertación indispensable para su realización en el ámbito de la sociedad en general;
 
 e) Establecer vínculos de colaboración permanente con las dependencias y entidades de la administración pública estatal, así como con las autoridades municipales y los sectores social y privado en atención al cumplimiento de sus funciones;
 
-f) Difundir el conjunto de políticas públicas sobre equidad de género e igualdad de oportunidades para el desarrollo integral de la mujer;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+f) Difundir el conjunto de políticas públicas sobre igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
 
 g) Promover que en los anteproyectos de presupuesto de las dependencias y entidades de la administración pública estatal, así como en el presupuesto de egresos de los Ayuntamientos del Estado, se asignen partidas para el financiamiento de los proyectos y acciones vinculados al cumplimiento de los fines previstos en el artículo 5 de esta ley, y
 
-h) Llevar el registro desagregado por género de los proyectos y acciones públicos estatales que tengan relevancia para el conocimiento de la equidad de género y la igualdad de oportunidades para la mujer en Tamaulipas.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+h) Llevar el registro desagregado por género de los proyectos y acciones públicos estatales que tengan relevancia para el conocimiento de la igualdad de género para la mujer en Tamaulipas.
 
 ###### Artículo 12.
 
@@ -307,11 +335,15 @@ d) Establecer y concertar acuerdos y convenios con las autoridades de los tres �
 
 e) Proponer a los sectores social y privado, así como a la generalidad del sector público, proyectos y acciones dirigidos a mejorar la condición social de las mujeres, mediante la realización de acciones tendentes a prevenir, sancionar, atender y eliminar toda forma de discriminación y violencia contra la mujer;
 
-f) Establecer y operar un sistema de seguimiento de los programas federales, estatales y municipales relacionados con la equidad de género, y la igualdad de oportunidades para el desarrollo integral de la mujer, de conformidad con lo previsto en las leyes y convenios respectivos; y promover la realización de estudios e investigaciones sobre las condiciones políticas, económicas, sociales y culturales de la mujer tamaulipeca, con base en dicho sistema;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+f) Establecer y operar un sistema de seguimiento de los programas federales, estatales y municipales relacionados con la igualdad de género, a fin de fortalecer el desarrollo integral de la mujer, de conformidad con lo previsto en las leyes y convenios respectivos; y promover la realización de estudios e investigaciones sobre las condiciones políticas, económicas, sociales y culturales de la mujer tamaulipeca, con base en dicho sistema;
 
 g) Establecer vínculos de colaboración con el Poder Legislativo y con los Ayuntamientos del Estado, para promover acciones legislativas y reglamentarias que garanticen a las mujeres la igualdad de derechos y oportunidades de desarrollo integral, así como para impulsar la creación de institutos municipales de la mujer por parte de los propios Ayuntamientos;
 
-h) Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración pública estatal, así como de las autoridades municipales y de los sectores social y privado, en materia de equidad de género y de igualdad de oportunidades para el desarrollo integral de la mujer, cuando así lo requieran;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+h) Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración pública estatal, así como de las autoridades municipales y de los sectores social y privado, en materia de igualdad de género a fin de fortalecer el desarrollo integral de la mujer, cuando así lo requieran;
 
 i) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2011)
 
@@ -323,9 +355,13 @@ l) Promover la realización de programas y atención para la mujer de la tercera
 
 ll) Impulsar la prestación de servicios de seguridad social en apoyo de las madres trabajadoras;
 
-m) Fomentar ante las autoridades competentes que los contenidos y materiales educativos estén libres de prejuicios discriminatorios contra las mujeres y fomenten la equidad de género;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-n) Intervenir ante las autoridades competentes, a fin de que se brinde acceso equitativo a la educación y se aliente la permanencia y, en su caso, el reingreso de las mujeres de todas las edades en los distintos niveles y modalidades del sistema educativo, favoreciéndose la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer, así como el desenvolvimiento de sus habilidades intelectuales y manuales;
+m) Fomentar ante las autoridades competentes que los contenidos y materiales educativos estén libres de prejuicios discriminatorios contra las mujeres y fomenten la igualdad de género;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+n) Intervenir ante las autoridades competentes, a fin de que se brinde acceso equitativo a la educación y se aliente la permanencia y, en su caso, el reingreso de las mujeres de todas las edades en los distintos niveles y modalidades del sistema educativo, favoreciéndose la igualdad de género a fin de fortalecer el desarrollo integral de la mujer, así como el desenvolvimiento de sus habilidades intelectuales y manuales;
 
 ñ) Promover ante las autoridades de los tres órdenes de gobierno en materia de salud, el acceso de las mujeres a servicios integrales de salud, considerando las características particulares de su ciclo de vida y condición social;
 
@@ -335,13 +371,17 @@ p) Impulsar, en colaboración con las dependencias de la administración públic
 
 q) Estimular y fomentar la participación activa de las organizaciones de los sectores social y privado en la promoción y defensa de los derechos de la mujer en la formulación, ejecución, seguimiento y evaluación de las políticas y acciones públicas orientadas a su desarrollo integral;
 
-r) Impulsar y difundir acciones tendentes a reconocer públicamente las aportaciones de la mujer al desarrollo del Estado, así como propiciar que los medios de comunicación brinden publicidad a las actividades que beneficien la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+r) Impulsar y difundir acciones tendentes a reconocer públicamente las aportaciones de la mujer al desarrollo del Estado, así como propiciar que los medios de comunicación brinden publicidad a las actividades que beneficien la igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
 
 s) Participar y organizar reuniones y actos de toda índole para el intercambio de experiencias e información en los ámbitos de su competencia, así como promover, producir, publicar y difundir obras y materiales impresos o electrónicos sobre los fines de este ordenamiento;
 
 t) Impulsar la cooperación con organizaciones locales, nacionales e internacionales, en materia de apoyo técnico para el cumplimiento de sus fines, así como para la captación de recursos, de conformidad con las disposiciones aplicables;
 
-u) Emitir informes de evaluación periódica sobre el cumplimiento de los objetivos, estrategias y políticas del Programa Institucional de la Mujer, así como actualizar continuamente el diagnóstico sobre las condiciones de la mujer, en relación con los avances y operatividad de dicho Programa, con base en el conocimiento de los indicadores para medir el impacto de las acciones a favor de la equidad de género;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+u) Emitir informes de evaluación periódica sobre el cumplimiento de los objetivos, estrategias y políticas del Programa Institucional de la Mujer, así como actualizar continuamente el diagnóstico sobre las condiciones de la mujer, en relación con los avances y operatividad de dicho Programa, con base en el conocimiento de los indicadores para medir el impacto de las acciones a favor de la igualdad de género;
 
 v) Establecer comunicación y coordinación permanente con las autoridades responsables de seguridad pública y de procuración e impartición de justicia de los tres órdenes de gobierno, con objeto de proponer medidas de prevención, atención y sanción contra cualquier forma de violación de los derechos de las mujeres, con especial énfasis en los de la niñez;
 
@@ -385,7 +425,9 @@ e) El Secretario de Salud;
 
 f) El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-g) Un Diputado representante del H. Congreso del Estado, integrante de la Comisión de Equidad y Género; y
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+g) Un Diputado representante del H. Congreso del Estado, integrante de la Comisión de Igualdad de Género; y
 
 h) La Presidenta del Consejo Consultivo Ciudadano.
 
@@ -421,7 +463,9 @@ j) Conocer, revisar y, en su caso, aprobar los convenios de colaboración que ha
 
 k) Conocer y, en su caso aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
-l) Aprobar el otorgamiento de estímulos y reconocimientos a mujeres que se hubieren destacado por sus actividades a favor de la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+l) Aprobar el otorgamiento de estímulos y reconocimientos a mujeres que se hubieren destacado por sus actividades a favor de la igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
 
 ll) Expedir la convocatoria para la integración del Consejo Consultivo Ciudadano;
 
@@ -473,7 +517,9 @@ Para ocupar la Dirección General del Instituto se requiere:
 
 a) Haber nacido en el Estado de Tamaulipas, o poseer la ciudadanía mexicana con residencia mínima de cinco años en el Estado, y estar en pleno goce y ejercicio de derechos políticos;
 
-b) Haber destacado por su labor a favor de la equidad de género, la igualdad de oportunidades para el desarrollo integral de la mujer, o en actividades relacionadas con la promoción de la cultura de respeto a los derechos de la mujer;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+b) Haber destacado por su labor a favor de la igualdad de género, y de oportunidades para el desarrollo integral de la mujer, o en actividades relacionadas con la promoción de la cultura de respeto a los derechos de la mujer;
 
 c) No haber sido objeto de condena por delito intencional alguno, o inhabilitación para ocupar algún cargo público, durante el tiempo señalado por esta última sanción, y
 
@@ -487,9 +533,9 @@ a) Asistir a las sesiones de la Junta de Gobierno, con derecho a voz;
 
 b) Administrar y representar legalmente al Instituto, para lo cual tendrá poderes generales para actos de dominio, administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial; para suscribir, endosar y negociar títulos de crédito, sustituirlos o revocarlos; para promover y desistirse del juicio de amparo, querellas y denuncias penales, y para actuar ante todas las autoridades laborales; estos poderes podrán ser otorgados total o parcialmente, a favor de quien la Junta de Gobierno autorice, con base en la propuesta de quien sea titular de la Dirección General;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-c) Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Desarrollo Social, proyectos de iniciativas de ley que favorezcan la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
+c) Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Desarrollo Social, proyectos de iniciativas de ley que favorezcan la igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
 
 d) Celebrar actos y otorgar documentos inherentes al objeto y funciones del Instituto;
 
@@ -501,7 +547,9 @@ f) Presentar a consideración y, en su caso, aprobación de la Junta de Gobierno
 
 g) Elaborar el proyecto de Programa Institucional de la Mujer y someterlo a la aprobación de la Junta de Gobierno;
 
-h) Impulsar el diseño de los proyectos de corto, mediano y largo plazos, vinculados con la equidad de género, tanto en las dependencias y entidades de la administración pública del Estado, así como en los Ayuntamientos del mismo;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+h) Impulsar el diseño de los proyectos de corto, mediano y largo plazos, vinculados con la igualdad de género, tanto en las dependencias y entidades de la administración pública del Estado, así como en los Ayuntamientos del mismo;
 
 i) Formular anualmente el anteproyecto de presupuesto del Instituto, para someterlo a la aprobación de la Junta de Gobierno;
 
@@ -515,7 +563,9 @@ ll) Someter a la revisión y, en su caso, aprobación de la Junta de Gobierno, l
 
 m) Recabar y compilar información y elementos estadísticos sobre la cobertura e impacto social de las funciones del Instituto;
 
-n) Establecer vínculos de colaboración con los responsables del área de equidad de género en cada dependencia o entidad de la administración pública del Estado;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+n) Establecer vínculos de colaboración con los responsables del área de igualdad de género en cada dependencia o entidad de la administración pública del Estado;
 
 ñ) Impulsar la creación de institutos municipales de las mujeres y la apertura de oficinas regionales o municipales del Instituto, y
 
@@ -579,7 +629,9 @@ c) Promover vínculos de colaboración con los responsables de los diversos órd
 
 d) Proponer, dar seguimiento y opinar sobre la ejecución de las políticas públicas, proyectos y acciones que emprenda el Instituto en beneficio de las mujeres, con base en la presente ley;
 
-e) Proponer estrategias y acciones en los diferentes aspectos relacionados con la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+e) Proponer estrategias y acciones en los diferentes aspectos relacionados con la igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
 
 f) Analizar y opinar sobre los proyectos que someta a su consideración la Dirección General del Instituto;
 
@@ -597,7 +649,9 @@ Del Programa Institucional de la Mujer y su cumplimiento.
 
 ###### Artículo 27.
 
-1. El Programa Institucional de la Mujer es el documento comprensivo de las acciones que, en forma planeada y coordinada, deberán realizarse en beneficio de la mujer, a efecto de promover la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. El Programa Institucional de la Mujer es el documento comprensivo de las acciones que, en forma planeada y coordinada, deberán realizarse en beneficio de la mujer, a efecto de promover la igualdad de género a fin de fortalecer el desarrollo integral de la mujer.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -617,7 +671,9 @@ Del Programa Institucional de la Mujer y su cumplimiento.
 
 ###### Artículo 29.
 
-1. Las dependencias y entidades de la administración pública del Estado, en el ejercicio de sus atribuciones y funciones, incorporarán la perspectiva de equidad de género en sus programas, políticas y acciones sectoriales e institucionales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. Las dependencias y entidades de la administración pública del Estado, en el ejercicio de sus atribuciones y funciones, incorporarán la perspectiva de igualdad de género en sus programas, políticas y acciones sectoriales e institucionales.
 
 2. El Instituto establecerá vínculos de colaboración con los poderes Legislativo y Judicial, a fin de procurar la incorporación de la perspectiva de género en los ámbitos de su competencia.
 
@@ -653,7 +709,9 @@ Las facultades del comisario se señalan sin perjuicio de aquellas que le corres
 
 ###### Artículo 32.
 
-1. El Instituto conocerá las quejas sobre presuntas conductas que atenten contra la equidad de género en perjuicio de la mujer a que se refiere esta ley, presentadas directamente por la persona interesada o por medio de su representante.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. El Instituto conocerá las quejas sobre presuntas conductas que atenten contra la igualdad de género en perjuicio de la mujer a que se refiere esta ley, presentadas directamente por la persona interesada o por medio de su representante.
 
 2. El Instituto, a petición de parte y con base en las facultades establecidas en este ordenamiento, realizará las actuaciones a que haya lugar, aunque podrá hacerlo oficiosamente en los casos en que a juicio de la Dirección General y por la gravedad de la situación, así se requiera.
 
@@ -681,7 +739,9 @@ d) Las pruebas con que se pretenda acreditar el dicho de la quejosa.
 
 ###### Artículo 35.
 
-1. En los casos en que simultáneamente se presenten dos o más quejas y éstas se refieran al mismo acto u omisión que presuntamente atente contra la equidad de género tutelada por esta ley, el Instituto podrá acumular los asuntos para su trámite en un solo expediente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. En los casos en que simultáneamente se presenten dos o más quejas y éstas se refieran al mismo acto u omisión que presuntamente atente contra la igualdad de género tutelada por esta ley, el Instituto podrá acumular los asuntos para su trámite en un solo expediente.
 
 2. En ningún caso, la presentación de alguna queja interrumpirá o suspenderá las acciones administrativas o judiciales previstas en otros ordenamientos, que indistintamente se ventilen con relación a los mismos hechos.
 
@@ -695,9 +755,11 @@ d) Las pruebas con que se pretenda acreditar el dicho de la quejosa.
 
 De la Reclamación.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 37.
 
-La reclamación es el procedimiento mediante el cual el Instituto, verifica la realización de conductas presuntamente contrarias a la equidad de género cometidas por los servidores públicos del Estado o de los Ayuntamientos del mismo, en el ejercicio de sus funciones o con motivo de ellas, o por cualquier particular, sea persona física o moral, en el desempeño de sus actividades de cualquier índole.
+La reclamación es el procedimiento mediante el cual el Instituto, verifica la realización de conductas presuntamente contrarias a la igualdad de género cometidas por los servidores públicos del Estado o de los Ayuntamientos del mismo, en el ejercicio de sus funciones o con motivo de ellas, o por cualquier particular, sea persona física o moral, en el desempeño de sus actividades de cualquier índole.
 
 ###### Artículo 38.
 
@@ -759,9 +821,11 @@ La audiencia conciliatoria podrá ser suspendida por el funcionario conciliador 
 
 2. El convenio aludido en el párrafo anterior tendrá carácter de cosa juzgada.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 47.
 
-De no lograrse la conciliación, el Instituto hará saber a las partes, por medio del funcionario conciliador, que procederá a realizar las investigaciones correspondientes sobre los hechos que dieron origen a la reclamación, en términos de la presente ley, con objeto de imponer, en su caso, las medidas administrativas procedentes para lograr la equidad de género prevista en la misma.
+De no lograrse la conciliación, el Instituto hará saber a las partes, por medio del funcionario conciliador, que procederá a realizar las investigaciones correspondientes sobre los hechos que dieron origen a la reclamación, en términos de la presente ley, con objeto de imponer, en su caso, las medidas administrativas procedentes para lograr la igualdad de género prevista en la misma.
 
 #### Sección Cuarta
 
@@ -771,7 +835,9 @@ De la Investigación Administrativa.
 
 1. En la hipótesis prevista por el artículo precedente, el Instituto iniciará la investigación administrativa correspondiente. Al efecto, en todo momento y hasta antes de dictar la respectiva sentencia, tiene las siguientes facultades:
 
-a) Solicitar y recibir de la persona a quien se le atribuya la conducta contraria a los fines de esta ley y sus disposiciones para la equidad de género, o de cualquier otra persona que esté en posibilidad de aportar los elementos para el conocimiento del caso, así como cualquier información o documentación complementaria;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+a) Solicitar y recibir de la persona a quien se le atribuya la conducta contraria a los fines de esta ley y sus disposiciones para la igualdad de género, o de cualquier otra persona que esté en posibilidad de aportar los elementos para el conocimiento del caso, así como cualquier información o documentación complementaria;
 
 b) Realizar visitas e inspecciones;
 
@@ -821,21 +887,33 @@ e) En su caso, el plazo para su cumplimiento.
 
 Las resoluciones que dicte el Instituto tendrán los siguientes efectos:
 
-a) En caso de que se compruebe que la persona ha cometido alguna conducta contraria a la equidad de género o a las disposiciones de la presente ley, señalará las medidas administrativas que deberán de aplicarse, ó
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-b) Si concluida la investigación administrativa no se comprueba la realización de alguna conducta lesiva a la equidad de género en perjuicio de la mujer, se determinará la ausencia de responsabilidad en los términos de esta ley.
+a) En caso de que se compruebe que la persona ha cometido alguna conducta contraria a la igualdad de género o a las disposiciones de la presente ley, señalará las medidas administrativas que deberán de aplicarse, ó
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+b) Si concluida la investigación administrativa no se comprueba la realización de alguna conducta lesiva a la igualdad de género en perjuicio de la mujer, se determinará la ausencia de responsabilidad en los términos de esta ley.
 
 #### Sección Séptima. De las Medidas Administrativas
 
 ###### Artículo 52.
 
-A efecto de lograr la equidad real de género entre la mujer y el varón, el Instituto dispondrá de las siguientes medidas administrativas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-a) La impartición de cursos o seminarios a las instituciones, organizaciones, empresas o servidores públicos estatales o municipales que sean objeto de una resolución dictada por el Instituto en términos del inciso a) del artículo 49 de la presente ley, a fin de difundir la cultura de la equidad de género y la igualdad de derechos y oportunidades para la mujer;
+A efecto de lograr la igualdad real de género entre la mujer y el varón, el Instituto dispondrá de las siguientes medidas administrativas:
 
-b) La fijación de carteles en cualquier oficina pública o establecimiento de quienes incumplan alguna disposición contenida en este ordenamiento, en los que se promueva la modificación de las conductas contrarias a la equidad de género;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-c) La presencia del personal del Instituto para promover y verificar la adopción de medidas a favor de la equidad de género y la igualdad de oportunidades para la mujer, en las oficinas públicas o establecimiento de quienes sean objeto de una resolución en su contra, y
+a) La impartición de cursos o seminarios a las instituciones, organizaciones, empresas o servidores públicos estatales o municipales que sean objeto de una resolución dictada por el Instituto en términos del inciso a) del artículo 49 de la presente ley, a fin de difundir la cultura de la igualdad de género a fin de fortalecer el desarrollo integral para la mujer;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+b) La fijación de carteles en cualquier oficina pública o establecimiento de quienes incumplan alguna disposición contenida en este ordenamiento, en los que se promueva la modificación de las conductas contrarias a la igualdad de género;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+c) La presencia del personal del Instituto para promover y verificar la adopción de medidas a favor de la igualdad de género a fin de fortalecer el desarrollo integral de la mujer, en las oficinas públicas o establecimiento de quienes sean objeto de una resolución en su contra, y
 
 d) La publicación o difusión de una síntesis de la resolución en los medios impresos o electrónicos de comunicación que disponga el Instituto.
 
@@ -849,11 +927,15 @@ b) La gravedad del hecho, el acto o la práctica realizada, y
 
 c) La reincidencia.
 
-2. Se entiende por reincidencia el hecho de que la misma persona incurra en una nueva violación a la prohibición de desplegar conductas contrarias a la equidad de género o la igualdad de oportunidades para el desarrollo integral de la mujer.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. Se entiende por reincidencia el hecho de que la misma persona incurra en una nueva violación a la prohibición de desplegar conductas contrarias a la igualdad de género o que menoscaben el desarrollo integral de la mujer.
 
 ###### Artículo 54.
 
-1. El Instituto podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas a favor de la equidad de género y la igualdad de derechos y oportunidades para la mujer, en sus prácticas, ordenamientos organizativos y asignaciones presupuéstales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. El Instituto podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas a favor de la igualdad de género y que fortalezcan el desarrollo integral la mujer, en sus prácticas, ordenamientos organizativos y asignaciones presupuestales.
 
 2. El reconocimiento será otorgado previa solicitud de parte interesada al Instituto. Dicho reconocimiento será de carácter honorífico y tendrá una vigencia de un año.
 
@@ -901,7 +983,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del estad
 
 ATENTAMENTE - SUFRAGIO EFECTIVO. NO REELECCIÓN. - EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE DICIEMBRE DE 2005.
 
@@ -936,3 +1018,9 @@ Conforme a su integración en términos del presente Decreto, el Consejo Consult
 ###### ARTÍCULO CUARTO.
 
 La Junta de Gobierno propondrá al Ejecutivo del Estado el proyecto de Estatuto Orgánico del Instituto, dentro de los ciento veinte días naturales siguientes a su instalación.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
