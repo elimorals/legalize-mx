@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-750
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-25"
-last_updated: "2010-05-25"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 2010.
 
@@ -1558,3 +1560,15 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+24 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente reglamento interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobierno, publicado en el Periódico Oficial del Gobierno del Estado de fecha 25 de mayo de 2010.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+CUARTO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
