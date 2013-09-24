@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2013-09-18"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1485,7 +1485,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-- Para los efectos de este impuesto se considera:
+Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -2429,6 +2429,10 @@ Las relaciones laborales entre los organismos o empresas paramunicipales y sus r
 
 Tratándose del personal adscrito a las áreas de seguridad pública, se regirán en lo que corresponda por las disposiciones de este Código y las propias de la materia de seguridad.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+El procedimiento para resolver las controversias que se susciten entre los Ayuntamientos y sus trabajadores, se sujetará al que se encuentre establecido en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+
 ###### ARTICULO 200.
 
 Para los efectos de este título, la relación jurídica de trabajo se entiende establecida entre el Municipio y los trabajadores de base a su servicio.
@@ -2529,15 +2533,25 @@ XXXIX.- El Jefe de Biblioteca.
 
 XL.- Los demás que se determinen en el nombramiento respectivo.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Quedan excluidos del régimen del presente Código, los trabajadores de confianza a quienes se refiere este artículo, y aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios; sin embargo, por su propia naturaleza, los trabajadores de confianza únicamente disfrutarán de las medidas de protección al salario y de los beneficios de la seguridad social.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Al crearse categorías o cargos de confianza no comprendidos en el presente artículo, ésta se determinará expresamente por la disposición legal que formalice su creación.
+
 ###### ARTICULO 204.
 
 Son trabajadores de base los no incluidos en la enumeración anterior, y que por ello serán inamovibles. Los de nuevo ingreso serán de base después de seis meses de servicio.
 
 Cuando se trate de plazas de nueva creación, la clasificación de base o de confianza que corresponda a un trabajador, se determinará expresamente por la disposición o acuerdo que formalice su creación. Sin este requisito no se otorgará el nombramiento respectivo.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 205.
 
-En todo lo no previsto en el presente título que regula las relaciones laborales entre los Ayuntamientos y sus respectivos trabajadores de base, se aplicarán las disposiciones contenidas en las condiciones generales de trabajo que expida el Ayuntamiento correspondiente, las cuales surtirán efecto a partir de su depósito en el Tribunal de Conciliación y Arbitraje.
+En todo lo no previsto en el presente Título que regula las relaciones laborales entre los Ayuntamientos y sus respectivos trabajadores de base, se aplicarán supletoriamente las disposiciones contenidas en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas y las Condiciones Generales de Trabajo que expida el Ayuntamiento correspondiente, las cuales surtirán efecto a partir de su depósito en el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
 
 ### CAPITULO VI. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
@@ -2631,13 +2645,17 @@ Durante las horas de jornada legal, los trabajadores tendrán obligación de des
 
 ### CAPITULO VIII. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 222.
 
 El salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados el que en ningún caso será menor al mínimo vigente en la región.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 223.
 
-El salario será uniforme para cada una de las categorías de trabajadores, y será fijado en el Presupuesto de Egresos del Ayuntamiento y su cuantía no podrá ser disminuida durante la vigencia del presupuesto correspondiente. De ser posible, se establecerán aumentos periódicos de salario por años de servicio, de conformidad con la capacidad económica del Ayuntamiento.
+El salario será uniforme para cada una de las categorías de trabajadores y, de conformidad con las Condiciones Generales de Trabajo, será fijado en el Presupuesto de Egresos del Ayuntamiento y su cuantía no podrá ser modificada durante la vigencia del presupuesto correspondiente. De ser posible, se establecerán aumentos periódicos de salario por años de servicio, de conformidad con la capacidad económica del Ayuntamiento.
 
 ###### ARTICULO 224.
 
@@ -2745,7 +2763,7 @@ IV.- Con motivo de la suspensión no se prestará el servicio y en el caso de la
 
 ###### ARTICULO 231.
 
-Ningún trabajador de base al servicio del Ayuntamiento podrá ser cesado sino por causa justificada. El nombramiento de los trabajadores sólo dejará de surtir efectos, sin responsabilidad para el Ayuntamiento, por las siguientes causas:
+A excepción de los trabajadores de confianza, ningún trabajador podrá ser removido, cesado o despedido sin causa justificada. El nombramiento de los trabajadores sólo dejará de surtir efectos, sin responsabilidad para el Ayuntamiento, por las siguientes causas:
 
 I.- Por renuncia.
 
@@ -2779,6 +2797,30 @@ XV.- Por muerte del trabajador.
 
 XVI.- Por resolución dictada en los términos de la Ley de Responsabilidades de Servidores Públicos. En los supuestos de las fracciones IV y VI de este artículo, el trabajador será indemnizado con el importe de tres meses de salario y con la prima de antigüedad consistente en 12 días de salario por cada año de servicio.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de que la separación del trabajador sea considerada injustificada mediante laudo ejecutoriado dictado por el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y los Municipios, se cubrirá al trabajador el importe de tres meses de salario y los salarios vencidos desde la fecha del despido hasta la fecha de la emisión del laudo ejecutoriado, sin que pueda exceder de un máximo de doce meses.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de muerte del trabajador, a partir de la fecha del fallecimiento, dejarán de computarse los salarios vencidos como parte del conflicto.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Para el cumplimiento de las obligaciones derivadas de los laudos ejecutoriados en los términos en que sean dictados por el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, los Ayuntamientos dispondrán en su presupuesto de un fondo económico, mismo que será incrementado anualmente conforme al comportamiento de las incidencias de esta naturaleza. De ser insuficiente, el saldo deberá incluirse en el presupuesto de egresos del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Solamente estas reservas podrán ser embargadas para los efectos antes mencionados, se exceptúan los bienes y derechos, recursos, inversiones y cuentas bancarias de los Municipios, que son necesarios para el desarrollo de actividades o funciones que se traduzcan en la prestación de un servicio público.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 231 Bis.
+
+Cuando el trabajador incurra en alguna de las causales de recisión previstas en el artículo anterior, el Ayuntamiento, la dependencia o entidad por conducto del servidor público habilitado para tal efecto, le dará aviso, en forma personal y escrita o en el último domicilio que haya proporcionado el trabajador.
+
+En el supuesto de que por causa justificada no se efectúe la notificación referida, deberá hacerse la constancia relativa y comunicarse dentro del plazo de 5 días hábiles al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, para que éste le notifique personalmente al trabajador en el domicilio señalado, produciendo dicha notificación efectos plenos, aún cuando no se le localice.
+
 ### CAPITULO XIII. DEL PROCEDIMIENTO
 
 ###### ARTICULO 232.
@@ -2799,9 +2841,11 @@ El trabajador de confianza no podrá formar parte de la organización sindical; 
 
 Para que se constituya un Sindicato se requiere que lo formen veinte trabajadores o más en servicio activo y que no exista dentro del Ayuntamiento otra agrupación sindical que cuente con mayor número de miembros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 236.
 
-El Sindicato será registrado ante el Tribunal de Conciliación y Arbitraje, remitiendo por duplicado los siguientes documentos:
+El Sindicato será registrado ante el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, remitiendo por duplicado los siguientes documentos:
 
 I.- Acta de asamblea constitutiva o copia de ella, autorizada por la directiva de la agrupación.
 
@@ -2811,7 +2855,9 @@ III.- El acta de la asamblea en que se haya designado la mesa directiva o copia 
 
 IV.- Una lista de los miembros de que se componga el Sindicato, con expresión de nombres de cada uno de ellos, estado civil, edad, empleo que desempeña, sueldo que percibe y relación pormenorizada de sus antecedentes como trabajador e identificación del Ayuntamiento para el que presta sus servicios.
 
-El Tribunal de Conciliación y Arbitraje al recibir la solicitud de registro, comprobará por los medios que estime más prácticos y eficaces la veracidad de los datos. Satisfechos los requisitos, en su caso, concederá el registro.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Al recibir la solicitud de registro, el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios comprobará, por los medios que estime más prácticos y eficaces, la veracidad de los datos. Satisfechos los requisitos, en su caso, concederá el registro.
 
 ###### ARTICULO 237.
 
@@ -2833,13 +2879,21 @@ El Ayuntamiento no podrá aceptar, en ningún caso, la cláusula de exclusión.
 
 Son obligaciones de los sindicatos:
 
-I.- Proporcionar los informes que le solicite el Tribunal de Conciliación y Arbitraje.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Comunicar al Tribunal de Conciliación y Arbitraje, dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su directiva, las altas y bajas de sus miembros, y las modificaciones que sufran sus estatutos.
+l.- Proporcionar los informes que le solicite el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios;
 
-III.- Facilitar la labor del Tribunal de Conciliación y Arbitraje en los conflictos que se ventilan ante el mismo, ya sean del sindicato o de sus miembros, proporcionando la colaboración que se les solicite.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Representar y patrocinar a sus miembros ante las autoridades y ante el Tribunal de Conciliación y Arbitraje cuando les fuere solicitado.
+II.- Comunicar al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su directiva, las altas y bajas de sus miembros, y las modificaciones que sufran sus Estatutos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Facilitar la labor del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios en los conflictos que se ventilan ante el mismo, ya sean del sindicato o de sus miembros, proporcionando la colaboración que se les solicite; y
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Representar y patrocinar a sus miembros ante las autoridades y ante el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, cuando les fuere solicitado.
 
 ###### ARTICULO 242.
 
@@ -2873,9 +2927,11 @@ I.- Por el voto de las dos terceras partes de los miembros que lo integran.
 
 II.- Porque dejen de satisfacer los supuestos establecidos en el Artículo 235.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 246.
 
-En los casos de violación a lo dispuesto en el Artículo 242, el Tribunal de Conciliación y Arbitraje determinará la cancelación del registro de la directiva o del registro del sindicato según corresponda.
+En los casos de violación a lo dispuesto en el artículo 242 y previo el procedimiento correspondiente, escuchando a las partes interesadas, el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios determinará la cancelación del registro de la directiva o del registro del sindicato, según corresponda.
 
 ###### ARTICULO 247.
 
@@ -2917,15 +2973,17 @@ I.- Que se ajuste a los términos del Artículo 250.
 
 II.- Que sea declarada por las dos terceras partes de los trabajadores del Municipio.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 255.
 
-Antes de suspender las labores, los trabajadores deberán presentar al Presidente del Tribunal de Conciliación y Arbitraje su pliego de peticiones con la copia del acta de la asamblea en que se haya acordado declarar la huelga. El Presidente, una vez recibido el escrito y sus anexos, correrá traslado con la copia de ellos al Ayuntamiento para que dé respuesta a las peticiones en el término de diez días, a partir de la notificación.
+Antes de suspender las labores, los trabajadores deberán presentar al Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios su pliego de peticiones, con la copia del acta de la asamblea en que se haya acordado declarar la huelga, la que deberá indicar la decisión tomada por la mayoría de los trabajadores de base de la dependencia o entidad correspondiente. El Presidente, una vez recibido el escrito y sus anexos, correrá traslado con la copia de ellos al Ayuntamiento, para que en el término de diez días a partir de la notificación dé respuestas a las peticiones.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 256.
 
-El Tribunal de Conciliación y Arbitraje resolverá en el plazo de cinco días, computados desde el día siguiente al de expiración del término a que se refiere el artículo anterior, si la declaración de huelga es legal o ilegal. Si la declaración de huelga es legal, procederá desde luego a la conciliación de las partes, siendo obligatoria la presencia de éstas en las audiencias de avenimiento.
+El Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios resolverá en el plazo de cinco días hábiles, computados desde el día siguiente al de expiración del término a que se refiere el artículo anterior, si la petición de huelga es procedente. En caso de ser procedente se iniciaría la conciliación de las partes, siendo obligatoria la presencia de éstas en las audiencias de avenimiento.
 
 En caso de no llegar a un acuerdo, los trabajadores podrán suspender las labores observándose lo dispuesto en el Artículo 262.
 
@@ -2955,13 +3013,17 @@ II.- Por resolución de la asamblea de los trabajadores tomada por acuerdo de la
 
 III.- Por declaración de ilegalidad o inexistencia.
 
-IV.- Cuando a juicio del Tribunal de Conciliación y Arbitraje haya cesado la causa que dio origen al conflicto. En este caso el Tribunal fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que quedarán cesados, sin responsabilidad para el Ayuntamiento en el caso de no acatar la resolución.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Cuando a juicio del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios haya cesado la causa que dio origen al conflicto. En este caso el Tribunal fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que quedarán cesados, sin responsabilidad para el Ayuntamiento, en el caso de no acatar la resolución; y
 
 V.- Por laudo del Tribunal.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 262.
 
-Al resolverse que una declaración de huelga es legal, el Tribunal de Conciliación y Arbitraje, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de sus labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las oficinas, talleres y demás instalaciones, o signifique un peligro para la salud pública.
+Al resolverse que una declaración de huelga es legal, el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de su labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las oficinas, talleres y demás instalaciones, o signifique un peligro para la salud pública; en caso de negativa, el Ayuntamiento designará al personal que pueda desempeñarlos.
 
 ### CAPITULO II. DE SU PATRIMONIO DOCUMENTAL
 
@@ -2987,13 +3049,17 @@ IV.- Las acciones de los Ayuntamientos para suspender, cesar o disciplinar a sus
 
 La prescripción no puede comenzar ni correr contra los incapacitados mentales sino cuando se haya discernido su tutela conforme a la Ley.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 266.
 
-La prescripción se interrumpe por la sola presentación de la demanda respectiva ante el Tribunal de Conciliación y Arbitraje o cuando se reconoce el derecho de la persona contra quien prescribe, por escrito o por hechos indudables.
+La prescripción se interrumpe por la sola presentación de la demanda respectiva ante el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, o cuando se reconoce el derecho de la persona contra quien prescribe, por escrito o por hechos indudables.
 
 ###### ARTICULO 267.
 
 Para los efectos de la prescripción los meses se regularán por el número de días que le correspondan: el primer día contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
 
@@ -3001,61 +3067,37 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ###### ARTICULO 268.
 
-El Tribunal de Conciliación y Arbitraje de los Municipios para los trabajadores al servicio de los Ayuntamientos será colegiado y se integrará de la siguiente manera:
-
-Un Arbitro representante de los Municipios.
-
-Un Arbitro representante de los trabajadores.
-
-Un tercer Arbitro que será Licenciado en Derecho, nombrado por los Arbitros representantes de los Municipios y de los trabajadores y fungirá como Presidente.
-
-En la elección de los representantes del Ayuntamiento y de los trabajadores se convocará aplicando por analogía el Capítulo correspondiente de la Ley Federal del Trabajo.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 269.
 
-Para la designación de nuevos Arbitros, por vacante, se hará en los términos expresados en el Artículo anterior. Las faltas temporales del Presidente serán cubiertas por el Secretario de Acuerdos y las de los demás Arbitros por la persona representante previamente designada como suplente por la entidad que represente.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 270.
 
-Para ser miembro del Tribunal de Conciliación y Arbitraje de los Municipios se requiere:
-
-a).- Ser ciudadano tamaulipeco en pleno goce de sus derechos civiles.
-
-b).- Ser mayor de veinticinco años.
-
-c).- No haber sido condenado por delito intencional.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 271.
 
-El representante de los trabajadores deberá tener una antigüedad de tres años como trabajador de base al servicio del Municipio, anterior a su designación.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 272.
 
-El Presidente del Tribunal durará en su cargo tres años y los demás representantes podrán ser removidos libremente por quienes los designaron. Los emolumentos de los Arbitros y de los empleados, serán cubiertos proporcionalmente por los Ayuntamientos.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 273.
 
-El Tribunal de Conciliación y Arbitraje de los Municipios, contará con un Secretario General y los empleados que señale las necesidades del servicio. El personal del Tribunal, a excepción del Secretario de Acuerdos, estarán sujetos al presente ordenamiento, pero los conflictos que se susciten con motivo de su aplicación, serán resueltos por las autoridades locales del trabajo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 274.
 
-Los gastos que origine el funcionamiento del Tribunal de Conciliación y Arbitraje de los Municipios se cubrirán proporcionalmente por la Secretaría de Finanzas del Gobierno del Estado, aplicando la tasa del uno al millar a las participaciones que reciben los Ayuntamientos.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 275.
 
-El Tribunal de Conciliación y Arbitraje de los Municipios residirá en la capital del Estado y será competente para:
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
-I.- Conocer de los conflictos individuales que se susciten entre los Ayuntamientos y sus trabajadores.
-
-II.- Conocer de los conflictos colectivos que surjan entre los Ayuntamientos y sus respectivas organizaciones de trabajadores.
-
-III.- Conceder el registro de los sindicatos de trabajadores municipales, cuando proceda y resolver la cancelación del mismo, en su caso.
-
-IV.- Efectuar el registro de las condiciones generales de trabajo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
@@ -3063,91 +3105,79 @@ IV.- Efectuar el registro de las condiciones generales de trabajo.
 
 ###### ARTICULO 276.
 
-El procedimiento para resolver todas las controversias que se sometan al Tribunal de Conciliación y Arbitraje se reducirán a la presentación de la demanda respectiva, que deberá hacerse por escrito; a la contestación que en igual forma se dé a la demanda y a una sola audiencia en la que se presentarán pruebas y alegatos de las partes. El Tribunal pronunciará resolución dentro del término de cinco días siguientes a la audiencia, a menos que, a su juicio, se requiera la práctica de diligencias posteriores, en cuyo caso ordenará que se lleven a cabo y una vez efectuadas, dictará la resolución que corresponda.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 277.
 
-La demanda deberá contener:
-
-I.- El nombre, domicilio y empleo del reclamante.
-
-II.- El nombre, domicilio y designación oficial del demandado.
-
-III.- El objeto de la demanda.
-
-IV.- Una relación detallada de los hechos; y
-
-V.- La indicación del lugar en que puedan obtenerse las pruebas que el demandante no pudiera aportar directamente y que tengan por objeto la verificación de los hechos en que se funda la demanda y las diligencias que con el mismo fin se soliciten para ser practicadas por el Tribunal. A la demanda se acompañarán las pruebas de que disponga el demandante y los documentos que acrediten la personalidad de representante en caso de que el demandante no pueda ocurrir personalmente.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 278.
 
-La contestación de la demanda deberá reunir los mismos requisitos que ésta. Será presentada en un término que no exceda de diez días hábiles contados a partir de la fecha en que fuere notificada personalmente en el domicilio del demandado.
-
-Cuando el domicilio del demandado se encuentre fuera del lugar en el que radica el Tribunal, se ampliará el término en un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 279.
 
-Inmediatamente que el Tribunal reciba la contestación de la demanda, o transcurrido el plazo para contestar, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, testigos y peritos para la audiencia de pruebas y alegatos.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 280.
 
-Los trabajadores podrán comparecer por sí o por medio de representantes debidamente acreditados en los términos del derecho común.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 281.
 
-Los Ayuntamientos serán representados por los Síndicos o por medio de apoderados que se acrediten mediante oficio.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 282.
 
-Los Secretarios Generales o de Conflictos de los Sindicatos al Servicio de los Ayuntamientos podrán tener el carácter de Asesor o Representante del trabajador ante el Tribunal, sin perjuicio del derecho de éste para designar a cualquiera otra persona que lo represente.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 283.
 
-El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas, para resolver los asuntos a verdad sabida y buena fe guardada, debiendo expresar las consideraciones de hecho y derecho en que funda su decisión.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 284.
 
-Cualquier incidente que se suscite con motivo de la personalidad o de la representación, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y otros motivos análogos, será resuelto de plano al dictar resolución en los términos a que se refiere el Artículo anterior.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 285.
 
-Las notificaciones se harán personalmente a los interesados por los actuarios del Tribunal o mediante oficios enviados con acuse de recibo. Todos los términos correrán a partir del día siguiente a aquel en que se haga el emplazamiento, citación o notificación y se mencionará en ellos el día del vencimiento.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 286.
 
-El Tribunal sancionará las faltas de respeto que se cometan por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa que no podrá exceder del equivalente a diez días de salario mínimo.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 287.
 
-Toda compulsa de documentos se hará a costa de los interesados.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 288.
 
-Los miembros del Tribunal de Conciliación y Arbitraje no podrán ser recusados.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 289.
 
-Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje son inapelables y deberán cumplirse por las Autoridades o trabajadores a quien perjudique, una vez que sean notificados.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 290.
 
-Las Autoridades están obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar sus resoluciones, cuando fueran requeridas para ello.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 291.
 
-El Tribunal de Conciliación y Arbitraje no podrá condenar el pago de costas.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 292.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta el equivalente de treinta días de salario mínimo, las cuales se harán efectivas a través de las Tesorerías Municipales correspondientes y auxiliarse de la fuerza pública.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013).
 
 ###### ARTICULO 293.
 
-El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de sus resoluciones, dictando todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ###### ARTICULO 294.
 
-Cuando se pida la ejecución de una resolución, el Tribunal despachará auto de ejecución y comisionará un actuario para que, asociado de la parte correspondiente, se constituya en el domicilio de la demandada y la requiera para que cumpla con dicha resolución, apercibiéndola que, de no hacerlo, se procederá conforme a lo dispuesto en los artículos procedentes.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3591,7 +3621,7 @@ P.O. 27 DE FEBRERO DE 1999.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 22 DE DICIEMBRE DE 1999
+P.O. 22 DE DICIEMBRE DE 1999.
 
 ###### ARTICULO PRIMERO.
 
@@ -3719,7 +3749,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga la Ley del Servicio Público de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de las Aguas Tratadas del Estado de Tamaulipas, expedida mediante Decreto número 319 de la Quincuagésima Cuarta Legislatura del Estado, publicado en el Periódico Oficial del Estado anexo al número 62 del 1 de agoto de 1992, y reformada mediante el Decreto número 547 de la Quincuagésima Quinta Legislatura, publicado en el periódico Oficial del Estado número 103 del 27 de diciembre de 1995 y mediante Decreto 124 de la Quincuagésima Octava Legislatura del Estado, publicado en el Periódico Oficial del Estado anexo al número 147 del 5 de diciembre de 2002.
+Se abroga la Ley del Servicio Público de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de las Aguas Tratadas del Estado de Tamaulipas, expedida mediante Decreto número 319 de la Quincuagésima Cuarta Legislatura del Estado, publicado en el Periódico Oficial del Estado anexo al número 62 del 1 de agosto de 1992, y reformada mediante el Decreto número 547 de la Quincuagésima Quinta Legislatura, publicado en el periódico Oficial del Estado número 103 del 27 de diciembre de 1995 y mediante Decreto 124 de la Quincuagésima Octava Legislatura del Estado, publicado en el Periódico Oficial del Estado anexo al número 147 del 5 de diciembre de 2002.
 
 ###### ARTICULO TERCERO.
 
@@ -3967,7 +3997,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 ###### ARTICULO SEGUNDO.
 
-El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4º de fa Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
+El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4º de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
 
 P.O. 29 DE DICIEMBRE DE 2010.
 
@@ -4008,3 +4038,53 @@ P.O. 18 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos que se hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá quedar instalado el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+En virtud de lo anterior, quedarán sin efectos a partir de la designación de los representantes de los Ayuntamientos y de los trabajadores al servicio de los Municipios, los nombramientos de los actuales representantes del Tribunal de Conciliación y Arbitraje de los Municipios, pasando los asuntos que se hayan iniciado ante el mismo y que no hayan sido concluidos, a la Sala de los Municipios del Tribunal de Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, para la designación de los representantes de los Ayuntamientos y de los trabajadores al servicio de los Municipios, a más tardar a los 10 días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado o la Diputación Permanente, en su caso, así como la Secretaría del Trabajo y Asuntos Jurídicos, deberán lanzar las convocatorias para llevar a cabo el procedimiento de designación, conforme a lo establecido en los artículos 92 Ter y 92 Quáter, respectivamente, de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Los actuales representantes del Gobierno del Estado y de los trabajadores al Servicio del Estado que integran al Tribunal de Arbitraje de los Trabajadores al Servicio del Estado, seguirán vigentes hasta el término del plazo para el cual fueron nombrados, e integrarán la Sala de de (sic) los Poderes del Estado del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Tratándose del actual Presidente del Tribunal de Arbitraje de los Trabajadores al Servicio del Estado, su nombramiento quedará sin efectos a partir de que se encuentren instaladas las Salas señaladas en el artículo 92 Bis de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, sin demérito que pueda ser designado como Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTÍCULO SÉPTIMO.
+
+La designación del Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, deberá hacerse a más tardar a los tres días posteriores a los que se encuentren instaladas las 2 Salas que integran el mencionado Tribunal.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos materiales, humanos y financieros al servicio del Tribunal de Conciliación y Arbitraje de los Municipios que se extingue mediante el presente Decreto, se transferirán al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y de los Municipios de Tamaulipas; en el caso de los trabajadores, las relaciones laborales de los mismos quedarán intactas, sin demérito de sus derechos laborales adquiridos.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los sesenta días siguientes posteriores a la instalación del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, se deberá expedir el Reglamento Interior del citado Tribunal.
+
+###### ARTÍCULO DÉCIMO.
+
+Se autoriza al Gobernador del Estado para que por conducto del Secretario del Trabajo y Asuntos Jurídicos, se designe a los servidores públicos adscritos a dicha dependencia que funjan de manera provisional y hasta en tanto se realicen los nombramientos del Procurador y de los Procuradores Auxiliares de la Procuraduría de la Defensa del Trabajo del Servidor Público.
+
+Los actos jurídicos que realicen los servidores públicos designados conforme al párrafo anterior, tendrán plena validez hasta en tanto se nombren en forma definitiva el Procurador y los Procuradores Auxiliares de la Procuraduría de la Defensa del Trabajo del Servidor Público.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
