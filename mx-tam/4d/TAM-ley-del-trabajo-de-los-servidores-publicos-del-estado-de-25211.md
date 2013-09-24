@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2010-12-16"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
+LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -46,6 +46,10 @@ LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS.
 ###### ARTICULO 1o.
 
 La presente ley rige las relaciones de trabajo entre el Gobierno del Estado de Tamaulipas y sus trabajadores, excluyéndose aquellos que por su sistema de trabajo se rijan por sus propias disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Las relaciones de trabajo estarán regidas por los principios de la dignidad humana, la igualdad y la no discriminación, a fin de lograr equidad de condiciones para participar en la vida política, social, económica y cultural del Estado, y aumentar el bienestar de la sociedad y de la familia.
 
 ###### ARTICULO 2o.
 
@@ -73,7 +77,9 @@ A).- EN EL PODER EJECUTIVO:
 
 a).- Los titulares de las dependencias que establezca la Ley Orgánica de la Administración Pública del Estado y los titulares de los Organismos representantes del Gobierno del Estado;
 
-b).- En los tribunales administrativos: El Presidente, Secretarios Generales, los Auxiliares y Secretarios de Acuerdos;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+b).- En los tribunales laborales los Presidentes de la Junta Local, el Presidente del Tribunal, los Presidentes de la Junta Especial, los Secretarios Generales, los Secretarios Auxiliares, los Auxiliares, los Funcionarios Conciliadores, los Secretarios, los Actuarios, y demás servidores públicos que sean considerados como personal jurídico de acuerdo a las leyes, asimismo, los que se encuentran dotados de fe pública; y en los tribunales administrativos: El Presidente, los Magistrados, los Secretarios Generales, los Secretarios Auxiliares y los Actuarios, así como los demás servidores públicos que realicen labores jurídicas conforme a la ley o se encuentren investidos de fe pública;
 
 c).- Los Oficiales del Registro Civil;
 
@@ -105,9 +111,9 @@ g).- Los demás que desempeñen función de:
 
 8.- LOS SECRETARIOS PARTICULARES Y AYUDANTES DE LAS DEPENDENCIAS Y DIRECTORES GENERALES.- Así como el personal adscrito presupuestalmente a aquellos servidores cuyos nombramientos o ejercicio requiera la aprobación expresa del Gobernador del Estado; y
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-9.- EN LAS INSTITUCIONES POLICIALES Y DE PROCURACION DE JUSTICIA.- Que se integran por la Policía Ministerial, Policía Rural, Seguridad Integral, Policía Estatal Preventiva, Policía Especial y el personal que labora en los Centros de Ejecución de Sanciones, ya sea para adultos, o para adolescentes, que se rigen por sus propias disposiciones reglamentarias, incluido el personal administrativo.
+9.- EN LAS INSTITUCIONES POLICIALES Y DE PROCURACIÓN DE JUSTICIA.- Que se integran por las Policías Ministerial, Investigadora, Estatal, Auxiliar y el personal que labora en los Centros de Ejecución de Sanciones para adultos, o en los Centros de Reintegración Social y Familiar para Menores Infractores, que se rigen por sus propias disposiciones legales y reglamentarias, incluido el personal administrativo.
 
 B).- EN EL PODER LEGISLATIVO:
 
@@ -153,6 +159,18 @@ C).- EN EL PODER JUDICIAL:
 
 10.- El Personal que realice funciones de Dirección, Inspección, Vigilancia o Fiscalización.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Los servidores públicos de confianza, podrán ser nombrados y removidos libremente por el titular del Poder u organismo constitucionalmente autónomo al cual estén adscritos o por quien conforme a la ley tenga facultades para ello.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Quedan excluidos del régimen de la presente Ley, los trabajadores de confianza a quienes se refiere el artículo 4o fracción II, y aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios; sin embargo, por su propia naturaleza, los trabajadores de confianza únicamente disfrutarán de las medidas de protección al salario y de los beneficios de la seguridad social.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Al crearse categorías o cargos de confianza no comprendidos en el presente artículo, ésta se determinará expresamente por la disposición legal que formalice su creación.
+
 ###### ARTICULO 5o.
 
 Para los efectos de esta ley:
@@ -163,17 +181,19 @@ I.- El término Gobierno del Estado comprende a los Poderes del Estado de Tamaul
 
 II.- El de Sindicato por el Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas y Organismos Descentralizados;
 
-III.- El de Tribunal de Arbitraje por Tribunal de Arbitraje de los Trabajadores al Servicio del Estado; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- El de Tribunal de Conciliación y Arbitraje al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios; y
 
 IV.- Por dependencia se entiende la unidad definida en el Presupuesto de Egresos como Secretaría, Dirección y Departamento.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 6o.
 
-En lo no previsto por esta ley o sus reglamentos, se aplicaran supletoriamente y en su orden, la Ley Federal del Trabajo, el Código de Procedimientos Civiles para el Estado de Tamaulipas, la costumbre, el uso y los principios generales de derecho; salvo que por expresa referencia de la misma remita a otro ordenamiento, circunstancia en la cual se estará a lo establecido.
+En lo no previsto por esta Ley o sus reglamentos, se aplicarán supletoriamente y en su orden, la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional, la costumbre, el uso y los principios generales de derecho; en cuanto al procedimiento, se estará a lo establecido por la Ley Federal del Trabajo, salvo que por expresa referencia de la misma remita a otro ordenamiento, circunstancia en la cual se estará a lo establecido en ese sentido.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-En tratándose del personal adscrito a las instituciones policiales o de procuración de justicia, se regirán, en lo conducente, por sus propias disposiciones, sin demérito de la aplicación supletoria de esta ley.
+Tratándose del personal adscrito a las instituciones de seguridad pública, en sentido amplio, se regirán, por sus propias disposiciones.
 
 ## TITULO SEGUNDO. DERECHOS DE LOS TRABAJADORES Y DEL GOBIERNO DEL ESTADO
 
@@ -189,7 +209,9 @@ Para los efectos de este ordenamiento los trabajadores se definen como:
 
 I.- Base Sindical.- Aquel cuya relación de trabajo se lleva a cabo mediante nombramiento definitivo expedido para cubrir una vacante o plaza de nueva creación, determinada por el presupuesto de egresos del Gobierno del Estado;
 
-II.- Confianza.- Son los que desempeñan funciones de dirección, inspección y vigilancia, y fiscalización, cuando tengan carácter general, así como aquellos que determinen las leyes o reglamentos especiales que regulen la organización y funcionamiento de las distintas dependencias o de las áreas administrativas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Confianza.- Son los que desempeñen funciones de dirección, inspección, vigilancia y fiscalización, dentro del área en la que se desarrollen, así como aquellos que determinen las leyes o reglamentos especiales que regulen la organización y funcionamiento de las distintas instituciones públicas, entes gubernamentales, dependencias o entidades de la administración pública estatal.
 
 III.- Extraordinario.- Aquel que realiza labores temporales mayores de seis meses con nombramiento expedido con ese carácter; y
 
@@ -207,7 +229,9 @@ Los mayores de dieciséis años, que no se encuentren inhabilitados por alguna c
 
 Serán condiciones nulas y no obligan a los trabajadores del Estado las siguientes:
 
-I.- Las que fijen labores peligrosas o insalubres para la mujer o menores de dieciocho años;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+l. Las que fijen labores peligrosas o insalubres para los menores de edad o para las mujeres embarazadas, en periodo de gestación, o por el tiempo de hasta seis meses en la lactancia, siempre que, por motivos de salud, mediando certificado médico, peligren con el desempeño de dichas labores;
 
 II.- Las que estipulen una jornada superior a la normal notoriamente excesiva o peligrosa para el trabajador;
 
@@ -237,6 +261,10 @@ IV.- Normas para la realización de labores, horarios, licencias y demás reglas
 
 La duración de la jornada de trabajo será la que se fije en la ley atendiendo a las necesidades y funciones de la dependencia de que se trate y en ningún caso podrá exceder de ocho horas diarias y cuarenta y ocho horas semanalmente, a excepción del personal de base sindical que su jornada laboral en ningún caso podrá exceder de ocho horas diarias y cuarenta horas semanalmente.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Las mujeres embarazadas, mediante certificado médico, podrán acceder a jornadas con flexibilidad de horario que les permita atender necesidades médicas y de planificación familiar.
+
 ###### ARTICULO 15.
 
 Se considera trabajo diurno el comprendido de las seis a las veinte horas; el nocturno comprendido de las veinte a las seis horas, la jornada máxima de trabajo nocturno será de siete horas y la mixta de siete horas y media, entendiéndose por esta última la que comprende cuatro horas de la jornada diurna y tres y media de la nocturna.
@@ -244,6 +272,10 @@ Se considera trabajo diurno el comprendido de las seis a las veinte horas; el no
 ###### ARTICULO 16.
 
 Cuando por circunstancias especiales deban prolongarse las horas de la jornada, éste trabajo será considerado como extraordinario y no podrá exceder de tres horas diarias, ni tres veces consecutivas durante una semana, con excepción de los casos que por naturaleza del trabajo así lo exija; y no podrá obligarse al trabajador a laborarlo sin que exista previa orden por escrito, que deberá expedir el jefe inmediato para los efectos legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Las mujeres embarazadas podrán, mediante certificado médico, justificar su incapacidad para prolongar la jornada de trabajo laboral. En caso de prolongarse las jornadas laborales, no podrá excederse de dos horas diarias ni dos veces consecutivas durante una semana.
 
 ###### ARTICULO 17.
 
@@ -255,9 +287,11 @@ Durante las horas de la jornada los trabajadores desarrollaran las actividades c
 
 El sueldo o salario que se pague al trabajador conforme al tabulador general de sueldos del Gobierno del Estado, constituye la retribución básica que deberá cubrirse a cambio de los servicios prestados.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 19.
 
-El sueldo será uniforme para cada una de las categorías de los trabajadores, fijándose en el tabulador general de sueldos y su monto no podrá ser disminuido por ningún concepto.
+El sueldo será uniforme para cada una de las categorías de los trabajadores, fijándose en el tabulador general de sueldos y su monto no podrá ser disminuido por ningún concepto, observando el principio de igualdad.
 
 ###### ARTICULO 20.
 
@@ -301,6 +335,10 @@ Es nula la cesión de derechos al sueldo hecha en favor de tercera persona, ya s
 
 En ningún caso los trabajadores que laboran jornadas completas percibirán salarios inferiores al mínimo establecido para los trabajadores en la capital del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Toda retribución, incluyendo sueldo, bonos y demás prestaciones, deberá ser igual para quienes desempeñen la misma función o encargo.
+
 ###### ARTICULO 27.
 
 Los trabajadores con mas de diez años de servicio efectivo tendrán derecho, en caso de retiro voluntario o cuando sean separados de su trabajo, al pago de una prima de antigüedad consistente en doce días por cada año de servicio prestado al Gobierno del Estado, tomándose como base el último sueldo percibido por el trabajador.
@@ -328,6 +366,26 @@ Serán días de descanso obligatorio los que señale el Reglamento de las Condic
 ###### ARTICULO 32.
 
 Los trabajadores sindicalizados tendrán derecho como mínimo a setenta días de aguinaldo anual, recibiendo treinta días de sueldo base antes de cada periodo vacacional, y diez días en la primera quincena del mes de enero; los trabajadores extraordinarios y supernumerarios tendrán derecho a un mínimo de sesenta días de aguinaldo anual, de los cuales recibirá treinta días antes de cada periodo vacacional; los trabajadores de confianza, tendrán derecho a un mínimo de cincuenta días de aguinaldo anual, de los cuales recibirán veinticinco días antes de cada periodo vacacional. Esta prestación será sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 32 Bis.
+
+Las mujeres trabajadoras tendrán los siguientes derechos relacionados con el embarazo:
+
+l.- Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso;
+
+II.- Disfrutarán de un descanso, al menos, de seis semanas anteriores y seis posteriores al parto;
+
+III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario, en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto;
+
+IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe la dependencia o entidad estatal;
+
+V.- Durante los períodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días. Durante el trascurso del período de sesenta días antes citado, se realizarán las retenciones de las aportaciones de seguridad social en el sueldo de la trabajadora, sin contemplar el descuento que fue objeto el sueldo de la trabajadora;
+
+VI.- A regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto; y
+
+VII.- A que se computen en su antigüedad los periodos pre y postnatales.
 
 ## TITULO TERCERO. OBLIGACIONES DEL GOBIERNO DEL ESTADO Y SUS TRABAJADORES
 
@@ -367,9 +425,21 @@ XIV.- Respetar el régimen interno de la agrupación sindical;
 
 XV.- Notificar al sindicato únicamente respecto al personal de base sindical puesto a disposición, así como sus cambios de adscripción y comisión;
 
-XVI.- Conceder licencias y comisiones a los integrantes del comité directivo del sindicato y personal administrativo indispensable para su funcionamiento; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVII.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos económicos con goce de sueldo, los que se fijarán en los respectivos Reglamentos de las Condiciones Generales de Trabajo.
+XVI.- Conceder licencias y comisiones a los integrantes del comité directivo del sindicato y personal administrativo indispensable para su funcionamiento;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos económicos con goce de sueldo, los que se fijarán en los respectivos Reglamentos de las Condiciones Generales de Trabajo.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente.
 
 ###### ARTICULO 34.
 
@@ -395,7 +465,9 @@ VI.- Evitar toda clase de propaganda durante las horas de trabajo;
 
 VII.- Asistir a los cursos de capacitación y adiestramiento que imparta el Gobierno del Estado o instituciones de capacitación designadas por éste, para mejorar su preparación y eficiencia;
 
-VIII.- Someterse a reconocimiento médico, para comprobar que no padece alguna incapacidad o enfermedad contagiosa;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Someterse a reconocimiento médico, para comprobar que no padece alguna incapacidad o enfermedad contagiosa. Queda prohibido exigir a las mujeres pruebas de embarazo;
 
 IX.- Dar aviso inmediato de las causas justificadas que le impidan concurrir al trabajo;
 
@@ -413,7 +485,11 @@ Son causas de suspensión temporal las siguientes:
 
 I.- Que el trabajador padezca una enfermedad contagiosa que constituya peligro para las personas que trabajan con él;
 
-II.- La prisión preventiva seguida de sentencia absolutoria o el arresto impuesto por la autoridad judicial o administrativa; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- El arresto administrativo, la detención del trabajador, así como la sujeción a proceso penal por presunta comisión de ilícitos en el trabajo o con motivo de sus funciones.
+
+La emisión de determinación administrativa o judicial absolutoria hará cesar la suspensión y el trabajador podrá recibir los emolumentos y el reconocimiento del tiempo de suspensión como tiempo de servicios; o
 
 III.- La que resulte de la aplicación de medidas disciplinarias, de conformidad con el Reglamento de las Condiciones Generales de Trabajo.
 
@@ -425,7 +501,9 @@ Son causas de terminación de la relación de trabajo:
 
 I.- La renuncia;
 
-II.- La conclusión o término de la obra para el que fueron solicitados los servicios del trabajador o por agotamiento de la partida presupuestal otorgada, o supresión de la plaza en el presupuesto de egresos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- La conclusión o término de la obra o contrato para el que fueron solicitados los servicios del trabajador o por agotamiento de la partida presupuestal otorgada o supresión de la plaza en el presupuesto de egresos;
 
 III.- La incapacidad física o mental del trabajador que le impida el desempeño de sus labores. Declarada por la Institución responsable de la seguridad social; y
 
@@ -437,13 +515,15 @@ a).- Si la relación de trabajo fuere por tiempo determinado menor de un año, e
 
 b).- Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados; y
 
-c).- Además de las indemnizaciones a que se refieren los incisos anteriores, con el pago del importe de tres meses de salario y con el de los salarios vencidos desde la fecha del despido hasta que se paguen estos conceptos.
+c).- (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ### CAPITULO III. RESCISION DE LA RELACION DE TRABAJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 38.
 
-Ningún trabajador podrá ser cesado o despedido sino por causa justa; son causas de rescisión sin responsabilidad para el Gobierno del Estado:
+A excepción de los trabajadores de confianza, los demás trabajadores podrán ser removidos, cesados o despedidos solamente por causa justificada; son causas de rescisión sin responsabilidad para el Gobierno del Estado:
 
 I.- El abandono de empleo o labores técnicas relativas al funcionamiento de maquinaria y equipo, que pongan en peligro esos bienes, la suspensión de un servicio; la desatención de personas que pongan en peligro la salud o la vida de las mismas;
 
@@ -469,13 +549,25 @@ XI.- Cuando rehúse o se niegue sin causa justificada a la práctica del examen 
 
 XII.- Cuando haya sido sancionado por el órgano de control mediante resolución ejecutoriada con la destitución del cargo con fundamento en la Ley de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-El Gobierno del Estado por conducto de la dependencia autorizada, deberá comunicar por escrito al trabajador la fecha y causa o causas de la rescisión, especificando el puesto desempeñado. Si el trabajador se negare a recibir la comunicación, dentro de los cinco días siguientes a la fecha de la rescisión, el Gobierno del Estado deberá solicitar la notificación del aviso al Tribunal de Arbitraje, proporcionando a éste el último domicilio del trabajador que tenga registrado.
+En caso de que la separación del trabajador sea considerada injustificada mediante laudo ejecutoriado dictado por el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, se cubrirá al trabajador el importe de tres meses de salario y los salarios vencidos desde la fecha del despido hasta la fecha de la emisión del laudo ejecutoriado, sin que pueda exceder de un máximo de doce meses. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones. En caso de muerte del trabajador dejarán de computarse los salarios.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Para los efectos anteriores, serán inembargables los bienes y derechos, recursos, inversiones y cuentas bancarias del Estado, que son necesarios para el desarrollo de actividades o funciones que se traduzcan en la prestación de un servicio público. Para el cumplimiento de las obligaciones derivadas de los laudos ejecutoriados en los términos en que sean dictados por el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, el Estado y los Ayuntamientos dispondrán en su presupuesto de un fondo económico mismo que será incrementado anualmente conforme al comportamiento de las incidencias de esta naturaleza. De ser insuficiente, el saldo deberá incluirse en el presupuesto de egresos del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Estas reservas solamente podrán ser embargadas para los efectos antes mencionados.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 39.
 
-Cuando el trabajador incurra en alguna de las causales previstas anteriormente, se procederá al levantamiento del acta administrativa donde se detallaran los hechos que la motivaron y firmaran los que en ella intervengan, así como los testigos de asistencia, dejando copia de ello al representante sindical y al jefe de la dependencia.
+Cuando el trabajador incurra en alguna de las causales de recisión previstas en el artículo anterior, la dependencia o entidad por conducto del servidor público habilitado para tal efecto, le dará aviso, en forma personal y escrita o en el último domicilio que haya proporcionado el trabajador.
+
+En el supuesto de que por causa justificada no se efectúe la notificación referida, deberá hacerse la constancia relativa y comunicarse dentro del plazo de 5 días hábiles al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, para que éste le notifique personalmente al trabajador en el domicilio señalado, produciendo dicha notificación efectos plenos, aún cuando no se le localice.
 
 ## TITULO QUINTO. RIESGOS PROFESIONALES Y ENFERMEDADES NO PROFESIONALES
 
@@ -689,7 +781,7 @@ Las remuneraciones o sueldos que perciben los directivos y empleados de la organ
 
 ###### ARTICULO 71.
 
-En lo no previsto por el presente título, se aplicaran supletoriamente las disposiciones contenidas en la Ley Federal de los Trabajadores al Servicio del Estado.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 ## TITULO OCTAVO. DE LA HUELGA
 
@@ -783,9 +875,13 @@ En tanto no se declare terminado, improcedente o delictuoso un estado de huelga,
 
 Al resolverse que una declaración de huelga es procedente, el Tribunal de Arbitraje, a petición de las autoridades correspondientes y teniendo en cuenta las pruebas presentadas, fijará el número de trabajadores, que deban continuar laborando a efecto de no suspender el servicio.
 
-## TITULO NOVENO. DE LAS PRESCRIPCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO UNICO
+## TITULO NOVENO. DE LAS PRESCRIPCIONES Y LA CADUCIDAD
+
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO PRIMERO. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 86.
 
@@ -837,21 +933,85 @@ II.- Cuando la persona a cuyo favor corre la prescripción reconoce el derecho d
 
 Para los efectos de la prescripción, los meses se computarán por el número de días que les corresponda. El primer día se computará completo aún cuando no lo sea, pero el último deberá ser completo; cuando éste sea feriado, no se tendrá por completa la prescripción sino cumplido el primer día hábil siguiente.
 
-### CAPITULO I. DE LA INTEGRACION DEL TRIBUNAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPITULO SEGUNDO. DE LA CADUCIDAD
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 91 Bis.
+
+Procederá la caducidad de la instancia, y por consecuencia, se tendrá por desistida la demanda, al actor que no haga promoción en el término de seis meses, siempre que sea necesaria para la continuación del procedimiento, sin embargo, no se tendrá por transcurrido dicho término si está pendiente de dictarse resolución sobre alguna promoción de las partes que impulse el procedimiento, la devolución de algún exhorto, la práctica de alguna diligencia o la recepción de informes que se hubiese solicitado para la integración del procedimiento.
+
+El Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, de oficio o a instancia de parte, cuando transcurre el término del párrafo que antecede y no existan salvedades, citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia de la caducidad de la instancia, dictará la resolución que proceda.
 
 ## TITULO DECIMO. DEL TRIBUNAL DE ARBITRAJE
 
-### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
+### CAPITULO I. DE LA INTEGRACION DEL TRIBUNAL
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 92.
 
-El Tribunal de Arbitraje para los Trabajadores al Servicio del Estado, funcionará colegiadamente y se integrará:
+El Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, se integrará por cuatro representantes y un presidente, los cuales serán nombrados de la siguiente manera:
 
-I.- Por un representante del Gobierno del Estado designado por el titular del Ejecutivo del Estado y ratificado por el Congreso del Estado o por la Diputación Permanente durante los recesos de éste;
+I.- Un representante del Gobierno del Estado, designado por el titular del Ejecutivo del Estado;
 
-II.- Por un representante de los trabajadores al servicio del Estado designado por la organización sindical; y
+II.- Un representante de los Ayuntamientos, designado por el Congreso del Estado o por la Diputación Permanente durante los recesos de aquél, a propuesta de los Ayuntamientos;
 
-III.- Por un arbitro que nombrarán entre sí los dos representantes citados, mismo que fungirá como Presidente del Tribunal.
+III.- Un representante de los trabajadores al servicio del Estado, designado por su organización sindical;
+
+IV.- Un representante de los trabajadores al servicio de los Municipios, designado por las organizaciones sindicales de los Municipios del Estado; y
+
+V.- Un Presidente, nombrado por los representantes del Gobierno del Estado, de los Ayuntamientos, de los trabajadores al servicio del Estado y de los trabajadores al servicio de los Municipios.
+
+En caso de empate en la votación para designar al Presidente, tendrá voto de calidad el representante del Gobierno del Estado.
+
+A excepción del Presidente, los integrantes del Tribunal deberán contar con un suplente, electos en la misma forma que sus respectivos titulares.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 92 Bis.
+
+El Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, funcionará a través de dos Salas, que estarán conformadas de la siguiente manera:
+
+I.- La Sala del Estado, integrada por:
+
+a).- El Presidente del Tribunal;
+
+b).- El representante del Gobierno del Estado; y
+
+c).- El representante de los trabajadores al servicio del Estado.
+
+II.- La Sala de los Municipios; integrada por:
+
+a).- El Presidente del Tribunal;
+
+b).- El representante de los Ayuntamientos; y
+
+c).- El representante de los trabajadores al servicio de los Municipios.
+
+El Gobernador del Estado, cuando lo requieran las necesidades del trabajo, podrá establecer una o más Salas, fijando el lugar de su residencia y su competencia territorial.
+
+En cada una de las Salas habrá un Secretario o Auxiliar del Presidente.
+
+El Tribunal preparará y propondrá al Ejecutivo del Estado la emisión y, en su caso reformas al Reglamento Interior del propio órgano de impartición de justicia para los trabajadores al servicio del Estado y los Municipios de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 92 Ter.
+
+Para efectos del nombramiento del representante de los Ayuntamientos, el Congreso lanzará la convocatoria a más tardar 20 días antes del término del vencimiento del cargo del representante en funciones, debiendo cerrar a los 5 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Cada Ayuntamiento podrá enviar una propuesta, anexando para tal efecto los documentos que acrediten el cumplimiento de los requisitos establecidos en el artículo 94 de la presente Ley. En caso de no recibir propuesta alguna, el Congreso del Estado o la Comisión Permanente designará al representante de los Ayuntamientos, atendiendo a los requisitos señalados en el artículo 94 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 92 Quater.
+
+Para efectos del nombramiento del representante de los trabajadores de los Municipios, la Secretaría del Trabajo y Asuntos Jurídicos lanzará a más tardar 20 días antes del término del vencimiento del cargo del representante en funciones, la convocatoria dirigida a los trabajadores de los Municipios, debiendo cerrar a los 5 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Para los efectos de la elección, el titular de la Secretaría de cada Ayuntamiento, expedirá una certificación en la que indique el número de trabajadores de base al servicio del Municipio. El delegado que asista a la asamblea en la que se elijan a los representantes, significará tantos votos como trabajadores se indiquen en la certificación.
 
 ###### ARTICULO 93.
 
@@ -863,15 +1023,19 @@ Para ser miembro del Tribunal de Arbitraje se requiere:
 
 I.- Ser mexicano en pleno goce de sus derechos civiles;
 
-II.- Radicar en el lugar en donde funcione el Tribunal;
+II.- (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 III.- Ser mayor de veinticinco años;
 
 IV.- No haber sido sentenciado por cualquier clase de delito;
 
-V.- El representante de los trabajadores deberá de ser un trabajador de base con una antigüedad no menor de tres años a la fecha de su designación; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- El representante del Gobierno del Estado, deberá ser Licenciado en Derecho con tres años de ejercicio profesional.
+V.- Los representantes de los trabajadores deberán ser trabajadores de base con una antigüedad no menor de tres años a la fecha de su designación; y
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- El representante del Gobierno del Estado y el de los Ayuntamientos, deberán contar con título de Licenciado en Derecho, haber obtenido de la autoridad competente la cédula profesional respectiva y un mínimo de tres años de ejercicio profesional.
 
 ###### ARTICULO 95.
 
@@ -883,9 +1047,13 @@ II.- Estar desligado absolutamente de intereses políticos de cualquier índole;
 
 III.- Ser de reconocida probidad.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 96.
 
-El Presidente del Tribunal durará en su cargo tres años y solamente puede ser removido por la comisión de delitos graves, del orden común o federal. Los representantes del Gobierno del Estado y los trabajadores, durarán en su cargo tres años y podrán ser removidos libremente, el Representante del Estado, por acuerdo del Gobernador, ratificado por el Congreso del Estado, y el de los trabajadores, por acuerdo de la mayoría de los mismos.
+El Presidente del Tribunal durará en su cargo seis años y solamente podrá ser removido cuando exista causa grave debidamente justificada.
+
+Los representantes del Gobierno del Estado y de los trabajadores al servicio del Estado durarán en su encargo seis años, y los de los Ayuntamientos y de los trabajadores al servicio de los municipios durarán en su cargo tres años. Todos podrán ser removidos libremente por quienes los designaron.
 
 ###### ARTICULO 97.
 
@@ -903,37 +1071,87 @@ IV.- Promover a nombre del Tribunal las actuaciones que se consideren procedente
 
 El Tribunal contará con un Secretario General, quien además sustituirá las ausencias temporales y excusas del Presidente, debiendo ser Licenciado en Derecho, y con los Secretarios Auxiliares que fueren necesarios, así como el personal indispensable; teniendo los Secretarios Auxiliares el carácter de Actuarios para efectuar todas las diligencias que le fueren encomendadas por el Presidente. Los empleados del Tribunal serán de confianza y quedarán sujetos en lo conducente, al presente ordenamiento, pero los conflictos que se susciten con motivo de la aplicación del mismo, serán resueltos por el Pleno del Tribunal de Arbitraje.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 99.
 
-Los gastos que origine el funcionamiento del Tribunal de Arbitraje serán cubiertos por el Gobierno del Estado, de conformidad con lo previsto por el Presupuesto de Egresos correspondiente.
+Los gastos que origine el funcionamiento del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, serán cubiertos proporcionalmente por el Gobierno del Estado, de conformidad con lo previsto por el Presupuesto de Egresos; y por los Ayuntamientos, atendiendo al número de sus trabajadores, lo que será determinado por la Secretaría de Finanzas del Gobierno del Estado.
 
-### CAPITULO III. DEL PROCEDIMIENTO
+### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 100.
 
-El Tribunal de Arbitraje residirá en la capital del Estado y será competente para:
+El Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios residirá en la capital del Estado y será competente para:
 
-I.- Conocer los conflictos individuales que se susciten entre el Gobierno del Estado y sus Trabajadores;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Conocer los conflictos colectivos que surjan entre el Sindicato de Trabajadores al Servicio del Gobierno del Estado;
+I.- Conocer los conflictos individuales que se susciten entre el Gobierno del Estado o los Ayuntamientos y sus trabajadores, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
 
-III.- Llevar a cabo el registro, modificación y cancelación cuando proceda, de la organización sindical de los trabajadores al servicio del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Conocer los conflictos colectivos que surjan entre el Sindicato o entre las organizaciones sindicales de trabajadores al servicio de los Ayuntamientos, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Llevar a cabo el registro, modificación y cancelación, cuando proceda, de organizaciones sindicales de los trabajadores al servicio del Gobierno del Estado y de los Ayuntamientos;
 
 IV.- Conocer de los conflictos sindicales e intersindicales; y
 
-V.- Efectuar el registro de las Condiciones Generales de Trabajo, previo acuerdo de los titulares de los Poderes con el Sindicato Unico de los Trabajadores al Servicio del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Efectuar el registro de las Condiciones Generales de Trabajo, previo acuerdo de los representantes o titular de los Poderes del Estado con el Sindicato; y de las Condiciones Generales que expidan los Ayuntamientos, previo acuerdo con las organizaciones sindicales correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 100 Bis.
+
+La Sala del Estado del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, conocerá de los siguientes asuntos:
+
+I.- Los conflictos individuales que se susciten entre las instituciones públicas, entes gubernamentales y poderes del Estado, y sus trabajadores, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
+
+II.- Llevar a cabo el registro, modificación y cancelación, cuando proceda, de la organización sindical de los trabajadores al servicio del Gobierno del Estado, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
+
+III.- Conocer de los conflictos sindicales e intersindicales, de la organización sindical de los Trabajadores del Gobierno del Estado; y
+
+IV.- Efectuar el registro de las Condiciones Generales de Trabajo, previo acuerdo de los representantes y titular de los Poderes del Estado con el Sindicato.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 100 Ter.
+
+La Sala de los Municipios del Tribunal de Conciliación y Arbitraje, conocerá de los siguientes asuntos:
+
+I.- Los conflictos individuales que se susciten entre los Ayuntamientos y sus trabajadores, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
+
+II.- Llevar a cabo el registro, modificación y cancelación, cuando proceda, de las organizaciones sindicales de los trabajadores al servicio de los Ayuntamientos, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
+
+III.- Conocer de los conflictos sindicales e intersindicales de las organizaciones sindicales de los Ayuntamientos; y
+
+IV.- Efectuar el registro de las Condiciones Generales de Trabajo que expidan los Ayuntamientos, previo acuerdo con las organizaciones sindicales correspondientes.
+
+### CAPITULO III. DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 101.
 
-El procedimiento para resolver las controversias que se sometan al Tribunal de Arbitraje, se reducirá a la presentación de la demanda respectiva, que deberá hacerse por escrito; a la respuesta que en igual forma se dé a la demanda y a una sola audiencia en la que se presentaran pruebas y alegatos de las partes. El Tribunal pronunciará resolución dentro del término de setenta y dos horas siguientes a la audiencia, a menos que, a su juicio, se requiera la práctica de audiencia y diligencias posteriores, en cuyo caso ordenará que se lleven a cabo.
+El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios iniciará (sic) la presentación de la demanda respectiva, que deberá hacerse por escrito; a la respuesta que en igual forma se dé a la demanda y a una sola audiencia en la que se presentarán pruebas y alegatos de las partes. El Tribunal pronunciará resolución dentro del término de diez días hábiles siguientes a la audiencia, a menos que, a su juicio, se requiera la práctica de audiencia y diligencias posteriores, en cuyo caso ordenará que se lleven a cabo.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 102.
 
-El Gobierno del Estado, podrá hacerse representar por medio de apoderados que acrediten su personalidad mediante simple oficio.
+Las instituciones públicas, entes gubernamentales y los Poderes del Estado podrán hacerse representar por medio de apoderados que acrediten su personalidad mediante oficio de la unidad administrativa competente; en el caso de la administración central del Poder Ejecutivo, se acreditará mediante oficio de la Secretaría de Administración del Gobierno del Estado.
+
+En el caso de los Ayuntamientos, serán representados por el Síndico o por medio de apoderados que se acrediten mediante oficio.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 103.
 
-Los Secretarios Generales o de Trabajo y Conflictos del Sindicato, podrán tener el carácter de asesores de los Trabajadores ante el Tribunal. Estas facultades pueden delegarlas en miembros de la misma organización, sin perjuicio del derecho que tienen los interesados para designar a otra persona que los represente.
+Los Secretarios Generales o de Trabajo y Conflictos de los Sindicatos, podrán tener el carácter de asesores de los trabajadores ante el Tribunal. Estas facultades pueden delegarlas en miembros de la misma organización, sin perjuicio del derecho que tienen los interesados para designar a otra persona que los represente.
 
 ###### ARTICULO 104.
 
@@ -995,7 +1213,9 @@ El Tribunal sancionará las faltas de respeto que se cometan y aplicará las med
 
 Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No operará la caducidad, cuando se encuentre pendiente de dictar acuerdo de trámite por el Tribunal.
 
-Asimismo, se tendrá por desistida de la acción y demanda intentada a la persona que reingresare al servicio del Gobierno del Estado y que actualice cualquiera de los supuestos consignados en el artículo 3o. de la presente ley.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Asimismo, se tendrá por desistida tácitamente de la acción y demanda intentada a la persona que reingresare al servicio de la institución pública, ente gubernamental o Poder del Estado o de los Municipios, y que actualice cualquiera de los supuestos consignados en los artículos 3o y 91 Bis de la presente Ley o del artículo 201 del Código Municipal para el Estado.
 
 ###### ARTICULO 115.
 
@@ -1009,9 +1229,13 @@ Los miembros del Tribunal de Arbitraje no podrán ser recusados y las excusas qu
 
 En los laudos, el Tribunal de Arbitraje valorará las pruebas en conciencia, sin sujetarse a reglas fijas para resolver los asuntos a verdad sabida y buena fe guardada, debiendo expresar las consideraciones de hecho y de derecho en que funde su decisión.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 118.
 
-Las resoluciones dictadas por el Tribunal de Arbitraje se tomarán por mayoría de votos de los representantes y el voto de los ausentes se sumarán al del Presidente; cuando se trate de conflictos colectivos, además del Presidente se requerirá la presencia de uno de los representantes por lo menos. La resolución deberá ser cumplida dentro de los quince días hábiles a partir de su notificación. La Secretaría de Finanzas se atendrá a ellas para ordenar el pago de sueldos, indemnizaciones y demás prestaciones que se deriven de la misma, de acuerdo a la plantilla de ejecución de pago que se presente para el efecto. El Tribunal de Arbitraje no podrá condenar al pago de costas.
+Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, se tomarán por mayoría de votos de los representantes dentro de su respectiva Sala y el del Presidente. Cuando se trate de conflictos colectivos, además del Presidente se requerirá al menos de la presencia de uno de los representantes en cada Sala. La resolución deberá ser cumplida dentro de los diez días hábiles a partir de su notificación.
+
+El Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios no podrá condenar al pago de costas.
 
 ###### ARTICULO 119.
 
@@ -1022,6 +1246,72 @@ Las autoridades están obligadas a prestar auxilio al Tribunal de Arbitraje para
 ###### ARTICULO 120.
 
 Cualquiera de las partes que advierta en el laudo un error o considere que algún punto debe precisarse, podrá proponer su aclaración por escrito, dentro del término de tres días contados a partir de la notificación del laudo respectivo, con el objeto de subsanar algún error o precisar un punto en particular, en el entendido de que el sentido del laudo no debe cambiar.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 121.
+
+En lo no previsto en el presente Capítulo respecto al procedimiento, se aplicará supletoriamente la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+## TITULO DECIMO PRIMERO. DE LA PROCURADURÍA DE LA DEFENSA DEL TRABAJO DEL SERVIDOR PÚBLICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 122.
+
+El Estado y sus Municipios contarán con una Procuraduría de la Defensa del Trabajo del Servidor Público, dependiente de la Secretaría del Trabajo y Asuntos Jurídicos del Gobierno del Estado, la cual tiene por objetivos los siguientes:
+
+I.- La defensa gratuita de los trabajadores al servicio del Estado y los Municipios, en las cuestiones que se relacionen con la aplicación de esta Ley y el Código Municipal para el Estado de Tamaulipas;
+
+II.- Promover y llevar a cabo la conciliación en los conflictos individuales que se susciten entre las instituciones públicas, entes gubernamentales y poderes del Estado, y sus trabajadores; y
+
+III.- Promover y llevar a cabo la conciliación en los conflictos individuales que se susciten entre los Ayuntamientos y sus trabajadores.
+
+Los servicios que preste la Procuraduría de la Defensa del Trabajo del Servidor Público se llevarán a cabo siempre que los interesados así lo soliciten.
+
+El nombramiento del Procurador lo hará el Gobernador del Estado, los nombramientos de los Procuradores Auxiliares los realizará el Secretario del Trabajo y Asuntos Jurídicos, previo acuerdo con el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 123.
+
+La Procuraduría de la Defensa del Trabajo del Servidor Público se integrará con un Procurador y el número de Procuradores Auxiliares que se juzgue necesario para la realización de sus objetivos y que sustente la disponibilidad presupuestal anual.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 124.
+
+Para el cumplimiento de sus objetos, la Procuraduría de la Defensa del Trabajo del Servidor Público, tendrá las funciones siguientes:
+
+I.- Asesorar a los trabajadores del Estado o los Ayuntamientos, que así lo soliciten;
+
+II.- Intervenir en forma conciliatoria, citando a los representes del Gobierno del Estado o Ayuntamiento en que labora el trabajador y levantando los convenios que se requieran, los que deberán ratificarse ante el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios;
+
+III.- Representar a los trabajadores del Estado o los Ayuntamientos que lo requieran ante el propio Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios; y
+
+IV.- Interponer los recursos legales procedentes para la defensa del trabajador del Estado o de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 125.
+
+El Procurador, deberá satisfacer los requisitos siguientes:
+
+I.- Ser mexicano, mayor de 30 años y estar en pleno ejercicio de sus derechos;
+
+II.- Tener título legalmente expedido de Licenciado en Derecho y una práctica profesional no menor de cinco años, a partir de la fecha de expedición de dicho documento;
+
+III.- No pertenecer al Estado eclesiástico; y
+
+IV.- No haber sido condenado por delito intencional sancionado con pena privativa de la libertad.
+
+Los Procuradores Auxiliares deberán satisfacer los mismos requisitos que para ser Procurador General, excepto el de la edad, que será de 25 años y el de la de práctica profesional, que será de tres años, al menos, a partir de la expedición del título.
 
 T R A N S I T O R I O S
 
@@ -1090,3 +1380,67 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4° de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-905, POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL TÍTULO NOVENO Y DEL CAPÍTULO ÚNICO DEL MENCIONADO TÍTULO; LOS ARTÍCULOS 4° INCISO B) DEL APARTADO A) Y EL NUMERAL 9 DEL INCISO G) DEL APARTADO A), 5° FRACCIÓN III, 6°, 8° FRACCIÓN II, 36 FRACCIÓN II, 37 FRACCIÓN II, 38 PÁRRAFOS PRIMERO Y SEGUNDO, 39, 92, 94 FRACCIONES V Y VI, 96, 99, 100 PÁRRAFO ÚNICO Y LAS FRACCIONES I, II, III, Y V, 101, 102, 103, 114 SEGUNDO PÁRRAFO Y 118; SE ADICIONAN EL CAPÍTULO SEGUNDO DEL TÍTULO NOVENO, EL TÍTULO DÉCIMO PRIMERO CON UN CAPÍTULO ÚNICO, LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 4°, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33, LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 38, LOS ARTÍCULOS 91 BIS, 92 BIS, 92 TER, 92 QUATER, 100 BIS, 100 TER, 121, 122, 123, 124 Y 125; Y SE DEROGAN EL INCISO C) DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL ARTÍCULO 71 Y LA FRACCIÓN II DEL ARTÍCULO 94, DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos que se hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTICULO TERCERO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá quedar instalado el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+En virtud de lo anterior, quedarán sin efectos a partir de la designación de los representantes de los Ayuntamientos y de los trabajadores al servicio de los Municipios, los nombramientos de los actuales representantes del Tribunal de Conciliación y Arbitraje de los Municipios, pasando los asuntos que se hayan iniciado ante el mismo y que no hayan sido concluidos, a la Sala de los Municipios del Tribunal de Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTICULO CUARTO.
+
+Por única ocasión, para la designación de los representantes de los Ayuntamientos y de los trabajadores al servicio de los Municipios, a más tardar a los 10 días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado o la Diputación Permanente, en su caso, así como la Secretaría del Trabajo y Asuntos Jurídicos, deberán lanzar las convocatorias para llevar a cabo el procedimiento de designación, conforme a lo establecido en los artículos 92 Ter y 92 Quáter, respectivamente, de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+
+###### ARTICULO QUINTO.
+
+Los actuales representantes del Gobierno del Estado y de los trabajadores al Servicio del Estado que integran al Tribunal de Arbitraje de los Trabajadores al Servicio del Estado, seguirán vigentes hasta el término del plazo para el cual fueron nombrados, e integrarán la Sala de de (sic) los Poderes del Estado del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTICULO SEXTO.
+
+Tratándose del actual Presidente del Tribunal de Arbitraje de los Trabajadores al Servicio del Estado, su nombramiento quedará sin efectos a partir de que se encuentren instaladas las Salas señaladas en el artículo 92 Bis de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, sin demérito que pueda ser designado como Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+###### ARTICULO SÉPTIMO.
+
+La designación del Presidente del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, deberá hacerse a más tardar a los tres días posteriores a los que se encuentren instaladas las 2 Salas que integran el mencionado Tribunal.
+
+###### ARTICULO OCTAVO.
+
+Los recursos materiales, humanos y financieros al servicio del Tribunal de Conciliación y Arbitraje de los Municipios que se extingue mediante el presente Decreto, se transferirán al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y de los Municipios de Tamaulipas; en el caso de los trabajadores, las relaciones laborales de los mismos quedarán intactas, sin demérito de sus derechos laborales adquiridos.
+
+###### ARTICULO NOVENO.
+
+Dentro de los sesenta días siguientes posteriores a la instalación del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas, se deberá expedir el Reglamento Interior del citado Tribunal.
+
+###### ARTICULO DÉCIMO.
+
+Se autoriza al Gobernador del Estado para que por conducto del Secretario del Trabajo y Asuntos Jurídicos, se designe a los servidores públicos adscritos a dicha dependencia que funjan de manera provisional y hasta en tanto se realicen los nombramientos del Procurador y de los Procuradores Auxiliares de la Procuraduría de la Defensa del Trabajo del Servidor Público.
+
+Los actos jurídicos que realicen los servidores públicos designados conforme al párrafo anterior, tendrán plena validez hasta en tanto se nombren en forma definitiva el Procurador y los Procuradores Auxiliares de la Procuraduría de la Defensa del Trabajo del Servidor Público.
+
+###### ARTICULO UNDÉCIMO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-904, POR EL QUE SE REFORMAN LOS ARTÍCULOS 11 FRACCIÓN I, 19, 33 FRACCIONES XVI Y XVII, Y 35 FRACCIÓN VIII; SE ADICIONAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1°, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 16, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26, EL ARTÍCULO 32 BIS, Y LA FRACCIÓN XVIII DEL ARTÍCULO 33 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
