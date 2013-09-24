@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2008-02-12"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE TAMAULIPAS
 
-LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE TAMAULIPAS
+LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -337,27 +337,49 @@ e) Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijos
 
 f) Garantizar la creación de centros de desarrollo infantil y de guarderías, asegurando el acceso a los mismos para sus hijos cuando ellas lo soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. Con el propósito de alentar la igualdad de género para la mujer embarazada, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes medidas:
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+a) Facilitar el acceso a las instituciones de protección de la salud para la realización de consultas médicas, exámenes de laboratorio y ultrasonido, atención e información ginecológica, orientación psicológica y psiquiátrica, orientación nutricional y, en general, las atenciones y cuidados médicos necesarios, de conformidad con la Ley de Salud para el Estado;
+
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
-
-2. Con el propósito de alentar la equidad de género para la mujer embarazada, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes medidas:
-
-a) Facilitar el acceso a las instituciones de protección de la salud para la realización de consultas médicas, exámenes de laboratorio y ultrasonido, atención ginecológica, orientación psicológica y psiquiátrica, orientación nutricional y, en general, las atenciones y cuidados médicos necesarios, de conformidad con la Ley de Salud para el Estado;
 
 b) Disfrutar de estabilidad en el empleo, cargo u ocupación que desarrolle;
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
 c) Acceder a las oportunidades de empleo en igualdad de condiciones con los varones y con las mujeres que no estén embarazadas;
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 d) Ocupar cargos públicos en igualdad de condiciones que los varones y las mujeres no embarazadas;
 
-e) Acceder plenamente a las instituciones del sistema educativo estatal. En su caso, los planteles educativos harán las adecuaciones necesarias para que la mujer embarazada pueda continuar con sus estudios y ser evaluada conforme a los mismos, cuando en virtud de atención médica incurra en inasistencias;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-f) Acceder a los servicios de orientación y de asesoría legal en las instituciones públicas estatales, conforme a la materia de los derechos que pretenda ejercer;
+e) Acceder a licencias de maternidad, así como a la prestación de servicios subsecuentes que resulten necesarios para garantizar las condiciones que le permita desarrollarse laboralmente;
 
-g) Recibir la atención y orientación gratuita sobre su esfera de derechos por parte del Instituto de la Mujer Tamaulipeca;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-h) Disfrutar de los distintos derechos y prerrogativas contenidos en las leyes, reglamentos, contratos colectivos o convenios de cualquier naturaleza en materia de descanso con motivo del embarazo y posterior al parto; y
+f) Acceder plenamente a las instituciones del sistema educativo estatal. En su caso, los planteles educativos harán las adecuaciones necesarias para que la mujer embarazada pueda continuar con sus estudios y ser evaluada conforme a los mismos, cuando en virtud de atención médica incurra en inasistencias;
 
-i) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+g) Acceder a los servicios de orientación y de asesoría legal en las instituciones públicas estatales, conforme a la materia de los derechos que pretenda ejercer;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+h) Recibir la atención y orientación gratuita sobre su esfera de derechos por parte del Instituto de la Mujer Tamaulipeca;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+i) Disfrutar de los distintos derechos y prerrogativas contenidos en las leyes, reglamentos, contratos colectivos o convenios de cualquier naturaleza en materia de descanso con motivo del embarazo y posterior al parto; y
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+j) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
 
 ###### Artículo 16.
 
@@ -429,7 +451,9 @@ l) Garantizar que en todas las unidades del sistema de salud y de seguridad soci
 
 3. Los procedimientos para el cumplimiento de la presente ley se ceñirán a los establecidos para la actuación de la Comisión de Derechos Humanos del Estado en el ordenamiento que la rige.
 
-4. En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Comisión de Derechos Humanos del Estado desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Comisión podrá concluir el procedimiento con la formulación de la recomendación procedente.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+4. En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Comisión de Derechos Humanos del Estado desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Comisión podrá concluir el procedimiento con la formulación de la recomendación procedente, así como dar vista al Ministerio Público en caso de que el acto o práctica discriminatoria constituya en una conducta presuntamente delictiva.
 
 ###### Artículo 20.
 
@@ -443,11 +467,17 @@ b) Realizar estudios sobre ordenamientos jurídicos vigentes y alentar la formul
 
 c) Difundir y promover contenidos para prevenir y eliminar las prácticas discriminatorias en cualquier orden;
 
-d) Conocer e investigar presuntos actos o prácticas discriminatorias;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+d) Conocer e investigar presuntos actos o prácticas discriminatorias, así como emitir recomendaciones para hacer cesar dichos actos o prácticas y para una reparación del daño a quien corresponda;
 
 e) Tutelar los derechos de las personas o grupos que sufran discriminación, brindando asesoría y todo tipo de ayuda a su alcance; asimismo, proponer a las partes la conciliación, cuando estime que así proceda; y
 
 f) Solicitar a cualquier institución pública o a los particulares, la información necesaria para verificar el cumplimiento de esta ley.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+3. La Comisión notificará la recomendación personalmente a quien resulte responsable por el acto o práctica de discriminación, en adición a la publicidad y difusión, al menos, en el Periódico Oficial del Estado.
 
 ###### Artículo 21.
 
@@ -463,7 +493,9 @@ f) Solicitar a cualquier institución pública o a los particulares, la informac
 
 ###### Artículo 22.
 
-La Comisión de Derechos Humanos del Estado dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. La Comisión de Derechos Humanos del Estado dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
 
 a) La impartición, a las personas o a las instituciones que sean objeto de una recomendación, de cursos o seminarios que promuevan la igualdad de oportunidades;
 
@@ -473,7 +505,11 @@ c) La presencia del personal de la Comisión para promover y verificar la adopci
 
 d) La publicación íntegra de la recomendación emitida en el órgano de difusión de la Comisión; y
 
-e) La publicación o difusión de una síntesis de la recomendación en los medios impresos o electrónicos de comunicación.
+e) (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. La Comisión deberá publicar y difundir una síntesis de la recomendación en los medios impresos y electrónicos de comunicación.
 
 ###### Artículo 23.
 
@@ -509,8 +545,28 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE FEBRERO DE 2008.
 
 Artículo Unico. El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-900, POR EL QUE SE REFORMA EL ARTÍCULO 15 PÁRRAFO 2 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO LXI-904, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15 INCISOS A), E), F), G), H) E I) DEL PÁRRAFO 2, 19 PÁRRAFO 4, 20 PÁRRAFO 2 INCISO D) Y 22; SE ADICIONAN EL INCISO J) DEL PÁRRAFO 2 DEL ARTÍCULO 15, EL PÁRRAFO 3 DEL ARTÍCULO 20 Y EL PÁRRAFO 2 DEL ARTÍCULO 22; Y SE DEROGA EL INCISO E) DEL ARTÍCULO 22, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
