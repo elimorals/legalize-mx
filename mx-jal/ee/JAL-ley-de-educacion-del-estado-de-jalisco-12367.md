@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2013-07-27"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -125,7 +125,9 @@ IX.- Impulsar la investigación e innovación científica y tecnológica orienta
 
 X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado;
 
-XI.- Impulsar la educación física y la práctica del deporte escolar;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XI. Impulsar, promover y estimular la educación física, cultura física y la práctica del deporte escolar;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -2348,3 +2350,7 @@ DECRETO NÚMERO 24432/LX/13, QUE REFORMA LOS ARTÍCULOS 5 Y 126 DE LA LEY DE EDU
 P.O. 27 DE JULIO DE 2013.
 
 DECRETO NÚMERO 24449/LX/13, QUE REFORMA EL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
