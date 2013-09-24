@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-66370"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-29"
-last_updated: "2013-09-18"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre del 2008.
 
@@ -737,7 +737,9 @@ III.- Modificar sus documentos básicos, tratándose de partidos políticos loca
 
 IV.- Acceder a las prerrogativas y recibir el financiamiento público en términos de la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales en materia de radio y televisión, la Constitución Política del Estado y este Código;
 
-V.- Organizar procesos internos para seleccionar candidatos para las elecciones de gobernador, diputados al Congreso del Estado y ayuntamientos y postularlos, en los términos de este Código;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Organizar procesos internos democráticos para seleccionar y postular candidatos para las elecciones de gobernador, diputados al Congreso del Estado y ayuntamientos, garantizando la igualdad de género en los términos de este Código;
 
 VI.- Nombrar representantes ante los Consejos General, Distrital, Municipal y ante las mesas directivas de casillas; en éste último caso, su designación deberá entenderse para todas las elecciones que se celebren el día de la jornada electoral;
 
@@ -783,9 +785,17 @@ XIV.- Registrar ante el Consejo General del Instituto Electoral de Tamaulipas, e
 
 XV.- Respetar los topes de gastos de precampaña y de campaña que se establecen en el presente Código;
 
-XVI.- Comunicar al Instituto cualquier modificación a sus documentos básicos, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido. Las modificaciones no surtirán efectos hasta que el Consejo General del Instituto declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de 30 días naturales contados a partir de la presentación de la documentación correspondiente; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVII.- Las demás que establezca este Código.
+XVI.- Comunicar al Instituto cualquier modificación a sus documentos básicos, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido. Las modificaciones no surtirán efectos hasta que el Consejo General del Instituto declare la procedencia constitucional y legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de 30 días naturales contados a partir de la presentación de la documentación correspondiente;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Garantizar la igualdad de género en la integración de sus órganos de dirección y en las candidaturas a cargos de elección popular en los términos de este Código; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Las demás que establezca este Código.
 
 ###### Artículo 73.
 
@@ -1019,9 +1029,17 @@ a).- El treinta y cinco por ciento de la cantidad total que resulte se entregar�
 
 Los partidos políticos nacionales que no hubieran obtenido el 1.5 por ciento de la votación estatal emitida en la elección de diputados por el principio de mayoría relativa en el proceso electoral inmediato anterior, únicamente tendrán derecho a recibir el financiamiento público ordinario señalado en el presente inciso;
 
-b).- El sesenta y cinco por ciento restante se distribuirá según el porcentaje de la votación estatal emitida que hubiese obtenido cada partido político con representación en el Congreso del Estado en la elección de diputados locales por mayoría relativa inmediata anterior; y
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-c).- Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+b).- El sesenta y cinco por ciento restante se distribuirá según el porcentaje de la votación estatal emitida que hubiese obtenido cada partido político con representación en el Congreso del Estado en la elección de diputados locales por mayoría relativa inmediata anterior;
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+c).- Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente; y
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+d).- Para la capacitación, promoción y desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
 
 Segunda. Para gastos de campaña:
 
@@ -2429,7 +2447,9 @@ IV.- En los casos en que la renuncia del candidato fuere notificada al Consejo G
 
 Los partidos políticos promoverán y garantizarán en los términos de este Código la igualdad de oportunidades y la equidad entre hombres y mujeres en la vida política del Estado, a través de sus postulaciones a cargos de elección popular.
 
-Al solicitar el registro de candidaturas para la elección de diputados y de ayuntamientos, los partidos políticos y las coaliciones no podrán postular más del 60% de los candidatos propietarios pertenecientes a un mismo género.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Al solicitar el registro de candidaturas para la elección de diputados y de ayuntamientos, los partidos políticos y las coaliciones no podrán postular más del 60% de las candidaturas pertenecientes a un mismo género. Los candidatos propietarios y suplentes deberán ser del mismo género.
 
 Se exceptúan de lo señalado en el párrafo que antecede, las candidaturas de mayoría relativa que sean resultado de un proceso de elección mediante los procedimientos democráticos que prevean los Estatutos del partido político o coalición.
 
@@ -4082,3 +4102,13 @@ P.O. 18 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
