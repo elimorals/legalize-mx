@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-88544"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2012-07-04"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -51,9 +51,13 @@ LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
 ###### ARTÍCULO 1.
 
-1. La presente Ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas, y tiene como objeto garantizar el respeto de los derechos fundamentales de los niños, niñas y adolescentes en materia de adopción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-2. Mediante esta Ley se establecen los principios y las funciones de las instituciones, lineamientos y requisitos administrativos necesarios para que las adopciones se realicen bajo el interés superior del niño, niña o adolescente, y su aplicación corresponde a las dependencias y entidades que integran la administración pública del estado.
+1. La presente Ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas, y tiene como objeto garantizar el respeto de los derechos fundamentales de toda persona susceptible de ser adoptada.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. Mediante esta ley se establecen los principios y las funciones de las instituciones, lineamientos y requisitos administrativos necesarios para que las adopciones se realicen bajo el interés superior del niño, niña o adolescente cuando sea el caso, y con apego a las disposiciones aplicables a las personas susceptibles de especial protección. Su aplicación corresponde a las dependencias y entidades que integran la administración pública del estado.
 
 3. El procedimiento judicial para hacer la adopción será el establecido en el Código de Procedimientos Civiles del Estado de Tamaulipas.
 
@@ -119,7 +123,9 @@ Son principios rectores en el cumplimiento, interpretación y aplicación de est
 
 I. La prioridad del bienestar y protección de sus derechos en todas las circunstancias, por encima de cualquier interés de terceros;
 
-II. El de igualdad y equidad sin discriminación de origen étnico, nacional o social, edad, sexo, religión, idioma, opinión, posición económica, impedimento físico o mental, circunstancias de nacimiento o cualquiera otra condición;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II. El de igualdad de género y equidad sin discriminación de origen étnico, nacional o social, edad, sexo, religión, idioma, opinión, posición económica, impedimento físico o mental, circunstancias de nacimiento o cualquiera otra condición;
 
 III. La garantía de una vida libre de cualquier forma de violencia;
 
@@ -155,9 +161,11 @@ VIII. La obtención directa o indirecta de beneficios indebidos, materiales o de
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LOS ADOPTADOS
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-La adopción confiere al adoptado los apellidos de los adoptantes y los mismos derechos y obligaciones que el parentesco por consanguinidad, y extingue los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos para el matrimonio.
+La adopción confiere al adoptado los apellidos de los adoptantes, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente, y los mismos derechos y obligaciones que el parentesco por consanguinidad, y extingue los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos para el matrimonio.
 
 ###### ARTÍCULO 9.
 
@@ -175,7 +183,9 @@ En todos los casos de adopción, los niños, niñas y adolescentes que vayan a a
 
 1. Tienen capacidad para adoptar la persona de entre veinticinco y cincuenta años de edad, en pleno ejercicio de sus derechos, casado o libre de matrimonio.
 
-2. No obstante lo anterior, el Juez y el Sistema procurarán que los menores, sean adoptados preferentemente por personas casadas y sin hijos.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. No obstante lo anterior, el Juez y el Sistema procurarán que los menores sean adoptados preferentemente de acuerdo con el siguiente orden de prelación: por personas casadas y sin hijos; por personas en probado concubinato y sin hijos.
 
 3. Pueden adoptar, a uno o más menores, o a una persona con discapacidad cuando ésta sea mayor de edad, siempre que el adoptante tenga veinticinco años de edad más que el adoptado y que acredite además:
 
@@ -187,11 +197,15 @@ III. Que no se encuentra sujeto a proceso por algún delito contra la vida o la 
 
 IV. Tener medios de vida estables, suficientes y comprobables con acceso a servicios de salud, seguridad social, vivienda con calidad, espacios y servicios básicos;
 
-V. En el caso de las mujeres, no estar embarazada ni en tratamiento para lograrlo, en caso de ser matrimonio no estar en el supuesto señalado en la presente fracción;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V. En el caso de las mujeres, no estar embarazada ni en tratamiento para lograrlo, en caso de ser matrimonio, no estar en el supuesto señalado en la presente fracción;
 
 VI. En el supuesto, haber trascurrido mínimo de dieciocho meses de haberse integrado un hijo biológico o adoptivo a la familia;
 
-VII. No tener enfermedades degenerativas o incapacitantes graves, enfermedades crónicas que requieran condiciones de vida especiales, enfermedades que supongan tratamientos intensos, como radiológicos, químicos, o quirúrgicos; o enfermedades graves ya tratadas que puedan reproducirse, en tanto no se cumplan los plazos previstos en los protocolos médicos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII. En caso de tener enfermedades degenerativas o incapacitantes graves, enfermedades crónicas que requieran condiciones de vida especiales, enfermedades que supongan tratamientos intensos, como radiológicos, químicos, o quirúrgicos; o enfermedades graves ya tratadas que puedan reproducirse, el Juez debe valorar la situación particular de los adoptantes y, en caso de que considere que procede la adopción, debe dictar las medidas de protección necesarias para salvaguardar el interés superior del menor. Lo anterior para evitar posible discriminación de adoptantes;
 
 VIII. En caso de trastornos psiquiátricos en fase de remisión, se considerará prudencial que haya transcurrido un plazo de cinco años desde tal remisión, precisando de un informe del profesional correspondiente;
 
@@ -239,7 +253,9 @@ II. Fotografías a color, tomadas en su domicilio que comprendan fachada, sala, 
 
 III. Historia personal de cada uno de los solicitantes manuscrita, donde se incluya fecha, nombre y firma;
 
-IV. Entregar Currículum Vitae acompañado de fotografía reciente, con copias certificadas que acrediten lo ahí expuesto;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Certificado médico de salud de cada uno de los solicitantes, expedido por una institución oficial que certifique que se encuentra sano, así como también resultado de pruebas aplicadas para la detección del VIH-SIDA, biometría hemática, química sanguínea, VDRL. El certificado se valorará con estricto apego al principio de no discriminación;
 
 V. Certificado médico de salud de cada uno de los solicitantes, expedido por una Institución Oficial que certifique que se encuentra sano, así como también resultado de pruebas aplicadas para la detección del VIH-SIDA, biometría hemática, química sanguínea, VDRL;
 
@@ -261,7 +277,9 @@ XIII. Copia certificada de identificación oficial con fotografía;
 
 XIV. Una fotografía a color tamaño credencial de cada uno de los solicitantes;
 
-XV. Carta de no antecedentes penales de cada uno de los solicitantes, expedido por la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XV. Carta de no antecedentes penales de cada uno de los solicitantes, expedida por la Procuraduría General de Justicia del Estado. La existencia de antecedentes penales no impide por sí misma la adopción. El caso concreto será valorado por la autoridad correspondiente con apego al principio de no discriminación;
 
 XVI. Haber resultado adecuados y aptos en los estudios socioeconómicos, psicológicos y médicos que sean practicados por el personal del Sistema;
 
@@ -646,3 +664,25 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de junio del año dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO No. LXI-900, POR EL QUE SE REFORMA EL ARTÍCULO 6 FRACCIÓN II DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO No. LXI-904, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 PÁRRAFOS 1 Y 2, 8, 11 PÁRRAFO 2 Y PÁRRAFO 3 FRACCIONES V Y VII, Y 16 PÁRRAFO 1 FRACCIONES IV Y XV DE LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
