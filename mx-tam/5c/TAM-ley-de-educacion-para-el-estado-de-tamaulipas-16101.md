@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2012-08-30"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -69,11 +69,23 @@ VI.- SEP, la Secretaría de Educación Pública; y
 
 VII.- Ley General, la Ley General de Educación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 3º.
+
+La educación es un medio fundamental para adquirir, transmitir y acrecentar la cultura, la cual debe estar disponible, ser accesible, adaptable y aceptable. Constituye además un proceso permanente que contribuye a la transformación de la sociedad, y es un factor determinante para la adquisición de conocimiento.
+
+La educación debe orientarse hacia el pleno desarrollo de la persona humana y al sentido de su dignidad. También debe garantizar la capacitación para participar efectivamente en una sociedad libre y favorecer la igualdad entre los sexos, los géneros y los grupos étnicos raciales y religiosos.
+
+Toda persona, sin discriminación alguna, tiene derecho a recibir educación pública gratuita y de calidad y, por tanto, todas las personas que habitan en la entidad, con independencia de su situación jurídica, deben contar con las mismas oportunidades de acceso al sistema educativo estatal.
+
+En el proceso educativo deberá asegurarse la participación activa de las personas involucradas en el proceso de enseñanza-aprendizaje, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines de la educación en Tamaulipas.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 4º.
 
-El Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior, los habitantes tienen derecho a recibirlos. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General; así como en lo dispuesto por la Constitución Política del Estado de Tamaulipas y la presente Ley.
+El Estado está obligado a prestar progresivamente servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior, y sus habitantes tienen derecho a recibirlos. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General; así como en lo dispuesto por la Constitución Política del Estado de Tamaulipas y la presente Ley.
 
 ###### ARTICULO 3°.
 
@@ -95,7 +107,13 @@ El Estado está obligado a prestar servicios educativos para que toda la poblaci
 
 La educación que impartan el Estado, los Municipios, los organismos descentralizados de ambos y los particulares con autorización o reconocimiento de validez oficial de estudios; se regirá conforme a lo establecido en el Artículo 3° y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Constitución Política Local, la presente Ley, así como las normas, reglamentos, convenios y acuerdos que de ellas se deriven.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 6º.
+
+La educación que impartan el Estado y los Municipios será laica, gratuita y constituye un servicio público, quedando, en consecuencia, prohibidas las cuotas escolares obligatorias y el condicionamiento de los servicios educativos al pago de dinero, aportaciones, o cualquier otra contraprestación o gasto indirecto que atente o pudiera atentar contra la gratuidad de la educación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 6°.
 
@@ -103,9 +121,9 @@ La educación que impartan el Estado y los Municipios será laica, gratuita y co
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 7º.
+###### ARTÍCULO 7º.
 
-Todos los habitantes de la Entidad deben cursar la educación preescolar, primaria, secundaria y media superior. El Estado creará las condiciones necesarias para el cumplimiento de esta obligación.
+Las personas que habitan la entidad federativa deben cursar la educación preescolar, primaria, secundaria y media superior. El Estado creará las condiciones necesarias para el cumplimiento gradual de esta obligación.
 
 La educación preescolar, primaria y secundaria conforman la educación básica, que será obligatoria al igual que la media superior.
 
@@ -115,19 +133,25 @@ La educación preescolar, primaria y secundaria conforman la educación básica,
 
 La educación que impartan el Estado, los Municipios y los organismos descentralizados de ambos y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Contribuir al desarrollo integral de las personas, para que ejerzan plenamente sus capacidades;
 
 II.- Favorecer el desarrollo de las facultades físicas e intelectuales y de los valores universales, a través del conocimiento, así como la capacidad de observación, análisis y reflexión críticos;
 
-III.- Impulsar el desarrollo social, entendido éste como el mejoramiento constante de la condición humana y la obtención de una calidad de vida satisfactoria, caracterizada por el bienestar de los individuos, de sus familias y de sus comunidades;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Impulsar el desarrollo social, entendido éste como el mejoramiento constante de la condición humana y la obtención de una calidad de vida satisfactoria, caracterizada por el bienestar de las personas, de sus familias y de sus comunidades;
 
 IV.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Promover el conocimiento y la preservación del idioma oficial –el español-, idioma común para todos los mexicanos; e impulsar el conocimiento del idioma inglés, sin menoscabo de otras lenguas;
+V.- Promover el conocimiento y la preservación del idioma oficial - el español -, idioma común para las y los mexicanos; e impulsar el conocimiento del idioma inglés, sin menoscabo de otras lenguas nacionales como la lengua de señas mexicana y las lenguas indígenas a través de la educación especial y bilingüe, respectivamente;
 
-VI.- Infundir el conocimiento y la práctica de la democracia como forma de convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Infundir el conocimiento y la práctica de la democracia como forma de convivencia que permite a todas las personas participar en la toma de decisiones para el mejoramiento de la sociedad;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -137,11 +161,15 @@ VII.- Promover los valores de respeto a la vida, la dignidad de las personas, la
 
 VIII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio de conservar la paz, la armonía y la sana convivencia, respetando la pluralidad de ideas y opiniones;
 
-IX.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Fomentar actitudes que estimulen la investigación y aseguren la capacitación y la innovación científica y tecnológica;
 
 X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural del País y de la Entidad en particular;
 
-XI.- Fomentar y estimular la educación física y la práctica del deporte, como parte fundamental de la formación integral del individuo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XI.- Fomentar y estimular la educación física y la práctica del deporte, como parte fundamental de la formación integral de las personas;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
 
@@ -151,13 +179,17 @@ XIII.- Concientizar sobre la necesidad de un aprovechamiento racional de los rec
 
 XIV.- Fomentar actitudes positivas hacia el trabajo, el ahorro y el bienestar general;
 
-XV.- Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVI.- Promover el respeto a los derechos del niño, de las personas de la tercera edad y del discapacitado;
+XV.- Fomentar el conocimiento y el respeto a los derechos de la mujer, así como sensibilizar sobre la necesidad de evitar la reproducción cultural de los estereotipos de género que representan un obstáculo para las mujeres en el ejercicio de sus derechos en condiciones de igualdad respecto de los varones;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVII.- Desarrollar las actitudes y programas escolares de rechazo a la violencia entre estudiantes, privilegiar la paz, la dignidad humana y la tolerancia como valores sustanciales para el desarrollo armónico de los pueblos;
+XVI.- Promover el respeto a los derechos de las y los niños, de las personas de la tercera edad y de las personas con alguna discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Desarrollar las actitudes y programas escolares de rechazo a la violencia entre estudiantes, incluida la violencia de género, y privilegiar la paz, la dignidad humana y la tolerancia como valores sustanciales para el desarrollo armónico de los pueblos;
 
 XVIII.- Promover la participación del individuo en actividades culturales, ecológicas y políticas de la sociedad en que vive, tendientes a lograr la erradicación de las desigualdades sociales y a contribuir a la construcción y desarrollo de una sociedad con mejores condiciones de vida;
 
@@ -171,13 +203,13 @@ XX.- Fortalecer todos los aspectos de la formación en los que se alcance el con
 
 XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XXII.- Impulsar, en coordinación con la Secretaría de Desarrollo Económico y Turismo y el Instituto Tamaulipeco para la Cultura y las Artes, la realización de viajes de carácter recreativo que permitan la identificación del individuo con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto;
+XXII.- Impulsar, en coordinación con la Secretaría de Desarrollo Económico y Turismo, la Secretaría de Desarrollo Urbano y Medio Ambiente y el Instituto Tamaulipeco para la Cultura y las Artes, la realización de viajes de carácter recreativo que permitan la identificación de las personas con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XXIII.- Implementar programas permanentes para erradicar el maltrato físico, psicológico y verbal entre estudiantes; y
+XXIII.- Implementar programas permanentes para prevenir, erradicar y sancionar el maltrato físico, psicológico y verbal entre las y los estudiantes, así como entre el magisterio y el educando; y
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -187,13 +219,15 @@ XXIV.- Promover la participación de debates y expresión de las ideas en forma 
 
 El criterio que orientará a la educación en la Entidad se basará en los resultados del progreso científico, promoverá el conocimiento y difundirá la libertad, además:
 
-I.- Será democrático, considerando a la democracia como una estructura jurídica y un régimen político, y como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Será democrático, considerando a la democracia como una estructura jurídica y un régimen político, y como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo, y en el respeto a los derechos humanos de las personas;
 
 II.- Será nacional, en cuanto atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, y a la continuidad y acrecentamiento de nuestra cultura; y
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos. Asimismo se promoverá una cultura de paz, libre de cualquier forma de maltrato dentro y fuera de las aulas.
+III.- Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural y de género, la dignidad y autonomía de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de preferencias sexuales o de personas. Asimismo se promoverá una cultura de paz, libre de cualquier forma de violencia dentro y fuera de las aulas.
 
 ###### ARTICULO 10.
 
@@ -207,6 +241,10 @@ III.- Aprender a convivir, desarrollando la capacidad de comprender a los otros 
 
 IV.- Aprender a ser, para que la personalidad se fortalezca y se esté en condiciones de obrar con autonomía y responsabilidad personal.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Para fortalecer los aspectos mencionados en las fracciones anteriores, se tomará en cuenta la necesidad de enfatizar las acciones positivas tendentes a subsanar la disparidad en la representación de mujeres en actividades que tradicionalmente son representadas por varones, en especial en lo correspondiente a la adquisición de capacidades.
+
 ### CAPITULO III. ATRIBUCIONES DE LAS AUTORIDADES EDUCATIVAS
 
 #### SECCION PRIMERA. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO
@@ -215,19 +253,17 @@ IV.- Aprender a ser, para que la personalidad se fortalezca y se esté en condic
 
 Corresponden al Ejecutivo del Estado, además de las que le otorgan otras disposiciones, las siguientes atribuciones en materia educativa:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-I.- Prestar en toda la Entidad el servicio público de la educación inicial, especial, básica, media superior, normal y demás para la formación de maestros, sin perjuicio de la concurrencia de los Municipios conforme a las necesidades educativas y a los convenios que al efecto suscriba;
+I.- Prestar en toda la entidad federativa el servicio público de la educación inicial, especial, básica, media superior, normal y demás para la formación del magisterio, sin perjuicio de la concurrencia de los Municipios conforme a las necesidades educativas y a los convenios que al efecto suscriba;
 
 II.- Promover y prestar de manera concurrente con la SEP, servicios educativos distintos de los previstos en las fracciones I y IV del Artículo 13 de la Ley General de acuerdo con las necesidades nacionales, regionales y estatales;
 
 III.- Planificar, programar, evaluar y promover la cobertura y las modalidades del Sistema Educativo Estatal, considerando la opinión de los sectores sociales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IV.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica. En tales contenidos promoverá asignaturas o unidades sobre el cuidado al medio ambiente y el desarrollo sustentable, la orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, asimismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
+IV.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, normal y demás para la formación del magisterio de educación básica. En tales contenidos promoverá asignaturas o unidades sobre el cuidado al medio ambiente y el desarrollo sustentable, la orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, asimismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -237,19 +273,25 @@ V.- Fomentar, apoyar y difundir las actividades científicas, tecnológicas, de 
 
 VI.- Promover permanentemente la investigación pedagógica para que el Sistema Educativo Estatal sea constantemente actualizado, creando al efecto el Sistema Estatal de Investigación Educativa, con su Reglamento respectivo;
 
-VII.- Otorgar, negar y revocar autorización a los particulares para que impartan enseñanza primaria, secundaria, normal y las demás para la formación de maestros de educación básica, así como el reconocimiento de validez oficial a estudios distintos a los anteriores, de acuerdo a la opinión técnica que para tal efecto emita la Secretaría;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Otorgar, negar y revocar autorización a los particulares para que impartan enseñanza primaria, secundaria, normal y las demás para la formación del magisterio de educación básica, así como el reconocimiento de validez oficial a estudios distintos a los anteriores, de acuerdo a la opinión técnica que para tal efecto emita la Secretaría;
 
 VIII.- Vigilar que la educación que impartan los particulares en planteles incorporados al Sistema Educativo Estatal se sujeten a ésta Ley y demás disposiciones aplicables;
 
-IX.- Realizar eventos y actividades que tiendan a elevar el nivel cultural y social de la población, y en especial, los de las zonas rurales o urbanas marginadas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Realizar eventos y actividades que tiendan a elevar el intercambio y el nivel cultural y social de la población, y en especial, los de las zonas rurales o urbanas marginadas;
 
 X.- Fomentar la formación para el trabajo, vinculándola con los sectores productivos de la Entidad;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XI.- Otorgar becas a los hijos de personas de escasos recursos económicos y/o con alto nivel de aprovechamiento, así como a las personas con algún tipo de discapacidad de acuerdo con las normas respectivas;
+XI.- Otorgar becas a las y los alumnos con el objeto de subsanar inequidades en el acceso a la educación por razones de sexo, género, nivel socioeconómico, etnia o raza, así como a las personas con algún tipo de discapacidad de acuerdo con las normas respectivas;
 
-XII.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica de los miembros de la comunidad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XII.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo y el intercambio cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica de los miembros de la comunidad, partiendo de una perspectiva de igualdad;
 
 XIII.- Disponer del uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos;
 
@@ -257,11 +299,17 @@ XIV.- Revalidar y otorgar equivalencias de estudios de la educación primaria, s
 
 XV.- Impulsar el desarrollo de la enseñanza tecnológica, creando al efecto las nuevas instituciones que requiera el Estado, de acuerdo a las necesidades de la sociedad;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVI.- Apoyar, gestionar y aportar los medios y recursos necesarios para el desarrollo de la investigación científica y tecnológica de los niveles educativos; y
+XVI.- Apoyar, gestionar y aportar los medios y recursos necesarios para el desarrollo de la investigación científica y tecnológica de los niveles educativos;
 
-XVII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Generar información estadística relativa a la educación, desglosada según los motivos de discriminación prohibidos; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen.
 
 #### SECCION SEGUNDA. ATRIBUCIONES DE LA SECRETARIA
 
@@ -299,7 +347,7 @@ XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la L
 
 XIII.- Prestar servicios de información y consulta a través de bibliotecas públicas a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -307,15 +355,21 @@ XIV.- Fomentar las actividades de educación física, de cuidado al medio ambien
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, padres de familia y educandos del Sistema Estatal de educación; y
+XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas y atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE JUNIO DE 2008)</small>
+XVII.- Emprender acciones concretas para alcanzar la paridad de representación entre varones y mujeres en las actividades que se describen en las fracciones anteriores;
 
-XVII.- Las demás que le establezcan las disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Coadyuvar con el fomento de la igualdad entre la familia en la crianza y cuidado de las y los hijos; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIX.- Las demás que le establezcan las disposiciones aplicables.
 
 #### SECCION TERCERA. ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -337,35 +391,57 @@ VI.- No permitir el establecimiento de expendios de bebidas alcohólicas y otro 
 
 VII.- No permitir el establecimiento de comercio ambulante en las inmediaciones de planteles educativos, cuando represente un riesgo a la salud, seguridad y formación del educando, con sujeción a los Reglamentos respectivos;
 
-VIII.- Apoyar la existencia de los patronatos para la construcción, conservación y funcionamiento de escuelas, de acuerdo con las disposiciones respectivas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+VIII.- Velar, en particular mediante campañas de mentalización e información, por que las familias desistan de dar un trato preferente a los varones cuando envíen a sus hijos a la escuela;
 
-IX.- Apoyar las gestiones de la Secretaría, de las Subsecretarías y de los responsables de las escuelas, que tiendan al mejoramiento de la enseñanza;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-X.- Velar para que en los casos de epidemia las autoridades sanitarias y educativas procedan de inmediato a la clausura temporal de los establecimientos escolares;
+IX.- Crear condiciones favorables para seguridad de los menores, en particular del sexo femenino, al ir y regresar de la escuela;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XI.- Otorgar becas a los estudiantes destacados y de escasos recursos; así como a las personas con algún tipo de discapacidad;
+X.- Apoyar la existencia de los patronatos para la construcción, conservación y funcionamiento de escuelas, de acuerdo con las disposiciones respectivas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, 5 DE JUNIO DE 2008)</small>
+XI.- Apoyar las gestiones de la Secretaría, de las Subsecretarías y de los responsables de las escuelas, que tiendan al mejoramiento de la enseñanza;
 
-XII.- Fomentar y difundir las actividades científicas, cívicas, de cuidado al medio ambiente y desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XIII.- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuitos, considerando la opinión de la Secretaría;
+XII.- Velar para que en los casos de epidemia, las autoridades sanitarias y educativas procedan de inmediato a la clausura temporal de los establecimientos escolares;
 
-XIV.- Prestar servicios bibliotecarios a través de bibliotecas públicas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XV.- Promover permanentemente la investigación que sirva como base a la innovación educativa;
+XIII.- Otorgar becas a las y los alumnos con objeto de subsanar inequidades en el acceso a la educación por razones de sexo, género, nivel socioeconómico, etnia o raza, así como a las personas con algún tipo de discapacidad, de acuerdo con las normas respectivas;
 
-XVI.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+XIV.- Fomentar y difundir las actividades científicas, cívicas, de cuidado al medio ambiente y desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones;
 
-XVII.- Auxiliar al Ejecutivo del Estado, a la Secretaría y a las Subsecretarías, en el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XV- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuitos, considerando la opinión de la Secretaría;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Prestar servicios bibliotecarios a través de bibliotecas públicas;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Promover permanentemente la investigación que sirva como base a la innovación educativa;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIX.- Coadyuvar con el fomento de la igualdad al interior de la familia en la crianza y cuidado de las y los hijos; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XX.- Auxiliar al Ejecutivo del Estado, a la Secretaría y a las Subsecretarías, en el cumplimiento de esta Ley.
 
 ### CAPITULO IV. DE LOS PADRES Y DE LOS EDUCANDOS
 
@@ -375,15 +451,19 @@ XVII.- Auxiliar al Ejecutivo del Estado, a la Secretaría y a las Subsecretaría
 
 Son derechos de quienes, conforme a las leyes, ejercen la patria potestad o tutela:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-I.- Obtener inscripción en escuelas públicas, para que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables reciban la educación preescolar, la primaria, la secundaria y media superior;
+I.- Obtener inscripción en escuelas públicas, para que sus hijos, hijas, pupilas o pupilos menores de edad que satisfagan los requisitos aplicables, reciban la educación inicial, básica y media superior;
 
-II.- Comunicar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se aboquen a su solución;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Comunicar a las autoridades de la escuela en la que estén inscritos hijos, hijas, pupilas o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
 III.- Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
-IV.- Formar parte de las asociaciones de padres de familia de las escuelas y de los Consejos de Participación Social a que se refiere este Capítulo; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Formar parte de las asociaciones de familiares de las escuelas y de los Consejos de Participación Social a que se refiere este Capítulo; y
 
 V.- Opinar en los casos de la educación que impartan los particulares en relación con las contraprestaciones que las escuelas fijen.
 
@@ -391,19 +471,21 @@ V.- Opinar en los casos de la educación que impartan los particulares en relaci
 
 Son obligaciones de quienes, conforme a las leyes, ejercen la patria potestad o tutela:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, primaria, secundaria y media superior;
+I.- Hacer que sus hijas, hijos, pupilas y pupilos menores de edad, reciban la educación inicial, básica y media superior;
 
-II.- Participar en el programa escuela para padres, para dar mayor atención a sus hijos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+II.- Participar en el programa escuela para familiares, para dar mayor atención a sus hijas, hijos, pupilas y pupilos;
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos, pupilas y pupilos, en las actividades que dichas instituciones realicen;
 
-IV.- Fomentar en sus hijos o pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra Entidad; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Fomentar en sus hijas, hijos, pupilas y pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; y
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -411,9 +493,11 @@ V.- Propiciar un ambiente sin violencia en el núcleo familiar, privilegiando la
 
 #### SECCION SEGUNDA. DE LOS EDUCANDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 16.
 
-Los educandos inscritos en los diferentes niveles y modalidades del sistema educativo tendrán los siguientes derechos:
+Las y los estudiantes inscritos en los diferentes niveles y modalidades del sistema educativo tendrán los siguientes derechos:
 
 I.- Formar parte del nivel educativo que por derecho le corresponda;
 
@@ -421,13 +505,23 @@ II.- Obtener certificado que acredite su nivel de estudios;
 
 III.- Ser escuchado y atendido por los docentes y las autoridades de su plantel con relación a los problemas de rendimiento escolar;
 
-IV.- Recibir asistencia social cuando sus recursos económicos sean escasos; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Participar con una representación en los organismos existentes en sus centros escolares para la toma de decisiones que redunden en beneficio de su educación.
+IV.- Recibir asistencia social cuando sus recursos económicos sean escasos;
 
-###### ARTICULO 17.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-Son obligaciones de los educandos:
+V.- Participar con una representación en los organismos existentes en sus centros escolares para la toma de decisiones que redunden en beneficio de su educación; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Acceder a los mecanismos de denuncia de violencia o de hechos violatorios a sus derechos humanos en los planteles educativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 17.
+
+Son obligaciones del educando:
 
 I.- Asistir con puntualidad a sus clases;
 
@@ -445,9 +539,11 @@ V.- Participar en los eventos científicos, culturales, artísticos, cívicos y 
 
 #### SECCION PRIMERA. SU ORGANIZACION, TIPOS, NIVELES Y MODALIDADES
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 18.
 
-El Sistema Educativo Estatal tiene como propósito fundamental la organización, estructuración, coordinación, administración y evaluación de los servicios educativos en la Entidad, en todos sus tipos, niveles y modalidades, a fin de lograr calidad, equidad y pertinencia en la educación y un óptimo nivel de competitividad nacional e internacional, incorporando como herramientas el dominio de la informática y de un segundo idioma.
+El Sistema Educativo Estatal tiene como propósito fundamental la organización, estructuración, coordinación, administración y evaluación de los servicios educativos en la Entidad, en todos sus tipos, niveles y modalidades, a fin de lograr calidad, igualdad y pertinencia en la educación y un óptimo nivel de competitividad nacional e internacional, incorporando como herramientas el dominio de la informática y de un segundo idioma.
 
 ###### ARTICULO 19.
 
@@ -471,15 +567,17 @@ VII.- Las instituciones de educación superior a las que la Ley otorga autonomí
 
 Las instituciones del Sistema Educativo Estatal impartirán educación de manera que permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva, que a su vez le permita seguir preparándose y actualizándose en el estudio.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 21.
 
-El Sistema Educativo Estatal comprende los tipos básico, medio superior y superior, con sus respectivos niveles y podrán adoptar las modalidades escolarizadas, no escolarizadas o mixtas y los tipos técnicos en sus diversas manifestaciones. Igualmente el sistema comprenderá la educación inicial, la especial, la educación para adultos, la formación para el trabajo, o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
+El Sistema Educativo Estatal comprende los tipos básico, medio superior y superior, con sus respectivos niveles y podrán adoptar las modalidades escolarizadas, no escolarizadas o mixtas, y los tipos técnicos en sus diversas manifestaciones. Igualmente, el sistema comprenderá la educación inicial, la especial, la educación para personas adultas, la formación para el trabajo, o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 22.
 
-La educación inicial tendrá como finalidad familiarizar al niño a partir de los 45 días y hasta los 3 años de edad, en su correcto desenvolvimiento social en núcleos distintos al familiar, con el propósito de favorecer su desarrollo físico, cognoscitivo, afectivo y social. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos, y comprende la que se imparte en los Centros de Desarrollo Infantil, en las guarderías y en los análogos de particulares.
+La educación inicial tendrá como finalidad familiarizar a las y los niños a partir de los 45 días y hasta los 3 años de edad, en su correcto desenvolvimiento social en núcleos distintos al familiar, con el propósito de favorecer su desarrollo físico, cognoscitivo, afectivo y social. Incluye orientación a familiares o tutores para la educación de sus hijas, hijos, pupilas y pupilos, y comprende la que se imparte en los Centros de Desarrollo Infantil, en las guarderías y en los establecimientos análogos de particulares.
 
 ###### ARTICULO 23.
 
@@ -509,21 +607,23 @@ El tipo medio superior comprende el nivel de bachillerato, los demás niveles eq
 
 Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la Entidad, con el fin de generar recursos humanos en las diferentes actividades de la industria y del trabajo en general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 29.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidades diferentes y aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con todo respeto a sus derechos y reconociendo su potencial; con equidad de género e igualdad de oportunidades educativas, sociales y laborales.
+La educación especial está destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con capacidades diferentes y aptitudes sobresalientes. Procurará atender al educando de manera adecuada a sus propias condiciones, con todo respeto a sus derechos y reconociendo su potencial, con equidad de género e igualdad de oportunidades educativas, sociales y laborales.
 
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
 
-Esta educación incluye orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que integran a alumnos con necesidades especiales de educación.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+Esta educación incluye orientación a los padres, madres o tutores, así como también a las y los maestros y personal de escuelas de educación básica regular que integran a alumnas y alumnos con necesidades especiales de educación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 30.
 
-Al impartir educación a los menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su salud e integridad física, psicológica y social, sobre las bases del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, en un marco de equidad de género.
+Al impartir educación a los menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su salud e integridad física, psicológica y social, sobre las bases del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, en un marco de igualdad de género.
 
 ###### ARTICULO 31.
 
@@ -627,7 +727,9 @@ El establecimiento de las instituciones educativas que realice el Ejecutivo del 
 
 Será responsabilidad de las autoridades educativas estatales realizar una distribución oportuna, completa, amplia y eficiente de los libros de texto gratuitos, de los de valores éticos universales y de los de inglés, los cuales también serán gratuitos; así como de los demás materiales de apoyo didáctico.
 
-En el caso de la educación pública de secundaria los libros de texto se constituyen en acervo cultural de las escuelas quienes los tendrán bajo su custodia, vigilando y difundiendo una cultura del cuidado y buen uso del libro. Este respeto por los textos permitirá cumplir con la disposición de reasignarlos de manera adecuada a la siguiente generación de alumnos.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En el caso de la educación pública secundaria, los libros de texto se constituyen en acervo cultural de las escuelas. Estas los tendrán bajo su custodia, vigilando y difundiendo una cultura del cuidado y buen uso del libro. Este respeto por los textos permitirá cumplir con la disposición de reasignarlos de manera adecuada a la siguiente generación de alumnas y alumnos.
 
 ###### ARTICULO 41.
 
@@ -727,9 +829,11 @@ El personal docente que aspire a presentar sus servicios en plazas vacantes y de
 
 Para ejercer la docencia en cada uno de los tipos y modalidades que comprende el Sistema Educativo Estatal en los casos de nuevo ingreso, los interesados deberán exhibir titulo profesional que acredite su preparación académica para tal efecto, cédula profesional en los casos previstos por la legislación y satisfacer los requisitos establecidos en la normatividad vigente. Asimismo, aprobar los exámenes pedagógico, psicológico y psicométrico que se establezcan.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 57.
 
-La Carrera Magisterial constituye un elemento más de la valoración social del maestro y tiene como propósito elevar la calidad de la educación. Consiste en la preparación académica, la atención a cursos de actualización, el desempeño profesional y la antigüedad en el servicio, a fin de acceder a niveles salariales superiores. Este mecanismo representa un sistema escalafonario de promoción horizontal que ofrece tres vertientes de participación: vertiente uno, para maestros frente a grupo; vertiente dos, para docentes en funciones directivas y de supervisión; vertiente tres, para docentes en actividades de apoyo técnico–pedagógico.
+La Carrera Magisterial constituye un elemento más de la valoración social de las y los maestros y tiene como propósito elevar la calidad de la educación. Consiste en la preparación académica, la atención a cursos de actualización, el desempeño profesional y la antigüedad en el servicio, a fin de acceder a niveles salariales superiores. Este mecanismo representa un sistema escalafonario de promoción horizontal que ofrece tres vertientes de participación: vertiente uno, para docentes frente a grupo; vertiente dos, para docentes en funciones directivas y de supervisión; y vertiente tres, para docentes en actividades de apoyo técnico-pedagógico.
 
 #### SECCION SEGUNDA. PROCESO Y CONTENIDO DE LA EDUCACION
 
@@ -763,11 +867,11 @@ Para tales efectos la Secretaría propondrá a la SEP los contenidos regionales 
 
 Los planes y programas que la SEP determine, así como sus modificaciones, deberán publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 61.
 
-El proceso educativo se basará en los principios de soberanía, libertad, responsabilidad, democracia y justicia social, que aseguren la sana convivencia basada en el respeto e igualdad, la armonía exenta de violencia entre educandos y educadores, que promueva el trabajo en equipo para asegurar la comunicación y el diálogo entre alumnos, docentes, padres de familia e instituciones públicas y privadas.
+El proceso educativo se basará en los principios de soberanía, libertad, responsabilidad, democracia, igualdad, no discriminación y justicia social, que aseguren la sana convivencia basada en el respeto, la armonía exenta de violencia entre educandos y educadores, que promueva el trabajo en equipo para asegurar la comunicación y el diálogo entre estudiantes, docentes, familiares e instituciones públicas y privadas.
 
 ###### ARTICULO 62.
 
@@ -783,9 +887,11 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 La educación oficial o incorporada al Estado, estará unificada por lo que se refiere a organización, planeación, programas, duración del año escolar, régimen administrativo y calendario escolar en general.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 65.
 
-La disciplina escolar será entendida como una actitud personal y grupal, de respeto por la convivencia democrática y por las normas escolares, que el maestro deberá fomentar por medios educativos, que prescindan absolutamente de métodos coercitivos que atenten contra la dignidad e integridad física y emocional de los educandos.
+La disciplina escolar será entendida como una actitud personal y grupal, de respeto por la convivencia democrática y por las normas escolares, que las y los maestros deberá fomentar por medios educativos, que prescindan absolutamente de métodos coercitivos que atenten contra la dignidad e integridad física y emocional del educando.
 
 #### SECCION TERCERA. CONSEJO ESTATAL TECNICO DE LA EDUCACION
 
@@ -815,13 +921,19 @@ La propuesta de planes y programas de contenido regional y el establecimiento de
 
 #### SECCION CUARTA. SISTEMA ESTATAL DE FORMACION, ACTUALIZACION, CAPACITACION Y SUPERACION PROFESIONAL PARA EL MAESTRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 69.
 
-El Ejecutivo del Estado constituirá el Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para Maestros, que tendrá las finalidades siguientes:
+El Ejecutivo del Estado constituirá el Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para el Magisterio, que tendrá las finalidades siguientes:
 
-I.- La formación, con nivel de licenciatura, de maestros de educación inicial, básica, especial y de educación física;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-II.- La actualización de conocimientos y superación de maestros en servicio, citados en la fracción anterior;
+I.- La formación, con nivel de licenciatura, de docentes de educación inicial, básica, especial y de educación física;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- La actualización de conocimientos y superación de docentes en servicio, citados en la fracción anterior;
 
 III.- La implementación y practica de programas de especializaciones, maestrías y doctorados, adecuados a las necesidades y recursos educativos de la Entidad; y
 
@@ -851,13 +963,17 @@ I.- Desarrollará y formará en los estudiantes la vocación magisterial;
 
 II.- Dedicará especial atención a la educación que imparta el Estado, de acuerdo con las bases establecidas por la presente Ley;
 
-III.- Dotará a los estudiantes normalistas de una cultura general y pedagógica, con las bases teóricas y prácticas que los capacite para realizar eficazmente el servicio educativo, tanto en el medio rural como en el urbano;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2006)</small>
+III.- Dotará a las y los estudiantes normalistas de una cultura general y pedagógica, con las bases teóricas y prácticas que los capacite para realizar eficazmente el servicio educativo, tanto en el medio rural como en el urbano;
 
-IV.- Infundirá en los estudiantes un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad, el bienestar social y la igualdad de oportunidades entre los sexos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Formará en los educandos una sólida conciencia social para la interpretación y aplicación de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
+IV.- Infundirá en el educando un alto espíritu profesional y nacionalista, y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, pugnando por el progreso, la armonía, la libertad, el bienestar social y la igualdad de oportunidades entre los sexos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Formará en el educando una sólida conciencia social para la interpretación y aplicación de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
 
 VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenidos básicos de la ecología para que puedan orientar a las comunidades en el mejoramiento del medio ambiente;
 
@@ -893,19 +1009,21 @@ Las autoridades educativas darán a conocer a los maestros, alumnos, padres de f
 
 #### SECCION PRIMERA. DE LAS ASOCIACIONES DE LOS PADRES DE FAMILIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 76.
 
 Las autoridades educativas estatal y municipales se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Sistema Educativo Estatal, formular recomendaciones y convenir acciones para apoyar la función social educativa. Estas reuniones serán presididas por la Secretaría.
 
 ### CAPITULO VII. DE LA EQUIDAD EN LA EDUCACION
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-###### ARTICULO 77.
+###### ARTÍCULO 77.
 
-Las autoridades educativas estatal y municipales, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad entre hombres y mujeres en oportunidades de acceso, permanencia y promoción en los servicios educativos.
+Las autoridades educativas estatal y municipales, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de las personas, una mayor equidad educativa, así como el logro de la efectiva igualdad entre varones y mujeres en oportunidades de acceso, permanencia y promoción en los servicios educativos.
 
-Dichas medidas atenderán preferentemente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja. El Estado promoverá y defenderá la equidad entre las instituciones educativas públicas, tanto rurales como urbanas, con el propósito de elevar la calidad de la educación y la igualdad de oportunidades para todo Tamaulipeco.
+Dichas medidas atenderán preferentemente a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja. El Estado promoverá y defenderá la equidad entre las instituciones educativas públicas, tanto rurales como urbanas, con el propósito de elevar la calidad de la educación y la igualdad de oportunidades para todas las personas que habitan la entidad federativa.
 
 ###### ARTICULO 78.
 
@@ -913,7 +1031,9 @@ Para cumplir con lo dispuesto en el Artículo anterior, las autoridades educativ
 
 I.- Atenderán de manera especial las escuelas que por estar en localidades aisladas o zonas urbanas marginadas, presenten mayor posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos de dichas localidades;
 
-II.- Desarrollarán programas de apoyo a los maestros que realicen actividad docente en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Desarrollarán programas de apoyo al magisterio que realice actividad docente en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
@@ -929,7 +1049,9 @@ VII.- Realizarán campañas educativas que tiendan a elevar los niveles cultural
 
 VIII.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijos, estableciendo además el programa de Escuela para Padres que se regulará por el Reglamento que al efecto se expida;
 
-IX.- Fomentarán la creación y desarrollo de asociaciones civiles y organizaciones de maestros que se dediquen a la enseñanza y a la investigación educativa;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Fomentarán la creación y desarrollo de asociaciones civiles y organizaciones magisteriales que se dediquen a la enseñanza y a la investigación educativa;
 
 X.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo;
 
@@ -941,33 +1063,31 @@ XI.- Concederán reconocimientos y distinciones a quienes contribuyan a la conse
 
 XII.- Realizarán las demás actividades que permitan ampliar la calidad y cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior. El Estado y los Municipios también llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad, de cuidado al medio ambiente y el desarrollo sustentable y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XIII.- Implementarán mecanismos inquebrantables, enfocados a prevenir, atender y erradicar los casos de acoso u hostigamiento privilegiando las condiciones de igualdad entre estudiantes;
+XIII.- Implementarán mecanismos inquebrantables, enfocados a prevenir, atender, erradicar y sancionar los casos de acoso u hostigamiento sexual, privilegiando las condiciones de igualdad entre estudiantes. Al mismo tiempo, adoptarán las medidas necesarias para prevenir y sancionar cualquier manifestación de violencia de género entre estudiantes y entre éstos y las autoridades escolares;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XIV.- Evitaran la discriminación en cualquiera de sus modalidades; y
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XV.- Capacitarán a los docentes y demás autoridades escolares sobre la forma de detectar y evitar las conductas de acoso u hostigamiento, en las instituciones educativas que dañen la equidad.
+XV.- Capacitarán a los docentes y demás autoridades escolares sobre la forma de detectar y evitar las conductas de acoso u hostigamiento sexual en las instituciones educativas, que atenten contra la dignidad de las personas y que tengan por efecto la inequidad y desigualdad en el ejercicio del derecho a la educación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-El Estado y los Municipios también llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad, de cuidado al medio ambiente y el desarrollo sustentable y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+El Estado y los Municipios también llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad, de cuidado al medio ambiente y el desarrollo sustentable y demás medidas tendientes a contrarrestar las condiciones sociales y culturales que afectan en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
 ###### ARTICULO 79.
 
 El Ejecutivo del Estado y los ayuntamientos, podrán celebrar convenios con la Federación para coordinar las actividades contenidas en el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 80.
 
-En Tamaulipas funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y a alentar el aprendizaje en los alumnos de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en el Reglamento que para tal efecto se expida. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, criterio de competencia -- como programas compensatorios, -- criterio de equidad -- para los alumnos con carencias económicas, así como a personas con algún tipo de discapacidad. Las becas se destinarán a alumnos de educación básica y de educación media superior, los créditos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles.
+En Tamaulipas funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar el acceso y la permanencia en la escuela, así como a alentar el aprendizaje en los alumnos y alumnas de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en el Reglamento que para tal efecto se expida. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, -criterio de competencia- como programas compensatorios, -criterio de equidad- para las y los estudiantes con carencias económicas, así como a personas con algún tipo de discapacidad. Las becas se destinarán a estudiantes de educación básica y de educación media superior, los créditos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles.
 
 ### CAPITULO VIII. LA PARTICIPACION SOCIAL EN LA EDUCACION
 
@@ -975,15 +1095,15 @@ En Tamaulipas funcionará un sistema estatal de becas, créditos y estímulos qu
 
 ###### ARTICULO 81.
 
-Las asociaciones de padres de familia tendrán por objeto:
+Las asociaciones de padres, madres o tutores tendrán por objeto:
 
 I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
 II.- Colaborar por una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios, que las propias asociaciones deseen hacer al establecimiento escolar, sin que los padres de familia o alumnos de escuelas públicas puedan ser obligados a prestar servicios personales ni a contribuir con dinero o en especie al sostenimiento de la asociación o establecimiento escolar, y sin que puedan condicionarse los servicios educativos al pago de dichas contribuciones;
+III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios, que las propias asociaciones deseen hacer al establecimiento escolar, sin que las familias o estudiantes de escuelas públicas puedan ser obligados a prestar servicios personales ni a contribuir con dinero o en especie al sostenimiento de la asociación o establecimiento escolar, y sin que puedan condicionarse los servicios educativos al pago de dichas contribuciones;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
@@ -997,9 +1117,13 @@ V.- Informar a las autoridades educativas y escolares sobre cualquier irregulari
 
 VI.- Coadyuvar con las autoridades escolares en el fomento de buenas prácticas nutricionales, en el diseño de programas y planes de alimentación saludable que el Estado, a través de las Secretarias de Salud y Educación y el Sistema de Desarrollo Integral de la Familia del Estado de Tamaulipas en su caso, considere convenientes.
 
-Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a los Reglamentos y disposiciones aplicables.
+Las asociaciones de padres, madres o tutores se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+La organización y el funcionamiento de las asociaciones de padres, madres o tutores, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a los Reglamentos y disposiciones aplicables.
 
 #### SECCION TERCERA. DE LOS MEDIOS DE COMUNICACION
 
@@ -1085,7 +1209,9 @@ Será responsabilidad del Presidente Municipal que el Consejo alcance una efecti
 
 En Tamaulipas funcionará un Consejo Estatal de Participación Social en la educación como órgano de consulta, colaboración, orientación y apoyo.
 
-En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, así como el sector productivo y sectores sociales de la Entidad, especialmente interesados en educación.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En dicho Consejo se asegurará la participación de padres, madres o tutores y representantes de sus asociaciones, docentes y representantes de su organización sindical, instituciones formadoras de docentes, autoridades educativas estatales y municipales, así como de los sectores social y privado de la entidad federativa, especialmente interesados en educación.
 
 ###### ARTICULO 87.
 
@@ -1243,7 +1369,9 @@ VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumpla
 
 VIII.- Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos;
 
-IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los y las alumnas, así como atentar contra la dignidad del alumno o alumna, la integridad física, sexual y psicológica, así como la igualdad entre los y las alumnas;
 
 X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
@@ -1458,3 +1586,23 @@ P.O. 30 DE AGOSTO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Para efectos de la obligatoriedad del Estado de garantizar la educación media superior, se estará a lo dispuesto por los artículos segundo y tercero transitorios del Decreto No LXI-466 publicado en el Periódico Oficial del Estado No. 62 de fecha 23 de mayo del presente año.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO No. LXI-900 POR LO QUE SE REFORMAN LOS ARTÍCULOS 3° PÁRRAFO PRIMERO, 18 PÁRRAFO ÚNICO, 29 PÁRRAFO PRIMERO, 30 Y 80 DE LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+DECRETO No. LXI-904 POR LO QUE SE REFORMAN LOS ARTÍCULOS 3o., 4o., 6o, 7 PÁRRAFO PRIMERO, 8o. FRACCIONES I, III, V, VI, IX, XI, XV, XVI, XVII, XXII Y XXIII, 9o. FRACCIONES I Y III, 11 FRACCIONES I, IV, VII, IX, XI, XII, XVI Y XVII, 12 FRACCIONES XVI Y XVII, 13 FRACCIONES VIII A LA XVII, 14 FRACCIONES I, II Y IV, 15 FRACCIONES I, II, III Y IV, 16 PÁRRAFO ÚNICO Y LAS FRACCIONES IV Y V, 17 PÁRRAFO ÚNICO, 21, 22, 29 PÁRRAFOS PRIMERO Y TERCERO, 40 PÁRRAFO SEGUNDO, 57, 61, 65, 69 PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II, 71 FRACCIONES III, IV Y V, 77, 78 PÁRRAFO SEGUNDO Y LAS FRACCIONES II, IX, XIII Y XV, 80, 81 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO Y LA FRACCIÓN III, 86 PÁRRAFO SEGUNDO Y 103 FRACCIÓN IX; Y SE ADICIONAN UN SEGUNDO PÁRRAFO DEL ARTÍCULO 10, LA FRACCIÓN XVIII DEL ARTÍCULO 11, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 12, LAS FRACCIONES XVIII A LA XX DEL ARTÍCULO 13 Y LA FRACCIÓN VI DEL ARTÍCULO 16, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
