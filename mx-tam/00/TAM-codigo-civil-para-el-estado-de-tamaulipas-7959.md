@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2013-08-27"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -263,7 +263,9 @@ ART. 55.- El Oficial del Registro Civil, una vez que se le comunique la resoluci
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
-ART. 56.- Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 56.- Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2001)</small>
 
@@ -273,7 +275,9 @@ Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto 
 
 ART. 58.- Toda persona que encuentre a un recién nacido, o en cuya casa o propiedad sea expuesto alguno, deberá presentarlo al Oficial del Registro Civil dentro de los tres días siguientes, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, declarando el día y el lugar donde lo hubiese hallado, así como las demás circunstancias que en el caso hayan ocurrido.
 
-En el acta se asentará además, la edad aparente del niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona que se haga cargo de él, y por lo que hace a los objetos que se hayan encontrado con el expósito y que puedan conducir a su identificación, se depositarán en el Archivo del Registro, mencionándolos en el acta y dando recibo de ellos al que recoja al niño. De lo anterior dará aviso el Oficial al Ministerio Público.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En el acta se asentará, además, la edad aparente del menor, su sexo, el nombre y apellidos que se le ponga y el nombre de la persona que se haga cargo de él; y por lo que hace a los objetos que se hayan encontrado con el expósito y que puedan conducir a su identificación, se depositarán en el Archivo del Registro, mencionándolos en el acta y dando recibo de ellos al que recoja al menor. De lo anterior dará aviso el Oficial al Ministerio Público.
 
 La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad y de cuna respecto de los niños nacidos o expuestos en ellos.
 
@@ -297,11 +301,15 @@ El Oficial del Registro Civil que viole lo dispuesto en el párrafo anterior ser
 
 ART. 62.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
 
-ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su esposo, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo esposo, salvo que éste haya desconocido al hijo o bien se demuestre que otra persona es el padre y, en ambos casos, exista sentencia ejecutoria que así lo declare.
 
 En este como en el caso del artículo anterior se observará lo previsto en los dos últimos párrafos del artículo 61.
 
-ART. 64.- Se prohibe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 64.- Se prohíbe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al menor, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal para el Estado.
 
 ART. 65.- Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas.
 
@@ -394,6 +402,10 @@ VII.- Copia de la dispensa de impedimentos si los hubo; y
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2013)</small>
 
 VIII.- Constancia de haber recibido pláticas para evitar la violencia intrafamiliar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres; y constancia expedida por personal médico de una institución oficial de salud, o médico particular, de que han sido debidamente informados de los riesgos concepcionales.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En el caso de que los contrayentes sean menores de edad y considerando que sólo podrán contraer matrimonio aquellos que de manera compartida estén próximos a ser padre y madre respectivamente, o ya lo sean, deberán de acreditar el cumplimiento de los requisitos antes enunciados y además, que han recibido pláticas del Sistema para el Desarrollo Integral de la Familia del Estado y del Instituto de la Juventud de Tamaulipas. Lo anterior para que estas instituciones hagan de su conocimiento los apoyos a que pueden ser acreedores para continuar con sus estudios y para favorecer, tanto su cuidado y desarrollo como el de sus hijos.
 
 ART. 86.- Todos los requisitos mencionados en el artículo que antecede, deberán estar satisfechos a más tardar cuatro días antes de la celebración del matrimonio.
 
@@ -521,7 +533,9 @@ ART. 123.- Las actas a que se refiere el artículo 121 contendrán: el nombre, a
 
 ART. 124.- La promesa de matrimonio que se hacen mutuamente el hombre y la mujer constituye los esponsales.
 
-ART. 125.- Sólo pueden prometerse en matrimonio los que tienen la edad requerida para contraerlo. Cuando los prometidos sean menores de edad, los esponsales no producirán efectos jurídicos si no han consentido en ellos sus representantes legales.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 125.- Sólo pueden prometerse en matrimonio las personas que cumplan la mayoría de edad.
 
 ART. 126.- Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
 
@@ -545,19 +559,27 @@ ART. 129.- Si el matrimonio no se celebra, tienen derecho los prometidos salvo l
 
 ART. 130.- El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
-ART. 131.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+ART. 131.- (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
-ART. 132.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-ART. 133.- Los menores de edad no pueden contraer matrimonio sin el consentimiento de sus representantes legales. A falta de éstos, en caso de irracional disenso o de que revoquen el que hubieren concedido, el Juez otorgará el consentimiento.
+ART. 132.- Para contraer matrimonio, el hombre y la mujer deben ser mayores de edad.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 133.- Quienes siendo menores de dieciocho años pero habiendo cumplido los dieciséis años hayan sido padres o estén próximos a serlo, podrán contraer nupcias con el padre o madre del no nacido o el menor. Los menores de edad no podrán contraer matrimonio sin el consentimiento de sus padres o tutores. A falta de éstos, en caso de irracional disenso o de que revoquen el que hubieren concedido, el Juez otorgará el consentimiento.
 
 ART. 134.- Si en los casos del artículo anterior, el juez se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados podrán ocurrir al Tribunal Superior, en los términos que disponga la Ley Procesal Civil.
 
-ART. 135.- Los representantes legales que hayan prestado su consentimiento, firmado la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no pueden revocarlo después a menos que haya justa causa para ello.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 135.- Los padres, madres o tutores que hayan prestado su consentimiento, firmado la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no pueden revocarlo después, a menos que haya justa causa para ello.
 
 ART. 136.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
 
-ART. 137.- Si el representante legal que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término de treinta días.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 137.- Si los padres, madres o tutores que hayan firmado o ratificado la solicitud de matrimonio fallecieren antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término de treinta días.
 
 ART. 138.- Son impedimentos para celebrar el matrimonio:
 
@@ -569,17 +591,19 @@ III.- El parentesco de consanguinidad, sin limitación de grado en la línea rec
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V.- (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2013)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-VII.- La fuerza o miedo graves (sic) o cualquiera otra circunstancia que impida la expresión espontánea de la voluntad. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- La violencia o miedo grave o cualquiera otra circunstancia que impida la expresión espontánea de la voluntad. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
 VIII.- La embriaguez habitual, el uso no terapéutico de enervantes o estupefacientes, o de psicotrópicos o de cualquiera otra substancia que altere la conducta y que produzca farmacodependencia;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IX.- La impotencia incurable, la sífilis, la discapacidad intelectual y las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias;
+IX.- La impotencia incurable, la sífilis y las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias. Dejarán de ser impedimento cuando conste la manifestación por escrito frente al Juez que ambos contrayentes tienen conocimiento de las circunstancias enunciadas y que consienten en matrimonio bajo las mismas;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -603,13 +627,17 @@ ART. 142.- Si el matrimonio se celebrare en contravención de lo dispuesto en el
 
 ART. 143.- Los cónyuges están obligados, a contribuir cada uno por su parte, a los fines del matrimonio y a socorrerse mutuamente.
 
-Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el esparcimiento de sus hijos. Por lo que respecta al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Los cónyuges están llamados a contribuir, cada uno por su parte, a los fines del matrimonio, así como a socorrerse mutuamente. Lo anterior significa, entre otras cosas, que no se impondrán uno al otro ningún obstáculo para que, en lo individual o en conjunto, ejerzan el derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 ART. 144.- Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciese de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
-Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientemente de su aportación económica al sostenimiento del hogar.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+El trabajo doméstico de cualquiera de los cónyuges también constituye una aportación para el sostenimiento del hogar, el cual es susceptible de estimación y deberá de ser tomado en cuenta para los efectos legales correspondientes.
 
 ART. 145.- Cada uno de los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
@@ -617,15 +645,21 @@ ART. 146.- Los cónyuges vivirán juntos en el domicilio conyugal. Se considera 
 
 Los tribunales, con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges cuando el otro traslade su domicilio a país extranjero, o se establezca en lugar insalubre o indecoroso, a no ser que lo haga en servicio público.
 
-ART. 147.- El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 147.- Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
 ART. 148.- Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta.
 
 ART. 149.- Las discordias conyugales sobre los aspectos a que se contraen los tres artículos precedentes, serán resueltas por el juez competente.
 
-ART. 150.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones y poner las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre la administración y el dominio de los bienes comunes.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-ART. 151.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos o gravarlos y un tutor para sus negocios judiciales.
+ART. 150.- Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones y poner las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre la administración y el dominio de los bienes comunes.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 151.- Los cónyuges menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos o gravarlos y un tutor para sus negocios judiciales.
 
 ART. 152.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
@@ -633,7 +667,9 @@ ART. 153.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
 ART. 154.- Los contratos traslativos de dominio sólo pueden celebrarse entre los cónyuges cuando recaigan sobre bienes propios.
 
-ART. 155.- El marido y la mujer, durante el matrimonio, podrán ejercer los derechos y acciones que tengan el uno en contra del otro pero la prescripción entre ellos no corre mientras dure el matrimonio.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 155.- Durante el matrimonio, los cónyuges podrán ejercer los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ### CAPITULO IV. DEL REGIMEN PATRIMONIAL DEL MATRIMONIO
 
@@ -681,7 +717,7 @@ IV.- La declaración explícita de si los frutos y los productos que generen los
 
 V.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
 
-VI.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en que proporción;
+VI.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción;
 
 VII.- La declaración terminante acerca de quién debe ser el administrador de la sociedad expresándose con claridad las facultades que se le conceden;
 
@@ -691,7 +727,7 @@ ART. 166.- Es nula toda capitulación en cuya virtud uno de los consortes haya d
 
 ART. 167.- Cuando se establezca que uno de los consortes sólo deba recibir una cantidad fija, el otro consorte o sus herederos deberán pagar la suma convenida, haya o no utilidades en la sociedad.
 
-ART. 168.- Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge será considerado como donación y quedará sujeto a lo prevenido en el Capítulo X de este Titulo.
+ART. 168.- Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge será considerado como donación y quedará sujeto a lo prevenido en el Capítulo X de este Título.
 
 ART. 169.- Las capitulaciones matrimoniales en que se constituye la sociedad convencional, se otorgarán por escrito. Constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
@@ -819,7 +855,9 @@ ART. 199.- Las capitulaciones matrimoniales en que se pacte la separación de bi
 
 ART. 200.- La separación de bienes puede ser absoluta o parcial. En el segundo caso, los puntos que no están comprendidos en la (sic) capitulaciones de separación, se regirán por los preceptos que regulan la sociedad legal a no ser que los esposos constituyan acerca de ellos sociedad convencional.
 
-ART. 201.- Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere, pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 201.- El esposo no podrá cobrar a la esposa ni ésta a aquél, retribución u honorario alguno por los servicios personales que le preste o por los consejos y asistencia que le otorgue, pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produzca.
 
 ### CAPITULO IX. DE LAS DONACIONES ANTENUPCIALES
 
@@ -869,13 +907,9 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 8
 
 ART. 219.- La acción de nulidad motivada por el error, sólo puede deducirse por el cónyuge engañado, y precisamente dentro de los sesenta días siguientes a la fecha en que se entere del error, pues de no ser así se tendrá por ratificado el consentimiento y quedará subsistente el matrimonio a no ser que exista otra circunstancia que lo anule.
 
-ART. 220.- La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-I.- Cuando haya habido hijos;
-
-II.- Cuando antes de declararse ejecutoriada la nulidad se obtuviese la dispensa de edad o la esposa se halle encinta;
-
-III.- Cuando aunque no haya habido hijos, transcurrieren más de treinta días después de cumplida la mayoría de edad y ninguno de los cónyuges hubieren intentado la nulidad.
+ART. 220.- El matrimonio será nulo si los contrayentes son menores de dieciséis años de edad.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -907,13 +941,23 @@ ART. 227.- La acción de nulidad proveniente del atentado contra la vida de algu
 
 ART. 228.- El miedo, la violencia, así como cualquier otra circunstancia que impida la expresión espontánea de la voluntad serán causa de nulidad del matrimonio si concurren algunas de las circunstancias siguientes:
 
-I.- Que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+l.- Que importen peligro de perder o lesionar la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
 II.- Que haya sido hecho al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
 
 III.- Que haya subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesaron cualquiera de las causas.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Lo anterior no excluye a terceros de denunciar la situación de violencia que haya sido causal del matrimonio y que mantenga a alguno de los cónyuges en un nivel de miedo tal, que lo inhiba de ejercitar la acción de nulidad.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+El Instituto de la Mujer Tamaulipeca, el Sistema para el Desarrollo Integral de la Familia de Tamaulipas y el Instituto de la Juventud de Tamaulipas podrán ser coadyuvantes en la denuncia.
 
 ART. 229.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 138, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
@@ -1001,9 +1045,9 @@ a).- La propuesta de un cónyuge para prostituir a su consorte, sea que aquél l
 
 b).- La incitación a la violencia hecha por un cónyuge a otro para cometer algún delito;
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-c).- El conato o los hechos del marido o de la mujer para corromper a los hijos, ya sean éstos, de ambos cónyuges, ya de uno solo, así como la tolerancia en su corrupción;
+c).- El connato o los hechos de cualquiera de los cónyuges para corromper a los hijos o hijas, ya sean éstos de ambos cónyuges, ya de uno solo, así como la tolerancia en su corrupción.
 
 IV.- Padecer cualquier enfermedad grave crónica o incurable, que sea, además, contagiosa o hereditaria;
 
@@ -1045,11 +1089,21 @@ XX.- Las conductas de violencia familiar cometidas por uno de los cónyuges cont
 
 XXI.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XXII.- La simple voluntad de cualquiera de los cónyuges.
+
 ART. 250.- Cuando un cónyuge demande el divorcio o la nulidad del matrimonio y no justifique la causa o desista de la acción sin consentimiento del demandado, éste tendrá a su vez derecho para demandar el divorcio, una vez que transcurran tres meses a partir de la notificación de la última sentencia o del auto que recaiga al desistimiento. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
 
-ART. 251.- El divorcio sólo puede demandarse por el cónyuge inocente y dentro de los seis meses siguientes a la fecha en que tuvo noticia de los hechos que fundan su demanda, si éstos son instantáneos. Pero si se trata de una situación continua, la acción puede ejercerse mientras aquella perdure, o dentro de los seis meses siguientes a la fecha en que deje de subsistir dicha situación.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-ART. 252.- Ninguna causa de divorcio puede alegarse cuando haya mediado perdón expreso o tácito; no se considera tácito la mera suscripción de una solicitud de divorcio voluntario, ni los actos procesales posteriores.
+ART. 251.- El divorcio motivado por las causales del artículo 249, con excepción de las fracciones XIX y XXII, sólo puede demandarse por el cónyuge al que no se le imputan las acciones que motivan el divorcio y dentro de los seis meses siguientes a la fecha en que tuvo noticia de los hechos que fundan su demanda, si éstos son instantáneos. Pero si se trata de una situación continua, la acción puede ejercerse mientras aquélla perdure, o dentro de los seis meses siguientes a la fecha en que deje de subsistir dicha situación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 252.- No pueden alegarse las causas de divorcio cuando haya mediado perdón expreso o tácito. La disposición anterior exceptúa las causales establecidas en las fracciones III, XV, XVI, XX y XXII del artículo 249.
+
+Respecto a las causales establecidas en las fracciones III, XV, XX y XXI del artículo 249, el Juez dictará nuevas medidas de protección o reforzará las antes dictadas a que hace referencia la ley respectiva.
 
 ART. 253.- Los cónyuges pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena la Ley Procesal Civil.
 
@@ -1139,7 +1193,9 @@ Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de man
 
 ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
-ART. 262.- El cónyuge culpable del divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 262.- El cónyuge al que se le imputen las causales a que hace referencia el artículo 249, perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -1309,11 +1365,9 @@ V.- Adopción; y
 
 VI.- Declaración administrativa.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-ART. 299 BIS.- La declaración administrativa sobre presunción de paternidad se realizará conforme a lo establecido en el procedimiento contemplado en la Ley de Paternidad Responsable del Estado de Tamaulipas.
-
-Para la procedencia, inicio y prosecución del procedimiento administrativo de presunción de paternidad establecido en el presente Código, se estará sujeto a los términos que para tal efecto se establecen en la Ley de Paternidad Responsable del Estado de Tamaulipas.
+ART. 299 BIS.- La declaración administrativa sobre presunción de paternidad se realizará conforme a lo dispuesto por la Ley de Paternidad y Maternidad Responsable del Estado de Tamaulipas ante el Oficial del Registro Civil correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
 
@@ -1381,27 +1435,39 @@ ART. 305.- Las cuestiones relativas a la paternidad del hijo nacido después de 
 
 ART. 306.- En todos los casos en que el cónyuge varón impugne la paternidad, debe ejercer la acción dentro de sesenta días contados desde que tuvo conocimiento del nacimiento, o de la causa que motivó la acción de impugnar la paternidad conforme a lo previsto en el artículo 302.
 
-ART. 307.- Si el marido está bajo tutela, este derecho puede ser ejercido por su tutor. Si éste no lo ejerciere, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 307.- Si el cónyuge varón está bajo tutela, este derecho puede ser ejercido por su tutor. Si éste no lo ejerciere, podrá hacerlo el esposo después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ART. 308.- Cuando el marido, teniendo o no tutor ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 
-ART. 309.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya iniciado el juicio de contradicción. En los demás casos, si el esposo ha muerto sin hacer la declaración dentro del término legal, los herederos tendrán, para interponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 309.- Los herederos del cónyuge varón, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya iniciado el juicio de contradicción. En los demás casos, si el esposo ha muerto sin hacer la declaración dentro del término legal, los herederos tendrán, para interponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ART. 310.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
-I.- Se presume que el hijo es del primer marido si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+I.- Se presume que el hijo es del primer cónyuge varón si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
-II.- Se presume que es hijo del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio. El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar que no sea propio o que el hijo sea del marido a quien se atribuye;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-III.- El hijo no se presumirá del primero ni del segundo marido si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+II.- Se presume que es hijo del segundo cónyuge varón si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio. El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar que no sea propio o que el hijo sea del cónyuge varón a quien se atribuye; y
 
-ART. 311.- Es nulo todo desconocimiento de paternidad que no se determine por la autoridad judicial.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-ART. 312.- En el juicio de contradicción de la paternidad serán oídos la madre y el hijo a quien, si fuere menor, se proveerá de un tutor interino.
+III.- El hijo no se presumirá del primero ni del segundo cónyuge varón si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 311.- Es nulo todo desconocimiento de paternidad o de maternidad que no se determine por la autoridad judicial.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 312.- En el juicio de contradicción de la paternidad o maternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
 
 ART. 313.- Para los efectos legales, sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
 
@@ -1441,7 +1507,9 @@ ART. 318.- En los casos de los dos artículos anteriores, a falta de actas o si 
 
 ART. 319.- En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley establece, incluyendo aquellas que ofrecen el avance de los conocimientos científicos.
 
-ART. 320.- Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer y ambos hubieren fallecido o por ausencia, no presencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no pueden disputarse a los hijos su filiación por la sola falta de presentación de las actas de nacimiento o de matrimonio, siempre que se pruebe esa filiación conforme a los dos artículos anteriores.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 320.- Si hubiere hijos nacidos de dos personas que han vivido públicamente como cónyuges y ambos hubieren fallecido o por ausencia, no presencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no pueden disputarse a los hijos su filiación por la sola falta de presentación de las actas de nacimiento o de matrimonio, siempre que se pruebe esa filiación conforme a los dos artículos anteriores.
 
 ART. 321.- La filiación de los hijos cuyos padres no fueren cónyuges resulta con relación a la madre, del solo hecho del nacimiento. Para justificar este hecho son admisibles todos los medios de prueba.
 
@@ -1505,7 +1573,9 @@ En este caso quedará probada la filiación del hijo respecto de ambos, aunque a
 
 ART. 335.- Cada cónyuge podrá reconocer al hijo habido antes de su matrimonio, sin el consentimiento del otro; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con la anuencia expresa de éste.
 
-ART. 336.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 336.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del cónyuge varón, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
 ART. 337.- El hijo mayor de edad no puede ser reconocido sin su consentimiento.
 
@@ -1521,7 +1591,9 @@ ART. 341.- Cuando la contradicción de la madre se haga valer con el objeto de n
 
 ART. 342.- Cuando el hijo consienta en el reconocimiento de la madre, en oposición al que haya hecho el padre, no conservará ninguno de los derechos que le haya dado el reconocimiento de éste.
 
-ART. 343.- La mujer que cuida o ha cuidado de la lactancia de un niño, a quien se le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 343.- La mujer que cuida o ha cuidado de la lactancia de un menor, a quien se le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese menor. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -1665,7 +1737,9 @@ ART. 383.- La patria potestad sobre los hijos se ejerce por los padres. Cuando p
 
 A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez, tomando en cuenta las circunstancias del caso.
 
-ART. 384.- Si el hijo es adoptivo y la adopción la hicieron el marido y su cónyuge, ambos ejercerán conjuntamente la patria potestad sobre él. Si sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad, sin perjuicio de lo dispuesto en el artículo 372.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 384.- Si el hijo es adoptivo y la adopción la hicieron ambos cónyuges o el concubinario y la concubina, ambos ejercerán conjuntamente la patria potestad. Si sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad, sin perjuicio de lo dispuesto en el artículo 372.
 
 ART. 385.- (DEROGADO, P.O. 5 DE JUNIO DE 1999)
 
@@ -1837,7 +1911,9 @@ ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce in
 
 ART. 415.- El cónyuge que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
-ART. 416.- El ulterior marido no ejercerá la patria potestad sobre los hijos de matrimonio anterior.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 416.- El ulterior cónyuge varón no ejercerá la patria potestad sobre los hijos de matrimonio anterior.
 
 ART. 417.- La patria potestad se suspende:
 
@@ -2219,7 +2295,7 @@ ART. 498.- Si el que tenía la patria potestad sobre el menor lo había dedicado
 
 ART. 499.- Si las rentas del menor no alcanzan a cubrir los gastos de alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
 
-ART. 500.- Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de estos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que ésto origine serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el Ministerio Público ejercerá la acción a que este artículo se refiere.
+ART. 500.- Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de estos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el Ministerio Público ejercerá la acción a que este artículo se refiere.
 
 ART. 501.- A falta o por imposibilidad de las personas obligadas a ministrar alimentos a los pupilos indigentes, el tutor, con autorización del Juez, quien escuchará al Ministerio Público, pondrá al pupilo en un establecimiento de beneficencia pública o privada donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
@@ -2331,7 +2407,7 @@ ART. 547.- En ningún caso puede dispensarse la obligación de rendir cuenta de 
 
 ART. 548.- El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta en general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios, si no exigiere la rendición de cuentas a su antecesor o, en su caso, a los herederos de éste.
 
-ART. 549.- Dentro del los tres meses siguientes al fenecimiento de la tutela deben rendirse cuentas generales de ésta. El Juez, con audiencia del Ministerio Público, podrá prorrogar el plazo hasta por tres meses más, en caso necesario.
+ART. 549.- Dentro de los tres meses siguientes al fenecimiento de la tutela deben rendirse cuentas generales de ésta. El Juez, con audiencia del Ministerio Público, podrá prorrogar el plazo hasta por tres meses más, en caso necesario.
 
 ART. 550.- La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
 
@@ -2611,7 +2687,9 @@ ART. 633.- Para los efectos de este Título, se entiende por familia a las perso
 
 ART. 634.- Son objeto del Patrimonio de Familia:
 
-I.- La casa habitación de la familia, adquirida en propiedad por el jefe de la familia o por alguno de sus miembros;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- La casa habitación de la familia, adquirida en propiedad por alguno de sus integrantes;
 
 II.- En algunos casos una parcela cultivable;
 
@@ -2627,7 +2705,9 @@ VII.- Tratándose de trabajadores del volante, el vehículo de su propiedad en q
 
 ART. 635.- La constitución del patrimonio de la familia no transmite la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho a disfrutar de esos bienes, según lo dispuesto en este Título.
 
-ART. 636.- Tienen derecho de habitar la casa, de aprovechar los frutos de los demás bienes afectos al patrimonio de la familia, el cónyuge del que lo constituye, en su caso el concubinario o la concubina y las demás personas a quienes el constituyente del patrimonio de la familia tienen obligación de dar alimentos.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 636.- Tienen derecho de habitar la casa, de aprovechar los frutos de los demás bienes afectos al patrimonio de la familia, quienes lo constituyan y en caso de que sea sólo uno de los cónyuges o el concubinario o la concubina, el que no lo haya constituido y las demás personas a quienes el constituyente del patrimonio de la familia tiene obligación de dar alimentos.
 
 ART. 637.- Cuando haya impedimento para que el acreedor alimentario se incorpore a la familia del deudor de los alimentos, aquél no tiene el derecho establecido en el artículo anterior, pero si podrá exigir alimentos y proceder a su aseguramiento, cuando el constituyente sea su deudor, no obstante que los únicos bienes de éste formen el patrimonio de familia.
 
@@ -2673,7 +2753,9 @@ II.- Los terrenos que el Gobierno adquiera para dedicarlos a la formación del p
 
 ART. 651.- El precio de los inmuebles referidos en el artículo anterior, será fijada por la autoridad administrativa conforme a la legislación especial existente y en su defecto tomando en consideración la capacidad económica del adquirente.
 
-ART. 652.- El que desee constituir el patrimonio de la familia con la clase de bienes mencionados en el artículo 650, además de satisfacer los supuestos exigidos por este Título, comprobará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+ART. 652.- Quien desee constituir el patrimonio de la familia con la clase de bienes mencionados en el artículo 650, además de satisfacer los supuestos exigidos por este Título, comprobará:
 
 I.- Que es mexicano;
 
@@ -2757,7 +2839,7 @@ ART. 665.- Los bienes muebles, por su naturaleza, que se hayan considerado como 
 
 ART. 666.- Los bienes son muebles por su naturaleza o por disposición de la Ley.
 
-ART. 667.- Son bienes muebles por su naturaleza, los cuerpos que pueden ser trasladados de un lugar a otro, ya se muevan por si mismos, ya por efecto de una fuerza exterior.
+ART. 667.- Son bienes muebles por su naturaleza, los cuerpos que pueden ser trasladados de un lugar a otro, ya se muevan por sí mismos, ya por efecto de una fuerza exterior.
 
 ART. 668.- Son bienes muebles por determinación de la Ley, las obligaciones y los derechos o acciones que tienen por objeto cosas muebles o cantidades exigibles en virtud de acción personal.
 
@@ -3293,7 +3375,7 @@ ART. 847.- La mala fe en los casos de mezcla o confusión se calificará conform
 
 ART. 848.- Hay copropiedad cuando un bien pertenece pro-indiviso a varias personas.
 
-ART. 849.- Los que por cualquier título tienen el dominio legal de un bien, no pueden ser obligados a conservarlo indiviso, sino en los casos en que por la misma natauraleza (sic)de los bienes o por determinación de la ley, el dominio es indivisible.
+ART. 849.- Los que por cualquier título tienen el dominio legal de un bien, no pueden ser obligados a conservarlo indiviso, sino en los casos en que por la misma natauraleza (sic) de los bienes o por determinación de la ley, el dominio es indivisible.
 
 ART. 850.- Si el dominio no es divisible, o el bien no admite cómoda división y los partícipes no convienen en que sea adjudicado a alguno de ellos, se procederá a su venta y a la repartición de su precio entre los interesados.
 
@@ -3425,7 +3507,7 @@ ART. 889.- Si se constituye sucesivamente, el usufructo no tendrá lugar sino en
 
 ART. 890.- Las personas jurídicas que no pueden adquirir o administrar bienes raíces, tampoco pueden tener usufructo constituido sobre bienes de esta clase.
 
-ART.- 891.- Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario, o cuando se adquiere por usucapion.
+ART.- 891.- Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario, o cuando se adquiere por usucapión.
 
 ART. 892.- El usufructo puede constituirse sujeto a plazo para comenzar y para terminar, y puede ser puro o condicional.
 
@@ -4323,7 +4405,7 @@ ART. 1362.- Si el tercero a quien se enajena el bien lo adquiere de buena fe, s�
 
 ART. 1363.- El que de buena fe hubiere aceptado un pago indebido, de bien cierto y determinado sólo responderá de los menoscabos o pérdidas de éste y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si lo hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo.
 
-ART. 1364.- Si el que recibió de buena fe un bien dado en pago indebido lo hubiere donado, no subsistirá la donación y se aplicará al donatorio lo dispuesto en el artículo anterior
+ART. 1364.- Si el que recibió de buena fe un bien dado en pago indebido lo hubiere donado, no subsistirá la donación y se aplicará al donatorio (sic) lo dispuesto en el artículo anterior
 
 ART. 1365.- El que de buena fe hubiere aceptado un pago indebido, tiene derecho a que se le abonen los gastos necesarios y a retirar las mejoras útiles, si con la separación no sufre detrimento el bien dado en pago. Si lo sufre, tiene derecho a que se le pague una cantidad equivalente al aumento de valor que recibió el bien con la mejora hecha.
 
@@ -5559,7 +5641,9 @@ I.- Los gastos judiciales comunes, en los términos que establezca la Ley Proces
 
 II.- Los gastos de rigurosa conservación y administración de los bienes concursados;
 
-III.- Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuvieren bienes propios;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su pareja e hijos que estén bajo su patria potestad y no tuvieren bienes propios;
 
 IV.- Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento;
 
@@ -5773,7 +5857,7 @@ VII.- A otorgar al comprador los documentos legalmente necesarios para acreditar
 
 ART. 1614.- La entrega puede ser real, jurídica o virtual. La entrega real consiste en la entrega material del bien vendido.
 
-Hay entrega jurídica cuando aun sin estar entregado materialmente el bien la ley lo considera recibido por el comprador.
+Hay entrega jurídica cuando aún sin estar entregado materialmente el bien la ley lo considera recibido por el comprador.
 
 Desde el momento en que el comprador acepte que el bien vendido quede a su disposición, se tendrá por virtualmente recibido de él, y el vendedor que lo conserve en su poder sólo tendrá los derechos y obligaciones de un depositario.
 
@@ -10043,7 +10127,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Los procedimientos de adopciones que se hayan iniciando con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+Los procedimientos de adopciones que se hayan iniciando (sic) con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
 
 ###### ARTÍCULO TERCERO.
 
@@ -10096,3 +10180,13 @@ P.O. 27 DE AGOSTO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
