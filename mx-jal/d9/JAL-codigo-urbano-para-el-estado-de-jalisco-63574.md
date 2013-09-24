@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2013-07-25"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -2465,7 +2465,9 @@ En las obras de urbanización que se realicen por etapas, se deberá garantizar 
 
 Las áreas de cesión deberán contar con las obras de urbanización que les permitan su inmediata operación y funcionamiento, sin lo cual el predio en cuestión no podrá obtener la declaratoria formal de suelo urbano, por parte del municipio.
 
-Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, alcantarillado y sanitario, sistema de drenaje pluvial, red de electrificación y alumbrado; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos dispositivos de control vial como señalización semaforización, y la jardinería y mobiliario urbano necesario.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, alcantarillado y sanitario, sistema de drenaje y captación pluvial, red de electrificación y alumbrado; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos dispositivos de control vial como señalización semaforización, y la jardinería y mobiliario urbano necesario.
 
 ###### Artículo 186.
 
@@ -2677,11 +2679,17 @@ Toda acción urbana que requiera infraestructura para su incorporación o liga c
 
 I. En vías públicas, los requerimientos necesarios para satisfacer la movilidad de la zona; en su caso, los espacios necesarios para alojar vialidades, paraderos, estaciones, carriles exclusivos para transporte público, andadores peatonales, ciclo rutas o puentes peatonales u otras, así como los necesarios para conformar e integrarse con las redes ya existentes o en proyecto para el resto del centro de población. Para tales fines deberán sujetarse a las especificaciones que consignen los programas de desarrollo urbano y en ningún caso podrán tener un ancho menor que las vías públicas adyacentes de las cuales constituyan prolongación;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-II. El drenaje y alcantarillado, así como la construcción y operación de una planta o sistema de tratamiento de aguas residuales y manejo de aguas pluviales, para la recarga de mantos acuíferos, acorde con la cantidad y tipos de descargas que esta acción urbanística o conjunto urbano genere, o la aportación económica correspondiente, cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberían sujetarse a las disposiciones vigentes en materia ambiental, y
+II. El drenaje y alcantarillado, así como la construcción y operación de una planta o sistema de tratamiento de aguas residuales y manejo de aguas pluviales, para la recarga de mantos acuíferos, acorde con la cantidad y tipos de descargas que esta acción urbanística o conjunto urbano genere, o la aportación económica correspondiente, cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberán sujetarse a las disposiciones vigentes en materia ambiental;
 
-III. Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto no se de la municipalización de las obras.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III. Para el consumo y ahorro del agua, en las construcciones o edificaciones, se deberá contar con sistemas de recolección de agua pluvial con capacidad suficiente, acorde a las características de la edificación, así como sistemas para el uso sustentable del agua; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto no se de la municipalización de las obras.
 
 ###### Artículo 213.
 
@@ -2749,9 +2757,17 @@ VI. Elevadores;
 
 VII. Vestíbulos de acceso a edificios;
 
-VIII. Vía pública, y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IX. Señalamientos y provisiones.
+VIII. Vía pública;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Señalamientos y provisiones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+X. sistemas de recuperación y almacenamiento de agua pluviales.
 
 ###### Artículo 224.
 
@@ -2865,7 +2881,9 @@ Las acciones materiales relativas a las obras de urbanización, comprenden:
 
 I. La división de un predio en lotes o fracciones a fin de darle una utilización específica;
 
-II. La dotación de redes de servicio, como agua potable, desalojo de aguas residuales y pluviales, plantas de tratamiento de aguas, electrificación, alumbrado, telefonía, instalaciones especiales y obras de infraestructura regional;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II. La dotación de redes de servicio, como agua potable, desalojo, captación y manejo de aguas residuales y pluviales, platas (sic) de tratamiento de aguas, electrificación, alumbrado, telefonía, instalaciones especiales y obras de infraestructura regional;
 
 III. Los elementos de la vialidad, como calles, banquetas, andadores, estacionamiento para vehículos; los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte colectivo;
 
@@ -3091,9 +3109,9 @@ a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbaniz
 
 2.- El proyecto de la red de agua potable,
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-3.- El proyecto de construcción y operación de la red o del sistema de desalojo de las aguas residuales y pluviales, y
+3.- El proyecto de construcción y operación de la red o del sistema de desalojo, captación y manejo de las aguas residuales y pluviales; y
 
 4.- El proyecto de la red de electrificación y del alumbrado público,
 
@@ -4732,3 +4750,13 @@ P.O. 4 DE JULIO DE 2013.
 P.O. 25 DE JULIO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Jalisco.
+
+###### ARTÍCULO SEGUNDO.
+
+Los gobiernos municipales del Estado de Jalisco, conforme a la soberanía que les señala el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán realizar las adecuaciones necesarias en sus reglamentos relacionados con el tema, dentro de los 90 días contados a partir de la entrada en vigor del presente decreto.
