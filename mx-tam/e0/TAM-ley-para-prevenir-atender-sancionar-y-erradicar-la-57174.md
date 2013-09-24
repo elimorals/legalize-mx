@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2011-05-26"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -53,13 +53,17 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR 
 
 ###### Artículo 2.
 
-1. En la elaboración y ejecución de los planes, programas y políticas públicas del Estado y de los municipios, se procurará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+En la elaboración y ejecución de los planes, programas y políticas públicas del Estado y de los municipios, se procurará:
 
 a) implementar mecanismos certeros que sustenten la igualdad jurídica entre mujeres y hombres;
 
 b) asegurar el respeto inquebrantable a la dignidad humana de la mujer;
 
-c) evitar por todos los medios las prácticas discriminatorias;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+c) Evitar por todos los medios las prácticas discriminatorias, así como los actos que fomentan o reproducen estereotipos, concepciones y valores de subordinación o inferioridad de un género a otro;
 
 d) asegurar el pleno disfrute de los derechos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
 
@@ -67,11 +71,15 @@ e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la li
 
 ###### Artículo 3.
 
-1. Para los efectos de esta ley se consideran manifestaciones de violencia contra la mujer, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Para los efectos de esta ley se consideran manifestaciones de violencia contra la mujer, las siguientes:
 
 a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
 
-b) Física: cualquier acción u omisión que produzca un daño no accidental en la mujer, provocado por la utilización de fuerza física o algún objeto capaz de provocar una lesión interna, externa o ambas;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+b) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto capaz de provocar una lesión interna, externa o ambas;
 
 c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
 
@@ -103,7 +111,9 @@ d) establecer inmuebles que sirvan como refugio para víctimas y sus descendient
 
 1. Violencia laboral o docente contra la mujer es toda acción u omisión abusiva intencional al poder que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña la autoestima, salud, integridad, libertad o seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede tratarse de un solo evento o una serie de éstos. Esta modalidad de violencia incluye el acoso u hostigamiento sexual.
 
-2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación o todo tipo de discriminación por condiciones de género.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación o todo tipo de discriminación por condiciones de género.
 
 3. Constituye violencia docente toda conducta que dañe la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que inflinjan (sic) los directores, maestros o integrantes de las instituciones educativas.
 
@@ -129,19 +139,39 @@ c) establecer un banco de datos en el cual obren las órdenes de protección y l
 
 ###### Artículo 8.
 
-1. Violencia feminicida es la forma extrema de agresión contra las mujeres por razones de género y consiste en la expresión de conductas misóginas que alienten el ejercicio de la violencia, las agresiones e incluso, la privación de la vida de la mujer.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. Violencia feminicida es la forma extrema de agresión contra las mujeres por razones de género y consiste en la expresión de conductas misóginas que alienten el ejercicio de la violencia, agresiones que pueden conllevar impunidad social y del Estado e incluso culminar en la privación de la vida de la mujer o de la niña.
 
 2. Los individuos o la comunidad de determinada circunscripción territorial del Estado podrán plantear la declaratoria de alerta de violencia de género, con la finalidad de enfrentar, sancionar y erradicar la violencia feminicida.
 
-3. La alerta de violencia de género constituye el conjunto de acciones de las instituciones públicas del Estado para enfrentar, sancionar y erradicar la violencia feminicida en un municipio o región determinados de la entidad federativa. Esta acción pugnará por garantizar la seguridad de las mujeres y el cese de la violencia en su contra. Al efecto, podrá establecerse un grupo interinstitucional y multidisciplinario con perspectiva de género que brinde seguimiento a las acciones emprendidas, ya sean preventivas, de seguridad o de justicia, así como que elabore los reportes especiales por zona y el comportamiento de los índices de violencia contra las mujeres. En su caso, se les otorgará la publicidad en términos de la alerta.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-4. La declaratoria de alerta de violencia de género contra las mujeres, podrá emitirse por el Ejecutivo del Estado, cuando:
+3. La alerta de violencia de género constituye el conjunto de acciones de las instituciones públicas del Estado para enfrentar, sancionar y erradicar la violencia feminicida en un municipio o región determinados de la entidad federativa. Los Gobiernos estatal y municipales dispondrán de las medidas para garantizar la seguridad de las mujeres y las niñas, y el cese de la violencia en su contra, para lo cual se deberá:
 
-a) la comisión de delitos contra la vida, la integridad personal, la libertad y la seguridad de las mujeres, alteren la paz pública en una circunscripción territorial determinada y por su magnitud la sociedad así lo reclame;
+I.- Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que brinde seguimiento a las acciones emprendidas, acorde con el motivo de dichas acciones;
 
-b) exista un agravio que impida en forma generalizada el ejercicio pleno de los derechos humanos por parte de las mujeres; y
+II.- Implementar las acciones preventivas, de seguridad o de justicia;
 
-c) Lo (sic) soliciten los organismos protectores de los derechos humanos de carácter estatal, nacional o internacionales de los que el Estado Mexicano sea parte.
+III.- Elaborar los reportes especiales por zona y el comportamiento de los índices de violencia contra las mujeres;
+
+IV.- Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres y niñas; y
+
+V.- Hacer del conocimiento público el motivo de las acciones y medidas implementadas, así como la zona territorial que abarca.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+4.- La declaratoria de alerta de violencia de género contra las mujeres, podrá emitirse por cualquier autoridad que forme parte del grupo interinstitucional referido en el párrafo anterior, cuando:
+
+a). La comisión de delitos contra la vida, la integridad personal, la libertad o la seguridad de las mujeres, alteren la paz pública en una circunscripción territorial determinada;
+
+b). Exista un agravio que impida el ejercicio pleno de los derechos humanos por parte de las mujeres;
+
+c). Lo soliciten las organizaciones de la sociedad civil, así como los organismos protectores de los derechos humanos de carácter estatal, nacional o internacionales de los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+5. La solicitud de declaratoria de alerta de violencia de género se podrá presentar ante cualquier Centro de Salud, el cual deberá remitirla a la autoridad competente de manera inmediata, quien la emitirá, en caso procedente, en un plazo de 24 horas contado a partir de la recepción de la solicitud o a partir de que la autoridad haya tenido conocimiento de los hechos de violencia feminicida.
 
 ### Capítulo III. De las Órdenes de Protección
 
@@ -149,7 +179,9 @@ c) Lo (sic) soliciten los organismos protectores de los derechos humanos de car�
 
 1. Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, para salvaguardar sus derechos, siendo fundamentalmente precautorias y cautelares.
 
-2. Dichas órdenes deberá emitirlas la autoridad competente que conozca de los hechos que constituyan violencia en contra de las mujeres.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. Dichas órdenes deberá emitirlas el Juez competente, a solicitud del agente del Ministerio Público o bien a petición de la víctima, que conozca de los hechos que constituyan violencia en contra de las mujeres.
 
 3. Las órdenes de protección son de carácter personal e intransferible, pudiendo ser:
 
@@ -159,13 +191,15 @@ b) preventivas; o
 
 c) de naturaleza meramente civil.
 
-4. Las órdenes de protección de emergencia y las preventivas tendrán una temporalidad no mayor de 72 horas y se emitirán dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+4. Las órdenes de protección de emergencia y las preventivas tendrán una temporalidad no mayor de 15 días naturales y se emitirán dentro de las 24 horas siguientes al conocimiento de los hechos que las generan o bien de la solicitud de la víctima.
 
 5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-###### Articulo 9 Bis.
+###### Artículo 9 Bis.
 
 El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
 
@@ -523,10 +557,20 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE MAYO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
