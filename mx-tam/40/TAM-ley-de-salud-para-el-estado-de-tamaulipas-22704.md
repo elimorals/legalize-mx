@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2012-08-30"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -43,29 +43,79 @@ LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 1°.
 
-Las disposiciones de la presente ley son de orden público, de interés social, de observancia general y de aplicación en el territorio del Estado, y tienen por objeto la protección a la salud y el establecimiento de las bases y modalidades para el acceso de la población a los servicios de salud proporcionados por el Estado con la concurrencia de sus Municipios, en materia de salubridad general y local, en términos de los artículos 4º de la Constitución Política de los Estados Unidos Mexicanos y 144 de la Constitución Política del Estado de Tamaulipas.
+Las disposiciones de la presente Ley son de orden público, de interés social, de observancia general y de aplicación en el territorio del Estado. Tienen por objeto la protección a la salud y el establecimiento de las bases y modalidades para el acceso de la población a los servicios de salud proporcionados por el Estado con la concurrencia de sus Municipios, en materia de salubridad general y local, así como la asistencia interinstitucional para la mejora progresiva de los factores determinantes básicos de la salud, en términos de los artículos 4° de la Constitución Política de los Estados Unidos Mexicanos, 4° y 144 de la Constitución Política del Estado de Tamaulipas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 2°.
 
-El derecho a la protección de la salud, tiene las siguientes finalidades.
+El derecho a la protección de la salud comprende:
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-I.- El bienestar físico y mental del hombre, desde el momento mismo de la concepción;
+l.- El bienestar físico y mental de las personas, desde el momento mismo de la concepción;
 
 II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
-III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- La extensión de actividades solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+III.- La creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social, a la eliminación de los obstáculos para gozar de la salud, y al trabajo interinstitucional para coadyuvar a la mejora progresiva de los factores determinantes básicos de la salud;
 
-V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+IV.- La participación solidaria y responsable de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- El disfrute de servicios de salud de calidad en todas sus formas y niveles, entendiendo calidad como la exigencia de que sean apropiados médica y científicamente, esto es, que exista personal médico capacitado, medicamentos y equipo hospitalario científicamente aprobados y en buen estado, y condiciones sanitarias adecuadas. Los servicios de salud deben estar disponibles, ser accesibles y aceptables para que permitan a las personas disfrutar del más alto nivel posible de salud;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- El respeto al derecho a la salud materna, a la salud sexual y reproductiva, a la higiene en el trabajo y medio ambiente, a la prevención y tratamiento de enfermedades y a la lucha contra ellas.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 2° Bis.
+
+En lo referente al acceso a la atención de la salud y los factores determinantes básicos de la salud, así como a los medios y derechos para conseguirlo, queda prohibida toda discriminación por motivos de raza, color, sexo, idioma, religión, opinión política o de otra índole, posición social, situación económica, lugar de nacimiento, impedimentos físicos o mentales, estado de salud, orientación sexual y situación política, social o de otra índole que tengan por objeto o por resultado la invalidación o el menoscabo de la igualdad de goce o el ejercicio del derecho a la salud.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 2° Ter.
+
+Son derechos generales de las y los usuarios de servicios médicos los siguientes:
+
+I.- Recibir atención médica adecuada;
+
+II.- Recibir trato digno y respetuoso;
+
+III.- Recibir información suficiente, clara, oportuna y veraz. Cuando se trate de la atención a los usuarios originarios de pueblos y comunidades indígenas, éstos tendrán derecho a obtener información necesaria en su lengua, y cuando se trate de personas con alguna discapacidad, se procurará adaptar la información a las formas de comunicación que les sean accesibles;
+
+IV.- Decidir libremente sobre su atención;
+
+V.- Otorgar o negar su consentimiento válidamente informado;
+
+VI.- Ser tratado con confidencialidad;
+
+VII.- Contar con facilidades para obtener una segunda opinión;
+
+VIII.- Recibir atención médica en caso de urgencia;
+
+IX.- Contar con un expediente clínico y a solicitar un resumen clínico; y
+
+X.- Ser atendido cuando se inconforme por la atención médica recibida.
 
 ###### ARTICULO 3°.
 
@@ -209,33 +259,65 @@ VIII.- Cuarentena.- Limitación a la libertad de tránsito de personas que hubie
 
 IX.- Establecimientos.- Aquellos en los que se desarrolla una actividad ocupacional, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios;
 
-X.- Ley.- La Ley de Salud para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XI.- Medidas de seguridad.- Las disposiciones que dicte la autoridad sanitaria para proteger la salud de la población;
+X.- Factores determinantes básicos de la salud.- Conjunto de condiciones que inciden en el disfrute del nivel más alto posible de salud, tal como la alimentación y la nutrición, la vivienda, el acceso a agua limpia potable y a condiciones sanitarias adecuadas, condiciones de trabajo seguras y sanas y un medio ambiente sano;
 
-XII.- Norma sanitaria.- El conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la Secretaría, para el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XIII.- Observación personal.- La supervisión sanitaria de los presuntos portadores de enfermedades, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible sin limitar su libertad de tránsito;
+XI.- Ley.- La Ley de Salud para el Estado de Tamaulipas;
 
-XIV.- Reglamento.- El reglamento de la Ley de Salud para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XV.- Sanción administrativa.- La medida que impone la Secretaría a los infractores de esta ley y disposiciones aplicables;
+XII.- Medidas de seguridad.- Las disposiciones que dicte la autoridad sanitaria para proteger la salud de la población;
 
-XVI.- Secretaría.- La Secretaría de Salud del Gobierno del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVII.- Servicios de salud.- Todas aquellas acciones dirigidas a proteger, promover y restaurar la salud de las personas;
+XIII.- Norma sanitaria.- El conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la Secretaría, para el desarrollo de actividades relacionadas con la salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVIII.- Vigilancia sanitaria.- Es la que se realiza a través de las visitas de verificación con el objeto de proteger la salud de la población;
+XIV.- Observación personal.- La supervisión sanitaria de los presuntos portadores de enfermedades, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible sin limitar su libertad de tránsito;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XIX.- Visita de verificación.- Es la que realiza el personal autorizado expresamente por la autoridad competente, con el objeto de constatar el cumplimiento de las disposiciones sanitarias; y
+XV.- Reglamento.- El Reglamento de la Ley de Salud para el Estado de Tamaulipas;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XX.- Expediente Clínico Electrónico.- El repositorio de los datos del paciente en formato digital, que se almacena e intercambian de manera segura y puede ser consultado por múltiples usuarios autorizados. Contiene información retrospectiva, concurrente y prospectiva y su principal propósito es soportar de manera continua, eficiente, con calidad integral la atención y cuidados de salud.
+XVI.- Responsabilidad de los servidores públicos.- Las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVII.- Salud.- Derecho humano fundamental e indispensable para el ejercicio de los demás derechos humanos. Todo ser humano tiene derecho al disfrute del más alto nivel posible de salud que le permita vivir dignamente. Se entiende como un estado de completo bienestar físico, mental y social, y no solamente como ausencia de infecciones o enfermedades;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII.- Salud sexual y reproductiva.- La salud sexual persigue el desarrollo de la vida y de las relaciones personales y no meramente el asesoramiento y la atención en materia de reproducción y de enfermedades de transmisión sexual. La salud reproductiva es un estado general de bienestar físico, mental y social, y no de mera ausencia de enfermedades o dolencias, en todos los aspectos relacionados con el sistema reproductivo y sus funciones y procesos. En consecuencia, la salud reproductiva entraña la capacidad de disfrutar de una vida sexual satisfactoria sin riesgos y de procrear en libertad para decidir hacerlo o no hacerlo, cuándo, con qué frecuencia y con quién. Esta última condición lleva implícito el derecho de las personas a obtener información y de planificación de la familia de su elección, así como a otros métodos para la regulación de la reproducción, y acceso a métodos seguros, eficaces, asequibles y legales, el derecho a recibir servicios adecuados de atención de la salud que permitan los embarazos y los partos sin riesgos y den a las personas las máximas posibilidades de tener hijos sanos. La atención de la salud reproductiva se define como el conjunto de métodos, técnicas y servicios que contribuyen a la salud y al bienestar reproductivo al evitar y resolver los problemas relacionados con la salud reproductiva;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIX.- Sanción administrativa.- La medida que impone la Secretaría a los infractores de esta ley y disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XX.- Secretaría.- La Secretaría de Salud del Gobierno del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XXI.- Servicios de salud.- Todas aquellas acciones dirigidas a proteger, promover y restaurar la salud de las personas;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XXII.- Vigilancia sanitaria.- La que se realiza a través de las visitas de verificación con el objeto de proteger la salud de la población;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII.- Visita de verificación.- La que realiza el personal autorizado expresamente por la autoridad competente, con el objeto de constatar el cumplimiento de las disposiciones sanitarias; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XXIV.- Expediente Clínico Electrónico.- El repositorio de los datos del paciente en formato digital, que se almacena e intercambian de manera segura y puede ser consultado por múltiples usuarios autorizados. Contiene información retrospectiva, concurrente y prospectiva y su principal propósito es soportar de manera continua, eficiente, con calidad integral la atención y cuidados de salud.
 
 ###### ARTICULO 6°.
 
@@ -385,9 +467,11 @@ XXV.- Promover el establecimiento del Expediente Clínico Electrónico en las de
 
 XXVI.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 9°.
 
-La Secretaría, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado de Tamaulipas, elaborará y propondrá al Ejecutivo del Estado el Programa Estatal de Salud, de conformidad con las prioridades y servicios de los Sistemas Nacional y Estatal de Salud.
+La Secretaría, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado de Tamaulipas, elaborará y propondrá al Ejecutivo del Estado el Programa Estatal de Salud, de conformidad con las prioridades y servicios de los Sistemas Nacional y Estatal de Salud, y en atención a los principios de no discriminación, progresividad y máximo uso de recursos disponibles en materia de derechos sociales.
 
 ### CAPITULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -513,9 +597,11 @@ La Secretaría propondrá al Ejecutivo del Estado la celebración de convenios d
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 15.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, a la población abierta, preferentemente a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, a la población abierta, preferentemente a los grupos en situación de vulnerabilidad.
 
 ###### ARTICULO 16.
 
@@ -535,25 +621,41 @@ III.- La atención médica, que comprende actividades preventivas, curativas y d
 
 IV.- La atención materno-infantil y del adolescente;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Atención a la salud de la mujer en todos los aspectos;
+V.- La atención del adolescente;
 
-VI.- La planificación familiar;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VII.- La salud mental y adicciones;
+VI.- Atención a la salud de la mujer en todos los aspectos;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- La atención del adulto mayor;
+VII.- La salud sexual y reproductiva de las personas, que incluye la planificación familiar;
 
-IX.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-X.- La promoción del mejoramiento de la nutrición;
+VIII.- La salud mental y adicciones;
 
-XI.- La asistencia social a los grupos más vulnerables; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XII.- Las demás que establezcan otras disposiciones legales aplicables.
+IX.- La atención del adulto mayor;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XI.- La promoción del mejoramiento de la nutrición;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XII.- La asistencia social a los grupos más vulnerables; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIII.- Las demás que establezcan otras disposiciones legales aplicables.
 
 ### CAPITULO II. DE LA ATENCION MEDICA
 
@@ -667,7 +769,9 @@ VI.- Conocer el nombre y la calificación profesional de quien le administre un 
 
 VII.- Recibir información sobre eventuales afecciones que se conozca o se sospeche que padezca el producto del embarazo o el recién nacido;
 
-VIII.- Conocer o consultar su historia clínica y solicitar copia de la misma;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Conocer y consultar su resumen clínico y solicitar copia del mismo;
 
 IX.- Elegir una posición para el trabajo de parto y el parto, que le resulten más convenientes para ella y el producto del embarazo;
 
@@ -679,9 +783,17 @@ X.- Recibir atención sensible con su sistema de valores y de creencias;
 
 XI.- Ser informada sobre los procedimientos de orientación y quejas con relación a la prestación a los servicios de salud; y
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XII.- Ser informada y acceder al examen de VIH a fin de prevenir la salud de los infantes desde su gestación, siendo el resultado de dicho examen como confidencial.
+XII.- Ser informada y acceder al examen de VIH, a fin de prevenir la salud de los infantes desde su gestación, siendo confidencial el resultado de dicho examen. El acceso al diagnóstico de VIH deberá tener carácter de prioritario e inmediato, es decir, en el primer contacto que la mujer tenga con los servicios de salud. En caso de que el examen de VIH resultara positivo, la mujer tendrá derecho a recibir la información necesaria para procurar su salud y prevenir la transmisión perinatal del VIH durante el embarazo, parto o cesárea y lactancia. Tanto ella como el infante tendrán acceso prioritario al tratamiento antiretroviral más adecuado para su caso concreto;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIII.- La mujer recibirá la información necesaria y los medios para acceder a la sustitución de lactancia materna oportunamente; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+XIV.- En caso de que su salud esté en riesgo con motivo del embarazo y tratándose de los supuestos legales en los cuales no es punible la interrupción del embarazo, se le informará sobre los métodos médicos seguros para ello.
 
 ###### ARTICULO 31.
 
@@ -695,11 +807,29 @@ La protección de la salud física y mental de los menores de edad es una respon
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
 
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna a sus riesgos y padecimientos;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Procedimientos que permitan la participación activa de la mujer en la prevención y atención oportuna a sus riesgos y padecimientos;
 
 II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna exclusiva y, en su caso, la ayuda alimentaría directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente; y
 
 III.- Acciones para la prevención y control de las enfermedades evitables por vacunación, enfermedades diarreicas, infecciones respiratorias agudas, accidentes y otras enfermedades prioritarias de los menores de cinco años.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 33 Bis.
+
+Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I.- Los programas para las parejas, tutores y familiares destinados a promover la atención materno-infantil;
+
+II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer los lazos familiares y promover la salud física y mental de sus integrantes;
+
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+
+IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
+
+V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
 ###### ARTICULO 34.
 
@@ -707,7 +837,9 @@ Los servicios de salud destinados a la atención del adolescente son:
 
 I.- Vigilancia de la atención integral del crecimiento y desarrollo de las y los adolescentes;
 
-II.- Actividades de prevención y control de accidentes, adicciones, salud mental, riesgos reproductivos, VIH-SIDA y enfermedades de transmisión sexual; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Actividades de prevención y control de accidentes, adicciones, salud mental, riesgos reproductivos incluido el embarazo adolescente, VIH-SIDA y otras infecciones de transmisión sexual. Para ello, el personal de salud deberá ofrecer información científica, accesible y de calidad sobre el cuidado de su salud sexual y reproductiva, así como para el acceso gratuito o, al menos, preservativos y anticonceptivos femeninos y masculinos; y
 
 III.- Fomentar, en los adolescentes, valores sobre autocuidado de salud, adquisición de estilos de vida saludables y el desarrollo de habilidades para la toma de decisiones que favorezca su bienestar integral.
 
@@ -743,13 +875,17 @@ VII.- Las demás que coadyuven a la protección de la salud materno-infantil y d
 
 Los servicios que se presten en materia de planificación familiar constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-Para el efecto, los Comités de Salud, con el apoyo necesario de las instituciones educativas y de salud, promoverán que en las poblaciones y comunidades se impartan pláticas de orientación en materia de planificación familiar.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+Para el efecto, los Comités de Salud, con el apoyo necesario de las instituciones educativas y de salud, promoverán que en las poblaciones y comunidades se impartan pláticas de orientación en materia de planificación familiar, y salud sexual y reproductiva.
 
 ###### ARTICULO 37.
 
 Los servicios de planificación familiar consistirán en:
 
-I.- La promoción del desarrollo de programas educativos en materia de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- La promoción del desarrollo de programas educativos en materia de planificación familiar y salud sexual y reproductiva, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
 
 II.- La atención y vigilancia de los aceptantes y usuarios de estos servicios;
 
@@ -781,13 +917,13 @@ I.- Cáncer cérvico-uterino; Cáncer de mama, Cáncer de ovario, Cáncer de vul
 
 II.- Embarazo de riesgo, Diabetes gestacional, Amenorrea, Aborto, Infertilidad, Endometriosis, Disfunción Hormonal, Síndrome Premenstrual, Metrorragia, Dismenorrea, Dispareunia, Multiparidad, Cistocele, Incontinencia, Galactorrea, Menopausia y Climaterio;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Enfermedades infecto-contagiosas como el SIDA, Gonorrea, papiloma y otras de transmisión sexual; enfermedades del tipo de las vulvovaginitis, cistitis, metritis, salpingitis, ovaritis, enfermedad pélvica inflamatoria, absceso de mama y otras mastitis;
+III.- Infecciones de transmisión sexual como el VIH, gonorrea, VPH y otras de transmisión sexual; enfermedades del tipo de las vulvovaginitis, cistitis, metritis, salpingitis, ovaritis, enfermedad pélvica inflamatoria, absceso de mama y otras mastitis; y
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Enfermedades no exclusivas de la mujer, pero de mayor frecuencia en ellas, como la osteoporosis, obesidad, anorexia, abulimia (sic), depresión, várices y todas aquéllas que en la mujer tenga alta incidencia.
+IV.- Enfermedades no exclusivas de la mujer, pero de mayor incidencia en ellas, como la osteoporosis, obesidad, anorexia, bulimia, depresión, várices y todas aquellas que en la mujer tengan alta incidencia.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -865,7 +1001,9 @@ La prevención de las enfermedades mentales se basará en el conocimiento de los
 
 Para la promoción de la salud mental, la Secretaría y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-I.- El desarrollo de estilos de vida saludables a través de actividades de orientación, educativas, socioculturales y recreativas que contribuyan a la salud mental, destinadas preferentemente a la infancia y a la adolescencia;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- El desarrollo de estilos de vida saludables a través de actividades de orientación, educativas, socioculturales y recreativas que contribuyan a la salud mental de todas las personas, atendiendo a la edad y a las necesidades particulares de cada grupo social;
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 2002)</small>
 
@@ -915,6 +1053,8 @@ Quienes ejerzan las actividades profesionales, técnicas, auxiliares y las espec
 
 ### CAPITULO III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 47.
 
 Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias y las educativas, con la participación que corresponda a otras dependencias.
@@ -925,7 +1065,7 @@ La Secretaría, en coordinación con las instituciones educativas, definirán lo
 
 ###### ARTICULO 48.
 
-La Secretaría, en coordinación con las autoridades educativas y la participación de instituciones de educación superior, recomendarán y establecerán normas y criterios para la formación de recursos humanos para la salud, así como para su capacitación y actualización, y promoverán un sistema de enseñanza continua en materia de salud.
+La Secretaría, en coordinación con las autoridades educativas y la participación de instituciones de educación superior, recomendarán y establecerán normas y criterios para la formación de recursos humanos para la salud, así como para su capacitación y actualización, y promoverán un sistema de enseñanza continua en materia de salud. Los recursos humanos orientados a la atención y satisfacción de los derechos de las personas usuarias de servicios médicos, se guiarán por el respeto al principio de no discriminación y al contenido mínimo de los derechos humanos. Las instituciones de salud y educativas se asegurarán de transmitir ese conocimiento a los profesionales en formación.
 
 ###### ARTICULO 49.
 
@@ -935,9 +1075,17 @@ I.- Promover actividades tendientes a la formación, capacitación y actualizaci
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio, dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Promover la participación voluntaria, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
+III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio, dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Promover la participación voluntaria, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Promover la capacitación de los prestadores de servicios de salud para atender casos de violencia con perspectiva de género.
 
 ###### ARTICULO 50.
 
@@ -1017,7 +1165,9 @@ La Secretaría, de conformidad con los criterios de carácter general que emitan
 
 La información se referirá, fundamentalmente, a los aspectos siguientes:
 
-I.- Estadística de la natalidad, morbilidad, mortalidad y discapacidad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Estadística de la natalidad, morbilidad, mortalidad y discapacidad, con especial énfasis en información desagregada por sexo, género, edad e identidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud;
 
@@ -1051,7 +1201,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual y reproductiva, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, prevención y control de enfermedades transmisibles y violencia intrafamiliar.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, salud sexual y reproductiva, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, prevención y control de enfermedades transmisibles y violencia familiar.
 
 ###### ARTICULO 63.
 
@@ -1083,9 +1235,17 @@ V.- Promover investigaciones químicas, biológicas, sociales y económicas, enc
 
 VI.- Recomendar y promover, en la esfera de su competencia, las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos nutrimientos para la población;
 
-VII.- Difundir las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Proveer de los mecanismos necesarios para dar acceso a suplementos alimenticios a grupos vulnerables.
+VII.- Difundir las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Proveer de los mecanismos necesarios para dar acceso a suplementos alimenticios a grupos vulnerables; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IX.- Atender el impacto que tiene en la esfera de la salud la violencia, de conformidad con las disposiciones aplicables.
 
 ### CAPITULO V. DE LA SALUD OCUPACIONAL
 
@@ -1141,6 +1301,8 @@ Todo establecimiento industrial que cuente con servicios médicos en sus instala
 
 ### CAPITULO II. DE LAS ENFERMEDADES TRANSMISIBLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ## TITULO OCTAVO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
 ### CAPITULO III. DE LAS ENFERMEDADES NO TRANSMISIBLES
@@ -1165,7 +1327,7 @@ La Secretaría de Salud realizará acciones de inspección directa en los establ
 
 ###### ARTICULO 76.
 
-La Secretaría, en coordinación con las autoridades sanitarias federales, elaborará programas y campañas temporales o permanentes para el control o erradicación de enfermedades transmisibles que constituyan un riesgo para la salud a la población.
+La Secretaría, en coordinación con las autoridades sanitarias federales, elaborará programas y campañas temporales o permanentes para el control o erradicación de enfermedades e infecciones transmisibles que constituyan un riesgo para la salud a la población.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, prevención y control de las enfermedades transmisibles, siguientes:
 
@@ -1213,13 +1375,19 @@ IV.- En un plazo no mayor de veinticuatro horas, los primeros casos individuales
 
 V.- Inmediatamente en los casos en que se detecte la presencia del virus de inmunodeficiencia humana (VIH) o de anticuerpos de dicho virus, en alguna persona.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 78.
 
-Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica. Igual obligación tendrán los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere ésta ley.
+Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades e infecciones transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica. Igual obligación tendrán los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
+
+En todo caso, las personas a que hace referencia este artículo protegerán los datos personales de terceros y se someterán a las obligaciones que en materia de datos personales establece la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 79.
 
-La Secretaría vigilará, supervisará y proporcionará atención médica a las personas consideradas en grupos de alto riesgo por enfermedades de transmisión sexual y VIH-SIDA, para evitar posibles contagios a la población.
+La Secretaría vigilará, supervisará y proporcionará atención médica a las poblaciones de mayor riesgo para adquirir infecciones de transmisión sexual y VIH-SIDA.
 
 ###### ARTICULO 80.
 
@@ -1249,9 +1417,11 @@ La vacunación será obligatoria contra la tosferina, la difteria, el tétanos, 
 
 Quedan facultadas las autoridades sanitarias estatales para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas, de acuerdo con las disposiciones de esta ley y los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 83.
 
-Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las Normas Oficiales Mexicanas vigentes, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
+Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las Normas Oficiales Mexicanas vigentes, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles a las personas. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
 
 ###### ARTICULO 84.
 
@@ -1297,7 +1467,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento, control y r
 
 ### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 90.
 
@@ -1335,9 +1505,7 @@ La Secretaría de Salud implementará acciones entre las instituciones de salud,
 
 ###### ARTICULO 93.
 
-las actividades de asistencia social que corresponden a la Secretaria serán encaminadas hacia las personas que por sus carencias socioeconómicas o problemas de discapacidad, se encuentran impedidos para satisfacer sus requerimientos básicos de subsistencia y desarrollo dentro de la comunidad.
-
-La Secretaría, por conducto del Patrimonio de la Beneficencia Pública de Tamaulipas, coadyuvará en el apoyo a los programas de asistencia social y a los servicios de salud, a través de acciones altruistas en beneficio de personas de escasos recursos.
+La Secretaría de Salud promoverá la participación de las organizaciones de la sociedad civil para que coadyuven a la satisfacción del derecho a la salud de las personas desde un enfoque plural y participativo.
 
 ## TITULO DECIMO. DE LAS ADICCIONES
 
@@ -1363,7 +1531,9 @@ La Secretaría se coordinará con las autoridades sanitarias federales para la e
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-II.- La educación y difusión sobre los efectos del alcohol en la salud, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+II.- La educación y difusión sobre los efectos del alcohol en la salud de las personas, considerando las diferencias por edad, género y actividad, a través de métodos individuales, sociales o de comunicación masiva; y
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -2555,7 +2725,7 @@ ARTICULO 193 QUINQUIES.- La asignación y distribución de órganos y tejidos po
 
 I.- Directamente en el establecimiento de salud donde se encuentre el paciente que lo requiera, previo dictamen del Comité Interno de Trasplantes tomando en cuenta los siguiente criterios de urgencia por órganos y tejidos:
 
-a).- Corazón: Al paciente que se encuentra en cualquiera de los grados de insuficiencia cardiaca.
+a).- Corazón: Al paciente que se encuentra en cualquiera de los grados de insuficiencia cardiaca:
 
 1.- Grado I. Pacientes con falla primaria del injerto en el periodo inicial, dentro de las primeras 48 horas.
 
@@ -2641,7 +2811,7 @@ IX. Grupos médicos altamente especializados en trasplantes e injertos y en las 
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-ARTICULO 194 BIS.- Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las ínvestigaciones realizadas al efecto, el riesgo para la salud y la vida del donante y del receptor sea aceptable, y siempre que existan justificantes de orden terapéutico.
+ARTICULO 194 BIS.- Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, el riesgo para la salud y la vida del donante y del receptor sea aceptable, y siempre que existan justificantes de orden terapéutico.
 
 Para la realización de trasplantes, se deberá observar lo siguiente:
 
@@ -3358,3 +3528,13 @@ DECRETO No. LXI-494, POR EL QUE SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍ
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
