@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2008-06-05"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -77,19 +77,19 @@ VI.- Fomentar el sector social de la economía;
 
 VII.- Establecer mecanismos de evaluación y seguimiento de los programas sociales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 VIII.- Determinar las bases para la participación social en la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 IX.- Promover el establecimiento de instrumentos de acceso a la justicia, a través de la Denuncia popular, en materia de desarrollo social; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -109,7 +109,9 @@ II.- Solidaridad: La colaboración entre personas, grupos sociales y órdenes de
 
 III.- Justicia Distributiva: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus necesidades;
 
-IV.- Inclusión: Derecho de toda persona a participar y disfrutar, en condiciones de libertad y equidad, de las oportunidades y los beneficios del desarrollo social, independientemente de su condición social o económica, sexo, edad, capacidad física, orientación sexual, religiosa u origen étnico;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Inclusión: Derecho de toda persona a participar y disfrutar, en condiciones de libertad e igualdad, de las oportunidades y los beneficios del desarrollo social, independientemente de su condición social o económica, sexo, edad, capacidad física, orientación sexual, religiosa u origen étnico;
 
 V.- Integralidad: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, a través de las diferentes dimensiones del desarrollo, en el marco de la Política Estatal de Desarrollo Social;
 
@@ -117,7 +119,9 @@ VI.- Participación social: Derecho de las personas y organizaciones a interveni
 
 VII.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de los recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias; y
 
 IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia.
 
@@ -137,19 +141,19 @@ II.- Asistencia social;
 
 III.- Desarrollo regional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 IV.- Infraestructura social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 V.- Fomento del sector social de la economía; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -165,19 +169,19 @@ I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales,
 
 II.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 III.- Fortalecer el desarrollo regional equilibrado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -225,19 +229,19 @@ V.- Destinados a la generación y conservación del empleo, a las actividades pr
 
 VI.- Dirigidos a la realización de obras de infraestructura social y equipamiento urbano;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 VII.- De educación obligatoria;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 VIII.- De atención médica y los que tengan por objeto la realización de campañas de prevención y control de enfermedades; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -295,9 +299,11 @@ Cuando la ejecución de las acciones se realice con recursos de dos o más insta
 
 Los programas sociales y los recursos a ellos destinados, son prioritarios, de interés público y su presupuesto no podrá ser menor al requerido para alcanzar sus metas.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 22.
 
-La distribución de los recursos destinados a los programas sociales señalados en el artículo anterior, se hará con criterios de equidad y transparencia, conforme a la normatividad aplicable.
+La distribución de los recursos destinados a los programas sociales señalados en el artículo anterior, se hará con criterios de igualdad y transparencia, conforme a la normatividad aplicable.
 
 ###### ARTICULO 23.
 
@@ -355,9 +361,11 @@ III.- Cumplir con la normatividad de los programas.
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 31.
 
-Con el propósito de asegurar la equidad y la eficacia de los programas sociales, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, en el ámbito de sus competencias, integrarán el Padrón Unico de Beneficiarios de los Programas Sociales.
+Con el propósito de asegurar la igualdad y la eficacia de los programas sociales, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, en el ámbito de sus competencias, integrarán el Padrón Único de Beneficiarios de los Programas Sociales.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -557,7 +565,7 @@ IX.- Informar a la sociedad sobre las acciones en torno al desarrollo social; y
 
 X.- Las demás señaladas en la presente ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 56.
 
@@ -703,7 +711,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
@@ -730,3 +738,9 @@ Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vig
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
