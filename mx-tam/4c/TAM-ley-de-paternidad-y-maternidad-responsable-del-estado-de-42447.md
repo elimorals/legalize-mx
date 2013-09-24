@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-paternidad-y-maternidad-responsable-del-estado-de-42447"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2012-11-21"
+last_updated: "2013-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS -ANTES LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS-
 
-LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
+LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -37,7 +37,9 @@ LA QUINCUAGESIMA OCTAVA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE
 
 D E C R E T O No. LVIII-857
 
-LEY DE PATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+LEY DE PATERNIDAD Y MATERNIDAD RESPONSABLE DEL ESTADO DE TAMAULIPAS.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -185,11 +187,11 @@ Para el pago de la pensión alimenticia se estará a lo dispuesto por los Códig
 
 El derecho a promover las acciones relativas a la filiación, reconocimiento o investigación de paternidad, distintas a las previstas en la presente ley, se ajustarán a las reglas de prescripción de la legislación civil.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 17.
 
-En todo lo relativo al procedimiento administrativo sobre presunción de paternidad, además de lo contemplado por esta ley, deberá ser observado lo previsto en el Capítulo I, del Título Quinto, del Libro Primero del Código Civil para el Estado de Tamaulipas.
+El Sistema para el Desarrollo Integral de la Familia del Estado, el Instituto de la Mujer Tamaulipeca y el Instituto de la Juventud de Tamaulipas difundirán los derechos y recursos que reconoce y ofrece esta ley, a través de las instituciones públicas y privadas que conforman el Sistema Estatal de Salud, así como de las demás instancias que estimen idóneas para promover su objeto.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -209,7 +211,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2007.
 
@@ -220,3 +222,13 @@ P.O. 21 DE NOVIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
