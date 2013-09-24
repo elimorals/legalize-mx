@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-estado-de-21996"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2010-12-21"
+last_updated: "2013-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2001.
 
@@ -153,11 +153,15 @@ c).- Formulación y ejecución de políticas públicas relacionadas con las niñ
 
 II.- El de corresponsabilidad o concurrencia, que asegura la participación y responsabilidad de la familia, autoridades competentes y sociedad en la atención de las niñas y niños;
 
-III.- El de igualdad y equidad en todos los ámbitos que conciernen a las niñas y niños;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+III.- El de igualdad de género y equidad en todos los ámbitos que conciernen a las niñas y niños;
 
 IV.- El de prioridad de la familia como espacio preferente para el desarrollo de las niñas y niños;
 
-V.- El de integración, que implica la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, acordes a las diversas etapas de desarrollo, con el objeto de que las niñas y niños ejerzan sus derechos con equidad;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+V.- El de integración, que implica la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, acordes a las diversas etapas de desarrollo, con el objeto de que las niñas y niños ejerzan sus derechos con igualdad;
 
 VI.- El de paz que permita a las niñas y niños vivir en un ambiente libre de violencia; y
 
@@ -223,7 +227,9 @@ b).- A ser tomados en cuenta para cualquier acto relacionado con su vida persona
 
 c).- De agruparse y reunirse;
 
-d).- A recibir información adecuada a sus etapas de crecimiento, que promueva su bienestar social, así como su salud biopsicosocial y sexual, enalteciendo los valores de paz, equidad, democracia, identidad nacional, solidaridad, libertad, justicia, respeto y tolerancia;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+d).- A recibir información adecuada a sus etapas de crecimiento, que promueva su bienestar social, así como su salud biopsicosocial y sexual, enalteciendo los valores de paz, igualdad de género, democracia, identidad nacional, solidaridad, libertad, justicia, respeto y tolerancia;
 
 e).- A recibir educación de calidad, conforme lo señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos; y
 
@@ -345,13 +351,15 @@ XI.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL, CULTURA Y DEPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 18.
 
 Corresponde a la Secretaría de Desarrollo Social, Cultura y Deporte, en relación con las niñas y niños:
 
-I.- Formular, fomentar, coordinar, instrumentar y difundir, salvo que de forma expresa las leyes atribuyan a otras dependencias, las políticas públicas, programas y acciones de provisión, prevención, protección y participación para el mejoramiento general de sus condiciones de vida, promoviendo la equidad y la igualdad de oportunidades, tendientes a disminuir la exclusión social;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Formular, fomentar, coordinar, instrumentar y difundir, salvo que de forma expresa las leyes atribuyan a otras dependencias, las políticas públicas, programas y acciones de provisión, prevención, protección y participación para el mejoramiento general de sus condiciones de vida, promoviendo la equidad y la igualdad de género, tendientes a disminuir la exclusión social;
 
 II.- Gestionar, coordinar y evaluar la cooperación técnica internacional con el Estado;
 
@@ -361,7 +369,9 @@ IV.- Establecer instrumentos que posibiliten la concurrencia de instancias guber
 
 V.- Fomentar la investigación de las diversas metodologías y modelos de atención a las niñas y niños que carecen de habitación y viven en la calle, elaborando una evaluación de los resultados que permitan identificar los más efectivos;
 
-VI.- Detectar las necesidades y definir los objetivos de las políticas sociales de cobertura, calidad y equidad, encaminadas a ampliar y coordinar esfuerzos, para apoyar su desarrollo integral;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Detectar las necesidades y definir los objetivos de las políticas sociales de cobertura, calidad, igualdad de género y equidad, encaminadas a ampliar y coordinar esfuerzos, para apoyar su desarrollo integral;
 
 VII.- Establecer acciones y líneas estratégicas de gestión social en su beneficio;
 
@@ -555,7 +565,7 @@ VI.- Analizar y proponer a las instancias competentes programas de atención par
 
 VII.- Contribuir a la difusión de los principios, derechos y deberes de las niñas y niños.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 28.
 
@@ -607,7 +617,7 @@ VIII.- Promover la democracia, no sólo como régimen jurídico o como forma de 
 
 IX.- Fomentar la deontología de las niñas y niños, entendida ésta como la suma de los deberes que cada niña y niño tienen consigo mismos y con los demás.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 31.
 
@@ -645,7 +655,7 @@ La Secretaría de Educación, como dependencia de la Administración Pública, p
 
 La Secretaría de Educación, en coordinación con dependencias, órganos desconcentrados y entidades competentes, establecerá programas alternativos de atención y educación extraescolar a través de actividades lúdicas, culturales y científicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 36.
 
@@ -671,7 +681,7 @@ El Instituto Tamaulipeco para la Cultura y las Artes fomentará la participació
 
 El Consejo promoverá que los medios de comunicación impresos y electrónicos protejan a las niñas y niños de toda información que resulte perjudicial para su formación integral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 40.
 
@@ -879,7 +889,7 @@ Dado en la residencia del Ejecutivo, en Ciudad Victoria, Capital del Estado de T
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
@@ -902,3 +912,9 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
