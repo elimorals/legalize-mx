@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-03-06"
+last_updated: "2013-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -501,7 +501,9 @@ Para ser Director General, deberán reunirse los siguientes requisitos:
 
 I. Ser preferentemente ciudadano morelense y acreditar tener conocimiento en la materia para el buen desempeño de su función;
 
-II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 30 fracciones I, III y IV de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 81, fracciones II, III y IV, de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
 III. Contar preferentemente con Título y Cédula Profesional a nivel Licenciatura en cualquiera de las siguientes especialidades: Educación Física, Entrenamiento deportivo, Cultura Física, Administración Deportiva, además tener experiencia y liderazgo en gestión administrativa, deportiva y social; y
 
@@ -513,9 +515,11 @@ El Consejo Consultivo Estatal del Deporte estará integrado conforme se establec
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA JUNTA DE GOBIERNO Y DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 36.
 
-La Junta de Gobierno tendrá las siguientes atribuciones y facultades no delegables, además de las señaladas en la Ley de Organismos Auxiliares de la Administración Pública del Estado de Morelos:
+La Junta de Gobierno, tendrá las siguientes atribuciones y facultades no delegables, además de las señaladas en la Ley de (sic) Orgánica de la Administración Pública del Estado de Morelos:
 
 I. Aprobar las acciones de planificación y programación deportiva que le presente el Director General;
 
@@ -551,9 +555,11 @@ XIV. Las demás que expresamente disponga la presente Ley y la normatividad apli
 
 El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Desarrollo Humano y Social, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-El Director General tendrá las siguientes facultades y obligaciones, además de las señaladas en la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos:
+El Director General tendrá las siguientes facultades y obligaciones, además de las señaladas en la Ley Orgánica de la Administración Pública del Estado de Morelos:
 
 I. Representar al Instituto en las actividades de coordinación y concertación con cualquier órgano que tenga relación con los asuntos del deporte;
 
@@ -561,7 +567,9 @@ II. Representar al Instituto en los comités y eventos deportivos;
 
 III. Nombrar y remover a los funcionarios y demás personal de apoyo del Instituto del Deporte y Cultura Física, que no sean de mandos medios;
 
-IV. Tener la representación legal del Instituto del Deporte y Cultura Física en los términos y condiciones señalados en la Ley de Organismos Auxiliares para la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Tener la representación legal del Instituto del Deporte y Cultura Física en los términos y condiciones señalados en la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
 V. Elaborar el Proyecto de Desarrollo del Instituto del Deporte y Cultura Física, actualizarlo periódicamente y someterlo a la aprobación de la Junta de Gobierno;
 
@@ -601,7 +609,9 @@ XXII. Proponer a la Junta de Gobierno, las modificaciones que procedan a la estr
 
 XXIII. Establecer las instancias de asesoría, de coordinación y de consulta que estime necesarias para el adecuado funcionamiento del Instituto;
 
-XXIV. Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del Instituto y del Sistema y Programa Estatales del Deporte y Cultura Física;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+XXIV.- Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del Instituto y del Sistema y Programa Estatales del Deporte y Cultura Física; asimismo, suscribir Convenios de Colaboración o Contrataciones de Prestación de Servicios, encaminados a la utilización de instalaciones deportivas con entidades públicas Federales, Estatales y Municipales, así como con Instituciones educativas privadas, clubs deportivos, y particulares que cuenten con instalaciones adecuadas para realizar actividades deportivas y de cultura física.
 
 XXV. Proponer políticas en materia deportiva y la cultura física;
 
@@ -952,6 +962,10 @@ Las instalaciones deportivas, propiedad del Gobierno del Estado y de los municip
 ###### ARTÍCULO 79.
 
 Las instalaciones deportivas propiedad del Gobierno del Estado o de los municipios, deberán construirse, conservarse, mantenerse, acondicionarse y en su caso contener las adecuaciones arquitectónicas de acceso y servicios a fin de que puedan ser utilizados por todos los sectores de la población, especialmente para la práctica del deporte infantil, del deporte adaptado que realizan las personas con discapacidad y de los adultos mayores, de conformidad con la reglamentación establecida.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de que dichas instalaciones no se encuentren debidamente acondicionadas para la práctica de alguna disciplina deportiva, el Instituto del Deporte, podrá suscribir Convenios de Colaboración y Contratación en su caso, con el sector público y privado.
 
 Las Asociaciones, organismos, ligas y clubes apoyarán con recursos propios para el mantenimiento de las instalaciones deportivas públicas que utilizan en el desarrollo de sus actividades. Lo anterior, de conformidad con lo que establezca el Reglamento de la presente Ley.
 
@@ -1426,3 +1440,19 @@ Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del E
 ###### ARTÍCULO SEGUNDO.
 
 El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 831, POR EL QUE SE REFORMA EL ARTÍCULO 38, EN SU FRACCIÓN XXIV, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 79, RECORRIÉNDOSE EL SUBSECUENTE PARA CONVERTIRSE EN TERCERO DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 832, POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 34, EL PRIMER PÁRRAFO DEL ARTÍCULO 36, EL PRIMER PÁRRAFO Y LA FRACCIÓN IV, DEL ARTÍCULO 38 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
