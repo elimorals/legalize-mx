@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2011-06-15"
+last_updated: "2013-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -335,9 +335,11 @@ En materia de obras públicas y servicios relacionados con las mismas, las depen
 
 Corresponde a las dependencias, entidades y Ayuntamientos llevar a cabo los procedimientos para contratar y ejecutar las obras públicas y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-Las controversias que se susciten con motivo de los contratos celebrados con base en esta ley, serán resueltas por el Supremo Tribunal de Justicia del Estado de Tamaulipas.
+Las controversias del orden civil o mercantil que se susciten con motivo de los contratos celebrados con base en esta Ley, serán resueltas por el Supremo Tribunal de Justicia del Estado de Tamaulipas cuando el Gobierno del Estado sea parte y por los Jueces de Primera Instancia cuando lo sean los Ayuntamientos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
@@ -349,11 +351,11 @@ En todas las cuestiones no previstas en la presente ley, se aplicarán supletori
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. GENERALIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ## TÍTULO CUARTO. DEL PADRÓN DE CONTRATISTAS
 
@@ -435,7 +437,7 @@ El presupuesto actualizado será la base para solicitar la asignación de cada e
 
 La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 26.
 
@@ -463,7 +465,7 @@ En la convocatoria y contratación de las obras públicas que se adjudiquen por 
 
 Cuando los contratistas queden registrados en el padrón, dentro de los cinco días hábiles posteriores, la Secretaría lo hará del conocimiento del Comité y de los Ayuntamientos, y dispondrá su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 28.
 
@@ -509,7 +511,7 @@ El registro en el padrón tendrá vigencia de un año, contado a partir de la fe
 
 Los contratistas que tengan interés en continuar inscritos en el padrón, presentarán ante la Secretaría, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de refrendo, acompañarán la información y documentos que procedan en los términos del artículo 28 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 30.
 
@@ -521,7 +523,7 @@ Si la solicitud fuese confusa o la documentación estuviera incompleta, la Secre
 
 Las determinaciones negativas a la solicitud de registro estarán fundadas y motivadas; además, señalarán el plazo con el que cuenta el solicitante para pedir la devolución de los documentos que hubiere presentado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 31.
 
@@ -535,7 +537,7 @@ III. Hayan celebrado contratos en contravención a lo dispuesto por esta ley, po
 
 IV. Se les declare legalmente incapacitados para contratar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 32.
 
@@ -585,7 +587,7 @@ En los procedimientos de contratación deberán establecerse los mismos requisit
 
 La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la emisión del fallo y la firma del contrato o, en su caso, con la cancelación del procedimiento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 36.
 
@@ -641,7 +643,7 @@ IX. Los demás requisitos que deberán cumplir los interesados, según las carac
 
 Las convocatorias se publicarán en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el Estado o Municipio correspondiente; a su vez, se difundirán a través de los medios de difusión electrónica que establezca la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 39.
 
@@ -701,7 +703,7 @@ El plazo para la presentación y apertura de proposiciones de las licitaciones s
 
 Cuando no pueda observarse el plazo indicado en el párrafo anterior, por que existan razones justificadas del área solicitante de los trabajos, siempre que no tenga por objeto limitar el número de participantes, el titular del área responsable de la contratación podrá reducir los plazos a no menos de diez días naturales, contados a partir de la fecha de publicación de la convocatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 41.
 
@@ -715,7 +717,7 @@ Las modificaciones de que trata este artículo en ningún caso podrán consistir
 
 Cualquier adecuación a las bases de la licitación, derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias bases de la licitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 42.
 
@@ -979,7 +981,7 @@ Las dependencias, entidades y Ayuntamientos establecerán la residencia de obra 
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la contratante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 62.
 
@@ -1051,7 +1053,7 @@ Cuando durante la ejecución de los trabajos se requiera la realización de cant
 
 No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 4o. de la Ley del Patrimonio Histórico y Cultural del Estado, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 68.
 
@@ -1361,7 +1363,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMÁS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLÉN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 2004.
 
@@ -1394,3 +1396,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos iniciados con las disposiciones que mediante el presente Decreto fueron reformadas, adicionadas o derogadas, deberán concluirse con la normatividad y conforme al procedimiento mediante el cual fueron iniciados.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura deberá emitir las disposiciones reglamentarias relativas al Centro de Convivencia Familiar dentro de un periodo que no deberá exceder de sesenta días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido admitida con anterioridad a la entrada en vigor del presente Decreto, seguirán siendo conocidos por el Pleno del Supremo Tribunal de Justicia.
+
+###### ARTÍCULO CUARTO.
+
+Los profesionistas o expertos cuya designación como peritos haya sido realizada con anterioridad a la entrada en vigor de este Decreto, deberán protestar el cargo que les fue conferido de conformidad con las reglas anteriores.
