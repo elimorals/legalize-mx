@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2012-04-19"
+last_updated: "2013-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -992,3 +994,21 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la vigencia de esta ley, se abroga la Ley de Fiscalización Superior del Estado de Tamaulipas, expedida mediante Decreto número 610 del 12 de diciembre de 2001 y publicada en el anexo del Periódico Oficial del Estado número 154 de fecha 25 de diciembre del mismo año.
+
+###### ARTÍCULO TERCERO.
+
+Las auditorías y procedimientos que se encuentren en trámite al momento en que entre en vigor la presente ley, tendrán plena validez y efecto, conforme a la ley que se abroga y se concluirán conforme a la misma.
+
+###### ARTÍCULO CUARTO.
+
+El Titular de la Auditoría Superior del Estado, contará con un plazo de seis meses a partir de la entrada en vigor de la presente ley para expedir las disposiciones reglamentarias de la misma, en el ámbito de su competencia.
