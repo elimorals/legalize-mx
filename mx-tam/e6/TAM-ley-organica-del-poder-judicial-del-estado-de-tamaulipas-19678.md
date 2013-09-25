@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2013-09-18"
+last_updated: "2013-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -117,17 +117,23 @@ VII.- Las demás que las leyes les confieran.
 
 Los árbitros privados designados voluntariamente no ejercerán autoridad pública pero de acuerdo con las reglas y restricciones que establezca la ley conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden.
 
-###### ARTICULO 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, les dirijan los Magistrados y Jueces:
+###### ARTICULO 6°.
+
+El cargo de auxiliar de la administración de justicia es un oficio de interés público que debe ser desempeñado por persona proba, imparcial y de idoneidad profesional y técnica absolutas. Para cada oficio se exigirán conocimientos y experiencia en la materia que corresponda y, cuando el caso lo requiera, título y cédula profesional legalmente expedido. Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, les dirijan los Magistrados y Jueces, los siguientes:
 
 I.- Los servidores públicos del Estado, sin importar su rango y jerarquía, cuando así lo requieran los tribunales para impartir justicia de manera pronta e imparcial;
 
-II.- Los peritos designados en los procesos judiciales;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Los peritos en sus respectivos ramos;
 
 III.- Los depositarios;
 
-IV.- Los albaceas e interventores de sucesiones, tutores, directores y notarios públicos, en las funciones que les encomienden las leyes relativas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Los albaceas e interventores de sucesiones, tutores, curadores, directorios y notarios públicos, en las funciones que les encomienden las leyes relativas;
 
 V.- El Procurador de la Defensa del Menor y la Familia, y los interventores;
 
@@ -137,17 +143,37 @@ VI.- El Director de los Centros de Reintegración Social y Familiar para Adolesc
 
 VII.- Los titulares de organismos paraestatales de la Entidad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Los intérpretes oficiales y los demás peritos en sus respectivos ramos;
+VIII.- Los intérpretes o traductores;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-IX.- Los mediadores; y,
+IX.- Los especialistas mediadores y conciliadores;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-X.- Los demás que los que la ley les confiera dicho carácter.
+X.- Los síndicos e interventores de concursos y;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+XI.- Los demás que los que la ley les confiera dicho carácter.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+Los auxiliares de Impartición de Justicia se regirán por las leyes respectivas en cuanto a los requisitos y condiciones para el ejercicio de sus funciones, así como al Reglamento de los Auxiliares de la Administración de Justicia correspondiente. En tanto que, los honorarios constituirán una equitativa retribución del servicio, pero en ningún caso podrán significar una carga excesiva para los que soliciten la prestación del servicio; por lo tanto, su importe deberá ser fijado por la autoridad judicial, de acuerdo a las reglas y consideraciones que el Código de Procedimientos Civiles vigente disponga.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+Será el Pleno del Consejo de la Judicatura del Poder Judicial del Estado, el órgano encargado de integrar y actualizar anualmente, en el mes de enero, el cuerpo de auxiliares de la administración de Justicia, que hayan de fungir ante los órganos del Poder Judicial en las materias que estime necesarias, haciendo una cuidadosa selección de los solicitantes, teniendo en cuenta su especialidad y antecedentes. El sistema para la elaboración de la lista oficial será el que prevea el Reglamento que se expida para tal efecto.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+Las listas se harán llegar oportunamente a las Salas del Supremo Tribunal de Justicia del Estado, al Tribunal Electoral y a los Jueces, debiendo ser publicadas en los estrados de cada oficina, donde permanecerán a la vista del público durante todo el año. De igual forma deberán ser publicadas en los distintos órganos de difusión del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+La autoridad judicial que no tome en cuenta las listas de auxiliares o no respete el orden de las mismas, al hacer la designación correspondiente, incurrirá en falta administrativa que será sancionada en términos de la Ley Orgánica del Poder Judicial y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTICULO 7º.
 
@@ -467,7 +493,9 @@ Las atribuciones del Supremo Tribunal de Justicia y de su Pleno son las siguient
 
 I.- Resolver las controversias constitucionales y las acciones de inconstitucionalidad, conforme lo establezcan la Constitución Política del Estado y la ley;
 
-II.- Conocer en segunda instancia de los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces de Primera Instancia o Menores;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Turnar a las Salas que correspondan los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces, para sustanciar la segunda instancia;
 
 III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado;
 
@@ -479,7 +507,9 @@ VI.- Dirimir las cuestiones de competencia que surjan entre las autoridades judi
 
 VII.- Formular, ante el Congreso del Estado, iniciativas de ley tendientes a mejorar la impartición de justicia, así como expedir y modificar, en su caso, los reglamentos que se requieran para este fin;
 
-VIII.- Formular, expedir y modificar, en su caso, el Reglamento Interior del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Formular, expedir y modificar, en su caso, los reglamentos, acuerdos y circulares que sean necesarias para la impartición de justicia;
 
 IX.- Determinar a propuesta del Presidente la competencia de las Salas, las adscripciones de los Magistrados a las mismas; y adscribir, en su caso, a los Magistrados Supernumerarios a las Salas en los supuestos que determine la ley;
 
@@ -507,9 +537,13 @@ XX.- Conocer y resolver, en única instancia, las causas que se instruyan en con
 
 XXI.- Imponer correcciones disciplinarias a los Magistrados Numerarios, Supernumerarios y Regionales, en los términos que determine la ley;
 
-XXII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el Estado, los Municipios y las entidades autónomas, en los términos del Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-XXIII.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia;
+XXII.- Conocer y tramitar la ejecución de sentencias ejecutorias contra el Estado y las entidades autónomas, en los términos del Código de Procedimientos Civiles del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII.- Promover y sugerir la aplicación de los mecanismos alternativos para la solución de conflictos entre las partes, en las diversas materias de su competencia;
 
 XXIV.- Proponer al Congreso del Estado a los candidatos a Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado, en los términos señalados en el artículo 20, fracción IV, de la Constitución Política del Estado y bajo el procedimiento que señale la ley respectiva;
 
@@ -899,11 +933,17 @@ III.- Ser Licenciado en Derecho o su equivalente, con título registrado en el S
 
 IV.- Tener práctica profesional de cinco años cuando menos, contados a partir de la obtención de la licenciatura para ejercer la profesión;
 
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
-VI.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Aprobar los exámenes y evaluaciones que previamente determine el Consejo de la Judicatura.
 
 ###### ARTICULO 37.
 
@@ -927,7 +967,9 @@ II.- De los negocios contenciosos que versen sobre propiedad y demás derechos r
 
 III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la capital del Estado, excepto en lo concerniente al derecho familiar. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin exceder la que pueda tramitarse en esta modalidad;
 
-IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- De las controversias del orden civil o mercantil que se susciten entre particulares y los Ayuntamientos, con independencia de la cuantía del asunto;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1215,9 +1257,9 @@ III.- Ser Licenciado en Derecho titulado, con por lo menos tres años de experie
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Aprobar los exámenes que disponga el Consejo de la Judicatura. Prefiriéndose en la selección a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+V.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Consejo de la Judicatura. Prefiriéndose en la selección a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1273,9 +1315,9 @@ I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
 II.- No haber sido condenado por delito intencional; y,
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Aprobar los exámenes que disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+III.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1423,9 +1465,9 @@ IV.- Tener práctica profesional de tres años cuando menos, contados a partir d
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y,
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- Aprobar los exámenes que disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+VI.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Consejo de la Judicatura. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 ###### ARTICULO 71.
 
@@ -2023,7 +2065,9 @@ VI.- Dirección de Informática;
 
 VII.- Visitaduría Judicial;
 
-VIII.- Centro de Mediación; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Centro de Mecanismos Alternativos para la Solución de Conflictos; y
 
 IX.- Unidad de Información Pública.
 
@@ -2069,7 +2113,9 @@ XIV.- Elaborar el proyecto de presupuesto anual de egresos del Poder Judicial, q
 
 XV.- Establecer remuneración adecuada e irrenunciable al personal del Poder Judicial, excepto a los Magistrados;
 
-XVI.- Elaborar los proyectos de reglamentos y acuerdos necesarios para el funcionamiento del Poder Judicial, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+XVI.- Elaborar los reglamentos, acuerdos y circulares necesarios para la buena marcha administrativa del poder judicial, dentro del ámbito de sus competencias, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
 
 XVII.- Nombrar Visitadores Judiciales, quienes tendrán las facultades señaladas en la ley;
 
@@ -2087,7 +2133,9 @@ XXII.- Organizar, operar y mantener actualizado el Sistema de la Carrera Judicia
 
 XXIII.- Administrar y coordinar a los actuarios del Poder Judicial del Estado;
 
-XXIV.- Formular anualmente una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+XXIV.- Formular anualmente, en el mes de enero, una lista con los nombres y domicilios de las personas que puedan fungir como auxiliares de la administración de justicia, previa la Convocatoria que el propio Consejo emita conforme al Reglamento que se expida para tal efecto;
 
 XXV.- Diseñar, integrar y mantener actualizado el Sistema de Información Estadística del Poder Judicial del Estado;
 
@@ -2327,13 +2375,17 @@ L).- El importe de los derechos por los servicios electrónicos y tecnológicos 
 
 M).- Los intereses provenientes de los depósitos de dinero o en valores que se efectúen ante los tribunales judiciales del orden común;
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-N).- Las donaciones y aportaciones hechas con arreglo a la ley a favor del Fondo Auxiliar para la Administración de Justicia; y,
+N).- Las donaciones y aportaciones hechas con arreglo a la ley a favor del Fondo Auxiliar para la Administración de Justicia;
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-O).- El cobro de derechos por otros servicios que preste el Poder Judicial del Estado, susceptibles de gravamen.
+O).- El cobro de derechos por impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal Electrónica; y
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+P).- El cobro de derechos por otros servicios que preste el Poder Judicial del Estado, susceptibles de gravamen.
 
 II.- Fondos ajenos constituidos por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales judiciales del fuero común del Estado.
 
@@ -2665,37 +2717,49 @@ VII.- Las demás que le prescriban las leyes y reglamento respectivos y el Conse
 
 #### SECCION CUARTA. DEL CENTRO DE MEDIACION
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 171.
 
-El Poder Judicial tendrá un Centro de Mediación, cuyo titular será un Director, contara con un área de apoyo psicosocial y el personal subalterno que le asigne el Consejo de la Judicatura y determine el presupuesto.
+El Poder Judicial tendrá un Centro de Mecanismos Alternativos para la Solución de Conflictos, cuyo titular será un Director y contará con el personal subalterno que le asigne el Consejo de la Judicatura y determine el presupuesto.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 172.
 
-El Centro de Mediación se ubicará en la Capital del Estado y en caso de ser necesario contará con Unidades Regionales, de conformidad con la disponibilidad presupuestal. El Centro tendrá capacidad técnica para organizar, promover y otorgar servicios de mediación conforme a lo dispuesto en esta ley y en la ley de la materia.
+El Centro de Mecanismos Alternativos para la Solución de Conflictos se ubicará en la Capital del Estado y en caso de ser necesario contará con Unidades Regionales o Móviles Itinerantes, de conformidad con la disponibilidad presupuestal. El Centro tendrá capacidad técnica para organizar, promover y ofrecer servicios de mecanismos alternativos para la solución de conflictos, tales como la mediación, conciliación, transacción y justicia restaurativa conforme a lo dispuesto en esta ley, la de la materia y el propio reglamento.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 173.
 
-El Director del Centro de Mediación tendrá las siguientes atribuciones y obligaciones:
+El Director del Centro de Mecanismos Alternativos para la Solución de Conflictos tendrá las siguientes atribuciones y obligaciones:
 
-I.- Dirigir el Centro de Mediación y vigilar el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+I.- Dirigir el Centro de Mecanismos Alternativos para la Solución de Conflictos y vigilar el cumplimiento de sus objetivos;
 
-II.- Presentar al Consejo de la Judicatura las propuestas para Jefes de Unidad y Mediadores para su designación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Prestar el servicio de mediación para la solución, parcial o total de conflictos que planteen los particulares por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal podrá recurrirse a la mediación en los casos de delitos que de acuerdo con la ley procede el perdón del ofendido y, en todos, por cuanto hace a la reparación del daño; en la materia de justicia para adolescentes, cuando proceda el acuerdo reparatorio o la suspensión del proceso a prueba, y en cualquier otro conflicto, respecto de derechos disponibles de las partes;
+II.- Presentar al Consejo de la Judicatura las propuestas para Jefes de Unidad y Especialistas en mecanismos alternativos para la solución de conflictos para su designación;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Prestar el servicio de mecanismos alternativos para la solución, parcial o total de conflictos que planteen los particulares, por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal y de justicia para adolescentes podrá recurrirse a los mecanismos alternativos para la solución de conflictos en los casos en que las leyes respectivas lo permitan;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 IV.- Establecer métodos, políticas y estrategias para que el Centro y las Unidades Regionales conozcan y apliquen eficientemente el proceso de mediación;
 
-V.- Realizar investigaciones, análisis y diagnósticos relacionados con la mediación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- Apoyar a las diversas entidades públicas y privadas en la promoción de la cultura de la paz a través de la mediación;
+V.- Realizar investigaciones, análisis y diagnósticos relacionados con los mecanismos alternativos para la solución de conflictos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Apoyar a las diversas entidades públicas y privadas en la promoción de la cultura de la paz a través de los mecanismos alternativos para la solución de conflictos;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 VII.- Coadyuvar con el Centro de Actualización Jurídica e Investigación Procesal sobre la impartición de cursos de capacitación en métodos alternos para la solución de conflictos;
 
@@ -2703,9 +2767,15 @@ VII.- Coadyuvar con el Centro de Actualización Jurídica e Investigación Proce
 
 VIII.- Rendir con la oportunidad debida, los informes que les sean requeridos por el Consejo de la Judicatura;
 
-IX.- Comunicar a la autoridad judicial cuando el proceso de mediación se derive de un procedimiento judicial, que se inició aquél, así como su conclusión, señalando las causas de ello y, en su caso, remitiendo copia del convenio que las partes hayan celebrado para los efectos legales correspondientes;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-X.- Sancionar los convenios que le sean presentados por los mediadores adscritos al propio Centro; y,
+IX.- Comunicar a la autoridad judicial el inicio y conclusión de los mecanismos alternativos para la solución de conflictos cuando se deriven de un procedimiento judicial, señalando las causas de ello y, en su caso, remitir original del convenio o acuerdo que las partes hayan celebrado para los efectos legales correspondientes;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+X.- Certificar los convenios que le sean presentados por los especialistas adscritos al propio Centro; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 XI.- Las demás que establezcan las disposiciones legales.
 
@@ -2735,21 +2805,37 @@ Para ser Jefe de la Unidad Regional se exceptúa el requisito de la fracción II
 
 Los Jefes de Unidad tendrán las facultades y obligaciones siguientes:
 
-I.- Dirigir la Unidad Regional de Mediación a su cargo, y vigilar el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Fomentar y difundir la mediación en su ámbito territorial;
+I.- Dirigir la Unidad Regional del Centro de Mecanismos Alternativos para la Solución de Conflictos a su cargo, y vigilar el cumplimiento de sus objetivos;
 
-III.- Promover en los mediadores la capacitación y actualización constante en la materia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-IV.- Proponer a los mediadores de la Unidad;
+II.- Fomentar y difundir los mecanismos alternativos para la solución de conflictos en su ámbito territorial;
 
-V.- Prestar el servicio de mediación en la Unidad que se encuentre adscrito, para la solución, parcial o total de conflictos que planteen los particulares por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal podrá recurrirse a la mediación en los casos de delitos que de acuerdo con la ley procede el perdón del ofendido y, en todos, por cuanto hace a la reparación del daño; en la materia de justicia para adolescentes, cuando proceda el acuerdo reparatorio o la suspensión del proceso a prueba, y en cualquier otro conflicto, respecto de derechos disponibles de las partes;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- Sancionar los convenios que le sean presentados por los mediadores adscritos a su unidad;
+III.- Promover en los especialistas la capacitación y actualización constante en la materia;
 
-VII.- Comunicar a la autoridad judicial cuando el proceso de mediación se derive de un procedimiento judicial, que se inició aquél, así como su conclusión, señalando las causas de ello y, en su caso, remitiendo copia del convenio que las partes hayan celebrado para los efectos legales correspondientes;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-VIII.- Rendir al Director del Centro de Mediación sendos informes de las labores realizadas, dentro de los primeros tres días del mes de julio y otro dentro de los primeros tres días del mes de diciembre;
+IV.- Proponer a los especialistas de la Unidad;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Prestar el servicio de mecanismos alternativos para la solución de conflictos en la Unidad que se encuentre adscrito, para la solución, parcial o total de conflictos que planteen los particulares, por sí o a través de las autoridades judiciales, en materia civil, mercantil y familiar, siempre y cuando no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros; en materia penal podrá recurrirse a los mecanismos alternativos para la solución de conflictos en los casos de delitos que de acuerdo con la ley procede el perdón del ofendido y, en todos, por cuanto hace a la reparación del daño; en la materia de justicia para adolescentes, cuando proceda el acuerdo reparatorio o la suspensión del proceso a prueba, y en cualquier otro conflicto, respecto de derechos disponibles de las partes;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Certificar los convenios que le sean presentados por los especialistas adscritos a su unidad;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VII.- Comunicar a la autoridad judicial el inicio y conclusión de los mecanismos alternativos para la solución de conflictos cuando éstos se deriven de un procedimiento judicial, señalando las causas de ello y, en su caso, remitir original del convenio o acuerdo que las partes celebren para los efectos legales correspondientes;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Rendir al Director del Centro de Mecanismos Alternativos para la Solución de Conflictos informes de las labores realizadas, dentro de los primeros tres días del mes de julio y otro dentro de los primeros tres días del mes de diciembre;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2757,51 +2843,51 @@ IX.- Rendir los informes que le sean solicitados por el Consejo de la Judicatura
 
 X.- Las demás que se deriven de la Ley y otras disposiciones jurídicas que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 176.
 
-Para ser mediador del Centro o Unidad Regional, se requiere, además de los requisitos establecidos por la ley de la materia, aprobar examen psicológico y de conocimientos teórico-prácticos relativos al proceso de mediación, aplicados por el Centro de Actualización Jurídica e Investigación Procesal y por el Centro de Mediación, respectivamente.
+Para ser especialista del Centro o Unidad Regional, se requiere, además de los requisitos establecidos por la ley de la materia, aprobar examen psicológico y de conocimientos teórico prácticos relativos a los procedimientos de mecanismos alternativos para la solución de conflictos, aplicados por el Centro de Actualización Jurídica e Investigación Procesal y por el Centro de Mecanismos Alternativos para la Solución de Conflictos, respectivamente.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 177.
 
-Son facultades y obligaciones del Mediador:
+Son facultades y obligaciones del especialista en mecanismos alternativos para la solución de conflictos:
 
-I.- Desarrollar el proceso atendiendo a los principios y etapas de la mediación y al acuerdo que exista entre los mediados, de conformidad con lo establecido en la ley de la materia y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Desarrollar el proceso atendiendo a los principios y etapas de los mecanismos alternativos y al acuerdo que exista entre los usuarios del servicio de mecanismos alternativos, de conformidad con lo establecido en la ley de la materia y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 II.- Facilitar la comunicación entre las partes y promover la comprensión entre ellas con el fin de que éstas encuentren solución al conflicto planteado;
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+
 III.- Vigilar que las partes tomen sus decisiones disponiendo de la información y el asesoramiento suficientes, a fin de obtener los acuerdos de una manera libre, dando para dicho efecto oportunidad suficiente a las partes de consultar a sus asesores, antes de aceptar el acuerdo de autocomposición;
 
-IV.- Mantenerse actualizado en la teoría y práctica del proceso de la mediación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Abstenerse de conocer de aquellos asuntos que no admitan el proceso de mediación;
+IV.- Mantenerse actualizado en la teoría y práctica del proceso de los mecanismos alternativos para la solución de conflictos;
 
-VI.- Excusarse de intervenir en los procesos de mediación, cuando exista una causa que ponga en riesgo la imparcialidad o el buen desarrollo del proceso, o cuando esto sea cuestionado por alguna de las partes; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Abstenerse de conocer de aquellos asuntos que no admitan el proceso de mecanismos alternativos para la solución de conflictos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VI.- Excusarse de intervenir en los procesos de mecanismos alternativos para la solución de conflictos, cuando exista una causa que ponga en riesgo la imparcialidad o el buen desarrollo del proceso, o cuando esto sea cuestionado por alguna de las partes; y,
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 VII.- Suspender o dar por concluido el proceso en los casos en que exista falta de disposición de alguna de las partes, o se ponga en peligro la integridad física o psíquica de cualquiera de los participantes.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 178.
 
-Son funciones del área de apoyo psicosocial:
-
-I.- Proporcionar cuando así le sea requerido, apoyo terapéutico a las personas que funjan como partes en conflicto en los procesos llevados por el Centro de Mediación del Poder Judicial;
-
-II.- Apoyar en la selección de los mediadores y demás personal del Centro de Mediación del Poder Judicial, basándose en las competencias de personalidad;
-
-III.- Ofrecer al personal del Centro de Mediación del Poder Judicial, talleres de crecimiento personal para potenciar en ellos, las capacidades cognitivas, emocionales y conductuales;
-
-IV.- Intervenir en el ámbito pericial, cuando proceda y sea requerido por la autoridad judicial;
-
-V.- Rendir los informes que se le requieran; y,
-
-VI.- Las demás que le sean encomendadas por el Director del Centro de Mediación del Poder Judicial.
-
-Todo el personal del área de apoyo psicosocial deberá contar con el título profesional o documento que acredite sus conocimientos en la materia.
+Los servicios que presta el Centro de Mecanismos Alternativos para la Solución de Conflictos también se podrán ofrecer a distancia, a través de unidades móviles o itinerantes, mediante el uso de las tecnologías de la comunicación e información, las cuales contarán con los especialistas y personal administrativo necesario.
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2854,6 +2940,56 @@ VI.- Coordinar sus acciones con la Visitaduría Judicial y la Contraloría, para
 VII.- Coordinar el Sistema de Gestión de la Calidad, promoviendo la mejora continua tanto de los procesos de apoyo a la impartición de justicia, como de los procesos administrativos, que redunden en beneficio de los justiciables, litigantes y del propio personal del Poder Judicial; y
 
 VIII.- Las demás que le establezcan las disposiciones legales o el Consejo de la Judicatura.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+#### SECCIÓN SÉPTIMA. DE LOS CENTROS DE CONVIVENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 179 Ter.
+
+El Poder Judicial contará con un Centro de Convivencia Familiar en los Distritos Judiciales que determine el Consejo de la Judicatura, estará a cargo de un Coordinador General, un Coordinador Regional y el personal que el propio Consejo designe.
+
+Los Centros de Convivencia Familiar como instancias auxiliares y de apoyo de los jueces competentes en materia familiar, tendrá las siguientes funciones:
+
+I.- Proporcionar en las instalaciones del Centro, los servicios necesarios para la Convivencia de padres e hijos decretada de manera provisional o definitiva en las controversias respectivas, cuando las particularidades del caso así lo requieran;
+
+II.- Proporcionar en las instalaciones del Centro, los servicios necesarios para la Convivencia supervisada bajo los parámetros ordenados por la autoridad judicial;
+
+III.- Otorgar los servicios de entrega, recepción y reintegro de los menores a los progenitores custodios y no custodios, según sea el caso, cuando la autoridad judicial haya permitido la convivencia fuera de las instalaciones del Centro;
+
+IV.- Otorgar servicios de atención psicológica individual, terapias grupales a los menores y a sus progenitores y terapias de integración, tendentes a superar sus conflictos, manejar adecuadamente sus emociones y mejorar su capacidad para relacionarse;
+
+V.- Otorgar servicios de Evaluaciones de personalidad; socioeconómicas y de entorno que aporten mejores elementos a los titulares de los órganos jurisdiccionales para el dictado de sus resoluciones en las controversias respectivas; y
+
+VI.- Otorgar servicio de asesoría psicológica y talleres psicoeducativos dirigidos a niños, adolescentes y adultos con el propósito de coadyuvar al desarrollo de habilidades sociales y de afrontamiento ante los conflictos.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 179 Quáter.
+
+Adicionalmente a las funciones establecidas en el artículo anterior, otorgarán los siguientes servicios extraordinarios a los distintos órganos jurisdiccionales y administrativos del Poder Judicial del Estado de Tamaulipas:
+
+I.- Asistencia de menores o adolescentes para poder participar de manera efectiva en un proceso de justicia;
+
+II.- Designación de peritos en el desahogo de pruebas psicológicas;
+
+III.- Evaluaciones Psicológicas o Socioeconómicas y de entorno social que se requieran en asuntos de carácter penal y de justicia para adolescentes; y
+
+IV.- Servicios de convivencia y de entrega-recepción de menores en los asuntos que se ventilen en los Centros de mecanismos alternativos de solución de conflictos del Poder Judicial del Estado, cuando esa sea la solución para que las partes lleguen a un acuerdo voluntario respecto a las reglas de convivencia.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 179 Quinquies.
+
+Para ser Coordinador General o Coordinador Regional del Centro de Convivencia Familiar del que se trate, se deberán reunir los siguientes requisitos:
+
+I.- Contar con nivel licenciatura, con una antigüedad no menor de cinco años en el ejercicio de su profesión y, preferentemente, contar con experiencia en materia psicológica;
+
+II.- Tener experiencia en materia familiar, capacitado en administración y relaciones humanas, preferentemente con conocimientos en psicología, trabajo social y mediación; y
+
+III.- Los demás que determine el Consejo de la Judicatura del Estado.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2995,7 +3131,7 @@ La retribución que reciban los magistrados electorales y el Magistrado Presiden
 
 ###### ARTICULO 190.
 
-Para el trámite de las solicitudes de licencia de los magistrados electorales o del Magistrado Presidente, será aplicable, en lo conducente, lo establecido para el caso de los integrantes de Pleno del Supremo Tribunal del Justicia. Los magistrados electorales o el Magistrado Presidente no podrán pedir licencia por más de dos meses; en proceso electoral no podrán pedir licencia por más de una semana.
+Para el trámite de las solicitudes de licencia de los magistrados electorales o del Magistrado Presidente, será aplicable, en lo conducente, lo establecido para el caso de los integrantes de Pleno del Supremo Tribunal del (sic) Justicia. Los magistrados electorales o el Magistrado Presidente no podrán pedir licencia por más de dos meses; en proceso electoral no podrán pedir licencia por más de una semana.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -3720,3 +3856,21 @@ P.O. 18 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura deberá emitir las disposiciones reglamentarias relativas al Centro de Convivencia Familiar dentro de un periodo que no deberá exceder de sesenta días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido admitida con anterioridad a la entrada en vigor del presente Decreto, seguirán siendo conocidos por el Pleno del Supremo Tribunal de Justicia.
+
+###### ARTÍCULO CUARTO.
+
+Los profesionistas o expertos cuya designación como peritos haya sido realizada con anterioridad a la entrada en vigor de este Decreto, deberán protestar el cargo que les fue conferido de conformidad con las reglas anteriores.
