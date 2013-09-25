@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2012-10-06"
+last_updated: "2013-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -857,57 +857,77 @@ XII.- Realizar y promover estudios e investigaciones sobre ahorro y uso eficient
 
 XIII.- Las demás que le atribuyan expresamente las Leyes y sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 31.
 
 A la Secretaría de Desarrollo Urbano y Ecología corresponde el despacho de los siguientes asuntos:
 
-I.- Elaborar y mantener actualizado el Plan Estatal para el Desarrollo Urbano;
+I. En materia de desarrollo urbano y ordenamiento territorial:
 
-II.- Celebrar los convenios necesarios para el Desarrollo Urbano con el Gobierno Federal, entidades federativas, ayuntamientos, organismos descentralizados, empresas de participación estatal y particulares;
+a. Elaborar y mantener actualizado el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-III.- Dictar y tomar las medidas necesarias para evitar la especulación de los terrenos urbanos y proceder a la legalización de los asentamientos humanos;
+b. Celebrar los convenios necesarios para el desarrollo urbano con el Gobierno Federal, Entidades Federativas, ayuntamientos, organismos descentralizados, empresas de participación estatal y particulares;
 
-IV.- Participar en la elaboración de los planes nacionales y regionales de desarrollo urbano;
+c. Impulsar, en coordinación con las autoridades federales y municipales, la planeación y el ordenamiento del territorio estatal para su máximo aprovechamiento, con la formulación de políticas que armonicen:
 
-V.- Participar con los Gobiernos Estatales y Ayuntamientos en la elaboración y ejecución del plan de desarrollo urbano de las zonas conurbadas;
+1. El crecimiento y regularización de asentamientos humanos y centros de población;
 
-VI.- Adquirir y enajenar bienes para el cumplimiento de los planes de desarrollo urbano, particularmente reservas territoriales para ofrecer suelo urbano a la población de bajos ingresos;
+2. El desarrollo urbano con criterios uniformes respecto de la planeación, control y crecimiento con calidad de las ciudades y zonas conurbadas y/o metropolitanas del Estado, además de los centros de población en general;
 
-VII.- Regularizar los asentamientos humanos y urbanizar los que sean susceptibles de ello;
+3. Las ventajas productivas de las diversas regiones del Estado;
 
-VIII.- Estudiar y aprobar en su caso, los expedientes relativos al denuncio y enajenación de terrenos municipales y proyectar la dotación de fundos legales a las poblaciones del Estado;
+d. Coadyuvar en la resolución de las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, con la cooperación de las autoridades municipales;
 
-IX.- Proponer al titular del Ejecutivo la política que rija al Estado en materia ecológica, lo que deberá hacer atendiendo los principios normadores relativos a la protección del ambiente;
+e. Participar, junto con el Gobierno Federal, en la planeación y proyección de la adecuada distribución de la población y la ordenación territorial de los centros de población, ciudades, zonas conurbadas y/o metropolitanas, bajo criterios de desarrollo sustentable, así como en todas aquellas acciones que el Ejecutivo Federal convenga con el Estado y los municipios para la realización de acciones en esta materia, con la participación igualmente de los sectores social y privado;
 
-X.- Ejecutar la política ecológica aprobada, tendiendo siempre a la protección del agua, suelo y atmósfera de acuerdo a la delimitación legal de competencia, respetando los medios para ello previstos;
+f. Coordinarse con el Gobierno Federal y con las autoridades municipales para la previsión a nivel estatal de las necesidades de tierra para desarrollo urbano y vivienda, considerando la disponibilidad de agua determinada por las autoridades correspondientes, así como para la regulación de los mecanismos para satisfacer dichas necesidades;
 
-XI.- Proponer la celebración de acuerdos de coordinación con la Federación, Entidades Federativas o Municipios, y concertar acciones con los diversos sectores sociales en las materias de la Ley Ecológica para el Estado de Chihuahua;
+g. Promover y concertar programas de vivienda y de desarrollo urbano en las zonas conurbadas y metropolitanas, apoyar su ejecución, con la intervención que corresponda al Gobierno Federal y con la participación de los gobiernos municipales, así como de los sectores social y privado, a efecto de que el desarrollo estatal en la materia se oriente hacia una planeación sustentable y de integración;
 
-XII.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos con relación a las funciones de desarrollo urbano y ecología, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+h. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+i. Participar en la planeación, diseño, apoyo y evaluación de mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la intervención que corresponda al Gobierno Federal y con la participación de los gobiernos municipales, de las instituciones de crédito y de los diversos grupos sociales;
 
-XIII.- Instrumentar, ejecutar y evaluar los programas, servicios y acciones relativos a la conservación y aprovechamiento sustentable de la vida silvestre, en el Estado, de conformidad con la normatividad aplicable.
+j. Apoyar los programas de modernización del Registro Público de la Propiedad, en coordinación con la Secretaría General de Gobierno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+k. Proyectar y coordinar, con la intervención que corresponda al Gobierno Federal y con la participación de los gobiernos municipales, la planeación regional del desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+l. Formular propuestas ante la Secretaría de Desarrollo Agrario, Territorial y Urbano, en relación con los programas regionales y especiales que señale el Ejecutivo Federal;
 
-XIV.- En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, observar el cumplimiento de las leyes y sus reglamentos con relación a las funciones del catastro, así como vigilar la organización y el funcionamiento de la unidad administrativa que ejerza estas atribuciones;
+m. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los Gobiernos Federal y municipales y con la participación de los sectores social y privado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+n. Dictar y tomar las medidas necesarias para evitar la especulación de los terrenos urbanos y proceder a la legalización y regularización de los asentamientos humanos, mediante la elaboración de la escritura que perfeccione su derecho;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+o. Participar en la elaboración de los planes estatales y regionales de desarrollo urbano;
 
-XV.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica y, en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro; y
+p. Participar con los Gobiernos Estatales y Ayuntamientos en la elaboración y ejecución del plan de desarrollo urbano de las zonas conurbadas y/o metropolitanas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+q. Adquirir y enajenar bienes para el cumplimiento de los planes de desarrollo urbano, particularmente reservas territoriales para ofrecer suelo urbano a la población de bajos ingresos, y
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+r. Proyectar la dotación y/o ampliación de los límites del centro de población de las zonas urbanas del Estado, a solicitud de los municipios.
 
-XVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+II. En materia de equilibrio ecológico y protección al ambiente:
+
+a. Proponer al titular del Ejecutivo la política que rija al Estado en materia ecológica, lo que deberá hacer atendiendo los principios normativos relativos a la protección del ambiente;
+
+b. Ejecutar la política ecológica aprobada, teniendo siempre a la protección del agua, suelo y atmósfera de acuerdo a la delimitación legal de competencia, respetando los medios para ello previstos;
+
+c. Proponer la celebración de acuerdos de coordinación con la Federación, Entidades Federativas o municipios, y concertar acciones con los diversos sectores sociales en las materias de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua;
+
+d. Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de equilibrio ecológico y protección al ambiente, e
+
+e. Instrumentar, ejecutar y evaluar los programas, servicios y acciones relativos a la conservación y aprovechamiento sustentable de la vida silvestre en el Estado, de conformidad con la normatividad aplicable.
+
+III. En materia de catastro:
+
+a. En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, observar el cumplimiento de las leyes y sus reglamentos con relación a las funciones del catastro, así como vigilar la organización y el funcionamiento de la unidad administrativa que ejerza estas atribuciones, e
+
+b. Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica y, en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro.
+
+IV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de desarrollo urbano, ecología, catastro y ordenamiento territorial, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+
+V. Las demás que le atribuyan expresamente otras leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2006,3 +2026,9 @@ Las funciones, facultades, derechos y obligaciones establecidos en cualquier ord
 ###### ARTÍCULO CUARTO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Comisión Estatal de Gasto Financiamiento, se entenderá a la Secretaría de Hacienda.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
