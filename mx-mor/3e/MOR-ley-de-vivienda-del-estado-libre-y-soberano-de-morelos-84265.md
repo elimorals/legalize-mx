@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-vivienda-del-estado-libre-y-soberano-de-morelos-84265"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2013-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de diciembre de 2011.
 
@@ -79,9 +79,13 @@ III. Comité: El Comité Técnico de Vivienda;
 
 IV. Comisión: La Comisión de Desarrollo Económico del Congreso del Estado de Morelos;
 
-V. Secretaría: La Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Instituto: El Instituto de Vivienda del Estado de Morelos;
+V. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Secretaría de Desarrollo Social: La Secretaría de Desarrollo Social del Estado de Morelos;
 
 VII. Ayuntamientos: Los órganos de gobierno de cada uno de los Municipios en que se divide el Estado de Morelos;
 
@@ -159,9 +163,11 @@ XXI. Sistema Estatal de Información e Indicadores de Vivienda.- El conjunto de 
 
 XXII. Sector Privado.- Son las empresas dedicadas y/o especializadas en la construcción de desarrollos de vivienda de forma ordenada y sustentable;
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
-En los casos no previstos por esta Ley, se aplicarán supletoriamente la Ley Federal de Vivienda, Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, Ley del Instituto de Vivienda del Estado de Morelos, Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, Ley Estatal de Planeación, y demás disposiciones que tengan relación con la materia de la vivienda en el Estado.
+En los casos no previstos por esta Ley, se aplicarán supletoriamente la Ley de Vivienda, Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, Ley Estatal de Planeación, y demás disposiciones que tengan relación con la materia de la vivienda en el Estado.
 
 ### CAPÍTULO II. DE LA POLÍTICA Y EL PROGRAMA ESTATAL DE VIVIENDA
 
@@ -235,9 +241,11 @@ XIV. Las demás previsiones que señale el Plan Estatal de Desarrollo y otros or
 
 XV. Promover políticas de re densificación de vivienda en los documentos normativos en materia de desarrollo urbano sustentable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-El Instituto debe formular el Programa Estatal de Vivienda en coordinación con la Secretaría y someterlo a la aprobación del Ejecutivo. Una vez aprobado, debe ordenar su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+La Secretaría de Desarrollo Social debe formular el Programa Estatal de Vivienda en coordinación con la Secretaría y someterlo a la aprobación del Ejecutivo. Una vez aprobado, debe ordenar su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 En la elaboración y ejecución del Programa Estatal de Vivienda, debe tomar en cuenta:
 
@@ -255,7 +263,9 @@ I.- El Ejecutivo;
 
 II.- La Secretaría;
 
-III.- El Instituto; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+III.- La Secretaría de Desarrollo Social, y
 
 IV.- Los Ayuntamientos.
 
@@ -281,7 +291,9 @@ Corresponde a la Secretaría, ejercer las siguientes facultades:
 
 I.- Participar en la elaboración y promoción de la política estatal de vivienda;
 
-II.- Apoyar al Instituto en la formulación del Programa Estatal de Vivienda y someterlo a la aprobación del Ejecutivo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Apoyar a la Secretaría de Desarrollo Social en la formulación del Programa Estatal de Vivienda y someterlo a la aprobación del Ejecutivo;
 
 III.- Promover, evaluar y dar seguimiento a programas y acciones en materia de vivienda;
 
@@ -291,9 +303,11 @@ V.- Emitir los Dictámenes de Congruencia sobre los Programas Municipales de Viv
 
 VI.- Las demás que conforme a otras leyes le corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde al Instituto, ejercer las facultades siguientes:
+Corresponde a la Secretaría de Desarrollo Social, ejercer las facultades siguientes:
 
 I.- Formular, ejecutar y evaluar el Programa Estatal de Vivienda;
 
@@ -313,9 +327,11 @@ Las autoridades y los organismos responsables de la vivienda promoverán la part
 
 El Comité Técnico de Vivienda es un órgano permanente de consulta y asesoramiento del Gobierno del Estado, en asuntos relacionados con la definición de políticas, elaboración, ejecución y evaluación de programas, así como otros mecanismos e instrumentos concernientes al desarrollo de la vivienda.
 
-###### Artículo 15.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-El Comité se integrará por el titular de la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado, con el carácter de Presidente, el Subsecretario de Desarrollo Urbano y Vivienda como suplente y tendrá un Secretario Técnico que será el Director General del Instituto de Vivienda del Estado de Morelos; un representante de la Cámara de Vivienda del Estado de Morelos así como representantes de asociaciones, cámaras y colegios del sector vivienda, quienes tendrán facultades de decisión.
+###### ARTÍCULO 15.
+
+El Comité se integrará por la persona titular de la Secretaría con el carácter de Presidente, la persona titular de la Secretaría de Desarrollo Social, un representante de la Cámara de Vivienda del Estado de Morelos así como representantes de asociaciones, cámaras y colegios del sector vivienda, quienes tendrán facultades de decisión. Así mismo contará con un secretario técnico que será un funcionario de la Secretaría que al efecto se designe.
 
 ###### Artículo 16.
 
@@ -363,7 +379,9 @@ VI.- Coordinarse con el Gobierno del Estado para la ejecución y seguimiento del
 
 VII.- Prestar los servicios públicos municipales, conforme a las disposiciones jurídicas aplicables, a los predios en los que se realicen acciones de vivienda derivados de la ejecución de los programas de vivienda;
 
-VIII.- Simplificar y desregular procedimientos administrativos relacionados con la ejecución de los programas de vivienda del Instituto y los programas municipales de su competencia; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+VIII.- Simplificar y desregular procedimientos administrativos relacionados con la ejecución de los programas de vivienda de la Secretaría de Desarrollo Social y los programas municipales de su competencia; y
 
 IX.- Coordinarse con otros Municipios, en la planeación, programación y ejecución de acciones de suelo y vivienda, así como difundir e informar a la población sobre los programas y acciones de vivienda.
 
@@ -421,9 +439,11 @@ La población en condiciones de pobreza, marginación y vulnerabilidad, se defin
 
 Para ello, se deberá atender a criterios de rezago habitacional, necesidades de vivienda, condición de pobreza de los hogares y grado de marginación de la comunidad.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-Los recursos y apoyos para la Vivienda Digna y Decorosa, serán operados y administrados por el Ejecutivo, a través del Instituto, de acuerdo con las disposiciones legales aplicables en materia presupuestaria.
+Los recursos y apoyos para la Vivienda Digna y Decorosa, serán operados y administrados por el Ejecutivo, a través de la Secretaría de Desarrollo Social, de acuerdo con las disposiciones legales aplicables en materia presupuestaria.
 
 ###### ARTÍCULO 27.
 
@@ -437,9 +457,11 @@ Para ello, se fomentarán programas de ahorro, enganches y financiamientos, conf
 
 ### CAPÍTULO VI. DEL SUELO
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-El Ejecutivo, por conducto del Instituto y de acuerdo con lo previsto en la ley, realizará estudios que determinen los requerimientos de suelo para vivienda; para considerarse en el Programa Estatal de Reservas Territoriales. Para ello, podrá coordinar dichos estudios con los municipios, dependencias y entidades estatales competentes, en los términos que en cada caso convenga. Los estudios tomarán en cuenta las necesidades presentes y futuras; conforme a estas previsiones se implementaran los programas de adquisición específicos.
+El Ejecutivo, por conducto de la Secretaría y de acuerdo con lo previsto en la ley, realizará estudios que determinen los requerimientos de suelo para vivienda; para considerarse en el Programa Estatal de Reservas Territoriales. Para ello, podrá coordinar dichos estudios con los Municipios, dependencias y entidades estatales competentes, en los términos que en cada caso convenga. Los estudios tomarán en cuenta las necesidades presentes y futuras; y conforme a estas previsiones se implementarán los Programas de adquisición específicos.
 
 ###### ARTÍCULO 30.
 
@@ -481,13 +503,17 @@ El Ejecutivo mediante acuerdos de carácter general y con la participación de l
 
 El Ejecutivo, de conformidad con sus atribuciones podrá emitir los acuerdos administrativos y/o fiscales que considere pertinentes para la promoción de la vivienda.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-El Instituto integrará un padrón de contratistas, constructores, prestadores de servicios profesionales, promotores y desarrolladores de vivienda, para ser sujetos de los estímulos e incentivos que al efecto se establezcan.
+La Secretaría de Desarrollo Social integrará un padrón de contratistas, constructores, prestadores de servicios profesionales, promotores y desarrolladores de vivienda, para ser sujetos de los estímulos e incentivos que al efecto se establezcan.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-El sector privado de la construcción de vivienda económica, de interés social y popular podrán gozar de los beneficios, estímulos, desgravaciones y aplicación de los subsidios y facilidades administrativas que se acuerde con los municipios en su caso, siempre y cuando estén previamente registrados y calificados por el Instituto y se incluyan en el contexto de los programas de vivienda.
+El sector privado de la construcción de vivienda económica, de interés social y popular podrán gozar de los beneficios, estímulos, desgravaciones y aplicación de los subsidios y facilidades administrativas que se acuerde con los municipios, en su caso, siempre y cuando estén previamente registrados y calificados por la Secretaría de Desarrollo Social y se incluyan en el contexto de los programas de vivienda.
 
 ###### ARTÍCULO 37.
 
@@ -515,13 +541,17 @@ El Gobierno del Estado y los municipios facilitarán y promoverán el desarrollo
 
 Los productores sociales son los pertenecientes al sector social y los centros o institutos de asistencia técnica.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 41.
 
-El Gobierno del Estado, por conducto de la Secretaría, los municipios y el Instituto, propiciará la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen la producción social de vivienda.
+El Gobierno del Estado, por conducto de la Secretaría, los Municipios y la Secretaría de Desarrollo Social, propiciará la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen la producción social de vivienda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-El Instituto promoverá la asistencia técnica, especialmente la destinada a los productores sociales de vivienda, la cual se podrá proporcionar a través de programas y actividades que realicen:
+La Secretaría de Desarrollo Social promoverá la asistencia técnica, especialmente la destinada a los productores sociales de vivienda, la cual se podrá proporcionar a través de programas y actividades que realicen:
 
 I. Las organizaciones sociales que cuenten o creen áreas especializadas de asistencia y capacitación técnica;
 
@@ -531,7 +561,9 @@ III. Las instituciones académicas, científicas o tecnológicas;
 
 IV. Los colegios, asociaciones o gremios profesionales; y
 
-V. Las dependencias y organismos del sector público, en particular el propio Instituto.
+> <small>(REFORMADA, P.O., 25 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Las dependencias y organismos del sector público, en particular la propia Secretaría de Desarrollo Social
 
 ###### ARTÍCULO 43.
 
@@ -553,19 +585,25 @@ IV. Las demás áreas y servicios que los propios institutos o centros considere
 
 Los institutos o centros de asistencia técnica tendrán plena capacidad para contratar y obligarse conforme a las disposiciones legales y administrativas vigentes.
 
+> <small>(REFORMADO, P.O., 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 46.
 
-Para la investigación y desarrollo de la innovación tecnológica para la vivienda, el Instituto celebrará convenios con los organismos interesados, además de propiciar la participación de las universidades, para lo que se destinarán recursos públicos.
+Para la investigación y desarrollo de la innovación tecnológica para la vivienda, la Secretaría de Desarrollo Social celebrará convenios con los organismos interesados, además de propiciar la participación de las universidades, para lo que se destinarán recursos públicos.
 
 ### CAPÍTULO X. DE LOS SISTEMAS ESTATALES DE INFORMACIÓN E INDICADORES DE VIVIENDA
 
+> <small>(REFORMADO, P.O., 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 47.
 
-El Instituto informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de materiales dirigidos a promotores y desarrolladores de vivienda, principalmente sobre sus programas y reglas de operación. De manera particular elaborará y difundirá material informativo para la población o solicitante de algún crédito de vivienda esto en coordinación con las cámaras, colegios e instituciones del sector vivienda.
+La Secretaría de Desarrollo Social informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la elaboración y difusión de materiales dirigidos a promotores y desarrolladores de vivienda, principalmente sobre sus programas y reglas de operación. De manera particular elaborará y difundirá material informativo para la población o solicitante de algún crédito de vivienda, esto en coordinación con las cámaras, colegios e instituciones del sector vivienda
+
+> <small>(REFORMADO, P.O., 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 48.
 
-El Ejecutivo, el Instituto y los Ayuntamientos, mediante convenios o acuerdos, integrarán y administrarán un Sistema Único de Información de Vivienda y Suelo, articulado y compartido que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, programación, realización del presupuesto, control y evaluación de la política, planes y programas en la materia, el cual se encargará de dar a conocer pronta y oportunamente en coordinación con las cámaras, instituciones y cuerpos colegiados.
+El Ejecutivo, a través de la Secretaría de Desarrollo Social y los Ayuntamientos, mediante convenios o acuerdos, integrarán y administrarán un Sistema Único de Información de Vivienda y Suelo, articulado y compartido que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, programación, realización del presupuesto, control y evaluación de la política, planes y programas en la materia, el cual se encargará de dar a conocer pronta y oportunamente, en coordinación con las cámaras, instituciones y cuerpos colegiados.
 
 ###### ARTÍCULO 49.
 
@@ -577,13 +615,17 @@ Se integrará un Sistema de Indicadores de las tendencias de desarrollo urbano y
 
 ### CAPÍTULO XI. DE LA RECTORÍA
 
+> <small>(REFORMADO, P.O., 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 51.
 
-La Secretaría a través de la Dirección Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos, fungirá como rector en los conflictos y diferencias que se susciten entre el Sector Privado y los Ayuntamientos; de forma enunciativa más no limitativa, pueden ser de autorizaciones, revisión y aprobación de Fraccionamientos, Condominios y Conjuntos Urbanos, así como de procesos de municipalización de obras de equipamiento urbano, entre otros.
+La Secretaría a través de la Dirección General de Administración Urbana, fungirá como rector en los conflictos y diferencias que se susciten entre el Sector Privado y los Ayuntamientos; de forma enunciativa más no limitativa, pueden ser de autorizaciones, revisión y aprobación de Fraccionamientos, Condominios y Conjuntos Urbanos, así como de procesos de municipalización de obras de equipamiento urbano, entre otros.
+
+> <small>(REFORMADO, P.O., 25 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 52.
 
-La Dirección Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos tendrá un término establecido de diez días hábiles una vez recibido por escrito la solicitud, para dictar opinión técnica sobre los conflictos a los que se refiere el Artículo 51 de esta Ley.
+La Dirección General de Administración Urbana tendrá un término establecido de diez días hábiles una vez recibida por escrito la solicitud, para dictar opinión técnica sobre los conflictos a los que se refiere el artículo 51 de esta Ley.
 
 ###### ARTÍCULO 53.
 
@@ -628,3 +670,13 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
