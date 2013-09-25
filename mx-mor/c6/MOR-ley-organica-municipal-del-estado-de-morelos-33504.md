@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2013-05-01"
+last_updated: "2013-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -497,7 +497,7 @@ Una vez verificado el quórum legal, y rendida la protesta por parte de los miem
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-“Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...”.
+"Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...".
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -725,7 +725,9 @@ VIII. Aprobar previamente la celebración de todo tipo de convenios con el Poder
 
 IX. Dentro del ámbito de su competencia y sujetándose a los requisitos que las leyes impongan, autorizar la celebración de contratos, convenios y demás actos jurídicos, con todo tipo de autoridades, instituciones o particulares, para el expedito ejercicio de sus funciones;
 
-X. Proponer, en su caso, a la Legislatura local, por conducto del Presidente Municipal, la creación de organismos municipales descentralizados, fideicomisos o empresas de participación municipal mayoritaria; para la prestación y operación de los servicios públicos; y en general para cualquier otro propósito de beneficio colectivo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+X. Someter a consideración de la Legislatura Local, por conducto del Presidente Municipal, la creación de Organismos Municipales descentralizados, Fideicomisos o Empresas de Participación Municipal Mayoritaria, así como el otorgamiento de concesiones a personas privadas; para la prestación y operación de los Servicios Públicos; y en general para cualquier otro propósito de beneficio colectivo;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -891,6 +893,14 @@ Los integrantes del Ayuntamiento podrán disponer de toda la información necesa
 
 Para la elaboración y aprobación de la iniciativa de Ley de Ingresos y Presupuesto de Egresos, los integrantes del Ayuntamiento podrán tener acceso a los archivos que contengan la información pormenorizada.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+###### Artículo 39 Bis.
+
+Con la finalidad de que los Ayuntamientos den cumplimiento a los principios de Racionalidad, Austeridad y Disciplina del Gasto Público Municipal, deberán de celebrar convenios de coordinación, con la Auditoría Superior de Fiscalización del Congreso del Estado, para la capacitación en el manejo de la Cuenta Pública Municipal, al Tesorero, Contralor y al Director de Obras del Ayuntamiento, dentro del plazo no mayor a sesenta días, posteriores a la celebración del convenio.
+
+En este caso, el Ayuntamiento, establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y eficiente a su personal, por su parte la Auditoría Superior de Fiscalización del Congreso del Estado de Morelos, otorgará una constancia a los Ayuntamientos, que hayan acreditado satisfactoriamente dicha capacitación, como reconocimiento a su colaboración en el manejo eficiente de la Cuenta Pública Municipal.
+
 ###### Artículo 40.
 
 No pueden los Ayuntamientos:
@@ -903,19 +913,23 @@ III. Asumir la representación política y administrativa del Municipio fuera de
 
 IV. Imponer contribuciones que no estén establecidas en la Ley de Ingresos del Municipio o que no hayan sido aprobadas por la Legislatura local y demás reglamentos aplicables;
 
-V. Enajenar, gravar, arrendar o dar posesión de los bienes del Municipio sin sujetarse a los requisitos establecidos en la Constitución Estatal, la presente Ley y demás normas jurídicas aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+V. Otorgar concesiones cuando comprometan al Municipio por un plazo mayor al período del Ayuntamiento, sin la autorización del Legislativo Local;
+
+VI. Enajenar, gravar, arrendar o dar posesión de los bienes del Municipio sin sujetarse a los requisitos establecidos en la Constitución Estatal, la presente Ley y demás normas jurídicas aplicables;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-VI. Con excepción de los casos expresamente previstos en las leyes, enajenar o afectar los ingresos municipales en cualquier forma;
+VII. Con excepción de los casos expresamente previstos en las leyes, enajenar o afectar los ingresos municipales en cualquier forma;
 
-VII. Retener o invertir, para fines distintos, la cooperación, que en numerario o especie, aporten los particulares para la realización de obras de utilidad pública;
+VIII. Retener o invertir, para fines distintos, la cooperación, que en numerario o especie, aporten los particulares para la realización de obras de utilidad pública;
 
-VIII. Ejecutar planes y programas distintos a los aprobados; y (sic)
+IX. Ejecutar planes y programas distintos a los aprobados; y (sic)
 
-IX. Conceder empleos en la administración municipal o tener como proveedores a cualesquiera de sus miembros o a los cónyuges, parientes consanguíneos en línea recta y parientes colaterales o por afinidad hasta el segundo grado de éstos, exceptuando aquellas funciones de carácter honorífico;
+X. Conceder empleos en la administración municipal o tener como proveedores a cualesquiera de sus miembros o a los cónyuges, parientes consanguíneos en línea recta y parientes colaterales o por afinidad hasta el segundo grado de éstos, exceptuando aquellas funciones de carácter honorífico;
 
 No se consideran en la excepción anterior aquellos que tengan un empleo público en el Municipio, otorgado en fecha anterior a la función del Ayuntamiento que se trate, siempre y cuando no se vean beneficiados con la asignación de otro empleo, cargo o comisión de mayor jerarquía o percepción salarial.
 
@@ -2003,6 +2017,10 @@ b) Celebrar contratos de colaboración público privada cuando, en términos de 
 
 c) Afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
+d) Para otorgar en concesión los Servicios Municipales, cuando comprometan al Municipio por un plazo mayor al período de la Administración Municipal;
+
 Los Ayuntamientos deberán informar detalladamente con relación a los empréstitos, contratos de colaboración público privada y la afectación de sus ingresos al rendir la cuenta pública.
 
 ###### Artículo 117.
@@ -2287,6 +2305,8 @@ Para ser Titular de Seguridad Pública se requiere cumplir con los requisitos qu
 
 ### CAPÍTULO V. DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 137.
 
 Los Ayuntamientos en sus respectivas jurisdicciones, conforme a lo que establece la Ley de Protección Civil para el Estado de Morelos, constituirán el Consejo Municipal de Protección Civil, con las funciones que la propia Ley de la materia determina.
@@ -2295,9 +2315,7 @@ Los Ayuntamientos en sus respectivas jurisdicciones, conforme a lo que establece
 
 ###### Artículo 138.
 
-Los Ayuntamientos podrán otorgar concesiones para la prestación y explotación de los servicios públicos municipales, con sujeción a lo establecido por esta Ley, a las prevenciones contenidas en la concesión, a las que determine el Cabildo y demás disposiciones aplicables.
-
-No serán objeto de concesión los servicios públicos municipales, de seguridad pública y tránsito y el archivo, autentificación y certificación de documentos.
+Los Ayuntamientos podrán otorgar concesiones para la prestación y explotación de los Servicios Públicos Municipales, con sujeción a lo establecido por esta Ley, a las prevenciones contenidas en la concesión, a las que determine el Cabildo, previa aprobación de las dos terceras partes del pleno del Legislativo Local, en el caso, que la concesión comprometa al Municipio, por un plazo mayor al período del Ayuntamiento, y demás disposiciones aplicables.
 
 ###### Artículo 139.
 
@@ -2305,9 +2323,13 @@ El otorgamiento de las concesiones para la explotación y prestación de los ser
 
 I. Acuerdo de Cabildo que justifique la imposibilidad del Ayuntamiento de prestar él mismo el servicio público o la conveniencia de que lo preste un tercero;
 
-II. Publicar la convocatoria en el Periódico Oficial del Gobierno del Estado, la gaceta municipal y en un periódico de los de mayor circulación en el Municipio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
-III. Que la convocatoria a que hace referencia la fracción anterior contenga:
+II. La aprobación de las dos terceras partes del Pleno del Legislativo Local, cuando comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+
+III. Publicar la convocatoria en el Periódico Oficial del Gobierno del Estado, la gaceta municipal y en un periódico de los de mayor circulación en el Municipio;
+
+IV. Que la convocatoria a que hace referencia la fracción anterior contenga:
 
 a) El objeto y la duración de la concesión;
 
@@ -2451,7 +2473,7 @@ V. Cuando el concesionario no otorgue o amplíe las garantías en los términos 
 
 VI. Porque el concesionario hipoteque, enajene o de cualquier manera grave la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público municipal de que se trate y siempre que haya transcurrido cuando menos un año de su otorgamiento; y
 
-VII. Porque el concesionario modifique sin autorización de Ayuntamiento las tarifas autorizadas.
+VII. Porque el concesionario modifique sin autorización de (sic) Ayuntamiento las tarifas autorizadas.
 
 ###### Artículo 152.
 
@@ -2661,11 +2683,11 @@ En caso de reincorporación anticipada al vencimiento de la licencia, para la se
 
 Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determinan los integrantes del Cabildo, por mayoría calificada y por una sola ocasión.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 173.
 
-Sólo el Ayuntamiento en funciones de Cabildo podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados.
-
-Las faltas temporales de las autoridades auxiliares serán cubiertas por sus respectivos suplentes; en el caso de los Delegados, su ausencia temporal será cubierta por servidor público que designe el Presidente Municipal.
+Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga• por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3116,6 +3138,46 @@ El decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 827, POR EL QUE SE REFORMA EL ARTÍCULO 173 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO SEGUNDO.
+
+SE ADICIONA EL ARTÍCULO 39 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+DECRETO NÚMERO 828, POR EL QUE SE REFORMA LA FRACCIÓN X, DEL ARTÍCULO 38; LA FRACCIÓN V, DEL ARTÍCULO 40, RECORRIÉNDOSE LAS SUBSECUENTES FRACCIONES EN SU ORDEN; EL ARTÍCULO 138 Y LA FRACCIÓN II, DEL ARTÍCULO 139, RECORRIÉNDOSE LAS SUBSECUENTES FRACCIONES EN SU ORDEN DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Deceto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+SE ADICIONA EL INCISO D), DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
