@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-defensoria-de-oficio-del-estado-de-13544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-18"
-last_updated: "2011-05-27"
+last_updated: "2013-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE SINALOA
 
-LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE SINALOA
+LEY ORGÁNICA DE LA DEFENSORÍA DE OFICIO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 18 de agosto de 1993.
 
@@ -549,7 +551,7 @@ DIPUTADO PRESIDENTE
 
 Lic. Mayra G. Peñuelas Acuña
 
-DIPUTADASECRETARIA
+DIPUTADA SECRETARIA
 
 Profr. Jesús M. Carrillo Arredondo
 
@@ -567,7 +569,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Francisco C. Frías Castro
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE FEBRERO DE 2004.
 
@@ -620,3 +622,47 @@ P.O. 27 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La prestación del servicio de Defensoría Pública en materia penal, con excepción de justicia para adolescentes, en términos del presente Decreto, se realizará de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil trece, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito y Salvador Alvarado.
+
+II. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Guasave y Sinaloa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+V. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto número 151 de la Ley Orgánica de la Defensoría de Oficio del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" número 99, segunda sección de fecha 18 de agosto de 1993, conforme a lo previsto en el artículo segundo transitorio del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las demás disposiciones que se opongan a lo establecido en la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los sesenta días siguientes a la publicación de esta Ley, deberá expedirse el Reglamento correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de esta Ley, el personal en funciones del Cuerpo de Defensores de Oficio del Estado de Sinaloa, pasará a formar parte del Instituto de Defensoría Pública del Estado de Sinaloa, respetándose sus derechos laborales adquiridos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todos los recursos materiales asignados al Cuerpo de Defensores de Oficio del Estado de Sinaloa, a partir de la entrada en vigor de esta Ley, pasarán a formar parte del patrimonio del Instituto de Defensoría Pública del Estado de Sinaloa.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos que a la entrada en vigor de esta Ley estén a cargo de Defensoría de Oficio, serán responsabilidad del Instituto de Defensoría Pública del Estado de Sinaloa, hasta su total conclusión.
