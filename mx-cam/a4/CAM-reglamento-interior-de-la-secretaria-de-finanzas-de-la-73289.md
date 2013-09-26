@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-finanzas-de-la-73289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-04"
-last_updated: "2011-11-22"
+last_updated: "2013-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO PUBLICADO EN EL P.O. 22 DE NOVIEMBRE DE 2011, TODAS LAS REFERENCIAS HECHAS A LA "COORDINACIÓN ADMINISTRATIVA DE LA SECRETARÍA DE FINANZAS", SE ENTENDERÁN HECHAS A LA "DIRECCIÓN DE SERVICIOS ADMINISTRATIVOS".</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 4 de febrero del 2010.
 
 LIC. FERNANDO EUTIMIO ORTEGA BERNÉS, Gobernador Constitucional del Estado de Campeche, en ejercicio de la facultad que me confiere la fracción XIX del artículo 71 de la Constitución Política del Estado de Campeche, y con fundamento en lo que disponen los artículos 73 de la propia Constitución y 3, 8, 14, 16, fracción III, 17 y 27 de la Ley Orgánica de la Administración Pública del Estado de Campeche, tengo a bien expedir el siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO PUBLICADO EN EL P.O. 22 DE NOVIEMBRE DE 2011, TODAS LAS REFERENCIAS HECHAS A LA "COORDINACIÓN ADMINISTRATIVA DE LA SECRETARÍA DE FINANZAS", SE ENTENDERÁN HECHAS A LA "DIRECCIÓN DE SERVICIOS ADMINISTRATIVOS".</small>
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
@@ -43,47 +43,87 @@ La Secretaría de Finanzas, como dependencia de la Administración Pública Cent
 
 La Secretaría de Finanzas, en lo sucesivo la Secretaría, conducirá sus actividades de coordinación, ejecución, evaluación y control con base en los objetivos, políticas, estrategias, prioridades y restricciones, que establezcan el Plan Estatal de Desarrollo y el Gobernador de la Entidad en ejercicio de sus facultades.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
-Para el cumplimiento de sus atribuciones y el despacho de los asuntos que le competen, la Secretaría contará con las siguientes unidades administrativas:
+Para el cumplimiento de sus atribuciones y el despacho de los asuntos que le competen, la Secretaría contará con las siguientes unidades administrativas y órganos administrativos desconcentrados:
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 I. Oficina del Titular de la Secretaría;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 II. Subsecretaría de Ingresos;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 III. Subsecretaría de Egresos;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 IV. Subsecretaría de Programación y Presupuesto;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 V. Procuraduría Fiscal;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 VI. Dirección General de Auditoría Fiscal;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 VII. Dirección de Ingresos;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 VIII. Dirección de Atención y Servicios al Contribuyente;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 IX. Dirección de Contabilidad Gubernamental;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 X. Dirección de Egresos;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 XI. Dirección de Programación;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 XII. Dirección de Presupuesto;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 XIII. Dirección de Política Financiera;
 
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 XIV. Dirección Jurídica
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 XV. Dirección de Informática;
 
-XVI. Dirección de Servicios Administrativos; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
 
-XVII. Secretaría Técnica.
+XVI. Dirección de Servicios Administrativos;
 
-La Secretaría y todas sus unidades administrativas tendrán su sede en la Ciudad de San Francisco de Campeche, del Municipio de Campeche, pertenecientes al Estado de Campeche y ejercerán sus facultades dentro de la circunscripción territorial del Estado de Campeche.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+XVII. Secretaría Técnica; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII. Comisión para la Evaluación de la Inversión Pública del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+La Secretaría, sus unidades administrativas y órganos administrativos desconcentrados, tendrán su sede en la Ciudad de San Francisco de Campeche, del Municipio de Campeche, pertenecientes al Estado de Campeche y ejercerán sus facultades dentro de la circunscripción territorial del Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
@@ -551,7 +591,7 @@ XIV. Determinar en cantidad líquida los impuestos y accesorios correspondientes
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XIV-BIS.- Expedir constancias en las que se señalen las declaraciones presentadas por los contribuyentes en materia de cumplimiento de obligaciones y cartera de créditos;
+XIV-BIS. Expedir constancias en las que se señalen las declaraciones presentadas por los contribuyentes en materia de cumplimiento de obligaciones y cartera de créditos;
 
 XV. Imponer las multas por infracciones previstas en las disposiciones fiscales estatales, así como federales, relacionadas con el incumplimiento de disposiciones fiscales, como también las señaladas en otras disposiciones legales, en el ámbito de su competencia;
 
@@ -563,7 +603,7 @@ XVIII. Verificar aritméticamente el saldo a favor a compensar, determinar y cob
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XVIII-BIS.- Resolver las consultas que formulen los interesados individualmente en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y, orientar a los contribuyentes en el cumplimiento de las obligaciones fiscales en materia de su competencia;
+XVIII-BIS. Resolver las consultas que formulen los interesados individualmente en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y, orientar a los contribuyentes en el cumplimiento de las obligaciones fiscales en materia de su competencia;
 
 XIX. Emitir y notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos, así mismo notificar las resoluciones emitidas por la Procuraduría Fiscal y la Dirección General de Auditoría Fiscal;
 
@@ -587,7 +627,7 @@ XXVIII. Vigilar y exigir que los depositarios de bienes embargados o asegurados 
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XXVIII-BIS.- Ordenar y practicar visitas de inspección y/o verificación a los bancos de materiales objeto del Impuesto Sobre Extracción de Materiales del Suelo y Subsuelo; así como ordenar y practicar la clausura del mismo, cuando así lo dispongan las disposiciones legales y reglamentarias aplicables;
+XXVIII-BIS. Ordenar y practicar visitas de inspección y/o verificación a los bancos de materiales objeto del Impuesto Sobre Extracción de Materiales del Suelo y Subsuelo; así como ordenar y practicar la clausura del mismo, cuando así lo dispongan las disposiciones legales y reglamentarias aplicables;
 
 XXIX. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante la aplicación del procedimiento administrativo de ejecución;
 
@@ -1025,6 +1065,112 @@ VI. Atender y, en su caso, distribuir para su solventación la correspondencia d
 
 VII. Las demás que le sean conferidas por las leyes y reglamentos vigentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+### CAPÍTULO VI. DE LA COMISIÓN PARA LA EVALUACIÓN DE LA INVERSIÓN PÚBLICA DEL ESTADO DE CAMPECHE
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 27.
+
+La Comisión para la Evaluación de la Inversión Pública del Estado de Campeche es el órgano administrativo desconcentrado, subordinado jerárquicamente a esta Secretaría, que tiene por objeto contribuir a elevar la calidad del gasto de inversión del Estado por medio de la elaboración, asesoría técnica y capacitación de la evaluación de la rentabilidad social de los proyectos de inversión Pública y de la conformación de la Cartera Estatal de Programas y Proyectos de Inversión Pública de Alta Rentabilidad Social.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 28.
+
+Para los efectos del presente capítulo, se entenderá por:
+
+I. COMEVIP: Comisión para la Evaluación de la Inversión Pública del Estado de Campeche.
+
+II. CEPPIARS: Cartera Estatal de Programas y Proyectos de Inversión de Alta Rentabilidad Social.
+
+III. PPI: Programas y Proyectos de Inversión.
+
+IV. UI: Unidad de Inversión.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 29.
+
+La Cartera Estatal de Programas y Proyectos de Inversión Pública de Alta Rentabilidad Social es el registro estatal de todos los programas y proyectos de inversión que las dependencias y entidades de la administración pública pretendan realizar y estará regulada bajo los lineamientos que la COMEVIP establezca.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 30.
+
+La COMEVIP contará con autonomía técnica y operativa y tendrá las siguientes atribuciones:
+
+I. Integrar y administrar la CEPPIARS con aquellos PPI que cumplan los requisitos de rentabilidad social y con los objetivos contenidos en los principales instrumentos de planeación del Estado;
+
+II. Ingresar y evaluar, conforme a las políticas, normas y procedimientos correspondientes, los PPI que las dependencias y entidades pretendan inscribir en la CEPPIARS;
+
+III. Evaluar la rentabilidad social de los PPI propuestos por las dependencias y entidades de la administración pública estatal y revisar que su fuente de financiamiento, en parte o en su totalidad, sean los recursos públicos estatales con las políticas, normas y lineamientos correspondientes;
+
+IV. Determinar la interdependencia, colisión, sinergia y complementariedad de los PPI como criterio de jerarquización dentro de la CEPPIARS;
+
+V. Otorgar, retirar o cancelar los certificados de registro en la CEPPIARS según su cumplimiento con las disposiciones correspondientes;
+
+VI. Promover y colaborar para que los PPI, independientemente de la fuente de financiamiento, cuenten con la evaluación de rentabilidad social, criterio primario para su integración y jerarquización en la CEPPIARS;
+
+VII. Detectar dentro de la CEPPIARS, los PPI que se ajustan a las necesidades estatales de inversión;
+
+VIII. Analizar y reportar el equilibrio en la distribución sectorial, institucional y regional de programas y proyectos de inversión, de acuerdo con los objetivos del Plan Estatal de Desarrollo y demás disposiciones aplicables;
+
+IX. Detectar las necesidades complementarias y faltantes en la CEPPIARS para cumplir con los objetivos del Plan Estatal de Desarrollo y demás disposiciones aplicables;
+
+X. Sugerir a las dependencias y entidades de la administración pública estatal, la elaboración de PPI detectados como necesidades complementarias y faltantes, para cumplir con los objetivos del Plan Estatal de Desarrollo y demás disposiciones aplicables;
+
+XI. Elaborar la prospectiva de las necesidades estatales de inversión a mediano y largo plazo con base en la proyección económica del Estado y acorde a los objetivos contenidos en los principales instrumentos de planeación;
+
+XII. Sugerir, con base en los dictámenes realizados por la UI, las fuentes de financiamiento más adecuadas a la naturaleza de los PPI y a las condiciones financieras y jurídicas del Estado;
+
+XIII. Evaluar, asesorar y sugerir los mecanismos de financiamiento de los PPI;
+
+XIV. Integrar un registro de contratos y convenios que generen fuentes de financiamiento de los PPI;
+
+XV. Analizar, proponer y promover, en coordinación con las instancias competentes, esquemas de inversión con la participación de los sectores público, privado y social, así como coadyuvar, en el ámbito de su competencia, en la revisión de la normatividad que incida en el desarrollo de los PPI, que incluyan los proyectos de infraestructura productiva de largo plazo, los proyectos para prestación de servicios, los contratos de colaboración público-privada y otras modalidades de inversión impulsada por el sector público;
+
+XVI. Calcular la rentabilidad social de los PPI ejecutados y en operación, en coordinación con las unidades administrativas competentes, y darle seguimiento a los mismos;
+
+XVII. Proponer al Secretario y al Gobernador del Estado, las políticas, normas y procedimientos relativos a:
+
+a) La evaluación de rentabilidad social de los PPI;
+
+b) El registro de los PPI a la CEPPIARS; y,
+
+c) Los criterios de clasificación y jerarquización de la CEPPIARS.
+
+XVIII. Proponer al Secretario y al Gobernador del Estado, las políticas y lineamientos relativos a la contratación de expertos técnicos, jurídicos, ambientales, financieros y de evaluación de rentabilidad social para la elaboración de proyectos ejecutivos y de evaluación que serán propuestos para el registro en la CEPPIARS;
+
+XIX. Proponer al Secretario y al Gobernador del Estado, los criterios y lineamientos para la inclusión de los PPI en el Programa Estatal de Inversión y en el proyecto de Presupuesto de Egresos del Estado y, en su caso, a través de los conductos competentes, en el Proyecto de Presupuesto de Egresos de la Federación.
+
+XX. Prestar la asesoría que soliciten las dependencias y entidades de la administración pública estatal respecto de la formulación y evaluación de PPI;
+
+XXI. Asesorar a las entidades y dependencias de la administración pública para el cumplimiento de las políticas, normas y procedimientos a que se refieren las fracciones XVII, XVIII y XIX del presente artículo;
+
+XXII. Expedir, actualizar y ejecutar el programa de capacitación para la formulación y evaluación de los PPI;
+
+XXIII. Actualizar permanentemente las nuevas técnicas y métodos de la evaluación social de proyectos de inversión;
+
+XXIV. Analizar la experiencia internacional en el diseño y aplicación de normas y metodologías en materia de inversión, así como participar en foros y organismos nacionales e internacionales en temas relacionados con el ámbito de su competencia.
+
+XXV. Administrar, en coordinación con las unidades administrativas competentes, los sistemas de información que requiera para el cumplimiento de sus atribuciones; y
+
+XXVI. Requerir a las dependencias y entidades de la administración pública estatal, la información que considere necesaria para el ejercicio de sus facultades.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 31.
+
+La Comisión tendrá un Director, quien será designado por el Gobernador a propuesta del titular de la Secretaría, y deberá cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos; y
+
+II. Contar con un grado académico a nivel licenciatura en alguna carrera afín a las atribuciones de la COMEVIP.
+
+Además, la COMEVIP estará integrada por el personal necesario para el cumplimiento de sus objetivos.
+
 T R A N S I T O R I O S:
 
 Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1046,3 +1192,15 @@ Segundo.- En aplicación del segundo párrafo del artículo 7 de este Reglamento
 Tercero.- Todas las referencias que se hacen en las Leyes, Reglamentos y Acuerdos del Ejecutivo vigentes en el Estado a la Coordinación Administrativa de la Secretaría de Finanzas, se entenderán hechas a la Dirección de Servicios Administrativos, que en este Acuerdo se crea.
 
 Cuarto.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido de este Acuerdo.
+
+P.O. 26 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- La COMEVIP tendrá un plazo de sesenta días contados a partir de la entrada en vigor del presente acuerdo, para proponer las políticas, lineamientos, normas y procedimientos conforme a lo dispuesto en las fracciones XVII, XVIII y XIX del artículo 30 del presente reglamento.
+
+TERCERO.- Las Dependencias y Entidades de la Administración Pública Estatal deberán coordinarse con la COMEVIP y enviar las propuestas de programas y proyectos de inversión pública, a efecto de ser evaluados, determinar su viabilidad y obtener los registros correspondientes.
+
+CUARTO.- Los programas y proyectos de inversión pública que se encuentren en trámite de autorización a la entrada en vigor del presente acuerdo estarán exentos de la obligación de obtener el registro ante la COMEVIP.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente acuerdo.
