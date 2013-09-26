@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2013-07-26"
+last_updated: "2013-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -659,15 +659,19 @@ El Congreso para tratar y resolver los asuntos programados y los demás que se l
 
 En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 26 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará el tercer domingo de octubre de cada uno de los cinco primeros años del período del Ejecutivo y el segundo domingo de junio del sexto año del mismo, una Sesión Solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden las diversas ramas de la administración, el cual deberá contener un apartado que comprenda de manera sucinta el resumen del informe en lengua maya, en sus distintos ámbitos de competencia. En dicho informe podrán dar respuesta además a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, con una antelación no menor a veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, relativo al período a que se refiere el informe del Ejecutivo.
+El Congreso celebrará el tercer domingo del mes de enero de cada año, una sesión solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe, por escrito y en formato digital, del estado de la Administración Pública Estatal del período comprendido entre el 1 de enero y el 31 de diciembre del año anterior, el cual deberá guardar congruencia con el Plan Estatal de Desarrollo. El informe deberá contener un apartado que incluya un resumen del mismo en lengua maya. Recibido el informe, el Congreso efectuará la glosa del mismo.
 
-> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
+Durante la glosa podrán comparecer los funcionarios de la Administración Pública Estatal que acuerde el Titular del Poder Ejecutivo, previa solicitud del Congreso del Estado; asimismo, los diputados durante el tiempo en que se realice ésta, podrán formular por escrito, preguntas derivadas de las comparecencias a los funcionarios respectivos, una vez concluidas las mismas.
 
-El Presidente del Congreso contestará a dicho informe.
+Se exceptúa de lo dispuesto en el primer párrafo, el primer informe que abarcará los 15 primeros meses del ejercicio del cargo, y deberá rendirse el tercer domingo del mes de enero del año posterior al inmediato siguiente al de la entrada en funciones del Gobernador del Estado.
+
+En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su período, deberá comparecer al Congreso, el segundo domingo de septiembre, para presentar su último informe.
+
+El Gobernador del Estado, dentro del informe a que se refiere este artículo, podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas comprenderán exclusivamente asuntos relativos a la Administración Pública del período comprendido en el informe del Ejecutivo. El Presidente del Congreso contestará a dicho informe en términos generales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1561,9 +1565,13 @@ Para el despacho de los asuntos encomendados al Poder Ejecutivo del Estado, el t
 
 Para ser titular de las dependencias del Poder Ejecutivo se requiere ser ciudadano mexicano en ejercicio de sus derechos.
 
+> <small>(ADICIONADO, D.O. 26 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 59.
 
-(DEROGADO, D.O. 29 DE ENERO 1982)
+El Poder Ejecutivo formulará informes trimestrales sobre el avance de la gestión y desempeño de la administración pública, así como de sus finanzas, los cuales deberán guardar congruencia con el Plan Estatal de Desarrollo y servirán de base para la integración del informe a que se refiere el artículo 28 de esta Constitución.
+
+Los informes trimestrales serán públicos y se pondrán a disposición de la ciudadanía, para su seguimiento y evaluación, en los términos que establezcan las leyes respectivas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -4000,3 +4008,13 @@ El Presidente de la Comisión de Derechos Humanos del Estado de Yucatán, que al
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
+
+D.O. 26 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
