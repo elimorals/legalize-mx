@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2013-08-30"
+last_updated: "2013-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -74,6 +74,52 @@ Para los efectos de esta Ley se entenderá por:
 I. Dirección: A la Dirección de Control y Evaluación Gubernamental del Estado;
 
 II. Órgano de Control: A las áreas o unidades administrativas de las dependencias y entidades de los poderes del Estado y de los organismos autónomos, que tengan a su cargo las funciones de Contraloría Interna; y,
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+
+III.- Servidores Públicos de Primer Nivel:
+
+1.- En el Poder Ejecutivo:
+
+a).- El Gobernador del Estado;
+
+b).- El Secretario General de Gobierno, así como los titulares de las dependencias a que se refiere el artículo 17 de la Ley Orgánica de la Administración Pública del Estado; y
+
+c).- Los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
+
+2.- En el Poder Judicial:
+
+a).- Los Magistrados del Poder Judicial del Estado;
+
+b).- Los Consejeros de la Judicatura del Estado;
+
+c).- Los Jueces; y
+
+d).- Los titulares de las Unidades Administrativas.
+
+3.- En el Poder Legislativo:
+
+a).- Los Diputados; y
+
+b).- Los titulares de los órganos de apoyo parlamentario y administrativo.
+
+4.- En los Ayuntamientos:
+
+a).- Los Presidentes Municipales;
+
+b).- Los Síndicos Municipales;
+
+c).- Los Regidores;
+
+d).- Los integrantes de los Consejos Municipales;
+
+e).- Los titulares de las dependencias municipales;
+
+f).- Los titulares de las entidades paramunicipales; y
+
+g).- Los Delegados municipales.
+
+5.- En los Órganos Autónomos: los titulares de los organismos constitucionales autónomos, así como sus directores generales.
 
 ###### ARTÍCULO 5.
 
@@ -417,11 +463,15 @@ XVII. Facilitar la información, documentación y/o expedir copias certificadas 
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2010)</small>
 
-XVIII. Informar por escrito al titular de la dependencia o entidad de adscripción, cuando por motivo de salud deba someterse al tratamiento médico que implique el consumo de algún tipo de sustancia psicotrópica, enervante, depresiva, estupefaciente o similar; y
+XVIII. Informar por escrito al titular de la dependencia o entidad de adscripción, cuando por motivo de salud deba someterse al tratamiento médico que implique el consumo de algún tipo de sustancia psicotrópica, enervante, depresiva, estupefaciente o similar; y (sic)
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
-XIX. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
+XIX. Tratándose de los servidores públicos señalados en la fracción III del artículo 4 de la presente ley, someterse a más tardar el 31 de marzo de cada año, a examen para la detección de drogas de abuso, de conformidad con lo dispuesto en la fracción IV del artículo 92 de la Constitución Política del Estado Libre y Soberano de Baja California y disposiciones reglamentarias.
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+
+XX. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -569,13 +619,11 @@ Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que
 
 En aquellos casos en que no se causen daños y perjuicios ni exista lucro, la inhabilitación se impondrá cuando se considere pertinente tomando en cuenta la gravedad de la conducta y las circunstancias especiales que rodean los hechos.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 60.
 
-Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XI, XII, XV y XVI del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII, XV y XVI del artículo 47 de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2012)</small>
+Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XI, XII, XV, XVI y XIX del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII, XV y XVI del artículo 47 de esta Ley.
 
 Así mismo será considerado como falta grave, en caso de los Titulares de los Órganos de Control no den seguimiento hasta su total terminación y/o en su caso aplicar la sanción que corresponda, a las observaciones que sean turnadas por el Congreso del Estado con motivo de la fiscalización superior de las cuentas públicas.
 
@@ -1014,3 +1062,9 @@ P.O. 7 DE DICIEMBRE DE 2012.
 P.O. 30 DE AGOSTO DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 27 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Órganos de Control, en el ámbito de sus competencias, en un plazo no mayor de ciento veinte días contados a partir de la entrada en vigor de la presente reforma, deberá emitir los criterios administrativos para la aplicación de este Decreto.
