@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2013-09-20"
+last_updated: "2013-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -39,9 +39,9 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
 ## Título Primero
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 27 DE SEPTIEMBRE DE 2013)</small>
 
-### Capítulo Único. Derechos Fundamentales
+### Capítulo Único. De los Derechos Humanos
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -51,39 +51,21 @@ El Estado de Querétaro es parte integrante de la Federación Mexicana, es libre
 
 Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 2.
 
-EL ESTADO GARANTIZARÁ EL RESPETO A LA PERSONA Y A LOS DERECHOS HUMANOS, PROMOVERÁ SU DEFENSA Y PROVEERÁ LAS CONDICIONES NECESARIAS PARA SU EJERCICIO.
+En el Estado de Querétaro, toda persona gozará de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección. Las normas relativas a los derechos humanos se interpretarán de conformidad con los ordenamientos antes citados.
 
-(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+EI Estado garantizará el respeto y protección a la persona y a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para su ejercicio de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos y generar acciones afirmativas a favor de las personas en situación de vulnerabilidad, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-TODA PERSONA GOZARÁ DE LOS DERECHOS QUE ESTABLECEN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LAS LEYES FEDERALES, LOS TRATADOS INTERNACIONALES CON APROBACIÓN DEL SENADO, ESTA CONSTITUCIÓN Y LAS LEYES QUE DE ELLA EMANEN.
-
-(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-TIENE DERECHO, ADEMÁS, A ESTAR INFORMADA Y A MANIFESTAR LIBREMENTE SUS IDEAS, SIN MÁS LÍMITE QUE LO SEÑALADO POR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; EL DERECHO DE RÉPLICA SERÁ EJERCIDO EN LOS TÉRMINOS DISPUESTOS POR LA LEY.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+Toda persona tiene derecho a estar informada y a manifestar libremente sus ideas, sin más límites que los señalados por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
 La procuración y la administración de justicia en el Estado, se regirá por las disposiciones y principios contenidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+EI Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
 
-EL ESTADO DE QUERÉTARO RECONOCE, PROTEGE Y GARANTIZA EL DERECHO A LA VIDA DE TODO SER HUMANO, DESDE EL MOMENTO DE LA FECUNDACIÓN, COMO UN BIEN JURÍDICO TUTELADO Y SE LE REPUTA COMO NACIDO PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES, HASTA LA MUERTE. ESTA DISPOSICIÓN NO DEROGA LAS EXCUSAS ABSOLUTORIAS YA CONTEMPLADAS EN LA LEGISLACIÓN PENAL.
-
-(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-LAS AUTORIDADES DEL ESTADO SALVAGUARDARÁN EL RÉGIMEN DE LOS DERECHOS Y LAS LIBERTADES DE TODAS LAS PERSONAS, POR EL SÓLO HECHO DE ENCONTRARSE EN EL TERRITORIO ESTATAL. LOS DERECHOS FUNDAMENTALES NO PODRÁN SER LIMITADOS O RESTRINGIDOS; EN SU INTERPRETACIÓN SE RESOLVERÁ SIEMPRE A FAVOR DEL GOBERNADO.
+Las autoridades del Estado salvaguardarán el régimen de los derechos y libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los derechos humanos no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -101,15 +83,13 @@ Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calida
 
 En el Estado se reconoce la presencia de sus pueblos y comunidades indígenas, admitiendo que fueron la base para su conformación política y territorial; garantizará que la riqueza de sus costumbres y tradiciones; territorio, lengua y patrimonio cultural, medicina tradicional y acceso a recursos naturales, así como su autonomía, libre determinación, sistemas normativos y el acceso a la consulta, sean preservados y reconocidos a través de la ley respectiva.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 4.
 
-La educación que se imparta en el Estado, promoverá el conocimiento de su geografía, cultura, características sociales y económicas, valores arqueológicos, históricos y artísticos, tradiciones, lenguas y creencias de los grupos indígenas y el papel de éstos en la configuración y el desarrollo de la historia e identidad de los queretanos y de la Nación Mexicana.
+La educación que se imparta en el Estado, promoverá el conocimiento de su geografía, cultura, derechos humanos, características sociales y económicas, valores arqueológicos, históricos y artísticos, tradiciones, lenguas y creencias de los grupos indígenas y el papel de estos en la historia e identidad de los queretanos y de la Nación Mexicana.
 
-El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2013)</small>
+EI Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
 
 La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible.
 
@@ -637,17 +617,21 @@ El Instituto Electoral de Querétaro podrá convenir con el Instituto Federal El
 
 Los Consejeros del Instituto Electoral de Querétaro durarán en su encargo siete años, pudiendo ser reelectos por un periodo igual y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 33.
 
-El funcionamiento de la Comisión Estatal de Derechos Humanos y la Comisión Estatal de Información Gubernamental, se sujetará a lo siguiente:
+El funcionamiento de la Defensoría de los Derechos Humanos de Querétaro y la Comisión Estatal de Información Gubernamental, se sujetará a lo siguiente:
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 Apartado A
 
-La Comisión Estatal de Derechos Humanos, es el organismo público autónomo, mediante el cual el Estado garantizará el respeto a los derechos humanos; promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
+La Defensoría de los Derechos Humanos de Querétaro, es un organismo público, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, mediante el que el Estado garantizará el respeto a los derechos humanos; promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
 
-El Presidente de la Comisión Estatal de Derechos Humanos, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
+EI Presidente de la Defensoría de los Derechos Humanos de Querétaro, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 Apartado B
 
@@ -1434,3 +1418,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2013.
+
+Artículo Primero. La presente ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado de Querétaro.
+
+Artículo Segundo. Las presentes modificaciones constitucionales, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. La Legislatura del Estado, a efecto de armonizar las reformas a la Constitución Política del Estado de Querétaro, modificará las disposiciones de la Ley de Derechos Humanos del Estado de Querétaro y las demás relativas y aplicables en la materia, en un plazo máximo de un año contado a partir de la publicación de la presente Ley.
