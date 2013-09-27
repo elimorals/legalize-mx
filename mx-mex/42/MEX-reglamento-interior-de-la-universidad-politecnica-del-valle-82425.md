@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-del-valle-824
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-10"
-last_updated: "2011-08-10"
+last_updated: "2013-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE MÉXICO, PUBLICADO EN LA G.G. DE 27 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 27 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 10 de agosto de 2011.
 
@@ -430,3 +432,13 @@ M. EN C. CARLOS LEÓN HINOJOSA
 RECTOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE MÉXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Politécnica del Valle de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 10 de agosto de 2011.
