@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-cultura-de-baja-47978"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-09"
-last_updated: "2005-12-09"
+last_updated: "2013-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Baja California, el viernes 9 de diciembre de 2005.
 
@@ -1006,3 +1008,13 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ GABRIEL POSADA GALLEGO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno del ICBC, publicado en el Periódico Oficial del Estado de Baja California, el día 09 de diciembre de 2005.
+
+TERCERO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
