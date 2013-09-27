@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-la-comision-de-honor-y-justicia-de-los-6697
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-06"
-last_updated: "2009-02-06"
+last_updated: "2013-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE CREA LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO QUE CREA LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GARCIA, NUEVO LEON.
+REGLAMENTO QUE CREA LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, VIALIDAD, TRÁNSITO Y PROTECCIÓN CIVIL DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -140,3 +142,27 @@ LIC. ARNULFO TELLEZ ZAVALA
 C. SECRETARIO DEL AYUNTAMIENTO.
 
 Dado en la sala de sesiones del R. Ayuntamiento, a los 17 días del mes de Diciembre de 2008.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento de la Comisión de Honor y Justicia de los Cuerpos De Seguridad Publica, Vialidad, Tránsito y Protección Civil del Municipio De García, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento que crea la Comisión de Honor y Justicia de los Cuerpos de seguridad Pública del Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 6 de febrero de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las demás disposiciones inherentes a Comisión de Honor y Justicia para el Municipio de García, Nuevo León, que hubieren estado en vigor hasta la fecha de publicación del presente ordenamiento y las disposiciones contenidas en reglamentos que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos administrativos en trámite se regirán según disposiciones vigentes al momento de emitirse el acto de autoridad reclamado.
+
+###### ARTÍCULO QUINTO.
+
+Envíese al Periódico Oficial del Estado para su publicación.
