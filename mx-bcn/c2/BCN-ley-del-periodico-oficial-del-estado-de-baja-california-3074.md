@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "2012-07-20"
+last_updated: "2013-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -74,6 +74,10 @@ IX.- Aquellos actos o resoluciones que por su propia importancia así lo determi
 ###### ARTICULO 4.
 
 Es obligación del Gobernador del Estado, como lo establece el Artículo 49 Fracción I de la Constitución Política del Estado, publicar en el Periódico Oficial del Estado, los ordenamientos y disposiciones a que se refiere el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 4 BIS.- En los casos, en que las leyes y decretos no sean observadas ni publicadas por el Ejecutivo del Estado en los plazos a que se refiere el primer párrafo y el Apartado A del Artículo 34 de la Constitución Política del Estado, corresponderá al Presidente del Congreso del Estado dentro de los quince días siguientes a que venzan los plazos para ello, ordenar su publicación en el Periódico Oficial del Estado sin que se requiera refrendo.
 
 ###### ARTICULO 5.
 
@@ -195,4 +199,4 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 20 DE JULIO DE 2012.
 
-ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
