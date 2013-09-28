@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-etica-del-tribunal-de-lo-contencioso-57770"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-24"
-last_updated: "2007-11-24"
+last_updated: "2013-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE ETICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
 
-CODIGO DE ETICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
+CÓDIGO DE ÉTICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013 (ABROGADO).
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de noviembre de 2007.
 
@@ -31,7 +33,7 @@ ACUERDO DEL PLENO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OA
 
 EXPOSICIÓN DE MOTIVOS
 
-Los órganos impartidotes de justicia al ejercer autoridad sobre los individuos, deben ser garantes y protectores de la confianza del ciudadano, su actuar debe ser profesional, neutral, íntegro y equitativo para todos los individuos.
+Los órganos impartidores de justicia al ejercer autoridad sobre los individuos, deben ser garantes y protectores de la confianza del ciudadano, su actuar debe ser profesional, neutral, íntegro y equitativo para todos los individuos.
 
 En el estado de Oaxaca, con la reciente creación del Tribunal de lo Contencioso Administrativo, se cubre uno de los anhelos de los justiciables oaxaqueños, al contar con un órgano especializado en impartir justicia administrativa, éste órgano jurisdiccional viene a dar respuesta al postulado de acceso a la tutela jurisdiccional efectiva consagrado en el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, como valor central para la vida democrática y una condición indispensable para su desarrollo.
 
@@ -39,7 +41,7 @@ Por ello, conscientes del alto compromiso que este Tribunal tiene con la socieda
 
 Ahora bien, este documento no pretende juridizar a la ética a través de la estructura propia de las normas y la definición de Principios, evitando reiterar deberes, prohibiciones y exigencias que ya están contempladas en el sistema normativo que rige a este Tribunal, sino más bien, es un instrumento para inducir actitudes más responsables, transparentes y honestas, en la función que desempeñan los servidores de este Tribunal, así como para prevenir, disuadir y detectar conductas indeseables.
 
-Deber destacarse que el Código de Ética que ahora se expide, encuentra sus antecedentes e influencia en el Código Modelo de Ética Judicial, expedido por los integrantes de la Asociación Mexicana de impartidotes de Justicia, del cual este Tribunal es integrante, sin soslayar desde luego, los documentos expedidos tanto a nivel nacional como internacional como son:
+Deber destacarse que el Código de Ética que ahora se expide, encuentra sus antecedentes e influencia en el Código Modelo de Ética Judicial, expedido por los integrantes de la Asociación Mexicana de impartidores de Justicia, del cual este Tribunal es integrante, sin soslayar desde luego, los documentos expedidos tanto a nivel nacional como internacional como son:
 
 El Código de Ética del Poder Judicial de la Federación, aprobado en 2004.
 
@@ -97,7 +99,7 @@ Los servidores del Tribunal procurarán que su actuación contribuya a la mejor 
 
 PREVENCIÓN DE LA CORRUPCIÓN.
 
-El Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, fomentarán una cultura de prevención de practicas de corrupción e impulsará la calidad en la impartición de justicia, con el propósito de generar certidumbre en la sociedad respecto de la objetividad e imparcialidad de sus resoluciones y cambio da actitud en el servidor público, mediante el ejemplo en el desempeño de sus propias actividades y en su vida personal, familiar y social.
+El Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, fomentarán una cultura de prevención de prácticas de corrupción e impulsará la calidad en la impartición de justicia, con el propósito de generar certidumbre en la sociedad respecto de la objetividad e imparcialidad de sus resoluciones y cambio de actitud en el servidor público, mediante el ejemplo en el desempeño de sus propias actividades y en su vida personal, familiar y social.
 
 ###### ARTÍCULO 7.
 
@@ -325,7 +327,7 @@ La Comisión tendrá las siguientes funciones:
 
 I.- Resolver las denuncias que se planteen ante ella por desacato a este Código.
 
-II.- Dar respuesta a las consultas que les formulen los servidores del Tribunal, en relación con unta cuestión concreta de naturaleza ética;
+II.- Dar respuesta a las consultas que les formulen los servidores del Tribunal, en relación con una cuestión concreta de naturaleza ética;
 
 III.- Dar a conocer a los servidores públicos del Tribunal, los valores, principios y virtudes contenidas en el presente Código;
 
@@ -372,3 +374,17 @@ ATENTAMENTE,
 SUFRAGIO EFECTIVO. NO REELECCIÓN.
 
 EL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente Código de Ética del Poder Judicial del Estado de Oaxaca, deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, en el Boletín Judicial, en la página electrónica del Poder Judicial del Estado de Oaxaca, http://tribunaloax.gob.mx, en los estrados del Honorable Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado Oaxaca.
+
+SEGUNDO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Acuerdo.
+
+CUARTO. Se abroga el Código de Ética del Tribunal de la Contencioso Administrativo del Poder Judicial del Estado de Oaxaca.
+
+QUINTO. Los plenos del Honorable Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca, mediante acuerdos expedidos en sus respectivos ámbitos de competencia, integrarán la Comisión de Ética Judicial dentro de los sesenta días siguientes a la publicación oficial del presente Código.
