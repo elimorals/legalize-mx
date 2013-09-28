@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2013-02-09"
+last_updated: "2013-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -906,6 +906,10 @@ XIX.- Las demás que establezcan las disposiciones legales aplicables.
 ###### ARTÍCULO 58.
 
 El Centro Estatal de Control de Confianza, propondrá los criterios para la selección, ingreso, permanencia y promoción de los miembros de las Instituciones Policiales en el Estado y los municipios, así como la descripción funcional de las categorías y niveles de las instituciones, y los procedimientos de evaluación, conforme a los lineamientos establecidos en esta Ley y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
+
+El Centro Estatal de Control de Confianza deberá practicar las evaluaciones a aquellas personas que el Presidente Municipal le solicite para efectos de la propuesta y aprobación del Director de Seguridad Pública Municipal o su equivalente, de conformidad con lo previsto en el Código Municipal.
 
 #### SECCIÓN SEGUNDA. DE LA ESCUELA ESTATAL DE POLICIA Y LAS ACADEMIAS DE FORMACIÓN, CAPACITACIÓN Y PROFESIONALIZACIÓN POLICIAL
 
@@ -2002,5 +2006,15 @@ Se establece un plazo de treinta días., contados a partir de la entrada en vigo
 P.O. 9 DE FEBRERO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
