@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2013-08-28"
+last_updated: "2013-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -443,7 +443,7 @@ Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera 
 
 El financiamiento público para los partidos políticos que mantengan el derecho a participar en su distribución después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgarán conforme a lo siguiente y a lo que disponga la ley:
 
-I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o(sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
+I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o (sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
@@ -1086,6 +1086,10 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 En los casos de nulidad de elecciones y en los demás a que se refieren este inciso y el anterior, si la declaratoria correspondiente o falta acaece dentro de los seis primeros meses del ejercicio constitucional de los ayuntamientos, se convocará a elecciones para designar las personas que han de substituirlos; si aconteciere después del plazo señalado, los nombrados por el Congreso constituido en Colegio Electoral concluirán el período.
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
+
+G.- Nombrar, por el voto de las dos terceras partes de los diputados presentes, a propuesta en terna de los presidentes municipales, a los titulares de las direcciones de seguridad pública municipales o sus equivalentes, cuando así lo haya determinado expresamente el ayuntamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4054,3 +4058,13 @@ El patrimonio del Tribunal de Justicia Electoral y Administrativa del Estado se 
 ###### ARTÍCULO QUINTO.
 
 Una vez que entre en vigor la presente reforma se deberán hacer las adecuaciones legales pertinentes en un plazo de noventa días.
+
+P.O. 28 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
