@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-09-07"
+last_updated: "2013-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -691,9 +691,15 @@ XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcc
 
 XLI.- Impulsar la creación de instancias municipales que sean las encargadas de instrumentar y dar seguimiento a las políticas, acciones, planes y programas que incorporen la transversalidad de la perspectiva de género, conforme a la Ley de Desarrollo Social y Humano para el Estado de Chihuahua;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
 
-XLII.- Aprobar, a propuesta del Presidente Municipal, al titular de la Dirección de Seguridad Pública Municipal. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquél en que reciba la propuesta del Presidente Municipal, tomando en cuenta lo que señala el artículo 22 del presente ordenamiento y, necesariamente, en ese momento, deberá quedar designado, no pudiéndose suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos. Durante el tiempo que dure el procedimiento de designación del Director de Seguridad Pública, el Presidente Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
+XLII.- Aprobar, mediante votación por cédula, por el voto de las dos terceras partes, a propuesta en terna del Presidente Municipal, al titular de la Dirección de Seguridad Pública Municipal o su equivalente. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquel en que reciba la propuesta del Presidente Municipal, tomando en cuenta los requisitos de elegibilidad señalados en los artículos 61 y 61 bis del presente ordenamiento y, en su caso, los antecedentes que tenga en el Registro Nacional de Personal de Seguridad Pública, quedando necesariamente designado en ese momento, sin poderse suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos.
+
+De no alcanzarse los votos necesarios para ninguno de los candidatos, se repetirá la votación por cédula, pero solo con los dos que tuvieran mayor número de votos, y será electo el que obtenga cuando menos la votación de las dos terceras partes.
+
+El ayuntamiento, mediante votación por cédula, también podrá determinar directamente en la sesión en la que deba resolver dicha aprobación, que el ejercicio de la atribución de designar al Director de Seguridad Pública o su equivalente, quede a cargo del Congreso del Estado; en este caso, remitirá las constancias de la Sesión de Cabildo en la que se acordó turnar a la Legislatura Local la propuesta en terna del Presidente Municipal junto con los expedientes de cada candidato, a fin de que el Pleno del Congreso realice la aprobación a la brevedad.
+
+Durante el tiempo que dure el procedimiento de designación del Director de Seguridad Pública o su equivalente, el Presidente Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2012)</small>
 
@@ -719,9 +725,9 @@ El presidente Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Nombrar y remover libremente a los funcionarios y empleados de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer al Ayuntamiento la aprobación del titular de la Dirección de Seguridad Pública Municipal.
+II. Nombrar y remover libremente a los funcionarios y empleados de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación del titular de la Dirección de Seguridad Pública Municipal o su equivalente;
 
 III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
 
@@ -1373,7 +1379,9 @@ ARTICULO 60 BIS.- Los titulares de cada dependencia a que refiere el artículo a
 
 Para ser funcionario municipal se requiere:
 
-I.- Tener, por lo menos, veintiún años;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
+
+I.- Tener, por lo menos, veintiún años, salvo el caso del titular del área de seguridad pública municipal, que deberá contar con una edad mínima de veinticinco años;
 
 II.- Ser mexicano y del estado seglar;
 
@@ -1388,6 +1396,18 @@ Se exceptúa de lo anterior a quienes estén ocupando un cargo con anterioridad 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 V.- En los municipios cuyas cabeceras municipales tengan más de setenta y cinco mil habitantes, los Directores serán preferentemente profesionistas de los ramos de las dependencias y, en el caso del Secretario del Ayuntamiento, de preferencia contará con título de Licenciado en Derecho.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
+
+ARTICULO 61 BIS. Para ser titular del área de seguridad pública municipal, además de los requisitos señalados en el artículo 61, deberá cumplir con al menos los siguientes:
+
+I. No contar con antecedentes penales por delito doloso, ni estar sujeto a proceso penal;
+
+II. No contar con antecedentes policíacos por hechos que pudieran ser constitutivos de algún delito, dentro de los cinco años previos a su designación;
+
+III. Contar con el registro y certificación emitidos por el Centro Estatal de Control de Confianza, y
+
+IV. Cursar y aprobar la capacitación de inducción en la Escuela Estatal de Policía o, en su caso, acreditarla ante esta.
 
 ###### ARTICULO 62.
 
@@ -4454,3 +4474,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Estado, y su vigenc
 ###### ARTÍCULO SEGUNDO.
 
 Para la elección de la Junta Municipal en la Sección Municipal de Rocoroyvo, en lo conducente, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
