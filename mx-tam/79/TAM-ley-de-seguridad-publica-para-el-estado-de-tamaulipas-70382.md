@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2012-12-18"
+last_updated: "2013-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".</small>
 
@@ -1289,9 +1289,9 @@ El Presidente podrá celebrar reuniones de evaluación y análisis con miembros 
 
 ###### ARTICULO 56.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-1. El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente del Secretario de Seguridad Pública.
+1. El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente de la Secretaría General de Gobierno.
 
 2. La estructura, organización y funciones del Consejo, se establecerán en el reglamento respectivo.
 
@@ -1851,6 +1851,12 @@ P.O. 18 DE DICIEMBRE DE 2012.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+###### ARTÍCULO SEGUNDO.
+
+La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos humanos, los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, los programas y calendarios financieros, así como los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas, de conformidad con su anterior asignación administrativa.
+
+Lo dispuesto en el presente artículo no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+
 ###### ARTÍCULO TERCERO.
 
 La Subsecretaría de Ejecución de Sanciones y Reinserción Social realizará las acciones necesarias para el cumplimiento de sus atribuciones en términos de lo dispuesto en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas.
@@ -1872,3 +1878,27 @@ Los procedimientos ante la Junta de Honor y Justicia, que se hayan iniciado con 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2013, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo del presente Decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas o, en su caso las operativas que los tramitan se incorporen a la dependencia que deba atenderlos, salvo los trámites urgentes o sujetos a plazos improrrogables.
+
+En los casos conducentes, el titular de la dependencia cabeza de sector, así como el titular del órgano e instancias administrativas vinculadas a las acciones de ejercicio presupuestal deberán agotar el cumplimiento de sus responsabilidades hasta el finiquito de las mismas ante los órganos de fiscalización, sean estatales o federales, sin demérito del cambio de adscripción laboral.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
