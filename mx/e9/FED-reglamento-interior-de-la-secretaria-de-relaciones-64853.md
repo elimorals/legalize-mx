@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-64853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2012-10-12"
+last_updated: "2013-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-12-30"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -581,7 +581,9 @@ X. Elaborar, para firma del Presidente de la República y del Secretario, el Exe
 
 XI. Tramitar la publicación en el Diario Oficial de la Federación del Exequátur y de las Autorizaciones Definitivas y Cancelaciones en términos de la legislación aplicable;
 
-XII. Gestionar los permisos requeridos por nacionales mexicanos para aceptar y usar condecoraciones otorgadas por gobiernos extranjeros, para prestar servicios en misiones diplomáticas y consulares acreditadas en México, y para fungir en México como cónsules honorarios de países extranjeros;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XII. Expedir los permisos a que se refieren las fracciones II, III y IV del apartado C) del artículo 37 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XIII. Tramitar ante la Secretaría de la Defensa Nacional, la autorización de los permisos de importación y portación de armas de fuego para personal de seguridad extranjeros, con base en el principio de reciprocidad;
 
@@ -643,7 +645,7 @@ VII. Fijar los lineamientos que permitan el establecimiento de mecanismos de coo
 
 VIII. Coordinar con las áreas competentes de la Secretaría, la atención de las solicitudes de gobiernos extranjeros y sus representantes, para establecer vínculos con los gobiernos de las entidades federativas y de los municipios;
 
-IX. Tramitar, en coordinación con la Dirección General de Protocolo, las solicitudes de permiso de nacionales mexicanos para prestar sus servicios en las representaciones de los gobiernos acreditados ante el gobierno de México, así como recabar la autorización respectiva y enviarla al solicitante;
+IX. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)
 
 X. Promover y apoyar, en coordinación con la Dirección General de Protocolo, las actividades del Cuerpo Diplomático en las entidades federativas y municipios;
 
@@ -1639,7 +1641,7 @@ VII. Elaborar las notas para la obtención de visas oficiales o diplomáticas co
 
 VIII. Proponer la creación de delegaciones, subdelegaciones y oficinas de enlace, su modificación, reubicación o desaparición, así como el nombramiento, comisión o remoción de los delegados, subdelegados y demás servidores públicos bajo su competencia;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 IX. Realizar periódicamente visitas de supervisión a las delegaciones y subdelegaciones, a fin de evaluar, en especial que:
 
@@ -1755,7 +1757,7 @@ XX. Ejercer las demás atribuciones que las disposiciones legales confieran a la
 
 (DEROGADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 39.
 
@@ -2133,7 +2135,7 @@ IX. Ejecutar y supervisar las resoluciones de la Comisión Internacional de Lím
 
 X. Establecer los mecanismos de coordinación con las autoridades competentes para la debida atención de las disposiciones establecidas en los tratados internacionales vigentes en materia de aguas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 51.
 
@@ -2229,13 +2231,13 @@ La Secretaría proporcionará al Titular del Órgano Interno de Control los recu
 
 El Secretario será suplido en sus ausencias temporales por el Subsecretario de Relaciones Exteriores. En caso de ausencia temporal del Secretario y del Subsecretario de Relaciones Exteriores, fungirán como encargados del despacho los Subsecretarios para América del Norte; para América Latina y el Caribe; para Asuntos Multilaterales y Derechos Humanos, y por el Oficial Mayor, en el orden enunciado. En caso de ausencia temporal de todos los servidores públicos mencionados, el Secretario designará al servidor público encargado del despacho.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 54.
 
 La ausencia de los Subsecretarios y del Oficial Mayor será suplida por el servidor público que designen respectivamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 55.
 
@@ -2341,7 +2343,7 @@ Los cambios en la estructura y programas para atender el contenido del presente 
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 4 DE SEPTIEMBRE DE 2009.
 
@@ -2378,3 +2380,11 @@ OCTAVO. La Oficialía Mayor de la Secretaría de Relaciones Exteriores realizar�
 D.O.F. 12 DE OCTUBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las solicitudes de permisos presentadas ante la Dirección General de Protocolo con anterioridad a la entrada en vigor del presente Decreto, se tramitarán en los términos establecidos en este.
+
+TERCERO.- Las erogaciones que en su caso sean necesarias para la instrumentación del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no se requerirá de recursos adicionales para tal efecto, y por tanto no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
