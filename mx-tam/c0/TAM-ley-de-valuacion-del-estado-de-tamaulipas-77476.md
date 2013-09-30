@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-valuacion-del-estado-de-tamaulipas-77476"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-09"
-last_updated: "2010-11-09"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE VALUACION DEL ESTADO DE TAMAULIPAS
 
-LEY DE VALUACION DEL ESTADO DE TAMAULIPAS
+LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 9 de noviembre de 2010.
 
@@ -49,41 +49,51 @@ DECRETO MEDIANTE EL CUAL SE EXPIDE LA LEY DE VALUACION DEL ESTADO DE TAMAULIPAS.
 
 3. La aplicación de la presente ley compete al Gobernador del Estado a través de la Secretaría.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-1. Para los efectos de esta ley deberá entenderse por:
+Para los efectos de esta ley deberá entenderse por:
 
-I. Avalúo: el dictamen técnico que determina el valor comercial de un bien mueble o inmueble, conforme a lo dispuesto en la ley y demás disposiciones legales y reglamentarias en vigor;
+I.- Avalúo: el dictamen técnico realizado por un valuador profesional que determina el valor comercial de un bien tangible o intangible, conforme a lo dispuesto en la ley y demás disposiciones legales y reglamentarias en vigor;
 
-II. Comisión: la Comisión de Valuación del Estado de Tamaulipas;
+II.- Bien tangible: Aquel que se puede tocar o percibir de manera clara y precisa;
 
-III. Ley: la Ley de Valuación del Estado de Tamaulipas;
+III.- Bien intangible: Aquel que no puede tocarse porque no tiene una realidad física;
 
-IV. Perito Valuador: la persona física autorizada por la Secretaría para emitir avalúos comerciales y dictámenes de valor;
+IV.- Comisión: la Comisión de Valuación del Estado de Tamaulipas;
 
-V. Registro: el Registro Estatal de Valuadores Profesionales;
+V.- Ley: la Ley de Valuación del Estado de Tamaulipas;
 
-VI. Registro individual: el documento que acredita la inscripción en el registro de valuadores profesionales;
+VI.- Perito Valuador Profesional: Es la persona física autorizada por la Secretaría para emitir avalúos comerciales y dictámenes de valor con cédula profesional de posgrado y acreditar la especialización necesaria al caso específico;
 
-VII. Reglamento: el Reglamento de la Ley de Valuación del Estado de Tamaulipas;
+VII.- Registro: el Registro Estatal de Valuadores Profesionales;
 
-VIII. Renta: el importe a pagar por el arrendamiento de un bien o inmueble por un periodo determinado, expresado en términos monetarios;
+VIII.- Registro individual: el documento que acredita la inscripción en el registro de valuadores profesionales;
 
-IX. Secretaría: la Secretaría General de Gobierno;
+IX.- Reglamento: el Reglamento de la Ley de Valuación del Estado de Tamaulipas;
 
-X. Valor comercial: la cantidad expresada en moneda justa y probable que se podrá obtener por algún bien en un mercado y en fecha determinada; y
+X.- Renta: Importe a pagar por el arrendamiento de un bien tangible o intangible por un período determinado, expresado en términos monetarios;
 
-XI. Valuador profesional: la persona física autorizada por la Secretaría para emitir avalúos comerciales y dictámenes de valor de bienes muebles o inmuebles.
+XI.- Secretaría: la Secretaría del Trabajo y Asuntos Jurídicos;
+
+XII.- Valor comercial: la cantidad expresada en moneda justa y probable que se podrá obtener por algún bien en un mercado y en fecha determinada; y
+
+XIII.- Valuador profesional: la persona física autorizada por la Secretaría para emitir avalúos comerciales y dictámenes de valor de bienes tangibles e intangibles.
 
 ### CAPITULO II. DE LA VALUACION
 
 ###### Artículo 3.
 
-1. Para ejercer la función de valuador profesional de bienes muebles o inmuebles y para actuar en los actos propios de los gobiernos estatal o municipal en el Estado, se requiere inscribirse en el padrón que al efecto realiza la Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+1. Para ejercer la función de valuador profesional de bienes tangibles o intangibles y para actuar en los actos propios de los gobiernos estatal o municipal en el Estado, se requiere inscribirse en el padrón que al efecto realiza la Secretaría del Trabajo y Asuntos Jurídicos.
 
 2. La valuación comercial de bienes se efectuará conforme a las disposiciones de esta ley y su reglamento.
 
-3. Para la inscripción en el Registro de Valuadores, además de los requisitos que establezca la normatividad correspondiente, será necesario presentar cédula profesional de posgrado y acreditar la especialización necesaria el (sic) caso específico.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+3. Para la inscripción en el Registro de Valuadores Profesionales, además de los requisitos que establezca la normatividad correspondiente, será necesario presentar cédula profesional de posgrado y acreditar la especialización necesaria el (sic) caso específico.
 
 ###### Artículo 4.
 
@@ -107,15 +117,25 @@ XI. Valuador profesional: la persona física autorizada por la Secretaría para 
 
 Se exceptúan de lo dispuesto en esta ley:
 
-I. La valuación de bienes nacionales; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-II. Cuando exista disposición legal específica y determinada que prevea procedimiento diverso para establecer el valor de un bien.
+I.- La valuación de bienes nacionales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Cuando exista disposición legal específica y determinada que prevea procedimiento diverso para establecer el valor de un bien; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+III.- La actividad de los peritos diversos a los de valuación, la cual será regulada por el Reglamento para el Registro de Peritos del Estado.
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE VALUADORES PROFESIONALES INDEPENDIENTES
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-Se establece el Registro de Valuadores del Estado de Tamaulipas, como instancia de consulta y control de ejercicio profesional de la valuación comercial, y estará a cargo de la Secretaría General de Gobierno, a través de la Comisión de Valuación.
+Se establece el Registro de Valuadores del Estado de Tamaulipas, como instancia de consulta y control de ejercicio profesional de la valuación comercial, y estará a cargo de la Secretaría del Trabajo y Asuntos Jurídicos, a través de la Comisión de Valuación.
 
 ###### Artículo 8.
 
@@ -133,9 +153,11 @@ V. Cubrir los derechos correspondientes; y
 
 VI. Residir de manera permanente en el Estado, comprobando al menos tres años anteriores a la fecha de su solicitud.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 9.
 
-Los aspirantes a ejercer la función de valuador, deberán solicitar por escrito la inscripción al registro de la Secretaría General de Gobierno, debiendo acompañar a su petición los documentos que acreditan el cumplimiento de requisitos que establece el artículo 8 de la ley.
+Los aspirantes a ejercer la función de valuador profesional, deberán solicitar por escrito la inscripción al registro de la Secretaría del Trabajo y Asuntos Jurídicos, debiendo acompañar a su petición los documentos que acreditan el cumplimiento de requisitos que establece el artículo 8 de la ley.
 
 ###### Artículo 10.
 
@@ -157,7 +179,9 @@ Durante el mes de enero de cada año, la Secretaría publicará en el Periódico
 
 ###### Artículo 14.
 
-1. Para los efectos de la presente ley, la función de valuador consiste en determinar el valor comercial de bienes muebles e inmuebles y, en su caso, de la renta de éstos, para proceder a emitir el dictamen de valor en el documento correspondiente denominado avalúo o dictamen de valor, mismo que para efectos de la presente ley es igual o equivalente al avalúo bancario.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+1. Para los efectos de la presente ley, la función de valuador profesional consiste en determinar el valor comercial de bienes tangibles e intangibles y, en su caso, de la renta de éstos, para proceder a emitir el dictamen de valor en el documento correspondiente denominado avalúo o dictamen de valor, mismo que para efectos de la presente ley es igual o equivalente al avalúo bancario.
 
 2. En el supuesto de emisión de avalúo o dictamen de valor realizado por un valuador extranjero, carecerá de validez y será considerado como una opinión particular, a menos que sea efectuado o refrendado por un valuador profesional registrado en el Estado.
 
@@ -175,11 +199,17 @@ Son obligaciones de los valuadores, las siguientes:
 
 I. Aplicar los lineamientos, métodos y técnicas conforme a los criterios de valuación que establezca esta ley, su reglamento o los autorizados por la Secretaría;
 
-II. Asentar en los avalúos y en los dictámenes de valor, los datos que corresponda a la realidad, y determinar los valores dentro del rango establecido por el reglamento y los criterios técnicos autorizados;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-III. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto, en los que tenga interés alguno de sus parientes consanguíneos en línea recta o limitación de grado, colateral dentro del cuarto grado y por afinidad dentro del segundo grado;
+II. Asentar en los avalúos o en los dictámenes de valor, los datos que corresponda a la realidad, y determinar los valores dentro del rango establecido por el reglamento y los criterios técnicos autorizados;
 
-IV. Emitir avalúos y dictámenes de valor con el reconocimiento de la Secretaría, debiéndose acreditar con la constancia de inscripción correspondiente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+III. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto, en los que tenga interés alguno de sus parientes consanguíneos en línea recta o limitación de grado, así como, de actuar en los asuntos en los que por cualquier circunstancia no puedan emitir sus propios juicios con entera y absoluta imparcialidad;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Emitir avalúos o dictámenes de valor con el reconocimiento de la Secretaría, debiéndose acreditar con la constancia de inscripción correspondiente;
 
 V. Cobrar los honorarios que correspondan a sus servicios profesionales, de acuerdo con una retribución justa;
 
@@ -187,9 +217,13 @@ VI. Solicitar a la Secretaría, durante el mes de octubre de cada tres años, la
 
 VII. Establecer domicilio en la localidad correspondiente en donde pueda recibir cualquier tipo de notificaciones;
 
-VIII. Llevar el control de los avalúos y dictámenes de valor que emita, conforme a lo dispuesto en el reglamento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-IX. Asistir a los cursos de actualización personal que organice la Comisión de Valuación o el colegio de profesionistas;
+VIII. Llevar el control de los avalúos o dictámenes de valor que emita, conforme a lo dispuesto en el reglamento;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Asistir a los cursos de actualización personal que organice la Comisión de Valuación o el colegio de valuadores profesionales;
 
 X. Recibir la información de interés profesional que emita la Comisión de Valuación;
 
@@ -203,21 +237,33 @@ Los valuadores profesionales registrados conforme a la ley, proporcionarán a la
 
 ### CAPITULO V. DE LA COMISION DE VALUACION
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 18.
 
-Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría General de Gobierno, con el objeto de vigilar y supervisar el ejercicio de la valuación comercial de bienes muebles e inmuebles del Estado de Tamaulipas.
+Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría del Trabajo y Asuntos Jurídicos, con el objeto de vigilar y supervisar el ejercicio de la valuación comercial de bienes tangibles e intangibles del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-1. La Comisión de Valuación estará integrada de la siguiente manera:
+1. La Comisión estará integrada de la siguiente manera:
 
-I. Un Presidente, que será el Secretario General de Gobierno.
+I.- Un Presidente, que será el titular de la Secretaría;
 
-II. Un Secretario Técnico que será el Director General de Asuntos Jurídicos de la Secretaría.
+II.- Un Secretario Técnico, que será el Subsecretario de Servicios y Gestión Gubernamental de la Secretaría; y
 
-III. Cinco vocales que serán, el Director General del Instituto Catastral y Registral; el Director de Patrimonio del Estado; el Presidente del Colegio de Notarios del Estado; y dos presidentes de Asociaciones o Colegios profesionales en materia de valuación constituidos en el Estado.
+III.- Cuatro Vocales:
 
-2. Cada uno de los integrantes de la Comisión podrá nombrar a sus respectivos suplentes, con excepción del Presidente, que será suplido en su ausencia por el Secretario Técnico quien tendrá todas las facultades asignadas al Presidente, incluyendo el voto de calidad.
+a) El Director General del Instituto Registral y Catastral del Estado de Tamaulipas;
+
+b) El Director de Permisos y Legalizaciones de la Secretaría; y
+
+c) Dos representantes de Asociaciones o Colegios de Profesionales en materia de valuación del Estado.
+
+2. En caso de ausencias del Presidente de la Comisión, éstas serán suplidas por el Secretario Técnico.
+
+3. En caso de ausencias del Secretario Técnico o. en los casos en los que éste tenga que suplir al Presidente de la Comisión, el titular de la Dirección de Permisos y Legalizaciones de la Secretaría realizará las funciones de Secretario Técnico.
 
 ###### Artículo 20.
 
@@ -267,7 +313,9 @@ IV. Las demás que disponga la ley, así como las que se deriven de la naturalez
 
 ###### Artículo 23.
 
-1. La Comisión establecerá un calendario de sesiones y se reunirá en sesión ordinaria cuando menos cada 3 meses.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+1. La Comisión establecerá un calendario de sesiones y se reunirá en sesión ordinaria cuando menos cada 6 meses.
 
 2. A solicitud del Presidente o de la mayoría de sus miembros, podrá reunirse en sesión extraordinaria cuando un asunto o asuntos lo ameriten.
 
@@ -301,7 +349,9 @@ La Comisión tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de esta ley, su reglamento, los lineamientos, criterios y técnicas autorizados por la Secretaría;
 
-II. Elaborar y proporcionar a la Secretaría, para su autorización y oportuno decreto, los aranceles que percibirán como honorarios los peritos valuadores, por la elaboración de los avalúos comerciales y dictámenes de arrendamiento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+II. Elaborar y proporcionar a la Secretaría, para su autorización y oportuno decreto, los aranceles que percibirán como honorarios los valuadores profesionales, por la elaboración de los avalúos comerciales o dictámenes de valor;
 
 III. Establecer las políticas en materia de evaluación y proponer a la Secretaría los procedimientos, lineamientos, métodos, criterios y técnicas a que deberán sujetarse los valuadores al efectuar los avalúos comerciales y los dictámenes de valor;
 
@@ -309,7 +359,9 @@ IV. Proponer al Titular del Poder Ejecutivo, la elaboración de las propuestas d
 
 V. Vigilar y supervisar el ejercicio profesional de los valuadores autorizados conforme a esta ley;
 
-VI. Promover y coordinar programas de capacitación y actualización dirigidas (sic) a los peritos valuadores en coordinación con los institutos, asociaciones y colegios profesionales en materia de valuación, constituidos tanto en el Estado como en la Federación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Promover y coordinar programas de capacitación y actualización dirigidas a los valuadores profesionales en coordinación con los institutos, asociaciones y colegios profesionales en materia de valuación, constituidos tanto en el Estado como en la Federación;
 
 VII. Coordinar trabajos técnicos y de investigación en materia de valuación;
 
@@ -339,7 +391,9 @@ c) No llevar el control de los avalúos y dictámenes de valor que emita, o no f
 
 d) No integrar los avalúos que expida con los datos complementarios, según lo dispuesto en la ley o su reglamento; y
 
-e) No asistir, en el periodo de dos años, a los cursos de actualización profesional que organice la Comisión de Valuación o los colegios de profesionistas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+e) No asistir, en el periodo de dos años, a los cursos de actualización profesional que organice la Comisión de Valuación o los colegios de valuadores profesionales.
 
 II.- Suspensión de registro individual o cancelación del mismo por:
 
@@ -353,7 +407,9 @@ a) Por renuncia;
 
 b) Por reincidir en la transgresión de alguno de los supuestos previstos en el artículo 16 de esta ley;
 
-c) Por revelar dolosamente información de peritajes; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+c) Por revelar dolosamente información de avalúos o dictámenes de valor; y
 
 d) Por negarse a prestar sus servicios sin causa justificada.
 
@@ -361,9 +417,11 @@ d) Por negarse a prestar sus servicios sin causa justificada.
 
 Corresponde a la Secretaría imponer las sanciones a que se refiere el artículo anterior, sin perjuicio de las sanciones que impongan las autoridades judiciales cuando se incurra en responsabilidad civil o penal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### Artículo 30.
 
-Para imponer una sanción, la Secretaría deberá notificar al infractor previamente del inicio del procedimiento para que dentro de los 5 días siguientes, exponga lo que a su derecho convenga y en su caso aporte las pruebas con que cuenta. Una vez transcurrido el término emitirá la resolución que corresponda y la mandará notificar.
+Para imponer una sanción, la Secretaría deberá notificar al infractor previamente del inicio del procedimiento para que dentro de los 5 días hábiles siguientes, exponga lo que a su derecho convenga y en su caso aporte las pruebas con que cuenta. Una vez transcurrido el término emitirá la resolución que corresponda y la mandará notificar.
 
 ###### Artículo 31.
 
@@ -393,9 +451,13 @@ Para imponer una sanción, la Secretaría deberá notificar al infractor previam
 
 1. Contra la resolución que imponga alguna sanción se podrá interponer el recurso de revocación.
 
-2. El recurso de revocación se interpondrá ante la Secretaría en un término máximo de 5 días a partir de la recepción de la notificación.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-3. La Secretaría analizará la impugnación y resolverá dentro de los 10 días posteriores. Contra su resolución no existe recurso alguno.
+2.- El recurso de revocación se interpondrá ante la Secretaría en un término máximo de 5 días hábiles a partir de la recepción de la notificación.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+3.- La Secretaría analizará la impugnación y resolverá dentro de los 10 días hábiles posteriores. Contra su resolución no existe recurso alguno.
 
 T R A N S I T O R I O S
 
@@ -418,3 +480,19 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los nueve días del mes de abril del año dos mil diez.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento para el Registro de Peritos del Estado, se deberá expedir en un plazo no mayor a 60 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, deberá quedar instalada la Comisión de Valuación de la Secretaría del Trabajo y Asuntos Jurídicos.
