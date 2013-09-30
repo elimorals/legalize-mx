@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2013-09-24"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1939,7 +1939,7 @@ No se procederá penalmente por este delito en contra de quien posea medicamento
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 SEXTUS.- El Ministerio Público no ejercerá acción penal por el delito previsto en el artículo anterior, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del articulo 203 Ter de éste Código.
+ARTICULO 204 SEXTUS.- El Ministerio Público no ejercerá acción penal por el delito previsto en el artículo anterior, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 203 Ter de éste Código.
 
 La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
 
@@ -2805,7 +2805,9 @@ Comete el delito de falsedad en declaraciones dadas ante una autoridad, el que:
 
 I.- Interrogado por alguna autoridad pública en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
 
-II.- Examinado por la autoridad judicial como testigo faltare a la verdad sobre el hecho que se trata de averiguar, ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Examinado por la autoridad judicial o administrativa en un procedimiento administrativo seguido en forma de juicio, como testigo faltare a la verdad sobre el hecho que se trata de averiguar, ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad;
 
 III.- Con cualquier carácter, excepto el de testigo, sea examinado bajo protesta de decir verdad y faltare a ella en perjuicio de otro, negando ser suya la firma con que hubiere suscrito un documento o afirmando un hecho falso o alterando o negando uno verdadero, o sus circunstancias substanciales.
 
@@ -2816,6 +2818,16 @@ Lo prevenido en esta fracción no comprende los casos en que la parte sea examin
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 IV.- Teniendo el carácter de ofendido, o de coadyuvante, apoderado o representante legal del primero, dentro de un proceso penal, presente en el mismo uno o mas testigos falsos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+###### ARTICULO 254 Bis.
+
+Se impondrán de seis meses a seis años de prisión y multa de cincuenta a doscientos cincuenta días de salario, al que con el propósito de obtener sentencia, resolución o acto administrativo en la que se derive un perjuicio o un beneficio indebido o mayor del que legalmente corresponde, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendente a inducir a error a la autoridad judicial o administrativa.
+
+De verificarse el perjuicio o los beneficios a que se refiere el primer párrafo, las penas se incrementarán hasta en dos tercios.
+
+Cuando en la comisión de este delito intervenga de forma directa o indirecta un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
 ###### ARTICULO 255.
 
@@ -2829,17 +2841,23 @@ Al responsable del delito a que se refieren los artículos anteriores de éste c
 
 La sanción podrá ser hasta de quince años de prisión para el testigo falso a que se refiere la Fracción II del Artículo 254, que fuere examinado en un juicio penal y al sentenciado se le imponga una sanción de más de veinte años de prisión por habérsele dado valor probatorio a la declaración de aquél. Lo mismo se observará para las personas a que se refiere la fracción IV del citado artículo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 257.
 
-Al que soborne a un testigo, a un perito o a un intérprete para que se produzca con falsedad en juicio, o los obligue o comprometa a ello intimidándolos, o haciendo uso de cualquier otro medio para lograr su propósito, se le impondrá la sanción a que se refiere el artículo 256.
+Al que soborne a un testigo, a un perito o a un intérprete para que se produzca con falsedad en juicio o en un procedimiento administrativo seguido en forma de juicio, o los obligue o comprometa a ello intimidándolos, o haciendo uso de cualquier otro medio para lograr su propósito, se le impondrá la sanción a que se refiere el artículo 256.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 258.
 
-Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diere, se le impondrá una multa de cincuenta a ciento cincuenta días de salario; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
+Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio o en un procedimiento administrativo seguido en forma de juicio, antes de que se pronuncie sentencia, laudo o resolución en la instancia en que las diere, se le impondrá una multa de cincuenta a ciento cincuenta días de salario; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este Capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Al perito o intérprete que sea sancionado, ya sea porque se retracte de su dictamen o porque faltare a la verdad, se le impondrá, además de las sanciones a que se contrae este capítulo, la inhabilitación para el ejercicio profesional sobre la que verse la pericia, por un término de tres meses a dos años.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 La autoridad ante la cual se condujo falazmente el testigo, perito, o interprete deberá dar vista al órgano persecutor de los delitos para que inicie la indagatoria correspondiente, remitiendo las constancias necesarias para ello.
 
@@ -2853,9 +2871,13 @@ La autoridad ante la cual se condujo falazmente el testigo, perito, o interprete
 
 Comete el delito de variación del nombre o del domicilio:
 
-I.- El que oculte su nombre o apellidos y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-II.- El que para eludir la práctica de una diligencia judicial, una notificación de cualquiera clase o citación de una autoridad, oculte su domicilio, designe otro distinto o niegue de cualquier modo el verdadero; y
+l.- El que oculte su nombre o apellidos y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial o administrativa en un procedimiento administrativo seguido en forma de juicio;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+II.- El que para eludir la práctica de una diligencia judicial o administrativa, una notificación de cualquiera clase o citación de una autoridad, oculte su domicilio, designe otro distinto o niegue de cualquier modo el verdadero; y
 
 III.- Al servidor público que en los actos propios de su cargo, atribuyere a una persona, título o nombre a sabiendas de que no le pertenece.
 
@@ -5464,3 +5486,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
