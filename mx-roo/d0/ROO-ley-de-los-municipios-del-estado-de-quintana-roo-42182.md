@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2013-09-06"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -121,21 +121,25 @@ Los Ayuntamientos deberán tomar posesión el día 30 del mes de septiembre del 
 
 Los Ayuntamientos se integran de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-I.- En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
+I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente/a, un Síndico/a, nueve Regidores/as electos según el principio de mayoría relativa y seis Regidores/as electos según el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional. Se elegirá un suplente para cada integrante del Ayuntamiento. Se elegirá un suplente para cada integrante del Ayuntamiento.
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar, con un Presidente/a, un Síndico/a, seis Regidores/as electos según el principio de mayoría relativa y tres Regidores/as electos según el principio de representación proporcional. Se elegirá un suplente para cada integrante del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 9.
 
-Los miembros del Ayuntamiento, percibirán las remuneraciones que les asignen en el Presupuesto de Egresos Municipal aprobado, quedando impedidos para aceptar otro empleo o cargo público por el que perciban remuneración alguna, a excepción de los docentes.
+Los integrantes del Ayuntamiento, percibirán las remuneraciones que les asignen en el Presupuesto de Egresos Municipal aprobado, quedando impedidos para aceptar otro empleo o cargo público por el que perciban remuneración alguna, a excepción de los docentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 10.
 
-Para ser miembro de un Ayuntamiento se requiere:
+Para ser integrante de un Ayuntamiento se requiere:
 
 I. Ser mexicano por nacimiento, ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
 
@@ -147,9 +151,9 @@ IV. No ser Magistrado del Tribunal Electoral del Estado, ni Consejero, Secretari
 
 V. No ser ministro de cualquier culto religioso, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, no podrán ser electos para el período inmediato como propietarios o suplentes; los suplentes, sí podrán serlo como propietarios, a menos que hayan ejercido el cargo.
+Los o las Presidentes/as Municipales, Síndicos/as y Regidores/as de los Ayuntamientos que hayan estado en ejercicio, no podrán elegirse para el período inmediato como propietarios o suplentes; los suplentes, sí podrán serlo como propietarios, a menos que hayan ejercido el cargo.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -253,25 +257,33 @@ Las Alcaldías son órganos descentralizados, auxiliares de la Administración P
 
 La extensión y límites de las Alcaldías, serán determinados por cada Ayuntamiento, atendiendo a su capacidad administrativa.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 21.
 
-Las Alcaldías se integrarán con un Alcalde, un Tesorero y hasta tres Concejales. El Alcalde tendrá la representación legal del órgano y presidirá sus sesiones, las que se realizarán por lo menos una vez al mes. Los acuerdos se tomarán por mayoría de votos.
+Las Alcaldías se integrarán con un/a Alcalde, un Tesorero/a y hasta tres Concejales. El o la Alcalde tendrá la representación legal del órgano y presidirá sus sesiones, las que se realizarán por lo menos una vez al mes. Los acuerdos se tomarán por mayoría de votos.
 
 ###### ARTÍCULO 22.
 
 Los Ayuntamientos, al acordar la creación de las Alcaldías, determinarán las facultades de las mismas, las que tendrán a su cargo el desempeño de tareas administrativas descentralizadas, de conformidad con lo dispuesto por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 23.
 
-Las facultades y obligaciones de los Alcaldes, serán las que el Ayuntamiento les confiera, y comprenderán entre otras, las siguientes:
+Las facultades y obligaciones de los o las Alcaldes, serán las que el Ayuntamiento les confiera, y comprenderán entre otras, las siguientes:
 
 I. Cumplir y hacer cumplir las disposiciones legales y reglamentarias, dentro de la esfera de su competencia y jurisdicción;
 
 II. Ejecutar las acciones necesarias, para dar cumplimiento a los Acuerdos y Resoluciones del Ayuntamiento, en su circunscripción territorial;
 
-III. Cuidar el orden público y tránsito;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-IV. Informar al Ayuntamiento, por conducto del Presidente Municipal, de todos los asuntos relacionados con su encargo;
+III. Para los efectos de la elección prevista en el presente artículo, el H. Cabildo designará un Comité de Elección que en el caso de los Ayuntamientos que se integran por nueve regidores/as de mayoría relativa y seis de representación proporcional, se deberá integra (sic) por cuatro regidores/as de mayoría relativa y tres regidores/as de representación proporcional, asimismo, por cuanto se refiere a los Ayuntamientos que se encuentren integrados por seis regidores/as de mayoría relativa y tres regidores/as de representación proporcional, éstos integrarán el Comité respectivo, con tres regidores/as de mayoría relativa y dos de representación proporcional; en ambos casos, los Ayuntamientos podrán solicitar al Instituto Electoral de Quintana Roo, su coadyuvancia en la organización de las elecciones para los integrantes de las Alcaldías y las Delegaciones Municipales, en los términos de los convenios que al efecto celebre;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Informar al Ayuntamiento, por conducto del Presidente/a Municipal, de todos los asuntos relacionados con su encargo;
 
 V. Desempeñarse como conciliador y árbitro en controversias entre ciudadanos, cuando se lo pidan los interesados;
 
@@ -303,11 +315,11 @@ XVII. Las demás que se señalen en el reglamento interior que les apruebe el Ay
 
 Las Alcaldías contratarán, para el mejor desempeño de su gestión, los apoyos y la asesoría jurídica, contable y administrativa que requieran, en los términos que apruebe el Ayuntamiento, así como el personal indispensable que el propio Ayuntamiento les apruebe en el presupuesto de egresos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 25.
 
-Los integrantes de las Alcaldías y los Delegados Municipales, serán electos mediante el voto universal, libre, secreto, directo, personal e intransferible, de los ciudadanos que residan dentro de la circunscripción territorial de la alcaldía y la delegación respectiva. Para tal efecto el Ayuntamiento expedirá un reglamento que deberá sujetarse a las siguientes bases:
+Los integrantes de las alcaldías y de las Delegaciones Municipales, serán electos mediante el voto universal, libre, secreto, directo, personal e intransferible, de los ciudadanos que residan dentro de la circunscripción territorial de la alcaldía y la delegación respectiva. Para tal efecto el Ayuntamiento expedirá un reglamento que deberá sujetarse a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
@@ -321,23 +333,23 @@ II. La convocatoria que al efecto expida el Ayuntamiento, deberá ser publicada 
 
 III. Para los efectos de la elección prevista en el presente artículo, el H. Cabildo designará un Comité de Elección que en el caso de los Ayuntamientos que se integran por nueve regidores de mayoría relativa y seis de representación proporcional, se deberá integrar por cuatro regidores de mayoría relativa y tres regidores de representación proporcional, asimismo, por cuanto se refiere a los Ayuntamientos que se encuentren integrados por seis regidores de mayoría relativa y tres regidores de representación proporcional, éstos integrarán el Comité respectivo, con tres regidores de mayoría relativa y dos de representación proporcional; en ambos casos, los Ayuntamientos podrán solicitar al Instituto Electoral de Quintana Roo, su coadyuvancia en la organización de las elecciones para los integrantes de las Alcaldías y los Delegados Municipales, en los términos de los convenios que al efecto celebre;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-IV. Las Alcaldías y los Delegados Municipales deberán ser instalados dentro de los primeros noventa días de la gestión municipal.
+IV. Las Alcaldías y Delegaciones Municipales deberán ser instalados dentro de los primeros noventa días de la gestión municipal.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-Los integrantes de las Alcaldías y los Delegados Municipales durarán en sus funciones el mismo período para el que fue electo el Ayuntamiento, debiendo permanecer en sus cargos hasta que entren en funciones los nuevos integrantes electos.
+Los integrantes de las Alcaldías y Delegaciones Municipales durarán en sus funciones el mismo período para el que fue electo el Ayuntamiento, debiendo permanecer en sus cargos hasta que entren en funciones los nuevos integrantes electos.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-Los integrantes de las Alcaldías y los Delegados Municipales podrán ser removidos por el voto de las dos terceras partes de los miembros de los Ayuntamientos; cuando dejaren de cumplir reiteradamente con las facultades y obligaciones que les señala la presente ley, así como por el incumplimiento de las disposiciones que se establezcan en los reglamentos respectivos.
+Los integrantes de las Alcaldías y los (sic) Delegaciones Municipales podrán ser removidos por el voto de las dos terceras partes de los miembros de los Ayuntamientos, cuando dejaren de cumplir reiteradamente con las facultades y obligaciones que les señala la presente ley, así como por el incumplimiento de las disposiciones que se establezcan en los reglamentos respectivos.
 
 En caso de remoción o falta del titular de la Alcaldía, éste será suplido por el primer Concejal; en este caso, el suplente del primer Concejal entrará en funciones.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-En caso de remoción o falta de los demás integrantes de la Alcaldía y los Delegados Municipales, entrarán en funciones los suplentes respectivos.
+En caso de remoción o falta de los demás integrantes de la Alcaldía y Delegaciones Municipales, entrarán en funciones los suplentes respectivos.
 
 En el reglamento que al efecto expida el Ayuntamiento deberá señalarse la frecuencia de las sesiones, los procedimientos para emitir sus acuerdos y cumplimiento de las alcaldías.
 
@@ -349,9 +361,11 @@ El Ayuntamiento, por el voto de las dos terceras partes de sus miembros, podrá 
 
 Para ser miembro de una Alcaldía se requiere, reunir los mismos requisitos que se exigen para ser miembro de un Ayuntamiento, con excepción de la residencia, la cual, para este caso será de un mínimo de tres años en la localidad de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-Las Alcaldías presentarán al Ayuntamiento respectivo, por conducto del Presidente Municipal, su Proyecto de Presupuesto de Ingresos y Egresos, para su incorporación a los presupuestos anuales del Ayuntamiento, a más tardar en el mes de septiembre de cada año.
+Las Alcaldías presentarán al Ayuntamiento respectivo, por conducto de la Presidencia Municipal, su Proyecto de Presupuesto de Ingresos y Egresos, para su incorporación a los presupuestos anuales del Ayuntamiento, a más tardar en el mes de septiembre de cada año.
 
 En el Presupuesto de Egresos anual del Ayuntamiento, deberá de establecerse de manera clara y especifica, el monto asignado a cada una de sus respectivas Alcaldías.
 
@@ -377,33 +391,41 @@ Las Alcaldías presentarán al Ayuntamiento, por conducto del Presidente Municip
 
 La Contraloría Municipal vigilará la correcta aplicación de los recursos asignados a las Alcaldías.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 31.
 
-En las ciudades, villas o pueblos, que no sean Cabeceras ni Alcaldías municipales, se establecerá una Delegación, que es un órgano desconcentrado de la Administración Pública Municipal, el cual estará a cargo de un Delegado y tendrá como función el desempeño de las tareas administrativas encomendadas por el Ayuntamiento de acuerdo a la presente Ley.
+En las ciudades, villas o pueblos, que no sean Cabeceras ni Alcaldías municipales, se establecerá una Delegación, que es un órgano desconcentrado de la Administración Pública Municipal, el cual estará a cargo de un Delegado/a y tendrá como función el desempeño de las tareas administrativas encomendadas por el Ayuntamiento de acuerdo a la presente Ley.
 
 ###### ARTÍCULO 32.
 
 En las rancherías y congregaciones, y para los mismos efectos señalados en el artículo que antecede, se establecerán Subdelegaciones que también son órganos desconcentrados de la Administración Pública Municipal que estarán a cargo de un Subdelegado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 33.
 
-Las Delegaciones y Subdelegaciones municipales, dependerán administrativamente del Presidente Municipal, ejercerán las facultades y atribuciones que les confiera el Ayuntamiento, conforme a esta Ley en el ámbito territorial que le sea asignado y contarán con el personal y presupuesto que el propio Ayuntamiento les señale.
+Las Delegaciones y Subdelegaciones municipales, dependerán administrativamente de la Presidencia Municipal, ejercerán las facultades y atribuciones que les confiera el Ayuntamiento, conforme a esta Ley en el ámbito territorial que le sea asignado y contarán con el personal y presupuesto que el propio Ayuntamiento les señale.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 34.
 
-Los Subdelegados Municipales serán designados por el Presidente Municipal.
+Los y las Subdelegados/as Municipales serán designados por el o la Presidente/a Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-Las facultades y obligaciones del Delegado o Subdelegado municipal son:
+Las facultades y obligaciones del o la Delegado/a o Subdelegado/a municipal son:
 
 I. Cumplir y hacer cumplir las disposiciones legales dentro de la esfera de su competencia;
 
 II. Ejecutar y cumplir las resoluciones del Ayuntamiento en su circunscripción territorial;
 
-III. Informar al Presidente Municipal de todos los asuntos relacionados con su cargo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+III. Informar a la Presidencia Municipal de todos los asuntos relacionados con su cargo;
 
 IV. Vigilar el orden público;
 
@@ -415,7 +437,9 @@ VII. Elaborar el censo de los contribuyentes de su circunscripción y actuar com
 
 VIII. Inscribir a los ciudadanos, en el Registro de Ciudadanos, en el cual manifestarán sus propiedades, industrias, profesión u ocupación y hacerlo del conocimiento del Presidente Municipal;
 
-IX. Actuar como conciliador en los conflictos que se le presenten;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Desempeñar la conciliación y arbitraje en controversias entre ciudadanos, cuando se lo pidan las y los interesados; con excepción de los casos de violencia física, psicológica, sexual y moral están estrictamente prohibidos los procedimientos conciliatorios
 
 X. Auxiliar a las autoridades federales, estatales y municipales, en el desempeño de sus atribuciones;
 
@@ -543,51 +567,67 @@ Para tal efecto, en la última sesión ordinaria del mes inmediato anterior a la
 
 La comisión designada, convocará a los integrantes del Ayuntamiento electo, que cuenten con la constancia expedida por el órgano electoral competente, con por lo menos una anticipación de diez días naturales, para que acudan a una reunión preparatoria, en la que se acordarán los pormenores de la sesión de instalación.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 50.
 
-En la reunión preparatoria a que se refiere el artículo anterior, el Ayuntamiento electo, designará de entre sus integrantes, a propuesta del Presidente, a un Secretario, para el solo efecto de levantar el acta de la sesión de instalación.
+En la reunión preparatoria a que se refiere el artículo anterior, el Ayuntamiento electo, designará de entre sus integrantes, a propuesta del Presidente/a, a u (sic) Secretario/a, para el solo efecto de levantar el acta de la sesión de instalación.
 
 ###### ARTÍCULO 51.
 
 En todo caso, la sesión de instalación se celebrará bajo la estricta responsabilidad del Ayuntamiento electo, sin perjuicio de la coordinación que establecen los artículos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 52.
 
-El Presidente Municipal del Ayuntamiento electo, tomará protesta de Ley, en la sesión de instalación, ante los integrantes de éste, en los siguientes términos:
+El o la Presidente/a Municipal del Ayuntamiento electo, tomará protesta de Ley, en la sesión de instalación, ante los integrantes de éste, en los siguientes términos:
 
-"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Quintana Roo, las leyes que de ellas emanen y los acuerdos y disposiciones dictados por el Ayuntamiento y desempeñar leal y patrióticamente el cargo de Presidente Municipal que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación, del Estado de Quintana Roo y de este Municipio. Si así no lo hiciere que el pueblo me lo demande".
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-Concluida la protesta, el Presidente Municipal tomará la protesta a los demás miembros del Ayuntamiento presentes, bajo la fórmula siguiente:
+"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Quintana Roo, las leyes que de ellas emanen y los acuerdos y disposiciones dictados por el Ayuntamiento y desempeñar leal y patrióticamente el cargo de Presidente/a Municipal que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación, del Estado de Quintana Roo y de este Municipio. Si así no lo hiciere que el pueblo me lo demande".
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+Concluida la protesta, el o la Presidente/a Municipal tomará la protesta a los demás miembros del Ayuntamiento presentes, bajo la fórmula siguiente:
 
 "¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Quintana Roo, las leyes que de ellas emanen y los acuerdos y disposiciones dictados por el Ayuntamiento y desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido, mirando en todo por el bien y prosperidad de la Nación, del Estado de Quintana Roo y de este Municipio?".
 
-A lo cual, el Síndico y los Regidores, levantando la mano derecha dirán:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+A lo cual, el o la Síndico/a y los o las Regidores/as, levantando la mano derecha dirán:
 
 "Si, protesto".
 
-El Presidente Municipal agregará: "Si así no lo hicieran, que el pueblo se los demande".
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+El o la Presidente/a Municipal agregará: "Si así no lo hicieran, que el pueblo se los demande".
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 53.
 
-En caso de que no se presentare el Presidente Municipal electo a rendir la protesta de Ley, el Primer Regidor o a falta de éste, a quien se elija por mayoría de votos de la totalidad de los integrantes del Ayuntamiento, rendirá protesta, y procederá a tomarla a los demás miembros del Ayuntamiento presentes.
+En caso de que no se presentare el o la Presidente/a Municipal electo a rendir la protesta de Ley, el o la Primer Regidor/a o a falta de éste, a quien se elija por mayoría de votos de la totalidad de los integrantes del Ayuntamiento, rendirá protesta, y procederá a tomarla a los demás miembros del Ayuntamiento presentes.
 
 En caso de que la sesión de instalación no se hubiere celebrado en la fecha señalada en el Artículo 48 de esta Ley, por inasistencia de la mayoría de los integrantes del Ayuntamiento electo, la Legislatura del Estado, podrá convocar a una nueva sesión de instalación a celebrarse dentro de las cuarenta y ocho horas siguientes, sin perjuicio de que proceda en términos del Artículo 109 fracción II de esta Ley.
 
-Concluida la sesión de instalación, el Presidente Municipal electo, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes, para que asuman su cargo en un plazo no mayor de quince días, y a falta de éstos, se llamará a los suplentes respectivos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+Concluida la sesión de instalación, el o la Presidente/a Municipal electo, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes, para que asuman su cargo en un plazo no mayor de quince días, y a falta de éstos, se llamará a los suplentes respectivos.
 
 Cuando el suplente respectivo, no pueda entrar al desempeño del cargo, el Ayuntamiento por el voto de las dos terceras partes de sus miembros, procederá a nombrar de entre los vecinos del Municipio a quien ocupará el cargo, quien en todo caso deberá satisfacer los requisitos exigidos para ser miembro del Ayuntamiento, con excepción de lo previsto en la fracción III del Artículo 136 de la Constitución Política del Estado.
 
 Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 54.
 
-Al término de la Sesión de Instalación, el Ayuntamiento procederá en sesión ordinaria a lo siguiente:
+Al término de la sesión de Instalación, el Ayuntamiento procederá en sesión ordinaria a lo siguiente:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-l. Nombrar por mayoría de votos de sus integrantes al Secretario General, Tesorero, Contralor Municipal, Director de Seguridad Pública Municipal y los Directores de Ingresos y Egresos de la Tesorería Municipal;
+I. Nombrar por mayoría de votos de sus integrantes a quienes ejerzan la titularidad de la Secretaría General, Tesorería, Contraloría Municipal, Dirección de Seguridad Pública Municipal y los (sic) Direcciones de Ingresos y Egresos de la Tesorería Municipal;
 
 El nombramiento de los cargos indicados con antelación se hará, inicialmente, a propuesta del Presidente Municipal; en caso de que se rechazara una o más de éstas, el Ayuntamiento procederá a designar los faltantes de entre las propuestas que formulen, tanto el Presidente Municipal como los Regidores;
 
@@ -613,17 +653,21 @@ f) Relación de documentos que obran en los archivos del Municipio; y
 
 g) La demás información que se considere relevante para garantizar una continuidad en la buena marcha de los asuntos municipales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 56.
 
-El Presidente, Síndico, Tesorero, Contralor y Directores, deberán de verificar el contenido de la información señalada en el artículo anterior, en un plazo no mayor a sesenta días naturales contados a partir de la fecha de la instalación del Ayuntamiento. En el mismo plazo, la administración anterior, deberá aclarar y proporcionar la información adicional que se le solicite.
+El o la Presidente/a, Síndico/a, Tesorero/a, Contralor/a y Directores/as, deberán de verificar el contenido de la información señalada en el artículo anterior, en un plazo no mayor a sesenta días naturales contados a partir de la fecha de la instalación del Ayuntamiento. En el mismo plazo, la administración anterior, deberá aclarar y proporcionar la información adicional que se le solicite.
 
 ###### ARTÍCULO 57.
 
 En caso de que la administración entrante descubra irregularidades en el plazo señalado en el artículo anterior, deberá hacerlo del conocimiento del Órgano Superior de Fiscalización del Estado, para que éste proceda según corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 58.
 
-El Presidente Municipal comunicará oficialmente la instalación e integración del Ayuntamiento, a los Poderes Ejecutivo, Legislativo y Judicial del Estado y de la Federación.
+El o la Presidente/a Municipal comunicará oficialmente la instalación e integración del Ayuntamiento, a los Poderes Ejecutivo, Legislativo y Judicial del Estado y de la Federación.
 
 ## Título Quinto. De las Sesiones y Atribuciones del Ayuntamiento
 
@@ -633,9 +677,13 @@ El Presidente Municipal comunicará oficialmente la instalación e integración 
 
 El Ayuntamiento tendrá sesiones ordinarias o extraordinarias, públicas o privadas, solemnes y permanentes, en la forma, términos y condiciones que disponga su reglamento interior para cada caso, pero el número de sesiones ordinarias será cuando menos de dos al mes.
 
-Las sesiones del Ayuntamiento serán válidas, con la asistencia de más de la mitad de sus miembros, debiendo presidirla el Presidente Municipal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-Cuando el Presidente Municipal no asista a la sesión del Ayuntamiento, será suplido por el Primer Regidor. Si este último tampoco asiste a la sesión, deberá convocarse nuevamente, señalando fecha y hora para su desahogo.
+Las sesiones del Ayuntamiento serán válidas, con la asistencia de más de la mitad de sus miembros, debiendo presidirla el o la Presidente/a Municipal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+Cuando él o la Presidente/a Municipal no asista a la sesión del Ayuntamiento, será suplido por el o la Primer Regidor/a. Si éste último tampoco asiste a la sesión, deberá convocarse nuevamente, señalando fecha y hora para su desahogo.
 
 ###### ARTÍCULO 60.
 
@@ -645,23 +693,31 @@ Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo aquellos 
 
 La votación podrá ser a favor o en contra, ningún integrante del Ayuntamiento podrá abstenerse de votar, a no ser que se encuentre impedido legalmente, por lo que deberá excusarse. La excusa debe expresar concretamente la causa en que se funde.
 
-En caso de empate, el Presidente Municipal, o quien presida la sesión, tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+En caso de empate, el o la Presidente/a Municipal, o quien presida la sesión, tendrá voto de calidad.
 
 En el caso de que no asista el número de miembros necesarios para celebrar la sesión, se citará nuevamente, y se sancionará a los miembros que no asistieron, de conformidad con lo que establezca el Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 61.
 
-De cada sesión del Ayuntamiento, el Secretario General del mismo levantará por duplicado un acta, en la que se anotará una relación de los asuntos tratados y los acuerdos del Ayuntamiento, así como todo lo suscitado durante la sesión de que se trate, a la cual deberán adjuntarse los documentos relativos al asunto tratado.
+De cada sesión del Ayuntamiento, el o la Secretario/a General del mismo levantará por duplicado un acta, en la que se anotará una relación de los asuntos tratados y los acuerdos del Ayuntamiento, así como todo lo suscitado durante la sesión de que se trate, a la cual deberán adjuntarse los documentos relativos al asunto tratado.
 
-El acta deberá ser firmada por los integrantes del Ayuntamiento que participaron en la sesión y por el Secretario General del mismo.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+El acta deberá ser firmada por los integrantes del Ayuntamiento que participaron en la sesión y por el o la Secretario/a General del mismo.
 
 Las actas originales las conservará el propio Ayuntamiento, las cuales se foliarán y se encuadernarán trimestralmente, adjuntándose en cada volumen un índice general de acuerdos.
 
 Una copia certificada de las mismas, se enviará anualmente al Archivo General del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 62.
 
-El Secretario General del Ayuntamiento, es el responsable de los libros de actas del Ayuntamiento y está facultado para expedir copias certificadas de las mismas.
+El o la Secretario/a General del Ayuntamiento, es responsable de los libros de actas del Ayuntamiento y tiene la facultad para expedir copias certificadas de las mismas.
 
 ###### ARTÍCULO 63.
 
@@ -697,15 +753,19 @@ e) Expedir acuerdos que contengan la denominación de la categoría político- a
 
 f) Expedir las declaratorias que contengan la división municipal en Cabeceras Municipales, Alcaldías, Delegaciones y Subdelegaciones en la forma y número que estime necesaria;
 
-g) Convocar, por conducto del Presidente Municipal, a la elección de los integrantes de las Alcaldías, así como de los Delegados y Subdelegados Municipales que establezca el Ayuntamiento, en los términos dispuestos en la presente Ley y convocar también a elecciones extraordinarias cuando se trate de cubrir las vacantes de Alcalde, Delegados y Subdelegados;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+g) Convocar, por conducto de la Presidencia Municipal, a la elección de los integrantes de las Alcaldías, así como de los y las Delegados/as y Subdelegados/as Municipales que establezca el Ayuntamiento, en los términos dispuestos en la presente Ley y convocar también a elecciones extraordinarias cuando se trate de cubrir las vacantes de Alcalde, Delegados/as y Subdelegados/as;
 
-h) Nombrar y remover por mayoría de votos de sus integrantes al Secretario General, al Tesorero, al Contralor Municipal, al Director de Seguridad Pública y Tránsito y los Directores de Ingresos y Egresos de la Tesorería Municipal, a propuesta del Presidente Municipal o de los Regidores, en los términos previstos en la presente Ley;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+h) Nombrar y remover por mayoría de votos de sus integrantes al titular de la Secretaría General, de la Tesorería, de la Contraloría Municipal, de la Dirección de Seguridad Pública y Tránsito y las Direcciones de Ingresos y Egresos de la Tesorería Municipal, a propuesta de la o el Presidente/a Municipal o de las o los Regidores/as, en los términos previstos en la presente Ley;
 
 i) Crear las unidades administrativas que conforman la Administración Pública Municipal y reglamentar su funcionamiento;
 
-j) Conceder licencias a sus miembros hasta por noventa días y convocar a quienes deban suplirlos, así como sancionar a los miembros del Ayuntamiento de acuerdo con su reglamento interior;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+j) Conceder licencias a sus integrantes hasta por noventa días y convocar a quienes deban suplirlos, así como sancionar a los miembros del Ayuntamiento de acuerdo con su reglamento interior;
 
 k) Celebrar convenios con los gobiernos Federal, Estatal o Municipal y auxiliarlos en las funciones de su competencia;
 
@@ -809,7 +869,9 @@ f) Rendir a la Legislatura del Estado, para su revisión y fiscalización, la cu
 
 g) Dictar normas para la administración del Patrimonio Municipal;
 
-h) Autorizar al Presidente Municipal, a que solicite a la Legislatura del Estado, la aprobación para contraer obligaciones o contratar y obtener empréstitos, de conformidad con lo estipulado en la Ley de Deuda Pública del Estado, los que en todo caso deberán destinarse a inversiones públicas productivas;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+h) Autorizar al o la Presidente/a Municipal, a que solicite a la Legislatura del Estado, la aprobación para contraer obligaciones o contratar y obtener empréstitos, de conformidad con lo estipulado en la Ley de Deuda Pública del Estado, los que en todo caso deberán destinarse a inversiones públicas productivas;
 
 i) Proponer a la Legislatura Estatal, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente;
 
@@ -831,11 +893,31 @@ g) Auxiliar a las autoridades estatales y federales en la preservación del patr
 
 VI. En materia de Seguridad Pública y Tránsito:
 
-a) Garantizar el bienestar y tranquilidad de las personas y sus bienes, así como preservar y guardar el orden público en el territorio municipal, expidiendo para tal efecto los reglamentos, planes y programas respectivos;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+a) Garantizar el bienestar y tranquilidad de las personas y sus bienes, así como preservar y guardar el orden público en el territorio municipal, con base en la prevención social de la violencia y la delincuencia, expidiendo para tal efecto los reglamentos, planes y programas respectivos;
 
 b) Pugnar por la profesionalización de los Cuerpos de Policía Preventiva Municipal y Tránsito municipal;
 
 c) Celebrar convenios o acuerdos de coordinación con la Federación, el Estado y otros Municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+d) Participar y coadyuvar en las acciones de prevención, atención, sanción y erradicación de la violencia y de la delincuencia.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VII. En materia de Igualdad y género:
+
+a) Impartir cursos y talleres de prevención y asistencia para erradicar la violencia de género;
+
+b) Designar a los integrantes del Sistema Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia, y vigilar su correcta instalación y funcionamiento;
+
+c) Aprobar el Programa Municipal para la prevención social de la violencia y el Delito;
+
+d) Constituir una instancia administrativa para el Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del municipio, en los ámbitos económico, político, social, cultural, laboral y educativo, y
+
+e) La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
 ###### ARTÍCULO 67.
 
@@ -877,7 +959,7 @@ El Ayuntamiento, atendiendo a la diversidad y densidad poblacional, y a la compo
 
 El Ayuntamiento establecerá, cuando menos, las siguientes Comisiones Ordinarias:
 
-I., De Gobierno y Régimen Interior;
+I. De Gobierno y Régimen Interior;
 
 II. De Hacienda, Patrimonio y Cuenta;
 
@@ -903,9 +985,13 @@ X. De Espectáculos y Diversiones;
 
 XI. De Desarrollo social y Participación Ciudadana; y
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XII. De igualdad de Género.
+
 > <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XII. Del Trabajo y Previsión Social.
+XII (SIC). Del Trabajo y Previsión Social.
 
 ###### ARTÍCULO 73.
 
@@ -925,21 +1011,27 @@ En ningún caso podrá acordarse una retribución extraordinaria a los miembros 
 
 ### Capítulo II. De la Integración de las Comisiones
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 77.
 
-El Ayuntamiento, en la primera sesión ordinaria posterior a su instalación, a propuesta del Presidente Municipal, aprobará la integración de las Comisiones.
+El Ayuntamiento, en la primera sesión ordinaria posterior a su instalación, a propuesta del o la Presidente/a Municipal, aprobará la integración de las Comisiones.
 
 ###### ARTÍCULO 78.
 
 Las Comisiones se integran en forma plural y proporcional, atendiendo a la conformación del Ayuntamiento y solo por causas graves, determinadas por mayoría calificada, el Ayuntamiento podrá dispensar o remover del cargo a quien integre una Comisión.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 79.
 
-Las Comisiones estarán integradas con al menos tres miembros del Ayuntamiento, que actuarán en forma colegiada, de los cuales uno será el Presidente, Secretario y Vocal.
+Las Comisiones estarán integradas con al menos tres integrantes del Ayuntamiento, que actuarán en forma colegiada, de los cuales uno será el o la Presidente/a, Secretario/a y Vocal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 80.
 
-En el reglamento que al efecto expida el Ayuntamiento se establecerán las atribuciones del Presidente, Secretario y Vocal de las Comisiones.
+En el reglamento que al efecto expida el Ayuntamiento se establecerán las atribuciones del o la Presidente/a, Secretario/a y Vocal de las Comisiones.
 
 ###### ARTÍCULO 81.
 
@@ -959,9 +1051,11 @@ Las Comisiones tendrán la facultad de realizar tareas de investigación, vigila
 
 Las Comisiones en ejercicio de sus funciones, tendrán facultades suficientes para solicitar por escrito a los servidores públicos de la administración municipal, la información que requieran para el despacho de los asuntos de su conocimiento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 85.
 
-Previa autorización del Presidente Municipal, las Comisiones podrán llamar a comparecer a los titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia.
+Previa autorización del o la Presidente/a Municipal, las Comisiones podrán llamar a comparecer a los titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia.
 
 ###### ARTÍCULO 86.
 
@@ -977,15 +1071,21 @@ El Reglamento interno del Ayuntamiento establecerá las funciones específicas d
 
 ## Título Séptimo. De los Miembros del Ayuntamiento
 
-### Capítulo I. De las Facultades y Obligaciones del Presidente Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo I. De las Facultades y Obligaciones de la Presidencia Municipal
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 89.
 
-El Presidente Municipal, es el titular del Gobierno y de la Administración Pública Municipal. Será el responsable de ejecutar y comunicar las decisiones del Ayuntamiento. Está obligado a residir en el Municipio durante el ejercicio de su periodo constitucional.
+El o la Presidente/a Municipal, es titular del Gobierno y de la Administración Pública Municipal. Será responsable de ejecutar y comunicar las decisiones del Ayuntamiento. Es su obligación residir en el Municipio durante el ejercicio de su periodo constitucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 90.
 
-El Presidente Municipal tendrá las siguientes facultades y obligaciones:
+El o la Presidente/a Municipal tendrá las siguientes facultades y obligaciones:
 
 I. Cumplir y hacer cumplir las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como los acuerdos y resoluciones que emita el Ayuntamiento;
 
@@ -1003,15 +1103,15 @@ VII. Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno d
 
 VIII. Tomar la protesta de Ley a los Regidores y Síndico del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-IX. Proponer al Ayuntamiento, los nombramientos del Secretario General del Ayuntamiento, Tesorero Municipal, Contralor Municipal, Director de Seguridad Pública y Tránsito Municipal y los Directores de Ingresos y Egresos de la Tesorería Municipal;
+IX. Proponer al Ayuntamiento, los nombramientos del titular de la Secretaría General del Ayuntamiento, Tesorería Municipal, Contraloría Municipal, Dirección de Seguridad Pública y Tránsito Municipal y las Direcciones de Ingresos y Egresos de la Tesorería Municipal;
 
 X. Nombrar y remover a los servidores públicos municipales cuya designación no sea facultad exclusiva del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XI. Rendir al Ayuntamiento, entre el 11 y el 20 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
+XI. Rendir al Ayuntamiento, entre el 11 y 20 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne; dicho informe también deberá contener las acciones instrumentadas en materia de igualdad y género, así como de prevención y sanción de la violencia y del delito;
 
 XII. Proponer al Ayuntamiento, el número y composición de las diversas Comisiones que deberán constituirse en el Ayuntamiento;
 
@@ -1047,13 +1147,17 @@ XXVII. Ejercer las atribuciones que le confieran las leyes federales o estatales
 
 XXVIII. Cooperar con las autoridades federales y estatales en la ejecución de normas relativas a salud pública, prevención de seguridad civil, educación, población, trabajo, culto religioso y procesos electorales en la forma y términos que establecen las leyes correspondientes;
 
-XXIX. Presentar el proyecto del Presupuesto de Ingresos y Egresos al Ayuntamiento para su aprobación; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXIX. Presentar el proyecto del Presupuesto de Ingresos y Egresos al Ayuntamiento para su aprobación. En el caso del Presupuesto de Egresos deberá considerar para el diseño y elaboración del mismo, la perspectiva de género; y
 
 XXX. Las demás que le señalen los acuerdos, reglamentos y demás disposiciones administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 91.
 
-Son atribuciones de los Presidentes Municipales, en materia de Seguridad Pública Municipal, las siguientes:
+Son atribuciones de la Presidencia Municipal, en materia de Seguridad Pública Municipal, las siguientes:
 
 I. Ejercer el mando sobre la Policía Preventiva Municipal y Tránsito Municipal, salvo lo dispuesto por el Artículo 115 fracción VII de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1069,9 +1173,11 @@ VI. Ejecutar los acuerdos del Ayuntamiento relacionados con la seguridad públic
 
 ### Capítulo II. De las Facultades y Obligaciones del Síndico Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 92.
 
-Al Síndico Municipal le corresponden las siguientes atribuciones y obligaciones:
+Al Síndico/a Municipal le corresponden las siguientes atribuciones y obligaciones:
 
 I. Vigilar el correcto funcionamiento de la Hacienda Pública Municipal y presidir la Comisión de Hacienda del Ayuntamiento;
 
@@ -1081,7 +1187,9 @@ III. Presentar al Ayuntamiento los informes o dictámenes que se le soliciten en
 
 IV. Formular el inventario general de bienes del Municipio;
 
-V. Ser Apoderado Jurídico del Ayuntamiento ante instancias judiciales en los que el Municipio sea parte;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+V. Ser Apoderado/a Jurídico del Ayuntamiento ante instancias judiciales en los que el Municipio sea parte;
 
 VI. Auxiliar al Ministerio Público, tanto Federal como Estatal, en el ejercicio de sus facultades constitucionales cuando éstos lo soliciten;
 
@@ -1099,11 +1207,15 @@ XII. Solicitar y obtener del Tesorero Municipal, la información relativa a la H
 
 XIII. Las demás que le atribuyan la presente Ley, los reglamentos y acuerdos del Ayuntamiento.
 
-### Capítulo III. De las Facultades y Obligaciones de los Regidores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo III. De las Facultades y Obligaciones de la Regiduría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 93.
 
-A los Regidores les corresponden las siguientes atribuciones y obligaciones:
+A quienes ejerzan una regiduría, esto es, a las y los regidores/as les corresponden las siguientes atribuciones y obligaciones:
 
 I. Asistir puntualmente a las sesiones del Ayuntamiento;
 
@@ -1119,29 +1231,37 @@ VI. Vigilar los ramos de la administración que le encomiende el Ayuntamiento, l
 
 VII. Presentar al Ayuntamiento, Iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-Presentar propuestas para los cargos de Secretario General, Tesorero, Contralor Municipal, Director de Seguridad Pública Municipal y los Directores de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por el Presidente Municipal;
+Presentar propuestas para los cargos de Secretario/a General, Tesorero/a, Contralor/a Municipal, Director/a de Seguridad Pública Municipal y los Directores/as de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por la Presidencia Municipal.
 
-VIII. Solicitar al Síndico, informes relativos a su gestión, referente a la Hacienda, Presupuesto y Patrimonio Municipales; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Solicitar al Síndico/a, informes relativos a su gestión, referente a la Hacienda, Presupuesto y Patrimonio Municipales; y
 
 IX. Las demás que les atribuyan la presente Ley, los reglamentos y acuerdos del Ayuntamiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ### Capítulo IV
 
-De las Suplencias y Ausencias de los Miembros del Ayuntamiento.
+De las Suplencias y Ausencias de los Integrantes del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 94.
 
-Las ausencias o faltas temporales del Presidente Municipal que no excedan de quince días naturales, no requerirán de autorización por parte del Ayuntamiento. Cuando la ausencia o falta temporal fuere mayor de quince días naturales y hasta noventa, deberá solicitar licencia al Ayuntamiento para que éste la autorice.
+Las ausencias o faltas temporales del o la Presidente/a Municipal que no excedan de quince días naturales, no requerirán de autorización por parte del Ayuntamiento. Cuando la ausencia o falta temporal fuere mayor de quince días naturales y hasta noventa, deberá solicitar licencia al Ayuntamiento para que éste la autorice.
 
-Las ausencias o faltas temporales del Presidente Municipal serán cubiertas por el Primer Regidor, como encargado del despacho.
+Las ausencias o faltas temporales del o la Presidente/a Municipal serán cubiertas por el Primer Regidor/a, como encargado/a del despacho.
 
-Cuando el Primer Regidor no pudiese asumir el encargo, éste será desempeñado por el Regidor que al efecto designe el propio Ayuntamiento.
+Cuando el Primer Regidor/a no pudiese asumir el encargo, éste será desempeñado por el o la Regidor/a que al efecto designe el propio Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 95.
 
-Las ausencias o faltas temporales del Síndico y los Regidores del Ayuntamiento, que excedan de quince días naturales y hasta noventa días, requieren de autorización del Ayuntamiento. En estos casos, se llamará al suplente respectivo para que asuma el cargo.
+Las ausencias o faltas temporales del o la Síndico/a y los o las Regidores/as del Ayuntamiento, que excedan de quince días naturales y hasta noventa días, requieren de autorización del Ayuntamiento. En estos casos, se llamará al suplente respectivo para que asuma el cargo.
 
 ###### ARTÍCULO 96.
 
@@ -1185,9 +1305,11 @@ VII. Inhabilitación.
 
 VIII. Sentencia condenatoria por delito intencional.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 100.
 
-Las ausencias temporales de los demás titulares de las dependencias o unidades administrativas del Municipio, serán cubiertas conforme al procedimiento que se establezca en el reglamento o por la persona que designe el Presidente Municipal.
+Las ausencias temporales de los demás titulares de las dependencias o unidades administrativas del Municipio, serán cubiertas conforme al procedimiento que se establezca en el reglamento o por la persona que designe el o la Presidente/a Municipal.
 
 ## Título Octavo
 
@@ -1339,13 +1461,17 @@ Las resoluciones que emita la Legislatura del Estado en los procedimientos previ
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 115.
 
-Para auxiliar al Presidente Municipal en sus funciones y en atención a las necesidades del Municipio, los respectivos Ayuntamientos, podrán crear las Unidades Administrativas necesarias para el despacho de los asuntos administrativos y conferirles las atribuciones y obligaciones que estimen convenientes.
+Para auxiliar al o la Presidente/a Municipal en sus funciones y en atención a las necesidades del Municipio, los respectivos Ayuntamientos, podrán crear las Unidades Administrativas necesarias para el despacho de los asuntos administrativos y conferirles las atribuciones y obligaciones que estimen convenientes.
 
 El propio Ayuntamiento, en el Reglamento respectivo, podrá distribuir y asignar las atribuciones entre las Unidades Administrativas en ejercicio.
 
-El Presidente Municipal, el Síndico, los Regidores, el Secretario General, el Tesorero, el Oficial Mayor, los Directores Generales o Coordinadores y demás servidores públicos municipales con nivel equiparable a los anteriormente señalados, estarán obligados a comparecer ante el Congreso del Estado, cuando la Legislatura estime necesario recabar alguna información relativa a los Ayuntamientos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+El o la Presidente/a Municipal, el o la Síndico/a, los o las Regidores/as, el o la Secretario/a General, el o la Tesorero/a, el o la Oficial Mayor, los o las Directores/as Generales o Coordinadores/as y demás servidores públicos municipales con nivel equiparable a los anteriormente señalados, tendrán la obligación de comparecer ante el Congreso del Estado, cuando la Legislatura estime necesario recabar alguna información relativa a los Ayuntamientos.
 
 ###### ARTÍCULO 116.
 
@@ -1369,17 +1495,21 @@ De la Secretaría General del Ayuntamiento.
 
 Cada Ayuntamiento contará con una Secretaría General, encargada del despacho de los asuntos de carácter político-administrativo del propio Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 118.
 
-El Secretario General será designado por la mayoría de los miembros del Ayuntamiento.
+El o la Secretario/a General será designado por la mayoría de los miembros del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 119.
 
-Para ser Secretario General del Ayuntamiento se requiere:
+Para ser Secretario/a General del Ayuntamiento se requiere:
 
-I. Ser mexicano por nacimiento y ciudadano quintanarroense, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+I. Ser mexicano/a por nacimiento y ciudadano quintanarroense, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener como mínimo, veinticinco años cumplidos, el día de la designación;
 
@@ -1393,25 +1523,33 @@ VI. No haber sido sentenciado por delito intencional, ni sometido a juicio de re
 
 V (sic). No estar impedido, conforme a las disposiciones contenidas en la presente Ley y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 120.
 
-Son facultades y obligaciones del Secretario General del Ayuntamiento:
+Son facultades y obligaciones del o la Secretario/a General del Ayuntamiento:
 
 I. Citar por escrito a los miembros del Ayuntamiento, a las sesiones a las que convoque el Presidente Municipal;
 
 II. Asistir a las sesiones del Ayuntamiento con voz, pero sin voto;
 
-III. Fungir como Secretario de Actas en las Sesiones de Ayuntamiento, llevando los libros o folios que autorice el mismo, los cuales deberán rubricarse en todas y cada de sus hojas y autorizarse al final de cada acta;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+III. Ejercer la Secretaría de Actas en las Sesiones de Ayuntamiento, llevando los libros o folios que autorice el mismo, los cuales deberán rubricarse en todas y cada de sus hojas y autorizarse al final de cada acta;
 
 IV. Cumplir y hacer cumplir en la esfera de su competencia, el Reglamento Interior y demás disposiciones que dicte el ayuntamiento;
 
-V. Despachar los asuntos administrativos que le atribuya el Ayuntamiento y atender los asuntos que el Presidente Municipal le encomiende;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+V. Despachar los asuntos administrativos que le atribuya el Ayuntamiento y atender los asuntos que la Presidencia Municipal le encomiende;
 
 VI. Organizar, dirigir y controlar el archivo municipal y la correspondencia oficial del Ayuntamiento;
 
 VII. Organizar los actos cívicos de acuerdo al calendario oficial;
 
-VIII. Expedir los documentos, certificaciones y constancias que acuerde el Ayuntamiento o el Presidente Municipal;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Expedir los documentos, certificaciones y constancias que acuerde el Ayuntamiento o la Presidencia Municipal;
 
 IX. Refrendar con su firma todos los reglamentos y disposiciones emanados del Ayuntamiento;
 
@@ -1435,15 +1573,19 @@ XVII. Compilar las disposiciones jurídicas que tengan vigencia en el Municipio 
 
 XVIII. Auxiliar a las autoridades estatales y federales, en el cumplimiento de las leyes y reglamentos de su competencia;
 
-XIX. Intervenir y ejercer la vigilancia que en materia electoral, le señalen las leyes al Presidente Municipal o los convenios que para tal efecto se celebren;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XIX. Intervenir y ejercer la vigilancia que en materia electoral, le señalen las leyes al o la Presidente/a Municipal o los convenios que para tal efecto se celebren;
 
 XX. Formular, con la intervención del Síndico, el inventario general y registro de libros especiales, de los bienes muebles e inmuebles propiedad del Municipio, del dominio público y privado, expresando todos los datos de identificación, valor y destino de los mismos; y
 
 XXI. Las demás que resulten compatibles al ejercicio de cargo y que le confieren las leyes, reglamentos y demás disposiciones vigentes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 121.
 
-Para el desempeño de sus funciones y el desahogo de los asuntos legales, el Secretario General del Ayuntamiento, estará asistido de una Unidad Técnica Jurídica a cargo de un Licenciado en Derecho, que acredite su profesión, nombrado por el Presidente Municipal.
+Para el desempeño de sus funciones y el desahogo de los asuntos legales, la Secretaría General del Ayuntamiento, estará asistido de una Unidad Técnica Jurídica a cargo de una persona con licenciatura en Derecho, que acredite su profesión, nombrado por la Presidencia Municipal.
 
 ### Capítulo III. De la Tesorería Municipal
 
@@ -1453,11 +1595,15 @@ Para el desempeño de sus funciones y el desahogo de los asuntos legales, el Sec
 
 La Tesorería Municipal estará a cargo de una persona distinta de los integrantes del Ayuntamiento, denominada Tesorero Municipal, que será nombrado o removido por la mayoría de los integrantes del Ayuntamiento.
 
-El Tesorero será responsable del manejo de los valores a su cuidado y deberá otorgar caución igual que todos los funcionarios y empleados que manejen fondos o valores de propiedad municipal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+El o la Tesorero/a será responsable del manejo de los valores a su cuidado y deberá otorgar caución igual que todos los funcionarios y empleados que manejen fondos o valores de propiedad municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 123.
 
-El Tesorero Municipal tendrá a su cargo la administración de la Hacienda Pública Municipal, y para desempeñar el cargo, se requiere:
+El o la Tesorero/a Municipal tendrá a su cargo la administración de la Hacienda Pública Municipal, y para desempeñar el cargo, se requiere:
 
 I. Ser mexicano por nacimiento y ciudadano quintanarroense, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -1465,7 +1611,9 @@ II. Contar con una residencia y vecindad mínima de cinco años en el Municipio 
 
 III. Ser persona de notoria buena conducta y no haber sido sentenciado por delito intencional, ni sometido a juicio de responsabilidad como funcionario público;
 
-IV. Tener los conocimientos y la capacidad técnica suficiente para el desempeño del cargo, a juicio del Presidente Municipal y del Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Tener los conocimientos y la capacidad técnica suficiente para el desempeño del cargo, a juicio de la o el Presidente/a Municipal y del Ayuntamiento;
 
 V. No pertenecer al estado eclesiástico, ni ser Ministro de algún culto religioso;
 
@@ -1473,19 +1621,27 @@ VI. No estar impedido, conforme a las disposiciones contenidas en esta Ley; y
 
 VII. Otorgar la caución que le fije el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 124.
 
-El Tesorero Municipal, al tomar posesión de su cargo, deberá verificar los datos consignados en el documento que sobre el estado financiero guarda la hacienda municipal; el Tesorero saliente deberá formular el documento correspondiente, el cual deberá estar visado por el Presidente Municipal y Síndico salientes. Realizadas las operaciones de verificación, firmará de conformidad o anotará las objeciones según el caso.
+El o la Tesorero/a Municipal, al tomar posesión de su cargo, deberá verificar los datos consignados en el documento que sobre el estado financiero guarda la hacienda municipal; el o la Tesorero/a saliente deberá formular el documento correspondiente, el cual deberá estar visado por el o la Presidente/a Municipal y Síndico/a salientes. Realizadas las operaciones de verificación, firmará de conformidad o anotará las objeciones según el caso.
 
-Por inventario recibirá los muebles y útiles de la dependencia, los libros de registro anotados al día y la relación de deudores y acreedores en todos los ramos. El acta que se levante, con respecto al corte de caja e inventarios, se formulará por quintuplicado y se distribuirán los ejemplares en la siguiente forma: original al Ayuntamiento, copia al Órgano Superior de Fiscalización del Estado, copia al Archivo de la Tesorería, copia al Tesorero Municipal saliente y copia al Tesorero Municipal que recibe.
+Por inventario recibirá los muebles y útiles de la dependencia, los libros de registro anotados al día y la relación de deudores y acreedores en todos los ramos. El acta que se levante, con respecto al corte de caja e inventarios, se formulará por quintuplicado y se distribuirán los ejemplares en la
+
+(sic) siguiente forma: original al Ayuntamiento, copia al Órgano Superior de Fiscalización del Estado, copia al Archivo de la Tesorería, copia al Tesorero/a Municipal saliente y copia al Tesorero/a Municipal que recibe.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 125.
 
-Son facultades y obligaciones del Tesorero Municipal:
+Son facultades y obligaciones del o la Tesorero/a Municipal
 
 I. Cumplir y hacer cumplir la Ley de Hacienda de los Municipios del Estado, la Ley de Ingresos del Municipio, el Código Fiscal Municipal, y demás disposiciones legales, dentro de la esfera de su competencia;
 
-II. Elaborar y proponer al Presidente Municipal, los proyectos de leyes, reglamentos, medidas o disposiciones que tiendan a incrementar los ingresos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del Municipio, a efecto de que sean sometidos a la aprobación del Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+II. Elaborar y proponer al Presidente/a Municipal, los proyectos de leyes, reglamentos, medidas o disposiciones que tiendan a incrementar los ingresos y demás disposiciones que se requieran para el manejo de los asuntos tributarios del Municipio, a efecto de que sean sometidos a la aprobación del Ayuntamiento;
 
 III. Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Municipio, de conformidad con la Ley de Ingresos del Municipio, así como las participaciones que por ley o convenio le correspondan al Municipio en el rendimiento de impuestos federales y estatales;
 
@@ -1509,11 +1665,11 @@ XII. Ejercer el Presupuesto de Egresos y ejecutar los pagos de acuerdo con los p
 
 XIII. Organizar y llevar la contabilidad del Municipio y las estadísticas financieras del mismo;
 
-XIV. Proponer al Presidente Municipal, el nombramiento o remoción de los empleados a su cargo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+XIV. Proponer al Presidente/a Municipal, el nombramiento o remoción de los empleados a su cargo;
 
-Lo anterior con excepción de los Directores de Ingresos y Egresos de la Tesorería Municipal;
+Lo anterior con excepción de los o las Directores/as de Ingresos y Egresos de la Tesorería Municipal;
 
 XV. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del mes anterior para su glosa y hacerlo del conocimiento de los habitantes del Municipio;
 
@@ -1521,29 +1677,37 @@ XVI. Llevar un registro de todos los bienes inmuebles afectados a un servicio p�
 
 XVII. Cubrir los sueldos de empleados y los gastos necesarios con entera sujeción al presupuesto de egresos;
 
-XVIII. Controlar y suscribir, conjuntamente con el Presidente Municipal, los títulos de crédito, contratos y convenios que obliguen económicamente al Municipio, así como las cuentas de cheques mediante las cuales se efectúen erogaciones; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XVIII. Controlar y suscribir, conjuntamente con el o la Presidente/a Municipal, los títulos de crédito, contratos y convenios que obliguen económicamente al Municipio, así como las cuentas de cheques mediante las cuales se efectúen erogaciones; y
 
 XIX. Las demás que le confieran las leyes y reglamentos y los específicos que le confiera el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 126.
 
-El Tesorero será responsable civil y penalmente de los cobros que se hicieren por contribuciones adelantadas que excedan del período constitucional que debe durar el Ayuntamiento que lo nombró, cuando carezca de la autorización de la Legislatura del Estado.
+El o la Tesorero/a será responsable civil y penalmente de los cobros que se hicieren por contribuciones adelantadas que excedan del período constitucional que debe durar el Ayuntamiento que lo nombró, cuando carezca de la autorización de la Legislatura del Estado.
 
 ### Capítulo IV. De la Contraloría Municipal
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 127.
 
-Los Ayuntamientos por el acuerdo de la mayoría de sus integrantes deberán designar a un Contralor Municipal.
+Los Ayuntamientos por el acuerdo de la mayoría de sus integrantes deberán designar a quien ejerza la titularidad de la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 128.
 
-Para ser Contralor Municipal se deben satisfacer los mismos requisitos señalados para el Tesorero Municipal, con excepción de lo establecido en la fracción VII del Artículo 123 de la presente Ley.
+Para ser Contralor/a Municipal se deben satisfacer los mismos requisitos señalados para el Tesorero/a Municipal, con excepción de lo establecido en la fracción VII del Artículo 123 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 129.
 
-El Contralor Municipal en el ámbito de su competencia, tendrá las siguientes facultades y obligaciones:
+La Contraloría Municipal en el ámbito de su competencia, tendrá las siguientes facultades y obligaciones:
 
 I. Establecer y operar un sistema de control y evaluación del gasto público en relación al presupuesto de egresos, las políticas y los programas municipales;
 
@@ -1555,7 +1719,9 @@ IV. Formular al Ayuntamiento propuestas para que, en el estatuto o reglamento re
 
 V. Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones que en materia de planeación, presupuesto, ingresos, financiamiento, inversión, deuda, patrimonio y valores tenga el Ayuntamiento;
 
-VI. Practicar auditorias al Presidente Municipal, dependencias del Ayuntamiento o Entidades Paramunicipales, a efecto de verificar el cumplimiento de los objetivos contenidos en los programas respectivos y la honestidad en el desempeño de sus cargos de los titulares de las dependencias y entidades municipales y de los servidores públicos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Practicar auditorias a la Presidencia Municipal, dependencias del Ayuntamiento o Entidades Paramunicipales, a efecto de verificar el cumplimiento de los objetivos contenidos en los programas respectivos y la honestidad en el desempeño de sus cargos de los titulares de las dependencias y entidades municipales y de los servidores públicos;
 
 VII. Proporcionar información a las autoridades competentes, sobre el destino y uso de los ingresos del Municipio, así como de los provenientes de participaciones, aportaciones y demás recursos asignados al Ayuntamiento;
 
@@ -1583,9 +1749,11 @@ XVIII. Imponer sanciones a los servidores públicos que incumplan las instruccio
 
 XIX. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 130.
 
-El Contralor Municipal está impedido para intervenir en cualquier asunto en el que estén involucrados, de manera directa e indirecta, sus intereses, los de su cónyuge, concubinario o parientes consanguíneos en línea recta sin limitación de grados, colaterales hasta el cuarto grado.
+El o la Contralor/a Municipal está impedido para intervenir en cualquier asunto en el que estén involucrados, de manera directa e indirecta, sus intereses, los de su cónyuge, concubinario o parientes consanguíneos en línea recta sin limitación de grados, colaterales hasta el cuarto grado.
 
 ### Capítulo V. De la Dirección de Seguridad Pública y Tránsito Municipal
 
@@ -1597,9 +1765,11 @@ En cada Municipio funcionarán cuerpos de Seguridad Pública y Transito, cuya fu
 
 Los cuerpos de Seguridad Pública y Tránsito de los Municipios coordinarán sus actividades con los correspondientes organismos del Estado y la Federación, en el marco de los Sistemas Nacional y Estatal de Seguridad Pública, conforme a los convenios que al efecto se suscriban.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 133.
 
-La Policía Preventiva Municipal estará al mando del Presidente Municipal en los términos del Reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La Policía Preventiva Municipal estará al mando del o la Presidente/a Municipal en los términos del Reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 El Ejecutivo Federal tendrá el mando de la Fuerza Pública en los Municipios donde resida habitual o transitoriamente.
 
@@ -1637,23 +1807,79 @@ IX. Auxiliar al Ministerio Público en la investigación y persecución de los d
 
 X. Las demás que le señalen las leyes, reglamentos, el Bando de Policía y Gobierno y disposiciones y/o acuerdos del propio Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 137.
 
-El Presidente Municipal podrá celebrar convenios con las dependencias estatales, instituciones y corporaciones de capacitación, en materia de seguridad pública que estime pertinente.
+La Presidencia Municipal podrá celebrar convenios con las dependencias estatales, instituciones y corporaciones de capacitación, en materia de seguridad pública que estime pertinente.
 
-### Capítulo VI. De las Relaciones Laborales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-### Capítulo VII. Del Servicio Público de Carrera Municipal
+### Capítulo VI del Título Noveno. Del Sistema Municipal para la Prevención Social de la Violencia y la Delincuencia
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 137 BIS.- El Sistema Municipal para la Prevención Social de la Violencia y la Delincuencia es el conjunto de Dependencias y Entidades de la Administración Pública Municipal en interacción y vinculación permanente entre sí, para el desarrollo de acciones, políticas y lineamientos integrales de cohesión social, participación ciudadana, cultura de la paz, cultura de la legalidad, de derechos humanos y Desarrollo Institucional en materia de prevención social de la violencia.
+
+El Sistema Municipal tendrá por objeto reducir los factores de riesgo que favorezcan la generación de violencia y delincuencia, así como combatir las distintas causas y factores que la generan dentro del territorio municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 137 TER.- Corresponderá al Ayuntamiento la designación de los integrantes del Sistema Municipal, pero en todo caso serán miembros propietarios los Titulares del Sistema Municipal para el Desarrollo Integral de la Familia y del Mecanismo de Adelanto de las Mujeres en el Municipio correspondiente.
+
+Dicho Sistema Estatal será presidido por el Presidente Municipal, recayendo la Secretaria Ejecutiva del mismo en la Titular del Mecanismo de Adelanto de las Mujeres, quien llevará la representación del municipio al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia, en caso de ausencia podrá suplir dicha titularidad el Sistema Municipal para el Desarrollo Integral de la Familia; y al mismo podrán ser invitados los servidores públicos o miembros de la sociedad civil, que se considere procedente a las sesiones ordinarias o extraordinarias.
+
+En la sesión de instalación del Sistema Municipal se aprobará su Reglamento Interior que establecerá las disposiciones que regulen la celebración de sus sesiones; los mecanismos de votación para que sus acuerdos y resoluciones tengan validez.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 137 QUÁTER.- Para el adecuado cumplimiento de sus funciones el Sistema Municipal en el ámbito de sus atribuciones deberá:
+
+I. Proporcionar información a las comunidades para enfrentar los problemas derivados de la delincuencia; siempre que no violente los principios de confidencialidad y reserva;
+
+II. Apoyar el intercambio de experiencias, investigación académica y aplicación práctica de conocimientos basados en evidencias;
+
+III. Apoyar la organización y la sistematización de experiencias exitosas en el combate a los delitos;
+
+IV. Compartir conocimientos, según corresponda, con investigadores, entes normativos, educadores, especialistas de otros sectores pertinentes y la sociedad en general;
+
+V. Repetir intervenciones exitosas, concebir nuevas iniciativas y pronosticar nuevos problemas de delincuencia y posibilidades de prevención;
+
+VI. Generar bases de datos especializadas que permitan administrar la prevención social de la violencia y la delincuencia, así como reducir la victimización y persistencia de delitos en zonas con altos niveles de delincuencia;
+
+VII. Realizar estudios periódicos sobre la victimización y la delincuencia, y
+
+VIII. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+ARTÍCULO 137 QUINQUIES.- El Programa Municipal deberán diseñarse considerando la participación interinstitucional con enfoque multidisciplinario, enfatizando la colaboración con universidades y entidades orientadas a la investigación, asimismo se orientarán a contrarrestar, neutralizar o disminuir los factores de riesgo y las consecuencias, daño e impacto social y comunitario de la violencia y la delincuencia, con base en objetivos precisos, claros y medibles, a través de:
+
+I. Diagnóstico sobre la realidad de la violencia y la delincuencia, esto es detectar factores sociales, culturales y económicos detonadores de la violencia social, así como los grupos prioritarios que deben ser atendidos;
+
+II. Investigaciones multidisciplinarias desde el enfoque de la prevención, a través de la perspectiva de género, grupos vulnerables, seguridad ciudadana, factores de riesgo, cohesión social y comunitaria;
+
+III. Capacitación a servidores públicos para conocer los principios de la prevención social, la perspectiva de género, cultura de la legalidad y derechos humanos;
+
+IV. Promoción de la participación ciudadana;
+
+V. Promoción y difusión de los derechos humanos, de la cultura de la paz y la legalidad; y
+
+VI. Evaluación y Seguimiento;
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 30 DE SEPTIEMBRE DE 2013)
+
+### Capítulo VII. De las Relaciones Laborales
 
 ###### ARTÍCULO 138.
 
 Las relaciones de trabajo de los Municipios y sus empleados, se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, el Reglamento de Condiciones Generales del Trabajo y la normatividad laboral federal de aplicación supletoria.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2012)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013) (REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 30 DE SEPTIEMBRE DE 2013)
 
-### Capítulo I. De los Actos Administrativos
+### Capítulo VIII. Del Servicio Público de Carrera Municipal
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 138
 
@@ -1733,7 +1959,7 @@ VI. Las demás, que señale la Ley del Servicio Público de Carrera del Estado d
 
 ## Título Décimo. Actos Administrativos
 
-### Capítulo II. Del Procedimiento Administrativo
+### Capítulo I. De los Actos Administrativos
 
 ###### ARTÍCULO 139.
 
@@ -1789,7 +2015,7 @@ V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo ben
 
 VI. Por revocación.
 
-### Capítulo III. De las Visitas de Verificación
+### Capítulo II. Del Procedimiento Administrativo
 
 ###### ARTÍCULO 143.
 
@@ -1861,7 +2087,7 @@ IV. La declaración de caducidad; y
 
 V. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento jurídico ni verse sobre materias que no sean susceptibles de transacción, y tengan por objeto satisfacer el interés público.
 
-### Capítulo IV. De las Sanciones Administrativas
+### Capítulo III. De las Visitas de Verificación
 
 ###### ARTÍCULO 155.
 
@@ -1875,7 +2101,7 @@ Cuando derivado de sus visitas de inspección las autoridades municipales tengan
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
-### Capítulo V. Del Recurso de Revisión
+### Capítulo IV. De las Sanciones Administrativas
 
 ###### ARTÍCULO 157.
 
@@ -1891,11 +2117,13 @@ IV. Clausura temporal o permanente, parcial o total; y
 
 V. Las demás que se señalen en los reglamentos respectivos.
 
-### Capítulo I. De los Servicios Públicos
+### Capítulo V. Del Recurso de Revisión
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 158.
 
-Los actos y resoluciones dictadas por el Ayuntamiento, por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnados mediante el Recurso de Revisión, cuando afecten intereses jurídicos de los particulares.
+Los actos y resoluciones dictadas por el Ayuntamiento, por el o la Presidente/a Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnados mediante el Recurso de Revisión, cuando afecten intereses jurídicos de los particulares.
 
 ###### ARTÍCULO 159.
 
@@ -1999,7 +2227,7 @@ VI. En los demás casos en que la improcedencia resulte de alguna disposición d
 
 ## Título Undécimo. De los Servicios Públicos Municipales
 
-### Capítulo II. De la Municipalización
+### Capítulo I. De los Servicios Públicos
 
 ###### ARTÍCULO 168.
 
@@ -2071,7 +2299,7 @@ IV. Mediante convenios de coordinación y asociación que suscriba con el Ejecut
 
 La prestación de los Servicios Públicos Municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada por la Contraloría Municipal.
 
-### Capítulo III. De las Concesiones
+### Capítulo II. De la Municipalización
 
 ###### ARTÍCULO 174.
 
@@ -2087,7 +2315,7 @@ El procedimiento de Municipalización se llevará a cabo mediante iniciativa del
 
 Una vez decretada la Municipalización del servicio, si el Ayuntamiento carece de recursos para prestarlo, podrá concesionarlo conforme a lo establecido en el siguiente capítulo y lo que se establezca en los bandos y reglamentos respectivos.
 
-### Capítulo IV. De los Convenios de Prestación de Servicios entre el Municipio y el Estado
+### Capítulo III. De las Concesiones
 
 ###### ARTÍCULO 177.
 
@@ -2185,7 +2413,9 @@ IV. La prohibición de enajenar o traspasar la concesión, o los derechos de ell
 
 No podrán otorgarse concesiones a:
 
-I. Miembros del Ayuntamiento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+I. Integrantes del Ayuntamiento;
 
 II. Servidores Públicos Municipales;
 
@@ -2221,9 +2451,11 @@ En los casos de terminación de las concesiones, el Ayuntamiento podrá convenir
 
 La caducidad de las concesiones será declarada administrativamente por el Presidente Municipal, previo acuerdo del Ayuntamiento, cuando no se inicie la prestación del servicio dentro del plazo señalado en la concesión, o cuando el concesionario no otorgue en tiempo y forma las garantías correspondientes. Para decretar la caducidad se oirá previamente al interesado, pero en el primer caso mencionado, opera de pleno derecho por el simple transcurso del tiempo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 187.
 
-Los Ayuntamientos, por conducto del Presidente Municipal podrán revocar las concesiones en los siguientes casos:
+Los Ayuntamientos, por conducto del o la Presidente/a Municipal podrán revocar las concesiones en los siguientes casos:
 
 I. Cuando el concesionario contravenga los términos del presente capítulo;
 
@@ -2267,11 +2499,13 @@ A petición formulada por los concesionarios antes de que expire el plazo de la 
 
 No serán objeto de concesión los Servicios de Seguridad Pública y Policía Preventiva y Tránsito.
 
-### Capítulo Único. De la Coordinación y Asociación de los Municipios
+### Capítulo IV. De los Convenios de Prestación de Servicios entre el Municipio y el Estado
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 192.
 
-Los servicios públicos a que se refiere esta Ley, podrán ser prestados con la intervención del Estado y de sus dependencias, cuando las condiciones económicas, administrativas y financieras de los municipios no sean suficientes para garantizar su eficaz prestación. Esta intervención del Estado se dará a solicitud del Presidente Municipal, previo acuerdo de las dos terceras partes del Ayuntamiento y mediante el convenio respectivo. En el propio convenio se expresará el servicio o los servicios en que se estime necesaria la intervención del Estado, así como los plazos, términos y condiciones financieras y económicas en que el Municipio solicite el concurso del Estado.
+Los servicios públicos a que se refiere esta Ley, podrán ser prestados con la intervención del Estado y de sus dependencias, cuando las condiciones económicas, administrativas y financieras de los municipios no sean suficientes para garantizar su eficaz prestación. Esta intervención del Estado se dará a solicitud del o la Presidente/a Municipal, previo acuerdo de las dos terceras partes del Ayuntamiento y mediante el convenio respectivo. En el propio convenio se expresará el servicio o los servicios en que se estime necesaria la intervención del Estado, así como los plazos, términos y condiciones financieras y económicas en que el Municipio solicite el concurso del Estado.
 
 ###### ARTÍCULO 193.
 
@@ -2305,7 +2539,7 @@ IV. En la declaratoria de la Legislatura, se determinarán las circunstancias, m
 
 ## Título Duodécimo. Coordinación y Asociación de los Municipios
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único. De la Coordinación y Asociación de los Municipios
 
 ###### ARTÍCULO 195.
 
@@ -2319,7 +2553,7 @@ En todo caso, para asegurar la continuidad de los servicios y de las funciones p
 
 ## Título Décimo Tercero. Formas de Participación Ciudadana
 
-### Capítulo II. Del Consejo Consultivo
+### Capítulo I. Disposiciones Generales
 
 ###### ARTÍCULO 197.
 
@@ -2349,19 +2583,25 @@ Los ciudadanos quintanarroenses podrán participar organizadamente en el anális
 
 Pueden participar, como personas físicas o morales, en el campo de lo social, económico, político, cultural, cívico, educativo y en cualquier otro que sea legal y provechoso para la comunidad.
 
-### Capítulo III. De los Comités de Participación Ciudadana
+### Capítulo II. Del Consejo Consultivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 201.
 
-El Consejo Consultivo Ciudadano, en su caso, será un Órgano de Consulta y Asesoría del Presidente Municipal cuyo objeto es:
+El Consejo Consultivo Ciudadano, en su caso, será un Órgano de Consulta y Asesoría de la Presidencia Municipal cuyo objeto es:
 
 I. El estudio y análisis de los asuntos públicos que sean puestos a su consideración, de los cuales emitirá el correspondiente dictamen;
 
 II. La presentación de alternativas viables para el mejor desarrollo de la comunidad, así como para la solución de los problemas que eventualmente surjan en la propia localidad.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 202.
 
-El Consejo Consultivo se integrará con un mínimo de seis y un máximo de doce miembros, quienes durarán en su cargo un año, quienes podrán ser reelectos y contará con un Presidente y un Secretario, electos de entre los miembros del propio consejo. En todo caso los integrantes del consejo deberán residir en la localidad.
+El Consejo Consultivo se integrará con un mínimo de seis y un máximo de doce miembros, quienes durarán en su cargo un año, quienes podrán ser reelectos y contará con un
+
+(sic) Presidente/a y un Secretario/a, elegidos de entre los integrantes del propio consejo. En todo caso los integrantes del consejo deberán residir en la localidad.
 
 ###### ARTÍCULO 203.
 
@@ -2371,17 +2611,29 @@ Los cargos serán honoríficos, gratuitos y a título personal, con independenci
 
 El Consejo Consultivo tendrá las siguientes funciones:
 
-I. Examinar las problemáticas o cuestiones que el Presidente Municipal le someta para su análisis a efecto de que presente su opinión o dictamen y las alternativas de solución o decisión;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-II. Expresar al Presidente Municipal sus puntos de vista sobre los planes y programas de desarrollo municipal y específicamente aquellos que se refieran a la localidad a la cual sirven;
+I. Examinar las problemáticas o cuestiones que él o la Presidente/a Municipal le someta para su análisis a efecto de que presente su opinión o dictamen y las alternativas de solución o decisión;
 
-III. Sugerir al Presidente Municipal la realización de estudios sobre aspectos de la vida municipal que le proporcionen datos y antecedentes sobre los problemas a resolver y agreguen elementos útiles para la toma de decisiones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-IV. Someter a consideración del Presidente Municipal, las medidas que los miembros del consejo consideren oportunas a fin de mejorar y modernizar la administración pública municipal;
+II. Expresar al Presidente/a Municipal sus puntos de vista sobre los planes y programas de desarrollo municipal y específicamente aquellos que se refieran a la localidad a la cual sirven;
 
-V. Estudiar y analizar las situaciones peculiares de la localidad que a juicio del Consejo, deban prevenirse con anticipación y externar su opinión al Presidente Municipal, acompañada de propuestas de solución para la atención de la problemática planteada. Si alguna de dichas propuestas implica la intervención de otros niveles de gobierno, el Consejo podrá sugerir alternativas de acción para estos casos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Aquéllas que específicamente le señale el Presidente Municipal.
+III. Sugerir al Presidente/a Municipal la realización de estudios sobre aspectos de la vida municipal que le proporcionen datos y antecedentes sobre los problemas a resolver y agreguen elementos útiles para la toma de decisiones;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IV. Someter a consideración del o la Presidente/a Municipal, las medidas que los miembros del consejo consideren oportunas a fin de mejorar y modernizar la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+V. Estudiar y analizar las situaciones peculiares de la localidad que a juicio del Consejo, deban prevenirse con anticipación y externar su opinión al Presidente/a Municipal, acompañada de propuestas de solución para la atención de la problemática planteada. Si alguna de dichas propuestas implica la intervención de otros niveles de gobierno, el Consejo podrá sugerir alternativas de acción para estos casos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VI. Aquéllas que específicamente le señale el o la Presidente/a Municipal.
 
 ###### ARTÍCULO 205.
 
@@ -2399,7 +2651,7 @@ III. Cuando reciban algún nombramiento para un cargo público, sea o no de elec
 
 IV. Cuando por razones de falta de probidad, ameriten ser relevados del cargo.
 
-### Capítulo IV. De los Comités de Vecinos
+### Capítulo III. De los Comités de Participación Ciudadana
 
 ###### ARTÍCULO 207.
 
@@ -2409,9 +2661,11 @@ Los Comités de Participación Ciudadana son una forma de organización que perm
 
 La integración de los comités podrá ser sugerida por asociaciones y grupos ya organizados, por cualquiera de los tres niveles de gobierno o bien por ciudadanos interesados en la realización concreta de una obra o en la prestación de algunos de los servicios públicos de la localidad. Cada comité tendrá entre seis y ocho miembros y uno de ellos le presidirá, haciéndose responsable de la acción conjunta del comité.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 209.
 
-Las actividades de los comités serán normadas por un Convenio de Participación Ciudadana, mediante el cual se concertarán, las acciones a realizar. Este convenio será signado por los miembros del Comité, por el Presidente Municipal y por el representante de cada una de las instancias de gobierno que aporten recursos para la realización del programa concertado.
+Las actividades de los comités serán normadas por un Convenio de Participación Ciudadana, mediante el cual se concertarán, las acciones a realizar. Este convenio será signado por los miembros del Comité, por él o la Presidente/a Municipal y por el representante de cada una de las instancias de gobierno que aporten recursos para la realización del programa concertado.
 
 ###### ARTÍCULO 210.
 
@@ -2437,11 +2691,13 @@ VI. En general, cualquier otro tipo de colaboración que sea convenida siempre y
 
 En el convenio deberán especificarse, el origen y la forma de distribución del presupuesto que se asigne a las obras y programas que se realicen a través del Comité de Participación Ciudadana y será responsabilidad de todas las partes que sea aplicado en la forma prevista.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 213.
 
-Cuando la materia del convenio se relacione con el Servicio de Seguridad Pública, el Comité se integrará con un mínimo de ocho miembros y contará, además del Presidente, con un Secretario que lleve un control documental de las acciones del Comité en estos casos. El Gobierno Municipal designará un representante con conocimientos y experiencia en materia de seguridad pública que vincule al Comité con el Ayuntamiento.
+Cuando la materia del convenio se relacione con el Servicio de Seguridad Pública, el Comité se integrará con un mínimo de ocho miembros y contará, además del o la Presidente/a, con un Secretario que lleve un control documental de las acciones del Comité en estos casos. El Gobierno Municipal designará un representante con conocimientos y experiencia en materia de seguridad pública que vincule al Comité con el Ayuntamiento.
 
-### Capítulo V. De las Consultas Públicas
+### Capítulo IV. De los Comités de Vecinos
 
 ###### ARTÍCULO 214.
 
@@ -2463,7 +2719,7 @@ Los Comités de Vecinos tendrán como una de sus funciones primordiales, el cont
 
 Los Comités de Vecinos tendrán, así mismo, la función de promover la mutua ayuda entre los residentes de su zona, previniendo también la forma de organizarse en caso de emergencias urbanas, incendios, ciclones y, en general, cualquier desastre que afecte la vida comunitaria.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo V. De las Consultas Públicas
 
 ###### ARTÍCULO 219.
 
@@ -2477,7 +2733,7 @@ Los Ayuntamientos deberán reglamentar las bases, mecanismos y formas apropiadas
 
 ## Título Décimo Cuarto. Reglamentación Municipal
 
-### Capítulo I. De la Hacienda Pública Municipal
+### Capítulo Único. Disposiciones Generales
 
 ###### ARTÍCULO 221.
 
@@ -2533,7 +2789,7 @@ Las Circulares y Disposiciones Administrativas de observancia general que expida
 
 ## Título Décimo Quinto. De la Hacienda Pública y Patrimonio Municipal
 
-### Capítulo II. Del Patrimonio Municipal
+### Capítulo I. De la Hacienda Pública Municipal
 
 ###### ARTÍCULO 229.
 
@@ -2591,9 +2847,11 @@ La Legislatura, en coordinación con los Municipios, garantizará la disposició
 
 La Hacienda Municipal será regulada por la ley de la materia y cuya aplicación corresponderá a las personas autorizadas de acuerdo a las Leyes Fiscales del Municipio y Convenios de Coordinación con la Federación y el Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 232.
 
-La inspección de la Hacienda Pública Municipal compete al Ayuntamiento por conducto del Presidente, el Síndico y la Comisión de Hacienda.
+La inspección de la Hacienda Pública Municipal compete al Ayuntamiento por conducto de la Presidencia, la Sindicatura y la Comisión de Hacienda.
 
 ###### ARTÍCULO 233.
 
@@ -2619,7 +2877,7 @@ Los Presupuestos de Ingresos y Egresos deberán ser aprobados por mayoría simpl
 
 Los Municipios del Estado de Quintana Roo percibirán los ingresos, cuyos aspectos sustantivos se regulan en esta Ley, y de acuerdo con las tasas y tarifas que señalan las Leyes de Ingresos y de Hacienda Municipal.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo II. Del Patrimonio Municipal
 
 ###### ARTÍCULO 237.
 
@@ -2669,13 +2927,17 @@ El plazo de los contratos de arrendamiento que celebren los Ayuntamientos, no ex
 
 En todo lo no previsto en el presente Capítulo, se aplicará lo dispuesto por las leyes fiscales y demás disposiciones aplicables vigentes en el Estado.
 
-## Título Décimo Sexto. Del Cronista de la Ciudad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-### Capítulo II. Del Procedimiento para Nombrar al Cronista de la Ciudad
+## Título Décimo Sexto. De la Crónica de la Ciudad
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 242.
 
-Para conservar, promover, investigar y difundir el acervo histórico y cultural de las comunidades del Municipio, el Ayuntamiento elegirá, a propuesta del Presidente Municipal, a un Cronista de la Ciudad.
+Para conservar, promover, investigar y difundir el acervo histórico y cultural de las comunidades del Municipio, el Ayuntamiento elegirá, a propuesta del o la Presidente/a Municipal, a un Cronista de la Ciudad.
 
 ###### ARTÍCULO 243.
 
@@ -2687,9 +2949,11 @@ II. Acreditar un amplio conocimiento de la Historia y Cultura del Municipio.
 
 III. Que cuente con la vocación de registrar y difundir los valores y tradiciones de la localidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 244.
 
-El Cronista de la Ciudad tendrá entre otras funciones, las siguientes:
+El o la Cronista de la Ciudad tendrá entre otras funciones, las siguientes:
 
 I. Llevar el registro de los sucesos notables de su comunidad;
 
@@ -2725,49 +2989,85 @@ III. Por desavecindarse del Municipio por más de seis meses consecutivos; o
 
 IV. Por renuncia.
 
-### Capítulo III. De las Facultades, Obligaciones y Derechos del Cronista de la Ciudad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo II. Del Procedimiento para Nombrar Cronista de la Ciudad
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 247.
 
-El procedimiento para el nombramiento del Cronista de la Ciudad se iniciará con la emisión de la convocatoria pública a cargo de la Secretaría General del Ayuntamiento, la cual contendrá los términos bajo los cuales se nombrará al Cronista de la Ciudad.
+El procedimiento para el nombramiento quien ejerza la Crónica de la Ciudad se iniciará con la emisión de la convocatoria pública a cargo de la Secretaría General del Ayuntamiento, la cual contendrá los términos bajo los cuales se nombrará al Cronista de la Ciudad.
 
-Dicho procedimiento será seguido por los miembros del Ayuntamiento, para que cuando se conozca a la totalidad de los interesados, de entre éstos, el Ayuntamiento designe por la mayoría de votos de sus miembros, a la persona que tendrá la función de ser el Cronista de la Ciudad.
+Dicho procedimiento será seguido por los miembros del Ayuntamiento, para que cuando se conozca a la totalidad de las personas interesadas, de entre éstos, el Ayuntamiento designe por la mayoría de votos de sus integrantes, a la persona que tendrá la función de ser Cronista de la Ciudad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 248.
 
-El nombramiento del Cronista de la Ciudad no establece ningún tipo de relación laboral con el Ayuntamiento.
+El nombramiento de Cronista de la Ciudad no establece ningún tipo de relación laboral con el Ayuntamiento.
 
 ###### ARTÍCULO 249.
 
 El Cronista de la Ciudad es:
 
-a) Investigador, Recopilador y Notario Histórico;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-b) Intérprete y narrador, en crónicas, de los sucesos del presente;
+a) Investiga, Recopila y Ejerce Notaría Histórica;
 
-c) Consultor de la autoridad en la evolución, al futuro, de los hechos que, según su leal saber y entender, serán favorables o negativos, promoviendo lo indispensable ante las autoridades y ciudadanía a favor o en contra de esos actos o hechos;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-d) Protector del Patrimonio Histórico y Cultural de la Ciudad;
+b) Interpreta y narra, en crónicas, de los sucesos del presente;
 
-e) Asesor y fuente de información para todos los Ciudadanos e Investigadores que lo soliciten;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-f) Promotor de publicaciones históricas;
+c) Sirve de Consulta de la autoridad en la evolución, al futuro, de los hechos que, según su leal saber y entender, serán favorables o negativos, promoviendo lo indispensable ante las autoridades y ciudadanía a favor o en contra de esos actos o hechos;
 
-g) Promotor de su Ciudad;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+d) Protege el Patrimonio Histórico y Cultural de la Ciudad;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+e) Asesora y es fuente de información para todos los Ciudadanos e Investigadores que lo soliciten;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+f) Promueve de publicaciones históricas;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+g) Promueve de su Ciudad;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 h) Consultor de la autoridad en los reconocimientos a los Ciudadanos Distinguidos;
 
-i) Protector del ecosistema;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-j) Bibliográfico;
+i) Protege el ecosistema;
 
-k) Colaborador en los Medios de Comunicación de la Comunidad.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+j) Bibliográfica;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+k) Colabora en los Medios de Comunicación de la Comunidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+### Capítulo III. De las Facultades, Obligaciones y Derechos de quien Ejerce la Crónica de la Ciudad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 250.
 
-El Cronista de la Ciudad tiene facultades para:
+El o la Cronista de la Ciudad tiene facultades para:
 
-a) Representar al Presidente Municipal en los actos en que se lo solicite.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+a) Representar al Presidente/a Municipal en los actos en que se lo solicite.
 
 b) Asistir a bachilleres en sus tesis y ensayos.
 
@@ -2777,9 +3077,11 @@ d) Asistir a congresos de historia y reuniones de la Asociación de Cronistas.
 
 e) Establecer relaciones públicas ante los medios de comunicación (Prensa, Radio, T. V.).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 251.
 
-El Cronista de la Ciudad tendrá las siguientes obligaciones:
+El o la Cronista de la Ciudad tendrá las siguientes obligaciones:
 
 a) Dar asesoramiento Histórico, Cívico y Cultural a quien se lo solicite, por medio del Archivo Municipal.
 
@@ -2793,19 +3095,27 @@ e) Promover la conservación y cuidado de nuestro Patrimonio Histórico-Cultural
 
 f) Hacer entrega de la información recopilada durante su función al Ayuntamiento cuando sobrevengan los casos a que alude el Artículo 250 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 252.
 
-El Cronista de la Ciudad tendrá derecho a lo siguiente:
+El o la Cronista de la Ciudad tendrá derecho a lo siguiente:
 
-a) Quedar inscrito en el acta de Cabildo que el nombramiento del Cronista es vitalicio, como Notario Histórico de la Ciudad.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-b) Ser proveído por el Ayuntamiento en funciones de una oficina que cuente con todo lo necesario para el desarrollo de su labor.
+a) Quedar inscrito en el acta de Cabildo que el nombramiento del o la Cronista es vitalicio, como Notario Histórico de la Ciudad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+b) Le sea proveída por el Ayuntamiento en funciones de una oficina que cuente con todo lo necesario para el desarrollo de su labor.
 
 c) El Ayuntamiento publicará sus crónicas, folletos y libros respetando el derecho de autor, en base al consenso mayoritario de los propios cronistas.
 
 d) El Ayuntamiento cubrirá las cuotas de los Cronistas afiliados a las Asociaciones Nacionales y Regionales de Cronistas reconocidos.
 
-e) El Ayuntamiento otorgará viáticos para la asistencia del Cronista a Congresos y Convenciones, así como todo su apoyo moral y autoridad para el desempeño de su labor como Cronista de la Ciudad.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+e) El Ayuntamiento otorgará viáticos para la asistencia del o la Cronista a Congresos y Convenciones, así como todo su apoyo moral y autoridad para el desempeño de su labor como Cronista de la Ciudad.
 
 ## TRANSITORIOS
 
@@ -3016,3 +3326,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la implementación del presente Decreto deberán considerarse las previsiones presupuestales respectivas en los Presupuestos de Egresos para el ejercicio fiscal 2014 de las instancias obligadas a cumplir con lo establecido en el presente decreto.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
