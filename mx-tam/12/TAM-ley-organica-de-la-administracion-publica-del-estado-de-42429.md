@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2013-09-24"
+last_updated: "2013-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -127,15 +127,15 @@ Al frente de cada dependencia habrá un titular, quien ejercerá las funciones d
 
 Los titulares de las dependencias y entidades a que se refiere esta ley dictarán las resoluciones que les competen, pudiendo delegar en sus subordinados cualesquiera de sus facultades, salvo aquéllas que no lo permitan la Constitución, leyes o reglamentos vigentes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 15.
 
-1. Los titulares de las dependencias formularán los anteproyectos de leyes, reglamentos, decretos y acuerdos, cuyas materias correspondan al ramo a su cargo y los remitirán al Ejecutivo para su consideración, a través de la Secretaría del Trabajo y Asuntos Jurídicos.
+1. Los titulares de las dependencias formularán los anteproyectos de leyes, reglamentos, decretos y acuerdos, cuyas materias correspondan al ramo a su cargo y los remitirán al Ejecutivo para su consideración, a través de la Secretaría General de Gobierno.
 
-2. Las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo serán turnados por éste a la Secretaría General de Gobierno, quien los remitirá a la Secretaría del Trabajo y Asuntos Jurídicos, para su análisis y opinión sobre la facultad del Ejecutivo de emitir las observaciones conducentes.
+2. Las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo serán turnados por éste a la Secretaría General de Gobierno, para su análisis y opinión sobre la facultad del Ejecutivo de emitir las observaciones conducentes.
 
-3. Una vez realizado el estudio correspondiente de las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo, y en caso de no haber observaciones al respecto, serán turnadas a la Secretaría General de Gobierno para su publicación en el Periódico Oficial Estado.
+3. Una vez realizado el estudio correspondiente de las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo, y en caso de no haber observaciones al respecto, serán publicadas en el Periódico Oficial Estado.
 
 ###### ARTICULO 16.
 
@@ -251,97 +251,157 @@ II. Coordinar las relaciones del Poder Ejecutivo con los Poderes Legislativo y J
 
 III. Conducir las relaciones del Poder Ejecutivo con los Poderes de la Unión, los órganos constitucionales federales autónomos y los gobiernos de otras entidades federativas, siempre que no se atribuya a otra dependencia por disposición legal;
 
-IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+IV. Conducir las relaciones políticas del Ejecutivo del Estado con los partidos políticos, las agrupaciones políticas nacionales, las asociaciones religiosas y las organizaciones sociales;
 
-V. Ser el conducto para enviar al Congreso del Estado, las iniciativas de ley o de decreto del Gobernador; así como, elaborar los decretos de promulgación y efectuar su publicación en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-VI. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+V. Dar trámite a las atribuciones del Gobernador del Estado en términos de la ley reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de agrupaciones religiosas e iglesias, asociaciones religiosas y culto público;
 
-VII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+VI. Prestar a los órganos administrativos y jurisdiccionales del Estado con competencia en materia electoral, la colaboración que requieran del Poder Ejecutivo para el cumplimiento de sus funciones;
 
-VIII. Suscribir los reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-IX.- (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+VII. Impulsar el desarrollo político democrático, la promoción de la participación ciudadana en los asuntos públicos y la generación de condiciones para asegurar la gobernabilidad democrática en un contexto de entendimientos, acuerdos y consensos políticos y sociales;
 
-X. Alentar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado, particularmente en lo relativo a los derechos y libertades fundamentales de las personas y dictar medidas administrativas para tal efecto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XI. Conducir las relaciones políticas del Ejecutivo del Estado con los partidos políticos, las agrupaciones políticas nacionales, las asociaciones religiosas y las organizaciones sociales;
+VIII. Coordinar los programas estatales de desarrollo municipal;
 
-XII. Impulsar el desarrollo político democrático, la promoción de la participación ciudadana en los asuntos públicos y la generación de condiciones para asegurar la gobernabilidad democrática en un contexto de entendimientos, acuerdos y consensos políticos y sociales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XIII. Prestar a los órganos administrativos y jurisdiccionales del Estado con competencia en materia electoral, la colaboración que requieran del Poder Ejecutivo para el cumplimiento de sus funciones;
+IX. Coordinar las relaciones del Poder Ejecutivo con las autoridades agrarias;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XIV.- Coordinar los programas estatales de desarrollo municipal;
+X. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
 
-XV. Dar trámite a las atribuciones del Gobernador del Estado en términos de la ley reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de agrupaciones religiosas e iglesias, asociaciones religiosas y culto público;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+XI. Participar, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, en la realización de los programas para la regularización de la tenencia de la tierra;
 
-XVI. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de migración, así como coordinar la política de atención a los migrantes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XVII. Dar cauce a la atribución del Gobernador de auxiliar a los tribunales y juzgados del Estado para que la justicia se administre pronta y cumplidamente, y se ejecuten las sentencias que dicten, prestándoles el apoyo que requieran para el mejor ejercicio de sus funciones;
+XII. Elaborar estudios, investigaciones y programas sobre métodos, sistemas, equipos y dispositivos para la prevención y control de catástrofes, desastres o calamidades públicas, y operar la oportuna prestación de los servicios necesarios para la protección civil;
 
-XVIII. Tramitar el ejercicio de las atribuciones del Gobernador en materia de designación de magistrados del Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XIX. Dar trámite a los nombramientos, licencias, remociones y renuncias de los titulares de las dependencias y, en su caso, participar en lo conducente a esas acciones en las entidades, conjuntamente con la dependencia a la que corresponda coordinar el sector administrativo específico;
+XIII. Conducir y poner en ejecución las políticas y los programas de Gobierno Estatal en materia de protección ciudadana y coordinar, en términos de la ley respectiva, el ejercicio de las atribuciones del Ejecutivo Estatal que correspondan en esta materia, en relación con la Federación, las Entidades Federativas y los Municipios;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XX.- Coordinar las relaciones del Poder Ejecutivo con las autoridades agrarias;
+XIV. Establecer los mecanismos de coordinación con las autoridades competentes, en materia de prevención y atención de emergencias originadas por fenómenos naturales;
 
-XXI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXII. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
+XV. Coordinar los programas y comisiones de protección civil;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXIII. Organizar y vigilar el funcionamiento de la defensoría pública;
+XVI. Establecer y operar un sistema de información, en coordinación con la Secretaría de Seguridad Pública, que contribuya a preservar el orden y la tranquilidad social así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXIV. Organizar, dirigir y administrar el servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
+XVII. Coordinar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXV. Velar por el respeto y la exacta observancia de los derechos humanos;
+XVIII. Alentar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado, particularmente en lo relativo a los derechos y libertades fundamentales de las personas y dictar medidas administrativas para tal efecto;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXVI. Expedir los nombramientos que otorgue el Gobernador para el ejercicio de la función notarial;
+XIX. Velar por el respeto y la exacta observancia de los derechos humanos;
 
-XXVII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXVIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+XX. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de migración, así como coordinar la política de atención a los migrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXI. Organizar y vigilar el funcionamiento de la defensoría pública;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXII. Organizar, dirigir y administrar el servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXIII. Ser Consejero Jurídico del Gobernador del Estado y representante legal en los términos que establece la ley;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXIV. Participar en la elaboración de los proyectos de iniciativa de ley o de decreto del Gobernador ante el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXV. Ser el conducto para enviar al Congreso del Estado, las iniciativas de ley o de decreto del Gobernador; así como, elaborar los decretos de promulgación y efectuar su publicación en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXVI. Preparar y dar trámite a la presentación de observaciones del Ejecutivo con relación a las leyes o decretos que apruebe el Congreso del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXVII. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado, y proponer las enmiendas necesarias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXVIII. Intervenir en la elaboración y suscribir los reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 XXIX. Organizar, editar y publicar el Periódico Oficial del Estado, y mantener un archivo actualizado del mismo en el Archivo General del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXX. Participar, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, en la realización de los programas para la regularización de la tenencia de la tierra;
+XXX. Coordinar y, en su caso, ejercer la representación del Ejecutivo del Estado en los asuntos de su competencia en materia de litigios previstos en los artículos 103 y 107 y en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como atender la promoción y defensa de los asuntos del Ejecutivo del Estado en los tribunales competentes;
 
-XXXI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+XXXI. Establecer la coordinación necesaria con las dependencias y entidades de la Administración Pública Estatal para alentar la congruencia de los criterios jurídicos del Gobierno del Estado y promover el funcionamiento de la Comisión de Estudios Jurídicos del Gobierno del Estado;
 
-XXXII.- Tramitar, por Acuerdo del Gobernador, las solicitudes de amnistía e indultos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXXIII. Establecer y operar un sistema de información, en coordinación con la Secretaría de Seguridad Pública, que contribuya a preservar el orden y la tranquilidad social así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
+XXXII. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin;
 
-XXXIV. Elaborar estudios, investigaciones y programas sobre métodos, sistemas, equipos y dispositivos para la prevención y control de catástrofes, desastres o calamidades públicas, y operar la oportuna prestación de los servicios necesarios para la protección civil;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXXV. Conducir y poner en ejecución las políticas y los programas de Gobierno Estatal en materia de protección ciudadana y coordinar, en términos de la ley respectiva, el ejercicio de las atribuciones del Ejecutivo Estatal que correspondan en esta materia, en relación con la Federación, las Entidades Federativas y los Municipios;
+XXXIII. Proporcionar asesoría jurídica a las dependencias y entidades, así como a los Ayuntamientos, cuando éstos lo soliciten;
 
-XXXVI. Establecer los mecanismos de coordinación con las autoridades competentes, en materia de prevención y atención de emergencias originadas por fenómenos naturales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-XXXVII. Coordinar los programas y comisiones de protección civil; y
+XXXIV. Tramitar el ejercicio de las atribuciones del Gobernador en materia de designación de magistrados del Supremo Tribunal de Justicia del Estado;
 
-XXXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXXV. Coordinar las relaciones del Poder Ejecutivo con las del Tribunal Fiscal y los tribunales de lo contencioso administrativo del Estado:
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXXVI. Dar cauce a la atribución del Gobernador de auxiliar a los tribunales y juzgados del Estado para que la justicia se administre pronta y cumplidamente, y se ejecuten las sentencias que dicten, prestándoles el apoyo que requieran para el mejor ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXXVII. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXXVIII. Tramitar, por Acuerdo del Gobernador, las solicitudes de amnistía e indultos;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XXXIX. Expedir los nombramientos que otorgue el Gobernador para el ejercicio de la función notarial;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XL. Dar trámite a los nombramientos, licencias, remociones y renuncias de los titulares de las dependencias y, en su caso, participar en lo conducente a esas acciones en las entidades, conjuntamente con la dependencia a la que corresponda coordinar el sector administrativo específico; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XLI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección II. De la Secretaría de Finanzas
 
@@ -681,49 +741,27 @@ VI. Coordinar el funcionamiento de las Juntas Locales de Conciliación y Arbitra
 
 VII. Coordinar y vigilar el funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas, así como de la Procuraduría de la Defensa del Trabajo del Servidor Público; promover la conciliación entre las partes en los conflictos laborales, e impulsar la defensa de los derechos de los trabajadores;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+VIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-VIII. Ser Consejero Jurídico del Gobernador del Estado y representante legal en los términos que establece la ley;
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+X. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-IX. Coordinar y, en su caso, ejercer la representación del Ejecutivo del Estado en los asuntos de su competencia en materia de litigios previstos en los artículos 103 y 107 y en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como atender la promoción y defensa de los asuntos del Ejecutivo del Estado en los tribunales competentes;
+XI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+XII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-X. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado, y proponer las enmiendas necesarias;
+XIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+XIV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-XI. Participar en la elaboración de los proyectos de iniciativa de ley o de decreto del Gobernador ante el Congreso del Estado;
+XV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+XVI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-XII. Preparar y dar trámite a la presentación de observaciones del Ejecutivo con relación a las leyes o decretos que apruebe el Congreso del Estado;
+XVII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-XIII. Intervenir en la elaboración de reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-XIV. Establecer la coordinación necesaria con las dependencias y entidades de la Administración Pública Estatal para alentar la congruencia de los criterios jurídicos del Gobierno del Estado y promover el funcionamiento de la Comisión de Estudios Jurídicos del Gobierno del Estado;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-XV. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-XVI. Proporcionar asesoría jurídica a las dependencias y entidades, así como a los Ayuntamientos, cuando éstos lo soliciten;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-XVII. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
-
-XVIII. Coordinar las relaciones del Poder Ejecutivo con las del Tribunal Fiscal y los tribunales de lo contencioso administrativo del Estado;
+XVIII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -1255,9 +1293,7 @@ XXVIII. Coordinar actividades en materia vehicular con las autoridades federales
 
 XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Urbano y Medio Ambiente, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XXX. Coordinar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+XXX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -1784,3 +1820,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos humanos, los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, los programas y calendarios financieros, así como los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas, de conformidad con su anterior asignación administrativa.
+
+Lo dispuesto en el presente artículo no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente
+
+###### ARTÍCULO CUARTO.
+
+En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2013, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo del presente Decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas o, en su caso las operativas que los tramitan se incorporen a la dependencia que deba atenderlos, salvo los trámites urgentes o sujetos a plazos improrrogables.
+
+En los casos conducentes, el titular de la dependencia cabeza de sector, así como el titular del órgano e instancias administrativas vinculadas a las acciones de ejercicio presupuestal deberán agotar el cumplimiento de sus responsabilidades hasta el finiquito de las mismas ante los órganos de fiscalización, sean estatales o federales, sin demérito del cambio de adscripción laboral.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
