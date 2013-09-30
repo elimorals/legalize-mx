@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2013-09-24"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -583,13 +583,17 @@ s) Igualdad de Género;
 
 t) Asuntos Fronterizos y Migratorios;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-u) Atención a Grupos Vulnerables; y
+u) Atención a Grupos Vulnerables;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-v) Recurso Agua.
+v) Recurso Agua; y
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+w) Fomento al Comercio Exterior.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -2622,3 +2626,9 @@ P.O. 24 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado de Tamaulipas.
