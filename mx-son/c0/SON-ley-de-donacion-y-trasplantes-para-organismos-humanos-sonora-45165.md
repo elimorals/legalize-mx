@@ -4,7 +4,7 @@ identifier: "SON-ley-de-donacion-y-trasplantes-para-organismos-humanos-sonora-45
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-20"
-last_updated: "2010-05-31"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 20 de junio de 2005.
 
@@ -357,13 +357,13 @@ El Gobierno del Estado otorgará todas las facilidades posibles para el aprovech
 
 El Centro celebrará convenios con las instituciones de educación superior en el Estado de Sonora con el propósito de promover las prácticas académicas de sus estudiantes en beneficio del Centro.
 
-> <small>(ADICIONADO, B.O. 31 DE MAYO DEL 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-ARTICULO 21 BIS.- Las instituciones públicas del Gobierno del Estado y de los municipios en Sonora que por razón de sus funciones emitan documentos oficiales de identificación ciudadana, deberán incluir en el mismo una anotación que exprese la voluntad del titular de la misma en relación con la donación de sus órganos.
+ARTICULO 21 BIS.- Las instituciones públicas del Gobierno del Estado y de los Ayuntamientos que por razón de sus funciones emitan documentos de identificación ciudadana, deberán incluir en el mismo una anotación que exprese la voluntad del titular de la misma en relación a la donación de sus órganos.
 
-El Centro promoverá la celebración de convenios con las instituciones de educación superior privadas en el Estado de Sonora, con el propósito de que se incluya en la credencial oficial de identificación estudiantil la voluntad del titular para ser donador de órganos.
+El Centro promoverá la celebración de convenios con las instituciones de educación superior en el Estado con el propósito de que se incluya en la credencial de identificación estudiantil la voluntad del titular para ser donador de órganos.
 
-En el caso de que los documentos referidos en los párrafos precedentes sean expedidos a favor de menores de edad, la decisión expresada en los mismos no tendrá validez jurídica y sólo tendrá como propósito el promover la cultura de la donación de órganos.
+Para efectos del presente artículo, cuando se tratase de menores de edad, los documentos no deberán incluir la anotación que exprese la voluntad para ser donantes de órganos.
 
 ###### ARTICULO 22.
 
@@ -401,10 +401,16 @@ COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACION EN EL BOLETIN OFI
 
 POR TANTO MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS SIETE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL CINCO.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 31 DE MAYO DEL 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
