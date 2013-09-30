@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2013-03-27"
+last_updated: "2013-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -683,7 +683,7 @@ III.- Dirección Corporativa de Finanzas
 
 2. (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
-3. Gerencia de Enlace y Control de Gestión Sustantivo
+3. (DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -937,11 +937,21 @@ VII.- Gerencia de Comunicación Social
 
 VII. A.- Unidad de Control Interno Institucional
 
-1. Gerencia de Control Financiero y Presupuestal
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-2. Gerencia de Control Operacional
+1. Gerencia de Apoyo y Seguimiento al Control Interno Financiero
 
-3. Gerencia Técnica de Control Interno
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+2. Gerencia Operativa de Desarrollo y Mejora de la Gestión
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+3. Gerencia de Promoción y Evaluación del Control Interno
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+4. Gerencia de Enlace y Control de Auditorías y Fiscalización
 
 VIII.- Organo Interno de Control
 
@@ -1991,11 +2001,25 @@ V. Instrumentar la apertura, actualización y cancelación de cuentas de cheques
 
 VI. Realizar y registrar los pagos e ingresos derivados de la operación y compromisos adquiridos por las unidades administrativas centrales y regionales de PEMEX;
 
-VII. Programar el pago de capital e intereses que se generen con motivo de la operación del sistema de préstamo y reembolso para transporte del personal de confianza de PEMEX y programar el pago de capital e intereses, de conformidad con los contratos celebrados con las instituciones bancarias, y
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+VII. Programar el pago de capital e intereses que se generen con motivo de la operación del sistema de préstamo y rembolso para transporte del personal de confianza de PEMEX y programar el pago de capital e intereses, de conformidad con los contratos celebrados con las instituciones bancarias;
 
-VIII. Gestionar ante las instancias competentes, los trámites en materia de recursos humanos, capacitación, adecuaciones y aplicaciones organizacionales de la Dirección Corporativa de Finanzas, así como el abastecimiento de bienes y servicios generales.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+VIII. Gestionar ante las instancias competentes, los trámites en materia de recursos humanos, capacitación, adecuaciones y aplicaciones organizacionales de la Dirección Corporativa de Finanzas, así como el abastecimiento de bienes y servicios generales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IX. Evaluar, coordinar, atender y actuar como enlace de la Dirección Corporativa de Finanzas para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+X. Asesorar y participar en la organización, clasificación y conservación de la información pública para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XI. Coordinar la atención y ejecución de los programas y acciones de la Dirección Corporativa de Finanzas, derivadas de los programas gubernamentales, verificar su cumplimiento, así como su remisión a las instancias competentes.
 
 ###### Artículo 64.
 
@@ -2003,19 +2027,7 @@ VIII. Gestionar ante las instancias competentes, los trámites en materia de rec
 
 ###### Artículo 65.
 
-La Gerencia de Enlace y Control de Gestión Sustantivo tendrá las funciones siguientes:
-
-I. Coordinar, promover y asesorar normativamente la atención y resolución de observaciones de auditorías, revisiones de control y recomendaciones formuladas por órganos fiscalizadores, así como ser enlace con dichos órganos contribuyendo a la oportuna respuesta a sus requerimientos y solventación de sus observaciones;
-
-II. Evaluar, coordinar, atender y actuar como enlace para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
-
-III. Asesorar y participar en la organización, clasificación y conservación de la información pública para cumplir con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
-
-IV. Coordinar la atención y ejecución de los programas y acciones de la Dirección derivadas de los programas gubernamentales, verificando su cumplimiento así como su oportuna remisión a las instancias competentes;
-
-V. Asesorar administrativamente a las áreas internas en la atención de los asuntos que le sean requeridos, y
-
-VI. Instrumentar acciones a fin de fortalecer el control interno de las unidades administrativas de la Dirección.
+(DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -2067,9 +2079,7 @@ X. Supervisar que la información referente al presupuesto de PEMEX y Organismos
 
 XI. Integrar la propuesta de escenario indicativo de metas de balance financiero que comprenda periodos de cinco años para su envío anual a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Energía;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-XII. Fungir como enlace con las autoridades fiscalizadoras en las revisiones que realicen a la información de la Cuenta de Hacienda Pública Federal y del informe de avance de gestión;
+XII. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2123,9 +2133,7 @@ III. Evaluar y administrar el programa mensual de egresos de PEMEX y Organismos 
 
 IV. Integrar, consolidar y valorar la Cuenta de la Hacienda Pública Federal de PEMEX y Organismos Subsidiarios, así como el informe de avance de la gestión financiera de PEMEX y Organismos Subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-V. Coordinar las revisiones que realicen las autoridades fiscalizadoras a la información de la Cuenta de la Hacienda Pública Federal y dar seguimiento a las observaciones y recomendaciones que en su caso se formulen en el ámbito institucional;
+V. (DEROGADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)
 
 VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
@@ -5569,107 +5577,137 @@ XI. Realizar actividades de producción editorial y audiovisual, participación 
 
 XII. Coordinar las actividades en materia de comunicación social que desarrollen las representaciones regionales de PEMEX.
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
 Artículo 147 A.- La Unidad de Control Interno Institucional, además de las funciones señaladas en el artículo 28 del Estatuto, tendrá las siguientes:
 
-I. Implementar acciones para coordinar y promover el fortalecimiento de la cultura de control interno financiero, presupuestal y operacional, con un ambiente de control que se genere y fluya desde la Dirección General de PEMEX hacia las Direcciones Corporativas, Subdirecciones y demás unidades administrativas de dicha entidad, así como las Subdirecciones y unidades administrativas de los Organismos Subsidiarios y, en su caso, filiales;
+I. Apoyar a la Dirección General en la coordinación de acciones de carácter general para la instrumentación y mejora del sistema de control interno institucional, en PEMEX y Organismos Subsidiarios;
 
-II. Establecer, actualizar, evaluar e implementar mejoras sobre el Sistema de Control Interno Institucional, así como establecer y coordinar la implementación de los mecanismos necesarios para su cumplimiento y las adecuaciones que se consideren necesarias;
+II. Coordinar la revisión y propuesta de objetivos, lineamientos y normas en materia de control interno, así como promover su difusión y cumplimiento;
 
-III. Coordinar las acciones para la verificación del Sistema de Control Interno Institucional y para la generación de información financiera, presupuestal y operacional relativa al mismo;
+III. Proponer y difundir el programa de trabajo en materia de control interno y dar seguimiento a su cumplimiento;
 
-IV. Supervisar la efectividad de los controles internos, así como realizar las acciones para la automatización de los mismos en los sistemas de información de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+IV. Coordinar la elaboración del informe anual y el reporte de avances sobre el funcionamiento y estado que guarda el sistema de control interno institucional;
 
-V. Elaborar un informe anual y un reporte de avance semestral consolidados de PEMEX, Organismos Subsidiarios y, en su caso, filiales, del estado que guarda el Sistema de Control Interno Institucional, así como someterlo a la aprobación del Director General de PEMEX y presentarlo ante las autoridades competentes, en términos de la normatividad aplicable;
+V. Promover la cultura de control, administración de riesgos, prevención, ética, transparencia y combate a la impunidad y corrupción;
 
-VI. Proponer y acordar con el Director General de PEMEX, el Director General de cada Organismo Subsidiario, y en su caso, de las filiales, así como con los directores corporativos de PEMEX, las acciones a seguir para la instrumentación del Sistema de Control Interno Institucional;
+VI. Coordinar a las unidades administrativas en el ejercicio de identificación, evaluación y administración de riesgos estratégicos;
 
-VII. Coordinar y dirigir la elaboración o modificación de la metodología para realizar la evaluación del Sistema de Control Interno Institucional, así como para la aplicación de las matrices de control y otras herramientas de evaluación de control interno, previa autorización del Comité de Auditoría y Evaluación del Desempeño;
+VII. Coordinar las acciones institucionales en materia de control normativo, simplificación y mejora regulatoria interna;
 
-VIII. Atender requerimientos internos y externos en materia de control interno financiero, presupuestal y operacional, y
+VIII. Proponer y coordinar el establecimiento de medidas y controles para apoyar la eficiencia operativa institucional, conforme a los procedimientos y sistemas establecidos;
 
-IX. Fungir como enlace entre los servidores públicos encargados de realizar las acciones necesarias para implementar y actualizar el Sistema de Control Interno Institucional en PEMEX, Organismos Subsidiarios y, en su caso, filiales.
+IX. Coordinar la atención de requerimientos en materia de control interno que realicen los órganos de administración y vigilancia, atender las auditorias, visitas e inspecciones realizadas por órganos fiscalizadores, así como supervisar y asesorar a las unidades administrativas en la atención de recomendaciones;
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2013)</small>
+X. Proponer y acordar con el Director General de PEMEX y los directores generales de los Organismos Subsidiarios las medidas para la instrumentación y mejora del Sistema de Control Interno Institucional;
 
-Artículo 147 B.- La Gerencia de Control Financiero y Presupuestal tendrá las funciones siguientes:
+XI. Desarrollar y coordinar la instrumentación del programa de capacitación y desarrollo de competencias en materia de control interno;
 
-I. Elaborar y proponer mecanismos de control interno que permitan mejorar la calidad de la información financiera y presupuestal;
+XII. Promover el desarrollo administrativo integral y la mejora de la gestión en PEMEX y Organismos Subsidiarios;
 
-II. Analizar, evaluar e integrar el apartado correspondiente del informe consolidado del estado que guarda el Sistema de Control Interno Institucional, a partir de los informes anuales de control interno de PEMEX, Organismos Subsidiarios y, en su caso, filiales, relativo a la información financiera y presupuestal;
+XIII. Informar al Director General de PEMEX y al Comité de Auditoría y Evaluación del Desempeño sobre su gestión, y
 
-III. Capacitar a los responsables de los procesos de la aplicación de la metodología definida para el Sistema de Control Interno Institucional, relativo a la información financiera y presupuestal;
+XIV. Coordinar el seguimiento de los asuntos derivados de la participación en el Comité de Auditoría y Evaluación del Desempeño, relacionados con los órganos internos de control de PEMEX y Organismos Subsidiarios.
 
-IV. Analizar, proponer y establecer los controles internos que garanticen la confiabilidad de la información financiera y presupuestal, así como comprobar su efectividad en PEMEX, Organismos Subsidiarios y, en su caso, filiales, sin perjuicio de lo que determinen las instancias competentes;
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-V. Proponer e implementar modificaciones a los procesos para mantener actualizado el Sistema de Control Interno Institucional, relativo a la información financiera y presupuestal;
+Artículo 147 B.- La Gerencia de Apoyo y Seguimiento al Control Interno Financiero tendrá las funciones siguientes:
 
-VI. Determinar el alcance, documentar y evaluar el diseño de los controles internos en materia financiera y presupuestal, para el cumplimiento de estándares y regulaciones nacionales e internacionales;
+I. Proponer y promover acciones de mejora a la metodología para la evaluación del Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
-VII. Supervisar y comprobar la efectividad operativa de los controles internos y monitorear el Sistema de Control Interno Institucional, relativo a la información financiera y presupuestal;
+II. Determinar y documentar el alcance de la evaluación del control interno financiero y presupuestal, para el cumplimiento de los procedimientos establecidos, estándares y la regulación nacional e internacional;
 
-VIII. Realizar acciones para la mejora de procesos de control interno financiero y presupuestal en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+III. Proponer y promover las actividades de control dentro de los procesos a evaluar, así como promover la adopción de acciones de mejora tendientes a fortalecer el Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
-IX. Ejecutar programas de verificación y autocontrol sobre el cumplimiento del Sistema de Control Interno Institucional, relativo a la información financiera y presupuestal;
+IV. Integrar el informe del estado que guarda el Sistema de Control Interno Institucional en materia financiera y presupuestal;
 
-X. Identificar posibles deficiencias del Sistema de Control Interno Institucional en lo relativo a la información financiera y presupuestal, y
+V. Capacitar a los servidores públicos encargados de aplicar la metodología para la evaluación del Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
-XI. Coadyuvar y mantener comunicación con el auditor externo y otras instancias fiscalizadoras con relación al cumplimiento de estándares y regulaciones nacionales e internacionales, en materia de control financiero y presupuestal.
+VI. Documentar el funcionamiento de los controles internos de los procesos y unidades administrativas competentes a evaluar, en el ámbito financiero y presupuestal;
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2013)</small>
+VII. Evaluar el diseño de los controles internos que conforman el Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
-Artículo 147 C.- La Gerencia de Control Operacional tendrá las funciones siguientes:
+VIII. Monitorear la efectividad operativa de los controles internos que conforman el Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
-I. Elaborar y proponer los mecanismos de control interno que permitan mejorar la calidad de la operación;
+IX. Dar seguimiento a las propuestas de mejora al Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
-II. Analizar, evaluar e integrar el apartado correspondiente del informe consolidado del estado que guarda el Sistema de Control Interno Institucional, a partir de los informes anuales de control interno de PEMEX, Organismos Subsidiarios y, en su caso, filiales, relativo a la información operacional;
+X. Supervisar la documentación de la autoevaluación de los controles internos que conforman el Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal, efectuada por PEMEX, Organismos Subsidiarios y filiales;
 
-III. Capacitar a los responsables de los procesos de la aplicación de la metodología definida para el Sistema de Control Interno Institucional, relativo a la operación;
+XI. Analizar la información financiera y presupuestal identificando áreas de oportunidad en el Sistema de Control Interno Institucional, en el ámbito correspondiente, así como proponer y promover acciones de mejora, y
 
-IV. Analizar, proponer y establecer los controles internos que garanticen la confiabilidad de la operación, así como comprobar su efectividad en PEMEX, Organismos Subsidiarios y, en su caso, filiales, sin perjuicio de lo que determinen las instancias competentes;
+XII. Proponer modificaciones a las políticas de registro contable y presupuestal, así como a los mecanismos de control interno que permitan mejorar la calidad de la información financiera y presupuestal.
 
-V. Proponer e implementar modificaciones a los procesos para mantener actualizado el Sistema de Control Interno Institucional, relativo a la operación;
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Determinar el alcance, documentar y evaluar el diseño del control interno operacional, para el cumplimiento de estándares y regulaciones nacionales e internacionales;
+Artículo 147 C.- La Gerencia Operativa de Desarrollo y Mejora de la Gestión tendrá las funciones siguientes:
 
-VII. Supervisar y comprobar la efectividad operativa de los controles internos y monitorear el Sistema de Control Interno Institucional, relativo a la información operacional;
+I. Proponer mejoras a la metodología para la evaluación del Sistema de Control Interno Institucional, para la documentación de procedimientos, así como para la emisión de normativa interna en materia operacional;
 
-VIII. Realizar acciones para la mejora de procesos de control interno operacional en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+II. Asesorar a las áreas en la documentación de procesos conforme a los procedimientos establecidos, así como en la incorporación de controles internos que permitan mejorar la operación;
 
-IX. Ejecutar programas de verificación y autocontrol sobre el cumplimiento del Sistema de Control Interno Institucional, relativo a la operación;
+III. Proponer los mecanismos de control interno que permitan mejorar la calidad de la operación de PEMEX y Organismos Subsidiarios;
 
-X. Identificar posibles deficiencias del Sistema de Control Interno Institucional en lo relativo a la operación, y
+IV. Determinar el alcance, documentar y evaluar el diseño del control interno institucional en el ámbito operacional, para cumplir con estándares y la regulación nacional e internacional;
 
-XI. Coadyuvar y mantener comunicación con el auditor externo y otras instancias fiscalizadoras con relación al cumplimiento de estándares y regulaciones nacionales e internacionales, en materia de control operacional.
+V. Evaluar la efectividad del control interno operacional, identificar posibles deficiencias, proponer acciones de mejora, y dar seguimiento a su instrumentación;
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2013)</small>
+VI. Integrar el informe del estado que guarda el Sistema de Control Interno Institucional en el ámbito operacional y de administración de riesgos institucionales;
 
-Artículo 147 D.- La Gerencia Técnica de Control Interno tendrá las funciones siguientes:
+VII. Promover el fortalecimiento de una cultura orientada a la mejora permanente de los procesos y la autoevaluación de control interno institucional;
 
-I. Elaborar y consolidar la metodología para realizar la evaluación del Sistema de Control Interno Institucional, así como para la aplicación de las matrices de control y el cumplimiento de estándares y regulaciones; así como otras herramientas de evaluación de control interno, así como otros instrumentos en materia de control interno;
+VIII. Promover el desarrollo y la aplicación de la metodología para la identificación, evaluación y administración de riesgos que puedan obstaculizar el cumplimiento de las metas y objetivos institucionales;
 
-II. Analizar y coadyuvar en el desarrollo institucional de los procesos, que permita su madurez, para el establecimiento de los controles requeridos;
+IX. Supervisar la instrumentación y seguimiento del programa de trabajo institucional en materia de administración de riesgos;
 
-III. Revisar los requerimientos de información en materia de control interno, de instancias internas y externas;
+X. Capacitar a los servidores públicos encargados de aplicar la metodología en materia de administración de riesgos, y
 
-IV. Compilar los informes anuales de control interno consolidados del estado que guarda el Sistema de Control Interno Institucional, a partir de la información proporcionada por las gerencias de Control Interno Financiero y Presupuestal y Operacional;
+XI. Diseñar y promover mecanismos para implementar una cultura de administración de riesgos en PEMEX, Organismos Subsidiarios y, en su caso, filiales.
 
-V. Elaborar y proponer las disposiciones internas que regulen el Sistema de Control Interno Institucional en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Supervisar que los modelos, políticas, procedimientos y demás disposiciones de control interno elaborados por las áreas responsables de aplicarlos, cumplan con lo establecido en la normatividad aplicable;
+Artículo 147 D.- La Gerencia de Promoción y Evaluación del Control Interno tendrá las funciones siguientes:
 
-VII. Promover el fortalecimiento de la cultura organizacional hacia un enfoque de autocontrol y autoevaluación en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+I. Elaborar, proponer y modificar la normativa en materia de control interno y supervisar su cumplimiento;
 
-VIII. Informar a los servidores públicos de PEMEX, Organismos Subsidiarios y, en su caso, filiales, los objetivos y lineamientos del Sistema de Control Interno Institucional;
+II. Generar y coordinar la aplicación de la metodología para la evaluación del sistema de control interno institucional, así como de otras herramientas de revisión de control interno;
 
-IX. Elaborar y desarrollar programas de capacitación, así como proponer, en su caso, a las unidades administrativas competentes los programas de capacitación sobre la metodología del Sistema de Control Interno Institucional;
+III. Instrumentar las acciones institucionales en materia de control normativo, simplificación y mejora regulatoria en coordinación con las unidades administrativas competentes;
 
-X. Ejecutar los programas de difusión de los logros en materia de control interno financiero, presupuestal y operacional de PEMEX, Organismos Subsidiarios y, en su caso, filiales, en los foros de la materia;
+IV. Proponer y coordinar la elaboración del programa de trabajo de control interno institucional y supervisar su cumplimiento;
 
-XI. Implementar mecanismos de colaboración con empresas y terceros que realicen actividades relacionadas con la industria petrolera en los diversos niveles del mercado nacional e internacional, en materia de comunicación e identificación de los posibles riesgos asociados con el control interno, y
+V. Participar en el proceso de revisión y modificación de los códigos de ética y de conducta institucionales;
 
-XII. Proponer, gestionar y promover el establecimiento de los mecanismos de control interno que contribuyan al cumplimiento de la calidad y seguridad de la información en los servicios de Tecnología de Información.
+VI. Coordinar la elaboración del informe del estado que guarda el Sistema de Control Interno Institucional, a partir de la información proporcionada por las unidades administrativas correspondientes;
+
+VII. Proponer los mecanismos para la autoevaluación de los controles internos y las acciones que fomenten el desarrollo de una cultura de prevención y autocontrol;
+
+VIII. Establecer los mecanismos para verificar la efectividad de los controles internos propuestos e instrumentados, y
+
+IX. Proponer los programas de capacitación en materia de control interno institucional y su metodología, así como ejecutar los programas de difusión de logros.
+
+> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 147 E.- La Gerencia de Enlace y Control de Auditorías y Fiscalización tendrá las funciones siguientes:
+
+I. Dirigir la participación de PEMEX con la Auditoría Superior de la Federación durante el proceso de planeación, revisión, atención de requerimientos y solventación de observaciones, derivadas de la ejecución del programa anual de auditorías;
+
+II. Proponer al Titular de la Unidad de Control Interno Institucional, los asuntos que sean objeto de revisión en las unidades administrativas de PEMEX y Organismos Subsidiarios, con el fin de promover su consideración en los programas anuales de auditoría institucionales;
+
+III. Coordinar y asesorar normativamente a las unidades administrativas de PEMEX y Organismos Subsidiarios en la apertura, desarrollo y cierre de las auditorías realizadas por los órganos fiscalizadores;
+
+IV. Participar, atender y actuar como enlace con los servidores públicos designados por la Auditoría Superior de la Federación, para la ejecución de auditorías y otros actos de fiscalización;
+
+V. Apoyar a las unidades administrativas de PEMEX y Organismos Subsidiarios en la identificación de las causas de las observaciones y las recomendaciones efectuadas por los órganos fiscalizadores en relación con el control interno, para facilitar su solventación;
+
+VI. Integrar el informe del estado que guarda el Sistema de Control Interno Institucional en el ámbito de su competencia;
+
+VII. Generar reportes estadísticos de los resultados que deriven de los procesos de fiscalización, auditorías y revisiones de control;
+
+VIII. Identificar en los procesos, así como en los resultados de la fiscalización de la cuenta pública y de las auditorías internas, la normativa y controles que deben ser eliminados, homologados o modificados;
+
+IX. Atender las acciones formuladas por la Auditoría Superior de la Federación donde se solicite intervención de la instancia de control competente, y
+
+X. Asesorar a las unidades administrativas de PEMEX y Organismos Subsidiarios involucradas en las promociones de responsabilidad administrativa sancionatoria y en pliegos de observaciones emitidos por la Auditoría Superior de la Federación.
 
 ## TITULO SEXTO. DE LOS SISTEMAS INSTITUCIONALES
 
@@ -5923,10 +5961,18 @@ D.O.F. 27 DE MARZO DE 2013.
 
 PRIMERO. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. La derogación de los artículos 34, fracción III, inciso c) numeral 4; 75, fracciones VIII, IX, X y XIII; 79, así como las reformas a los artículos 34, fracción III, inciso c), 75, en su encabezado, y las adiciones a los artículos 34, fracción VII, A, numeral 1 y 147 B, entrarán en vigor una vez que concluya la actualización y los ajustes necesarios a los procesos y sistemas de generación de información financiera a nivel institucional, así como el establecimiento de los respectivos controles internos para el reporte financiero ante las autoridades reguladoras nacionales e internacionales, como resultado de la adopción obligatoria de las Normas Internacionales de Información Financiera (NIIF´s, conocidas por sus siglas en inglés como IFRS), así como para asegurar el cumplimiento de lo establecido en la Ley General de Contabilidad Gubernamental.
-
-Por lo tanto, hasta que se verifique lo anterior, la Gerencia de Control Financiera (sic) permanecerá adscrita a la Subdirección de Contabilidad, Fiscal y Control Financiero de la Dirección Corporativa de Finanzas y Petróleos Mexicanos llevará a cabo todas las acciones que resulten necesarias para que se encuentren implementadas a más tardar dentro de los dos años siguientes a la entrada en vigor de las presentes modificaciones.
-
-Sin perjuicio de lo antes señalado, y a partir de la entrada en vigor de las presentes modificaciones, la Gerencia de Control Financiero desarrollará sus funciones en coordinación con la Unidad de Control Interno Institucional; elaborando y ejecutando de manera coordinada la ruta estratégica a seguir para llevar a cabo el cambio de adscripción, cuidando no alterar la operación y funcionamiento actual de la Gerencia de Control Financiero.
+SEGUNDO. (DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)
 
 TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará incremento al presupuesto global de servicios personales o en el número total de plazas de PEMEX y Organismos Subsidiarios.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el transitorio Segundo de las reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, publicadas en el Diario Oficial de la Federación el 27 de marzo de 2013.
+
+TERCERO. La Dirección Corporativa de Finanzas y la Unidad de Control Interno Institucional, contarán con un plazo de 90 días a partir de la publicación de las presentes reformas, adiciones y derogaciones, a fin de llevar a cabo las gestiones necesarias para la transferencia de los recursos humanos, materiales, financieros y presupuestales de la Gerencia de Control Financiero a la referida Unidad, en virtud de lo dispuesto en el transitorio anterior.
+
+CUARTO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará incremento al presupuesto global de servicios personales o en el número total de plazas de PEMEX y organismos subsidiarios.
+
+Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, fueron aprobadas por el Consejo de Administración de Petróleos Mexicanos, con fundamento en los artículos 6o. y 19, fracción XXI, de la Ley de Petróleos Mexicanos, en sesión ordinaria 860 celebrada el día 23 de agosto de 2013, mediante acuerdo número CA-089/2013.
