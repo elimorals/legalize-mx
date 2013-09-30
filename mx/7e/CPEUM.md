@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2013-07-19"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1274,17 +1274,19 @@ C).- La ciudadanía mexicana se pierde:
 
 I.- Por aceptar o usar títulos nobiliarios de gobiernos extranjeros.
 
-> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-II.- Por prestar voluntariamente servicios oficiales a un gobierno extranjero sin permiso del Congreso Federal o de su Comisión Permanente.
+II.- Por prestar voluntariamente servicios o funciones oficiales a un gobierno extranjero, sin permiso del Ejecutivo Federal;
 
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
-III.- Por aceptar o usar condecoraciones extranjeras sin permiso del Congreso Federal o de su Comisión Permanente.
+III.- Por aceptar o usar condecoraciones extranjeras sin permiso del Ejecutivo Federal.
 
-> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
+El Presidente de la República, los senadores y diputados al Congreso de la Unión y los ministros de la Suprema Corte de Justicia de la Nación podrán libremente aceptar y usar condecoraciones extranjeras;
 
-IV.- Por admitir del gobierno de otro país títulos o funciones sin previa licencia del Congreso Federal o de su Comisión Permanente, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- Por admitir del gobierno de otro país títulos o funciones sin previo permiso del Ejecutivo Federal, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente;
 
 > <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
 
@@ -1294,9 +1296,7 @@ V.- Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extran
 
 VI.- En los demás casos que fijan las leyes.
 
-> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 1997)</small>
-
-En el caso de las fracciones II a IV de este apartado, el Congreso de la Unión establecerá en la ley reglamentaria respectiva, los casos de excepción en los cuales los permisos y licencias se entenderán otorgados, una vez transcurrido el plazo que la propia ley señale, con la sola presentación de la solicitud del interesado.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Art. 38.
 
@@ -6433,3 +6433,9 @@ DÉCIMO OCTAVO. Los derechos laborales de los trabajadores que presten sus servi
 D.O.F. 19 DE JULIO DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Quedará sin efecto toda disposición que contravenga el presente Decreto.
