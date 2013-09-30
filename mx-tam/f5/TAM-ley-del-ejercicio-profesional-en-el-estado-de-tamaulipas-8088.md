@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2012-04-19"
+last_updated: "2013-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -53,9 +53,11 @@ Esta Ley es de orden público e interés social; sus disposiciones regirán en e
 
 Cuando determinados aspectos relacionados con alguna rama o especialidad profesional no se encuentren regulados en esta Ley, pero sí en una diversa Ley local, se aplicará ésta última.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 3.
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto del Departamento de Profesiones y Legalizaciones de la Secretaría General de Gobierno, al que, para los efectos de esta Ley, se aludirá en su texto como "El Departamento".
+La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Dirección de Permisos y Legalizaciones de la Secretaría del Trabajo y Asuntos Jurídicos, a la que, para los efectos de esta Ley, se aludirá en su texto como "la Dirección".
 
 ### CAPITULO II. Del Título Profesional y de las Profesiones que lo requieran para su ejercicio
 
@@ -351,7 +353,9 @@ b).- La Universidad Autónoma de Tamaulipas, y las instituciones universitarias 
 
 c).- El Colegio de Tamaulipas, en términos de la Ley que lo rige.
 
-La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría General de Gobierno, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría del Trabajo y Asuntos Jurídicos, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
 
 ### CAPITULO IV
 
@@ -417,7 +421,9 @@ III.- Poseer título profesional legalmente expedido y registrado, con las salve
 
 IV.- Contar con la cédula para el ejercicio profesional correspondiente, sea ésta expedida por la Federación o por el Estado;
 
-V.- Inscribirse en el padrón de profesionistas que llevará el Departamento.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Inscribirse en el padrón de profesionistas que llevará la Dirección.
 
 Respecto a los mexicanos no avecindados en el Estado, o aquellos que siendo avecindados hubiesen realizado sus estudios fuera de la Entidad y no estuviesen comprendidos en la relación del Artículo 5o. de esta Ley, sólo se requerirá la exhibición de la cédula de ejercicio con efecto de patente, expedida por las autoridades competentes de la Federación o de las Entidades Federativas.
 
@@ -431,19 +437,25 @@ II.- Actuar como investigadores en laboratorios o instituciones de carácter ese
 
 III.- Ser directores técnicos en la explotación de recursos naturales del Estado, con las limitaciones que establecen los reglamentos y leyes relativas.
 
-Respecto al ejercicio de alguna profesión no regulada por esta Ley, los extranjeros podrán habilitarse por el Departamento si en su país de origen hay reciprocidad para los mexicanos, sujetándose en todo caso a las leyes federales relativas.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+Respecto al ejercicio de alguna profesión no regulada por esta Ley, los extranjeros podrán habilitarse por la Dirección, si en su país de origen hay reciprocidad para los mexicanos, sujetándose en todo caso a las leyes federales relativas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 18.
 
-La autorización para ejercer en los términos del artículo anterior, se otorgará con carácter temporal por el Departamento, si se demuestra que las condiciones y calidad migratoria del extranjero le permite realizar dichas actividades y que posee el título correspondiente
+La autorización para ejercer en los términos del artículo anterior, se otorgará con carácter temporal por la Dirección, si se demuestra que las condiciones y calidad migratoria del extranjero le permite realizar dichas actividades y que posee el título correspondiente.
 
 #### SECCION I
 
 De la Legalización y Registro del Título Profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 19.
 
-Para registrarse como profesional y en su caso con una o varias especialidades ante el Departamento, el interesado deberá comprobar, respectivamente:
+Para registrarse como profesional y en su caso con una o varias especialidades ante la Dirección, el interesado deberá comprobar, respectivamente:
 
 I.- Haber obtenido un Título Profesional en los términos de esta Ley;
 
@@ -453,23 +465,31 @@ II.- Haber realizado estudios de perfeccionamiento técnico o científico en la 
 
 Por ningún concepto se legalizarán documentos educativos o se registrarán títulos ni se revalidarán estudios realizados, respecto de planteles que no estén reconocidos oficialmente.
 
-Para proceder a la legalización de documentos expedidos por instituciones del Sistema Educativo será necesario que la Institución Educativa los remita directamente a la Dirección General de Educación y Cultura, la que verificará antecedentes de escolaridad del interesado, asentando tal circunstancia y que se reunieron los requisitos legales reglamentarios para su expedición, hecho lo cual remitirá el documento para su legalización o registro al Departamento.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+Para proceder a la legalización de documentos expedidos por instituciones del Sistema Educativo será necesario que la Institución Educativa los remita directamente a la Secretaría de Educación del Estado, la que verificará antecedentes de escolaridad del interesado, asentando tal circunstancia y que se reunieron los requisitos legales reglamentarios para su expedición, hecho lo cual remitirá el documento para su legalización o registro a la Dirección.
 
 #### SECCION II
 
 De la expedición de la Cédula y Empadronamiento de los Profesionales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 21.
 
-Para extender la cédula profesional se requerirá el registro previo del título profesional correspondiente ante el Departamento.
+Para extender la cédula profesional se requerirá el registro previo del título profesional correspondiente ante la Dirección.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 22.
 
-Para garantizar al público la prestación de un efectivo servicio profesional, el Departamento formará un padrón por especialidades de todos los profesionistas de la Entidad, quienes en un término de seis meses posteriores a la expedición de su título, deberán inscribirse para tal efecto, proporcionando copia de la cédula que expida la Federación o las Entidades Federativas en su caso y señalando el domicilio donde preste sus servicios.
+Para garantizar al público la prestación de un efectivo servicio profesional, la Dirección formará un padrón por especialidades de todos los profesionistas de la Entidad, quienes en un término de seis meses posteriores a la expedición de su título, deberán inscribirse para tal efecto, proporcionando copia de la cédula que expida la Federación o las Entidades Federativas en su caso y señalando el domicilio donde preste sus servicios.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Cualquier modificación a los datos proporcionados al Departamento deberán ser notificados al mismo a más tardar en los 30 días siguientes al cambio de situación. Las autoridades competentes están obligadas a informar al Departamento a fin de que éste pueda tomar las medidas que procedan, sobre todo, aquellos casos en los que judicialmente se declare la suspensión o pérdida de los derechos civiles de un profesional, o su inhabilitación, para el ejercicio profesional.
+Cualquier modificación a los datos proporcionados a la Dirección deberán ser notificados al mismo a más tardar en los 30 días siguientes al cambio de situación. Las autoridades competentes están obligadas a informar a la Dirección a fin de que esta pueda tomar las medidas que procedan, sobre todo, aquellos casos en los que judicialmente se declare la suspensión o pérdida de los derechos civiles de un profesional, o su inhabilitación para el ejercicio profesional.
 
 ###### ARTICULO 24.
 
@@ -547,9 +567,11 @@ Cuando exista conflicto entre los intereses individuales de los profesionales y 
 
 De los Pasantes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 31.
 
-El Ejecutivo del Estado, por conducto del Departamento, podrá extender autorización temporal hasta por dos años, a los "pasantes" de las diversas profesiones para prestar su servicio profesional con esa calidad.
+El Ejecutivo del Estado, por conducto de la Dirección, podrá extender autorización temporal hasta por dos años, a los "pasantes" de las diversas profesiones para prestar su servicio profesional con esa calidad.
 
 ###### ARTICULO 32.
 
@@ -563,9 +585,11 @@ III.- Que actúen bajo la dirección o vigilancia de un profesional con título 
 
 ### CAPITULO V. De los Prácticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 33.
 
-El Departamento podrá autorizar con el carácter de práctico, a las personas que llenen los siguientes requisitos:
+La Dirección podrá autorizar con el carácter de práctico, a las personas que llenen los siguientes requisitos:
 
 I.- Saber leer y escribir;
 
@@ -575,25 +599,35 @@ III.- Haber sido examinadas y aprobadas al tenor de las disposiciones del presen
 
 Sólo se otorgarán autorizaciones para ejercer en calidad de práctico en regiones en que no hubiere profesionales radicados.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 34.
 
-Las autorizaciones expedidas por el Departamento para ejercer profesionalmente en calidad de lo práctico, no constituirán un derecho adquirido a favor del beneficiario.
+Las autorizaciones expedidas por la Dirección para ejercer profesionalmente en calidad de práctico, no constituirán un derecho adquirido a favor del beneficiario.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 35.
 
-El examen a que se sujetarán los aspirantes consistirá en una prueba teórico práctica, en que los interesados demostrarán tener los conocimientos necesarios en las materias que para cada profesión señale el Departamento.
+El examen a que se sujetarán los aspirantes consistirá en una prueba teórico práctica, en que los interesados demostrarán tener los conocimientos necesarios en las materias que para cada profesión señale la Dirección.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 36.
 
-El Departamento designará a un jurado integrado por tres profesionales de la rama de que se trata, con título debidamente registrado ante el mismo y con cinco años de ejercicio profesional. Los integrantes de los jurados deberán pertenecer a los Colegios Profesionales respectivos, si es que los hay, y en su ausencia por profesionales de prestigio.
+La Dirección designará a un jurado integrado por tres profesionales de la rama de que se trate, con título debidamente registrado ante el mismo y con cinco años de ejercicio profesional. Los integrantes de los jurados deberán pertenecer a los Colegios Profesionales respectivos, si es que los hay, y en su ausencia por profesionales de prestigio.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 37.
 
-Las autorizaciones serán temporales, no pudiendo exceder de tres años. El solo vencimiento del plazo para el cual sean concedidas, será suficiente para que la persona autorizada cese de ejercer. El Departamento podrá conceder una o varias prórrogas, cuando a su juicio subsistan las condiciones que motivaron la expedición del permiso.
+Las autorizaciones serán temporales, no pudiendo exceder de tres años. El solo vencimiento del plazo para el cual sean concedidas, será suficiente para que la persona autorizada cese de ejercer. La Dirección podrá conceder una o varias prórrogas, cuando a su juicio subsistan las condiciones que motivaron la expedición del permiso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 38.
 
-Las autorizaciones podrán revocarse por el Departamento cuando así convenga al interés social, en los casos siguientes:
+Las autorizaciones podrán revocarse por la Dirección cuando así convenga al interés social, en los casos siguientes:
 
 I.- Cuando los titulares de ellas sean condenados por delitos que merezcan pena corporal;
 
@@ -625,9 +659,11 @@ II.- Por los profesionistas cuando así le sea solicitado por las autoridades co
 
 III.- Por los Colegios Profesionales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 42.
 
-La prestación de los servicios profesionales de índole social señalados en la fracción I del artículo que antecede, será directamente exigida por las Instituciones Universitarias o de Educación Superior correspondientes; en los demás supuestos lo hará el Departamento.
+La prestación de los servicios profesionales de índole social señalados en la fracción I del artículo que antecede, será directamente exigida por las Instituciones Universitarias o de Educación Superior correspondientes; en los demás supuestos lo hará la Dirección.
 
 ### CAPITULO VII
 
@@ -643,13 +679,19 @@ Para reconocer a una asociación el carácter de "Colegio Profesional" es necesa
 
 I.- Constituirse en asociación civil, cumpliendo las prevenciones legales que al efecto establece el Código Civil del Estado;
 
-II.- Tener un mínimo de cincuenta socios, a menos que el Departamento determine que por el escaso número de profesionales de alguna rama en particular, deba reducirse dicha cantidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+II.- Tener un mínimo de cincuenta socios, a menos que la Dirección determine que por el escaso número de profesionales de alguna rama en particular, deba reducirse dicha cantidad;
 
 III.- Indicar en su denominación la expresión "Colegio de... " y la rama profesional a que pertenezca;
 
-IV.- Tramitar su reconocimiento como órganos colaboradores de la administración pública ante el Departamento o la autoridad que corresponda según su especialidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-V.- Registrarse, una vez constituida, en el Departamento.
+IV.- Tramitar su reconocimiento como órganos colaboradores de la administración pública ante la Dirección o la autoridad que corresponda según su especialidad; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+V.- Registrarse, una vez constituida, en la Dirección.
 
 ###### ARTICULO 45.
 
@@ -687,9 +729,11 @@ VI.- Los requisitos necesarios para que sus Asambleas Ordinarias y Extraordinari
 
 VII.- Que la convocatoria para sus asambleas sean publicadas en uno de los diarios de mayor circulación en el Estado o sean remitidas al domicilio de los asociados por correo certificado, con una semana de anticipación como mínimo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 47.
 
-En los municipios del Estado podrá existir cuando menos, un Colegio por cada profesión reconocida en esta Ley, pero no habrá más de dos de la misma rama; el Departamento informará a los interesados que así lo soliciten, en forma razonada y fundada según las condiciones objetivas del caso, la posibilidad de constituir o no nuevos colegios en la Entidad, sin que nunca pueda excederse del número señalado en este artículo.
+En los municipios del Estado podrá existir cuando menos, un Colegio por cada profesión reconocida en esta Ley, pero no habrá más de dos de la misma rama; la Dirección informará a los interesados que así lo soliciten, en forma razonada y fundada según las condiciones objetivas del caso, la posibilidad de construir o no nuevos colegios en la Entidad, sin que nunca pueda excederse del número señalado en este artículo.
 
 ###### ARTICULO 48.
 
@@ -797,13 +841,17 @@ II.- Utilizar en su denominación la expresión "Colegio de......." por alguna a
 
 III.- Abstenerse de otorgar recibo de pago de honorarios o gastos;
 
-IV.- No inscribirse en el término a que se refiere el Artículo 22 de esta Ley en el Padrón de Profesionistas del Departamento.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+IV.- No inscribirse en el término a que se refiere el artículo 22 de esta Ley en el Padrón de Profesionistas de la Dirección.
 
 Cualquier otra derivada del incumplimiento de esta Ley y no tenga señalada sanción diversa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 57.
 
-La comisión de alguna de las faltas enunciadas en el artículo anterior, así como cualquier otra infracción a la presente Ley, serán sancionadas por el Departamento con:
+La comisión de alguna de las faltas enunciadas en el artículo anterior, así como cualquier otra infracción a la presente Ley, serán sancionadas por la Dirección con:
 
 I.- Amonestación;
 
@@ -811,23 +859,31 @@ II.- Multa; o
 
 III.- Suspensión del ejercicio profesional.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 58.
 
-Para la aplicación de sanciones, el Departamento tomará en cuenta las circunstancias en que fue cometida la infracción, la gravedad de la misma y la condición del infractor, al que hará saber los hechos emplazándolo a una audiencia de contestación de pruebas y alegatos dentro del término de diez días y una vez desahogada la misma, resolverá de inmediato. Para el emplazamiento, análisis y valoración de pruebas será aplicable lo dispuesto por el Código de Procedimientos Civiles vigente en el Estado.
+Para la aplicación de sanciones, la Dirección tomará en cuenta las circunstancias en que fue cometida la infracción, la gravedad de la misma y la condición del infractor, al que hará saber hechos emplazándolo a una audiencia de contestación de pruebas y alegatos dentro del término de diez días y una vez desahogada la misma, resolverá de inmediato.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 59.
 
-Cuando a juicio del Departamento la falta sea leve, se amonestará al infractor y se le prevendrá en la aplicación de una multa para el caso de reincidencia.
+Cuando a juicio de la Dirección la falta sea leve, se amonestará al infractor y se le prevendrá con la aplicación de una multa para el caso de reincidencia.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 60.
 
-La comisión de las faltas a que se refiere el Artículo 56 de esta Ley se sancionará a juicio del Departamento con multa entre un mínimo de cinco y un máximo de veinticinco días de salario entendiéndose por día de salario el mínimo general diario que rija en la capital del Estado en el momento del pago.
+La comisión de las faltas a que se refiere el artículo 56 de esta Ley se sancionará a juicio de la Dirección con multa entre un mínimo de cinco y un máximo de veinticinco días de salario entendiéndose por día de salario el mínimo general diario que rija en la capital del Estado en el momento del pago.
 
-La multa respectiva se deberá cubrir en la Tesorería General del Estado, a través de las oficinas autorizadas del domicilio del infractor; en caso de que éste no pagare la multa se hará efectiva mediante el procedimiento de ejecución previsto por el Código Fiscal del Estado.
+La multa respectiva se deberá cubrir en la Secretaría de Finanzas del Estado, a través de las oficinas autorizadas del domicilio del infractor; en caso de que éste no pagare la multa se hará efectiva mediante el procedimiento de ejecución previsto por el Código Fiscal del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 61.
 
-El Departamento podrá cancelar el registro de títulos profesionales, cuando se compruebe que el título no fue expedido con los requisitos que esta Ley señala.
+La Dirección podrá cancelar el registro de títulos profesionales, cuando se compruebe que el título no fue expedido con los requisitos que esta Ley señala.
 
 La concelación (sic) del registro de un título producirá efectos de revocación de la cédula que se le hubiere expedido para ejercer profesionalmente.
 
@@ -847,23 +903,29 @@ Los que ejerzan una profesión de las comprendidas en el Artículo 5 de esta Ley
 
 Cuando se ofendan los derechos de la sociedad, podrá suspenderse al profesionista en el ejercicio de su función hasta por el término de seis años. Si ya estuviese suspendido podrá decretarse nuevamente la medida que computará cuando termine la primera sanción y se impondrá una multa de sólo 25 días de salario hasta tres veces la cantidad que hubiere recibido con motivo del servicio prestado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
 ###### ARTICULO 66.
 
-El profesionista que se considere afectado por una sanción impuesta por el Departamento podrá interponer recurso de revisión ante el Secretario General de Gobierno dentro del término de quince días a partir de la notificación, quien resolverá lo conducente en un término igual.
+El profesionista que se considere afectado por una sanción impuesta por la Dirección podrá interponer recurso de revisión ante el Subsecretario de Servicios y Gestión Gubernamental de la Secretaría General de Gobierno, dentro del término de quince días a partir de la notificación, quien resolverá lo conducente en un término igual.
 
 ## TITULO III
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-DEL DEPARTAMENTO DE PROFESIONES Y LEGALIZACIONES.
+### CAPÍTULO ÚNICO. De la Dirección de Permisos y Legalizaciones
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 67.
 
-El Departamento de Profesiones y Legalizaciones tendrá a su cargo la supervisión del ejercicio profesional en el Estado. Dependerá de la Secretaría General de Gobierno y tendrá las atribuciones que establecen esta Ley, la de Educación Pública y demás, disposiciones relativas.
+La Dirección tendrá a su cargo la supervisión del ejercicio profesional en el Estado. Dependerá de la Secretaría del Trabajo y Asuntos Jurídicos y tendrá las atribuciones que establecen esta Ley, la de Educación Pública y demás disposiciones relativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 68.
 
-El Departamento tendrá las siguientes atribuciones:
+La Dirección tendrá las siguientes atribuciones:
 
 I.- Recabar los datos que considere necesarios para, en su caso, proceder a la legalización o al registro de los títulos profesionales;
 
@@ -891,7 +953,13 @@ XII.- Proporcionar los informes que se soliciten en asuntos de su competencia;
 
 XIII.- Conocer de las infracciones a la presente Ley, imponiendo las sanciones que la misma establece, en su caso;
 
-XVI.- Las demás que deriven de las Leyes o Reglamentos aplicables a la materia.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XIV.- Llevar el Registro de Peritos Dictaminadores y Traductores o Intérpretes del Estado de Tamaulipas, conforme al Reglamento que para tal efecto se expida; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+
+XV.- Las demás que deriven de las Leyes o Reglamentos aplicables a la materia.
 
 T R A N S I T O R I O S
 
@@ -970,3 +1038,17 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento para el Registro de Peritos del Estado, se deberá expedir en un plazo no mayor a 60 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, deberá quedar instalada la Comisión de Valuación de la Secretaría del Trabajo y Asuntos Jurídicos.
