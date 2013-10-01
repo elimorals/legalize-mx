@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2013-01-24"
+last_updated: "2013-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -75,9 +75,13 @@ VII. Unidad de Asuntos Jurídicos;
 
 VIII. Dirección General de Comunicación Social;
 
-IX. Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
 
-X. Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República;
+IX. Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+X. Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República;
 
 XI. Coordinación General de Educación Intercultural y Bilingüe;
 
@@ -621,31 +625,43 @@ XXV. Formar parte de la Comisión de Estudios Jurídicos del Gobierno Federal.
 
 Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Asuntos Jurídicos, podrá auxiliarse, entre otros, por los Directores de Procesos Jurídico Administrativos, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales, y Jurídico de Apoyo en Adquisiciones, Obra Pública y Servicios, así como por los subdirectores y jefes de departamento que de dicha Unidad dependan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-Corresponde a la Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación el ejercicio de las siguientes atribuciones:
+Corresponde a la Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública el ejercicio de las siguientes atribuciones:
 
-I. Coordinar las tareas que realicen las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+I. Coordinar las tareas que realicen las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República;
 
 II. Proponer y promover, en coordinación con las unidades administrativas competentes, las medidas de acción conducentes para convenir con los estados de la República la descentralización de los servicios educativos a cargo de la Secretaría;
 
 III. Coordinar y articular, con las unidades administrativas de la Secretaría, los flujos de información y los mecanismos para operar los trámites que preste la Secretaría en los Estados de la República;
 
-IV. Proporcionar a las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República lo necesario para realizar trámites y gestiones ante las unidades administrativas de la Secretaría, así como ante otras dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+IV. Proporcionar a las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República lo necesario para realizar trámites y gestiones ante las unidades administrativas de la Secretaría, así como ante otras dependencias y entidades de la Administración Pública Federal;
 
 V. Ser el conducto para que las unidades administrativas a que se refiere el presente Reglamento, brinden la asesoría y apoyos necesarios a las autoridades educativas locales;
 
-VI. Hacer del conocimiento de las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República, para su difusión y observancia, los lineamientos generales que emita la Secretaría en términos de la Ley General de Educación;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+VI. Hacer del conocimiento de las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República, para su difusión y observancia, los lineamientos generales que emita la Secretaría en términos de la Ley General de Educación;
 
 VII. Proponer las acciones de racionalización y simplificación administrativa que deba desarrollar la Secretaría, dentro de su ámbito de competencia, en los Estados de la República, así como coordinar la ejecución de aquéllas que sean aprobadas;
 
 VIII. Verificar y, en su caso, comunicar a las unidades administrativas competentes de la Secretaría, la aplicación y el desarrollo en los Estados de la República de las disposiciones a que se refiere la fracción anterior, y
 
-IX. Coordinar, de conformidad con las unidades administrativas competentes de la Secretaría, la elaboración de los programas de actividades, anteproyectos de presupuesto, estadísticas y administración de recursos que desarrollen las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República.
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+IX. Coordinar, de conformidad con las unidades administrativas competentes de la Secretaría, la elaboración de los programas de actividades, anteproyectos de presupuesto, estadísticas y administración de recursos que desarrollen las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponde a las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República el ejercicio de las siguientes atribuciones:
+Corresponde a las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República el ejercicio de las siguientes atribuciones:
 
 I. Representar a la Secretaría y a su Titular ante las autoridades educativas de los Estados de la República y, en general, ante los órganos de gobierno de las entidades establecidas en éstos;
 
@@ -657,11 +673,15 @@ IV. Servir de enlace entre la Secretaría y las autoridades educativas estatales
 
 V. Coordinar, de conformidad con los lineamientos establecidos por el Secretario y con el concurso de las unidades administrativas competentes, los servicios que ofrezca la Secretaría en el estado correspondiente;
 
-VI. Identificar y proponer al Coordinador General de Oficinas de Servicios Federales de Apoyo a la Educación, dentro de su ámbito de competencia, medidas conducentes para convenir la transferencia de servicios educativos prestados por la Secretaría y facilitar la aplicación de las mismas;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+VI. Identificar y proponer al Coordinador General de Delegaciones Federales de la Secretaría de Educación Pública, dentro de su ámbito de competencia, medidas conducentes para convenir la transferencia de servicios educativos prestados por la Secretaría y facilitar la aplicación de las mismas;
 
 VII. Apoyar, en el ámbito territorial de su competencia, la labor de las entidades paraestatales del sector educativo, con el propósito de dar coherencia y unidad a las acciones de la autoridad educativa federal y del sector coordinado por ésta;
 
-VIII. Reportar periódicamente al Secretario, por conducto del Coordinador General de Oficinas de Servicios Federales de Apoyo a la Educación, la situación que guarda el sector educativo federal en sus respectivos ámbitos territoriales de competencia, para cuyo cumplimiento podrá solicitar informes a las unidades administrativas y servidores públicos de la Dependencia;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2013)</small>
+
+VIII. Reportar periódicamente al Secretario, por conducto del Coordinador General de Delegaciones Federales de la Secretaría de Educación Pública, la situación que guarda el sector educativo federal en sus respectivos ámbitos territoriales de competencia, para cuyo cumplimiento podrá solicitar informes a las unidades administrativas y servidores públicos de la Dependencia;
 
 IX. Constatar el avance de los convenios celebrados entre la Secretaría y las autoridades educativas locales y brindar los apoyos necesarios, para lograr su cabal cumplimiento, y
 
@@ -2052,3 +2072,11 @@ Las erogaciones que se generen con motivo de la entrada en vigor del presente De
 QUINTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
 
 SEXTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 1 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen a la Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación, así como a las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública y a las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República, respectivamente.
+
+TERCERO.- El cambio de denominación de la Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación a Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública, así como el de las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República a Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República, respectivamente, no implica la creación de ninguna Unidad Administrativa nueva.
