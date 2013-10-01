@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-junta-local-de-conciliacion-y-16130"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-18"
-last_updated: "2001-05-28"
+last_updated: "2013-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16130&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-04-11"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE MAYO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 1 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 18 de abril de 2000.
 
@@ -1046,7 +1048,7 @@ IV. Cambiar a los peritos designados en un juicio cuando concurran circunstancia
 
 V. Rendir informe mensual al Presidente Titular de la Junta, que deberá contener el número de dictámenes solicitados y rendidos por materia en las diversas áreas de la Junta.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE MAYO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE MAYO DE 2001)</small>
 
 De la Contraloría de la Junta Local
 
@@ -1880,7 +1882,7 @@ El presente reglamento entrará en vigor al día siguiente de su publicación en
 
 México, D.F. 11 de abril del 2000.- el Presidente de la Junta Local de Conciliación y Arbitraje del Distrito Federal.- Dr. José Francisco Becerril Mendoza.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Uno y Uno Bis.- Lic. Aída Martínez Armenta.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Dos y Dos Bis.- C. Margarita Muñoz Ortega.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Tres y Tres Bis.- Lic. Rubelio Esqueda Llanes.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Cuatro y Cuatro Bis.- C. Alejandro Herrera Hernández.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Cinco y Cinco Bis.- C. Jorge Rivera Gómez.- Rúbrica.- (Firma).- El Representante de los Trabajadores de las Juntas Especiales Seis y Seis Bis.- C. Sergio Peña Nuñez.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante las Juntas Especiales Siete y Siete Bis.- Lic. Oscar López Fuentes.- Rúbrica.- (Firma).- El Representante de los Trabajadores ante la Junta Especial Ocho.- C. Carlos Garduño Velázquez.- Rúbrica.- (Firma).- El representante de los Patrones ante las Juntas Especiales Uno y Uno Bis.- Lic. Eduardo Preciat Castilla.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Dos y Dos Bis.- Lic. Ernesto Solórzano Alexander.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Tres y Tres Bis.- Lic. Mario Roberto Carmona Angel.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Cuatro y Cuatro Bis.- Lic. Carlos Aguirre Saavedra.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Cinco y Cinco Bis.- Lic. Aldo Ernesto Cortizo Molina.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Seis y Seis Bis.- Lic. Humberto Flores Palacios.- Rúbrica.- (Firma).- El Representante de los Patrones ante las Juntas Especiales Siete y Siete Bis.- Lic. Jorge Enrique Pareja Aguilar.- Rúbrica.- (Firma).- El Representante de los Patrones ante la Junta Especial Ocho.- Lic. Lydia Patricia Cano Vargas.- Rúbrica.- (Firma).- El Secretario General de Registro de Asociaciones.- Lic. Guadalupe Esther Guerrero López.- Rúbrica.- (Firma).- El Secretario General de Acuerdos.- Lic. Agustín Aguilar Tovar.- Rúbrica.- (Firma).-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO INTERIOR.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO INTERIOR.</small>
 
 G.O. 28 DE MAYO DE 2001.
 
@@ -1895,3 +1897,17 @@ CUARTO.- Derivado de la presente modificación para todos los efectos legales y 
 Las referencias hechas en el artículo 123 del Reglamento Interior de la Junta Local, a la Dirección de Informática y Servicios de Cómputo se entenderán hechas a la Coordinación de Informática y Sistemas, misma que dependerá directamente del Presidente de la Junta Local.
 
 QUINTO.- Los asuntos que a la entrada en vigor del presente Acuerdo se encuentren en trámite ante la Unidad Jurídica de Quejas, deberán ser concluidos por ésta de conformidad con el anterior procedimiento y una vez resueltos los mismos, dicha Unidad dejará de funcionar.
+
+G.O. 1 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Distrito Federal, publicado en la GACETA OFICIAL DEL DISTRITO FEDERAL, el 18 de abril de 2000.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo no previsto en el presente reglamento, será resuelto conforme a las disposiciones de la Ley Federal del Trabajo y de la Ley Federal de los Trabajadores al Servicio del Estado vigente en el Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Junta Local de Conciliación y Arbitraje del Distrito Federal realizara las adecuaciones administrativas y de infraestructura para su funcionamiento.
