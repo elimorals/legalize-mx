@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-informacion-y-91683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-23"
-last_updated: "2013-01-23"
+last_updated: "2013-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFORMACIÓN Y COMUNICACIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de enero del 2013.
 
@@ -57,7 +57,7 @@ IV. Secretario, a la persona titular de la Secretaría;
 
 V. Direcciones Generales, a las Unidades Administrativas que con tal carácter se encuentren adscritas a la Secretaría, y
 
-VI. Radio y televisión, al servicio de radiodifusión.
+VI. (DEROGADA, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 3.
 
@@ -77,13 +77,15 @@ VI. Dirección General de Difusión, Promoción y Coordinación de Eventos;
 
 VII. Dirección General de Evaluación y Estrategia;
 
-VIII. Dirección General del Sistema Morelense de Radio y Televisión;
+VIII. (DEROGADA, P.O. 2 DE OCTUBRE DE 2013)
 
 IX. Dirección General de Coordinación Editorial;
 
 X. Dirección General de Redes Sociales;
 
-XI. Dirección General de Imagen, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+XI. Dirección General de Diseño, y
 
 XII. Asesor de Comunicación Social.
 
@@ -195,9 +197,11 @@ XXI. Realizar y supervisar las demás tareas que le confieren otras disposicione
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA SUBSECRETARÍA DE INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 9.
 
-Al frente de la Subsecretaría de Información habrá una persona titular, quien para la mejor distribución y desarrollo de las actividades que le correspondan podrá, sin perjuicio de su ejercicio directo, delegar las atribuciones en servidores públicos subalternos, para lo cual tendrá bajo su adscripción a la Dirección General de Sistemas e Informática, a la Dirección General de Imagen y a la Dirección General de Difusión, Promoción y Coordinación de Eventos.
+Al frente de la Subsecretaría de Información habrá una persona titular, quien para la mejor distribución y desarrollo de las actividades que le correspondan podrá, sin perjuicio de su ejercicio directo, delegar las atribuciones en servidores públicos subalternos, para lo cual tendrá bajo su adscripción a la Dirección General de Sistemas e Informática, a la Dirección General de Diseño y a la Dirección General de Difusión, Promoción y Coordinación de Eventos.
 
 ###### Artículo 10.
 
@@ -405,131 +409,49 @@ X. Elaborar proyectos de comunicación integrales tales como campañas de alto i
 
 XI. Diseñar un plan de medios nacionales para posicionar la figura y acciones de Gobierno.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2013)</small>
+
 ### CAPÍTULO X. DE LA DIRECCIÓN GENERAL DEL SISTEMA MORELENSE DE RADIO Y TELEVISIÓN
 
 ###### Artículo 17.
 
-El servicio de radiodifusión es aquél que se presta mediante la propagación de ondas electromagnéticas de señales de audio o de audio y video asociado, haciendo uso, aprovechamiento o explotación de las bandas de frecuencias del espectro radioeléctrico atribuido por el Estado, precisamente, a tal servicio, con el que la población puede recibir de manera directa y gratuita las señales de su emisor utilizando los dispositivos idóneos para ello.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 18.
 
-La industria de la radio y la televisión comprende el aprovechamiento de las ondas electromagnéticas, mediante la instalación, funcionamiento y operación de estaciones radiodifusoras por los sistemas de modulación, amplitud o frecuencia, televisión, facsímile, o cualquier otro procedimiento técnico posible, dentro de las bandas de frecuencias del espectro radioeléctrico atribuidas a tal servicio.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 19.
 
-La radio y la televisión tienen la función social de contribuir al fortalecimiento de la integración nacional y el mejoramiento de las formas de convivencia humana, a través de sus transmisiones, procurarán:
-
-I. Afirmar el respeto a los principios de la moral social, la dignidad humana y los vínculos familiares;
-
-II. Evitar influencias nocivas o perturbadoras al desarrollo armónico de la niñez y la juventud;
-
-III. Contribuir a elevar el nivel cultural del pueblo y a conservar las características nacionales, las costumbres del país y sus tradiciones, la propiedad del idioma y a exaltar los valores de la nacionalidad mexicana, y
-
-IV. Fortalecer las convicciones democráticas, la unidad nacional y la amistad y cooperación internacionales.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 20.
 
-En relación con el artículo anterior, el titular del Poder Ejecutivo por conducto de la Secretaría, promoverá la transmisión de programas de divulgación con fines de orientación social, cultural y cívica.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 21.
 
-A falta de disposición expresa en este Reglamento, se aplicarán:
-
-I. Los Tratados Internacionales;
-
-II. La Ley Federal de Telecomunicaciones;
-
-III. La Ley de Vías Generales de Comunicación;
-
-IV. La Ley General de Bienes Nacionales;
-
-V. La Ley Federal de Radio y Televisión;
-
-VI. La Ley Federal de Procedimiento Administrativo;
-
-VII. El Código de Comercio;
-
-VIII. El Código Civil Federal;
-
-IX. El Código Federal de Procedimientos Civiles;
-
-X. El Código Federal de Instituciones y Procedimientos Electorales, exclusivamente en Materia Electoral, y
-
-XI. Demás disposiciones estatales y federales aplicables.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 22.
 
-La radio y la televisión constituyen una actividad de interés público y corresponde al Estado protegerla y vigilar el cumplimiento de sus funciones sociales.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 23.
 
-En el cumplimiento de las funciones que establecen la Ley Federal de Radio y Televisión y este Reglamento, la radio y la televisión deben constituir vehículos de integración nacional y enaltecimiento de la vida en común, a través de sus actividades culturales, de recreación y de fomento económico.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 24.
 
-La radio y la televisión orientarán preferentemente sus actividades a la ampliación de la educación popular, la difusión de la cultura; la extensión de los conocimientos; la propagación de las ideas que fortalezcan nuestros principios y tradiciones; al estímulo a nuestra capacidad para el progreso; a la facultad creadora del mexicano para las artes; a la participación ciudadana y a la solidaridad; y al análisis de los asuntos del país desde un punto de vista objetivo, a través de orientaciones adecuadas que afirmen la unidad nacional, la equidad de género y el respeto a los derechos de los grupos vulnerables.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 25.
 
-La función informativa constituye una actividad específica de la radio y la televisión tendiente a orientar a la comunidad, en forma veraz y oportuna, dentro del respeto a la vida privada y a la moral, sin afectar los derechos de terceros, ni perturbar el orden y la paz pública.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ###### Artículo 26.
 
-La Dirección General del Sistema Morelense de Radio y Televisión tendrá las siguientes atribuciones:
-
-I. Ejercer las atribuciones que las leyes y reglamentos le confieren a la Secretaría en materia de radio y televisión;
-
-II. Someter al acuerdo del Secretario lo relativo a la coordinación, promoción y fomento de las actividades que, en el ámbito de su competencia, realiza la Secretaría en materia de radio y televisión;
-
-III. Regular los contenidos de las transmisiones de radio y televisión del Sistema Morelense de Radio y Televisión;
-
-IV. Resolver las solicitudes de clasificación para transmitir películas cinematográficas, series filmadas, telenovelas y teleteatros, producidos en el país o en el extranjero, así como vigilar su observancia;
-
-V. Autorizar la transmisión de programas subtitulados desarrollados o producidos en el extranjero, así como la de programas que patrocine un gobierno extranjero o un organismo internacional;
-
-VI. Vigilar, con la participación que corresponda a otras dependencias, que los contenidos de las transmisiones de radio y televisión cumplan con las disposiciones de la Ley Federal de Radio y Televisión, las de este Reglamento, y las de los correspondientes títulos de concesión o permisos;
-
-VII. Autorizar la transmisión de programas subtitulados en idiomas diferentes al nacional por radio y televisión;
-
-VIII. Conceder permisos para la transmisión de programas de concursos, de preguntas y respuestas, y de otros semejantes, en coordinación con la Unidad de Gobierno de la Secretaría de Gobernación en los casos que proceda;
-
-IX. Promover, con la intervención que corresponda a otras Secretarías, Dependencias y Entidades de la Administración Pública Estatal, la producción de materiales de radio y televisión para que se difundan a través de los tiempos del Estado;
-
-X. Proveer lo necesario para el uso del tiempo que corresponda al Estado en las estaciones de radio y televisión;
-
-XI. Ordenar y coordinar el encadenamiento de las estaciones de radio y televisión, de acuerdo con lo dispuesto en el artículo 62 de la Ley Federal de Radio y Televisión;
-
-XII. Coordinar con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal el desarrollo de programas, así como material de radio y televisión que tenga por objeto servir de apoyo a los programas educativos;
-
-XIII. Dirigir las políticas internas, así como someter a consideración del Secretario los planes, proyectos, programas, objetivos y metas de ésta Dirección General;
-
-XIV. Coordinar el desarrollo de las actividades técnicas y de investigación de esta Dirección General;
-
-XV. Fomentar el establecimiento de espacios que propicien y faciliten las actividades educativas y culturales que contribuyan al desarrollo de las comunidades en las diversas regiones del Estado, mediante pláticas, seminarios, conferencias, concursos, recepción de teleconferencias o cualquier otro medio que contribuya a este fin;
-
-XVI. Generar flujos de comunicación que permitan a la población del Estado el acceso a la información de diversa índole, proveniente de los medios digitales y telecomunicaciones de vanguardia, que sean de interés para los sectores público, social y privado;
-
-XVII. Fomentar en el ámbito de su competencia, la participación ciudadana en aquellos asuntos de interés público;
-
-XVIII. Promover, y en su caso, convenir proyectos de vinculación en materia educativa y cultural, con los sectores público, social y privado de acuerdo con los objetivos de esta Dirección General, previa autorización del Secretario;
-
-XIX. Coordinar la instalación de nuevas estaciones o repetidoras autorizadas por las respectivas instancias gubernamentales, de conformidad con la normatividad aplicable;
-
-XX. Garantizar que los medios de comunicación operados por esta Dirección General con permisos otorgados al Gobierno del Estado, representen un factor que contribuya y favorezca el desarrollo cultural y educativo de todas las comunidades del Estado, utilizando las tecnologías digitales, que hagan más eficiente la comunicación por radio;
-
-XXI. Coordinar la producción y transmisión de los programas en vivo y pregrabados en las diferentes estaciones de la Red Estatal de Radiodifusoras para su difusión a nivel estatal, nacional e internacional;
-
-XXII. Vincular los beneficios generados por los programas sociales que las Secretarías, Dependencias y Entidades de la Administración Pública Estatal lleven a cabo por el Gobierno del Estado, a través de la difusión permanente de la radio;
-
-XXIII. Participar de manera coordinada, previo conocimiento del Secretario, con las autoridades federales, estatales y municipales, en la difusión radiofónica de medidas de prevención relacionadas con el eventual riesgo de fenómenos naturales;
-
-XXIV. Vigilar el correcto funcionamiento técnico de las señales generadas por las estaciones de radio de la Red Estatal de Radiodifusoras;
-
-XXV. Establecer previo acuerdo con el Secretario, vínculos de cooperación y coproducción con organismos estatales, nacionales e internacionales, públicos o privados, orientados a la realización de proyectos y programas radiofónicos de carácter educativo, cultural e informativo;
-
-XXVI. Coordinar la instalación de nuevas estaciones o repetidoras autorizadas por las respectivas instancias gubernamentales, de conformidad con la normatividad aplicable, y
-
-XXVII. Instrumentar mecanismos de opinión de los radioescuchas sobre las producciones propias, así como de la programación de la Red Estatal de Radiodifusoras para hacer más eficiente su funcionamiento a través de su constante retroalimentación, actualización y mejora.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN GENERAL DE COORDINACIÓN EDITORIAL
 
@@ -565,21 +487,31 @@ La Dirección General de Redes Sociales tendrá las siguientes atribuciones:
 
 I. Proponer al Secretario y al Subsecretario que corresponda estrategias para el manejo de redes sociales del titular del Poder Ejecutivo y del Gobierno del Estado, en conjunto con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
 
-II. Mantener actualizadas las páginas de las diferentes redes sociales con información relevante a la vida política y social del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
 
-III. Establecer estrategias para incrementar el número de seguidores o usuarios de las redes;
+II. Mantener actualizados los espacios de las redes sociales que competan al Poder Ejecutivo con información relevante a la vida política y social del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+III. Generar y establecer estrategias que coadyuven a incrementar la participación ciudadana y el número de seguidores o usuarios de las redes sociales del Gobierno del Estado;
 
 IV. Atender los cuestionamientos de los ciudadanos a través de las redes sociales del Gobierno del Estado y del titular del Poder Ejecutivo;
 
 V. Coordinar el uso de las redes sociales, que las Secretarías, Dependencias y Entidades de la Administración Pública Estatal deben hacer de un modo eficiente, para difundir y retroalimentar información con la ciudadanía, y
 
-VI. Capacitar al personal de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal en el uso oficial de las redes sociales.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO XIII. DE LA DIRECCIÓN GENERAL DE IMAGEN
+VI. Generar proyectos para capacitar al personal de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal en el uso oficial de las redes sociales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO XIII. DE LA DIRECCIÓN GENERAL DE DISEÑO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 30.
 
-La Dirección General de Imagen tendrá las siguientes atribuciones:
+La Dirección General de Diseño tendrá las siguientes atribuciones:
 
 I. Elaborar y proponer, para aprobación al Secretario, el Manual de Imagen Institucional del Gobierno del Estado;
 
@@ -662,3 +594,13 @@ EL SECRETARIO DE INFORMACIÓN Y COMUNICACIÓN
 JORGE LÓPEZ FLORES
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
+
+TERCERA. La Secretaría de Información y Comunicación tendrá un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto para elaborar los Manuales de Organización, y de Políticas y Procedimientos, en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. La persona titular de la Secretaría resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación de este Decreto.
