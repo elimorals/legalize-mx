@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2013-08-14"
+last_updated: "2013-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE SALUD DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -1303,13 +1305,17 @@ II.- Vigilar y certificar la calidad del agua para el consumo humano;
 
 III.- Promover y apoyar el saneamiento básico;
 
-IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y
+IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y (sic)
 
 V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas como brotes epidémicos y desastres.
 
 VI.- Vigilar y certificar la calidad del aire, en las ciudades del Estado;
 
 VII.- Vigilar los niveles de contaminación sonora que se produce en las ciudades del Estado.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+VIII.- Coadyuvar, en términos de la Norma Oficial Mexicana correspondiente, en la debida identificación, separación, envasado, almacenamiento, recolección, transporte, tratamiento y disposición final de los Residuos Peligrosos Biológico-Infecciosos, en términos de la legislación aplicable.
 
 ###### Artículo 118.
 
@@ -1334,6 +1340,12 @@ Los Servicios de Salud de Morelos, con la participación de las autoridades Fede
 ###### Artículo 123.
 
 Para los efectos de esta Ley se entiende por fuentes de radiación cualquier dispositivo o sustancia que emita radiación ionizante en forma cuantificable. Y deberá apegarse a lo marcado en el titulo séptimo capítulo IV de los efectos del medio ambiente en la salud de la Ley General de Salud, la regulación y el control sanitario de éstas, es atribución de la Comisión Federal para la Protección Contra Riesgos Sanitarios.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 123 Bis.
+
+Para garantizar el debido control de los Residuos Peligrosos Biológico-Infecciosos, resultado de la operatividad de los servicios de salud en el Estado, el Gobierno de Morelos, a través de la Secretaría de Salud, podrá constituir un Centro Estatal de Residuos Peligrosos Biológico-Infecciosos, responsable de cumplir la Norma Oficial Mexicana en la materia y que podrá prestar su servicio a aquellos hospitales públicos y privados que lo soliciten, previo el convenio respectivo y cubrir la cuota o tarifa correspondiente, en términos de la legislación aplicable.
 
 ### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
@@ -3550,3 +3562,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 49 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
