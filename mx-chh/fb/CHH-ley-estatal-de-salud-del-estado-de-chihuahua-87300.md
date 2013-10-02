@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2013-06-26"
+last_updated: "2013-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JUNIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1893,7 +1891,11 @@ III. Fomento de actividades cívicas, deportivas y culturales, que coadyuven en 
 
 El Ejecutivo del Estado, a través de la Secretaría, y los municipios, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
-I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+I.- Determinarán y ejercerán medios de control, entre los cuales deberán de incluir la comprobación de la mayoría de edad del comprador, mediante identificación oficial, en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces.
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas.
 
@@ -3440,3 +3442,9 @@ P.O. 19 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado.
