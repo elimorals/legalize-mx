@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2013-09-11"
+last_updated: "2013-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -271,7 +271,7 @@ b). (DEROGADO, P.O. 19 DE ABRIL DE 2008)
 
 c). Clave Única de Registro de Población; y
 
-d) Credencial para Votar con Fotografía.
+d). Credencial para Votar con Fotografía.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -391,7 +391,7 @@ Las leyes determinarán la autoridad a la que corresponda resolver la suspensió
 
 ### CAPÍTULO ÚNICO. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INTEGRABA EL CAPÍTULO SÉPTIMO DEL TÍTULO I] , P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INTEGRABA EL CAPÍTULO SÉPTIMO DEL TÍTULO I], P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
@@ -451,7 +451,11 @@ El patrimonio familiar es inalienable y en ningún caso sufrirá menoscabo ni se
 
 Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas para propiciar el desarrollo físico y mental de la población infantil y de la juventud; establecer un sistema permanente de apoyo e integración social de los ancianos, que les permita una vida digna y decorosa; promover el tratamiento, la rehabilitación e integración de las personas con algún grado de discapacidad, con el objeto de facilitar su desarrollo; y auspiciar la difusión de la cultura, el deporte y la recreación.
 
-I. Los niños gozarán de atención y cuidados especiales por parte de las Instituciones públicas y de la sociedad, con el fin de asegurar el desarrollo equilibrado y armónico de todas sus facultades y su desenvolvimiento en un ambiente de libertad y dignidad.
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+I. El Estado implementará una política pública, regida en su diseño, ejecución, seguimiento y evaluación por el principio del interés superior de la niñez, para garantizar su desarrollo integral y la plena satisfacción de sus derechos a la alimentación, salud, educación y sano esparcimiento;
+
+Los niños gozarán de atención y cuidados especiales por parte de las Instituciones públicas y de la sociedad, con el fin de asegurar el desarrollo equilibrado y armónico de todas sus facultades y su desenvolvimiento en un ambiente de libertad y dignidad.
 
 Son derechos particulares de los niños zacatecanos:
 
@@ -465,7 +469,11 @@ d) La atención especial en los casos en que se constituya en infractor de leyes
 
 Se considera niño a toda persona menor de dieciocho años.
 
-II. Son derechos particulares de las personas de la tercera edad:
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+II. Las y los jóvenes tienen derecho a su desarrollo integral, el cual se alcanzará mediante el ejercicio efectivo de los derechos que les otorga esta Constitución. En consecuencia, la ley establecerá los instrumentos, apoyos y la concurrencia del Estado y los municipios para la implementación de una política pública que permita alcanzar ese fin.
+
+III. Son derechos particulares de las personas de la tercera edad:
 
 a) La protección de su salud física y mental;
 
@@ -475,11 +483,11 @@ c) El descanso y la recreación; y
 
 d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de obligaciones fiscales estatales y municipales, en la forma y los términos que señalen las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 26.
 
-Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
+Toda persona tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2417,6 +2425,16 @@ La ley determinará cuales empresas son de interés público y los estímulos qu
 
 En los términos del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, el Estado reconoce el derecho de los particulares a la propiedad; determinará los modos en que asuma la función social que le concierne y será objeto de las limitaciones que fijen las leyes.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+El Estado promoverá las condiciones para el desarrollo rural integral sustentable, con el propósito de generar empleo y garantizar a la población rural el bienestar y su participación e incorporación en el desarrollo estatal, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con planes, programas, acciones, órganos, sistemas, servicios y fondos que promuevan
+
+(sic) obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+El desarrollo rural integral sustentable a que se refiere el párrafo anterior, también tendrá entre sus fines que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
+
 ### CAPÍTULO CUARTO. DEL PATRIMONIO Y LA HACIENDA DEL MUNICIPIO
 
 ###### Artículo 132.
@@ -3113,14 +3131,30 @@ Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 P.O. 11 DE SEPTIEMBRE DE 2013.
 
-DECRETO NÚMERO 693, POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+DECRETO No. 693, POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 P.O. 11 DE SEPTIEMBRE DE 2013.
 
-DECRETO NÚMERO 696, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 14; SE REFORMA EL ARTÍCULO 35; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 36; SE REFORMAN LA FRACCIÓN VIII Y SE ADICIONA UNA FRACCIÓN IX, RECORRIÉNDOSE LAS SIGUIENTES EN SU ORDEN AL ARTÍCULO 38; SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 43; SE ADICIONA UN QUINTO PÁRRAFO RECORRIÉNDOSE LOS SIGUIENTES EN SU ORDEN Y SE REFORMA EL SEXTO PÁRRAFO DEL ARTÍCULO 44, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+DECRETO No. 696, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 14; SE REFORMA EL ARTÍCULO 35; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 36; SE REFORMAN LA FRACCIÓN VIII Y SE ADICIONA UNA FRACCIÓN IX, RECORRIÉNDOSE LAS SIGUIENTES EN SU ORDEN AL ARTÍCULO 38; SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 43; SE ADICIONA UN QUINTO PÁRRAFO RECORRIÉNDOSE LOS SIGUIENTES EN SU ORDEN Y SE REFORMA EL SEXTO PÁRRAFO DEL ARTÍCULO 44, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
 
 Artículo primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+DECRETO No. 694, POR EL QUE SE ADICIONA EL PÁRRAFO PRIMERO A LA FRACCIÓN I, RECORRIÉNDOSE LOS SIGUIENTES EN SU ORDEN Y SE ADICIONA UNA FRACCIÓN II, RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN, AL ARTÍCULO 25 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+DECRETO No. 695, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 131, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
