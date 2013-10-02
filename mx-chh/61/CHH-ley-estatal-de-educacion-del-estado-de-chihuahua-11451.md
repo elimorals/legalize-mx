@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-09-07"
+last_updated: "2013-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1527,11 +1527,15 @@ XIX. Conceder estímulos y reconocimientos a quienes contribuyan al logro de los
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2012)</small>
 
-XX. Promover, destinar y aplicar recursos presupuestales suficientes para el mejoramiento de las condiciones físicas y materiales de los planteles educativos, poniendo especial interés en aquellas instituciones que, de acuerdo al diagnóstico realizado por las instancias competentes, requieran la intervención institucional para resolver las necesidades más apremiantes de mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública del Estado, y
+XX. Promover, destinar y aplicar recursos presupuestales suficientes para el mejoramiento de las condiciones físicas y materiales de los planteles educativos, poniendo especial interés en aquellas instituciones que, de acuerdo al diagnóstico realizado por las instancias competentes, requieran la intervención institucional para resolver las necesidades más apremiantes de mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública del Estado, y (sic)
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2013)</small>
 
-XXI. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos.
+XXI. Implementar políticas públicas, programas, proyectos y acciones dirigidos al fomento y promoción de la lectura en la Entidad.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+XXII. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2227,7 +2231,7 @@ La negativa o revocación de la autorización otorgada a particulares produce ef
 
 La autoridad que emita la resolución, adoptará las medidas que sean necesarias para evitar perjuicios a las y los educandos.
 
-En el caso de autorizaciones, cuando la revocación se emita durante un ejercicio lectivo, la institución podrá seguir funcionando, ajuicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
+En el caso de autorizaciones, cuando la revocación se emita durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2814,3 +2818,13 @@ La autoridad educativa deberá adecuar toda la reglamentación correspondiente a
 P.O. 7 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, la autoridad responsable deberá realizar las modificaciones reglamentarias conducentes.
