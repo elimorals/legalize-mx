@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2012-03-17"
+last_updated: "2013-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -983,6 +983,10 @@ VII. Fomentar la producción y desarrollo de mercados para productos no tradicio
 
 VIII. Fomentar las medidas tendientes al arraigo en su lugar de origen.
 
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 102.
 
 Las acciones para la seguridad y la soberanía alimentaria deberán abarcar a todos los productores y agentes intervinientes, impulsando la integración de las cadenas productivas de alimentos.
@@ -1012,6 +1016,180 @@ Se considerarán productos estratégicos los señalados por el Gobierno del Esta
 ###### Artículo 106.
 
 La Secretaría implementará los instrumentos necesarios que le permitan ser el conducto entre los productores y las dependencias de los diversos Órdenes de Gobierno, con la finalidad de recibir, canalizar y dar seguimiento a las denuncias y/o quejas derivadas del acopio de alimentos con fines especulativos.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+## TÍTULO SÉPTIMO. DE LA PESCA Y ACUACULTURA SUSTENTABLES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO II. PESCA
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 107.
+
+El Estado y los Municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en la Ley General de Pesca y Acuacultura Sustentables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 108.
+
+Para la consecución de los objetivos previstos en el presente Capítulo, la Secretaría podrá celebrar convenios o acuerdos de coordinación con el Gobierno Federal, con el objeto de que el Estado y, en su caso, los municipios, asuman las siguientes funciones:
+
+I. La administración de los permisos para la realización de pesca deportivo-recreativa;
+
+II. El ordenamiento territorial y la sanidad de los desarrollos acuícolas;
+
+III. La realización de acciones operativas tendientes a cumplir con los fines previstos en este Título, y
+
+IV. La inspección y vigilancia para el cumplimiento de este Título, de la Ley General de Pesca y Acuacultura Sustentables y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 109.
+
+Corresponderán al Estado, las siguientes facultades en materia acuícola y pesquera:
+
+I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Desarrollo;
+
+II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico signado por la Secretaría con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
+
+III. Participar con las dependencias competentes de la Administración Pública Federal en la elaboración de planes de manejo y de normas oficiales de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables;
+
+IV. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas y participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola;
+
+V. Establecer, operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables;
+
+VI. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola;
+
+VII. Participar en la formulación e implementación de los programas de ordenamiento pesquero y acuícola;
+
+VIII. Promover la investigación aplicada y la innovación tecnológica de la pesca y acuacultura;
+
+IX. Promover el consumo de una mayor variedad de productos pesqueros y acuícolas;
+
+X. Coordinarse con la Federación, sus Municipios y con otras Entidades Federativas, para el ordenamiento territorial de los desarrollos acuícolas;
+
+XI. Promover mecanismos de participación pública de los productores en el manejo y conservación de los recursos pesqueros y acuícolas conforme a lo dispuesto en esta Ley y otras disposiciones aplicables;
+
+XII. En los cuerpos de agua dulce continental a que se refiere el párrafo quinto del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, con excepción de las aguas continentales que abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la jurisdicción federal:
+
+a) Administrar las actividades de pesca y acuacultura que se realicen en zonas y bienes de su competencia;
+
+b) Expedir, las autorizaciones que así lo requieran, de acuerdo al marco normativo aplicable;
+
+c) Ordenar, fomentar y promover el desarrollo de la pesca y acuacultura;
+
+d) Participar con las dependencias competentes de la Administración Pública Federal en la determinación de especies acuáticas sujetas a la protección especial, amenazadas o en peligro de extinción;
+
+e) Determinar, de acuerdo con las condiciones técnicas y naturales, las zonas de captura, cultivo y recolección;
+
+f) Establecer viveros, criaderos, reservas de especies acuáticas y épocas y zonas de veda;
+
+XIII. El ejercicio de las funciones que le transfiera la Federación, conforme a lo dispuesto por la Ley General, y
+
+XIV. Las demás que no estén otorgadas expresamente a la Federación.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 110.
+
+Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por el Gobierno Estatal, ingresarán a su hacienda pública, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 111.
+
+Corresponde a los Municipios, en el ámbito de su competencia y de conformidad con lo dispuesto en esta Ley y lo que establezcan las demás leyes en la materia, las siguientes facultades:
+
+I. Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales y regionales;
+
+II. Promover mecanismos de participación pública en el manejo y conservación de los recursos pesqueros y acuícolas;
+
+III. Proponer, a través del Consejo Estatal de Pesca y Acuacultura, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
+
+IV. Participar en la formulación de los programas de ordenamiento pesquero y acuícola;
+
+V. En coordinación con los Gobierno (sic) Federal y Estatal, participar en las acciones de sanidad acuícola, en los términos de la Ley General y demás legislación aplicable;
+
+VI. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad, y
+
+VII. Participar, de conformidad con los acuerdos y convenios que se celebren con las autoridades competentes, en la inspección y vigilancia en su jurisdicción.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 112.
+
+Los ayuntamientos dictarán los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones, se cumplan las previsiones del presente Título.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 113.
+
+El Estado, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+
+I. Fomentará servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
+
+II. Asesorará a los acuacultores para que el cultivo y explotación de la flora y fauna acuática, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas recomienden; así como en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, equipos de cultivo y demás bienes que requiera el desarrollo de la actividad acuícola.
+
+III. Fomentará, promoverá y realizará acciones tendientes a:
+
+a) La formulación y ejecución de programas de apoyo financiero para el desarrollo de la pesca y la acuacultura en el Estado, que incluyan, entre otros aspectos, la producción de especies comestibles y ornamentales de agua dulce, la reconversión productiva, la transferencia tecnológica y la importación de tecnologías de ciclo completo probadas y amigables con el ambiente;
+
+b) La gestión para la construcción de parques de acuacultura, así como de unidades de producción, centros acuícolas y laboratorios dedicados a la producción de organismos destinados al ornato, al cultivo y repoblamiento de las especies de la flora y fauna acuática;
+
+c) La gestión para la construcción de infraestructura pesquera, así como el mejoramiento de la infraestructura existente;
+
+d) La investigación científica y tecnológica en pesca y acuacultura;
+
+e) La elaboración coordinada de programas de industrialización, comercialización y consumo de productos pesqueros y acuícolas, tendientes a fortalecer las redes de valor de los productos generados por la pesca y la acuacultura, mediante acciones de apoyo y difusión;
+
+f) La organización económica de los productores y demás agentes relacionados al sector, a través de mecanismos, concertación y planeación;
+
+g) Impulsar acciones para la formación de capital humano que se vincule con organizaciones de productores que participan en las cadenas productivas acuícolas y pesqueras;
+
+h) Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional, y
+
+i) Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros.
+
+IV. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO II (SIC). ACUACULTURA
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 114.
+
+La pesca se puede realizar mediante concesión o permiso. Requieren permiso la pesca comercial, de fomento, deportivo-recreativa, didáctica y las demás actividades que expresamente se señalen en la Ley General.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 115.
+
+El establecimiento y operación de artes de pesca fijas o cimentadas en aguas de jurisdicción federal, así como su cambio de localización o dimensiones, sólo podrá realizarse si se cuenta previamente con permiso de la autoridad federal competente, sujetándose a las disposiciones en materia de impacto ambiental contenidas en las Leyes General y Local de Equilibrio Ecológico y la Protección al Ambiente y aquellas que sean de la competencia de otras autoridades. Su temporalidad no podrá exceder a la señalada en el permiso correspondiente y el interesado deberá cumplir con los requisitos que establezcan el reglamento de esta Ley y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 116.
+
+Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, quedando obligadas a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la autoridad federal competente conforme a las disposiciones que para tal efecto se emitan.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 117.
+
+La planeación y regulación del ordenamiento acuícola, se llevará a cabo a través de:
+
+I. El Programa Nacional de Acuacultura y la Carta Nacional Acuícola;
+
+II. El Programa Estatal de Acuacultura;
+
+III. Los planes de ordenamiento acuícola, y
+
+IV. Los programas de desarrollo de la acuacultura derivados de los señalados en las fracciones anteriores.
 
 T R A N S I T O R I O S
 
@@ -1044,3 +1222,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de febrero del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
