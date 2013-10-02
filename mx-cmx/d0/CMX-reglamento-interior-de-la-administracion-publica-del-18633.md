@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-08-23"
+last_updated: "2013-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -5104,13 +5104,17 @@ XVIII. Diseñar y administrar los programas de control del cumplimiento de oblig
 
 XIX. Vigilar la consolidación en la información que le suministren las unidades competentes, relativa a los créditos fiscales firmes de los contribuyentes, en los términos y alcances que señalen las disposiciones fiscales aplicables y establecer esquemas de control y supervisión respecto de los créditos fiscales exigibles;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2013)</small>
 
-XX. Planear y dirigir la operación y aplicación de las normas y procedimientos sobre notificación y cobranza, así como respecto a la interpretación y aplicación de las disposiciones legales, en la materia de su competencia; y
+XX. Planear y dirigir la operación y aplicación de las normas y procedimientos sobre notificación y cobranza, así como respecto a la interpretación y aplicación de las disposiciones legales, en la materia de su competencia;
 
-> <small>(ADICIONADA, G.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2013)</small>
 
-XXI. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables.
+XXI. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, G.O. 2 DE OCTUBRE DE 2013)</small>
+
+XXII. Proporcionar a las Sociedades de Información Crediticia, debidamente autorizadas por la Secretaría de Hacienda y Crédito Público, información relativa a los créditos fiscales exigibles de los contribuyentes, derivados de contribuciones locales, así como de los Convenios de Colaboración Administrativa en materia Fiscal Federal, celebrados entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal, dentro del ámbito de su competencia.
 
 > <small>(ADICIONADO, G.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -16479,3 +16483,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
 
 TERCERO.- Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo y Órganos Desconcentrados que por virtud del presente decreto se readscriben, serán transferidas en los términos y condiciones que establezcan las disposiciones administrativas aplicables.
+
+G.O. 2 DE OCTUBRE DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la
+
+Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
