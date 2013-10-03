@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-90743"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-29"
-last_updated: "2013-01-25"
+last_updated: "2013-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2013
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2012.
 
@@ -33,7 +33,7 @@ PODER EJECUTIVO
 
 DECRETO NÚMERO 21
 
-CIUDADANO· ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38 Y 55 FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN; 12, 14 FRACCIONES VII Y IX, 27 FRACCIÓN I Y 30 FRACCIÓN IV DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; Y 3 FRACCIÓN V DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, A SUS HABITANTES HAGO SABER:
+CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38 Y 55 FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN; 12, 14 FRACCIONES VII Y IX, 27 FRACCIÓN I Y 30 FRACCIÓN IV DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; Y 3 FRACCIÓN V DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, A SUS HABITANTES HAGO SABER:
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN, PARA EL EJERCICIO FISCAL 2013, EN BASE A LA SIGUIENTE:
 
@@ -221,13 +221,13 @@ El Gobierno del Estado, a través de la Secretaría de Administración y Finanza
 
 PESOS
 
-> <small>(REFORMADO, D.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 3 DE OCTUBRE DE 2013)</small>
 
-INGRESOS EXTRAORDINARIOS $ 3,846'759,281.00
+INGRESOS EXTRAORDINARIOS $ 5,438´139,393.68
 
-> <small>(REFORMADA, D.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 3 DE OCTUBRE DE 2013)</small>
 
-I. Empréstitos $ 706'600,813.00
+I. Empréstitos $ 2,297´980,925.68
 
 II. Por convenios de entidades paraestatales
 
@@ -241,9 +241,9 @@ IV. Otros ingresos no especificados
 
 Federalizado) $ 5,631,839.00
 
-> <small>(REFORMADO, D.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 3 DE OCTUBRE DE 2013)</small>
 
-El Poder Ejecutivo del Estado contratará empréstitos hasta por $706'600,813.00, en los términos establecidos en las disposiciones normativas y legales vigentes.
+El Poder Ejecutivo del Estado contratará empréstitos hasta por el monto de $ 2,297´980,925.68 (dos mil doscientos noventa y siete millones, novecientos ochenta mil, novecientos veinticinco pesos 68/100 M.N.), en los términos establecidos en las disposiciones legales y normativas vigentes.
 
 Se autoriza al Poder Ejecutivo del Estado para participar de los recursos que aporten los fondos, programas, ramos y cualquier otra partida o concepto que se establezca en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2013; así como remanentes de los fondos establecidos en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012.
 
@@ -395,11 +395,11 @@ Ingresos propios del sector paraestatal
 
 y órganos autónomos $ 3,101,466,113.00
 
-> <small>(REFORMADO, D.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 3 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 12.
 
-El total de ingresos para el Ejercicio Fiscal 2013 del Gobierno del Estado de Yucatán, será de $ 29,177'184,226.00.
+El total de ingresos para el Ejercicio Fiscal 2013 del Gobierno del Estado de Yucatán, será de: $30,768'564,338.68 (treinta mil setecientos sesenta y ocho millones, quinientos sesenta y cuatro mil, trescientos treinta y ocho pesos 68/100 M.N.).
 
 ###### Artículo 13.
 
@@ -566,3 +566,9 @@ La Secretaría de Administración y Finanzas deberá incorporar a los informes t
 ###### ARTÍCULO QUINTO.
 
 Para los efectos de este Decreto, se deroga todo aquello que, conforme a la normativa estatal, se oponga al mismo.
+
+D.O. 3 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
