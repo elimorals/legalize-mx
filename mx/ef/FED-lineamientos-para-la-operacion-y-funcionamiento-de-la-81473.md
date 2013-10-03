@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-operacion-y-funcionamiento-de-la-81473"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2011-05-27"
-last_updated: "2011-05-27"
+last_updated: "2013-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81473&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-10-26"
 
 LINEAMIENTOS PARA LA OPERACION Y FUNCIONAMIENTO DE LA COMISION DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL MANUAL DE LINEAMIENTOS DE LA COORDINACIÓN DE RECURSOS HUMANOS Y ENLACE ADMINISTRATIVO, PUBLICADO EN EL D.O.F. DE 3 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE OCTUBRE DE 2013 (ABROGADO).
 
 Lineamientos publicados en la Tercera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2011.
 
@@ -526,3 +528,13 @@ EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMIN
 CERTIFICA
 
 Que el presente documento, en 19 fojas útiles, incluyendo la presente, corresponden a los LINEAMIENTOS PARA LA OPERACION Y FUNCIONAMIENTO DE LA COMISION DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, aprobados por el Pleno de la Comisión de Administración, mediante acuerdo 320/S10(20-X-2010) emitido en la Décima Sesión Ordinaria de 2010, que obra en los archivos de la Comisión de Administración. DOY FE.- México, Distrito Federal, 26 de octubre de 2010.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 3 DE OCTUBRE DE 2013.
+
+PRIMERO. Se abrogan los Lineamientos para la operación y funcionamiento de la Comisión de Seguridad, Higiene y Medio Ambiente en el Tribunal Electoral del Poder Judicial de la Federación, Acuerdo número 320/S10(20-X-2010); Lineamientos que regulan las licencias y vacaciones para los Magistrados de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, Acuerdo número 193/S6(16-VI-2010); Lineamientos para la remuneración de los Secretarios autorizados para desempeñar las funciones de Magistrados de Salas Regionales, Acuerdo número 171/S6(17-VI-2009); Lineamientos que regulan la operación de las cédulas de datos biográficos de los servidores públicos del TEPJF, Acuerdo número 221/S7(7-VIII-2010); Lineamientos que regulan las jornadas de trabajo del TEPJF, Acuerdo número 259/S8(25-VIII-2010); Lineamientos para la expedición, reposición, vigencia, devolución, concentración de credenciales magnéticas y/o tipo cartera-pasaporte de los servidores públicos del Tribunal Electoral, Acuerdo número 258/S8(25-VIII-2010); Lineamientos para otorgar anticipos de sueldos al personal del Tribunal Electoral, Acuerdo número 090/S4(21-III-2007); Lineamientos del programa de servicio social, Acuerdo número 140/S5(20-V-2009); Lineamientos para el apoyo económico por concepto de pago de guarderías particulares a los servidores públicos (madres o padres) del TEPJF, acuerdo número 135/S5(21-V-2008), y los Lineamientos para otorgar apoyo económico en la adquisición de anteojos, Acuerdo número 150/S6 (18-VI-2008).
+
+SEGUNDO. El presente Manual de Lineamientos entrará en vigor el día de su publicación en la página de intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Publíquese en el Diario Oficial de la Federación.
