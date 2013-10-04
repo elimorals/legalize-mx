@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2013-01-16"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1439,9 +1437,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012) (F. DE E., P.O. 16 DE ENERO DE 2013)
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con los artículos 260, 260 bis y 260 ter; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 325 fracción IX, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358 y 358 bis fracciones II y III; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con los artículos 260, 260 bis y 260 ter; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 325 fracción IX, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358 y 358 bis fracciones II y III; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por el artículo 393; constitución de asentamientos humanos irregulares previsto en el artículo 394 ter; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -3768,3 +3766,7 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 10 DE DICIEMBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
