@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-y-regula-el-registro-estatal-de-agentes-77135"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2010-10-15"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA Y REGULA EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS Y AGENCIAS INMOBILIARIAS EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -95,9 +95,9 @@ I. Tratándose de personas morales:
 
 a) Precisar y acreditar la ubicación de su domicilio matriz y, en su caso, de las sucursales;
 
-b) Presentar, en su caso, constancia de registro ante la Procuraduría Federal del Consumidor del contrato de adhesión, de conformidad con lo dispuesto por la Ley
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-Federal de Protección al Consumidor; y,
+b) Acreditar su registro ante las autoridades fiscales correspondientes; y
 
 c) Aceptar expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que se pongan en operación por la Dirección y, en su caso, acreditar el cumplimiento de aquellos que se establezcan con carácter obligatorio para los efectos de la revalidación de la inscripción.
 
@@ -109,9 +109,9 @@ b) Precisar y acreditar la ubicación de su domicilio;
 
 c) Acreditar su capacitación profesional y/o la certificación de conocimientos especializados y experiencia en operaciones de corretaje o intermediación inmobiliaria por parte de alguna institución o de la autoridad competente o, en su defecto, presentar una carta compromiso, debidamente firmada, para sujetarse a los programas de acreditación profesional en la materia;
 
-d) Presentar, en su caso, constancia de registro ante la Procuraduría Federal del Consumidor del contrato de adhesión, de conformidad con lo dispuesto por la Ley
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-Federal de Protección al Consumidor; y,
+d) Acreditar su registro ante las autoridades fiscales correspondientes; y
 
 e) Aceptar expresamente cumplir con los programas de capacitación y actualización en materia de operaciones inmobiliarias que se pongan en operación por la Dirección y, en su caso, acreditar el cumplimiento de aquellos que se establezcan con carácter obligatorio para los efectos de la revalidación de la Inscripción; y
 
@@ -246,3 +246,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
