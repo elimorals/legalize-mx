@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2013-07-19"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -2427,15 +2427,13 @@ El Ministerio Público aplicará, cuando así proceda, las medidas alternas señ
 
 Artículo 222 bis.- Facultad para abstenerse de investigar.- cuando fuere evidente que los hechos relatados en la denuncia o querella no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer, de forma indubitable, que se encuentra extinguida la acción penal contra el imputado y siempre que no haya habido intervención del Juez en el procedimiento, el Ministerio Público podrá abstenerse de toda investigación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 223.
 
 Queja.- El denunciante, querellante o el imputado, podrá acudir en queja ante el superior del Ministerio Público que estuviere conociendo del asunto, por su inactividad injustificada durante la investigación, o cuando omita tomar una determinación respecto de la misma, a pesar de que cuenta con los antecedentes necesarios para ello.
 
-La queja deberá resolverse por escrito en un plazo de veinticuatro horas.
+La queja deberá resolverse por escrito en un plazo de setenta y dos horas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2455,17 +2453,25 @@ La víctima u ofendido podrá solicitar al Ministerio Público la reapertura de 
 
 No ejercicio de la acción penal.- Antes de que se formule imputación en el procedimiento, el Ministerio Público podrá decretar el no ejercicio de la acción penal cuando los antecedentes le permitan concluir que en el caso concreto se actualiza alguna de las causales de sobreseimiento previstas en este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 226.
 
-Control judicial.- Las decisiones de abstenerse de investigar, de no ejercicio de la acción penal, lo resuelto o el silencio del superior jerárquico del Ministerio Público respecto a la queja interpuesta en contra de la inactividad injustificada durante la investigación o cuando omita tomar una determinación sobre la misma, así como la negativa de reabrir la investigación en caso de archivo temporal, podrán ser impugnados por la víctima u ofendido ante el Juez de Garantía.
+Control judicial.- Las decisiones de abstenerse de investigar, de no ejercicio de la acción penal, así como la negativa de reabrir la investigación en caso de archivo temporal, podrán ser impugnadas por la víctima u ofendido ante el Juez de Garantía.
 
-En este caso, el Juez convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público y, en su caso, al imputado y a su defensor. En caso de incomparecencia de la víctima, el ofendido o sus representantes legales a la audiencia, a pesar de haber sido debidamente citados, el Juez de Garantía declarará sin materia la impugnación y confirmará la resolución de abstenerse de investigar, archivo o de no ejercicio de la acción penal.
+De igual manera, la víctima u ofendido del delito, o el imputado, según corresponda, podrán impugnar ante el Juez de Garantía, lo resuelto o el silencio del superior jerárquico del Ministerio Público respecto a la queja interpuesta por alguno de ellos en contra de la inactividad injustificada durante la investigación o cuando omita tomar una determinación sobre la misma.
 
-El Juez podrá dejar sin efecto la decisión del Ministerio Público y ordenarle iniciar o reabrir la investigación o continuar con la persecución penal, en el evento de que la resolución del Ministerio Público o su superior jerárquico no se ajuste a las disposiciones legales correspondientes. En caso de que esta carezca de fundamentación o motivación, el Juez deberá ordenarle a quien corresponda funde o motive la misma, quedando a salvo los derechos de la víctima u ofendido para impugnar la resolución que se dicte como consecuencia de lo anterior.
+En ambos supuestos, la impugnación deberá presentarse dentro de los diez días naturales siguientes a aquel en que surta efectos la notificación del acto impugnado, o bien, de aquel en que fenezca el plazo para emitir la resolución de la queja, para el caso de silencio de la autoridad.
+
+En los casos a que se refieren los párrafos anteriores, el Juez convocará a una audiencia para decidir en definitiva, citando al efecto al promovente de la impugnación, así como a la víctima u ofendido, al Ministerio Público y, en su caso al imputado y a su defensor, según corresponda, a fin de que manifiesten lo que a su derecho convenga respecto de la misma.
+
+La incomparecencia de la parte promovente, de la víctima u ofendido o del imputado y su defensor no impedirá la celebración de dicha audiencia y del dictado de la resolución.
+
+El Juez podrá dejar sin efecto la decisión del Ministerio Público y ordenarle iniciar o reabrir la investigación o continuar con la persecución penal, en el evento de que la resolución del Ministerio Público o su superior jerárquico no se ajuste a las disposiciones legales correspondientes.
+
+Asimismo, el Juez podrá confirmar o revocar lo resuelto por el superior jerárquico del Ministerio Público respecto a la queja interpuesta en términos del artículo 223 del presente Código, en contra de la inactividad injustificada durante la investigación o cuando omita tomar una determinación sobre la misma, y en caso de silencio, le ordenará se emita la resolución respectiva.
+
+En los casos de los dos párrafos anteriores, si la decisión del Ministerio Público o del Superior jerárquico del Ministerio Público carece de fundamentación o motivación, el Juez deberá ordenarle a quien corresponda, funde o motive la misma, quedando a salvo los derechos de la víctima u ofendido o del imputado para impugnar la resolución que se dicte como consecuencia de lo anterior.
 
 #### SECCIÓN 3. ACTUACIONES DE LA INVESTIGACIÓN
 
@@ -4986,3 +4992,9 @@ P.O. 16 DE NOVIEMBRE DE 2012.
 P. O. 19 DE JULIO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Tratándose de las impugnaciones por la vía del control judicial que se encuentren en trámite, antes de la entrada en vigor del presente Decreto, deberán resolverse en los términos de esta reforma.
