@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2013-09-13"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -45,9 +45,11 @@ LEY DE PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL E
 
 Las disposiciones de esta ley son de orden público e interés general y tiene por objeto establecer los derechos mínimos de los menores en el Estado de Baja California, mismos que deberán de ser considerados por todas las autoridades judiciales, administrativas o de cualquier otra índole para la emisión de sus acuerdos o resoluciones, tomando en cuenta siempre el interés superior del Menor y la Familia.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 2.
 
-La Procuraduría, dependiente del Sistema, será la autoridad administrativa responsable de promover y proteger los derechos del menor consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y las demás disposiciones legales aplicables, vigilando que en las actuaciones, acuerdos o resoluciones que emitan las autoridades en el Estado prevalezca siempre el interés superior del menor y su reintegración familiar.
+La Procuraduría, dependiente del Sistema, será la autoridad administrativa responsable de promover y proteger los derechos del menor consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Convención Sobre los Derechos del Niño, la Constitución Política del Estado, la presente Ley y las demás disposiciones legales aplicables, vigilando que en las actuaciones, acuerdos o resoluciones que emitan las autoridades en el Estado prevalezca siempre el interés superior del menor y su reintegración familiar.
 
 ###### ARTÍCULO 3.
 
@@ -473,7 +475,7 @@ XVI.- Las demás que le sean encomendadas por el Director y las señaladas en ot
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-ARTICULO 25 BIS.- El Subprocurador Estatal tendrá las facultades y obligaciones siguientes:
+ARTÍCULO 25 BIS.- El Subprocurador Estatal tendrá las facultades y obligaciones siguientes:
 
 I. Constituirse como coadyuvante del Procurador en el control administrativo de las Subprocuradurías, sus Delegaciones y demás Coordinaciones de Áreas, así como del personal bajo su responsabilidad, a efecto, de supervisar y evaluar el desempeño de sus labores encomendadas;
 
@@ -1078,3 +1080,9 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 Primero.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
 
 Segundo.- El Poder Ejecutivo del Estado, deberá publicar las disposiciones reglamentarias para el cumplimiento de las presentes reformas dentro de los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
