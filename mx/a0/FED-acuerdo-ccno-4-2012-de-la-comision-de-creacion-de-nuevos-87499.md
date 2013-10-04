@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-4-2012-de-la-comision-de-creacion-de-nuevos-87499"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-04-27"
-last_updated: "2012-05-25"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87499&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-04-16"
 
 ACUERDO CCNO/4/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN CANCÚN, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO CCNO/8/2013 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN CANCÚN, QUINTANA ROO Y QUE ABROGA A LOS DIVERSOS CCNO/4/2012 Y CCNO/5/2012, PUBLICADO EN EL D.O.F. DE 4 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 27 de abril de 2012.
 
@@ -80,5 +82,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información, modificarán los rubros del Sistema Integral de Seguimiento de Expedientes relativos a los asuntos que ingresen al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Cancún, Quintana Roo, a fin de identificar por separado los juicios orales mercantiles de los ejecutivos mercantiles.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo CCNO/4/2012 de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal.
+
+CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los asuntos ejecutivos mercantiles que a la fecha de entrada en vigor de la presente medida se encuentren en trámite ante el Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún, Quintana Roo, continuarán substanciándose ante éste hasta su conclusión y archivo definitivo.
+
+TERCERO. Se abrogan los Acuerdos CCNO/4/2012 y CCNO/5/2012 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal.
 
 CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
