@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2013-09-04"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -4149,31 +4149,65 @@ VII. Prepare, organice, participe o realice por motivos electorales, actos viole
 
 ### CAPITULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 393.
 
-Comete el delito de fraccionamiento ilegal de inmuebles el que por sí o por interpósita persona, fraccione terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones o permisos que se requieran para ello de las autoridades administrativas competentes, y realice cualquier operación contractual en los lotes divididos.
+Comete el delito de fraccionamiento ilegal de inmuebles, el que por sí o por interpósita persona, fraccione o divida en lotes, un terreno de cualquier naturaleza, con o sin edificaciones, propio o ajeno, transfiera o prometa transferir, la propiedad, la posesión o cualquier otro derecho de un inmueble, cualquiera que sea su régimen jurídico o condición, careciendo de las licencias, autorizaciones o permisos de la autoridad administrativa correspondiente.
 
 Al responsable de este delito, se le impondrá de seis a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en la entidad.
 
-La sanción referida en el párrafo anterior se impondrá también a quien teniendo las licencias, autorizaciones o permisos correspondientes, incumpla con las obligaciones previstas en las fracciones IX, XI y XII, del artículo 151, de la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit.
+Para efectos punibles, se considera que incurren en la misma responsabilidad:
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
+I. Quien teniendo las licencias, autorizaciones o permisos correspondientes, incumpla con las obligaciones previstas en las fracciones IX, XI y XII, del artículo 151, de la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit;
+
+II. Aquél que sin contar con las licencias, autorizaciones o permisos de la autoridad administrativa, o incumpliéndolos, realice u ordene realizar cualquier tipo de publicidad ofreciendo en lotes o fracciones, un terreno de cualquier naturaleza, propio o ajeno, para vivienda, comercio o industria, con o sin edificaciones, y
+
+III. El tercero que enajene, prometa hacerlo o comercialice, lotes de terreno que hayan sido fraccionados o divididos sin contar con las licencias, autorizaciones o permisos de la autoridad administrativa, o teniéndolos no cumpla con los requisitos establecidos para ese efecto.
+
+La pena establecida en el presente artículo, se aplicará también al servidor público que valiéndose de su encargo expida, autorice u otorgue licencias, permisos, autorizaciones o cualquier otra disposición análoga, que permita fraccionar en lotes, un terreno de cualquier naturaleza, o en su caso edificar construcciones, sin que se reúnan las condiciones exigidas por las leyes, planes o programas de desarrollo urbano vigentes, o bien que los expidan sin estar autorizado para ello. Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia, estarán afectadas de nulidad absoluta.
+
+La pena de prisión se incrementará hasta en una mitad, cuando las conductas previstas en el presente capítulo se realicen en áreas protegidas o de preservación ecológica, o en zonas no consideradas aptas para vivienda, por los Planes y Programas de Desarrollo Urbano respectivos.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 394.
 
-Al servidor público, que sin estar facultado o estándolo, permita o autorice el fraccionamiento o construcción de inmuebles que requieran del uso o aprovechamiento de obras y servicios públicos y que los mismos no cuenten con ellos; se les impondrá además de las sanciones que señala el artículo anterior, la destitución o inhabilitación de tres a ocho años, para desempeñar otro empleo, cargo o comisión públicos, siendo nulos de pleno derecho las licencias, permisos y autorizaciones que se hayan otorgado.
+La reparación del daño consistirá en la suspensión, modificación o demolición, en su caso, de construcciones u obras que hubieren dado lugar al ilícito correspondiente, así como la realización de acciones necesarias para restablecer las condiciones anteriores a la realización del ilícito, en la medida de lo posible.
 
-### CAPITULO II. DE LA CERTIFICACION, FORMALIZACION, REGISTRO E INSCRIPCIÓN DE INMUEBLES
+El Agente del Ministerio Público al ejercer la acción penal, asegurará y procederá a poner en custodia el inmueble ante el organismo encargado del desarrollo urbano en el Estado de Nayarit, poniéndolo a disposición de la autoridad competente para efecto de su posterior decomiso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2011)</small>
+Asimismo, deberá girar oficio al Registro Público de la Propiedad y del Comercio del Estado de Nayarit, ordenando se realice la anotación preventiva, a fin de evitar movimientos traslativos de dominio o la afectación de los mismos con algún gravamen.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 394 BIS.- Este delito no será sancionado:
+
+I. Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adjudicación por herencia, división de copropiedad que no simule fraccionamiento o por la constitución del minifundio, y
+
+II. Cuando se trate de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado, o entre cónyuges, concubinos y hermanos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO II. DE LA CONSTITUCIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 394 TER.- A quien promueva, induzca, aliente o permita la formación o constitución de asentamientos humanos irregulares, integrados por dos o más familias, que impliquen peticiones respecto de su regularización o causen un perjuicio público por sí o por interpósita persona, o bien, cuando contando con las licencias, autorizaciones o permisos respectivos, incumpla con los términos en que fueron otorgados, se hará acreedor a la pena dispuesta por el artículo 393 de este código.
+
+Asimismo, será sancionado con igual penalidad, quien lleve a cabo la construcción, edificación, realización de obras de infraestructura o la constitución de asentamientos humanos en una zona determinada, sin elaborar un análisis de riesgos y definir las medidas para su reducción, omitiendo tomar en consideración la normatividad aplicable y los Atlas municipales y estatales, careciendo de la autorización de la autoridad correspondiente.
+
+Se entiende por asentamiento humano irregular el grupo de personas que se establezcan o pretendan establecerse en un inmueble dividido o lotificado para fines de vivienda, comercio o industria, sin contar con las autorizaciones expedidas por las autoridades competentes.
 
 ###### ARTICULO 395.
 
 (DEROGADO, P.O. 9 DE JULIO DE 2011)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1998)</small>
+
+### CAPITULO III. DE LA CERTIFICACION, FORMALIZACION, REGISTRO E INSCRIPCIÓN DE INMUEBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 396.
 
@@ -4434,3 +4468,7 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 4 DE SEPTIEMBRE DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
