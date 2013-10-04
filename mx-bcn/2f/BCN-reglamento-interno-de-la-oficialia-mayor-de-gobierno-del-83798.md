@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficialia-mayor-de-gobierno-del-83798"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2011-11-18"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2011.
 
@@ -65,7 +65,9 @@ B. Centro de Profesionalización y Desarrollo del Capital Humano.
 
 II. Subsecretaría de Administración.
 
-a) Departamento Administrativo.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+a) Dirección Administrativa.
 
 A. Dirección de Recursos Humanos.
 
@@ -441,7 +443,9 @@ XXII. Las demás relativas a la competencia de su área y que sean indispensable
 
 Quedan adscritas a la Subsecretaría de Administración, las siguientes unidades administrativas:
 
-I. Departamento Administrativo.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+I. Dirección Administrativa.
 
 II. Dirección de Recursos Humanos.
 
@@ -553,45 +557,47 @@ XII. Las demás que expresamente les señale sus superiores jerárquicos y aquel
 
 ### CAPÍTULO VII. DE LAS UNIDADES ADMINISTRATIVAS DE LA SUBSECRETARÍA DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-Corresponde al Departamento Administrativo, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Administrativa, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
 I. Revisar e integrar la formulación del anteproyecto de presupuesto de egresos de la dependencia, así como controlar y evaluar su adecuada aplicación, atendiendo a las políticas y lineamientos que al efecto se establezcan;
 
-II. Analizar y verificar los reportes presupuestales informando a las unidades administrativas de la Oficialía, la disponibilidad de recursos;
+II. Supervisar la integración de los reportes presupuestales informando a las unidades administrativas de la Oficialía sobre la disponibilidad de recursos;
 
-III. Aplicar las sanciones y medidas disciplinarias al personal de la Oficialía que se haga acreedor a ellas, de acuerdo a la normatividad aplicable;
+III. Asegurar que se apliquen las sanciones y medidas disciplinarias al personal de la Oficialía que se haga acreedor a ellas, de acuerdo a la normatividad correspondiente;
 
-IV. Revisar periódicamente la plantilla de personal para disponer de información veraz y oportuna relacionada con los empleados de la Oficialía;
+IV. Revisar periódicamente la plantilla de personal para disponer de información veraz y oportuna relacionada con los empleados de la Oficialía, asegurando se mantenga actualizada;
 
-V. Tramitar el pago de sueldos, salarios y demás remuneraciones de los trabajadores de la Oficialía;
+V. Supervisar se tramite el pago de sueldos, salarios y demás remuneraciones de los trabajadores de la Oficialía;
 
-VI. Elaborar los proyectos de contratos de servicios del personal adscrito a la Oficialía;
+VI. Dirigir la elaboración de los proyectos de contratos de servicios del personal adscrito a la Oficialía;
 
-VII. Registrar y controlar la puntualidad y asistencia del personal adscrito a la dependencia, conforme a la legislación vigente;
+VII. Controlar y verificar el registro de la puntualidad y asistencia del personal adscrito a la dependencia, conforme a la legislación vigente;
 
-VIII. Integrar y mantener actualizados los expedientes del personal de la Oficialía;
+VIII. Supervisar la integración y actualización de los expedientes del personal de la Oficialía;
 
-IX. Asesorar y, en su caso, recibir y tramitar las solicitudes de adquisición de recursos materiales, requisiciones de artículos de oficina y limpieza, solicitudes de pago de viáticos, pasajes, hospedaje y fondos revolventes provenientes de las unidades administrativas adscritas a la Oficialía;
+IX. Supervisar la aplicación de las políticas y mecanismos relativos a la evaluación del desempeño de los servidores públicos de la Oficialía, conforme a la normatividad de la materia;
 
-X. Supervisar la limpieza e higiene en todas las áreas, así como vigilar y proteger los bienes patrimonio de la Oficialía;
+X. Asegurar se mantenga actualizada la información contenida en los sistemas de informática destinados a la captura de movimientos e incidencias del personal de la Oficialía;
 
-XI. Mantener actualizados los resguardos de los bienes muebles de las unidades administrativas de Oficialía;
+XI. Validar las cartas de liberación de prestadores de servicio social y prácticas profesionales de las instituciones educativas, conforme a la normatividad aplicable;
 
-XII. Asistir a las reuniones convocadas por el Presidente del Comité de Adquisiciones del Poder Ejecutivo del Gobierno del Estado;
+XII. Asesorar y, en su caso, recibir y supervisar el trámite de las solicitudes de adquisición de recursos materiales, requisiciones de artículos de oficina y limpieza, solicitudes de pago de viáticos, pasajes, hospedaje y fondos revolventes provenientes de las unidades administrativas adscritas a la Oficialía;
 
-XIII. Participar en el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo;
+XIII. Supervisar la limpieza e higiene en todas las áreas, así como vigilar y proteger los bienes patrimonio de la Oficialía;
 
-XIV. Mantener actualizados los sistemas de informática destinados a la captura de movimientos e incidencias del personal de la Oficialía;
+XIV. Verificar que se mantengan actualizados los resguardos de los bienes muebles de las unidades administrativas de Oficialía;
 
-XV. Proponer formas de control para la optimización de recursos destinados al cumplimiento de las tareas y atribuciones de la Oficialía;
+XV. Asistir y participar en el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, atendiendo a las convocatorias;
 
-XVI. Administrar el combustible de acuerdo a las dotaciones autorizadas para la
+XVI. Proponer formas de control para la optimización de recursos destinados al cumplimiento de las tareas y atribuciones de la Oficialía;
 
-Oficialía, y
+XVII. Administrar y controlar la asignación del combustible, servicios de telefonía y radiocomunicación, de acuerdo al presupuesto autorizado para la Oficialía, y
 
-XVII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+XVIII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 20.
 
@@ -1542,3 +1548,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
