@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2013-06-04"
+last_updated: "2013-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -239,6 +239,10 @@ Todo individuo tiene derecho a conocer la información genómica personal y sus 
 
 Toda investigación biomédica se orientará preferentemente a aliviar las enfermedades y mejorar la salud.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+10.- Se reconoce el derecho a la práctica del deporte y la cultura física para alcanzar una mejor calidad de vida y desarrollo físico. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad.
+
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
 XIV.- Todas las personas gozarán de los derechos humanos y de las garantías consagrados en la Constitución Política de los Estados Unidos Mexicanos, en el presente texto constitucional local, así como los contenidos en los Tratados Internacionales de los que el Estado Mexicano sea parte, cuyo ejercicio no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones previstas en la Constitución Federal.
@@ -379,9 +383,13 @@ III. Tener un modo honesto de vivir.
 
 Son derechos del ciudadano Nayarita:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-I. Votar y ser votado en las elecciones estatales y municipales; y participar en los procesos de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.
+I. Votar y ser votado en las elecciones estatales para los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2013)</small>
+
+Participar en los procesos de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.
 
 La ley regulará los mecanismos de participación ciudadana en los procesos de referéndum, plebiscito e iniciativa popular, los que se regirán por los siguientes principios:
 
@@ -683,11 +691,11 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 ###### Art. 42.
 
-El 17 de noviembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. El informe relativo al primer año de ejercicio constitucional deberá ser presentado en la fecha antes señalada, correspondiente al año posterior del inicio de su encargo.
+El 23 de Octubre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. El informe relativo al primer año de ejercicio constitucional deberá ser presentado en la fecha antes señalada, correspondiente al año posterior del inicio de su encargo.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
@@ -2077,11 +2085,13 @@ Apartado B. En los términos que fije la ley, los sujetos fiscalizables presenta
 
 El Congreso del Estado concluirá la fiscalización de las cuentas públicas a más tardar el 30 de mayo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano de Fiscalización Superior del Estado referido en esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por dicho órgano sigan su curso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 ###### Art. 121 Bis.
 
-El Congreso del Estado designará al titular del Órgano de Fiscalización Superior del Estado, por el voto de las dos terceras partes de los miembros presentes. Dicho titular durará en su cargo siete años. Podrá ser removido, exclusivamente por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos de responsabilidad previstos en esta Constitución.
+El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Estado por el voto de las dos terceras partes de los miembros presentes. Dicho titular durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos de responsabilidad previstos en esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2008)</small>
 
 Para ser titular del Órgano de Fiscalización Superior se requiere cumplir con los siguientes requisitos:
 
@@ -2095,13 +2105,15 @@ IV. Contar con experiencia de al menos cinco años en materia de control, audito
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal y órgano autónomo, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Síndico o Tesorero Municipal o dirigente del algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
+VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Síndico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación.
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
 
 VIII. Poseer, al día del nombramiento, título y cédula profesional de licenciatura en el área de Sociales, Humanidades o Económico Administrativas, expedidos por autoridad o institución legalmente facultada para ello.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2008)</small>
 
 Dicho titular, durante el ejercicio de su encargo, no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -3424,3 +3436,11 @@ P.O. 4 DE JUNIO DE 2013.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Poder Legislativo del Estado, deberá realizar las adecuaciones legales necesarias con el objeto de armonizarlas al presente decreto, relativo a la reforma al artículo 17 de la Constitución Política del Estado de Nayarit.
+
+Artículo Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
