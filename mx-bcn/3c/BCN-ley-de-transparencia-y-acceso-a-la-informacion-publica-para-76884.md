@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-01"
-last_updated: "2010-10-01"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2010.
 
@@ -239,37 +239,41 @@ IV.- En forma permanente, aquella comprendida en las fracciones XX a la XXV.
 
 Con el objeto de verificar que la información pública de oficio que recibe cualquier persona sea la versión más actualizada, el sujeto obligado deberá difundir, dentro del primer mes de cada año, un calendario de actualización por cada contenido de información. En todos los casos se deberá indicar la fecha de la última actualización por cada rubro. Los sujetos obligados deberán señalar en sus reglamentos y en sus portales los rubros del presente artículo que no les son aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 13.
 
-Además de la información contenida en el artículo 11 que le resulte aplicable, el Poder Legislativo deberá dar a conocer:
+Además de la información que le resulte aplicable contenida en el artículo 11, el Poder Legislativo deberá dar a conocer y mantener actualizado en su portal de internet:
 
-I.- Las leyes, decretos o acuerdos económicos que haya expedido;
+I.- Las leyes, decretos, acuerdos de los órganos de gobierno y proposiciones con punto de acuerdo que haya expedido;
 
-II.- La agenda legislativa institucional;
+II.- El Plan de Desarrollo Legislativo, así como las agendas legislativas correspondientes a los Grupos Parlamentarios y Diputados que cuenten con un escaño en el Congreso del Estado;
 
-III.- La lista de asistencia de los Diputados, al Pleno y las Comisiones;
+III.- Las convocatorias y lista de asistencia de los Diputados, al pleno, comisiones y comités, así como sus actas, acuerdos y resoluciones;
 
-IV.- Las iniciativas de ley, decretos, acuerdos económicos, o cualquier otra disposición de carácter general; la fecha en que se recibió; así como el estado que guardan, indicando la Comisión a la que haya sido turnada, y los dictámenes que, en su caso, recaigan sobre las mismas;
+IV.- Las iniciativas de ley, decreto y proposiciones con punto de acuerdo económico y cualquier otra disposición de carácter general, incluyendo en cada caso el nombre o nombres de quienes las presentan, la fecha en que se recibió, la comisión o comisiones a las que hubiere sido turnada, así como el estado que guardan en su caso los dictámenes que recaigan sobre las mismas, clasificándolas por grupo parlamentario o por Diputado;
 
-V.- El sentido de votación de los Diputados sobre las iniciativas de ley, decreto o acuerdo económico;
+V.- La votación obtenida en los dictámenes y acuerdos sometidos al Pleno y demás órganos de trabajo, con expresión del sentido del voto de Diputados a favor, en contra y en abstención, referida con el nombre de quien lo haya emitido, salvo que sea votación secreta en términos de la Ley respectiva;
 
-VI.- El Diario de los Debates;
+VI.- El Diario de los Debates de la Legislatura y la Gaceta Parlamentaria;
 
-VII.- Las actas de las sesiones, dictámenes y acuerdos del pleno;
+VII.- Los documentos presentados al Pleno conforme al orden del día de las sesiones ordinarias y extraordinarias, mismos que serán clasificados por sesión y deberán ser copia fiel de su original, debiendo publicarse en el portal dentro de las cuarenta y ocho horas siguientes a su presentación;
 
-VIII.- Los Informes del Órgano Superior de Fiscalización sobre la revisión de las cuentas públicas;
+VIII.- Las actas de las sesiones, dictámenes y acuerdos del pleno;
 
-IX.- Las resoluciones definitivas sobre juicios políticos y declaratorias de procedencia penal;
+IX.- Los Informes del Órgano Superior de Fiscalización sobre la revisión de las cuentas públicas;
 
-X.- Las dietas de los legisladores y las partidas presupuestales asignadas a los Grupos Parlamentarios, las Comisiones o Comités, la Mesa Directiva y demás órganos del Congreso, así como los responsables de ejercerlas;
+X.- La información relativa a la estructura, directorio y nombres, así como programas de trabajo, resultados de desempeño y proyectos realizados por los Institutos pertenecientes al Congreso del Estado;
 
-XI.- Programas, metas y objetivos de los órganos técnico-administrativo;
+XI.- Las resoluciones definitivas sobre juicios políticos y de declaratorias de procedencia penal, una vez que hayan causado estado;
 
-XII.- Viajes en comisiones oficiales de Diputados y titulares de los órganos técnico-administrativo;
+XII.- Las dietas de los legisladores y las partidas presupuestales asignadas a los Grupos Parlamentarios, las Comisiones o Comités, la Mesa Directiva y demás órganos del Congreso, así como los responsables de ejercerlas;
 
-XIII.- Los Informes del Órgano Superior de Fiscalización sobre la revisión de las cuentas públicas;
+XIII.- Programas, metas y objetivos de los órganos de apoyo parlamentario y administrativo;
 
-XIV.- Los demás informes que deba presentar conforme a su Ley Orgánica.
+XIV.- Viajes en comisiones oficiales de Diputados y titulares de los órganos de apoyo parlamentario y administrativo así como de Directivos y demás personal de los Institutos del Congreso del Estado;
+
+XV.- Los demás informes que deban presentarse conforme a su Ley Orgánica.
 
 ###### Artículo 14.
 
@@ -1188,3 +1192,11 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo que no excederá de treinta días naturales el Poder Legislativo adecuará su portal de internet para actualizar su contenido en base a las disposiciones del presente Decreto.
