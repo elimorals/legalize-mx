@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-09-20"
+last_updated: "2013-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -964,6 +964,10 @@ Las autoridades judiciales que declaren la pérdida o limitación de la capacida
 ###### ARTICULO 129.
 
 El Oficial del Registro Civil anotará el acta correspondiente, que contendrá el nombre, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, fecha de esta y Tribunal que la dictó.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2013)</small>
+
+La sentencia por la que se declare la presunción de muerte producirá los efectos legales del acta de defunción y tendrá como fecha cierta del deceso, la que se establezca en la sentencia que cause ejecutoria por declaración judicial.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -4627,9 +4631,13 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 Cuando hayan transcurrido dos años desde la declaración de ausencia, el Juez a instancia de parte interesada, declarará la presunción de muerte.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, o por encontrarse a bordo de un buque que naufrague, o al verificarse una inundación u otro siniestro semejante o su desaparición sea consecuencia de una acción delictiva de las contempladas como delitos contra la libertad y seguridad de las personas, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2013)</small>
+
+Cuando la desaparición sea consecuencia de catástrofe natural, incendio, explosión, terremoto o catástrofe aérea u otra semejante y exista fundada presunción de que el desaparecido falleció en el lugar del siniestro o catástrofe o durante el cautiverio, bastará el transcurso de seis meses, contados a partir del trágico acontecimiento, para que el juez competente declare la presunción de muerte. En estos casos, el juez ordenará la publicación en el Periódico Oficial del Estado y Boletín Judicial respectivamente, de la solicitud de declaración de muerte sin costo alguno y hasta por tres veces durante el procedimiento, que en ningún caso excederá de treinta días.
 
 ###### ARTICULO 698.
 
@@ -16230,3 +16238,7 @@ Cuarto.- Las solicitudes de adopción, en modalidad simple, que se encuentren en
 P.O. 20 DE SEPTIEMBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
