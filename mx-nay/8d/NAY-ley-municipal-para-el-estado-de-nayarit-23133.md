@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2012-10-03"
+last_updated: "2013-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -669,7 +669,9 @@ e) Los municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y
 
 f) Determinar la responsabilidad imputable a las autoridades municipales o concesionarios que correspondan, por la deficiencia, ineficiencia o irregularidad en la prestación de los servicios públicos municipales;
 
-g) Integrar la Comisión Municipal de Derechos Humanos, pero garantizar su funcionamiento de acuerdo con la capacidad económica presupuestaria del municipio;
+(REFORMADO, P.O. 4 DE OCTUBRE DE 2013))
+
+g) Integrar la Comisión Municipal de Derechos Humanos, garantizando su funcionamiento de acuerdo con la capacidad económica y presupuestaria del municipio;
 
 h) Integrar y designar las comisiones ordinarias y especiales del Ayuntamiento para analizar y proponer las soluciones en el ejercicio del gobierno municipal;
 
@@ -1405,7 +1407,11 @@ VIII.- La Comisión Municipal de Derechos Humanos tiene competencia para protege
 
 IX.- La Comisión deberá coadyuvar con las Comisiones Estatal y Nacional de Derechos Humanos, en todas aquellas acciones que se requieran para ese fin; y
 
-X.- La Comisión Municipal de Derechos Humanos no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+X.- La Comisión Municipal de Derechos Humanos no será competente tratándose de asuntos electorales y jurisdiccionales de fondo.
+
+Las Comisiones Municipales solo admitirán quejas y denuncias contra actos u omisiones de autoridades judiciales, cuando dichos actos u omisiones sean materialmente administrativos.
 
 ###### ARTICULO 104.
 
@@ -3664,3 +3670,9 @@ Artículo Tercero.- A partir de la publicación del presente Decreto y en un mar
 P.O. 3 DE OCTUBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Los ayuntamientos deberán modificar sus ordenamientos internos en lo conducente, a fin de armonizarlos con lo dispuesto en la fracción X del artículo 103 de la presente ley, dentro de los 180 días naturales contados a partir de su entrada en vigor.
