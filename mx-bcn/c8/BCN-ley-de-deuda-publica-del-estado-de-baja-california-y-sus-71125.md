@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-y-sus-71125"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-01"
-last_updated: "2012-12-21"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 1 de diciembre de 2009.
 
@@ -145,15 +145,21 @@ b) El importe del crédito que se contrate sumado al saldo de otros empréstitos
 
 c) Se mantenga el equilibrio financiero de acuerdo a la capacidad de pago, considerando para ello el importe que deben pagar por operaciones de financiamiento que constituyan Deuda Pública en los ejercicios respectivos.
 
-II.- Las celebradas entre el Gobierno del Estado y las Entidades Paraestatales, así como las que se realicen entre Entidades Paraestatales para atender necesidades temporales de efectivo, siempre que se pacte y se paguen tales empréstitos y sus accesorios 3 meses antes del término del período constitucional del Ejecutivo del Estado en el cual se realizaron;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
-III.- Las celebradas entre los Municipios y sus Entidades Paramunicipales, así como las que se realicen entre Entidades Paramunicipales de un mismo municipio para atender necesidades temporales de efectivo, siempre que se pacte y se paguen tales empréstitos y sus accesorios 3 meses antes del término del período constitucional del Ayuntamiento en el cual se realizaron;
+II.- Las celebradas entre el Poder Ejecutivo del Gobierno del Estado y las Entidades Paraestatales, así como las que se realicen entre Entidades Paraestatales para atender necesidades temporales de efectivo; siempre que las mismas no excedan de un plazo de 12 meses;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+III.- Las celebradas entre los Municipios y sus Entidades Paramunicipales, así como las que se realicen entre Entidades Paramunicipales de un mismo municipio para atender necesidades temporales de efectivo; siempre que las mismas no excedan de un plazo de 12 meses;
 
 IV.- Los anticipos que otorgue el Gobierno Federal al Gobierno del Estado como parte de sus respectivas Participaciones Federales, siempre que las amortizaciones correspondientes sean cubiertas antes del término del período constitucional del Ejecutivo del Estado que recibió tales anticipos; y,
 
 V.- Los anticipos que otorgue el Gobierno del Estado a los Municipios como parte de sus respectivas Participaciones Federales y Estatales, siempre que las amortizaciones correspondientes sean cubiertas antes del término del período constitucional del Ayuntamiento que recibió tales anticipos.
 
-Para los efectos de este Artículo, las Entidades Paraestatales y Paramunicipales requerirán de la autorización de la Secretaría de Planeación y Finanzas o del servidor público u órgano que el Ayuntamiento determine, respectivamente.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+
+Para los efectos de este artículo, las Entidades Paraestatales y Paramunicipales requerirán de la autorización de la Secretaría de Planeación y Finanzas o del servidor público u órgano que el Ayuntamiento determine, respectivamente; asimismo para efecto de las operaciones a que se refieren las fracciones II y III del presente artículo, se considerarán cubiertas cuando se refleje el momento contable y jurídico que evidencie el pago en efectivo, en especie o cualquier otro medio que dé por extinguida satisfactoriamente la obligación.
 
 Quienes celebren operaciones de financiamiento a las que se refiere el presente Artículo, deberán remitir al Congreso del Estado aviso acompañado del expediente respectivo, dentro de los 15 días hábiles siguientes a la celebración de las mismas.
 
@@ -528,3 +534,7 @@ JOSÉ FRANCISCO BLAKE MORA.
 P.O. 21 DE DICIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
