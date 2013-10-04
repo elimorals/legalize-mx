@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-salud-52289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-07"
-last_updated: "2010-03-16"
+last_updated: "2013-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento Publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 7 de noviembre de 2006.
 
@@ -323,7 +325,7 @@ XIII. Definir las políticas y criterios que se consideren convenientes para rac
 
 XIV. Determinar previo acuerdo con el Secretario, las prioridades del programa de investigaciones con base en el Plan Estatal Maestro de Infraestructura Física en Salud para la Población Abierta (PEMISPA), así como coordinar el ejercicio de sus atribuciones con el Comité de Planeación para el Desarrollo del Estado de Coahuila y el Comité para la Planeación del Desarrollo Municipal, según corresponda;
 
-XV. Someter a la aprobación del Secretario de Salud, los procedimientos que deberán observarse, dentro del ámbito administrativo y presupuestal, para la administración de los bienes, derechos y valores que integran el Patrimonio de la Beneficencia Pública de Coahuila y propiciar su encauzamiento hacia los programas de salud;
+XV. Someter a la aprobación del Secretario de Salud, los procedimientos que deberán observarse, dentro del ámbito administrativo y presupuestal, para la administración de los bienes, derechos y valores que integran el Patrimonio de la Beneficencia Pública de Coahuila y propiciar su encauzamiento (sic) hacia los programas de salud;
 
 XVI. Llevar a acabo (sic), en los términos de las disposiciones vigentes en la materia, las licitaciones para la adquisición de bienes, contratación de servicios, conservación y mantenimiento de obras, así como, para la contratación de bienes y servicios y la dictaminación de fallos;
 
@@ -335,7 +337,7 @@ XIX. Coordinar de acuerdo a los lineamientos de la Secretaría de la Función P�
 
 XX. Las demás que le confiera la normatividad aplicable o el Secretario
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 13.
 
@@ -751,8 +753,18 @@ ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE MARZO DE 2010.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Salud, publicado en el Periódico Oficial del Gobierno del Estado No. 89 del 7 de Noviembre de 2006, así como a la reforma publicada en el Periódico Oficial del Gobierno del Estado No. 22 del 16 de marzo de 2010 y se derogan todas las disposiciones que se opongan al presente reglamento.
+
+TERCERO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
+
+CUARTO.- Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente reglamento, se tramitarán, resolverán y, en general, serán de la competencia de la unidad administrativa de la Secretaría que tenga las facultades para esos efectos.
