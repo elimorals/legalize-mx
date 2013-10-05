@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2013-07-24"
+last_updated: "2013-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -1367,25 +1367,29 @@ III. Vigilancia;
 
 IV. Jurisdiccional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+V. Hacienda Municipal;
 
-V. Presupuesto y Cuenta Pública;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. Presupuesto y Cuenta Pública;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-VI. Hacienda Municipal;
+VII. Estudios Legislativos y Prácticas Parlamentarias;
 
-VII. Desarrollo Económico y Turismo;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-VIII. Educación;
+VIII. Desarrollo Económico, Industria y Minería;
 
-IX. Obras Públicas y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-X. Salud y Asistencia Social;
+IX. Educación;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+X. Obras Públicas y Desarrollo Urbano;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1413,15 +1417,17 @@ XVI. Asuntos Electorales;
 
 XVII. Transparencia y Acceso a la Información Pública;
 
-XVIII. Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-XIX. Comunicaciones y Transportes;
+XVIII. Comunicaciones y Transportes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+XIX. Fortalecimiento Municipal;
 
-XX. Ciencia, Tecnología e Inovación (sic)
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+XX. Ciencia, Tecnología e Innovación;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1441,11 +1447,9 @@ XXII. Atención a Migrantes;
 
 XXIII. Ecología y Medio Ambiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
-
-XXIV. Agricultura, Ganadería y Desarrollo Rural;
+XXIV. Agricultura, Ganadería y Desarrollo Rural Sustentable;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2351,6 +2355,18 @@ AGUA Y SANEAMIENTO
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2011)
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 155 BIS.- Corresponde a la Comisión de Agua y Saneamiento, el conocimiento y dictamen de los asuntos relacionados con la normatividad sobre:
+
+I. Aguas del Estado y operación de los organismos que presten el servicio a la ciudadanía;
+
+II. El uso eficiente y saneamiento del agua potable;
+
+III. El uso eficiente y tecnificación del agua para riego; y
+
+IV. El tratamiento y aprovechamiento de las aguas residuales, en unión con la Comisión de Ecología y Medio Ambiente.
+
 EDITORIAL, COMUNICACIÓN Y DIFUSIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -2742,3 +2758,9 @@ P.O. 24 DE JULIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2013.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
