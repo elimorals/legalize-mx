@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2012-05-19"
+last_updated: "2013-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -1857,7 +1857,9 @@ Para ser Secretario General se requiere:
 
 I. Ser preferentemente ciudadano zacatecano en pleno ejercicio de sus derechos políticos y civiles y tener cuando menos treinta y cinco años el día de la designación;
 
-II. Contar, con una antigüedad mínima de diez años, con título y cédula profesional de licenciado en derecho expedido por la institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+II. Contar, con antigüedad mínima de diez años con título y cédula profesional preferentemente de Licenciado en Derecho expedido por la institución legalmente facultada para ello;
 
 III. Acreditar conocimientos y experiencia suficiente para desempeñar el cargo;
 
@@ -2293,7 +2295,7 @@ SECRETARIO
 
 DIP. HILARIO TORRES JUÁREZ
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 22 DE DICIEMBRE DE 2007.
 
@@ -2344,3 +2346,9 @@ P.O. 30 DE NOVIEMBRE DE 2011.
 P.O. 19 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2013.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
