@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-para-el-otorgamiento-de-autorizaciones-y-o-29527"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-15"
-last_updated: "2003-03-15"
+last_updated: "2013-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE AUTORIZACIONES Y/O PERMISOS PARA LA VENTA DE BEBIDAS ALCOHOLICAS EN EVENTOS ESPECIALES
 
-REGLAMENTO PARA EL OTORGAMIENTO DE AUTORIZACIONES Y/O PERMISOS PARA LA VENTA DE BEBIDAS ALCOHOLICAS EN EVENTOS ESPECIALES
+REGLAMENTO PARA EL OTORGAMIENTO DE AUTORIZACIONES Y/O PERMISOS PARA LA VENTA DE BEBIDAS ALCOHÓLICAS EN EVENTOS ESPECIALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO 077 DEL H. AYUNTAMIENTO DE CHIHUAHUA, CHIHUAHUA PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 15 de marzo de 2003.
 
@@ -129,7 +131,7 @@ El documento en que conste la autorización, fijará las condiciones específica
 
 ###### Artículo 10.
 
-Los Comités pro-obra son grupos directivos con representatividad social en una comunidad, que tienen por objeto realizar actividades lícitas para recabar fondos, administrarlos e invertirlos en la ejecución de obras de beneficio colectivo; su integración y operación se hará mediante autorización del la Dirección de Gobernación a propuesta del Presidente Municipal y del H. Ayuntamiento que corresponda.
+Los Comités pro-obra son grupos directivos con representatividad social en una comunidad, que tienen por objeto realizar actividades lícitas para recabar fondos, administrarlos e invertirlos en la ejecución de obras de beneficio colectivo; su integración y operación se hará mediante autorización de la Dirección de Gobernación a propuesta del Presidente Municipal y del H. Ayuntamiento que corresponda.
 
 ###### Artículo 11.
 
@@ -149,9 +151,9 @@ La autorización de referencia será otorgada de manera discrecional y su vigenc
 
 Para la obtención de la autorización referida en el numeral anterior, el Comité de que se trate, deberá cumplir con lo siguiente:
 
-a).? Presentar solicitud por escrito en la que se especifique con claridad el objeto de su constitución y la ubicación del lugar en que ejercerán la venta de cerveza, mismo que deberá cumplir con las condicionantes que establecen los artículo 33, 34, 45 y 36 de la ley;
+a).- Presentar solicitud por escrito en la que se especifique con claridad el objeto de su constitución y la ubicación del lugar en que ejercerán la venta de cerveza, mismo que deberá cumplir con las condicionantes que establecen los artículo 33, 34, 45 y 36 de la ley;
 
-b).? Copia de la convocatoria de invitación de presentación de propuestas a expendedores y/o distribuidores de bebidas alcohólicas;
+b).- Copia de la convocatoria de invitación de presentación de propuestas a expendedores y/o distribuidores de bebidas alcohólicas;
 
 ###### Artículo 14.
 
@@ -223,7 +225,7 @@ El Comité deberá abrir una cuenta en un banco de la localidad, o en el lugar m
 
 ###### Artículo 23.
 
-? El Comité deberá destinar las utilidades obtenidas para la realización del objeto autorizado y el gasto corriente y otras acciones menores; aplicando los porcentajes que se precisan conforme a la siguiente tabla, previa autorización de la Dirección:
+El Comité deberá destinar las utilidades obtenidas para la realización del objeto autorizado y el gasto corriente y otras acciones menores; aplicando los porcentajes que se precisan conforme a la siguiente tabla, previa autorización de la Dirección:
 
 RANGO DE UTILIDAD PORCENTAJE A DESTINAR
 
@@ -336,3 +338,13 @@ C.P. PATRICIO MARTÍNEZ GARCÍA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTÍNEZ GARZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 5 DE OCTUBRE DE 2013.
+
+...
+
+###### ARTÍCULO SEGUNDO
+
+Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
