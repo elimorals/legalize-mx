@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2010-08-18"
+last_updated: "2013-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA IMPRESIÓN DEL PERIÓDICO OFICIAL DE 18 DE AGOSTO DE 2010, No. 26, SECCIÓN CUARTA .</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -89,9 +87,13 @@ Los ciudadanos Nayaritas tienen los siguientes derechos:
 
 I. Participar políticamente en los asuntos públicos;
 
-II. Afiliarse libre, individual y voluntariamente a los partidos políticos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-III. Participar dentro de los partidos políticos a cargos de dirección, y a postularse para ser presentados como candidatos;
+II. Afiliarse libre, individual y voluntariamente a los partidos políticos; participar dentro de los mismos, a cargos de dirección y a postularse para ser presentados como candidatos;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+III. Postularse como candidatos por medio de un partido político o de manera independiente, ésta última sólo para los cargos de elección popular de Gobernador del Estado, Diputado o miembro de Ayuntamiento, por el principio de mayoría relativa;
 
 IV. Ser informados de los ingresos y egresos de todos los partidos políticos, coaliciones, precandidatos y candidatos;
 
@@ -255,23 +257,39 @@ I. Para concurrir a la asignación de Diputados por este principio, los partidos
 
 a) Los partidos políticos, que participan con fórmulas de candidatos a Diputados por el sistema de Mayoría Relativa en por lo menos las dos terceras partes de los distritos electorales uninominales; las coaliciones, cuando acrediten el cumplimiento de lo establecido por los artículos 64 segundo párrafo, y 69 del presente ordenamiento;
 
-b) Haber registrado listas estatales de candidatos para esta elección de hasta un número de doce ciudadanos para cada partido político o coalición;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-Opcionalmente, los partidos políticos o coaliciones podrán presentar esta lista con un número de seis ciudadanos que ocuparán los números nones de la lista total y los seis restantes, corresponderán a los números pares de la lista, mismos que serán cubiertos por el organismo electoral, una vez realizada la elección, con los candidatos de mayoría relativa registrados por el partido político respectivo, que no hayan alcanzado el triunfo de mayoría relativa y los cuales serán ordenados en forma decreciente conforme al porcentaje de votos obtenidos en relación directa al total de votos computados en la elección distrital respectiva.
+b) Haber registrado listas estatales de candidatos para esta elección de hasta un número de doce ciudadanos por cada partido político o coalición;
+
+Opcionalmente, los partidos políticos o coaliciones podrán presentar esta lista con un número de seis ciudadanos que ocuparán los números nones de la lista total de conformidad con el orden que presenten los partidos políticos y coaliciones, en los términos de la fracción V del artículo 22 de la presente ley y los seis restantes, corresponderán a los números pares de la lista, mismos que serán cubiertos por el organismo electoral, una vez realizada la elección, con los candidatos de mayoría relativa registrados por el partido político respectivo, que no hayan alcanzado el triunfo de mayoría relativa y los cuales serán ordenados en forma decreciente conforme al porcentaje de votos obtenidos en relación directa al total de votos computados en la elección distrital respectiva.
 
 Los partidos políticos o coaliciones tendrán la potestad de presentar la lista de manera invertida a lo previsto en el párrafo anterior.
 
 Una vez registrada la lista de candidatos por alguna de las anteriores opciones, el partido político o coalición postulante no podrá optar por otra.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Las listas de candidatos para esta elección, se integrarán atendiendo al principio de paridad de género. Deberá garantizarse el orden de prelación, alternando los géneros en las listas definitivas.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Las listas se presentarán en orden alfabético de acuerdo al nombre de los ciudadanos que las integren, sin que ello signifique un derecho de preferencia en el orden de asignación.
+
 c) Haber alcanzado por lo menos el 1.5 por ciento de la votación total estatal en la elección de Diputados;
 
-II. Todo partido político tendrá derecho a concurrir a la asignación de Diputados por el principio de Representación Proporcional, en los términos de la Constitución local y esta ley;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-III. Ningún partido político podrá contar con más de dieciocho diputados por ambos principios.
+II. Todo partido político o coalición tendrá derecho a concurrir a la asignación de Diputados por el principio de Representación Proporcional, en los términos de la Constitución local y esta ley, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+III. Ningún partido político o coalición podrá contar con más de dieciocho diputados por ambos principios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 22.
 
-A los partidos políticos que obtengan cuando menos el 1.5 por ciento de la votación total estatal en la elección de Diputados de Mayoría Relativa, les será asignado un Diputado por el principio de Representación Proporcional, con excepción de aquel al que se le hubiere otorgado las constancias de mayoría y validez de la totalidad de los distritos electorales.
+A los partidos políticos o coaliciones que obtengan cuando menos el 1.5 por ciento de la votación total estatal en la elección de Diputados de Mayoría Relativa, les será asignado un Diputado por el principio de Representación Proporcional, con excepción de aquel al que se le hubiere otorgado las constancias de mayoría y validez de la totalidad de los distritos electorales.
 
 Si aun existieren diputaciones por asignar, se procederá de la siguiente manera:
 
@@ -279,11 +297,17 @@ I. Se sumará la votación estatal obtenida por los partidos políticos que cont
 
 II. A continuación, la Votación para Asignación se dividirá entre el número de diputaciones pendientes por asignar. Al resultado de esta operación se le denominará Cociente de Asignación;
 
-III. Hecho lo anterior, se determinará el número de diputados que correspondan a cada partido político, considerando el número de veces que contenga su votación estatal obtenida, el referido cociente;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-IV. El número restante de diputados por este principio, si lo hubiere, se asignará por resto mayor, entendiendo por ello, el remanente de votos más alto obtenido por cada partido político, después de aplicar el cociente de asignación, y;
+III. Hecho lo anterior, se determinará el número de diputados que correspondan a cada partido político o coalición, considerando el número de veces que contenga su votación estatal obtenida, el referido cociente;
 
-V. En todos los casos, las asignaciones se harán en el orden que determinen los partidos políticos o coaliciones, de su lista estatal registrada, una vez concluido en los términos de esta ley, el cómputo y declaración de validez para esta elección.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+IV. El número restante de diputados por este principio, si lo hubiere, se asignará por resto mayor, entendiendo por ello, el remanente de votos más alto obtenido por cada partido político o coalición después de aplicar el cociente de asignación, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+V. En todos los casos, las asignaciones se harán en el orden que determinen los partidos políticos o coaliciones, de su lista estatal registrada, una vez concluido en los términos de esta ley, el cómputo y hecha la declaración de validez para esta elección.
 
 ### CAPÍTULO IV. De la Geografía Electoral
 
@@ -299,19 +323,31 @@ III. En los municipios cuya lista nominal de electores sea mayor a los 40,000, h
 
 IV. En los municipios cuya lista nominal de electores sea mayor a los 80,000 ciudadanos, once Regidores de Mayoría Relativa y cinco Regidores de Representación Proporcional.
 
-Las listas nominales de electores a que se refiere este artículo serán las formuladas con corte al último día del mes de junio del año previo a la elección.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+El número de regidores que integrarán cada ayuntamiento serán aprobados por el Instituto Estatal Electoral, dentro del año siguiente a la conclusión del proceso electoral anterior a aquel en que vaya a aplicarse.
 
 ###### Artículo 24.
 
 La elección de los integrantes de los Ayuntamientos de la Entidad, se realizará de la siguiente manera:
 
-I. Los Presidentes y Síndicos Municipales se elegirán por fórmulas que integrarán una sola planilla, en votación de mayoría relativa, y;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-II. Los regidores por el sistema de mayoría relativa, se elegirán individualmente por fórmulas constituidas por un candidato propietario y otro suplente, de conformidad al número y territorialización que establezca el Congreso del Estado a propuesta del Instituto Estatal Electoral, para cada uno de los municipios.
+I. Los Presidentes y Síndicos Municipales se elegirán por fórmulas de candidatos que integrarán una sola planilla, en votación de mayoría relativa.
+
+Cada una de las fórmulas de propietario y suplente que se presenten para su registro, deberán estar integradas por candidatos de un mismo género. Una fórmula de la planilla será de género distinto, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+II. Los regidores por el sistema de mayoría relativa, se elegirán individualmente por fórmulas constituidas por un candidato propietario y otro suplente, de conformidad al número y territorialización que establezca el Instituto Estatal Electoral, para cada uno de los municipios. Las fórmulas de propietario y suplente que presenten para su registro los partidos políticos y coaliciones, deberán integrarse con candidatos de un mismo género. Cuando menos, el cuarenta por ciento del total de dichas fórmulas en cada municipio, deberán integrarse con candidatos de género distinto. No obstante lo anterior, si de dicho porcentaje resultare fracción numérica de 0.5 o mayor, se atenderá al entero superior; en caso contrario, al menor.
+
+Tratándose de candidatos independientes, la fórmula de propietario y suplente deberá estar integrada por candidatos de género distinto.
 
 La demarcación territorial para la elección de regidores a que se refiere el presente artículo será determinada tomando en consideración la que resulte de dividir la población total del municipio, entre el número de regidurías a elegir, considerando regiones geográficas del municipio.
 
-En todos los casos se integrará a los ayuntamientos el número de regidores que les corresponda, bajo el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+En todos los casos se integrará a los ayuntamientos el número de regidores que les corresponda, bajo el principio de representación proporcional. Para cumplimentar la equidad de género en la postulación de candidatos para esta elección, se atenderá en lo conducente, lo establecido en los dos últimos párrafos del inciso b) de la fracción I del artículo 21 de la presente ley.
 
 Los regidores por el principio de representación proporcional, se elegirán por listas de candidatos, integradas con el número a que se refiere el siguiente artículo.
 
@@ -349,11 +385,11 @@ V. La elección de diputados por el sistema de representación proporcional, se 
 
 VI. La elección de regidores por el principio de representación proporcional, se efectuará mediante listas de candidatos en una sola circunscripción electoral que comprenderá todo el territorio municipal que corresponda.
 
-(NOTA: EL 22 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2010 Y SUS ACUMULADAS 24/2010 Y 25/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, EN LAS PORCIONES NORMATIVAS QUE SE REFIEREN A LA FACULTAD DEL CONGRESO DEL ESTADO DE NAYARIT PARA APROBAR LA REDISTRITACIÓN ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 23 DE NOVIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 27.
 
-El ámbito territorial de los distritos electorales uninominales será aprobado por el Congreso del Estado a propuesta del Instituto Estatal Electoral, de conformidad con los siguientes criterios:
+El ámbito territorial de los distritos electorales uninominales será aprobado por el Instituto Estatal Electoral, de conformidad con los siguientes criterios:
 
 I. Se dividirá el número de habitantes del Estado, de acuerdo con el último registro oficial emitido por el Instituto Nacional de Estadística, Geografía e Informática, entre el número de distritos electorales uninominales y el resultado de esta operación, constituirá la base para determinar el número de habitantes que en promedio deba contar cada distrito electoral;
 
@@ -365,11 +401,11 @@ IV. Los distritos electorales uninominales podrán comprender el territorio de m
 
 V. Tratándose de distritos que comprendan más de un municipio, las municipalidades deberán tener continuidad geográfica.
 
-(NOTA: EL 22 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2010 Y SUS ACUMULADAS 24/2010 Y 25/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, EN LAS PORCIONES NORMATIVAS QUE SE REFIEREN A LA FACULTAD DEL CONGRESO DEL ESTADO DE NAYARIT PARA APROBAR LA REDISTRITACIÓN ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 23 DE NOVIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 28.
 
-Las demarcaciones municipales electorales correspondientes a cada uno de los municipios de la entidad, serán aprobadas por el Congreso del Estado a propuesta que al efecto le presente el Instituto Estatal Electoral, de acuerdo con las siguientes reglas:
+Las demarcaciones municipales electorales correspondientes a cada uno de los municipios de la entidad, serán aprobadas por el Instituto Estatal Electoral, de acuerdo con las siguientes reglas:
 
 I. Se dividirá el número de habitantes del municipio, de acuerdo con el último registro oficial emitido por el Instituto Nacional de Estadística, Geografía e Informática, entre el número de demarcaciones municipales electorales y el resultado de esta operación, constituirá la base para determinar el número de habitantes que en promedio deba contar cada demarcación electoral;
 
@@ -379,11 +415,11 @@ III. Las demarcaciones municipales electorales comprenderán preferentemente sec
 
 IV. Se procurará que las demarcaciones municipales queden delimitadas por elementos naturales, tales como ríos, barrancas y montañas, o por vías principales como avenidas, carreteras, etc.
 
-(NOTA: EL 22 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2010 Y SUS ACUMULADAS 24/2010 Y 25/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, EN LAS PORCIONES NORMATIVAS QUE SE REFIEREN A LA FACULTAD DEL CONGRESO DEL ESTADO DE NAYARIT PARA APROBAR LA REDISTRITACIÓN ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 23 DE NOVIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 29.
 
-Con base en los criterios anteriores deberá quedar aprobada por el Congreso del Estado a propuesta del Instituto Estatal Electoral, dentro del año siguiente a la conclusión de cada proceso electoral, la delimitación de los distritos electorales uninominales y de las demarcaciones municipales.
+Con base en los criterios anteriores deberá quedar aprobada por el Instituto Estatal Electoral, dentro del año siguiente a la conclusión de cada proceso electoral, la delimitación de los distritos electorales uninominales y de las demarcaciones municipales.
 
 ## TÍTULO CUARTO. De los Partidos Políticos
 
@@ -595,9 +631,13 @@ XIX. Para el caso de los partidos políticos con registro estatal, crear sus ór
 
 XX. Presentar cada año a más tardar en la última semana de enero al Instituto Estatal Electoral, un inventario de bienes muebles e inmuebles que hubieren adquirido con recursos provenientes del financiamiento público estatal;
 
-XXI. Procurar la igualdad de oportunidades y equidad entre los géneros para la toma de decisiones internas de los institutos políticos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-XXII. Procurar y promover la equidad étnica y de género en las candidaturas a cargos de elección popular;
+XXI. Fomentar, promover y garantizar la igualdad de oportunidades y equidad entre los géneros para la toma de decisiones internas de los institutos políticos, así como en la postulación de candidatos a cargos de elección popular, atendiendo en todo momento los términos de la presente ley;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+XXII. Procurar y promover la equidad étnica en las candidaturas a cargos de elección popular;
 
 XXIII. Presentar los informes correspondientes al uso del financiamiento público y privado que hayan recibido, así como entregar la documentación que el propio Instituto Estatal Electoral le solicite respecto a sus ingresos y egresos, y;
 
@@ -682,6 +722,16 @@ III.- Para el desarrollo de las actividades tendientes a la obtención del sufra
 Tratándose de elecciones extraordinarias, los partidos políticos serán apoyados mediante financiamiento público, con la parte proporcional que les haya correspondido por el concepto señalado en el párrafo anterior, en función de la elección a realizarse.
 
 IV. Los partidos políticos, mediante financiamiento público, serán apoyados, en la realización de actividades de educación y capacitación política, editorial y de estudios socioeconómicos, con el rembolso del 60 por ciento de lo erogado en estas actividades. En ningún caso, dicho rembolso será mayor al diez por ciento del financiamiento público ordinario que le haya correspondido en esa anualidad al partido político solicitante.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Para los efectos de la presente fracción, los partidos políticos deberán presentar al Instituto Estatal Electoral a más tardar el último día del mes de febrero del año siguiente del ejercicio que se reporte, un informe y la documentación comprobatoria de la realización de este tipo de actividades, así como de los ingresos y egresos realizados, y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+V. Los candidatos independientes que hayan resultado electos o hubieren impugnado la elección en la que participaron, independientemente del sentido de la resolución definitiva, deberán presentar su informe de gastos de campaña en las fechas y condiciones establecidas en esta ley para los partidos políticos o coaliciones electorales.
+
+Aquellos que resulten electos, podrán recuperar del Instituto Estatal Electoral, en el siguiente ejercicio presupuestal, hasta un 50% de los gastos erogados durante su campaña, previa su comprobación total; y aquellos que hayan excedido los límites máximos de gastos permitidos, no tendrán derecho a la recuperación antes referida, sin perjuicio de las sanciones a que sea acreedor el candidato de conformidad con lo establecido en esta ley.
 
 ###### Artículo 48.
 
@@ -847,21 +897,31 @@ Los partidos políticos solo podrán coaligarse para participar en la totalidad 
 
 Ningún partido político podrá participar en más de una coalición.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Los candidatos independientes no podrán constituir coalición, alianza o unión transitoria entre sí o con partidos políticos, ni celebrar acuerdos de participación con asociaciones políticas, ni ningún tipo de asociación electoral.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
 Tratándose de elecciones extraordinarias, se seguirán las mismas reglas.
 
 ###### Artículo 65.
 
 Podrán celebrarse convenios de coalición entre dos o más partidos políticos nacionales o estatales, para postular candidatos.
 
-Los candidatos de la coalición se presentarán bajo un solo registro, emblema, color o colores y denominación propios.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Los candidatos de la coalición se presentarán bajo un solo registro, emblema, color o colores y denominación propios. Los partidos integrantes de una coalición no podrán registrar candidatos por sí mismos.
 
 ###### Artículo 66.
 
 Para la integración de los órganos electorales, las coaliciones actuarán como un solo partido y acreditarán representantes únicos en los términos de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 67.
 
-Los votos que obtengan los candidatos de una coalición, serán de los partidos políticos que participaron unidos, en la proporción y forma pactadas en el convenio de coalición.
+Los votos que obtengan los candidatos de una coalición se distribuirán entre los partidos políticos que participaron unidos, en la proporción y forma pactadas en el convenio de coalición.
 
 ###### Artículo 68.
 
@@ -873,13 +933,17 @@ Si la votación obtenida por la coalición no alcanza el 2.5 de la votación per
 
 Para registrar candidatos a Diputados de Representación Proporcional, la coalición será por toda la circunscripción plurinominal, y deberá participar con candidatos a Diputados de Mayoría en la totalidad de los distritos electorales.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 70.
 
-El convenio de coalición deberá presentarse por escrito para su registro ante el Consejo Local Electoral dentro de los primeros quince días de iniciado el proceso electoral.
+El convenio de coalición deberá presentarse por escrito para su registro ante el Consejo Local Electoral a partir de iniciado el proceso electoral y hasta el día 22 de enero del año de la elección.
+
+Para el registro de la coalición, los partidos políticos que pretendan integrarla deberán acreditar que la suscripción de aquella fue aprobada expresamente por el órgano nacional y estatal que establezcan los estatutos de cada uno de los partidos políticos que la conformarán.
 
 Recibida una solicitud de registro de convenio por el órgano estatal electoral, se verificará dentro de los cinco días siguientes, que se cumplió con todos los requisitos de esta ley.
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará por escrito a los solicitantes, para que dentro de las cuarenta y ocho horas siguientes subsanen el o los requisitos omitidos.
+Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará por escrito a los solicitantes, para que dentro de los cuatro días naturales siguientes subsanen el o los requisitos omitidos.
 
 El Consejo Local Electoral, resolverá lo conducente en un plazo de quince días contados a partir de la fecha de presentación de la solicitud de registro.
 
@@ -995,9 +1059,9 @@ I. Contribuir al fortalecimiento y desarrollo de la vida democrática y la parti
 
 II. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo del Estado y a los miembros de los Ayuntamientos;
 
-(NOTA: EL 22 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2010 Y SUS ACUMULADAS 24/2010 Y 25/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO EN LAS PORCIONES NORMATIVAS QUE SE REFIEREN A LA FACULTAD DEL CONGRESO DEL ESTADO DE NAYARIT PARA APROBAR LA REDISTRITACIÓN ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 23 DE NOVIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-III. Dentro del año siguiente a partir de la conclusión de los procesos electorales ordinarios respectivos, llevar a cabo los estudios encaminados a la demarcación territorial de los distritos electorales, tomando en consideración la que resulte de dividir la población total del Estado, entre el número de distritos electorales, considerando regiones geográficas de la Entidad, así como los concernientes a las delimitaciones municipales electorales, tomando en cuenta el número de regidores a elegir por el sistema de mayoría relativa en cada uno de los municipios del Estado y ponerlos a la consideración del Congreso del Estado para su aprobación;
+III. Dentro del año siguiente a partir de la conclusión de los procesos electorales ordinarios respectivos, llevar a cabo los estudios encaminados a la delimitación de la demarcación territorial de los distritos electorales, tomando en consideración la que resulte de dividir la población total del Estado, entre el número de distritos electorales, considerando regiones geográficas de la Entidad, así como los concernientes a las delimitaciones municipales electorales, tomando en cuenta el número de regidores a elegir por el sistema de mayoría relativa en cada uno de los municipios del Estado;
 
 IV. Asegurar a los ciudadanos el ejercicio de sus derechos políticos y electorales;
 
@@ -1263,9 +1327,9 @@ De igual manera, autorizará los reembolsos que en los términos de la presente 
 
 VII. Fiscalizar y auditar todos los recursos financieros ordinarios y especiales con que cuenten los partidos políticos;
 
-(NOTA: EL 22 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2010 Y SUS ACUMULADAS 24/2010 Y 25/2010, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO EN LAS PORCIONES NORMATIVAS QUE SE REFIEREN A LA FACULTAD DEL CONGRESO DEL ESTADO DE NAYARIT PARA APROBAR LA REDISTRITACIÓN ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 23 DE NOVIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-VIII. Realizar los estudios de distritación electoral y territorialización municipal electoral y ponerlos a través de su presidente, a la aprobación del Congreso del Estado;
+VIII. Realizar y aprobar los estudios de distritación electoral y territorialización municipal electoral;
 
 IX. Fijar las reglas e intervenir en los procedimientos a que se refiere esta ley, respecto de las solicitudes de registro que le presenten los ciudadanos y organizaciones que pretendan constituirse como partidos políticos locales, tomando los acuerdos necesarios, y presentando el proyecto de resolución al pleno del Consejo Local Electoral, para su aprobación;
 
@@ -1359,7 +1423,9 @@ VII. Aprobar a propuesta de su Presidente, el nombramiento del personal técnico
 
 VIII. Capacitar y designar a los ciudadanos propuestos como funcionarios de casilla;
 
-IX. Registrar cuando proceda los nombramientos de los representantes de los partidos políticos ante las mesas directivas de casilla y representantes generales;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+IX. Registrar cuando proceda, los nombramientos de los representantes generales de los partidos políticos, las coaliciones y los candidatos independientes, ante las mesas directivas de casilla;
 
 X. Recibir del Consejo Local Electoral las listas nominales de electores, boletas y formatos para los comicios de Gobernador, Diputados y Ayuntamientos;
 
@@ -1637,6 +1703,8 @@ El Instituto Estatal Electoral por medio de su Consejero Presidente, celebrará 
 
 ### CAPÍTULO III. Del Registro de Candidatos
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 117.
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Política del Estado Libre y Soberano de Nayarit, y esta ley realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica y democrática de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos de la entidad.
@@ -1661,6 +1729,10 @@ Los procesos internos de selección de candidatos a cargos de elección popular,
 
 I. Los procesos internos de selección de candidatos deberán realizarse después del inicio del proceso electoral, y las precampañas no excederán de las dos terceras partes de la duración de las respectivas campañas electorales;
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Los partidos políticos y coaliciones, deberán fomentar, promover y garantizar la equidad y paridad de los géneros entre sus militantes y simpatizantes, atendiendo en todo momento, al efecto, lo establecido por la presente ley;
+
 II. Los partidos políticos y coaliciones a través de su Comité Estatal o equivalente, remitirán al Consejo Local Electoral la Convocatoria respectiva para la selección de candidatos, dentro de los tres días anteriores al de su publicación, para su registro;
 
 III. La Convocatoria deberá contener la fecha para el registro formal de los precandidatos; y
@@ -1673,13 +1745,21 @@ Las precampañas realizadas por los precandidatos registrados, comprenden, el co
 
 Ningún ciudadano podrá realizar este tipo de actividades, tales como reuniones públicas, marchas, asambleas, publicidad impresa o en los medios de comunicación social, así como cualquiera otra tendiente a lograr un posicionamiento ante la sociedad o reconocimiento de su persona para ocupar una postulación a cargo de elección popular, fuera de los períodos establecidos por esta ley y sin que haya sido formalmente registrado como aspirante.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+El precandidato único, una vez habilitado mediante aviso que haga el partido político o coalición al Instituto Estatal Electoral, estará en condiciones de realizar actos de precampaña, con el objeto de dar a conocer su propuesta ideológica personal y ser conocido por la militancia de su partido o coalición, para ser postulado como candidato.
+
 ###### Artículo 120.
 
 Las precampañas se realizarán dentro de los siguientes plazos:
 
-I. Para Gobernador del Estado, del 12 de marzo al 20 de abril inclusive, del año de la elección, y;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-II. Para diputados e integrantes de los ayuntamientos, del 28 de abril al 17 de mayo inclusive, del año de la elección.
+I. Para Gobernador del Estado dentro de los 116 y hasta 77 días inclusive, antes del día de la jornada electoral, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+II. Para diputados e integrantes de los ayuntamientos dentro de los 69 y hasta 50 días inclusive, antes del día de la jornada electoral.
 
 ###### Artículo 121.
 
@@ -1711,15 +1791,25 @@ Los partidos políticos y precandidatos que no realicen precampañas, tendrán d
 
 ###### Artículo 123.
 
-Corresponde exclusivamente a los partidos políticos o coaliciones acreditados ante el Instituto Estatal Electoral, el derecho de solicitar el registro de candidatos a cargos de elección popular. Los partidos políticos o coaliciones serán responsables de los actos de sus propios candidatos.
+Tienen derecho a solicitar el registro de candidatos a cargos de elección popular los partidos políticos o coaliciones acreditados ante el Instituto Estatal Electoral, así como los ciudadanos de manera independiente, en los términos y condiciones establecidos en esta ley.
 
-Para el registro de candidatos a todo cargo de elección popular, el partido político o coalición postulante deberá presentar y obtener previamente el registro de la plataforma electoral que sus candidatos sostendrán en el desarrollo de las campañas políticas.
+Para las candidaturas independientes a que se refieren el artículo 143 fracción XII inciso b) del presente ordenamiento, serán aplicables, además de las normas específicas establecidas en esta ley, aquellas relativas a la participación de los partidos políticos y coaliciones en la representación y funcionamiento de los órganos electorales; campañas electorales; al límite a los gastos de campaña; a la documentación electoral; a la votación, escrutinio y cómputo de votos; y al recuento total de votos.
+
+Los partidos políticos o coaliciones serán responsables de los actos de sus propios candidatos.
+
+Para el registro de candidatos a todo cargo de elección popular, el partido político, coalición o aspirante a candidato independiente deberán presentar y obtener previamente el registro de la plataforma electoral que los candidatos sostendrán en el desarrollo de las campañas políticas.
+
+Los ciudadanos que pretendan postularse como candidatos independientes, deberán acompañar además, su manifestación por escrito de esta intención y señalar domicilio legal.
 
 La plataforma electoral deberá presentarse para su registro ante el Instituto Estatal Electoral, en los primeros diez días del mes de abril del año de la elección. Del registro se expedirá la constancia correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 124.
 
-La solicitud del registro de candidaturas presentada por un partido político o coalición, deberá indicar los datos siguientes:
+Las solicitudes de registro de las candidaturas, deberán sujetarse a las siguientes reglas:
+
+Apartado A.- La solicitud del registro de candidaturas presentada por un partido político o coalición, deberá indicar los datos siguientes:
 
 I. La denominación del partido político o coalición;
 
@@ -1733,31 +1823,109 @@ c) Cargo para el cual se le postula;
 
 d) Ocupación;
 
-e) Clave de elector, y;
+e) Clave de elector, y
 
-f) Declaración patrimonial
+f) Declaración patrimonial.
 
-III. La firma de los funcionarios autorizados, por los estatutos, del partido político o por el convenio de la coalición postulante;
+III. La firma de los funcionarios autorizados, por los estatutos del partido político o por el convenio de la coalición postulante.
 
 Además se acompañarán los documentos que le permitan:
 
 I. Acreditar los requisitos de elegibilidad del candidato o candidatos, de conformidad con la Constitución Política del Estado;
 
-II. Acreditar el cumplimiento del procedimiento que para la selección interna señala esta ley a los partidos políticos o coaliciones; anexando copia certificada de la constancia de su registro como precandidato a la postulación por el partido o coalición solicitante, y;
+II. Acreditar el cumplimiento del procedimiento que para la selección interna señala esta ley a los partidos políticos o coaliciones; anexando copia certificada de la constancia de su registro como precandidato a la postulación por el partido o coalición solicitante, y
 
 III. Aportar los documentos que prueben la aceptación de la candidatura firmada por el candidato propuesto; copia certificada del acta de nacimiento del candidato; fotocopia certificada de la credencial para votar y constancia de residencia expedida por la autoridad competente.
+
+Los Diputados por el sistema de mayoría relativa, se elegirán individualmente por fórmulas constituidas por un candidato propietario y otro suplente, de conformidad al número y territorialización que establezca el Instituto Estatal Electoral, para cada uno de los distritos. Las fórmulas de propietario y suplente que presenten los partidos políticos y coaliciones, deberán integrarse con candidatos de un mismo género. Cuando menos, el cuarenta por ciento del total de dichas fórmulas del total de distritos en el Estado, deberán integrarse con candidatos de género distinto. No obstante lo anterior, si de dicho porcentaje resultare fracción numérica de 0.5 o mayor, se atenderá al entero superior; en caso contrario, al menor.
+
+Tratándose de candidatos independientes, la fórmula de propietario y suplente deberá estar integrada por candidatos de género distinto.
+
+Apartado B.- Los ciudadanos que pretendan obtener su registro como candidatos independientes, deberán cumplir con lo siguiente:
+
+I. Presentar documento firmado que contenga la solicitud de registro de los postulados a candidatos, integrantes de la fórmula o planilla, según corresponda, misma que deberá incluir la información prevista en el Apartado A primer párrafo fracción II del presente artículo;
+
+II. Acreditar haber presentado la correspondiente plataforma electoral, dentro del plazo establecido en esta ley;
+
+III. Acreditar los requisitos de elegibilidad previstos en la Constitución Política del Estado;
+
+IV. Presentar la relación de apoyo ciudadano que conste en fe de hechos notarial, que contenga el nombre, domicilio, clave de elector y firma autógrafa de cada una de las personas que respalden dicha candidatura en el estado, distrito, municipio o demarcación municipal según corresponda, así como, el asentamiento del fedatario de que le consta la identidad y aceptación expresa de cada ciudadano, de su apoyo a la candidatura en cuestión.
+
+Las actividades previas y aquellas tendientes a cumplimentar estos requisitos, deberán realizarse dentro de los plazos establecidos por esta ley para las precampañas, de lo contrario, serán considerados como actos anticipados de campaña;
+
+V. Presentar copia certificada de la credencial de elector de los ciudadanos que respaldan la candidatura, mismos que deberán pertenecer a la delimitación territorial según la elección de que se trate, y no podrán otorgar su apoyo a más de un aspirante para el mismo cargo de elección popular;
+
+VI. Con base en la lista nominal con corte al 31 de diciembre del año previo al de la elección, la relación de apoyo ciudadano deberá sujetarse a lo siguiente:
+
+a) Para Gobernador, la relación deberá contener cuando menos, los datos y la firma de una cantidad de ciudadanos no menor al 5% del total de la lista nominal en el estado;
+
+b) Para las fórmulas de candidatos a diputados de mayoría relativa, deberá contener cuando menos, los datos y la firma de una cantidad de ciudadanos correspondiente al distrito electoral uninominal respectivo, no menor al 15%;
+
+c) Para la planilla de candidatos a Presidente y Síndico Municipal, dicha relación deberá contener cuando menos, los datos y la firma de ciudadanos del municipio correspondiente, conforme a los siguientes rangos:
+
+1. Hasta 15,000 electores, el 20%;
+
+2. De 15,001 hasta 30,000 electores, el 15%;
+
+3. De 30,001 hasta 50,000 electores, el 12%;
+
+4. De 50,001 hasta 80,000 electores, el 10%, y
+
+5. De 80,001 electores en adelante, el 8%.
+
+d) Para las fórmulas de candidatos a regidor, la relación deberá contener cuando menos los datos y la firma de ciudadanos de la demarcación respectiva, conforme a los siguientes rangos:
+
+1. Hasta 2,000 electores, el 20%;
+
+2. De 2,001 hasta 4,000 electores, el 18%;
+
+3. De 4,001 hasta 8,000 electores el 15%;
+
+4. De 8,001 hasta 16,000 electores, el 12%, y
+
+5. Superior a 16,000 electores, el 10% de la lista nominal respectiva.
+
+VII. Señalar nombre y cargo de quienes serán los integrantes de su comité de campaña electoral, indicando domicilio legal donde se instale el Consejo Local o Municipal Electoral, según corresponda. Dicho comité deberá atender las siguientes disposiciones:
+
+a) El comité deberá contar cuando menos con los siguientes cargos:
+
+1. Un Presidente que será el representante de la postulación para todos los efectos legales;
+
+2. Un responsable de las finanzas encargado del manejo de los recursos financieros y de la elaboración del informe de gastos de campaña, y
+
+3. Un responsable de la propaganda electoral, incluyendo la administración de la página de internet del candidato.
+
+b) Deberá presentarse el manual de organización del comité en donde se delimiten las atribuciones de cada uno de sus integrantes;
+
+c) Los integrantes del comité, no deberán ser dirigentes de ningún partido político, y
+
+d) Los integrantes del comité serán responsables por las faltas que incurran en los términos de esta ley y de la legislación penal aplicable.
+
+VIII. Presentar el emblema y colores con los que pretenda contender, mismos que no deberán contener la imagen o fotografía del candidato, ni ser análogos a los de los partidos políticos o coaliciones con registro o acreditación ante el Instituto o de otros candidatos;
+
+IX. Acreditar la apertura de una cuenta bancaria en el Estado de Nayarit, para el manejo de los recursos de la campaña electoral, mismos que no deberán exceder del importe correspondiente al límite máximo de los gastos de campaña aprobados por el Consejo Local Electoral, para la elección que pretenda contender, y
+
+X. Informar lo relativo al monto de los recursos que pretende gastar en la campaña y el origen de los mismos.
 
 ###### Artículo 125.
 
 Los plazos para la presentación de la solicitud de registro de los candidatos en el año de la elección son los siguientes:
 
-I. Para Gobernador del Estado, será del 22 al 27 del mes de abril ante el Consejo Local Electoral;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-II. Para Ayuntamientos, del 20 al 24 de mayo ante el Consejo Municipal Electoral respectivo;
+I. Para Gobernador del Estado, será entre los 75 y 70 días inclusive, antes del día de la jornada electoral, ante el Consejo Local Electoral;
 
-III. Para el registro de las fórmulas de candidatos a Diputados de Mayoría, del 20 al 24 de mayo ante el Consejo Local Electoral, y;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-IV. Para las listas de Diputados y Regidores de Representación Proporcional, del 25 al 27 de mayo ante el Consejo Local Electoral para las primeras y ante el Consejo Municipal Electoral que corresponda, para las segundas.
+II. Para Ayuntamientos, entre los 47 y 43 días inclusive, antes del día de la jornada electoral, ante el Consejo Municipal Electoral;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+III. Para las fórmulas de candidatos a Diputados de Mayoría, entre los 47 y 43 días inclusive, antes del día de la jornada electoral, ante el Consejo Local Electoral, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+IV. Para las listas de Diputados y Regidores de Representación Proporcional, entre los 42 y 40 días inclusive, antes del día de la jornada electoral, ante el Consejo Local Electoral para las primeras y ante el Consejo Municipal Electoral que corresponda, para las segundas.
 
 Las solicitudes de registro de candidatos a integrantes de los ayuntamientos, podrán presentarse ante el Consejero Presidente o Secretario General del Consejo Local Electoral y deberán ser turnadas al Consejo Municipal Electoral que corresponda dentro de las siguientes veinticuatro horas de su recepción, para los efectos conducentes a que se refiere esta ley.
 
@@ -1765,15 +1933,29 @@ Las solicitudes de registro de candidatos a integrantes de los ayuntamientos, po
 
 Recibida una solicitud de registro de candidaturas por el órgano electoral que corresponda, se verificará dentro de los tres días siguientes, que se cumplió con todos los requisitos de esta ley.
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará por escrito al partido político o coalición correspondiente para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará por escrito al solicitante para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Respecto al incumplimiento del porcentaje de género exigido por esta ley, se requerirá al partido político o coalición con el apercibimiento que de no hacerlo, el órgano electoral correspondiente lo realizará de manera oficiosa en los casos en que proceda, o bien, negará al azar, el registro de aquellas candidaturas que excedan del porcentaje establecido, según corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Se exceptúa de lo anterior, las candidaturas que sean el resultado de un proceso de elección basado en el voto universal de militantes o simpatizantes, en el estado para el caso de la de Diputados, y en el municipio, tratándose de la de integrantes del ayuntamiento.
 
 ###### Artículo 127.
 
 El órgano electoral que corresponda, celebrará sesión cuyo único objeto será registrar oficialmente las candidaturas que procedan, en las siguientes fechas del año en que se celebren elecciones ordinarias:
 
-I. Para el registro de candidatos a Gobernador del Estado, el 4 de mayo, y;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-II. Para el registro de candidatos a integrantes de los ayuntamientos y a Diputados por ambos principios, el día 3 de junio.
+I. Para el registro de candidatos a Gobernador del Estado, el día 63 anterior al día de la jornada electoral, y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+II. Para el registro de candidatos a integrantes de los ayuntamientos y a Diputados por ambos principios, el día 33 anterior al día de la jornada electoral.
 
 ###### Artículo 128.
 
@@ -1804,6 +1986,10 @@ El día de la elección y los tres que antecedan, no se permitirá la celebraci�
 ###### Artículo 133.
 
 En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. Las autoridades garantizarán el derecho de reunión y el orden público en los actos de proselitismo político.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Los ciudadanos que hayan obtenido el registro como candidatos independientes, durante sus campañas electorales, tendrán los mismos derechos, obligaciones y prohibiciones que los postulados por los partidos políticos o coaliciones electorales.
 
 ###### Artículo 134.
 
@@ -1907,7 +2093,13 @@ X. Precandidato único, al ciudadano registrado internamente por un partido pol�
 
 XI. Precandidato, al ciudadano que, debidamente registrado al interior de un partido político, contiende con el fin de alcanzar su postulación como candidato a un cargo de elección popular;
 
-XII. Candidato, al ciudadano que, debidamente registrado ante los órganos electorales, pretende acceder a un cargo de elección popular mediante el voto popular;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+XII. Candidato y Candidato Independiente:
+
+a) Candidato, al ciudadano registrado ante los órganos electorales, que pretende acceder a un cargo de elección popular postulado por algún partido político o coalición, y
+
+b) Candidato independiente, al ciudadano registrado ante los órganos electorales, que pretende acceder a un cargo de elección de mayoría relativa, de manera independiente de un partido político o coalición.
 
 XIII. Militante de partido político, al ciudadano que formalmente pertenece a un partido político y participa en las actividades propias del mismo, sea en su organización o funcionamiento y que estatutariamente cuenta con derechos y obligaciones, y;
 
@@ -2059,7 +2251,13 @@ II. Entidad Federativa, Distrito Electoral, Municipio y Demarcación Municipal, 
 
 III. Tipo de elección, Gobernador del Estado, Diputados, Presidente Municipal y Síndico, y Regidores, según corresponda;
 
-IV. Rectángulos, tantos como partidos políticos y coaliciones participen en la elección, en el orden que corresponda a la antigüedad de su registro, incluyendo nombre completo y apellidos del o los candidatos que integran la fórmula, lista o planilla según la elección de que se trate, así como también el emblema y color o colores del partido político;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+IV. Rectángulos, tantos como partidos políticos, coaliciones y candidatos independientes participen en la elección, en el orden que corresponda a la antigüedad de su registro, en el caso de coaliciones, se atenderá a la del partido integrante con mayor antigüedad.
+
+Se incluirá además, el nombre completo y apellidos del o los candidatos que integran la fórmula, lista o planilla según la elección de que se trate, así como también el emblema y color o colores del partido político, coalición y candidatos independientes, según el caso.
+
+Previa solicitud del candidato, en la boleta podrá figurar además, el sobrenombre con el que se le conoce públicamente, siempre y cuando se trate de expresiones razonables y pertinentes que no constituyan propaganda electoral, no conduzcan a confundir al electorado, ni vayan en contravención o detrimento de los principios que rigen la materia electoral;
 
 V. Rectángulo en blanco para candidatos o fórmulas no registradas;
 
@@ -2511,7 +2709,9 @@ d) El Consejo Local Electoral verificará el cumplimiento de los requisitos form
 
 e) Se hará constar en el acta circunstanciada de la sesión los incidentes que hubieren ocurrido durante la misma, la declaración de validez de la elección y el cumplimiento de la elegibilidad de los candidatos que hubieran obtenido la asignación respectiva.
 
-Concluido el cómputo y emitida la declaración de validez para la elección de Diputados electos por el principio de Representación Proporcional, el Presidente del Consejo Local Electoral, previa entrega por los partidos políticos del orden definitivo de sus candidatos en que se hará la asignación, expedirá las constancias de asignación y validez correspondientes, salvo el caso de que alguno de los candidatos fueran inelegibles.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Concluido el cómputo y emitida la declaración de validez para la elección de Diputados electos por el principio de Representación Proporcional, el Presidente del Consejo Local Electoral, previa entrega por los partidos políticos del orden definitivo de sus candidatos en que se hará la asignación, respetando en todo caso, la paridad de género que se establece en la presente ley para esta elección, expedirá las constancias de asignación y validez correspondientes, salvo el caso de que alguno de los candidatos fueran inelegibles.
 
 Igualmente procederá a fijar en el exterior del domicilio que ocupa el Consejo Local Electoral los resultados del cómputo.
 
@@ -2625,7 +2825,11 @@ IV. Concluido el cómputo y emitida la declaración de validez para esta elecci�
 
 Para la asignación de Regidores por el principio de Representación Proporcional los Consejos Municipales Electorales aplicarán las siguientes reglas:
 
-I. Las asignaciones se harán en el orden de la lista definitiva de formulas de candidatos que presenten los partidos políticos una vez determinado su derecho a la asignación. Para tal efecto podrán optar en lo conducente por lo previsto en el artículo 21 fracción I de esta ley;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+I. Las asignaciones se harán en el orden de la lista definitiva de fórmulas de candidatos que presenten los partidos políticos una vez determinado su derecho a la asignación y respetando en todo caso, la paridad de género que se establece en la presente ley para esta elección.
+
+Los partidos políticos y coaliciones, podrán optar en lo conducente por lo previsto en el artículo 21 fracción I de esta ley;
 
 II. Si en la elección de las listas municipales un solo partido resultare con derecho a la asignación de Regidores por Representación Proporcional, se le adjudicarán todas las regidurías a repartir, y;
 
@@ -2681,9 +2885,11 @@ Los Presidentes de los Consejos Municipales Electorales, conservarán en su pode
 
 De igual manera, tomarán las medidas necesarias para el depósito, en el lugar acordado para el efecto, de los sobres conteniendo las boletas de los votos válidos, votos anulados y las que se hubiesen inutilizado hasta la conclusión del proceso electoral, y en un término de tres meses de concluido, se procederá a su destrucción.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 206.
 
-Las sesiones de cómputo municipal, se realizarán sucesiva e ininterrumpidamente hasta su conclusión. Podrán decretarse hasta tres recesos, los cuales no se extenderán por más de ocho horas, cada uno de ellos. En todo caso, los Consejos Municipales Electorales deberán concluir sus trabajos en un plazo máximo de setenta y dos horas a partir del momento de la instalación.
+Las sesiones de cómputo municipal, se realizarán sucesiva e ininterrumpidamente hasta su conclusión. Podrán decretarse hasta tres recesos, los cuales no se extenderán por más de ocho horas, cada uno de ellos. En todo caso, los Consejos Municipales Electorales deberán concluir sus trabajos en un plazo máximo de setenta y dos horas a partir del momento de la instalación; en el caso de tener que realizar el recuento de votos, el consejo municipal podrá determinar la ampliación del plazo.
 
 ###### Artículo 207.
 
@@ -2771,7 +2977,19 @@ b) Cada una de las mesas deberá estar presidida por un Consejero Ciudadano, sal
 
 c) Los partidos políticos podrán acreditar representantes adicionales a efecto de que estén presentes y representados en cada una de las mesas de recuento.
 
-II. Cuando se trate del recuento de votos de las elecciones de algún distrito electoral o de la elección de Gobernador del Estado, los Consejos Municipales Electorales que correspondan, sujetarán el procedimiento de recuento de votos invariablemente al Acuerdo emitido al efecto por el Consejo Local Electoral.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+II. Cuando se trate del recuento de votos de las elecciones de algún distrito electoral o de la elección de Gobernador del Estado, los Consejos Municipales Electorales que correspondan, sujetarán el procedimiento de recuento de votos invariablemente al Acuerdo emitido al efecto por el Consejo Local Electoral, y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+III. Para determinar la procedencia del recuento total de votos, cuando la diferencia entre los dos candidatos con mayor número de votos sea igual o menor al uno por ciento de los votos que hubieren obtenido, se procederá de la siguiente manera:
+
+a) Se sumarán exclusivamente los votos de los partidos políticos, coaliciones y candidatos independientes obtenidos en la elección de que se trate;
+
+b) Se obtendrá el porcentaje que representen los votos de cada partido, coalición y candidato independiente respecto a la suma anterior, y
+
+c) Al mayor porcentaje se le restará el que le sigue en magnitud y la diferencia constituirá el porcentaje para determinar la procedencia del recuento total de votos.
 
 ###### Artículo 215.
 
@@ -2914,3 +3132,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Miguel Antonio Fregozo Rivera, Presidente.- Rúbrica.- Dip. Francisco Javier González Lizárraga, Secretario.- Rúbrica.- Dip. José Luis Lozano Gárate, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dieciséis días del mes de agosto del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
