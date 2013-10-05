@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2013-10-02"
+last_updated: "2013-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1135,9 +1135,11 @@ XIX. Expedir las leyes que normen las relaciones de trabajo de los poderes estat
 
 Los organismos descentralizados, empresas públicas y fideicomisos de las administraciones públicas estatal y municipales, tendrán el mismo régimen jurídico laboral señalado en el párrafo anterior;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-XX. Establecer los sistemas de control para lograr el correcto ejercicio de atribuciones y funciones de la Administración Pública en el Estado, determinando las responsabilidades de sus servidores y empleados, y señalar las sanciones, así como expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de la información financiera, patrimonial y de los ingresos y egresos, para el Estado y los municipios, a fin de garantizar su armonización con la Federación;
+XX. Expedir la Ley en materia de contabilidad gubernamental que regirá la contabilidad pública y la presentación homogénea de la información financiera, patrimonial y de los ingresos y egresos del Estado y los municipios, para garantizar su armonización con la Federación; facilitar su fiscalización y contribuir a medir la eficiencia, eficacia y economía del ingreso y gasto públicos.
+
+Establecer los sistemas de control para lograr el correcto ejercicio de atribuciones y funciones de la Administración Pública en el Estado, determinando las responsabilidades de sus servidores públicos y señalar las sanciones;
 
 XXI. Expedir las bases sobre las cuales se reglamenten las adquisiciones, arrendamientos y enajenaciones del patrimonio de la Administración Pública, y para el otorgamiento de contratos de obra pública y la adquisición de bienes y servicios;
 
@@ -1305,9 +1307,9 @@ El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecu
 
 La Entidad de Fiscalización Superior del Estado tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paraestatales y paramunicipales, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos, establecidos conforme a las bases señaladas en el artículo 160 de esta Constitución, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
+I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paramunicipales y paraestatales, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos, establecidos conforme a las bases señaladas en el artículo 160 de esta Constitución, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1317,9 +1319,9 @@ Sin perjuicio de los informes a que se refiere el párrafo anterior, en situacio
 
 También, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Entidad de Fiscalización Superior del Estado rendirá un informe específico a la Legislatura y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura, dentro de los cinco meses posteriores a su presentación. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión y el apartado correspondiente a la fiscalización del manejo de los recursos y la verificación del desempeño en el cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, que incluya las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado. Este informe del resultado será sometido a la consideración del pleno de la Legislatura y tendrá carácter público.
+II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura, dentro de los cinco meses posteriores a su presentación. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión y el apartado correspondiente a la fiscalización del manejo de los recursos y la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como un apartado específico con las observaciones de la Entidad de Fiscalización Superior que incluya las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado. Este informe del resultado será sometido a la consideración del pleno de la Legislatura y tendrá carácter público.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1343,6 +1345,10 @@ La Entidad de Fiscalización Superior del Estado, deberá entregar a la Legislat
 
 La entidad de Fiscalización Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Los estados y demás información presupuestaria, programática y contable que forman parte de la Cuenta Pública a que se refiere esta fracción, deberán elaborarse y presentarse con apego a la normatividad y técnicas establecidas en la legislación en materia de contabilidad gubernamental.
+
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
 
 IV. Determinar los daños y perjuicios que afecten a la Hacienda Pública del Estado o Municipios o al patrimonio de los entes públicos paraestatales y paramunicipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
@@ -1353,11 +1359,27 @@ V. También fiscalizará los recursos que se destinen y se ejerzan por cualquier
 
 Las entidades fiscalizadas a que se refiere el párrafo anterior, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley.
 
-La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad, y
+La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad, y (sic)
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2009)</small>
 
 VI. Las sanciones y demás resoluciones de la Entidad de Fiscalización Superior del Estado, podrán ser impugnadas por los entes fiscalizados y, en su caso, por los servidores públicos afectados ante la propia Entidad de Fiscalización o ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+VII. Verificar el cumplimiento de los criterios generales que rigen la contabilidad gubernamental y la presentación homogénea de información financiera, patrimonial y de los ingresos y egresos de los entes públicos estatales y municipales.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+VIII. Vigilar la calidad de la información que proporcionen los entes públicos estatales y municipales, respecto al ejercicio y destino de los recursos públicos.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+IX. Emitir los lineamientos y procedimientos técnicos conducentes al ejercicio de sus atribuciones, que deberán observar los entes públicos estatales y municipales, y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+X. Presentar a la Legislatura el Proyecto Anual de Fiscalización.
 
 ### CAPÍTULO TERCERO. DEL PODER JUDICIAL
 
@@ -3158,3 +3180,11 @@ DECRETO No. 695, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 Y SE 
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 5 DE OCTUBRE DE 2013.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo tercero.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, deberá reformarse la Ley de Fiscalización Superior del Estado y otros ordenamientos en materia.
