@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interno-para-uso-y-administracion-del-gimnasio-4606"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-01-07"
-last_updated: "1995-01-07"
+last_updated: "2013-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERNO PARA USO Y ADMINISTRACION DEL GIMNASIO-AUDITORIO JOSE "PISTOLAS" MENESES EN EL MUNICIPIO DE CHIHUAHUA, CHIHUAHUA
 
-REGLAMENTO INTERNO PARA USO Y ADMINISTRACION DEL GIMNASIO-AUDITORIO JOSE "PISTOLAS" MENESES
+REGLAMENTO INTERNO PARA USO Y ADMINISTRACIÓN DEL GIMNASIO-AUDITORIO JOSÉ "PISTOLAS" MENESES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO 078 DEL H. AYUNTAMIENTO DE CHIHUAHUA, CHIHUAHUA PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial No. 2 del Estado de Chihuahua, el sábado 7 de enero de 1995.
 
@@ -41,7 +43,7 @@ a).- Fomentar la práctica deportiva, como medio para mejorar las condiciones de
 
 b).- Elevar el índice cultural en la población, mediante la presentación de espectáculos artísticos representativos de la cultura nacional y su introducción en la práctica y desarrollo de actividades artísticas.
 
-c) Propiciar un lugar adecuado para la realización de actividades sociales.
+c).- Propiciar un lugar adecuado para la realización de actividades sociales.
 
 ###### ARTÍCULO 2°.
 
@@ -139,7 +141,7 @@ En eventos o actividades deportivas, es obligatorio el uso de ropa deportiva. En
 
 ###### ARTÍCULO 15.
 
-Las escuelas y colegios que soliciten el gimnasio-auditorio para inaguraciones y torneos, así como para actos culturales o sociales, tienen la obligación de que esté presente un grupo de maestros para que controlen el orden de los asistentes. Igualmente contribuirán a la limpieza del local.
+Las escuelas y colegios que soliciten el gimnasio-auditorio para inaguraciones (sic) y torneos, así como para actos culturales o sociales, tienen la obligación de que esté presente un grupo de maestros para que controlen el orden de los asistentes. Igualmente contribuirán a la limpieza del local.
 
 ###### ARTÍCULO 16.
 
@@ -236,3 +238,13 @@ SECRETARIO DEL AYUNTAMIENTO
 LIC. RAMIRO ALVÍDREZ DÍAZ
 
 REGIDOR DE GOBERNACIÓN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 5 DE OCTUBRE DE 2013.
+
+...
+
+###### ARTÍCULO SEGUNDO
+
+Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
