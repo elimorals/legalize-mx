@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-91738"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2013-06-13"
+last_updated: "2013-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DEL ORGANISMO OPERADOR INTERMUNICIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSÍ Y SOLEDAD DE GRACIANO SÁNCHEZ, S.L.P.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 29 de diciembre de 2012.
 
@@ -567,21 +567,35 @@ SEGUNDO. Las cuotas y tarifas que se establecen en este Decreto, deberán ser pu
 
 TERCERO. Durante el ejercicio fiscal 2013 los usuarios que acudan a regularizar sus adeudos, oficiosamente gozarán de los beneficios de, caducidad, y prescripción a que se refieren los artículos, 37 y 38, del Código Fiscal del Estado de San Luis Potosí.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-CUARTO. Los adeudos que no estén sujetos a los beneficios a que se refiere el Transitorio Tercero de este Decreto, podrán ser convenidos en pagos diferidos hasta por doce meses; en dicho convenio puede otorgarse un ajuste de disminución del 30% en el mes de agosto; 20% en el mes de septiembre; y 10% en el mes de octubre, por lo que el organismo previamente se cerciorará que el cálculo del adeudo no derive de errores en la facturación por:
+CUARTO. Los adeudos que no estén sujetos a los beneficios a que se refiere el Transitorio Tercero de este Decreto, podrán ser convenidos en pagos diferidos hasta por doce meses; en dicho convenio puede otorgarse un ajuste de disminución del 30% en el mes de agosto; 20% en los meses de septiembre y octubre; y 10% en el mes de noviembre, por lo que el organismo previamente se cerciorará que el cálculo del adeudo no derive de errores en la facturación por:
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
 
 a) Lectura errónea.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
+
 b) Falla del medidor.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
 
 c) Predio sin toma.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
+
 d) Tarifa mal aplicada y cargos improcedentes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
 
 e) Incremento de consumo de un bimestre a otro sin explicación lógica.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
+
 f) Inconsistencias en toma de lecturas que presentan de manera incongruente altos consumos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2013)</small>
 
 De encontrar errores en la facturación, previa la celebración del convenio, el organismo deberá efectuar el ajuste a la facturación.
 
@@ -614,5 +628,13 @@ P.O. 13 DE JUNIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los ajustes de disminución que se establecen en este Decreto, deberán ser publicados en los medios locales de información del municipio de San Luis Potosí, y a la vista de las personas usuarias en las oficinas del organismo operador.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los ajustes de disminuciones que se establecen en este Decreto, deberán ser publicados en los medios locales de información del municipio de San Luis Potosí; y a la vista de las personas usuarias en las oficinas del organismo operador.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
