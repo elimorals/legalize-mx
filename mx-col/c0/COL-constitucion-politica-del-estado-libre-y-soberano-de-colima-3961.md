@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2013-08-03"
+last_updated: "2013-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1195,9 +1195,7 @@ La ley orgánica determinará la forma de integración, su estructura y funciona
 
 (REUBICADO Y REFORMADA SU NUMERACIÓN, P.O. 26 DE MARZO DE 1994)
 
-### CAPITULO UNICO.
-
-De los Partidos Políticos y Organismos Electorales.
+### CAPITULO UNICO.. De los Partidos Políticos, Candidatos Independientes y Organismos Electorales
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
@@ -1221,15 +1219,21 @@ Los partidos políticos garantizarán la inclusión de jóvenes en las candidatu
 
 Los partidos podrán formar coaliciones y postular candidaturas comunes para las elecciones de Gobernador, Ayuntamientos y diputados por el principio de mayoría relativa en los términos que disponga la ley.
 
-Los partidos políticos tienen derecho al uso permanente de los medios de comunicación social, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes de la materia.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
 
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+Los partidos políticos tienen derecho al uso permanente de los medios de comunicación social, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes de la materia. Los candidatos independientes gozarán de este derecho sólo durante el proceso electoral.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el territorio del Estado de este tipo de mensajes contratados en otras entidades federativas o en el extranjero.
 
 La libertad de expresión y el derecho a la información en el contexto del debate político, serán invariablemente garantizados por las autoridades electorales.
 
-En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a las personas.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+En la propaganda política o electoral que difundan los partidos políticos, sus candidatos y los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos políticos o a las personas.
 
 Cuando a juicio de la autoridad electoral local el tiempo en radio y televisión que le fue otorgado, fuese insuficiente para sus fines, hará la solicitud a la autoridad administrativa electoral federal, quien determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia le confieren.
 
@@ -1250,6 +1254,16 @@ c) El financiamiento público por actividades específicas, relativas a la educa
 d) La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones pecuniarias de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al 10% del tope de gastos establecido para la última campaña a gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 e) De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+II Bis.- Los ciudadanos colimenses podrán contender en los procesos electorales para todos los cargos de elección popular, de manera independiente de los partidos políticos, siempre que satisfagan los requisitos, condiciones y términos que establezca la ley.
+
+Los ciudadanos que participen como candidatos independientes tendrán derecho a recibir financiamiento público y privado, en la forma y términos que establezca la ley.
+
+La ley establecerá las reglas y límites a que se sujetará el financiamiento de las actividades de los ciudadanos que obtengan su registro como candidatos independientes dentro de un proceso electoral, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado; asimismo, regulará los procedimientos para el control y vigilancia de todos los recursos con los que cuenten, incluyendo los recursos privados que se hubiesen utilizado para financiar las actividades tendientes a obtener dicho registro.
+
+Los candidatos independientes registrados, en ningún caso, podrán participar en la asignación de diputados por el principio de representación proporcional.
 
 III. La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público de carácter permanente denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
@@ -1319,7 +1333,7 @@ Las conductas delictuosas, las faltas en materia electoral, así como todo acto 
 
 ## TITULO VI.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2013)</small>
 
 ### CAPITULO UNICO.
 
@@ -1500,6 +1514,10 @@ V.- La determinación del número de regidores será de conformidad con el últi
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
 VI.- Todo partido político o coalición que alcance por lo menos el 2% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido o coalición que haya obtenido el triunfo por mayoría relativa.
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+
+VI.- Todo partido político, coalición o planilla de candidatos independientes, que alcance por lo menos el 2% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido, coalición o planilla de candidatos independientes, que haya obtenido el triunfo por mayoría relativa.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3036,6 +3054,12 @@ P.O. 26 DE JUNIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 3 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE OCTUBRE DE 2013.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 167 SE APRUEBA REFORMAR LA NOMENCLATURA DEL CAPÍTULO ÚNICO, DEL TÍTULO VI, PARA DENOMINARSE "DE LOS PARTIDOS POLÍTICOS, CANDIDATOS INDEPENDIENTES Y ORGANISMOS ELECTORALES", LOS PÁRRAFOS DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO CUARTO DE LA FRACCIÓN I, DEL ARTÍCULO 86 BIS Y LA FRACCIÓN VI DEL ARTÍCULO 89, ASÍ COMO ADICIONAR LA FRACCIÓN II BIS AL ARTÍCULO 86 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
