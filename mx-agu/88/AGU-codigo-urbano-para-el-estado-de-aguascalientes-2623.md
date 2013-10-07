@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2011-02-14"
+last_updated: "2013-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
+CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2013 (ABROGADO).
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -8903,210 +8905,36 @@ P.O. 14 DE FEBRERO DE 2011.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-###### ARTICULO PRIMERO
+P.O. DE 7 DE OCTUBRE DE 2013.
 
-Este Decreto entrará en vigor el día 1o. de enero de 1983.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en los Artículos siguientes.
 
-Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+###### ARTÍCULO SEGUNDO.
 
-P.O. 30 DE DICIEMBRE DE 1983.
+Se abroga el Código Urbano para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado en fecha 29 de mayo de 1994, incluyendo todas sus modificaciones.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-Durante el año de 1998, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 50 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+Las disposiciones reglamentarias derivadas del presente Código, deberán expedirse dentro de los siguientes 120 días siguientes a la entrada en vigor del presente Decreto, incluyendo la normatividad municipal en el ámbito del desarrollo urbano, ordenamiento territorial y vivienda, conforme a lo dispuesto en el Artículo 28 de este Código.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO CUARTO.
 
-Durante 1999 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+A la entrada en vigencia del presente Decreto, las concesiones que anteriormente hayan sido otorgadas por el Gobierno del Estado de Aguascalientes, en materia de infraestructura carretera, deberán sujetarse a las disposiciones de este Código, respetando los derechos adquiridos por los concesionarios.
 
-P.O. 31 DE DICIEMBRE DE 1999.
+###### ARTÍCULO QUINTO.
 
-Artículo Primero.- El presente Decreto entrará en vigor el 1o. de Enero del año 2000.
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas del presente Código, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de este Código.
 
-Artículo Segundo.- Durante el año 2000 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+###### ARTÍCULO SEXTO.
 
-P.O. 29 DE DICIEMBRE DE 2000.
+Todos los asuntos que se encuentren en trámite al inicio de la vigencia del presente Código, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
 
-Artículo Primero.- El presente Decreto entrará en vigor el 1o. de enero del año 2001.
+###### ARTÍCULO SÉPTIMO.
 
-Artículo Segundo.- Durante el año 2001 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+Dentro de los 120 días posteriores al de la publicación del presente Decreto, se deberá expedir la Ley que crea la Procuraduría Estatal de Impacto Ambiental, Urbano y Social contemplada en el presente Código.
 
-Artículo Tercero.- En caso de que durante el año 2001, se autoricen libros de protocolo, a los que hacen referencia los artículos 272 fracción I y 272 bis, fracción I, de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre del 2000, los derechos se causarán y pagarán conforme a los citados artículos.
+###### ARTÍCULO OCTAVO.
 
-Artículo Cuarto.- Durante el año 2001, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 60 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
-
-P.O. 26 DE DICIEMBRE DE 2001.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero de 2002.
-
-Artículo Segundo.- Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco y franja color arena con caracteres en color verde, con emblema de la Entidad (Cerro de la Silla) en la parte superior izquierda, escudo del Estado centrado en la parte inferior para el servicio privado y fondo blanco con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, tendrán una vigencia hasta el último día del mes de agosto del 2002, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia, de acuerdo a lo establecido por la Norma Oficial Mexicana NOM-001-SCT-2-2000 publicada en fecha 26 de Enero del 2001 en el Diario Oficial de la Federación.
-
-P.O. 27 DE DICIEMBRE DE 2002.
-
-Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
-
-P.O. 26 DE DICIEMBRE DE 2003.
-
-Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
-
-P.O. 26 DE DICIEMBRE DE 2003.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-Artículo Primero.- Esta Ley entrará en vigor el 1° de enero del año 2004.
-
-Artículo Cuarto.- Durante el año 2004, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Público, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
-
-Artículo Quinto.- Si se da por terminada la Coordinación en Materia Federal de Derechos, entre la Federación y el Estado de Nuevo León a que se refiere el transitorio que antecede, entrando en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de la citada Coordinación, los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
-
-P.O. 17 DE FEBRERO DE 2004.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Las erogaciones a que se refiere esta reforma, que se hubieren efectuado entre el 1º de enero de 2004 y la fecha de entrada en vigor de esta reforma, quedarán sujetas a lo dispuesto por el presente Decreto.
-
-P.O. 3 DE SEPTIEMBRE DE 2004.
-
-SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE DICIEMBRE DE 2005.
-
-Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
-
-P.O. 25 DE ENERO DE 2006.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Las autoridades contarán con un plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto, para publicar en internet los correos electrónicos oficiales que destinarán para efecto de recibir las solicitudes de información a que se refiere al Artículo 13 de la Ley de Acceso a la Información Pública, reformado a través del presente Decreto.
-
-P.O. 13 DE ENERO DE 2007.
-
-DECRETO No. 58
-
-Artículo Primero.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Durante el año 2007, y mientras permanezca en vigor la Adhesión del Estado de Nuevo León al Sistema Nacional de Coordinación Fiscal a que se contrae el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado y suscrito por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público en la ciudad de Mazatlán, Sinaloa, el 19 de octubre de 1979, se suspende la vigencia de los impuestos sobre ingresos mercantiles, sobre expendio de bebidas alcohólicas, sobre compraventa o permuta de ganado, sobre venta de gasolina y demás derivados del petróleo y sobre ganado y aves que se sacrifiquen.
-
-Artículo Tercero.- Si se da por terminado el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal mencionado en el transitorio que antecede, entrarán en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de dicho Convenio, los impuestos sobre ingresos mercantiles, sobre expendio de bebidas alcohólicas, sobre compraventa o permuta de ganado, sobre venta de gasolina y demás derivados del petróleo y sobre ganado y aves que se sacrifiquen.
-
-Artículo Cuarto.- Durante el año 2007, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Público, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado. Y volverán a entrar en vigor al día siguiente al en que surta sus efectos la terminación de la citada Coordinación.
-
-P.O. 13 DE ENERO DE 2007.
-
-DECRETO No. 59
-
-Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 10 DE OCTUBRE DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor a partir del día 01 de enero del 2008.
-
-P.O. 19 DE DICIEMBRE DE 2008.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 28 DE DICIEMBRE DE 2009.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE DICIEMBRE DE 2010.
-
-Único.- El presente Decreto entrará en vigor a partir del día 1º de enero del 2011.
-
-P.O. 18 DE MAYO DE 2011.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- Se abroga la Ley Estatal de Prevención y Combate al Abuso del Alcohol, publicada en el Periódico Oficial del Estado de fecha 10 de septiembre de 2003.
-
-Tercero.- El Comité de Evaluación de Trámites y Licencias deberá instalarse a más tardar a los 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
-
-Cuarto.- Los municipios deberán remitir a la Secretaría de Finanzas y Tesorería General del Estado, la información relativa al padrón de licencias o permisos para la venta de bebidas alcohólicas dentro de los siguientes treinta días naturales contados a partir de la entrada en vigor del presente Decreto, que incluya cuando menos el nombre del titular, giro o giros autorizados, domicilio del establecimiento y adeudos de refrendo en su caso, indicando el monto por cada año.
-
-En aquellos casos en que la Tesorería advierta que la información de integración derivada de los padrones municipales, no corresponda con las personas que se encuentren explotando en virtud de un título legal la licencia correspondiente, procederá la regularización y actualización en el padrón único al que se refiere el presente Decreto, solamente en lo que se refiere al cambio de titular, en el periodo señalado en el siguiente artículo transitorio.
-
-Quinto.- Las personas que sean titulares de licencias o permisos municipales deberán obtener la licencia estatal que corresponda a su giro dentro de los 90 días naturales contados a partir de la entrada en vigor del presente Decreto, pudiendo prorrogarse dicho período por determinación del Secretario de Finanzas y Tesorero General del Estado. Pasada esta fecha, de no haber iniciado en tiempo y forma el trámite para la realización del canje, deberá solicitar nuevamente una licencia o permiso especial en los términos de la presente Ley.
-
-Al realizar el trámite señalado en el párrafo anterior, los titulares de las licencias o permisos deberán acreditar estar al corriente en el pago de los derechos por refrendo que correspondan, así como en el resto de las obligaciones fiscales que la autoridad requiera, con base a las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
-
-De acreditar el pago de los derechos por refrendo a que se refiere el párrafo anterior, se expedirá la licencia correspondiente al Titular de la misma. En caso que existan adeudos en el pago de derechos por refrendo, la expedición de la licencia, sólo será procedente, cuando se haya cubierto la totalidad del crédito correspondiente.
-
-Sexto.- Las solicitudes de licencia o permiso especial que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones del mismo. En este caso, el pago de derechos que el solicitante hubiera hecho en el municipio para la tramitación de la licencia o el permiso especial, se acreditará al pago correspondiente a la anuencia municipal.
-
-Séptimo.- El Ejecutivo del Estado expedirá el Reglamento de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, dentro de un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-Octavo.- Los Ayuntamientos de los Municipios del Estado deberán expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los doscientos setenta días siguientes a la entrada del (sic) vigor del mismo.
-
-P.O. 26 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 282, POR EL QUE SE REFORMA LA LEY DE HACIENDA DEL ESTADO EN SU ARTÍCULO 159 BIS, PUNTO 3; ASÍ COMO EL ARTÍCULO OCTAVO TRANSITORIO.
-
-Artículo Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2012.
-
-P.O. 26 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 291, POR EL QUE SE REFORMA POR MODIFICACIÓN EL OCTAVO TRANSITORIO DEL DECRETO NÚMERO 200, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, EL 18 DE MAYO DE 2011.
-
-Único.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado de Nuevo León.
-
-P.O. 31 DE DICIEMBRE DE 2012.
-
-Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
-
-P.O. 27 DE DICIEMBRE DE 2013.
-
-Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2014.
-
-P.O. 3 DE JULIO DE 2014.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE DICIEMBRE DE 2014.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE DICIEMBRE DE 2015.
-
-Primero.- Se derogan los artículos del 118 al 138 de la Ley de Hacienda del Estado de Nuevo León, lo cual entrará en vigor el día 1 de enero de 2018.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-Segundo.- A fin de eliminar de manera gradual el impuesto Sobre Tenencia o Uso de Vehículos, el importe del impuesto que resulte de aplicar lo dispuesto en los artículos 118 al 138 de la Ley de Hacienda del Estado de Nuevo León, se reducirá en los subsecuentes ejercicios fiscales, en los porcentajes siguientes:
-
-Año Porcentaje de Reduccón (sic)
-
-2017 20%
-
-2018 100%
-
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
-
-Se faculta al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado para otorgar un subsidio a cargo de los ingresos estatales a las personas físicas y morales residentes del Estado que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales y que tengan uno o varios vehículos, o vehículos de carga con peso bruto vehicular menor a 3.5 toneladas, denominadas Pick Up de hasta por la cantidad del 100% del cálculo del Impuesto Sobre Tenencia o Uso de Vehículos, así como, en los derechos por servicios de control vehicular previstos en el artículo 276, fracción XIII, inciso a) de la Ley de Hacienda del Estado de Nuevo León.
-
-Tercero.- Las obligaciones derivadas de esta contribución, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
-
-Cuarto.- El Titular del Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado, deberá presentar al Congreso un informe sobre los resultados de la eliminación gradual.
-
-Quinto.- El Titular del Ejecutivo del Estado deberá incluir en su iniciativa de Ley de Egresos y en la demás normativa aplicable en materia de gasto para los ejercicios fiscales 2016 y 2017 respectivamente, la propuesta para establecer que los recursos que correspondan al Estado derivados de la recaudación del impuesto sobre la tenencia o uso de vehículos no podrán ser aplicados para servicios personales, arrendamientos, adquisiciones, servicio de comunicación y medios y para el pago del servicio de la deuda.
-
-De la misma forma deberá establecerse que, tratándose de programas para las áreas de educación y seguridad, podrán emplearse estos recursos exclusivamente en servicios personales, arrendamientos y adquisiciones.
-
-Sexto.- El Titular del Ejecutivo del Estado incluirá, en su iniciativa de Ley de Egresos para los ejercicios fiscales 2016 y 2017 respectivamente, las propuestas de subsidios necesarios, en concordancia con los beneficios que se han otorgado históricamente respecto al impuesto sobre la tenencia o uso de vehículos, para su análisis por parte del Congreso del Estado.
-
-Séptimo.- El Titular del Ejecutivo del Estado, deberá implementar esquemas que incentiven el pago de las contribuciones adeudadas de este impuesto.
-
-Octavo.- El H. Congreso del Estado, deberá aprobar las reformas complementarias a los ordenamientos legales que se estimen pertinentes, en un plazo que no exceda de 120 días hábiles posteriores a la publicación del presente Decreto.
-
-P.O. 30 DE DICIEMBRE DE 2015.
-
-###### ARTICULO QUINTO.
-
-Durante 1998 no se cubrirán los ingresos previstos en los Artículos 281 y 282 de la Ley de Hacienda del Estado.
-
-P.O. 30 DE DICIEMBRE DE 1998.
+La obligación de contratar el seguro de responsabilidad civil contra daños a terceros o su equivalente, referido en el Artículo 977 de este Código, será exigible a los 180 días naturales contados a partir de que la Secretaría de Finanzas publique en el Periódico Oficial del Estado las reglas de operación previstas en la Fracción I de dicho Artículo.
