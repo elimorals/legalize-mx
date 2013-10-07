@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2011-02-14"
+last_updated: "2013-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
+CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2013 (ABROGADO).
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -8902,3 +8904,37 @@ P.O. 14 DE FEBRERO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. DE 7 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en los Artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Urbano para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado en fecha 29 de mayo de 1994, incluyendo todas sus modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones reglamentarias derivadas del presente Código, deberán expedirse dentro de los siguientes 120 días siguientes a la entrada en vigor del presente Decreto, incluyendo la normatividad municipal en el ámbito del desarrollo urbano, ordenamiento territorial y vivienda, conforme a lo dispuesto en el Artículo 28 de este Código.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigencia del presente Decreto, las concesiones que anteriormente hayan sido otorgadas por el Gobierno del Estado de Aguascalientes, en materia de infraestructura carretera, deberán sujetarse a las disposiciones de este Código, respetando los derechos adquiridos por los concesionarios.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas del presente Código, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de este Código.
+
+###### ARTÍCULO SEXTO.
+
+Todos los asuntos que se encuentren en trámite al inicio de la vigencia del presente Código, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los 120 días posteriores al de la publicación del presente Decreto, se deberá expedir la Ley que crea la Procuraduría Estatal de Impacto Ambiental, Urbano y Social contemplada en el presente Código.
+
+###### ARTÍCULO OCTAVO.
+
+La obligación de contratar el seguro de responsabilidad civil contra daños a terceros o su equivalente, referido en el Artículo 977 de este Código, será exigible a los 180 días naturales contados a partir de que la Secretaría de Finanzas publique en el Periódico Oficial del Estado las reglas de operación previstas en la Fracción I de dicho Artículo.
