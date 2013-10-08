@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2013-09-30"
+last_updated: "2013-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1900,17 +1900,21 @@ XIX.- Para fijar las reglas a que debe sujetarse la ocupación y enajenación de
 
 XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2013)</small>
 
-XXI. Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir leyes generales en materias de secuestro, y trata de personas, que establezcan, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
+XXI.- Para expedir:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE JUNIO DE 2012)</small>
+a) Las leyes generales en materias de secuestro y trata de personas, que establezcan como mínimo, los tipos penales y sus sanciones.
 
-Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
+Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios;
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2005)</small>
+b) La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
 
-En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales.
+c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas que regirá en la República en el orden federal y en el fuero común.
+
+Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
+
+En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales;
 
 XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
@@ -6439,3 +6443,13 @@ D.O.F. 30 DE SEPTIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Quedará sin efecto toda disposición que contravenga el presente Decreto.
+
+D.O.F. 8 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación de conformidad con las disposiciones previstas en los artículos siguientes.
+
+SEGUNDO. La legislación única en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas que expida el Congreso de la Unión conforme al presente Decreto, entrará en vigor en toda la República a más tardar el día dieciocho de junio de dos mil dieciséis.
+
+La legislación vigente en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas expedida por el Congreso de la Unión, las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal continuará en vigor hasta que inicie la vigencia de la legislación que respecto de cada una de dichas materias expida el Congreso de la Unión conforme al presente Decreto.
+
+TERCERO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la legislación procedimental penal que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos.
