@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2013-08-24"
+last_updated: "2013-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO LEGISLATIVO PUBLICADO EN EL P.O. 24 DE AGOSTO DE 2013, DEJA SIN EFECTO LA FE DE ERRATAS RELATIVA AL DECRETO 22221/LVIII/08, PUBLICADA EN EL P.O. DE 24 DE MAYO DE 2012.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -217,9 +215,17 @@ XIII. La Ley de Responsabilidades de los Servidores Públicos del Estado de Jali
 
 XIV. La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios;
 
-XV. La Ley que Regula la Administración de los Documentos Públicos e Históricos del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
 
-XVI. Los programas y reglamentos de carácter estatal que incidan en el erario o patrimonio público.
+XV. La Ley que Regula la Administración de los Documentos Públicos e Históricos del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+XVI. La Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+XVII. Los programas y reglamentos de carácter estatal que incidan en el erario o patrimonio público.
 
 ###### Artículo 12.
 
@@ -247,13 +253,25 @@ X. La Ley que Regula la Administración de los Documentos Públicos e Histórico
 
 XI. Las leyes de ingresos municipales del ejercicio fiscal del que se trate;
 
-XII. Los presupuestos de egresos municipales y sus reformas posteriores, aprobados por los municipios correspondientes al ejercicio fiscal del que se trate;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
 
-XIII. Los reglamentos municipales relativos a enajenaciones, adquisiciones, obra pública, de bienes, de desincorporación y cualquier otro que de su sola vigencia, contengan disposiciones que incidan en el erario o patrimonio públicos; y
+XII. La Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios;
 
-XIV. Los programas municipales que ejecuten presupuestos.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
 
-Se entiende que los reglamentos municipales y presupuesto de egresos de los municipios, se aplican en los términos que éstos los formulen, bajo el principio de Municipio Libre.
+XIII. Los presupuestos de egresos municipales y sus reformas posteriores, aprobados por los municipios correspondientes al ejercicio fiscal del que se trate;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+XIV. Los reglamentos municipales relativos a enajenaciones, adquisiciones, obra pública, de bienes, de desincorporación y cualquier otro que de su sola vigencia, contengan disposiciones que incidan en el erario o patrimonio públicos, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+XV. Los programas municipales que ejecuten presupuestos.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+Se entiende que los reglamentos municipales y presupuesto de egresos de los municipios, se aplican en los términos que éstos los formulen, bajo el principio de municipio libre.
 
 ### Capítulo II. De las Autoridades Competentes en Materia de Auditoría Pública
 
@@ -1552,3 +1570,7 @@ P.O. 20 DE NOVIEMBRE DE 2010.
 P.O. 24 DE AGOSTO DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 8 DE OCTUBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
