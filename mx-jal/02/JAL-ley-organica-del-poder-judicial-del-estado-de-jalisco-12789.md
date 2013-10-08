@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2012-09-20"
+last_updated: "2013-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2247,7 +2247,7 @@ V. Conceder licencias a los directores, al Secretario General y a los consejeros
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-VI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos del la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral del Estado;
+VI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral del Estado;
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -3301,7 +3301,13 @@ La Jurisprudencia de las Salas será interrumpida al dictarse una sentencia en c
 
 Los magistrados del Poder Judicial tendrán derecho al haber por retiro, el cual consistirá en una prestación económica que, en una sola exhibición, será entregada al magistrado que se retire de manera forzosa o voluntaria de su cargo.
 
-El Supremo Tribunal de Justicia, el Tribunal Electoral y el Tribunal de lo Administrativo deberán establecer en sus proyectos de presupuesto de egresos los recursos necesarios para hacer frente al haber por retiro.
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+El haber por retiro no se otorgará en los casos en que el magistrado sea privado de su cargo en forma definitiva por sanción que dispongan la Constitución Política del Estado, la Ley Orgánica del Poder Judicial, la Ley de Responsabilidades de los Servidores Públicos o el Código Penal, todos del estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+El Supremo Tribunal de Justicia, el Tribunal Electoral y el Tribunal de lo Administrativo deberán establecer en sus proyectos de presupuestos de egresos los recursos necesarios para hacer frente al haber de retiro.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3309,9 +3315,13 @@ El Supremo Tribunal de Justicia, el Tribunal Electoral y el Tribunal de lo Admin
 
 El haber por retiro estará constituido por:
 
-I. El equivalente a seis meses del salario integrado que el cargo de magistrado tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
 
-II. El equivalente a doce días de salario integrado por año de servicios prestados como magistrado.
+I. El equivalente a doce meses del salario integrado que el cargo de magistrado tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+II. El equivalente a catorce días de salario integrado bajo los términos de la fracción anterior, por cada año de servicios prestados como magistrado.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3341,7 +3351,13 @@ EN CASO DE QUE EL FALLECIMIENTO HUBIERE OCURRIDO ANTES DE HABER INGRESADO LA SOL
 
 Los jueces del Poder Judicial tendrán derecho al haber por retiro, el cual consistirá en una prestación económica que en una sola exhibición será entregada al juez que se retire de manera forzosa o voluntaria de su cargo.
 
-El Consejo de la Judicatura deberá establecer en su proyecto de presupuesto de egresos los recursos necesarios para hacer frente al haber por retiro.
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+El haber por retiro no se otorgará en los casos en que el juez sea privado de su cargo en forma definitiva por sanción que dispongan la Constitución Política del Estado, la Ley Orgánica del Poder Judicial, la Ley de Responsabilidades de los Servidores Públicos o el Código Penal, todos del estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+El Consejo de la Judicatura deberá establecer en su proyecto de presupuesto de egresos los recursos necesarios para hacer frente al haber de retiro.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3349,9 +3365,13 @@ El Consejo de la Judicatura deberá establecer en su proyecto de presupuesto de 
 
 El haber por retiro estará constituido por:
 
-I. El equivalente a seis meses del salario integrado que el cargo de juez tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
 
-II. El equivalente a doce días por año de servicios prestados como juez.
+I. El equivalente a doce meses del salario integrado que el cargo de juez tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+II. El equivalente a catorce días de salario integrado, bajo los términos de la fracción anterior, por cada año de servicios prestados como juez.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3365,15 +3385,13 @@ El Consejo de la Judicatura, a solicitud por escrito del interesado, procederá 
 
 Determinada la cuantía del haber por retiro se procederá a su liquidación, para lo cual el Consejo de la Judicatura deberá notificar al interesado el acuerdo en que se determine la cuantía del haber por retiro, señalando con precisión los trámites que deban cubrirse para obtener el pago de este emolumento.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 250.
 
 Si una vez ingresada la solicitud de haber por retiro, falleciere el juez, esta prestación se deberá otorgar a sus beneficiarios, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
-(NOTA: EL 25 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 26/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-EN CASO DE QUE EL FALLECIMIENTO HUBIERE OCURRIDO ANTES DE HABER INGRESADO LA SOLICITUD, LOS BENEFICIARIOS DEL JUEZ NO TENDRÁN DERECHO DE RECLAMAR DICHA PRESTACIÓN.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE OCTUBRE DE 2013)</small>
 
 ## TRANSITORIOS
 
@@ -3630,3 +3648,11 @@ TERCERO. El Tribunal Electoral del Poder Judicial del Estado de Jalisco, deberá
 CUARTO. En tanto se hagan las adecuaciones presupuestales necesarias, para el funcionamiento del Instituto "Prisciliano Sánchez", se podrán cubrir las vacantes de las jefaturas de departamento y oficina creadas a partir de la presente reforma, con el personal que integra la actual plantilla del Tribunal Electoral del Estado de Jalisco, seleccionados por los magistrados.
 
 QUINTO. Las disposiciones contenidas en los artículos 75, 79, 85, 86 y 88 de la Ley Orgánica del Poder Judicial del Estado de Jalisco, relativas a los magistrados suplentes de los tribunales Electoral y Administrativo, no afectarán derechos adquiridos previamente.
+
+P.O. 8 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En caso de presentarse solicitudes de haber por retiro durante el presente ejercicio fiscal sin que se haya fijado la partida correspondiente en el presupuesto anual, el Consejo de la Judicatura o los Presidentes de Tribunales, deberán realizar los trámites correspondientes ante la Secretaría de Planeación, Administración y Finanzas para pagar los haberes que por retiro se adeuden y correspondan, para lo cual se autoriza a ésta a realizar todas las acciones necesarias para el cumplimiento del presente decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
