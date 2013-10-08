@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2013-08-03"
+last_updated: "2013-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2573,9 +2573,17 @@ II. El modo de subvenir a las necesidades de los hijos y, en su caso, las del al
 
 III. La casa que servirá de habitación a los cónyuges durante el procedimiento;
 
-IV. La cantidad que a título de alimentos, un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia; la forma de hacer el pago y la garantía que debe darse para asegurarlo, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
 
-V. La manera de administrar los bienes de la sociedad conyugal o legal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y el proyecto de partición de todos los bienes de la sociedad.
+IV. La cantidad que a título de alimentos, un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia; la forma de hacer el pago y la garantía que debe darse para asegurarlo, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+V. La manera de administrar los bienes de la sociedad conyugal o legal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y el proyecto de partición de todos los bienes de la sociedad, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+VI. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, la cual no podrá ser superior al cuarenta por ciento del valor de los bienes que hubieren adquirido durante el matrimonio, considerando las reglas establecidas en este código respecto de los bienes propios y los comunes. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
 
 ###### Art. 407.
 
@@ -2656,6 +2664,14 @@ Antes de que se provea definitivamente sobre la patria potestad o tutela de los 
 ###### Art. 417.
 
 El cónyuge que diere causa al divorcio, perderá todo lo que se le hubiese dado o prometido por su consorte o por otra persona en consideración a éste, recuperando el donante los bienes donados; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
+###### Art. 417
+
+Bis. Si el matrimonio hubiese estado bajo el régimen de separación de bienes y uno de los cónyuges se hubiere dedicado preponderantemente a las labores no remuneradas del hogar y, en su caso, al cuidado de los hijos, durante el tiempo que haya durado el matrimonio, o que la mayor parte de sus ingresos los hubiese invertido en el mantenimiento del hogar y la familia y por esto no adquirió bienes, tendrá derecho a una compensación por parte de su cónyuge, que no podrá ser superior al cuarenta por ciento del valor de los bienes que ambos cónyuges juntos o por separado, hubieren adquirido durante el matrimonio, considerando las reglas establecidas en este código respecto de los bienes propios y los comunes. En este caso, el Juez determinará el monto que corresponda en base a la relación de bienes declarada por cada cónyuge y al avalúo pericial de los mismos. Para el cálculo de la compensación el Juez deberá considerar la situación socioeconómica que el matrimonio hubiere tenido y su evolución, así como de manera genérica la clase y cantidad de trabajo del hogar realizado.
+
+En el caso del párrafo anterior y una vez llevada a cabo la liquidación, los cónyuges no tendrán derecho a exigirse alimentos. En el caso de existir deudores alimentarios, ambos cónyuges contribuirán equitativamente al pago de alimentos.
 
 ###### Art. 418.
 
@@ -18190,3 +18206,9 @@ P.O. 27 DE JULIO DE 2013.
 P.O. 3 DE AGOSTO DE 2013
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los derechos y obligaciones derivados de hechos y actos jurídicos generados con la vigencia de las disposiciones reformadas, se regirán por las mismas.
