@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-11-2011-del-pleno-de-la-suprema-83144"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-10-06"
-last_updated: "2011-10-06"
+last_updated: "2013-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83144&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-10-04"
 ---
 # ACUERDO GENERAL NUMERO 11/2011 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD]
 
-ACUERDO GENERAL NUMERO 11/2011, DE CUATRO DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD
+ACUERDO GENERAL NUMERO 11/2011, DE CUATRO DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 15/2013, DE VEINTITRÉS DE SEPTIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD, PUBLICADO EN EL D.O.F. DE 8 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 6 de octubre de 2011.
 
@@ -84,3 +86,15 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 11/2011, DE CUATRO DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL PROCEDIMIENTO PARA LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos con salvedades respecto del Considerando Quinto, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo con salvedades respecto del Punto Tercero, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Guillermo I. Ortiz Mayagoitia y Presidente Juan N. Silva Meza.- México, Distrito Federal, a cuatro de octubre de dos mil once.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de nueve fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 11/2011, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a cuatro de octubre de dos mil once.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE OCTUBRE DE 2013.
+
+PRIMERO. Este instrumento normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General número 11/2011, de cuatro de octubre de dos mil once, del Pleno de la Suprema Corte de Justicia de la Nación, relativo al procedimiento para la declaratoria general de inconstitucionalidad, publicado en el Diario Oficial de la Federación el seis de octubre de dos mil once.
+
+TERCERO. Los procedimientos de declaratoria general de inconstitucionalidad iniciados hasta el día de la publicación del presente Acuerdo General en el Diario Oficial de la Federación deberán regirse por las reglas previstas en éste a partir de su entrada en vigor.
+
+CUARTO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
