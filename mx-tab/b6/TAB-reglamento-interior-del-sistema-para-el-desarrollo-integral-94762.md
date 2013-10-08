@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-sistema-para-el-desarrollo-integral-947
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-01"
-last_updated: "2013-06-01"
+last_updated: "2013-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento D del Periódico Oficial del Estado de Tabasco, el sábado 1 de junio de 2013.
 
@@ -1360,3 +1362,17 @@ SECRETARIO DE SALUD
 PSIC. ALICIA MANZANILLA FOJACO
 
 DIRECTORA GENERAL DE (SIC) SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el reglamento Interior del Sistema para el Desarrollo Integral de la Familia "DIF", publicado en Periódico Oficial del Estado de Tabasco número 7381 Suplemento "D", de fecha primero de Junio de 2013.
+
+TERCERO. Para el mejor funcionamiento del DIF se deberán formular los respectivos Manuales de Organización y de Procedimientos.
+
+CUARTO. En tanto se expiden los Manuales de Organización y de Procedimientos respectivos, el Coordinador General, queda facultado para resolver lo conducente en caso de duda sobre la interpretación del presente Reglamento.
+
+QUINTO. Los asuntos pendientes a la entrada en vigor de esta (sic) Reglamento, que conforme al mismo deban de pasar a (sic) un área administrativa a otra, continuaran su trámite y serán resueltos por aquellas a las que se le haya atribuido la competencia correspondiente.
