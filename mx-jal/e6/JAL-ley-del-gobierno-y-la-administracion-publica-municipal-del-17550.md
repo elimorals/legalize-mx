@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2013-07-25"
+last_updated: "2013-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -419,9 +419,11 @@ Cuando se esté en el desempeño de comisión de representación del Estado, de 
 
 El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal, dentro de los términos y conforme al procedimiento que dispone esta ley, así como al titular del órgano de control interno, cuando esto sea contemplado por los reglamentos municipales respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 16.
 
-El Ayuntamiento saliente debe hacer entrega al nuevo, mediante comisiones formadas para tal efecto, de los bienes, derechos y obligaciones que integran el patrimonio municipal, en acto que se debe efectuar al día siguiente de la instalación del nuevo Ayuntamiento.
+El ayuntamiento saliente debe hacer entrega al nuevo, mediante comisiones formadas para tal efecto, de los bienes, derechos y obligaciones que integran el patrimonio municipal, en términos de esta legislación y la Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
@@ -1077,7 +1079,7 @@ VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leye
 
 ### CAPITULO III. Del Síndico
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 22570/LVIII/08 PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 22570/LVIII/08 PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 49.
 
@@ -2884,5 +2886,9 @@ DECRETO No. 24431/LX/13 POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII, Y SE ADI
 P.O. 25 DE JULIO DE 2013.
 
 DECRETO No. 24433/LX/13 POR EL QUE SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 38 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE OCTUBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
