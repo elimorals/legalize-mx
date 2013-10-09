@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-alternativa-en-materia-penal-para-el-estado-625
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2008-12-12"
+last_updated: "2013-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ALTERNATIVA EN MATERIA PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -167,11 +167,15 @@ El Director General del Centro será designado por el Procurador General de Just
 
 Para ser Director General se requiere:
 
-I. Poseer grado de Licenciatura o equivalente con cédula profesional con registro federal y estatal;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+I. Ser licenciado en derecho, con cédula profesional expedida y registrada por autoridad competente;
 
 II. Tener a la fecha de su nombramiento 30 años de edad;
 
-III. Acreditar capacitación relacionada con la función Sustantiva del Centro;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+III. Acreditar al momento de su nombramiento, por lo menos, cinco años de ejercicio profesional, como licenciado en derecho;
 
 IV. No haber sido sentenciado ejecutoriamente como responsable por delito doloso, y
 
@@ -233,7 +237,7 @@ XVII. Las demás que conforme a las disposiciones de esta ley y su reglamento le
 
 Para ser Director de Zona de Acuerdos Reparatorios o Subdirector se deben de cumplir los mismos requisitos que se exigen para Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
@@ -265,7 +269,7 @@ VII. Proporcionar al Centro datos para el Control de registro de especialistas, 
 
 VIII. Las demás que conforme a las disposiciones de esta ley y su reglamento interno le corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
@@ -293,7 +297,7 @@ Los servicios de medios alternativos de solución de conflictos contemplados por
 
 Los Especialistas del Centro, que presten los servicios de medios alternativos de solución de conflictos para el ejercicio de sus funciones deberán contar con la acreditación expedida por el Centro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 17.
 
@@ -313,7 +317,7 @@ V. Aprobar las evaluaciones en los términos y condiciones que establece esta Le
 
 VI. Contar con título profesional, cuando el prestador no sea licenciado en Derecho, deberá asesorarse por un Licenciado en Derecho, en la implementación de los acuerdos reparatorios que deben suscribirse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
@@ -431,7 +435,7 @@ El Orientador ciudadano encargado del caso, procederá de inmediato a elaborar l
 
 La primera sesión se programará dentro de un plazo que no excederá de tres días hábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 30.
 
@@ -615,7 +619,7 @@ Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los dieciocho días del mes de agosto de dos mil ocho.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE DICIEMBRE DE 2008.
 
@@ -624,3 +628,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones de igual o menor rango, que se opongan o sean contrarias al contenido del presente Decreto.
 
 TERCERO.- Remítase al Ejecutivo del Estado para su correspondiente publicación.
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
