@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2013-10-02"
+last_updated: "2013-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY DE SALUD DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -113,7 +111,9 @@ XIX.- El desarrollo de programas de promoción, protección y atención de la sa
 
 XX.- La atención a la salud en situaciones de desastres;
 
-XXI.- La atención a la salud del adulto y del adulto mayor preferentemente dirigida a la detección y control de enfermedades crónico-degenerativas;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXI.- La atención a la salud del adulto y del adulto mayor preferentemente dirigida a la detección y control de enfermedades crónico-degenerativas; así como el tratamiento integral del dolor a los enfermos terminales, garantizándoles una atención de calidad a través de cuidados paliativos;
 
 XXII.- Con la participación de los organismos y dependencias paraestatales, establecer acuerdos, convenios y coordinaciones a fin de promover el acceso universal a los servicios médicos;
 
@@ -565,7 +565,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimientos crónico-degenerativos o en etapa terminal;
 
 IV.- La atención a la salud del niño;
 
@@ -1231,7 +1233,9 @@ IV.- Salud ocupacional; y
 
 V.- Fomento Sanitario.
 
-### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPÍTULO III BIS. COMISIÓN INTERINSTITUCIONAL DE PREVENCIÓN CONTRA LA DIABETES
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 110.
 
@@ -1255,7 +1259,7 @@ Las autoridades sanitarias estatales en coordinación con las autoridades munici
 
 Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las normas oficiales mexicanas tendientes a la protección de la salud, en materia de prevención, tratamiento y control de la diabetes mellitus.
 
-### CAPÍTULO V. SALUD OCUPACIONAL
+### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### Artículo 112.
 
@@ -1287,9 +1291,85 @@ VI.- Recomendar dietas y procedimientos que conduzcan al consumo efectivo de los
 
 VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos y efectuar la valoración a que se refiere el artículo que antecede.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO V. SALUD OCUPACIONAL
+
+###### Artículo 115 Bis.
+
+El Gobierno del Estado coadyuvará, a través de los Servicios Salud (sic) de Morelos, con las Entidades Públicas Estatales y Federales responsables de brindar servicios de salud, para establecer medidas tendientes a controlar el sobrepeso y la obesidad, con el objeto de prevenir la Diabetes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 115 Ter.
+
+Se establece la Comisión Interinstitucional de Prevención contra la Diabetes, que tendrá por objeto coordinar, difundir, orientar y ejecutar acciones para prevenir la diabetes, lo que podrá desarrollarse en coordinación con otras dependencias o entidades de la Administración Pública Estatal o Federal, así como con el sector privado y social.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 115 Quater.
+
+La Comisión Interinstitucional de Prevención contra la Diabetes se integrará por:
+
+I. La persona titular de la Secretaría de Salud del Gobierno del Estado de Morelos, en carácter de Presidente;
+
+II. La persona titular del Organismo Descentralizado denominado Servicios de Salud de Morelos;
+
+III. La persona titular del Instituto de la Educación Básica del Estado de Morelos,
+
+IV. La persona titular del Instituto del Deporte y Cultura Física del Estado de Morelos;
+
+V. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
+
+VI. La persona titular del Instituto Morelense de la Juventud;
+
+VII. La persona titular del Instituto de la Mujer para el Estado de Morelos;
+
+VIII. La persona titular del Hospital del Niño Morelense;
+
+IX. Un representante de la Universidad Autónoma del Estado de Morelos;
+
+X. Un representante de la Delegación en Morelos del Instituto Mexicano del Seguro Social;
+
+XI. Un representante de la Delegación en Morelos del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+XII. Un representante de la Delegación en Morelos del Instituto Nacional de las Personas Adultas Mayores, y
+
+XIII. Un representante del Instituto Nacional de Salud Pública.
+
+Los miembros de la Comisión contarán con derecho a voz y voto, con excepción de los referidos en las anteriores fracciones X a XIII, quienes tendrán la calidad de invitados, por lo que contarán únicamente con derecho a voz y no a voto.
+
+El cargo de integrante de la Comisión Interinstitucional de Prevención contra la Diabetes será de carácter honorífico.
+
+A las reuniones de la referida Comisión podrán asistir representantes de las asociaciones médicas relacionadas con el tema de la diabetes, quienes contarán con voz pero no tendrán voto.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 115 Quinquies.
+
+La Comisión Interinstitucional de Prevención contra la Diabetes se reunirá, por lo menos, cada mes y tendrá las siguientes atribuciones:
+
+I. Establecer mecanismos de comunicación e información a la comunidad, para la prevención de la diabetes, en establecimientos y espacios públicos;
+
+II. Elaborar un Programa para prevenir la diabetes, sobre todo con acciones que combatan el sobrepeso y la obesidad, enfocadas principalmente al nivel de educación básica, para promover la salud de la población infantil;
+
+III. Instrumentar caravanas itinerantes en los Municipios del Estado, en favor de la salud, con especial énfasis en la prevención de la diabetes;
+
+IV. Implementar un sistema de difusión e información para dar a conocer las políticas públicas que coadyuven a contrarrestar la diabetes;
+
+V. Organizar conferencias, cursos y asesorías con la finalidad de informar acerca de la obesidad y sobrepeso, a fin de prevenir la diabetes;
+
+VI. Impulsar la participación de la ciudadanía y del sector social para coadyuvar en las acciones de la Comisión, e
+
+VII. Informar a la persona titular del Poder Ejecutivo Estatal, de manera trimestral, las acciones y resultados de los programas o actividades que se realicen.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 115 Sexies.
+
+Corresponde a la persona titular de la Secretaría de Salud, en su carácter de Presidente de la Comisión Interinstitucional de Prevención contra la Diabetes, convocar a las sesiones de la misma.
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 116.
 
@@ -1305,7 +1385,7 @@ II.- Vigilar y certificar la calidad del agua para el consumo humano;
 
 III.- Promover y apoyar el saneamiento básico;
 
-IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y (sic)
+IV.- Disponer y verificar que se cuente con información de toxicología actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas; y
 
 V.- En general, ejercer actividades similares a las anteriores ante situaciones que causen riesgos o daños a la salud de las personas como brotes epidémicos y desastres.
 
@@ -1347,7 +1427,7 @@ Para los efectos de esta Ley se entiende por fuentes de radiación cualquier dis
 
 Para garantizar el debido control de los Residuos Peligrosos Biológico-Infecciosos, resultado de la operatividad de los servicios de salud en el Estado, el Gobierno de Morelos, a través de la Secretaría de Salud, podrá constituir un Centro Estatal de Residuos Peligrosos Biológico-Infecciosos, responsable de cumplir la Norma Oficial Mexicana en la materia y que podrá prestar su servicio a aquellos hospitales públicos y privados que lo soliciten, previo el convenio respectivo y cubrir la cuota o tarifa correspondiente, en términos de la legislación aplicable.
 
-### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### Artículo 124.
 
@@ -1359,7 +1439,7 @@ Las Entidades Federales en coordinación con el Ejecutivo Estatal, desarrollará
 
 ## TÍTULO OCTAVO. PREVENCIÓN Y CONTROL DE ENFERMEDADES, ACCIDENTES Y DESASTRES
 
-### CAPÍTULO IV. ACCIDENTES
+### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### Artículo 126.
 
@@ -1371,7 +1451,7 @@ II.- Establecer y operar el Sistema Estatal de Vigilancia Epidemiológica Apoyar
 
 III.- Promoverá la participación de los sectores público y privado del Estado en la aplicación de programas y actividades que establezca la Secretaría de Salud del Gobierno Federal, para la prevención y control de enfermedades, accidentes y desastres.
 
-### CAPÍTULO V. DESASTRES
+### CAPÍTULO IV. ACCIDENTES
 
 ###### Artículo 127.
 
@@ -1497,7 +1577,7 @@ Las autoridades sanitarias determinaran que tipo de enfermos o portadores de gé
 
 Las autoridades sanitarias determinarán los casos en que deba procederse a la descontaminación microbiana o parasitaria, desinfección y desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. DESASTRES
 
 ###### Artículo 142.
 
@@ -1521,7 +1601,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria les requiera, acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 145.
 
@@ -1545,7 +1625,7 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Estas acciones serán coordinadas por los Servicios de Salud de Morelos conjuntamente con el Consejo Estatal para la Prevención de Accidentes. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes y dentro de los marcos de los Sistemas Nacional y Estatal de Salud.
 
-### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
 
 ###### Artículo 147.
 
@@ -1581,7 +1661,7 @@ IV.- La atención a la salud de los damnificados en albergues será a través de
 
 ## TÍTULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES Y REHABILITACIÓN DE DISCAPACITADOS
 
-### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### Artículo 152.
 
@@ -1665,7 +1745,7 @@ El Sistema para el Desarrollo Integral de la Familia, tendrá entre sus objetivo
 
 ## TÍTULO DÉCIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### Artículo 165.
 
@@ -1761,7 +1841,7 @@ IV.- Los maestros, las asociaciones de padres de familia y asociaciones de alumn
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 175.
 
@@ -1779,7 +1859,9 @@ IV.- La atención médica, psicológica y siquiátrica a los individuos con cual
 
 El Titular del Ejecutivo y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes, que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
-I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalables, para prevenir su consumo por parte de menores de edad e incapaces;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalables, para prevenir su consumo por parte de menores de edad e incapaces, para lo cual, entre otras cosas, supervisarán, conforme a su ámbito de competencia, que los comerciantes requieran al consumidor identificación oficial para la venta de las mismas;
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
 
@@ -1791,7 +1873,7 @@ A los establecimientos que vendan o utilicen sustancias inhalantes con efectos p
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS ESTABLECIMIENTOS DEDICADOS A PROCESO DE ALIMENTOS, BEBIDAS ALCOHÓLICAS Y NO ALCOHÓLICAS
 
-### CAPÍTULO II. ESTABLECIMIENTOS DESTINADOS AL PROCESO DE MEDICAMENTOS
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 177.
 
@@ -1847,7 +1929,7 @@ TÍTULO DÉCIMOSEGUNDO
 
 PUBLICIDAD
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. ESTABLECIMIENTOS DESTINADOS AL PROCESO DE MEDICAMENTOS
 
 ###### Artículo 187.
 
@@ -1881,7 +1963,7 @@ El ejercicio de las atribuciones en publicidad se circunscribirá a los acuerdos
 
 ## TÍTULO DÉCIMO TERCERO. CONTROL SANITARIO DEL PROCESO DE INSUMOS PARA LA SALUD
 
-### CAPÍTULO II. DONACIÓN Y TRASPLANTES
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 191.
 
@@ -1897,7 +1979,7 @@ No podrán venderse medicamentos u otros insumos para la salud en puestos semifi
 
 Los productos y servicios a que se refiere este Título deben cumplir con los requisitos sanitarios establecidos en la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
 
-### CAPÍTULO III. PÉRDIDA DE LA VIDA
+### CAPÍTULO II. DONACIÓN Y TRASPLANTES
 
 ###### Artículo 194.
 
@@ -1931,7 +2013,7 @@ Los establecimientos, productos y servicios a que se refiere este Título deber�
 
 ## TÍTULO DÉCIMO CUARTO. DONACIÓN DE ÓRGANOS, TEJIDOS Y CÉLULAS; TRASPLANTES Y PÉRDIDA DE LA VIDA
 
-### CAPÍTULO IV. CADÁVERES
+### CAPÍTULO III. PÉRDIDA DE LA VIDA
 
 ###### Artículo 197.
 
@@ -2005,7 +2087,7 @@ Los establecimientos en los que se extraigan órganos y tejidos o se realicen tr
 
 Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe sin estar autorizada por la Ley General de Salud, esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO IV. CADÁVERES
 
 ###### Artículo 202.
 
@@ -2087,7 +2169,7 @@ El control sanitario de la disposición de sangre lo ejercerá la Secretaría de
 
 La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión y funcionarán de acuerdo a la normatividad aplicable. La sangre será considerada como tejido.
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 212.
 
@@ -2125,7 +2207,7 @@ No existirá impedimento alguno para que a solicitud o autorización de las sigu
 
 El o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la Fracción II del Artículo 212 de esta Ley.
 
-### CAPÍTULO III. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 215.
 
@@ -2141,7 +2223,7 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO IV. CREMATORIOS Y FUNERARIAS
+### CAPÍTULO III. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 218.
 
@@ -2181,7 +2263,7 @@ Todo cambio de propietario de un establecimiento, de razón social o denominaci�
 
 Los Servicios de Salud de Morelos publicarán en el Periódico Oficial “Tierra y Libertad”, órgano de Gobierno del Estado, la reglamentación en materia de salubridad local que se expida.
 
-### CAPÍTULO V. RASTROS
+### CAPÍTULO IV. CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 226.
 
@@ -2199,7 +2281,7 @@ Los Servicios de Salud de Morelos y los Ayuntamientos, en el ámbito de sus resp
 
 Los vendedores, locatarios y personas, cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y en el ejercicio de sus actividades se sujetarán a lo que dispongan esta Ley, los reglamentos respectivos, y otras disposiciones legales aplicables.
 
-### CAPÍTULO VI. ESTABLOS Y ESTABLECIMIENTOS QUE CONGREGUEN A CUALQUIER ESPECIE ANIMAL PARA ORNATO O CONSUMO HUMANO
+### CAPÍTULO V. RASTROS
 
 ###### Artículo 229.
 
@@ -2239,7 +2321,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vert
 
 Las Autoridades Municipales serán las responsables de que los niveles de cloración del agua potable cumplan con la normatividad al respecto, así mismo deberán proporcionar los medios para lograr la certificación del agua potable y garantizar así la inocuidad de esta para el uso y consumo del ser humano.
 
-### CAPÍTULO VII. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VI. ESTABLOS Y ESTABLECIMIENTOS QUE CONGREGUEN A CUALQUIER ESPECIE ANIMAL PARA ORNATO O CONSUMO HUMANO
 
 ###### Artículo 238.
 
@@ -2261,7 +2343,7 @@ Para la conservación, inhumación, exhumación y traslado de cadáveres, se req
 
 Para la disposición final de cadáveres de seres humanos infecto contagiosos de interés a la salud pública, sea para inhumación o cremación, se requiere la notificación inmediata a la autoridad sanitaria; el médico o la autoridad que determine la causa de la muerte, dispondrá de inmediato su inhumación o cremación en términos de la presente Ley, sus normas reglamentarias y demás disposiciones aplicables.
 
-### CAPÍTULO VIII. PELUQUERÍAS, SALONES DE BELLEZA, ESTÉTICAS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### Artículo 242.
 
@@ -2299,7 +2381,7 @@ Los vehículos para transportar animales destinados al sacrificio deberán cumpl
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fije la Autoridad Municipal.
 
-### CAPÍTULO IX. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES
+### CAPÍTULO VIII. PELUQUERÍAS, SALONES DE BELLEZA, ESTÉTICAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 250.
 
@@ -2313,7 +2395,7 @@ La Autoridad Municipal, conforme a las disposiciones legales en vigor, delimitar
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere este Capítulo, serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
 
-### CAPÍTULO X. MEDICINA ALTERNATIVA, TRADICIONAL Y HERBOLARIA
+### CAPÍTULO IX. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES
 
 ###### Artículo 253.
 
@@ -2333,7 +2415,7 @@ Tratándose de situaciones de emergencia, de enfermedades graves o cuando así l
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como hacer la notificación a que se refiere el Artículo 129 y 131 de esta Ley.
 
-### CAPÍTULO XI. DE LAS CONSTRUCCIONES
+### CAPÍTULO X. MEDICINA ALTERNATIVA, TRADICIONAL Y HERBOLARIA
 
 ###### Artículo 257.
 
@@ -2347,7 +2429,7 @@ Los establecimientos a que se refiere el Artículo anterior, deberán utilizar p
 
 El funcionamiento y personal de los establecimientos señalados en los Artículos anteriores deberán apegarse a lo establecido por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPÍTULO XII. CEMENTERIOS
+### CAPÍTULO XI. DE LAS CONSTRUCCIONES
 
 ###### Artículo 260.
 
@@ -2357,7 +2439,7 @@ Las autoridades sanitarias mantendrán campañas permanentes de orientación a l
 
 Los propietarios de los animales transmisores de la rabia, estarán obligados a hacerlos vacunar por las autoridades sanitarias o servicios particulares, así como a mantenerlos dentro de sus domicilios y bajo su control, evitando que éstos causen molestias a los vecinos.
 
-### CAPÍTULO XIII. LIMPIEZA PÚBLICA
+### CAPÍTULO XII. CEMENTERIOS
 
 ###### Artículo 262.
 
@@ -2377,7 +2459,7 @@ Ninguna persona que se dedique a la práctica de la medicina alternativa, tradic
 
 Las personas, agrupaciones y asociaciones, así como las dependencias e instituciones que proporcionen servicios de medicina alternativa, tradicional y herbolaria, serán responsables ante las autoridades competentes de las prácticas o métodos que apliquen, así como de sus consecuencias.
 
-### CAPÍTULO XIV. SEXO SERVICIO
+### CAPÍTULO XIII. LIMPIEZA PÚBLICA
 
 ###### Artículo 266.
 
@@ -2403,7 +2485,7 @@ Los propietarios o poseedores de los edificios y locales o de los negocios en el
 
 Cuando los edificios, construcciones o terrenos, representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estimen de urgencia, con cargo a sus propietarios o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos otorgados por la Autoridad Municipal.
 
-### CAPÍTULO XV. BAÑOS PÚBLICOS Y BALNEARIOS
+### CAPÍTULO XIV. SEXO SERVICIO
 
 ###### Artículo 272.
 
@@ -2417,7 +2499,7 @@ El funcionamiento de los cementerios estará sujeto a esta Ley, otras disposicio
 
 La autoridad sanitaria Municipal verificará el establecimiento, funcionamiento conservación y operación de conformidad con lo que establezcan las disposiciones legales y reglamentarias aplicables.
 
-### CAPÍTULO XVI. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO XV. BAÑOS PÚBLICOS Y BALNEARIOS
 
 ###### Artículo 275.
 
@@ -2453,7 +2535,7 @@ Los H. Ayuntamientos, y en su caso el Gobierno del Estado, proveerán de depósi
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO XVII. LAVANDERÍAS
+### CAPÍTULO XVI. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 281.
 
@@ -2673,7 +2755,7 @@ Todas las acciones emprendidas por las autoridades sanitarias y Municipales resp
 
 La aplicación de infracciones y sanciones en los casos de violaciones serán aplicadas por las mismas autoridades Municipales acorde a esta Ley; el reglamento para control de sexo servicio y el bando de policía y buen gobierno adoptado en los respectivos Municipios.
 
-### CAPÍTULO XVIII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPÍTULO XVII. LAVANDERÍAS
 
 ###### Artículo 313.
 
@@ -2687,7 +2769,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Le
 
 Los niveles de cloración que en su caso deberán cumplir los establecimientos a que se refiere el Artículo 313 de esta Ley serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
 
-### CAPÍTULO XIX. CENTROS DE ACOPIO ANIMAL Y CONTROL DE FAUNA NOCIVA
+### CAPÍTULO XVIII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### Artículo 316.
 
@@ -2697,9 +2779,7 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el Artículo anterior, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPÍTULO XX. ESTABLECIMIENTOS SEMIFIJOS Y AMBULANTES QUE INTERVENGAN EN CUALQUIERA DE
-
-LAS ETAPAS DEL PROCESO DE ALIMENTOS
+### CAPÍTULO XIX. CENTROS DE ACOPIO ANIMAL Y CONTROL DE FAUNA NOCIVA
 
 ###### Artículo 318.
 
@@ -2709,7 +2789,9 @@ Para los efectos de esta Ley, se entiende por lavandería el establecimiento ded
 
 Corresponde a los H. Ayuntamientos ejercer la verificación sanitaria de las lavanderías, conforme a las disposiciones legales aplicables.
 
-### CAPÍTULO XXI. GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO XX. ESTABLECIMIENTOS SEMIFIJOS Y AMBULANTES QUE INTERVENGAN EN CUALQUIERA DE
+
+LAS ETAPAS DEL PROCESO DE ALIMENTOS
 
 ###### Artículo 320.
 
@@ -2719,7 +2801,7 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Corresponde a los H. Ayuntamientos ejercer la verificación sanitaria a los establecimientos para el hospedaje, que conforme a esta Ley y otras disposiciones legales aplicables les corresponda.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XXI. GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 322.
 
@@ -2757,7 +2839,7 @@ XI.- Celebrar convenios con instituciones públicas, sociales o privadas, para l
 
 Los centros de acopio animal y control de fauna nociva coadyuvarán con las autoridades sanitarias correspondientes y a petición de las mismas a fin de que los propietarios de los animales transmisores de la rabia, los hagan vacunar por las autoridades sanitarias o servicios particulares, así como a mantenerlos dentro de sus domicilios y bajo su control, evitando que éstos causen molestias a los vecinos.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIÓN SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### Artículo 325.
 
@@ -2799,7 +2881,7 @@ I.- Su naturaleza o composición no correspondan a aquellas con que se etiquete,
 
 II.- Haya sufrido tratamiento que disimule su alteración, encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIÓN SANITARIAS
 
 ###### Artículo 332.
 
@@ -2821,11 +2903,11 @@ La Autoridad Municipal, conforme a las disposiciones legales en vigor, delimitar
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el Artículo 332, de esta Ley, serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD
+### CAPÍTULO ÚNICO
 
 ###### Artículo 335.
 
@@ -2899,7 +2981,7 @@ III.- Las demás que determine esta Ley y otras disposiciones generales aplicabl
 
 Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado y el Ejecutivo Federal.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 345.
 
@@ -2943,7 +3025,7 @@ En la substanciación del procedimiento de revocación de autorizaciones, se adm
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de actividades a que se refiera la autorización revocada.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 350.
 
@@ -2981,7 +3063,7 @@ La autoridad del Registro Civil sólo admitirá como válidos los certificados q
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 355.
 
@@ -3075,7 +3157,7 @@ En el caso de productos recogidos en procedimiento de muestreo o verificación, 
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 367.
 
@@ -3178,6 +3260,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las 2
 ###### Artículo 380.
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio se ordenará previa observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 381.
 
@@ -3568,3 +3652,51 @@ P.O. 2 DE OCTUBRE DE 2013.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 49 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 919, POR EL QUE SE ADICIONA EN EL TÍTULO SÉPTIMO DENOMINADO "PROMOCIÓN DE LA SALUD" UN CAPÍTULO III BIS DENOMINADO "COMISIÓN INTERINSTITUCIONAL DE PREVENCIÓN CONTRA LA DIABETES", CONFORMADO POR CINCO ARTÍCULOS QUE SERÁN ARTÍCULO 115 BIS, ARTÍCULO 115 TER, ARTÍCULO 115 QUATER, ARTÍCULO 115 QUINQUIES Y ARTÍCULO 115 SEXIES, TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 920, POR EL QUE SE REFORMAN LA FRACCIÓN XXI, DEL INCISO A), DEL ARTÍCULO 3, Y LA FRACCIÓN III, DEL ARTÍCULO 37, EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 922, POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 176, DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
