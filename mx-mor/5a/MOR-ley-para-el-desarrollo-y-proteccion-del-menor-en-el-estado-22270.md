@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2008-12-12"
+last_updated: "2013-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY PARA EL DESARROLLO Y PROTECCION DEL MENOR EN EL ESTADO DE MORELOS
 
-LEY PARA EL DESARROLLO Y PROTECCION DEL MENOR EN EL ESTADO DE MORELOS
+LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -74,6 +74,10 @@ Las disposiciones de esta Ley son de orden público e interés social y tienen p
 ###### ARTICULO 2.
 
 Se entiende por menor de edad: todo ser humano desde el momento en que nace hasta antes de cumplir dieciocho años de edad, salvo que por disposición legal y para ciertos efectos jurídicos, haya alcanzado antes la emancipación.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 2 BIS.- En todas las decisiones, políticas públicas, resoluciones y acciones que efectúen las autoridades o instituciones públicas del Estado de Morelos, se velará por el cumplimiento y respeto al principio del interés superior de la niñez; por lo que las disposiciones de esta Ley se aplicarán procurándoles siempre su beneficio directo, así como la asistencia que requieran para un sano crecimiento y desarrollo en un ambiente de bienestar familiar y social.
 
 ### CAPITULO I (SIC). DE LOS DERECHOS DEL MENOR
 
@@ -841,7 +845,7 @@ GUILLERMO MALO VELASCO
 
 RUBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE DICIEMBRE DE 2008.
 
@@ -856,3 +860,17 @@ Para dar cumplimiento a la presente reforma, el Sistema para el Desarrollo Integ
 ###### ARTÍCULO TERCERO.
 
 Para efectos de su divulgación, publíquese en el periódico oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
