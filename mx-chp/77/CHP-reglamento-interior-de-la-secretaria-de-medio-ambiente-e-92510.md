@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-medio-ambiente-e-92510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-07"
-last_updated: "2012-12-07"
+last_updated: "2013-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE E HISTORIA NATURAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE E HISTORIA NATURAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE E HISTORIA NATURAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el viernes 7 de diciembre de 2012.
 
@@ -201,13 +203,17 @@ XIV. Promover la creación de parques, reservas, corredores biológicos y áreas
 
 XV. Representar al Estado, en materia de protección al medio ambiente, denunciando los hechos sancionados como delitos del fuero común, ante las instancias competentes; así como ejercitar las acciones legales correspondientes, ante las autoridades administrativas y/o judiciales del Estado y de la Federación.
 
-XVI. Imponer actos de autoridad en materia de inspección y vigilancia sobre ecología, recursos naturales, medio ambiente, extracción y aprovechamiento de materiales del suelo, minerales y sustancias en el Estado, en los casos no reservados a la Federación.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVI. Imponer actos de autoridad en materia de inspección y vigilancia sobre ecología, recursos naturales, medio ambiente, cambio climático, emisiones a la atmosfera, ruido ambiental, extracción y aprovechamiento de materiales del suelo, minerales y sustancias en el Estado, en los casos no reservados a la Federación.
 
 XVII. Expedir las órdenes de verificación e inspección, en acciones de inspección y vigilancia, en materia de competencia de la Secretaría.
 
 XVIII. Establecer, coordinación con las autoridades competentes, para la implementación de medidas para la regulación del manejo y disposición final de las descargas de aguas residuales, residuos sólidos urbanos y de manejo especial.
 
-XIX. Emitir las licencias correspondientes para la regulación de emisiones atmosféricas en el Estado, con relación a aquellas acciones no reservadas a la Federación.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XIX. Emitir las licencias, refrendos o actualizaciones correspondientes para la regulación de emisiones atmosféricas de las actividades de competencia estatal no reservadas a la Federación.
 
 XX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -411,7 +417,9 @@ XV. Emitir opinión y validación de la procedencia jurídica sobre las formalid
 
 XVI. Emitir la validación jurídica de los anteproyectos de resolución relativos al análisis, evaluación y dictaminación de las manifestaciones de impacto ambiental y estudio de riesgo de obra, actividades de competencia estatal que presente el sector público, social y/o privado, y que serán presentadas ante el Secretario por parte de la Dirección de Protección Ambiental.
 
-XVII. Substanciar el procedimiento administrativo en materia ambiental que se deriven de las visitas de verificación efectuadas por la Dirección de Protección Ambiental, hasta dictar la resolución que conforme a derecho proceda.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVII. Substanciar el procedimiento administrativo en materia ambiental y de cambio climático que se deriven de las visitas de verificación efectuadas por la Dirección de Protección Ambiental o la Dirección de Cambio Climático y Economía Ambiental, conforme al ámbito de su competencia, hasta dictar la resolución que conforme a derecho proceda.
 
 XVIII. Presentar los informes que le soliciten a la Secretaría, las Comisiones Interamericana, Nacional y Estatal de los Derechos Humanos o cualquier otra institución de esa naturaleza.
 
@@ -419,7 +427,15 @@ XIX. Vigilar las bases y requisitos legales a que deban ajustarse los contratos,
 
 XX. Participar en los procesos de entrega de recepción de esta Secretaría.
 
-XXI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E ADICIONADA EN SU CONTENIDO], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXI. Emitir la validación jurídica de los anteproyectos de resolución relativos al análisis, evaluación y dictaminación de las licencias, refrendos y actualizaciones de Funcionamiento de Fuentes Fijas de Emisiones a la Atmósfera de competencia estatal que presente el sector público, social y/o privado, y que serán presentadas ante el Secretario por parte de la Dirección de Cambio Climático y Economía Ambiental.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA EN EL TEXTO ORIGINAL EN LA FRACCIÓN XXI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 9 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXII.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 19.
 
@@ -609,7 +625,9 @@ f) Delegación Regional Soconusco.
 
 El Titular de la Coordinación de Delegaciones tendrá las atribuciones siguientes:
 
-I. Vigilar el cumplimiento de las disposiciones en materia de medio ambiente, ecología, flora, fauna e historia natural, así como lo relacionado al manejo de los residuos sólidos urbanos y de manejo especial y de las actividades mineras que se desarrollan en el Estado, a través de las Delegaciones Regionales.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+I. Vigilar el cumplimiento de las disposiciones en materia de medio ambiente, ecología, flora, fauna e historia natural, lo relacionado al manejo de los residuos sólidos urbanos y de manejo especial y de las actividades mineras que se desarrollan en el Estado, así como de cambio climático, espacios de exhibición e investigación, a través de las Delegaciones Regionales.
 
 II. Coordinar las actividades de planeación, capacitación, infraestructura, vinculación y tecnología de las Delegaciones Regionales.
 
@@ -703,9 +721,13 @@ I. Promover la incorporación de medidas que mejoren los sistemas de captación 
 
 II. Coordinar los proyectos en materia de protección y conservación del medio ambiente, así como de los programas de ordenamiento ecológico del territorio de competencia estatal.
 
-III. Proponer estrategias y programas al Secretario, para su aplicación a favor del mejoramiento del ambiente, para reducir la contaminación de suelos, agua, aire, así como el desarrollo sustentable en la entidad.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-IV. Promover la implementación de un sistema de información ambiental que deberá incluir el monitoreo atmosférico, de suelos, de cuerpos de agua de competencia estatal, inventarios de recursos naturales, conjuntamente con las autoridades municipales, instituciones de investigación, educación superior, Dependencias y Entidades que correspondan.
+III. Proponer estrategias y programas al Secretario, para su aplicación a favor del mejoramiento del ambiente, para reducir la contaminación de suelos y agua, así como el desarrollo sustentable en la Entidad.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+IV. Promover la implementación de un sistema de información ambiental que deberá incluir el monitoreo de cuerpos de agua de competencia estatal, de suelos, inventarios de recursos naturales, conjuntamente con las autoridades municipales, instituciones de investigación, educación superior, Dependencias y Entidades que correspondan.
 
 V. Vigilar el cumplimiento de la normatividad en materia de protección, conservación, restauración ambiental y ordenamiento territorial estatal, conjuntamente con las autoridades Federales, Estatales, Municipales y con la participación de la población estatal.
 
@@ -743,7 +765,25 @@ VI. Fungir como asesor del Secretario, en los aspectos relacionados con la imple
 
 VII. Proponer acciones para el logro de los objetivos y metas contenidas en las Convenciones de las Naciones Unidas, incluyendo el desarrollo de actividades locales de concientización para la mitigación del cambio climático.
 
-VIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+VIII. Proponer estrategias y programas al Secretario para monitorear, regular, prevenir y/o reducir la contaminación del aire y ruido ambiental en la Entidad.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+IX. Promover la actualización y publicación del Registro Estatal de Emisiones y Transferencias de Contaminantes y Cambio Climático, con información de aire, suelo y ruido de competencia Estatal, siendo el responsable de la presentación del informe técnico total, incluyendo todas las fuentes de emisión de contaminantes.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+X. Vigilar el cumplimiento de la normatividad en materia de cambio climático, prevención y control de la contaminación del aire y ruido ambiental de competencia Estatal.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XI. Promover la participación de instancias oficiales, sociales y comunidad científica para la mitigación y adaptación al cambio climático, prevención y control de la contaminación del aire y ruido ambiental, a nivel municipal, estatal, nacional e internacional, a través de los instrumentos jurídicos que sean aplicables.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 33.
 
@@ -893,43 +933,81 @@ a) Departamento de Ingeniería Ambiental.
 
 b) Departamento de Regulación Ambiental.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 40.
 
 El Titular de la Dirección de Protección Ambiental tendrá las atribuciones siguientes:
 
-I. Vigilar y aplicar las políticas públicas en materia de impacto y riesgo ambiental, residuos sólidos urbanos, residuos de manejo especial, emisiones a la atmosfera y monitoreo de calidad ambiental del aire, agua y suelo, de acuerdo con lo previsto en las leyes vigentes.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-II. Realizar la evaluación de manifiestos en materia de impacto y riesgo ambiental, residuos sólidos urbanos y de manejo especial, licencias de funcionamiento para emisiones a la atmósfera en fuentes de competencia estatal de las obras o actividades que pueda afectar al ambiente.
+I. Vigilar y aplicar las políticas públicas en materia de impacto y riesgo ambiental, residuos sólidos urbanos, residuos de manejo especial, y monitoreo de la calidad del agua y suelo, de acuerdo con lo previsto en las leyes vigentes.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+II. Realizar la evaluación de manifiestos en materia de impacto y riesgo ambiental, residuos sólidos urbanos y de manejo especial.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 III. Proponer al Subsecretario de Medio Ambiente, los proyectos de resolución de las obras o actividades sujetas al procedimiento de evaluación de impacto ambiental que presenten los sectores público, privado o social en materia de su competencia, previa validación de la Unidad de Asuntos Jurídicos.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
 IV. Promover el cumplimiento de las disposiciones jurídicas aplicables a la prevención y control de la contaminación ambiental, restauración, preservación y protección de los recursos naturales; así como en materia de impacto y/o riesgo ambiental, con el apoyo de los sectores público, social y privado.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 V. Realizar la ejecución de actos de verificación, a través del personal debidamente acreditado, en las obras o actividades que deban someterse al procedimiento de evaluación de la manifestación de impacto ambiental que cuenten o no con la autorización correspondiente, en los términos de las disposiciones jurídicas aplicables en la materia y en su caso que cumplan con las medidas señaladas en las resoluciones respectivas.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
 VI. Atender las denuncias presentadas por la ciudadanía y en su caso, canalizar a la autoridad competente el acta administrativa circunstanciada, previo al procedimiento administrativo correspondiente.
 
-VII. Vigilar y dar seguimiento al registro estatal de los generadores de residuos de manejo especial y de los planes de manejo, extracción de material pétreo, sitios contaminados, emisiones y transferencia de contaminantes del aire, agua y suelo; así como de los consultores que prestan sus servicios en las materias que son competencia de la Secretaría.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-VIII. Proponer al Subsecretario de Medio Ambiente, el programa estatal para el manejo integral de los residuos sólidos urbanos y de manejo especial, reciclaje y trasporte de materiales.
+VII. Vigilar y dar seguimiento al registro estatal de los generadores de residuos de manejo especial y de los planes de manejo, extracción de material pétreo, sitios contaminados y transferencia de contaminantes al agua y suelo; así como de los consultores que prestan sus servicios en las materias que son competencia esta (sic) Dirección.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+VIII. Proponer al Subsecretario de Medio Ambiente, el programa estatal para el manejo integral de los residuos sólidos urbanos y de manejo especial, reciclaje y trasporte (sic) de materiales.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 IX. Contribuir, en coordinación con los municipios del Estado, en la ejecución de los programas de control y remediación en sitios contaminados por residuos sólidos urbanos y de manejo especial.
 
-X. Instrumentar programas de prevención y control de contaminantes atmosféricos generados por fuentes móviles, fijas, establecimientos mercantiles y de servicio, para regular las fuentes de contaminación del medio ambiente en el Estado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-XI. Coordinar la elaboración, integración y ejecución de programas, proyectos y acciones relacionadas con el monitoreo y el análisis de la calidad del agua, aire y suelo, para la prevención de la contaminación y la protección del medio ambiente en el Estado.
+X. Coordinar la elaboración, integración y ejecución de programas, proyectos y acciones relacionadas con el monitoreo y el análisis de la calidad del agua y suelo, para la prevención de la contaminación y la protección del medio ambiente en el Estado.
 
-XII. Participar en coordinación con las autoridades locales en el diseño, establecimiento y actualización de programas de contingencias ambientales que puedan generar afectaciones a los recursos naturales o la población de una región o zona determinada.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-XIII. Aplicar las acciones necesarias para reducir las emisiones a la atmósfera que inciden en la alteración de la capa de ozono y el cambio climático, en aquellos casos vinculados a las materias de impacto y riesgo ambiental, residuos sólidos urbanos, residuos de manejo especial, emisiones a la atmósfera por fuentes de competencia estatal, extracción de materiales pétreos y todas aquellas que puedan incidir en esa afectación.
+XI. Participar en coordinación con las autoridades locales en el diseño, establecimiento y actualización de programas de contingencias ambientales que puedan generar afectaciones a los recursos naturales o la población de una región o zona determinada.
 
-XIV. Proponer al Subsecretario de Medio Ambiente, las normas técnicas ambientales en las que se establezcan los criterios técnicos para la prevención y control de la contaminación de aire, agua y suelo en el Estado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-XV. Vigilar el cumplimiento de las normas del Sistema de Gestión de la Calidad, para eficientar los procesos de los Órganos Administrativos a su cargo.
+XII. Aplicar las acciones necesarias en los casos vinculados a las materias de impacto y riesgo ambiental, residuos sólidos urbanos, residuos de manejo especial, extracción de materiales pétreos y todas aquellas que puedan incidir en esa afectación y que sean de competencia estatal.
 
-XVI. Promover la realización de estudios de afectación ambiental que determinen las medidas de mitigación, restauración y compensación que se deben implementar como resultado de las actividades o proyectos que infringen la legislación ambiental.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-XVII. Proporcionar asesoría a los particulares sobre los trámites para obtener la autorización correspondiente en materia de impacto ambiental.
+XIII. Proponer al Subsecretario de Medio Ambiente, las normas técnicas ambientales en las que se establezcan los criterios para la prevención y control de la contaminación del agua y suelo en el Estado.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XIV. Vigilar el cumplimiento de las normas del Sistema de Gestión de la Calidad, para eficientar los procesos de los Órganos Administrativos a su cargo.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XV. Promover la realización de estudios de afectación ambiental que determinen las medidas de mitigación, restauración y compensación que se deben implementar como resultado de las actividades o proyectos que infringen la legislación ambiental.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVI. Proporcionar asesoría a los particulares sobre los trámites para obtener la autorización correspondiente en materia de impacto ambiental.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVII. Dar seguimiento a las resoluciones en materia de impacto y riesgo ambiental, residuos sólidos urbanos, residuos de manejo especial, extracción de materiales pétreos y todas aquellas que puedan incidir en una afectación ambiental, informando de ello a la Unidad de Asuntos Jurídicos dentro del término de 60 días naturales, a partir de la fecha de la notificación en que cause ejecutoria la resolución.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 XVIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de Medio Ambiente; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -1005,33 +1083,121 @@ a) Departamento de Cambio Climático y Energía.
 
 b) Departamento de Calidad del Aire.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 45.
 
 El Titular de la Dirección de Cambio Climático y Economía Ambiental tendrá las atribuciones siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
 I. Coordinar el programa de acción ante el cambio climático del Estado de Chiapas.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 II. Generar acciones orientadas a la mitigación de emisiones de Gases de Efecto Invernadero (GEI) en el Estado de Chiapas.
 
-III. Implementar las evaluaciones de impacto de calidad del aire, para su atención a la problemática de contaminación atmosférica en el Estado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+III. Realizar la evaluación y resoluciones de expedientes técnicos para el otorgamiento o negación de las Licencias, Refrendos y actualización de Funcionamiento de Fuentes Fijas de Emisiones a la Atmósfera de las actividades de competencia estatal en materia de contaminación del aire y la atmósfera.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 IV. Vigilar las acciones de reducción de vulnerabilidad, disminución de riesgo y generación de estrategias de adaptación en los planes de desarrollo Estatal y Municipal.
 
-V. Implementar los programas desarrollados con la Reducción de Emisiones por Degradación y Deforestación Evitada (REDD+), Mecanismos de Desarrollo Limpio (MDL), entre otros, para la mitigación y adaptación ante los efectos del cambio climático en el Estado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+V. Promover y desarrollar mecanismos financieros relacionados con la Reducción de Emisiones por Degradación y Deforestación Evitada (REDD+), Mecanismos de Desarrollo Limpio (MDL), entre otros, para la mitigación de los gases de efecto invernadero.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 VI. Fomentar la incorporación del tema del cambio climático en políticas públicas a nivel Estatal y Municipal.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
 VII. Promover la integración y/o desarrollo en un marco de cambio climático, los procesos de ahorro de energía y el uso de energías alternativas en el Estado.
 
-VIII. Generar los procesos de servicios ecosistémicos a las políticas de mitigación y adaptación al cambio climático en el Estado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-IX. Participar en el seguimiento de la Comisión de Coordinación lntersecretarial de Cambio Climático, conforme a la ley aplicable.
+VIII. Diseñar y promover programas de valoración de servicios ecosistémicos para la mitigación y adaptación al cambio climático en el Estado.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+IX. Impulsar y dar seguimiento a la Comisión de Coordinación Intersecretarial de Cambio Climático, conforme a la ley aplicable.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2013)</small>
 
 X. Dirigir las políticas en materia de cambio climático, para implementar actividades de mitigación de Gases de Efecto Invernadero (GEI), relacionadas con las políticas de desarrollo sustentable.
 
-XI. Participar con instancias de sector público y privado nacionales e internacionales, para el intercambio de conocimientos y herramientas en la reducción y captura de emisiones de Gases de Efecto Invernadero (GEI), con miras a prevenir los daños ambientales, sociales y económicos en el Estado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-XII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de Cambio Climático; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XI. Participar con instancias de sector público, social y privado, locales, nacionales e internacionales, para el intercambio de conocimientos y herramientas para la mitigación y adaptación ante el cambio climático.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XII. Capacitar y consultar a funcionarios públicos, a las ONG, el sector privado, sector académico, y población en general, para fomentar la participación social y reducir la vulnerabilidad social ante el cambio climático.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XIII. Vigilar y aplicar las políticas públicas en materia de emisiones a la atmósfera y monitoreo de la calidad del aire de competencia estatal, de acuerdo con lo previsto en la normatividad ambiental vigente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XIV. Proponer al Subsecretario de Cambio Climático, la elaboración, aplicación y actualización de los reglamentos y normas técnicas ambientales en las que se establezcan los criterios para la prevención y control de la contaminación del aire en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XV. Proponer al Subsecretario de Cambio Climático, la habilitación del personal de la Secretaría como verificadores en materia de emisiones a la atmósfera de competencia estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVI. Atender las denuncias ciudadanas en materia de actividades que generen emisiones a la atmósfera y ruido ambiental de competencia estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVII. Coordinar y ejecutar actos de verificación en las actividades de competencia estatal en materia de emisiones a la atmósfera y ruido ambiental, que deban someterse al procedimiento de evaluación, en los términos de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVIII. Proponer al Subsecretario de Cambio Climático, las resoluciones en materia de emisiones a la atmósfera, sujetas al procedimiento de evaluación que presenten los promoventes y/o representantes legales, previa validación de la Unidad de Asuntos Jurídicos de la Secretaría.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XIX. Integrar, mantener actualizado y difundir el registro estatal de emisiones y transferencias de contaminantes en materia de contaminación del aire, ruido y suelo, con la información contenida en las cédulas de operación anual estatal presentados ante la Secretaría.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XX. Instrumentar y ejecutar programas de monitoreo de la calidad del aire, prevención y control de la contaminación atmosférica en la Entidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXI. Promover la realización de estudios que determinen las medidas de mitigación, restauración y compensación ambiental, que se deban implementar como resultado de las actividades de fuentes fijas y móviles de competencia estatal, que emiten contaminantes a la atmósfera.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXII. Participar en coordinación con las autoridades estatales y municipales en el diseño, establecimiento y/o actualización del programa de contingencia ambiental por contaminación del aire en el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXIII. Aplicar las acciones necesarias para reducir y/o controlar las emisiones a la atmósfera por fuentes fijas y móviles de competencia estatal, que incidan en la alteración de la capa de ozono y contribuyan al cambio climático global.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXIV. Vigilar y dar seguimiento al registro de consultores que prestan sus servicios en las materias que sean competencia de la Dirección.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXV. Proponer al Subsecretario de Cambio Climático la publicación y difusión de Informes Anuales en materia de emisiones a la atmósfera y monitoreo de la calidad del aire de competencia Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXVI. Dar seguimiento a las resoluciones en materia de emisiones a la atmósfera y todas aquellas que puedan incidir en una afectación atmosférica, informando de ello a la Unidad de Asuntos Jurídicos dentro del término de 60 días naturales, a partir de la fecha de la notificación en que cause ejecutoria la resolución.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA EN EL TEXTO ORIGINAL EN LA FRACCIÓN XII, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 9 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVII.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXVII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de Cambio Climático; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 46.
 
@@ -1141,7 +1307,9 @@ Los Titulares de la Delegaciones Regionales tendrán las atribuciones siguientes
 
 I. Acordar con el Coordinador de Delegaciones, el despacho y resolución de los asuntos de su competencia e informar el avance de los mismos.
 
-II. Representar a la Secretaría en los asuntos o actividades en materia administrativa y de medio ambiente, ecología, flora, fauna e historia natural; así como lo relacionado al manejo de los residuos· sólidos urbanos y de manejo especial y de vigilancia de las actividades mineras que se desarrollan en el Estado, que se realizan en la Región que le corresponde.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+II. Representar a la Secretaría en los asuntos, acciones y/o actividades en materia administrativa, de medio ambiente, ecología, flora, fauna e historia natural, cambio climático, espacios de exhibición, e investigación, así como en lo relacionado al manejo de residuos sólidos urbanos y de manejo especial y de vigilancia de las actividades mineras que se desarrollan en el Estado, que se realizan en la Región que le corresponde.
 
 III. Desempeñar e informar el resultado de las actividades comisiones y representaciones que le sean encomendadas por el Coordinador de Delegaciones, en el ámbito de su competencia.
 
@@ -1185,7 +1353,15 @@ XXI. Vigilar que las sanciones a que se hagan acreedores los servidores público
 
 XXII. Suscribir acuerdos, documentos y demás actos jurídicos y administrativos relativos al ejercicio de sus funciones y aquellos que le sean asignados por delegación o le correspondan por suplencia.
 
-XXIII. Las demás atribuciones que en el ámbito de su competencia les sean encomendadas por el Coordinador de Delegaciones; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E ADICIONADA EN SU CONTENIDO], P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXIII. Brindar apoyo en los procedimientos y trámites en materia de protección ambiental y de cambio climático de competencia estatal, cuando así se requiera previa autorización y bajo la coordinación de las Direcciones a cargo.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA EN EL TEXTO ORIGINAL EN LA FRACCIÓN XXI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 9 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXII.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXIV. Las demás atribuciones que en el ámbito de su competencia les sean encomendadas por el Coordinador de Delegaciones; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Cuarto. De la suplencia de los servidores públicos
 
@@ -1232,3 +1408,19 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los veintitrés días del mes de julio de dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Gustavo Castellanos Gordillo, Secretario de Medio Ambiente e Historia Natural.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Decreto.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
