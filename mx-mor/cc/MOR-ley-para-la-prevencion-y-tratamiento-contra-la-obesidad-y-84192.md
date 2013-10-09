@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-tratamiento-contra-la-obesidad-y-84192
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2013-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS EN EL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -121,9 +121,13 @@ III. Promover las participación (sic) de Organizaciones no Gubernamentales, en 
 
 IV. Proponer acciones tendientes a eliminar la discriminación y la estigmatización en el ámbito laboral, educacional y/o social, frente al padecimiento de Trastornos Alimenticios.
 
-V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de Trastornos Alimenticios.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-VI. Motivar y apoyar la participación social, pública y privada en la prevención y combate de Trastornos Alimenticios.
+V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de Trastornos Alimenticios, a través de las Escuelas para Bajar de Peso;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+VI. Motivar y apoyar la participación social, pública y privada en la prevención y combate de Trastornos Alimenticios, así como promover la celebración de convenios de colaboración con estos sectores para la operatividad de las Escuelas para Bajar de Peso, y
 
 VII. Las demás que le reconozcan esta Ley y otras normas aplicables.
 
@@ -147,7 +151,29 @@ IV. Promover, especialmente entre los niños y adolescentes, conductas nutricion
 
 V. Diseñar e instrumentar acciones para el diagnóstico temprano y atención de las personas que presenten algún Trastorno Alimenticio, específicamente la bulimia anorexia y obesidad;
 
-VI. Las demás que le reconozcan esta Ley y otras normas aplicables.
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+VI. Implementar Escuelas para Bajar de Peso, de conformidad con las necesidades detectadas y la disponibilidad de recursos, para cuyo efecto podrá celebrar los convenios de colaboración que se requieran, y
+
+VII. Las demás que le reconozcan esta Ley y otras normas aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 11 Bis.
+
+Las Escuelas para Bajar de Peso serán los espacios en los cuales la Secretaría de Salud, a través de la Dirección encargada del Programa Estatal, impulsará y llevará a cabo acciones de capacitación y asesoría tendientes a lograr la prevención de los trastornos alimenticios, conforme a los fines siguientes:
+
+I. Brindar a la población en general orientación tendiente a fomentar hábitos nutricionales saludables;
+
+II. Ofertar cursos sobre diferentes temas relacionados con la salud y nutrición adecuada para cada etapa de la vida;
+
+III. Socializar la importancia de eliminar los malos hábitos en la alimentación y los riesgos que provocan los trastornos alimenticios;
+
+IV. Promover valores, actitudes, competencias, hábitos y conductas sanas que permitan una mejor nutrición y la cultura del deporte;
+
+V. Difundir una cultura nutricional y de activación física, a través de los recursos tecnológicos de que se disponga, e incluso mediante la página electrónica a que alude el artículo 22 de esta Ley.
+
+En el reglamento que al efecto se expida, se determinará lo referente a la organización, operatividad y funcionamiento de las Escuelas para Bajar de Peso.
 
 ###### Artículo 12.
 
@@ -324,3 +350,19 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
