@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-servicio-de-transporte-turistico-denominado-8257
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-23"
-last_updated: "2011-08-23"
+last_updated: "2013-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 ---
 # REGLAMENTO DEL SERVICIO DE TRANSPORTE TURISTICO DENOMINADO, "TRANVIA EN EL MUNICIPIO DE MORELIA", ESTADO DE MICHOACAN
 
-REGLAMENTO DEL SERVICIO DE TRANSPORTE TURISTICO DENOMINADO, "TRANVIA EN EL MUNICIPIO DE MORELIA"
+REGLAMENTO DEL SERVICIO DE TRANSPORTE TURÍSTICO DENOMINADO, "TRANVÍA EN EL MUNICIPIO DE MORELIA"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la tercera sección del Periódico Oficial del Estado de Michoacán, el martes 23 de agosto de 2011.
 
@@ -69,21 +69,27 @@ X. Visto Bueno: La aprobación que otorga el H. Ayuntamiento de Morelia, a trav�
 
 Se crea el Consejo Municipal del Transporte Turístico, que tendrá las funciones de vigilar el fiel desempeño de las partes en la prestación del servicio que regula el presente Reglamento; así como de emitir el dictamen, o acuerdo positivo o negativo para el otorgamiento en su caso de nuevas concesiones.
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 I. El Consejo estará integrado por:
 
-- El Secretario de Turismo Municipal, quien tendrá el voto de calidad en caso de un empate al emitir los dictámenes;
+El Secretario de Turismo Municipal, como Presidente del Consejo Consultivo, quien tendrá el voto de calidad en caso de un empate al emitir los dictámenes;
 
-- El Director de Turismo quien es el que fungirá como Secretario General del Consejo;
+El Director de Turismo quien es el que fungirá como Secretario General del Consejo;
 
-- El Director de Tránsito Municipal, mientras exista esta dirección a cargo del municipi (sic);
+El Director General de Seguridad Ciudadana, como vocal;
 
-- Un Regidor que pertenezca a la Comisión de Educación, Cultura y Turismo, designado por el Cabildo Municipal;
+El Regidor Coordinador de la Comisión de Educación Pública, Cultura y Turismo, como vocal.
 
-- El Coordinador del Centro Histórico; y,
+El Coordinador del Centro Histórico de Morelia, como vocal;
 
-- Un representante designado por los propios concesionarios del servicio.
+La persona que el Coordinador de la Comisión Coordinadora del Transporte Público del Gobierno del Estado de Michoacán de Ocampo designe para tal efecto, quien será vocal; y,
 
-II. Los integrantes del Consejo tendrán voz y voto, a excepción del representante de los concesionarios, quien únicamente contará con voz.
+Un representante designado por los propios concesionarios del servicio, como vocal.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+II. Los integrantes del Consejo tendrán voz y voto, y cada uno de ellos designará un suplente, el cual acudirá en representación del titular, cuando éste no pueda presentarse por alguna causa justificada, autorizando por escrito el carácter con el que se ostenta y si estará autorizado a participar con voz y/o voto.
 
 III. Dicho consejo tendrá la Facultad de convocar a Reuniones con el objeto de estudiar las propuestas de nuevas concesiones
 
@@ -171,7 +177,9 @@ a) Para concesiones iniciales, ser modelos que estén dentro del rango no mayor 
 
 b) Para revalidación de concesiones, ser modelos que estén dentro del rango no mayor a diez años de antigüedad a partir de su fabricación;
 
-c) Obtener revisión mecánica favorable correspondiente al año cursante, expedida por la Dirección de Tránsito Municipal y/o empresa automotriz debidamente autorizada y registrada para su ejercicio; y,
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+c) Obtener revisión mecánica favorable correspondiente al año cursante, expedida por la Dirección General de Seguridad Ciudadana del Municipio de Morelia y/o empresa automotriz debidamente autorizada y registrada para su ejercicio; y,
 
 d) Obtener certificado de baja emisión de contaminantes.
 
@@ -189,9 +197,13 @@ e) Proporcionar a la Secretaría todo tipo de información que se les requiera r
 
 f) Contar con el equipo de sonido adecuado para que los usuarios disfruten el recorrido;
 
-g) Todas las unidades concesionadas deberán contar con una póliza vigente del seguro de responsabilidad civil para ocupantes y de daños a terceros; y,
+g) Todas las unidades concesionadas deberán contar con una póliza vigente del seguro de responsabilidad civil para ocupantes y de daños a terceros; y, (sic)
 
 h) Estandarizar la información histórica cultural ofrecida a los usuarios, misma que será autorizada por el Consejo Municipal del Transporte Turístico; así como la duración de los recorridos que en cualquier temporada deberá ser de 50 minutos como mínimo
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+i) Realizar adecuaciones necesarias en el equipo de Transporte para que las personas con alguna discapacidad estén en condiciones de acceder al Transporte Turístico.
 
 ###### Artículo 10.
 
@@ -366,3 +378,9 @@ C E R T I F I C A
 Que el presente es copia fiel del original que obra en los archivos de la Secretaría del H. Ayuntamiento, y se refiere al Reglamento del Servicio de Transporte Turístico denominado "Tranvía en el Municipio de Morelia", el cual fue aprobado por unanimidad de los miembros del cabildo en sesión ordinaria de fecha 10 de agosto de 2011, este documento consta de 10 (diez) fojas útiles por el anverso.
 
 Se expide la presente, para los fines legales a que haya lugar, en la ciudad de Morelia, Michoacán, a los 10 (diez) días del mes de agosto de 2011, dos mil once. (Firmado).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+ÚNICO.- Las presentes reformas y adiciones al Reglamento del Servicio de Transporte Turístico denominado, "Tranvía en el Municipio de Morelia", entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y, para el conocimiento ciudadano, publíquese en los estrados del Palacio Municipal y en los medios de información que determine el Ayuntamiento, en términos de lo dispuesto por los artículos 145 párrafo tercero y 147 párrafo primero de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; 3° del Código Civil para el Estado de Michoacán de Ocampo y 54 del Bando de Gobierno Municipal de Morelia.
