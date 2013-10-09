@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-desarrollo-y-84430"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2013-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO Y PARTICIPACIÓN SOCIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de diciembre de 2011.
 
@@ -69,7 +69,9 @@ II. Secretaría: A la Secretaría de Desarrollo y Participación Social.
 
 III. Secretario: Al Titular de la Secretaría de Desarrollo y Participación Social.
 
-IV. Órganos Administrativos: A la Oficina del C. Secretario, Unidades, Coordinación de Análisis de Gestión, Subsecretarías, Módulo de Atención al Migrante Chiapaneco, Coordinación de Delegaciones Regionales, Direcciones, Delegaciones, y demás Órganos Administrativos que forman parte de la estructura orgánica de la Secretaría.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+IV. Órganos Administrativos: A la Oficina del C. Secretario, Unidades, Coordinación de Análisis de Gestión, Subsecretarías, Coordinación de Delegaciones, Direcciones, Delegaciones, y demás Órganos Administrativos que forman parte de la estructura orgánica de la Secretaría.
 
 V. Reglamento Interior: Al Reglamento Interior de la Secretaría de Desarrollo y Participación Social.
 
@@ -81,11 +83,13 @@ Los Titulares de los Órganos Administrativos que integran a la Secretaría, imp
 
 ### Capítulo I. De la Estructura Orgánica de la Secretaría
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, así como para el despacho de los asuntos de su competencia, la Secretaría tendrá los Órganos Administrativos siguientes:
+Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, así como para el despacho de los asuntos de su competencia, la Secretaría tendrá los órganos Administrativos siguientes:
 
-I. Oficina del C. Secretario
+I. Oficina del C. Secretario:
 
 a) Unidad de Apoyo Administrativo.
 
@@ -97,33 +101,45 @@ d) Unidad de Informática.
 
 e) Unidad de Asuntos Jurídicos.
 
-II. Subsecretaría de Chiapas Solidario.
+II. Subsecretaría de Chiapas Solidario:
 
-a) Coordinación de Delegaciones Regionales.
+a) Coordinación de Delegaciones:
 
-Delegación I Centro.
+Delegación I Metropolitana.
 
-Delegación II Altos.
+Delegación II Valles Zoque.
 
-Delegación III Fronteriza.
+Delegación III Mezcalapa.
 
-Delegación IV Frailesca.
+Delegación IV De los Llanos.
 
-Delegación V Norte.
+Delegación V Altos Tsotsil-Tseltal.
 
-Delegación VI Selva.
+Delegación VI Frailesca.
 
-Delegación VII Sierra.
+Delegación VII De los Bosques.
 
-Delegación VIII Soconusco.
+Delegación VIII Norte.
 
-Delegación IX Istmo-Costa.
+Delegación IX Istmo Costa.
+
+Delegación X Soconusco.
+
+Delegación XI Sierra Mariscal.
+
+Delegación XII Selva Lacandona.
+
+Delegación XIII Maya.
+
+Delegación XIV Tulijá Tseltal Chol.
+
+Delegación XV Meseta Comiteca Tojolabal.
 
 b) Dirección de Participación Social.
 
 c) Dirección de Control Estadístico y Padrón de Beneficiarios.
 
-III. Subsecretaría de Programas Federalizados y Políticas Sociales.
+III. Subsecretaría de Programas Federalizados y Políticas Sociales:
 
 a) Dirección de Vinculación Interinstitucional.
 
@@ -131,19 +147,13 @@ b) Dirección de Atención y Concertación Social.
 
 c) Dirección de Seguimiento de Programas Sociales.
 
-IV. Subsecretaría de Desarrollo Humano.
+IV. Subsecretaría de Desarrollo Humano:
 
 a) Dirección Motor de Economía Social.
 
 b) Dirección de Obras Solidarias.
 
 c) Dirección de la Agenda Chiapas ONU.
-
-V. Módulo de Atención al Migrante Chiapaneco.
-
-VI. Órgano Desconcentrado.
-
-Instituto Estatal de la Juventud.
 
 ###### Artículo 8.
 
@@ -205,9 +215,11 @@ XV. Promover acciones que contribuyan a combatir la pobreza, igualar el acceso a
 
 XVI. Impulsar acciones que promuevan la paz social y generar estrategias de solución a conflictos sociales a través de un diálogo plural, tolerante y respetuoso que fortalezca las relaciones entre las comunidades, las organizaciones sociales y el Estado.
 
-XVII. Promover, en coordinación con Instituciones Públicas, Gobiernos Municipales y Sectores Social y Privado, acciones que fomenten el apoyo y respeto a los derechos humanos del migrante chiapaneco.
+XVII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2013)
 
-XVIII. Promover el desarrollo integral de la juventud y de grupos vulnerables, a través de acciones coordinadas con Instituciones Públicas, Gobiernos Municipales y los Sectores Social y Privado.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVIII. Promover el desarrollo de grupos vulnerables, a través de acciones coordinadas con Instituciones Públicas, gobiernos Municipales y los Sectores Social y Privado.
 
 XIX. Vigilar que la implementación y seguimiento a las políticas de desarrollo y participación social; así como la coordinación y vinculación con las demás Dependencias y Entidades que ejecuten programas de desarrollo y participación social en el Estado, se efectúe de conformidad con las normas establecidas.
 
@@ -421,7 +433,9 @@ XVII. Vigilar dentro del ámbito de su competencia, que las adquisiciones, abast
 
 XVIII. Vigilar que las observaciones derivadas de las auditorías practicadas a los Órganos Administrativos que conforman la Secretaría, se solventen en las formas y tiempos establecidos.
 
-XIX. Representar al Secretario en las reuniones del Comité y Subcomité de Adquisiciones, Arrendamiento y Servicios de Bienes Muebles, conforme a las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XIX. Representar al Secretario en las reuniones del Comité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, conforme a las disposiciones legales aplicables.
 
 XX. Participar en la celebración y suscripción de contratos y demás actos administrativos, relacionados con el suministro y control de los recursos humanos, financieros y materiales de la Secretaría.
 
@@ -585,11 +599,15 @@ XIV. Rendir los informes que le requieran a la Secretaría, la Comisión Naciona
 
 XV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
-### Capítulo II. De la integración de las Subsecretarías y Módulo de Atención al Migrante Chiapaneco y Atribuciones de sus Titulares
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+### Capítulo II. De la Integración de las Subsecretarías y Atribuciones de sus Titulares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 26.
 
-Para el despacho de los asuntos, competencia de la Secretaría, los Titulares de las Subsecretarías y Módulo de Atención al Migrante Chiapaneco, tendrán las atribuciones Generales siguientes:
+Para el despacho de los asuntos, competencia de la Secretaría, los Titulares de las Subsecretarías, tendrán las atribuciones generales siguientes:
 
 I. Acordar con el Secretario, la resolución y despacho de los asuntos de su competencia e informar el avance de los mismos.
 
@@ -645,7 +663,9 @@ XXV. Las demás atribuciones que en el ámbito de su competencia, les sean encom
 
 La Subsecretaría de Chiapas Solidario, tendrá los Órganos Administrativos siguientes:
 
-a) Coordinación de Delegaciones Regionales.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+a) Coordinación de Delegaciones.
 
 b) Dirección de Participación Social.
 
@@ -745,31 +765,17 @@ VIII. Las demás atribuciones que en el ámbito de su competencia, le sean encom
 
 ###### Artículo 33.
 
-El Titular del Módulo de Atención al Migrante Chiapaneco, tendrá las atribuciones siguientes.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2013)
 
-I. Proponer al Secretario, las acciones, proyectos y programas a realizar, para la atención de los migrantes chiapanecos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-II. Vigilar el cumplimiento de las normas, políticas y procedimientos aplicables a las actividades administrativas que realiza el Módulo de Atención al Migrante Chiapaneco.
+### Capítulo III. De la Integración de la Coordinación de Delegaciones y Direcciones y Atribuciones de sus Titulares
 
-III. Proporcionar apoyo y orientación legal a los migrantes chiapanecos.
-
-IV. Solicitar a Instituciones Públicas de Salud, el apoyo médico, así como promover en otras instancias, en los casos que se requieran, otro tipo de apoyo para los migrantes chiapanecos.
-
-V. Promover el respeto a los derechos humanos de los migrantes chiapanecos.
-
-VI. Implementar las acciones necesarias para proporcionar servicios con eficiencia y calidad en la atención al migrante chiapaneco.
-
-VII. Proporcionar el apoyo necesario cuando así se requiera, para el retorno a Chiapas de los migrantes que se albergan en el Módulo de Atención al Migrante Chiapaneco.
-
-VIII. Evaluar e informar el impacto de las acciones, proyectos y programas realizados en atención al migrante chiapaneco, para determinar la modificación o consolidación de estrategias en su desarrollo.
-
-IX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Secretario, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
-
-### Capítulo III. De la Integración de la Coordinación de Delegaciones Regionales y las Direcciones y Atribuciones de sus Titulares
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-Para el despacho de los asuntos, competencia de la Secretaría, los Titulares de la Coordinación de Delegaciones Regionales y las Direcciones, tendrán las atribuciones Generales siguientes:
+Para el despacho de los asuntos, competencia de la Secretaría, los Titulares de la Coordinación de Delegaciones y Direcciones, tendrán las atribuciones generales siguientes:
 
 I. Acordar con el Subsecretario de su adscripción, la resolución y despacho de los asuntos de su competencia e informar el avance de los mismos.
 
@@ -821,31 +827,47 @@ XXIV. Proponer al Subsecretario de su adscripción, la celebración de acuerdos 
 
 XXV. Las demás atribuciones que en el ámbito de su competencia les sean encomendadas por el Subsecretario de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 35.
 
-La Coordinación de Delegaciones Regionales, tendrá los Órganos Administrativos siguientes.
+La Coordinación de Delegaciones, tendrá los Órganos Administrativos siguientes:
 
-a) Delegación I Centro.
+a) Delegación I Metropolitana.
 
-b) Delegación II Altos.
+b) Delegación II Valles Zoque.
 
-c) Delegación III Fronteriza.
+c) Delegación III Mezcalapa.
 
-d) Delegación IV Fraylesca.
+d) Delegación IV De los Llanos.
 
-e) Delegación V Norte.
+e) Delegación V Altos Tsotsil-Tseltal.
 
-f) Delegación VI Selva.
+f) Delegación VI Frailesca.
 
-g) Delegación VII Sierra.
+g) Delegación VII De los Bosques.
 
-h) Delegación VIII Soconusco.
+h) Delegación VIII Norte.
 
 i) Delegación IX Istmo Costa.
 
+j) Delegación X Soconusco.
+
+k) Delegación XI Sierra Mariscal.
+
+1) Delegación XII Selva Lacandona.
+
+m) Delegación XIII Maya.
+
+n) Delegación XIV Tulijá Tseltal Chol.
+
+o) Delegación XV Meseta Comiteca Tojolabal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 36.
 
-El Titular de la Coordinación de Delegaciones Regionales, tendrá las atribuciones siguientes:
+El Titular de la Coordinación de Delegaciones, tendrá las atribuciones siguientes:
 
 I. Implementar en las Delegaciones, los lineamientos, acuerdos y demás normatividad que regule la operación y coordinación, en la ejecución de los programas y proyectos a cargo de la Secretaría.
 
@@ -1087,11 +1109,13 @@ V. Las demás atribuciones que en el ámbito de su competencia, le sean encomend
 
 ### Capítulo IV. De la Integración de las Delegaciones y Atribuciones de sus Titulares
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 53.
 
 Las Delegaciones, tendrán los Órganos Administrativos siguientes:
 
-I. Delegación I Centro:
+I. Delegación I Metropolitana:
 
 a) Oficina Administrativa.
 
@@ -1101,13 +1125,13 @@ c) Subdelegación Tuxtla Poniente.
 
 d) Subdelegación Chiapa de Corzo.
 
-e) Subdelegación Venustiano Carranza.
+II. Delegación II Valles Zoque.
 
-f) Subdelegación Cintalapa.
+III. Delegación III Mezcalapa.
 
-g) Subdelegación Copainalá.
+IV. Delegación IV De los Llanos.
 
-II. Delegación II Altos.
+V. Delegación V Altos Tsotsil-Tseltal:
 
 a) Oficina Administrativa.
 
@@ -1115,43 +1139,19 @@ b) Subdelegación San Cristóbal de Las Casas.
 
 c) Subdelegación Chamula.
 
-d) Subdelegación Tenejapa.
+VI. Delegación VI Frailesca.
 
-III. Delegación III Fronteriza.
+VII. Delegación VII De los Bosques.
 
-a) Oficina Administrativa.
+a) Subdelegación Pueblo Nuevo.
 
-b) Subdelegación Comitán.
-
-c) Subdelegación Margaritas.
-
-IV. Delegación IV Fraylesca.
-
-V. Delegación V Norte.
+VIII. Delegación VIII Norte:
 
 a) Oficina Administrativa.
 
-b) Subdelegación Pichucalco.
+IX. Delegación IX Istmo Costa.
 
-c) Subdelegación Bochil.
-
-d) Subdelegación Pueblo Nuevo.
-
-VI. Delegación VI Selva.
-
-a) Oficina Administrativa.
-
-b) Subdelegación Palenque.
-
-c) Subdelegación Ocosingo.
-
-d) Subdelegación Yajalón.
-
-VII. Delegación VII Sierra.
-
-a) Oficina Administrativa.
-
-VIII. Delegación VIII Soconusco.
+X. Delegación X Soconusco:
 
 a) Oficina Administrativa.
 
@@ -1161,15 +1161,35 @@ c) Subdelegación Cacahoatán.
 
 d) Subdelegación Huixtla.
 
-IX. Delegación IX Istmo-Costa.
+XI. Delegación XI Sierra Mariscal:
+
+a) Oficina Administrativa.
+
+XII. Delegación XII Selva Lacandona.
+
+XIII. Delegación XIII Maya:
+
+a) Oficina Administrativa.
+
+XIV. Delegación XIV Tulijá Tseltal Chol.
+
+XV. Delegación XV Meseta Comiteca Tojolabal:
+
+a) Oficina Administrativa.
+
+b) Subdelegación Margaritas.
 
 ###### Artículo 54.
 
 Los Titulares de las Delegaciones, tendrán las atribuciones siguientes:
 
-I. Proponer al Coordinador de Delegaciones Regionales, las normas, políticas y procedimientos en la materia que corresponda a la Delegación a su cargo.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
-II. Acordar con el Coordinador de Delegaciones Regionales, la resolución y despacho de los asuntos de su competencia, e informar el avance de los mismos.
+I. Proponer al Coordinador de Delegaciones, las normas, políticas y procedimientos en la materia que corresponda a la Delegación a su cargo.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+II. Acordar con el Coordinador de Delegaciones, la resolución y despacho de los asuntos de su competencia, e informar el avance de los mismos.
 
 III. Participar en la elaboración del marco normativo, para la operación de los programas y proyectos a cargo de la Secretaría.
 
@@ -1189,7 +1209,9 @@ X. Proponer el Anteproyecto de Presupuesto Anual de Egresos y el Programa Operat
 
 XI. Proporcionar los documentos, opiniones e informes de su competencia que les sean solicitados por los Órganos Administrativos de la Secretaría.
 
-XII. Proponer al Coordinador de Delegaciones Regionales el ingreso, promoción, remoción, cambio de adscripción comisiones y licencias del personal a su cargo.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XII. Proponer al Coordinador de Delegaciones el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal a su cargo;
 
 XIII. Otorgar las vacaciones e incidencias del personal a su cargo.
 
@@ -1199,7 +1221,9 @@ XV. Proponer el fortalecimiento estructural de los Órganos Administrativos y de
 
 XVI. Proponer y participar en la organización de cursos de capacitación y conferencias que se impartan al personal de la Secretaría.
 
-XVII. Desempeñar e informar el resultado de las comisiones y representaciones que le sean encomendadas por el Coordinador de Delegaciones Regionales, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XVII. Desempeñar e informar el resultado de las comisiones y representaciones que le sean encomendadas por el Coordinador de Delegaciones, en el ámbito de su competencia.
 
 XVIII. Vigilar que las actividades sean ejecutadas con eficacia, por el personal adscrito en cada uno de los Órganos Administrativos a su cargo.
 
@@ -1219,7 +1243,9 @@ XXV. Coordinar la ejecución de los programas y proyectos a cargo de la Secretar
 
 XXVI. Promover con los Gobiernos Municipales, en su respectiva circunscripción territorial, el desarrollo y la participación social, a través de las Asambleas de Barrios.
 
-XXVII. Proponer al Coordinador de Delegaciones Regionales, la celebración de acuerdos y convenios de colaboración, para el fortalecimiento de los servicios que proporciona la Secretaría.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXVII. Proponer al Coordinador de Delegaciones, la celebración de acuerdos y convenios de colaboración, para el fortalecimiento de los servicios que proporciona la Secretaría.
 
 XXVIII. Implementar los Lineamientos para la coordinación de los programas interinstitucionales, ejecutados en las Subdelegaciones adscritas a la Delegación a su cargo.
 
@@ -1229,15 +1255,21 @@ XXX. Vigilar que la evaluación de la ejecución de obras y acciones de los prog
 
 XXXI. Informar el avance físico y financiero de los programas y proyectos y demás acciones que se ejecuten en la Delegación a su cargo.
 
-XXXII. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por el Coordinador de Delegaciones Regionales, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2013)</small>
+
+XXXII. Las demás atribuciones que en el ámbito de su competencia, les sean encomendadas por el Coordinador de Delegaciones, así como las que confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(DEROGADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ## Título Cuarto. De los Órganos Desconcentrados de la Secretaría
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ### Capítulo Único. Del Instituto Estatal de la Juventud
 
 ###### Artículo 55.
 
-La Secretaría contará con el Órgano Desconcentrado jerárquicamente subordinado a ésta, denominado Instituto Estatal de la Juventud, el cual tendrá las atribuciones que se establezcan en su Decreto de Creación, Reglamento Interior y demás disposiciones legales y administrativas aplicables.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2013)
 
 ## Título Quinto. De las Suplencias de los Servidores Públicos
 
@@ -1247,25 +1279,33 @@ La Secretaría contará con el Órgano Desconcentrado jerárquicamente subordina
 
 Las ausencias temporales del Secretario, serán suplidas por el servidor público que éste designe.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 57.
 
-Los Titulares de las Unidades, Coordinación de Análisis de Gestión, Subsecretarías y Módulo de Atención al Migrante Chiapaneco, serán suplidos en sus ausencias temporales por el servidor público que designe el Secretario.
+Los Titulares de las Unidades, Coordinación de Análisis de Gestión y Subsecretarías, serán suplidos en sus ausencias temporales por el servidor público que designe el Secretario.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 58.
 
-Los Titulares de la Coordinación de Delegaciones Regionales y Direcciones, serán suplidos en sus ausencias temporales por el servidor público que designe el Subsecretario de su adscripción, previa aprobación del Secretario.
+Los Titulares de la Coordinación de Delegaciones y Direcciones, serán suplidos en sus ausencias temporales por el servidor público que designe el Subsecretario de su adscripción, previa aprobación del Secretario.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 59.
 
-Los Titulares de las Delegaciones, serán suplidos en sus ausencias temporales por el servidor público que designe el Coordinador de Delegaciones Regionales, previa aprobación del Subsecretario de su adscripción.
+Los Titulares de las Delegaciones, serán suplidos en sus ausencias temporales por el servidor público que designe el Coordinador de Delegaciones, previa aprobación del Subsecretario de su adscripción.
 
 ###### Artículo 60.
 
 Los Titulares de las Áreas y Departamentos, serán suplidos en sus ausencias temporales por el servidor público que designe el Jefe de Unidad o Director de su adscripción.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 61.
 
-Los Titulares de las Oficinas Administrativas y de las Subdelegaciones, serán suplidos en sus ausencias temporales por el servidor público que designe el Titular de la Delegación de su adscripción, previa aprobación del Coordinador de Delegaciones Regionales.
+Los Titulares de las Oficinas Administrativas y de las Subdelegaciones, serán suplidos en sus ausencias temporales por el servidor público que designe el Titular de la Delegación de su adscripción, previa aprobación del Coordinador de Delegaciones.
 
 T r a n s i t o r i o s
 
@@ -1288,3 +1328,19 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley 
 Dado en Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el cinco de agosto de dos mil once.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Samuel Toledo Córdova Toledo, Secretario de Desarrollo y Participación Social.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Decreto, y se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Decreto.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
