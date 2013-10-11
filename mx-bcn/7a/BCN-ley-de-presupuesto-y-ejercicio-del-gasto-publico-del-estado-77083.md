@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2013-05-03"
+last_updated: "2013-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -575,7 +575,9 @@ De las Modificaciones a los Presupuestos de Egresos.
 
 Si algunas partidas presupuestales requieren modificarse para adecuar su disponibilidad durante la vigencia del Presupuesto de Egresos, se estará a lo siguiente:
 
-I. El Ejecutivo del Estado solicitará por conducto de la Secretaría de Planeación y Finanzas, la autorización del Congreso del Estado para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado a la Administración Pública Centralizada del Poder Ejecutivo, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+I. El Ejecutivo del Estado solicitará por conducto de la Secretaría de Planeación y Finanzas, la autorización del Congreso del Estado, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, al Órgano de Fiscalización Superior del Estado, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado a la Administración Pública Centralizada del Poder Ejecutivo, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen:
 
 a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y capítulo en el Presupuesto de Egresos respectivo, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio.
 
@@ -587,7 +589,9 @@ El Congreso del Estado, resolverá lo procedente, dentro de los treinta días si
 
 Los Titulares de las Entidades Paraestatales ejercerán las modificaciones presupuestales una vez que, en su caso, les hayan sido aprobadas por el Ejecutivo del Estado, debiendo remitir al Congreso del Estado, dentro de los 15 días siguientes a su aprobación, por conducto de la Secretaría de Planeación y Finanzas, la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado, para conocimiento y revisión de la Cuenta Pública. Misma obligación tendrán cuando se trate de partidas de ampliación automática.
 
-II. El Titular del Poder Judicial solicitará al Congreso del Estado la autorización correspondiente para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+II. El Titular del Poder Judicial solicitará al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, al Órgano de Fiscalización Superior del Estado, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
 En los casos en que se solicite ampliar el presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera de la propuesta.
 
@@ -615,7 +619,9 @@ c) Cuando se trate de partidas de ampliación automática a las que se refiere e
 
 El Ayuntamiento resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Ayuntamiento dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, así como en caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de la Autoridad competente, imposibilite el debido desarrollo y cumplimiento de las labores que realiza el Ayuntamiento; quedando en suspenso el plazo para su resolución hasta en tanto se reanuden las labores, mismo que no deberá exceder de treinta días naturales, para lo cual, el Ayuntamiento a través de la Comisión correspondiente, deberá notificar a la entidad la reactivación del cómputo del plazo para la resolución de su solicitud. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Ayuntamiento resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio. Las modificaciones, y en su caso, la certificación del Acuerdo del Ayuntamiento en que se autoricen, deberán ser remitidas dentro de los quince días siguientes al Congreso del Estado para su conocimiento y efectos de revisión de la Cuenta Pública.
 
-V. Los Órganos Autónomos, por conducto de su Titular, solicitarán al Congreso del Estado la autorización correspondiente para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+V. Los Órganos Autónomos, por conducto de su Titular, solicitarán al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, al Órgano de Fiscalización Superior del Estado, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada.
 
 Tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos del Presupuesto de Egresos, sólo deberá dar aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio de ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
@@ -1236,3 +1242,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 La obligación de incluir la información financiera correspondiente a los seis años previos al ejercicio fiscal en curso, a que se refiere el segundo párrafo del Artículo 92 QUARTER (SIC) de esta Ley, iniciará a partir de las fechas previstas en el Artículo Transitorio Cuarto de la Ley General de Contabilidad Gubernamental, y así sucesivamente hasta incluir la información de los seis ejercicios fiscales.
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
