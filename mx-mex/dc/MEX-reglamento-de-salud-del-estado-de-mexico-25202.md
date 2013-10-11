@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2013-09-10"
+last_updated: "2013-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
-REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
+REGLAMENTO DE SALUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -125,17 +125,29 @@ XX. Servicios públicos a la población en general: los que se presten en establ
 
 XXI. Usuario de servicios de salud: toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en este Reglamento y demás disposiciones aplicables.
 
-XXII. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
 
-XXIII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (F. DE E., G.G. 24 DE MARZO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+XXII. Consejo: al Consejo Rector de Impacto Sanitario del Estado de México.
 
-XXIV. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
 
-XXV. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+XXIII. Comité: al Comité Municipal para la Protección contra Riesgos Sanitarios del municipio donde se encuentre el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo.
 
-XXVI. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
 
-XXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
+XXIV. Licencia de Funcionamiento: al documento oficial emitido por los Ayuntamientos del Estado de México, en los que conste la autorización para que en el establecimiento correspondiente se realicen las actividades que le sean permitidas con base en las disposiciones legales a que haya lugar, siempre y cuando de manera previa se cumplan con los requisitos necesarios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+XXV. Presidente: al Presidente del Consejo Rector de Impacto Sanitario del Estado de México.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+XXVI. Secretario: al Secretario Técnico del Consejo Rector de Impacto Sanitario del Estado de México.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+XXVII. Vocales: a los Vocales del Consejo Rector de Impacto Sanitario del Estado de México.
 
 XXVIII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
 
@@ -157,9 +169,39 @@ XXXVI. (DEROGADA, G.G. 10 DE JUNIO DE 2013)
 
 XXXVII. (DEROGADA, G.G. 31 DE ENERO DE 2005) (DEROGADA, G.G. 10 DE JUNIO DE 2013)
 
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 3.
 
-La aplicación de este reglamento compete a la Secretaría y al Instituto.
+La aplicación de este reglamento compete a la Secretaría, al Instituto y al Consejo, en su caso.
+
+En lo relativo a la regulación, control y fomento sanitarios compete a la COPRISEM, como órgano desconcentrado de la Secretaría de Salud del Estado de México:
+
+I. Dirigir, ejercer, controlar y evaluar las funciones de regulación, control y fomento sanitarios que le corresponden a la Secretaría en materia de Salubridad General de conformidad con los acuerdos de coordinación suscritos entre la Federación y el Estado, así como de Salubridad local, en términos de lo establecido por el Código Administrativo.
+
+II. Representar al Estado de México dentro del Sistema Federal Sanitario, con todas las facultades que conforme a la normativa aplicable le competan.
+
+III. Conducir la Política Estatal en materia de Protección contra Riesgos Sanitarios, ejerciendo las acciones de regulación, control y fomento sanitarios correspondientes, para prevenir y reducir los riesgos sanitarios derivados del uso o consumo de productos y servicios, de actividades laborales y de concentraciones masivas, así como de la exposición de la población a factores químicos, físicos y biológicos.
+
+IV. Dictar y ejecutar medidas de emergencia sanitaria, siempre que se encuentre en riesgo la salud pública.
+
+V. Aplicar, fomentar, difundir y vigilar el cumplimiento de la Ley y sus reglamentos, del Código Administrativo, de las Normas Oficiales Mexicanas y demás ordenamientos técnicos y jurídicos, en materia de regulación, control y fomento sanitarios.
+
+VI. Expedir las normas técnicas Estatales, así como los proyectos de Reglamentos que se requieran en materia de Salubridad Local.
+
+VII. Expedir certificados oficiales de la condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia.
+
+VIII. Emitir, prorrogar o revocar las autorizaciones sanitarias en las materias de su competencia, así como ejercer aquellos actos de autoridad que para la regulación, control y fomento sanitarios se establecen o deriven de la Ley y sus reglamentos, el Código Administrativo del Estado de México, el Reglamento de Salud de la entidad, los acuerdos de coordinación, las Normas Oficiales Mexicanas y demás ordenamientos jurídicos aplicables.
+
+IX. Imponer sanciones administrativas por el incumplimiento de disposiciones de la Ley y sus reglamentos, del Código Administrativo, de las Normas Oficiales Mexicanas y demás ordenamientos técnicos y jurídicos, en materia de regulación, control y fomento sanitarios, así como determinar medidas de seguridad, preventivas y correctivas, conforme el procedimiento que establecen las disposiciones en la materia, los reglamentos respectivos, las leyes supletorias y remitir a las autoridades fiscales competentes las resoluciones que impongan sanciones económicas para que se hagan efectivas a través del procedimiento administrativo de ejecución.
+
+X. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría, en la instrumentación de las acciones de prevención, control de enfermedades y de vigilancia epidemiológica, cuando ésas se relacionen con los riesgos sanitarios derivados de los procesos, productos, métodos, instalaciones, servicios o actividades en las materias competencia de la COPRISEM.
+
+XI. Coordinar la participación de los sectores público, social y privado para el desarrollo de las acciones no regulatorias y de fomento sanitario.
+
+XII. Promover la investigación en materia de Protección contra Riesgos Sanitarios.
+
+XIII. Las demás que señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO, G.G. 10 DE JUNIO DE 2013)</small>
 
@@ -169,9 +211,21 @@ Las relaciones de trabajo entre el Instituto y sus trabajadores y en su caso, en
 
 La "COPRISEM" y el Instituto, en su caso, aplicarán y respetarán las condiciones generales de trabajo de la Secretaría de Salud del Gobierno Federal, así como los reglamentos de escalafón y capacitación para controlar y estimular al personal de base de la propia Secretaría, por su asistencia, puntualidad y permanencia en el trabajo, para evaluar y estimular al personal de la dependencia federal por su productividad en el trabajo y el de becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud Federal, para que procedan a su registro ante los organismos jurisdiccionales correspondientes, con el propósito de que se apliquen en las controversias que se diriman por la autoridad jurisdiccional.
 
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 5.
 
-(DEROGADO, G.G. 31 DE ENERO DE 2005)
+La COPRISEM tendrá únicamente autonomía administrativa, técnica y operativa y su presupuesto estará constituido por:
+
+I. Las asignaciones que establezca la Ley de Ingresos y el Presupuesto de Egresos del Estado de México.
+
+II. Los recursos financieros que le sean asignados, así como aquellos que, en lo sucesivo, se destinen a su servicio.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 5 Bis.
+
+Al frente de la COPRISEM estará un Comisionado Estatal, el cual será nombrado por el Gobernador Constitucional, a propuesta del Secretario de Salud, a quien le corresponderá la supervisión de este órgano desconcentrado.
 
 ### CAPITULO II. DEL CONSEJO DE SALUD DEL ESTADO
 
@@ -754,6 +808,54 @@ IX. Área de desechos sólidos y líquidos, según la norma técnica estatal cor
 X. Área exclusiva equipada con incinerador, para destrucción de los animales no aptos para el consumo humano, conforme a la norma técnica estatal.
 
 XI. Área de servicios sanitarios que cuenten con regadera, lavabos y excusados, conforme a la norma técnica estatal.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 89 Bis.
+
+Para los efectos de este Título, los establecimientos que vendan o suministren bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo, se clasifican en:
+
+I. DE SERVICIOS:
+
+a) Fondas, taquerías, loncherías, cocinas económicas, ostionerías, pizzerías, con venta de bebidas alcohólicas hasta de 12° G.L.
+
+b) Cafeterías, restaurantes con venta de bebidas alcohólicas hasta 12° G. L.
+
+c) Fondas, taquerías, loncherías, cocinas económicas, ostionerías, pizzerías, con venta de bebidas alcohólicas al copeo.
+
+d) Restaurantes-bar con venta de bebidas alcohólicas al copeo.
+
+e) Bares, cantinas y centros bataneros con venta de bebidas alcohólicas al copeo.
+
+f) Hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes y otros establecimientos que presten servicios de esta naturaleza con venta de bebidas alcohólicas en botella cerrada o al copeo.
+
+g) Centros cerveceros.
+
+h) Pulquerías.
+
+i) Pulquerías con venta de cerveza.
+
+II. DE DIVERSIÓN Y ESPECTÁCULOS PÚBLICOS:
+
+a) Billares y boliches, con venta de bebidas alcohólicas hasta de 12º G.L. para consumo en el lugar.
+
+b) Billares y boliches, con venta de bebidas alcohólicas al copeo.
+
+c) Video-bares, restaurantes-bares con pista de baile y cafés-cantantes, con venta de bebidas alcohólicas al copeo.
+
+d) Locales destinados a actividades deportivas o culturales, salones de fiestas y jardines para eventos sociales en donde se vendan bebidas alcohólicas en botella abierta o al copeo para consumo en el lugar.
+
+e) Salones de baile, con venta de bebidas alcohólicas al copeo.
+
+f) Establecimientos o puestos provisionales ubicados en ferias o palenques, con venta de bebidas alcohólicas al copeo.
+
+g) Establecimientos o puestos provisionales ubicados en bailes u otros eventos con fines de lucro, con venta de bebidas alcohólicas al copeo por evento.
+
+h) Discotecas, cabarets y centros nocturnos con venta de bebidas alcohólicas al copeo.
+
+i) Puestos provisionales ubicados en forma periódica, en centros y campos deportivos con venta de bebidas alcohólicas de hasta 12° G.L. para consumo en el lugar.
+
+Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel que por sus características le sea más semejante.
 
 ### CAPITULO III. DE LOS VEHICULOS
 
@@ -2187,95 +2289,93 @@ Para la prestación de los servicios de atención médica a su cargo, los organi
 
 Los organismos públicos descentralizados prestarán los servicios de atención médica, preferentemente a la población que no se encuentre en algún régimen de seguridad social.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
-## TÍTULO DÉCIMO OCTAVO
+## TÍTULO DÉCIMO OCTAVO. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 311.
 
-El Consejo Rector de Impacto Sanitario es el órgano colegiado de la Secretaría, facultado para emitir el Dictamen de Factibilidad para la autorización y el refrendo, que a su vez, requieren del permiso sanitario, a que se refiere el artículo 2.65 fracción IV del Código.
+El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir el Dictamen de Factibilidad de Impacto Sanitario para la solicitud y refrendo que realice el ayuntamiento para la licencia de funcionamiento que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
 
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 312.
 
-El Consejo Rector de Impacto Sanitario tendrá como objeto:
+Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
-I. Emitir el dictamen de factibilidad, necesario para que los ayuntamientos y autoridades sanitarias de la Entidad, expidan, dentro de sus atribuciones y competencias, las licencias y permisos que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas, para su debido funcionamiento.
+I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, necesario para que los ayuntamientos de la entidad, expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo para su debido funcionamiento.
 
-II. Documentarse y hacer el diagnóstico de la situación que prevalece en materia del funcionamiento de establecimientos mercantiles con venta o suministro de bebidas alcohólicas en la Entidad, y su impacto sanitario en la comunidad.
+II. Elaborar el diagnóstico de la situación que prevalece en materia del funcionamiento de establecimientos mercantiles con venta o suministro de bebidas alcohólicas en la entidad, y su impacto sanitario en la comunidad, debiéndose allegar de la información correspondiente.
 
-III. Proponer programas y acciones tendientes a combatir el alcoholismo, su adicción y violencia que su consumo genera, principalmente entre jóvenes y menores de edad, y apoyar su ejecución.
+III. Proponer programas y acciones tendientes a combatir el alcoholismo, su adicción y la violencia, que su consumo genera principalmente entre jóvenes y menores de edad, y apoyar su ejecución.
 
-IV. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado, para el fomento de una nueva cultura para combatir al alcoholismo y sus efectos sociales.
+IV. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal y de los sectores social y privado, para el fomento de una nueva cultura para combatir al alcoholismo y sus efectos sociales.
 
 V. Proponer la actualización del marco jurídico de la materia.
 
-VI. Crear grupos de apoyo regionales, para atender los asuntos relacionados con el otorgamiento de licencias o permisos que deban otorgarse a los establecimientos mercantiles para su debido funcionamiento, una vez que estos han cumplido cabalmente con los requisitos y medidas para ese efecto.
+VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de la ciudadanía a los servicios que brinda.
 
-VII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
+VII. Crear oficinas regionales para la expedición del Dictamen de Factibilidad de Impacto Sanitario.
 
-VIII.- Realizar la demás acciones necesarias para el cumplimiento de su objeto.
+VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
+
+IX. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 313.
 
-El Consejo Rector de Impacto Sanitario se integrará de la siguiente forma:
+El Consejo se integrará de conformidad en lo establecido en el artículo 2.48 Ter del Código.
 
-I. Un Presidente, que será el titular de la Coordinación de Regulación Sanitaria del Instituto de Salud del Estado de México.
+La designación de los vocales descritos en la fracción III del artículo señalado en el párrafo que antecede, será realizada por los Secretarios de Seguridad Ciudadana, Educación, Desarrollo Económico, Medio Ambiente y por el Director del Instituto Mexiquense contra las Adicciones, respectivamente. Para lo cual, el Presidente del Consejo, a través del Secretario Técnico enviará un oficio solicitando se realice la designación correspondiente.
 
-II. Un Secretario Técnico, que será nombrado por el Presidente.
+Para seleccionar a los invitados que integren el Consejo, el Secretario Técnico a propuesta del Secretario de Salud, invitará a un representante:
 
-III. Nueve Vocales, quienes serán:
+a) De la sociedad civil.
 
-- Dos empresarios.
+b) Del sector empresarial y de las cámaras de comercio.
 
-- Tres académicos.
+c) De las asociaciones de colonos.
 
-- Dos asociaciones civiles interesada en el tema.
+d) De la Comisión de Derechos Humanos del Estado de México o de la Defensoría Municipal de Derechos Humanos.
 
-- Un miembro de una asociación de colonos.
+e) De las asociaciones de padres de familia del sector educativo.
 
-- Un visitador o persona relacionada con el tema de derechos humanos.
+Las invitaciones que se realicen a los representantes enlistados en los incisos que anteceden, se realizarán vía oficio.
 
-Para seleccionar a los vocales que integren el Consejo Rector de Impacto Sanitario, el Secretario Técnico, a propuesta del Secretario de Salud, invitará de entre los directores de escuelas de medicina de instituciones académicas de nivel superior, a dos vocales; de entre las asociaciones civiles interesadas en el tema, a dos vocales; de entre las asociaciones de colonos, a dos vocales; a dos expertos de regulación sanitaria de la Secretaría de Salud; e invitará a participar como tal, a un visitador o persona relacionada con el tema de derechos humanos.
+En tanto, la invitación que se realice al representante del ayuntamiento de cuyo territorio se pretenda emitir el Dictamen de Factibilidad de Impacto Sanitario, se realizará por conducto del Secretario Técnico a través de la publicación que se realice en el periódico oficial "Gaceta del Gobierno" diario de mayor circulación, vía oficio o por el sistema informático que establezca el Consejo para tal efecto.
 
-El cargo de miembro del Consejo Rector de Impacto Sanitario será honorifico y habrá un suplente que integre el Consejo en caso de ausencias de los titulares.
-
-Las determinaciones del Consejo Rector de Impacto Sanitario se acordarán por mayoría de votos, para lo cual, el Secretario Técnico contará únicamente con voz. El Presidente, en caso de empate, contará con voto de calidad.
-
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 314.
 
-El Consejo Rector de Impacto Sanitario sesionará de manera ordinaria y extraordinaria, previa convocatoria emitida para tal efecto, cuando se tenga quórum legal, encontrándose presentes, necesariamente, el Presidente y el Secretario y que además, exista mayoría simple de sus miembros.
+El Consejo sesionará de manera ordinaria y extraordinaria, previa convocatoria emitida para tal efecto, cuando se tenga quórum legal, encontrándose presentes, necesariamente, el Presidente y el Secretario o sus suplentes y que además, exista mayoría simple de sus integrantes.
 
-Para el caso de que en la sesión ordinaria o extraordinaria de que se trate, no exista el Quórum a que alude el párrafo que antecede, el Presidente, por conducto del Secretario, realizará una segunda convocatoria para que se celebre a la misma hora del día siguiente, considerándose legalmente instalada la sesión.
+Para el caso de que en la sesión ordinaria o extraordinaria de que se trate, no exista el Quórum a que alude el párrafo que antecede, el Presidente, por conducto del Secretario, realizará un receso para que se reanude la celebración pasado el término de una hora, considerándose legalmente instalada la sesión.
 
-La convocatoria a las sesiones ordinarias la realizará el Presidente por conducto del Secretario, debiendo éste adjuntar a la convocatoria la carpeta que contenga el orden del día y en su caso la documentación necesaria que apoye los puntos a tratar, cuando menos con cinco días naturales de anticipación.
+La convocatoria a las sesiones ordinarias la realizará el Presidente por conducto del Secretario, debiendo éste adjuntar a la convocatoria la carpeta que contenga el orden del día y en su caso la documentación necesaria que apoye los puntos a tratar, cuando menos con tres días naturales de anticipación.
 
-Tratándose de sesiones extraordinarias, la convocatoria la realizará el Presidente, a través del Secretario, adjuntando el orden del día y la carpeta del punto a tratar.
+Tratándose de sesiones extraordinarias, la convocatoria la realizará el Presidente, a través del Secretario, adjuntando el orden del día y la carpeta de los puntos a tratar.
 
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 315.
 
-La carpeta de sesión ordinaria o extraordinaria según el caso, se integrará con lo siguiente:
+La carpeta de la sesión ordinaria o extraordinaria según el caso, se integrará con lo siguiente:
 
-I. La indicación del número de la sesión ordinaria o extraordinaria a realizarse.
+I. Indicación del número de la sesión ordinaria o extraordinaria a realizarse.
 
-II. La fecha, lugar y hora en que se realizará la sesión.
+II. Fecha, lugar y hora en que se realizará la sesión.
 
 III. Orden del día.
 
@@ -2289,95 +2389,103 @@ VII. Asuntos en cartera.
 
 VIII. Asuntos generales.
 
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 316.
+
 En el desarrollo de las sesiones se observará:
 
 I. Iniciar con la lista de asistencia y la declaración del quórum legal, hecho lo cual se procederá al desahogo del orden del día.
 
-II. Los debates se ajustarán a los asuntos previstos en el orden del día. Los integrantes del Consejo Rector de Impacto Sanitario, podrán analizar o discutir cualquier asunto no especificado en la convocatoria cuando así lo aprueben.
+II. Los debates se ajustarán a los asuntos previstos en el orden del día. Los integrantes del Consejo podrán analizar o discutir cualquier asunto no especificado en la convocatoria cuando así lo aprueben.
 
 III. El Secretario redactará el acta de cada sesión.
 
 El acta de sesión deberá contener:
 
-I. La sesión de que se trate.
+I. El lugar, fecha y hora de su inicio.
 
-II. El lugar, fecha y hora de su inicio.
+II. El desahogo de los puntos del orden del día y los acuerdos tomados, señalando si fueron tomados por mayoría de votos o por unanimidad.
 
-II. El desahogo de los puntos del orden del día y los acuerdos tomados, señalando si fueron tomados por mayoría de lotes o por unanimidad.
+III. La hora de conclusión.
 
-IV. La hora de conclusión.
-
-V. Los nombres, cargos y firmas de los integrantes titulares o suplentes que hayan asistido a la sesión de que se trate.
+IV. Los nombres, cargos y firmas de los integrantes titulares o suplentes que hayan asistido a la sesión de que se trate.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
 
-###### Artículo 316.
+### CAPÍTULO III. DE LAS FUNCIONES DE LOS INTEGRANTES DEL CONSEJO RECTOR DE IMPACTO SANITARIO
+
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 317.
 
 El Presidente tendrá como funciones:
 
-I. Representar al Consejo Rector de Impacto Sanitario.
+I. Representar al Consejo.
 
 II. Presidir y conducir las sesiones ordinarias y extraordinarias.
 
-III. Concertar y celebrar convenios y acuerdos con los sectores públicos del Estado y Municipios, y con los del sector social y privado.
+III. Concertar y celebrar convenios y acuerdos con los sectores públicos del Estado y municipios, y con los del sector social y privado.
 
-IV. Rendir ante el Consejo Rector de Impacto Sanitario, informe por escrito de sus actividades al término de su gestión.
+IV. Rendir ante el Consejo, informe por escrito de sus actividades al término de su gestión.
 
-V. Conocer de los nombramientos de los suplentes integrantes del Consejo Rector de Impacto Sanitario.
+V. Conocer de los nombramientos de los suplentes integrantes del Consejo.
 
-VI. Convocar a los integrantes del Consejo Rector de Impacto Sanitario, a las sesiones ordinarias y extraordinarias.
+VI. Convocar a los integrantes e invitados del Consejo, a las sesiones ordinarias y extraordinarias.
 
-VII. Invitar a las sesiones, solo con derecho a voz, a personas que sean académicos e investigadores especialistas en la materia, y de organismos no gubernamentales, del sector empresarial o cualquier otra del sector público o privado que juzgue conveniente.
+VII. Delegar al Secretario Técnico la atribución de firmar los dictámenes de factibilidad de impacto sanitario emitidos por el Consejo.
 
-VIII. Validar el contenido de las carpetas de las sesiones, que le sean presentadas para su consideración por parte del Secretario.
+VIII. Validar el contenido de las carpetas de las sesiones, que le sean presentadas para su consideración por parte de (sic) Secretario Técnico.
 
-IX. Recibir las mociones de orden planteadas por los integrantes del Consejo Rector de Impacto Sanitario y decidir la procedencia o no de las mismas.
+IX. Recibir las mociones de orden planteadas por los integrantes del Consejo y decidir la procedencia o no de las mismas.
 
-X. Resolver las diferencias de opinión que se presenten entre los integrantes del Consejo Rector de Impacto Sanitario.
+X. Resolver las diferencias de opinión que se presenten entre los integrantes del Consejo.
 
-XI. Emitir voto de calidad en caso de empate, en los asuntos sometidos a la aprobación del Consejo Rector de Impacto Sanitario.
+XI. Emitir voto de calidad en caso de empate, en los asuntos sometidos a la aprobación del Consejo.
 
-XII. Verificar que el Secretario técnico dé cabal cumplimiento de los acuerdos tomados por el Consejo Rector de Impacto Sanitario.
+XII. Verificar que el Secretario Técnico dé cabal cumplimiento de los acuerdos tomados por el Consejo.
 
 XIII. Declarar la existencia del quórum legal en las sesiones ordinarias y extraordinarias.
 
 XIV. Firmar las actas de cada sesión.
 
-XV. Informar de manera bimestral o cuando se considere necesario, al Secretario de Salud, de las actividades realizadas por el Consejo Rector de Impacto Sanitario.
+XV. Informar de manera trimestral o cuando se considere necesario, al Secretario de Salud, de las actividades realizadas por el Consejo.
 
-XVI. Las demás que estén relacionadas con los fines y objetivos del Consejo Rector de Impacto Sanitario y que le confieran otros ordenamientos legales.
+XVI. Comunicar al solicitante la resolución del Dictamen de Factibilidad de Impacto Sanitario o en su caso delegar dicha función.
 
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+XVII. Ordenar visitas de verificación para vigilar el debido cumplimiento del Dictamen de Factibilidad de Impacto Sanitario.
 
-Artículo 317, Los vocales del Consejo Rector de Impacto Sanitario, tendrán como funciones:
+XVIII. Las demás que estén relacionadas con los fines y objetivos del Consejo y que le confieran otros ordenamientos legales.
 
-I. Asistir a las sesiones ordinarias y extraordinarias que convoque el Presidente.
-
-II. Proponer al Secretario aquellos asuntos que consideren deban incluirse en el orden del día de las sesiones del Consejo Rector de Impacto Sanitario.
-
-III. Participar con voz y voto en las sesiones del Órgano.
-
-IV. Proponer al Presidente, los lineamientos y Procedimientos que consideren necesarios para el adecuado funcionamiento del Órgano.
-
-V. Dar cumplimiento a los acuerdos tomados en las sesiones e informar sobre los mismos al Presidente.
-
-VI. Firmar las actas de las sesiones.
-
-VII. Las demás que estén relacionadas con los fines y objetivos del Consejo Rector de Impacto Sanitario y que, en tal caso, les confieran otros ordenamientos legales.
-
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
-
-### CAPÍTULO III. DE LAS FUNCIONES DE LOS INTEGRANTES DEL CONSEJO RECTOR DE IMPACTO SANITARIO
-
-> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 318.
 
+Los Vocales del Consejo tendrán como funciones:
+
+I. Asistir a las sesiones ordinarias y extraordinarias que convoque el Presidente.
+
+II. Proponer al Secretario aquellos asuntos que consideren deban incluirse en el orden del día de las sesiones del Consejo.
+
+III. Participar con voz y voto en las sesiones del Órgano.
+
+IV. Proponer al Presidente, los lineamientos y procedimientos que consideren necesarios para el adecuado funcionamiento del Órgano.
+
+V. Dar cumplimiento a los acuerdos tomados en las sesiones e informar sobre los mismos al Presidente.
+
+VI. Firmar las actas de las sesiones correspondientes, validando el otorgamiento o rechazo del Dictamen de Factibilidad de Impacto Sanitario y demás acuerdos que se hayan tomado.
+
+VII. Las demás que estén relacionadas con los fines y objetivos del Consejo y que, en tal caso, les confieran otros ordenamientos legales.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 319.
+
 El Secretario Técnico tendrá como atribuciones:
 
-I. Ejecutar las acciones que le instruya el Presidente para el adecuado funcionamiento del Consejo Rector de Impacto Sanitario.
+I. Ejecutar las acciones que le instruya el Presidente para el adecuado funcionamiento del Consejo.
 
-II. Integrar y entregar las carpetas de la sesión correspondiente a los integrantes del Consejo Rector de Impacto Sanitario.
+II. Integrar y entregar las carpetas de la sesión correspondiente a los integrantes del Consejo.
 
 III. Asistir a las sesiones ordinarias y extraordinarias.
 
@@ -2387,19 +2495,113 @@ V. Realizar el escrutinio de votos durante las sesiones.
 
 VI. Elaborar el acta de cada sesión.
 
-VII. Dar seguimiento a los acuerdos generados en las sesiones ordinarias y extraordinarias del Consejo Rector de Impacto Sanitario, para verificar su cumplimiento.
+VII. Dar seguimiento a los acuerdos generados en las sesiones ordinarias y extraordinarias del Consejo, para verificar su cumplimiento.
 
-VIII. Presentar al Consejo Rector de Impacto Sanitario, para su aprobación, en la última sesión del ejercicio, el calendario para la celebración de las sesiones ordinarias del ejercicio siguiente.
+VIII. Presentar al Consejo, para su aprobación, en la última sesión del ejercicio, el calendario para la celebración de las sesiones ordinarias del ejercicio siguiente.
 
-IX. Diseñar y establecer un sistema que permita alimentar la información generada por los integrantes del Consejo Rector de Impacto Sanitario, informando de los resultados obtenidos al Presidente.
+IX. Diseñar y establecer un sistema que permita alimentar la información generada por los integrantes del Consejo, informando de los resultados obtenidos al Presidente.
 
-X. Crear y mantener actualizado el directorio de los integrantes titulares y suplentes del Consejo Rector de Impacto Sanitario.
+X. Crear y mantener actualizado el directorio de los integrantes titulares y suplentes del Consejo.
 
-XI. Brindar asesoría técnica a los Integrantes del Consejo Rector de Impacto Sanitario que así lo requieran.
+XI. Brindar asesoría técnica a los Integrantes del Consejo que así lo requieran.
 
-XII. Resguardar las actas de las sesiones y de toda la documentación inherente a las actividades que realice el Consejo Rector de Impacto Sanitario.
+XII. Resguardar las actas de las sesiones y de toda la documentación inherente a las actividades que realice el Consejo.
 
-XIII. Las demás que estén relacionadas con sus fines y objetivos, y que le confieran otros ordenamientos legales.
+XIII. Firmar por instrucción del Presidente, los dictámenes de factibilidad de impacto sanitario y demás documentos relacionados con los fines y objetivos, que le sean delegados.
+
+XIV. Las demás que estén relacionadas con sus fines y objetivos, y que le confieran otros ordenamientos legales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO IV. DE LA TRAMITACIÓN DEL DICTAMEN DE FACTIBILIDAD DE IMPACTO SANITARIO
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 320.
+
+Las solicitudes de Dictamen de Factibilidad de Impacto Sanitario, contendrán los datos siguientes:
+
+a) Datos del interesado y del establecimiento.
+
+b) Denominación o razón social del establecimiento.
+
+c) Registro Federal de Contribuyentes.
+
+d) Nombre del propietario, apoderado o representante legal.
+
+e) Domicilio comercial (calle, número, colonia, municipio, código postal y entre que calles se encuentra ubicado).
+
+f) Giro comercial.
+
+g) Actividad (es) preponderante (s) y en su caso, actividad (es) complementaria (s).
+
+h) Días y horario de funcionamiento.
+
+i) Número de mesas.
+
+j) Número de trabajadores.
+
+k) Número de baños.
+
+1) Número de cajones de estacionamiento.
+
+m) Número telefónico.
+
+n) Correo electrónico.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 321.
+
+Los trámites dirigidos al Consejo deberán presentarse ante la oficina regional denominada Comité Municipal de Protección contra Riesgos Sanitarios del Ayuntamiento donde se ubique o pretenda ubicar el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo, sirviendo como ventanilla la oficina que al efecto designen las autoridades municipales o en su caso a través del sistema informático que para tal efecto establezca el Consejo.
+
+Dicho Comité, para su mejor funcionamiento, podrá formar subcomités encargados de recibir, revisar, validar y remitir al Consejo, los trámites de solicitud para la obtención del Dictamen de Factibilidad de Impacto Sanitario, para lo cual, los presidentes municipales correspondientes, podrán designar a un representante que dirija dicho subcomité, además deberán contar con un representante de regulación sanitaria o de la Comisión para la Protección contra Riesgos Sanitarios, un representante Municipal de Derechos Humanos y un representante de las asociaciones de colonos o consejos de participación ciudadana.
+
+Para el caso de que la solicitud se presente a través del sistema informático respectivo, los usuarios deberán apersonarse ante la oficina designada por las autoridades municipales con la finalidad de que se realice el cotejo de los documentos presentados en forma electrónica y se le genere un identificador que le permita continuar con su trámite, previa cita que para tal efecto se genere, misma que no excederá de los 5 días hábiles siguientes al ingreso de su solicitud, si en este lapso el usuario no acude, se tendrá por no presentada.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 322.
+
+Las solicitudes de trámites que ingresen a través del Sistema Único de Gestión Empresarial serán remitidas al Comité Municipal para la Protección Contra Riesgos Sanitarios del ayuntamiento competente.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 323.
+
+Los comités o subcomités municipales para la Protección contra Riesgos Sanitarios, sesionarán a más tardar el segundo miércoles del mes corriente o hábil siguiente con la finalidad de analizar, revisar e integrar las solicitudes y los documentos necesarios que hayan sido recibidos en el mes próximo anterior a la sesión de dicho Comité, debiendo remitir las solicitudes al Consejo en un término no mayor de 48 horas siguientes a la celebración de la sesión respectiva, previa validación de que cumple con los requisitos necesarios.
+
+En caso de no cumplir con los requisitos, los Comités Municipales para la Protección contra Riesgos Sanitarios podrán prevenir al usuario para que subsane la solicitud o exhiba los documentos necesarios dentro del término de 3 días hábiles, si en este lapso el usuario no subsana dichas inconsistencias, la solicitud se tendrá por no presentada.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 324.
+
+Los comités o subcomités podrán realizar observaciones referentes a la pertinencia del otorgamiento o no del Dictamen de Factibilidad de Impacto Sanitario.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 325.
+
+El Consejo sesionará a más tardar el último viernes del mes corriente o hábil siguiente, para lo cual una vez convocado e instalada la sesión, procederá a dictaminar las solicitudes remitidas por las oficinas de apoyo regional correspondientes al mes próximo anterior al de la celebración de la sesión correspondiente.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 326.
+
+En un plazo no mayor de quince días hábiles posteriores a la sesión descrita en el artículo que antecede, se procederá a notificar al interesado la determinación a que haya lugar, a través de las oficinas regionales o del sistema informático que establezca el Consejo para tal efecto, según corresponda.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 327.
+
+Los dictámenes de factibilidad de impacto sanitario que se concedan pueden ser revocados a juicio del Consejo por las siguientes causas:
+
+I. Se compruebe que la información proporcionada para su expedición sea falsa, carezca de alguno de los requisitos o bien que alguno de los documentos sea apócrifo.
+
+II. Porque se entiende como un riesgo para la tranquilidad, seguridad o salud de los usuarios, dependientes o personal ocupacionalmente expuesto.
+
+III. Por incumplir con el horario autorizado previsto en el artículo 2.47 Bis del Código, contraten vendan o suministren bebidas alcohólicas a menores de edad o incapaces, independientemente de la responsabilidad administrativa o penal que pudiera generarse.
 
 T R A N S I T O R I O S
 
@@ -2466,3 +2668,19 @@ G.G. 10 DE SEPTIEMBRE DE 2013.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE OCTUBRE DE 2013.
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Acuerdo.
+
+CUARTO. El sistema informático para el trámite y obtención del Dictamen de Factibilidad de Impacto Sanitario se implementará dentro de un año contado a partir de la entrada en vigor del presente Acuerdo, mientras tanto para los efectos del artículo 320 (sic) presente ordenamiento, se presentará a través de las ventanillas que al efecto designen las autoridades municipales.
+
+QUINTO. Las solicitudes de trámite y demás asuntos relacionados con la materia del presente Acuerdo, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+SEXTO. Los dictámenes que se otorguen en el último trimestre del año corriente, tendientes a la solicitud o refrendo de la licencia de funcionamiento tendrán la validez para acreditar el del año próximo siguiente.
+
+SÉPTIMO. Las solicitudes del Dictamen de Factibilidad de Impacto Sanitario tendientes al refrendo de la licencia de funcionamiento deberán ingresarse dentro del último trimestre del año próximo anterior al periodo de refrendo correspondiente.
