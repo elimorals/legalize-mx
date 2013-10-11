@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2012-09-07"
+last_updated: "2013-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -147,9 +147,15 @@ XXVII. Impulsar la cooperación nacional e internacional, para el apoyo financie
 
 XXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-XXIX. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del Programa, y (sic)
+XXIX. Actualizar anualmente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del programa de conformidad con las siguientes bases:
+
+a) El diagnóstico deberá reflejar por lo menos, el porcentaje de participación de las mujeres en la dinámica social, política y económica de la entidad; el acceso de las mujeres a la educación superior y media superior; así como el índice de violencia intrafamiliar y de género a nivel estatal, y por municipio;
+
+b) Para la elaboración del diagnóstico, el instituto invitará a los organismos de la sociedad civil dedicados a temas de la mujer, para que en los términos del reglamento respectivo, participen de manera activa en la fase de investigación e integración del mismo;
+
+c) La actualización del diagnóstico deberá prever la integración de avances bimestrales en cada uno de los rubros en que este se estructure;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -568,3 +574,7 @@ PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente al de su p
 SEGUNDO.- El Ejecutivo deberá realizar las reformas necesarias al reglamento de la ley, para adecuarlo a las presentes reformas.
 
 TERCERO.- El Ejecutivo del Estado deberá crear una partida presupuestal específica en la que se asignen al Instituto las aportaciones necesarias para el cumplimiento de sus funciones y la elaboración, realización e implementación del programa en contra de la violencia de género y de su participación dentro del correspondiente programa federal de apoyo a mujeres víctimas de violencia.
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
