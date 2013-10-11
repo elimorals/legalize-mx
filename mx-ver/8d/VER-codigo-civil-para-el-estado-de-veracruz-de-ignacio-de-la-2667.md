@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2012-06-28"
+last_updated: "2013-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3477,9 +3477,11 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 ### CAPITULO II. De la declaración de ausencia
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2013)</small>
+
 ARTICULO 599
 
-Psados (sic) dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 ARTICULO 600
 
@@ -3517,9 +3519,11 @@ ARTICULO 606
 
 Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 604, y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo juez crea oportunos.
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2013)</small>
+
 ARTICULO 607
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+La declaración de ausencia se publicará tres veces en los periódicos mencionados, con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos.
 
 ARTICULO 608
 
@@ -3643,11 +3647,19 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2013)</small>
+
 ARTICULO 635
 
-Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido dos años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-Respecto de los individuos que hayan desaparecido al tomar parte en acción de guerra o movimiento armado intestino, o encontrándose a bordo de un buque que naufrague, o de una nave aérea que se incendie o desaparezca, o en el lugar en que se verifique una explosión, incendio, terremoto, inundación, u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+Respecto de los individuos que hayan desaparecido al tomar parte en acción de guerra o movimiento armado intestino, o encontrándose a bordo de un buque que naufrague, o de una nave aérea que se incendie o desaparezca, o en el lugar en que se verifique una explosión, incendio, terremoto, inundación u otro siniestro semejante, o por hechos derivados del ejercicio de procuración o administración de justicia, o de seguridad pública, o de actos derivados de la probable comisión de algún delito, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán en cuenta las medidas provisionales autorizadas por el Capítulo I de este Título.
+
+Tratándose de hechos derivados del ejercicio de procuración o administración de justicia, o de seguridad pública, o de actos derivados de la probable comisión de algún delito, el juez acordará la publicación de la declaración de presunción de muerte, sin costo alguno.
+
+Para los efectos del párrafo anterior, el Ministerio Público determinará, con base en las evidencias recabadas, mediante acuerdo, cuándo deban considerarse actos derivados de la probable comisión de algún delito.
+
+Cuando el Ministerio Público conozca de los hechos derivados en el ejercicio de la procuración o administración de justicia, o de seguridad pública, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda.
 
 ARTICULO 636
 
@@ -16138,3 +16150,11 @@ G.O. 28 DE JUNIO DE 2012.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE OCTUBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Los procedimientos regulados por las disposiciones que son reformadas mediante el presente Decreto, y que se encuentren en trámite, deberán ajustarse a los términos previstos en el mismo.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
