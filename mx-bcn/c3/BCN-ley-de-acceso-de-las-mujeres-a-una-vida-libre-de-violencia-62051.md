@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2013-02-15"
+last_updated: "2013-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -303,9 +303,21 @@ VI. Contar con el personal debidamente capacitado y especializado en la materia;
 
 VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos;
 
-VIII. Contar con programas reeducativos integrales y de capacitación para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y
+VIII. Contar con programas reeducativos integrales y de capacitación para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y (sic)
 
 IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+X. Implementar programas de capacitación para las víctimas, en los que se incluyan:
+
+a) Cursos y talleres en materia de derechos humanos;
+
+b) Talleres orientados a la identificación y detección de todos los tipos y modalidades de violencia;
+
+c) Cursos sobre generalidades y aspectos básicos del marco jurídico en materia de igualdad de género y prevención, atención y erradicación de violencia de género; y
+
+d) Talleres de motivación y superación personal.
 
 ###### Artículo 29.
 
@@ -626,5 +638,9 @@ P.O. 31 DE AGOSTO DE 2012.
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE OCTUBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
