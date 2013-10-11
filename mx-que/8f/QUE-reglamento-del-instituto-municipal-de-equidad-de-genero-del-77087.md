@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-instituto-municipal-de-equidad-de-genero-del-770
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-15"
-last_updated: "2010-10-15"
+last_updated: "2013-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO, DEL MUNICIPIO DE QUERETARO, QUERETARO
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO DEL ESTADO DE QUERETARO
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GÉNERO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES DE QUERÉTARO, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 15 de octubre de 2010.
 
@@ -31,7 +33,7 @@ FRANCISCO DOMINGUEZ SERVIEN, Presidente Municipal de Querétaro, en ejercicio de
 
 DE CONFORMIDAD CON LO DISPUESTO POR LOS ARTÍCULOS 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 35 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO; 30 FRACCION I; 38 FRACCIÓN I; 146, 147, 148 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO; 54, 55 INCISO C Y 57 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE QUERÉTARO; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto los integrantes del H. Ayuntamiento de Querétaro, aprobaron en Sesión Ordinaria de Cabildo celebrada el catorce de septiembre de dos mil diez, el siguiente:
 
@@ -73,7 +75,7 @@ IV. Dirección del Instituto Municipal de Equidad de Género.
 
 Corresponde al H. Ayuntamiento de Querétaro:
 
-l. Supervisar en coordinación con el instituto, las atribuciones que en materia de equidad de género le corresponden al municipio;
+I. Supervisar en coordinación con el instituto, las atribuciones que en materia de equidad de género le corresponden al municipio;
 
 II. Aprobar el programa del instituto y las modificaciones que se pretenden realizar al mismo durante la administración, y
 
@@ -326,3 +328,23 @@ LIC. J. APOLINAR CASILLAS GUTIÉRREZ
 SECRETARIO DEL AYUNTAMIENTO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga el Reglamento del Instituto Municipal de Equidad de Género.
+
+TERCERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La sombra de Arteaga".
+
+CUARTO. El Instituto Municipal de las Mujeres de Querétaro, absorberá los recursos, funciones y atribuciones que venía desempeñando el Instituto Municipal de Equidad de Género.
+
+QUINTO. Se instruye al Titular de la Secretaría de Administración para que realice los trabajos correspondientes para la actualización e integración de los manuales de procedimientos del Instituto Municipal de las Mujeres de Querétaro.
+
+SEXTO. Se instruye al Titular de la Secretaría de Administración y al Titular de la Secretaría de Finanzas, a efecto de que los recursos humanos, económicos y administrativos asignados al Instituto Municipal de Equidad de Género, sean asignados de manera inmediata al Instituto Municipal de las Mujeres de Querétaro y que la estructura orgánica se adecúe a las disposiciones del Reglamento aprobado, atendiendo al presupuesto establecido.
+
+SÉPTIMO. Por única ocasión, el Instituto deberá presentar al Ayuntamiento, para su aprobación, el Programa Municipal por la Igualdad Sustantiva en un plazo que no excederá de noventa días hábiles a partir de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+OCTAVO. Se instruye a la Secretaría del Ayuntamiento para que notifique el presente Acuerdo a la Secretaría Particular, la Secretaría General de Gobierno, la Secretaría de Desarrollo Social, la Secretaría de Finanzas, la Secretaría de Administración y a la Dirección del Instituto Municipal de Equidad de Género.
