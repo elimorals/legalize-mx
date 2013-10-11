@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2007-del-pleno-del-consejo-de-la-54024"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-02-16"
-last_updated: "2007-02-16"
+last_updated: "2013-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54024&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2007-02-07"
 ---
 # ACUERDO GENERAL 7/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [UNIDADES DE NOTIFICADORES COMUNES A DIVERSOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION]
 
-ACUERDO GENERAL 7/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL ESTABLECIMIENTO DE UNIDADES DE NOTIFICADORES COMUNES A DIVERSOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL 7/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL ESTABLECIMIENTO DE UNIDADES DE NOTIFICADORES COMUNES A DIVERSOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de febrero de 2007.
 
@@ -79,11 +79,17 @@ El Jefe de la Unidad de Notificadores deberá proponer a la Comisión de Adminis
 
 El Jefe de la Unidad de Notificadores, será responsable de establecer los mecanismos de clasificación de la correspondencia y división del circuito o entidad federativa por zonas geográficas, de tal manera que se agilice la entrega y devolución a los órganos jurisdiccionales de las constancias relativas a las notificaciones por oficio, sin exceder los plazos legales; de todo lo cual, dará cuenta al Coordinador de Magistrados de Circuito o de Jueces de Distrito, según corresponda.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 26/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 8.
 
 Corresponde a la Comisión de Administración el nombramiento del Jefe de la Unidad de Notificadores mediante la formación de una terna, para lo cual se tomará la opinión del Coordinador de Magistrados de Circuito o de Jueces de Distrito, según se trate.
 
-El nombramiento de Jefe de Unidad se expedirá por un lapso de tres años, al cabo de los cuales se le podrá ratificar por otro período igual, tantas veces como determine la Comisión de Administración. La terminación anticipada del nombramiento, por cualquier causa, será resuelta por la Comisión de Administración.
+El nombramiento inicial de Jefe de Unidad no podrá exceder del término de seis meses ni ser menor de tres, según lo determine la Comisión de Administración.
+
+Antes del vencimiento del nombramiento temporal, la Dirección General de Recursos Humanos pondrá a consideración de la Comisión de Administración la prórroga por tiempo indefinido del Jefe de la Unidad de Notificadores.
+
+La terminación anticipada del nombramiento, por cualquier causa, será resuelta por la Comisión de Administración.
 
 ###### Artículo 9.
 
@@ -114,3 +120,17 @@ QUINTO.- Las Unidades de Notificadores creadas con anterioridad a la fecha de in
 SEXTO.- La primera revisión, para determinar la prórroga del nombramiento de los Jefes de las Unidades de Notificadores en ejercicio, de conformidad con lo dispuesto en el artículo 8, párrafo segundo, en relación con la parte final del diverso numeral 10 de este Acuerdo, será en junio de dos mil siete.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 7/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Establecimiento de Unidades de Notificadores Comunes a Diversos Organos Jurisdiccionales del Poder Judicial de la Federación, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de siete de febrero de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a siete de febrero de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los nombramientos de Jefe de la Unidad de Notificadores que estén vigentes a la entrada en vigor del presente Acuerdo, podrán ser prorrogados de forma indefinida, a su vencimiento, en términos del mismo.
+
+TERCERO. Publíquese en el Diario Oficial de la Federación y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo al diverso 7/2007, que regula el establecimiento de unidades de notificadores comunes a diversos órganos jurisdiccionales del Poder Judicial de la Federación.
