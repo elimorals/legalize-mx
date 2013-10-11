@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-proyectos-de-prestacion-de-78930"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2010-12-24"
+last_updated: "2013-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE PROYECTOS DE PRESTACION DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-REGLAMENTO DE LA LEY DE PROYECTOS DE PRESTACION DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+REGLAMENTO DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -63,7 +63,9 @@ Glosario
 
 Para los efectos del presente Reglamento, además de la terminología establecida en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato, se entenderá por:
 
-I. Análisis de Comparación Público-Privado a Nivel Prefactibilidad: Es el Análisis de Comparación Público-Privado que deberá ser presentado a la Coordinación para su revisión, análisis y dictamen antes de presentar a la Secretaría una solicitud de validación para desarrollar un proyecto;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+I. Análisis de Comparación Público-Privado a Nivel Prefactibilidad: Es el Análisis de Comparación Público-Privado que deberá ser presentado a la Secretaría para su revisión, análisis y dictamen, antes de presentar la solicitud de validación para desarrollar un proyecto;
 
 II. Análisis de Comparación Público-Privado a Nivel Factibilidad: Es el Análisis de Comparación Público-Privado que deberá ser presentado a la Secretaría como parte integrante de la solicitud de validación para desarrollar un proyecto;
 
@@ -83,13 +85,17 @@ IX. Ente requirente: La dependencia o entidad cuyos objetivos institucionales se
 
 X. Ley: La Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato;
 
-XI. Lineamientos: Los Lineamientos para el Análisis de Comparación Público-Privada que emita la Coordinación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XI. Lineamientos: Los Lineamientos para el Análisis de Comparación Público-Privada que emita la Secretaría;
 
 XII. Proyecto: Un proyecto de prestación de servicios, es decir, cualquier asociación entre el sector público y el sector privado que cumpla con las características señaladas en el artículo 5 de la Ley y que además requiera para su desarrollo de un monto de inversión superior a cinco millones de veces el salario mínimo general vigente en el Estado; y
 
 XIII. Reglamento: El presente Reglamento de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato.
 
-Atribuciones de la Secretaría de Finanzas y Administración
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Atribuciones de la Secretaría de Finanzas, Inversión y Administración
 
 ###### Artículo 3.
 
@@ -97,71 +103,71 @@ La Secretaría, además de las atribuciones previstas en la Ley, tendrá las sig
 
 I. Interpretar el Reglamento para efectos administrativos escuchando, en su caso, la opinión de las demás dependencias o entidades involucradas en función de sus respectivas competencias;
 
-II. Validar el desarrollo de los proyectos que pretendan implementar los entes, tomando en cuenta el dictamen que al efecto emita la Coordinación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-III. Validar el modelo de contrato que elaboren los entes para cada proyecto que pretendan implementar, tomando en cuenta el dictamen que al efecto emita la Coordinación;
+II. Validar el desarrollo de los proyectos y el modelo de contrato que elaboren los entes, y en su caso autorizar sus respectivas modificaciones, para cada proyecto que pretendan implementar; así como emitir opinión sobre el modelo de contrato y sus respectivas modificaciones que pretendan realizar los sujetos previstos en las fracciones II, III, IV y V del artículo 1 de la Ley;
 
-IV. Opinar sobre el modelo de contrato y las modificaciones que elaboren los sujetos previstos en las fracciones II, III, IV y V del artículo 1 de la Ley, para cada proyecto que pretendan implementar, tomando en cuenta el dictamen que al efecto emita la Coordinación;
+III. (DEROGADA, P.O. 11 DE OCTUBRE DE 2013)
+
+IV. (DEROGADA, P.O. 11 DE OCTUBRE DE 2013)
 
 V. Opinar respecto a la viabilidad financiera para desarrollar proyectos en el ámbito municipal;
 
 VI. Dictaminar el proyecto de iniciativa de decreto que deba someter el Titular del Poder Ejecutivo al Congreso del Estado para obtener su aprobación para llevar a cabo un proyecto y asumir el compromiso presupuestal de pago plurianual;
 
-VII. Opinar sobre la solicitud de autorización para ceder derechos y obligaciones del inversionista proveedor en los casos de excepción previstos en el artículo 59 de la Ley, tomando en cuenta el dictamen que al efecto emita la Coordinación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-VIII. Autorizar modificaciones a los contratos que sean celebrados en el ámbito estatal, tomando en cuenta el dictamen que al efecto emita la Coordinación;
+VII. Opinar sobre la solicitud de autorización para ceder derechos y obligaciones del inversionista proveedor en los casos de excepción previstos en el artículo 59 de la Ley;
 
-IX. Integrar y administrar el registro de contratos a que hace referencia el Capítulo XIV del Reglamento con la participación que le corresponda a la Coordinación; y
+VIII. (DEROGADA, P.O. 11 DE OCTUBRE DE 2013)
 
-X. Organizar y coordinar los trabajos y asesorías que se requieran para el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+IX. Integrar y administrar el registro de contratos a que hace referencia el Capítulo XIV del Reglamento, y el banco de iniciativas de proyectos para el ámbito estatal a fin de analizar, evaluar y, en su caso, impulsar aquellos que sean susceptibles de ser desarrollados como tales;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+X. Apoyar técnica y jurídicamente a las dependencias y entidades en la identificación, estructuración, promoción, implementación y control de proyectos, para lo cual deberá organizar y coordinar los trabajos y asesorías que se requieran para este propósito y el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XI. Asesorar a los Poderes, Organismos Autónomos y Municipios, en el cumplimiento de la Ley, el Reglamento y los Lineamientos;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XII. Revisar, analizar y dictaminar el contenido y resultado del Análisis de Comparación Público-Privado a nivel prefactibilidad y factibilidad para cada proyecto de prestación de servicios que pretendan implementar los entes en el ámbito estatal, o en el ámbito municipal con recursos estatales, así como la congruencia del análisis a nivel factibilidad y del proyecto de modelo de contrato correspondiente con la Ley, el Reglamento, los Lineamientos, las disposiciones en materia de planeación y las demás normas jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XIII. Revisar, analizar y opinar respecto al contenido y resultado del Análisis de Comparación Público-Privado para cada proyecto que pretendan implementar los entes en el ámbito municipal, así como la congruencia del mismo y del proyecto de modelo de contrato correspondiente con la Ley, el Reglamento, las disposiciones en materia de planeación y las demás normas jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XIV. Participar en los grupos de trabajo a que hace referencia el artículo 5 del Reglamento; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XV. Emitir y actualizar los Lineamientos a los que se refiere el Reglamento, los cuales deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
 Atribuciones de la Coordinación
 
 ###### Artículo 4.
 
-La Coordinación, además de las atribuciones previstas en la Ley, tendrá las siguientes:
-
-I. Asesorar a los entes en el cumplimiento de la Ley, el Reglamento y los Lineamientos;
-
-II. Apoyar técnica y jurídicamente a las dependencias y entidades en la identificación, estructuración, promoción, implementación y control de proyectos;
-
-III. Revisar, analizar y dictaminar el contenido y resultado del Análisis de Comparación Público-Privado a Nivel Prefactibilidad para cada proyecto de prestación de servicios que pretendan implementar los entes en el ámbito estatal, o en el ámbito municipal con recursos estatales;
-
-IV. Revisar, analizar y dictaminar el contenido y resultado del Análisis de Comparación Público-Privado a Nivel Factibilidad para cada proyecto de prestación de servicios que pretendan implementar los entes en el ámbito estatal, o en el ámbito municipal con recursos estatales, así como la congruencia del mismo y del proyecto de modelo de contrato correspondiente con la Ley, el Reglamento, los Lineamientos, las disposiciones en materia de planeación y las demás normas jurídicas aplicables;
-
-V. Revisar, analizar y opinar respecto al contenido y resultado del Análisis de Comparación Público-Privado para cada proyecto que pretendan implementar los entes en el ámbito municipal, así como la congruencia del mismo y del proyecto de modelo de contrato correspondiente con la Ley, el Reglamento, las disposiciones en materia de planeación y las demás normas jurídicas aplicables;
-
-VI. Revisar, analizar y dictaminar el modelo de contrato que elaboren los entes para cada proyecto que pretendan implementar así como la congruencia del mismo con la Ley, el Reglamento, los Lineamientos y las demás disposiciones jurídicas aplicables;
-
-VII. Revisar, analizar y dictaminar el modelo de contrato que elaboren los sujetos previstos en las fracciones II, III, IV y V del artículo 1 de la Ley para cada proyecto que pretendan implementar, así como la congruencia del mismo con la Ley, el Reglamento, los Lineamientos y las demás disposiciones jurídicas aplicables;
-
-VIII. Opinar sobre el proyecto de iniciativa de decreto que deba someter el Titular del Poder Ejecutivo al Congreso del Estado para obtener su aprobación para llevar a cabo un proyecto y asumir el compromiso presupuestal de pago plurianual;
-
-IX. Integrar y coordinar los grupos de trabajo a que hace referencia el artículo 5 del Reglamento;
-
-X. Emitir y actualizar los Lineamientos a los que se refiere el Reglamento, los cuales deberán ser publicados en el Periódico Oficial del Gobierno del Estado;
-
-XI. Revisar, analizar y dictaminar las solicitudes de autorización para ceder derechos y obligaciones del inversionista proveedor en los casos de excepción previstos en el artículo 59 de la Ley;
-
-XII. Revisar, analizar y dictaminar las modificaciones que se pretendan realizar a los contratos que sean celebrados en el ámbito estatal;
-
-XIII. Revisar, analizar y dictaminar las modificaciones que se pretendan realizar a los contratos celebrados por los sujetos previstos en las fracciones II, III, IV y V del artículo 1 de la Ley;
-
-XIV. Integrar y administrar un banco de iniciativas de proyectos para el ámbito estatal a fin de analizar, evaluar y, en su caso, impulsar aquellos que sean susceptibles de ser desarrollados como tales;
-
-XV. Apoyar a la Secretaría en la integración y administración del registro de contratos a que hace referencia el Capítulo XIV del Reglamento; y
-
-XVI. Organizar y coordinar los trabajos y asesorías que se requieran para el desempeño de sus funciones.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 2013)
 
 ### Capítulo II. Grupos de Trabajo y Convenios de Coordinación
 
 Objeto y funciones de los grupos de trabajo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 5.
 
-Los entes que pretendan implementar un proyecto podrán solicitar el apoyo de la Coordinación para integrar y coordinar grupos de trabajo que tendrán por objeto facilitar la coordinación y ejecución de los trabajos necesarios para su estructuración, adjudicación y control.
+Los entes que pretendan implementar un proyecto podrán solicitar el apoyo de la Secretaría para integrar grupos de trabajo que tendrán por objeto facilitar la coordinación y ejecución de los trabajos necesarios para su estructuración, adjudicación y control.
 
-Cada grupo de trabajo estará integrado por al menos un representante de las distintas dependencias y entidades involucradas e interesadas en el desarrollo del proyecto de que se trate y en cualquier caso, incluirá a un representante de la Secretaría y a un representante de la Coordinación. El grupo de trabajo será presidido por el representante del ente contratante que además será el administrador del proyecto. Corresponderá a la Coordinación convocar a las sesiones de grupo de trabajo, generar y notificar las minutas correspondientes, llevar el control de la toma de acuerdos y resoluciones, y dar seguimiento a su ejecución o cumplimiento.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Cada grupo de trabajo estará integrado por al menos un representante de las distintas dependencias y entidades involucradas e interesadas en el desarrollo del proyecto de que se trate y en cualquier caso, incluirá a un representante de la Secretaría. El grupo de trabajo será presidido por el representante del ente contratante, quien además será el administrador del proyecto. Corresponderá al ente contratante convocar a las sesiones de grupo de trabajo.
 
 Las reglas de operación para cada grupo de trabajo serán acordadas por el propio grupo de trabajo por el voto unánime de los miembros que lo integren.
 
@@ -189,11 +195,13 @@ VIII. La vigencia del convenio de coordinación y las formas de terminación del
 
 IX. Los mecanismos para la resolución de controversias.
 
-Obligación de informar a la Secretaría y a la Coordinación
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Obligación de Informar a la Secretaría
 
 ###### Artículo 7.
 
-Será responsabilidad del ente contratante hacer del conocimiento de la Secretaría y de la Coordinación el contenido del convenio de coordinación que suscriban los entes y cualquier cambio o modificación al mismo.
+Será responsabilidad del ente contratante hacer del conocimiento de la Secretaría el contenido del convenio de coordinación que suscriban los entes y cualquier cambio o modificación al mismo.
 
 ### Capítulo III. Análisis de Comparación Público-Privado
 
@@ -209,17 +217,21 @@ Trámite de los análisis de factibilidad
 
 Con base en el Análisis de Comparación Público-Privado a Nivel Factibilidad que elaboren los entes que pretendan implementar un proyecto, la Secretaría podrá determinar si el proyecto propuesto es o no susceptible de generar beneficios netos iguales o mayores a los que se obtendrían si el mismo fuere implementado bajo un esquema de inversión pública tradicional.
 
-Los Análisis de Comparación Público-Privado a Nivel Factibilidad que sean presentados a la Secretaría serán remitidos a la Coordinación para su análisis y dictamen, de conformidad con lo previsto en el capítulo siguiente. El dictamen favorable de la Coordinación será un requisito indispensable para que la Secretaría pueda validar el desarrollo de un proyecto de conformidad con lo previsto en el artículo 16 de la Ley.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Los Análisis de Comparación Público-Privado a Nivel Factibilidad que sean presentados a la Secretaría serán analizados y dictaminados de conformidad con lo previsto en el capítulo siguiente. El dictamen favorable será un requisito indispensable para que la Secretaría pueda validar el desarrollo de un proyecto de conformidad con lo previsto en el artículo 16 de la Ley.
 
 Los Análisis de Comparación Público-Privado a Nivel Factibilidad que no sean elaborados de conformidad con los Lineamientos se tendrán por no presentados a la Secretaría.
 
-Dictamen del análisis de de (sic) de comparación público-privada
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Dictamen del análisis de comparación público-privada
 
 ###### Artículo 10.
 
-Para facilitar el proceso de validación de proyectos, antes de presentar a la Secretaría la solicitud de validación para desarrollar un proyecto, el ente que pretenda implementarlo deberá presentar a la Coordinación un Análisis de Comparación Público-Privado a Nivel Prefactibilidad para dicho proyecto de conformidad con lo previsto en los Lineamientos.
+Para facilitar el proceso de validación de proyectos, antes de presentar a la Secretaría la solicitud de validación para desarrollar un proyecto, el ente que pretenda implementarlo deberá presentar a la Secretaría un Análisis de Comparación Pública-Privado a Nivel Prefactibilidad para dicho proyecto de conformidad con lo previsto en los Lineamientos.
 
-La Coordinación contará con 20 días hábiles para dictaminar el Análisis de Comparación Público- Privado a Nivel Prefactibilidad, sin perjuicio de que el ente y la Coordinación puedan acordar las prórrogas que juzguen convenientes. La Coordinación podrá solicitar al ente información adicional o que ajuste la presentada antes de emitir su dictamen. El sentido del dictamen será solo de carácter indicativo y no prejuzgará sobre el sentido del dictamen que deba emitir la Coordinación con respecto al Análisis de Comparación Público-Privado a Nivel Factibilidad.
+La Secretaría contará con 20 días hábiles para dictaminar el Análisis de Comparación Público-Privado a Nivel Prefactibilidad, sin perjuicio de que el ente y la Secretaría puedan acordar las prórrogas que juzguen convenientes. La Secretaría podrá solicitar al ente información adicional o que ajuste la presentada antes de emitir su dictamen. El sentido del dictamen será solo de carácter indicativo y no prejuzgará sobre el sentido del dictamen que deba emitir la Secretaría con respecto al Análisis de Comparación Público-Privado a Nivel Factibilidad.
 
 ### Capítulo IV. Validación de Proyectos
 
@@ -233,7 +245,9 @@ I. Presentarse en día y hora hábil ante la Secretaría;
 
 II. Estar suscritas por el titular del ente requirente y, en su caso, el del ente contratante y por el área responsable de su gestión dentro de cada ente;
 
-III. Presentarse en dos originales tanto en medio impreso como electrónico a efecto de que la Secretaría pueda correr traslado a la Coordinación, lo cual deberá ocurrir dentro de los 2 días hábiles siguientes a que sea recibida la solicitud por la Secretaría;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+III. Presentarse en original tanto en medio impreso como electrónico;
 
 IV. Incluir un proyecto de modelo de contrato que contenga y desarrolle de manera conceptual los elementos siguientes:
 
@@ -259,15 +273,21 @@ V. Justificar que el proyecto es congruente con las disposiciones en materia de 
 
 VI. Acompañar la documentación que acredite que el proyecto se encuentra registrado en la cartera a cargo de la Secretaría o, en caso de que no lo esté, acompañar el Análisis Costo-Beneficio que acredite el beneficio social del mismo de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Acompañar copia del dictamen emitido por la Coordinación respecto al Análisis de Comparación Público-Privado a Nivel Prefactibilidad para el proyecto;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-VIII. Incluir un Análisis de Comparación Público-Privado a Nivel Factibilidad que demuestre que el proyecto es susceptible de generar beneficios netos iguales o mayores a los que se obtendrían a través de un esquema de inversión pública tradicional, el cual será remitido por la Secretaría a la Coordinación a fin de que lo revise, analice y dictamine;
+VII. Acompañar copia del dictamen emitido por la Secretaría respecto al Análisis de Comparación Público-Privado a Nivel Prefactibilidad para el proyecto;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+VIII. Incluir un Análisis de Comparación Público-Privado a Nivel Factibilidad que demuestre que el proyecto es susceptible de generar beneficios netos iguales o mayores a los que se obtendrían a través de un esquema de inversión pública tradicional;
 
 IX. Incluir un dictamen suscrito por las áreas jurídicas del ente requirente y, en su caso, del ente contratante, respecto a la congruencia del proyecto con la Ley, el Reglamento, los Lineamientos y las demás disposiciones jurídicas aplicables;
 
 X. En su caso, anexar copia del convenio de coordinación que haya sido celebrado; y
 
-XI. Acompañar cualquier otra información que permita a la Coordinación y a la Secretaría contar con los elementos necesarios para poder emitir su dictamen o validación.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+XI. Acompañar cualquier otra información que permita a la Secretaría contar con los elementos necesarios para poder emitir su dictamen o validación.
 
 Requerimiento para complementar información
 
@@ -279,11 +299,11 @@ Opinión de la Coordinación
 
 ###### Artículo 13.
 
-La Secretaría correrá traslado de la solicitud de validación a la Coordinación dentro de los 2 días hábiles siguientes a la fecha en que la misma sea presentada, así como de cualquier información o comunicación adicional que reciba del ente con relación a esa solicitud.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 2013)
 
-La Coordinación contará con 5 días hábiles para solicitar a la Secretaría que prevenga al ente o le solicite información adicional, y deberá emitir y notificar su dictamen a la Secretaría dentro de los 15 días hábiles siguientes a la fecha en que le haya sido notificada dicha solicitud o, en su caso, en que se haya tenido por desahogada la prevención realizada.
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-Validación de la Secretaría de Finanzas y Administración
+Validación de la Secretaría de Finanzas, Inversión y Administración
 
 ###### Artículo 14.
 
@@ -291,9 +311,11 @@ La Secretaría contará con 20 días hábiles para resolver sobre la solicitud d
 
 Denegación de las solicitudes
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-La validación para desarrollar un proyecto será denegada por la Secretaría cuando a juicio de esa dependencia el desarrollo del proyecto comprometa la salud financiera del ente o del Estado o no sea sustentable en el largo plazo, o bien, cuando el dictamen de la Coordinación respecto a la solicitud de validación no haya sido emitido en sentido favorable.
+La validación para desarrollar un proyecto será denegada por la Secretaría cuando a juicio de esta el desarrollo del proyecto comprometa la salud financiera del ente o del Estado o no sea sustentable en el largo plazo, o bien, cuando el dictamen respecto a la solicitud de validación no haya sido emitido en sentido favorable.
 
 ### Capítulo V. Aprobación de Proyectos
 
@@ -303,7 +325,9 @@ Trámite para el proyecto de iniciativa de decreto
 
 Una vez que el desarrollo del proyecto haya sido validado por la Secretaría, el ente que lo pretenda implementar contará con 60 días hábiles para remitir a la Secretaría el borrador de iniciativa de Decreto de aprobación. Transcurrido ese plazo sin que se haya remitido a la Secretaría la iniciativa correspondiente, será necesario obtener de nueva cuenta la validación de la Secretaría.
 
-La Secretaría contará con 20 días hábiles para dictaminar el borrador de iniciativa de Decreto de aprobación y para ello deberá tomar en cuenta la opinión de la Coordinación, la cual será solicitada por la Secretaría dentro de los 2 días hábiles siguientes a la fecha en que reciba el borrador correspondiente. La Coordinación contará con 15 días hábiles para emitir y notificar su opinión a la Secretaría.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+La Secretaría contará con 20 días hábiles para dictaminar el borrador de iniciativa de Decreto de aprobación.
 
 En caso de que el dictamen a que se refiere el párrafo anterior sea en sentido favorable, el borrador de iniciativa de Decreto de aprobación, junto con el dictamen correspondiente, serán remitidos a la Coordinación General Jurídica del Gobierno del Estado para que, en su caso, elabore el proyecto de iniciativa de Decreto de aprobación y la iniciativa de Decreto de aprobación pueda ser presentada al Congreso del Estado por conducto del Titular del Poder Ejecutivo. El plazo para que la Coordinación General Jurídica del Gobierno del Estado se pronuncie con respecto al borrador de iniciativa de Decreto de aprobación no será mayor a 10 días hábiles.
 
@@ -317,7 +341,9 @@ A partir de la entrada en vigor del Decreto de aprobación, el ente que pretenda
 
 I. Presentarse en día y hora hábil, ante la Secretaría;
 
-II. Presentarse en dos originales tanto en medio impreso como electrónico a efecto de que la Secretaría pueda correr traslado a la Coordinación, lo cual deberá ocurrir dentro de los 2 días hábiles siguientes a que sea recibida la solicitud por la Secretaría;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+II. Presentarse en original tanto en medio impreso como electrónico;
 
 III. Acompañar el modelo de contrato junto con todos sus anexos y apéndices que ya puedan ser elaborados y, en caso de que no puedan serlo, haciendo una descripción de su contenido y del proceso y momento previsto para su elaboración; y
 
@@ -325,25 +351,35 @@ IV. Estar suscrita por el titular y responsable del área jurídica del ente req
 
 Supuestos de denegación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 18.
 
-El procedimiento para la validación de modelos de contrato se sujetará a lo previsto en los artículos 12, 13 y 14 del Reglamento y la validación será denegada por la Secretaría en cualquiera de los supuestos siguientes:
+El procedimiento para la validación de modelos de contrato se sujetará a lo previsto en los artículos 12 y 14 del Reglamento y la validación será denegada por la Secretaría en cualquiera de los supuestos siguientes:
 
-I. Cuando a juicio de esa dependencia el modelo de contrato no cumpla con los requisitos de contenido establecidos en la Ley, el Reglamento y el Decreto de aprobación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-II. Cuando a juicio de esa dependencia el desarrollo del proyecto, en los términos previstos en el modelo de contrato, comprometa la salud financiera del ente o del Estado, o no sea sustentable en el largo plazo; o,
+I. Cuando a juicio de esa dependencia el modelo de contrato no cumpla con los requisitos de contenido establecidos en la Ley, el Reglamento y el Decreto de aprobación; y
 
-III. Cuando el dictamen de la Coordinación respecto al modelo de contrato no haya sido emitido en sentido favorable.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+II. Cuando a juicio de esa dependencia el desarrollo del proyecto, en los términos previstos en el modelo de contrato, comprometa la salud financiera del ente o del Estado, o no sea sustentable en el largo plazo.
+
+III. (DEROGADA, P.O. 11 DE OCTUBRE DE 2013)
 
 Requisitos de las solicitudes para que la Secretaría emita opinión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 19.
 
-El procedimiento para que la Secretaría emita su opinión respecto a los modelos de contrato que elaboren los sujetos previstos en las fracciones II, III, IV y V del artículo 1 de la Ley se sujetará, en lo que resulte procedente, a lo previsto en los artículos 12, 13 y 14 del Reglamento.
+El procedimiento para que la Secretaría emita su opinión respecto a los modelos de contrato que elaboren los sujetos previstos en las fracciones II, III, IV y V del artículo 1 de la Ley se sujetará, en lo que resulte procedente, a lo previsto en los artículos 12 y 14 del Reglamento.
 
 La solicitud correspondiente deberá cumplir con lo siguiente.
 
-I. Presentarse ante la Secretaría en dos originales tanto en medio impreso como electrónico a efecto de que la Secretaría pueda correr traslado a la Coordinación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+I. Presentarse ante la Secretaría en original tanto en medio impreso como electrónico;
 
 II. Acompañar el modelo de contrato junto con todos sus anexos y apéndices que ya puedan ser elaborados y, en caso de que no puedan serlo, haciendo una descripción de su contenido y del proceso y momento previsto para su elaboración; y
 
@@ -407,21 +443,29 @@ XVIII. Los demás que determine oportunamente el ente requirente o el ente contr
 
 Comité de adjudicación de contratos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 21.
 
-A partir de la entrada en vigor del Decreto de aprobación, el ente que pretenda implementar el proyecto contará con 10 días hábiles para constituir el Comité de Adjudicación de Contratos que auxiliará al ente en la preparación y substanciación del procedimiento de adjudicación de contrato correspondiente, el cual estará integrado por:
+A partir de la entrada en vigor del Decreto de aprobación, el ente que pretenda implementar el proyecto contará con 10 días hábiles para constituir el Comité de Adjudicación de Contratos que auxiliará al ente en la preparación y substanciación del procedimiento de adjudicación del contrato correspondiente, el cual estará integrado al menos por:
 
 I. El titular del ente contratante, con función de presidente;
 
-II. Un representante de cada ente requirente, con función de vocal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
-III. Un representante de la Secretaría; y
+II. Un representante de cada ente requirente; y
 
-IV. Un representante de la Coordinación que fungirá como secretario ejecutivo.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+III. Un representante de la Secretaría;
+
+IV. (DEROGADA, P.O. 11 DE OCTUBRE DE 2013)
 
 El ente, en la solicitud de validación del desarrollo del Proyecto, deberá señalar si el Comité de Adjudicación de Contratos contará con integrantes adicionales a los establecidos en el presente artículo y precisar si los mismos tendrán derecho a voto.
 
-Lo anterior sin perjuicio de que los integrantes identificados en las fracciones I a III del presente artículo siempre tendrán derecho de voz y voto, y el integrante identificado en la fracción IV únicamente contará con derecho de voz. A las sesiones del Comité de Adjudicación de Contratos podrá invitarse a los asesores externos del proyecto quienes en ningún caso tendrán derecho a voto.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+A las sesiones del Comité de Adjudicación de Contratos podrá invitarse a los asesores externos del proyecto quienes en ningún caso tendrán derecho a voto.
 
 Los integrantes del Comité de Adjudicación de Contratos podrán designar por escrito a sus respectivos suplentes, quienes únicamente podrán actuar en ausencia de su titular.
 
@@ -713,9 +757,11 @@ La falta de formalización del contrato por causas imputables al licitador dará
 
 Carácter de la información de los contratos
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 43.
 
-La información contenida en los anexos del contrato podrá ser clasificada como reservada de conformidad con lo previsto en la Ley de Acceso a la Información Pública para los Estados y Municipios de Guanajuato y su Reglamento. La clasificación correspondiente será realizada conjuntamente por las dependencias o entidades que mantendrán en su poder la información de que se trate.
+La información contenida en los anexos del contrato podrá ser clasificada como reservada de conformidad con lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y su Reglamento. La clasificación correspondiente será realizada conjuntamente por las dependencias o entidades que mantendrán en su poder la información de que se trate.
 
 ### Capítulo XIII. Cesión y Modificación de Contratos
 
@@ -747,13 +793,17 @@ e) La vigencia restante del contrato.
 
 Solicitud para modificar contratos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 46.
 
-El procedimiento para que la Secretaría se pronuncie sobre la solicitud de autorización para modificar un contrato se sujetará, en lo que resulte procedente, a lo previsto en los artículos 12, 13, 14 y 18 del Reglamento. La solicitud correspondiente deberá cumplir con lo siguiente:
+El procedimiento para que la Secretaría se pronuncie sobre la solicitud de autorización para modificar un contrato se sujetará, en lo que resulte procedente, a lo previsto en los artículos 12, 14 y 18 del Reglamento. La solicitud correspondiente deberá cumplir con lo siguiente:
 
 I. Presentarse ante la Secretaría en día y hora hábiles;
 
-II. Presentarse en dos originales tanto en medio impreso como electrónico a efecto de que la Secretaría pueda correr traslado a la Coordinación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+II. Presentarse en original tanto en medio impreso como electrónico;
 
 III. Acompañar el texto de la modificación correspondiente junto con su justificación;
 
@@ -763,7 +813,9 @@ V. Acompañar un dictamen suscrito conjuntamente por el ente contratante y el en
 
 VI. Estar suscrita por quien tenga facultades para hacerlo.
 
-Opinión de la Secretaría de Finanzas y Administración
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Opinión de la Secretaría de Finanzas, Inversión y Administración
 
 ###### Artículo 47.
 
@@ -773,21 +825,25 @@ El procedimiento para que la Secretaría emita su opinión respecto a la modific
 
 Registro de contratos
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 48.
 
-Será responsabilidad de los entes contratantes remitir a la Secretaría copia impresa y electrónica de los contratos que celebren al amparo de la Ley y el Reglamento en el ámbito estatal o con recursos estatales, así como de cualquier modificación o actualización. La Secretaría mantendrá debidamente actualizado el registro correspondiente y para ello se apoyará en la Coordinación.
+Será responsabilidad de los entes contratantes remitir a la Secretaría tanto en medio impreso como electrónico copia de los contratos que celebren al amparo de la ley y el Reglamento en el ámbito estatal o con recursos estatales, así como de cualquier modificación o actualización. La Secretaría mantendrá debidamente actualizado el registro correspondiente.
 
-Corresponderá a la Coordinación desarrollar una metodología e instrumentar los mecanismos necesarios para poder generar estadísticas y poder comparar avances y resultados en los diversos contratos que sean celebrados y que formen parte del registro.
+Corresponderá a la Secretaría desarrollar una metodología e instrumentar los mecanismos necesarios para generar estadísticas y poder comparar avances y resultados en los diversos contratos que sean celebrados y que formen parte del registro.
 
-Tanto la Secretaría como la Coordinación podrán solicitar a los entes contratantes o entes requirentes la información que juzguen necesaria para mantener debidamente integrado el registro de contratos a que se hace referencia en este artículo.
+La Secretaría podrá solicitar a los entes contratantes o entes requirentes la información que juzgue necesaria para mantener debidamente integrado el registro de contratos a que se hace referencia en este artículo.
 
 Administración de los contratos
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 49.
 
-La administración de los contratos corresponderá primordialmente a los entes contratantes y entes requirentes en los términos previstos en el propio contrato. Sin embargo, corresponderá a la Coordinación, sin perjuicio de las atribuciones que competan a los órganos de control, participar activamente en la supervisión del cumplimiento de los contratos y para ello deberá preverse en los mismos la facultad de la Coordinación de requerir la información que para ello requiera y la obligación por parte del inversionista proveedor de proporcionarla ya sea directamente o a través del ente contratante o requirente.
+La administración de los contratos corresponderá a los entes contratantes y entes requirentes en los términos previstos en el propio contrato. Corresponderá a la Secretaría, sin perjuicio de las atribuciones que competan a los órganos de control, participar activamente en la supervisión del cumplimiento de los contratos y para ello deberá preverse en los mismos la facultad de la Secretaría de requerir la información que para ello requiera y la obligación por parte del inversionista proveedor de proporcionarla, ya sea directamente o a través del ente contratante o requirente.
 
-La Coordinación elaborará reportes periódicos respecto al nivel de cumplimiento de los distintos contratos que hayan sido celebrados en el ámbito estatal o con recursos estatales. En ellos se hará referencia a las penas o deducciones que hayan sido aplicadas y a los problemas prácticos que hayan surgido en la ejecución de esos contratos.
+La Secretaría elaborará reportes periódicos respecto al nivel de cumplimiento de los distintos contratos que hayan sido celebrados en el ámbito estatal o con recursos estatales. En ellos se hará referencia a las penas o deducciones que hayan sido aplicadas y a los problemas prácticos que hayan surgido en la ejecución de esos contratos.
 
 T R A N S I T O R I O S
 
@@ -802,3 +858,11 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La Secretaría contará con un plazo de tres meses a partir de la entrada en vigencia del presente Decreto Gubernativo, para emitir los Lineamientos para el Análisis Comparativo Público-Privado.
