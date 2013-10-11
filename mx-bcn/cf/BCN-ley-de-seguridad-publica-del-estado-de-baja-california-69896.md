@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2013-06-28"
+last_updated: "2013-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -759,17 +759,27 @@ Las identificaciones de los Miembros, Agentes del Ministerio Público, Peritos. 
 
 Todo servidor público tiene la obligación de identificarse salvo los casos de excepción que prevean los ordenamientos que se expidan al efecto a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
 
-### CAPÍTULO QUINTO. DEL ARMAMENTO Y VEHÍCULOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO QUINTO. ARMAMENTO, VEHÍCULOS Y EQUIPOS DE COMUNICACIÓN
 
 ###### ARTÍCULO 52.
 
 Además de cumplir con lo dispuesto en otras leyes, las Instituciones de Seguridad Pública, así como los prestadores de servicios de seguridad privada y otros auxiliares, deberán manifestar a la Secretaría:
 
-I. Los vehículos que tuvieren asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie, motor para el registro del vehículo; y,
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+I. Los vehículos que tuvieren asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie, motor para el registro del vehículo;
 
 II. Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula, huella balística y demás elementos de identificación.
 
-Previo a la entrega de las armas a las Instituciones Policiales, la Procuraduría y la Secretaría tendrán la obligación de recabar por lo menos los datos generales del arma, fotografías y recolección de elementos testigo.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+Previo a la entrega de las armas a las Instituciones Policiales, la Procuraduría y la Secretaría tendrán la obligación de recabar por lo menos los datos generales del arma, fotografías y recolección de elementos testigo; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+III. Los equipos de comunicación que les hayan sido autorizados por las dependencias competentes, aportando en su caso el número de registro, la marca, modelo, en su caso el nombre del funcionario o servidor público a quien se le hubiere asignado y demás elementos para su identificación.
 
 ###### ARTÍCULO 53.
 
@@ -1119,7 +1129,7 @@ XV.- Realizar actos que pongan en peligro la integridad física, la vida o los b
 
 XVI.- Transferir o ceder la autorización; y
 
-XVII. Las demás que establezcan las leyes y reglamentos.
+XVII.- Las demás que establezcan las leyes y reglamentos.
 
 ###### ARTÍCULO 87.
 
@@ -1373,9 +1383,9 @@ d) Preservar los indicios y elementos de prueba que la víctima y ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales, jurisdiccionales y administrativos de que tenga conocimiento con motivo de sus funciones, y
+XIII.- Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales, jurisdiccionales y administrativos de que tenga conocimiento con motivo de sus funciones, y
 
-XIV. Las demás que le confieran las disposiciones aplicables.
+XIV.- Las demás que le confieran las disposiciones aplicables.
 
 ## TÍTULO DÉCIMO. DE LA COMISIÓN
 
@@ -2374,3 +2384,9 @@ P.O. 25 DE ENERO DE 2013.
 P.O. 28 DE JUNIO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
