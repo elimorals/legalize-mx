@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-75126"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-07-02"
-last_updated: "1999-07-02"
+last_updated: "2013-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE LAMPAZOS DE NARANJO, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE LAMPAZOS DE NARANJO, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE LAMPAZOS DE NARANJO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE LAMPAZOS DE NARANJO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de julio de 1999.
 
@@ -568,3 +570,15 @@ PRESIDENTE MUNICIPAL.
 C. M.V.Z. SERGIO AGUIRRE BORTONI.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+PRIMERO.- Se abroga el Reglamento de Policía y Buen Gobierno, publicado en el Periódico Oficial del Estado del día 02 de Julio de 1999; el presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
+
+TERCERO: Mándese Publicar en el Periódico Oficial del Estado el nuevo reglamento señalado en el punto anterior, para los efectos de su entrada en vigor.
+
+CUARTO.- Mientras tanto no se de cumplimiento a lo señalado en el punto anterior, el reglamento a abrogar e identificado en el punto primero de este acuerdo seguirá en vigor.
