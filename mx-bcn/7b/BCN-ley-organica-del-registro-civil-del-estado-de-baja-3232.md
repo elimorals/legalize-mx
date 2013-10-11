@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2013-09-13"
+last_updated: "2013-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -341,6 +341,10 @@ En ambos casos el procedimiento iniciará a petición del interesado ante el Dir
 
 A quien dé lugar a la duplicidad de actas del Registro Civil en los términos de este Artículo, se le impondrá una multa de diez a cincuenta veces el salario mínimo general vigente en el Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
+El Ejecutivo y los municipios del Estado para el debido intercambio de información, así como para evitar la duplicidad de actas del Registro Civil podrán suscribir los convenios de colaboración que se estimen necesarios.
+
 ### CAPITULO VIII. DE LAS ANOTACIONES
 
 (REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001
@@ -557,9 +561,11 @@ I.- Que la constancia relativa sea debidamente legalizada por las autoridades di
 
 II.- En caso de que no exista traducción para la legalización del documento proveniente del extranjero, se exigirá la traducción de la constancia por Perito Oficial.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 56.
 
-Los Oficiales del Registro Civil, deberán cumplir con la Ley General de Población, en cuanto ella se refiere a casos sujetos a Registro Civil.
+Los Oficiales del Registro Civil, deberán cumplir con la Ley de Migración, en cuanto ella se refiere a casos sujetos a Registro Civil.
 
 ### CAPITULO XII. DE LAS SANCIONES
 
@@ -808,3 +814,19 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 13 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+DECRETO NO. 557 POR EL QUE SE ADICIONA UN QUINTO PÁRRAFO, AL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2013.
+
+DECRETO NO. 558 POR EL QUE SE REFORMA EL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Túrnese el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado.
