@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-762
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-25"
-last_updated: "2011-02-14"
+last_updated: "2013-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el miércoles 25 de agosto de 2010.
 
@@ -127,7 +127,7 @@ El Sistema de Especialización tiene como objetivo que la investigación y perse
 
 Componentes del Sistema de Especialización
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 9.
 
@@ -237,7 +237,7 @@ XIII. Dirección General de Litigación;
 
 XIV. Dirección General Jurídica y Consultiva;
 
-XV. Dirección General de Visitaduría;
+XV. (DEROGADA, G.G. 11 DE OCTUBRE DE 2013)
 
 XVI. Dirección General de Información, Planeación, Programación y Evaluación;
 
@@ -505,11 +505,17 @@ XI. Promover la aplicación de medios alternativos de solución de conflictos y 
 
 XII. Coordinar la intervención del Ministerio Público en procedimientos jurisdiccionales de carácter civil, familiar y administrativo o de otra índole, en que se vea afectado el interés público o el de menores de edad, en términos de la legislación vigente;
 
-XIII. Asignar los agentes del Ministerio Público y personal adscrito a la Subprocuraduría Jurídica, a las unidades administrativas que correspondan, autorizar la distribución del personal que realicen los titulares de éstas y ordenar la rotación de los servidores públicos, conforme a las necesidades del servicio, y
+XIII. Asignar los agentes del Ministerio Público y personal adscrito a la Subprocuraduría Jurídica, a las unidades administrativas que correspondan, autorizar la distribución del personal que realicen los titulares de éstas y ordenar la rotación de los servidores públicos, conforme a las necesidades del servicio, y (sic)
 
-XIV. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
 
-La Subprocuraduría Jurídica se auxiliará de las direcciones generales de Litigación, Jurídica y Consultiva, de Visitaduría, y de la Unidad de Derechos Humanos, así como de las direcciones, subdirecciones y jefaturas de departamento que establezcan las normas aplicables, sin perjuicio de que el Procurador determine una adscripción diversa en función de las necesidades del servicio.
+XIV. Coordinar a los agentes del ministerio público auxiliares del Procurador en los asuntos de su competencia.
+
+XV. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
+
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+La Subprocuraduría Jurídica se auxiliará de las direcciones generales de Litigación y Jurídica y Consultiva, de la Unidad de Derechos Humanos, de la Coordinación de Agentes Auxiliares del Procurador, así como de las direcciones, subdirecciones y jefaturas de departamento que establezcan las normas aplicables, sin perjuicio de que el Procurador determine una adscripción diversa en función de las necesidades del servicio.
 
 ### Capítulo Cuarto. De la Comisaría General de la Policía Ministerial
 
@@ -685,7 +691,11 @@ XXV. Conservar y dar mantenimiento a los bienes muebles e inmuebles de la Procur
 
 XXVI. Establecer y administrar las instalaciones necesarias para el cumplimento de las órdenes de arraigo y demás medidas cautelares que determine la autoridad judicial, de conformidad con los lineamientos que emita el Procurador y velando por la dignidad y el respeto de los derechos humanos de las personas sujetas a las mismas, así como las instalaciones para el resguardo y conservación de evidencias relacionadas con los procedimientos penales;
 
-XXVII. Las demás que le confieran las disposiciones jurídicas y las que le encomiende el Procurador.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+XXVII. Verificar que el equipo, armamento, municiones, parque vehicular, aparatos de radio comunicación, bienes y recursos asignados por la procuraduría a los agentes del ministerio público, de la policía ministerial, peritos, y en general a los servidores públicos, se usen y destinen conforme a los fines legalmente autorizados.
+
+XXVIII. Las demás que le confieran las disposiciones jurídicas y las que le encomiende el Procurador.
 
 La Coordinación de Planeación y Administración se auxiliará de la Dirección General de Información, Planeación, Programación y Evaluación, de la Dirección General de Administración y de la Dirección General de Enlace Interinstitucional, así como de las direcciones, subdirecciones, jefaturas de departamento y demás áreas que establezcan las disposiciones aplicables, salvo que el Procurador determine una adscripción diversa.
 
@@ -929,53 +939,31 @@ XXII. Dictaminar y elaborar lineamientos en materia laboral burocrática, sobre 
 
 XXIII. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
 
-Atribuciones de la Dirección General de Visitaduría
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+
+Atribuciones de la Coordinación de Agentes del Ministerio Público Auxiliares del Procurador
 
 ###### Artículo 33.
 
-Al frente de la Dirección General de Visitaduría habrá un Director General quien se auxiliará de las unidades administrativas y servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con las disposiciones legales en la materia.
+Al frente de la Coordinación de Agentes del Ministerio Público Auxiliares del Procurador habrá un Coordinador, quien se auxiliará de las unidades administrativas y servidores públicos necesarios para el cumplimiento de sus atribuciones de acuerdo con las disposiciones legales en la materia.
 
-Corresponde a la Dirección General de Visitaduría las atribuciones siguientes:
+Corresponde a la Coordinación de Agentes del Ministerio Público Auxiliares del Procurador las atribuciones siguientes:
 
-I. Proponer e implementar normas para la evaluación técnica y jurídica de la actuación de los agentes del Ministerio Público, sus auxiliares y apoyos;
+I. Proponer e implementar normas para la evaluación técnica y jurídica de la actuación de los agentes del ministerio público, sus auxiliares y apoyos.
 
-II. Practicar visitas de inspección, ordinarias y extraordinarias, especiales y de evaluación técnico-jurídica y todas aquellas que sean necesarias para el debido cumplimiento de sus funciones, en términos de la normatividad aplicable;
+II. Practicar visitas de evaluación técnica y jurídica para el debido cumplimiento de sus funciones, en términos de la normatividad aplicable.
 
-III. Dictar las medidas preventivas y correctivas con relación a las irregularidades, incidencias, problemática o deficiencias, detectadas durante las visitas que practique, y establecer el sistema de registro y seguimiento de su cumplimiento;
+III. Evaluar el desarrollo técnico y jurídico de los agentes del ministerio público, peritos y policías ministeriales.
 
-IV. Establecer y fortalecer canales de comunicación con los titulares de las áreas, unidades, incluso órganos desconcentrados de la Procuraduría, a fin de conocer y dar respuesta adecuada sobre cualquier irregularidad, incidencias, problemática o deficiencias, que en el transcurso de las mismas se susciten;
+IV. Dar vista al ministerio público, en aquellos casos en que, con motivo de sus funciones, apareciere la comisión de un hecho delictivo por parte de servidores de la Procuraduría, así como a la Inspección General de las Instituciones de Seguridad Pública del Estado de México, en los supuestos de responsabilidad administrativa.
 
-V. Conocer de quejas que pudieran traducirse en conductas ilícitas de los servidores públicos de la Procuraduría y darles trámite, conforme a la normatividad institucional;
+V. Solicitar y obtener de los servidores públicos visitados o sus jefes inmediatos el original, copia certificada o fotocopia, de las actas circunstanciadas, libros de registro, control y demás documentos, así como los informes necesarios para realizar la evaluación que corresponda.
 
-VI. Vigilar que los servidores públicos de la Procuraduría se conduzcan, en el desempeño de sus funciones, con absoluto apego a las disposiciones jurídicas aplicables y a los lineamientos institucionales;
+VI. Formular instrucciones y recomendaciones a los servidores públicos visitados y a sus superiores jerárquicos para que, con motivo de la evaluación técnica y jurídica que realice se prevengan y corrijan las irregularidades, incidencias y deficiencias que se detecten, fijar el término para su cumplimiento y verificar su desahogo, sin perjuicio de realizar diligencias para mejor proveer en la visita misma.
 
-VII. Evaluar el desarrollo técnico-jurídico de los agentes del Ministerio Público, peritos y policías ministeriales;
+VII. Verificar que los agentes del ministerio público, de la policía ministerial y peritos actualicen la información sobre los asuntos a su cargo en los sistemas informáticos y bases de datos de la Procuraduría, en términos de las disposiciones aplicables, y de encontrar discrepancias, insuficiencias o deficiencias, dictar las medidas que correspondan para corregirlas y, en su caso, dar vista a las unidades administrativas competentes para la instrucción de los procedimientos de responsabilidad a que haya lugar.
 
-VIII. Verificar que el equipo, armamento, municiones, parque vehicular, aparatos de radio comunicación, bienes y recursos asignados por la Procuraduría a los agentes del Ministerio Público, peritos y policías ministeriales y, en general a los servidores públicos, se usen y destinen conforme a los fines legalmente autorizados;
-
-IX. Operar los sistemas de inspección interna, de supervisión, de investigación de la actuación de los servidores públicos, de conformidad con la normatividad institucional;
-
-X. Iniciar, tramitar, determinar y ejercer la facultad de atracción de las investigaciones, respecto de hechos delictuosos que se imputen a servidores públicos de la Procuraduría;
-
-XI. Proponer a su superior jerárquico la normatividad institucional para el registro, clasificación, manejo, secrecía y reserva de la información relacionada con las conductas irregulares de los servidores públicos de la Procuraduría;
-
-XII. Vigilar que en el desarrollo de la investigación y de los procedimientos jurisdiccionales, incluyendo los especializados en justicia para adolescentes, donde tengan participación servidores públicos de la Procuraduría, se cumplan las disposiciones legales y reglamentarias, así como los lineamientos de procuración de justicia;
-
-XIII. Integrar la documentación necesaria y dar vista al Ministerio Público, que por razón de materia corresponda, en aquellos casos en que, con motivo de sus funciones, apareciere la probable comisión de un delito por parte de servidores públicos de la Procuraduría, así como a la Contraloría Interna, tratándose de probable responsabilidad administrativa de los mismos;
-
-XIV. Practicar visitas a las áreas y unidades de retención o cualquier lugar en el que se encuentren personas privadas de su libertad o bajo arraigo, sin importar la denominación del lugar, para verificar la observancia de la normatividad aplicable;
-
-XV. Solicitar y obtener de los servidores públicos visitados o sus jefes inmediatos, el original, copia certificada o fotocopia, de las actas circunstanciadas, libros de registro, control y demás documentos, así como los informes necesarios para realizar la evaluación que corresponda;
-
-XVI. Verificar que los agentes del Ministerio Público, de la Policía Ministerial y peritos actualicen la información sobre los asuntos a su cargo en los sistemas informáticos y bases de datos de la Procuraduría, en los términos de las disposiciones aplicables y, de encontrar discrepancias, insuficiencias o deficiencias, dictar las medidas que correspondan para corregirlas y, en su caso, dar vista a las unidades administrativas competentes para la instrucción de los procedimientos de responsabilidad a que haya lugar;
-
-XVII. Formular instrucciones y recomendaciones a los servidores públicos visitados y a sus superiores jerárquicos para que, con motivo de la evaluación técnico-jurídica que realice, se prevengan y corrijan las irregularidades, incidencias y deficiencias que se detecten, fijar el término para su cumplimiento y verificar su desahogo, sin perjuicio de realizar diligencias para mejor proveer en la visita misma;
-
-XVIII. Formular opinión sobre acuerdos, circulares, manuales y demás documentos normativos que incidan en su ámbito competencial;
-
-XIX. Coordinar a los agentes del Ministerio Público auxiliares del Procurador en los asuntos de su competencia, y
-
-XX. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
+VIII. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
 
 Atribuciones de la Dirección General de Información, Planeación, Programación y Evaluación
 
@@ -1181,17 +1169,15 @@ IV. Verificar el adecuado ejercicio del presupuesto de la Procuraduría, atendie
 
 V. Participar en los procesos de entrega y recepción de las unidades administrativas de la Procuraduría, verificando su apego a la normatividad correspondiente;
 
-VI. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos de la Procuraduría, así como recibir y tramitar las sugerencias y reconocimientos ciudadanos;
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2013)</small>
 
-VII. Tramitar los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en los términos de la Ley de Responsabilidades.
+VI. Recibir y turnar a la Inspección General de las Instituciones de Seguridad Pública del Estado de México las quejas y denuncias que se interpongan en contra de los servidores públicos de la Procuraduría, así como recibir y tramitar las sugerencias y reconocimientos ciudadanos;
 
-El procedimiento para la determinación de responsabilidades administrativas, se llevará a cabo en los términos del Código de Procedimientos Administrativos del Estado de México.
-
-Al inicio del procedimiento podrá determinarse, como medida precautoria, la suspensión temporal del agente del Ministerio Público, perito o policía ministerial de que se trate, y hasta en tanto se resuelve su situación, con el objetivo de salvaguardar el interés social, el interés público o el orden público que las funciones a cargo de los agentes del Ministerio Publico, peritos y policías ministeriales implican al llevar a cabo la investigación y persecución de los delitos, además de así convenir para el mejor cumplimiento del servicio de procuración de justicia o para la adecuada conducción o continuación de las investigaciones. La suspensión no prejuzga sobre la responsabilidad que se impute. Durante el período de la suspensión no se considerará el pago de percepciones.
+VII. (DEROGADA, G.G. 11 DE OCTUBRE DE 2013)
 
 VIII. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Procuraduría sujetos a esta obligación;
 
-IX. Fincar pliegos preventivos de responsabilidad y calificar la responsabilidad administrativa resarcitoria;
+IX. (DEROGADA, G.G. 11 DE OCTUBRE DE 2013)
 
 X. Realizar las acciones de control y evaluación, a fin de constatar que se observen las disposiciones aplicables en el ejercicio de los recursos federales;
 
@@ -1809,7 +1795,7 @@ LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 14 DE FEBRERO DE 2011.
 
@@ -1838,3 +1824,11 @@ Artículo Quinto.- La nueva estructura orgánica de la Procuraduría General de 
 Recursos humanos, materiales y presupuestales.
 
 Artículo Sexto.- Se instruye al Secretario de Finanzas del Gobierno estatal, para que en el ámbito de sus facultades, provea lo necesario respecto de los recursos humanos, técnicos, materiales y presupuestales necesarios para el adecuado funcionamiento de la Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género y sus respectivas unidades administrativas.
+
+G.G. 11 DE OCTUBRE DE 2013.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
