@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2013-09-28"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADA EN EL FOLLETO ANEXO DEL P.O. DE 12 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -353,7 +355,7 @@ Para tal efecto, la Fiscalía General del Estado emitirá, mediante acuerdos gen
 
 El Consejo Estatal de Seguridad Pública será la máxima instancia de deliberación, consulta y definición de políticas públicas del Sistema y estará integrado por:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+I. El Gobernador del Estado, quien lo presidirá;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -911,7 +913,7 @@ El Centro Estatal de Control de Confianza, propondrá los criterios para la sele
 
 El Centro Estatal de Control de Confianza deberá practicar las evaluaciones a aquellas personas que el Presidente Municipal le solicite para efectos de la propuesta y aprobación del Director de Seguridad Pública Municipal o su equivalente, de conformidad con lo previsto en el Código Municipal.
 
-#### SECCIÓN SEGUNDA. DE LA ESCUELA ESTATAL DE POLICIA Y LAS ACADEMIAS DE FORMACIÓN, CAPACITACIÓN Y PROFESIONALIZACIÓN POLICIAL
+#### SECCIÓN SEGUNDA. DE LA ESCUELA ESTATAL DE POLÍCIA Y LAS ACADEMIAS DE FORMACIÓN, CAPACITACIÓN Y PROFESIONALIZACIÓN POLICIAL
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1679,7 +1681,7 @@ Dentro de los Comités de Seguridad Pública que prevé esta Ley, se promoverá 
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-l.- Conocer y opinar sobre seguridad pública y prevención del delito;
+I.- Conocer y opinar sobre seguridad pública y prevención del delito;
 
 II.- Sugerir medidas específicas y acciones concretas para mejorar esta función;
 
@@ -1893,7 +1895,7 @@ Se abroga la Ley Sobre el Sistema Estatal de Seguridad Pública y se derogan las
 
 D A D O en el Salón de Sesiones del Poder legislativo, en la ciudad de Chihuahua, Chih., a los veintinueve días del mes de enero del año dos mil nueve.
 
-DIP. HECTOR ARCELUS PEREZ. Presidente. Rúbrica. DIP. JAVIER GAUDINI DIAZ GURROLA. Secretario. Rúbrica. DIP. MARIA ÁVILA SERNA. Secretaria. Rúbrica.
+DIP. HECTOR ARCELUS PEREZ. Presidente. Rúbrica. DIP. JAVIER GAUDINI DIAZ GURROLA. Secretario. Rúbrica. DIP. MARIA AVILA SERNA. Secretaria. Rúbrica.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -2018,3 +2020,61 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Seguridad Pública contenida en el Decreto No. 582-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009, sus posteriores reformas y en general todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, contenida en el Decreto No. 584-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009 y sus posteriores reformas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, inmediatamente que entre en vigor la Ley del Sistema Estatal de Seguridad Pública a que se refiere el presente Decreto, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública convocará a reunión extraordinaria para la instalación de la Conferencia Estatal de Seguridad Pública Municipal.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se establecen los Consejos de Seguridad Pública de los municipios en los términos de la Ley que se expide, los Consejos Consultivos de Seguridad Pública, Consejos Ciudadanos, Comités Ciudadanos u órganos equivalentes de los municipios, se ajustarán a las disposiciones y ejercerán las atribuciones contenidas en el Capítulo V del título segundo de la misma, independientemente de la denominación que hayan adoptado.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados a los Integrantes de las Instituciones Policiales ante las Comisiones del Servicio Profesional de Carrera Policial, así como de Honor y Justicia, con anterioridad a la entrada en vigor de la presente Ley, continuarán su trámite hasta su resolución conforme a las disposiciones legales y reglamentarias vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos para la aplicación de sanciones iniciados por la Fiscalía Especializada en Control, Análisis y Evaluación a los agentes del Ministerio Público y peritos, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, continuarán su trámite hasta su resolución conforme a las disposiciones legales vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO OCTAVO.
+
+El titular del Ejecutivo del Estado, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, expedirá el reglamento del servicio profesional de carrera de las instituciones de seguridad pública del Estado y los municipios.
+
+###### ARTÍCULO NOVENO.
+
+El Servicio Profesional de Carrera para agentes del Ministerio Público y peritos deberá implementarse en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO.
+
+Con excepción de la División de Investigación, la Policía Estatal Única, y los agentes de seguridad, custodia y traslado tanto de los centros de reinserción social, como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, adoptarán el esquema de jerarquización terciaria contenido en los artículos 153 y 157, respectivamente, de la Ley del Sistema Estatal de Seguridad Pública que se expide por virtud del presente Decreto, a más tardar el 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La División de Investigación de la Policía Estatal Única adoptará el esquema de jerarquización terciaria contenido en el artículo 154 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no excederá del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Instituciones Policiales de los municipios, deberán implementar el Servicio Profesional de Carrera, incluyendo la integración de sus respectivas Comisiones del Servicio Profesional de Carrera, Honor y Justicia y la adopción del esquema de jerarquización terciaria contenido en el artículo 155 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Estatal de Seguridad Pública o Ley Sobre el Sistema Estatal de Seguridad Pública, se entenderá referida a la Ley del Sistema Estatal de Seguridad Pública que se expide mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
