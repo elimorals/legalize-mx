@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-los-derechos-y-cultura-indigena-del-estado-de-68560"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2012-09-15"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY SOBRE LOS DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -139,9 +139,35 @@ II.- Asegurar que los integrantes de las comunidades y pueblos indígenas gocen 
 
 III.- Promover el desarrollo equitativo y sustentable de las comunidades y pueblos indígenas, impulsando el respeto a su cultura, usos, costumbres, tradiciones y. autoridades tradicionales;
 
-IV.- Promover estudios sociodemográficos para la plena identificación de los integrantes de las comunidades y pueblos indígenas; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-V.- Las demás que señale la presente Ley y otros ordenamientos aplicables.
+IV.- Promover estudios sociodemográficos para la plena identificación de los integrantes de los (sic) comunidades y pueblos indígenas;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+V.- Apoyar la formación y acreditación profesional de defensores públicos, intérpretes y traductores en lenguas indígenas nacionales y español;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VI.- Incluir dentro de los planes y programas en materia de educación y cultura indígena, las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo de las diversas lenguas indígenas nacionales, contando con la participación de los pueblos y comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VII.- Difundir en las lenguas indígenas nacionales de los beneficiarios, el contenido de los programas, obras y servicios dirigidos a las comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VIII.- Difundir a través de los medios de comunicación las lenguas indígenas nacionales de la región, para promover su uso y desarrollo;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IX.- Supervisar que en la educación pública y privada se fomente o implemente la interculturalidad, el multilingüismo y el respeto a la diversidad lingüística para contribuir a la preservación, estudio y desarrollo de las lenguas indígenas nacionales y su literatura;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+X.- Garantizar que las instituciones, dependencias y oficinas públicas cuenten con personal que tenga conocimientos de las lenguas indígenas nacionales requeridas en sus respectivos territorios; y
+
+XI.- Las demás que señale la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 12.
 
@@ -372,3 +398,7 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Con el objetivo de hacer efectivo lo dispuesto por la fracción VIII, apartado A, del artículo 2o de la Constitución Política de los Estados Unidos Mexicanos, relativa al acceso a la jurisdicción del Estado, en un término de 120 días naturales a partir de la entrada en vigor del presente Decreto, se creará un grupo de trabajo conformado por historiadores o cronistas del pueblo o comunidad indígena de que se trate; por un representante de dicha comunidad o pueblo; y un representante del Poder Judicial del Estado; quienes se encargarán de estudiar, investigar y compilar documentalmente los usos y costumbres del pueblo o comunidad indígena de que se trate; con la finalidad de que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, sean tomados en consideración sus costumbres y especificidades culturales.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
