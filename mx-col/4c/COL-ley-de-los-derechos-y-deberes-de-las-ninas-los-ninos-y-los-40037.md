@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-y-deberes-de-las-ninas-los-ninos-y-los-4003
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-19"
-last_updated: "2012-05-12"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, LOS NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -299,7 +299,9 @@ En los casos de esta fracción, será obligación de toda autoridad, participar 
 
 IV.- Proveer a las niñas, los niños y los adolescentes de la información pertinente y necesaria para el pleno desarrollo de sus cualidades intelectuales, emocionales y sociales con el fin (sic) prevenirlos de peligros que puedan afectar a su vida o su salud;
 
-V.- Participar y proveer de información a las niñas, los niños y los adolescentes para la prevención y atención de las adiciones (sic);
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+V.- Participar y proveer de información a las niñas, los niños y los adolescentes para la prevención y atención de las adicciones;
 
 VI.- Tratar a las niñas, los niños y los adolescentes con respeto a su dignidad y a sus derechos, y
 
@@ -391,17 +393,23 @@ Las madres tienen derecho, mientras están embarazadas o lactando, a recibir la 
 
 ### Capítulo V. Del derecho a ser protegido en su integridad, en su libertad, contra el maltrato y el abuso sexual
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-Las Niñas, los niños y los adolescentes tienen el derecho a ser protegidos contra actos u omisiones que lesionen su derecho o que puedan afectar su salud física o mental, su normal desarrollo o su derecho a la educación en los términos establecidos en el artículo 3º Constitucional. Las leyes vigentes en el Estado establecerán las formas de prever y evitar estas conductas, específicamente se les protegerá por parte de adultos, ascendientes, tutores y a todas personas que los tengan bajo su cuidado y custodia cuando se vean afectados por:
+Las Niñas, los niños y los adolescentes tienen el derecho a ser protegidos contra actos u omisiones que lesionen su derecho o que puedan afectar su salud física o mental, su normal desarrollo o su derecho a la educación en los términos establecidos en el artículo 3º Constitucional. Las leyes vigentes en el Estado establecerán las formas de prevenir y evitar estas conductas. Enunciativamente, deberán ser protegidos por ascendientes, tutores y todas las personas que los tengan a su cuidado y custodia, cuando se vean afectados por:
 
 I.- El descuido, la negligencia, el abandono, el abuso emocional, físico y sexual y cualquier mal ejemplo que en un futuro pueda incidir negativamente en su desarrollo integral;
 
-II.- Ser utilizados en los delitos contra la salud, el secuestro, y cualquier otro ilícito;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+II.- Ser utilizados en los delitos contra la salud, el secuestro, en la delincuencia organizada y cualquier otro ilícito;
 
 III.- Ser víctimas o coparticipes de la explotación sexual comercial infantil;
 
-IV.- Las peores formas de trabajo infantil suscritas en el Convenio 182 por la Organización Internacional del Trabajo, que son:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV.- Las formas más extremas de trabajo infantil suscritas en el Convenio 182 por la Organización Internacional del Trabajo, que son:
 
 a). Los trabajos en que el niño queda expuesto a abusos de orden físico, psicológico o sexual;
 
@@ -415,7 +423,9 @@ e). Los trabajos que implican condiciones especialmente difíciles, como los hor
 
 V.- Conflictos armados, desastres naturales, situaciones de refugio o desplazamiento, y acciones de reclutamiento para que participen en conflictos armados.
 
-En el momento en que las niña (sic), los niño (sic) o los adolescente (sic) presente (sic) una denuncia debe estar acompañado (a) por personal especializado quién lo tratará con respeto y sensibilidad, sin violar sus derechos en la toma de declaración sobre delitos sexuales.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+En el momento en que cualquier niña, niño o adolescente presente una denuncia, deberá estar acompañado (a) por personal especializado quien le tratará con respeto y sensibilidad, sin violar sus derechos, en la toma de declaración sobre delitos sexuales.
 
 En caso de notoria urgencia podrán acudir solos ante la autoridad más cercana, la que deberá escucharlos y canalizarlos de inmediato ante la autoridad competente dependiendo de la urgencia y gravedad de los hechos que motivaron la denuncia.
 
@@ -507,7 +517,9 @@ I.- Reducir la mortalidad infantil;
 
 II.- Asegurarles asistencia médica sanitaria, gratuita o a bajo costo, previo estudio socioeconómico para la prevención, tratamiento y la rehabilitación de su salud;
 
-III.- Asegurarles asistencia médica psicológica y de prevención, para el tratamiento y rehabilitación en el ámbito de las adiciones;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+III.- Asegurarles asistencia médica psicológica y de prevención, para el tratamiento y rehabilitación en el ámbito de las adicciones;
 
 IV.- Promover la lactancia materna;
 
@@ -527,7 +539,9 @@ XI.- Disponer lo necesario para que las niñas, los niños y los adolescentes co
 
 XII.- Proveer a las niñas, los niños y los adolescentes de la información pertinente y necesaria para el pleno desarrollo de sus cualidades intelectuales, emocionales y sociales con el fin prevenirlos de peligros que puedan afectar a su vida o su salud;
 
-XIII.- Participar y proveer de información a las niñas, los niños y los adolescentes para la prevención y atención de las adiciones (sic), y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XIII.- Participar y proveer de información a niñas, niños y adolescentes para la prevención y atención de las adicciones, y
 
 XIV.- Establecer las medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de las niñas, los niños y los adolescentes víctimas o sujetos de violencia intrafamiliar.
 
@@ -575,13 +589,23 @@ VI.- Se impida en las instituciones educativas, la imposición de medidas de dis
 
 VII.- Proveer a las niñas, los niños y los adolescentes de la información pertinente y necesaria para el pleno desarrollo de sus cualidades intelectuales, emocionales y sociales con el fin prevenirlos de peligros que puedan afectar a su vida o su salud;
 
-VIII.- Participar y proveer de información a las niñas, los niños y los adolescentes para la prevención y atención de las adiciones (sic);
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VIII.- Participar y proveer de información a las niñas, los niños y los adolescentes para la prevención y atención de las adicciones;
 
 IX.- Que en las instituciones educativas se implementen mecanismos para la solución de conflictos, que contengan claramente las conductas que impliquen faltas a la disciplina y los procedimientos para su aplicación;
 
-X.- Inculcar el respeto del medio ambiente natural, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-XI.- Se fortalezca su formación cívica con base en el respeto a la historia y tradiciones nacionales así, como a los símbolos patrios.
+X.- Inculcar el respeto al medio ambiente natural;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XI.- Se fortalezca su formación cívica con base en el respeto a la historia y tradiciones nacionales, así como a los símbolos patrios, y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XII.- Se proporcione a las niñas, niños y adolescentes la información necesaria para prevenir y evitar su participación en todo tipo de ilícitos, en especial los relacionados con la delincuencia organizada.
 
 ### Capítulo XI. De los derechos al descanso y al juego
 
@@ -627,9 +651,11 @@ Las niñas, los niños y los adolescentes tienen derecho a la libertad de expres
 
 Las niñas, los niños y los adolescentes tienen derecho a ejercer sus capacidades de opinión, análisis, crítica y de presentar propuestas en todos los ámbitos en los que viven, trátese de familia, escuela, sociedad o cualquier otro, sin más limitaciones que las que establezcan la Constitución, la Constitución del Estado y dicte el respeto de los derechos de terceros.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 42.
 
-Las niñas, los niños y los adolescentes tienen derecho a la información. En cumplimiento de este derecho se establecerán normas y se diseñarán políticas, a fin de que estén orientados en el ejercicio del derecho a que se refiere el artículo anterior. Asimismo, se pondrá especial énfasis en medidas que los protejan de peligros que puedan afectar su vida, su salud o su desarrollo.
+Las niñas, los niños y los adolescentes tienen derecho a la información. En cumplimiento de este derecho se establecerán normas y se diseñarán políticas, a fin de que estén orientados en el ejercicio del derecho a que se refiere el artículo anterior. Asimismo, se pondrá especial énfasis en medidas que los protejan de peligros que puedan afectar su vida, su salud o su desarrollo físico, mental, material, espiritual, moral, social, sexual o reproductivo.
 
 ###### Artículo 43.
 
@@ -707,7 +733,9 @@ VI.- Obligar a los medios de comunicación que cuando el contenido de los progra
 
 Además, las autoridades a que se refiere este artículo promoverán que se clasifiquen los espectáculos públicos, las películas, los programas de radio y televisión, los videos, los impresos y cualquier otra forma de comunicación o información que sea perjudicial para el bienestar o que atente contra la dignidad de las niñas, los niños y los adolescentes. Asimismo, aplicarán campañas sobre la cultura de la denuncia a la violación de los derechos de las niñas, los niños y los adolescentes.
 
-VII.- Restringir en su caso en las respectivas disposiciones legales, la utilización de los diversos medios de comunicación para difundir información o materiales en perjuicio del sano desarrollo de la (sic) niñas, los niños y los adolescentes.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VII.- Restringir, en su caso, en las respectivas disposiciones legales, la utilización de los diversos medios de comunicación para difundir información o materiales en perjuicio del sano desarrollo de niñas, niños y adolescentes, en especial aquéllos que inciten a la comisión de delitos o a la incorporación de menores de edad a la delincuencia organizada.
 
 ## Título Tercero. De los deberes de las niñas, los niños y los adolescentes
 
@@ -1083,7 +1111,9 @@ II.- Representar legalmente los intereses de las niñas, los niños y los adoles
 
 III.- Conciliar en casos de conflicto en el núcleo familiar cuando se vulneren los derechos y garantías de las niñas, los niños y los adolescentes;
 
-IV.- Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito cometidos contra las niñas, los niños y los adolescentes, coadyuvando en la averiguación previa;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV.- Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito cometidos contra niñas, niños y adolescentes, coadyuvando en la investigación de los mismos, y participar en defensa de los menores cuando éstos se ven involucrados en la comisión de hechos ilícitos;
 
 V.- Realizar campañas para la prevención del delito y el maltrato a las niñas, los niños y los adolescentes;
 
@@ -1103,9 +1133,11 @@ III.- Asesorar a los integrantes de las familias en todos los asuntos en que est
 
 IV.- Intervenir por la vía conciliatoria en la solución de las controversias que se susciten entre los integrantes de la familia cuando se vulneren los derechos y garantías de las niñas, los niños y los adolescentes;
 
-V.- Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito cometidos contra los adolescentes, coadyuvando en la averiguación previa;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-VI.- Ordenar se practiquen las investigaciones y estudios de trabajo social y carácter psicológico necesarios, para fortalecer las acciones en favor de la atención, defensa y protección de los derechos de las niñas, los niños y los adolescentes y,
+V.- Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito cometidos contra niñas, niños o adolescentes y, actuar en la salvaguarda de sus derechos cuando éstos tengan el carácter de sujetos activos de delito, coadyuvando en todo momento con la investigación del delito;
+
+VI.- Ordenar se practiquen las investigaciones y estudios de trabajo social y carácter psicológico necesarios, para fortalecer las acciones en favor de la atención, defensa y protección de los derechos de las niñas, los niños y los adolescentes y, (sic)
 
 VII.- Vigilar en todo procedimiento que se siga ante la instancia encargada de impartir justicia para menores la fiel observancia del mismo, y solicitar en su caso, la reconsideración de las resoluciones del Consejo;
 
@@ -1250,3 +1282,7 @@ P.O. 5 DE MARZO DE 2011.
 P.O. 12 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
