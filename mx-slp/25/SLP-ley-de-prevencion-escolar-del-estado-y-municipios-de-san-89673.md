@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-escolar-del-estado-y-municipios-de-san-89673"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2012-09-13"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PREVENCIÓN ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -558,3 +560,15 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+PRIMERO. Esta Ley entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Prevención Escolar del Estado y municipios de San Luis Potosí publicada mediante Decreto legislativo N° 1139 en el Periodo Oficial del Estado el 13 de Septiembre de 2012.
+
+TERCERO. El Ejecutivo del Estado emitirá la normatividad necesaria para coadyuvar a la prevención y seguridad escolar en términos de esta Ley.
+
+CUARTO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan a la presente Ley.
