@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2013-07-27"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -601,9 +601,9 @@ I.- Auxiliar al Presidente para el buen desempeño de sus funciones;
 
 II.- Vigilar la preparación y el orden de los asuntos en cartera con que se dará cuenta al Congreso;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-III.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día y cuidar que el acta de la sesión anterior y la síntesis de comunicaciones de cada sesión, sean distribuidas a los Diputados previamente a la sesión en que deban darse lectura, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
+III.- Pasar lista de asistencia, verificar la existencia del quórum, y cuidar que hayan sido enviados a los Diputados, previamente a la sesión, por medio electrónico, el orden del día, el acta de la sesión anterior y la síntesis de comunicaciones, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
 
 IV.- Dar lectura a las iniciativas de ley o decreto que no sean iniciadas por los diputados;
 
@@ -611,7 +611,9 @@ V.- Recabar y contar los votos de los Diputados, comunicando el resultado al Pre
 
 VI.- Cuidar que se redacten las actas de las sesiones en forma fidedigna, firmarlas después de aprobadas y asentarlas en el registro respectivo;
 
-VII.- Entregar las iniciativas y expedientes a las comisiones correspondientes, a más tardar al tercer día del acuerdo respectivo;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VII.- Cuidar que las iniciativas y expedientes sean entregadas a las comisiones correspondientes por medio electrónico, a más tardar al tercer día del acuerdo respectivo;
 
 VIII.- Proporcionar a las comisiones la información que obre en su poder, cuando se lo soliciten;
 
@@ -1113,9 +1115,11 @@ III.- Es iniciativa de acuerdo, toda resolución del Congreso que, por su natura
 
 IV.- Es iniciativa de acuerdo económico, toda resolución del Congreso que sólo tiene efectos en su administración interna o de sus dependencias.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 85.
 
-Las iniciativas se turnarán a las comisiones legislativas, las que, si la iniciativa presenta dudas acerca de su naturaleza, la Asamblea decidirá lo que en derecho proceda y formularán el dictamen correspondiente.
+Las iniciativas se turnarán por medio electrónico a las comisiones legislativas, si la iniciativa presenta dudas acerca de su naturaleza, la Asamblea decidirá lo que en derecho proceda y formularán el dictamen correspondiente.
 
 ###### ARTICULO 86.
 
@@ -1165,7 +1169,9 @@ VI.- Conclusiones o puntos resolutivos; y
 
 VII.- Fecha y espacio para el nombre y la firma de los diputados.
 
-Una vez firmados los dictámenes, en favor o en contra, por la mayoría de los miembros de la comisión o comisiones encargadas de una iniciativa o asunto, se remitirán a la Asamblea debiéndose imprimir y adjuntar los votos particulares si los hubiere, para su conocimiento.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+Una vez firmados los dictámenes, en favor o en contra, por la mayoría de los miembros de la comisión o comisiones encargadas de una iniciativa o asunto, se remitirán por medio electrónico a la Asamblea, debiéndose adjuntar los votos particulares si los hubiere, para su conocimiento.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
 
@@ -1454,3 +1460,7 @@ P.O. 27 DE JULIO DE 2013.
 DECRETO No. 132, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic )El Estado de Colima.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
