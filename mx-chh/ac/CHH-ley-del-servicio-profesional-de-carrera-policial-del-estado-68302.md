@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-servicio-profesional-de-carrera-policial-del-estado-683
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2010-10-02"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -57,7 +59,7 @@ La presente Ley regula el Servicio Profesional de Carrera Policial de los elemen
 
 El Servicio Profesional de Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, certificación, selección, ingreso, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio, de los integrantes de las Instituciones Policiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -65,7 +67,7 @@ El Servicio Profesional de Carrera Policial es el sistema de carácter obligator
 
 El régimen jurídico de los elementos de las Instituciones Policiales del Estado y los municipios, es el establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chihuahua, el Código Administrativo del Estado, la Ley Sobre el Sistema Estatal de Seguridad Pública, la Ley Orgánica de la Fiscalía General del Estado, el Código Municipal para el Estado, la presente Ley y demás disposiciones legales y reglamentarias aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -153,7 +155,7 @@ Son requisitos de ingreso y permanencia en las Instituciones Policiales, los sig
 
 A).- De Ingreso:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -169,7 +171,7 @@ a).- En el caso de aspirantes a las áreas de investigación: enseñanza superio
 
 b).- Tratándose de aspirantes a las áreas de prevención: enseñanza media superior o equivalente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -205,7 +207,7 @@ a).- En el caso de aspirantes a las áreas de investigación: enseñanza superio
 
 b).- Tratándose de aspirantes a las áreas de prevención: enseñanza media superior o equivalente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -283,7 +285,7 @@ III.- Baja por renuncia, jubilación, retiro, incapacidad permanente o muerte.
 
 Al concluir el servicio, el integrante o sus sucesores deberán entregar al funcionario designado para tal efecto, toda la información, documentación, armamento y equipo, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia, mediante acta de entrega-recepción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -293,7 +295,7 @@ La edad límite para la permanencia en el servicio del personal policial operati
 
 Los integrantes de las Instituciones Policiales que hayan alcanzado la edad límite para su permanencia, podrán ser reubicados en otras áreas de los servicios de las propias instituciones, de acuerdo con sus aptitudes, conservando los derechos adquiridos y observando respeto a su grado jerárquico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -507,7 +509,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del 
 
 LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. LIC. SERGIO GRANADOS PINEDA. Secretario General de Gobierno. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
@@ -552,3 +554,61 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Seguridad Pública contenida en el Decreto No. 582-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009, sus posteriores reformas y en general todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, contenida en el Decreto No. 584-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009 y sus posteriores reformas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, inmediatamente que entre en vigor la Ley del Sistema Estatal de Seguridad Pública a que se refiere el presente Decreto, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública convocará a reunión extraordinaria para la instalación de la Conferencia Estatal de Seguridad Pública Municipal.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se establecen los Consejos de Seguridad Pública de los municipios en los términos de la Ley que se expide, los Consejos Consultivos de Seguridad Pública, Consejos Ciudadanos, Comités Ciudadanos u órganos equivalentes de los municipios, se ajustarán a las disposiciones y ejercerán las atribuciones contenidas en el Capítulo V del título segundo de la misma, independientemente de la denominación que hayan adoptado.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados a los Integrantes de las Instituciones Policiales ante las Comisiones del Servicio Profesional de Carrera Policial, así como de Honor y Justicia, con anterioridad a la entrada en vigor de la presente Ley, continuarán su trámite hasta su resolución conforme a las disposiciones legales y reglamentarias vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos para la aplicación de sanciones iniciados por la Fiscalía Especializada en Control, Análisis y Evaluación a los agentes del Ministerio Público y peritos, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, continuarán su trámite hasta su resolución conforme a las disposiciones legales vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO OCTAVO.
+
+El titular del Ejecutivo del Estado, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, expedirá el reglamento del servicio profesional de carrera de las instituciones de seguridad pública del Estado y los municipios.
+
+###### ARTÍCULO NOVENO.
+
+El Servicio Profesional de Carrera para agentes del Ministerio Público y peritos deberá implementarse en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO.
+
+Con excepción de la División de Investigación, la Policía Estatal Única, y los agentes de seguridad, custodia y traslado tanto de los centros de reinserción social, como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, adoptarán el esquema de jerarquización terciaria contenido en los artículos 153 y 157, respectivamente, de la Ley del Sistema Estatal de Seguridad Pública que se expide por virtud del presente Decreto, a más tardar el 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La División de Investigación de la Policía Estatal Única adoptará el esquema de jerarquización terciaria contenido en el artículo 154 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no excederá del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Instituciones Policiales de los municipios, deberán implementar el Servicio Profesional de Carrera, incluyendo la integración de sus respectivas Comisiones del Servicio Profesional de Carrera, Honor y Justicia y la adopción del esquema de jerarquización terciaria contenido en el artículo 155 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Estatal de Seguridad Pública o Ley Sobre el Sistema Estatal de Seguridad Pública, se entenderá referida a la Ley del Sistema Estatal de Seguridad Pública que se expide mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
