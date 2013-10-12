@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-de-la-calidad-21820"
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-18"
-last_updated: "1997-10-18"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL INSTITUTO JALISCIENSE DE LA CALIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 18 de octubre de 1997.
 
@@ -34,6 +36,8 @@ Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberan
 DECRETO
 
 Número 16765. El Congreso del Estado Decreta:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR, PUBLICADO EN EL P.O. 12 DE OCTUBRE DE 2013, LAS REFERENCIAS QUE SE HAGAN EN OTRAS DISPOSICIONES AL "INSTITUTO JALISCIENSE DE LA CALIDAD", SE ENTENDERÁN COMO HECHAS AL "INSTITUTO JALISCIENSE DEL EMPRENDEDOR".</small>
 
 LEY DEL INSTITUTO JALISCIENSE DE LA CALIDAD
 
@@ -358,3 +362,29 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley del Instituto Jalisciense de la Calidad y demás disposiciones legales que se opongan al presente decreto, quedando extinto dicho organismo.
+
+Las referencias que se hagan en otras disposiciones al Instituto Jalisciense de la calidad, se entenderán hechas al Instituto Jalisciense del Emprendedor.
+
+TERCERO. La Junta de Gobierno deberá expedir su reglamento interno en un plazo que no exceda de ciento ochenta días naturales a partir de la entrada en vigor del presente decreto y deberá remitirlo al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "El Estado de Jalisco", debiendo contener al Sistema de Evaluación del Desempeño, acorde a las disposiciones que en materia de control gubernamental ha expedido la Federación.
+
+CUARTO. A la fecha de entrada en vigor del presente Decreto, el Instituto Jalisciense del Emprendedor se subrogará en todas las obligaciones que hubiere contraído el Instituto Jalisciense de la Calidad, debiéndose realizar una auditoría interna que refleje el estado real y actual en que se entrega al organismo público descentralizado que se extingue y las condiciones y recursos humanos, materiales y financieros en que reciba el Instituto Jalisciense del Emprendedor.
+
+QUINTO. Los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones con que actualmente cuenta el Instituto Jalisciense de la Calidad, pasarán a formar parte del patrimonio del Instituto Jalisciense del Emprendedor al inicio de la vigencia de este decreto.
+
+SEXTO. Los montos no ejercidos del presupuesto autorizado para el Instituto Jalisciense de la Calidad en el Presupuesto de Egresos del Estado, para el ejercicio fiscal del año en curso, al inicio de la vigencia de este decreto, serán los ejercidos por el Instituto Jalisciense del Emprendedor.
+
+SÉPTIMO. Los procedimientos administrativos y asuntos pendientes o que se encuentren en trámite ante el Instituto Jalisciense de la Calidad al entrar en vigor este decreto, continuarán su trámite conforme a la Ley del Instituto Jalisciense de la Calidad y serán resueltos hasta su conclusión por el Instituto Jalisciense del Emprendedor.
+
+OCTAVO. Los trabajadores del Instituto Jalisciense de la Calidad pasarán a formar parte del Instituto Jalisciense del Emprendedor, respetándose todos sus derechos laborales adquiridos en términos de la ley, tanto individuales como colectivos.
+
+NOVENO. Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente decreto, el Instituto Jalisciense del Emprendedor deberá ratificar los convenios celebrados con anterioridad per el Instituto Jalisciense de la Calidad, sustituyéndolo en el cumplimiento de las obligaciones y el ejercicio de dichos derechos.
+
+DÉCIMO. En tanto se expiden las disposiciones reglamentarias a que se refiere la presente ley, seguirán en vigor en lo que no la contravengan, aquellas que han regido hasta el momento al Instituto Jalisciense de la Calidad.
