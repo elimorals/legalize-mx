@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-juventud-para-el-estado-de-tabasco-87806"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2013-02-14"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de abril de 2012.
 
@@ -79,7 +79,9 @@ V. Ejecutivo.- Al Poder Ejecutivo del Estado Libre y Soberano de Tabasco;
 
 VI. Estado.- Al Estado Libre y Soberano de Tabasco;
 
-VII. Instituto.- Al Instituto de la Juventud y el Deporte de Tabasco;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VII. Instituto.- El Instituto de la Juventud de Tabasco;
 
 VIII. Jóvenes.- A las mujeres y a los hombres cuya edad esté comprendida entre los doce años y hasta los veintinueve años;
 
@@ -373,7 +375,7 @@ En la ejecución de estas acciones se diseñará un mecanismo que permita la amp
 
 ###### ARTÍCULO 33.
 
-Los jóvenes tienen el derecho a la participación social y política como forma de ·mejorar las condiciones de vida de los sectores sociales, debiendo sujetarse a las leyes aplicables.
+Los jóvenes tienen el derecho a la participación social y política como forma de mejorar las condiciones de vida de los sectores sociales, debiendo sujetarse a las leyes aplicables.
 
 Para ello, tendrán derecho a formar organizaciones juveniles que busquen hacer realidad sus demandas, aspiraciones y proyectos colectivos.
 
@@ -581,39 +583,31 @@ El Consejo estará integrado por:
 
 1. Un Presidente, que será el titular de la Secretaría de Desarrollo Social.
 
-2. Siete vocales, que serán los titulares de:
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE FEBRERO DE 2013)</small>
+2. Ocho vocales, que serán los titulares de:
 
 a. Secretaría de Gobierno;
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
-
 b. Secretaría de Planeación y Finanzas;
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
-
-c. Secretaría de Administración;
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+c. Secretaría de Educación;
 
 d. Secretaría de Desarrollo Económico y Turismo;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE FEBRERO DE 2013)</small>
-
 e. Secretaría de Salud;
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+f. Secretaría de Administración;
 
-f. El presidente de la Comisión Orgánica del Congreso del Estado relacionada con los temas de juventud;
+g. El presidente de la Comisión Orgánica del Congreso del Estado relacionada con los temas de juventud; y,
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
-
-g. Un representante de los jóvenes, mayor de dieciocho años, electo por la Comisión Orgánica del Congreso del Estado relacionada con los temas de juventud, de entre destacados jóvenes tabasqueños.
+h. Un representante de los jóvenes, mayor de dieciocho años, electo por la Comisión Orgánica del Congreso del Estado relacionada con los temas de juventud, de entre destacados jóvenes tabasqueños.
 
 3. Un Secretario Técnico, que será el Director General del Instituto.
 
-Por cada titular de las secretarías señaladas en los incisos del a), b), c),d) y e) existirá un suplente designados (sic) por el Secretario.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+Por cada titular de las secretarías señaladas en los incisos del a), b), c), d), e) y f) existirá un suplente designado por el Secretario.
 
 Cada integrante del Consejo, tendrá derecho a nombrar un suplente, en los términos que establezca el reglamento.
 
@@ -820,3 +814,7 @@ TERCERO.- La Secretarías de: Planeación y Finanzas, Administración, Contralor
 El personal que labora en el hasta hoy Instituto de la Juventud y el Deporte de Tabasco, será readscrito a cada uno de los nuevos Instituto del Deporte de Tabasco e Instituto de la Juventud de Tabasco, conforme a las necesidades del servicio en cada uno de ellos, sin perjuicio de sus derechos laborales.
 
 CUARTO. Los asuntos administrativos, que con motivo de este Decreto y los respectivos acuerdos de creación del Instituto del Deporte y del Instituto de la Juventud deban pasar a cada uno de ellos, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que estén facultadas por esta Ley para conocer de los mismos reciban y asuman los asuntos en cuestión. Se exceptúan de esta disposición los asuntos urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
