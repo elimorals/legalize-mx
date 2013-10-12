@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-privada-para-el-estado-de-chihuahua-90711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de diciembre de 2012.
 
@@ -133,9 +133,11 @@ Los Prestadores de Servicios a que se refiere el artículo anterior, que de mane
 
 Tratándose de licencia particular, individual o colectiva, para la portación de armas de fuego, otorgada por la Secretaría de la Defensa Nacional, además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, deberán observar las establecidas en la presente Ley.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 11.
 
-Para todo lo que no esté previsto en esta Ley, será aplicable en forma supletoria la Ley del Sistema Estatal de Seguridad Pública, la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, y demás disposiciones legales aplicables.
+En todo lo no previsto en esta Ley, será aplicable en forma supletoria la Ley del Sistema Estatal de Seguridad Pública, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, y demás disposiciones legales aplicables.
 
 ## TÍTULO SEGUNDO. DE LA FISCALÍA GENERAL DEL ESTADO
 
@@ -599,7 +601,7 @@ Los Prestadores de Servicios de Seguridad Privada tendrán responsabilidad civil
 
 De ser procedente la Autorización, el solicitante deberá presentar dentro de los diez días hábiles siguientes a la notificación de procedencia, póliza de fianza expedida por institución legalmente autorizada a favor de la Secretaría de Hacienda del Gobierno del Estado de Chihuahua, por un monto equivalente a cinco mil veces el salario mínimo general vigente en la capital del Estado, para garantizar la adecuada prestación de servicios, así como responder por los daños y perjuicios que con motivo del desempeño de sus actividades ocasionen y, en su caso, para el pago de sanciones económicas por incumplimiento a las disposiciones contenidas en esta Ley y otros ordenamientos legales aplicables.
 
-En caso de que la autoridad llegare a hacer efectiva la póliza de fianza, ya sea total o parcialmente, la persona física o moral correspondiente deberá actualizar el importe de la misma para mantener el monto de la garantía de cinco mil salarios mínimos a que se refiere este artículo, debiendo presentarla a la Fiscalía en un plazo no mayora treinta días hábiles contados a partir de la fecha en que se haga efectiva la misma. De no efectuarse la actualización de la garantía, se revocará la Autorización respectiva.
+En caso de que la autoridad llegare a hacer efectiva la póliza de fianza, ya sea total o parcialmente, la persona física o moral correspondiente deberá actualizar el importe de la misma para mantener el monto de la garantía de cinco mil salarios mínimos a que se refiere este artículo, debiendo presentarla a la Fiscalía en un plazo no mayor a treinta días hábiles contados a partir de la fecha en que se haga efectiva la misma. De no efectuarse la actualización de la garantía, se revocará la Autorización respectiva.
 
 ### CAPÍTULO IV. CÉDULA DE IDENTIFICACIÓN DEL PERSONAL OPERATIVO
 
@@ -1392,3 +1394,63 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de diciembre del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Seguridad Pública contenida en el Decreto No. 582-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009, sus posteriores reformas y en general todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, contenida en el Decreto No. 584-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009 y sus posteriores reformas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, inmediatamente que entre en vigor la Ley del Sistema Estatal de Seguridad Pública a que se refiere el presente Decreto, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública convocará a reunión extraordinaria para la instalación de la Conferencia Estatal de Seguridad Pública Municipal.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se establecen los Consejos de Seguridad Pública de los municipios en los términos de la Ley que se expide, los Consejos Consultivos de Seguridad Pública, Consejos Ciudadanos, Comités Ciudadanos u órganos equivalentes de los municipios, se ajustarán a las disposiciones y ejercerán las atribuciones contenidas en el Capítulo V del título segundo de la misma, independientemente de la denominación que hayan adoptado.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados a los Integrantes de las Instituciones Policiales ante las Comisiones del Servicio Profesional de Carrera Policial, así como de Honor y Justicia, con anterioridad a la entrada en vigor de la presente Ley, continuarán su trámite hasta su resolución conforme a las disposiciones legales y reglamentarias vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos para la aplicación de sanciones iniciados por la Fiscalía Especializada en Control, Análisis y Evaluación a los agentes del Ministerio Público y peritos, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, continuarán su trámite hasta su resolución conforme a las disposiciones legales vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO OCTAVO.
+
+El titular del Ejecutivo del Estado, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, expedirá el reglamento del servicio profesional de carrera de las instituciones de seguridad pública del Estado y los municipios.
+
+###### ARTÍCULO NOVENO.
+
+El Servicio Profesional de Carrera para agentes del Ministerio Público y peritos deberá implementarse en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO.
+
+Con excepción de la División de Investigación, la Policía Estatal Única, y los agentes de seguridad, custodia y traslado tanto de los centros de reinserción social, como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, adoptarán el esquema de jerarquización terciaria contenido en los artículos 153 y 157, respectivamente, de la Ley del Sistema Estatal de Seguridad Pública que se expide por virtud del presente Decreto, a más tardar el 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La División de Investigación de la Policía Estatal Única adoptará el esquema de jerarquización terciaria contenido en el artículo 154 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no excederá del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Instituciones Policiales de los municipios, deberán implementar el Servicio Profesional de Carrera, incluyendo la integración de sus respectivas Comisiones del Servicio Profesional de Carrera, Honor y Justicia y la adopción del esquema de jerarquización terciaria contenido en el artículo 155 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Estatal de Seguridad Pública o Ley Sobre el Sistema Estatal de Seguridad Pública, se entenderá referida a la Ley del Sistema Estatal de Seguridad Pública que se expide mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
