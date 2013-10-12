@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-consejo-de-armonizacion-contable-88602"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-07"
-last_updated: "2012-07-07"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE JALISCO CACEJ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de julio de 2012.
 
@@ -38,7 +38,9 @@ El presente reglamento interior tiene por objeto regular la estructura, organiza
 
 Para los efectos de este reglamento, se entenderá por:
 
-I. Acuerdo: El emitido por el Gobernador del Estado mediante el cual se crea el Consejo de Armonización Contable del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco", el 10 de marzo de 2012;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+I. Acuerdo: El emitido por el Gobernador del Estado mediante el cual se crea el Consejo de Armonización Contable del Estado de Jalisco;
 
 II. Armonización: La revisión, reestructuración y compatibilización de los modelos contables vigentes a nivel nacional, a partir de la adecuación y fortalecimiento de las disposiciones jurídicas que las rigen, de los procedimientos para el registro de las operaciones, de la información que deben generar los sistemas de contabilidad gubernamental, y de las características y contenido de los principales informes de rendición de cuentas;
 
@@ -56,11 +58,15 @@ VIII. Ley General: La Ley General de Contabilidad Gubernamental;
 
 IX. Pleno del Consejo: Reunión de trabajo que realizan los consejeros de una manera formal, y se realiza conforme a una convocatoria para tratar asuntos que le corresponde ya sea en forma ordinaria o extra ordinaria;
 
-X. Presidente: Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+X. Presidente: Secretario de Planeación, Administración y Finanzas;
 
 XI. Reglamento: Reglamento Interior del Consejo de Armonización Contable del Estado de Jalisco, y
 
-XII. Secretario Técnico: Director de Contabilidad de la Secretaria de Finanzas; (sic)
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XII. Secretario Técnico: Director de Contabilidad de la Secretaría de Planeación, Administración y Finanzas.
 
 ###### Artículo 3.
 
@@ -339,3 +345,9 @@ Los equipos de trabajo podrán reunirse con otros similares de Consejos Estatale
 ## TRANSITORIO
 
 Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
