@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-del-estado-de-jalisco-y-sus-municipios-89772"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2012-10-18"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
@@ -289,9 +289,11 @@ Constituye obligación de los turistas, además de lo establecido en la ley gene
 
 El Consejo Consultivo Turístico del Estado de Jalisco es un órgano de consulta, asesoría y apoyo técnico de la Secretaría que tiene por objeto integrar estrategias y mecanismos que impulsen el desarrollo del turismo en el estado.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-El Consejo será presidido por el titular del Ejecutivo Estatal o a quien él designe de los integrantes del mismo Consejo, y estará integrado por los funcionarios que tengan a su cargo funciones y atribuciones en la materia turística y aquellos que determine el Ejecutivo local.
+El Consejo será presidido por el titular del Ejecutivo Estatal o a quien él designe de los integrantes del mismo Consejo, y estará integrado por el C. Diputado Presidente de la Comisión de Turismo del Congreso del Estado de Jalisco, los funcionarios con atribuciones en la materia turística y aquellos que determine el Ejecutivo local.
 
 ###### Artículo 16.
 
@@ -587,6 +589,10 @@ El turismo accesible comprende todos aquellos instrumentos y medios enfocados a 
 
 La Secretaria, en el ámbito de sus respectivas competencias, gestionará tarifas preferenciales para grupos vulnerables o de escasos recursos, aplicando la respectiva valoración socioeconómica. Lo anterior, buscando disminuir la estacionalidad de la afluencia a los destinos turísticos en el estado.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+Asimismo, gestionará actividades de promoción y apoyo al turismo accesible, para personas en condiciones a las que se refiere I (sic) párrafo anterior, preferentemente en destinos turísticos del Estado de Jalisco, procurando sufragar el costo total o parcial del transporte y hospedaje del viaje, de conformidad con la disponibilidad presupuestal y con los programas que al efecto se expidan.
+
 ###### Artículo 65.
 
 La Secretaria promoverá, coordinará e impulsará la suscripción de acuerdos y convenios entre las autoridades locales y municipales de la entidad, así como con los prestadores de servicios turísticos, con el objetivo de fomentar el turismo accesible.
@@ -666,3 +672,17 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+DECRETO NO. 24477/LX/13 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 64 DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 24478/LX/13 POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
