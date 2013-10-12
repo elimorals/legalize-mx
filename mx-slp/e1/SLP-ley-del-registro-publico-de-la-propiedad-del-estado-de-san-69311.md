@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-del-estado-de-san-6931
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-11"
-last_updated: "2009-07-11"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSI
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 11 de julio de 2009.
 
@@ -785,9 +785,25 @@ Podrá pedirse la cancelación total de inscripciones o registros definitivos, c
 
 I. Se extinga por completo el bien objeto de la inscripción o registro;
 
-II. Se extinga por completo el derecho inscrito, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-III. Se declare la nulidad del acto consignado en el documento, en donde se haya realizado la inscripción o registro.
+II. Se extinga por completo el derecho inscrito;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+III. Se declare la nulidad del acto consignado en el documento, en donde se haya realizado la inscripción o registro;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV. Se declare la nulidad de la inscripción;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+V. Sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2155 del Código Civil para el Estado, y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VI. Tratándose de un embargo, hayan transcurrido tres años desde la fecha de su inscripción y no se haya reinscrito; con excepción del embargo para garantizar el pago de alimentos, créditos laborales y aquéllos que por Ministerio de Ley deban ser ordenados por las autoridades competentes.
 
 ###### ARTICULO 83.
 
@@ -892,3 +908,11 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
