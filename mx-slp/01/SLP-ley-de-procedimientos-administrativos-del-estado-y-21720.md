@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-procedimientos-administrativos-del-estado-y-21720"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-27"
-last_updated: "2011-12-24"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de marzo de 2001.
 
@@ -69,7 +69,7 @@ V. Dependencia: Órgano de la administración pública central estatal o municip
 
 VI. Entidad: Órgano de la administración pública paraestatal o paramunicipal, según corresponda, y concretamente para efectos de esta ley, los organismos descentralizados que emitan o dicten actos de autoridad;
 
-VII. Incidente: Cuestiones que surgen dentro del procedimiento administrativo que no se refieren al negocio o asunto principal sino a la validez del proceso en sí mismo;
+VII. Incidente: Cuestiones que surgen dentro del procedimiento administrativo que no se refieren al negocio o asunto principal sino a la validez del proceso en si mismo;
 
 VIII. Interesado: Particular que tiene un interés legítimo respecto de un acto o procedimiento administrativo por ostentar un derecho legalmente tutelado;
 
@@ -483,13 +483,13 @@ Los titulares de los órganos administrativos ante quienes se inicie o se tramit
 
 ### CAPITULO VIII. De la tramitación
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 51.
 
-Las actuaciones y diligencias que se practiquen en las oficinas administrativas se realizarán en días y horas hábiles. Cuando por la naturaleza del asunto deban efectuarse en diverso lugar, se habilitarán días y horas inhábiles.
+Son días hábiles para la promoción, substanciación, y resolución de los juicios contenciosos administrativos previstos en esta Ley: todos los días del año; excepto, sábados y domingos; los señalados en el artículo 74 de la Ley Federal del Trabajo; los días de descanso obligatorio; así como aquéllos en los que el Tribunal decrete sus periodos vacacionales o suspenda sus labores. En este último caso, la existencia de personal de guardia encargado del trámite de lo urgente, no habilitará los días.
 
-Para la práctica de inspecciones y verificaciones serán hábiles las veinticuatro horas del día y todos los días del año. Son días inhábiles: los sábados, los domingos, el 1º de enero; 5 de febrero; 21 de marzo; 1º de mayo; 5 de mayo; 1º y 16 de septiembre; 20 de noviembre; 1º de diciembre y 26 de septiembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal o Estatal, respectivamente, y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que harán del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, que se publicará en el Periódico Oficial del Estado o en la gaceta municipal que corresponda.
-
-La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo amerite el asunto.
+El Tribunal podrá, de oficio o a petición de parte interesada, habilitar días inhábiles cuando el asunto así lo amerite.
 
 ###### ARTICULO 52.
 
@@ -960,3 +960,9 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
