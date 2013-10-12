@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2013-07-27"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -177,7 +177,7 @@ En todo caso, el nombre de los Diputados que no concurran a las sesiones, se har
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-Los Diputados participarán con voz y voto en las sesiones del Congreso, con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participarán únicamente con voz pero no con voto.
+Los Diputados participarán con voz y voto en las sesiones del Congreso, con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participaran únicamente con voz pero no con voto.
 
 ### CAPITULO III. DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO
 
@@ -435,9 +435,9 @@ Cuando se materialice la hipótesis prevista por el artículo 43 de la Ley, un D
 
 Además de las facultades y atribuciones que el artículo 45 de la Ley le confiera a los Secretarios, tendrán las siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día y cuidar que el acta de la sesión anterior así como la síntesis de comunicaciones de cada sesión, sean distribuidas a los Diputados previamente a la sesión en que deberán darse lectura, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
+I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día que se propone y cuidar que éste, el acta de la sesión anterior y la síntesis de comunicaciones de cada sesión, hayan sido enviados previamente a los diputados por medio electrónico, con el objeto de que pueda solicitarse la dispensa del trámite de lectura de dichos documentos;
 
 II.- Cuidar que se redacten las actas de las sesiones en forma fidedigna, firmarlas después de aprobadas y asentarlas en el libro respectivo;
 
@@ -445,9 +445,9 @@ III.- Turnar, conjuntamente con el Presidente, una vez aprobado, el proyecto anu
 
 IV.- Vigilar que la Oficialía Mayor del Congreso, a través de la dependencia correspondiente, lleve debidamente los libros de Iniciativas, de Leyes y Decretos, Acuerdos y Actas de la Cámara;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-V.- Cuidar que los dictámenes se entreguen oportunamente a los Diputados, en los términos del artículo 135 de este Reglamento;
+V.- Cuidar que los dictámenes se entreguen oportunamente por medio electrónico a los Diputados, en los términos del artículo 135 de este Reglamento; y (sic)
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -1209,9 +1209,13 @@ I. La planeación y programación técnica de las sesiones, elaborar el protocol
 
 II. La realización de minutas y su remisión correspondiente;
 
-III. Asistir a todas las sesiones de la Asamblea;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-IV. Integrar el Proyecto de orden del día, guión y demás material propio de las sesiones;
+III. Asistir a todas las sesiones de la Asamblea, elaborando el guión correspondiente de la misma;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV. Integrar el Proyecto de orden del día, acta y síntesis de comunicaciones, debiéndolos enviar a los Diputados por medio electrónico, así como realizar el demás material propio de las sesiones;
 
 V. Llevar libros de control y seguimiento que se de a las iniciativas de ley. Decreto, acuerdo, puntos de acuerdo y demás comunicaciones de la competencia del Congreso;
 
@@ -1443,7 +1447,7 @@ No obstante lo dispuesto en el párrafo anterior, dentro de una sesión ordinari
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-###### Articulo 108.
+###### Artículo 108.
 
 Serán de Colegio Electoral las sesiones en las que el Congreso ejerza las facultades que le otorga el artículo 55 de la Constitución o cuando nombre Concejo Municipal.
 
@@ -1555,7 +1559,7 @@ El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la sig
 
 ### CAPÍTULO XI. DE LAS INICIATIVAS
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ### CAPITULO XII. DE LOS DICTAMENES
 
@@ -1563,7 +1567,7 @@ El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la sig
 
 ###### Artículo 122.
 
-Toda iniciativa deberá presentarse por escrito, firmada por quienes la presenten e irá dirigida a los Secretarios del Congreso.
+Toda iniciativa deberá presentarse por escrito y en medio electrónico, firmada por quienes la presenten e irá dirigida a los Secretarios del Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1579,17 +1583,17 @@ c).- Cuerpo jurídico en el que se especifique claramente el texto sugerido; y
 
 d).- Artículos transitorios.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 124.
 
-Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan, para su estudio, análisis y dictamen correspondiente y sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, aquellos asuntos que tengan una obvia resolución por no ameritar un examen profundo o que a juicio de la misma sean urgentes.
+Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan por medio electrónico, para su estudio, análisis y dictamen correspondiente y sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, aquellos asuntos que tengan una obvia resolución por no ameritar un examen profundo o que a juicio de la misma sean urgentes.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 125.
 
-Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Participación Ciudadana y Peticiones, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
+Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Participación Ciudadana y Peticiones por medio electrónico, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1597,7 +1601,9 @@ Las peticiones de particulares, corporaciones o autoridades que carezcan del der
 
 Las propuestas de Punto de Acuerdo o Acuerdo Económico presentadas por uno o más Diputados, se sujetarán a los siguientes trámites:
 
-I.- Se presentarán por escrito firmados por sus autores y dirigidos al Presidente de la Asamblea, serán leídos en la misma sesión en que fueren presentadas o en su caso, presentarse ante la Oficialía Mayor del Congreso para su turno a la comisión o comisiones respectivas. Su autor o uno de ellos, si fueren varios, expresará los fundamentos y razones de su contenido o proposición;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+I.- Se presentarán por escrito firmado por sus autores y en medio electrónico, dirigido al Presidente de la Asamblea, serán leídos en la misma sesión en que fueren presentadas o en su caso, presentarse en las formas antes descritas ante la Oficialía Mayor del Congreso, para su turno a la comisión o comisiones respectivas. Su autor o uno de ellos, si fueren varios, expresará los fundamentos y razones de su contenido o proposición;
 
 II.- Se discutirán en la misma sesión en que se presente o turnarse a la comisión respectiva según el tema. En el primer caso, hablarán por una sola vez hasta cuatro Diputados; dos en pro y dos en contra; y
 
@@ -1631,11 +1637,11 @@ En los casos en que la Ley, este Reglamento o cualquier otra disposición normat
 
 Si la comisión estimare necesario hacer modificaciones a la iniciativa que le fue turnada para su estudio, tendrá el derecho de hacerlas, las dará a conocer en su dictamen, exponiendo los razonamientos lógico-jurídicos en que se apoye.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 131.
 
-Las copias de los dictámenes deberán ser entregadas a los miembros del Congreso, al inicio de la sesión en que sean presentados.
+Las copias de los dictámenes deberán darse a conocer por medio electrónico a los miembros del Congreso, al inicio de la sesión en que sean presentados.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1773,7 +1779,7 @@ b).- Si el asunto o documento constare de un solo artículo, se pondrá a la dis
 
 No habiendo discusión el Presidente lo declarará así y ordenará a la Secretaría proceda a recoger la votación correspondiente,
 
-V.- Tomada en consideración una proposición suspensiva, se pondrá de inmediato a discusión, pudiendo hablar dos Diputados en pro y dos en contra. Concluida la discusión se someterá a votación y con el resultado obtenido se procederá en consecuencia. No podrá admitirse más de una proposición suspensiva en torno a un mismo asunto; y
+V.- Tomada en consideración una proposición suspensiva, se pondrá de inmediato a discusión, pudiendo hablar dos Diputados en pro y dos en contra. Concluida la discusión se someterá a votación y con el resultado obtenido se procederá en consecuencia. No podrá admitirse mas de una proposición suspensiva en torno a un mismo asunto; y
 
 VI.- Cuando un Diputado creyere que se ha infringido algún artículo de este Reglamento o cuando se viertan injurias contra alguna persona o corporación, podrá hacer una moción para que se restablezca el orden, indicando en su intervención la forma en que a su juicio deba procederse. No podrán discutirse dos o más mociones a un mismo tiempo y respecto a éstas se observará el trámite de las proposiciones.
 
@@ -1865,11 +1871,11 @@ Los miembros de la Comisión que presenten el dictamen o el autor de un proyecto
 
 Cuando algún miembro de la Asamblea solicite se lea alguna ley o documento para ilustrar la discusión, podrá presentarlo en el acto o pedir a la Secretaría que mande al archivo del Congreso por él; si no lo presenta y no se encuentra en el archivo, continuará la discusión. En caso de ser posible, uno de los Secretarios o el solicitante le dará lectura, pero si a juicio del Presidente la ley o documento no tienen relación con el asunto de que se trata o no es necesaria la lectura para mejorar la comprensión, preguntará en votación económica la opinión de la Asamblea, procediendo a leerse sólo si la resolución es afirmativa.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 155.
 
-Ningún ocurso o proposición de las que se refiere la fracción III del artículo 143, podrá admitirse a discusión si no se presenta por escrito.
+Ningún ocurso o proposición de las que se refiere la fracción III del artículo 143, podrá admitirse a discusión si no se presenta por escrito y por medio electrónico.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1927,7 +1933,7 @@ Cuando no se especifique el sentido de la mayoría, se entenderá como mayoría 
 
 La votación nominal es aquella en que los Diputados expresan en voz alta su decisión a favor o en contra de un asunto, anteponiendo sus apellidos y, en caso necesario, su nombre, la que se tomará aplicando el procedimiento siguiente:
 
-Una vez que un asunto sea puesto a votación por el Presidente, y la votación sea nominal, uno de los Secretarios dirá: "por instrucciones de la Presidencia se pregunta a la Asamblea si es de aprobarse el ......................... POR LA AFIRMATIVA" y el otro Secretario a su vez dirá: "POR LA NEGATIVA". Después, cada Diputado, iniciando por la derecha del Presidente, levantará el brazo derecho, dirá en voz alta sus apellidos y nombre, en caso de ser necesario para distinguirlo de otro, y procederá a manifestar "A FAVOR" o "EN CONTRA", o cualquier otra manifestación que implique la afirmación o negación, cuando se trate de votar un asunto y en su caso, expresará el nombre de la persona a quien elija cuando se trate de verificar un nombramiento. El Secretario de la derecha anotará los votos a favor y el segundo, los en contra, llevando cada uno de ellos el escrutinio de los votos emitidos. Una vez concluida la votación, el Secretario de la derecha preguntará por dos veces si falta algún Diputado por votar y, en caso negativo, dirá: "SE PROCEDE A RECOGER LA VOTACIÓN DE LA DIRECTIVA", votando entonces los Secretarios y el Presidente. A continuación, se hará el cómputo de votos emitidos a favor y en contra y el resultado lo comunicarán al Presidente, para que éste, conforme al resultado, formule en voz alta la declaración correspondiente.
+Una vez que un asunto sea puesto a votación por el Presidente, y la votación sea nominal, uno de los Secretarios dirá: "por instrucciones de la Presidencia se pregunta a la Asamblea si es de aprobarse el ......................... POR LA AFIRMATIVA" y el otro Secretario a su vez dirá: "POR LA NEGATIVA". Después, cada Diputado, iniciando por la derecha del Presidente, levantará el brazo derecho, dirá en voz alta sus apellidos y nombre, en caso de ser necesario para distinguirlo de otro, y procederá a manifestar "A FAVOR" o "EN CONTRA", o cualquier otra manifestación que implique la afirmación o negación, cuando se trate de votar un asunto y en su caso, expresará el nombre de la persona a quien elija cuando se trate de verificar un nombramiento. El Secretario de la derecha anotará los votos a favor y el segundo, los en contra, llevando cada uno de ellos el escrutinio de los votos emitidos. Una vez concluida la votación, el Secretario de la derecha preguntará por dos veces si falta algún Diputado por votar y, en caso negativo, dirá: "SE PROCEDE A RECOGER LA VOTACION DE LA DIRECTIVA", votando entonces los Secretarios y el Presidente. A continuación, se hará el cómputo de votos emitidos a favor y en contra y el resultado lo comunicarán al Presidente, para que éste, conforme al resultado, formule en voz alta la declaración correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1999,7 +2005,7 @@ Ningún Diputado podrá ausentarse del Recinto Legislativo cuando se esté efect
 
 ###### Artículo 171.
 
-Ningún Diputado podrá votar por sí mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
+Ningún Diputado podrá votar por si mismo, ni emitir su voto en cuestiones en que tenga interés personal o familiar en los términos del artículo 70 de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2075,7 +2081,7 @@ Aprobado un proyecto de ley, decreto o acuerdo, no podrá tratarse de su derogac
 
 Las leyes y decretos se expedirán con la siguiente fórmula:
 
-"EL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO DECRETA" (aquí la ley o decreto). "EL GOBERNADOR DEL ESTADO DISPONDRÁ SE PUBLIQUE, CIRCULE Y OBSERVE". "DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO", fecha y firma del Presidente y de los Secretarios.
+"EL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO DECRETA" (aquí la ley o decreto). "EL GOBERNADOR DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y OBSERVE". "DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO", fecha y firma del Presidente y de los Secretarios.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2541,7 +2547,9 @@ El Congreso editará el Diario de los Debates, que tendrá por objeto la conserv
 
 El Diario de los Debates contendrá el lugar y fecha en que se verifiquen las sesiones, el orden del día, nombres de los Diputados que integran la Directiva, la trascripción íntegra de la grabación digitalizada de las deliberaciones en el orden en que se desarrollen, así como la inserción de los documentos que se presenten en el transcurso de la misma, pero en ningún caso, deberán publicarse los documentos y discusiones que se relacionen con las sesiones secretas que se verifiquen.
 
-El Diputado deberá presentar en formato electrónico y por escrito a la Presidencia de la Mesa Directiva, la iniciativa que solicite se inserte en el Diario de los Debates.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+El Diputado deberá presentar por escrito y en medio electrónico a la Presidencia de la Mesa Directiva, la iniciativa que solicite se inserte en el Diario de los Debates.
 
 ###### Artículo 242.
 
@@ -2702,3 +2710,7 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 P.O. 27 DE JULIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
