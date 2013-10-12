@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-proteccion-y-apoyo-de-las-madres-jefas-de-86234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2012-02-14"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -53,9 +53,11 @@ LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JAL
 
 ° El presente ordenamiento tiene por objeto establecer y regular el apoyo y protección a las madres o padres jefes de familia, o a quien haga sus veces, que habitan en Jalisco en situación socioeconómica de precariedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 3.
 
-° Son sujetos beneficiarios de la presente ley cualesquiera personas, hombres o mujeres, que integren una familia monoparental como sostén de la misma, y que tengan bajo su responsabilidad la manutención de menores de edad, con relación sanguínea directa, sin el apoyo económico de su cónyuge, concubinario, ni de cualquier otro miembro del núcleo familiar, de deudores alimentistas por sentencia judicial en los términos del Código Civil ni de institución pública o privada.
+° Son sujetos beneficiarios de la presente ley cualquier persona, hombre o mujer, que integren una familia monoparental como sostén de la misma, y que tengan bajo su responsabilidad la manutención de menores de edad o adultos mayores, con relación sanguínea directa o transversal hasta el segundo grado, sin el apoyo económico de su cónyuge, concubinario, ni de cualquier otro miembro del núcleo familiar, de deudores alimentarios por sentencia judicial en los términos del Código Civil ni de institución pública o privada.
 
 Para efectos de la aplicación e interpretación de la presente ley y los programas que de ella se desprendan, debe entenderse como madres jefas de familia a los beneficiarios mencionados en este artículo.
 
@@ -103,9 +105,15 @@ VI. Disfrutar plenamente de los derechos consignados en esta ley y en otras disp
 
 I. Asumir la responsabilidad de la manutención de sus hijos e hijas, en forma única y total;
 
-II. La minoría de edad de sus dependientes económicos, y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-III. Obtener un promedio de ingreso diario de hasta 2.5 veces el salario mínimo general vigente en el área geográfica de aplicación, o cuando no perciban ingresos y acrediten que están buscando trabajo.
+II. La minoría de edad de sus dependientes económicos;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+III. La incapacidad de sus dependientes económicos; y
+
+IV. Obtener un promedio de ingreso diario de hasta 2.5 veces el salario mínimo general vigente en el área geográfica de aplicación, o cuando no perciban ingresos y acrediten que están buscando trabajo.
 
 ### Capítulo III. Del apoyo económico estatal y municipal
 
@@ -121,9 +129,13 @@ Las madres jefas de familia deberán cumplir, al menos, con los siguientes requi
 
 I. Ser mexicana y tener mínimo cinco años de residencia comprobables en el territorio jalisciense;
 
-II. Acreditar que tienen menores descendientes a su cargo;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-III. Acreditar que sus hijos menores de edad sean alumnos regulares en un sistema educativo, cuando éstos tengan cinco años en adelante;
+II. Acreditar que tienen menores descendientes o ascendentes a su cargo o en su caso dependientes económicos menores de edad unidos en parentesco consanguíneo transversal hasta el segundo grado;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+III. Acreditar que sus descendientes o dependientes económicos menores de edad sean alumnos regulares en un sistema educativo, cuando estos tengan cinco años en adelante;
 
 IV. Que el ingreso que perciba por día no sea mayor a 2.5 salarios mínimos generales diarios vigentes en el área geográfica donde se encuentre domiciliada, como máximo o que no perciba ingresos y acredite que está buscando trabajo, y
 
@@ -135,7 +147,9 @@ Las madres jefas de familia deberán informar bimestralmente a la Secretaría de
 
 I. La aplicación y destino de la ayuda económica mensual;
 
-II. El avance escolar de sus hijos menores de edad como alumnos regulares, cuando así proceda, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+II. El avance escolar de sus dependientes económicos menores de edad como alumnos regulares, cuando así proceda; y
 
 III. Los demás que prevean las disposiciones reglamentarias.
 
@@ -147,9 +161,13 @@ El incumplimiento por parte de las madres jefas de familia de los requisitos u o
 
 El derecho a la ayuda económica mensual, a que se refiere esta ley, termina:
 
-I. Cuando los hijos menores de edad de la madre jefa de familia adquieran la mayoría de edad;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-II. Por destinar la ayuda económica a fines distintos a proporcionar alimentos a sus hijos menores de edad;
+I. Cuando los dependientes económicos menores de edad de la madre jefa de familia adquieran la mayoría de edad;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+II. Por destinar la ayuda económica a fines distintos a proporcionar alimentos a sus dependientes económicos;
 
 III. Cuando la madre jefa de familia contraiga matrimonio o se una en concubinato;
 
@@ -318,3 +336,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
