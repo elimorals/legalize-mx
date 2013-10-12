@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-64487
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-01"
-last_updated: "2008-11-01"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 1 de noviembre de 2008.
 
@@ -43,7 +43,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 33 FRACCION II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N SI D E R A N D O S .
+C O N S I D E R A N D O S...
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -401,7 +401,7 @@ VII. El ordenamiento de la Acuacultura a través de programas que incluyan la de
 
 VIII. El uso de artes y métodos de Pesca selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como, la calidad de los productos de la Pesca;
 
-IX. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en que se encuentran, las autoridades administrativas competentes en materia de Pesca y Acuacultura adoptarán el enfoque precautorio que incluya la definición de limites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo;
+IX. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en que se encuentran, las autoridades administrativas competentes en materia de Pesca y Acuacultura adoptarán el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo;
 
 X. La transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores; y
 
@@ -447,9 +447,15 @@ XI. Funcionamiento e integración del Programa de Inspección y Vigilancia;
 
 XII. La promoción de actividades productivas complementarias que generen ingresos adicionales a las comunidades pesqueras y acuícolas;
 
-XIII. La inclusión de mecanismos que implementen las buenas prácticas en la operación de cultivos acuícolas, capacitación y asistencia técnica integral; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-XIV. Esquemas de integración de las cadenas productivas y valor agregado.
+XIII. La inclusión de mecanismos que implementen las buenas prácticas en la operación de cultivos acuícolas, capacitación y asistencia técnica integral;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XIV. Programas destinados al mejoramiento de los establecimientos susceptibles de ser acreditados por el SENASICA como Establecimientos Tipo Inspección Federal, es decir, aquéllos dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano, con el fin de que alcancen el nivel y cumplan los requisitos indicados por las normas oficiales mexicanas y demás disposiciones jurídicas que se emitan de conformidad con la Ley General; y
+
+XV. Esquemas de integración de las cadenas productivas y valor agregado.
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN SOCIAL Y ASOCIACIONES EN MATERIA DE PESCA Y ACUACULTURA
 
@@ -711,7 +717,9 @@ Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individu
 
 ### CAPÍTULO IV. DE LA ACUACULTURA
 
-ARTÍCUL0 42.- En materia de Acuacultura, son objetivos de esta Ley:
+###### ARTÍCULO 42.
+
+En materia de Acuacultura, son objetivos de esta Ley:
 
 I. Fomentar el desarrollo de la Acuacultura como una actividad productiva que permita la diversificación pesquera, para ofrecer opciones de empleo en el medio rural;
 
@@ -927,9 +935,17 @@ I. Organizar, apoyar y supervisar el funcionamiento de los Organismos Auxiliares
 
 II. Inducir al cumplimiento de las disposiciones legales y las medidas de seguridad de sanidad acuícola establecidas;
 
-III. Difundir permanentemente la información y conocimientos sobre sanidad pesquera y acuícola; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-IV. Realizar acciones de saneamiento en las especies pesqueras y acuícolas.
+III. Difundir permanentemente la información y conocimientos sobre sanidad pesquera y acuícola;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV. Realizar acciones de saneamiento en las especies pesqueras y acuícolas; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+V. Promover la capacitación de los productores pesqueros y acuícolas para el cumplimiento de las normas oficiales mexicanas y demás disposiciones que fijan los requisitos de certificación de los Establecimientos Tipo Inspección Federal.
 
 ###### ARTÍCULO 62.
 
@@ -1058,3 +1074,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día treinta del mes de octubre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. CARLOS SALAZAR PRECIADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades encargadas del cumplimiento y ejecución de las disposiciones contenidas en la Ley de Pesca y Acuacultura Sustentables para el Estado de Colima, contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para contar con los instrumentos administrativos y técnicos para el cumplimiento del mismo.
