@@ -4,7 +4,7 @@ identifier: "COL-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-83457"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2011-10-29"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento No. 2, del Estado de Colima, el sábado 29 de octubre del 2011.
 
@@ -81,17 +81,31 @@ IV. Ejecutivo del Estado: Al titular del Poder Ejecutivo del Estado de Colima;
 
 V. Estado: Al Estado Libre y Soberano de Colima;
 
-VI. Ley: A la Ley para Prevenir y Erradicar la Trata de Personas del Estado de Colima;
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-VII. Personas en riesgo: Aquellas que por presentar factores y condiciones de vulnerabilidad, están más expuestas a padecer alguna de las formas de la trata de personas;
+VI. Fondo: Al fondo Estatal para la Protección y Asistencia a las Víctimas de Trata;
 
-VIII. Política en materia de trata de personas: A las que realizan las autoridades competentes con el propósito de prevenir y erradicar la trata de personas en el Estado;
+VII. Ley: A la Ley para Prevenir y Erradicar la Trata de Personas del Estado de Colima;
 
-IX. Procuraduría: A la Procuraduría General de Justicia del Estado de Colima;
+VIII. Personas en riesgo: Aquellas que por presentar factores y condiciones de vulnerabilidad, están más expuestas a padecer alguna de las formas de la trata de personas;
 
-X. Programa: Al Programa Estatal para Prevenir y Erradicar la Trata de Personas; y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-XI. Víctima de Trata: A la persona que haya sufrido un daño de cualquier naturaleza, como consecuencia de acciones u omisiones realizadas en su contra, tipificadas como delito de trata de personas y sancionadas por la legislación penal.
+IX. Persona Ofendida: Al familiar de la víctima hasta en cuarto grado, dependientes económicos, así como a cualquier otra que tenga una relación de hecho o convivencia afectiva con la víctima de Trata y que sufran, hayan sufrido o se encuentren en situación de riesgo de sufrir algún daño o perjuicio en razón de la comisión del delito de trata de personas;
+
+X. Política en materia de trata de personas: A las que realizan las autoridades competentes con el propósito de prevenir y erradicar la trata de personas en el Estado;
+
+XI. Procuraduría: A la Procuraduría General de Justicia del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XII. Programa: Al Programa Estatal para Prevenir y Erradicar la Trata de Personas;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+XIII. Testigo: A toda persona que tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal; y
+
+XIV. Víctima de Trata: A la persona que haya sufrido un daño de cualquier naturaleza, como consecuencia de acciones u omisiones realizadas en su contra, tipificadas como delito de trata de personas y sancionadas por la legislación penal.
 
 ###### Artículo 3o.
 
@@ -149,9 +163,21 @@ V. Contar con asesoría jurídica gratuita y expedita;
 
 VI. Recibir información en su idioma o lengua materna sobre sus derechos y el progreso de los trámites judiciales y administrativos;
 
-VII. Recibir atención médica y psicológica por parte de las autoridades competentes, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-VIII. Contar con la protección de su identidad y la de su familia.
+VII. Recibir atención médica y psicológica por parte de las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VIII. Contar con la protección de su identidad y la de su familia;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IX. Cuando sea necesario, contar con alojamiento adecuado, acceso a la educación, capacitación y oportunidades de empleo, hasta su total recuperación y resocialización; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+X. A beneficiarse de las medidas pertinentes para salvaguardar su seguridad física, su libertad, dignidad, integridad física y mental, y sus derechos humanos.
 
 ###### Artículo 8o.
 
@@ -209,9 +235,19 @@ III. Establecer de manera concertada las acciones de prevención, atención y de
 
 IV. Celebrar los convenios necesarios para el cumplimiento de los objetivos de la Ley;
 
-V. Presidir la Comisión; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-VI. Las demás que se establezcan en esta Ley, su Reglamento o en el Programa.
+V. Presidir la Comisión;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VI. Formular políticas e instrumentar programas para prevenir y erradicar el delito de trata de personas, así como para la protección y atención a personas víctimas, ofendidas y testigos del delito de trata de personas.
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VII. Impulsar reformas legales para el cumplimiento de los objetivos de la presente Ley, y
+
+VIII. Las demás que se establezcan en esta Ley, su Reglamento o en el Programa.
 
 ###### Artículo 11.
 
@@ -379,7 +415,9 @@ Corresponde a la Secretaría de Seguridad Pública:
 
 I. Establecer como políticas públicas, estrategias y acciones en los programas permanentes de capacitación a la policía, en la prevención y detección de la trata de personas;
 
-II. Establecer mecanismos para inspeccionar periódicamente y sin necesidad de que medie denuncia, los lugares y establecimientos donde se tengan indicios sobre la comisión del delito de trata de personas;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+II. Establecer mecanismos para inspeccionar periódicamente y sin necesidad de que medie denuncia, los lugares y establecimientos donde se tengan indicios sobre la comisión del delito de trata de personas, así como aquéllos que puedan ser propicios para ello, como agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines u otros;
 
 III. Instaurar, en el marco de su competencia y atribuciones, vigilancia permanente en los centros de arribo y abordo de los turistas, principalmente en la (sic) centrales camioneras, el puerto y los aeropuertos, para prevenir y evitar la trata de personas;
 
@@ -535,7 +573,9 @@ VI. Promover convenios con los gobiernos federal, de las entidades federativas y
 
 VII. Informar y capacitar, al personal del sector público que tenga injerencia en la aplicación de la presente Ley, con perspectiva de género de derechos humanos y conforme al interés superior de la infancia, así como sobre los conceptos fundamentales y las implicaciones del delito de trata de personas conforme a los instrumentos nacionales e internacionales;
 
-VIII. Elaborar y aprobar los lineamientos para la correspondiente implementación de acciones y medidas preventivas y de atención;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VIII. Elaborar y aprobar los lineamientos para la correspondiente implementación de acciones y medidas preventivas y de atención a personas víctimas, ofendidas y testigos del delito de trata de personas.
 
 IX. Fomentar la cooperación de organizaciones no gubernamentales, otras organizaciones y sectores de la sociedad civil en la prevención y erradicación del delito de trata de personas;
 
@@ -589,7 +629,9 @@ II. Fomentar acciones tendientes a fortalecer la solidaridad y prevención socia
 
 a) Sensibilizar a la población, mediante la divulgación de material referente a los derechos de las víctimas del delito de trata de personas, así como desarrollar programas de sensibilización y promoción para fomentar una cultura de denuncia entre la población;
 
-b) Desarrollar estrategias y programas dirigidos a la población, destinados a erradicar la demanda y comisión del delito de trata de personas, señalando las repercusiones que conlleva;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+b) Desarrollar estrategias y programas educativos, sociales y culturales dirigidos a la población, destinados a erradicar la demanda y comisión del delito de trata de personas, señalando las repercusiones que conlleva;
 
 c) Realizar campañas preventivas de información, acerca de los modos y medios de operar en la comisión del delito de trata de personas;
 
@@ -619,9 +661,17 @@ IV. Fomentar oportunidades de empleo, educación y capacitación para el trabajo
 
 V. Gestionar la ejecución de planes para la implementación de albergues de refugio temporales para las víctimas de la trata de personas, donde se les brinden las condiciones que garanticen el respeto a sus derechos humanos, asistencia médica y psicológica, alimentación y los cuidados mínimos atendiendo a las necesidades particulares de las víctimas;
 
-VI. Garantizar que la estancia en albergues o en cualquier otra instalación sea de carácter voluntario. La víctima podrá comunicarse en todo momento con cualquier persona y salir del lugar si así lo desea; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-VII. Proporcionar protección, seguridad y salvaguarda de su integridad y de la de sus familiares y testigos a su favor, ante amenazas, agresiones, intimidaciones o venganzas de los responsables de los delitos o de quienes estén ligados con ellos.
+VI. Garantizar que la estancia en albergues o en cualquier otra instalación sea de carácter voluntario. La víctima podrá comunicarse en todo momento con cualquier persona y salir del lugar si así lo desea;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VII. Proporcionar protección, seguridad y salvaguarda de su integridad y de la de sus familiares y testigos a su favor, ante amenazas, agresiones, intimidaciones o venganzas de quienes resulten responsables de los delitos o estén ligados con ellos, y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+VIII. Capacitar al personal de Seguridad Pública, procuración e impartición de justicia, salud y servicios sociales, para sensibilizarles sobre las necesidades de las víctimas del delito de trata de personas, así como para brindarles directrices que garanticen que la ayuda a las víctimas sea siempre especializada y oportuna.
 
 Los Órganos de Procuración y Administración de Justicia en el ejercicio de sus funciones están obligados a proteger la privacidad y la identidad de las víctimas del delito de trata de personas, debiendo garantizar la confidencialidad de las actuaciones.
 
@@ -667,6 +717,52 @@ Las organizaciones civiles y sociales, las instituciones académicas, las organi
 
 Las autoridades competentes, para cumplir con los objetivos y metas del Programa, podrán firmar convenios de colaboración con universidades e instituciones de educación superior, organizaciones civiles y grupos de ciudadanos organizados para la ejecución de proyectos y acciones de prevención o protección en materia de trata de personas.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 41.
+
+Las autoridades estatales y municipales responsables de prevenir, perseguir y sancionar el delito de trata de personas, así como las responsables de prestar asistencia y protección a las víctimas, se reunirán periódicamente para analizar e intercambiar opiniones sobre el desarrollo del Programa, con el fin de formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
+
+Estas reuniones serán convocadas por la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO V. DEL FINANCIAMIENTO
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 42.
+
+El Gobierno del Estado, con sujeción a las disposiciones de su Ley de Ingresos y Presupuesto de Egresos, concurrirá con la Federación en el financiamiento del Programa Estatal, y de los servicios para la asistencia y protección a víctimas, ofendidas y que atestigüen el delito de Trata de personas.
+
+Los recursos federales recibidos para estos fines por el Gobierno del Estado, serán intransferibles y se aplicarán exclusivamente en la prestación de servicios y demás actividades previstas en esta Ley.
+
+El Gobierno del Estado proveerá lo conducente para que cada municipio reciba recursos para cumplir las responsabilidades a su cargo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 43.
+
+El Ejecutivo Estatal establecerá un Fondo para la Protección y Asistencia a las Víctimas del Delito de Trata de Personas.
+
+Dicho Fondo se integrará, de manera enunciativa más no limitativa, con:
+
+I. Recursos previstos para este fin en el Presupuesto de Egresos;
+
+II. Recursos obtenidos por la enajenación de bienes decomisados en procedimientos penales que correspondan al delito de trata de personas;
+
+III. Recursos adicionales obtenidos por los bienes relacionados con la comisión del delito de trata, que causen abandono o hayan sido objeto de extinción de dominio;
+
+IV. Recursos provenientes de las fianzas y garantías que se hagan efectivas cuando las personas imputadas incumplan con las obligaciones impuestas por la autoridad administrativa o judicial, y
+
+V. Las donaciones o aportaciones hechas a su favor por terceros.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 44.
+
+Los recursos que integren el Fondo, serán fiscalizados en términos de la ley aplicable.
+
 TRANSITORIOS:
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -690,3 +786,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 27 del mes de octubre del año dos mil once.
 
 LIC. MARIO ANGUIANO MORENO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA.- Rúbrica.- LIC. RENÉ RODRÍGUEZ ALCARAZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- LICDA. YOLANDA VERDUZCO GUZMÁN, PROCURADORA GENERAL DE JUSTICIA DEL ESTADO.- Rúbrica.- C. GRAL. DE DIV. D.E.M. RET. RAÚL PINEDO DÁVILA, SECRETARIO DE SEGURIDAD PÚBLICA.- Rúbrica.- PROFR. FEDERICO RANGEL LOZANO, SECRETARIO DE EDUCACIÓN.- Rúbrica. LIC. OSCAR CARLOS ZURROZA BARRERA, SECRETARIO DE DESARROLLO SOCIAL.- Rúbrica. DR. AGUSTÍN LARA ESQUEDA, SECRETARIO DE SALUD Y BIENESTAR SOCIAL.- Rúbrica.- ING. FERNANDO MORÁN RODRÍGUEZ, SECRETARIO DE TURISMO.- Rúbrica.- LIC. ROBERTO RAMÍREZ, SECRETARIO DE LA JUVENTUD.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
