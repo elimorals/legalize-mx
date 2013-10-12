@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2012-11-17"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -307,7 +307,7 @@ VI. Las unidades municipales de protección civil.
 
 Para el caso de desastres o contingencias donde esté a cargo la autoridad estatal, la Unidad Estatal coordinará los trabajos y operaciones que realicen las autoridades, salvo acuerdo del titular del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 11.
 
@@ -393,7 +393,7 @@ XXI. Las demás atribuciones que le otorguen la presente Ley y otras disposicion
 
 Las facultades previstas en las fracciones III, V, VI, VIII, XIII, XVI, XVII, XVIII, XIX y XX de este artículo podrá ejercerlas a través de la Unidad Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 12.
 
@@ -471,7 +471,7 @@ XXI. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables
 
 XXII. Establecer los albergues y refugios temporales de su comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -501,7 +501,7 @@ II. Las personas jurídicas acordes a las disposiciones que el Congreso del Esta
 
 III. Las unidades internas de las dependencias y organismos del sector público, como también de las instituciones y empresas del sector privado, encargadas de instrumentar en el ámbito de sus funciones la ejecución de los programas de protección civil, atendiendo las necesidades específicas de prevención y atención de riesgos, para seguridad de su personal y bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 15.
 
@@ -517,7 +517,7 @@ II. Cooperar con las autoridades correspondientes para programar las acciones a 
 
 III. Colaborar con las autoridades estatales y municipales para el debido cumplimiento de los programas de protección civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 16.
 
@@ -649,7 +649,7 @@ El Consejo Estatal será el órgano que planee, convoque y coordine las acciones
 
 En lo sucesivo cuando en esta Ley se haga mención al Consejo Estatal, se entenderá que se refiere al Consejo Estatal de Protección Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 24.
 
@@ -713,7 +713,7 @@ XX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2006)
 
 XXI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 D OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 D OCTUBRE DE 2006)</small>
 
 ###### Artículo 25.
 
@@ -751,7 +751,7 @@ II. Un Secretario General, que será el Secretario General de Gobierno;
 
 III. Un Secretario Técnico, que será el titular de la Unidad Estatal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2004)</small>
 
 IV. Los presidentes de las siguientes comisiones legislativas permanentes del Congreso del Estado de:
 
@@ -887,7 +887,7 @@ En el caso de los suplentes de los presidentes de las comisiones previstas en la
 
 El Secretario General suplirá en sus funciones al Presidente del Consejo Estatal de Protección Civil y el Secretario Técnico, suplirá al Secretario General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 28.
 
@@ -951,7 +951,7 @@ V. Los investigadores y especialistas en materia de protección civil; y
 
 VI. Representantes de grupos voluntarios o personas que estén en condiciones de coadyuvar con los objetivos del Sistema Estatal de Protección Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 32.
 
@@ -1045,11 +1045,11 @@ VII. Informar periódicamente al Secretario General del Consejo el cumplimiento 
 
 VIII. Las demás funciones que le confieran el Reglamento Interno, los acuerdos del Consejo, el presidente o el secretario general.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO V. De la Unidad Estatal de Protección Civil y Bomberos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 36.
 
@@ -1081,7 +1081,7 @@ El Reglamento Interno de la Unidad Estatal determinará su estructura orgánica,
 
 La Procuraduría General de Justicia del Estado dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esa materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 38.
 
@@ -1153,7 +1153,7 @@ XVII. Evaluar y emitir los dictámenes favorables de los programas específicos 
 
 XVIII. Las demás que dispongan los reglamentos, programas y convenio o que le asigne el Consejo Estatal de Protección Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 39.
 
@@ -1187,7 +1187,7 @@ VI. Contar preferentemente con título profesional y presentar examen de oposici
 
 El Reglamento Interior de la Unidad Estatal preverá el procedimiento para elegir y remover al Director General de la Unidad Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 40.
 
@@ -1239,7 +1239,7 @@ XI. Todas las demás que le confieran esta Ley, El (sic) consejo Estatal y otras
 
 XII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 41.
 
@@ -1285,7 +1285,7 @@ En caso de detectar un riesgo cuya magnitud pudiera rebasar sus propias posibili
 
 Las dependencias y organismos de la administración pública estatal y de los gobiernos municipales, integrarán a su estructura orgánica unidades internas y adoptarán las medidas encaminadas a instrumentar, en el ámbito de sus respectivas funciones, la ejecución de los programas de protección civil. Estas están obligadas a realizar cuando menos dos simulacros de evacuación por año.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 46.
 
@@ -1349,7 +1349,7 @@ Los particulares que desempeñen labores de rescate y auxilio, deberán agrupars
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 53.
 
@@ -1380,6 +1380,10 @@ V. Las demás que les señale su reglamento y acuerdos autorizados por la Unidad
 ###### Artículo 54.
 
 Los programas estatal y municipales de protección civil, así como los subprogramas, programas institucionales, específicos y operativos anuales que se deriven de los mismos, se expedirán, ejecutarán y revisarán, conforme a las normas legales y reglamentarias en materia de planeación y las disposiciones específicas de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2013)</small>
+
+Los programas y subprogramas mencionados en el párrafo anterior, en forma especial y preponderante, deberán redimensionar la acción pública y la normatividad técnica para que en toda política relativa a la protección civil, donde se vean involucrados los derechos de menores de edad, se atienda a su interés superior.
 
 ###### Artículo 55.
 
@@ -1551,7 +1555,7 @@ El Consejo Estatal y los consejos municipales realizarán campañas permanentes 
 
 El Consejo Estatal promoverá ante las autoridades educativas, que se proporcione información y capacitación en materia de protección civil con la colaboración de la Unidad Estatal y la unidad municipal que corresponda, y fomentará este tipo de acciones en organismos sociales y asociaciones de vecinos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 73.
 
@@ -1587,7 +1591,7 @@ c) Para que los particulares o dependencias públicas puedan ejercer la activida
 
 Para realizar la actividad de consultoría en materia de protección civil en el Estado, deberá obtenerse previamente el permiso correspondiente ante la Unidad Estatal conforme a los lineamientos y requisitos que determine el Reglamento, sin perjuicio de lo que establezcan otros ordenamientos en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 74.
 
@@ -1661,30 +1665,6 @@ Cuando la gravedad del siniestro lo requiera, el Titular de la Unidad Municipal 
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
-Artículo 80 bis. Para garantizar el mantenimiento y la seguridad del orden público y el interés general, la Unidad Estatal o las unidades municipales, podrán ordenar y ejecutar cualesquiera de las siguientes medidas precautorias, cuando las circunstancias así lo ameriten:
-
-I. Clausura temporal, parcial o total, de las negociaciones, centros laborales o inmuebles;
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
-
-II. Aseguramiento precautorio de semovientes, materiales, bienes muebles e inmuebles o residuos de éstos, que deberán resguardarse en un lugar seguro y adecuado para cada caso, para lo cual la Unidad Estatal o Municipal podrá realizar los convenios necesarios con los propietarios o representantes legales de los establecimientos que cuenten con las medidas de seguridad para cada caso, y los propietarios, arrendatarios, poseedores o representantes legales están obligados a cubrir los gastos de la estadía en el lugar del aseguramiento; el resguardante únicamente podrá liberarlo con el mandato por escrito de la autoridad que realizó el aseguramiento;
-
-III. Neutralización o cualquier acción análoga que impida que los objetos señalados en las fracciones anteriores generen peligro, siniestros, desastres, riesgos, altos riesgos o fenómenos destructivos;
-
-IV. Delimitación de zonas de riesgo y alto riesgo, y limitación de la movilidad de las personas y vehículos en las mismas zonas;
-
-V. Reubicación de población asentada en zonas de riesgo o alto riesgo, y su atención es (sic) refugios temporales; y
-
-VI. Las demás que establezcan otras disposiciones legales.
-
-La Unidad Estatal o las unidades municipales se coordinarán para dictar o ejecutar cualquier medida de seguridad.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
-
-Al ejecutarse cualquier medida de seguridad relacionada con una situación de alto riesgo a la sociedad, la autoridad ejecutora deberá notificarle por escrito al afectado, anexando copia del acta circunstanciada que al efecto se elabore, cuáles fueron los actos, omisiones o circunstancias que motivaron la imposición de la medida, las acciones que deberá realizar para subsanar aquellas y los plazos para su realización, para efecto de que una vez corregido lo que motivó la imposición de la medida, se ordene su retiro. Las medidas de seguridad impuestas podrán impugnarse a través de lo previsto por esta ley.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
-
 ###### Artículo 78.
 
 La Unidad Estatal y las unidades municipales, realizarán los actos de inspección y vigilancia de las disposiciones contenidas en ésta ley, así como de aquéllas que del mismo se deriven. De la misma forma llevarán acabo (sic) los procedimientos necesarios para imponer y ejecutar las sanciones a que se refiere esta Ley.
@@ -1745,9 +1725,35 @@ Cuando el visitado realice las medidas correctivas o tendientes a subsanar las i
 
 En los casos en que lo estime pertinente, el Director General de la Unidad Estatal o de las unidades municipales, harán del conocimiento de la autoridad que corresponda los actos u omisiones que pudieran configurar otras infracciones administrativas o delitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO XV. De las notificaciones
+
+###### Artículo 80 Bis.
+
+Para garantizar el mantenimiento y la seguridad del orden público y el interés general, la Unidad Estatal o las unidades municipales, podrán ordenar y ejecutar cualesquiera de las siguientes medidas precautorias, cuando las circunstancias así lo ameriten:
+
+I. Clausura temporal, parcial o total, de las negociaciones, centros laborales o inmuebles;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+II. Aseguramiento precautorio de semovientes, materiales, bienes muebles e inmuebles o residuos de éstos, que deberán resguardarse en un lugar seguro y adecuado para cada caso, para lo cual la Unidad Estatal o Municipal podrá realizar los convenios necesarios con los propietarios o representantes legales de los establecimientos que cuenten con las medidas de seguridad para cada caso, y los propietarios, arrendatarios, poseedores o representantes legales están obligados a cubrir los gastos de la estadía en el lugar del aseguramiento; el resguardante únicamente podrá liberarlo con el mandato por escrito de la autoridad que realizó el aseguramiento;
+
+III. Neutralización o cualquier acción análoga que impida que los objetos señalados en las fracciones anteriores generen peligro, siniestros, desastres, riesgos, altos riesgos o fenómenos destructivos;
+
+IV. Delimitación de zonas de riesgo y alto riesgo, y limitación de la movilidad de las personas y vehículos en las mismas zonas;
+
+V. Reubicación de población asentada en zonas de riesgo o alto riesgo, y su atención es (sic) refugios temporales; y
+
+VI. Las demás que establezcan otras disposiciones legales.
+
+La Unidad Estatal o las unidades municipales se coordinarán para dictar o ejecutar cualquier medida de seguridad.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
+
+Al ejecutarse cualquier medida de seguridad relacionada con una situación de alto riesgo a la sociedad, la autoridad ejecutora deberá notificarle por escrito al afectado, anexando copia del acta circunstanciada que al efecto se elabore, cuáles fueron los actos, omisiones o circunstancias que motivaron la imposición de la medida, las acciones que deberá realizar para subsanar aquellas y los plazos para su realización, para efecto de que una vez corregido lo que motivó la imposición de la medida, se ordene su retiro. Las medidas de seguridad impuestas podrán impugnarse a través de lo previsto por esta ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 81.
 
@@ -1789,7 +1795,9 @@ La autoridad que imponga la multa, podrá otorgar al infractor la opción de pag
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
-Artículo 82 bis. La Unidad Estatal y las unidades municipales deberán informarse entre sí respecto de las medidas de seguridad o sanciones que impongan a efecto de que no se sancione dos veces a los infractores por la misma conducta.
+###### Artículo 82 Bis.
+
+La Unidad Estatal y las unidades municipales deberán informarse entre sí respecto de las medidas de seguridad o sanciones que impongan a efecto de que no se sancione dos veces a los infractores por la misma conducta.
 
 Para la imposición de las sanciones deberán considerar:
 
@@ -2011,7 +2019,7 @@ El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE FEBRERO DE 1998.
 
@@ -2050,5 +2058,9 @@ P.O. 18 DE SEPTIEMBRE DE 2010.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 17 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
