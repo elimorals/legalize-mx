@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-de-la-legalidad-para-el-estado-de-chihuahua-8125
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-30"
-last_updated: "2013-02-09"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA DE LA LEGALIDAD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de abril de 2011.
 
@@ -61,9 +61,9 @@ I. Comité: El Comité de Investigación y Análisis para la formulación del Pr
 
 II. Consejo: El Consejo Estatal para Impulsar la Cultura de la Legalidad;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-III. Consejos Regionales: Son los órganos e instancias auxiliares que señala la Ley del Sistema Estatal de Seguridad Pública;
+III. Consejos Regionales: Los Consejos Regionales para Impulsar la Cultura de la legalidad, de las Zonas Norte, Sur, Centro y Occidente;
 
 IV. Cultura de la Legalidad: Atributo de la sociedad que se distingue por el respeto y acatamiento de las disposiciones jurídicas vigentes;
 
@@ -163,17 +163,17 @@ X. Un vocal de cada uno de los sectores descritos en el artículo 7 de la presen
 
 Los integrantes del Consejo podrán designar a su respectivo suplente.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 9.
 
-Los Consejos Regionales actuarán en apego a la Ley del Sistema Estatal de Seguridad Pública, pero tratándose de la competencia de la presente Ley, las resoluciones o los acuerdos se ejecutarán mediante los lineamientos generales y específicos dictados por el Consejo Estatal para Impulsar la Cultura de la Legalidad.
+Las resoluciones o los acuerdos de los Consejos Regionales se ejecutarán mediante convenios generales y específicos, atendiendo a los lineamientos dictados por el Consejo Estatal para Impulsar la Cultura de la Legalidad.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 10.
 
-Los Consejos Regionales se integrarán de acuerdo a lo que establece la Ley del Sistema Estatal de Seguridad Pública.
+Los Consejos Regionales se integrarán de la siguiente manera: (SIC)
 
 ###### Artículo 11.
 
@@ -223,11 +223,11 @@ VIII. Aprobar el Programa por al menos dos terceras partes de sus integrantes, y
 
 IX. Las demás que determinen el Reglamento Interior y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 16.
 
-Los Consejos Regionales, además de las atribuciones que deriven de la Ley del Sistema Estatal de Seguridad Pública, tendrán en cuanto a Cultura de la Legalidad específicamente las siguientes:
+Los Consejos Regionales tendrán las siguientes atribuciones:
 
 I. Ejecutar el Programa en los términos de esta Ley y del Reglamento Interior, así como promover y establecer, en el ámbito de la competencia de cada Consejo Regional, las condiciones para la participación de los demás integrantes de los sectores y organizaciones de la sociedad, en la realización de las acciones derivadas del Programa;
 
@@ -354,3 +354,61 @@ DECRETO NÚMERO 860/2012 VII P.E, POR EL QUE SE REFORMAN EL ARTÍCULO 2, FRACCI�
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Seguridad Pública contenida en el Decreto No. 582-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009, sus posteriores reformas y en general todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, contenida en el Decreto No. 584-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009 y sus posteriores reformas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, inmediatamente que entre en vigor la Ley del Sistema Estatal de Seguridad Pública a que se refiere el presente Decreto, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública convocará a reunión extraordinaria para la instalación de la Conferencia Estatal de Seguridad Pública Municipal.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se establecen los Consejos de Seguridad Pública de los municipios en los términos de la Ley que se expide, los Consejos Consultivos de Seguridad Pública, Consejos Ciudadanos, Comités Ciudadanos u órganos equivalentes de los municipios, se ajustarán a las disposiciones y ejercerán las atribuciones contenidas en el Capítulo V del título segundo de la misma, independientemente de la denominación que hayan adoptado.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados a los Integrantes de las Instituciones Policiales ante las Comisiones del Servicio Profesional de Carrera Policial, así como de Honor y Justicia, con anterioridad a la entrada en vigor de la presente Ley, continuarán su trámite hasta su resolución conforme a las disposiciones legales y reglamentarias vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos para la aplicación de sanciones iniciados por la Fiscalía Especializada en Control, Análisis y Evaluación a los agentes del Ministerio Público y peritos, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, continuarán su trámite hasta su resolución conforme a las disposiciones legales vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO OCTAVO.
+
+El titular del Ejecutivo del Estado, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, expedirá el reglamento del servicio profesional de carrera de las instituciones de seguridad pública del Estado y los municipios.
+
+###### ARTÍCULO NOVENO.
+
+El Servicio Profesional de Carrera para agentes del Ministerio Público y peritos deberá implementarse en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO.
+
+Con excepción de la División de Investigación, la Policía Estatal Única, y los agentes de seguridad, custodia y traslado tanto de los centros de reinserción social, como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, adoptarán el esquema de jerarquización terciaria contenido en los artículos 153 y 157, respectivamente, de la Ley del Sistema Estatal de Seguridad Pública que se expide por virtud del presente Decreto, a más tardar el 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La División de Investigación de la Policía Estatal Única adoptará el esquema de jerarquización terciaria contenido en el artículo 154 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no excederá del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Instituciones Policiales de los municipios, deberán implementar el Servicio Profesional de Carrera, incluyendo la integración de sus respectivas Comisiones del Servicio Profesional de Carrera, Honor y Justicia y la adopción del esquema de jerarquización terciaria contenido en el artículo 155 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Estatal de Seguridad Pública o Ley Sobre el Sistema Estatal de Seguridad Pública, se entenderá referida a la Ley del Sistema Estatal de Seguridad Pública que se expide mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
