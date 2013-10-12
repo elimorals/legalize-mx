@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-organismo-publico-desecentralizado-comite-14404
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-08"
-last_updated: "2004-10-02"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESECENTRALIZADO COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCION DE ESCUELAS C.A.P.E.C.E
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO "COMITE ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCION DE ESCUELAS" (C.A.P.E.C.E.).
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO "COMITÉ ADMINISTRADOR DEL PROGRAMA ESTATAL DE CONSTRUCCIÓN DE ESCUELAS" (C.A.P.E.C.E.).
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 8 de mayo de 1999.
 
@@ -347,8 +349,38 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. DE 12 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley que crea el Organismo Público Descentralizado Comité Administrador del Programa Estatal de Construcción de Escuelas, publicada en el Periódico Oficial "El Estado de Jalisco" el día 8 de mayo de 1999, mediante decreto número 17883, quedando extinto dicho organismo.
+
+TERCERO. La Junta de Gobierno deberá expedir su reglamento interno, dentro de los 180 días hábiles a partir de su integración, mismo que deberá ser remitido al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "El Estado de Jalisco", debiendo contener el Sistema de evaluación del desempeño, acorde a las disposiciones que en materia de control gubernamental ha expedido la Federación.
+
+CUARTO. Los trabajadores del Comité Administrador del Programa Estatal de Construcción de Escuelas (CAPECE) pasarán a formar parte del Instituto, respetándose todos sus derechos laborales adquiridos en términos de la ley, tanto individuales como colectivos.
+
+De igual manera, los bienes muebles e inmuebles y los recursos con que actualmente cuenta el Comité Administrador del Programa Estatal de Construcción de Escuelas pasarán a formar parte del patrimonio del Instituto al inicio de la vigencia de este decreto, en el entendido que los recursos destinados para su operación serán exclusivos para ello y los de obra para ese fin.
+
+QUINTO. Los montos no ejercidos del presupuesto autorizado para el Comité Administrador del Programa Estatal de Construcción de Escuelas en el Presupuesto de Egresos del Estado, para el ejercicio fiscal del año en curso, al inicio de la vigencia de este decreto, serán los ejercidos por el Instituto.
+
+SEXTO. Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente decreto, el Instituto deberá ratificar los convenios celebrados con anterioridad por el Comité Administrador del Programa Estatal de Construcción de Escuelas, sustituyéndolo en el cumplimiento de las obligaciones y el ejercicio de dichos derechos.
+
+SÉPTIMO. En tanto se expide (sic) las disposiciones reglamentarias a que se refiere la presente ley, seguirán en vigor en lo que no la contravengan, aquellas que han regido hasta el momento al Comité Administrador del Programa Estatal de Construcción de Escuelas.
+
+OCTAVO. Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con el Comité Administrador del Programa Estatal de Construcción de Escuelas, la representación de este será sustituida por el Instituto.
+
+Las responsabilidades derivadas de procedimientos administrativos, judiciales o cualquier otra investigación que se haya iniciado o se inicie sobre el manejo de los recursos públicos por parte de los trabajadores del Comité Administrador del Programa Estatal de Construcción de Escuelas o cualquier otra persona física o moral, pública o privada, continuarán su curso independiente de su cambio de denominación.
+
+A la fecha de entrada en vigor del presente Decreto, el Instituto se subrogará en todas las obligaciones que hubiere contraído el Comité Administrador del Programa Estatal de Construcción de Escuelas, debiéndose realizar una auditoría interna que refleje el estado real y actual en que se entrega el organismo público descentralizado CAPECE que se extingue y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto.
+
+NOVENO. Las referencias al Comité Administrador del Programa Estatal de Construcción de Escuelas que hagan leyes y demás disposiciones normativas, se entenderán realizadas al Instituto.
+
+DÉCIMO. El Instituto enviará a la Secretaría de Educación en un plazo no mayor a 180 días hábiles un diagnóstico de la cobertura y calidad de la Infraestructura Física Educativa del Estado, lo anterior para ser considerados en los planes y programas de inversión.
+
+DÉCIMO PRIMERO. Se derogan todas las demás disposiciones que se opongan al presente decreto.
