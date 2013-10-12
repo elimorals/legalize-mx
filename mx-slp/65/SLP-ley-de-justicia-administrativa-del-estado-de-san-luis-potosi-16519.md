@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2012-02-16"
+last_updated: "2013-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -629,13 +629,19 @@ El término para presentar la demanda ante el Tribunal de lo Contencioso Adminis
 
 Cuando sean las autoridades las que impugnen una resolución administrativa o fiscal favorable a los particulares, por considerar que lesiona a la administración pública o al interés público, el término para presentar la demanda será de un año, contado a partir de la fecha de la resolución impugnada.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 51.
 
-Son días hábiles para la promoción, substanciación y resolución de los juicios contenciosos administrativos previstos en esta ley, todos los días del año, con exclusión de los sábados y domingos, el primero de enero, el cinco de febrero, el veintiuno de marzo, el primero y el cinco de mayo, el dieciséis de septiembre, el doce de octubre, el veinte de noviembre, el veinticinco de diciembre y aquéllos en que se suspendan, por cualquier causa, las labores del tribunal. En este último caso, la existencia de personal de guardia encargado del trámite de lo urgente, no habilitará los días.
+Son días hábiles para la promoción, substanciación, y resolución de los juicios contenciosos administrativos previstos en esta Ley: todos los días del año; excepto, sábados y domingos; los señalados en el artículo 74 de la Ley Federal del Trabajo; los días de descanso obligatorio; así como aquéllos en los que el Tribunal decrete sus periodos vacacionales o suspenda sus labores. En este último caso, la existencia de personal de guardia encargado del trámite de lo urgente, no habilitará los días.
+
+El Tribunal podrá, de oficio o a petición de parte interesada, habilitar días inhábiles cuando el asunto así lo amerite.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 52.
 
-La presentación de demandas o promociones de término podrá hacerse el día en que éste concluya, aun fuera del horario de labores del tribunal, ante el secretario del mismo.
+La presentación de demandas, contestación, informes, promociones de cualquier tipo o de término, podrá hacerse en el horario normal de labores del Tribunal. Las promociones de término también podrán presentarse el día en que éste concluya, fuera del horario de labores del Tribunal, en el buzón para promociones de término habilitado al efecto, o ante la secretaría general del mismo.
 
 ###### ARTICULO 53.
 
@@ -1390,3 +1396,9 @@ P.O. 16 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
