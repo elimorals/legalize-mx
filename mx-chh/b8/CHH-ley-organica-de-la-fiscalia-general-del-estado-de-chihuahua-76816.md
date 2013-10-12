@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2012-02-04"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -183,7 +183,9 @@ II. La Escuela Estatal de Policía, en colaboración con las señaladas instituc
 
 III. La Unidad de Asistencia y Práctica Ministerial auxiliará al Ministerio Público en el cumplimiento de las atribuciones previstas en el artículo 2, apartado B, con excepción de aquellas que sean exclusivas del Fiscal; así como en el artículo 12, con las especificaciones y limitaciones que por acuerdo dicte el Fiscal General. La duración del servicio auxiliar será de un año.
 
-IV. Los integrantes de la Unidad recibirán una beca económica como contraprestación por sus servicios auxiliares y tendrán al término de los mismos, en igualdad de circunstancias con otros aspirantes, el derecho preferencial para incorporarse al servicio en los términos de los artículos 16 y 17.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV. Los integrantes de la Unidad recibirán una beca económica como contraprestación por sus servicios auxiliares y tendrán al término de los mismos, en igualdad de circunstancias con otros aspirantes, el derecho preferencial para ingresar al servicio profesional de carrera ministerial en los términos de la Ley del Sistema Estatal de Seguridad Pública.
 
 ### CAPÍTULO III. De la Fiscalía General del Estado
 
@@ -279,11 +281,27 @@ La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito conta
 
 La Fiscalía Especializada en Control, Análisis y Evaluación, tendrá las siguientes atribuciones:
 
-I. Aplicar los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los servidores de la Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+I. Participar en los procesos para el Ingreso, Promoción, Permanencia, Responsabilidades, Ascensos, así como Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado, en los términos de las disposiciones legales y demás normatividad aplicables;
 
 II. Ejercer un sistema de control para el manejo eficiente y eficaz de los recursos humanos y materiales, así como para la mejora continua de la Fiscalía General, y
 
 III. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza y el Centro de Atención Integral de la salud.
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+IV. Ordenar y realizar la práctica de revisiones a los expedientes de averiguación previa, carpetas de investigación y, en general, a la actuación de los agentes del Ministerio Público y peritos
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+Para los efectos del procedimiento de separación y del régimen disciplinario que establece la Ley del Sistema Estatal de Seguridad Pública, la Fiscalía Especializada podrá determinar como medida cautelar la suspensión en el servicio, cargo o comisión del probable infractor sujeto a procedimiento, sin el pago de la remuneración diaria ordinaria, para no afectar el servicio, a la institución o a la realización de las investigaciones, informando de ello a la Comisión del Servicio Profesional de Carrera, Honor y Justicia en la solicitud de inicio de dicho procedimiento. Para hacer efectivas sus determinaciones podrá dictar los siguientes medios de apremio:
+
+a) Apercibimiento.
+
+b) Multa hasta por el equivalente a quince veces el salario mínimo general vigente en la capital del Estado al momento de su imposición.
+
+c) Arresto hasta por treinta y seis horas.
 
 ###### Artículo 11.
 
@@ -327,15 +345,17 @@ La División de Investigación depende de la Policía Estatal Única y se encuen
 
 La Policía Estatal Única, el Centro de Justicia Alternativa, la Dirección de Servicios Periciales y Ciencias Forenses, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Estadística Criminal, las Casas de Atención a Víctimas y Ofendidos del Delito, el Centro Estatal de Control de Confianza, la Escuela Estatal de Policía, el Centro de Atención Integral a la Salud, los Centros de Reinserción Social, los Centros de Control, Comando, Comunicaciones y Cómputo, y las demás Unidades Técnicas y Administrativas tendrán la estructura y las atribuciones que establezcan sus leyes y reglamentos.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 2013)</small>
+
 ### CAPÍTULO IV. Del Servicio Civil y Profesional de Carrera
 
 ###### Artículo 16.
 
-Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, adscripción, rotación, reingreso, estímulos, reconocimientos y retiro del personal operativo de la Fiscalía General del Estado, serán regulados por las leyes y los reglamentos respectivos.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 17.
 
-El Servicio Civil y Profesional de Carrera en la Fiscalía General del Estado, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para los servidores públicos que la integran, en los términos de las leyes y reglamentos respectivos.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO V. De los nombramientos, remociones y ausencias
 
@@ -357,25 +377,7 @@ Los demás funcionarios y servidores públicos de la Fiscalía eneral (sic) del 
 
 ###### Artículo 21.
 
-En la designación del personal del Ministerio Público, de la Policía Estatal y de la Dirección de Servicios Periciales y Ciencias Forenses de la Fiscalía General del Estado, se atenderá a las siguientes disposiciones:
-
-Para ser Agente del Ministerio Público se requiere:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II. Acreditar que ha observado buena conducta y no ha sido sentenciado ejecutoriadamente como responsable por delito doloso;
-
-III. Ser mayor de 24 años;
-
-IV. Ser Licenciado en Derecho, con autorización para el ejercicio de su profesión, y
-
-V. Aprobar el examen de selección correspondiente.
-
-Para ser Policía de la División de Investigación bajo la autoridad y mando del Ministerio Público, se deben reunir los requisitos previstos en las fracciones I, II y V; además, contar con nivel licenciatura en disciplinas afines a la función investigadora y, preferentemente, haber egresado de la Escuela Estatal de Policía.
-
-Para ser perito en la Fiscalía General del Estado, debe reunir los requisitos de las fracciones I, II y V; además, contar con título legalmente expedido por la institución o autoridad facultada para ello, o acreditar ante la comisión que nombre el Fiscal General del Estado, que posee los conocimientos necesarios en la disciplina sobre la que debe dictaminar.
-
-Para intervenir en los procedimientos de Justicia Especial para Adolescentes Infractores, además de los requisitos señalados en el presente artículo, los agentes del Ministerio Público requieren acreditar la especialización exigida por la Ley de la materia, salvo en aquellos casos de excepción que en la misma se establecen.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 22.
 
@@ -393,75 +395,49 @@ III. Las de los agentes del Ministerio Público, por el personal que designe el 
 
 IV. En los lugares donde sólo haya un Agente del Ministerio Público, su ausencia será suplida por quien designe su superior.
 
-### CAPÍTULO VI. De los reconocimientos, faltas y sanciones del personal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO VI. De los procedimientos
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 24.
 
-Los servidores de la Fiscalía General del Estado serán estimulados por el eficiente desempeño de su trabajo, en los términos que establezcan las Bases para la Organización, Funcionamiento y Desarrollo del Servicio Civil y Profesional de Carrera en la Dependencia.
+Los estímulos, promoción y ascensos de los Integrantes de las Instituciones de Seguridad Pública se otorgarán por las instancias y conforme a los procedimientos, requisitos y formalidades previstos en la Ley del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 25.
 
-El procedimiento para la aplicación de sanciones a los servidores de la Fiscalía General del Estado se tramitará ante la Fiscalía Especializada de Control, Análisis y Evaluación, respetando la garantía de audiencia, en los siguientes casos:
-
-I. Por no cumplir el servicio y las obligaciones que les sean encomendadas;
-
-II. Por no conservar y custodiar los materiales, herramientas y equipo, y la documentación e información que tenga bajo su cuidado;
-
-III. Por faltar más de tres días a sus labores sin causa justificada, dentro de un período de treinta días;
-
-IV. Por causar daños en los edificios, obras, maquinaria, instrumentos de trabajo, documentos, equipo y demás bienes que tenga bajo su custodia, ya sea por intención, omisión, descuido, impericia o negligencia;
-
-V. Presentarse al servicio en estado de embriaguez, o bajo la influencia de alguna sustancia tóxica, narcótica o enervante;
-
-VI. No tratar con el debido respeto a los servidores públicos, y a las personas en general;
-
-VII. No guardar la debida reserva en los asuntos que por razón de su función le competen, y
-
-VIII. Las demás que deriven de la presente Ley, de la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones legales, reglamentarias y administrativas aplicables.
+Las faltas, sanciones y en general todo lo relativo al régimen disciplinario de los Integrantes de las Instituciones de Seguridad Pública, se determinará de acuerdo a las disposiciones, por los órganos y conforme al procedimiento administrativo previstos (sic) en la Ley del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 26.
 
-Se podrán imponer las siguientes sanciones:
-
-I. Amonestación por escrito;
-
-II. Suspensión en el ejercicio del cargo y del goce de la remuneración correspondiente hasta por diez días, y
-
-III. El cese o destitución definitiva del cargo.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 27.
 
-La sanción impuesta será notificada al servidor público, quien dispondrá de tres días hábiles para inconformarse ante el Fiscal General del Estado.
-
-Si el afectado se inconforma por la sanción, se citará a una audiencia en la que será oído y, en su caso, se desahogarán los medios de prueba que ofreciere. Si al celebrarse la audiencia no ofreciere prueba alguna, se le tendrá por desistido de su oportunidad de ofrecimiento y se dictará la resolución que corresponda.
-
-De la resolución que se dicte, se enviará copia al expediente personal del servidor público.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 28.
 
-Para la imposición de las sanciones al infractor, se tendrá en consideración:
-
-I. La gravedad de la falta cometida;
-
-II. Su desempeño y comportamiento, y
-
-III. Su nivel jerárquico y antigüedad en el servicio.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 29.
 
-La interposición del recurso de inconformidad a que alude el artículo 27, interrumpe la aplicación de la sanción recurrida; sin embargo, podrá imponerse la suspensión provisional hasta por treinta días en el empleo o cargo del servidor público, cuando debido a la importancia de la falta o infracción cometida sea necesario realizar investigaciones, a fin de determinar su responsabilidad, o cuando por el cargo o empleo pueda interferir en las investigaciones.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 30.
 
-La amonestación por escrito podrá imponerla el superior jerárquico del infractor. El superior podrá abstenerse de sancionarlo cuando la falta sea leve, se haya cometido por primera vez y se trate de hechos que no tengan relevancia penal, administrativa o civil.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 31.
 
-Los servidores de la Fiscalía General del Estado, podrán ser separados (sic) su cargo si no cumplen con los requisitos que las leyes vigentes, en el momento del acto, señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ###### Artículo 32.
 
-Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO VII. De las incompatibilidades y excusas
 
@@ -527,7 +503,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés dí
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE OCTUBRE DE 2010.
 
@@ -537,7 +513,7 @@ El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, 
 
 P.O. 3 DE SEPTIEMBRE DE 2011.
 
-DECRETO No. 384/2011 II P.O. POR EL QUE SE REFORMA LA FRACCION I DEL INCISO A DEL ARTICULO 2; ASI COMO LA FRACCION II DEL ARTICULO 6, DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 384/2011 II P.O. POR EL QUE SE REFORMA LA FRACCIÓN I DEL INCISO A DEL ARTÍCULO 2; ASÍ COMO LA FRACCIÓN II DEL ARTÍCULO 6, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -545,7 +521,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 3 DE SEPTIEMBRE DE 2011.
 
-DECRETO No. 393/2011 II P.O. POR EL QUE SE ADICIONA EL ARTICULO 5 BIS A LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 393/2011 II P.O. POR EL QUE SE ADICIONA EL ARTÍCULO 5 BIS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -570,3 +546,61 @@ DECRETO No. 733/2012 V P.E. POR EL QUE SE REFORMA EL DECRETO No. 386/2011 II P.O
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Seguridad Pública contenida en el Decreto No. 582-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009, sus posteriores reformas y en general todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, contenida en el Decreto No. 584-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009 y sus posteriores reformas.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, inmediatamente que entre en vigor la Ley del Sistema Estatal de Seguridad Pública a que se refiere el presente Decreto, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública convocará a reunión extraordinaria para la instalación de la Conferencia Estatal de Seguridad Pública Municipal.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se establecen los Consejos de Seguridad Pública de los municipios en los términos de la Ley que se expide, los Consejos Consultivos de Seguridad Pública, Consejos Ciudadanos, Comités Ciudadanos u órganos equivalentes de los municipios, se ajustarán a las disposiciones y ejercerán las atribuciones contenidas en el Capítulo V del título segundo de la misma, independientemente de la denominación que hayan adoptado.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos iniciados a los Integrantes de las Instituciones Policiales ante las Comisiones del Servicio Profesional de Carrera Policial, así como de Honor y Justicia, con anterioridad a la entrada en vigor de la presente Ley, continuarán su trámite hasta su resolución conforme a las disposiciones legales y reglamentarias vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos para la aplicación de sanciones iniciados por la Fiscalía Especializada en Control, Análisis y Evaluación a los agentes del Ministerio Público y peritos, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, continuarán su trámite hasta su resolución conforme a las disposiciones legales vigentes al inicio de dichos procedimientos.
+
+###### ARTÍCULO OCTAVO.
+
+El titular del Ejecutivo del Estado, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, expedirá el reglamento del servicio profesional de carrera de las instituciones de seguridad pública del Estado y los municipios.
+
+###### ARTÍCULO NOVENO.
+
+El Servicio Profesional de Carrera para agentes del Ministerio Público y peritos deberá implementarse en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO.
+
+Con excepción de la División de Investigación, la Policía Estatal Única, y los agentes de seguridad, custodia y traslado tanto de los centros de reinserción social, como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, adoptarán el esquema de jerarquización terciaria contenido en los artículos 153 y 157, respectivamente, de la Ley del Sistema Estatal de Seguridad Pública que se expide por virtud del presente Decreto, a más tardar el 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La División de Investigación de la Policía Estatal Única adoptará el esquema de jerarquización terciaria contenido en el artículo 154 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no excederá del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las Instituciones Policiales de los municipios, deberán implementar el Servicio Profesional de Carrera, incluyendo la integración de sus respectivas Comisiones del Servicio Profesional de Carrera, Honor y Justicia y la adopción del esquema de jerarquización terciaria contenido en el artículo 155 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no deberá exceder del 01 de enero del año 2015.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Estatal de Seguridad Pública o Ley Sobre el Sistema Estatal de Seguridad Pública, se entenderá referida a la Ley del Sistema Estatal de Seguridad Pública que se expide mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
