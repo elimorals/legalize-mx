@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-metrologia-63279"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-10-01"
-last_updated: "2013-05-10"
+last_updated: "2013-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63279&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2008-09-12"
 ---
 # ESTATUTO ORGANICO DEL CENTRO NACIONAL DE METROLOGIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE METROLOGÍA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE OCTUBRE DE 2013.</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de octubre de 2008.
 
@@ -249,8 +249,6 @@ El CENAM determinará en cada caso, la procedencia de una compensación compleme
 
 Para el cumplimiento de sus funciones y el ejercicio de las atribuciones que le corresponden conforme a la Ley, la Ley de las Entidades y sus respectivos Reglamentos, el CENAM contará con la estructura orgánica señalada en el artículo 31 de la Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 14.
 
 Para el cumplimiento de sus funciones y conforme a la aprobación de las autoridades administrativas competentes, el CENAM cuenta con la estructura orgánica siguiente:
@@ -288,6 +286,10 @@ Las Direcciones Generales señaladas, se dividirán en Direcciones de Área de l
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
 
 1.1 Dirección de Planeación, Vinculación e Innovación.
+
+(ADICIONADO, D.O.F. 10 DE MAYO DE 2013) (F. DE E., D.O.F. 14 DE OCTUBRE DE 2013)
+
+1.2 Dirección de Área Metrológica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
 
@@ -377,7 +379,7 @@ Las Direcciones Generales señaladas, se dividirán en Direcciones de Área de l
 
 3.3. Dirección de Asuntos Jurídicos;
 
-3.4 Dirección de Recursos Humanos
+3.4 (DEROGADO, D.O.F. 10 DE MAYO DE 2013) (F. DE E., D.O.F. 14 DE OCTUBRE DE 2013)
 
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
 
@@ -441,7 +443,7 @@ Las Direcciones de Área siguientes, se dividen en Subdirecciones de Área de la
 
 3.3.1 Subdirección Jurídica.
 
-3.4. Dirección de Recursos Humanos:
+3.4. (DEROGADO, D.O.F. 10 DE MAYO DE 2013) (F. DE E., D.O.F. 14 DE OCTUBRE DE 2013)
 
 3.4.1. Subdirección de Contratación, Capacitación y Desarrollo;
 
@@ -915,13 +917,11 @@ VII. Suplir al Director General de Área en su ausencia cuando así lo solicite;
 
 VIII. Las específicas que se asignen a cada Dirección en el Manual de Organización del CENAM.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013) (F. DE E., D.O.F. 14 DE OCTUBRE DE 2013)
 
 ###### Artículo 35.
 
-Los Directores de Área de las Áreas Administrativa, Financiera, Jurídica y Recursos Humanos, además de lo establecido por el artículo 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunir los siguientes requisitos:
+Los Directores de Área de las Áreas Administrativa, Financiera y Jurídica además de lo establecido por el artículo 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunir los siguientes requisitos:
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -935,13 +935,11 @@ II. Haber desempeñado puestos de mando, que acrediten experiencia en el campo d
 
 III. Ser de reconocida solvencia ética.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013) (F. DE E., D.O.F. 14 DE OCTUBRE DE 2013)
 
 ###### Artículo 36.
 
-Los Directores de Área en las Áreas Administrativa, Financiera, Jurídica y Recursos Humanos tendrán las funciones siguientes:
+Los Directores de Área en las Áreas Administrativa, Financiera y Jurídica tendrán las funciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
