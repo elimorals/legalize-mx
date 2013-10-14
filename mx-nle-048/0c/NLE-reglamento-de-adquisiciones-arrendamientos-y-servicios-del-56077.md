@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-5607
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-15"
-last_updated: "2008-04-09"
+last_updated: "2013-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ADQUISICIÓN DE BIENES, ARRENDAMIENTOS Y/O PRERSTACIÓN (SIC) DE SERVICIOS DEL MUNICIPIO DE SANTA CATARINA NUEVO LEÓN, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de junio de 2007.
 
@@ -875,10 +877,22 @@ LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE ABRIL DE 2008.
 
 PRIMERO. Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO. Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 14 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Se abroga el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Santa Catarina, publicado en el Periódico Oficial del Estado de Nuevo león, en fecha 09 de Abril del 2008; así como, todas aquellas disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Para todo efecto legal cuando cualquier otro ordenamiento Municipal se refiera al Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio, se entenderá el presente Reglamento para la Adquisición de Bienes, Arrendamientos y/o Prestación de Servicios del Municipio de Santa Catarina, Nuevo León.
+
+CUARTO. A fin de Integrar el Comité a que hace alusión el artículo 22 de éste reglamento, se tendrá un plazo de hasta 180 días naturales a partir de la publicación del mismo.
+
+QUINTO. Envíese para su publicación en el Periódico Oficial del Estado de Nuevo León y publíquese en la Gaceta Municipal.
