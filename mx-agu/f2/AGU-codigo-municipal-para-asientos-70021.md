@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-asientos-70021"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-09-07"
-last_updated: "2009-10-26"
+last_updated: "2013-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL PARA ASIENTOS
 
-CODIGO MUNICIPAL PARA ASIENTOS
+CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 26 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de septiembre de 2009.
 
@@ -525,7 +525,7 @@ LXIII. Nombrar al Titular de la Contraloría Municipal;
 
 LIX. (sic) Nombrar al Juez Calificador.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2009)</small>
 
 Obligaciones del Ayuntamiento en Materia de Igualdad y Género
 
@@ -1647,7 +1647,7 @@ Las comisiones especiales deberán rendir sus dictámenes, en la siguiente sesi�
 
 De las atribuciones, así como el Régimen de Suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley Municipal para el Estado de Aguascalientes.
 
-(REPUBLICADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2009)
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2009)
 
 ###### ARTÍCULO 188.
 
@@ -2267,121 +2267,127 @@ a) Departamento de Transparencia;
 
 b) Departamento de Auditorias.
 
-V. Delegación y Comisarios Municipales (Autoridades Honorarias Auxiliares):
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
-1. Delegaciones:
+V. Delegaciones y Comisarias Municipales (Autoridades Honorarias Auxiliares):
+
+I. Delegaciones:
 
 a) Villa Juárez;
 
 b) Guadalupe de Atlas;
 
-c) Pilotos; y
+c) Pilotos;
 
-d) Adolfo López Mateos.
+d) Adolfo López Mateos; y
 
-2. Comisarías Municipales:
+e) Ciénega Grande
 
-a) Adolfo López Mateos;
+II. Comisarías Municipales por Delegaciones:
 
-b) Amarillas;
+a) Delegación Villa Juárez
 
-c) Bajío de los Campos;
+1. Amarillas
 
-d) Bimbaletes Atlas;
+2. Charco Azul
 
-e) Bimbaletes Aguascalientes;
+3. Colonia San Pedro
 
-f) Caldera;
+4. El Llavero
 
-g) Charco Azul;
+5. El Polvo
 
-h) Charco Prieto (Palomar);
+6. El Tule
 
-i) Ciénega Grande;
+7. Jilotepec
 
-j) Clavellinas;
+8. La Dichosa
 
-k) Colonia Emancipación;
+9. Molinos
 
-l) Colonia San Pedro;
+10. Pino Suárez
 
-m) Crisóstomos;
+11. San José del Río
 
-n) El Epazote;
+12. San Rafael de Ocampo
 
-o) El Llavero;
+13. San Vicente
 
-p) El Polvo;
+14. Viudas de Poniente
 
-q) El Salitre;
+b) Delegación Guadalupe de Atlas
 
-r) El Tule;
+1. Bimbaletes Atlas
 
-s) Francisco Villa;
+2. Bimbaletes Aguascalientes
 
-t) Gómez Portugal;
+3. Jarillas
 
-u) Gorriones;
+4. Norias del Borrego
 
-v) Jarillas;
+5. Colonia las Torres de Gpe.
 
-w) Jilotepec;
+c) Delegación Pilotos
 
-x) La Dichosa;
+1. Bajío de los Campos
 
-y) La Esperanza;
+2. Colonia Emancipación
 
-z) La Gloria;
+3. El Epazote
 
-aa) Las Adjuntas;
+4. El Salitre
 
-bb) Las Fraguas;
+5. Francisco Villa
 
-cc) Las Negritas;
+6. La Esperanza
 
-dd) Lázaro Cárdenas;
+7. Las Adjuntas
 
-ee) Los Encinos;
+8. Las Fraguas
 
-ff) Molinos;
+9. Las Negritas
 
-gg) Norias del Borrego;
+10. Ojo de Agua de los Sauces
 
-hh) Ojo de Agua de los Sauces;
+11. San José del Tulillo
 
-ii) Ojo de Agua de Rosales;
+12. Tanque de Guadalupe
 
-jj) Pilotos;
+13. Tanque Viejo
 
-kk) Pino Suárez;
+14. Tinajuela
 
-ll) Plutarco Elías Calles;
+d) Delegación Adolfo López Mateos
 
-mm) San Antonio de los Martínez;
+1. Caldera
 
-nn) San Gil;
+2. Charco Prieto (Palomar)
 
-oo) San José del Río;
+3. Clavellinas
 
-pp) San José del Tulillo;
+4. Gorriones
 
-qq) San Rafael de Ocampo;
+5. Ojo de Agua de Rosales
 
-rr) San Vicente;
+6. San Antonio de los Martínez
 
-ss) Tanque de Guadalupe;
+7. Tepetatillo
 
-tt) Tanque Viejo;
+e) Delegación Ciénega Grande
 
-uu) Tepetatillo;
+1. La Gloria
 
-vv) Tinajuela;
+2. Lázaro Cárdenas
 
-ww) Villa Juárez;
+3. Los Encinos
 
-xx) Viudas de Poniente;
+4. Crisóstomos
 
-yy) Viudas de Oriente.
+5. San Gil
+
+6. Colonia Calles
+
+7. Colonia Gómez Portugal
 
 VI. Tesorería Municipal:
 
@@ -4361,7 +4367,7 @@ Una vez autorizada la enajenación por el H. Cabildo, la Secretaría del Ayuntam
 
 ###### ARTÍCULO 401.
 
-En los casos en que la Secretaría del Ayuntamiento o a quien se deleguen facultades determinen que los bienes muebles puestos a su disposición por haber sido dados de baja se pueden seguir utilizando, periódicamente comunicará a las áreas municipales por lo medios que se consideren adecuados, la existencia de tales bienes muebles y en los supuestos que hubiese dependencias interesadas en los mismos lo harán del conocimiento de la Secretaría del Ayuntamiento para que éste proceda a su reasignación mediante la emisión de los resguardos correspondientes.
+En los casos en que la Secretaría del Ayuntamiento o a quien se deleguen facultades determinen que los bienes muebles puestos a su disposición por haber sido dados de baja se pueden seguir utilizando, periódicamente comunicará a las áreas municipales por lo (sic) medios que se consideren adecuados, la existencia de tales bienes muebles y en los supuestos que hubiese dependencias interesadas en los mismos lo harán del conocimiento de la Secretaría del Ayuntamiento para que éste proceda a su reasignación mediante la emisión de los resguardos correspondientes.
 
 ###### ARTÍCULO 402.
 
@@ -6607,7 +6613,7 @@ IV. Si cuenta con las instalaciones de acústica, que evite ruidos o sonidos exc
 
 ###### ARTÍCULO 694.
 
-Para efectos de los artículos anteriores, en caso de solicitud de una Licencia para expender bebidas alcohólicas o en su caso reubicar un establecimiento ya existente, a parte de cubrir los anteriores requisitos el establecimiento deberá estar en un radio no menor de ciento cincuenta metros de espacios laborales, educativos, centros religiosos, de esparcimiento, similares o análogos.
+Para efectos de los artículos anteriores, en caso de solicitud de una Licencia para expender bebidas alcohólicas o en su caso reubicar un establecimiento ya existente, a parte (sic) de cubrir los anteriores requisitos el establecimiento deberá estar en un radio no menor de ciento cincuenta metros de espacios laborales, educativos, centros religiosos, de esparcimiento, similares o análogos.
 
 ###### ARTÍCULO 695.
 
@@ -7441,7 +7447,7 @@ V. Realizar y mantener un constante monitoreo sobre los usuarios y establecer me
 
 VI. Prohibir el consumo o venta de bebidas alcohólicas o cigarros dentro del establecimiento;
 
-VII. Prohibir la comercialización o reproducción de documentos oficiales que no sean públicos, música, textos yen general cualquier reproducción que contravenga la ley;
+VII. Prohibir la comercialización o reproducción de documentos oficiales que no sean públicos, música, textos y en general cualquier reproducción que contravenga la ley;
 
 VIII. Las demás que determine la autoridad.
 
@@ -12499,7 +12505,7 @@ La administración pública municipal no podrá exigir más requisitos y formali
 
 ###### ARTÍCULO 1401.
 
-Cualquier promoción que presenten los particulares, deberán ser por escrito, con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso deque exista, y hechos o fundamentos de su petición. En caso de omisión de alguno de los requisitos, se requerirá al interesado para que los subsane en un término de tres días, si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para admitir cualquier escrito.
+Cualquier promoción que presenten los particulares, deberán ser por escrito, con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, y hechos o fundamentos de su petición. En caso de omisión de alguno de los requisitos, se requerirá al interesado para que los subsane en un término de tres días, si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para admitir cualquier escrito.
 
 ###### ARTÍCULO 1402.
 
@@ -12761,7 +12767,7 @@ No se requerirá orden escrita de inspección, cuando los verificadores detecten
 
 ###### ARTÍCULO 1439.
 
-De toda visita de verificación o inspección se levantará acta circunstanciada, en presencia dedos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
+De toda visita de verificación o inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
 
 ###### ARTÍCULO 1440.
 
@@ -14005,10 +14011,14 @@ SÍNDICO MUNICIPAL
 
 Lic. Ernesto Rangel Silva.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 26 DE OCTUBRE DE 2009.
 
 PRIMERO.- Las presentes reformas entraran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código Municipal.
+
+P.O. 14 DE OCTUBRE DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
