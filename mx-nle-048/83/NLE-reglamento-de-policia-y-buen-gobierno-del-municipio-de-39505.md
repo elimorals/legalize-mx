@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-39505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-21"
-last_updated: "2013-07-26"
+last_updated: "2013-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS EN EL DECRETO PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de abril de 2004.
 
@@ -33,7 +33,9 @@ LA C. IRMA ADRIANA GARZA VILLARREAL, PRESIDENTA MUNICIPAL DE SANTA CATARINA NUEV
 
 QUE EL R. AYUNTAMIENTO DE CIUDAD SANTA CATARINA, NUEVO LEON, EN SESION ORDINARIA DE CABILDO NUMERO 12/2004-I, CELEBRADA EL DIA 01 DE ABRIL DEL 2004, CON FUNDAMENTO EN LOS ARTICULOS 115 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS 130, INCISO A), DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEÓN; 26, INCISO A), FRACCIÓN VII, 27 FRACCION IV Y DEL 160 AL 168 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO, ACORDO LA HOMOLOGACIÓN DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO, CON LOS MUNICIPIOS DEL ÁREA METROPOLITANA.
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2013)</small>
+
+REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CD. SANTA CATARINA N.L.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -83,11 +85,13 @@ IX. Elementos de la Policía Municipal debidamente autorizados; Alcaide, Comisar
 
 X. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para la aplicación del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
-
 ###### ARTÍCULO 7.
 
 Será facultad exclusiva de la Secretaría de Administración y Finanzas Municipal el cobro de las multas impuestas por infracción al presente Reglamento; así como proveer y disponer del recurso material y humano para llevar a cabo esta función.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2013)</small>
+
+Podrá apoyarse para funciones de cobro en los Jueces Calificadores, bajo los mecanismos y procedimientos que la Secretaría de Administración y Finanzas determine.
 
 ###### ARTÍCULO 8.
 
@@ -131,7 +135,7 @@ IX. Mantener la limpieza en cárcel municipal;
 
 X. Constituirse en depositario de las pertenencias, bienes u objetos que le sean recogidos previo recibo que se entregue a los arrestados, todo lo cual devolverá al momento de que sean puestos en libertad;
 
-XI. Llevar un libro de registro de las personas detenidas en el que por orden cronológico y en forma numerada, se asienten los datos relacionados con la identidad de las personas, así como el motivo o motivos de su detención;
+XI. Llevar un libro de registro de las personas detenidas en el que por orden cronológico y en forma numerada, se asienten los datos relacionados con la identidad de las personas, así como el motivo o motivos de su detención.
 
 XII. Y las demás que le señalen las leyes y reglamentos aplicables.
 
@@ -185,9 +189,9 @@ VIII. Realizar manifestaciones o cualquier otro acto público en contravención 
 
 IX. Efectuar bailes en domicilio particular para el público en general con fines lucrativos sin previo permiso de la Autoridad competente;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
-X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68dB (decibeles) de las 6:00 a las 22:00 horas y de 65dB (decibeles) de las 22:00 a las 6:00 horas del día siguiente.
+X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos, tales como los producidos por estéreos, radios, radio grabadoras, instrumentos musicales o aparatos de sonido que excedan el nivel de 68 Db (decibeles) de las 6:00 a las 22:00 horas y de 65 Db (decibeles) de las 22:00 a las 6:00 horas del día siguiente.
 
 XI. Efectuar bailes en salones, clubes y centros sociales sin el permiso correspondiente;
 
@@ -195,9 +199,9 @@ XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales 
 
 XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales.
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
-I (SIC). Negarse a pagar algún servicio inmediato solicitado y recibido en lugares públicos.
+XIV. Negarse a pagar algún servicio inmediato solicitado y recibido en lugares públicos.
 
 ###### ARTÍCULO 14.
 
@@ -275,13 +279,13 @@ XVI. Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate 
 
 XVII. Desobedecer o tratar de burlar a la Autoridad que le llame la atención en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
-I (SIC). Deambular o internarse en estado de ebriedad o bajo los efectos de alguna droga o tóxico, en vía o lugares públicos, poniendo en riesgo y peligro la integridad misma y/o la de terceros.
+XVIII. Deambular o internarse en estado de ebriedad o bajo los efectos de alguna droga o tóxico, en vía o lugares públicos, poniendo en riesgo y peligro la integridad misma y/o la de terceros.
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
-II. Insultar, ofender o realizar conductas que atenten contra la moral y las buenas costumbres de la población, por parte de personas que realizan actividades de índole económica en cruceros, calles o avenidas de esta ciudad, en los que de manera frecuente ofrecen productos o servicios.
+XIX. Insultar, ofender o realizar conductas que atenten contra la moral y las buenas costumbres de la población, por parte de personas que realizan actividades de índole económica en cruceros, calles o avenidas de esta ciudad, en los que de manera frecuente ofrecen productos o servicios.
 
 ###### ARTÍCULO 16.
 
@@ -343,6 +347,10 @@ VIII. Arrojar en los sistemas de desagüe, animales muertos, escombros, desperdi
 
 IX. Realizar fogatas en la vía o lugares públicos que constituyan algún riesgo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2013, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE SEIS A CINCO FRACCIONES.</small>
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
 Son Infracciones contra la Ecología.
@@ -355,13 +363,7 @@ III. Disponer de flores, frutas, plantas, árboles, o cualquier otro tipo de obj
 
 IV. Incinerar desperdicios de hule, llantas, plásticos y similares, así como basura en general cuyo humo cause molestias o trastorno a la ecología; y
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2008)</small>
-
-V. Producir ruido o sonidos que alteren el orden, molesten, perjudiquen o afecten la tranquilidad de la población; tales como los producidos por radios, radiograbadoras, estereos, autoestereos y cualesquier otro aparato u objeto capaces de producir o emitir sonidos, que rebasen los 68 decibeles durante el día y 65 decibeles durante la noche. Considerándose como horario diurno el comprendido entre las 06:01 a las 22:00 horas y como nocturno el comprendido de las 22:01 a las 06:00 horas; y
-
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2008)</small>
-
-VI. Todas aquéllas que estén contempladas en cualquier disposición legal aplicable.
+V. Todas aquéllas que estén contempladas en cualquier disposición legal aplicable.
 
 ### CAPITULO TERCERO. DE LAS SANCIONES
 
@@ -393,23 +395,17 @@ I. Amonestación;
 
 II. Multa; o (sic)
 
-III. Arresto hasta por 36-treinta y seis horas.
+III. Arresto hasta por 36-treinta y seis horas; y
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
-I (SIC). Trabajo Comunitario.
+IV. Trabajo Comunitario.
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2008)</small>
-
-###### ARTÍCULO 25 Bis.
-
-La infracción descrita en el Artículo 19 fracción V de este Reglamento, se sancionará con arresto administrativo de hasta 36 horas o el equivalente de 20 a 200 cuotas. Esta sanción sólo se aplicará si el infractor hiciere caso omiso al apercibimiento verbal o por escrito que en el momento de los hechos se le hiciere por el servidor público en turno.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 200-doscientas cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio. Si la sanción consistiera en la conmutación por Trabajo Comunitario, este podrá ser entre 8-ocho y 100-cien horas de servicio a favor de la comunidad.
+Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 200-doscientas cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio. Si la sanción consistiera en la conmutación por Trabajo Comunitario, este podrá ser entre 8-Ocho y 100-cien horas de servicio a favor de la comunidad.
 
 INFRACCIONES AL ORDEN PÚBLICO
 
@@ -795,7 +791,7 @@ II. El detenido podrá comunicarse con una persona de su confianza;
 
 III. Sumariamente será celebrada una audiencia oral, sin sujeción a formalismo alguno y a la cual comparecerá, el detenido, y las personas implicadas en los hechos;
 
-a) El Juez Calificador procederá en la audiencia, a: (sic)
+a) El Juez Calificador procederá en la audiencia, a:
 
 b) Interrogar al arrestado en torno a los hechos que se le imputan; previo que se le solicité documento fehaciente con que acredite su identidad;
 
@@ -809,9 +805,13 @@ f) Recibir los elementos de prueba que llegaren a aportarse;
 
 g) Ordenar la práctica de cualquier diligencia que le permita esclarecer la verdad del caso sometido a su conocimiento;
 
-Apreciar y valorar los hechos que se le planteen y las pruebas que se le aporten en conciencia; y
+(REFORMADO, P.O. 14 DE OCTUBRE DE 2013) N. DE E. SOLO EN CUANTO AL INCISO, POR QUE DEL ANÁLISIS DEL ACUERDO PUBLICADO EL 21 DE ABRIL DE 2004 SE APRECIA LA EXISTENCIA DEL CONTENIDO.
 
-Si al momento de interrogar al arrestado, éste admite y confiesa los hechos que se le imputan y la comisión de la infracción, sin más trámites se emitirá la resolución que corresponda.
+h) Apreciar y valorar los hechos que se le planteen y las pruebas que se le aporten en conciencia; y
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+
+IV. Si al momento de interrogar al arrestado, éste admite y confiesa los hechos que se le imputan y la comisión de la infracción, sin más trámites se emitirá la resolución que corresponda.
 
 V. Dictará y notificara la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados.
 
@@ -838,8 +838,6 @@ Si las infracciones a que se refiere este ordenamiento y demás normas de carác
 ###### ARTÍCULO 39.
 
 Todos los menores de edad que cometan una infracción al presente Reglamento deberán ser puestos a disposición del Juez Calificador en turno, el cual conocerá y resolverá, aplicando la sanción correspondiente conforme al presente Reglamento; debiendo entregar al menor infractor a los padres, tutores o representantes legales, previo el cumplimiento de la sanción impuesta.
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
 En aquellos casos en que los hechos u omisiones sean tipificadas (sic) como delitos previstos por el Código Penal el Juez Calificador deberá remitir al menor infractor a la Autoridad Investigadora Competente.
 
@@ -871,7 +869,9 @@ V. La mención precisa del acto de Autoridad que motiva la interposición del re
 
 VI. Los conceptos de violación o en su caso las objeciones a la sanción reclamada;
 
-VII. Las pruebas que ofre (sic) que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad, cuando actúen en nombre de otro o de personas morales;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+
+VII. Las pruebas que ofrezca que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad, cuando actúen en nombre de otro o de personas morales;
 
 VIII. El lugar y la fecha de promoción; y
 
@@ -928,3 +928,11 @@ P.O. 26 DE JULIO DE 2013.
 PRIMERO.- Las presentes modificaciones y adiciones de este Reglamento entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Una vez en vigencia las presentes modificaciones y adiciones al presente reglamento, publíquese en la Gaceta Municipal para su difusión y para cumplimiento del Reglamento de la misma, y en el portal electrónico de internet del Municipio de conformidad con lo establecido en el artículo 9 de la ley de Acceso a la Información Pública del Estado de Nuevo León.
+
+P.O. 14 DE OCTUBRE DE 2013.
+
+PRIMERO.- Las Modificaciones y Adiciones del presente Reglamento entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Una vez en vigencia las presentes Modificaciones y Adicciones al presente reglamento, publíquese en la Gaceta Municipal para su difusión y para cumplimiento del Reglamento de la misma, y en el portal electrónico de internet del Municipio de conformidad con lo establecido en el artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
+
+TERCERO.- La presente Publicación del Reglamento de Policía y Buen Gobierno, para el Municipio de Santa Catarina Nuevo León, deja sin efectos todo lo publicado con anterioridad.
