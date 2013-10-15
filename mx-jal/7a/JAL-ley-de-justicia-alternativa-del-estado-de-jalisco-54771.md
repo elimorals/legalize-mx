@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2012-11-20"
+last_updated: "2013-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -139,7 +139,7 @@ XV. Alternatividad: Procurará el conciliador proponer diversas soluciones al co
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2008)</small>
 
 ###### Artículo 5.
 
@@ -263,17 +263,17 @@ u) Delitos cometidos por servidores públicos;
 
 v) Delitos electorales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+w) Delitos fiscales
 
-w) Delitos fiscales, y
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+x) Delitos ecológicos; y
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2013)</small>
 
-x) Delitos ecológicos;
+y) Desaparición forzada de personas, artículos 154-A, 154-D, 154-E, 154-F.
 
 II. Ley Contra la Delincuencia Organizada:
 
@@ -779,11 +779,11 @@ Al director de medios alternativos de solución de asuntos y de sedes regionales
 
 I. Turnar los asuntos que le sean planteados al prestador del servicio que corresponda tratándose de sedes, e informar a los usuarios sobre los privados;
 
-II.- Cuidar el buen funcionamiento de la dirección y la calidad de sus servicios;
+II. Cuidar el buen funcionamiento de la dirección y la calidad de sus servicios;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-III.- Rendir al Director General del Instituto, en la primera quincena de noviembre, un informe general anual sobre el funcionamiento, actividades y resultados obtenidos, y
+III. Rendir al Director General del Instituto, en la primera quincena de noviembre, un informe general anual sobre el funcionamiento, actividades y resultados obtenidos, y
 
 IV. Las demás que señale el reglamento interno.
 
@@ -1325,7 +1325,7 @@ El recurso de revisión se interpondrá ante el Director General del Instituto o
 
 ## TRANSITORIOS
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 22216/LVIII/08 ENTRARÁ EN VIGOR EL DÍA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
 
 PRIMERO. (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
@@ -1333,7 +1333,7 @@ SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el a�
 
 TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 22216/LVIII/08 ENTRARA EN VIGOR EL DIA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 22216/LVIII/08 ENTRARÁ EN VIGOR EL DÍA 1°. DE ENERO DE 2009, PREVIA SU PUBLICACIÓN.</small>
 
 CUARTO. (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
@@ -1416,3 +1416,9 @@ SÉPTIMO. El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales para emitir el reglamento a que hace referencia el artículo 64 Bis de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
