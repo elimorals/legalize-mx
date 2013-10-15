@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2013-08-01"
+last_updated: "2013-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -207,17 +207,19 @@ II.- Las autoridades educativas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
 
-III. El Consejo Estatal Técnico de Educación;
+III.- El Consejo Estatal Técnico de Educación;
 
-IV. Los planes, programas, métodos y materiales educativos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-V. Las instituciones educativas del Gobierno del Estado y municipios, de los organismos descentralizados y órganos desconcentrados;
+IV.- Los planes, programas, métodos y materiales educativos, incluyendo el uso didáctico de las Tecnologías de la Información y la Comunicación (TIC), como medio para facilitar el proceso de enseñanza aprendizaje;
 
-VI. Las instituciones de los particulares con autorización o reconocimiento de validez oficial de estudios, y
+V.- Las instituciones educativas del Gobierno del Estado y municipios, de los organismos descentralizados y órganos desconcentrados;
+
+VI.- Las instituciones de los particulares con autorización o reconocimiento de validez oficial de estudios, y
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-VII. Las instituciones de educación superior a las que la ley otorga autonomía.
+VII.- Las instituciones de educación superior a las que la ley otorga autonomía.
 
 ###### ARTICULO 14.
 
@@ -293,11 +295,13 @@ De la Distribución Social Educativa.
 
 Corresponden de manera exclusiva a la autoridad educativa estatal, las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-I.- Elaborar y ejecutar las políticas y los programas en materia educativa, cultural, recreativa, deportiva, y ecológica-
+I.- Elaborar y ejecutar las políticas y los programas en materia educativa, cultural, recreativa, deportiva, ecológica y tecnológica;
 
-II.- Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, culturales, recreativos y deportivos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+II.- Planear, programar, presupuestar, ejecutar y evaluar los programas educativos, culturales, recreativos, deportivos, y tecnológicos;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -867,9 +871,17 @@ Como protección a la comunidad educativa, las instituciones del sistema educati
 
 El Educador en relación con los servicios educativos que atienda, deberá:
 
-I.- Satisfacer el perfil profesional y los requisitos establecidos por la autoridad educativa estatal; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-II.- Participar en cursos de superación académica para el mejor desempeño de su profesión.
+I.- Satisfacer el perfil profesional y los requisitos establecidos por la autoridad educativa estatal;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+II.- Participar en cursos de superación académica para el mejor desempeño de su profesión, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+III.- Participar en los programas de formación y actualización contínua, para la adquisición de las competencias docentes en el uso educativo de las Tecnologías de la Información y la Comunicación (TIC), así como para el ejercicio de una práctica educativa innovadora.
 
 En reconocimiento a su labor, las autoridades educativas le otorgarán los estímulos económicos y laborales, así como las prestaciones sociales que por derecho le correspondan.
 
@@ -1854,6 +1866,12 @@ PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
