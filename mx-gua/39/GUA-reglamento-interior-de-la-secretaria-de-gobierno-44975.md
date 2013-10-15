@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-44975"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-31"
-last_updated: "2012-12-07"
+last_updated: "2013-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 31 de mayo de 2005.
 
@@ -1590,3 +1592,83 @@ Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración defin
 Expedición de Reglamento Interior
 
 Artículo Quinto. El Director General deberá presentar al Gobernador del Estado el proyecto de Reglamento Interior del Instituto de Seguridad en la Tenencia de la Tierra en un término de treinta días contado a partir del inicio de vigencia del presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+Inicio de vigencia del Reglamento
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Gobierno publicado en el Periódico Oficial del Gobierno del Estado, número 86, Tercera Parte, de fecha 31 de mayo de 2005, así como sus reformas y adiciones.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderá hecha a su nueva denominación:
+
+Unidades administrativas previstas en Nuevas denominaciones de las
+
+el Reglamento que se abroga unidades administrativas
+
+y que cambian su denominación
+
+Coordinación de Informática. Dirección de Tecnologías de la
+
+Información.
+
+Dirección General de Asuntos Jurídicos Dirección General de Asuntos
+
+y Visitaduría Interna. Jurídicos.
+
+Coordinación Ejecutiva de Innovación Dirección de Recursos Humanos.
+
+Administrativa.
+
+Coordinación Ejecutiva de Control Dirección de Control Presupuestal.
+
+Presupuestal.
+
+Coordinación Ejecutiva de Recursos Dirección de Adquisiciones y
+
+Materiales y Servicios Generales. Servicios Generales.
+
+Unidad de Análisis de Información. Dirección de Análisis de
+
+Información.
+
+Dirección General de Tránsito Dirección General de Transporte.
+
+y Transporte.
+
+Dirección Operativa. Dirección de Inspección del
+
+Transporte.
+
+Centro de Formación y Capacitación. Dirección de Formación y
+
+Capacitación de Transporte.
+
+Dirección de Servicios y Administración. Dirección de Gestión Administrativa
+
+de Transporte.
+
+Dirección General de Servicios Sociales. Dirección General de Defensoría
+
+Pública.
+
+Dirección de Defensoría de Oficio Dirección de la Defensoría Pública
+
+en Materia Penal. Penal.
+
+Dirección de Oficialías del Dirección de Asesoría Jurídica
+
+Registro Civil. y Rectificaciones.
+
+Coordinación de Gestión Administrativa Dirección de Gestión Administrativa
+
+y Operativa. del Registro Civil.
+
+Dirección de Vinculación Política. Dirección de Desarrollo Político.
+
+Subsecretaría del Trabajo y de la Subsecretaria del Trabajo y Previsión Social. Previsión Social.
