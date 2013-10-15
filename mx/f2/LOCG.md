@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2013-05-02"
+last_updated: "2013-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1566,6 +1566,16 @@ XXX. Turismo.
 
 2. A la sesión solemne se invitará al Titular del Poder Ejecutivo Federal, al Presidente de la Suprema Corte de Justicia de la Nación, al Presidente de la Cámara de Diputados y a los demás funcionarios y personalidades que la Mesa Directiva determine.
 
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 100 Bis.
+
+1.- De acuerdo con el Decreto por el que se crea el reconocimiento "Elvia Carrillo Puerto", en conmemoración al Día Internacional de la Mujer, que otorga el Senado, se deberá cumplir lo siguiente:
+
+a) El Senado de la República celebrará sesión solemne en el mes de marzo de cada año, para hacer entrega del Reconocimiento "Elvia Carrillo Puerto" a la mujer que haya sido acreedora al mismo por su destacada labor en el reconocimiento, defensa, protección, ejercicio e investigación de los Derechos Humanos de las Mujeres y de la Igualdad de Género en nuestro país.
+
+b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo Federal, la Suprema Corte de Justicia de la Nación, la Cámara de Diputados, titulares de los Organismos Públicos y Organizaciones de la Sociedad Civil dedicadas a la promoción, defensa e investigación de los derechos humanos de las mujeres, así como de las universidades e instituciones educativas del país.
+
 ###### ARTICULO 101.
 
 1. La Comisión Jurisdiccional se integrará por un mínimo de 8 Senadores y un máximo de 12, con la finalidad de que entre ellos se designe a los que habrán de conformar, cuando así se requiera, la sección de enjuiciamiento encargada de las funciones a que se refiere la Ley Federal de Responsabilidades de los Servidores Públicos; en dicha sección deberán estar representados los grupos parlamentarios.
@@ -2323,3 +2333,7 @@ D.O.F. 2 DE MAYO DE 2013.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Todos los asuntos turnados a la actual Comisión de Equidad y Género de la Cámara de Diputados, se entenderán remitidos a la Comisión de Igualdad de Género.
+
+D.O.F. 15 DE OCTUBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
