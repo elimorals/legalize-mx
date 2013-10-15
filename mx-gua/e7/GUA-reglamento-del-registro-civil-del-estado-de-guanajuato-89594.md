@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-registro-civil-del-estado-de-guanajuato-89594"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2012-09-25"
+last_updated: "2013-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre del 2012.
 
@@ -223,7 +223,9 @@ XVI. Promover planes, programas, métodos y procedimientos que contribuyan al me
 
 XVII. Coordinar la difusión de los servicios registrales y de campañas de regularización del estado civil de las personas;
 
-XVIII. Conocer y resolver el procedimiento disciplinario interno de la Dirección General y aplicar la sanción pertinente;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+XVIII. Someter a consideración del Subsecretario de Servicios a la Comunidad los expedientes tramitados con motivo de las quejas en contra de los Oficiales del Registro Civil y demás personal de la Dirección General, de los que se desprendan elementos de responsabilidad administrativa en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
 
 XIX. Apercibir y levantar las actas administrativas a los Oficiales del Registro Civil, personal de las Oficialías y Dirección General, por faltas en el cumplimiento de sus obligaciones;
 
@@ -259,7 +261,13 @@ XXXIV. Conocer y resolver el procedimiento administrativo de nulidad que señala
 
 XXXV. Cuando tenga conocimiento de asentamientos que se hayan realizado de manera fraudulenta, denunciarlos ante el Ministerio Público, a efecto de que éste solicite por la vía judicial la nulidad absoluta del acta del estado civil de que se trate; y
 
-XXXVI. Las demás que establezcan las disposiciones legales relativas y las que sean necesarias para la realización de sus funciones.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+XXXVI. Someter a consideración del Secretario de Gobierno, por conducto del Subsecretario de Servicios a la Comunidad, los proyectos de resolución recaídos en los procedimientos de responsabilidad administrativa instaurados y sustanciados en contra de los Oficiales del Registro Civil y demás personal de la Dirección General; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+XXXVII. Las demás que establezcan las disposiciones legales relativas y las que sean necesarias para la realización de sus funciones.
 
 ### Capítulo II. Dirección de Control Operativo y Seguimiento
 
@@ -481,7 +489,9 @@ V. Supervisar la legalidad del procedimiento del recurso de inconformidad, que r
 
 VI. Auxiliar al Director General en dar seguimiento al recurso promovido ante el Tribunal de lo Contencioso Administrativo, contra las resoluciones de las rectificaciones administrativas y las de las aclaraciones emitidas por la Dirección General;
 
-VII. Supervisar la legalidad de los procedimientos disciplinarios internos que se instauren;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+VII. Instaurar y sustanciar, previa instrucción del Secretario de Gobierno, los procedimientos de responsabilidad administrativa en contra de los Oficiales del Registro Civil y demás personal de la Dirección General, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
 
 VIII. Formular la denuncia respectiva ante la autoridad competente, cuando se presenten dudas fundadas sobre la autenticidad de algún documento del estado civil exhibido ante la Dirección General, debiendo en todo caso, retener las actas detectadas como falsas y notificar por escrito de dicha actuación al Director General;
 
@@ -511,9 +521,17 @@ XX. Distribuir anualmente la Clave de Registro e Identidad Personal (CRIP) para 
 
 XXI. Tramitar los procedimientos de nulidad de actas por duplicidad;
 
-XXII. Llevar el control de las órdenes de inhumación o cremación; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-XXIII. Las demás que deriven de otras legislaciones o sean asignadas por la Dirección General.
+XXII. Llevar el control de las órdenes de inhumación y cremación;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+XXIII. Notificar a las áreas correspondientes de las sanciones derivadas del procedimiento de responsabilidad administrativa; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+XXIV. Las demás que deriven de otras legislaciones o sean asignadas por la Dirección General.
 
 #### Sección Primera. Coordinación de Procedimientos Administrativos y Registro Civil Móvil
 
@@ -571,11 +589,13 @@ X. Las demás que deriven de otras legislaciones y sean asignadas por la Direcci
 
 #### Sección Segunda. Jefatura de Atención a Quejas
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
 Jefatura de Atención a Quejas
 
 ###### Artículo 27.
 
-La Jefatura de Atención a Quejas, se encargará de recibir y dar trámite a las quejas que personalmente o por escrito, presente cualquier individuo sobre la actuación del personal de las Unidades Administrativas del Registro Civil, así como tramitar y proponer resolución para acuerdo del Director General de los procedimientos disciplinarios internos que se instauren acorde a este reglamento.
+La Jefatura de Atención a Quejas se encargará de atender y dar seguimiento a las quejas que personalmente o por escrito, presente cualquier persona sobre la actuación del personal de las unidades administrativas del Registro Civil, informando al Director General si de las mismas se desprenden elementos que pudieran dar lugar a responsabilidad administrativa.
 
 Requisitos para ser Jefe de Atención a Quejas
 
@@ -601,13 +621,15 @@ Obligaciones y Atribuciones del Jefe de Atención a Quejas
 
 Son obligaciones y atribuciones del Jefe de Atención a Quejas:
 
-I. Conocer y dar seguimiento de las quejas presentadas por los interesados, así como de cualquier investigación que pudiera dar origen a un procedimiento disciplinario interno, en los términos de este reglamento;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-II. Tramitar y proponer resolución de los procedimientos disciplinarios internos que se instauren, en los términos de este reglamento;
+I. Atender y dar seguimiento a las quejas presentadas en contra de los Oficiales del Registro Civil y demás personal de la Dirección General, así como de cualquier investigación que pudiera dar origen a un procedimiento de responsabilidad administrativa, conforme a la normatividad aplicable;
+
+II. (DEROGADA, P.O. 15 DE OCTUBRE DE 2013)
 
 III. Brindar orientación y asesoría a los usuarios que hayan presentado queja o denuncia contra servidores públicos;
 
-IV. Resguardar los expedientes relativos a los procedimientos disciplinarios internos;
+IV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2013)
 
 V. Supervisar, informar y llevar a cabo todo lo concerniente a los procesos de entrega-recepción de las Unidades Administrativas del Registro Civil;
 
@@ -675,7 +697,7 @@ XII. Verificar que las observaciones resultantes de las supervisiones, auditorí
 
 XIII. Elaborar y proponer programas de mejoramiento administrativo que permitan revisar permanentemente los sistemas, métodos y procedimiento de trabajo del Registro Civil; así como emitir los lineamientos de carácter administrativo para cumplir con dicho fin;
 
-XIV. Notificar a las áreas correspondientes de las sanciones derivadas del procedimiento disciplinario interno, cuando estas impliquen suspensión por cinco días sin goce de sueldo o remoción a un centro de trabajo distinto;
+XIV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2013)
 
 XV. Coordinar y supervisar la modernización administrativa del Registro Civil;
 
@@ -2127,9 +2149,13 @@ III. Se incorporarán al acta circunstanciada, si existieren, las felicitaciones
 
 IV. Las actas circunstanciadas levantadas por los Coordinadores de Zona, serán remitidas al Jefe de Atención a Quejas, con copia para el superior inmediato de la Unidad Administrativa inspeccionada, excepto en los casos de las Oficialías en donde se turnará al Director de Control y Seguimiento;
 
-V. De presumirse la existencia de irregularidades en contravención con las leyes aplicables de la materia, el Jefe de Atención a Quejas previa autorización del Director General, abrirá un expediente de investigación, asignándole número consecutivo y radicándolo mediante un acuerdo fundado y motivado; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-VI. En su caso, el Director General, citará por escrito a comparecer al domicilio de la Dirección General al personal relacionado con los hechos precisados en el acta circunstanciada, los cuales son presuntivos de irregularidades cometidas en la Unidad Administrativa inspeccionada, a efecto de iniciar el procedimiento disciplinario interno, en su caso.
+V. De presumirse la existencia de irregularidades que pudieran dar lugar a responsabilidad administrativa, el Jefe de Atención a Quejas, previa autorización del Director General, abrirá un expediente de investigación, asignándole número consecutivo y radicándolo mediante acuerdo fundado y motivado; y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+VI. El Director General procederá en los términos a que se refiere la fracción XVIII del artículo 11 del presente Reglamento.
 
 Inspecciones ordinarias
 
@@ -2381,83 +2407,51 @@ III. Por muerte; o
 
 IV. Por incurrir en responsabilidad en algún delito que merezca pena corporal.
 
-## Título Duodécimo. Procedimiento Disciplinario Interno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-### Capítulo Único. Objeto del procedimiento disciplinario interno
+## Título Duodécimo. Procedimiento de Responsabilidad Administrativa
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+Instancia responsable del procedimiento
 
 ###### Artículo 196.
 
-El procedimiento disciplinario inferno instaurado por la Dirección General en contra de sus servidores, tiene por objeto inhibir, prevenir y sancionar las conductas irregulares del personal a su cargo, sin perjuicio de las responsabilidades administrativas, civiles, patrimoniales o penales, que pudieran derivarse de la conducta irregular del servidor.
-
-Presunción de no responsabilidad
+El Procedimiento de Responsabilidad Administrativa que lleve a cabo la Dirección de Asesoría Jurídica y Rectificaciones, se instaurará y sustanciará en los términos señalados en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 ###### Artículo 197.
 
-En el procedimiento disciplinario interno deberá estarse siempre a lo que sea más favorable al sujeto a procedimiento disciplinario interno y se presumirá siempre la no responsabilidad del servidor del Registro Civil.
-
-Procedencia del Procedimiento disciplinario interno
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 198.
 
-Cuando la Dirección General tenga conocimiento de una probable conducta irregular de alguno de sus servidores en el desempeño de su cargo, sea esto por queja, denuncia o de oficio; se iniciará investigación y se notificará al servidor implicado, a fin de que comparezca y manifieste lo que a su interés convenga, con la finalidad de determinar la procedencia o no de la instauración del procedimiento disciplinario interno.
-
-En caso que se determine la improcedencia, se notificará por escrito al servidor, y se archivará el asunto como totalmente concluido.
-
-Si derivado de la investigación y comparecencia del servidor público de que se trate, se desprende que la falta cometida es causa de destitución o separación del cargo conforme al Código Civil del Estado, o es causa de rescisión de la relación laboral de acuerdo al artículo 49 de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, se remitirá el expediente a la Dirección de Administración de la Secretaria de Gobierno para que realice los trámites legales pertinentes que pongan fin a la relación laboral con el Estado.
-
-Inicio del Procedimiento disciplinario interno
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 199.
 
-Cuando no se trate de la comisión de las faltas a las que se refiere el último párrafo del artículo precedente y se determina la procedencia, se iniciará procedimiento disciplinario interno en contra del servidor presuntamente responsable, el cual se desarrollará bajo el tenor siguiente:
-
-I. El acuerdo que determine la admisión del procedimiento disciplinario interno, se notificará por escrito al presunto servidor indisciplinado, así como los hechos constitutivos de la falta imputada, acompañando copia simple de los documentos que obran en el expediente, para que dentro del término de diez días hábiles, rinda informe sobre los hechos que se le imputan y ofrezca las pruebas que estime pertinentes;
-
-II. Transcurrido el término a que se refiere la fracción anterior, se citará a una audiencia de admisión, desahogo de pruebas y de alegatos, dentro de los cinco días hábiles siguientes;
-
-III. La Dirección General, en un término de cinco días hábiles posteriores a la conclusión de la audiencia de admisión, desahogo de pruebas y de alegatos, resolverá considerando los argumentos y pruebas que se hubieren hecho valer; y
-
-IV. La resolución será notificada personalmente y por escrito al servidor en un término máximo de cinco días hábiles.
-
-Acceso al expediente
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 200.
 
-El servidor del Registro Civil al rendir el informe, será enterado de que podrá consultar el expediente en cualquier tiempo procesal, en días y horas hábiles.
-
-No rendición de informe
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 201.
 
-Si el servidor del Registro Civil no rinde el informe, se le tendrá por aceptando (sic) los hechos u omisiones que se le imputan y se continuará con la sustanciación del procedimiento disciplinario interno.
-
-Audiencia de admisión, desahogo de pruebas y de alegatos
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 202.
 
-Con independencia de la comparecencia o no del servidor del Registro Civil se llevará a cabo la audiencia de admisión, desahogo de pruebas y de alegatos.
-
-Siempre que no comparezca el servidor, se levantara constancia de ello y en caso de que justifique su inasistencia a más tardar el día siguiente hábil a la fecha señalada para la celebración de la audiencia, por una sola ocasión se señalará una nueva fecha para su realización.
-
-Sanciones
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 203.
 
-Las sanciones que se pueden aplicar a los servidores públicos que resulten responsables del procedimiento instaurado en su contra, serán las siguientes:
-
-I. Amonestación verbal;
-
-II. Amonestación escrita;
-
-III. Suspensión en el trabajo hasta por cinco días sin goce de sueldo; y
-
-IV. Remoción a un centro de trabajo distinto.
-
-Impugnación de la resolución
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 ###### Artículo 204.
 
-La resolución en la que se imponga una sanción, podrá impugnarse ante el Tribunal de lo Contencioso Administrativo, en un término de 3 días hábiles, contados a partir del día siguiente de que surta efectos la notificación.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2013)
 
 T R A N S I T O R I O S
 
@@ -2484,3 +2478,9 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
