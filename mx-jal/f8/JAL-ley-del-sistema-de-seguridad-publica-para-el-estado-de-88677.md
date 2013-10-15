@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2013-01-24"
+last_updated: "2013-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -709,6 +707,10 @@ Lo anterior a partir del establecimiento de metodologías, procedimientos y sist
 
 Las instituciones de seguridad pública del Estado y los municipios deberán desarrollar tecnologías de información y comunicación a fin de consultar, investigar, analizar, producir información y conocimiento útil a la función policial, así como para el intercambio de datos con otras instancias de gobierno.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+Las unidades y patrullas de los cuerpos de seguridad pública deberán ser equipadas con tecnología que permita la ubicación de la unidad, la comunicación con los centros de mando y la video grabación permanente de las actividades desarrolladas por los elementos policiales.
+
 ###### Artículo 59.
 
 Los principios de actuación de los integrantes de las instituciones de seguridad pública deberán realizarse fundamentalmente bajo los siguientes lineamientos:
@@ -832,6 +834,42 @@ f) Autoridad a la que fue puesto a disposición, y
 g) Lugar en el que fue puesto a disposición.
 
 El informe debe ser completo, y los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 64 Bis.
+
+El Ejecutivo del Estado expedirá el reglamento conforme al cual deberán sujetarse quienes ejerzan funciones de seguridad pública o servicios de seguridad privada, para establecer el procedimiento de detención de cualquier persona, en el que deberá contemplarse como mínimo:
+
+I. El procedimiento para hacer constar y registrar la comunicación inmediata de cualquier detención de una persona o de auxilio a una posible víctima de delito, así como las causas de ésta ante la autoridad superior;
+
+II. Las medidas y procedimientos que se adoptarán para llevar a cabo la detención;
+
+III. Los procedimientos a adoptar si la persona detenida no habla español o es extranjero;
+
+IV. La forma de llevar a cabo su traslado al lugar de custodia y registro de la duración de traslado;
+
+V. Hacer constar la identidad de quienes hayan intervenido en la detención o prestado auxilio para lograrla;
+
+VI. Hacer constar el estado de salud de la persona sujeta a detención en forma inmediata;
+
+VII. Hacer del conocimiento de la persona detenida:
+
+a) Los hechos o causas que motivan su detención y la autoridad que la practica;
+
+b) El derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio;
+
+c) Que tiene derecho a una defensa adecuada por abogado de su elección, y en caso de no querer o no designarlo, se le designará un defensor público;
+
+d) El derecho a denunciar en cualquier momento los malos tratos a que sea sujeto; y
+
+e) Que tiene el derecho a comunicarse con algún familiar, abogado o cualquier otra persona de su elección y a recibir su visita;
+
+VIII. Establecer un registro en el que conste la fecha, hora y lugar de custodia en que se halle en cada momento;
+
+IX. Las sanciones a que serán sujetos quienes incumplan con las obligaciones establecidas en el reglamento; y
+
+X. La obligación de la autoridad de proporcionar información sobre la detención de una persona a quien lo solicite, además de proporcionar el nombre de la autoridad que llevó a cabo la detención, el lugar donde se realizó, el lugar donde se encuentra en custodia, y la autoridad ante la cual se encuentra a disposición, reservando la causa o motivo de ella, la cual se hará saber a quien autorice la persona detenida.
 
 ### Capítulo IV. Del sistema complementario de seguridad social y reconocimientos
 
@@ -2182,6 +2220,14 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales para emitir el reglamento a que hace referencia el artículo 64 Bis de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
 
 ## Título Noveno. De los servicios de seguridad privada
 
