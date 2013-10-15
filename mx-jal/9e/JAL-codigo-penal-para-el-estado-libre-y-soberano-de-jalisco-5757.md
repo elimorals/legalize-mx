@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2013-08-08"
+last_updated: "2013-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1759,9 +1759,9 @@ Las penas previstas en este artículo se incrementarán en una mitad cuando el s
 
 ## TITULO OCTAVO. RESPONSABILIDAD PROFESIONAL
 
-### CAPITULO I. Delito de abogados, patronos y litigantes
+### CAPITULO XI. De la desaparición forzada de personas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 ###### Art. 144.
 
@@ -1779,9 +1779,9 @@ III. Salvo los casos establecidos en el Art. 145, frac. II, excepto que se encue
 
 IV. A los responsables de alguno de los delitos a que se refiere este título, independientemente de otras sanciones, se les inhabilitará para trabajar como servidores públicos, hasta por 6 años, notificando tal resolución al órgano del poder público que corresponda.
 
-### CAPITULO II. Responsabilidad médica
+### CAPITULO I. Delito de abogados, patronos y litigantes
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 145.
 
@@ -1813,9 +1813,9 @@ V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo lo a
 
 VI. Que abandone, intencionalmente, servicios de vigilancia o custodia propiciando la comisión de un delito por su ausencia, independientemente de la penalidad que le resulte como coautor.
 
-### CAPITULO III. Responsabilidad Profesional y Técnica
+### CAPITULO II. Responsabilidad médica
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 146.
 
@@ -1893,7 +1893,9 @@ b) Si excede del monto a que se refiere el párrafo anterior, se impondrán de t
 
 c) Si la comisión del hecho no reporta beneficio económico, se impondrán al responsable, de uno a cinco años de prisión.
 
-### CAPITULO I. Falsificación de Documentos Expedidos por los Poderes del Estado, organismos autónomos, ayuntamientos o de los Documentos de Crédito
+### CAPITULO III. Responsabilidad Profesional y Técnica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 147.
 
@@ -1917,9 +1919,7 @@ Las mismas penas se impondrán al que, espontáneamente dé u ofrezca dinero, o 
 
 Lo anterior no les impedirá el derecho al beneficio de la libertad caucional, ya que sólo para este efecto, se estará a las penas señaladas en este artículo.
 
-### CAPITULO II. Falsificación y uso indebido de sellos, marcas, llaves y troqueles
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO I. Falsificación de Documentos Expedidos por los Poderes del Estado, organismos autónomos, ayuntamientos o de los Documentos de Crédito
 
 ###### Art. 148.
 
@@ -1939,9 +1939,9 @@ Si excede el monto a que se refiere el párrafo anterior, se impondrá al respon
 
 Se impondrán las penas señaladas en el artículo anterior, tanto al servidor público que, a sabiendas, autorice o consienta el pago o la inclusión, en nóminas oficiales, de personas que recibiendo un salario del Estado o de los Municipios, no desempeñe sus servicios, así como al que dolosamente autorice, ejecute el pago, o lo reciba.
 
-### CAPITULO III. Falsificación de documentos en general
+### CAPITULO II. Falsificación y uso indebido de sellos, marcas, llaves y troqueles
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 150.
 
@@ -1955,9 +1955,9 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del importe 
 
 Si excede del monto a que se refiere el párrafo anterior, se impondrá al responsable de dos a nueve años de prisión y multa por el importe de cien a trescientos días de salario mínimo.
 
-### CAPITULO IV. Falsificación de certificaciones
+### CAPITULO III. Falsificación de documentos en general
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 151.
 
@@ -1977,9 +1977,9 @@ Cuando se sustraigan, destruyan, alteren, oculten o se impida el acceso a la inf
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO V. Falsedad en declaraciones y en informes dados a una autoridad
+### CAPITULO IV. Falsificación de certificaciones
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 152.
 
@@ -2011,9 +2011,9 @@ En ambos casos se impondrá una multa de treinta a trescientos días de salario.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO VI. Variación del nombre o del domicilio
+### CAPITULO V. Falsedad en declaraciones y en informes dados a una autoridad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Art. 153.
 
@@ -2031,7 +2031,7 @@ II. Cuando el monto exceda de la cantidad que resulte en la fracción anterior, 
 
 III. En todos los casos, el decomiso de los bienes obtenidos con el ilícito, incluyendo dinero y los intereses que el capital hubiere devengado, será en beneficio del Estado.
 
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de uniformes o insignias
+### CAPITULO VI. Variación del nombre o del domicilio
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -2121,9 +2121,79 @@ Si el monto del beneficio obtenido excede del señalado en el párrafo anterior,
 
 Las penas señaladas serán independientes de las que pudieren resultar de la comisión de cualquier otro delito.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2013)</small>
+
 ## TITULO NOVENO. FALSEDAD
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2003)</small>
+
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de uniformes o insignias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+
+###### Art. 154-A.
+
+Comete el delito de desaparición forzada de personas el servidor público o integrante de los cuerpos de seguridad pública que prive de la libertad a una o más personas, cualquiera que fuere su forma, seguido de la negativa de reconocer dicha privación de libertad o de informar sobre el paradero de la persona.
+
+Es sujeto activo del delito de desaparición forzada de personas quien intervenga actuando con la autorización, la ayuda, la aquiescencia o tolerancia directa o indirecta de servidores públicos o de integrantes de seguridad pública.
+
+Serán igualmente considerados como sujeto activo el particular que prive de la libertad a una o más personas, cualquiera que fuere su forma, seguido de la falta de información o de la negativa a reconocer dicha privación de libertad o de informar sobre el paradero de la persona, aunque en ello no participen servidores públicos en ningún grado
+
+El delito de desaparición forzada se considera permanente e imprescriptible.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Art. 154-B.
+
+Se impondrá una pena de doce a cuarenta años de prisión y multa de seiscientos a mil días de salario mínimo a quien cometa el delito de desaparición forzada de personas.
+
+Se incrementará la pena hasta en una tercera parte cuando la víctima del delito sea menor de edad, mujer, persona con discapacidad, indígena o persona de la tercera edad.
+
+Si dentro de los cinco días siguientes a su detención, se diera la liberación de la víctima, la pena aplicable será de seis a doce años de prisión, sin perjuicio del concurso de delitos.
+
+Las penas previstas para el delito de desaparición forzada se aumentarán hasta el doble cuando la desaparición forzada sea perpetrada como parte de un ataque generalizado o sistemático contra una población civil.
+
+Estas penas podrán ser disminuidas hasta en cincuenta por ciento en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos y cuando contribuya a lograr la aparición con vida de la víctima
+
+El Estado proporcionará medidas de protección y resguardará la identidad de la persona o personas que sirvan como testigos o que proporcionen información que conduzca a la efectiva localización de la víctima, con el fin de salvaguardar su integridad física.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Art. 154-C.
+
+Al servidor público o integrante de los cuerpos de seguridad pública que haya sido condenado por el delito de desaparición forzada de personas, además de las penas anteriores, se le destituirá del cargo y se le inhabilitará permanentemente para desempeñar cargo, comisión o empleo públicos.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Art. 154-D.
+
+Se sancionará de cinco a diez años de prisión y multa de mil a cuatro mil salarios mínimos además de la inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos de cinco a diez años, al servidor público que teniendo conocimiento de la comisión del delito de desaparición forzada de personas, no adoptare las medidas necesarias y razonables para evitar su consumación
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Art. 154-E.
+
+Se impondrá de dos a ocho años de prisión y de doscientos a mil días de multa al que en relación con las conductas sancionadas por los artículos anteriores:
+
+I. Obstruya la actuación de las autoridades;
+
+II. Intimide a la víctima, a sus familiares o a sus representantes o gestores durante o después de la desaparición, para que no realicen la denuncia correspondiente o no colaboren con las autoridades competentes; o
+
+III. Conociendo los planes para la comisión del delito de desaparición forzada de persona, sin ser partícipe, no diere aviso a la autoridad.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Art. 154-F.
+
+En ningún caso y bajo ninguna circunstancia serán excluyentes o atenuantes de responsabilidad para cometer el delito de desaparición forzada de persona, la obediencia por razones de jerarquía, así como las órdenes o instrucciones recibidas por superiores.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+###### Art. 154-G.
+
+Quien cometa el delito de desaparición forzada de persona no tendrá derecho a gozar de la sustitución de la pena, conmutación de sanciones, remisión parcial de la pena, amnistía, indulto, ni será sujeto a procesos alternativos de impartición de justicia.
+
+El delito de desaparición forzada de personas no será considerado de carácter político para los efectos de la extradición.
 
 ### CAPITULO VIII. Falsificación de medios electrónicos o magnéticos
 
@@ -2131,19 +2201,13 @@ Las penas señaladas serán independientes de las que pudieren resultar de la co
 
 ### CAPITULO IX. Reglas generales
 
-### CAPITULO UNICO. Explotación e Inducción a la Mendicidad
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
-
 ## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO I. Atentados al pudor
+### CAPITULO UNICO. Explotación e Inducción a la Mendicidad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
@@ -2151,7 +2215,11 @@ Las penas señaladas serán independientes de las que pudieren resultar de la co
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO II. Estupro y Prostitución Infantil
+### CAPITULO I. Atentados al pudor
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 155.
 
@@ -2185,11 +2253,7 @@ III. Pedir dolosamente términos para probar lo que notoriamente no puede probar
 
 IV. Presentar dolosamente, o hacer que otro presente testigos falsos o que aporte testimonios de igual naturaleza.
 
-### CAPITULO III. Violación
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012) (F. DE E., P.O. 28 DE MAYO DE 2013)
+### CAPITULO II. Estupro y Prostitución Infantil
 
 ###### Art. 157.
 
@@ -2229,11 +2293,11 @@ Los directores, administradores, médicos de sanatorios y clínicas o quienes lo
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO IV. Hostigamiento y Acoso Sexual
+### CAPITULO III. Violación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012) (F. DE E., P.O. 28 DE MAYO DE 2013)
 
 ###### Art. 161 Bis.
 
@@ -2247,7 +2311,7 @@ Al responsable de este delito se le impondrán de tres meses a tres años de pri
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I. De la Violencia Intrafamiliar
+### CAPITULO IV. Hostigamiento y Acoso Sexual
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2267,7 +2331,11 @@ II. Al que falsifique documentos de crédito, cupones de intereses o dividendos 
 
 Las mismas sanciones se aplicarán al que, a sabiendas ponga en circulación los documentos falsos a que se refiere este artículo.
 
-### CAPITULO II. De la suposición y supresión del estado civil
+### CAPITULO I. De la Violencia Intrafamiliar
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
 
 ###### Art. 163.
 
@@ -2301,7 +2369,7 @@ IV. Al que, a sabiendas, enajene o haga uso indebido de los objetos expresados e
 
 V. Al que, procurándose los objetos verdaderos que señala el presente artículo, haga uso indebido de ellos.
 
-### CAPITULO III. Exposición de infantes
+### CAPITULO II. De la suposición y supresión del estado civil
 
 ###### Art. 167.
 
@@ -2355,11 +2423,11 @@ XI. A sabiendas, hiciere uso indebido de un documento falso, aunque fuere copia 
 
 Para que sea punible el delito a que se refiere el artículo anterior, se necesita que la persona que incurra en alguno de los casos previstos, se proponga obtener algún provecho para sí o para otro, o cause daño material o moral, a cualquier persona o a la sociedad.
 
+### CAPITULO III. Exposición de infantes
+
 ### CAPITULO IV. Substracción, Robo y Tráfico de Menores
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO V. Bigamia
 
 ###### Art. 168.
 
@@ -2371,7 +2439,7 @@ II. A quien con el propósito de exculpar a alguien indebidamente en un proceso 
 
 III. Al que examinado como perito por cualquier autoridad, en el ejercicio de sus funciones, faltare dolosamente a la verdad en su dictamen, se le impondrán de dos a seis años de prisión y multa por el importe de cien a trescientos días de salario mínimo.
 
-### CAPITULO VI. Incesto
+### CAPITULO V. Bigamia
 
 ###### Art. 169.
 
@@ -2393,7 +2461,7 @@ III. Al servidor público que, en los actos propios de su cargo, atribuyese a un
 
 Al reincidente se le impondrá además de las sanciones señaladas, una pena de seis meses a un año de prisión.
 
-### CAPITULO VII. Adulterio
+### CAPITULO VI. Incesto
 
 ###### Art. 170 Bis.
 
@@ -2439,11 +2507,11 @@ Al responsable de la comisión de alguno de los delitos señalados en este artí
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
+### CAPITULO VII. Adulterio
+
 ### CAPITULO VIII. Abandono de familiares
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
-
-### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
 
 ###### Art. 171.
 
@@ -2451,7 +2519,7 @@ Para los efectos de este Título, se entiende por falsedad toda alteración de l
 
 ## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO II. Profanación de sepulcros o cadáveres
+### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
 
 ###### Art. 172.
 
@@ -2467,7 +2535,7 @@ La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integ
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO I. Amenazas
+### CAPITULO II. Profanación de sepulcros o cadáveres
 
 ###### Art. 173.
 
@@ -2477,9 +2545,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO II. Extorsión
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO I. Amenazas
 
 ###### Art. 174.
 
@@ -2493,7 +2559,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 (DEROGADO, P.O. 30 DE ENERO DE 2007)
 
-### CAPITULO III. Chantaje
+### CAPITULO II. Extorsión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 175.
 
@@ -2523,7 +2591,7 @@ Se equipara a la violación, la introducción por vía vaginal o anal con fines 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO. (REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO IV. Allanamiento de morada
+### CAPITULO III. Chantaje
 
 ###### Art. 176 Ter.
 
@@ -2547,6 +2615,8 @@ Estos delitos sólo serán perseguidos por querella del ofendido o de su legíti
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
+### CAPITULO IV. Allanamiento de morada
+
 ### CAPITULO V. Asalto
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
@@ -2555,9 +2625,9 @@ Estos delitos sólo serán perseguidos por querella del ofendido o de su legíti
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO VII. Secuestro
-
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL HONOR
+
+### CAPITULO VII. Secuestro
 
 ### CAPITULO OCTAVO. Rapto
 
@@ -2566,8 +2636,6 @@ Estos delitos sólo serán perseguidos por querella del ofendido o de su legíti
 ### CAPITULO I. Golpes simples
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-### CAPITULO II. Injurias
 
 ###### Art. 177.
 
@@ -2585,7 +2653,7 @@ V. Al que usurpe el estado civil de otro, con el fin de adquirir derechos de fam
 
 El responsable de alguno de los delitos señalados en este artículo perderá el derecho de heredar que tuviere, respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
 
-### CAPITULO III. Difamación
+### CAPITULO II. Injurias
 
 ###### Art. 178.
 
@@ -2593,7 +2661,7 @@ Se impondrán de dos a seis años de prisión al que exponga en una casa de exp�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV. Calumnia
+### CAPITULO III. Difamación
 
 ###### Art. 179.
 
@@ -2631,15 +2699,15 @@ Si se acredita que quien recibió al menor, lo hizo para incorporarlo a su núcl
 
 Cuando por consecuencia del tráfico del menor, éste resultare afectado en su integridad física por extraerle algún miembro u órgano, se aplicará como sanción una pena de ocho a doce años de prisión, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
 
-### CAPITULO V. Reglas generales
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
+### CAPITULO IV. Calumnia
 
 ###### Art. 180.
 
 Se impondrán de tres meses a tres años de prisión al que, estando unido a una persona en matrimonio, contraiga otro. La misma sanción se aplicará al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso y maltrato al infante
+### CAPITULO V. Reglas generales
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 181.
 
@@ -2647,15 +2715,13 @@ Cometen incesto, los parientes que copulan entre sí, siempre que se trate de as
 
 El incesto entre ascendientes con descendientes se castigará con prisión de uno a cuatro años y los demás con prisión de seis meses a tres años.
 
-### CAPITULO II. Lesiones
+### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso y maltrato al infante
 
 ###### Art. 182.
 
 Se impondrán de quince días a dos años de prisión al hombre o mujer que tengan entre sí relaciones sexuales, bien sea en el domicilio conyugal o causando escándalo, sabiendo que uno de ellos o los dos están casados con otra u otras personas. Este delito se sancionará por querella del ofendido, pero el perdón del último beneficiará a ambos responsables, siempre que se otorgue hasta antes de dictar sentencia.
 
-### CAPITULO III. Homicidio
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO II. Lesiones
 
 ###### Art. 183.
 
@@ -2693,7 +2759,9 @@ Art. 185 A. Para que el perdón concedido por el ofendido o su representante pue
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
+### CAPITULO III. Homicidio
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 186.
 
@@ -2707,9 +2775,7 @@ III. Que retenga o se apodere de un cadáver, sin la anuencia de los deudos del 
 
 Si la retención del cadáver ocurre en un hospital particular, la pena que se aplique al responsable será de seis meses a tres años de prisión y multa por el importe de cuatro a ochenta días de salario.
 
-### CAPITULO V. Parricidio
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2004)</small>
+### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
 
 ###### Art. 187.
 
@@ -2721,9 +2787,9 @@ II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO VI. Instigación o ayuda al suicidio
+### CAPITULO V. Parricidio
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2004)</small>
 
 ###### Art. 188.
 
@@ -2739,7 +2805,9 @@ Si cumple la amenaza, se le impondrán además las penas que procedan por los de
 
 A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo persistente y mediante cualquier acción, amenace a la víctima, a sus familiares o representantes, para que no colaboren con las autoridades competentes, se le impondrá de seis meses a tres años de prisión y multa por el importe de trescientos a seiscientos días de salario.
 
-### CAPITULO VII. Infanticidio
+### CAPITULO VI. Instigación o ayuda al suicidio
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 189.
 
@@ -2763,7 +2831,7 @@ Al agente del Ministerio Público, de la Policía Investigadora o de las policí
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO VIII. Aborto
+### CAPITULO VII. Infanticidio
 
 ###### Art. 190.
 
@@ -2771,9 +2839,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO IX. Abandono de personas
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VIII. Aborto
 
 ###### Art. 191.
 
@@ -2781,9 +2847,9 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO X. Feminicidio
+### CAPITULO IX. Abandono de personas
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 192.
 
@@ -2793,7 +2859,9 @@ Las sanciones a que se refiere este artículo se impondrán independientemente d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO I. Robo
+### CAPITULO X. Feminicidio
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 193.
 
@@ -2801,9 +2869,7 @@ Se impondrán de seis meses a cuatro años de prisión al particular que ilegít
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO II. Abigeato y robo de animales
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+### CAPITULO I. Robo
 
 ###### Art. 194.
 
@@ -2817,7 +2883,9 @@ Se impondrán de seis meses a cuatro años de prisión al particular que ilegít
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO III. Abuso de confianza
+### CAPITULO II. Abigeato y robo de animales
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 195.
 
@@ -2831,7 +2899,7 @@ Se impondrán de seis meses a cuatro años de prisión al particular que ilegít
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
-### CAPITULO IV. Violación de depósito
+### CAPITULO III. Abuso de confianza
 
 ###### Art. 197.
 
@@ -2839,7 +2907,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO V. Fraude
+### CAPITULO IV. Violación de depósito
 
 ###### Art. 198.
 
@@ -2847,9 +2915,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO VI. Delitos contra el Desarrollo Urbano
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE ENERO DE 2007)</small>
+### CAPITULO V. Fraude
 
 ###### Art. 199.
 
@@ -2861,9 +2927,9 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO VII. Administración Fraudulenta
+### CAPITULO VI. Delitos contra el Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Art. 201.
 
@@ -2873,9 +2939,11 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 (DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
-### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO VII. Administración Fraudulenta
 
-### CAPITULO IX. Usura
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+
+### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 ###### Art. 203.
 
@@ -2889,7 +2957,7 @@ No se procederá contra los autores de los delitos a que se refiere este título
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO X. Daños en las cosas
+### CAPITULO IX. Usura
 
 ###### Art. 205.
 
@@ -2907,9 +2975,7 @@ Cuando por el número de disparos o la prolongación del ataque grave haya base 
 
 Se impondrá una pena de tres meses a tres años de prisión y de veinte a cien jornadas de trabajo a favor de la comunidad, a quien agreda a un menor de edad causándole, alteración en la salud o integridad física, ya sea con o sin objeto contundente o arma. Independientemente de las penas que correspondan en su caso, por otros delitos, aplicando al caso específico las reglas del concurso.
 
-### CAPITULO XI. Daño al patrimonio urbano
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO X. Daños en las cosas
 
 ###### Art. 224.
 
@@ -2979,11 +3045,11 @@ Si en un mismo evento se producen varias de las lesiones previstas en los artíc
 
 No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente (sic) de circunstancias particulares del ofendido, si las ignoraba al cometer el delito.
 
-### CAPITULO XII. Despojo de inmuebles y aguas
-
-### CAPITULO XIII. Del pillaje
+### CAPITULO XI. Daño al patrimonio urbano
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+
+### CAPITULO XII. Despojo de inmuebles y aguas
 
 ###### Art. 213.
 
@@ -3021,7 +3087,9 @@ No se tendrá como mortal una lesión, aunque muera el que la recibió, cuando l
 
 Cuando el homicidio se cometa en riña inesperada, se impondrá al provocado una sanción comprendida de la mitad del mínimo a la mitad del máximo de la aplicable al autor del homicidio simple intencional, y al provocador las dos terceras partes. Esta última sanción será impuesta a quienes cometan homicidio en duelo o en riña previamente concertado.
 
-### CAPITULO I. Encubrimiento
+### CAPITULO XIII. Del pillaje
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 232
 
@@ -3129,23 +3197,21 @@ III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de 
 
 Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocupantes de un vehículo de servicio particular, o público en servicio particular, ligados al conductor por vínculos de consanguinidad, afinidad o civil, o por lazos de estrecha amistad o de trabajo o de gratitud, el delito se perseguirá por querella de parte, siempre que el conductor no se encuentre, al momento de cometer la infracción, bajo el influjo de bebidas embriagantes, de enervantes o psicotrópicos. Para los casos de homicidio, se tendrá como legítimo representante del ofendido, al que pudiera tener derecho a su sucesión legítima.
 
-### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO I. Encubrimiento
 
 ###### Art. 223.
 
 Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida al cónyuge o a cualquier ascendiente o descendiente consanguíneo en línea recta o colateral hasta en cuarto grado, hermano, concubina o concubinario, adoptante o adoptado, sabiendo el delincuente esta relación.
+
+### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
-
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3161,7 +3227,7 @@ Si en la muerte del infante tomare participación un médico, cirujano, enfermer
 
 Para que proceda la aplicación de la pena de infanticidio, se requiere que la mujer no tenga mala fama; que haya ocultado su embarazo; que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil y que, además, no sea habido en matrimonio o concubinato. En caso contrario, se aplicarán las sanciones del homicidio simple y, si no se llenan los extremos legales del infanticidio, se aplicarán las penas del parricidio.
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3201,7 +3267,7 @@ No es punible el aborto culposo causado por la mujer embarazada ni cuando el emb
 
 Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3225,7 +3291,7 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3233,7 +3299,9 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+### CAPITULO VI. Disposiciones Comunes
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 233.
 
@@ -3465,11 +3533,7 @@ II. Cuando el valor de lo robado no pase del máximo establecido en la fracción
 
 Si en el mismo caso, la restitución y reparación se verifican después de iniciadas las investigaciones, pero antes de formularse conclusiones en el proceso, la pena será solo la multa del triple del valor de lo robado y especial amonestación. Sin perjuicio de que si la víctima u ofendido se desista o renuncie a la restitución de lo robado o a los daños o perjuicios, en cuyo caso procederá a la exhoneración.
 
-### CAPITULO UNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 240.
 
@@ -3599,7 +3663,9 @@ En todos los casos previstos en este capítulo será aplicable, en lo conducente
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 245.
 
@@ -3628,6 +3694,10 @@ Se impondrán las mismas sanciones del abuso de confianza, a quien, requerido fo
 ###### Art. 248.
 
 Es aplicable a este Capítulo, en lo conducente, al Artículo 238 de este Código.
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Art. 249.
 
@@ -5070,3 +5140,9 @@ CUARTO. El Secretario Ejecutivo del Instituto, en su calidad de Secretario Técn
 QUINTO. Los procedimientos iniciados en los términos de la ley que se abroga continuarán tramitándose hasta su conclusión con la misma.
 
 SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fracciones II, III y IV, previo a la entrada en vigor del presente decreto, deberán sujetarse a lo previsto por el artículo 45 del Código Penal para el Estado Libre y Soberano del Estado de Jalisco.
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales para emitir el reglamento a que hace referencia el artículo 64 Bis de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
