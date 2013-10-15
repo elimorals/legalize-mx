@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-procedimientos-administrativos-del-estado-y-21720"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-27"
-last_updated: "2013-10-12"
+last_updated: "2013-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de marzo de 2001.
 
@@ -144,6 +144,10 @@ IV. Ser expedido señalando lugar y fecha de emisión;
 V. Tratándose de actos administrativos que deban notificarse deberá hacerse mención de la oficina en que se encuentra y pueda ser consultado el expediente respectivo, y
 
 VI. Tratándose de actos administrativos recurribles, deberá mencionarse el recurso que proceda y el término con que se cuenta para interponerlo, así como la autoridad ante la cual puede ser presentado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+Cuando en el acto administrativo se omita señalar el término, y recurso mencionados en el párrafo anterior, el impugnante contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso correspondiente.
 
 ###### ARTICULO 6º.
 
@@ -964,5 +968,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
