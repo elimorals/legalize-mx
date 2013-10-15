@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2013-06-11"
+last_updated: "2013-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -919,9 +919,17 @@ VII. Buscará el desarrollo, ascenso y dotación de estímulos con base en el m�
 
 VIII. Buscará generar el sentido de pertenencia institucional;
 
-IX. Contendrá las normas para el registro y el reconocimiento de los certificados del personal, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
-X. Contendrá las normas para el registro de las incidencias del personal.
+IX. Contendrá las normas para el registro y el reconocimiento de los certificados del personal;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+X. Contendrá las normas para el registro de las incidencias del personal, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+XI. Los integrantes de las instituciones policiales que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados a consideración de las instancias, en otras áreas de servicio de las propias instituciones.
 
 ###### ARTICULO 61.
 
@@ -1850,5 +1858,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 11 DE JUNIO DE 2013.
 
 PRIMERO. Ese Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
