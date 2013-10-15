@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-06-29"
+last_updated: "2013-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -69,6 +69,10 @@ El Congreso del Estado reside en la Ciudad de San Luis Potosí, Capital del Esta
 
 El Congreso podrá sesionar en la Capital del Estado en otro recinto distinto del habitual, cuando así lo requiera la celebración de sesiones solemnes o cuando se den circunstancias extraordinarias; o bien, en otra ciudad de la Entidad, cuando así lo acuerde el pleno del Congreso del Estado, para lo cual, el lugar seleccionado deberá ser declarado recinto oficial, por el voto de cuando menos las dos terceras partes de sus integrantes.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+El Congreso celebrará Sesión Solemne, preferentemente, en algún municipio del interior del Estado para conmemorar la instalación del Primer Congreso de San Luis Potosí.
+
 ###### ARTICULO 6°.
 
 Los recintos del Congreso del Estado son inviolables, ninguna fuerza pública puede tener acceso a los mismos, salvo con permiso del Presidente del Congreso o de la Diputación Permanente, en cuyo caso quedará bajo su mando.
@@ -97,7 +101,7 @@ Esta Ley, sus reformas, adiciones y derogaciones, así como el Reglamento para e
 
 Para efectos de interpretación de esta Ley, se entiende por:
 
-l. Constitución: la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+I. Constitución: la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
 
 II. Reglamento: el Reglamento para el Gobierno Interior del Congreso del Estado;
 
@@ -147,7 +151,7 @@ Una vez electa la Directiva, el Presidente de la misma declarará instalado al C
 
 Las atribuciones legislativas del Congreso del Estado en general, son:
 
-l. Dictar, abrogar y derogar leyes;
+I. Dictar, abrogar y derogar leyes;
 
 II. Aprobar las leyes que regulen su organización y funcionamiento internos;
 
@@ -197,7 +201,7 @@ XXI. Las demás que le atribuyan la Constitución Política de los Estados Unido
 
 Las atribuciones del Congreso del Estado en su relación con el Poder Ejecutivo son:
 
-l. Recibir la protesta que debe rendir el Gobernador del Estado, sobre guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la del Estado de San Luis Potosí;
+I. Recibir la protesta que debe rendir el Gobernador del Estado, sobre guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la del Estado de San Luis Potosí;
 
 II. Nombrar gobernador interino, provisional o substituto en los casos que la Constitución determine;
 
@@ -263,7 +267,7 @@ V. Calificar las renuncias de los magistrados y consejeros de los tribunales se�
 
 Las atribuciones del Congreso del Estado con relación a los municipios son las siguientes:
 
-l. Erigir, suprimir y fusionar municipios conforme lo establece la Ley Orgánica del Municipio Libre y demás leyes aplicables;
+I. Erigir, suprimir y fusionar municipios conforme lo establece la Ley Orgánica del Municipio Libre y demás leyes aplicables;
 
 II. Establecer los límites de los municipios del Estado, y resolver las diferencias que en esta materia se produzcan sobre las demarcaciones de sus respectivos territorios, excepto cuando estas diferencias tengan un carácter contencioso;
 
@@ -287,7 +291,7 @@ IX. Resolver conforme al procedimiento que establece el artículo 7° de la Ley 
 
 Las atribuciones del Congreso del Estado en relación con sus asuntos internos son:
 
-l. Nombrar al Oficial Mayor; al Contralor Interno; al Coordinador del Instituto de Investigaciones Legislativas; al Coordinador de Servicios Parlamentarios; y al Coordinador de Finanzas, y removerlos conforme a lo dispuesto en el Reglamento;
+I. Nombrar al Oficial Mayor; al Contralor Interno; al Coordinador del Instituto de Investigaciones Legislativas; al Coordinador de Servicios Parlamentarios; y al Coordinador de Finanzas, y removerlos conforme a lo dispuesto en el Reglamento;
 
 II. Coordinarse por conducto de la Comisión de Vigilancia, con la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;
 
@@ -307,7 +311,7 @@ VI. Las demás que establezca el Reglamento.
 
 Las atribuciones del Congreso del Estado en su relación con la ciudadanía son:
 
-l. Conceder premios y reconocimientos por servicios eminentes e importantes prestados a la humanidad, a la Nación, al Estado o a la comunidad, y
+I. Conceder premios y reconocimientos por servicios eminentes e importantes prestados a la humanidad, a la Nación, al Estado o a la comunidad, y
 
 II. Conceder amnistías e indultos por los delitos del orden común.
 
@@ -373,7 +377,7 @@ Cuando se convoque a periodo extraordinario de sesiones del Congreso, la Diputac
 
 Son atribuciones de la Diputación Permanente:
 
-l. Velar por la observancia de la Constitución y de las leyes, informando al Congreso de las infracciones que haya advertido;
+I. Velar por la observancia de la Constitución y de las leyes, informando al Congreso de las infracciones que haya advertido;
 
 II. Convocar al Congreso del Estado a periodo extraordinario de sesiones cuando así lo demanden las necesidades, urgencias o gravedad de las circunstancias, a su juicio o a petición fundada del titular del Ejecutivo del Estado, o de alguno de los diputados;
 
@@ -409,7 +413,7 @@ Cuando el Congreso se encuentre en periodo extraordinario, la Diputación Perman
 
 El Congreso del Estado tiene la facultad de:
 
-l. Dictar resoluciones económicas relativas a su régimen interior;
+I. Dictar resoluciones económicas relativas a su régimen interior;
 
 II. Vigilar y supervisar por medio de sus órganos de decisión y dirección, el exacto y oportuno desempeño de todas sus dependencias internas, y
 
@@ -441,7 +445,7 @@ El resultado de las sesiones será consignado en el libro de actas correspondien
 
 Las sesiones que celebra el Congreso del Estado son:
 
-l. Ordinarias: las que se efectúen en los días que determine la Directiva antes de concluir cada sesión, en las que deben desahogarse en su orden los siguientes asuntos:
+I.- Ordinarias: las que se efectúen en los días que determine la Directiva antes de concluir cada sesión, en las que deben desahogarse en su orden los siguientes asuntos:
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -467,7 +471,7 @@ II.- Extraordinarias: las que se realicen cuando así lo demanden los asuntos a 
 
 Las sesiones a que se refiere el artículo anterior, según los asuntos que se traten, podrán ser:
 
-l. Públicas: cuando al celebrarse permitan el acceso al público en el recinto oficial;
+I. Públicas: cuando al celebrarse permitan el acceso al público en el recinto oficial;
 
 II. Privadas: cuando se traten casos en los que quede prohibido el acceso al público y a los empleados del Congreso del Estado.
 
@@ -492,6 +496,10 @@ f) Estén presentes en visita oficial delegaciones de legisladores federales del
 g) Inicien o clausuren los periodos ordinarios y extraordinarios.
 
 h) Se rinda el informe de actividades del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+i) Se conmemore anualmente la instalación del Primer Congreso de San Luis Potosí.
 
 ###### ARTICULO 41.
 
@@ -571,7 +579,7 @@ Se sancionará con amonestación pública a los diputados que tengan el mismo n�
 
 Se entiende por causa justificada:
 
-l. La incapacidad por enfermedad;
+I. La incapacidad por enfermedad;
 
 II. La asistencia a eventos en que se represente al Congreso del Estado, y
 
@@ -633,7 +641,7 @@ Los grupos parlamentarios se tendrán por legalmente constituidos cuando present
 
 Para la realización de sus atribuciones, el Congreso del Estado contará con los siguientes órganos:
 
-l. De Decisión:
+I. De Decisión:
 
 a) El Pleno.
 
@@ -715,7 +723,7 @@ Al inicio de cada año legislativo, la Presidencia del Congreso comunicará por 
 
 La Directiva tendrá las siguientes atribuciones:
 
-l. Coordinar los trabajos del Pleno;
+I. Coordinar los trabajos del Pleno;
 
 II. Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de los debates, discusiones y votaciones del Pleno;
 
@@ -807,7 +815,7 @@ La Junta de Coordinación Política se integrará con un Presidente, un Vicepres
 
 Para efectos de la integración de la Junta de Coordinación Política, los grupos parlamentarios, se entenderán:
 
-l. De mayoría absoluta: el que esté integrado con más de la mitad de los diputados de la Legislatura;
+I. De mayoría absoluta: el que esté integrado con más de la mitad de los diputados de la Legislatura;
 
 II. De mayoría relativa: el grupo parlamentario que sin estar comprendido en el supuesto de la fracción anterior, esté integrado por más diputados que cualquier otro grupo parlamentario en la Legislatura, y
 
@@ -853,7 +861,7 @@ Las vocalías serán ocupadas en todos los casos por los demás integrantes de l
 
 Son reglas para la funcionalidad de la Junta de Coordinación Política:
 
-l. Los integrantes de esta Junta tendrán derecho de voz y voto ponderado.
+I. Los integrantes de esta Junta tendrán derecho de voz y voto ponderado.
 
 El voto ponderado de cada integrante de esta Junta será el resultado de dividir la cantidad de diputados del grupo parlamentario del cual forma parte, entre el número total de diputados que integran la Legislatura. El voto ponderado de cada grupo parlamentario será ejercido por conducto de su coordinador.
 
@@ -871,7 +879,7 @@ La Junta de Coordinación Política se formalizará en la primera sesión ordina
 
 La Junta de Coordinación Política tiene las siguientes atribuciones:
 
-l. Conducir sus relaciones con órganos similares de los poderes legislativos de otras entidades federativas, y con los órganos administrativos de los demás poderes del Estado;
+I. Conducir sus relaciones con órganos similares de los poderes legislativos de otras entidades federativas, y con los órganos administrativos de los demás poderes del Estado;
 
 II. Ser el órgano de enlace entre los diversos grupos parlamentarios representados en el Congreso del Estado;
 
@@ -925,7 +933,7 @@ II. Los comités.
 
 Las comisiones podrán ser:
 
-l. Permanentes: las de dictamen legislativo;
+I. Permanentes: las de dictamen legislativo;
 
 II. Temporales: las de investigación y las jurisdiccionales;
 
@@ -987,7 +995,7 @@ Dos o más comisiones pueden realizar reuniones conjuntas cuando la materia de l
 
 Para que las resoluciones y dictámenes de las comisiones sean válidos se requiere:
 
-l. Ser aprobados por mayoría de votos de sus integrantes, teniendo el presidente de las mismas, voto de calidad en caso de empate, y
+I. Ser aprobados por mayoría de votos de sus integrantes, teniendo el presidente de las mismas, voto de calidad en caso de empate, y
 
 II. Cuando un diputado haya emitido su voto respecto de un dictamen y haya quedado asentado así en el acta respectiva; si con posterioridad se negare a firmar el mismo, éste se tendrá por firmado en el sentido en que lo haya emitido, para efecto de trámite.
 
@@ -999,7 +1007,7 @@ Si alguno de los integrantes de una comisión disiente de una resolución o dict
 
 Para el mejor desempeño de sus funciones las comisiones, previo acuerdo de sus integrantes, tienen la facultad de:
 
-l. Solicitar por conducto de su Presidente, la información y copias de documentos que requieran de los archivos de dependencias y entidades del Estado y municipios, previo aviso que se haga a la Directiva y a la Junta, y
+I. Solicitar por conducto de su Presidente, la información y copias de documentos que requieran de los archivos de dependencias y entidades del Estado y municipios, previo aviso que se haga a la Directiva y a la Junta, y
 
 II. Citar y entrevistarse, por conducto de su Presidente, con los funcionarios públicos para una mejor sustentación de su juicio en el estudio de los asuntos que les encomienden.
 
@@ -1063,7 +1071,7 @@ XXI. Vigilancia.
 
 Es competencia de la Comisión del Agua:
 
-l. Los asuntos que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
+I. Los asuntos que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
 
 II. Los asuntos concernientes a los servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales;
 
@@ -1111,7 +1119,7 @@ IX. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Compete a la Comisión de Asuntos Migratorios, la atención, análisis, discusión y, en su caso, dictamen o resolución de los siguientes asuntos:
 
-l. Las iniciativas relacionadas con la protección de los derechos de los migrantes del y en el Estado;
+I. Las iniciativas relacionadas con la protección de los derechos de los migrantes del y en el Estado;
 
 II. La atención de las denuncias de violación de los derechos de las personas migrantes;
 
@@ -1125,7 +1133,7 @@ V. Los análogos a los anteriores que, a juicio del Presidente de la Directiva e
 
 Son de la competencia de la Comisión de Comunicaciones y Transportes, los siguientes asuntos:
 
-l. Los relacionados a la expedición, reforma, adición y derogación de la legislación en materia de comunicaciones y transporte;
+I. Los relacionados a la expedición, reforma, adición y derogación de la legislación en materia de comunicaciones y transporte;
 
 II. Los relativos a autorizaciones que solicite el Ejecutivo del Estado, cuya materia sea relativa a vías de comunicación estatales;
 
@@ -1149,7 +1157,7 @@ VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 A la Comisión de Derechos Humanos, Equidad y Género, competen los siguientes asuntos:
 
-l. Los que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
+I. Los que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
 
 II. Los relativos al nombramiento y destitución del Presidente y consejeros de la Comisión Estatal de Derechos Humanos;
 
@@ -1175,7 +1183,7 @@ XI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Compete a la Comisión de Desarrollo Económico y Social, la atención, resolución o dictamen, en su caso, de los siguientes asuntos:
 
-l. Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado; al fomento de la creación de empleos; así como el desarrollo regional del mismo;
+I. Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado; al fomento de la creación de empleos; así como el desarrollo regional del mismo;
 
 II. Los que atañen al desarrollo económico del Estado y al apoyo a la actividad comercial y de servicios;
 
@@ -1193,7 +1201,7 @@ VII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva
 
 Compete a la Comisión de Desarrollo Rural y Forestal, el dictamen, atención o resolución, según corresponda, de los siguientes asuntos:
 
-l. Los referentes a las estrategias de fomento a las actividades agropecuarias, forestales, piscícolas, de fauna, y agroindustriales que remitan otras entidades federativas;
+I. Los referentes a las estrategias de fomento a las actividades agropecuarias, forestales, piscícolas, de fauna, y agroindustriales que remitan otras entidades federativas;
 
 II. Las iniciativas en materia de desarrollo rural en el Estado;
 
@@ -1215,7 +1223,7 @@ IX. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Corresponde a la Comisión de Desarrollo Territorial Sustentable, el dictamen, atención o resolución, según corresponda, de los asuntos:
 
-l. Referidos a la expedición, reformas y adiciones a la legislación de asentamientos humanos; desarrollo urbano; de obras públicas; y de régimen de propiedad en condominio;
+I. Referidos a la expedición, reformas y adiciones a la legislación de asentamientos humanos; desarrollo urbano; de obras públicas; y de régimen de propiedad en condominio;
 
 II. Relativos al fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados, en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1243,7 +1251,7 @@ XII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva
 
 Son competencia de la Comisión de Ecología y Medio Ambiente, los asuntos relativos a:
 
-l. La expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
+I. La expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
 
 II. La protección del medio ambiente;
 
@@ -1265,7 +1273,7 @@ IX. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Son asuntos de la competencia de la Comisión de Educación, Cultura, Ciencia y Tecnología:
 
-l. Los concernientes a la expedición, reformas y adiciones a la legislación estatal de la materia;
+I. Los concernientes a la expedición, reformas y adiciones a la legislación estatal de la materia;
 
 II. Los relacionados con peticiones referentes al rubro educativo;
 
@@ -1311,7 +1319,7 @@ XVI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva
 
 Compete a la Comisión de Gobernación, la atención, análisis, discusión y, en su caso, dictamen o resolución de los siguientes asuntos:
 
-l. Los relacionados con la fijación y modificación de la división territorial, administrativa y judicial de la Entidad;
+I. Los relacionados con la fijación y modificación de la división territorial, administrativa y judicial de la Entidad;
 
 II. Los relativos a la fijación de los límites de los municipios del Estado y las diferencias que en esta materia se produzcan, sobre las demarcaciones de sus respectivos territorios, excepto cuando esas diferencias tengan un carácter contencioso;
 
@@ -1363,7 +1371,7 @@ XXIV. Los análogos a los anteriores que, a juicio del Presidente de la Directiv
 
 Es facultad de la Comisión de Hacienda del Estado, la atención, análisis, discusión y, en su caso, dictamen o resolución de los siguientes asuntos:
 
-l. Los que atañen a las leyes de Ingresos y del Presupuesto de Egresos del Estado;
+I. Los que atañen a las leyes de Ingresos y del Presupuesto de Egresos del Estado;
 
 II. Los que se relacionen con las leyes financieras y fiscales del Estado;
 
@@ -1437,7 +1445,7 @@ VII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva
 
 Es competencia de la Comisión de Puntos Constitucionales, la atención, análisis, discusión y, en su caso, dictamen o resolución de los siguientes asuntos:
 
-l. Los relativos a reformas, adiciones y derogación de artículos de la Constitución Política de los Estados Unidos Mexicanos, o. a la particular del Estado;
+I. Los relativos a reformas, adiciones y derogación de artículos de la Constitución Política de los Estados Unidos Mexicanos, o. a la particular del Estado;
 
 II. Los que se refieran a leyes relativas a disposiciones de la Constitución General de la República, que sean de competencia estatal;
 
@@ -1463,7 +1471,7 @@ XI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Son competencia de la Comisión de Salud y Asistencia Social, los siguientes asuntos:
 
-l. Los relativos a la expedición, reformas y adiciones a la legislación estatal de la materia;
+I. Los relativos a la expedición, reformas y adiciones a la legislación estatal de la materia;
 
 II. Los hechos, solicitudes y propuestas de instituciones, organizaciones y de la población en general, relacionadas con cuestiones de salud y asistencia social;
 
@@ -1481,7 +1489,7 @@ VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Es competencia de la Comisión de Seguridad Pública, Prevención y Reinserción Social, la atención, análisis, discusión y, en su caso, dictamen o resolución de los asuntos que:
 
-l. Se refieran al orden público, la tranquilidad y la seguridad jurídica de las personas;
+I. Se refieran al orden público, la tranquilidad y la seguridad jurídica de las personas;
 
 II. Conciernan a los cuerpos de seguridad pública y privada; así como de protección civil;
 
@@ -1495,7 +1503,7 @@ V. Los análogos a los anteriores que, a juicio del Presidente de la Directiva e
 
 Corresponde a la Comisión de Trabajo y Previsión Social, conocer, dictaminar, atender o resolver en su caso:
 
-l. Las iniciativas referentes a la relación de trabajo entre los poderes y ayuntamientos del Estado, con sus respectivos trabajadores;
+I. Las iniciativas referentes a la relación de trabajo entre los poderes y ayuntamientos del Estado, con sus respectivos trabajadores;
 
 II. Las iniciativas en materia de seguridad social de los trabajadores al servicio del Estado y los municipios;
 
@@ -1509,7 +1517,7 @@ V. Los análogos a los anteriores que, a juicio del Presidente de la Directiva e
 
 Compete a la Comisión de Transparencia y Acceso a la Información:
 
-l. Dar cumplimiento a las obligaciones que correspondan al Congreso del Estado, derivadas de la Ley de Transparencia y Acceso a la Información Pública del Estado;
+I. Dar cumplimiento a las obligaciones que correspondan al Congreso del Estado, derivadas de la Ley de Transparencia y Acceso a la Información Pública del Estado;
 
 II. Dictaminar las iniciativas que le sean turnadas por el Pleno;
 
@@ -1525,7 +1533,7 @@ VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva 
 
 Compete a la Comisión de Vigilancia, el ejercicio de las siguientes facultades:
 
-l. Recibir de la Directiva o de la Diputación Permanente, en su caso, las cuentas públicas y turnarlas a la Auditoría Superior del Estado;
+I. Recibir de la Directiva o de la Diputación Permanente, en su caso, las cuentas públicas y turnarlas a la Auditoría Superior del Estado;
 
 II. Ser el conducto de comunicación entre el Congreso del Estado y la Auditoría Superior del Estado;
 
@@ -1555,7 +1563,7 @@ XII. Las demás que establezca esta Ley y demás disposiciones legales aplicable
 
 El Congreso contará con los siguientes comités:
 
-l. De Administración;
+I. De Administración;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -1573,7 +1581,7 @@ IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado.
 
 Al Comité del Instituto de Investigaciones Legislativas le compete:
 
-l. Vigilar el cumplimiento de las funciones de ese Instituto, conforme al Reglamento;
+I. Vigilar el cumplimiento de las funciones de ese Instituto, conforme al Reglamento;
 
 II. Atender y resolver, en su caso, los demás asuntos que le asigne el Pleno, y
 
@@ -1583,7 +1591,7 @@ III. Las demás que les señale la presente Ley y el Reglamento.
 
 Al Comité de Orientación, Gestoría y Quejas, le corresponde:
 
-l. Orientar al público en general sobre los trámites a realizar en el Congreso del Estado y canalizar en su caso, las peticiones y quejas de la (sic) personas que soliciten el apoyo del mismo;
+I. Orientar al público en general sobre los trámites a realizar en el Congreso del Estado y canalizar en su caso, las peticiones y quejas de la (sic) personas que soliciten el apoyo del mismo;
 
 II. Previo estudio socioeconómico, apoyar en la medida de las posibilidades presupuestales del Congreso, conforme a la partida que le sea asignada para tal efecto, a las personas que soliciten apoyos o gestionar ante las dependencias competentes lo concerniente a los mismos, así como dar cuenta del uso y destino de dicha partida al Pleno, y
 
@@ -1699,7 +1707,7 @@ Las funciones y obligaciones de los órganos de Soporte Técnico de Apoyo y de C
 
 Los titulares de los órganos a los que se refiere el artículo 126 de esta Ley rendirán informes de acuerdo a lo siguiente:
 
-l. El Oficial Mayor:
+I. El Oficial Mayor:
 
 a) Informes a la Directiva y a la Diputación Permanente, que deberán presentarse ante estos órganos para coadyuvar al cumplimiento a lo dispuesto en los artículos 15 fracción XIX y 69, respectivamente, de la presente Ley.
 
@@ -1735,7 +1743,7 @@ El derecho de iniciar leyes corresponde a los diputados, al Gobernador, al Supre
 
 Las iniciativas se presentarán por escrito al Congreso del Estado y deberán acompañarse de su dispositivo de almacenamiento de datos; podrán ser:
 
-l. De ley: cuando contengan un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a todas las personas en general;
+I. De ley: cuando contengan un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a todas las personas en general;
 
 II. De decreto: cuando se trate de un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a determinadas personas físicas o morales;
 
@@ -1787,7 +1795,7 @@ La Comisión de Transparencia y Acceso a la Información contará para la aplica
 
 El Congreso del Estado deberá publicar en su página de internet, cuando menos:
 
-l. El presupuesto por grupos parlamentarios y partidas, así como sus estados financieros;
+I. El presupuesto por grupos parlamentarios y partidas, así como sus estados financieros;
 
 II. La plantilla del personal, indicando el puesto, la adscripción, la remuneración mensual neta considerando prestaciones, estímulos y compensaciones y cualquier otra percepción que en dinero o en especie reciban los servidores públicos del Congreso del Estado; incluyendo a los diputados y a su personal dentro de los grupos parlamentarios;
 
@@ -2138,6 +2146,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 29 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
