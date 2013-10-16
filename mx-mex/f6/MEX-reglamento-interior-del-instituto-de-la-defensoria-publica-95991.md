@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-la-defensoria-publica-9599
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-19"
-last_updated: "2013-09-19"
+last_updated: "2013-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 16 DE OCTUBRE DE 2013.</small>
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el día jueves 19 de septiembre de 2013.
 
@@ -97,13 +97,19 @@ VI. Coordinaciones Regionales.
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización. Asimismo, se auxiliará de los servidores públicos, órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-Artículo 7 (sic). Las atribuciones de control interno del Instituto serán atendidas por la Contraloría Interna de la Consejería Jurídica.
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 8.
 
-La dirección y administración del Instituto estarán a cargo de un Director General, quien tendrá además de las señaladas en la Ley las siguientes atribuciones:
+Las atribuciones de control interno del Instituto serán atendidas por la Contraloría Interna de la Consejería Jurídica.
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DEL DIRECTOR GENERAL
+
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 9.
+
+La dirección y administración del Instituto estarán a cargo de un Director General, quien tendrá además de las señaladas en la Ley, las atribuciones siguientes:
 
 I. Dirigir técnica y administrativamente al Instituto.
 
@@ -137,7 +143,9 @@ XV. Determinar la adscripción de los Defensores y demás servidores públicos d
 
 XVI. Someter a la aprobación del Consejero/a Jurídica la organización del Instituto y aprobar sus manuales administrativos, en coordinación con la Secretaría de Finanzas.
 
-XVII. Promover la ejecución de sanciones de modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece el Instituto.
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+
+XVII. Promover la ejecución de acciones de modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece el Instituto.
 
 XVIII. Ordenar en el ámbito de su competencia, las sanciones al personal a su cargo, de conformidad con las disposiciones de la materia.
 
@@ -155,11 +163,11 @@ XXIV. Resolver en el ámbito administrativo la interpretación o aplicación de 
 
 XXV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejero/a Jurídica.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL DIRECTOR GENERAL
+### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES REGIONALES, SUBDIRECTORES Y COORDINADORES REGIONALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 9.
+###### Artículo 10.
 
 Al frente de cada Dirección Regional, Subdirección y Coordinación Regional habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado al Instituto, cuyas atribuciones genéricas son las siguientes:
 
@@ -199,11 +207,11 @@ XVII. Cumplir y hacer cumplir en el ámbito de su competencia, con las disposici
 
 XVIII. Las demás que les señalen otros ordenamientos legales y las que les encomiende el Director General.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES REGIONALES, SUBDIRECTORES Y COORDINADORES REGIONALES
+### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES REGIONALES, SUBDIRECCIONES Y COORDINACIONES REGIONALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 10.
+###### Artículo 11.
 
 Corresponde a los directores regionales, en su respectiva circunscripción territorial:
 
@@ -227,19 +235,15 @@ IX. Recibir las solicitudes de elaboración de amparos para su valoración y, en
 
 X. Las demás que establecen otras disposiciones legales y las que les encomiende el Director General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES REGIONALES, SUBDIRECCIONES Y COORDINACIONES REGIONALES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-###### Artículo 11.
-
-Para el cumplimiento de sus atribuciones, el Instituto contará con Coordinaciones Regionales, las cuales estarán adscritas directamente a las Direcciones Regionales, de acuerdo con la estructura autorizada.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 12.
+
+Para el cumplimiento de sus atribuciones, el Instituto contará con Coordinaciones Regionales, las cuales estarán adscritas directamente a las Direcciones Regionales, de acuerdo con la estructura de organización autorizada.
+
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 13.
 
 Corresponde a las Coordinaciones Regionales, en su respectiva circunscripción territorial:
 
@@ -271,9 +275,9 @@ XIII. Llevar a cabo las gestiones que correspondan ante el órgano jurisdicciona
 
 XIV. Las demás que señalen otros ordenamientos legales, así como las que les encomiende el Director General y su superior jerárquico.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 13.
+###### Artículo 14.
 
 Corresponde a la Subdirección Técnica:
 
@@ -307,9 +311,9 @@ XIV. Expedir constancias o copias de los documentos que obren en los archivos de
 
 XV. Evaluar el desempeño de los Servidores Públicos adscritos a la unidad administrativa a su cargo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 14.
+###### Artículo 15.
 
 Corresponde a la Subdirección de Administración y Finanzas:
 
@@ -345,17 +349,17 @@ XV. Promover la integración, actualización y aplicación de los reglamentos y 
 
 XVI. Coordinar las acciones de protección civil del Instituto, con base en las normas y políticas aplicables.
 
-###### Artículo 15.
+### CAPÍTULO VI. CONSEJO TÉCNICO
+
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 16.
 
 El Consejo Técnico es un órgano de asesoría y apoyo para el Instituto, que tiene por objeto contribuir al diseño, coordinación y evaluación de los programas y proyectos para mejorar el servicio de asesoría, patrocinio y defensa a las personas que lo soliciten.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO VI. CONSEJO TÉCNICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-###### Artículo 16.
+###### Artículo 17.
 
 El Consejo Técnico estará integrado por:
 
@@ -389,31 +393,31 @@ Los integrantes del Consejo Técnico tendrán voz y voto, excepto el Secretario,
 
 Las decisiones del Consejo Técnico se tomarán por unanimidad o mayoría de votos de sus integrantes. En caso de empate, el Presidente tendrá voto de calidad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 17.
+###### Artículo 18.
 
 El Consejo Técnico sesionará en forma ordinaria cuando menos una vez cada seis meses y de manera extraordinaria cada vez que el Presidente lo estime conveniente o a petición de una tercera parte o más del total de sus miembros.
 
-###### Artículo 18.
+### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
+
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 19.
 
 El Director General se suplirá en sus ausencias temporales hasta por 15 días hábiles, por el Director Regional que aquél designe. En las mayores de 15 días hábiles, por quien designe el Consejero/a Jurídica.
 
 En ausencia definitiva del Director General será el Consejero/a Jurídica quien nombre al servidor público que ocupe provisionalmente el cargo, hasta en tanto se designe al nuevo titular del Instituto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-###### Artículo 19.
+###### Artículo 20.
 
 Los Directores Regionales se suplirán en sus ausencias temporales hasta por 15 días hábiles, por el Coordinador Regional que aquél designe. En las mayores de 15 días hábiles, por quien designe el Director General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2013, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 20.
+###### Artículo 21.
 
 Los Subdirectores, Coordinadores Regionales y los Jefes de Departamento se suplirán en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Director General.
 
