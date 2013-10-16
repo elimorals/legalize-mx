@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-09-24"
+last_updated: "2013-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE SEPTIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -161,7 +159,9 @@ Los derechos de los ciudadanos mexicanos residentes en el Estado son:
 
 I.- Votar en las elecciones populares.
 
-II.- Ser votados para cualquier cargo de elección, si reúnen las condiciones que exigen las leyes.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. EI derecho de solicitar el registro de candidatos ante cualquier autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e iniciar leyes ante el Congreso.
 
@@ -2975,10 +2975,6 @@ Los integrantes que conforman los organismos electorales, los que fueren designa
 
 El Gobernador del Estado sólo podrá ser acusado por traición a la Patria y delitos graves del orden común durante el ejercicio de su cargo.
 
-(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
 
 ###### Art. 107.
@@ -2998,10 +2994,6 @@ II.- La Comisión de delitos por parte de cualquier servidor público será pers
 III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que sin constituir delito, puedan afectar la eficiencia y buena marcha de los asuntos públicos.
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente por el órgano correspondiente.
-
-(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2003)</small>
 
@@ -3840,10 +3832,6 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 ###### Art. 131.
 
 El Congreso del Estado deberá expedir las normas que establezcan los procedimientos mediante los cuales resolverá los conflictos que se presenten entre uno o varios municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) del artículo anterior.
-
-(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -14079,10 +14067,6 @@ El Poder Judicial contará con jueces de control que resolverán, en forma inmed
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
 
-(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
 
 Cuando el Estado o sus Municipios, con motivo de su actividad administrativa pública, causen un daño o perjuicio en los bienes de los particulares o afecten sus derechos, su responsabilidad será objetiva y directa, por lo que la persona afectada tendrá derecho a recibir una indemnización, la cual se establecerá conforme a las bases, límites y procedimientos que establezcan las leyes.
@@ -15348,3 +15332,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Congreso del Estado, adecuará la Ley que crea la Comisión Estatal de Derechos Humanos, en un plazo máximo de 260-doscientos sesenta días contados a partir del inicio de la vigencia de este Decreto.
 
 Tercero.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2013.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado, deberá de expedir la legislación para hacer cumplir lo dispuesto en el presente Decreto a más tardar en un año contado a partir de la entrada en vigor del mismo.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
