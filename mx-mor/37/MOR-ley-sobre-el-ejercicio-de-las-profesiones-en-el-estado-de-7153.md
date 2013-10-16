@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
 country: "mx"
 rank: "ley"
 publication_date: "1968-01-03"
-last_updated: "1972-12-20"
+last_updated: "2013-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1972.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
 
@@ -459,13 +459,19 @@ Se constituirán conforme a los estatutos del colegio correspondiente y tendrán
 
 ### CAPITULO VIII. EL SERVICIO SOCIAL
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 49.
 
-Los estudiantes y los profesionales no mayores de sesenta años, que ejerzan o no las profesiones a que se refiere esta ley, deberán prestar servicio social. Sólo podrán ser excusados por causa de enfermedad que los incapacite para realizarlo.
+Los estudiantes y los profesionales no mayores de sesenta años, que ejerzan o no las profesiones a que se refiere esta Ley, deberán prestar servicio social, en cualquiera de sus dos modalidades servicio social o servicio social comunitario. Sólo podrán ser excusados por causa de enfermedad que los incapacite para realizarlo.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 50.
 
-Se entiende por servicio social: el trabajo temporal y retribuído, que efectúen los estudiantes y profesionistas en interés de la sociedad y del Estado.
+Se entiende por servicio social, el trabajo temporal y retribuído, que efectúen los estudiantes y profesionistas en interés de la sociedad y del Estado.
+
+Se entiende por servicio social comunitario, el trabajo temporal y retribuido, que efectúen los estudiantes y profesionistas en interés de la sociedad y del Estado, que se realice en localidades que se ubiquen en zonas, regiones o territorios de escaso nivel económico y de recursos, aplicando los conocimientos adquiridos durante la formación académica, con la finalidad de coadyuvar al desarrollo sostenible de las comunidades.
 
 ###### ARTICULO 51.
 
@@ -474,6 +480,10 @@ Los colegios presentarán a la Oficina de Profesiones los programas anuales que 
 ###### ARTICULO 52.
 
 Los planes de estudios de las instituciones de educación superior, de las profesiones comprendidas en este ordenamiento, exigirán a los pasantes que presten servicio social por un término no menor de seis meses ni mayor de un año, como condición para obtener el título profesional.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 52 BIS.- Las Instituciones de Educación Superior, deberán asignar a los pasantes, a alguna de las modalidades del servicio social, respetando el perfil profesional y académico, procurando que al menos el 40% de los Programas de Servicio Social sean en su modalidad de servicio social comunitario.
 
 ###### ARTICULO 53.
 
@@ -656,3 +666,11 @@ El presente Decreto entrará en vigor un día después de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 16 DE OCTUBRE DE 2013.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos,
+
+TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente decreto.
