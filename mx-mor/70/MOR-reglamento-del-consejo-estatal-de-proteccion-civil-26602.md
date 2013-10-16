@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-consejo-estatal-de-proteccion-civil-26602"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-26"
-last_updated: "1992-02-26"
+last_updated: "2013-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
-REGLAMENTO DEL CONSEJO ESTATAL DE PROTECCION CIVIL
+REGLAMENTO DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de febrero de 1992.
 
@@ -300,3 +302,11 @@ SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 16 DE OCTUBRE DE 2013.
+
+PRIMERA.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Se abroga el Reglamento aprobado el veinte de febrero de mil novecientos noventa y dos, y publicado el veintiséis de febrero del mismo año en el Periódico Oficial "Tierra y Libertad", número 3576, así como todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Reglamento.
