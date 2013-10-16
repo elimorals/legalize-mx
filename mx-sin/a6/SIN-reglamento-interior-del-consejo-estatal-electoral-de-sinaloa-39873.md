@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-consejo-estatal-electoral-de-sinaloa-39
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-02"
-last_updated: "2013-08-30"
+last_updated: "2013-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 2 de junio de 2004.
 
@@ -118,23 +118,27 @@ La Comisión que funge entre procesos, tendrá las siguientes facultades:
 
 I. Atender, conocer y resolver todas las solicitudes de los partidos políticos, que conforme al artículo 56 de la Ley, no sean exclusivas del Pleno del Consejo Estatal.
 
-II. Proveer lo relativo a las prerrogativas que la Ley otorga a los partidos políticos.
+II. (DEROGADA, P.O. 16 DE OCTUBRE DE 2013)
 
-III. Atender y resolver los asuntos administrativos propios del consejo Estatal.
+III. (DEROGADA, P.O. 16 DE OCTUBRE DE 2013)
 
 IV. Recibir, substanciar y remitir al Tribunal Estatal Electoral, en la forma y términos que señala la ley, los recursos que sean interpuestos contra sus actos y resoluciones.
 
-V. Vigilar que las actividades de los partidos políticos se desarrollen con apego a la ley y cumplan con las obligaciones a que están sujetos.
+V. (DEROGADA, P.O. 16 DE OCTUBRE DE 2013)
 
-VI. Celebrar convenios y establecer relaciones de colaboración, con autoridades federales, estatales y municipales u otras instancias, para la preparación del proceso electoral, así como mantener en vigor los que hayan sido signados por el Pleno del Consejo Estatal.
+VI. (DEROGADA, P.O. 16 DE OCTUBRE DE 2013)
 
-VII. Desahogar las dudas que se presenten sobre la aplicación e interpretación de la ley.
+VII. (DEROGADA, P.O. 16 DE OCTUBRE DE 2013)
 
-VIII. Nombrar y remover, a propuesta del Presidente, al Secretario del Consejo, a los coordinadores de capacitación, organización y administración, así como a los titulares de las áreas de Comunicación y Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
 
-IX. Celebrar convenios con el Instituto Federal Electoral, para la aportación recíproca de apoyo, información y documentación electoral, así como mantener en vigor los que haya celebrado el Pleno del Consejo Estatal.
+VIII. Nombrar y remover, a propuesta del Presidente, a los titulares de las áreas de Comunicación y Acceso a la Información Pública.
 
-X. Establecer programas de divulgación y Fomento Electoral, así como darles continuidad a los que hayan sido iniciados por el Pleno del Consejo Estatal.
+IX. (DEROGADA, P.O. 16 DE OCTUBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+X. Ejecutar y vigilar la correcta aplicación de los programas de divulgación y Fomento Electoral, aprobados por el Pleno del Consejo Estatal.
 
 ###### ARTICULO 10.
 
@@ -666,9 +670,11 @@ V. Por mayoría solicitar se convoque a reunión de trabajo.
 
 VI. Las demás que le encomiende el Reglamento Interior, el Consejo o la propia Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 72.
 
-Las Comisiones serán permanentes y especiales, las permanentes funcionarán durante el Proceso electoral para el que fueron nombradas.
+Las Comisiones serán permanentes y especiales, las primeras son aquellas que establece el artículo 68 del presente Reglamento, y que funcionan de forma permanente.
 
 Las Comisiones especiales serán aquellas que el Consejo constituya para el estudio, análisis y dictamen de los asuntos que no estén reservados expresamente para las Comisiones permanentes. Estas Comisiones sólo estarán en funciones mientras dure el objeto para el que fueron creadas.
 
@@ -1178,6 +1184,8 @@ SECRETARIA DEL CONSEJO
 
 Así lo aprobó por mayoría de votos el pleno del Consejo Estatal Electoral, en la segunda sesión ordinaria del mes de mayo del 2004.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 30 DE AGOSTO DE 2013.
 
 > <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
@@ -1189,3 +1197,9 @@ SEGUNDO.- Se deroga el Acuerdo CP-001/2011 de fecha 15 de julio de 2011 relativo
 SEXTO.- Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Sinaloa”.
 
 SÉPTIMO.- Las modificaciones al Reglamento Interno del Consejo Estatal Electoral entrarán en vigor al día siguiente de su publicación en “El Periódico Oficial El Estado de Sinaloa”.
+
+P.O. 16 DE OCTUBRE DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+CUARTO. Las modificaciones al Reglamento Interno del Consejo Estatal Electoral entrarán en vigor al día siguiente de su publicación "El Periódico Oficial El Estado de Sinaloa"
