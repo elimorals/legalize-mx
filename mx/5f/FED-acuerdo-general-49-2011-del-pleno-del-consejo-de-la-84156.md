@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-49-2011-del-pleno-del-consejo-de-la-84156"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-15"
-last_updated: "2011-12-15"
+last_updated: "2013-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2011-12-08"
 
 ACUERDO GENERAL 49/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA JORNADA Y HORARIO DE TRABAJO DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO EL HORARIO DE ATENCIÓN AL PUBLICO EN LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO SU ENTRADA EN VIGOR SERA A PARTIR DEL 1 DE ENERO DE 2012.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de diciembre de 2011.
 
@@ -75,7 +73,25 @@ CUARTO. El horario de atención al público en los juzgados de Distrito y tribun
 
 QUINTO. La Visitaduría Judicial deberá proponer a la Comisión de Disciplina, a la brevedad posible, el proyecto de reforma a los formatos de actas de visita ordinaria de inspección, que permitan verificar el debido cumplimiento y respeto de las jornadas y horarios de trabajo en los juzgados de Distrito y tribunales de Circuito, así como el horario de atención al público, establecidos en este Acuerdo.
 
-SEXTO. La Dirección General de Recursos Humanos, en coordinación con la Dirección General de Tecnologías de la Información, deberá proponer a la Comisión de Administración, a la brevedad posible, los instrumentos tecnológicos que permitan registrar la hora de entrada y salida del personal operativo de los juzgados de Distrito y tribunales de Circuito.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 33/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2013)</small>
+
+SEXTO. Los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida, salvo los supuestos siguientes:
+
+I. Quienes ocupen los puestos que se indican a continuación y sean excepcionados por los titulares del juzgado de Distrito o del tribunal de Circuito de su adscripción o, en su caso, por el Presidente del órgano colegiado de conformidad con la normatividad aplicable:
+
+a) Secretario Particular de juez de Distrito;
+
+b) Secretario Particular de magistrado de Circuito; y
+
+c) Chofer de Funcionario.
+
+II. Quienes no estando previstos en la fracción anterior, sean excepcionados por necesidades del servicio por los titulares del juzgado de Distrito o del tribunal de Circuito de su adscripción o, en su caso, por el Presidente del órgano colegiado de conformidad con la normatividad aplicable.
+
+El titular o el Presidente del órgano colegiado comunicará mediante oficio a la Dirección General de Recursos Humanos las excepciones a que se refiere esta fracción, señalando los motivos de las mismas y su temporalidad, la cual no podrá exceder del ejercicio fiscal correspondiente, sin perjuicio de que pueda ser renovada a su vencimiento o modificada durante su vigencia.
+
+Para la operación y funcionamiento del registro automatizado de entrada y salida, los servidores públicos adscritos a los juzgados de Distrito o tribunales de Circuito deberán proporcionar los datos que sean necesarios.
+
+En la implementación, operación y funcionamiento del registro automatizado deberán observarse los lineamientos generales que al efecto emita el Pleno del Consejo de la Judicatura Federal y las disposiciones aplicables en materia de transparencia, acceso a la información, resguardo de la misma y protección de datos personales.
 
 SEPTIMO. La Comisión de Administración, a través de la Oficialía Mayor, deberá crear un área administrativa encargada de instrumentar la aplicación de este Acuerdo, así como de atender las dudas o consultas que surjan por parte de los titulares y demás servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito.
 
@@ -86,3 +102,17 @@ PRIMERO. El presente Acuerdo General entrará en vigor a partir del uno de enero
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 49/2011, del Pleno del Consejo de la Judicatura Federal, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación, fue aprobado por el Pleno del Consejo, en sesión ordinaria de dieciséis de noviembre de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a ocho de diciembre de dos mil once.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+D.O.F. 16 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+CUARTO. La Oficialía Mayor, por conducto de las unidades administrativas competentes que le están adscritas, implementará el registro automatizado a que se refiere el presente Acuerdo.
+
+QUINTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este Acuerdo, al diverso 49/2011, que establece la jornada y horario de trabajo de los servidores públicos adscritos a los juzgados de Distrito y tribunales de Circuito, así como el horario de atención al público en los órganos jurisdiccionales del Poder Judicial de la Federación.
