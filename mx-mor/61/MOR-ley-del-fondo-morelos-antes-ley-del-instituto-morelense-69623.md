@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-fondo-morelos-antes-ley-del-instituto-morelense-69623"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-12"
-last_updated: "2009-08-12"
+last_updated: "2013-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de agosto de 2009.
 
@@ -123,31 +123,49 @@ IX. La cartera vigente, administrativa, vencida y contenciosa que actualmente es
 
 El gobierno, la administración y la dirección del Instituto estará a cargo de:
 
-I. Un Consejo Directivo; y
+I. Un Consejo Directivo; y (sic)
 
 II. Un Director General.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+III. Un órgano de vigilancia.
 
 ###### ARTÍCULO 9.
 
 El Consejo Directivo es la autoridad suprema del Instituto y estará integrado de la siguiente manera:
 
-I. El titular de la Secretaría de Desarrollo Económico, quien fungirá como Presidente;
+(ADICIONADA, P.O. 16 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 12 DE DE AGOSTO DE 2009, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN
 
-II. El titular de la Secretaría de Finanzas y Planeación;
+I. El Gobernador del Estado o el representante que éste designe, quien fungirá como Presidente;
 
-III. El titular de la Secretaría de Turismo;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
 
-IV. El titular de la Delegación en el Estado de Morelos de la Secretaría de Economía del Gobierno Federal;
+II. La persona titular de la Secretaría de Economía;
 
-V. El titular de la Oficialía Mayor;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
 
-VI. El titular de la Representación Estatal del Fondo Nacional de Apoyo para las Empresas en Solidaridad (FONAES); y
+III. La persona titular de la Secretaría de Hacienda;
 
-VII. Un representante de la Universidad Autónoma del Estado de Morelos.
+IV. El titular de la Secretaría de Turismo;
+
+V. El titular de la Delegación en el Estado de Morelos de la Secretaría de Economía del Gobierno Federal;
+
+VI. El titular de la Oficialía Mayor;
+
+VII. El titular de la Representación Estatal del Fondo Nacional de Apoyo para las Empresas en Solidaridad (FONAES); y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN VII, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 16 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VIII.</small>
+
+VIII. Un representante de la Universidad Autónoma del Estado de Morelos.
 
 De conformidad con el orden del día de cada sesión, se podrá invitar a personas competentes o interesadas en los temas a tratar.
 
 Por cada miembro propietario habrá un suplente, quien será designado por el titular y que contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente del Consejo Directivo sea un integrante de este último, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
 
 Los integrantes del Consejo Directivo durarán en su encargo por todo el tiempo que subsista su designación y sus nombramientos serán honoríficos.
 
@@ -179,9 +197,13 @@ II. Aprobar el programa financiero correspondiente, los programas de acción, as
 
 III. Delegar en el Director General del Instituto, facultades para la celebración de diferentes acuerdos, convenios o contratos para la captación y operación de recursos a través de las diversas fuentes de fondeo nacionales o extranjeras, con los sectores público, privado y social, así como para la inversión de fondos líquidos afectos al patrimonio del Instituto, para beneficio del Instituto y bajo los mecanismos y lineamientos que al efecto determine el Consejo Directivo;
 
-IV. Aprobar la estructura básica del Instituto y las modificaciones que procedan a la misma;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
 
-V. Aprobar las Reglas de Operación Financiera, el Estatuto Orgánico y el Reglamento, así como todas las demás disposiciones reglamentarias que rijan la organización, funcionamiento, control y evaluación del Instituto, así como sus modificaciones;
+IV. Aprobar la estructura básica del Instituto y las modificaciones que procedan a la misma, así como el Reglamento;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+V. Aprobar y expedir las Reglas de Operación Financiera, el Estatuto Orgánico, así como todas las demás disposiciones reglamentarias que rijan la organización, funcionamiento, control y evaluación del Instituto, así como sus modificaciones;
 
 VI. Aprobar las disposiciones jurídico administrativas y los mecanismos orientados a mejorar la organización y funcionamiento del Instituto, en su caso;
 
@@ -213,9 +235,11 @@ XIX. Las demás que le confiera la Ley, el Reglamento y demás disposiciones leg
 
 Hecha excepción de las referidas en las fracciones III, X, XIII y XVIII, las facultades del Consejo Directivo son no delegables.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-La administración del Instituto estará a cargo del Director General, quien será designado y removido libremente por el Gobernador del Estado, debiendo cubrir los requisitos que marca la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos y tener experiencia en el ramo financiero.
+La administración del Instituto estará a cargo del Director General, quien será designado y removido libremente por el Gobernador del Estado, debiendo cubrir los requisitos que marca la Ley Orgánica de la Administración Pública del Estado de Morelos y tener experiencia en el ramo financiero.
 
 ### CAPÍTULO V. De las Relaciones Laborales del Instituto
 
@@ -362,3 +386,15 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE OCTUBRE DE 2013.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. En un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá instalarse el Consejo Directivo del Instituto Morelense para el Financiamiento del Sector Productivo que por virtud del presente Decreto se modifica.
+
+CUARTA. El Consejo Directivo del Instituto Morelense para el financiamiento del Sector Productivo, contará con un plazo de treinta días hábiles, a partir de la fecha de su instalación, para realizar las reformas pertinentes a su Estatuto Orgánico.
