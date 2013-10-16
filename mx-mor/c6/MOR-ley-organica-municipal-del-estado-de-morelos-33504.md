@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2013-09-25"
+last_updated: "2013-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -497,7 +497,7 @@ Una vez verificado el quórum legal, y rendida la protesta por parte de los miem
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
-"Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...".
+“Queda legítimamente instalado el Ayuntamiento del Municipio de...que deberá funcionar durante del período...”.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -637,7 +637,9 @@ II.- Las sesiones extraordinarias se llevarán a cabo cuando se considere que de
 
 III.- Las sesiones serán declaradas permanentes cuando la importancia del asunto lo requiera.
 
-Al inicio de los períodos constitucionales, los Ayuntamientos sesionarán cuantas veces sean necesarias durante los meses de noviembre y diciembre, con el fin de aprobar la reglamentación municipal que se requiera en cada Municipio, así como para formular y en su caso aprobar su iniciativa de Ley de Ingresos para el año siguiente y su Presupuesto de Egresos. Así mismo iniciarán los trabajos que los lleven a la formulación y aprobación de sus planes de desarrollo municipal; y
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+Al inicio de los períodos Constitucionales, los Ayuntamientos sesionarán cuantas veces sean necesarias durante los meses de enero y febrero, para iniciar los trabajos que los lleven a la formulación y aprobación de sus Planes de Desarrollo Municipal; y
 
 IV.- Las sesiones solemnes serán las que determine el Cabildo para la conmemoración de aniversarios históricos o cívicos y para la presentación de los informes anuales que deba rendir el Presidente Municipal, o cuando ocurran representantes de los Poderes del Estado, de la Federación o personalidades distinguidas.
 
@@ -1210,6 +1212,14 @@ Para su funcionamiento, los Comités de Planeación para el Desarrollo Municipal
 ###### Artículo 60.
 
 Los Ayuntamientos expedirán, dentro de sus respectivas jurisdicciones, su Bando de Policía y Gobierno, reglamento interior, reglamentos y disposiciones administrativas de observancia general, de acuerdo con lo establecido en el Artículo 115 Fracción II, Párrafo Segundo de la Constitución Política de los Estados Unidos Mexicanos, incorporando la perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+Al inicio de cada período de gestión Constitucional Municipal, una vez conformadas las comisiones, la comisión de Gobernación y Reglamentos en coordinación con el Síndico Municipal, en la tercera sesión de Cabildo del mes de febrero deberán presentar el análisis integral de la situación que guarda la Reglamentación Municipal.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+Una vez conocido lo anterior por el Cabildo, se aprobará el mecanismo de actualización normativa del Municipio el cual no podrá extenderse más allá del mes de marzo, con el propósito de que durante la primera sesión del mes de abril del año de que se trate, se aprueben, conforme a los (sic) establecido en la presente Ley, las reformas reglamentarias y/o Reglamentos que se requieran para cada Municipio.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
@@ -3159,17 +3169,15 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
 
-P.O. 25 DE SEPTIEMBRE DE 2013.
-
-DECRETO NÚMERO 828, POR EL QUE SE REFORMA LA FRACCIÓN X, DEL ARTÍCULO 38; LA FRACCIÓN V, DEL ARTÍCULO 40, RECORRIÉNDOSE LAS SUBSECUENTES FRACCIONES EN SU ORDEN; EL ARTÍCULO 138 Y LA FRACCIÓN II, DEL ARTÍCULO 139, RECORRIÉNDOSE LAS SUBSECUENTES FRACCIONES EN SU ORDEN DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+P.O. 16 DE OCTUBRE DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
-Remítase el presente Deceto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO SEGUNDO.
 
-SE ADICIONA EL INCISO D), DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
