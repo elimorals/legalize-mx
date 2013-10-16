@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mejora-regulatoria-para-el-estado-de-morelos-58673"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-19"
-last_updated: "2007-12-19"
+last_updated: "2013-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -221,17 +221,27 @@ I. El Gobernador Constitucional del Estado, quien fungirá como Presidente;
 
 II. El Titular de la Consejería Jurídica, quien será el Secretario Ejecutivo;
 
-III. El Titular de la Secretaría de Desarrollo Económico, como Vocal;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+III. El Titular de la Secretaría de Economía, como Vocal;
 
 IV. El Titular de la Secretaría de Gobierno, como Vocal;
 
-V. El Oficial Mayor, como Vocal; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
 
-VI. El Titular de la Secretaría de Finanzas y Planeación, como Vocal.
+V. El Secretario de Administración, como Vocal, y
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+VI. El Titular de la Secretaría de Hacienda, como Vocal.
 
 El Director General y el Comisario participarán en las Sesiones de la Junta Directiva, únicamente con voz, pero sin voto.
 
 Los integrantes de la Junta Directiva durarán en su encargo por todo el tiempo que subsista su designación y sus nombramientos serán honoríficos, debiendo designar a sus respectivos suplentes, en los términos que al efecto determine el Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+Cuando la Presidencia del Órgano de Gobierno, recaiga en la persona que en su sustitución designe el Gobernador Constitucional del Estado y sea también el representante de alguno de los integrantes de la Junta Directiva, aquel designará a un suplente, evitando la circunstancia de emitir dos votos una misma persona.
 
 ###### Artículo 18.
 
@@ -419,7 +429,9 @@ III. El Director General, como Secretario Técnico;
 
 IV. El Titular de la Secretaría de Gobierno, como Vocal;
 
-V. El Titular de la Secretaría de Desarrollo Económico, como Vocal;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
+
+V. El Titular de la Secretaría de Economía, como Vocal;
 
 VI. El Titular de la Secretaría de la Contraloría, como Vocal;
 
@@ -433,7 +445,7 @@ De conformidad con el orden del día de cada sesión, se podrá invitar a person
 
 ###### Artículo 31.
 
-Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán ingreso, renumeración, emolumento, compensación o retribución alguna.
+Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán ingreso, remuneración, emolumento, compensación o retribución alguna.
 
 ###### Artículo 32.
 
@@ -862,3 +874,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE OCTUBRE DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La Comisión Estatal de Mejora Regulatoria, contará con noventa días naturales, contados a partir de la publicación del presente Decreto, para realizar las adecuaciones necesarias a fin de armonizar las disposiciones reglamentarias correspondientes.
