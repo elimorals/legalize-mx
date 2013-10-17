@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-vivienda-del-estado-de-477
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-12"
-last_updated: "2008-11-10"
+last_updated: "2013-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE VIVIENDA DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 17 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 12 de diciembre de 2005.
 
@@ -485,7 +487,7 @@ Finanzas y Reservas
 
 Territoriales
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 10 DE NOVIEMBRE DE 2008.
 
@@ -496,3 +498,23 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Dirección de Administración, Finanzas y Reservas Territoriales participará en el proceso de extinción y traspaso del Fideicomiso Publico Traslativo de Dominio y Garantía denominado "Reservas Territoriales para Programas de Vivienda RH-573", hasta que se concluyan los impedimentos legales que existan para ello, en los términos del Artículo Tercero Transitorio del "Decreto que Extingue el Fideicomiso de Reservas Territoriales para Programas de Vivienda y se autoriza traspasar todos sus activos líquidos y en inmuebles al nuevo Fideicomiso Patrimonial de Reservas Territoriales, que será operado por el Instituto de Vivienda del Estado de Sonora."
+
+B.O. 17 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Vivienda del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, No. 47, Sección IV, de fecha 12 de diciembre de 2005, y su reforma publicada en el Boletín Oficial del Gobierno del Estado No. 38, Sección I, de fecha 10 de noviembre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección de Administración y Finanzas y la Dirección de Reservas Territoriales participarán en el proceso de extinción y traspaso del Fideicomiso Público Traslativo de Dominio y Garantía denominado "Reservas Territoriales para Programas de Vivienda RH-573", hasta que se concluyan los procedimientos legales que existan paro ello, en los términos del Artículo Tercero Transitorio del "Decreto que Extingue el Fideicomiso de Reservas Territoriales para Programas de Vivienda, y se autoriza traspasar todos sus activos líquidos y en inmuebles al nuevo Fideicomiso Patrimonial de Reservas Territoriales, que será operado por la Comisión de Vivienda del Estado de Sonora."
+
+###### ARTÍCULO CUARTO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público de la Comisión deberán expedirse dentro de los sesenta días posteriores a la publicación de este Reglamento Interior en el Boletín Oficial del Gobierno del Estado.
+
+Asimismo, el Director General queda facultado para resolver las cuestiones que en relación con dichos manuales se presenten en tanto se expiden los mencionados manuales administrativos.
