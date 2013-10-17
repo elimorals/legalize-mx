@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2013-09-11"
+last_updated: "2013-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE SEPTIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -2395,7 +2393,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas que no tengan permiso o licencia de funcionamiento deberán tramitarla ante la autoridad municipal correspondiente, del 1 de enero de 2014 al 31 de marzo de 2014.
+TERCERO.- (DEROGADO, G.G. 17 DE OCTUBRE DE 2013)
 
 CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
 
@@ -2426,3 +2424,9 @@ QUINTO.- Se establece un término de diez días naturales posteriores a la insta
 SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 17 DE OCTUBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
