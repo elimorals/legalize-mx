@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-09-11"
+last_updated: "2013-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 11 DE SEPTIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 132 PUBLICADO EN LA G.G. DE 29 DE AGOSTO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6827,7 +6825,7 @@ XIII. Las demás que se establezcan en otras disposiciones legales y administrat
 
 ###### Artículo 7.
 
-53.- Los concesionarios del servicio público auxiliar de depósito y guarda da vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Transporte para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
+53.- Los concesionarios del servicio público auxiliar de depósito y guarda de vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Transporte para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
 
 Asimismo, podrá permitirse a los particulares que acrediten interés jurídico o legítimo, extraer del vehículo, documentación y objetos personales, siempre en presencia del personal autorizado del establecimiento y levantando constancia circunstanciada de dicha disposición.
 
@@ -7033,7 +7031,7 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 67.- Los concesionarios deberán abstenerse de recibir:
 
-I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, y recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza;
+I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, o recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza;
 
 II. Junto con el vehículo, alimentos perecederos, medicamentos a granel, drogas, armas, animales, productos químicos, materiales o residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, mutagénicos o biológico infecciosos y demás productos o mercancías que se encuentren a simple vista, cuya conservación represente un riesgo para la salud o para el ambiente, por su concentración, propiedades químicas o resultados de la descomposición;
 
@@ -7275,7 +7273,7 @@ b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológico
 
 c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
-VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien corneta cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
+VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
 
 IX. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
 
@@ -7289,7 +7287,7 @@ d) Omitir informar de inmediato, a la autoridad ante la cual se encuentren a dis
 
 e) Omitir tener a la vista del público el catalogo de tarifas vigentes.
 
-X. Multa de quinientas a mil veces de salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, al concesionario que por o mediante sus administradores, empleados u operarios, incurra en:
+X. Multa de quinientas a mil veces de salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, al concesionario que por si o mediante sus administradores, empleados u operarios, incurra en:
 
 a) Alterar las tarifas autorizadas;
 
@@ -10921,7 +10919,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica.
+39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11393,7 +11391,7 @@ VII. (DEROGADA, G.G. 24 DE DICIEMBRE DE 2010)
 
 El documento a publicar deberá presentarse en papel membretado, original y copia, y su respaldo magnético, no se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
 
-Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rubrica”, teniendo plena validez jurídica el contenido de la publicación.
+Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rúbrica”, teniendo plena validez jurídica el contenido de la publicación.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -11761,7 +11759,7 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 ###### Artículo 16.
 
-21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecuvio del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
+21.- De aprobarse el Proyecto por parte de la Secretaría, el Ejecutivo del Estado someterá a la aprobación de la Legislatura el desarrollo del Proyecto señalando el presupuesto estimado para dicho Proyecto en todos los ejercicios presupuestales en los que estaría vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -16231,7 +16229,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas que no tengan permiso o licencia de funcionamiento deberán tramitarla ante la autoridad municipal correspondiente, del 1 de enero de 2014 al 31 de marzo de 2014.
+TERCERO.- (DEROGADO, G.G. 17 DE OCTUBRE DE 2013)
 
 CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
 
@@ -16262,3 +16260,9 @@ QUINTO.- Se establece un término de diez días naturales posteriores a la insta
 SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 17 DE OCTUBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
