@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-09-11"
+last_updated: "2013-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 11 DE SEPTIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -705,7 +703,7 @@ Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la rem
 
 > <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
 
-Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a lineamientos legales establecidos para todos los servidores públicos municipales.
+Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
 
 XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
 
@@ -1219,7 +1217,7 @@ VIII. Regularizar la propiedad de los bienes inmuebles municipales, para ello te
 
 > <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
 
-IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquél en que concluyó el proceso de regularización;
+IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquel en que concluyo el proceso de regularización;
 
 > <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
 
@@ -1301,7 +1299,7 @@ e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, c
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-f). Vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
+f). vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
 
 II. Corresponde a los jefes de sector o de sección y de manzana:
 
@@ -1555,7 +1553,7 @@ En cada municipio se establecerá una Unidad Municipal de Protección Civil mism
 
 Las unidades municipales de protección civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
 
-La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de respuesta sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
+La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de repuesta (sic) sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
 
 > <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
 
@@ -2753,7 +2751,7 @@ En cada municipio el ayuntamiento designará, a propuesta del presidente municip
 
 Así mismo podrá nombrar a los oficiales mediadores-conciliadores en materia comunitaria que requiera, los cuales durarán en su cargo tres años con posibilidad a ser nombrados para otros periodos.
 
-La forma de concluir la mediación y la conciliación, será por convenio suscrito o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
+La forma de concluir la mediación y la conciliación, será por convenios suscritos o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2847,7 +2845,7 @@ e) Llevar un libro en donde se asiente todo lo actuado;
 
 f) Expedir a petición de parte, certificaciones de hechos de las actuaciones que realicen;
 
-g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de éste la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
+g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -3913,7 +3911,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas que no tengan permiso o licencia de funcionamiento deberán tramitarla ante la autoridad municipal correspondiente, del 1 de enero de 2014 al 31 de marzo de 2014.
+TERCERO.- (DEROGADO, G.G. 17 DE OCTUBRE DE 2013)
 
 CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
 
@@ -3944,3 +3942,9 @@ QUINTO.- Se establece un término de diez días naturales posteriores a la insta
 SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 17 DE OCTUBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
