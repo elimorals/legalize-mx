@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2013-03-01"
+last_updated: "2013-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 17 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -2048,3 +2050,13 @@ Artículo Segundo. Los efectos de esta Ley serán retroactivos al primero de ene
 Artículo Tercero. A partir del mes de mayo y concluyendo en el mes de octubre del año dos mil trece, la Comisión de Hacienda de la Quincuagésima Séptima Legislatura del Estado de Querétaro, realizará los estudios y análisis técnicos necesarios para los efectos precisados en el considerando 11 de la presente Ley; en ello se tomará en cuenta a los sectores político, económico y social del Estado, a efecto de implementar una reforma integral hacendaria municipal.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía a la presente Ley.
+
+P.O. 17 DE OCTUBRE DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Hacienda de los Municipios del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el 02 de diciembre de 2008.
+
+Artículo Tercero. Las obligaciones derivadas de la Ley de Hacienda de los Municipios del Estado de Querétaro que se abroga conforme al artículo anterior, que se hubieren originado durante su vigencia por la realización de las situaciones jurídicas previstas en dicho ordenamiento, deberán ser cumplidas conforme a lo establecido en la misma y en las demás disposiciones que al efecto resulten aplicables.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
