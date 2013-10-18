@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2011-10-28"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA
+LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -57,9 +57,13 @@ VI.- Conservar y mejorar, el medio ambiente y ecológico en que se desarrolla la
 
 VII.- Promover el respeto y consideración hacia estos animales.
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-VIII.- Proteger la Salud y el bienestar público, controlando la población animal de perros y gatos.
+VIII.- Proteger la Salud y el bienestar público, controlando la población animal de perros y gatos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IX.- Impulsar acciones preventivas que permitan inhibir riesgos en la integridad y vida de las personas por la posesión de especies o animales domésticos cuyas conductas pudieren considerarse peligrosas para el ser humano.
 
 ###### ARTICULO 2º.
 
@@ -75,11 +79,17 @@ Dentro del ámbito de sus respectivas jurisdicciones, corresponde a los Ayuntami
 
 El Estado, los particulares y las sociedades protectoras de animales; así como las demás asociaciones constituídas para ese fin, prestarán su cooperación para efecto de alcanzar los fines que persigue la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 5º.
 
-Los Ayuntamientos en colaboración con el Estado, se encargarán de difundir a través de los medios de comunicación que consideren apropiados y por lo menos una vez al mes, el espíritu y contenido de esta ley; inculcando en el niño, adolescente y adulto, el respeto hacia todas las formas de vida animal y el conocimiento de su relación indispensable con la preservación del medio ambiente.
+Los Ayuntamientos en colaboración con el Estado, se encargarán de difundir a través de los medios de comunicación que consideren apropiados y por lo menos una vez al mes, el espíritu y contenido de esta ley; inculcando en el niño, adolescente y adulto, el respeto hacia todas las formas de vida animal, las acciones preventivas que permitan conocer los posibles riesgos derivados de la posesión de especies o animales domésticos que pudieren ser peligrosas para la vida e integridad de los miembros de la familia y el conocimiento de su relación indispensable con la preservación del medio ambiente.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+De igual manera emprenderán de manera semestral campañas informativas que permitan concientizar a los propietarios o poseedores de especies o animales domésticos, respecto del trato, cuidados, riesgos, razas o especies animales que pudieren representar algún peligro para el ser humano, así como todas aquellas acciones preventivas destinadas a salvaguardar la vida e integridad de las personas, debiendo publicitar la información respectiva en el portal institucional de internet.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 Así mismo se encargarán de realizar por lo menos dos veces al año, campañas gratuitas de esterilización animal para perros y gatos, difundiendo previamente la información necesaria, para que la ciudadanía conozca los beneficios de la esterilización quirúrgica.
 
@@ -159,11 +169,27 @@ Toda persona física o moral que dedique sus actividades a la cría de animales,
 
 Las actividades de cría de animales deberán desarrollarse en instalaciones o predios, cuyo suelo no esté destinado para casa-habitación, industria, comercio o actividades similares.
 
-### CAPITULO IV. DE LOS ANIMALES PARA ESPECTACULOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO IV. DE LOS ANIMALES PARA EXHIBICION O ESPECTACULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 17.
 
-Todos los animales que por su naturaleza representen un peligro para el público, deberán estar encerrados en jaulas seguras y diseñadas conforme a las características que presenten; y si es necesario, serán sujetados por una cadena.
+Todo propietario, poseedor o encargado de animales para exhibición o espectáculos deberá contar con las autorizaciones correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Las exhibiciones o espectáculos con animales deberán realizarse en condiciones adecuadas que garanticen un trato digno a las especies animales así como el respeto y cumplimiento de las normas en materia de higiene, seguridad y protección civil que establezcan las normas jurídicas correspondientes así como las normas oficiales mexicanas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Todos los animales que por su naturaleza representen un riesgo o peligro para el público, deberán estar encerrados en jaulas seguras y diseñadas conforme a las características de cada especie, y en su caso, de ser necesario, serán sujetados adicionalmente por cadenas que permitan proteger la vida e integridad de las personas durante la exhibición o espectáculo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Los propietarios o poseedores de los animales referidos en el párrafo anterior, además del permiso, autorización o anuencia que establecen las autoridades municipales correspondientes, deberán dar aviso del ingreso al Estado y Municipio de que se trate respecto de animales para exhibición o espectáculos a las autoridades en materia de protección civil describiendo las condiciones generales de cada animal así actividades (sic) de traslado de animales para exhibición, espectáculos públicos o privados. Las autoridades en materia de protección civil, vigilarán y supervisarán de manera subsidiaria que se cuente con las medidas de seguridad civil correspondientes, y en su caso, ejercerán las acciones preventivas para evitar riesgos o peligros a la población, debiendo en todo caso motivar y fundar sus determinaciones.
 
 ###### ARTICULO 18.
 
@@ -395,6 +421,72 @@ Para efectos de determinar el monto total de la multa, la autoridad municipal co
 
 Es materia del Reglamento, señalar la forma en que se sancionarán los casos de reincidencia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO XI. DEL REGISTRO DE EJEMPLARES CANINOS POTENCIALMENTE PELIGROSO (SIC)
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 60.
+
+Se establece la regulación de la tenencia y el Registro de Ejemplares Caninos Potencialmente Peligrosos para el Estado de Baja California, con el fin de proteger la integridad de las personas, la salubridad pública y el bienestar propio del ejemplar canino.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 61.
+
+La tenencia de ejemplares caninos en las viviendas urbanas y rurales requiere que las circunstancias de su alojamiento en el aspecto higiénico y sanitario, que los alimentos y su custodia, sean las adecuadas, y que no se produzca ninguna situación de peligro o incomodidad para los vecinos u otras personas en general, o para el propio animal.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 62.
+
+Se considerarán ejemplares caninos potencialmente peligrosos aquellos que pertenezcan a alguna de las siguientes razas o sus cruzas o híbridos: AMERICAN STAFFORDSHIRE TERRIER, BULLMASTIFF, DOBERMAN, PIT BULL TERRIER, AMERICAN PIT BULL TERRIER, ROTTWEILER, STAFFORSHIRE TERRIER.
+
+El propietario de un canino potencialmente peligroso asume la posición de garante de los riesgos que puedan ocasionar por la sola tenencia de estos animales y por los perjuicios y las molestias que ocasione a las personas, a los espacios públicos y al medio natural en general.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 63.
+
+Todos los ejemplares caninos que pertenezcan a la categoría establecida en los artículos anteriores de este Capítulo, deben ser registrados en el Registro de Ejemplares Caninos Potencialmente Peligrosos que se establecerá de acuerdo al reglamento expedido por la autoridad municipal correspondiente, para obtener la respectiva licencia.
+
+Este registro deberá constar necesariamente:
+
+1.- Nombre del ejemplar canino;
+
+2.- Identificación y lugar de ubicación de su propietario;
+
+3.- Una descripción que contemple las características fenotípicas del ejemplar que hagan posible su identificación;
+
+4.- El lugar habitual de residencia del animal, especificando si esta designado a convivir con los seres humanos o si será destinado a la guarda, protección u otra tarea específica.
+
+Será obligatorio renovar el registro anualmente, para lo cual se deberán acreditar los requisitos establecidos para la primera vez.
+
+En este registro se anotarán también las multas o sanciones que tengan lugar, y los incidentes de ataque en que se involucre el animal.
+
+Una vez registrado el ejemplar la autoridad municipal responsable expedirá el respectivo permiso para poseer esta clase de perros. Este permiso podrá ser requerido en cualquier momento por la autoridad municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 64.
+
+Toda compra, venta, traspaso, donación o cualquier cesión de derecho de propiedad sobre el ejemplar canino clasificado como potencialmente peligroso deberá anotarse en su registro individual del Registro de Ejemplares Caninos Potencialmente Peligrosos, y en caso de cambio de municipalidad del ejemplar se deberá inscribir nuevamente en donde se ubique su nuevo lugar de residencia, aportando copia del registro anterior.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 65.
+
+Si un canino potencialmente peligroso ataca a otra mascota, su propietario será sancionado por la autoridad municipal de acuerdo al reglamento que expida para tal efecto.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 66.
+
+Si un canino potencialmente peligroso ataca a una persona ocasionándole lesiones permanentes de cualquier tipo, se procederá al decomiso del animal por parte de la autoridad municipal.
+
+Se autoriza a los municipios para definir las tarifas que se cobrarán a los propietarios por efecto de ser registrados los ejemplares caninos en el Registro de Caninos Potencialmente Peligrosos, la expedición del permiso correspondiente, así como las condiciones por las cuales se suspenda o cancele el permiso para poseer ejemplares caninos potencialmente peligrosos.
+
 T R A N S I T O R I O S:
 
 ###### ARTICULO PRIMERO.
@@ -444,3 +536,9 @@ P.O. 28 DE OCTUBRE DE 2011.
 PRIMERO.- La presente reforma entra en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Los Ayuntamientos del Estado tendrán un plazo de 90 días naturales para adecuar su marco jurídico.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
