@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-2024
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-02"
-last_updated: "2001-03-02"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el día 2 de marzo de 2001.
 
@@ -65,7 +65,9 @@ c) Ambiente sano: conjunto de elementos naturales y artificiales que posibilitan
 
 d) Promoción de las garantías individuales y sociales: las actividades que procuren su respeto y observancia, defensa y promoción de los derechos humanos, la readaptación social y, en general, los apoyos para el ejercicio pleno de tales garantías;
 
-e) Mejoramiento de la situación social de la mujer: las acciones que propicien, fortalezcan y garanticen la igualdad social y jurídica entre los hombres y mujeres, y las que promuevan una cultura de equidad en la relación entre los sexos;
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+e) Mejoramiento de la situación social de la mujer: Es el proceso de transformación social tendiente al logro de la igualdad entre mujeres y hombres, mediante la incorporación de la perspectiva de género en las acciones de las entidades de los sectores público, privado y de la sociedad civil organizada.
 
 f) Beneficencia y asistencia social: al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social y psicológico que impidan el desarrollo integral del ser humano, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva;
 
@@ -115,9 +117,21 @@ IX. Aportar recursos humanos, materiales o de servicios para la salud integral d
 
 X. Promover actividades económicas con el propósito de aportar en forma íntegra sus rendimientos a favor del desarrollo social y cultural;
 
-XI. Fortalecer y proteger el ejercicio de los derechos humanos, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XII. Las demás actividades vinculadas al bienestar y al desarrollo social.
+XI. Fortalecer y proteger el ejercicio de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XII. Fomentar y promover acciones orientadas al acceso de las mujeres a los ámbitos del desarrollo del estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIII. Proponer al Gobierno del Estado las acciones necesarias para la incorporación de la perspectiva de género dentro de las políticas públicas, así como las que resulten adecuadas para su incorporación en las funciones de las dependencias a su cargo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIV. Las demás actividades vinculadas al bienestar y al desarrollo social.
 
 ###### ARTICULO 5.
 
@@ -219,7 +233,7 @@ V. Remitir al Consejo el programa de actividades y destino de los recursos públ
 
 VI. Solicitar a los ayuntamientos del Estado información de los proyectos de las organizaciones, apoyados por estas instancias de gobierno, a efecto de que realice una distribución más equitativa de los recursos a los que se refiere esta Ley;
 
-VII. Emitir el dictamen, que determine la distribución de los recursos públicos estatales, con base en los dispuesto en las fracciones V y VI de este artículo y a la necesidad real de fomentar alguna actividad en forma prioritaria, fundando y motivando este último requisito;
+VII. Emitir el dictamen, que determine la distribución de los recursos públicos estatales, con base en lo dispuesto en las fracciones V y VI de este artículo y a la necesidad real de fomentar alguna actividad en forma prioritaria, fundando y motivando este último requisito;
 
 VIII. Aplicar los lineamientos generales aprobados por el Consejo, para lograr el fomento y estímulo que permitan que las organizaciones accedan con oportunidad y eficiencia a los recursos disponibles para la realización de las acciones de bienestar y desarrollo social;
 
@@ -528,3 +542,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
