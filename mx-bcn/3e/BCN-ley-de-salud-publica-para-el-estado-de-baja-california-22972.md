@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-04-12"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -189,13 +189,17 @@ XXVI.- La atención médica geriátrica a las personas adultas mayores de 65 añ
 
 XXVII.- El programa para la atención médica de la Insuficiencia Renal;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire; y
+XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XXIX.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XXIX.- El programa para la atención médica de neoplasias; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXX.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -643,9 +647,11 @@ La Secretaría de Salud del Estado coadyuvará con la federación para instrumen
 
 #### SECCION V. DE LA SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-La prevención de las enfermedades mentales tiene carácter prioritario; se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La prevención de las enfermedades mentales tiene carácter prioritario; se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales y de las discapacidades que estas generan, así como otros aspectos relacionados con la salud mental.
 
 ###### ARTÍCULO 30.
 
@@ -1017,9 +1023,13 @@ ARTICULO 50 QUARTER 1.- Para el cumplimiento del objeto de la atención geriátr
 
 I.- Fomentar la creación y capacitación de recursos humanos especializados en materia de geriatría y en aquellas actividades complementarias y de apoyo mediante la creación e implementación de programas y cursos especializados.
 
-II.-Desarrollar e impulsar estudios e investigaciones en materia de geriatría.
+II.- Desarrollar e impulsar estudios e investigaciones en materia de geriatría.
 
-III.-Desarrollar las actividades necesarias para el cumplimiento de los fines en materia de atención geriátrica a pacientes mayores de 65 años de edad.
+III.- Desarrollar las actividades necesarias para el cumplimiento de los fines en materia de atención geriátrica a pacientes mayores de 65 años de edad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IV.- Desarrollar y aplicar acciones de prevención, tratamiento y rehabilitación de la discapacidad por razón de edad.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
@@ -1027,7 +1037,7 @@ III.-Desarrollar las actividades necesarias para el cumplimiento de los fines en
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-ARTÍCULO 50 QUINQUES (SIC).- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Publica en el Estado.
+ARTÍCULO 50 QUINQUES (SIC).- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Pública en el Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -1047,13 +1057,27 @@ IV.- El tratamiento de la Insuficiencia Renal, y
 
 V.- Las demás que sean necesarias para la atención medica de la Insuficiencia Renal que se presenten en la población.
 
-#### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-#### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+#### SECCIÓN XIV. DEL PROGRAMA PARA LA ATENCIÓN MÉDICA DE NEOPLASIAS
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 50 SEPTIES.- Las autoridades sanitarias, promoverán en el Estado, el programa para la atención médica de neoplasias, el cual comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de neoplasias mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad;
+
+II.- La detección oportuna de neoplasias;
+
+III.- El tratamiento de neoplasias, y
+
+IV.- Las demás que sean necesarias para su debida atención médica.
+
+#### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
 ### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-#### SECCION III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DE PERSONAL
+#### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTÍCULO 51.
 
@@ -1097,7 +1121,7 @@ El número de registro deberá consignarse en los documentos y papelería utiliz
 
 La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
-#### SECCION I. DE LAS ENFERMEDADES TRANSMISIBLES
+#### SECCION III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DE PERSONAL
 
 ###### ARTÍCULO 57.
 
@@ -1113,6 +1137,10 @@ La operación de los programas de servicio social en los establecimientos de sal
 
 Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las Autoridades de Salud, Educativas, instituciones de educación superior y con el sector social y privado en su caso.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Las autoridades Sanitarias del Estado; así como las Dependencias y Entidades Públicas del Sistema Estatal de Salud; considerarán en los Convenios Específicos de Coordinación y en los Programas Educativos y Operativos de Servicio Social, para los pasantes de las diversas profesiones de la salud en formación adscritos al Sector Salud del Estado; apoyos sociales de carácter económicos y otras prestaciones consistentes en becas decorosas y remunerativas, alimentación, uniformes, áreas de estancia y descanso, servicios médicos, así como transporte a efecto de que realicen sus labores profesionales al servicio de la salud pública en condiciones dignas.
+
 ###### ARTÍCULO 60.
 
 La prestación del servicio social de los pasantes de las profesiones para la salud, se realizará preferentemente en unidades de primer nivel de atención y prioritariamente en áreas de menor desarrollo económico y social.
@@ -1121,7 +1149,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
+#### SECCION I. DE LAS ENFERMEDADES TRANSMISIBLES
 
 ###### ARTÍCULO 62.
 
@@ -1217,7 +1245,7 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION III. DE LOS ACCIDENTES
+#### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 73.
 
@@ -1343,9 +1371,7 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+#### SECCION III. DE LOS ACCIDENTES
 
 ###### ARTÍCULO 89.
 
@@ -1373,7 +1399,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
+#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 92.
 
@@ -1395,7 +1423,13 @@ V.- La atención de los padecimientos que se produzcan como consecuencia de ello
 
 VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
 
-### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO OCTAVO. DE LA PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 #### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
@@ -1453,13 +1487,11 @@ IX.- Las demás acciones, políticas y estrategias que determinen las autoridade
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
-
 ### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
 ###### ARTÍCULO 94.
 
-Para los efectos de esta Ley, se entiende por discapacidad o capacidades diferentes la limitación de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
+Para los efectos de esta Ley, se entiende por discapacidad como toda restricción o ausencia de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales, debido a la consecuencia de una insuficiencia somática, psicológica o social.
 
 ###### ARTÍCULO 95.
 
@@ -1511,7 +1543,7 @@ V.- Recabar cualquier otra información que se estime necesaria para la prevenci
 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 99.
 
@@ -1539,7 +1571,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION IV. DE LA LIMPIEZA PUBLICA
+#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
 
 ###### ARTÍCULO 102.
 
@@ -1571,7 +1603,7 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
+#### SECCION IV. DE LA LIMPIEZA PUBLICA
 
 ###### ARTÍCULO 105.
 
@@ -1599,13 +1631,13 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
+#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
+#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 ### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 107.
 
@@ -1627,9 +1659,7 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 112.
 
@@ -1649,7 +1679,9 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 114.
 
@@ -1713,11 +1745,7 @@ Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntami
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
-
-(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 120.
 
@@ -1731,7 +1759,9 @@ La basura deberá ser manejada en su destino final como relleno sanitario o dest
 
 El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
+
+(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1773,9 +1803,9 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo humano, están obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 132.
 
@@ -1803,7 +1833,9 @@ Para abrir los servicios al público, los establecimientos señalados en el art�
 
 La actividad de los establecimientos señalados en la presente sección está sujeta a lo dispuesto por esta Ley y la normatividad aplicable.
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1812,6 +1844,8 @@ Para los efectos de esta Ley, se entiende por centros de reunión, todas aquella
 ###### ARTÍCULO 139.
 
 La Autoridad Sanitaria competente una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta Ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 140.
 
@@ -2756,3 +2790,27 @@ DECRETO No. 438, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO Y TERC
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 574, POR EL QUE SE APRUEBA LA REFORMA A LAS FRACCIONES XXVIII, XXIX Y LA ADICIÓN DE LA FRACCIÓN XXX AL ARTÍCULO 4, Y LA ADICIÓN DE UNA SECCIÓN XIV, DENOMINADA "DEL PROGRAMA PARA LA ATENCIÓN MÉDICA DE NEOPLASIAS" ASÍ COMO DEL ARTÍCULO 50 SEPTIES A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir del ejercicio fiscal de 2014, se preverán los recursos necesarios en los presupuestos de egresos correspondientes, a fin de garantizar la implementación del programa a que se refiere la presente reforma.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 577, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 29, 50 QUARTER 1 Y 94, ASÍ COMO LA MODIFICACIÓN A LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 578, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 59 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Túrnese a la Secretaría de Salud del Estado, a fin de que realice el estudio financiero y económico respectivo que soporte el gasto público para el apoyo económico y en especie a los pasantes de la profesión de la salud en formación, adscritos al sector salud, a fin de que sea considerado en el Ejercicio Presupuestario del año 2014 de esa Dependencia.
