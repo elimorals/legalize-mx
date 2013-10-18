@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2013-06-07"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -57,9 +57,13 @@ IV.- Las autoridades competentes y los procedimientos para aplicar dichas sancio
 
 V.- La declaración de situación patrimonial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-Son servidores públicos los mencionados en los artículos 122 y 126 de la Constitución Política para el Estado de Guanajuato, quienes deberán conducirse con legalidad, honradez, lealtad, transparencia, imparcialidad y eficacia en el desempeño de sus empleos, cargos o comisiones. Serán sujetos de responsabilidad administrativa cuando incumplan las obligaciones o incurran en las conductas prohibidas señaladas en esta Ley, así como aquéllas que deriven de otras leyes y reglamentos, con las salvedades establecidas en la presente Ley.
+Son servidores públicos los mencionados en los artículos 122 y 126 de la Constitución Política para el Estado de Guanajuato, así como todas aquellas personas que manejen, administren o apliquen recursos públicos estatales, municipales, o federales, concertados o convenidos por el Estado con la Federación o con municipios; quienes deberán conducirse con legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus empleos, cargos o comisiones. Serán sujetos de responsabilidad administrativa y resarcitoria cuando incumplan las obligaciones o incurran en las conductas prohibidas señaladas en esta ley, así como aquéllas que deriven de otras leyes y reglamentos, con las salvedades establecidas en la presente ley.
 
 Las disposiciones contenidas en la presente Ley serán aplicables a los servidores públicos en el ejercicio de sus funciones, así como a las personas que hubieren ocupado un empleo, cargo o comisión dentro del servicio público, con las salvedades que esta Ley establezca.
 
@@ -71,7 +75,9 @@ I.- El Poder Ejecutivo del Estado;
 
 II.- El Poder Legislativo del Estado;
 
-III.- El Poder Judicial del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2013)
 
 IV.- Los Organismos Autónomos;
 
@@ -79,19 +85,37 @@ V.- Los Ayuntamientos, y
 
 VI.- Las Dependencias y Entidades de la Administración Pública Estatal o Municipal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Articulo 4.
+
+A los servidores públicos de la Administración Pública Estatal se les instaurará, sustanciará y resolverá el procedimiento de responsabilidad administrativa previsto en esta ley y en su caso, se les aplicarán las sanciones que correspondan, por conducto de la Secretaría de la Transparencia y Rendición de Cuentas, quien tendrá competencia alternativa y facultad de atracción de aquellos asuntos que por su naturaleza revistan interés para la administración pública estatal.
+
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### Artículo 4.
-
-A los servidores públicos de la administración pública estatal se les instaurará y sustanciará el procedimiento de responsabilidad administrativa previsto en esta ley y se les aplicarán las sanciones que correspondan, por conducto de la Secretaría de la Transparencia y Rendición de Cuentas, con las salvedades establecidas en este artículo.
 
 El Gobernador del Estado instaurará y sustanciará el procedimiento de responsabilidad administrativa y aplicará las sanciones respectivas al titular de la Secretaría de la Transparencia y Rendición de Cuentas.
 
-Los titulares de las dependencias y entidades podrán instaurar, sustanciar y resolver el procedimiento de responsabilidad administrativa, así como aplicar las sanciones correspondientes, cuando se trate de faltas administrativas detectadas por dichas dependencias o entidades, informando en todo momento a la Secretaría de la Transparencia y Rendición de Cuentas de la instauración, sustanciación y conclusión del mismo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Las dependencias y entidades deberán, previa comunicación que realicen a la Secretaría de la Transparencia y Rendición de Cuentas, instaurar, sustanciar y resolver el procedimiento de responsabilidad administrativa, así como aplicar las sanciones correspondientes, cuando se trate de faltas administrativas vinculadas a sus competencias y atribuciones.
 
 La Secretaría de la Transparencia y Rendición de Cuentas, sin perjuicio de lo establecido en el párrafo anterior, podrá atraer el conocimiento de aquellos asuntos que por su naturaleza revistan interés para la administración pública estatal.
 
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE REFORMAS AL PRESENTE ARTÍCULO, PUBLICADAS EN EL P.O. 18 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE INTEGRA POR CINCO PÁRRAFOS, EN LA INTELIGENCIA DE QUE EL CONTENIDO DE ÉSTE, ES SIMILAR AL QUE LO ANTECEDE.
+
 Cuando la Secretaría de la Transparencia y Rendición de Cuentas ejerza la facultad de atracción, los titulares de las dependencias y entidades deberán remitir a aquélla, en un término de diez días hábiles, un informe de los antecedentes del asunto y de todo lo actuado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 4 Bis.
+
+La Secretaría de la Transparencia y Rendición de Cuentas será competente para fincar responsabilidades resarcitorias a los integrantes de los ayuntamientos y demás servidores públicos municipales, cuando detecte irregularidades derivadas de actos u omisiones de éstos, en el manejo, decisión, autorización, recepción, aplicación o administración de recursos públicos del Estado o de aquellos concertados o convenidos con la Federación y los municipios, que se traduzcan en daños y perjuicios causados a la Hacienda Pública del Estado o al patrimonio de sus entidades.
 
 ###### Artículo 5.
 
@@ -123,9 +147,13 @@ El Ayuntamiento instaurará y sustanciará el procedimiento de responsabilidad a
 
 El Estado y los municipios, de conformidad con las leyes aplicables, podrán celebrar entre sí o con la Federación, dentro de su ámbito de competencia, convenios o acuerdos de coordinación para fortalecer la prevención, la transparencia y el cabal cumplimiento de las responsabilidades administrativas de los servidores públicos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 10.
 
-En la aplicación de la presente Ley, deberá estarse siempre a lo que sea más favorable al sujeto a procedimiento de responsabilidad administrativa y se presumirá siempre la no responsabilidad administrativa del servidor público.
+En la aplicación de la presente Ley, deberá estarse siempre a lo que sea más favorable al sujeto a procedimiento de responsabilidad administrativa y se presumirá siempre la no responsabilidad del servidor público, con las salvedades que esta Ley dispone.
 
 ## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -135,9 +163,17 @@ En la aplicación de la presente Ley, deberá estarse siempre a lo que sea más 
 
 Son obligaciones de los servidores públicos:
 
-I.- Cumplir diligentemente y con probidad las funciones y trabajos propios del cargo, así como aquéllas que les sean encomendadas por sus superiores en ejercicio de sus facultades;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Formular y ejecutar, en su caso, los planes, programas y presupuestos correspondientes a su competencia;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+I.- Cumplir diligentemente y con probidad las funciones y trabajos propios del empleo, cargo o comisión, así como aquéllas que les sean encomendadas por sus superiores en ejercicio de sus facultades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II.- Formular y ejecutar, los planes, programas y presupuestos correspondientes a su competencia, y cumplir la normatividad que determine el manejo de recursos económicos públicos estatales, municipales o concertados o convenidos por el Estado o sus municipios con la Federación;
 
 III.- Respetar el derecho de petición de los particulares en los términos del artículo 8º de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -151,7 +187,17 @@ VI.- Respetar el derecho de acceso a la información pública en los términos d
 
 VII.- Guardar el orden en el trabajo y tratar con respeto, diligencia, imparcialidad y rectitud a todas aquellas personas con las que tenga relación en el desempeño de éste;
 
-VIII.- Excusarse de intervenir en asuntos propios del cargo, empleo o comisión, cuando tenga interés personal, económico, de negocio o familiar por matrimonio, parentesco consanguíneo en línea recta o por afinidad hasta el segundo grado y colateral hasta el cuarto grado, o civil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+VIII.- Excusarse de intervenir, por motivo de su encargo, en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+El servidor público deberá informar por escrito al jefe inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia el párrafo anterior y que sean de su conocimiento, y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
 
 IX.- Conducirse con veracidad en el otorgamiento de toda clase de información;
 
@@ -159,19 +205,29 @@ X.- Denunciar los hechos probablemente delictuosos cometidos por servidores púb
 
 XI.- Guardar reserva de la información a que tenga acceso por su función, la que exclusivamente deberá ser usada para los fines a que esté afecta;
 
-XII.- Realizar la entrega–recepción de los recursos, documentación, bienes y asuntos en trámite de la unidad administrativa a su cargo, de conformidad con las normas y disposiciones vigentes en la materia;
+XII.- Realizar la entrega-recepción de los recursos, documentación, bienes y asuntos en trámite de la unidad administrativa a su cargo, de conformidad con las normas y disposiciones vigentes en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII.- Dar seguimiento al cumplimiento de los trabajos externos realizados por terceros, cuando éstos sean contratados o convenidos con recursos públicos e informar su incumplimiento al órgano de control;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XIV.- Proporcionar en forma oportuna, la información y datos solicitados por las instituciones a las que legalmente les competa la vigilancia y defensa de los derechos humanos, a efecto de que éstas puedan cumplir con sus atribuciones;
+XIII.- Supervisar el cumplimiento de los contratos y convenios, en materia de adquisiciones, obra pública y servicios relacionados con la misma y servicios profesionales en los términos estipulados; e informar su incumplimiento al órgano de control;
 
-XV.- Cumplir y hacer cumplir, dentro de su competencia, las resoluciones que emitan las autoridades de la Federación, del Estado y de los municipios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-Esta obligación se entenderá para el servidor público directamente obligado y para el titular de la dependencia o superior jerárquico.
+XIV.- Proporcionar en forma oportuna, conforme a la normatividad aplicable y al ámbito de sus competencias, la información y datos solicitados por las instituciones a las que legalmente les competa la vigilancia y defensa de los derechos humanos, a efecto de que éstas puedan cumplir con sus atribuciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XV.- Cumplir y hacer cumplir, dentro de su competencia, los requerimientos que emitan las autoridades de la Federación, del Estado y de los municipios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -189,33 +245,69 @@ XX.- Abstenerse de nombrar o contratar personas inhabilitadas para ejercer un em
 
 XXI.- Resarcir los daños ocasionados a la hacienda pública, así como los derivados de responsabilidad patrimonial, y
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXII.- Las que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXII.- Proporcionar oportunamente ante las autoridades competentes, la documentación comprobatoria de la aplicación de recursos económicos federales, estatales o municipales, asignados a través de los programas o convenios respectivos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXIII.- Abstenerse de cualquier acto u omisión que implique la subutilización de bienes o recursos públicos, así como su desvío para propósitos distintos a los autorizados, o su permanencia en calidad de ociosos; y
+
+N. DE E., DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 18 DE OCTUBRE DE 2013, SE OBSERVA QUE SE AGREGÓ ESTA FRACCIÓN.
+
+XXIV.- Las que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
 
 ###### Artículo 12.
 
 Se prohíbe a los servidores públicos:
 
-I.- Solicitar, exigir, aceptar o recibir por sí o por interpósita persona, por cualquier motivo, prestaciones, servicios, dinero o cualquier otro bien, que no estén previstos en leyes o reglamentos, aprovechándose del cargo que se ostente; la misma conducta se sancionará cuando se trate específicamente de la adjudicación de contratos de obra pública y servicios relacionados con la misma;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Solicitar, exigir, aceptar o recibir por sí o por interpósita persona, dinero u objetos mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario; o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción III de este artículo, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+I.- Solicitar, exigir, aceptar o recibir, o pretender obtener beneficios adicionales a las contraprestaciones comprobables que obtenga en razón de su empleo, cargo o comisión público, tanto para él, como para las personas a las que se refiere el primer párrafo de la fracción VIII del artículo 11 de esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II.- Solicitar, exigir, aceptar o recibir por sí o por interpósita persona, dinero, bienes o servicios, mediante enajenación a su favor en precio notoriamente inferior al que tenga en el mercado ordinario; o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere el primer párrafo de la fracción VIII del artículo 11 de esta Ley, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto.
 
 Habrá intereses en conflicto cuando las actividades personales, familiares, profesionales o de negocios del servidor público puedan influir en su imparcialidad, independencia o lealtad en el desempeño o ejercicio de las atribuciones o funciones propias de su empleo, cargo o comisión;
 
-III.- Nombrar, contratar, proponer o promover como servidores públicos al cónyuge, concubina o concubinario o con quienes tenga parentesco consanguíneo en línea recta sin limitación de grado, colateral hasta el cuarto grado, por afinidad hasta el segundo grado o civil y que por razón de su adscripción dependan jerárquicamente de la unidad administrativa de la que sea titular, salvo cuando se trate de un derecho previamente adquirido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En un mismo empleo, cargo o comisión públicos, no podrán ejercer funciones en relación jerárquica directa, personas ligadas por matrimonio, concubinato o parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, respectivamente; salvo lo dispuesto en el párrafo siguiente, o bien, que el ingreso al servicio público se haya originado a través de un concurso por oposición.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+III.- Intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, rescisión del contrato o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, o pueda derivar alguna ventaja o beneficio indebido para él o para las personas a las que se refiere el primer párrafo de la fracción VIII del artículo 11 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+En un mismo empleo, cargo o comisión públicos, no podrán ejercer funciones ligadas por matrimonio, concubinato o parentesco por consanguinidad o afinidad hasta el cuarto grado, o civil o con terceros con quien tenga relaciones profesionales, laborales o de negocios; salvo lo dispuesto en el párrafo siguiente, o bien, que el ingreso al servicio público se haya originado a través de un concurso por oposición.
 
 Cuando al asumir el servidor público el empleo, cargo o comisión públicos de que se trate, ya se encontrare en ejercicio de una función o responsabilidad pública el familiar comprendido dentro de la restricción prevista en esta fracción, deberán preservarse los derechos previamente adquiridos por este último. En este caso, el efecto del impedimento será excusarse de intervenir, en cualquier forma, respecto de la situación laboral de su familiar;
 
-IV.- Intervenir por sí, por interpósita persona o por medio de empresas en las que participen su cónyuge, concubinario o concubina, o personas con quienes tenga parentesco consanguíneo en línea recta o por afinidad hasta el segundo grado y colateral hasta el cuarto grado, civil, o terceros con quienes tenga relación de carácter laboral o de negocios, en contrataciones de asesorías, estudios e investigaciones, obras públicas, concesiones de servicios e infraestructura pública, adquisiciones o arrendamientos de bienes muebles o inmuebles y servicios, independientemente del origen de los recursos presupuestales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IV.- Intervenir por sí o por medio de empresas en las que participen las personas a las que se refiere el primer párrafo de la fracción VIII del artículo 11 de esta Ley, en contrataciones o concesiones de cualquier tipo con las autoridades señaladas en el artículo 3 de esta Ley; esto siempre y cuando la contratación se realice con la misma entidad o dependencia de la que el servidor público forme o haya formado parte por virtud de contrato, empleo, cargo o comisión;
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 V.- Inhibir por sí o por interpósita persona, a los posibles quejosos o denunciantes, así como a cualquier persona que pudiere aportar información en los procedimientos establecidos en la presente Ley, con el fin de evitar la formulación o presentación de denuncias, o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de las personas antes mencionadas;
 
-VI.- Realizar por sí o inducir a otro servidor público para que anticipe, retrase u omita la realización de algún acto de su competencia, con objeto de que le reporte algún beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción III de este artículo; o bien, cuando con dichas conductas le ocasione daño o perjuicio a un tercero;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+VI.- Realizar por sí o inducir a otro servidor público para que anticipe, retrase u omita la realización de algún acto de su competencia, con objeto de que le reporte algún beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere el primer párrafo de la fracción VIII del artículo 11 de esta Ley; o bien, cuando con dichas conductas le ocasione daño o perjuicio a un tercero;
 
 VII.- Dirigir, administrar, asesorar, patrocinar, representar o prestar servicios remunerados a personas físicas o morales que gestionen o exploten contratos, convenios o concesiones con algunas de las autoridades señaladas en el artículo 3 de esta Ley, o que fueren proveedores o contratistas de las mismas, que implique intereses en conflicto;
 
@@ -229,9 +321,17 @@ IX.- Realizar cualquier conducta de coacción psicológica, física o verbal, qu
 
 X.- Causar, con sus acciones u omisiones, violación a los derechos de los trabajadores, y
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI.- Las demás que se deriven de estas y otras leyes, reglamentos y demás disposiciones normativas.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XI.- Adquirir para sí o para las personas a que se refiere el primer párrafo de la fracción VIII del artículo 11 de esta Ley, bienes inmuebles que pudieren incrementar su valor o, en general, que mejoren sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su contrato, empleo, cargo o comisión. Esta restricción será aplicable dentro de los tres años siguientes que el servidor público haya concluido su contrato o se haya retirado del empleo, cargo o comisión; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XII.- Las demás que se deriven de esta y otras leyes, reglamentos y demás disposiciones normativas.
 
 ### CAPÍTULO II. DE LAS SANCIONES POR RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -243,7 +343,11 @@ Las sanciones por la comisión de faltas administrativas consistirán en:
 
 I.- Amonestación;
 
-II.- Multa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II.- Sanción económica;
 
 III.- Suspensión;
 
@@ -251,21 +355,23 @@ IV.- Destitución, y
 
 V.- Inhabilitación.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las sanciones señaladas en las fracciones antes descritas, podrán ser impuestas conjuntamente o de manera independiente, según la naturaleza y gravedad de las conductas realizadas por los servidores públicos.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Las sanciones señaladas en las fracciones antes descritas, podrán ser impuestas conjuntamente o de manera independiente, según la naturaleza y gravedad de las conductas realizadas por los servidores públicos, observando en todo caso lo dispuesto por los artículos 21, 22 y 23 de esta Ley.
 
 ###### Artículo 14.
 
 La amonestación consiste en la constancia por escrito que se deja en el expediente del trabajador, sobre la llamada de atención o advertencia que se le formula para que no incurra en otra falta administrativa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-La multa consiste en el pago al Estado o al Municipio de una suma de dinero que se fije por días multa. El día multa equivale al salario mínimo general vigente en el Estado al momento de cometerse la falta.
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-La multa podrá ser de tres a seiscientos días y su monto se hará efectivo a través del procedimiento administrativo de ejecución previsto para los créditos fiscales.
+La sanción económica consiste en el pago al Estado o al municipio de una suma de dinero que deberá fijarse de acuerdo a los daños a las personas o a sus bienes, a los beneficios de carácter patrimonial o económico, lucro o cualquier tipo de ventaja que haya obtenido el servidor público para sí o para cualquiera de las personas señaladas en el primer párrafo de la fracción VIII del artículo 11, o a los daños o perjuicios a alguna de las autoridades previstas en el artículo 3, sin que en ningún caso exceda de tres tantos de aquéllos.
 
 ###### Artículo 16.
 
@@ -319,57 +425,69 @@ Se considerarán conductas graves, las contravenciones a las disposiciones de es
 
 Asimismo se considerará grave el incumplimiento a las obligaciones previstas en el artículo 11 o por incurrir en las conductas prohibidas por el artículo 12 de esta Ley, cuando el servidor público haya sido previamente declarado responsable por otra falta administrativa, dentro del año anterior al día de la comisión de la conducta grave.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 22.
 
-Las sanciones por el incumplimiento de obligaciones o por incurrir en conductas prohibidas, se impondrán atendiendo a lo siguiente:
+Las sanciones por el incumplimiento de obligaciones o por incurrir en conductas prohibidas, tratándose de servidores públicos en activo, se impondrán atendiendo a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+I.- Amonestación en los casos de infringir cualquiera de los supuestos de las fracciones I, IV, VII, IX, X, XII o XIV del artículo 11 de esta Ley;
 
-I. Amonestación en los casos de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y en el primer supuesto de la fracción V y X del artículo 12 de esta Ley;
+II.- Suspensión en los casos de infringir cualquiera de los supuestos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII del artículo 11 o incurrir en cualquiera de las conductas de las fracciones III, V, VI, VII, VIII, X y XII del artículo 12 de esta ley;
 
-II. Suspensión de tres días a seis meses en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+III.- Destitución e inhabilitación de uno a veinte años, cuando se incurra en alguna de las conductas de las fracciones I, II, IV y XI del artículo 12 de esta Ley; y
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+IV.- Sanción económica en caso de incurrir en alguna conducta que se considere grave en términos del artículo 21 de esta Ley, conforme a lo siguiente:
 
-III. Destitución e inhabilitación de seis meses a un año, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley.
+a) Se aplicará una sanción económica de un tanto un tercio hasta un tanto un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea menor o igual a 500 salarios mínimos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+b) Se aplicará una sanción económica mayor a un tanto un medio hasta dos tantos un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a 500 salarios mínimos pero que no rebase los 1000 salarios mínimos vigentes en el Estado.
+
+c) Se aplicará una sanción económica mayor a dos tantos un medio hasta tres tantos del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a los 1000 salarios mínimos vigentes en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-La persona que hubiere dejado de pertenecer al servicio público podrá ser sujeta a procedimiento de responsabilidad administrativa, dentro de los cuatro años tratándose de las fracciones I y II de este artículo, y dentro de los seis años en los casos a que se refiere la fracción III del presente artículo, posteriores a su separación del cargo y le podrán ser aplicables las sanciones de multa e inhabilitación, siempre que no hayan operado los plazos de prescripción, sin perjuicio de la responsabilidad resarcitoria a que se haga acreedor.
+La persona que hubiere dejado de pertenecer al servicio público podrá ser sujeta a procedimiento de responsabilidad administrativa, dentro de los cinco años posteriores a su separación del cargo y le podrán ser aplicables la sanción económica y la inhabilitación, siempre que no hayan operado los plazos de prescripción, sin perjuicio de la responsabilidad resarcitoria a que se haga acreedor.
 
-La sanción consistente en la inhabilitación se aplicará por el incumplimiento de obligaciones o por incurrir en conductas prohibidas conforme a los siguientes criterios:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-I.- De uno a dos años tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
+Las sanciones por el incumplimiento de obligaciones o por incurrir en conductas prohibidas, tratándose de ex servidores públicos, se impondrán atendiendo a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+I.- Inhabilitación de seis meses a un año tratándose de los supuestos a que se refieren las fracciones I y II del artículo anterior;
 
-II.- De dos a cuatro años a quien, sin que hubiere obtenido un beneficio económico o no hubiere ocasionado daño o perjuicio patrimonial a las autoridades señaladas en el artículo 3 de esta Ley, o habiéndose ocasionado no fueren cuantificables, en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII, VIII y IX del artículo 12 de esta Ley, y
+II.- Inhabilitación de uno a veinte años tratándose de los supuestos a que se refiere la fracción III del artículo anterior; y
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-III.- De seis a diez años tratándose de lo previsto en la fracción XXI del artículo 11 y en las fracciones I, II y VI del artículo 12 de esta Ley o hubiere cometido alguna de las conductas consideradas como graves en los términos del artículo 21.
+III.- Sanción económica en caso de incurrir en alguna conducta que se considere grave en términos del artículo 21 de esta Ley.
 
 Las sanciones a las que se refiere este artículo también podrán ser aplicadas a aquellos servidores públicos que se hubieren separado del cargo por cualquier causa durante la sustanciación del procedimiento de responsabilidad administrativa, con independencia de la falta administrativa que se le impute y de las consecuencias ocasionadas con la misma.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-En caso de que se incumpla alguna de las obligaciones previstas en el artículo 11 o se incurra en una conducta prohibida de las señaladas en el artículo 12 de esta Ley, y se considere como grave en los términos del artículo 21, se procederá a la aplicación de las siguientes sanciones:
+En los casos de las fracciones XXIII del artículo 11 y XII del artículo 12 de esta Ley, se aplicarán las sanciones que se establezcan en los respectivos ordenamientos, siguiendo en todo caso el procedimiento establecido en la presente Ley.
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Multa de ciento cincuenta a seiscientos días, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV Y XVI del artículo 11 y el primer supuesto de la fracción V y X del artículo 12 de esta Ley;
+I.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Destitución e inhabilitación, pudiendo aplicar ésta última hasta por cuatro años, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XVIII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+II.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Destitución e inhabilitación, pudiendo aplicar ésta última hasta por diez años, en lo relativo a la fracción XXI del artículo 11 y a las fracciones I, II y VI del artículo 12 de esta Ley.
+III.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO IV. DEL REGISTRO DE ANTECEDENTES DISCIPLINARIOS Y DE SU CANCELACIÓN
 
@@ -385,17 +503,33 @@ Dichas autoridades deberán comunicarse entre sí, para integrar el registro est
 
 Los jueces penales que impongan a servidores públicos la pena de inhabilitación para ocupar puestos públicos deberán comunicarlo al órgano de control interno que corresponda, según la adscripción del servidor público, para efectos del registro de la misma.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 26.
 
-Quienes hubieren sido sujetos de sanciones administrativas podrán solicitar a la autoridad que tenga a su cargo el registro de la sanción respectiva, que sea cancelada la inscripción de su nombre conforme a las reglas siguientes:
+Quienes hubieren sido sujetos de sanciones administrativas podrán solicitar a la autoridad que tenga a su cargo el registro de la sanción respectiva, que sea cancelada la inscripción de su nombre siempre y cuando se cumplan los requisitos siguientes:
 
-I.- Que se haya pagado la multa impuesta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+I.- Que la falta no se haya considerado grave en los términos del artículo 21 de esta Ley;
 
 II.- Que no se encuentre sujeto a otro procedimiento de responsabilidad administrativa;
 
-III.- Que haya transcurrido un año, cuando la sanción impuesta hubiere sido la de amonestación, multa o suspensión, siempre y cuando la falta no hubiere implicado daño o perjuicio patrimonial a la hacienda pública estatal o municipal, en su caso, o beneficio económico al infractor, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Que haya transcurrido el término de la inhabilitación, siempre y cuando la falta no hubiere implicado daño o perjuicio patrimonial a la hacienda pública estatal o municipal, en su caso, o beneficio económico al infractor.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+III.- Que haya transcurrido un año a partir de que haya quedado firme la resolución sancionatoria; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IV.- Que haya transcurrido el término de la inhabilitación.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -409,17 +543,23 @@ Para la contratación de servidores públicos por parte de los sujetos de esta l
 
 La facultad para fincar la responsabilidad administrativa prescribirá en los siguientes plazos:
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- En dos años, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+I.- En tres años, tratándose de los supuestos que prevé la fracción I del artículo 22 de esta Ley;
 
-II.- En cuatro años, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-III.- En seis años, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley, así como aquéllas que sean consideradas como graves en los términos del artículo 21.
+II.- En seis años, tratándose de los supuestos que prevé la fracción II del artículo 22 de esta Ley; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+III.- En nueve años, tratándose de los supuestos que prevé la fracción III del artículo 22, así como en aquellos casos considerados graves en términos del artículo 21 de esta Ley.
 
 ###### Artículo 28.
 
@@ -427,95 +567,129 @@ Los plazos de la prescripción comenzarán a contar a partir del día siguiente 
 
 La prescripción se interrumpirá por el inicio del procedimiento de responsabilidad administrativa que regula la presente Ley.
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+## TÍTULO TERCERO. DE LAS QUEJAS, DENUNCIAS, INVESTIGACIÓN DE OFICIO Y PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO I. DE LAS QUEJAS, DENUNCIAS E INVESTIGACIÓN DE OFICIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 29.
 
-Previamente al inicio del procedimiento de responsabilidad administrativa establecido por esta Ley o en cualquier etapa del mismo, la autoridad sustanciadora podrá, en forma fundada y motivada, decretar el depósito o aseguramiento de las cosas, libros, documentos o papeles sobre los que verse la investigación, cuando exista temor fundado o peligro de que puedan perderse, destruirse o alterarse.
+Cualquier persona podrá presentar queja o denuncia por la probable comisión de faltas administrativas, acompañando si las tiene a la misma, las pruebas en que la fundamenten o señalando la autoridad o el lugar en que se encuentren.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 30.
 
-Durante la sustanciación del procedimiento de responsabilidad administrativa y en tanto no exista una resolución firme, la autoridad que esté conociendo del mismo, podrá ordenar la separación temporal del cargo, con goce de salario del servidor público sujeto a procedimiento, siempre que exista causa grave y esté debidamente justificada.
+Los poderes Ejecutivo y Legislativo, los ayuntamientos, los organismos autónomos y las dependencias y entidades de la administración pública estatal o municipal, establecerán medidas que faciliten la presentación de quejas y denuncias por incumplimiento de las obligaciones o por incurrir en conductas prohibidas de los servidores públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 31.
 
-Durante la sustanciación del procedimiento de responsabilidad administrativa y en tanto no se encuentre firme la resolución que le ponga fin, sin una causa debidamente justificada, a juicio del órgano de control, no podrá realizarse ningún movimiento presupuestal tendiente a cambiar de adscripción, dar de baja o modificar su contrato al denunciante o quejoso, ni a los testigos cuando éstos sean también servidores públicos, salvo que lo soliciten voluntariamente.
+Cualquier persona puede promover la denuncia anónima para la detección de actos ilícitos, corrupción y abuso de autoridad en el servicio público.
+
+En este supuesto, los procedimientos que los sujetos de la Ley empleen, deberán garantizar la reserva de la identidad o localización del denunciante cuando por cualquier motivo pudiera estar en conocimiento de la autoridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 32.
 
-Todas las actuaciones de la autoridad que sustancie el procedimiento de responsabilidad administrativa establecido en esta Ley, deberán constar por escrito e integrarse en expediente, el cual deberá estar a disposición de la persona sujeta a procedimiento, para su consulta por sí, por su representante legal o por persona autorizada.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 33.
 
-Cualquier persona, bajo su más estricta responsabilidad, podrá presentar queja o denuncia por la probable comisión de faltas administrativas, debiendo acompañar a la misma las pruebas en que la fundamente o señalar la autoridad o el lugar en que se encuentren.
+En el caso de que el servidor público haga del conocimiento de las autoridades competentes, de manera espontánea, su responsabilidad, antes del inicio del procedimiento de responsabilidad administrativa a que se refiere esta Ley, los poderes Ejecutivo y Legislativo, los ayuntamientos, los organismos autónomos y las dependencias y entidades de la administración pública estatal o municipal podrán disminuir entre un cincuenta y un setenta por ciento la sanción que le corresponda, siempre que no se hubieren obtenido beneficios o lucro, o causado daños o perjuicios.
 
-Los sujetos de la Ley podrán promover la denuncia anónima como medio eficaz para la detección de actos ilícitos, corrupción y abuso de autoridad en el servicio público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los procedimientos que los sujetos de la Ley empleen, deberán garantizar la reserva de lo identidad o localización del denunciante cuando por cualquier motivo pudiera estar en conocimiento de la autoridad.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+En el caso de que se hubieren producido beneficios, lucro o se hubieren causado daños o perjuicios, se aplicará lo previsto en el párrafo anterior, siempre que el servidor público entere a las autoridades competentes el monto del beneficio o lucro obtenido o bien, realice las acciones tendientes a resarcir los daños o perjuicios causados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 33 Bis.
 
-En el caso de que el servidor público haga del conocimiento de las autoridades competentes, de manera espontánea, su responsabilidad o proporcione información que permito acreditar la responsabilidad administrativa de otros servidores públicos, antes del inicio del procedimiento de responsabilidad administrativa a que se refiere esto Ley, los Poderes Públicos del Estado, los ayuntamientos, los organismos autónomos y las dependencias y entidades de la administración pública estatal o municipal podrán disminuir entre un cincuenta y un setenta por ciento la sanción que le corresponda, siempre que no se hubieren causado daños o perjuicios.
+Cuando la queja o denuncia carezca de pruebas suficientes para sustentar la presunción de responsabilidad administrativa el órgano de control podrá realizar la investigación necesaria para allegarse de mayores elementos de prueba; actuará de igual manera, cuando tenga conocimiento de actos u omisiones que pudieran constituirla, aún cuando no haya queja o denuncia.
 
-En el caso de que se hubieren producido beneficios, lucro o se hubieren causado daños o perjuicios, se aplicará lo previsto en el párrafo anterior, siempre que el servidor público entere a los autoridades competentes el monto del beneficio o lucro obtenido o bien, realice las acciones tendientes a resarcir los daños o perjuicios causados.
+La investigación, salvo causa justificada, no excederá de sesenta días hábiles, al término de los cuales se acordará el archivo del asunto o el inicio del procedimiento de responsabilidad administrativa, según corresponda.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 33 Ter.
 
-Los órganos de control de las autoridades referidas en el artículo 3 de esta Ley, podrán otorgar, con sujeción a la disponibilidad y suficiencia presupuestaria, beneficios económicos a favor de las personas que proporcionen información cierta, suficiente y relevante para la identificación o acreditación de conductas contrarias a las obligaciones establecidas en esta Ley. Los servidores públicos no serán sujetos de este beneficio.
+Durante la investigación o en cualquier etapa del procedimiento de responsabilidad administrativa, la autoridad podrá, en forma fundada y motivada, decretar el depósito o aseguramiento de las cosas, libros, documentos o papeles sobre los que verse la investigación o procedimiento, cuando exista temor fundado o peligro de que puedan perderse, destruirse o alterarse.
 
-Los beneficios económicos a que se refiere este artículo, serán definidos por las autoridades establecidos en el artículo 3 de esta Ley, mediante acuerdos en los que se establecerá el monto, los requisitos y el procedimiento aplicable, así como que su otorgamiento procederá una vez iniciado el procedimiento administrativo establecido en esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No se otorgarán beneficios económicos al denunciante cuando este resulte favorecido de alguna manera con el acto u omisión denunciados.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-Los poderes públicos del Estado, los Ayuntamientos, los Organismos Autónomos y las Dependencias y Entidades de la Administración Pública Estatal o Municipal, establecerán medidas que faciliten la presentación de quejas y denuncias por incumplimiento de las obligaciones o por incurrir en conductas prohibidas de los servidores públicos.
+En contra del acuerdo que determine el inicio del procedimiento no procederá recurso alguno. El acuerdo que determine el archivo del asunto se podrá recurrir por el quejoso o denunciante ante el Tribunal de lo Contencioso Administrativo en los términos del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 35.
 
 Si el órgano de control respectivo determina que la queja o denuncia fue interpuesta en forma maliciosa o sin motivo alguno, se impondrá al quejoso o a su representante o a ambos, una multa de veinte a ciento veinte salarios mínimos tomando como base el salario mínimo general vigente en el Estado de Guanajuato y de acuerdo a las circunstancias particulares y específicas de la queja planteada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 36.
 
-Procederá la acumulación del procedimiento de responsabilidad administrativa:
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
-I.- Cuando se detecte la comisión de diversas faltas administrativas por parte de una persona, en actos distintos;
-
-II.- Cuando exista conexidad de faltas administrativas, y
-
-III.- Cuando se sigan procedimientos de responsabilidades administrativas en contra de diversas personas, por una misma falta administrativa.
-
-En el auto mediante el cual se declare la acumulación, se decretará la suspensión temporal del procedimiento de responsabilidad administrativa al cual se acumulará el nuevo procedimiento.
-
-No podrá decretarse la acumulación una vez que se hubieren desahogado todas las pruebas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 37.
 
-Existe conexidad en las faltas administrativas:
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
-I.- Cuando han sido cometidas por varias personas en conjunto;
-
-II.- Cuando han sido cometidas por varias personas, aunque en diversos tiempos y lugares, pero con el concierto entre ellas, y
-
-III.- Cuando se ha cometido una falta para procurar los medios para cometer otra, para facilitar su ejecución, para asegurarla o para evadir su detección.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 38.
 
-La autoridad sustanciadora podrá ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observe en la tramitación del procedimiento de responsabilidad administrativa para el sólo efecto de regularizar el mismo, sin que ello implique que pueda revocar sus propias resoluciones.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 39.
 
-El procedimiento de responsabilidad administrativa se instaurará, sustanciará y resolverá con arreglo a las disposiciones de esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por este ordenamiento, se estará a lo establecidoen (sic) el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
 #### SECCIÓN PRIMERA. DE LAS NOTIFICACIONES Y DE LOS TÉRMINOS
 
@@ -565,27 +739,123 @@ Los términos, salvo disposición diversa de la Ley, empezarán a correr el día
 
 Cuando la Ley no señale término para la práctica de alguna diligencia o para el ejercicio de algún derecho, se tendrá por señalado el de tres días hábiles.
 
-### CAPÍTULO II. DE LA SUSTANCIACIÓN DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO [N. DE E. ANTES SECCIÓN SEGUNDA]; P.O. 18 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO II. DISPOSICIONES GENERALES AL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 46.
 
-La autoridad que sustancie el procedimiento de responsabilidad administrativa, para mantener el buen orden y exigir que se le guarde el respeto y consideración debidos en las diligencias, así como para hacer cumplir sus determinaciones, podrá aplicar en este orden, las correcciones disciplinarias y los medios de apremio siguientes:
+Para el cumplimiento de las atribuciones que les confiere esta Ley, así como para mantener el buen orden y exigir que se les guarde el respeto y consideración debidos durante la investigación y en el procedimiento de responsabilidad administrativa, así como para hacer cumplir sus determinaciones, los órganos de control podrán emplear los siguientes medios de apremio:
 
-I.- Apercibimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+I.- Multa de hasta veinte veces el salario mínimo general vigente en el Estado;
 
 II.- Auxilio de la fuerza pública, y
 
-III.- Expulsión de las personas del lugar donde se lleve a cabo la diligencia, cuando ello sea necesario para su continuación, siempre y cuando no se trate del servidor público sujeto a procedimiento de responsabilidad administrativa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+III.- Expulsión de las personas del lugar donde se lleve a cabo la diligencia, cuando ello sea necesario para su continuación; cuando se trate del servidor público sujeto a procedimiento de responsabilidad administrativa;
 
 En caso de persistir el incumplimiento que dio origen a la corrección disciplinaria o al medio de apremio, la autoridad dará vista al Ministerio Público.
 
-#### SECCIÓN SEGUNDA. DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. GENERALIDADES DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Bis.
+
+Durante la sustanciación del procedimiento de responsabilidad administrativa y en tanto no exista una resolución firme, la autoridad que esté conociendo del mismo, podrá ordenar la separación temporal del cargo, con goce de salario del servidor público sujeto a procedimiento, siempre que esté debidamente justificada para la preservación de la materia de la causa del procedimiento o para preservar los principios que rigen la función administrativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Ter.
+
+Durante la sustanciación del procedimiento de responsabilidad administrativa y en tanto no se encuentre firme la resolución que le ponga fin, sin una causa debidamente justificada, a juicio del órgano de control, no podrá realizarse ningún movimiento presupuestal tendiente a cambiar de adscripción, dar de baja o modificar su contrato al denunciante o quejoso, ni a los testigos cuando éstos sean también servidores públicos, salvo que lo soliciten voluntariamente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Quáter.
+
+Todas las actuaciones de la autoridad que sustancie el procedimiento de responsabilidad administrativa establecido en esta ley, deberán constar por escrito e integrarse en expediente, el cual deberá estar a disposición de la persona sujeta a procedimiento, para su consulta por sí, por su representante legal o por persona autorizada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Quinquies.
+
+Procederá la acumulación del procedimiento de responsabilidad administrativa:
+
+I.- Cuando se detecte la comisión de diversas faltas administrativas por parte de una persona, en actos distintos;
+
+II.- Cuando exista conexidad de faltas administrativas; y
+
+III.- Cuando se sigan procedimientos de responsabilidades administrativas en contra de diversas personas, por una misma falta administrativa.
+
+En el auto mediante el cual se declare la acumulación, se decretará la suspensión temporal del procedimiento de responsabilidad administrativa más antiguo al cual se acumulará el procedimiento más nuevo.
+
+No podrá decretarse la acumulación una vez que se hubieren desahogado todas las pruebas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Sexies.
+
+Existe conexidad en las faltas administrativas:
+
+I.- Cuando han sido cometidas por varias personas en conjunto;
+
+II.- Cuando han sido cometidas por varias personas, aunque en diversos tiempos y lugares, pero con el concierto entre ellas; y
+
+III.- Cuando se ha cometido una falta para procurar los medios para cometer otra, para facilitar su ejecución, para asegurarla o para evadir su detección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Septies.
+
+La autoridad sustanciadora podrá ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observe en la tramitación del procedimiento de responsabilidad administrativa para el sólo efecto de regularizar el mismo, sin que ello implique que pueda revocar sus propias resoluciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 46 Octies.
+
+El procedimiento de responsabilidad administrativa se instaurará, sustanciará y resolverá con arreglo a las disposiciones de esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por este ordenamiento, se estará a lo establecido en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+### CAPÍTULO II. DE LA SUSTANCIACIÓN DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 47.
 
-El procedimiento de responsabilidad administrativa se iniciará por queja o denuncia, o de oficio cuando la autoridad competente, de conformidad con lo dispuesto en ésta y otras leyes, reglamentos o disposiciones aplicables, tenga conocimiento de hechos u omisiones que puedan constituir responsabilidad administrativa.
+El procedimiento de responsabilidad administrativa inicia con la notificación que se haga al servidor público del acuerdo a que se refieren los artículos 48 y 49 de esta Ley.
 
 Con la queja o denuncia se presentarán las pruebas en que éstas se apoyen.
 
@@ -593,23 +863,41 @@ Con la queja o denuncia se presentarán las pruebas en que éstas se apoyen.
 
 La iniciación del procedimiento así como la resolución que recaiga al mismo se comunicarán al superior jerárquico inmediato del servidor público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 48.
 
-Presentada una queja o denuncia, la autoridad acordará sobre su admisión y ordenará dar vista con ésta al servidor público para que rinda un informe, dentro del término de cinco días hábiles. Igualmente se dará vista al servidor público por el mismo término, cuando la autoridad acuerde que existen elementos para instaurar de oficio un procedimiento de responsabilidad administrativa.
+La autoridad acordará la instauración del procedimiento de responsabilidad administrativa y ordenará citar al presunto responsable a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de responsabilidad en los términos de esta Ley y demás disposiciones que se le imputen.
 
-En el mismo acuerdo a que se refiere el párrafo anterior se señalará día y hora para la celebración de una audiencia de ofrecimiento, admisión y desahogo de pruebas, y de alegatos, la que se llevará a cabo dentro de los cinco días hábiles siguientes al vencimiento del término para rendir el informe.
+En el mismo acuerdo a que se refiere el párrafo anterior se señalará lugar, día y hora en que tendrá verificativo la audiencia, así como el derecho del servidor público a comparecer asistido de un defensor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 49.
 
-El acuerdo en el que se ordene dar vista al servidor público y citarlo personalmente para que acuda a la audiencia de ofrecimiento, admisión y desahogo de pruebas, y de alegatos, deberá contener lo siguiente:
+El acuerdo en el que se ordene dar vista al servidor público y citarlo personalmente para que acuda a lo audiencia, deberá contener lo siguiente:
 
 I.- El nombre del servidor público contra quien se instaure el procedimiento;
 
-II.- La conducta que se le imputa y las disposiciones legales que se estiman violadas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- El requerimiento para que nombre defensor o persona de su confianza para que lo asista, haciéndole saber que en caso de no nombrarlo, se le designará de oficio;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-IV.- El señalamiento del término para que rinda el informe a que se refiere esta Ley;
+II.- La conducta que se le imputa y las disposiciones legales que se estiman violadas, incluyendo el señalamiento de si la conducta se considera presuntamente grave en términos del artículo 21 de esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+III.- El derecho de comparecer asistido de un defensor;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IV.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2013)
 
 V.- La fecha, lugar y hora en que tendrá verificativo la audiencia;
 
@@ -617,51 +905,83 @@ VI.- El señalamiento del derecho que tiene el servidor público para ofrecer pr
 
 VII.- El número de expediente, así como lugar y horario en el que puede ser consultado;
 
-VIII.- El apercibimiento de que si no comparece a la hora y fecha fijadas para la audiencia, sin causa justificada, se estará a lo dispuesto en el artículo 52 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- El fundamento y motivación de la actuación de la autoridad que emite el citatorio, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-X.- El nombre, cargo y firma de la autoridad que ordenó la vista y que emite el citatorio; así como la fecha y el lugar donde se emitió.
+VIII.- El apercibimiento de que si no comparece a la hora y fecha fijadas para la audiencia sin causa justificada, se estará a lo dispuesto en el artículo 51 de esta ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IX.- El fundamento y motivación de la actuación de la autoridad que emite el citatorio; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+X.- El nombre, cargo y firma de la autoridad que instaura el procedimiento, así como la fecha y el lugar donde se emitió.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 50.
 
-El servidor público al rendir el informe deberá señalar domicilio para oír y recibir notificaciones y además, podrá designar representante o abogado defensor y autorizar personas para oír y recibir notificaciones.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
-Si del informe que rinda el servidor público se desprende alguna causa de notoria improcedencia, se procederá a decretar el sobreseimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 51.
 
-Si el servidor público no rinde el informe, se le tendrá por negando los hechos u omisiones que se le imputan y se continuará con la sustanciación del procedimiento de responsabilidad administrativa.
+Si el servidor público debidamente notificado, deja de comparecer a la audiencia sin causa justificada, se tendrán por ciertos los actos u omisiones que se le imputan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 52.
 
-Si el servidor público debidamente citado no comparece a la audiencia de ofrecimiento, admisión y desahogo de pruebas y de alegatos, se levantará constancia de ello y en caso de no justificarse la inasistencia, se resolverá en un término de cinco días hábiles.
+El sujeto a procedimiento contará con un plazo de tres días hábiles para justificar su inasistencia a la audiencia referida.
 
-En caso de que exista causa fundada de la inasistencia, podrá la autoridad señalar nueva fecha para el desahogo de la audiencia, misma que se llevará a cabo dentro de los tres días siguientes.
+En caso de que exista causa fundada de la inasistencia, podrá la autoridad señalar nueva fecha para el desahogo de la audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 53.
 
-La audiencia comenzará con poner a la vista del servidor público el expediente y se le hará saber su derecho para declarar lo que a su interés convenga y a ofrecer las pruebas que estime pertinentes para acreditar su dicho.
+La audiencia comenzará con poner a la vista del servidor público el expediente, así como las pruebas de la autoridad y se le hará saber su derecho para declarar lo que a su interés convenga.
 
-Si el sujeto a procedimiento de responsabilidad administrativa se negare a declarar, se le tendrá por contestando en sentido negativo las imputaciones hechas en su contra.
+Concluida la audiencia, se concederá al sujeto a procedimiento un plazo de cinco días hábiles para que ofrezca las pruebas que estime pertinentes y que tengan relación con los hechos que se le atribuyen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 54.
 
-Concluida la declaración del servidor público, la autoridad procederá a aportar las pruebas que no hubieren sido presentadas con la queja o denuncia, dando vista con ellas al servidor público, quien tendrá derecho a solicitar que se continúe con el desahogo de la audiencia en fecha posterior, debiendo ser ésta en un término mínimo de cinco días para preparar su defensa.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
-Una vez que la autoridad haya agotado su derecho a ofrecer pruebas, se procederá a recibir las que ofrezca el servidor público, aplicándose en lo conducente lo previsto por esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Asimismo se acordará el diferimiento del desahogo de aquellas pruebas que por su propia naturaleza requieran de preparación.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 55.
 
-En caso necesario y por razones fundadas y motivadas, la autoridad que sustancia el procedimiento de responsabilidad administrativa podrá, en cualquier tiempo y siempre con audiencia del servidor público sujeto al procedimiento, ordenar la práctica o ampliación de cualquier diligencia probatoria, siempre y cuando sean de las reconocidas por esta Ley y tengan relación inmediata con los hechos que se le imputan al sujeto a procedimiento de responsabilidad administrativa.
+La autoridad que sustancia el procedimiento de responsabilidad administrativa podrá en cualquier tiempo ordenar la práctica o ampliación de cualquier diligencia probatoria tendiente a investigar la presunta responsabilidad del servidor público sujeto a procedimiento, así como requerir a éste y a las autoridades involucradas documentación que se relacione con la presunta responsabilidad, estando obligadas éstas a proporcionarlas de manera oportuna.
 
-Cuando la obligación que se impute violada por el servidor público se refiera a su declaración patrimonial, la autoridad podrá ordenar las pruebas que resulten necesarias para verificar la certeza del contenido de dicha declaración.
+Cuando la autoridad recabe más pruebas documentales, deberá notificarle esa actuación y deberá citar a audiencia en la que pondrá a la vista con anticipación de ésta al servidor público el expediente, así como las nuevas pruebas y se le hará saber su derecho para declarar en la misma lo que a su interés convenga.
+
+Tratándose de pruebas distintas a los documentos, para su desahogo se aplicarán supletoriamente las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 56.
 
-La persona que haya sido designada por el sujeto a procedimiento de responsabilidad administrativa para que lo asista o lo defienda, podrá hacer uso de la voz, una vez que la autoridad concluya con su interrogatorio, sin perjuicio de que esta última pueda volver a interrogar al compareciente.
+El abogado que haya sido designado por el sujeto a procedimiento de responsabilidad administrativa para que lo asista o lo defienda, podrá hacer uso de la voz en cualquier diligencia dentro de la sustanciación del procedimiento.
 
 El sujeto a procedimiento de responsabilidad administrativa o la persona que lo represente, podrá solicitar a la autoridad que se asiente en la actuación correspondiente, cualquier circunstancia que considere relevante para la defensa de sus derechos.
 
@@ -681,9 +1001,13 @@ La autoridad sustanciadora podrá formular a los testigos todas aquellas pregunt
 
 Cuando el testigo tenga el carácter de autoridad, el desahogo de esta prueba se hará por escrito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 60.
 
-Concluido el desahogo de pruebas, el servidor público sujeto al procedimiento de responsabilidad administrativa, formulará sus alegatos y la autoridad dictará, dentro de los diez días hábiles siguientes, la resolución respectiva.
+Desahogadas las pruebas, la autoridad dictará auto de cierre de instrucción, otorgando diez días hábiles al sujeto a procedimiento para que rinda alegatos y concluido dicho término la autoridad dictará, dentro de los diez días hábiles siguientes, la resolución respectiva.
 
 En la resolución se determinará la existencia o no de la responsabilidad administrativa y, en su caso, se establecerá la sanción que corresponda en los términos de esta Ley.
 
@@ -701,7 +1025,7 @@ Las autoridades contempladas en la presente Ley ejercerán las acciones resarcit
 
 ## TÍTULO CUARTO. DE LA UNIDAD DE DEFENSORÍA ADMINISTRATIVA DEL SERVIDOR PÚBLICO
 
-### CAPÍTULO ÚNICO. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
+### CAPÍTULO ÚNICO
 
 ###### Artículo 62.
 
@@ -716,6 +1040,8 @@ Los Poderes Legislativo y Judicial, los Organismos Autónomos y los Ayuntamiento
 Los servicios de la Unidad de Defensoría Administrativa del Servidor Público serán gratuitos.
 
 ## TÍTULO QUINTO. DE LA INFORMACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO ÚNICO. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
 
 ###### Artículo 64.
 
@@ -884,3 +1210,11 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia noventa días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las responsabilidades y sanciones administrativas por conductas cometidas con anterioridad a la vigencia del presente decreto, prescribirán de conformidad con las reglas vigentes al momento de la comisión de la conducta.
+
+Artículo Tercero. Los procedimientos de responsabilidad administrativa por conductas cometidas con anterioridad a la vigencia del presente decreto, continuarán su trámite con la normativa con la que se iniciaron, hasta su conclusión.
