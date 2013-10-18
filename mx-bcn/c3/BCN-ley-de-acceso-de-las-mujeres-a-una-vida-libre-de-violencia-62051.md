@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2013-10-11"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -124,6 +124,10 @@ VI.- Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la
 ###### Artículo 7.
 
 Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar; lo que permitirá a las autoridades preventivas e investigadoras correspondientes, detectar en forma inmediata la reincidencia de todo agresor, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima.
 
 ###### Artículo 8.
 
@@ -229,9 +233,11 @@ II. Preventivas, y
 
 III. De naturaleza civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 23.
 
-Las órdenes de protección de emergencia, tienen una temporalidad de hasta 72 horas, pudiendo expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que la generan, siendo éstas:
+Las órdenes de protección de emergencia, tienen una temporalidad de hasta 72 horas, las que deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que la generan, siendo éstas:
 
 I. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en casos de arrendamiento;
 
@@ -241,9 +247,11 @@ III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguri
 
 IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier otro integrante de la familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-Son órdenes de protección preventivas, con una temporalidad de hasta 72 horas, pudiendo expedirse dentro de las 24 horas posteriores al conocimiento de los hechos que la generan, las siguientes:
+Son órdenes de protección preventivas, con una temporalidad de hasta 72 horas, las que deberán expedirse dentro de las 8 horas posteriores al conocimiento de los hechos que la generan, las siguientes:
 
 I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada o pública de seguridad, independientemente si las mismas se encuentran registradas legalmente. Incluye las punzo cortantes y punzo contundentes;
 
@@ -642,5 +650,9 @@ P.O. 15 DE FEBRERO DE 2013.
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 11 DE OCTUBRE DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
