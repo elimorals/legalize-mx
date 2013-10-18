@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-07-19"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -388,6 +388,10 @@ Se informará inmediatamente al Interno, de cualquier enfermedad grave, debidame
 ###### ARTÍCULO 42.
 
 Las normas disciplinarias, las sanciones disciplinarias y los procedimientos para aplicarlas a los Internos, se harán constar en el Reglamento que para tal efecto se expida.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+La autoridad competente deberá de notificar al Interno el inicio del procedimiento disciplinario, el cargo que enfrenta, quién lo ha denunciado y las posibles consecuencias de la sanción; asimismo, se le otorgará un plazo breve pero suficiente para que prepare su defensa; se le brindará la oportunidad de ofrecer pruebas que respalden su versión de los hechos, y la posibilidad de alegar lo que a sus intereses convenga. La resolución que se dicte deberá encontrarse debidamente fundada y motivada.
 
 ###### ARTÍCULO 43.
 
@@ -1426,3 +1430,9 @@ SEGUNDO.- La Secretaría de Seguridad Pública del Estado de Baja California, co
 P.O. 19 DE JULIO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los doce meses siguientes a la entrada en vigor de la presente reforma, el Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias a que se refiere el artículo 42 de este ordenamiento.
