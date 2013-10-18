@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2013-08-09"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -83,17 +83,17 @@ Salvo los casos de urgencia que haga (sic) imposible la reunión del Ayuntamient
 
 Para efectos de lo dispuesto en este Reglamento, se establecen las siguientes definiciones:
 
-I.- Administración Pública Municipal:
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-Es la organización administrativa dependiente del Presidente Municipal, a través de la cual el Ayuntamiento proporciona los servicios públicos, ejecuta obras, propicia el desarrollo humano y ejerce las demás atribuciones ejecutivas de su competencia.
+I. - Administración Pública Municipal:
 
-Se divide en centralizada: que está conformada por las dependencias, órganos desconcentrados de éstas y delegaciones municipales;
+Es la organización administrativa dependiente del Presidente Municipal, a través de la cual el Ayuntamiento proporciona los servicios públicos, ejecuta obras, propicia el desarrollo humano y ejerce las demás atribuciones ejecutivas de su competencia. Se divide en centralizada: que está conformada por las dependencias, órganos desconcentrados de éstas y delegaciones municipales; Y en descentralizada: que es lo que se integra con las entidades paramunicipales.
 
-Y en descentralizada: que es la que se integra con las entidades paramunicipales.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 II.- Ayuntamiento:
 
-Es el órgano colegiado conformado por el Presidente, Síndico y Regidores, todos ellos llamados también munícipes o ediles, y es el responsable del Gobierno del Municipio;
+Es el órgano colegiado conformado por el Presidente, Síndico Procurador, Sindico Social y Regidores, todos ellos llamados también munícipes o ediles, y es el responsable del Gobierno del Municipio;
 
 III.- Cabildo:
 
@@ -277,6 +277,10 @@ Además, podrá conciliar o convenir los asuntos contenciosos en los que sea par
 
 También podrá actuar en calidad de representante legal del Municipio en los términos enunciativos y no limitativos de los artículos 11, 692 fracciones II y III, y 876 de la Ley Federal del Trabajo, y con tal carácter representarlo por sí, o por medio de apoderados a los que faculte, ante las autoridades administrativas laborales, las Juntas Locales y Federal de Conciliación y Arbitraje, y el Tribunal de Arbitraje del Estado, en cualquier audiencia fuera o dentro de juicio, y en toda la secuela de éste, con las facultades patronales para hacer arreglos conciliatorios, celebrar convenios y transacciones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 23 BIS.- La Sindicatura Social es el órgano de defensa de los intereses de los habitantes del Municipio en materia de Desarrollo Social, así como medio garante de participación ciudadana en la vigilancia de la Administración Pública Municipal y paramunicipal, en la formulación, ejecución de programas municipales y políticas públicas, su difusión y cumplimiento, así como para la recepción e integración de quejas y sugerencias de estos en relación a la prestación de servicios públicos, por lo que contará con el apoyo humano, técnico y material que requiera para el auxilio de sus funciones.
+
 ###### ARTÍCULO 24.
 
 El Presidente Municipal requerirá autorización por mayoría calificada del Ayuntamiento para celebrar convenios que tengan alguna de las siguientes características:
@@ -325,9 +329,13 @@ El Presidente Municipal propondrá al Ayuntamiento la celebración del convenio 
 
 ### CAPITULO QUINTO. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES, DIRECTORES, SUBDIRECTORES Y JEFES DE DEPARTAMENTOS DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
 Los titulares de las dependencias y entidades, y los directores, subdirectores y jefes de departamentos de éstas, tendrán las siguientes obligaciones:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 I.- Programar, organizar, coordinar, supervisar la ejecución y evaluar, las actividades a cargo de la dependencia, entidad o departamento;
 
@@ -371,13 +379,27 @@ XX.- Establecer mecanismos para asegurar la asistencia con puntualidad y la pres
 
 XXI.- Procurar que el personal de la dependencia, entidad o departamento, cuente con la capacitación y adiestramiento necesarios para el desarrollo de las actividades que se les encomienden;
 
-XXII.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Administraciones de zona y regionales y a las Delegaciones Municipales, se sujete a los titulares de estas y a su supervisión, incluyendo a la policía municipal preventiva; con excepción del personal de Sindicatura Municipal;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXII.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Administraciones de zona y regionales y a las Delegaciones Municipales, se sujete a los titulares de estas y a su supervisión, incluyendo a la policía municipal preventiva; con excepción del personal de Sindicatura Municipal y Sindicatura Social;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 XXIII.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic),
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 XXIV.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada la dependencia, entidad o departamento.
 
-XXV.- Las demás que les impongan las Leyes, Reglamentos o acuerdos del Ayuntamiento.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXV.-Permitir a la Sindicatura Social el ejercicio de sus atribuciones, proporcionándole la información que les solicite.
+
+> <small>(REFORMADA [N. DE E.ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXVI.- Las demás que les impongan las Leyes, Reglamentos o acuerdos del Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 Los titulares de las dependencias, departamentos y entidades coordinarán con el personal a su cargo, la ejecución de las actividades que sean necesarias para el cumplimiento de las obligaciones a las que se refiere el presente artículo.
 
@@ -903,27 +925,47 @@ XXX.- Adoptar todas las medidas que tiendan a satisfacer, eficientizar y regular
 
 XXXI.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Subsecretario General del Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 51.
 
 La Dirección de Asuntos Jurídicos, para el cumplimiento de sus atribuciones, se integrará de la siguiente manera:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 a) Un Director;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 b) Un Subdirector de lo Contencioso Municipal;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 c) Un Subdirector de Reglamentos y Análisis;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 d) Asesores Jurídicos;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 e) Un Coordinador de Jueces Calificadores; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 f) Jueces Calificadores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
 Corresponde a la Dirección Jurídica el despacho de los siguientes asuntos:
 
-I.- Dar asesoría y asistencia técnica jurídica al Presidente;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE OCTUBRE DE 2013)</small>
 
-II.- Proporcionar asesoría, asistencia técnica jurídica, atención de consultas y opiniones al Ayuntamiento, Sindicatura, Delegaciones, Dependencias y Entidades Municipales;
+I.- Dar asesoría y asistencia técnica Jurídica al Presidente;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II.- Proporcionar asesoría, asistencia técnica jurídica, atención de consultas y opiniones al Ayuntamiento, Sindicatura, Sindicatura Social, Delegaciones, Dependencias y Entidades Municipales;
 
 III.- Asesorar, revisar, elaborar contratos y los diversos instrumentos jurídicos en los que intervengan el Ayuntamiento, el Presidente Municipal o las dependencias de la Administración Pública Municipal;
 
@@ -1817,9 +1859,11 @@ XXII.- Vicente Guerrero;
 
 XXIII.- Villa de Jesús María.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 91.
 
-Con la finalidad de asegurar la prestación de los servicios públicos municipales, los representantes de las dependencias y entidades que se adscriban a cada Delegación Municipal, estarán bajo la coordinación administrativa y supervisión de un Delegado, que será el representante del Presidente Municipal, dentro de su respectiva jurisdicción, con excepción de las oficinas de la Sindicatura que se asienten en las Delegaciones.
+Con la finalidad de asegurar la prestación de los servicios públicos municipales, los representantes de las dependencias y entidades que se adscriban a cada Delegación Municipal, estarán bajo la coordinación administrativa y supervisión de un Delegado, que será el representante del Presidente Municipal, dentro de su respectiva Jurisdicción, con excepción de las oficinas de la Sindicatura y la Sindicatura Social que se asienten en las Delegaciones.
 
 Los agentes de la Dirección de Policía y Tránsito estarán bajo la coordinación administrativa y mando del Delegado Municipal y supervisados por el Director de Policía y Tránsito Municipal.
 
@@ -2035,15 +2079,21 @@ X.- INMUJERE: Instituto Municipal de la Mujer.
 
 En el caso de las entidades paramunicipales ya existentes y enunciadas en este artículo, deberán contemplar en su Reglamento interno la manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo; (sic)
 
-## TITULO CUARTO. DE LA SINDICATURA MUNICIPAL Y DE LOS REGIDORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+## TITULO CUARTO. DEL SINDICO PROCURADOR, EL SÍNDICO SOCIAL Y DE LOS REGIDORES
 
 ### CAPITULO PRIMERO. DE LA SINDICATURA MUNICIPAL
 
 NATURALEZA Y FACULTADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 100.
 
-La Sindicatura Municipal, como órgano de representación legal de los intereses del Ayuntamiento, así como de control y vigilancia de la Administración Pública Municipal y paramunicipal, fiscalizará la correcta administración de los bienes y aplicación de los recursos municipales y paramunicipales, y vigilará y sancionará la actuación de los servidores públicos, por lo que contará con el apoyo humano, técnico y material que requiera para el auxilio de sus funciones.
+La Sindicatura Municipal, representada por el Síndico Procurador fungirá como órgano de representación legal de los intereses del Ayuntamiento, así como de control y vigilancia de la Administración Pública Municipal y paramunicipal, fiscalizará la correcta administración de los bienes y aplicación de los recursos municipales y paramunicipales, y vigilará y sancionará la actuación de los servidores públicos, por lo que contará con el apoyo humano, técnico y material que requiera para el auxilio de sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE OCTUBRE DE 2013)</small>
 
 La Sindicatura ejercerá las siguientes atribuciones en relación con las dependencias y entidades:
 
@@ -2103,15 +2153,69 @@ XXI.- Asistir a los remates en los que tenga interés el municipio para que se f
 
 XXII.- Conocer, investigar de oficio o por virtud de queja o denuncia y sancionar los actos, omisiones o conductas de los elementos de la Policía Preventiva Municipal de Ensenada, de conformidad a lo previsto en la Ley de Seguridad Pública del Estado y en el Reglamento de la Comisión Disciplinaria y de carrera policial de la Secretaria de Seguridad Pública Municipal de Ensenada.
 
-XXIII.- Las demás que le confieran las Leyes, reglamentos o acuerdos del Ayuntamiento.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXIII.- Determinar la existencia de responsabilidad administrativa, imponiendo y aplicando las sanciones que en derecho procedan
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXIV.- En caso de presumirse la comisión de ilícitos sancionados por el Código Penal del Estado o de la Federación, presentar las denuncias o querellas ante las autoridades competentes:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXV.- Dictar las medidas preventivas correspondiente (sic); y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXVI.- Las demás que le confieran las Leyes, reglamentos o acuerdos del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 101.
 
-La Sindicatura Municipal para el cumplimiento de sus atribuciones contará con una subdirección y tendrá bajo su cargo los siguientes departamentos:
+La Sindicatura Municipal para el cumplimiento de sus atribuciones contará con una Dirección y tendrá bajo su cargo las siguientes Subdirecciones:
 
-I.- Contraloría Interna; y
+I.- Subdirección de Fiscalización.
 
-II.- Responsabilidades y Situación Patrimonial; (sic)
+II.- Subdirección Jurídica.
+
+III.- Subdirección de Obra Pública.
+
+IV.- Subdirección de Servicios de Apoyo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 101 BIS.- La Sindicatura Social, es el órgano de defensa de los intereses de los habitantes del Municipio en materia de Desarrollo Social, así como medio garante de participación ciudadana en la vigilancia de la Administración Pública Municipal y paramunicipal, en la formulación, ejecución de programas municipales y políticas públicas, su difusión y cumplimiento, así como para la recepción e integración de quejas y sugerencias de estos en relación a la prestación de servicios públicos, por lo que contará con el apoyo humano, técnico y material que requiera para el auxilio de sus funciones.
+
+La Sindicatura Social ejercerá las siguientes atribuciones en relación con las dependencias y entidades:
+
+I.- Participar en la formulación y ejecución de los programas municipales de desarrollo social, vigilando su cabal cumplimiento;
+
+II.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y hacer públicos sus resultados;
+
+III.- Proponer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+
+IV.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, con relación a la presentación de servicios públicos municipales;
+
+V.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos en materia de desarrollo social y prestación de servicios del Gobierno Municipal;
+
+VI.- Nombrar y remover al personal a su cargo;
+
+VII.- Remitir al Síndico Procurador las observaciones sobre las irregularidades detectadas por parte de los servidores públicos en el ejercicio de sus funciones, en relación a las facultades del Síndico Social.
+
+VIII.- Informar semestralmente al Ayuntamiento sobre las acciones realizadas por la dependencia;
+
+IX.- Las demás que le confieran las Leyes, reglamentos o acuerdos del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 101 TER.- La Sindicatura Social para el cumplimiento de sus atribuciones contará como mínimo con el siguiente personal a su cargo:
+
+1.- Secretario Técnico
+
+2.- Asistente Administrativo
+
+Para el ejercicio de sus funciones contará con el apoyo técnico material y humano necesario, de acuerdo al presupuesto de egresos que se le asigne al ejercicio fiscal que corresponda, el cual nunca será menor al 0.12 % del total del presupuesto municipal.
 
 ### CAPITULO SEGUNDO. DE LOS REGIDORES
 
@@ -2242,3 +2346,7 @@ SEGUNDO.- La Secretaría de Turismo gozará de autonomía en el ejercicio presup
 P.O. 9 DE AGOSTO DE 2013.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
