@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2013-05-31"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -257,11 +257,15 @@ XI. La difusión de esta ley para que la sociedad y las familias respeten a los 
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
 
-XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para la construcción y apertura de asilos públicos e implementar programas que incentiven la integración social de las personas adultas mayores; y
+XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para la construcción y apertura de asilos públicos e implementar programas que incentiven la integración social de las personas adultas mayores; y (sic)
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XIII. Que toda institución pública que brinde servicios al público, cuente con una ventanilla de atención preferente para las personas adultas mayores.
+XIII. Promover de manera coordinada con la Secretaria de Turismo las Actividades diseñadas para personas adultas mayores, particularmente las que se refieren al rescate y transmisión de la cultura y de la historia; así mismo promoverá actividades de recreación turística con tarifas preferentes, diseñadas para personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIV. Suscitar convenios con las empresas del ramo para ofrecer a las personas adultas mayores, tarifas preferenciales y/o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura, deporte, y hospedaje en hoteles.
 
 ###### Artículo 18.
 
@@ -830,3 +834,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 31 DE MAYO DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
