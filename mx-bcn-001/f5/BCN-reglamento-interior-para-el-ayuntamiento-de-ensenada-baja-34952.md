@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2011-10-28"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2011.
+> <small>N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA IMPRESIÓN DE LA PUBLICACIÓN EN EL PERIÓDICO OFICIAL No. 53 DE 22 DE NOVIEMBRE DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -97,13 +99,17 @@ En caso de tratarse de actos o eventos donde se requiera la representación lega
 
 INTEGRACION DEL AYUNTAMIENTO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-El Ayuntamiento se integra por un Presidente Municipal, un Sindico Procurador, y Regidores electos por el principio de mayoría relativa, y de representación proporcional, electos en el número y términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California, y la legislación correspondiente.
+El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, un Síndico Social y Regidores electos por el principio de mayoría relativa, y de representación proporcional, electos en el número y términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California, y la legislación correspondiente.
 
 Los integrantes del Ayuntamiento también son llamados Munícipes y/o ediles.
 
-El Ayuntamiento funcionará de manera colegiada, en régimen de sesiones de cabildo, con igual derecho de participación de todos sus integrantes.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+El Ayuntamiento funcionará, de manera colegiada, en régimen de sesiones de cabildo, con igual derecho de participación de todos sus integrantes.
 
 DEFINICIÓN DE CABILDO.
 
@@ -275,9 +281,11 @@ VII.- Promover la participación ciudadana en los programas y acciones del Gobie
 
 INASISTENCIAS A LAS SESIONES DE CABILDO Y COMISIONES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-El Síndico Procurador o los Regidores sólo podrán dejar de asistir a las sesiones de cabildo o comisiones a la que hayan sido previamente convocados, en los siguientes casos:
+El Síndico Procurador, el Síndico Social o los Regidores sólo podrán dejar de asistir a las sesiones de cabildo o comisiones a la que hayan sido previamente convocados, en los siguientes casos:
 
 I.- Cuando previamente a la sesión, hayan avisado y expuesto el motivo de su inasistencia, por escrito, al Presidente Municipal o al Regidor que coordine la comisión respectiva, salvo casos fortuitos que impidan avisar oportunamente. Cuando la inasistencia corresponda al Coordinador de la Comisión, el aviso deberá darse al Secretario de la misma con la debida oportunidad; y
 
@@ -285,7 +293,9 @@ II.- Cuando haya sido comisionado por el Ayuntamiento, por el Presidente Municip
 
 III.- Cuando asistan a eventos fuera del municipio relacionados con su comisión dando cuenta previamente de la ausencia y a su regreso, deberán informar de los resultados obtenidos.
 
-Se considerarán inasistencias a las sesiones de cabildo, cuando algún Regidor o el Sindico Procurador que hubieren sido convocados, no se presenten aún cuando no se reúna el quórum correspondiente, para lo cual se deberá levantar acta circunstanciada por el Secretario Fedatario, donde precise los nombres de los presentes y ausentes, y demás hechos que considere necesarios.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Se considerarán inasistencias a las sesiones de cabildo, cuando algún Regidor, el Síndico Social o el Síndico Procurador que hubieren sido convocados, no se presenten aún cuando no se reúna el quórum correspondiente, para lo cual se deberá levantar acta circunstanciada por el Secretario Fedatario, donde precise los nombres de los presentes y ausentes, y demás hechos que considere necesarios.
 
 JUSTIFICACIÓN DE LAS INASISTENCIAS.
 
@@ -333,7 +343,9 @@ Las ausencias en que incurran los Munícipes serán suplidas conforme el procedi
 
 I.- Las ausencias temporales del Presidente Municipal serán suplidas por un Regidor, mientras que las definitivas serán cubiertas por su suplente;
 
-II.- Las ausencias temporales del Síndico Procurador no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente; y (sic)
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II.- Las ausencias temporales del Síndico Procurador y del Síndico Social, no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente; y (sic)
 
 III.- Las ausencias temporales de los Regidores no se suplirán, a menos que sea necesario para garantizar el quórum en las sesiones de cabildo. En ese caso y en las ausencias definitivas, será llamado su suplente para cubrirlas;
 
@@ -355,11 +367,15 @@ II.- Previo al inicio de la sesión, se realizará un sorteo para determinar al 
 
 III.- Mediante votación económica se tomará el acuerdo de cabildo para llamar al suplente del Presidente Municipal, a fin de que cubra la ausencia definitiva.
 
-SUPLENCIA DEL SÍNDICO PROCURADOR Y REGIDORES.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+SUPLENCIA DEL SÍNDICO PROCURADOR, SÍNDICO SOCIAL Y REGIDORES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 33.
 
-Cuando el Síndico Procurador o algún Regidor deban ausentarse de manera temporal, darán aviso al Ayuntamiento a través del Presidente Municipal. Tratándose de ausencia definitiva, solicitarán la autorización de la licencia correspondiente para separarse del cargo.
+Cuando el Sindico Procurador, el Síndico Social o algún Regidor deban ausentarse de manera temporal, darán aviso al Ayuntamiento a través del Presidente Municipal. Tratándose de ausencia definitiva, solicitarán la autorización de la licencia correspondiente para separarse del cargo.
 
 En los casos que se solicite y autorice la licencia, así como cuando las causas que generen una ausencia definitiva sobrevengan repentina o accidentalmente y que sea necesario llamar al suplente a Juicio del Ayuntamiento, éste lo acordará en Sesión de Cabildo.
 
@@ -537,7 +553,9 @@ III.- El Secretario Fedatario tomará lista de presentes a los Munícipes entran
 
 IV.- Se procederá a realizar honores a los símbolos patrios, y después a tomar la protesta legal de los integrantes del Ayuntamiento entrante ante el representante del Congreso del Estado y demás personalidades de la comunidad, para lo cual primeramente lo hará el Presidente Municipal entrante pidiendo a los Munícipes y asistentes que se pongan de pie para pasar a exclamar elevando el brazo derecho: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Presidente Municipal que el pueblo de Ensenada me ha conferido, mirando en todo por el bien y el progreso del Municipio, y si así no lo hiciere que el pueblo de Ensenada me lo demande".
 
-Acto seguido, el Presidente Municipal entrante tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: "¿ Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Síndico Procurador y Regidores que el pueblo de Ensenada les ha conferido, mirando en todo por el bien y el progreso del Municipio ?. Los Munícipes entrantes elevarán el brazo derecho y contestarán:
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Acto seguido, el Presidente Municipal entrante tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Síndico Procurador, Síndico Social y Regidores que el pueblo de Ensenada les ha conferido, mirando en todo por el bien y el progreso del Municipio?. Los Munícipes entrantes elevarán el brazo derecho y contestarán:
 
 "Sí, protesto"; el Presidente Municipal dirá: "Si así no lo hicieren, que el pueblo de Ensenada se los demande";
 
@@ -597,9 +615,11 @@ Para efectos de proceder a la celebración de sesiones de cabildo, deberá convo
 
 AUTORIDAD CONVOCANTE.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 57.
 
-Para efectos de celebrar sesiones ordinarias, extraordinarias y solemnes de Cabildo, por instrucción del Presidente Municipal, la convocatoria será expedida por el Secretario Fedatario del Ayuntamiento y notificada al Síndico Procurador y a los Regidores.
+Para efectos de celebrar sesiones ordinarias, extraordinarias y solemnes de Cabildo, por instrucción del Presidente Municipal, la convocatoria será expedida por el Secretario Fedatario del Ayuntamiento y notificada al Síndico Procurador, al Síndico Social y a los Regidores.
 
 En el caso de la celebración de sesiones extraordinarias de Cabildo, a petición de la mayoría de sus miembros, el Presidente Municipal instruirá al Secretario Fedatario para expedir la convocatoria y notificarla al resto de los Munícipes.
 
@@ -623,7 +643,9 @@ II.- Lectura y aprobación del Orden del Día;
 
 III.- Lectura, discusión, y aprobación en su caso, del acta de la sesión anterior, excepto en los casos de dispensa;
 
-IV.- Presentación de informes del Presidente Municipal, Sindico Procurador, y de las Comisiones de Regidores;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IV.- Presentación de informes del Presidente Municipal, Sindico Procurador, Síndico Social y de las Comisiones de Regidores;
 
 V.- Presentación de dictámenes u opiniones de las Comisiones;
 
@@ -715,7 +737,9 @@ XIV.- Suscribir en unión con el Secretario Fedatario del Ayuntamiento, los acue
 
 XV.- Dar publicidad a los reglamentos y demás disposiciones de carácter general aprobados por el Ayuntamiento;
 
-XVI.- Convocar y promover reuniones de consensos con el Síndico Procurador y los Regidores coordinadores que representen a los diferentes partidos políticos con presencia en el Ayuntamiento, con el objeto de promover entendimientos y convergencias políticas que resulten necesarios para alcanzar acuerdos a fin de que el Ayuntamiento, esté en mejores condiciones de adoptar las decisiones que constitucional, legal y reglamentariamente le corresponden;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XVI.- Convocar y promover reuniones de consensos con el Síndico Procurador, el Síndico Social y los Regidores coordinadores que representen a los diferentes partidos políticos con presencia en el Ayuntamiento, con el objeto de promover entendimientos y convergencias políticas que resulten necesarios para alcanzar acuerdos a fin de que el Ayuntamiento, esté en mejores condiciones de adoptar las decisiones que constitucional, legal y reglamentariamente le corresponden;
 
 XVII.- En general, tomar las medidas necesarias, durante la celebración de las sesiones, para proveer al cumplimiento de la Ley, del presente Reglamento y de los Acuerdos del Cabildo.
 
@@ -1143,13 +1167,17 @@ Para ejercer las atribuciones que como órganos de trabajo del Ayuntamiento le c
 
 I.- Tendrán facultad para estudiar y supervisar que se ejecuten los Acuerdos de Cabildo y demás disposiciones aplicables al Gobierno y a la Administración Pública Municipal;
 
-II.- Propondrán al Ayuntamiento los proyectos de solución a los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Pública Municipal, mediante opinión o dictamen de los asuntos que les sean turnados;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II.- Propondrán al Ayuntamiento los proyectos de solución o los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Pública Municipal, mediante opinión o dictamen de los asuntos que les sean turnados;
 
 III.- Actuarán con plena autoridad para requerir por conducto del Presidente Municipal y por escrito a los titulares de las dependencias y entidades de la Administración Pública Municipal, la información que requieran para el despacho de los asuntos de su conocimiento y el desarrollo de su función;
 
 IV.- Supervisarán el correcto funcionamiento de las dependencias y entidades de la Administración Pública Municipal relativas al ramo o materia de la Comisión y coadyuvarán en la promoción, difusión de sus programas o acciones; y
 
-V.- Ejercerán las demás facultades que les señale este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal, el Síndico Procurador.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+V.- Ejercerán las demás facultades que les señale este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal, el Síndico Procurador y Sindico Social.
 
 Por su naturaleza, las Comisiones no podrán asumir funciones ejecutivas ni de representación del Ayuntamiento.
 
@@ -1231,9 +1259,11 @@ VI.- Las demás que el Coordinador o la Comisión le encomienden.
 
 MUNICIPES NO MIEMBROS DE LA COMISION.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 112.
 
-El Presidente Municipal podrá participar en todas las Comisiones que considere necesario, y el Síndico Procurador se adherirá a cualquiera de ellas cuando los asuntos que se traten, involucren los intereses patrimoniales del Ayuntamiento o se relacionen con el ejercicio de sus funciones. Dichos munícipes participarán con derecho a voz, pero sin derecho a voto.
+El Presidente Municipal podrá participar en todas las Comisiones que considere necesario, el Síndico Procurador se adherirá a cualquiera de ellas cuando los asuntos que se traten, involucren los intereses patrimoniales del Ayuntamiento o se relacionen con el ejercicio de sus funciones, el Síndico social se adherirá a cualquiera de ellas cuando los asuntos de que se traten, versen sobre temas y acciones de Desarrollo Social o se relacionen con el desarrollo de sus funciones. Dichos munícipes participarán con derecho a voz, pero sin derecho a voto.
 
 Los Regidores que no sean miembros de una comisión podrán asistir a las reuniones de ésta con voz, pero sin voto.
 
@@ -1303,9 +1333,13 @@ XVI.- Comisión del agua
 
 XVII.- Comisión de Juventud
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
 
 XVIII.- Comisión de Deporte
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XX (SIC).- Comisión de Transparencia y Rendición de Cuentas.
 
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
@@ -1631,6 +1665,28 @@ III.- Participar en los organismos relacionados al desarrollo y promoción del d
 
 IV.- Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia de deportes, y con base en sus resultados y a las necesidades operantes para orientar la política del gobierno municipal.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+COMISIÓN DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS
+
+ARTÍCULO 127 OCTIES (SIC).- Atribuciones:
+
+I.- Proponer, analizar, estudiar y dictaminar las iniciativas en materia de transparencia y rendición de cuentas;
+
+II.- Proponer al Ayuntamiento la ejecución de políticas, medidas y lineamientos encaminados a asegurar la transparencia en el uso de los recursos públicos y la rendición de cuentas del actuar gubernamental de la administración pública municipal;
+
+III.- Proponer que se organicen, promuevan y difundan acciones, estudios y/o eventos tendientes a fortalecer la transparencia y rendición de cuentas de los actos de gobierno y la participación responsable de la ciudadana (sic);
+
+IV.- Participar en los organismos municipales y/o en los que el Ayuntamiento tenga injerencia, que tengan por objeto o estén relacionados con las materias de transparencia y la rendición de cuentas;
+
+V.- Evaluar y vigilar los trabajos de las dependencias y paramunicipales, en cuanto al cumplimiento de las disposiciones normativas en materia de transparencia y rendición de cuentas, para proponer las medidas pertinentes y orientar la política del gobierno municipal;
+
+VI.- Supervisar el funcionamiento eficiente y eficaz de la Unidad Concentradora de Transparencia y Acceso a la Información Pública, en cumplimiento de su reglamento y en la atención de las solicitudes de información que se realicen;
+
+VII.- Vigilar la actualización del portal de internet del Ayuntamiento con la información pública que de oficio se generé;
+
+VIII.- Cualquier otra relacionada a la promoción de la cultura de la legalidad, la denuncia, la transparencia y la rendición de cuentas.
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
 CONVOCATORIA.
@@ -1639,7 +1695,9 @@ CONVOCATORIA.
 
 Las sesiones de las comisiones serán convocadas por su Coordinador, y el secretario de la comisión en su caso, cuando menos con cuarenta y ocho horas de anticipación, indicándose fecha, hora, lugar y asuntos a tratar. Para notificar la convocatoria a los Regidores integrantes de la Comisión, se observara el procedimiento aplicable en el caso de convocatorias a sesiones de cabildo.
 
-A los demás integrantes del Ayuntamiento, incluyendo al Sindico Procurador y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+A los demás integrantes del Ayuntamiento, incluyendo al Sindico Procurador, Síndico Social y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
 
 Al inicio de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en estos términos.
 
@@ -1709,9 +1767,11 @@ En la sesión ordinaria de Cabildo inmediata anterior a la que deba rendirse el 
 
 SANCIONES A MUNICIPES POR INASISTENCIAS A SESIONES DE CABILDO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 135.
 
-Los Regidores o el Sindico Procurador que sin causa justificada dejen de asistir a dos sesiones de cabildo de manera consecutiva, serán exhortados por el Presidente Municipal para que concurran a la siguiente sesión, dando fe de dicho acto el Secretario Fedatario del Ayuntamiento, quien será el encargado de notificar por escrito al faltista.
+Los Regidores, el Síndico Social o el Sindico Procurador que sin causa justificada dejen de asistir a dos sesiones de cabildo de manera consecutiva, serán exhortados por él Presidente Municipal para que concurran a la siguiente sesión, dando fe de dicho acto el Secretario Fedatario del Ayuntamiento, quien será el encargado de notificar por escrito al faltista.
 
 Si una vez formulada la exhortación se incurriere en otra inasistencia injustificada, se impondrá una multa equivalente a quince días del ingreso que perciba por su dieta, aplicando la retención por conducto de la Tesorería Municipal y destinando esos recursos a los programas de asistencia social. Si se incurriera en faltas injustificadas a cuatro sesiones de cabildo consecutivas, procederá la revocación del mandato, en los términos previstos por este Reglamento.
 
@@ -1836,3 +1896,15 @@ P.O. 5 DE AGOSTO DE 2011.
 P.O. 28 DE OCTUBRE DE 2011.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+ACUERDO POR EL QUE SE APRUEBA POR EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, EL PROYECTO DE ADICIÓN DE LA FRACCIÓN XX DEL ARTÍCULO 114 Y ADICIÓN DEL ARTÍCULO 127 OCTIES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, B.C.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+SE APRUEBA POR EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, EL PROYECTO DE REFORMA DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
