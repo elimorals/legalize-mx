@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-509
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-07-10"
-last_updated: "2012-07-09"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50989&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2013.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de julio de 2006.
 
@@ -157,9 +157,9 @@ XV.- Las señaladas en el artículo 17 del Reglamento.
 
 La Dirección General de Contratos de Adhesión, Registros y Autofinanciamiento tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-I.- Organizar y operar los registros públicos de contratos de adhesión y de consumidores que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios;
+I.- Organizar y operar los registros públicos de contratos de adhesión, de consumidores que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios y de casas de empeño;
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
 
@@ -217,11 +217,17 @@ XV.- Dar a conocer al público la información que envíen las Sociedades de Inf
 
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2010)</small>
 
-XVI.- Revisar, de oficio o a petición de parte, que los modelos de contratos de adhesión que determinen la ley y otras disposiciones legales y normativas, se ajusten a lo dispuesto por las mismas y, en su caso, ordenar su modificación o la suspensión de su uso respecto de nuevas operaciones mientras no sean modificados, y
+XVI.- Revisar, de oficio o a petición de parte, que los modelos de contratos de adhesión que determinen la ley y otras disposiciones legales y normativas, se ajusten a lo dispuesto por las mismas y, en su caso, ordenar su modificación o la suspensión de su uso respecto de nuevas operaciones mientras no sean modificados, y (sic)
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+XVII.- Recibir, tramitar y resolver las solicitudes de inscripción, modificación, renovación anual y cancelación de las personas físicas o sociedades mercantiles en el Registro Público de Casas de Empeño; asimismo substanciar los procedimientos administrativos que con motivo de dicho Registro se interpongan.
+
+Los Delegados se coordinarán con la Dirección General para coadyuvar en el cumplimiento del Registro Público de Casas de Empeño, y
 
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2010)</small>
 
-XVII.- Las señaladas en el artículo 17 del Reglamento.
+XVIII.- Las señaladas en el artículo 17 del Reglamento.
 
 ###### ARTICULO 7.
 
@@ -541,49 +547,137 @@ XII.- Coadyuvar con la Dirección General de Recursos Humanos en las revisiones 
 
 XIII.- Las señaladas en el artículo 17 del Reglamento.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2013, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE TRECE FRACCIONES A DOCE.</small>
+
 ###### ARTICULO 13.
 
 La Dirección General de Delegaciones tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-I.- Establecer criterios, lineamientos y procedimientos que regulen la operación de las delegaciones, subdelegaciones y unidades de servicio de la Procuraduría en aspectos que no sean competencia de otras unidades administrativas;
+I.- Establecer criterios, lineamientos y procedimientos que regulen la operación de las coordinaciones regionales de delegaciones, delegaciones, subdelegaciones y unidades de servicio de la Procuraduría en aspectos que no sean competencia de otras unidades administrativas;
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-II.- Fungir como enlace y vínculo permanente de coordinación entre las unidades administrativas centrales y las delegaciones y subdelegaciones, así como entre las delegaciones y las delegaciones (sic) y subdelegaciones, con el fin de promover el mejor desarrollo de sus actividades y apoyarlas en sus requerimientos;
+II.- Diseñar, establecer y operar métodos y procedimientos para el procesamiento de la información que le proporcionen las coordinaciones de delegaciones regionales, que coadyuven a la expedita actuación de la Procuraduría, en el ámbito competencial de las delegaciones regionales;
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-III.- Diseñar y programar, en coordinación con las unidades administrativas competentes y los delegados y subdelegados, las acciones a desarrollar por las delegaciones, subdelegaciones y unidades de servicio, coordinar su implementación y dar seguimiento a sus resultados;
+III.- Planificar y coordinar, con las Subprocuradurías de Servicios y de Verificación, y las coordinaciones de delegaciones regionales, operativos conjuntos para la supervisión, verificación, vigilancia y evaluación, que se efectúen periódicamente por las Delegaciones, en el ámbito de su respectiva competencia;
 
-IV.- Coordinar, concertar y evaluar las acciones de colaboración que las delegaciones acuerden con autoridades federales, estatales y municipales y con organismos privados y sociales, previo dictamen de la Subprocuraduría Jurídica;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+IV.- Fungir como enlace y vínculo permanente de coordinación entre las unidades administrativas centrales y las coordinaciones regionales de delegaciones, delegaciones y subdelegaciones, así como entre las mismas coordinaciones, con el fin de promover el mejor desarrollo de sus actividades y apoyarlas en sus requerimientos;
 
-V.- Integrar la información remitida por las delegaciones, subdelegaciones y unidades de servicio, consolidarla y someterla a la consideración del Procurador y, en su caso, de las unidades administrativas centrales, según su ámbito de competencia;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+V.- Conocer del resultado de la práctica de visitas a delegaciones, subdelegaciones y unidades de servicio realizadas por las coordinaciones regionales de delegaciones, en coordinación con las unidades administrativas competentes, para realizar los diagnósticos integrales; así como ordenar las visitas que considere necesarias para el buen desempeño de las funciones de las Delegaciones;
 
-VI.- Ordenar y practicar visitas a delegaciones, subdelegaciones y unidades de servicio para realizar, en coordinación con las unidades administrativas competentes, diagnósticos integrales; y con base en los resultados obtenidos y en los estudios de carácter general con que se cuente, proponer y aplicar las medidas que impulsen la mejora y desarrollo integral de las delegaciones y subdelegaciones;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-VII.- Resolver los recursos de revisión interpuestos contra actos y resoluciones definitivas emitidas por los delegados;
+VI.- Coordinar, concertar y evaluar las acciones de colaboración que las coordinaciones regionales de delegaciones o las delegaciones realicen con autoridades federales, estatales y municipales y con organismos privados y sociales, previo dictamen de la Subprocuraduría Jurídica;
 
-VIII.- Coadyuvar con las unidades administrativas competentes, en la supervisión del cumplimiento de políticas, lineamientos y criterios emitidos por éstas e implementar con ellas, las acciones de capacitación que correspondan;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+VII.- Resolver los recursos de revisión interpuestos contra actos y resoluciones definitivas emitidas por los Coordinadores Regionales;
 
-IX.- Dar seguimiento, en coordinación con la Subprocuraduría Jurídica, a la cumplimentación de resoluciones de recursos de revisión y sentencias correspondientes a actos emitidos por los servidores públicos de las delegaciones, subdelegaciones y unidades de servicio;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-X.- Analizar y proponer al Procurador, la instalación o supresión de delegaciones, subdelegaciones y demás representaciones de la Procuraduría y coordinar los procesos de selección de delegados, subdelegados y mandos medios en las delegaciones;
+VIII.- Supervisar el cumplimiento de políticas, lineamientos y criterios aplicables e implementar acciones de capacitación;
 
-XI.- Realizar los estudios que correspondan para determinar los requerimientos de las delegaciones y subdelegaciones en materia de recursos; así como gestionar y, en su caso, agilizar ante las unidades administrativas competentes, su asignación;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2010)</small>
+IX.- Coordinar con la Subprocuraduría Jurídica la rescisión o terminación de las relaciones laborales de los servidores públicos que se encuentren adscritos;
 
-XII.- Supervisar el cumplimiento, por parte de los delegados, subdelegados, titulares de unidades de servicio y demás servidores públicos adscritos a las delegaciones y subdelegaciones, de la normatividad aplicable en el ejercicio de sus atribuciones y de las disposiciones en materia de impedimentos, excusas y recusaciones, y
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
 
-XIII.- Las señaladas en el artículo 17 del Reglamento.
+X.- Proponer al Procurador, la creación o supresión de coordinaciones regionales de delegaciones, delegaciones, subdelegaciones y demás representaciones de la Procuraduría y coordinar los procesos de selección de coordinadores de delegados regionales, delegados, subdelegados y mandos medios en las delegaciones;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+XI.- Proponer al Procurador el programa de operativos anuales para la supervisión, verificación, vigilancia y evaluación, que deberán realizar las Delegaciones, en el ámbito de su respectiva competencia, y
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+XII.- Las demás que le confieran las disposiciones legales aplicables y las que le encomiende el Procurador.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 13 BIS.- Para la adecuada atención de los asuntos competencia de la Procuraduría, contará con las coordinaciones regionales de delegaciones.
+
+Al frente de cada coordinación regional de delegaciones, habrá un Titular, que será nombrado y removido por el Procurador.
+
+Las coordinaciones regionales de delegaciones tendrán las siguientes sedes:
+
+I.- Coordinación Regional de Delegaciones Zona Noroeste, con sede en la ciudad de Hermosillo, Sonora;
+
+II.- Coordinación Regional de Delegaciones Zona Noreste, con sede en la ciudad de Monterrey, Nuevo León;
+
+III.- Coordinación Regional de Delegaciones Zona Occidente, con sede en la ciudad de Guadalajara, Jalisco;
+
+IV.- Coordinación Regional de Delegaciones Regional Zona Centro, con sede en la Ciudad de México, Distrito Federal, y
+
+V.- Coordinación Regional de Delegaciones Zona Sur, con sede en la ciudad de Veracruz, Veracruz.
+
+Las coordinaciones regionales de delegaciones tendrán la adscripción y ámbito de competencia territorial, siguiente:
+
+I. Zona Noroeste. Coordina los estados de Baja California,
+
+Baja California Sur, Chihuahua, Sinaloa
+
+y Sonora.
+
+II. Zona Noreste. Coordina los estados de Coahuila de
+
+Zaragoza, Durango, Nuevo León, San Luis Potosí
+
+y Tamaulipas.
+
+III. Zona Occidente. Coordina los estados de Aguascalientes,
+
+Colima, Guanajuato, Jalisco, Michoacán,
+
+Nayarit, Querétaro y Zacatecas.
+
+IV. Zona Centro. Coordina los estados de Guerrero,
+
+Estado de México, Hidalgo, Morelos, Puebla,
+
+Tlaxcala y el Distrito Federal.
+
+V. Zona Sur. Coordina los estados de Campeche,
+
+Chiapas, Oaxaca, Quintana Roo, Tabasco,
+
+Veracruz y Yucatán.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 13 TER.- Las coordinaciones regionales de delegaciones, contarán con las facultades y obligaciones siguientes:
+
+I.- Ordenar la verificación y vigilancia, de oficio o a petición de parte, en los términos previstos en la ley, de la Ley Federal sobre Metrología y Normalización de las normas a que ésta se refiere y de las demás disposiciones legales, reglamentarias y normativas aplicables y supervisar su observancia. Asimismo lo podrá hacer en materia de combustibles;
+
+II.- Suscribir todo tipo de actuaciones y resoluciones que se dicten dentro del ámbito de su competencia, en los procedimientos por infracciones a la ley, y ordenar los trámites conducentes a su sustanciación, conforme a la propia ley y los demás ordenamientos jurídicos que resulten aplicables;
+
+III.- Ordenar las medidas precautorias y medidas de apremio previstas en la ley, la Ley Federal sobre Metrología y Normalización y demás disposiciones aplicables e imponer las sanciones que correspondan, así como adoptar las medidas necesarias para su ejecución;
+
+IV.- Ordenar el aseguramiento de bienes y productos que se comercialicen fuera de establecimiento comercial cuando no cumplan con las disposiciones aplicables y hacerlo del conocimiento de las autoridades competentes;
+
+V.- Requerir a las autoridades, los proveedores y los consumidores, la información o documentación necesaria para el ejercicio de las atribuciones que la ley y otros ordenamientos legales le confieran a la Procuraduría;
+
+VI.- Comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de que actúen de manera individual o conjunta; asimismo podrá comisionar servidores públicos de una Delegación para que actúe en el ámbito territorial de otra Delegación;
+
+VII.- Proponer al Director General de Delegaciones los criterios, lineamientos y procedimientos que regulen la operación de las delegaciones, subdelegaciones y unidades de servicio de la Procuraduría en el ámbito de su competencia;
+
+VIII.- Ser superior jerárquico de las delegaciones y las subdelegaciones de la zona que le corresponda; y coordinarse permanente con la Dirección General de Delegaciones, con el fin de promover el mejor desarrollo de sus actividades;
+
+IX.- Elaborar los programas de acción a desarrollar por las delegaciones, subdelegaciones y unidades de servicio de su zona; coordinar su implementación y dar seguimiento a sus resultados; haciéndolos del conocimiento del Director General de Delegaciones;
+
+X.- Ordenar y practicar visitas a delegaciones, subdelegaciones y unidades de servicio de su zona, para realizar diagnósticos integrales; y con base en los resultados obtenidos proponer y aplicar las medidas que impulsen la mejora y desarrollo integral de éstas;
+
+XI.- Supervisar que los delegados, subdelegados, titulares de unidades de servicio y demás servidores públicos adscritos a las delegaciones y subdelegaciones de su zona, cumplan con la normatividad aplicable en el ejercicio de sus atribuciones y de las disposiciones en materia de impedimentos, excusas y recusaciones, y en su caso, aplicar las medidas necesarias para lograr dicho cumplimiento; y
+
+XII.- Las demás que les confieran las disposiciones legales aplicables, así como las que les encomiende el Procurador y el Director General de Delegaciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
@@ -822,6 +916,10 @@ e) Delegación Oriente, con sede en el territorio de cualquiera de las Delegacio
 Las Direcciones Generales de Quejas y Conciliación; de Contratos de Adhesión, Registros y Autofinanciamiento; de Procedimientos; de Verificación y Vigilancia, y de Verificación de Combustibles, ejercerán sus atribuciones en todo el territorio nacional, pudiendo iniciar los procedimientos administrativos de su competencia y remitir los expedientes respectivos a las distintas delegaciones y subdelegaciones de la Procuraduría, de acuerdo a la circunscripción territorial que les corresponda, a efecto de que el Delegado, Subdelegado, Jefe de Departamento de Servicios o Jefe de Departamento de Verificación y Vigilancia, según corresponda, los sustancien y resuelvan, sin perjuicio del ejercicio de sus demás atribuciones.
 
 Asimismo, las Direcciones Generales mencionadas, en el ámbito de su competencia, podrán atraer para sustanciación y resolución aquellos procedimientos administrativos que, habiendo sido iniciados en alguna delegación o subdelegación, se consideren relevantes por su cuantía o afectación a una colectividad de consumidores.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+En tal circunstancia, los Subprocuradores deberán conocer, sustanciar y resolver los recursos de revisión que presenten los particulares en contra de las resoluciones.
 
 ###### ARTICULO 16.
 
@@ -1193,6 +1291,12 @@ VI.- Proponer los criterios conforme a los cuales deberán regirse las relacione
 
 VII.- Las señaladas en el artículo 17 del Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 25.
+
+Los titulares de las Direcciones Generales se podrán apoyar de los Directores de área y del personal adscrito para cumplir con las atribuciones y funciones que tienen encomendadas.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Estatuto Orgánico entrará en vigor a los cinco días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
@@ -1246,3 +1350,9 @@ D.O.F. 9 DE JULIO DE 2012.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Dirección General de Delegaciones, en coordinación con las unidades administrativas objeto del presente Acuerdo, implementará las acciones necesarias que permitan la oportuna y adecuada atención a los procedimientos administrativos y otros asuntos en trámite, con el debido resguardo de los expedientes vinculados.
+
+D.O.F. 18 DE OCTUBRE DE 2013.
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Coordinación General de Administración, proveerá los recursos financieros y materiales; asimismo, dotará de personal operativo para realizar las acciones de supervisión, verificación, vigilancia y evaluación inherentes a las coordinaciones regionales de delegaciones, sin incrementar el presupuesto; entre tanto, los delegados proporcionarán los recursos humanos, financieros y materiales a sus coordinaciones regionales.
