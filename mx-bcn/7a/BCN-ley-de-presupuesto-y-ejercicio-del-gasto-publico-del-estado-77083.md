@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2013-10-11"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -45,7 +45,7 @@ La presente Ley tiene por objeto normar y regular los presupuestos de ingresos y
 
 Son sujetos de esta Ley:
 
-l. El Poder Ejecutivo;
+I. El Poder Ejecutivo;
 
 II. El Poder Legislativo;
 
@@ -231,6 +231,14 @@ c) Tabla de Valores Catastrales Unitarios base del Impuesto Predial del Proyecto
 
 La información a que se refiere el presente Artículo deberá ser presentada, además de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS.- Además de la información a que se refiere el Artículo 12 del presente ordenamiento, las leyes de ingresos contendrán apartados específicos con la información siguiente:
+
+a) Las fuentes de ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales, y
+
+b) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos.
+
 ###### ARTÍCULO 13.
 
 Las Leyes de Ingresos del Estado y de los Municipios aprobadas por el Congreso del Estado, deberán ser publicadas en el Periódico Oficial a más tardar el 31 de diciembre del ejercicio inmediato anterior al que corresponda la Ley.
@@ -303,7 +311,7 @@ VII. Otros de naturaleza análoga.
 
 Las operaciones transitorias no formarán parte del Presupuesto de Ingresos de los sujetos de esta Ley, sin embargo, sí lo serán del flujo de efectivo que deberán elaborar para la debida administración de sus recursos disponibles en numerario y que formará parte de su información financiera.
 
-## TÍTULO TERCERO. De los Egresos. (sic)
+## TÍTULO TERCERO. DE LOS EGRESOS
 
 ### CAPÍTULO PRIMERO
 
@@ -403,7 +411,7 @@ III. Al Congreso del Estado, los Proyectos de Presupuestos de Egresos correspond
 
 Al Proyecto de Presupuesto de Egresos de los sujetos de esta Ley deberá acompañarse la siguiente información:
 
-l. Exposición de motivos, en la que se describan las condiciones económicas y sociales que prevalezcan en el Estado o Municipio, la situación financiera y hacendaria que presente y las que prevea para el futuro; así como las estrategias a implementar y los propósitos a lograr con el proyecto de Presupuesto de Egresos;
+I. Exposición de motivos, en la que se describan las condiciones económicas y sociales que prevalezcan en el Estado o Municipio, la situación financiera y hacendaria que presente y las que prevea para el futuro; así como las estrategias a implementar y los propósitos a lograr con el proyecto de Presupuesto de Egresos;
 
 II. Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos;
 
@@ -897,7 +905,7 @@ En los Poderes Legislativo y Judicial y en los Órganos Autónomos, el cumplimie
 
 Para efectos de la evaluación y fiscalización del gasto público, el Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, los Ayuntamientos, por conducto de los Presidentes Municipales, y los Titulares de las Entidades Paraestatales y Paramunicipales, del Poder Judicial, así como de los Órganos Autónomos, deberán remitir al Congreso del Estado, la información financiera que a continuación se señala:
 
-l. A más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio en curso, la relativa a los trimestres primero, segundo y tercero, respectivamente:
+I. A más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio en curso, la relativa a los trimestres primero, segundo y tercero, respectivamente:
 
 1. Información contable.
 
@@ -1019,7 +1027,7 @@ Igual atribución tendrán los Órganos de Control de los Poderes Legislativo y 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2013)</small>
 
-## TÍTULO QUINTO BIS. De la Transparencia y Difusión de la Información Financiera
+## TÍTULO QUINTO BIS. DE LA TRANSPARENCIA Y DIFUSIÓN DE LA INFORMACIÓN FINANCIERA
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
 
@@ -1246,3 +1254,7 @@ La obligación de incluir la información financiera correspondiente a los seis 
 P.O. 11 DE OCTUBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
