@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-de-los-recursos-publicos-para-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2013-07-05"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -81,7 +81,9 @@ VI. Cuenta Pública: La información anual que las Entidades presenten al Congre
 
 VII. Entidades: Los Poderes del Estado, los Municipios del Estado, Entidades Paraestatales, Entidades Paramunicipales y los Órganos Autónomos;
 
-VIII. Entidades Fiscalizables: Las Entidades que ejerzan recursos públicos y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+VIII.- Entidades Fiscalizables: Las Entidades que ejerzan recursos públicos, y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recepción, recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
 
 IX. Entidades Paraestatales: Los Organismos descentralizados, Empresas de Participación Estatal y Fideicomisos constituidos de conformidad con la ley Orgánica de la Administración Pública del Estado de Baja California;
 
@@ -264,6 +266,14 @@ Si concluido el plazo señalado en el párrafo anterior el titular de la Entidad
 ###### ARTÍCULO 15.
 
 El Congreso a través de la Comisión, turnará las Cuentas Públicas recibidas al Órgano de Fiscalización para su fiscalización superior.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 15 BIS.- Cuando las Entidades celebren contratos de fideicomisos o cualquier otra figura análoga, deberán dar aviso por escrito al Órgano de Fiscalización Superior en un plazo de 10 días hábiles a partir de su Protocolización ante Notario Público, anexando una copia de dicho contrato, para conocimiento y efectos de revisión de cuenta pública.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 15 BIS A.- En el caso de Entidades que efectúen su liquidación, fusión, escisión, terminación o extinción, deberán remitir su cuenta pública simultáneamente con la remisión de su último Informe de Avance de Gestión Financiera, en un plazo de 20 días hábiles a la fecha de darse los supuestos anteriormente señalados, e informando por escrito el nombre de la Entidad, Dependencia o servidor público responsable de solventar al Órgano de Fiscalización las observaciones de cuenta pública, que en su caso se hubieren formulado.
 
 ### CAPÍTULO SEGUNDO. DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
@@ -1226,3 +1236,9 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 5 DE JULIO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Túrnese las presentes Reformas al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
