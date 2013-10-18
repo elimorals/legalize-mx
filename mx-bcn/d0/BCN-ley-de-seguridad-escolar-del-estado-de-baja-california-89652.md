@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2012-12-07"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -241,9 +239,17 @@ IV. Las demás que conforme a esta Ley y otras disposiciones le correspondan.
 
 Son entidades auxiliares en materia de seguridad escolar:
 
-I. Los consejos escolares que operen con arreglo a esta Ley para los fines exclusivos de seguridad escolar, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-II. Los demás integrantes del sector privado y organismos de la sociedad civil que de forma voluntaria decidan auxiliar en materia de seguridad escolar.
+I. Los consejos escolares que operen con arreglo a esta Ley para los fines exclusivos de seguridad escolar;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II. Los demás integrantes del sector privado y organismos de la sociedad civil que de forma voluntaria decidan auxiliar en materia de seguridad escolar; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+III. La Academia de Seguridad Pública del Estado de Baja California.
 
 ###### Artículo 18.
 
@@ -398,6 +404,10 @@ IX. Auxiliar al directivo o responsable del centro escolar en la revisión del a
 X. Hacer del conocimiento del directivo o responsable del centro escolar, los hechos presuntamente delictivos o de situación de riesgo cuando tenga conocimiento de estos ante las autoridades competentes, y
 
 XI. Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Artículo 25 BIS.- Corresponde a la Academia de Seguridad Pública del Estado de Baja California fungir como órgano de apoyo de las autoridades encargadas de aplicar la presente Ley. Para tal efecto, la Academia realizará programas en los que se contemple la participación de sus aspirantes como miembros de las instituciones policiales.
 
 ### CAPÍTULO IV. PROGRAMA ESTATAL DE SEGURIDAD ESCOLAR
 
@@ -726,3 +736,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
