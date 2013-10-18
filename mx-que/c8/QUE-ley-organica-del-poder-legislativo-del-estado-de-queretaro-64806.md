@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2012-10-03"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -43,9 +43,11 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-(Objeto de la ley) Esta Ley tiene por objeto reglamentar la organización, funciones y atribuciones de la Legislatura del Estado, de sus órganos y dependencias; normar los procedimientos que derivan de esas atribuciones previstas en la Constitución Política del Estado de Querétaro, así como definir los derechos y obligaciones de los integrantes de la Legislatura y de los servidores públicos del Poder Legislativo.
+(Objeto de la ley) Esta Ley tiene por objeto reglamentar la organización, funciones y atribuciones del Poder Legislativo del Estado de Querétaro, de sus órganos y dependencias; normar los procedimientos que derivan de esas atribuciones previstas en la Constitución Política del Estado de Querétaro, así como definir los derechos y obligaciones de los integrantes de la Legislatura y de los servidores públicos del Poder Legislativo.
 
 Las disposiciones de esta Ley no son transigibles por vía de acuerdo de la Legislatura o de sus órganos, ni su vigencia u observancia podrán, por este concepto, suspenderse u obviarse.
 
@@ -63,11 +65,13 @@ Los tres años de ejercicio constitucional se considerarán de trabajo legislati
 
 (Residencia) La Legislatura tendrá su residencia oficial en el municipio de Querétaro y sesionará en sus recintos oficiales. La Mesa Directiva podrá habilitar otros recintos en el territorio del Estado, para el mismo efecto.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 5.
 
-(Inviolabilidad de los recintos oficiales) Los recintos oficiales del Poder Legislativo son inviolables. Ninguna autoridad podrá ejecutar mandatos administrativos o judiciales en los recintos oficiales del Poder Legislativo. Toda fuerza pública está impedida de tener acceso a los mismos, salvo autorización del Presidente de la Legislatura, en cuyo caso quedará bajo el mando de éste.
+(Inviolabilidad de los recintos oficiales) Los recintos oficiales del Poder Legislativo son inviolables. Ninguna autoridad podrá ejecutar mandatos administrativos o judiciales en ellos. Toda fuerza pública está impedida de tener acceso a los mismos, salvo autorización del Presidente de la Legislatura, en cuyo caso quedará bajo el mando de éste.
 
-El Presidente de la Legislatura podrá requerir el auxilio de la fuerza pública para salvaguardar el orden y la inviolabilidad de los recintos oficiales del Poder Legislativo. Si se estuviera celebrando sesión de la Legislatura e ingresara al recinto la fuerza pública sin mediar autorización, el Presidente de la Mesa Directiva ordenará su desalojo y podrá decretar la suspensión de la sesión hasta que dicha fuerza abandone el recinto y presentará la denuncia o iniciará el procedimiento correspondiente, para que el responsable sea sancionado.
+El Presidente de la Legislatura podrá requerir el auxilio de la fuerza pública para salvaguardar el orden y la inviolabilidad de los recintos oficiales del Poder Legislativo. Si se estuviera celebrando sesión de la Legislatura e ingresara al recinto la fuerza pública sin mediar autorización, el Presidente de la Mesa Directiva ordenará su desalojo y podrá decretar la suspensión de la sesión hasta que dicha fuerza abandone el recinto y presentará la denuncia o iniciará el procedimiento correspondiente ante las autoridades competentes, para que el responsable sea sancionado.
 
 ###### Artículo 6.
 
@@ -81,9 +85,11 @@ Cuando se ponga en duda la eficacia de las comunicaciones a que se refiere este 
 
 Las que se dirijan a la Legislatura o a sus órganos y no constituyan iniciativa de ley, decreto o acuerdo, tendrán el curso que acuerde el Presidente de la Legislatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 8.
 
-(Comunicaciones oficiales) De las comunicaciones oficiales dirigidas a la Legislatura que no constituyan iniciativa, se dará conocimiento a los integrantes de la Legislatura de una síntesis de las mismas, dentro de los cinco días siguientes de su recepción a través de medios electrónicos y se ordenará el trámite que acuerde el Presidente de la Legislatura. Se exceptúa de lo anterior, aquellas comunicaciones que requieran acuerdo del Pleno, de las cuales se dará cuenta en la sesión correspondiente.
+(Comunicaciones oficiales) Las comunicaciones oficiales dirigidas a la Legislatura que no constituyan iniciativa, se harán del conocimiento de los integrantes de la Legislatura, mediante una síntesis, dentro de la Sesión del Pleno que corresponda y se dará el trámite que acuerde el Presidente de la Legislatura. Se exceptúan de lo anterior, aquellas comunicaciones que requieran acuerdo del Pleno, de las cuales se informará en la sesión correspondiente.
 
 Tienen carácter oficial, las comunicaciones que provengan del Gobernador del Estado, de sus Secretarios de despacho, del Procurador General de Justicia, de los magistrados y jueces, de los ayuntamientos, de los titulares o representantes de los organismos públicos autónomos o de los organismos descentralizados y de los Poderes u órganos autónomos federales o estatales.
 
@@ -117,9 +123,11 @@ En caso de que el Diputado no se excusara, podrá ser recusado por cualquier dip
 
 (Sistema de Servicio Profesional de Carrera) El Sistema de Servicio Profesional de Carrera es un procedimiento administrativo de selección y capacitación de personal, que garantiza el ingreso, capacitación, desarrollo, promoción y permanencia de los servidores públicos del Poder Legislativo que formen parte de este sistema, basado en la experiencia y preparación comprobable y la evaluación periódica, calificación de sus funciones, así como la igualdad de oportunidades, con el fin de impulsar la profesionalización de la función pública, en beneficio de la sociedad y de la propia institución.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 14.
 
-(Trabajo anual de investigación) La Legislatura del Estado editará y publicará anualmente al menos una obra o trabajo de investigación legislativa, cuya elaboración estará a cargo de la Dirección de Investigación y Estadística Parlamentaria. Asimismo, en el mes de noviembre, cada investigador presentará protocolo de investigación para que se considere en el presupuesto correspondiente.
+(Trabajo anual de investigación) La Legislatura del Estado editará y publicará anualmente al menos una obra o trabajo de investigación legislativa, cuya elaboración estará a cargo de la Dirección de Investigación y Estadística Legislativa. Asimismo, en el mes de noviembre, cada investigador presentará protocolo de investigación para que se considere en el presupuesto correspondiente.
 
 ###### Artículo 15.
 
@@ -181,9 +189,17 @@ IX. Presentar la manifestación anual de bienes, de acuerdo con la ley de la mat
 
 X. Mantener, permanentemente, acercamiento con la población;
 
-XI. Abstenerse de ejercer funciones administrativas, salvo las expresamente señaladas en la ley; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XII. Observar estrictamente las disposiciones de esta ley y las normas que de ella emanen.
+XI. Abstenerse de ejercer funciones administrativas, salvo las expresamente señaladas en la ley;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XII. Contar con una página de internet en la que se establezca de manera clara su nombre y apellido, a fin de difundir las actividades legislativas y de trabajo con los ciudadanos y de representación llevadas a cabo, con el propósito de informar permanentemente el desarrollo de su gestión pública y facilidad de contacto con la sociedad; y
+
+N. DE E., DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 18 DE OCTUBRE DE 2013, SE OBSERVA QUE SE AGREGÓ ESTA FRACCIÓN.
+
+XIII. Observar estrictamente las disposiciones de esta ley y las normas que de ella emanen.
 
 ###### Artículo 18.
 
@@ -231,9 +247,11 @@ El descuento por inasistencia a una sesión del Pleno consistirá en el equivale
 
 No podrá aplicarse más de un descuento a cada diputado por sesión.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 22.
 
-(Separación de funciones por inasistencia) Cuando sin causa justificada a juicio de la Legislatura, un diputado falte a tres sesiones consecutivas del Pleno, se llamará a su suplente, el cual ejercerá las funciones de propietario por el periodo correspondiente a la duración de la Mesa Directiva que se encuentre en funciones en que ocurra la suplencia. Concluido el periodo, el diputado propietario podrá reincorporarse a sus funciones.
+(Separación de funciones por inasistencia) Cuando sin causa justificada a juicio de la Legislatura, un diputado falte a tres sesiones consecutivas del Pleno, se llamará a su suplente, el cual ejercerá las funciones de propietario durante el término de seis meses contados a partir de su toma de protesta. Concluido el periodo, el diputado propietario podrá reincorporarse a sus funciones.
 
 #### Sección Tercera. Licencias
 
@@ -267,9 +285,13 @@ Las dependencias administrativas respectivas, dispondrán de las medidas pertine
 
 (Junta preparatoria) A las once horas del día que corresponda a los cinco días naturales anteriores a la fecha de la Sesión de instalación de la Legislatura, la Mesa Directiva, con apoyo de la Dirección de Asuntos Legislativos y Jurídicos, celebrará con los diputados electos citados previamente con la información que para tal efecto proporcione el Instituto Electoral de Querétaro y que se encuentren presentes, una junta preparatoria que tendrá por objeto:
 
-I. Recibir de los diputados pertenecientes a los diversos Partidos Políticos o coaliciones por el cual fueron electos, las propuestas para el uso de los recursos para la transición en los términos de la ley de la materia, a efecto de que se apliquen de forma integral por el grupo de diputados, o bien, de forma proporcional por cada uno de ellos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-II. Verificar y elegir, entre los diputados electos, al diputado decano, entendiéndose como tal, al que haya tenido dicho cargo con más años, para que funja como Presidente de la Legislatura en la sesión de instalación;
+I. Recibir de los diputados pertenecientes a los diversos Partidos Políticos o coaliciones por el cual fueron electos o, en su caso, los diputados independientes electos, las propuestas para el uso de los recursos para la transición, en los términos de la ley de la materia, a efecto de que se apliquen de forma integral por el grupo de diputados, o bien, de forma proporcional por cada uno de ellos;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II. Verificar y elegir entre los diputados electos, al diputado decano, entendiéndose como tal, al que haya ostentado dicho cargo por más ocasiones o, en su defecto, al de mayor edad, para que funja como Presidente de la Legislatura en la sesión de instalación;
 
 III. En caso de que haya dos o más decanos, será el que pertenezca al Partido Político con mayor representación en la Legislatura entrante; y
 
@@ -399,7 +421,9 @@ En ningún caso podrá dispensarse alguna etapa del proceso legislativo.
 
 Los dictámenes que expidan las Comisiones y no sean conocidos por el Pleno de la Legislatura, así como los proyectos de ley o decreto que hubieran sido devueltos con observaciones por el Ejecutivo, quedarán a disposición de la sucesora para que se discutan y voten.
 
-Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, serán reasignadas a las Comisiones que correspondan para su estudio y dictamen.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, serán archivadas por acuerdo de la Mesa Directiva.
 
 ### Capítulo Tercero. De los dictámenes
 
@@ -507,6 +531,10 @@ VI. Hecho lo anterior, la Comisión presentará ante el Pleno el dictamen corres
 
 (Lista de oradores) Anunciada la discusión, se formará una lista de los diputados que pidan la palabra en contra o a favor, la cual se leerá de manera íntegra por un Secretario, antes de comenzar el debate.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+En caso de que las participaciones sean a favor de un dictamen, el registro de oradores será de hasta por tres diputados, privilegiando siempre la intervención de los integrantes de los distintos grupos y fracciones legislativas, salvo acuerdo previo emitido para tal efecto por la Junta de Concertación Política.
+
 ###### Artículo 55.
 
 (Orden de las intervenciones) Los oradores hablarán alternativamente en contra o a favor, llamándolos el Presidente de la Legislatura por el orden de la lista y comenzando por el inscrito en contra. Si el orador estuviese ausente cuando le corresponda intervenir, se le colocará al último de la lista. Si al terminar las intervenciones no estuviera presente, se procederá a la votación.
@@ -515,11 +543,17 @@ VI. Hecho lo anterior, la Comisión presentará ante el Pleno el dictamen corres
 
 (Intervenciones del Presidente) Cuando el Presidente de la Legislatura intervenga en las sesiones con ese carácter, permanecerá sentado en su curul; si quisiera intervenir en las discusiones, lo hará conforme a las reglas aplicables a cualquier otro diputado; mientras lo hace, sus funciones serán ejercidas por el vicepresidente, sin necesidad de cambiar de curul.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 57.
 
-(Intervenciones para hechos y alusiones personales) Cualquier diputado, aún cuando no esté inscrito en la lista de oradores, podrá pedir la palabra para rectificar hechos relativos al asunto en discusión, cuando haya concluido el orador que las exprese, pero no intervendrá por más de cinco minutos por estas causas.
+(Intervenciones para hechos y alusiones personales) Cualquier diputado, aún cuando no esté inscrito en la lista de oradores, podrá pedir la palabra para rectificar hechos relativos al asunto en discusión o al asunto general del que se trate, cuando haya concluido el orador que las exprese, pero no intervendrá por más de cinco minutos por estas causas.
 
 Tratándose de alusiones personales, se concederá la intervención una vez agotada la lista de oradores.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Para el caso de los asuntos generales, podrá haber sólo una intervención para hechos o, en su caso, para alusiones personales, teniendo el legislador que haya iniciado el asunto, la facultad de volver a intervenir hasta por una ocasión más.
 
 ###### Artículo 58.
 
@@ -981,13 +1015,35 @@ Ningún diputado, podrá ocupar simultáneamente las Presidencias de la Mesa Dir
 
 Cuando por cualquier causa algún diputado suplente sustituya al propietario en sus funciones, sin necesidad de declaración expresa quedará integrado en los cargos y órganos en que venía desempeñándose el propietario. Se excluyen de lo dispuesto en este párrafo los coordinadores de los Grupos y Fracciones Legislativas y el Presidente de la Legislatura, quienes en todo caso requerirán de designación expresa por parte de su Grupo o Fracción o del Pleno, respectivamente.
 
-#### Sección Primera. Grupos y Fracciones Legislativas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+#### Sección Primera. Grupos y Fracciones Legislativas y Diputados Independientes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 115.
 
-(Integración) Al inicio de la Legislatura, todos los Diputados electos integrarán Grupos o Fracciones Legislativas, conformándose por cada partido político o coalición con representación en la Legislatura que haya participado en la elección inmediata anterior. Son fracciones Legislativas aquellas constituidas por un solo diputado.
+(Integración) Al inicio de la Legislatura, todos los Diputados electos integrarán Grupos o Fracciones Legislativas, conformándose por cada partido político, coalición o diputados independientes con representación en la Legislatura, que haya participado en la elección inmediata anterior. Son fracciones Legislativas aquellas constituidas por un solo diputado.
 
-Ningún diputado podrá ser integrante de más de un Grupo o Fracción Legislativa.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Los diputados independientes son aquellos que no militan en partido político alguno y se constituirán en Grupo o Fracción Legislativa.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+En el supuesto de haber más de un diputado independiente, éstos constituirán un solo Grupo Legislativo, eligiendo entre ellos a quien fungirá como su Coordinador, el cual los representará en la Junta de Concertación Política y en las actividades que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Los diputados independientes gozarán de todos y cada uno de los derechos y obligaciones previstos en esta Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Si un diputado independiente se registra y afilia formalmente a un partido político perderá tal carácter y se integrará al grupo legislativo que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Si durante el ejercicio de la función legislativa un diputado renuncia a la militancia de su partido, es expulsado del mismo, se registra en otro partido político, o bien, se declara diputado independiente, no perderá ningún derecho y seguirá sujeto a las mismas obligaciones que tenía previstas.
 
 ###### Artículo 116.
 
@@ -1007,19 +1063,19 @@ Las relaciones contractuales entre las personas que no hayan sido contratadas po
 
 ###### Artículo 118.
 
-(Separación de Grupo Legislativo) Los diputados que por cualquier causa se separen de un Grupo Legislativo podrán integrarse a otro de los constituidos. Los recursos que le correspondían por pertenecer al Grupo Legislativo del cual se separaron serán disminuidos al Grupo y no podrán ser reasignados al que ahora pertenezcan.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
 ###### Artículo 119.
 
-(Diputados independientes) Cuando se acredite que algún diputado ha dejado de pertenecer por causa de renuncia o expulsión, al partido político que lo postuló al cargo, perderá sin necesidad de declaración expresa, su carácter de integrante del Grupo o Fracción Legislativa al que pertenecía, debiendo conservar sólo las remuneraciones y prestaciones que correspondan a su cargo.
-
-Los diputados independientes no podrán reclamar las prerrogativas que le corresponden al Grupo o Fracción Legislativa al que pertenecía.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2013)
 
 #### Sección Segunda. Mesa Directiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 120.
 
-(Elección y duración de la Mesa Directiva) Se elegirá mediante cédula y por mayoría de votos de los diputados presentes en la sesión, una Mesa Directiva o el Presidente de la Legislatura que conducirá los trabajos del Poder Legislativo durante los periodos del veintiséis de septiembre al treinta y uno de marzo y del primero de abril al veinticinco de septiembre del año que corresponda.
+(Elección y duración de la Mesa Directiva) Se elegirá mediante cédula y por mayoría de votos de los diputados presentes en la sesión, una Mesa Directiva o el Presidente de la Legislatura que conducirá los trabajos del Poder Legislativo hasta por un año; en cada caso se especificará la duración del ejercicio correspondiente.
 
 En su actuación, la Mesa Directiva observará los principios de imparcialidad y objetividad, haciendo prevalecer el interés general de la Legislatura sobre el particular de sus integrantes o sus órganos.
 
@@ -1029,9 +1085,11 @@ En su actuación, la Mesa Directiva observará los principios de imparcialidad y
 
 Cuando por cualquier causa no se celebre esta elección, la Mesa Directiva en funciones continuará conduciendo los trabajos legislativos, hasta en tanto se realice la elección.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 122.
 
-(Integración de la Mesa Directiva) La Mesa Directiva se integrará por un Presidente, un Vicepresidente y dos Secretarios propietarios que se nombrarán Primero y Segundo, así como dos suplentes que indistintamente podrán cubrir las ausencias de los secretarios.
+(Integración de la Mesa Directiva) La Mesa Directiva se integrará por un Presidente, un Vicepresidente y dos Secretarios propietarios que se nombrarán Primero y Segundo; un suplente que cubrirá las ausencias del Vicepresidente y dos suplentes que, indistintamente, podrán cubrir las de los Secretarios.
 
 ###### Artículo 123.
 
@@ -1121,7 +1179,9 @@ XX. Designar las comisiones de cortesía que requiera el protocolo;
 
 XXI. Supervisar y ordenar el trabajo de la Dirección de Asuntos Legislativos y Jurídicos;
 
-XXII. Ejercer la representación legal de la Legislatura exclusivamente para asuntos contenciosos, facultad que podrá delegar al Director de Asuntos Legislativos y Jurídicos o a prestadores externos de servicios profesionales que cuenten con título profesional de Licenciado en Derecho, cuando así se requiera;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XXII. Ejercer la representación legal de la Legislatura exclusivamente para asuntos contenciosos, facultad que podrá delegar al Director de Asuntos Legislativos y Jurídicos o a prestadores externos de servicios profesionales que cuenten con título profesional de Licenciado en Derecho, cuando así se requiera. Asimismo, representará legalmente al Poder Legislativo, en la contratación de empréstitos, arrendamientos financieros o la utilización de cualquier instrumento financiero y de crédito en sus diversas modalidades, previa aprobación del Pleno;
 
 XXIII. Celebrar convenios de colaboración, sin contenido patrimonial, a nombre de la Legislatura, cuando ésta lo acuerde;
 
@@ -1243,7 +1303,9 @@ II. Proponer acuerdos al Pleno de la Legislatura sobre iniciativas presentadas, 
 
 III. Elaborar, con apoyo del Director de Servicios Administrativos y el Director de Servicios Financieros, el proyecto del presupuesto de ingresos y egresos del Poder Legislativo, así como las políticas y lineamientos relativos a la aplicación de los recursos asignados;
 
-IV. Turnar al Poder Ejecutivo del Estado el Proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo, para que lo incluya en las iniciativas correspondientes de cada ejercicio fiscal, en el que deberán incluirse partidas presupuestales para: capacitación a diputados y personal de la Legislatura, servicios de asesoría profesional, publicaciones institucionales y difusión del trabajo legislativo;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+IV. Turnar al titular del Poder Ejecutivo del Estado, el Proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo para que lo incluya en las iniciativas correspondientes de cada ejercicio fiscal, en el que deberán incluirse partidas presupuestales para: implementación de políticas públicas y programas de carácter social de los diputados, capacitación a diputados y personal de la Legislatura, servicios de asesoría, estadística y análisis profesional, publicaciones institucionales, comunicación y difusión del trabajo legislativo, mismos que por acuerdo de ésta podrán modificarse y variar con relación a los tiempos y necesidades de la Legislatura;
 
 V. Proponer a la Legislatura la integración de sus órganos y la substitución de sus miembros, así como la designación de los titulares de las dependencias;
 
@@ -1255,9 +1317,17 @@ VIII. Ejercer, por conducto de su Presidente, el presupuesto que tenga asignado;
 
 IX. Proponer a la Legislatura el nombramiento y remoción de los funcionarios externos que deban ser electos por ésta, observando lo dispuesto por esta ley;
 
-X. Supervisar y ordenar el trabajo de la Coordinación de Comunicación Social; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XI. Ejercer las demás atribuciones que le confiera esta Ley y demás disposiciones aplicables.
+X. Supervisar y ordenar el trabajo de la Coordinación de Comunicación Social;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XI. Proponer al Pleno de la Legislatura la contratación de empréstitos, arrendamientos financieros o la utilización de cualquier instrumento financiero y de crédito en sus diversas modalidades, con el fin de que el Poder Legislativo del Estado de Querétaro, con asignación directa y con el voto de la mayoría de los integrantes presentes de la Legislatura, construya infraestructura propia y desarrolle proyectos que impliquen el correcto y buen funcionamiento de la actividad legislativa y de representación de los diputados; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XII. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 140.
 
@@ -1265,17 +1335,35 @@ XI. Ejercer las demás atribuciones que le confiera esta Ley y demás disposicio
 
 Cada presidente de la Junta de Concertación Política rendirá, al abandonar su cargo, un informe a sus integrantes, sobre el presupuesto ejercido durante su gestión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 141.
 
-(Sesiones de la Junta) La Junta de Concertación Política sesionará en las oficinas de su presidencia o donde se acuerde por la mayoría de sus integrantes, cuantas veces resulte necesario, pero en todo caso lo hará contando con la asistencia de la mayoría de sus integrantes.
+(Sesiones de la Junta) La Junta de Concertación Política sesionará en las oficinas de su presidencia o donde se acuerde por la mayoría de sus integrantes, mediante convocatoria emitida por el Presidente de la misma o, en su defecto, por la mayoría de los integrantes, al menos dos veces al mes, pero en todo caso lo hará contando con la asistencia de la mayoría de sus integrantes.
 
 En las sesiones de la Junta en las que se desahoguen asuntos de trámite legislativo, se convocará al Presidente de la Mesa Directiva y al Director de Asuntos Legislativos y Jurídicos.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 142.
 
-(Acuerdos) Los asuntos que sean del conocimiento de la Junta de Concertación Política y que requieran de la emisión de un acuerdo o propuesta por parte de ésta, serán consensuados por la mayoría de sus integrantes. En caso de no cumplirse este supuesto, resolverá en definitiva el Pleno de la Legislatura.
+(Acuerdos) Los asuntos que sean del conocimiento de la Junta de Concertación Política y requieran de la emisión de un acuerdo o propuesta por parte de de (sic) ésta, serán consensuados por unanimidad de sus integrantes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+#### Sección Tercera bis. Del procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Artículo 142 bis. (Del procedimiento para la ratificación y remoción de Funcionarios) La Junta de Concertación Política determinará el procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado, emitiendo para tal efecto dictamen debidamente fundado y motivado, sujetándose a los siguientes lineamientos:
+
+I. Notificación al funcionario que corresponda, del inicio del procedimiento y sus consecuencias;
+
+II. Establecer un periodo de ofrecimiento y desahogo de pruebas, así como dar a conocer las pruebas de la contraparte;
+
+III. Establecer un período de alegatos; y
+
+IV. Emitir el dictamen correspondiente.
 
 #### Sección Cuarta. Comisiones
 
@@ -1284,8 +1372,6 @@ Primera Parte
 Integración y competencia
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO OCTAVO TRANSITORIO DE LA LEY.</small>
-
-#### Sección Primera. Disposiciones generales
 
 ###### Artículo 143.
 
@@ -1333,7 +1419,9 @@ III. Asuntos municipales y del migrante: Tiene a su cargo la atención de asunto
 
 IV. Derechos humanos y Acceso a la Información Pública: Tiene a su cargo la atención de asuntos en materia de derechos humanos y acceso a la información pública;
 
-V. Desarrollo agropecuario: Tiene a su cargo la atención de asuntos en materia de agricultura y ganadería;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+V. Desarrollo agropecuario y rural sustentable: Tiene a su cargo la atención de asuntos en materia de agricultura, ganadería, silvicultura, apicultura y acuicultura; normatividad y política para el desarrollo rural; abasto, comercialización y medidas para garantizar la autosuficiencia agroalimentaria en el Estado;
 
 VI. Desarrollo económico y turístico: Tiene a su cargo la atención de asuntos en materia de desarrollo industrial, comercial, fomento de inversiones productivas y economía solidaria, así como de promoción turística del Estado y municipios;
 
@@ -1345,13 +1433,21 @@ IX. Desarrollo urbano, obras públicas y comunicaciones: Tiene a su cargo la ate
 
 X. Educación, cultura, ciencia, tecnología e innovación: Tiene a su cargo la atención de asuntos en materia educativa, fomento de las actividades culturales y de avances científicos, tecnológicos e innovadores en el Estado;
 
-XI. Equidad de género y grupos vulnerables: Tiene a su cargo la atención de asuntos relacionados con la garantía de igualdad de las personas y la no discriminación, así como procurar la protección de los derechos fundamentales de las personas que se encuentran en alguna situación especial de vulnerabilidad;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XII. Familia: Tiene a su cargo todas las cuestiones relativas a la familia;
+XI. Familia: Tiene a su cargo todas las cuestiones relativas a la familia;
 
-XIII. Gobernación, administración pública y asuntos electorales: Tiene a su cargo la atención de asuntos en materia de legislación electoral, del gobierno estatal, organismos autónomos, paraestatales, organismos descentralizados, municipales y paramunicipales, sobre su funcionamiento;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XIV. Hacienda: Tiene a su cargo asuntos en materia de desincorporación de bienes del dominio público, autorización de endeudamiento de entidades públicas; autorizaciones para contratos y actos jurídicos en materia hacendaria de las entidades públicas, que requieran autorización de la Legislatura;
+XII. Gobernación, administración pública y asuntos electorales: Tiene a su cargo la atención de asuntos en materia de legislación electoral, del gobierno estatal, organismos autónomos, paraestatales, organismos descentralizados, municipales y paramunicipales, sobre su funcionamiento;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIII. Hacienda: Tiene a su cargo asuntos en materia de desincorporación de bienes del dominio público, autorización de endeudamiento de entidades públicas; autorizaciones para contratos y actos jurídicos en materia hacendaria de las entidades públicas, que requieran autorización de la Legislatura;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIV. Igualdad de género, grupos vulnerables y discriminados: Tiene a su cargo la atención de asuntos relacionados con la garantía de igualdad de las personas y la no discriminación, así como procurar la protección de los derechos fundamentales de las personas que se encuentran en alguna situación especial de vulnerabilidad;
 
 XV. Instructora: Tiene a su cargo la atención de asuntos en materia de juicio político, declaración de procedencia, suspensión o desaparición de ayuntamientos y revocación, suspensión o inhabilitación de alguno de sus miembros;
 
@@ -1501,7 +1597,7 @@ Los convenios que celebren las Comisiones en los términos del párrafo que ante
 
 ### Capitulo Único. Del procedimiento
 
-#### Sección Segunda. Dirección de Servicios Administrativos
+#### Sección Primera. Disposiciones generales
 
 ###### Artículo 162.
 
@@ -1563,7 +1659,7 @@ Para la función legislativa, se contará con el apoyo institucional del persona
 
 (Medidas internas) Los titulares de las dependencias del Poder Legislativo, deberán dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en éstas.
 
-#### Sección Tercera. Dirección de Servicios Financieros
+#### Sección Segunda. Dirección de Servicios Administrativos
 
 ###### Artículo 170.
 
@@ -1603,7 +1699,9 @@ XII. Intervenir en el proceso de entrega-recepción, de acuerdo con las prevenci
 
 XIII. Intervenir en los procesos de adquisición o arrendamiento de bienes inmuebles, enajenaciones, licitaciones y contratación de servicios en general, conforme a la Ley de la materia y demás normas aplicables;
 
-XIV. A través del personal técnico a su cargo, prestar los servicios de mantenimiento y apoyo informático a los órganos y dependencias del Poder Legislativo, manteniendo actualizado el sitio oficial de la Legislatura en internet;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIV. A través del personal técnico a su cargo, prestar los servicios de mantenimiento y apoyo informático a los órganos y dependencias del Poder Legislativo;
 
 XV. Celebrar contratos con contenido patrimonial a nombre de la Legislatura, previo acuerdo del Pleno;
 
@@ -1615,7 +1713,7 @@ XVIII. Coordinar el Sistema de Servicio Profesional de Carrera del Poder Legisla
 
 XIX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
 
-#### Sección Cuarta. Dirección de Asuntos Legislativos y Jurídicos
+#### Sección Tercera. Dirección de Servicios Financieros
 
 ###### Artículo 173.
 
@@ -1659,7 +1757,7 @@ XIV. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y r
 
 XV. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
 
-#### Sección Quinta. Contraloría Interna
+#### Sección Cuarta. Dirección de Asuntos Legislativos y Jurídicos
 
 ###### Artículo 176.
 
@@ -1735,7 +1833,7 @@ Se incluirá la información recibida hasta el cierre de su edición, que se ver
 
 Se distribuirá a los diputados mediante correo electrónico, el día anterior a aquel en que se celebre la sesión, salvo casos excepcionales que acuerde el Presidente de la Legislatura.
 
-#### Sección Sexta. Dirección de Investigación y Estadística Legislativa
+#### Sección Quinta. Contraloría Interna
 
 ###### Artículo 180.
 
@@ -1745,7 +1843,7 @@ Se distribuirá a los diputados mediante correo electrónico, el día anterior a
 
 (Requisitos) Para ser titular de la Contraloría Interna se requiere poseer título profesional de licenciatura en derecho, administración o contabilidad.
 
-#### Sección Séptima. Coordinación de Comunicación Social
+#### Sección Sexta. Dirección de Investigación y Estadística Legislativa
 
 ###### Artículo 182.
 
@@ -1809,6 +1907,8 @@ XIII. Ejercer las facultades y cumplir las obligaciones que le señale esta ley,
 
 (Propiedad del acervo de la biblioteca) El acervo informativo de la biblioteca es propiedad del Poder Legislativo del Estado de Querétaro y su enajenación está prohibida bajo cualquier título.
 
+#### Sección Séptima. Coordinación de Comunicación Social
+
 ###### Artículo 186.
 
 (Función y ubicación orgánica) La Coordinación de Comunicación Social es la dependencia encargada de conducir la política de información institucional de la Legislatura y se encuentra orgánicamente subordinada a la Junta de Concertación Política.
@@ -1833,9 +1933,17 @@ V. Producir, ordenar y resguardar la información escrita, videográfica, fotogr
 
 VI. Proponer y participar en la edición, impresión y distribución de folletos, revistas y demás impresos que contribuyan a la difusión de los trabajos y preservación de la imagen institucional del Poder Legislativo;
 
-VII. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-VIII. Ejecutar las demás instrucciones que en materia de comunicación social reciba de la Junta de Concertación Política o, en su caso, del Pleno de la Legislatura.
+VII. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+VIII. Administrar y actualizar el sitio oficial de la Legislatura en internet; y
+
+> <small>N. DE E. DEL ANÁLISIS REALIZADO A LA REFORMA PUBLICADA EN EL P.O. EL 18 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN VIII.</small>
+
+IX. Ejecutar las demás instrucciones que en materia de comunicación social reciba de la Junta de Concertación Política o, en su caso, del Pleno de la Legislatura.
 
 ## Título Sexto. Suspensión o declaración de desaparición de Ayuntamientos, revocación de mandato, suspensión o inhabilitación de alguno de sus miembros
 
@@ -2028,3 +2136,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su apr
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
