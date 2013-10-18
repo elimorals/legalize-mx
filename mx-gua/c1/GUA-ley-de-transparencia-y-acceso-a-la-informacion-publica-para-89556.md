@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-895
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-25"
-last_updated: "2012-09-25"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADA EN EL P.O. DE 18 DE OCTUBRE DEL 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS POSTERIORES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013 (ABROGADO).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre del 2012.
 
@@ -1056,3 +1058,45 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los noventa días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la ley vigente
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, expedida mediante el Decreto Legislativo número 292 por la Sexagésima Primera Legislatura Constitucional, y publicado en el Periódico Oficial del Gobierno del Estado, número 154, Tercera Parte de fecha 25 de septiembre de 2012.
+
+Trámite de los recursos presentados con anterioridad
+
+###### ARTÍCULO TERCERO.
+
+Los medios de impugnación presentados con anterioridad a la entrada en vigor de esta Ley, se tramitarán en los términos de la ley que se abroga hasta su debida conclusión; para este efecto, el Consejo General ejercerá las atribuciones que para la substanciación de los medios de impugnación en esta última se asignan al Secretario Ejecutivo.
+
+Término para expedir el Reglamento Interior
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Acceso a la Información Pública, expedirá el Reglamento Interior del Instituto dentro de los noventa días siguientes a la fecha de entrada en vigencia del presente decreto y se publicará en el Periódico Oficial del Gobierno del Estado.
+
+Aplicación del artículo 17
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones señaladas en el artículo 17, serán aplicadas solo a aquella información que surja al momento de la entrada en vigencia de la presente Ley.
+
+No surtirá efectos para la información ya generada y clasificada como reservada, a la cual le seguirán aplicando los plazos y reglas de la ley que se abroga.
+
+Revisión de información clasificada como reservada
+
+###### ARTÍCULO SEXTO.
+
+De oficio los sujetos obligados deberán revisar si persisten los supuestos que motivaron que la información hubiere sido clasificada como reservada, en caso de que no sea así, deberán proceder a su desclasificación generando el acuerdo respectivo.
