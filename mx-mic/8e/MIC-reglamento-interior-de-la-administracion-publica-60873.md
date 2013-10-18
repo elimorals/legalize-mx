@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2012-01-16"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
@@ -249,9 +249,7 @@ G) Unidades Auxiliares del Secretario:
 
 4. Unidad de Control y Evaluación.
 
-H) Órgano Desconcentrado de la Secretaría de Seguridad Pública:
-
-1. Instituto Estatal de Formación Policial.
+H) (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE CREA EL INSTITUTO ESTATAL DE ESTUDIOS SUPERIORES EN SEGURIDAD Y PROFESIONALIZACIÓN POLICIAL DEL ESTADO DE MICHOACÁN, P.O. 18 DE OCTUBRE DE 2013)
 
 IV. A la Secretaría de Desarrollo Económico:
 
@@ -5675,7 +5673,7 @@ XVIII. Las demás que le señale el Secretario de Cultura y otras disposiciones 
 
 La Secretaría de Cultura es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 32 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE FORMACIÓN Y EDUCACIÓN
 
@@ -6983,7 +6981,7 @@ DE LAS COORDINACIONES AUXILIARES DEL TITULAR DEL EJECUTIVO
 
 La Coordinación de Planeación para el Desarrollo es la unidad auxiliar del titular del Ejecutivo, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 41 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE PROYECTOS
 
@@ -7061,7 +7059,7 @@ XXI. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 XXII. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
 #### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
 
@@ -7097,7 +7095,7 @@ XIII. Actualizar el Catálogo de Localidades del Estado, en coordinación con la
 
 XIV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
 #### SECCIÓN VI. DE LA DIRECCIÓN DE SISTEMAS Y PROCESOS
 
@@ -7145,7 +7143,7 @@ IX. Coordinar la integración de los indicadores estatales socioeconómicos de l
 
 X. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 195.
 
@@ -7277,7 +7275,7 @@ XVII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 XVIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 197.
 
@@ -7762,3 +7760,33 @@ P.O. 16 DE ENERO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento Interior del Instituto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, en un plazo no mayor de 120 días, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el inciso H, de la fracción III, del artículo 6°, del Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán, de fecha 21 de abril de 2008, por el cual se establece el Instituto Estatal de Formación Policial.
+
+###### ARTÍCULO CUARTO.
+
+El Patrimonio y recursos presupuestales del Instituto Estatal de Formación Policial, pasará a formar parte del Instituto.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen a formar parte del Instituto, se respetarán conforme a las normas jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan los ordenamientos legales que se opongan al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Hasta en tanto no se emita el Reglamento del Instituto, se seguirá aplicando el Reglamento Interior del Instituto Estatal de Policía del Estado de Michoacán de Ocampo.
