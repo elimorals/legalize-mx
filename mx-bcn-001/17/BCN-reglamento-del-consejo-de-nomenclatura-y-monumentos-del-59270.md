@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-de-nomenclatura-y-monumentos-del-59270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-04"
-last_updated: "2008-01-04"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DEL MUNICIPIO DE ENSENADA, DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 4 de enero de 2008.
 
@@ -107,29 +107,33 @@ Corresponde a la Secretaria de Administración Urbana la aplicación del present
 
 DE LA INTEGRACION DEL CONSEJO.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 7.
 
 El Consejo Municipal de Nomenclatura y Monumentos estará integrado por las siguientes Dependencias e Instituciones y Sociedad Civil que fungirán como vocales:
 
-- El cronista de la Ciudad.
+- Regidor Coordinador de la Comisión de Gobernación y Legislación.
 
-- Dirección de Catastro.
+- Regidor Coordinador de la Comisión de Desarrollo Urbano y Ecología
 
-- Dirección Municipal de Vialidades.
+- Regidor Coordinador de la Comisión de Educación, Cultura, Ciencia y Tecnología.
 
-- Dirección de Transito y Transportes.
+- El Cronista de la Ciudad.
+
+- Dirección de Catastro y Control Urbano.
+
+- Dirección de Servicios Públicos Municipales.
+
+- Dirección de Policía y Tránsito Municipal.
 
 - Instituto de Cultura del Estado.
-
-- Asociación de Historia y Geografía del Estado.
 
 - Un representante de cada uno de los Subcomités Sectoriales del Copladem siguientes: Desarrollo Urbano y Ecología, obras y Servicios Públicos y Educación y Cultura.
 
 - Delegación Infonavit.
 
-- Inmobiliaria del Estado.
-
-- Dirección de Obras Públicas Municipales.
+- INDIVI (Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado) de Baja California.
 
 - Cámara Nacional de Comercio.
 
@@ -137,31 +141,31 @@ El Consejo Municipal de Nomenclatura y Monumentos estará integrado por las sigu
 
 - Cámara Nacional de Industria y Comercio.
 
-- Asociación Arquitectos (sic).
+- Asociación de Arquitectos.
 
-- Asociación Ingenieros (sic) Civiles.
+- Asociación de Ingenieros Civiles.
 
-- UCAB.
+- Secretaría de Infraestructura y Desarrollo Urbano del Estado
 
-- SIDUE.
+- Consejo de Urbanización Municipal de Ensenada.
 
-- CUME.
-
-- Consejo Ciudadano para la Cultura y las Artes del Municipio de Ensenada.
-
-- Dirección de Acción Cívica y Cultural.
+- CANADEVI (Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda
 
 ###### ARTICULO 8.
 
 La estructura del Consejo Municipal de Nomenclatura y Monumentos se constituye por un Presidente, un Secretario Técnico y los Vocales Honorarios señalados en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 9.
 
-Es Presidente del Consejo el C. Presidente del Ayuntamiento de Ensenada, quien por motivo de su cargo puede delegar su representación para las juntas, reuniones ó Asamblea del mismo.
+El Consejo será presidido por el C. Presidente Municipal de Ensenada, quien por motivo de su cargo puede delegar su representación para las juntas, reuniones ó Asamblea del mismo.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 10.
 
-Es su Secretario Técnico del Consejo será (sic) el C. Regidor Comisionado por Cabildo, ó el Director de la Dirección de Catastro.
+El Secretario Técnico del Consejo será el Director de Catastro y Control Urbano.
 
 ###### ARTICULO 11.
 
@@ -379,9 +383,11 @@ f) Una relación con nombre, dirección y firma de aprobación del 80% de los ve
 
 En todos los casos del (sic) Consejo procederá a efectuar una verificación de los datos; y documentos que integran la propuesta y en su caso tendrá la facultad de requerir al proponente, para que en un plazo no mayor de 15 días naturales agregue al mismo los datos requeridos o en su caso, el Consejo a criterio y por mayoría, decidirá si se recaba la información por su propio conducto o se desecha totalmente la propuesta.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 42.
 
-Una vez obtenida toda la información y documentos necesarios, el Consejo procederá a emitir su voto en forma económica a favor o en contra, siendo necesario un mínimo del cincuenta por ciento más uno del total de los Miembros que conforman el Consejo, atendiendo en todo momento lo dispuesto por los artículos 25, 26 y 27 del presente Reglamento, para efecto de turnar la propuesta bien requisitada al Ayuntamiento para su discusión y en su caso, aprobación definitiva.
+Una vez obtenida toda la información y documentos necesarios, el Consejo procederá a emitir su voto en forma económica a favor o en contra, siendo necesario un mínimo del cincuenta por ciento más uno del total de los Miembros que conforman el Consejo, atendiendo en todo momento lo dispuesto por los artículos 25, 26 y 27 del presente Reglamento, para efecto de turnar la propuesta bien requisitada al Ayuntamiento para su discusión y en su caso, aprobación definitiva, mediante votación por mayoría calificada.
 
 ###### ARTICULO 43.
 
@@ -408,3 +414,9 @@ PRESIDENTE MUNICIPAL DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
 C. LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
