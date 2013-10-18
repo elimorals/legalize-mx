@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2013-10-11"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -433,7 +433,9 @@ Se crea el Centro de Evaluación y Control de Confianza del Estado de Baja Calif
 
 El Centro de Control de Confianza, aplicará las evaluaciones en los procesos de selección de aspirantes, de permanencia, de desarrollo y de promoción de los Miembros, Agentes del Ministerio Público, Peritos, Elementos de apoyo de las Instituciones de Seguridad Pública y personal operativo de los Prestadores de Servicios de Seguridad Privada; para tal efecto, tendrán las siguientes facultades:
 
-I. Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+I. Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación. En la aplicación de éstos procedimientos, se deberá de respetar los derechos humanos reconocidos en la Constitución Federal, así como en los tratados internacionales de los que el Estado Mexicano sea parte, en términos de lo dispuesto por el artículo 1º de la referida Constitución Federal;
 
 II. Proponer lineamientos para la verificación y control de certificación;
 
@@ -519,9 +521,17 @@ XV. Proponer la celebración de convenios con Instituciones educativas nacionale
 
 XVI. Supervisar que los aspirantes y Miembros de las Instituciones Policiales se sujeten a los manuales de formación;
 
-XVII. Establecer los lineamientos y programas bajo los cuales deberá capacitarse al personal a que se refiere el Artículo 79 de la Ley; y,
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XVIII. Las demás que establezcan las disposiciones legales aplicables.
+XVII. Establecer los lineamientos y programas bajo los cuales deberá capacitarse al personal a que se refiere el Artículo 79 de la Ley;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XVIII. Fungir como entidad auxiliar en materia de seguridad escolar, en términos de lo dispuesto por la ley aplicable; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+XIX. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### ARTÍCULO 37.
 
@@ -985,13 +995,13 @@ La Secretaría deberá establecer la coordinación necesaria con aquellas autori
 
 ### CAPÍTULO SEGUNDO. DEL SERVICIO DE DENUNCIA ANÓNIMA
 
-###### ARTICULO 73.
+###### ARTÍCULO 73.
 
 La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómputo, prestará el servicio de monitoreo y operación de los sistemas de video vigilancia y de cámaras, así como de ubicación de unidades; dicho servicio se prestará de manera unificada con las Instituciones Policiales en el Estado y sus Auxiliares participantes previstas en los artículos 7 y 8 de la presente Ley. Los Ayuntamientos deberán integrar a estos Centros cualquier sistema de cámaras, video vigilancia o sistemas de ubicación geográfica de las unidades con que operen.
 
 ### CAPÍTULO TERCERO. DEL MONITOREO Y VIDEO VIGILANCIA
 
-###### ARTICULO 74.
+###### ARTÍCULO 74.
 
 La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómputo, administrará la Red Estatal De Telecomunicaciones de Seguridad Pública, para el intercambio de voz, datos e imágenes, a la cual deberán estar enlazadas las Instituciones Policiales y aquellos con carácter de auxiliar previstos en la presente Ley, así como otras instituciones públicas o privadas que se consideren necesarias para el mejoramiento del servicio de asistencia telefónica y en general los servicios de seguridad pública en el Estado.
 
@@ -1129,7 +1139,7 @@ XV.- Realizar actos que pongan en peligro la integridad física, la vida o los b
 
 XVI.- Transferir o ceder la autorización; y
 
-XVII.- Las demás que establezcan las leyes y reglamentos.
+XVII. Las demás que establezcan las leyes y reglamentos.
 
 ###### ARTÍCULO 87.
 
@@ -1277,15 +1287,63 @@ Los Ayuntamientos y demás dependencias de la Administración Pública Estatal, 
 
 La Secretaría asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
 
-SEGUNDA PARTE
-
-DEL DESARROLLO POLICIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN DEL DELITO
 
 ## TÍTULO NOVENO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 97 BIS.- La prevención social de la violencia y la delincuencia es el conjunto de políticas públicas, programas y acciones orientados a reducir factores de riesgo que general (sic) violencia y delincuencia, así como combatir las distintas causas y factores que la generan.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 97 TER.- La prevención social de la violencia y delincuencia comprende los siguientes ámbitos:
+
+I.- Social.- El cual llevará a cabo mediante:
+
+a) La formulación de programas integrales de desarrollo social, cultural y económico que no produzcan estigmatización, incluidos los de salud, educación, vivienda, empleo, deporte y desarrollo urbano;
+
+b) La promoción de actividades que eliminen la marginación y la exclusión;
+
+c) El fomento de la solución pacífica de conflictos;
+
+d) Estrategias de educación y sensibilización de la población para promover la cultura de la legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales. Incluyendo tanto programas generales como aquellos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad;
+
+e) El establecimiento de programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, o afectación.
+
+II.- Comunitario.- El cual pretende atender los factores que generan violencia y delincuencia mediante la participación ciudadana y comunitaria y comprende:
+
+a) La participación ciudadana y comunitaria en acciones tendientes a establecer las prioridades de la prevención, mediante diagnósticos participativos, el mejoramiento de las condiciones de seguridad de su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los mecanismos alternativos de solución de controversias;
+
+b) El mejoramiento de acceso de la comunidad a los servicios básicos;
+
+c) Fomentar el desarrollo comunitario, la convivencia y la cohesión social entre las comunidades frente a los problemas locales;
+
+d) La participación ciudadana y comunitaria, a través de mecanismos que garanticen su efectiva intervención ciudadana en el diseño e implementación de planes y programas, su evaluación y sostenibilidad; y
+
+e) El fomento de las actividades de las organizaciones de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 97 QUARTER (SIC).- Las Instituciones de Seguridad Pública, en el ámbito de sus atribuciones, en el marco del Sistema Nacional de Seguridad Pública, deberán:
+
+I.- Proporcionar información a las comunidades para enfrentar los problemas derivados de la delincuencia; siempre que no vulnere los principios (sic) confidencialidad y reserva;
+
+II.- Apoyar el intercambio de experiencia, investigación académica y aplicación práctica de conocimientos basados en evidencias;
+
+III.- Apoyar la organización y la sistematización de experiencias exitosas en el combate a los delitos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 97 QUINQUIES.- Se entiende por participación ciudadana y comunitaria a la colaboración de diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica; se hace efectiva a través de la actuación de las personas en las comunidades, en las redes vecinales, las organizaciones para la prevención social de la violencia y la delincuencia, mediante los diversos mecanismos de participación locales o legales, creados en virtud de sus necesidades.
+
+SEGUNDA PARTE
+
+DEL DESARROLLO POLICIAL
 
 ###### ARTÍCULO 98.
 
@@ -1383,9 +1441,9 @@ d) Preservar los indicios y elementos de prueba que la víctima y ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-XIII.- Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales, jurisdiccionales y administrativos de que tenga conocimiento con motivo de sus funciones, y
+XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales, jurisdiccionales y administrativos de que tenga conocimiento con motivo de sus funciones, y
 
-XIV.- Las demás que le confieran las disposiciones aplicables.
+XIV. Las demás que le confieran las disposiciones aplicables.
 
 ## TÍTULO DÉCIMO. DE LA COMISIÓN
 
@@ -1427,7 +1485,7 @@ En la Comisión habrá, en su caso, representantes de las unidades operativas de
 
 ## TÍTULO UNDÉCIMO. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN
 
-### CAPÍTULO PRIMERO. DE LA CARRERA POLICIAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 112.
 
@@ -1473,7 +1531,7 @@ La Carrera Policial es independiente de los nombramientos para desempeñar cargo
 
 En términos de las disposiciones aplicables, los titulares de las Instituciones Policiales podrán designar a los Miembros en cargos administrativos o de dirección en la estructura orgánica de las instituciones a su cargo; asimismo, podrán relevarlos libremente, respetando su grado policial y sus derechos inherentes a la carrera policial.
 
-### CAPÍTULO SEGUNDO. DE LA SELECCIÓN
+### CAPÍTULO PRIMERO. DE LA CARRERA POLICIAL
 
 ###### ARTÍCULO 114.
 
@@ -1481,7 +1539,7 @@ La selección es el proceso que consiste en elegir, de entre los aspirantes que 
 
 Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias correspondientes sobre los aspirantes aceptados.
 
-### CAPÍTULO TERCERO. DEL INGRESO Y PERMANENCIA
+### CAPÍTULO SEGUNDO. DE LA SELECCIÓN
 
 ###### ARTÍCULO 115.
 
@@ -1595,7 +1653,7 @@ XXII. Las demás que establezcan las disposiciones legales aplicables.
 
 Las instancias responsables del servicio de carrera policial fomentarán la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus Miembros.
 
-### CAPÍTULO CUARTO. DE LAS CONDECORACIONES Y ESTÍMULOS
+### CAPÍTULO TERCERO. DEL INGRESO Y PERMANENCIA
 
 ###### ARTÍCULO 119.
 
@@ -1639,7 +1697,7 @@ Las retribuciones económicas, se determinaran en el Reglamento y se otorgarán 
 
 Los estímulos se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos y se otorgarán a los elementos que se hayan distinguido.
 
-### CAPÍTULO QUINTO. DE LA PROMOCIÓN
+### CAPÍTULO CUARTO. DE LAS CONDECORACIONES Y ESTÍMULOS
 
 ###### ARTÍCULO 125.
 
@@ -1655,7 +1713,7 @@ Para ocupar un grado dentro de las Instituciones Policiales se deberán reunir l
 
 En casos excepcionales, el Gobernador del Estado, a propuesta de las Comisiones, determinará la promoción del Miembro a la jerarquía inmediata superior. Esta facultad será ejercida por el Presidente Municipal respectivo, tratándose de la Institución Policial a su mando.
 
-### CAPÍTULO SEXTO. DE LA ANTIGÜEDAD
+### CAPÍTULO QUINTO. DE LA PROMOCIÓN
 
 ###### ARTÍCULO 127.
 
@@ -1667,7 +1725,7 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia de 
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
-### CAPÍTULO SÉPTIMO. DE LA CERTIFICACIÓN
+### CAPÍTULO SEXTO. DE LA ANTIGÜEDAD
 
 ###### ARTÍCULO 128.
 
@@ -1695,7 +1753,7 @@ V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por
 
 VI. Cumplimiento de los deberes establecidos en esta Ley.
 
-### CAPÍTULO OCTAVO. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO SÉPTIMO. DE LA CERTIFICACIÓN
 
 ###### ARTÍCULO 130.
 
@@ -1705,7 +1763,7 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 ## TÍTULO DUODÉCIMO. DE LAS CONDICIONES DEL SERVICIO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. DE LA PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 131.
 
@@ -1729,7 +1787,7 @@ VII.- Las demás que les confieran otras disposiciones aplicables.
 
 ## TÍTULO DÉCIMO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
 
-### CAPÍTULO PRIMERO. DE LOS DERECHOS
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 132.
 
@@ -1761,7 +1819,7 @@ XI.- Ser recluido en áreas que garanticen su integridad física, tratándose de
 
 XII.- Ser sujetos de las condiciones del servicio, que señala el artículo anterior.
 
-### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES
+### CAPÍTULO PRIMERO. DE LOS DERECHOS
 
 ###### ARTÍCULO 133.
 
@@ -1877,7 +1935,7 @@ LIV. Las demás que establezcan las disposiciones legales aplicables.
 
 ## TÍTULO DÉCIMO CUARTO. RÉGIMEN DISCIPLINARIO
 
-### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS DE ACTUACIÓN
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 134.
 
@@ -1897,7 +1955,7 @@ Las Instituciones Policiales exigirán de sus Miembros el más estricto cumplimi
 
 El régimen disciplinario se ajustará a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y los ordenamientos legales aplicables y comprenderá los deberes, las sanciones y los procedimientos para su aplicación.
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS DE ACTUACIÓN
 
 ###### ARTÍCULO 137.
 
@@ -1961,13 +2019,13 @@ V.- Intencionalidad o negligencia; y
 
 VI.- Los demás elementos, circunstancias, condiciones y consecuencias que afecten la debida prestación del servicio.
 
-### CAPÍTULO TERCERO. DE LA INVESTIGACIÓN ADMINISTRATIVA
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
 ###### ARTÍCULO 144.
 
 La Contraloría Interna, de manera previa a la substanciación del procedimiento de separación definitiva o de responsabilidad administrativa, deberá realizar fundada y motivadamente una investigación administrativa y suspender de manera preventiva al miembro cuando así lo considere conveniente, a efecto de realizar las diligencias para allegarse de elementos que le permitan, en su caso, solicitar a la Comisión, iniciar el procedimiento correspondiente.
 
-### CAPÍTULO CUARTO. SUSPENSIÓN PREVENTIVA
+### CAPÍTULO TERCERO. DE LA INVESTIGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 145.
 
@@ -1997,7 +2055,7 @@ En caso de que no se acredite la falta de un requisito de permanencia, o se incu
 
 No existirá el derecho del Miembro de percibir remuneración, cuando no preste sus servicios durante el tiempo en que haya sido privado de su libertad, con motivo de una investigación, averiguación previa o procedimiento penal de orden local, federal, u otro similar en el extranjero.
 
-### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO CUARTO. SUSPENSIÓN PREVENTIVA
 
 ###### ARTÍCULO 151.
 
@@ -2141,7 +2199,7 @@ La Contraloría Interna y la Comisión podrán disponer la práctica de las dili
 
 La valoración de las pruebas se sujetará a las disposiciones del Código de Procedimientos Civiles para el Estado de Baja California.
 
-### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
+### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTÍCULO 174.
 
@@ -2189,7 +2247,7 @@ Las notificaciones surtirán sus efectos el día en que se practiquen.
 
 ## TÍTULO DÉCIMO QUINTO. DE LA CONCLUSIÓN DEL SERVICIO Y LA INDEMNIZACIÓN
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 180.
 
@@ -2254,6 +2312,8 @@ II. Con la interposición de algún juicio o medio de defensa en contra de la re
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2013)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 186.
 
@@ -2390,3 +2450,27 @@ P.O. 11 DE OCTUBRE DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO No. 564 POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII; Y LA ADICIÓN DE UNA FRACCIÓN XIX AL ARTÍCULO 36 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO No. 567 POR EL QUE SE ADICIONA UN CAPÍTULO TERCERO, DENOMINADO "DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA", AL TÍTULO OCTAVO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO No. 568 POR EL QUE SE REFORMA A LA FRACCIÓN I, DEL ARTÍCULO 33 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
