@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2012-12-31"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3412,9 +3412,29 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 
 2. La inscripción tendrá vigencia por el tiempo que dure la legislatura correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+3. No podrán llevar a cabo actividades de cabildeo los servidores públicos durante el ejercicio de sus funciones; así como sus cónyuges y sus parientes por consanguinidad o afinidad hasta el cuarto grado.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+4. El número máximo de personas acreditadas para realizar actividades de cabildeo en la Cámara de Diputados será de veinte por cada comisión y dos por cada persona moral inscrita; en caso de que exista un número mayor de solicitudes respecto a alguna comisión o persona moral, la Mesa Directiva acordará lo conducente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+5. Las disposiciones previstas en el numeral que antecede, también serán aplicables a aquellos individuos que siendo ajenos a esta Cámara, representen a una persona física, organismo privado o social y que no obtenga un beneficio material o económico en razón de dichas actividades.
+
 ###### Artículo 265.
 
 1. Los diputados y diputadas, así como el personal de apoyo de la Cámara, se abstendrán de hacer recomendaciones que equivalgan a un cabildeo, cuando obtengan beneficio económico o en especie para sí o su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o para terceros con los que tengan relaciones profesionales, laborales o de negocios.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+2. Las diputadas y los diputados o el personal de apoyo no podrán aceptar dádivas o pagos en efectivo, en especie, o cualquier otro tipo de beneficio de cualquier naturaleza por parte de persona alguna que realice cabildeo o participe de cualquier otro modo para influir ilícitamente en las decisiones de la Cámara de Diputados.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
+
+3. Toda infracción a esta norma será castigada en términos de las leyes de responsabilidades o la legislación penal, según corresponda.
 
 ###### Artículo 266.
 
@@ -3667,5 +3687,9 @@ Séptimo. Corresponderá a la Junta con el auxilio del Comité de Administració
 Octavo. La Cámara de Diputados a través de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, deberá revisar el Estatuto durante la presente Legislatura para que se formulen las adecuaciones correspondientes que armonicen su texto con la Ley y el Reglamento, a fin de emitir una opinión con el Proyecto de reformas, para presentarlo a la Conferencia.
 
 D.O.F. 31 DE DICIEMBRE DE 2012.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE OCTUBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
