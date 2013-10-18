@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2013-10-11"
+last_updated: "2013-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -143,9 +143,9 @@ XXVI. Promover las aportaciones de recursos provenientes de dependencias e insti
 
 XXVII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de equidad entre hombres y mujeres, de conformidad con las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-XXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa;
+XXVIII.- Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa, mismos que deberán contener las acciones, metas, indicadores y esquemas de medición necesarios para determinar el cumplimiento de sus objetivos;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2013)</small>
 
@@ -576,5 +576,9 @@ SEGUNDO.- El Ejecutivo deberá realizar las reformas necesarias al reglamento de
 TERCERO.- El Ejecutivo del Estado deberá crear una partida presupuestal específica en la que se asignen al Instituto las aportaciones necesarias para el cumplimiento de sus funciones y la elaboración, realización e implementación del programa en contra de la violencia de género y de su participación dentro del correspondiente programa federal de apoyo a mujeres víctimas de violencia.
 
 P.O. 11 DE OCTUBRE DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
