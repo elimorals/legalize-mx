@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-poblacion-del-estado-de-baja-california-3088"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-17"
-last_updated: "2009-12-31"
+last_updated: "2013-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
+LEY DE POBLACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 17 de febrero de 1995.
 
@@ -39,7 +39,7 @@ LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 1°.
 
@@ -47,13 +47,17 @@ Esta Ley es de orden Público, interés social y observancia general en el Estad
 
 Por lo mismo, establece las atribuciones que en la materia corresponden a cada dependencia del Gobierno, entidades del Estado y Municipios, sin perjuicio de lo dispuesto por otras leyes y reglamentos.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+Para el cumplimiento del objeto de la presente Ley, las políticas de población deberán fomentar la armonía y el equilibrio entre el crecimiento, estructura y distribución territorial de la población con el desarrollo económico y social, previendo las medidas y acciones necesarias que permitan garantizar el respeto al medio ambiente y la protección civil.
+
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 2°.
 
 Corresponde al Ejecutivo del Estado establecer, promover, coordinar, ejecutar, supervisar y evaluar la política poblacional, dentro de un proceso de desarrollo integral del individuo y la sociedad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -65,7 +69,7 @@ Para establecer, promover, coordinar, ejecutar, supervisar y evaluar la polític
 
 Para los efectos de la presente Ley se entenderá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -75,7 +79,7 @@ II.- PROGRAMA: Programa Estatal De Población;
 
 III.- PROGRAMA MUNICIPAL: Programa Municipal De Población.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2001)</small>
 
 ## TITULO SEGUNDO. POLITICA DE POBLACION Y DESARROLLO
 
@@ -85,7 +89,7 @@ III.- PROGRAMA MUNICIPAL: Programa Municipal De Población.
 
 La Política Estatal de Población consistirá en una serie de medidas tendientes a mejorar la calidad de vida de los habitantes, buscando el equilibrio en cuanto a su volumen, estructura, dinámica y distribución geográfica, en relación con el desarrollo, en plena concordancia con lo dispuesto en el Artículo 7º de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -115,7 +119,7 @@ V.- La promoción de los valores culturales de los habitantes del Estado;
 
 VI.- La promoción de la conciencia de responsabilidad y la voluntad de participación de la sociedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 8°.
 
@@ -135,7 +139,7 @@ IV.- La descentralización en Materia Poblacional hacia los municipios tomando e
 
 Para los fines de la Política Estatal de Población, el Ejecutivo del Estado y los Ayuntamientos, según el caso, dictarán, ejecutarán o promoverán ante otras dependencias o entidades gubernamentales, de conformidad con las atribuciones y competencias de éstas, las medidas que se requieran para cumplir con las políticas, programas y acciones en materia de población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -157,7 +161,7 @@ El Ejecutivo del Estado puede suscribir convenios de coordinación y colaboraci�
 
 Con el propósito de planear adecuadamente las políticas y acciones en materia de población, el Ejecutivo del Estado dispondrá la publicación en el Periódico Oficial del Estado, del Programa aprobado por la Junta Directiva, el cual deberá enmarcar dentro de los lineamientos de la planeación nacional y estatal del desarrollo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 13°.
 
@@ -193,7 +197,7 @@ X.- Los demás que sean necesarios para conseguir que la población del Estado a
 
 ## TITULO CUARTO. DEL PROGRAMA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 14°.
 
@@ -245,19 +249,19 @@ El Presidente de la Junta Directiva informará anualmente, de manera personal o 
 
 El programa será obligatorio para las dependencias y entidades de la Administración Pública Estatal y Municipal cuyas acciones tengan que ver con políticas de población a efecto de que incida en los habitantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO QUINTO. DEL COPLADE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO PRIMERO. OBJETIVO Y ATRIBUCIONES DEL COPLADE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -265,9 +269,9 @@ El programa será obligatorio para las dependencias y entidades de la Administra
 
 El COPLADE tendrá por objeto, además de lo previsto en la ley de Planeación para el Estado de Baja California, promover entre la población, la formación de una cultura demográfica, acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar, así como de los valores fundamentales del ser humano.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 21º.
 
@@ -317,7 +321,7 @@ X.- Evaluar los programas que lleven a cabo las diferentes dependencias y entida
 
 XI.- Emitir opinión acerca de acciones o proyectos de población que operen o pretendan operar en el Estado, a efecto de que se ajusten a los lineamientos de esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -327,7 +331,7 @@ XII.- Coordinar sus acciones, con los Subcomités de Población y el Técnico Re
 
 XIII.- Las demás relacionadas con su objeto y las que le encomiende el Ejecutivo del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -335,7 +339,7 @@ XIII.- Las demás relacionadas con su objeto y las que le encomiende el Ejecutiv
 
 El COPLADE, en base a sus evaluaciones, propondrá las prioridades y objetivos de los programas sociales que inciden en la población, y de estudios demográficos que sirvan de insumo para la planeación, jerarquizando los recursos e inversiones que para ellos se requieran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -343,7 +347,7 @@ El COPLADE, en base a sus evaluaciones, propondrá las prioridades y objetivos d
 
 El COPLADE mantendrá un proceso permanente y constante de evaluación interna a sus prioridades y estrategias y a los resultados de sus programas, para adecuarlos a los cambios y situaciones especificas en materia de programación presupuestal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -351,7 +355,7 @@ El COPLADE mantendrá un proceso permanente y constante de evaluación interna a
 
 El COPLADE presupuestará y destinará los recursos necesarios para que su unidad administrativa correspondiente pueda desarrollar sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -359,7 +363,7 @@ El COPLADE presupuestará y destinará los recursos necesarios para que su unida
 
 Las dependencias y entidades del Poder Ejecutivo, deberán coordinarse con el COPLADE en lo concerniente a acciones programáticas de población, colaborando con el mismo, para el cumplimiento de sus objetivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -367,13 +371,13 @@ Las dependencias y entidades del Poder Ejecutivo, deberán coordinarse con el CO
 
 El COPLADE contará con el personal que se autorice en el presupuesto correspondiente y en la reglamentación interna respectiva para la atención de las funciones en materia de población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO SEGUNDO. DE LA PARTICIPACION DE LAS DEPENDENCIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -381,7 +385,7 @@ El COPLADE contará con el personal que se autorice en el presupuesto correspond
 
 Las dependencias y entidades de la Administración Pública Estatal, deberán dar el apoyo que se (sic) requerido por el COPLADE en materia de población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -389,7 +393,7 @@ Las dependencias y entidades de la Administración Pública Estatal, deberán da
 
 Cuando alguna dependencia o entidad de la Administración Pública Estatal realice alguna acción en materia de población, deberá contar con la validación del COPLADE.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -397,19 +401,19 @@ Cuando alguna dependencia o entidad de la Administración Pública Estatal reali
 
 El COPLADE, a través de la unidad administrativa correspondiente, deberá proveer de información puntual, completa y oportuna en materia de población a la Secretaría General de Gobierno, para efecto de definir y coordinar la política poblacional en los términos de lo previsto en los Artículos 32 de la presente Ley, y 19 fracción XVI, de la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 30º.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 31º.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
 
 ###### ARTICULO 32°.
 
@@ -427,7 +431,7 @@ IV.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
 V.- Proponer y turnar al Gobernador los anteproyectos de Leyes, Reglamentos, Decretos, Convenios y Acuerdos sobre los asuntos de población;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -435,13 +439,13 @@ VI.- Instruir al Titular del Registro Civil del Estado para que proporcione peri
 
 VII.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 VIII.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente sus canales de comunicación y distribución de que dispone.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 33º.
 
@@ -461,13 +465,13 @@ III.- Elaborar material de apoyo educativo que propicie y fortalezca la convicci
 
 IV.- Actualizar y capacitar al personal a su cargo, así como orientar a los padres de familia en materia de educación en población cuyos esfuerzos concurran a lograr una verdadera comunidad que ordenadamente busque su superación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 V.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 34º.
 
@@ -475,13 +479,13 @@ Son atribuciones de la Secretaría de Infraestructura y Desarrollo Urbano en mat
 
 I.- Apoyar los programas sobre distribución de la población que concuerden con un mejor aprovechamiento de la territorialidad disponible;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 II.- Solicitar la orientación del COPLADE en la realización de las investigaciones o estudios sociodemográficos que requiera la dependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -499,7 +503,7 @@ Son atribuciones de la Secretaría de Planeación y Finanzas en materia de pobla
 
 I.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -513,13 +517,13 @@ Son atribuciones de la Secretaría de Desarrollo Económico en Materia de Poblac
 
 I.- Motivar a las organizaciones empresariales de la entidad sobre el conocimiento de la problemática demográfica estatal y nacional, con el objeto de que faciliten en sus empresas la realización de acciones de información y educación, promoviendo entre los empresarios conjuntamente con el Sector Salud, información de los programas en acciones de planificación familiar y mejoramiento de la salud en general, entre sus trabajadores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 II.- Apoyar y fomentar el intercambio de información entre el COPLADE y la Secretaría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -529,7 +533,7 @@ III.- Participar y apoyar las campañas de difusión del COPLADE, utilizando opo
 
 (DEROGADO P.O. 11 DE MAYO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 38º.
 
@@ -537,13 +541,13 @@ Son atribuciones de la Secretaría del Trabajo y Previsión Social en materia de
 
 I.- Concientizar al Sector Laboral del Estado, sobre la problemática demográfica Estatal y Nacional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 II.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 39º.
 
@@ -555,17 +559,17 @@ II.- Realizar cursos de capacitación al personal a su cargo para el cumplimient
 
 III.- Elaborar mensajes dirigidos a la población para contribuir al fortalecimiento de los valores socioculturales y sus conductas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-IV.- Participar y apoyar las campañas de Difusión deI COPLADE, utilizando oportunamente los canales de Comunicación y distribución de que dispone;
+IV.- Participar y apoyar las campañas de Difusión del COPLADE, utilizando oportunamente los canales de Comunicación y distribución de que dispone;
 
 (ADICIONADA, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
 
 V.- Reforzar sus objetivos institucionales en lo referente a su población y metas para impulsar una cultura de participación social, vinculando los mecanismos que permitan fortalecer el tejido social e impulsar el desarrollo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 40º.
 
@@ -579,7 +583,7 @@ I.- Realizar acciones de salud con el propósito de impulsar y promover la mater
 
 II.- Realizar cursos de capacitación al personal a su cargo y elaborar material de apoyo, sobre temas de salud que impulsen la paternidad responsable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -589,9 +593,9 @@ III.- Participar y apoyar las campañas de difusión del COPLADE, utilizando opo
 
 IV.- Fortalecer los objetivos institucionales del organismo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 41º.
 
@@ -603,7 +607,7 @@ I.- Concretar acuerdos para realizar proyectos de investigación en la materia;
 
 II.- Impulsar el incremento de especialistas en las disciplinas relacionadas con la demografía;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -613,11 +617,11 @@ III.- Apoyar las campañas de difusión del COPLADE, utilizando oportunamente lo
 
 IV.- Integrar de acuerdo a la naturaleza de las acciones programáticas, grupos interinstitucionales con el fin de aglutinar, coordinar e impulsar acciones de población hacia el desarrollo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO TERCERO. DEL DIRECTOR GENERAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -669,7 +673,7 @@ Con el fin de coadyuvar al bienestar de la población, las líneas generales de 
 
 Los Comités Municipales de Población serán presididos por los Presidentes Municipales, y su integración y funcionamiento serán determinados por el Reglamento Municipal correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -695,7 +699,7 @@ III.- Elaborar el Programa Municipal De Población enmarcado dentro de los progr
 
 IV.- Buscar los mecanismos para lograr de los organismos oficiales o privados los apoyos necesarios para fortalecer sus acciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -707,19 +711,19 @@ V.- Proponer al COPLADE acciones, lineamientos y políticas de población que re
 
 los presidentes municipales en su carácter .de presidente de los Comités de Población informarán anualmente por escrito, a los habitantes de sus municipios y a la Junta Directiva sobre el avance y los resultados de la ejecución del Programa Municipal de Población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO SEXTO. DEL ORGANO DE VIGILANCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 49º.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 50º.
 
@@ -731,17 +735,33 @@ los presidentes municipales en su carácter .de presidente de los Comités de Po
 
 Los Servidores de la Administración Pública Estatal, Paraestatal, Municipal y Paramunicipal, que en ejercicio de las funciones inherentes a su empleo, cargo a comisión, contravengan las disposiciones de ésta Ley y de la que de ella se deriven, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO OCTAVO. DE LA EXTINCION O FUSION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 52º.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+## TITULO NOVENO. DIFUSION
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 53°.
+
+A través del COPLADE y con la coordinación de esfuerzos y recursos de las autoridades previstas en esta Ley, se difundirán los programas tendientes a informar a la sociedad sobre los temas en materia de población.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 54°.
+
+Las acciones y resultados derivados de los procesos de difusión de los programas del COPLADE, así como la información estadística se mantendrán en el Portal Electrónico del Gobierno del Estado y se actualizará permanentemente.
 
 ## TRANSITORIOS
 
@@ -777,7 +797,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE MAYO DE 2001.
 
@@ -806,3 +826,7 @@ Consecuentemente, el Comité de Planeación para el Desarrollo del Estado de Baj
 QUINTO.- Los nombramientos de Director General, del Consejo Estatal de Población de Baja California que se extingue mediante el Artículo Quinto del presente Decreto, y del personal que así corresponda conforme a su naturaleza, otorgados con fundamento en la ley que se reforma, quedarán sin efectos, por lo que deberán ser liquidados conforme a la normatividad aplicable.
 
 SEXTO.- Se derogan las disposiciones que se opongan al Artículo Quinto del presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
