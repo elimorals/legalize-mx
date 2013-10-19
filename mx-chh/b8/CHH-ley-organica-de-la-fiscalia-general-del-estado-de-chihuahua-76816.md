@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2013-10-12"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -55,9 +55,9 @@ La Fiscalía General del Estado tiene las siguientes atribuciones:
 
 A.- En materia de Seguridad Pública y Prevención del Delito:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
 
-I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance;
+I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
 
 II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
 
@@ -604,3 +604,9 @@ Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Est
 ###### ARTÍCULO DÉCIMO CUARTO.
 
 De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
+
+P.O. 19 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
