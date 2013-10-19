@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-etica-del-poder-judicial-del-estado-de-oaxaca-96171"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-09-28"
-last_updated: "2013-09-28"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE OCTUBRE DE 2013.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de septiembre de 2013.
 
@@ -395,15 +395,19 @@ Comisión de Ética Judicial La Comisión de Ética Judicial, tiene como objetiv
 
 Integración Los plenos del Honorable Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca, mediante acuerdos expedidos en sus respectivos ámbitos de competencia, integrarán la Comisión de Ética Judicial, determinando su organización, funcionamiento y alcances de sus atribuciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
-PRIMERO. El presente Código de Ética del Poder Judicial del Estado de Oaxaca, deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, en el Boletín Judicial, en la página electrónica del Poder Judicial del Estado de Oaxaca http://tribunaloax.gob.mx, en los estrados del Honorable Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca.
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2013)</small>
 
-SEGUNDO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+PRIMERO. El presente Código de Ética del Poder Judicial del Estado de Oaxaca, deberá ser publicado en el Periódico Oficial del Gobierno del Estado, en el Boletín Judicial, en la página electrónica del Poder Judicial del Estado de Oaxaca http://tribunaloax.gob.mx, en los estrados del Honorable Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca.
 
-TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Acuerdo.
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2013)</small>
+
+SEGUNDO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2013)</small>
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Código.
 
 CUARTO. Se abroga el Código de Ética del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Oaxaca.
 
