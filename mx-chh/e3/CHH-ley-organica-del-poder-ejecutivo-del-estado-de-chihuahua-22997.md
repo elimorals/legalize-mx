@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2013-09-25"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1113,9 +1113,9 @@ La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado
 
 A.- En materia de Seguridad Pública y Prevención del Delito:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
 
-I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance;
+I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
 
 II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
 
@@ -2028,6 +2028,12 @@ Las funciones, facultades, derechos y obligaciones establecidos en cualquier ord
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Comisión Estatal de Gasto Financiamiento, se entenderá a la Secretaría de Hacienda.
 
 P.O. 25 DE SEPTIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
