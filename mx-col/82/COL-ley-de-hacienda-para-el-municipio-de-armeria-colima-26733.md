@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-05-04"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERÍA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -125,15 +125,23 @@ II. Los derechos incorporados en los certificados de participación inmobiliaria
 
 Son sujetos de este impuesto:
 
-I. Los propietarios y los poseedores de predios urbanos o rústicos, ejidales o comunales;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
 
-II. Los copropietarios, los coposeedores y los nudopropietarios de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria;
+I. Los propietarios de predios urbanos o rústicos, ejidales o comunales;
 
-III. Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aun cuando no se les transmita la propiedad, en cumplimiento del fideicomiso y los usufructuarios;
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2013)</small>
 
-IV. Los ejidatarios, comuneros y los titulares de derechos parcelarios en los términos de la legislación agraria; y
+II. Los poseedores de predios urbanos o rústicos, ejidales o comunales, incluidos los beneficiarios de programas para la regularización de la tenencia de la tierra, ejecutados por entes públicos del gobierno federal, estatal o municipal;
 
-V. Los demás sujetos que señalen las leyes fiscales.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+III. Los copropietarios, los coposesores y los nudopropietarios de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria;
+
+IV. Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aun cuando no se les transmita la propiedad, en cumplimiento del fideicomiso y los usufructuarios;
+
+V. Los ejidatarios, comuneros y los titulares de derechos parcelarios en los términos de la legislación agraria; y
+
+VI. Los demás sujetos que señalen las leyes fiscales.
 
 #### SECCION TERCERA. DE LOS RESPONSABLES SOLIDARIOS
 
@@ -149,7 +157,9 @@ III. Los fiduciarios respecto de los bienes sujetos al fideicomiso;
 
 IV. Los adquirentes de predios o de certificados de participación inmobiliaria y de títulos similares, por los créditos fiscales no pagados en relación con el inmueble de que se trate; y
 
-V. Los servidores públicos y notarios públicos que autoricen algún acto o contrato o den trámite a algún documento sin cerciorarse de que se está al corriente en el pago de los créditos fiscales correspondientes a los inmuebles o derechos sobre los mismos.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+V. Los servidores públicos y los notarios públicos que autoricen algún acto o contrato o den trámite a algún documento relacionado con los derechos reales sobre los inmuebles, sin cerciorarse de que se está al corriente en el pago de las obligaciones fiscales relacionadas con los mismos, excepto cuando se trate del supuesto del párrafo segundo, del artículo 18 de esta Ley.
 
 En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentemente el pago de los adeudos fiscales, independientemente de quien sea el propietario, el poseedor o el que los detente.
 
@@ -247,9 +257,15 @@ La Tesorería Municipal tendrá acción real para el cobro del impuesto predial 
 
 No quedan comprendidas en esta disposición las multas que se impongan cuando se incurra en infracciones al presente Capítulo, pues dichas sanciones se considerarán personales para todos los efectos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 18.
 
-Los notarios públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas cuyo objeto sean predios ubicados en el municipio, deberán exigir el pago de este impuesto, para cuyo efecto se deberá presentar el último recibo de pago.
+Los notarios públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas cuyo objeto sean predios ubicados en el municipio, deberán exigir al interesado que acredite estar al corriente en el cumplimiento de sus obligaciones fiscales relacionadas con este impuesto.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas unidades de salario mínimo diario vigente en la entidad, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
@@ -396,6 +412,10 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 Será base de este impuesto el valor que resulte mayor entre el valor catastral, el de avalúo comercial y el señalado como precio de la transmisión, vigente en el momento en que se realice la operación objeto del impuesto.
 
 A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+La base de este impuesto, tratándose de transmisión de la propiedad que realicen los organismos públicos descentralizados del Gobierno Federal o Estatal, cuyo objeto sea la regularización de la tenencia de la tierra, será el valor señalado como precio de la operación entre dicho organismo como vendedor y el avecindado o comprador.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3444,3 +3464,7 @@ P.O. 30 DE MARZO DE 2013.
 P.O. 4 DE MAYO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
