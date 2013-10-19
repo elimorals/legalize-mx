@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-06-08"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3905,6 +3905,28 @@ A quien haga aparecer ganado bovino como nacido en la Entidad, sin serlo, se le 
 
 Si en la comisión de cualesquiera de las conductas previstas en los artículos 361 y 362 se afecta el estatus zoosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+## TÍTULO VIGÉSIMO OCTAVO. DELITOS EN CONTRA DE LOS ANIMALES DE COMPAÑÍA POR ACTOS DE MALTRATO
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 364.
+
+Se impondrá multa de hasta doscientos salarios a quien omita dolosamente prestar cuidados a un animal de compañía, que sea de su propiedad y que esta omisión ponga en peligro la salud del animal.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 365.
+
+Al que dolosamente cometa actos de maltrato en contra de cualquier animal de compañía, causándole lesiones que pongan en peligro la vida del animal, se le impondrá de seis meses a un año de prisión y multa de hasta doscientos cincuenta salarios.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 366.
+
+Al que dolosamente cometa actos de maltrato en contra de algún animal de compañía, causándole la muerte, se le impondrá de seis meses a dos años de prisión y multa de hasta doscientos cincuenta salarios.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -4266,6 +4288,12 @@ P.O. 16 DE MARZO DE 2013.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
