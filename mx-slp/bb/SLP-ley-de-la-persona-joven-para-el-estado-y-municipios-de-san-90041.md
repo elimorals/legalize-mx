@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2012-10-20"
+last_updated: "2013-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -133,7 +133,7 @@ IV. De especialidad: la obligatoriedad de interpretar hechos y normas, así como
 
 V. De igualdad y no discriminación: las personas jóvenes, sin distinción de origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana, tienen derecho al acceso a los programas y acciones que les beneficien.
 
-Se deberán interpretar hechos y normas reconociendo las circunstancias de origen étnico o nacional; género, preferencia sexual, edad, cultura, discapacidades, condición o clase social, salud, religión, opinión política, estado civil o cualquier otra que impongan una situación de desventaja, discriminación o vulnerabilidad de las personas jóvenes;
+Se deberán interpretar hechos y normas reconociendo las circunstancias de origen étnico o nacional, género, preferencia sexual, edad, cultura, discapacidades, condición o clase social, salud, religión, opinión política, estado civil o cualquier otra que impongan una situación de desventaja, discriminación o vulnerabilidad de las personas jóvenes;
 
 VI. De participación democrática: acciones encaminadas a ampliar la participación efectiva y genuina de las personas jóvenes en el diseño y evaluación de políticas públicas y ejecución de programas y acciones que busquen el desarrollo y el bienestar de la comunidad; para ello el Estado propiciará y estimulará la conformación de organizaciones de las personas jóvenes;
 
@@ -1085,9 +1085,11 @@ V. Proponer las medidas que considere adecuadas para mejorar la calidad de vida 
 
 VI. Coadyuvar con la Dirección General en el fomento de la participación y el asociacionismo juvenil, promoviendo estrategias para el fortalecimiento de los colectivos juveniles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 80.
 
-El Consejo estará formado por veinte personas jóvenes que se encuentren desarrollando un trabajo de impacto comunitario, mismos que serán elegidos mediante convocatoria pública.
+El Consejo estará formado por veinte consejeros propietarios, y veinte consejeros suplentes, todas y todos, personas jóvenes que se encuentren desarrollando un trabajo de impacto comunitario; los que serán elegidos mediante convocatoria pública.
 
 Adicionalmente se establecerán los siguientes requisitos exigidos a las personas jóvenes candidatos para su elección:
 
@@ -1103,7 +1105,9 @@ V. No ocupar cargo o función pública al momento de la publicación de la convo
 
 VI. Presentar acta de nacimiento, currículum vitae, carta exposición de motivos.
 
-Cada uno de los miembros del Consejo tendrá un suplente, que ocupará su lugar en el caso en que por alguna razón el titular no pueda seguir ocupando su espacio como miembro de esta junta.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+
+Los suplentes ocuparán el lugar de los titulares, en caso de que por alguna razón el titular no pueda seguir desempeñándose como miembro del Consejo.
 
 ###### ARTICULO 81.
 
@@ -1242,3 +1246,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
