@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-05-15"
+last_updated: "2013-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -6193,7 +6193,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -10471,7 +10471,7 @@ Artículo 639 Undecies.- Para el caso de solicitar el refrendo de la licencia de
 
 Artículo 639 Duodecies.- Cuando se solicite la reposición, transferencia o cesión, cambio de giro comercial, cambio de local dentro del mercado municipal y/o de apoyo, y baja de la licencia de funcionamiento, se estará a lo dispuesto en el Capítulo 20 del presente ordenamiento.
 
-ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 Artículo 639 Terdecies.- Los locales que se destinen para expendio de productos cárnicos y/o subproductos, deberán reunir los siguientes requisitos:
 
@@ -10513,7 +10513,7 @@ V. Facilitar la inspección sanitaria, exhibiendo la documentación comprobatori
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
 
@@ -10533,7 +10533,7 @@ V. La carne de aves muertas deberá estar exenta de los colorantes denominados s
 
 VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no contar con refrigerador deberán mantenerse cubiertos con hielo molido.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
@@ -10667,7 +10667,9 @@ I. VENDEDORES AMBULANTES: Aquellas personas que realizan Comercio autorizado dea
 
 II. VENDEDORES SEMIFIJOS: Aquellas personas que realizan el Comercio autorizado de sus mercancías estableciéndose en la Vía Pública de una manera momentánea, temporal o provisional; con casetas, kioscos, carros vehículos u otro tipo de mueble permitido; y
 
-III. PRESTADORES AMBULANTES DE SERVICIOS: Son aquellos que ofrecen un servicio autorizado, producto de su esfuerzo, ingenio o creatividad deambulando por la Vía Pública.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+III. PRESTADORES AMBULANTES DE SERVICIOS: Son aquellas personas que realizan el comercio ofreciendo un servicio autorizado, producto de su esfuerzo, ingenio o creatividad, deambulando o semifijos en la vía pública o en lugares públicos.
 
 ###### Artículo 644.
 
@@ -10675,7 +10677,9 @@ Para efectos de este Capítulo, el Municipio de Puebla se divide en tres zonas:
 
 I. ZONA A.- El cuadrante íntegro comprendido dentro e inclusive de las siguientes calles:
 
-Al Oriente.- Boulevard héroes del 5 de Mayo;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+Al Oriente.- Calle 14 Norte-Sur;
 
 Al Poniente.- Calle 13 Norte- Sur;
 
@@ -10699,9 +10703,9 @@ Sólo podrán ejercer su actividad en la vía pública, en los espacios que esta
 
 I. Estar inscritos por el padrón que al efecto lleve el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político y que haya sido notificado al Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2013)</small>
 
-II. Contar con el permiso vigente, expedido por el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político, el cual surtirá sus efectos al momento de realizar el pago en Tesorería Municipal;
+II. Contar con el permiso vigente, expedido por el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político, el cual surtirá sus efectos al momento de realizar el pago en la Tesorería Municipal. El permiso que se otorgue a los aseadores de calzado y aseadores de vehículos, tendrá una vigencia de un mes y serán renovables siempre y cuando se cumpla con la norma aplicable;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10737,15 +10741,17 @@ VIII. Contratar y pagar el suministro de energía eléctrica, agua y recolecció
 
 IX. Pagar los derechos correspondientes señalados por la Ley de Ingresos del Municipio ante las oficinas y/o cajas recaudadoras de la Tesorería Municipal.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
 
-El Departamento de Concertación de Espacios Públicos no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+El Departamento de Concertación de Espacios Públicos no podrá solicitar requisitos adicionales a los mencionados en el presente Código Reglamentario, de lo contrario incurrirá en responsabilidad administrativa y sólo podrán otorgar el número de permisos señalados por el presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 Aquéllos que soliciten los permisos a que se refiere el presente Capítulo, deberán presentar una solicitud por escrito ante el Departamento de Concertación de Espacios Públicos, además de lo siguiente:
 
-a) Cartas de no inconveniente del vecino que se afecte y de los tres vecinos que colinden a cada lado con el espacio que pretende ser utilizado para el ejercicio del comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública;
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+a) Cartas de no inconveniente del vecino que se afecte y de los tres vecinos que colinden a cada lado con el espacio que pretende ser utilizado para el ejercicio del comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública, salvo aquéllos que deambulen en la misma;
 
 b) Señalar el giro que pretende ejercer de conformidad con lo citado por el presente Capítulo;
 
@@ -10821,13 +10827,31 @@ f) Bebidas: Agua natural purificada y yogur para beber bajo en azúcar.
 
 Los giros permitidos por prestadores ambulantes de servicios son los siguientes:
 
-- Boleros.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+- Aseadores de calzado.
 
 - Cantantes y músicos.
 
 - Mimos y payasos.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+- Aseadores de vehículos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
 - Cualquier otro que determine el Presidente Municipal, mediante acuerdo debidamente fundado y motivado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 648 Bis.
+
+Los aseadores de vehículos podrán realizar esta actividad en el Jardín del Carmen, específicamente en la Privada 16 de septiembre entre las calles 15 y 17 Oriente, donde se otorgarán hasta 13 permisos; en el Paseo Bravo en la calle 13 Norte entre las calles 3 Poniente y 11 Poniente, donde se otorgarán hasta 21 permisos; en el Barrio de San Francisco en la calle 10 Norte entre las calles 16 y 18 Oriente, donde se otorgarán hasta 18 permisos; en el Barrio de Santiago en la calle 15 Sur entre las calles 17 y 19 Poniente, donde se otorgarán hasta 5 permisos; en el Barrio de San José en la calle 18 Oriente entre las calles 2 y 4 Norte, a ambos lados del Parque, en donde se otorgarán hasta 21 permisos; en el Jardín de Dolores en la calle 6 Norte entre las calles 10 y 12 Oriente, en donde se otorgarán hasta 5 permisos; y en el Parque de Analco en la calle 7 Oriente entre las calles 8 y 10 Sur, donde se otorgarán hasta 7 permisos.
+
+Los aseadores de calzado podrán realizar esta actividad en toda el área señalada como Zona de Monumentos, donde se otorgarán hasta 46 permisos.
+
+Lo anterior, será excepcional y sin perjuicio a lo establecido por los artículos 1186 fracción XXX y 1213 inciso e) del presente Código Reglamentario.
 
 ###### Artículo 649.
 
@@ -10853,6 +10877,30 @@ IV. Respetar los horarios y días de trabajo que se hayan establecido previament
 
 V. Tratándose de vendedores ambulantes y semifijos a que se refieren los artículos 647 fracciones I a VI y 647 Bis, deberán cumplir con prácticas de higiene y sanidad consistentes en utilizar en todo momento cubre boca, cofia, mandil de color claro y mantener salubres sus utensilios de trabajo. Asimismo deberán tener a la vista la Constancia vigente expedida por la autoridad sanitaria competente de la Secretaría de Salud del Estado de Puebla, que acredite la capacitación en materia de mejores prácticas sanitarias y manejo adecuado de alimentos.
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+VI. Tratándose de los aseadores de vehículos, independientemente de los requisitos señalados en el artículo 645, deberán cumplir con los siguientes:
+
+a) Portar un uniforme que los identifique, con las siguientes características:
+
+1. Nombre;
+
+2. Número otorgado por el Departamento de Concertación de Espacios Públicos que será el mismo que se tenga en el padrón correspondiente;
+
+3. Leyendas en las que se indique que queda prohibido el apartado de lugares; el número oficial gubernamental donde se reporten cualquier tipo de anomalías, y toda aquélla que el Departamento de Concertación de Espacios Públicos determine, siempre y cuando sea en materia de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+VII. Tratándose de los aseadores de calzado, éstos deberán cumplir con los siguientes requisitos:
+
+a) Portar un uniforme que los identifique, con las siguientes características:
+
+1. Nombre;
+
+2. Número otorgado por el Departamento de Concertación de Espacios Públicos que será el mismo que se tenga en el padrón correspondiente;
+
+3. Leyenda que indique el número oficial gubernamental donde se reporten cualquier tipo de anomalías, y toda aquélla que el Departamento de Concertación de Espacios Públicos determine, siempre y cuando sea en materia de seguridad pública.
+
 ###### Artículo 651.
 
 Los vendedores Ambulantes, Vendedores Semifijos y prestadores Ambulantes de Servicios tienen prohibido:
@@ -10876,6 +10924,20 @@ VI. Invadir el arroyo vehicular, obstaculizar, las rampas, escalones, quicios, p
 VII. Ejercer actividades que atenten contra la salud, las buenas costumbres o la Imagen Urbana tal como es el caso de niveles de ruido, malos olores productos, y procesos peligrosos y/o contaminantes, que atenten en general contra el medio ambiente y sus leyes y reglamentos respectivos; y
 
 VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como casa habitación, u otros diferentes al comercial.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+Además de las fracciones anteriores, los aseadores de vehículos tienen prohibido:
+
+I. Colocar depósitos, cajas, banderolas o cualquier otro objeto con el que aparten espacios y/o cajones de estacionamiento en la vía pública. Por lo tanto si un automovilista se estacionara en la zona autorizada y éste no desea que su automóvil sea aseado, el prestador ambulante del servicio no podrá obligar al conductor a que se retire del lugar o que su coche sea aseado, ni a que pague una cuota específica por ocupar ese espacio;
+
+II. Asear vehículos fuera de los días, horarios, zonas y territorios que les sean asignados en sus permisos; y
+
+III. Dedicarse a actividades de vigilancia de vehículos en su zona y cobrar por ello, así como el apartado de lugares.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+En caso de incumplimiento por parte de los aseadores de vehículos y los aseadores de calzado a las disposiciones establecidas en el presente Capítulo, estarán sujetos a lo dispuesto en el artículo 209 fracción III inciso c) del presente Código Reglamentario y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -18293,11 +18355,15 @@ a) Se mantendrá íntegra la traza urbana, no permitiéndose alteración alguna.
 
 b) Se autorizará la peatonización de algunas calles, como resultado de proyectos específicos que contribuyan a mejorar la calidad de vida y servicios en la zona, siendo importante el consenso de los propietarios de los inmuebles involucrados y del comercio organizado, en caso de existir previa autorización de las autoridades municipales.
 
-c) Se autorizará la ocupación del espacio público por parte del comercio informal, exclusivamente de giros o actividades tradicionales para los festejos cívicos del 1ro de mayo, 5 de mayo, 16 de septiembre, 12 de octubre y 20 de noviembre, que se instalarán la víspera y el día de la celebración, y en el caso de las fiestas patronales aplicándose a la misma disposición, esta autorización deberá ser expedida por la autoridad municipal y tendrá vigencia sólo en los días antes mencionados, en los cuales el interesado se compromete a preservar y vigilar el área ocupada.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+c) Además de lo señalado en el inciso e) del presente artículo, se autorizará la ocupación del espacio público por parte del comercio informal, exclusivamente de giros o actividades tradicionales para los festejos cívicos del 1 de Mayo, 5 de Mayo, 16 de Septiembre, 12 de Octubre y 20 de Noviembre, que se instalarán la víspera y el día de la celebración, y en el caso de las fiestas patronales aplicándose la misma disposición, esta autorización deberá ser expedida por la autoridad municipal y tendrá vigencia sólo en los días antes mencionados, en los cuales el interesado se compromete a preservar y vigilar el área ocupada.
 
 d) El estacionamiento en la vía pública, será restringido promoviendo el uso de estacionamientos públicos que se ubican en la zona.
 
-e) No se autoriza la ocupación de espacios públicos como parques, plazas, plazuelas, atrios, calles o banquetas por el comercio ambulante de manera permanente.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+
+e) No se autoriza la ocupación de espacios públicos como parques, plazas, plazuelas, atrios, calles o banquetas por el comercio ambulante de manera permanente, quedando exceptuados los prestadores ambulantes de servicio denominados aseadores de calzado y aseadores de vehículos, específicamente en los lugares señalados en el artículo 648 Bis.
 
 DE LA VIALIDAD, TRANSPORTE, TRÁNSITO Y SEGURIDAD VIAL
 
@@ -24005,7 +24071,7 @@ III.- Desperdicios: Son la basura y los residuos que se encuentren en el rastro 
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-IV. Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
+IV.- Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
 
 V.- Evisceración: Extracción de las vísceras contenidas en la cavidad toráxica, abdominal, craneana y bucal de las especies de animales consideradas algunas aptas para el consumo humano, pudiendo o no, extraerse los riñones;
 
@@ -24045,7 +24111,7 @@ XXII.- Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pe
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXIII. Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
+XXIII.- Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
 
 XXIV.- TIF: Establecimiento Tipo Inspección Federal;
 
@@ -24055,31 +24121,31 @@ XXVI.- Usuarios: Son todos aquéllos que utilicen los servicios del rastro.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXVII. Carne: Estructura compuesta por fibra muscular estriada, acompañada o no de tejido conjuntivo elástico, hueso, grasa, fibras nerviosas, vasos linfáticos, y sanguíneos, de las especies animales autorizadas para el consumo humano;
+XXVII.- Carne: Estructura compuesta por fibra muscular estriada, acompañada o no de tejido conjuntivo elástico, hueso, grasa, fibras nerviosas, vasos linfáticos, y sanguíneos, de las especies animales autorizadas para el consumo humano;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXVIII. Carne blanca: Es la canal o carne sin sello del Rastro Municipal o algún Rastro reconocido;
+XXVIII.- Carne blanca: Es la canal o carne sin sello del Rastro Municipal o algún Rastro reconocido;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XIX (SIC). Decomiso: Incautación de las canales, las vísceras y demás productos cárnicos y/o subproductos, considerados impropios para el consumo humano, que únicamente podrán ser aprovechados para uso industrial o en su caso incineración;
+XIX (SIC).- Decomiso: Incautación de las canales, las vísceras y demás productos cárnicos y/o subproductos, considerados impropios para el consumo humano, que únicamente podrán ser aprovechados para uso industrial o en su caso incineración;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXX. Empacadora: Establecimiento que procesa carne fresca o congelada para su comercialización en cortes o piezas debidamente empacadas;
+XXX.- Empacadora: Establecimiento que procesa carne fresca o congelada para su comercialización en cortes o piezas debidamente empacadas;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXI. Establecimiento: Instalación sujeta a la inspección del H. Ayuntamiento de Puebla, en la que se sacrifican y/o procesan animales de las especies bovina, equina, ovina, caprina, porcina, aves, lepóridos o cualquier otra especie destinadas al consumo humano, para el comercio en la República Mexicana o para su exportación;
+XXXI.- Establecimiento: Instalación sujeta a la inspección del H. Ayuntamiento de Puebla, en la que se sacrifican y/o procesan animales de las especies bovina, equina, ovina, caprina, porcina, aves, lepóridos o cualquier otra especie destinadas al consumo humano, para el comercio en la República Mexicana o para su exportación;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXII. Planta industrializadora: Establecimiento que procesa e industrializa las partes comestibles de los animales hasta transformarlas en productos alimenticios; y
+XXXII.- Planta industrializadora: Establecimiento que procesa e industrializa las partes comestibles de los animales hasta transformarlas en productos alimenticios; y
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXIII. Vísceras: Órganos contenidos en las cavidades torácica, abdominal, pélvica, craneana y bucal.
+XXXIII.- Vísceras: Órganos contenidos en las cavidades torácica, abdominal, pélvica, craneana y bucal.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -35170,3 +35236,11 @@ P.O. 13 DE MAYO DE 2013.
 P.O. 15 DE MAYO DE 2013.
 
 ÚNICO.- Las presentes adiciones entrarán en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en las reformas y adiciones contenidas en el presente Dictamen.
+
+TERCERO.- Por lo que hace a los pagos de derechos y demás contribuciones fiscales, serán en su caso exigibles a partir del Ejercicio Fiscal en el que se establezca el derecho en la ley respectiva.
