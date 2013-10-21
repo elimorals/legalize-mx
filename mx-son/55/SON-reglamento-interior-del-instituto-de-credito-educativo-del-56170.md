@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-credito-educativo-del-5617
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-05"
-last_updated: "2007-09-03"
+last_updated: "2013-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DEL INSTITUTO DE CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 5 de julio de 2007.
 
@@ -37,43 +37,41 @@ REGLAMENTO INTERIOR DEL INSTITUTO DE CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
 El Instituto de Crédito Educativo del Estado de Sonora, como organismo público descentralizado del Gobierno del Estado, tiene como objeto otorgar financiamiento a jóvenes con deseos y capacidad para el estudio, que no cuenten con los recursos económicos suficientes para ello; asimismo, apoyará cualquier proyecto o iniciativa en materia educativa, que redunde en beneficio del desarrollo social y económico del Estado; en los términos de la Ley que lo crea.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-Para el cumplimiento de su objeto, el Instituto de Crédito Educativo del Estado de Sonora, que se entenderá como el Instituto, contará con los siguientes Órganos y Unidades Administrativas:
+###### ARTÍCULO 2°.
 
-I. Órganos de Gobierno y Administración:
+Para el cumplimiento de su objeto, el Instituto de Crédito Educativo del Estado de Sonora, que se entenderá como Instituto, contará con los siguientes órganos y unidades administrativas:
 
-La Junta Directiva
+I. - Órganos de Gobierno y Administración:
 
-El Director General
+a) La Junta Directiva; y
 
-II. Órganos de Asesoría:
+b) El Director General.
 
-Consejo Técnico
+II.- Órganos de Asesoría:
 
-Comité de Crédito
+a) Consejo Técnico; y
 
-III. Unidades Administrativas:
+b) Comité de Crédito.
 
-Dirección General
+III.- Unidades Administrativas:
 
-Gerencia
+a) Dirección de Servicios;
 
-Dirección de Servicios
+b) Dirección de Cartera y Recuperación;
 
-Dirección de Cartera y Recuperación
+c) Dirección de Extensión, Investigación y Promoción Financiera;
 
-Dirección de Extensión, Investigación y Promoción Financiera
+d) Dirección de Infraestructura y Tecnologías de la Información;
 
-Dirección de Desarrollo de Sistemas
+e) Dirección Administrativa;
 
-Dirección de Contabilidad, Finanzas y Administración
+f) Dirección de Contabilidad y Finanzas;
 
-Dirección de Recursos Humanos
+g) Dirección de Desarrollo Organizacional; y
 
-Coordinación de la Extensión Sur
-
-Se anexa Organigrama estructural
+h) Coordinación de la Extensión Sur.
 
 ###### ARTÍCULO 3º.
 
@@ -149,7 +147,7 @@ V. Las demás que le confieran el presente Reglamento y otras disposiciones lega
 
 Los Vocales de la Junta Directiva tendrán a su cargo las siguientes funciones:
 
-l. Asistir a las sesiones de la Junta Directiva;
+I. Asistir a las sesiones de la Junta Directiva;
 
 II. Analizar y proponer la solución de los asuntos turnados a la Junta Directiva, formulando las observaciones y propuestas que estime convenientes, y
 
@@ -259,9 +257,11 @@ XXIII.- Las demás que le señale este Reglamento y demás disposiciones legales
 
 El Consejo Técnico funcionará como órgano de asesoría y apoyo del Director General del Instituto, realizando funciones de estudio y análisis, y elevará propuestas de solución de los asuntos de interés para el Instituto.
 
-###### ARTÍCULO 23º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-El Consejo Técnico se integrará por el Director General, la Gerencia y los titulares de las Direcciones de Área del Instituto. Cuando algún miembro del Consejo Técnico no pueda asistir a alguna de las reuniones, éste podrá designar un suplente.
+###### ARTÍCULO 23°.
+
+El Consejo Técnico se integrará por el Director General y los titulares de las unidades administrativas del Instituto. Cuando algún miembro del Consejo Técnico no pueda asistir a alguna de las reuniones, éste podrá designar un suplente.
 
 ###### ARTÍCULO 24º.
 
@@ -283,17 +283,19 @@ IV.- Emitir su opinión en los asuntos que sean sometidos a su consideración.
 
 El Comité de Crédito funcionará como órgano de análisis y búsqueda de solución para aquellos casos no contemplados en el Reglamento para el Otorgamiento de Créditos, del Instituto de Crédito Educativo del Estado de Sonora, así como para los casos de acreditados en periodo de amortización cuya solución requiere de consideraciones especiales.
 
-###### ARTÍCULO 27º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-El Comité de Crédito se integrará por cinco miembros que serán los titulares de la Gerencia, de la Dirección de Servicios y de la Dirección de Cartera y Recuperación, y dos especialistas en orientación y evaluación, para los casos de otorgamiento, y en cartera, para los casos de amortización de crédito nombrados por el Director General.
+###### ARTÍCULO 27°.
 
-Este Comité será presidido por la Gerencia y la opinión que en cada caso emita se turnará al Director General, a fin de que éste resuelva en definitiva o determine lo conducente.
+El Comité de Crédito se integrará por cinco miembros que serán los titulares de la Dirección Administrativa, de la Dirección de Servicios y de la Dirección de Cartera y Recuperación, y dos especialistas en orientación y evaluación, para los casos de otorgamiento, y en cartera, para los casos de amortización de crédito nombrados por el Director General.
 
-No obstante, cuando el Director General así lo decida, éste podrá presidir el Comité de Crédito.
+El Comité de Crédito será presidido por el titular de la Dirección Administrativa, y la opinión que en cada caso emita se turnará al Director General, a fin de que éste resuelva en definitiva o determine lo conducente. No obstante, cuando el Director General así lo decida, éste podrá presidir el Comité de Crédito.
 
-###### ARTÍCULO 28º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-Los acuerdos y opiniones del Comité de Crédito requerirán la firma de los titulares de la Gerencia, de la Dirección de Servicios y de la Dirección de Cartera y Recuperación, y, en su caso, del Director General.
+###### ARTÍCULO 28°.
+
+Los acuerdos y opiniones del Comité de Crédito requerirán la firma de los titulares de la Dirección Administrativa, de la Dirección de Servicios y de la Dirección de Cartera y Recuperación, y, en su caso, del Director General.
 
 ### CAPÍTULO IV. DEL DIRECTOR GENERAL
 
@@ -301,11 +303,11 @@ Los acuerdos y opiniones del Comité de Crédito requerirán la firma de los tit
 
 El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado, y contará con las siguientes atribuciones:
 
-I.- Administrar, manejar y representar legalmente al Instituto.
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-> <small>(ADICIONADO, B.O. 3 DE SEPTIEMBRE DE 2007)</small>
+I.- Administrar, manejar y representar legalmente al Instituto, con todas las facultades generales y las que requieran poder o cláusula especial, para actos de dominio, actos de administración y para pleitos y cobranzas conforme a la Ley, con base en los artículos 2831 y 2868 del Código Civil para el Estado de Sonora y sus correlativos de los distintos Códigos Civiles de la República Mexicana; para transigir, para comprometer en árbitros, para absolver y articular posiciones, para hacer cesión de bienes, para recusar, para desistirse, para recibir pagos, y para los demás actos que expresamente determine la Ley; para aperturar y cerrar cuentas bancarias necesarias para el funcionamiento del instituto; otorgar, suscribir, endosar, avalar y negociar títulos de crédito, en términos de los artículos 9, 10 y 11 de la Ley General de Títulos y Operaciones de Crédito; para representar al organismo en la Junta Local de Conciliación y Arbitraje, Junta Federal de Conciliación y Arbitraje, Tribunal Estatal de lo Contencioso Administrativo, Agencias Investigadoras del Ministerio Público y todas las demás instancias y autoridades administrativas de los ámbitos estatal, municipal y federal, así como ante los juzgados de primera instancia, salas de segunda instancia y cualquier otro órgano del Supremo Tribunal de Justicia del Estado, juzgados de distrito, tribunales unitarios de circuito, tribunales colegiados de circuito y cualquier otra autoridad en el ámbito judicial; pudiendo conferir poderes generales o especiales, por delegación parcial o total, para representar al organismo ante la Junta Local de Conciliación y Arbitraje, Junta Federal de Conciliación y Arbitraje, Tribunal Estatal de lo Contencioso Administrativo, Agencias Investigadoras del Ministerio Público y todas las demás instancias y autoridades administrativas de los ámbitos estatal, municipal y federal, así como ante los juzgados de primera instancia, salas de segunda instancia, y cualquier otro órgano del Supremo Tribunal de Justicia del Estado, juzgados de distrito, tribunales unitarios de circuito, tribunales colegiados de circuito y cualquier otra autoridad en el ámbito judicial; así como revocar o sustituir los mismos, siendo todo lo anterior en forma enunciativa mas no limitativa.
 
-El director general como representante legal del instituto de crédito educativo del Estado de Sonora, tendrá todas las facultades generales y las que requieran poder o clausula especial, para actos de dominio, actos de administración y para pleitos y cobranzas conforme a la ley, con base en los artículos 2831 y 2868 del Código Civil para el Estado de Sonora y sus correlativos de los distintos Códigos Civiles de la Republica Mexicana; para transigir, para comprometer en árbitros, para absolver y articular posiciones, para hacer cesión de bienes, para recusar, para desistirse, para recibir pagos, y para los demás actos que expresamente determine la ley; artículos 9, 10 y 11 de la Ley general de títulos y operaciones de crédito; suscripción, endoso, aval y negociación de titulas y operaciones de crédito; para representar al organismo en la junta local de conciliación y arbitraje, junta federal de conciliación y arbitraje, tribunal estatal de la contencioso administrativo, agencias investigadoras del ministerio publico y todas las demás instancias y autoridades administrativas del ámbito estatal, municipal y federal, al como ante los juzgados de primera instancia, salas de segunda instancia y cualquier otro órgano del Supremo Tribunal de Justicia del Estado, juzgados de distrito, tribunales unitarios de circuito tribunales colegiados de circuito y cualquier otra autoridad en el ámbito judicial; pudiendo conferir poderes generales o especiales, por delegación parcial o total, para representar al organismo ante la junta local de conciliación y arbitraje, junta federal de conciliación y arbitraje, tribunal estatal de lo contencioso administrativo, agencias investigadoras del ministerio público y todas la demás instancias y autoridades administrativas del ámbito estatal, municipal y federal, así como ante los juzgados de primera instancia, salas de segunda instancia, y cualquier otro órgano del Supremo Tribunal de Justicia en el Estado, juzgados de distrito, tribunales unitarios de circuito, tribunales colegiados de circuito y cualquier otra autoridad en el ámbito judicial; así como revocar o sustituir los mismos, siendo todo lo anterior en forma enunciativa mas no limitativa;
+En caso de enajenación de inmuebles y de cesión de bienes muebles, se deberá contar con la autorización expresa de la Junta Directiva del Instituto;
 
 II.- Formular los programas institucionales, así como los proyectos de presupuestos del Instituto y presentarlos para su aprobación a la Junta Directiva;
 
@@ -347,9 +349,25 @@ XX.- Nombrar, suspender y remover libremente al personal de confianza del Instit
 
 XXI.- Proponer los puntos de acuerdo para su aprobación o autorización que considere pertinentes, a la Junta Directiva, actuando como Secretario Técnico;
 
-XXII.- Certificar copias de documentos originales que obren en los expedientes del Instituto; y
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-XXIII.- Las demás que le señalen otras leyes, reglamentos, decretos, acuerdos, y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento y las que correspondan y determine la Junta Directiva.
+XXII.- Certificar copias de documentos originales que obren en los expedientes del Instituto;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+XXIII.- Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter pública del Instituto;
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+XXIV.- Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+XXV.- Las demás que le señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento y las que correspondan y determine la Junta Directiva.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+El Director General, para el ejercicio de sus atribuciones, se auxiliará de los titulares de las unidades administrativas, así como del Director Adjunto de Seguimiento y del Director Adjunto de Procesos, estos últimos como titulares de sus respectivas unidades de apoyo, con las funciones que se determinen en el Manual de Organización.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENERICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -363,13 +381,19 @@ II.- Formular los anteproyectos de programas y presupuestos que les corresponden
 
 III.- Conducir sus actividades de acuerdo con los programas aprobados y las políticas establecidas, para el logro de los objetivos y prioridades establecidos para el Organismo;
 
-IV.- Rendir los informes y formular los dictámenes, estudios y opiniones que les sean solicitados por el Director General y/o la Gerencia;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+IV.- Rendir los informes y formular los dictámenes, estudios y opiniones que les sean solicitados por el Director General;
 
 V.- Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y actividades de la competencia de la respectiva Unidad Administrativa, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
 
-VI.- Acordar con el Director General y/o la Gerencia los asuntos de la competencia de la Unidad a su cargo;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-VII.- Someter a la consideración del Director General y/o la Gerencia los proyectos de modernización y desarrollo administrativo de la Unidad Administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
+VI.- Acordar con el Director General los asuntos de la competencia de la Unidad a su cargo;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+VII.- Someter a la consideración del Director General los proyectos de modernización y desarrollo administrativo de la unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
 VIII.- Coordinarse con las extensiones y enlaces para el desarrollo de las funciones inherentes a su competencia;
 
@@ -381,35 +405,29 @@ XI.- Proponer al Consejo Técnico, para su evaluación, las mejoras al Manual de
 
 XII.- Supervisar la información en los sistemas electrónicos de acuerdo a los sistemas y estándares establecidos;
 
-XIII.- Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva, y
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-XIV.- Desempeñar las demás que se establecen en las distintas disposiciones legales y reglamentarias vigentes o las que les sean encomendadas por el Director General.
+XIII.- Atender al público en los asuntos de la competencia de la unidad administrativa respectiva;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+XIV.- Proponer al Director General las políticas, procedimientos, normas y criterios de organización y operación que orienten las funciones del Instituto; y
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+XV.- Las demás que se establecen en las distintas disposiciones legales y reglamentarias aplicables o las que les sean encomendadas por el Director General.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### ARTÍCULO 31º.
 
-La Gerencia, estará adscrita al Director General y le corresponden las siguientes atribuciones:
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2013)
 
-I.- Coordinar las áreas operativas del Instituto para el óptimo desempeño de las mismas;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-II.- Elaborar y presentar a consideración del Director General los anteproyectos del programa institucional, programa presupuesto, programa operativo anual del Instituto, de recursos, desarrollo de sistemas, así como la investigación y enlace con instituciones;
+###### ARTÍCULO 32°.
 
-III.- Presentar al Director General los informes que requiera;
-
-IV.- Proponer al Director General las políticas, procedimientos, normas y criterios de organización y operación que orienten las funciones del Instituto;
-
-V.- Proveer de la información necesaria para la toma de decisiones del Director General;
-
-VI.- Apoyar los programas diseñados para al otorgamiento y recuperación de créditos;
-
-VII.- Coordinar el Programa de Mejoramiento Continuo del Instituto, y
-
-VIII.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el Director General.
-
-###### ARTÍCULO 32º.
-
-La Dirección de Servicios, estará adscrita a la Gerencia y le corresponden las siguientes atribuciones:
+Corresponden a la Dirección de Servicios las siguientes atribuciones:
 
 I.- Coordinar la asignación de los recursos en la selección de los beneficiarios del crédito, con base en el Reglamento para el Otorgamiento de Créditos, del Instituto de Crédito Educativo del Estado de Sonora y con los criterios definidos por la Junta Directiva;
 
@@ -421,7 +439,9 @@ IV.- Supervisar que el otorgamiento del crédito educativo se encuentre debidame
 
 V.- Supervisar el procedimiento de atención al público a fin de lograr un servicio oportuno y eficiente a solicitantes y acreditados;
 
-VI.- Apoyar las políticas de asignación de créditos a los estudiantes con base a la información generada por el funcionamiento y operación del Instituto;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+VI.- Apoyar los programas diseñados para el otorgamiento de créditos y las políticas de asignación de éstos a los estudiantes, con base en la información generada por el funcionamiento y operación del Instituto;
 
 VII.- Supervisar la continua actualización del modelo de autorización de los créditos educativos;
 
@@ -443,13 +463,17 @@ XV.- Realizar el control de los Fondos en Administración para su óptima operac
 
 XVI.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
 
-###### ARTÍCULO 33º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-La Dirección de Cartera y Recuperación, estará adscrita a la Gerencia y le corresponden las siguientes atribuciones:
+###### ARTÍCULO 33°.
+
+Corresponden a la Dirección de Cartera y Recuperación las siguientes atribuciones:
 
 I.- Salvaguardar la integridad física de los documentos que respaldan los créditos educativos por cobrar;
 
-II.- Planear y ejecutar todas las acciones necesarias para la recuperación oportuna de los créditos;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+II.- Planear y ejecutar todas las acciones necesarias y los programas diseñados para la recuperación oportuna de los créditos;
 
 III.- Diseñar y aplicar sistemas de control interno, así como supervisar las acciones operativas de la Dirección;
 
@@ -463,9 +487,11 @@ VII.- Revisar que la aplicación directa de los pagos recibidos coincida con la 
 
 VIII.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
 
-###### ARTÍCULO 34º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-La Dirección de Extensión, Investigación y Promoción Financiera, estará adscrita a la Gerencia y le corresponden las siguientes atribuciones:
+###### ARTÍCULO 34°.
+
+Corresponden a la Dirección de Extensión, Investigación y Promoción Financiera las siguientes atribuciones:
 
 I.- Promover y vincular al Instituto con organismos nacionales e internacionales para que aporten información y recursos que enriquezcan la labor del Instituto;
 
@@ -485,31 +511,63 @@ VIII.- Resguardar los documentos generados por el Programa de Comunicación y En
 
 IX.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
 
-###### ARTÍCULO 35º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-La Dirección de Desarrollo de Sistemas, estará adscrita a la Gerencia y le corresponden las siguientes atribuciones específicas:
+###### ARTÍCULO 35°.
 
-I.- Evaluar las diferentes necesidades de información y proponer herramientas para solucionarlas, definiendo fuentes, procedimientos y usos;
+Corresponden a la Dirección de Infraestructura y Tecnologías de la Información las siguientes atribuciones:
 
-II.- Coordinar el análisis, diseño, programación, implantación y, mantenimiento de sistemas;
+I.- Proponer las medidas para apoyar el proceso de modernización mediante el uso de herramientas tecnológicas, simplificación y desconcentración de las funciones a cargo del Instituto, coadyuvando a incrementar la productividad y eficiencia en el trabajo;
 
-III.- Coordinar las actividades encaminadas al buen resguardo de la información electrónica;
+II.- Proponer e instrumentar los planes, programas, estrategias, políticas y normas necesarias para encauzar la actividad de las áreas a su cargo, dentro de un margen de seguridad, acorde con los estándares internacionales en el manejo de la información;
 
-IV.- Coordinarse con las diferentes áreas para el mejoramiento continuo de los sistemas;
+III.- Vigilar los recursos de infraestructura informática y de telecomunicaciones en el Instituto, así como supervisar y, en su caso, regular el uso adecuado y responsable de éstos por parte de los servidores públicos del Instituto;
 
-V.- Proponer, para su adquisición, el equipo electrónico y el software necesario para el desarrollo de las funciones del Instituto aplicando los lineamientos establecidos para ello;
+IV.- Establecer y coordinar los programas de soporte técnico y de resguardo de la información que garanticen la continuidad del servicio que brinda la infraestructura tecnológica del Instituto, con niveles de servicio acordes a las necesidades de los usuarios;
 
-VI.- Coordinar el adecuado intercambio de datos electrónicos con las instituciones que presten un servicio al Instituto;
+V.- Proponer, desarrollar, coordinar y apoyar técnicamente las tareas de diseño, construcción, implantación y operación de los sistemas y aplicaciones de informática y telecomunicaciones que requieran las áreas del Instituto;
 
-VII.- Programar y supervisar el mantenimiento de los equipos electrónicos;
+VI.- Desarrollar, promover y coordinar los programas de capacitación necesarios para el mejor uso y aprovechamiento de los recursos informáticos y de telecomunicaciones, así como brindar la asistencia técnica y asesoría necesarias a las áreas usuarias del Instituto;
 
-VIII.- Evaluar, proponer e implementar las plataformas tecnológicas que se requieran para el desarrollo de las actividades propias del Instituto, y
+VII.- Realizar la investigación continua del avance tecnológico en materia de informática y telecomunicaciones;
 
-IX.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
+VIII.- Proponer y tramitar las autorizaciones presupuestarias de inversión en materia de infraestructura y tecnologías de información;
 
-###### ARTÍCULO 36º.
+IX.- Proponer las normas en materia de seguridad informática, a las que se deberán alinear las áreas usuarias del Instituto;
 
-La Dirección de Contabilidad, Finanzas y Administración, estará adscrita a la Gerencia y le corresponden las siguientes atribuciones:
+X.- Coordinar con las unidades administrativas el intercambio de información contenida en las bases de datos de los distintos sistemas informáticos del Instituto, con otras instituciones tanto públicas como privadas, nacionales o internacionales;
+
+XI.- Coordinar con las unidades administrativas la celebración de contratos, convenios y demás instrumentos jurídicos en materia de su competencia, con organismos y entidades tanto públicos como privados, nacionales o internacionales; y
+
+XII.- Las demás que señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 35° BIS.- Corresponden a la Dirección Administrativa las siguientes atribuciones:
+
+I.- Establecer, de acuerdo a la normatividad aplicable, las directrices, lineamientos y criterios técnicos para el proceso de programación, presupuestación y evaluación presupuestal del Instituto, y coordinar su aplicación;
+
+II.- Elaborar el proyecto de Programa Operativo Anual del Instituto, con base en el Plan Estatal de Desarrollo y los programas aplicables derivados del mismo, en conjunto con las demás unidades administrativas, y someterlo a consideración del Director General, para su aprobación por la Junta Directiva;
+
+III.- Coordinar la integración del anteproyecto de presupuesto del Instituto con base en los anteproyectos que sean presentados por los titulares de las unidades administrativas, y someterlo a la consideración del Director General, para su aprobación por la Junta Directiva;
+
+IV.- Recabar la información del Instituto necesaria para la integración de la Cuenta Pública del Estado, de conformidad con las disposiciones legales aplicables;
+
+V.- Evaluar el ejercicio del presupuesto y el cumplimiento de las metas comprometidas en el presupuesto anual del Instituto;
+
+VI.- Realizar las adquisiciones de bienes, servicios, arrendamientos y obras públicas con apego a la normatividad aplicable;
+
+VII.- Promover ante las unidades administrativas del Instituto la atención de los requerimientos formulados por los órganos fiscalizadores en todo lo relacionado con la administración de los recursos;
+
+VIII.- Proporcionar a las unidades administrativas del Instituto los servicios de apoyo administrativo, mantenimiento de bienes muebles e inmuebles, higiene y seguridad; y
+
+IX.- Las demás que las leyes, otras disposiciones reglamentarias y el superior jerárquico le señalen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 36°.
+
+Corresponden a la Dirección de Contabilidad y Finanzas las siguientes atribuciones:
 
 I.- Controlar los recursos financieros del Instituto, buscando un manejo y rendimiento óptimo de los mismos;
 
@@ -537,49 +595,49 @@ XII.- Controlar las aportaciones, generación de intereses, otorgamiento y recup
 
 XIII.- Formular y emitir la información contable y financiera que establezca la normatividad;
 
-XIV.- Coordinar la formulación del presupuesto anual;
+XIV.- (DEROGADA, B.O. 21 DE OCTUBRE DE 2013)
 
-XV.- Supervisar los servicios de limpieza, mantenimiento y vigilancia, y, en general, cualquier otro servicio que reciba el Instituto;
+XV.- (DEROGADA, B.O. 21 DE OCTUBRE DE 2013)
 
-XVI.- Llevar un control estricto de las adquisiciones que efectúe el Instituto;
+XVI.- (DEROGADA, B.O. 21 DE OCTUBRE DE 2013)
 
-XVII.- Vigilar el uso adecuado de la papelería, instalaciones y demás bienes del Instituto, y
+XVII.- (DEROGADA, B.O. 21 DE OCTUBRE DE 2013)
 
 XVIII.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
 
-###### ARTÍCULO 37º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-La Dirección de Recursos Humanos estará adscrita a la Gerencia y le corresponden las siguientes atribuciones:
+###### ARTÍCULO 37°.
 
-I.- Lograr la integración, permanencia y desarrollo del recurso humano que colabora en el Instituto, a través de un sistema de administración que permita el logro de sus objetivos individuales conjuntamente con los del Instituto;
+Corresponden a la Dirección de Desarrollo Organizacional las siguientes atribuciones:
 
-II.- Proveer a las Direcciones que conforman el Instituto de Crédito Educativo del Estado de Sonora del potencial humano que requieran para llevar a cabo sus funciones;
+I.- Dirigir la planeación y administración de los recursos humanos del Instituto;
 
-III.- Cumplir con la correcta aplicación de las obligaciones de carácter laboral y legal, así como mantener una equidad en las retribuciones económicas del personal;
+II.- Desarrollar e implementar los mecanismos para incrementar la capacidad de colaboración individual y grupal con el fin de potencializar el espíritu de equipo y la integración del personal del Instituto;
 
-IV.- Proporcionar al personal los elementos teóricos y las herramientas prácticas que le faciliten desarrollar el máximo de su potencial en el desempeño de sus funciones, a través de programas específicos de capacitación, adiestramiento y desarrollo;
+III.- Administrar los procesos de reclutamiento, selección, contratación, inducción y evaluación del desempeño del personal del Instituto, en observancia de la normatividad y las políticas establecidas;
 
-V.- Establecer todas las relaciones de carácter laboral, entre el Instituto de Crédito Educativo del Estado de Sonora, personal que presta sus servicios y los organismos sindicales, dentro de un clima de cordialidad y ayuda mutua;
+IV.- Asesorar a las unidades administrativas en la elaboración y actualización del Manual de Organización y de los manuales de procedimientos, buscando el equilibrio entre las necesidades y objetivos del Instituto y las del personal que lo conforma;
 
-VI.- Planear y administrar la aplicación de los recursos humanos, mediante el análisis y descripción de puestos, el posicionamiento de los cargos en la organización, la planeación de carreras y la evaluación del desempeño;
+V.- Coordinar la elaboración y aplicación de los programas de capacitación, a fin de potenciar las capacidades técnicas, administrativas e interpersonales de los recursos humanos del Instituto;
 
-VII.- Establecer, en coordinación con la Dirección de Contabilidad, Finanzas y Administración, los mecanismos para la administración de la nómina de personal y los procesos para su actualización permanente como respuesta a los diversos movimientos en materia de salarios, prestaciones y promociones;
+VI.- Proponer y aplicar los mecanismos para crear un clima de confianza para conocer las realidades organizacionales, a fin de diagnosticar y solucionar conflictos administrativos o laborales;
 
-VIII.- Desarrollar programas de higiene y seguridad en el trabajo;
+VII.- Proponer la estructura orgánica ocupacional y salarial desde el punto de vista técnico, organizacional y operacional, conforme a los lineamientos aprobados por la Junta Directiva;
 
-IX.- Mantener actualizados los Manuales de Organización y de Procedimientos del Instituto en coordinación con las demás Direcciones;
+VIII.- Proponer, difundir y aplicar programas de protección civil, salud e higiene, de acuerdo con la normatividad aplicable;
 
-X.- Establecer los criterios de control de personal mediante la organización de banco de datos, sistemas de información y auditorias de los recursos humanos;
+IX.- Conducir las relaciones laborales del Instituto y promover la correcta aplicación de las Condiciones Generales de Trabajo y los demás ordenamientos aplicables en materia laboral;
 
-XI.- Coordinarse con la Dirección de Contabilidad, Finanzas y Administración, para la supervisión del servicio de limpieza del Instituto;
+X.- Proponer y aplicar los mecanismos que regulen los movimientos, remuneraciones, prestaciones, servicios, estímulos y obligaciones del personal, con apego a las disposiciones normativas aplicables, en coordinación con la Dirección de Contabilidad y Finanzas; y
 
-XII.- Vigilar el uso adecuado de vehículos, y
+XI.- Las demás que las leyes, otras disposiciones reglamentarias y el superior jerárquico le señalen.
 
-XIII.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-###### ARTÍCULO 38º.
+###### ARTÍCULO 38°.
 
-La Coordinación de la Extensión Sur, estará adscrita a la Gerencia y le corresponden las siguientes atribuciones:
+Corresponden a la Coordinación de la Extensión Sur las siguientes atribuciones:
 
 I.- Coordinar las áreas operativas de la Extensión Sur del Instituto para el óptimo desempeño de las mismas, vigilando que las operaciones se orienten siempre de acuerdo con los programas y las políticas generales del Instituto;
 
@@ -595,7 +653,7 @@ VI.- Proponer las medidas necesarias (procedimientos, criterios de organización
 
 VII.- Presentar la información necesaria para la toma de decisiones, relativas a estas mejoras; y
 
-VIIl.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
+VIII.- Las demás que le señalen las leyes, otras disposiciones reglamentarias y el superior jerárquico.
 
 Las presentes disposiciones, se aplicarán en sus términos, en caso de que el Instituto, resuelva otras representaciones en diversas localidades del Estado.
 
@@ -629,9 +687,11 @@ El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Pú
 
 El Instituto de Crédito Educativo del Estado de Sonora, para el logro de su objeto, estará integrado por trabajadores de confianza y de base.
 
-###### ARTÍCULO 45º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-Serán trabajadores de confianza del Instituto: El Director General, el Gerente, los Directores y Subdirectores, Administradores, Jefes de Departamento, Asesores y demás personal que efectúe labores de inspección y vigilancia y manejo de fondos.
+###### ARTÍCULO 45°.
+
+Serán trabajadores de confianza del Instituto: El Director General, los Directores, Directores Adjuntos, Coordinadores, Subdirectores, Administradores, Jefes de Departamento, Asesores y demás personal que efectúe labores de fiscalización, supervisión, inspección y vigilancia, así como de manejo de fondos.
 
 ###### ARTÍCULO 46º.
 
@@ -639,9 +699,11 @@ La relación de trabajo entre el Instituto y sus trabajadores, se regirá por la
 
 ### CAPÍTULO IX. DE LAS SUPLENCIAS DE FUNCIONARIOS
 
-###### ARTÍCULO 47º.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2013)</small>
 
-Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos urgentes del Instituto estarán a cargo del titular de la Gerencia y, en ausencia de éste, del titular de la Unidad Administrativa que corresponda.
+###### ARTÍCULO 47°.
+
+Durante las ausencias temporales del Director General, que no excedan de treinta días, el despacho y la resolución de los asuntos del Instituto estarán a cargo de quien designe el Director General. Si la ausencia se prolonga más de treinta días, pero menos de ciento ochenta, la Junta Directiva deberá nombrar un Director General interino. Si la ausencia es mayor, el Director General interino deberá informarlo al titular del Ejecutivo Estatal, solicitando el nombramiento del nuevo Director General.
 
 ###### ARTÍCULO 48º.
 
@@ -713,12 +775,22 @@ ANEXO
 
 ORGANIGRAMA ESTRUCTURAL
 
-> <small>N. DE E. VEASE ANEXO EN LA SECCION I EL B. O. DE 5 DE JULIO DE 2007, PAGINA 23.</small>
+> <small>N. DE E. VÉASE ANEXO EN LA SECCIÓN I DEL B. O. DE 5 DE JULIO DE 2007, PÁGINA 23.</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 3 DE SEPTIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
 EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL SIGUIENTE DÍA DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 21 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización, de procedimientos y de servicios al público deberán actualizarse dentro de los sesenta días posteriores a la publicación del presente Acuerdo, quedando facultado el Director General del Instituto para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
