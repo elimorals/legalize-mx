@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2013-06-25"
+last_updated: "2013-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2013.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -1899,9 +1899,13 @@ I. Uso o destino predominante: aquél que caracteriza de una manera principal un
 
 II. Uso o destino compatible: aquél que desarrolla funciones complementarias al uso predominante dentro de una zona o corredor;
 
-III. Uso o destino condicionado: aquél que con los usos predominantes requieren de una localización especial y de cumplir con las condicionantes del proyecto que determine el Ayuntamiento atendiendo a la evaluación de compatibilidad; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2013)</small>
 
-IV. Uso de suelo incompatible: aquél que no puede coexistir bajo ningún supuesto o condición, con los usos predominantes o compatibles de la zona correspondiente.
+III. Uso o destino condicionado: aquél que requiere de una localización especial dentro de la zona o corredor y de cumplir con las condiciones y restricciones que acuerde el Ayuntamiento al resolver la evaluación de compatibilidad; y
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2013)</small>
+
+IV. Uso o destino incompatible: aquél que no puede coexistir bajo ningún supuesto o condición, con los usos o destinos predominantes o compatibles de la zona correspondiente.
 
 Las condicionantes de localización y proyecto se establecerán en los reglamentos municipales, en una tabla de usos condicionados bajo los conceptos de carácter ambiental, operatividad urbana, movilidad o riesgo.
 
@@ -5385,15 +5389,21 @@ En los reglamentos municipales se establecerán las superficies mínimas de los 
 
 Dictamen de congruencia del proyecto de diseño urbano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 406.
 
-Previamente a la aprobación de traza, el desarrollador presentará a la unidad administrativa municipal en materia de planeación, el proyecto de diseño urbano para el único efecto de que dictamine sobre la congruencia del mismo, con las disposiciones del programa municipal, así como con la estructura urbana de los centros de población, priorizando la consolidación urbana, la redensificación poblacional de las zonas urbanizadas, la ocupación de espacios vacantes, lotes baldíos y predios subutilizados dentro del centro de población, así como la continuidad urbana del mismo, de manera proporcional a las características del proyecto.
+Previamente a la aprobación de traza, la unidad administrativa municipal en materia de planeación, dictaminará la congruencia del proyecto de diseño urbano del fraccionamiento o desarrollo en condominio, con las disposiciones del programa municipal, así como con la estructura urbana de los centros de población, priorizando la consolidación urbana, la redensificación poblacional de las zonas urbanizadas, la ocupación de espacios vacantes, lotes baldíos y predios subutilizados dentro del centro de población, así como la continuidad urbana del mismo, de manera proporcional a las características del proyecto.
 
-El dictamen a que se refiere el párrafo anterior, se deberá emitir dentro de los diez días hábiles siguientes a la presentación del proyecto de diseño urbano.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2013)</small>
+
+El dictamen a que se refiere el párrafo anterior, se deberá emitir dentro de los diez días hábiles siguientes a aquél en que la unidad administrativa municipal en materia de administración sustentable del territorio, remita el proyecto de diseño urbano.
 
 Las observaciones que, en su caso, tenga la unidad administrativa municipal en materia de planeación se expondrán en el dictamen, para que sean tomadas en consideración al momento de otorgar la aprobación de traza y los permisos de urbanización o edificación.
 
-Si dentro del plazo señalado en este artículo, no se notifica el dictamen, se entenderá que no existe inconveniente para la aprobación de la traza.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2013)</small>
+
+Si dentro del plazo señalado en este artículo, no se notifica el dictamen a la unidad administrativa municipal en materia de administración sustentable del territorio, se entenderá que no existe inconveniente para la aprobación de la traza.
 
 Requisitos para obtener la aprobación de traza
 
@@ -5519,13 +5529,29 @@ IV. En los fraccionamientos y desarrollos en condominio mixtos de usos compatibl
 
 V. En los desarrollos en condominio y fraccionamientos para uso turístico, recreativo-deportivo, las áreas en que se realicen estas actividades serán consideradas como equipamiento urbano.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2013)</small>
+
 Destino de las áreas de donación
 
 ###### Artículo 417.
 
-El Ayuntamiento destinará hasta el sesenta por ciento de las áreas de donación para dotación de equipamiento urbano en la zona, con base en el dictamen que emita la unidad administrativa municipal; estas áreas no se podrán enajenar por ningún medio.
+El Ayuntamiento destinará hasta el cincuenta por ciento de las áreas de donación para dotación de equipamiento urbano en la zona, con base en el dictamen que emita la unidad administrativa municipal.
 
 El propio Ayuntamiento destinará para áreas verdes el porcentaje restante. En ningún caso se podrá realizar el cambio de uso o destino de las áreas verdes, ni se podrán enajenar, permutar o dar en comodato tales bienes.
+
+Las áreas de donación para dotación de equipamiento urbano en la zona, sólo se podrán enajenar en los siguientes supuestos y mediando la aprobación calificada del Ayuntamiento:
+
+I. Enajenación a las autoridades federales, estatales o municipales, para la ejecución de obra pública o la construcción de equipamiento urbano;
+
+II. Donación o comodato, a personas jurídico colectivas sin fines de lucro, que constituya un beneficio común.
+
+El Ayuntamiento hará pública la pretensión de donar o dar en comodato el inmueble, a los colonos del fraccionamiento o desarrollo en condominio en donde éste se ubique, con la finalidad de que puedan manifestarse por escrito, en un plazo que no excederá de quince días hábiles contados a partir de la publicación de la pretensión.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, el Ayuntamiento analizará y valorará las manifestaciones; y
+
+III. Permuta, cuando el destinatario de la enajenación sea un particular, y el Ayuntamiento, en los términos fijados por la Ley Orgánica Municipal para el Estado de Guanajuato, así lo acuerde a consecuencia de una afectación a su propiedad.
+
+Para el caso de las fracciones II y III deberá emitirse de manera previa, un dictamen por parte de la unidad administrativa municipal que señale que se encuentran satisfechas las áreas de equipamiento urbano y que el uso que se dará al inmueble es compatible con el uso de suelo y el tipo de fraccionamiento o desarrollo en condominio previamente autorizado.
 
 Entrega de las áreas verdes y equipamiento urbano
 
@@ -5779,7 +5805,9 @@ I. Donar al Municipio respectivo dentro de los límites del fraccionamiento o de
 
 II. Establecer la infraestructura para la prestación de los servicios públicos de suministro de agua potable y de drenaje, así como las redes y sistemas de alcantarillado, alumbrado público y suministro de energía eléctrica, pavimentos, banquetas, parques urbanos y jardines públicos, conforme a las especificaciones que señalen los reglamentos municipales; incluyendo las vías de enlace del fraccionamiento a la zona urbanizada más próxima del centro de población de que se trate;
 
-III. Donar al Municipio la superficie de terreno que exclusivamente se utilizará para áreas verdes y para dotación de equipamiento urbano, sin que puedan destinarse a fines distintos; en el caso de las áreas destinadas a áreas verdes, el desarrollador deberá entregarlas forestadas. Dicha superficie será deducida del área total del proyecto autorizado en los términos del Código. En el caso de desarrollos en condominio, la superficie de donación fuera del desarrollo será determinada en el reglamento municipal correspondiente, pero en ningún caso podrá ser mayor al cuatro por ciento de su superficie. Tratándose de desarrollos en condominio de tipo horizontal de uso habitacional, la superficie de donación fuera del polígono condominal será del cuatro por ciento de la superficie total del desarrollo;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2013)</small>
+
+III. Donar al Municipio la superficie de terreno que exclusivamente se utilizará para áreas verdes y para dotación de equipamiento urbano; en el caso de las áreas destinadas a áreas verdes, el desarrollador deberá entregarlas forestadas. Dicha superficie será deducida del área total del proyecto autorizado en los términos del Código. En el caso de desarrollos en condominio, la superficie de donación fuera del desarrollo será determinada en el reglamento municipal correspondiente, pero en ningún caso podrá ser mayor al cuatro por ciento de su superficie. Tratándose de desarrollos en condominio de tipo horizontal de uso habitacional, la superficie de donación fuera del polígono condominal será del cuatro por ciento de la superficie total del desarrollo;
 
 IV. Enterar el importe de los derechos derivados de los trámites y autorizaciones que regula el Código;
 
@@ -5823,7 +5851,9 @@ Plazos para la emisión de resoluciones
 
 Las autoridades municipales darán trámite y emitirán sus resoluciones dentro de los siguientes plazos, contados a partir de la presentación de la solicitud, para los siguientes casos:
 
-I. Diez días hábiles para la aprobación de traza;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2013)</small>
+
+I. Treinta días hábiles para la aprobación de traza;
 
 II. Cinco días hábiles para la expedición de los permisos de urbanización o de edificación, así como del permiso de venta de fraccionamientos y desarrollos en condominio; y
 
@@ -7248,5 +7278,9 @@ ROMÁN CIFUENTES NEGRETE
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE JUNIO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE OCTUBRE DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
