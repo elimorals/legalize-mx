@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2013-06-29"
+last_updated: "2013-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -295,9 +295,13 @@ XXV.- Sujetarse a las bases previstas en el artículo 165 bis de la Constitució
 
 XXVI.- Respetar la autonomía y los derechos de los pueblos, las comunidades y las personas indígenas, de conformidad con lo establecido por la Ley de la materia.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XXVII.- Las demás que le impongan otras leyes y reglamentos.
+XXVII.- Abstenerse de realizar los actos necesarios tendientes a constituir el Tribunal de Arbitraje Municipal en los términos que dispone el artículo 29, fracción XXXVIII, y 78, ambos del Código Municipal para el Estado.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXVIII.- Las demás que le impongan otras leyes y reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -788,3 +792,9 @@ A partir de la entrada en vigor del presente ordenamiento, el Poder Ejecutivo de
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con cuatrocientos ochenta días hábiles para modificar las reglas de operación de los diversos programas y proyectos a fin de incluir los lineamientos respectivos al respeto del derecho a la autonomía y el consentimiento libre, previo e informado de los pueblos y las comunidades indígenas.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
