@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-juegos-y-sorteos-40717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-17"
-last_updated: "2012-10-19"
+last_updated: "2013-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40717&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-09-13"
 
 REGLAMENTO DE LA LEY FEDERAL DE JUEGOS Y SORTEOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de septiembre de 2004.
 
@@ -47,15 +47,15 @@ Corresponde a la Secretaría de Gobernación la interpretación administrativa y
 
 Las actividades relativas a juegos con apuestas y sorteos que no estén expresamente contempladas en la Ley y el presente Reglamento, serán resueltas, en cada caso, por la Secretaría de Gobernación conforme a lo dispuesto por dichos ordenamientos y demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
-La Dirección General de Juegos y Sorteos tiene a su cargo la atención, trámite y despacho de los asuntos relacionados con la supervisión y vigilancia del cumplimiento de la Ley y el Reglamento; la expedición de permisos, la supervisión y vigilancia del cumplimiento de los términos y condiciones consignados en éstos; el finiquito de los permisos para sorteos; el desahogo de las quejas, reclamaciones y procedimientos administrativos provenientes del desarrollo y resultado de juegos con apuestas y sorteos; imponer sanciones por infracciones a la Ley y el presente Reglamento, así como las que le confieran las demás disposiciones aplicables.
+La Dirección General de Juegos y Sorteos es competente para autorizar, controlar, vigilar, tramitar y resolver los asuntos relacionados con el cumplimiento de la Ley y el presente Reglamento, incluyendo todos los procedimientos administrativos y sancionatorios que deriven de juegos con apuestas y sorteos. Asimismo, le corresponde la expedición, modificación y finiquito de permisos de juegos con apuestas y sorteos, así como la supervisión y vigilancia del cumplimiento de los términos y condiciones consignados en los mismos.
 
 La Unidad de Gobierno tiene a su cargo la atención y despacho de los asuntos en los que sea necesaria la coordinación y colaboración de la Secretaría de Gobernación con otras autoridades en materia de juegos con apuestas y sorteos, así como el combate a actividades prohibidas por la Ley.
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
-La Unidad de Asuntos Jurídicos, en el ámbito de su competencia, coadyuvará en coordinación con la Unidad de Gobierno y la Dirección General de Juegos y Sorteos, en el trámite y despacho de los asuntos relacionados con la imposición de las sanciones administrativas que establece la Ley y el presente Reglamento.
+Para la imposición de sanciones administrativas previstas en la Ley y en el presente Reglamento, la Dirección General de Juegos y Sorteos podrá solicitar el apoyo de la Unidad General de Asuntos Jurídicos o cualquier otro órgano de la Secretaría.
 
 Las autoridades federales, cooperarán en sus respectivos ámbitos de competencia para hacer cumplir las determinaciones que dicten las autoridades de la Secretaría de Gobernación de conformidad con las leyes y este Reglamento, cuando para ello fueren requeridas.
 
@@ -95,17 +95,7 @@ XI. Juego con apuesta: Juegos de todo orden en que se apuesta, previstos en la L
 
 XII. Ley: Ley Federal de Juegos y Sorteos;
 
-> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
-
-XII. BIS. Máquina tragamonedas: El artefacto o dispositivo de cualquier naturaleza, a través del cual el usuario, sujeto al azar, a la destreza o a una combinación de ambas, realiza una apuesta, mediante la inserción de un billete, moneda, ficha o cualquier dispositivo electrónico de pago u objeto similar, con la finalidad de obtener un premio.
-
-Para efectos de este Reglamento no se consideran como máquinas tragamonedas las siguientes:
-
-a) Las máquinas expendedoras, entendiendo por tales las que se limitan a efectuar mecánicamente transacciones o venta de productos o servicios a cambio del precio introducido, siempre que el valor del dinero depositado corresponda al valor de mercado de los productos que la máquina entregue y su mecanismo no se preste a admitir cualquier tipo de apuesta o juego de azar;
-
-b) Las máquinas tocadiscos, videodiscos o fotográficas, las máquinas o aparatos de competencia pura o deporte entre dos o más jugadores, las de mero pasatiempo o recreo y las máquinas o aparatos recreativos de uso infantil; todas ellas a condición de que sus mecanismos no se presten a admitir cualquier tipo de apuesta o juego de azar, o permitan el pago de premios en efectivo, especie o signos que puedan canjearse por ellos, salvo los que sólo consistan en volver a jugar gratuitamente o que otorguen premios o cupones cuyo valor no sea superior al costo de participación, y
-
-c) Las terminales de apuestas o las máquinas que permiten jugar y apostar a las competencias hípicas, deportivas o al sorteo de números electrónicamente ni, en general, las que se utilicen para desarrollar los juegos y apuestas autorizados. Estas terminales deberán estar claramente identificadas como tales en los establecimientos autorizados;
+XII. BIS. (DEROGADA, D.O.F. 23 DE OCTUBRE DE 2013)
 
 XIII. Operador: Sociedad mercantil con la cual el permisionario puede contratar o asociarse para explotar su permiso, en términos de lo dispuesto en este Reglamento;
 
@@ -137,9 +127,15 @@ XXVI. Sorteo instantáneo: Modalidad de sorteo en la que se ofertan boletos con 
 
 XXVII. Sorteo sin venta de boletos: Modalidad de sorteo en la que el carácter de participante se obtiene a título gratuito por el solo hecho de adquirir un bien, contratar un servicio o incluso por recibir sin contraprestación un boleto o comprobante de participación;
 
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+XXVII. BIS. Sorteo de números o símbolos a través de máquinas: Actividad en la que el participante, a través de un artefacto o dispositivo de cualquier naturaleza, sujeto al azar, realiza una apuesta, mediante la inserción de un billete, moneda, ficha o cualquier dispositivo electrónico de pago u objeto similar, con la finalidad de obtener un premio;
+
 XXVIII. Trampa: Ardid, estratagema, maquinación o truco con el que una o varias personas engañan, inducen o pretenden engañar a los participantes, al permisionario o al público en general, en el desarrollo o resultado de un juego con apuesta o sorteo;
 
-XXIX. Unidad de Gobierno: Unidad administrativa de la Secretaría de Gobernación, y
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+XXIX. Unidad de Gobierno: Unidad administrativa de la Subsecretaría de Gobierno de la Secretaría de Gobernación, y
 
 XXX. Valor de la emisión: Monto total cuantificado en dinero, del valor nominativo de los comprobantes de participación en un sorteo.
 
@@ -177,25 +173,9 @@ Sólo podrán realizarse, operarse u organizarse juegos con apuestas y sorteos p
 
 Las participaciones a que se refiere el artículo 5 de la Ley serán determinadas por la Secretaría al momento de la expedición de los permisos, de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 9.
-
-Quedan prohibidas las máquinas tragamonedas en cualquiera de sus modalidades, salvo las que cuenten con el permiso de la Secretaría expedido expresamente para tales efectos, en los términos de la Ley y este Reglamento.
-
-Para obtener el permiso a que se refiere el párrafo anterior, el solicitante deberá cumplir con los requisitos siguientes:
-
-I. Ser permisionario u operador autorizado por la Secretaría, bajo los supuestos previstos en la fracción I del artículo 20 de este Reglamento, y
-
-II. Contar con la autorización de apertura de la Secretaría, para los establecimientos en los que se pretenda utilizar dichas máquinas.
-
-La vigencia del permiso para la utilización de las máquinas tragamonedas a que se refiere el presente artículo estará, a su vez, sujeta a la vigencia del permiso a que se refiere la fracción I del artículo 20 de este Reglamento.
-
-La Secretaría otorgará el permiso correspondiente en un plazo máximo de tres meses, contados a partir de la recepción de la solicitud.
-
-La solicitud se presentará en los términos establecidos en la fracción I del artículo 21 de este Reglamento.
-
-###### ARTÍCULO 10.
 
 La publicidad y propaganda de los juegos con apuestas y sorteos autorizados de conformidad con la Ley y este Reglamento, así como la de los establecimientos en los que se efectúen, se realizará en los términos de las disposiciones aplicables.
 
@@ -207,25 +187,41 @@ I. Los establecimientos que cuenten con permiso otorgado por la Secretaría no p
 
 II. La propaganda y publicidad deberá expresarse en forma clara y precisa a efecto de que no induzca al público a error, engaño o confusión de los servicios ofrecidos;
 
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
-
 III. La publicidad que se realice de los juegos con apuestas y sorteos deberá consignar el número del permiso correspondiente;
-
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
 
 IV. La publicidad deberá incluir mensajes que indiquen que los juegos con apuestas están prohibidos para menores de edad, y
 
-> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
-
 V. La publicidad y propaganda deberá incluir mensajes que inviten a las personas a jugar de manera responsable y con el principal propósito de entretenimiento, diversión y esparcimiento.
 
-###### ARTÍCULO 11.
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 10.
 
 Las operaciones de juegos con apuestas y sorteos regulados por el presente Reglamento, deberán efectuarse en moneda nacional.
 
-###### ARTÍCULO 12.
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 11.
 
 Los permisionarios no podrán otorgar crédito, directa o indirectamente, a los apostadores en juegos con apuestas o participantes de sorteos en el desarrollo de las actividades emanadas del permiso.
+
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 12.
+
+Quedan prohibidas las máquinas tragamonedas en cualquiera de sus modalidades.
+
+Se entiende por máquina tragamonedas todo dispositivo, a través del cual el usuario, sujeto a la destreza, realiza una apuesta, mediante la inserción de dinero, ficha, dispositivo electrónico o cualquier objeto de pago, con la finalidad de obtener un premio no determinado de antemano.
+
+> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS.- Para efectos de este Reglamento no se consideran máquinas tragamonedas las siguientes:
+
+I. Las máquinas expendedoras que permiten la entrega de bienes o servicios a cambio de un precio que corresponda al valor de mercado de los bienes o servicios que la máquina entregue;
+
+II. Las máquinas tocadiscos, videodiscos o fotográficas, las máquinas o aparatos de competencia pura o deporte, las de mero pasatiempo o recreo y las máquinas o aparatos recreativos de uso infantil; todas ellas a condición de que sus mecanismos no permitan algún tipo de apuesta o juego de azar, o permitan el pago de premios en efectivo, especie o signos que puedan canjearse por ellos, salvo los que sólo consistan en volver a jugar gratuitamente o que otorguen premios o cupones, y
+
+III. Las terminales de apuestas o las máquinas que permiten jugar o apostar a las competencias hípicas o deportivas. Estas terminales o máquinas deberán estar claramente identificadas como tales en los establecimientos autorizados y contar con la autorización de la Secretaría.
 
 ###### ARTÍCULO 13.
 
@@ -245,9 +241,9 @@ I. Fungir como órgano de consulta de la Secretaría respecto del ejercicio de l
 
 II. Recomendar las medidas que estime convenientes para el buen funcionamiento de la Dirección, así como las mejoras regulatorias a los procesos de operación e innovación de servicios, en particular por lo que hace al establecimiento de plazos y al cumplimiento de los requisitos señalados por el presente Reglamento para la realización de los trámites respectivos;
 
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
-III. Emitir opinión a la Dirección respecto de los asuntos a que se refiere el artículo 39 BIS de este Reglamento;
+III. Emitir, a solicitud de la Dirección, una opinión de carácter no vinculante respecto de las cuestiones relativas al otorgamiento, modificación, renovación, ampliación o finiquito de permisos para la operación de centros de apuestas remotas y salas de sorteos de números y símbolos, así como otras cuestiones relacionadas a los mismos;
 
 IV. Realizar los estudios, investigaciones y análisis que estime necesarios sobre la materia de juegos con apuestas y sorteos;
 
@@ -267,7 +263,9 @@ I. El Subsecretario de Gobierno, quien lo presidirá;
 
 II. El Titular de la Unidad de Gobierno, quien suplirá al presidente en caso de ausencia. En este supuesto, el Subsecretario designará al suplente del Titular de la Unidad de Gobierno, y
 
-III. Un miembro del Comité Jurídico de la Secretaría, designado por el Subsecretario de Asuntos Jurídicos y Derechos Humanos.
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+III. El Titular de la Unidad General de Asuntos Jurídicos o el suplente que designe.
 
 B. Invitados permanentes:
 
@@ -327,7 +325,9 @@ La Dirección mantendrá debidamente actualizada la Base de Datos y señalará c
 
 La Secretaría podrá otorgar permisos para celebrar los juegos con apuestas y sorteos a que se refiere la Ley y el presente Reglamento a los solicitantes conforme a lo siguiente:
 
-I. Para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números, sólo a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+I. Para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, sólo a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos;
 
 II. Para la apertura y operación del cruce de apuestas en ferias, a personas morales mexicanas;
 
@@ -487,15 +487,19 @@ V. Señalar la estructura y el monto de premios, con la descripción de cada uno
 
 La Secretaría podrá verificar la veracidad de la información, documentación y demás datos proporcionados por el solicitante y, para tal efecto, hasta antes de emitir la resolución correspondiente, podrá requerir a éste que precise aquella información que resulte necesaria.
 
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-La Secretaría otorgará los permisos una vez que haya valorado los requisitos correspondientes que establece este Reglamento. En el caso de permisos para la instalación de centros de apuestas remotas y salas de sorteos de números, así como para hipódromos, galgódromos y frontones, deberá tomar en consideración la opinión del Consejo Consultivo.
+La Secretaría otorgará los permisos una vez que haya valorado los requisitos correspondientes que establece este Reglamento. En el caso de permisos para la instalación de centros de apuestas remotas y salas de sorteos de números o símbolos, así como para hipódromos, galgódromos y frontones, podrá tomar en consideración la opinión del Consejo Consultivo.
 
-La Secretaría podrá otorgar permiso para la instalación de centros de apuestas remotas y salas de sorteos de números, de manera complementaria, a permisionarios de hipódromos, galgódromos o frontones, siempre que cualquiera de estas últimas sea su actividad preponderante, estén al corriente en el cumplimiento de sus obligaciones y se cumpla con los requisitos que establecen la Ley y este Reglamento.
+La Secretaría podrá otorgar permiso para la instalación de centros de apuestas remotas y salas de sorteos de números o símbolos, de manera complementaria, a permisionarios de hipódromos, galgódromos o frontones, siempre que cualquiera de estas últimas sea su actividad preponderante, estén al corriente en el cumplimiento de sus obligaciones y se cumpla con los requisitos que establecen la Ley y este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 29.
 
-Los permisionarios para la organización de juegos con cruce de apuestas en hipódromos, galgódromos, frontones, así como para la operación de centros de apuestas remotas y salas de sorteos de números, deberán cumplir las siguientes obligaciones:
+Los permisionarios para la organización de juegos con cruce de apuestas en hipódromos, galgódromos, frontones, así como para la operación de centros de apuestas remotas y salas de sorteos de números o símbolos, deberán cumplir las siguientes obligaciones:
 
 I. Obtener autorización de la Secretaría para efectuar cambios de ubicación de los establecimientos donde se celebren las actividades autorizadas en el permiso otorgado, así como informar a la Secretaría del cambio de domicilio social del permisionario;
 
@@ -506,6 +510,10 @@ III. Entregar a la Secretaría anualmente, dentro de los primeros 30 días hábi
 IV. Denunciar ante las autoridades competentes y notificar a la Secretaría cualquier conducta o práctica de los usuarios que pueda considerarse probablemente constitutiva de delitos relacionados con la delincuencia organizada o de operaciones con recursos de procedencia ilícita;
 
 V. Implementar e informar a la Secretaría acerca de las medidas adecuadas para garantizar la seguridad de los participantes y espectadores;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+V BIS. Verificar que las personas que ingresen a las áreas de juegos con apuestas de los establecimientos, no se ubiquen en los supuestos establecidos en el artículo 5 de este Reglamento;
 
 VI. Entregar mensualmente a la Secretaría un informe de los ingresos y del pago de las participaciones correspondientes al erario federal. En reporte por separado, en el caso de los hipódromos, galgódromos o frontones, deberá de informarse sobre los espectáculos en vivo que se hayan celebrado en las instalaciones autorizadas y las actividades de fomento realizadas;
 
@@ -529,7 +537,9 @@ XIV. Las demás que establezca la Ley y este Reglamento.
 
 Las disposiciones a que se refiere este artículo deberán reproducirse en los estatutos sociales de las sociedades mercantiles permisionarias, así como en los convenios o contratos que celebren por este motivo los permisionarios y operadores, y en el permiso respectivo.
 
-Los permisionarios serán responsables de que sus operadores cumplan con lo dispuesto en las fracciones II, IV, IX, XI y XII del presente artículo.
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+Los permisionarios serán responsables de que sus operadores cumplan con lo dispuesto en las fracciones II, IV, V Bis, IX, XI y XII del presente artículo.
 
 ###### ARTÍCULO 30.
 
@@ -541,9 +551,17 @@ II. La información y documentación a que se refieren las fracciones I, II, III
 
 III. Declaración del operador en el sentido de que se obliga con la Secretaría a cumplir con lo establecido en la Ley y el Reglamento, así como a:
 
-a) No ceder los derechos del convenio o contrato a terceros, y
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
-b) No cambiar su composición accionaria en el primero y subsecuentes niveles hasta el último tenedor o beneficiario, a menos de que informe a la Secretaría en los términos de la fracción VII del artículo 29 de este Reglamento.
+a) No ceder los derechos del convenio o contrato a terceros;
+
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+b) No cambiar su composición accionaria en el primero y subsecuentes niveles hasta el último tenedor o beneficiario, a menos de que informe a la Secretaría en los términos de la fracción VII del artículo 29 de este Reglamento, y
+
+> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+c) No celebrar ningún convenio que permita a un tercero la operación del establecimiento.
 
 La Secretaría no autorizará el convenio o instrumento a que se refiere el presente artículo, cuando por virtud del mismo el operador asuma el control corporativo o administrativo de la sociedad permisionaria o se constituya en beneficiario último de ésta.
 
@@ -581,7 +599,9 @@ IX. Los demás elementos contemplados en las leyes aplicables, este Reglamento y
 
 La vigencia de los permisos que otorgue la Secretaría para los juegos con apuestas y sorteos a que se refieren la Ley y este Reglamento se ajustará a lo siguiente:
 
-I. Los permisos para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, centros de apuestas remotas y salas de sorteos de números tendrán una vigencia máxima de 25 años;
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+I. Los permisos para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, centros de apuestas remotas y salas de sorteos de números o símbolos tendrán una vigencia mínima de un año y máxima de 25 años;
 
 II. Los permisos para la apertura y operación del cruce de apuestas en ferias regionales, en peleas de gallos y en carreras de caballos en escenarios temporales, tendrán una vigencia máxima de 28 días o el equivalente a la duración de la temporada autorizada;
 
@@ -607,9 +627,11 @@ IV. Concurso mercantil, disolución, liquidación o extinción del permisionario
 
 El permisionario que pretenda cancelar o de cualquier manera suspender el juego con apuestas o sorteo de que se trate, deberá obtener autorización expresa de la Secretaría, la que se otorgará siempre y cuando no se afecten derechos de terceros y sin perjuicio del cumplimiento de las obligaciones y responsabilidades que se hayan generado como consecuencia de la cancelación o suspensión.
 
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 36.
 
-No podrán participar en sorteos las personas que sean los organizadores o empleados de los permisionarios, que se encuentren involucrados en la producción de los boletos o en la celebración del evento en el que se determinen los boletos premiados.
+No podrán participar en sorteos las personas que sean los organizadores o empleados de los permisionarios u operadores, que se encuentren involucrados en la producción de los boletos o en la celebración del evento en el que se determinen los boletos premiados.
 
 ###### ARTÍCULO 37.
 
@@ -637,9 +659,7 @@ Cuando un sorteo sea organizado por una institución contemplada en las fraccion
 
 El permisionario tendrá la obligación de contar en el mismo lugar en donde se desarrollen los eventos, con la documentación vigente que demuestre el permiso por parte de la Secretaría, misma que deberá ser exhibida al servidor público debidamente autorizado que lo solicite.
 
-> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2012)</small>
-
-ARTÍCULO 39 BIS.- La Dirección, antes de resolver respecto del otorgamiento, modificación, renovación o ampliación de permisos para la operación de centros de apuestas remotas y salas de sorteos de números relacionados, someterá el asunto a opinión del Consejo Consultivo, la cual no será vinculante. Lo anterior, sin perjuicio de los asuntos que el Director, dada la importancia de los mismos, decida someter a consideración del Consejo Consultivo.
+ARTÍCULO 39 BIS.- (DEROGADO, D.O.F. 23 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO II. DEL FINIQUITO DE LOS PERMISOS EN SORTEOS
 
@@ -889,9 +909,11 @@ En los palenques podrá organizarse el cruce de apuestas en juegos de números y
 
 Se entiende por centro de apuestas remotas, también conocidos como libros foráneos, el establecimiento autorizado por la Secretaría para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio, así como para la práctica del sorteo de números señalado en la fracción IV del artículo 124 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 77.
 
-Los centros de apuestas remotas podrán instalarse en la misma ubicación en que se localicen las salas de sorteos de números.
+Los centros de apuestas remotas podrán instalarse en la misma ubicación en que se localicen las salas de sorteos de números o símbolos.
 
 ###### ARTÍCULO 78.
 
@@ -993,9 +1015,17 @@ III. Sorteos instantáneos;
 
 IV. Sorteos en sistemas de comercialización;
 
-V. Sorteos de símbolos o números, y
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
 
-VI. Sorteos transmitidos por medios de comunicación masiva.
+V. Sorteos de símbolos o números;
+
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+VI. Sorteos de números o símbolos a través de máquinas, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+VII. Sorteos transmitidos por medios de comunicación masiva.
 
 ###### ARTÍCULO 92.
 
@@ -1327,11 +1357,33 @@ IV. No realizar un número mayor a 5 sorteos al final del programa autorizado de
 
 V. Designar a un responsable de la correcta conducción y transparencia del sorteo, cuyo nombre deberá de ser del conocimiento del público.
 
-### CAPÍTULO I. DE LOS INSPECTORES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO VIII. DE LOS SORTEOS DE NÚMEROS O SÍMBOLOS A TRAVÉS DE MÁQUINAS
+
+> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 137 BIS. La Secretaría podrá autorizar la realización de sorteos de números o símbolos a través de máquinas cuando se cumplan los siguientes requisitos:
+
+I. Ser permisionario en términos de lo establecido en la fracción I del artículo 20 de este Reglamento;
+
+II. Acreditar que las máquinas correspondientes han sido fabricadas en territorio nacional o legalmente importadas;
+
+III. Presentar la relación de máquinas que se pretenden instalar en cada establecimiento con las especificaciones que determine la Secretaría, y
+
+IV. Estar al corriente en el cumplimiento de las obligaciones que derivan de la Ley y del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 137 TER. Los permisionarios que obtengan la autorización a que se refiere el presente Capítulo podrán realizar sorteos durante la vigencia de su permiso.
+
+> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 137 QUÁTER. Los permisionarios deberán mantener actualizada, de forma permanente, la relación a que se refiere la fracción III del artículo 137 Bis del presente Reglamento, la cual deberán remitir a la Dirección de forma trimestral.
 
 ## TÍTULO QUINTO. DEL CONTROL Y VIGILANCIA
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LOS INSPECTORES
 
 ###### ARTÍCULO 138.
 
@@ -1487,6 +1539,8 @@ Los inspectores, en el ejercicio de sus funciones, se sujetarán, en lo conducen
 
 La Secretaría ejercerá la vigilancia de los eventos que se celebren bajo el patrocinio de las entidades paraestatales destinadas a la asistencia pública, mediante la designación de los inspectores correspondientes, a excepción de la Lotería Nacional para la Asistencia Pública.
 
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+
 ###### ARTÍCULO 147.
 
 De conformidad con el artículo 17 de la Ley, las violaciones a la misma, al presente Reglamento o a los permisos que expida la Secretaría, serán sancionadas con:
@@ -1582,3 +1636,9 @@ SEGUNDO.- Los permisos vigentes otorgados con anterioridad a la entrada en vigor
 TERCERO.- El Consejo Consultivo de Juegos y Sorteos a que se refiere este Reglamento deberá sesionar dentro de los 30 días naturales siguientes a la entrada en vigor de este ordenamiento para modificar las disposiciones relativas a su organización y funcionamiento, en atención a lo dispuesto por los artículos 15 y 39 BIS de este Reglamento.
 
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones aplicables.
+
+D.O.F. 23 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones aplicables.
