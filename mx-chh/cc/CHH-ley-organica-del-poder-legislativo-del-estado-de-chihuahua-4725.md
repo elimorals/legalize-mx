@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2013-06-19"
+last_updated: "2013-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -69,7 +69,7 @@ Es competencia exclusiva de los diputados al Congreso del Estado la presentació
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2003)</small>
 
-###### Art. 5 Bis.
+###### Art. 5o Bis.
 
 Para los efectos de esta Ley, en los términos sólo se computarán los días hábiles, con excepción de aquellos a que se refieren los artículos 11, 13 y 26, en los que se computarán los días naturales.
 
@@ -201,9 +201,9 @@ IV.- Las intervenciones consistirán en comentarios generales en torno al docume
 
 V.- Quedan prohibidas las imputaciones irrespetuosas y en forma de diálogo.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-Una vez recibido el informe, el Presidente lo turnará a una Comisión Especial para su análisis a fin de que dentro del término de treinta días naturales emita una opinión al Pleno. Asimismo, está Comisión Especial tendrá a su cargo el análisis del Plan Estatal de Desarrollo, así como el seguimiento del mismo en forma semestral presentando sus conclusiones al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar, a petición de la Comisión, que se remitan a los presentadores del informe las observaciones que estime pertinentes las que, en ningún caso, serán vinculantes. Dicha Comisión deberá estar conformada a más tardar en sesión posterior a la fecha en (sic) sea recibido el informe por la Presidencia.
+Una vez recibido el informe, el Presidente lo turnará a una Comisión Especial para su análisis a fin de que dentro del término de cuarenta y cinco días naturales emita una opinión al Pleno. Asimismo, esta Comisión Especial tendrá a su cargo el análisis del Plan Estatal de Desarrollo, así como el seguimiento del mismo en forma anual presentando sus conclusiones al Pleno, de conformidad con el informe de gobierno respectivo. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local, con excepción del término, que será de 30 días naturales. En ambos casos el Pleno podrá acordar, a petición de la Comisión, que se remitan a los presentadores del informe las observaciones que estime pertinentes las que, en ningún caso, serán vinculantes. Dicha Comisión deberá estar conformada a más tardar en sesión posterior a la fecha en que sea recibido el informe por la Presidencia.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
 
@@ -405,7 +405,7 @@ Antes de clausurado el Primer Período Ordinario de Sesiones del Primer Año de 
 
 ### CAPITULO II. DEL PRESIDENTE
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+((F. DE E., P.O. 22 DE JULIO DE 1995)
 
 ###### Art. 30.
 
@@ -2354,3 +2354,13 @@ P.O. 19 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
