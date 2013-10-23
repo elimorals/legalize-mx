@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-19760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-07"
-last_updated: "2011-06-03"
+last_updated: "2013-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2011 Y 23 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de febrero de 2001.
 
@@ -45,7 +45,7 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD
 
 La Secretaría de Salud, como dependencia del Poder Ejecutivo del Estado tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública y las demás disposiciones jurídicas vigentes.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2005, CAMBIA LA ESTRUCTURA DE LAS UNIDADES ADMINISTRATIVAS Y SERVIDORES PUBLICOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2005, CAMBIA LA ESTRUCTURA DE LAS UNIDADES ADMINISTRATIVAS Y SERVIDORES PUBLICOS.</small>
 
 ###### Artículo 2.
 
@@ -243,7 +243,7 @@ Se adscriben a la Subsecretaría de Coordinación Sectorial las siguientes Unida
 
 DIRECCIÓN GENERAL DE COOORDINACIÓN Y SUPERVISIÓN;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -305,21 +305,21 @@ XXII.- Resolver los recursos administrativos que se interpongan en asuntos de su
 
 XXIII.- Conceder audiencias al público y recibir en acuerdo a cualquier servidor público subalterno, conforme a los manuales administrativos que expida el Titular de la Dependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 12.
 
 El Director General de Coordinación Administrativa tendrá las siguientes atribuciones específicas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 I.- Integrar el anteproyecto de presupuesto anual de las Unidades Administrativas de la Secretaría, someterlo a consideración del Secretario y autorizar y vigilar su ejercicio de conformidad con las normas y lineamientos que establezcan la Secretaría de Finanzas y Planeación y la Oficialía Mayor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -333,73 +333,73 @@ V.- Coordinar, de conformidad con las normas y lineamientos que determine la Ofi
 
 VI.- Elaborar, conforme a las normas que establezca la Oficialía Mayor las propuestas de reorganización de la dependencia y proponerlas al Secretario para su gestión, y;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA], P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 VII.- Supervisar la correcta elaboración y aplicación de los movimientos del personal e incidencias de acuerdo a los lineamientos que establezca la Oficialía Mayor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 VIII.- Mantener actualizada la estructura orgánica y la plantilla del personal de la Secretaría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 IX.- Elaborar y dar seguimiento al Programa Anual de Mantenimiento Vehicular;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 X.- Gestionar la autorización de fondos revolventes de las Unidades Administrativas adscritas a la Secretaría, y vigilar su ejercicio de conformidad con los montos y lineamientos que determine la Secretaría de Finanzas y Planeación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XI.- Informar a las Unidades Administrativas del Programa de Capacitación y atenderlas (sic) necesidades que al respecto requieran conforme a dicho Programa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XII.- Revisar el ejercicio del gasto de las Unidades Administrativas de la Secretaría de conformidad a los reportes que envía la Secretaría de Finanzas y Planeación y a los registros internos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XIII.- Informar al Secretario y a las unidades administrativas de la Secretaría del avance programático del presupuesto autorizado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XIV.- Enviar a los organismos públicos descentralizados, adscritos a la Secretaría, los reportes que remite la Secretaría de Finanzas y Planeación y solicitarles el resultado de la conciliación entre dichos reportes y sus registros internos, a fin de informar al Secretario del avance programático del presupuesto autorizado a los Organismos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XV.- Coordinarse con las Unidades Administrativas y Organismos en la solicitud o envío de información que requieran la Oficialía Mayor y la Secretaría de Finanzas y Planeación, a través de esta Dirección;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XVI.- Coordinarse con la Dirección General de Coordinación y Supervisión para la elaboración del Programa Operativo Anual de la Secretaría, en lo referente al aspecto presupuestal e informar a dicha Dirección del avance del presupuesto para el seguimiento de los programas operativos de cada unidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XVII.- Acordar con el Secretario los asuntos encomendados a la Dirección, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -413,7 +413,7 @@ I.- Asesorar y auxiliar a las unidades administrativas de la Secretaría en la e
 
 II.- Integrar los informes de evaluación general de los planes y programas del sector salud, así como coordinar la participación de la Secretaría en el informe anual de gobierno y los demás reportes de carácter global que determine el Titular de la Dependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -431,7 +431,7 @@ VIII.- (DEROGADA, P.O. 18 DE MAYO DE 2005)
 
 IX.- Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -487,15 +487,15 @@ Las ausencias temporales de los Directores Generales se cubrirán por el Subdire
 
 ### CAPÍTULO NOVENO. DE LA COORDINACIÓN DE ASESORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 21.
 
 La Dirección General Normativa tendrá las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -503,7 +503,7 @@ I.- Revisar los anteproyectos de Leyes, Reglamentos, Decretos y Acuerdos relacio
 
 II.- Compilar, estudiar, divulgar y aplicar, en el ámbito de su competencia las leyes, reglamentos, decretos, acuerdos, resoluciones, circulares, y ordenes de carácter federal y estatal vinculados con la Secretaria de Salud del Estado y con las dependencias relacionadas con la salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -511,7 +511,7 @@ III.- Recibir la información relativa a juicios, procesos y procedimientos de l
 
 IV.- Revisar las resoluciones de los recursos que interpongan en contra de los actos de la Secretaría, con motivo de la aplicación de las Leyes General y Estatal de Salud y sus disposiciones reglamentarias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -529,7 +529,7 @@ VIII.- Las demás atribuciones que expresamente le confieran los ordenamientos l
 
 (DEROGADO, P.O. 18 DE MAYO DE 2005)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 (REUBICADO [N. DE E. ANTES ARTICULO 22], P.O. 8 DE DICIEMBRE DE 2004)
 
@@ -571,7 +571,7 @@ JESÚS LIMONCHI GÓMEZ
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE DICIEMBRE DE 2004.
 
@@ -604,3 +604,11 @@ QUINTO.- Cuando alguna atribución de las unidades administrativas establecidas 
 SEXTO.- Los Manuales Administrativos de la Secretaria deberán adecuarse al presente Reglamento en un plazo no mayor a 90 días naturales contados a partir de su entrada en vigor y en tanto se expiden dichos manuales continuarán vigentes los anteriores.
 
 SÉPTIMO.- Cuando una ley, reglamento, decreto. acuerdo o cualquier disposición de carácter general haga referencia a la Dirección General Normativa, se entenderá que hace referencia a la Dirección General Jurídica, así mismo cuando se refiera a la Dirección General de Innovación y Calidad en Salud, se entenderá que como la Dirección General de Vinculación y Participación Social.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Salud, publicado en el Periódico Oficial "Tierra y Libertad", número 4102, de fecha siete de febrero de 2001 y se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Reglamento.
+
+TERCERA. La Secretaría de Salud tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Reglamento Interior, para emitir o actualizar los Manuales de Organización, y de Políticas y Procedimientos; y en tanto se realiza dicha modificación, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. La persona titular de la Secretaría de Salud del Poder Ejecutivo Estatal resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación del presente Reglamento.
