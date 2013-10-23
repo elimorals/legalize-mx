@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2013-09-28"
+last_updated: "2013-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -62,6 +62,10 @@ DE LOS DERECHOS FUNDAMENTALES.
 ###### Art. 4o.
 
 En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+Toda persona tiene derecho a la identidad. El Estado garantizará que el registro sea universal, oportuno y gratuito de acuerdo con lo establecido en la ley.
 
 Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud.
 
@@ -1027,7 +1031,9 @@ G.- Para que de conformidad con la ley de la materia, celebre contratos sobre pr
 
 X.- Fijar y modificar la división territorial, política, administrativa y judicial del Estado.
 
-XI.- Resolver las cuestiones de límites entre los Municipios del Estado.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XI.- Resolver las cuestiones de límites entre los municipios del Estado, en los términos de la Ley.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1781,9 +1787,9 @@ En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta 
 
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, una vez iniciado el segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
+El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, a más tardar el día treinta de abril, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Así mismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2033,19 +2039,21 @@ XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Co
 
 XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2013)</small>
+XVI. Resolver las cuestiones de límites entre los municipios del Estado, en los términos de la Ley.
 
-XVI.- Proponer, al Congreso del Estado, la creación de organismos descentralizados del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+XVII. Proponer al Congreso del Estado, la creación de organismos descentralizados del Poder Judicial.
 
-XVII.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+XVIII. Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución.
 
-XVIII.- Ejercer las demás atribuciones que le señalan las leyes.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XIX. Ejercer las demás atribuciones que le señalan las leyes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4068,3 +4076,39 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 1275/2013 II P.O. POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 1288/2013 P.O. POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 4°. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el artículo 202 de la Constitución local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 1299/2013 II P.O. POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 64 Y LA FRACCIÓN XVI DEL ARTÍCULO 109, RECORRIENDO SU CONTENIDO ACTUAL Y SUBSECUENTES; Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 109, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del H. Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el H. Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma constitucional contenida en el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
