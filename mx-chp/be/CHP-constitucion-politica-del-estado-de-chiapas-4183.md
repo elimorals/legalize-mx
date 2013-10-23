@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2013-08-16"
+last_updated: "2013-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -253,7 +253,13 @@ IV. Desempeñar los cargos concejiles del municipio donde residan, las funciones
 
 Los ciudadanos chiapanecos tienen derecho a:
 
-I. Ser votados para los cargos de elección popular, conforme a los requisitos que establece esta Constitución y las leyes en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Poder ser votado para todos los cargos de elección popular. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine esta Constitución y las leyes en la materia.
+
+Los aspirantes a candidatos independientes que hayan participado en un proceso de selección y no hayan resultado ganadores, no podrán ser postulados por un partido político o coalición, de conformidad con la ley de la materia aplicable.
 
 II. Votar en las elecciones correspondientes.
 
@@ -343,7 +349,11 @@ Cualquier violación a esta disposición, será sancionada en términos de esta 
 
 Apartado A.- De los Ciudadanos Chiapanecos
 
-Los (sic) ciudadanía participará en la vigilancia, preparación y desarrollo de los procesos electorales ordinarios y extraordinarios, así como en la fiscalización del origen, uso, aplicación y destino del financiamiento público y privado de los partidos políticos, empleado en sus actividades ordinarias, de precampaña, campaña y demás obligaciones, en los términos establecidos en esta Constitución y las leyes respectivas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+La ciudadanía participará en la vigilancia, preparación y desarrollo de los procesos electorales ordinarios y extraordinarios, así como en la fiscalización del origen, uso, aplicación y destino del financiamiento público y privado de los partidos políticos, empleado en sus actividades ordinarias, de precampaña, campaña y demás obligaciones, en los términos establecidos en esta Constitución y las leyes respectivas.
 
 La ciudadanía ejercerá sus derechos consagrados en el párrafo anterior y de acceso a cualquier información relativa a los partidos políticos, coaliciones, precandidaturas o candidaturas de conformidad con lo señalado por las normas que regulan la materia. Tendrán expedito el derecho de denunciar ante las autoridades competentes, cualquier discriminación, violencia o irregularidad observada.
 
@@ -352,6 +362,12 @@ La solicitud de información deberá presentarse ante el Instituto de Elecciones
 La ciudadanía tendrá derecho a la afiliación a los partidos políticos, el cual se ejercerá de manera personal, libre e independiente y sin coacción o violencia. Toda afiliación corporativa o de grupo será nula y sancionada por la Ley.
 
 La ciudadanía tendrá derecho a participar en las consultas ciudadanas de conformidad con lo establecido en la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+La ciudadanía tendrá derecho a participar en las elecciones para ocupar los cargos de elección popular como candidatos independientes o de cualquier partido político y la ley de la materia reglamentará el ejercicio de éste derecho.
 
 Apartado B.- De los Partidos Políticos
 
@@ -431,7 +447,11 @@ El Instituto de Elecciones y Participación Ciudadana tendrá a su cargo en form
 
 El Instituto de Elecciones y Participación Ciudadana, será competente para conocer de los medios de impugnación administrativos en los términos que establezca la Ley.
 
-II. La Comisión de Fiscalización Electoral, será el órgano del Estado de Chiapas, público, autónomo, con personalidad jurídica y patrimonio propios; será responsable de vigilar y fiscalizar, los gastos de las precampañas, campañas electorales, la transparencia y fiscalización del financiamiento que los partidos políticos, coaliciones, precandidaturas y candidaturas empleen en sus gastos ordinarios permanentes, de precampaña y campaña electorales; así como de velar por el respeto a las leyes electorales e investigar las violaciones a éstas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. La Comisión de Fiscalización Electoral, será el órgano del Estado de Chiapas, público, autónomo, con personalidad jurídica y patrimonio propios; será responsable de vigilar y fiscalizar, los gastos de las precampañas, campañas electorales, la transparencia y fiscalización del financiamiento que las candidaturas independientes, partidos políticos, coaliciones, precandidaturas y candidaturas empleen en sus gastos ordinarios permanentes, de precampaña y campaña electorales; así como de velar por el respeto a las leyes electorales e investigar las violaciones a éstas.
 
 Estará integrada por un Presidente y dos Contralores Electorales, nombrados por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes, a propuesta del Titular del Ejecutivo del Estado. Durarán en su encargo siete años, pudiendo ser reelectos para otro periodo igual, y únicamente podrán ser removidos en los términos del Título Décimo Segundo de esta Constitución. El funcionamiento de la Comisión de Fiscalización Electoral, estará determinada en la ley de la materia. Concurrirán únicamente con voz, a las sesiones del Pleno, los representantes de los partidos políticos y un Secretario Ejecutivo, quien será designado por el voto mayoritario de los integrantes del Pleno, a propuesta del Presidente.
 
@@ -3970,3 +3990,13 @@ El presidente del Consejo Estatal de los Derechos Humanos concluirá su encargo 
 Artículo Octavo.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído el Consejo Estatal de los Derechos Humanos, seguirán siendo asumidos inmediatamente y se entenderán conferidos a la Comisión Estatal de los Derechos Humanos, conforme a las disposiciones vigentes a la entrada en vigor el presente Decreto.
 
 Artículo Noveno.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales, seguirán siendo aplicadas las que se encuentran vigentes a la entrada en vigor del presente Decreto, salvo en los casos en que se opongan al mismo.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de inicio del proceso electoral del año 2018.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Honorable Congreso del Estado, expedirá las adecuaciones necesarias a la legislación local aplicable, de conformidad con los términos del presente Decreto.
+
+Artículo Cuarto.- Los Organismos con autonomía reconocida en la Constitución Política del Estado, deberán adecuar su marco normativo, en términos del presente Decreto.
