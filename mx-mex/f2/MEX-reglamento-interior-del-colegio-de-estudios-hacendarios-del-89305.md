@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-estudios-hacendarios-del-893
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-24"
-last_updated: "2012-08-24"
+last_updated: "2013-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 23 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 24 de agosto de 2012.
 
@@ -815,7 +817,7 @@ X. Los demás que se consideren necesarios: (sic)
 
 Los programas de estudio de las asignaturas contendrán:
 
-I: La denominación de la asignatura y la mención de su nivel;
+I. La denominación de la asignatura y la mención de su nivel;
 
 II. Los ejes temáticos;
 
@@ -1320,3 +1322,19 @@ LIC. CRISTINO CUETO ESTRADA
 COORDINADOR DE NORMAS, PROCEDIMIENTOS Y EVALUACIÓN
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 23 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente reglamento, entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento Interior del Colegio de Estudios Hacendarios, publicado en el Periódico Oficial "Gaceta del Gobierno" el 24 de agosto de 2012.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos que se encuentren en trámite al entrar en vigor el presente reglamento, se resolverán conforme a las disposiciones legales del mismo.
+
+QUINTO.- El presente reglamento aplicará para los alumnos de generaciones anteriores del Colegio para los efectos que les beneficien.
+
+SEXTO.- Todo lo no previsto en el presente reglamento se someterá a consideración del Consejo Académico para su acuerdo correspondiente.
