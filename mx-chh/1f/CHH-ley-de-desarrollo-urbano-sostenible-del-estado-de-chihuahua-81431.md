@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2013-08-24"
+last_updated: "2013-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -49,13 +49,17 @@ LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES Y OBJETO
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley, los Programas de Desarrollo Urbano Sostenible, las declaratorias y todos los actos de autoridad relacionados con estos instrumentos jurídicos, son de orden público y de observancia general en el Estado de Chihuahua.
+Las disposiciones de esta Ley, los Planes o Programas de Desarrollo Urbano Sostenible, las declaratorias y todos los actos de autoridad relacionados con estos instrumentos jurídicos, son de orden público y de observancia general en el Estado de Chihuahua.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 2.
 
-Se considera de interés público y de beneficio para todos:
+Se considera de interés público:
 
 I. El bien común, el desarrollo sostenible, el desarrollo limpio, la aplicación y el cumplimiento de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua;
 
@@ -69,13 +73,17 @@ V. La participación de las universidades, los centros de investigación, los ce
 
 VI. El aprovechamiento óptimo del agua, la energía no renovable y la renovable, los alimentos, los abastos, la infraestructura, los servicios, los equipamientos urbano y rural, el suelo urbano y el suelo rural para el desarrollo urbano sostenible;
 
-VII. El establecimiento de programas de densificación interna de los centros de población hasta lograr el uso óptimo de la infraestructura, los servicios, el equipamiento y el potencial urbano; los que serán elaborados por la autoridad competente en su ámbito territorial, los centros de población, los municipios y el Estado;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VII. El establecimiento de planes o programas de densificación interna de los centros de población hasta lograr el uso óptimo de la infraestructura, los servicios, el equipamiento y el potencial urbano; los que serán elaborados por la autoridad competente en su ámbito territorial, los centros de población, los municipios y el Estado;
 
 VIII. El diseño, construcción, operación y mantenimiento de un sistema de movilidad urbana sostenible, de acuerdo a las necesidades de cada asentamiento humano en los centros de población;
 
 IX. La conservación, mejoramiento, preservación y restauración del patrimonio histórico, artístico, arquitectónico y cultural de los centros de población, incluida la cultura de los pueblos milenarios;
 
-X. La dedicación de la obra pública, los servicios urbanos y toda acción de los tres órdenes de gobierno, para cambiar las condiciones que generan el déficit de los índices prioritarios de desarrollo urbano sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+X. La edificación de la obra pública, los servicios urbanos y toda acción de los tres órdenes de gobierno, para cambiar las condiciones que generan el déficit de los índices prioritarios de desarrollo urbano sostenible;
 
 XI. La expropiación por causa de utilidad pública de predios, con la finalidad de constituir reservas territoriales, o la construcción de vivienda para los trabajadores y sus familias, y
 
@@ -87,11 +95,15 @@ Esta Ley tiene por objeto:
 
 I. Establecer los preceptos legales básicos que normen el desarrollo urbano sostenible con la participación de los tres órdenes de gobierno en la atención de los asentamientos humanos, los centros de población y el medio ambiente;
 
-II. Definir un sistema de planificación para el desarrollo urbano sostenible del Estado, regiones, municipios y centros de población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Definir un sistema de planeación para el desarrollo urbano sostenible del Estado, regiones, municipios y centros de población;
 
 III. Promover el desarrollo urbano sostenible por medio de las acciones y gestión urbana de los tres órdenes de gobierno;
 
-IV. Integrar las mejores prácticas de participación de los habitantes en lo individual y por medio de grupos, en los procesos de planificación, consulta pública y administración del desarrollo urbano sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Integrar las mejores prácticas de participación de los habitantes en lo individual y por medio de grupos, en los procesos de planeación, consulta pública y administración del desarrollo urbano sostenible;
 
 V. Motivar la participación de todos los habitantes en las prácticas del bien común orientadas al desarrollo urbano sostenible;
 
@@ -119,7 +131,9 @@ VI. La promoción de mejores prácticas locales y establecimiento de políticas 
 
 VII. La optimización del uso de los recursos públicos por medio de la atención de los índices de desarrollo sostenible, y
 
-VIII. La aplicación de los adelantos en tecnología digital, principalmente los sistemas de información geográfica, y la identificación de las mejores prácticas locales, nacionales e internacionales para la planificación urbana, regional y estatal.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VIII. La aplicación de los adelantos en tecnología digital, principalmente los sistemas de información geográfica, y la identificación de las mejores prácticas locales, nacionales e internacionales para la planeación urbana, regional y estatal.
 
 ###### ARTÍCULO 5.
 
@@ -129,17 +143,25 @@ I. Acción urbana.- Acondicionamiento del espacio para el asentamiento humano me
 
 II. Acera.- Orilla de la calle o de otra vía pública, cuya superficie se ha acondicionado para la circulación de peatones de toda condición; sita junto al paramento de las casas o límite del lote;
 
-III. Alineamiento.- Plano vertical imaginario sobre el terreno que limita el predio respectivo con la vía pública en uso o con la futura vía pública. El alineamiento contendrá las afectaciones y restricciones de carácter urbano, señaladas por planes parciales y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-IV. Aprovechamiento.- La utilización de las aptitudes del suelo; conservar el término uso de suelo, ya es conocido y adoptado;
+III. Alineamiento.- Plano vertical imaginario sobre el terreno que limita el predio respectivo con la vía pública en uso o con la futura vía pública. El alineamiento contendrá las afectaciones y restricciones de carácter urbano, señaladas por planes o programas parciales y demás legislación aplicable;
 
-V. Área no urbanizable.- Superficie de suelo que puede o no ser colindante al área urbana o urbanizada de un centro de población, sujeta a actividades productivas o en estado natural, que las autoridades determinan, de acuerdo a los Programas de Desarrollo Urbano Sostenible Estatal, Regional, Municipal y de Centro de Población, que no debe ser urbanizada, por cumplir con funciones relativas al equilibrio ecológico y la protección del ambiente natural;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Aprovechamiento.- La utilización de las aptitudes del suelo;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Área no urbanizable.- Superficie de suelo que puede o no ser colindante al área urbana o urbanizada de un centro de población, sujeta a actividades productivas o en estado natural, que las autoridades determinan, de acuerdo a los Planes o Programas de Desarrollo Urbano Sostenible Estatal, Regional, Municipal y de Centro de Población, que no debe ser urbanizada, por cumplir con funciones relativas al equilibrio ecológico y la protección del ambiente natural;
 
 VI. Actividad riesgosa.- Es aquella que en caso de producirse un accidente en la realización de la misma, ocasionaría una afectación al medio natural, al edificado o a los asentamientos humanos;
 
 VII. Adecuación.- Homogeneizar la función o forma de una estructura arquitectónica o urbana;
 
-VIII. Afectación.- Determinar el uso y ocupación del suelo urbano, que se afecta para uso público y que se relaciona con limitaciones y condicionantes reglamentadas en el uso del suelo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VIII. Afectación.- Determinar el uso y ocupación del suelo urbano, que se destina para uso público;
 
 IX. Aguas residuales.- Las aguas provenientes de las actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y que por el uso recibido se le hayan incorporado contaminantes en detrimento de su calidad original;
 
@@ -175,13 +197,19 @@ XXIV. Conservación.- La acción tendente a mantener equilibradamente y funciona
 
 XXV. Consolidación urbana.- Acciones orientadas a superar deficiencias y carencias de los asentamientos humanos y de los centros de población recientes o en proceso, dentro de las premisas del desarrollo urbano sostenible;
 
-XXVI. Constancia de zonificación.- Documento que otorgará la autoridad municipal a partir del Programa de Desarrollo Urbano Sostenible de Centro de Población, como se establece en el artículo 38 y la referencia al reglamento;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XXVII. Consulta pública.- Actividades organizadas por cualesquiera de los tres órdenes de gobierno, según su competencia, con participación de los tres órdenes de gobierno, los organismos consultivos, las organizaciones de la sociedad civil, las organizaciones políticas, las empresas y los habitantes en general, para el planteamiento, la elaboración, el seguimiento y la evaluación de los Programas de Desarrollo Urbano Sostenible;
+XXVI. Constancia de zonificación.- Documento que otorgará la autoridad municipal a partir del Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, como se establece en el artículo 38 y la referencia al reglamento;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXVII. Consulta pública.- Actividades organizadas por cualquiera de los tres órdenes de gobierno, según su competencia, con participación de los tres órdenes de gobierno, los organismos consultivos, las organizaciones de la sociedad civil, las organizaciones políticas, las empresas y los habitantes en general, para el planteamiento, la elaboración, el seguimiento y la evaluación de los Planes o Programas de Desarrollo Urbano Sostenible;
 
 XXVIII. Conurbación.- La continuidad o proximidad urbana que formen o tiendan a formar dos o más centros de población, que genera interdependencias entre ellos, generalmente lideradas por el de mayor población o capacidad económica o por ser el asiento de poderes gubernamentales;
 
-XXIX. Crecimiento.- La acción tendente a ordenar, regular y promover el aprovechamiento óptimo de la infraestructura, del suelo y del equipamiento, así como la conservación de la cultura de los asentamientos humanos por medio de la atención del déficit en los índices prioritarios del desarrollo sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXIX. Crecimiento.- La acción tendiente a ordenar, regular y promover el aprovechamiento óptimo de la infraestructura, del suelo y del equipamiento, así como la conservación de la cultura de los asentamientos humanos por medio de la atención del déficit en los índices prioritarios del desarrollo sostenible;
 
 XXX. Crecimiento urbano.- La expansión planificada, geográfica-espacial y demográfica de los centros de población, ya sea por extensión física territorial del área urbana consolidada o por la ocupación de lotes baldíos con nuevas edificaciones, el incremento en las densidades de construcción y población o por varios de los aspectos;
 
@@ -189,7 +217,9 @@ XXXI. Densidad de población.- Esta se puede determinar como bruta, cuando se tr
 
 XXXII. Densidad de vivienda.- Cuando sea derivada del resultado de la división del número total de viviendas de un polígono entre la superficie total del mismo, usualmente expresada en viviendas por hectárea, se obtendrá la densidad bruta de vivienda; y será densidad neta de vivienda, cuando el resultado sea obtenido de la división del número total de viviendas entre la superficie dedicada a viviendas de un polígono, usualmente expresada en viviendas por hectárea;
 
-XXXIII. Densificación.- Acción y efecto de utilizar el suelo urbano de forma tal que se aprovechen en forma óptima la infraestructura, los servicios y el equipamiento disponibles. Tiene prioridad para densificar el uso habitacional de acuerdo a las definiciones del Programa de Desarrollo Urbano Sostenible de Centro de Población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXXIII. Densificación.- Acción y efecto de utilizar el suelo urbano de forma tal que se aprovechen en forma óptima la infraestructura, los servicios y el equipamiento disponibles. Tiene prioridad para densificar el uso habitacional de acuerdo a las definiciones del Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población;
 
 XXXIV. Densificación interna de los centros de población.- La acción de ocupación de lotes baldíos y de acciones de regeneración urbana con vivienda y equipamiento, para alcanzar la densidad de población necesaria para el funcionamiento de un sistema de movilidad urbana sostenida por colonia, por distrito o por centro de población;
 
@@ -201,15 +231,21 @@ XXXVII. Desarrollo urbano sostenible.- Provisión, aprovechamiento y conservaci�
 
 XXXVIII. Destinos.- Los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población;
 
-XXXIX. Dictamen de congruencia.- Acto jurídico administrativo mediante el cual el Ejecutivo del Estado, a través de la Secretaría, ratifica el contenido de un programa respecto de las disposiciones de la presente Ley, de las políticas establecidas en los programas de nivel estatal, las acciones y normas técnicas en la materia;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXXIX. Dictamen de congruencia.- Acto jurídico administrativo mediante el cual el Ejecutivo del Estado, a través de la Secretaría, ratifica el contenido de un plan o programa respecto de las disposiciones de la presente Ley, de las políticas establecidas en los planes o programas de orden estatal, las acciones y normas técnicas en la materia;
 
 XL. Economía urbana.- La capacidad que tiene una ciudad para producir, buscando hacer lo más eficientemente posible los procesos de producción. Esto es, producir al máximo con la menor cantidad de recursos;
 
-XLI. Entrega-recepción.- Es el acto jurídico formal mediante el cual se realiza la entrega-recepción de las obras realizadas por el fraccionador a las autoridades y órganos operadores competentes, de conformidad con lo establecido por esta Ley y las demás aplicables. Las obras incluyen las redes de infraestructura, la urbanización, alumbrado público, áreas de dotación, mobiliario urbano y equipamiento, de conformidad con las licencias y autorizaciones correspondientes;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XLI. Entrega-recepción.- Es el acto jurídico formal mediante el cual se realiza la entrega-recepción de las obras realizadas por el fraccionador a las autoridades y órganos operadores competentes, de conformidad con lo establecido por esta Ley y las demás aplicables. Las obras incluyen las redes de infraestructura, la urbanización, alumbrado público, áreas de donación, mobiliario urbano y equipamiento, de conformidad con las licencias y autorizaciones correspondientes;
 
 XLII. Equipamiento urbano.- El conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano utilizado para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
 
-XLIII. Expropiación.- El procedimiento por medio del cual el Estado adquiere bienes de los particulares para el cumplimiento de un fin de interés público y beneficio para la sociedad, mediante el pago de una indemnización;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XLIII. Expropiación.- El procedimiento por medio del cual el Estado adquiere bienes de los particulares para el cumplimiento de un fin de interés público, mediante el pago de una indemnización;
 
 XLIV. Fraccionador.- Persona física o moral, responsable ante la autoridad, por el diseño, construcción o venta de un fraccionamiento;
 
@@ -237,11 +273,13 @@ d) Propuesta preliminar del Programa Operativo Anual Municipal para el ejercicio
 
 e) Propuesta de reconocimientos a las acciones de desarrollo sostenible.
 
-LlI. Infraestructura urbana.- Las redes y los sistemas de organización y distribución de servicios y bienes en los centros de población;
+LII. Infraestructura urbana.- Las redes y los sistemas de organización y distribución de servicios y bienes en los centros de población;
 
-LlII. Ley.- La Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua;
+LIII. Ley.- La Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua;
 
-LIV. Límite de centro de población.- El polígono cerrado que envuelve las áreas que conforman un centro de población, de conformidad con la definición contenida en la fracción XXII del presente artículo. Los límites de los fundos legales de las poblaciones deberán coincidir con los de los Centros de Población y deberán ser reconocidos en el Programa de Desarrollo Urbano Sostenible de Centro de Población y demás preceptos legales aplicables;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LIV. Límite de centro de población.- El polígono cerrado que envuelve las áreas que conforman un centro de población, de conformidad con la definición contenida en la fracción XVII del presente artículo. Los límites de los fundos legales de las poblaciones deberán coincidir con los de los Centros de Población y deberán ser reconocidos en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población y demás preceptos legales aplicables;
 
 LV. Lotificación.- Es la partición de un terreno, en dos o más fracciones que no requieran trazo de vía pública, constituyéndose cada una en fracciones de lotes;
 
@@ -251,7 +289,9 @@ LVII. Nomenclatura.- Sistema que permite identificar sobre el terreno la ubicaci
 
 LVIII. Ordenamiento territorial de los asentamientos humanos.- El proceso de distribución de la población y de las actividades económicas en el territorio, dentro de las prácticas del desarrollo urbano sostenible;
 
-LlX. Ordenamiento ecológico.- Es el instrumento de planificación, cuyo objeto es regular o indicar el uso del suelo y las actividades productivas con el fin de lograr la protección al medio ambiente, la preservación y aprovechamiento sostenible de los recursos naturales, a partir del análisis, tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LIX. Ordenamiento ecológico.- Es el instrumento de planeación, cuyo objeto es regular o indicar el uso del suelo y las actividades productivas con el fin de lograr la protección al medio ambiente, la preservación y aprovechamiento sostenible de los recursos naturales, a partir del análisis, tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
 LX. Organizaciones de la Sociedad Civil.- Grupos de personas que actúan, ocasionalmente de manera colectiva, en el ámbito público en busca del bien común. Incluye a las organizaciones e instituciones cívicas. No incluye a las estructuras gubernamentales, tampoco a las asociaciones con fines de lucro;
 
@@ -259,25 +299,35 @@ LXI. Patrimonio cultural.- Bienes muebles e inmuebles, tanto públicos como priv
 
 LXII. Percentil.- Valor que divide un conjunto ordenado de datos estadísticos, de forma que un porcentaje de tales datos sea inferior a dicho valor;
 
-LXIII. Plan.- Instrumento técnico, jurídico, administrativo que define la situación actual e identifica el déficit en los índices de desarrollo sostenible y las acciones a tomar para su disminución, a partir del análisis y diagnóstico de los asentamientos humanos, los centros de población y el medio natural. Usualmente es de alcance geográfico nacional, estatal o regional;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LXIII. Plan o Programa.- Instrumento técnico, jurídico, administrativo que define la situación actual e identifica el déficit en los índices de desarrollo sostenible y las acciones a tomar para su disminución, a partir del análisis y diagnóstico de los asentamientos humanos, los centros de población y el medio natural. Usualmente es de alcance geográfico nacional, estatal o regional;
 
 LXIV. Potencial urbano.- De un predio, lote o construcción, es la capacidad disponible o proyectada de infraestructura, servicios, equipamiento e imagen urbana. Para su determinación se toma en cuenta además el uso de suelo, su ubicación relativa en la ciudad y la imagen urbana;
 
-LXV. Predio baldío.- Fracción de terreno no edificado, de tipo rústico o urbano, que por sus características de ubicación está confinado o colindante con áreas que cuentan con vialidades y accesos, toda o parte de la infraestructura y equipamiento suficiente para su desarrollo, y que por su vocación está o debe estar considerado dentro de los Programas de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LXV. Predio baldío.- Fracción de terreno no edificado, de tipo rústico o urbano, que por sus características de ubicación está confinado o colindante con áreas que cuentan con vialidades y accesos, toda o parte de la infraestructura y equipamiento suficiente para su desarrollo, y que por su vocación está o debe estar considerado dentro de los Planes o Programas de Desarrollo Urbano Sostenible;
 
 LXVI. Predio rústico.- Son aquellos que no forman parte de la zona urbana de los centros de población y que además son utilizados como pequeñas unidades de producción;
 
 LXVII. Programa.- Serie ordenada de actividades, responsables, fechas y presupuestos o formas de definirlos, para llevar a cabo un plan. El plan es antecedente y parte integrante del programa;
 
-LXVIII. Programa Estatal de Ordenamiento Territorial (PEOT).- Documento actualizable periódicamente que describe el estado del suelo y la flora de la Entidad a partir de la fotointerpretación de imágenes satelitales. Es base para la planificación, territorial, ordenamiento y regulación de los asentamientos humanos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LXVIII. Programa Estatal de Ordenamiento Territorial (PEOT).- Documento actualizable periódicamente que describe el estado del suelo y la flora de la Entidad a partir de la fotointerpretación de imágenes satelitales. Es base para la planeación, territorial, ordenamiento y regulación de los asentamientos humanos;
 
 LXIX. Presupuesto participativo.- Es aquel que tiene como principal objetivo la participación directa de la ciudadanía, con el fin de establecer las necesidades priorizadas por los vecinos en materia de inversiones públicas, las cuales deberán ser incluidas en el presupuesto anual de la ciudad; y con un seguimiento de los compromisos alcanzados;
 
-LXX. Programa de Desarrollo Urbano Sostenible.- Los estudios de planificación definidos en esta Ley para el logro del desarrollo sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-LXXI. Programa de Ordenamiento Territorial de los Asentamientos Humanos.- Es la noción conceptual que engloba el proceso de toma de decisiones para maximizar la eficiencia económica del territorio, garantizando la cohesión política, social y cultural de sus habitantes en condiciones de desarrollo sostenible;
+LXX. Planes o Programas de Desarrollo Urbano Sostenible.- Los estudios de planeación definidos en esta Ley para el logro del desarrollo sostenible;
 
-LXXII. Programa Estatal de Desarrollo Urbano Sostenible.- Es el instrumento rector en materia de Asentamientos Humanos, Centros de Población y su relación con el medio ambiente para el logro del Desarrollo Urbano Sostenible en el Estado, en el cual se establecen las políticas, lineamientos y compromisos del Ejecutivo Estatal para el Ordenamiento Territorial de los Asentamientos Humanos y la regulación de los centros de población; instrumento que permite imprimir unidad y congruencia con el Programa Nacional de Desarrollo Urbano, así como con los Programas Estatales, Municipales y Regionales relacionados con la materia;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LXXI. Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible.- Es el instrumento rector en materia de Asentamientos Humanos, Centros de Población y su relación con el medio ambiente para el logro del Desarrollo Urbano Sostenible en el Estado, en el cual se establecen las políticas, lineamientos y compromisos del Ejecutivo Estatal para el Ordenamiento Territorial de los Asentamientos Humanos y la regulación de los centros de población; así como establecer la eficiencia económica del territorio, garantizando la cohesión política, social y cultural de sus habitantes en condiciones de desarrollo urbano sostenible; instrumento que permite imprimir unidad y congruencia con el Programa Nacional de Desarrollo Urbano, con los Programas Estatales, Municipales y Regionales relacionados con la materia;
+
+LXXII. (DEROGADA, P.O. 23 DE OCTUBRE DE 2013)
 
 LXXIII. Provisiones.- Las áreas que serán utilizadas para la fundación de un centro de población;
 
@@ -291,13 +341,17 @@ LXXVII. Renovación urbana.- Acción de sustitución de construcciones antiguas 
 
 LXXVIII. Rehabilitación.- Mejoramiento de las condiciones físicas de un espacio construido para adecuarlo a las funciones a que está destinado. Implica la consolidación de estructuras, la reorganización del espacio, la instalación de servicios y mejoramiento en la apariencia de las construcciones, con el fin de devolver un edificio a su función original o hacerlo apto para otra nueva;
 
-LXXIX. Reservas territoriales.- Las áreas de un centro de población, que serán utilizadas para su crecimiento, siempre y cuando la densidad de población se mantenga dentro de los límites establecidos en el Programa de Desarrollo Urbano Sostenible de Centro de Población, para el sector y la colonia. Mientras la zona urbana consolidada no alcance la densidad para el uso óptimo de la infraestructura, servicios, equipamiento y la movilidad urbana sostenida, la prioridad es la densificación interna del centro de población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LXXIX. Reservas territoriales patrimoniales.- Las áreas de un centro de población adquiridas por las dependencias o entidades de la administración pública o en asociación con sus propietarios, que serán utilizadas para su crecimiento dentro de los límites establecidos en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población;
 
 LXXX. Secretaría.- La Secretaría de Desarrollo Urbano y Ecología de Gobierno del Estado;
 
 LXXXI. Sector.- Área en la que se subdivide un centro de población con el fin de implementar políticas y acciones públicas en zonas urbanas con características homogéneas para gestionar el potencial urbano. Un sector se definirá por barreras o fronteras y siempre por colonias completas, para facilitar el manejo de datos censales;
 
-LXXXII. Segregación.- Separar o apartar uno o más lotes de otro de mayor extensión del que originalmente formaba parte, por medio del trazo de alguna vía pública o de obras de urbanización;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+LXXXII. Segregación.- Separar o apartar uno o más lotes de otro de mayor extensión del que originalmente formaba parte, por medio del trazo de alguna vía pública o infraestructura realizada por algún ente público;
 
 LXXXIII. Servicios urbanos.- Las actividades de construcción, mantenimiento y operación de los centros de población, prestadas directamente o concesionadas, por cualesquiera de las autoridades de los tres órdenes de gobierno, para satisfacer necesidades de infraestructura, servicios y equipamiento de los habitantes de los centros de población y con los cuales se impulsa el desarrollo urbano sostenible;
 
@@ -315,9 +369,13 @@ LXXXIX. Tecnologías verdes.- Tecnologías que promueven el uso eficiente de los
 
 XC. Urbanización.- El acondicionamiento y/o dotación de redes de infraestructura urbana que permiten la edificación y su conexión a las redes de servicios públicos a un predio para su desarrollo;
 
-XCI. Usos.- Los fines específicos privados a que podrán dedicarse determinadas zonas o predios de un centro de población y que están definidos en los Programas de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XCII. Uso mixto.- La combinación de varios usos del suelo compatibles entre sí, de acuerdo con lo dispuesto en los Programas de Desarrollo Urbano Sostenible;
+XCI. Usos.- Los fines específicos privados a que podrán dedicarse determinadas zonas o predios de un centro de población y que están definidos en los Planes o Programas de Desarrollo Urbano Sostenible;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XCII. Uso mixto.- La combinación de varios usos del suelo compatibles entre sí, de acuerdo con lo dispuesto en los Planes o Programas de Desarrollo Urbano Sostenible;
 
 XCIII. Vivienda.- Edificación cuya función principal es ofrecer refugio y habitación a las personas, sus enseres y propiedades, protegiéndoles de las inclemencias climáticas y de otras amenazas naturales;
 
@@ -339,7 +397,9 @@ C. Zona de Atención Prioritaria (ZAP).- Áreas geográficas urbanas o rurales q
 
 CI. Zona Conurbada.- Continuidad geográfica, económica y social que forman dos o más centros de población, de dos o más municipios del Estado o de dos o más Estados;
 
-CII. Zona Metropolitana.- Espacio territorial de influencia dominante de un centro de población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+CII. Zona Metropolitana.- Conjunto de dos o más municipios donde se localiza una ciudad de cincuenta mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica;
 
 CIII. Zona Rural.- El territorio comprendido fuera del límite de centro de población y dentro de los límites municipales, que por sus aptitudes y características se dedica en forma preponderante a la explotación agropecuaria, forestal, minera u otra similar;
 
@@ -377,7 +437,9 @@ III. Fijar los límites municipales y de los centros de población o su modifica
 
 IV. Resolver las controversias por límites territoriales, que se susciten entre Municipios del Estado, de conformidad con lo que establece la Constitución Política del Estado, el Código Municipal y la presente Ley;
 
-V. Aprobar el Programa Estatal de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Aprobar el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
 VI. Determinar los reconocimientos a las prácticas para el desarrollo urbano sostenible y las recomendaciones para el ejercicio fiscal subsiguiente en el Dictamen del Informe Anual Municipal de Desarrollo Sostenible;
 
@@ -397,37 +459,57 @@ Cuando por razón de la materia y de conformidad con la Ley Orgánica del Poder 
 
 Corresponde al Ejecutivo del Estado:
 
-I. Formular, aprobar, actualizar y evaluar los Programas de orden estatal y regional de Desarrollo Urbano Sostenible y de Ordenamiento Territorial de los Asentamientos Humanos, en congruencia con el Programa Nacional de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Formular, aprobar, actualizar y evaluar los Planes o Programas de orden estatal, regional y/o subregional de Desarrollo Urbano y Ordenamiento Territorial Sostenible, en congruencia con el Programa Nacional de Desarrollo Urbano;
 
 II. Coadyuvar con las autoridades federales en la ejecución y cumplimiento del Programa Nacional de Desarrollo Urbano;
 
-III. Promover la participación de los sectores social y privado, en la formulación y ejecución de los Programas Estatales de Desarrollo Urbano Sostenible y de Ordenamiento Territorial de los Asentamientos Humanos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-IV. Depositar e inscribir en el Registro Público de la Propiedad y del Comercio, los Programas de Desarrollo Urbano Sostenible a que se refiere esta Ley y darles publicidad mediante programas de difusión específicos;
+III. Promover la participación de los sectores social y privado, en la formulación y ejecución del Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Depositar e inscribir en el Registro Público de la Propiedad y del Comercio, los Planes o Programas de Desarrollo Urbano Sostenible a que se refiere esta Ley y darles publicidad mediante programas de difusión específicos;
 
 V. Promover, ante el Congreso del Estado, la fundación de centros de población, de conformidad con lo dispuesto por la Constitución Política del Estado, el Código Municipal y la presente Ley;
 
 VI. Participar, de manera conjunta y coordinada, con los gobiernos de los Municipios, de las Entidades Federativas involucradas y de la Federación, en el ordenamiento y regulación de las conurbaciones interestatales, conforme a la Ley General de Asentamientos Humanos y a los convenios de conurbación y metropolitanos respectivos;
 
-VII. La administración del desarrollo urbano sostenible; para ello dará seguimiento a los Programas de Desarrollo Urbano Sostenible y a los índices prioritarios de desarrollo sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VII. La administración del desarrollo urbano sostenible; para ello dará seguimiento a los Planes o Programas de Desarrollo Urbano Sostenible y a los índices prioritarios de desarrollo sostenible;
 
 VIII. Promover que los servicios y la obra pública de los tres órdenes de gobierno, se desarrollen con aumento paulatino de la práctica de la sostenibilidad en su diseño, construcción, mantenimiento y operación. La medida del avance en la materia será el por ciento del presupuesto total destinado por servicio y obra pública que es aplicado a la práctica de desarrollo sostenible;
 
-IX. Dictaminar la congruencia que tengan los Programas Municipales de Desarrollo Urbano Sostenible, los Programas de Desarrollo Urbano Sostenible de Centro de Población y los Programas Sectoriales de Desarrollo Urbano Sostenible, con el Programa Estatal de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IX. Dictaminar la congruencia que tengan los Planes o Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial Sostenible, los Planes o Programas de Desarrollo Urbano Sostenible de Centro de Población y los Planes o Programas Sectoriales de Desarrollo Urbano Sostenible, con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
 X. Dictaminar el impacto urbano y ambiental, en los términos de esta Ley y demás disposiciones aplicables;
 
-XI. Proponer la capacidad técnica e institucional que deberán tener los municipios y los órganos de colaboración para elaborar y operar los Programas de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XII. Apoyar técnicamente a los municipios que no cuenten con el perfil necesario para formular y operar el Programa Municipal de Desarrollo Urbano Sostenible y el Programa de Desarrollo Urbano Sostenible de Centro de Población;
+XI. Proponer la capacidad técnica e institucional que deberán tener los municipios y los órganos de colaboración para elaborar y operar los Planes o Programas de Desarrollo Urbano Sostenible;
 
-XIII. Apoyar a los municipios para que integren el Programa Operativo Anual, de acuerdo al Programa Municipal de Desarrollo Urbano Sostenible y al Programa de Desarrollo Urbano Sostenible de Centro de Población, dedicando sus acciones a la atención del déficit de los índices prioritarios de desarrollo sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XII. Apoyar técnicamente a los municipios que no cuenten con el perfil necesario para formular y operar el Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible y el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XIII. Apoyar a los municipios para que integren el Programa Operativo Anual, de acuerdo al Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible y al Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, dedicando sus acciones a la atención del déficit de los índices prioritarios de desarrollo sostenible;
 
 XIV. Crear y actualizar un sistema consolidado de información geográfica a partir de las acciones realizadas por los tres órdenes de gobierno fuera del Límite de Centro de Población, denominado Registro de Acciones de Desarrollo Sostenible de Gobierno;
 
-XV. Establecer la congruencia de las acciones gubernamentales con los Programas de Desarrollo Urbano de alcance estatal, municipal y de centro de población en relación con la atención del déficit de los índices prioritarios de desarrollo sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XVI. Elaborar un Proyecto de Dictamen Municipal de Desarrollo Urbano Sostenible para cada municipio, a partir del Informe Anual Municipal de Desarrollo Sostenible, que contendrá como mínimo: el análisis comparativo de las acciones de gobierno con el déficit de los índices prioritarios de desarrollo sostenible, comentarios, observaciones y recomendaciones para elaborar el Programa Operativo Anual en función de la atención del déficit de los índices prioritarios de desarrollo sostenible y señalará las prácticas de desarrollo urbano sostenible que sean acreedoras a incentivos;
+XV. Establecer la congruencia de las acciones gubernamentales con los Planes o Programas de Desarrollo Urbano de alcance estatal, municipal y de centro de población en relación con la atención del déficit de los índices prioritarios de desarrollo sostenible;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XVI. Recabar la información que le proporcionen los Municipios, a partir del Informe Anual Municipal de Desarrollo Sostenible como una herramienta que permita definir los Planes o Programas para la atención del déficit de los índices prioritarios de desarrollo sostenible y señalar las prácticas de desarrollo urbano sostenible que sean acreedoras a incentivos;
 
 XVII. Observar la congruencia de las acciones de los tres órdenes de gobierno con respecto a la atención del déficit de los índices prioritarios de desarrollo sostenible, en el Proyecto de Dictamen Municipal de Desarrollo Urbano Sostenible;
 
@@ -435,7 +517,9 @@ XVIII. Elaborar en Sistema de Información Geográfica, SIG, un Informe de Accio
 
 XIX. Convenir con el Gobierno Federal para que cada una de sus delegaciones en la Entidad le entregue a la propia Secretaría en SIG, un Informe Anual de Acciones Federales que consigne las acciones realizadas en el ejercicio fiscal;
 
-XX. Regular el mercado de los inmuebles destinados al desarrollo urbano e impedir la especulación del suelo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XX. Participar en el mercado de los terrenos destinados al desarrollo urbano aplicando, en el ámbito de su competencia, las modalidades, limitaciones y estímulos a la propiedad urbana que señale esta Ley y demás ordenamientos aplicables;
 
 XXI. Diseñar y coordinar el Programa de Constitución de Reservas Territoriales, de conformidad con el Título Cuarto, Del Suelo;
 
@@ -447,7 +531,9 @@ XXIV. Ejercer el derecho de preferencia para adquirir inmuebles, de acuerdo a lo
 
 XXV. Decretar la expropiación por causa de interés público, en los términos que disponga esta Ley y las demás aplicables; o promoverla ante el Ejecutivo Federal, cuando así corresponda;
 
-XXVI. Proponer a los Ayuntamientos y, en su caso, a la Legislatura del Estado, la determinación de provisiones, reservas, usos y destinos de áreas y predios, de conformidad con el Programa Estatal de Desarrollo Urbano Sostenible y de Ordenamiento Territorial de los Asentamientos Humanos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXVI. Proponer a los Ayuntamientos y, en su caso, a la Legislatura del Estado, la determinación de provisiones, reservas, usos y destinos de áreas y predios, de conformidad con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
 XXVII. Convenir con el Ayuntamiento, la prestación total o parcial de un servicio público y la realización de obras de infraestructura, en los términos de las disposiciones jurídicas aplicables;
 
@@ -455,7 +541,9 @@ XXVIII. Establecer las previsiones sobre los recursos que serán asignados para 
 
 XXIX. Decretar la reubicación de los asentamientos humanos susceptibles de afectarse o que se encuentren afectados por contingencias o riesgos naturales u ocasionados por las acciones humanas;
 
-XXX. Vigilar que en los programas y acciones de desarrollo urbano sostenible, se proteja el patrimonio histórico, artístico, arquitectónico y cultural, así como el medio ambiente de los centros de población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXX. Vigilar que en los planes o programas y acciones de desarrollo urbano sostenible, se proteja el patrimonio histórico, artístico, arquitectónico y cultural, así como el medio ambiente de los centros de población;
 
 XXXI. Estimular el rescate, conservación y respeto a la imagen urbana y el patrimonio cultural de las poblaciones del Estado;
 
@@ -465,7 +553,9 @@ XXXIII. Coordinarse con las autoridades federales y municipales de otras Entidad
 
 XXXIV. Promover la investigación, capacitación y aplicación de tecnologías limpias, tecnologías verdes, de punta o alternativas, en materia de desarrollo urbano sostenible;
 
-XXXV. Dar seguimiento al cumplimiento de los programas en materia de desarrollo urbano sostenible e imponer, de conformidad con lo previsto en la presente Ley, las sanciones y medidas de seguridad en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXXV. Dar seguimiento al cumplimiento de los planes o programas en materia de desarrollo urbano sostenible e imponer, de conformidad con lo previsto en la presente Ley, las sanciones y medidas de seguridad en el ámbito de su competencia;
 
 XXXVI. Proporcionar asesoría y apoyo técnico en materia de desarrollo urbano sostenible y ordenamiento territorial de los asentamientos humanos, a los sectores social y privado, así como a las autoridades municipales que se lo soliciten;
 
@@ -479,15 +569,25 @@ XXXIX. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplic
 
 Corresponde a los Municipios, en el ámbito de sus respectivas jurisdicciones:
 
-I. Formular, aprobar, administrar, ejecutar y actualizar, en su caso, el Programa Municipal de Desarrollo Urbano Sostenible y el de Centro de Población, y los que de éstos se deriven, en congruencia con los Programas Estatales de Desarrollo Urbano Sostenible, de Ordenamiento Territorial de los Asentamientos Humanos y demás Programas Regionales, así como evaluar y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. Solicitar al Ejecutivo Estatal, previa aprobación o modificación de los Programas de Desarrollo Urbano Sostenible regulados por esta Ley, el dictamen de congruencia con el Programa Estatal de Desarrollo Urbano Sostenible y vigilar la observancia de la misma en la instrumentación de dichos programas;
+I. Formular, aprobar, administrar, ejecutar y actualizar, en su caso, el Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible y el de Centro de Población, y los que de éstos se deriven, en congruencia con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, y demás Planes o Programas Regionales y/o Subregionales de Desarrollo Urbano y Ordenamiento Territorial Sostenible, así como evaluar y vigilar su cumplimiento;
 
-III. Enviar al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, los Programas Municipales de Desarrollo Urbano Sostenible y los que de ellos se deriven, así como los reglamentos que expida en la materia;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-IV. Formular y administrar la zonificación prevista en los Programas de Desarrollo Urbano Sostenible, así como controlar y vigilar la utilización del suelo y el aprovechamiento del potencial urbano;
+II. Solicitar al Ejecutivo Estatal, previa aprobación o modificación de los Planes o Programas de Desarrollo Urbano Sostenible regulados por esta Ley, el dictamen de congruencia con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible y vigilar la observancia de la misma en la instrumentación de dichos programas;
 
-V. Registrar mensualmente en Sistema de Información Geográfica, las acciones diferenciadas de los tres órdenes de gobierno realizadas en cada centro de población, por secciones municipales, en cada colonia, por sector y su relación con los datos censales de población y vivienda, con el Programa Estatal de Ordenamiento Territorial, con los índices prioritarios de desarrollo sostenible y con el Plan Estatal de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Enviar al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, los Planes o Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial Sostenible y los que de ellos se deriven, así como los reglamentos que expida en la materia;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Formular y administrar la zonificación prevista en los Planes o Programas de Desarrollo Urbano Sostenible, así como controlar y vigilar la utilización del suelo y el aprovechamiento del potencial urbano;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Registrar mensualmente en el Sistema de Información Geográfica, las acciones diferenciadas de los tres órdenes de gobierno realizadas en cada centro de población, por secciones municipales, en cada colonia, por sector y su relación con los datos censales de población y vivienda, con el Programa Estatal de Ordenamiento Territorial (PEOT), con los índices prioritarios de desarrollo sostenible y con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible.
 
 VI. Presentar, al final de cada ejercicio fiscal, a la Secretaría en SIG, el Informe Anual Municipal de Desarrollo Sostenible;
 
@@ -507,7 +607,9 @@ d. Instalación de estructuras para telecomunicaciones, conducción o transmisi�
 
 e. Colocación de estructuras con fines publicitarios, nomenclatura urbana, informativos, vigilancia y cualesquiera otros ubicados en vía pública o propiedad privada.
 
-X. Participar en el ordenamiento y regulación de las zonas conurbadas y metropolitanas, conforme a la Ley General de Asentamientos Humanos, esta Ley y los convenios de conurbación y metropolitanos respectivos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+X. Participar en el ordenamiento y regulación de las zonas conurbadas y/o metropolitanas, conforme a la Ley General de Asentamientos Humanos, esta Ley y los convenios de conurbación y metropolitanos respectivos;
 
 XI. Coordinarse y asociarse con el Estado y con otros Municipios de la Entidad, en las materias a las que se refiere esta Ley, así como participar en los convenios que con tales propósitos suscriban el Estado y la Federación;
 
@@ -521,15 +623,25 @@ XV. Participar en la constitución, manejo y administración de las reservas ter
 
 XVI. Intervenir y coadyuvar en la regularización de la tenencia de la tierra de los asentamientos irregulares, así como en los procesos de incorporación al desarrollo urbano de tierras de origen ejidal, comunal, privado o provenientes del patrimonio de la Federación o del Estado, conforme a la legislación aplicable;
 
-XVII. Autorizar la localización, deslinde, ampliación y delimitación de las zonas de urbanización ejidal y su reserva de crecimiento, conforme a lo previsto en los Programas de Desarrollo Urbano Sostenible que corresponda y en esta Ley;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XVIII. Participar en la regulación del mercado de tierras, en los términos de esta Ley y demás ordenamientos jurídicos aplicables;
+XVII. Autorizar la localización, deslinde, ampliación y delimitación de las zonas de urbanización ejidal y su reserva de crecimiento, conforme a lo previsto en los Planes o Programas de Desarrollo Urbano Sostenible que corresponda y en esta Ley;
 
-XIX. Participar en la ejecución de los programas y acciones que lleven a cabo el Estado o la Federación, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XX. Crear y administrar los parques urbanos y demás áreas naturales protegidas, así como las zonas federales de su competencia, de conformidad con esta Ley, los Programas de Desarrollo Urbano Sostenible y demás disposiciones jurídicas aplicables;
+XVIII. Participar en el mercado de los terrenos destinados al desarrollo urbano, aplicando en el ámbito de su competencia, las modalidades, limitaciones y estímulos a la propiedad urbana que señala esta Ley y demás ordenamientos en la materia;
 
-XXI. Diseñar y ejecutar programas y acciones para:
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XIX. Participar en la ejecución de los planes, programas y acciones que lleven a cabo el Estado o la Federación, en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XX. Crear y administrar los parques urbanos y demás áreas naturales protegidas, así como las zonas federales de su competencia, de conformidad con esta Ley, los Planes o Programas de Desarrollo Urbano Sostenible y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXI. Diseñar y ejecutar planes, programas y acciones para:
 
 a. Proteger el patrimonio histórico, artístico, arquitectónico y cultural;
 
@@ -541,7 +653,9 @@ XXII. Expedir los reglamentos y disposiciones administrativas para mejor proveer
 
 XXIII. Realizar inspecciones e imponer las sanciones y medidas de seguridad de su competencia en la materia;
 
-XXIV. Promover el desarrollo de mecanismos y estrategias de participación de la sociedad civil, en la programación de su presupuesto, en concordancia con el Título Octavo y los Programas Municipales de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXIV. Promover el desarrollo de mecanismos y estrategias de participación de la sociedad civil, en la programación de su presupuesto, en concordancia con el Título Octavo y los Planes o Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
 XXV. Fiscalizar los recursos públicos provenientes de la aplicación de instrumentos de gestión contenidos en el Título Séptimo de la presente Ley;
 
@@ -561,7 +675,9 @@ La Federación, el Estado y los Municipios podrán coordinarse y asociarse entre
 
 Los convenios y acuerdos de coordinación que suscriban el Ejecutivo Estatal y los Municipios, en las materias a que se refiere esta Ley, deberán ser publicados en el Periódico Oficial del Estado y contendrán, por lo menos, lo siguiente:
 
-I. El objeto del convenio o acuerdo, que deberá ser congruente con los Programas de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. El objeto del convenio o acuerdo, que deberá ser congruente con los Planes o Programas de Desarrollo Urbano Sostenible;
 
 II. Las acciones e inversiones a las que se comprometen las partes, especificando su destino y su forma de administración;
 
@@ -583,19 +699,25 @@ II. La Dirección de Catastro y Cartografía Urbana del Estado;
 
 III. Los Consejos Regionales de Desarrollo Urbano Sostenible;
 
-IV. Los Consejos Municipales de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. El Consejo de Planeación Urbana Municipal;
 
 V. Las Unidades Estatal y Municipal de Protección Civil;
 
-VI. Las Comisiones de Zona Conurbada o Metropolitana que se constituyan;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VI. Las Comisiones de Zona Conurbada y/o Metropolitana que se constituyan;
 
 VII. Los Consejos Municipales de Planificación;
 
 VIII. Los Institutos Municipales de Planificación Urbana Sostenible;
 
-IX. Los Comités de Planeación y Desarrollo Municipales;
+IX. (DEROGADA, P.O. 23 DE OCTUBRE DE 2013)
 
-X. La Secretaría de Planeación y Evaluación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+X. La Secretaría de Hacienda;
 
 XI. La Delegación Estatal de la Secretaría de Desarrollo Social;
 
@@ -621,11 +743,17 @@ IV. El Director de Desarrollo Urbano de la Secretaría, quien fungirá como Secr
 
 V. El Director de Ecología de la Secretaría;
 
-VI. Los Presidentes Municipales que estén involucrados en el programa a tratar en cada región identificada en el Programa Estatal de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-VII. Un representante de cada Comisión de Zona Conurbada o Metropolitana que se constituya, y
+VI. Los Presidentes Municipales que estén involucrados en el plan o programa a tratar en cada región identificada en el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-VIII. Cinco representantes de grupos sociales que integren la comunidad involucrada en el programa a tratar, a través de sus organismos legalmente constituidos, profesionistas, universitarios, investigadores, personas físicas con experiencia en la materia, para que aporten sus conocimientos y recomendaciones en la formulación de las políticas, criterios y lineamientos que implemente el Consejo Estatal de Desarrollo Urbano Sostenible.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VII. Un representante de cada Comisión de Zona Conurbada y/o Metropolitana que se constituya, y
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VIII. Cinco representantes de grupos sociales que integren la comunidad involucrada en el plan o programa a tratar, a través de sus organismos legalmente constituidos, profesionistas, universitarios, investigadores, personas físicas con experiencia en la materia, para que aporten sus conocimientos y recomendaciones en la formulación de las políticas, criterios y lineamientos que implemente el Consejo Estatal de Desarrollo Urbano Sostenible.
 
 El Consejo podrá invitar a consultores y organismos de opinión con experiencia nacional e internacional.
 
@@ -635,13 +763,21 @@ El cargo de los miembros del Consejo será honorífico, por lo que no podrán re
 
 El Consejo Estatal de Desarrollo Urbano Sostenible, tendrá las siguientes atribuciones:
 
-I. Recoger las opiniones y propuestas de los grupos sociales de la comunidad, en relación con el ordenamiento territorial y la planificación del desarrollo urbano sostenible, para canalizarlas a la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. Asesorar al Ejecutivo del Estado en lo relativo al ordenamiento territorial y la planificación del desarrollo urbano sostenible de la Entidad, así como en las acciones e inversiones que se realicen en esta materia;
+I. Recoger las opiniones y propuestas de los grupos sociales de la comunidad, en relación con el ordenamiento territorial y la planeación del desarrollo urbano sostenible, para canalizarlas a la Secretaría;
 
-III. Proponer e impulsar las medidas necesarias para la aplicación del Programa Estatal de Ordenamiento Territorial de los Asentamientos Humanos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-IV. Sugerir y avalar mecanismos de financiamiento para la implementación de los diferentes Programas de Desarrollo Urbano Sostenible de responsabilidad estatal;
+II. Asesorar al Ejecutivo del Estado en lo relativo al ordenamiento territorial y la planeación del desarrollo urbano sostenible de la Entidad, así como en las acciones e inversiones que se realicen en esta materia;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Proponer e impulsar las medidas necesarias para la aplicación del Plan o Programa Estatal de Desarrollo Urbano y de Ordenamiento Territorial Sostenible;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Sugerir y avalar mecanismos de financiamiento para la implementación de los diferentes Planes o Programas de Desarrollo Urbano Sostenible de responsabilidad estatal;
 
 V. Estudiar, promover e impulsar las medidas legislativas y administrativas que pudieran ser necesarias para el mejor ordenamiento del Desarrollo Urbano Sostenible en el Estado;
 
@@ -657,7 +793,9 @@ IX. Cualquier actividad análoga relacionada con las funciones y atribuciones me
 
 Los Consejos Regionales de Desarrollo Urbano Sostenible, estarán integrados por:
 
-I. Los Presidentes Municipales de las regiones que se identifiquen en el Programa Estatal de Desarrollo Urbano Sostenible, quienes en pleno designarán al Presidente del Consejo, el cual durará en su cargo un año o el tiempo que reste a la administración municipal;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Los Presidentes Municipales de las regiones que se identifiquen en el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, quienes en pleno designarán al Presidente del Consejo, el cual durará en su cargo un año o el tiempo que reste a la administración municipal;
 
 II. Los Directores de Desarrollo Urbano de los municipios;
 
@@ -667,7 +805,9 @@ IV. El Director de Ecología de la Secretaría;
 
 V. El Director de la Junta Municipal de Agua y Saneamiento o del organismo administrador del agua que corresponda;
 
-VI. El Director de Planeación y Programación Presupuestal de la Secretaría de Planeación y Evaluación, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VI. Un representante de la Secretaría de Hacienda, y
 
 VII. Cuatro representantes elegidos de entre los miembros de los colegios, universidades, cámaras, sindicatos, organizaciones de la sociedad civil, asociaciones de profesionistas legalmente constituidos u organizaciones que tengan relación directa con el desarrollo urbano en la región de que se trate.
 
@@ -675,49 +815,75 @@ El cargo de los miembros del Consejo será honorífico, por lo que no podrán re
 
 Los Consejos Regionales tendrán, en el ámbito de su jurisdicción, las mismas atribuciones que el Consejo Estatal, en lo que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 18.
 
-En los casos de zona metropolitana y de zona conurbada se constituirá una Comisión de Conurbación o de Zona Metropolitana, según corresponda, la cual estará integrada por:
+En los casos de zona conurbada y/o metropolitana se constituirá una Comisión de Conurbación y/o de Zona Metropolitana, según corresponda, la cual estará integrada por:
 
 I. Un Presidente, que será el Ejecutivo del Estado;
 
 II. Un Secretario Técnico, que será el titular de la Secretaría;
 
-III. Los Presidentes de los Municipios en donde se localice la zona conurbada;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Los Presidentes de los Municipios en donde se localice la zona conurbada y/o metropolitana;
 
 IV. Los representantes de la Comisión Federal de Electricidad y de la Junta Central de Agua y Saneamiento, de los órganos descentralizados que manejen servicios públicos y personas jurídicas o concesionarios que manejen servicios públicos;
 
-V. Un representante de cada Comité Municipal de Desarrollo Urbano Sostenible, de los Municipios que integran la zona conurbada de que se trate, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Un representante de cada Comité Municipal de Desarrollo Urbano Sostenible, de los Municipios que integran la zona conurbada y/o metropolitana de que se trate, y
 
 VI. Cuatro integrantes elegidos de entre los miembros de los colegios, universidades, cámaras, sindicatos, organizaciones de la sociedad civil y particulares que tengan relación directa con el desarrollo urbano de la zona de que se trate.
 
-La Comisión podrá invitar a participar, como integrantes de la misma, a representantes de las dependencias y entidades municipales, estatales y federales que ejecuten obras, acciones o inversiones en la zona conurbada, así como a representantes de los sectores social y privado.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+La Comisión podrá invitar a participar, como integrantes de la misma, a representantes de las dependencias y entidades municipales, estatales y federales que ejecuten obras, acciones o inversiones en la zona conurbada y/o metropolitana, así como a representantes de los sectores social y privado.
 
 Por cada representante propietario se designará un suplente. El Presidente será suplido por el Secretario Técnico. Los Presidentes Municipales serán suplidos por el Director de Desarrollo Urbano del Municipio, su equivalente o por quien éstos designen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-La Comisión de Conurbación o de Zona Conurbada, tendrá las siguientes atribuciones:
+La Comisión de Conurbación y/o de Zona Metropolitana, tendrá las siguientes atribuciones:
 
-I. Participar con la Secretaría, en la elaboración de los programas que contemplen zonas conurbadas; así como sus proyectos de modificación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. Proponer a los Municipios el proyecto de zona conurbada para que sea incluido en los Programas de Desarrollo Urbano Sostenible de los Centros de Población correspondientes y someterlo a su aprobación, de conformidad con el Sistema Estatal de Planificación Urbana;
+I. Participar con la Secretaría, en la elaboración de los planes o programas que contemplen zonas conurbadas y/o metropolitanas; así como sus proyectos de modificación;
 
-III. Identificar áreas naturales, zonas, edificaciones o sitios patrimoniales e históricos que deban ser protegidos, por significar un patrimonio valioso para la zona de conurbación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Proponer a los Municipios el proyecto de zona conurbada y/o metropolitana para que sea incluido en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población correspondiente y someterlo a su aprobación, de conformidad con el Sistema Estatal de Planeación Urbana;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Identificar áreas naturales, zonas, edificaciones o sitios patrimoniales e históricos que deban ser protegidos, por significar un patrimonio valioso para la zona conurbada y/o metropolitana;
 
 IV. Proponer proyectos urbanísticos específicos de alcance metropolitano no previstos en la zona conurbada;
 
-V. Recibir y analizar las observaciones, proposiciones o las solicitudes de modificación de las zonas conurbadas que le formule la comunidad o los particulares, y remitirlas al Consejo de Desarrollo Urbano Sostenible que corresponda para su opinión;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-VI. Dictaminar, previa solicitud expresa del Municipio correspondiente, los lineamientos a que deben sujetarse la apertura, modificación, prolongación, ampliación, integración y mejoramiento de las vías públicas, así como la localización de infraestructuras, equipamientos, obras y servicios públicos, que vinculen o impacten a dos o más Municipios, de conformidad con el convenio que celebren los Municipios respectivos y la Secretaría, en el ámbito de esta Ley, del Sistema Estatal de Planificación Urbana y de los reglamentos municipales;
+V. Recibir y analizar las observaciones, proposiciones o las solicitudes de modificación de las zonas conurbadas y/o metropolitanas que le formule la comunidad o los particulares, y remitirlas al Consejo de Desarrollo Urbano Sostenible que corresponda para su opinión;
 
-VII. Vigilar el cumplimiento de los Programas de Desarrollo Urbano Sostenible, Asentamientos Humanos u Ordenamiento Territorial de los Asentamientos Humanos, dentro del ámbito de su extensión territorial;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-VIII. Promover la participación social en la elaboración, ejecución, evaluación y modificación de las propuestas de las zonas conurbadas;
+VI. Dictaminar, previa solicitud expresa del Municipio correspondiente, los lineamientos a que deben sujetarse la apertura, modificación, prolongación, ampliación, integración y mejoramiento de las vías públicas, así como la localización de infraestructuras, equipamientos, obras y servicios públicos, que vinculen o impacten a dos o más Municipios, de conformidad con el convenio que celebren los Municipios respectivos y la Secretaría, en el ámbito de esta Ley, del Sistema Estatal de Planeación Urbana y de los reglamentos municipales;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VII. Vigilar el cumplimiento del Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial Sostenible, dentro del ámbito de su extensión territorial;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VIII. Promover la participación social en la elaboración, ejecución, evaluación y modificación de las propuestas de las zonas conurbadas y/o metropolitanas;
 
 IX. Solicitar a la autoridad competente, determine y ejecute las sanciones o medidas de seguridad que correspondan;
 
-X. Supervisar la aplicación de las disposiciones generales de desarrollo urbano sostenible, asentamientos humanos u ordenamiento territorial de los asentamientos humanos municipal, en materia de reservas para el crecimiento urbano, infraestructuras, servicios públicos, vialidades, políticas de desarrollo territorial, equipamientos y todo aquello que incida en la sostenibilidad de las zonas metropolitanas y del Estado;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+X. Supervisar la aplicación de las disposiciones generales de ordenamiento territorial sostenible estatal y municipal, en materia de reservas para el crecimiento urbano, infraestructuras, servicios públicos, vialidades, políticas de desarrollo territorial, equipamientos y todo aquello que incida en la sostenibilidad de las zonas conurbadas y/o metropolitanas y del Estado;
 
 XI. Formular lineamientos encaminados a la protección de la imagen urbana, los cuales deberán sujetarse a la reglamentación que corresponda;
 
@@ -725,41 +891,47 @@ XII. Formular los lineamientos para la construcción y adecuación de la infraes
 
 XIII. Las demás que le otorguen esta Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 20.
 
-En cada uno de los Municipios, sin perjuicio de lo que establece el Código Municipal, se constituirá un Consejo Municipal de Desarrollo Urbano Sostenible, que estará integrado por:
+Cada municipio podrá contar con un Consejo de Planeación Urbana Municipal, que se integrará con representantes del sector público y privado de la comunidad y servirá de auxiliar al municipio en la planeación urbana. En los municipios de más de setenta y cinco mil habitantes será obligatoria la existencia de este Consejo.
 
-I. El Presidente Municipal, quien lo presidirá;
-
-II. Los Regidores del Ayuntamiento, cuyas funciones se relacionen con el desarrollo urbano;
-
-III. El Director de Desarrollo Urbano Municipal o su equivalente, quien fungirá como Secretario Técnico;
-
-IV. Un representante de cada una de las dependencias y entidades de la administración pública municipal, cuya competencia u objeto se relacione directamente con el desarrollo urbano, y
-
-V. Dos representantes electos por ellos mismos, de entre los colegios, universidades, cámaras, sindicatos, organismos no gubernamentales y particulares que tengan relación directa con el desarrollo urbano.
+Para la conformación del Consejo se estará a lo que dispone el Código Municipal para el Estado de Chihuahua.
 
 El cargo de los miembros del Consejo, será honorífico, por lo que no podrán recibir remuneración alguna.
 
 El Consejo Municipal tendrá, en el ámbito de su jurisdicción, las mismas atribuciones que el Consejo Estatal, en lo que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 21.
 
-Los Municipios deberán impulsar la creación de un Instituto Municipal o Intermunicipal de Planificación Urbana Sostenible, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, y podrán asociarse con los municipios vecinos con los cuales colinden, para:
+Los Municipios deberán impulsar la creación de un Instituto Municipal o Intermunicipal de Planeación Urbana Sostenible, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, y podrán asociarse con los municipios vecinos con los cuales colinden, para:
 
-I. Establecer la continuidad en los procesos de planificación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Establecer la continuidad en los procesos de planeación;
 
 II. Auxiliar a la autoridad municipal competente en materia de desarrollo urbano sostenible, en la realización de sus funciones;
 
-III. Dotar de procesos de planificación y programación eficientes, mediante una estructura técnico-operativa capaz de conducir el desarrollo urbano sostenible, a través de la planificación institucionalizada;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Dotar de procesos de planeación y programación eficientes, mediante una estructura técnico-operativa capaz de conducir el desarrollo urbano sostenible, a través de la planeación institucionalizada;
 
 IV. Proponer los criterios técnicos para el control urbano sostenible;
 
-V. Proponer los criterios de planificación y programación de acciones municipales;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-VI. Elaborar, evaluar y proponer al Municipio, la actualización y modificación de los instrumentos locales de planificación sostenible cuando el desarrollo urbano y las condiciones socioeconómicas y las disposiciones de esta Ley así lo requieran;
+V. Proponer los criterios de planeación y programación de acciones municipales;
 
-VII. Generar estudios y proyectos urbanos de apoyo a los programas municipales;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VI. Elaborar, evaluar y proponer al Municipio, la actualización y modificación de los instrumentos locales de planeación sostenible cuando el desarrollo urbano y las condiciones socioeconómicas y las disposiciones de esta Ley así lo requieran;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VII. Generar estudios y proyectos urbanos de apoyo a los planes o programas municipales;
 
 VIII. Crear, actualizar, administrar y difundir el Sistema de Información Geográfica Municipal;
 
@@ -767,15 +939,23 @@ IX. Generar los instrumentos de investigación estadística y de actualización 
 
 X. Elaborar estudios urbanos y regionales, y
 
-XI. Difundir los Programas de Desarrollo Urbano Sostenible y los que de éstos se deriven.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XI. Difundir los Planes o Programas de Desarrollo Urbano Sostenible y los que de éstos se deriven.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 22.
 
-El Instituto Municipal de Planificación Urbana Sostenible, se integrará en los términos del Decreto respectivo, y tendrá las facultades y obligaciones siguientes:
+El Instituto Municipal de Planeación Urbana Sostenible, se integrará en los términos del Decreto respectivo, y tendrá las facultades y obligaciones siguientes:
 
-l. Formular, elaborar, actualizar, revisar, controlar y evaluar el anteproyecto del Programa Operativo Anual del Municipio, Programas Municipales de Desarrollo Urbano Sostenible, los de centros de población y los que de éstos se deriven, en congruencia con los Programas Estatales de Desarrollo Urbano Sostenible, de Ordenamiento Territorial de los Asentamientos Humanos y demás programas regionales, para someterlos a su estudio, conocimiento y aprobación por parte del Municipio;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. Promover, a través del Consejo Municipal de Planeación, así como de cualquier otro organismo, consejo o dependencia adecuados, la participación ciudadana por medio de consulta pública en el proceso de elaboración de estudios, planes y proyectos que realice el Instituto, sometiéndolos a la aprobación del Municipio;
+I. Formular, elaborar, actualizar, revisar, controlar y evaluar el anteproyecto del Programa Operativo Anual del Municipio, del Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, del Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población y los que de éstos se deriven, en congruencia con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible y demás planes o programas regionales, para someterlos a su estudio, conocimiento y aprobación por parte del Municipio;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Promover, a través del Consejo Municipal de Planeación, así como de cualquier otro organismo, consejo o dependencia adecuados, la participación ciudadana por medio de consulta pública en el proceso de elaboración de estudios, planes, programas y proyectos que realice el Instituto, sometiéndolos a la aprobación del Municipio;
 
 III. Proponer los índices de desarrollo sostenible por colonia y por sector urbano para la cabecera municipal, y por centro de población para las demás localidades del municipio;
 
@@ -789,7 +969,9 @@ b. Los planes y programas de desarrollo urbano sostenible y ordenamiento territo
 
 c. Las licencias, constancias, autorizaciones; acciones de gestión urbana, dictámenes, y cualquier otro documento sobre el desarrollo urbano sostenible que sea de interés público;
 
-d. Los programas sectoriales, las zonas de atención prioritaria y la aplicación de la inversión pública para el desarrollo urbano sostenible;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+d. Los planes o programas sectoriales, las zonas de atención prioritaria y la aplicación de la inversión pública para el desarrollo urbano sostenible;
 
 e. La información generada a partir de las acciones de participación social contenidas en el Título Octavo de la presente Ley;
 
@@ -811,7 +993,9 @@ XI. Preparar programas de investigación, organizar el acopio de documentación,
 
 XII. Proponer al Municipio las acciones a tomar para promover el uso eficiente del suelo urbano y evitar el crecimiento descontrolado y el irregular;
 
-XIII. Auxiliar técnico del Municipio en consultas sobre cambios de uso de suelo y enajenación de inmuebles públicos, a través de dictámenes técnicos correspondientes;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XIII. Auxiliar técnicamente al Municipio en consultas sobre cambios de uso de suelo y enajenación de inmuebles públicos, a través de dictámenes técnicos correspondientes;
 
 XIV. Localizar e inventariar los predios y edificaciones subutilizados dentro del límite de centro de población y proponer al Municipio se incentive su aprovechamiento a través de planes, programas, instrumentos de gestión urbana y participación social y actividades que al efecto se instrumenten;
 
@@ -819,7 +1003,9 @@ XV. Proponer al Municipio la declaración de Polígonos de Conservación del Med
 
 XVI. Proponer al Municipio la expropiación de bienes por causa de utilidad pública, en los términos de esta Ley y demás aplicables;
 
-XVII. Asesorar al Municipio en la adquisición de reservas territoriales, definir sus usos y destinos, en congruencia con los Programas Municipales de Desarrollo Urbano Sostenible, de centro de población, las políticas de Gobierno del Estado y del mismo Municipio;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XVII. Asesorar al Municipio en la adquisición de reservas territoriales, definir sus usos y destinos, en congruencia con el Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, el Desarrollo Urbano Sostenible de centro de población, las políticas de Gobierno del Estado y del mismo Municipio;
 
 XVIII. Promover y planear la creación de áreas verdes, parques y jardines públicos, organizando su desarrollo, distribución y creación acorde a las condicionantes climáticas y al abastecimiento de agua para su riego, con la finalidad de mejorar la calidad de vida de la población y propiciar la conservación del medio ambiente;
 
@@ -837,19 +1023,27 @@ XXIV. Coordinar las acciones en materia de gestión urbana propuestas por los or
 
 XXV. Dar a conocer y permitir el acceso a la información, documentación y análisis que practique el Instituto, conforme a los rubros mencionados en las distintas fracciones anteriores, a toda clase de instituciones de investigación y enseñanza, así como al público en general, a través de una difusión amplia y eficaz.
 
-## TÍTULO TERCERO. DE LA PLANIFICACIÓN TERRITORIAL, ORDENAMIENTO Y REGULACIÓN DE LOS ASENTAMIENTOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO I. DE LA PLANIFICACIÓN TERRITORIAL
+## TÍTULO TERCERO. DE LA PLANEACIÓN TERRITORIAL, ORDENAMIENTO Y REGULACIÓN DE LOS ASENTAMIENTOS HUMANOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO I. DE LA PLANEACIÓN TERRITORIAL
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-La planificación y regulación de los asentamientos humanos y del desarrollo urbano sostenible de los centros de población en la Entidad, forman parte del Plan Estatal de Desarrollo, como una política sectorial que coadyuva al logro de los objetivos del Plan Nacional de Desarrollo.
+La planeación y regulación de los asentamientos humanos y del desarrollo urbano sostenible de los centros de población en la Entidad, forman parte del Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, como una política sectorial que coadyuva al logro de los objetivos del Plan Nacional de Desarrollo.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 24.
 
-En la planificación y realización de las acciones a cargo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como en el ejercicio de sus respectivas atribuciones para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en la materia, se observarán los lineamientos ambientales que establezcan los Planes Nacional y Estatal de Desarrollo, los Programas de Ordenamiento Ecológico del Territorio y las disposiciones legales aplicables en materia ambiental.
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como en el ejercicio de sus respectivas atribuciones para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en la materia, se observarán los lineamientos ambientales que establezcan el Plan Nacional de Desarrollo, el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, los Programas de Ordenamiento Ecológico del Territorio y las disposiciones legales aplicables en materia ambiental.
 
-El Sistema Estatal de Planificación Urbana establecerá periódicamente un diagnóstico basado en los índices prioritarios de desarrollo sostenible, la estrategia para la atención del déficit y la evaluación de los avances.
+El Sistema Estatal de Planeación Urbana establecerá periódicamente un diagnóstico basado en los índices prioritarios de desarrollo sostenible, la estrategia para la atención del déficit y la evaluación de los avances.
 
 ###### ARTÍCULO 25.
 
@@ -885,17 +1079,21 @@ La Secretaría, a partir del Informe Anual de Acciones del Municipio y del Infor
 
 Las actualizaciones de los índices prioritarios de desarrollo sostenible de las administraciones municipal y estatal, se harán de forma tal que los resultados sean utilizados para programar las acciones de gobierno de la administración subsecuente, en función de la atención del déficit encontrado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 30.
 
-La Secretaría y los Municipios integrarán en los Programas de Desarrollo Urbano Sostenible, el Informe Anual Municipal de Desarrollo Sostenible, y harán los ajustes necesarios para la atención del déficit en los índices prioritarios de desarrollo sostenible.
+La Secretaría y los Municipios integrarán en los Planes o Programas de Desarrollo Urbano Sostenible, el resultado del Informe Anual Municipal de Desarrollo Sostenible, y harán los ajustes necesarios para la atención del déficit en los índices prioritarios de desarrollo sostenible.
 
 ###### ARTÍCULO 31.
 
 El Congreso del Estado utilizará la actualización de los índices para la aplicación de los recursos del ejercicio fiscal siguiente para los municipios y el Estado en la atención del déficit de los índices prioritarios de desarrollo sostenible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 32.
 
-La consulta pública será un proceso continuo por medio del cual se actualicen los Programas de Desarrollo Urbano Sostenible, los índices de desarrollo sostenible y el déficit, y sus productos serán la revisión y la ratificación o replanteamiento de las estrategias para abatir el déficit en materia de desarrollo urbano sostenible.
+La consulta pública será un proceso continuo por medio del cual se actualicen los Planes o Programas de Desarrollo Urbano Sostenible, los índices de desarrollo sostenible y el déficit, y sus productos serán la revisión y la ratificación o replanteamiento de las estrategias para abatir el déficit en materia de desarrollo urbano sostenible.
 
 Para la consulta pública se convocará y facilitará la participación, utilizando los medios de comunicación impresos, la radio, la televisión, anuncios en vía pública y en Internet. La consulta pública integrará el principio de subsidiariedad.
 
@@ -911,9 +1109,11 @@ Dichas aportaciones deberán presentarse por escrito y archivo electrónico en f
 
 La zonificación tendrá como objetivo definir los polígonos que constituyen un centro de población, sus usos y aprovechamientos en función de su ubicación. Dentro del límite de centro de población, la zonificación servirá para determinar la ubicación y condiciones básicas de asentamientos humanos, infraestructura, servicios y equipamiento. Fuera del límite de centro de población se considera zona rural y se definirán los aprovechamientos posibles y los polígonos de conservación del medio natural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-A los municipios corresponderá formular, aprobar y administrar la zonificación de los centros de población ubicados en su territorio, misma que deberá establecerse en los Programas de Desarrollo Urbano Sostenible, tomando en cuenta lo siguiente:
+A los municipios corresponderá formular, aprobar y administrar la zonificación de los centros de población ubicados en su territorio, misma que deberá establecerse en los Planes o Programas de Desarrollo Urbano Sostenible, tomando en cuenta lo siguiente:
 
 I. Los índices prioritarios de desarrollo sostenible;
 
@@ -929,9 +1129,11 @@ VI. Las zonas de desarrollo controlado y de salvaguarda, especialmente en áreas
 
 VII. Las zonas de conservación, mejoramiento y crecimiento de los centros de población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 36.
 
-A partir de lo estipulado en el artículo anterior, se establecerá la zonificación en los Programas de Desarrollo Urbano Sostenible, la cual determinará:
+A partir de lo estipulado en el artículo anterior, se establecerá la zonificación en los Planes o Programas de Desarrollo Urbano Sostenible, la cual determinará:
 
 I. El polígono que delimita un centro de población y, en su caso, los sectores, las colonias y otras subdivisiones;
 
@@ -957,43 +1159,61 @@ XI. Propuesta de aplicación de los instrumentos de gestión, de acuerdo al Tít
 
 De conformidad con esta Ley y demás legislación aplicable, los procedimientos y condiciones para la definición de la zonificación serán fijados en el Reglamento de esta Ley, por los señalados en los reglamentos municipales.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 37.
 
-Se prohíbe el cambio de uso de suelo dentro de los polígonos de conservación del medio natural, así como cualquier acción urbana que contravenga la zonificación establecida en los Programas de Desarrollo Urbano Sostenible.
+Se prohíbe el cambio de uso de suelo dentro de los polígonos de conservación del medio natural, establecida en los Planes o Programas de Desarrollo Urbano Sostenible.
 
-Los propietarios de los predios comprendidos, cualquiera que sea el régimen de propiedad, deberán acatar la zonificación establecida en los Programas de Desarrollo Urbano Sostenible y otra legislación aplicable. La traslación de dominio de un predio no implica el cambio de uso de suelo.
+Los propietarios de los predios comprendidos, cualquiera que sea el régimen de propiedad, deberán acatar la zonificación establecida en los Planes o Programas de Desarrollo Urbano Sostenible y otra legislación aplicable. La traslación de dominio de un predio no implica el cambio de uso de suelo.
 
-### CAPÍTULO III. DE LOS PROGRAMAS DE DESARROLLO URBANO SOSTENIBLE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO III. DE LOS PLANES O PROGRAMAS DE DESARROLLO URBANO SOSTENIBLE
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 38.
 
-El ordenamiento y regulación de los asentamientos humanos y el desarrollo urbano sostenible de los centros de población en el Estado, se llevarán a cabo a través del Sistema Estatal de Planificación Urbana, integrada por los siguientes Programas:
+El ordenamiento y regulación de los asentamientos humanos y el desarrollo urbano sostenible de los centros de población en el Estado, se llevarán a cabo a través del Sistema Estatal de Planeación Urbana, integrada por los siguientes Planes o Programas:
 
-I. Estatal de Desarrollo Urbano Sostenible;
+I. De orden Estatal:
 
-II. Estatal de Ordenamiento Territorial de los Asentamientos Humanos;
+a. Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-III. Regionales de Desarrollo Urbano Sostenible;
+b. Plan o Programa Regional y/o Subregional de Desarrollo Urbano y Ordenamiento Territorial Sostenible, y
 
-IV. Municipales de Desarrollo Urbano Sostenible;
+c. Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial de Zona Conurbada y/o Metropolitana: internacional, interestatal e intermunicipal;
 
-V. De Desarrollo Urbano Sostenible de Centros de Población, y
+II. De orden Municipal:
 
-VI. Sectoriales de Desarrollo Urbano Sostenible.
+a. Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-Todos los programas y sus anexos serán presentados en versiones medio digital e impreso. Las versiones digitales serán presentadas en aplicaciones originales modificables.
+b. Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población;
+
+c. Plan o Programa Sectorial de Desarrollo Urbano Sostenible;
+
+d. Plan o Programa Parcial de Desarrollo Urbano Sostenible, y
+
+e. Plan o Programa Maestro de Desarrollo Urbano.
+
+Todos los planes o programas y sus anexos serán presentados en versiones medio digital e impreso. Las versiones digitales serán presentadas en aplicaciones originales modificables.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
-Los Programas de Desarrollo Urbano Sostenible son instrumentos de ejecución para el logro de los objetivos y metas del desarrollo urbano sostenible; en ellos se precisan el alcance geográfico y las acciones a realizar, se determinan los responsables y se establecen los plazos para su cumplimiento.
+El Plan o Programa de Desarrollo Urbano Sostenible es un instrumento de ejecución para el logro de los objetivos y metas del desarrollo urbano sostenible; en él se precisa el alcance geográfico y las acciones a realizar, se determinan los responsables y se establecen los plazos para su cumplimiento.
 
-Los programas podrán ser precedidos o seguidos de los acuerdos de coordinación entre las autoridades responsables de su ejecución y de los convenios de concertación con los sectores social y privado participantes, en los que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
+El Plan o Programa podrá ser precedido o seguido de los acuerdos de coordinación entre las autoridades responsables de su ejecución y de los convenios de concertación con los sectores social y privado participantes, en el que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
 
-Los programas de responsabilidad exclusiva o parcial del sector público, deberán ajustarse a los procedimientos de programación y presupuesto que determine el Gobierno del Estado.
+El Plan o Programa de responsabilidad exclusiva o parcial del sector público, deberá ajustarse a los procedimientos de programación y presupuesto que determine el Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 40.
 
-El contenido general aplicable a todos los Programas de Desarrollo Urbano Sostenible será:
+El contenido general aplicable para el Plan o Programa Estatal de Desarrollo Urbano y de Ordenamiento Territorial Sostenible, el Plan o Programa Regional y/o Subregional de Desarrollo Urbano y Ordenamiento Territorial Sostenible, el Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial Sostenible de Zona Conurbada y/o Metropolitana, así como en los Planes o Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial Sostenible de los municipios con más de setenta y cinco mil habitantes será:
 
 I. Antecedentes: Leyes y planes que originan el programa, fundamento en el Plan Nacional de Desarrollo y en los programas de mayor alcance;
 
@@ -1025,19 +1245,55 @@ XIV. La manifestación expresa de su obligatoriedad general, así como sus efect
 
 XV. Anexos: prontuario impreso y digital de índices prioritarios, órdenes de gobierno responsables de atender el déficit y dependencias competentes. En los Municipios con capacidad técnica, además incluirán información base, sistema de información geográfica, programa de acompañamiento a las regiones y municipios por parte de la Secretaría, para abatir el déficit.
 
-#### SECCIÓN I. DEL PROGRAMA ESTATAL DE DESARROLLO URBANO SOSTENIBLE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN I. DE ORDEN ESTATAL DEL PLAN O PROGRAMA ESTATAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL SOSTENIBLE
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
-El Programa Estatal de Desarrollo Urbano Sostenible, tiene como propósito establecer las políticas, lineamientos y compromisos del Ejecutivo Estatal para el ordenamiento territorial de los asentamientos humanos, la regulación de los centros de población y dar unidad y congruencia al Sistema Estatal de Planificación Urbana con el Programa Nacional de Desarrollo.
+El Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, tiene como propósito:
+
+I. Establecer las políticas, lineamientos y compromisos del Ejecutivo Estatal para el ordenamiento territorial de los asentamientos humanos;
+
+II. La regulación de los centros de población y dar unidad y congruencia al Sistema Estatal de Planeación Urbana con el Plan Nacional de Desarrollo;
+
+III. Contribuir al desarrollo equilibrado de las regiones y la organización física y temporal del espacio territorial, a través de la inducción de las actividades económicas y sociales en la mejor ubicación, con relación al aprovechamiento racional de los recursos naturales, delimitando los usos y destinos del suelo, de acuerdo a su capacidad de carga ecológica y a la demanda existente;
+
+IV. Adoptar patrones sustentables de ocupación del territorio de acuerdo a la vocación del suelo;
+
+V. Propiciar el desarrollo socioeconómico, impulsando la competitividad de las regiones;
+
+VI. Alcanzar la integración funcional del territorio, asegurando la accesibilidad y cobertura de servicios de infraestructura y equipamiento regional;
+
+VII. Garantizar a los centros de población rural condiciones de accesibilidad a la infraestructura y equipamiento;
+
+VIII. Salvaguardar los recursos naturales, mantener el equilibrio ecológico y mejorar las condiciones ambientales de los centros de población;
+
+IX. Proteger el patrimonio histórico-cultural de la Entidad, y
+
+X. Estimular la participación solidaria de los distintos grupos que integran la comunidad, en la realización de las acciones que se deriven del Plan o Programa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-El Programa Estatal de Desarrollo Urbano Sostenible deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada tres años y contendrá, además de lo establecido en el contenido general aplicable a todos los Programas de Desarrollo Urbano Sostenible, lo siguiente:
+El Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada seis años y contendrá, además de lo establecido en el artículo 40 de la presente Ley, lo siguiente:
 
 I. Sistema de Información Geográfica. Límite del Estado, delimitación municipal y ubicación de centros de población, organización geográfica del Estado de Chihuahua en regiones con características homogéneas;
 
-II. Programa Estatal de Ordenamiento Territorial. Estado de suelo y flora de alcance estatal, regional, municipal y de secciones municipales;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. El diagnóstico del sistema territorial deberá considerar los subsistemas siguientes:
+
+a. Natural, que contenga el análisis del ordenamiento ecológico y sus procesos físicos y biológicos de su entorno natural, incluyendo la determinación y evaluación de tierras y la aptitud del territorio, cambio de uso de suelo y determinación y evaluación de la calidad de los recursos naturales;
+
+b. Económico, en el que se analicen las principales condicionantes del nivel de la actividad económica, demanda de actividades económicas nuevas y de empleo y de todos los sectores de la economía urbana;
+
+c. Social, que comprenda el análisis de los procesos sociales, sus principales determinantes o factores que condicionan la estructura y funcionamiento de los asentamientos humanos, la calidad de vida, la cobertura de infraestructura, equipamiento y servicios urbanos, tendencias y principales cambios de la estructura de las edades, magnitud y crecimiento de la población y los fenómenos migratorios, y
+
+d. Político-administrativo, estatal, interestatal y, en su caso, binacional, que incluya la síntesis del diagnóstico integral del sistema territorial destacando las principales zonificaciones, tipificaciones y las unidades de funcionamiento espacial.
 
 III. Ubicación de centros de población en proceso de conurbación, de zonas metropolitanas y de centros de población;
 
@@ -1049,87 +1305,131 @@ VI. La preservación y protección ambiental del patrimonio histórico, artísti
 
 VII. Las acciones para la constitución de reservas territoriales, la identificación de predios correspondientes y sus propietarios, en su caso, independientemente del régimen al que pertenezca, que se encuentren comprendidos en las áreas de reserva;
 
-VIII. La definición de los instrumentos para la ejecución de las acciones previstas en el programa y los estímulos de orden económico para los mismos efectos, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VIII. La definición de los instrumentos para la ejecución de las acciones previstas en el plan o programa y los estímulos de orden económico para los mismos efectos, y
 
 IX. Usos de suelo.
 
-#### SECCIÓN II. DEL PROGRAMA ESTATAL DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN II. DEL PLAN O PROGRAMA REGIONAL Y/O SUBREGIONAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL SOSTENIBLE
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 43.
 
-El Programa Estatal de Ordenamiento Territorial de los Asentamientos Humanos, tiene como propósito contribuir al desarrollo equilibrado de las regiones y la organización física y temporal del espacio territorial, a través de la inducción de las actividades económicas y sociales en la mejor ubicación, con relación al aprovechamiento racional de los recursos naturales, delimitando los fines y usos del suelo, de acuerdo a su capacidad de carga ecológica y a la demanda existente.
+El Plan o Programa Regional y/o Subregional de Desarrollo Urbano y Ordenamiento Territorial Sostenible, tiene como propósito establecer las políticas, lineamientos y compromisos del Ejecutivo Estatal para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población establecidos en el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, para su implementación en el ámbito regional.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 44.
 
-El Programa Estatal de Ordenamiento Territorial de los Asentamientos Humanos deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada seis años, observando que contenga los siguientes elementos de información:
+El Plan o Programa Regional y/o Subregional de Desarrollo Urbano y Ordenamiento Territorial Sostenible deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada tres años y contendrá, además de lo establecido en el artículo 40 de la presente Ley, lo siguiente:
 
-I. La caracterización y análisis de la ocupación del terreno, que deberá atender a los siguientes sistemas:
+I. Antecedentes geográficos, históricos, sociales, económicos y político-administrativos, incluyendo una evaluación del plan o programa anteriormente vigente en cuanto a su estrategia y objetivos, a la luz de las nuevas condiciones, así como de su grado de cumplimiento;
 
-a. Natural, que incluya al menos los siguientes aspectos: tipo, cantidad, ubicación y cartografía georreferenciada del terreno: geomorfología, climatología, suelo, agua, ecosistemas, incluidas la vegetación y fauna silvestre; se presentarán las unidades de paisaje y zonificación ecológica, presencia de fenómenos perturbadores de origen natural; mapas del territorio mostrando: su aptitud, potencialidad y habitabilidad;
+II. Diagnóstico del desarrollo urbano sostenible. Por región, por municipio y por sección municipal;
 
-b. Económico, en el que se revise el tamaño, importancia y composición de la estructura productiva estatal y municipal de los sectores primario, secundario y terciario, por subsector y rama de actividad, y
+III. Sistema de Información Geográfica. Delimitación municipal y ubicación de centros de población. Organización geográfica de la región con características homogéneas;
 
-c. Social, que contenga la caracterización y análisis de la distribución de los asentamientos humanos; de la dinámica demográfica; condiciones de vida de la población por tipo de asentamientos; dotación de infraestructura, equipamiento y servicios urbanos; características culturales e identificación de los territorios de los grupos indígenas; identificación de los lugares centrales y accesibilidad de los asentamientos humanos.
+IV. Sistema de Información Geográfica de Cartografía y Medio Ambiente. De alcance regional, municipal, de secciones municipales, de centros de población en proceso de conurbación, de zonas metropolitanas y de centros de población y sus zonas de influencia; a partir de lo establecido en el Programa Estatal de Ordenamiento Territorial (PEOT);
 
-II. El diagnóstico del sistema territorial deberá considerar los subsistemas siguientes:
+V. Fundamentación y análisis de congruencia con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-a. Natural, que contenga el análisis del ordenamiento ecológico y sus procesos físicos y biológicos de su entorno natural, incluyendo la determinación y evaluación de tierras y la aptitud del territorio, cambio de uso de suelo y determinación y evaluación de la calidad de los recursos naturales;
+VI. Estrategia para la atención del déficit de los índices prioritarios de desarrollo sostenible. Definición de objetivos, metas, prioridades y políticas públicas federales y estatales de cobertura para las regiones, para los municipios, para las zonas metropolitanas, para las zonas conurbadas y para los centros de población;
 
-b. Económico, en el que se analicen los principales condicionantes del nivel de la actividad económica, demanda de actividades económicas nuevas y de empleo y de todos los sectores de la economía urbana;
+VII. Las acciones para la constitución de reservas territoriales, la identificación de predios correspondientes y sus propietarios, en su caso, independientemente del régimen al que pertenezca, que se encuentren comprendidos en las áreas de reserva;
 
-c. Social, que comprenda el análisis de los procesos sociales, sus principales determinantes o factores que condicionan la estructura y funcionamiento de los asentamientos humanos, la calidad de vida, la cobertura de infraestructura, equipamiento y servicios urbanos, tendencias y principales cambios de la estructura de las edades, magnitud y crecimiento de la población y los fenómenos migratorios, y
+VIII. La definición de los instrumentos para la ejecución de las acciones previstas en el plan o programa y los estímulos de orden económico para los mismos efectos;
 
-d. Político-administrativo, estatal, interestatal y, en su caso, binacional, que incluya la síntesis del diagnóstico integral del sistema territorial destacando las principales zonificaciones, tipificaciones y las unidades de funcionamiento espacial.
+IX. El establecimiento de políticas de desarrollo urbano sostenible, para corregir los desequilibrios socioeconómicos regionales, que se reflejan en asentamientos humanos no controlados, así como asegurar en el futuro un mejor ordenamiento del territorio;
 
-#### SECCIÓN III. DE LOS PROGRAMAS REGIONALES DE DESARROLLO URBANO SOSTENIBLE
+X. La preservación, control y protección de los recursos naturales y el medio ambiente;
+
+XI. Usos de suelo, y
+
+XII. Los proyectos y estudios tendientes a optimizar la asignación de la inversión única, a fin de promover un adecuado desarrollo urbano sostenible.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN III. DEL PLAN O PROGRAMA DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DE ZONA CONURBADA Y/O METROPOLITANA: INTERNACIONAL, INTERESTATAL Y/O INTERMUNICIPAL
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 45.
 
-Los Programas Regionales de Desarrollo Urbano Sostenible, tienen como propósito establecer las políticas, lineamientos y compromisos del Ejecutivo Estatal para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población establecidos en el Programa Estatal de Desarrollo, para su implementación en el ámbito regional.
+El Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial de Zona Conurbada y/o Metropolitana, tiene como propósito orientar, promover y regular el desarrollo urbano en dichas zonas; debe ser revisado, actualizado o, en su caso, ratificado por lo menos cada tres años y contendrá, además de lo establecido en el artículo 40 de la presente Ley, lo siguiente:
 
-#### SECCIÓN IV. DE LOS PROGRAMAS MUNICIPALES DE DESARROLLO URBANO SOSTENIBLE
+I. La delimitación territorial de la Zona Conurbada y/o Metropolitana;
+
+II. El patrón y las tendencias de la distribución de las actividades económicas y del asentamiento de la población en el territorio, las condiciones socioeconómicas de la población, la estructura y jerarquía de los centros de población y los asentamientos rurales, las condiciones de la infraestructura y equipamientos municipales, las ambientales, las de las zonas y los sitios del patrimonio cultural;
+
+III. El sistema urbano y de asentamientos rurales de la zona conurbada y/o metropolitana, estableciendo metas relativas a:
+
+a. La distribución de la población rural y urbana;
+
+b. Reservas territoriales para el desarrollo urbano;
+
+c. Atención a las necesidades de vivienda;
+
+d. Dotación de equipamientos básicos y especiales de cobertura estatal, regional, subregional, de servicios rurales básicos y municipales;
+
+e. Zonas industriales y actividades productivas, y
+
+f. Proyectos urbanos estratégicos estatales y municipales.
+
+IV. El ordenamiento territorial de la Zona Conurbada y/o Metropolitana, que deberá incluir:
+
+a. La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento, así como a la preservación y equilibrio ecológico de los centros de población de la zona conurbada y/o metropolitana;
+
+b. La estructura carretera, los libramientos y los caminos rurales;
+
+c. Las fuentes de captación y almacenamiento de agua potable y sistemas de abastecimiento y distribución primaria de agua en bloque;
+
+d. Sistemas de alcantarillado sanitario y drenaje pluvial, de saneamiento y disposición o reuso de aguas residuales;
+
+e. Sistemas de suministro y transformación de energía eléctrica;
+
+f. Sistemas de suministro y depósito de energéticos;
+
+g. Distribución de equipamientos de cobertura estatal, regional o de la zona conurbada y/o metropolitana;
+
+h. Distribución de zonas industriales o actividades productivas;
+
+i. Distribución de proyectos estratégicos;
+
+j. Sistemas de recolección, tratamiento y disposición de basura;
+
+k. Sistemas de transporte colectivo urbanos y suburbanos, y
+
+V. Las acciones e inversiones para la dotación de infraestructura, equipamiento y servicios urbanos que sean comunes a los centros de población de la zona conurbada y/o metropolitana.
+
+Una vez aprobado el Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial de Zona Conurbada y/o Metropolitana por el Congreso del Estado, los Municipios respectivos, en el ámbito de sus jurisdicciones, determinarán en los planes o programas de desarrollo urbano correspondientes las reservas, usos y destinos de áreas y predios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN IV. DE ORDEN MUNICIPAL DEL PLAN O PROGRAMA MUNICIPAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL SOSTENIBLE
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 46.
 
-Los Programas Regionales de Desarrollo Urbano Sostenible deberán ser revisados, actualizados o, en su caso, ratificados por lo menos cada tres años y contendrán, además de lo establecido en el contenido general aplicable a todos los Programas de Desarrollo Urbano Sostenible, lo siguiente:
+El Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, tiene como propósito establecer las políticas, lineamientos y compromisos de la administración municipal para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población, establecidos en los Planes o Programas de Desarrollo Urbano Sostenible de mayor jerarquía, para su implementación en el ámbito municipal.
 
-I. Sistema de Información Geográfica. Delimitación municipal y ubicación de centros de población. Organización geográfica de la región con características homogéneas;
-
-II. Sistema de Información Geográfica de Cartografía y Medio Ambiente. De alcance regional, municipal, de secciones municipales, de centros de población en proceso de conurbación, de zonas metropolitanas y de centros de población y sus zonas de influencia; a partir de lo establecido en el Programa Estatal de Ordenamiento Territorial;
-
-III. Diagnóstico del desarrollo urbano sostenible. Por región, por municipio y por sección municipal;
-
-IV. Estrategia para la atención del déficit de los índices prioritarios de desarrollo sostenible. Definición de políticas públicas federales y estatales de cobertura para las regiones, para los municipios, para las zonas metropolitanas, para las zonas conurbadas y para los centros de población;
-
-V. Las acciones para la constitución de reservas territoriales, la identificación de predios correspondientes y sus propietarios, en su caso, independientemente del régimen al que pertenezca, que se encuentren comprendidos en las áreas de reserva;
-
-VI. La definición de los instrumentos para la ejecución de las acciones previstas en el programa y los estímulos de orden económico para los mismos efectos;
-
-VII. El establecimiento de políticas de desarrollo urbano sostenible, para corregir los desequilibrios socioeconómicos regionales, que se reflejan en asentamientos humanos no controlados, así como asegurar en el futuro un mejor ordenamiento del territorio;
-
-VIII. La preservación, control y protección de los recursos naturales y el medio ambiente;
-
-IX. Usos de suelo, y
-
-X. Los proyectos y estudios tendentes a optimizar la asignación de la inversión única, a fin de promover un adecuado desarrollo urbano sostenible.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 47.
 
-Los Programas Municipales de Desarrollo Urbano Sostenible, tienen como propósito establecer las políticas, lineamientos y compromisos de la administración municipal para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población, establecidos en los Programas de Desarrollo Urbano Sostenible de mayor jerarquía, para su implementación en el ámbito municipal.
+El Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada cuatro años, y contendrá, además de lo establecido en el artículo 40 de la presente Ley, lo siguiente:
 
-#### SECCIÓN V. DEL PROGRAMA DE DESARROLLO URBANO SOSTENIBLE DE CENTRO DE POBLACIÓN
+I. Diagnóstico del desarrollo urbano sostenible para el municipio, secciones municipales, zonas metropolitanas, zonas conurbadas, centros de población y sus zonas de influencia;
 
-###### ARTÍCULO 48.
+II. Sistema de Información Geográfica con límites del Municipio, de sus secciones municipales y de los centros de población; organización geográfica del Municipio en regiones con características homogéneas y cuencas hidrológicas; zonas de influencia fuera del límite municipal, y zonas del municipio que acceden a otros municipios;
 
-Los Programas Municipales de Desarrollo Urbano Sostenible deberán ser revisados, actualizados o, en su caso, ratificados por lo menos cada dos años, efectuando la revisión y adecuación en su caso, no coincidiendo con el inicio o terminación de las administraciones, y contendrán, además de lo establecido en el contenido general aplicable a todos los Programas de Desarrollo Urbano Sostenible, lo siguiente:
+III. Sistema de Información Geográfica de Cartografía y Medio Ambiente de alcance municipal, de secciones municipales, de zonas conurbadas, de zonas metropolitanas, de centros de población, de zonas de influencia fuera del límite municipal y de zonas del municipio que acceden a otros municipios, a partir de lo establecido en el Programa Estatal de Ordenamiento Territorial (PEOT);
 
-I. Sistema de Información Geográfica con límites del Municipio, de sus secciones municipales y de los centros de población; organización geográfica del Municipio en regiones con características homogéneas y cuencas hidrológicas; zonas de influencia fuera del límite municipal, y zonas del municipio que acceden a otros municipios;
-
-II. Sistema de Información Geográfica de Cartografía y Medio Ambiente de alcance municipal, de secciones municipales; de zonas conurbadas; de zonas metropolitanas; de centros de población; de zonas de influencia fuera del límite municipal y de zonas del municipio que acceden a otros municipios; a partir de lo establecido en el Programa Estatal de Ordenamiento Territorial;
-
-III. SIG del Municipio con redes de infraestructura, servicios y equipamiento; imagen satelital actualizada; datos censales de población y vivienda; redes sociales y distribución geográfica de las acciones de los tres órdenes de gobierno;
-
-IV. Diagnóstico del desarrollo urbano sostenible para el municipio, secciones municipales, zonas metropolitanas, zonas conurbadas, centros de población y sus zonas de influencia;
+IV. Sistema de Información Geográfica del Municipio con redes de infraestructura, servicios y equipamiento; imagen satelital actualizada; datos censales de población y vivienda; redes sociales y distribución geográfica de las acciones de los tres órdenes de gobierno;
 
 V. Estrategia para la atención del déficit de los índices prioritarios de desarrollo sostenible, con definición de políticas públicas para el municipio, secciones municipales, zonas metropolitanas, zonas conurbadas, centros de población y zonas de influencia;
 
@@ -1137,79 +1437,67 @@ VI. Guía para la elaboración del Programa Operativo Anual para la atención de
 
 VII. Zonificación primaria, y
 
-VIII. Propuesta de plazos para seguimiento, evaluación y actualización del programa.
+VIII. Propuesta de plazos para seguimiento, evaluación y actualización del plan o programa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN V. DEL PLAN O PROGRAMA DE DESARROLLO URBANO SOSTENIBLE DE CENTRO DE POBLACIÓN
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 48.
+
+El Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, tiene como propósito establecer las políticas y lineamientos del Sistema Estatal de Planeación Urbana, para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población del municipio para su implementación en el ámbito urbano.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 49.
 
-Los Programas de Desarrollo Urbano Sostenible de Centro de Población, tienen como propósito establecer las políticas, lineamientos y compromisos del Ejecutivo Estatal para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población establecidos en el Programa Estatal de Desarrollo, para su implementación en el ámbito urbano.
-
-#### SECCIÓN VI. DE LOS PROGRAMAS SECTORIALES DE DESARROLLO URBANO SOSTENIBLE
-
-###### ARTÍCULO 50.
-
-Los Programas de Desarrollo Urbano Sostenible de Centro de Población deberán ser revisados, actualizados o, en su caso, ratificados por lo menos cada dos años y contendrán, además de lo establecido en el contenido general aplicable a todos los Programas de Desarrollo Urbano Sostenible, lo siguiente:
+El Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada tres años y contendrá, lo siguiente:
 
 I. Sistema de Información Geográfica con Límites de Centro de Población, Zona Metropolitana, Zonas en Proceso de Conurbación, organización geográfica por sectores, colonias, de acuerdo al Censo de Población y Vivienda;
 
-II. SIG de Cartografía y Medio Ambiente de alcance de zonas en proceso de conurbación, de zona metropolitana y de centro de población; a partir de lo establecido en el Programa Estatal de Ordenamiento Territorial;
+II. Sistema de Información Geográfica de Cartografía y Medio Ambiente de alcance de zonas en proceso de conurbación, de zona metropolitana y de centro de población; a partir de lo establecido en el Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-III. SIG de Centro de Población. Redes de infraestructura, servicios y equipamiento, calles, manzanas y nomenclatura, imagen satelital actualizada; datos censales de población y vivienda, redes sociales, distribución geográfica de las acciones de los tres órdenes de gobierno y declaratorias;
+III. Sistema de Información Geográfica de Centro de Población. Redes de infraestructura, servicios y equipamiento, calles, manzanas y nomenclatura, imagen satelital actualizada; datos censales de población y vivienda, redes sociales, distribución geográfica de las acciones de los tres órdenes de gobierno y declaratorias;
 
-IV. Las precisiones por sector y por colonia, para la aplicación de instrumentos jurídicos, administrativos, financieros y de gestión urbana y los de participación social;
+IV. Antecedentes geográficos, históricos, sociales, económicos y político-administrativos, incluyendo una evaluación del plan o programa anteriormente vigente en cuanto a su estrategia y objetivos, a la luz de las nuevas condiciones, así como de su grado de cumplimiento;
 
-V. Diagnóstico del desarrollo urbano sostenible para la zona metropolitana, zonas en proceso de conurbación, centro de población, zonas de atención prioritaria, sectores urbanos, colonias y polígonos de pobreza;
+V. Fundamentación y análisis de congruencia con el Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
 
-VI. Estrategia para atención del déficit en los índices prioritarios de desarrollo sostenible, con definición de políticas públicas para la zona metropolitana, zonas en proceso de conurbación, centro de población, zonas de atención prioritaria, sectores urbanos, colonias;
+VI. Análisis y diagnóstico de la habitabilidad del territorio, estructura urbana, redes de infraestructura y equipamiento primario;
 
-VII. Guía para la elaboración del Programa Operativo Anual para la atención de la problemática identificada;
+VII. Estrategia de desarrollo urbano, que incluye: objetivos, metas y prioridades; límite del Centro de Población; aprovechamientos principales del suelo; áreas urbanas, urbanizables y no urbanizables; derechos de vía e infraestructura básica de comunicaciones y transportes; suministro y almacenamiento de agua y saneamiento y energía; medidas para la conservación de los recursos naturales y mejoramiento del medio ambiente y del patrimonio cultural; políticas de crecimiento, mejoramiento y conservación urbanas;
 
-VIII. Definición de las intervenciones del Estado, de la Federación y del Municipio; en el caso de zonas conurbadas, en proceso de conurbación o metropolitanas, se incluirán los proyectos de convenio y coordinación;
+VIII. Lineamientos programáticos;
 
-IX. Zonificación primaria y secundaria;
+IX. Los instrumentos jurídicos, administrativos y financieros que permitan la ejecución de las acciones y proyectos que contemple el plan;
 
-X. Normatividad sobre:
+X. Zonificación primaria y, en caso de requerir mayor detalle en las normas para el aprovechamiento de áreas y predios, la zonificación secundaria;
 
-a. Potencial urbano;
+XI. Delimitación de la parte de la reserva que se urbanizará a corto plazo, indicando los usos predominantes, la estructura vial primaria y la estructura urbana propuesta;
 
-b. Equipamiento urbano;
+XII. Su vinculación con el ordenamiento ecológico del territorio, en los términos de la legislación en la materia;
 
-c. Áreas de dotación;
+XIII. Estrategia para atención del déficit con definición de políticas públicas para el centro de población, sectores urbanos, colonias y polígonos de pobreza, y
 
-d. Uso del espacio público: mobiliario urbano, arborización, estacionamientos para bicicletas, anuncios semifijos, toldos, marquesinas y elementos que sobresalgan del paramento;
+XIV. Guía para la elaboración del Programa Operativo Anual para la atención de la problemática identificada.
 
-e. Nomenclatura, señalización y elementos para control del tránsito de peatones y vehículos;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-f. Colocación de anuncios en estructuras independientes en vía pública, en derechos de vía o en propiedad privada, y
+#### SECCIÓN VI. DEL PLAN O PROGRAMA SECTORIAL DE DESARROLLO URBANO SOSTENIBLE
 
-g. Explotación de bancos de materiales y depósito de desechos y escombro.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-XI. El alcance geográfico y las políticas sobre:
+###### ARTÍCULO 50.
 
-a. Densidad de población, uso de suelo, imagen, paisaje y estructura urbana;
+El Plan o Programa Sectorial de Desarrollo Urbano Sostenible, tiene como propósito establecer las políticas, lineamientos y compromisos de los tres órdenes de gobierno para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población establecidos en los Planes o Programas de Desarrollo Urbano Sostenible de mayor jerarquía.
 
-b. Uso del espacio público con mobiliario urbano, arborización, estacionamientos para bicicletas, anuncios semifijos, toldos, marquesinas y elementos que sobresalgan del paramento;
+El Plan o Programa Sectorial de Desarrollo Urbano Sostenible deberá ser revisado, actualizado o, en su caso, ratificado por lo menos cada tres años y contendrá lo siguiente:
 
-c. Nomenclatura, señalización y elementos para control del tránsito de peatones y vehículos, y
+I. Fundamentación y congruencia con el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población del cual se deriva;
 
-d. Anuncios en estructuras independientes en vía pública, en derechos de vía o en propiedad privada.
-
-XII. Propuesta de plazos para seguimiento, evaluación y actualización del programa, promoviendo la participación social.
-
-#### SECCIÓN I. HABITACIONAL URBANO
-
-###### ARTÍCULO 51.
-
-Los Programas Sectoriales de Desarrollo Urbano Sostenible, tienen como propósito establecer las políticas, lineamientos y compromisos del Ejecutivo Estatal para el ordenamiento territorial de los asentamientos humanos y la regulación de los centros de población establecidos en los Programas de Desarrollo Urbano Sostenible de mayor jerarquía.
-
-#### SECCIÓN II. HABITACIONAL RURAL O CAMPESTRE
-
-###### ARTÍCULO 52.
-
-Los Programas Sectoriales de Desarrollo Urbano Sostenible deberán ser revisados, actualizados o, en su caso, ratificados por lo menos cada dos años y contendrán, además de lo establecido en el contenido general aplicable a todos los Programas de Desarrollo Urbano Sostenible, lo siguiente:
-
-I. Fundamentación y congruencia con los Programas de Desarrollo Urbano Sostenible de los cuales se deriva;
-
-II. Tema del Programa Sectorial de Desarrollo Urbano Sostenible:
+II. Tema del Plan o Programa Sectorial de Desarrollo Urbano Sostenible:
 
 a. Densificación;
 
@@ -1225,87 +1513,147 @@ f. Vivienda;
 
 g. Regularización de asentamientos humanos;
 
-h. Imagen urbana y conservación del patrimonio inmobiliario, histórico, artístico, arquitectónico, arqueológico, antropológico y cultural;
+h. Rescate ecológico y protección del medio ambiente;
 
-i. Rescate ecológico y protección del medio ambiente;
+i. Apoyo a las actividades económicas por sector productivo, y
 
-j. Apoyo a las actividades económicas por sector productivo, y
+j. Otros temas necesarios.
 
-k. Otros temas necesarios.
+III. Diagnóstico del tema sectorial que se identificó para su atención, para la zona metropolitana, zonas en proceso de conurbación, centro de población, sectores urbanos, colonias y polígonos de pobreza;
 
-III. SIG de Centro de Población con organización geográfica del centro de población en sectores con características homogéneas, cuencas hidrológicas, delimitación de colonias del Censo de Población y Vivienda; redes de infraestructura, calles, manzanas y toponimia, imagen satelital actualizada; datos censales de población y vivienda, redes sociales y distribución geográfica de las acciones de los tres órdenes de gobierno; zonificación primaria y zonificación secundaria;
+IV. Sistema de Información Geográfica de Centro de Población con organización geográfica del centro de población en sectores con características homogéneas, cuencas hidrológicas, delimitación de colonias del Censo de Población y Vivienda; redes de infraestructura, calles, manzanas y toponimia, imagen satelital actualizada; datos censales de población y vivienda, redes sociales y distribución geográfica de las acciones de los tres órdenes de gobierno; zonificación primaria y zonificación secundaria;
 
-IV. Las precisiones por sector y por colonia, para la aplicación del Título Séptimo, De los Instrumentos de Gestión del Desarrollo Urbano Sostenible en los Centros de Población, de la presente Ley;
+V. Definición de las intervenciones del Estado, de la Federación y el Municipio;
 
-V. Las precisiones por sector y por colonia, para la aplicación del Título Octavo, De la Participación Social;
+VI. Estrategia para atención del déficit con definición de políticas públicas para el centro de población, sectores urbanos, colonias y polígonos de pobreza;
 
-VI. Diagnóstico del tema sectorial que se identificó para su atención, para la zona metropolitana, zonas en proceso de conurbación, centro de población, sectores urbanos, colonias y polígonos de pobreza;
+VII. Guía para la elaboración del Programa Operativo Anual para la atención de la problemática identificada;
 
-VII. Estrategia para atención del déficit con definición de políticas públicas para la zona metropolitana, zonas en proceso de conurbación, centro de población, sectores urbanos, colonias y polígonos de pobreza;
+VIII. Instrumentos necesarios para la implementación del plan o programa, y
 
-VIII. Guía para la elaboración del Programa Operativo Anual para la atención de la problemática identificada;
+IX. Propuesta de plazos para seguimiento, evaluación y actualización del Plan o Programa.
 
-IX. Instrumentos necesarios para la implementación del programa;
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-X. Definición de las intervenciones del Estado, de la Federación y el Municipio, y
+#### SECCIÓN VII. DEL PLAN O PROGRAMA PARCIAL DE DESARROLLO URBANO SOSTENIBLE
 
-XI. Propuesta de plazos para seguimiento, evaluación y actualización del Programa.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO IV. DE LA APROBACIÓN Y MODIFICACIÓN DE LOS PROGRAMAS DE DESARROLLO URBANO SOSTENIBLE
+###### ARTÍCULO 51.
 
-#### SECCIÓN III. COMERCIALES Y DE SERVICIOS
+El Plan o Programa Parcial de Desarrollo Urbano Sostenible tiene por objeto desarrollar a detalle un área particular de un Centro de Población, para ordenar y regular su crecimiento, mejoramiento o conservación, así como concertar su instrumentación, y se aplicará en los centros de población de orden estatal y regional, y cuando así se justifique en el resto de los centros de población.
+
+El Plan o Programa Parcial de Desarrollo Urbano Sostenible contendrá como mínimo los siguientes elementos:
+
+I. Delimitación de los sectores o zonas urbanas o de reserva en los que se aplican;
+
+II. Fundamentación y análisis de congruencia con el Plan o Programa de Desarrollo Urbano de Centro de Población;
+
+III. Análisis y diagnóstico de habitabilidad del territorio, medio natural, estructura urbana, usos del suelo, redes de infraestructura, equipamiento urbano, patrimonio histórico y cultural;
+
+IV. Sistema de Información Geográfica con redes de infraestructura, servicios y equipamiento; imagen satelital actualizada; datos censales de población y vivienda; redes sociales y distribución geográfica de las acciones de los tres órdenes de gobierno;
+
+V. Estrategia que incluye políticas y acciones específicas, división del territorio en polígonos de actuación, etapas de ejecución; evaluación financiera y lineamientos programáticos;
+
+VI. Los instrumentos jurídicos, administrativos y financieros que permitan la ejecución de las acciones y proyectos que contempla el Plan o Programa, y
+
+VII. La zonificación secundaria.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN VIII. DEL PLAN O PROGRAMA MAESTRO DE DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 52.
+
+El Plan o Programa Maestro de Desarrollo Urbano es la propuesta de desarrollo urbano para uno o varios predios que se localizan dentro del área urbana, en concordancia con los planes o programas de desarrollo urbano sostenible y demás normatividad aplicable.
+
+El Plan o Programa Maestro tiene por objeto evaluar con detalle aspectos relacionados con los usos de suelo, la vialidad, la infraestructura troncal, el equipamiento público y las áreas verdes, y pueden aplicar los métodos señalados como el reagrupamiento parcelario para distribuir equitativamente los costos y beneficios de la urbanización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO IV. DE LA FORMULACIÓN, APROBACIÓN Y MODIFICACIÓN DE LOS PLANES O PROGRAMAS DE DESARROLLO URBANO SOSTENIBLE
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN I. DE LA FORMULACIÓN Y APROBACIÓN DE LOS PLANES O PROGRAMAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 53.
 
-El Programa Estatal de Desarrollo Urbano Sostenible, los Programas Regionales y de Ordenamiento Territorial, se sujetarán al siguiente procedimiento:
+Los Planes o Programas Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, Regional y/o Subregional de Desarrollo Urbano y Ordenamiento Territorial Sostenible, así como el de Desarrollo Urbano y Ordenamiento Territorial de Zona Conurbada y/o Metropolitana, se sujetarán al siguiente procedimiento:
 
 I. La Secretaría dará aviso del inicio del proceso de planificación y de recepción de las opiniones, planteamientos y demandas de la comunidad, en los términos del Título Octavo, De la Participación Social, de esta Ley;
 
-II. La Secretaría formulará el proyecto de programa y lo difundirá conforme a los procedimientos establecidos para consulta pública, a través de los medios de comunicación disponibles y de acuerdo al presupuesto autorizado para este fin;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-III. El proyecto de programa estará a consulta y opinión de la ciudadanía, de las organizaciones de la sociedad civil y de las autoridades de los tres órdenes de gobierno interesadas, durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Así mismo, remitirá copia a todos los Municipios que vincule el documento y al Comité de Planificación del Desarrollo a que se refiere la Ley de Planeación del Estado de Chihuahua;
+II. La Secretaría formulará el proyecto del plan o programa y lo difundirá conforme a los procedimientos establecidos para consulta pública, a través de los medios de comunicación disponibles y de acuerdo al presupuesto autorizado para este fin;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. El proyecto de plan o programa estará a consulta y opinión de la ciudadanía, de las organizaciones de la sociedad civil y de las autoridades de los tres órdenes de gobierno interesadas, durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Así mismo, remitirá copia a todos los Municipios que vincule el documento y al Consejo de Planeación Urbana Municipal a que se refiere la Ley de Planeación del Estado de Chihuahua;
 
 IV. La Secretaría organizará por lo menos una audiencia pública, en la que expondrá el proyecto y recibirá las sugerencias y planteamientos de los interesados;
 
 V. Las dependencias de la Administración Pública Estatal tendrán la participación que las leyes les confieren en materia de coordinación general e intersectorial y de programación y presupuesto;
 
-VI. Previo a la aprobación del programa, la Secretaría deberá dar respuesta a los planteamientos improcedentes y sobre las modificaciones al proyecto, expresando las razones del caso, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VI. Previo a la aprobación del plan o programa, la Secretaría deberá dar respuesta a los planteamientos improcedentes y sobre las modificaciones al proyecto, expresando las razones del caso, y
 
 VII. Cumplidas las anteriores formalidades, el Ejecutivo ordenará su publicación, en un período máximo de treinta días, en el Periódico Oficial del Estado, y su inscripción en la Sección Séptima del Registro Público de la Propiedad y del Comercio, y lo editará para su difusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 54.
 
-Los Programas Municipales de Desarrollo Urbano Sostenible, los Programas de Desarrollo Urbano Sostenible de Centros de Población y los Programas Sectoriales de Desarrollo Urbano Sostenible, se sujetarán al siguiente procedimiento:
+Los Planes o Programas Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, de Desarrollo Urbano Sostenible de Centro de Población, Sectorial de Desarrollo Urbano Sostenible y Parcial de Desarrollo Urbano Sostenible, se sujetarán al siguiente procedimiento:
 
 I. Los Municipios darán aviso público del inicio del proceso de planeación y de recepción de las opiniones, planteamientos y demandas de la comunidad, en los términos del Título Octavo de la Participación Social, de esta Ley;
 
-II. Los Municipios formularán el proyecto del programa y lo difundirán ampliamente;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-III. El proyecto del programa estará a consulta y opinión de la ciudadanía, de las organizaciones de la sociedad civil y de las autoridades de los tres órdenes de gobierno interesados, durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Así mismo, antes de que inicie dicho plazo, remitirá copia del proyecto al Ejecutivo del Estado y al Consejo Municipal de Desarrollo Urbano Sostenible;
+II. Los Municipios formularán el proyecto del plan o programa y lo difundirán ampliamente;
 
-IV. Los Municipios, a través de la dependencia encargada del desarrollo urbano, organizarán al menos dos audiencias públicas en las que se expondrá el proyecto, recibirá las sugerencias y planteamientos de los interesados. Simultáneamente, la dependencia municipal encargada de la elaboración del programa llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley y el Programa Estatal de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-V. Una vez elaborado el proyecto definitivo del programa, la Secretaría, en un plazo no mayor de treinta días naturales, emitirá un Dictamen de Congruencia del mismo, respecto del Programa Estatal de Desarrollo Urbano Sostenible. Dicho dictamen será requisito indispensable para su aprobación;
+III. El proyecto del plan o programa estará a consulta y opinión de la ciudadanía, de las organizaciones de la sociedad civil y de las autoridades de los tres órdenes de gobierno interesadas, durante un plazo no menor de sesenta días naturales, a partir del momento en que el proyecto se encuentre disponible. Así mismo, antes de que inicie dicho plazo, remitirá copia del proyecto al Ejecutivo del Estado y al Consejo de Planeación Urbana Municipal;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Los Municipios, a través de la dependencia encargada del desarrollo urbano, organizarán al menos dos audiencias públicas en las que se expondrá el proyecto y recibirá las sugerencias y planteamientos de los interesados. Simultáneamente, la dependencia municipal encargada de la elaboración del plan o programa llevará a cabo las reuniones que sean necesarias para asegurar la congruencia del mismo con la presente Ley y el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Una vez elaborado el proyecto definitivo del plan o programa, la Secretaría, en un plazo no mayor de treinta días naturales, emitirá un Dictamen de Congruencia del mismo, respecto del Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible. Dicho dictamen será requisito indispensable para su aprobación; de no producirse el dictamen en el plazo fijado, se entenderá que este fue en sentido positivo;
 
 VI. Los Municipios deberán dar respuesta a los planteamientos de la comunidad sobre las modificaciones al proyecto, expresando las razones del caso;
 
-VII. Cuando el programa motive la modificación del Fundo Legal o Límite de Centro de Población, una vez que la Secretaría haya emitido el Dictamen de Congruencia a que se refiere la fracción V de este artículo, se promoverá la adecuación relativa a efecto de que coincida con el Límite de Centro de Población propuesto, en forma previa a la aprobación del programa, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-VIII. Cumplidas las anteriores formalidades, los Municipios aprobarán el programa, lo remitirán al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado e inscripción en la Sección Séptima del Registro Público de la Propiedad y del Comercio; y lo editará en medios impresos y electrónicos para su difusión.
+VII. Cuando el plan o programa motive la modificación del Fundo Legal o Límite de Centro de Población, una vez que la Secretaría haya emitido el Dictamen de Congruencia a que se refiere la fracción V de este artículo, se promoverá la adecuación relativa a efecto de que coincida con el Límite de Centro de Población propuesto, en forma previa a la aprobación del plan o programa, y
 
-#### SECCIÓN IV. INDUSTRIALES
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VIII. Cumplidas las anteriores formalidades, los Municipios aprobarán el plan o programa, lo remitirán al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado e inscripción en la Sección Séptima del Registro Público de la Propiedad y del Comercio; y lo editará en medios impresos y electrónicos para su difusión.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 54 BIS.- Los Planes o Programas Maestros de Desarrollo Urbano podrán ser realizados tanto por particulares como por instancias públicas municipales y estatales. En todos los casos deberán respetar la normatividad establecida en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población y en los Planes o Programas Parciales de Desarrollo Urbano Sostenible correspondientes; deberán seguir un proceso de revisión y consulta con las autoridades de planeación y administración urbana, y ser aprobados por el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN II. DE LA MODIFICACIÓN DE LOS PLANES O PROGRAMAS
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 55.
 
-Para la modificación de los programas a que se refiere esta Ley, se seguirá el mismo procedimiento que para su aprobación.
+Para la modificación o actualización de los planes o programas a que se refiere esta Ley, se seguirá el mismo procedimiento que para su aprobación.
 
-Los Municipios del Estado podrán aprobar modificaciones menores a los programas de su competencia, sobre el cambio de uso del suelo a otro que sea compatible, el cambio de la densidad e intensidad de su aprovechamiento o el cambio de la altura máxima de construcción permitida, siempre y cuando no se modifique el Límite del Centro de Población, no se altere la delimitación entre las áreas urbanizables y las no urbanizables, o se afecten las características de la estructura urbana prevista en el Programa de Desarrollo Urbano Sostenible de Centro de Población. Para tal efecto, deberá observar el siguiente procedimiento:
-
-I. El Municipio dará a conocer públicamente la propuesta de modificación al programa, en los términos del Título Octavo de la Participación Social, de esta Ley, y escuchará las opiniones de las organizaciones de los vecinos del área de que se trate, en un plazo de sesenta días naturales;
-
-II. Al mismo tiempo, notificará a través del tablero de avisos del municipio y, cuando sea posible, de manera personal al Presidente de cada uno de los comités de vecinos que pudieran resultar afectados, para que en un plazo de 30 días naturales emitan su opinión. Cuando se trate de acciones de desarrollo urbano de impacto significativo, en los términos en que las define la presente Ley, notificará también a la Secretaría, quien dictaminará la factibilidad de la modificación, así como su congruencia con las estrategias del programa vigente dentro del mismo plazo. De no producirse estas opiniones en el plazo fijado, se entenderá que fueron emitidas en sentido positivo, y
-
-III. Una vez aprobadas por el Municipio, las modificaciones deberán ser publicadas por el Ejecutivo del Estado, en Periódico Oficial del Estado, e inscritas en el Registro Público de la Propiedad y del Comercio, Sección Séptima.
+Los Municipios del Estado podrán aprobar modificaciones menores a los planes o programas de su competencia, tales como cambio de uso del suelo a otro, siempre y cuando no sea de impacto significativo de acuerdo a lo estipulado en el artículo 164 del presente ordenamiento, el cambio de la densidad e intensidad de su aprovechamiento o el cambio de la altura máxima de construcción permitida, siempre y cuando no se modifique el Límite del Centro de Población, no se altere la delimitación entre las áreas urbanizables y las no urbanizables, o se afecten las características de la estructura urbana prevista en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
 
 ## TÍTULO CUARTO. DEL SUELO
 
@@ -1317,19 +1665,27 @@ El Ejecutivo del Estado y los Municipios, entre sí o con el Gobierno Federal, e
 
 I. Establecer una política integral de suelo urbano y reservas territoriales patrimoniales, mediante la programación de las adquisiciones y la oferta de tierra para el Desarrollo Urbano;
 
-II. Evitar la especulación del suelo apto para el desarrollo urbano;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Participar en el mercado de los terrenos urbanos, aplicando, en el ámbito de su competencia, las modalidades, limitaciones y estímulos a la propiedad urbana que señale esta Ley y demás ordenamientos legales aplicables;
 
 III. Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de tierra que atienda preferentemente las necesidades de los grupos de bajos ingresos, y
 
-IV. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los Programas de Desarrollo Urbano Sostenible.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los Planes o Programas de Desarrollo Urbano Sostenible.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 57.
 
-El Gobierno del Estado, en coordinación con los Municipios y con la colaboración de la Comisión Interinstitucional, formularán el Programa de Constitución de Reservas Territoriales, el cual deberá ser congruente con los Programas de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano Sostenible correspondientes; vinculado con el Plan Estatal de Desarrollo y los Planes de Desarrollo Municipal, a fin de asegurar que correspondan a acciones sistemáticas y continuas en el corto y mediano plazo y que fortalezcan los procesos de sostenibilidad y equilibrio en el aprovechamiento de los recursos naturales.
+El Gobierno del Estado, en coordinación con los Municipios, formulará el Programa de Constitución de Reservas Territoriales, el cual deberá estar vinculado con el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible, los Planes o Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial Sostenible y los Planes o Programas de Desarrollo Urbano Sostenible de Centro de Población correspondientes, a fin de asegurar que correspondan a acciones sistemáticas y continuas en el corto y mediano plazo y que fortalezcan los procesos de sostenibilidad y equilibrio en el aprovechamiento de los recursos naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 58.
 
-La constitución de reservas territoriales podrá realizarse sobre cualquier superficie apta y compatible con las previsiones contenidas en los Programas de Ordenamiento Territorial y Desarrollo Urbano Sostenible, los que integrarán los siguientes aspectos:
+La constitución de reservas territoriales podrá realizarse sobre cualquier superficie apta y compatible con las previsiones contenidas en los Planes o Programas de Desarrollo Urbano Sostenible, los que integrarán los siguientes aspectos:
 
 I. Los requerimientos de suelo necesarios para la expansión, consolidación, conservación y mejoramiento de los centros de población;
 
@@ -1345,9 +1701,11 @@ VI. Las medidas que propicien el aprovechamiento de áreas y predios baldíos qu
 
 VII. Los mecanismos e instrumentos financieros para la dotación de infraestructura, equipamiento y servicios urbanos.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 59.
 
-El Decreto en el que se establezca la zonificación para la creación de reservas territoriales patrimoniales, se publicará en el Periódico Oficial del Estado y en el diario de mayor circulación en la Entidad; así mismo, se inscribirá en los folios o asientos registrales del Registro Agrario Nacional, del Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad y del Comercio que corresponda, así como en la Dirección de Catastro y Cartografía Urbana del Estado y en la oficina del Catastro Municipal; debiéndose insertar en el Programa de Desarrollo Urbano Sostenible que corresponda.
+El Decreto en el que se establezca la zonificación para la creación de reservas territoriales patrimoniales, se publicará en el Periódico Oficial del Estado y en el diario de mayor circulación en la Entidad; así mismo, se inscribirá en los folios o asientos registrales del Registro Agrario Nacional, del Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad y del Comercio que corresponda, así como en la Dirección de Catastro y Cartografía Urbana del Estado y en la oficina del Catastro Municipal; debiéndose insertar en el Plan o Programa de Desarrollo Urbano Sostenible que corresponda.
 
 ###### ARTÍCULO 60.
 
@@ -1381,9 +1739,11 @@ d. La prevención de que los actos contrarios al decreto de constitución de res
 
 Los propietarios de los predios que constituyan la reserva territorial, podrán mantener la titularidad de los mismos, salvo que convengan con el Gobierno del Estado o con el Municipio de que se trate, el traslado del dominio correspondiente o la asociación para su aprovechamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 62.
 
-El Gobierno del Estado, así como los Municipios, a través de sus dependencias o entidades encargadas del manejo de reservas territoriales, tendrán derecho de preferencia para adquirir los predios determinados como reservas, cuando dichos predios vayan a ser objeto de enajenación, remate judicial o administrativo, conforme a lo siguiente:
+El Gobierno del Estado, así como los Municipios, a través de sus dependencias o entidades encargadas del manejo de reservas territoriales, tendrán derecho de preferencia para adquirir los predios determinados por los instrumentos de planeación como reservas, cuando dichos predios vayan a ser objeto de enajenación, remate judicial o administrativo, conforme a lo siguiente:
 
 I. Los propietarios de predios afectados, así como los notarios, jueces y autoridades administrativas, deberán notificar la propuesta de enajenación o el remate, al Gobierno del Estado o al Municipio correspondiente, dando a conocer el monto de la operación;
 
@@ -1403,15 +1763,19 @@ El Ejecutivo Estatal, a través de la autoridad que corresponda, de acuerdo con 
 
 ### CAPÍTULO II. DE LA INCORPORACIÓN DE TIERRAS DE ORIGEN RURAL AL DESARROLLO URBANO SOSTENIBLE
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 65.
 
-El uso y aprovechamiento de áreas y predios de origen rural, independientemente del régimen jurídico de tenencia al que pertenezcan, comprendidos dentro de los límites de los centros de población en los Programas de Desarrollo Urbano Sostenible o que formen parte de las zonas de urbanización ejidal de las tierras del asentamiento humano, se sujetará a lo dispuesto en la Ley General de Asentamientos Humanos, Ley Agraria, el Programa de Desarrollo Urbano Sostenible de que se trate y, en su caso, las disposiciones reglamentarias y técnicas.
+El uso y aprovechamiento de áreas y predios de origen rural, independientemente del régimen jurídico de tenencia al que pertenezcan, comprendidos dentro de los límites de los centros de población en los Planes o Programas de Desarrollo Urbano Sostenible o que formen parte de las zonas de urbanización ejidal de las tierras del asentamiento humano, se sujetará a lo dispuesto en la Ley General de Asentamientos Humanos, Ley Agraria, el Plan o Programa de Desarrollo Urbano Sostenible de que se trate y, en su caso, las disposiciones reglamentarias y técnicas.
 
 ###### ARTÍCULO 66.
 
 La incorporación de tierras de origen rural al desarrollo urbano, deberá cumplir con los siguientes requisitos:
 
-I. Que sea necesaria para la ejecución de un Programa de Desarrollo Urbano Sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Que sea necesaria para la ejecución de un Plan o Programa de Desarrollo Urbano Sostenible;
 
 II. Que hayan cumplido con las disposiciones legales y normativas vigentes en materia de cambio de uso de suelo;
 
@@ -1459,17 +1823,23 @@ IV. Judicial: Consiste en apoyar y asesorar a los propietarios o posesionarios p
 
 La regularización de la tenencia de la tierra, se sujetará a las siguientes normas:
 
-I. Se ajustará a lo que establezcan los Programas de Desarrollo Urbano Sostenible; la Secretaría emitirá previamente un dictamen jurídico y urbanístico de procedencia respecto del total de la superficie por regularizar, de acuerdo a las disposiciones de esta Ley;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Se ajustará a lo que establezcan los Planes o Programas de Desarrollo Urbano Sostenible; la Secretaría emitirá previamente un dictamen jurídico y urbanístico de procedencia respecto del total de la superficie por regularizar, de acuerdo a las disposiciones de esta Ley;
 
 II. Sólo podrán ser beneficiarios de la regularización quienes a la fecha de adquisición del predio, ocupen un predio o sean posesionarios reconocidos y no sean propietarios de algún otro inmueble en el centro de población respectivo. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión;
 
-III. En caso de solicitudes de dotación de predios para uso habitacional, ninguna persona podrá resultar beneficiaria con la regularización de más de un lote o predio, cuya superficie no podrá exceder de la extensión determinada por la legislación y los programas de desarrollo urbano sostenible, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. En caso de solicitudes de donación de predios para uso habitacional, ninguna persona podrá resultar beneficiaria con la regularización de más de un lote o predio, cuya superficie no podrá exceder de la extensión determinada por la legislación y los planes o programas de desarrollo urbano sostenible, y
 
 IV. Los precios de venta para los lotes tipo se fijarán atendiendo sus costos reales, a la condición del mercado inmobiliario, a la capacidad económica de los adquirentes, y para el caso de los lotes mayores o dedicados a otros usos, a su valor comercial.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 71.
 
-La regularización, cualquiera que sea el régimen de tenencia de la tierra, se sujetará a las disposiciones de la presente Ley, las normas y especificaciones de sus reglamentos, así como las contenidas en los Programas de Desarrollo Urbano Sostenible que se expidan.
+La regularización, cualquiera que sea el régimen de tenencia de la tierra, se sujetará a las disposiciones de la presente Ley, las normas y especificaciones de sus reglamentos, así como las contenidas en los Planes o Programas de Desarrollo Urbano Sostenible que se expidan.
 
 ###### ARTÍCULO 72.
 
@@ -1479,9 +1849,11 @@ La regularización de la tenencia de la tierra como una acción de mejoramiento 
 
 El Ejecutivo del Estado suscribirá acuerdos de coordinación con las entidades, dependencias de la Administración Pública Federal, los Municipios y, en su caso, convenios de concertación con los sectores social y privado, en los que se especificarán los criterios para la adquisición, aprovechamiento y transmisión de inmuebles ocupados irregularmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 74.
 
-El Ejecutivo del Estado y los Municipios establecerán, en el ámbito de sus respectivas competencias, los mecanismos que faciliten el cumplimiento de los Programas de Desarrollo Urbano Sostenible.
+El Ejecutivo del Estado y los Municipios establecerán, en el ámbito de sus respectivas competencias, los mecanismos que faciliten el cumplimiento de los Planes o Programas de Desarrollo Urbano Sostenible.
 
 Estos mecanismos comprenderán, cuando menos, un régimen de facilidades administrativas en materia de trámites y autorizaciones para la ejecución de acciones urbanas, tendientes a la simplificación de formatos, instancias, requisitos, como a la consecuente reducción de tiempos y costos, así también con seguimientos para su evaluación permanente.
 
@@ -1499,11 +1871,15 @@ IV. El otorgamiento de facilidades en el pago de los impuestos y derechos locale
 
 V. El establecimiento de facilidades, trato preferente y procedimientos simplificados ante las tesorerías municipales y los registros públicos, concertando acuerdos de facilidades con notarios y otros involucrados.
 
-### CAPÍTULO IV. DE LA EXPROPIACIÓN POR CAUSA DE UTILIDAD PÚBLICA Y BENEFICIO PARA TODOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO IV. DE LA EXPROPIACIÓN POR CAUSA DE UTILIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 76.
 
-Con base en el artículo 2 de la presente Ley, cuando para la ejecución de los programas y declaratorias que se establezcan de acuerdo a esta Ley, sea de interés público y beneficio para todos la ocupación de una propiedad, la autoridad competente procederá a la expropiación o limitación del dominio de la misma, adoptando las medidas administrativas conducentes y los convenios o decretos relativos, de conformidad con las leyes aplicables.
+Con base en el artículo 2 del presente ordenamiento, cuando para la ejecución de los planes o programas, sea de interés público la utilización de una propiedad, la autoridad competente procederá a la expropiación de la misma, adoptando las medidas administrativas conducentes y los convenios o decretos relativos, de conformidad con las leyes aplicables.
 
 Cuando se expropien bienes ejidales y comunales, se procurará que los ejidatarios y comuneros afectados, participen en los beneficios derivados de las obras y programas que se realicen.
 
@@ -1515,9 +1891,15 @@ En el caso de asentamientos humanos irregulares que se encuentren en terrenos o 
 
 ### CAPÍTULO I. DE LA CLASIFICACIÓN Y OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 78.
 
-Las características de cada uno de los tipos de fraccionamiento se establecerán en los reglamentos municipales correspondientes y su ubicación será de acuerdo al uso de suelo, densidad de población y demás definiciones aplicables contenidas en los Programas de Desarrollo Urbano Sostenible. Los fraccionamientos se clasifican en los siguientes tipos:
+Las características de cada uno de los tipos de fraccionamiento y su ubicación serán de acuerdo al uso de suelo, densidad de población y demás definiciones aplicables contenidas en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+En los Municipios donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, los fraccionamientos se clasificarán en los siguientes tipos:
 
 l. Habitacional urbano:
 
@@ -1547,21 +1929,33 @@ d. Mixtos.
 
 IV. Industriales, y
 
-V. De Cementerios o Parques Funerarios.
+V. (DEROGADA, P.O. 23 DE OCTUBRE DE 2013)
 
 ###### ARTÍCULO 79.
 
 Los fraccionadores, promotores o promoventes, tendrán las siguientes obligaciones:
 
-I. Cumplir con lo dispuesto en esta Ley, los Programas de Desarrollo Urbano Sostenible y las autorizaciones respectivas;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Cumplir con lo dispuesto en esta Ley, en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población y las autorizaciones respectivas;
 
 II. Realizar, dentro del plazo y de acuerdo con las especificaciones que fije la Junta de Agua y Saneamiento o el organismo operador del agua correspondiente, las obras para el suministro de agua potable y reuso de agua tratada, realizar los trabajos de conexión a la red existente y cubrir los derechos correspondientes de conexión;
 
 III. Ejecutar por su cuenta, en tiempo y especificaciones, las obras de urbanización que le correspondan, de acuerdo con el proyecto definitivo de fraccionamiento que se les haya autorizado, y con las especificaciones técnicas establecidas por la Comisión Federal de Electricidad en materia de energía eléctrica;
 
-IV. Otorgar garantía por el 30% del monto de las obras de urbanización que deban realizar, dentro del plazo de tres meses contados a partir de la fecha de aprobación. La garantía tendrá por objeto responder de los defectos y de las obras de urbanización, y de cualquier otra obligación contraída por el fraccionador, en los términos de esta Ley y de los actos de aprobación del Ayuntamiento y de la Junta Municipal de Agua y Saneamiento;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-V. La garantía estará vigente durante los dos años siguientes a la recepción de la obra o hasta que se corrijan los defectos y se satisfagan las responsabilidades no cumplidas;
+IV. Las autorizaciones de Fraccionamientos deben de constar en escritura pública, dentro de un plazo de tres meses contados a partir de la fecha de aprobación.
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Otorgar garantías por:
+
+a. El 100% del monto de las obras de urbanización faltantes al momento de solicitar la recepción anticipada;
+
+b. El 30% del monto de las obras de urbanización que tendrá por objeto responder de los defectos y de las obras de urbanización, y de cualquier otra obligación contraída por el fraccionador, en los términos de esta Ley y de los actos de aprobación del Ayuntamiento. La garantía estará vigente durante los dos años siguientes a la recepción definitiva de la obra o hasta que se corrijan los defectos y se satisfagan las responsabilidades no cumplidas.
+
+El monto de la cobertura de la garantía, se disminuirá directa y proporcionalmente en el caso de existir otra otorgada a diverso organismo operador de servicios.
 
 VI. Transmitir a título gratuito y libre de gravamen al Municipio, las áreas de donación para el equipamiento urbano, de acuerdo a lo que señala esta Ley y su reglamento; cuando el terreno que deba transmitirse no sea de utilidad de acuerdo con los planes y programas de Desarrollo Urbano Sostenible, el obligado entregará en donde se señale la carencia de estos espacios, una superficie de igual valor a aquella que originalmente debió transmitir. Tomando en cuenta, en primer término, dotar de estas áreas de equipamiento al sector donde se encuentra ubicado el fraccionamiento que se va a autorizar;
 
@@ -1575,9 +1969,27 @@ IX. Sujetar la publicidad y las promociones de venta a las autorizaciones en mat
 
 En los centros de población del Estado que cuenten con red de hidrantes contra incendio, red de distribución de gas natural u otras redes de infraestructura públicas o privadas, los propietarios de predios que realicen acciones urbanas sobre ellos deberán coordinarse con quien deba prestar el servicio, para que se ejecuten, en tiempo y con las especificaciones requeridas, las obras relativas a estos conceptos en complemento a las obligaciones establecidas en el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 80 BIS.- Los particulares que se vean beneficiados por la construcción de obras de cabecera, infraestructura o cualquier tipo de equipamiento que hayan sido construidas por otro particular, deberán pagar al ejecutor de dichas obras la parte proporcional al beneficio que les corresponda a más tardar al momento de solicitar factibilidades de servicios ante autoridad competente. La autoridad será responsable de no otorgar factibilidad, licencia o aprobación alguna en tanto el solicitante no demuestre haber pagado la parte proporcional que le corresponda. Para la valuación de las obras, en caso de ser necesario, la autoridad servirá como árbitro en la determinación de los montos a pagar a que se hace mención.
+
+Los desarrolladores, al solicitar las autorizaciones de sus proyectos, convocarán a los operadores privados de redes de infraestructura, a incluir sus proyectos con los requeridos por los reglamentos correspondientes; en caso de que los operadores privados no deseen participar desde el inicio de la solicitud de autorización y de las obras de urbanización promovidas por el desarrollador, este notificará acerca de esta decisión a la autoridad correspondiente para que esta a su vez los convoque a participar.
+
+En caso de que los operadores privados decidan construir sus obras de infraestructura o equipamiento, posteriormente al inicio, durante el proceso o conclusión de las obras efectuadas por el desarrollador, las obras deberán de efectuarse de forma subterránea; la autoridad establecerá las condiciones necesarias para que estas sean llevadas a cabo sin daños y perjuicios a las obras ya construidas y se conserve el estado físico e imagen del desarrollo en cumplimiento también a los reglamentos vigentes.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 81.
 
-Será obligación de los adquirentes de lotes, respetar la autorización municipal de fraccionamiento en materias de: potencial urbano, zonificación, alineamiento, restricciones en general, dimensiones y libertad de circulación de acera, altura máxima de construcción, imagen urbana y demás disposiciones aplicables.
+Será obligación de los adquirentes de lotes, respetar las características del fraccionamiento, en lo que respecta al uso del suelo, las densidades autorizadas, las dimensiones de los lotes, y no podrán subdividir los mismos en tamaños menores a los autorizados para el lote tipo de la zona en que se ubique; igualmente están obligados a respetar las restricciones establecidas como áreas no construibles y la zonificación autorizada al fraccionamiento, así como cumplir las disposiciones derivadas del reglamento autorizado correspondiente.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 81 BIS. Las autorizaciones de fraccionamiento deberán constar en escritura pública.
+
+No podrán celebrarse convenios, promesas de venta, compraventa, fideicomiso o cualquier otro contrato, respecto a lotes de fraccionamiento hasta que se encuentre inscrita la aprobación del fraccionamiento en el Registro Público de la Propiedad.
+
+Los Notarios exigirán como requisito indispensable para autorizar cualquiera de las operaciones señaladas en el párrafo anterior, que se les acredite que han cumplido con la obligación que en el mismo se contiene; quienes celebren las operaciones mencionadas en contravención de este artículo causarán perjuicio al Municipio y al comprador, y serán responsables a la sanción correspondiente.
 
 ###### ARTÍCULO 82.
 
@@ -1593,19 +2005,21 @@ IV. En todas las tipologías de fraccionamientos, la entrega-recepción podrá r
 
 Mientras no se realice la entrega-recepción, el fraccionador está obligado a la prestación de los servicios y al mantenimiento de la infraestructura y equipamiento, así como a mantener vigente la garantía otorgada.
 
-#### SECCIÓN V. DE CEMENTERIOS O PARQUES FUNERARIOS
+#### SECCIÓN I. HABITACIONAL URBANO
 
 ###### ARTÍCULO 83.
 
 Los fraccionamientos habitacionales urbanos, serán aquellos que se encuentren dentro del Límite de Centro de Población y en predios con potencial urbano. Se destinarán exclusivamente a la construcción de vivienda y usos compatibles siendo éstos unifamiliares, multifamiliares, de uso mixto o en régimen en condominio.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-El lote mínimo y su frente se determinarán en el Programa de Desarrollo Urbano Sostenible de Centro de Población en función del potencial urbano, de las alturas y características dispuestas para cada colonia, sector o centro de población. Cuando no se cuente con Programa de Desarrollo Urbano Sostenible de Centro de Población, se aplicará lo siguiente:
+El lote mínimo y su frente se determinarán en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población en función del potencial urbano, de las alturas y características dispuestas para cada colonia, sector o centro de población. Cuando no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, se aplicará lo siguiente:
 
 I. De tipo residencial.- Destinados para la construcción de vivienda unifamiliar, dúplex y edificios en régimen de propiedad en condominio, cuyos lotes tengan una superficie no menor a 300 metros cuadrados;
 
-lI. De tipo medio.- Destinados para la construcción de vivienda unifamiliar, dúplex y edificios en régimen de propiedad y condominio, cuyos lotes tengan una superficie no menor a 200 metros cuadrados;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. De tipo medio.- Destinados para la construcción de vivienda unifamiliar, dúplex y edificios en régimen de propiedad en condominio, cuyos lotes tengan una superficie no menor a 200 metros cuadrados;
 
 III. De interés social.- Destinados para la construcción de vivienda unifamiliar, dúplex y unidades habitacionales o edificios en régimen de propiedad en condominio, cuyos lotes tengan una superficie no menor a 120 metros cuadrados, y
 
@@ -1615,99 +2029,71 @@ En cualquier tipo de fraccionamiento, el frente de lote no podrá ser menor de s
 
 En los fraccionamientos habitacionales se garantizará un porcentaje de viviendas con características para personas con capacidades diferentes, adultos mayores, grupos vulnerables y grupos minoritarios. El porcentaje se determinará en función de los índices del sector o colonia donde se realice el fraccionamiento.
 
-#### SECCIÓN VI. DE LOS FRACCIONAMIENTOS POR SU EJECUCIÓN
+#### SECCIÓN II. HABITACIONAL RURAL O CAMPESTRE
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 84.
 
-Los fraccionamientos habitacionales rurales o campestres son los que se ubican fuera del Límite de Centro de Población determinado en el Programa de Desarrollo Urbano Sostenible de Centro de Población, y deberán contener:
+Los fraccionamientos habitacionales rurales o campestres son los que se ubican fuera del Límite de Centro de Población determinado en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población y sus características serán definidas en los Reglamentos Municipales de Desarrollo Urbano.
 
-I. La infraestructura, servicios y equipamiento necesarios para estos fraccionamientos, serán construidos por el fraccionador y operados por las entidades competentes;
+La infraestructura, servicios y equipamiento necesarios para estos fraccionamientos, serán construidos por el fraccionador. El desarrollo deberá constituirse bajo un régimen de propiedad en condominio.
 
-II. El aprovechamiento de estos fraccionamientos será agropecuario, servicios recreativos, servicios ambientales, alojamiento temporal, vivienda campestre y abasto, y
+El aprovechamiento de estos fraccionamientos será agropecuario, servicios recreativos, servicios ambientales, alojamiento temporal, vivienda campestre y abasto.
 
-III. El lote mínimo será el resultante de multiplicar por diez la superficie del lote mínimo reconocido en el centro de población más cercano.
+El lote mínimo será el resultante de multiplicar por diez la superficie del lote mínimo reconocido en el centro de población más cercano.
 
-Las condiciones específicas serán definidas en el Reglamento de esta Ley.
+#### SECCIÓN III. COMERCIALES Y DE SERVICIOS
 
-#### SECCIÓN I. DE LA URBANIZACIÓN
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 85.
 
-Los fraccionamientos comerciales y de servicios, se destinarán a la construcción de inmuebles en los que se efectúen operaciones mercantiles, así como para la prestación de servicios públicos o privados permitidos por la Ley. Para la determinación de su ubicación y características, se estará a lo dispuesto en el Programa de Desarrollo Urbano Sostenible respectivo.
+Los fraccionamientos comerciales y de servicios, se destinarán a la construcción de inmuebles en los que se efectúen operaciones mercantiles, así como para la prestación de servicios públicos o privados permitidos por la Ley. Para la determinación de su ubicación y características, se estará a lo dispuesto en el Plan o Programa de Desarrollo Urbano Sostenible respectivo.
 
-#### SECCIÓN II. DE LAS ÁREAS DE DOTACIÓN Y EQUIPAMIENTO
+#### SECCIÓN IV. INDUSTRIALES
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 86.
 
-Los fraccionamientos industriales se destinarán exclusivamente a la construcción de inmuebles para dicho fin; y se ubicarán de conformidad con lo que establezcan los Programas de Desarrollo Urbano Sostenible correspondiente.
+Los fraccionamientos industriales se destinarán a la construcción de inmuebles de esa tipología y los compatibles con la misma, y se ubicarán de conformidad con lo que establezca el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población correspondiente.
 
 ###### ARTÍCULO 87.
 
-Los fraccionamientos industriales se clasificarán de acuerdo al número de empleos directos, al tonelaje de la producción o al valor de la producción, pueden ser de industria pesada, media o ligera.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2013)
 
-#### SECCIÓN III. DE LA MOVILIDAD URBANA SOSTENIBLE
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN V. DE CEMENTERIOS O PARQUES FUNERARIOS
 
 ###### ARTÍCULO 88.
 
-Los fraccionamientos de cementerios o parques funerarios serán autorizados por el Ayuntamiento, sujetándose a las normas y dictámenes de las autoridades en materia de salud.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2013)
 
-#### SECCIÓN IV. DE LAS REDES DE AGUA POTABLE, ALCANTARILLADO Y ENERGÍA ELÉCTRICA
+#### SECCIÓN VI. DE LOS FRACCIONAMIENTOS POR SU EJECUCIÓN
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 89.
 
 La ejecución de las obras de urbanización en los fraccionamientos podrá autorizarse por el ayuntamiento, en las siguientes modalidades:
 
-I. Urbanización inmediata: es aquella en la que el fraccionador o promovente deberá ejecutar la totalidad de las obras de urbanización, dentro del plazo señalado en el calendario de obra autorizado por el ayuntamiento en la resolución respectiva; y deberá satisfacer los siguientes requisitos:
+I. Urbanización inmediata: es aquella en la que el fraccionador o promovente deberá ejecutar la totalidad de las obras de urbanización, dentro del plazo señalado en el calendario de obra autorizado por el ayuntamiento en la resolución respectiva;
 
-a. Red de agua potable y tomas domiciliarias;
+II. Urbanización por etapas: es aquella en la que debido a la extensión, características y costo del fraccionamiento, el ayuntamiento podrá autorizar al fraccionador o promovente a entregar zonas urbanizadas del desarrollo en diferentes tiempos, de acuerdo a los plazos, requisitos y zonas que se determinen en la autorización respectiva;
 
-b. Red de agua tratada para riego de áreas verdes de uso común;
-
-c. Red de alcantarillado y descargas domiciliarias;
-
-d. Red de electrificación;
-
-e. Red de alumbrado público;
-
-f. Nomenclatura y señalamiento de tránsito (horizontal y vertical);
-
-g. Guarniciones de concreto;
-
-h. Banquetas de concreto o similar, antiderrapante, con pendiente hacia la calle;
-
-i. Pavimento de concreto, asfalto o similar;
-
-j. Solución a los escurrimientos pluviales;
-
-k. Una salida de agua tratada para riego de áreas verdes de uso común por cada cien metros de frente;
-
-l. Arbolado en parques, jardines y camellones apropiados a la zona de que se trate.
-
-II. Urbanización por etapas: es aquella en la que debido a la extensión, características y costo del fraccionamiento, el ayuntamiento podrá autorizar al fraccionador o promovente la ejecución de las obras de urbanización inmediata y entrega por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la autorización respectiva, y
-
-III. Urbanización progresiva: es aquella en la que el fraccionador o promovente ejecutará las obras mínimas de urbanización, en el plazo y con las especificaciones reglamentarias que haya determinado el ayuntamiento; dichas obras podrán ejecutarse con la cooperación de los adquirentes de los lotes, predios, departamentos, viviendas, casas o locales; entendiéndose como urbanización mínima:
-
-a. Trazo de calles y lotificación;
-
-b. Red de agua potable y tomas domiciliarias o sistema de llaves o tomas públicas, así como la red de agua tratada para riego de áreas verdes de uso común;
-
-c. Red de alcantarillado y descargas domiciliarias o sistema similar;
-
-d. Red de electrificación;
-
-e. Subrasantes compactadas según especificaciones de pavimentos y terracerías del municipio, y
-
-f. Vialidad primaria y secundaria de acceso al fraccionamiento, que lo conecte con el resto del área urbana, pavimentada de manera adecuada.
-
-Tratándose de organismos del sector público federal, estatal o municipal, se entenderá como obras mínimas de urbanización las contenidas en los incisos a) y f) de la fracción anterior.
+III. Urbanización progresiva: es aquella en la que el fraccionador o promovente ejecutará las obras mínimas de urbanización, en el plazo y con las especificaciones reglamentarias que haya determinado el ayuntamiento; las obras podrán ejecutarse con la cooperación de los adquirentes de los lotes, predios, departamentos, viviendas, casas o locales.
 
 ###### ARTÍCULO 90.
 
 Los fraccionamientos de urbanización progresiva, podrán autorizarse:
 
-I. En la modalidad de lotes con servicios, para satisfacer la demanda de inmuebles, preferentemente para habitación popular;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. Cuando exista la posibilidad de que se urbanicen dichos predios con la participación directa de los adquirentes, y
+I. Cuando exista demanda de vivienda insatisfecha de la población que no sea sujeto de crédito por instituciones públicas o privadas.
+
+II. (DEROGADA, P.O. 23 DE OCTUBRE DE 2013)
 
 III. Para otorgar facilidades a quienes resulten damnificados por una catástrofe natural y no cuenten con asiento propio para su familia.
 
@@ -1715,9 +2101,13 @@ III. Para otorgar facilidades a quienes resulten damnificados por una catástrof
 
 Para la realización de los fraccionamientos a los que se refiere el artículo anterior, los tres órdenes de gobierno asegurarán con participación de los adquirentes:
 
-l. La dotación de suelo de acuerdo a los Programas de Desarrollo Urbano Sostenible definidos en esta Ley;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. La instalación y operación de las obras mínimas de infraestructura señaladas en las fracciones I, II, III, V, VI, VIII, IX y X del artículo 92;
+I. La donación de suelo de acuerdo a los Planes o Programas de Desarrollo Urbano Sostenible definidos en esta Ley;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. La instalación y operación de las obras mínimas de infraestructura señaladas en la fracción II, del artículo 92;
 
 III. La seguridad de tenencia del suelo y otorgar en su oportunidad el título de propiedad de cada predio;
 
@@ -1729,51 +2119,79 @@ VI. Apoyo a la autoconstrucción. Mediante la oferta de materiales económicos, 
 
 ### CAPÍTULO II. DE LAS NORMAS BÁSICAS DE URBANIZACIÓN
 
-#### SECCIÓN V. DE LA VIALIDAD
+#### SECCIÓN I. DE LA URBANIZACIÓN
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 92.
 
 Los fraccionamientos previstos en la presente Ley, deberán contar con las siguientes obras de urbanización, de conformidad con lo que a cada autoridad corresponda:
 
-I. Red de circulación peatonal y vehicular con normas de movilidad urbana sostenible, nomenclatura y señalamiento horizontal y vertical de tránsito;
+I. En los casos de urbanización en las modalidades inmediata y por etapas, se deberán satisfacer los siguientes requisitos:
 
-II. Red de abastecimiento de agua potable y de suministro, con sus correspondientes tomas domiciliarias y cabezales de las redes, con las características que para tal efecto se establezcan en las normas técnicas de la Comisión o del Organismo Operador del Agua;
+a. Red de circulación peatonal y vehicular con normas de movilidad urbana sostenible;
 
-III. Red de alcantarillado sanitario y descargas domiciliarias con las características que para tal efecto se establezcan en las normas técnicas del Organismo Operador del Agua;
+b. Red de agua potable y tomas domiciliarias;
 
-IV. Derogada.
+c. Red de agua tratada para riego de áreas verdes de uso común;
 
-V. Derogada.
+d. Red de alcantarillado y descargas domiciliarias;
 
-VI. Derogada.
+e. Red de electrificación;
 
-VII. Red de agua tratada, con sus correspondientes salidas, para riego de áreas verdes de uso común, equipamiento e industria cuando corresponda, previo dictamen de factibilidad otorgado por el Organismo Operador del Agua;
+f. Red de alumbrado público;
 
-VIII. Red de distribución de energía eléctrica, de alumbrado público y servicio doméstico, según se trate, de conformidad con las normas técnicas de la Comisión Federal de Electricidad;
+g. Nomenclatura y señalamiento horizontal y vertical de tránsito;
 
-IX. Guarniciones, acondicionamiento de la superficie de aceras y calles, previendo espacios para zonas de abordaje y descenso de movilidad urbana sostenible en vías rápidas y primarias;
+h. Guarniciones de concreto;
 
-X. Arbolado, jardinería y ornato, en los espacios reservados para áreas verdes;
+i. Banquetas de concreto o similar, antiderrapante, con pendiente hacia la calle;
 
-XI. Las demás obras de infraestructura primaria prevista, que afecten al fraccionamiento, o las que se requieran para la incorporación del mismo al área urbana;
+j. Pavimento de concreto, asfalto o similar;
 
-XII. Derogada.
+k. Solución a los escurrimientos pluviales;
 
-XIII. Mobiliario urbano en las áreas verdes y/o espacios libres del fraccionamiento.
+l. Una salida de agua tratada para riego de áreas verdes de uso común para cada cien metros de frente;
+
+m. Arbolado en parques, jardines y camellones apropiados a la zona de que se trate;
+
+n. Mobiliario urbano en las áreas verdes y/o espacios libres del fraccionamiento, y
+
+o. Las demás obras de infraestructura primaria prevista, que afecten al fraccionamiento, o las que se requieran para la incorporación del mismo al área urbana.
+
+En la urbanización por etapas, que propongan áreas verdes y de equipamiento concentradas para más de una de estas, la autoridad deberá de prever en la autorización respectiva, que se garantice que las etapas en desarrollo contarán, previo a su recepción, con las áreas verdes y de equipamiento, que permitan cubrir las necesidades de los habitantes de la etapa en proceso.
+
+II. En la urbanización progresiva se deberán satisfacer, lo siguiente:
+
+a. Red de agua potable y tomas domiciliarias;
+
+b. Red de alcantarillado y descargas domiciliarias;
+
+c. Red de electrificación;
+
+d. Solución a los escurrimientos pluviales;
+
+e. Trazo de Calles y lotificación;
+
+f. Vialidad primaria o secundaria de acceso al fraccionamiento que lo conecte con el resto del área urbana, pavimentada de manera adecuada.
+
+g. Subrasantes compactadas según especificaciones del Municipio para pavimento y terracerías.
+
+Tratándose de organismos del sector público federal, estatal o municipal, se entenderá como obras mínimas de urbanización las contenidas en los incisos d, e y f. Una vez dada la asignación total de los lotes del fraccionamiento, la autoridad correspondiente, en conjunto con los vecinos buscarán la introducción de los servicios de red de agua potable con tomas domiciliarias, red de alcantarillado con descargas domiciliarias y red de electrificación.
 
 Donde se incluyan zonas comerciales, el Municipio considerará las disposiciones reglamentarias, aplicables a la zona comercial, incluyéndolas en el proyecto y autorización respectiva.
 
-Se exceptúan de la realización de las obras a que se refiere la fracción II del presente artículo, los fraccionamientos suburbanos del tipo de explotación agropecuaria, en los que se deberán construir sistemas de tratamiento de aguas residuales sanitarias, con las características que señale la autoridad competente, y los fraccionamientos industriales, además de lo que señala la fracción II, se deberán construir sistemas de tratamiento de aguas residuales sanitarias, con las características que le señale la autoridad competente.
+Se exceptúan de la realización de las obras a que se refiere el inciso b de la fracción I del presente artículo, los fraccionamientos suburbanos del tipo de explotación agropecuaria, en los que se deberán construir sistemas de tratamiento de aguas residuales sanitarias, con las características que señale la autoridad competente, y en los fraccionamientos industriales, además de lo que señala el inciso b de la fracción I, se deberán construir sistemas de tratamiento de aguas residuales sanitarias, con las características que le señale la autoridad competente.
 
 Si el centro de población o la zona urbana en que se ubique el fraccionamiento cuenta con plantas de tratamiento y red de distribución de agua tratada, el ayuntamiento, a través del Organismo Operador de Agua, establecerá al fraccionador las consideraciones pertinentes para su conexión.
 
-En el caso de que el centro de población o la zona urbana en que se ubique el fraccionamiento, tenga condiciones topográficas difíciles de superar por su alto costo de construcción, la autoridad competente o el organismo operador de agua, podrán eximir al fraccionador de su obligación de construir la red de alcantarillado sanitario y, en su lugar, autorizar sistemas de tratamiento de aguas residuales sanitarias.
+En el caso de que el centro de población o la zona urbana en que se ubique el fraccionamiento, tenga condiciones topográficas difíciles de superar por su alto costo de construcción, la autoridad competente o el Organismo Operador de Agua, podrán eximir al fraccionador de su obligación de construir la red de alcantarillado sanitario y, en su lugar, autorizar sistemas de tratamiento de aguas residuales sanitarias.
 
-Los fraccionamientos de urbanización progresiva deberán contar cuando menos con las obras mínimas de infraestructura señaladas en las fracciones l, II, III, VIII, IX y X del presente artículo.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 93.
 
-Para el diseño, aprobación y construcción de las obras de urbanización que deban de realizarse en los fraccionamientos, se deberán observar las disposiciones que al respecto establezca el programa de desarrollo urbano del centro de población de que se trate, o de las normas técnicas que al efecto emita la Secretaría y demás disposiciones jurídicas aplicables.
+Para el diseño, aprobación y construcción de las obras de urbanización que deban de realizarse en los fraccionamientos, se deberán observar las disposiciones que al respecto establezca el plan o programa de desarrollo urbano del centro de población de que se trate, o de las normas técnicas que al efecto emita la Secretaría y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 94.
 
@@ -1787,9 +2205,11 @@ Cuando las obras de urbanización se tuvieren que ejecutar por etapas, los traba
 
 En el caso de que el fraccionamiento o la primera etapa por urbanizar, no colinde con zona urbanizada, el fraccionador, de conformidad con el estudio de impacto urbano y ambiental, iniciará los trabajos correspondientes. Si fuere necesario cruzar terrenos propiedad de terceros, se procederá conforme a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 96.
 
-El Municipio, siempre que exista causa justificada, podrá enajenar, traspasar o ejercer cualquier acto de dominio, respecto de las áreas de equipamiento urbano que por la aplicación de esta Ley reciba en donación, y cuando hayan pasado cinco años y el equipamiento para el que fue destinado no se haya consolidado. Previa desafectación de dichos bienes del dominio público y autorización del Congreso del Estado.
+El Municipio, siempre que exista causa justificada, podrá enajenar, traspasar o ejercer cualquier acto de dominio, respecto de las áreas de equipamiento urbano que por la aplicación de esta Ley reciba en donación, y cuando hayan pasado cinco años y el equipamiento para el que fue destinado no se haya consolidado. Previo cumplimiento del procedimiento para la desafectación de bienes del dominio público que establece el Código Municipal para el Estado de Chihuahua.
 
 ###### ARTÍCULO 97.
 
@@ -1799,9 +2219,11 @@ El fraccionador evitará la interferencia de sus propias obras o instalaciones c
 
 El Municipio fijará, dada la naturaleza del daño o la urgencia del caso, un plazo para que tales reparaciones queden ejecutadas. Si llegado el plazo, el fraccionador no hubiere concluido tales reparaciones, el Municipio procederá a ejecutarlas, debiendo enterar la autoridad municipal la relación de las erogaciones hechas, para que proceda a hacer el cobro al fraccionador de la liquidación correspondiente y sus multas y recargos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 98.
 
-Si el fraccionador hubiera ejecutado obras en contravención con las especificaciones y normas señaladas por el Municipio en la autorización correspondiente, será responsable de los daños causados por las mismas y deberá, en su caso, volverlas a construir por su cuenta con las especificaciones y normas requeridas.
+Si el fraccionador hubiera ejecutado obras en contravención con las especificaciones y normas autorizadas por el Municipio, será responsable de los daños causados por las mismas y deberá, en su caso, volverlas a construir por su cuenta con las especificaciones y normas requeridas.
 
 Esta responsabilidad tendrá, en su caso, el carácter de solidaria y conjunta con el propietario del terreno objeto del fraccionamiento.
 
@@ -1815,45 +2237,61 @@ Cuando para unir un fraccionamiento en proyecto con otras zonas urbanizadas, sea
 
 En este caso, el fraccionador quedará obligado a urbanizarlas a su costa.
 
-#### SECCIÓN VI. DE LA PAVIMENTACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+#### SECCIÓN II. DE LAS ÁREAS DE DONACIÓN Y EQUIPAMIENTO
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 101.
 
-Las áreas de dotación son aquellas superficies de terreno que se requieren para fines públicos, y se componen del suelo que entrega el fraccionador, promovente o promotor al Municipio, de forma gratuita y sin gravamen, que se destina a infraestructura, equipamiento y áreas verdes de alcance vecinal, sectorial, urbano o regional.
+Las áreas de donación son aquellas superficies de terreno que se requieren para fines públicos, y se componen del suelo que entrega el fraccionador, promovente o promotor al Municipio, de forma gratuita y sin gravamen, que se destina a infraestructura, equipamiento y áreas verdes de alcance vecinal, sectorial, urbano o regional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 102.
 
-El equipamiento estará estrechamente vinculado a la población y la superficie que ocupa. El requerimiento de equipamiento generado por la construcción de vivienda en fraccionamientos y conjuntos urbanos, se resolverá en las áreas de dotación definidas en los Programas de Desarrollo Urbano Sostenible que correspondan, y se ubicarán dentro de las mismas unidades o una escala urbana mayor, considerando las siguientes disposiciones:
+El equipamiento estará estrechamente vinculado a la población y la superficie que ocupa. El requerimiento de equipamiento generado por la construcción de vivienda en fraccionamientos y conjuntos urbanos, se resolverá en las áreas de donación definidas en los Planes o Programas de Desarrollo Urbano Sostenible de Centro de Población que correspondan, y se ubicarán dentro de las mismas unidades o una escala urbana mayor, considerando las siguientes disposiciones:
 
-I. La dosificación de equipamiento se hará de acuerdo con los criterios técnicos y normas específicas establecidas en el Sistema Normativo de Equipamiento Urbano (SNEU) de la Secretaría de Desarrollo Social (SEDESOL);
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. La dosificación de equipamiento se hará de acuerdo con los criterios técnicos y normas específicas establecidas en el Sistema Normativo de Equipamiento Urbano.
 
 II. La determinación de la superficie necesaria para el equipamiento se determinará a partir del equipamiento existente en la colonia, sector o centro de población;
 
-III. Cuando la población del fraccionamiento o conjunto habitacional no justifique la dotación de elementos completos de equipamiento, o que se requiera de equipamientos a una escala tal que rebasen la factibilidad económica del conjunto o fraccionamiento, se podrán ceder áreas de dotación en una ubicación fuera del conjunto o fraccionamiento urbano del que se trate, de acuerdo al Programa de Desarrollo Urbano Sostenible correspondiente.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Cuando la población del fraccionamiento o conjunto habitacional no justifique la donación de elementos completos de equipamiento, o que se requiera de equipamientos a una escala tal que rebasen la factibilidad económica del conjunto o fraccionamiento, se podrán ceder áreas de donación en una ubicación fuera del conjunto o fraccionamiento urbano del que se trate, de acuerdo al Plan o Programa de Desarrollo Urbano Sostenible correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 103.
 
-Los mecanismos para la adquisición de suelo para equipamiento público, se determinarán de acuerdo a los requerimientos consignados en los Programas de Desarrollo Urbano Sostenible vigentes, y serán:
+Los mecanismos para la adquisición de suelo para equipamiento público, se determinarán de acuerdo a los requerimientos consignados en los Planes o Programas de Desarrollo Urbano Sostenible vigentes, y serán:
 
 I. A nivel vecinal; la transmisión directa de terrenos por los fraccionadores, promotores o promoventes de acuerdo al porcentaje de la superficie total del terreno a fraccionar, atendiendo lo que disponga esta Ley;
 
 II. A nivel sectorial, urbano o regional:
 
-a) La transmisión directa de terrenos por los fraccionadores, promotores o promoventes donde la autoridad municipal lo indique, dentro del mismo centro de población y de acuerdo a los Programas de Desarrollo Urbano Sostenible correspondientes;
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+a) La transmisión directa de terrenos por los fraccionadores, promotores o promoventes donde la autoridad municipal lo indique, dentro del mismo centro de población y de acuerdo a los Planes o Programas de Desarrollo Urbano Sostenible correspondientes;
 
 b) La adquisición de predios baldíos, infrautilizados o subaprovechados, mediante los recursos generados por la aplicación de los instrumentos definidos en el Título Séptimo de esta Ley.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 104.
 
-El porcentaje, superficie mínima, forma de calcular y lineamientos para la ubicación de las áreas de dotación, cuyo destino sea el equipamiento y áreas verdes, serán definidos en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+El porcentaje, superficie mínima, forma de calcular y lineamientos para la ubicación de las áreas de donación, cuyo destino sea el equipamiento y áreas verdes, serán definidos en el Plan o Programa de Desarrollo Urbano Sostenible del Centro de Población.
 
-La superficie de las áreas de dotación a que se refiere el párrafo anterior, en ningún caso podrá ser menor al resultado del cálculo establecido en el presente artículo, y podrá ser superior hasta en un 8% adicional, siempre y cuando este porcentaje adicional sea justificado en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-En las Zonas o Municipios, donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, o en el mismo no se establezcan las áreas de dotación, se aplicará lo siguiente:
+La superficie de las áreas de donación a que se refiere el párrafo anterior, en ningún caso podrá ser menor al resultado del cálculo establecido en el presente artículo, y podrá ser superior hasta en un 8% adicional, siempre y cuando este porcentaje adicional sea justificado en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+En las Zonas o Municipios, donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, o en el mismo no se establezcan las áreas de donación, se aplicará lo siguiente:
 
 I. En fraccionamientos habitacionales:
 
@@ -1869,11 +2307,17 @@ III. En fraccionamientos industriales, el diez por ciento de la superficie a fra
 
 IV. En fraccionamientos campestres, el diez por ciento de la superficie a fraccionar.
 
-El área de dotación deberá calcularse sobre la superficie que resulte de descontar a la superficie total del proyecto, las afectaciones o limitaciones por vialidades primarias, restricciones federales, estatales y/o municipales, tales como derecho de vía, cauces y zonas federales de arroyos y ríos, entre otros. En caso de que la superficie afectada o limitada deje de serlo por cualquier circunstancia, para promover su desarrollo, deberá sujetarse al procedimiento establecido por la Ley.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-Las áreas de dotación contempladas en este artículo deberán siempre cumplir con lo previsto en el artículo 105 de la Ley.
+El área de donación deberá calcularse sobre la superficie que resulte de descontar a la superficie total del proyecto, las afectaciones o limitaciones por vialidades primarias, restricciones federales, estatales y/o municipales, tales como derecho de vía, cauces y zonas federales de arroyos y ríos, entre otros. En caso de que la superficie afectada o limitada deje de serlo por cualquier circunstancia, para promover su desarrollo deberá sujetarse al procedimiento establecido por la Ley.
 
-En cada municipio que cuente con un Instituto de Planeación, se creará un organismo administrador de las áreas de dotación para equipamiento urbano, por lo que las dotaciones deberán pasar a un fideicomiso, el cual llevará a cabo, entre otras, las siguientes acciones:
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+Las áreas de donación contempladas en este artículo deberán siempre cumplir con lo previsto en el artículo 105 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+En cada municipio que cuente con un Instituto de Planeación, se creará un organismo administrador de las áreas de donación para equipamiento urbano, por lo que las donaciones deberán pasar a un fideicomiso, el cual llevará a cabo, entre otras, las siguientes acciones:
 
 a) Adquirir reservas territoriales según requerimientos de cada dependencia;
 
@@ -1887,19 +2331,23 @@ e) Evaluar las solicitudes para la adquisición de las reservas, y
 
 f) Elaborar y publicar un plan anual de estudios y necesidades de reservas.
 
-El organismo administrador de las áreas de dotación tendrá la obligación de utilizar el monto recibido para la adquisición de terrenos destinados a equipamiento y áreas verdes.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+El organismo administrador de las áreas de donación tendrá la obligación de utilizar el monto recibido para la adquisición de terrenos destinados a equipamiento y áreas verdes.
 
 Participarán en la integración del organismo administrador, representantes de las Autoridades Gubernamentales, Municipio y Estado, Iniciativa Privada, Institutos de Planeación y Colegios de Profesionistas ligados al tema.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-ARTÍCULO 104 bis. En las Zonas o Municipios, donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, o en el mismo no se establezcan las áreas de dotación, se podrá ampliar el porcentaje a que se refieren las fracciones I a IV del artículo anterior, en un 8% adicional, cuando en el predio a urbanizar se requieran realizar obras de captación pluvial con el fin de hacer apto el predio para el desarrollo urbano. Dicho porcentaje de dotación adicional deberá ser determinado y justificado técnicamente mediante un estudio hidrológico a petición de la autoridad, obligándose el desarrollador a solventar y realizar las obras que se determinen en dicho estudio.
+ARTÍCULO 104 BIS.- En las Zonas o Municipios, donde no se cuente con Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, o en el mismo no se establezcan las áreas de donación, se podrá ampliar el porcentaje a que se refieren las fracciones I a IV del artículo anterior hasta un 8% adicional, cuando en el predio a urbanizar se requieran realizar obras de captación pluvial con el fin de hacer apto el predio para el desarrollo urbano. Dicho porcentaje de donación adicional deberá ser determinado y justificado técnicamente mediante un estudio hidrológico a petición de la autoridad, obligándose el desarrollador a solventar y realizar las obras que se determinen en dicho estudio.
 
 ###### ARTÍCULO 105.
 
 La localización de los terrenos que deban donarse se fijará, de común acuerdo, entre la autoridad municipal y el fraccionador.
 
-No podrán aceptarse como áreas de dotación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+No podrán aceptarse como áreas de donación:
 
 I. Aquellas con pendientes mayores al quince por ciento. En estos casos, sólo podrán aceptarse para parques y jardines, siempre y cuando no excedan del treinta por ciento;
 
@@ -1909,19 +2357,27 @@ III. Terrenos nivelados mediante rellenos a base de escombro y basura, y
 
 IV. Camellones en vialidad primaria. En todo caso, se podrán aceptar en vialidades locales para parques y jardines, siempre y cuando el camellón sea en promedio igual o mayor a nueve metros en toda su sección.
 
-Toda área de dotación, destinada a equipamiento, deberá contar con servicios de agua potable y alcantarillado, aceras y guarniciones.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-El área de dotación destinada a parques y jardines, no será inferior al treinta por ciento del total de superficie de dotación cuando el desarrollo sea mayor de una hectárea. En ella se resolverá la absorción de aguas pluviales del fraccionamiento. Deberán entregarse con tomas de agua, descarga de drenaje sanitario, aceras, guarniciones, alumbrado público y arborización.
+Toda área de donación, destinada a equipamiento, deberá contar con servicios de agua potable y alcantarillado, aceras y guarniciones.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+El área de donación destinada a parques y jardines, no será inferior al treinta por ciento del total de superficie de donación cuando el desarrollo sea mayor de una hectárea. Deberán entregarse con tomas de agua, descarga de drenaje sanitario, aceras, guarniciones, alumbrado público y arborización.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 106.
 
-La superficie de dotación destinada para equipamiento, será utilizada de acuerdo a las normas de dosificación establecidas por la autoridad competente.
+La superficie de donación destinada para equipamiento, será utilizada de acuerdo a las normas de dosificación establecidas por la autoridad competente.
 
-#### SECCIÓN I. DE LA AUTORIZACIÓN DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES
+#### SECCIÓN III. DE LA MOVILIDAD URBANA SOSTENIBLE
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 107.
 
-El diseño de la red vial en fraccionamientos y conjuntos urbanos, será a partir de un estudio para la integración del proyecto con las vialidades existentes y proyectadas, de acuerdo con los principios de movilidad urbana sostenible y lo dispuesto en los Programas de Desarrollo Urbano Sostenible aplicables y las demandas de movilidad del nuevo desarrollo.
+El diseño de la red vial en fraccionamientos y conjuntos urbanos, será a partir de un estudio para la integración del proyecto con las vialidades existentes y proyectadas, de acuerdo con los principios de movilidad urbana sostenible y lo dispuesto en los Planes o Programas de Desarrollo Urbano Sostenible aplicables y las demandas de movilidad del nuevo desarrollo.
 
 ###### ARTÍCULO 108.
 
@@ -1931,7 +2387,7 @@ I. Circulación diferenciada para peatones de toda condición, transporte no mot
 
 II. Zonas de abordaje y descenso para usuarios del transporte público de toda condición, en todo clima y seguras.
 
-#### SECCIÓN II. DE LA PREVENTA DE LOTES DE FRACCIONAMIENTOS
+#### SECCIÓN IV. DE LAS REDES DE AGUA POTABLE, ALCANTARILLADO Y ENERGÍA ELÉCTRICA
 
 ###### ARTÍCULO 109.
 
@@ -1977,7 +2433,7 @@ La transformación y distribución de energía eléctrica y el alumbrado públic
 
 Para la recepción de las obras de alumbrado público, se deberá estar a lo dispuesto en el Código Eléctrico Nacional y el Reglamento de Obras e Instalaciones Eléctricas de la Comisión Federal de Electricidad.
 
-#### SECCIÓN III. DE LA AUTORIZACIÓN DE SUBDIVISIONES, FUSIONES, SEGREGACIONES, NOTIFICACIONES Y RELOTIFICACIONES DE PREDIOS
+#### SECCIÓN V. DE LA VIALIDAD
 
 ###### ARTÍCULO 120.
 
@@ -2005,9 +2461,15 @@ IV. Quince metros en fraccionamientos comerciales, y
 
 V. Ocho metros sin contar las banquetas y una longitud máxima de cien metros lineales, en calles de tránsito vehicular restringido.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 122.
 
-Tratándose de vialidades regionales, primarias y secundarias, se estará a lo dispuesto por el Plan de Desarrollo Urbano Sostenible de Centro de Población.
+Tratándose de vialidades regionales, primarias y secundarias, se estará a lo dispuesto por el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+#### SECCIÓN VI. DE LA PAVIMENTACIÓN
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
 ###### ARTÍCULO 123.
 
@@ -2033,7 +2495,9 @@ Para delimitar las calles, se construirán guarniciones de concreto hidráulico,
 
 En los centros de población estratégicos de nivel estatal y regional, la pavimentación será de concreto hidráulico:
 
-I. En las vialidades regionales y primarias que determine el Plan de Desarrollo Urbano Sostenible de Centros de Población;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. En las vialidades regionales y primarias que determine el Plan o Programa de Desarrollo Urbano Sostenible de Centros de Población;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -2055,53 +2519,91 @@ En todas las fases de construcción de pavimentos y terracerías, se deberá cum
 
 Para la recepción de las obras de pavimentación por parte de las autoridades municipales, se requiere que éstas se encuentren limpias y hayan sido retirados los sobrantes del material empleado en la construcción.
 
-### CAPÍTULO III. DE LOS CONJUNTOS URBANOS EN RÉGIMEN DE CONDOMINIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO III. DE LOS FRACCIONAMIENTOS Y EDIFICACIONES EN RÉGIMEN DE PROPIEDAD EN CONDOMINIO
+
+ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)
+
+#### SECCIÓN I. DE LOS FRACCIONAMIENTOS EN RÉGIMEN DE PROPIEDAD EN CONDOMINIO
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 130.
 
-El Conjunto Urbano que se define en el artículo 5 de la presente Ley, podrá ser habitacional, de servicios, comercial, industrial o mixto, de acuerdo a los usos definidos en los Programas de Desarrollo Urbano de Centro de Población.
+Son Fraccionamientos en régimen de propiedad en condominio, la división de un terreno en manzanas y lotes, que requiere del trazo de una o más áreas de circulación interna y la ejecución de obras de urbanización e infraestructura, equipamiento y servicios urbanos. Las áreas de circulación interna y las áreas verdes serán de propiedad común.
 
-Se deberá obtener del Municipio la autorización para la subdivisión de los predios en áreas privadas y comunes, la cual se insertará en la escritura pública respectiva.
+Los Fraccionamientos que se constituyan bajo el régimen de propiedad en condominio estarán sujetos a los procedimientos establecidos en el reglamento municipal correspondiente y en la Ley aplicable en la materia. Además deberán satisfacer los mismos requisitos de urbanización dispuestos en el artículo 92, fracción I de la presente Ley, y obtener del Municipio las autorizaciones correspondientes para la lotificación de los predios en áreas privadas y comunes, la cual se insertará en la escritura pública respectiva.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+Cualquiera que fuera la naturaleza del condominio, para su autorización el Ayuntamiento deberá emitir un dictamen técnico, en su caso, sujetándose a lo establecido en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 131.
 
-Todo conjunto urbano en régimen en condominio, deberá satisfacer los requisitos dispuestos en el artículo 92 de la presente Ley.
+Son disposiciones generales para los Fraccionamientos sujetos al régimen de propiedad en condominio, las siguientes:
+
+I. Todas las unidades privativas deberán tener acceso al exterior mediante circulación interna;
+
+II. Los Fraccionamientos en régimen de propiedad en condominio contarán con conexiones únicas a las redes de infraestructura, pero cada condómino pagará por separado los servicios que a su unidad privativa correspondan en exclusiva, así como la parte proporcional en los servicios comunes que se generen. El mantenimiento de dicha red será responsabilidad exclusiva de los condóminos;
+
+III. No se permitirá la existencia de vías públicas dentro de los límites del Fraccionamiento en régimen de propiedad en condominio; pero en los casos en que se prevea en el Plan o Programa de Desarrollo Urbano vigente, la necesidad de continuar vialidades primarias, la autoridad municipal fijará la sección vial mínima obligatoria y los puntos de conexión con la estructura vial de la ciudad. El promotor deberá respetarlas y, a partir de ellas, elaborar y desarrollar el proyecto, de tal manera que las circulaciones internas sean para uso exclusivo del condominio.
+
+IV. Solo se podrán realizar actos, convenios y contratos traslativos de dominio o promesa de los mismos, cuando se encuentren terminadas y recibidas las obras de urbanización exteriores del condominio, en caso de que las hubiera; ejecutadas las instalaciones y construcciones de las áreas comunes.
+
+V. En la escritura pública de constitución del Fraccionamiento en régimen de propiedad en condominio, deberá insertarse o agregarse al apéndice de la escritura, copia íntegra de la autorización de la lotificación del predio y sus construcciones en áreas privadas y comunes emitida por el Municipio correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 132.
 
-Son disposiciones generales para los conjuntos sujetos al régimen de propiedad en condominio, los siguientes:
+Los Fraccionamientos en régimen de propiedad en condominio, deberán donar al Municipio las áreas e instalaciones necesarias para equipamiento y servicios que demanden dichos desarrollos, en una proporción equivalente a la mitad de la requerida en los términos del artículo 104 de la presente Ley, la cual deberá tener frente a vía pública.
 
-I. Todas las áreas privadas del conjunto deberán tener acceso del exterior mediante circulación interna, la cual no podrá continuar hasta el límite del conjunto; salvo disposición expresa en contrario contenida en el reglamento interior del condominio;
+En dichos Fraccionamientos, deberá además destinarse para parques y jardines de uso común, otro tanto igual de la superficie donada.
 
-II. Los conjuntos contarán con conexiones únicas a las redes de infraestructura, pero cada condómino pagará por separado los servicios que a su local o vivienda correspondan en exclusiva, así como la parte proporcional en los servicios comunes que se generen. El mantenimiento de dicha red será responsabilidad exclusiva de los condóminos;
+En el caso de que el fraccionamiento en régimen de propiedad en condominio se pretenda realizar dentro de un fraccionamiento previamente autorizado bajo cualquier régimen de propiedad, no requerirá donación adicional para equipamiento. Quienes pretendan aumentar la densidad original, sí deberán realizar una donación adicional. Dicha donación deberá ser el equivalente a la diferencia entre lo donado inicialmente por el fraccionamiento en régimen de propiedad en condominio donde se encuentra el predio y lo que debería donarse con la nueva densidad, de acuerdo a lo dispuesto por el párrafo anterior.
 
-III. No se permitirá la existencia de vías públicas dentro de los límites del conjunto urbano en régimen de condominio;
-
-IV. En tal sentido, la autoridad municipal fijará la sección vial mínima obligatoria y los puntos de conexión con la estructura vial de la ciudad. En los casos en que se prevea en el Programa de Desarrollo Urbano vigente, la necesidad de continuar vialidades primarias, el promotor deberá respetarlas y, a partir de ellas, elaborar y desarrollar el proyecto, de tal manera que las circulaciones internas sean para uso exclusivo del condominio.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 133.
 
-La autorización de conjuntos urbanos sujetos al régimen de propiedad en condominio, los cuales podrán ser de tipo horizontal, vertical o mixto, estará sujeta a los procedimientos establecidos en esta Ley, para los trámites de autorización de fraccionamientos.
+Cuando el régimen de propiedad en condominio se disuelva o extinga, las vías internas y las áreas comunes podrán pasar al patrimonio municipal, previo dictamen técnico emitido por la autoridad competente y aprobación del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN II. DE LAS EDIFICACIONES EN RÉGIMEN DE PROPIEDAD EN CONDOMINIO
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 134.
 
-Los conjuntos urbanos de tipo habitacional en régimen de condominio, sólo podrán desarrollarse en las zonas que establezcan los programas de desarrollo urbano vigentes, y deberán donar al Municipio las áreas e instalaciones necesarias para equipamiento y servicios que demanden dichos desarrollos, en una proporción equivalente a la requerida para los fraccionamientos, conforme lo dispone el artículo 104.
+Las edificaciones en régimen de propiedad en condominio, podrán ser habitacionales, de servicios, comerciales, industriales o mixtos, de acuerdo a los usos definidos en los Planes o Programas de Desarrollo Urbano de Centro de Población.
+
+La autorización de edificaciones en régimen de propiedad en condominio estará sujeta a los procedimientos establecidos en el reglamento municipal correspondiente y en la Ley aplicable en la materia.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 135.
 
-En la escritura pública de constitución de régimen en condominio, deberá insertarse o agregarse al apéndice de la escritura, copia íntegra de la autorización de la subdivisión del predio y sus construcciones en áreas privadas y comunes emitida por el Municipio correspondiente.
+Las edificaciones en régimen de propiedad en condominio, solo podrán desarrollarse en las zonas que establezcan los planes o programas de desarrollo urbano vigentes.
 
-Para los condominios sólo se podrán realizar actos, convenios y contratos traslativos de dominio o promesa de los mismos, cuando se encuentren terminadas y recibidas las obras de urbanización exteriores del condominio, en caso de que las hubiera; ejecutadas las instalaciones y construcciones de las áreas comunes.
+Cuando el predio donde se pretenda realizar la edificación sea parte de un fraccionamiento previamente autorizado, no deberá darse donación adicional. Quienes pretendan aumentar la densidad original, sí deberán realizar una donación adicional. Dicha donación deberá ser el equivalente a la diferencia entre lo donado inicialmente por el fraccionamiento donde se encuentra el predio y lo que debería donarse con la nueva densidad, de acuerdo a lo dispuesto por el artículo 104 de la presente Ley.
 
-Para el caso de desarrollos en condominios a que se refiere el artículo anterior, será necesario además transferir al Municipio las áreas de donación y, en su caso, del equipamiento urbano respectivo.
+Cuando el predio donde se pretenda realizar la edificación no sea parte de un fraccionamiento previamente autorizado bajo cualquier régimen de propiedad, deberá realizarse la donación según lo dispuesto por el artículo 104 de la presente Ley, como si se tratase de un fraccionamiento.
 
-El Municipio otorgará la autorización cuando se cumplan dichos requisitos, o se garantice la ejecución de las obras, conforme la presente Ley.
+Cuando se pretenda realizar una edificación en régimen de propiedad en condominio, en un predio donde previamente hubiese existido de manera permanente una edificación de veinticinco años o más de antigüedad, o cuando la superficie del predio en el cual se va a realizar la edificación sea menor a dos mil metros cuadrados, sin que esta superficie sea resultante de una acción previa de subdivisión, no deberá darse donación.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 136.
 
-Cuando el régimen de propiedad en condominio se disuelva o extinga, las vías internas y las áreas comunes pasarán, de forma inmediata, al patrimonio municipal, quedando a cargo del mantenimiento y conservación, la autoridad municipal.
+Son disposiciones generales para las Edificaciones sujetas al régimen de propiedad en condominio, las siguientes:
+
+I. Todas las unidades privativas deberán de tener acceso al exterior mediante áreas de circulación interna comunes;
+
+II. Contarán con conexiones únicas a las redes de infraestructura, pero cada condómino pagará por separado los servicios que a su unidad privativa correspondan en exclusiva, así como la parte proporcional en los servicios comunes que se generen. El mantenimiento de dicha red será responsabilidad exclusiva de los condóminos;
+
+III. En la escritura pública de constitución de régimen en condominio, deberá insertarse o agregarse al apéndice de la escritura, copia íntegra de la autorización de la constitución del régimen de propiedad en condominio y sus construcciones en unidades privativas y áreas comunes emitida por el Municipio correspondiente.
 
 ### CAPÍTULO IV. DE LA VIVIENDA EN EL DESARROLLO URBANO SOSTENIBLE
 
@@ -2115,9 +2617,11 @@ Sin menoscabo del cumplimiento de la legislación aplicable, los constructores, 
 
 El Gobierno del Estado concederá, a través de las instancias competentes, los beneficios, estímulos y facilidades que se consignan en esta Ley, así como las contenidas en otras disposiciones legales y administrativas vigentes.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 139.
 
-La Secretaría, los Municipios y el Instituto de la Vivienda del Estado, de acuerdo a sus atribuciones, gozarán de la exención de impuestos, derechos y aprovechamientos estatales y municipales que por adquisición, enajenación, diseño, construcción, valuación, escrituración y toda aquella actividad relacionada con los programas de vivienda, se encuentre gravada en alguna disposición legal estatal y/o municipal.
+La Secretaría, los Municipios y la Comisión Estatal de Vivienda, Suelo e Infraestructura del Estado, de acuerdo a sus atribuciones, gozarán de la exención de impuestos, derechos y aprovechamientos estatales y municipales que por adquisición, enajenación, diseño, construcción, valuación, escrituración y toda aquella actividad relacionada con los programas de vivienda, se encuentre gravada en alguna disposición legal estatal y/o municipal.
 
 ###### ARTÍCULO 140.
 
@@ -2125,15 +2629,19 @@ Los programas de construcción de viviendas de interés social y popular, con ap
 
 ## TÍTULO SEXTO. DEL CONTROL DEL DESARROLLO URBANO
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 141.
 
-Se entenderá por Control del Desarrollo Urbano, al conjunto de actos y procedimientos por medio de los cuales, las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, supervisan que las acciones urbanas se lleven a cabo de acuerdo con lo dispuesto por esta Ley, su Reglamento, los Programas de Desarrollo Urbano Sostenible y demás ordenamientos aplicables.
+Se entenderá por Control del Desarrollo Urbano, al conjunto de actos y procedimientos por medio de los cuales, las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, supervisan que las acciones urbanas se lleven a cabo de acuerdo con lo dispuesto por esta Ley, su Reglamento, los Planes o Programas de Desarrollo Urbano Sostenible y demás ordenamientos aplicables.
 
 ### CAPÍTULO I. DE LAS LICENCIAS, CONSTANCIAS Y AUTORIZACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 142.
 
-Corresponde al Municipio expedir las licencias, constancias y autorizaciones, en las cuales se señalarán los usos, destinos permitidos, condicionados o prohibidos, con base en la zonificación primaria y la secundaria prevista en los Programas de Desarrollo Urbano Sostenible, y serán las siguientes:
+Corresponde al Municipio expedir las licencias, constancias y autorizaciones, en las cuales se señalarán los usos, destinos permitidos, condicionados o prohibidos, con base en la zonificación primaria y la secundaria prevista en los Planes o Programas de Desarrollo Urbano Sostenible, y serán las siguientes:
 
 I. Licencia de uso de suelo;
 
@@ -2157,17 +2665,23 @@ X. Las demás señaladas en los reglamentos municipales correspondientes.
 
 En el caso de zonas o inmuebles declarados como patrimonio arqueológico, artístico, histórico o cultural, por el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes o declarados Patrimonio Cultural del Estado de Chihuahua, deberán además, obtener la autorización correspondiente.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 143.
 
-Las licencias, permisos, autorizaciones o concesiones que se expidan en contravención de esta Ley, sus reglamentos o los Programas de Desarrollo Urbano Sostenible, serán nulas. Las licencias, permisos y autorizaciones en un centro de población podrán ser otorgados, siempre y cuando la densidad de población se mantenga dentro de los límites establecidos por sector y por colonia.
+Las licencias, permisos, autorizaciones o concesiones que se expidan en contravención de esta Ley, sus reglamentos o los Planes o Programas de Desarrollo Urbano Sostenible, serán nulas. Las licencias, permisos y autorizaciones en un centro de población podrán ser otorgados, siempre y cuando la densidad de población se mantenga dentro de los límites establecidos por sector y por colonia.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 144.
 
-La persona física o jurídica, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano, deberá obtener, previa a la ejecución de dichas acciones u obras, las licencias y autorizaciones correspondientes de la autoridad municipal, la cual estará obligada a verificar que toda acción, obra, servicio o inversión, sea congruente con la legislación y Programas de Desarrollo Urbano Sostenible.
+La persona física o jurídica, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano, deberá obtener, previa a la ejecución de dichas acciones u obras, las licencias y autorizaciones correspondientes de la autoridad municipal, la cual estará obligada a verificar que toda acción, obra, servicio o inversión, sea congruente con la legislación y los Planes o Programas de Desarrollo Urbano Sostenible.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 145.
 
-Las licencias y autorizaciones a que se refiere el artículo anterior, señalarán los usos o destinos y principales condicionantes establecidas en los Programas de Desarrollo Urbano Sostenible, de áreas y predios, permitidos, condicionados o prohibidos, con base en la zonificación secundaria prevista en los Programas de Desarrollo Urbano Sostenible.
+Las licencias y autorizaciones a que se refiere el artículo anterior, señalarán los usos o destinos y principales condicionantes establecidas en los Planes o Programas de Desarrollo Urbano Sostenible, de áreas y predios, permitidos, condicionados o prohibidos, con base en la zonificación secundaria prevista en los Planes o Programas de Desarrollo Urbano Sostenible.
 
 ###### ARTÍCULO 146.
 
@@ -2175,15 +2689,21 @@ Los objetivos de las autorizaciones y licencias, son los siguientes:
 
 I. Identificar el inmueble relacionado con las autorizaciones y licencias mencionadas dentro de su contexto urbano, otorgando la consiguiente protección a sus titulares respecto de la legalidad de la acción u obra de desarrollo inmobiliario que va a realizar;
 
-II. Apoyar la planificación de infraestructura, equipamiento y servicios urbanos;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Apoyar la planeación de infraestructura, equipamiento y servicios urbanos;
 
 III. Controlar que toda acción, obra, servicio o inversión en materia de desarrollo urbano, sea congruente con la legislación, planes y programas aplicables;
 
-IV. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio, le disponen la legislación o Programas de Desarrollo Urbano Sostenible aplicables;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio, le disponen la legislación o los Planes o Programas de Desarrollo Urbano Sostenible aplicables;
 
 V. Evitar el establecimiento de asentamientos humanos irregulares;
 
-VI. Señalar el aprovechamiento y aptitud del suelo de acuerdo con la legislación y programas aplicables, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VI. Señalar el aprovechamiento y aptitud del suelo de acuerdo con la legislación y planes o programas aplicables, y
 
 VII. Conservar y mejorar el patrimonio histórico, artístico, arquitectónico y cultural.
 
@@ -2207,11 +2727,15 @@ V. El uso y destino actual, así como el que se pretende utilizar en el área o 
 
 VI. El alineamiento respecto a las calles, guarniciones y banquetas;
 
-VII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, de acuerdo con lo previsto en los Programas de Desarrollo Urbano Sostenible aplicables;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+VII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, de acuerdo con lo previsto en los Planes o Programas de Desarrollo Urbano Sostenible aplicables;
 
 VIII. Las restricciones de urbanización y construcción que correspondan, de conformidad con el tipo del fraccionamiento, condominio, barrio, colonia o zona, y
 
-IX. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación y de los Programas de Desarrollo Urbano Sostenible.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IX. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación y de los Planes o Programas de Desarrollo Urbano Sostenible.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -2221,7 +2745,9 @@ Sólo será necesaria la obtención de la licencia de uso de suelo cuando se tra
 
 I. Que requieran de la construcción de obras de cabeza o de redes de infraestructura primaria;
 
-II. Cuando este condicionado por un Plan de Desarrollo Urbano vigente;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Cuando esté condicionado por un Plan o Programa de Desarrollo Urbano vigente;
 
 III. Referentes a fraccionamientos campestres, y
 
@@ -2233,19 +2759,27 @@ Los Municipios podrán autorizar el cambio de uso de suelo y, en su caso, modifi
 
 I. Cuando la totalidad del predio no pueda ser aprovechada al existir limitantes irresolubles internas o externas al predio;
 
-II. Cuando en el predio o su contexto existente se hallen zonas o inmuebles declarados como patrimonio arqueológico, artístico, histórico o cultural por el INAH, el INBA o declarados Patrimonio Cultural del Estado de Chihuahua, en cuyo caso estos predios no cambiarán su uso de suelo, pero serán considerados como predios emisores de potencial urbano, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. Cuando en el predio o su contexto existan zonas o inmuebles declarados como patrimonio arqueológico, artístico, histórico o cultural por el Instituto Nacional de Antropología e Historia (INAH), el Instituto Nacional de Bellas Artes (INBA) o declarados Patrimonio Cultural del Estado de Chihuahua, en cuyo caso estos predios no cambiarán su uso de suelo, pero serán considerados como predios emisores de potencial urbano, y (sic)
 
 III. Cuando se soliciten cambios de uso de suelo o usos mixtos que combinen habitación con comercio o servicios de bajo impacto urbano, bajo las siguientes condiciones:
 
-a) Para establecimientos comerciales y de servicios, que sean de bajo impacto urbano, quedando exceptuados las gasolineras, rastros, estaciones de paquetería, mudanzas y los que defina el Programa de Desarrollo Urbano Sostenible de Centro de Población.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-b) Para micro y pequeña industria, que sean de bajo impacto urbano y no contaminante.
+a. Para establecimientos comerciales y de servicios, que sean de bajo impacto urbano, quedando exceptuados las gasolineras, rastros, estaciones de paquetería, mudanzas y los que defina el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+b. Para micro y pequeña industria, que sean de bajo impacto urbano y no contaminante, siempre que sean compatibles con los usos vigentes.
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
 
 IV. Tratándose del otorgamiento de licencias de uso de suelo para estaciones de servicio denominadas gasolineras, en poblaciones que tengan 500 mil habitantes o más, además de cumplir con las normas establecidas en esta Ley y en los reglamentos municipales en la materia, en su caso, deberán reunir los siguientes requisitos:
 
-a) Los predios para el establecimiento de estaciones de servicio de las denominadas gasolineras, en las que se expenda gasolina o diesel, deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme al uso de suelo del Plan de Desarrollo Urbano del Municipio de que se trate.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+a. Los predios para el establecimiento de estaciones de servicio de las denominadas gasolineras, en las que se expenda gasolina o diesel, deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme el uso de suelo del Plan o Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial Sostenible de que se trate.
 
 b) Las estaciones de servicio de las denominadas gasolineras, en las que se expenda gasolina o diesel, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad Industrial y demás normas aplicables, y se ubicarán a una distancia radial mínima que será de entre 1,200 metros y 1,700 metros, una respecto de la otra, atendiendo a las condiciones de los índices de riesgo y de contaminación que determinen los reglamentos municipales.
 
@@ -2263,9 +2797,13 @@ Se entenderá como bajo impacto urbano que los usos de predios no obstruyan la v
 
 En caso de controversia, tendrá preferencia el uso de suelo habitacional.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 151.
 
-Tomando en cuenta la naturaleza y magnitud de la obra por ejecutar, las licencias y autorizaciones tendrán la vigencia que le determine la Ley, el Programa de Desarrollo Urbano Sostenible y los reglamentos correspondientes, y podrán ser prorrogadas cuando así lo determine la autoridad que las expida.
+Tomando en cuenta la naturaleza y magnitud de la obra por ejecutar, las licencias y autorizaciones tendrán la vigencia que le determine la Ley, el Plan o Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial Sostenible y los reglamentos correspondientes, y podrán ser prorrogadas cuando así lo determine la autoridad que las expida.
+
+#### SECCIÓN I. DE LA AUTORIZACIÓN DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES
 
 ###### ARTÍCULO 152.
 
@@ -2315,6 +2853,8 @@ Las autorizaciones de fraccionamiento deberán constar en escritura pública. No
 
 Los notarios exigirán como requisito indispensable para autorizar cualesquiera de las operaciones señaladas en el párrafo anterior, que se les acredite que han cumplido con la obligación que en el mismo se contiene; quienes celebren las operaciones mencionadas en infracción de este artículo causarán perjuicio al Municipio y al comprador.
 
+#### SECCIÓN II. DE LA PREVENTA DE LOTES DE FRACCIONAMIENTOS
+
 ###### ARTÍCULO 158.
 
 Los fraccionadores podrán obtener permiso de preventa de lotes, aun cuando no se hayan concluido las obras de urbanización, mediante solicitud dirigida al Ayuntamiento, siempre y cuando se cumplan con los siguientes requisitos:
@@ -2329,9 +2869,9 @@ IV. Contar con el certificado de libertad de gravámenes al momento de la preven
 
 V. Haber cubierto los impuestos y derechos que correspondan;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-VI. Otorgar garantía a satisfacción del Ayuntamiento, por el valor total de las obras que falten por ejecutar, en los términos dispuestos por el artículo 79, fracción IV, de la presente Ley, y
+VI. Otorgar garantía a satisfacción del Ayuntamiento, por el valor total de las obras que falten por ejecutar, en los términos dispuestos por el artículo 79, fracción V, de la presente Ley, y
 
 VII. Presentar plano de lotificación del fraccionamiento, indicando la numeración catastral, así como los lotes numerados y acotados interiormente en el terreno.
 
@@ -2347,9 +2887,13 @@ I. Las obras no se hayan continuado en el plazo señalado en el artículo anteri
 
 II. No se cumpla con el avance de obra en los tiempos y volúmenes programados.
 
+#### SECCIÓN III. DE LA AUTORIZACIÓN DE SUBDIVISIONES, FUSIONES, SEGREGACIONES, NOTIFICACIONES Y RELOTIFICACIONES DE PREDIOS
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 161.
 
-Para autorizar subdivisiones, fusiones, segregaciones, lotificaciones y relotificaciones, cualquiera que sea su extensión, la autoridad competente deberá considerar la Ley de Protección al Ambiente y Recursos Naturales, la de Desarrollo Urbano Sostenible del Estado de Chihuahua y el Programa de Desarrollo Urbano Sostenible de Centro de Población de que se trate, para establecer los lineamientos a que deberán sujetarse, estimando la dimensión resultante del predio, el uso al que se destinará y los servicios específicos existentes. Así mismo, se requerirá de la factibilidad correspondiente en relación a la dotación de servicios públicos.
+Para autorizar subdivisiones, fusiones, segregaciones, lotificaciones y relotificaciones, cualquiera que sea su extensión, la autoridad competente deberá considerar la Ley de Protección al Ambiente y Recursos Naturales, la de Desarrollo Urbano Sostenible del Estado de Chihuahua y el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población de que se trate, para establecer los lineamientos a que deberán sujetarse, estimando la dimensión resultante del predio, el uso al que se destinará y los servicios específicos existentes. Así mismo, se requerirá de la factibilidad correspondiente en relación a la dotación de servicios públicos.
 
 ###### ARTÍCULO 162.
 
@@ -2359,7 +2903,9 @@ I. Se mejore el aprovechamiento del potencial urbano;
 
 II. No se exceda el límite de la capacidad de las redes de infraestructura instaladas en el propio fraccionamiento y en la zona de su ubicación, y
 
-III. Se respeten las disposiciones del Programa de Desarrollo Urbano Sostenible de Centro de Población, en materia de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Se respeten las disposiciones del Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, en materia de:
 
 a. Zonas arboladas;
 
@@ -2375,13 +2921,15 @@ Los lotes resultantes de la división, subdivisión, fusión, segregación, loti
 
 ### CAPÍTULO II. DEL DICTAMEN Y ESTUDIO DE IMPACTO URBANO Y AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 164.
 
-Las acciones de desarrollo urbano que puedan producir un impacto significativo en el medio ambiente o en la estructura urbana del centro de población, de la región o zona conurbada, requerirán además de las licencias o autorizaciones municipales que correspondan, del dictamen de impacto urbano y ambiental sancionado por la Secretaría de Desarrollo Urbano y Ecología.
+Las acciones de desarrollo urbano que puedan producir un impacto significativo en el medio ambiente o en la estructura urbana del centro de población, de la región o zona conurbada y/o metropolitana, requerirán además de las licencias o autorizaciones municipales que correspondan, del dictamen de impacto urbano y ambiental sancionado por la Secretaría de Desarrollo Urbano y Ecología.
 
 Para los efectos de esta Ley, se consideran de impacto significativo para los centros de población estratégicos de nivel regional, subregional y de servicios básicos concentrados, así como para el resto de las localidades de la Entidad:
 
-l. Los fraccionamientos habitacionales de más de cien viviendas;
+I. Los fraccionamientos habitacionales de más de cien viviendas;
 
 II. Los fraccionamientos campestres;
 
@@ -2413,7 +2961,9 @@ XV. La explotación de bancos de materiales para la construcción u otros fines;
 
 XVI. Las acciones urbanas ubicadas dentro de los límites de un centro de población que requieran de la construcción de obras de cabeza o de redes de infraestructura primaria, y
 
-XVII. Toda edificación no habitacional de más de diez mil metros cuadrados de construcción o que exceda de diez niveles.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XVII. Toda edificación de más de dos mil metros cuadrados de construcción o que exceda de diez niveles.
 
 Para los centros de población estratégicos de nivel estatal, se consideran de impacto significativo, los casos enumerados anteriormente, a excepción de los casos relativos a fraccionamientos habitacionales, en cuyo caso, serán de más de mil viviendas; hoteles y moteles, cuando el número de cuartos sea mayor a doscientos, así como toda edificación no habitacional de más de veinte mil metros cuadrados de construcción o que exceda de quince niveles.
 
@@ -2425,19 +2975,25 @@ I. Descripción y evaluación de la obra o proyecto;
 
 II. Identificación de impactos y medidas de solución o mitigación durante la preparación, construcción y operación del proyecto, y
 
-III. Congruencia con los programas de desarrollo urbano y normas aplicables.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Congruencia con los planes o programas de desarrollo urbano y normas aplicables.
 
 ### CAPÍTULO III. DE LA IMAGEN URBANA Y LA PROTECCIÓN DEL PATRIMONIO CULTURAL
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 166.
 
-Los Programas de Desarrollo Urbano señalarán los inmuebles o zonas con valores culturales cuyos edificios no podrán ser demolidos, de acuerdo con la Ley de Patrimonio Cultural del Estado y con el Catálogo de Monumentos Históricos deI INAH.
+Los Planes o Programas de Desarrollo Urbano señalarán los inmuebles o zonas con valores culturales cuyos edificios no podrán ser demolidos, de acuerdo con la Ley de Patrimonio Cultural del Estado y con el Catálogo de Monumentos Históricos del Instituto Nacional de Antropología e Historia (INAH).
 
 ###### ARTÍCULO 167.
 
 Las normas básicas para mantener o mejorar la imagen urbana de los Centros de Población del Estado y protección del patrimonio cultural, sin perjuicio de las normas consignadas en otros ordenamientos legales, son las siguientes:
 
-I. Los sitios y los bienes inmuebles declarados como Patrimonio Cultural del Estado de Chihuahua, los protegidos por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos; los que signifiquen para la comunidad un testimonio valioso de su historia y su cultura, se identificarán en los programas correspondientes y su conservación y protección podrán ser declaradas de interés público por el Ejecutivo del Estado y los Municipios, así como por la dependencia federal correspondiente;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. Los sitios y los bienes inmuebles declarados como Patrimonio Cultural del Estado de Chihuahua, los protegidos por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos; los que signifiquen para la comunidad un testimonio valioso de su historia y su cultura, se identificarán en los planes o programas correspondientes y su conservación y protección podrán ser declaradas de interés público por el Ejecutivo del Estado y los Municipios, así como por la dependencia federal correspondiente;
 
 II. Las zonas e inmuebles con valores culturales estarán constituidos por:
 
@@ -2459,7 +3015,13 @@ b. Los propietarios de las edificaciones tendrán obligación de conservarlas en
 
 c. Se establecerán medidas de cuidado y conservación en casos de cambio de uso de suelo, intervenciones, alteraciones y modificaciones a muebles e inmuebles, sitios, objetos y áreas adyacentes a los bienes mencionados en el artículo anterior.
 
-IV. En las zonas y construcciones de valor cultural, los Municipios podrán reglamentar el tipo y las características de los anuncios para hacerlos compatibles y armónicos con el entorno, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+IV. En las zonas y construcciones de valor cultural, los Municipios podrán reglamentar el tipo y las características de los anuncios informativos para hacerlos compatibles y armónicos con el entorno.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+No se permitirá la colocación de los anuncios autosoportados en el entorno de los lugares catalogados patrimonio cultural o de zonas protegidas, atendiendo lo dispuesto en la Ley de Patrimonio Cultural del Estado. Tampoco se permitirá su instalación en las azoteas de los inmuebles con valor artístico o cultural; al respecto los ayuntamientos reglamentarán lo necesario respecto a distancias y dimensiones de los mismos, y
 
 V. Las autoridades podrán establecer convenios con los propietarios de inmuebles con valor cultural para su mejoramiento, preservación, conservación, reparación, utilización y mejor aprovechamiento. Para tal efecto, promoverán los mecanismos presupuestales y financieros, y las facilidades administrativas y fiscales que apoyen la conservación y restauración de dichos inmuebles, por parte de sus poseedores o propietarios.
 
@@ -2477,9 +3039,11 @@ En dichas zonas, los propietarios, poseedores y usuarios podrán convenir con el
 
 ### CAPÍTULO IV. DEL ESPACIO AÉREO, LA VÍA PÚBLICA Y LA INFRAESTRUCTURA URBANA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 170.
 
-La vía pública es todo espacio común destinado al libre tránsito, de conformidad con las leyes y reglamentos de la materia, así como todo inmueble que de hecho se destine a este fin. La delimitación oficial de la vía pública se realizará en los planos de alineamiento, números oficiales y derechos de vía. Dichas delimitaciones se integrarán en los Programas de Desarrollo Urbano Sostenible.
+La vía pública es todo espacio común destinado al libre tránsito, de conformidad con las leyes y reglamentos de la materia, así como todo inmueble que de hecho se destine a este fin. La delimitación oficial de la vía pública se realizará en los planos de alineamiento, números oficiales y derechos de vía. Dichas delimitaciones se integrarán en los Planes o Programas de Desarrollo Urbano Sostenible.
 
 La vía pública y el derecho de vía no son enajenables.
 
@@ -2521,21 +3085,27 @@ Los instrumentos de gestión del desarrollo urbano, son mecanismos que facilitan
 
 Los instrumentos de gestión promueven que los predios y edificaciones hagan un uso óptimo de la capacidad de la infraestructura, los servicios y el equipamiento, y consolidar el uso de suelo.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 176.
 
-Se entenderá por potencial urbano, el total de aprovechamiento posible de un predio, en términos de intensidad de construcción y con base en las disposiciones que consigne la zonificación en los Programas de Desarrollo Urbano Sostenible.
+Se entenderá por potencial urbano, el total de aprovechamiento posible de un predio, en términos de intensidad de construcción y con base en las disposiciones que consigne la zonificación en los Planes o Programas de Desarrollo Urbano Sostenible.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 177.
 
-El Programa de Desarrollo Urbano Sostenible de Centro de Población, determinará el potencial urbano en función del uso de suelo, de la capacidad instalada o proyectada de la red vial, infraestructura, servicios y equipamiento, de la densidad de población y del COS y el CUS.
+El Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, determinará el potencial urbano en función del uso de suelo, de la capacidad instalada o proyectada de la red vial, infraestructura, servicios y equipamiento, de la densidad de población y del COS y el CUS.
 
 ###### ARTÍCULO 178.
 
 Los instrumentos de gestión serán aplicados a los casos previstos en el presente Título Séptimo y en el Título Sexto, Capítulo De las Licencias, Constancias y Autorizaciones.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 179.
 
-Los recursos obtenidos por el Municipio, mediante los instrumentos de gestión, serán destinados a la administración del desarrollo urbano, la promoción de la participación ciudadana y la realización de las acciones necesarias para atención del déficit en Zonas de Atención Prioritaria, de acuerdo al Programa de Desarrollo Urbano Sostenible de Centro de Población.
+Los recursos obtenidos por el Municipio, mediante los instrumentos de gestión, serán destinados a la administración del desarrollo urbano, la promoción de la participación ciudadana y la realización de las acciones necesarias para atención del déficit en Zonas de Atención Prioritaria, de acuerdo al Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población.
 
 ###### ARTÍCULO 180.
 
@@ -2543,9 +3113,11 @@ En el Reglamento de esta Ley, serán establecidos los procedimientos para aplica
 
 ### CAPÍTULO II. PREDIOS Y EDIFICACIONES SUBUTILIZADOS EN FUNCIÓN DE SU POTENCIAL URBANO
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 181.
 
-Son predios y edificaciones subutilizados, aquellos municipalizados que no utilizan en forma óptima el potencial urbano establecido en el Programa de Desarrollo Urbano Sostenible, y que están servidos parcial o totalmente por infraestructura, servicios o equipamiento.
+Son predios y edificaciones subutilizados, aquellos municipalizados que no utilizan en forma óptima el potencial urbano establecido en el Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial Sostenible, y que están servidos parcial o totalmente por infraestructura, servicios o equipamiento.
 
 ###### ARTÍCULO 182.
 
@@ -2587,29 +3159,41 @@ Se denomina potencial urbano de un predio, lote o construcción, a la disponibil
 
 La transferencia de potencial urbano permite a los propietarios de predios transferir sus excedentes o totales del potencial urbano no utilizado, a favor de un predio receptor propio o de un tercero. Esta transferencia estará sujeta a la disponibilidad de potencial en la ubicación del receptor.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 189.
 
-Las posibilidades de transferencia de potencial urbano serán para predios ubicados dentro del Límite de Centro de Población y serán determinadas en los Programas de Desarrollo Urbano Sostenible de Centro de Población, que especificará en la zonificación los predios emisores y receptores con su potencial urbano presente o futuro.
+Las posibilidades de transferencia de potencial urbano serán para predios ubicados dentro del Límite de Centro de Población y serán determinadas en los Planes o Programas de Desarrollo Urbano Sostenible de Centro de Población, que especificará en la zonificación los predios emisores y receptores con su potencial urbano presente o futuro.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 190.
 
-Es predio emisor aquel que no usa en forma óptima su potencial urbano y que su uso o destino está previsto en el Programa de Desarrollo Urbano Sostenible de Centro de Población, tal como: cerros, cauces de ríos y arroyos y sus límites federales, zonas inundables, predios en condiciones de suelo o pendiente, adversos para el desarrollo urbano, en ubicaciones con olores, vibraciones, plazas, parques, derechos de vía, infraestructura, equipamiento, edificaciones con valor histórico, arquitectónico o patrimonial, o predios dedicados a servicios ambientales que imposibilitan o hacen incosteable su edificación.
+Es predio emisor aquel que no usa en forma óptima su potencial urbano y que su uso o destino está previsto en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, tal como: cerros, cauces de ríos y arroyos y sus límites federales, zonas inundables, predios en condiciones de suelo o pendiente, adversos para el desarrollo urbano, en ubicaciones con olores, vibraciones, plazas, parques, derechos de vía, infraestructura, equipamiento, edificaciones con valor histórico, arquitectónico o patrimonial, o predios dedicados a servicios ambientales que imposibilitan o hacen incosteable su edificación.
 
-El predio receptor se caracteriza por aplicar las políticas de densificación y uso óptimo de la infraestructura, servicios y equipamiento, y demás establecidos en los instrumentos y programas de esta Ley.
+El predio receptor se caracteriza por aplicar las políticas de densificación y uso óptimo de la infraestructura, servicios y equipamiento, y demás establecidos en los instrumentos y planes o programas de esta Ley.
 
 ###### ARTÍCULO 191.
 
 Las operaciones de transferencia de derechos de desarrollo, se sujetarán a las siguientes modalidades:
 
-I. Predio emisor es aquel que no usa en forma óptima su potencial urbano y cuyo uso o destino estará previsto en el Programa de Desarrollo Urbano Sostenible de Centro de Población, tal y como las áreas de conservación ambiental, ecológica o patrimonial, o bien, los predios que imposibilitan o hacen incosteable su edificación;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. El predio receptor podrá recibir el potencial urbano de otros predios y, con ello, incrementar la intensidad de construcción en función de los derechos obtenidos por la transferencia y con base en la zonificación consignada en el Programa de Desarrollo Urbano Sostenible de Centro de Población; y
+I. Predio emisor es aquel que no usa en forma óptima su potencial urbano y cuyo uso o destino estará previsto en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, tal y como las áreas de conservación ambiental, ecológica o patrimonial, o bien, los predios que imposibilitan o hacen incosteable su edificación;
 
-III. Los predios emisores y receptores deberán aplicar las políticas de densificación y uso óptimo de la infraestructura, servicios y equipamiento, uso de suelo e imagen urbana y demás establecidos en los instrumentos y programas de esta Ley.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. El predio receptor podrá recibir el potencial urbano de otros predios y, con ello, incrementar la intensidad de construcción en función de los derechos obtenidos por la transferencia y con base en la zonificación consignada en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población, y
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Los predios emisores y receptores deberán aplicar las políticas de densificación y uso óptimo de la infraestructura, servicios y equipamiento, uso de suelo e imagen urbana y demás establecidos en los instrumentos y planes o programas de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 192.
 
-Será atribución de los Institutos Municipales de Planificación, coordinadamente con la Secretaría, la determinación de las zonas y predios emisores y receptores de potencial urbano, registrarlos de acuerdo a las disposiciones de la materia, emitir las certificaciones de transferencia de potencial urbano y supervisar que se cumplan sus disposiciones.
+Será atribución de los Institutos Municipales de Planeación, coordinadamente con la Secretaría, la determinación de las zonas y predios emisores y receptores de potencial urbano, registrarlos de acuerdo a las disposiciones de la materia, emitir las certificaciones de transferencia de potencial urbano y supervisar que se cumplan sus disposiciones.
 
 ### CAPÍTULO IV. DECLARATORIA DE ZONA DE ATENCIÓN PRIORITARIA
 
@@ -2617,7 +3201,9 @@ Será atribución de los Institutos Municipales de Planificación, coordinadamen
 
 Las Zonas de Atención Prioritaria, son áreas geográficas urbanas o rurales que requieren atención especial, debido a que presentan déficit alto en uno o más índices de desarrollo sostenible. Como mínimo serán Zonas de Atención Prioritaria, los asentamientos humanos con el percentil más bajo en los índices prioritarios.
 
-El Programa de Desarrollo Urbano Sostenible definirá las Zonas de Atención Prioritaria e incluirá la definición de los instrumentos de gestión aplicables por sector, colonia y predio. Para la ejecución de las declaratorias de Zonas de Atención Prioritaria, se podrá aplicar, sin variar las disposiciones del programa aplicable, la relocalización de los usos y destinos del suelo dentro del mismo polígono, conforme a lo dispuesto en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+El Plan o Programa de Desarrollo Urbano Sostenible definirá las Zonas de Atención Prioritaria e incluirá la definición de los instrumentos de gestión aplicables por sector, colonia y predio. Para la ejecución de las declaratorias de Zonas de Atención Prioritaria, se podrá aplicar, sin variar las disposiciones del plan o programa aplicable, la relocalización de los usos y destinos del suelo dentro del mismo polígono, conforme a lo dispuesto en el Reglamento de esta Ley.
 
 ###### ARTÍCULO 194.
 
@@ -2633,9 +3219,11 @@ IV. De actividades económicas. Las actividades de los diferentes sectores econ�
 
 Una zona geográfica determinada podrá contar con una o más declaratorias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 195.
 
-La declaratoria de Zona de Atención Prioritaria será respaldada desde los Programas de Desarrollo Urbano Sostenible, a partir de los índices prioritarios de desarrollo sostenible, y contendrá como mínimo;
+La declaratoria de Zona de Atención Prioritaria será respaldada desde los Planes o Programas de Desarrollo Urbano Sostenible, a partir de los índices prioritarios de desarrollo sostenible, y contendrá como mínimo:
 
 I. SIG con la delimitación de los sectores o colonias del área de actuación;
 
@@ -2655,9 +3243,11 @@ VII. Otros que consideren convenientes los órganos auxiliares.
 
 Las acciones necesarias para cumplir cabalmente la declaratoria estarán incluidas en el Programa Operativo Anual de los órdenes de gobierno, según sus respectivos ámbitos de competencia, sin detrimento de las obras y servicios públicos obligatorios de las instancias involucradas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 197.
 
-El modo de operación para la aplicación de los programas en las Zonas de Atención Prioritaria, será previamente autorizado y coordinado por el Municipio y la Secretaría, que conjuntamente con los involucrados, establecerán las políticas y formas de cooperación para el fomento y concertación de acciones.
+El modo de operación para la aplicación de los planes o programas en las Zonas de Atención Prioritaria, será previamente autorizado y coordinado por el Municipio y la Secretaría, que conjuntamente con los involucrados, establecerán las políticas y formas de cooperación para el fomento y concertación de acciones.
 
 Cuando una Zona de Atención Prioritaria implique la transmisión a la autoridades, de predios destinados a equipamiento o infraestructura urbana, dicha transmisión deberá ser en pleno dominio y libre de gravámenes; así mismo, las obras o instalaciones que se deban ejecutar, serán a costa de los propietarios, salvo que se trate de un sistema público o mixto en el que se tipifiquen a cargo de la autoridad obligaciones en ese sentido.
 
@@ -2671,11 +3261,13 @@ Los propietarios o titulares de derechos de propiedad y, en su caso, el gobierno
 
 La suscripción de convenios producirá efectos en la propiedad y disposición de los bienes y, en algunos casos, obligará a la constitución de organismos administradores de los proyectos. En caso que los particulares incumplan con las obligaciones que se deriven de los convenios de coordinación y concertación y, en su caso, de los correspondientes contratos de asociación o fiduciarios, el gobierno podrá intervenir administrativamente en los proyectos, en los términos que se acuerden.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 200.
 
-Los programas desarrollados para la atención de las Zonas de Atención Prioritaria incluirán, dentro de sus acciones y objetivos, la identificación, promoción y asociación de redes sociales de alcance colonia, sector o centro de población y, en caso de ser posible, de alcance nacional e internacional, para la mejor atención de las necesidades locales y aprovechamiento de experiencias, para implementar formas más eficaces de participación social.
+Los planes o programas desarrollados para la atención de las Zonas de Atención Prioritaria incluirán, dentro de sus acciones y objetivos, la identificación, promoción y asociación de redes sociales de alcance colonia, sector o centro de población y, en caso de ser posible, de alcance nacional e internacional, para la mejor atención de las necesidades locales y aprovechamiento de experiencias, para implementar formas más eficaces de participación social.
 
-Los habitantes y las organizaciones de la sociedad civil que participen en los programas de las Zonas de Atención Prioritaria, serán acreedores a un reconocimiento por escrito por su participación para el logro del bien común, de acuerdo a los preceptos del Título Octavo.
+Los habitantes y las organizaciones de la sociedad civil que participen en los planes o programas de las Zonas de Atención Prioritaria, serán acreedores a un reconocimiento por escrito por su participación para el logro del bien común, de acuerdo a los preceptos del Título Octavo.
 
 ### CAPÍTULO V. CONTRIBUCIÓN DE MEJORAS
 
@@ -2721,9 +3313,11 @@ El cobro de la contribución procederá siempre y cuando el Municipio haya comun
 
 El reagrupamiento parcelario es la redistribución de parcelas en un polígono determinado, con el propósito de aprovechar su potencial urbano. Para lograr el propósito se prevé ceder suelo para calles y equipamiento y, en algunos casos, segregar suelo para vender y con ello financiar obras conjuntas de interés público.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 206.
 
-El reagrupamiento parcelario estará definido y será normado por el Programa de Desarrollo Urbano Sostenible de Centro de Población y las declaratorias de Zona de Atención Prioritaria.
+El reagrupamiento parcelario estará definido y será normado por el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población y las declaratorias de Zona de Atención Prioritaria.
 
 ###### ARTÍCULO 207.
 
@@ -2735,7 +3329,9 @@ Una vez ejecutado el reagrupamiento, la redistribución se establecerá sobre eq
 
 El reagrupamiento parcelario se sujetará, en los términos de sus disposiciones reglamentarias, a las siguientes normas:
 
-I. El área de actuación del reagrupamiento parcelario será definida en el Programa de Centro de Población o en las declaratorias de Zona de Atención Prioritaria, y tendrá la misma obligatoriedad que los planes y programas de los cuales se deriva;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. El área de actuación del reagrupamiento parcelario será definida en el Plan o Programa de Desarrollo Urbano Sostenible de Centro de Población o en las declaratorias de Zona de Atención Prioritaria, y tendrá la misma obligatoriedad que los planes y programas de los cuales se deriva;
 
 II. La administración de los predios reagrupados se realizará mediante un organismo administrador del proyecto que garantice la distribución equitativa de los beneficios y cargas que se generen, la factibilidad financiera de los proyectos y la transparencia en su administración;
 
@@ -2743,7 +3339,9 @@ III. El desarrollo de los predios reagrupados deberá satisfacer los requisitos 
 
 IV. La habilitación de infraestructura primaria del área de actuación y, en su caso, la urbanización y la edificación, se llevará a cabo bajo la responsabilidad de las personas físicas o legales que se beneficien del agrupamiento;
 
-V. Cada predio aportado al reagrupamiento parcelario cederá una parte proporcional para constituir las áreas de dotación para equipamiento, de vialidades y áreas verdes; así como para la venta y financiamiento de las obras realizadas dentro del área de actuación, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+V. Cada predio aportado al reagrupamiento parcelario cederá una parte proporcional para constituir las áreas de donación para equipamiento, de vialidades y áreas verdes; así como para la venta y financiamiento de las obras realizadas dentro del área de actuación, y
 
 VI. La redistribución se establecerá sobre el valor final del suelo compuesto por su valor inicial más la plusvalía por todos los conceptos.
 
@@ -2763,7 +3361,9 @@ Para efectos del artículo anterior, el Ejecutivo del Estado y los Municipios, p
 
 I. La creación y funcionamiento de Consejos Consultivos de Desarrollo Urbano Sostenible, como asociaciones civiles facultados para realizar estudios, análisis y propuestas alternativas en la materia; como órganos de asesoría y de consulta obligatoria para los diferentes órdenes de gobierno, quienes operarán de acuerdo a los estatutos respectivos, donde se establecerán las funciones, integración, suplencias, periodicidad de las sesiones, quórum y aspectos relacionados;
 
-II. La participación social y la manifestación de opiniones y propuestas de los ciudadanos y las organizaciones sociales en la formulación, financiamiento, ejecución, evaluación y control de los Programas de Desarrollo Urbano Sostenible, en forma directa o mediante consulta pública, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+II. La participación social y la manifestación de opiniones y propuestas de los ciudadanos y las organizaciones sociales en la formulación, financiamiento, ejecución, evaluación y control de los Planes o Programas de Desarrollo Urbano Sostenible, en forma directa o mediante consulta pública, y
 
 III. La participación de las comunidades en acciones de conservación, mejoramiento y crecimiento de los Centros de Población y en la programación, financiamiento, ejecución, evaluación y administración de obras de infraestructura, equipamiento y servicios urbanos.
 
@@ -2775,13 +3375,17 @@ I. Los Consejos Consultivos de Desarrollo Urbano Sostenible;
 
 II. Los organismos públicos o privados que aporten información, estudios o proyectos para el desarrollo urbano sostenible, y
 
-III. Los organismos públicos o privados que desarrollen registros, investigaciones, análisis, propuesta, seguimiento o evaluación de instrumentos de planificación para el desarrollo urbano sostenible y para la disminución del déficit de los índices prioritarios de desarrollo sostenible.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+III. Los organismos públicos o privados que desarrollen registros, investigaciones, análisis, propuesta, seguimiento o evaluación de instrumentos de planeación para el desarrollo urbano sostenible y para la disminución del déficit de los índices prioritarios de desarrollo sostenible.
 
 ###### ARTÍCULO 213.
 
 La Secretaría otorgará reconocimientos a las instituciones públicas o privadas y a los particulares que produzcan conocimiento sobre desarrollo urbano sostenible, en las modalidades de investigación empírica o aplicada, propuesta, documentación o aplicación, según corresponda a lo siguiente:
 
-I. En materia de Programas de Desarrollo Urbano Sostenible, atención para disminución del déficit en los índices prioritarios de desarrollo sostenible;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+I. En materia de Planes o Programas de Desarrollo Urbano Sostenible, atención para disminución del déficit en los índices prioritarios de desarrollo sostenible;
 
 II. En movilidad urbana sostenida, densificación interna de los centros de población, uso de tecnologías verdes y políticas públicas para el desarrollo urbano sostenible;
 
@@ -2801,9 +3405,11 @@ Las empresas y los ciudadanos con propuestas calificadas positivamente serán ac
 
 ### CAPÍTULO I. CONSEJOS CONSULTIVOS DE DESARROLLO URBANO SOSTENIBLE
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 214.
 
-Los Consejos Consultivos serán fedatarios de los Programas de Desarrollo Urbano Sostenible y sus efectos en la región, participarán en la definición de prioridades, y podrán sugerir apoyos sinérgicos de instituciones públicas o privadas, a través de estrategias participativas locales para la disminución del déficit de los índices prioritarios y para la operación óptima de los Programas de Desarrollo Urbano Sostenible.
+Los Consejos Consultivos serán fedatarios de los Planes o Programas de Desarrollo Urbano Sostenible y sus efectos en la región, participarán en la definición de prioridades, y podrán sugerir apoyos sinérgicos de instituciones públicas o privadas, a través de estrategias participativas locales para la disminución del déficit de los índices prioritarios y para la operación óptima de los Planes o Programas de Desarrollo Urbano Sostenible.
 
 ###### ARTÍCULO 215.
 
@@ -2881,17 +3487,21 @@ VII. Las demás definidas en el reglamento de esta Ley.
 
 ### CAPÍTULO IV. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 228.
 
-Toda persona podrá denunciar, ante la Secretaría o ante las autoridades municipales, cualquier hecho u omisión que contravenga lo dispuesto en los Programas de Desarrollo Urbano Sostenible, en esta Ley y demás ordenamientos que regulen el Desarrollo Urbano, bastando para darle curso el señalamiento de los datos necesarios que permitan determinar la ubicación del inmueble, así como el nombre y domicilio del denunciante.
+Toda persona podrá denunciar, ante la Secretaría o ante las autoridades municipales, cualquier hecho u omisión que contravenga lo dispuesto en los Planes o Programas de Desarrollo Urbano Sostenible, en esta Ley y demás ordenamientos que regulen el Desarrollo Urbano, bastando para darle curso el señalamiento de los datos necesarios que permitan determinar la ubicación del inmueble, así como el nombre y domicilio del denunciante.
 
 Una vez recibida la denuncia, la Secretaría o las autoridades municipales según corresponda, procederán a realizar la inspección y, en su caso, a imponer las medidas de seguridad o las sanciones precedentes conforme a esta Ley y, en un término no mayor a quince días hábiles, harán del conocimiento del denunciante, el trámite que se haya dado a la denuncia.
 
 Cuando por infracciones a las disposiciones de esta Ley, se hubieren ocasionado daños y perjuicios al denunciante, los interesados podrán solicitar a la Secretaría o al Ayuntamiento, según corresponda, la formulación de un dictamen técnico, el cual tendrá valor de prueba.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 229.
 
-Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso o destino del suelo y otros aprovechamientos de inmuebles, que contravengan las disposiciones técnicas o jurídicas del desarrollo urbano sostenible, así como los programas en la materia, quienes resulten directamente afectados, tendrán derecho a exigir que se apliquen las medidas de seguridad y sanciones procedentes.
+Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso o destino del suelo y otros aprovechamientos de inmuebles, que contravengan las disposiciones técnicas o jurídicas del desarrollo urbano sostenible, así como los planes o programas en la materia, quienes resulten directamente afectados, tendrán derecho a exigir que se apliquen las medidas de seguridad y sanciones procedentes.
 
 Este derecho se ejercerá ante la Secretaría o las autoridades municipales competentes, quienes oirán previamente a los interesados y, en su caso, a los afectados, resolviendo lo conducente.
 
@@ -2903,9 +3513,11 @@ Este derecho se ejercerá ante la Secretaría o las autoridades municipales comp
 
 A efecto de vigilar el cumplimiento de la presente Ley y sus reglamentos, la Secretaría y los Municipios, en sus respectivas competencias, llevarán a cabo inspecciones de supervisión a través del personal debidamente autorizado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 231.
 
-La inspección para el cumplimiento de las disposiciones de los Programas de Desarrollo Urbano Sostenible, es responsabilidad de los Municipios, quienes informarán mensualmente por escrito a la Secretaría, el resultado de las inspecciones que realicen, las medidas aplicadas y los casos que requieran de la intervención directa de la Secretaría.
+La inspección para el cumplimiento de las disposiciones de los Planes o Programas de Desarrollo Urbano Sostenible, es responsabilidad de los Municipios, quienes informarán mensualmente por escrito a la Secretaría, el resultado de las inspecciones que realicen, las medidas aplicadas y los casos que requieran de la intervención directa de la Secretaría.
 
 ###### ARTÍCULO 232.
 
@@ -2977,11 +3589,15 @@ En el procedimiento administrativo previsto en esta Ley, son admisibles toda cla
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 241.
 
-La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, impondrán las medidas de seguridad o sanciones administrativas por las infracciones a esta Ley, sus Reglamentos y los Programas de Desarrollo Urbano Sostenible.
+La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, impondrán las medidas de seguridad o sanciones administrativas por las infracciones a esta Ley, sus Reglamentos y los Planes o Programas de Desarrollo Urbano Sostenible.
 
-Se entienden por medidas de seguridad, las acciones tendientes a evitar los daños que puedan causar las instalaciones, construcciones, obras y acciones que se realicen en contravención a esta Ley, sus Reglamentos y los Programas de Desarrollo Urbano Sostenible; las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo, y se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+Se entienden por medidas de seguridad, las acciones tendientes a evitar los daños que puedan causar las instalaciones, construcciones, obras y acciones que se realicen en contravención a esta Ley, sus Reglamentos y los Planes o Programas de Desarrollo Urbano Sostenible; las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo, y se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan.
 
 Tratándose de asuntos de competencia de los Municipios, aplicarán lo dispuesto en el presente Título, el Código Municipal, los reglamentos aplicables y el Bando de Policía y Buen Gobierno.
 
@@ -3005,9 +3621,11 @@ VII. Cualquier medida que tienda a evitar que se sigan infringiendo las disposic
 
 La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cualesquiera de las acciones anteriores.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 243.
 
-Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que violen la Ley, Reglamentos o Programas de Desarrollo Urbano aplicables, y originen un deterioro en la calidad de vida de los asentamientos humanos o pongan en riesgo la seguridad de las personas y sus bienes, en forma oficiosa la autoridad competente o los residentes del área que resulten directamente afectados, tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos.
+Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que violen la Ley, Reglamentos o Planes o Programas de Desarrollo Urbano aplicables, y originen un deterioro en la calidad de vida de los asentamientos humanos o pongan en riesgo la seguridad de las personas y sus bienes, en forma oficiosa la autoridad competente o los residentes del área que resulten directamente afectados, tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos.
 
 ###### ARTÍCULO 244.
 
@@ -3262,3 +3880,17 @@ DECRETO NÚMERO 1296/2013, QUE REFORMA EL ARTÍCULO 104 Y ADICIONA EL ARTÍCULO 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos deberán ajustar, en su caso, los reglamentos de la materia, teniendo presente las disposiciones de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado expedirá las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto.
