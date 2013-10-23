@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2013-07-10"
+last_updated: "2013-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -460,6 +460,10 @@ XXVI.- Los informes, estudios, análisis y reportes generados por despachos de c
 XXVII.- Informe de los resultados obtenidos en las giras de trabajo que se realicen fuera del territorio del Estado.
 
 XXVIII.- Cualquier otra información que, en base a datos estadísticos, resulte relevante para responder a las preguntas hechas con más frecuencia y la que específicamente determine el Instituto.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXIX. La información completa y actualizada de los indicadores de gestión, entendiéndose por estos los instrumentos o mecanismos que permitan evaluar la eficacia y eficiencia en el cumplimiento de los objetivos o metas establecidas.
 
 ###### Artículo 21.
 
@@ -1492,3 +1496,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones legales y administrativas estatales que se encuentren vigentes a la entrada en vigor del presente Decreto y que se opongan a lo dispuesto por la Ley General de Contabilidad Gubernamental, dejarán de aplicarse en la medida en que resulte aplicable esta última y las disposiciones que de ella emanen.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los sujetos obligados contarán con un año para cumplir con las disposiciones del presente Decreto.
