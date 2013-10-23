@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-09-28"
+last_updated: "2013-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -727,7 +727,7 @@ I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntam
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
 
-II. Nombrar y remover libremente a los funcionarios y empleados de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación del titular de la Dirección de Seguridad Pública Municipal o su equivalente;
+II.- Nombrar y remover libremente a los funcionarios y empleados de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación del titular de la Dirección de Seguridad Pública Municipal o su equivalente;
 
 III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
 
@@ -807,11 +807,11 @@ XXXII.- Resolver los recursos, que de acuerdo con éste y otros ordenamientos se
 
 XXXIII.- Cumplir las disposiciones contenidas en las leyes y reglamentos, así como lo pactado en convenios celebrados por el Municipio con las autoridades federales y estatales;
 
-XXXIV.- Recabar de los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código; y
+XXXIV.- Recabar de los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código; y (sic)
 
 XXXV.- Elaborar la tarifa de valores para la enajenación de terrenos municipales, por conducto de la dependencia correspondiente, en base a los lineamientos contemplados en la ley de catastro;
 
-XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y
+XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y (sic)
 
 > <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
 
@@ -819,7 +819,13 @@ XXXVII.- Asistir y acreditar los cursos de capacitación y formación que instru
 
 Las suplentes de los presidentes municipales, también deberán cumplir con esta actividad.
 
-XXXVIII.- Las demás que le confieren las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXXVIII.- Constituir el Tribunal de Arbitraje Municipal en los términos que ordena el artículo 78 del presente ordenamiento.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+XXXIX.- Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
@@ -1817,7 +1823,17 @@ Los municipios podrán celebrar convenios entre sí o con instituciones pública
 
 En cada Municipio existirá un Tribunal de Arbitraje, el cual podrá funcionar accidental o permanentemente, para resolver los conflictos de trabajo individuales o colectivos.
 
-El Tribunal de Arbitraje será competente para conocer de los conflictos laborales que se susciten entre los ayuntamientos y sus trabajadores, así como del personal de los cuerpos de policía, tránsito y bomberos, de acuerdo al régimen especial que los norma. El Tribunal de Arbitraje se integrará por un representante del municipio, uno de los trabajadores y, otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente, y se constituirá dentro de los treinta días siguientes a aquel en que se haya presentado la demanda, sujetándose al procedimiento establecido en el Código Administrativo.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+El Tribunal de Arbitraje será competente para conocer de los conflictos laborales que se susciten entre los Ayuntamientos y sus trabajadores, así como del personal de los cuerpos de policía, tránsito y bomberos, de acuerdo al régimen especial que los norma. El Tribunal de Arbitraje se integrará por un representante del municipio, uno de los trabajadores y, otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente, y deberá quedar constituido dentro de los cuarenta y cinco días siguientes, contados a partir del día de inicio del período de la Administración Municipal correspondiente, sujetándose al procedimiento establecido en el Código Administrativo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+Una vez constituido el Tribunal de Arbitraje Municipal, el Presidente Municipal deberá proceder de manera inmediata a fijar en los estrados de la Presidencia Municipal, el aviso que contenga el nombre y los puestos de quienes lo conforman, su lugar de ubicación y demás información que se considere necesaria.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+
+Habiendo trascurrido el plazo de cuarenta y cinco días señalado en el segundo párrafo del presente artículo, para que el Tribunal de Arbitraje se haya constituido, y sin que ello ocurra, se procederá en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ### CAPITULO III. DE LOS ORGANOS DE COLABORACION
 
@@ -4482,5 +4498,11 @@ P.O. 28 DE SEPTIEMBRE DE 2013.
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
