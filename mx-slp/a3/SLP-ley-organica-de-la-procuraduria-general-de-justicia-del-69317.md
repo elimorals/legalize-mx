@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-69317"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-07"
-last_updated: "2012-04-21"
+last_updated: "2013-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 24 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -33,13 +35,13 @@ DECRETO 808
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS...
 
 ###### ARTICULO PRIMERO.
 
 Se expide la Ley Orgánica de la Procuraduría General de Justicia del Estado de San Luis Potosí, para quedar como sigue:
 
-LEY ORGANICA DE LA PROCURADURlA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
+LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DE LA INSTITUCION DEL MINISTERIO PUBLICO
 
@@ -1057,7 +1059,9 @@ La Policía Ministerial estará bajo el mando directo del Procurador y sus agent
 
 La Dirección General de la Policía Ministerial estará a cargo de un Director General, quien será nombrado y removido libremente por el procurador General de Justicia del Estado, con la aprobación del Gobernador del Estado.
 
-ARTlCULO 60. Para ser y permanecer como Director General de la Policía Ministerial del Estado se requiere:
+###### ARTICULO 60.
+
+Para ser y permanecer como Director General de la Policía Ministerial del Estado se requiere:
 
 I. Ser ciudadano mexicano en ejercicio de sus derechos;
 
@@ -1791,7 +1795,7 @@ f) Aprobar el curso de ingreso, formación inicial o básica y cumplir satisfact
 
 g) No estar sujeto a proceso penal.
 
-h) No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas·aplicables.
+h) No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables.
 
 i) Ser de notoria buena conducta, y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso.
 
@@ -2371,7 +2375,7 @@ V. Observar buena conducta en el desempeño de su empleo, cargo o comisión, tra
 
 VI. Observar respeto y subordinación legítimos a sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
 
-Vll. Comunicar por escrito al titular de la institución o a sus superiores jerárquicos inmediatos, el incumplimiento de las obligaciones establecidas en este artículo, o las dudas fundadas que le susciten la procedencia de las órdenes que reciba;
+VII. Comunicar por escrito al titular de la institución o a sus superiores jerárquicos inmediatos, el incumplimiento de las obligaciones establecidas en este artículo, o las dudas fundadas que le susciten la procedencia de las órdenes que reciba;
 
 VIII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el periodo para el cual se le designó o de haber sido cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
@@ -2467,7 +2471,7 @@ La Dirección de Administración de la Procuraduría rendirá mensualmente a la 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
 
-### Capitulo II. De su Integración y Destino
+### Capítulo II. De su Integración y Destino
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
 
@@ -2588,3 +2592,31 @@ P.O. 21 DE ABRIL DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 24 DE OCTUBRE DE 2013.
+
+PRIMERO. Esta Ley entrará en vigor el uno de marzo del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicada en el Periódico Oficial del Estado, como Decreto Legislativo 808, el seis de marzo del dos mil diez.
+
+TERCERO. La Ley abrogada seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia.
+
+CUARTO. El Ejecutivo del Estado, en un término no mayor de treinta días a partir de la entrada en vigor del presente Decreto, expedirá los siguientes:
+
+- Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado.
+
+- Reglamento del Servicio Profesional de Carrera de Procuración de Justicia y Policial.
+
+- Reglamento de la Policía Ministerial del Estado.
+
+- Reglamento del Instituto de Formación Ministerial, Pericial y Policial.
+
+- Reglamento de la Dirección de Servicios Periciales.
+
+QUINTO. En tanto se expiden los reglamentos a que se refiere el artículo transitorio anterior, se aplicarán, el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicado en el Periódico Oficial del Estado, Edición Extraordinaria, del 19 de septiembre de 2009, en todo aquello que no se oponga a las disposiciones de esta Ley.
+
+SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la presente Ley, en contra del personal sustantivo de la institución, serán resueltos de conformidad con la ley aplicable al momento de la iniciación del procedimiento, en lo que no se oponga al presente Decreto.
+
+SÉPTIMO. Los agentes del Ministerio Público, los agentes de la Policía Ministerial del Estado, y los peritos que, a la entrada en vigor del presente Ordenamiento se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio de Carrera de Procuración General de Justicia del Estado, previstas en este Decreto y demás disposiciones que se expidan para tal efecto.
+
+OCTAVO. El Ejecutivo del Estado deberá disponer las previsiones necesarias en la Ley del Presupuesto de Egresos para el Ejercicio Fiscal 2014, para el cumplimiento de las disposiciones contenidas en este Decreto.
