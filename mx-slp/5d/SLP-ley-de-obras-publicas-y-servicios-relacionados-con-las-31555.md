@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-31555"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-31"
-last_updated: "2009-12-19"
+last_updated: "2013-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 24 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS QUINCE DÍAS HÁBILES POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de mayo de 2003.
 
@@ -245,7 +247,7 @@ Los ayuntamientos y entidades que sean apoyadas presupuestalmente o que reciban 
 
 Las dependencias coordinadoras de sector, y en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados, en la fecha que ésta determine para su examen, aprobación e inclusión en el proyecto de presupuesto de egresos correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 20.
 
@@ -489,7 +491,7 @@ La totalidad de la documentación de la propuesta técnica y económica, deberá
 
 El acto de presentación y apertura será presidido por el servidor público que designe la convocante, quien será la única autoridad facultada para aceptar o desechar cualquier proposición de las que se hubieren presentado en los términos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 32.
 
@@ -1157,7 +1159,7 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE ABRIL DE 2009.
 
@@ -1170,3 +1172,19 @@ P.O. 19 DE DICIEMBRE DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2013.
+
+PRIMERO. Esta Ley entrará en vigor a los quince días hábiles posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto, se abroga la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 31 de mayo de 2003, y se derogan las demás disposiciones legales y administrativas en lo que se le opongan.
+
+TERCERO. A partir de la entrada en vigor de este Decreto, el titular del Poder Ejecutivo del Estado, contará con noventa días hábiles para emitir el Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí.
+
+CUARTO. La Contraloría General del Estado expedirá las disposiciones administrativas que le correspondan conforme al presente Decreto, dentro de los ciento ochenta días hábiles contados a partir de su entrada en vigor.
+
+QUINTO. Para la adecuada aplicación del criterio de evaluación de proposiciones a través del mecanismo de puntos y porcentajes a que hace referencia la fracción II del artículo 71 de esta Ley, las instituciones correspondientes emitirán, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de este Decreto, los lineamientos correspondientes.
+
+SEXTO. Los procedimientos administrativos, la ejecución y cumplimiento de los contratos y los medios de defensa que se encuentren pendientes de conclusión o resolución, según sea el caso, a la entrada en vigor de este Decreto, se concluirán o resolverán en términos de la ley que se abroga.
+
+SÉPTIMO. Hasta en tanto se expida el Reglamento y las disposiciones administrativas a que se refieren los transitorios Tercero y Cuarto de este Decreto, se aplicarán los que se encuentran en vigor, en lo que no se opongan.- (sic)
