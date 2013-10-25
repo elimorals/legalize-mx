@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-10-18"
+last_updated: "2013-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -789,6 +789,10 @@ Los programas de salud se aplicarán a la totalidad de la población penitenciar
 
 Los Centros deberán contar con áreas especiales destinadas a los servicios médicos, los cuales estarán dotados de medicamentos, equipo y personal necesarios, para prestar a los Internos asistencia médica, psiquiátrica y dental.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2013)</small>
+
+Deberán asimismo, contar con instalaciones médicas adecuadas para la atención de mujeres embarazadas, y coordinarse con las autoridades de salud del estado, para brindar a las internas en estado de gestación, servicios médicos especializados, que garanticen los cuidados y la atención integral de su salud, acordes a sus requerimientos físicos.
+
 ###### ARTÍCULO 104.
 
 Ninguno de los Internos podrá usar medicamentos que no estén autorizados por el personal médico del Centro.
@@ -1436,3 +1440,7 @@ P.O. 18 DE OCTUBRE DE 2013.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los doce meses siguientes a la entrada en vigor de la presente reforma, el Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias a que se refiere el artículo 42 de este ordenamiento.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
