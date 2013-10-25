@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2013-04-26"
+last_updated: "2013-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -598,6 +598,18 @@ X.- Conozcan los procesos de creación artística de diseñadores, artesanos y e
 XI.- Distingan diferentes profesiones e instituciones que se desarrollan en diferentes entornos culturales relacionadas con la creación, investigación, conservación y difusión de las artes.
 
 Para ser docente de Educación Artística, se requiere haber obtenido el título de Maestro Normalista de Educación Artística, de Licenciado en Educación Artística, de Licenciado en Actividad Artística; o profesión afín que cuente con reconocimiento oficial.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 30 TER.- Para el ejercicio y desarrollo de lo dispuesto por esta Ley en materia de educación ambiental, las instituciones y personas previstas por el Artículo 2, deberán además fomentar la educación ambiental como una práctica educativa integrada, continua y permanente en todos los niveles y modalidades de enseñanza, incorporando contenidos sobre ética ambiental vinculados a aspectos prácticos.
+
+Asimismo deberán:
+
+I.- Propiciar la participación de alumnos, educadores y organizaciones no gubernamentales en la formación y ejecución de programas y actividades vinculadas a la educación ambiental;
+
+II.- Promover programas de vinculación escuela - empresa y comunidad, con empresas privadas para el desarrollo de prácticas vinculadas al respeto y cuidado del medio ambiente; y
+
+III.- Impulsar programas y prácticas en materia de respeto y cuidado del medio ambiente en vinculación con empresas prestadoras de servicios turísticos.
 
 ###### ARTICULO 31.
 
@@ -1706,3 +1718,7 @@ P.O. 26 DE ABRIL DE 2013.
 DECRETO No. 443, POR ELQUE SE REFORMAN LOS ARTÍCULOS 5, 69 Y 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
