@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-10-18"
+last_updated: "2013-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -583,9 +583,17 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de padecimientos de sus integrantes;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años.
+II.- Acciones de orientación y vigilancia institucional, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+
+IV.- Programas permanentes dirigidos principalmente a las mujeres embarazadas o madres de recién nacidos, con el fin de proporcionarles información suficiente y comprensible sobre las ventajas de la leche materna, así como la instrucción necesaria para el aprendizaje de las técnicas de la lactancia materna.
 
 ###### ARTÍCULO 24.
 
@@ -2814,3 +2822,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Túrnese a la Secretaría de Salud del Estado, a fin de que realice el estudio financiero y económico respectivo que soporte el gasto público para el apoyo económico y en especie a los pasantes de la profesión de la salud en formación, adscritos al sector salud, a fin de que sea considerado en el Ejercicio Presupuestario del año 2014 de esa Dependencia.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se preverán los recursos necesarios en el Presupuesto de Egresos 2014, a fin de garantizar la implementación de los programas a que se refiere la presente reforma.
