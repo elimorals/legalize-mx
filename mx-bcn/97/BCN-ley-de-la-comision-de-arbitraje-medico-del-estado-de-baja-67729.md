@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-de-arbitraje-medico-del-estado-de-baja-67729
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-02"
-last_updated: "2013-01-18"
+last_updated: "2013-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 2 de marzo de 2009.
 
@@ -249,7 +249,7 @@ IX.- Conocer de los asuntos que someta a su consideración el Secretario Técnic
 
 X.- Conocer de los informes, dictámenes y recomendaciones del Comisariado, resolviendo lo conducente;
 
-XI.- Nombrar a tos peritos que integran el Comité Consultivo de Peritos, de entre las propuestas que al efecto realicen los colegios de las distintas especialidades de profesionales de la salud, que se encuentren debidamente registrados ante el área de profesiones del Estado;
+XI.- Nombrar a los peritos que integran el Comité Consultivo de Peritos, de entre las propuestas que al efecto realicen los colegios de las distintas especialidades de profesionales de la salud, que se encuentren debidamente registrados ante el área de profesiones del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -351,11 +351,9 @@ I.- Ser mexicano, en pleno ejercicio de sus derechos civiles;
 
 II.- Tener por lo menos cuarenta años de edad cumplidos el día de la designación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
-
-III.- Contar con Título de Médico General o de Médico Cirujano Partero, reconocido por la Ley de Ejercicio de las Profesiones para el Estado de Baja California o por el Departamento de Profesiones del Estado, así como estar debidamente registrado ante éste;
+III.- Ser profesionista titulado en cualquiera de las áreas médicas reconocidas por la Ley de Ejercicio de las Profesiones para el Estado de Baja California o por el Departamento de Profesiones del Estado, así como estar debidamente registrado ante éste;
 
 IV.- Haberse distinguido, por su probidad, competencia y antecedentes profesionales, en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión;
 
@@ -1092,3 +1090,7 @@ TERCERO.- El Ejecutivo del Estado realizará las adecuaciones a las normas regla
 P.O. 18 DE ENERO DE 2013
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
