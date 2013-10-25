@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2013-10-18"
+last_updated: "2013-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -379,7 +379,9 @@ IV. Difundir los contenidos de esta Ley;
 
 V. Gestionar ante los medios de comunicación, a fin de que participen en la difusión de programas, campañas públicas encaminadas a sensibilizar y concientizar a la población sobre el problema de la violencia contra las mujeres, y las medidas para su prevención, sanción y erradicación;
 
-VI. Una vez implementado el programa estatal, los titulares de las dependencias que lo integran se reunirán cada tres meses con la finalidad de evaluar el cumplimiento de los objetivos del programa, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+
+VI.- Una vez implementado el programa estatal, los titulares de las dependencias que lo integran se reunirán cada tres meses con la finalidad de evaluar el cumplimiento de los objetivos del programa, y determinar conforme al resultado de la evaluación, las propuestas necesarias para el diseño e instrumentación eficientes de las políticas en materia de prevención, atención y erradicación de la violencia; y
 
 VII. Proponer al Ejecutivo estatal su reglamento interno.
 
@@ -656,3 +658,7 @@ P.O. 11 DE OCTUBRE DE 2013.
 P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
