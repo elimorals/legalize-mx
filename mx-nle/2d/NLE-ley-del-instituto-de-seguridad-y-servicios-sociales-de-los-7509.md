@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-7509
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-13"
-last_updated: "2010-12-24"
+last_updated: "2013-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
+LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 1993.
 
@@ -51,7 +51,7 @@ La presente Ley tiene por objeto el establecimiento de un régimen de seguridad 
 
 La organización y administración de los seguros y prestaciones que esta Ley establece en favor de los servidores públicos, jubilados, pensionistas y beneficiarios, estará a cargo del organismo público descentralizado denominado Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, cuyas siglas son ISSSTELEON, con personalidad jurídica, patrimonio y órganos de gobierno propios y con domicilio en la ciudad de Monterrey, capital del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 3.
 
@@ -75,7 +75,7 @@ V.- Las personas que conforme a lo previsto en esta Ley adquieran el carácter d
 
 VI.- Los beneficiarios de los servidores públicos, pensionistas y jubilados que se encuentren en los supuestos que esta Ley establece.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
 
 ###### Artículo 4.
 
@@ -91,11 +91,9 @@ II.- Estén sujetos a contratos eventuales con vigencia inferior a seis meses, e
 
 III.- Presten sus servicios por un tiempo menor a diez horas semana-mes;
 
-IV.- Al ingresar por primera vez al servicio hayan cumplido cincuenta años de edad; y
+IV.- (DEROGADA, P.O. 25 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
-
-V.- Por resultado del examen médico practicado por el Instituto se determine su no incorporación.
+V.- (DEROGADA, P.O. 25 DE OCTUBRE DE 2013)
 
 ###### Artículo 5.
 
@@ -239,7 +237,7 @@ Las relaciones de trabajo entre el propio Instituto y su personal se regirán po
 
 ### CAPITULO I. SALARIO BASE DE COTIZACION Y CUOTAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
 
 ###### Artículo 20.
 
@@ -283,7 +281,7 @@ Los servidores públicos que desempeñen dos o más empleos en las entidades pú
 
 ###### Artículo 23.
 
-Las entidades públicas estarán obligadas a efectuar las retenciones de las cuotas y a enterar el importe de éstas al Instituto, en los términos que prevee esta Ley.
+Las entidades públicas estarán obligadas a efectuar las retenciones de las cuotas y a enterar el importe de éstas al Instituto, en los términos que prevee (sic) esta Ley.
 
 ###### Artículo 24.
 
@@ -293,7 +291,7 @@ Cuando el Instituto hubiese realizado un pago indebido, por omisión o error en 
 
 Lo dispuesto en los párrafos anteriores, será sin perjuicio de las sanciones que resulten aplicables a los responsables de las situaciones previstas en este precepto. La imposición de estas sanciones no eximirá a las entidades públicas de la obligación de resarcir al Instituto por los daños causados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 25.
 
@@ -539,7 +537,7 @@ Las citadas prestaciones se proporcionarán por el propio Instituto o por las un
 
 En caso de riesgo de trabajo, el servidor público tendrá derecho a las siguientes prestaciones en dinero:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE 1993)</small>
 
 I.- Si el riesgo le incapacita temporalmente para desempeñar sus labores, recibirá el cien por ciento del salario de cotización neto al presentarse el riesgo. Para determinar dicho salario se restará del monto de las percepciones sobre las que cotizaba, una cantidad igual a la totalidad de las retenciones en la nómina que se le efectuaron o hubiesen tenido que efectuar, con motivo del pago de contribuciones de carácter federal o local, incluyendo el cincuenta por ciento de las previstas en esta Ley.
 
@@ -899,7 +897,7 @@ VI.- Los hijos adoptivos sólo tendrán derecho a la pensión por orfandad, cuan
 
 Los requisitos y condiciones señalados en las fracciones anteriores serán exigibles a la fecha del fallecimiento del servidor público o pensionista.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 96.
 
@@ -1103,7 +1101,7 @@ El préstamo sólo podrá renovarse cuando haya transcurrido el plazo por el cua
 
 Los adeudos por concepto de préstamos a corto plazo, que no fuesen cubiertos por los servidores públicos después de un año de su vencimiento, se cargarán al Fondo de Garantía; sin embargo subsistirá el crédito contra el deudor, pudiendo el Instituto acudir a los medios legales de cobro y abonar a dicho fondo las cantidades que se recuperen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO II. PRESTAMOS PARA VIVIENDA
 
@@ -1177,7 +1175,7 @@ IV.- El Comité de Vigilancia.
 
 #### SECCION 1. Consejo Directivo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 123.
 
@@ -1355,7 +1353,7 @@ Para que el Comité pueda sesionar válidamente se requerirá la asistencia de p
 
 #### SECCION 4. Comité de Vigilancia
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 140.
 
@@ -1621,7 +1619,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ING. LEOPOLDO ESPINOSA BENAVIDES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE DICIEMBRE DE 1993.
 
@@ -1642,3 +1640,7 @@ Artículo Único.- Este decreto entrará en vigor al día siguiente al de su pub
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
