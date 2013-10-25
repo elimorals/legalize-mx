@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2013-08-30"
+last_updated: "2013-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -1263,29 +1263,7 @@ XLIII.- Integrar y administrar la información estatal sobre la incidencia crimi
 
 XLIV.- Las demás que le atribuyan expresamente las disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2001)</small>
-
-ARTICULO 38 BIS.- Para ser Titular de la Secretaría de Seguridad Pública, se deberán reunir los requisitos siguientes:
-
-I.- Ser ciudadano mexicano por nacimiento;
-
-II.- Tener cuando menos treinta años de edad;
-
-III.- Poseer el día de la designación con antigüedad mínima de tres años, título profesional de Licenciado en Derecho; expedido por la autoridad o institución legalmente facultada para ello y debidamente registrado ante el Departamento de Profesiones;
-
-IV.- Haber residido en el Estado durante los cinco años anteriores al día de la designación;
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-V.- Presentar y acreditar las evaluaciones de control y confianza, de conformidad con la normatividad aplicable, y
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-VI.- Las demás que señalen las Leyes y reglamentos correspondientes;
-
-VII.- Las demás que señalen las Leyes y reglamentos correspondientes (sic).
-
-Para ser Subsecretario de Seguridad Pública, deberá cumplir los requisitos señalados en las fracciones I a la VII del presente artículo.
+ARTICULO 38 BIS.- (DEROGADO, P.O. 25 DE OCTUBRE DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -2090,6 +2068,10 @@ SEGUNDO.- El personal, los bienes, recursos presupuestales e información que la
 P.O. 30 DE AGOSTO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
