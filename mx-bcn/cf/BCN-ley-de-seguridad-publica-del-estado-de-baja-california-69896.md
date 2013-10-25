@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2013-10-18"
+last_updated: "2013-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -303,11 +303,29 @@ Los integrantes del Consejo podrán designar por escrito a un suplente con funci
 
 El Presidente y los miembros del Consejo serán integrantes del mismo, por todo el tiempo que duren en su cargo público, por lo tanto una vez que este concluya, serán sustituidos por la persona que lo ocupe.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
 El Consejo, contará con un Secretario Ejecutivo cuyo cargo recaerá en el Secretario.
 
-Para el mejor desempeño de sus funciones, el Secretario Ejecutivo del Consejo contará con el auxilio de un Secretario Técnico, que será designado y removido libremente por el propio Secretario Ejecutivo.
+Para ser Secretario se deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano por nacimiento;
+
+II.- Tener cuando menos 30 años de edad;
+
+III.- Poseer al día de la designación con antigüedad mínima de 3 años, título profesional de nivel licenciatura debidamente registrado;
+
+IV.- Haber residido en el Estado durante los 5 años anteriores al día de la designación;
+
+V.- Tener reconocida capacidad y probidad, así como contar con experiencia en materia de seguridad pública;
+
+VI.- Presentar y acreditar las evaluaciones de control y confianza de conformidad con la normatividad aplicable, y
+
+VII.- Las demás que señale la Ley Orgánica de la Administración Pública del Estado de Baja California y demás reglamentos correspondientes.
+
+Para mejor desempeño de sus funciones, el Secretario Ejecutivo del Consejo contará con el auxilio de un Secretario Técnico, que será designado y removido libremente por el propio Secretario Ejecutivo.
 
 ###### ARTÍCULO 20.
 
@@ -489,7 +507,9 @@ La Academia será responsable de aplicar el Programa Rector que establece la Ley
 
 I. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública;
 
-II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+II. Capacitar en materia de investigación científica y técnica a los servidores públicos, brindándoles actualización necesaria respecto de las leyes, reglamentos, bandos y en sí de toda normatividad vigente a la que se deban sujetar respectivamente;
 
 III. Proponer y desarrollar los programas de investigación académica en materia policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
@@ -2474,3 +2494,13 @@ P.O. 18 DE OCTUBRE DE 2013.
 DECRETO No. 568 POR EL QUE SE REFORMA A LA FRACCIÓN I, DEL ARTÍCULO 33 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO No. 569, POR EL QUE SE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 36 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE OCTUBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
