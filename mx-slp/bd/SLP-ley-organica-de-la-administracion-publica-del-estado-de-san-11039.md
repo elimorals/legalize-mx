@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2012-12-27"
+last_updated: "2013-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -96,6 +96,10 @@ El Gobernador del Estado contará con un Secretario Particular y el personal de 
 ###### ARTICULO 8o.
 
 El Gobernador del Estado nombrará y removerá libremente a los Secretarios del Despacho, al Oficial Mayor y a los demás servidores públicos del Poder Ejecutivo, cuyo nombramiento y remoción no estén atribuidos expresamente por la ley a otra autoridad y presentará al Congreso el nombramiento del Procurador General del Estado para su ratificación.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+Los servidores públicos reseñados en el párrafo anterior, podrán ser designados preferentemente bajo el principio de equidad de género.
 
 ###### ARTICULO 9o.
 
@@ -1686,3 +1690,9 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de 60 días para llevar a cabo las modificaciones correspondientes a las disposiciones reglamentarias aplicables.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
