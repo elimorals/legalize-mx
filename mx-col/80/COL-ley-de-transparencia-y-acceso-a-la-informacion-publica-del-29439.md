@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-2943
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-01"
-last_updated: "2008-07-05"
+last_updated: "2013-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COLIMA
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE ENERO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 1 de marzo de 2003.
 
@@ -281,7 +283,7 @@ Para ejercer el derecho de acceso a la información pública no es necesario acr
 
 El uso que se haga de la información es responsabilidad de la persona que la obtuvo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 5°.
 
@@ -603,7 +605,7 @@ Toda solicitud de información realizada en los términos de la presente Ley deb
 
 En ningún caso el plazo excederá de veinte días hábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 31.
 
@@ -619,7 +621,7 @@ En el caso de que la solicitud sea rechazada, se le comunicará por escrito al s
 
 Las entidades públicas podrán negar las solicitudes cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona o cuando la información se encuentre disponible públicamente. En este caso, deberán indicar al solicitante el lugar donde se encuentra la información.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 33.
 
@@ -635,7 +637,7 @@ Los sujetos obligados deberán esforzarse por reducir, al máximo, los costos de
 
 Las entidades públicas consideradas en la presente Ley, están obligadas a entregar información sencilla y comprensible a la persona sobre los trámites y procedimientos que deben efectuarse, las autoridades o instancias competentes, la forma de realizarlos, la manera de llenar los formularios que se requieran, así como de las entidades ante las que se puede acudir para solicitar orientación o formular quejas, consultas o reclamos sobre la prestación del servicio o sobre el ejercicio de las funciones o competencias a cargo de la autoridad de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA APLICACION DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA APLICACIÓN DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -723,7 +725,7 @@ En los dos primeros meses de cada año, todas las entidades públicas deberán p
 
 En el mes de abril, el Presidente de la Comisión presentará por escrito un informe anual de labores y resultados, en el cual se incluirá la descripción de la información remitida por las entidades públicas comprendidas en esta Ley; el número de asuntos atendidos por la Comisión, así como las dificultades observadas en el cumplimiento de esta Ley. El informe anual será publicado y difundido con amplitud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO VII. DE LOS RECURSOS DE QUEJA Y REVISIÓN
 
@@ -799,7 +801,7 @@ III.- El recurrente fallezca.
 
 La resolución final deberá emitirse por escrito. En los casos en que se determine la improcedencia de liberar información, la Comisión estará obligada a fundar y motivar adecuadamente sus resoluciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 49.
 
@@ -897,7 +899,7 @@ Dado en Palacio de Gobierno, a los 28 días del mes de febrero del año dos mil 
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE ENERO DE 2004.
 
@@ -912,3 +914,37 @@ P.O. 5 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Lo dispuesto por el segundo párrafo del Artículo 34 de la Ley de Transparencia y Acceso a la Información Pública, contenido en esta reforma, será aplicable a partir del 21 de Julio de 2009.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1° de enero de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima, publicada en el Periódico Oficial el 1° de marzo de 2003.
+
+###### ARTÍCULO TERCERO.
+
+Los bienes, derechos y obligaciones de la extinta Comisión Estatal para el Acceso a la Información Pública pasarán a conformar parte del patrimonio del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima.
+
+###### ARTÍCULO CUARTO.
+
+Corresponderá al Instituto conocer de los procedimientos, recursos y trámites que tiene a su cargo la Comisión, así como dar continuidad a los programas y acciones contemplados en el Programa Operativo del organismo que se extingue.
+
+###### ARTÍCULO QUINTO.
+
+Los Comisionados que conforman la Comisión Estatal para el Acceso a la Información Pública pasarán a integrar el Consejo del Instituto, hasta que se cumpla el período para el cual fueron electos; de igual manera, el personal que presta sus servicios a la Comisión continuará laborando en el Instituto con pleno reconocimiento de los derechos que hubieran generado.
+
+###### ARTÍCULO SEXTO.
+
+Las entidades públicas a que se refiere el presente ordenamiento, en un término que no exceda de seis meses contados a partir de la entrada en vigor de la presente Ley, y en el ámbito de sus respectivas competencias establecerán, mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos institucionales para proporcionar a los particulares el acceso a la información pública, de conformidad a las bases y principios establecidos en esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto deberá expedir su Reglamento Interno, así como el Reglamento del Servicio Civil de Carrera, dentro de los 90 días siguientes a la entrada en vigor de la presente Ley, mientras tanto serán aplicables los que se encuentren vigentes, en lo que no contravengan las disposiciones del presente ordenamiento.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los seis meses siguientes a la entrada en vigor de la presente Ley, el Instituto deberá emitir los lineamientos que regulen la publicación de la información que los sujetos obligados deben mantener en Internet. Mismo plazo tendrá el Instituto para elaborar su normatividad e instrumentos jurídicos internos que le impongan derechos y obligaciones; en tanto se realiza lo anterior, el Instituto aplicará en lo conducente los instrumentos vigentes a la fecha de aprobación de la presente Ley, que tengan las connotaciones señaladas en este precepto.
