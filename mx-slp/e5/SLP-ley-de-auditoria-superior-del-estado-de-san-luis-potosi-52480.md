@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2012-07-31"
+last_updated: "2013-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -34,8 +34,6 @@ DECRETO 499
 LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
 EXPOSICION DE MOTIVOS
-
-.
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
@@ -675,19 +673,15 @@ El alcance de la auditoría puede ser legal, financiero, presupuestal, de desemp
 
 Independientemente del tipo de auditoría que se realice, ésta se hará con base en pruebas selectivas suficientes que permitan valorar debidamente el objeto y materia de la auditoría, y con apego a las normas de auditoría generalmente aceptadas.
 
-###### ARTICULO 38.
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. 26 DE OCTUBRE DE 2013, SE OBSERVA QUE EN EL PRESENTE ARTÍCULO DEJARON DE EXISTIR CUATRO FRACCIONES QUE CONTENÍA EL PRIMER PÁRRAFO DESDE TEXTO ORIGINAL</small>
 
-Para los efectos de esta Ley las cuentas públicas deben contener como mínimo:
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-I. El estado analítico de los ingresos y egresos, así como los estados programáticos, presupuestarios, financieros y contables;
+###### ARTÍCULO 38.
 
-II. El balance general o estado de situación financiera;
+Para el contenido e integración de las cuentas públicas, los entes auditables atenderán las disposiciones de la Ley General de Contabilidad Gubernamental.
 
-III. El origen y aplicación de los recursos, y
-
-IV. En su caso, el resultado de las operaciones de los poderes del Estado y de los ayuntamientos, y de los organismos e instituciones que administren fondos o valores públicos, además de los estados detallados de la deuda pública.
-
-La Auditoría Superior del Estado solicitará la información general que permita el análisis de los resultados, en la que se incluyan los datos económicos.
+En todo caso, la Auditoría Superior del Estado solicitará la información general que permita el análisis de los resultados, en la que se incluyan los datos económicos.
 
 ###### ARTICULO 39.
 
@@ -1344,5 +1338,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE JULIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
