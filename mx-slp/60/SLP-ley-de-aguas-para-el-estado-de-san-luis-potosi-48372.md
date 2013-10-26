@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2013-04-06"
+last_updated: "2013-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2405,9 +2405,13 @@ Dichas cuotas y tarifas deberán comprenderse dentro de la iniciativa de ley de 
 
 Tratándose de organismos descentralizados o concesionarios, las cuotas y tarifas se calcularán aplicando las mismas fórmulas y metodología que se refieren en el artículo 165 de este Ordenamiento, serán remitidas al Congreso del Estado, a través del ayuntamiento respectivo, para su aprobación final en los plazos que se establecen en esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 175.
 
-Las cuotas y tarifas se actualizarán automáticamente cada vez que se incremente, por lo menos, en un cinco por ciento, el índice nacional de precios al productor, correspondiendo al prestador de servicios hacer el ajuste correspondiente.
+Las cuotas y tarifas se podrán actualizar cada vez que se incremente, por lo menos, en un cinco por ciento anual, el índice nacional de precios al productor, correspondiendo al prestador de servicios proponer el ajuste correspondiente.
+
+La propuesta de actualización deberá ser enviada para su autorización al Congreso del Estado, y una vez autorizada se publicará en el Periódico Oficial del Estado para su obligatoriedad.
 
 ###### ARTICULO 176.
 
@@ -3194,6 +3198,12 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 6 DE ABRIL DE 2013.
 
 DECRETO 119, POR EL QUE SE REFORMA EL ARTÍCULO 116 EN SUS FRACCIONES VII Y VIII; Y ADICIONA AL MISMO ARTÍCULO 116 LA FRACCIÓN IX, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
