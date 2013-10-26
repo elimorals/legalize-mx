@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2012-08-25"
+last_updated: "2013-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -43,11 +43,13 @@ LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL E
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-La presente Ley es de orden público e interés general, y tiene por objeto regular las pensiones, jubilaciones, servicios y demás prestaciones de los servidores públicos al servicio de la administración pública estatal, y municipal en su caso, que contribuyan con aportaciones al fondo.
+###### ARTICULO 1°.
 
-Los funcionarios de elección popular no quedarán comprendidos en la presente Ley.
+La presente Ley es de orden público e interés general; tiene por objeto regular las pensiones, jubilaciones, servicios y demás prestaciones de los servidores públicos al servicio de la administración pública estatal, y municipal, en su caso, que contribuyan con aportaciones a la Dirección de Pensiones del Estado y que formen parte de cualquiera de los sectores cotizantes; así como las particularidades en cuanto a derechos y obligaciones de las pensiones que otorguen los sectores cotizantes y que se encuentran contenidos en esta Ley.
+
+Los servidores públicos de elección popular no quedan comprendidos en la presente Ley.
 
 ###### ARTICULO 2º.
 
@@ -83,13 +85,21 @@ XII. FONDO DE CONTINGENCIA: Es el capital integrado con las aportaciones de cada
 
 XIII. REGLAMENTO: Disposiciones para cada grupo sectorizado que facilita y complementa la exacta observancia de la Ley de Pensiones;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XIV. SEER: Sistema Educativo Estatal Regular, y
+XIV. SECTOR TELESECUNDARIA. Servicio de educación básica, pública y escolarizada, que atiende el nivel de secundaria principalmente en las zonas rurales;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XV. TRABAJADOR DEL SEER; SINDICALIZADO: Servidor público adscrito al Sistema Educativo Estatal Regular, sindicalizado.
+XV. SEER. Sistema Educativo Estatal Regular;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVI. TRABAJADOR DEL SECTOR TELESECUNDARIA, SINDICALlZADO. Servidor público del subsistema de telesecundaria adscrito a la Secretaría de Educación del Gobierno del Estado, sindicalizado, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVII. TRABAJADOR DEL SEER, SINDICALlZADO: Servidor Público adscrito al Sistema Educativo Estatal Regular, sindicalizado.
 
 ###### ARTICULO 3º.
 
@@ -301,21 +311,41 @@ Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de l
 
 Cada grupo cotizador cuando lo estime necesario, podrá llevar a cabo la auditoría de su fondo la cual se hará con cargo al grupo solicitante.
 
-### CAPITULO III. DE LA INVERSION DE CADA UNO DE LOS FONDOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO III. DE LA EROGACION E INVERSION INTERNA DE CADA UNO DE LOS FONDOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 34.
 
-Cada uno de los fondos de los grupos cotizadores de la Dirección de Pensiones, se destinará a cubrir las erogaciones ordinarias de la institución e invertirá en las operaciones siguientes:
+Cada uno de los fondos sectorizados de los grupos cotizadores de la Dirección de Pensiones, se destinará a cubrir las erogaciones ordinarias y extraordinarias de la institución, e invertirá en las prestaciones siguientes:
 
 I. Pensiones a los trabajadores;
 
 II. Pensiones a las personas que se hayan constituido en beneficiarias;
 
-III. Préstamos a corto plazo, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV. Préstamos hipotecarios.
+III. Préstamos a corto plazo;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IV. Préstamos hipotecarios;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+V. Pago de estímulos, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI. Préstamos especiales.
 
 Las pensiones referidas en las fracciones I y II del presente artículo serán prioritarias.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+Las prestaciones a que se refieren las fracciones V y VI de este artículo, se ajustarán conforme a las necesidades financieras de cada grupo cotizador, estipulándose en el Reglamento respectivo.
 
 ## TITULO TERCERO. DE LAS PRESTACIONES
 
@@ -337,9 +367,11 @@ Los préstamos serán de tal manera que los abonos para reintegrar la cantidad p
 
 El pago de capital e interés que deberán de cubrir los trabajadores beneficiados con un préstamo a corto plazo, se hará procurando descuentos quincenales por cantidades iguales.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 39.
 
-No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Sólo podrá renovarse cuando el trabajador o el deudor haya pagado el equivalente del 100 porciento del total del crédito concedido y que se pague además la prima correspondiente, la cual será fijada por cada grupo cotizador en el reglamento respectivo.
+Para conceder nuevo préstamo mientras permanezca insoluto el anterior, de conformidad al porcentaje autorizado en el reglamento de cada grupo cotizador, se renovará liquidando el adeudo anterior, descontando dicha cantidad del nuevo préstamo, siempre y cuando tenga liquidez y que se pague además la prima correspondiente, la cual será fijada en el reglamento respectivo.
 
 ###### ARTICULO 40.
 
@@ -347,9 +379,11 @@ Los trabajadores de confianza podrán gozar de los beneficios de préstamos a co
 
 ### CAPITULO II. DE LOS PRESTAMOS HIPOTECARIOS
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 41.
 
-Se podrán conceder a los trabajadores comprendidos en esta Ley, préstamos con garantía hipotecaria, en primer lugar sobre inmuebles urbanos en los términos de los reglamentos respectivos, con la obligación a cargo del deudor de contratar un seguro de vida por el importe del préstamo concedido, siendo el pago de primas anuales cubierto por partes iguales entre el deudor y la Dirección de Pensiones, y en caso de los fideicomisos para la vivienda se aplicará la normatividad establecida en los mismos.
+Se podrán conceder a los trabajadores comprendidos en esta Ley, préstamos con garantía hipotecaria, en primer lugar sobre inmuebles urbanos en los términos de los reglamentos respectivos, con la obligación a cargo del deudor de contratar un seguro de vida por el importe del préstamo concedido, siendo el pago de primas anuales cubierto por el deudor y/o entre éste y el fondo sectorizado de cada sector, si así lo dispusiere su Reglamento; y en caso de los fideicomisos para la vivienda se aplicará la normatividad establecida en los mismos.
 
 ###### ARTICULO 42.
 
@@ -541,9 +575,9 @@ I. Los beneficiarios del trabajador que fallezca a causa o como consecuencia de 
 
 II. Los beneficiarios del trabajador que habiendo prestado servicios por más de quince años y contribuido al fondo por el mismo período, falleciera por causas ajenas al servicio, aunque el deceso ocurriere sin que el trabajador hubiese cumplido cincuenta y cinco años de edad;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada o inhabilitación en servicio;
+III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada o invalidez;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -1339,6 +1373,388 @@ Los créditos respecto de los cuales la Dirección de Pensiones tenga el caráct
 
 Las obligaciones de la administración pública estatal de aportar para el sostenimiento de los fondos las cantidades que esta Ley señala, serán imprescriptibles.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+## TITULO NOVENO. DE LAS PENSIONES DE LOS TRABAJADORES DEL SUBSISTEMA, DE TELESECUNDARIA, ADSCRITOS A LA SECRETARIA DE EDUCACION DE GOBIERNO DEL ESTADO, SINDICALlZADOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO I. DE LAS PENSIONES
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 137.
+
+Las disposiciones contenidas en este Título serán aplicables a los trabajadores del Subsistema de Telesecundaria, adscritos a la Secretaría de Educación del Gobierno del Estado, sindicalizados, que inicien a trabajar y a cotizar a la Dirección de Pensiones a la entrada en vigor del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 138.
+
+Se establecen las siguientes pensiones para los trabajadores del Subsistema de Telesecundaria:
+
+I. Pensión por Jubilación: a la que tienen derecho los trabajadores con treinta y cinco años o más de servicio, y las trabajadoras con treinta y tres años o más laborados; en ambos casos, cualquiera que sea su edad, la pensión se fijará de la siguiente manera:
+
+a) El monto de la pensión en ambos casos será del cien por ciento del resultado que arroje el último salario cotizado.
+
+b) La pensión será actualizada anualmente en el mes de febrero, conforme al índice nacional de precios al consumidor correspondiente al año anterior, sobre los conceptos que se hayan cotizado a la Dirección de Pensiones;
+
+II. Pensión por edad avanzada: a la que tienen derecho las y los trabajadores que cumplan sesenta años de edad, y hubieren contribuido normalmente durante dieciocho años como mínimo al fondo de pensiones, y
+
+III. Pensión por invalidez: a la que tienen derecho los trabajadores que sean declarados inválidos a causa del servicio o a consecuencia de éste, sea cual fuere el tiempo que hubieren contribuido al fondo, a menos que la incapacidad hubiere sido producida voluntariamente por el trabajador; y los trabajadores que sean declarados inválidos por causas ajenas a su cargo, empleo o comisión, si tienen por lo menos trece años de cotización y hubieren contribuido al fondo por ese mismo tiempo y si la invalidez no es intencional, ni consecuencia del abuso de bebidas alcohólicas, barbitúricos o estupefacientes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 139.
+
+Para los efecto (sic) de la fracción III del artículo anterior, la declaración de invalidez de un trabajador será hecha por peritos médicos designados por las instituciones de seguridad social correspondientes, y validados por la Junta Directiva de la Dirección de Pensiones; se considerará inválido el derechohabiente que por enfermedad o accidente no profesionales, por agotamiento de las fuerzas físicas o mentales, o por defectos físicos o mentales, padezca una afección o se encuentre en un estado que se pueda estimar de naturaleza permanente, por el cual se encuentre imposibilitado para procurarse mediante un trabajo proporcionado a sus fuerzas, a sus capacidades, a su formación, la remuneración habitual que en la misma región perciba un trabajador sano del mismo sexo, semejante capacidad, igual categoría y formación profesional análoga.
+
+I. Cuando se determine la declaración de invalidez parcial permanente de un trabajador a causa del servicio o a consecuencia de él, sea cual fuere el tiempo que hubieren contribuido al fondo de pensiones, y hecha por peritos médicos designados por las instituciones de seguridad social correspondientes y validados por la Junta Directiva, tendrá derecho al disfrute de un (sic) pensión porcentual o pago conforme a lo estipulado por la Ley Federal del Trabajo en su tabla de valuación de incapacidades, en los términos y forma que sea estipulado en el reglamento del sector, y
+
+II. El dictamen de enfermedad por causas ajenas a su cargo o empleo, que se emita, podrá calificar la invalidez como temporal o permanente.
+
+El carácter temporal de la invalidez se establecerá cuando médicamente se determine que existe posibilidad de recuperación para el trabajo; en este caso se realizará la revaloración médica del pensionado dentro de los dos años siguientes al de la fecha de expedición del dictamen, para definir si existe recuperación para el trabajo o continúa dictaminándose la invalidez con carácter temporal por períodos renovables de dos años; en este caso se podrá establecer, cuando así fuere procedente y la enfermedad dictaminada lo permita un cambio de actividad dentro de la misma dependencia.
+
+El dictamen definitivo considerará el estado de invalidez de naturaleza permanente, cuando médicamente se establezca la imposibilidad de mejoría y recuperación de la capacidad para el trabajo, de tal forma se apegará a lo estipulado en los términos y forma, en relación a los años de cotización y edad del trabajador conforme a la tabla de esta Ley y las contenidas en el reglamento del sector.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 140.
+
+La pensión por invalidez se suspenderá:
+
+I. Cuando desaparezca el motivo que le dio origen. La Dirección de Pensiones queda facultada para mandar practicar los reconocimientos necesarios a los pensionistas cada vez que juzgue necesario; pero por regla general se llevarán a cabo cada seis meses. Cesará también la pensión cuando el pensionista vuelva a desempeñar cargo o empleo en las instituciones de la administración pública estatal, o cualquier otra, siempre que demuestre haber cesado la invalidez;
+
+II. Cuando el pensionista se niegue injustificadamente a someterse a las investigaciones médicas que en cualquier tiempo ordene la Dirección de Pensiones, o se resista a las medidas preventivas o curativas a que debe sujetarse, salvo que se trate de una persona afectada de sus facultades mentales, y
+
+III. Cuando el pensionista haya obtenido con engaños la pensión, o la causa de la invalidez sea preexistente al inicio de sus servicios al Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 141.
+
+Los trabajadores adscritos al subsistema de telesecundaria sindicalizados, que estén recibiendo o pretendan recibir la pensión por invalidez, están obligados a someterse a los tratamientos que se les prescriban para prevenir o curar su incapacidad, por la institución de seguridad social correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 142.
+
+Cuando un pensionista por incapacidad física o mental recupere sus facultades, la Secretaría de Educación de Gobierno del Estado, avisada oportunamente por la Dirección de Pensiones, tendrá la obligación de restituirle en su empleo si continúa apto para el mismo. En tanto no se restituya al trabajador en su empleo, o se le asigne otro en los términos de este artículo, percibirá salario por parte de la dependencia, sustituyendo la pensión. En la concesión de pensiones por incapacidad física o mental transitoria, no será necesario que el trabajador cause baja en el servicio, pues podrá otorgarse aunque esté disfrutando de la licencia temporal correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 143.
+
+Se establece un seguro de salud para la familia, proporcionado por una institución de seguridad social, a favor de los jubilados y pensionados por la Dirección de Pensiones del Estado, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad; derecho que se hace extensivo al cónyuge, concubina, concubinario, e hijos del pensionado, de acuerdo a la normatividad vigente del Instituto Mexicano del Seguro Social. Para tal efecto, la administración pública estatal cubrirá las cuotas correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO II. DEL MONTO DE LAS PENSIONES
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 144.
+
+El monto de las pensiones que se entregarán a los trabajadores, será de la manera siguiente:
+
+I. Las pensiones por edad avanzada se compondrán de una cuantía básica y aumentos computados, de acuerdo con el número de cotizaciones quincenales con que se justifique haber contribuido al fondo de pensiones por el derechohabiente, y el porcentaje señalado en la fracción III de este artículo, con posterioridad a los primeros dieciocho años de contribución al fondo;
+
+II. Las pensiones por invalidez por causas ajenas al servicio se compondrán de una cuantía básica y aumentos computados, de acuerdo con el número de cotizaciones quincenales con que se justifique haber contribuido al fondo de pensiones por el derechohabiente, y el porcentaje señalado en la fracción III de este artículo, con posterioridad a los primeros trece años de contribución.
+
+La cuantía básica y los aumentos de las pensiones por invalidez por causas ajenas al servicio y por edad avanzada, se pagarán por mensualidades vencidas y se calcularán tomando como base los siguientes factores:
+
+a) Los años durante los cuales el derechohabiente haya contribuido normalmente al fondo de pensiones.
+
+b) El cien por ciento de la cuantía básica de acuerdo a lo dispuesto por el Reglamento del Sector Sección 26, Telesecundaria en la Dirección de Pensiones del Estado o el que le correspondiere conforme a los años de cotización de acuerdo al porcentaje señalado en la fracción III de este artículo;
+
+III. Tendrán derecho a pensionarse de acuerdo a los años laborados y cotizados, la aplicación de ambos factores se hará conforme a las disposiciones de las fracciones anteriores y de la siguiente tabla:
+
+HOMBRES MUJERES
+
+Número de años de Monto de la Número de años de Monto de
+
+contribución al fondo pensión en % contribución al fondo la pensión
+
+en %
+
+de 13 a 17 años de de 13 a 17 años de
+
+cotización 45% cotización 45%
+
+18 50% 18 50%
+
+19 51% 19 51%
+
+20 52% 20 52%
+
+21 53% 21 54%
+
+22 54% 22 56%
+
+23 55% 23 58%
+
+24 57% 24 60%
+
+25 59% 25 63%
+
+26 61% 26 67%
+
+27 64% 27 71%
+
+28 67% 28 75%
+
+29 70% 29 79%
+
+30 74% 30 83%
+
+31 78% 31 88%
+
+32 83% 32 94%
+
+33 88% 33 100%
+
+34 94%
+
+35 100%
+
+IV. Los derechohabientes de la Dirección de Pensiones que probaren haber prestado servicios a la administración pública estatal, o municipal, en su caso, por treinta y cinco años los hombres, y treinta y tres las mujeres o más, y hubieren contribuido en igual forma al fondo de la Dirección de Pensiones, tendrán derecho a una pensión igual al cien por ciento del salario base cotizable;
+
+V. Cuando el trabajador sea declarado incapacitado a causa del servicio o a consecuencia de él, sea cual fuere el tiempo que haya estado en servicio y sea cual fuere el tiempo que hubiere contribuido al fondo de pensiones, la pensión será igual al cien por ciento del salario base cotizable para tener derecho a una pensión;
+
+VI. Cuando el trabajador sea declarado incapacitado por causas ajenas al desempeño de su cargo o empleo, si tiene por lo menos trece años de servicio efectivos y hubiere contribuido a la formación de un fondo de pensiones durante el mismo periodo, se aplicará la tabla de porcentaje para determinar la cuantía en los términos fijados en este artículo;
+
+VII. Cuando el trabajador fallezca a causa del servicio o a consecuencia de él, sus deudos, en los términos que este Título señala, gozarán de una pensión igual al último salario disfrutado, sin considerar los años de servicio, ni aportaciones al fondo de pensiones respectivo;
+
+VIII. Cuando el trabajador falleciere después de dieciocho años de contribuir al fondo correspondiente, sin haber solicitado pensión o antes de haber comenzado a disfrutarla, sus beneficiarios que este Título señala, gozarán de la pensión que hubiere correspondido al trabajador por tiempo de servicios, conforme a la tabla de porcentajes de la fracción III de este artículo, disminuida en un diez por ciento cada año, hasta reducirla al cincuenta por ciento de la cifra primitiva;
+
+IX. Al fallecer un trabajador que haya pasado a ser pensionista por edad y tiempo de servicios, sus beneficiarios, en el orden establecido por este Título, continuarán disfrutando la pensión que haya venido percibiendo aquél a la fecha de su fallecimiento;
+
+X. Cuando fallezca un trabajador que haya pasado a ser pensionista por haber sido declarado incapacitado a causa del servicio, sus beneficiarios señalados por este Título continuarán percibiendo pensión en la cuantía fijada por la fracción V de este artículo, y
+
+XI. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez ajena al servicio, sus familiares recibirán únicamente el importe de seis meses de la pensión que venía disfrutando.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 145.
+
+La cantidad que servirá para la determinación de las cuantías de las pensiones a que se refiere este Título, estará constituida por el monto del último salario base percibido por el trabajador y ésta será actualizada anualmente en el mes de febrero, conforme al índice nacional de precios al consumidor correspondiente al año anterior, sobre los conceptos que se hayan cotizado a la Dirección de Pensiones.
+
+El importe de las pensiones concedidas a los deudos será dividido por partes iguales entre los beneficiarios, en caso de que el trabajador en vida no hubiere hecho la declaración establecida en el artículo 148 de este Ordenamiento.
+
+Cuando fueren varios los beneficiarios de una pensión y alguno de ellos perdiere el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
+
+Los derechohabientes pensionados y jubilados tendrán derecho al aguinaldo establecido en el reglamento de cada grupo cotizador; en lo concerniente al incremento de sus montos, éste se generará acorde a los mecanismos de inversión que efectúe el sector.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO III. DE LAS PENSIONES A LOS FAMILIARES DE LOS TRABAJADORES
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 146.
+
+Los familiares de los trabajadores adscritos al Subsistema de Telesecundaria sindicalizados, que tienen derecho a pensión son:
+
+I. Los beneficiarios del trabajador que fallezca a causa o como consecuencia de un riesgo profesional;
+
+II. Los beneficiarios del trabajador que habiendo prestado servicios por más de dieciocho años y contribuido al fondo por el mismo periodo, falleciera por causas ajenas al servicio, aunque el deceso ocurriere sin que el trabajador hubiese cumplido sesenta años de edad;
+
+III. Los beneficiarios, de los trabajadores que fallezcan habiendo pasado a ser pensionistas por jubilación, por edad avanzada, o invalidez;
+
+IV. Los deudos de los trabajadores que habiéndose separado del servicio después de haber contribuido al fondo no menos de dieciocho años, hubiesen dejado sus cuotas en su fondo sectorizado, y
+
+V. Los beneficiarios del trabajador en activo y con derecho a pensión, que hubiere desaparecido por más de un mes sin que se tengan noticias de su paradero, de acuerdo a los requisitos y condiciones establecidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 147.
+
+Las pensiones a que se refiere el artículo anterior únicamente serán otorgadas a los deudos del trabajador, en el orden y con las condiciones siguientes:
+
+I. Al cónyuge supérstite, a los hijos o a ambos, si concurren unos y otros;
+
+II. A los hijos hasta antes de que cumplan dieciocho años; el derecho adquirido antes de cumplir la edad antes señalada, prevalecerá hasta veinticinco años de edad, siempre y cuando se encuentren estudiando en instituciones de educación con reconocimiento de validez oficial de estudios al momento de fallecimiento del derechohabiente.
+
+Si algún hijo llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos, causas congénitas o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación, previa comprobación anual mediante dictamen emitido por peritos médicos que designe la Dirección de Pensiones y/o por medio de dictamen rendido por el instituto Mexicano del Seguro Social, para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión;
+
+III. Los hijos adoptivos tendrán derecho a la pensión por orfandad, en los términos del Código Familiar para el Estado;
+
+IV. A falta de cónyuge e hijos, a los ascendientes, siempre y cuando dependan económicamente del trabajador pensionado, y
+
+V. La concubina o el concubinario tendrán los derechos reservados al cónyuge, si concurren las circunstancias siguientes:
+
+a) Que tanto el trabajador como la concubina o el concubinario, hayan permanecido libres de matrimonio durante el concubinato.
+
+b) Que el trabajador contribuyente al fondo haya vivido con la concubina o el concubinario los cinco años que precedieron inmediatamente a su muerte.
+
+Si al morir el trabajador o trabajadora tenía varias concubinas o concubinarios, y éstos demuestran que se encuentran en las circunstancias señaladas en los incisos a) y b) anteriores, se estará a lo dispuesto en el Código Familiar para el Estado.
+
+Si otorgada una pensión aparecen otros familiares con derecho a la misma, se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea recibida la solicitud en la Dirección de Pensiones, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
+
+En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites del trabajador o pensionado, al exhibir su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho como cónyuge supérstite.
+
+Cuando un solicitante, ostentándose como cónyuge supérstite del trabajador o pensionado, reclame un beneficio que ya se haya concedido a otra persona por otro concepto, sólo se revocará el anteriormente otorgado si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece se le concederá pensión, la cual percibirá a partir de la fecha en que se reciba la sentencia señalada, sin que tenga derecho a reclamar a la Dirección, las cantidades cobradas por el primer beneficiario.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 148.
+
+Los trabajadores adscritos al Subsistema de Telesecundaria sindicalizados y los pensionados, declararán por escrito ante la Dirección, cuál será su voluntad acerca de los deudos enumerados en el artículo 147 de esta Ley, a quienes al fallecer se concederá o transmitirá la pensión, o gozarán de los beneficios que para ello se conceden, debiendo señalar el porcentaje de la pensión y/o de los beneficios que le corresponderá a cada beneficiario. No obstante este señalamiento, quien tenga derecho de alimentos de acuerdo con la ley de la materia, gozará de los beneficios de la pensión en la proporción que le corresponda.
+
+El trabajador tiene la obligación de hacer las designaciones por lo menos cada cinco años, y para obligarlo la Dirección de Pensiones podrá dictar las disposiciones conducentes.
+
+Las designaciones a que este artículo se refiere, podrán en todo tiempo ser substituidas por otras a voluntad del trabajador, dentro de las limitaciones establecidas por el artículo que antecede.
+
+La Dirección de Pensiones, a solicitud del pensionista, o de oficio, podrá administrar las pensiones, a juicio de la Dirección, mediante causa justificada.
+
+En caso de menores de edad, cuando exista controversia entre quién o quiénes detenten la patria potestad, la Dirección de Pensiones no entregará la pensión hasta que se le notifique la resolución ejecutoriada correspondiente, que indique a quién se deberá hacer el pago de la pensión en representación de los menores.
+
+Si el trabajador incluye en su escrito de designación de deudos, personas diversas a las señaladas en el artículo 147 de esta Ley, la designación será nula, únicamente en la parte conducente, y se tendrá por no puesta.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 149.
+
+Si un trabajador pensionado desapareciere de su domicilio por más de un mes sin que se tengan noticias de su paradero, quienes tuvieran derecho a la transmisión de la pensión podrán solicitar que se les transfiera con el carácter de provisional en los términos del artículo 146 fracción V, de esta Ley, y con sólo la comprobación de la desaparición y de su parentesco, sin que sea necesario promover diligencias de declaración de ausencia. Si el pensionista llegare a presentarse, tendrá derecho a recibir las diferencias entre el monto de la pensión y la parte entregada a sus beneficiarios. Si se comprueba el fallecimiento del pensionista, la transmisión tendrá el carácter de definitiva.
+
+En el caso del trabajador en activo y con derecho a pensión, que hubiere desaparecido de su domicilio por más de un mes sin que se tenga noticias de su paradero, el derechohabiente de aquél podrá solicitar que se le pague con el carácter de provisional la pensión, tan pronto presente la denuncia ante el Ministerio Público, se gire la orden de pesquisas y demuestre su derecho a la pensión en los términos de la presente Ley; supuesto en el cual la Dirección de Pensiones queda relevada de responsabilidad alguna. Si el trabajador llegare a presentarse podrá recibir el pago de la pensión, descontando la parte entregada al beneficiario; o bien, de ser procedente, reintegrarse al servicio y seguir cotizando al fondo respectivo, descontándose la parte que se entregó al beneficiario. Una vez resueltas las diligencias que declaren la ausencia del trabajador o comprobado el fallecimiento del mismo, el pago del recurso tendrá el carácter de definitivo.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 150.
+
+El importe de las pensiones concedidas a deudos será otorgado a quien designe la autoridad judicial por sentencia que haya causado ejecutoria, en caso de que el trabajador en vida no hubiere hecho la declaración establecida en el artículo 148 de este Ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO IV. DEL CÓMPUTO DEL TIEMPO DE SERVICIOS
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 151.
+
+El cómputo de los años de servicio de los trabajadores adscritos al Subsistema de Telesecundaria sindicalizados, se hará conforme al calendario por el simple transcurso del tiempo, sin agregarse nada por el desempeño simultáneo de varios empleos, sean éstos los que fueren, y tomándose en consideración sólo el tiempo de servicios efectivamente cotizados a la Dirección de Pensiones.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 152.
+
+La separación por licencia sin goce de sueldo sólo se computará como tiempo de servicios en los siguientes casos:
+
+I. Cuando sea concedida para el desempeño de comisiones sindicales, o el ejercicio de cargos públicos de elección popular, y
+
+II. Cuando las licencias sean concedidas por un periodo de hasta seis meses.
+
+En todo caso, para poder ser computables tales licencias, se requerirá que el trabajador siga cubriendo al fondo correspondiente, las aportaciones que sobre su sueldo corresponda aplicar, así como las estipuladas por los artículos 22 y 23 de esta Ley, durante todo el tiempo que comprenda la licencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO V. EXTINCION DE LAS PENSIONES Y PREESCRIPCION DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 153.
+
+El derecho a disfrutar de pensión se pierde por resolución judicial de autoridad competente, que expresamente así lo determine.
+
+Además de lo dispuesto por esta Ley, la pensión se pierde por las siguientes causas:
+
+I. Cuando se presente documentación falsa y/o alterada para obtener, mantener o transmitir una pensión, y
+
+II. Cuando el derechohabiente asiente hechos e información falsa en los formatos oficiales de la Dirección de Pensiones y/o en cualquier documento que presente ante la misma, con el fin de obtener los beneficios que establece la Ley.
+
+Para la aplicación de este artículo, la Dirección de Pensiones, con anuencia del interesado, procederá a la respectiva revisión y, en su caso, denunciará los hechos al Ministerio Público para los efectos que procedan, debiendo suspenderse el pago de la pensión hasta en tanto la autoridad judicial y/o administrativa correspondiente, determine si procede o no la pérdida del derecho a recibir el pago de la pensión en forma definitiva.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 154.
+
+El derecho a disfrutar pensión concluye:
+
+I. Para los hijos del trabajador, al cumplir dieciocho años de edad.
+
+La Dirección de Pensiones en coordinación con la Junta Directiva, puede prorrogar la pensión de orfandad, después de alcanzar el huérfano la edad de dieciocho años, en los casos siguientes:
+
+a) Si el hijo no puede mantenerse por su propio trabajo debido a una enfermedad duradera, defecto físico o psíquico, o cualquier otra discapacidad que le impida valerse por sí mismo.
+
+b) Si el hijo se encuentra estudiando en instituciones con reconocimiento oficial de estudios, y hasta una edad no mayor de veinticinco años;
+
+II. Para el cónyuge supérstite si vuelve a contraer nupcias o viviera en concubinato, y
+
+III. Para el concubino o concubina supérstite cuando contraiga nupcias o viviera en concubinato.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 155.
+
+El cónyuge, concubino o concubina supérstite de un pensionista, sólo percibirá pensión cuando se encuentre en los siguientes supuestos, a la fecha en que ocurra el deceso del pensionista:
+
+I. Se encuentre incapacitado para trabajar;
+
+II. Dependa económicamente de la pensión, y
+
+III. Cuando tenga más de sesenta y cinco años de edad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 156.
+
+La dependencia económica se acreditará mediante los instrumentos, estudios y/o procedimientos que establezca la propia Dirección de Pensiones, en coordinación con la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 157.
+
+Los divorciados no tendrán derecho a la pensión del que haya sido su cónyuge, a menos que el cónyuge hubiese sido condenado a pagarle alimentos; derecho que perderá al contraer nuevas nupcias o si viviere en concubinato.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 158.
+
+Las pensiones caídas, la devolución de descuentos, los intereses y cualquier prestación a cargo del fondo cotizado ante la Dirección de Pensiones, que no se cobren dentro de los tres años siguientes a la fecha en que hubieren sido exigibles, prescribirán a favor del fondo del sector; excepto cuando los trabajadores que se separen del servicio después de haber contribuido no menos de dieciocho años al fondo, y que no cumplan la edad pensionable; cuando cumplan la edad pensionable se les otorgará la pensión a la que tuvieren derecho según el tiempo contribuido al fondo, siempre que hubieren dejado al separarse, la totalidad de los descuentos que por razón de su cargo se les hayan hecho.
+
+Se exceptúan además las disposiciones establecidas en el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 159.
+
+Los créditos respecto de los cuales la Dirección de Pensiones tenga el carácter de acreedora, cualquiera que sea su especie, prescribirán en diez años a contar de la fecha en que la propia Dirección pueda, conforme a la ley, ejercitar sus derechos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 160.
+
+Las obligaciones de la administración pública estatal de aportar para el sostenimiento de los fondos las cantidades que esta Ley señala, serán imprescriptibles.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO VI. DE LOS GASTOS DE FUNERAL
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 161.
+
+Los beneficiarios de los trabajadores pensionistas fallecidos, tendrán derecho al otorgamiento de un préstamo hasta por el importe de ciento veinte días de la pensión, para gastos de funeral, con cargo al fondo del sector.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 162.
+
+La Dirección de Pensiones entregará a los familiares del extinto la cuota a que se refiere el artículo anterior, previa presentación del certificado de defunción y documentos con los que comprueben haberse encargado del sepelio, aunque no se comprobara el monto total señalado en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 163.
+
+Si no hubiere parientes, la Dirección de Pensiones se encargará de la inhumación con cargo al fondo del sector telesecundaria, limitando los gastos correspondientes al importe de la cuota establecida en el artículo 161 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### ARTICULO 164.
+
+Cuando los familiares del pensionista fallecido reciban su pensión, de la misma se les descontara el importe de los gastos de funeral que se hayan pagado.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
@@ -1824,3 +2240,23 @@ P.O. 25 DE AGOSTO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se establece el término de noventa días posteriores a la entrada en vigor del presente Decreto para que el sector Sección 26 Telesecundaria del SNTE, proponga ante la Junta Directiva de la Dirección de Pensiones, las modificaciones al reglamento que dispondrá las condiciones obligatorias y convenientes para su grupo cotizador, el cual tendrá que ser aprobado en los términos de la presente Ley y publicado en el Periódico Oficial del Estado. En caso de incumplimiento, seguirá vigente el reglamento en vigor a la fecha de expedición de este Decreto.
+
+TERCERO. Los trabajadores que se jubilen o pensionen a partir de la vigencia del presente Decreto, harán una aportación del diez por ciento de la pensión o jubilación que reciban, para el fortalecimiento del fondo sectorizado, y que será estipulado en su reglamento.
+
+Los jubilados y pensionados antes de la vigencia de este Decreto, harán una aportación voluntaria para el fortalecimiento de su fondo sectorizado del diez por ciento de la pensión o jubilación que reciban, conforme lo estipulen en el reglamento del grupo cotizador de la Dirección de Pensiones. Lo anterior con la finalidad de obtener los mejores beneficios, además de consolidar la economía en la Dirección de Pensiones de su Sector.
+
+CUARTO. Los trabajadores del sector Sección 26, Telesecundaria del SNTE, que a la entrada en vigor del presente Decreto, ya se encuentren cotizando ante la Dirección de Pensiones del Estado, se seguirán rigiendo conforme a las disposiciones de la Ley del año 2001.
+
+QUINTO. A la entrada en vigor de este Decreto, los actuales pensionados y jubilados que adquirieron sus derechos conforme a la Ley de Pensiones del 2001, seguirán percibiendo los aumentos a su pensión, en los términos de la ley bajo la cual se pensionaron.
+
+SEXTO. Se establece un bono a la permanencia de sesenta días de sueldo cotizado ante la Dirección de Pensiones del Estado, para aquellos trabajadores que cumplan un año más de servicio ininterrumpido, después de los derechos adquiridos para pensionarse por jubilación, el cual se les entregará anualmente, según las disposiciones del reglamento.
+
+SEPTIMO. Todo lo dispuesto en el Título Noveno de este Decreto, será aplicable a los trabajadores adscritos al Subsistema de Telesecundaria de la Secretaría de Educación de (sic) Gobierno del Estado, sindicalizados, que inicien a trabajar y a cotizar a la Dirección de Pensiones del Estado, posteriormente a la entrada en vigor de este Decreto; y lo que no se encuentre dentro de la ley y sea señalado en el Título Noveno referido, de beneficio para los trabajadores que ya se encuentren laborando, regirá también para ellos.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
