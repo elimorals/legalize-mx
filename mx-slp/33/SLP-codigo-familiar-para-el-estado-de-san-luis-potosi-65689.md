@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2012-12-22"
+last_updated: "2013-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1743,7 +1743,7 @@ Cuando los progenitores de la hija o hijo nacido fuera del matrimonio se separen
 
 Quienes ejercen la patria potestad, aún cuando no tengan la custodia o guarda, conservan los derechos de vigilancia y convivencia con sus descendientes, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para las o los menores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 277.
 
@@ -1764,6 +1764,8 @@ La o el que está sujeto a la patria potestad no puede comparecer en juicio, ni 
 Mientras la o el menor esté sujeto a la patria potestad, no podrá abandonar el domicilio familiar sin permiso de quien o quienes ejercen aquélla.
 
 ### Capítulo III. De los Modos de Terminarse, Transmitirse, Perderse o Suspenderse la Patria Potestad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 279.
 
@@ -1833,31 +1835,41 @@ Las personas que ejerzan la patria potestad deben entregar todos los bienes y fr
 
 ###### ARTICULO 291.
 
-La patria potestad se termina:
+La patria potestad termina:
 
-I. Por la muerte de quien la ejerce, si no hay otra persona en quien recaiga, o
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Por la mayoría edad de la o el menor.
+I. Por la muerte de quien la ejerce, si no hay otra persona en quien recaiga;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+II. Por la mayoría de edad de la o el menor, o
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE AGREGÓ ESTA FRACCIÓN, TODA VEZ QUE EN EL TEXTO ORIGINAL CONSTABA SÓLO CON DOS FRACCIONES.</small>
+
+III. Por sentencia que decrete el desconocimiento de hija o hijo.
 
 ###### ARTICULO 292.
 
 Por la adopción del menor, la patria potestad se transmite al adoptante.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 293.
 
 La patria potestad se pierde por resolución judicial:
 
-I. Cuando quien la ejerce sea condenado por algún delito grave o intencional, o por omisión en contra de la o el menor;
+I. Cuando quien la ejerce sea condenado por la comisión de un delito doloso en contra de la o el menor;
 
-II. Por abandono de las obligaciones alimenticias;
+II. Por el abandono de las obligaciones alimenticias sin causa justificada, por un periodo mayor a seis meses;
 
-III. Por la desatención de manera intencional de las obligaciones de convivencia por un término que cause perjuicios a la o el menor;
+III. Por la desatención de manera intencional y sin causa justificada, de las obligaciones de convivencia por un término mayor a seis meses;
 
-IV. Por incurrir en violencia familiar;
+IV. Cuando por resolución judicial se hubiere suspendido el ejercicio de la patria potestad por más de una vez;
 
-V. Por la exposición que el padre o la madre hiciere de sus hijas o hijos, y
+V. Por la comisión del, o los actos ejecutados por quien ejerce la patria potestad que pueda corromper a la o el menor, o
 
-VI. Cuando el que la ejerza sea condenado por delito grave dos o más veces.
+VI. Por padecer, quien ejerza la patria potestad, enajenación mental incurable, previa declaración de estado de interdicción.
 
 ###### ARTICULO 294.
 
@@ -1875,9 +1887,21 @@ I. Por incapacidad declarada judicialmente;
 
 II. Por la ausencia declarada en forma;
 
-III. Por sentencia condenatoria que imponga como pena esta suspensión, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV. Cuando quien la ejerza esté compurgando una pena privativa de libertad.
+III. Por sentencia condenatoria que imponga como pena esta suspensión;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IV. Cuando quien la ejerza esté compurgando una pena privativa de libertad, por delito doloso;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+V. Por el incumplimiento injustificado de las determinaciones de las autoridades judiciales, tendientes a corregir los actos de violencia familiar hacia la o el menor, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI. Por disponer de los bienes de la o el menor en los casos en que se requiera autorización judicial para ello y no se hubiere obtenido previamente.
 
 Cualquier persona interesada, o el Ministerio Público, podrán promover la suspensión.
 
@@ -3348,3 +3372,9 @@ P.O. 22 DE DICIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
