@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2013-07-11"
+last_updated: "2013-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -735,9 +735,9 @@ Sólo aquellos puntos de acuerdo cuya materia no sea de urgente y obvia resoluci
 
 El procedimiento que seguirán las iniciativas presentadas al Congreso, será el siguiente:
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-I. Serán recibidas en la oficialía de partes, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente; la copia deberá ser sellada y firmada de recibida y devuelta al promovente;
+I. Serán recibidas en la oficialía de partes con por lo menos setenta horas de anticipación a la sesión en que las conozca el Pleno, además de su dispositivo de almacenamiento de datos, en original y una copia que será firmada de recibido y devuelta al proponente;
 
 II. La Oficialía Mayor las turnará a la Directiva del Congreso para su registro;
 
@@ -749,7 +749,13 @@ IV. El dictamen de las comisiones se discutirá en el Pleno luego de su lectura;
 
 V. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2011)
 
-VI. La dispensa de trámites en el procedimiento de las iniciativas, sólo será posible por acuerdo expreso de las dos terceras partes de los diputados presentes en el recinto oficial.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI. La dispensa de trámites en el procedimiento de las iniciativas sólo será posible por acuerdo expreso de las dos terceras partes de los diputados presentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+No podrán presentarse iniciativas en la sesión si éstas no fueron previamente incluidas en la Gaceta Parlamentaria, a excepción de la dispensa enunciada en la fracción precedente.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
 
@@ -870,6 +876,10 @@ Cuando menos cuarenta y ocho horas antes de cada sesión, la Gaceta Parlamentari
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
 No será impedimento para tratar un asunto que no se haya publicado en la Gaceta Parlamentaria, siempre y cuando el Pleno apruebe su inclusión en el orden del día.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+En el caso de los informes financieros del Congreso del Estado, éstos deberán ser publicados cuando menos con siete días naturales de anticipación, al día de la sesión del Pleno en que se sometan a consideración. En el mismo término, deberán ser circulados de manera electrónica a cada uno de los diputados.
 
 ###### ARTICULO 90.
 
@@ -1135,7 +1145,9 @@ Asimismo, se llevará un libro de registro en el que se anotarán los acuerdos y
 
 Son atribuciones del Presidente de la Junta:
 
-I. Tener bajo su custodia los documentos que competan a la Junta y entregarlos, mediante acta, al Presidente que lo sustituya;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+I. Tener bajo su custodia los documentos que competan a la Junta y entregarlos, mediante acta, al Presidente que lo sustituya. Los documentos podrán ser consultados en cualquier momento por todos y cada uno de los integrantes de la Legislatura, siempre que lo soliciten;
 
 II. Convocar y presidir las reuniones ordinarias de la Junta, cuando menos una vez a la semana;
 
@@ -1433,7 +1445,7 @@ I. Si únicamente se toma conocimiento, caso en el que la comisión o comité de
 
 II. Si son para su atención y expediente respectivo, caso en el que la comisión deberá emitir la resolución que corresponda en un término no mayor de quince dí as (sic) hábiles; salvo que por la naturaleza del asunto se requiera de más tiempo para resolver, situación de la que informarán por escrito al promovente o promoventes, y
 
-III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de tumo; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
+III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de turno; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -1911,7 +1923,7 @@ II. Tomar nota y redactar las actas de las reuniones;
 
 III. Dar cuenta al presidente y a la comisión, de los asuntos de trámite turnados, y desahogar los mismos, así como la correspondencia turnada conforme a sus instrucciones;
 
-IV. Llevar el registro de asuntos turnados a la comisión; el estado que guardan; los que se encuentren pendientes de resol-ver y los resueltos y los resueltos;
+IV. Llevar el registro de asuntos turnados a la comisión; el estado que guardan; los que se encuentren pendientes de resolver y los resueltos y los resueltos;
 
 V. Apoyar a la comisión en la planeación, organización y realización de reuniones de trabajo, mesas de discusión, foros y demás actividades tendientes al cumplimiento de sus funciones;
 
@@ -2250,6 +2262,22 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 11 DE JULIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 369, QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 89 Y REFORMA LA FRACCIÓN I DEL ARTÍCULO 126 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 361, QUE REFORMA LAS FRACCIONES I Y VI DEL ARTÍCULO 75 Y ADICIONA UN ÚLTIMO PÁRRAFO AL MISMO ARTÍCULO 75 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
