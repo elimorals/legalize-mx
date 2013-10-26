@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2013-10-23"
+last_updated: "2013-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -73,7 +73,7 @@ Es derecho de todo habitante del Estado de Chihuahua, el aprovechamiento de las 
 
 La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado Mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados.
 
-l. Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
+I. Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
 
 II. Toda persona tiene derecho a la información.
 
@@ -1275,11 +1275,11 @@ E.- Presentar al Congreso, a más tardar en la tercera sesión posterior inmedia
 
 Para que los diputados puedan cumplir con las prevenciones contenidas en este artículo, todos los funcionarios del Estado y de los municipios les proporcionarán cuantos datos les pidieren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Art. 66.
 
-Los diputados podrán formular preguntas al Secretario General de Gobierno, al Fiscal General del Estado o a cualesquiera de los Secretarios y Coordinadores, conforme a las bases siguientes:
+Los Diputados podrán formular preguntas al Secretario General de Gobierno, al Fiscal General del Estado, a cualquiera de los Secretarios o Coordinadores y a los Titulares de los Organismos Públicos Autónomos y Organismos Descentralizados, conforme a las bases siguientes:
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -1289,13 +1289,13 @@ I.- Deberán presentarse por escrito, redactadas en forma sucinta, acompañarse 
 
 II.- No podrán contener más que la directa y estricta formulación de una sola cuestión, interrogando sobre un hecho, una situación o una información que no sean del exclusivo interés de quien plantea la pregunta, de cualquier otra persona en particular ni tratarse de una consulta de carácter meramente técnico.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-III.- A más tardar en la segunda sesión posterior a la de su formulación, el Presidente del Congreso turnará la pregunta a quien va dirigida, con aviso al Gobernador, una vez que haya constatado que el cuestionamiento corresponde a un asunto de la competencia del funcionario de que se trate y que además reúne los requisitos señalados en las fracciones anteriores. En caso contrario, o bien porque ya se haya presentado otra pregunta similar en el mismo período, la declarará improcedente.
+III.- A más tardar en la segunda sesión posterior a la de su formulación ante el Pleno o la siguiente cuando se presente en la Diputación Permanente, el Presidente turnará la pregunta a quien va dirigida, con aviso al Gobernador, una vez que haya constatado que el cuestionamiento corresponde a un asunto de la competencia del funcionario de que se trate y que además reúne los requisitos señalados en las fracciones anteriores. En caso contrario, o bien porque ya se haya presentado por otra pregunta similar en el mismo período, la declarará improcedente;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV.- El funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente al Presidente del Congreso o de la Diputación Permanente dentro de los treinta días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada el plazo podrá prorrogarse por una sola vez hasta por diez días naturales, y
+IV.- Tratándose de la administración centralizada, el funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente al Presidente del Congreso o de la Diputación Permanente, en los demás casos por conducto del Presidente, Directores o sus equivalentes de los organismos mencionados, dentro de los veinte días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada el plazo podrá prorrogarse por una sola vez hasta por cinco días naturales, y
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -2673,7 +2673,7 @@ I.- Garantizada por el artículo 24 de la Constitución Federal la libertad de c
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
-II. El criterio que orientará a esa educación se basará en los resultados del progreso científico, en el desarrollo de los diversos ámbitos y disciplinas del conocimiento, en el respeto y entendimiento de las diferentes culturas, y luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, en el desarrollo de los diversos ámbitos y disciplinas del conocimiento, en el respeto y entendimiento de las diferentes culturas, y luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
 A.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
@@ -4112,3 +4112,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 La reforma constitucional contenida en el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el artículo 202 de la Constitución local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
