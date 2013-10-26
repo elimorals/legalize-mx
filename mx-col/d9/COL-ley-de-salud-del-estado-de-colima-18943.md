@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2012-05-12"
+last_updated: "2013-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -83,23 +83,53 @@ VI.- El conocimiento de los servicios de salud para su adecuado aprovechamiento 
 
 VI.- Garantizar el acceso a los servicios de salud a los menores de edad, las mujeres, las personas con discapacidad y los adultos mayores.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-Para los efectos de esta Ley, se entenderá por:
+###### ARTICULO 3°.
 
-I.- Ley General, a la Ley General de Salud;
+Para los efectos de la presente Ley, se entenderá por:
 
-II.- Ley, a la Ley de Salud del Estado de Colima;
+I.- Atención médica, al conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud, la cual podrá apoyarse de medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría de Salud;
 
-III.- Secretaría de Salud, a la Secretaría de Salud del Poder Ejecutivo Federal;
+II.- Asistencia social:
 
-IV.- Secretaría, a la Secretaría de Salud y Bienestar Social del Gobierno del Estado de Colima o al organismo público descentralizado del Gobierno del Estado denominado los Servicios de Salud del Estado;
+a) La atención a personas que, por sus carencias socio-económicas o por su condición de discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-V.- Sistema, al Sistema Estatal de Salud;
+b) La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y personas con discapacidad sin recursos; y
 
-VI.- Gobernador, al Titular del Poder Ejecutivo Estatal; y
+c) La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos y personas con discapacidad sin recursos;
 
-VII.- Secretario, al Secretario de Salud y Bienestar Social y Presidente Ejecutivo de los Servicios de Salud del Estado de Colima.
+III.- Discapacidad, a la o las deficiencias de carácter físico, mental, intelectual o sensorial, ya sean permanentes o temporales, que por razón congénita o adquirida presenta una persona, que al interactuar con las barreras que le impone el entorno social, puedan impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+
+IV.- Educación para la salud, a la formación que tiene por objeto:
+
+a) Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerse de los riesgos que pongan en peligro su salud;
+
+b) Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+
+c) Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades;
+
+V.- Gobernador, al Titular del Poder Ejecutivo Estatal;
+
+VI.- Ley General, a la Ley General de Salud;
+
+VII.- Ley, a la Ley de Salud del Estado de Colima;
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+VIII.- Secretaría de Salud, a la Secretaría de Salud del Poder Ejecutivo Federal;
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+IX.- Secretaría, a la Secretaría de Salud y Bienestar Social del Gobierno del Estado de Colima o al organismo público descentralizado del Gobierno del Estado denominado los Servicios de Salud del Estado;
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+X.- Secretario, al Secretario de Salud y Bienestar Social y Presidente Ejecutivo de los Servicios de Salud del Estado de Colima; y
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+XI.- Sistema, al Sistema Estatal de Salud.
 
 ###### ARTICULO 4º.
 
@@ -137,9 +167,9 @@ i).- Salud ocupacional, para lo cual se promoverán, desarrollarán y difundirá
 
 j).- Prevención y control de las enfermedades transmisibles a las que se refiere la Ley General y de acuerdo con las disposiciones de la misma;
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-k).- Prevención y control de enfermedades no transmisibles y accidentes;
+k).- Prevención y control de enfermedades no transmisibles y accidentes, promoviendo la participación y capacitación de la comunidad en la cultura de la prevención y primeros auxilios de accidentes.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -167,9 +197,21 @@ e).- El programa contra la farmacodependencia, en coordinación con la Secretar�
 
 III.- Planear, organizar y desarrollar el Sistema Estatal de Salud, procurando su participación programática en el Sistema Nacional de Salud y coadyuvando a su consolidación y funcionamiento;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV.- Consolidar el sistema estatal de información básica en materia de salud y proporcionar la información a las autoridades federales competentes;
+IV.- Consolidar el sistema estatal de información básica en materia de salud y proporcionar la información a las autoridades federales competentes. La información se referirá, fundamentalmente, a los siguientes aspectos:
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE INCISO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2010 NO EXISTÍA.</small>
+
+a) Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE INCISO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2010 NO EXISTÍA.</small>
+
+b) Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE INCISO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2010 NO EXISTÍA.</small>
+
+c) Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
@@ -339,7 +381,7 @@ II. Colocar en un lugar visible dentro de su establecimiento un letrero con la s
 
 ARTICULO 12 BIS 2.- Los Ayuntamientos conjuntamente con las autoridades educativas y de salud en el Estado llevarán a cabo una campaña de orientación para evitar que en los trabajos escolares se empleen o se le haga algún uso indebido de alguna de las substancias señaladas en el artículo 12 Bis de esta Ley.
 
-De igual forma, los inspectores municipales promoverán y llevarán a cabo campañas permanentes de información y orientación al público en general, para la prevención de daños a la salud provocadas por el consumo de substancias inhalantes, a través de foros de información y publicaciones periódicas al respecto.
+De igual forma, los inspectores municipales promoverán y llevarán a cabo campañas permanentes de información y orientación al público en general, para la prevención de daños a la salud provocadas por el consumo de subtancias inhalantes, a través de foros de información y publicaciones periódicas al respecto.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -355,7 +397,7 @@ IV. Requerir los registros de venta que sobre las sustancias señaladas en el ar
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
-ARTICULO 12 BIS 4.- Las contravenciones a las disposiciones contenidas en los artículos 12 BIS1 al 12 BIS3 darán lugar a las medidas de seguridad y a las sanciones que se señalan en la presente ley, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos o conlleven en sí la violación a otras disposiciones jurídicas aplicables.
+ARTICULO 12 BIS 4.- Las contravenciones a las disposiciones contenidas en los artículos 12 BIS 1 al 12 BIS 3 darán lugar a las medidas de seguridad y a las sanciones que se señalan en la presente ley, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos o conlleven en sí la violación a otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 13.
 
@@ -403,9 +445,35 @@ VI.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, qu
 
 VII.- impulsar un sistema racional para la formación y desarrollo de los recursos humanos para mejorar la salud de la población;
 
-VIII.- Coadyuvar a la modificación de los patrones culturales que determinan hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IX.- Promover el fomento sanitario que coadyuve al desarrollo de establecimientos, productos y servicios que no sean nocivos para la salud.
+VIII.- Coadyuvar a la modificación de los patrones culturales que determinan hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IX.- Promover el fomento sanitario que coadyuve al desarrollo de establecimientos, productos y servicios que no sean nocivos para la salud; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 15 BIS.- En materia de prevención de la discapacidad y rehabilitación de las personas con discapacidad, el Sistema, por medio de la Secretaría se encargará de:
+
+I.- La investigación de las causas de la discapacidad y de los factores que la condicionan;
+
+II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
+
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales y sociales que puedan causar discapacidad;
+
+IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con alguna persona con discapacidad, promoviendo al efecto la solidaridad social;
+
+V.- La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, ortesis y ayudas funcionales que requieran, de conformidad con la suficiencia presupuestal;
+
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
+
+VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
 ###### ARTICULO 16.
 
@@ -439,9 +507,17 @@ XIII.- Coadyuvar a que la formación y distribución de los recursos humanos par
 
 XIV.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en la materia; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema y las que determinen las disposiciones generales aplicables.
+XV.- Impulsar la permanente actualización de las disposiciones legales en la materia;
+
+(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 30 DE DICIEMBRE DE 2000, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+XVI.- Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en los servicios de Salud; y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XVII.</small>
+
+XVII.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 17.
 
@@ -569,7 +645,9 @@ VII.- A que se le apliquen exámenes de valoración, confiables y actualizados q
 
 VIII.- A solicitar su diagnóstico diferencial, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado recluidos en un hospital o pabellón penitenciario psiquiátrico o establecimiento especializado en adiciones (sic);
 
-IX.- A ser ingresado a algún centro de internamiento mental por prescripción médica, incluyendo conductas o acciones que puedan causarle daño físico inmediato o inminente así mismo, a terceros o la propiedad, cuando la severidad de los síntomas y signos así lo indiquen, conforme a las mejores prácticas de la psicología, la psiquiatría y medicina;
+> <small>(REFORMADA P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IX.- A ser ingresado a algún centro de internamiento mental por prescripción médica, como último recurso terapéutico, cuando presente conductas o acciones que puedan causarle daño físico inmediato o inminente a sí mismo, a terceros o a la propiedad, y únicamente en los casos donde la severidad de los síntomas y signos así lo indiquen. El internamiento se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determinen la autoridad competente y las disposiciones jurídicas aplicables;
 
 X.- A ser egresado del centro de internamiento mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente, así mismo, a terceros o la propiedad;
 
@@ -605,15 +683,75 @@ VII.- Coordinarse con la Secretaría del Trabajo y Previsión Social del Estado 
 
 VIII.- Las demás acciones que contribuyan a la promoción fomento (sic) de la salud mental de la población.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPITULO III. ATENCIÓN MATERNO-INFANTIL
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 10.- La protección materno-infantil abarca el período que incluye el embarazo, el parto, el post-parto y el puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el producto. Dicha protección tiene carácter prioritario y comprende, de manera enunciativa y no limitativa, las siguientes acciones:
+
+I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal; así como la prevención, detección y, en su caso, atención de las condiciones y enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado;
+
+III.- La revisión de retina y tamiz auditivo al prematuro;
+
+IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
+
+V.- La atención del niño y su vigilancia durante el crecimiento y desarrollo, promoviendo la integración y el bienestar familiar.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 11.- En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema, y de este modo adoptar las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 12.- La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 13.- En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias competentes establecerán:
+
+I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+
+II.- Acciones de orientación y vigilancia institucional, fomento para la lactancia materna, promoviendo que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+
+III.- Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales;
+
+IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años, y
+
+V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 14.- La Secretaría impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, mediante la creación de Redes de Apoyo a la Salud Materno-Infantil, en el ámbito de su competencia.
+
+Lo anterior tendrá la finalidad de poner a disposición de las mujeres embarazadas, la información sobre la prestación de servicios médicos en esta materia, y en su caso, brindarles apoyo para acceder a éstos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 15.- Las autoridades sanitarias, educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I.- Los programas para padres destinados a promover la atención materno-infantil;
+
+II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes, y
+
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+ARTICULO 20 BIS 16.- En materia de higiene escolar, deberán seguirse las normas oficiales mexicanas establecidas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
+
+La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
+
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
-### CAPITULO III. CONSTRUCCIONES
-
 ## TITULO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 21.
 
@@ -659,7 +797,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 27.
 
@@ -677,7 +815,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 30.
 
@@ -711,7 +849,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### CAPITULO VII. AGUA POTABLE
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 38.
 
@@ -731,7 +869,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE
 
 ###### ARTICULO 41.
 
@@ -767,7 +905,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 46.
 
@@ -815,7 +953,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
 
 ###### ARTICULO 57.
 
@@ -843,7 +981,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 63.
 
@@ -871,7 +1009,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 67.
 
@@ -899,7 +1037,7 @@ II.- A las personas que padezcan de alguna enfermedad sexualmente transmisible u
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
 
 ###### ARTICULO 71.
 
@@ -925,7 +1063,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
 
 ###### ARTICULO 73.
 
@@ -935,7 +1073,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### CAPITULO XV. TRANSPORTE PUBLICO
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 75.
 
@@ -945,7 +1083,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO XV. TRANSPORTE PUBLICO
 
 ###### ARTICULO 77.
 
@@ -967,7 +1105,27 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
+### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
+
 ### CAPITULO XVII. CENTROS ANTIRRABICOS
+
+###### ARTICULO 81.
+
+Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, el que proporcione servicio público de alojamiento y otros servicios complementarios, mediante el pago de un precio determinado.
+
+Los establecimientos de hospedaje serán: hoteles, moteles, campamentos, albergues, posadas, casa de huéspedes, casa de asistencia, de tiempo compartido, así como cualquier edificación que se destina a dar alojamiento.
+
+###### ARTICULO 82.
+
+Los establecimientos de hospedaje contarán necesariamente con los elementos para prestar los primeros auxilios, así como con los medicamentos y materiales de curación que considere necesarios la autoridad competente.
+
+###### ARTICULO 83.
+
+En caso de que estos establecimientos cuenten con servicios complementarios como restaurante, servicio de bar, peluquería, sala de belleza, baños, masaje, gimnasio, lavandería, planchaduría y tintorería, estos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento y de sus reglamentos respectivos.
+
+###### ARTICULO 84.
+
+La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
 ### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
 
@@ -987,23 +1145,13 @@ En caso de incumplimiento por parte de los propietarios o poseedores de dichos e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
 
-###### ARTICULO 81.
+###### ARTICULO 85.
 
-Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, el que proporcione servicio público de alojamiento y otros servicios complementarios, mediante el pago de un precio determinado.
+Para los efectos de esta Ley, se entiende por medio de transporte todo aquel vehículo destinado al traslado de carga, de alimentos o de pasajeros, sea cual fuere su forma de desplazamiento.
 
-Los establecimientos de hospedaje serán: hoteles, moteles, campamentos, albergues, posadas, casa de huéspedes, casa de asistencia, de tiempo compartido, así como cualquier edificación que se destina a dar alojamiento.
+###### ARTICULO 86.
 
-###### ARTICULO 82.
-
-Los establecimientos de hospedaje contarán necesariamente con los elementos para prestar los primeros auxilios, así como con los medicamentos y materiales de curación que considere necesarios la autoridad competente.
-
-###### ARTICULO 83.
-
-En caso de que estos establecimientos cuenten con servicios complementarios como restaurante, servicio de bar, peluquería, sala de belleza, baños, masaje, gimnasio, lavandería, planchaduría y tintorería, estos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento y de sus reglamentos respectivos.
-
-###### ARTICULO 84.
-
-La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
+Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
 ### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
 
@@ -1041,16 +1189,6 @@ III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, ed
 
 IV. Los demás casos que ameriten su estudio y Análisis.
 
-###### ARTICULO 85.
-
-Para los efectos de esta Ley, se entiende por medio de transporte todo aquel vehículo destinado al traslado de carga, de alimentos o de pasajeros, sea cual fuere su forma de desplazamiento.
-
-###### ARTICULO 86.
-
-Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
-
-### CAPITULO I. AUTORIZACIONES
-
 ###### ARTICULO 87.
 
 Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de servicios similares: los establecimientos destinados al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
@@ -1059,7 +1197,7 @@ Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 89.
 
@@ -1093,15 +1231,15 @@ Los propietarios serán responsables de las lesiones y daños a terceros que cau
 
 Las autoridades competentes mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O 14 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2007)</small>
+
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ### CAPITULO III. CERTIFICADOS
 
-### CAPITULO UNICO
-
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 93.
 
@@ -1133,7 +1271,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 100.
 
@@ -1179,7 +1317,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 107.
 
@@ -1213,7 +1351,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 112.
 
@@ -1319,7 +1457,7 @@ En el caso de los productos muestreados en procedimientos de muestreo o verifica
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 125.
 
@@ -1357,9 +1495,11 @@ XI.-. Las demás de índole sanitaria que puedan evitar que se causen riesgos o 
 
 En lo relativo a las medidas de seguridad, materia de salubridad general, se estará a lo dispuesto por la Ley General.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 128.
 
-La Secretaría, en coordinación con las dependencias encargadas de la sanidad animal, podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud.
+La Secretaría, en coordinación con las dependencias encargadas de la sanidad animal, podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades a las personas, o que pongan en riesgo la salud de las mismas.
 
 ###### ARTICULO 129.
 
@@ -1390,6 +1530,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 ###### ARTICULO 132.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud de las personas.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 133.
 
@@ -1708,3 +1850,9 @@ QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realiza
 P.O. 12 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Secretaría de Salud y Bienestar Social del Gobierno del Estado, deberá cumplir con las disposiciones contenidas en el Capítulo III, intitulado "ATENCIÓN MATERNO INFANTIL", del Título Segundo denominado "SISTEMA ESTATAL DE SALUD", el 1° de enero del año 2015.
