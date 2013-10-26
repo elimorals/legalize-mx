@@ -4,7 +4,7 @@ identifier: "COL-ley-de-mejora-regulatoria-para-el-estado-de-colima-82126"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-02"
-last_updated: "2011-07-02"
+last_updated: "2013-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Ley Publicada en el Suplemento número 3 del Periódico Oficial del estado de Colima, el sábado 2 de julio de 2011
 
@@ -35,7 +35,7 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 33 FRACCION II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDO: .
+CONSIDERANDO...
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -49,13 +49,23 @@ LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, sus disposiciones son de observancia general para las dependencias y entidades de la administración pública estatal y municipal, así como para los organismos autónomos de carácter constitucional; tiene por objeto impulsar la mejora regulatoria en el Estado de Colima, a través de la coordinación de acciones entre las autoridades y los sectores social y privado, así como procurar el uso de los medios electrónicos, magnéticos o de cualquier tecnología y el uso de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los servicios, trámites y actos administrativos.
+La presente Ley es de orden público e interés social, sus disposiciones son de observancia general para las dependencias y entidades de la administración pública estatal y tiene por objeto impulsar la mejora regulatoria, coordinar acciones entre las autoridades y los sectores social y privado, así como procurar el uso de los medios electrónicos, magnéticos o de cualquier tecnología, de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los trámites, servicios y actos administrativos.
 
-Los municipios de la entidad, los organismos autónomos de carácter constitucional, así como las dependencias y entidades tanto de la administración pública estatal como municipal, comprendiendo en este rubro a los organismos paraestatales y paramunicipales, descentralizados, empresas de participación pública y desconcentrados, podrán suscribir convenios con el Poder Ejecutivo del Estado, a través de la Secretaría de Fomento Económico, para facilitar la implementación del objeto señalado en el párrafo anterior.
+Los Municipios de la entidad y los organismos autónomos de carácter constitucional, podrán suscribir convenios con el Poder Ejecutivo del Estado, a través de la Secretaría de Fomento Económico, para la implementación del objeto señalado en el párrafo anterior.
 
-En los servicios, trámites y actos administrativos que se derivan de la aplicación de programas sociales federales, las dependencias observarán las reglas de operación y demás legislación que se aplican a los mismos y aplicarán sólo las disposiciones de la presente Ley en aquellas acciones que no se contrapongan a sus propias reglas.
+No serán aplicables las disposiciones de esta Ley a las materias fiscal, de responsabilidades de los servidores públicos, de justicia administrativa y laboral, de seguridad pública, ni al Ministerio Público en ejercicio de sus funciones constitucionales.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+Los Poderes Legislativo y Judicial podrán aplicar las disposiciones previstas en la presente Ley y en el Reglamento para establecer acciones, instrumentos y mecanismos que ellos definan, en el ámbito de su respectiva competencia.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+En los trámites, servicios y actos administrativos que se derivan de la aplicación de programas federales, las dependencias observarán las reglas de operación y demás legislación aplicable a los mismos y aplicarán sólo las disposiciones de la presente Ley en aquellas acciones que no se contrapongan a sus propias reglas.
 
 ###### Artículo 2.
 
@@ -67,73 +77,179 @@ II. Autoridad Certificadora: Al organismo público facultado para otorgar un cer
 
 III. Centro Municipal de Negocios: A las áreas físicas, que cuenten con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios, trámites o actos administrativos relacionados con el desarrollo económico del municipio;
 
-IV. Comité: Al Comité de Calidad de la Mejora Regulatoria del Gobierno del Estado de Colima;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-V. Consejo: Al Consejo Estatal de Mejora Regulatoria;
+IV. Código de barras bidimensional: Al conjunto de puntos que permite guardar y leer información en una matriz;
 
-VI. Dependencias: A las secretarías de la administración pública estatal, así como a los organismos autónomos de carácter constitucional, tanto estatal como municipal, comprendiendo a los paraestatales, desconcentrados, descentralizados y empresas de participación pública;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-VII. Dictamen Regulatorio: Al documento que emite el Consejo respecto de una Manifestación de Impacto Regulatorio con carácter vinculante;
+V. Código de barras lineal: Al conjunto de barras y espacios que permiten la definición y lectura de información;
 
-VIII. Firma Electrónica Certificada: Al conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos, que permite asegurar la integridad y autenticidad de la firma y la identidad del firmante y que ha sido debidamente certificada por la autoridad certificadora, en los términos que señalan la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IX. Interesado: A la persona física o moral que tiene un interés legítimo respecto de un servicio, trámite o acto administrativo;
+VI. Comité: Al Comité de Calidad de la Mejora Regulatoria del Gobierno del Estado de Colima;
 
-X. Ley: A la Ley de Mejora Regulatoria para el Estado de Colima;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XI. Ley de Medios: A la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima;
+VII. Consejo: Al Consejo Estatal de Mejora Regulatoria;
 
-XII. Manifestación de Impacto Regulatorio: Al documento justificatorio que contiene el análisis y evaluación del costo-beneficio de propuestas regulatorias elaborado por las dependencias;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XIII. Medios de Comunicación Electrónicos: A los dispositivos tecnológicos para efectuar transmisión de datos e información a través de computadoras, líneas telefónicas o de cualquier otra tecnología que las dependencias pongan a disposición para fines específicos, en los términos de la Ley de Medios y su Reglamento;
+VIII. Credencial Repa: Al instrumento oficial de identificación que hace prueba plena respecto de los datos de identidad del titular del mismo;
 
-XIV. Mejora Regulatoria: A la política pública sistemática, participativa y transversal que busca la construcción de un marco regulatorio óptimo en las relaciones intra e inter gubernamentales y con el ciudadano, apoyada en los principios de economía administrativa, calidad, certidumbre jurídica, oportunidad, transparencia y accesibilidad virtual, con la finalidad de reducir o eliminar tiempos y costos económicos, la discrecionalidad, la duplicidad de requerimientos y trámites, y la opacidad administrativa a ciudadanos y empresas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XV. Normateca Interna: A la Recopilación de la legislación aplicable vigente;
+IX. CURP: A la Clave Única de Registro de Población;
 
-XVI. Programa Estatal de Mejora Regulatoria: Al conjunto de acciones, indicadores y metas que tendrán la finalidad de dar seguimiento y evaluar las acciones de mejora regulatoria de las dependencias de la administración pública estatal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XVII. Programa Operativo Municipal de Mejora Regulatoria: Al conjunto de acciones, indicadores y metas que tendrán la finalidad de dar seguimiento y evaluar las acciones de mejora regulatoria de las dependencias de la administración pública municipal;
+X. Dependencias: A las secretarías de la administración pública estatal, a los organismos públicos descentralizados, desconcentrados, paraestatales y empresas de participación pública estatales. Y las entidades municipales y organismos autónomos de carácter constitucional que suscriban el convenio en los términos del artículo 1 de la presente Ley;
 
-XVIII. Propuesta de Mejora Regulatoria: A la manifestación de un ciudadano o persona moral, sobre la mejora de un trámite, servicio, sistemas, bases de datos, documentos u acto en general o específico, que involucra la prestación de un servicio o trámite; y las acciones al interior de la administración pública, presentada en forma física o por medios electrónicos a cualquier autoridad o las Unidades de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XIX. Queja Regulatoria: A la manifestación formal de insatisfacción del ciudadano u persona moral, ante un posible cumplimiento parcial o negativa injustificada del servicio o trámite prestado por las autoridades, ante la deficiencia de oportunidad, accesibilidad, transparencia, calidad, economía administrativa del mismo u otro;
+XI. Dictamen regulatorio: Al documento que emite el Consejo respecto de una manifestación de impacto regulatorio con carácter vinculante;
 
-XX. Registro: Al Registro de Trámites y Servicios;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XXI. Reglamento: Al Reglamento de esta Ley;
+XII. Dictamen regulatorio interno: Al documento que emite el Comité respecto de una manifestación de impacto regulatorio interna con carácter vinculante;
 
-XXII. REPA: Al Registro Estatal de Personas Acreditadas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XXIII. SARE: Al Sistema de Apertura Rápida de Empresas que los municipios establezcan en el Estado de Colima;
+XIII. Firma electrónica certificada: Al conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos, que permite asegurar la integridad y autenticidad de la firma y la identidad del firmante y que ha sido debidamente certificada por la autoridad certificadora, en los términos que señalan la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento;
 
-XXIV. Secretaría: A la Secretaría de Fomento Económico del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XXV. Secretaría de Administración: A la Secretaría de Administración del Gobierno del Estado;
+XIV. Interconexión: A la conexión de los equipos de cómputo, redes de telecomunicaciones y servicios informáticos utilizados por el Instituto y las dependencias;
 
-XXVI. Servicios: Al conjunto de elementos personales y materiales, coordinados por las dependencias de la administración pública, destinados a atender una necesidad de carácter general;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XXVII. Trámites: A cualquier solicitud o entrega de información que los particulares, sean personas físicas o morales, realicen ante una dependencia; y
+XV. Instituto: Al Instituto Colimense para la Sociedad de la Información y el Conocimiento;
 
-XXVIII. Unidades de Mejora Regulatoria: A las áreas de cada dependencia responsables de planear, organizar, dirigir, controlar y evaluar los procesos de mejora regulatoria al interior de cada una de ellas.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVI. Interesado: A la persona física o moral que tiene un interés legítimo respecto de un trámite, servicio o acto administrativo;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVII. Justificación regulatoria: A los elementos cuantitativos y cualitativos que acreditan la necesidad de una modificación de una regulación vigente o la expedición de una nueva con impacto en la ciudadanía;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVIII. Ley: A la Ley de Mejora Regulatoria para el Estado de Colima;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIX. Ley de Medios: A la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XX. Llave Repa: A la serie de dígitos alfanuméricos de la persona acreditada, la cual se conforma por la CURP, para las personas físicas y por el Registro Federal de Causantes, para las personas morales, más la contraseña que la propia persona acreditada determine;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXI. Manifestación de impacto regulatorio: Al documento justificatorio que contiene el análisis y evaluación del costo-beneficio de propuestas regulatorias elaborado por las dependencias;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXII. Manifestación de impacto regulatorio interna: Al documento justificatorio que contiene el análisis y evaluación del beneficio de propuesta (sic) regulatorias elaborados por las dependencias de la administración pública estatal y los organismos públicos descentralizados estatales;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXIII. Medios de comunicación electrónicos: A los dispositivos tecnológicos para efectuar transmisión de datos e información a través de computadoras, líneas telefónicas o de cualquier otra tecnología que las dependencias pongan a disposición para fines específicos, en los términos de la Ley de Medios y su Reglamento;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXIV. Mejora regulatoria: A la política pública sistemática, participativa y transversal que busca la construcción de un marco regulatorio óptimo para las relaciones de entidades gubernamentales con sus gobernados, apoyada en los principios de economía administrativa, calidad, certidumbre jurídica, oportunidad, transparencia y accesibilidad, con la finalidad de reducir o eliminar tiempos y costos económicos, la discrecionalidad, la duplicidad de requerimientos y trámites, la opacidad administrativa, en favor de la competencia económica;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXV. Normateca interna: A la recopilación de la legislación aplicable vigente;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXVI. Personas acreditadas: A las personas físicas o morales que obtengan, previo el trámite respectivo, su inscripción en el Registro Estatal de Personas Acreditadas y obtengan la Credencial Repa y la Llave Repa;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXVII. Plan Estatal de Mejora Regulatoria: Al conjunto de objetivos, metas, estrategias, acciones e indicadores en materia de mejora regulatoria de las dependencias de la administración pública estatal;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXVIII. Plan Municipal de Mejora Regulatoria: Al conjunto de estrategias, acciones, metas e indicadores en materia de mejora regulatoria de las dependencias de las administraciones públicas municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXIX. Programa Operativo de Mejora Regulatoria: Al conjunto de objetivos, metas, estrategias e indicadores en materia de mejora regulatoria de las dependencias y de las unidades de mejora regulatoria que la integren, cuando sea el caso;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXX. Propuesta de mejora regulatoria: A la manifestación sobre las modificaciones de los trámites, servicios, requisitos, sistemas, bases de datos, documentos u acto en general o específico, que involucra la prestación de un trámite o servicio, presentada en forma física o por medios de comunicación electrónicos a cualquier autoridad o a las unidades de mejora regulatoria;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXI. Queja regulatoria: A la manifestación formal de insatisfacción de los interesados, ante el incumplimiento o negativa injustificada del trámite o servicio prestado por las dependencias, respecto a lo establecido en el Registro Estatal de Trámites y Servicios;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXII. Registro: Al Registro Estatal de Trámites y Servicios;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXIII. Reglamento: Al Reglamento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXIV. REPA: Al Registro Estatal de Personas Acreditadas;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXV. SARE: Al Sistema de Apertura Rápida de Empresas que los municipios establezcan en el Estado de Colima;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXVI. Secretaría: A la Secretaría de Fomento Económico del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXVII. Servicios: Al conjunto de elementos personales y materiales, adscritos a las dependencias, destinados a atender una necesidad de carácter general o proveer un beneficio;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXVIII. Trámite: A cualquier solicitud, entrega de información o documento que los interesados hagan ante una dependencia, ya sea para cumplir con una obligación o para que se emita una resolución; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXIX. Unidades de mejora regulatoria: A las dependencias o unidades administrativas pertenecientes a las mismas, cuya naturaleza, autonomía de gestión o competencia respecto a los trámites y servicios que ofrecen, hace necesaria su conformación. Estas unidades tendrán como principales atribuciones las de planear, organizar, dirigir, controlar y evaluar los procesos de mejora regulatoria.
 
 ### CAPÍTULO II. DE LOS OBJETIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 3.
 
-De manera enunciativa más no limitativa, la presente Ley tendrá los siguientes objetivos específicos:
+De manera enunciativa más no limitativa, la presente Ley tendrá los siguientes objetivos:
 
-I. Simplificar el marco regulatorio a través de la eliminación parcial o total de los actos administrativos, requerimientos y trámites;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Impulsar la homologación de trámites, formatos, requerimientos, padrones y reglamentos, así como cualquier acto administrativo de las dependencias;
+I. Simplificar el marco regulatorio a través de la eliminación parcial o total de los actos administrativos, trámites y servicios;
 
-III. Incidir en la regulación con principios de calidad, transparencia, eficiencia, accesibilidad virtual, certeza jurídica y oportunidad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+II. Impulsar la homologación de trámites, servicios, formatos, requerimientos y reglamentos, así como cualquier acto administrativo de las dependencias;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+III. Incidir en la regulación con principios de calidad, transparencia, eficiencia, accesibilidad, certeza jurídica y oportunidad;
 
 IV. Contribuir a la reducción y eliminación de tiempos y costos económicos, discrecionalidad, duplicidad de requerimientos, trámites y opacidad administrativa;
 
-V. Promover mecanismos y reformas al marco regulatorio que permitan fortalecer al mercado, a las empresas y las actividades comerciales, para así incrementar la productividad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-VI. Diseñar e instrumentar herramientas jurídico-administrativas que nutran el proceso de mejora regulatoria tales como la manifestación de impacto regulatorio y dictamen regulatorio;
+V. Promover mecanismos y reformas al marco regulatorio que permitan fortalecer el desarrollo económico y social;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI. Diseñar e instrumentar herramientas administrativas que hagan más eficiente el proceso de mejora regulatoria;
 
 VII. Propiciar mecanismos que permitan la presentación formal de quejas y propuestas de mejora regulatoria y garantizar su atención;
 
@@ -145,39 +261,59 @@ X. Impulsar programas de capacitación en materia de mejora regulatoria entre lo
 
 XI. Instrumentar las tecnologías de la información en los trámites y servicios como herramienta transversal;
 
-XII. Promover la aplicación de los medios electrónicos y el uso de la firma electrónica certificada o cualquier otro mecanismo electrónico en la realización de trámites y servicios;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XIII. Fomentar el conocimiento por parte de la sociedad en general, de la normatividad estatal y municipal asociada con trámites y servicios públicos; y
+XII. Promover la aplicación de los medios de comunicación electrónicos y el uso de la firma electrónica certificada o cualquier otro mecanismo electrónico en la realización de trámites y servicios;
 
-XIV. Cualquier otro que sea compatible con el objeto de esta Ley.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIII. Difundir el conocimiento en materia de mejora regulatoria;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIV. Establecer mecanismos de medición que permitan evaluar periódicamente los resultados de la aplicación de las regulaciones, hayan sido sujetas o no a una manifestación de impacto regulatorio. Para este propósito deberá utilizarse necesariamente el criterio de costo y beneficio, entre otros; y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XIV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 2 DE JULIO DE 2011, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XV.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XV. Cualquier otro que sea compatible con el objeto de esta Ley.
 
 ### CAPÍTULO III. DE LAS COMPETENCIAS Y MARCO DE ACTUACIÓN
 
+(REFORMADO, P.O. 26 DE OCTUBRE DE 2013) N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE QUITO UN PÁRRAFO AL PRESENTE ARTÍCULO, TODA VEZ QUE EN EL TEXTO ORIGINAL EXISTÍAN TRES.
+
 ###### Artículo 4.
 
-Las dependencias podrán celebrar convenios con autoridades federales y con los sectores privado y académicos, y no deberán versar en las materias: laboral, electoral, procuración de justicia, agraria, responsabilidad administrativa y fiscal. Los actos señalados deberán, además, sujetarse a lo establecido en la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+Las dependencias podrán celebrar convenios con autoridades federales y con los sectores privado y académicos, con la finalidad de comprometer acciones en favor de la mejora regulatoria.
 
-Para dar certidumbre y celeridad jurídica a los trámites y solicitudes realizadas por el ciudadano, se aplicará lo conducente a las figuras de la afirmativa y negativa fictas, en los términos y formas establecidas en la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios y en la presente Ley.
+Asimismo, se propiciará la celebración de acuerdos interinstitucionales en el ámbito internacional, con el propósito de adoptar y/o instrumentar las mejores prácticas en materia de mejora regulatoria.
 
-Asimismo, se propiciará la celebración de acuerdos interinstitucionales con uno o varios organismos internacionales.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 5.
 
-Los gastos que las dependencias requieran para implementar acciones en materia de mejora regulatoria, deberán considerarlos e incluirlos en sus programas operativos anuales.
+Los gastos que las dependencias requieran para implementar acciones en materia de mejora regulatoria, deberán considerarlos e incluirlos en sus presupuestos y/o programas respectivos.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 6.
 
-En caso de controversia entre las distintas dependencias de la administración pública, con respecto a la aplicación de la presente Ley, será la Secretaría la encargada de emitir opinión en forma definitiva.
+En caso de controversia entre las distintas dependencias con respecto a la aplicación de la presente Ley, será la Secretaría la encargada de emitir opinión en forma definitiva.
 
 ###### Artículo 7.
 
 Las dependencias podrán recibir, a través de medios de comunicación electrónicos, las promociones o solicitudes que en términos de esta Ley los interesados deban presentar por escrito.
 
-En este caso se podrá emplear, en sustitución de la firma autógrafa, medios de identificación electrónica que previamente se deberán haber registrado ante la dependencia correspondiente. El uso del medio de comunicación electrónica será optativo para el interesado.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+En este caso se podrá emplear, en sustitución de la firma autógrafa, la firma electrónica certificada o cualquier otro medio de identificación electrónica que previamente se deberán haber registrado ante la dependencia correspondiente. El uso de medios de comunicación electrónicos será optativo para los interesados.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 8.
 
-Los documentos presentados por medios de comunicación electrónica, producirán los mismos efectos que las normas jurídicas otorgan a los documentos autógrafos y, en consecuencia, tendrán el mismo valor probatorio que aquéllas les confieren a éstos. Igualmente lo tendrán los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada de las autoridades correspondientes.
+Los documentos presentados por medios de comunicación electrónica, producirán los mismos efectos que las normas jurídicas otorgan a los documentos autógrafos y, en consecuencia, tendrán el mismo valor probatorio que aquéllas les confieren a éstos. Igualmente lo tendrán los archivos digitalizados que se encuentren en las bases de datos de las dependencias y que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada de las autoridades correspondientes.
 
 ###### Artículo 9.
 
@@ -197,15 +333,23 @@ Todo lo referente al uso de los medios de comunicación electrónicos, de la fir
 
 DEL CONSEJO ESTATAL DE MEJORA REGULATORIA.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 12.
 
-Se crea el Consejo Estatal de Mejora Regulatoria como un órgano de deliberación, participación e instrumentación transversal de la administración pública, los municipios y los sectores privado y social, con la misión de diseñar, regular, gestionar, dictaminar y evaluar las acciones de mejora regulatoria, que sirvan para agilizar los trámites y servicios. El Consejo será coordinado y operado por la Secretaría.
+Se crea el Consejo Estatal de Mejora Regulatoria que fungirá como órgano rector, para el análisis, deliberación, definición, dictamen y evaluación de la ejecución de las políticas públicas en materia de mejora regulatoria.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+La coordinación del Consejo y la ejecución de los acuerdos y dictámenes emitidos por el mismo serán responsabilidad de la Secretaría.
 
 ###### Artículo 13.
 
 Son atribuciones del Consejo:
 
-I. Estudiar, analizar y revisar los ordenamientos legales vigentes en la entidad, con el propósito de proponer las medidas de mejora regulatoria necesarias para cumplir con los objetivos de esta ley;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+I. Estudiar, analizar y revisar, coordinadamente con las dependencias, los ordenamientos legales vigentes en la entidad, con el propósito de identificar las medidas de mejora regulatoria que sean necesarias para cumplir con los objetivos de esta Ley;
 
 II. Coadyuvar en la elaboración y actualización del Registro;
 
@@ -213,65 +357,119 @@ III. Participar coordinadamente con los sectores productivos y social en el cons
 
 IV. Gestionar y proponer procesos de mejora regulatoria en los municipios del Estado que permitan la apertura rápida de empresas;
 
-V. Fortalecer las figuras de los Centros Municipales de Negocios, sus equivalentes y de la Ventanilla Única de Gestión Empresarial, prevista en la Ley de Fomento Económico, como unidades de apoyo y facilitadoras de las actividades emprendedoras;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+V. Fortalecer las figuras de los Centros Municipales de Negocios, sus equivalentes y de la Ventanilla Única de Gestión Empresarial, prevista en la Ley de Fomento Económico para el Estado de Colima, como unidades de apoyo y facilitadoras de las actividades emprendedoras;
 
 VI. Proponer la celebración de convenios con diversas autoridades e instituciones del orden federal, estatal o municipal o con particulares, tendientes a lograr los objetivos de la presente Ley, así como del Consejo;
 
 VII. Emitir los dictámenes regulatorios respecto de las Manifestaciones de Impacto Regulatorio;
 
-VIII. Proponer a las dependencias la adopción de sistemas que estimulen la mejora regulatoria y la simplificación administrativa;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IX. Hacer valer los acuerdos y dictámenes sobre las dependencias y los municipios que hayan firmado los convenios;
+VIII. Proponer a las dependencias la adopción de sistemas, la aplicación de reingeniería de procesos, entre otros, para la mejora regulatoria;
 
-X. Aprobar el Programa Estatal de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XI. Revisar y actualizar el Programa Estatal de Mejora Regulatoria;
+IX. Emitir y hacer valer los acuerdos y dictámenes;
 
-XII. Aprobar los Programas Operativos Municipales de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XIII. Promover el uso de los medios de comunicación electrónicos así como el uso de la firma electrónica certificada, a fin de hacer más eficientes los servicios, trámites y actos administrativos;
+X. Aprobar el Plan Estatal de Mejora Regulatoria, sus modificaciones y actualizaciones;
 
-XIV. Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Secretaría de Administración, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los gobiernos federal, estatal, municipales, los organismos autónomos y los sectores público y privado;
+XI. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
 
-XV. Aprobar las acciones necesarias para la implementación y desarrollo de la política de mejora regulatoria; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XVI. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+XII. Conocer los Planes Municipales de Mejora Regulatoria que aprueben los Cabildos correspondientes y los avances de su cumplimiento;
+
+XIII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIV. Promover e impulsar la realización de trámites y servicios a través de medios de comunicación electrónicos y el uso de la firma electrónica certificada, en coordinación con el Instituto, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los gobiernos federal, estatal, municipales; de los organismos autónomos y de los sectores público y privado, en los términos de la legislación aplicable y convenios suscritos;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XV. Aprobar las acciones necesarias para la implementación y desarrollo de las políticas de mejora regulatoria, asegurando que se estimule la competencia, con la finalidad de evitar las malas prácticas económicas y el perjuicio de los sectores vulnerables y de la sociedad en general;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVI. Instruir a las dependencias para que realicen evaluaciones, respecto al desempeño de las regulaciones que sean de su competencia, en los términos de la presente Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVII. Conocer de las evaluaciones practicadas respecto de la aplicación de las regulaciones, hayan sido sujetas o no a una manifestación de impacto regulatorio, con el propósito de verificar que las regulaciones cumplen eficiente y eficazmente con los objetivos de las mismas;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVIII. Instruir a las dependencias para que realicen las modificaciones de las regulaciones, atendiendo los resultados de las evaluaciones a que hayan sido sujetas;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIX. Analizar los informes que la Secretaría le presente y emitir los acuerdos que correspondan; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XX. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 14.
 
 El Consejo estará integrado de la siguiente forma:
 
-l. Un Presidente, que será el Gobernador del Estado;
+I. Un Presidente, que será el Gobernador del Estado;
 
 II. Un Vicepresidente, que será el Secretario de Fomento Económico;
 
-III. Un Secretario Ejecutivo, que será el Director General de Desarrollo y Fomento Económico de la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV. Secretario de Administración;
+III. Un Secretario Ejecutivo, que será el Director General de Fomento Económico; y
 
-V. Secretario de Planeación;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-VI. Secretario de Finanzas;
+IV. Los siguientes Vocales:
 
-VII. Secretario de Desarrollo Rural;
+a) El Secretario General de Gobierno;
 
-VIII. Secretario de Turismo;
+b) El Secretario de Finanzas y Administración;
 
-IX. Secretario del Trabajo;
+c) El Secretario de Desarrollo Urbano;
 
-X. Delegado en el Estado de la Secretaría de Economía del Gobierno Federal;
+d) El Contralor General del Gobierno del Estado;
 
-XI. Delegado en el Estado de la Secretaría del Trabajo y Previsión Social del Gobierno Federal;
+e) El Delegado en el Estado de la Secretaría de Economía del Gobierno Federal;
 
-XII. Los Presidentes Municipales de la entidad;
+f) Los Presidentes Municipales que hayan suscrito convenio, en los términos del artículo 1 de esta Ley;
 
-XIII. Cuatro representantes del sector empresarial a propuesta del Presidente;
+g) Tres representantes del sector empresarial, a propuesta del Presidente;
 
-XIV. Dos representantes de instituciones de educación superior a propuesta del Presidente; y
+h) Tres representantes de instituciones de educación superior, a propuesta del Presidente;
 
-XV. Dos representantes de organismos y asociaciones de la sociedad civil a propuesta del Presidente.
+i) Tres representantes de organismos y asociaciones de la sociedad civil, a propuesta del Presidente.
 
-Los integrantes del Consejo señalados en las fracciones IV a la XV del presente artículo, tendrán el carácter de vocales.
+V. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+VI. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+VII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+VIII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+IX. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+X. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+XI. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+XII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+XIII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+XIV. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+XV. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 15.
 
@@ -279,13 +477,19 @@ El cargo de integrante del Consejo será honorífico, por lo que no recibirán e
 
 Los representantes del sector empresarial, de las instituciones de educación superior y de los organismos y asociaciones de la sociedad civil, durarán en su cargo un período de dos años y podrán ser ratificados por el mismo Presidente del Consejo por un período más.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 16.
 
-Por cada miembro titular del Consejo se nombrará por escrito a un suplente, que será la única persona facultada para representarlo cuando el titular no asista a las sesiones que se celebren. El Vicepresidente suplirá las ausencias del Presidente; el suplente del Vicepresidente asumirá las funciones de éste cuando sea necesario.
+Por cada miembro titular del Consejo se nombrará por escrito a un suplente, que será la única persona facultada para representarlo cuando el titular no asista a las sesiones que se celebren. El Vicepresidente suplirá las ausencias del Presidente; el Secretario Ejecutivo asumirá las funciones del Vicepresidente, cuando sea necesario.
 
-Ninguna sesión del Consejo será válida sin la presencia de su Presidente o de la persona que deba suplirlo en los términos de este artículo. Para sesionar válidamente se requerirá la presencia de la mitad más uno de los integrantes del Consejo.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-Los acuerdos del Consejo, deberán tomarse por mayoría de votos de los presentes. En caso de empate el Presidente tendrá el voto de calidad.
+Ninguna sesión del Consejo será válida sin la presencia de su Presidente o de la persona que deba suplirlo en los términos de este artículo y del Reglamento. Para sesionar válidamente se requerirá la presencia de la mitad más uno de los integrantes del Consejo.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+Los acuerdos del Consejo, deberán tomarse por mayoría de votos de los presentes. En caso de empate el Presidente o quien lo supla tendrá el voto de calidad.
 
 De toda sesión del Consejo se levantará acta circunstanciada.
 
@@ -293,9 +497,11 @@ El Secretario Ejecutivo conservará, con base en la información que se le propo
 
 Podrán asistir invitados y personalidades a las sesiones del Consejo con derecho a voz pero sin voto, con el objeto de explicar o proporcionar información adicional, respecto de alguna materia o tema que por su nivel o grado de especialidad no se encuentre al alcance de los integrantes del Consejo.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 17.
 
-El Consejo podrá crear grupos de trabajo para la atención de asuntos específicos que por su relevancia y atención especial así se requiera, así como para el análisis de las Manifestaciones de Impacto Regulatorio que presenten las dependencias y la elaboración del dictamen regulatorio correspondiente.
+El Consejo podrá crear grupos de trabajo para la atención de asuntos específicos que por su relevancia y atención especial así se requiera, así como para el análisis de las Manifestaciones de Impacto Regulatorio que presenten las dependencias y la elaboración de los proyectos de dictamen regulatorio correspondientes.
 
 ###### Artículo 18.
 
@@ -307,107 +513,193 @@ Serán facultades y obligaciones de los integrantes del Consejo las que se deter
 
 ### CAPÍTULO II. DEL COMITÉ DE CALIDAD DE LA MEJORA REGULATORIA DEL GOBIERNO DEL ESTADO DE COLIMA
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 20.
 
-El Comité es el instrumento de coordinación interinstitucional de las dependencias de la Administración Pública Estatal, cuya finalidad es la de diseñar, implementar y evaluar el proceso de calidad regulatoria de toda aquella normatividad interna de actuación de dichas dependencias. El Comité no tiene facultades para atender la mejora regulatoria con respecto a los trámites que van dirigidos a los ciudadanos o empresas, pues esta función corresponde al Consejo.
+El Comité es el instrumento de coordinación interinstitucional de las dependencias de la administración pública estatal, cuya finalidad es diseñar, proponer, implementar, evaluar y difundir el proceso de calidad regulatoria en la normatividad interna de dichas dependencias, propiciando en los servidores públicos una actuación rápida, eficiente y eficaz.
+
+El Comité sólo tiene facultades para atender la mejora regulatoria con respecto a los trámites internos de las dependencias. Los trámites y servicios dirigidos a ciudadanos o empresas serán competencia únicamente del Consejo.
+
+Para efectos exclusivamente del presente capítulo, al mencionar dependencias se entenderá lo señalado en el artículo 2°, fracción X, con excepción de aquellas que requieren suscripción de convenio para la aplicación de la presente Ley.
 
 ###### Artículo 21.
 
 Son atribuciones del Comité:
 
-I. Realizar estudios, investigaciones y diagnósticos para determinar la efectividad de las disposiciones legales internas existentes con el fin de mejorarlas, regularlas, y garantizar su calidad;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Revisar y, en su caso, autorizar el envío a la Secretaría General de Gobierno de proyectos de adición o derogación de ordenamientos jurídicos con aplicación interna, para las formalidades de ley;
+I. Realizar estudios, investigaciones y diagnósticos para determinar la efectividad de las disposiciones legales internas existentes con el fin de mejorarlas y garantizar su calidad;
 
-III. Acordar y coordinar acciones de mejora a las disposiciones internas, a efecto de contribuir a su calidad regulatoria, la reducción de cargas administrativas y el logro de los objetivos institucionales;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+II. Revisar y en su caso, autorizar el envío a la Secretaría General de Gobierno de proyectos de creación, adición o derogación de ordenamientos jurídicos con aplicación interna, para las formalidades de ley, siempre y cuando no se genere o modifique algún trámite o servicio dirigido a la ciudadanía;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+III. Procurar el uso de los medios de comunicación electrónicos y de la firma electrónica certificada, entre las dependencias;
 
 IV. Revisar de forma continua y programada, el marco normativo interno vigente, para asegurar su calidad regulatoria y la disminución efectiva de cargas administrativas innecesarias, buscando su estandarización y congruencia con los objetivos institucionales y las facultades y atribuciones conferidas a la institución;
 
-V. Revisar y proponer las actualizaciones, en su caso, a los reglamentos interiores de las dependencias del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-VI. Dictaminar y analizar, con base en la justificación regulatoria y las manifestaciones de impacto regulatorio internas, todos los proyectos normativos a fin de asegurar que sean eficaces, eficientes, consistentes y claros; y
+V. Revisar y proponer las actualizaciones, en su caso, a los reglamentos interiores de las dependencias;
 
-VII. Difundir todas las disposiciones vigentes a través de la normateca interna, así como llevar a cabo acciones que garanticen que toda la regulación vigente está publicada de forma íntegra y completa por dicho medio.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI. Analizar con base en la justificación regulatoria y las Manifestaciones de Impacto Regulatorio Internas, todos los proyectos normativos a fin de asegurar que sean eficaces, eficientes, consistentes y claros;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VII. Expedir los dictámenes regulatorios internos;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VIII. Difundir las disposiciones vigentes a través de la normateca interna, así como llevar a cabo acciones que garanticen que toda la regulación vigente esté publicada de forma íntegra y completa por dicho medio;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IX. Establecer y modificar los lineamientos para formular y actualizar los manuales administrativos del Ejecutivo del Estado y vigilar su aplicación; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Desarrollar e implementar programas y acciones de mejora regulatoria que promuevan la simplificación administrativa y la reingeniería de procesos en trámites internos de las dependencias a partir del uso de tecnologías de información.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 22.
 
-El Comité se integrará por las direcciones o coordinaciones jurídicas de todas las secretarias, la Dirección de Normatividad Institucional de la Secretaría de Administración y su Departamento de la Regulación Gubernamental, siendo dirigido por el Secretario de Administración en calidad de presidente y el Director General de Gobierno como vicepresidente.
+El Comité se integrará por las direcciones o coordinaciones jurídicas o similares de todas las dependencias, por la Dirección de Desarrollo Administrativo de la Secretaría de Finanzas y por su Departamento de Regulación Gubernamental. Será dirigido por el Secretario de Finanzas y Administración en calidad de presidente, en tanto que el Director General de Gobierno fungirá como vicepresidente.
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE FOMENTO ECONÓMICO
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 23.
 
-La Secretaría será la dependencia encargada de coordinar y administrar, a través de las áreas correspondientes, el Programa Estatal de Mejora Regulatoria.
+La Secretaría será la dependencia encargada de vigilar el cumplimiento de esta Ley y de coordinar y administrar el proceso de mejora regulatoria en el Estado.
 
 ###### Artículo 24.
 
 Son atribuciones de la Secretaría:
 
-l. Elaborar el Programa Estatal de Mejora Regulatoria en congruencia con los objetivos, políticas, estrategias, lineamientos y metas previstos en los Planes Nacional y Estatal de Desarrollo y con los programas federales sobre la materia;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Dar seguimiento al Programa Estatal de Mejora Regulatoria;
+I. Elaborar el Plan Estatal de Mejora Regulatoria en congruencia con los objetivos, políticas, estrategia, lineamientos y metas previstos en los Planes Nacional y Estatal de Desarrollo y con los programas federales sobre la materia;
 
-III. Emitir criterios y recomendaciones sobre los requisitos, trámites y plazos en los servicios, procesos y actos administrativos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV. Fijar y dar a conocer a las dependencias los criterios para su participación en la integración del Programa Estatal de Mejora Regulatoria;
+II. Dar seguimiento al Plan Estatal de Mejora Regulatoria;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+III. Emitir criterios y recomendaciones, para dar cumplimiento a la presente Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IV. Fijar y dar a conocer a las dependencias los criterios para su participación en la integración del Plan Estatal de Mejora Regulatoria;
 
 V. Promover la transparencia en la elaboración y aplicación de las regulaciones;
 
-VI. Identificar las necesidades de los ciudadanos en materia de mejora regulatoria y enfocarlas a las instancias correspondientes, para que sean atendidas a través de sus programas de mejora regulatoria;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI. Captar las necesidades de los ciudadanos en materia de mejora regulatoria y remitirlas a las unidades de mejora regulatoria para que sean atendidas;
 
 VII. Analizar las políticas de regulación e instrumentos, del ámbito nacional e internacional, con la finalidad de adecuar e implementar aquéllas que mayores beneficios pudieran aportar al Estado;
 
-VIII. Promover ante los organismos financieros nacionales e internacionales la obtención de recursos para ser implementados en procesos y herramientas de mejora regulatoria;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VIII. Gestionar ante los organismos financieros nacionales e internacionales la obtención de recursos para ser aplicados en procesos, proyectos y herramientas de mejora regulatoria, entre otros;
 
 IX. Presentar un informe anual de actividades ante el Consejo;
 
-X. Recibir las manifestación de impacto regulatorio que le presenten las dependencias y canalizarlos al Consejo para la aprobación y expedición, en su caso, de los dictámenes de Manifestaciones de Impacto Regulatorio;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Recibir y analizar las Manifestaciones de Impacto Regulatorio que le presenten las dependencias y aplicar el procedimiento que corresponda, en los términos de la presente Ley y su Reglamento;
 
 XI. Difundir los avances y resultados en materia de mejora regulatoria;
 
 XII. Promover y participar en foros, encuentros, seminarios, comisiones de trabajo, encuestas y consultas, para identificar las mejores prácticas regulatorias y aplicarlas en la normatividad, procedimientos y trámites;
 
-XIII. Desarrollar acciones de capacitación en materia de mejora regulatoria para las dependencias que lo soliciten;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIII. Desarrollar acciones de capacitación en materia de mejora regulatoria;
 
 XIV. Promover la instalación y el funcionamiento de los módulos del Sistema de Apertura Rápida de Empresas y Ventanillas Únicas de Gestión;
 
-XV. Brindar asesoría técnica a las dependencias e interesados que lo soliciten;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XVI. Establecer mecanismos de vinculación y participación con las dependencias para el cumplimiento del objeto de esta Ley; y
+XV. Brindar asesoría en materia de mejora regulatoria a las dependencias e interesados;
 
-XVII. Las demás que prevea esta ley, su Reglamento y otras disposiciones jurídicas aplicables, así como las que determine el Consejo.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVI. Proponer mecanismos que coadyuven con las dependencias al cumplimiento de los preceptos de esta Ley, cuando la Secretaría lo juzgue necesario;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVII. Revisar y dar seguimiento a la aplicación de evaluaciones instruidas por el Consejo, así como a sus resultados y a las modificaciones que eventualmente deriven de las mismas;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVIII. Promover el conocimiento del marco regulatorio;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIX. Administrar los mecanismos de captación y seguimiento de las quejas y propuestas en materia de mejora regulatoria, en coordinación con las dependencias que correspondan, en los términos de esta Ley, el Reglamento y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XX. Diseñar, administrar y actualizar el Registro, en coordinación con otras dependencias;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXI. Impulsar la interoperabilidad de los sistemas y bases de datos, así como la adopción y uso de la Llave Repa, en coordinación con el Instituto;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXII. Proponer y promover acciones de mejora regulatoria en las dependencias;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXIII. Informar al Consejo sobre los criterios y recomendaciones que la Secretaría haya emitido a las dependencias, así como del estado que guarda cada una de ellas;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXIV. Vigilar que las dependencias cumplan los acuerdos y dictámenes del Consejo;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXV. Informar al Consejo del estado que guarda el cumplimiento de los acuerdos y dictámenes emitidos por el Consejo;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXVI. Revisar en coordinación con las unidades de mejora regulatoria, los procedimientos y disposiciones que regulan los trámites y servicios, con la finalidad de proponer adecuaciones conforme a los objetivos de la Ley; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXVII. Las demás que prevea esta Ley, su Reglamento y otras disposiciones jurídicas aplicables, así como las que determine el Consejo.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 ###### Artículo 25.
 
-La Secretaría de Administración, en coordinación con la Secretaría, tendrá las siguientes atribuciones:
-
-l. Diseñar, administrar y actualizar el Registro y el REPA, pudiendo coordinarse con las dependencias correspondientes;
-
-II. Diseñar e instrumentar mecanismos físicos y electrónicos de difusión de la información del marco regulatorio hacia el ciudadano y las empresas, así como la captación por las mismas vías de las quejas y propuestas regulatorias;
-
-III. Brindar la asesoría, capacitación y apoyo técnico a las dependencias, para el desarrollo e implementación de medios de comunicación electrónicos que contribuyan a la mejora regulatoria;
-
-IV. Proponer y promover la realización de procesos de reingeniería de trámites en las dependencias, así como la adopción de sistemas de certificación de calidad; y
-
-V. Las demás que determine esta Ley, su Reglamento y las disposiciones legales aplicables, así como el Consejo.
+(DEROGADO, P.O. 26 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO V. DE LAS UNIDADES DE MEJORA REGULATORIA EN LAS DEPENDENCIAS
 
+(REFORMADO, P.O. 26 DE OCTUBRE DE 2013) N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE QUITARON DOS PÁRRAFOS AL PRESENTE ARTÍCULO, TODA VEZ QUE EN EL TEXTO ORIGINAL EXISTÍAN SEIS.
+
 ###### Artículo 26.
 
-Los titulares de las dependencias en el ámbito estatal, integrarán una unidad de mejora regulatoria que será responsable de la mejora regulatoria al interior de cada una de ellas.
+Los titulares de las dependencias en el ámbito estatal, así como los municipios y los organismos autónomos que hayan suscrito convenio, conformarán la o las unidades de mejora regulatoria, en los términos del artículo 2, fracción XL de la Ley.
 
-Los municipios y los organismos autónomos que hayan suscrito convenio con el propósito de poder cumplir con los objetivos de la presente Ley, se conformará la unidad de mejora regulatoria integrada por todas sus oficinas o áreas de trabajo.
+El responsable de cada unidad de mejora regulatoria será el titular de la dependencia. Cada unidad de mejora regulatoria deberá contemplar las figuras de coordinador y enlace con la Secretaria, pudiendo residir estas responsabilidades en uno o más servidores públicos, para atender los compromisos que se les asignen de conformidad con la Ley y su Reglamento. Dichos nombramientos serán responsabilidad del titular de la dependencia.
 
-Los organismos descentralizados conformarán su propia unidad.
+Los nombres de los coordinadores designados deberán publicarse en las páginas de internet de la dependencia correspondiente y de la Secretaría.
 
-Cada unidad estará integrada por el servidor público con nivel de coordinador administrativo o equivalente, quien será el responsable de la unidad y enlace con la Secretaría, así como por los servidores públicos que sean necesarios para atender en forma adecuada los programas en materia de mejora regulatoria.
-
-La designación de los servidores públicos deberá publicarse en las páginas de Internet de la dependencia correspondiente y de la Secretaría.
-
-En cada unidad de mejora regulatoria deberá haber un área encargada de la recepción, atención y seguimiento de las quejas y sugerencias.
+En cada unidad de mejora regulatoria deberá haber un área encargada de la recepción, atención y seguimiento de las quejas y propuestas regulatorias.
 
 ###### Artículo 27.
 
@@ -415,25 +707,53 @@ Son atribuciones de las Unidades de Mejora Regulatoria las siguientes:
 
 I. Coordinar el proceso de mejora regulatoria en la dependencia y supervisar su cumplimiento, de conformidad con la presente Ley, su Reglamento y los lineamientos que apruebe el Consejo;
 
-II. Captar las quejas y propuestas regulatorias de la (sic) empresas y los ciudadanos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-III. Solicitar a cada una de las áreas que integran la unidad los planes de trabajo en materia de mejora regulatoria;
+II. Evaluar el desempeño de una regulación, sujeta o no a una manifestación de impacto regulatorio, a través de los procesos que se consideren idóneos, incluyendo entre otros la consulta pública;
 
-IV. Elaborar, ejecutar y dar seguimiento a los planes de trabajo de mejora regulatoria que integrarán el Programa Estatal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito estatal y remitirlos a la Secretaría, observando los lineamientos que emita la misma;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-V. Elaborar y ejecutar el Programa Operativo Municipal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito municipal;
+III. Instrumentar procesos y mecanismos de mejora continua en materia regulatoria;
 
-VI. Presentar trimestralmente a la Secretaría, un informe de la aplicación del Programa Estatal de Mejora Regulatoria y del Programa Operativo Municipal de Mejora Regulatoria, respectivamente;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-VII. Elaborar las Manifestaciones de Impacto Regulatorio;
+IV. Elaborar, ejecutar y dar seguimiento a los Programa Operativo (sic) de Mejora Regulatoria que integrarán el Plan Estatal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito estatal y remitirlos a la Secretaría, observando los lineamientos que emita la misma;
 
-VIII. Recibir, analizar, orientar y dar respuesta positiva o negativa según sea el caso, de la queja y/o propuesta regulatoria. Así mismo, deberá dar a conocer al Consejo y al Comité dichas manifestaciones ciudadanas y su análisis de mejora;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IX. Registrar en la página de Internet los reportes y los dictámenes de las manifestaciones de impacto regulatorio que emita la Secretaría;
+V. Elaborar y ejecutar el Plan Municipal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito municipal;
 
-X. Revisar periódicamente los trámites que se realicen en las dependencias; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XI. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales, así como el Consejo.
+VI. Presentar trimestralmente a la Secretaría, un informe de la aplicación de los Planes Estatal y Municipal de Mejora Regulatoria, respectivamente;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VII. Elaborar las Manifestaciones de Impacto Regulatorio y presentarlas a la Secretaría, en los términos de esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VIII. Recibir, analizar, atender y dar respuesta a la queja y/o propuesta de mejora regulatoria, debiendo notificar al Consejo sus resoluciones a través de la Secretaría o a través del sistema que la propia Secretaría determine;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IX. Publicar en su página de internet los proyectos de regulación a crearse o modificarse, así como sus Manifestaciones de Impacto Regulatorio;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Revisar periódicamente los trámites y servicios que se realicen en las dependencias, con el propósito de que los mismos cumplan los lineamientos establecidos en la Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XI. Cumplir los criterios y recomendaciones que la Secretaría realice a la dependencia correspondiente, así como acatar los acuerdos y dictámenes que emita el Consejo;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XII. Atender las políticas y criterios que establezca el Instituto para la operación del REPA y la obtención de la Credencial Repa y la Llave Repa; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIII. Las demás que prevea esta Ley, el Reglamento y otras disposiciones jurídicas aplicables, así como el Consejo.
 
 ### CAPÍTULO VI. DE LOS MUNICIPIOS
 
@@ -445,7 +765,9 @@ Los municipios del Estado, por conducto de sus ayuntamientos, promoverán la inc
 
 Los municipios a través de sus dependencias, tendrán las siguientes atribuciones:
 
-I. Aplicar y dar seguimiento al Programa Operativo Municipal de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+I. Aplicar y dar seguimiento al Plan Municipal de Mejora Regulatoria;
 
 II. Promover la transparencia en la elaboración y aplicación de las regulaciones, procurando que éstas generen beneficios superiores a sus costos para la sociedad;
 
@@ -463,85 +785,181 @@ VIII. Aprobar las acciones necesarias para mejorar la regulación en su ámbito 
 
 IX. Operar las actividades y funcionamiento de los SARE y Ventanillas Únicas de Gestión Empresarial que se encuentren bajo su competencia;
 
-X. Procurar en sus procesos internos el catálogo de giros de actividades comerciales, industriales y/o de servicios conforme al Sistema de Clasificación Industrial de América del Norte, México (SCIAN); y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XI. Las demás que prevea esta Ley, el Reglamento y otras disposiciones jurídicas aplicables, así como el Consejo.
+X. Utilizar en sus trámites y servicios el catálogo de giros de actividades comerciales, industriales y/o de servicios conforme al Sistema de Clasificación Industrial de América del Norte, México (SCIAN);
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XI. Revisar y actualizar su marco jurídico; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XII. Las demás que prevea esta Ley, el Reglamento y otras disposiciones jurídicas aplicables, así como el Consejo.
 
 ## TÍTULO TERCERO. DE LOS INSTRUMENTOS DE LA MEJORA REGULATORIA
 
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE MEJORA REGULATORIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO I. DEL PLAN ESTATAL DE MEJORA REGULATORIA
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 30.
 
-El Programa Estatal de Mejora Regulatoria contendrá acciones en la materia, será elaborado por la Secretaría y aprobado por el Consejo y tendrá una vigencia de seis años, debiendo actualizarse por lo menos en el tercer año de su vigencia.
+El Plan Estatal de Mejora Regulatoria contendrá objetivos, estrategias, acciones, indicadores y metas en la materia, de las dependencias de la administración pública estatal, será elaborado por la Secretaría y aprobado por el Consejo y tendrá una vigencia de seis años, debiendo actualizarse por lo menos en el tercer año de su vigencia.
 
-El Programa Estatal de Mejora Regulatoria deberá elaborarse dentro de los primeros seis meses del inicio de cada administración y publicarse en el Periódico Oficial del Estado.
+E (sic) Plan Estatal de Mejora Regulatoria deberá elaborarse dentro de los primeros seis meses del inicio de cada período constitucional de gobierno del Ejecutivo del Estado y publicarse en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 31.
 
-El Programa Estatal de Mejora Regulatoria deberá contemplar, por lo menos, la siguiente información:
+El Plan Estatal de Mejora Regulatoria deberá contemplar, por lo menos, la siguiente información:
 
-I. Trámites y servicios existentes, por modificar o eliminar en el Registro, así como los períodos en que esto ocurrirá;
+I. Catálogo de trámites y servicios vigente en el Registro y su proceso de actualización;
 
-II. Períodos de realización de las revisiones de trámites y servicios;
+II. Diagnóstico que contenga los aspectos legales, administrativos, económicos y sociales de cada trámite y servicio, entre otros;
 
-III. Diagnóstico del marco regulatorio vigente;
+III. Acciones de trabajo comprometidas por las dependencias estatales, que contengan la eliminación o mejora de sus trámites y servicios, sus responsables y fechas de cumplimiento;
 
-IV. Programas de capacitación a los funcionarios públicos involucrados en materia de mejora regulatoria; y
+IV. Programa de capacitación; y
 
-V. Las demás que determine el Consejo.
+V. Mecanismo de seguimiento y evaluación de las acciones comprometidas.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 32.
 
-Los responsables de las unidades de mejora regulatoria recopilarán los planes de trabajo de las dependencias estatales a las que pertenezcan, con la finalidad de integrarlos al Programa Estatal de Mejora Regulatoria.
+Las unidades de mejora regulatoria de las dependencias de la administración pública estatal son las responsables de elaborar un Programa Operativo de Mejora Regulatoria, de conformidad con lo establecido en el artículo anterior y en el Reglamento.
 
-En el caso de los organismos autónomos que hayan suscrito convenio, en los términos del artículo 1 de esta Ley, observarán lo estipulado en el presente Capítulo, para efectos de integrar en el Programa Estatal de Mejora Regulatoria sus planes de trabajo.
+El Plan Estatal de Mejora Regulatoria se integrará por las Programas Operativos de Mejora Regulatoria de las dependencias estatales y se elaborará conforme a los lineamientos estipulados en la Ley y su Reglamento, así como los que determine el Consejo.
 
-El Programa Estatal de Mejora Regulatoria se integrará conforme a los lineamientos estipulados en el Reglamento de esta Ley y los que determine el Consejo.
+En el caso de los organismos autónomos que hayan suscrito convenio, en los términos del artículo 1 de ésta Ley, observarán lo estipulado en el presente Capítulo, para efectos de integrar en el Plan Estatal de Mejora Regulatoria sus Programas Operativos de Mejora Regulatoria.
 
-### CAPÍTULO II. DEL PROGRAMA OPERATIVO MUNICIPAL DE MEJORA REGULATORIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO II. DEL PLAN MUNICIPAL DE MEJORA REGULATORIA
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 33.
 
-El Programa Operativo Municipal de Mejora Regulatoria contendrá todas las acciones en materia de mejora regulatoria de las dependencias, a fin de cumplir con los objetivos establecidos en la presente Ley; será elaborado por las unidades de mejora regulatoria de los municipios que hayan suscrito el convenio correspondiente, mismo que deberá ser aprobado por cada Cabildo, dentro de los primeros 6 meses del inicio la (sic) administración, y tendrá una vigencia no mayor a tres años.
+El Plan Municipal de Mejora Regulatoria contendrá todas las acciones, indicadores y metas en la materia, de los organismos, direcciones y áreas de trabajo de la administración pública municipal respectiva, a fin de cumplir con los objetivos establecidos en la presente Ley.
 
-El Programa deberá incluir las propuestas presentadas por los organismos autónomos que hayan suscrito convenio, en los términos del artículo 1 de la presente Ley y será congruente con el Programa Estatal de Mejora Regulatoria.
+El Plan Municipal de Mejora Regulatoria será elaborado por las unidades de mejora regulatoria de los municipios que hayan suscrito el convenio correspondiente, dentro de los primeros 6 meses del inicio de cada administración de gobierno municipal; deberá ser aprobado por su Cabildo, tendrá una vigencia no mayor a tres años y será congruente con el Plan Estatal de Mejora Regulatoria.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-El Programa Operativo Municipal de Mejora Regulatoria deberá contemplar, por lo menos, la siguiente información:
+El Plan Municipal de Mejora Regulatoria deberá contemplar, por lo menos, la siguiente información:
 
-I. Identificar los trámites y servicios que se pretenden crear, modificar y/o eliminar;
+I. Catálogo de trámites y servicios vigente en el Registro y su proceso de actualización;
 
-II. Períodos de realización de las revisiones de trámites y servicios;
+II. Diagnóstico que contenga los aspectos legales, administrativos, económicos y sociales de cada trámite y servicio, entre otros;
 
-III. Trámites y servicios que serán mejorados en períodos específicos;
+III. Acciones de trabajo comprometidas por las dependencias estatales, que contengan la eliminación o mejora de sus trámites y servicios, sus responsables y fechas de cumplimiento;
 
-IV. Diagnóstico del marco regulatorio vigente; y
+IV. Programa de capacitación; y
 
-V. Programas de capacitación a los funcionarios públicos involucrados en materia de mejora regulatoria.
+V. Mecanismo de seguimiento y evaluación de las acciones comprometidas.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 35.
 
-Los responsables de las Unidades de Mejora Regulatoria de los municipios recopilarán los planes de trabajo de las dependencias a las que pertenezcan con la finalidad de integrarlos al Programa Operativo Municipal de Mejora Regulatoria.
+Las unidades de mejora regulatoria de las dependencias de la administración municipal son las responsables de elaborar un Programa Operativo de Mejora Regulatoria, de conformidad con lo establecido en el artículo anterior y en el Reglamento.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+El Plan Municipal de Mejora Regulatoria se integrará por los Programas Operativos de Mejora Regulatoria de las dependencias y/o organismos municipales y se elaborará conforme a los lineamientos estipulados en la Ley y su Reglamento, así como los que determine el Consejo.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+En el caso de los organismos autónomos municipales que hayan suscrito convenio, en los términos del artículo 1 de esta Ley, observarán lo estipulado en el presente Capítulo, para efectos de integrar en el Plan Municipal de Mejora Regulatoria sus Programas Operativos de Mejora Regulatoria.
 
 ### CAPÍTULO III. DE LA MANIFESTACIÓN DE IMPACTO REGULATORIO
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 36.
 
-La Manifestación de Impacto Regulatorio tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que fomenten la transparencia y la racionalidad.
+La manifestación de impacto regulatorio tiene por objeto verificar que los beneficios de las regulaciones sean superiores a sus costos y que fomenten la competencia y la transparencia.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 36 Bis.
+
+La manifestación de impacto regulatorio deberá contener, por lo menos, la siguiente información:
+
+I. Generalidades;
+
+II. Análisis jurídico;
+
+III. Análisis administrativo;
+
+IV. Análisis económico;
+
+V. Análisis social; y
+
+VI. Las mejoras en los trámites y servicios.
+
+Los lineamientos contenidos en el presente artículo, serán desarrollados de conformidad con lo establecido en el Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 37.
 
-Las dependencias presentarán a la Secretaría, en forma impresa y magnética, las Manifestaciones de Impacto Regulatorio respecto de regulaciones y trámites por emitirse o modificarse.
+Las dependencias que elaboren proyectos de normas legales, deberán remitirlos a la Secretaría, en forma impresa y magnética, adjuntando las manifestaciones de impacto regulatorio, cuando:
 
-La Secretaría presentará en las sesiones correspondientes del Consejo las Manifestaciones de Impacto Regulatorio presentadas por las dependencias.
+I. Se creen nuevas obligaciones para los particulares o hagan más estrictas las existentes;
 
-No se requiere una Manifestación de Impacto Regulatorio para toda acción de simplificación o agilización de trámites que realicen las dependencias internamente o entre sí, siempre y cuando no exista relación directa a la solicitud del ciudadano a un servicio o trámite.
+II. Se creen o modifiquen requisitos o trámites;
+
+III. Se reduzcan o restrinjan derechos o prestaciones para los particulares; y
+
+IV. Se establezcan definiciones, clasificaciones, caracterizaciones o cualquier otro término de referencia, que conjuntamente con otra disposición afecten o puedan afectar los derechos, obligaciones, prestaciones o trámites de los particulares.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 37 Bis 1.
+
+La Secretaría deberá revisar y analizar las manifestaciones de impacto regulatorio que le presenten las dependencias, aplicando el siguiente procedimiento:
+
+a) Las que sean procedentes y que por su naturaleza, complejidad, impacto y costo requieran de un dictamen técnico especializado, serán presentadas a la comisión que para el caso se genere, para el análisis y elaboración del proyecto de dictamen regulatorio;
+
+b) Las que sean procedentes, pero no requieran de la integración de una comisión para su análisis, serán canalizadas directamente al Consejo acompañadas de los proyectos de dictámenes regulatorios; y
+
+c) Las que sean improcedentes, se deberá notificar esta circunstancia a la dependencia que la haya presentado.
+
+En todo caso, la Secretaría dará a conocer al Consejo en las sesiones correspondientes, las manifestaciones de impacto regulatorio presentadas por las dependencias, respecto de las regulaciones por emitirse o modificarse, acompañadas de los proyectos de dictamen correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 37 Bis 2.
+
+Se podrá eximir a las dependencias la obligación de elaborar la manifestación de impacto regulatorio cuando el proyecto de regulación elimine o disminuya obligaciones, trámites o servicios o bien, cuando la regulación no implique costos de cumplimiento para los particulares, en los términos del Reglamento. En este sentido, la dependencia promotora del mismo podrá solicitar a la Secretaría que se le exima de dicha obligación, conforme a los lineamientos señalados en la Ley y en el Reglamento.
+
+No se requiere una manifestación de impacto regulatorio para toda acción de simplificación o agilización de trámites que realicen las dependencias internamente o entre sí, siempre y cuando no exista relación directa a la solicitud del ciudadano a un trámite o servicio.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 37 Bis 3.
+
+Todas las dependencias que emitan actos administrativos deberán garantizar que las regulaciones no afecten o restrinjan la competencia y libre concurrencia, a menos que demuestren que:
+
+a) Los beneficios de la regulación en la materia son mayores que los costos que genera en materia de competencia y libre concurrencia; y
+
+b) Los objetivos de la regulación sólo puedan lograrse mediante la restricción a la competencia y libre concurrencia.
+
+Para acreditar lo establecido en el presente artículo, las dependencias utilizarán los mecanismos de evaluación contenidos en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 38.
 
-El Consejo elaborará y, en su caso, aprobará el dictamen regulatorio de la Manifestación de Impacto Regulatorio, que deberá estructurarse de conformidad con los principios de sencillez, transparencia y economía en los servicios, trámites y actos administrativos, a efecto de que permita conocer si los proyectos de regulaciones inciden en los siguientes lineamientos:
+El Consejo elaborará y, en su caso, aprobará los dictámenes regulatorios, mismos que deberán estructurarse de conformidad con los principios de sencillez, transparencia y economía en los trámites, servicios y actos administrativos, a efecto de que permita conocer si los proyectos de regulaciones inciden en los siguientes lineamientos:
 
 I. Los motivos de la regulación correspondiente;
 
@@ -551,7 +969,9 @@ III. Los riesgos de no emitir la regulación;
 
 IV. Las alternativas consideradas y la solución propuesta;
 
-V. Los costos y beneficios de la regulación;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+V. La identificación y descripción de los trámites y servicios; y
 
 VI. La identificación y descripción de los trámites; y
 
@@ -561,63 +981,119 @@ VII. El método para asegurar el cumplimiento de la regulación.
 
 Los lineamientos para la elaboración del dictamen regulatorio serán establecidos en el Reglamento de la presente Ley.
 
-### CAPÍTULO IV. DEL REGISTRO DE TRÁMITES Y SERVICIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO IV. DEL REGISTRO ESTATAL DE TRÁMITES Y SERVICIOS
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 40.
 
-El Registro es el expediente electrónico que contiene los trámites y requisitos de las dependencias de la administración pública estatal y municipales, que permitirá su conocimiento público y que permite su aplicación a los ciudadanos.
+El Registro es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+El Registro deberá ser del conocimiento público a través de medios electrónicos.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+Para la observancia y aplicación del presente Capítulo, las dependencias observarán, en lo que sea aplicable, la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 41.
 
-La Secretaría de Administración será la dependencia encargada de integrar y operar el Registro. Se coordinará con la Secretaría para el cumplimiento de esta disposición.
+Para el caso de las dependencias del ámbito estatal, la Secretaría será la encargada de integrar y operar el Registro, coordinándose con las mismas para el cumplimiento de esta disposición.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+En las dependencias del ámbito municipal, la instancia que integrará y operará su registro será la que determine la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 42.
 
-Las dependencias deberán inscribir sus trámites o actos administrativos con la siguiente información, como mínimo:
+Las dependencias deberán Inscribir sus trámites y servicios con la siguiente Información, como mínimo:
 
-I. Nombre del servicio, trámite o acto administrativo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Nombre de la dependencia ante la cual se realiza el servicio, trámite o acto administrativo;
+I. Nombre del trámite o servicio;
 
-III. Cargo del servidor público responsable de atenderlo y resolverlo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IV. Fundamento jurídico que da origen al servicio, trámite o acto administrativo;
+II. Nombre de la dependencia ante la cual se realiza el trámite o servicio;
 
-V. Casos o supuestos en los que debe de presentarse el servicio, trámite o acto administrativo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+III. Nombre y cargo del o de los servidores públicos responsables de atender y resolver;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+IV. Fundamento jurídico que da origen al trámite o servicio;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+V. Casos o supuestos en los que se obliga a realizar el trámite o servicio;
 
 VI. Formatos;
 
 VII. Horarios de atención, números de teléfono, fax, correo electrónico, domicilio y cualquier otro dato que facilite la localización de la dependencia;
 
-VIII. Listado de los requisitos que se deben de cumplir al gestionar el servicio, trámite o acto administrativo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IX. Datos de los anexos que se deben incluir al realizar el servicio, trámite o acto administrativo;
+VIII. Listado de los requisitos que se deben de cumplir al gestionar el trámite o servicio, contemplando los anexos correspondientes;
 
-X. Monto de los derechos;
+IX. (DEROGADA, P.O. 26 DE OCTUBRE DE 2013)
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Cantidad a pagar por la realización del trámite o servicio, en su caso;
 
 XI. Plazo máximo de respuesta y si conforme a las disposiciones jurídicas aplicables opera la afirmativa o la negativa ficta;
 
 XII. Recursos o medios de impugnación que puede hacer valer en caso de no ser satisfactoria la respuesta o no darse ésta en el plazo establecido;
 
-XIII. Vigencia del trámite; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XIV. Información adicional que se estime necesaria para facilitar el servicio, trámite o acto administrativo.
+XIII. Vigencia;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIV. Especificar si el trámite o servicio se ofrece a través de los medios de comunicación electrónicos indicando el sitio web en donde realizarlo;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XV. Descripción del procedimiento para realizar el trámite o servicio, tanto de manera presencial como por medios de comunicación electrónicos, cuando proceda; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVI. Información adicional que se estime necesaria para facilitar el trámite o servicio.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+Una vez que las dependencias hayan inscrito sus trámites y servicios, no podrán agregar nuevos requisitos, sin que lo haya justificado mediante una manifestación de impacto regulatorio.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 43.
 
-La Secretaría de Administración determinará los lineamientos que las dependencias deberán de observar para efectos de inscribir la información señalada en el artículo anterior, con el visto bueno del Consejo.
+El Reglamento determinará los lineamientos que las dependencias deberán de observar para efectos de inscribir la información señalada en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 44.
 
-Las Unidades de Mejora Regulatoria deberán revisar y actualizar periódicamente los trámites inscritos en el Registro.
+Las unidades de mejora regulatoria deberán revisar y actualizar periódicamente los trámites y servicios de su dependencia inscritos en el Registro.
 
 ###### Artículo 45.
 
 La legalidad y el contenido de la información inscrita en el Registro, será de la estricta responsabilidad de las dependencias que proporcionen dicha información.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 46.
 
-Las dependencias no podrán requerir a los interesados para la prestación de servicios, trámites y actos administrativos requisitos adicionales que no estén inscritos previamente en el Registro y publicados en la página de Internet correspondiente.
+Las dependencias no podrán requerir a los interesados para la prestación de servicios y trámites requisitos adicionales que no estén inscritos previamente en el Registro y publicados en la página de internet correspondiente.
 
 ###### Artículo 47.
 
@@ -625,49 +1101,199 @@ El Registro será regulado en los términos establecidos en el Reglamento de la 
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE PERSONAS ACREDITADAS
 
+(REFORMADO, P.O. 26 DE OCTUBRE DE 2013) N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE QUITÓ UN PÁRRAFO AL PRESENTE ARTÍCULO, TODA VEZ QUE EN EL TEXTO ORIGINAL EXISTÍAN CUATRO.
+
 ###### Artículo 48.
 
-El REPA es la base de datos que contiene los documentos electrónicos probatorios de identidad, domicilio, estado civil u otro, que han sido presentados por el ciudadano ante cualquier dependencia, así como el historial de movimientos realizados, evitando la duplicidad de documentos.
+El REPA es la base de datos que se conforma con la información establecida en el artículo 50 de la presente Ley, tanto de las personas físicas como morales, que hayan sido acreditadas.
 
-La Secretaría de Administración será la encargada de conformar, coordinar y actualizar el REPA.
+El REPA obliga a las dependencias a estar interconectadas, a compartir la información contenida en sus bases de datos y a operar coordinadamente con el Instituto, mediante la aplicación de esquemas de interoperabilidad, facilitando a las personas acreditadas el acceso a trámites y servicios públicos, ya sea vía internet o en un sitio de atención personalizada.
 
-El REPA obliga a las dependencias a estar interconectadas y a operar informáticamente, utilizando una clave de acceso otorgada por la Secretaría de Administración.
+En el convenio que suscriban los municipios y los organismos autónomos deberán manifestar su conformidad explícita para adoptar los lineamientos y estándares tecnológicos que emita el Instituto para la operación del REPA.
 
-En el convenio que suscriban los municipios y los organismos autónomos deberán manifestar su conformidad de manera explícita, en relación al párrafo anterior.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 49.
 
-Las dependencias deberán asignar a los interesados una clave REPA de identificación conformada con base en el Registro Federal de Contribuyentes o en la Clave Única de Registro de Población, en su caso, así como los datos que la Secretaría de Administración decida.
+El Instituto, tendrá a su cargo:
 
-El ciudadano o las personas morales para ser (sic) uso de la REPA deberá tramitar su firma electrónica certificada, para así poder accesar y realizar promociones electrónicas.
+I. La planeación, diseño, control, administración, coordinación, mantenimiento y actualización permanente y progresiva del REPA;
 
-Los titulares de la clave REPA serán responsables del uso, contenido y actualización de la documentación e información que conforme su expediente.
+II. La expedición, modificación, revocación o cancelación de la Credencial Repa y de la Llave Repa; y
+
+III. Establecer lineamientos para la operación e interconexión del Instituto con las dependencias.
+
+El Consejo aprobará previamente lo señalado en la fracción I del presente artículo.
+
+Para el cumplimiento de lo señalado en este artículo, el Instituto podrá coordinarse con las unidades de mejora regulatoria.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 50.
 
-El REPA será de uso gratuito pero tan sólo para el interesado que tengan asignada la clave REPA. Los interesados deberán presentar, sin perjuicio de lo que señale el Reglamento, copia y original de los siguientes documentos, para su debido cotejo:
+Para la inscripción en el REPA, los interesados deberán presentar solicitud mediante el formato autorizado por el Instituto, en las oficinas del mismo o en los lugares determinados para este propósito, así como los siguientes documentos en original:
 
-I. En el caso de personas morales, testimonio del acta constitutiva y estatutos vigentes inscritos en el Registro Público de la Propiedad y del Comercio que corresponda y la Cédula de Identificación Fiscal, así como los poderes de los representantes y su identificación oficial;
+A.- Personas Físicas:
 
-II. En el caso de personas físicas, identificación oficial con fotografía y la clave única del registro de población; y
+I. Documento probatorio de identidad;
 
-III. Cualquier otro organismo o asociación civil, la documentación necesaria que acredite su estatus legal e identifique a su representante autorizado.
+II. Identificación oficial con fotografía del interesado;
 
-Para la aplicación del presente artículo, las dependencias deberán observar, además, las disposiciones legales de la normatividad en materia de identidad ciudadana.
+III. La CURP del interesado. La dependencia ante quien se realice el trámite o servicio, podrá obtenerla en línea;
+
+IV. Cédula de identificación fiscal, en caso de contar con ella;
+
+V. Comprobante de domicilio; y
+
+VI. Solicitud de inscripción, firmada autógrafa o electrónicamente, en su caso.
+
+B.- Personas Morales:
+
+I. Testimonio del acta constitutiva inscrita en el Registro Público de la Propiedad y del Comercio que corresponda, así como de sus modificaciones;
+
+II. Cédula de identificación fiscal;
+
+III. Comprobante de domicilio;
+
+IV. Identificación oficial con fotografía del representante legal;
+
+V. Documento que acredite la representación legal;
+
+VI. Documento probatorio de identidad del representante legal;
+
+VII. La CURP del representante legal. La dependencia ante quien se realice el trámite o servicio, podrá obtenerla en línea; y
+
+VIII. Solicitud de inscripción, firmada autógrafa o electrónicamente, en su caso.
+
+Además de lo señalado en los apartados A y B del presente artículo, el Instituto deberá tomar fotografía, huellas dactilares e imagen del iris de las personas físicas y de los representantes legales de las personas morales que hayan presentado la solicitud de inscripción.
+
+El Instituto deberá verificar y validar la documentación presentada por las personas físicas y los representantes legales de las personas morales, utilizando los medios o sistemas de confrontación de la información que el Instituto determine. Para tales efectos, el Instituto podrá suscribir convenios de coordinación con las dependencias de la administración pública estatal, así como de otras Entidades Federativas, organismos e instancias del Gobierno Federal, que para el ejercicio de sus funciones dispongan de información fidedigna de los interesados.
+
+Cuando identifique alguna irregularidad o inconsistencia en los datos consignados en los documentos, suspenderá el proceso de inscripción y notificará al interesado las causas por las cuales no procede el trámite, orientándolo para que realice la aclaración o rectificación del documento de que se trate.
+
+El Instituto deberá asentar en el formato de solicitud las causas por las cuales se rechazó la misma y archivar copia de ese formato.
+
+Una vez cumplidos los requisitos establecidos en el presente artículo, el Instituto expedirá gratuitamente la Credencial Repa a las personas acreditadas.
+
+El Instituto y las dependencias podrán hacer uso de los medios electrónicos para realizar notificaciones a los interesados o personas acreditadas.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 51.
 
-Una vez inscrito el interesado en el REPA, las dependencias deberán consultar el mismo con la finalidad de verificar toda la información integrada del interesado, salvo que el servicio, trámite o acto administrativo de que se trate requiera documentación adicional.
+La exhibición de la Credencial Repa exime a la persona acreditada de la presentación de los documentos establecidos en el artículo 50 de la presente Ley, así como de aquéllos que hayan presentado ante cualquier dependencia y que estén contenidos y vigentes en sus propias bases de datos.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+Con respecto a la validez de los documentos mencionados en el párrafo que antecede, se aplicará lo señalado en el artículo 8 de esta Ley.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+Cuando las personas acreditadas realicen trámites o servicios y tengan su firma electrónica certificada, además de su Llave Repa, podrán utilizar la firma electrónica certificada ante las dependencias que así lo requieran, en los términos de la Ley de Medios.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 52.
 
-La Secretaría de Administración, con la autorización del Consejo, emitirá los lineamientos para la creación, operación e interconexión informática del REPA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y claves de identificación, en los términos de la presente Ley y su Reglamento.
+Para la solicitud de un trámite o servicio las personas acreditadas podrán utilizar su Llave Repa.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+Cuando algunos de los documentos contenidos en el REPA no estén vigentes, conforme a los requerimientos del trámite o servicio a realizar, el sistema del REPA consultará las bases de datos de las dependencias, para localizar y actualizar la información, previo el pago de los derechos correspondientes, cuando la ley de la materia así lo determine.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL PRESENTE PÁRRAFO SE AGREGÓ, TODA VEZ QUE EN EL TEXTO ORIGINAL NO EXISTÍA.</small>
+
+En caso de que el documento o la información no se encuentren en ninguna de las bases de datos de las dependencias, las personas acreditadas deberán de presentar ante la dependencia donde realiza el trámite o servicio, el documento en original y copia para su debido cotejo, debiendo esta dependencia actualizar la información ante el REPA, siempre y cuando se refiera a los documentos establecidos en el artículo 50 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 52 Bis 1.
+
+Es obligación de las personas acreditadas mantener actualizada su información y documentación contenida en el REPA, pudiendo verificar la misma a través de su Llave Repa y actualizarla conforme a lo establecido en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 52 Bis 2.
+
+La Credencial Repa es suficiente para acreditar fehacientemente la identidad de las personas acreditadas en todo acto de carácter administrativo, tanto dentro del Estado como fuera de él, cuando dichos actos surtan efectos en el Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 52 Bis 3.
+
+La Credencial Repa contendrá, cuando menos, los siguientes elementos de identificación codificada de las personas acreditadas:
+
+I. Nombre completo;
+
+II. Sexo de la persona acreditada;
+
+III. Lugar y fecha de nacimiento;
+
+IV. Nombre completo y nacionalidad del padre y la madre cuando se consignen en los documentos presentados;
+
+V. Datos de localización del acta de nacimiento en el Registro Civil o del certificado de nacionalidad o de la carta de naturalización;
+
+VI. Nacionalidad de origen cuando la persona acreditada haya adquirido la nacionalidad por naturalización;
+
+VII. CURP;
+
+VIII. Fotografía, huellas dactilares, imagen del iris y firma autógrafa o electrónicamente, en su caso;
+
+IX. Registro Federal de Contribuyentes, para el caso de personas morales o personas físicas con actividades empresariales; y
+
+X. Fecha de expedición.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 52 Bis 4.
+
+La Credencial Repa contendrá expresamente la siguiente información de las personas acreditadas:
+
+I. Nombre completo;
+
+II. Fotografía;
+
+III. CURP para las personas físicas o Registro Federal de Causantes para las personas morales;
+
+IV. Código lineal y/o bidimensional;
+
+V. Fecha de expedición;
+
+VI. Nombre, cargo y firma electrónica del servidor público que la expide;
+
+VII. Folio de validación;
+
+VIII. Página web informativa y para validar la información de las personas acreditadas; y
+
+IX. Teléfono de atención personalizada del Instituto.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 52 Bis 5.
+
+La Credencial Repa deberá renovarse cuando:
+
+I. Esté deteriorada por su uso; y
+
+II. Cuando los requisitos y elementos considerados para emitir la misma hayan cambiado sustancialmente y que por tal motivo sea necesaria su actualización o renovación.
+
+El portador deberá devolver la anterior Credencial Repa al momento de recoger la nueva, salvo lo señalado en el artículo 52 BIS 6 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 52 Bis 6.
+
+El uso, custodia y conservación de la Credencial Repa y de la llave Repa, será responsabilidad exclusiva de las personas acreditadas. El Instituto estará exento de cualquier consecuencia por el mal uso que se haga de la misma.
+
+En caso de robo, extravío o destrucción total o parcial de la Credencial Repa, la persona acreditada deberá dar aviso al Instituto, dentro de los 30 días naturales siguientes a que esto suceda para dejarla sin efectos y, en su caso, solicitar su reposición ante el Instituto.
 
 ### CAPÍTULO VI. DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 53.
 
-El SARE es el proceso, transparente y competitivo, que ofrece la administración pública municipal a las empresas para obtener licencias municipales de funcionamiento.
+El SARE es el proceso, transparente y competitivo, que ofrecen las administraciones públicas municipales a las empresas para obtener licencias municipales de funcionamiento, de manera presencial o a través de los medios de comunicación electrónicos.
 
 Preferentemente el SARE deberá estar instalado dentro del Centro Municipal de Negocios.
 
@@ -689,35 +1315,55 @@ VI. Las demás que determine esta Ley y su Reglamento.
 
 ### CAPÍTULO VII. DE LOS CENTROS MUNICIPALES DE NEGOCIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 55.
 
-Los Centros Municipales de Negocios o su equivalente, serán las áreas físicas, integradas con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios, trámites o actos administrativos relacionados con el desarrollo económico del municipio, con la finalidad de brindar una atención integral a los emprendedores, micro, pequeñas y medianas empresas.
+Los Centros Municipales de Negocios o su equivalente, serán las áreas físicas, integradas con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los trámites y servicios relacionados con el desarrollo económico del municipio, con la finalidad de brindar una atención integral a los emprendedores, micro, pequeñas y medianas empresas.
 
 Los municipios establecerán los lineamientos que faciliten la operación de los Centros Municipales de Negocios, en los términos de la presente Ley y su Reglamento.
 
-Los municipios, previo convenio, podrán ofrecer dentro de las instalaciones de los Centros Municipales de Negocios, los servicios y trámites en materia de mejora regulatoria que brindan las autoridades federales y los sectores privado y académico.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+Los municipios podrán ofrecer dentro de las instalaciones de los Centros Municipales de Negocios, trámites y servicios de otros organismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 56.
 
-De manera enunciativa más no limitativa, los servicios, trámites, actos administrativos y servicios que se ofrecen en los Centros Municipales de Negocios serán los siguientes:
+De manera enunciativa más no limitativa, los trámites y servicios que se ofrecen en los Centros Municipales de Negocios serán los siguientes:
 
-l. Orientar a los interesados para iniciar operaciones o para realizar una actividad económica;
+I. Orientar a los interesados para iniciar operaciones o para realizar una actividad económica;
 
 II. Informar a los interesados sobre los planes y programas de capacitación, asesoría, financiamiento, bolsa de trabajo, entre otros, enfocados a promover el desarrollo económico, y
 
 III. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde a la Secretaría la operación y supervisión del sistema de quejas y propuestas regulatorias.
+
+Para el cumplimiento de lo señalado en el presente artículo, la Secretaría podrá coordinarse con las dependencias u organismos que ella determine.
+
 ### CAPÍTULO VIII. DE LA QUEJA Y PROPUESTA REGULATORIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 57.
 
-El interesado que gestione un trámite o servicio, podrá manifestar su insatisfacción a través de la queja regulatoria, ya sea por el no otorgamiento de su solicitud o gestión o bien, una vez otorgado, lo estime deficiente con respecto a su oportunidad, accesibilidad, transparencia, calidad y economía administrativa.
+El interesado podrá interponer queja regulatoria, cuando se le atienda de manera diversa a lo estipulado en el Registro, para cada uno de los trámites y servicios.
 
 Para la presentación de la queja deberá observarse lo siguiente:
 
-I. Puede presentarse de manera física o electrónica;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Señalar la identidad del interesado;
+I. Debe presentarse de manera escrita, física o electrónicamente;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+II. Señalar la identidad del interesado, en los términos de la Ley de Protección de Datos Personales del Estado de Colima y demás legislación aplicable; y
 
 III. Presentarse, preferentemente, ante la dependencia competente del trámite. Sin embargo, el interesado podrá presentarla ante cualquier otra dependencia de la administración pública estatal o municipal o bien de los organismos autónomos, en términos del artículo 1 de la presente Ley.
 
@@ -725,23 +1371,33 @@ III. Presentarse, preferentemente, ante la dependencia competente del trámite. 
 
 El ciudadano podrá en cualquier momento del proceso regulatorio o incluso sin darse este supuesto, manifestar recomendaciones, sugerencias, ideas y proyectos de mejora del marco regulatorio en cualquiera de sus elementos.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 59.
 
-Cualquier dependencia de la administración pública estatal o los municipios firmantes deberá recibir las quejas y propuestas, a pesar de no estar notoriamente identificada con el mismo, y debiendo turnarla a la dependencia que juzgue conveniente de acuerdo a la normatividad y lo que muestre el Registro. Ante la duda, deberá hacerlas llegar a las unidades de mejora regulatoria de la dependencia del sector que pertenecen. Para el desahogo de la queja, las dependencias observaran, en lo que sea aplicable, la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+Las dependencias a través de las unidades de mejora regulatoria, deberán de acopiar y capturar en el sistema correspondiente, todas las quejas y/o propuestas regulatorias, incluyendo aquellas que no correspondan a trámites y servicios que preste esa dependencia.
+
+La Secretaría en coordinación con la dependencia que considere necesaria, dará seguimiento a las quejas y propuestas regulatorias presentadas.
+
+Para el desahogo de la queja regulatoria, las dependencias observarán, en lo que sea aplicable, la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
 
 ### CAPÍTULO IX. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 60.
 
-Las dependencias de la administración pública estatal y municipales, así como los organismos autónomos que hayan suscrito convenio, en los términos del artículo 1 de la presente Ley, deberán poner a disposición del público en general, toda la información y documentación señalada en la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima, observando en todo momento los lineamientos que la propia ley de la materia señala.
+Las dependencias y los organismos autónomos que hayan suscrito convenio, en los términos del artículo 1 de la presente Ley, deberán poner a disposición del público en general, toda la información y documentación señalada en la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima, observando en todo momento los lineamientos que la propia ley de la materia señala.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 61.
 
-Una vez presentados el informe semestral de avances y resultados del Programa Estatal o Municipal de Mejora Regulatoria, previsto en esta Ley, deberá publicarse en el Periódico Oficial “EI Estado de Colima” y en los sitios web de la dependencia correspondiente.
+Una vez presentado el informe trimestral de avances y resultados del Plan Estatal o Municipal de Mejora Regulatoria, previsto en el artículo 27, fracción VI, de esta Ley, deberá publicarse en los sitios web de la dependencia correspondiente.
 
 ###### Artículo 62.
 
-Ante una solicitud de información en términos de la ley de la materia prevalecerá ésta, pero en el momento en que involucre una queja o propuesta regulatoria del ciudadano ante un trámite, serán materia de las unidades y autoridades de la mejora regulatoria.
+(DEROGADO, P.O. 26 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO X. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
@@ -749,13 +1405,19 @@ Ante una solicitud de información en términos de la ley de la materia prevalec
 
 Los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas regulatorias que presenten los interesados y particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 64.
 
-Se considerará obstrucción empresarial cualquiera de las conductas siguientes:
+Sin perjuicio de las previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, se considerará falta a la Ley en perjuicio de los interesados cualquiera de las conductas siguientes:
 
-I. Incumplimiento de plazos de respuesta establecidos en los servicios, trámites y actos administrativos ante dependencias y entidades tanto estatales como municipales;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-II. Sobrepedimento de información y documentos;
+I. Incumplimiento de plazos de respuesta establecidos en el Registro;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+II. Pedir información y documentos adicionales a los establecidos en el Registro;
 
 III. Uso indebido de la información, registros, documentos, bases de datos u otro símil;
 
@@ -767,15 +1429,49 @@ VI. Alteración de reglas y procedimientos;
 
 VII. Negligencia o negativa en la recepción de documentos;
 
-VIII. Negligencia para dar seguimiento al trámite;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-IX. Manejo indebido de la firma electrónica;
+VIII. Negligencia para dar seguimiento al trámite o servicio;
 
-X. Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-XI. Aquellas que incidan en perjuicio del establecimiento y operación de empresas o la satisfacción de una necesidad ciudadana.
+IX. Manejo indebido de la firma electrónica certificada;
 
-Para la aplicación de las sanciones que correspondan con motivo de las mencionadas infracciones, se estará a lo dispuesto en la Ley de Estatal de Responsabilidades de los Servidores Públicos y en la Ley del Municipio Libre del Estado de Colima, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Incumplimiento o negativa en la aplicación de un trámite o servicio por desconocimiento de la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XI. No acatar los acuerdos y dictámenes emitidos por el Consejo, sin justificación validada por éste;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XII. Incumplir con las obligaciones que la Ley y el Reglamento establecen;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIII. Actuar con negligencia y mala fe al dar respuesta a las quejas y/o propuestas en materia de mejora regulatoria; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XIV. Aquellas que incidan en perjuicio del establecimiento y operación de empresas o la satisfacción de una necesidad ciudadana y que no estén contempladas en el marco regulatorio aplicable.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 64 Bis.
+
+Las infracciones a que se refiere el artículo 64 de la presente Ley, se sancionarán con multa de:
+
+I. 100 a 150 unidades de salario, en el caso de las fracciones I y II;
+
+II. 151 a 250 unidades de salarios, en el caso de las fracciones III, IV, VIII y X; y
+
+III. 251 a 500 unidades de salario, en el caso de las fracciones V, VI, VII, IX, XI, XII, XIII y XIV.
+
+Para la aplicación de las sanciones establecidos en el presente artículo, el Consejo, a través de la Secretaría se coordinará con la Contraloría General del Estado, con las Contralorías Municipales cuando proceda y con las instancias similares para el caso de los organismos autónomos, en los términos del artículo 1 de esta Ley y se estará a lo dispuesto en la Ley Estatal de Responsabilidades de los Servidores Públicos, en la Ley del Municipio Libre del Estado de Colima y demás legislación aplicable, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
 
 T R A N S I T O R I O S
 
@@ -804,3 +1500,9 @@ Por lo tnato (sic) mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 30 del mes de junio del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE FOMENTO ECONÓMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica. EL SECRETARIO DE ADMINISTRACIÓN, LIC. OSCAR CARLOS ZURROZA BARRERA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
