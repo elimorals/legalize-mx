@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2013-07-20"
+last_updated: "2013-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -257,9 +257,13 @@ V.- Los suscritos por particulares;(sic)
 
 ### CAPITULO IV. DE LAS COMISIONES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, 26 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 25.
 
-A más tardar en la segunda sesión del primer período ordinario de su primer año de su ejercicio legal, la Legislatura elegirá las siguientes Comisiones Permanentes:
+Antes de la tercera sesión del primer periodo ordinario de su primer año de su ejercicio legal, la Legislatura elegirá las siguientes Comisiones Permanentes:
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -293,117 +297,123 @@ VII. Asuntos Migratorios;
 
 VIII. Atención a Movimientos Sociales;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Cultura;
+(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 29 DE ENERO DE 2011, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
-
-X. Democracia Participativa con igualdad de Oportunidades;
+IX.- Ciencia, Tecnología e Innovación;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XI. Derechos Humanos;
+X.- Cultura;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XII. Desarrollo Rural;
+XI.- Democracia Participativa con Igualdad de Oportunidades;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIII. Desarrollo Social;
+XII.- Derechos Humanos;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIV. De las infraestructuras y del Ordenamiento Territorial Sustentable;
+XIII.- Desarrollo Rural;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XV. Ecología;
+XIV.- Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XV.- De las Infraestructuras y del Ordenamiento Territorial Sustentable;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XVI. Educación Pública;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
-
-XVII. Igualdad de Género;
+XVI.- Ecología;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XVIII. Estudios Constitucionales;
+XVII.- Educación Pública;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIX. Fomento Cooperativo y Ahorro Popular;
+XVIII.- Igualdad de Género;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XX. Fomento Industrial, Comercial y Artesanal;
+XIX.- Estudios Constitucionales;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXI. Fomento de la Energía Renovable;
+XX.- Fomento Cooperativo y Ahorro Popular;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXII. Fortalecimiento y Asuntos Municipales;
+XXI.- Fomento Industrial, Comercial y Artesanal;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIII. Gobernación;
+XXII.- Fomento de la Energía Renovable;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIV. Hacienda;
+XXIII.- Fortalecimiento y Asuntos Municipales;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIV.- Gobernación;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXV.- Hacienda;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXV. Honor, Justicia y Régimen Parlamentario;
+XXVI.- Honor, Justicia y Régimen Parlamentario;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVI. Instructora;
+XXVII.- Instructora;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVII. Juventud y Deporte;
+XXVIII.- Juventud y Deporte.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVIII. Pesca;
+XXIX.- Pesca;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIX. Presupuesto y Programación;
+XXX.- Presupuesto y Programación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXX. Protección Ciudadana;
+XXXI.- Protección Ciudadana;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXI. Salud Pública;
+XXXII.- Salud Pública;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXII. Trabajo y Seguridad Social;
+XXXIII.- Trabajo y Seguridad Social;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXIII. Turismo;
+XXXIV.- Turismo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXIV. Vialidad y Transporte;
+XXXV.- Vialidad y Transporte;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXV. Vigilancia de la Auditoría Superior del Estado; y
+XXXVI.- Vigilancia de la Auditoría Superior del Estado; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL DECRETO DE LA PUBLICACIÓN P.O. 29 DE ENERO DE 2011 EN LA FRACCIÓN XXXVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXXVII.</small>
 
-XXXVI. Vivienda y Desarrollo Urbano.
+XXXVII.- Vivienda y Desarrollo Urbano.
 
 ###### ARTICULO 26.
 
@@ -501,17 +511,31 @@ VII. La Comisión de Asuntos Migratorios, tendrá a su cargo la elaboración de 
 
 VIII. La Comisión de Atención a Movimientos Sociales se encargará de atender y canalizar de forma institucional las peticiones y propuestas que formulen las organizaciones civiles y ciudadanas ante el Congreso del Estado, rindiendo un informe escrito mensual de estas gestiones;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 29 DE ENERO DE 2011, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+IX. La Comisión de Ciencia, Tecnología e Innovación ejercerá las siguientes atribuciones:
+
+a) Estudiar, analizar y dictaminar las iniciativas de leyes, decretos y acuerdos que le sean turnadas en materia de ciencia, tecnología e innovación;
+
+b) Promover, en el marco de la legislación aplicable, la participación de sus integrantes en los trabajos de seguimiento y evaluación del Plan Estatal de Desarrollo, así como de las instituciones de educación superior del Estado de Oaxaca, en lo concerniente a ciencia, tecnología e innovación;
+
+c) Contribuirá conjuntamente con otras dependencias y entidades de gobierno para el crecimiento de la cultura científica y tecnológica y el desarrollo de los beneficios derivados de estas;
+
+d) Las demás que le otorguen las leyes de la materia, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso del Estado de Oaxaca.
+
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-IX. La Comisión de Cultura tendrá a su cargo el análisis legislativo sobre la apertura de centros de educación particular o privados, de espectáculos y deportivos, cuidando y vigilando estrictamente que se cumplan los requisitos legales para su funcionamiento, y proponer en su caso su creación, suspensión o desaparición;
+X. La Comisión de Cultura tendrá a su cargo el análisis legislativo sobre la apertura de centros de educación particular o privados, de espectáculos y deportivos, cuidando y vigilando estrictamente que se cumplan los requisitos legales para su funcionamiento, y proponer en su caso su creación, suspensión o desaparición;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-X. Democracia Participativa con Igualdad de Oportunidades atenderá lo relativo a todos los mecanismos de participación ciudadana en los asuntos públicos, promoviendo el desarrollo y perfeccionamiento de los instrumentos constitucionales y legales que correspondan;
+XI. Democracia Participativa con Igualdad de Oportunidades atenderá lo relativo a todos los mecanismos de participación ciudadana en los asuntos públicos, promoviendo el desarrollo y perfeccionamiento de los instrumentos constitucionales y legales que correspondan;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XI. La Comisión de Derechos Humanos tendrá las siguientes atribuciones:
+XII. La Comisión de Derechos Humanos tendrá las siguientes atribuciones:
 
 a).- Conocerá de todos aquellos casos en que se violen los derechos humanos y estará en colaboración estrecha con la Comisión para la Defensa de los Derechos Humanos del Estado y organismos similares;
 
@@ -521,101 +545,101 @@ c).- Presentar ante el Pleno, las ternas respectivas de aspirantes a ocupar el c
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XII. La Comisión de Desarrollo Rural, tendrá a su cargo impulsar la implementación de planes, programas y proyectos que favorezca la productividad en el medio rural; así como el mejoramiento integral del bienestar social de la población y actividades económicas;
+XIII. La Comisión de Desarrollo Rural, tendrá a su cargo impulsar la implementación de planes, programas y proyectos que favorezca la productividad en el medio rural; así como el mejoramiento integral del bienestar social de la población y actividades económicas.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIII. La Comisión de Desarrollo Social será la encargada del análisis de las propuestas legislativas relativas a las acciones y los programas que incidan en el abatimiento de los niveles de pobreza, de apoyo, suministro y orientación en materia alimentaría; el impulso del desarrollo humano sustentable, el trabajo colectivo; el fortalecimiento de la economía familiar y comunitaria, así como la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general en los temas de desarrollo social;
+XIV. La Comisión de Desarrollo Social será la encargada del análisis de las propuestas legislativas relativas a las acciones y los programas que incidan en el abatimiento de los niveles de pobreza; de apoyo, suministro y orientación en materia alimentaría; el impulso del desarrollo humano sustentable, el trabajo colectivo; el fortalecimiento de la economía familiar y comunitaria, así como la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general en los temas de desarrollo social;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIV. La Comisión de las Infraestructuras y del Ordenamiento Territorial Sustentable, conocerá de los asuntos relacionados con los programas de obra pública de los municipios y del Estado, haciéndose allegar la información y documentación de las entidades ejecutoras, cuando el Pleno del Congreso así lo determine;
+XV. La Comisión de las Infraestructuras y del Ordenamiento Territorial Sustentable, conocerá de los asuntos relacionados con los programas de obra pública de los municipios y del Estado, haciéndose allegar la información y documentación de las entidades ejecutoras, cuando el Pleno del Congreso así lo determine;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XV. La Comisión de Ecología, conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
+XVI. La Comisión de Ecología, conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XVI. La Comisión de Educación Pública, tendrá a su cargo el estudio de las leyes y reglamentos que conciernen a la educación y opinará sobre los proyectos y programas de educación popular del Estado;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
-
-XVII. La Comisión de Igualdad de Género, estudiará y vigilará lo relativo a iniciativas y reformas a los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, a las niñas, niños y adolescentes, a las familias, personas con discapacidad, adultos mayores y demás grupos susceptibles de ser vulnerados o discriminados; conocerá de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas; además podrá fomentar acciones para la igualdad, no discriminación y el empoderamiento, que asegurare el pleno desarrollo y adelanto de la mujer.
+XVII. La Comisión de Educación Pública, tendrá a su cargo el estudio de las leyes y reglamentos que conciernen a la educación y opinará sobre los proyectos y programas de educación popular del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XVIII. La Comisión de Estudios Constitucionales se encargará principalmente de estudiar las reformas que se proponga a la Constitución General de la Republica y a la particular del Estado y quedará integrada preferentemente por Licenciados en Derecho;
+XVIII. La Comisión de Igualdad de Género, estudiará y vigilará lo relativo a iniciativas y reformas a los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, a las niñas, niños y adolescentes, a las familias, personas con discapacidad, adultos mayores y demás grupos susceptibles de ser vulnerados o discriminados; conocerá de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas; además, podrá fomentar acciones para la igualdad, no discriminación y el empoderamiento, que asegurare el pleno desarrollo y adelanto de la mujer.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIX. La Comisión de Fomento Cooperativo y Ahorro Popular se encargará de realizar estudios, promover y dictaminar lo relativo a las condiciones de acceso y defensa de la población de escasos recursos a mecanismos de financiamiento público o privado;
+XIX. La Comisión de Estudios Constitucionales se encargará principalmente de estudiar las reformas que se propongan a la Constitución General de la República y a la particular del Estado y quedará integrada preferentemente por Licenciados en Derecho;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XX. La Comisión de Fomento Industrial, Comercial y Artesanal se encargará del estudio de todos aquellos proyectos y obras de beneficio general o sectorial, que tiendan al fomento y desarrollo de las industrias en el Estado, así como de la viabilidad en la creación de organismos que auxilien en la administración pública municipal y estatal en el aspecto comercial y artesanal;
+XX. La Comisión de Fomento Cooperativo y Ahorro Popular se encargará de realizar estudios, promover y dictaminar lo relativo a las condiciones de acceso y defensa de la población de escasos recursos a mecanismos de financiamiento público o privado;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXI. Fomento de la Energía Renovable realizará estudios y alentará la utilización de fuentes de energía que reduzcan o eliminen el impacto ambiental del consumo energético en el ámbito social, privado o público;
+XXI. La Comisión de Fomento Industrial, Comercial y Artesanal se encargará del estudio de todos aquellos proyectos y obras de beneficio general o sectorial, que tiendan al fomento y desarrollo de las industrias en el Estado, así como de la viabilidad en la creación de organismos que auxilien en la administración pública municipal y estatal en el aspecto comercial y artesanal;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXII. La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, se coordinara con los Organismos e Instituciones de asesoría técnica municipal, y promoverá el bienestar y progreso de los municipios. Así como lo relacionado con autorizaciones al ejecutivo estatal y a los Municipios para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
+XXII. Fomento de la Energía Renovable realizará estudios y alentará la utilización de fuentes de energía que reduzcan o eliminen el impacto ambiental del consumo energético en el ámbito social, privado o público;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIII. La Comisión de Gobernación efectuará los estudios relativos a conflictos de límites estatales y municipales y atenderá los problemas políticos, que surjan en el seno de los Ayuntamientos o en relación de éstos, con las organizaciones políticas y sociales del municipio;
+XXIII. La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, se coordinará con los Organismos e Instituciones de asesoría técnica municipal, y promoverá el bienestar y progreso de los municipios. Así como lo relacionado con autorizaciones al ejecutivo estatal y a los Municipios para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIV. La Comisión de Hacienda, tendrá a su cargo el estudio de las leyes fiscales del Estado y las de los Municipios y dictaminará sobre aquellos casos que se presenten relativos a modificaciones básicas a dichas leyes. Esta Comisión será la encargada de recibir de la Secretaria de Finanzas del Gobierno del Estado, las cantidades de dinero presupuestado para el pago de dietas a los Diputados y sueldos de los empleados y trabajadores de la Legislatura, coordinando sus tareas con el Tesorero;
+XXIV. La Comisión de Gobernación efectuará los estudios relativos a conflictos de límites estatales y municipales y atenderá los problemas políticos, que surjan en el seno de los Ayuntamientos o en relación de éstos, con las organizaciones políticas y sociales del municipio;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXV. La Comisión de Honor, Justicia y Régimen Parlamentario conocerá de todos aquellos casos en que los Diputados violen reiteradamente las disposiciones contempladas en la Ley Orgánica del Poder Legislativo y de su Reglamento, escuchará en audiencia a los Diputados infractores, y de ser procedente, los amonestará en privado o en público en caso de reincidencia.
-
-Así mismo (sic) serán de su competencia preparar proyectos de ley o decreto para adecuar las normas que rigen la actividad del Congreso, de dictaminar las propuestas que se presenten en esta materia y de resolver las consultas que en el mismo ámbito decidan plantearle los organismos constituidos en virtud de esta Ley, y aquellas que se refieran al protocolo;
+XXV. La Comisión de Hacienda, tendrá a su cargo el estudio de las leyes fiscales del Estado y las de los Municipios y dictaminará sobre aquellos casos que se presenten relativos a modificaciones básicas a dichas leyes. Esta Comisión será la encargada de recibir de la Secretaria de Finanzas del Gobierno del Estado, las cantidades de dinero presupuestado para el pago de dietas a los Diputados y sueldos de los empleados y trabajadores de la Legislatura, coordinando sus tareas con el Tesorero;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVI. La Comisión Instructora, conocerá de los expedientes que se integren con motivo de las denuncias que se presenten en contra de los servidores públicos a que se contrae el Título Quinto de la Constitución Política del Estado y la Ley de la materia;
+XXVI. La Comisión de Honor, Justicia y Régimen Parlamentario conocerá de todos aquellos casos en que los Diputados violen reiteradamente las disposiciones contenidas en la Ley Orgánica del Poder Legislativo y de su Reglamento, escuchará en audiencia a los Diputados infractores, y de ser procedente, los amonestará en privado o en público en caso de reincidencia.
+
+Así mismo serán de su competencia preparar proyectos de ley o decreto para adecuar las normas que rigen la actividad del Congreso, de dictaminar las propuestas que se presenten en esta materia y de resolver las consultas que en el mismo ámbito decidan plantearle los organismos constituidos en virtud de esta Ley, y aquellas que se refieran al protocolo.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVII. La Comisión de Juventud y Deporte tendrá a su cargo la promoción de iniciativas de ley y las reformas legales necesarias, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes, de igual manera, propondrá y gestionará la creación de organismos públicos y privados que tengan como propósito apoyar la educación, cultura, empleo y actividades deportivas para acrecentar la salud y bienestar de los jóvenes, asimismo, favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social, que constituyan beneficios para la juventud oaxaqueña;
+XXVII. La Comisión Instructora, conocerá de los expedientes que se integren con motivo de las denuncias que se presenten en contra de los servidores públicos a que se contrae el Título Quinto de la Constitución Política del Estado y la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXVIII. La Comisión de Juventud y Deporte tendrá a su cargo la promoción de iniciativas de ley y las reformas legales necesarias, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes, de igual manera, propondrá y gestionará la creación de organismos públicos y privados que tengan como propósito apoyar la educación, cultura, empleo y actividades deportivas para acrecentar la salud y bienestar de los jóvenes; asimismo, favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social, que constituyan beneficios para la juventud oaxaqueña;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVIII. La Comisión de Pesca, se avocará al conocimiento de las esferas propias de su denominación con las atribuciones que signifiquen el desarrollo económico y social de sus respectivas áreas;
+XXIX. La Comisión de Pesca, se avocará al conocimiento de las esferas propias de su denominación con las atribuciones que signifiquen el desarrollo económico y social de sus respectivas áreas;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIX. La Comisión de Presupuesto y Programación, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las Leyes de Ingresos de los Ayuntamientos, el Plan Estatal de Desarrollo, así como las reformas y ampliaciones que se propongan a los Presupuestos del Estado;
+XXX. La Comisión de Presupuesto y Programación, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las Leyes de Ingresos de los Ayuntamientos, el Plan Estatal de Desarrollo, así como las reformas y ampliaciones que se propongan a los Presupuestos del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXX. Corresponde a la Comisión de Protección Ciudadana, dictaminar todo lo relacionado a las iniciativas de ley o decreto que tenga por finalidad regular jurídica o administrativamente las corporaciones de seguridad pública estatal, así como las bases normativas que impulsen la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales que se produzcan;
+XXXI. Corresponde a la Comisión de Protección Ciudadana, dictaminar todo lo relacionado a las iniciativas de ley o decreto que tenga por finalidad regular jurídica o administrativamente las corporaciones de seguridad pública estatal, así como las bases normativas que impulsen la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales que se produzcan;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XXXII. La Comisión de Salud Pública, tendrá a su cargo conocer los programas de salud pública del Estado y de los Municipios, vigilar su eficaz aplicación y estimular conjuntamente con el Estado y Municipios, los programas que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo, así como de apoyo a los discapacitados y senescentes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXI. La Comisión de Salud Pública tendrá a su cargo conocer los programas de salud pública del Estado y de los Municipios, vigilar su eficaz aplicación y estimular conjuntamente con el Estado y Municipios, los programas que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo, así como de apoyo a los discapacitados y senescentes;
+XXXIII. La Comisión de Trabajo y Seguridad Social, tendrá a su cargo el estudio de los asuntos que, provenientes de agrupaciones obreras, no se encuentren señaladas específicamente en la ley de la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXII. La Comisión de Trabajo y Seguridad Social, tendrá a su cargo el estudio de los asuntos que, provenientes de agrupaciones obreras, no se encuentren señaladas específicamente en la ley de la materia;
+XXXIV. La Comisión de Turismo, se encargará de conocer los proyectos y programas de turismo que desarrolle el Estado y los Municipios y vigilar la eficacia de los mismos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXIII. La Comisión de Turismo, se encargará de conocer los proyectos y programas de turismo que desarrolle el Estado y los Municipios y vigilar la eficacia de los mismos;
+XXXV. La Comisión de Vialidad y Transporte, conocerá los programas de vialidad y la estructura del transporte público de carga y de pasaje en el Estado y opinará sobre los programas de expansión y mejoramiento del mismo, y promoverá la adecuación de las legislaciones aplicables;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXIV. La Comisión de Vialidad y Transporte, conocerá los programas de vialidad y la estructura del transporte público de carga y de pasaje en el Estado y opinará sobre los programas de expansión y mejoramiento del mismo, y promoverá la adecuación de las legislaciones aplicables;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
-
-XXXV. La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
+XXXVI. La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
 
 a).- Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
 
@@ -625,15 +649,19 @@ c).- Dictaminar las respectivas Cuentas Públicas;
 
 d).- Vigilar y evaluar que la Auditoría Superior del Estado, cumpla eficazmente con las funciones que le competen;
 
-e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, la que se integrará con las propuestas recibidas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, que se integrará con las propuestas recibidas;
 
 f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Auditor Superior del Estado, que se integrará con las propuestas recibidas; y
 
-g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que auxiliará a la Comisión en el desempeño de sus funciones; y
+g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que auxiliará a la Comisión en el desempeño de sus funciones.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL DECRETO DE LA PUBLICACIÓN P.O. 29 DE ENERO DE 2011 EN LA FRACCIÓN XXXVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXXVII.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXVI. La Comisión de Vivienda y Desarrollo Urbano tendrá a su cargo el análisis de los proyectos parlamentarios relativos al fomento a la vivienda y de los programas y políticas tendientes a satisfacer el derecho a la vivienda, así como el desarrollo de las ciudades para un crecimiento ordenado, armónico y sustentable.
+XXXVII. La Comisión de Vivienda y Desarrollo Urbano tendrá a su cargo el análisis de los proyectos parlamentarios relativos al fomento a la vivienda y de los programas y políticas públicas tendientes a satisfacer el derecho a la vivienda, así como el desarrollo de las ciudades para un crecimiento ordenado, armónico y sustentable.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -1632,3 +1660,7 @@ P.O. 20 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su aprobación.
 
 SEGUNDO.- Todos los asuntos turnados para estudio y dictamen a la actual Comisión Permanente de Equidad y Género, se entenderán remitidos a la Comisión Permanente de Igualdad de Género.
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor el día 13 de noviembre de 2013.
