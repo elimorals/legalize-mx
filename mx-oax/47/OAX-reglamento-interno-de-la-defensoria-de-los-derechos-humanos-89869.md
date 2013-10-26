@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-defensoria-de-los-derechos-humanos-898
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-01"
-last_updated: "2012-10-01"
+last_updated: "2013-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 1 de octubre de 2012.
 
@@ -331,7 +331,9 @@ La o el Secretario Técnico en coordinación con el Defensor o Defensora, convoc
 
 Las sesiones del Consejo Ciudadano serán:
 
-I. Ordinarias. Se celebrarán cada primer martes de cada mes, de acuerdo con el calendario que señale el propio Consejo Ciudadano, y (sic)
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+I. Ordinarias. Se celebraran el primer martes de cada mes, de acuerdo con el calendario que señale el propio Consejo Ciudadano, con excepción de los casos en que la mayoría de las y los Consejeros acuerden solicitar su cambio o no exista el quórum requerido en el artículo 26 de este Reglamento;
 
 II. Extraordinarias. Podrán ser convocadas por el Defensor o Defensora, quien preside el Consejo Ciudadano, por la o el Secretario Técnico, o mediante la solicitud de por lo menos tres de sus miembros, cuando estimen que haya razones de importancia para ello.
 
@@ -375,7 +377,9 @@ A las sesiones del Consejo Ciudadano asistirán, además de sus integrantes, el 
 
 De cada sesión se levantará un acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo y el sentido de su voto, así como los acuerdos y resoluciones aprobados.
 
-El acta aprobada deberá incluir la transcripción estenográfica de las intervenciones de las personas que a ella asistan, así como las modificaciones que el Consejo Ciudadano haya aprobado.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+El acta aprobada deberá incluir todas las intervenciones de las personas que a ella asistan, así como las modificaciones que el Consejo Ciudadano haya aprobado.
 
 La o el Secretario Técnico deberá entregar a los integrantes del Consejo Ciudadano el proyecto de acta de cada sesión, la cual deberá someterse a aprobación en la siguiente sesión.
 
@@ -411,6 +415,10 @@ IX. Autorizar los procesos administrativos, financieros, operativos y de contrat
 
 X. Presentar ante el Congreso del Estado el presupuesto de egresos y su respectivo informe anual del estado financiero que guarda la Defensoría, así como proporcionarla a la Auditoria Superior del Estado;
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+X. Bis. Dictar las medidas específicas adecuadas para el eficaz desempeño de las actividades de éste Órgano autónomo en materia de transparencia, adquisición, contratación y enajenación de bienes y servicios inherentes a la Defensoría.
+
 XI. Dirigir, supervisar e integrar el Programa de Trabajo Anual de la Defensoría, los proyectos de Presupuesto de Egresos, Reglamento Interno, Manual de Organización, de Procedimientos y de Servicios al Público, el Estatuto de Servicio Profesional en Derechos Humanos y someterlos a consulta y aprobación del Consejo Ciudadano;
 
 XII. Enviar a los poderes del Estado, dependencias y organismos descentralizados de la administración pública estatal o municipal, y demás órganos autónomos, un informe anual especial sobre el comportamiento de sus instituciones en cuanto al respeto a los derechos humanos, haciendo las observaciones y recomendaciones que incidan en una mejor observancia;
@@ -423,7 +431,9 @@ XV. Establecer convenios de colaboración con organismos públicos y privados, o
 
 XVI. Coordinar al personal de las diversas áreas que conforman la Defensoría, así como nombrar, remover, otorgar licencias y/o permisos, distribuir y/o delegar funciones, de tal manera que garanticen la adecuada operación de la institución;
 
-XVII. Establecer a través de la Contraloría Interna el procedimiento administrativo interno establecido en el manual correspondiente en contra del servidor o servidora pública que incurra en una falta grave de conformidad a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+XVII. Establecer a través de la Contraloría Interna, el procedimiento administrativo en contra del servidor o servidora público/a que incurra en una falta grave; de conformidad a lo que se establece en el Reglamento de Responsabilidades de los Servidores Públicos de la Defensoría;
 
 XVIII. Coordinar el diseño e implementación del sistema de alerta temprana conjuntamente con la Coordinación General de Defensorías para evitar posibles violaciones masivas a los derechos humanos ya sea de personas, grupos sociales como colectivos y organizaciones, con el propósito de difundir por conducto del Defensor o Defensora la información a las autoridades estatales y municipales, para la atención correspondiente;
 
@@ -457,7 +467,7 @@ Para el óptimo desempeño de sus facultades, el Defensor o Defensora contará c
 
 Todas ellas, para su correcta operación, tendrán a su cargo personal profesional, técnico y administrativo necesario, con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
 
-#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS AREAS DE APOYO AL DEFENSOR O DEFENSORA
+#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS ÁREAS DE APOYO AL DEFENSOR O DEFENSORA
 
 ###### Artículo 34.
 
@@ -497,9 +507,19 @@ IV. Vigilar el cumplimiento de las normas de control, evaluación, fiscalizació
 
 V. Elaborar, ejecutar y dar seguimiento al programa de auditorías a las distintas áreas de la Defensoría, y definir soluciones a las deficiencias e irregularidades detectadas;
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+V Bis. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, contratos, arrendamientos prestación de servicios y obra, enajenaciones y demás actos administrativos que involucren recursos financieros, materiales y humanos de la Defensoría; a fin de vigilar que se cumpla con la normatividad aplicable, resolver de las inconformidades que presenten los involucrados en dichas actividades, así como de los procedimientos administrativos para sancionar y/o declarar la procedencia o improcedencia legal de los actos antes referidos;
+
 VI. Dictar los lineamientos que permitan vigilar que los empleados de la Defensoría no cuenten con sanciones administrativas o penales emitidas por organismos públicos facultados por la Ley;
 
-VII. Sancionar conforme a las normas las irregularidades en la actuación de los servidores públicos de la Defensoría, debiendo informar al Defensor o Defensora el establecimiento del procedimiento correspondiente;
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VI Bis. Intervenir en los actos de Entrega-Recepción de los servidores públicos de éste Órgano Autónomo, según lo establecido en el Reglamento de Responsabilidades de los Servidores Públicos de la Defensoría; lo anterior con motivo de la separación de su cargo, empleo o comisión; y con la finalidad de que dichos actos cumplan con las disposiciones normativas aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+VII. Sancionar conforme a las normas las irregularidades en la actuación de los servidores públicos de la Defensoría, debiendo informar al Defensor o Defensora el establecimiento del procedimiento correspondiente; para efectos de lo referido en la fracción X del artículo 41 de la Ley de la Defensoría, se aplicará el procedimiento que se encuentra establecido en el Reglamento de Responsabilidades de los Servidores Públicos de la Defensoría.
 
 VIII. Procurar el intercambio de información con las instituciones del Estado y otras entidades federativas, a efecto de obtener información respecto del personal que haya causado baja como resultado de un procedimiento administrativo de responsabilidad y jurisdiccional;
 
@@ -895,9 +915,11 @@ VI. Organizar la evaluación de los expedientes de dictaminación de tal manera 
 
 VII. Las demás que le confiera el presente Reglamento, los manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías y la o el Coordinador Operativo de las Defensorías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 53.
 
-Cuando se requiera realizar acciones de investigación para estar en aptitud de emitir resoluciones, las y los Defensores contarán con las facultades siguientes:
+Cuando se requiera realizar acciones de investigación para estar en aptitud de emitir resoluciones, las y los Defensores Adjuntos, Especializados o Regionales contarán con las facultades siguientes:
 
 I. Realizar personalmente o a través del personal bajo su cargo, visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
 
@@ -1521,7 +1543,7 @@ En caso que la o el peticionario no sepa leer ni escribir, se le brindará la no
 
 Cuando la petición haya sido determinada como pendiente de calificación, por no reunir los requisitos legales o reglamentarios o porque sea ambigua o imprecisa, se procederá en los siguientes términos: Se solicitará a la o el peticionario las aclaraciones y precisiones que correspondan, mismas que deberá realizar dentro de los cinco días siguientes contados a partir de que quede notificado de tal circunstancia, en caso de no comparecer, se concluirá el expediente por falta de interés del peticionario, y se enviará al archivo.
 
-### CAPÍTULO VIII. DE LAS PROPUESTAS DE CONCILIACIÓN
+### CAPÍTULO VIII. PROPUESTAS DE CONCILIACIÓN
 
 ###### Artículo 109.
 
@@ -1673,6 +1695,8 @@ La conciliación no procederá tratándose de procedimientos de investigación q
 
 De lograrse una conciliación satisfactoria para la persona ofendida, las o los Defensores Regionales, Adjuntos o Especializados lo harán constar por escrito y ordenarán el archivo del expediente, el cual podrá reabrirse cuando las o los peticionarios expresen a la Defensoría que no se ha cumplido con el compromiso en un plazo de 15 días o en el plazo establecido en el acuerdo, contado a partir de la fecha de realización de la conciliación.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2013)</small>
+
 ### CAPÍTULO XI. DE LAS RECOMENDACIONES
 
 ###### Artículo 137.
@@ -1699,7 +1723,9 @@ Si durante los treinta días siguientes a la aceptación de la propuesta de conc
 
 La o el Defensor Regional, Adjunto o Especializado que conozca de una petición susceptible de ser solucionada por la vía conciliatoria, inmediatamente dará aviso a la o el peticionario de esta circunstancia, explicándole en qué consiste el procedimiento y sus ventajas; y manteniéndolo informado del avance del trámite conciliatorio hasta su conclusión.
 
-Esta función debe ser consultada previamente con la o el Coordinador Operativo de las Defensorías.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+Esta función debe ser consultada previamente con la o el Defensor, la o el Coordinador General de Defensorías o la o el Coordinador Operativo de las Defensorías.
 
 ###### Artículo 143.
 
@@ -2026,3 +2052,15 @@ CONSEJERA CIUDADANA
 PEDRO MATÍAS ARRAZOLA
 
 CONSEJERO CIUDADANO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día hábil siguiente de su aprobación por el Consejo Ciudadano de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
+
+SEGUNDO. Se instruye al Director de Peticiones, Orientaciones y Seguimiento de Recomendaciones para que a partir de la aprobación del presente acuerdo, realice las gestiones necesarias para su publicación en los estrados de la Defensoría, por un plazo de treinta días hábiles, dejando la razón correspondiente de su retiro.
+
+TERCERO. Se instruye al Titular de la Unidad de Enlace para que a partir de la vigencia del presente acuerdo, realice las gestiones necesarias para su publicación en el Portal de Transparencia de la Defensoría.
+
+CUARTO. Se instruye a la Secretaría Técnica del Consejo Ciudadano, para que realice las gestiones necesarias para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
