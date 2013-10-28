@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-10-21"
+last_updated: "2013-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1777,7 +1777,7 @@ III. Gozar de buena reputación y honorabilidad y no estar sujeto a proceso crim
 
 IV. No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años, anteriores a la designación;
 
-V. No desempeñar ni haber desempañado cargos de Dirección en algún partido o agrupación política, durante los cinco años anteriores; y
+V. No desempeñar ni haber desempeñado cargos de Dirección en algún partido o agrupación política, durante los cinco años anteriores; y
 
 VI. Ser propuesto en formula, propietario y suplente, y representar a algún organismo o Institución de los sectores privado o social, tales como: Organismos empresariales, Colegios de Profesionales, Fundaciones, Universidades, investigadores, o ser ciudadano con reconocido prestigio, experiencia y calificados conocimientos sobre el área e interesados en colaborar, dar apoyo y recomendar soluciones a los problemas de carácter municipal.
 
@@ -5607,7 +5607,7 @@ XLVIII. SISTEMA MUNICIPAL: El Sistema Municipal de Protección Civil constituido
 
 LIX. SISTEMA NACIONAL: El Sistema Nacional de Protección Civil cuyas bases para su establecimiento fueron aprobadas por Decreto del Ejecutivo Federal, publicado en el Diario Oficial de la Federación, el día seis de mayo de mil novecientos ochenta y seis;
 
-L. SUSTANCIA PELIGROSA: Aquélla que por sus altos índices de inflamabilidad, explosibilidad, toxicidad, reactividad, corrosividad o acción biológica puede ocasionar una afectación o daño significativo al ambiente, a la población o a sus bienes;
+L. SUSTANCIA PELIGROSA: Aquélla que por sus altos índices de inflamabilidad, explosibilidad (sic), toxicidad, reactividad, corrosividad o acción biológica puede ocasionar una afectación o daño significativo al ambiente, a la población o a sus bienes;
 
 LI. TÉRMINOS DE REFERENCIA: Guía técnica para la elaboración de los programas internos y especiales de protección civil;
 
@@ -6193,7 +6193,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -9921,7 +9921,7 @@ III. SERVICIOS:
 
 195. TINTORERÍA Y PLANCHADURÍA
 
-196. TIRADERO DE BASURA
+196. (DEROGADO, P.O. 28 DE OCTUBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
 
@@ -10153,7 +10153,7 @@ Se considera como fiesta tradicional la actividad que se realiza en lugares púb
 
 Semana santa (el calvario).
 
-Fecha: La que corresponda de a cuerdo al calendario.
+Fecha: La que corresponda de a cuerdo (sic) al calendario.
 
 Lugar Calzada de los Fuertes, así como los Fuertes de Loreto y Guadalupe.
 
@@ -11025,9 +11025,11 @@ Contra la resolución que se emita para efectos de los párrafos que anteceden, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
+### CAPÍTULO 19. LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ## TÍTULO ÚNICO. CONTROL DEL DESARROLLO URBANO SUSTENTABLE
 
@@ -12698,6 +12700,8 @@ VIII. Informe técnico de autorización emitido por la Unidad Operativa Municipa
 LICENCIA DE CONSTRUCCIÓN ESPECÍFICA
 
 ## TÍTULO ÚNICO. DE LOS SERVICIOS PÚBLICOS A CARGO DEL MUNICIPIO DE PUEBLA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 740.
 
@@ -21179,7 +21183,7 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 1350.
 
-El presente Capítulo tiene por objeto normar el servicio público de limpia y el manejo integral de residuos sólidos generados en el Municipio de Puebla, por lo que toda concesión, autorización y permisos especiales otorgados que resulten contrarios al presente Capítulo, se deberán convalidar y los que se den o se pudieran dar, son inexistentes o nulos. Además, el presente Capítulo tiene por objeto establecer y regular:
+El presente Capítulo tiene por objeto normar el servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos y el manejo integral de los residuos sólidos generados en el Municipio de Puebla, por lo que toda concesión, autorización y permisos especiales otorgados que resulten contrarios al presente Capítulo, se deberán convalidar y los que se den o se pudieran dar, son inexistentes o nulos. Además el presente Capítulo tiene por objeto establecer y regular:
 
 I. Las políticas y procedimientos para la prestación del servicio público de limpia y manejo integral de residuos sólidos municipales,
 
@@ -21191,7 +21195,9 @@ IV. La limpieza en las calles, aceras, plazas, predios, jardines, parques públi
 
 V. La recolección de residuos, desperdicios o desechos provenientes de las vías públicas, casas habitación, comercios, industrias, edificios públicos, condominios y otros establecimientos;
 
-VI. El transporte y depósito de basura, desperdicios o desechos al relleno sanitario;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VI. El transporte traslado y disposición final de los residuos sólidos urbanos al relleno sanitario;
 
 VII. La participación ciudadana en la denuncia de irregularidades en el servicio de aseo y limpia;
 
@@ -21203,85 +21209,157 @@ X. Sujetar las actividades relacionadas con la generación y manejo integral de 
 
 XI. Las prohibiciones e infracciones en materia de aseo, limpia y manejo de los desechos.
 
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XXXVI FRACCIONES.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1351.
 
 Para los efectos del presente Capítulo, se entenderá por:
 
-I. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundados o de energía;
+I. Agente Infeccioso: Microorganismo capaz de causar una enfermedad si se reúnen las condiciones para ello, y cuya presencia en un residuo lo hace peligroso;
 
-II. Arroyo Vehicular de la Calle: Superficie comprendida de guarnición a guarnición;
+II. Almacenamiento: Actividad que realizan los generadores dentro del lugar de generación de residuos en un lugar determinado y apropiado, previo a la recolección de los mismos para su posterior reutilización, acopio, reciclado, aprovechamiento, tratamiento o disposición final;
 
-III. Ayuntamiento: Máximo Órgano Colegiado que rige los intereses de un municipio;
+III. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundados o de energía;
 
-IV. Basura: Residuos sólidos que no tienen ningún uso y que no pueden ser comercializados, es decir, que no son reusables o reciclables y que se consideran como desechos;
+IV. Arroyo Vehicular de la Calle: Superficie comprendida de guarnición a guarnición;
 
-V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
+V. Ayuntamiento: Máximo órgano colegiado que rige los intereses de un municipio;
 
-VI. Colonia: División territorial del Municipio. En este Capítulo se entenderá por colonia también a los barrios y a los fraccionamientos;
+VI. Biogás: Mezcla de gases resultantes de la descomposición de la materia orgánica realizada por acción bacteriana en condiciones anaerobias. Sus principales componentes son el metano (CH4) y el bióxido de carbono (CO2);
 
-VII. Composta: Material que se obtiene de la biodegradación de los residuos sólidos orgánicos por varios métodos o sistemas y que es rico en nutrientes, pudiéndose utilizar como regenerador de suelos agrícolas;
+VII. Biodegradable: Es el compuesto químico que se degrada por una acción biológica;
 
-VIII. Concesionario: Personas jurídicas o físicas autorizadas por el Ayuntamiento que prestan el servicio público de Limpia directamente coordinadas por el Organismo;
+VIII. Caracterización de Sitios Contaminados: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
 
-IX. Depuración: Actividad por la cual son separados los subproductos reciclables o reusables con valor comercial de aquellos que no lo son, en lugares autorizados por el Organismo o que no excedan lo especificado por otros dispositivos jurídicos;
+IX. Centros de Acopio: Son los sitios donde se depositan, limpian, clasifican y comercializan los residuos sólidos con características reciclables o reusables;
 
-X. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+X. Colonia: División territorial del Municipio en este Capítulo se entenderá por colonia también a los barrios y fraccionamientos;
 
-XI. Generación Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
+XI. Composta: Material que se obtiene de la biodegradación de los residuos sólidos orgánicos por varios métodos o sistemas y que es rico en nutrientes, pudiéndose utilizar como regenerador de suelos agrícolas;
 
-XII. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+XII. Concesionario: Personas jurídicas o físicas autorizadas por el Ayuntamiento que prestan el servicio público de limpia, recolección, traslado, tratamiento y disposición final directamente coordinadas por el Organismo;
 
-XIII. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+XIII. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
 
-XIV. Gran Generador: Persona física o moral que genera una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XIV. Depuración: Actividad por la cual son separados los subproductos reciclables o reusables con valor comercial de aquéllos que no lo son, en lugares autorizados por el Organismo o que no excedan lo especificado por otros dispositivos jurídicos;
 
-XV. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico de oxígeno;
+XV. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
-XVI. Inventario de Residuos: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integran a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
+XVI. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte;
 
-XVII. Montonera: Apilamiento de basura en la vía pública, terrenos baldíos, barrancas y en general sitios no autorizados por el Organismo, producida por la irresponsabilidad de algunos ciudadanos;
+XVII. Envase: Es el componente de un producto que cumple la función de contenerlo y protegerlo para su distribución, comercialización y consumo;
 
-XVIII. Organismo: El Organismo Operador del Servicio de Limpia del Municipio de Puebla;
+XVIII. Estación de Transferencia: Unidad de manejo de los residuos sólidos urbanos y/o de manejo especial que reciben estos residuos procedentes del proceso de recolección a través de los vehículos destinados para éste propósito y que son transferidos a vehículos de mayor capacidad en volumen y carga para ser transportados al sitio de disposición final;
 
-XIX. Pepena: Procedimiento no autorizado, por el cual algunos subproductos son separados del resto de los desechos sólidos para su comercialización, con objeto de su reciclaje o reuso;
+XIX. Evaluación del Riesgo Ambiental: Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman;
 
-XX. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+XX. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
 
-XXI. Recolector de Reciclables: Persona física que se dedica al manejo y comercialización de los subproductos reciclables;
+XXI. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XXII. Relleno Sanitario: Sitio de disposición final de los residuos sólidos biodegradables y no biodegradables bajo condiciones controladas de la producción del lixiviados y biogas;
+XXII. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo integral de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XXIII. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamientos o disposición final conforme a lo dispuesto en este Capítulo y demás ordenamientos legales;
+XXIII. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos;
 
-XXIV. Residuos Sólidos: El material generado en los centros de población, en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados e instituciones educativas, así como el derivado de las actividades comerciales o de servicio, proceso de extracción, beneficio, transformación o producción industrial; excluyendo los de demoliciones y construcciones y los de características peligrosas de acuerdo con la Norma Oficial Mexicana en vigor, que establece las características de los residuos peligrosos, el listado de los mismos y los límites que hacen peligrosos a un residuo por su clasificación CRETIB, es decir, es corrosivo, reactivo, explosivo, tóxico, inflamable o biológico infeccioso.
+XXIV. Gran Generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-XXV. Residuos Sólidos Biodegradables: Son aquellos susceptibles de ser disgregados en sus compuestos básicos por la acción de agentes biológicos naturales formados particularmente por bacterias y otros microorganismos y bajo condiciones particulares de temperatura y humedad;
+XXV. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
 
-XXVI. Residuos Sólidos no Biodegradables: Son aquellos formados por materia inorgánica, cuyo cambio de composición se realiza mediante procesos físico-químicos;
+XXVI. Inventario de Residuos: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
 
-XXVII. Residuos Sólidos Infecto Contagiosos: Son aquellos provenientes de hospitales, clínicas, laboratorios de análisis clínicos, laboratorios anátomo patológicos y en general los que provengan de fuentes donde se traten enfermedades de alto riesgo de contagio para seres humanos y/o animales;
+XXVII. Ley: Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XXVIII. Residuos Sólidos Peligrosos: Es aquél que se encuentra dentro del rango CRETIB, es decir, es corrosivo, reactivo, explosivo, tóxico, inflamable o biológico infeccioso;
+XXVIII. Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
 
-XXIX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por este Capítulo como residuos de otra índole;
+XXIX. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, caracterización, transferencia, almacenamiento, barrido, recolección, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XXX. Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema e factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+XXX. Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
 
-XXXI. Reutilización: El empleo de un material o residuos previamente usados, sin que medie un proceso de transformación;
+XXXI. Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
-XXXII. Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasione efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
+XXXII. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar o reducir la generación de residuos y aprovechando, tanto como sea posible, el valor agregado de aquéllos;
 
-XXXIII. Separación Primaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos, en los términos de este Capítulo;
+XXXIII. Montonera: Apilamiento de residuos sólidos urbanos en la vía pública, terrenos baldíos, barrancas y en general sitios no autorizados por el Organismo, producida por la irresponsabilidad de algunos ciudadanos;
 
-XXXIV. Separación Secundaria.- Acción de segregar entre í los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de este Capítulo;
+XXXIV. Organismo: El Organismo Operador del Servicio de Limpia del Municipio de Puebla;
 
-XXXV. Subproducto Reciclable: Residuos sólidos que generan los ciudadanos y que son susceptibles de ser reusados o reciclados; y
+XXXV. Pepena: Procedimiento no autorizado por el cual algunos subproductos son separados del resto de los residuos sólidos para su comercialización, con objeto de su reciclaje o reuso;
 
-XXXVI. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos bajo los criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnología economía.
+XXXVI. Pequeño Generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+
+XXXVII. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el diagnóstico básico para la gestión integral de residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+
+XXXVIII. Proceso Productivo: Conjunto de actividades relacionadas con la extracción, beneficio, transformación, procesamiento y/o utilización de materiales para producir bienes y servicios;
+
+XXXIX. Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
+
+XL. Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
+
+XLI. Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de la Ley;
+
+XLII. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+
+XLIII. Recolector de Reciclables: Persona física que se dedica al manejo y comercialización de los subproductos reciclables.
+
+XLIV. Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
+
+XLV. Reglamento: El Reglamento de la Ley General para la Prevención y Gestión Integral de los Residuos;
+
+XLVI. Relleno Sanitario: Sitio de disposición final de los residuos sólidos biodegradables y no biodegradables bajo condiciones controladas de la producción de lixiviados y biogás;
+
+XLVII. Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en la Ley;
+
+XLVIII. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final, conforme a lo dispuesto en la Ley y demás ordenamientos que de ella deriven;
+
+XLIX. Residuos de Manejo Especial: Son aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos, ni residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+
+L. Residuos Incompatibles: Aquéllos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
+
+LI. Residuos Peligrosos: Son aquéllos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley;
+
+LII. Residuos Sólidos: El material generado en los centros de población, en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados e instituciones educativas, así como el derivado de las actividades comerciales o de servicio, proceso de extracción, beneficio, transformación o producción industrial; excluyendo los de demoliciones y construcciones y los de características peligrosas, de acuerdo con la Norma Oficial Mexicana en vigor, que establece las características de los residuos peligrosos, el listado de los mismos y los límites que hacen peligrosos a un residuo por su clasificación cretib, es decir, es corrosivo, reactivo, explosivo, tóxico, inflamable o biológico infeccioso;
+
+LIII. Residuos Sólidos Biodegradables: Son aquéllos susceptibles de ser disgregados en sus compuestos básicos por la acción de agentes biológicos naturales, formados particularmente por bacterias y otros microorganimos (sic) y bajo condiciones particulares de temperatura y humedad;
+
+LIV. Residuos Sólidos No Biodegradables: Son aquéllos formados por materia inorgánica, cuyo cambio de composición se realiza mediante procesos físico químicos;
+
+LV. Residuos Sólidos Infectocontagiosos: Son aquéllos provenientes de hospitales, clínicas, laboratorios de análisis clínicos, laboratorios anátomo patológicos y en general los que provengan de fuentes donde se traten enfermedades de alto riesgo de contagio para seres humanos y/o animales;
+
+LVI. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley como residuos de otra índole;
+
+LVII. Responsabilidad compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+
+LVIII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+
+LIX. Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
+
+LX. Secretaría: Secretaría de Medio Ambiente y Servicios Públicos del H. Ayuntamiento de Puebla;
+
+LXI. Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos, en los términos de la Ley;
+
+LXII. Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de la Ley;
+
+LXIII. Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+
+LXIV. Subproducto Reciclable: Residuos sólidos que generan los ciudadanos y que son susceptibles de ser reusados o reciclados;
+
+LXV. Transporte: Actividad que consiste en trasladar residuos sólidos urbanos, de manejo especial o residuos peligrosos por el territorio municipal o estatal para su posterior reutilización, acopio, reciclado, aprovechamiento, tratamiento o disposición final;
+
+LXVI. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
+
+LXVII. Termólisis: Proceso térmico a que se sujetan los residuos en ausencia de, o en presencia de cantidades mínimas de oxígeno, que incluye la pirólisis en la que se produce una fracción orgánica combustible formada por hidrocarburos gaseosos y líquidos, así como carbón y una fase inorgánica formada por sólidos reducidos metálicos y no metálicos, y la gasificación que demanda mayores temperaturas y produce gases susceptibles de combustión;
+
+LXVIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica; y
+
+LXIX. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1352.
 
-El Presidente Municipal y a quien él designe como titular del Organismo, serán los encargados de la aplicación del presente Capítulo, de conformidad con los artículos 115 de la Constitución General de la República, 104 de la Constitución local, 199 de la Ley Orgánica Municipal, y el Decreto que crea el Organismo Operador del Servicio de Limpia para el Municipio de Puebla.
+El Presidente Municipal y a quien él designe como Titular del Organismo, serán los encargados de la aplicación del presente Capítulo, de conformidad con los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 104 de la Constitución Política para el Estado Libre y Soberano de Puebla; 199 de la Ley Orgánica Municipal, y el Decreto que crea el Organismo Operador del Servicio de Limpia para el Municipio de Puebla, y su Reglamento Interior.
 
 El Organismo, será el encargado de vigilar el exacto cumplimiento y aplicación del presente Capítulo, así como de la supervisión de las concesiones otorgadas.
 
@@ -21289,7 +21367,9 @@ El Organismo, será el encargado de vigilar el exacto cumplimiento y aplicación
 
 El Servicio Público de Limpia comprende:
 
-I. Recolección, transporte y disposición final de residuos sólidos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. Recolección, transporte, tratamiento y disposición final de residuos sólidos;
 
 II. Barrido de avenidas de alto tráfico con o sin camellón central, parques, jardines y demás áreas públicas que se encuentren bajo la administración del Ayuntamiento;
 
@@ -21301,21 +21381,27 @@ V. Servicio especial de incineración o aprovechamiento energético; y
 
 VI. Servicios especiales que consideran manejo de residuos sólidos peligrosos, en coordinación con las Dependencias Federales.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1354.
 
-La prestación de los anteriores conceptos, podrán ser concesionados en forma conjunta o separadamente por el Ayuntamiento a personas físicas o personas jurídicas conforme al artículo 104 de la Constitución Política para el Estado Libre y Soberano de Puebla.
+La prestación de los anteriores conceptos, podrán ser concesionados en forma conjunta o separadamente por el Ayuntamiento a personas físicas o personas jurídicas, conforme al artículo 104 de la Constitución Política para el Estado Libre y Soberano de Puebla, la Ley Orgánica Municipal, el Código Fiscal y Presupuestario para el Municipio de Puebla y demás ordenamientos legales aplicables.
 
 ###### Artículo 1355.
 
 El presente Capítulo, no excluye la aplicación de las disposiciones que sobre la materia, contengan las diversas Leyes y Reglamentos de Orden Federal, Estatal y Municipal.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1356.
 
-Los residuos sólidos generados en el Municipio de Puebla, son responsabilidad de los generadores, hasta y en tanto no sean depositados en la vía pública en los días y horarios de recolección, en los contenedores o en las unidades recolectoras autorizadas, mismos que a partir de ese momento pasarán a ser responsabilidad y propiedad del Organismo.
+Los residuos sólidos generados en el Municipio de Puebla, son responsabilidad de los generadores, hasta y en tanto no sean depositados en la vía pública en los días y horarios de recolección, en los contenedores o en las unidades recolectoras autorizadas por el Organismo, los que a partir de ese momento pasarán a ser responsabilidad y propiedad del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1357.
 
-En el Municipio de Puebla queda estrictamente prohibida la actividad de pepena.
+En el Municipio de Puebla queda estrictamente prohibida la actividad de pepena. El OOSLMP será el encargado de regular a aquellas personas que pretendan la realización de recolección de residuos sólidos urbanos de manera voluntaria.
 
 DE LAS FACULTADES DEL ORGANISMO
 
@@ -21325,11 +21411,17 @@ El Organismo y los concesionarios, deberán realizar campañas de concientizaci�
 
 Las instituciones públicas o empresas privadas, que realicen labores de desazolve de drenaje, alcantarillas y similares, así como cualquier otro tipo de obra que origine residuos sólidos en la vía publica, están obligadas a informar al Organismo con la finalidad de que sean supervisadas las obras en su ejecución y limpieza y sean contratadas, ya sea con éste o con algunos de los concesionarios el transporte de los residuos sólidos generados en dichas obras. En caso contrario, el Organismo sancionará al o a los infractores conforme a lo dispuesto por el artículo 1388 del presente Código Reglamentario.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Así mismo, todas las demás acciones orientadas a cumplir los objetivos del Decreto de creación del Organismo, su Reglamento Interior y demás normas aplicables sin perjuicio de lo reservado a los gobiernos federal y estatal.
+
 ###### Artículo 1359.
 
 El Honorable Ayuntamiento del Municipio de Puebla, a través del Organismo tendrá, además, las facultades y obligaciones siguientes:
 
-I. Nombrar el personal necesario del Organismo y proporcionar en su caso, los elementos de trabajo y seguridad así como los útiles y en general todo el material indispensable en el barrido manual y mecánico, así como la recolección, transporte y disposición final de los residuos sólidos generados por esta actividad;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. Nombrar el personal necesario del Organismo y proporcionar en su caso, los elementos de trabajo y seguridad, así como los útiles y en general todo el material indispensable en el barrido manual y mecánico, así como la limpia, recolección, traslado, tratamiento y disposición final de los residuos sólidos urbanos generados por esta actividad;
 
 II. Aplicar las sanciones que correspondan por violaciones al presente Capítulo;
 
@@ -21341,17 +21433,25 @@ V. Promover, orientar y apoyar las acciones en materia de aseo, limpia, con la s
 
 VI. Vigilar y hacer cumplir, en las (sic) esfera de su competencia, este Capítulo y demás disposiciones aplicables;
 
-VII. Ejecutar los acuerdos que en materia de aseo y limpia dicte el H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VII. Ejecutar los acuerdos que en materia de limpia, recolección, traslado, tratamiento y disposición final de residuos dicte el H. Ayuntamiento;
 
 VIII. Promover entre los habitantes del municipio el deber de mantener y conservar limpia y en condiciones adecuadas las áreas y las vías públicas;
 
 IX. Ordenar la inspección en establecimiento y lugares para verificar el acatamiento de este Capítulo;
 
-X. Imponer las sanciones administrativas en este Capítulo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XI. Coordinar la colaboración de la ciudadanía y de las organizaciones de colonos, comerciantes e industriales para la recolección y transporte de residuos sólidos municipales;
+X. Imponer las sanciones administrativas señaladas en el presente Capítulo y demás que sean de su competencia;
 
-XII. Planear y organizar la prestación del servicio de acuerdo con los recursos disponibles;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XI. Coordinar la colaboración de la ciudadanía y de las organizaciones de colonos, comerciantes e industriales para la recolección y transporte de residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XII. Planear y organizar la prestación del servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos, de acuerdo con la disponibilidad presupuestal;
 
 XIII. Establecer un sistema de quejas y reclamaciones que presenten los usuarios para su debida atención, dictándose las medidas necesarias para su mejor y pronta solución;
 
@@ -21359,9 +21459,13 @@ XIV. Organizar administrativamente el servicio público de limpia y formular el 
 
 XV. Promover la instalación de contenedores de residuos sólidos, en los lugares que previamente se hayan seleccionado, en base a estudios, supervisándose periódicamente el buen funcionamiento de los mismos;
 
-XVI. Aplicar las normas técnicas vigentes para la recolección, transporte, tratamiento y disposición final de los residuos sólidos municipales;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XVII. Establecer rutas, horarios y frecuencia en que debe prestarse el servicio público de limpia a través de os concesionarios autorizados, pudiendo después de escuchar a los vecinos, modificarlos de acuerdo a las necesidades de dicho servicio;
+XVI. Aplicar las Normas Oficiales vigentes para la recolección, transporte, tratamiento y disposición final de los residuos sólidos municipales;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XVII. Establecer rutas, horarios y frecuencia en que debe prestarse el servicio público de limpia, recolección y traslado a través de los concesionarios autorizados, pudiendo después de escuchar a los vecinos, modificarlos de acuerdo a las necesidades de dicho servicio;
 
 XVIII. Elaborar un programa de actividades de limpieza para lugares públicos, así como de lotes baldíos;
 
@@ -21385,25 +21489,29 @@ XXVII. Ordenar a quienes coloquen, distribuyan o repriman propaganda sin autoriz
 
 XXVIII. Las demás que se deriven de este Capítulo y de las leyes y demás disposiciones jurídicas en la materia.
 
-DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-DISPOSICIÓN FINAL DE DESECHOS Y/O RESIDUOS QUE PRESTE EL ORGANISMO
-
-OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO
+DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRASLADO Y DISPOSICIÓN FINAL DE RESIDUOS QUE PRESTE EL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO
 
 ###### Artículo 1360.
 
 Son objeto de estos derechos:
 
-I. Los servicios de recolección, transporte, tratamiento y disposición final de los desechos y/o residuos sólidos; que preste el Organismo a través de los concesionarios, a casas habitación, condominios, departamentos, unidades habitacionales o sus similares, comercios, industrias, prestadores de servicios, empresas de diversiones y espectáculos públicos, hospitales y clínicas; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-II. Los servicios especiales que el Organismo Operador del Servicio de Limpia del Municipio efectúe en predios, por sí o a través de sus concesionarios, a solicitud o en rebeldía de los propietarios poseedores.
+I. Los servicios de recolección, transporte, tratamiento y disposición final de residuos sólidos urbanos, que preste el Organismo a través de los concesionarios, a casas habitación, condominios, departamentos, unidades habitacionales o sus similares, comercios, industrias, prestadores de servicios, empresas de diversiones y espectáculos públicos, hospitales y clínicas; y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+II. Los servicios especiales que el Organismo efectúe en predios, por sí o a través de sus concesionarios, a solicitud o en rebeldía de los propietarios poseedores.
 
 ###### Artículo 1361.
 
 Son sujetos de estos derechos, las personas físicas o morales que sean propietarias o poseedoras de los predios en que se presten los servicios referidos.
 
-Los derechos a que mencionados en el artículo anterior, se pagarán de conformidad con las cuotas, tasas y/o tarifas que anualmente señale la Ley de Ingresos del Municipio.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Los derechos mencionados en el artículo anterior, se pagarán de conformidad con las cuotas, tasas y/o tarifas que anualmente señale la Ley de Ingresos del Municipio.
 
 El pago de derechos a que se hace referencia, deberá efectuarse:
 
@@ -21411,7 +21519,9 @@ I. Tratándose de inmuebles destinados a casa habitación, condominio, departame
 
 II. Tratándose de establecimientos comerciales, industriales, prestadores de servicios, empresas de diversiones y espectáculos públicos, hospitales y clínicas, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquel en que se prestó el servicio; y
 
-III. Tratándose de los servicios especiales, se enterará al Organismo Operador del Servicio de Limpia del Municipio, dentro del plazo máximo de quince días a aquel en que se haya efectuado la limpieza.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Tratándose de los servicios especiales, se enterará al Organismo, dentro del plazo máximo de quince días a aquél en que se haya efectuado la limpieza.
 
 ###### Artículo 1362.
 
@@ -21423,63 +21533,113 @@ II. Los servicios comerciales e industriales se llevarán a cabo directamente co
 
 III. Los servicios especiales y sanciones, se llevarán a cabo directamente en las oficinas del Organismo.
 
-En caso de que no sean pagados en tiempo y forma las cuotas y tarifas por la prestación del servicio de limpia para los propietarios o poseedores de inmuebles de casa habitación, condominio, departamentos, unidades habitacionales, habitados o sin habitar, así como predios rústicos; en donde el Organismo Operador del Servicio de Limpia del Municipio a través de sus concesionarios autorizados presten el servicio de recolección, transporte y disposición final de los residuos generados en el Municipio de Puebla; éstas se harán efectivas a través del procedimiento de ejecución.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-Para el caso de establecimientos comerciales, industriales, prestadores de servicios, empresas de diversión y espectáculos públicos, hospitales y clínicas que no cumplan con el pago de las tarifas que hayan pactado con el concesionario en el contrato suscrito por ambas partes, el concesionario lo hará saber al Organismo Operador del Servicio de Limpia del Municipio de Puebla, a los cinco días siguientes en que incurra en mora el usuario del servicio, por (sic) debiendo acompañar la documentación correspondiente para que el Organismo proceda al requerimiento, debiendo el usuario del servicio acudir a la audiencia de conciliación, misma que se llevará a cabo ante el Organismo, autoridad ante la que ambas partes se comprometerán a cumplir las obligaciones y derechos que del contrato por la prestación del servicio se deriven, y en caso de que el usuario no cumpla con el pago, el Organismo remitirá a la Tesorería Municipal, para que a través de la Unidad Administrativa competente, se inicie el procedimiento de ejecución en contra del usuario del servicio por incumplimiento al pago del servicio prestado.
+En caso de que no sea (sic) agados en tiempo y forma las cuotas y tarifas por la prestación del servicio de recolección, traslado, tratamiento y disposición final de residuos para los propietarios o poseedores de inmuebles de casa habitación, condominio, departamentos, unidades habitacionales, habitados o sin habitar, así como predios rústicos, en donde el Organismo a través de sus concesionarios autorizados presten el servicio de recolección, transporte y disposición final de los residuos generados en el Municipio de Puebla; éstas se harán efectivas a través del procedimiento administrativo de ejecución previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Para el caso de establecimientos comerciales, industriales, prestadores de servicios, empresas de diversión y espectáculos públicos, hospitales y clínicas que no cumplan con el pago de las tarifas que hayan pactado con el concesionario en el contrato suscrito por ambas partes, el concesionario lo hará saber al Organismo, dentro de los cinco días hábiles siguientes en que incurra en mora el usuario del servicio, debiendo acompañar la documentación correspondiente para que el Organismo proceda al requerimiento, debiendo el usuario del servicio acudir a la audiencia de conciliación, misma que se llevará a cabo ante el Organismo, autoridad ante la que ambas partes se comprometerán a cumplir las obligaciones y derechos que del contrato por la prestación del servicio se deriven, y en caso de que el usuario no cumpla con el pago, el Organismo remitirá a la Tesorería Municipal, para que a través de la unidad administrativa competente, se inicie el procedimiento administrativo de ejecución en contra del usuario del servicio por incumplimiento al pago del servicio prestado.
 
 OBLIGACIONES Y FACULTADES DE LOS CIUDADANOS EN RELACIÓN A LOS
 
 RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1363.
 
-Son obligaciones de los generadores, es decir, los propietarios o poseedores de bienes inmuebles, establecimientos comerciales, industriales, prestadores de servicios, empresas de diversión y espectáculos públicos, hospitales y clínicas, respecto a la limpieza y a los residuos sólidos no peligrosos generados en el Municipio de Puebla:
+Son obligaciones de los generadores, propietarios o poseedores de bienes inmuebles, respecto a la limpieza y a los residuos sólidos no peligrosos generados en el Municipio de Puebla:
 
-I. Barrer y mantener limpios la banqueta y hasta la mitad del arroyo vehicular de la calle del frente de sus casas, comercios y terrenos baldíos que den hacia la vía pública. En condominios y unidades habitacionales, la limpieza exterior se hará conforme al Reglamento de Condominios correspondiente. Esta actividad debe realizarse antes de las nueve horas con treinta minutos en zonas habitacionales y a más tardar a las diez horas en las zonas comerciales;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-II. Separar los residuos sólidos y entregarlos al concesionario en los horarios y días preestablecidos;
+I. Barrer y mantener limpios la banqueta y hasta la mitad del arroyo vehicular de la calle del frente de sus casas, comercios y terrenos baldíos que colinden con vía pública. En condominios y unidades habitacionales, la limpieza exterior se hará conforme al Reglamento de Condominios correspondiente. Esta actividad debe realizarse antes de las nueve horas con treinta minutos en zonas habitacionales y a más tardar a las diez horas en las zonas comerciales;
 
-III. Separar los residuos sólidos domésticos peligrosos y entregarlos en las modalidades que al efecto indique el Organismo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-IV. Para el servicio domiciliar, solicitar al Organismo la recolección, transporte y disposición final de los desechos no comprendidos como desechos domiciliarios, tales como muebles, escombros, chatarra, materiales de construcción, troncos, ramas de árboles y todo desecho de volumen excesivo;
+II. Separar los residuos sólidos urbanos en reciclables y no reciclables y entregarlos en los horarios, días y modalidades establecidos por el Organismo;
 
-V. Mantener limpios y libres de fauna nociva, los predios baldíos de su propiedad o posesión que no tengan construcción, así como mantenerlos cercados o bardados a una altura mínima de 2.25 metros a fin de evitar la acumulación de basura, la contaminación y molestias a los vecinos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-VI. Mantener limpios y libres de fauna nociva los edificios, casas y otras construcciones de su propiedad o posesión, que se encuentren abandonados o en estado ruinoso;
+III. Separar y entregar en las modalidades que indique el Organismo los residuos sólidos peligrosos generados en casa habitación;
 
-VII. Dar aviso al Organismo, de animales muertos y acumulación de basura que se encuentren en áreas públicas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+IV. Solicitar al Organismo el servicio especial para la recolección de desechos tales como muebles, escombros, chatarra, materiales de construcción, troncos, ramas de árboles y todo desecho de volumen excesivo generados en casa habitación;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+V. Mantener limpios y libres de fauna nociva, los predios baldíos de su propiedad o posesión que no tengan construcción, así como mantenerlos cercados o bardados a una altura mínima de 2.25 metros, a fin de evitar la acumulación de residuos, la contaminación y molestias a los vecinos;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VI. Mantener limpios y libres de flora y fauna nociva los edificios, casas y otras construcciones de su propiedad o posesión, que se encuentren abandonados o en estado ruinoso;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VII. Dar aviso al Organismo, de la acumulación de residuos que se encuentren en áreas públicas;
 
 VIII. Recoger el excremento y en general los desperdicios que generen los animales domésticos de su propiedad en áreas públicas;
 
-IX. Podar los árboles y jardines de su propiedad que colinden con la vía pública y retirar los residuos utilizando el servicio concesionado o los vehículos del Organismo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-X. Trasladar y depositar el escombro procedente de la demolición y/o construcción de inmuebles solamente a los lugares autorizados por el Ayuntamiento o el Organismo;
+IX. Podar los árboles y jardines de su propiedad que colinden con la vía pública; en caso de requerir el servicio especial de recolección, atender a lo establecido en la fracción IV del presente artículo;
 
-XI. Pagar a tiempo las cuotas por la presentación del servicio público de limpia ante la Tesorería Municipal, al Organismo, o en su caso a los concesionarios. En caso de que la tarifa no sea pagada en tiempo causará multa e intereses moratorios, mismos que serán cobrados, en el caso del servicio domiciliar, por la Tesorería Municipal y en los demás casos por el Organismo exclusivamente;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XII. Las demás que señalen este Capítulo y demás ordenamientos jurídicos en la materia.
+X. Trasladar y depositar el escombro procedente de la demolición y/o construcción de inmuebles cuando no corresponde a lo que establece la fracción IV del presente artículo, únicamente a los lugares autorizados por la autoridad estatal competente para su disposición final;
 
-XIII. En lo específico para los ciudadanos, visitantes, transeúntes, peatones, conductores y usuarios del transporte público, mantener limpias las vías y áreas públicas, no tirando basura en las mismas;
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE UN PÁRRAFO.
 
-XIV. Mantener en buenas condiciones los prados y jardines que se encuentren localizados enfrente de su propiedad;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XV. El lavado de vitrinas, aparadores y ventanas de establecimientos comerciales o de cualquier índole, que preste un servicio al público, deberán hacerse antes de las 10:00 A. M.;
+XI. Pagar a tiempo las cuotas por la prestación del servicio público de limpia ante la Tesorería Municipal, al Organismo, o en su caso, a los concesionarios;
 
-XVI. Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos. El frente de las construcciones o inmuebles en demolición, deberá mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la vía pública;
+En caso de que la tarifa no sea pagada en tiempo causará multa, recargos y actualizaciones, mismos que serán cobrados, en el caso del servicio domiciliar, por la Tesorería Municipal y en los demás casos por el Organismo exclusivamente;
 
-XVII. Los propietarios, administradores o encargados de los establecimientos que se dedican a la venta de gasolinas o servicios de lubricación y limpieza de vehículos, deberán mantenerlos aseados, así como, los pavimentos de la vía pública correspondientes al frente de sus locales;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XVIII. Los edificios y conjuntos habitacionales con 10 o más departamentos en un solo predio, los edificios de oficinas con superficie rentable superior a los 1000 metros cuadrados, los edificios y centros comerciales con una superficie de 750 metros cuadrados, deberán de contar con contenedores para basura, cerrables, con capacidad suficiente para el volumen de desechos que se generen tomando en cuenta la población y periodicidad de recolección. Los recipientes deberán ubicarse dentro del inmueble de los usuarios y por ningún motivo en la vía pública. Los proyectos de edificios y centros comerciales a que se refiere este artículo, deberán señalar claramente la ubicación de los contenedores a que se alude; y
+XII. En lo específico es obligación de cualquier persona física o jurídica mantener limpias las vías y áreas públicas, no tirando ningún tipo de residuos sólidos en las mismas; es obligación del Ayuntamiento dotar del mobiliario para depositar los residuos sólidos urbanos;
 
-XIX. En lo específico, para los propietarios o administradores de comercios, industrias, establecimientos de servicios:
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XIII. Mantener en buenas condiciones los prados y jardines que se encuentren localizados en el frente de su propiedad;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XIV. Lavar vitrinas, aparadores y ventanas de establecimientos comerciales o de cualquier índole, que preste un servicio al público, antes de las 10:00 A. M.;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XV. Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos. El frente de las construcciones o inmuebles en demolición, deberán mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la vía pública;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XVI. Los propietarios, administradores o encargados de los establecimientos que se dedican a la venta de gasolinas o servicios de lubricación y limpieza de vehículos, deberán mantenerlos aseados, así como los pavimentos de la vía pública correspondientes al frente de sus locales;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XVII. Para la recolección de los residuos sólidos urbanos de los edificios y conjuntos habitacionales con 10 o más departamentos en un solo predio, los edificios de oficinas con superficie rentable superior a los 1000 metros cuadrados, los edificios y centros comerciales con una superficie de más de 750 metros cuadrados, deberán de incluir en su infraestructura contenedores aprobados por el Organismo para la separación de los residuos, con capacidad suficiente para el volumen de desechos que se generen tomando en cuenta la población y periodicidad de recolección. Los recipientes deberán ubicarse dentro del inmueble de los usuarios y por ningún motivo en la vía pública. Los proyectos de edificios, fraccionamientos y centros comerciales a que se refiere este artículo, deberán señalar claramente la ubicación de los contenedores a que se alude; y
+
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE UN PÁRRAFO.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XVIII. En lo específico, para los propietarios o administradores de comercios, industrias, establecimientos de servicios:
 
 a) Limpiar la vía pública al inicio y al final de su jornada.
 
 b) Limpiar la vía pública después de realizar labores de carga y descarga.
 
-c) Colocar botes para depósito de basura peatonal, suficientemente accesibles en las áreas públicas de sus comercios, industrias y servicios generales, mimos que deberán mantenerse no saturados.
+c) Colocar recipientes necesarios y adecuados para el depósito de residuos (basura peatonal), suficientemente accesibles en las áreas públicas de sus comercios, industrias y servicios generales, mismos que deberán mantenerse no saturados.
 
-d) Contratar con los concesionarios el servicio y si es necesario la asignación de contenedores, según su propia generación de residuos sólidos no peligrosos.
+d) Contratar con los concesionarios, o en su caso, con el prestador de servicio que cuente con la autorización de la autoridad competente, el servicio de recolección y transporte y si es necesario la asignación de contenedores, según su propia generación de residuos sólidos no peligrosos.
+
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE CUATRO INCISOS.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XIX. Las demás que señalen este Capítulo, así como los ordenamientos jurídicos en la materia.
 
 ###### Artículo 1364.
 
@@ -21491,7 +21651,13 @@ II. Fijar en las terminales o interiores letreros indicativos de no tirar basura
 
 III. Proporcionar los recipientes necesarios y adecuados para almacenar los residuos generados en sus instalaciones y vehículos, adecuados para la separación.
 
-Los taxis, combis, microbuses, autobuses y en general los vehículos destinados al transporte de personas, deben tener recipientes instalados en sus interiores de tal forma que permitan depositar en ellos los desperdicios generados por los propios pasajeros. Dichos desperdicios se depositarán en los recipientes que para el efecto se instalen en las terminales respectivas.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Los taxis, combis, microbuses, autobuses y en general los vehículos destinados al transporte público de personas, deben tener recipientes instalados en sus interiores, de tal forma que permitan depositar en ellos los desperdicios generados por los propios pasajeros.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Dichos desperdicios se depositarán en los contenedores y recipientes que para el efecto se instalen en las bases, paraderos y terminales respectivas.
 
 ###### Artículo 1365.
 
@@ -21501,7 +21667,9 @@ I. Mantener limpia un área mínima de dos metros a la redonda cuando el permiso
 
 II. Colocar depósitos para almacenar sus desechos y el de sus clientes;
 
-III. Entregar los residuos sólidos que generen, a los camiones recolectores, pagando la cuota correspondiente; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Entregar los residuos sólidos urbanos que generen, a los camiones recolectores, pagando la cuota correspondiente; y
 
 IV. La Unidad Administrativa que otorgue el permiso correspondiente, emitirá copia al Organismo para que, en caso de incumplimiento, sancione al solicitante del mismo. En los casos de espectáculos cuyo organizador no tenga domicilio en esta Ciudad deberá dejar depósito equivalente a 200 días de salario mínimo, el cual se devolverá cuando se compruebe que ha dejado limpio el sitio donde realizó sus actividades.
 
@@ -21525,7 +21693,9 @@ III. En los proyectos de mercados a construir, se separarán la ubicación de la
 
 IV. En los mercados propiedad del municipio, el Organismo fijará las normas para el uso de las áreas o depósito de desechos y el servicio de recolección se hará con la frecuencia y el horario que al efecto el mismo determine; y
 
-V. Separar los residuos sólidos en biodegradables y no biodegradables.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+V. Separar los residuos sólidos en reciclables y no reciclables.
 
 ###### Artículo 1368.
 
@@ -21545,7 +21715,9 @@ Los propietarios, poseedores y encargados de casas habitación, edificios, clube
 
 El Organismo podrá ordenar, a costa del propietario o poseedor, la limpieza, bardado o cercado de cualquier lote baldío que presente un estado de mantenimiento inadecuado, en los términos de este artículo, cuando aquél haya sido omiso en el mantenimiento del mismo, no obstante haber sido requerido al respecto por el Organismo. Lo anterior, sin perjuicio de las sanciones que procedan por infracciones a este Capítulo. El pago de lo anterior será exigible a los propietarios y/o poseedores después de haber efectuado el trabajo. En caso de incumplimiento de pago, el Organismo informará a la Tesorería Municipal para que inicie el procedimiento administrativo de ejecución.
 
-En los casos en que el Organismo no cuente con la información del propietario o poseedor, podrá además de lo establecido en el párrafo anterior y con la sola finalidad de mantener limpio el predio, usar provisionalmente el mismo, previa notificación por un solo edicto publicado en el diario de mayor circulación en el Estado, sin que esto implique de manera alguna el ánimo de apropiación o disposición para efecto de descripción, ya que se considerará hasta y en tanto comparece el propietario o poseedor legítimo, como un bien de uso común.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+En los casos en que el Organismo no cuente con la información del propietario o poseedor, podrá además de lo establecido en el párrafo anterior y con la sola finalidad de mantener limpio el predio, usar provisionalmente el mismo, previa notificación por un solo edicto publicado en el diario de mayor circulación en el Estado, sin que esto implique de manera alguna el ánimo de apropiación o disposición para efecto de prescripción ya que se considerará hasta y en tanto comparece el propietario o poseedor legítimo, como un bien de uso común.
 
 Cuando el propietario se hiciere presente ante el Organismo deberá pagar por los gastos e infracciones, y desde luego se le hará entrega inmediata de la posesión.
 
@@ -21553,11 +21725,17 @@ Cuando el propietario se hiciere presente ante el Organismo deberá pagar por lo
 
 Son facultades de los generadores de residuos sólidos:
 
-I. Almacenar, donar, reutilizar y comercializar los residuos sólidos reciclables. Para tal efecto existirán centros de acopio y Recolectores de Reciclables debidamente autorizados y supervisados por el Organismo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-II. Construir y operar centros para producir composta, a partir de los residuos sólidos biodegradables que produzcan; siempre que se cumplan con las disposiciones del presente Capítulo;
+I. Almacenar, donar, reutilizar y comercializar los residuos sólidos reciclables. Para tal efecto existirán centros de acopio y recolectores de reciclables debidamente autorizados, registrados y supervisados por las autoridades competentes de los tres órdenes de gobierno; y
 
-Por lo que hace a los residuos especiales o voluminosos, como son colchones, refrigeradores, muebles en general, árboles de navidad y cualquier otro similar, éstos serán recogidos a pedimento especial de los usuarios. Por otra parte el Organismo o el Concesionario realizarán esta actividad en el día y horario fijado de común acuerdo.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+II. Construir y operar centros para producir composta, a partir de los residuos sólidos biodegradables que produzcan; siempre que se cumpla con las disposiciones del presente Capítulo, con la autorización de las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Por lo que hace a los residuos voluminosos, como son colchones, refrigeradores, muebles en general, árboles de navidad y cualquier otro similar, éstos serán recogidos a pedimento especial de los usuarios. Por otra parte el Organismo o el concesionario realizarán esta actividad en el día y horario fijado de común acuerdo.
 
 Para efectos de lo anterior, en caso de que el usuario se encuentre al corriente en el pago del servicio de recolección, este servicio será gratuito.
 
@@ -21581,15 +21759,19 @@ DE LOS CENTROS DE ACOPIO
 
 DE LAS PROHIBICIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1376.
 
-Queda prohibido a todos los ciudadanos del Municipio de Puebla:
+Queda prohibido en el Municipio de Puebla:
 
 I. Arrojar o depositar residuos sólidos en las calles, mercados, parques, plazas, jardines y demás áreas públicas, predios baldíos, así como la formación de montoneras en la vía pública;
 
 II. Arrojar escombro de construcción y residuos producidos por las podas en las calles, mercados, parques, plazas, jardines y demás áreas públicas, así como en predios baldíos y contenedores especiales;
 
-III. A comercios e industrias, depositar en bolsas de basura, residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, punzo cortantes sin protección e infecto contagiosos y enviarlos junto con la basura al Relleno Sanitario;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. A comercios e industrias, depositar en bolsas de basura, residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, punzo cortantes sin protección e infectocontagiosos y enviarlos junto con los residuos sólidos urbanos al Relleno Sanitario;
 
 IV. Sustraer o pepenar los residuos sólidos reciclables de la vía pública, del Relleno Sanitario o de los contenedores;
 
@@ -21605,13 +21787,17 @@ IX. La transportación en vehículos de cualquier tipo de material, que pueda es
 
 X. Quemar montoneras de basura, llantas, residuos sólidos peligrosos y cualquier otro material en cualquier lugar del territorio del Municipio de Puebla;
 
-XI. Robar, dañar, o destruir los recipientes para depósito de basura que coloque o mande a colocar el Organismo, así como los que hayan sido instalados por particulares;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XI. Robar, dañar o destruir los recipientes para depósito de residuos que coloque o mande a colocar el Organismo, así como los que hayan sido instalados por particulares;
 
 XII. Sacudir alfombras o cualquier tipo de objetos en la vía pública;
 
 XIII. Todo acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso e interés común o cualquier otro que impida la prestación del servicio público de limpia; y
 
-XIV. Transportar basura sin autorización escrita del Organismo.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XIV. Prestar el servicio de transporte de residuos sólidos urbanos sin la autorización por escrito de la autoridad competente.
 
 Aquel Ciudadano o persona jurídica que viole las anteriores disposiciones, se hará acreedor a las sanciones señaladas en el presente Capítulo.
 
@@ -21625,7 +21811,9 @@ El Organismo realizará actos de supervisión y vigilancia, para la verificació
 
 Corresponde a los Supervisores del Organismo y a las Autoridades Municipales Competentes:
 
-I. La aplicación del Capítulo de Limpia, Recolección y Disposición Final de Residuos del presente Código Reglamentario;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. La aplicación del presente Capítulo y demás disposiciones aplicables de limpia, recolección y disposición final de residuos del presente Código Reglamentario;
 
 II. Prevenir la comisión de infracciones del presente Capítulo;
 
@@ -21667,7 +21855,9 @@ DE LOS RESIDUOS SÓLIDOS PELIGROSOS
 
 Los residuos sólidos peligrosos generados en el Municipio de Puebla, son competencia de la Federación, como lo establece la Ley General de Equilibrio Ecológico y Protección al Ambiente, su Reglamento en materia de residuos peligrosos; la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla y en general, todas aquellas disposiciones que resulten aplicables en razón de la materia, por lo que queda prohibida su recolección, transporte y disposición final, sin autorización expresa de la autoridad correspondiente. Las sanciones por violar estas disposiciones corresponderán a las que indique la autoridad competente, y no es competencia del presente Código Reglamentario, con las excepciones y obligaciones para los municipios que en la materia se señalen en la Ley General para la prevención y gestión Integral de los Residuos y demás disposiciones jurídicas aplicables.
 
-El Organismo se obliga a reportar a la Autoridad Federal competente, cualquier acto del que se tenga conocimiento y corresponda con lo previsto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+El Organismo se obliga a informar a la autoridad federal competente, cualquier acto del que se tenga conocimiento y corresponda con lo previsto en el párrafo anterior.
 
 ###### Artículo 1381.
 
@@ -21679,25 +21869,35 @@ Los residuos sólidos peligrosos generados en casas habitación deberán ser man
 
 DE LOS CONCESIONARIOS DE LA RECOLECCIÓN Y TRANSPORTE DE LOS RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1383.
 
-Son obligaciones de los concesionarios de la recolección y transporte de los residuos sólidos:
+Son obligaciones de los concesionarios de recolección, traslado y disposición final de los residuos sólidos:
 
 I. Obtener en términos de la legislación aplicable, la concesión del servicio;
 
-II. Cumplir con los requisitos técnicos, financieros y de imagen solicitados por el Organismo para la prestación del servicio de recolección y transporte de los desechos sólidos municipales;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-III. Cumplir con todas y cada una de las cláusulas del título de concesión que tenga firmado con el Organismo;
+II. Cumplir con los requisitos técnicos, financieros y de imagen solicitados por el Organismo, para la prestación del servicio de recolección y traslado de los residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Cumplir con todas y cada una de las cláusulas del título de concesión que tenga celebrado con el Organismo;
 
 IV. Recolectar los residuos sólidos en los sectores donde sea concesionario y con la frecuencia acordada;
 
 V. Atender eficientemente a los usuarios del servicio concesionado;
 
-VI. Cumplir con las rutas, horarios, frecuencias y procedimientos de recolección, transportación y disposición final de los residuos sólidos autorizados por el Organismo, haciéndolos del conocimiento de los habitantes de la colonia;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VI. Cumplir con las rutas, horarios, frecuencias y procedimientos de recolección, traslado y disposición final de los residuos sólidos autorizados por el Organismo, haciéndolos del conocimiento de los habitantes de la colonia;
 
 VII. Dar aviso por escrito al Organismo de cualquier cambio en el procedimiento del servicio y una vez autorizado, comunicárselo a los habitantes de la colonia, por medio de escrito domiciliario;
 
-VIII. Depositar los residuos sólidos solamente en los sitios autorizados por el Organismo; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VIII. Depositar los residuos sólidos urbanos solamente en los sitios autorizados por el Organismo; y
 
 IX. El pago oportuno del mismo de acuerdo a la tarifa y condiciones establecidas por el Organismo.
 
@@ -21709,7 +21909,9 @@ I. Efectuar separación de los residuos sólidos, conservarlos o venderlos sin a
 
 II. Ocasionar molestias innecesarias a los usuarios del servicio y a la ciudadanía en general;
 
-III. Depositar los residuos sólidos recolectados en lugares distintos a los sitios de disposición autorizados;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Depositar los residuos sólidos urbanos recolectados en lugares distintos a los sitios de disposición autorizados;
 
 IV. Cobrar a los usuarios del servicio, tarifas más elevadas que las autorizadas por el Organismo;
 
@@ -21717,29 +21919,45 @@ V. Subcontratar total o parcialmente los servicios concesionados;
 
 VI. Recoger y transportar residuos sólidos peligrosos dictados en la Norma Oficial Mexicana en vigor; y
 
-VII. Recibir su personal, regalos, propinas o dádivas de cualquier especie por parte de la ciudadanía en relación de su servicio y en ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VII. Recibir regalos, propinas o dádivas de cualquier especie por parte de la ciudadanía en relación de su servicio y en ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1385.
 
-Los concesionarios deberán dar el servicio de la recolección ininterrumpidamente a la ciudadanía, obligándose a dar información al Organismo Operador del Servicio de Limpia, sobre los prestadores de Servicios, comercios e industrias que incumplan con el pago, entregando la relación completa de los mismos para la debida aplicación de las disposiciones de este Capítulo y las demás que resulten aplicables.
+Los concesionarios deberán prestar el servicio de la recolección ininterrumpidamente a la ciudadanía, obligándose a dar información al Organismo Operador del Servicio de Limpia, sobre los prestadores de servicios, comercios e industrias que incumplan con el pago, entregando la relación completa de los mismos para la debida aplicación de las disposiciones de este Capítulo y las demás que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1386.
 
-Son obligaciones de los concesionarios de la disposición final de los residuos sólidos:
+Son obligaciones de los concesionarios de la disposición final de los residuos sólidos urbanos:
 
 I. Contratar con el Organismo la concesión del servicio en base a las especificaciones de las normas indicadas en el Manifiesto de Impacto Ambiental, aprobado por la autoridad competente;
 
-II. Cumplir con los requisitos técnicos, financieros y de imagen especificados por el Organismo para la prestación del servicio de disposición final de los residuos sólidos Municipales;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+II. Cumplir con los requisitos técnicos, financieros y de imagen especificados por el Organismo, para la prestación del servicio de disposición final de los residuos sólidos urbanos;
 
 III. Cumplir con las Normas Oficiales Mexicanas vigentes que establecen los requisitos para el diseño, construcción, operación y monitoreo de sistemas de disposición final;
 
-IV. Llevar un control exacto de la cantidad de residuos sólidos que ingresen al sitio de disposición final en forma individual por concesionario y en forma general para determinar volúmenes, estadísticas, calidad de servicio y para los fines que el Organismo considere convenientes;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-V. Contratar con los concesionarios de la recolección y transporte de los residuos sólidos del Municipio, la disposición final de los mismos, de acuerdo a las tarifas y condiciones aprobadas por el Organismo;
+IV. Llevar un control exacto de la cantidad de residuos sólidos urbanos que ingresen al sitio de disposición final en forma individual por concesionario y en forma general para determinar volúmenes, estadísticas, calidad de servicio y para los fines que el Organismo considere convenientes;
 
-VI. Cumplir con todas y cada una de las cláusulas del título de concesión que haya firmado con el Organismo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-VII. Depositar los residuos sólidos y cubrirlos diariamente en la celda correspondiente de acuerdo al proyecto, en caso de Relleno Sanitario;
+V. Contratar con los concesionarios de la recolección y traslado de los residuos sólidos del Municipio, la disposición final de los mismos, de acuerdo a las tarifas y condiciones aprobadas por el Organismo;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VI. Cumplir con todas y cada una de las cláusulas del título de concesión que haya celebrado con el Organismo;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VII. Depositar los residuos sólidos urbanos y cubrirlos diariamente en la celda correspondiente de acuerdo al proyecto, en caso de Relleno Sanitario;
 
 VIII. Atender eficientemente a los usuarios del servicio concesionado;
 
@@ -21749,23 +21967,33 @@ X. Construir y operar el sitio de disposición final, de acuerdo a los puntos in
 
 XI. Establecer horario de recepción y operación en los sitios de disposición final de común acuerdo con el Organismo;
 
-XII. Cubrir los montos de la sanciones que la autoridad correspondiente le imponga por violaciones a la Norma Oficial Mexicana en vigor; y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XIII. En su caso, la valorización y tratamiento de los desechos, de acuerdo a los términos del título de concesión o de lo acordado con el Organismo.
+XII. Cubrir los montos de la (sic) sanciones que la autoridad correspondiente le imponga por violaciones a la Norma Oficial Mexicana en vigor; y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XIII. En su caso, la valorización y tratamiento de los residuos sólidos urbanos, de acuerdo a los términos del título de concesión o de lo acordado con el Organismo.
 
 ###### Artículo 1387.
 
 El o los concesionarios de la disposición final quedan sujetos a las prohibiciones siguientes:
 
-I. Efectuar la separación de los residuos sólidos, conservarlos o venderlos, sin autorización escrita del Organismo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. Efectuar la separación de los residuos sólidos urbanos, conservarlos o venderlos, sin autorización escrita del Organismo;
 
 II. Ocasionar molestias innecesarias a los usuarios del servicio;
 
-III. Depositar los residuos sólidos en celdas no especificadas por el proyecto;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Depositar los residuos sólidos urbanos en celdas no especificadas por el proyecto;
 
 IV. Subcontratar total o parcialmente el servicio concesionado, sin la autorización y consentimiento previo del Organismo, ratificado ante el Ayuntamiento;
 
-V. Recibir residuos sólidos peligrosos de los listados en la Norma Oficial Mexicana en vigor, en caso de Rellenos Sanitarios o residuos diferentes a los indicados en el Manifiesto del Impacto Ambiental, en tratándose de otros sitios de disposición final, tales como incineradores;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+V. Recibir residuos sólidos peligrosos de los listados en la Norma Oficial Mexicana en vigor, en caso de Rellenos Sanitarios o residuos diferentes a los indicados en el Manifiesto del Impacto Ambiental, en tratándose de otros sitios de disposición final, tales como instalaciones de valorización;
 
 VI. No recibir camiones de los concesionarios de la recolección y transporte, cualquiera que sea el motivo;
 
@@ -21773,9 +22001,13 @@ VII. Recibir vehículos no autorizados por el Organismo con residuos sólidos;
 
 VIII. Cobrar a los usuarios del servicio, tarifas más elevadas no autorizadas por el Organismo;
 
-IX. Recibir grupos de visitantes sin autorización del Organismo; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-X. En caso de Relleno Sanitario, realizar actividades en las celdas, que involucren fuego, tales como fumar o hacer fogatas, lámparas de gas o de petróleo y soldadura eléctrica.
+IX. Recibir visitantes sin autorización del Organismo; y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+X. En caso del Relleno Sanitario, realizar actividades en las celdas que involucren fuego, tales como fumar o hacer fogatas, lámparas de gas o de petróleo y soldadura eléctrica.
 
 DE LAS SANCIONES
 
@@ -21787,7 +22019,9 @@ I. Amonestación;
 
 II. Multas con base en días de salario mínimo (DSM) vigente en la Ciudad de Puebla en el momento de la infracción y bajo los siguientes criterios:
 
-a) De 1 a 10 (DSM).- A quienes mantengan sucias las banquetas y arroyos del (sic) enfrente de sus casas o comercios hacia la vía pública sin causa justificada y a quienes no respeten los horarios y días de recolección indicados por el Organismo.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+a) De 1 a 10 (DSM).- A quienes mantengan sucias las banquetas y arroyos del frente de sus casas o comercios hacia la vía pública sin causa justificada, y a quienes no respeten los horarios y días de recolección indicados por el Organismo.
 
 b) De 1 a 20 (DSM).- A quien sea sorprendido o se le detecte depositando basura en la vía pública, haciendo montoneras o depositándola fuera de contenedores, hasta por un volumen que no exceda el de una cubeta de 20 litros, si la cantidad es mayor se sancionará proporcionalmente al volumen equivalente en cubetas depositadas.
 
@@ -21797,7 +22031,9 @@ d) De 1 a 30 (DSM).- A quienes sean sorprendidos arrojando cadáveres de animale
 
 e) De 5 a 20 (DSM) A los peatones, automovilistas o sus acompañantes, choferes o usuarios del transporte público que sean sorprendidos en flagrancia arrojando basura a la vía pública.
 
-f) De 10 a 100 (DSM).- A quienes sean sorprendidos o se les detecte depositando residuos sólidos, en lugares distintos a los sitios de disposición final autorizados por el Organismo, de igual forma a quienes quemen basura en montoneras, barrancas y terrenos baldíos; y a quien transporte basura sin la autorización escrita del Organismo.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+f) De 10 a 100 (DSM).- A quienes sean sorprendidos o se les detecte depositando residuos sólidos urbanos en lugares distintos a los sitios de disposición final autorizados por el Organismo, de igual forma a quienes quemen basura en montoneras, barrancas y terrenos baldíos; y a quien traslade residuos sólidos urbanos basura sin la autorización escrita del Organismo.
 
 g) De 10 a 150 (DSM).- A quienes sean sorprendidos arrojando escombro de construcción y cualquier otro tipo de desechos a barrancas, ríos, lagos y reservas ecológicas y vía pública.
 
@@ -21805,29 +22041,33 @@ h) De 50 a 1,500 (DSM).- A los comercios, industrias, prestadores de servicios, 
 
 i) De 50 a 2,000 (DSM).- A quienes sean sorprendidos o se les detecte depositando residuos sólidos peligrosos en la vía pública, barrancas, ríos, lagos, reservas ecológicas y además en el caso de industrias y comercios, en las unidades de transporte de los concesionarios, sus contenedores, Relleno Sanitario y en general sitios diferentes a los autorizados por el Organismo. Asimismo será impuesta a aquellos recolectores de basura no autorizados.
 
-III. Multa al concesionario de la recolección y transporte que incumpla, con alguna de las disposiciones del Capítulo Octavo del presente Capítulo, en base al salario mínimo vigente a la fecha de violación del mismo y bajo los siguientes criterios:
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-a) 100 (DSM).- Por cambio de rutas y horarios u omisión del servicio en sectores de la colonia sin autorización del Organismo y por incumplimiento en la entrega al Organismo de los reportes, fianzas y estados financieros auditados indicados en el contrato concesión.
+III. Multa al concesionario de la recolección y transporte que incumpla, con alguna de las disposiciones del presente Capítulo en base al salario mínimo vigente a la fecha de violación del mismo y bajo los siguientes criterios:
 
-b) 1,500 (DSM).- Por modificar el método de recolección de los desechos sólidos en alguna de las colonias de su responsabilidad sin autorización previa del Organismo.
+a) 100 a 150 (DSM).- Por cambio de rutas y horarios u omisión del servicio en sectores de la colonia sin autorización del Organismo y por incumplimiento en la entrega al Organismo de los reportes, fianzas y estados financieros auditados, indicados en el contrato concesión.
 
-c) 2,500 (DSM).- Omitir el servicio de recolección y transporte de los residuos sólidos municipales en alguna colonia que esté bajo su responsabilidad, excepto cuando por causa justificada haya sido aprobada por el Organismo.
+b) 1,500 a 2,000 (DSM).- Por modificar d método de recolección de los desechos sólidos en alguna de las colonias de su responsabilidad sin autorización previa del Organismo.
 
-d) 4,000 (DSM).- Aumentar unilateralmente las tarifas autorizadas y/o convenidas con los usuarios del servicio, ya sea por colonia, industria o comercio y sin autorización por escrito del Organismo.
+c) 2,500 a 3,000 (DSM).- Omitir el servicio de recolección y transporte de los residuos sólidos municipales en alguna colonia que esté bajo su responsabilidad, excepto cuando por causa justificada haya sido aprobada por el Organismo.
 
-e) 5,000 (DSM).- Cuando el concesionario transporte y/o deposite en el Relleno Sanitario residuos sólidos peligrosos, procedentes de industrias y comercios sin especificación del análisis CRETIB, o en el caso de incineración, que procesen materiales diferentes a los listados en el Manifiesto de Impacto Ambiental aprobado. El Organismo deslindará responsabilidades entre el concesionario y el generador, y presentará reporte a la Procuraduría Federal de Protección al Medio Ambiente.
+d) 4,000 a 4,100 (DSM).- Aumentar unilateralmente las tarifas autorizadas y/o convenidas con los usuarios del servicio, ya sea por colonia, industria o comercio y sin autorización por escrito del Organismo.
 
-IV. Multa al concesionario de la disposición final por incumplimiento de alguna de las disposiciones del Capítulo Noveno del presente Capítulo en base a días de salario mínimo (DSM) vigente a la fecha de la violación del mismo y bajo los siguientes criterios:
+e) 5,000 a 5,100 (DSM).- Cuando el concesionario transporte y/o deposite en el Relleno Sanitario residuos sólidos peligrosos, procedentes de industrias y comercios sin especificación del análisis CRETIB, o en el caso de instalaciones de valoración, que procesen materiales diferentes a los listados en el Manifiesto de Impacto Ambiental aprobado. El Organismo deslindará responsabilidades entre el concesionario y el generador, y presentará reporte a la Procuraduría Federal de Protección al Medio Ambiente.
 
-a) 100 (DSM).- En caso de Relleno Sanitario, por reducir el frente de trabajo de cada celda, por abajo de lo indicado en el proyecto ejecutivo o por no prestar un servicio eficiente a los concesionarios de la recolección y transporte, o por no proporcionar al Organismo los reportes, fianzas, y estados financieros auditados que se indican en el contrato concesión.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-b) 1,000 (DSM).- En caso de relleno sanitario, por modificar sin autorización escrita del Organismo las características del proyecto ejecutivo aprobado en cuanto a niveles, áreas de disposición final, espesores de las capas de basura y cubierta, o por cada día de retraso en la terminación de las celdas de acuerdo al programa de obra aprobado por el Organismo y por modificaciones al proceso sin autorización escrita de la autoridad competente y/o del Organismo, en caso de otro tipo de disposición final.
+IV. Multa al concesionario de la disposición final por incumplimiento de alguna de las disposiciones del presente Capítulo, en base a días de salario mínimo (DSM) vigente a la fecha de la violación del mismo y bajo los siguientes criterios:
 
-c) 2,000 (DSM).- En caso de Relleno Sanitario, por permitir el escurrimiento de lixiviados fuera de las celdas y los cárcamos de rebombeo y por incumplimiento de los parámetros de medición de gases a la atmósfera, en caso de incineradores.
+a) 100 a 150 (DSM).- En caso de Relleno Sanitario, por reducir el frente de trabajo de cada celda, por abajo de lo indicado en el proyecto ejecutivo o por no prestar un servicio eficiente a los concesionarios de la recolección y transporte, o por no proporcionar al Organismo los reportes, fianzas y estados financieros auditados que se indican en el contrato concesión.
 
-d) 4,000 (DSM).- Por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente para el transporte de residuos sólidos peligrosos en caso de incineradores.
+b) 1,000 a 1,100 (DSM).- En caso de Relleno Sanitario, por modificar sin autorización escrita del Organismo las características del proyecto ejecutivo aprobado en cuanto a niveles, áreas de disposición final, espesores de las capas de basura y cubierta, o por cada día de retraso en la terminación de las celdas, de acuerdo al programa de obra aprobado por el Organismo y por modificaciones al proceso, sin autorización escrita de la autoridad competente y/o del Organismo, en caso de otro tipo de disposición final.
 
-e) 5,000 (DSM).- No cumplir con los requisitos solicitados en el Manifiesto de Impacto Ambiental aprobado por la autoridad competente, en todos los casos o por permitir la disposición final de residuos sólidos peligrosos en caso de Relleno Sanitario.
+c) 2,000 a 2,500 (DSM).- En caso de Relleno Sanitario, por permitir el escurrimiento de lixiviados fuera de las celdas y los cárcamos de rebombeo y por incumplimiento de los parámetros de medición de gases a la atmósfera, en caso de incineradores.
+
+d) 4,000 4,500 (sic) (DSM).- Por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente, para el transporte de residuos sólidos peligrosos en caso de instalaciones de valorización.
+
+e) 5,000 a 5,500 (DSM).- No cumplir con los requisitos solicitados en el Manifiesto de Impacto Ambiental aprobado por la autoridad competente, en todos los casos o por permitir la disposición final de residuos sólidos peligrosos en caso de Relleno Sanitario.
 
 El listado anterior es enunciativo más no limitativo. Las infracciones al presente Capítulo, serán sancionadas de manera análoga a las anteriormente señaladas, tomando en consideración lo dispuesto por el artículo 1389 del presente Capítulo.
 
@@ -21835,7 +22075,7 @@ El listado anterior es enunciativo más no limitativo. Las infracciones al prese
 
 El pago de cualquier multa de las enumeradas en las fracciones anteriores, no libera al infractor de las sanciones que además, por infracciones y/o delitos de orden Municipal, Estatal y/o Federal incurra. Si el concesionario no cubre la multa a la que se hizo acreedor ante el Organismo, dentro del término de cinco días naturales a partir de su notificación, ésta se le hará efectiva mediante el procedimiento administrativo de ejecución que llevará a cabo la Tesorería Municipal a través del Departamento de Ejecución u Oficina Ejecutora de la Dirección de Ingresos.
 
-V. Arresto hasta por 36 horas;
+V. (DEROGADA, P.O. 28 DE OCTUBRE DE 2013)
 
 VI. Clausura de 1 a 15 días en caso de comercios, industrias o concesionarios;
 
@@ -21895,9 +22135,11 @@ La supervisión que practique la autoridad municipal en los establecimientos com
 
 En todo caso se dejará al visitado copia del acta levantada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1393.
 
-La vigilancia a que se refiere el inciso b) del artículo 74 de este reglamento, se realizará en territorio del municipio, respecto de peatones y conductores de vehículos y sus acompañantes, en la forma siguiente:
+La vigilancia a que se refiere el inciso b) del artículo 1391 de este Reglamento, se realizará en territorio del Municipio, respecto de peatones y conductores de vehículos y sus acompañantes, en la forma siguiente:
 
 1. Al observar el supervisor a un peatón o conductor de vehículo o a sus acompañantes que arrojen residuos sólidos en la vía pública o en los centros comunes para la convivencia y recreación, se identificará ante él o ellos con credencial vigente con fotografía expedida por el Organismo Operador del Servicio de Limpia, les requerirá para que hagan lo propio, en el caso de conductores o viajantes en vehículos, deberá tomar los datos de estos, informándoles de la infracción cometida, preferentemente mediante, la lectura directa del precepto violado;
 
@@ -21907,9 +22149,11 @@ La vigilancia a que se refiere el inciso b) del artículo 74 de este reglamento,
 
 DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 1394.
 
-Toda persona física o moral, podrá denunciar ante el Organismo, cualquier infracción a las disposiciones del presente Capítulo, así como a los hechos, actos u omisiones relacionados con el Servicio de Limpia que puedan poner en peligro la salud, la vida, o la integridad física de las personas y la seguridad de las cosas. De igual forma, todo ciudadano podrá solicitar ante el Organismo, la credencial que lo acredite como inspector voluntario, para que de forma activa participe en la vigilancia de la limpieza del Municipio. Este nombramiento será honorífico, sin remuneración económica, con vigencia de un año.
+Toda persona física o moral, podrá denunciar ante el Organismo, cualquier infracción a las disposiciones del presente Capítulo, así como a los hechos, actos u omisiones relacionados con el servicio de limpia, recolección, tratamiento traslado y disposición final que puedan poner en peligro la salud, la vida o la integridad física de las personas y la seguridad de las cosas.
 
 ###### Artículo 1395.
 
@@ -31443,7 +31687,9 @@ Son autoridades competentes para la aplicación del presente Capítulo:
 
 I. El Presidente Municipal, quien designará y podrá revocar en cualquier momento, a los miembros de la Comisión Municipal de Box, y Lucha Libre; así mismo tendrá facultades para resolver cualquier discrepancia que surja con motivo de la aplicación o interpretación del presente Capítulo;
 
-II. La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónomo. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en el presente Capítulo y a las señaladas por el Departamento de Espectáculos, para efectos de expedición de las respectivas licencias que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+II. La Comisión Municipal de Box y Lucha Libre;
 
 III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo III de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legítima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
 
@@ -31455,7 +31701,9 @@ IV. El Departamento de Espectáculos, quien será el encargado de la estricta ob
 
 Para los efectos del presente Capítulo se entenderá por:
 
-I. La Comisión: La Comisión Municipal de Box y Lucha Libre: Es un cuerpo técnico en materia de ambos deportes. En su funcionamiento como Órgano Auxiliar será autónomo, facultado para expedir licencias que autoricen dentro del Municipio la actuación de los oficiales designados por la misma, así como de los empresarios, promotores, representantes, auxiliares, boxeadores y luchadores, sujetándose a las disposiciones contenidas en el presente Capítulo y demás ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. La Comisión: La Comisión Municipal de Box y Lucha Libre;
 
 II. Comisionado: Es la persona física nombrada por la Comisión, siendo éste el responsable de cumplir y hacer cumplir las disposiciones del presente Capítulo, como máxima autoridad en los eventos de Box y Lucha Libre, además de que es el encargado de presidir el espectáculo cuyo programa haya sido aprobado con anterioridad por la Comisión;
 
@@ -31561,11 +31809,15 @@ Una vez cubiertos los requisitos a que se refiere el artículo anterior, los int
 
 Si el resultado del examen es aprobatorio, el solicitante deberá pagar ante la propia Comisión el importe de la licencia que en cada caso se señale.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+La Comisión realizará por lo menos dos exámenes técnicos al año en ambas disciplinas.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 2112 Ter.
 
-La Comisión Municipal de Box y Lucha Libre, exceptuará de los requisitos a que se refieren los artículos 2112 y 2112 Bis del presente Capítulo, a los integrantes del Servicio Médico.
+La Comisión Municipal de Box y Lucha Libre, exceptuará de los requisitos a que se refieren los artículos 2112 y 2112 Bis del presente Capítulo, a los oficiales dependientes de la misma y a los integrantes del Servicio Médico.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31589,13 +31841,13 @@ DE LA COMISIÓN MUNICIPAL DE BOX Y LUCHA LIBRE
 
 La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónoma. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en este Capítulo y a las señaladas por el Departamento de Espectáculos para efectos de expedición de las respectivas autorizaciones que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-###### ARTÍCULO 2114.
+###### Artículo 2114.
 
-La Comisión Municipal de Box y Lucha Libre estará integrada por un Presidente, quien será el Regidor que presida la Comisión de Actividades Deportivas y Sociales, dos representantes de Box y dos de Lucha Libre que fungirán como vocales propuestos por las organizaciones de cada deporte, quienes serán designados y removidos por el Presidente Municipal, y que tiene por objeto supervisar el cumplimiento de las normas reglamentarias y técnicas de todos los espectáculos públicos en los que participen boxeadores y luchadores profesionales dentro del Municipio.
+La Comisión Municipal de Box y Lucha Libre estará integrada por un Presidente y un vicepresidente designados por el Presidente Municipal; dos representantes de Box y dos de Lucha Libre que fungirán como vocales, propuestos por el Presidente de la Comisión y ratificados por el Presidente Municipal, los cuales durarán en su cargo cinco años.
 
-Los integrantes de la Comisión Municipal de Box y Lucha Libre deberán contar con amplios conocimientos en la materia, el cargo es honorífico y no tendrán intereses de ninguna clase, con empresarios, promotores o cualquier otra persona conectada directamente con el Box o la Lucha Libre.
+La Comisión tiene por objeto supervisar el cumplimiento de las normas reglamentarias y técnicas de todos los espectáculos públicos en los que participen boxeadores y luchadores profesionales dentro del Municipio.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31609,7 +31861,9 @@ La Comisión deberá auxiliarse para su funcionamiento, de un Comisionado, de un
 
 Los miembros de la Comisión sesionarán por lo menos una vez al mes en Sesión Ordinaria, y en forma Extraordinaria las veces que ésta estime necesarias, los miembros tendrán voz y voto, el quórum legal estará formado por el 50% más uno de sus miembros, y las votaciones se tomarán por mayoría de votos de los integrantes, en caso que haya empate el Presidente tendrá voto de calidad.
 
-Las decisiones de la Comisión, como cuerpo colegiado, tendrán validez plena, cuando éstas se tomen en Sesiones Ordinarias y Extraordinarias y por mayoría de votos. Las faltas definitivas de los miembros de la Comisión, serán cubiertas por designaciones que para el efecto haga el Presidente Municipal.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+Las decisiones de la Comisión, como Cuerpo Colegiado, tendrán validez plena, cuando éstas se tomen en Sesiones Ordinarias y Extraordinarias y por mayoría de votos. Las faltas definitivas de los miembros de la Comisión, serán cubiertas por designaciones que para el efecto haga el Presidente Municipal a propuesta del Presidente de la Comisión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31622,6 +31876,40 @@ La Comisión Municipal de Box y Lucha Libre tendrá facultades para resolver cua
 ###### Artículo 2117.
 
 Para mejor desarrollo de sus funciones, la Comisión Municipal de Box y Lucha Libre será auxiliada en sus labores, por el personal administrativo que sea necesario, quienes dependerán presupuestalmente de los ingresos de la Comisión.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+La Comisión contará con un Secretario Técnico el cual dependerá del Presidente de la Comisión.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 2117 Bis.
+
+El Presidente de la Comisión tiene las siguientes atribuciones:
+
+I. Convocar por sí mismo o por medio del Secretario Técnico a las sesiones;
+
+II. Ser el vocero de la Comisión y en unión del Secretario Técnico firmar las actas y acuerdos de la misma;
+
+III. Ejecutar los actos necesarios o convenientes para el cumplimiento de los acuerdos de la Comisión; y
+
+IV. Las demás que establezca el presente ordenamiento y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 2117 Ter.
+
+El Secretario Técnico de la Comisión tiene las siguientes atribuciones:
+
+I. Convocar, por encargo del Presidente, a las sesiones de la Comisión;
+
+II. Levantar las actas correspondientes a las sesiones y firmarlas conjuntamente con el Presidente; de las cuales se enviará copia al Presidente Municipal;
+
+III. Ejecutar los actos administrativos que de conformidad con la ley y las disposiciones reglamentarias se encuentren reservadas a la autoridad municipal; y
+
+IV. Las demás que establezca el presente ordenamiento y demás disposiciones legales y reglamentarias aplicables.
+
+Las violaciones al presente Título serán sancionadas por el Secretario Técnico de la Comisión, ya sea en el ejercicio de sus atribuciones o a petición de la Comisión de Box.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31953,7 +32241,9 @@ IX. No tener intereses con empresarios, promotores, manejadores, auxiliares, box
 
 X. Tomar los cursos de capacitación y actualización que indique la Comisión;
 
-XI. Aprobar los exámenes técnico, de capacitación y aptitud ante la Comisión;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XI. Aprobar los exámenes técnicos, de capacitación y aptitud ante la Comisión, los cuales serán avalados por algún organismo nacional o extranjero;
 
 XII. Deberá exigírsele al solicitante de: réferi, tomador de tiempo, anunciador, juez, antes de ser admitido y para que demuestre su capacidad, que desempeñe el cargo en una pelea preliminar bajo la vigilancia del Comisionado en turno, y
 
@@ -32009,7 +32299,9 @@ I. Cuidar que la función se desarrolle de conformidad al programa anunciado al 
 
 II. Disponer de la Policía Municipal o de cualquier fuerza pública a fin de garantizar la seguridad del público y la integridad física de quienes intervengan en la misma, así como del inspector autoridad;
 
-III. Designar para las funciones de Box que vaya a presidir, con un mínimo de 24 horas de anticipación, los siguientes oficiales: tres jueces, dos réferis, uno para los eventos preliminares y otro para los semifinales y estelares, un tomador de tiempo y un anunciador;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Designar para las funciones de Box que vaya a presidir, con un mínimo de 24 horas de anticipación, los siguientes oficiales: tres jueces, el número de réferis que se requieran para los eventos preliminares y para los semifinales y estelares, un tomador de tiempo y un anunciador;
 
 IV. Informar en la Sesión Ordinaria o Extraordinaria que celebre la Comisión, cuando haya tenido conocimiento de que un boxeador, luchador, promotor, empresario, manejador o auxiliar infringió algunas de las disposiciones mencionadas, para que ésta resuelva lo procedente, y
 
@@ -32475,11 +32767,11 @@ Los boxeadores o luchadores dentro de una función, presentación o exhibición,
 
 El boxeador o luchador, no podrá usar un nombre de combate que no le haya sido autorizado por la Comisión y que no aparezca registrado en su credencial respectiva, en el concepto de que éste no podrá ser igual al que use otro boxeador o luchador profesional.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 2182.
 
-En el boxeo profesional solamente se permitirán encuentros de cuatro, seis, ocho y diez "asaltos", con excepción de los Campeonatos Estatales y Nacionales que serán a doce "asaltos" y los Mundiales que serán a quince "asaltos", todos ellos serán de tres minutos de acción, por uno de descanso.
+En el boxeo profesional solamente se permitirán encuentros de cuatro, seis, ocho y diez "asaltos", con excepción de los Campeonatos Estatales, Nacionales y Mundiales que serán a doce "asaltos", todos ellos serán de tres minutos de acción, por uno de descanso.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32561,27 +32853,45 @@ Oficialmente, para efectos del presente Capítulo, se aceptarán para los encuen
 
 El peso de División se regirá por la siguiente:
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 TABLA DE PESOS
 
 CATEGORÍA KILOS LIBRAS
 
-Mosca Hasta 50.802 112
+Paja Hasta 47.727 105
 
-Gallo Hasta 53.524 118
+Minimosca Hasta 48.989 108
 
-Pluma Hasta 57.152 126
+Mosca Hasta 50.803 112
 
-Ligero Hasta 61.237 135
+Supermosca Hasta 52.163 115
 
-Welter Hasta 66.678 147
+Gallo Hasta 53.525 118
 
-Medio Hasta 72.574 160
+Supergallo Hasta 55.339 122
 
-Semipesado Hasta 79.378 175
+Pluma Hasta 57.154 126
 
-Gran Peso De 79.378 175
+Superpluma Hasta 58.968 130
 
-En adelante sin límite alguno.
+Ligero Hasta 61.236 135
+
+Superligero Hasta 63.504 140
+
+Wélter Hasta 66.679 147
+
+Superwélter Hasta 69.854 154
+
+Medio Hasta 72.576 160
+
+Supermedio Hasta 76.364 168
+
+Semicompleto Hasta 79.380 175
+
+Crucero Hasta 86.183 190
+
+Completo s/l s/l s/l
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32601,29 +32911,49 @@ En las peleas celebradas dentro del Municipio y las cuales, no sean de campeonat
 
 En peso de división, la Comisión, no autorizará la celebración de un encuentro, cuando entre los contendientes haya una diferencia de peso mayor que la señalada en la Tabla de Diferencias, según la división de que se trate.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 2189 Quinquies.
 
-En lo referente al Peso de contrato, la Comisión no autorizará la verificación de una pelea cuando entre los contendientes haya una diferencia mayor que la señalada en la Tabla de Diferencias, en la que ya estén incluidos los quinientos gramos a que se refiere el artículo 2234 del presente Capítulo.
+En lo referente al Peso de contrato, la Comisión no autorizará la verificación de una pelea cuando entre los contendientes haya una diferencia mayor que la señalada en la Tabla de Diferencias, en la que ya estén incluidos los quinientos gramos a que se refiere el artículo 2189 Bis del presente Capítulo.
 
 TABLA DE DIFERENCIAS
 
-CATEGORÍA KILOS LIBRAS
+CATEGORÍA KILOS
 
-Mosca 2.000 4 Lbs. 7 Onzas
+Paja Hasta 1.000
 
-Gallo 2.500 5 Lbs. 11 Onzas
+Minimosca Hasta 1.500
 
-Ligero 3.500 8 Lbs. 13 Onzas
+Mosca Hasta 1.800
 
-Welter 5.500 12 Lbs. 2 Onzas
+Supermosca Hasta 1.800
 
-Medio 6.000 13 Lbs. 4 Onzas
+Gallo Hasta 1.800
 
-Semipesado 7.000 15 Lbs. 7 Onzas
+Supergallo Hasta 1.800
 
-Gran Peso Sin Límite alguno.
+Pluma Hasta 1.900
+
+Superpluma Hasta 2.200
+
+Ligero Hasta 2.200
+
+Superligero Hasta 2.600
+
+Wélter Hasta 2.700
+
+Superwélter Hasta 2.700
+
+Medio Hasta 5.000
+
+Supermedio Hasta 6.000
+
+Semicompleto Hasta 7.000
+
+Crucero Hasta 7.000
+
+Completo s/l s/l
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32811,51 +33141,41 @@ III. Estelares, boxeadoras de 8 asaltos, autorizadas como tales por su elevada c
 
 Las divisiones y el peso límite permitidas por la Comisión y las que regirán para las peleas de boxeo femenil, se consignan en la siguiente tabla de peso:
 
-DIVISIÓN PESO OFICIAL TOLERANCIA PESO MÁXIMO
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-DE 500 GRAMOS
+CATEGORÍA KILOS LIBRAS
 
-Paja 45.700 46.200 46.700
+Paja Hasta 45.700 101
 
-Mini mosca 47.000 47.500 48.200
+Minimosca Hasta 47.000 103
 
-Mosca 49.000 49.500 50.200
+Mosca Hasta 49.000 108
 
-Súper
+Supermosca Hasta 50.800 112
 
-Mosca 50.800 51.300 52.100
+Gallo Hasta 52.500 116
 
-Gallo 52.500 53.000 53.500
+Supergallo Hasta 53.200 117
 
-Súper gallo 53.200 53.700 54.200
+Pluma Hasta 54.400 120
 
-Pluma 54.400 54.900 56.200
+Superpluma Hasta 56.700 125
 
-Súper
+Ligero Hasta 59.000 130
 
-Pluma 56.700 57.200 58.500
+Superligero Hasta 61.200 135
 
-Ligero 59.000 59.500 60.800
+Wélter Hasta 63.500 140
 
-Súper
+Superwélter Hasta 66.000 147
 
-Ligero 61.200 61.7 00 63.000
+Medio Hasta 70.000 154
 
-Welter 63.500 64.000 65.800
+Semicompleto Hasta 73.500 162
 
-Súper
+Crucero Hasta 77.000 169
 
-Welter 66.700 67.200 69.100
-
-Medio 70.000 70.500 72.500
-
-Semi
-
-completo 73.500 74.000 76.000
-
-Crucero 77.000 77.500 80.000
-
-Completo 81 en adelante
+Completo Hasta 81.000 s/l
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32863,9 +33183,13 @@ Completo 81 en adelante
 
 El peso de los guantes que regirá las diferentes divisiones, en peleas de box, será:
 
-l. De paja a ligero 6 onzas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-II. De welter a semi completo 8 onzas, y
+I. De paja a wélter 8 onzas; y (sic)
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+II. De superwélter a completo 10 onzas; y
 
 III. De completo en adelante 10 onzas.
 
@@ -35244,3 +35568,23 @@ PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publica
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en las reformas y adiciones contenidas en el presente Dictamen.
 
 TERCERO.- Por lo que hace a los pagos de derechos y demás contribuciones fiscales, serán en su caso exigibles a partir del Ejercicio Fiscal en el que se establezca el derecho en la ley respectiva.
+
+P.O. 28 DE OCTUBRE DE 2013.
+
+ACUERDO POR EL QUE SE REFORMA EL TÍTULO DEL CAPITULO 19 DENOMINADO "LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS" DEL TITULO ÚNICO "DE LOS SERVICIOS PÚBLICOS A CARGO DEL MUNICIPIO DE PUEBLA" DEL LIBRO CUARTO "SERVICIOS PÚBLICOS"; EL ACÁPITE Y LA FRACCIÓN VI DEL ARTÍCULO 1350; EL ARTÍCULO 1351; EL ACÁPITE DEL ARTÍCULO 1352; LA FRACCIÓN I DEL ARTÍCULO 1353; EL ARTÍCULO 1354; EL ARTÍCULO 1356; EL ARTÍCULO 1357; LAS FRACCIONES I, VII, X, XI, XII, XVI Y XVII DEL ARTÍCULO 1359; EL SUBTITULO "DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS Y/O RESIDUOS QUE PRESTE EL ORGANISMO OPERADOR DEL SERVICIO DE LIMPIA DEL MUNICIPIO" DEL CAPITULO 19 DENOMINADO "LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS"; LAS FRACCIONES I Y II DEL ARTÍCULO 1360; EL PÁRRAFO SEGUNDO Y LA FRACCIÓN III DEL ARTÍCULO 1361; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 1362; EL ACÁPITE Y LAS FRACCIONES I, II, III, IV, V, VI, VII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 1363; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1364; LA FRACCIÓN III DEL ARTÍCULO 1365; LA FRACCIÓN V DEL ARTÍCULO 1367; EL PÁRRAFO TERCERO DEL ARTÍCULO 1370; LAS FRACCIONES I Y II Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1371; EL ACÁPITE Y LAS FRACCIONES III, XI Y XIV DEL ARTÍCULO 1376; LA FRACCIÓN I DEL ARTÍCULO 1378; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1380; EL ACÁPITE Y LAS FRACCIONES II, III, VI Y VIII DEL ARTÍCULO 1383; LAS FRACCIONES III Y VII DEL ARTÍCULO 1384; EL ARTÍCULO 1385; EL ACÁPITE Y LAS FRACCIONES II, IV, V, VI, VII, XII Y XIII DEL ARTÍCULO 1386; LAS FRACCIONES I, III, V, IX Y X DEL ARTÍCULO 1387; LOS INCISOS A) Y F) DE LA FRACCIÓN II Y LAS FRACCIONES III Y IV DEL ARTÍCULO 1388; EL ACÁPITE DEL ARTÍCULO 1393; Y EL ARTÍCULO 1394.
+
+SE ADICIONA: EL PÁRRAFO TERCERO AL ARTÍCULO 1358; Y EL PÁRRAFO TERCERO AL ARTÍCULO 1364.
+
+SE DEROGA: EL NUMERAL 196 DE LA FRACCIÓN III DEL ARTÍCULO 628; Y LA FRACCIÓN V DEL ARTÍCULO 1388.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones al Código Reglamentario para el Municipio de Puebla, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 28 DE OCTUBRE DE 2013.
+
+ACUERDO POR EL QUE SE REFORMA: LA FRACCIÓN II DEL ARTÍCULO 2108; LA FRACCIÓN I DEL ARTÍCULO 2109; EL ARTÍCULO 2112 TER; EL ARTÍCULO 2114; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2115; LA FRACCIÓN XI DEL ARTÍCULO 2140; LA FRACCIÓN III DEL ARTÍCULO 2143; EL ARTÍCULO 2182; LA TABLA DE PESOS DEL ARTÍCULO 2189; EL ARTÍCULO 2189 QUINQUIES; LA TABLA DE PESO DEL ARTÍCULO 2203; Y LAS FRACCIONES I Y II DEL ARTÍCULO 2203 BIS., SE ADICIONA: EL PÁRRAFO TERCERO AL ARTÍCULO 2112 BIS; EL SEGUNDO PÁRRAFO AL ARTÍCULO 2117; EL ARTÍCULO 2117 BIS; Y EL ARTÍCULO 2117 TER.
+
+PRIMERO.- Las presentes reformas y adiciones al Código Reglamentario para el Municipio de Puebla, entrará (sic) en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
