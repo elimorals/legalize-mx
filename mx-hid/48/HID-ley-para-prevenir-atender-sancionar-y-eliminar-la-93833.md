@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2013-09-02"
+last_updated: "2013-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE OCTUBRE DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -799,13 +799,27 @@ En contra de las sanciones, actos y resoluciones impuestas en términos de esta 
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA FE DE ERRATAS DEL P.O. 28 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL TEXTO ORIGINAL CONTENÍA CUATRO ARTÍCULOS TRANSITORIOS.
 
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en la presente Ley.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
 
-TERCERO. La Comisión de Derechos Humanos del Estado de Hidalgo, de conformidad a su presupuesto anual asignado, implementará progresivamente las acciones, actividades, programa, procedimientos y habilitación de personal para dar cumplimiento a lo establecido en la presente Ley.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
-CUARTO. La aprobación e integración de la Asamblea Consultiva de la Comisión, deberá realizarse dentro de 180 días hábiles siguientes al día de la entrada en vigor del presente Decreto.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+SEGUNDO. Se abroga la Ley para Prevenir y Eliminar la Discriminación para el Estado de Hidalgo, que fue aprobada mediante Decreto número 548, expedido por la LIX Legislatura y publicada en el Periódico Oficial número 10 Bis, Tomo CXLI, de fecha 10 de marzo de 2008.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+CUARTO. La Comisión de Derechos Humanos del Estado de Hidalgo, de conformidad a su presupuesto anual asignado, implementará progresivamente las acciones, actividades, programa, procedimientos y habilitación de personal para dar cumplimiento a lo establecido en la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+QUINTO. La aprobación e integración de la Asamblea Consultiva de la Comisión, deberá realizarse dentro de 180 días hábiles siguientes al día de la entrada en vigor del presente Decreto.
 
 AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS VEINTICINCO DÍAS DEL MES DE MARZO DEL AÑO DOS MIL TRECE.
 
