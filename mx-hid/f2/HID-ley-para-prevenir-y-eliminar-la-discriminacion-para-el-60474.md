@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-y-eliminar-la-discriminacion-para-el-60474"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2013-04-08"
+last_updated: "2013-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,13 @@ state: "HID"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN PARA EL ESTADO DE HIDALGO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2013, SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.</small>
 
-> <small>N. DE E. DEL ANÁLISIS DEL DECRETO QUE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DEL 8 DE ABRIL DE 2013, SE APRECIA QUE SE DEROGA LA PRESENTE LEY SIN MENCIONARLO ESPECÍFICAMENTE EN EL ARTÍCULO SEGUNDO TRANSITORIO, LA OMISIÓN SE CORRIGE MEDIANTE FE DE ERRATAS PUBLICADA EN EL P.O. DEL 28 DE OCTUBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. DE 8 DE ABRIL DE 2013 (ABROGADA)
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. DE 8 DE ABRIL DE 2013 (DEROGADO)
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE OCTUBRE DE 2013.</small>
 
 Ley publicada en el Número 10 bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2008.
 
@@ -325,10 +323,20 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG
 
 P.O. DE 8 DE ABRIL DE 2013.
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en la presente Ley.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
 
-TERCERO. La Comisión de Derechos Humanos del Estado de Hidalgo, de conformidad a su presupuesto anual asignado, implementará progresivamente las acciones, actividades, programa, procedimientos y habilitación de personal para dar cumplimiento a lo establecido en la presente Ley.
+SEGUNDO. Se abroga la Ley para Prevenir y Eliminar la Discriminación para el Estado de Hidalgo, que fue aprobada mediante Decreto número 548, expedido por la LlX Legislatura y publicada en el Periódico Oficial número 10 Bis, Tomo CXLI, de fecha 10 de marzo de 2008.
 
-CUARTO. La aprobación e integración de la Asamblea Consultiva de la Comisión, deberá realizarse dentro de 180 días hábiles siguientes al día de la entrada en vigor del presente Decreto.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+CUARTO. La Comisión de Derechos Humanos del Estado de Hidalgo, de conformidad a su presupuesto anual asignado, implementará progresivamente las acciones, actividades, programa, procedimientos y habilitación de personal para dar cumplimiento a lo establecido en la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2013)</small>
+
+QUINTO. La aprobación e integración de la Asamblea Consultiva de la Comisión, deberá realizarse dentro de 180 días hábiles siguientes al día de la entrada en vigor del presente Decreto.
