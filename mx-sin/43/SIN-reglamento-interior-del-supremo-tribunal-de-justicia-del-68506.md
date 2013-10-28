@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2012-10-01"
+last_updated: "2013-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 CUARTO. Que a fin de garantizar el adecuado ejercicio de las funciones y atribuciones del Pleno, de las Salas del Supremo Tribunal de Justicia y de sus órganos auxiliares, conforme a las bases fijadas en la Constitución Política y la Ley Orgánica del Poder Judicial, ambas del Estado de Sinaloa, se expide el siguiente:
 
@@ -75,13 +75,17 @@ XII. Salas: Las Salas a que se refiere el capítulo VI de la Ley Orgánica;
 
 XIII. Secretario de Acuerdos: El Secretario de Acuerdos del Supremo Tribunal;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XIV. Supremo Tribunal: El Supremo Tribunal de Justicia del Estado de Sinaloa; y,
+XIV. Supremo Tribunal: El Supremo Tribunal de Justicia del Estado de Sinaloa;
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XV. Instituto: El Instituto de Capacitación Judicial.
+XV. Instituto: El Instituto de Capacitación Judicial; y,
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+XVI. Oficialía de Partes: La Oficialía de Partes del Supremo Tribunal.
 
 ###### Artículo 3.
 
@@ -183,7 +187,9 @@ V. Firmar los documentos en los que consten los nombramientos de los servidores 
 
 VI. Remitir al Ejecutivo Estatal el proyecto de Presupuesto de Egresos del Poder Judicial, para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
-VII. Turnar a las Salas y Magistrados, a través de la Secretaría de Acuerdos, los asuntos de la competencia del Pleno y las Salas, en términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+VII. Turnar a las Salas y Magistrados, a través de la Secretaría de Acuerdos y de la Oficialía de Partes, los asuntos de la competencia del Pleno y las Salas, en términos del presente Reglamento;
 
 VIII. Celebrar, en los términos de las disposiciones aplicables, acuerdos, bases de coordinación y convenios de colaboración con autoridades, organismos públicos, instituciones académicas o culturales, colegios y asociaciones de profesionistas, nacionales o internacionales, para el mejor cumplimiento de las atribuciones y fines del Poder Judicial; y,
 
@@ -199,9 +205,13 @@ I. Secretaría Particular;
 
 II. Secretaría Técnica;
 
-III. Auditoría interna; y,
+III. Auditoría interna; y, (sic)
 
-IV. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto.
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+IV. Oficialía de Partes; y,
+
+V. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto.
 
 #### SECCIÓN I. DE LA SECRETARÍA PARTICULAR DE LA PRESIDENCIA
 
@@ -273,6 +283,22 @@ X. Elaborar y presentar los informes y trabajos especiales que le sean requerido
 
 XI. Las demás que le sean asignadas por el Pleno o el Presidente.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 21 Bis.
+
+Son atribuciones de la Oficialía de Partes, las siguientes:
+
+I. Recibir y registrar los expedientes en los que se hubiere interpuesto recurso de apelación, escritos en los que se promuevan solicitudes de reconocimiento de inocencia, quejas oficiales y administrativas, incompetencias y promociones, cartas rogatorias, excitativas de justicia y solicitudes de restitución de menores, así como los exhortos que vienen de otros Estados, y los de los Jueces de Primera Instancia del Estado de Sinaloa que deban ser diligenciados en otras entidades federativas;
+
+Los asuntos, escritos y promociones a que se refiere el párrafo anterior, deberán ser turnados a la autoridad competente que corresponda dentro de las primeras horas de labores del día hábil siguiente al de su recepción. Tratándose de asuntos urgentes que el oficial de partes calificará bajo su estricta responsabilidad, la remisión se hará inmediatamente.
+
+II. Recibir, registrar, clasificar y remitir de manera oportuna a la Presidencia del Supremo Tribunal de Justicia, la correspondencia dirigida a ésta y al Pleno, con excepción de la que se refiere en la fracción IV del artículo 33 de este Reglamento;
+
+III. Recibir los escritos de la competencia del Pleno y de las Salas que se presenten fuera de su horario de labores, hasta las veinte horas, siempre que sea el último día hábil del término que la ley señale para tal efecto. Fuera del horario anterior, dichos escritos serán recibidos hasta las veinticuatro horas por el titular de la Oficialía de Partes en su domicilio.
+
+Al promovente, cuando lo amerite el caso, se le devolverá copia simple del escrito firmada, sellada, foliada y con la impresión del reloj fechador.
+
 ### CAPÍTULO III. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 22.
@@ -289,9 +315,11 @@ El Presidente no integrará Sala.
 
 El cambio de Magistrado de una Sala a otra será facultad exclusiva del Pleno.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-A fin de lograr una adecuada distribución, los asuntos de la competencia de las Salas se turnarán por el Presidente por conducto de la Secretaría de Acuerdos, siguiendo rigurosamente el orden de su designación y el cronológico de presentación de cada tipo de expedientes que se encuentren en condiciones de ser enviados a una Ponencia, conforme al sistema de turnos computarizado de la segunda instancia.
+A fin de lograr una adecuada distribución, los asuntos de la competencia de las Salas se turnarán por el Presidente por conducto de la Oficialía de Partes, siguiendo rigurosamente el orden de su designación y el cronológico de presentación de cada tipo de expedientes que se encuentren en condiciones de ser enviados a una Ponencia, conforme al sistema de turnos computarizado de la segunda instancia.
 
 ###### Artículo 25.
 
@@ -355,7 +383,7 @@ Los Magistrados sólo podrán abstenerse de votar cuando tengan impedimento lega
 
 ### CAPÍTULO I. DE LA SECRETARÍA DE ACUERDOS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-###### ARTICULO 33.
+###### Artículo 33.
 
 El Secretario de Acuerdos tendrá, además de las atribuciones que se especifican en el artículo 41 de la Ley Orgánica, las siguientes:
 
@@ -365,7 +393,9 @@ II. Elaborar y distribuir las órdenes del día para las sesiones del Pleno;
 
 III. Realizar todos los actos necesarios para preparar la celebración de las sesiones del Pleno, cuidando de recabar toda la documentación e información necesarias para dar cuenta a éste de los asuntos que deba conocer;
 
-IV. Dar cuenta al Presidente, en el mismo día que se reciba, de la correspondencia relativa a amparos, los autos correspondientes, exhortos y excitativas de justicia, acusando en su caso el recibo correspondiente. Con los demás asuntos, dará cuenta a más tardar al siguiente día de su llegada o presentación;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+IV. Dar cuenta al Presidente, en el mismo día que se reciba, de la correspondencia relativa a amparos, los autos correspondientes, escritos, oficios y demás documentación proveniente de los órganos jurisdiccionales del Poder Judicial de la Federación que conciernan al Pleno y a la Presidencia del Supremo Tribunal de Justicia.
 
 V. Recabar la firma del Presidente en los acuerdos y comunicaciones que deban llevarla, el mismo día en que el acuerdo se haya tomado o al siguiente hábil;
 
@@ -377,9 +407,11 @@ VIII. Dar trámite a las quejas administrativas que se presenten en contra de cu
 
 IX. Colaborar con el Pleno en el registro de peritos oficiales y en la elaboración e integración de la lista correspondiente, ordenándola por ramas, especialidades y distritos judiciales;
 
-X. Abrir y dar curso de la correspondencia dirigida a él y la oficial para el Presidente y el Pleno;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-XI. En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas del Supremo Tribunal de Justicia, en riguroso orden, en forma proporcional y oportuna, vigilando se respeten las prevenciones respectivas;
+X. Dar curso de la correspondencia dirigida a él y la oficial para el Presidente y el Pleno;
+
+XI. (DEROGADA, P.O. 28 DE OCTUBRE DE 2013)
 
 XII. Distribuir los trabajos de la Secretaría de Acuerdos entre los empleados de la misma, del modo que estime más conveniente;
 
@@ -423,7 +455,7 @@ I. Secretaría Auxiliar “A”;
 
 II. Secretaría Auxiliar “B”;
 
-III. Operador de Sistema de Turnos; y,
+III. (DEROGADA, P.O. 28 DE OCTUBRE DE 2013)
 
 IV. Los demás que se requieran conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
 
@@ -437,11 +469,13 @@ Los órganos auxiliares de la Secretaría de Acuerdos estarán a cargo de un Tit
 
 Corresponde al Titular de la Secretaría Auxiliar “A” en apoyo del Secretario de Acuerdos, las siguientes atribuciones:
 
-I. Recibir, registrar y tramitar las quejas oficiales y administrativas, hasta ponerlas en estado de resolución definitiva;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. Tramitar las quejas oficiales y administrativas, hasta ponerlas en estado de resolución definitiva;
 
 II. Atender los requerimientos de los órganos jurisdiccionales de la Federación en asuntos promovidos en contra del Pleno y de la Presidencia, elaborando los informes previos y justificados;
 
-III. Recibir y registrar los expedientes en los que se hubiere interpuesto recurso de apelación, capturando de cada uno de ellos en materia penal: número de expediente, si es original o testimonio, el Distrito Judicial con su clave, el Juzgado con su clave, fecha de la resolución de Primera Instancia, fecha y hora de llegada, nombre del acusado, delito, nombre del ofendido, descripción de la sentencia, apelantes, admisión del recurso, agencia del Ministerio Público con su clave, número de la averiguación, nombre del Juez, fecha de llenado y nombre y firma de quien captura;
+III. (DEROGADA, P.O. 28 DE OCTUBRE DE 2013)
 
 IV. Tramitar las excusas y recusaciones de los Magistrados ante el Pleno, hasta su calificación;
 
@@ -457,45 +491,43 @@ VII. Las demás que le confieran este Reglamento y el Secretario de Acuerdos.
 
 Corresponde al Titular de la Secretaría Auxiliar “B” en apoyo del Secretario de Acuerdos, las siguientes atribuciones:
 
-I. Recibir, registrar y tramitar las solicitudes de reconocimiento de inocencia, hasta ponerlas en estado de resolución definitiva;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+I. Tramitar las solicitudes de reconocimiento de inocencia, hasta ponerlas en estado de resolución definitiva;
 
 II. Dar trámite a las Cartas Rogatorias y Solicitudes de Restitución de Menores, sirviendo de enlace entre los Jueces y la Dirección General de Protección y Asuntos Consulares de la Secretaria de Relaciones Exteriores;
 
-III. Recibir y registrar los expedientes que vienen en apelación, capturando de cada uno de ellos en materia civil, familiar y mercantil: número de expediente, si es original o en su caso testimonio, Distrito Judicial con su clave, Juzgado con su clave, fecha de resolución de Primera Instancia, fecha de llegada, hora de llegada, actor, demandado, apelante (actor, demandado, interesado, tercero o Ministerio Público), fecha de admisión del recurso, juicio con su clave, Juez, fecha de llenado, nombre y firma;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-IV. Recibir y registrar los exhortos que vienen de otros Estados, elaborando los oficios para los Jueces exhortados;
+III. Recepción de documentación de peritos oficiales y actualización de la Lista correspondiente;
 
-V. Recibir y registrar los exhortos de los Jueces que serán diligenciados en otras entidades federativas, elaborando los oficios respectivos, así como la certificación de las firmas del Juez y del Secretario con que actúa. En tratándose de exhortos emitidos y dirigidos en el Estado, tan sólo se elabora el oficio;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+IV. Atender los exhortos que vienen de otros Estados, elaborando los oficios para los Jueces exhortados;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+V. Atender los exhortos de los Jueces que serán diligenciados en otras entidades federativas, elaborando los oficios respectivos, así como la certificación de las firmas del Juez y del Secretario con que actúa. En tratándose de exhortos emitidos y dirigidos en el Estado, tan sólo se elabora el oficio;
 
 VI. Analizar cada exhorto, y si se encuentran razones que imposibiliten su diligenciación, proponer al Secretario de Acuerdos su devolución;
 
-VII. Remitir a sus destinatarios, elaborando los sobres y registrando en las siguientes libretas:
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-a) Registro de ejecutorias de las cuatro Salas, nombramientos, licencias y exhortos que llegan por correo;
+VII. Registrar y emitir a sus destinatarios, la correspondencia o documentación que se indique por el Secretario de Acuerdos y el Presidente.
 
-b) Registro de correspondencia del Supremo Tribunal dirigida a los Juzgados Civiles y Familiares ubicados en el mismo edificio, como son ejecutorias, expedientes, exhortos, nombramientos y licencias;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-c) Registro de ejecutorias dirigidas al Director de Prevención y Readaptación Social;
-
-d) Registro de correspondencia enviada por las Salas del Supremo Tribunal al Procurador General de Justicia del Estado y al Sindicato de Trabajadores al Servicio del Estado; y,
-
-e) Registro de ejecutorias, expedientes y correspondencia enviada por el Supremo Tribunal de Justicia a los Juzgados Penales del Distrito Judicial de Culiacán, y de exhortos remitidos a la Oficialía de Partes Común de los Juzgados de Primera Instancia del Ramo Penal del mismo Distrito;
-
-VIII. Recibir y registrar en las libretas correspondientes la correspondencia que llega: a) Para las Salas, Oficialía Mayor y Dirección de Informática y Estadística; b) Incompetencias y promociones; c) Amparos, quejas, cartas rogatorias y solicitudes de restitución de menores; d) Expedientes en los que se hubiere interpuesto recurso de apelación; y, e) Dirigida a la Presidencia del Supremo Tribunal; y,
+VIII. Recibir y registrar los escritos, oficios y demás documentación proveniente de los órganos jurisdiccionales del Poder Judicial de la Federación que conciernan al Pleno y a la Presidencia del Supremo Tribunal de Justicia.
 
 IX. Las demás que le confieran este Reglamento y el Secretario de Acuerdos.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 #### SECCIÓN III. DEL OPERADOR DE SISTEMAS DE TURNOS
 
 ###### Artículo 38.
 
-Corresponden al Operador de Sistema de Turnos las siguientes atribuciones:
-
-I. Operación del Sistema de Turnos Computarizado de la Segunda Instancia;
-
-II. Recepción de documentación de peritos oficiales y actualización de la Lista correspondiente; y,
-
-III. Las demás que le confieran este Reglamento y el Secretario de Acuerdos.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO II. DE LOS SECRETARIOS DE ACUERDOS DE SALA
 
@@ -505,7 +537,9 @@ Además de las obligaciones a que se refiere el artículo 33 de la Ley Orgánica
 
 I. Recibir y, en su caso, formar el expediente, así como controlar, registrar y llevar el seguimiento de los asuntos competencia de la Sala;
 
-II. Recibir en su domicilio las promociones de término dirigidas a la Sala que se presenten fuera del horario de labores;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+II. Registrar y remitir a sus destinatarios, las ejecutorias y demás documentación de la Sala y de la Secretaría de Acuerdos de la Sala;
 
 III. Tener a su cargo y bajo su responsabilidad el archivo de la Sala y supervisar que todos los expedientes que se encuentren bajo su responsabilidad estén foliados, rubricados y sellados;
 
@@ -1033,7 +1067,9 @@ I. Administrar el mantenimiento de los edificios y recintos públicos que ocupan
 
 II. Coordinar a los proveedores de servicios institucionales y de mantenimiento que se contraten, y para su auxilio tendrá a su disposición y cargo inmediato los auxiliares administrativos suficientes, quienes deberán especializarse en cada uno de los oficios para el que sean requeridos;
 
-III. Cuidar que la prestación de los servicios de correspondencia, transporte, intendencia, mantenimiento y conservación de los bienes del Poder Judicial, sea la adecuada y se preste conforme a los lineamientos establecidos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+
+III. Prestar los servicios de correspondencia, transporte, intendencia, mantenimiento, conservación de los bienes del Poder Judicial y demás servicios generales, cuidando que el servicio proporcionado sea el adecuado y conforme a los lineamientos establecidos;
 
 IV. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de servicios generales y someterlo a la consideración del Administrador de Infraestructura Física, Servicios y Suministros;
 
@@ -1649,7 +1685,7 @@ La Visitaduría Judicial es un órgano auxiliar del Supremo Tribunal, competente
 
 La Visitaduría, para el despacho de los asuntos de su competencia, contará con los Visitadores Judiciales que sean necesarios y el personal que se requiera conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
 
-###### ARTICULO 84.
+###### Artículo 84.
 
 Los Visitadores, de acuerdo con los lineamientos que emita el Pleno o el Presidente, en su caso, deberán inspeccionar de manera ordinaria las Salas de Circuito y Juzgados de Primera Instancia cuando menos una vez por año.
 
@@ -1752,3 +1788,9 @@ El presente Acuerdo entrará en vigor el día de su aprobación.
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE OCTUBRE DE 2013.
+
+PRIMERO.- Se fija el día 04 de noviembre del 2013 como fecha en la que iniciará su funcionamiento la Oficialía de Partes del Supremo Tribunal de Justicia.
+
+SEGUNDO.- Publíquese este acuerdo en el Periódico Oficial "El Estado de Sinaloa" y comuníquese a los órganos jurisdiccionales y administrativos del Poder Judicial del Estado para su debido cumplimiento.
