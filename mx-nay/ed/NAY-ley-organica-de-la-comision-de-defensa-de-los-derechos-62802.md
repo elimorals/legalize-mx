@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2012-08-11"
+last_updated: "2013-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -371,31 +371,53 @@ VIII. No desempeñar, ni haber desempeñado cargo de elección popular en los ú
 
 El Presidente de la Comisión será designado por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. Durará en su cargo cinco años, pudiendo ser reelecto por única vez por un período igual. Solo podrá ser removido de sus funciones en los términos del Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-El proceso para la designación del Presidente de la Comisión dará inicio en la segunda quincena del mes de octubre del año correspondiente, y observará el siguiente procedimiento:
+El proceso para la designación del Presidente de la comisión dará inicio en la segunda quincena del mes de noviembre del año correspondiente, y observará el siguiente procedimiento:
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
 I.- El Congreso del Estado, a través de la Comisión de Justicia y Derechos Humanos, emitirá convocatoria pública dirigida preferentemente a los gremios, instituciones y profesionales con residencia en el Estado, para que acudan a presentar sus propuestas en lo particular de aspirantes al cargo de Presidente de la Comisión;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
 II.- La convocatoria deberá ser publicada en la página oficial de internet del Congreso y en por lo menos dos diarios de mayor circulación en la entidad, cuando menos en tres ocasiones;
 
-III.- El plazo para recibir las propuestas no podrá ser menor a 15 días hábiles;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+III.- El plazo para recibir las propuestas no podrá ser menor a 8 días naturales;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
 IV.- Las propuestas que se reciban deberán acompañarse de la documentación que acredite el cumplimiento de los requisitos de elegibilidad previstos en el artículo 21 de esta Ley, así como de sus datos curriculares;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
 V.- Cerrado el plazo para la recepción de propuestas, los expedientes serán turnados a la Comisión de Justicia y Derechos Humanos, a efecto de proceder a la revisión y determinar que participantes cumplen los requisitos y condiciones de elegibilidad, dentro de los 5 días siguientes a que se haya cerrado la convocatoria;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
 VI.- La Comisión de Justicia y Derechos Humanos podrá solicitar la documentación o referencias adicionales que acrediten los datos registrados relativos al cumplimiento de los requisitos o comprobación de sus datos curriculares;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
 VII.- La Comisión de Justicia y Derechos Humanos convocará a los participantes que hayan cumplido los requisitos de ley, para practicarles una entrevista, bajo las condiciones y modalidades que dicte mediante acuerdo de trámite;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
 VIII.- Un vez agotado lo anterior, la Comisión de Justicia y Derechos Humanos deberá emitir su dictamen, dentro de los diez días hábiles siguientes a la realización de la última entrevista, en el que formulará la propuesta de un candidato;
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
 IX.- En caso de no aprobarse el candidato sometido a consideración de la Cámara de Diputados o de la Diputación Permanente, la propuesta será desechada y se devolverá a la Comisión de Justicia y Derechos Humanos, para que atendiendo las razones expuestas, emita un nuevo dictamen dentro del término de cinco días con una nueva propuesta, y
 
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
 X.- Toda la información que se derive del proceso de designación, se hará pública a través de la página de internet oficial del Congreso.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 Para el supuesto del derecho de reelección que le asiste al Presidente de la Comisión, este se sujetará al proceso de evaluación previsto en la ley de la materia.
 
@@ -557,11 +579,11 @@ V. No desempeñar cargo o comisión como servidor público federal, estatal o mu
 
 VI. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, que inhabilite para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-El proceso para la designación de los integrantes del Consejo de la Comisión, propietarios y suplentes, dará inicio en la segunda quincena del mes de octubre del año correspondiente, y observará el procedimiento previsto en el artículo 23 de la presente Ley.
+El proceso para la designación de los integrantes del Consejo de la Comisión, propietarios y suplentes, dará inicio en la segunda quincena del mes de noviembre del año correspondiente, y observará el procedimiento previsto en el artículo 23 de la presente Ley.
 
 Los consejeros durarán en su cargo cinco años y no podrán ser ratificados. Primeramente se designarán a seis que tendrán el carácter de titulares. Con base en la misma propuesta, se designará a dos consejeros que tendrán el carácter de suplentes, para cubrir las ausencias definitivas de los consejeros titulares.
 
@@ -1490,3 +1512,7 @@ Artículo Único.- El presente decreto entrara en vigor al día siguiente de su 
 P.O. 11 DE AGOSTO DE 2012.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 29 DE OCTUBRE DE 2013.
+
+Artículo único.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
