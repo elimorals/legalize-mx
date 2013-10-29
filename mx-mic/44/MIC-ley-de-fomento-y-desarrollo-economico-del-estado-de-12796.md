@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-economico-del-estado-de-12796"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-03"
-last_updated: "2007-12-21"
+last_updated: "2013-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE FOMENTO Y DESARROLLO ECONOMICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE FOMENTO Y DESARROLLO ECONOMICO DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE FOMENTO Y DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 3 de diciembre de 1998.
 
@@ -33,7 +33,7 @@ El H. Congreso del Estado, se ha servido dirigirme el siguiente
 
 DECRETO
 
-EL CONGRESO DE MlCHOACAN DE OCAMPO
+EL CONGRESO DE MICHOACAN DE OCAMPO
 
 DECRETA:
 
@@ -71,7 +71,9 @@ V.- Secretaría: La Secretaría de Desarrollo Económico;
 
 VI.- Producto: es el resultado de la transformación de insumos, es decir, todo aquello que se comercializa en su estado natural o que sufre alguna transformación.
 
-ARTlCULO 4º.- Para el cumplimiento del objeto de esta Ley, la Secretaría tendrá las siguientes atribuciones:
+###### ARTICULO 4º.
+
+Para el cumplimiento del objeto de esta Ley, la Secretaría tendrá las siguientes atribuciones:
 
 I.- Proponer al Gobernador del Estado las políticas estatales de fomento para el desarrollo económico del Estado;
 
@@ -91,7 +93,7 @@ VIII.- Promover la integración de Consejos Consultivos de Desarrollo Económico
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-IX. Promover a través de las organizaciones empresariales debidamente constituidas en el país y de organizaciones de migrantes michoacanos radicados en el extranjero la constitución de empresas o la ampliación de las existentes en el Estado;
+IX.- Promover a través de las organizaciones empresariales debidamente constituidas en el país y de organizaciones de migrantes michoacanos radicados en el extranjero la constitución de empresas o la ampliación de las existentes en el Estado;
 
 X.- Impulsar la desconcentración de empresas instaladas en zonas saturadas y alentar su reubicación y modernización dentro del Estado, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -105,7 +107,9 @@ XIV.- Presentar ante las autoridades competentes solicitud para el destino y uso
 
 XV.- Promover y desarrollar corredores turísticos y parques industriales y agropecuarios, en puntos de fácil acceso, dotándolos con infraestructura industrial necesaria, consistente en servicios de: agua, drenaje sanitario, tratamiento de aguas negras, drenaje pluvial, instalación de la red interna telefónica, energía eléctrica y alumbrado público, calles asfaltadas, guarniciones y banquetas, y servicios de vigilancia; y,
 
-XVI.- Las demás que esta Ley y otras disposiciones legales o reglamentarias le señalen y las que le encomiende el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+XVI.- Dar seguimiento a los programas de promoción de empleo, de las personas con discapacidad creando al efecto una bolsa de trabajo y una red de vinculación especializada, así como fomentar e incentivar la contratación laboral de personas con discapacidad y el autoempleo de las mismas, de igual manera fomentará e incentivará la capacitación laboral de las personas con discapacidad, también velará por el respeto a los derechos humanos y laborales de las personas con discapacidad.
 
 ###### ARTICULO 5º.
 
@@ -169,27 +173,27 @@ El quórum legal para sesionar será de por lo menos la mitad más uno de sus mi
 
 El Consejo tendrá las siguientes funciones:
 
-I. Proponer criterios para el fomento del desarrollo Económico del Estado:
+I.- Proponer criterios para el fomento del desarrollo Económico del Estado:
 
-II. Coadyuvar en la promoción de la inversión de los sectores privado y social, así como su participación en las acciones que tengan que ver con el desarrollo económico del Estado:
+II.- Coadyuvar en la promoción de la inversión de los sectores privado y social, así como su participación en las acciones que tengan que ver con el desarrollo económico del Estado:
 
 III.- Sugerir y propiciar la elaboración de programas específicos de desarrollo para cada sector de la economía estatal, privilegiando los del sector primario y otros que se consideren estratégicos, y proponer su aplicación;
 
 IV.- Emitir opinión sobre incentivos y estímulos estatales que pudieran otorgarse a favor de empresas que deseen instalarse en el Estado o que aumenten su planta de empleos;
 
-V Estudiar y analizar la viabilidad de la constitución, instalación y funcionamiento de empresas en el Estado, y sugerir, en su caso, al titular del Poder Ejecutivo las acciones necesarias para su fomento;
+V.- Estudiar y analizar la viabilidad de la constitución, instalación y funcionamiento de empresas en el Estado, y sugerir, en su caso, al titular del Poder Ejecutivo las acciones necesarias para su fomento;
 
 VI.- Sugerir las medidas de simplificación administrativa que puedan implementarse en las diferentes instancias u órdenes de gobierno; así como las acciones para el optimo funcionamiento de la ventanilla única;
 
-VII. Promover la participación del sector privado en el Sistema Estatal de Financiamiento:
+VII.- Promover la participación del sector privado en el Sistema Estatal de Financiamiento:
 
 VIII.- Promover la vinculación de la educación media y superior con el sector productivo;
 
-IX. Proponer medidas para el impulso del desarrollo de las actividades económicas generadoras de empleos;
+IX.- Proponer medidas para el impulso del desarrollo de las actividades económicas generadoras de empleos;
 
-X. Emitir opinión fundada sobre la demanda e instalación de parques industriales, centros comerciales y de servicios, considerando las propuestas y gestión de recursos para el desarrollo de la infraestructura que demanden los inversionistas; y,
+X.- Emitir opinión fundada sobre la demanda e instalación de parques industriales, centros comerciales y de servicios, considerando las propuestas y gestión de recursos para el desarrollo de la infraestructura que demanden los inversionistas; y,
 
-XI. En general, estudiar y analizar las necesidades y la problemática que enfrenta el sector productivo, así como proponer alternativas que alienten su crecimiento y consoliden sus niveles de rentabilidad a favor del desarrollo del Estado.
+XI.- En general, estudiar y analizar las necesidades y la problemática que enfrenta el sector productivo, así como proponer alternativas que alienten su crecimiento y consoliden sus niveles de rentabilidad a favor del desarrollo del Estado.
 
 ###### ARTICULO 9º.
 
@@ -217,7 +221,7 @@ II.- La relación de los requisitos;
 
 III.- Los plazos para realizarlos; y,
 
-IV. La autoridad ante quien se deben efectuar.
+IV.- La autoridad ante quien se deben efectuar.
 
 ###### ARTICULO 13.
 
@@ -275,7 +279,7 @@ El Presidente del Consejo podrá invitar a los representantes de las institucion
 
 ### CAPITULO VI. De la planeación para el fomento económico
 
-###### ARTICULO 23
+###### ARTICULO 23.
 
 De conformidad con el Plan de Desarrollo Integral del Estado, el Ejecutivo propiciará la concurrencia de los sectores privado y social en el desarrollo económico estatal.
 
@@ -309,7 +313,7 @@ El titular del Poder Ejecutivo y los presidentes municipales, podrán otorgar in
 
 Los estímulos, incentivos y apoyos fiscales que pueden otorgarse, a solicitud expresa de las empresas que se instalen o que generen nuevos empleos permanentes en el Estado, de conformidad con las disposiciones jurídicas podrán ser entre otros:
 
-I.-. Exención de derechos por la prestación del servicio del Registro Público de la Propiedad Raíz y del Comercio, en los términos que establezca la Ley de Ingresos del Estado, por:
+I.- Exención de derechos por la prestación del servicio del Registro Público de la Propiedad Raíz y del Comercio, en los términos que establezca la Ley de Ingresos del Estado, por:
 
 a) Inscripciones en el Registro de Comercio, de escrituras constitutivas de actos de emisión de bonos y obligaciones, y de aumento de capital de sociedades mercantiles; y,
 
@@ -319,13 +323,13 @@ II.- Acceso a los Programas de Capacitación de Trabajadores, en términos de lo
 
 III.- Oferta de predios ubicados en corredores turísticos y parques industriales y agropecuarios, desarrollados por el Estado o por fideicomisos en que éste sea parte, en las condiciones que determinen sus órganos de gobierno;
 
-IV. Ejecución de obras especiales de infraestructura que requieran empresas para ubicarse fuera de los corredores turísticos y parques industriales o agropecuarios;
+IV.- Ejecución de obras especiales de infraestructura que requieran empresas para ubicarse fuera de los corredores turísticos y parques industriales o agropecuarios;
 
-V. Donación, permuta u otorgamiento de usufructo de predios propiedad del Gobierno del Estado o de los municipios, conforme a lo dispuesto en el artículo 36 de esta Ley;
+V.- Donación, permuta u otorgamiento de usufructo de predios propiedad del Gobierno del Estado o de los municipios, conforme a lo dispuesto en el artículo 36 de esta Ley;
 
-VI. Exención de derechos por el otorgamiento de licencias para edificación, reparación y restauración de fincas, en términos de lo que disponga la Ley de Ingresos para los Municipio del Estado de Michoacán de Ocampo; y,
+VI.- Exención de derechos por el otorgamiento de licencias para edificación, reparación y restauración de fincas, en términos de lo que disponga la Ley de Ingresos para los Municipio del Estado de Michoacán de Ocampo; y,
 
-VII. Beneficio de la cuota mínima anual del Impuesto Predial por un término de diez años, en tratándose de predios que se destinen totalmente a la instalación de nuevas industrias, de acuerdo con lo dispuesto en la Ley de Hacienda Municipal.
+VII.- Beneficio de la cuota mínima anual del Impuesto Predial por un término de diez años, en tratándose de predios que se destinen totalmente a la instalación de nuevas industrias, de acuerdo con lo dispuesto en la Ley de Hacienda Municipal.
 
 Los estímulos, incentivos y apoyos a que se refieren las fracciones I, VI y VII de este artículo, se otorgarán mediante acuerdos que al efecto expidan la Tesorería General o las tesorerías municipales, según corresponda, con base en el análisis de razonabilidad y, en su caso, disponibilidad presupuestal y siempre y cuando las empresas cumplan con lo dispuesto en el artículo 31 de esta Ley.
 
@@ -333,25 +337,33 @@ Los estímulos, incentivos y apoyos a que se refieren las fracciones I, VI y VII
 
 La Secretaría podrá promover ante los ayuntamientos, el otorgamiento de otros incentivos y apoyos diversos a las empresas señaladas en este Capítulo, mediante la dotación de servicios municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 31.
 
-Los estímulos, incentivos y apoyos a que se refieren las fracciones I, II, III, V y VI del artículo 29 de esta Ley podrán otorgarse a:
+Los estímulos, incentivos y apoyos a que se refieren las fracciones I, II, III, V y VI del artículo 29 de esta Ley podrán otorgarse a las:
 
-I.-. Las empresas de nueva creación cuya inversión inicial generó 25 o más empleos permanentes;
+I.- Las empresas de nueva creación cuya inversión inicial generó 25 o más empleos permanentes;
 
-II. Las empresas que por ampliación su planta generen 10 o más nuevos empleos permanentes; y,
+II.- Las empresas que por ampliación su planta generen 10 o más nuevos empleos permanentes; y, (sic)
 
 III.- A las empresas que produzcan, procesen o comercialicen productos agropecuarios, independientemente de los empleos que generen.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+IV.- Empresas de nueva creación que independientemente del número de empleos que generen pertenezcan a personas con discapacidad; y,
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+V.- Empresas que cuenten con al menos un quince por ciento de su planta laboral integrada por personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 32.
 
-Las empresas que se instalen o que incrementen empleos, tendrán derecho a los beneficios del programa de becas para capacitación de trabajadores, en la modalidad de capacitación mixta o proyectos productivos que otorgue el Gobierno del Estado, de conformidad con la disponibilidad presupuestal de las dependencias competentes.
+Las empresas que se instalen, incrementen empleos, contraten al menos en un quince por ciento de su personal a personas con discapacidad o pertenezcan a personas con discapacidad, tendrán derecho a los beneficios del programa de becas para capacitación de trabajadores, en la modalidad de capacitación mixta o proyectos productivos que otorgue el Gobierno del Estado, de conformidad con la disponibilidad presupuestal de las dependencias competentes.
 
-CAPlTULO IX
-
-Del procedimiento, tramitación y aprobación de las solicitudes, para el otorgamiento de incentivos y estímulos a la actividad productiva
-
-### CAPITULO X. De la cancelación de los incentivos y estímulos
+### CAPITULO IX. Del procedimiento, tramitación y aprobación de las solicitudes, para el otorgamiento de incentivos y estímulos a la actividad productiva
 
 ###### ARTICULO 33.
 
@@ -361,9 +373,9 @@ La Secretaría recibirá las solicitudes de estímulos e incentivos a que se ref
 
 Las solicitudes a que se refiere el artículo anterior, deberá acompañarse de la información suficiente que permita valorar su justificación, y previo a la emisión del dictamen correspondiente, la información adicional que requiera la autoridad competente, la que, de no presentarse en un término de cinco días a partir de la notificación de su requerimiento, motivará que la solicitud se deseche.
 
-###### ARTICULO 35
+###### ARTICULO 35.
 
-. Para la realización de los trámites a que se refiere este Capitulo, la Ventanilla Unica brindará el auxilio que los interesados requieran.
+Para la realización de los trámites a que se refiere este Capitulo, la Ventanilla Unica brindará el auxilio que los interesados requieran.
 
 ARTICULO. 36. Para los casos de donación, permuta u otorgamiento del usufructo de terrenos de propiedad estatal o municipal que una empresa solicite al Gobernador del Estado o a algún ayuntamiento, deberán cumplirse, además de los requisitos que determinen las disposiciones jurídicas aplicables, los siguientes:
 
@@ -371,7 +383,7 @@ I. Que se trate de empresa nueva o que, existiendo previamente, compruebe su nec
 
 II Que se inicien los trabajos para su instalación en un término máximo de un año a partir de la fecha en que se autorice su solicitud; y,
 
-lll. Que en su caso, el inmueble a permutar propiedad de la empresa de que se trate, este libre de gravamen.
+III. Que en su caso, el inmueble a permutar propiedad de la empresa de que se trate, este libre de gravamen.
 
 La donación, permuta u otorgamiento del usufructo de terrenos que formen parte del patrimonio estatal o municipal, que se otorguen como estímulo o incentivo en los términos de esta Ley, quedará sujeta a las condiciones que, en su caso, establezcan las disposiciones jurídicas de la materia, y a la previa autorización del Congreso del Estado, cuando proceda.
 
@@ -387,7 +399,7 @@ Si habiéndose satisfecho los requisitos establecidos, la Tesorería General del
 
 Los acuerdos deberán ser notificados al interesado en un plazo no mayor de cinco días hábiles contados a partir del día siguiente a aquel en que se dicten.
 
-### CAPITULO XI. Del Sistema Estatal de Financiamiento
+### CAPITULO X. De la cancelación de los incentivos y estímulos
 
 ###### ARTICULO 40.
 
@@ -399,11 +411,11 @@ El cambio de propietario, denominación o razón social de las empresas, no ser�
 
 La Contaduría General de Glosa y la tesorería municipal correspondiente, respectivamente, resolverán sobre las cancelaciones a que se refiere el artículo anterior, después de haber escuchado en defensa al afectado. Procederá, en ese caso, el recurso de revocación en los términos que señale esta Ley.
 
-### CAPITULO XII. De la micro, pequeña y mediana empresa
+### CAPITULO XI. Del Sistema Estatal de Financiamiento
 
 ###### ARTICULO 42.
 
-. El Gobernador del Estado promoverá la obtención de recursos financieros que puedan destinarse para la promoción del desarrollo económico del Estado, constituyendo un Sistema Estatal de Financiamiento, en el que participen los sectores público, privado y social, financiando proyectos productivos viables de las empresas interesadas en establecerse en la Entidad y demás empresas del Estado que lo requieran.
+El Gobernador del Estado promoverá la obtención de recursos financieros que puedan destinarse para la promoción del desarrollo económico del Estado, constituyendo un Sistema Estatal de Financiamiento, en el que participen los sectores público, privado y social, financiando proyectos productivos viables de las empresas interesadas en establecerse en la Entidad y demás empresas del Estado que lo requieran.
 
 ###### ARTICULO 43.
 
@@ -413,7 +425,7 @@ El titular del Poder Ejecutivo, por conducto de la Secretaría, podrá otorgar l
 
 Los requisitos, mecanismos, formas y montos de participación en los instrumentos financieros que integren el Sistema Estatal de Financiamiento, serán establecidos en los propios instrumentos, de acuerdo con las disposiciones aplicables.
 
-### CAPITULO XIII. De la promoción para la inversión local, nacional y extranjera
+### CAPITULO XII. De la micro, pequeña y mediana empresa
 
 ###### ARTICULO 45.
 
@@ -443,21 +455,33 @@ VI.- Propiciar la inversión en el sector social, para fomentar las actividades 
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-VII. Fomentar la creación y fortalecimiento de empresas, incluyendo las de carácter comunitario o cooperativo, que han sido constituidas por migrantes michoacanos radicados en el extranjero.
+VII.- Fomentar la creación y fortalecimiento de empresas, incluyendo las de carácter comunitario o cooperativo, que han sido constituidas por migrantes michoacanos radicados en el extranjero.
 
 La Secretaría, evaluará y actualizará periódicamente el Programa Estatal de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa, para lo cual, podrá recibir opiniones y propuestas que al respecto emitirá el sector interesado en el seno del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 48.
 
-El Programa Estatal de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa, será aplicado por la Secretaría, y deberá desarrollarse considerando estrategias tendentes a:
+El Programa Estatal de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa, será aplicado por la Secretaría, y deberá desarrollarse considerando estrategias tendientes a:
 
 I. Elevar la calidad e impulsar programas de capacitación;
 
-II. Promover el mercado de exportación, utiIizando cadenas productivas, subcontratación y proveeduría a exportadores y a la industria maquiladora;
+II. Promover el mercado de exportación, utilizando cadenas productivas, subcontratación y proveeduría a exportadores y a la industria maquiladora;
 
-III. Impulsar la especialización en procesos y productos con ventajas competitivas; y,
+III. Impulsar la especialización en procesos y productos con ventajas competitivas; y, (sic)
 
-IV. Estimular la participación de los sectores privado y social para impulsar y promover las acciones de este programa.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+IV. Estimular la participación de los sectores privado y social para impulsar y promover las acciones de este programa; y,
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+V. Fomentar la generación de micro empresas y el auto empleo de discapacitados, mujeres, indígenas y jóvenes sobre todo en aquellos municipios de alta y muy alta marginación, a través de programas, estímulos y créditos destinados a dichos sectores.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+Adicionalmente, todo programa de estímulos, incentivos y apoyos que otorguen las dependencias del Ejecutivo del Estado y los gobiernos municipales para el autoempleo, generación de negocios o microempresas, deberán de otorgar al menos un diez por ciento del total de los mismos a personas con discapacidad, cumpliendo las mismas los requisitos que marquen las convocatorias o reglas de operación correspondientes.
 
 ###### ARTICULO 49.
 
@@ -469,13 +493,13 @@ II. Consolidará la oferta de los productos elaborados, para comercialización e
 
 III. Las demás que estime adecuadas para el desarrollo de las micro, pequeñas y medianas empresas en el Estado.
 
-### CAPITULO XIV. De las sanciones y los medios de impugnación
+### CAPITULO XIII. De la promoción para la inversión local, nacional y extranjera
 
 ###### ARTICULO 50.
 
 El Gobernador del Estado, por sí y a través, de las dependencias y entidades, promoverá ante organismos e instituciones económicas y financieras e inversionistas en general de los mercados nacional e internacional, las inversiones productivas en el Estado, mostrando las ventajas que lo hagan competitivo.
 
-II.- Para la promoción de Michoacán, el titular del Poder Ejecutivo, de considerarlo pertinente, podrá integrar comisiones de inversión en las que participarán los titulares de las dependencias y entidades que tengan relación con la materia, pudiendo invitar a participar en las mismas a representantes de los sectores social y empresarial del Estado.
+Para la promoción de Michoacán, el titular del Poder Ejecutivo, de considerarlo pertinente, podrá integrar comisiones de inversión en las que participarán los titulares de las dependencias y entidades que tengan relación con la materia, pudiendo invitar a participar en las mismas a representantes de los sectores social y empresarial del Estado.
 
 ###### ARTICULO 51.
 
@@ -483,7 +507,7 @@ El Gobernador del Estado, a través de las dependencias y entidades competentes,
 
 I. Propiciar el aprovechamiento óptimo de la capacidad de producción instalada y la atracción de inversiones para impulsar la actividad empresarial y productiva en todas las ramas de la economía;
 
-Il. Fomentar la apertura de nuevos y mejores mercados para los servicios y productos estatales;
+II. Fomentar la apertura de nuevos y mejores mercados para los servicios y productos estatales;
 
 III. Promover la colocación de servicios y productos michoacanos en las mejores condiciones de rentabilidad;
 
@@ -499,35 +523,7 @@ VI. Instrumentar y promover mecanismos que incentiven la inversión productiva p
 
 Con objeto de impulsar el desarrollo de las empresas en el Estado, el Poder Ejecutivo dará preferencia a la adquisición de productos y servicios de origen michoacano, sin perjuicio de que dichas adquisiciones se realicen en apego a las leyes aplicables y respetando los criterios de economía y eficiencia.
 
-### CAPITULO XV. De la Promoción e Imagen de los Productos del Estado de Michoacán
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 58. Las micro, pequeñas, medianas empresas o las personas físicas con actividad empresarial, que produzcan algún producto en el Estado, podrán utilizar el logotipo “Producto Michoacano”, como distintivo de los productos elaborados en el Estado.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 59. La Secretaría, determinará las características del logotipo Producto Michoacano y aplicará el Reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 60. El uso del logotipo corresponde en forma exclusiva a las empresas que produzcan con los estándares de calidad y requisitos que al respecto se establezcan en el Reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 61. A la Secretaría, le corresponderá otorgar la licencia de uso del logotipo Producto Michoacano a las empresas y personas físicas con actividad empresarial, que produzcan en el Estado.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 62. La Secretaría, será la encargada de difundir el uso del logotipo por los medios posibles.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 63. Los actos que se deriven de la aplicación del presente Capítulo, serán resueltos por la Secretaría.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-ARTlCULO 64. Toda empresa que reciba el apoyo del Estado, está obligada a usar el logotipo y producir con los estándares establecidos.
+### CAPITULO XIV. De las sanciones y los medios de impugnación
 
 ###### ARTICULO 53.
 
@@ -545,13 +541,59 @@ Cuando la infracción no registre gravedad y no se haya incurrido en conducta do
 
 Se impondrá multa por el equivalente de doscientos a cuatrocientos días de salario mínimo vigente en el Estado, a la empresa que aporte información falsa para obtener estímulos o incentivos en los términos de esta Ley, quedando obligadas a reintegrar, en su caso, la totalidad del monto del importe de los apoyos obtenidos, además de la cancelación de los incentivos y estímulos.
 
-ARTlCULO 56.- Las multas serán impuestas por la Tesorería General del Estado y por las tesorerías municipales, según corresponda, y su pago deberá efectuarse en las oficinas que las mismas autoricen.
+###### ARTICULO 56.
+
+Las multas serán impuestas por la Tesorería General del Estado y por las tesorerías municipales, según corresponda, y su pago deberá efectuarse en las oficinas que las mismas autoricen.
 
 ###### ARTICULO 57.
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2007)</small>
+
+### CAPITULO XV. De la Promoción e Imagen de los Productos del Estado de Michoacán
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 58.
+
+Las micro, pequeñas, medianas empresas o las personas físicas con actividad empresarial, que produzcan algún producto en el Estado, podrán utilizar el logotipo “Producto Michoacano”, como distintivo de los productos elaborados en el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 59.
+
+La Secretaría, determinará las características del logotipo Producto Michoacano y aplicará el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 60.
+
+El uso del logotipo corresponde en forma exclusiva a las empresas que produzcan con los estándares de calidad y requisitos que al respecto se establezcan en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 61.
+
+A la Secretaría, le corresponderá otorgar la licencia de uso del logotipo Producto Michoacano a las empresas y personas físicas con actividad empresarial, que produzcan en el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 62.
+
+La Secretaría, será la encargada de difundir el uso del logotipo por los medios posibles.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 63.
+
+Los actos que se deriven de la aplicación del presente Capítulo, serán resueltos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+###### ARTICULO 64.
+
+Toda empresa que reciba el apoyo del Estado, está obligada a usar el logotipo y producir con los estándares establecidos.
 
 ## TRANSITORIOS
 
@@ -565,13 +607,13 @@ Se abroga la Ley de Fomento a la Industria, publicada en el Periódico Oficial d
 
 El Ejecutivo del Estado dispondrá se publique y observe.
 
-PALACIO DEL PODER LEGlSLATlVO, Morelia, Michoacán, a 4 de Noviembre de 1998. "AÑO DEL OCTOGESIMO ANIVERSARIO DE LA PROMULGACION DE LA CONSTITUCION POLITICA DE 1918 DEL ESTADO DE MICHOACAN". DlPUTADO PRESIDENTE.- MAURO CISNEROS FONSECA.- DIPUTADO SECRETARIO.- VICTOR CORONA ALVA.- DIPUTADO SECRETARIO.- JAlME OSEGUERA HERRERA. (Firmados).
+PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán, a 4 de Noviembre de 1998. "AÑO DEL OCTOGESIMO ANIVERSARIO DE LA PROMULGACION DE LA CONSTITUCION POLITICA DE 1918 DEL ESTADO DE MICHOACAN". DIPUTADO PRESIDENTE.- MAURO CISNEROS FONSECA.- DIPUTADO SECRETARIO.- VICTOR CORONA ALVA.- DIPUTADO SECRETARIO.- JAIME OSEGUERA HERRERA. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de noviembre de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE JULIO DE 2007.
 
@@ -596,3 +638,11 @@ SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto con
 P.O. 21 DE DICIEMBRE DE 2007.
 
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 29 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Para la inclusión de los estímulos y beneficios fiscales derivados del presente Decreto, el Congreso del Estado dispondrá lo conducente en sus leyes de ingresos para el ejercicio 2014.
+
+TERCERO. Todo programa de estímulos, incentivos y acciones de capacitación así como las acciones afirmativas en el rubro, se ejecutarán de acuerdo a la programación presupuestal del próximo año a la fecha de la publicación del presente Decreto, de igual manera los estímulos fiscales, acciones afirmativas y gastos de adecuación física deberán de contemplarse en las respectivas leyes y presupuestos de ingresos y egresos de los tres Poderes del Estado, los gobiernos municipales, sus organismos descentralizados y sus organismos autónomos en el ejercicio del próximo año fiscal inmediato a la publicación del presente Decreto.
