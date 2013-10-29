@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-personas-con-discapacidad-en-el-estado-de-42079"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-24"
-last_updated: "2004-12-24"
+last_updated: "2013-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACAN DE OCAMPO
+LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 24 de diciembre de 2004.
 
@@ -115,7 +115,7 @@ VIII. Las demás que le confiera la presente Ley y otras disposiciones aplicable
 
 Corresponde a los Ayuntamientos, en el ámbito de su competencia:
 
-I. Expedir, en reglamentos y bandos, las normas urbanísticas y arquitectónicas que faciliten el acceso y desplazamiento a las personas con discapacidad a que se refiere el Capitulo VIII del Titulo Segundo de la presente Ley;
+I. Expedir, en reglamentos y bandos, las normas urbanísticas y arquitectónicas que faciliten el acceso y desplazamiento a las personas con discapacidad a que se refiere el Capítulo VIII del Título Segundo de la presente Ley;
 
 II. Apoyar, orientar e incentivar las acciones que emprendan las instituciones, asociaciones y grupos de los sectores social y privado, con el fin de promover el desarrollo e integración social de las personas con discapacidad; y,
 
@@ -337,71 +337,105 @@ El Ejecutivo del Estado a través de la Secretaría de Educación del Estado, pr
 
 Los hospitales que funcionen con cargo a recursos públicos Estatales y Municipales, deberán contar con una sección pedagógica atendida por personal calificado para evitar el rezago del proceso educativo de los alumnos en edad escolar internados; así mismo se promoverá dicha práctica en los hospitales del sector privado.
 
-#### SECCIÓN IV. DE LA REHABILITACIÓN SOCIO-ECONÓMICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN IV. DEL DERECHO AL TRABAJO Y EL FOMENTO AL EMPLEO DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 38.
 
-La rehabilitación socio-económica tiene por objeto la integración de los trabajadores con discapacidad al sistema ordinario de trabajo o, en su caso, su incorporación al sistema productivo mediante una forma de trabajo adecuada, de acuerdo al diagnostico emitido por la Comisión Interdisciplinaria.
+El Ejecutivo del Estado y los titulares de los gobiernos municipales, a través de la institución o dependencia encargada del fomento al empleo correspondiente, promoverán el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, procurarán preferentemente las siguientes acciones:
+
+I. Prohibir cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional, asegurando condiciones de trabajo accesibles, seguras y saludables;
+
+II. Diseñar, ejecutar, evaluar y promover políticas públicas para la inclusión laboral de las personas con discapacidad atendiendo a su clasificación, en el sector público o privado, que protejan la capacitación, empleo, contratación y derechos sindicales, en su caso, de las personas con discapacidad;
+
+III. Elaborar e instrumentar el programa estatal y municipal de trabajo y empleo para las personas con discapacidad, que comprenda la capacitación, creación de agencias de integración laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo, talleres, asistencia técnica, formación vocacional o profesional, becas en cualquiera de sus modalidades;
+
+IV. Proporcionar asistencia técnica y legal a los sectores productivos, social y privado, en materia laboral de discapacidad, que así lo soliciten;
+
+V. Revisar y cumplir las normas oficiales mexicanas y la legislación u ordenamientos federales, estatales y municipales, a efecto de permitir el pleno acceso y goce de los derechos en materia laboral establecidos por la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad y demás disposiciones aplicables;
+
+VI. Fomentar la capacitación y sensibilización al personal que trabaje con personas con discapacidad en el sector público o privado;
+
+VII. Promover medidas a efecto de que las obligaciones laborales no interrumpan el proceso de rehabilitación de las personas con discapacidad; y,
+
+VIII. Las demás que dispongan los ordenamientos relativos.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 39.
 
-En las dependencias y entidades federales, estatales y municipales, en que se desarrollen programas o acciones que se realicen para las personas con discapacidad, se emplearán preferentemente profesionales cuyo perfil cubra las necesidades del puesto.
+Es obligación de los tres poderes del Estado, gobiernos municipales, sus organismos descentralizados y organismos autónomos, garantizar la inserción laboral de las personas con discapacidad en la administración pública, teniendo la obligación de contratar, como mínimo el tres por ciento de la planta laboral correspondiente a personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 40.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Económico y mediante el Servicio Estatal del Empleo, ejecutará y dará seguimiento a los programas de promoción de empleo, de las personas con discapacidad creando al efecto una bolsa de trabajo y una red de vinculación especializada.
+Para el empleo, contratación e inserción en puestos de la administración pública de las personas con discapacidad, se emplearán profesionales cuyo perfil cubra las necesidades del puesto o los requisitos de la convocatoria respectiva, en toda convocatoria pública para contratación de personal, asignación de plazas o puestos de trabajo, se deberá de reservar como mínimo el tres por ciento de las mismas para personas con discapacidad.
 
-Dichos programas podrán considerar la creación de centros especiales de empleo con personal con discapacidad, brindándoles el apoyo técnico que se requiera.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 41.
 
-El Ejecutivo del Estado y los Ayuntamientos, fomentarán en el sector empresarial, el empleo de las personas con discapacidad, mediante subvenciones o préstamos para la adaptación de los centros de trabajo y la eliminación de barreras arquitectónicas que dificulten su movilidad en los mismos.
+Los tres poderes del Estado, los gobiernos municipales, sus organismos descentralizados y organismos autónomos, deberán de presentar cada año al Consejo Michoacano para la Atención e Integración Social de las Personas con Discapacidad informe detallado que incluya el total de puestos laborales otorgados a las personas con discapacidad, con los documentos de sustento de los mismos, además de los que les obliga la legislación respectiva.
 
 ### CAPÍTULO V. DE LA REHABILITACIÓN LABORAL
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 42.
 
-Dentro de la Educación Especial se considerará la formación ocupacional de la persona con discapacidad de acuerdo con lo establecido en los diferentes niveles de enseñanza general.
+El Consejo Michoacano para la Atención e Integración Social de las Personas con Discapacidad, difundirá el cumplimiento y avance que los tres poderes del Estado, los gobiernos municipales, sus organismos descentralizados y organismos autónomos, tengan al respecto de la contratación de personas con discapacidad, usando para ello el Periódico Oficial y otros medios disponibles para tales efectos.
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. 29 DE OCTUBRE DE 2013, SE OBSERVA QUE DEJARON DE EXISTIR CUATRO FRACCIONES QUE CONTENÍA EL PRIMER PÁRRAFO DESDE TEXTO ORIGINAL.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 43.
 
-Los procesos de rehabilitación laboral o profesional comprenderán entre otras, las prestaciones siguientes:
+Dentro de la educación especial se considerará la formación ocupacional de la persona con discapacidad de acuerdo con lo establecido en los diferentes niveles de enseñanza general, el Gobierno del Estado en coordinación con las instituciones de capacitación para el trabajo dependientes del mismo, garantizará el acceso a la capacitación para el trabajo de las personas con discapacidad.
 
-I. Los tratamientos de rehabilitación médico funcional, específico para el desempeño de la función laboral;
-
-II. La orientación ocupacional y vocacional;
-
-III. La formación, readaptación y reeducación ocupacional;
-
-IV. La ubicación de acuerdo con la aptitud y actitud ante el trabajo; y,
-
-V. Efectuar el seguimiento y evaluación del proceso de recuperación, desde el punto de vista físico, psicológico y laboral de la persona con discapacidad.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 44.
 
-El proceso de integración laboral será llevado a cabo tomando en cuenta la coordinación entre las áreas médica, escolar y de capacitación.
+El Ejecutivo del Estado y las autoridades municipales en coordinación con las instituciones de capacitación para el trabajo fomentarán la inclusión de las personas con discapacidad, a través de la difusión de programas, acciones de gobierno y el otorgamiento de becas, de acuerdo a su programación presupuestal y a sus presupuestos anuales.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 45.
 
-La orientación ocupacional tendrá en cuenta las potencialidades reales de la persona con discapacidad, considerando el diagnostico que emita la Comisión Interdisciplinaria, además de la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo existentes en cada caso, asimismo la atención a sus motivaciones, aptitudes y preferencias vocacionales.
+La Secretaría de Desarrollo Económico, las instituciones públicas estatales o municipales, los organismos públicos descentralizados estatales o municipales que se encarguen de brindar créditos o estímulos para el autoempleo, generación de negocios o microempresas, deberán otorgar al menos un diez por ciento del total de los mismos a personas con discapacidad, cumpliendo las mismas los requisitos que marquen las convocatorias o reglas de operación correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 46.
 
-El Gobierno Estatal y Municipal, así como sus organismos descentralizados y las empresas de participación estatal, tendrán la obligación de contratar, como mínimo el dos por ciento de la planta laboral a personas con discapacidad.
+El Ejecutivo del Estado y los gobiernos municipales, otorgarán estímulos fiscales a empresas y negocios que empleen a personas con discapacidad o pertenecientes a los mismos, de acuerdo a lo establecido en las leyes de hacienda e ingresos.
+
+Para los estímulos y beneficios se deberá tomar en cuenta:
+
+I. Los concernientes a facilitar la apertura de negocios o empresas por parte de personas con discapacidad;
+
+II. Los relativos a empresas o negocios que tengan integrado al menos el quince por ciento de su plantilla laboral con personas con discapacidad; y,
+
+III. Las adecuaciones físicas, fomento y permanencia laboral para los trabajadores con discapacidad.
+
+Dichos estímulos y beneficios no deberán ser mayores al veinticinco por ciento del determinable.
 
 ###### Artículo 47.
 
-Las empresas, industrias, comercios y establecimientos en general, procurarán contratar un dos por ciento, como mínimo, de su planta laboral a personas con discapacidad.
-
-El Ejecutivo del Estado y los Municipios en el ámbito de su competencia, otorgarán estímulos fiscales a aquellas empresas que den cumplimiento a esta disposición.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2013)
 
 ###### Artículo 48.
 
-La asignación y el desempeño de la actividad laboral en los términos de esta Ley, deberá ser supervisada por la Dirección del Trabajo y Previsión Social del Estado.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2013)
 
 ###### Artículo 49.
 
-El Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico, fomentará la creación de micro-empresas integradas con personas con discapacidad, y a través de proyectos de inversión productiva, conforme a los proyectos establecidos por ésta.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO VI. DE LOS SERVICIOS DE ORIENTACIÓN, APOYO E INTEGRACIÓN
 
@@ -610,3 +644,13 @@ PRESIDENTE.- DIP. ARMANDO OCTAVIO BALLINAS MAYÉS.- SECRETARIO.- DIP. ESTEBAN AR
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 08 ocho días del mes de diciembre del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Para la inclusión de los estímulos y beneficios fiscales derivados del presente Decreto, el Congreso del Estado dispondrá lo conducente en sus leyes de ingresos para el ejercicio 2014.
+
+TERCERO. Todo programa de estímulos, incentivos y acciones de capacitación así como las acciones afirmativas en el rubro, se ejecutarán de acuerdo a la programación presupuestal del próximo año a la fecha de la publicación del presente Decreto, de igual manera los estímulos fiscales, acciones afirmativas y gastos de adecuación física deberán de contemplarse en las respectivas leyes y presupuestos de ingresos y egresos de los tres Poderes del Estado, los gobiernos municipales, sus organismos descentralizados y sus organismos autónomos en el ejercicio del próximo año fiscal inmediato a la publicación del presente Decreto.
