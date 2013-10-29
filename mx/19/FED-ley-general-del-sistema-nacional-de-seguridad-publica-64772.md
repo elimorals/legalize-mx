@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2012-12-28"
+last_updated: "2013-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -2130,9 +2130,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publ
 
 SEGUNDO.- El Ejecutivo Federal contará con el plazo de un año a partir de la entrada en vigor de este Decreto para crear e instalar el Centro Nacional de Certificación y Acreditación, el cual deberá acreditar a los centros de evaluación y control de confianza de las Instituciones de Seguridad Pública y sus respectivos procesos de evaluación en un plazo no mayor de dos años a partir de la entrada en operación del citado Centro Nacional.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 29 DE OCTUBRE DE 2013)</small>
 
-TERCERO.- Los integrantes de las Instituciones de Seguridad Pública, en un plazo de diez meses, contado a partir de la entrada en vigor del presente Decreto, deberán obtener la certificación por parte de los centros de evaluación y control de confianza, de lo contrario serán separados del Servicio. Para los efectos de lo señalado en el artículo Cuarto Transitorio del Decreto por el que se expide la Ley General del Sistema Nacional de Seguridad Pública, publicado en el Diario Oficial de la Federación el día 02 de enero de 2009, la separación del servicio se actualizará una vez que haya vencido el plazo a que se refiere el presente artículo. El Secretario Ejecutivo del Sistema Nacional de Seguridad Pública deberá presentarse ante el Senado de la República para rendir un informe del avance del Programa a los seis meses de la entrada en vigor del presente Decreto.
+TERCERO.- Los integrantes de las Instituciones de Seguridad Pública, en un plazo de doce meses, contados a partir de la entrada en vigor del presente Decreto, deberán obtener la certificación por parte de los centros de evaluación y control de confianza, de lo contrario serán separados del Servicio. Para los efectos de lo señalado en el artículo Cuarto Transitorio del Decreto por el que se expide la Ley General del Sistema Nacional de Seguridad Pública, publicado en el Diario Oficial de la Federación el día 02 de enero de 2009, la separación del servicio se actualizará una vez que haya vencido el plazo a que se refiere el presente artículo. El Secretario Ejecutivo del Sistema Nacional de Seguridad Pública deberá presentarse ante el Senado de la República para rendir un informe del avance del Programa a los seis meses de la entrada en vigor del presente Decreto.
 
 CUARTO.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2155,6 +2155,14 @@ Lo mismo sucederá con los asuntos en trámite del Secretario Ejecutivo, salvo q
 Los derechos del personal del Secretario Ejecutivo que, en virtud de lo dispuesto en el presente Decreto, sea transferido, se respetarán conforme a la ley aplicable.
 
 DÉCIMO SEGUNDO.- Se abroga la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 29 DE OCTUBRE DE 2013)</small>
+
+DÉCIMO TERCERO.- El Gobierno Federal deberá hacer las previsiones presupuestales necesarias para el cumplimiento del Artículo Tercero Transitorio de la presente Ley, y establecer una partida presupuestal específica en el Presupuesto de Egresos de la Federación para el siguiente ejercicio fiscal a su entrada en vigor.
+
+> <small>(ADICIONADO, D.O.F. 29 DE OCTUBRE DE 2013)</small>
+
+DÉCIMO CUARTO.- Los Gobiernos Estatales y del Distrito Federal deberán hacer las previsiones presupuestales necesarias para el cumplimiento del Artículo Tercero Transitorio de la presente Ley, y establecer una partida presupuestal específica en sus respectivos Presupuestos de Egresos para el siguiente ejercicio fiscal a su entrada en vigor.
 
 México, D.F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Jose Manuel del Rio Virgen, Secretario.- Rúbricas."
 
@@ -2205,5 +2213,9 @@ D.O.F. 14 DE JUNIO DE 2012.
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 28 DE DICIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE OCTUBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
