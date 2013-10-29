@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2013-10-15"
+last_updated: "2013-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1081,7 +1081,13 @@ I.- Cumplir lo dispuesto en el Artículo 3o. de la Constitución Política de lo
 
 II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-III.- Proporcionar el porcentaje de becas en los términos establecidos en la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+
+III.- La institución educativa deberá otorgar un número de becas completas o el correspondiente número en becas parciales, equivalente al cinco por ciento del monto total obtenido por concepto de inscripciones y colegiaturas, de los alumnos inscritos en aquellos estudios que cuentan con autorización o con reconocimiento de validez oficial de estudios, otorgados por la Secretaría de Educación. Dentro de este porcentaje no deberán considerarse las becas que la institución conceda a los hijos o familiares de su personal con el carácter de prestación laboral.
+
+Las instituciones educativas podrán otorgar un número de becas mayor al cinco por ciento referido.
+
+Las becas serán otorgadas por una comisión integrada como mínimo por, la máxima autoridad educativa de la institución privada, un representante de padres de familia, y un representante de la autoridad educativa;
 
 IV.- Cumplir los requisitos previstos en los artículos 77 y 78 de esta Ley;
 
@@ -1872,6 +1878,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 15 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
