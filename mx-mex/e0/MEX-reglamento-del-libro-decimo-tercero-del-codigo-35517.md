@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-decimo-tercero-del-codigo-35517"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-22"
-last_updated: "2012-07-16"
+last_updated: "2013-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DEL LIBRO DÉCIMO TERCERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 29 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 22 de diciembre de 2003.
 
@@ -1598,3 +1600,19 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 29 DE OCTUBRE DE 2013.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- El presente Reglamento entrará en vigor al día hábil siguiente al de su publicación y abroga el Reglamento del Libro Décimo Tercero del Código Administrativo del Estado de México.
+
+Tercero.- Los procedimientos de adquisición, de inconformidad y aplicación de sanciones, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+Cuarto.- Los sistemas informáticos vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se oponga a la Ley y al presente Reglamento, en tanto se implementan los sistemas que deban sustituirlos.
+
+Quinto.- La Secretaría, organismos auxiliares, tribunales administrativos y municipios, deberán constituir los comités, en términos de la Ley y del presente Reglamento, dentro de los quince días naturales siguientes a la publicación de este ordenamiento.
+
+Sexto.- Los comités deberán emitir sus manuales de integración y funcionamiento de conformidad a lo dispuesto en la Ley y el presente Reglamento, dentro de los quince días naturales siguientes a su constitución.
+
+Séptimo.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
