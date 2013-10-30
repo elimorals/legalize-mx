@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-y-fomento-56081
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2013-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y FOMENTO ECONOMICO DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y FOMENTO ECONOMICO DEL AYUNTAMIENTO DE CUERNAVACA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO Y FOMENTO ECONÓMICO DEL AYUNTAMIENTO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL AYUNTAMIENTO DE CUERNAVACA, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -714,3 +716,19 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+PRIMERO.- El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "TIERRA Y LIBERTAD", órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo y Fomento Económico del Ayuntamiento de Cuernavaca, publicado en el Periódico Oficial "Tierra y Libertad", número 4540, de fecha veintidós de junio de dos mil siete.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+CUARTO.- En tanto se expiden los Manuales que se refieren en el presente Reglamento, el Secretario de Desarrollo Económico queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+QUINTO.- Los asuntos que se encuentren en trámite al momento de la expedición de (sic) presente Reglamento, se continuarán hasta su total terminación de conformidad con lo dispuesto en el Reglamento que se abroga.
+
+SEXTO.- En un plazo que no exceda los treinta días naturales siguientes a la aprobación del presente Reglamento, deberán presentarse para su aprobación, los Manuales de Procedimientos de la Secretaría de Desarrollo Económico.
