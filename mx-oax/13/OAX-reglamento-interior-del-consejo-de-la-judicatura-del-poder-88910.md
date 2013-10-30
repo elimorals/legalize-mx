@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-consejo-de-la-judicatura-del-poder-8891
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-30"
-last_updated: "2012-11-17"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de junio de 2012
 
@@ -600,6 +600,14 @@ DE LAS RENUNCIAS DE LOS DEMÁS SERVIDORES PÚBLICOS DEL PODER JUDICIAL.
 ###### Artículo 47.
 
 El escrito de renuncia de los demás servidores públicos del Poder Judicial deberá presentarse ante el Pleno por lo menos con treinta días de anticipación a la fecha en que se solicite surta efectos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Únicamente por excepción y tratándose de causas de fuerza mayor que deberán ser especificadas en el escrito de renuncia, no se considerarán los treinta días de anticipación.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Tal excepción no eximirá al Servidor Público de su obligación para cumplir con los requisitos que establece el artículo 48 del presente Reglamento.
 
 ###### Artículo 48.
 
@@ -3138,3 +3146,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese la presente determinación a la Comisión de Administración y a los titulares de las Direcciones de Administración e Infraestructura Judicial, para los efectos a que haya lugar.
 
 TERCERO. Asimismo, publíquese la citada reforma en el Periódico Oficial del Gobierno del Estado, en el Boletín Judicial y en el portal de Internet del Poder Judicial.
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Periódico Oficial del Gobierno del Estado, en la página electrónica del Poder Judicial del Estado de Oaxaca, en el Boletín Judicial y en los estrados del Consejo de la Judicatura.
+
+TERCERO. Comuníquese la presente determinación a los Órganos Jurisdiccionales, Internos y Auxiliares del Poder Judicial del Estado, para los efectos a que haya lugar.
