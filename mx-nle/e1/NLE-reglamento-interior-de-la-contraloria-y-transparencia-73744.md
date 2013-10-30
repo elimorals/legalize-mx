@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-contraloria-y-transparencia-73744"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-02-26"
+last_updated: "2013-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL
 
-REGLAMENTO INTERIOR DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL
+REGLAMENTO INTERIOR DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -45,9 +45,11 @@ La Contraloría y Transparencia Gubernamental es la dependencia del Poder Ejecut
 
 La Contraloría y Transparencia Gubernamental, tiene por objeto establecer, desarrollar y mantener un sistema de control y vigilancia sobre la rendición de cuentas de la gestión pública de las dependencias y entidades de la Administración Pública Estatal; inspeccionar el ejercicio del gasto público estatal y recursos federales transferidos, dando estricto cumplimiento a los principios de legalidad, honradez, transparencia, imparcialidad y eficiencia de la administración pública, implementando acciones de carácter preventivo y correctivo; así como verificar el exacto cumplimiento de los programas gubernamentales del Estado, e impulsar la legalidad y la transparencia en la gestión pública, y la modernización administrativa con servicios de calidad.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 3º.
 
-Corresponde al Gobernador Constitucional del Estado, nombrar y remover libremente al Contralor General, al Subcontralor y Directores. Los Coordinadores y demás servidores públicos serán nombrados por el Contralor General, observando la ley de la materia aplicable y demás disposiciones legales vigentes en el Estado.
+Corresponde al Gobernador Constitucional del Estado, nombrar y remover libremente al Contralor General. Los Directores y demás servidores públicos serán nombrados por el Contralor General, observando la ley de la materia aplicable y demás disposiciones legales vigentes en el Estado.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA
 
@@ -55,31 +57,37 @@ Corresponde al Gobernador Constitucional del Estado, nombrar y remover librement
 
 Para el ejercicio de las atribuciones y el despacho de los asuntos que le competen, la Contraloría y Transparencia Gubernamental contará con las siguientes unidades administrativas:
 
-I. Oficina del Contralor General:
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-a) Dirección Jurídica;
+I. Dirección Jurídica;
 
-b) Dirección Administrativa;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-c) Dirección de Calidad y Modernización Gubernamental;
+II. Dirección Administrativa;
 
-d) Dirección de Tecnología e Información;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
 
-e) Dirección de Órganos de Control Interno y Vigilancia, y
+III. Dirección de Calidad y Modernización Gubernamental;
 
-f) Dirección de Transparencia Gubernamental.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
 
-II. Subcontraloría:
+IV. Dirección de Órganos de Control Interno y Vigilancia;
 
-a) Dirección de Auditoría Gubernamental;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
 
-b) Dirección de Auditoría Paraestatal;
+V. Dirección de Transparencia Gubernamental;
 
-c) Dirección de Auditoría en Educación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
 
-d) Dirección de Auditoría en Salud, y
+VI. Dirección de Control y Auditoría del Sector Central;
 
-e) Dirección de Auditoría de Obra Pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VII. Dirección de Control y Auditoría del Sector Paraestatal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VIII. Dirección de Control y Auditoría de Obra Pública.
 
 ###### Artículo 5º.
 
@@ -173,13 +181,17 @@ Para el ejercicio de las atribuciones y el despacho de los asuntos que le compet
 
 Los Titulares de las Direcciones tendrán las siguientes facultades comunes:
 
-I. Informar al Contralor General, o en su caso al Subcontralor, los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+I. Informar al Contralor General, los asuntos de su competencia;
 
 II. Planear, programar, organizar, dirigir y controlar el funcionamiento de las coordinaciones, jefaturas y demás áreas de su adscripción, de acuerdo a lo establecido en las disposiciones jurídicas aplicables;
 
 III. Elaborar y poner a consideración del Contralor General, el Programa Anual de Trabajo de su área, así como organizar, dirigir, supervisar y evaluar sus actividades, programas o proyectos;
 
-IV. Suscribir los documentos relativos al ejercicio de sus facultades, las que le sean delegadas, o cuando actúe en suplencia del Contralor, Subcontralor o algún Director;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+IV. Suscribir los documentos relativos al ejercicio de sus facultades, las que le sean delegadas, o cuando actúe en suplencia del Contralor, o algún Director;
 
 V. Coordinarse con las demás unidades administrativas de la Contraloría y Transparencia Gubernamental, para el mejor desempeño de los asuntos de su competencia;
 
@@ -307,65 +319,89 @@ XXI. Las demás que le confieran las disposiciones legales aplicables y el Contr
 
 El Director de Calidad y Modernización Gubernamental tendrá las siguientes facultades:
 
-I. Proponer al Contralor General las acciones, políticas, planes, programas, lineamientos y criterios que sean necesarios para modernizar los sistemas de control y seguimiento de procesos de verificación y auditoría, de legalidad y transparencia, para fortalecer a las dependencias y entidades de la Administración Pública Estatal, en la rendición de cuentas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-II. Planear, implementar y establecer acciones, políticas, planes, programas, lineamientos y criterios en la modernización gubernamental de los sistemas de control y seguimiento de los procesos de verificación y auditoría, legalidad y transparencia de las dependencias y entidades de la Administración Pública Estatal, en la rendición de cuentas;
+I. Proponer al Contralor General y en su caso, planear, implementar y establecer las acciones, políticas, planes, programas, lineamientos y criterios que sean necesarios para modernizar los sistemas de control y seguimiento de procesos de verificación y auditoría, de legalidad y transparencia, para fortalecer a las dependencias y entidades de la Administración Pública Estatal, en la rendición de cuentas;
 
-III. Elaborar los Manuales de Organización y Servicios, y de Procedimientos de las unidades administrativas de la Contraloría y Transparencia Gubernamental, así como su actualización y rediseño, a fin de optimizar los resultados de los mismos y someterlos a la aprobación del Contralor General;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-IV. Participar, en la instrumentación de sistemas e indicadores relacionados con la actuación de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal;
+II. Proponer acciones, políticas, lineamientos y criterios para que las dependencias y entidades de la Administración Pública Estatal, presten los servicios públicos conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad en beneficio de la comunidad;
 
-V. Integrar un sistema de control de gestión en la Contraloría y Transparencia Gubernamental, para el seguimiento y evaluación de sus programas y proyectos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-VI. Proponer acciones, políticas, lineamientos y criterios para que las dependencias y entidades de la Administración Pública Estatal, presten los servicios públicos conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad en beneficio de la comunidad;
+III. Promover e implementar acciones y programas para la difusión del Código de Ética de los Servidores Públicos, en las dependencias y entidades de la Administración Pública Estatal, y fomentar la cultura de la transparencia y la calidad en el servicio público;
 
-VII. Realizar encuestas de opinión entre la ciudadanía, y al interior de las dependencias y entidades de la Administración Pública Estatal, para evaluar que los servicios públicos que se prestan, sean conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-VIII. Establecer los mecanismos de operación y coordinación para la atención de manera conjunta con las dependencias y entidades de la Administración Pública Estatal y con las unidades administrativas de la Contraloría y Transparencia Gubernamental, respecto a las peticiones, quejas, denuncias, sugerencias y recomendaciones de los ciudadanos, así como darles el seguimiento correspondiente;
+IV. Desarrollar programas y acciones hacia el interior de las dependencias y entidades de la Administración Pública Estatal, para implementar un sistema homogéneo de calidad y eficiente, en beneficio de la ciudadanía, así como promover acciones para establecer una agenda de coordinación y colaboración de esfuerzos entre las dependencias y entidades de la Administración Pública Estatal, para la consecución de un gobierno con servicios de calidad y transparentes;
 
-IX. Planear y desarrollar objetivos y metas tendientes a la modernización administrativa, en coordinación con las dependencias y entidades de la Administración Pública Estatal y con las unidades administrativas de la Contraloría y Transparencia Gubernamental, para elevar la calidad de los servicios públicos que se prestan;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-X. Asesorar en el área de su competencia, a las dependencias y entidades de la Administración Pública Estatal, en el desarrollo de proyectos específicos, cuando así lo soliciten;
+V. Establecer los mecanismos de operación y coordinación para la atención de manera conjunta con las dependencias y entidades de la Administración Pública Estatal y con las unidades administrativas de la Contraloría y Transparencia Gubernamental, respecto a las peticiones, quejas, denuncias, sugerencias y recomendaciones de los ciudadanos, así como darles el seguimiento correspondiente;
 
-XI. Desarrollar en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, normas, políticas y procedimientos para instrumentar la Auditoría Informática y Transparencia Gubernamental;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-XII. Realizar estudios y evaluaciones de innovaciones técnicas en materia de control, con el propósito de optimizar y propiciar su modernización en las dependencias y entidades de la Administración Pública Estatal;
+VI. Realizar encuestas de opinión entre la ciudadanía y al interior de las dependencias y entidades de la Administración Pública Estatal, para evaluar que los servicios públicos que se prestan, sean conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad;
 
-XIII. Promover e implementar acciones y programas para la difusión del Código de Ética de los Servidores Públicos, en las dependencias y entidades de la Administración Pública Estatal, y fomentar la cultura de la transparencia y la calidad en el servicio público;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-XIV. Promover acciones para establecer una agenda de coordinación y colaboración de esfuerzos entre las dependencias y entidades de la Administración Pública Estatal, para la consecución de un gobierno con servicios de calidad y transparentes;
+VII. Planear y desarrollar objetivos y metas tendientes a la modernización administrativa, en coordinación con las dependencias y entidades de la Administración Pública Estatal y con las unidades administrativas de la Contraloría y Transparencia Gubernamental, para elevar la calidad de los servicios públicos que se prestan;
 
-XV. Desarrollar programas y acciones hacia el interior de las dependencias y entidades de la Administración Pública Estatal, para implementar un sistema homogéneo de calidad, eficiente y eficaz, en beneficio de la ciudadanía, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-XVI. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+VIII. Impulsar los proyectos de gobierno digital, para incrementar la transparencia en las funciones públicas y facilitar las relaciones con los ciudadanos;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+IX. Proponer las políticas y procedimientos para el registro, control, seguimiento, consolidación e intercambio de información por medios electrónicos entre la Contraloría y Transparencia Gubernamental y otras dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+X. Realizar estudios y evaluaciones de innovaciones técnicas en materia de control, con el propósito de optimizar y propiciar su modernización en las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XI. Participar en la instrumentación de sistemas e indicadores relacionados con las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XII. Elaborar los Manuales de Organización y Servicios, y de Procedimientos de las unidades administrativas de la Contraloría y Transparencia Gubernamental, así como su actualización y rediseño, a fin de optimizar los resultados de los mismos y someterlos a la aprobación del Contralor General;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XIII. Desarrollar en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, normas, políticas y procedimientos para instrumentar la Auditoría Informática y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XIV. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Contraloría y Transparencia Gubernamental, así como efectuar revisiones, verificaciones y evaluaciones internas respecto a su uso y aprovechamiento adecuado;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XV. Proponer, ejecutar y dar seguimiento a estrategias, sistemas, acciones y procedimientos en materia de tecnología de información, seguridad informática y telecomunicaciones, en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, que promuevan el incremento permanente de la productividad y eficiencia;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVI. Administrar los recursos de tecnología de información y telecomunicaciones dedicada a apoyar las funciones de la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVII. Integrar un sistema de control de gestión en la Contraloría y Transparencia Gubernamental, para el seguimiento y evaluación de sus programas y proyectos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVIII. Apoyar y coadyuvar, en lo relacionado con sistemas de tecnología e información y comunicación, con la Dirección de Control y Auditoría de Obra Pública, para facilitar la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XIX. Asesorar en el área de su competencia a las dependencias y entidades de la Administración Pública Estatal en el desarrollo de proyectos específicos, cuando así lo soliciten, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XX. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
 ###### Artículo 13.
 
-El Director de Tecnología e Información tendrá las siguientes facultades:
-
-I. Proponer el Plan de Desarrollo Informático para la Contraloría y Transparencia Gubernamental, así como los lineamientos para el uso y aprovechamiento adecuado de los recursos de tecnología de información y telecomunicaciones;
-
-II. Impulsar los proyectos de gobierno digital, para incrementar la transparencia en las funciones públicas y facilitar las relaciones con los ciudadanos;
-
-III. Administrar los recursos de tecnología de información y telecomunicaciones dedicada a apoyar las funciones de la Contraloría y Transparencia Gubernamental;
-
-IV. Proponer las políticas, normas, programas y proyectos de sistemas computacionales, capacitación informática, seguridad e integridad de la información, telecomunicaciones, equipo de cómputo y prestación de servicios informáticos de la Contraloría y Transparencia Gubernamental;
-
-V. Proponer programas de actualización de los bienes y servicios relacionados con la tecnología de información y telecomunicaciones, así como evaluar periódicamente su operación en función de los requerimientos de las unidades administrativas de la Contraloría y Transparencia Gubernamental;
-
-VI. Proponer, ejecutar y dar seguimiento a estrategias, sistemas, acciones y procedimientos en materia de tecnología de información, seguridad informática y telecomunicaciones, en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, que promuevan el incremento permanente de la productividad y la eficiencia;
-
-VII. Formular y promover las normas, políticas y procedimientos para instrumentar la Auditoría Informática, en el área de su adscripción;
-
-VIII. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Contraloría y Transparencia Gubernamental, así como efectuar revisiones, verificaciones y evaluaciones internas respecto a su uso y aprovechamiento adecuado;
-
-XI. Proponer las políticas y procedimientos para el registro, control, seguimiento, consolidación e intercambio de información por medios electrónicos entre la Contraloría y Transparencia Gubernamental y otras dependencias y entidades de la Administración Pública Estatal;
-
-X. Representar a la Contraloría y Transparencia Gubernamental y participar activamente en los grupos de trabajo o asuntos relacionados con temas de tecnología de información y telecomunicaciones;
-
-XI. Apoyar y coadyuvar, en lo relacionado con sistemas de tecnología e información y comunicación, con la Dirección de Auditoría de Obra Pública, para facilitar la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado, y
-
-XII. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
 
 ###### Artículo 14.
 
@@ -375,11 +411,13 @@ I. Fortalecer la coordinación con los órganos de control interno y de vigilanc
 
 II. Revisar, validar y someter a consideración del Contralor General, los programas de trabajo establecidos por los órganos de control interno, así como los resultados de los mismos, para el mejor desempeño de sus funciones;
 
-III. Coordinarse con los órganos de control interno de las entidades de la Administración Pública Estatal, en el ejercicio de sus funciones con el objeto de eficientar el desempeño de sus actividades;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+III. Coordinarse con los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal en el ejercicio de sus funciones, con el objeto de hacer más eficaz el desempeño de sus actividades;
 
 IV. Verificar que los comisarios o sus equivalentes, cumplan con las obligaciones a su cargo en las entidades del sector paraestatal;
 
-V. Apoyar en la evaluación, integración y seguimiento de los resultados de las auditorías y revisiones efectuadas por los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal, hasta su solventación;
+V. (DEROGADA, P.O. 30 DE OCTUBRE DE 2013)
 
 VI. Auxiliar al Contralor General en los Comités y Juntas de Control Interno que para tal efecto se establezcan en las Entidades Paraestatales;
 
@@ -419,189 +457,103 @@ XIII. Recibir, tramitar y dar contestación a las solicitudes de acceso a la inf
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
-### CAPÍTULO VI. DEL SUBCONTRALOR
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 16.
+###### Artículo 15 Bis.
 
-Al frente de la Subcontraloría habrá un Subcontralor, quien tendrá las siguientes facultades:
+El Director de Control y Auditoría del Sector Central, tendrá las siguientes facultades:
 
-I. Acordar con el Contralor General el despacho de los asuntos de su competencia y auxiliarlo en el desarrollo y conducción de los que le sean encomendados;
+I. Efectuar revisiones, auditorías, verificaciones y acciones de vigilancia en las dependencias de la Administración Pública Central, para verificar el exacto cumplimiento de las disposiciones legales y normativas aplicables en el despacho de los asuntos que son de su competencia;
 
-II. Informar al Contralor General las acciones, políticas, planes, programas y asuntos relevantes de las unidades administrativas de su adscripción, así como el seguimiento a los mismos;
+II. Llevar a cabo revisiones, auditorías, verificaciones, acciones de vigilancia, fiscalizaciones y peritajes a las dependencias de la Administración Pública Central, con el propósito de valorar el cumplimiento de sus objetivos, promover la eficiencia en sus operaciones y demás acciones inherentes a la unidad administrativa correspondiente;
 
-III. Desempeñar las funciones y comisiones que el Contralor General le delegue y encomiende, manteniéndolo informado sobre el desarrollo de sus actividades;
+III. Efectuar auditorías, revisiones, verificaciones y acciones de vigilancia, en materia de contratación de deuda pública y manejo de fondos y valores en las dependencias de la Administración Pública Central;
 
-IV. Someter a la aprobación del Contralor General, los estudios y proyectos que le solicite;
+IV. Vigilar el cumplimiento de las normas de control de las dependencias de la Administración Pública Central, promoviendo la eficiencia en sus operaciones;
 
-V. Suscribir los documentos de carácter administrativo para el desarrollo eficiente de las unidades administrativas de la Contraloría y Transparencia Gubernamental, y aquellos que le sean señalados por delegación o comisión, informando de ello al Contralor General;
+V. Llevar a cabo revisiones, auditorías, verificaciones, fiscalizaciones y labores de inspección, acción de vigilancia y supervisión, a efecto de valorar que se cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las dependencias de la Administración Pública Central;
 
-VI. Coordinar la modernización de los sistemas de control y seguimiento de los procesos de verificación y auditoría de las dependencias y entidades de la Administración Pública Estatal, para fortalecer los programas de prevención y de rendición de cuentas;
+VI. Efectuar revisiones, auditorías, verificaciones y acciones de vigilancia, a los recursos humanos, financieros y materiales asignados a las dependencias de la Administración Pública Central;
 
-VII. Proponer al Contralor General, las acciones, políticas, planes y programas relativos a las unidades administrativas de la dependencia y el seguimiento a los mismos, así como las medidas necesarias para la prestación de un servicio administrativo de calidad;
+VII. Verificar y vigilar el cumplimiento de los procesos referentes a los controles de confianza que se apliquen al personal de las dependencias de la Administración Pública Central;
 
-VIII. Proponer el establecimiento de mecanismos de integración, interrelación, coordinación e implementación de medidas, para mejorar el funcionamiento de las unidades administrativas de la Contraloría y Transparencia Gubernamental;
+VIII. Verificar y vigilar el cumplimiento de las dependencias de la Administración Pública Central, de las disposiciones en materia fiscal establecidas en los diferentes ordenamientos legales correspondientes;
 
-IX. Proporcionar, previo acuerdo del Contralor General, la información, datos y cooperación técnica que le sean solicitadas por las autoridades competentes;
+IX. Vigilar el cumplimiento de disposiciones en materia de seguridad social de las dependencias de la Administración Pública Central;
 
-X. Coadyuvar en la implementación de medidas para la supervisión y evaluación de las actividades y resultados de las entidades que sean sectorizadas a la Contraloría y Transparencia Gubernamental, conforme a las disposiciones legales aplicables;
+X. Verificar que las operaciones de las dependencias de la Administración Pública Central, sean congruentes con los procesos de planeación, programación, presupuestación, seguimiento, evaluación y rendición de cuentas;
 
-XI. Expedir copias certificadas de los documentos, constancias o expedientes que obren en su poder, en razón de sus facultades; observando las prescripciones de la Ley de Transparencia y Acceso a la Información, especialmente tratándose de información reservada y confidencial;
+XI. Informar al Contralor General, sobre los resultados de las verificaciones, revisiones, auditorías, acciones de vigilancia e inspecciones efectuadas a las dependencias de la Administración Pública Central, para la instrumentación de las acciones y medidas preventivas y correctivas que sean pertinentes;
 
-XII. Autorizar a los servidores públicos adscritos a las unidades administrativas de la Subcontraloría, la formulación de actas circunstanciadas en las que se haga constar el desarrollo de los hechos y actos realizados en cumplimiento de diligencias, actuaciones, auditorías, inspecciones y demás procedimientos que sean de su competencia, y
+XII. Formular los informes que contengan las observaciones y recomendaciones preventivas y correctivas a las dependencias de la Administración Pública Central, con base en los resultados de las revisiones, auditorías, verificaciones y acciones de vigilancia realizadas;
 
-XIII. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+XIII. Analizar el contenido de los informes derivados de auditorías externas realizadas a las dependencias de la Administración Pública Central, y de acuerdo con sus resultados, proponer a la autoridad que corresponda las acciones y medidas preventivas y correctivas que sean pertinentes;
 
-Para el ejercicio de las atribuciones y el despacho de los asuntos que le competen, el Subcontralor se auxiliará de las Direcciones de Auditoría Gubernamental, Auditoría Paraestatal, Auditoría en Educación, Auditoría en Salud y Auditoría de Obra Pública.
+XIV. Vigilar que se cumpla por parte de las dependencias de la Administración Pública Central, con las disposiciones contenidas en los acuerdos y convenios celebrados entre la Federación y el Estado, de donde se derive la inversión de fondos federales distintos a los de obra pública en la Entidad y supervisar la correcta aplicación de los mismos;
 
-### CAPÍTULO VII. DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA SUBCONTRALORÍA
+XV. Vigilar que se cumpla por parte de las dependencias de la Administración Pública Central, con las disposiciones contenidas en los acuerdos y convenios de coordinación celebrados entre el Estado y los Municipios de la Entidad, de donde se derive la inversión de fondos estatales y federales distintos de los de obra pública y supervisar la correcta aplicación de los mismos;
 
-###### Artículo 17.
+XVI. Turnar a la Dirección Jurídica los informes y expedientes de revisiones, auditorías, verificaciones y acciones de vigilancia de las dependencias de la Administración Pública Central, con presunta responsabilidad administrativa y/o penal;
 
-El Director de Auditoría Gubernamental tendrá las siguientes facultades:
+XVII. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de revisiones, auditorías, verificaciones y acciones de vigilancia correspondientes a las dependencias de la Administración Pública Central;
 
-I. Efectuar revisiones en las dependencias de la Administración Pública Estatal, para verificar el exacto cumplimiento de las disposiciones legales y normativas aplicables en el despacho de los asuntos que son de su competencia, así como que las operaciones sean congruentes con los procesos de planeación, programación y presupuestación aprobados, respecto al manejo, custodia y administración de fondos y valores;
+XVIII. Vigilar y verificar el cumplimiento de las disposiciones relativas a la planeación, programación y presupuestación de recursos de las dependencias de la Administración Pública Central, en materia de adquisiciones, arrendamientos y servicios; así como en materia de obra pública y los servicios relacionados con las mismas se realice conforme al gasto público autorizado, y
 
-II. Llevar a cabo auditorías, verificaciones, fiscalizaciones y peritajes a las dependencias de la Administración Pública Estatal, con el propósito de revisar el cumplimiento de sus objetivos, promover la eficiencia y eficacia en sus operaciones y demás acciones inherentes a la unidad administrativa correspondiente;
+XIX. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
-III. Efectuar auditorías, en materia de contratación de deuda pública y manejo de fondos y valores en las dependencias de la Administración Pública Estatal;
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-IV. Llevar a cabo auditorías, verificaciones, fiscalizaciones y labores de inspección, vigilancia y supervisión, a efecto de revisar que se cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las dependencias de la Administración Pública Estatal;
+###### Artículo 15 Bis 1.
 
-V. Verificar y vigilar el cumplimiento de los procesos referentes a los controles de confianza que se apliquen al personal de las dependencias de la Administración Pública Estatal;
+El Director de Control y Auditoría del Sector Paraestatal, tendrá las siguientes facultades:
 
-VI. Verificar y vigilar el cumplimiento de las dependencias de la Administración Pública Estatal, de las disposiciones en materia fiscal establecidas en los diferentes ordenamientos legales correspondientes;
+I. Llevar a cabo revisiones, auditorías, acciones de vigilancia, verificaciones, fiscalizaciones y peritajes a las entidades de la Administración Pública Paraestatal, con el propósito de valorar el cumplimiento de sus objetivos, promover la eficiencia en sus operaciones y demás acciones inherentes a la unidad administrativa correspondiente;
 
-VII. Vigilar el cumplimiento de disposiciones en materia de seguridad social de las dependencias de la Administración Pública Estatal;
+II. Llevar a cabo labores de auditoría, revisión, evaluación, inspección, acción de vigilancia, verificación, fiscalización y supervisión, a efecto de valorar que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación de personal y servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las entidades de la Administración Pública Paraestatal;
 
-VIII. Verificar que las operaciones de las dependencias de la Administración Pública Estatal, sean congruentes con los procesos de planeación, programación, presupuestación, seguimiento, evaluación y rendición de cuentas;
+III. Llevar a cabo las labores de auditoría, revisión, verificación y acción de vigilancia, en materia de contratación de deuda pública y manejo de fondos y valores en las entidades de la Administración Pública Paraestatal;
 
-IX. Informar al Subcontralor sobre los resultados de las verificaciones, revisiones, auditorías e inspecciones efectuadas para la instrumentación de las acciones y medidas preventivas y correctivas que sean pertinentes;
+IV. Vigilar el cumplimiento de las normas de control de las entidades de la Administración Pública Paraestatal, promoviendo la eficiencia en sus operaciones;
 
-X. Formular, con base en los resultados de las auditorías realizadas, los informes que contengan las observaciones y recomendaciones preventivas y correctivas a las dependencias de la Administración Pública Estatal;
+V. Efectuar revisiones, auditorías, verificaciones y acciones de vigilancia a los recursos humanos, financieros y materiales asignados a las entidades de la Administración Pública Paraestatal;
 
-XI. Vigilar que se cumpla por parte de las dependencias de la Administración Pública Estatal, con las disposiciones contenidas en los acuerdos y convenios celebrados entre la Federación y el Estado, de donde se derive la inversión de fondos federales distintos de obra pública en la Entidad y supervisar la correcta aplicación de los mismos;
+VI. Verificar y vigilar el cumplimiento de los procesos referentes a los controles de confianza que se apliquen al personal de las entidades de la Administración Pública Paraestatal;
 
-XII. Vigilar que se cumpla por parte de las dependencias de la Administración Pública Estatal, con las disposiciones contenidas en los acuerdos y convenios de coordinación celebrados entre el Estado y los Municipios de la Entidad, de donde se derive la inversión de fondos estatales y federales distintos de los de la obra pública y supervisar la correcta aplicación de los mismos;
+VII. Efectuar revisiones, auditorías, verificaciones y acciones de vigilancia para el exacto cumplimiento de las disposiciones legales y normativas aplicables en el despacho de los asuntos que sean competencia de las entidades de la Administración Pública Paraestatal;
 
-XIII. Turnar a la Dirección Jurídica, los informes y expedientes de auditoría, con presunta responsabilidad administrativa y/o penal;
+VIII. Vigilar y verificar el cumplimiento por parte de las entidades de la Administración Pública Paraestatal, de las disposiciones fiscales establecidas en los diferentes ordenamientos legales correspondientes;
 
-XIV. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de auditoría;
+IX. Vigilar el cumplimiento de las disposiciones en materia de seguridad social, por parte de las entidades de la Administración Pública Paraestatal;
 
-XV. Vigilar y verificar el cumplimiento de las disposiciones relativas a la planeación, programación y presupuestación de recursos de las dependencias de la Administración Pública Estatal, en materia de adquisiciones, arrendamientos y servicios; así como en materia de obra pública y los servicios relacionados con las mismas, se realice conforme al gasto público autorizado, y
+X. Verificar que las operaciones de las entidades de la Administración Pública Paraestatal sean congruentes con los procesos de planeación, programación, presupuestación, seguimiento, evaluación y rendición de cuentas;
 
-XVI. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+XI. Formular los informes que contengan las observaciones y recomendaciones preventivas y correctivas a las entidades de la Administración Pública Paraestatal, con base en los resultados de las auditorías, revisiones, verificaciones, acciones de vigilancia y evaluaciones realizadas, con el objeto de hacer más eficiente sus operaciones;
 
-###### Artículo 18.
+XII. Informar al Contralor General, sobre los resultados de las auditorías, verificaciones, revisiones, acciones de vigilancia e inspecciones efectuadas a las entidades de la Administración Pública Paraestatal, para la instrumentación de las acciones y medidas preventivas y correctivas que sean pertinentes;
 
-El Director de Auditoría Paraestatal tendrá las siguientes facultades:
+XIII. Analizar el contenido de los informes derivados de auditorías externas realizadas a las entidades de la Administración Pública Paraestatal, y de acuerdo con sus resultados, proponer a la autoridad que corresponda las acciones y medidas preventivas y correctivas que sean pertinentes;
 
-I. Llevar a cabo auditorías, verificaciones, fiscalizaciones y peritajes a las entidades del sector paraestatal, con el propósito de revisar el cumplimiento de sus objetivos, promover la eficiencia y eficacia en sus operaciones y demás acciones inherentes a la unidad administrativa correspondiente;
+XIV. Vigilar que las entidades de la Administración Pública Paraestatal cumplan con las disposiciones contenidas en los acuerdos y convenios de coordinación celebrados entre la Federación y el Estado, en donde se derive la inversión de fondos federales distintos a los de obra pública y supervisar la correcta aplicación de los mismos;
 
-II. Llevar a cabo labores de auditoría, evaluación, inspección, vigilancia, verificación, fiscalización y supervisión, a efecto de revisar que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación de personal y servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las entidades del sector paraestatal;
+XV. Vigilar que las entidades de la Administración Pública Paraestatal cumplan con las disposiciones contenidas en los convenios de coordinación entre el Estado y sus municipios, de donde derive la inversión de fondos estatales y federales distintos a los de obra pública y supervisar la correcta aplicación de los mismos;
 
-III. Llevar a cabo las labores de auditoría, en materia de contratación de deuda pública y manejo de fondos y valores en las entidades del sector paraestatal;
+XVI. Supervisar y evaluar las actividades y resultados de las entidades de la Administración Pública Paraestatal que sean sectorizadas a la Contraloría y Transparencia Gubernamental;
 
-IV. Verificar el exacto cumplimiento de las disposiciones legales y normativas aplicables, en el despacho de los asuntos que sean competencia de las entidades del sector paraestatal;
+XVII. Turnar a la Dirección Jurídica los informes y expedientes de revisiones, auditorías, verificaciones y acciones de vigilancia de las entidades de la Administración Pública Paraestatal con presunta responsabilidad administrativa y/o penal;
 
-V. Vigilar y verificar el cumplimiento por parte de las entidades del sector paraestatal, de las disposiciones fiscales establecidas en los diferentes ordenamientos legales correspondientes;
+XVIII. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de revisiones, auditorías, verificaciones y acciones de vigilancia de las entidades de la Administración Pública Paraestatal;
 
-VI. Vigilar el cumplimiento de disposiciones en materia de seguridad social, por parte de las entidades del sector paraestatal;
+XIX. Vigilar y verificar el cumplimiento de las disposiciones relativas a la planeación, programación y presupuestación de recursos de las entidades de la Administración Pública Paraestatal, en materia de adquisiciones, arrendamientos y servicios; así como en materia de obra pública y los servicios relacionados con las mismas, se realice conforme al gasto público autorizado, y
 
-VII. Proponer las acciones necesarias para lograr la eficiencia y los objetivos en las operaciones de las entidades del sector paraestatal;
+XX. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
-VIII. Verificar que las operaciones de las entidades del sector paraestatal, sean congruentes con los procesos de planeación, programación, presupuestación, seguimiento, evaluación y rendición de cuentas;
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-IX. Formular con base en los resultados de las auditorías y evaluaciones realizadas, los informes que contengan las observaciones y recomendaciones preventivas y correctivas a las entidades del sector paraestatal, con el objeto de eficientar sus operaciones;
+###### Artículo 15 Bis 2.
 
-X. Informar al Subcontralor sobre los resultados de las auditorías, verificaciones, revisiones e inspecciones efectuadas para la instrumentación de las acciones y medidas preventivas y correctivas que sean pertinentes;
+El Director de Control y Auditoría de Obra Pública tendrá las siguientes facultades:
 
-XI. Analizar el contenido de los informes derivados de auditorías externas y, de acuerdo con sus resultados, proponer a la autoridad que corresponda las acciones y medidas preventivas y correctivas que sean pertinentes;
-
-XII. Vigilar que las entidades del sector paraestatal, cumplan con las disposiciones contenidas en los acuerdos y convenios de coordinación celebrados entre la Federación y el Estado, en donde se derive la inversión de fondos federales distintos de los de la obra pública y supervisar la correcta aplicación de los mismos;
-
-XIII. Vigilar que las entidades del sector paraestatal cumplan con las disposiciones contenidas en los convenios de coordinación entre el Estado y sus municipios, de donde derive la inversión de fondos estatales y federales distintos de los de la obra pública y supervisar la correcta aplicación de los mismos;
-
-XIV. Supervisar y evaluar las actividades y resultados de las entidades que sean sectorizadas a la Contraloría y Transparencia Gubernamental;
-
-XV. Turnar a la Dirección Jurídica, los informes y expedientes de auditoría, con presunta responsabilidad administrativa y/o penal;
-
-XVI. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de auditoría;
-
-XVII. Vigilar y verificar el cumplimiento de las disposiciones relativas a la planeación, programación y presupuestación de recursos de las entidades del sector paraestatal, en materia de adquisiciones, arrendamientos y servicios; así como en materia de obra pública y los servicios relacionados con las mismas, se realice conforme al gasto público autorizado, y
-
-XVIII. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
-
-###### Artículo 19.
-
-El Director de Auditoría en Educación tendrá las siguientes facultades:
-
-I. Llevar a cabo auditorías, verificaciones, fiscalizaciones y peritajes, a las entidades, instituciones y organismos del Sistema Educativo Estatal, con el propósito de revisar el cumplimiento de sus objetivos, promover la eficiencia y eficacia en sus operaciones y demás acciones inherentes a la unidad administrativa correspondiente;
-
-II. Vigilar el cumplimiento de las normas de control de las entidades, instituciones y organismos del Sistema Educativo Estatal, promoviendo la eficiencia en sus operaciones;
-
-III. Opinar sobre los proyectos normativos que regulen el funcionamiento de los procedimientos de control de la administración de los recursos humanos, financieros y materiales de las entidades, instituciones y organismos del Sistema Educativo Estatal;
-
-IV. Vigilar, evaluar y supervisar a las entidades, instituciones y organismos del Sistema Educativo Estatal con el fin de que se cumplan con las normas y disposiciones legales aplicables en materia de planeación, programación y presupuesto; administración de recursos humanos, financieros, materiales y de adquisición de bienes, contratación de arrendamientos y servicios;
-
-V. Verificar que se cumpla con la normatividad establecida para el manejo, administración, custodia y ejecución de los recursos humanos, financieros y materiales asignados a las entidades, instituciones y organismos del Sistema Educativo Estatal;
-
-VI. Efectuar auditorías a programas y de desempeño, a los sistemas de registro y control de los recursos humanos, financieros y materiales asignados a las entidades, instituciones y organismos del Sistema Educativo Estatal, con el propósito de verificar la correcta administración y aplicación de sus recursos y el cumplimiento de sus objetivos y programas;
-
-VII. Verificar que se cumpla con las disposiciones contenidas en los acuerdos y convenios celebrados entre la Federación, el Estado y los Municipios relativos al Sistema Educativo Estatal, en sus diferentes tipos, niveles y modalidades de educación;
-
-VIII. Formular con base en los resultados de las auditorías y evaluaciones realizadas, los informes de auditoría que contengan las observaciones y recomendaciones de carácter preventivo y correctivo a las entidades, instituciones y organismos del Sistema Educativo Estatal, con el objeto de incrementar la eficiencia operacional de los mismos;
-
-IX. Verificar que las operaciones de las entidades, instituciones y organismos del Sistema Educativo Estatal, sean congruentes con los procesos de planeación, programación, presupuestación, seguimiento, evaluación y rendición de cuentas, y evaluar los riesgos en caso de una deficiente operación;
-
-X. Informar al Subcontralor sobre los resultados de las auditorías, verificaciones, revisiones e inspecciones efectuadas para la instrumentación de las acciones y medidas preventivas y correctivas que sean pertinentes;
-
-XI. Turnar a la Dirección Jurídica, los informes y expedientes de auditoría, con presunta responsabilidad administrativa y/o penal;
-
-XII. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de auditoría;
-
-XIII. Vigilar y verificar el cumplimiento de las disposiciones relativas a la planeación, programación y presupuestación de recursos de las entidades, instituciones y organismos del Sistema Educativo Estatal, en materia de adquisiciones, arrendamientos y servicios; así como en materia de obra pública y los servicios relacionados con las mismas, se realice conforme al gasto público autorizado, y
-
-XIV. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
-
-###### Artículo 20.
-
-El Director de Auditoría en Salud tendrá las siguientes facultades:
-
-I. Vigilar el estricto cumplimiento de las normas de control para el manejo, administración, custodia y ejecución de los recursos asignados a las dependencias y entidades que integran el Sistema Estatal de Salud;
-
-II. Llevar a cabo auditorías, verificaciones, fiscalizaciones y peritajes a las dependencias y entidades del Sistema Estatal de Salud; con el propósito de revisar el cumplimiento de sus objetivos, promoviendo la eficiencia en sus operaciones;
-
-III. Llevar a cabo labores de inspección, vigilancia, verificación, fiscalización y supervisión de las dependencias y entidades del Sistema Estatal de Salud, a efecto de confirmar que se cumplan con las normas y disposiciones en materia de contratación y remuneraciones al personal;
-
-IV. Verificar y revisar los procedimientos de altas, bajas y modificaciones del personal de las dependencias y entidades del Sistema Estatal de Salud;
-
-V. Verificar que las dependencias y entidades del Sistema Estatal de Saud (sic), cumplan con la normatividad establecida, para el trámite de permisos, incapacidades médicas, pagos extraordinarios, pensiones alimenticias y descuentos por faltas y retardos;
-
-VI. Efectuar auditorías a los recursos humanos, financieros y materiales asignados a las dependencias y entidades del Sistema Estatal de Salud;
-
-VII. Verificar que las dependencias y entidades del Sistema Estatal de Salud, cumplan con las disposiciones contenidas en los acuerdos y convenios celebrados entre la Federación, el Estado y los Municipios, que involucren a las dependencias y entidades del Sistema Estatal de Salud;
-
-VIII. Formular con base en los resultados de las auditorías y evaluaciones realizadas, los informes que contengan las observaciones, acciones y recomendaciones de carácter preventivo y correctivo a las dependencias y entidades que integran el Sistema Estatal de Salud, con el objeto de incrementar la eficiencia operacional de los mismos;
-
-IX. Verificar que las operaciones de las dependencias y entidades que integran el Sistema Estatal de Salud, sean congruentes con los procesos de planeación, programación, presupuestación, seguimiento, evaluación y rendición de cuentas;
-
-X. Informar al Subcontralor sobre los resultados de las auditorías, verificaciones, revisiones e inspecciones efectuadas a las dependencias y entidades del Sistema Estatal de Salud, para la instrumentación de las acciones y medidas preventivas y correctivas que sean pertinentes;
-
-XI. Analizar el contenido de los informes derivados de las auditorías y, de acuerdo con sus resultados, proponer a la autoridad que corresponda las acciones preventivas y medidas correctivas que sean pertinentes;
-
-XII. Turnar a la Dirección Jurídica, los informes y expedientes de auditoría, con presunta responsabilidad administrativa y/o penal;
-
-XIII. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de auditoría;
-
-XIV. Vigilar y verificar el cumplimiento de las disposiciones relativas a la planeación, programación y presupuestación de recursos de las dependencias y entidades del Sistema Estatal de Salud, en materia de adquisiciones, arrendamientos y servicios; así como en materia de obra pública y los servicios relacionados con las mismas, se realice conforme al gasto público autorizado, y
-
-XV. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
-
-###### Artículo 21.
-
-El Director de Auditoría de Obra Pública tendrá las siguientes facultades:
-
-I. Llevar a cabo auditorías, verificaciones y peritajes, para que las obras públicas y servicios relacionados con las mismas, se realicen de acuerdo a la planeación, programación, presupuestación, ejecución y especificaciones convenidas, supervisándolas directamente o a través de los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal, verificando desde la aprobación, adjudicación, contratación, pago de anticipo y de estimaciones, hasta su finiquito y entrega de las mismas, sin demérito de la responsabilidad de la dependencia o entidad encargada de la ejecución de la obra;
+I. Llevar a cabo revisiones, auditorías, verificaciones, acciones de vigilancia y peritajes, para que las obras públicas y servicios relacionados con las mismas se realicen de acuerdo a la planeación, programación, presupuestación, ejecución y especificaciones convenidas, supervisándolas directamente o a través de los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal, verificando desde la aprobación, adjudicación, contratación, pago de anticipo y de estimaciones, hasta su finiquito y entrega de las mismas, sin demérito de la responsabilidad de la dependencia o entidad encargada de la ejecución de la obra;
 
 II. Llevar a cabo actividades de inspección y supervisión, directamente o a través de los órganos de control interno de las dependencias y entidades de la Administración Pública Estatal, a efecto de verificar que en la ejecución de las obras públicas y servicios relacionados con las mismas, se cumpla con las leyes, normas y demás disposiciones legales aplicables y con los objetivos y metas propuestas;
 
@@ -609,9 +561,9 @@ III. Vigilar el exacto cumplimiento de las disposiciones contenidas en los acuer
 
 IV. Vigilar que se cumplan las disposiciones contenidas en los convenios de coordinación, que el Estado celebre con los Municipios en la Entidad, de donde se derive la inversión de fondos estatales y federales para la realización de obras públicas y servicios relacionados con las mismas, verificando su correcta aplicación;
 
-V. Informar al Subcontralor sobre el resultado de las auditorías, revisiones, peritajes, inspecciones, fiscalizaciones y evaluaciones de las obras públicas y servicios relacionados con las mismas; la instrumentación de acciones y medidas preventivas y correctivas que sean necesarias;
+V. Informar al Contralor General, sobre el resultado de las auditorías, revisiones, verificaciones, acciones de vigilancia, peritajes, inspecciones, fiscalizaciones y evaluaciones de las obras públicas y servicios relacionados con las mismas y la instrumentación de acciones y medidas preventivas y correctivas que sean necesarias;
 
-VI. Formular, con base en los resultados de las auditorías realizadas, los informes que contengan las observaciones y recomendaciones preventivas y correctivas hechas a las dependencias y entidades de la Administración Pública Estatal;
+VI. Formular con base en los resultados de las revisiones, auditorías verificaciones y acciones de vigilancia realizadas de las obras públicas y servicios relacionados con las mismas, los informes que contengan las observaciones y recomendaciones preventivas y correctivas hechas a las dependencias y entidades de la Administración Pública Estatal;
 
 VII. Vigilar que los contratistas, cumplan con los requisitos que establecen las disposiciones legales aplicables para realizar obras públicas y servicios relacionados con las mismas;
 
@@ -623,11 +575,39 @@ X. Cumplir con los acuerdos, compromisos y programas de trabajo convenidos con l
 
 XI. Proporcionar apoyo técnico, capacitación y asesoría a los contralores sociales de los distintos comités comunitarios y consejos de desarrollo municipales;
 
-XII. Turnar a la Dirección Jurídica, los informes y expedientes de auditoría, con presunta responsabilidad administrativa y/o penal;
+XII. Turnar a la Dirección Jurídica, los informes y expedientes de revisiones, auditorías, verificaciones y acciones de vigilancia de las obras públicas y servicios relacionados con las mismas, con presunta responsabilidad administrativa y/o penal;
 
-XIII. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de auditoría, y
+XIII. Llevar el seguimiento de las recomendaciones preventivas y correctivas propuestas en los informes de revisiones, auditorías, verificaciones y acciones de vigilancia de las obras públicas y servicios relacionados con las mismas, y
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+
+### CAPÍTULO VI. DEL SUBCONTRALOR
+
+###### Artículo 16.
+
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
+
+### CAPÍTULO VII. DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA SUBCONTRALORÍA
+
+###### Artículo 17.
+
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
+
+###### Artículo 18.
+
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
+
+###### Artículo 19.
+
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
+
+###### Artículo 20.
+
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
+
+###### Artículo 21.
+
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
 
 ### CAPÍTULO VIII. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
@@ -637,13 +617,17 @@ Previo acuerdo del Ejecutivo del Estado, la Contraloría y Transparencia Guberna
 
 ### CAPÍTULO IX. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 23.
 
-El Contralor General, en sus ausencias temporales menores de quince días será suplido por el funcionario de la Contraloría y Transparencia Gubernamental que el propio Contralor designe. Cuando la ausencia sea mayor, el Gobernador del Estado designará al servidor público que lo suplirá.
+El Contralor General, en sus ausencias temporales menores de quince días será suplido por el funcionario de la Contraloría y Transparencia Gubernamental que el propio Contralor designe. Cuando la ausencia sea mayor, el Gobernador del Estado podrá designar a un encargado del Despacho hasta en tanto se reincorpora el Titular de la Dependencia, o se designe a un Titular, según sea el caso.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 24.
 
-Las ausencias temporales del Subcontralor o de los Directores, serán cubiertas por el servidor público que designe el Contralor General.
+En las ausencias temporales de alguno de los Directores, el Contralor General designará un encargado del despacho, para que funja con todas las facultades que corresponden al titular de la Dirección.
 
 ## TRANSITORIOS
 
@@ -668,3 +652,9 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. CONTRALOR GENERAL
 
 JORGE MANJARREZ RIVERA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
