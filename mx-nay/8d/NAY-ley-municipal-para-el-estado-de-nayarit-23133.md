@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2013-10-04"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -689,7 +689,9 @@ m) En los términos de ley, autorizar la creación, ampliación y transferencia 
 
 n) Publicar mensualmente, en las oficinas del despacho administrativo donde funciona el Ayuntamiento, y en los lugares públicos del municipio, el estado de origen y aplicación de fondos;
 
-o) Vigilar, por medio de las comisiones competentes, que quienes manejan valores municipales, caucionen su manejo;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+o) Vigilar, por medio de las comisiones competentes, que quienes manejan valores municipales lo hagan conforme a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen el servicio público;
 
 p) Aceptar las donaciones o legados a favor del municipio;
 
@@ -1459,7 +1461,25 @@ I.- Los Consejos de Colaboración Municipal se integrarán en las regiones y loc
 
 II.- El presidente del Consejo será designado por el Ayuntamiento a propuesta del Presidente Municipal;
 
-III.- Los Comités de Acción Ciudadana se nombrarán por elección directa y democrática de los vecinos del municipio, con base en la convocatoria y requisitos que expida el Ayuntamiento; la elección se llevará a cabo en los primeros 60 días del ejercicio constitucional; durarán en su cargo tres años, pero serán removidos cuando exista causa grave en el ejercicio de sus funciones, la que calificará el Ayuntamiento;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+III.- Los Comités de Acción Ciudadana se integrarán por ciudadanos vecinos de los barrios, colonias, fraccionamientos, comunidades rurales y centros urbanos de población del Municipio, con el objeto de fortalecer el régimen de participación ciudadana, vinculando las necesidades de los pobladores a través de gestiones hacia los gobernantes, propiciando asimismo la colaboración directa y efectiva de los ciudadanos en la solución de las demandas y necesidades de su propia comunidad.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Su objetivo principal será colaborar en coordinación con los Ayuntamientos en la promoción, ejecución y mantenimiento de obras de infraestructura, equipamiento y prestación de servicios públicos municipales necesarios para la convivencia de los habitantes y para el desarrollo de mejores condiciones de vida en los asentamientos humanos del municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los Comités de Acción Ciudadana podrán constituir Centros de Convivencia Vecinal que tendrán como finalidad asegurar la constante participación ciudadana y vecinal en las actividades socio-culturales del municipio mediante la implementación de actividades culturales, ambientales, deportivas y de integración social.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+El Ayuntamiento implementará el reglamento correspondiente en el cual se establecerán las atribuciones y obligaciones de quienes participen de manera directa en las actividades relacionadas a los Comités de Acción Ciudadana.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los integrantes de los Comités de Acción Ciudadana se nombrarán por elección directa y democrática de los vecinos del municipio, con base en la convocatoria y requisitos que expida el Ayuntamiento; la elección se llevará a cabo en los primeros 60 días del ejercicio constitucional; durarán en su cargo tres años, pero serán removidos cuando exista causa grave en el ejercicio de sus funciones, la que calificará el Ayuntamiento.
 
 IV.- Los organismos auxiliares podrán aceptar y administrar recursos económicos con la obligación de destinatario a las obras o servicios públicos que sean de interés y beneficio general; debiendo informar y comprobar periódicamente el Ayuntamiento su manejo y aplicación; sus actividades de promoción, gestión y ejecución serán en apego a los planes y programas aprobados por el Ayuntamiento; se concede acción popular para denunciar o demandar las irregularidades en que incurrieren los miembros de los organismos auxiliares, con la intervención de la Dirección de la Contraloría y Desarrollo Administrativo municipal;
 
@@ -1477,13 +1497,39 @@ e) Proponer al Presidente Municipal proyectos de reglamentos y opinar sobre la a
 
 f) Realizar actividades sociales, siempre y cuando estén autorizadas por el Ayuntamiento o por el Presidente Municipal, en su caso, realizando estas actividades en el marco de las leyes vigentes en el estado;
 
-g) Recabar y administrar los fondos provenientes de festejos públicos o sociales, informando mensualmente a la comunidad, así como al Ayuntamiento, sobre los resultados de su trabajo, incluyendo los cortes de caja debidamente requisitados; y
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-h) Participar en la organización de los actos cívicos y culturales que promueva el Ayuntamiento.
+g) Recabar y administrar los fondos provenientes de festejos públicos o sociales, informando mensualmente a la comunidad, así como al Ayuntamiento, sobre los resultados de su trabajo, incluyendo los cortes de caja debidamente requisitados;
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+h) Participar en la organización de los actos cívicos y culturales que promueva el Ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+i) Colaborar en la difusión y realización de eventos deportivos realizados por el Ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+j) Fomentar las acciones de conservaciones de los elementos ecológicos y de mejoramiento del medio ambiente;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+k) Informar al Ayuntamiento, semestralmente o cuando fuere requerido por éste sobre el estado financiero de los servicios públicos que llegaren a administrar;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+l) Pedir autorización expresa para disponer de los bienes inmuebles propiedad del fundo municipal para la prestación de servicios que beneficien a la comunidad, y
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+m) Las demás que señale el reglamento que para tales efectos expida el Ayuntamiento.
 
 VI.- Los organismos auxiliares fungirán como las únicas instancias de coordinación entre el Ayuntamiento y los pueblos de sus demarcaciones.
 
-La violación a la presente ley y sus reglamentos, o la falta de acatamiento de los acuerdos del Ayuntamiento o las instrucciones del Presidente Municipal por las autoridades y organismos auxiliares, serán sancionadas con remoción, cubriendo los procedimientos previstos en esta ley y su reglamento.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+La violación a la presente ley y su reglamento, o la falta de acatamiento de los acuerdos del Ayuntamiento o las instrucciones del Presidente Municipal por las autoridades y organismos auxiliares, serán sancionadas con remoción, de conformidad a los procedimientos previstos para tal fin.
 
 ### CAPÍTULO V. Del cronista municipal
 
@@ -1583,9 +1629,9 @@ d) No haber sido condenado por delito intencional que amerite pena corporal de m
 
 e) Tener un modo de vida honesto; y (sic)
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-f) Caucionar el manejo de fondos, cuando corresponda al tipo de función a desempeñar; y
+f) Poseer la cualidad necesaria para el desempeño del cargo apegándose a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen en el servicio público, y
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -1763,9 +1809,11 @@ XXIV.- Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPÍTULO IV. De la Dirección de Contraloría y Desarrollo Administrativo
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### ARTICULO 118.
 
-La Dirección de Contraloría y Desarrollo Administrativo es la dependencia del Ayuntamiento responsable de establecer los sistemas de planeación y organización del control, evaluación y vigilancia de los actos administrativos del gobierno municipal. Esta dependencia tendrá como superior jerárquico a la Comisión de Hacienda y Cuenta Pública. Su titular deberá reunir los mismos requisitos que para ser Tesorero Municipal, a excepción de la caución correspondiente.
+La Dirección de Contraloría y Desarrollo Administrativo es la dependencia del Ayuntamiento responsable de establecer los sistemas de planeación y organización del control, evaluación y vigilancia de los actos administrativos del gobierno municipal. Esta dependencia tendrá como superior jerárquico a la Comisión de Hacienda y Cuenta Pública. Su titular deberá reunir los mismos requisitos que para ser Tesorero Municipal.
 
 ###### ARTICULO 119.
 
@@ -3329,11 +3377,15 @@ Los procedimientos de suspensión de Ayuntamientos, o suspensión o revocación 
 
 I.- El Gobernador del Estado;
 
-II.- Cualquiera de los diputados;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II.- La mayoría simple de los diputados integrantes de la Legislatura;
 
 III.- El ocho por ciento de los ciudadanos del municipio correspondiente, quienes deberán nombrar un comité promotor integrado por cinco personas, nombrando entre ellas a un representante común;
 
-IV.- Cualquier miembro del Ayuntamiento.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+IV.- La mayoría simple de los integrantes del Ayuntamiento respectivo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -3676,3 +3728,9 @@ P.O. 4 DE OCTUBRE DE 2013.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Los ayuntamientos deberán modificar sus ordenamientos internos en lo conducente, a fin de armonizarlos con lo dispuesto en la fracción X del artículo 103 de la presente ley, dentro de los 180 días naturales contados a partir de su entrada en vigor.
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Tratándose de las fracciones III, V y VI del artículo 106, los Municipios de la entidad deberán realizar las reformas a la reglamentación correspondiente en un plazo no mayor a sesenta días posteriores a la entrada en vigor de la presente reforma.
