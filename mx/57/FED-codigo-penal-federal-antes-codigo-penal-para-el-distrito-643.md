@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2013-06-07"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2013.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1282,6 +1282,12 @@ I. Por los delitos de carácter político a que alude el artículo 144 de este C
 II. Por otros delitos cuando la conducta de los responsables haya sido determinada por motivaciones de carácter político o social, y
 
 III. Por delitos de orden federal o común en el Distrito Federal, cuando el sentenciado haya prestado importantes servicios a la Nación, y previa solicitud.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 97 bis.- De manera excepcional, por sí o a petición del Pleno de alguna de las Cámaras del Congreso de la Unión, el Titular del Poder Ejecutivo Federal podrá conceder el indulto, por cualquier delito del orden federal o común en el Distrito Federal, y previo dictamen del órgano ejecutor de la sanción en el que se demuestre que la persona sentenciada no representa un peligro para la tranquilidad y seguridad públicas, expresando sus razones y fundamentos, cuando existan indicios consistentes de violaciones graves a los derechos humanos de la persona sentenciada.
+
+El Ejecutivo Federal deberá cerciorarse de que la persona sentenciada haya agotado previamente todos los recursos legales nacionales.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
@@ -6852,3 +6858,7 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 30 DE OCTUBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
