@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-93378"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2013-03-28"
+last_updated: "2013-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-EXPLORACIÓN Y PRODUCCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2013.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de marzo de 2013.
 
@@ -1016,6 +1016,10 @@ XIX. Las que le asigne o delegue expresamente el Director General o el subdirect
 XX. Las demás señaladas en el presente Estatuto y en otros ordenamientos jurídicos aplicables.
 
 Las funciones señaladas en las fracciones I a IX, XI y XIX del presente artículo, son indelegables, con excepción del segundo párrafo de la fracción V, que será delegable.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2013)</small>
+
+Las facultades, funciones y responsabilidades asignadas a los gerentes en el presente artículo y demás que señale el Estatuto, se confieren asimismo a los administradores de los activos, señalados en el artículo 34, fracciones VI, numerales 5, 6, 7, 8 y 9, VII, numerales 3, 4, 5 y 6, VIII, numerales 3, 4, 5 y 6, IX, numerales 3 y 4, y X, numerales 3 y 4 de este Estatuto. Cualquier mención que de manera genérica se haga a los gerentes, se entenderá referida también a los administradores de los activos.
 
 ###### Artículo 32.
 
@@ -2057,7 +2061,13 @@ III. Integrar y analizar la información de la evaluación del desempeño de las
 
 ###### Artículo 91.
 
-La Gerencia de Perforación y Reparación de Pozos tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 30 DE OCTUBRE DE 2013)
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 91 Bis.
+
+La Gerencia de Perforación y Reparación de Pozos Terrestre, dentro del ámbito de competencia territorial de las Regiones Norte y Región Sur, tendrá las funciones siguientes:
 
 I. Establecer las estrategias de perforación, terminación y reparación de pozos;
 
@@ -2068,6 +2078,40 @@ III. Establecer el programa de suministros a los equipos de perforación, termin
 IV. Establecer directrices para la homologación y actualización de procedimientos operativos de los equipos de perforación, terminación y reparación de pozos, y
 
 V. Atender las contingencias asociadas a la intervención de pozos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 91 Ter.
+
+La Gerencia de Perforación y Reparación de Pozos Marina dentro del ámbito de competencia territorial de las Regiones Norte, Noreste y Suroeste, tendrá las funciones siguientes
+
+I. Establecer las estrategias de perforación, terminación y reparación de pozos;
+
+II. Llevar a cabo la perforación, terminación y reparación de pozos;
+
+III. Establecer el programa de suministros a los equipos de perforación, terminación y reparación de pozos y verificar su cumplimiento;
+
+IV. Establecer directrices para la homologación y actualización de procedimientos operativos de los equipos de perforación, terminación y reparación de pozos, y
+
+V. Atender las contingencias asociadas a la intervención de pozos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 91 Quater.
+
+La Gerencia de Bases Técnicas y Supervisión de Contratos, tendrá las funciones siguientes:
+
+I. Identificar, instrumentar y desarrollar las estrategias para la contratación, así como evaluar su factibilidad económica, financiera y técnica en la Unidad de Negocio de Perforación.
+
+II. Coordinar la planeación de requerimientos de equipos, materiales y servicios que requiere la Unidad de Negocio de Perforación.
+
+III. Elaborar bases técnicas para la contratación y adquisición de equipos, materiales y servicios, que requiere la Unidad de Negocio de Perforación.
+
+IV. Gestionar ante la Subdirección de Administración y Finanzas los procesos de contratación de la Unidad de Negocio de Perforación, participando en la evaluación técnica.
+
+V. Supervisar la ejecución de los contratos de equipos, materiales y servicios que requiera la Unidad de Negocio de Perforación.
+
+VI. Evaluar y dar seguimiento físico, financiero, operativo y de seguridad a los contratos de la Unidad de Negocio de Perforación.
 
 ###### Artículo 92.
 
@@ -2796,3 +2840,33 @@ SEXTO. La estructura orgánica autorizada deberá presentarse para su registro a
 El presente Estatuto Orgánico de Pemex-Exploración y Producción, fue aprobado por el Consejo de Administración de Pemex-Exploración y Producción, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por objeto establecer la estructura, el funcionamiento y el control de los organismos subsidiarios de Petróleos Mexicanos, en sesión ordinaria 157 celebrada el día 21 de marzo de 2013, mediante acuerdo número CAPEP-013/2013.
 
 Ciudad de México, D.F., a 21 de marzo de 2013.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE OCTUBRE DE 2013.
+
+SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 31 DEL ESTATUTO ORGÁNICO DE PEMEX-EXPLORACIÓN Y PRODUCCIÓN.
+
+ÚNICO. Las presentes modificaciones al Estatuto Orgánico de Pemex-Exploración y Producción entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Las presentes adiciones al Estatuto Orgánico de Pemex-Exploración y Producción, fueron aprobadas por el Consejo de Administración de Pemex-Exploración y Producción, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por Objeto establecer la estructura, el funcionamiento y el control de los Organismos Subsidiarios de Petróleos Mexicanos, en sesión ordinaria 161 celebrada el día 27 de agosto de 2013, mediante acuerdo número CAPEP-079/2013.
+
+D.O.F. 30 DE OCTUBRE DE 2013.
+
+SE DEROGA EL ARTÍCULO 91 Y SE ADICIONAN LOS ARTÍCULOS 91 BIS, 91 TER, Y 91 QUATER DEL ESTATUTO ORGÁNICO DE PEMEX-EXPLORACIÓN Y PRODUCCIÓN.
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex-Exploración y Producción entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de Pemex-Exploración y Producción que cambian de denominación por virtud de las presentes modificaciones del Estatuto Orgánico de Pemex-Exploración y Producción, se entenderán hechas o conferidas a las unidades administrativas que corresponda conforme a dichas modificaciones.
+
+TERCERO. Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor de las presentes modificaciones del Estatuto Orgánico de Pemex-Exploración y Producción, se tramitarán y resolverán por la unidad administrativa de Pemex-Exploración y Producción que tenga para estos efectos la competencia que corresponda, conforme a dichas modificaciones.
+
+CUARTO. En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven de las presentes modificaciones continuarán siendo aplicables, en lo conducente, los acuerdos expedidos con anterioridad a la entrada en vigor de dichas modificaciones, en lo que no se oponga al mismo.
+
+QUINTO.- La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura no implicará ningún incremento al presupuesto global regularizable de servicios personales o en el número total de plazas de Pemex-Exploración y Producción.
+
+SEXTO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
+
+SÉPTIMO. Las unidades administrativas correspondientes propondrán, en los casos que sea necesario, las modificaciones a las disposiciones y normas que correspondan.
+
+Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Pemex-Exploración y Producción, fueron aprobadas por el Consejo de Administración de Pemex-Exploración y Producción, con fundamento en el artículo Décimo Tercero, fracción XI, del Decreto que tiene por Objeto establecer la estructura, el funcionamiento y el control de los Organismos Subsidiarios de Petróleos Mexicanos, en sesión ordinaria 161 celebrada el día 27 de agosto de 2013, mediante acuerdo número CAPEP-072/2013.
