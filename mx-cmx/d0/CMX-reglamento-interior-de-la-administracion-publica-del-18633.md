@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-10-15"
+last_updated: "2013-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE OCTUBRE DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -712,6 +712,18 @@ XIX. A la Secretaría de Desarrollo Rural y Equidad para las Comunidades:
 
 2.- Dirección General de Equidad para los Pueblos y Comunidades;
 
+> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+XX. A la Secretaría de Ciencia, Tecnología e Innovación:
+
+1.- Dirección General de Ciencia y Tecnología;
+
+2.- Dirección General de Innovación;
+
+3.- Dirección General de Gestión, Planeación y Políticas en Ciencia, Tecnología e Innovación, y
+
+4.- Dirección Ejecutiva de Asuntos Jurídicos y Normatividad.
+
 ###### Artículo 8º.
 
 Las atribuciones genéricas y específicas señaladas para las Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo, podrán ser ejercidas de manera directa por los titulares de las Dependencias en el ámbito de su competencia, cuando así lo estimen conveniente.
@@ -740,7 +752,9 @@ II. De Desarrollo Económico Sustentable, integrado por las Secretarías de, Des
 
 III. De Equidad y Desarrollo Social, integrado por las Secretarías de, Desarrollo Social; Salud; Desarrollo Rural y Equidad para las Comunidades; el Instituto de las Mujeres y la Procuraduría Social;
 
-IV. De Educación, Cultura y Ciencia y Tecnología, integrado por las Secretarías de, Educación; Cultura y el Instituto de Ciencia y Tecnología;
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+IV. De Educación, Cultura y Ciencia y Tecnología, integrado por las Secretarías de, Educación; Cultura; y Ciencia, Tecnología e Innovación.
 
 V. De Nuevo Orden Urbano y Desarrollo Sustentable, integrado por las Secretarías de, Desarrollo Urbano y Vivienda; Medio Ambiente; Obras y Servicios; y Transporte y Vialidad;
 
@@ -9986,6 +10000,8 @@ XXVII. Proponer la celebración de convenios de colaboración con instituciones 
 
 XXVIII. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
 
+XXIX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2013)
+
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 119 Octies.
@@ -10019,6 +10035,8 @@ XII. Impulsar la educación básica indígena, buscando preservar sus tradicione
 XIII. Participar en el ámbito de su competencia en la dotación de libros de texto gratuitos para los estudiantes de educación básica, así como de materiales educativos, individuales y colectivos; y
 
 XIV. Las demás atribuciones que les sean conferidas por su superior jerárquico y/o se establezcan en otros ordenamientos.
+
+XV. (DEROGADA, G.O. 15 DE OCTUBRE DE 2013)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE OCTUBRE DE 2013)</small>
 
@@ -10198,7 +10216,7 @@ XV. Implementar el programa de evaluación de la calidad de los servicios educat
 
 XVI. Desarrollar y facilitar en todas las áreas de la Secretaría el uso de normas, metodologías y herramientas de evaluación de la calidad de los servicios educativos del Distrito Federal para su mejoramiento;
 
-XVII. Diseñar planes y estrategias que permita (sic) evaluar la calidad de los servicios educativos del Distrito Federal;
+XVII. Diseñar planes y estrategias que permita evaluar la calidad de los servicios educativos del Distrito Federal;
 
 XVIII. Valorar periódica y sistemáticamente los resultados de la evaluación de los servicios educativos y sugerir las adecuaciones para el mejoramiento de los mismos;
 
@@ -10330,13 +10348,179 @@ X. Establecer los canales para fomentar el intercambio económico y cultural con
 
 XI. Promover la difusión de las distintas manifestaciones artísticas y culturales de las comunidades étnicas.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+#### SECCIÓN XIX. DE LA SECRETARÍA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+Artículo 119 Duodecies.- Corresponde a la Dirección General de Ciencia y Tecnología:
+
+I. Proponer al titular de la Secretaría la suscripción de convenios de coordinación y colaboración con la Administración Pública Local, Escuelas y, en general con cualquier Institución Pública o Privada para el establecimiento de políticas, programas y apoyos destinados a impulsar el desarrollo científico y tecnológico en el Distrito Federal;
+
+II. Instrumentar y participar en la celebración de convenios de coordinación y colaboración con los distintos órdenes de gobierno, los sectores sociales y las instituciones científicas y académicas en materia de ciencia y tecnología que sean contemplados dentro del universo de trabajo de la Secretaría;
+
+III. Instrumentar los mecanismos para el desarrollo y la vinculación de la ciencia básica y el desarrollo tecnológico que fomenten la mejora de la calidad del Sistema Educativo del Distrito Federal, en coordinación con la Secretaría de Educación del Distrito Federal;
+
+IV. Diseñar en coordinación con la Dirección General de Gestión, Planeación y Políticas en Ciencia, Tecnología e Innovación los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos científicos y tecnológicos, para someterlos a aprobación del Consejo de Fomento y Desarrollo Científico, Tecnológico e Innovación del Distrito Federal;
+
+V. Participar en los grupos de trabajo que se integren para la evaluación, aprobación y seguimiento de los proyectos científicos y tecnológicos prioritarios;
+
+VI. Supervisar, de conformidad con la normatividad de la materia, el desarrollo de los proyectos científicos y tecnológicos que sean autorizados;
+
+VII. Coordinar el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos científicos y tecnológicos catalogados como prioritarios a cargo de la Secretaría;
+
+VIII. Ejecutar el subprograma de formación, apoyo y desarrollo de académicos, científicos, tecnólogos y profesionales de alto nivel académico, en el ámbito de su competencia;
+
+IX. Proponer acciones para la organización de ferias, exposiciones y congresos relacionados con la ciencia y la tecnología;
+
+X. Diseñar los lineamientos para la creación, regulación y extinción de los centros públicos de investigación del Gobierno del Distrito Federal para su aprobación por el Consejo de Fomento y Desarrollo Científico, Tecnológico e Innovación del Distrito Federal;
+
+XI. Llevar a cabo la supervisión y control de los lineamientos para la creación, regulación y extinción de los centros públicos de investigación del Gobierno del Distrito Federal;
+
+XII. Atender las consultas que realicen las Dependencias y Entidades de la Administración Pública del Distrito Federal sobre la instrumentación de los proyectos científicos o tecnológicos, así como las que formulen las Delegaciones, las personas físicas y los organismos de los sectores social o privado en esta materia;
+
+XIII. Proponer al Secretario las políticas y programas de divulgación y fomento a la cultura científica;
+
+XIV. Divulgar los programas prioritarios y las implicaciones del desarrollo de la ciencia y la tecnología en el Distrito Federal;
+
+XV. Establecer un sistema de información de la infraestructura de los centros e instituciones públicas de investigación y de la producción científica generada en el Distrito Federal, para implementar el Programa de Información Científica, Tecnológica e Innovación del Distrito Federal;
+
+XVI. Incentivar el desarrollo de las actividades científicas y tecnológicas en proyectos relacionados con el medio ambiente, desarrollo social y desarrollo urbano en el Distrito Federal;
+
+XVII. Impulsar la identificación de oportunidades de desarrollo y factibilidad de nuevas tecnologías para el fortalecimiento de la infraestructura tecnológica y de servicios en el Distrito Federal;
+
+XVIII. Impulsar y promover el establecimiento de redes científicas y tecnológicas a fin de establecer sistemas de cooperación en esas materias;
+
+XIX. Establecer los mecanismos de coordinación con las diferentes instituciones del Sistema Educativo del Distrito Federal, con la finalidad de brindarles la asistencia que requieran en temas vinculados con intercambio de profesores e investigadores, así como elaboración de programas, otorgamiento de becas, sistemas de información y documentación y servicios de apoyo relativos al desarrollo de la ciencia y la tecnología;
+
+XX. Establecer en coordinación con la Secretaría de Desarrollo Económico del Distrito Federal los mecanismos que permitan incentivar el desarrollo y la inversión productiva en materia de ciencia y tecnología;
+
+XXI. Planear, promover y evaluar actividades relativas a la cooperación en materia de ciencia, tecnología e innovación en el Distrito Federal;
+
+XXII. Promover convocatorias dirigidas a la comunidad científica y académica para fomentar la creación de grupos de investigación de alto nivel orientados a la búsqueda de soluciones a los principales problemas de la Ciudad de México;
+
+XXIII. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones los servidores públicos que le están subordinados, y
+
+XXIV. Las demás que le encomiende el Secretario y la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+Artículo 119 Terdecies.- Corresponde a la Dirección General de Innovación:
+
+I. Instrumentar las acciones que permitan generar proyectos innovadores que contribuyan a la creación, mejora, desarrollo o modernización de procesos, bienes o servicios que beneficien a la ciudadanía;
+
+II. Proponer al titular de la Secretaría la suscripción de convenios de coordinación y colaboración con la Administración Pública Local, el sector social o las instituciones públicas o privadas para el establecimiento de programas y apoyos destinados a impulsar el desarrollo de la innovación, la propiedad intelectual, las patentes y la transferencia tecnológica en el Distrito Federal;
+
+III. Instrumentar y participar en la celebración de convenios de coordinación y colaboración con los distintos órdenes de gobierno, los sectores sociales y las instituciones científicas y académicas en materia de innovación;
+
+IV. Diseñar en coordinación con la Dirección General de Gestión, Planeación y Políticas en Ciencia, Tecnología e Innovación los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos innovadores que contribuyan a la creación, mejora, desarrollo o modernización de procesos, productos o servicios que beneficien a la ciudadanía;
+
+V. Coordinar el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos innovadores catalogados como prioritarios a cargo de la Secretaría;
+
+VI. Ejecutar el subprograma de formación, apoyo y desarrollo de científicos, académicos, tecnólogos, investigadores y profesionales de alto nivel académico, en el ámbito de su competencia;
+
+VII. Promover la participación de la comunidad científica y de los sectores público, social y privado para el desarrollo, aplicación y fomento de los programas y proyectos de innovación;
+
+VIII. Proponer al Secretario y al Consejo las políticas públicas y lineamientos para favorecer las actividades de innovación, propiedad intelectual y de patentes;
+
+IX. Establecer mecanismos de colaboración con la Administración Pública Local y los Órganos Político Administrativos necesarios para promover la realización de programas y la asignación de recursos en materia de innovación;
+
+X. Atender las consultas que realicen las Dependencias y Entidades de la Administración Pública del Distrito Federal sobre la instrumentación de los proyectos de innovación, así como las que formulen las Delegaciones, las personas físicas y los organismos de los sectores social o privado en esta materia;
+
+XI. Promover la cultura del registro de los productos o procedimientos que descubran o desarrollen las personas físicas o morales que realicen sus actividades en el Distrito Federal para proteger la propiedad intelectual y las patentes;
+
+XII. Realizar los estudios y actividades necesarias para que la Secretaría brinde los apoyos relacionados con la Propiedad Industrial y de Patentes en el Distrito Federal;
+
+XIII. Proponer la implementación de programas que permitan que los proyectos de innovación que lleve a cabo la Secretaría incidan en el desarrollo de inversiones estratégicas en el Distrito Federal;
+
+XIV. Impulsar la innovación de la infraestructura tecnológica y de servicios públicos con apoyos otorgados por la Secretaría;
+
+XV. Fomentar entre los Entes públicos o privados el intercambio de investigadores, científicos, académicos o profesionistas de alto nivel en materia de innovación, cumpliendo para ello con los requisitos para el otorgamiento de apoyos en las carreras de investigación con proyección internacional encaminados a cumplir con los fines de la Secretaría;
+
+XVI. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones los servidores públicos que le están subordinados, y
+
+XVII. Las demás que le sean encomendadas por el Titular de la Secretaría y la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+Artículo 119 Quaterdecies.- Corresponde a la Dirección General de Gestión, Planeación y Políticas en Ciencia, Tecnología e Innovación:
+
+I. Diseñar en coordinación con las Direcciones Generales de Ciencia y Tecnología y la de Innovación los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos científicos, tecnológicos y de innovación;
+
+II. Diseñar y ejecutar los mecanismos de vinculación institucional con los centros de investigación, la comunidad científica, las delegaciones políticas, la sociedad civil y los sectores académico y productivo en materia de ciencia, tecnología e innovación en beneficio de la Ciudad de México;
+
+III. Coadyuvar en la elaboración y evaluación del Programa General de Desarrollo del Distrito Federal en las materias de Ciencia, Tecnología e Innovación;
+
+IV. Coordinar las actividades que realicen los Comités de Fomento y Desarrollo Científico, Tecnológico e Innovación Delegacionales en materia de planeación;
+
+V. Coordinar la elaboración de los Programas Sectoriales del Distrito Federal en materia de ciencia, tecnología e innovación;
+
+VI. Evaluar y dar seguimiento al Programa de Ciencia, Tecnología e Innovación del Distrito Federal y establecer con las unidades administrativas competentes de la Secretaría, los objetivos y metas específicas para asegurar la ejecución del Programa;
+
+VII. Coordinar la ejecución de las políticas y lineamientos en materia de planeación en los temas de ciencia, tecnología e innovación que establezca el Secretario;
+
+VIII. Implementar los mecanismos en materia de modernización administrativa para mejorar los diversos servicios y trámites que otorga la Secretaría;
+
+IX. Fomentar la aplicación y el desarrollo de tecnologías de la Información y Comunicación en temas estratégicos para la ciudad;
+
+X. Asesorar y en su caso, apoyar los proyectos de investigación y desarrollo tecnológico en torno al tema de la sociedad de la información y el conocimiento;
+
+XI. Elaborar los estudios estratégicos en materia de ciencia, tecnología e innovación;
+
+XII. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones los servidores públicos que le están subordinados, y
+
+XIII. Las demás que le sean encomendadas por el Titular de la Secretaría y la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2013)</small>
+
+Artículo 119 Quindecies.- Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y Normatividad:
+
+I. Dirigir y coordinar la realización de las acciones jurídicas necesarias para la defensa y protección de los intereses de la Secretaría y de las Unidades Administrativas que la integran;
+
+II. Realizar la interpretación de las leyes y disposiciones en las materias competencia de la Secretaría;
+
+III. Representar legalmente a la Secretaría, así como a sus Unidades Administrativas que por el ejercicio de sus funciones sean emplazados por cualquier autoridad administrativa o judicial en toda clase de juicios o procedimientos;
+
+IV. Rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados, allanarse y/o desistirse de las demandas en los casos que proceda, respecto de los juicios en que sea parte la Secretaría;
+
+V. Asesorar a las Unidades Administrativas de la Secretaría para el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas en el ámbito de su competencia;
+
+VI. Requerir la información necesaria a las áreas correspondientes de la Secretaría para rendir los informes que sean solicitados por las autoridades administrativas y/o jurisdiccionales, así como por la Contraloría General o las Comisiones de Derechos Humanos;
+
+VII. Compilar la normatividad relacionada con las atribuciones de la Secretaría y difundirla entre las unidades administrativas que la integran;
+
+VIII. Fungir como representante de la Secretaría en los asuntos de orden jurídico ante las Dependencias, Órganos Autónomos, Órganos de Gobierno, Órganos Político Administrativos y Entidades de la Administración Pública Local, así como las autoridades federales;
+
+IX. Revisar y dar el visto bueno a los convenios, contratos y acuerdos que la Secretaría celebre para la ejecución de los programas enfocados al desarrollo de la ciencia, la tecnología y la innovación;
+
+X. Realizar las acciones jurisdiccionales y/o administrativas para la rescisión o terminación anticipada de contratos y convenios en materia de proyectos estratégicos, cuando así proceda y haya sido autorizado por el Secretario;
+
+XI Llevar el registro de los acuerdos, convenios y demás instrumentos jurídicos en los que la Secretaría sea parte y, en su caso resguardar los documentos originales que deriven de dichos actos;
+
+XII. Desahogar los recursos administrativos que sean presentados en contra de resoluciones emitidas por las Unidades Administrativas adscritas a la Secretaría;
+
+XIII. Interponer en nombre y representación de la Secretaría los juicios, demandas, denuncias, quejas o querellas que correspondan ante las diversas autoridades administrativas y/o jurisdiccionales para la defensa de los intereses de la Dependencia;
+
+XIV. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Secretaría, sus Unidades Administrativas o Unidades Administrativas de Apoyo Técnico Operativo, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas;
+
+XV. Efectuar el seguimiento y defensa en las diferentes materias, civil, penal, administrativa, amparo y de cualquier otra índole, competencia de la Secretaría, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en apego a las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas aplicables;
+
+XVI. Verificar que los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Secretaría se encuentren apegados a las disposiciones jurídicas y administrativas vigentes;
+
+XVII. Dirigir las actividades para la recepción, captura y procesamiento de las solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales que ingresen a la Secretaría;
+
+XVIII. Coordinar las actividades para la atención y seguimiento de los medios de impugnación que se interpongan ante el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+XIX. Instruir la integración y formulación de los informes requeridos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+XX. Coadyuvar en la integración de los asuntos que serán presentados para consulta, opinión, asesoría, análisis y aprobación al Consejo de Fomento y Desarrollo Científico, Tecnológico e Innovación del Distrito Federal;
+
+XXI. Expedir, de conformidad con la normatividad aplicable, las copias certificadas de los documentos que obren en los archivos del área que tiene a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones todos aquellos servidores públicos adscritos a la Secretaría, y
+
+XXII. Las demás que le sean encomendadas por el Secretario y la normatividad aplicable.
+
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-#### SECCION I
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN ALVARO OBREGON.
-
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
 
 ## TITULO SEGUNDO BIS. DE LA ADMINISTRACION PUBLICA CENRALIZADA (SIC), DESCONCENTRADA Y DE LOS ORGANOS POLITICO-ADMINISTRATIVOS
 
@@ -11236,11 +11420,11 @@ a. (sic) Las demás que de manera directa les asignen el titular del Órgano Pol
 
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION II
+#### SECCION I
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN AZCAPOTZALCO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN ALVARO OBREGON.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 129.
 
@@ -11612,11 +11796,11 @@ XXVII. Las demás que de manera directa le asigne el Titular del Órgano Políti
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION III
+#### SECCION II
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN AZCAPOTZALCO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 132.
 
@@ -11772,11 +11956,11 @@ XVI. Apoyar a los subcomités de seguridad pública, convocarlos a las sesiones 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION IV
+#### SECCION III
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 137.
 
@@ -12092,11 +12276,11 @@ XX. Las demás que instruya el Jefe Delegacional.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION V
+#### SECCION IV
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 143.
 
@@ -12510,9 +12694,9 @@ XVII. Las demás que de manera directa le asigne el titular del Órgano Polític
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION VI
+#### SECCION V
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAUHTEMOC.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -12702,9 +12886,9 @@ XIII. Las demás que le asigne el Jefe Delegacional, la Ley del Sistema de Prote
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION VII
+#### SECCION VI
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN GUSTAVO A. MADERO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAUHTEMOC.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -12856,11 +13040,11 @@ Corresponde a la Dirección General de Desarrollo Social además de las atribuci
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION VIII
+#### SECCION VII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN GUSTAVO A. MADERO.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 153.
 
@@ -13234,11 +13418,11 @@ XII. Las demás que de manera directa les asigne el titular del Órgano Polític
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION IX
+#### SECCION VIII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTAPALAPA.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2013)</small>
 
 ###### Artículo 157.
 
@@ -13408,9 +13592,9 @@ XII. Las demás que de manera directa le asigne el Jefe Delegacional así como l
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION X
+#### SECCION IX
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN LA MAGDALENA CONTRERAS.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTAPALAPA.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -13558,11 +13742,11 @@ XI. Las demás que les atribuyan expresamente los ordenamientos jurídicos y adm
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XI
+#### SECCION X
 
-DE LAS ATRIBUCIONES ADICIONALES Y DE LAS DE CARACTER COMUN DE LAS DIRECCIONES GENERALES, DIRECCIONES EJECUTIVAS Y DE LA JEFATURA DE LA OFICINA DEL JEFE DELEGACIONAL DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN LA MAGDALENA CONTRERAS.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 162.
 
@@ -13792,11 +13976,11 @@ XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al us
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE MARZO DE 2010)</small>
 
-#### SECCION XII
+#### SECCION XI
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MILPA ALTA.
+DE LAS ATRIBUCIONES ADICIONALES Y DE LAS DE CARACTER COMUN DE LAS DIRECCIONES GENERALES, DIRECCIONES EJECUTIVAS Y DE LA JEFATURA DE LA OFICINA DEL JEFE DELEGACIONAL DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
 
 ###### Artículo 169.
 
@@ -14224,9 +14408,9 @@ XVII. Las demás que de manera directa le asigne el titular del Órgano Polític
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XIII
+#### SECCION XII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLAHUAC.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MILPA ALTA.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -14320,9 +14504,9 @@ X. Las demás que de manera directa les asigne el titular del Órgano Político 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XIV
+#### SECCION XIII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLALPAN.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLAHUAC.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -14454,11 +14638,11 @@ XIII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formul
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XV
+#### SECCION XIV
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN VENUSTIANO CARRANZA.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLALPAN.
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 182.
 
@@ -14692,11 +14876,11 @@ VII. Establecer con la comunidad de la Delegación Cuauhtémoc, planes y program
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XVI
+#### SECCION XV
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN XOCHIMILCO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN VENUSTIANO CARRANZA.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2001)</small>
 
 ###### Artículo 189.
 
@@ -14814,11 +14998,11 @@ V. Llevar a cabo acciones tendientes a promover la incorporación de barrios reg
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION I
+#### SECCION XVI
 
-ADSCRITO A LA JEFATURA DE GOBIERNO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN XOCHIMILCO.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 133], G.O. 31 DE ENERO DE 2001)
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 191.
 
@@ -14986,11 +15170,11 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
-#### SECCION II
+#### SECCION I
 
-ADSCRITO A LA SECRETARIA DE GOBIERNO.
+ADSCRITO A LA JEFATURA DE GOBIERNO.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE ABRIL DE 2008)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 197.
 
@@ -15102,9 +15286,11 @@ XXI. Las demás que le sean asignadas por el Jefe de Gobierno y/o las que le cor
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
-#### SECCIÓN II BIS. ADSCRITO A LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
+#### SECCION II
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
+ADSCRITO A LA SECRETARIA DE GOBIERNO.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE ABRIL DE 2008)</small>
 
 ###### Artículo 198.
 
@@ -15126,11 +15312,9 @@ VII. Las demás que le confieran las disposiciones jurídicas y administrativas 
 
 > <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2010)</small>
 
-#### SECCIÓN III
+#### SECCIÓN II BIS. ADSCRITO A LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
 
-ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
-
-> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2010)</small>
 
 ###### Artículo 198-A.
 
@@ -15266,13 +15450,11 @@ XI. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
 > <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
 
-#### SECCION IV
+#### SECCIÓN III
 
-ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS.
+ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
 
-> <small>N. DE E. LOS ARTÍCULOS QUE INTEGRABAN ESTA SECCIÓN FUERON ADICIONADOS Y REUBICADOS A LA SECCIÓN IV, G.O. 24 DE ABRIL DE 2009.</small>
-
-(REUBICADA, G.O. 31 DE ENERO DE 2001)
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 199.
 
@@ -15532,6 +15714,14 @@ XVII. Las demás que señalen las disposiciones normativas y, en general, todas 
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2009)</small>
 
+#### SECCION IV
+
+ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS.
+
+> <small>N. DE E. LOS ARTÍCULOS QUE INTEGRABAN ESTA SECCIÓN FUERON ADICIONADOS Y REUBICADOS A LA SECCIÓN IV, G.O. 24 DE ABRIL DE 2009.</small>
+
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
 #### SECCION V
 
 ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
@@ -15541,10 +15731,6 @@ ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 #### SECCION VI. ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-#### SECCION VII. ADSCRITO A LA SECRETARIA DE DESARROLLO SOCIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 205.
 
@@ -15590,11 +15776,9 @@ X. Proponer para su autorización conjunta por parte de la Secretaría de Obras 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
-#### SECCION VIII
+#### SECCION VII. ADSCRITO A LA SECRETARIA DE DESARROLLO SOCIAL
 
-ADSCRITO A LA SECRETARIA DE SALUD.
-
-(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010) (F. DE E., G.O. 24 DE NOVIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 208.
 
@@ -15642,15 +15826,21 @@ ADSCRITO A LA SECRETARIA DE SALUD.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
-#### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
+#### SECCION VIII
 
-> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+ADSCRITO A LA SECRETARIA DE SALUD.
+
+(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010) (F. DE E., G.O. 24 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 216.
 
 El Órgano Desconcentrado Agencia de Protección Sanitaria del Gobierno del Distrito Federal tiene por objeto realizar las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan al Gobierno en materia de salubridad local. Para tal efecto contará con las atribuciones y facultades que se establecen en el Reglamento de la Agencia de Protección contra Riesgos Sanitarios.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 #### SECCIÓN X. ADSCRITO A LA SECRETARÍA DE CULTURA
 
@@ -16541,3 +16731,19 @@ SEXTO.- La Secretaría de Educación del Distrito Federal deberá adecuar su est
 SÉPTIMO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las dependencias y unidades administrativas que por virtud de este decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 OCTAVO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 30 DE OCTUBRE DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor el día primero de noviembre de dos mil trece.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben a la Secretaría de Ciencia, Tecnología e Innovación, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- La Secretaría de Ciencia, Tecnología e Innovación deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Contraloría General.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las dependencias y unidades administrativas que por virtud de este decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
