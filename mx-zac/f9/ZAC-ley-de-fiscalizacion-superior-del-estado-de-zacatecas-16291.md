@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2012-12-15"
+last_updated: "2013-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -129,15 +127,27 @@ VIII. Entidades Fiscalizadas: Los Poderes del Estado, los Municipios, los entes 
 
 IX. Gestión Financiera: La actividad de los Poderes del Estado y de los entes públicos estatales y municipales, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas estatales y municipales aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión simultánea o posterior del (sic) Legislatura, a través de la Auditoría Superior de la (sic) Estado, a fin de verificar que dicha Gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
 
-X. Cuenta Pública: El informe que los Poderes del Estado y los entes públicos estatales rinden de manera consolidada a través del Ejecutivo Estatal; así como el que rinden los Municipios, y los entes públicos municipales en forma consolidada a través de aquél, a la Legislatura, sobre su Gestión financiera, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos estatales y municipales durante un ejercicio fiscal comprendido del 1º. de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+X. Cuenta Pública: Para los efectos de esta Ley, la Cuenta Pública estará constituida por la información establecida en las disposiciones de la Ley General de Contabilidad Gubernamental en el Título Cuarto correspondiente a Información Financiera Gubernamental y Cuenta Pública, y deberá estar acorde con los acuerdos y lineamientos que emita el Consejo Nacional de Armonización Contable (CONAC);
 
 XI. Informe de Avances de Gestión Financiera: El Informe, que como parte integrante de la Cuenta Pública, rinden los Poderes del Estado, y los entes públicos estatales de manera consolidada a través del Ejecutivo Estatal, así como el que rinden los ayuntamientos y sus entes públicos de manera consolidada, a la Legislatura, sobre los avances físicos y financieros de los programas estatales y municipales aprobados, a fin de que la Auditoría Superior del Estado fiscalice en forma simultánea o posterior a la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
 
 XII. Proceso concluido: Aquél que los Poderes del Estado, municipios y entes públicos estatales y municipales reporten como tal, en el Informe de Avance de Gestión Financiera, con base en los Informes de gasto devengado conforme a la estructura programática autorizada;
 
-XIII. Fiscalización Superior: Facultad a cargo de la Legislatura, ejercida por la Auditoría Superior del Estado, para la revisión de la respectiva Cuenta Pública, incluyendo el Informe de Avance de Gestión Financiera;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIV. Programas: Los contenidos en los Planes de Desarrollo, en los programas operativos anuales y en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Poderes del Estado, municipios y de los entes públicos estatales y municipales,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XIII Fiscalización Superior: Facultad a cargo de la Legislatura, ejercida por la Auditoría Superior del Estado, para la revisión de la respectiva Cuenta Pública, incluyendo el Informe de Avance de Gestión Financiera y la práctica de Revisiones a Renglón Específico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XIV. Programas: Los contenidos en los Planes de Desarrollo, en los programas operativos anuales y en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Poderes del Estado, municipios y de los entes públicos estatales y municipales, así como los obtenidos posteriormente a la formulación de los programas de desarrollo y presupuestos aprobados;
 
 XV. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, en uso de sus facultades de Fiscalización a las entidades sujetas a revisión; y (sic)
 
@@ -159,13 +169,33 @@ XIX. Informe de Solventación: Documento en el cual se reflejan o asientan las o
 
 XX. Informes Complementarios: Aquellos que rinde la Auditoría Superior del Estado a la Legislatura por conducto de la Comisión de Vigilancia, respecto del estado que guardan las acciones promovidas contenidas en el Informe de Resultados.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXI. Auditoría sobre el desempeño: Evaluación de una actividad institucional, proyecto o actividad en términos de la eficacia, como se cumplieron los objetivos y metas propuestos; la eficiencia con que se realizó la gestión gubernamental o los procesos para lograrlos; la economía con que se aplicaron los recursos aprobados para el efecto; la calidad de los bienes o servicios ofrecidos; comprobar el impacto o beneficio de las políticas públicas y valorar el grado de satisfacción de la sociedad; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXI. Auditoría sobre el desempeño: Evaluación de una actividad institucional, proyecto o actividad en términos de la eficacia, como se cumplieron los objetivos y metas propuestos; la eficiencia con que se realizó la gestión gubernamental o los procesos para lograrlos; la economía con que se aplicaron los recursos aprobados para el efecto; la calidad de los bienes o servicios ofrecidos; comprobar el impacto o beneficio de las políticas públicas y valorar el grado de satisfacción de la sociedad;
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
 
 XXII. Indicadores de desempeño: Es un instrumento que provee información respecto del logro de los objetivos de un programa y puede cubrir aspectos cualitativos o cuantitativos, o ambos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXIII. Informe de avances Físico-Financiero: Conjunto de documentos que se utilizan para conocer la situación financiera y el estado que guardan físicamente las obras públicas realizadas por las entidades fiscalizadas en una fecha o período determinado, y que será integrado por las entidades fiscalizadas de acuerdo con la normatividad aplicable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXIV. Expediente Unitario de Obra: Conjunto de documentación que se formulará y generará durante las diferentes etapas de la ejecución de la obra pública y será integrado por las entidades fiscalizadas de acuerdo con la normatividad aplicable; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXV. Revisiones a Renglón Específico: Las revisiones especiales que realice la Auditoría Superior del Estado en ejercicio de las facultades de revisión y fiscalización, sobre asuntos concretos o períodos específicos, las cuales se realizarán a solicitud expresa de la Comisión o derivado de quejas o denuncias recibidas, y distintas a la revisión de la Cuenta Pública y de la Gestión Financiera.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -183,21 +213,43 @@ Son sujetos de Fiscalización Superior, los Poderes del Estado, los Municipios, 
 
 La Fiscalización Superior que realice la Auditoría Superior del Estado, se ejerce de manera simultánea o posterior a la Gestión Financiera; tiene carácter externo y por lo tanto, se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, municipios y entes públicos.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 6.
 
-A falta de disposición expresa en esta Ley, se aplicará en forma supletoria y en lo conducente, la Ley de Administración y Finanzas Públicas del Estado de Zacatecas, la legislación fiscal de la Entidad, la Ley de Deuda Pública del Estado y la Ley de Responsabilidades de los Servidores Públicos y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, así como la demás legislación aplicable.
+A falta de disposición expresa en esta Ley, se aplicará en forma supletoria y en lo conducente, la Ley de Administración y Finanzas Públicas del Estado de Zacatecas, la legislación fiscal de la Entidad, la Ley de Deuda Pública para el Estado y Municipios de Zacatecas, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, la Ley General de Contabilidad Gubernamental, la legislación fiscal Federal, las disposiciones en materia de obra pública en el ámbito estatal y federal, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del Estado de Zacatecas y las disposiciones del derecho común, sustantivo y procesal.
 
 ## TÍTULO SEGUNDO. DE LAS CUENTAS PÚBLICAS, SU REVISIÓN Y FISCALIZACIÓN SUPERIOR
 
 ### CAPÍTULO I. DE LAS CUENTAS PÚBLICAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-Para los efectos de esta Ley, las Cuentas Públicas estarán constituidas por los estados contables, financieros, presupuestarios, económicos y programáticos, y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas Leyes de Ingresos y del ejercicio de los Presupuestos de Egresos Estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las Haciendas Públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de los Poderes del Estado, Municipios y entes públicos estatales y municipales, además de los estados detallados de la deuda pública estatal y municipal.
+Para los efectos de esta Ley, las Cuentas Públicas estarán constituidas por la información establecida en las disposiciones de la Ley General de Contabilidad Gubernamental en el Título correspondiente a Información. Financiera Gubernamental y Cuenta Pública, y deberá estar acorde con los acuerdos y lineamientos que emita el Consejo Nacional de Armonización Contable (CONAC).
 
-El Ejecutivo del Estado y los Ayuntamientos deberán remitir a la Auditoría Superior del Estado, toda la documentación comprobatoria y justificativa de la Cuenta Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los Municipios, sus Organismos Autónomos y los Entes Públicos Municipales e Intermunicipales, deberán remitir a la Auditoría Superior del Estado, toda la documentación comprobatoria y justificativa de la Cuenta Pública, de manera simultánea al Informe de la Gestión Financiera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los Poderes del Estado, sus Organismos Autónomos y los Entes Públicos del Estado, presentarán la documentación comprobatoria y justificativa que les sea requerida de manera posterior o simultánea al Informe de Avance de Gestión Financiera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Una vez concluida la revisión dicha documentación será puesta a disposición de las entidades fiscalizadas correspondientes para su devolución, con excepción de aquella que sustente acciones a promover derivadas de la fiscalización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -211,6 +263,18 @@ De no presentarse en los plazos señalados, serán aplicadas las sanciones estab
 
 Asimismo, los Poderes del Estado y los entes públicos estatales rendirán a la Auditoría Superior del Estado, a más tardar el 31 de agosto del año en que se ejerza el presupuesto respectivo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, por el período comprendido del 1º. de enero al 30 de junio del ejercicio fiscal en curso. Dicho informe será consolidado y remitido por el Ejecutivo Estatal, a través de la Secretaría del Ramo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+La información presupuestaria deberá contemplar módulos correspondientes a los objetivos del Plan Estatal de Desarrollo y los planes operativos anuales, así como un apartado de indicadores programáticos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+A fin de dar cumplimiento a lo establecido en los artículos anteriores, los Poderes del Estado y los entes públicos harán llegar con la debida anticipación al Ejecutivo Estatal por conducto de la Secretaría del Ramo, la información que corresponda, o que se les solicite.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2012)</small>
 
 ###### Artículo 9.
@@ -221,13 +285,51 @@ Los Ayuntamientos presentarán a la Legislatura, y en sus recesos a la Comisión
 
 De no presentarse en los plazos señalados, serán aplicadas las sanciones establecidas en la presente Ley, sin perjuicio de las señaladas en su caso por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
-Los Municipios y los entes públicos municipales rendirán a la Auditoría Superior del Estado, en forma consolidada, dentro de los quince días siguientes a la conclusión del periodo, el Informe Trimestral de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE OCTUBRE DE 2013)</small>
 
-Igualmente presentarán a la Auditoría Superior del Estado, en forma consolidada y dentro de los cinco días siguientes a la conclusión del mes, los informes contables financieros, de obra pública y de aportaciones federales, de su cuenta pública mensual, acompañados con su soporte documental, así como las copias certificadas de las actas de las sesiones de cabildo celebradas durante el periodo.
+La Cuenta Pública de los Municipios deberá cumplir los requisitos establecidos en la Ley General de Contabilidad Gubernamental, estar acorde con los acuerdos y lineamientos que emita el Consejo Nacional de Armonización Contable (CONAC).
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los organismos municipales estarán obligados a presentar la información relativa a su gestión financiera en forma consolidada en la Cuenta Pública Municipal. En el caso de los organismos intermunicipales consolidarán la información relativa a su gestión financiera en los términos que les señalen las disposiciones legales vigentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los organismos intermunicipales que no consoliden con un Municipio su Cuenta Pública, presentarán a la Legislatura, y en sus recesos a la Comisión Permanente, a más tardar el 15 de febrero un informe anual de su gestión financiera correspondiente al año anterior, este informe deberá cumplir con las disposiciones de la Ley General de Contabilidad Gubernamental y estar acorde a los lineamientos que emita el Consejo Nacional de Armonización Contable que le sean aplicables. La Auditoría Superior del Estado podrá fiscalizar a los organismos intermunicipales, esta revisión será independiente de la que se realice a la Cuenta Pública del o de los Municipios que lo conforman, aplicando el mismo procedimiento y plazos establecidos para la fiscalización de las cuentas públicas de los Municipios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los Municipios y los entes públicos municipales e intermunicipales rendirán a la Auditoría Superior del Estado, de manera trimestral por los períodos enero a marzo, abril a junio, julio a septiembre y octubre a diciembre, en forma consolidada, dentro de los veinte días hábiles siguientes a la conclusión de cada periodo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, debiendo acompañar al mismo la plantilla de personal y la cédula analítica de adquisiciones correspondientes al trimestre.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Igualmente presentarán a la Auditoría Superior del Estado, en forma mensual consolidada y dentro de los veinte días hábiles siguientes a la conclusión del mes, impresos y en archivo digital según el formato que se solicite, los informes contables financieros, de obra pública de todos los programas de inversión física y acciones sociales autorizados, tanto de los que se ejecutaron con recursos propios como con recursos provenientes de la federación y, en su caso, los convenios suscritos, acompañados de la documentación técnica y social que justifiquen el ejercicio del recurso, como parte de su cuenta pública mensual, la documentación comprobatoria de todas las erogaciones realizadas, las constancias correspondientes al Fondo Único de Participaciones, las conciliaciones bancarias, el arqueo de caja, así como las copias certificadas de las actas de las sesiones de cabildo celebradas durante el periodo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Para el caso de obra pública tratándose de administración directa, los informes mensuales deberán adicionalmente acompañarse con los auxiliares por obra que contendrán el registro de los gastos en materiales, mano de obra e indirectos, relación de entradas y salidas de materiales, así como de las existencias del almacén y fábrica de materiales, en su caso; relación de deuda de proveedores y contratistas, conciliación entre la Tesorería Municipal y la Dirección de Obras y Servicios Públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Asimismo durante la entrega de los informes mensuales sin excepción deberán de presentar los expedientes unitarios de las obras terminadas y registradas con un avance físico del cien por ciento, los cuales deberán estar integrados con toda la documentación generada en las diferentes fases de ejecución de las obras: planeación, programación, presupuestación, adjudicación, contratación, ejecución, entrega-recepción, independientemente que se hayan ejecutado por las modalidades de administración directa o contrato, en el caso de las obras que se ejecuten por la modalidad de contrato, también se incluirán las garantías de anticipo, cumplimiento y vicios ocultos, así como el finiquito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REUBICADO ANTES QUINTO PÁRRAFO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2013)
 
 La Cuenta Pública deberá presentarse previamente ante el órgano de Fiscalización para verificar el cumplimiento a lo establecido en el artículo 7 de esta Ley.
 
@@ -245,7 +347,11 @@ El contenido de los Informes de Avance de Gestión Financiera se referirán a lo
 
 I. El flujo contable de ingresos y egresos semestral o trimestral, según corresponda al ejercicio del presupuesto;
 
-II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en el respectivo presupuesto, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II. El avance del cumplimiento de los programas de inversión física autorizados y acciones sociales, tanto de los que se ejecutaron con recursos propios como con recursos provenientes de la federación, y en su caso, los convenios suscritos, y
 
 III. Los procesos concluidos.
 
@@ -271,7 +377,11 @@ La revisión y fiscalización superior de las Cuentas Públicas tiene por objeto
 
 I. Si los programas y su ejecución se ajustan a los términos y montos aprobados;
 
-II. Si aparecen discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II. Si aparecen discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas, incluyendo los programas autorizados, ejecutados con recursos municipales, estatales o federales, y los convenios suscritos;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -281,13 +391,39 @@ IV. Si los recursos provenientes del financiamiento se obtuvieron en los términ
 
 V. En forma simultánea o posterior a la conclusión de los procesos correspondientes, el resultado de la gestión financiera de los Poderes del Estado, Municipios y entes públicos;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Si en la gestión financiera se cumple con las leyes, decretos, así como la normatividad aplicable al ejercicio del gasto público, reglamentos y demás disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+VI. Si en la gestión financiera se cumple con las disposiciones de la Ley General de Contabilidad Gubernamental, así como con las demás leyes, reglamentos, decretos y demás disposiciones aplicables en materia de:
 
-VII. Si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de recursos estatales y municipales, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, mandatos, fondos, fideicomisos, prestación de servicios públicos, concesiones u operaciones o cualquier acto que las entidades fiscalizadas celebren o realicen, relacionados con el ejercicio del gasto público, se ajustan a la legalidad, y si no han causado daños, perjuicios, o ambos, en contra del Estado y Municipios en su Hacienda Pública o al patrimonio de los entes públicos o de las entidades paraestatales y paramunicipales;
+a) Presupuestación,
+
+b) Recaudación de ingresos,
+
+c) Aplicación de los recursos obtenidos o recibidos,
+
+d) Comprobación del ejercicio del gasto, lo que incluye verificar que los pagos se hagan directamente en forma electrónica, mediante abono en cuenta del beneficiario, salvo en las localidades donde no haya disponibilidad de servicios bancarios,
+
+e) Sistemas de registro y contabilidad gubernamental,
+
+f) Verificar que exista una cuenta bancaria productiva específica por cada fondo de aportaciones federales, programa de subsidio y convenio de reasignación, a través de los cuales se ministren recursos federales, así como que no se incorporen recursos locales ni aportaciones adicionales de los entes fiscalizados o de los beneficiarios de las obras y acciones;
+
+g) Contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, y
+
+h) Almacenes y demás activos y recursos materiales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VII. Si se han causado daños o perjuicios o ambos, en contra del Estado y Municipios en su Hacienda Pública o al patrimonio de los entes públicos del estado o municipales en:
+
+a) La presupuestación, captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de recursos estatales y municipales,
+
+b) Los subsidios, transferencias y donativos, y
+
+c) Los actos, contratos, convenios, mandatos, fondos, fideicomisos, prestación de servicios públicos, concesiones u operaciones o cualquier acto que las entidades fiscalizadas celebren o realicen, concernientes con el ejercicio del gasto público;
 
 VIII. Las responsabilidades a que haya lugar, y
 
@@ -301,7 +437,11 @@ Las Cuentas Públicas serán turnadas a la Auditoría Superior del Estado para s
 
 Para la revisión y fiscalización superior de las Cuentas Públicas, la Auditoría Superior del Estado tendrá las atribuciones siguientes:
 
-I. Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera, verificando que ambos sean presentados, en los términos de esta Ley y de conformidad con los principios de contabilidad aplicables al Sector Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+I. Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera, verificando que ambos sean presentados, en los términos de esta Ley y de conformidad con los postulados básicos y la Ley General de Contabilidad Gubernamental;
 
 II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, de conformidad con las propuestas que formulen los Poderes del Estado, los Municipios y los entes públicos estatales y municipales y las características propias de su operación;
 
@@ -313,9 +453,11 @@ IV. Realizar auditorías sobre el desempeño evaluando el cumplimiento final de 
 
 V. Verificar que las entidades fiscalizadas que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes, además con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Verificar que las operaciones que realicen los Poderes del Estado, los Municipios y los entes Públicos sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios, y se efectúen con apego a las disposiciones respectivas de la legislación fiscal; las Leyes de Deuda Pública; de Administración y Finanzas públicas, Ley Orgánica del Poder Legislativo, Ley Orgánica de la Administración Pública del Estado, Ley Orgánica del Poder Judicial, Ley Orgánica del Municipio y demás disposiciones legales y administrativas aplicables a estas materias;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VI. Verificar que las operaciones que realicen los Poderes del Estado, los Municipios y los entes públicos sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios, y se efectúen con apego a las disposiciones respectivas de la legislación fiscal estatal y federal, la Ley General de Contabilidad Gubernamental, la legislación en materia de Deuda Pública; de Administración y Finanzas Públicas, Ley Orgánica del Poder Legislativo, Ley Orgánica de la Administración Pública del Estado, Ley Orgánica del Poder Judicial, Ley Orgánica del Municipio, Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del Estado de Zacatecas y demás disposiciones legales y administrativas aplicables a estas materias;
 
 VII. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a los Poderes del Estado, Municipios y entes públicos se han aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
 
@@ -349,9 +491,17 @@ XIX. Celebrar convenios con organismos y participar en foros nacionales e intern
 
 XX. Celebrar convenios con la Auditoría Superior de la Federación o con organismos que cumplan funciones similares en otras entidades federativas, para el mejor cumplimiento de sus fines;
 
-XXI. Establecer las bases para la entrega-recepción de la documentación comprobatoria y justificativa de las Cuentas Públicas del Estado y Municipios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXII. Recibir y resguardar las declaraciones de situación patrimonial inicial, anual y final, que deben presentar los servidores públicos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXI. Establecer las bases para la entrega-recepción de la documentación comprobatoria y justificativa de las Cuentas Públicas de los Poderes del Estado y Municipios y verificar su presentación de conformidad con la Ley General de Contabilidad Gubernamental;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXII. Recibir, resguardar y fiscalizar las declaraciones de situación patrimonial inicial, anual y final, que deben presentar los servidores públicos del Poder Legislativo;
 
 XXIII. Vigilar que los Ayuntamientos cumplan oportunamente con el procedimiento obligatorio de entrega-recepción de las administraciones municipales; y (sic)
 
@@ -359,11 +509,71 @@ XXIII. Vigilar que los Ayuntamientos cumplan oportunamente con el procedimiento 
 
 XXIV. Imponer sanciones administrativas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXV. Emitir constancia a personas físicas o morales que comprueben que no están sujetas a procedimientos de fincamientos de responsabilidades resarcitorias o administrativas; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-XXVI. Las demás que les sean conferidas por esta Ley o cualquier otro ordenamiento.
+XXV. Emitir constancia a personas físicas y morales que comprueben que no están sujetas a procedimientos de fincamientos de responsabilidades resarcitorias o administrativas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXVI. Vigilar y, en su caso, solicitar que se genere y publique la información financiera de los entes fiscalizados de conformidad con el Título correspondiente a "Transparencia y Difusión de la Información Financiera" de la Ley General de Contabilidad Gubernamental, así como revisar el contenido y autenticidad de la información;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXVII. Verificar que los recursos federales que reciban los entes fiscalizados se ejerzan conforme a los calendarios previstos y de acuerdo con las disposiciones aplicables del ámbito federal o local;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXVIII. Solicitar a la Secretaría de Hacienda y Crédito Público acceso al sistema de información a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con el propósito de que en el marco de sus atribuciones verifique el cumplimiento de la entrega de la información, calidad y congruencia con la aplicación y los resultados obtenidos con los recursos federales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXIX. Verificar que las Dependencias y Entidades del Poder Ejecutivo del Estado presenten la información relativa al Fondo de Aportaciones para la Educación Básica y Normal y al Fondo de Aportaciones para la Educación Tecnológica y de Adultos en términos de la Ley General de Contabilidad Gubernamental, así como revisar el contenido y autenticidad de la información;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXX. Solicitar a la Secretaría de Educación Pública y Secretaría de Salud, ambas del Gobierno Federal, acceso al sistema establecido para el registro del personal federalizado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXXI. Verificar que los municipios o Gobierno del Estado, difundan en internet la información financiera relativa a las características de las obligaciones que se establecen en la Ley de Coordinación Fiscal, así como revisar el contenido y autenticidad de la información;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXXII. Vigilar la calidad de la información que proporcionen los entes fiscalizados respecto del ejercicio y destino de los recursos públicos federales que por cualquier conceptos (sic) les hayan sido ministrados, así como corroborar la autenticidad de la misma;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXXIII. Verificar que en materia de contabilidad los entes fiscalizados hayan adoptado e implementado con carácter de obligatorio los acuerdos y lineamientos emitidos por el Consejo Nacional de Armonización Contable (CONAC),
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XXXIV. Aplicar las sanciones por incumplimiento a la Ley General de Contabilidad Gubernamental a que hace referencia el Título Sexto de la misma, así como las que resulten aplicables conforme a las demás disposiciones legales que deban ser observadas por los Entes Fiscalizados; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REUBICADA ANTES FRACCIÓN XXVI [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)
+
+XXXV. Las demás que les sean conferidas por esta Ley o cualquier otro ordenamiento.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -471,6 +681,12 @@ La fiscalización de los Informes de Avance de Gestión Financiera y la revisió
 
 Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, la Auditoría Superior del Estado podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales, sin que con este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio correspondiente a la revisión específica señalada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+La Auditoría Superior del Estado podrá revisar un renglón específico del Informe de Gestión Financiera o de la Cuenta Pública de conformidad con lo dispuesto en la presente Ley.
+
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2012)</small>
 
 ###### Artículo 22.
@@ -541,13 +757,19 @@ a) Los pliegos de observaciones y los documentos de la revisión de la respectiv
 
 b) El apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, con respecto a la evaluación de la consecución de sus objetivos y metas, así como de la satisfacción de las necesidades correspondientes, bajo criterios de eficacia, eficiencia, economía, transparencia y honradez;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c) El cumplimiento de los principios de contabilidad o normas de información financiera gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+c) El cumplimiento a los postulados básicos de contabilidad o normas de información financiera gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
 
 d) Los resultados de la gestión financiera;
 
-e) La comprobación de que los Poderes del Estado, los Municipios y demás entes públicos fiscalizados, se ajustaron a lo dispuesto en las respectivas Leyes de Ingresos y Presupuestos de Egresos, y en las demás normas aplicables en la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+e) La opinión técnica de la Auditoría Superior del Estado en la que señale si los Poderes del Estado, los Municipios y demás entes públicos fiscalizados, se ajustaron a lo dispuesto en las respectivas Leyes de Ingresos y Presupuestos de Egresos, y en las demás normas aplicables en la materia;
 
 f) El análisis de las desviaciones presupuestarias, en su caso, y
 
@@ -631,15 +853,23 @@ Dichos convenios comprenderán además los procedimientos para la detección de 
 
 El Auditor Superior del Estado, con sujeción a los convenios celebrados, acordará la forma y términos en que, en su caso, el personal a su cargo realizará la fiscalización de los recursos de origen federal que ejerzan los Poderes del Estado, los Municipios y las demás entidades públicas fiscalizadas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+La Auditoría Superior del Estado podrá determinar responsabilidades administrativas y sancionar a los servidores públicos de los Entes Fiscalizados, en los términos de esta Ley y de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Zacatecas, lo anterior en cumplimiento de las facultades establecidas en la Ley de Coordinación Fiscal, las Reglas de Operación del Programa respectivo y los Convenios celebrados con la Auditoría Superior de la Federación, y, en su caso, promover las responsabilidades civiles y penales ante las autoridades competentes.
+
 ## TÍTULO CUARTO. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
 
 ### CAPÍTULO I. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 36.
 
-Si de la revisión y fiscalización superior de las Cuentas Públicas o de gestión financiera y de los demás informes que presenten las entidades fiscalizadas, así como las revisiones especiales que se practiquen, aparecieren irregularidades que permitan presumir la existencia de hechos u omisiones que produzcan daños y perjuicios a las Haciendas Pública Estatal o Municipales, o al patrimonio de los entes públicos paraestatales o paramunicipales, la Auditoria Superior del Estado procederá a:
+Si de la revisión y fiscalización superior de las Cuentas Públicas o de gestión financiera y de los demás informes que presenten las entidades fiscalizadas, así como las revisiones a renglón específico que se practiquen, aparecieran irregularidades que permitan presumir la existencia de hechos u omisiones que produzcan daños y perjuicios a las Haciendas Públicas Estatal o Municipales, o al patrimonio de los entes públicos paraestatales o paramunicipales, la Auditoría Superior del Estado procederá a:
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -667,7 +897,11 @@ Para los efectos de esta Ley incurren en responsabilidad:
 
 I. Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño o perjuicio estimable en dinero a las Haciendas Públicas Estatal o Municipales o al patrimonio de los entes públicos paraestatales o paramunicipales;
 
-II. Los servidores públicos de los Poderes del Estado, Municipios y demás entes públicos fiscalizados que no rindan sus Informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Auditoría Superior del Estado, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II. Los servidores públicos de los Poderes del Estado, Municipios y demás entes públicos fiscalizados que no presenten la información o documentación que desvirtúen las observaciones notificadas por la Auditoría Superior del Estado, y
 
 III. Los servidores públicos de la Auditoría Superior del Estado, cuando al revisar las Cuentas Públicas no formulen las observaciones sobre situaciones irregulares que detecten.
 
@@ -1262,3 +1496,11 @@ Artículo Tercero.- Las reformas del presente Decreto serán aplicables a la fis
 Artículo Cuarto.- En un plazo que no exceda de noventa días, contados a partir de la publicación de este Decreto, se deberán expedir, o en su caso, actualizar conforme lo establecido en la presente reforma, el Reglamento Interior de la Auditoría Superior del Estado, los manuales de organización y procedimientos y las normas para el ejercicio, manejo y aplicación del presupuesto de la propia Auditoría, los cuales deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Quinto.- Mientras no se expida la normatividad referida en el artículo anterior, se seguirán aplicando los ordenamientos actualmente en vigor.
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+Artículo primero.- El presente Decreto entrará en vigor el día primero de enero del año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Los reglamentos y demás disposiciones que a la entrada en vigor del presente Decreto resulten aplicables, continuarán vigentes, hasta en tanto se actualice la reglamentación relativa al control y ejercicio presupuestal.
+
+Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
