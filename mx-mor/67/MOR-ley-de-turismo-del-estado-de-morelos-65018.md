@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2013-08-21"
+last_updated: "2013-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -81,6 +81,10 @@ Patrimonio Turístico: Es el conjunto de bienes e instalaciones que generan el i
 
 Turismo Gastronómico: La opción turística decisiva y enfocada a todo tipo de gente dispuesta a experimentar la cultura culinaria que nuestro Estado de Morelos ofrece.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Turismo de Salud: La opción turística enfocada a todo tipo de personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud en el Estado de Morelos.
+
 ###### Artículo 3.
 
 Esta Ley tiene por objeto establecer las bases para:
@@ -133,7 +137,7 @@ XIX. Determinar las normas para la integración y operación del Registro Estata
 
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XX.- Promover y fomentar, de manera permanente, las actividades encaminadas a fortalecer el turismo gastronómico de los pueblos en todo el estado de Morelos;
+XX. Promover y fomentar, de manera permanente, las actividades encaminadas a fortalecer el turismo gastronómico de los pueblos en todo el estado de Morelos;
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
@@ -255,9 +259,23 @@ XII. Reembolsar, bonificar o compensar la suma, correspondiente al servicio incu
 
 XIII. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de la Norma Oficial Mexicana respectiva;
 
-XV (SIC). Brindar y garantizar al turista servicios de seguridad, información y auxilio turístico; y
+XV (SIC). Brindar y garantizar al turista servicios de seguridad, información y auxilio turístico; y (sic)
 
-XVI. Las demás que les señalen esta Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVI. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales; estableciendo anuncios visibles en las zonas que por su naturaleza requieran de cuidado y manejo especial por parte de los turistas, lo anterior en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVII. Capacitar a su personal para prestar los servicios de primeros auxilios; además de Instrumentar mecanismos para su realización;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVIII. Cumplir con los ordenamientos y normas en materia de protección al medio ambiente, así como implementar los mecanismos para la separación y reciclado de productos de desecho; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XIX. Las demás que les señalen esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -283,9 +301,13 @@ I. Cumplir las condiciones convenidas al contratar el servicio turístico;
 
 II. Respetar y coadyuvar en la protección y preservación del patrimonio histórico y cultural, de los establecimientos turísticos y de los recursos naturales de la entidad;
 
-III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico del Estado y;
+III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico del Estado y; (sic)
 
 IV. Preservar la limpieza del patrimonio turístico, así como de los caminos que conducen hacia ellos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+V. No propiciar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad.
 
 ###### Artículo 12.
 
@@ -345,13 +367,19 @@ I. El Gobernador del Estado, quien será el Presidente del Consejo y podrá desi
 
 II. El Titular de la Secretaría de Turismo, quien fungirá como vicepresidente;
 
-III. El Titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-IV. El Titular de la Secretaría de Finanzas y Planeación;
+III. El Titular de la Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+IV. El Titular de la Secretaría de Hacienda;
 
 V. Los Diputados integrantes de la Comisión de Turismo del Congreso del Estado;
 
-VI. El Director del Centro de Congresos y Convenciones Fideicomiso World Trade Center (WTC), en representación de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VI. El Director del Centro de Congresos y Convenciones Fideicomiso World Trade Center (WTC), en representación de la Secretaría de Economía;
 
 VII. Un representante de los Ayuntamientos del Estado, mismo que será designado por la Junta de Gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
 
@@ -633,7 +661,7 @@ XI. Ser vigilantes del desempeño de la actividad turística en el ámbito de su
 
 XII. Promoción, difusión y orientación turística;
 
-XIII. Promover los programas de señalética y;
+XIII. Promover los programas de señalética y; (sic)
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -652,6 +680,16 @@ XVI. En general, promover la observancia de las disposiciones emanadas de la pre
 ###### Artículo 42.
 
 Para efectos de esta Ley, se entiende como promoción turística, al conjunto de actividades y programas con la finalidad de atraer la afluencia del turismo estatal, nacional y extranjero.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 42 Bis.
+
+La Secretaría, se coordinará con los Ayuntamientos para difundir la información turística del Estado y del Municipio de que se trate, a través de los módulos señalados en la fracción XIV, del artículo 41, de la presente Ley, los cuales deberán:
+
+I.- Colocarse en lugares estratégicos y visibles para su fácil localización, preferentemente en la plaza principal del Municipio de que se trate, en corredores turísticos, centrales de autobuses, aeropuerto, cruceros carreteros y sitios de mayor afluencia turística; y
+
+II.- Contar con una rotulación en idioma español, inglés y en sistema braille.
 
 ###### Artículo 43.
 
@@ -717,11 +755,15 @@ Los prestadores de servicios turísticos, contarán con un plazo de sesenta día
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
-Artículo 52 bis.-· El Registro Estatal de Turismo operará bajo el principio de máxima publicidad por lo que la información contenida o que se desprenda del mismo deberá estar disponible al público en general, en la forma y términos que determine la propia Secretaría, con excepción de aquellos datos que en términos de la Ley respectiva, sean de carácter confidencial o reservados.
+###### Artículo 52 Bis.
+
+· El Registro Estatal de Turismo operará bajo el principio de máxima publicidad por lo que la información contenida o que se desprenda del mismo deberá estar disponible al público en general, en la forma y términos que determine la propia Secretaría, con excepción de aquellos datos que en términos de la Ley respectiva, sean de carácter confidencial o reservados.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
-Artículo 52 ter.- La Secretaría deberá difundir la información que derive del Registro Estatal de Turismo, con el objeto de que se haga llegar al público en general, a través de su página Web y en los medios que ésta determine.
+###### Artículo 52 Ter.
+
+La Secretaría deberá difundir la información que derive del Registro Estatal de Turismo, con el objeto de que se haga llegar al público en general, a través de su página Web y en los medios que ésta determine.
 
 ###### Artículo 53.
 
@@ -771,7 +813,9 @@ Es facultad de la Secretaría realizar visitas de verificación a los prestadore
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
-Artículo 61 bis.- Los prestadores de servicios turísticos que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Estado de Morelos.
+###### Artículo 61 Bis.
+
+Los prestadores de servicios turísticos que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Estado de Morelos.
 
 En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
 
@@ -900,3 +944,13 @@ Aprobado el presente decreto el Titular del Poder Ejecutivo del Estado de Morelo
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+Artículo Segundo.- Aprobado el presente Decreto, el Titular del Poder Ejecutivo del Estado de Morelos deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo Reglamento.
+
+Artículo Tercero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Cuarto.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
