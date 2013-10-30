@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2013-07-31"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -55,6 +55,10 @@ El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geogr
 ###### Artículo 2.
 
 En el Estado de Morelos se reconoce que todo ser humano tiene derecho a la protección jurídica de su vida, desde el momento mismo de la concepción, y asegura a todos sus habitantes, el goce de las garantías individuales y sociales contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123 de la Constitución Fundamental de la República y su legislación derivada.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+En el Estado de Morelos, queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -322,11 +326,11 @@ Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ci
 
 La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos respectivos tutelarán la igualdad de estos derechos y sancionarán cualquier tipo de discriminación o menoscabo producido en relación al género masculino y femenino, a la edad, religión, etnia, condición social, discapacidad, y cualquiera otra que vulnere o dañe la dignidad, la condición y los derechos humanos reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados, acuerdos e instrumentos internacionales a los que el país se haya adherido. De igual manera protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos. La protección familiar e individual se dará conforme a las siguientes bases:
+La mujer y el varón tienen igualdad de derechos ante la Ley. De igual manera protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos. La protección familiar e individual se dará conforme a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -4381,3 +4385,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+EI presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
