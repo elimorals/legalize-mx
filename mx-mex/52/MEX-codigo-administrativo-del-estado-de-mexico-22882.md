@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-10-17"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 30 DE OCTUBRE DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2377,9 +2379,9 @@ VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en ge
 
 IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+(REFORMADA, G.G. 29 DE AGOSTO DE 2013) (F. DE E., G.G. 30 DE OCTUBRE DE 2013)
 
-X. La suspensión temporal hasta por noventa días a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen de Factibilidad de Impacto Sanitario en términos del artículo 2.47 Quintus o incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
+X. La suspensión temporal hasta por noventa días a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen de Factibilidad de Impacto Sanitario en términos del artículo 2.48 Quintus o incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
 
 Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
