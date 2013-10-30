@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2009-08-26"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -147,7 +147,9 @@ XL. Reservas Territoriales: Las áreas de un centro de población que serán uti
 
 XLI. Ribera o Zona Federal: Las fajas de diez metros de anchura contiguas al cauce de las corrientes o al vaso de los depósitos de propiedad nacional, medidas horizontalmente a partir del nivel de aguas máximas ordinarias y determinadas por la autoridad competente;
 
-XLII. Secretaría: Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XLII. Secretaría: La Secretaría de Desarrollo Sustentable;
 
 XLIII. Sistema Urbano Estatal: Conjunto de ciudades de diferentes rangos que integran una región al articularse en torno a un centro regional y que representan la unidad fundamental para el impulso de políticas de redistribución de la población y para el ordenamiento del territorio;
 
@@ -165,6 +167,22 @@ XLIX. Zonificación primaria: Determinación de las áreas que integran un centr
 
 XLX (SIC). Zonificación Secundaria: Determinación de las áreas que contendrán los diversos usos y destinos del suelo, tanto en las zonas urbanizadas como en las urbanizables.
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+LI. Desarrollo Metropolitano: Es una condición plena del crecimiento económico, social y urbano que procura la calidad de vida de sus habitantes en las áreas vinculadas de dos o más Municipios;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+LII. Consejo para el Desarrollo Metropolitano: Es el órgano jerárquico de consulta, opinión y toma de decisión del plan de manera colegiada, Programas, Acciones y Proyectos de Desarrollo Metropolitano que sean presentados por sus órganos técnicos para su análisis, estudio y aprobación;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+LIII. Zona Metropolitana: Es el espacio territorial de influencia dominante de un centro de población enfocado hacia las atribuciones de los Municipios y las Entidades Federativas en cuanto a la Coordinación Intergubernamental e Interestatal para su administración;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+LIV. Secretaría de obras: Secretaría de Obras Públicas del Gobierno del Estado.
+
 ### CAPÍTULO II. AUTORIDADES COMPETENTES
 
 ###### Artículo 5.
@@ -177,17 +195,25 @@ a) El Gobernador del Estado;
 
 b) Secretaría de Gobierno;
 
-c) Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE OCTUBRE DE 2013)</small>
 
-d) Subsecretaría de Desarrollo Urbano y Vivienda y Directores Generales adscritos;
+c) Secretaría de Obras Públicas;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE OCTUBRE DE 2013)</small>
+
+d) Secretaría de Desarrollo Sustentable;
 
 e) Instituto de Vivienda del Estado de Morelos;
 
 f) Comisión Estatal de Reservas Territoriales;
 
-g) Instituto del Registro Público de la Propiedad y del Comercio, y
+g) Instituto del Registro Público de la Propiedad y del Comercio, y (sic)
 
 h) Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+i) Consejo para el Desarrollo Metropolitano;
 
 II. El H. Congreso del Estado;
 
@@ -213,7 +239,9 @@ III. Promover la participación social conforme a lo dispuesto en esta Ley;
 
 IV. Someter a la aprobación de la Legislatura del Estado la fundación de centros de población;
 
-V. Participar en la planeación y regulación de las conurbaciones, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+V. Participar en la planeación y regulación de las conurbaciones y Zonas Metropolitanas, en los términos de esta Ley;
 
 VI. Coordinarse con la Federación, las Entidades Federativas y los municipios, para el apoyo al desarrollo regional, el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sustentable de los centros de población;
 
@@ -231,15 +259,19 @@ XII. Acordar la validación jurídica de los programas de desarrollo urbano sust
 
 XIII. Promover, aplicar y hacer cumplir la presente Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-Son facultades de la Secretaría:
+Son facultades de la Secretaría de Desarrollo Sustentable:
 
 I. Proponer al Ejecutivo del Estado las políticas para el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sustentable de los centros de población de la Entidad;
 
 II. Formular, ejecutar y evaluar, en coordinación con los municipios, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, los programas regionales y demás de competencia estatal, así como vigilar su cumplimiento;
 
-III. Participar, en forma coordinada con la Federación y las Entidades Federativas involucradas, en la formulación de los programas de ordenación de zonas conurbadas interestatales;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+III. Participar, en forma coordinada con la Federación y las Entidades Federativas involucradas, en la formulación de los Programas de Ordenación de Zonas Conurbadas y Zonas Metropolitanas Interestatales;
 
 IV. Implementar los procedimientos de validación técnica y administrativa de los programas de desarrollo urbano sustentable de su competencia;
 
@@ -275,7 +307,9 @@ Corresponden a los municipios, en el ámbito de sus respectivas jurisdicciones, 
 
 I. Formular, revisar, aprobar, administrar y ejecutar los programas municipales de desarrollo urbano sustentable y los que de éstos se deriven, determinando la zonificación primaria y secundaria, así como sus correspondientes normas técnicas, en los niveles de planeación de competencia municipal que así lo requieran, evaluando y vigilando su cumplimiento;
 
-II. Participar en la formulación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, así como en los programas de ordenación de las zonas conurbadas intermunicipales y regionales que impacten su territorio, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II. Participar en la formulación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, así como en los Programas de Ordenación de las Zonas Conurbadas y Zonas Metropolitanas tanto Intermunicipales y Regionales que impacten su territorio, en los términos de la presente Ley;
 
 III. Administrar la zonificación prevista en los programas municipales de desarrollo urbano sustentable, de centros de población y los demás que de éstos deriven, regulando y controlando las reservas, usos y destinos de áreas y predios en los centros de población;
 
@@ -283,7 +317,9 @@ IV. Promover y realizar acciones e inversiones para la conservación, mejoramien
 
 V. Proponer la fundación de centros de población;
 
-VI. Participar en la planeación y regulación de las conurbaciones, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VI. Participar en la planeación y regulación de las Zonas Conurbadas y Zonas Metropolitanas en los términos de esta Ley;
 
 VII. Celebrar con la federación, el Estado, con otros municipios o con los particulares, convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en los programas municipales de desarrollo urbano sustentable, de centros de población y los demás que de éstos deriven;
 
@@ -291,7 +327,9 @@ VIII. Prestar los servicios públicos municipales, atendiendo a lo previsto en l
 
 IX. Coordinarse y asociarse con el Estado y con otros municipios o con los particulares, para la prestación de servicios públicos municipales, de acuerdo con lo previsto en la legislación local;
 
-X. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para el desarrollo regional y urbano;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+X. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para el desarrollo regional, urbano y metropolitano;
 
 XI. Expedir las resoluciones administrativas en materia de usos del suelo, así como las autorizaciones de fusiones, divisiones, modificaciones, fraccionamiento, régimen en condominio y conjuntos urbanos, de conformidad con las disposiciones contenidas en los programas de desarrollo urbano sustentable vigentes, los reglamentos de la presente Ley, y demás normas legales aplicables;
 
@@ -305,9 +343,11 @@ XV. Implementar en coordinación con las autoridades estatales competentes, acci
 
 XVI. Convenir con el Ejecutivo del Estado para que éste asuma funciones y/o servicios de competencia municipal;
 
-XVII. Delegar al Ejecutivo del Estado, las funciones en materia de planeación y administración urbana, otorgándole a la autoridad estatal un porcentaje del 12%, por concepto del pago de derechos causados por las autorizaciones o licencias emitidas; esto cuando el municipio solicite la intervención de la Secretaría y/o no ejerza sus funciones por causa de fuerza mayor o falta de capacidad administrativa;
+XVII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2013)
 
-XVIII. Contratar las asesorías, consultorías y estudios que se requieran en materia de planeación urbana, considerando para tal efecto las disposiciones legales y reglamentarias para la contratación;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+XVIII. Contratar las asesorías, consultorías y estudios que se requieran en materia de planeación urbana y metropolitana considerando para tal efecto, las disposiciones legales y reglamentarias para la contratación.
 
 XIX. Informar y difundir permanentemente sobre la aplicación de los programas de desarrollo urbano sustentable, y
 
@@ -321,7 +361,9 @@ El Congreso del Estado, en materia de ordenamiento territorial y desarrollo urba
 
 I. Aprobar la fundación de los centros de población, de acuerdo a lo previsto en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable;
 
-II. Sancionar sobre los dictámenes que le envíe la Secretaría de Desarrollo Urbano y Obras Públicas o los municipios sobre la falta de cumplimiento a las disposiciones contenidas en los programas de desarrollo urbano sustentable, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II. Sancionar sobre los Dictámenes que le envíe la Secretaría de Desarrollo Sustentable y la Secretaría de Obras Públicas o los Municipios, sobre la falta de cumplimiento a las disposiciones contenidas en los Programas de Desarrollo Urbano Sustentable, y
 
 III. Dirimir sobre las controversias que surjan entre el Estado y los municipios, relativos a la aplicación de los programas de desarrollo urbano sustentable y la legislación en la materia.
 
@@ -349,15 +391,41 @@ El Consejo Estatal, se integrará de la manera siguiente:
 
 I. Un Presidente. Que será el titular del Poder Ejecutivo o la persona que éste designe;
 
-II. El Secretario de Desarrollo Urbano y Obras Públicas del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-III. Un Secretario Técnico. Que será el Subsecretario de Desarrollo Urbano y Vivienda;
+II. Secretario de Desarrollo Sustentable del Gobierno del Estado;
 
-IV. Vocales. Un representante de los siguientes sectores públicos y de la sociedad civil organizada: dependencias y organismos, federales, estatales y municipales, relacionadas con el desarrollo urbano sustentable; asociaciones y cámaras de comercio y de la industria; colegios y asociaciones de profesionistas; asociaciones civiles y sociales; instituciones académicas y de investigación; y organismos no gubernamentales; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
-V. Los representantes municipales, cuando se traten asuntos de su competencia.
+III. El Secretario de Obras Públicas del Gobierno del Estado;
 
-Los cargos del Consejo Estatal son honoríficos y por cada representante propietario se designará un suplente, que los sustituirá en sus faltas temporales. El Secretario de Desarrollo Urbano y Obras Públicas suplirá en sus funciones al Presidente del Consejo Estatal.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+IV. Un Secretario Técnico; que será el Subsecretario de Desarrollo Urbano y Vivienda Sustentable.
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+V. Un Representante del Consejo de Desarrollo Metropolitano;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VI. El Presidente de la Comisión de Desarrollo Metropolitano y Zonas Conurbadas del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VII. El Presidente de la Comisión de Planeación para el Desarrollo y Asentamientos Humanos del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+VIII. Vocales. Un representante de los siguientes sectores públicos y de la sociedad civil organizada: Dependencias y Organismos, Federales, Estatales y Municipales, relacionadas con el desarrollo urbano sustentable; Asociaciones y Cámaras de Comercio y de la Industria; Colegios y Asociaciones de Profesionistas; Asociaciones Civiles y Sociales; Instituciones Académicas y de Investigación; y Organismos No Gubernamentales; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+IX. Los representantes municipales, cuando se traten asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+Los cargos del Consejo Estatal son honoríficos y por cada representante propietario se designará un suplente, que los sustituirá en sus faltas temporales. El Secretario de Desarrollo Sustentable suplirá en sus funciones al Presidente del Consejo Estatal.
 
 ###### Artículo 14.
 
@@ -371,7 +439,9 @@ I. Asesorar a las autoridades competentes en el proceso de planeación del orden
 
 II. Opinar en la elaboración y cumplimiento del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable;
 
-III. Sugerir mecanismos para ordenar y regular las zonas conurbadas intermunicipales e interestatales;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+III. Sugerir mecanismos para ordenar y regular las Zonas Conurbadas y Zonas Metropolitanas tanto Intermunicipales como Interestatales;
 
 IV. Ser el conducto para dar a conocer las propuestas y observaciones que haga la comunidad organizada respecto del ordenamiento territorial y el desarrollo urbano sustentable de los centros de población;
 
@@ -437,11 +507,15 @@ VII. Proponer las medidas que se estimen convenientes para el mejor aprovechamie
 
 VIII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO IV. CONURBACIONES EN EL TERRITORIO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO IV. CONURBACIONES Y ZONAS METROPOLITANAS EN EL TERRITORIO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-El ordenamiento y regulación de las zonas conurbadas, intermunicipales e interestatales, se efectuará con la participación coordinada del Gobierno del Estado y de los municipios involucrados; y en su caso, con el Gobierno Federal y otras Entidades Federativas.
+El ordenamiento y regulación de las Zonas Conurbadas y Zonas Metropolitanas tanto Intermunicipales como Interestatales, se efectuará con la participación coordinada del Gobierno del Estado y de los Municipios involucrados; y en su caso, con el Gobierno Federal y otras Entidades Federativas.
 
 ###### Artículo 24.
 
@@ -487,6 +561,16 @@ La Comisión de Conurbación sesionará conforme lo establezca su reglamento int
 
 La Comisión podrá crear subcomisiones, así como los grupos de trabajo que estime necesarios para el cumplimiento de sus objetivos.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Cuando dos o más Municipios formen o tiendan a formar una continuidad física con una ciudad central mayor de 50,000 habitantes, el Gobierno del Estado y los Municipios respectivos, en el ámbito de sus competencias, planearán regularán de manera conjunta y coordinada el fenómeno metropolitano de referencia.
+
+Los Municipios que sean reconocidos por Decreto o declaratoria de Zonas Metropolitanas emitido por la autoridad competente, podrán participar de manera coordinada y conjunta a través de Convenios y Programas de Planeación Urbana y en los demás temas de orden metropolitano, para el beneficios (sic) de sus habitantes.
+
+Los Ayuntamientos de manera coordinada con el Gobierno del Estado, deberán aprobar la integración del Municipio al área metropolitana correspondiente, así como el Convenio o Declaratoria de Zona Metropolitana tal y como se establece en la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Morelos.
+
 ### CAPÍTULO V. PARTICIPACIÓN SOCIAL EN EL DESARROLLO URBANO SUSTENTABLE
 
 ###### Artículo 30.
@@ -525,7 +609,9 @@ El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano 
 
 I. El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable;
 
-II. Programas de Ordenación de Zonas Conurbadas Interestatales e Intermunicipales;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+II. Programas de Ordenamiento de Zonas Conurbadas y Zonas Metropolitanas interestatales e intermunicipales;
 
 III. Programas Municipales de Desarrollo Urbano Sustentable;
 
@@ -588,6 +674,12 @@ V. Una vez concluido el proyecto del programa, la Secretaría de Desarrollo Urba
 VI. Con el Dictamen de Congruencia a que hace referencia la fracción anterior, la Comisión de Conurbación Intermunicipal aprobará el programa y lo someterá a consideración del Gobernador del Estado para su publicación en el Periódico Oficial “Tierra y Libertad” mediante el decreto correspondiente, y
 
 VII. Asimismo deberá publicarse en dos diarios de mayor circulación, así como su inscripción en el Instituto del Registro Público de la Propiedad y del Comercio. Corresponde a la Comisión de Conurbación editarlo para su difusión y facilitar su consulta permanente.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 37 Bis.
+
+Los Programas de Ordenamiento y Zonas Metropolitanas ubicadas dentro del territorio del Estado se sujetarán a los siguientes procedimientos para su formulación según lo estipulado en la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Morelos.
 
 ###### Artículo 38.
 
@@ -1263,9 +1355,11 @@ El Municipio podrá convenir con el Gobierno del Estado los mecanismos a través
 
 A toda solicitud a la cual deba recaer una resolución administrativa o autorización en materia de administración urbana, la autoridad estatal o municipal deberá notificar por escrito al interesado la resolución correspondiente dentro de los quince días hábiles contados a partir de la recepción de la misma; el funcionario o funcionarios que propicien o sean responsables de no cumplir con el término anterior, serán sancionados de acuerdo a lo señalado por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 127.
 
-Las autoridades en el ámbito de su competencia solicitarán el dictamen de impacto urbano expedido por la Secretaría, para aquellas acciones urbanas que aún y cuando sean compatibles con el uso establecido, alteren el funcionamiento de la estructura urbana del centro de población, de la región o zona conurbada. El dictamen de impacto urbano señalará, en su caso, la necesidad de formular un Programa Parcial de Desarrollo Urbano Sustentable, el cual será formulado por la autoridad municipal, o cuando ésta lo autorice, por el solicitante bajo su supervisión.
+Las autoridades en el ámbito de su competencia, solicitarán el Dictamen de Impacto Urbano expedido por la Secretaría de Desarrollo Sustentable, para aquellas acciones urbanas que aún y cuando sean compatibles con el uso establecido, alteren el funcionamiento de la estructura urbana del centro de población, de la región, Zona Conurbada o Zona Metropolitana. El dictamen de impacto urbano señalara, en su caso, la necesidad de formular un Programa Parcial de Desarrollo Urbano Sustentable, el cual será formulado por la Autoridad Municipal, o cuando ésta lo autorice, por el solicitante bajo su supervisión.
 
 ###### Artículo 128.
 
@@ -1331,9 +1425,11 @@ VI. En entronques de calles los ángulos de intersección no deberán ser menore
 
 Para delimitar los arroyos de circulación vehicular se construirán guarniciones de materiales permeables, las guarniciones y banquetas en esquina deberán permitir el paso y tránsito de las personas con capacidades diferentes.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 136.
 
-El tipo y características técnicas del pavimento a emplearse en vías públicas se determinarán con base en su función dentro de la estructura e imagen urbana y a la intensidad del tránsito y pesos vehiculares, ya sea que se ejecuten en forma directa por los municipios, por contratistas, por particulares o por colonos organizados; en cualquiera de los casos se utilizarán materiales permeables para la mejor filtración de las aguas, de conformidad con lo dispuesto en las normas de equipamiento urbano. La autoridad municipal u otros ejecutores podrán solicitar la asesoría técnica de la Secretaría de Desarrollo Urbano y Obras Públicas, la Secretaría de Desarrollo Social y/o del Colegio de Ingenieros Civiles del Estado.
+El tipo y características técnicas del pavimento a emplearse en vías públicas se determinarán con base en su función dentro de la estructura e imagen urbana y a la intensidad del tránsito y pesos vehiculares, ya sea que se ejecuten en forma directa por los Municipios, por contratistas, por particulares o por colonos organizados; en cualquiera de los casos se utilizarán materiales permeables para la mejor filtración de las aguas, de conformidad con lo dispuesto en las normas de equipamiento urbano. La Autoridad Municipal u otros ejecutores podrán solicitar la asesoría técnica de la Secretaría de Obras Públicas, la Secretaría de Desarrollo Sustentable y/o de los Colegios de Arquitectos o de Ingenieros Civiles legalmente constituidos en la Entidad.
 
 ### CAPÍTULO IV. REDES DE SERVICIOS PÚBLICOS
 
@@ -1371,9 +1467,11 @@ Los derechos de vía de las líneas de alta tensión, previo dictamen de la Secr
 
 Conforme a lo previsto en la presente Ley, corresponde a la autoridad municipal, otorgar las autorizaciones de fusiones, divisiones, condominios, fraccionamientos, conjuntos urbanos y sus modificaciones que se promuevan, respecto de los predios ubicados en el territorio del Municipio de que se trate; salvo los casos considerados en el artículo 7 fracción XIV de la presente Ley.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 144.
 
-Corresponde al gobierno estatal y municipal dentro de su respectivo ámbito de competencia observar que las acciones urbanas contenidas en este título se desarrollen en los lugares o zonas previstas para la función específica que vayan a desempeñar, ajustándose estrictamente a la presente Ley, sus reglamentos, los programas de desarrollo urbano sustentable y la legislación ambiental vigente, federal o estatal. En cualquier caso, a la Secretaría de Desarrollo Urbano y Obras Públicas, le corresponderá vigilar el cumplimiento de las disposiciones correspondientes al presente título.
+Corresponde al Gobierno Estatal y Municipal dentro de su respectivo ámbito de competencia, observar que las acciones urbanas contenidas en este Título se desarrollen en los lugares o zonas previstas para la función específica que vayan a desempeñar, ajustándose estrictamente a la presente Ley, sus Reglamentos, los Programas de Desarrollo Urbano Sustentable y la legislación ambiental vigente, Federal o Estatal. En cualquier caso, a la Secretaría de Desarrollo Sustentable y a la Secretaría de Obras Públicas, les corresponderá vigilar el cumplimiento de las disposiciones correspondientes al presente Título.
 
 ###### Artículo 145.
 
@@ -1669,7 +1767,9 @@ En los conjuntos urbanos en que se desarrollen proyectos de vivienda destinada a
 
 Son autoridades competentes para recibir la denuncia ciudadana, sin menoscabo de otras disposiciones aplicables:
 
-I. El Gobierno del Estado a través de la Secretaría de Desarrollo Urbano y Obras Públicas y el Consejo Estatal;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+I. El Gobierno del Estado a través de la Secretaría de Desarrollo Sustentable, Secretaría de Obras Públicas y el Consejo Estatal;
 
 II. Los Gobiernos Municipales a través del Síndico, la oficina responsable del desarrollo urbano y el Consejo Municipal de Desarrollo Urbano.
 
@@ -1789,9 +1889,11 @@ También serán responsables los funcionarios y empleados de los gobiernos estat
 
 En ambos casos le serán aplicables las sanciones o medidas de seguridad contenidas en el presente Capítulo, con independencia de la responsabilidad civil, penal o administrativa a que diera lugar la violación.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 206.
 
-En todos los casos que con motivo de la aplicación de la presente Ley y sus respectivos reglamentos, se descubra la comisión de un delito de tipo penal la autoridad respectiva levantará un acta que turnará a la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado, que mediante oficio remitirá a la Procuraduría General de Justicia del Estado para que ésta proceda conforme a sus atribuciones.
+En todos los casos que con motivo de la aplicación de la presente Ley y sus respectivos Reglamentos, se descubra la comisión de un delito de tipo penal la autoridad respectiva levantará un acta que turnará a la Secretaría de Desarrollo Sustentable y la Secretaría de Obras Públicas del Gobierno del Estado, que mediante oficio remitirá a la Procuraduría General de Justicia del Estado para que ésta proceda conforme a sus atribuciones.
 
 ###### Artículo 207.
 
@@ -1833,9 +1935,11 @@ Los notarios públicos o cualquier autoridad investidas de fe pública que en el
 
 El servidor público que en ejercicio de sus funciones propicie actos contrarios a la Ley o sus reglamentos, además de la aplicación de la sanción que refiere el artículo que antecede se le impondrá como corrección disciplinaria la suspensión del cargo por treinta días o suspensión definitiva en caso de reincidencia. Lo anterior sin perjuicio de la responsabilidad administrativa, civil o penal que corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 211.
 
-El Secretario de Desarrollo Urbano y Obras Públicas del Estado y los Presidentes Municipales podrán tomar las medidas de seguridad que sean necesarias, cuando se estén llevando a cabo construcciones, fraccionamientos, condominios cambio de uso o destino del suelo u otros aprovechamientos de inmuebles que contravengan la Ley y sus reglamentos, así como los planes o programas de desarrollo urbano sustentable, y esto sea exigido por los residentes del área que resulte directamente afectada.
+El Secretario de Desarrollo Sustentable, la Secretaría de Obras Públicas del Estado y los Presidentes Municipales podrán tomar las medidas de seguridad que sean necesarias, cuando se estén llevando a cabo construcciones, fraccionamientos, condominios cambio de uso o destino del suelo u otros aprovechamientos de inmuebles que contravengan la Ley y sus Reglamentos, así como los Planes o Programas de Desarrollo Urbano Sustentable, y esto sea exigido por los residentes del área que resulte directamente afectada.
 
 ###### Artículo 212.
 
@@ -1920,3 +2024,17 @@ Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital de
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS MTRO. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO JORGE MORALES BARUD RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- La Secretaría de Desarrollo Sustentable y la Secretaría de Obras Públicas del Gobierno del Estado, tendrán un plazo de hasta 45 días para adecuar sus Reglamentos internos a la presente reforma.
+
+Tercero.- Se le otorga 90 días, para que el Ejecutivo del Estado, actualice el Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Sustentable del Estado de Morelos.
+
+Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Quinto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
