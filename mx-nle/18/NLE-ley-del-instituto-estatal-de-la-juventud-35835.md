@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-24"
+last_updated: "2013-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -81,7 +81,7 @@ VI. Coadyuvar con las instancias que correspondan para promover el respeto a los
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-I. Elaborar el Programa Estatal de la Juventud de acuerdo a lo que determine el Reglamento Interior del Instituto, el que deberá contener los objetivo (SIC), estrategias y líneas de acción para promover el desarrollo integral de los jóvenes, atendiendo a los siguientes lineamientos básicos generales:
+I. Elaborar el Programa Estatal de la Juventud de acuerdo a lo que determine el Reglamento Interior del Instituto, el que deberá contener los objetivo (sic), estrategias y líneas de acción para promover el desarrollo integral de los jóvenes, atendiendo a los siguientes lineamientos básicos generales:
 
 a. Una perspectiva integral que permita abordar, desde todas las dimensiones sociales, los asuntos que son de interés para la juventud, promover la participación de los jóvenes y a la vez, tomará en cuenta para la definición e implementación de Programas y proyectos juveniles, las aspiraciones, intereses y prioridades de las y los jóvenes del Estado;
 
@@ -399,9 +399,15 @@ VI. Las demás que le correspondan.
 
 #### Sección Tercera. Del Director General del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
 ###### Artículo 21.
 
-El Director General será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado. La Dirección General del Instituto deberá recaer sobre una persona menor a 29 años al día de su nombramiento como Director General del Instituto.
+El Director General será nombrado y removido por el Titular del Poder Ejecutivo del Estado. Para ser Director General del Instituto se requiere tener como edad máxima la de 29 años al día de su nombramiento, ser ciudadano nuevoleonés o residencia en el Estado por más de tres años al día de su nombramiento, estudios de nivel superior y acreditar experiencia en áreas de atención a la juventud.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+
+En caso de ausencia de éste, deberá nombrarse un encargado del despacho, quien debe reunir los mismos requisitos exigidos para el titular y este no permanecerá por más de tres meses en su encargo.
 
 El Director General tendrá las siguientes atribuciones:
 
@@ -543,7 +549,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE ABRIL DE 2007.
 
@@ -558,3 +564,7 @@ P.O. 3 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
