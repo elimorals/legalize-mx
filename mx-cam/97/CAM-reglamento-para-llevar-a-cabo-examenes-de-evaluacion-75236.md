@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-para-llevar-a-cabo-examenes-de-evaluacion-75236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-20"
-last_updated: "2013-02-22"
+last_updated: "2013-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CAM"
 
 REGLAMENTO PARA LLEVAR A CABO EXÁMENES DE EVALUACIÓN INTERNA PARA OCUPAR LAS PLAZAS DEL PERSONAL ADSCRITO AL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el martes 20 de abril de 2010.
 
@@ -48,19 +48,19 @@ Disposiciones generales
 
 En cumplimiento con lo establecido por la Ley Orgánica del Poder Judicial del Estado, el Pleno del Tribunal Superior de Justicia emite el presente Reglamento para llevar a cabo exámenes de evaluación interna para ocupar las plazas del personal adscrito al Poder Judicial del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 2.
 
-El cumplimiento y aplicación de esta normatividad estará a cargo de la Comisión de Evaluación, que se integrará por:
+El cumplimiento y aplicación de esta normatividad estará a cargo de la Comisión de Evaluación, cuyos miembros se elegirán por insaculación del Pleno, actuará durante seis meses y se integrará por:
 
 a) El Presidente del Tribunal Superior de Justicia;
 
-b) Un Magistrado designado por insaculación del Pleno que actuará durante seis meses y quien fungirá como Coordinador de la Comisión; y
+b) Dos Magistrados, uno de los cuales fungirá como Coordinador, conforme a la designación que realice la propia Comisión; y
 
-c) Dos Jueces, que serán insaculados y que actuarán durante seis meses.
+c) Dos Jueces.
 
-Esta Comisión evaluará el proceso de selección que provea los elementos necesarios para la prudente decisión del Pleno, respecto de la idoneidad de los candidatos que concursen para ocupar las plazas hasta su conclusión, de conformidad con la ley.
+Esta Comisión evaluará el proceso de selección hasta su conclusión, con la finalidad de proveer los elementos necesarios para la prudente decisión del Pleno, respecto de la idoneidad de los candidatos que concursen para ocupar las plazas, de conformidad con la ley.
 
 ###### Artículo 3.
 
@@ -193,5 +193,11 @@ Artículo tercero: Con fundamento en el Código Civil vigente del Estado y para 
 P.O. 22 DE FEBRERO DE 2013.
 
 PRIMERO: Las reformas al presente Reglamento entrarán en vigor conforme al artículo 3 del Código Civil del Estado de Campeche.
+
+SEGUNDO: Con fundamento en el Código Civil vigente del Estado y la Ley de Transparencia y Acceso a la Información Pública del Estado remítase para su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.- CÚMPLASE.
+
+P.O. 31 DE OCTUBRE DE 2013.
+
+PRIMERO: La reforma al citado Reglamento tendrá vigencia a partir del 23 de octubre de 2013.
 
 SEGUNDO: Con fundamento en el Código Civil vigente del Estado y la Ley de Transparencia y Acceso a la Información Pública del Estado remítase para su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.- CÚMPLASE.
