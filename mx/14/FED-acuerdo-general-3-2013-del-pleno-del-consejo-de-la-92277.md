@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-09-30"
+last_updated: "2013-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -137,9 +137,9 @@ III. TERCER CIRCUITO:
 
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 24/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 31/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
-3. Veinticuatro juzgados de Distrito especializados: siete de Procesos Penales Federales con sede en Puente Grande, Municipio de Juanacatlán; cuatro de Amparo en Materia Penal, siete en materias administrativa y de trabajo, y seis en materia civil, todos con residencia en el Municipio de Zapopan.
+3. Veintiséis juzgados de Distrito especializados: seis de amparo en materia penal, siete en materias administrativa y de trabajo, y seis en materia civil, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande”.
 
 > <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 12/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE ABRIL DE 2013)</small>
 
@@ -721,7 +721,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
-8. El Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, se integrará por dos tribunales colegiados de Circuito Auxiliares y un juzgado de Distrito Auxiliar.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 35/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+
+8. El Centro Auxiliar de la Octava Región, se integrará por un tribunal colegiado de Circuito y un juzgado de Distrito Auxiliares con residencia en Cancún, Quintana Roo, así como por un tribunal colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
@@ -834,3 +836,27 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 31 DE OCTUBRE DE 2013.
+
+ACUERDO 31/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, FRACCIÓN III, TERCER CIRCUITO, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+CUARTO. La jueza o juez que tenga a su cargo la Coordinación de los Juzgados de Amparo en Materia Penal en el Estado de Jalisco enviará a la Secretaría Ejecutiva del Pleno el rol de guardias de dichos juzgados para su inmediata publicación en las páginas de Intranet e Internet del Consejo de la Judicatura Federal, de conformidad con lo dispuesto en el punto SEXTO del presente Acuerdo General.
+
+D.O.F. 31 DE OCTUBRE DE 2013.
+
+ACUERDO GENERAL 35/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO, NUMERAL 8.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá, en su caso, las incidencias laborales que lleguen a presentarse con motivo del traslado del órgano colegiado que aquí se ordena.
+
+CUARTO. Para conocimiento del público en general y por la trascendencia del mismo, publíquese el acuerdo en la Página del Consejo de la Judicatura Federal, como aviso importante. Asimismo, los tribunales colegiados de Circuito de número que hubieran enviado asuntos al Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, y que aún no hubieren sido resueltos, deberán colocar avisos visibles en el local que ocupan, con el nuevo domicilio del órgano jurisdiccional de que se trata.
