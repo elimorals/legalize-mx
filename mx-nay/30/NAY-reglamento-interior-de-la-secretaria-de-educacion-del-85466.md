@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-educacion-del-85466"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-07"
-last_updated: "2012-01-07"
+last_updated: "2013-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 7 de enero de 2012.
 
@@ -1386,3 +1388,17 @@ TERCERO. En tanto se expiden el Manual General de Organización de la Secretarí
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los cuatro días del mes de enero del dos mil doce.
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".- ROBERTO SANDOVAL CASTAÑEDA, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- LIC. JOSÉ TRINIDAD ESPINOZA VARGAS, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- LIC. MARCO ANTONIO LEDESMA GONZÁLEZ, SECRETARIO DE EDUCACIÓN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Educación, publicado el 7 de Enero de 2012 en el Periódico Oficial órgano de Gobierno del Estado de Nayarit.
+
+TERCERO. En tanto se expiden el Manual General de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo de la dependencia, el o la titular de la Secretaría tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
+
+CUARTO. El Manual General de Organización deberá expedirse en un plazo no mayor a ciento ochenta días contados a partir de la publicación del presente instrumento.
+
+QUINTO. Se abrogan y derogan todos los instrumentos y disposiciones contrarios al presente Reglamento.
