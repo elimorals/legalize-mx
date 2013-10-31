@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2012-12-06"
+last_updated: "2013-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -387,9 +387,21 @@ IX. Celebrar convenios para la seguridad social de sus trabajadores, con las Ins
 
 X. Acordar la organización de un Instituto del servicio civil de carrera, que tenga como finalidad capacitar al personal administrativo, en forma permanente, para ello, deberá promover la investigación constante y todo tipo de cursos y seminarios que hagan del empleado municipal, un servidor útil a la ciudadanía
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2003)</small>
+(ADICIONADA, P.O. 31 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO No. 216 PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2003, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
-XI. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial, en los términos de las leyes federales y estatales relativas.
+XI. Proporcionar a los servidores públicos, en coordinación con la Comisión Estatal de Derechos Humanos del Estado de Durango, al inicio de la administración y cuando así se requiera, en forma general ó por áreas de adscripción, capacitación en materia de derechos humanos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2013)</small>
+
+XII. Mantener permanente comunicación y un trabajo coordinado e institucional con la Comisión Estatal de Derechos Humanos de Durango, para la atención de los asuntos que correspondan a su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2013)</small>
+
+XIII. Cumplir con las recomendaciones que emita la Comisión Estatal de Derechos Humanos de Durango, en base a lo dispuesto por la Ley Orgánica de la Comisión Estatal de Derechos Humanos del Estado de Durango; y
+
+(ADICIONADA, P.O. 31 DE OCTUBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL DECRETO No. 216 PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2003 EN LA FRACCIÓN XI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DEL DECRETO No. 509 DEL 31 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XIV.
+
+XIV. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial, en los términos de las leyes federales y estatales relativas.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2003)</small>
 
@@ -2063,6 +2075,34 @@ X. Informar, por razones de coordinación y actualización de estadísticas, al 
 
 XI. Las demás que acuerde el propio sistema municipal.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2013)</small>
+
+## TITULO DÉCIMO SEGUNDO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO. DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2013)</small>
+
+###### ARTÍCULO 214.
+
+El Ayuntamiento a través de su Representante legal establecerá un enlace institucional con la Comisión Estatal de Derechos Humanos de Durango, quien actuará como vínculo y con facultades para fomentar e impulsar la cultura de los derechos humanos en el correspondiente municipio, sus principales atribuciones son:
+
+I.- Representar y mantener la coordinación del Ayuntamiento con la Comisión Estatal de Derechos Humanos;
+
+II.- Promover cursos de capacitación y actualización para servidores públicos municipales, con materias relativas a los derechos humanos;
+
+III.- Organizar actividades en las que se promueva entre la población el fortalecimiento de la cultura de los derechos humanos;
+
+IV. - Promover, según las circunstancias del municipio y en base a sus recursos económicos actividades relativas a la actualización de las disposiciones legales para la protección y promoción de los derechos humanos;
+
+V.- Vigilar que se elaboren y rindan oportunamente los informes solicitados por la Comisión Estatal de Derechos Humanos;
+
+VI.- Con apoyo de la Comisión Estatal de Derechos Humanos, dar asesoría a los menores de edad, personas de la tercera edad, indígenas, discapacitados, y detenidos o arrestados por autoridades municipales por la comisión de faltas administrativas, a fin de que le sean respetados sus derechos; y
+
+VII.- Las demás que le otorguen otras disposiciones legales o reglamentarias.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor a los 30 días siguientes al de su publicación, en el periódico oficial del gobierno del estado.
@@ -2152,3 +2192,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 31 DE OCTUBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones en lo que se opongan al presente Decreto.
