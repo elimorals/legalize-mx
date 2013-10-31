@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2010-del-pleno-del-consejo-de-la-77112"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-10-29"
-last_updated: "2012-01-27"
+last_updated: "2013-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-10-21"
 
 ACUERDO GENERAL 32/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA OCTAVA REGIÓN, CON RESIDENCIA EN CANCÚN, QUINTANA ROO, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de octubre de 2010.
 
@@ -59,17 +59,15 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 35/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Octava Región, conformado por dos tribunales colegiados de Circuito auxiliares y un juzgado de Distrito auxiliar, con residencia en Cancún, Quintana Roo, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
-
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Octava Región, conformado por dos tribunales colegiados de Circuito y un juzgado de Distrito auxiliares; un tribunal colegiado y el juzgado de Distrito auxiliares tendrán residencia en Cancún, Quintana Roo, y un tribunal colegiado de Circuito Auxiliar en Mérida, Yucatán; todos ellos tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado de Distrito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
 
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región.
+Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
 
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región.
+Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región, con residencia en Mérida, Yucatán.
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los Tribunales Colegiados de referencia, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
 
@@ -107,7 +105,7 @@ Los titulares o presidentes de los órganos jurisdiccionales comisionarán, de s
 
 SEXTO. PLANTILLAS. Las plantillas de los tribunales colegiados auxiliares serán las siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Octava Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial.
 
@@ -115,11 +113,11 @@ Asimismo, los órganos jurisdiccionales auxiliares que integran el Centro Auxili
 
 ORGANO JURISDICCIONAL AUXILIADO
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ORGANO JURISDICCIONAL AUXILIAR
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Organos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
 
@@ -186,3 +184,13 @@ SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deber
 SEPTIMO. La Visitaduría Judicial en coordinación con la Dirección General de Estadística Judicial, determinarán el número y contenido de los libros de gobierno que obligatoriamente deberán llevar los nuevos órganos en materia mercantil, proponiendo para ello la reforma que corresponda al Acuerdo General 34/2000.
 
 OCTAVO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá, en su caso, las incidencias laborales que lleguen a presentarse con motivo del traslado del órgano colegiado que aquí se ordena.
+
+CUARTO. Para conocimiento del público en general y por la trascendencia del mismo, publíquese el acuerdo en la Página del Consejo de la Judicatura Federal, como aviso importante. Asimismo, los tribunales colegiados de Circuito de número que hubieran enviado asuntos al Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, y que aún no hubieren sido resueltos, deberán colocar avisos visibles en el local que ocupan, con el nuevo domicilio del órgano jurisdiccional de que se trata.
