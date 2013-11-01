@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-7-2012-de-la-comision-de-creacion-de-nuevos-88061"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-01"
-last_updated: "2012-06-01"
+last_updated: "2013-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88061&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-05-21"
 
 ACUERDO CCNO/7/2012 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA AL DIVERSO CCNO/3/2012, RELATIVO AL INICIO DE LA COMPETENCIA TEMPORAL COMPARTIDA Y TURNO REGULADO DE ASUNTOS EJECUTIVOS MERCANTILES, DEL JUZGADO PRIMERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN SAN ANDRÉS CHOLULA, PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO CCNO/11/2013 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 1 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 1 de junio de 2012.
 
@@ -70,3 +72,15 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO EDWIN NOE GARCIA BAEZA, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/7/2012, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, que modifica al diverso CCNO/3/2012, relativo al inicio de la competencia temporal compartida y turno regulado de asuntos ejecutivos mercantiles, del Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en San Andrés Cholula, Puebla, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veintiuno de mayo de dos mil doce, por los señores Consejeros: Presidente César Alejandro Jáuregui Robles, Daniel Francisco Cabeza de Vaca Hernández y Jorge Moreno Collado.- México, Distrito Federal, a veintiuno de mayo de dos mil doce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los asuntos ejecutivos mercantiles que a la fecha de entrada en vigor de la presente medida se encuentren en trámite ante el Juzgado Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula, Puebla, continuarán substanciándose ante éste hasta su conclusión y archivo definitivo.
+
+TERCERO. Se abrogan los Acuerdos CCNO/3/2012 y CCNO/7/2012 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal.
+
+CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
