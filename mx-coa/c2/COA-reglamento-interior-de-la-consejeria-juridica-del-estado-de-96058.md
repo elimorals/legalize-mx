@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-consejeria-juridica-del-estado-de-960
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-24"
-last_updated: "2013-09-24"
+last_updated: "2013-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE NOVIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JLRÍDICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 14 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+TEXTO ORIGINAL MODIFICADO POR FE DE ERRATAS, PUBLICADA EN EL PERIÓDICO OFICIAL DE 1 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de septiembre de 2013.
 
@@ -95,7 +95,9 @@ III. Dirección de Proyectos Normativos;
 
 IV. Dirección de Asuntos Contenciosos;
 
-V. Dirección de Proyectos y Trámites;
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2013)</small>
+
+V. Dirección de Procedimientos y Trámites.
 
 VI. Unidad de Archivo y Documentación;
 
@@ -425,7 +427,9 @@ V. Formular y proponer a la o el titular Consejería (sic) las reformas que esti
 
 VI. Supervisar que en los ceses, remociones, rescisiones laborales o suspensiones de los trabajadores al servicio del Poder Ejecutivo y de los cuales tenga conocimiento la Consejería, se observe la normativa jurídica y administrativa aplicable, proponiendo lineamientos y criterios o emitiendo opinión al respecto;
 
-VII. Conocer, tramitar y poner en estado de resolución los recursos administrativos que interpongan a quien sea titular del Ejecutivo y los de revocación a que se refiere el artículo 12 de la Ley De Expropiación, Ocupación Temporal, Limitación de Dominio y Servidumbre Administrativa por Causas de Utilidad Pública para el Estado de Coahuila, y
+> <small>(F. DE E., P.O. 1 DE NOVIEMBRE DE 2013)</small>
+
+VII. Conocer, tramitar y poner en estado de resolución los recursos administrativos de revocación a que se refiere el artículo 38 de la Ley de Expropiación, Ocupación Temporal, Limitación de Dominio y Servidumbre Administrativa por Causas de Utilidad Pública para el Estado de Coahuila, y
 
 VIII. Las demás que expresamente le determinen el o la titular de la Consejería y las disposiciones jurídicas aplicables.
 
