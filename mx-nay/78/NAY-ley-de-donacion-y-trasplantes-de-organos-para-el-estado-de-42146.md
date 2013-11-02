@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-donacion-y-trasplantes-de-organos-para-el-estado-de-4214
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2007-11-14"
+last_updated: "2013-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de diciembre de 2004.
 
@@ -1316,3 +1318,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se deberá proveer lo necesario para poner en funcionamiento el Consejo Estatal de Trasplantes, en un término no mayor a 90 días, contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- A la entrada en vigor de la presente reforma, quedará abrogada la Ley de Donación y Trasplantes de Órganos para el Estado de Nayarit, publicada el 25 de diciembre de 2004, mediante Decreto número 8556.
+
+Artículo Tercero.- En un término de 120 días el Titular del Poder Ejecutivo de la entidad a través de la Secretaría de Salud, deberá emitir el Reglamento del Centro Estatal de Trasplantes armonizando su contenido con el texto de esta reforma.
