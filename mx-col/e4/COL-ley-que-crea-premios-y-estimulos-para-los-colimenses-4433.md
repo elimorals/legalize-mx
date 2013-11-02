@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2013-08-31"
+last_updated: "2013-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -73,9 +73,9 @@ IV.- Condecoración "ALFONSO MICHEL'', para distinguidos artistas (pintores, com
 
 V.- Condecoración “LIC. BALBINO DAVALOS”, que se otorgará a quienes se distingan en las Letras (historiadores, poetas, críticos, ensayistas, literatos, cuentistas, académicos, novelistas, filólogos, investigadores, autores de obras especializadas, escritores, etc.);
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Condecoración “DR. MIGUEL GALINDO”, que se otorgara a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.); y
+VI.- Condecoración “Dr. MIGUEL GALINDO”, que se otorgará a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.);
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
@@ -103,11 +103,25 @@ j) Periodismo cultural / difusión científica; y
 
 k) Periodismo deportivo.
 
-La entrega de estos premios se hará en el marco del festejo del día de la libertad de expresión.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+La entrega de estos premios se hará en el marco del festejo del día de la libertad de expresión; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Premio Estatal “Ricardo de Jesús Vázquez Lara Centeno”, que se entregará en las siguientes categorías:
+
+a) A las personas o agrupaciones sociales que de manera altruista han realizado acciones destacadas para mejorar las condiciones de vida de las personas con discapacidad en el Estado; y
+
+b) A las personas que teniendo alguna discapacidad han logrado destacar de manera relevante en el desarrollo de algún ámbito social.
+
+La entrega de este premio se realizará en el marco del festejo del día internacional de las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 2o.
 
-Las insignias a que se refiere el artículo anterior, las constituirán medallas de oro o plata que contengan el nombre y si es posible, la efigie del patricio que les da su nombre, la leyenda correspondiente y el nombre del agraciado.
+Las insignias a que se refiere el artículo anterior, las constituirán medallas en colores oro o plata que contengan el nombre y si es posible, la efigie del patricio que les da su nombre, la leyenda correspondiente y el nombre del agraciado.
 
 ###### Artículo 3o.
 
@@ -165,6 +179,16 @@ IX.- La responsabilidad profesional.
 
 La entrega del Premio Estatal de Periodismo consistirá en un pergamino y una asignación en Moneda Nacional siempre que exista disponibilidad presupuestaria.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 7o.
+
+La entrega del Premio Estatal "Ricardo de Jesús Vázquez Lara Centeno", a que hace referencia la fracción VIII, del artículo 1° de esta Ley, se realizará en Sesión Solemne del Congreso del Estado, el Día Internacional de las Personas con Discapacidad, o cuando así lo determine el Pleno de éste.
+
+Durante los primeros 15 días del mes de noviembre de cada año, se deberá integrar una Comisión Dictaminadora conformada por el Congreso del Estado de Colima, a través del Diputado Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad y del Diputado Presidente de la Comisión de Educación y Cultura; por el Instituto Colimense para la Discapacidad (INCODIS) a través de su Director; y por un representante de la Sociedad Civil de cada una de las Asociaciones de y para personas con discapacidad en el Estado; la que deberá emitir la convocatoria en que se establezcan los plazos, requisitos y el procedimiento electivo para obtener el Premio Estatal "Ricardo Jesús Vázquez Lara Centeno", y deberá ser publicada en la página web del Congreso, dirigida a las asociaciones civiles de apoyo a las personas con discapacidad, y en general a toda la población del Estado.
+
+Una vez analizadas las propuestas por el Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad, el Diputado Presidente de la Comisión de Educación y Cultura y el Director del Instituto Colimense para la Discapacidad (INCODIS) y, un representante de las Sociedades Civiles señaladas en el párrafo anterior, éstos elegirán a los merecedores del premio; quienes enviarán a la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad el resultado obtenido para que elaboren y presenten ante el Pleno del Congreso el Acuerdo correspondiente.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -198,3 +222,7 @@ P.O. 18 DE FEBRERO DE 2012.
 P.O. 31 DE AGOSTO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
