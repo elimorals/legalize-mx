@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-del-centro-de-capacitacion-del-instituto-estatal-877
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-28"
-last_updated: "2012-04-28"
+last_updated: "2013-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NAY"
 ---
 # REGLAMENTO DEL CENTRO DE CAPACITACION DEL INSTITUTO ESTATAL ELECTORAL -- ANTES CENTRO DE FORMACION Y DOCUMENTACION ELECTORAL, DEL INSTITUTO ESTATAL ELECTORAL -- DEL ESTADO DE NAYARIT
 
-REGLAMENTO DEL CENTRO DE FORMACIÓN Y DOCUMENTACIÓN ELECTORAL, DEL INSTITUTO ESTATAL ELECTORAL DEL ESTADO DE NAYARIT
+REGLAMENTO DEL CENTRO DE CAPACITACIÓN DEL INSTITUTO ESTATAL ELECTORAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Novena Sección del Periódico Oficial del Estado de Nayarit, el sábado 28 de abril del 2012.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 2013, LO CONCERNIENTE A LA DENOMINACIÓN "CENTRO DE FORMACIÓN Y DOCUMENTACIÓN ELECTORAL", DEBERÁ ENTENDERSE CON LA DENOMINACIÓN DE "CENTRO DE CAPACITACIÓN DEL INSTITUTO ESTATAL ELECTORAL".</small>
 
 A V I S O
 
@@ -37,7 +39,9 @@ PRIMERO.- Se aprueba la creación del Centro de Formación y Documentación Elec
 
 SEGUNDO.- Se aprueba el Reglamento del Centro de Formación y Documentación Electoral, del Instituto Estatal Electoral, quedando de la siguiente manera:
 
-Reglamento del Centro de Formación y Documentación Electoral, del Instituto Estatal Electoral
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+Reglamento del Centro de Capacitación del Instituto Estatal Electoral
 
 ## TITULO PRIMERO. Del Centro de Formación y Documentación Electoral
 
@@ -1002,3 +1006,9 @@ TRANSITORIO.- El presente Reglamento entrará en vigor al día siguiente de su p
 Así lo resolvió la Junta Estatal Ejecutiva a los 26 veintiséis días del mes de abril de 2012 dos mil doce. Publíquese.
 
 Atentamente En la democracia, todos participamos.- Tepic, Nayarit; 26 de abril de 2012.- LIC. SERGIO LÓPEZ ZÚÑIGA, Consejero Presidente.- Rúbrica.- LIC. ANTONIO SÁNCHEZ MACÍAS, Secretario General.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE NOVIEMBRE DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT.
