@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2012-07-07"
+last_updated: "2013-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -115,7 +115,9 @@ VII. Áreas de refugio: Superficie geográfica del territorio estatal que se enc
 
 VIII. Áreas de valor ambiental: Las áreas en donde los ambientes originales han sido modificados por actividades antropogénicas y que requieren ser restauradas o preservadas, en función de que aún mantienen ciertas características biofísicas y escénicas, las cuales les permiten contribuir a mantener la calidad ambiental en el Estado;
 
-IX. Áreas naturales protegidas: Los espacios físicos naturales en donde los ambientes originales no han sido significativamente alterados por actividades antropogénicas o que requieran de ser preservadas y restauradas por su estructura y función para la recarga de los mantos acuíferos y la preservación de la biodiversidad, así como por sus características ecogeográficas, contenido de especies, bienes y servicios ambientales y culturales que proporcionan a la población, en las cuales el Estado ejerce su soberanía y jurisdicción, sujetas al régimen de protección;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+IX. Áreas naturales protegidas: Los espacios físicos naturales en donde los ambientes originales no han sido significativamente alterados por actividades antropogénicas, o que sus ecosistemas y funciones integrales requieran ser preservados y restaurados por su estructura y función para la recarga de los mantos acuíferos y la preservación de la biodiversidad, así como por sus características ecogeográficas, contenido de especies, bienes y servicios ambientales y culturales que proporcionan a la población, en las cuales el Estado ejerce su soberanía y jurisdicción, sujetas al régimen de protección;
 
 X. Biodigestor o sumidero: Cualquier proceso, actividad o mecanismo que absorbe un gas de efecto invernadero, partículas suspendidas, un aerosol o un precursor de un gas de efecto invernadero de la atmósfera;
 
@@ -1455,6 +1457,8 @@ Las áreas y espacios verdes municipales bajo las categorías de parques urbanos
 
 ### CAPÍTULO IV. ÁREAS NATURALES PROTEGIDAS DE JURISDICCIÓN DEL ESTADO
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 93.
 
 Las categorías de áreas de valor ambiental son:
@@ -1503,21 +1507,29 @@ Las prohibiciones que establece la presente Ley en relación con las áreas natu
 
 La determinación de áreas naturales protegidas tiene como propósito:
 
-I. Preservar los ambientes naturales dentro de las zonas de los asentamientos humanos y en su entorno, para contribuir a mejorar la calidad de vida de la población y mantener su equilibrio ecológico;
+I. Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles, así como sus funciones, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
 
-II. Salvaguardar la diversidad genética de las especies silvestres que habitan en los centros de población y áreas adyacentes;
+II. Preservar los ambientes naturales dentro de las zonas de los asentamientos humanos y en su entorno, para contribuir a mejorar la calidad de vida de la población y mantener su equilibrio ecológico;
 
-III. Asegurar el aprovechamiento sustentable de los recursos naturales, los ecosistemas y sus elementos;
+III. Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva; así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio estatal, en particular preservar las especies que están en peligro de extinción, las amenazadas, las endémicas, las raras y las que se encuentran sujetas a protección especial;
 
-IV. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio;
+IV. Asegurar la preservación y el aprovechamiento sustentable de los recursos naturales, los ecosistemas, sus elementos y sus funciones;
 
-V. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio estatal, así como su preservación;
+V. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio;
 
-VI. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos de importancia para la cultura e identidad estatales;
+VI. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio estatal, así como su preservación;
 
-VII. Proteger sitios escénicos para asegurar la calidad del ambiente y promover el turismo alternativo; y
+VII. Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área;
 
-VIII. Proteger los recursos naturales, la flora y fauna silvestre, terrestre y acuática, estableciendo viveros, criaderos y reservas para su conservación y preservación, sobre todo para aquellas especies en vías de extinción.
+VIII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos de importancia para la cultura e identidad estatales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+IX. Proteger sitios escénicos para asegurar la calidad del ambiente y promover el turismo alternativo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+X. Proteger los recursos naturales, la flora y fauna silvestre, terrestre y acuática, estableciendo viveros, criaderos y reservas para su conservación y preservación, sobre todo para aquellas especies en vías de extinción.
 
 ###### ARTÍCULO 100.
 
@@ -1591,7 +1603,9 @@ VII. La realización de actividades cinegéticas o de explotación ilícitas de 
 
 VIII. La ejecución de acciones que contravengan lo dispuesto por la declaratoria respectiva;
 
-IX. La introducción de especies exóticas y organismos genéticamente modificados y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+IX. La introducción de especies exóticas invasoras y organismos genéticamente modificados, y
 
 X. Las demás actividades previstas en el decreto de creación y en las disposiciones jurídicas aplicables.
 
@@ -2948,3 +2962,7 @@ P.O. 7 DE JULIO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los Comités a que se refiere el último párrafo del artículo 37 del presente Dictamen, se deberán conformar en un plazo no mayor a noventa días a partir de la entrada en vigencia de éste y, su reglamento interior deberá elaborarse dentro de otro plazo igual una vez formalizada su integración.
+
+P.O. 2 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
