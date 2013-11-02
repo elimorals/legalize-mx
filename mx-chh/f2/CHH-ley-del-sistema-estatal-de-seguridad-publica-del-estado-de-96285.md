@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2013-10-12"
+last_updated: "2013-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE NOVIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE NOVIEMBRE DE 2013.</small>
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -705,7 +705,9 @@ XI. Se observarán los procedimientos relativos a cada una de las etapas del Ser
 
 El Servicio Profesional de Carrera es independiente de los nombramientos para desempeñar cargos administrativos o de dirección en las Instituciones de Seguridad Pública. En ningún caso los derechos adquiridos en el Servicio Profesional de Carrera, implicarán inamovilidad en dichos cargos.
 
-Al término de lo (sic) efectos de los nombramientos para tales cargos, los Integrantes podrán reincorporarse al Servicio Profesional de Carrera, debiendo respetarse su categoría o jerarquía, siempre que no exista impedimento legal para ello.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+Al término de los efectos de los nombramientos para tales cargos, los Integrantes podrán reincorporarse al Servicio Profesional de Carrera, debiendo respetarse su categoría o jerarquía, siempre que no exista impedimento legal para ello.
 
 Los agentes del Ministerio Público que no formen parte del Servicio Profesional de Carrera y que sean nombrados para desempeñar cargos administrativos o de dirección en los que tengan bajo su mando directo e inmediato a agentes del Ministerio Público, no perderán por ése hecho tal carácter, por lo que a la terminación del nombramiento correspondiente volverán a desempeñarse como agentes del Ministerio Público.
 
@@ -713,9 +715,11 @@ Los agentes del Ministerio Público que no formen parte del Servicio Profesional
 
 Las relaciones jurídicas entre las Instituciones de Seguridad Pública y sus Integrantes se regirán por el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución, la presente Ley y reglamentos que de ésta deriven.
 
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 56.
 
-Los Integrantes podrán ser separados o removidos de su cargo si no cumplen con los requisitos que establece esta Ley para ingresar o permanecer en las mismas o ser removidos por incumplimiento a sus obligaciones y deberes, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa intentado para combatir la separación, remoción o cualquier otra forma de terminación del servicio,
+Los Integrantes podrán ser separados o removidos de su cargo si no cumplen con los requisitos que establece esta Ley para ingresar o permanecer en las mismas o ser removidos por incumplimiento a sus obligaciones y deberes, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa intentado para combatir la separación, remoción o cualquier otra forma de terminación del servicio.
 
 En caso de que los órganos jurisdiccionales resuelvan que la separación o remoción del Integrante es injustificada, el Estado o el municipio respectivo sólo estará obligado a pagar una indemnización equivalente al importe de tres meses de su percepción diaria ordinaria, así como el equivalente a veinte días de dicha percepción por cada uno de los años de servicios prestados; el pago de la percepción diaria ordinaria únicamente por el tiempo que dure el trámite de los procedimientos, juicios o medios de defensa promovidos, sin que en ningún caso esta prestación exceda de la cantidad equivalente al pago de doce meses de dicha percepción, así como los proporcionales adquiridos.
 
@@ -879,7 +883,9 @@ VI. Omitir injustificadamente la práctica de las diligencias necesarias en cada
 
 VII. Abstenerse de promover en la vía incidental ante la autoridad judicial, el reconocimiento de la calidad de víctima u ofendido en los términos de las disposiciones aplicables.
 
-VIII. Negar indebidamente a la víctima u ofendido el acceso a la reparación del daño, así como a los fondos contemplados en ley para tales efectos, cuando tengan derecho a ello.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Negar indebidamente a la víctima u ofendido el acceso a la reparación del daño, así como a los fondos contemplados en la ley para tales efectos, cuando tengan derecho a ello.
 
 IX. No registrar la detención conforme a las disposiciones aplicables o abstenerse de actualizar el registro correspondiente.
 
@@ -1355,9 +1361,11 @@ El incumplimiento de alguno de los requisitos señalados en el artículo anterio
 
 Los Integrantes deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño, con la periodicidad y en los casos que establece la presente Ley y demás disposiciones y normatividad aplicables.
 
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 115.
 
-La evaluación del desempeño es el proceso de verificación periódica de la prestación del servicio de los Integrantes, que permite medir el apego cualitativo y cuantitativo a los principios constitucionales de legalidad, objetividad, eficiencia, honradez y respeto a los derechos fundamentales, así como a la disciplina, que rigen la actuación ministerial, pericial y policial y su contribución a los objetivos institucionales, de acuerdo a las disposiciones de esta Ley el Reglamento respectivo.
+La evaluación del desempeño es el proceso de verificación periódica de la prestación del servicio de los Integrantes, que permite medir el apego cualitativo y cuantitativo a los principios constitucionales de legalidad, objetividad, eficiencia, honradez y respeto a los derechos fundamentales, así como a la disciplina, que rigen la actuación ministerial, pericial y policial y su contribución a los objetivos institucionales, de acuerdo a las disposiciones de esta Ley y los Reglamentos respectivos.
 
 ###### Artículo 116.
 
@@ -1421,7 +1429,9 @@ X. Proporcionar al Registro Nacional de Personal, así como al Registro Estatal,
 
 XI. Solicitar se efectúe el seguimiento individual de los Integrantes evaluados, en los que se identifiquen factores de riesgo que interfieran y repercutan en el desempeño de sus funciones.
 
-XII. Detectar aéreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+XII. Detectar areas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada.
 
 XIII. Proporcionar a las Instituciones de Seguridad Pública, la asesoría y apoyo técnico que requieran sobre información de su competencia.
 
@@ -2243,9 +2253,11 @@ Para la realización de sus atribuciones, las Comisiones se auxiliarán del pers
 
 El Reglamento respectivo determinará las bases para la operación y funcionamiento de las Comisiones, así como las atribuciones de sus integrantes.
 
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 197.
 
-La Comisiones llevarán un registro de datos de los Integrantes, los que se incorporarán a las bases de datos del Registro Nacional de Personal, así como del Registro Estatal de Personal.
+Las Comisiones llevarán un registro de datos de los Integrantes, los que se incorporarán a las bases de datos del Registro Nacional de Personal, así como del Registro Estatal de Personal.
 
 ### CAPÍTULO I. DEL PROCEDIMIENTO DE SEPARACIÓN Y DEL RÉGIMEN DISCIPLINARIO
 
@@ -2279,7 +2291,9 @@ Los integrantes del Consejo designarán por escrito a un suplente, quien deberá
 
 Ningún integrante del Consejo podrá suplir en sus ausencias a cualquiera de los demás miembros.
 
-El Consejo sesionará en pleno con la presencia de las dos terceras partes de sus integrantes y los acuerdos se tomarán por mayoría simple de los miembros presentes, En caso de empate, el Presidente tendrá voto de calidad.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+El Consejo sesionará en pleno con la presencia de las dos terceras partes de sus integrantes y los acuerdos se tomarán por mayoría simple de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
 Las sesiones del Consejo se celebrarán previa convocatoria del Presidente, por conducto del Secretario Técnico.
 
@@ -2333,9 +2347,13 @@ El Órgano de Asuntos Internos podrá determinar inmediatamente como medida caut
 
 La medida cautelar será notificada al Integrante y al titular de la Institución.
 
-De no dictarse la medida, el Órgano de Asuntos Internos informará de ello al superior jerárquico a fin de que determine y notifique al Integrante el lugar donde quedará a disposición y las funciones que realizará, en tanto se resuelve el procedimiento. En los casos de vinculación a proceso, o resolución equivalente, deberá estarse a lo dispuesto por el artículo 57 de esta Ley,
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
-El titular de la Institución de Seguridad Pública podrá determinar dicha medida cautelar, en caso de posible violación o incumplimiento a las obligaciones y deberes por parte del Integrante, cuando tenga conocimiento de ello por informe del superior jerárquico del mismo o mediante queja o denuncia de particular, remitiendo sin demora al Órgano de Asuntos Internos las actuaciones y demás constancias relativas a los hechos, así como a la medida cautelar; todo lo cual deberá ser notificado al Integrante
+De no dictarse la medida, el Órgano de Asuntos Internos informará de ello al superior jerárquico a fin de que determine y notifique al Integrante el lugar donde quedará a disposición y las funciones que realizará, en tanto se resuelve el procedimiento. En los casos de vinculación a proceso, o resolución equivalente, deberá estarse a lo dispuesto por el artículo 57 de esta Ley.
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+El titular de la Institución de Seguridad Pública podrá determinar dicha medida cautelar, en caso de posible violación o incumplimiento a las obligaciones y deberes por parte del Integrante, cuando tenga conocimiento de ello por informe del superior jerárquico del mismo o mediante queja o denuncia de particular, remitiendo sin demora al Órgano de Asuntos Internos las actuaciones y demás constancias relativas a los hechos, así como a la medida cautelar; todo lo cual deberá ser notificado al Integrante.
 
 La medida cautelar a que se refiere el presente artículo en ningún caso podrá exceder de cuarenta y cinco días hábiles contados a partir del momento en que le sea notificada al Integrante, transcurridos los cuales sin que se haya presentado la solicitud de inicio del procedimiento, aquél se reincorporará plenamente al servicio, cargo o comisión, sin perjuicio de que el Órgano de Asuntos Internos prosiga la investigación.
 
@@ -2375,9 +2393,11 @@ El Integrante, en su escrito de contestación ante la Comisión, deberá señala
 
 En el mismo escrito, el Integrante podrá designar defensor y deberá referirse a todos y cada uno de los hechos contenidos en la solicitud del Órgano de Asuntos Internos, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como considere que tuvieron lugar, ofreciendo los elementos de prueba que estime pertinentes; tratándose de documentos, estos deberán acompañarse al escrito de contestación.
 
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 209.
 
-En el acuerdo por el cual se tenga al Integrante dando contestación se proveerá respecto de la admisión de las pruebas, señalando día y hora para la celebración de una audiencia de desahogo de las que así lo ameriten. En caso de que el Integrante no haya dado contestación en la forma y términos previstos en el artículo anterior, se proveerá únicamente respecto de las ofrecidas por el Órgano de Asuntos Internos,
+En el acuerdo por el cual se tenga al Integrante dando contestación se proveerá respecto de la admisión de las pruebas, señalando día y hora para la celebración de una audiencia de desahogo de las que así lo ameriten. En caso de que el Integrante no haya dado contestación en la forma y términos previstos en el artículo anterior, se proveerá únicamente respecto de las ofrecidas por el Órgano de Asuntos Internos.
 
 El Órgano de Asuntos Internos comparecerá por conducto de los servidores públicos facultados conforme a la ley, a su reglamento interior o, en su defecto, por medio de delegados.
 
@@ -2413,7 +2433,9 @@ La facultad de las Comisiones para imponer las sanciones por infracción al rég
 
 La prescripción operará de oficio o a petición del Integrante. En el primer caso, la Comisión podrá determinarla al resolver respecto del inicio del Procedimiento y, en el segundo caso, la hará valer el Integrante en su escrito de contestación.
 
-El procedimiento caducará si no se efectúa ningún acto procedimental, ni se presenta promoción alguna durante un término mayor de un año contado a partir del día hábil siguiente a la fecha en que se hubiere dictado el último acuerdo, Cuando se determine la caducidad se procederá al archivo del expediente, sin perjuicio de que se solicite nuevamente por el Órgano de Asuntos Internos el inicio del Procedimiento, salvo que hubiere prescrito la facultad de la Comisión conforme al presente artículo.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+El procedimiento caducará si no se efectúa ningún acto procedimental, ni se presenta promoción alguna durante un término mayor de un año contado a partir del día hábil siguiente a la fecha en que se hubiere dictado el último acuerdo. Cuando se determine la caducidad se procederá al archivo del expediente, sin perjuicio de que se solicite nuevamente por el Órgano de Asuntos Internos el inicio del Procedimiento, salvo que hubiere prescrito la facultad de la Comisión conforme al presente artículo.
 
 La prescripción y la caducidad procederán de oficio o a solicitud del Integrante.
 
@@ -2553,15 +2575,25 @@ III. Sexo;
 
 IV. Edad aproximada;
 
-IV (SIC). Motivo y circunstancias generales de la detención, así como lugar y hora en que se realizó;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
-V. Nombre de quien o quienes hayan intervenido en la detención, así como categoría o jerarquía y área de adscripción;
+V. Motivo y circunstancias generales de la detención, así como lugar y hora en que se realizó;
 
-VI. Nombre de quien haya efectuado el registro, así como corporación, puesto, categoría o jerarquía y área de adscripción;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
-VII. Autoridad ante la que será puesto a disposición, mencionando el lugar a donde será trasladado así como el tiempo aproximado para ello; y
+VI. Nombre de quien o quienes hayan intervenido en la detención, así como categoría o jerarquía y área de adscripción;
 
-VIII. Siempre que las circunstancias de la detención lo permitan, datos personales de la probable víctima u ofendido, considerando los datos y elementos a que se refieren las fracciones I a IV del presente artículo.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+VII. Nombre de quien haya efectuado el registro, así como corporación, puesto, categoría o jerarquía y área de adscripción;
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Autoridad ante la que será puesto a disposición, mencionando el lugar a donde será trasladado así como el tiempo aproximado para ello; y
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+IX. Siempre que las circunstancias de la detención lo permitan, datos personales de la probable víctima u ofendido, considerando los datos y elementos a que se refieren las fracciones I a IV del presente artículo.
 
 B. La información del detenido que deberá recabar el agente del Ministerio Público para la actualización del registro, sin perjuicio de lo dispuesto por el artículo 114 de la Ley General, será la siguiente:
 
@@ -2927,6 +2959,8 @@ Las Instituciones Policiales desarrollarán, en el ámbito de su respectiva comp
 
 #### SECCIÓN CUARTA. DE LA RESPONSABILIDAD POR EL USO ILÍCITO DE LA FUERZA PÚBLICA
 
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 285.
 
 Los Integrantes de las Instituciones Policiales recibirán la capacitación y adiestramiento necesarios para el empleo de la fuerza pública en el desempeño de sus funciones.
@@ -2947,7 +2981,7 @@ El personal que deba portar arma de fuego será autorizado para hacerlo una vez 
 
 ###### Artículo 289.
 
-En caso de que los Integrantes de las Instituciones Policiales hagan uso de la fuerza pública contraviniendo los principios, criterios, bases y condiciones previstos en esta Ley y demás disposiciones aplicables, se les sujetará a procedimiento disciplinario en los términos de esta Ley, sin perjuicio de la responsabilidad administrativa, civil o penal en que hubieren incurrido,
+En caso de que los Integrantes de las Instituciones Policiales hagan uso de la fuerza pública contraviniendo los principios, criterios, bases y condiciones previstos en esta Ley y demás disposiciones aplicables, se les sujetará a procedimiento disciplinario en los términos de esta Ley, sin perjuicio de la responsabilidad administrativa, civil o penal en que hubieren incurrido.
 
 ###### Artículo 290.
 
@@ -2997,7 +3031,9 @@ En los casos de autorizaciones otorgadas por la autoridad federal competente, lo
 
 Los servicios de seguridad privada son auxiliares a la función de seguridad pública y sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
 
-Los particulares autorizados para prestar servicios de seguridad privada, así como su personal operativo, estarán impedidos para ejercer las funciones que corresponden a las Instituciones de Seguridad Pública y les serán aplicables, en lo conducente, las obligaciones y principios en cuanto a su actuación y desempeño, incluida la de aportar los datos para el registro de su personal y equipo, evaluación y control de confianza, certificación y, en general, proporcionar información estadística y sobre la delincuencia en términos de esta Ley, sin perjuicio de los (sic) dispuesto por la Ley General.
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+
+Los particulares autorizados para prestar servicios de seguridad privada, así como su personal operativo, estarán impedidos para ejercer las funciones que corresponden a las Instituciones de Seguridad Pública y les serán aplicables, en lo conducente, las obligaciones y principios en cuanto a su actuación y desempeño, incluida la de aportar los datos para el registro de su personal y equipo, evaluación y control de confianza, certificación y, en general, proporcionar información estadística y sobre la delincuencia en términos de esta Ley, sin perjuicio de lo dispuesto por la Ley General.
 
 ## TÍTULO NOVENO. DE LAS INSTALACIONES ESTRATÉGICAS
 
