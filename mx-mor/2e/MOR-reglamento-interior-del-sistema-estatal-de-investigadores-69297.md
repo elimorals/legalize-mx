@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-sistema-estatal-de-investigadores-69297
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-22"
-last_updated: "2009-07-22"
+last_updated: "2013-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL SISTEMA ESTATAL DE INVESTIGADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO DEL SISTEMA ESTATAL DE INVESTIGADORES, PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el lunes 22 de julio de 2009.
 
@@ -396,3 +398,11 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 DR. RAFAEL TAMAYO FLORES
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior del Sistema Estatal de Investigadores, publicado en el Periódico Oficial "Tierra y Libertad", número 4729, de fecha veintidós de julio de 2009 y las demás disposiciones normativas de igual o menor rango que se opongan a lo establecido en el presente Reglamento.
