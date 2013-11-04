@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2013-06-27"
+last_updated: "2013-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -773,9 +773,9 @@ XXII.- De Examen Previo y Procedencia Legislativa;
 
 XXIII.- Del Agua;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2013)</small>
 
-XXIV.- De Transporte;
+XXIV.- De Transporte y Movilidad;
 
 > <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1856,3 +1856,9 @@ DECRETO NÚMERO 32, POR EL QUE SE ADICIONA EL ARTÍCULO 182 BIS A LA LEY ORGÁNI
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 4 DE NOVIEMBRE DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
