@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2013-08-19"
+last_updated: "2013-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -1107,9 +1107,13 @@ XXVI. Crear el Consejo Municipal de Desarrollo Económico y Mejora Regulatoria, 
 
 8. Las demás que le confieran este reglamento y otros ordenamientos legales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
-XXVII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
+XXVII.- Queda a cargo de la Secretaría de Fomento Económico y Productivo, la administración del Salón Polivalente Cristina Larralde de Treviño.
+
+(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 4 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVIII.
+
+XXVIII.- Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1964,3 +1968,9 @@ P.O. 19 DE AGOSTO DE 2013.
 Primero.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Gírese el presente al Presidente Municipal para que instruya al Secretario del Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio
+
+P.O. 4 DE NOVIEMBRE DE 2013.
+
+Primero.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
