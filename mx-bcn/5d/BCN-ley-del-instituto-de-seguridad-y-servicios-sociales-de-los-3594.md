@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "2013-08-23"
+last_updated: "2013-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -1139,15 +1139,13 @@ I.- La Junta Directiva, y
 
 II.- El Director General.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 110.
 
-La Junta Directiva estará integrada por un Presidente y cuatro Vocales. El Presidente y dos Vocales serán nombrados por el Gobernador del Estado. Un Vocal será designado por la Sección XXXVII del Sindicato Nacional de Trabajadores de la Educación y otro Vocal por el Comité Estatal del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
+La Junta Directiva estará integrada por un Presidente y cuatro Vocales. El Presidente y dos Vocales serán nombrados por el Gobernador del Estado. Un Vocal será designado por la Sección XXXVII del Sindicato Nacional de Trabajadores de la Educación y otro Vocal por el Comité Estatal del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
-
-El Director General será nombrado por el Gobernador del Estado; recayendo el cargo en un profesionista en el ramo de la Medicina, pudiendo o no ser personal que labora en el propio Instituto.
+El Director General será nombrado por el Gobernador del Estado.
 
 Todas las resoluciones de la Junta Directiva, serán comunicadas por escrito al Director General.
 
@@ -1596,3 +1594,7 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 P.O. 23 DE AGOSTO DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
