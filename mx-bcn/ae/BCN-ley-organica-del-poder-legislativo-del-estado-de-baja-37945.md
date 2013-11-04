@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2013-09-13"
+last_updated: "2013-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA PARLAMENTARIA: 4 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -861,8 +861,6 @@ Las comisiones de dictamen legislativo conocerán de las iniciativas que corresp
 
 Por acuerdo del Pleno las comisiones se pueden dividir en secciones; éstas conservan el nombre de aquélla y se les adiciona otra denominación que las distinga. Una comisión sólo se divide hasta en 3 secciones. La Comisión propone a la Mesa Directiva la forma de integración de las secciones, su materia y duración.
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.P. DE 27 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE QUINCE NUMERALES.</small>
-
 > <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 56.
@@ -897,17 +895,21 @@ Las Comisiones de dictamen legislativo son:
 
 11. Reforma del Estado;
 
-> <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
-12. Salud;
+12. Reforma del Estado Primera;
 
-> <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
-13. Seguridad Pública y
+13. Salud;
 
-> <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
-14. Equidad y Género;
+14. Seguridad Publica; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2012)</small>
+
+15. Equidad y Género.
 
 Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
 
@@ -1107,11 +1109,11 @@ XVIII.- Los demás que le confiera la Constitución Local, esta Ley, sus Reglame
 
 Para el cumplimiento de las atribuciones señaladas en el artículo que antecede la Comisión de Gobernación, Legislación y Puntos Constitucionales solicitará a la Dirección General de Consultoría Legislativa y a la Dirección General de Asuntos Jurídicos el estudio y análisis respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 64.
 
-Corresponde a la Comisión de Reforma de Estado, el conocimiento, estudio y dictamen de los siguientes asuntos:
+Corresponde a las Comisiones de Reforma del Estado y de Reforma del Estado Primera, el conocimiento, estudio y dictamen de los siguientes asuntos:
 
 > <small>(ADICIONADA P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -2658,3 +2660,13 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Parlamentaria del Congreso del Estado.
 
 SEGUNDO.- Envíese el presente Decreto al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+SEGUNDO.- Por única ocasión, a partir de la entrada en vigor de la presente reforma y hasta el 30 de septiembre del año 2016, las Comisiones de Dictamen Legislativo de Reforma del Estado; y Hacienda y Presupuesto, así como las Comisiones Ordinarias de Administración y Finanzas; y Comunicación Social y Relaciones Públicas, podrán integrarse respectivamente hasta por siete miembros.
+
+TERCERO.- Publíquese en la Gaceta del Poder Legislativo, Órgano Oficial de difusión del Congreso del Estado de Baja California.
+
+CUARTO.- Remítase al Poder Ejecutivo del Estado para su Publicación en el Periódico Oficial del Estado.
