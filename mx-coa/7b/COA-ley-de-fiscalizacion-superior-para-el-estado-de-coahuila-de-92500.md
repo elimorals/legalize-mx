@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fiscalizacion-superior-para-el-estado-de-coahuila-de-925
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-12"
-last_updated: "2013-02-12"
+last_updated: "2013-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "COA"
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 12 de febrero de 2013.
 
@@ -57,6 +59,8 @@ II. Autonomía presupuestal: la competencia para determinar por sí misma su pro
 
 III. Autonomía de gestión: la competencia para ejecutar libremente su presupuesto con miras a cumplir debidamente con el objeto para el cual fue creada, para que pueda ejercer sus facultades, alcanzar sus objetivos y metas estipulados en las normas que la regulan, así como para decidir sobre su organización interna, funcionamiento y resoluciones.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 3.
 
 1. Para efectos de la presente ley, se entenderá por:
@@ -65,31 +69,31 @@ I. Auditoría Superior: la Auditoría Superior del Estado de Coahuila;
 
 II. Auditor Superior: el Titular de la Auditoría Superior del Estado de Coahuila;
 
-III. Comisión: la Comisión de Hacienda y Cuenta Pública del H. Congreso del Estado;
+III. Comisión: la Comisión de Hacienda y Cuenta Pública del H. Congreso del Estado de Coahuila de Zaragoza;
 
 IV. Congreso: el H. Congreso del Estado de Coahuila de Zaragoza;
 
 V. Cuenta pública: el informe que las entidades rinden al Congreso sobre su gestión financiera, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos durante el ejercicio fiscal comprendido del 1° de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios establecidos y con base en los programas aprobados.
 
-VI. Dictamen final: el documento realizado por la Comisión de Hacienda y Cuenta Pública, que contiene las observaciones finales al Informe presentado por la Auditoría Superior; mismo que será sometido a consideración del Pleno del Congreso.
+VI. Entidades: los Poderes, sus órganos y dependencias, organismos públicos autónomos, las entidades paraestatales, los municipios, sus órganos y dependencias, sus organismos descentralizados y paramunicipales; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura análoga, así como los mandatos, fondos o fideicomisos públicos o privados o cualquier otra figura jurídica similar, cuando hayan recibido por cualquier título recursos públicos, no obstante que no sean considerados entidades paraestatales por la ley de la materia y aún cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, custodia, administración, manejo, aplicación o ejercicio de recursos públicos federales, estatales o municipales y que por dicha razón sean sujetos de fiscalización por parte de la Auditoría Superior;
 
-VII. Entidades: los Poderes, sus órganos y dependencias, organismos públicos autónomos, las entidades paraestatales, los municipios, sus órganos y dependencias, sus organismos descentralizados y paramunicipales; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura análoga, así como los mandatos, fondos o fideicomisos públicos o privados o cualquier otra figura jurídica similar, cuando hayan recibido por cualquier título recursos públicos, no obstante que no sean considerados entidades paraestatales por la ley de la materia y aún cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, custodia, administración, manejo, aplicación o ejercicio de recursos públicos federales, estatales o municipales y que por dicha razón sean sujetos de fiscalización por parte de la Auditoría Superior;
+VII. Estado: el Estado Independiente, Libre y Soberano de Coahuila de Zaragoza;
 
-VIII. Estado: el Estado Independiente, Libre y Soberano de Coahuila de Zaragoza;
+VIII. Gestión financiera: la actividad de las entidades respecto de la recaudación, administración, manejo, custodia, aplicación y ejercicio de los ingresos, egresos, fondos, y en general, de los recursos públicos que éstas utilicen para el cumplimiento de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una cuenta pública en los términos de las disposiciones legales aplicables;
 
-IX. Gestión financiera: la actividad de las entidades respecto de la recaudación, administración, manejo, custodia, aplicación y ejercicio de los ingresos, egresos, fondos, y en general, de los recursos públicos que éstas utilicen para el cumplimiento de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una cuenta pública en los términos de las disposiciones legales aplicables;
+IX. Información reservada: toda aquélla información y/o documentación utilizada y generada en el proceso de fiscalización superior de las cuentas públicas y de los informes de avance de gestión financiera, así como la que por disposición expresa de una ley sea considerada como tal, con excepción de la contenida en el informe del resultado;
 
-X. Información reservada: toda aquélla información generada en el proceso de fiscalización superior de las cuentas públicas y los informes de avance de gestión financiera, así como la que por disposición expresa de una ley sea considerada como tal, con excepción de la contenida en el Informe del resultado;
+X. Informe de avance de gestión financiera: el informe trimestral que, como parte integrante de la cuenta pública, rinden las entidades al Congreso sobre los avances físicos y financieros de los programas aprobados, a fin de que la Auditoría Superior fiscalice los ingresos y egresos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
 
-XI. Informe de avance de gestión financiera: el informe trimestral que, como parte integrante de la cuenta pública, rinden las entidades al Congreso sobre los avances físicos y financieros de los programas aprobados, a fin de que la Auditoría Superior fiscalice los ingresos y egresos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
+XI. Informe del resultado: el documento que contiene el resultado de la revisión de las cuentas públicas llevada a cabo por la Auditoría Superior y presentado al Congreso, por conducto de la Comisión;
 
-XII. El Informe: el documento que contiene los resultados de la revisión de las cuentas públicas llevada a cabo por la Auditoría Superior y presentado al Congreso, por conducto de la Comisión;
+XII. Instancias de control competentes: tienen este carácter, la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, los órganos internos de control o cualquier instancia que lleve a cabo funciones de control, fiscalización, vigilancia o similares;
 
-XIII. Instancias de control competentes: tienen este carácter, la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, los órganos internos de control de los municipios, las contralorías o comisarías de las entidades o cualquier instancia que lleve a cabo funciones de fiscalización, vigilancia o similares.
+XIII. Ley: la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza;
 
-XIV. Ley: la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza; para efectos de la simplicidad gramatical, cada vez que se use el genérico masculino, se entenderá que se hace referencia a los hombres y a las mujeres por igual.
+XIV. Municipios: Los municipios del Estado de Coahuila de Zaragoza.
 
-XV. Municipios: los municipios del Estado de Coahuila de Zaragoza;
+XV. Planes: Plan Estatal o Municipal de Desarrollo;
 
 XVI. Pliego de observaciones: el documento en el que la Auditoría Superior da a conocer a las entidades las observaciones determinadas con motivo de la fiscalización de las cuentas públicas y los informes de avance de gestión financiera, así como las recomendaciones o acciones que procedan para que las observaciones puedan ser solventadas;
 
@@ -99,17 +103,21 @@ XVIII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado;
 
 XIX. Proceso concluido: aquél que las entidades reporten como tal en la cuenta pública y en los informes de avance de gestión financiera, con base en el gasto devengado y conforme a la estructura programática autorizada;
 
-XX. Proceso de fiscalización; el comprendido desde la presentación del informe de avance de gestión financiera del primer trimestre del ejercicio correspondiente, hasta la presentación del Informe;
+XX. Proceso de fiscalización: el comprendido desde la presentación del informe de avance de gestión financiera del primer trimestre del ejercicio correspondiente, hasta la presentación del informe del resultado;
 
 XXI. Programas: serie ordenada de ideas, operaciones y/o actividades necesarias para llevar a cabo un proyecto que contenga metas específicas, susceptibles de valorarse mediante indicadores y que se encuentren contenidos en los presupuestos aprobados a los que se sujeta la gestión o actividad de las entidades;
 
 XXII. Reglamento Interior: el Reglamento Interior de la Auditoría Superior del Estado de Coahuila de Zaragoza;
 
-XXIII. Responsabilidad resarcitoria: la responsabilidad solidaria, directa o subsidiaria, que por acción u omisión de los servidores públicos y los particulares, personas físicas y personas morales, provoquen un menoscabo en la hacienda pública o patrimonio de las entidades, y tiene como consecuencia la imposición de sanciones resarcitorias por los daños y perjuicios causados;
+XXIII. Responsabilidad resarcitoria: la responsabilidad directa, solidaria o subsidiaria, que por acción u omisión de los servidores públicos y los particulares, personas físicas y personas morales, provoquen un menoscabo en la hacienda pública o patrimonio de las entidades, y tiene como consecuencia la imposición de sanciones resarcitorias por los daños y perjuicios causados;
 
-XXIV. Secretaría: la Secretaría de Finanzas del Gobierno del Estado, y
+XXIV. Secretaría: la Secretaría de Finanzas del Gobierno del Estado;
 
-XXV. Servidores públicos: los descritos como tales en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en las demás disposiciones aplicables.
+XXV. Servidores públicos: los descritos como tales en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en las demás disposiciones aplicables; y
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE AGREGÓ ESTA FRACCIÓN, TODA VEZ QUE EN EL TEXTO ORIGINAL CONSTABA SÓLO DE XXV.</small>
+
+XXVI. Sistema de contabilidad gubernamental: el sistema al que deberán sujetarse los entes públicos para registrar de manera armónica, delimitada y específica las operaciones presupuestarias y contables derivadas de la gestión pública, así como otros flujos económicos. Así mismo, para generar estados financieros, confiables, oportunos, comprensibles, periódicos y comparables, los cuales serán expresados en términos monetarios.
 
 ###### Artículo 4.
 
@@ -121,7 +129,9 @@ I. Si los programas y su ejecución se ajustan a los términos y montos aprobado
 
 II. Si las cantidades correspondientes a los ingresos o egresos se ajustan a los conceptos y a las partidas respectivas;
 
-III. El desempeño, eficiencia, eficacia y economía en el cumplimiento de los programas, con base en los indicadores aprobados en el presupuesto y su efecto en las condiciones sociales económicas y, en su caso, regionales de cada entidad durante el periodo que se evalúen;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+III. El desempeño en el cumplimiento de los planes y programas, con base en los indicadores aprobados en el presupuesto y su efecto en las condiciones sociales y económicas de cada entidad, y en su caso regionales, durante el periodo que se evalúen;
 
 IV. Si los recursos provenientes de financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos;
 
@@ -187,9 +197,11 @@ XI. La imposición de las sanciones correspondientes en los términos de esta le
 
 ### CAPÍTULO I. DE LA CUENTA PÚBLICA Y DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 14.
 
-1. La cuenta pública es el documento que las entidades tienen obligación de rendir al Congreso sobre su gestión financiera, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos durante el ejercicio fiscal comprendido del 1° de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios establecidos y con base en los programas aprobados.
+1. La cuenta pública es el documento que las entidades tienen obligación de rendir al Congreso sobre su gestión financiera, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos durante el ejercicio fiscal comprendido del 1° de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios establecidos y con base en los planes y programas aprobados.
 
 ###### Artículo 15.
 
@@ -205,9 +217,11 @@ XI. La imposición de las sanciones correspondientes en los términos de esta le
 
 2. Los manuales, guías, instructivos, formatos, reglas y demás instrumentos que expida la Auditoría Superior, necesarios para el cumplimiento de las disposiciones legales y reglamentarias aplicables, se publicarán en el Periódico Oficial del Gobierno del Estado y en la página electrónica de la Auditoría Superior.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 17.
 
-1. La Auditoría Superior emitirá las normas y procedimientos para la práctica de auditorías, con base en las modalidades y alcances de fiscalización previstos en el programa anual de auditorías, visitas e inspecciones, observando en todo momento la aplicación estricta de las normas de información financiera y de auditoría gubernamental, así como la demás normatividad y disposiciones legales aplicables.
+1. La Auditoría Superior emitirá las normas y procedimientos para la práctica de auditorías, con base en las modalidades y alcances de fiscalización previstos en el programa anual de auditorías, visitas e inspecciones, observando en todo momento la aplicación estricta de las normas de información financiera, los objetivos de los planes aprobados, así como la demás normatividad y disposiciones legales aplicables.
 
 #### SECCIÓN PRIMERA. DE LA PRESENTACIÓN
 
@@ -215,7 +229,9 @@ XI. La imposición de las sanciones correspondientes en los términos de esta le
 
 1. Las entidades deberán presentar su cuenta pública anual ante el Congreso a más tardar el día 10 del mes de marzo del año siguiente al ejercicio correspondiente. Será presentada en forma impresa y en un archivo electrónico de datos que permita su uso informático y facilite su procesamiento, independientemente de los demás requisitos que se deban cumplir para su presentación contenidos en las disposiciones de carácter general que la Auditoría Superior emita para tal efecto y deberá contener la información descrita en el artículo 20 de esta ley.
 
-2. Así mismo, por los cuatro trimestres del año, las entidades presentarán ante el Congreso sendos informes de avance de gestión financiera, los que contendrán la información descrita en el artículo 21 de esta ley. Estos informes se presentarán con las formalidades a que se refiere el párrafo anterior dentro de los 30 días hábiles siguientes al periodo que corresponda la información.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+2. Así mismo, por los cuatro trimestres del año, las entidades presentarán ante el Congreso sendos informes de avance de gestión financiera, los que contendrán la información descrita en el artículo 21 de esta ley. Estos informes se presentarán con las formalidades a que se refiere el párrafo anterior dentro del mes inmediato posterior al periodo que corresponda la información.
 
 3. Los periodos trimestrales son los siguientes:
 
@@ -231,15 +247,31 @@ IV. Octubre a diciembre
 
 ###### Artículo 19.
 
-1. La falta de presentación oportuna y/o completa de la cuenta pública o de los informes de avance de gestión financiera, dará lugar a las siguientes sanciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-I. Multa de 100 a 600 días de salario mínimo general vigente en el Estado a el o los responsables de su presentación.
+1. La no presentación, así como la presentación inoportuna y/o incompleta de la cuenta pública o de los informes de avance de gestión financiera, dará lugar a las siguientes sanciones:
 
-Así mismo, sin perjuicio de la multa impuesta, la Auditoría Superior requerirá a el o los responsables para que subsanen la omisión o deficiencias antes mencionadas, dentro de los cinco días hábiles siguientes.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-II. Multa del doble de la ya impuesta en caso de que el o los responsables no subsanen la omisión o deficiencias requeridas, dentro del plazo señalado en el segundo párrafo de la fracción anterior.
+I. Multa de 300 a 1000 días de salario mínimo general vigente en el Estado a el o los responsables de su presentación.
 
-III. Separación definitiva del cargo público, cuando el o los responsables se hayan hecho acreedores a cualquiera de las sanciones previstas en las fracciones I y II de este artículo e incurran nuevamente en la falta de presentación oportuna y/o completa de las cuentas públicas o de los informes de avance de gestión financiera.
+Así mismo, sin perjuicio de la multa impuesta, la Auditoría Superior requerirá a el o los responsables para que subsanen la omisión o deficiencias antes mencionadas dentro de los cinco días hábiles siguientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+II. Multa del doble de la ya impuesta, en caso de que el o los responsables no subsanen la omisión o deficiencias requeridas dentro del plazo señalado en el segundo párrafo de la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+Además, sin perjuicio de las multas impuestas, en caso de incumplimiento al requerimiento se requerirá al superior jerárquico de el o los responsables para que subsane la omisión o deficiencias requeridas dentro de los cinco días hábiles siguientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+III. Separación definitiva del cargo público, cuando el o los responsables se hayan hecho acreedores a la sanción prevista en la fracción I de este artículo e incurran nuevamente en la no presentación o la presentación inoportuna y/o incompleta de las cuentas públicas o de los informes de avance de gestión financiera.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+Además, la Auditoría Superior requerirá al superior jerárquico de el o los responsables para que subsane la omisión o deficiencias advertidas dentro de los cinco días hábiles siguientes.
 
 2. La imposición de las sanciones pecuniarias establecidas en este artículo, se sujetará a lo dispuesto en el Título Séptimo de la presente ley.
 
@@ -251,6 +283,10 @@ III. Separación definitiva del cargo público, cuando el o los responsables se 
 
 2. Así mismo, la cuenta pública contendrá una declaratoria de los profesionales de auditoría independientes o, en su caso, de las instancias de control competentes, acerca de la situación que guarda el control interno, la situación financiera y el grado de colaboración de la entidad para el cumplimiento de los objetivos de la función de control gubernamental.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+3. Además de lo anterior, la cuenta pública deberá contener el cumplimiento de los objetivos contenidos en los planes y programas de conformidad con los indicadores aprobados en los presupuestos correspondientes.
+
 ###### Artículo 21.
 
 1. Los informes de avance de gestión financiera deberán contener la información señalada en la Ley General de Contabilidad Gubernamental, y demás normatividad aplicable, correspondiente al periodo de que se trate y la acumulada del ejercicio.
@@ -259,7 +295,9 @@ III. Separación definitiva del cargo público, cuando el o los responsables se 
 
 I. El flujo contable de ingresos y egresos al cierre del trimestre correspondiente;
 
-II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en el presupuesto, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+II. El avance en el cumplimiento de los planes y programas con base en los indicadores aprobados en los presupuestos correspondientes;
 
 III. Los procesos concluidos.
 
@@ -273,9 +311,11 @@ III. Los procesos concluidos.
 
 1. La Auditoría Superior en ejercicio de sus facultades de fiscalización, podrá realizar auditorías, visitas e inspecciones durante el ejercicio fiscal en curso, respecto de la información contenida en los informes de avance de gestión financiera. Además, respecto de la cuenta pública, podrá iniciar el proceso de fiscalización mediante visitas domiciliarias y revisiones de gabinete a partir del primer día hábil del año siguiente al cierre del ejercicio fiscal. Lo anterior, sin perjuicio a los principios de posterioridad y anualidad establecidos en esta ley.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 23.
 
-1. De la revisión de los informes de avance de gestión financiera, la Auditoría Superior podrá realizar observaciones y recomendaciones, en cuyo caso deberán notificarse a las entidades fiscalizadas a más tardar durante el mes de febrero del año siguiente al ejercicio fiscal al que corresponden dichos informes, con el propósito de que dichas observaciones se integren al Informe correspondiente.
+l. De la revisión de los informes de avance de gestión financiera, la Auditoría Superior podrá realizar observaciones y recomendaciones, en cuyo caso deberán notificarse a las entidades, con el propósito de que dichas observaciones se integren al informe del resultado, en caso de no ser solventadas.
 
 ###### Artículo 24.
 
@@ -285,7 +325,9 @@ III. Los procesos concluidos.
 
 ###### Artículo 25.
 
-1. Los actos administrativos que la Auditoría Superior notifique deberán contar al menos con los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+1. Los actos administrativos y resoluciones que emita la Auditoría Superior se presumirán legales y deberán contar al menos con los siguientes requisitos:
 
 I. Constar por escrito en documento impreso, en su caso, en medio digital;
 
@@ -355,7 +397,9 @@ Si en el cierre del acta final de la visita no estuviere presente el visitado o 
 
 XIII. En el levantamiento del acta final, cualquiera de los visitadores que hayan intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
-XIV. Con posterioridad a la conclusión de la visita, la Auditoría Superior emitirá el pliego de observaciones, así como el pliego de recomendaciones correspondientes, los cuales se notificarán a la entidad visitada quien contará con el plazo señalado en esta ley para presentar los documentos, libros o registros que solventen las observaciones y atiendan las recomendaciones contenidas en dichos pliegos.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Con posterioridad a la conclusión de la visita domiciliaria, la Auditoría Superior emitirá, en su caso, el pliego de observaciones, así como el pliego de recomendaciones correspondientes, los cuales se notificarán a la entidad visitada quien contará con el plazo señalado en esta ley para presentar los documentos, libros, registros o demás evidencia que solventen las observaciones y atiendan las recomendaciones contenidas en dichos pliegos.
 
 XV. Si de la visita domiciliaria no se desprendieran hechos u omisiones que entrañen el incumplimiento de las disposiciones legales y administrativas aplicables, se hará constar así por los visitadores en el acta final.
 
@@ -391,27 +435,57 @@ V. Cuando no se hubieran advertido hechos u omisiones, la Auditoría Superior co
 
 ### CAPÍTULO II. DEL PLIEGO DE OBSERVACIONES Y DEL PLIEGO DE RECOMENDACIONES
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 31.
 
-1. Una vez concluida la visita domiciliaria o la revisión de gabinete, la Auditoría Superior, en base a las disposiciones de esta ley, formulará a las entidades los pliegos de observaciones y los pliegos de recomendaciones derivados de la revisión y fiscalización de las cuentas públicas. En los pliegos de observaciones se cuantificará el importe de las observaciones detectadas que sean causa de responsabilidad.
+1. Una vez concluida la visita domiciliaria o la revisión de gabinete, la Auditoría Superior, con base en las disposiciones de esta ley formulará y notificará, en su caso, a las entidades los pliegos de observaciones y los pliegos de recomendaciones derivados de la revisión y fiscalización de las cuentas públicas. En los pliegos de observaciones se cuantificará el importe de las observaciones detectadas que sean causa de responsabilidad.
 
-#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DEL PLIEGO DE OBSERVACIONES
+
+> <small>N. DE E. DE LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. 5 DE NOVIEMBRE SE OBSERVA QUE ESTE ARTÍCULO PERTENECÍA AL CAPÍTULO II DENOMINADO: "DEL PLIEGO DE OBSERVACIONES Y DEL PLIEGO DE RECOMENDACIONES"</small>
 
 ###### Artículo 32.
 
-1.- Las entidades, dentro de un plazo improrrogable de 30 días hábiles deberán solventar los pliegos de observaciones y atender los pliegos de recomendaciones ante la Auditoría Superior. Cuando éstos no sean solventados y/o atendidos, respectivamente, dentro del plazo señalado o que la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría Superior para solventar las observaciones y atender las recomendaciones, ésta promoverá las responsabilidades administrativas; iniciará los procedimientos de responsabilidades resarcitorias; presentará denuncias y querellas en los términos de esta ley y demás disposiciones aplicables, en los casos de presuntas conductas delictivas de los servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con la hacienda pública o patrimonio de las entidades, así como denuncias de juicio político de conformidad con lo señalado en el Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-#### SECCIÓN SEGUNDA. DE LA COMPETENCIA
+1. Las entidades, dentro de un plazo improrrogable de 30 días hábiles deberán solventar los pliegos de observaciones ante la Auditoría Superior. En caso de que las entidades no presenten información, documentación o demás evidencia para solventar dichos pliegos, los hechos u omisiones consignados en los mismos se tendrán por consentidos; asimismo, se impondrán las sanciones establecidas en esta ley.
 
-### CAPÍTULO III. DEL INFORME DE LA AUDITORIA SUPERIOR
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+2. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado o la documentación, argumentos o demás evidencia presentados no sean suficientes para solventar las observaciones, la Auditoría Superior promoverá las responsabilidades administrativas; iniciará los procedimientos de responsabilidades resarcitorias; presentará denuncias y querellas en contra de servidores públicos o particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con la hacienda pública o patrimonio de las entidades, así como denuncias de juicio político de conformidad con lo señalado en el Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DEL PLIEGO DE RECOMENDACIONES
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 32-A.
+
+1. Las entidades, dentro de un plazo improrrogable de 30 días hábiles deberán atender los pliegos de recomendaciones ante la Auditoría Superior.
+
+2. Cuando los pliegos de recomendaciones no sean atendidos, dentro del plazo señalado o que la documentación, argumentos o demás evidencia presentados no sean suficientes para atender las recomendaciones, la Auditoría Superior promoverá las responsabilidades a que haya lugar.
+
+3. La Auditoría Superior deberá pronunciarse en un plazo no mayor de 60 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas; en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO III. DEL INFORME DEL RESULTADO
 
 ###### Artículo 33.
 
-1.- El Informe se presentará a más tardar el día 15 de noviembre del año siguiente al ejercicio fiscalizado y deberá contener como mínimo lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+1. El Informe del resultado se presentará a más tardar el día 15 de diciembre del año siguiente al ejercicio fiscalizado y deberá contener como mínimo lo siguiente:
 
 I. Los dictámenes de la revisión de las cuentas públicas;
 
-II. El apartado correspondiente a la fiscalización superior y verificación del cumplimiento de los programas, con respecto a la evaluación de la consecución de sus objetivos y metas, bajo criterios de eficiencia, eficacia y economía;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+II. El apartado correspondiente a la fiscalización superior y verificación del cumplimiento de los planes y programas, con respecto a la evaluación de la consecución de sus objetivos y metas, bajo criterios de eficiencia, eficacia y economía;
 
 III. El cumplimiento de la Ley General de Contabilidad Gubernamental, así como las normas de información financiera para el sector público y de las disposiciones contenidas en los ordenamientos correspondientes;
 
@@ -423,21 +497,23 @@ VI. La comprobación de que las entidades se ajustaron a la ley de ingresos o pr
 
 VII. El análisis de las desviaciones presupuestarias, en su caso;
 
-VIII. Las recomendaciones que estime pertinentes en materia de responsabilidades, y
+VIII. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2013)
 
-IX. Los comentarios de los auditados, en su caso.
+IX. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2013)
 
 2. En el supuesto de que conforme a la fracción II de este artículo, no se cumpla con los objetivos y metas establecidas en los programas aprobados, la Auditoría Superior hará las observaciones y recomendaciones que a su juicio sean procedentes.
 
 ###### Artículo 34.
 
-1. La Auditoría Superior dará cuenta al Congreso, a través de la Comisión, dentro del Informe, de los pliegos de observaciones y de los pliegos de recomendaciones que se hubieren determinado, los procedimientos para el fincamiento de responsabilidades resarcitorias que pretenda iniciar, así como la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente ilícitos que lleve a cabo de conformidad con lo dispuesto en esta ley.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-2. Concluido y entregado al Congreso el Informe, la Comisión procederá a realizar un dictamen final para manifestar si, de acuerdo a la revisión y contenido del mismo, concuerda con todo lo expresado por la Auditoría Superior.
+1. La Auditoría Superior dará cuenta al Congreso, a través de la Comisión, dentro del informe del resultado, de los pliegos de observaciones y de los pliegos de recomendaciones que se hubieren determinado, los procedimientos iniciados para el fincamiento de responsabilidades resarcitorias y la imposición de las sanciones respectivas, así como la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente ilícitos que lleve a cabo de conformidad con lo dispuesto en esta ley.
 
-3. La Comisión contará con un plazo de hasta treinta días hábiles, a partir de la entrega del Informe, para realizar el dictamen final correspondiente; y lo remitirá al Pleno del Congreso para su consideración.
+2. (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2013)
 
-4. En caso de que el Pleno del Congreso realice observaciones al dictamen final, girará las instrucciones a la Auditoría Superior, por conducto de la Comisión, para que realice las aclaraciones que se estimen pertinentes de acuerdo a la legislación vigente.
+3. (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2013)
+
+4. (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 35.
 
@@ -455,7 +531,9 @@ II. Acciones de desempeño: el conjunto de procedimientos, procesos, y/o metodol
 
 III. Recomendaciones de mejora continua: aquéllas sugerencias que la Auditoría Superior ponga a consideración de las entidades a fin de incrementar la eficiencia, eficacia, economía, transparencia y honradez de su gestión financiera.
 
-IV. Recomendaciones de desempeño: aquéllas sugerencias que la Auditoría Superior ponga a consideración de las entidades a fin de dar cumplimiento a los objetivos contenidos en los programas aprobados.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+IV. Recomendaciones de desempeño: aquéllas sugerencias que la Auditoría Superior ponga a consideración de las entidades a fin de dar cumplimiento a los objetivos contenidos en los planes y programas aprobados.
 
 ## TÍTULO CUARTO. DE LAS RESPONSABILIDADES
 
@@ -463,7 +541,9 @@ IV. Recomendaciones de desempeño: aquéllas sugerencias que la Auditoría Super
 
 ###### Artículo 37.
 
-1. Si de la revisión y fiscalización superior de las cuentas públicas se determinan irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y/o perjuicios a la hacienda pública o al patrimonio de las entidades, el Poder Legislativo por conducto de la Auditoría Superior procederá a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+1. Si de la revisión y fiscalización se determinan irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y/o perjuicios a la hacienda pública o al patrimonio de las entidades, la Auditoría Superior procederá a:
 
 I. Determinar los daños y/o perjuicios correspondientes y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias respectivas, de conformidad con el procedimiento establecido en esta ley;
 
@@ -474,6 +554,14 @@ III. Promover las acciones de responsabilidad a que se refiere el Título Sépti
 IV. Presentar las denuncias y/o querellas penales a que haya lugar, y
 
 V. Coadyuvar con el Ministerio Público en los procesos penales de investigación y judiciales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión de la Auditoría Superior, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+2. De no existir hechos o conductas que pudieran producir daños y/o perjuicios en la hacienda pública o patrimonio de las entidades, como resultado de la revisión y fiscalización de las cuentas públicas, la Auditoría Superior comunicará mediante oficio dicha circunstancia a la entidad correspondiente, sin perjuicio de llevar a cabo la promoción de responsabilidades administrativas a que se refiere la fracción II del párrafo anterior de este artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+3. Para efectos de lo establecido en el párrafo anterior, se entenderán como hechos o conductas que no producen daños y/o perjuicios en la hacienda pública o patrimonio de las entidades, aquellos que no sean susceptibles de dar inicio al procedimiento para el fincamiento de responsabilidades resarcitorias, así como aquellos que no constituyan delito.
 
 ###### Artículo 38.
 
@@ -567,7 +655,9 @@ IV. Si en la audiencia, la Auditoría Superior encontrara que no cuenta con elem
 
 1. Los plazos empezarán a correr a partir del día hábil siguiente a aquél en que haya surtido efectos la notificación correspondiente.
 
-2. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que hubieran sido realizadas.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+2. Las notificaciones surtirán efectos el mismo día en que hubieran sido realizadas.
 
 3. En caso de que esta Ley no prevea plazo o término para un determinado acto, la Auditoría Superior podrá fijarlo y no será superior a 10 días hábiles.
 
@@ -611,7 +701,9 @@ IV. Si en la audiencia, la Auditoría Superior encontrara que no cuenta con elem
 
 ###### Artículo 57.
 
-1. Si de la revisión y fiscalización de las cuentas públicas, la Auditoría Superior advierte conductas de servidores públicos que pudieran constituir elementos del tipo penal, lo señalará en el Informe, a efecto de que se considere en el dictamen final que presente la Comisión ante el Pleno del Congreso. Una vez aprobado, la Auditoría Superior presentará ante la autoridad competente las denuncias y/o querellas correspondientes y, en su caso, promoverá las acciones de responsabilidad a que se refiere el Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+1. Si de la revisión y fiscalización de las cuentas públicas y de los informes de avance de gestión financiera, la Auditoría Superior advierte conductas de servidores públicos que pudieran ser hechos constitutivos de delitos, presentará ante la autoridad competente las denuncias y/o querellas correspondientes y, en su caso, promoverá las acciones de responsabilidad administrativa a que se refiere el Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
 
 2. Para los efectos del párrafo anterior, la Auditoría Superior podrá coadyuvar con el Ministerio Público en los procesos penales y judiciales de investigación correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión de la Auditoría Superior, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
 
@@ -665,7 +757,7 @@ III. Constancia de notificación de la resolución recurrida, y
 
 IV. Las pruebas documentales que se ofrezcan.
 
-2. Cuando el recurrente no anexe los documentos señalados en el presente artículo, la Auditoría Superior lo requerirá para que en un plazo de cinco días hábiles contados a partir del día siguiente al de su notificación subsane la omisión, apercibiéndolo que encaso de no hacerlo y tratándose de las fracciones I, II y III se tendrá por no interpuesto el recurso y cuando se trate de la fracción IV se tendrán por no ofrecidas las pruebas.
+2. Cuando el recurrente no anexe los documentos señalados en el presente artículo, la Auditoría Superior lo requerirá para que en un plazo de cinco días hábiles contados a partir del día siguiente al de su notificación subsane la omisión, apercibiéndolo que en caso de no hacerlo y tratándose de las fracciones I, II y III se tendrá por no interpuesto el recurso y cuando se trate de la fracción IV se tendrán por no ofrecidas las pruebas.
 
 3. Cuando las pruebas documentales no obren en poder del recurrente, o si éste no hubiere podido obtenerlas, deberá señalar el archivo o lugar en que se encuentren para que la Auditoría Superior requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
@@ -741,9 +833,11 @@ IV. Modificar la resolución recurrida.
 
 ###### Artículo 70.
 
-1. Para los efectos de lo previsto en el artículo 67, fracción XXXIV, inciso a), párrafo segundo de la Constitución Política del Estado de Coahuila de Zaragoza, y sin perjuicio del principio de posterioridad, cuando se presenten denuncias debidamente fundadas o por otras circunstancias pueda suponerse la presunta recaudación, administración, manejo, custodia, aplicación o ejercicio irregular de recursos públicos o de su desvío, la Auditoría Superior podrá realizar revisiones, durante el ejercicio fiscal en curso, de conceptos específicos vinculados de manera directa a las denuncias o circunstancias, o requerir a las entidades para que a través de sus instancias de control competentes lleven a cabo dichas revisiones. El requerimiento deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño o perjuicio a la hacienda pública o al patrimonio de las entidades.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-2. Las denuncias a que se refiere el párrafo anterior deberán presentarse ante la Comisión. Ésta dictaminará su procedencia y, encaso de ser legalmente procedente, las remitirá a la Auditoría Superior para que por sí o por conducto de las instancias de control competentes, se dé inicio a la revisión por situación excepcional.
+1. Para los efectos de lo previsto en el artículo 67. fracción XXXIV, inciso a), último párrafo de la Constitución Política del Estado de Coahuila de Zaragoza, y sin perjuicio del principio de posterioridad, cuando se presenten denuncias debidamente fundadas o por otras circunstancias pueda suponerse la presunta recaudación, administración, manejo, custodia, aplicación o ejercicio irregular de recursos públicos o de su desvío, la Auditoría Superior podrá realizar revisiones, durante el ejercicio fiscal en curso, de conceptos específicos vinculados de manera directa a las denuncias o circunstancias, o requerir a las entidades para que a través de sus instancias de control competentes lleven a cabo dichas revisiones. El requerimiento deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño o perjuicio a la hacienda pública o al patrimonio de las entidades.
+
+2. Las denuncias a que se refiere el párrafo anterior deberán presentarse ante la Comisión. Ésta dictaminará su procedencia y, en caso de ser legalmente procedente, las remitirá a la Auditoría Superior para que por sí o por conducto de las instancias de control competentes, se dé inicio a la revisión por situación excepcional.
 
 ###### Artículo 71.
 
@@ -791,9 +885,11 @@ VI. Aportar los elementos de convicción o de prueba suficientes para fundar el 
 
 1. Las instancias de control competentes estarán obligadas a realizar la revisión que la Auditoría Superior les requiera, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que legalmente competan a las autoridades y a los servidores públicos de las entidades.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 76.
 
-1. Si transcurrido el plazo señalado en el artículo 74 de esta ley, la instancia de control competente, sin causa justificada, incumple en la presentación del informe a que se refiere el mismo artículo, la Auditoría Superior procederá a fincar las responsabilidades que correspondan e impondrá a los servidores públicos responsables una multa de cien a seiscientos días de salario mínimo general vigente en el Estado. Su reincidencia se podrá sancionar con una multa hasta del doble de la ya impuesta, además de que podrá promover la destitución de los responsables ante las autoridades competentes.
+1. Si transcurrido el plazo señalado en el artículo 74 de esta ley, la instancia de control competente, sin causa justificada, incumple en la presentación del informe a que se refiere el mismo artículo, la Auditoría Superior procederá a fincar las responsabilidades que correspondan e impondrá a los servidores públicos responsables una multa de quinientos a mil días de salario mínimo general vigente en el Estado. Su reincidencia se podrá sancionar con una multa hasta del doble de la ya impuesta, además de que podrá promover la destitución de los responsables ante las autoridades competentes.
 
 ###### Artículo 77.
 
@@ -845,7 +941,9 @@ III. Solicitar a la autoridad competente se proceda por desobediencia a un manda
 
 1. Al servidor público, particular, persona física o moral que cometa las infracciones previstas en los artículos que anteceden se le impondrán las siguientes sanciones pecuniarias:
 
-I. Multa de 100 a 600 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+I. Multa de 300 a 1000 días de salario mínimo general vigente en el Estado.
 
 II. Multa del doble de la ya impuesta, en caso de reincidencia, sin perjuicio de promover ante las autoridades competentes el fincamiento de las responsabilidades administrativas que resulten.
 
@@ -891,7 +989,9 @@ II. Multa del doble de la ya impuesta, en caso de reincidencia, sin perjuicio de
 
 ###### Artículo 92.
 
-1. Dentro de los límites fijados por la presente ley, la Auditoría Superior al imponer sanciones pecuniarias por la comisión de las infracciones, deberá fundar y motivar su resolución y tener en cuenta lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+1. La Auditoría Superior, al imponer sanciones pecuniarias por la comisión de las infracciones, deberá tener en cuenta lo siguiente:
 
 I. Se considerará como agravante la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción.
 
@@ -915,7 +1015,7 @@ IV. Cuando por un acto o una omisión se infrinjan diversas disposiciones de car
 
 ### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
-#### SECCIÓN TERCERA. DE LAS PROHIBICIONES DEL PERSONAL
+#### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
 ###### Artículo 94.
 
@@ -951,7 +1051,7 @@ X. Demás personal técnico y de apoyo que al efecto señale el Reglamento Inter
 
 1. Los servidores públicos de la Auditoría Superior se clasifican como trabajadores de confianza, y se regirán por el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
-#### SECCIÓN PRIMERA. DE SU COMPETENCIA
+#### SECCIÓN SEGUNDA. DE LA COMPETENCIA
 
 ###### Artículo 97.
 
@@ -961,17 +1061,27 @@ I. Establecer las normas, procedimientos, métodos y sistemas necesarios para la
 
 II. Verificar que las cuentas públicas y los informes de avance de gestión financiera sean presentados en los términos de esta ley, de conformidad con la Ley General de Contabilidad Gubernamental;
 
-III. Evaluar los informes de avance de gestión financiera respecto de los avances físico y financiero de los programas autorizados;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-IV. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas conforme a los indicadores estratégicos aprobados en el presupuesto de las entidades fiscalizadas, a efecto de verificar el desempeño de acuerdo con los indicadores y cualquier otro recurso metodológico que a su juicio permita cumplir con lo dispuesto en esta fracción;
+III. Evaluar los informes de avance de gestión financiera respecto de los avances físico y financiero de los programas autorizados, así como la consecución de los objetivos fijados en los planes, atendiendo a los indicadores establecidos en las disposiciones aplicables;
 
-V. Evaluar la legalidad de los actos que realicen las entidades en el ejercicio de los recursos públicos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-VI. Verificar que las entidades fiscalizadas que hubieren recaudado, custodiado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, y cumpliendo con las disposiciones legales y administrativas aplicables;
+IV. Evaluar el cumplimiento final de los objetivos y metas fijados en los planes y programas conforme a los indicadores estratégicos aprobados en el presupuesto de las entidades fiscalizadas y los demás establecidos en las disposiciones aplicables, a efecto de verificar el desempeño de acuerdo con los indicadores y cualquier otro recurso metodológico que a su juicio permita cumplir con lo dispuesto en esta fracción;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+V. Evaluar la legalidad de los actos que realicen las entidades en el ejercicio de los recursos públicos y calificar la evaluación de los índices de pobreza en los municipios, de acuerdo a los planes, programas y acciones implementados, de conformidad con los indicadores establecidos por el Instituto Nacional de Estadística y Geografía, el Consejo Nacional de Evaluación de la Política de Desarrollo Social, la Organización de las Naciones Unidas y demás instituciones nacionales e internacionales.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+VI. Verificar que las entidades fiscalizadas que hubieren recaudado, custodiado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los planes y programas aprobados y montos autorizados en su presupuesto, así como las demás disposiciones legales y administrativas aplicables;
 
 VII. Verificar que las operaciones que realicen las entidades fiscalizadas, sean acordes con la ley de ingresos o presupuesto de ingresos de la entidad según corresponda, y con su presupuesto de egresos y se efectúen con apego a las disposiciones fiscales y demás aplicables;
 
-VIII. Verificar obras, bienes adquiridos y servicios contratados para comprobar si las inversiones y gastos autorizados a las entidades se han aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Verificar obras, bienes adquiridos y servicios contratados para comprobar que las inversiones y gastos autorizados a las entidades se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los planes y programas aprobados;
 
 IX. Requerir a las instancias de control competentes y a los profesionales de auditoría independientes los informes, dictámenes y papeles de trabajo que se consideren necesarios, de las auditorías por ellos practicadas, así como las aclaraciones pertinentes y compulsas;
 
@@ -1001,11 +1111,35 @@ XXI. Conocer y resolver sobre el recurso de reconsideración que se interponga e
 
 XXII. Concertar y celebrar convenios con los gobiernos federal, estatal y municipal, sus organismos y dependencias, personas físicas o morales, necesarios para el cumplimiento de sus fines;
 
-XXIII. Verificar los controles, sistemas y procedimientos de informática, la utilización, eficiencia y seguridad de los equipos de cómputo, así como el entorno al procesamiento de la información. Así mismo, podrá sugerir mejoras a las entidades fiscalizadas a fin de lograr una utilización más eficiente y segura de la información que sirva para una adecuada toma de decisiones, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-XXIV. Las demás que le sean conferidas por esta ley y demás disposiciones aplicables.
+XXIII. Verificar los controles, sistemas y procedimientos de informática, la utilización, eficiencia y seguridad de los equipos de cómputo, así como el entorno al procesamiento de la información. Así mismo, podrá sugerir mejoras a las entidades fiscalizadas a fin de lograr una utilización más eficiente y segura de la información que sirva para una adecuada toma de decisiones;
 
-#### SECCIÓN SEGUNDA. DE LOS REQUISITOS PARA OCUPAR EL CARGO DE TITULAR DE LA AUDITORIA SUPERIOR DEL ESTADO
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+XXIV. Llevar un registro de los profesionales de auditoría independientes que presten sus servicios a las entidades;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+XXV. Dar crédito al resultado de las revisiones efectuadas por profesionales de auditoría independientes, previa evaluación de los papeles de trabajo y demás elementos que comprueben la debida realización de los servicios convenidos.
+
+Los servicios a que se refiere el párrafo anterior serán contratados y liquidados por la Auditoría Superior, con aportaciones recibidas de cada entidad revisada;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+XXVI. Brindar a las entidades servicio de implementación, capacitación y sostenimiento del sistema de contabilidad gubernamental; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+XXVII. Las demás que le sean conferidas por esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 97-A.
+
+1. Para el ejercicio de sus atribuciones, la Auditoría Superior tendrá competencia territorial en el Estado de Coahuila de Zaragoza.
+
+#### SECCIÓN TERCERA. DE LAS PROHIBICIONES DEL PERSONAL
 
 ###### Artículo 98.
 
@@ -1015,7 +1149,33 @@ I. Formar parte de partido político alguno, participar en actos políticos part
 
 II. Desempeñar otro empleo o cargo en los sectores público, privado o social, salvo los no remunerados en asociaciones científicas, artísticas o de beneficencia, y los remunerados en el ámbito de la docencia.
 
-#### SECCIÓN TERCERA. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE AUDITOR SUPERIOR DEL ESTADO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE SU PATRIMONIO
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 98-A.
+
+1. El patrimonio de la Auditoría Superior se integrará por:
+
+I. Los ingresos que se le asignen en el presupuesto anual de egresos del Gobierno del Estado;
+
+II. Las aportaciones que reciba por parte de las entidades;
+
+III. Los subsidios y aportaciones permanentes, periódicas o eventuales, que reciba del gobierno federal, estatal o municipal;
+
+IV. Los bienes muebles e inmuebles que le destinen o entreguen, para el cumplimiento de su objeto, el gobierno federal, estatal o municipal, así como aquellos que adquiera por cualquier título; y
+
+V Los demás bienes o ingresos que adquiera por cualquier otro medio legal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 98-B.
+
+1. Las entidades aportarán hasta el 0.5% de sus ingresos totales a la Auditoría Superior para cubrir las erogaciones de implementación, capacitación y sostenimiento del sistema de contabilidad gubernamental.
+
+2. Las aportaciones a que se refiere el párrafo anterior serán retenidas a las entidades por la Secretaría y enteradas mensualmente a la Auditoría Superior.
 
 ### CAPÍTULO II. DEL AUDITOR SUPERIOR DEL ESTADO
 
@@ -1023,7 +1183,7 @@ II. Desempeñar otro empleo o cargo en los sectores público, privado o social, 
 
 1. Al frente de la Auditoría Superior habrá un Auditor Superior, quien será nombrado conforme al proceso establecido en la Constitución Política del Estado de Coahuila de Zaragoza; durará en el encargo ocho años y podrá ser ratificado nuevamente para un segundo periodo, en los términos del artículo 106 de esta ley. Para su remoción se estará a lo previsto por el artículo 107 de esta ley.
 
-#### SECCIÓN CUARTA. DE LAS SUPLENCIAS DEL AUDITOR SUPERIOR DEL ESTADO
+#### SECCIÓN PRIMERA. DE SU COMPETENCIA
 
 ###### Artículo 100.
 
@@ -1049,7 +1209,7 @@ VIII. Proporcionar, a solicitud de las entidades asesoría y asistencia técnica
 
 IX. Autorizar la publicación de estudios de investigación relacionados con las materias de su competencia;
 
-X. Llevar un registro de todos los profesionales de auditoría independientes que presten sus servicios a las entidades y dar crédito al resultado de sus revisiones;
+X. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2013)
 
 XI. Solicitar el apoyo a las entidades y dependencias del gobierno federal, estatal o municipal para el cumplimiento de sus funciones;
 
@@ -1097,13 +1257,15 @@ XIV. Rendir a la Comisión un informe anual de actividades y del estado que guar
 
 XV. Recibir de la Comisión los informes de avance de gestión financiera y las cuentas públicas para su revisión y fiscalización;
 
-XVI. Entregar al Congreso por conducto de la Comisión, el Informe a más tardar el día 15 de noviembre del año siguiente al ejercicio fiscalizado y hacer público dicho Informe;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+XVI. Entregar al Congreso por conducto de la Comisión, el informe del resultado a más tardar el día 15 de diciembre del año siguiente al ejercicio fiscalizado y hacer público dicho informe;
 
 XVII. Entregar al Congreso por conducto de la Comisión, el informe de los resultados de las revisiones previstas en el Título Sexto de esta ley, y
 
 XVIII. Las demás que se deriven de la presente ley, el reglamento interior y demás disposiciones aplicables.
 
-#### SECCIÓN QUINTA. DE SU RATIFICACIÓN
+#### SECCIÓN SEGUNDA. DE LOS REQUISITOS PARA OCUPAR EL CARGO DE TITULAR DE LA AUDITORIA SUPERIOR DEL ESTADO
 
 ###### Artículo 101.
 
@@ -1125,7 +1287,7 @@ VII. No haber sido ministro de culto religioso durante los tres años anteriores
 
 VIII. No haber sido Titular del Poder Ejecutivo, Presidente de la Junta de Gobierno, así como Magistrado Presidente del Tribunal Superior de Justicia, Secretario del Ramo de la Administración Pública Estatal, Procurador del Estado o similar, Consejero o su equivalente de alguno de los organismos públicos autónomos o Tesorero Municipal, durante el año calendario previo al día de la designación.
 
-#### SECCIÓN SEXTA. DE SU REMOCIÓN
+#### SECCIÓN TERCERA. DEL PROCEDIMIENTO PARA LA DESIGNACIÓN DE AUDITOR SUPERIOR DEL ESTADO
 
 ###### Artículo 102.
 
@@ -1141,7 +1303,7 @@ IV. El Congreso elegirá, de entre los integrantes de la terna, a quien deba des
 
 En caso de no reunirse una terna, se hará la votación considerando sólo a aquél o aquéllos aspirantes que cumplan los requisitos correspondientes.
 
-#### SECCIÓN SÉPTIMA. DEL JUICIO POLÍTICO
+#### SECCIÓN CUARTA. DE LAS SUPLENCIAS DEL AUDITOR SUPERIOR DEL ESTADO
 
 ###### Artículo 103.
 
@@ -1155,7 +1317,7 @@ En caso de no reunirse una terna, se hará la votación considerando sólo a aqu
 
 1. Para el mejor cumplimiento de sus funciones, la Auditoría Superior contará con Auditores Especiales, quienes atenderán los distintos sectores que el reglamento interior determine. Para ser Auditor Especial se deberán cumplir los requisitos que para tal efecto establezca dicho reglamento interior.
 
-#### SECCIÓN OCTAVA. DE LA DECLARACIÓN DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+#### SECCIÓN QUINTA. DE SU RATIFICACIÓN
 
 ###### Artículo 106.
 
@@ -1163,7 +1325,7 @@ En caso de no reunirse una terna, se hará la votación considerando sólo a aqu
 
 2. Si concluido el periodo para el que fue nombrado, el Congreso no resolviera sobre la procedencia de la ratificación del Auditor Superior, éste continuará en el cargo por un segundo periodo.
 
-#### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
+#### SECCIÓN SEXTA. DE SU REMOCIÓN
 
 ###### Artículo 107.
 
@@ -1177,7 +1339,9 @@ III. Incumplir con la obligación de determinar los daños y perjuicios y de fin
 
 IV. Ausentarse de sus labores por más de un mes sin mediar autorización del Congreso;
 
-V. Abstenerse de presentar sin causa justificada el Informe al que se refiere el artículo 33 de esta ley;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+V. Abstenerse de presentar sin causa justificada el informe del resultado al que se refiere el artículo 33 de esta ley;
 
 VI. Aceptar la injerencia de terceros en el ejercicio de sus funciones y, por estas circunstancias, conducirse con parcialidad comprobada;
 
@@ -1186,6 +1350,8 @@ VII. Incapacidad legal para ejercer su encargo, y
 VIII. Influir por interés propio, en la contratación de profesionales de auditoría independientes, que cumplan funciones de revisión o fiscalización de cuentas públicas.
 
 2. La remoción del Auditor Superior se hará en lo conducente, de acuerdo al procedimiento establecido en el Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. La designación de quien ocupe el cargo, se hará de conformidad con lo establecido en la presente ley.
+
+#### SECCIÓN SÉPTIMA. DEL JUICIO POLÍTICO
 
 ###### Artículo 108.
 
@@ -1201,6 +1367,8 @@ VIII. Influir por interés propio, en la contratación de profesionales de audit
 
 2. Las sanciones correspondientes se aplicarán en un periodo no mayor de un año, a partir de iniciado el procedimiento.
 
+#### SECCIÓN OCTAVA. DE LA DECLARACIÓN DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
+
 ###### Artículo 111.
 
 1. Para proceder penalmente en contra del Auditor Superior, por la comisión de delitos durante el tiempo de su encargo, el Congreso deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no a proceder contra el inculpado, sujetándose a la garantía de audiencia.
@@ -1213,6 +1381,8 @@ VIII. Influir por interés propio, en la contratación de profesionales de audit
 
 ### CAPÍTULO III. DE LA COMISIÓN DE HACIENDA Y CUENTA PÚBLICA DEL CONGRESO DEL ESTADO
 
+#### SECCIÓN PRIMERA. DE SUS ATRIBUCIONES
+
 ###### Artículo 113.
 
 1. Son atribuciones de la Comisión:
@@ -1223,9 +1393,11 @@ II. Conocer el proyecto de presupuesto anual de la Auditoría Superior y remitir
 
 III. Elaborar el padrón de entidades obligadas a presentar cuenta pública en los términos del artículo 15, párrafo tercero de esta ley;
 
-IV. Elaborar el dictamen definitivo que presentará ante el Pleno del Congreso, pudiendo solicitar a la Auditoría Superior la ampliación de la información que estime necesaria para ello;
+IV. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2013)
 
-V. Recibir de la Auditoría Superior el Informe para su dictamen correspondiente y presentación ante el Pleno del Congreso;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+V. Recibir de la Auditoría Superior el informe del resultado;
 
 VI. Recibir del Congreso o, en su caso de la Diputación Permanente, las cuentas públicas y los informes de avance de gestión financiera, a efecto de turnarlas a la Auditoría Superior;
 
@@ -1255,9 +1427,11 @@ XIV. Las demás que se deriven de esta ley y otras disposiciones aplicables.
 
 1. La Auditoría Superior será responsable solidaria de los daños y perjuicios que, en los términos de este capítulo, causen los servidores públicos adscritos a la misma y los profesionales independientes que haya contratado para la práctica de auditorías que actúen ilícitamente.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 116.
 
-1. La Auditoría Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado y/o confidencial, cuando esté relacionada con la recaudación, administración, manejo, custodia y aplicación de los recursos públicos, y tendrá la obligación de mantener la misma reserva hasta en tanto no se derive de su revisión el Informe.
+1. La Auditoría Superior tendrá acceso a la información y/o documentación que las disposiciones legales consideren como de carácter reservado y/o confidencial, cuando esté relacionada con la recaudación, administración, manejo, custodia y aplicación de los recursos públicos y tendrá la obligación de mantener la misma reserva de acuerdo con las disposiciones aplicables.
 
 T R A N S I T O R I O S
 
@@ -1318,3 +1492,11 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
