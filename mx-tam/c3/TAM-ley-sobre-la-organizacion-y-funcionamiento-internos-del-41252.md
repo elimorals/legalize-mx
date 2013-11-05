@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2013-09-30"
+last_updated: "2013-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -707,6 +707,10 @@ g) Realizar las actividades que se deriven de la Constitución Política del Est
 
 2. Las comisiones se reunirán mediante cita de sus respectivos presidentes y solo podrán adoptar decisiones si se encuentran presentes la mayoría de los individuos que las formen.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+3. Los oficios de cita a las reuniones de las Comisiones, así como los documentos relativos podrán ser remitidos a sus integrantes a través de medios o vías de comunicación electrónica.
+
 ###### ARTICULO 45.
 
 1. Toda comisión deberá presentar el dictamen de los asuntos a su cargo dentro de los cuarenta y cinco días siguientes a la fecha en que los haya recibido.
@@ -1325,7 +1329,9 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 6. El acta de la sesión anterior contendrá una relación sucinta de lo acontecido en ella, realizándose inserciones textuales cuando así lo solicite expresamente un diputado. Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto.
 
-7. Los documentos relacionados con el orden del día de la sesión podrán presentarse y darse a conocer por escrito o por medios magnéticos o electrónicos, a través de la red informática del Congreso.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+7. La información inherente al orden del día de la sesión podrá darse a conocer a través de medios o vías de comunicación electrónica.
 
 ###### ARTICULO 84.
 
@@ -1358,6 +1364,10 @@ DEL DERECHO DE INICIATIVA
 2. El Congreso llevará a cabo sus funciones en materia de juicio político y declaración de procedencia en los términos dispuestos por la Ley de Responsabilidades de los Servidores Públicos del Estado. En materia de discusiones y votaciones de los informes y las conclusiones de dichos procedimientos se aplicarán en lo conducente las disposiciones de esta ley.
 
 3. En tratándose de las atribuciones conferidas al Poder Legislativo por el Título Noveno de la Constitución Política del Estado, se actuará con base en los procedimientos previstos por el Código Municipal para el Estado, aplicándose en lo conducente las disposiciones de esta ley para la formulación de informes, dictámenes, discusiones y votaciones.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
+4. La información inherente al desarrollo de los procedimientos previstos en el presente capítulo se dará a conocer a los integrantes del Pleno a través de medios o vías de comunicación electrónica, o en forma impresa.
 
 #### SECCION QUINTA. DEL PROCEDIMIENTO PRESUPUESTARIO
 
@@ -2632,3 +2642,9 @@ P.O. 30 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 5 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
