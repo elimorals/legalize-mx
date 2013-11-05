@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2013-01-16"
+last_updated: "2013-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -50,7 +50,9 @@ La presente ley es de orden público e interés social y de observancia en toda 
 
 El objeto de esta ley es promover y proteger los derechos y cultura del consumidor y procurar la equidad, certeza y seguridad jurídica en las relaciones entre proveedores y consumidores.
 
-"Son principios básicos en las relaciones de consumo:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+Son principios básicos en las relaciones de consumo:
 
 > <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -76,13 +78,17 @@ VII. La protección contra la publicidad engañosa y abusiva, métodos comercial
 
 VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados;
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
 
-IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento; y
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
 
-X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
+X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+XI. La libertad de constituir grupos u otras organizaciones de consumidores que, sin contravenir las disposiciones de esta ley, sean garantes de los derechos del consumidor.
 
 Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
@@ -2257,3 +2263,7 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Las casas de empeño contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a las disposiciones contenidas en el presente Decreto.
 
 Tercero. La Procuraduría Federal del Consumidor deberá ejecutar un programa de verificación de establecimientos y lugares en los que se ofertan al público contratos de mutuo con interés y garantía prendaria.
+
+D.O.F. 5 DE NOVIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
