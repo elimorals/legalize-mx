@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2013-06-07"
+last_updated: "2013-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -46,7 +46,9 @@ LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la protección al ambiente en materia de prevención y gestión integral de residuos, en el territorio nacional.
 
-Sus disposiciones son de orden público e interés social y tienen por objeto garantizar el derecho de toda persona al medio ambiente adecuado y propiciar el desarrollo sustentable a través de la prevención de la generación, la valorización y la gestión integral de los residuos peligrosos, de los residuos sólidos urbanos y de manejo especial; prevenir la contaminación de sitios con estos residuos y llevar a cabo su remediación, así como establecer las bases para:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+Sus disposiciones son de orden público e interés social y tienen por objeto garantizar el derecho de toda persona al medio ambiente sano y propiciar el desarrollo sustentable a través de la prevención de la generación, la valorización y la gestión integral de los residuos peligrosos, de los residuos sólidos urbanos y de manejo especial; prevenir la contaminación de sitios con estos residuos y llevar a cabo su remediación, así como establecer las bases para:
 
 I. Aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, los cuales deben de considerarse en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos;
 
@@ -1507,3 +1509,7 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 5 DE NOVIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
