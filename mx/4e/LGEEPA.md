@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2013-06-07"
+last_updated: "2013-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -48,7 +48,9 @@ LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la preservación y restauración del equilibrio ecológico, así como a la protección al ambiente, en el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción. Sus disposiciones son de orden público e interés social y tienen por objeto propiciar el desarrollo sustentable y establecer las bases para:
 
-I. Garantizar el derecho de toda persona a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar;
+> <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+I. Garantizar el derecho de toda persona a vivir en un medio ambiente sano para su desarrollo, salud y bienestar;
 
 II. Definir los principios de la política ambiental y los instrumentos para su aplicación;
 
@@ -1928,6 +1930,10 @@ ARTICULO 87 BIS 1.- Los ingresos que la Federación perciba por concepto del oto
 
 ARTICULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+
+Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyan condiciones de cautiverio, exhibición, transporte, alimentación, explotación, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO TERCERO. Aprovechamiento Sustentable de los Elementos Naturales
@@ -3805,3 +3811,17 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 5 DE NOVIEMBRE DE 2013.
+
+DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1o. DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE NOVIEMBRE DE 2013.
+
+DECRETO QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 87 BIS 2 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría deberá expedir las normas oficiales mexicanas correspondientes en un plazo de dieciocho meses siguientes contados a partir de la entrada en vigor de la presente Ley.
