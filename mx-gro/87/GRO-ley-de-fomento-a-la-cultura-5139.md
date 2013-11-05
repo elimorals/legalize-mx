@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-a-la-cultura-5139"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-10"
-last_updated: "2011-04-05"
+last_updated: "2013-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO A LA CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2013.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 10 de mayo de 1988.
 
@@ -141,237 +141,149 @@ El Gobierno del Estado, elaborará, expedirá y ejecutará el Programa de Foment
 
 El Programa de Fomento a la Cultura tendrá como objetivo general, proveer a la aplicación cabal de esta Ley para el logro efectivo de sus fines.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
+
 ## TITULO SEGUNDO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO UNICO. DEL FOMENTO A LA CULTURA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2011)</small>
-
 ###### ARTICULO 6o.
 
-El Gobierno del Estado fomentará la cultura, en los términos del Plan Estatal de Desarrollo, y del Programa relativo, previendo los recursos financieros en el Presupuesto de Egresos del Estado, para:
-
-I. Administrar el Instituto Guerrerense de la Cultura con sujeción a lo que esta Ley establece;
-
-II. Crear y operar establecimientos culturales de interés estatal; como casas y centros de cultura, escuelas, bibliotecas, centros de capacitación o de investigación, museos, salas de exposición, imprentas y editoriales, y otros establecimientos de naturaleza análoga;
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-En lo relativo al establecimiento de casas y centros de cultura, deberán proveerse los mecanismos necesarios para el establecimiento de cuando menos una en cada Región en las que se divide el Estado de Guerrero. (Centro, Montaña, Norte, Tierra Caliente, Costa Chica, Costa Grande y Acapulco).
-
-III. Estimular la creación y operación de establecimientos culturales por parte de los ayuntamientos, dependencias y entidades federales mediante apoyos técnicos, materiales y financieros;
-
-IV. Otorgar estímulos, premios y reconocimientos a personas morales o físicas por sus contribuciones a la cultura guerrerense;
-
-V. Asignar becas a estudiantes, artistas, trabajadores culturales, preferentemente guerrerenses, de acuerdo con los procedimientos y reglas aplicables;
-
-VI. Patrocinar la formación de grupos ciudadanos que actúen en el campo cultural, así como su participación en programas gubernamentales o en establecimientos culturales públicos o comunitarios;
-
-VII. Hacer ediciones o reproducciones de obras de mérito cultural;
-
-VIII. Producir o distribuir bienes culturales, y prestar servicios culturales;
-
-IX. Fomentar la formación de círculos de estudios altamiranistas, alarconianos, y sobre la obra de otros intelectuales y hombres de cultura guerrerense;
-
-X. Fomentar la investigación jurídica e impulsar los valores cívicos en el Estado;
-
-XI. Fomentar la creación de academias de historia de ciencias y artes estatales y regionales;
-
-XII. Establecer entidades de investigación y difusión de la cultura en las que participen intelectuales y artistas distinguidos para honrar a éstos;
-
-XIII. Auspiciar la designación de Comités Municipales para promover la historia regional y la memoria colectiva;
-
-XIV. Organizar y apoyar concursos, certámenes, reuniones y festivales que contribuyan a la preservación, protección, acrecentamiento o difusión de la cultura guerrerense y en general, de la cultura nacional y universal.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 7o.
 
-El gobierno del Estado fijará los precios y cuotas de recuperación de los bienes culturales que produzca o distribuya, así como de los servicios que preste, conforme a la Ley de Ingresos y considerando los costos y los fines que establece esta Ley, procurando favorecer el acceso de los guerrerenses a los mismos.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 8o.
 
-Cuando los bienes o servicios culturales se produzcan, distribuyan o presten por dependencias o entidades federales o municipales, o bien por particulares, el Gobierno del Estado procurará que los precios, tarifas o cuotas sean accesibles, gratuitos o a menor costo.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2011)</small>
-
-Las Casas de la Cultura son espacios que tienen como objetivo ayudar y contribuir a la conservación de las tradiciones, fomentar el gusto por el arte y ayudar al descubrimiento de vocaciones artísticas, ofreciendo alternativas culturales y de oficio para el desarrollo del individuo. Los servicios a promotores culturales serán gratuitos, y de las actividades de éstos hacia el público en general deberán ser asequibles, con la única finalidad de recuperar los gastos que el servicio cultural ocasione.
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO TERCERO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO UNICO. DE LA COORDINACION CON EL GOBIERNO FEDERAL Y LOS AYUNTAMIENTOS
 
 ###### ARTICULO 9o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Social, conforme al Programa de Fomento a la Cultura, celebrará acuerdos de coordinación generales o específicos con las distintas dependencias y entidades federales con los siguientes fines:
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-l. Promover y favorecer el acceso de los guerrerenses a instalaciones, servicios y bienes culturales pertenecientes a los Municipios, Estado y la Federación;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-II. Que las dependencias y entidades federativas celebren actos culturales en el Estado, en los que se contemple la participación de artistas o trabajadores culturales guerrerenses;
-
-III. Obtener apoyo normativo y técnico de la federación;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-IV. Difundir los valores culturales del Estado, en los que participen las casas de culturas regionales;
-
-V. Aprovechar la capacidad e infraestructura federal instalada, para los efectos de esta Ley;
-
-VI. Estimular una distribución regional racional y equilibrada del equipamiento cultural.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 10.
 
-El Gobierno del Estado y los ayuntamientos celebrarán convenios de coordinación con los siguientes fines:
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-l. Hacer que los municipios, en coordinación con las casas de cultura regionales, se beneficien con los Acuerdos a los que se refiere el artículo anterior;
-
-II. Definir las responsabilidades del fomento a la cultura entre el Gobierno Estatal y los municipios en un marco de coordinación y colaboración;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-III. Estimular la operación y creación de Casas de Cultura, con la participación del Gobierno Estatal, Municipal y organizaciones culturales, en un marco de coordinación y colaboración. Transfiriendo la operación de establecimientos culturales del Gobierno del Estado a los municipios cuando sean del interés de éstos;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-IV. Proporcionar a los Municipios, a las casas de cultura regionales, apoyos normativos, técnicos, materiales y financieros;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-V. Asegurar la participación de los municipios, las Casas de Cultura Regionales, en el Sistema y Programas Estatales de Cultura;
-
-VI. Favorecer el aprovechamiento cabal y eficiente de la infraestructura cultural, y
-
-VII. Garantizar la actividad cultural integral.
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 11.
 
-El Gobierno del Estado y los Ayuntamientos, deberán instituir establecimientos coordinados de servicios culturales, casas de cultura regionales, participando conjuntamente en la administración, financiamiento y organización de los mismos.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO CUARTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO UNICO. DE LOS FESTIVALES CULTURALES
 
 ###### ARTICULO 12.
 
-El Gobierno del Estado podrá organizar por sí mismo, con el Gobierno Federal o con los ayuntamientos, o bien con los distintos grupos sociales, festivales culturales que contribuyan al acrecentamiento y difusión de la cultura guerrerense, nacional o universal.
-
-Los ayuntamientos podrán promover ante el Gobierno Estatal el registro oficial de ferias y festivales regionales o municipales de carácter predominante cultural, a efecto de que se incluyan en el calendario oficial de la materia y se obtengan los apoyos normativos, materiales y financieros pertinentes.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 13.
 
-En todo caso, el Gobierno del Estado organizará anualmente las Jornadas Alarconianas y la Feria Nacional de la Plata, cuya sede será la Ciudad de Taxco de Alarcón, y propiciará la realización de ferias como la de la Bandera en Iguala de la independencia, la de San Mateo en Chilpancingo de los Bravo y otras en las que se conserve la tradición y se manifieste la cultura.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 14.
 
-Las Jornadas Alarconianas serán un festival en el que pondrán en escena obras de teatro de Juan Ruiz de Alarcón y difundiéndose en todo el Estado.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 15.
 
-El Gobierno del Estado con la intervención de las instituciones federales que, en su caso, sean convocadas, y sin perjuicio de la Ley de Premios Civiles, otorgará en ese festival, el Premio Nacional de Literatura "Juan Ruiz de Alarcón", como reconocimiento a la obra literaria realizada por personas físicas o morales.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 16.
 
-Las Jornadas Alarconianas serán organizadas por un patronato y un consejo directivo, presididos por el Secretario de Desarrollo Social y el Presidente del H. Ayuntamiento del Municipio de Taxco, formados por representantes de las distintas dependencias y entidades públicas, así como por miembros de la sociedad.
-
-El Presidente del Municipio de Taxco y el Presidente y Director del Instituto Guerrerense de la Cultura, coordinarán a los mencionados órganos colegiados.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 17.
 
-La Feria Nacional de la Plata será un festival cultural en el que se difundirá la orfebrería argentífera de Taxco; se harán reconocimientos a las obras de mayor calidad artística.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 18.
 
-La organización y desarrollo de la Feria Nacional de la Plata estará a cargo de un patronato y un consejo directivo, presididos por el Presidente Municipal de Taxco, quien contará con la colaboración de la Secretaría de Desarrollo Social y del Instituto Guerrerense de la Cultura.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO QUINTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO UNICO. DE LA PARTICIPACION DE LA COMUNIDAD
 
 ###### ARTICULO 19.
 
-Para asegurar el carácter democrático, popular y plural del fomento a la cultura, el Gobierno del Estado y los Ayuntamientos estimularán la participación libre y coordinada de la comunidad en la organización y funcionamiento de los establecimientos culturales y en la elaboración y ejecución de los programas de éstos.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 20.
 
-Con sujeción a la Ley que establece las Bases para el Fomento de la Participación de la Comunidad, el Gobierno del Estado y los ayuntamientos formará comités que apoyen las actividades públicas de fomento a la cultura y que coadyuven a la producción y distribución de bienes culturales o a la prestación de servicios culturales. Se promoverá especialmente la participación y colaboración de los guerrerenses que radican en el Distrito Federal y en otros lugares de la República.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 21.
 
-De acuerdo con mecanismos democráticos y propiciando la colaboración de los vecinos de mayor mérito cultural o cívico, el Gobierno del Estado y los Ayuntamientos, incorporarán a ciudadanos a los consejos técnicos de los establecimientos culturales.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 22.
 
-El Gobierno del Estado y los ayuntamientos, o los establecimientos culturales, actuando con base a las directivas que con tal propósito se definirán, promoverán que la sociedad participe en la organización, desarrollo, construcción y financiamiento de actos y unidades culturales, como bibliotecas, museos, teatros, foros y otros locales de este tipo.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 23.
 
-El Gobierno del Estado y los ayuntamientos estimularán la creación de instituciones de asistencia privada, sociedades y asociaciones civiles y fideicomisos, que coadyuven al fomento a la cultura.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO. DEL SISTEMA ESTATAL DE CULTURA
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+### CAPITULO UNICO. DEL SISTEMA ESTATAL DE CULTURA
 
 ###### ARTICULO 24.
 
-Se crea el Sistema Estatal de Cultura como un mecanismo de coordinación funcional de las dependencias y entidades públicas, los establecimientos culturales y las Casas de Cultura Regionales, que actúen en el Estado de Guerrero, teniendo por objeto vincular racionalmente la producción, distribución y prestación de bienes y servicios culturales para favorecer su disfrute y la protección, acrecentamiento y difusión de los valores y patrimonio cultural guerrerense.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 25.
 
-El Sistema Estatal de Cultura estará presidido por la Secretaría de Desarrollo Social, auxiliada por el Instituto Guerrerense de la Cultura, integrándose con las casas y centros de cultura, bibliotecas, museos, centros de exposición, escuelas de educación artística, centros de investigación cultural y demás establecimientos culturales para el logro de los siguientes fines:
-
-I. Evitar duplicaciones de infraestructura;
-
-II. Asegurar el uso cabal del equipamiento cultural;
-
-III. Garantizar el apoyo mutuo;
-
-IV. Elaborar y llevar a cabo programas y proyectos conjuntos, y
-
-V. Apoyar los programas y proyectos de interés estatal y, en general, la elaboración y ejecución, del Programa de Fomento a la Cultura.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 26.
 
-El Sistema Estatal de Cultura celebrará tres sesiones ordinarias al año y las extraordinarias a las que convoque la Secretaría de Desarrollo Social, con el propósito de conocer los programas y presupuestos de cada ejercicio así como el informe de labores culturales de cada año.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO SEPTIMO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO UNICO. DE LAS ARTESANIAS
 
 ###### ARTICULO 27.
 
-El Gobierno del Estado y los ayuntamientos protegerán el valor cultural de las artesanías guerrerenses y, al mismo tiempo, apoyarán la producción artesanal y su comercialización estatal, nacional e internacionalmente.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 28.
 
-La Secretaría de Desarrollo Social, directamente y por conducto del Instituto Guerrerense de la Cultura, apoyará a la Secretaría de Desarrollo Económico en las siguientes actividades:
-
-I. Llevar un padrón de artesanos reconocidos por la excelencia de sus obras;
-
-II. Levantar un inventario permanente de recursos artesanales;
-
-III. Promover la organización de los productores de artesanías y apoyar a éstos con financiamientos, asistencia técnica y disposición de materias primas;
-
-IV. Coadyuvar a la comercialización equitativa y eficiente de las artesanías, y
-
-V. Promover la capacitación de los artesanos.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 29.
 
-La Secretaría de Desarrollo Social, por conducto del Instituto Guerrerense de la Cultura y de las unidades y establecimientos competentes, con la intervención que corresponde a la Secretaría de Desarrollo Económico se ocupará de lo siguiente:
-
-I. Realizar investigaciones sobre los artesanos y en general respecto de la actividad artesanal;
-
-II. Crear y apoyar escuelas para artesanos, y
-
-III. Difundir las artesanías guerrerenses con todos los medios a su alcance.
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ## TITULO OCTAVO
 
@@ -397,49 +309,49 @@ El Gobierno del Estado, con la participación de los ayuntamientos, celebrará c
 
 EL Gobierno del Estado, por sí o a promoción de los ayuntamientos, podrá iniciar decretos ante el H. Congreso del Estado mediante los cuales se hagan declaratorias de poblados, sitios, zonas o bienes inmuebles de interés histórico o cultural con sujeción al artículo 27 de la Constitución General de la República.
 
-> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NUMERO 438 POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO "INSTITUTO GUERRERENSE DE LA CULTURA", P.O. 15 DE OCTUBRE DE 1999)</small>
+(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NUMERO 438 POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO "INSTITUTO GUERRERENSE DE LA CULTURA", P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ## TITULO NOVENO
 
-> <small>(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NUMERO 438 POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO "INSTITUTO GUERRERENSE DE LA CULTURA", P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ### CAPITULO UNICO. DEL INSTITUTO GUERRERENSE DE LA CULTURA
 
 ###### ARTICULO 35.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 36.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 37.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 38.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 39.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 40.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 41.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 42.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 43.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999) (REPUBLICADO POR TRANSITORIO SEGUNDO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO, P.O. 5 DE NOVIEMBRE DE 2013)
 
 T R A N S I T O R I O S
 
@@ -489,7 +401,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 15 DE OCTUBRE DE 1999.
 
@@ -500,3 +412,21 @@ P.O. 5 DE ABRIL DE 2011.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página Web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 5 DE NOVIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 239 PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se derogan los Títulos Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo y Noveno de la Ley de Fomento a la Cultura, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, Número 38 el martes 10 de mayo de 1988, hasta en tanto se emite la Ley correspondiente a la protección del patrimonio cultural del Estado.
+
+TERCERO.- Para la exacta observancia y aplicación de esta Ley, el Gobernador del Estado expedirá el Reglamento correspondiente, en un plazo no mayor de 90 días, con base en la propuesta que le presente el Secretario de Cultura.
+
+CUARTO.- Para los efectos de la integración del Consejo, se entenderá por Comisión de Cultura del Congreso del Estado, la prevista en la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286.
+
+QUINTO.- La integración y funcionamiento del Consejo relativo al artículo 25 y de los Consejos Municipales relativo al artículo 33, de la presente Ley, deberá cumplirse en un plazo no mayor a 60 días naturales a partir de la entrada en vigor de esta Ley.
+
+SEXTO.- Por esta única ocasión, el Gobernador del Estado emitirá el Primer Programa para el Fomento y Desarrollo de la Cultura y las Artes del Estado, en un plazo no mayor de los 180 días naturales, posteriores a la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- La fracción III del artículo 18 entrará en vigor a partir del ejercicio fiscal siguiente al del año de entrada en vigor de esta Ley.
