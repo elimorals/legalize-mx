@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2013-03-23"
+last_updated: "2013-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -539,101 +539,151 @@ Todas las resoluciones de primera y segunda instancia serán autorizadas por qui
 
 ### CAPITULO IV. NOTIFICACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 64.
 
-Las notificaciones se harán a más tardar el día siguiente a aquél en que se dicten las resoluciones que las prevengan, cuando el Tribunal o la Ley no dispusieren en otro sentido. Para tal efecto, los interesados deben señalar domicilio en el lugar del juicio, así como en el que haya de hacerse la primera notificación a aquellos a quienes sea necesario se les practique y mientras subsista la omisión, en el primer caso se entenderán en los estrados y en el segundo no se efectuará diligencia alguna.
+La autoridad jurisdiccional hará del conocimiento de las partes de una relación jurídica, sus resoluciones dentro de los tres días siguientes a la fecha en que estas se dicten, siempre que la ley no disponga en otro sentido. Para tal efecto, los interesados deben señalar domicilio en el lugar del juicio u otro medio para ser notificado.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+
+Asimismo, deberán señalar el domicilio, así como cualquier dato que permita su ubicación si lo tuvieren, en el que haya de hacerse la primera notificación a aquellos a quienes sea necesario se les practique.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+
+Mientras subsista la omisión, en el primer caso se entenderán en los estrados y en el segundo no se efectuará diligencia alguna.
 
 ###### ARTICULO 65.
 
 Las partes podrán autorizar para oír y recibir notificaciones en su nombre a una persona capaz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 66.
 
-Cuando la autorización a que se refiere el artículo anterior, se otorga a un abogado con título registrado en el Tribunal Superior de Justicia, salvo las limitaciones que expresamente le imponga el autorizante, podrá:
+Cuando la autorización a que se refiere el artículo anterior, se otorga a un abogado con Título o Cédula Profesional registrada en el Tribunal Superior de Justicia, o cuya existencia justifique, salvo las limitaciones que expresamente le imponga el autorizante, podrá:
 
 I.- Interponer, y en su caso proseguir, recursos o incidentes;
 
-II.- Ofrecer o rendir pruebas y absolver posiciones, cuando conozca los hechos y no se oponga la contraria; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+II.- Ofrecer y rendir pruebas, articular posiciones y absolverlas cuando conozca los hechos y no se oponga la contraria, y
 
 III.- Seguir el juicio hasta ejecutar la sentencia.
 
 La autorización para recibir notificaciones no confiere facultades extrajudiciales, de administración o de dominio.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+EI autorizado carece de facultades para delegar las que le fueron conferidas, pero puede designar autorizado solo para los efectos del artículo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 67.
 
-Cuando se señale nuevo domicilio para oír notificaciones, se entenderá que se revocan los anteriores, a menos que se manifieste en el mismo ocurso que aquéllas pueden practicarse en cualquiera de los señalados.
+Cuando se señale nuevo domicilio o medio para oír y recibir notificaciones, se entenderá que se revocan los anteriores, a menos que se manifieste en el mismo ocurso que aquéllas puedan practicarse en cualquiera de los señalados.
 
-#### SECCIÓN PRIMERA. NOTIFICACIONES PERSONALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 68.
 
-Siempre se notificará personalmente:
+Las notificaciones se harán:
 
-I.- La primera resolución;
+I.- De forma personal en:
 
-II.- El auto que se tome como base para abrir el período de ofrecimiento de pruebas;
+a. La primera resolución;
 
-III.- La citación para absolución de posiciones o reconocimiento de firmas;
+b. El auto que se tome como base para abrir el período de ofrecimiento de pruebas;
 
-IV.- Cuando se deje de actuar por más de dos meses consecutivos;
+c. La citación para absolución de posiciones o reconocimiento de firmas;
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+d. El requerimiento de un acto a la parte que deba cumplirlo;
 
-V.- Cuando se estime que se trate de un caso urgente;
+e. Todas las sentencias;
 
-VI.- El requerimiento de un acto a la parte que deba cumplirlo;
+f. Las resoluciones que ordenen la ejecución de un lanzamiento de casa habitación, comercio o predio rústico;
 
-VII.- Todas las sentencias;
+g. La primera resolución dictada por Tribunal distinto al que previno en el conocimiento;
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+h. La citación a la apertura de la audiencia para el desahogo de pruebas;
 
-VIII.- Las resoluciones que ordenen la ejecución de un lanzamiento de casa habitación, comercio, o finca rústica;
+i. La hipótesis prevista en el artículo 166 de este Código, y
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+j. Los demás casos que la Ley disponga.
 
-IX.- La primera resolución dictada por Tribunal distinto al que previno en el conocimiento;
+II. Por edictos, cuando se trate de personas cuyo nombre, domicilio o lugar de residencia se ignore;
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
+III. Por lista, en los casos no previstos en las fracciones anteriores y sin perjuicio de efectuar las notificaciones por otro de los medios que procediere conforme al presente capítulo, y
 
-X.- La citación a la apertura de la audiencia para el desahogo de pruebas; y
+IV. Por otros medios, si los interesados así lo solicitan y siempre que se refiera a un medio usual y a su costa, para lo cual deberán proporcionar los elementos necesarios y practicadas que sean, el notificador asentará la fecha, hora y medio empleado, circunstanciando esto con la mayor precisión posible, de tal manera que permita su identificación y localización.
 
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2010)</small>
-
-XI.- En los demás casos que la ley disponga.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 69.
 
-En la hipótesis de la fracción I del artículo anterior, si la primera resolución es favorable al promovente, se hará la notificación a ambas partes, si las hubiere, de lo contrario únicamente a aquél, observándose las siguientes disposiciones:
+Las notificaciones personales se harán bajo las siguientes formalidades:
 
-I.- Quien haga la notificación deberá cerciorarse previamente que la casa designada para hacer la(sic) es el domicilio de la persona que ha de ser notificada y asentará en la razón correspondiente, los medios de que se valió para ese efecto;
+I.- Quien haga la notificación deberá cerciorarse previamente que la casa designada para hacer la (sic) es el domicilio de la persona que ha de ser notificada y asentará en la razón correspondiente, los medios de que se valió para ese efecto;
 
-II.- Encontrando presente al interesado o a su autorizado, le entregará copia de la resolución que notifica y en su caso, de la demanda y documentos que con ésta se hubieren exhibido;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-III.- Si no se encontrare al interesado o a su autorizado, se le dejará citatorio para hora y fecha dentro de un término comprendido entre las seis y las veinticuatro horas posteriores, y si no espera, se le hará la notificación por cédula a la que se anexarán las copias señaladas en la fracción anterior. Tanto el citatorio como la cédula, en su caso, deberán ser entregados a la persona capaz que se encuentre en el domicilio o en el del vecino más próximo;
+II.- Encontrando presente al interesado o a su autorizado, le entregará copia de la resolución que notifica y en su caso, de la demanda y documentos que con ésta se hubieren exhibido. Si la persona se niega a recibir o a firmar la notificación, la negativa se asentará en autos y la notificación se tendrá por hecha;
 
-IV.- Si se negare la persona a que se entienda con ella la diligencia, se fijará en cualquier parte visible del domicilio el original del citatorio o cédula, asentando en éste último caso que las copias de traslado quedan a disposición del notificado en la Secretaría del Tribunal respectivo.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+III.- Si no encuentra a la persona que deba ser notificada, el notificador se cerciorará de que es el domicilio y le dejará citatorio para que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse, especificándose el mismo y el número de expediente. El citatorio se dejará con la persona que se encuentre en el domicilio; si la persona por notificar no acude a la cita, la notificación se hará por lista. Si la persona con quien se entiende la diligencia se niega a recibir el citatorio o firmar su recepción, así se hará constar, y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Si el notificador encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto y que se encuentra habitado, lo hará constar e introducirá en el mismo el citatorio o en su defecto, fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes acuda al órgano jurisdiccional a notificarse. Si no se presenta, se notificará por lista; pudiendo el referido órgano tomar las medidas necesarias para lograr la notificación personal, si así lo estima pertinente.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+En los casos de las fracciones III y IV, las notificaciones y el emplazamiento se tendrán por hechos al ocurrir el interesado o su autorizado o de no ocurrir ninguno de ellos, transcurrido el término para ello, y se realice la notificación por lista.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+Toda notificación personal, realizada con quien deba entenderse, será legalmente válida aun cuando no se efectúe en el domicilio respectivo.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+En todos los casos a que se refieren las fracciones anteriores, el actuario asentará razón circunstanciada de la diligencia.
 
 ###### ARTICULO 70.
 
 La segunda y ulteriores notificaciones se harán personalmente a los interesados si concurren al Tribunal respectivo con ese objeto, ya sea el mismo día en que se dicten las resoluciones en que hayan de practicárseles o al día siguiente.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 71.
 
-Cuando variare el personal de un Tribunal, no se proveerá haciendo saber el cambio, sino que al calce del primer proveído que se dictare después de ocurrido, se escribirán completos los nombres y apellidos de los nuevos servidores públicos. Solo que el cambio ocurriere cuando el asunto esté pendiente únicamente de la sentencia, se mandará hacerlo saber a las partes.
+Cuando variare el personal de un Tribunal, no se proveerá haciendo saber el cambio, sino que al calce del primer proveído que se dictare después de ocurrido, se escribirán completos los nombres y apellidos de los nuevos servidores públicos. Solo que el cambio ocurriere cuando el asunto esté pendiente únicamente de la sentencia, se mandará hacerlo saber de manera personal a las partes.
 
 #### SECCION SEGUNDA. NOTIFICACIONES POR EDICTOS
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 72.
 
-Cuando se trate de personas cuyo nombre, domicilio o lugar de residencia se ignore, las notificaciones personales se le harán por edictos que se publiquen por dos veces con un mínimo de tres y un máximo de ocho días entre una y otra en el periódico oficial del Estado, y otro medio de comunicación a elección del promovente. A criterio del Tribunal, podrá emplearse otro medio de comunicación de cobertura regional o nacional.
+Las notificaciones personales que deban hacerse por edictos, se publicarán por dos veces con un mínimo de tres y un máximo de ocho días entre una y otra en el Periódico Oficial del Estado, y otro medio de comunicación a elección del promovente. A criterio del Tribunal, podrá emplearse otro medio de comunicación de cobertura regional o nacional.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 73.
+###### ARTÍCULO 73.
 
 Para que proceda la notificación conforme al artículo anterior, el promovente deberá manifestar bajo protesta de decir verdad que ignora el domicilio del demandado y justificar que hizo gestiones para averiguar lo conducente, debiendo adjuntar a su demanda una constancia de búsqueda por parte de la policía municipal.
 
-A criterio del Tribunal, se podrán girar oficios a las autoridades administrativas correspondientes para que informen si existe domicilio del demandado en el Estado.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+Además el Tribunal girará oficios a las autoridades administrativas e instituciones públicas o privadas correspondientes, para que informen si existe domicilio del demandado en el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+Las instituciones y autoridades estarán obligadas a proporcionar la información en un plazo no mayor a diez días hábiles, apercibiéndolas de que en caso de no hacerlo, la autoridad judicial dictará las medidas de apremio correspondientes a la persona o funcionario responsables de contestar los informes, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
 
 #### SECCION TERCERA. NOTIFICACIONES POR LISTA
 
@@ -641,29 +691,71 @@ A criterio del Tribunal, se podrán girar oficios a las autoridades administrati
 
 Sin perjuicio de efectuar las notificaciones por otro de los medios que procediere conforme al presente capítulo, se harán por listas observando las siguientes disposiciones:
 
-I.- De los asuntos que se acuerden diariamente se hará por triplicado una lista, autorizada por el notificador que contendrá número de toca o expediente, nombre de los interesados y clase de juicio, sin incluir los que por su naturaleza y estado requieran que se guarden en secreto;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-II.- El original de los ejemplares se publicará fijándose en lugar visible de los estrados del Tribunal, el duplicado en el boletín judicial cuando apareciere, siempre y cuando se facilite la remisión de aquél al lugar en que éste se imprima y con el triplicado, cotejado por el Secretario, se formará un legajo que éste conservará bajo su más estricta responsabilidad para cualquier aclaración por el término que estime prudente, al final del cual será archivado definitivamente;
+I. De los asuntos que se acuerden diariamente se hará por triplicado una lista, autorizada por el secretario que contendrá número de toca o expediente, nombre de los interesados y clase de juicio, sin incluir los que por su naturaleza y estado requieran que se guarden en secreto;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+II. EI original de los ejemplares se publicará por el notificador fijándose en lugar visible de los estrados del Tribunal, el duplicado se publicará en el Boletín Judicial y con el triplicado cotejado por el Secretario, se formará un legajo que éste conservará bajo su más estricta responsabilidad para cualquier aclaración por el término que estime prudente, al final del cual será archivado definitivamente;
 
 III.- En todos los tocas o expedientes que aparezcan publicados, se asentará razón de haberse fijado la lista, la cual permanecerá dos días;
 
 IV.- Al tercer día de que se publique la lista, se pondrá razón en los asuntos que procediere que la notificación se hizo por ese medio y, retirando el ejemplar de los estrados, integrará un legajo por mes, al término del cual se remitirá al archivo provisional a efecto de que cuando concluya el año se forme uno solo que comprenda los doce meses y se archive definitivamente.
 
-#### SECCION CUARTA. COMUNICACIONES POR OTROS MEDIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN CUARTA. NOTIFICACIÓN POR CORREO ELECTRÓNICO
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 75.
 
-Si los interesados solicitan que se les hagan las notificaciones por cualquier otro medio usual y a su costa, deberán proporcionar los elementos necesarios y, practicadas que sean, el notificador asentará la hora, fecha y medio empleado, describiendo éste con la mayor precisión posible, de tal manera que permita su identificación y localización.
+Si los interesados solicitan que se les practiquen las notificaciones por correo electrónico, se sujetarán a las reglas siguientes:
+
+I. Las partes señalaran la cuenta de correo electrónico en donde deseen recibir las notificaciones;
+
+II. EI Tribunal acordará la petición de la parte solicitante asentando en autos de la cuenta de correo electrónico designada;
+
+III. EI Tribunal deberá escanear la notificación a efectuar en su contenido total, en donde conste la firma del Secretario de Acuerdos de que se trate y con los sellos respectivos, documento que deberá anexarse al correo electrónico con el que se notifique.
+
+Las copias de traslado y anexos en su caso, quedarán a disposición de la parte interesada;
+
+IV. La notificación se tendrá por practicada desde el momento en que se confirme el envío del correo electrónico, para lo cual, el notificador deberá imprimir el documento en que haga constar que el correo electrónico fue enviado y se adjuntará al expediente junto con el acta de notificación, y
+
+V. Las partes en cualquier etapa del juicio, podrán revocar que las notificaciones se realicen por correo electrónico y solicitar que las notificaciones subsecuentes se les practiquen por otro medio de los establecidos por la ley.
+
+EI Consejo de la Judicatura mediante el acuerdo correspondiente dictará los lineamientos necesarios para el cumplimiento de este artículo.
 
 ### CAPITULO V. EXHORTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 76.
 
-El Magistrado en turno podrá encomendar mediante oficio comisorio a los Jueces de Primera Instancia la práctica de diligencias necesarias cuando deban verificarse en un lugar que no sea el de su residencia pero dentro del Estado. La misma facultad corresponde a los Jueces respecto a los de igual o menor categoría que ellos.
+EI Magistrado en turno podrá encomendar mediante oficio comisorio o cualquier otro medio electrónico a los Jueces de Primera Instancia, la práctica de diligencias necesarias cuando deban verificarse en un lugar que no sea el de su jurisdicción pero dentro del Estado. La misma facultad corresponde a los Jueces.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+
+El Consejo de la Judicatura del Estado podrá acordar que en el trámite de exhortos, oficios comisorios y requisitorias que deban diligenciarse en el territorio del estado o fuera de este, se realicen por medios electrónicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 77.
 
-Las diligencias que hayan de practicarse fuera del Estado, deberán encomendarse por exhorto al Juez del lugar en que hayan de efectuarse.
+Las diligencias que hayan de practicarse fuera del Estado, deberán encomendarse por exhorto al Juez del lugar, en que hayan de efectuarse.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+
+El Tribunal ordenará que los oficios comisorios o exhortos se remitan a su destino por los conductos oficiales, o que se entreguen preferentemente a la parte solicitante o a la que demuestre mayor interés.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+
+Quien así lo solicite, tendrá la obligación en el plazo de diez días de su recepción, de comparecer ante el órgano exhortado y entregar al órgano exhortante el acuse respectivo.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO SE AGREGÓ EN LA PUBLICACIÓN DEL P.O. 6 DE NOVIEMBRE DE 2013, TODA VEZ QUE DEL ANÁLISIS DEL TEXTO ANTERIOR SE APRECIA LA INEXISTENCIA DE ÉSTE.</small>
+
+A quien incumpla con el párrafo que antecede, se le impondrá la sanción que establece el artículo 54 de este código.
 
 ###### ARTICULO 78.
 
@@ -675,11 +767,23 @@ En los oficios y exhortos no se requiere la legalización de las firmas del Trib
 
 Para que los exhortos de los Tribunales de las demás Entidades de la Federación sean diligenciados por los de Nayarit, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 79 Bis.
+
+El juez exhortado tendrá plenitud de jurisdicción para el cumplimiento de lo ordenado y dispondrá que para su cumplimiento y desahogo se practiquen cuantas diligencias sean necesarias.
+
+Una vez cumplimentado lo devolverá al tribunal de origen por el conducto oficial o por el recibido, dentro del término de tres días contados a partir de la fecha de la última actuación.
+
+Cuando el exhorto haya sido remitido a un órgano diferente al que deba prestar el auxilio, el que lo reciba deberá enviarlo dentro de las veinticuatro horas siguientes al que corresponda, debiendo dar cuenta de dicha circunstancia incluso por correo electrónico al exhortante.
+
+El exhorto deberá cumplimentarse en el tiempo previsto en el mismo. De no ocurrir así, se solicitará por cualquier medio de comunicación de la urgencia del cumplimiento, lo que se hará de oficio o a instancia de parte interesada. De persistir la omisión en diligenciar lo ordenado, se impondrán las sanciones administrativas correspondientes. Si se tratara de un Juez con residencia fuera del Estado, se ordenará dar vista a su superior jerárquico, por conducto del Presidente del Tribunal.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 80.
 
-Pueden los Tribunales acordar que los exhortos y oficios que manden expedirse se entreguen para hacerlos llegar a su destino y diligenciarlos en su caso a la parte que demuestre mayor interés, la cual devolverá la copia de recibo y en su oportunidad el exhorto u oficio a no ser que el Tribunal requerido lo envíe directamente al exhortante. Cuando sin causa justificada sean retenidos, se impondrá multa hasta de veinte días de salario al responsable.
-
-Los enviados al extranjero o que se reciban de él, se sujetarán al Código Federal de Procedimientos Civiles.
+La práctica de las diligencias enviadas al extranjero o que se reciban de él, se sujetarán al Código Federal de Procedimientos Civiles.
 
 ### CAPITULO VI. TERMINOS
 
@@ -1217,9 +1321,11 @@ Si entre las excepciones opuestas al contestar la demanda o la reconvención, hu
 
 Transcurrido el término del emplazamiento, sin haber sido contestada la demanda o la reconvención en su caso, se hará la declaración de rebeldía con los efectos señalados en la parte final del artículo 151, abriéndose el período de ofrecimiento de pruebas sin necesidad de que medie petición de parte. Para hacer la declaración en rebeldía el Juez examinará la legalidad del emplazamiento a la parte demandada o reconvenida según el caso y si encontrare que no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaría a quien lo hubiere practicado cuando aparezca responsable.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 165.
 
-En toda clase de juicios, cuando se constituya en rebeldía un litigante no se volverá a practicar diligencia alguna en su busca y las resoluciones que de ahí en adelante recaigan y cuantas citaciones deban hacérsele se notificarán y se practicarán respectivamente por listas, a excepción de las que deban notificarse personalmente.
+En toda clase de juicios cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca y las resoluciones que de ahí en adelante recaigan y cuantas citaciones deban hacérsele, se notificarán y se practicarán respectivamente por listas, a excepción de la sentencia definitiva, la que deberá notificarse personalmente.
 
 ###### ARTICULO 166.
 
@@ -1512,6 +1618,10 @@ En caso de ser desechada la recusación, se impondrá al recusante una multa has
 ###### ARTICULO 202.
 
 Constituido el Tribunal en audiencia pública, el día y hora señalados al efecto, serán llamados por el Secretario, los litigantes, peritos, testigos y demás personas que por disposición de la ley deban permanecer en el área donde se desarrolle la audiencia, en lugar separado para ser introducidos en su oportunidad, si no se hallaran presentes, decidirá cuales deben ser inmediatamente citados o traídos para que concurran a la diligencia.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes.
 
 ###### ARTICULO 203.
 
@@ -1839,7 +1949,7 @@ Los tribunales no podrán, bajo ningún pretexto, dilatar ni negar la resolució
 
 Las resoluciones dictadas con el carácter de provisionales pueden modificarse en sentencia interlocutoria o definitiva.
 
-Las resoluciones judiciales firmes dictadas en asuntos de alimentos, ejercicio, suspensión o pérdida de la patria potestad, interdicción, jurisdicción voluntaria y demás que prevengan las leyes, pueden alterarse o modificarse cuando cam-bien(sic) las circunstancias que afecten al ejercicio de la acción que se dedujo en el juicio correspondiente.
+Las resoluciones judiciales firmes dictadas en asuntos de alimentos, ejercicio, suspensión o pérdida de la patria potestad, interdicción, jurisdicción voluntaria y demás que prevengan las leyes, pueden alterarse o modificarse cuando cam-bien (sic) las circunstancias que afecten al ejercicio de la acción que se dedujo en el juicio correspondiente.
 
 ###### ARTICULO 252.
 
@@ -1923,7 +2033,7 @@ Cuando la sentencia ha causado ejecutoria, hay cosa juzgada y contra ella no se 
 
 La cosa juzgada excluye la posibilidad de volver a tratar la cuestión ya resuelta por sentencia firme, y puede invocarse a petición de parte o de oficio en cualquier estado del juicio.
 
-Para que la cosa juzgada surta efectos en otro juicio, es necesario que entre el caso resulto(sic) por la sentencia y aquél en que ésta sea invocada, concurran identidad en las cosas, en las causas, en la persona de los litigantes, y en la calidad con que lo fueren.
+Para que la cosa juzgada surta efectos en otro juicio, es necesario que entre el caso resulto (sic) por la sentencia y aquél en que ésta sea invocada, concurran identidad en las cosas, en las causas, en la persona de los litigantes, y en la calidad con que lo fueren.
 
 Se entiende que hay identidad de persona también cuando los litigantes del segundo juicio sean causahabientes de los que contendieron en el anterior, o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
 
@@ -1933,7 +2043,7 @@ La sentencia firme produce acción y excepción contra los litigantes y contra t
 
 ###### ARTICULO 263.
 
-El tercero extraño puede excepcionarse contra la sentencia firme, pero no contra la que recayó en el juicio del estado civil o sobre validez o nulidad de las disposiciones testamentarias, casos en los cuales la cosa juzgada es eficaz contra tercero aunque no hubiere litiga-do(sic), a menos que alegue colusión de los litigantes para perjudicarlo
+El tercero extraño puede excepcionarse contra la sentencia firme, pero no contra la que recayó en el juicio del estado civil o sobre validez o nulidad de las disposiciones testamentarias, casos en los cuales la cosa juzgada es eficaz contra tercero aunque no hubiere litiga-do (sic), a menos que alegue colusión de los litigantes para perjudicarlo
 
 ### CAPITULO IV. OTRAS FORMAS DE EXTINCION DEL JUICIO
 
@@ -3163,7 +3273,7 @@ VIII.- Señalar día y hora para la junta de rectificación y graduación de cr�
 
 El día de esta junta y el nombre y domicilio del síndico se harán saber al notificarse la formación del concurso; y
 
-IX.- Pedir a los jueces ante quienes se tramiten juicios contra el concursado, los envíen para su acumulación al universal. Se exceptúan los hipotecarios que estén pendientes y los que se promuevan después y los juicios que se hubiesen fallado en primara(sic) instancia; estos se acumularán una vez que se decida definitivamente. Se exceptúan igualmente los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley
+IX.- Pedir a los jueces ante quienes se tramiten juicios contra el concursado, los envíen para su acumulación al universal. Se exceptúan los hipotecarios que estén pendientes y los que se promuevan después y los juicios que se hubiesen fallado en primara (sic) instancia; estos se acumularán una vez que se decida definitivamente. Se exceptúan igualmente los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley
 
 ###### ARTICULO 435.
 
@@ -5166,3 +5276,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 23 DE MARZO DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE NOVIEMBRE DE 2013.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
