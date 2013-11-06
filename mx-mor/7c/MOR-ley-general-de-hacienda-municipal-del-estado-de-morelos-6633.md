@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2012-11-28"
+last_updated: "2013-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -503,105 +503,125 @@ Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de l
 
 #### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+ARTICULO 93 BIS.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 93 BIS.- Están obligados al pago del impuesto predial establecido en este capítulo las personas físicas y morales que sean propietarias del suelo y las construcciones adheridas a él, independientemente de los derechos que sobre las construcciones tenga un tercero. Los poseedores también están obligados al pago del Impuesto Predial por los inmuebles que posean, cuando no se conozca al propietario o el derecho de propiedad sea controvertible.
+ARTICULO 93 BIS-1.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+ARTICULO 93 BIS-2.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 93 BIS-1.- Los propietarios o poseedores a los que se refiere el artículo precedente, tienen la obligación de registrar y manifestar las modificaciones que sufra el inmueble y las construcciones adheridas al mismo.
+ARTICULO 93 BIS-3.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+ARTICULO 93 BIS-4.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 93 BIS-2.- Es objeto del impuesto predial, la propiedad o posesión de predios ubicados dentro del territorio del Municipio, cualquiera que sea su uso o destino.
+ARTICULO 93 BIS-5.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+ARTICULO 93 BIS-6.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 93 BIS-3.- Para la aplicación de la tarifa señalada en el artículo 93 Bis-5 de esta Ley se equiparan los predios urbanos y rústicos a que se refiere la Ley de Catastro.
+ARTICULO 93 BIS-7.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+ARTICULO 93 BIS-8.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 93 BIS-4.- La base del impuesto es el valor catastral de los predios objeto del mismo.
+ARTICULO 93 BIS-9.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-El valor catastral, será determinado por la Dirección General de Catastro del Estado, de conformidad con las disposiciones que establece la Ley de Catastro y su Reglamento.
+ARTICULO 93 BIS-10.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-Cuando el avalúo catastral resulte inferior al avalúo bancario o el precio de enajenación, se considerará como valor catastral el que resulte superior entre éstos tres.
+ARTICULO 93 BIS-11.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+ARTICULO 93 BIS-12.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 93 BIS-5.- El impuesto predial se calculará anualmente, aplicando al valor catastral la siguiente:
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 93 TER.- Están obligados al pago del impuesto predial establecido en este Capítulo las personas físicas y morales que sean propietarias del suelo y Construcciónes adheridas a él, independientemente de los derechos que sobre las Construcciónes tenga un tercero. Los poseedores también están obligados al pago del impuesto predial por los inmuebles que posean, cuando no se conozca propietario o el derecho de propiedad sea controvertible.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 93 TER-1.- Los propietarios o poseedores a los que se refiere el artículo precedente, tienen la obligación de registrar y manifestar las modificaciones que sufra el inmueble y las Construcciónes adheridas al mismo.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 93 TER-2.- Es objeto del impuesto predial, la propiedad o posesión de predios ubicados dentro del territorio del Municipio, cualquiera que sea su uso o destino.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 93 TER-3.- Para la aplicación de la tarifa señalada en el artículo 93 Ter-5 de esta Ley, se equiparan los predios urbanos y rústicos a que se refiere la Ley de Catastro Municipal para el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 93 TER-4.- La base del impuesto es el valor catastral de los predios objeto del mismo.
+
+El valor catastral, será determinado por la dependencia del Catastro Municipal, de conformidad con las disposiciones que establece la Ley de Catastro Municipal para el Estado de Morelos y su Reglamento.
+
+Cuando el Avalúo Catastral resulte inferior al Avalúo Bancario o al precio de enajenación, se considerará como valor catastral el que resulte superior entre estos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+(SIC) 93 TER-5.- El Impuesto Predial se calculará anualmente, aplicando al valor catastral la siguiente:
 
 TARIFA
 
 I.- Predios Urbanos
 
-A).- Hasta 70,000 2/millar
+a).- Hasta 70,000 2/millar
 
-b).- Sobre el excedente
-
-a 70,000 3/millar
+b).- Sobre el excedente a 70,000 3/millar
 
 II.- Predios Rústicos 2/millar
 
-III.- Cuando se trate de predios ejidales y comunales, se estará a lo dispuesto por los artículos del 106 al 108 inclusive, de la Ley Federal de la reforma (sic) Agraria.
+III.- Cuando se trate de predios ejidales y comunales, se estará a lo dispuesto por los artículos del 106 al 108 inclusive, de la Ley Federal de la Reforma Agraria.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 93 BIS-6.- El impuesto predial se causará bimestralmente y deberá pagarse dentro del primer mes de cada bimestre. Durante los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
+ARTICULO 93 TER-6.- El impuesto predial se causará bimestralmente y deberá de pagarse dentro del primer mes de cada bimestre, durante los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+Cuando se pague el impuesto predial anualmente durante el primer bimestre, los contribuyentes tendrán derecho a una reducción equivalente al porcentaje que anualmente se determine en la Ley de Ingresos del Municipio correspondiente.
 
-Los Ayuntamientos podrán recibir de manera anticipada las contribuciones por concepto de pago del impuesto predial del ejercicio fiscal siguiente durante los meses de noviembre y diciembre de cada año, por lo cual los contribuyentes tendrán derecho a una reducción equivalente al porcentaje que anualmente se determine en la Ley de Ingresos del Municipio correspondiente.
+No obstante lo dispuesto por el primer párrafo de este artículo, la cantidad que resulte de la tarifa que se señala en el inciso a), del artículo 93 Ter-5, se hará en una sola exhibición en el mes de enero de cada año.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+Los Ayuntamientos podrán recibir de manera anticipada las contribuciones que por concepto de pago del impuesto predial del Ejercicio Fiscal siguiente durante los meses de noviembre y diciembre de cada año, por lo cual los contribuyentes tendrán derecho a una reducción equivalente al porcentaje que anualmente se determine en la Ley de ingresos del Municipio correspondiente.
 
-Se prohíbe a las administraciones municipales que hayan recibido el cobro anticipado del Impuesto Predial del ejercicio fiscal del año siguiente, ejercerlo o gastarlo en el ejercicio fiscal vigente.
+Se prohíbe a las administraciones Municipales que hayan recibido el cobro anticipado del impuesto predial del ejercicio fiscal del año siguiente, ejercerlo o gastarlo en el ejercicio fiscal vigente.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+La Auditoría Superior de Fiscalización del Estado, vigilará que las Administraciones Municipales cumplan con el contenido del presente artículo.
 
-La Auditoría Superior de Fiscalización del Estado, vigilará que las administraciones municipales, cumplan con el contenido del presente artículo.
+La violación a lo establecido en este artículo será sancionada por las autoridades y ordenamientos correspondientes.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-La violación a lo establecido en este artículo será sancionado por las autoridades y ordenamientos correspondientes.
+ARTICULO 93 TER-7.- El valor catastral se actualizará cada dos años. Las Autoridades Fiscales deberán actualizarlo de conformidad con lo previsto en la Ley de Catastro Municipal para el Estado de Morelos, o bien por el contribuyente, mediante los formatos que autorice la autoridad competente. Si es determinado el valor por el contribuyente, este valor servirá de base de tributación y estará sujeto a comprobación de la Autoridad Catastral. Una vez iniciado el procedimiento por la autoridad catastral o por el contribuyente, sólo procederá su actualización por el procedimiento optado.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+La presentación por el contribuyente de los formatos a que se refiere el párrafo anterior, se hará dentro del mes de enero del año inmediato anterior a la entrada en vigor del nuevo valor catastral; su incumplimiento dará lugar a que la autoridad fiscal establezca la sanción pecuniaria de conformidad con lo dispuesto en el Título VI, Capítulo I, del Código Fiscal para el Estado de Morelos.
 
-ARTICULO 93 BIS-7.- El valor catastral se actualizará cada dos años. Las autoridades fiscales deberán actualizarlo de conformidad con los procedimientos previstos en la Ley de Catastro, o bien por el contribuyente mediante los formatos que autorice la autoridad competente. Si es determinado el valor por el contribuyente, éste valor servirá de base de tributación y estará sujeto a comprobación de la autoridad catastral. Una vez iniciado el procedimiento por la autoridad catastral o por el contribuyente sólo procederá su actualización por el procedimiento optado.
+El contribuyente no podrá declarar un valor inferior al catastralmente registrado salvo los casos previstos en la Ley de Catastro Municipal para el Estado Morelos.
 
-La presentación por el contribuyente de los formatos a que se refiere el párrafo anterior se hará dentro del mes de enero del año inmediato anterior a la entrada en vigor del nuevo valor catastral, su incumplimiento dará lugar a que la autoridad fiscal establezca la sanción pecuniaria de conformidad con lo dispuesto en el título VI capítulo I del Código Fiscal para el Estado de Morelos.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-El contribuyente no podrá declarar un valor inferior al catastralmente registrado, salvo los casos previstos en la Ley de Catastro.
-
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
-
-ARTICULO 93 BIS-8.- Los recibos de pago que se expidan, tratándose del impuesto predial, sólo tendrán efectos en relación con éste mismo impuesto y por el período que amparan, sin que sean prueba de que se hayan pagado bimestres de los cinco años anteriores.
+ARTICULO 93 TER-8.- Los recibos de pago que se expidan, tratándose del impuesto predial, sólo tendrán efectos en relación con este mismo impuesto y el período que amparan, sin que sean prueba de que se hayan pagado bimestres de los cinco años anteriores.
 
 Los recibos de pago por concepto del impuesto predial, no prejuzgan la propiedad del inmueble o su regularización inmobiliaria.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 93 BIS-9.- Para que la autoridad Hacendaria Municipal pueda expedir certificados de no adeudo del impuesto predial, se requiere:
+ARTICULO 93 TER-9.- Para que la autoridad hacendaria Municipal pueda expedir certificados de no adeudo del impuesto predial se requiere:
 
-A) Que el predio esté al corriente en el pago del impuesto.
+a) Que el predio esté al corriente en el pago del impuesto;
 
-B) Que el valor catastral no tenga una antigüedad de más de dos años, y
+b) Que el valor catastral no tenga una antigüedad de más de dos años, y
 
-C) Que no exista inconformidad alguna pendiente de resolver en relación con los avalúos y en general, con las bases del impuesto predial.
+c) Que no exista inconformidad alguna pendiente de resolver en relación con avalúos y, en general, con las bases del impuesto predial.
 
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 93 BIS-10.- En los casos de predios no registrados en la Dirección General de Catastro, o de nuevas construcciones permanentes, construcciones y de ampliaciones de construcciones y de ampliaciones de construcciones permanentes ya existentes, que no hayan sido manifestadas oportunamente por el contribuyente conforme a los (sic) dispuesto por la Ley de Catastro, la autoridad Hacendaria Municipal, determinará el crédito fiscal omitido por 5 años atrás a la fecha del conocimiento de tales hechos, salvo que el interesado pruebe que datan de fecha posterior, en cuyo caso la determinación se hará a partir de esa fecha en adelante.
+ARTICULO 93 TER-10.- En los casos de predios no registrados en la Dependencia del Catastro Municipal, o de nuevas Construcciónes permanentes, Construcciónes y de Ampliaciónes de Construcciónes permanentes ya existentes, que no hayan sido manifestadas oportunamente por el contribuyente conforme a lo dispuesto por la Ley de Catastro Municipal para el Estado de Morelos, la autoridad hacendaria Municipal, determinará el crédito fiscal omitido por 5 años atrás a la fecha del conocimiento de tales hechos, salvo que el interesado pruebe que datan de fecha posterior, en cuyo caso la determinación se hará a partir de esa fecha en adelante.
 
-Sin embargo, cuando el particular solicite el empadronamiento y declare el valor del predio o de las construcciones adheridas a él, sin que medie requerimiento de la autoridad fiscal, ésta determinará el crédito fiscal omitido hasta por cinco años anteriores a la fecha de la solicitud sin que causen multas y recargos. El valor declarado en la solicitud por el contribuyente será considerado como base de tributación y estará sujeto a verificación catastral.
+Sin embargo, cuando el particular solicite el empadronamiento y declare el valor del predio o de las Construcciónes adheridas a él, sin que medie requerimiento de la autoridad fiscal, ésta determinará el crédito fiscal omitido hasta por cinco años anteriores a la fecha de la solicitud sin que causen multas y recargos. El valor declarado en la solicitud por el contribuyente será considerado como base de tributación y estará sujeto a verificación catastral.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 93 BIS-11.- Se prohibe a los notarios y corredores públicos autorizar, en forma definitiva, escrituras en que hagan constar los contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, mientras no se les sea exhibido certificado de no adeudo del impuesto predial, así como el recibo oficial del pago del impuesto predial al bimestre en que se efectúa la escritura respecto de dichos predios.
+ARTICULO 93 TER-11.- Se prohíbe a los notarios autorizar, en forma definitiva, escritura en que hagan constar los contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, mientras no les sea exhibido certificado de no adeudo del impuesto predial, así como el recibo oficial de pago del impuesto predial al bimestre en que se efectúa la escritura respecto de dichos predios.
 
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas públicas, las empresas fraccionadoras y los particulares están obligados a proporcionar a la autoridad hacendaria municipal, dentro de un plazo de quince días hábiles, los datos relativos a los cambios que sufra la propiedad o posesión en virtud de los actos o contratos en que hayan intervenido.
+ARTICULO 93 TER-12.- Los Jueces, Notarios, las Oficinas Públicas, Empresas Fraccionadoras y los particulares, están obligados a proporcionar a la autoridad hacendaria Municipal, dentro de un plazo de quince días hábiles, los datos relativos a los cambios que sufra la propiedad o posesión en virtud de los actos o contratos en que hayan intervenido.
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
@@ -613,25 +633,51 @@ ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas p�
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+ARTICULO 94 BIS.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
+ARTICULO 94 BIS-1.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+ARTICULO 94 BIS-2.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-ARTICULO 94 BIS-1.- Para los efectos de esta sección, se entiende por adquisición la que se derive de:
+ARTICULO 94 BIS-3.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-I.- Todos los actos por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación a toda clase de asociaciones o sociedades, las que realicen al constituir la copropiedad o la sociedad conyugal;
+ARTICULO 94 BIS-4.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-II.- La compraventa en la que el vendedor se reserve la nuda propiedad, aún cuando la trasferencia de ésta opere con posterioridad;
+ARTICULO 94 BIS-5.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
-III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
+ARTICULO 94 BIS-6.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+ARTICULO 94 BIS-7.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+ARTICULO 94 BIS-8.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+ARTICULO 94 BIS-9.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+ARTICULO 94 BIS-10.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+ARTICULO 94 BIS-11.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+ARTICULO 94 BIS-12.- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 94 TER.- Son sujetos obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas y morales que adquieran inmuebles que consistan en el suelo, en las Construcciónes en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 94 TER-1.- Para los efectos de esta Sección, se entiende por adquisición la que se derive de:
+
+I.- Todos los actos por los que se trasmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación a toda clase de asociaciones o sociedades, las que se realicen al constituir la copropiedad o la sociedad conyugal;
+
+II.- La compraventa en la que el comprador se reserve la nuda propiedad, aun cuando la trasferencia de ésta opere con posterioridad;
+
+III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
 
 IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
 
 V.- Fusión de sociedades;
 
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie, de remates, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie, remates, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
 VII.- Transmitir la nuda propiedad;
 
@@ -639,101 +685,89 @@ VIII.- La que se derive de toda resolución judicial o administrativa de adjudic
 
 IX.- La cesión de derechos del heredero, legatario o copropietario, así como la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
 
-X.- Toda afectación en Fideicomiso;
+X.- Toda afectación en Fideicomiso
 
-XI.- Toda adquisición por arrendamiento financiero;
+XI.-Toda adquisición por arrendamiento financiero;
 
-XII.- La división de la copropiedad y la división de la sociedad conyugal por la parte que se adquiere en demasía del por ciento que le correspondía al copropietario o cónyuge; y
+XII.- La extinción de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiere en demasía del por ciento que le correspondía al copropietario o cónyuge; y
 
-XIII.- La celebración del contrato de permuta, en cuyo caso se considerará que se efectúan dos adquisiciones.
+XIII.- La celebración del contrato de permuta, en cuyo caso se considerará que se efectúan dos Adquisiciónes.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-2.- El valor del inmueble que se considerará para los efectos del artículo 94 Bis de esta Ley, será el que resulte más alto de entre el valor de la adquisición, el valor catastral y el valor que resulte del avalúo practicado por persona o institución autorizada.
+ARTICULO 94 TER-2.- El valor del inmueble que se considerará para los efectos del artículo 94 Ter de esta Ley, será el que resulte más alto de entre el valor de la adquisición, el valor catastral y el valor que resulte del avalúo practicado por persona o institución autorizada.
 
-En la determinación del valor del inmueble, se incluirá el valor de las construcciones que en su caso tenga, independientemente de los derechos que sobre éstas tengan terceras personas.
+En la determinación del valor del inmueble, se incluirá el valor de Construcciónes que en su caso tenga, independientemente de los derechos que sobre éstas tengan terceras personas.
 
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Tesorería Municipal de la demarcación correspondiente.
+Cuando no se pacte precio, el impuesto se calculará sobre el valor más alto entre el valor catastral y el valor que resulte del avalúo practicado por persona o institución autorizada.
 
-> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
+Las Tesorerías Municipales, establecerán las reglas de carácter general para práctica de avalúos. Para los efectos de este impuesto, los avalúos que se emitan tendrán vigencia de seis meses, contados a partir de la fecha que se realicen. No producirán efectos fiscales los avalúos que no reúnan los requisitos a que refiere este artículo.
 
-Las Tesorerías Municipales, establecerá (sic) las reglas de carácter general para la práctica de avalúos. Para los efectos de este impuesto, los avalúos que se emitan tendrán vigencia de seis meses, contados a partir de la fecha que se realicen. No producirán efectos fiscales los avalúos que no reúnan los requisitos a que se refiere este artículo.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+ARTICULO 94 TER-3.- Los Municipios, por conducto de las autoridades fiscales, se reservan el derecho de revisar los avalúos que se emitan por la celebración de los actos que grava esta Ley. En consecuencia las autoridades fiscales quedan facultadas para practicar u ordenar se practique avalúo sobre el o los inmuebles materia de los actos debiendo referirlo a la fecha de celebración; este nuevo avalúo deberá ser tomado en cuenta por la autoridad fiscal y prevalecerá sobre los avalúos anteriores y aun sobre el precio pactado en los siguientes casos:
 
-ARTICULO 94 BIS-3.- Los Municipios, por conducto de las autoridades fiscales, se reservan el derecho de revisar los avalúos que se emitan por la celebración de los actos que grava esta Ley. En consecuencia, las autoridades fiscales quedan facultadas para practicar u ordenar se practique avalúo sobre el o los inmuebles materia de los actos debiendo referirlo a la fecha de celebración, este nuevo avalúo deberá ser tomado en cuenta por la autoridad fiscal y prevalecerá sobre los avalúos anteriores y aún sobre el precio pactado en los siguientes casos:
+A).- Cuando el valor resultante de dicho acto de fiscalización exceda en más de un diez por ciento de aquel o aquellos que hayan servido originalmente para determinar la base gravable de este impuesto, la autoridad fiscal con base en el nuevo avalúo procederá a determinar las diferencias del impuesto que resulten.
 
-A).- Cuando el valor que resultante de dicho acto de fiscalización exceda en más de un diez por ciento de aquel o aquellos que hayan servido originalmente para determinar la base gravable de este impuesto, la autoridad fiscal con base en el nuevo avalúo procederá a determinar las diferencias del impuesto que resulten.
+B).- Cuando por el avalúo practicado, ordenado o tomado en consideración por las Autoridades Fiscales, resulten diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas, siempre y cuando el avalúo original no hubiere sido tramitado por dichos fedatarios.
 
-B).- Cuando por el avalúo practicado, ordenado o tomado en consideración por las autoridades fiscales, resulten diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas, siempre y cuando el avalúo original no hubiere sido tramitado por dichos fedatarios.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
-
-ARTICULO 94 BIS-4.- El pago de este impuesto se deberá hacer mediante declaración, en las formas que para el efecto apruebe la Tesorería Municipal de la demarcación correspondiente, las cuales se presentarán dentro de los quince días hábiles siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+ARTICULO 94 TER-4.- El pago de este impuesto se deberá hacer mediante declaración, en las formas que para el efecto apruebe la Tesorería Municipal de la demarcación correspondiente, las cuales se presentarán dentro de los quince días hábiles siguientes a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
 
 I.- Cuando se adquiera la nuda propiedad;
 
-> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
-
-II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o el enajenarse bienes de la sucesión. En estos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente de que se cause por el cesionario o por el adquiriente;
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o el enajenarse bienes de la sucesión. En estos últimos casos el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente de que se cause por el cesionario o por el adquiriente;
 
 III.- Cuando se afecten inmuebles en fideicomiso;
 
 IV.- Cuando se elija la opción terminal en el contrato de arrendamiento financiero;
 
-V.- Tratándose de resoluciones judiciales o administrativas de adjudicación de inmuebles, a partir de la orden de inscripción o de la protocolización de la escritura;
+V.- Tratándose de resoluciones judiciales o administrativas de adjudicación de inmuebles, a partir de la orden de inscripción o de la protocolización de escritura; y
 
 VI.- En los contratos de compraventa, a partir de la celebración.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-5.- En las adquisiciones que se hagan constar en escritura pública, los notarios, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad por cada uno de los actos que consignen, lo que harán constar en la escritura y lo enterarán mediante declaración en la Tesorería Municipal que corresponda a la ubicación del inmueble.
+ARTICULO 94 TER-5.- En las adjudicaciones que se hagan constar en escritura pública, los notarios y quien por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad por cada uno de los actos que consignen, lo que harán constar en la escritura y lo enterarán mediante declaración en la Tesorería Municipal que corresponda a la ubicación del inmueble.
+
+Los contribuyentes que adquieran un inmueble cuyo valor no exceda al equivalente a 365 días de Salario Mínimo General Vigente en el Estado de Morelos, en el momento de la operación, pagarán el impuesto mediante declaración ante la Tesorería Municipal, acreditando lo establecido en el artículo 1805 del Código Civil para el Estado Libre y Soberano de Morelos vigente.
 
 En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la Tesorería Municipal que corresponda a la ubicación del inmueble.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-6.- Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
+ARTICULO 94 TER-6.- Se presentará declaración por todas las Adquisiciónes aun cuando no haya impuesto a enterar.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-7.- Las obligaciones a cargo del contribuyente derivadas de este impuesto y sus accesorios, se extinguen en un plazo de cinco años, contados a partir del día siguiente de aquel en el que el Municipio tenga conocimiento por conducto de las autoridades fiscales.
+ARTICULO 94 TER-7.- Las obligaciones a cargo del contribuyente derivadas de este impuesto y sus accesorios, se extinguen en un plazo de cinco años, contados a partir del día siguiente de aquél en el que el Municipio tenga conocimiento por conducto de las autoridades fiscales.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-8.- Son sujetos de este impuesto:
-
-I.- El adquirente de el o los inmuebles a través de cualquiera de las figuras jurídicas señaladas en el artículo 94 Bis-1 de esta Ley.
-
-> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 1999)</small>
-
-II.- El enanjenante (sic), cedente, donante promitente vendedor, el aportante del inmueble en su caso, el deudor en caso de daciones en pago, el administrador liquidador o interventor, el usufrutuario (sic), el nudo propietario, las sucesiones por conducto de su albacea, el copropietario y el cónyuge que por virtud de tal constitución, división o disolución de la sociedad conyugal decrezca o extinga sus derechos, los permutantes así como la fiduciaria, en el caso de fideicomiso y el fedatario, este último en el caso de que no entere el impuesto.
-
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
-
-ARTICULO 94 BIS-9.- Cuando la adquisición de bienes inmuebles se produzca por resoluciones de autoridades no ubicadas en el Estado de Morelos, el pago del impuesto se hará dentro de los veinte días hábiles siguientes a la fecha en que se haya formalizado la adquisición ante fedatario.
+ARTICULO 94 TER-8.- Cuando la adquisición de bienes inmuebles se produzca por resoluciones de autoridades no ubicadas en el Estado de Morelos, el pago del impuesto se hará dentro de los veinte días hábiles siguientes a la fecha en que haya formalizado la adquisición ante fedatario.
 
 Cuando dicha adquisición opere en virtud de actos y contratos celebrados fuera del territorio de la República Mexicana, o bien a través de resoluciones dictadas por autoridades extranjeras, el impuesto deberá ser cubierto dentro del plazo de noventa días hábiles, contados a partir de la fecha en que surtan sus efectos en la República Mexicana.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-10.- No causarán este impuesto:
+ARTICULO 94 TER-9.- No causarán este impuesto:
 
-I.- Las adquisiciones de inmuebles que haga la Federación, el Distrito Federal, los Estados y los Municipios, para formar parte de los bienes del dominio público;
+I.- Las Adquisiciónes de inmuebles que haga la Federación, el Distrito Federal, los Estados y los Municipios, para formar parte de los bienes del dominio público;
 
-II.- La adjudicación de bienes por disolución de la sociedad conyugal, siempre que no crezca el por ciento que originalmente les correspondía a los cónyuges y que se acredite que estos bienes fueron adquiridos bajo este régimen;
+II.- La adjudicación de bienes por disolución de la sociedad conyugal, siempre que no crezca el por ciento que originalmente le correspondía a los cónyuges y que se acredite que estos bienes fueron adquiridos bajo este régimen;
 
-III.- La disolución o división de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que proindiviso correspondían a cada uno de los copropietarios;
+III.- La extinción de la copropiedad, siempre que los copropietarios extinguidos no excedan de las porciones que proindiviso correspondían a cada uno de los copropietarios; y
 
 IV.- Los actos o contratos traslativos de dominio en los que intervenga una institución u organismo creado por el Estado para promover la vivienda como adquirente por lo que a ellas se refiere.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-11.- Los fedatarios no podrán autorizar definitivamente las escrituras en que consten los actos que grava esta Ley, hasta en tanto no les sea devuelta, por la autoridad competente, la declaración en que se manifestó la operación o se realizó el pago del impuesto a que esta sección se refiere, según sea el caso.
+ARTICULO 94 TER-10.- Los fedatarios no podrán autorizar definitivamente las escrituras en que consten los actos que grava esta Ley, hasta en tanto no les sea devuelta por la autoridad competente la declaración en que se manifestó la operación o se realizó el pago del impuesto a que esta Sección se refiere, según sea el caso.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 94 BIS-12.- El Registro Público de la Propiedad y del Comercio no registrará la operación traslativa de dominio, si no se le exhibe el documento que contenga la declaración de este impuesto, debidamente sellado por la autoridad fiscal respectiva.
+ARTICULO 94 TER-11.- El Instituto de Servicios Registrales y Catastrales del Estado de Morelos, no registrará la operación traslativa de dominio, si no se le exhibe el documento que contenga la declaración de este impuesto, debidamente sellado por la autoridad fiscal respectiva.
 
 > <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPÍTULO PRIMERO BIS) AL SEÑALAR LA UBICACIÓN DEL PRESENTE ARTÍCULO, EN VIRTUD DE QUE ANTES PERTENECÍA AL CAPÍTULO PRIMERO DE ESTE TÍTULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
@@ -3539,13 +3573,21 @@ SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado
 
 TERCERO.- Se derogan las disposiciones de las Leyes de Ingresos Municipales correspondientes, en lo relativo a los costos de materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información pública u otros conceptos análogos y todo aquello que se contraponga a lo establecido en la presente ley.
 
-P.O. 12 DE NOVIEMBRE DE 2012.
+P.O. 28 DE NOVIEMBRE DE 2012.
 
 PRIMERO.- Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan las disposiciones de las Leyes de Ingresos Municipales que se opongan a la presente reforma.
+
+P.O. 6 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente decreto, en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos, comenzando su vigencia al día siguiente de la publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+TERCERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO PRIMERO.
 
