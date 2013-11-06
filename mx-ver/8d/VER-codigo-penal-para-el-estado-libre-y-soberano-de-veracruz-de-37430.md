@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2013-08-22"
+last_updated: "2013-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1599,11 +1599,17 @@ La pederastia se considerará agravada si:
 
 I. Se cometiere por dos o más personas;
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima o fuere concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre del sujeto pasivo; o si éste se encuentra bajo la guarda o custodia de aquél por cualquier otro motivo; o
+II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima o fuere concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre del sujeto pasivo; o si éste se encuentra bajo la dependencia, guarda o custodia de aquél por cualquier otro motivo;
 
-III. El sujeto activo del delito desempeñare un ministerio religioso, cargo o comisión públicos, una profesión o empleo, y hubiese utilizado los medios o circunstancias que ello le proporcionaba para ejercer presión o intimidación sobre la víctima.
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+III. El sujeto activo del delito desempeñare un ministerio religioso, cargo o comisión públicos, una profesión o empleo, y hubiese utilizado los medios o circunstancias que ello le proporcionaba para ejercer presión o intimidación sobre la víctima; o
+
+> <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+IV. El sujeto activo, para cometer este delito, mediante el uso de internet, telefonía o de cualquier otra tecnología de la información y la comunicación hubiese contactado y propuesto a la víctima un encuentro.
 
 En estos supuestos, se impondrán al activo de doce a cuarenta años de prisión y multa de hasta cinco mil días de salario. En el supuesto de la fracción III, tratándose de servidores públicos, se aplicará además la destitución e inhabilitación hasta por diez años para desempeñar empleo, cargo o comisión públicos.
 
@@ -2837,6 +2843,10 @@ A los ascendientes, parientes por consanguinidad, por afinidad o de carácter ci
 
 Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia, en asociación delictuosa o el agente activo se valga de su función pública.
 
+> <small>(ADICIONADO, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+Igual sanción se impondrá a quien, para cometer cualquiera de los delitos previstos en el presente Título, mediante el uso de internet, telefonía o cualquier otra tecnología de la información y la comunicación hubiese contactado y propuesto un encuentro a un menor de edad.
+
 ###### Artículo 296.
 
 Si el sujeto activo se valiere de su función pública, profesión u oficio, además de las penas previstas, se le suspenderá del ejercicio de estos y, en su caso, se le destituirá e inhabilitará para desempeñar empleo, cargo o comisión públicos por un tiempo de tres a diez años.
@@ -3934,3 +3944,11 @@ G.O. 22 DE AGOSTO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE NOVIEMBRE DE 2013.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
