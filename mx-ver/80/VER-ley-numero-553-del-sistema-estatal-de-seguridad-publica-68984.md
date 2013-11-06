@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2013-08-13"
+last_updated: "2013-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -549,11 +549,19 @@ V. Instrumentar el desarrollo y mejoramiento de procedimientos para la obtenció
 
 VI. Implementar altas tecnologías en cómputo, desarrollo de sistemas, administrar redes y proporcionar soporte técnico, tomando las medidas necesarias para la seguridad de la información que se procese en las bases de datos.
 
-### CAPÍTULO I. De las Obligaciones y Sanciones de los Integrantes de las Instituciones de Seguridad Pública
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO V BIS. De la Unidad de Policía Científica Preventiva
+
+> <small>(ADICIONADO, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 27 Ter.
+
+La Unidad de Policía Científica Preventiva es el órgano operativo de la Secretaría de Seguridad Pública encargado de prevenir la comisión de delitos a través o en contra de tecnologías de la información y la comunicación y la red pública de internet, con pleno respeto a la intimidad y privacidad de las personas.
 
 ## TÍTULO TERCERO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO II. Del Uso de la Fuerza Pública
+### CAPÍTULO I. De las Obligaciones y Sanciones de los Integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 28.
 
@@ -757,7 +765,7 @@ La tramitación del procedimiento estará a lo dispuesto por lo previsto en la L
 
 Contra la resolución emitida por el titular de la dependencia respecto al procedimiento administrativo, procederá el recurso de revocación previsto en la Ley de Responsabilidades de los Servidores Públicos o el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, con las formalidades que establece para tales efectos el Código de Procedimientos Administrativos del Estado de Veracruz de Ignacio de la Llave.
 
-### CAPÍTULO III. De las Academias e Institutos
+### CAPÍTULO II. Del Uso de la Fuerza Pública
 
 ###### Artículo 37.
 
@@ -837,7 +845,7 @@ En caso de que el personal haya recurrido al uso ilícito de la fuerza y de arma
 
 El personal no podrá alegar obediencia de órdenes superiores, si tenía conocimiento de que la orden de emplear la fuerza o armas de fuego era manifiestamente ilícita y tuvo una oportunidad razonable de negarse a cumplirla. También serán responsables los superiores que dieron las órdenes ilícitas.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De las Academias e Institutos
 
 ###### Artículo 49.
 
@@ -883,7 +891,7 @@ Lo dispuesto por este Artículo aplicará sin perjuicio de otros requisitos y po
 
 ## TÍTULO CUARTO. DEL SERVICIO DE CARRERA EN LAS INSTITUCIONES DE PROCURACIÓN DE JUSTICIA
 
-### CAPÍTULO II. Del ingreso al Servicio de Carrera en las Instituciones de Procuración de Justicia
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 50.
 
@@ -937,9 +945,7 @@ IX. Contendrá las normas para el registro y el reconocimiento de los certificad
 
 X. Contendrá las normas para el registro de las incidencias del personal.
 
-### CAPÍTULO III. De la Permanencia del Servicio de Carrera en las Instituciones de Procuración de Justicia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO II. Del ingreso al Servicio de Carrera en las Instituciones de Procuración de Justicia
 
 ###### Artículo 53.
 
@@ -995,7 +1001,9 @@ Previamente al ingreso de los aspirantes a los cursos de formación inicial, se 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO IV. De la Terminación del Servicio de Carrera en las Instituciones de Procuración de Justicia
+### CAPÍTULO III. De la Permanencia del Servicio de Carrera en las Instituciones de Procuración de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 55.
 
@@ -1027,7 +1035,7 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 La solicitud de reincorporación al servicio de carrera se analizará y, en su caso, se concederá, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal, local o federal.
 
-### CAPÍTULO V. De la Profesionalización
+### CAPÍTULO IV. De la Terminación del Servicio de Carrera en las Instituciones de Procuración de Justicia
 
 ###### Artículo 58.
 
@@ -1051,13 +1059,13 @@ b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo,
 
 Cuando los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la institución respectiva sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda la reincorporación al servicio, sea cual fuere el resultado del juicio o medio de defensa que se haya promovido. Tal circunstancia será inscrita en el registro correspondiente.
 
-### CAPÍTULO VI. De la Certificación
+### CAPÍTULO V. De la Profesionalización
 
 ###### Artículo 60.
 
 Los servidores públicos de las instituciones de Procuración de Justicia están obligados a participar en las actividades de profesionalización que determine la institución respectiva, de conformidad con lo establecido por el Programa Rector de Profesionalización.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De la Certificación
 
 ###### Artículo 61.
 
@@ -1089,7 +1097,7 @@ La Procuraduría General de Justicia del Estado, cuando cancele algún certifica
 
 ## TÍTULO QUINTO. DEL DESARROLLO POLICIAL
 
-### CAPÍTULO II. De la Carrera Policial y de la Profesionalización
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 64.
 
@@ -1167,7 +1175,7 @@ XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos minister
 
 XIV. Las demás que le confiaren las disposiciones aplicables.
 
-### CAPÍTULO III. Del Régimen Disciplinario
+### CAPÍTULO II. De la Carrera Policial y de la Profesionalización
 
 ###### Artículo 70.
 
@@ -1481,9 +1489,7 @@ f) Cumplimiento de los deberes establecidos en esta Ley.
 
 La profesionalización de los integrantes de las Instituciones Policiales es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo sus competencias, capacidades y habilidades.
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO III. Del Régimen Disciplinario
 
 ###### Artículo 90.
 
@@ -1531,7 +1537,7 @@ En las instituciones de Procuración de Justicia se integrarán instancias equiv
 
 ## TÍTULO SEXTO. DE LOS CENTROS DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
-### CAPÍTULO II. Del Director General
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1621,7 +1627,7 @@ Los Centros se organizarán y funcionarán conforme a lo dispuesto en la normati
 
 > <small>(REFORMADA SU NUMERACIÓN G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO III. Lineamientos y Criterios para la Práctica de las Evaluaciones de Control de Confianza
+### CAPÍTULO II. Del Director General
 
 > <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1673,7 +1679,9 @@ IX. Las demás que le confieran la presente Ley y demás disposiciones legales a
 
 (REFORMADA SU NUMERACIÓN G.O. 28 DE SEPTIEMBRE DE 2012))
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. Lineamientos y Criterios para la Práctica de las Evaluaciones de Control de Confianza
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 109.
 
@@ -1729,9 +1737,7 @@ IX. La depuración de los expedientes se hará transcurrido un año después de 
 
 ## TÍTULO SÉPTIMO. DE LA INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO ÚNICO. De la Participación Ciudadana
-
-> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 110.
 
@@ -1859,7 +1865,9 @@ El incumplimiento de las disposiciones de esta sección, dará lugar a que la po
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE ENERO DE 2013)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. De la Participación Ciudadana
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 ###### Artículo 124.
 
@@ -1939,7 +1947,7 @@ X. Las demás previstas en la presente Ley y en su Reglamento Interior.
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO ÚNICO
 
 ###### Artículo 131.
 
@@ -1947,7 +1955,7 @@ Las responsabilidades administrativas, civiles y penales en que incurran los ser
 
 ## TÍTULO DÉCIMO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO II. De las Facultades de la Secretaría
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 132.
 
@@ -1983,7 +1991,7 @@ Los prestadores de servicios de seguridad privada, así como el personal que uti
 
 Las empresas de seguridad privada están obligadas a que todo su personal sea sometido a los procedimientos de evaluación y control de confianza, en términos de lo establecido por la presente Ley.
 
-### CAPÍTULO III. De la Autorización para la Prestación de Servicios de Seguridad Privada
+### CAPÍTULO II. De las Facultades de la Secretaría
 
 ###### Artículo 138.
 
@@ -2029,7 +2037,7 @@ III. La prevención, control, solución y toma de acciones inmediatas a problema
 
 IV. La verificación del cumplimiento a la normativa estatal y federal.
 
-### CAPÍTULO IV. Del Registro de los Servicios de Seguridad Privada
+### CAPÍTULO III. De la Autorización para la Prestación de Servicios de Seguridad Privada
 
 ###### Artículo 140.
 
@@ -2111,7 +2119,7 @@ La sola presentación de la solicitud a que se refiere el Artículo anterior, no
 
 En ningún caso se autorizará la prestación de estos servicios a personas físicas que hayan sido condenadas por delitos dolosos o a quienes previamente se les haya sancionado con la cancelación de otra autorización.
 
-### CAPÍTULO V. De las Obligaciones de los Prestadores
+### CAPÍTULO IV. Del Registro de los Servicios de Seguridad Privada
 
 ###### Artículo 146.
 
@@ -2147,7 +2155,7 @@ De toda información, registro, folio o certificación que realice el Registro, 
 
 La Secretaría Ejecutiva deberá publicar semestralmente una lista de las empresas que se encuentren debidamente registradas en la Gaceta Oficial del estado y en los medios de difusión de mayor circulación en el Estado. Asimismo, difundirá el listado entre las cámaras y asociaciones de comerciantes, empresarios y profesionistas ubicadas en el Estado.
 
-### CAPÍTULO VI. De la Vigilancia, Control y Supervisión
+### CAPÍTULO V. De las Obligaciones de los Prestadores
 
 ###### Artículo 150.
 
@@ -2237,7 +2245,7 @@ Las empresas de seguridad privada no podrán contratar a personal que preste sus
 
 Las personas físicas o morales que presten servicios de seguridad privada, así como el personal con que cuentan, se regirán por los principios de legalidad, eficiencia, profesionalismo, honradez, objetividad y respeto a los derechos humanos.
 
-### CAPÍTULO VII. De las Sanciones
+### CAPÍTULO VI. De la Vigilancia, Control y Supervisión
 
 ###### Artículo 157.
 
@@ -2301,7 +2309,7 @@ Cuando con motivo de las visitas, se conozcan hechos o actos que constituyan inc
 
 Si de la visita se desprendiere la posible comisión de un delito, la Secretaría, por sí o por conducto de la Secretaría Ejecutiva, denunciará los hechos ante el Ministerio Público.
 
-### CAPITULO VIII. Del Recurso de Revocación
+### CAPÍTULO VII. De las Sanciones
 
 ###### Artículo 166.
 
@@ -2383,7 +2391,7 @@ La orden de la clausura deberá señalar, cuando menos, los datos de la orden de
 
 La clausura se ejecutará por personal autorizado de la Secretaría Ejecutiva.
 
-### CAPÍTULO VII. De las Sanciones
+### CAPITULO VIII. Del Recurso de Revocación
 
 ###### Artículo 172.
 
@@ -2466,3 +2474,11 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 G.O. 13 DE AGOSTO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 6 DE NOVIEMBRE DE 2013.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
