@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-09-13"
+last_updated: "2013-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -1495,15 +1495,9 @@ Para la aplicación de dichas actualizaciones, el acuerdo correspondiente deber�
 
 Tratándose de concesionarios, la participación de éstos en la actualización de las tarifas y cuotas, será la que le corresponda en términos del título de Concesión.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
 ###### Artículo 118 Bis.
 
-Los Prestadores de Servicios que tengan a su cargo, en dos o más Municipios, la prestación parcial o integral de Servicios Públicos, en virtud de convenios de coordinación a que se refieren las fracciones IV y V del artículo 23, tendrán la facultad de determinar y actualizar la Estructura Tarifaria para el cobro de los derechos, productos y contribuciones de mejoras previstas en esta Ley, u otros conceptos de ingresos por la prestación de los Servicios Públicos, sin requerir aprobación del Congreso del Estado.
-
-Los adeudos de los Usuarios derivados de dichos conceptos serán considerados créditos fiscales para los efectos establecidos en esta Ley.
-
-En caso de que la prestación de los Servicios Públicos sea concesionada o encomendada por cualquier otro título jurídico a un particular, ya sea de forma total o parcial, la actualización de la Estructura Tarifaria y de los otros conceptos de ingresos, se regulará de conformidad con lo establecido en el título de concesión o contrato respectivo.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 119.
 
@@ -2090,3 +2084,9 @@ I.- Las atribuciones conferidas al Ayuntamiento por el Libro II, Parte III, Cap�
 II.- Lo dispuesto en el artículo 450 del Código Fiscal y Presupuestario para el Municipio de Puebla, será aplicable únicamente a las bases del procedimiento de adjudicación que se emitan para el otorgamiento de Concesiones convocadas en términos de la presente Ley.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entra en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
