@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2013-03-08"
+last_updated: "2013-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -814,6 +814,10 @@ En el caso del año de conclusión de la administración constitucional del Ejec
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 Tratándose del año de conclusión del periodo constitucional de la Legislatura del Estado, deberá preverse en el mismo Periodo de Sesiones, el examen, revisión, calificación y aprobación de la Cuenta Pública Parcial correspondiente del día 1 de julio al día de conclusión de la Legislatura anterior, que deberá ser presentada por quien fungiera como Titular, dentro de los primeros quince días del mes de noviembre, realizando las declaraciones previstas en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+Al concluir la gestión del Titular de la Auditoría Superior del Estado, de manera excepcional, el Poder Legislativo presentará Cuenta Pública Parcial por el periodo del primero de enero al día de conclusión de la gestión referida, dentro de los quince días siguientes a la misma, para su examen, revisión, calificación y aprobación, en el Periodo Ordinario de Sesiones que transcurra, o en su caso, dentro de los primeros quince días del Periodo inmediato siguiente; y por el periodo restante de ese ejercicio, dicho Poder presentará Cuenta Pública Parcial, que se rendirá en términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -3074,6 +3078,14 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE MARZO DE 2013.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta adición ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
