@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2013-08-26"
+last_updated: "2013-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -573,13 +573,17 @@ XVII. Custodiar a los individuos sujetos a reclusión y resguardar los centros e
 
 XVIII. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en caso de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado; y
+XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
 
-XX. Administrar y resguardar los centros de internamiento especial para adolescentes, de conformidad con lo dispuesto por la ley en materia de responsabilidad juvenil y demás disposiciones aplicables.
+XX. Administrar y resguardar los centros de internamiento especial para adolescentes, de conformidad con lo dispuesto por la ley en materia de responsabilidad juvenil y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+
+XXI. Integrar y tener el mando y operación de la Unidad de Policía Científica Preventiva.
 
 De la Secretaría de Finanzas y Planeación
 
@@ -2664,3 +2668,13 @@ G.O. 26 DE AGOSTO DE 2013.
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. La Secretaría emitirá los lineamientos respecto al Sistema de Evaluación para el Desempeño a que hace referencia el artículo 289 Bis del Código Financiero en un plazo de 90 días después de la publicación del presente Decreto.
+
+G.O. 6 DE NOVIEMBRE DE 2013.
+
+> <small>[N. DE E. TRANSITORIOS DEL: “DECRETO NÚMERO 877 QUE REFORMA LAS FRACCIONES XIX Y XX Y ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, QUE ADICIONA UN CAPÍTULO V BIS Y UN ARTÍCULO 27 TER A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, Y QUE REFORMA LAS FRACCIONES II Y III Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 183 Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 295 DEL CÓDIGO PENAL, ORDENAMIENTOS TODOS PARA EL ESTADO DE VERACRUZ”.]</small>
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
