@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2013-04-08"
+last_updated: "2013-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -356,9 +356,17 @@ V. Calidad y espacios de la vivienda;
 
 VI. Acceso a los servicios básicos en la vivienda;
 
-VII. Acceso a la alimentación, y
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
 
-VIII. Grado de cohesión social.
+VII. Acceso a la alimentación;
+
+> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Grado de cohesión social, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
+
+IX. Grado de Accesibilidad a carretera pavimentada.
 
 ###### Artículo 37.
 
@@ -771,3 +779,7 @@ D.O.F. 1 DE JUNIO DE 2012.
 P.O. 8 DE ABRIL DE 2013
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE NOVIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
