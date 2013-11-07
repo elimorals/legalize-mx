@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2013-06-10"
+last_updated: "2013-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -274,6 +274,10 @@ El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por 
 > <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 El Presidente de la Comisión Nacional lo será también del Consejo Consultivo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, anualmente, durante el mes de octubre, serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. Para el caso de que existan más de dos consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
+
+Quienes en su calidad de integrantes del Consejo Consultivo deseen ser ratificados para un segundo periodo, deberán manifestar su interés por escrito al Senado de la República o, en su caso, a la Comisión Permanente, a efecto de ser considerados en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
 
 > <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
@@ -786,3 +790,7 @@ D.O.F. 10 DE JUNIO DE 2013.
 DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27 DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE NOVIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
