@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-de-la-juventud-del-estado-de-93524"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-04"
-last_updated: "2013-03-06"
+last_updated: "2013-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el lunes 4 de marzo de 2013.
 
@@ -323,29 +323,17 @@ En el Presupuesto de Egresos de cada ejercicio fiscal del Poder Ejecutivo, se co
 
 Los recursos económicos del Estado, los que obtenga el Instituto, así como los adquiridos por otras fuentes, destinados a la juventud, se entregarán directa y oportunamente al Instituto, para la ejecución de sus programas, proyectos y acciones.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPÍTULO VI. DE LA CONTRALORÍA INTERNA
 
 ###### Artículo 18.
 
-El Instituto tendrá un Contralor o Contralora designada por la persona Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-La remuneración económica del Contralor o Contralora, será con cargo a la partida correspondiente a la Secretaría de la Contraloría y Transparencia Gubernamental, prevista en el Presupuesto de Egresos del Estado.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 19.
 
-El Contralor o la Contralora tendrán las siguientes atribuciones:
-
-I. Vigilar que la administración de los recursos que integran el patrimonio del Instituto se realice de acuerdo con las disposiciones de Ley y los programas y directrices aprobados;
-
-II. Practicar auditorías a los estados financieros y de carácter administrativo, al término del ejercicio, o antes si la Junta lo considera conveniente para elaborar la cuenta pública que se presentará en términos de Ley, al Órgano de Fiscalización Superior;
-
-III. Rendir anualmente en sesión de la Junta, dictamen respecto de la información presentada por la Dirección;
-
-IV. Asistir con voz, pero sin voto a las sesiones de la Junta;
-
-V. Supervisar las operaciones del Instituto, y
-
-VI. Las demás que le confieran esta ley u otras disposiciones aplicables.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2013)
 
 ### CAPÍTULO VII. DEL CONSEJO CONSULTIVO
 
@@ -442,3 +430,9 @@ C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 P.O. 6 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
