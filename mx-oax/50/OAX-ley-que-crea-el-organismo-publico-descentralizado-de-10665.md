@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-organismo-publico-descentralizado-de-10665"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-18"
-last_updated: "2004-09-25"
+last_updated: "2013-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL "COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA"
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO COMITÉ ESTATAL DE PLANEACIÓN PARA EL DESARROLLO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO DEL DECRETO NÚMERO 2071, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 18 de Marzo de 1981.
 
@@ -285,8 +287,14 @@ LIC. MARCOS I. MATIAS.
 
 AL C. .....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se faculta a las Secretarias de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones, para dar cumplimiento al presente Decreto.
