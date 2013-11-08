@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2011-09-20"
+last_updated: "2013-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE OAXACA
 
-LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE OAXACA
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -119,9 +119,13 @@ XXIV. Secretaría, a la Secretaría de Seguridad Pública del Estado;
 
 XXV. Secretario, al Titular de la Secretaría de Seguridad Pública del Estado;
 
-XXVI. Secretariado Ejecutivo, a la oficina operativa del Consejo Estatal a cargo del Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
-XXVII. Secretario Ejecutivo, al titular del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+XXVI. Secretariado Ejecutivo, al órgano operativo del Sistema Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+XXVII. Secretario Ejecutivo, al titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 XXVIII. Sistema Estatal, al Sistema Estatal de Seguridad Pública;
 
@@ -333,13 +337,29 @@ Sus integrantes podrán proponer políticas públicas, proyectos, planes, progra
 
 ### CAPÍTULO II. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 22.
 
-El Secretariado Ejecutivo es el área operativa del Sistema Estatal, contará con el Centro Estatal de Evaluación y Control de Confianza, y de una Dirección de Planeación y Coordinación Interinstitucional y demás áreas para su funcionamiento.
+El Secretariado Ejecutivo es un Órgano Desconcentrado de la Secretaría General de Gobierno, y operativo del Sistema Estatal de Seguridad Pública, con autonomía de gestión y responsable del funcionamiento del mismo.
+
+> <small>N. DE E. DEL ANÁLISIS REALIZADO A LA REFORMA PUBLICADA EN EL P.O. EL 8 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE AGREGÓ ESTE PÁRRAFO Y SUS FRACCIONES, TODA VEZ QUE EN EL TEXTO ORIGINAL CONSTABA SÓLO UNO.</small>
+
+El Secretariado Ejecutivo, se auxiliará de las áreas siguientes:
+
+I. Centro Estatal de Evaluación y Control de Confianza;
+
+II. Dirección de Planeación y Coordinación Interinstitucional;
+
+III. Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, y
+
+IV. Demás que establezcan las disposiciones aplicables, para su correcto funcionamiento, de conformidad con la estructura aprobada y presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública será designado y removido libremente de su cargo por el Presidente del Consejo Estatal, a propuesta del Secretario y deberá reunir los siguientes requisitos:
+El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública será designado y removido libremente de su cargo por el Presidente del Consejo Estatal y deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano Mexicano por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
 
@@ -351,27 +371,41 @@ IV. Tener reconocida capacidad y contar con cinco años de experiencia en las á
 
 V. No haber sido condenado por sentencia irrevocable, por delito doloso o inhabilitado como servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 24.
 
-Corresponde al Secretario Ejecutivo del Consejo Estatal de Seguridad Pública:
+El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, tendrá las siguientes atribuciones:
 
 I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal de Seguridad Pública y de su Presidente;
 
-II. Vigilar el debido resguardo de la información contenida en las bases de datos establecidas en la Ley General, en la presente Ley, y en las demás disposiciones jurídicas aplicables, que integren las Instituciones Policiales, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+II. Vigilar el debido resguardo de la información contenida en las bases de datos establecidas en la Ley General, en la presente Ley y en las demás disposiciones jurídicas aplicables, que integren las Instituciones Policiales, en el ámbito de sus respectivas competencias;
 
 III. Coordinar la realización de estudios especializados sobre las materias de seguridad pública y formular recomendaciones a las instancias locales de coordinación;
 
-IV. Compilar los acuerdos que se tomen en los Consejos Nacional y Estatal del Sistema de Seguridad Pública, para su observancia, elaborar el archivo de estos y de los Instrumentos Jurídicos que se deriven, e informar sobre éstos a las Áreas que corresponda;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
-V. Informar periódicamente de sus actividades al Presidente del Consejo Estatal de Seguridad Pública y demás integrantes;
+IV. Compilar los acuerdos que se tomen en los Consejos Nacional y Estatal de Seguridad Pública, para su observancia, así como, elaborar el archivo de estos y de los Instrumentos Jurídicos que se deriven, e informar a las Áreas que correspondan;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+V. Informar periódicamente de sus actividades al Presidente del Consejo Estatal de Seguridad Pública, así como, al Secretario General de Gobierno, en el ámbito de sus respectivas competencias;
 
 VI. Celebrar los convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Nacional y Estatal de Seguridad Pública;
 
-VII. Verificar el cumplimiento, por parte de las autoridades del Estado, de las disposiciones de la Ley General, de esta Ley, de los convenios generales y específicos en la materia, así como de las demás disposiciones aplicables, e informar lo conducente al Consejo Estatal;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
-VIII. Verificar que las Instituciones de Seguridad Pública cumplan con las políticas, lineamientos, protocolos y acciones que para su buen desempeño aprueben los Consejos Estatal y Nacional;
+VII. Verificar el cumplimiento por parte de las autoridades del Estado, de las disposiciones de la Ley General, de esta Ley, de los convenios generales y específicos en la materia, así como, de las demás disposiciones aplicables, e informar lo conducente al Consejo Estatal de Seguridad Pública;
 
-IX. Requerir a las Instituciones de Seguridad Pública la información relativa a la ejecución de los programas en materia de seguridad pública para evaluar el cumplimiento de sus objetivos y metas;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Verificar, que las Instituciones de Seguridad Pública en el ámbito de sus respectivas competencias cumplan con las políticas, lineamientos, protocolos y acciones que para su buen desempeño aprueben los Consejos Estatal y Nacional;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+IX. Requerir a las Instituciones de Seguridad Pública la información relativa a la ejecución de los programas en materia de seguridad pública, para evaluar el cumplimiento de sus objetivos y metas;
 
 X. Verificar que se cumplan los criterios de evaluación de las Instituciones de Seguridad Pública que se acuerden por las instancias competentes del Sistema Nacional;
 
@@ -381,17 +415,29 @@ XII. Elaborar y publicar los informes de actividades del Consejo Estatal;
 
 XIII. Colaborar con las Instituciones de Seguridad Pública, para fortalecer y eficientar los mecanismos de coordinación, en especial para el desarrollo de las carreras Ministerial, Policial y Pericial;
 
-XIV. Analizar la viabilidad de los proyectos de Programas de Seguridad Pública Municipal que le soliciten los Presidentes Municipales previo acuerdo de sus Ayuntamientos, en congruencia con el Programa Estatal de la materia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Analizar la viabilidad de los proyectos de Programas de Seguridad Púbica Municipal que le soliciten los Presidentes Municipales, previo acuerdo de sus Ayuntamientos, en congruencia con el Programa Estatal de la materia;
 
 XV. Coadyuvar con la Auditoría Superior de la Federación y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de aportación y ayuda federal para la seguridad pública;
 
-XVI. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de aportación y ayuda federal para la seguridad pública por parte de las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+XVI. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de aportación y ayuda federal para la seguridad pública por parte de las Instituciones de Seguridad Pública e instituciones policiales;
 
 XVII. Proponer las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal de Seguridad Pública;
 
-XVIII. Gestionar ante las autoridades competentes, la ministración de los fondos de ayuda federal de seguridad pública, de conformidad con los criterios aprobados por el Consejo Nacional, la normatividad aplicable, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
-XIX. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como, las que le encomiende el Consejo Estatal de Seguridad Pública.
+XVIII. Gestionar ante las autoridades competentes, la ministración de los fondos de ayuda federal de seguridad pública, de conformidad con los criterios aprobados por el Consejo Nacional y la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+XIX. Organizar, dirigir y administrar el Centro Estatal de Evaluación y Control de Confianza e implementar, coordinar y aplicar las medidas de evaluación y control de confianza en los procesos de selección a todo el personal de seguridad pública y procuración de justicia estatal y, en su caso, municipal, mediante diversos exámenes y pruebas de actitudes y aptitudes que permitan detectar irregularidades que puedan afectar el desarrollo laboral y personal del individuo, así como, a las propias instituciones de interés público. Así mismo, al personal que se establezca a través de convenios con instituciones públicas y cualquier otra, para la aplicación de exámenes de control de confianza, y
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 8 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE AGREGÓ ESTA FRACCIÓN, TODA VEZ QUE EN EL TEXTO ANTERIOR CONSTABA DE XIX.</small>
+
+XX. Las que en el ámbito de sus respectivas competencias le confieran el Gobernador del Estado o el Secretario General de Gobierno, y le señalen la Ley, y demás disposiciones normativas aplicables.
 
 #### SECCIÓN PRIMERA. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
@@ -514,6 +560,50 @@ XIV. Dar seguimiento a la correcta aplicación de los recursos de los fondos de 
 XV. Consolidar y estandarizar la información estratégica que en materia de seguridad pública proporcionen las unidades administrativas de las Instituciones de Seguridad Pública, para su aprovechamiento en estudios y proyectos orientados a la formulación de políticas públicas de prevención y combate al delito, y
 
 XVI. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Secretario Ejecutivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN TERCERA. DEL CENTRO ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 36 Bis.
+
+El Titular del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana tendrá, como principales atribuciones:
+
+I. Elaborar el Plan Estatal de Prevención del Delito, para su aprobación ante el Consejo Estatal de Seguridad Pública;
+
+II. Someter a consideración del Secretario Ejecutivo, los lineamientos de prevención social del delito, que serán propuestos al Consejo Estatal;
+
+III. Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana, cohesión social y una vida libre de violencia;
+
+IV. Emitir opiniones y recomendaciones a las instituciones de seguridad pública, así como dar seguimiento y evaluar, los programas implementados para:
+
+a) Prevenir la violencia infantil y juvenil;
+
+b) Promover la erradicación de la violencia especialmente la ejercida contra niñas, niños, adolescentes, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar, y
+
+c) Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol.
+
+V. Definir estrategias de coordinación interinstitucional para facilitar la cooperación e intercambio de información entre las instituciones encargadas de los temas de prevención del delito, los municipios, organizaciones de la sociedad civil, centros educativos y de investigación para la operación de los diversos programas;
+
+VI. Realizar, por si o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública en el Estado;
+
+VII. Promover la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y en general, en los diversos programas de las dependencias, así como, colaborar con el Estado y los municipios en esta materia;
+
+VIII. Coadyuvar con las demás instancias del sector en la programación y organización de seminarios, conferencias y ponencias sobre prevención social del delito;
+
+IX. Proponer ante las instituciones de Seguridad Pública y Procuración de Justicia, la implementación de políticas, lineamientos y protocolos en materia de atención integral a víctimas u ofendidos por algún delito;
+
+X. Celebrar convenios para la formación, capacitación, especialización y actualización de los servidores públicos cuyas funciones incidan en la prevención del delito;
+
+XI. Promover campañas en apoyo a las actividades establecidas en el Programa Estatal de Prevención del Delito;
+
+XII. Coordinarse con otras instancias de gobierno, competentes en la materia para el cumplimiento de sus atribuciones;
+
+XIII. Promover la participación ciudadana en los términos que determine el Consejo Estatal, para el fortalecimiento del Sistema de Seguridad Pública de conformidad con esta Ley, y
+
+XIV. Las que en el ámbito de su respectiva competencia le confiera el Secretario Ejecutivo y le señalen las demás disposiciones normativas aplicables.
 
 ## TÍTULO TERCERO. DE LOS CONSEJOS REGIONALES, INSTANCIAS INTERMUNICIPALES Y CONSEJOS MUNICIPALES
 
@@ -699,7 +789,9 @@ XVI. Organizar, dirigir, administrar y supervisar a la Policía Estatal, así co
 
 XVII. Organizar, dirigir y administrar el servicio profesional de carrera de las Instituciones Policiales;
 
-XVIII. Aprobar el Plan Rector de Formación, Capacitación y Profesionalización, así como la actualización, adiestramiento y especialización de los Cuerpos de Seguridad Pública Estatal, conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
+XVIII. Proponer en el Seno del Consejo Estatal de Seguridad Pública, el Plan Rector de Formación, Capacitación y Profesionalización, así como, la actualización, adiestramiento y especialización de los Cuerpos de Seguridad Pública Estatal, conforme a las disposiciones legales aplicables.
 
 XIX. Supervisar la organización, control, verificación y administración de los registros estatales de información sobre seguridad pública;
 
@@ -749,11 +841,7 @@ V. Dirección General de Asuntos Jurídicos;
 
 VI. Dirección General de Asuntos Internos;
 
-VII. Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública.
-
-a) Centro Estatal de Evaluación y Control de Confianza
-
-b) Dirección de Planeación y Coordinación Interinstitucional
+VII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
 
 B. Órganos Administrativos Desconcentrados:
 
@@ -2748,3 +2836,21 @@ Tlalixtac de Cabrera, Centro. Oax, a 16 de Agosto del 2011
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESUS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. Los recursos materiales, financieros y humanos con que cuenta el Secretariado Ejecutivo, como Unidad Administrativa de la Secretaría de Seguridad Pública, que por este Decreto se reforma, se transfieren al Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+CUARTO. El Titular del Poder Ejecutivo, en un plazo de ciento sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, emitirá la reglamentación respectiva.
+
+QUINTO. Las secretarías de Seguridad Pública y General de Gobierno, reformadas por los artículos primero y segundo, de este Decreto, en sus atribuciones y estructura organizacional, deberán contemplar en sus programas operativos anuales, para el ejercicio fiscal 2014, dichas modificaciones, en coordinación con las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias.
+
+SEXTO. En todos los casos que por la aplicación de este Decreto, se modifique la estructura orgánica de las Dependencias o Unidades Administrativas, que cuenten con trabajadores de base, sus derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado de Oaxaca y demás leyes aplicables a la materia.
+
+SÉPTIMO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública de Oaxaca, como Unidad Administrativa de la Secretaría de Seguridad Pública, que por este Decreto se reforma, continuarán surtiendo sus efectos, y se entenderán como subrogados y contraídos por el Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
