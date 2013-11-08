@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "2011-08-04"
+last_updated: "2013-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
+CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO SEGUIRÁ RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO Y QUEDARÁ ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -873,7 +875,7 @@ Si para integrar la averiguación previa fuese necesario mayor tiempo del señal
 
 En caso de que la detención de una persona exceda de los plazos señalados en el artículo 16 de la Constitución Federal se presumirá que estuvo incomunicado y las declaraciones que haya emitido el detenido no tendrán validez.
 
-(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 30 DE AGOSTO DE 2010)
+(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2010) (F. DE E., P.O. 30 DE AGOSTO DE 2010)
 
 ###### Artículo 144.
 
@@ -1617,7 +1619,7 @@ Todo acusado será considerado inocente mientras no se pruebe que cometió el de
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación es contraria a una presunción legal o cuando envuelva la afirmación expresa de un hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 272.
 
@@ -1713,7 +1715,7 @@ Los jueces y tribunales, en sus resoluciones, expondrán los razonamientos que h
 
 ### CAPITULO I. Iniciación del Procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 284.
 
@@ -2083,7 +2085,7 @@ VIII.- Cuando se trate de delitos culposos que sólo produzcan daño en propieda
 
 IX.- Cuando así lo determine expresamente este código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 330.
 
@@ -3065,7 +3067,7 @@ III.- En fianza personal bastante, que podrá constituirse en el expediente;
 
 IV.- En fideicomiso de garantía formalmente otorgada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### Artículo 498.
 
@@ -3153,7 +3155,7 @@ II.- Cuando se dicte al indiciado auto de libertad o de extinción de la acción
 
 Cuando resulte condenado el acusado que se encuentre en libertad bajo caución y se presente a cumplir su condena, las cauciones para garantizar la reparación del daño y las sanciones pecuniarias se harán efectivas, la primera a favor de la víctima u ofendido por el delito y la segunda a favor del Estado. La otorgada para garantizar las obligaciones derivadas del proceso se devolverán al sentenciado o a quien indique éste, o en su caso, se cancelarán.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### Artículo 508.
 
@@ -3165,11 +3167,11 @@ Si no pudiere desde luego presentar al inculpado, el juez o tribunal podrá otor
 
 En los casos de revocación de la libertad caucional, se deberá oír previamente al Ministerio Público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2010)</small>
 
 ## TITULO SEPTIMO. DE LOS PROCEDIMIENTOS RELATIVOS A LOS ENFERMOS MENTALES Y DEL TRATAMIENTO A FARMACODEPENDIENTES
 
-> <small>(REFORMADO EN SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 23 DE JULIO DE 2010)</small>
 
 ### CAPITULO I. Procedimiento Relativo a los Enfermos Mentales
 
@@ -3203,7 +3205,7 @@ Si en los casos a que este Título se refiere sobreviniere la curación del reo,
 
 La vigilancia del incapacitado estará a cargo de la autoridad administrativa, salvo los casos en que conforme al Código Penal, aquél fuere entregado a las personas que corresponda para hacerse cargo de él.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
 
 ### CAPITULO II. Tratamiento a Farmacodependientes
 
@@ -3343,11 +3345,11 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los cuatro días del mes de Diciembre del año de mil novecientos setenta y cinco.- El Gobernador Constitucional del Estado, LIC. RAFAEL RODRIGUEZ BARRERA.- El Secretario General de Gobierno, LIC. FERNANDO TRUEBA BROWN.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE DICIEMBRE DE 1975.
 
-POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
+POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO.
 
 ###### ARTICULO UNICO.
 
@@ -3443,7 +3445,7 @@ PRIMERO: El presente Decreto entrará vigor al día siguiente de su publicación
 
 SEGUNDO: Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberá realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, y adicionan y derogan, diversas disposiciones de la Ley General de Salud del Código Penal Federal y del Código Federal de Procedimientos Penales.
 
-TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del21 de agosto de 2012.
+TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
 
 El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
 
@@ -3460,3 +3462,31 @@ PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: En los distritos judiciales donde exista Central de Actuarios, esta dependencia será la encargada de realizar las notificaciones que ordenen las autoridades jurisdiccionales del mismo distrito.
 
 TERCERO: Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día 31 de marzo de 2015, previa su publicación en el Periódico Oficial del Estado y sus disposiciones se aplicarán gradualmente hasta abarcar los cinco distritos judiciales del Estado, de acuerdo a la distribución que, mediante acuerdos generales, emitan los titulares de los Tres Poderes del Estado.
+
+SEGUNDO.- El Código de Procedimientos Penales vigente desde el día 2 de enero de 1976 y publicado en el Periódico Oficial del Gobierno del Estado el 16 de diciembre de 1975 seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código y quedará abrogado en la medida en que aquellos queden agotados.
+
+TERCERO.- El Poder Legislativo del Estado de Campeche deberá emitir oportunamente la declaratoria a la que se refiere el párrafo tercero del Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación de fecha 18 de junio del 2008.
+
+CUARTO.- No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+
+QUINTO.- Siempre que sea oportuno dentro del trámite procesal, deberá privilegiarse la aplicación en el curso del procedimiento regido por el Código anterior, las disposiciones del presente ordenamiento que se refieran a:
+
+a) Formas anticipadas de terminación de la investigación, previstas en el Capítulo II del Título Sexto;
+
+b) Formas anticipadas de terminación del procedimiento, previstas en el Capítulo III del Título Sexto;
+
+c) Mecanismos de justicia alternativa y restaurativa, previstos en el Capítulo IV del Título Sexto y en la Ley en la materia.
+
+Asimismo, deberán aplicarse las disposiciones relativas a los medios de impugnación correspondientes contenidos en el Título Undécimo.
+
+Las facultades que este Código le concede al juez de control, serán ejercidas para efectos de este artículo, por el juez de primera instancia penal, o juez menor, según corresponda.
+
+SEXTO.- El Presupuesto de Egresos del Estado para el ejercicio fiscal de 2015 deberá establecer las previsiones y partidas presupuestales respectivas, para implementar el Sistema de Justicia señalado en el presente Código en lo concerniente a infraestructura y capacitación. Igualmente el presupuesto de egresos de los años subsiguientes deberán establecer las partidas presupuestales necesarias según los requerimientos de este ordenamiento.
+
+SÉPTIMO.- Todo lo dispuesto en el presente decreto relativo al uso de medios electrónicos, entrará en vigor el mismo día que entre en vigor la Ley en la materia.
+
+OCTAVO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al contenido del presente decreto.
