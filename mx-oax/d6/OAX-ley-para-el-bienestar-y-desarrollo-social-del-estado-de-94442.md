@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2013-05-18"
+last_updated: "2013-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -613,9 +613,11 @@ Cuando en un municipio exista población indígena, las autoridades municipales,
 
 La evaluación sobre las acciones de la Política Social, estará encaminada a conocer la operación y resultados de los programas y proyectos de Desarrollo Social y Humano desagregado por sexo y grupo de edad, con la finalidad de identificar problemas en la implementación de programas, y en su caso, reorientar y reforzar la Política Estatal de Desarrollo Social, tomando en cuenta los indicadores de desempeño que apruebe el Comité Estatal.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 41.
 
-La evaluación de la política de Desarrollo Social estará a cargo de la Secretaría y el Congreso del Estado de Oaxaca, que podrán realizarla por sí mismos o a través de organismos independientes, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, metas y acciones de la Política de Desarrollo Social, para presentar al Gobernador del Estado, propuestas para corregirlos, modificarlos, adicionarlos, reorientarlos o suspenderlos total o parcialmente.
+La evaluación de la política de Desarrollo Social estará a cargo de la Instancia Técnica de Evaluación que señale la normativa aplicable, el Honorable Congreso del Estado y la Auditoría Superior del Estado y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, metas y acciones de la Política de Desarrollo Social.
 
 ###### Artículo 42.
 
@@ -681,9 +683,11 @@ b) La segunda cubrirá el ejercicio completo y sus resultados serán complementa
 
 Los resultados de las evaluaciones serán dados a conocer al Congreso del Estado de Oaxaca, al Consejo y publicados en la página electrónica y en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 48.
 
-La Secretaría deberá dar seguimiento a los resultados de las evaluaciones, para lo cual, se debe establecer los siguientes elementos, ya sea en un plan de trabajo, un anexo de la evaluación u otro documento:
+La Instancia Técnica será la responsable de presentar al Gobernador del Estado, propuestas para corregir, modificar, adicionar, reorientar o suspender total o parcialmente los programas, metas y acciones de la Política de Desarrollo Social; asimismo la Instancia dará seguimiento a los resultados de las evaluaciones, para lo cual, se deberán establecer los siguientes elementos, ya sea en un plan de trabajo, un anexo de la evaluación u otro documento pertinente:
 
 I. Aspectos de la política y/o del programa evaluado derivados de los resultados y recomendaciones de la evaluación que la instancia se compromete a mejorar;
 
@@ -1468,3 +1472,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 02 de mayo del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2013.
+
+PRIMERO. EI presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
