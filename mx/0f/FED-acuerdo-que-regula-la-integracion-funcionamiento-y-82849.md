@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-que-regula-la-integracion-funcionamiento-y-82849"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-15"
-last_updated: "2011-09-15"
+last_updated: "2013-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-08-30"
 
 ACUERDO QUE REGULA LA INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO QUE REGULA LA INTEGRACIÓN, FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 8 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de septiembre de 2011.
 
@@ -358,3 +360,11 @@ Primero.- El presente Acuerdo que regula la integración, funcionamiento y atrib
 Segundo.- Se abroga el "Acuerdo por el que se establece la integración y funcionamiento del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación" de fecha 28 de diciembre de 2006.
 
 México, Distrito Federal, a 30 de agosto de 2011.- El Auditor Superior de la Federación, Juan Manuel Portal Martínez.- Rúbrica.- El Presidente del Comité de Transparencia y Acceso a la Información, José Miguel Macías Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Salim Arturo Orcí Magaña.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: el Auditor Especial de Cumplimiento Financiero, Juan Javier Pérez Saavedra.- Rúbrica.- El Auditor Especial de Desempeño, Roberto Salcedo Aquino.- Rúbrica.- El Auditor Especial del Gasto Federalizado, Juventino Alberto Pineda Pinto.- Rúbrica.- El Titular de la Unidad de Asuntos Jurídicos, Víctor Manuel Andrade Martínez.- Rúbrica.- El Coordinador de Relaciones Institucionales, Benjamín Fuentes Castro.- Rúbrica.- El Coordinador de Planeación y Asuntos Estratégicos, Raúl Robles Segura.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE NOVIEMBRE DE 2013.
+
+Primero.- El presente Acuerdo que regula la integración, funcionamiento y atribuciones del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación, entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Acuerdo que regula la integración, funcionamiento y atribuciones del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación, publicado el 15 de septiembre de 2011.
