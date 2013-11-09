@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2012-03-22"
+last_updated: "2013-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 9 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -130,7 +132,7 @@ XXII.- Periférico: Vialidad primaria con faja separadora central, física o pin
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
-XXIII.- Policía de vialidad y tránsito: El servidor público perteneciente al área operativa de a Secretaria o el Ayuntamiento correspondiente;
+XXIII.- Policía de vialidad y tránsito: El servidor público perteneciente al área operativa de La Secretaria o el Ayuntamiento correspondiente;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2009)</small>
 
@@ -1943,3 +1945,23 @@ P.O. 30 DE ABRIL DE 2011.
 P.O. 22 DE MARZO DE 2012.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE NOVIEMBRE DE 2013.
+
+Primero. EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Jalisco".
+
+Segundo. Se abroga el Reglamento de la Ley de los Servicios de Vialidad, Tránsito y transporte del Estado de Jalisco.
+
+Tercero. Los actuales titulares de una licencia de conducir en cualquier modalidad, podrán cambiarla de acuerdo a las nuevas modalidades contempladas en el presente Reglamento, ya sea hasta su vencimiento o de forma anticipada al mismo, una vez que se tengan los formatos disponibles. Para poder conducir y prestar el servicio de transporte público en cualquiera de sus modalidades, así como para efectos de que se considere este documento para trámites como el de la expedición del gafete de identificación, tendrán validez las licencias que se encuentren vigentes al momento de la realización de dicho trámite.
+
+Cuarto. Para el caso de los conductores de taxi o radio taxi deberán renovar su licencia una vez que haya expirado su vigencia, para cambiar a la modalidad de conductor de servicio de transporte público en su modalidad de taxi, pero podrán hacerlo antes en caso de así requerirlo, apegándose a lo establecido en la Ley.
+
+Quinto. Los gafetes para conductores de transporte público en cualquiera de las modalidades contempladas en la Ley, iniciarán su expedición a los ciento veinte días naturales de la entrada en vigor del presente Reglamento. Para el caso de los conductores de servicio de taxi o radio taxi por ésta única vez y hasta en tanto no realice la renovación de su licencia de conducir por la de conductor de servicio de transporte público de taxi, procederán a solicitar la expedición de su gafete con la licencia que actualmente cuentan.
+
+Sexto. Para el caso de los usuarios de motocicletas de menos de doscientos cincuenta centímetros cúbicos o su equivalente en kilovatios, la obligación de la portación de la prenda señalada en el artículo 61 fracción XI del presente Reglamento será obligada a los ciento veinte días naturales contados a partir de la entrada en vigor del presente Reglamento.
+
+Séptimo. Los factores de riesgo enunciados en este Reglamento se han clasificado de forma enunciativa, más no limitativa. Si por evidencia científica o política pública nacional o estatal deba incluirse en el futuro la prevención de alguna conducta sobre las vialidades que no esté contemplada en el presente Reglamento, la Secretaría de Movilidad establecerá los mecanismos para la valoración de un nuevo factor de riesgo y propondrá al Titular del Ejecutivo su inserción en la Ley de la materia.
+
+Octavo. Para efectos del presente Reglamento se tendrán por validas, de forma única y limitativa, las certificaciones UN/ECE 44 de la Comisión Económica de las Naciones Unidas para la Regulación Europea Número 44 y la FMVSS213 de los Estados Unidos de América o la Norma Oficial Mexicana o en su defecto la Norma Mexicana operantes para sistemas de retención infantil o las versiones más actuales de las normas internacionales citadas en ese numeral;
+
+Noveno. Para efectos del presente Reglamento se tendrán por válidas, de forma única y limitativa, el uso de cascos y visores con la certificación UN/ECE 22 de la Comisión Económica de las Naciones Unidas para la Regulación Europea Número 22, la FMVSS 218 de los Estados Unidos de América o la Norma Oficial Mexicana operante para cascos de seguridad de vehículos automotores o versiones actualizadas de las normas internacionales.
