@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-el-sistema-integral-de-justicia-para-51739"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2013-02-16"
+last_updated: "2013-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 9 de septiembre de 2006.
 
@@ -371,11 +371,11 @@ En los casos de consignación con detenido o cuando se haya otorgado al menor la
 
 Si se ratifica la detención, el Juez analizará la procedencia del beneficio y el monto o naturaleza de la caución otorgada, pudiendo modificar las condiciones o revocar el beneficio cuando se trate de delito grave que no admita libertad provisional, debiendo el Ministerio Público entregar al Juez, con la consignación, el monto de la caución en efectivo, el acta de hipoteca o la póliza de la fianza exhibida por el infractor.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-Por su clara antijuricidad, la tendencia criminal de su autor y la intensidad del daño que causan, se consideran como delitos graves, que no alcanzan libertad caucional y que legitiman la detención provisional o las medidas de internamiento de menores infractores: el homicidio simple o calificado; las lesiones dolosas que produzcan la pérdida de cualquier órgano o función, una enfermedad incurable o una incapacidad total y permanente o Incapacidad parcial y permanente para trabajar, así como las lesiones que ponen en peligro la vida, la privación ilegal de libertad y el secuestro; la violación en todas sus formas y modalidades; el robo con violencia en las personas, en las cosas o en el lugar habitado; el robo de vehículo de motor; así como el robo aprovechando catástrofes o desórdenes públicos y el realizado por dos o más personas empleando premeditación o asechanza; el abigeato cometido con violencia o en grupos de dos o más personas, y la asociación delictuosa en su forma de delincuencia organizada; igualmente se consideran graves los delitos de tentativa de homicidio simple o calificado; la de secuestro, así como la tentativa de robo en lugar habitado y de vehículo de motor y la tentativa de violación en todas sus formas y modalidades.
+Por su clara antijurídica (sic), la tendencia criminal de su autor y la intensidad del daño que causan, se consideran como delitos graves, que no alcanzan libertad caucional y que legitiman la detención provisional o las medidas de internamiento de menores infractores: uso indebido de información sobre actividades de las Instituciones de Seguridad Pública, de Procuración e impartición de justicia, así como las del sistema penitenciario; terrorismo; el homicidio simple o calificado; feminicidio; las lesiones dolosas que produzcan la pérdida de cualquier órgano o función, una enfermedad incurable o una incapacidad total y permanente o Incapacidad parcial y permanente para trabajar, así como las lesiones que ponen en peligro la vida; ; (sic) la privación de la libertad y el secuestro; la violación en todas sus formas y modalidades; el robo con violencia en las personas, en las cosas o en lugar habitado; trata de personas; el robo de vehículo de motor o cuando se detente, posea, utilice, transite, custodie, adquiera, desmantele o suministre, uno o más vehículos robados; así como el robo aprovechando catástrofes o desórdenes públicos y el realizado por dos o más personas empleando premeditación o asechanza; el robo de ganado cometido con violencia o en grupos de dos o más personas, y la asociación delictuosa en su forma de delincuencia organizada; igualmente se consideran graves los delitos de tentativa de homicidio simple o calificado; la de secuestro, así como la tentativa de robo en lugar habitado y de vehículo de motor y la tentativa de violación en todas sus formas y modalidades.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -669,7 +669,7 @@ X. En casos análogos, a juicio de la Sala competente, cuando afecten el princip
 
 La reposición del procedimiento obliga al Juez de la primera instancia a repetir la diligencia nula, a realizar la prueba o el acto omitido, dejando sin efecto todo lo actuado con posterioridad, excepto las pruebas que no sean consecuencia del acto u omisión impugnados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1150,3 +1150,7 @@ QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realiza
 P.O. 16 DE FEBRERO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
