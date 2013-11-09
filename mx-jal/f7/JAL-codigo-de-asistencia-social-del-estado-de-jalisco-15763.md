@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2010-08-03"
+last_updated: "2013-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
+CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -135,15 +135,23 @@ XII. La prestación de servicios de salud a personas sin capacidad económica pa
 
 XIII. El apoyo con educación y capacitación laboral a los sujetos de asistencia social;
 
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
 XIV. La prevención del desamparo, abandono o maltrato; y la protección a los sujetos que la padecen;
 
-XV. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+XV. Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que transitan por el territorio de la entidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+XVI. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 5.
 
-son (sic) sujetos de asistencia social, de manera prioritaria, los siguientes:
+son sujetos de asistencia social, de manera prioritaria, los siguientes:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
@@ -169,13 +177,17 @@ IX. Las víctimas de la comisión de delitos en estado de abandono;
 
 X. Las personas afectadas por un desastre y que queden en estado de necesidad o desamparo;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia; y
+XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-XII. Los jefes de familias monoparentales con hijos menores de edad, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato.
+XII. Migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Los jefes de familias monoparentales con hijos menores de edad, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato.
 
 ###### Artículo 6.
 
@@ -195,7 +207,7 @@ El Sistema Estatal tiene por objeto llevar a cabo coordinadamente, los servicios
 
 El Sistema Estatal se integra por las dependencias, organismos públicos descentralizados y entidades de la administración pública, tanto estatal como municipal y por las personas físicas y jurídicas privadas, que presten servicios de asistencia social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 10.
 
@@ -253,7 +265,7 @@ VI. Evaluar el Sistema de Información y el Registro Estatal de Asistencia Socia
 
 VII. Promover los trabajos de investigación sobre Asistencia Social, a fin de mejorar la prestación de los servicios asistenciales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 13.
 
@@ -275,7 +287,7 @@ Las instituciones de asistencia social públicas y privadas están obligadas a s
 
 El Ejecutivo del Estado, a través de la Secretaría, con la participación del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá ante los ayuntamientos de la entidad, el establecimiento de mecanismos que permitan un intercambio sistemático de información, a fin de conocer las demandas de servicios de asistencia social, para los grupos sociales más vulnerables y coordinar su oportuna atención.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 16.
 
@@ -361,13 +373,17 @@ El organismo Estatal deberá contar con el número de profesionistas suficientes
 
 XV. Promover la participación de las familias jaliscienses en el desarrollo de programas públicos relacionados con la vida familiar;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-XVI. Realizar estudios e investigaciones sobre la familia; así como promover acciones a favor de su atención, defensa y protección; y
+XVI. Realizar estudios e investigaciones sobre la familia; así como promover acciones a favor de su atención, defensa y protección;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-XVII. Las demás que establezcan las leyes aplicables en la materia.
+XVII. Realizar acciones de apoyo para los migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad, en coordinación con autoridades de los tres órdenes de gobierno; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+XVIII. Las demás que establezcan las leyes aplicables en la materia.
 
 ###### Artículo 19.
 
@@ -567,7 +583,7 @@ VII. Las demás que sean necesarias para el ejercicio de sus funciones.
 
 #### Sección Cuarta. Del Consejo Estatal de Familia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 33.
 
@@ -701,7 +717,7 @@ XIII. Las demás que sean conferidas por el reglamento interior y otras disposic
 
 Los Organismos municipales crearán y operarán los Consejos Municipales, y en su caso los intermunicipales de Familia, de acuerdo a la necesidad de la población y las posibilidades de los propios municipios; los cuales tendrán las facultades que les otorgue el presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 40.
 
@@ -743,7 +759,7 @@ IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designa
 
 El Consejo intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 42.
 
@@ -813,7 +829,7 @@ El Cargo de delegado personal es compatible con el libre ejercicio profesional.
 
 Los interesados deberán cubrir los derechos al Consejo Estatal, Municipal o Intermunicipal de Familia, por las cantidades que se fijen en las leyes, así como los honorarios que señalen los aranceles profesionales, para los actos en que intervengan los delegados en representacion del Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 50.
 
@@ -907,7 +923,7 @@ II. Los subsidios, subvenciones, aportaciones bienes y demás ingresos que las d
 
 III. Las aportaciones, donaciones, herencias, legados, adjudicaciones judiciales, que se decreten en favor del Instituto, de la Beneficencia Pública, o que se hicieren en favor de personas indeterminadas, cuando se señale como beneficiarios a los pobres, a los ancianos, a los ciegos y a otras expresiones similares y demás liberalidades, que reciba de personas físicas o jurídicas, nacionales o extranjeras;
 
-IV. Los rendimientos, recuperaciones, bienes, derechos, y demás ingresos que les generen sus inversiones, operaciones y bienes muebles e inmuebles que eran propiedad plena o desmembrada del Patronato de Asistencia Social en el Estado, entre los bienes mencionados, se consideran los productos de operación de los estacionamientos: subterráneo de la Plaza del Ayuntamiento de Guadalajara y el ubicado en la confluencia de las calles Dr. R. Michel y Los Ángeles, (exterior de la antigua central camionera), así como las fincas rústicas y urbanas que fueron adjudicadas al Patronato de la Asistencia Social;
+IV. Los rendimientos, recuperaciones, bienes, derechos, y demás ingresos que les generen sus inversiones, operaciones y bienes muebles e inmuebles que eran propiedad plena o desmembrada del Patronato de Asistencia Social en el Estado, entre los bienes mencionados, se consideran los productos de operación de los estacionamientos: subterráneo de la Plaza del Ayuntamiento de Guadalajara y el ubicado en la confluencia de las calles Dr. R. Michel y Los Angeles, (exterior de la antigua central camionera), así como las fincas rústicas y urbanas que fueron adjudicadas al Patronato de la Asistencia Social;
 
 V. Las concesiones, permisos, licencias, y autorizaciones que se les otorguen conforme a la ley;
 
@@ -997,7 +1013,7 @@ Servicios Médicos y Hospitalarios
 
 Clubes Sociales y de Servicio; y
 
-VIII. demás representación es (sic) que el instituto considere necesario integrar a través de la Junta de Gobierno.
+VIII. Demás representación es (sic) que el instituto considere necesario integrar a través de la Junta de Gobierno.
 
 Las representaciones antes descritas y los integrantes de la Comisión de Vigilancia, serán elegidos por la propia Junta de Gobierno.
 
@@ -1151,7 +1167,7 @@ V. Haber residido en el Estado por lo menos los tres años anteriores al día de
 
 Son facultades y atribuciones de la Secretaría y Procuraduría Jurídica del Instituto las siguientes:
 
-I. Vigilar el cumplimiento estricto de las normas legales y reglamentarias de los Órganos de Gobierno de las distintas instituciones que formen parte del Instituto;
+I. Vigilar el cumplimiento estricto de las normas legales y reglamentarias de los Organos de Gobierno de las distintas instituciones que formen parte del Instituto;
 
 II. Denunciar ante las autoridades competentes todo acto que pudiera implicar la violación del presente Código en perjuicio del Instituto o sus dependencias; así como demandar en los casos en que proceda, la responsabilidad civil por los daños o perjuicios que hubiere sufrido el Instituto;
 
@@ -1223,7 +1239,7 @@ II. Opinar y dictaminar sobre cuentas de administración de los órganos unipers
 
 III. Sugerir a la Junta de Gobierno las medidas que juzgue convenientes para mejorar el funcionamiento del Instituto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ## TITULO TERCERO. EL HOGAR CABAÑAS
 
@@ -1235,7 +1251,7 @@ III. Sugerir a la Junta de Gobierno las medidas que juzgue convenientes para mej
 
 El Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas, es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de los niños que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 73.
 
@@ -1265,11 +1281,11 @@ VI. Conservar y acrecentar el patrimonio del Hogar Cabañas, y
 
 VII. Aceptar o repudiar las herencias, legados y donaciones, rechazándolos cuando impliquen mayores cargas que beneficios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO II. Del Patrimonio del Hogar Cabañas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 74.
 
@@ -1305,11 +1321,11 @@ El Hogar Cabañas quedará exento del pago de toda clase de contribuciones estat
 
 La vigilancia financiera y administrativa, así como la práctica de auditorías en el Hogar Cabañas estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que le corresponda a la Auditoría Superior del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO III. De los Organos de Gobierno del Hogar Cabañas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 77.
 
@@ -1329,7 +1345,7 @@ V. Las unidades técnicas y de administración que determinen las autoridades de
 
 #### Sección Primera. De la Junta de Gobierno
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 78.
 
@@ -1437,11 +1453,11 @@ XIV. Las demás que señale este código y los reglamentos aplicables.
 
 La Junta de Gobierno será el órgano vigilante y responsable de que la Institución se conduzca conforme a las normas jurídicas que regulan su funcionamiento, debiendo, en los casos que así proceda, girar las instrucciones correspondientes al Director General del Hogar Cabañas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 #### Sección Segunda. Del Presidente de la Junta de Gobierno del Hogar Cabañas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 82.
 
@@ -1457,7 +1473,7 @@ IV. Tener cuando menos treinta años de edad al día de su nombramiento; y
 
 V. Haber residido en el Estado por lo menos los tres años anteriores al día de su nombramiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 83.
 
@@ -1493,7 +1509,7 @@ VIII. Rendir anualmente el informe general de actividades del Hogar Cabañas; y
 
 IX. Las demás que señalen este código y los reglamentos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 #### Sección Tercera. Del Director General del Hogar Cabañas
 
@@ -1513,7 +1529,7 @@ IV. Tener cuando menos treinta años de edad el día de su nombramiento; y
 
 V. Ser de reconocida honorabilidad y tener vocación de servicio social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 85.
 
@@ -1577,7 +1593,7 @@ XVIII. Aplicar los fondos que provengan de donativos a los servicios del Hogar C
 
 XIX. Las demás que señalen este código y los reglamentos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 #### Sección Cuarta. Del Secretario Ejecutivo
 
@@ -1587,7 +1603,7 @@ XIX. Las demás que señalen este código y los reglamentos aplicables.
 
 El Secretario Ejecutivo del Hogar Cabañas, será designado por la Junta de Gobierno a propuesta de la Dirección General del Hogar Cabañas y fungirá también como Secretario de éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 87.
 
@@ -1651,7 +1667,7 @@ Las personas jurídicas que se dediquen a la asistencia social privada, antes de
 
 ###### Artículo 93.
 
-El Instituto realizará el registro, análisis y propuesta de la constitución de aquellas instituciones de asistencia social privada que pretenda (sic) integrarse al Sistema de Asistencia Social.
+El instituto realizará el registro, análisis y propuesta de la constitución de aquellas instituciones de asistencia social privada que pretenda (sic) integrarse al Sistema de Asistencia Social.
 
 ###### Artículo 94.
 
@@ -1931,327 +1947,343 @@ En los casos a que se refieren las fracciones I y II del artículo anterior, la 
 
 El aviso deberá notificarse al interesado con el término suficiente para que se haga asistir de abogado particular y, la Procuraduría Social, deberá cuidar que con ello no se ponga en riesgo el éxito del negocio judicial que hubiere patrocinado.
 
-> <small>(DEROGADO CON SUS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON SUS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 # LIBRO QUINTO. DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>(DEROGADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON SUS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 141.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 142.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. De los Derechos de las Personas con Discapacidad
 
 ###### Artículo 143.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Artículo 143 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+###### Artículo 143 Bis.
 
-Artículo 143 ter.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Artículo 143 quáter.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+###### Artículo 143 Ter.
 
-> <small>(DEROGADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+
+###### Artículo 143 Quáter.
+
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(DEROGADO CON SUS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE ATENCION A PERSONAS CON DISCAPACIDAD
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. De la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad
 
 ###### Artículo 144.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 145.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 146.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Artículo 146 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+###### Artículo 146 Bis.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. Del Organismo Estatal
 
 ###### Artículo 147.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO III. Del Consejo de Valoración de las Personas con Discapacidad
 
 ###### Artículo 148.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 149.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 150.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON SUS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON SUS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO TERCERO. DE LA PRESTACION DE SERVICIOS A PERSONAS CON DISCAPACIDAD
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 151.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 152.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 153.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 154.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 155.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. Del Padrón Estatal de Personas con Discapacidad
 
 ###### Artículo 156.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO III. De la Formación y Capacitación de Personal
 
 ###### Artículo 157.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 158.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 159.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO IV. De la Habilitación y Rehabilitación
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Primera. Disposiciones Generales
 
 ###### Artículo 160.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 161.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 162.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Segunda. De la Habilitación y Rehabilitación Médico Funcional
 
 ###### Artículo 163.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Tercera. De la Orientación y Tratamiento Psicológico
 
 ###### Artículo 164.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Cuarta. De la Educación
 
 ###### Artículo 165.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 166.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Quinta. Del Empleo
 
 ###### Artículo 167.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 168.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 169.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 170.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 171.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V. De la Recreación, Deporte, Cultura y Turismo
 
 ###### Artículo 172.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 173.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VI. De las Medidas y Facilidades Urbanísticas y Arquitectónicas
 
 ###### Artículo 174.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 175.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 176.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Artículo 176 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+###### Artículo 176 Bis.
 
-Artículo 176 ter.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+###### Artículo 176 Ter.
+
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VII. De las Preferencias para el Libre Desplazamiento y el Transporte
 
 ###### Artículo 177.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 178.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 179.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Artículo 179 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+###### Artículo 179 Bis.
 
-Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+###### Artículo 179 Ter.
+
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VIII. De los Estímulos
 
 ###### Artículo 180.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON SUS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO CUARTO. DE LAS SANCIONES Y DEL RECURSO DE REVOCACION
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. De las Sanciones
 
 ###### Artículo 181.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 182.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 183.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. Del Recurso de Revocación
 
 ###### Artículo 184.
 
-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 185.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 186.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 187.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 188.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 189.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
+(DEROGADO, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO SEXTO. DE LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Objeto
 
@@ -2267,7 +2299,7 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Conceptos
 
@@ -2283,11 +2315,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Consejo
 
@@ -2303,7 +2335,7 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De las Atribuciones del Consejo
 
@@ -2315,7 +2347,7 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO III. Del Presidente
 
@@ -2323,7 +2355,7 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO IV. De la Secretaría Técnica
 
@@ -2339,11 +2371,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De los Municipios
 
@@ -2351,11 +2383,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO CUARTO. DEL PROGRAMA PERMANENTE
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De las Líneas de Acción
 
@@ -2363,11 +2395,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO QUINTO. DE LAS UNIDADES DE ATENCION
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Personal
 
@@ -2383,7 +2415,7 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De la Participación de las Autoridades en la Asistencia de la Violencia Intrafamiliar
 
@@ -2415,11 +2447,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -2435,7 +2467,7 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Conciliadores
 
@@ -2475,11 +2507,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. Del Informe
 
@@ -2487,11 +2519,11 @@ Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -2535,7 +2567,7 @@ VII. Los demás que se establezcan en el presente Código.
 
 Para los efectos de la presente ley, se consideran adultos mayores a las personas de sesenta o más años de edad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
@@ -2613,7 +2645,7 @@ IV. Participar en actividades comunitarias y docentes, compartiendo con las nuev
 
 V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
@@ -2651,7 +2683,7 @@ V. Los demás que establezcan a su cargo las disposiciones aplicables.
 
 Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
@@ -2691,7 +2723,7 @@ Corresponde a los grupos de la sociedad civil organizada de adultos mayores, par
 
 Los establecimientos que presten servicio a los adultos mayores deberán habilitar personal capacitado y espacios adecuados para proporcionar al senescente un trato digno y estancia cómoda, dándole preferencia en su atención.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
@@ -2755,7 +2787,7 @@ Para la salvaguarda de los intereses patrimoniales de los adultos mayores, son i
 
 Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán heredar de los adultos mayores que atendieron, aunque su disposición testamentaria (sic) hubiere hecho durante su estancia en el lugar a su cargo, siempre y cuando dos representantes del Organismos (sic) Estatal den testimonio del acto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
@@ -2855,7 +2887,7 @@ Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adul
 
 Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
@@ -2897,17 +2929,19 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
+###### Artículo 255 Bis.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO UNICO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Objeto y de las Disposiciones Generales
 
@@ -2945,7 +2979,7 @@ Así mismo deberá elaborar programas alimentarios considerando las estadística
 
 Los Sistemas para el Desarrollo Integral de la Familia, promoverán la asistencia alimentaria altruista, coordinarán los esfuerzos públicos y privados, así mismo, (sic).
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Bancos de Alimentos
 
@@ -3005,7 +3039,7 @@ La imposibilidad de pagar la cuota de recuperación no será motivo para negar e
 
 Las cuotas de recuperación y balances financieros de las operaciones de los bancos de alimentos deberán reportarse anualmente al Instituto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO IV. De los Estímulos y Sanciones
 
@@ -3031,7 +3065,7 @@ Los donantes de alimentos quedan exentos de responsabilidad en caso de daño a l
 
 Los Bancos de alimentos sólo serán responsables de los daños que se causen, cuando se acredite que existió negligencia o dolo en la recepción, cuidado o distribución de los productos alimenticios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 268.
 
@@ -3127,7 +3161,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 21 DE JULIO DE 1998.
 
@@ -3213,13 +3247,13 @@ QUINTO.- La instalación del nuevo Consejo Estatal se efectuará, 30 días una v
 
 P.O. 30 DE DICIEMBRE DE 2003.
 
-DECRETO NUMERO 20395.
+DECRETO NÚMERO 20395.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 30 DE DICIEMBRE DE 2003.
 
-DECRETO NUMERO 20402.
+DECRETO NÚMERO 20402.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3251,13 +3285,13 @@ P.O. 28 DE DICIEMBRE DE 2006.
 
 P.O. 4 DE ENERO DE 2007.
 
-DECRETO NUMERO 21688.
+DECRETO NÚMERO 21688.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 4 DE ENERO DE 2007.
 
-DECRETO NUMERO 21690.
+DECRETO NÚMERO 21690.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3273,7 +3307,7 @@ SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de es
 
 P.O. 24 DE OCTUBRE DE 2009.
 
-DECRETO No. 22747/LVIII/09, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 12-BIS, 34, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 88 Y 89 DEL CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
+DECRETO No. 22747/LVIII/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 12-BIS, 34, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 88 Y 89 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -3285,7 +3319,7 @@ CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo debe
 
 P.O. 24 DE OCTUBRE DE 2009.
 
-DECRETO No. 22694/LVIII/09, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 33, 36, 38, 40, 41, 42, 46, 47, 49 Y 50 DEL CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
+DECRETO No. 22694/LVIII/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 33, 36, 38, 40, 41, 42, 46, 47, 49 Y 50 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -3306,5 +3340,9 @@ CUARTO. Las entidades y dependencias del Poder Ejecutivo del Estado y los ayunta
 QUINTO. Se deroga el Libro Quinto del Código de Asistencia Social del Estado de Jalisco, en sus artículos del 141 al 189, así como todas las disposiciones legales que contravengan el presente decreto.
 
 P.O. 3 DE AGOSTO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE NOVIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
