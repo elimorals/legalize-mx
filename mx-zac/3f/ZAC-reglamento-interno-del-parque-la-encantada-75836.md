@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-del-parque-la-encantada-75836"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-19"
-last_updated: "2010-06-19"
+last_updated: "2013-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERNO DEL PARQUE LA ENCANTADA
 
-REGLAMENTO INTERNO DEL PARQUE LA ENCANTADA
+REGLAMENTO INTERNO DEL PARQUE LA ENCANTADA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de junio de 2010.
 
@@ -97,9 +97,15 @@ g) Personal de intendencia.
 
 ### CAPÍTULO SEGUNDO. INFRAESTRUCTURA Y SERVICIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 9 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 5.
 
-La entrada al parque es exclusivamente por la Puerta principal, ubicada a un costado de la preparatoria No. 4 de la UAZ, con un horario de servicio de las 06:00 a las 20:00 Hrs.
+La entrada al parque es exclusivamente por la puerta principal, ubicada a un costado de la preparatoria No. 4 de la U.A.Z, con un horario de servicio de las 06:00 a las 20.00 hrs.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+A excepción de los días en que tenga verificativo algún evento social u oficial, en tal caso, y siempre y cuando se haya reportado oportunamente a la Dirección del Parque, el cierre de la puerta de acceso exclusiva al restaurante será a la (sic) 03:00 horas.
 
 ###### Artículo 6.
 
@@ -241,7 +247,13 @@ f) Introducir todo tipo de mascotas;
 
 g) Portar cualquier arma de fuego, municiones (postas o diábolos) o de las llamadas armas blancas, exceptuando utensilios de cocina bajo la responsabilidad absoluta del o los portadores adultos mayores;
 
-h) Introducir o consumir bebidas alcohólicas, sustancias toxicas o estupefacientes;
+> <small>(REFORMADO PRIMER PÁRRAFO, 9 DE NOVIEMBRE DE 2013)</small>
+
+h) Introducir o consumir bebidas alcohólicas, sustancias tóxicas o estupefacientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+Respecto del local que ocupa el restaurante podrán servirse bebidas que contengan algún grado de alcohol, únicamente en eventos sociales u oficiales, sin embargo por ningún motivo expenderlo al público en general.
 
 i) Colocar mesas, sillas o asadores dentro de los prados y jardines;
 
@@ -249,7 +261,9 @@ j) Nadar en el lago;
 
 k) Arrojar basura u objetos al interior del lago;
 
-l) Conducir vehículos automotores (carros, motocicletas, cuatrimotos, etc.);
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+l) Conducir vehículos automotores (carros, motocicletas, cuatrimotos, etc) sin autorización del Subdirector del Parque, y cuando sea el caso deberá hacerlo extremando las precauciones para evitar causar algún accidente que pudiera dañar a cualquier usuario.
 
 m) Tirar al césped o piso cualquier tipo de grasas, aceites o pinturas;
 
@@ -259,9 +273,13 @@ o) La entrada a personas con fines de solicitar caridad o cualquier tipo de dád
 
 p) La entrada a vendedores ambulantes;
 
-q) Pisar la pista de tartán con calzado diferente al deportivo (tenis); y
+q) Pisar la pista de tartán con calzado diferente al deportivo (tenis); y (sic)
 
 r) Utilizar la pista de tartán para andar en bicicleta, patín, carriolas o cualquier otro artefacto similar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+s) Ningún usuario, después del cierre del acceso principal del parque que es a las 20:00 hrs. podrá pasear por el parque y/o zoológico, y de ser asistente de algún evento especial del restaurante deberá circular exclusivamente por el espacio delimitado por las barras que para tal efecto deberán ser colocadas, de no acatarse tal disposición se suspenderá inmediatamente el evento y el espacio será desalojado.
 
 ###### Artículo 14.
 
@@ -440,3 +458,13 @@ PRIMERO.- Se derogan todas las disposiciones normativas, aun las de carácter mu
 SEGUNDO.- El presente reglamento fue aprobado en sesión ordinaria de la Junta de Gobierno del Sistema Estatal para el Desarrollo Integral de la Familia, celebrada el once de mayo del dos mil diez.
 
 TERCERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2013.
+
+Primero.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Segundo.- El presente Acuerdo es en alcance a la Actualización de las Reglas de Operación de los Programas Alimentarios del SEDIF, publicadas en el Suplemento número 82 del Periódico Oficial de fecha 12 de octubre de 2013.
+
+Segundo (sic).- Se publican las reformas al Reglamento Interno del Parque La Encantada, para su mayor entendimiento y entrada en vigor.
