@@ -4,7 +4,7 @@ identifier: "COL-ley-que-instituye-las-preseas-en-honor-a-destacadas-mujeres-564
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2013-01-26"
+last_updated: "2013-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -73,13 +73,17 @@ V. La Presea "Martha Dueñas González", se concederá a aquellas mujeres que se
 
 VI. La Presea "Concepción Barbosa de Anguiano", se otorgará a aquellas mujeres que tengan una trayectoria destacada en el ámbito político;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-VII. La presea "Griselda Álvarez Ponce de León", se otorgará a mujeres colimenses que se hayan distinguido en las Letras y la Literatura; y
+VII. La presea "Griselda Álvarez Ponce de León", se otorgará a mujeres colimenses que se hayan distinguido en las Letras y la Literatura;
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
-VIII. La Presea "Amalia Gaytán de Aguilar", se otorgará a aquellas mujeres destacadas por su iniciativa y logro empresarial en el Estado.
+VIII. La Presea "Amalia Gaytán de Aguilar", se otorgará a aquellas mujeres destacadas por su iniciativa y logro empresarial en el Estado; y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
+
+IX. La Presea "Sara Martínez Pizano" se otorga a aquellas mujeres que viven en zonas rurales, y que destacan por impulsar el desarrollo rural, fomentando el crecimiento e inclusión social, y que promueven la participación democrática en la vida política, social y cultural, de mujeres que habiten en zonas rurales.
 
 ###### ARTÍCULO 2°.
 
@@ -166,3 +170,7 @@ P.O. 16 DE ABRIL DE 2011.
 P.O. 26 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
