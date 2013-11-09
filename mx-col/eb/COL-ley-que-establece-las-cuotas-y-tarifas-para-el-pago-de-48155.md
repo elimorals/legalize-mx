@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48155"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-08-03"
+last_updated: "2013-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento No.80 del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 318
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Ixtlahuacán, Colima, para quedar en los siguiente términos:
 
-> <small>(REFORMADO SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA.
 
@@ -255,7 +255,7 @@ Los usuarios de los servicios públicos de agua potable, alcantarillado y saneam
 
 En los casos que las tomas tengan un diámetro mayor de media pulgada, los usuarios pagarán de conformidad la determinación del consumo que realice la CAPAI, basados en el artículo 7º.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 21º.
 
@@ -271,7 +271,7 @@ II.- A los usuarios de servicio que sin tener adeudos de ejercicios anteriores p
 
 A los usuarios de cuota mínima que paguen por anualidad en los términos de la fracción I de este artículo y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 22º.
 
@@ -303,15 +303,15 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 21 de ésta Ley, se amplia hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO TERCERO.
 
 Por concepto de estímulo fiscal, en el ejercicio fiscal 2013, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio 2013 y anteriores, en los periodos y porcentajes que a continuación se establecen:
 
-PERIODO AGOSTO A NOVIEMBRE Y OCTUBRE DICIEMBRE
+PERIODO NOVIEMBRE Y DICIEMBRE
 
-BASE 60% 50%
+BASE 100%
 
 Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
 
@@ -327,7 +327,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -360,6 +360,12 @@ P.O. 28 DE FEBRERO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 3 DE AGOSTO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. 9 DE NOVIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
