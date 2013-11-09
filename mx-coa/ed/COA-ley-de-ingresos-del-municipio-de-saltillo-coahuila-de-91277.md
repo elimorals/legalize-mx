@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-saltillo-coahuila-de-91277"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-28"
-last_updated: "2012-12-28"
+last_updated: "2013-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL DEL AÑO 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 28 de diciembre de 2012.
 
@@ -2666,3 +2666,13 @@ EL SECRETARIO DE FINANZAS
 JESÚS JUAN OCHOA GALINDO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE NOVIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 369.- LAS LEYES DE INGRESOS MUNICIPALES PARA EL EJERCICIO FISCAL DEL AÑO 2013 DE LOS 38 MUNICIPIOS DE LA ENTIDAD, COMPLETARÁN EL PERÍODO ANUAL PARA EL QUE FUERON APROBADAS, SIN MODIFICAR LAS DISPOSICIONES CONTENIDAS EN EL TÍTULO SEGUNDO DE LAS CONTRIBUCIONES, NI DEL TÍTULO TERCERO DE LOS INGRESOS NO TRIBUTARIOS, LOS CUALES SEGUIRÁN VIGENTES HASTA EL 31 DE DICIEMBRE DE 2013."]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
