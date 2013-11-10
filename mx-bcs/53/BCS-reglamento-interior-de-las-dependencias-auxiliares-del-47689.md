@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2012-08-09"
+last_updated: "2013-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -51,49 +51,57 @@ I. Secretaría Particular;
 
 II. Secretaría Privada;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-III. Dirección Comunicación (sic) Social;
+III. Secretaría Técnica;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-IV. Dirección de Relaciones Públicas;
+IV. Coordinación de Comunicación Social;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-V. Dirección de Acción Cívica y Social;
+V. Dirección de Relaciones Públicas;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-VI. Coordinación de Enlace Gubernamental;
+VI. Dirección de Acción Cívica y Social;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-VII. Unidad de Atención Ciudadana;
+VII. Coordinación de Enlace Gubernamental;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-VIII. Unidad de Asesoría y de Apoyo Técnico;
+VIII. Coordinación de Giras del Ejecutivo;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-IX. Representación del Gobierno del Estado en la Ciudad de México;
+IX. Coordinación de Atención Ciudadana;
 
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-X.- Representaciones del Gobierno del Estado en la (sic) ciudades de San José del Cabo y de Cabo San Lucas del Municipio de Los Cabos, Baja California Sur;
+X. Coordinación de Asesores;
 
-> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-XI. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
+XI. Representación del Gobierno del Estado en la Ciudad de México;
 
-> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-XII. Dirección de Relaciones Internacionales; y
+XII. Representaciones del Gobierno del Estado en las ciudades de San José del Cabo y Cabo San Lucas del Municipio de los Cabos, Baja California Sur;
 
-> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Coordinación General de Administración.
+XIII. Representación del Gobierno del Estado en la Zona Norte para los Municipios de Comondú, Loreto y Mulegé;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Dirección de Relaciones Internacionales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
+XV. Coordinación General de Administración.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -181,9 +189,9 @@ IV. Acordar directamente con el Gobernador del Estado para informarle y recibir 
 
 V. Recibir y despachar la correspondencia del Gobernador del Estado;
 
-> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Dar seguimiento a las actividades de la Representación del Gobierno del Estado en la Ciudad de México; Representación del Gobierno del Estado en las Ciudades de San José del Cabo y de cabo San Lucas en el Municipio de Los Cabos, Oficina de Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Acción Cívica y Social; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración.
+VI.- Coordinar y dar seguimiento a las actividades de la Secretaría Técnica, Representaciones del Gobierno del Estado; Coordinación de Giras del Ejecutivo; Coordinación para la Atención Ciudadana; Coordinación de Comunicación Social; Coordinación de Enlace Gubernamental, Dirección de Acción Cívica y Social; Dirección de Asuntos Internacionales, Coordinación de Asesores; y la Coordinación General de Administración.
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -207,6 +215,24 @@ I. Departamento de Enlace Administrativo.
 
 A la Secretaría Privada le corresponde ejercer funciones de coordinación y apoyo al Gobernador del Estado, los cuales desempeñará en vinculación con las demás dependencias y entidades de la Administración Pública Estatal, en los términos del presente Reglamento y de conformidad con las instrucciones que el propio Gobernador del Estado le señale en el marco de sus atribuciones.
 
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 7-A.
+
+A la Secretaría Técnica le corresponden las siguientes funciones:
+
+I. Establecer las bases y desarrollar los mecanismos necesarios a fin de proporcionar al Gobernador del Estado, la información de carácter estratégico que sirva para la definición de temas prioritarios y políticas públicas en la agenda pública estatal;
+
+II. Coordinar las relaciones públicas que sirvan de apoyo a los programas y estrategias del Ejecutivo y en general del Gobierno del Estado;
+
+III. Establecer comunicación con las Dependencias Auxiliares del Ejecutivo, cuando el cumplimiento de sus atribuciones exija la aplicación uniforme de los criterios definidos por el Gobernador del Ejecutivo;
+
+IV. Llevar a cabo las actividades y tramitación de los asuntos que le encomiende el Gobernador del Estado, y coordinase para su cumplimiento con las dependencias y entidades de la Administración Pública pertinentes;
+
+V. Identificar y proponer asuntos para la agenda política y de gestión gubernamental sobre temas relevantes y estratégicos del quehacer público, que deban ser considerados por el Gobernador del Estado, y preparar la información técnica para el desarrollo de las reuniones de Gabinete;
+
+VI. Las demás que en la esfera de sus atribuciones, le encomiende el Titular del Poder Ejecutivo del Estado.
+
 > <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 8.
@@ -221,11 +247,37 @@ III. Recopilar y mantener actualizados los atributos personales, académicos y t
 
 IV. La demás que le asigne el Ejecutivo del Estado, atendiendo a su (sic) facultades.
 
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 8-A.
+
+A la Coordinación de Giras del Ejecutivo, le corresponden las siguientes funciones:
+
+I. Coordinar las actividades de autoridades e invitar a organismos y personas de toda índole que tengan participación directa o indirecta en giras de trabajo del Gobernador del Estado, elaborando los itinerarios y la programación de actos a realizar;
+
+II. Coordinarse con la Secretaría Particular para los asuntos relacionados con la Agenda de actividades del Gobernador del Estado, elaborando un procedimiento claro para una más eficaz coordinación;
+
+III. Coordinar, a petición de la Secretaría Particular, las visitas de diversos funcionarios y visitantes distinguidos al Estado, proveyendo lo necesario en materia de agenda y logística;
+
+IV. Recabar las peticiones ciudadanas, escritas o verbales de las comunidades o auditorios que le entreguen al Ejecutivo del Estado durante las giras y hacerlas llegar directamente a la Secretaría Particular para su captura, gestión, turno y respuesta;
+
+V. Coordinar a las demás dependencias y entidades de la Administración Pública Estatal para allegarse de los elementos y herramientas necesarias para el desarrollo de las giras del Gobernador del Estado;
+
+VI. Coordinar la logística protocolo de los eventos y en general, las actividades que necesite realizar, apoyándose en las Dependencias y Entidades responsables de las obras o servicios para un mejor desarrollo de las giras que efectúe el Gobernador del Estado;
+
+VII. Ejecutar todas las acciones necesarias para dar seguimiento a los compromisos y acuerdos instruidos por el Gobernador del Estado relacionados con el diseño y la coordinación de las giras de trabajo que les corresponde coordinar;
+
+VIII. Informar al Gobernador sobre el grado de avance en el cumplimiento de los compromisos y acuerdos instruidos por el Gobernador o derivados de las actividades relacionadas con el diseño, aprobación y coordinación de las giras de trabajo; y
+
+IX. Las demás que en la esfera de sus atribuciones, le encomiende el Gobernador del Estado de manera de (sic) directa o por conducto de la Secretaría Particular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 9.
 
-A la Dirección de Comunicación Social, le corresponden las siguientes funciones:
+A la Coordinación de Comunicación Social, le corresponden las siguientes funciones:
 
-l. Auxiliar en la conducción de la política de comunicación social del Gobierno del Estado y en sus relaciones con los medios de comunicación;
+I. Auxiliar en la conducción de la política de comunicación social del Gobierno del Estado y en sus relaciones con los medios de comunicación;
 
 II. Apoyar al Gobernador del Estado en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, en coordinación con los titulares de las mismas;
 
@@ -249,31 +301,43 @@ X. Establecer con la unidad de comunicación social de las dependencias y entida
 
 XI. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuciones.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 10.
 
-A la Dirección de Relaciones Públicas le corresponde el ejercicio de las siguientes funciones:
+A la Dirección de Relaciones Públicas, le corresponde realizar las siguientes funciones:
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
 
 I. Establecer y consolidar las relaciones públicas del Gobernador del Estado y de sus dependencias; con organismos públicos y privados, así como con particulares a algún sector de la actividad social, económicas (sic), política, científica y la programación de actos a realizar;
 
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
+
 II. Formular y mantener actualizado, el directorio de las dependencias federales, estatales y municipales;
 
-III. Coordinar las actividades de autoridades, organismos y personas de toda índole que tengan participación directa o indirecta en visitas y giras de trabajo del Gobernador del Estado y de su comitiva, elaborando los itinerarios y la programación de actos a realizar;
+III. (DEROGADA, B.O. 10 DE NOVIEMBRE DE 2013)
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
 
 IV. Atender las tareas que en materia de relaciones públicas le asigne el Gobernador del Estado;
 
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
+
 V. Desarrollar estudios de opinión pública para conocer la imagen del Gobierno del Estado; y
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
 
 VI. Las demás que le asigne el Gobernador del Estado y el Secretario Particular, de acuerdo a sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-A la Unidad de Atención Ciudadana corresponde realizar las siguientes funciones:
+A la Coordinación para la Atención Ciudadana, le corresponde realizar las siguientes funciones:
 
 I. Evaluar, clasificar y dar seguimiento a los acuerdos, disposiciones y compromisos adoptados por el Gobernador del Estado en el ejercicio de sus atribuciones y obligaciones; en materia de atención ciudadana;
 
-II. Dar respuesta en breve término a la correspondencia o escritos de particulares o Instituciones, que formulen peticiones, planteen demandas o quejas, o bien turnarlas las dependencias federales, estatales o municipales competentes, para su atención, y darles el debido seguimiento para conocer de su resolución;
+II. (DEROGADA, B.O. 10 DE NOVIEMBRE DE 2013)
 
 III. Coordinarse con las diferentes dependencias o entidades de la Administración Pública. Estatal para la adecuada atención a las demandas ciudadanas y de los acuerdos del Gobernador del Estado;
 
@@ -355,9 +419,11 @@ IX. Apoyar las gestiones de las diferentes dependencias del Gobierno del Estado 
 
 X. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-A la oficina de Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur, les corresponderá, en su respectiva jurisdicción, las siguientes funciones:
+A la Representación del Gobierno del Estado en la Zona Norte para los Municipios de Comondú, Loreto y Mulegé, le corresponderán las siguientes funciones:
 
 l. Atender las actividades del Gobernador del Estado, cuando se encuentre en la zona Norte del Estado;
 
@@ -405,9 +471,11 @@ V. Apoyar las gestiones de las dependencias y entidades del Gobierno del Estado 
 
 VI. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-A la Unidad de Asesoría y Apoyo Técnico, le corresponde realizar las siguientes funciones:
+A la Coordinación de Asesores, le corresponde realizar las siguientes funciones:
 
 I. Emitir los dictámenes, opiniones y consultas que le solicite el Gobernador del Estado;
 
@@ -590,3 +658,17 @@ Las Representaciones del Gobierno del Estado en las Ciudades de San José del Ca
 ###### ARTÍCULO CUARTO.
 
 La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas a que haya lugar.
+
+B.O. 10 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas y la Oficialía Mayor de Gobierno, realizarán las modificaciones presupuestales y administrativas a que haya lugar, para dotar de recursos humanos, materiales y financieros, que permitan el funcionamiento de la Secretaría Técnica y la Coordinación de Giras del Gobernador que se crean mediante el presente Decreto, a partir de los recursos humanos y presupuestales existentes en las áreas que ya desempeñaban estas funciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Dependencias involucradas en estos temas harán los ajustes que correspondan en materia de manuales de organización y de procedimientos en su caso, que deban ser modifica (sic) para que armonicen en lo conducente por efectos del presente Decreto.
