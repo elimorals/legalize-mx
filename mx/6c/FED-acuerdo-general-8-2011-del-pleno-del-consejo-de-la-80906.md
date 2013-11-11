@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2011-del-pleno-del-consejo-de-la-80906"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-04-19"
-last_updated: "2011-04-19"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80906&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-04-11"
 ---
 # ACUERDO GENERAL 8/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO MEDIANTE CONCURSOS INTERNOS DE OPOSICION]
 
-ACUERDO GENERAL 8/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO MEDIANTE CONCURSOS INTERNOS DE OPOSICION
+ACUERDO GENERAL 8/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 30/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 11 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 19 de abril de 2011.
 
@@ -790,3 +792,15 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Se abroga el Acuerdo General 30/2008 del Pleno del Consejo de la Judicatura Federal y demás disposiciones legales que se opongan al presente acuerdo.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 8/2011, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de magistrado de Circuito mediante concursos internos de oposición, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de nueve de marzo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Jorge Moreno Collado.- México, Distrito Federal, a once de abril de dos mil once.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 11 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en la página web del Consejo de la Judicatura Federal y en la del Instituto, así como en su sede y extensiones.
+
+TERCERO. Se abroga el Acuerdo General 8/2011 del Pleno del Consejo de la Judicatura Federal y demás disposiciones que se opongan al presente.
+
+CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite, continuarán realizándose conforme a la convocatoria y al Acuerdo aplicable al concurso de que se trate.
