@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-la-comision-estatal-de-derechos-41433"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-09"
-last_updated: "1997-05-09"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-REGLAMENTO DE LA LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+REGLAMENTO DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 9 de mayo de 1997.
 
@@ -1088,3 +1090,17 @@ LIC. J. JESUS JUAREZ PEREZ
 SECRETARIO EJECUTIVO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado de San Luis Potosí.
+
+Segundo. Se abroga el Reglamento de la Ley de la Comisión Estatal de Derechos Humanos, aprobado por el Consejo de la Comisión en sesión ordinaria de 7 de mayo de 1997, y publicado en el Periódico Oficial del Estado de 9 de mayo de 1997.
+
+Tercero. Se derogan todas las disposiciones reglamentarias y administrativas de la Comisión Estatal que se opongan a lo establecido en este Reglamento.
+
+Cuarto. Las quejas que a la fecha de entrada en vigor del presente Reglamento se encuentren en trámite, se sustanciarán de conformidad con lo que establece este Reglamento.
+
+Quinto. El Manual de Organización de la Comisión Estatal de Derechos Humanos será expedido dentro de los nueve meses siguientes a la entrada en vigor del presente Reglamento Interno, y deberá ser publicado en el Periódico Oficial del estado.
