@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2013-05-20"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2347,19 +2347,31 @@ Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el
 
 La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
 
-I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+I.- El 16 de junio de 2014 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+II.- El 5 de enero de 2015 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
 III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
-IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+IV.- El 1° de junio de 2015 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
 
-VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+V.- El 4 de enero de 2016 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de la totalidad de hechos punibles;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VI.- El 4 de enero de 2016 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VII.- El 18 de junio de 2016, en el primer, segundo, cuarto y quinto partidos judiciales con sede en Aguascalientes, Calvillo, Rincón de Romos y Jesús María, respecto de la totalidad de hechos punibles.
 
 Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
 
@@ -2416,3 +2428,11 @@ Dip. Mario Antonio Guevara Palomino,
 SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 9 de mayo de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
