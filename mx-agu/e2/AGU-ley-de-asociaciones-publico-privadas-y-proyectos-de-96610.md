@@ -1,0 +1,900 @@
+---
+title: "LEY DE ASOCIACIONES PUBLICO - PRIVADAS Y PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE -- ANTES LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE -- AGUASCALIENTES"
+identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
+country: "mx"
+rank: "ley"
+publication_date: "2013-11-11"
+last_updated: "2013-11-11"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-agu"
+scjn_id: "96610"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "45 EDICION VESPERTINA"
+reform_count: "7"
+scjn_last_update: "2024-08-13"
+issue_date: "2013-11-08"
+state: "AGU"
+---
+# LEY DE ASOCIACIONES PUBLICO - PRIVADAS Y PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE -- ANTES LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE -- AGUASCALIENTES
+
+LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
+
+CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+
+La LXI Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+
+Decreto Número 389
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, para quedar como sigue:
+
+LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 1º.
+
+La presente Ley es de orden público e interés general, y tiene por objeto regular las acciones relativas a la planeación, aprobación, autorización, presupuestación, adjudicación, y ejecución de aquellos Proyectos de Prestación de Servicios a que se refiere la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes que realicen las siguientes autoridades contratantes:
+
+I. El Poder Ejecutivo a través de sus dependencias, o entidades paraestatales de la Administración Pública Estatal; y
+
+II. Los Municipios, sus dependencias o entidades paramunicipales; (sic)
+
+###### ARTÍCULO 2º.
+
+Para los efectos de esta Ley, se entenderá por:
+
+a) Administrador del Proyecto: Servidor público designado por el titular de la autoridad contratante, cuya responsabilidad será coadyuvar en el desarrollo del Proyecto;
+
+b) Análisis costo-beneficio: Estudio que deberá mostrar que el Proyecto genera beneficios, iguales o mayores a los que se obtendrían en caso de que los servicios fueran proporcionados mediante la realización de un proyecto de inversión bajo el esquema de obra pública tradicional o cualquier otro;
+
+c) Comisión: Cuerpo Colegiado regulado por la Ley y su Reglamento, para la aprobación de los Proyectos presentados por la autoridad contratante;
+
+d) Congreso: H. Congreso del Estado Libre y Soberano de Aguascalientes;
+
+e) Contraloría Municipal: Unidad administrativa regulada por la Ley Municipal para el Estado de Aguascalientes;
+
+f) Contrato: Instrumento jurídico a través del cual se formaliza la realización de un Proyecto celebrado entre la autoridad contratante y el Inversionista Proveedor, en virtud del cual la autoridad compromete Pagos Plurianuales, con la obligación a cargo del Inversionista Proveedor de ejecutar a largo plazo, alguno o todos los servicios, así como de las actividades señalados en el Artículo 5º de la Ley;
+
+g) Garantía de Pago: El otorgamiento por las autoridades contratantes de cualquier ingreso susceptible de afectación como garantía o fuente de pago para dar cumplimiento a los Pagos Plurianuales derivados de los Contratos. Asimismo, el Poder Ejecutivo o los Municipios podrán afectar sus ingresos para el cumplimiento de los Pagos Plurianuales contraídos por las entidades paraestatales o paramunicipales señaladas en el Artículo 1º de la Ley;
+
+h) Gobierno del Estado: Gobierno del Estado de Aguascalientes;
+
+i) Inversionista Prestador: Personas físicas o morales que celebren un Contrato con la autoridad contratante en términos de la Ley;
+
+j) Ley: La presente Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes;
+
+k) Ley Patrimonial: Ley Patrimonial del Estado de Aguascalientes;
+
+l) Pagos Plurianuales: Los autorizados por el Congreso para dar cumplimiento a las obligaciones de pago para la ejecución del Proyecto, con cargo a las erogaciones anuales que deberán preverse en los Presupuestos de Egresos que aprueben el Congreso o los Ayuntamientos, durante los ejercicios fiscales por la vigencia del Contrato;
+
+m) Partida Plurianual: El rubro autorizado por el Congreso para cada Proyecto, que deberá incluirse en los Presupuestos de Egresos aprobados por el Congreso o los Ayuntamientos, con cargo al cual se aplicarán los Pagos Plurianuales. La Partida deberá señalar el nombre del Proyecto, la autoridad contratante y el número de licitación;
+
+n) Proyecto: Modalidad de participación pública-privada para la prestación de servicios a la autoridad contratante o al usuario final, que conlleve cualquiera de los servicios, así como de las actividades señalados en el Artículo 5º de la Ley, para mejorar la eficiencia de los servicios públicos o funciones a cargo de dichas autoridades;
+
+o) Reglamento: El Reglamento de la Presente Ley;
+
+p) Secretaría: La Secretaría de Finanzas del Estado de Aguascalientes;
+
+q) Secretaría de Fiscalización: La Secretaría de Fiscalización y Rendición de Cuentas del Estado de Aguascalientes; y
+
+r) Tesorería: La Tesorería Municipal.
+
+###### ARTÍCULO 3º.
+
+A falta de disposición expresa en esta Ley, le serán aplicables de manera supletoria en lo que corresponda:
+
+a) El Código de Comercio, y la Legislación Mercantil;
+
+b) El Código Civil del Estado de Aguascalientes;
+
+c) La Ley Patrimonial del Estado de Aguascalientes;
+
+d) La Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes; y
+
+e) La Ley de Procedimiento Administrativo del Estado de Aguascalientes.
+
+###### ARTÍCULO 4º.
+
+En los procedimientos de contratación de los Proyectos, las autoridades contratantes deberán apegarse a lo previsto en esta Ley.
+
+## TÍTULO SEGUNDO. DE LOS PROYECTOS DE PRESTACIÓN DE SERVICIOS
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 5º.
+
+Los Proyectos tienen por objeto que un Inversionista Prestador le preste servicios a la autoridad contratante o al usuario final mediante la realización de cualquiera de las siguientes actividades: financiamiento; diseño y construcción; equipamiento; operación, mantenimiento y conservación de infraestructura.
+
+###### ARTÍCULO 6º.
+
+Los Proyectos deberán reunir las siguientes características:
+
+I. Que la autoridad contratante mejore la eficiencia de los servicios públicos o funciones a su cargo;
+
+II. Que los Contratos de los Proyectos sean mayores a cinco años y no excedan de cuarenta, incluyendo sus prórrogas; y
+
+III. Que el Inversionista Prestador para realizar los servicios, así como de las actividades, será responsable de obtener a su cargo la inversión, tanto de capital como financiamiento requeridos, así como de proveer los activos necesarios. La inversión podrá realizarse sobre inmuebles del Inversionista Prestador o proporcionados por la autoridad contratante.
+
+###### ARTÍCULO 7º.
+
+Para todos los efectos legales los Proyectos tendrán el carácter de inversión pública productiva.
+
+###### ARTÍCULO 8º.
+
+En la planeación de los Proyectos y los servicios que pretendan realizar los Inversionistas Prestadores, las autoridades contratantes deberán sujetarse a:
+
+I. Los objetivos y prioridades del Plan Estatal de Desarrollo o de los Planes Municipales, a los programas institucionales, sectoriales, regionales y especiales que correspondan; y
+
+II. Los programas de transparencia y racionalidad presupuestaria.
+
+## TÍTULO TERCERO. DE LA PREPARACIÓN DE LOS PROYECTOS
+
+### CAPÍTULO I. Del Administrador del Proyecto
+
+###### ARTÍCULO 9º.
+
+Las autoridades contratantes para cada Proyecto, designarán a un servidor público como Administrador del Proyecto que tendrá la responsabilidad de elaborar la documentación que permita la aprobación, autorización y contratación del Proyecto.
+
+###### ARTÍCULO 10.
+
+El Administración del Proyecto coordinará un grupo de trabajo como órgano de consulta y apoyo para la elaboración de la documentación en los términos de la Ley.
+
+###### ARTÍCULO 11.
+
+El grupo de trabajo se integrará por servidores públicos con experiencia y especialidad en la materia del Proyecto y la capacidad técnica para la elaboración de la documentación requerida, tomando en cuenta sus facultades conforme a los Reglamentos Internos de las autoridades contratantes.
+
+###### ARTÍCULO 12.
+
+Tratándose de Proyectos del Poder Ejecutivo o sus entidades paraestatales, el grupo de trabajo contará cuando menos con un representante de la Secretaría y otro del área jurídica de la autoridad contratante. En los Proyectos de los Municipios o sus entidades paramunicipales, el grupo de trabajo contará cuando menos con un representante de la Tesorería y otro del área jurídica de la autoridad contratante.
+
+###### ARTÍCULO 13.
+
+El Administrador del Proyecto, previa opinión favorable de la Secretaría o la Tesorería, gestionará ante la autoridad contratante la contratación de los servicios de asesoría que se requieran para la elaboración de la documentación de conformidad con las disposiciones contenidas en la Ley Patrimonial.
+
+###### ARTÍCULO 14.
+
+El Administrador del Proyecto tendrá a su cargo las siguientes atribuciones:
+
+I. Representar a la autoridad contratante ante cualquier instancia pública, privada o social, en la realización de los trámites que se requieran para el desarrollo del Proyecto;
+
+II. Coordinar la integración de la información necesaria para elaborar la documentación que permita la aprobación, autorización y contratación del Proyecto;
+
+III. Coordinar la evaluación jurídica del Proyecto;
+
+IV. Coordinar la elaboración del análisis costo-beneficio;
+
+V. Presentación del Proyecto ante la Comisión correspondiente;
+
+VI. Coordinar la elaboración y preparación de las bases del procedimiento de contratación;
+
+VII. Coordinar la elaboración del Contrato que forma parte de las bases del procedimiento de contratación; y
+
+VIII. Representar a la autoridad contratante en el procedimiento de contratación.
+
+### CAPÍTULO II. Del Análisis Costo-Beneficio
+
+###### ARTÍCULO 15.
+
+El análisis costo-beneficio deberá contar cuando menos con los siguientes elementos:
+
+a) Una exposición detallada de la problemática que se pretende resolver, y su atención dentro de los objetivos y acciones previstos en el Plan Estatal de Desarrollo o Plan Municipal de Desarrollo;
+
+b) La correspondencia entre los programas sectoriales de la autoridad contratante y la problemática a resolverse;
+
+c) La propuesta de solución a la problemática, señalando los servicios, actividades y la infraestructura requeridos;
+
+d) La comparación entre la implementación del Proyecto de Prestación de Servicios y las alternativas disponibles para resolver la problemática con la obtención de los servicios, actividades y la infraestructura requeridos. Para tal efecto se elaborarán las proyecciones físicas y financieras correspondientes, especificando para cada caso, el impacto presupuestal, el efecto en las Garantías de Pago evaluadas y el comportamiento de los Pagos Plurianuales;
+
+e) Los aspectos formales del Contrato, como son: objeto; Garantía de Pago que se pretenda otorgar; causales de rescisión; terminación anticipada y sus consecuencias económicas; y
+
+f) Descripción de los inmuebles, infraestructura existente y bienes necesarios para la realización del Proyecto.
+
+## TÍTULO CUARTO. DE LAS APROBACIONES Y AUTORIZACIONES
+
+### CAPÍTULO I. De las Comisiones
+
+###### ARTÍCULO 16.
+
+Para los Proyectos del Poder Ejecutivo o de sus entidades paraestatales, se constituirá una Comisión Intersecretarial encargada de revisar la documentación, recomendar acciones, y aprobar su presentación ante el Congreso.
+
+###### ARTÍCULO 17.
+
+La Comisión Intersecretarial se integrará con un representante de:
+
+a) La Secretaría, quien presidirá las reuniones;
+
+b) La Jefatura de Gabinete;
+
+c) La autoridad contratante; y
+
+d) Las dependencias o entidades paraestatales, que en el ámbito de sus competencias deban opinar por la naturaleza del Proyecto.
+
+Participarán con voz pero sin voto, el Administrador del Proyecto y un representante de la Secretaría de Fiscalización.
+
+###### ARTÍCULO 18.
+
+En el caso de Proyectos Municipales o sus entidades paramunicipales, con el mismo encargo del Artículo 16 de la Ley, se constituirá una Comisión Municipal para la aprobación del Proyecto y su presentación al Ayuntamiento.
+
+###### ARTÍCULO 19.
+
+La Comisión Municipal se integrará con un representante de:
+
+a) La Tesorería, quien presidirá las reuniones;
+
+b) La Secretaría del Ayuntamiento;
+
+c) El Área Jurídica correspondiente;
+
+d) La autoridad contratante; y
+
+e) Las dependencias, direcciones o entidades paramunicipales, que en el ámbito de sus competencias deban opinar por la naturaleza del Proyecto.
+
+Participarán con voz pero sin voto, el Administrador del Proyecto y un representante del órgano interno de control.
+
+###### ARTÍCULO 20.
+
+Los órganos de gobierno de las entidades paraestatales o paramunicipales en su carácter de autoridades contratantes, deberán aprobar el Proyecto previamente a su presentación ante las Comisiones.
+
+###### ARTÍCULO 21.
+
+Las Comisiones sólo sesionarán cuando se encuentren presentes los representantes de la Secretaría o de la Tesorería, así como la mayoría de sus integrantes con derecho a voto, y sus decisiones se tomarán por mayoría de los presentes.
+
+###### ARTÍCULO 22.
+
+Las Comisiones tendrán las siguientes atribuciones:
+
+I. Aceptar el análisis costo-beneficio y determinar su apego a lo dispuesto por esta Ley, su Reglamento y otras disposiciones legales;
+
+II. Solicitar a la autoridad contratante o al Administrador del Proyecto información, documentación y estudios adicionales para el estudio del análisis costo-beneficio;
+
+III. La aprobación del Proyecto para su presentación ante el Congreso o ante el Ayuntamiento, según sea el caso; y
+
+IV. Rechazar cualquier Proyecto que no cumpla con los requisitos establecidos en esta Ley.
+
+###### ARTÍCULO 23.
+
+La aprobación que emita la Comisión, deberá señalar los beneficios que la autoridad contratante obtendrá con la ejecución del Proyecto con base en lo siguiente:
+
+a) La problemática que se pretende resolver, y la congruencia del Proyecto con las atribuciones y facultades de la autoridad contratante y con el Plan Estatal o Municipal de Desarrollo, según sea el caso;
+
+b) Los resultados que arroja el análisis costo-beneficio al comparar el Proyecto con las alternativas disponibles para resolver la problemática; y
+
+c) La creación de la Partida Plurianual en el Presupuesto de Egresos, el impacto fiscal por la ejecución del Proyecto en los Pagos Plurianuales y en la Garantía de Pago que se pretenda otorgar.
+
+### CAPÍTULO II. De los Ayuntamientos
+
+###### ARTÍCULO 24.
+
+El Administrador integrará y presentará ante el Ayuntamiento la documentación necesaria del Proyecto, con la aprobación emitida por la Comisión Municipal.
+
+###### ARTÍCULO 25.
+
+El Ayuntamiento, en su caso, acordará con las dos terceras partes de sus integrantes, la aprobación de lo siguiente:
+
+I. La celebración y la realización del Proyecto;
+
+II. La creación de la Partida Plurianual durante la vigencia del Contrato;
+
+III. Los plazos y montos en términos del Presupuesto de Egresos vigente de los Pagos Plurianuales e incluirlos en los Presupuestos subsecuentes;
+
+IV. La Garantía de Pago para dar cumplimiento a los Pagos Plurianuales;
+
+V. La afectación patrimonial de los inmuebles, la infraestructura existente y los bienes necesarios para la realización del Proyecto;
+
+VI. La celebración de los actos jurídicos necesarios; y
+
+VII. Solicitar la autorización del Congreso de las Fracciones anteriores.
+
+### CAPÍTULO III. Del Congreso
+
+###### ARTÍCULO 26.
+
+En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, el Decreto de autorización correspondiente para:
+
+I. Realizar el Proyecto;
+
+II. Crear y fijar la vigencia de la Partida Plurianual;
+
+III. Fijar los plazos y montos en términos del Presupuesto de Egresos vigente, de los Pagos Plurianuales e incluirlos en los Presupuestos correspondientes;
+
+IV. Otorgar la Garantía de Pago;
+
+V. La afectación patrimonial de los inmuebles, la infraestructura existente y los bienes necesarios para la realización del Proyecto; y
+
+VI. Celebrar los actos jurídicos necesarios para implementar lo anterior.
+
+###### ARTÍCULO 27.
+
+A la solicitud y autorización que se presente ante el Congreso, el Titular del Poder Ejecutivo o el Presidente Municipal, deberá adjuntar lo siguiente:
+
+I. El anteproyecto de Decreto;
+
+II. La mención del procedimiento de contratación;
+
+III. La aprobación de la Comisión;
+
+IV. El acuerdo de aprobación del Ayuntamiento, en su caso;
+
+V. El dictamen legal; y
+
+VI. El Análisis costo-beneficio.
+
+## TÍTULO QUINTO. DE LA PRESUPUESTACIÓN
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 28.
+
+En los Presupuestos de Egresos del Estado y de los Municipios, se incluirá un Capítulo especial con los rubros de las Partidas Plurianuales y de los Pagos Plurianuales autorizados por el Congreso. Los rubros deberán señalar asimismo el Proyecto y el Contrato de que se trata.
+
+###### ARTÍCULO 29.
+
+El Titular del Poder Ejecutivo o los Presidentes Municipales al presentar los proyectos de Presupuesto de Egresos del Estado o de los Municipios, al Congreso o a los Ayuntamientos, deberán incluir los rubros con las Partidas Plurianuales y de los Pagos Plurianuales previamente autorizados por el Congreso.
+
+Tratándose de Partidas Plurianuales y Pagos Plurianuales autorizados por el Congreso con cargo al Presupuesto de Egresos del Estado o de los Municipios del ejercicio fiscal vigente, se harán las modificaciones correspondientes para incluir los rubros señalados en el párrafo anterior.
+
+## TÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
+
+### CAPÍTULO I. Generalidades
+
+###### ARTÍCULO 30.
+
+Las autoridades contratantes como convocantes, seleccionarán de entre los procedimientos que a continuación se señalan, aquél que de acuerdo con la naturaleza de la contratación asegure a las autoridades contratantes las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes:
+
+I. Licitación pública;
+
+II. Invitación a cuando menos tres personas, o
+
+III. Adjudicación directa.
+
+Los Contratos se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, ajustándose el procedimiento a los principios de publicidad, concurrencia e igualdad, para que libremente se presenten proposiciones solventes de acuerdo con lo establece la presente Ley.
+
+En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, las convocantes deberán proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer algún participante.
+
+Las condiciones contenidas en la convocatoria a la licitación o invitación a cuando menos tres personas, y en las proposiciones presentadas por los licitantes no podrán ser negociadas.
+
+La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la emisión del fallo, o en su caso, con la cancelación del procedimiento respectivo.
+
+### CAPÍTULO II. De la Licitación Pública
+
+###### ARTÍCULO 31.
+
+La convocatoria a la licitación pública será publicada en el Periódico Oficial del Estado y en uno de los Diarios de mayor circulación estatal. Si la convocante es de las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, adicionalmente deberá publicarse en un periódico de circulación local o regional.
+
+###### ARTÍCULO 32.
+
+Los procedimientos de licitación pública se sujetarán a los siguientes periodos:
+
+I. Venta de bases: durante diez días hábiles a partir de la publicación de la convocatoria;
+
+II. Junta de aclaraciones: en un plazo no menor a diez días hábiles a la presentación y apertura de proposiciones;
+
+III. Presentación y apertura de proposiciones: no podrá ser inferior a treinta días hábiles contados a partir de la fecha de la publicación de la convocatoria, pudiendo en su caso, cuando así lo determine la convocante, prorrogarse hasta por diez días hábiles; y
+
+IV. Emisión y notificación del fallo: en un término de hasta veinte días hábiles posteriores a la fecha de presentación y apertura de proposiciones, mismo que podrá prorrogarse por una sola vez hasta por quince días hábiles.
+
+###### ARTÍCULO 33.
+
+La convocatoria deberá contener:
+
+I. Nombre de la convocante responsable de la licitación;
+
+II. Número de licitación;
+
+III. Lugar, fecha y horario en que los interesados podrán obtener las bases para participar en la licitación, así como su costo y la forma de pago;
+
+IV. Descripción general del Proyecto, objeto de la licitación;
+
+V. Lugar, fecha y hora de la junta de aclaraciones, así como de la presentación y apertura de proposiciones;
+
+VI. Descripción del Decreto de autorización del Congreso para la creación de la Partida Plurianual para realizar los Pagos Plurianuales; y
+
+VII. Los demás datos que sean necesarios a criterio de la convocante.
+
+###### ARTÍCULO 34.
+
+Las bases deberán contener:
+
+I. Datos de la convocante y nombre del Administrador del Proyecto;
+
+II. Calendario de eventos, detallando lugar, fecha y hora para la celebración de la junta de aclaraciones; para la presentación y apertura de proposiciones; y para la emisión y notificación del fallo;
+
+III. Descripción general del Proyecto;
+
+IV. La información específica del Proyecto brindada por la convocante, sobre su ubicación y los inmuebles proporcionados por la convocante, situación jurídica, estudios realizados, planos, permisos y autorizaciones vigentes;
+
+V. La información específica sobre la forma, etapas, o plazos en la prestación de los servicios y sus actividades, o en la ejecución de la infraestructura requeridos por la convocante que será materia objeto del Contrato;
+
+VI. Instrucciones para elaborar y entregar las proposiciones técnica y económica, incluyendo la relación de documentos que los participantes deben presentar;
+
+VII. Precisar que será requisito el que los licitantes entreguen en la proposición técnica una declaración escrita, bajo protesta de decir verdad de no encontrarse en alguno de los supuestos establecidos por el Artículo 41 de la Ley;
+
+VIII. Los requisitos jurídicos, técnicos y económicos que deberán cumplir los interesados en participar en el procedimiento, los cuales no deberán limitar la libre participación, concurrencia y competencia económica;
+
+IX. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las proposiciones, y en su caso, firma del contrato;
+
+X. Los criterios específicos que se utilizarán para la evaluación de las proposiciones y adjudicación; pudiendo utilizar el criterio de evaluación binario, mediante el cual sólo se adjudica a quien cumpla los requisitos establecidos por la convocante y oferte el precio más bajo, o el criterio de puntos y porcentajes en los términos del Reglamento;
+
+XI. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante se ha coludido con otro u otros elevar el costo de los servicios o la infraestructura, en la fijación de la contraprestación por los servicios o cualquier otro acuerdo como fin obtener una ventaja sobre las convocantes y los demás participantes; y
+
+XII. Modelo de contrato al que se sujetarán las partes, el cual deberá contener los elementos aplicables a que se refiere el Artículo 46 de la Ley.
+
+No se podrán establecer requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
+
+###### ARTÍCULO 35.
+
+La convocante, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria, las bases, incluyendo el modelo de contrato, a más tardar el sexto día hábil previo al acto de presentación y apertura de proposiciones, debiendo difundir las modificaciones a la convocatoria en los medios en que fue publicada, y las correspondientes a las bases y al contrato en el Periódico Oficial del Estado, así como a los interesados que hubiesen adquirido las bases, al día natural siguiente a aquel en que se efectúen.
+
+Las modificaciones que se refieren en el párrafo anterior, en ningún caso podrán consistir en la sustitución de los servicios y sus actividades o infraestructura convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
+
+Cualquier modificación a las bases, incluyendo las que resulten de la o las juntas de aclaraciones formará parte de las bases, y deberá ser considerada por los licitantes en la elaboración de su proposición.
+
+###### ARTÍCULO 36.
+
+El acto de la junta de aclaraciones será presidido por el Administrador del Proyecto designado por la convocante, a fin de que se resuelvan en forma clara y precisa las dudas y planteamientos de los licitantes, relacionados con los aspectos contenidos en la convocatoria, las bases sus anexos y apéndices.
+
+Las personas que pretendan solicitar aclaraciones a los aspectos antes señalados, acreditarán la adquisición de las bases, y deberán presentar escrito expresando su interés en participar en la licitación, por si o en representación de un tercero, manifestando en todos los casos los datos generales del interesado y, en su caso, del representante.
+
+Las solicitudes de aclaraciones serán entregadas personalmente, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
+
+Al concluir cada junta de aclaraciones, podrá señalarse la fecha y hora para la celebración de ulteriores juntas, considerando que de entre la última de éstas y el acto de presentación y apertura de proposiciones, deberá existir un plazo de al menos seis días hábiles.
+
+De cada junta de aclaraciones, se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados, y las respuestas de la convocante. En el acta correspondiente a la última junta de aclaraciones, se indicará expresamente esta circunstancia.
+
+###### ARTÍCULO 37.
+
+La entrega de proposiciones se hará en dos sobres cerrados que contendrán la oferta técnica y económica.
+
+Dos o más personas podrán presentar conjuntamente una proposición; para tales efectos, en la proposición y en el Contrato se establecerán con precisión las obligaciones de cada una de ellas, así como la manera en que se exigiría su cumplimiento. En este supuesto la proposición deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
+
+Cuando la proposición conjunta resulte adjudicada con un contrato, los participantes en la proposición deberán constituir una nueva sociedad mercantil de propósito único manteniendo las obligaciones de cada una de ellas, y el Contrato deberá ser firmado por el representante legal de cada una de las personas participantes, a quienes se considerará, para efectos del procedimiento y del contrato, como responsables solidarios o mancomunados, según se establezca en el propio Contrato.
+
+Previo al acto de presentación y apertura de proposiciones, la convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la proposición. Lo anterior será optativo para los licitantes, por lo que no se podrá impedir el acceso a quién decida presentar su documentación y proposiciones en la fecha, hora y lugar establecido para la celebración del citado acto.
+
+###### ARTÍCULO 38.
+
+El acto de presentación y apertura de proposiciones se llevará a cabo en el día, lugar y hora previstos en la convocatoria a la licitación, conforme a lo siguiente:
+
+I. Una vez recibidas las proposiciones en los sobres cerrados, se procederá a la apertura del sobre con la proposición técnica, haciéndose constar la documentación presentada, relacionándola con los puntos específicos de las bases, sin que ello implique la evaluación de su contenido;
+
+II. Se procederá a la apertura de los sobres que contienen las proposiciones económicas y se hará lectura al importe de cada una de ellas, relacionándolo con los licitantes;
+
+III. De entre los licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con el Administrador del Proyecto que la dependencia o entidad designe, rubricarán las partes de las proposiciones que previamente haya determinado la convocante en la convocatoria a la licitación, las que para estos efectos constarán documentalmente, y
+
+IV. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación, fecha que deberá quedar comprendida dentro de los veinte días hábiles siguientes a la fecha establecida para este acto y podrá prorrogarse por una sola vez hasta por quince días hábiles.
+
+###### ARTÍCULO 39.
+
+Las dependencias y entidades para la evaluación de las proposiciones deberán utilizar el criterio indicado en la convocatoria a la licitación.
+
+En todos los casos las convocantes deberán verificar que las proposiciones cumplan con los requisitos solicitados en la convocatoria a la licitación; la utilización del criterio de evaluación binario, o el de puntos y porcentajes.
+
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará al licitante cuya oferta resulte solvente, porque cumple con los requisitos legales, técnicos y económicos establecidos en la convocatoria a la licitación, y por tanto garantiza el cumplimiento de las obligaciones respectivas y, en su caso:
+
+I. La proposición hubiera ofertado el precio más bajo, siempre y cuando éste resulte conveniente. Los precios ofertados que se encuentren por debajo del precio conveniente, podrán ser desechados por la convocante; o
+
+II. La proposición haya obtenido el mejor resultado en la evaluación combinada de puntos y porcentajes.
+
+En caso de empate, la adjudicación se efectuará a favor del licitante que resulte ganador del sorteo que se realice en términos del Reglamento de la Ley.
+
+###### ARTÍCULO 40.
+
+La convocante emitirá un fallo, el cual deberá contener lo siguiente:
+
+I. La relación de licitantes cuyas proposiciones se desecharon, expresando todas las razones legales, técnicas o económicas que sustentan tal determinación e indicando los puntos de la convocatoria que en cada caso se incumpla;
+
+II. La relación de licitantes cuyas proposiciones resultaron solventes, describiendo en lo general dichas proposiciones. Se presumirá la solvencia de las proposiciones, cuando no se señale expresamente incumplimiento alguno;
+
+III. Nombre del o los licitantes a quien se adjudica el contrato, indicando las razones que motivaron la adjudicación, de acuerdo a los criterios previstos en la convocatoria, así como la indicación de la o las partidas, los conceptos y montos asignados a cada licitante;
+
+IV. Fecha, lugar y hora para la firma del contrato, la presentación de garantías; y
+
+V. Nombre, cargo y firma del Administrador del Proyecto que lo emite, señalando sus facultades de acuerdo con los ordenamientos jurídicos que rijan a la convocante. Indicará también el nombre y cargo de los responsables de la evaluación de las proposiciones.
+
+En caso de que se declare desierta la licitación o alguna partida, se señalarán en el fallo las razones que lo motivaron.
+
+En el fallo no se deberá incluir información reservada o confidencial, en los términos de las disposiciones aplicables.
+
+Se dará a conocer el fallo de la misma en junta pública a la que libremente podrán asistir los licitantes que hubieran presentado proposición, entregándoseles copia del mismo y levantándose el acta respectiva.
+
+Con la notificación del fallo por el que se adjudica el contrato, las obligaciones derivadas de éste serán exigibles, sin perjuicio de la obligación de las partes de firmarlo en la fecha y términos señalados en el fallo.
+
+Contra el fallo sólo procederá el recurso de inconformidad.
+
+Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, el titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma al órgano interno de control dentro de los cinco días hábiles posteriores a la fecha de su firma.
+
+Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, la Convocante responsable dará vista de inmediato al órgano interno de control, a efecto de que, previa intervención de oficio, se emitan las directrices para su reposición.
+
+Las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones, y de la junta pública en la que se dé a conocer el fallo serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público, en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles. El titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
+
+Así mismo, se difundirá un ejemplar de dichas actas en los correos electrónicos proporcionados por los licitantes para efectos de su notificación de aquellos que no hayan asistido al acto. Dicho procedimiento sustituirá a la notificación personal.
+
+###### ARTÍCULO 41.
+
+Las convocantes se abstendrán de recibir propuestas o celebrar Contrato alguno con las personas físicas o morales siguientes:
+
+I. Aquéllas con las que el servidor público que intervenga en cualquier forma en la adjudicación del Contrato tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría de Fiscalización o de la Contraloría Municipal según corresponda, conforme a las disposiciones legales, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+III. Aquellas personas morales que hubiesen incurrido en incumplimiento de contrato con la autoridad contratante y se haya decretado la rescisión administrativa;
+
+IV. Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien en la presentación o desahogo de una inconformidad;
+
+V. Las que, en virtud de la información con la que cuente la Secretaría de Fiscalización o la Contraloría Municipal según corresponda, hayan celebrado contratos en contravención a lo dispuesto por las disposiciones legales;
+
+VI. Aquéllas a las que se declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
+
+VII. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y las autoridades contratantes; y
+
+VIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
+
+###### ARTÍCULO 42.
+
+Las convocantes procederán a declarar desierta una licitación, cuando la totalidad de las proposiciones presentadas no reúnan los requisitos solicitados o los precios de los servicios ofertados no resulten aceptables.
+
+Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, la dependencia o entidad podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el Artículo 43 de la Ley. Cuando los requisitos o el carácter sea modificado con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
+
+Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, cuando se presente caso fortuito; fuerza mayor; existan circunstancias justificadas que extingan la necesidad para adquirir los servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio a la propia convocante. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes, sólo podrán interponer la inconformidad en términos del Capítulo I del Título Décimo de la Ley.
+
+Salvo en las cancelaciones por caso fortuito y fuerza mayor, la convocante cubrirá a los licitantes los gastos no recuperables que, en su caso, procedan en términos de lo dispuesto por el Reglamento de la Ley.
+
+### CAPÍTULO III. De las Excepciones a la Licitación Pública
+
+###### ARTÍCULO 43.
+
+En los supuestos que prevé el Artículo 44 de la Ley, las convocantes, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
+
+La selección del procedimiento de excepción que realicen las dependencias y entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para las autoridades contratantes. El acreditamiento del o los criterios en los que se funda; así como la justificación de las razones en las que se sustente el ejercicio de la opción, deberán constar por escrito y ser firmado por el Administrador del Proyecto y los integrantes del Grupo de Trabajo.
+
+En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
+
+En caso del procedimiento de invitación a cuando menos tres personas previsto en el Artículo 45 de la Ley, el escrito a que se refiere el segundo párrafo de este Artículo, deberá estar acompañado de los nombres y datos generales de las personas que serán invitadas; tratándose de adjudicaciones directas, en todos los casos deberá indicarse el nombre de la persona a quien se propone realizarla; en ambos procedimientos, deberá acompañarse el resultado de la investigación de mercado que sirvió de base para su selección.
+
+###### ARTÍCULO 44.
+
+Las convocantes, bajo su responsabilidad, podrán contratar los servicios, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa, cuando:
+
+I. No existan servicios alternativos o sustitutos técnicamente razonables, o bien, que en el mercado sólo existe un posible oferente, o se trate de una persona que posee la titularidad o el licenciamiento exclusivo de patentes, derechos de autor, u otros derechos exclusivos;
+
+II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado como consecuencia de caso fortuito o de fuerza mayor;
+
+III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificados y justificados;
+
+IV. Se haya rescindido un contrato adjudicado a través de licitación pública, en cuyo caso se podrá adjudicar al licitante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o costo beneficio, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
+
+V. Se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria a la licitación cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las proposiciones.
+
+###### ARTÍCULO 45.
+
+El procedimiento de invitación a cuando menos tres personas se sujetará a lo siguiente:
+
+I. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante del órgano interno de control de la Convocante;
+
+II. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones susceptibles de analizarse técnicamente;
+
+En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si considera que reúne las condiciones requeridas, o bien proceder a la adjudicación directa conforme al último párrafo de este Artículo;
+
+III. Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al tipo de servicios requeridos, así como a la complejidad para elaborar la proposición. Dicho plazo no podrá ser inferior a cinco días naturales a partir de que se entregó la última invitación, y
+
+IV. A las demás disposiciones de la Ley que resulten aplicables a la licitación pública, siendo optativo para la convocante la realización de la junta de aclaraciones.
+
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular de la convocante podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones.
+
+## TÍTULO SÉPTIMO. DE LOS CONTRATOS
+
+### CAPÍTULO I. De las Características Generales
+
+## TÍTULO OCTAVO. DE LA INFORMACIÓN Y VERIFICACIÓN
+
+### CAPÍTULO II. De las Adecuaciones, Modificaciones y Prórrogas
+
+###### ARTÍCULO 46.
+
+El Contrato del Proyecto, contendrá cuando menos lo siguiente:
+
+I. Antecedentes;
+
+II. El nombre, denominación o razón social de la autoridad contratante;
+
+III. La indicación del procedimiento, conforme al cual se llevó a cabo la adjudicación del Contrato;
+
+IV. Los datos relativos a la autorización por el Congreso de la Partida Plurianual, de los Pagos Plurianuales y de la Garantía de Pago en su caso;
+
+V. Acreditación de la existencia y personalidad del licitante adjudicado;
+
+VI. La descripción pormenorizada de los servicios objeto del Contrato, así como de la ejecución de las actividades descritos en el Artículo 5° de la Ley;
+
+VII. Inicio de vigencia y plazo del Contrato;
+
+VIII. Los derechos y obligaciones de las partes;
+
+IX. La contraprestación a pagar por los servicios que prestará el Inversionista Prestador;
+
+X. Precisión de si la contraprestación es fija o sujeta a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste, determinando expresamente el o los indicadores o medios oficiales que se utilizarán en dicha fórmula;
+
+XI. Moneda en que se cotizó y se efectuará el pago respectivo, el cual será en pesos mexicanos;
+
+XII. Forma, plazo y condiciones de pago de la contraprestación por los servicios, señalando el momento en que se haga exigible el mismo;
+
+XIII. La forma y modo de la Garantía de Pago;
+
+XIV. Los casos en que podrán otorgarse prórrogas para el cumplimiento de las obligaciones contractuales y los requisitos que deberán observarse;
+
+XV. Las causales para la rescisión de los Contratos, en los términos previstos en esta Ley;
+
+XVI. Las fórmulas y plazos para los pagos de recuperación de la inversión, en los casos de terminación anticipada y rescisión;
+
+XVII. La metodología para evaluar el desempeño en la prestación de los servicios;
+
+XVIII. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario para prestar los servicios correspondientes y la ejecución de la infraestructura en su caso;
+
+XIX. Las garantías y coberturas de seguros obligatorios a cargo del Inversionista Prestador;
+
+XX. Condiciones, términos y procedimiento para la aplicación de penas convencionales por causas imputables a los Inversionistas Prestadores en el atraso de la prestación de los servicios o ejecución de la infraestructura, así como por el incumplimiento en el desempeño en la prestación de los servicios;
+
+XXI. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o Inversionista Prestador según sea el caso;
+
+XXII. Descripción de los inmuebles, infraestructura existente y bienes necesarios para la realización del Proyecto; y
+
+XXIII. Los demás aspectos y requisitos previstos en la convocatoria a la licitación e invitaciones a cuando menos tres personas, así como los relativos al Contrato.
+
+Para los efectos de la Ley, la convocatoria a la licitación, el Contrato y sus anexos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el Contrato no deberán modificar las condiciones previstas en la convocatoria a la licitación y sus juntas de aclaraciones; en caso de discrepancia, prevalecerá lo estipulado en éstas.
+
+###### ARTÍCULO 47.
+
+Se podrán ceder los derechos de cobro derivado de las contraprestaciones pactadas en el Contrato y de la Garantía de Pago, a favor de los acreedores del Inversionista Prestador que otorguen financiamiento para la inversión del Proyecto.
+
+No se podrá gravar, afectar o dar en garantía la infraestructura de los Proyectos. La cesión de los derechos y obligaciones del Contrato a favor de terceros, requerirá del consentimiento expreso de la autoridad contratante, con la aprobación de la Comisión correspondiente. Tratándose de Proyectos vinculados a las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, será necesario además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+
+###### ARTÍCULO 48.
+
+Las convocantes podrán establecer en el modelo de contrato que forma parte de las bases, retenciones o deducciones a los pagos de la contraprestación por los servicios con motivo del incumplimiento parcial o deficiente, en que pudiera incurrir el Inversionista Prestador respecto de los conceptos que integran el Contrato. En estos casos establecerán el límite del incumplimiento a partir del cual se podrán aplicar las penas y rescindir el Contrato.
+
+###### ARTÍCULO 49.
+
+Los pagos de recuperación de la inversión señalados en la Fracción XVI del Artículo 46 de la Ley, se realizarán preferentemente de manera sucesiva en los plazos pactados en el Contrato, con base en los Pagos Plurianuales y Garantía de Pago autorizados.
+
+En el caso de la rescisión, los pagos de recuperación de la inversión se realizarán una vez hechos los descuentos por la aplicación de las penas convencionales pactadas.
+
+### CAPÍTULO III. De la Terminación y Rescisión del Contrato
+
+###### ARTÍCULO 50.
+
+La autoridad contratante podrá solicitar por escrito a la Comisión correspondiente, las adecuaciones debidamente justificadas al Contrato para evitar que se perjudique el desarrollo del Proyecto, siempre y cuando no se alteren las condiciones a que se refieran la naturaleza y características esenciales del objeto del Contrato, y en ningún momento podrán variar el plazo y monto de los Pagos Plurianuales y la Garantía de Pago autorizadas por el Congreso.
+
+###### ARTÍCULO 51.
+
+Cuando en la ejecución del Contrato se presenten causas que ameriten su modificación, como circunstancias imprevistas ajenas a la voluntad de las partes que se presenten, nueva tecnología, ampliaciones de requerimientos en calidad o cantidad del servicio, e infraestructura adicional a la requerida y no prevista en las propuestas hechas por el Inversionista Prestador, para su procedencia, la autoridad contratante deberá evaluar si dicha modificación tiene como finalidad atender las necesidades propias de la utilidad pública o del interés social. Asimismo, deberá emitir dictámenes técnico, jurídico y financieros que demuestren que no se afecte la naturaleza y características esenciales del objeto del Contrato, y que no exista impedimento contractual para su modificación.
+
+En el caso de que las modificaciones afecten el plazo y monto de los Pagos Plurianuales y la Garantía de Pago autorizado por el Congreso, la autoridad contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento. Para su posterior sometimiento a la autorización del Congreso del aumento en el plazo y monto de los Pagos Plurianuales y la Garantía de Pago.
+
+### CAPÍTULO IV. Del Control y Registro de los Contratos
+
+###### ARTÍCULO 52.
+
+El Contrato se dará por terminado una vez transcurrido el plazo pactado y sus prórrogas. Se dará por terminado en forma anticipada, por el mutuo acuerdo de las partes.
+
+###### ARTÍCULO 53.
+
+La autoridad contratante podrá dar por terminado el Contrato en forma anticipada, cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los servicios originalmente contratados, y se demuestre que de continuar con las obligaciones pactadas, se ocasionaría algún daño o perjuicio a la autoridad contratante.
+
+Para decretar la terminación anticipada, la autoridad contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1° de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+
+###### ARTÍCULO 54.
+
+En el caso de la terminación anticipada, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión.
+
+###### ARTÍCULO 55.
+
+Las autoridades contratantes podrán rescindir administrativamente los Contratos en caso de incumplimiento de las obligaciones a cargo del Inversionista Prestador, una vez agotado el monto límite de aplicación de las penas convencionales pactadas.
+
+Previo al inicio del procedimiento de rescisión, las autoridades contratantes deberán contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+
+El procedimiento deberá iniciarse dentro de los veinte días naturales a partir de las aprobaciones o autorizaciones señaladas en el párrafo anterior, y se llevará a cabo ante la Secretaría de Fiscalización o la Contraloría Municipal según corresponda, conforme a lo establecido en la Ley Patrimonial.
+
+En este supuesto, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión.
+
+###### ARTÍCULO 56.
+
+A la terminación o rescisión del contrato, los inmuebles, bienes y derechos, incorporados a la infraestructura o indispensables para la prestación del servicio, pasarán al dominio, control y administración de la autoridad contratante.
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 57.
+
+A la Secretaría y a las Tesorerías Municipales les corresponderá llevar un control de los Contratos para programar los Pagos Plurianuales. El control tendrá por cada Contrato la información correspondiente a los pagos realizados y su impacto proporcional en el Presupuesto de Egresos. La Secretaría o las Tesorerías Municipales emitirán los certificados de afectación, indicando los ingresos afectos como garantía y/o fuente de pago de las obligaciones contraídas en los Contratos correspondientes a los Pagos Plurianuales.
+
+###### ARTÍCULO 58.
+
+A fin de llevar un control en la aplicación de los recursos de las Partidas Plurianuales de los Proyectos contratados por las autoridades contratantes, la Secretaría llevará un registro de todos los Contratos y de las Garantías de Pago.
+
+## TÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 59.
+
+La forma y términos en que las autoridades contratantes deberán remitir a la Secretaría de Fiscalización o a las Contralorías Municipales, la información relativa a los actos y los Contratos materia de la Ley, serán establecidos por dichas autoridades, en el ámbito de sus respectivas atribuciones.
+
+Salvo por la información que de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes se considere como información restringida toda la información y documentación relacionada con la convocatoria, las bases, sus anexos y apéndices, y el Contrato, será de carácter pública.
+
+###### ARTÍCULO 60.
+
+La Secretaría de Fiscalización o las Contralorías Municipales, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo, que los servicios se realicen conforme a lo establecido en esta Ley. Para tal efecto podrán realizar las visitas e inspecciones que estimen pertinentes a las autoridades contratantes que celebren contratos, e igualmente podrán solicitar a los servidores públicos y a los Inversionistas Prestadores que participen en ellos, todos los datos e informes relacionados con los actos de que se trate.
+
+###### ARTÍCULO 61.
+
+Las inspecciones se practicarán en días y horas hábiles por personal autorizado por la Secretaría de Fiscalización o las Contralorías Municipales mediante el oficio de comisión fundado y motivado que señalará el periodo, el objeto de la comisión y las personas que la practicarán, mismas que se identificarán al momento de la diligencia.
+
+El resultado de la inspección se hará constar en acta que será firmada por la persona que la practicó, aquélla con quien se atendió la diligencia y dos testigos propuestos por ésta o en caso de no hacerlo, por los que designe quien la realizó. Del acta se dejará copia a la persona con quien se entendió la diligencia aun cuando se hubiese negado a firmarla, lo que no afectará su validez.
+
+## TÍTULO DÉCIMO. DE LA SOLUCIÓN DE CONTROVERSIAS
+
+### CAPÍTULO I. De la Instancia de Inconformidad
+
+###### ARTÍCULO 62.
+
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Secretaría de Fiscalización o las Contralorías Municipales, con multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción, independientemente a las indemnizaciones a las que pudiera hacerse acreedor con motivo de la aplicación del contrato y lo establecido en los Códigos Civil y Penal del Estado.
+
+###### ARTÍCULO 63.
+
+La Secretaría de Fiscalización o las Contralorías Municipales impondrán las sanciones o multas conforme a los siguientes criterios:
+
+I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de la Ley o las que se dicten con base en ella;
+
+II. El dolo o mala fe de la acción u omisión constitutiva de la infracción;
+
+III. Cuando sean varios los responsables, cada uno será sancionado con el total de la sanción o multa que se imponga; y
+
+IV. Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en el Artículo 62 de la Ley.
+
+###### ARTÍCULO 64.
+
+El procedimiento para la aplicación de las sanciones o multas a que se refiere este Capítulo, será el previsto en el Título Cuarto, Capítulo Único de la Ley Patrimonial.
+
+###### ARTÍCULO 65.
+
+Los servidores públicos adscritos a las autoridades contratantes, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la Ley.
+
+La omisión a lo dispuesto en el párrafo anterior será sancionado administrativamente.
+
+###### ARTÍCULO 66.
+
+Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+
+###### ARTÍCULO 67.
+
+En las adquisiciones de bienes y servicios, la Secretaría de Fiscalización o las Contralorías Municipales, además de las sanciones referidas en éste Artículo, inhabilitará a los Inversionistas Prestadores a participar en todos los tipos de procedimiento, con cualquier autoridad contratante y cuando se encuentren en alguno de los supuestos siguientes:
+
+I. Los licitantes que injustificadamente y por causas imputables a ellos mismos no formalicen el contrato adjudicado por la convocante en los tiempos establecidos;
+
+II. Los Inversionistas Prestadores que se encuentren en estado de incumplimiento por más de una ocasión con cualesquiera de las autoridades contratantes;
+
+III. Los Inversionistas Prestadores que no cumplan con sus obligaciones contractuales por causas imputables a ellos, y que, como consecuencia, causen daños o perjuicios graves a las autoridades contratantes; así como, aquellos que presten servicios con especificaciones distintas de las convenidas;
+
+IV. Cuando una inconformidad se resuelva como no favorable al promovente por resultar improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrá al promovente, a sus representantes, al abogado, o a quien corresponda, según sea el caso, una multa de doscientos a quinientos días de salario diario mínimo general vigente en el Estado; y
+
+V. Cuando un Inversionista Prestador reciba de la Secretaría de Fiscalización o de las Contralorías Municipales dos fallos desfavorables del acto impugnado, denuncia o inconformidad.
+
+La inhabilitación que se imponga a determinado Inversionista Prestador no podrá ser menor a seis meses ni mayor a treinta y seis meses, independientemente de las sanciones a las que se pudiere hacer acreedor, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría de Fiscalización o las Contralorías Municipales la hagan del conocimiento de las autoridades contratantes, mediante la publicación de la circular respectiva en el Periódico Oficial del Gobierno del Estado.
+
+### CAPÍTULO II. Del Procedimiento de Conciliación
+
+###### ARTÍCULO 68.
+
+La Secretaría de Fiscalización o la Contraloría Municipal según corresponda, conocerán de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres personas que se indican a continuación:
+
+I. La convocatoria a la licitación, las bases y las juntas de aclaraciones;
+
+En este supuesto, la inconformidad sólo podrá presentarse por el interesado que haya adquirido las bases, dentro de los seis días hábiles siguientes a la celebración de la última junta de aclaraciones.
+
+II. La invitación a cuando menos tres personas;
+
+Sólo estará legitimado para inconformarse quien haya recibido invitación, dentro de los seis días hábiles siguientes.
+
+III. El acto de presentación y apertura de proposiciones, y el fallo;
+
+En este caso, la inconformidad sólo podrá presentarse por quien hubiere presentado proposición, dentro de los seis días hábiles siguientes a la celebración de la junta pública en la que se dé a conocer el fallo, o de que se le haya notificado al licitante en los casos en que no se celebre junta pública.
+
+IV. La cancelación de la licitación;
+
+En este supuesto, la inconformidad sólo podrá presentarse por el licitante que hubiere presentado proposición, dentro de los seis días hábiles siguientes a su notificación; y
+
+V. Los actos y omisiones por parte de la convocante que impidan la formalización del contrato en los términos establecidos en la convocatoria a la licitación o en esta Ley.
+
+En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya resultado adjudicado, dentro de los seis días hábiles posteriores a aquél en que hubiere vencido el plazo establecido en el fallo para la formalización del contrato o, en su defecto, el plazo legal.
+
+En todos los casos en que se trate de licitantes que hayan presentado proposición conjunta, la inconformidad sólo será procedente si se promueve conjuntamente por todos los integrantes de la misma.
+
+###### ARTÍCULO 69.
+
+Las denuncias por inconformidades deberán presentarse en los términos previstos en el Título Quinto, Capítulo I de la Ley Patrimonial. El procedimiento para emitir la resolución correspondiente por parte de la Secretaría de Fiscalización o Contraloría Municipal según corresponda, deberá apegarse al procedimiento establecido en dicho Título. En contra de estas resoluciones, los agraviados podrán presentar el recurso previsto en el Capítulo II de este Título.
+
+### CAPÍTULO III. Del Arbitraje, otros Mecanismos de Solución de Controversias y Competencia Judicial
+
+###### ARTÍCULO 70.
+
+En cualquier momento los Inversionistas Prestadores o las autoridades contratantes podrán presentar ante la Secretaría de Fiscalización o Contraloría Municipal según corresponda, solicitud de conciliación por desavenencias u oposiciones derivadas del cumplimiento de los Contratos.
+
+Una vez recibida la solicitud respectiva, la Secretaría de Fiscalización o la Contraloría Municipal, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
+
+La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del Inversionista Prestador traerá como consecuencia tener por no presentada su solicitud.
+
+###### ARTÍCULO 71.
+
+Podrá convenirse compromiso arbitral respecto de aquellas controversias que surjan entre las partes por interpretación a las cláusulas de los Contratos o por cuestiones derivadas de su ejecución, en términos de lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio.
+
+No será materia de arbitraje la rescisión administrativa, la terminación anticipada de los contratos, los actos administrativos, y las modificaciones o prórrogas a los Contratos, así como aquellas controversias que deriven en reclamaciones de prestaciones económicas.
+
+###### ARTÍCULO 72.
+
+El arbitraje podrá preverse en cláusula expresa en el contrato o por convenio escrito posterior a su celebración. La Comisión y el Administrador del Proyecto deberán determinar la conveniencia de incluir dicha cláusula o firmar el convenio correspondiente.
+
+###### ARTÍCULO 73.
+
+El pago de los servicios a la persona que funja como árbitro no será materia de la presente Ley.
+
+Los costos y honorarios del arbitraje correrán por cuenta de las partes contratantes, salvo determinación en contrario en el laudo arbitral.
+
+###### ARTÍCULO 74.
+
+El procedimiento arbitral culminará con el laudo arbitral, y podrá considerarse para efectos de solventar observaciones formuladas por quienes tengan facultades para efectuarlas, sobre las materias objeto de dicho laudo.
+
+###### ARTÍCULO 75.
+
+Las controversias que se susciten con motivo de la interpretación o aplicación de los contratos celebrados con base en esta Ley, serán resueltas por los tribunales del Estado de Aguascalientes, en los casos en que no se haya pactado cláusula arbitral o medio alterno de solución de controversias, o éstas no resulten aplicables.
+
+###### ARTÍCULO 76.
+
+Lo dispuesto por este Capítulo se aplicará a las autoridades contratantes sólo cuando sus leyes no regulen de manera expresa la forma en que podrán resolver sus controversias.
+
+T R A N S I T O R I O S :
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de junio de 2007, así como sus reformas.
+
+Al Ejecutivo para su promulgación y publicación.
+
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los once días del mes de septiembre del año dos mil trece.
+
+Lo que tenemos el honor de comunicar a Usted, para los efectos constitucionales conducentes.
+
+Aguascalientes, Ags., a 11 de septiembre del año 2013.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+LA MESA DIRECTIVA:
+
+Dip. Kendor Gregorio Macías Martínez,
+
+PRESIDENTE.
+
+Dip. Mario Antonio Guevara Palomino,
+
+PRIMER SECRETARIO.
+
+Dip. Arturo Robles Aguilar,
+
+SEGUNDO SECRETARIO.
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de noviembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
