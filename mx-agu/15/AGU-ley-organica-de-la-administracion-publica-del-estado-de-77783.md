@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2013-09-23"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -103,9 +103,13 @@ III. Tratándose de proyectos de iniciativas de leyes o decretos que serán some
 
 IV. Los reglamentos interiores determinarán las atribuciones que, conforme a esta ley y demás disposiciones legales aplicables, se otorgan a las diversas Dependencias y su distribución entre las unidades administrativas que las componen; asimismo establecerán la forma en que sus Titulares podrán ser suplidos en sus ausencias;
 
-V. Los Decretos, Acuerdos y Reglamentos, deberán publicarse en el Periódico Oficial del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-VI. Los manuales de organización, de procedimientos y de servicios al público, deberán mantenerse permanentemente actualizados.
+V. Los Decretos, Acuerdos y Reglamentos, deberán publicarse en el Periódico Oficial del Estado de Aguascalientes y además deberán aparecer en el portal electrónico del Gobierno del Estado, sin que esto último afecte su validez jurídica; y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VI. Los manuales de organización, de procedimientos y de servicios al público, deberán mantenerse permanentemente actualizados y además deberán aparecer en el portal electrónico del Gobierno del Estado, sin que esto último afecte su validez jurídica.
 
 ###### ARTÍCULO 11.
 
@@ -133,7 +137,9 @@ c) Agrupar las Entidades Paraestatales por sectores definidos, a efecto de que s
 
 d) Acordar la coordinación de Dependencias y Entidades del Ejecutivo Estatal con las Dependencias y Entidades de la Administración Pública Federal, así como con los Ayuntamientos de la Entidad;
 
-VIII. Promover y consolidar un sistema de modernización administrativa y el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política Estatal y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Promover y consolidar un sistema de modernización administrativa, de mejora regulatoria y el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política Estatal y demás legislación aplicable;
 
 IX. Ordenar la realización de auditorías, revisiones y evaluaciones a las Dependencias Centralizadas y Entidades Para estatales;
 
@@ -161,7 +167,9 @@ V. La accesibilidad de los discapacitados en todos los aspectos de la vida estat
 
 VI. El acceso libre e incluyente de todos los habitantes del Estado, al conocimiento y a la información, como base para la innovación, la creatividad, y el desarrollo integral sustentable; y
 
-VII. La priorización de la cultura de la prevención.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VII. La priorización de la cultura de la prevención y de la constante mejora regulatoria del servicio público, para lograr en grado óptimo la mejoría de las relaciones intra e intergubernamentales y con el ciudadano.
 
 #### SECCIÓN PRIMERA. Del Jefe de Gabinete
 
@@ -335,9 +343,21 @@ XX. Expedir y mantener permanentemente actualizados, los manuales de Organizaci�
 
 XXI. Atender las incidencias de carácter laboral y aplicar las sanciones que correspondan;
 
-XXII. Asesorar a los Municipios del Estado, cuando así lo soliciten, en la esfera de su competencia; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-XXIII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+XXII. Asesorar a los Municipios del Estado, cuando así lo soliciten, en la esfera de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+XXIII. Designar al coordinador del proceso de reforma regulatoria de la dependencia de que se trate y supervisar el cumplimiento de las obligaciones establecidas por la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+XXIV. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En el caso de los organismos desconcentrados, será el Director o Directora correspondiente, quien deberá expedir y mantener permanentemente actualizados, los Manuales de Organización, Procedimientos y Servicios al Público necesarios para su funcionamiento, debiendo contar con el visto bueno del titular de la dependencia a que estén adscritos.
 
 ###### ARTÍCULO 25.
 
@@ -423,6 +443,8 @@ X. Las demás que expresamente le confieran esta Ley, las demás leyes del Estad
 
 #### SECCIÓN PRIMERA. De la Secretaria de Gobierno
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE CUARENTA Y CINCO A CUARENTA FRACCIONES.</small>
+
 ###### ARTÍCULO 29.
 
 Al Secretario de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, y demás leyes relativas, el despacho de los siguientes asuntos:
@@ -501,37 +523,17 @@ XXXVI. Tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto
 
 XXXVII. Supervisar los trabajos del Centro de Control y Evaluación de la Actividad Policial, cuyos dictámenes se turnarán a las Dependencias competentes para el análisis y sanción que corresponda, según el caso;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 XXXVIII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-XXXIX. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
+XXXIX. Coordinar y supervisar la unidad de firma electrónica a que se refiere el Artículo 2º, Fracción XVI de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes; y
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-XL.- Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
-
-XLI.- Promover y apoyar el incremento de la calidad y la productividad;
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
-
-XLII.- Fomentar y apoyar la organización para el trabajo y el autoempleo;
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
-
-XLIII.- Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
-
-XLIV.- Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
-
-XLV.- Ejercer las atribuciones y facultades que les señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XL. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Seguridad Pública
 
@@ -717,9 +719,13 @@ XXXIII. Emitir o autorizar, según el caso, los catálogos de cuentas para la co
 
 XXXIV. Realizar la evaluación anual del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes correspondientes;
 
-XXXV. Administrar el catastro de los bienes inmuebles ubicados en el territorio del Estado y participar con la Secretaría de Gobierno, en la emisión de lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar las bases de datos de manera electrónica, entre la Dirección de Catastro y el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-XXXVI. Coordinar la integración y permanente actualización del Registro de la Propiedad Inmobiliaria del Estado;
+XXXV. Establecer los principios rectores y la política a seguir para la correcta administración del catastro de los bienes inmuebles ubicados en el territorio del Estado, en coordinación con el Instituto Catastral y participar con la Secretaría de Gobierno, en la emisión de lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar las bases de datos de manera electrónica, entre el mencionado Instituto Catastral y el Registro Público de la Propiedad y del Comercio;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+XXXVI. Coordinar la integración y permanente actualización del Registro de la Propiedad Inmobiliaria del Estado, mediante la implementación de medios electrónicos;
 
 XXXVII. Representar al Poder Ejecutivo en materia fiscal y catastral, e intervenir cuando se afecte la Hacienda Pública, ante los Tribunales, así como ante autoridades administrativas y fiscales, federales, estatales y municipales, en su caso, y coadyuvar con las Dependencias y Entidades, en las mismas materias;
 
@@ -743,11 +749,13 @@ La Procuraduría General de Justicia es el órgano al que le corresponde ejercer
 
 #### SECCIÓN QUINTA. De la Secretaría de Desarrollo Económico
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 33.
 
 A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-I. Dirigir, Coordinar y controlar la ejecución de las políticas y programas para la promoción, consolidación y desarrollo de las actividades industriales, mineras, comerciales, de abasto y de las exportaciones, en el Estado;
+I. Dirigir, coordinar y controlar la ejecución de las políticas y programas para la promoción, consolidación y desarrollo de las actividades industriales, mineras, comerciales, de abasto y de las exportaciones en el Estado;
 
 II. Promover el crecimiento económico de las regiones de la Entidad, procurando el desarrollo equilibrado, sustentable y sostenido, considerando las ventajas competitivas respectivas;
 
@@ -757,53 +765,55 @@ IV. Evaluar los programas de desarrollo económico y social del Estado y vigilar
 
 V. Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad;
 
-VI. Promover la desregulación y simplificación del marco jurídico, que facilite e impulse la actividad empresarial;
+VI. Promover la simplificación del marco regulatorio en la forma que lo establece la Ley de Gestión Empresarial y Mejora Regulatoria del Estado, para facilitar e impulsar la actividad empresarial;
 
-VII. Promover la creación y operación de centros regionales de desarrollo con la participación de los sectores empresariales, que permitan fomentar e incrementar las actividades empresariales;
+VII. Integrar y operar el Registro Estatal de Trámites y Servicios;
 
-VIII. Fomentar y participar con otras Entidades Federativas, en el desarrollo de proyectos regionales, económicos e industriales;
+VIII. Promover la creación y operación de centros regionales de desarrollo con la participación de los sectores empresariales, que permitan fomentar e incrementar las actividades empresariales;
 
-IX. Fomentar la creación de condiciones económicas y de infraestructura necesarias para el desarrollo económico del Estado;
+IX. Fomentar y participar con otras Entidades Federativas, en el desarrollo de proyectos regionales, económicos e industriales;
 
-X. Impulsar el desarrollo de la ciencia y la tecnología mediante la adecuada vinculación de los sectores productivo y educativo;
+X. Fomentar la creación de condiciones económicas y de infraestructura necesarias para el desarrollo económico del Estado;
 
-XI. Propiciar el crecimiento económico y el desarrollo social, a través de la transferencia e incorporación de tecnología y de la innovación;
+XI. Impulsar el desarrollo de la ciencia y la tecnología mediante la adecuada vinculación de los sectores productivo y educativo;
 
-XII. Participar, en coordinación con las autoridades competentes en la planeación y programación de obras e inversiones tendientes a promover la explotación racional de los recursos minerales del Estado;
+XII. Propiciar el crecimiento económico y el desarrollo social, a través de la transferencia e incorporación de tecnología y de la innovación;
 
-XIII. Promover ejecutar y administrar las unidades industriales del Estado;
+XIII. Participar, en coordinación con las autoridades competentes en la planeación y programación de obras e inversiones tendientes a promover la explotación racional de los recursos minerales del Estado;
 
-XIV. Organizar, administrar y mantener permanentemente actualizado, un sistema integral de información sobre los recursos, características y participantes, de las actividades económicas e industriales del Estado;
+XIV. Promover ejecutar y administrar las unidades industriales del Estado;
 
-XV. Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación Estatal de Planeación y Proyectos para su difusión;
+XV. Organizar, administrar y mantener permanentemente actualizado un sistema integral de información sobre los recursos, características y participantes de las actividades económicas e industriales del Estado;
 
-XVI. Organizar y apoyar programas de investigación científica y tecnológica industrial, y fomentar su divulgación;
+XVI. Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación Estatal de Planeación y Proyectos para su difusión;
 
-XVII. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, comercial, de abasto y exportaciones, contengan los convenios de coordinación y colaboración que al efecto se suscriban;
+XVII. Organizar y apoyar programas de investigación científica y tecnológica industrial, y fomentar su divulgación;
 
-XVIII. Organizar y fomentar la producción artesanal del Estado, vigilando que su comercialización se haga en términos favorables para los artesanos;
+XVIII. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, comercial, de abasto y exportaciones, contengan los convenios de coordinación y colaboración que al efecto se suscriban;
 
-XIX. Procurar la organización de industriales, comerciantes y exportadores en la Entidad;
+XIX. Organizar y fomentar la producción artesanal del Estado, vigilando que su comercialización se haga en términos favorables para los artesanos;
 
-XX. Coadyuvar en el desarrollo de las políticas establecidas por el Gobierno Federal, con relación a la distribución y el consumo de productos básicos;
+XX. Procurar la organización de industriales, comerciantes y exportadores en la Entidad;
 
-XXI. Fomentar la constitución de cooperativas de producción de servicios y de consumo, así como de sociedades de solidaridad social;
+XXI. Coadyuvar en el desarrollo de las políticas establecidas por el Gobierno Federal, con relación a la distribución y el consumo de productos básicos;
 
-XXII. Participar en la formulación y ejecución de convenios de inversión, con la Federación y con los Municipios;
+XXII. Fomentar la constitución de cooperativas de producción de servicios y de consumo, así como de sociedades de solidaridad social;
 
-XXIII. Promover y ejecutar programas y acciones en materia de producción, industrialización y comercialización, que contribuyan al desarrollo de las actividades productivas y de bienestar social, por sí y en coordinación con las Entidades de los sectores público, social y privado;
+XXIII. Participar en la formulación y ejecución de convenios de inversión con la Federación y con los Municipios;
 
-XXIV. Fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
+XXIV. Promover y ejecutar programas y acciones en materia de producción, industrialización y comercialización, que contribuyan al desarrollo de las actividades productivas y de bienestar social, por sí y en coordinación con las Entidades de los sectores público, social y privado;
 
-XXV. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados, para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
+XXV. Fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
 
-XXVI.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2013)
+XXVI. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
 
-XXVII. Coadyuvar en el desarrollo de proyectos y programas que permitan consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, y el fomento y promoción del empleo;
+XXVII. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de asistencia técnica y capacitación orientados al incremento de la calidad y productividad de las empresas;
 
-XXVIII. Promover el establecimiento en la Entidad, de industrias prioritarias y empresas ambientalmente favorables al ecosistema estatal; y
+XXVIII. Coadyuvar en el desarrollo de proyectos y programas que permitan consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, y el fomento y promoción del empleo;
 
-XXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XXIX. Promover el establecimiento en la Entidad, de industrias prioritarias y empresas ambientalmente favorables al ecosistema estatal; y
+
+XXX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN SEXTA. De la Secretaría de Salud
 
@@ -971,9 +981,11 @@ XXXV. Ejercer las atribuciones y facultades que le señalen las demás leyes, c�
 
 #### SECCIÓN OCTAVA. De la Secretaría de Gestión Urbanística y Ordenamiento Territorial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 36.
 
-A la Secretaría de Gestión Urbanística y Ordenamiento Territorial corresponde, además de las atribuciones establecidas en el Código Urbano para el Estado de Aguascalientes, el despacho de los siguientes asuntos:
+A la Secretaría de Gestión Urbanística y Ordenamiento Territorial corresponde, además de las atribuciones establecidas en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, el despacho de los siguientes asuntos:
 
 I. Dirigir, coordinar, controlar y evaluar la política y programas en materia de desarrollo urbano y ordenamiento territorial;
 
@@ -1017,7 +1029,9 @@ XX. Vigilar que la gestión y ejecución de los programas de vivienda en el Esta
 
 XXI. Actualizar y evaluar el Programa de Vivienda Estatal;
 
-XXII. Aplicar y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de desarrollo urbano, fraccionamientos y condominios, en congruencia con el Código Urbano del Estado y el Programa Estatal de Desarrollo Urbano y demás disposiciones legales en materia de ordenamiento territorial, asentamientos humanos, desarrollo urbano y vivienda;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+XXII. Aplicar y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de desarrollo urbano, fraccionamientos y condominios, en congruencia con el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, el Programa Estatal de Desarrollo Urbano, la Ley de Catastro y demás disposiciones legales en materia de ordenamiento territorial, asentamientos humanos, desarrollo urbano y vivienda;
 
 XXIII. Promover y vigilar, en coordinación con los Ayuntamientos que el desarrollo y equipamiento urbano de las diversas comunidades y centros de población del Estado sea equilibrado, sostenible y sustentable, además de que guarden congruencia con las previsiones y planes respectivos;
 
@@ -1836,3 +1850,9 @@ El presente Decreto entrará en vigencia el día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La incorporación de la Dirección General del Servicio Nacional de Empleo en Aguascalientes, se hará a la Secretaría de Gobierno en un plazo no mayor a 30 días contados a partir de la entrada en vigencia del presente Decreto, para lo cual participará la Oficialía Mayor, la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de su competencia.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
