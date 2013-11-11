@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2012-03-09"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -435,11 +435,19 @@ Efectos. Las visitas ordinarias de inspección tienen como objeto recabar, en fo
 
 Periodicidad. Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los visitadores judiciales “B” en la sede del órgano jurisdiccional; la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el visitador general, con el auxilio de los magistrados, jueces o encargados del despacho correspondiente.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 29/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+La inspección ordinaria a los Plenos de Circuito se llevará a cabo a distancia, una vez al año.
+
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 72/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
 Duración. Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales colegiados, unitarios de Circuito y unidades de notificadores comunes; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de procesos penales federales, en cuyo caso la duración de la visita no excederá de cuatro días. Los tribunales de Circuito y juzgados de Distrito que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, serán visitados en un día.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 29/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+La inspección ordinaria a los Plenos de Circuito durará hasta dos días.
 
 El visitador general podrá autorizar la modificación de los plazos señalados, siempre que exista causa justificada.
 
@@ -960,3 +968,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el 
 SEGUNDO. Para su difusión, publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial y su Gaceta, y en los medios electrónicos de consulta pública.
 
 TERCERO. La Comisión de Administración de este Consejo, por conducto de la Dirección General de Tecnologías de la Información, en el ámbito de sus atribuciones proveerán lo necesario a fin de que se dote a la Visitaduría General de este Consejo, el equipo de grabación de audio y video, así como del mobiliario adecuado que permita la guarda y custodia de los dispositivos de almacenamiento de datos que contengan los archivos digitales de las comparecencias; asimismo, verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal (secretarios técnicos), para operar el sistema de grabación.
+
+D.O.F. 11 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se instruye a la Comisión de Administración del Consejo de la Judicatura Federal, para que realice los trámites pertinentes, a fin de crear una plaza de Visitador Judicial "B".
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de esta reforma al Acuerdo General 7/2008, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal.
