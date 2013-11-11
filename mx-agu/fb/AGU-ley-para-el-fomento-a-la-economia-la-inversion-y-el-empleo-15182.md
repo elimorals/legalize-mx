@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2005-08-08"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
+LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 381, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN CUANTO SE OPONGAN A LAS DISPOSICIONES QUE SE CONTIENEN EN LA LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -91,7 +93,7 @@ XI.- Coadyuvar al proceso de mejora regulatoria y simplificación administrativa
 
 XII.- Fomentar el uso y la operación de instrumentos financieros, avances tecnológicos y de infraestructura, en los sectores económicos estratégicos;
 
-XIII.- Propiciar las condiciones adecuadas para atraer al Estado inversiones nacionales y extrajeras, a través de una política competitiva de incentivos para la inversión;
+XIII.- Propiciar las condiciones adecuadas para atraer al Estado inversiones nacionales y extranjeras, a través de una política competitiva de incentivos para la inversión;
 
 XIV.- Contar con un sistema de información estadística, que contenga variables financieras y económicas, y que permita analizar en la sociedad los efectos de las políticas adoptadas al respecto;
 
@@ -470,3 +472,37 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de la Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes en cuanto se opongan a las disposiciones que se contienen en la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la presente Ley deberá expedirse en un plazo máximo de noventa días naturales, contados a partir de la fecha de publicación de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, su Dirección General, Junta Directiva y Consejo Consultivo de Mejora Regulatoria deberán estar instalados dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Programa Estatal de Mejora Regulatoria para la actual Administración Pública Estatal, deberá elaborarse y publicarse en el Periódico Oficial del Estado de Aguascalientes, en un lapso máximo de seis meses, contados a partir de la entrada en vigencia de la presente Ley, su vigencia será al 30 de noviembre del 2016 y no será obligatorio la actualización trianual que señala el Artículo 30 de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los Programas Operativos Municipales de Mejora Regulatoria, para cada una de las Administraciones Públicas Municipales deberán elaborarse y publicarse en el Periódico Oficial del Estado de Aguascalientes, en un lapso máximo de treinta días, contados a partir de la entrada en vigor de la presente Ley y tendrán vigencia anual, en el concepto de que los correspondientes al año 2014, tendrá vigencia al 31 de diciembre de dicho año, independientemente de la fecha en que sean publicados.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Registro de Trámites y Servicios, y el Registro Estatal de Personas Acreditadas, deberán estar operando en un plazo máximo de noventa días naturales, contados a partir de la fecha de publicación de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Finanzas del Gobierno del Estado, realizará las adecuaciones presupuestales necesarias para que inicie sus funciones el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria y sus organismos.
