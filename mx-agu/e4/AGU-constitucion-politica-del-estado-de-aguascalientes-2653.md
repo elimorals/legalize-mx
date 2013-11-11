@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2013-09-16"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -277,7 +277,9 @@ La Ley de la materia determinará la organización del Instituto, sus facultades
 
 Las elecciones ordinarias deberán celebrase, el primer domingo de julio del año de la elección.
 
-Los partidos políticos nacionales acreditados en el Estado, serán entidades de interés público, podrán y serán los únicos facultados para participar en las elecciones estatales, distritales y municipales; estando asimismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Los partidos políticos nacionales acreditados en el Estado, serán entidades de interés público y estarán facultados para participar en las elecciones estatales, distritales y municipales; estando así mismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia.
 
 Los partidos políticos nacionales acreditados en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
 
@@ -289,7 +291,9 @@ La Sala Administrativa y Electoral, será un órgano jurisdiccional permanente, 
 
 La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
 
-Los partidos políticos, en ningún momento podrán contratar o adquirir por sí o por terceras personas, tiempos o espacios en cualquier modalidad de radio, televisión o prensa escrita o electrónica.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Los partidos políticos y candidatos independientes, en ningún momento podrán contratar o adquirir por sí o por terceras personas, tiempos o espacios en cualquier modalidad de radio, televisión o prensa escrita o electrónica.
 
 El Sistema Estatal Electoral, estará regulado por la Ley de la materia, y deberá garantizar en todo momento los siguientes derechos y obligaciones:
 
@@ -297,15 +301,23 @@ a) Los partidos políticos se constituirán sólo por ciudadanos sin intervenci�
 
 b) Las autoridades electorales sólo intervendrán en la vida interna de los partidos en términos de lo establecido en el Código Electoral;
 
-c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos, así como los topes y límites del financiamiento que estos pueden recibir de sus simpatizantes;
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas;
+c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos y los candidatos independientes, así como los topes y límites del financiamiento que estos pueden recibir de sus simpatizantes;
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas; así como de los ciudadanos registrados para promoverse para obtener el apoyo ciudadano y obtener el registro de una candidatura, así como de los candidatos independientes en sus campañas;
 
 e) Establecer las bases y procedimientos para la liquidación y destino de los bienes y recursos de los partidos políticos que pierdan su registro;
 
-f) Establecer las bases para los procedimientos relativos al control, vigilancia y sanción, respecto del origen y destino de los recursos de los partidos políticos; y
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-g) Establecer las bases y normas para las precampañas y campañas de los partidos políticos, así como las conductas prohibidas y las sanciones por incumplimiento y el respectivo sistema de medios de impugnación.
+f) Establecer las bases para los procedimientos relativos al control, vigilancia y sanción, respecto del origen y destino de los recursos de los partidos políticos y candidatos independientes; y
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+g) Establecer las bases y normas para las precampañas y campañas de los partidos políticos, así como para la etapa de promoción para obtener el apoyo ciudadano por parte de los aspirantes a candidatos y las campañas de los candidatos independientes, así como las conductas prohibidas y las sanciones por incumplimiento y el respectivo sistema de medios de impugnación.
 
 C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado.
 
@@ -591,9 +603,9 @@ XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurad
 
 XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del artículo 55 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-XXXIV.- Aprobar la realización de Proyectos de Prestación de Servicios, su contratación y modificaciones a los Poderes del Estado y Municipios, quienes serán los únicos que podrán contratar dichos proyectos, aprobación que debe estar precedida de la presentación del proyecto de referencia, acompañado de la información técnica y financiera detallada; así como del contrato que habrá de celebrarse el proceso y términos de la licitación, la afectación patrimonial que se requiera, las cantidades máximas a pagar anualmente, así como el plazo máximo de duración del proyecto.
+XXXIV.- Autorizar la realización de Proyectos de Prestación de Servicios al Estado, los Municipios y sus entidades públicas, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -899,9 +911,9 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-III.- Solicitar al Congreso la aprobación para realizar los Proyectos de Prestación de Servicios, su contratación y modificaciones de los que tengan por objeto crear infraestructura pública, así como de las partidas plurianuales para cubrir los gastos correspondientes a las obligaciones contraídas en dichos contratos, de conformidad a lo establecido en las fracciones III y XXXIV del artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
+III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
 IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 de noviembre al 15 de diciembre, sobre el estado general que guarde la administración pública estatal.
 
@@ -1511,9 +1523,9 @@ Los recursos que integran la Hacienda Municipal serán ejercidos en forma direct
 
 Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-Los Municipios, con la autorización del Cabildo, podrán realizar Proyectos de Prestación de Servicios que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la aprobación, contratación o en su caso modificaciones de los mismos, así como de las partidas plurianuales correspondientes, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
+Los Municipios, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán realizar Proyectos de Prestación de Servicios que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la autorización, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1703,9 +1715,13 @@ La violación a lo establecido en el presente Artículo será sancionada en la f
 
 Los recursos económicos de que dispongan el Estado y los Municipios, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública; tratándose de proyectos de Prestación de Servicios además se deberá asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, así como la obtención de mayores beneficios en igualdad de inversión en comparación con las realización del proyecto a través de inversión presupuestaria. La adjudicación directa de Proyectos de Prestación de Servicios, en los casos de excepción que así determine la ley que regule dichos proyectos, deberá ser ratificada por el Congreso del Estado.
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado o los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o los Municipios.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -2646,3 +2662,19 @@ P.O. 16 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 387, POR EL QUE SE REFORMAN LA FRACCIÓN XXXIV DEL ARTÍCULO 27; LA FRACCIÓN III DEL ARTÍCULO 46; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 70; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 90; ASÍ MISMO, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 390, POR EL QUE SE REFORMA EL ARTÍCULO 17, APARTADO B, PÁRRAFOS NOVENO, DÉCIMO CUARTO Y DÉCIMO QUINTO EN SUS INCISOS C), D), F) Y G) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
