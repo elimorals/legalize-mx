@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-de-justicia-para-adolescentes-del-estado-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2013-05-20"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALlENTES
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
+LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de septiembre de 2006.
 
@@ -31,7 +33,7 @@ LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberan
 
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-La LIX Legislatura del Pode Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+La LIX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
 
 Decreto Número 208
 
@@ -39,7 +41,7 @@ Decreto Número 208
 
 Se aprueba la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes, para quedar en los siguientes términos:
 
-LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALlENTES
+LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -303,7 +305,7 @@ XII. Realizar actividades recreativas, artísticas y culturales, deportivas y de
 
 XIII. Recibir o continuar con atención médica preventiva y correctiva, así como cualquier otro tipo de atención vinculada con la protección de su salud física o mental, siempre en razón de su género y circunstancias particulares;
 
-XlV. Recibir en todo momento una alimentación nutrimental adecuada y suficiente para su desarrollo;
+XIV. Recibir en todo momento una alimentación nutrimental adecuada y suficiente para su desarrollo;
 
 XV. Tener una convivencia segura y ordenada en el interior del centro de internamiento;
 
@@ -1665,7 +1667,9 @@ Si con ocasión de la rendición de una prueba superveniente surgiere una contro
 
 En ambos casos, el medio de prueba debe ser ofrecido antes de que se cierre el debate y el Juez Especializado deberá salvaguardar la oportunidad de la contraparte del oferente de la prueba superveniente, para preparar los contrainterrogatorios de testigos o peritos, según sea el caso, y para ofrecer la práctica de diversas pruebas encaminadas a controvertir la prueba superveniente.
 
-Artículo128.- Terminada la recepción de las pruebas, el Juez concederá sucesivamente la palabra al Ministerio Público especializado en adolescentes, al acusador coadyuvante, en su caso, y luego al defensor, para que, en ese orden, emitan sus alegatos de clausura.
+###### Artículo 128.
+
+Terminada la recepción de las pruebas, el Juez concederá sucesivamente la palabra al Ministerio Público especializado en adolescentes, al acusador coadyuvante, en su caso, y luego al defensor, para que, en ese orden, emitan sus alegatos de clausura.
 
 En caso de manifiesto abuso de la palabra, el Juez llamará la atención a la parte y limitará racionalmente el tiempo del alegato, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
 
@@ -2059,7 +2063,7 @@ El Juez Especializado para Adolescentes a excepción de lo previsto en el artíc
 
 ###### Artículo 181.
 
-AI imponerse la medida de internamiento definitivo, se computará como parte del cumplimiento de la misma, el tiempo de internamiento provisional que se le haya aplicado al adolescente.
+Al imponerse la medida de internamiento definitivo, se computará como parte del cumplimiento de la misma, el tiempo de internamiento provisional que se le haya aplicado al adolescente.
 
 ###### Artículo 182.
 
@@ -2637,19 +2641,31 @@ Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el
 
 La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
 
-I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+I. El 16 de junio de 2014 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+II. El 5 de enero de 2015 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
 III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
-IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+IV. El 1° de junio de 2015 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
 
-VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+V. El 4 de enero de 2016 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de la totalidad de hechos punibles;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VI. El 4 de enero de 2016 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VII. El 18 de junio de 2016, en el primer, segundo, cuarto y quinto partidos judiciales con sede en Aguascalientes, Calvillo, Rincón de Romos y Jesús María, respecto de la totalidad de hechos punibles.
 
 Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
 
@@ -2680,3 +2696,9 @@ El Congreso del Estado preverá una partida especial para solventar las erogacio
 ###### ARTÍCULO OCTAVO.
 
 A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
