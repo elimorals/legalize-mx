@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2013-08-26"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -2067,7 +2067,9 @@ IV.- Poseer los conocimientos, experiencia y capacidad de acuerdo al perfil del 
 
 La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, de los Ayuntamientos y de los demás sujetos obligados, establecidos en la fracción XXIII del artículo 2 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, es facultad del Congreso del Estado, la cual ejecuta a través de la Auditoría Superior del Estado de Puebla.
 
-La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, se realiza de acuerdo con lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla y de conformidad con lo siguiente:
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, se realiza de acuerdo con lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y de conformidad con lo siguiente:
 
 I.- El Congreso del Estado en el segundo periodo de sesiones, examinará, revisará, calificará y en su caso, aprobará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por los Titulares del Ejecutivo y del Legislativo ante el Congreso del Estado antes del inicio de este periodo.
 
@@ -2076,6 +2078,10 @@ En el caso previsto en el párrafo anterior, declarará si las cantidades percib
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
 II.- El Congreso del Estado en el tercer periodo de sesiones, deberá incluir en la agenda legislativa, en el caso del último año, previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de julio a octubre del Ejecutivo y del primero de julio al día de conclusión de la Legislatura que corresponda, que deberán ser presentadas por sus titulares ante el Congreso del Estado, por conducto de la Auditoría Superior del Estado de Puebla dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Al concluir la gestión del Titular de la Auditoría Superior del Estado, de manera excepcional, el Poder Legislativo presentará Cuenta Pública Parcial por el periodo del primero de enero al día de conclusión de la gestión referida, la que deberá presentarse dentro de los quince días siguientes, para su examen, revisión, calificación y aprobación, en el Periodo Ordinario de Sesiones que transcurra, o en su caso, dentro de los primeros quince días del Periodo inmediato siguiente; y por el periodo restante de ese ejercicio, dicho Poder presentará Cuenta Pública Parcial, que se rendirá en términos de la Legislación aplicable.
 
 ### CAPÍTULO IV. DE LAS COMPARECENCIAS
 
@@ -2326,3 +2332,9 @@ TERCERO.- Los asuntos en trámite presentados o turnados a la Comisión de Equid
 CUARTO.- Todos los actos suscritos por la Comisión de Equidad y Género y su Presidencia a la entrada en vigor de la presente reforma, sus efectos se entenderán referidos a la Comisión de Igualdad de Género.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto se deberá publicar en el Periódico Oficial del Estado, entrando en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
