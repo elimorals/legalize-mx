@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2013-05-20"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -503,6 +503,10 @@ III.- Sentencias definitivas o interlocutorias, según que decidan el negocio pr
 
 Los jueces o magistrados deberán firmar todas las resoluciones que pronuncien, las cuales serán autorizadas por los secretarios.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Los Magistrados, Jueces y Secretarios podrán firmar las resoluciones y autorizaciones a que se refiere este Artículo, mediante firma electrónica certificada, en los términos que lo establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+
 ###### ARTICULO 80.
 
 Los decretos y los autos deberán dictarse dentro de tres días después del último trámite o de la promoción correspondiente.
@@ -561,9 +565,11 @@ El tercero puede excepcionarse contra la sentencia firme, pero no contra la que 
 
 ### CAPITULO III. De la Presentación de Documentos
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 90.
 
-A toda demanda o contestación deberá acompañarse necesariamente: 1.- El poder que acredite la personalidad del que comparece en nombre de otro; 2.- El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3.- Una copia en papel común del escrito y de los documentos cuando haya de correrse traslado al colitigante. Si excedieren los documentos de veinticinco fojas, quedarán en la secretaría para que se instruyan las partes.
+A toda demanda o contestación deberá acompañarse necesariamente: 1.- El poder que acredite la personalidad del que comparece en nombre de otro; 2.- El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3.- Original o copia certificada de documento oficial con que se acredite la identidad del que promueve y en caso de que lo haga en nombre de otra persona, el de ésta. Lo anterior podrá exhibirse en copia simple, declarando bajo protesta de decir verdad que es igual a la original de donde se hubiere obtenido. De no cumplirse con lo anterior, se requerirá al promovente para que lo cumpla dentro del término de tres días, bajo apercibimiento que de no hacerlo no se dará curso a la demanda; 4.- Una copia en papel común del escrito y de los documentos cuando haya de correrse traslado al colitigante. Si excedieren los documentos de veinticinco fojas, quedarán en la secretaría para que se instruyan las partes.
 
 ###### ARTICULO 91.
 
@@ -606,6 +612,14 @@ Se exceptúan de esta disposición los escritos de demanda, ya sea principal o i
 ###### ARTICULO 97.
 
 Los exhortos y despachos que reciban las autoridades judiciales del Estado, se proveerán dentro de las veinticuatro horas siguientes a la recepción, y se diligenciarán dentro de los cinco días inmediatos, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Las comunicaciones, oficios e informes que deban hacerse entre sí los diversos funcionarios del Poder Judicial del Estado, podrán hacerse mediante los medios electrónicos y la firma electrónica certificada cumpliendo los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Los exhortos y despachos que expidan los Jueces para ser diligenciados por los Jueces del Estado de Aguascalientes, podrán remitirse, cuando no exista impedimento para ello, usando los mencionados medios y firma electrónica certificada. De la misma manera los Magistrados del Supremo Tribunal, podrán remitir sus requisitorias y oficios.
 
 ###### ARTICULO 98.
 
@@ -757,21 +771,19 @@ Para tal efecto, se generará respecto de cada resolución a notificar una dilig
 
 La notificación por comparecencia se tendrá por practicada por el hecho que los litigantes, los terceros o las personas autorizadas por ellos se encuentren presentes en las audiencias del juicio, respecto de las resoluciones que se emitan en estas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 116.
 
-También podrán hacerse las notificaciones a los abogados de las partes, cuando en autos hayan sido facultados para el efecto por sus clientes. La facultad de recibir notificaciones, autoriza al abogado designado para ello para interponer y continuar los recursos e incidentes que procedan, promover y contestar las liquidaciones, ofrecer y rendir pruebas, realizar promociones de mero trámite, alegar en las audiencias y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero, ni articular o absolver posiciones. Las personas autorizadas conforme a este párrafo, deberán acreditar que están legalmente autorizadas para ejercer la profesión de abogado, licenciado en derecho o pasante, a menos que se encuentren registrados en el sistema de Cédulas de Abogados y Pasantes del Supremo Tribunal de Justicia del Estado.
+También podrán hacerse las notificaciones a los abogados de las partes cuando hayan sido facultados para el efecto por sus clientes, pudiendo hacerse tales notificaciones por medios electrónicos si el abogado así lo autoriza. La facultad de recibir notificaciones, autoriza al abogado designado para ello para interponer y continuar los recursos e incidentes que procedan, promover y contestar las liquidaciones, ofrecer y rendir pruebas, realizar promociones de mero trámite, alegar en las audiencias y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero, ni articular o absolver posiciones. Las personas autorizadas conforme a este párrafo, deberán acreditar que están legalmente autorizadas para ejercer la profesión de abogado, licenciado en derecho o pasante, a menos que se encuentren registrados en el sistema de Cédulas de Abogados y Pasantes del Supremo Tribunal de Justicia del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 117.
 
-Deben firmar las notificaciones las personas que las hacen y aquellas con quienes se practican. Si éstas no supieren o no quisieren firmar, lo hará el secretario, notificador o quienes hagan sus veces, haciendo constar esta circunstancia en la diligencia de que se trate.
+Deben firmar las notificaciones las personas que las hacen y aquéllas con quienes se practican; si éstas no supieren o no quisieren firmar, el notificador o quien haga sus veces, así lo hará constar en el acta que al efecto levantará.
+
+Tratándose de notificación por medios electrónicos, el funcionario judicial que haga la notificación deberá insertar el sello y firma electrónica certificada correspondiente e igualmente recabará de inmediato el acuse de recibo del notificado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -783,13 +795,15 @@ I.- Desde el mismo día en que se hayan practicado tratándose de las que deben 
 
 II.- Las demás desde el día siguiente al de la fijación de la lista de acuerdos correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 119.
 
-Los secretarios de los juzgados y del tribunal de justicia o quienes hagan sus veces, formularán diariamente por duplicado y autorizada con su firma y sello del tribunal, una lista de los negocios acordados o resueltos, expresando en ella la naturaleza del juicio y los nombres y apellidos de todos los interesados. Uno de los ejemplares lo fijarán en la tabla de avisos de la oficina, a más tardar a las nueve horas del día siguiente del acuerdo, y el otro se guardará en el archivo del tribunal para resolver cualquier duda que se suscite.
+Los secretarios de los juzgados y del tribunal de justicia o quienes hagan sus veces, formularán diariamente por duplicado y autorizada con su firma y sello del tribunal, en forma física o electrónica una lista de los negocios acordados o resueltos, expresando el número del expediente, la naturaleza del juicio, los nombres y apellidos de todos los interesados, así como el sentido de la resolución o acuerdo de que se trate en forma sucinta. Uno de los ejemplares lo fijarán en la tabla de avisos de la oficina, a más tardar a las nueve horas del día siguiente del acuerdo, y el otro se guardará en el archivo del tribunal para resolver cualquier duda que se suscite; además la lista de acuerdos deberá publicarse en la página oficial electrónica del Poder Judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Por ningún motivo se incluirán en la lista los negocios o resoluciones que tengan por objeto el depósito de personas, requerimientos de pago, el mandamiento de pago o aseguramiento de bienes y cualquiera otra diligencia semejante de carácter reservado, a juicio del juez. En estos casos, la notificación se hará personalmente al promovente que originó la resolución.
 
@@ -1525,7 +1539,9 @@ Toda contienda judicial principiará por demanda en la cual se expresará:
 
 I.- El tribunal ante quien promueva;
 
-II.- El nombre del actor, nacionalidad, edad, estado civil, domicilio, ocupación, escolaridad y la casa que señale para oír notificaciones;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+II.- El nombre, nacionalidad, edad, estado civil, domicilio, ocupación y escolaridad del actor y en su caso de quien promueve en su nombre, así como el domicilio que señale para oír notificaciones o su dirección de correo electrónico, si es deseo del demandante recibir notificaciones por medios electrónicos;
 
 III.- El nombre del demandado y su domicilio;
 
@@ -1595,13 +1611,17 @@ Contestada la demanda o en su caso, la reconvención, o transcurridos los térmi
 
 ### CAPITULO II. Reglas Generales de la Prueba
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 234.
 
-Para conocer la verdad, puede el juzgador admitir declaración de cualquier persona, sea parte o tercero, y cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero; sin más limitación que de las que las pruebas estén reconocidas por la ley, que tengan relación inmediata con los hechos controvertidos y que no se afecte el principio de igualdad de las partes en el proceso.
+Para conocer la verdad, puede el juzgador admitir declaración de cualquier persona, sea parte o tercero, documentos físicos o electrónicos y cualquier cosa, ya sea que pertenezca a las partes o a un tercero; sin más limitación que de las que las pruebas estén reconocidas por la ley, que tengan relación inmediata con los hechos controvertidos y que no se afecte el principio de igualdad de las partes en el proceso.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 235.
 
-El actor debe probar los hechos constitutivos de su acción y el reo los de sus excepciones.
+El actor debe probar los hechos constitutivos de su acción y el demandado los de sus excepciones.
 
 ###### ARTICULO 236.
 
@@ -1635,15 +1655,17 @@ Los autos en que se admita alguna prueba no son recurribles. Cuando la recepció
 
 Los hechos notorios pueden ser invocados por el tribunal, aunque no hayan sido alegados por las partes.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 241.
 
-Cuando una de las partes se oponga, sin justificación legal, a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija, deben tenerse por ciertas las afirmaciones de la contraparte si éstas forman parte de la litis, salvo prueba en contrario, siempre y cuando tengan relación directa con la prueba en cuestión. Lo mismo se hará si una de las partes impide la elaboración de un dictamen pericial, o si no exhibe, a la inspección del tribunal, la cosa o documento que tiene en su poder, o de que puede disponer.
+Cuando una de las partes se oponga, sin justificación legal, a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija, deben tenerse por ciertas las afirmaciones de la contraparte si éstas forman parte de la litis, salvo prueba en contrario, siempre y cuando tengan relación directa con la prueba en cuestión. Lo mismo se hará si una de las partes impide la elaboración de un dictamen pericial o si no exhibe, a la inspección del tribunal, la cosa, documento o archivo electrónico que tenga en su poder o de que puede disponer. En caso de oposición, el Juez oirá las razones en que se funde y resolverá lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 242.
 
-Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales en la averiguación de la verdad. Deben sin demora exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos.
+Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales en la averiguación de la verdad. Deben sin demora exhibir documentos, cosas y archivos electrónicos que tengan en su poder, cuando para ello fueren requeridos.
 
 Los tribunales tienen la facultad y el deber de compeler a terceros, por los medios de apremio más eficaces, para que cumplan con esta obligación; pero, en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
 
@@ -1691,11 +1713,17 @@ V.- El Reconocimiento o inspección judicial;
 
 VI.- Los Testigos;
 
-VII.- Las Fotografías, escritos y notas taquigráficas y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+VII.- La ratificación de firma y contenido de documentos;
 
-VIII.- Las Presunciones.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Fotografías, copias fotostáticas, registros dactiloscópicos, grabaciones en disco, cassette, cinta, video, o cualquier otro tipo de reproducción; la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia y la tecnología;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Las Presunciones.
 
 ###### ARTICULO 246.
 
@@ -2205,13 +2233,27 @@ Pueden las partes atacar el dicho de un testigo por cualquier circunstancia que 
 
 ### CAPITULO VIII. Otros Elementos de Prueba
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 328.
 
-Para acreditar hechos o circunstancias en relación con el negocio que se ventila, pueden las partes presentar fotografías, escritos o notas taquigráficas y, en general, toda clase de elementos aportados por los descubrimientos de la ciencia.
+Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar fotografías o copias fotostáticas.
+
+Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 329.
 
-En todo caso en que se necesiten conocimientos técnicos especiales para la apreciación de los medios de prueba a que se refiere este capítulo, se observarán las disposiciones relativas a la prueba pericial.
+Como medio de prueba deben admitirse también los registros dactiloscópicos y fonográficos, así como la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia y la tecnología.
+
+La parte que presente esos medios de prueba deberá indicar los hechos y circunstancias que desea probar y quedará obligado a proporcionar al Juez o Tribunal, los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos e imágenes.
+
+El juzgador, según su prudente arbitrio, admitirá o denegará la prueba; en caso de admitirla señalará al oferente un plazo para que presente los elementos necesarios para la observación o reproducción de los textos, sonidos o imágenes, así como el día y la hora para que en su presencia y en la de las partes, se lleve a cabo la reproducción de los mismos, diligencia en la que deberá de hacerse constar lo observado o reproducido en el acta que al efecto se levante.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 329 BIS.- En caso de que se necesiten conocimientos técnicos especiales para la apreciación de los medios de prueba a que se refiere este Capítulo, las partes deberán designar perito de su parte y el Tribunal designará el tercero para el caso de discordia.
 
 ### CAPITULO IX. Presunciones
 
@@ -2296,6 +2338,16 @@ El documento que un litigante presente, prueba plenamente en su contra.
 ###### ARTICULO 346.
 
 Los documentos privados provenientes de tercero sólo harán prueba si la verdad de su contenido se demuestra con otras pruebas y tendrán el valor que merezcan estas pruebas.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 346 BIS.- Tendrá valor probatorio pleno, la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y que provenga de las partes del juicio, siempre que reúna los requisitos que al efecto establezca la Ley sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes. Lo anterior sin perjuicio del derecho de la parte contraria a probar que es falsa dicha información.
+
+Para valorar la fuerza probatoria de la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología que provenga de terceros, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+
+Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
+
+Las partes podrán objetar las pruebas a que se refiere este Artículo, dentro de los tres días siguientes a la notificación del auto admisorio de pruebas, tratándose de pruebas presentadas hasta entonces; las exhibidas con posterioridad podrán serlo en igual término contado desde que surta efectos la notificación del auto que las haya tenido como prueba.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2451,6 +2503,10 @@ Contra la sentencia que decide el fondo del negocio, procede el recurso de apela
 
 La cosa juzgada es la verdad legal, y contra ella no se admite recurso ni prueba de ninguna clase, salvo los casos expresamente determinados por la ley.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 373 BIS.- Inmediatamente que haya causado ejecutoria una sentencia de primera instancia o tan pronto como haya recibido la ejecutoria dictada por el Supremo Tribunal de Justicia, tratándose de resoluciones en las que se traslade o adquiera el dominio de un inmueble, el Juez a quien corresponda la ejecución de tal sentencia, estará obligado a dar aviso al Instituto Catastral, girando para ello el aviso correspondiente. Lo mismo se observará, tratándose de resoluciones dictadas en Jurisdicción Voluntaria, remates o convenios que produzcan la transmisión de la propiedad.
+
 ###### ARTICULO 374.
 
 Hay cosa juzgada cuando la sentencia ha causado ejecutoria.
@@ -2571,13 +2627,17 @@ Las sentencias no podrán revocarse por el Juez o Tribunal que las dicte.
 
 Las demás resoluciones que no fueren apelables, pueden ser revocadas por el juez o tribunal que las dictó, o por el que lo sustituya en el conocimiento del negocio.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 395.
 
-La revocación se interpondrá en el acto de la notificación o, a más tardar, dentro del día siguiente de haber quedado notificado el recurrente.
+La revocación se interpondrá a más tardar dentro del término de tres días que se contarán a partir del día siguiente al que surta efectos la notificación correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 396.
 
-Interpuesto el recurso, el juez o tribunal lo resolverá de plano.
+Interpuesto el recurso el Juez o Tribunal lo resolverá después de escuchar a las partes.
 
 ###### ARTICULO 397.
 
@@ -2979,9 +3039,11 @@ XV.- Los demás bienes en que así lo prevenga la ley.
 
 En los casos de las fracciones III, IV, V, y VII, el juez, en caso de duda oirá el informe de un perito designado por él.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 456.
 
-De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad, librándose al efecto por duplicado, copia certificada de la diligencia del embargo. Uno de los ejemplares, después de registrado, se unirá a los autos, y el otro quedará en la expresada oficina.
+De todo embargo de bienes raíces o de derechos sobre los mismos, se tomará razón en el Registro Público de la Propiedad, librándose al efecto por duplicado, copia certificada de la diligencia del embargo. Para tales efectos el funcionario judicial que practique la diligencia expedirá al interesado copia de la misma con el sello del Juzgado y su firma, misma que se entregará a la Dirección del Registro Público de la Propiedad en el Estado y surtirá efectos de aviso preventivo a partir de la fecha de su presentación; el propio funcionario judicial dará cuenta al Juez con el original del acta de embargo para que se agregue a los autos del juicio. El Juez del conocimiento deberá remitir al Registro Público de la Propiedad en el Estado, en un término no mayor a quince días, copia certificada de la misma diligencia para que el embargo quede inscrito en forma definitiva y surta efectos desde la fecha en que se presentó al registro la primer copia mencionada.
 
 ###### ARTICULO 457.
 
@@ -5579,7 +5641,7 @@ El juez admitirá la excusa si la encuentra debidamente fundada y mandará reque
 
 El ascendiente que renuncie o que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor de edad.
 
-### CAPITULO IX. Informaciones Ad-Perpetuam
+### CAPITULO IX. Informaciones Ad Perpetuam y Procedimiento para la Rectificación de Superficie, Medidas y Colindancias de Bienes Inmuebles
 
 ###### ARTICULO 868.
 
@@ -5651,6 +5713,8 @@ En los dos últimos casos el juez volverá a la mujer a casa de las personas baj
 
 En las diligencias de que trata este Capítulo, se oirá precisamente al Ministerio Público y contra las resoluciones que se dicten no procederá recurso alguno.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPITULO X. Apeo y Deslinde
 
 ###### ARTICULO 879.
@@ -5663,7 +5727,17 @@ II.- Cuando se pretenda justificar la posesión como medio para acreditar el dom
 
 III.- Cuando se trate de comprobar la posesión de un derecho real.
 
-La información se recibirá siempre con citación del Ministerio Público; en los casos de las fracciones primera y segunda, con citación también de los colindantes y del Director del Registro Público de la Propiedad y los comprendidos en la fracción III, con audiencia del propietario y de los demás partícipes del derecho real, cuando los haya.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En los casos de las Fracciones II y III, se correrá traslado con la solicitud a los colindantes, al Director del Registro Público de la Propiedad y al Instituto de Catastro quienes tendrán derecho a oponerse a las diligencias, dentro de un plazo de tres días.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En los casos de la Fracción III además se correrá traslado al propietario y a los demás partícipes del derecho real, cuando los haya.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En todos los casos, la información se recibirá siempre con citación del Ministerio Público y con las demás personas que hubieren comparecido al procedimiento, manifestando su interés de asistir a la audiencia respectiva.
 
 ###### ARTICULO 880.
 
@@ -5688,6 +5762,20 @@ Recibida la información, el juez declarará si se han o no acreditado los hecho
 ###### ARTICULO 884.
 
 Si hubiere oposición y se fundare en título debidamente registrado con anterioridad, sin más trámite el juez declarará sin lugar la información. Esta resolución y la que declare acreditados o no los hechos serán apelables.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 884 BIS.- Cuando se pretenda rectificar la ubicación, superficie, medidas y colindancias de un inmueble titulado a favor del promovente, debidamente inscrito en el Registro Público de la Propiedad en el Estado, se promoverán las diligencias de rectificación; para lo anterior, será requisito indispensable que el promovente exhiba levantamiento catastral certificado.
+
+En las diligencias deberá oírse necesariamente a los colindantes del predio de que se trate, al Instituto Catastral del Estado y al Director del Registro Público de la Propiedad en el Estado, quienes podrán oponerse al trámite de las diligencias.
+
+En el trámite de las diligencias el promovente deberá acreditar que efectivamente tiene la posesión del predio a que se refiere su título y de la excedencia que se pretende acreditar.
+
+En caso de oposición fundada se dará por terminado el procedimiento dejando a salvo los derechos del promovente para que promueva el juicio correspondiente.
+
+Si no hubiere oposición, y se probare la posesión del predio y de la excedencia, se dictará resolución teniendo por rectificado el título en la forma y términos en que lo haya solicitado el promovente.
+
+La resolución mencionada bastará para que el Instituto Catastral acepte la manifestación de predio y proceda en consecuencia e igualmente para que en el Registro Público de la Propiedad en el Estado se anote en el folio real correspondiente la rectificación que se haya determinado.
 
 ### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
 
@@ -5993,19 +6081,31 @@ Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el
 
 La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
 
-I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+I. El 16 de junio de 2014 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
-III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+II. El 5 de enero de 2015 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
-V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+III. El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
 
-VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+IV. El 1º de junio de 2015 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+V. El 4 de enero de 2016 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de la totalidad de hechos punibles;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VI. El 4 de enero de 2016 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VII. El 18 de junio de 2016, en el primer, segundo, cuarto y quinto partidos judiciales con sede en Aguascalientes, Calvillo, Rincón de Romos y Jesús María, respecto de la totalidad de hechos punibles.
 
 Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
 
@@ -6036,3 +6136,19 @@ El Congreso del Estado preverá una partida especial para solventar las erogacio
 ###### ARTÍCULO OCTAVO.
 
 A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 409 POR EL QUE SE REFORMAN LAS FRACCIONES I, II, IV, V, VI Y VII DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 331, EXPEDIDO POR LA LXI LEGISLATURA DEL H. CONGRESO DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 410 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 79; SE REFORMA EL ARTÍCULO 90; SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 97; SE REFORMAN LOS ARTÍCULOS 116; 117; 119, PÁRRAFO PRIMERO; 223, FRACCIÓN II; 234; 235; 241; 242, PÁRRAFO PRIMERO; 245, FRACCIONES VII, VIII Y SE LE ADICIONA LA FRACCIÓN IX; SE REFORMAN LOS ARTÍCULOS 328; 329; SE ADICIONAN LOS ARTÍCULOS 329 BIS; 346 BIS; 373 BIS; SE REFORMAN LOS ARTÍCULOS 395; 396; 456; LA DENOMINACIÓN DEL CAPÍTULO IX PERTENECIENTE AL TÍTULO DÉCIMO CUARTO, QUEDANDO COMO "INFORMACIONES AD PERPETUAM Y PROCEDIMIENTO PARA LA RECTIFICACIÓN DE SUPERFICIE, MEDIDAS Y COLINDANCIAS DE BIENES INMUEBLES"; SE REFORMA EL ARTÍCULO 879, PÁRRAFO SEGUNDO Y SE LE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO; ASÍ MISMO, SE ADICIONA EL ARTÍCULO 884 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
