@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-76795
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2012-12-21"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Quinta al Periódico Oficial del Estado de Puebla, el miércoles 8 de septiembre de 2010.
 
@@ -315,13 +315,11 @@ Las notificaciones por edictos, se realizarán mediante publicaciones durante tr
 
 La Cuenta Pública estará conformada y contendrá como mínimo, atendiendo a la naturaleza del Sujeto de Revisión Obligado, lo que para tal efecto señale la Ley General de Contabilidad Gubernamental y lo que se determine por las instancias competentes conforme a esta última, y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 20.
 
-La Cuenta Pública del ejercicio correspondiente, deberá ser presentada ante el Congreso del Estado por conducto de la Auditoría Superior, a través de los titulares o representantes legales de los Sujetos de Revisión Obligados; tratándose de los Poderes Públicos del Estado, a más tardar el último día hábil del mes de mayo del año siguiente al término del ejercicio correspondiente y los demás Sujetos de Revisión Obligados, a más tardar el último día hábil del mes de febrero del año siguiente al término del ejercicio correspondiente, salvo lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla.
+La Cuenta Pública del ejercicio correspondiente, deberá ser presentada ante el Congreso del Estado por conducto de la Auditoría Superior, a través de los titulares o representantes legales de los Sujetos de Revisión Obligados; tratándose de los Poderes Públicos del Estado, a más tardar el último día hábil del mes de mayo del año siguiente al término del ejercicio correspondiente y los demás Sujetos de Revisión Obligados, a más tardar el último día hábil del mes de febrero del año siguiente al término del ejercicio correspondiente, salvo lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla y en esta Ley.
 
 Los titulares o representantes legales de los Sujetos de Revisión Obligados, cuando por cualquier circunstancia fueren sustituidos, presentarán la Cuenta Pública del periodo respectivo dentro de los sesenta días siguientes a su sustitución.
 
@@ -2207,11 +2205,19 @@ IV.- Ser enlace entre la Auditoría Superior y la Comisión;
 
 V.- Elaborar el proyecto del programa presupuestario de la Auditoría Superior y someterlo a consideración del Presidente del Órgano de Gobierno del Congreso del Estado, para su inclusión y aprobación correspondiente, en términos de la legislación aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+VI.- Emitir el Plan Estratégico de la Auditoría Superior por el periodo que comprenda su gestión, el cual contendrá al menos, los elementos siguientes:
 
-VI.- Emitir el Plan Estratégico de la Auditoría Superior por el periodo que comprenda su gestión;
+a) Marco legal;
+
+b) Antecedentes;
+
+c) Filosofía institucional;
+
+d) Marco metodológico; y
+
+e) Marco de actuación, integrado por ejes, objetivos y estrategias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2383,6 +2389,12 @@ VI.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2012)
 
 El Auditor Superior, podrá ser removido exclusivamente, por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado Libre y Soberano de Puebla.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 126 Bis.
+
+Al concluir la gestión del Titular de la Auditoría Superior, de manera excepcional, el Poder Legislativo presentará Cuenta Pública Parcial por el periodo del primero de enero al día de conclusión de la gestión referida, de conformidad con lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla; y, por el periodo restante de ese ejercicio, dicho Poder presentará Cuenta Pública Parcial, que se rendirá en términos del artículo 20 de esta Ley.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
@@ -2498,3 +2510,9 @@ NOVENO.- Los servidores públicos de la Auditoría Superior del Estado de Puebla
 DÉCIMO.- En tanto se realizan las modificaciones conducentes a los sellos, formatos, papelería y demás documentación del Órgano de Fiscalización Superior del Estado, se seguirán utilizando, hasta que la Auditoría Superior del Estado realice las adecuaciones conducentes conforme a lo previsto en el artículo OCTAVO del Decreto que reforma y adiciona, diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el veintiocho de noviembre de dos mil doce.
 
 DÉCIMO PRIMERO.- Para efectos de la aplicación de las disposiciones contenidas en el presente Decreto, se deberá observar en lo conducente, lo previsto en los Artículos Transitorios del Decreto que reforma y adiciona diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el veintiocho de noviembre de dos mil doce.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto se deberá publicar en el Periódico Oficial del Estado, entrando en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
