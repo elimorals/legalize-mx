@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2011-10-17"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,79 +21,159 @@ state: "AGU"
 ---
 # LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
+LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
-Ley publicada en el Periódico Oficial, el 6 de julio de 1974.
+Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
-Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo" - Secretaría General.
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, sabed:
 
-EL CIUDADANO MANUEL A. RAVIZE, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Que por el H. Congreso del Estado, se me ha comunicado, lo siguiente:
 
-Que el Honorable Congreso del Estado, se ha servido expedir el siguiente:
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-DECRETO No. 286
+"NUMERO 22
 
-EL CUADRAGESIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en nombre del Pueblo que representa y haciendo uso de las facultades que le concede el Artículo 58 de la Constitución Política Local, en sus Fracciones I y XLV, se ha servido expedir
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo, decreta:
 
-DECRETO No. 286
-
-LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
+LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO PRIMERO. DEL AMBITO DE APLICACION Y PRINCIPIOS GENERALES
 
-### CAPITULO I. ORGANIZACION
+### CAPITULO UNICO
 
-###### Artículo 1o.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Se declara de utilidad pública con carácter permanente y obligatoria, la campaña para la erradicación de la garrapata, transmisora de la piroplasmosis y anaplasmosis bovina en la ganadería del Estado.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
-###### Artículo 2o.
+###### ARTICULO 1º.
 
-El territorio del Estado se dividirá en tantas zonas como sea indispensable para la erradicación de la garrapata.
+Las disposiciones de esta ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de las Administraciones Públicas centralizadas y descentralizadas del Estado de Aguascalientes, de los Municipios que lo integran, y de otras personas, cuando éstas actúen como autoridades.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+
+Se reputarán como otras personas, a los prestadores de servicios públicos municipales considerados como áreas estratégicas, que sean concesionados.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+El presente ordenamiento no será aplicable a las materias de: responsabilidades de los servidores públicos, expropiación, electoral, justicias agrarias y laboral, así como al Ministerio Público en ejercicio de sus funciones constitucionales.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 2º.
+
+La presente ley se aplicará supletoriamente a las diversas leyes que regulan las materias administrativas. El Código de Procedimientos Civiles del Estado de Aguascalientes se aplicará supletoriamente a esta Ley.
 
 ## TITULO SEGUNDO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
-### CAPITULO II. DISPOSICIONES GENERALES
+### CAPITULO I. Del Acto Administrativo
 
-###### Artículo 3o.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La campaña tendrá como objeto principal la erradicación total de la garrapata en el Estado y la defensa y protección de las zonas que vayan siendo declaradas oficialmente libres de ese parásito.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
-###### Artículo 4o.
+###### ARTICULO 3º.
 
-La campaña quedará encomendada a un comité estatal, el cual se compondrá de un presidente, un secretario, un tesorero y seis vocales, cuyos cargos serán gratuitos y honoríficos; tendrán el carácter de permanentes. Su designación será hecha en los términos que señale el reglamento de la presente Ley.
+Para los efectos de esta ley, se entenderá por acto administrativo, toda declaración unilateral de voluntad, externa, concreta y generalmente ejecutiva, emanada de la Administración Pública del Estado de Aguascalientes, de las de sus Municipios y de otras personas, en el ejercicio de las facultades que les son conferidas por los ordenamientos jurídicos en su carácter de potestad pública, teniendo por objeto crear, reconocer, transmitir, modificar o extinguir derechos y obligaciones con la finalidad de satisfacer el interés general.
+
+###### ARTICULO 4º.
+
+Son elementos y requisitos del acto administrativo:
+
+I.- Ser expedido por órgano competente, a través del servidor público con facultades para ello, y en caso de que dicho órgano fuere colegiado, reúna las formalidades de ley o decreto para emitirlo;
+
+II.- Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso en cuanto a las circunstancias de tiempo, lugar y previsto por la ley;
+
+III.- Cumplir con la finalidad de interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Constar por escrito y con la firma autógrafa o electrónica certificada de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición, y siempre y cuando la naturaleza del acto requiera una forma distinta de manifestación;
+
+V.- Estar fundado y motivado debidamente;
+
+VI.- Ser expedido sujetándose a las disposiciones relativas al procedimiento administrativo previstas en esta ley y con las formalidades que requiera conforme a la ley de la material del acto;
+
+VII.- Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
+
+VIII.- Ser expedido, sin que medie dolo o violencia en su emisión;
+
+IX.- Mencionar el órgano del cual emana;
+
+X.- Ser expedido decidiendo expresamente todos los puntos propuestos por la (sic) partes o establecidos por la ley;
+
+XI.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documento o nombre completo de las personas;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+XII.- Tratándose de actos administrativos que deban notificarse, deberá hacerse mención de la oficina en que se encuentre el expediente respectivo a fin de que pueda ser consultado;
+
+XIII.- Tratándose de actos administrativos recurribles deberá hacerse mención de los recursos que procedan; y
+
+XIV.- Ser expedido señalando lugar y fecha de emisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 4-A.
 
-Las dependencias y entidades de la Administración Pública podrán recibir las solicitudes que en términos de ley, los particulares presenten por escrito, sin perjuicio que dichos documentos puedan ser presentados a través de medios de comunicación electrónica; en estos casos se podrá emplear en sustitución de la firma autógrafa la firma electrónica, a cuyo efecto las dependencias y entidades crearán un registro de personas acreditadas para realizar trámites ante aquellas, asignando para ello al interesado un número o clave de identificación que operará como firma electrónica y que sustituirá a la firma autógrafa, de modo que al citar dicho número o clave en los trámites subsecuentes que realice el interesado, no requerirá asentar los datos ni acompañar los documentos mencionados en el Artículo 13, sino únicamente el órgano o autoridad a quien se dirige el tramite, la petición a quien se formula, los hechos y razones que dan motivo a la petición, y el lugar y fecha de emisión del escrito. El número o clave de identificación se conformará en los términos que establezca cada dependencia o entidad.
+Las dependencias y entidades de la Administración Pública podrán recibir las solicitudes que en términos de ley, los particulares presenten por escrito, sin perjuicio que dichas solicitudes y documentos puedan ser presentadas a través de medios electrónicos; en estos casos se podrá emplear en sustitución de la firma autógrafa la firma electrónica certificada, en los términos y condiciones que lo permite la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes; en este caso podrá adjuntar los documentos que acrediten su personalidad y los demás que considere necesarios también en forma electrónica, manifestando bajo protesta de decir verdad que tales documentos son exactamente iguales a los originales que obran en su poder.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
 
 No será aplicable la firma electrónica en trámites que impliquen renuncia de acciones y/o derechos.
 
-###### Artículo 5o.
+###### ARTICULO 5º.
 
-El Comité Estatal deberá elaborar un plan de trabajo y un reglamento a la presente Ley, que someterá a la aprobación del Ejecutivo del Estado.
+Los actos administrativos de carácter general, tales como decretos, acuerdos, circulares y cualesquier otros de la misma naturaleza, deberán publicarse en el Periódico Oficial del Estado y en su caso en las Gacetas Municipales del Estado para que produzcan efectos jurídicos y los de carácter individual deberán publicarse en dicho órgano informativo cuando así lo establezcan las leyes.
 
-### CAPITULO III. MOVILIZACION DE GANADO
+Los instructivos, manuales y formatos que expidan las dependencias de las Administraciones Públicas Estatal y Municipales deberán publicarse previamente a su aplicación en el Periódico Oficial del Estado.
 
-###### Artículo 6o.
+### CAPITULO II. De la Eficacia del Acto Administrativo
 
-Los propietarios de más de 100 cabezas de ganado bovino, están obligados a construir tanques garrapaticidas para bañar su ganado, conforme al modelo aprobado por el Comité Estatal de Campaña.
+###### ARTICULO 6º.
 
-###### Artículo 7o.
+El acto administrativo será válido hasta en tanto su invalidez no haya sido declarada por autoridad administrativa o jurisdiccional, según sea el caso.
 
-Se faculta al Comité Estatal de la Campaña para establecer estaciones cuarentenarias en los lugares que estime adecuados.
+###### ARTICULO 7º.
 
-###### Artículo 8o.
+El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada.
 
-Para los efectos de la campaña contra la garrapata, los inspectores fiscales, inspectores de pieles y ganados, miembros de la Policía Rural dependientes del Gobierno del Estado, quedan bajo las órdenes del Comité de la Campaña.
+Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste al órgano administrativo que lo emitió desde la fecha en que se dictó o aquella que tenga señalada para iniciar su vigencia, así como los casos en virtud de los cuales se realicen actos de inspección investigación o vigilancia conforme a las disposiciones de ésta y otras leyes, los cuales son exigibles a partir de la fecha en que la administración Pública Estatal o Municipal los efectúe.
 
-### CAPITULO IV. SANCIONES
+###### ARTICULO 8º.
 
-###### Artículo 9o.
+Si el acto administrativo requiere aprobación de órganos o autoridades distintos del que lo emita, de conformidad a las disposiciones legales aplicables, no tendrá eficacia sino hasta en tanto aquella se produzca.
 
-Queda prohibido el traslado de ganado vacuno, equino y caprino, de zonas infestadas a zonas libres sin el certificado de la autoridad competente. Las zonas libres serán señaladas por el Comité Estatal de la campaña.
+### CAPITULO III. De la Extinción del Acto Administrativo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 9º.
+
+El Acto administrativo de carácter individual se extingue de pleno derecho, por cualquiera de las siguientes causas:
+
+I.- Cumplimiento de su finalidad;
+
+II.- Expiración del plazo;
+
+III.- Cuando la formación del acto administrativo esté sujeto a una condición o término suspensivo y éste no se realiza dentro del plazo señalado en el propio acto;
+
+IV.- La realización de la condición resolutoria;
+
+V.- Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+VI.- Por revocación determinada en la resolución de un recurso administrativo;
+
+VII.- La conclusión de su vigencia;
+
+VIII.- Por prescripción; y
+
+IX.- Por nulidad, declarada en la sentencia de un procedimiento judicial.
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -101,55 +181,83 @@ Queda prohibido el traslado de ganado vacuno, equino y caprino, de zonas infesta
 
 #### SECCION I
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Sin el certificado que al efecto expida el personal de la Campaña, no podrá pasar el ganado a zonas libres de garrapata.
+Las disposiciones de este título son aplicables a los actos a través de los cuales se desenvuelve la función administrativa estatal y municipal, cuando dichos actos produzcan efectos en la esfera jurídica de los particulares.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-Los Presidentes Municipales, los inspectores de pieles y ganados o los representantes de las Uniones y Asociaciones Ganaderas, están obligados a exigir la constancia de baño en todo el trayecto de tránsito de ganado.
+###### ARTICULO 11.
 
-###### Artículo 12.
+La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, audiencia, celeridad, eficiencia, legalidad, publicidad y buena fe. El procedimiento se tramitará preferentemente a través de medios electrónicos, como se establece en el siguiente artículo.
 
-Queda prohibida la entrada por cualquiera de los límites del Estado, de animales parasitados por garrapata.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-###### Artículo 13.
+###### ARTICULO 12.
 
-Los inspectores fiscales, los de pieles y ganados, los miembros de la Policía Rural, los del Comité que permitan el paso de animales sin la documentación respectiva , a parte de ser destituídos de su cargo, se harán acreedores de una multa de $ 50.00 a $ 5,000.00.
+El procedimiento administrativo podrá iniciarse de oficio o a petición de la parte interesada; ésta última podrá optar porque el procedimiento se tramite a través de medios electrónicos.
 
-###### Artículo 14.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
 
-Las personas físicas o morales que se dediquen a la cría, engorda o compra-venta de ganado, si no cumplen con las obligaciones establecidas por esta Ley serán sancionadas con una multa de $ 50.00 a $ 5,000.00
+###### ARTICULO 13.
 
-###### Artículo 15.
+Las administraciones Públicas Estatal y Municipales, no podrán exigir más formalidades que las expresamente previstas en la ley.
 
-Cuando en una zona libre se descubra la existencia de la garrapata, ya sea por denuncia pública o de parte interesada, se investigara su origen y se sancionará a la persona causante de la infestación, con una multa de $ 50.00 a $ 5,000.00
+El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos, salvo lo dispuesto en el Artículo 4º A.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+El promovente que hubiere optado porque el procedimiento se tramite a través de medios electrónicos, deberá señalarlo así en su escrito inicial, señalando igualmente su correo electrónico, en el que se le harán las notificaciones que sean necesarias en el procedimiento.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 14.
+
+Salvo que las leyes específicas establezcan un plazo menor, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda, transcurrido el cual sin que se notifique la resolución, a menos que la ley que rija la materia establezca lo contrario, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
+
+###### ARTICULO 15.
+
+Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente para proteger la salud y la seguridad públicas. Las medidas de seguridad se establecerán en cada caso por las leyes administrativas.
 
 #### SECCION II. De las Autoridades
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
-###### Artículo 16.
+###### ARTICULO 16.
 
-Las multas que establece esta Ley, serán impuestas por el Comité Estatal de la Campaña y su importe ingresará a su Tesorería, para ser destinado a sus gastos generales.
+Para efectos de esta ley deberá entenderse por autoridad administrativa toda dependencia o entidad de las Administraciones Públicas Centralizadas y Descentralizadas del Estado, de sus Municipios y otras personas, que estén facultados por los ordenamientos jurídicos para dictar, ordenar o ejecutar un acto administrativo; así como los funcionarios y servidores públicos de dichas administraciones, mediante los cuales se realicen los referidos actos administrativos.
 
-###### Artículo 17.
+###### ARTICULO 17.
 
-Las personas físicas o morales que en lo general no cumplan con lo dispuesto por esta Ley, serán acreedores a una multa de $ 50.00 a $ 10,000.00.
+Las autoridades de las Administraciones Públicas Estatal y Municipales, en sus relaciones con los particulares, tendrán las siguientes obligaciones:
 
-T R A N S I T O R I O
+I.- Solicitar la comparecencia de éstos, sólo cuando así esté previsto en la ley, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
-UNICO.- Esta Ley entrará en vigor el tercer día de su publicación en el Periódico Oficial del Estado y deroga todas las disposiciones que se opongan a ella.
+II.- Hacer del conocimiento de éstos, en cualquier momento, del estado de la tramitación de los procedimientos en los que tengan interés jurídico y proporcionar copia de los documentos contenidos en ellos;
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tamaulipas, a 13 de junio de 1974.- Diputado Presidente, Lic. EVEN GARZA MASCORRO; Diputado Secretario, BERNARDINO CANCHOLA HERRERA; Diputado Secretario, JUAN LEDEZMA ESCOBAR.- Rúbricas.
+III.- Hacer constar en las copias de los documentos que se presenten junto con los originales, la presentación de los mismos;
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+IV.- Admitir las pruebas permitidas por la ley y recibir alegatos, los que deberán ser tomados en cuenta por el órgano competente al dictar resolución;
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de junio de mil novecientos setenta y cuatro.
+V.- Abstenerse de requerir documentos o solicitar información que no sean exigidos por las normas aplicables al procedimiento, o que ya se encuentren en el expediente que se está tramitando;
 
-MANUEL A. RAVIZE.- Secretario General de Gobierno, Lic. MARIO GARZA RAMOS.- Rúbricas.
+VI.- Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales y vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
+
+VII.- Permitir el acceso a sus registros y archivos en los términos previstos en ésta y otras leyes;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Tratar con respeto a los particulares y facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Dictar resoluciones expresas sobre cuantas peticiones le formulen, así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+X.- Hacer saber a los particulares que estos pueden hacer uso de la firma y medios electrónicos en las solicitudes y trámites en que esta Ley lo permite y a su vez hacer uso de tales medios electrónicos y firma siempre que la naturaleza del trámite lo permita.
 
 #### SECCION III. De los Interesados
 
@@ -163,7 +271,9 @@ Los interesados con capacidad de ejercicio podrán actuar por sí o por medio de
 
 En los procedimientos administrativos no procederá la gestión de negocios.
 
-La representación de las personas físicas o morales ante las Administraciones Públicas Estatal y Municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse mediante instrumento público. En el caso de personas físicas, también podrá hacerlo mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+La representación de las personas físicas o morales ante las Administraciones Públicas Estatal y Municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse en los términos que lo establezca el Código Civil del Estado. En el caso de personas físicas, también podrá hacerlo mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público.
 
 Sin perjuicio de lo anterior, el interesado o su representante legal, mediante escrito firmado, podrá autorizar a la persona o personas que estime pertinente para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fueren necesarios para la tramitación de tal procedimiento.
 
@@ -173,31 +283,57 @@ Cuando en una solicitud, escrito o comunicación fungieren varios interesados, l
 
 #### SECCION IV. Del Acceso a la Documentación e Información
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 21.
 
-Los interesados en un procedimiento administrativo tendrán derecho de conocer en cualquier momento, el estado de su tramitación, recabando la oportuna información en las oficinas correspondientes, salvo cuando contengan información sobre la defensa y seguridad nacional, sean relativos a materias protegidas por el secreto comercial o industrial, y en los que el interesado no sea titular o causahabiente.
+Las partes en un procedimiento administrativo tendrán derecho de conocer en cualquier momento, el estado de su tramitación, recabando la oportuna información en las oficinas correspondientes, salvo cuando contengan información sobre la defensa y seguridad nacional, sean relativos a materias protegidas por el secreto comercial o industrial, y en los que el interesado no sea titular o causahabiente.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 22.
 
-Los interesados podrán solicitar les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en el que se actúa, salvo en los casos a que se refiere el artículo anterior.
+Las partes podrán, previo el pago de los derechos correspondientes, solicitar les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en el que se actúa, salvo en los casos a que se refiere el artículo anterior. Las copias de referencia se podrán expedir en forma electrónica que ostente la firma y el sello electrónico de la Autoridad Administrativa.
 
 #### SECCION V. De los Requisitos de las Promociones
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Las promociones deberán hacerse por escrito o por medio de comunicación electrónica, en ambos casos se precisará el nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, lo (sic) hechos o razones que dan motivo a la petición, el órgano administrativo a que se dirigen, lugar y fecha de su emisión, el escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital, salvo que se utilice la firma electrónica, lo que se hará cumpliendo con los requisitos del Artículo 4º A.
+Las promociones deberán hacerse por escrito autógrafamente firmado o por medio de comunicación electrónica con firma electrónica; en ambos casos deberán expresar:
+
+a) El nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal;
+
+b) Domicilio para recibir notificaciones y en su caso correo electrónico para recibirlas;
+
+c) En su caso nombre de la persona o personas autorizadas para recibirlas;
+
+d) La autoridad u órgano administrativo a quien se dirige;
+
+e) La petición concreta que se hace a la Autoridad;
+
+f) Lugar y fecha;
+
+g) En su caso con la firma del autorizado o su representante legal;
+
+h) La huella digital cuando el interesado no sepa o no pueda firmar;
+
+i) En su caso la firma electrónica certificada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 24.
 
-Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el artículo anterior, la autoridad competente prevendrá por escrito y por una sola vez al interesado o, en su caso, al representante legal, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane, la falta. En el supuesto de que en el término señalado no se subsane la irregularidad, la autoridad competente resolverá que se tiene por no presentada dicha solicitud.
+Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el Artículo anterior, la autoridad competente prevendrá por una sola vez al interesado o, en su caso, al representante legal, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane la falta. En el supuesto de que en el término señalado no se subsane la irregularidad, la autoridad competente resolverá que se tiene por no presentada dicha solicitud.
 
 Contra el desechamiento o la negativa de dar trámite a las solicitudes o promociones, procederá el recurso de revisión.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 25.
 
-En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas autorizadas previamente y publicadas en los términos de esta ley; las cuales serán distribuidas gratuitamente por las dependencias y entidades de la Administración Pública del Estado y de sus Municipios.
+En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas o precodificadas autorizadas previamente y publicadas en los términos de esta ley; las cuales serán proporcionados (sic) gratuitamente por las dependencias y entidades de la Administración Pública del Estado y de sus Municipios.
 
 #### SECCION VI. Impedimentos, Excusas y Recusaciones
 
@@ -251,7 +387,9 @@ Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaci
 
 Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
 
-En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles: los sábados, los domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. y 5 de mayo, 16 de septiembre, 20 de noviembre, 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquéllos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia respectiva, que se publicarán en el Periódico Oficial del Estado y en su caso, en las Gacetas Municipales del mismo.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles: los sábados y los domingos, el 1° de enero, 1° y 5 de mayo, 16 de septiembre, 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que se suspendan las labores en sustitución de los días festivos 5 de Febrero, 21 de Marzo y 20 de Noviembre, los días en que tengan vacaciones generales las autoridades competentes o aquéllos en que se suspendan por cualquier otro motivo las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia respectiva, que se publicarán en el Periódico Oficial del Estado y en su caso, en las Gacetas Municipales del mismo.
 
 La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
 
@@ -307,6 +445,10 @@ Si la persona a quien haya de notificarse no atendiere el citatorio, la notifica
 
 Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar. Dichas publicaciones deberán efectuarse por dos veces consecutivas en el Periódico Oficial del Estado de Aguascalientes y en uno de los diarios de mayor circulación en el mismo Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En lo que se refiere a las notificaciones mediante correo electrónico, se practicarán observando los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+
 ###### ARTICULO 40.
 
 Las notificaciones personales surtirán sus efectos el día en que hubieran sido realizadas.
@@ -333,6 +475,14 @@ Toda notificación deberá efectuarse en el plazo máximo de 10 días, a partir 
 
 Los escritos dirigidos a las Administraciones Públicas Estatal y Municipal, deberán presentarse directamente en sus oficinas autorizadas para tales efectos siempre que se trate del escrito inicial de cualquier procedimiento o instancia; las demás promociones podrán presentarse a través de las oficinas de correos, telégrafo, mensajería, telefax o cualquier medio de comunicación electrónica.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Cuando un escrito sea presentado ante un órgano incompetente, dicho órgano remitirá la promoción al que sea competente en el plazo de 5 días. En tal caso, se tendrá como fecha de presentación la del acuse de recibo del órgano incompetente.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Los escritos recibidos por correo certificado, con acuse de recibo se considerarán presentados en las fechas que indique el sello fechador de la oficina de correos, excepto en los casos de que hubieren sido dirigidos a una Autoridad que resulte incompetente. Para tal efecto, se agregará al expediente el sobre sin destruir en donde aparezca el sello fechador y cuando así proceda se estará a lo dispuesto en el párrafo anterior.
+
 ###### ARTICULO 43.
 
 En ningún caso se podrán rechazar los escritos en las unidades de recepción de documentos.
@@ -354,6 +504,10 @@ Los titulares de los órganos administrativos ante quienes se inicie o se tramit
 En el despacho de los expedientes se guardará y respetará el orden riguroso de tramitación en los asuntos de la misma naturaleza; la alteración del orden sólo podrá realizarse cuando exista causa debidamente fundada y motivada de la que quede constancia.
 
 El incumplimiento a lo dispuesto en el párrafo anterior, será causa de responsabilidad del servidor público infractor, conforme a la ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+La Autoridad administrativa podrá usar la tramitación a través de medios electrónicos, cuando no exista inconveniente para ello y los gobernados podrán optar por tales medios si a sus intereses conviene.
 
 ###### ARTICULO 47.
 
@@ -601,9 +755,11 @@ El plazo para interponer el recurso de revisión será de 15 días contados a pa
 
 #### SECCION II. Tramitación del Recurso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 84.
 
-El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado, debiendo expresar;
+El escrito de interposición del recurso de revisión o el mensaje de datos electrónico que lo contenga deberá presentarse o remitirse ante la autoridad que emitió el acto impugnado, debiendo expresar:
 
 I.- El órgano administrativo a quien se dirige;
 
@@ -621,11 +777,21 @@ El recurrente deberá acompañar a su escrito:
 
 I.- El documento que acredite su personalidad cuando actúe a nombre de otro o de personas morales o aquél en el que conste que dicha personalidad le hubiere sido reconocida por la autoridad que emitió el acto o resolución que se impugne.
 
-II.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y
+II.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y (sic)
 
 III.- Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente.
 
-Cuando no se acompañe alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente dentro del término de cinco días, si no cumple en el término y se trata de la documentación señaladas en las fracciones I y II, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a la fracción III, se tendrán por no ofrecidas las mismas.
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+V.- Si el recurso se ha interpuesto a través de medios electrónicos, los documentos y pruebas antes mencionadas se exhibirán en copia en la que conste firma y sello electrónico de la Autoridad que la haya expedido.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Cuando no se acompañe o exhiba alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente o exhiba dentro del término de cinco días, si no cumple en el término y se trata de la documentación señalada en las Fracciones I, II y IV, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a la Fracción III, se tendrán por no ofrecidas las mismas.
 
 ###### ARTICULO 86.
 
@@ -645,7 +811,7 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 #### SECCION III. De la Resolución del Recurso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 87.
 
@@ -813,7 +979,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 28 DE JUNIO DE 2004.
 
@@ -824,3 +990,19 @@ P.O. 6 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a la presente reforma.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
