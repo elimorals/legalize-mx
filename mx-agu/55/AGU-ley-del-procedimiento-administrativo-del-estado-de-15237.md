@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2011-10-17"
+last_updated: "2013-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
@@ -43,7 +43,7 @@ LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -51,7 +51,7 @@ LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones de esta ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de las Administraciones Públicas centralizadas y descentralizadas del Estado de Aguascalientes, de los Municipios que lo integran, y de otras personas, cuando éstas actúen como autoridades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -71,7 +71,7 @@ La presente ley se aplicará supletoriamente a las diversas leyes que regulan la
 
 ### CAPITULO I. Del Acto Administrativo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -89,7 +89,9 @@ II.- Tener objeto que pueda ser materia del mismo; determinado o determinable; p
 
 III.- Cumplir con la finalidad de interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
 
-IV.- Constar por escrito y con la firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición, y siempre y cuando la naturaleza del acto requiera una forma distinta de manifestación;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Constar por escrito y con la firma autógrafa o electrónica certificada de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición, y siempre y cuando la naturaleza del acto requiera una forma distinta de manifestación;
 
 V.- Estar fundado y motivado debidamente;
 
@@ -113,11 +115,13 @@ XIII.- Tratándose de actos administrativos recurribles deberá hacerse mención
 
 XIV.- Ser expedido señalando lugar y fecha de emisión.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 4-A.
 
-Las dependencias y entidades de la Administración Pública podrán recibir las solicitudes que en términos de ley, los particulares presenten por escrito, sin perjuicio que dichos documentos puedan ser presentados a través de medios de comunicación electrónica; en estos casos se podrá emplear en sustitución de la firma autógrafa la firma electrónica, a cuyo efecto las dependencias y entidades crearán un registro de personas acreditadas para realizar trámites ante aquellas, asignando para ello al interesado un número o clave de identificación que operará como firma electrónica y que sustituirá a la firma autógrafa, de modo que al citar dicho número o clave en los trámites subsecuentes que realice el interesado, no requerirá asentar los datos ni acompañar los documentos mencionados en el Artículo 13, sino únicamente el órgano o autoridad a quien se dirige el tramite, la petición a quien se formula, los hechos y razones que dan motivo a la petición, y el lugar y fecha de emisión del escrito. El número o clave de identificación se conformará en los términos que establezca cada dependencia o entidad.
+Las dependencias y entidades de la Administración Pública podrán recibir las solicitudes que en términos de ley, los particulares presenten por escrito, sin perjuicio que dichas solicitudes y documentos puedan ser presentadas a través de medios electrónicos; en estos casos se podrá emplear en sustitución de la firma autógrafa la firma electrónica certificada, en los términos y condiciones que lo permite la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes; en este caso podrá adjuntar los documentos que acrediten su personalidad y los demás que considere necesarios también en forma electrónica, manifestando bajo protesta de decir verdad que tales documentos son exactamente iguales a los originales que obran en su poder.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
 
 No será aplicable la firma electrónica en trámites que impliquen renuncia de acciones y/o derechos.
 
@@ -145,7 +149,7 @@ Si el acto administrativo requiere aprobación de órganos o autoridades distint
 
 ### CAPITULO III. De la Extinción del Acto Administrativo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 9º.
 
@@ -181,13 +185,17 @@ IX.- Por nulidad, declarada en la sentencia de un procedimiento judicial.
 
 Las disposiciones de este título son aplicables a los actos a través de los cuales se desenvuelve la función administrativa estatal y municipal, cuando dichos actos produzcan efectos en la esfera jurídica de los particulares.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 11.
 
-La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, audiencia, celeridad, eficiencia, legalidad, publicidad y buena fe.
+La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, audiencia, celeridad, eficiencia, legalidad, publicidad y buena fe. El procedimiento se tramitará preferentemente a través de medios electrónicos, como se establece en el siguiente artículo.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 12.
 
-El procedimiento administrativo podrá iniciarse de oficio o a petición de la parte interesada.
+El procedimiento administrativo podrá iniciarse de oficio o a petición de la parte interesada; ésta última podrá optar porque el procedimiento se tramite a través de medios electrónicos.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
 
@@ -197,9 +205,15 @@ Las administraciones Públicas Estatal y Municipales, no podrán exigir más for
 
 El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos, salvo lo dispuesto en el Artículo 4º A.
 
-###### ARTICULO 14.
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-Salvo que las leyes específicas establezcan un plazo menor, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda, transcurrido el cual sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
+El promovente que hubiere optado porque el procedimiento se tramite a través de medios electrónicos, deberá señalarlo así en su escrito inicial, señalando igualmente su correo electrónico, en el que se le harán las notificaciones que sean necesarias en el procedimiento.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 14.
+
+Salvo que las leyes específicas establezcan un plazo menor, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda, transcurrido el cual sin que se notifique la resolución, a menos que la ley que rija la materia establezca lo contrario, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
 
 ###### ARTICULO 15.
 
@@ -207,7 +221,7 @@ Se consideran medidas de seguridad las disposiciones que dicte la autoridad comp
 
 #### SECCION II. De las Autoridades
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -233,9 +247,17 @@ VI.- Proporcionar información y orientar acerca de los requisitos jurídicos o 
 
 VII.- Permitir el acceso a sus registros y archivos en los términos previstos en ésta y otras leyes;
 
-VIII.- Tratar con respeto a los particulares y facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-IX.- Dictar resoluciones expresas sobre cuantas peticiones le formulen, así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley.
+VIII.- Tratar con respeto a los particulares y facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Dictar resoluciones expresas sobre cuantas peticiones le formulen, así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+X.- Hacer saber a los particulares que estos pueden hacer uso de la firma y medios electrónicos en las solicitudes y trámites en que esta Ley lo permite y a su vez hacer uso de tales medios electrónicos y firma siempre que la naturaleza del trámite lo permita.
 
 #### SECCION III. De los Interesados
 
@@ -249,7 +271,9 @@ Los interesados con capacidad de ejercicio podrán actuar por sí o por medio de
 
 En los procedimientos administrativos no procederá la gestión de negocios.
 
-La representación de las personas físicas o morales ante las Administraciones Públicas Estatal y Municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse mediante instrumento público. En el caso de personas físicas, también podrá hacerlo mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+La representación de las personas físicas o morales ante las Administraciones Públicas Estatal y Municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá acreditarse en los términos que lo establezca el Código Civil del Estado. En el caso de personas físicas, también podrá hacerlo mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las propias autoridades o fedatario público.
 
 Sin perjuicio de lo anterior, el interesado o su representante legal, mediante escrito firmado, podrá autorizar a la persona o personas que estime pertinente para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fueren necesarios para la tramitación de tal procedimiento.
 
@@ -259,31 +283,57 @@ Cuando en una solicitud, escrito o comunicación fungieren varios interesados, l
 
 #### SECCION IV. Del Acceso a la Documentación e Información
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 21.
 
-Los interesados en un procedimiento administrativo tendrán derecho de conocer en cualquier momento, el estado de su tramitación, recabando la oportuna información en las oficinas correspondientes, salvo cuando contengan información sobre la defensa y seguridad nacional, sean relativos a materias protegidas por el secreto comercial o industrial, y en los que el interesado no sea titular o causahabiente.
+Las partes en un procedimiento administrativo tendrán derecho de conocer en cualquier momento, el estado de su tramitación, recabando la oportuna información en las oficinas correspondientes, salvo cuando contengan información sobre la defensa y seguridad nacional, sean relativos a materias protegidas por el secreto comercial o industrial, y en los que el interesado no sea titular o causahabiente.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 22.
 
-Los interesados podrán solicitar les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en el que se actúa, salvo en los casos a que se refiere el artículo anterior.
+Las partes podrán, previo el pago de los derechos correspondientes, solicitar les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en el que se actúa, salvo en los casos a que se refiere el artículo anterior. Las copias de referencia se podrán expedir en forma electrónica que ostente la firma y el sello electrónico de la Autoridad Administrativa.
 
 #### SECCION V. De los Requisitos de las Promociones
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Las promociones deberán hacerse por escrito o por medio de comunicación electrónica, en ambos casos se precisará el nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, lo (sic) hechos o razones que dan motivo a la petición, el órgano administrativo a que se dirigen, lugar y fecha de su emisión, el escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital, salvo que se utilice la firma electrónica, lo que se hará cumpliendo con los requisitos del Artículo 4º A.
+Las promociones deberán hacerse por escrito autógrafamente firmado o por medio de comunicación electrónica con firma electrónica; en ambos casos deberán expresar:
+
+a) El nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal;
+
+b) Domicilio para recibir notificaciones y en su caso correo electrónico para recibirlas;
+
+c) En su caso nombre de la persona o personas autorizadas para recibirlas;
+
+d) La autoridad u órgano administrativo a quien se dirige;
+
+e) La petición concreta que se hace a la Autoridad;
+
+f) Lugar y fecha;
+
+g) En su caso con la firma del autorizado o su representante legal;
+
+h) La huella digital cuando el interesado no sepa o no pueda firmar;
+
+i) En su caso la firma electrónica certificada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 24.
 
-Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el artículo anterior, la autoridad competente prevendrá por escrito y por una sola vez al interesado o, en su caso, al representante legal, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane, la falta. En el supuesto de que en el término señalado no se subsane la irregularidad, la autoridad competente resolverá que se tiene por no presentada dicha solicitud.
+Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el Artículo anterior, la autoridad competente prevendrá por una sola vez al interesado o, en su caso, al representante legal, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane la falta. En el supuesto de que en el término señalado no se subsane la irregularidad, la autoridad competente resolverá que se tiene por no presentada dicha solicitud.
 
 Contra el desechamiento o la negativa de dar trámite a las solicitudes o promociones, procederá el recurso de revisión.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 25.
 
-En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas autorizadas previamente y publicadas en los términos de esta ley; las cuales serán distribuidas gratuitamente por las dependencias y entidades de la Administración Pública del Estado y de sus Municipios.
+En las promociones, actuaciones y resoluciones del procedimiento administrativo podrán utilizarse formas impresas o precodificadas autorizadas previamente y publicadas en los términos de esta ley; las cuales serán proporcionados (sic) gratuitamente por las dependencias y entidades de la Administración Pública del Estado y de sus Municipios.
 
 #### SECCION VI. Impedimentos, Excusas y Recusaciones
 
@@ -337,7 +387,9 @@ Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaci
 
 Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
 
-En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles: los sábados, los domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. y 5 de mayo, 16 de septiembre, 20 de noviembre, 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquéllos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia respectiva, que se publicarán en el Periódico Oficial del Estado y en su caso, en las Gacetas Municipales del mismo.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles: los sábados y los domingos, el 1° de enero, 1° y 5 de mayo, 16 de septiembre, 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y el 25 de diciembre, así como los días en que se suspendan las labores en sustitución de los días festivos 5 de Febrero, 21 de Marzo y 20 de Noviembre, los días en que tengan vacaciones generales las autoridades competentes o aquéllos en que se suspendan por cualquier otro motivo las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia respectiva, que se publicarán en el Periódico Oficial del Estado y en su caso, en las Gacetas Municipales del mismo.
 
 La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
 
@@ -393,6 +445,10 @@ Si la persona a quien haya de notificarse no atendiere el citatorio, la notifica
 
 Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar. Dichas publicaciones deberán efectuarse por dos veces consecutivas en el Periódico Oficial del Estado de Aguascalientes y en uno de los diarios de mayor circulación en el mismo Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+En lo que se refiere a las notificaciones mediante correo electrónico, se practicarán observando los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+
 ###### ARTICULO 40.
 
 Las notificaciones personales surtirán sus efectos el día en que hubieran sido realizadas.
@@ -419,6 +475,14 @@ Toda notificación deberá efectuarse en el plazo máximo de 10 días, a partir 
 
 Los escritos dirigidos a las Administraciones Públicas Estatal y Municipal, deberán presentarse directamente en sus oficinas autorizadas para tales efectos siempre que se trate del escrito inicial de cualquier procedimiento o instancia; las demás promociones podrán presentarse a través de las oficinas de correos, telégrafo, mensajería, telefax o cualquier medio de comunicación electrónica.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Cuando un escrito sea presentado ante un órgano incompetente, dicho órgano remitirá la promoción al que sea competente en el plazo de 5 días. En tal caso, se tendrá como fecha de presentación la del acuse de recibo del órgano incompetente.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Los escritos recibidos por correo certificado, con acuse de recibo se considerarán presentados en las fechas que indique el sello fechador de la oficina de correos, excepto en los casos de que hubieren sido dirigidos a una Autoridad que resulte incompetente. Para tal efecto, se agregará al expediente el sobre sin destruir en donde aparezca el sello fechador y cuando así proceda se estará a lo dispuesto en el párrafo anterior.
+
 ###### ARTICULO 43.
 
 En ningún caso se podrán rechazar los escritos en las unidades de recepción de documentos.
@@ -440,6 +504,10 @@ Los titulares de los órganos administrativos ante quienes se inicie o se tramit
 En el despacho de los expedientes se guardará y respetará el orden riguroso de tramitación en los asuntos de la misma naturaleza; la alteración del orden sólo podrá realizarse cuando exista causa debidamente fundada y motivada de la que quede constancia.
 
 El incumplimiento a lo dispuesto en el párrafo anterior, será causa de responsabilidad del servidor público infractor, conforme a la ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+La Autoridad administrativa podrá usar la tramitación a través de medios electrónicos, cuando no exista inconveniente para ello y los gobernados podrán optar por tales medios si a sus intereses conviene.
 
 ###### ARTICULO 47.
 
@@ -687,9 +755,11 @@ El plazo para interponer el recurso de revisión será de 15 días contados a pa
 
 #### SECCION II. Tramitación del Recurso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 84.
 
-El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad que emitió el acto impugnado, debiendo expresar;
+El escrito de interposición del recurso de revisión o el mensaje de datos electrónico que lo contenga deberá presentarse o remitirse ante la autoridad que emitió el acto impugnado, debiendo expresar:
 
 I.- El órgano administrativo a quien se dirige;
 
@@ -707,11 +777,21 @@ El recurrente deberá acompañar a su escrito:
 
 I.- El documento que acredite su personalidad cuando actúe a nombre de otro o de personas morales o aquél en el que conste que dicha personalidad le hubiere sido reconocida por la autoridad que emitió el acto o resolución que se impugne.
 
-II.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y
+II.- En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente. Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y (sic)
 
 III.- Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente.
 
-Cuando no se acompañe alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente dentro del término de cinco días, si no cumple en el término y se trata de la documentación señaladas en las fracciones I y II, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a la fracción III, se tendrán por no ofrecidas las mismas.
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento, o del documento sobre el cual no hubiere recaído resolución alguna; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+V.- Si el recurso se ha interpuesto a través de medios electrónicos, los documentos y pruebas antes mencionadas se exhibirán en copia en la que conste firma y sello electrónico de la Autoridad que la haya expedido.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+
+Cuando no se acompañe o exhiba alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente o exhiba dentro del término de cinco días, si no cumple en el término y se trata de la documentación señalada en las Fracciones I, II y IV, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a la Fracción III, se tendrán por no ofrecidas las mismas.
 
 ###### ARTICULO 86.
 
@@ -731,7 +811,7 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 #### SECCION III. De la Resolución del Recurso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 87.
 
@@ -899,7 +979,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 28 DE JUNIO DE 2004.
 
@@ -920,3 +1000,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan a la presente reforma.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
