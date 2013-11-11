@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-08-21"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -85,7 +85,9 @@ XI. Reglamento: El presente Reglamento Interior;
 
 XII. Reglamento de Transparencia: El Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa para dar cumplimiento con lo establecido en el artículo 61 de la Ley de Transparencia;
 
-XIII. Revista: El medio de comunicación, ya sea electrónico o impreso, a través del cual se dan a conocer los precedentes, tesis o jurisprudencias emitidos por el Pleno Jurisdiccional de la Sala Superior, las Secciones o las Salas Regionales, Especializadas o Auxiliares del Tribunal;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Revista: El medio de comunicación, ya sea electrónico o impreso, a través del cual se dan a conocer las jurisprudencias, los precedentes o las tesis aisladas, emitidos por el Pleno Jurisdiccional de la Sala Superior o las Secciones, así como, los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal;
 
 XIV. Salas Auxiliares: Las Salas Regionales a que se refiere el artículo 38 Bis de la Ley;
 
@@ -335,7 +337,9 @@ Para el ejercicio de sus funciones, el Presidente contará con las unidades admi
 
 Para el cumplimiento de las funciones conferidas en el artículo 47 de la Ley, corresponde al Secretario General de Acuerdos:
 
-I. Tramitar en la Revista la publicación, de los acuerdos, resoluciones, tesis o jurisprudencias que correspondan y en el Diario Oficial de la Federación cuando así se requiera;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+I. Tramitar la publicación en la Revista de este Tribunal y en el Diario Oficial de la Federación cuando así se requiera, de los acuerdos, resoluciones, jurisprudencias, precedentes o tesis aisladas, emitidos por el Pleno de la Sala Superior o las Secciones, así como, los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal;
 
 II. Elaborar el informe estadístico mensual y anual de los juicios promovidos ante el Pleno Jurisdiccional de la Sala Superior;
 
@@ -457,9 +461,13 @@ e) Elaborar el oficio de publicación y someterlo a la firma del Secretario Gene
 
 f) Registrar en la base de datos, la información de las tesis, precedentes, reiteraciones y jurisprudencias, aprobadas por el Pleno Jurisdiccional de la Sala Superior o las Secciones, en las que deben aparecer los datos de identificación relativos, así como los datos de la Revista en que fueron publicados cada uno de ellos;
 
-II. Respecto a las tesis aprobadas por las Salas Regionales:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
 
-a) Corroborar que las tesis propuestas por las Salas Regionales, reúnan los requisitos necesarios para su publicación en la Revista, tales como:
+II. Respecto a los criterios aislados emitidos por las Salas Regionales, Especializadas y Auxiliares, enviados para su publicación en la Revista:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+a) Corroborar que los criterios aislados propuestos, reúnan los requisitos necesarios para su publicación, tales como:
 
 1. Contener un rubro, un texto, datos de identificación del juicio correspondiente y, en su caso, los precedentes respectivos;
 
@@ -471,19 +479,29 @@ a) Corroborar que las tesis propuestas por las Salas Regionales, reúnan los req
 
 5. No contener datos particulares (nombres, cantidades, objetos, etc.), y
 
-6. El texto de la tesis debe corresponder a lo resuelto en la sentencia respectiva.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
 
-b) Revisar la redacción de las tesis y el cumplimiento de los requisitos señalados en el inciso anterior y en caso de duda, informar al Presidente de la Sala proponente del texto, para someter a su consideración y aprobación la corrección que se sugiera;
+6. El texto del criterio aislado debe corresponder a lo resuelto en la sentencia respectiva.
 
-c) Revisar que los datos de identificación de la tesis contengan el número del expediente, nombre del actor, fecha de la sentencia, votación recaída a la misma y los nombres del Magistrado Instructor y del Secretario de Acuerdos;
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
 
-d) Verificar que a las tesis propuestas por las Salas Regionales acompañen la copia certificada de la sentencia correspondiente, en su caso el voto particular respectivo, así como una versión en disco de la tesis, sentencia y voto particular;
+b) Revisar la redacción del criterio aislado, verificando el cumplimiento de los requisitos señalados en el inciso anterior y, en caso de duda, informar al Presidente de la Sala proponente del texto, para someter a consideración y aprobación de los integrantes de la misma, la adecuación que se sugiera;
 
-> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
 
-e) Elaborar el oficio de publicación y someterlo a la firma del Secretario General de Acuerdos o en su caso al Secretario Adjunto de Acuerdos de la Sección que corresponda, para enviar las tesis aprobadas por la Sala Regional, con la correspondiente documentación a la Dirección de Difusión, y
+c) Revisar que en los datos de identificación del criterio aislado se contenga el número del expediente, nombre del actor, Sala de origen, fecha y votación de la sentencia, nombre del Magistrado Instructor y del Secretario de Acuerdos;
 
-f) Registrar en la base de datos respectiva, la información de las tesis que deban ser publicadas debidamente clasificadas por su materia y naturaleza;
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+d) Verificar que a los criterios aislados se acompañe la copia certificada de la sentencia correspondiente y, en su caso, el voto particular respectivo, así como los archivos electrónicos de tales documentos, incluyendo el del criterio;
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+e) Elaborar el oficio de publicación respectivo y someterlo a la firma del Secretario General de Acuerdos, para enviar el criterio aislado con la correspondiente documentación a la Dirección de Difusión, y
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+f) Registrar por materia y origen la información de los criterios aislados que se publicarán.
 
 III. Asistir a las sesiones del Pleno Jurisdiccional de la Sala Superior y de las Secciones con la información sobre las tesis, precedentes y jurisprudencias que deban ser reiteradas, o en su caso aplicadas, al resolver recursos, incidentes, quejas o juicios de los cuales se den cuenta en las sesiones correspondientes;
 
@@ -561,13 +579,13 @@ XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas... (sic)
 
 En las regiones señaladas en el artículo anterior, la sede, denominación y el número de Salas Regionales, serán las siguientes:
 
-I. Región del Noroeste I: Dos Salas que se denominarán, "Primera Sala Regional del Noroeste I" y "Segunda Sala Regional del Noroeste I", con sede en la Ciudad de Tijuana, Estado de Baja California;
+I. Región del Noroeste I: Dos Salas que se denominarán, “Primera Sala Regional del Noroeste I” y “Segunda Sala Regional del Noroeste I”, con sede en la Ciudad de Tijuana, Estado de Baja California;
 
-II. Región del Noroeste II: Una Sala que se denominará "Sala Regional del Noroeste II", con sede en Ciudad Obregón, Estado de Sonora;
+II. Región del Noroeste II: Una Sala que se denominará “Sala Regional del Noroeste II”, con sede en Ciudad Obregón, Estado de Sonora;
 
-III. Región del Noroeste III: Una Sala que se denominará "Sala Regional del Noroeste III", con sede en la Ciudad de Culiacán, Estado de Sinaloa;
+III. Región del Noroeste III: Una Sala que se denominará “Sala Regional del Noroeste III”, con sede en la Ciudad de Culiacán, Estado de Sinaloa;
 
-IV. Región del Norte-Centro I: Una Sala que se denominará "Sala Regional del Norte-Centro I", con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
+IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del Norte-Centro I”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -579,17 +597,17 @@ V. Región del Norte-Centro II: Dos Salas que se denominarán, "Primera Sala Reg
 
 > <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
 
-VI. Región del Noreste: Tres Salas que se denominarán, "Primera Sala Regional del Noreste", "Segunda Sala Regional del Noreste", y "Tercera Sala Regional del Noreste", todas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
+VI. Región del Noreste: Tres Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, y “Tercera Sala Regional del Noreste”, todas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
 
-VII. Región de Occidente: Tres Salas que se denominarán, "Primera Sala Regional de Occidente", "Segunda Sala Regional de Occidente" y "Tercera Sala Regional de Occidente", todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
+VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
-VIII. Región del Centro I: Una Sala que se denominará "Sala Regional del Centro I", con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
+VIII. Región del Centro I: Una Sala que se denominará “Sala Regional del Centro I”, con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
 
-IX. Región del Centro II: Una Sala que se denominará "Sala Regional del Centro II", con sede en la Ciudad de Querétaro, Estado de Querétaro;
+IX. Región del Centro II: Una Sala que se denominará “Sala Regional del Centro II”, con sede en la Ciudad de Querétaro, Estado de Querétaro;
 
-X. Región del Centro III: Una Sala que se denominará "Sala Regional del Centro III", con sede en la Ciudad de Celaya, Estado de Guanajuato;
+X. Región del Centro III: Una Sala que se denominará “Sala Regional del Centro III”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
 
-XI. Región Hidalgo-México: Tres Salas que se denominarán, "Primera Sala Regional Hidalgo-México", "Segunda Sala Regional Hidalgo-México" y "Tercera Sala Regional Hidalgo-México", con sede en Tlalnepantla, Estado de México;
+XI. Región Hidalgo-México: Tres Salas que se denominarán, “Primera Sala Regional Hidalgo-México”, “Segunda Sala Regional Hidalgo-México” y “Tercera Sala Regional Hidalgo-México”, con sede en Tlalnepantla, Estado de México;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -599,27 +617,27 @@ XII. Región de Oriente: Una Sala que se denominará, "Sala Regional de Oriente"
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
-XIII. Región del Golfo: Una Sala que se denominará "Sala Regional del Golfo", con sede en la Ciudad de Jalapa, Estado de Veracruz;
+XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la Ciudad de Jalapa, Estado de Veracruz;
 
-XIV. Región del Pacífico: Una Sala que se denominará "Sala Regional del Pacífico", con sede en la Ciudad de Acapulco, Estado de Guerrero;
+XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
-XV. Región del Sureste: Una Sala que se denominará "Sala Regional del Sureste", con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
+XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Sureste”, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
 
-XVI. Región Peninsular: Una Sala que se denominará "Sala Regional Peninsular", con sede en la Ciudad de Mérida, Estado de Yucatán;
+XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-XVII. Región Metropolitana: Once Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", "Cuarta Sala Regional Metropolitana", "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana" y "Décimo Primera Sala Regional Metropolitana", todas con sede en la Ciudad de México, Distrito Federal;
+XVII. Región Metropolitana: Once Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana” y “Décimo Primera Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal;
 
-XVIII. Región del Golfo-Norte: Una Sala que se denominará "Sala Regional del Golfo-Norte", con sede en Ciudad Victoria, Estado de Tamaulipas;
+XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
 
-XIX. Región Chiapas-Tabasco: Una Sala que se denominará "Sala Regional Chiapas-Tabasco", con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
+XIX. Región Chiapas-Tabasco: Una Sala que se denominará “Sala Regional Chiapas-Tabasco”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
-XX. Región del Caribe: Una Sala que se denominará "Sala Regional del Caribe", con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y (sic)
+XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, y (sic)
 
-XXI. Región del Pacífico-Centro: Una Sala que se denominará "Sala Regional del Pacífico-Centro", con sede en la ciudad de Morelia, Estado de Michoacán.
+XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán.
 
 > <small>(ADICIONADA, D.O.F. 8 DE ENERO DE 2013)</small>
 
@@ -627,7 +645,7 @@ XXII. Región del Norte-Centro III: una Sala que se denominará "Sala Regional d
 
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
-XXIII. Región del Norte-Centro IV: una Sala que se denominará "Sala Regional del Norte-Centro IV", con sede en la ciudad de Zacatecas, Estado de Zacatecas.
+XXIII. Región del Norte-Centro IV: una Sala que se denominará “Sala Regional del Norte-Centro IV”, con sede en la ciudad de Zacatecas, Estado de Zacatecas.
 
 > <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
@@ -871,7 +889,9 @@ I. Recibir las demandas, promociones, oficios, demandas de amparo y revisiones r
 
 II. Dar cuenta al Magistrado Instructor de todos los escritos, promociones, oficios y demás documentos relacionados con los juicios a su cargo, a más tardar al día siguiente de su recepción;
 
-III. Elaborar los acuerdos, proyectos de resolución, engroses, tesis y oficios que requiera la instrucción de los juicios a su cargo;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+III. Elaborar los acuerdos, proyectos de resolución, engroses, criterios aislados y oficios que requiera la instrucción y resolución de los juicios a su cargo;
 
 > <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -1581,7 +1601,9 @@ III. La Comisión de Transparencia y Acceso a la Información, como instancia in
 
 Para el acceso y rectificación de datos personales, se aplicarán las reglas establecidas por los artículos 24 y 25 de la Ley de la materia.
 
-En todo caso, en los asuntos de la competencia del Tribunal, en el primer acuerdo que se dicte en el juicio, deberá señalarse a las partes, el derecho que les asiste para oponerse por escrito, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la omisión, en el plazo correspondiente, significa su oposición para que la sentencia respectiva o las tesis o precedentes que se formulen y publiquen, se realicen incluyendo los referidos datos personales.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2013)</small>
+
+En todo caso, en los asuntos de la competencia del Tribunal, en el primer acuerdo que se dicte en el juicio, deberá señalarse a las partes, el derecho que les asiste para oponerse por escrito, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la omisión, en el plazo correspondiente, significa su oposición para que la sentencia respectiva y, en su caso, las jurisprudencias, precedentes o tesis aisladas, emitidos por el Pleno de la Sala Superior o las Secciones, así como, los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal, que se publiquen en la Revista, incluyan los referidos datos personales.
 
 ### Capítulo XV. De las Secretarías, Unidades Administrativas y Servidores Públicos de la Junta
 
@@ -2812,3 +2834,11 @@ SEXTO.- Se instruye a la Secretaría Operativa de Administración y a la Secreta
 SÉPTIMO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
 
 OCTAVO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Para efectos de la publicación de los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares, en la Revista de este Tribunal, todos los criterios aislados que a la fecha de la entrada en vigor de este Acuerdo se encuentren en trámite en la Secretaría de Acuerdos de Compilación de Tesis, pendientes de publicarse en la Revista de este Tribunal, conservarán la clave que les corresponda conforme a la disposición en la materia, vigente al momento de haber sido aprobadas.
