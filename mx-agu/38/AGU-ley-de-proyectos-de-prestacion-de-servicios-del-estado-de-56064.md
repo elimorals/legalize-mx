@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proyectos-de-prestacion-de-servicios-del-estado-de-56064
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-25"
-last_updated: "2010-07-19"
+last_updated: "2013-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
-LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
+LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN LA EDICIÓN VESPERTINA DEL P.O. DEL 11 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de junio de 2007.
 
@@ -39,7 +41,7 @@ Decreto Número 337
 
 Se aprueba la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, para quedar como sigue:
 
-LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALlENTES
+LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -105,7 +107,7 @@ Para los efectos de esta ley, serán considerados como Proyectos los que cumplan
 
 I. Que el desarrollo del Proyecto tenga por objeto crear infraestructura pública;
 
-II. Que su realización deba implicar la celebración de un Contrato y, en su caso, cualquier otro acto jurídico necesario para lIevarlo a cabo;
+II. Que su realización deba implicar la celebración de un Contrato y, en su caso, cualquier otro acto jurídico necesario para llevarlo a cabo;
 
 III. Que los servicios a cargo del Proveedor para crear infraestructura pública deberán permitir al Órgano contratante prestar servicios a la sociedad que tenga encomendados y dar un mejor cumplimiento a los objetivos institucionales que tenga asignados conforme a lo dispuesto en las disposiciones aplicables y en el Plan de Desarrollo del Estado o en el Plan de Desarrollo Municipal correspondiente, según sea el caso;
 
@@ -217,7 +219,7 @@ V. La forma, plazo, términos y condiciones de pago;
 
 VI. Las fórmulas y metodologías generales para la evaluación del cumplimiento de las obligaciones del proveedor bajo el Contrato, incluyendo la aplicación de deducciones a los pagos que realice el Organismo contratante; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 VII. La obligación del proveedor de proporcionar la información relacionada con el Contrato que le solicite el Órgano Superior de Fiscalización, excepto aquella información protegida por derechos de autor, que constituya propiedad intelectual, patentes o secretos industriales o por disposición de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes a que esté obligado el proveedor a no divulgar.
 
@@ -355,7 +357,7 @@ Las bases que emita el Organismo para la licitación pública se pondrán a disp
 
 El Organismo, siempre que ello no tenga por objeto limitar el número de Licitantes, podrá modificar los plazos u otros aspectos establecidos en la convocatoria, en las bases de licitación o en el modelo de Contrato, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de ofertas, siempre que:
 
-l. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
+I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
 
 II. En el caso de las bases de la licitación y/o el modelo de Contrato, se publique un aviso en el Periódico Oficial del Estado a fin de que los interesados concurran ante el Organismo para conocer, de manera específica, las modificaciones respectivas.
 
@@ -573,7 +575,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martinez Estebanez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE JULIO DE 2010.
 
@@ -584,3 +586,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 11 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de junio de 2007, así como sus reformas.
