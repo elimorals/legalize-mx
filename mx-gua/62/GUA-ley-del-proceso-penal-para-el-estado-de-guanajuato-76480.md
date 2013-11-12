@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2013-05-14"
+last_updated: "2013-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -2049,9 +2049,11 @@ Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión 
 
 Cuando el Ministerio Público no pretenda solicitar prisión preventiva y, en caso de detención en flagrancia, decretará la libertad del detenido, sin perjuicio de que pueda fijarle una caución, conforme a lo previsto a la medida cautelar consistente en garantía económica, a fin de asegurar su comparecencia ante el Juez y la reparación del daño.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Juez de Control ordenará oficiosamente la prisión preventiva en los casos de homicidio doloso, feminicidio, violación, secuestro, delitos graves cometidos con medios violentos como armas y explosivos, además de trata de personas, corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+El Juez de Control ordenará oficiosamente la prisión preventiva en los casos de homicidio doloso, feminicidio, violación, secuestro, desaparición forzada de personas, delitos graves cometidos con medios violentos como armas y explosivos, además de trata de personas, corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves.
 
 Sólo el Ministerio Público podrá solicitar la prisión preventiva cuando los hechos materia de investigación puedan ser encuadrables en delitos sancionados con pena privativa de libertad y otras medidas cautelares sean insuficientes para garantizar la comparecencia del inculpado en el juicio, el desarrollo de la investigación, la protección de la víctima, el ofendido o de sus familiares, de los testigos o de la comunidad, así como cuando el inculpado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
@@ -3025,7 +3027,7 @@ Orden de aprehensión
 
 El juez, a solicitud del Ministerio Público, puede ordenar la aprehensión de una persona cuando se haya presentado denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que existe la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Orden de reaprehensión
 
@@ -3071,9 +3073,11 @@ III. En caso de que el inculpado haya sido detenido en flagrancia, el Ministerio
 
 Si el juez ratifica la detención, celebrará la audiencia para formulación de imputación inmediatamente o dentro del plazo de veinticuatro horas contado a partir de que haya sido puesto a su disposición, según lo solicite el inculpado o su defensor. Lo anterior, salvo que se solicite prórroga de este plazo para reunir el material probatorio que se ofrezca en el momento de la solicitud. Esta prórroga no podrá exceder de setenta y dos horas.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Si el juez no ratifica la detención dispondrá de inmediato la libertad del inculpado con las reservas de ley, a quien solicitará que señale domicilio donde pueda ser localizado y en su caso, designe defensor. Además, lo convocará para que asista a la audiencia para formulación de imputación indicándole que deberá comparecer acompañado de su defensor y apercibiéndole que en caso de no comparecer se ordenará su aprehensión. En este caso, la audiencia deberá verificarse dentro de los diez días siguientes; tratándose de homicidio doloso, feminicidio, violación, secuestro, delitos graves cometidos con medios violentos como armas y explosivos, además de trata de personas, corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves, la audiencia se llevará a cabo dentro de las dos horas siguientes.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+Si el juez no ratifica la detención dispondrá de inmediato la libertad del inculpado con las reservas de ley, a quien solicitará que señale domicilio donde pueda ser localizado y en su caso, designe defensor. Además, lo convocará para que asista a la audiencia para formulación de imputación indicándole que deberá comparecer acompañado de su defensor y apercibiéndole que en caso de no comparecer se ordenará su aprehensión. En este caso, la audiencia deberá verificarse dentro de los diez días siguientes; tratándose de homicidio doloso, feminicidio, violación, secuestro, desaparición forzada de personas, delitos graves cometidos con medios violentos como armas y explosivos, además de trata de personas, corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves, la audiencia se llevará a cabo dentro de las dos horas siguientes.
 
 En ningún caso la detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas a partir de que el inculpado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso, salvo solicitud de prórroga del plazo, la que no podrá exceder de otras setenta y dos horas.
 
@@ -3591,11 +3595,11 @@ Podrá ordenarse la presentación o el aseguramiento de objetos o documentos, y 
 
 Para la práctica de peritajes que así lo ameriten, se procederá, en lo conducente, en la forma prevista por el artículo 247 de esta Ley.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Peritajes especiales
 
@@ -4439,7 +4443,7 @@ Remisión de copia de la sentencia
 
 ###### Artículo 397.
 
-El tribunal ordenará el envío de copia autorizada de la sentencia firme a las autoridades competentes y al juez de ejecución de sentencias para su cumplimiento, en caso de que fuere condenatoria. También la remitirá a la Procuraduría General del Justicia del Estado para su registro, independientemente de su sentido.
+El tribunal ordenará el envío de copia autorizada de la sentencia firme a las autoridades competentes y al juez de ejecución de sentencias para su cumplimiento, en caso de que fuere condenatoria. También la remitirá a la Procuraduría General del (sic) Justicia del Estado para su registro, independientemente de su sentido.
 
 # LIBRO TERCERO. PROCEDIMIENTOS ESPECIALES
 
@@ -4785,7 +4789,7 @@ Los medios de impugnación se interpondrán en las condiciones de tiempo y forma
 
 Expresión de conceptos de agravio
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 426.
 
@@ -4801,7 +4805,7 @@ Calificación de los medios de impugnación
 
 ###### Artículo 427.
 
-El órgano jurisdiccional que debiera resolver·sobre el medio de impugnación, no lo admitirá, o en su caso lo declarará mal admitido cuando:
+El órgano jurisdiccional que debiera resolver sobre el medio de impugnación, no lo admitirá, o en su caso lo declarará mal admitido cuando:
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -5253,7 +5257,7 @@ La casación tiene como finalidad invalidar la audiencia de debate de juicio ora
 
 Interposición y trámite de la casación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 477.
 
@@ -5808,3 +5812,7 @@ Artículo Único. El presente Decreto entrará en vigencia el 1 de septiembre de
 P.O. 14 DE MAYO DE 2013.
 
 Artículo Único. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
