@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-09-11"
+last_updated: "2013-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 11 DE SEPTIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 132 PUBLICADO EN LA G.G. DE 29 DE AGOSTO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -5205,6 +5203,16 @@ II. Por el refrendo el 50% de la tarifa establecida.
 
 III. Por la reposición de la credencial de Perito Responsable de Obra que se encuentre vigente, se pagará el 50% de la tarifa establecida.
 
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 95 Quáter.
+
+Por los servicios prestados por la Comisión del Agua del Estado del (sic) México relativos a los permisos de distribución de agua a través de pipa a consumidores, se pagarán los derechos siguientes:
+
+I. Por la expedición del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
+
+II. Por la renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
+
 ###### Artículo 96.
 
 Por los servicios prestados por la Secretaría de la Contraloría, se pagarán los siguientes derechos:
@@ -7115,6 +7123,10 @@ XI. Reconexión o reestablecimiento a los sistemas de agua potable.
 
 XII. Conexión de agua y drenaje.
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Expedición o renovación del permiso de distribución de agua a través de pipa a consumidores.
+
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 El consejo directivo del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en esta Sección, podrá acordar la realización de programas de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, que deberá proponerse a consideración del Ayuntamiento y, en su caso, publicarse en el Periódico Oficial.
@@ -7896,6 +7908,12 @@ Los Ayuntamientos, que de conformidad con las características o circunstancias 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 Las tarifas que se propongan, en ningún caso podrán ser inferiores a las establecidas en este Código, y deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 139 Bis.
+
+Por la expedición o renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -11025,7 +11043,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 216-D.
 
@@ -15429,10 +15447,6 @@ Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
 
-G.G. 1 DE JULIO DE 2004.
-
-PRIMERO.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
-
 G.G. 22 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
@@ -15574,12 +15588,6 @@ SEXTO.- Los recursos presupuestarios que el Gobierno del Estado aporte al Fondo 
 En congruencia con lo anterior, los recursos que los ayuntamientos aporten al Fondo deberán reflejarse en su respectivo presupuesto de egresos para el ejercicio fiscal 2007.
 
 SÉPTIMO.- Para el seguimiento y vigilancia del cumplimiento del convenio, se constituye una comisión integrada por diputados de la Legislatura del Estado de México, representantes de la Secretaría del Agua y obra (sic) Pública, y la Comisión del Agua del Estado de México, así como representantes de los ayuntamientos por sí o a través de sus organismos descentralizados prestadores de los servicios de agua potable y, en su caso, con la asesoría de las autoridades federales competentes.
-
-G.G. 30 DE DICIEMBRE DE 2006.
-
-Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
-
-Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
 
 G.G. 1 DE FEBRERO DE 2007.
 
@@ -16096,3 +16104,19 @@ QUINTO.- Se establece un término de diez días naturales posteriores a la insta
 SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.O. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades en materia de agua, entregarán conjuntamente con el permiso, la tarifa autorizada para el año correspondiente a los permisionarios.
+
+CUARTO.- Dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades en materia de agua entregarán a los permisionarios de distribución de agua las tarifas autorizadas por el resto del año 2013, para ser exhibidas al consumidor en el camión cisterna.
+
+QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa de su competencia, proveerán lo necesario para el debido cumplimiento del presente Decreto.
+
+SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
+
+SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
