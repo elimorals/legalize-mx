@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2012-08-24"
+last_updated: "2013-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -412,6 +412,14 @@ XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan co
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría, el subalterno podrá practicarla directamente informando a su superior acerca de este acto;
 
 XXII. Abstener de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XXII Bis. Llevar a cabo el proceso de desinfección del agua para uso, consumo y aprovechamiento humano, en los términos de la Norma Oficial Mexicana:
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XXII Ter. Operar eficazmente y con la debida diligencia los mecanismos para la regulación del flujo de agua para el suministro a los usuarios de dicho servicio público, evitando en todo momento la simulación de escases de dicho líquido;
 
 XXIII. Abstener de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes; y
 
@@ -1264,3 +1272,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades en materia de agua, entregarán conjuntamente con el permiso, la tarifa autorizada para el año correspondiente a los permisionarios.
+
+CUARTO.- Dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades en materia de agua entregarán a los permisionarios de distribución de agua las tarifas autorizadas por el resto del año 2013, para ser exhibidas al consumidor en el camión cisterna.
+
+QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa de su competencia, proveerán lo necesario para el debido cumplimiento del presente Decreto.
+
+SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
+
+SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
