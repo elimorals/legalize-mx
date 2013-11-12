@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2013-08-09"
+last_updated: "2013-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -559,50 +559,6 @@ Un Grupo Parlamentario es el conjunto de diputados integrados según su filiaci�
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
-
-(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
-
-Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
-
-a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
-
-b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-Artículo 67 BIS-4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
-
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
-
-Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
-
 ###### Artículo 67 Bis
 
 1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
@@ -1083,41 +1039,41 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Desarrollo Turístico y Artesanal
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-- Desarrollo Social
+- Asuntos Metropolitanos
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-- Vigilancia
+- Vigilancia del Órgano Superior de Fiscalización
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Asuntos Indígenas
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-- De la Juventud y el Deporte
+- De Protección Civil
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - Para la Protección e Integración al Desarrollo de las Personas con Discapacidad
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-- Seguimiento de Programas de Apoyo Social del Estado y Municipios del Estado de México
+- Desarrollo Social
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 - De Límites Territoriales del Estado de México y sus Municipios
 
-> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-- Equidad y Género
+- Para la Igualdad de Género
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2006)</small>
 
 - Seguimiento de la operación de proyectos para prestación de servicios
+
+- De la Juventud y el Deporte
 
 > <small>(ADICIONADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2052,3 +2008,9 @@ G.G. 9 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de que inicie la vigencia de la reforma correspondiente del artículo 77 fracción XVIII de la Constitución Política del Estado Libre y Soberano de México.
+
+G.G. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
