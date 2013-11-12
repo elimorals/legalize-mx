@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2013-02-22"
+last_updated: "2013-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -153,6 +153,10 @@ XIII. Cauce: Canal natural o artificial con capacidad necesaria para conducir la
 
 XIV. Certificación de procesos: Acción de constatar que la prestación de los servicios se ajusta a los criterios de calidad establecidos por la Comisión Técnica;
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XIV Bis. Consumidor: Personas física o jurídica colectiva que adquiere agua potable o tratada a través de pipas autorizadas;
+
 XV. Cloración: El servicio de suministro, aplicación y recarga de reactivos;
 
 XVI. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos del Estado de México;
@@ -193,6 +197,10 @@ XXXIII. Desinfección: Aplicación de métodos físicos o químicos para destrui
 
 XXXIV. Dilución: La acción de mezclar dos tipos de agua con diferentes características con objeto de obtener niveles intermedios de contaminación;
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XXXIV Bis. Distribución de agua a través de pipas: Entrega de agua potable o tratada al consumidor a través de pipas;
+
 XXXV. Drenaje: Sistema de obras hidráulicas para la descarga y alejamiento de las aguas residuales y pluviales;
 
 XXXVI. Estado: Estado de México;
@@ -226,6 +234,14 @@ XLIX. Obras hidráulicas: Instalaciones para la explotación, uso y aprovechamie
 L. Organismo operador: Organismo operador de agua, que puede ser una dependencia estatal o municipal, u organismo descentralizado municipal o intermunicipal que en los términos de la presente Ley tiene la responsabilidad de administrar y operar los servicios, conservar, dar mantenimiento, rehabilitar y ampliar los sistemas de suministro, de drenaje y de alcantarillado, y en su caso, el tratamiento de aguas y su reuso, así como la disposición final de sus productos resultantes, dentro del ámbito territorial que le corresponda;
 
 LI. Permisionario: La persona física o jurídica colectiva que tiene un permiso otorgado por la autoridad competente, para los fines previstos en la presente Ley;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+LI Bis. Permiso de Distribución: Autorización que otorgan previo al cumplimiento de los requisitos que se establecen en la presente Ley y su Reglamento, la Comisión, los municipios o los organismos operadores, según corresponda, a personas física o jurídica colectiva, para la distribución de agua a través de pipas;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+LI Ter. Pipas: Camión cisterna que transporta, suministra y distribuye agua potable o tratada;
 
 LII. Personas jurídicas colectivas: Las asociaciones, sociedades y demás entidades a las que la Ley reconoce personalidad jurídica, por estar constituidas legalmente;
 
@@ -577,6 +593,10 @@ XI. Convenir con los municipios la prestación temporal de algunos de los servic
 
 XII. Proporcionar agua en bloque, bajo las condiciones previstas en la presente Ley, su Reglamento y demás normatividad aplicable;
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XII Bis. Aplicar gas cloro o, en su caso, hipoclorito de sodio al agua en bloque que suministra o conduce, así como dar mantenimiento a sus equipos de cloración;
+
 XIII. Recaudar los ingresos por los servicios que preste;
 
 XIV. Prestar asistencia técnica a los prestadores de los servicios que la soliciten, para operar, mantener y administrar redes de distribución, así como de drenaje alcantarillado, y para el tratamiento de aguas residuales y su reuso;
@@ -601,6 +621,10 @@ XXIII. Nombrar representantes ante las dependencias federales, estatales o munic
 
 XXIV. Proporcionar el servicio de suministro y aplicación de gas cloro e hipoclorito de sodio y el mantenimiento de equipos de cloración, a los prestadores de los servicios que lo soliciten, en términos del convenio o contrato que se suscriba;
 
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XXIV Bis. Suministrar reactivo y dar mantenimiento a equipos de desinfección en las fuentes de agua que administran y operan los municipios o de los organismos operadores en las que el Instituto de Salud del Estado de México detecte ausencia de cloro residual;
+
 XXV. Realizar mediciones de los caudales de agua en bloque entregados a los prestadores de los servicios;
 
 XXVI. Participar, en su ámbito competencial, con las dependencias estatales competentes, en las acciones necesarias para prevenir, evitar y controlar la contaminación del agua, en los términos de la normatividad aplicable;
@@ -614,6 +638,10 @@ XXIX. Administrar la infraestructura hidráulica que le sea entregada por el Gob
 XXX. Implementar, operar y mantener la red estatal de estaciones meteorológicas e intercambiar información con redes afines;
 
 XXXI. Coadyuvar con los organismos operadores del agua al cumplimiento del marco regulatorio y de los títulos de concesión que al efecto se otorguen para la prestación de los servicios;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+XXXI Bis. Verificar el debido cumplimiento del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua, mediante visitas de verificación, así como la aplicación de medidas de seguridad e imposición de sanciones en términos de esta Ley;
 
 XXXII. Emitir su reglamento Interior; y
 
@@ -667,9 +695,19 @@ V. Resolver los asuntos que plantee el Vocal Ejecutivo;
 
 VI. Solicitar la asesoría de las instancias públicas o privadas que considere necesarios;
 
-VII. Aprobar el Reglamento Interior de la Comisión; y
+VII. Aprobar el Reglamento Interior de la Comisión; y (sic)
 
-VIII. Las demás que establezca la Ley, su Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Nombrar a los responsables de supervisar y ejecutar las acciones de desinfección del agua suministrada en bloque u objeto de conducción;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+IX. Emitir el Dictamen de Factibilidad para la Distribución de Agua, con base en lo dispuesto por el Reglamento;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+X. Las demás que establezca la Ley, su Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 21.
 
@@ -890,6 +928,18 @@ II. La Comisión; o
 III. Personas jurídicas colectivas concesionarias.
 
 Cuando un municipio no tenga capacidad para prestar los servicios, podrá, previo acuerdo de cabildo aprobado por cuando menos las dos terceras partes de sus integrantes, convenir con la Comisión para que ésta, de manera temporal, los preste, en los términos de esta Ley, su Reglamento y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 34 Bis.
+
+Los prestadores de los servicios deberán nombrar a los responsables de supervisar y ejecutar las acciones de desinfección del agua potable de las fuentes de abastecimiento de su competencia territorial.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 34 Ter.
+
+La Comisión para la Protección contra Riesgos Sanitarios del Estado de México, realizará la vigilancia sanitaria periódica a las pipas para verificar las condiciones de potabilidad del agua, a fin de que reúna los requisitos para uso o consumo humano y que no represente riesgos para la salud. En caso de que no se permita la verificación sanitaria, de que el agua no reúna los requerimientos para uso o consumo humano o que represente riesgos para la salud, se dará de inmediato vista a la autoridad correspondiente para que aplique las sanciones previstas en el presente ordenamiento.
 
 ###### Artículo 35.
 
@@ -1297,7 +1347,13 @@ VIII. Los demás que determinen las autoridades del agua.
 
 El suministro de agua para los usos a que se refieren las fracciones II a la VIII se realizará preferentemente mediante el aprovechamiento de agua tratada conforme a su disponibilidad y en apego a las disposiciones aplicables.
 
-La calidad del agua suministrada para los diferentes usos, deberá cumplir con las Normas Oficiales Mexicanas.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+Los prestadores de los servicios a que se refiere el artículo 34 de la presente Ley, están obligados a garantizar la calidad del agua suministrada para los diferentes usos, debiendo aplicar los procesos de desinfección con gas cloro o, en su caso hipoclorito de sodio, conforme a la Norma Oficial Mexicana.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+Los servidores públicos que incumplan con esta obligación serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 ###### Artículo 71.
 
@@ -1585,7 +1641,9 @@ IV. Los títulos de concesión otorgados en los términos de la presente Ley y s
 
 V. Los convenios de asignación celebrados conforme a la Ley y su Reglamento;
 
-VI. Los permisos;
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+VI. Los permisos y dictámenes;
 
 VII. Las prórrogas concedidas, las modificaciones y rectificaciones practicadas a los títulos, incluida la transmisión parcial o total de los derechos;
 
@@ -2125,6 +2183,142 @@ Los permisos pueden ser revocados, previo el otorgamiento de la garantía de aud
 
 La Comisión validará los dictámenes de factibilidad emitidos por los municipios o por los organismos operadores, en los términos del reglamento.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+## TÍTULO TERCERO BIS. DE LA DISTRIBUCIÓN DE AGUA A TRAVÉS DE PIPAS
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Bis.
+
+La venta de agua potable o tratada por metro cúbico a pipas para su distribución, que realicen la Comisión, los municipios o los organismos operadores, se llevará a cabo de acuerdo con la disponibilidad del recurso, cuidando en todo momento que no se desatienda el servicio público que tienen a su cargo.
+
+La venta de agua a que se refiere el párrafo anterior se realizará únicamente a quien cuente con Permiso de Distribución y Dictamen de Factibilidad para la Distribución de Agua.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Ter.
+
+El Permiso de Distribución que otorgue la Comisión autoriza la entrega al consumidor en todo el territorio del Estado y el que expidan las autoridades municipales se circunscribe a su competencia territorial y tendrá una vigencia de un año calendario, el cual podrá renovarse por un plazo igual al de su expedición mediante el cumplimiento de los requisitos solicitados para el otorgamiento del mismo.
+
+El permiso que otorgue la Comisión no autoriza el abastecimiento en fuentes operadas y administradas por autoridades municipales.
+
+El Permiso de Distribución solo ampara una pipa.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Quáter.
+
+Para obtener el Permiso de Distribución se deberá cumplir con los requisitos siguientes:
+
+I. Presentar solicitud por escrito que contenga:
+
+a) Nombre y domicilio del permisionario y en su caso de su representante legal.
+
+b) Datos de identificación y características de la pipa.
+
+c) Documento que acredite la propiedad de la pipa.
+
+d) Prever la probable fuente de abastecimiento.
+
+e) Señalar las zonas de distribución.
+
+II. Contar con permiso expedido por la autoridad de salubridad correspondiente;
+
+III. Acreditar que la pipa con la que se pretende prestar el servicio de distribución a que se refiere este título, se encuentra debidamente matriculada ante la autoridad competente y cumple con las normas técnicas correspondientes;
+
+IV. Exhibir póliza de seguro o fianza que garantice el pago de daños a terceros, por la distribución de agua que no cumpla con la calidad que establece la Norma Oficial Mexicana;
+
+V. Cubrir los derechos por el Permiso de Distribución;
+
+VI. Para el Permiso de Distribución municipal se deberá contar con el Dictamen de Factibilidad para la Distribución de Agua;
+
+VII. Las demás que establezca la normatividad en la materia.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Quinquies.
+
+La Comisión, los municipios y los organismos operadores tendrán a su cargo una base de datos de los Permisos de Distribución que otorguen, así como los datos y documentación relativa a los propietarios y a las pipas. La lista de los distribuidores acreditados deberá ser publicada en el Periódico Oficial "Gaceta del Gobierno", en términos del Reglamento.
+
+La Comisión, los municipios y los organismos operadores, deberán enviar al Registro Público del Agua la información que se requiera en términos del Reglamento.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Sexies.
+
+El permisionario de distribución tiene las obligaciones siguientes:
+
+I. Presentar el Permiso de Distribución y el Dictamen de Factibilidad para la Distribución de Agua cada vez que le sea requerido por la autoridad correspondiente;
+
+II. Acatar las normas técnicas aplicables al objeto del Permiso de Distribución y, en su caso, sujetarse a las disposiciones generales y normas en materia de tránsito, salubridad, equilibrio ecológico y de protección al ambiente y a la norma oficial mexicana correspondiente;
+
+III. Abastecerse del agua materia del Permiso de Distribución únicamente en la fuente de abastecimiento autorizada para tal efecto;
+
+IV. Cobrar las tarifas autorizadas en esta Ley;
+
+V. Adherir en la pipa, en lugar visible para el consumidor, las tarifas autorizadas en esta Ley;
+
+VI. Permitir a la autoridad correspondiente la supervisión, verificación y/o inspección del cumplimiento del objeto del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua, ya sea en forma directa o mediante terceros autorizados por la autoridad para tal fin y otorgar las facilidades necesarias para tal efecto;
+
+VII. Resarcir a consumidores y a terceros, los daños que se generen por causas que le fueren imputables, por lo que deberán contratar y mantener vigentes los seguros que garanticen la reparación de los daños y el pago de los perjuicios que se ocasionen;
+
+VIII. Constituir en tiempo y forma las garantías, seguros y fianzas, en los términos establecidos en el Reglamento y el Permiso de Distribución;
+
+IX. Vigilar que el personal a su cargo cumpla con las disposiciones legales en la materia, con las derivadas del Permiso de Distribución y el Dictamen de Factibilidad para la Distribución de Agua, así como con aquellas que emita, en su caso, la autoridad competente;
+
+X. Proporcionar en todo tiempo a la autoridad otorgante del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua, los datos, informes y documentos que le sean solicitados, relacionados con el objeto de los mismos;
+
+XI. Solicitar oportunamente la renovación del Permiso de Distribución que le hubiese sido otorgado, en términos de la presente Ley y su Reglamento;
+
+XII. Atender las instrucciones y recomendaciones que en su caso realice la autoridad otorgante respecto de la materia del Permiso de Distribución y del Dictamen de Factibilidad para la Distribución de Agua;
+
+XIII. Contar con el Permiso de Distribución y Dictamen de Factibilidad para la Distribución de Agua, emitidos por autoridad competente para tal efecto;
+
+XIV. Suministrar agua potable o tratada al consumidor de conformidad con la normatividad aplicable;
+
+XV. Prestar el servicio permisionado a solicitud de la autoridad otorgante, en caso de contingencia, emergencia o desastre;
+
+XVI. Las demás que le establezcan las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Septies.
+
+Son causas de revocación de los Permisos de Distribución las siguientes:
+
+I. No cumplir, sin causa justificada con el objeto, obligaciones o condiciones del Permiso de Distribución o del Dictamen de Factibilidad para la Distribución de Agua a través de Pipas, en los términos establecidos en el mismo;
+
+II. Cobrar tarifas superiores a las autorizadas;
+
+III. No cubrir las indemnizaciones por daños que se originen con motivo del Permiso de Distribución;
+
+IV. Ceder o transferir el Permiso de Distribución o el Dictamen de Factibilidad para la Distribución de Agua, sin previa autorización de la autoridad otorgante;
+
+V. Modificar o alterar el Permiso de Distribución o del Dictamen de Factibilidad para la Distribución de Agua;
+
+VI. Prestar servicios distintos a los señalados en el Permiso de Distribución y en el Dictamen de Factibilidad para la Distribución de Agua;
+
+VII. No proporcionar la información requerida por la autoridad, impedir o dificultar la verificación o inspección de la pipa;
+
+VIII. Abstenerse de prestar el servicio permisionado a solicitud de la autoridad otorgante, en caso de contingencia, emergencia o desastre.
+
+Previa a la revocación se otorgará el derecho de audiencia, en términos de lo dispuesto por el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Octies.
+
+Una vez que la Comisión, el municipio o el organismo operador abastezcan a las pipas, queda bajo la responsabilidad de los permisionarios de distribución la preservación de la calidad del agua, de acuerdo con la Norma Oficial Mexicana.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 150 Nonies.
+
+La tarifa por la venta de agua potable al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de un salario mínimo general vigente en el área geográfica que corresponda, por metro cúbico.
+
+La tarifa por la venta de agua tratada al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de 0.9 de salario mínimo general vigente en el área geográfica que corresponda, por metro cúbico.
+
 ## TÍTULO CUARTO. DE LA VERIFICACIÓN, INFRACCIONES Y SANCIONES
 
 ### CAPÍTULO PRIMERO. DE LA VERIFICACIÓN
@@ -2231,6 +2425,16 @@ Con independencia de la multa establecida, el infractor deberá resarcir, en su 
 
 Si concluido el plazo a que se refiere el párrafo anterior, resultare que las irregularidades aún subsisten, podrá imponerse un día multa por cada día que transcurra.
 
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 156 Bis.
+
+Las infracciones a las obligaciones a cargo de los permisionarios de distribución de agua en pipas, a que se refiere el artículo 150 Sexies, serán sancionadas por la Comisión del Agua del Estado de México, con multas equivalentes a días de salario mínimo general vigente en el área geográfica que corresponda al momento en que se cometa la infracción de acuerdo a lo siguiente:
+
+I. De diez a quinientos en caso de incurrir en incumplimiento de cualquiera de las siguientes fracciones: I, V, VI, IX, X y XII;
+
+II. De quinientos uno a tres mil en caso de incurrir en incumplimiento de cualquiera de las siguientes fracciones: II, III, IV, VII, VIII, XIII, XIV y XV.
+
 ###### Artículo 157.
 
 En la imposición de las sanciones a que se refiere el presente capítulo, se estará a las reglas y criterios previstos en el Código de Procedimientos Administrativos.
@@ -2286,3 +2490,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFREN ROJAS DAVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades en materia de agua, entregarán conjuntamente con el permiso, la tarifa autorizada para el año correspondiente a los permisionarios.
+
+CUARTO.- Dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades en materia de agua entregarán a los permisionarios de distribución de agua las tarifas autorizadas por el resto del año 2013, para ser exhibidas al consumidor en el camión cisterna.
+
+QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa de su competencia, proveerán lo necesario para el debido cumplimiento del presente Decreto.
+
+SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
+
+SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
