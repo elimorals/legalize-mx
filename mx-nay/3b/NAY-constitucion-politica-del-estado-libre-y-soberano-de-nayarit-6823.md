@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2013-10-04"
+last_updated: "2013-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -3399,7 +3399,9 @@ Artículo Segundo.- Para los efectos del segundo párrafo de la fracción VI del
 
 Artículo Tercero.- A efecto de garantizar el cumplimiento de lo dispuesto por el artículo 101 del presente decreto, dentro de un plazo que no excederá de los seis meses posteriores a su entrada en vigencia, la Legislatura procederá a realizar las adecuaciones a las leyes correspondientes.
 
-Artículo Cuarto.- Para los efectos previstos por el párrafo quinto del artículo 101 del presente decreto relativo a la expectativa de reelección del Presidente de la Comisión de Defensa de los Derechos Humanos, tendrá vigencia a partir del 1 de enero del año 2014.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+Artículo Cuarto.- Para los efectos previstos por el párrafo quinto del artículo 101, relativo a la expectativa de reelección del Presidente de la Comisión de Defensa de los Derechos Humanos cuyo periodo de ejercicio concluye el día 13 de diciembre de 2013, se atenderá en lo conducente lo dispuesto por la Ley para Evaluar el Desempeño de Servidores Públicos del Estado de Nayarit, con excepción de lo previsto por el primer párrafo del artículo 14, para lo cual la Comisión Legislativa de Justicia y Derechos Humanos del Congreso, en un plazo que no exceda de cinco días a partir de la vigencia del presente decreto, deberá garantizar su derecho de audiencia y solicitarle que dentro de los tres días naturales siguientes a la notificación, manifieste por escrito su interés o no de ser evaluado.
 
 Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
 
@@ -3444,3 +3446,9 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Poder Legislativo del Estado, deberá realizar las adecuaciones legales necesarias con el objeto de armonizarlas al presente decreto, relativo a la reforma al artículo 17 de la Constitución Política del Estado de Nayarit.
 
 Artículo Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
+
+P.O. 12 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Articulo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
