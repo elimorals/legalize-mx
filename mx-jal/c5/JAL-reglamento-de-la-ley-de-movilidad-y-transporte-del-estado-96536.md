@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-movilidad-y-transporte-del-estado-96536
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2013-11-09"
+last_updated: "2013-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 12 DE NOVIEMBRE DE 2013.</small>
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -65,7 +65,9 @@ El presente reglamento es de orden público e interés social y tiene por objeto
 
 El ámbito de aplicación del presente Reglamento es el Estado de Jalisco y establece las bases de los actos administrativos emanados de la Secretaría de Movilidad, así como de los Ayuntamientos cuando estos tengan asumidas las funciones y atribuciones de tránsito y vialidad en el ámbito de su competencia.
 
-Para el caso de los municipios en el Estado que aprueben sus propios reglamentos en materia de tránsito y vialidad, en ningún éstos (sic), podrán contener disposiciones en contrario a las que disponen la Ley y los reglamentos emanados de la misma, las normas técnicas y los protocolos aplicables a procedimientos específicos.
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+Para el caso de los municipios en el Estado que aprueben sus propios reglamentos en materia de tránsito y vialidad, en ningún caso, podrán contener disposiciones en contrario a las que disponen la Ley y los reglamentos emanados de la misma, las normas técnicas y los protocolos aplicables a procedimientos específicos.
 
 Será atribución de la Secretaría de Movilidad de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado y la propia Ley de Movilidad y Transporte en el Estado de Jalisco, elaborar, fijar y conducir las políticas en materia de movilidad y transporte en el Estado, de la misma forma planeará, coordinará, evaluará y aprobará los programas en los términos de las disposiciones legales vigentes y en los acuerdos que emita o convenios que celebre el Ejecutivo del Estado.
 
@@ -443,9 +445,11 @@ El Consejo Consultivo promoverá y apoyará las políticas públicas en materia 
 
 Las recomendaciones emitidas por el Consejo no serán vinculatorias, serán consultivas y de asistencia en materia de Movilidad. Estas deberán ser presentadas ante la Secretaría para su evaluación y análisis.
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 18.
 
-La Comisión y las Comisiones Intermunicipales, se integrarán y ejercerás las atribuciones que señala la Ley, este Reglamento, así como la normatividad complementaria.
+La Comisión y las Comisiones Intermunicipales, se integrarán y ejercerán las atribuciones que señala la Ley, este Reglamento, así como la normatividad complementaria.
 
 ###### Artículo 19.
 
@@ -459,9 +463,11 @@ La Comisión y las Comisiones Intermunicipales participarán en las acciones en 
 
 La Comisión y Comisiones Intermunicipales participarán en los programas de fomento a la seguridad y educación vial que elabore la Secretaría.
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 22.
 
-La participación de la Comisión y Comisiones Intermunicipales convenían en participar en los temas relativos a: obras de infraestructura carretera, infraestructura y equipamiento vial, derechos de vía, zonas de restricción, así como las normas que regulen su uso.
+La participación de la Comisión y Comisiones Intermunicipales podrán convenir en participar en los temas relativos a obras de infraestructura carretera, infraestructura y equipamiento vial, derechos de vía, zonas de restricción, así como las normas que regulen su uso.
 
 ###### Artículo 23.
 
@@ -537,9 +543,11 @@ El Instituto de Movilidad y Transporte del Estado será un auxiliar en la aplica
 
 Los dictámenes, opiniones y proyectos de normas técnicas que deberá emitir el Instituto, se sujetaran a la competencia que establezcan la Ley y éste reglamento, así como la propia Ley del Instituto y su Reglamento respectivo.
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 34.
 
-La Comisión de Tarifas es un órgano auxiliar de la Secretaría en materia de tarifas, que se regirá por las disposiciones del Capítulo XII de la Ley y por los ordenamientos correspondientes.
+La Comisión de Tarifas es un órgano auxiliar de la Secretaría en materia de tarifas, que se regirá por las disposiciones del Capítulo XII del Título Quinto de la Ley y por los ordenamientos correspondientes.
 
 ###### Artículo 35.
 
@@ -657,7 +665,9 @@ Los peatones tienen prohibido lo siguiente:
 
 I. Transitar, jugar o de cualquier forma ocupar la vía pública por donde circulen vehículos motorizados y no motorizados, poniendo en riesgo su integridad física o la de terceros;
 
-II. Utilizar la vía destinados (sic) a que circulen peatones o vehículos, para instalar juegos, puestos ambulantes para ejercer el comercio o hacer publicidad de algún producto o servicio;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+II. Utilizar las vías destinadas al tránsito de peatones o circulación de vehículos, para instalar juegos, puestos ambulantes para ejercer el comercio o hacer publicidad de algún producto o servicio;
 
 III. Instalar cualquier objeto que impida la libre circulación de peatones y vehículos; y
 
@@ -805,7 +815,9 @@ Son derechos de los usuarios:
 
 I. A que se les brinde un servicio bajo los principios de puntualidad, higiene, orden, seguridad, generalidad, accesibilidad, uniformidad, continuidad, adaptabilidad, permanencia, oportunidad, eficacia y eficiencia;
 
-II. Los usuarios que sean personas con alguna discapacidad tienen el derecho específico de que las rutas del servicio de transporte público de pasajeros cuenten por lo menos con un veinte por ciento de unidades adaptadas para facilitar sus desplazamientos de conformidad a lo establecido en la Ley y la norma técnica correspondiente;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+II. Los usuarios que sean personas con alguna discapacidad tienen el derecho específico de que las rutas del servicio de transporte público de pasajeros masivo y colectivo cuenten por lo menos con un veinte por ciento de asientos en sus unidades y por lo menos el diez por ciento de ellas sean unidades adaptadas para facilitar sus desplazamientos de conformidad a lo establecido en los artículos 101, fracción II y 126 de la Ley, y la norma técnica correspondiente;
 
 III. A recibir un trato digno y respetuoso por parte de los prestadores del servicio de transporte, en cualquiera de sus modalidades, primordialmente los menores de edad, mujeres embarazadas, personas con discapacidad y adultos mayores;
 
@@ -1267,7 +1279,9 @@ La Secretaría a través de la Unidad Administrativa responsable de la cultura y
 
 I. Promover la generación de auditorías en materia de cultura y seguridad vial, que detecten la interacción entre los sujetos de la movilidad, las vías y los vehículos;
 
-II. Difundir en las campañas de difusión y educativas la convivencia de los distintos medios de traslado donde se fomente el uso del transporte público y los sistemas de desplazamiento no motorizados;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+II. Difundir en las campañas educativas, la coexistencia de los distintos medios de transporte, fomentando el uso del transporte público y privilegiando los sistemas de desplazamiento no motorizados;
 
 III. Dar a conocer entre los sujetos de la movilidad, sus derechos y obligaciones, así como la importancia y significado de las señales viales en las vías públicas;
 
@@ -1675,7 +1689,9 @@ Es motivo de la aplicación como medida de seguridad, el retiro de la circulaci�
 
 I. Carecer de placas de circulación, o estén sobrepuestas, alteradas total o parcialmente por cualquier medio o que se encuentren ilegibles los números y letras de identificación del vehículo, así como aquéllas que incluyan aditamentos, micas o etiquetas que obstruyan o distorsionen su vista total o parcialmente, dobladas o sin el permiso o autorización según sea el caso, o que circulen con baja administrativa;
 
-II. Carecer de dos o más de los elementos necesarios para circular señalados en los incisos, II, III y IV del artículo 106;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+II. Carecer de dos o más de los elementos necesarios para circular señalados en las fracciones II, III y IV del artículo 106 del presente Reglamento;
 
 III. En el caso del transporte público, además de los requisitos obligatorios, que las placas o permiso provisional para circular sin ellas, no estén relacionadas con una concesión, permiso o autorización temporal para prestar el servicio de transporte público, o autorización para la prestación del servicio que se trate;
 
@@ -1857,7 +1873,9 @@ V. Circular por el carril de contraflujo exclusivo para vehículos de transporte
 
 Los vehículos de emergencia o de seguridad pública que estando en servicio y lleven encendidos códigos luminosos y códigos sonoros podrán utilizar el corredor confinado o Exclusivo de Transporte Público.
 
-A los conductores a que se refiere el presente artículo que hagan uso indebido de esta excepción se harán acreedores a la sanción prevista en el artículo 181 de la Ley.
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+A los conductores a que se refiere el párrafo anterior que hagan uso indebido de esta excepción sin llevar encendidos los códigos luminosos y sonoros se harán acreedores a la sanción prevista en el artículo 181 de la Ley.
 
 ###### Artículo 116.
 
@@ -2305,17 +2323,29 @@ VI. Les harán saber a las partes, que tienen el derecho de llegar a un acuerdo 
 
 VII. Con la excepción del o los vehículos que no cuenten con los requisitos necesarios para circular, la policía vial estatal y municipal, aplicará como medida de seguridad el retiro de la circulación de un vehículo en los siguientes casos:
 
-VIII. Carecer de placas de circulación, o estén sobrepuestas, alteradas total o parcialmente por cualquier medio o que se encuentren ilegibles, así como aquellas que incluyan aditamentos, micas o etiquetas que obstruyan o distorsionen su vista total o parcialmente, dobladas, o sin el permiso o autorización según sea el caso, o que circulen con baja administrativa; y
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
-IX. Carecer de dos o más de los elementos necesarios para circular señalados en los incisos, II, III y IV del artículo 106;
+a) Carecer de placas de circulación, o estén sobrepuestas, alteradas total o parcialmente por cualquier medio o que se encuentren ilegibles, así como aquellas que incluyan aditamentos, micas o etiquetas que obstruyan o distorsionen su vista total o parcialmente, dobladas, o sin el permiso o autorización según sea el caso, o que circulen con baja administrativa;
 
-a) En el caso del transporte público, además de los requisitos obligatorios, que las placas o permiso provisional para circular sin ellas, no estén relacionadas con una concesión, permiso o autorización temporal para prestar el servicio de transporte público, o autorización para la prestación del servicio que se trate;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
-b) Por la orden de una autoridad competente;
+b) Carecer de dos o más de los elementos necesarios para circular señalados en las fracciones II, III y IV del artículo 106 del presente Reglamento;
 
-c) Por participación en flagrante delito; y
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
-d) Cuando por causa de utilidad pública e interés general se determine por la autoridad competente.
+c) En el caso del transporte público, además de los requisitos obligatorios, que las placas o permiso provisional para circular sin ellas, no estén relacionadas con una concesión, permiso o autorización temporal para prestar el servicio de transporte público, o autorización para la prestación del servicio que se trate;
+
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+d) Por la orden de una autoridad competente;
+
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+e) Por participación en flagrante delito; y
+
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+f) Cuando por causa de utilidad pública e interés general se determine por la autoridad competente.
 
 La Policía Vial Estatal o Policía de Tránsito municipal deberán proceder, en caso contrario, a sancionar con la cedula de notificación de infracción por la falta del documento para circular que no se porte o no se encuentre vigente o las que puedan concurrir, en los términos de la ley y el presente Reglamento.
 
@@ -2339,9 +2369,11 @@ La declaración universal de accidente, independientemente de si hay o no acuerd
 
 ### CAPÍTULO ÚNICO. DE LAS COBERTURAS SEGÚN EL TIPO DE VEHÍCULO
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 157.
 
-Todos los vehículos automotores que transiten en el Estado de Jalisco, deberán contar con póliza o constancia de seguro, que ampare el pago de daños a terceros en sus bienes y personas por una suma asegurada de cuando por (sic) cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General; la contratación de éstos será responsabilidad del propietario del vehículo, en caso de contravenir esta disposición, se aplicara las sanciones dispuestas por la Ley y el presente Reglamento.
+Todos los vehículos automotores que transiten en el Estado de Jalisco, deberán contar con póliza o constancia de seguro, que ampare el pago de daños a terceros en sus bienes y personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General; la contratación de éstos será responsabilidad del propietario del vehículo, en caso de contravenir esta disposición, se aplicara las sanciones dispuestas por la Ley y el presente Reglamento.
 
 ###### Artículo 158.
 
@@ -2471,9 +2503,11 @@ II. Cuente con licencia para conducir vigente que lo habilite para el uso del ve
 
 El perito o el Policía Vial Estatal o Policía de Tránsito Municipal deberán informar la existencia del riesgo al que se exponen el conductor y sus pasajeros y recomendarles la lectura del presente capítulo del Reglamento.
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 173.
 
-En el supuesto previsto en la fracción I del artículo 123 del presente Reglamento, y que el conductor presente una concentración superior a 0.25 miligramos de alcohol por litro de aire espirado, que sólo se sancione con multa de conformidad con el artículo 186, fracción I de la Ley. Para este supuesto se podrá exhortar a que alguno de los pasajeros que viaje en el vehículo y que se encuentre en condiciones óptimas, podrá conducir el vehículo del punto de control hacia su destino y siempre con el consentimiento del conductor infractor.
+En el supuesto previsto en la fracción I del artículo 171 del presente Reglamento, y que el conductor presente una concentración superior a 0.25 miligramos de alcohol por litro de aire espirado, que sólo se sancione con multa de conformidad con el artículo 186, fracción I de la Ley. Para este supuesto se podrá exhortar a que alguno de los pasajeros que viaje en el vehículo y que se encuentre en condiciones óptimas, podrá conducir el vehículo del punto de control hacia su destino y siempre con el consentimiento del conductor infractor.
 
 En los casos en los que el conductor al que se tenga que aplicar la imposición del arresto administrativo inconmutable por presentar una concentración de 0.41 a 0.65 miligramos de alcohol por litro de aire espirado, el vehículo será remitido al depósito público o privado concesionado correspondiente.
 
@@ -2493,9 +2527,11 @@ De no haber concentración presente en el caso de que admita que se le realice l
 
 En el supuesto que la sanción sea la prevista en la fracción I del artículo 186 de la Ley y el infractor no tenga capacidad de pago; le será impuesto el arresto administrativo inconmutable por el Juez Calificador excepto en los casos donde se vea involucrado algún menor de edad.
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 177.
 
-En todos los escenarios que aluden el artículo 118 del presente título y cuando el conductor seleccionado aleatoriamente en el filtro de seguridad fuese menor de edad, se procederá de acuerdo al protocolo en la materia y supletoriamente a las Leyes que correspondan. Y se sancionará de acuerdo a lo establecido en el artículo 186 fracción I de la Ley.
+En todos los escenarios que aluden el artículo 171 del presente título y cuando el conductor seleccionado aleatoriamente en el filtro de seguridad fuese menor de edad, se procederá de acuerdo al protocolo en la materia y supletoriamente a las Leyes que correspondan. Y se sancionará de acuerdo a lo establecido en el artículo 186 fracción I de la Ley.
 
 ###### Artículo 178.
 
@@ -2511,11 +2547,17 @@ III. En caso de que el conductor infractor agreda o ponga en peligro la segurida
 
 En el caso de conductores de vehículos de transporte público se considera lo siguiente:
 
-I. Cuando el resultado de la prueba sea entre .01 a .40 miligramos de alcohol por litro de aire espirado se sancionara como indica el artículo 186 fracción I de la Ley y se procederá como indica el Protocolo en materia;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
-II. Cuando el resultado de la prueba sea entre .41 a .65 miligramos de alcohol por litro de aire espirado se sancionara como indica el artículo 186 fracción II de la Ley, con el retiro de la circulación vehículo (sic) al depósito público o privado concesionado correspondiente a otra y se procederá como indica este Protocolo; y
+I. Cuando el resultado de la prueba sea entre 0.01 a 0.40 miligramos de alcohol por litro de aire espirado, se sancionará como indica el artículo 186 fracción I de la Ley y se procederá como indica el Protocolo en la materia;
 
-III. Cuando el resultado de la prueba mayor a .65 miligramos de alcohol por litro de aire espirado se sancionara como indica el artículo 186 fracción III de la Ley y se procederá como indica el Protocolo en materia.
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+II. Cuando el resultado de la prueba sea entre 0.41 a 0.65 miligramos de alcohol por litro de aire espirado, se sancionará como indica el artículo 186 fracción II de la Ley, y con el retiro de la circulación del vehículo al depósito público o privado concesionado correspondiente, y se procederá como indica el Protocolo; y
+
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+III. Cuando el resultado de la prueba sea mayor a 0.65 miligramos de alcohol por litro de aire espirado, se sancionará como indica el artículo 186 fracción III de la Ley, y con el retiro de la circulación del vehículo al depósito público o privado concesionado correspondiente, y se procederá como indica el Protocolo en la materia.
 
 ###### Artículo 180.
 
@@ -2747,7 +2789,9 @@ Para prestar el servicio de trasporte público en cualquiera de sus modalidades,
 
 Para efecto de que se analice la posibilidad por parte de la Secretaría de otorgar prórroga, renovación del título para prestar el servicio que corresponda, tomando en consideración el cumplimiento en la calidad del servicio, o incurra de forma reiterada y sistemática en infracciones consideradas graves y por violaciones sustanciales a la Ley o a los Reglamentos que contravenga las disposiciones enunciadas en el párrafo anterior, para lo cual deberá cumplir con los requisitos enunciados en el artículo 105 de la Ley, para tal efecto la Secretaría a través de la Unidad Administrativa correspondiente deberá revisar el expediente y emitir la resolución respectiva.
 
-Para llevar a cabo las transmisiones, gravamen, enajenación o sustitución de cualquiera de las modalidades de transporte público, la Secretaría previamente deberá aprobar cualquier cambio de situación legal de los títulos o permisos correspondientes en los términos del artículo 146 de la Ley.
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+Para llevar a cabo las transmisiones, gravamen, enajenación o sustitución de cualquiera de las modalidades de transporte público, la Secretaría previamente deberá aprobar cualquier cambio de situación legal de los títulos o permisos correspondientes, caso contrario se procederá a la revocación en los términos del artículo 146 de la Ley.
 
 Para los efectos del artículo 191 fracción VII de la Ley se entenderá que se aplican condiciones diferentes a las autorizadas en la prestación del servicio cualquier incumplimiento o contravención a lo dispuesto por la Ley y el presente Reglamento y el Reglamento específico en materia de transporte público.
 
@@ -4221,9 +4265,11 @@ VIII. En todos los casos se llevara una estadística y se asentara en el Registr
 
 IX. Lo que no este enunciado en el presente capítulo, se estará a lo dispuesto por el protocolo respectivo.
 
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 383.
 
-El Juez calificador de la Secretaría o la autoridad que designe el municipio para dicho efecto, está facultado para calificar e imponer la sanción, y determinar su monto sujetándose a la tabla que hace referencia este capítulo, para ello tomara en cuenta las circunstancias personales del infractor para individualizar la sanción, como son su capacidad económica, la reincidencia o cualquier otro elemento del que se desprenda la levedad o gravedad de la infracción, motivando y fundamentando tal decisión, en los términos de los artículos 20,196 y 198 de la Ley.
+El Juez calificador de la Secretaría o la autoridad que designe el municipio para dicho efecto, está facultado para calificar e imponer la sanción, y determinar su monto sujetándose a las disposiciones de la Ley, el presente Reglamento y el Protocolo en materia de alcoholimetría, para ello tomará en cuenta las circunstancias personales del infractor para individualizar la sanción, como son su capacidad económica, la reincidencia o cualquier otro elemento del que se desprenda la levedad o gravedad de la infracción, motivando y fundamentando tal decisión, en los términos de los artículos 20, 196 y 198 de la Ley.
 
 En el caso de que la sanción sea la prevista en la fracción I del artículo 186, podrá conmutarse de acuerdo a lo establecido en el artículo 201 de la Ley, lo cual podrá ser con arresto administrativo o con jornadas de trabajo a favor de la comunidad, para el caso de los conductores infractores que sean menores de edad, serán responsables solidarios de la sanción pecuniaria respectiva los propietarios de los vehículos.
 
