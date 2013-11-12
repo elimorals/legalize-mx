@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-derechos-y-cultura-indigena-del-estado-de-mexico-26754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2012-08-24"
+last_updated: "2013-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el martes 10 de septiembre del 2002.
 
@@ -41,17 +41,21 @@ DECRETA:
 
 LEY DE DERECHOS Y CULTURA INDIGENA DEL ESTADO DE MEXICO
 
-## TITULO PRIMERO. De los Pueblos y las Comunidades
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 NOVIEMBRE DE 2013)</small>
 
-Indígenas del Estado de México
+## TITULO PRIMERO. De los Pueblos, las Localidades y las Comunidades Indígenas del Estado de México
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, reglamentaria del artículo 17 de la Constitución Política del Estado Libre y Soberano de México, y tiene por objeto reconocer y regular los derechos de los pueblos y comunidades indígenas.
+La presente Ley es de orden público e interés social, reglamentaria del artículo 17 de la Constitución Política del Estado Libre y Soberano de México, y tiene por objeto reconocer y regular los derechos de los pueblos y comunidades indígenas y originarias, asentadas de manera continua en localidades y, en su caso, municipios de la entidad; normas que se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas con la protección más amplia.
 
-Los derechos de los pueblos indígenas que reconoce la presente ley serán ejercidos a través de sus respectivas comunidades.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+Los derechos de los pueblos indígenas que reconoce la presente Ley serán ejercidos a través de sus respectivas comunidades.
 
 Es obligación de las autoridades estatales y municipales la observancia y cumplimiento del presente ordenamiento.
 
@@ -63,11 +67,13 @@ Dichos pueblos y comunidades existen desde antes de la formación del Estado de 
 
 Estos pueblos indígenas descienden de poblaciones que habitaban en una región geográfica al iniciarse la colonización dentro de lo que hoy corresponde a las actuales fronteras estatales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-Los indígenas de cualquier otro pueblo procedentes de otro estado de la república y que transiten o residan temporal o permanente dentro del territorio del Estado de México, podrán acogerse en lo conducente a los beneficios de esta ley, respetando las tradiciones de las comunidades indígenas donde residan.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-###### Artículo 3.
+Los indígenas de origen nacional procedentes de otro estado de la república y avecindados en el Estado de México, podrán acogerse en lo conducente a los beneficios que esta Ley, el orden jurídico mexicano y los Tratados Internacionales les reconocen, respetando las tradiciones de las comunidades donde residan, pudiendo tener acceso a dichos beneficios en forma colectiva o individual.
 
-La conciencia de la identidad indígena es el criterio fundamental para determinar los pueblos y comunidades a los que se aplican las disposiciones del presente ordenamiento.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+Artículos 3.- La conciencia de la identidad indígena es el criterio fundamental para determinar los pueblos y comunidades a los que se aplican las disposiciones del presente ordenamiento, así como para identificar las localidades y, en su caso, municipios con presencia indígena.
 
 ###### Artículo 4.
 
@@ -99,19 +105,49 @@ X. Autoridades Municipales: Aquellas que están expresamente reconocidas en la C
 
 XI. Autoridades Tradicionales: Aquellas que los pueblos y comunidades indígenas reconocen de conformidad con sus sistemas normativos internos, derivados de sus usos y costumbres.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 6.
 
 En el Estado de México se reconoce la existencia de los siguientes pueblos indígenas:
 
-I. Mazahua, asentados principalmente en los municipios de: Almoloya de Juárez, Atlacomulco, Donato Guerra, El Oro, Ixtapan del Oro, Ixtlahuaca, Jocotitlán, San Felipe del Progreso, San José del Rincón, Temascalcingo, Valle de Bravo, Villa de Allende y Villa Victoria;
+> <small>(REFORMADA, G.G. 12 NOVIEMBRE DE 2013)</small>
 
-II. Otomí, asentados principalmente en los municipios de: Acambay, Aculco, Amanalco, Capulhuac, Chapa de Mota, Jilotepec, Jiquipilco, Lerma, Metepec, Ocoyoacac, Otzolotepec, San Bartolo Morelos, Soyaniquilpan, Temascalcingo, Temoaya, Tianguistenco, Timilpan, Toluca, Villa del Carbón, Xonacatlán y Zinacantepec;
+I. Mazahua, asentados en las localidades reconocidas legalmente, por la costumbre o la conciencia de identidad, ubicadas principalmente en los municipios de: Almoloya de Juárez, Atlacomulco, Donato Guerra, El Oro, Ixtapan del Oro, Ixtlahuaca, Jocotitlán, San Felipe del Progreso, San José del Rincón, Temascalcingo, Valle de Bravo, Villa de Allende y Villa Victoria.
 
-III. Náhuatl, asentados principalmente en los municipios de: Amecameca, Capulhuac, Joquicingo, Malinalco, Sultepec, Tejupilco, Temascaltepec, Tenango del Valle, Texcoco, Tianguistenco, y Xalatlaco;
+> <small>(REFORMADA, G.G. 12 NOVIEMBRE DE 2013)</small>
 
-IV. Tlahuica, principalmente en Ocuilan;
+II. Otomí, asentados en las localidades reconocidas legalmente, por la costumbre o la conciencia de identidad, ubicadas principalmente en los municipios de: Acambay de Ruiz Castañeda, Aculco, Amanalco, Capulhuac, Chapa de Mota, Jilotepec, Jiquipilco, Lerma, Metepec, Ocoyoacac, Otzolotepec, Morelos, Soyaniquilpan, Temascalcingo, Temoaya, Tianguistenco, Timilpan, Toluca, Villa del Carbón, Xonacatlán y Zinacantepec.
 
-V. Matlazinca, principalmente en Temascaltepec.
+> <small>(REFORMADA, G.G. 12 NOVIEMBRE DE 2013)</small>
+
+III. Náhuatl, asentados en las localidades reconocidas legalmente, por la costumbre o la conciencia de identidad, ubicadas principalmente en los municipios de: Amecameca, Capulhuac, Joquicingo, Malinalco, Sultepec, Tejupilco, Temascaltepec, Tenango del Valle, Texcoco, Tianguistenco, y Xalatlaco.
+
+> <small>(REFORMADA, G.G. 12 NOVIEMBRE DE 2013)</small>
+
+IV. Tlahuica, asentados en las localidades reconocidas legalmente, por la costumbre o la conciencia de identidad, ubicadas principalmente al municipio de Ocuilan.
+
+> <small>(REFORMADA, G.G. 12 NOVIEMBRE DE 2013)</small>
+
+V. Matlazinca, asentados en las localidades reconocidas legalmente, por la costumbre o la conciencia de identidad, ubicadas principalmente en el municipio de Temascaltepec.
+
+> <small>N. DE E. DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL G.G. DE 12 DE NOVIEMBRE DE 2013, SE OBSERVA QUE SE AGREGO ESTE PÁRRAFO.</small>
+
+Asimismo, la presente Ley reconoce como pueblos y comunidades indígenas, a los distintos grupos indígenas de origen nacional procedentes de otras entidades federativas, establecidos en los municipios o localidades del territorio del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 6 Bis.
+
+La Legislatura del Estado de México, para efectos de otorgar precisión y certeza jurídica a los integrantes de los pueblos y comunidades indígenas y con la finalidad de que puedan acceder a los beneficios de las políticas públicas sectorizadas, integrará un catálogo, que no será limitativo, de las localidades con presencia indígena a partir de la información que le proporcione el Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
+
+Las localidades indígenas del Estado de México que la presente Ley reconoce, serán las que apruebe la Legislatura del Estado, con base en la información referida.
+
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 6 Ter.
+
+La presente Ley reconoce a los indígenas de origen nacional procedentes de otro estado de la república y avecindados en el Estado de México, quienes podrán acogerse en lo conducente a los beneficios que esta ley, el orden jurídico mexicano y los Tratados Internacionales les reconocen, respetando las tradiciones de las comunidades donde residan, pudiendo tener acceso a dichos beneficios en forma colectiva o individual.
 
 ###### Artículo 7.
 
@@ -155,11 +191,21 @@ b) Promover que los pueblos interesados, mediante procedimientos apropiados y en
 
 En el ámbito de la Ley que regula sus atribuciones, corresponderá al Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México:
 
-I. Participar en coordinación con el Registro Civil en las campañas registrales que organice en los pueblos y las comunidades indígenas;
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-II. Establecer programas de capacitación y formación de intérpretes y traductores para apoyar a las comunidades y pueblos indígenas en los distintos ámbitos que éstos requieran;
+I. Participar en coordinación con el Registro Civil en las campañas registrales que organice en los municipios y localidades con presencia indígena;
 
-III. Establecer un sistema de información sobre la situación económica y social de los pueblos y las comunidades indígenas.
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+II. Establecer programas de capacitación y formación de intérpretes y traductores para apoyar a los pueblos y las comunidades indígenas en los distintos ámbitos que éstos requieran;
+
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+III. Establecer un sistema de información sobre la situación económica y social de los pueblos y las comunidades indígenas y de los municipios y localidades donde se encuentran asentadas;
+
+> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+IV. Proporcionar información a la Legislatura para actualizar el catálogo de las localidades con presencia indígena.
 
 ### CAPITULO II. Derechos fundamentales de los pueblos y las
 
@@ -199,9 +245,11 @@ Se reconoce a los pueblos y comunidades indígenas del Estado de México el dere
 
 Así mismo tienen derecho social a determinar, conforme a la tradición de cada uno, su propia composición y a ejercer con autonomía todos los derechos que esta ley reconoce a dichos pueblos y comunidades.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 18.
 
-Los derechos que esta ley reconoce a los pueblos y comunidades indígenas, serán ejercidos directamente por sus autoridades tradicionales, las comunidades y sus integrantes, dentro de los territorios en los cuales se encuentran asentados.
+Los derechos que esta Ley reconoce a los pueblos y comunidades indígenas, serán ejercidos directamente por sus autoridades tradicionales, las comunidades y sus integrantes, dentro de los territorios en los cuales se encuentran asentados y que podrán ser de tipo regional, cuando incluyan territorios de más de un municipio, municipal o por localidad.
 
 ###### Artículo 19.
 
@@ -237,15 +285,19 @@ y las comunidades indígenas
 
 Los pueblos y comunidades indígenas del Estado de México, cuentan con sistemas normativos internos que han ejercido de acuerdo a las propias cualidades y condiciones específicas de cada pueblo, para resolver distintos asuntos intracomunitarios y que se consideran como usos y costumbres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 25.
 
-El Estado de México reconoce la validez de las normas internas de los pueblos y comunidades indígenas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y en general de la prevención y solución de conflictos al interior de cada comunidad.
+El Estado de México reconoce la validez de las normas internas de los pueblos y comunidades indígenas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y en general de la prevención y solución de conflictos al interior de cada comunidad asentada en un territorio regional, municipal o por localidad.
 
 Los usos y costumbres que se reconocen legalmente validos y legítimos de los pueblos indígenas, por ningún motivo o circunstancia deberán contravenir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de México, las Leyes Estatales vigentes, ni vulnerar los derechos humanos ni de terceros.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 26.
 
-Las autoridades tradicionales de los pueblos y comunidades indígenas procurarán y administrarán justicia aplicando sus sistemas normativos internos.
+Las autoridades tradicionales de los pueblos, localidades y comunidades indígenas procurarán y administrarán justicia aplicando sus sistemas normativos internos.
 
 ###### Artículo 27.
 
@@ -261,9 +313,11 @@ IV. Cuestiones del trato civil y familiar, en lo concerniente al incumplimiento 
 
 La aplicación de los sistemas normativos internos, es sin perjuicio del derecho de los integrantes de las comunidades indígenas de acudir ante las autoridades judiciales, agrarias o administrativas para resolver los conflictos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 28.
 
-Las autoridades tradicionales de los pueblos y comunidades indígenas al aplicar justicia, se sujetarán a las reglas siguientes:
+Las autoridades tradicionales de los pueblos, localidades y comunidades indígenas al aplicar justicia, se sujetarán a las reglas siguientes:
 
 I. Las audiencias serán públicas;
 
@@ -275,7 +329,9 @@ IV. Quedan prohibidas todas las formas de incomunicación y de tortura;
 
 V. Las sanciones que se impongan en ningún caso atentarán contra los derechos humanos, la igualdad del hombre y la mujer, ni contra las garantías individuales y sociales establecidas en la Constitución General de la República.
 
-Las resoluciones de las autoridades tradicionales de los pueblos y comunidades indígenas, podrán ser consideradas como elementos de prueba para formar y fundar la convicción de jueces y magistrados.
+> <small>(REFORMADO, G.G. 12 NOVIEMBRE DE 2013)</small>
+
+Las resoluciones de las autoridades tradicionales de los pueblos, localidades y comunidades indígenas, podrán ser consideradas como elementos de prueba para formar y fundar la convicción de jueces y magistrados.
 
 ###### Artículo 29.
 
@@ -299,9 +355,13 @@ En los procesos penales, civiles, administrativos o cualquier procedimiento que 
 
 En todas las etapas procesales y al dictar resolución, los jueces y tribunales que conozcan del asunto, deberán tomar en consideración la condición, prácticas, tradiciones, usos y costumbres de los pueblos y comunidades indígenas.
 
-En los casos en que los indígenas o sus pueblos o comunidades sean parte o partes, los jueces y tribunales suplirán la deficiencia de la queja y verificarán que los derechos individuales y sociales de aquellos efectivamente hayan sido reconocidos y respetados.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-Cuando exista duda de la pertenencia o no de una persona a algún pueblo o comunidad indígena, serán las autoridades tradicionales de aquellos, quienes expedirán la constancia respectiva.
+En los casos en que los indígenas o sus pueblos o comunidades de un territorio regional, municipal o por localidad, sean parte o partes, los jueces y tribunales suplirán la deficiencia de la queja y verificarán que los derechos de aquellos efectivamente hayan sido reconocidos y respetados.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+Cuando exista duda de la pertenencia o no de una persona a algún pueblo o comunidad indígena o a su respectivo territorio regional, municipal o por localidad, serán las autoridades tradicionales de aquellos, quienes expedirán la constancia respectiva.
 
 Cuando se requiera el conocimiento de los usos, costumbres y tradiciones de dicha comunidad, las autoridades tradicionales estarán facultadas para proporcionar los informes correspondientes, los que tendrán valor de dictamen pericial.
 
@@ -337,9 +397,11 @@ y las Comunidades Indígenas
 
 ### CAPITULO I. De los Servicios de Salud
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 38.
 
-Los miembros de los pueblos y de las comunidades indígenas en el Estado de México, tienen derecho a la salud, por lo que se promoverá su acceso efectivo a los servicios de salud y asistencia social.
+Los miembros de los pueblos y de las comunidades indígenas establecidas en territorios regionales, municipales o por localidad en el Estado de México, tienen derecho a la salud, por lo que se promoverá su acceso efectivo a los servicios de salud y asistencia social.
 
 ###### Artículo 39.
 
@@ -357,9 +419,11 @@ Asimismo, dispondrá de las medidas necesarias para que el personal que preste s
 
 Pueblos y las Comunidades Indígenas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 40.
 
-Los pueblos y comunidades indígenas asentadas en el Estado de México, gozan del derecho social a vivir dentro de sus tradiciones culturales en libertad, paz y seguridad como culturas distintas y se garantiza su propio desarrollo contra toda forma de discriminación.
+Los pueblos y comunidades indígenas asentadas en territorios regionales, municipales o por localidades en el Estado de México, gozan del derecho social a vivir dentro de sus tradiciones culturales en libertad, paz y seguridad como culturas distintas y se garantiza su propio desarrollo contra toda forma de discriminación.
 
 Tienen derecho social a conservar, proteger, mantener y desarrollar sus propias identidades; así como todas sus manifestaciones culturales; por tanto las autoridades tienen el deber de proteger y conservar los sitios arqueológicos y sagrados, centros ceremoniales y monumentos históricos, además de sus artesanías, vestidos regionales y expresiones musicales, con arreglo a las leyes de la materia.
 
@@ -379,19 +443,27 @@ V. Impulsar la difusión e información de la cultura indígena, a través de lo
 
 VI. Adoptar con la participación de los pueblos y comunidades indígenas, medidas eficaces para promover la eliminación, dentro del sistema educativo y en la legislación, los prejuicios, la discriminación y los adjetivos que denigren a los indígenas;
 
-VII. Promover entre las universidades, institutos tecnológicos y demás instituciones educativas en la entidad, la prestación del servicio social en las comunidades indígenas que por sus características lo requieran.
+> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+VII. Promover entre las universidades, institutos tecnológicos y demás instituciones educativas en la entidad, la prestación del servicio social en las localidades indígenas que por sus características lo requieran.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 42.
 
-Los pueblos y comunidades indígenas, en el marco del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y el Libro Tercero del Código Administrativo del Estado de México, tienen el derecho a fortalecer, utilizar, desarrollar y transmitir a las generaciones futuras, por medio de la educación formal e informal, sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como a utilizar su toponimia propia en la designación de los nombres de sus comunidades, lugares y personas en sus propias lenguas y todo aquello que forme parte de su cultura. El Estado y los municipios protegerán y fomentarán su preservación y práctica.
+Los pueblos y comunidades indígenas, en el marco del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, Ley de Educación del Estado de México y el Libro Tercero del Código Administrativo del Estado de México, tienen el derecho a fortalecer, utilizar, desarrollar y transmitir a las generaciones futuras, por medio de la educación formal e informal, sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como a utilizar su toponimia propia en la designación de los nombres de sus comunidades, lugares y personas en sus propias lenguas y todo aquello que forme parte de su cultura. El Estado y los municipios protegerán y fomentarán su preservación y práctica.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 43.
 
-La educación básica que se imparta en las comunidades indígenas del Estado de México será bilingüe e intercultural, por lo que se deberá fomentar la enseñanza-aprendizaje en la lengua de la comunidad y en el idioma español.
+La educación básica que se imparta en los territorios regionales, municipales o localidades con presencia indígena del Estado de México será bilingüe e intercultural, por lo que se deberá fomentar la enseñanza-aprendizaje en la lengua de la comunidad y en el idioma español.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 44.
 
-Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y del Libro Tercero del Código Administrativo del Estado de México, tendrán derecho a participar socialmente en el fomento de la instrucción y enseñanza en sus propias lenguas.
+Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, de la Ley de Educación del Estado de México y del Libro Tercero del Código Administrativo del Estado de México, tendrán derecho a participar socialmente en el fomento de la instrucción y enseñanza en sus propias lenguas.
 
 ###### Artículo 45.
 
@@ -405,9 +477,11 @@ y Desplazamientos.
 
 Para los pueblos indígenas del Estado de México, las tierras que constituyen el territorio que habitan, no sólo son un medio de producción sino que se encuentran estrechamente vinculadas con su conciencia comunitaria.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 47.
 
-Las comunidades indígenas y sus integrantes, tienen el derecho de preferencia para adquirir los predios que enajenen o cedan la comunidad o alguno de sus integrantes. Este derecho prevalecerá sobre cualquier otro que las leyes del Estado establezcan a favor de otras personas. El Estado tomará las medidas necesarias a fin de dar cumplimiento a este precepto.
+Los Pueblos y las comunidades indígenas y sus integrantes, tienen el derecho de preferencia para adquirir los predios que enajenen o cedan la comunidad o alguno de sus integrantes. Este derecho prevalecerá sobre cualquier otro que las leyes del Estado establezcan a favor de otras personas. El Estado tomará las medidas necesarias a fin de dar cumplimiento a este precepto.
 
 ###### Artículo 48.
 
@@ -421,33 +495,47 @@ II. Cuando el desplazamiento o reacomodo se sustente en causas de utilidad públ
 
 III. En los casos de riesgos, desastres, seguridad o sanidad, deberán justificarse dichas medidas de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 49.
 
-Queda prohibida cualquier expulsión de indígenas de sus comunidades, sea cual fuere la causa con que pretenda justificarse, especialmente por motivos religiosos, políticos o ideológicos. La ley sancionará toda conducta tendiente a expulsar o impedir el retorno de los indígenas a sus comunidades.
+Queda prohibida cualquier expulsión de indígenas de sus localidades y comunidades, sea cual fuere la causa con que pretenda justificarse, especialmente por motivos religiosos, políticos o ideológicos.
 
-El Estado encauzará y fomentará el diálogo en las comunidades donde se presenten este tipo de conflictos y promoverá la celebración de convenios que aseguren la conciliación y el retorno pacífico, así como la integración comunitaria de quienes hayan sufrido las expulsiones.
+> <small>(REFORMADO, G.G. 12 NOVIEMBRE DE 2013)</small>
 
-### CAPITULO IV. Aprovechamiento de los Recursos Naturales en los
+La ley sancionará toda conducta tendiente a expulsar o impedir el retorno de los indígenas a sus localidades y comunidades.
 
-Territorios de los Pueblos y Comunidades Indígenas
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 12 NOVIEMBRE DE 2013)</small>
+
+El Estado encauzará y fomentará el diálogo en las localidades y comunidades donde se presenten este tipo de conflictos y promoverá la celebración de convenios que aseguren la conciliación y el retorno pacífico, así como la integración comunitaria de quienes hayan sufrido las expulsiones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO IV. Aprovechamiento de los Recursos Naturales en los Territorios de los Pueblos, Localidades y Comunidades Indígenas
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 50.
 
-Los pueblos y comunidades indígenas tendrán acceso a los recursos naturales de sus tierras y territorios, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos, de sus leyes reglamentarias y demás disposiciones conducentes.
+Los pueblos y comunidades indígenas tendrán acceso a los recursos naturales de sus tierras y territorios, regionales, municipales o por localidades, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales adoptados por nuestro país y aplicables, las leyes reglamentarias y demás disposiciones conducentes.
 
-El Estado, en coordinación con las autoridades federales competentes y las autoridades tradicionales, en los términos de la legislación aplicable, establecerá mecanismos y programas para el aprovechamiento sustentable de los recursos naturales de los territorios de las comunidades indígenas. Para ese efecto, impulsará la constitución de fondos o fideicomisos regionales cuyo objetivo sea otorgar financiamiento y asesoría técnica a las comunidades indígenas.
+El Estado, en coordinación con las autoridades federales competentes y las autoridades tradicionales, en los términos de la legislación aplicable, establecerá mecanismos y programas para el aprovechamiento sustentable de los recursos naturales de los territorios regionales, municipales o en las localidades y comunidades indígenas. Para ese efecto, impulsará la constitución de fondos o fideicomisos regionales cuyo objetivo sea otorgar financiamiento y asesoría técnica a los pobladores de las localidades y comunidades indígenas.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 51.
 
-Los pueblos y comunidades indígenas y el Estado a través de la Secretaría de Ecología, conforme a la normatividad aplicable, convendrán las acciones y medidas necesarias para conservar el medio ambiente y proteger los recursos naturales comprendidos en sus territorios, de tal modo que éstas sean ecológicamente sustentables, técnicamente apropiadas y adecuadas para mantener el equilibrio ecológico, así como compatibles con la libre determinación de los pueblos y comunidades para la preservación y usufructo de los recursos naturales.
+Los pueblos, localidades y comunidades indígenas y el Estado, a través de la Secretaría de Medio Ambiente, conforme a la normatividad aplicable, convendrán las acciones y medidas necesarias para conservar el medio ambiente y proteger los recursos naturales comprendidos en sus territorios, de tal modo que éstas sean ecológicamente sustentables, técnicamente apropiadas y adecuadas para mantener el equilibrio ecológico, así como compatibles con la libre determinación de los pueblos, localidades y comunidades para la preservación y usufructo de los recursos naturales.
 
 ###### Artículo 52.
 
 Las autoridades y los particulares, deberán consensar con las comunidades indígenas, los proyectos e iniciativas de obras que impacten los recursos naturales comprendidos en sus territorios.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 53.
 
-La constitución de las áreas naturales protegidas y otras medidas tendientes a preservar el territorio de los pueblos y comunidades indígenas, deberán llevarse a cabo con base en acuerdos explícitos entre el Estado, los municipios, y los pueblos y comunidades, incluyendo a sus representantes agrarios.
+La constitución de las áreas naturales protegidas y otras medidas tendientes a preservar los territorios regionales, municipales o por localidades de los pueblos y comunidades indígenas, deberán llevarse a cabo con base en acuerdos explícitos entre el Estado, los municipios, los pueblos y comunidades, incluyendo a sus representantes agrarios.
 
 ###### Artículo 54.
 
@@ -467,39 +555,51 @@ El Ejecutivo del Estado y los Ayuntamientos procurarán evitar el establecimient
 
 Las comunidades indígenas podrán exigir y verificar ante las autoridades correspondientes, que los infractores reparen el daño ecológico causado, en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 57.
 
-Cuando se suscite una controversia entre dos o más comunidades indígenas o entre los integrantes de éstas, por la explotación de recursos naturales, el Estado procurará y promoverá, a través del diálogo y la concertación, que dichos conflictos se resuelvan por la vía de la conciliación, con la participación de las autoridades competentes.
+Cuando se suscite una controversia entre los habitantes de dos o más localidades o comunidades indígenas o entre los integrantes de éstas, por la explotación de recursos naturales, el Estado procurará y promoverá, a través del diálogo y la concertación, que dichos conflictos se resuelvan por la vía de la conciliación, con la participación de las autoridades competentes.
 
 ### CAPITULO V. De la Participación de los Pueblos y las Comunidades
 
 Indígenas en la Planeación y el Desarrollo Económico
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 58.
 
-Los Ayuntamientos procurarán establecer programas y acciones de apoyo a las comunidades indígenas establecidas en su municipio, al efecto establecerán las previsiones presupuestales correspondientes de conformidad con lo dispuesto por el artículo 2 apartado B fracción IX de la Constitución General de la República.
+Los Ayuntamientos procurarán establecer programas y acciones de apoyo a las localidades y comunidades indígenas establecidas en su municipio, al efecto establecerán las previsiones presupuestales correspondientes de conformidad con lo dispuesto por el artículo 2o apartado B fracción IX de la Constitución General de la República.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
-El Ejecutivo del Estado, a través de las instancias de planeación competentes, promoverá la participación de las comunidades indígenas en la formulación, diseño, aplicación y evaluación de programas de desarrollo del interés para dichas comunidades, en los términos que establezcan las previsiones presupuestales correspondientes, de conformidad con lo dispuesto por el artículo 2 apartado B fracción IX de la Constitución General de la República.
+El Ejecutivo del Estado, a través de las instancias de planeación competentes, promoverá la participación de los pueblos y las comunidades indígenas en la formulación, diseño, aplicación y evaluación de programas de desarrollo del interés para mejorar las condiciones de vida en sus territorios regionales, municipales o por localidades, en los términos que establezcan las previsiones presupuestales correspondientes, de conformidad con lo dispuesto por el artículo 2o apartado B fracción IX de la Constitución General de la República.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 60.
 
-El Ejecutivo del Estado podrá convenir con las comunidades indígenas la operación de programas y proyectos productivos conjuntos, tendientes a promover su propio desarrollo.
+El Ejecutivo del Estado podrá convenir con los representantes de la población asentada en los territorios regionales, municipales o por localidades la operación de programas y proyectos productivos conjuntos, tendientes a promover su propio desarrollo.
 
 A través de los programas y proyectos productivos encaminados a la comercialización de los productos de las comunidades indígenas, se fomentará el aprovechamiento directo y se evitará el intermediarismo y el acaparamiento.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 61.
 
-El Ejecutivo del Estado en el diseño de sus políticas de descentralización, considerará a las comunidades indígenas, para facilitarles el acceso a los servicios públicos y que puedan prestarse éstos con mayor eficiencia.
+El Ejecutivo del Estado en el diseño de sus políticas de descentralización, considerará a las comunidades indígenas asentadas en territorios regionales, municipales o por localidades, para facilitarles el acceso a los servicios públicos y que puedan prestarse éstos con mayor eficiencia.
 
-### CAPITULO VI. Desarrollo Económico de los Pueblos
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 NOVIEMBRE DE 2013)</small>
 
-y las Comunidades Indígenas
+### CAPITULO VI. Desarrollo Económico de los Pueblos, las Localidades y las Comunidades Indígenas
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 62.
 
-El Estado y los municipios promoverán el desarrollo equilibrado y armónico de las comunidades indígenas y el resto de la población.
+El Estado y los municipios promoverán el desarrollo equilibrado y armónico de las localidades con presencia indígena y las del resto de la población.
 
 ###### Artículo 63.
 
@@ -521,9 +621,11 @@ Las autoridades estatales y municipales tendrán la obligación de formular las 
 
 El Ejecutivo del Estado y los Ayuntamientos, a fin de proteger el sano desarrollo de los menores de edad, procurarán que el trabajo que desempeñen los menores, en el seno familiar, no sea excesivo, perjudique su salud o les impida continuar con su educación. Para lo que instrumentarán servicios de orientación social encaminados a concientizar a los integrantes de las comunidades indígenas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 67.
 
-El Ejecutivo del Estado, a través de la Secretaría del Trabajo y de la Previsión Social, promoverá la integración de programas de capacitación laboral y empleo en las comunidades indígenas.
+El Ejecutivo del Estado, a través de la Secretaría del Trabajo, promoverá la integración de programas de capacitación laboral y empleo en las comunidades indígenas asentadas en territorios regionales, municipales o por localidades.
 
 Estos programas deberán basarse en el entorno económico, las condiciones sociales y culturales y las necesidades concretas de los pueblos interesados.
 
@@ -543,15 +645,19 @@ Los trabajadores indígenas gozan de igualdad de oportunidades y de trato para h
 
 y la Vida Comunitaria
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 70.
 
-La familia indígena es la base de sustentación y organización de los pueblos y comunidades indígenas. El Estado reconoce las diversas formas de la relación de la pareja en armonía con lo establecido por las leyes estatales vigentes.
+La familia indígena es la base de sustento y organización de los pueblos y comunidades indígenas y contribuye al desarrollo armónico de sus territorios regionales, municipales o por localidad. El Estado reconoce las diversas formas de la relación de la pareja en armonía con lo establecido por los ordenamientos jurídicos vigentes.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 71.
 
-El Estado promoverá, en el marco de las prácticas tradicionales y costumbres de las comunidades y pueblos indígenas, la participación plena de las mujeres en tareas y actividades de las comunidades y pueblos en igualdad de circunstancias y condiciones con los varones, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y el respeto a su dignidad.
+El Estado promoverá, en el marco de las prácticas tradicionales y costumbres de los pueblos y comunidades indígenas, la participación plena de las mujeres en tareas, actividades y cargos de representación de las comunidades, y pueblos en igualdad de circunstancias y condiciones con los varones, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y el respeto a su dignidad.
 
-Para fomentar la participación en igualdad de condiciones el Estado propiciará la información, capacitación y difusión de los derechos de las mujeres, en las comunidades indígenas.
+Para fomentar la participación en igualdad de condiciones, el Estado propiciará la información, capacitación y difusión de los derechos de las mujeres, en las comunidades indígenas y en sus territorios regionales, municipales o por localidades.
 
 ###### Artículo 72.
 
@@ -561,9 +667,11 @@ A las mujeres y a los hombres indígenas les corresponde el derecho fundamental 
 
 El Estado y los municipios tienen la obligación de difundir información y orientación sobre salud reproductiva, control de la natalidad, enfermedades infectocontagiosas y enfermedades de la mujer, de manera que los indígenas puedan decidir informada y responsablemente, respetando en todo momento su cultura y tradiciones.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 73.
 
-En el Estado de México, el Ejecutivo del Estado y los Ayuntamientos fomentarán el ejercicio del derecho de las mujeres indígenas a los servicios de salud, educación bilingüe e intercultural, cultura, vivienda digna y decorosa, a la capacitación para realizar actividades que estimulen su desarrollo integral, a adquirir bienes por transmisión hereditaria o por cualquier otro medio legal, así como a desempeñar cualquier cargo o responsabilidad al interior de la comunidad y participar en proyectos productivos para el desarrollo comunitario, en igualdad de condiciones que el resto de los integrantes de las comunidades.
+En el Estado de México, el Ejecutivo del Estado y los Ayuntamientos fomentarán el ejercicio del derecho de las mujeres indígenas a los servicios de salud, educación bilingüe e intercultural, cultura, vivienda digna y decorosa, a la capacitación para realizar actividades que estimulen su desarrollo integral, a adquirir bienes por transmisión hereditaria o por cualquier otro medio legal, así como a desempeñar cualquier cargo o responsabilidad al interior de los pueblos y comunidades, en sus territorios regionales, municipales o por localidades y participar en proyectos productivos para el desarrollo comunitario, en igualdad de condiciones que el resto de los integrantes de las localidades y comunidades.
 
 ###### Artículo 74.
 
@@ -571,15 +679,19 @@ En el Estado de México se garantizan los derechos individuales de las niñas y 
 
 Se sancionará en los términos de la legislación penal vigente, la separación forzada de niñas y niños indígenas de sus familias, pueblos y comunidades. La ley sancionará las violaciones a los derechos de los niños y niñas, reconocidos por el orden jurídico mexicano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 75.
 
-El Ejecutivo del Estado y los Ayuntamientos, con la participación de las comunidades, impulsarán programas para que la población infantil de los pueblos indígenas mejore sus niveles de salud, alimentación y educación, así como para instrumentar campañas de información sobre los efectos nocivos del consumo de bebidas y sustancias que afectan a la salud humana y se garantice el respeto pleno a sus derechos.
+El Ejecutivo del Estado y los Ayuntamientos, con la participación de las comunidades y dentro de los territorios regionales, municipales o por localidad, impulsarán programas para que la población infantil de los pueblos indígenas mejore sus niveles de salud, alimentación y educación, así como para instrumentar campañas de información sobre los efectos nocivos del consumo de bebidas y sustancias que afectan a la salud humana y se garantice el respeto pleno a sus derechos.
 
 Se procurará y garantizará que las niñas y niños de los pueblos indígenas no padezcan actos de explotación, discriminación o perversión.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 76.
 
-Las mujeres y los jóvenes mayores de dieciocho años tendrán derecho a participar en los procesos políticos, sociales y económicos, así como en la toma de decisiones fundamentales para el desarrollo de los pueblos y las comunidades indígenas.
+Las mujeres y los hombres, mayores de dieciocho años, tendrán derecho a participar en los procesos políticos, sociales y económicos, así como en la toma de decisiones fundamentales para el desarrollo de los pueblos y comunidades indígenas y para el mejoramiento de los territorios regionales, municipales o por localidad.
 
 ###### Artículo 77.
 
@@ -654,5 +766,11 @@ CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, dec
 G.G. 24 DE AGOSTO DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
