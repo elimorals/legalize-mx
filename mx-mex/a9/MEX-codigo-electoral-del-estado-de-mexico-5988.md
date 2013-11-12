@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2013-07-17"
+last_updated: "2013-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -1023,7 +1023,7 @@ VI. Los delegados municipales y los miembros directivos de los Consejos de Parti
 
 VII. Los consejeros, funcionarios o empleados del Instituto; y
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 VIII. Los ministros de cualquier culto religioso.
 
@@ -1077,7 +1077,7 @@ La forma de asignar y distribuir la cantidad resultante será la siguiente:
 
 > <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-b)El financiamiento para la obtención del voto en campañas electorales, será el equivalente al ciento ochenta por ciento del monto del financiamiento que corresponda a cada partido político por actividades ordinarias, durante el año del proceso, el cual deberá aplicarse precisamente al desarrollo de las actividades directamente relacionadas con la obtención del voto en el proceso electoral de que se trate.
+b) El financiamiento para la obtención del voto en campañas electorales, será el equivalente al ciento ochenta por ciento del monto del financiamiento que corresponda a cada partido político por actividades ordinarias, durante el año del proceso, el cual deberá aplicarse precisamente al desarrollo de las actividades directamente relacionadas con la obtención del voto en el proceso electoral de que se trate.
 
 El Consejo General, a través del Órgano Técnico de Fiscalización, vigilará que los partidos destinen dicho financiamiento exclusivamente a las actividades señaladas en el párrafo inmediato anterior. Las cantidades no ejercidas conforme a lo señalado, deberán reintegrarse a la Secretaría de Finanzas del Gobierno del Estado.
 
@@ -1679,7 +1679,9 @@ Los Consejeros Electorales, propietarios y suplentes, así como el Consejero Pre
 
 La Legislatura designará a más tardar el treinta de noviembre del año que corresponda a los consejeros propietarios y suplentes.
 
-Los consejeros electorales designados, entrarán en funciones el primero de enero del año siguiente al de su designación.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+
+Los consejeros electorales designados entrarán en funciones el primero de enero del año siguiente al de su designación. Si cumplido el plazo señalado con anterioridad, no se hubieren aprobado las designaciones de quienes habrán de desempeñar el cargo de Consejeros para el periodo siguiente, seguirán en vigor los nombramientos anteriores hasta en tanto la Legislatura apruebe la designación de los nuevos. En ningún caso se entenderá esto como ratificación del encargo.
 
 > <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2049,7 +2051,7 @@ IX. No ser ministro de culto religioso alguno; y
 
 X. No ser titular de Secretaría del Poder Ejecutivo del Estado, ni Procurador General de Justicia, o subsecretario, a menos que se separe de su encargo con dos años de anticipación al día de su nombramiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 102.
 
@@ -6430,3 +6432,13 @@ G.G. 17 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Si la designación de Consejeros Electorales se efectúa con posterioridad al primero de enero del año 2014, entrarán en funciones el mismo día que inicie su vigencia el Decreto de designación y durarán en su encargo hasta el 31 de diciembre del 2017.
+
+CUARTO.- Para efectos de lo dispuesto en el tercer párrafo del artículo 89, disposición aprobada en este decreto, no podrá extenderse más allá del siguiente periodo ordinario de sesiones en que haya concluido el encargo.
