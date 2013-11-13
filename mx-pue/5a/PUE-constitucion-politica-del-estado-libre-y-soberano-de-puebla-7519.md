@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2013-11-06"
+last_updated: "2013-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -153,7 +153,9 @@ El vocal del Registro Federal de Electores de la Junta Local Ejecutiva del Insti
 
 III.- Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y el Código de Instituciones y Procesos Electorales del Estado de Puebla y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos; hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo.
 
-Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
 
 IV.- El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad, rectores en los procesos electorales.
 
@@ -206,6 +208,10 @@ Los servidores públicos del Estado y de los Municipios, en el ámbito de su com
 Para garantizar la equidad en las campañas electorales durante el tiempo que comprendan las mismas y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes públicos, los órganos autónomos, los municipios, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público, salvo las que fueran de carácter urgente por una contingencia natural, las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para los programas de protección civil en casos de emergencia, así como los que acuerde el Consejo General del Instituto Federal Electoral. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 Las leyes correspondientes en sus ámbitos de aplicación respectivos, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos precedentes, así como el régimen de sanciones a que haya lugar.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+IV.- La ley establecerá el régimen al que se sujetarán las candidaturas independientes.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -447,11 +453,21 @@ Son prerrogativas de los ciudadanos del Estado:
 
 I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum e iniciativa popular en los términos que establezca esta Constitución y la ley de la materia;
 
-II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier empleo o comisión, teniendo las calidades que establezca la ley;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
-III.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del Estado o de los Municipios de éste; y
+II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
-IV.- Los Ministros de los cultos religiosos tendrán las prerrogativas que les conceden la Constitución Política de los Estados Unidos Mexicanos, así como las Leyes, Reglamentos Federales de la Materia.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+III.- Poder ser nombrado para cualquier empleo o comisión, teniendo las calidades que establezca la ley;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del Estado o de los Municipios de éste; y
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+V.- Los Ministros de los cultos religiosos tendrán las prerrogativas que les conceden la Constitución Política de los Estados Unidos Mexicanos, así como las Leyes y Reglamentos Federales de la Materia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
@@ -3011,9 +3027,9 @@ P.O. 29 DE AGOSTO DE 2012.
 
 DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y reforman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
-SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3090,3 +3106,13 @@ PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Congreso del Estado realizará las adecuaciones legales necesarias derivadas del presente Decreto, en un plazo no mayor a ciento veinte días, contados a partir de su entrada en vigor.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
