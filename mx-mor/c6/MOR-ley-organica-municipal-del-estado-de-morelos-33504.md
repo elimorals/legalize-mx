@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2013-10-16"
+last_updated: "2013-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1106,6 +1106,10 @@ Para realizar la actualización de los inventarios de bienes muebles a que se re
 ###### Artículo 47.
 
 Los Regidores son representantes populares integrantes del Ayuntamiento que, independientemente de las atribuciones que les otorga esta Ley, se desempeñan como consejeros del Presidente Municipal, y cumplirán con las comisiones o representaciones que se les encomienden, así como las funciones específicas que les confiera expresamente el propio Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+Para tal efecto, deberán de dar cumplimiento a los Principios de Racionalidad, Austeridad y Disciplina en el Gasto Público Municipal en los Recursos Públicos que manejen, con motivo de las Comisiones o Representaciones que tengan encomendadas y responderán ante el Ayuntamiento, por el manejo de dichos recursos; debiendo informar trimestralmente de las actividades y trabajo desarrollado en las Comisiones que desempeñen.
 
 ###### Artículo 48.
 
@@ -2687,9 +2691,9 @@ La ausencia del Síndico y de los Regidores no se suplirá necesariamente, cuand
 
 Una vez vencido el plazo de la licencia concedida, ya sea temporal o determinada, el propietario deberá reintegrarse de inmediato a su cargo.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
-En caso de reincorporación anticipada al vencimiento de la licencia, para la separación del cargo, el propietario deberá dar aviso en sesión de cabildo y presentarse a desempeñar sus funciones en la sesión inmediata siguiente.
+En caso de reincorporación anticipada al vencimiento de la licencia para la separación del cargo, el propietario se reintegrará a la Sesión inmediata siguiente, una vez que haya dado aviso previamente por escrito, a la Secretaría del Ayuntamiento de la terminación de la licencia.
 
 Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determinan los integrantes del Cabildo, por mayoría calificada y por una sola ocasión.
 
@@ -3183,9 +3187,19 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
+P.O. 13 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 ###### ARTÍCULO CUARTO.
 
