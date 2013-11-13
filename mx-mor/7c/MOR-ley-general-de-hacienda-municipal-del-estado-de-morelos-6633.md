@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2013-11-06"
+last_updated: "2013-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -627,7 +627,7 @@ ARTICULO 93 TER-12.- Los Jueces, Notarios, las Oficinas Públicas, Empresas Frac
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES
 
-> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPÍTULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTÍCULO, EN VIRTUD DE QUE ANTES PERTENECÍA AL CAPÍTULO PRIMERO DE ESTE TÍTULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
+> <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPÍTULO PRIMERO BIS) AL SEÑALAR LA UBICACIÓN DEL PRESENTE ARTÍCULO, EN VIRTUD DE QUE ANTES PERTENECÍA AL CAPÍTULO PRIMERO DE ESTE TÍTULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 94.
 
@@ -869,7 +869,7 @@ Por la promesa de enajenación de bienes que establecen las Fracciones II y XIII
 
 ###### ARTICULO 112.
 
-(DEROGADO POR ARTCULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, P.O. 5 DE JULIO DE 2006)
 
 ###### ARTICULO 113.
 
@@ -1111,7 +1111,7 @@ Serán consideradas como vía pública, las vías de acceso a los predios, los p
 
 ### CAPITULO QUINTO. DE LOS SERVICIOS DE ALUMBRADO PUBLICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CORRESPONDIENTE DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2010, PUBLICADAS EN EL P.O. DE 29 DE DICIEMBRE DE 2009 DE LA SECCION PRIMERA A LA NOVENA, SE SUSPENDE EL INICIO DE LA VIGENCIA DEL PRESENTE ARTICULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2010; PARA LA ENTRADA EN VIGOR VEASE TRANSITORIO RESPECTIVO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CORRESPONDIENTE DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2010, PUBLICADAS EN EL P.O. DE 29 DE DICIEMBRE DE 2009 DE LA SECCIÓN PRIMERA A LA NOVENA, SE SUSPENDE EL INICIO DE LA VIGENCIA DEL PRESENTE ARTÍCULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2010; PARA LA ENTRADA EN VIGOR VÉASE TRANSITORIO RESPECTIVO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -1137,7 +1137,7 @@ Son sujetos de este derecho los propietarios y poseedores de predios urbanos y r
 
 La base para el cálculo de este derecho será la que se apruebe por el Congreso del Estado, a propuesta de los municipios, dentro de cada una de las leyes de ingresos municipales, respetando el principio de proporcionalidad y equidad que debe imperar entre el costo por el servicio que preste el municipio y la contraprestación que eroguen los ciudadanos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CORRESPONDIENTE DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2010, PUBLICADAS EN EL P.O. DE 29 DE DICIEMBRE DE 2009 DE LA SECCIÓN PRIMERA A LA NOVENA, SE SUSPENDE EL INICIO DE LA VIGENCIA DEL PRESENTE ARTÍCULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2010; PARA LA ENTRADA EN VIGOR VEASE TRANSITORIO RESPECTIVO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CORRESPONDIENTE DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2010, PUBLICADAS EN EL P.O. DE 29 DE DICIEMBRE DE 2009 DE LA SECCIÓN PRIMERA A LA NOVENA, SE SUSPENDE EL INICIO DE LA VIGENCIA DEL PRESENTE ARTÍCULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2010; PARA LA ENTRADA EN VIGOR VÉASE TRANSITORIO RESPECTIVO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -1306,6 +1306,12 @@ VIII.- Anotaciones marginales a actas del Registro
 Civil por orden judicial: 1,500.00
 
 IX.- Expedición de certificados de inexistencia: 1,000.00.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 148 BIS.- No se causará este derecho, cuando se realicen anotaciones marginales por orden administrativo de la Dirección General del Registro Civil, derivada de la aclaración de las actas por errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecte los datos esenciales contenidos en el acta.
 
 ### CAPITULO OCTAVO. POR MATANZA DE GANADO
 
@@ -3588,6 +3594,18 @@ PRIMERO.- Publíquese el presente decreto, en el Periódico Oficial "Tierra y Li
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
 
 TERCERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 13 DE NOVIEMBRE DE 2013.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- En virtud de que ya no se causará en favor de los contribuyentes el pago a los Ayuntamientos del Estado de Morelos, por concepto de los derechos mencionados en el presente Decreto, se ordena a los 33 Ayuntamientos, que no sea incluido dicho cobro como un ingreso en sus respectivas Leyes de Ingresos a partir del Ejercicio Fiscal del año de 2014.
+
+TERCERA.- El presente Decreto entrará en vigor el día 1 de Enero de 2014, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+Difúndase en todo el Estado y que los treinta y tres Ayuntamientos lo den a conocer en todas sus comunidades, colonias, fraccionamientos y rancherías, a efecto de que ningún adulto mayor, se quede sin la pensión por no tener su acta de nacimiento; asimismo, publíquese en el portal de internet del Congreso del Estado.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
 
 ###### ARTÍCULO PRIMERO.
 
