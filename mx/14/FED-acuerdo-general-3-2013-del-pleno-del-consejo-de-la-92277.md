@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-10-31"
+last_updated: "2013-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -249,9 +249,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 XVI. DECIMOSEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 4/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 39/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2013)</small>
 
-1. Siete tribunales colegiados especializados: dos en materias administrativa y de trabajo, cuatro en materias civil y de trabajo y uno en materia penal con residencia en Guanajuato, Guanajuato.
+1.- Ocho tribunales colegiados especializados: uno en materia penal, dos en materia administrativa, tres en materia civil y dos en materia de trabajo con residencia en Guanajuato, Guanajuato.
 
 2. Tres tribunales unitarios con sede en Guanajuato.
 
@@ -707,9 +707,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y siete juzgados de Distrito Auxiliares, seis con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 4/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 39/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2013)</small>
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por siete tribunales colegiados de Circuito Auxiliares, uno con residencia en Guanajuato, Guanajuato, cuatro con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y tres juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, cuatro con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y tres juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares.
 
@@ -860,3 +860,11 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá, en su caso, las incidencias laborales que lleguen a presentarse con motivo del traslado del órgano colegiado que aquí se ordena.
 
 CUARTO. Para conocimiento del público en general y por la trascendencia del mismo, publíquese el acuerdo en la Página del Consejo de la Judicatura Federal, como aviso importante. Asimismo, los tribunales colegiados de Circuito de número que hubieran enviado asuntos al Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, y que aún no hubieren sido resueltos, deberán colocar avisos visibles en el local que ocupan, con el nuevo domicilio del órgano jurisdiccional de que se trata.
+
+D.O.F. 13 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los órganos jurisdiccionales que lo integrarán.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
