@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-sistema-de-agua-potable-y-saneamiento-de-77651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-08"
-last_updated: "2011-02-09"
+last_updated: "2013-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL SISTEMA DE AGUA POTABLE Y SANEAMIENTO DE XOCHITEPEC DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE AGUA POTABLE DEL MUNICIPIO DE XOCHITEPEC, MORELOS, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 8 de diciembre de 2010.
 
@@ -1364,3 +1366,17 @@ Queda derogada toda disposición contraria al presente Acuerdo.
 ###### ARTÍCULO TERCERO.
 
 Para todo lo no previsto en el presente Acuerdo, se tomará en cuenta como ordenamiento supletorio la Ley Estatal de Agua y su homologa en el ámbito federal.
+
+P.O. 13 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones que resulten contrarias al presente ordenamiento.
+
+TERCERO. Se abroga el Reglamento del Sistema de Agua Potable del Municipio de Xochitepec, publicado en el Periódico Oficial "Tierra y Libertad" número 4856 tercera sección de fecha 8 de diciembre del 2010. Así mismo los Comités, Subcomités, subsistemas o aquellos análogos que presten el servicio de agua potable dentro del territorio municipal se extinguirán a partir de la entrada en vigor del presente reglamento, por lo que todos los recursos humanos y materiales pasarán a formar parte del Sistema de Agua Potable del Municipio de Xochitepec; así mismo los derechos de los trabajadores de dichas entidades pasarán a formar parte del Sistema y se respetarán en los términos de la legislación aplicable.
+
+CUARTO.- Se autoriza a la Junta de Gobierno del Sistema de Agua Potable del Municipio de Xochitepec para que, designe un interventor en los extintos Comités, Subcomités o subsistemas hasta en tanto se designa el administrador de zona.
+
+QUINTO.- Por esta única vez, los administradores de zona que sean electos iniciarán su encargo al momento de que sea designado y hasta el último día del mes de noviembre del año 2016.
+
+SEXTO.- Las disposiciones reglamentarias a que alude este ordenamiento, deberán emitirse POR LA Junta de Gobierno en un plazo no mayor de ciento veinte días hábiles, contados a partir del inicio de la vigencia del presente ordenamiento.
