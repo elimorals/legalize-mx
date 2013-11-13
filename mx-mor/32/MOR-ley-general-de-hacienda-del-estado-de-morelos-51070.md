@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2013-07-31"
+last_updated: "2013-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -443,7 +443,7 @@ La base para el pago del impuesto sobre diversiones será por mesa o clase de di
 
 I.- Mesa o pista de boliche, por cada una: Quince salarios mínimos.
 
-II. Mesa de billar, por cada una: Cinco salarios mínimos.
+II.- Mesa de billar, por cada una: Cinco salarios mínimos.
 
 III.- Mesas de juegos de dominó, cubilete, dados y similares, por cada una: Dos salarios mínimos.
 
@@ -1283,76 +1283,6 @@ V. Están exentos del pago de los derechos que establece este Capítulo: la Fede
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-Artículo 93 BIS. El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
-
-EN MATERIA DE AGUA Y SANEAMIENTO Tarifa en SMGV
-
-a) Maniobra de extracción de equipo de bombeo de
-
-pozo profundo con grúa a distancia de 50 Km. De
-
-Cuernavaca; 32
-
-b) Maniobra de instalación de equipo de bombeo
-
-de pozo profundo con grúa a distancia de 50 Km. de
-
-Cuernavaca;
-
-c) Traslado de maquinaria pesada (grúa) en KM
-
-subsecuente; 0.3
-
-d) Colocación o desinstalación de dosificador
-
-de cloro; 5.0
-
-e) Aforo con equipo digital; 15
-
-f) Detección de fuga de agua con equipo digital en
-
-líneas o redes, y 17
-
-g) Revisión electromecánica de sistemas
-
-de agua. 7.5
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-Artículo 93 BIS-1. Por el estudio, trámite y expedición del dictamen de factibilidad de obra hidráulica, incluyendo su inscripción en el Registro de Obras Hidráulicas a cargo de la Comisión Estatal del Agua, se pagará el derecho conforme a las siguientes cuotas:
-
-a) Por cada dictamen de factibilidad de obra hidráulica, deberá pagar a la Comisión Estatal de Agua, por concepto de derechos el 2% del monto total presentado para la obtención del respectivo dictamen.
-
-b) Por cada dictamen de factibilidad de estudio o proyecto de obra hidráulica, incluyendo su registro, deberán pagar por concepto de derechos el 2% del monto total estimado o contratado para la realización del estudio o proyecto.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-Artículo 93 BIS-2. Por la elaboración total o parcial de estudios de pre inversión, proyectos ejecutivos y/o técnicos en materia de agua, se pagará el derecho, conforme a las siguientes cuotas:
-
-a) Por la elaboración total del proyecto ejecutivo de 25,000 a 50,000 SMGV.
-
-b) Por la elaboración total del estudio de pre inversión de 8,500 a 25,000 SMGV.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-Artículo 93 BIS-3. Por la elaboración de estudios básicos, relacionados con topografía, geología hidrología hidráulica y/o ingeniería de 1,500 a 50,000 SMGV.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-Artículo 93 BIS-4. Las aguas residuales provenientes de plantas de tratamiento podrán ser aprovechadas y reutilizadas para actividades donde el público usuario este expuesto directamente o en contacto físico y actividades donde el público en general este expuesto indirectamente o en contacto físico incidental y de acceso restringido.
-
-La tarifa estimada por el reúso de estas aguas residuales tratadas se hará en razón de lo siguiente:
-
-a) Por cada pipa (6m3) de agua residual tratada con fines de servicio público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 4.5 SMGV.
-
-b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 3.5 SMGV.
-
-c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados 0.25 SMGV.
-
-d) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1.5 SMGV.
-
-e) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1 SMGV.
-
 ###### Artículo 82.
 
 Los derechos por servicios del Archivo General de Notarías e instrumentos relacionados con las notarías, se causarán conforme a las siguientes:
@@ -1415,7 +1345,7 @@ importe, si éste se proporciona por oficio.
 
 o inexistencia de testamento:
 
-11.- Por la expedición de testimonios:
+11. Por la expedición de testimonios:
 
 a) Por la autorización de documentos 3
 
@@ -1539,7 +1469,15 @@ Séptimo del presente Título.
 
 XIV. (DEROGADA, P.O. 16 DE JUNIO DE 2010)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+
+###### Artículo 83 Bis.
+
+No se causará este derecho, cuando se realicen anotaciones marginales por procedimiento de corrección administrativa de la Dirección General del Registro Civil, derivada de la aclaración de las actas por errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecte los datos esenciales contenidos en el acta.
 
 ### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
@@ -2232,6 +2170,86 @@ Los ingresos que perciba el Estado por los servicios de verificación vehicular,
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
+
+###### Artículo 93 Bis.
+
+El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
+
+EN MATERIA DE AGUA Y SANEAMIENTO Tarifa en SMGV
+
+a) Maniobra de extracción de equipo de bombeo de
+
+pozo profundo con grúa a distancia de 50 Km. De
+
+Cuernavaca; 32
+
+b) Maniobra de instalación de equipo de bombeo
+
+de pozo profundo con grúa a distancia de 50 Km. de
+
+Cuernavaca;
+
+c) Traslado de maquinaria pesada (grúa) en KM
+
+subsecuente; 0.3
+
+d) Colocación o desinstalación de dosificador
+
+de cloro; 5.0
+
+e) Aforo con equipo digital; 15
+
+f) Detección de fuga de agua con equipo digital en
+
+líneas o redes, y 17
+
+g) Revisión electromecánica de sistemas
+
+de agua. 7.5
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 93 Bis
+
+1. Por el estudio, trámite y expedición del dictamen de factibilidad de obra hidráulica, incluyendo su inscripción en el Registro de Obras Hidráulicas a cargo de la Comisión Estatal del Agua, se pagará el derecho conforme a las siguientes cuotas:
+
+a) Por cada dictamen de factibilidad de obra hidráulica, deberá pagar a la Comisión Estatal de Agua, por concepto de derechos el 2% del monto total presentado para la obtención del respectivo dictamen.
+
+b) Por cada dictamen de factibilidad de estudio o proyecto de obra hidráulica, incluyendo su registro, deberán pagar por concepto de derechos el 2% del monto total estimado o contratado para la realización del estudio o proyecto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 93 Bis
+
+2. Por la elaboración total o parcial de estudios de pre inversión, proyectos ejecutivos y/o técnicos en materia de agua, se pagará el derecho, conforme a las siguientes cuotas:
+
+a) Por la elaboración total del proyecto ejecutivo de 25,000 a 50,000 SMGV.
+
+b) Por la elaboración total del estudio de pre inversión de 8,500 a 25,000 SMGV.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 93 Bis
+
+3. Por la elaboración de estudios básicos, relacionados con topografía, geología hidrología hidráulica y/o ingeniería de 1,500 a 50,000 SMGV.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 93 Bis
+
+4. Las aguas residuales provenientes de plantas de tratamiento podrán ser aprovechadas y reutilizadas para actividades donde el público usuario este expuesto directamente o en contacto físico y actividades donde el público en general este expuesto indirectamente o en contacto físico incidental y de acceso restringido.
+
+La tarifa estimada por el reúso de estas aguas residuales tratadas se hará en razón de lo siguiente:
+
+a) Por cada pipa (6m3) de agua residual tratada con fines de servicio público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 4.5 SMGV.
+
+b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 3.5 SMGV.
+
+c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados 0.25 SMGV.
+
+d) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1.5 SMGV.
+
+e) Por cada carga de la pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado 1 SMGV.
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
 
@@ -3451,7 +3469,7 @@ GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
 
-N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE DICIEMBRE DE 2006.
 
@@ -3602,3 +3620,15 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 A partir del primer día del mes siguiente a la fecha de la publicación del presente decreto, deberá realizarse el ajuste a las tarifas establecidas en el artículo 94 de la Ley General de Hacienda del Estado de Morelos, para los servicios de la Policía Industrial Bancaria y Auxiliar, lo cual se verá reflejado en los contratos correspondientes.
+
+P.O. 13 DE NOVIEMBRE DE 2013.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- En virtud de que ya no se causará en favor de los contribuyentes el pago a los Ayuntamientos del Estado de Morelos, por concepto de los derechos mencionados en el presente Decreto, se ordena a los 33 Ayuntamientos, que no sea incluido dicho cobro como un ingreso en sus respectivas Leyes de Ingresos a partir del Ejercicio Fiscal del año de 2014.
+
+TERCERA.- El presente Decreto entrará en vigor el día 1 de Enero de 2014, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+Difúndase en todo el Estado y que los treinta y tres Ayuntamientos lo den a conocer en todas sus comunidades, colonias, fraccionamientos y rancherías, a efecto de que ningún adulto mayor, se quede sin la pensión por no tener su acta de nacimiento; asimismo, publíquese en el portal de internet del Congreso del Estado.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
