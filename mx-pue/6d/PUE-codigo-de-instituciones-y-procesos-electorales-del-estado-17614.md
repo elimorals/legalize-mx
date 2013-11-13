@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2012-12-31"
+last_updated: "2013-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -3449,7 +3449,7 @@ IX.- Utilizar en su propaganda símbolos, distintivos, emblemas o figuras con mo
 
 X.- Utilizar expresiones verbales o escrito contrarios a la moral, que injurien a las autoridades, a los demás partidos políticos o precandidatos, o que tiendan a incitar a la violencia y al desorden.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 173.
 
@@ -3709,7 +3709,23 @@ En ningún caso los informes, juicios, opiniones o conclusiones de los observado
 
 ###### ARTÍCULO 201.
 
-Corresponde exclusivamente a los partidos políticos y a las coaliciones, en su caso, el derecho de solicitar el registro de candidatos a cargos de elección popular. A fin de promover la equidad entre géneros en la vida política del Estado, en ningún caso podrán postular a cargos de elección popular, un porcentaje menor al treinta por ciento con fórmulas de candidatos de un mismo género, para integrar el Congreso del Estado y los Ayuntamientos de la Entidad.
+Corresponde a los partidos políticos y a las coaliciones, en su caso, el derecho de solicitar el registro de candidatos a cargos de elección popular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+La totalidad de solicitudes de registro de las candidaturas a diputados que presenten los partidos políticos o las coaliciones, deberán integrarse con un cincuenta por ciento de candidatos propietarios y suplentes de cada género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+En cada fórmula, propietario y suplente deberán ser del mismo género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+La lista de representación proporcional se integrará por fórmulas de candidatos, compuestas cada una por un propietario y un suplente del mismo género. Se establecerán de forma alternada, fórmulas de género distinto hasta agotar la lista.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+Respecto de los Ayuntamientos, los partidos políticos no podrán postular candidatos en un porcentaje menor al treinta por ciento de fórmulas de un mismo género.
 
 ### CAPÍTULO III. DE LA PROPAGANDA ELECTORAL
 
@@ -6168,5 +6184,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado y no aplicará para el proceso electoral iniciado en la segunda semana de noviembre del año dos mil doce.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y aplicará a partir del proceso electoral en el que se celebren elecciones para la renovación del Congreso del Estado del año dos mil dieciocho.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
