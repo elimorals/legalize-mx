@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-organica-del-ministerio-publico-del-17280"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-09"
-last_updated: "2012-05-09"
+last_updated: "2013-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 9 de agosto de 2000.
 
@@ -195,23 +195,29 @@ IX. Dirección de Policía Ministerial, la que se auxiliará de las dependencias
 
 a) Subdirección de la Policía Ministerial;
 
-b) Coordinación de Investigación de Delitos;
+(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES ADICIONADO, YA QUE DEL TEXTO ORIGINAL DE 9 DE AGOSTO DE 2000, SE ADVIERTE LA EXISTENCIA DE ESTE INCISO.
 
-c) Coordinación de Ejecución de Ordenes de Aprehensión;
+b) Subdirección de Operativos Especiales;
 
-d) Coordinación de Detenciones en Flagrancia;
+c) Coordinación de Investigación de Delitos;
 
-e) Coordinación de Protección a Víctimas u Ofendidos de Delitos;
+d) Coordinación de Ejecución de Ordenes de Aprehensión;
 
-f) Coordinación de Colaboración Institucional;
+e) Coordinación de Detenciones en Flagrancia;
 
-g) Coordinación Especial para la Investigación de Secuestros;
+f) Coordinación de Protección a Víctimas u Ofendidos de Delitos;
 
-h) Departamento Legal;
+g) Coordinación de Colaboración Institucional;
 
-i) Departamento de Actas; y,
+h) Coordinación Especial para la Investigación de Secuestros;
 
-j) Departamento de Servicios Administrativos.
+i) Departamento Legal;
+
+j) Departamento de Actas; y,
+
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTE INCISO EXISTÍA DESDE EL TEXTO ORIGINAL EN EL INCISO J), PERO DEL ANÁLISIS DEL DECRETO PUBLICADO EL 13 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER EL INCISO K).
+
+k) Departamento de Servicios Administrativo (sic).
 
 X. Coordinación Administrativa, la que se auxiliará de las dependencias siguientes:
 
@@ -1229,6 +1235,22 @@ III. Supervisar las actividades del personal de la corporación a fin de verific
 
 IV. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Director de la Policía Ministerial.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 57 Bis.
+
+Son facultades y obligaciones del Subdirector de Operativos Especiales de la Policía Ministerial:
+
+I. Sustituir al Subdirector de la Policía Ministerial en sus ausencias, en cuyo caso asumirá las mismas facultades y deberes;
+
+II. Auxiliar al Subdirector de la Policía Ministerial en las actividades que éste determine;
+
+III. Coordinar, implementar, vigilar, supervisar y dar seguimiento a las acciones que se realizan en los operativos en apoyo y fortalecimiento a las autoridades municipales en el combate al delito y la seguridad pública.
+
+IV. Proveer, vigilar y supervisar lo relativo a la coordinación de los operativos de la Policía Ministerial con autoridades de los tres órdenes de gobierno; y,
+
+V. Las demás que le confieran las leyes u otros ordenamientos y las que le encomiende el Director y Subdirector de la Policía Ministerial.
+
 ###### Artículo 58.
 
 Son atribuciones comunes de los Coordinadores de Investigación de Delitos, Ejecución de Ordenes de Aprehensión, Detenciones en Flagrancia, Protección a Víctimas u Ofendidos de Delitos, de Colaboración Institucional y Especial para la Investigación de Secuestros, las siguientes:
@@ -1870,6 +1892,12 @@ P.O. 4 DE JULIO DE 2007.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 9 DE MAYO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE NOVIEMBRE DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
