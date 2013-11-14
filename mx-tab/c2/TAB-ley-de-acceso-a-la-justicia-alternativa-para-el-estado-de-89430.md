@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-acceso-a-la-justicia-alternativa-para-el-estado-de-89430
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-29"
-last_updated: "2012-08-29"
+last_updated: "2013-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ACCESO A LA JUSTICIA ALTERNATIVA PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 29 de agosto de 2012.
 
@@ -145,15 +145,27 @@ Serán aplicables los mecanismos alternativos de solución de controversias en l
 
 En los delitos con pena superior a los cinco años de prisión los mecanismos alternativos de solución de controversias sólo serán considerados para otorgar beneficios durante el trámite de la actuación o relacionados con la disminución de la pena, o la ejecución de la sanción.
 
-En los delitos de carácter sexual, los cometidos en perjuicio de menores de edad, los de violencia familiar; los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas, el juez y el Agente del Ministerio Público no procurarán el uso de los mecanismos alternativos de solución de controversias entre las partes, salvo cuando lo solicite en forma expresa la víctima u ofendido o su representante legal.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+En los delitos de carácter sexual, los cometidos en perjuicio de menores de edad; los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas, el juez y el Agente del Ministerio Público no procurarán el uso de los mecanismos alternativos de solución de controversias entre las partes, salvo cuando lo solicite en forma expresa la víctima u ofendido o su representante legal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
 No procederá el uso de los mecanismos alternativos de solución de controversias en los siguientes casos:
 
 I. Tratándose de delitos graves;
 
-II. Cuando el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-III. Cuando el Ministerio Público determine que existe un interés público prevalente y lo solicite ante el juez de control.
+II. Cuando el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+III. Cuando el Ministerio Público determine que existe un interés público prevalente y lo solicite ante el juez de control y;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+IV. Cuando se trate del delito de Violencia Familiar.
 
 Tratándose de justicia para adolescentes, se promoverán y aplicarán los mecanismos alternativos de solución de controversias en los términos de la Ley de Justicia para Adolescentes del Estado de Tabasco y demás ordenamientos aplicables.
 
@@ -620,3 +632,13 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las averiguaciones previas que se hayan iniciado antes de la entrada en vigor del presente decreto, o los procesos que se encuentren en trámite ante los órganos jurisdiccionales o administrativos respectivos, se continuarán tramitando conforme a las disposiciones anteriores.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
