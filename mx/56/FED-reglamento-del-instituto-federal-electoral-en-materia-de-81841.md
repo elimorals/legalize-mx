@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-81841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-28"
-last_updated: "2011-09-09"
+last_updated: "2013-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-06-23"
 ---
 # REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 28 de junio de 2011.
 
@@ -915,25 +915,25 @@ XIII. El informe que presente el Comité de Gestión a la consideración del Org
 
 2. Aprobado el informe por el Consejo, se enviará una copia al Instituto Federal de Acceso a la Información, de conformidad con lo establecido por el artículo 62 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
 ARTICULO 21
 
-Del Organo Garante
+Del Órgano Garante
 
-1. El Organo Garante se integrará de la siguiente manera:
+1. El Órgano Garante se integrará de la siguiente manera:
 
 I. Un Consejero Electoral, que presidirá el órgano y cuyo nombramiento será aprobado por las dos terceras partes del Consejo, por un periodo de tres años;
 
-II. El Contralor General del Instituto;
+II. Dos ciudadanos, propuestos por el Consejero Presidente del Consejo, cuyo nombramiento será aprobado por las dos terceras partes del Consejo, por un periodo de tres años y podrán ser reelectos por un periodo igual;
 
-III. Un ciudadano, propuesto por el Consejero Presidente del Consejo, cuyo nombramiento será aprobado por las dos terceras partes del Consejo, por un periodo de tres años, quien podrá ser reelecto por un periodo igual;
+III. Los representantes de los partidos, los consejeros del Poder Legislativo, que podrán participar únicamente con voz pero sin voto, y
 
-IV. Los representantes de los partidos, los consejeros del Poder Legislativo, que podrán participar únicamente con voz pero sin voto, y
+IV. El Director Jurídico del Instituto quien fungirá como Secretario Técnico, con voz pero sin voto.
 
-V. El Director Jurídico del Instituto quien fungirá como Secretario Técnico, con voz pero sin voto.
+2. Sus sesiones se realizarán conforme a lo dispuesto por el Reglamento de Sesiones del Órgano Garante que apruebe el Consejo.
 
-2. Sus sesiones se realizarán conforme a lo dispuesto por el Reglamento de Sesiones del Organo Garante que apruebe el Consejo.
-
-3. Los requisitos que deberá cumplir el especialista a que hace referencia la fracción III, del párrafo 1, de este artículo, serán los siguientes:
+3. Los requisitos que deberán cumplir los especialistas a que hace referencia la fracción II, del párrafo 1, de este artículo, serán los siguientes:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -951,15 +951,15 @@ VII. No haber formado parte del Servicio Profesional Electoral, dentro de los ci
 
 VIII. No desempeñarse como funcionario público al momento de su designación.
 
-4. Las condiciones de contratación del especialista a que hace referencia el párrafo anterior, se determinarán de conformidad con el Acuerdo que al efecto apruebe la Junta. Dicho Acuerdo deberá contener, cuando menos, lo siguiente:
+Las condiciones de contratación de los especialistas a que hace referencia el párrafo anterior, se determinarán de conformidad con el Acuerdo que al efecto apruebe la Junta. Dicho Acuerdo deberá contener, cuando menos, lo siguiente:
 
-I. La remuneración y prestaciones que deberá recibir con motivo de su encargo;
+I. La remuneración y prestaciones que deberán recibir con motivo de su encargo;
 
-II. El nivel jerárquico que tendrá dentro de la estructura administrativa del Instituto;
+II. El nivel jerárquico que tendrán dentro de la estructura administrativa del Instituto;
 
-III. Los recursos humanos y materiales con los que en su caso contará para el adecuado desempeño de sus funciones;
+III. Los recursos humanos y materiales con los que en su caso contarán para el adecuado desempeño de sus funciones;
 
-IV. La mención de que tendrá la calidad de servidor público del Instituto y que se sujetará a las obligaciones y responsabilidades que establezca la legislación aplicable, y
+IV. La mención de que tendrán la calidad de servidores públicos del Instituto y que se sujetarán a las obligaciones y responsabilidades que establezca la legislación aplicable, y
 
 V. La prohibición de desempeñar trabajos de asesoría en materia electoral o transparencia a particulares, organismos públicos, partidos políticos y agrupaciones políticas nacionales.
 
@@ -1989,8 +1989,24 @@ Se aprobaron en lo particular los artículos 5, 32 y 66 del Reglamento del Insti
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 9 DE SEPTIEMBRE DE 2011.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 14 DE NOVIEMBRE DE 2013.
+
+Primero.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos que se encuentren en trámite y que requieran urgente atención o desahogo se resolverán con los votos del Consejero Electoral Designado como Presidente del Órgano Garante y del Especialista, hasta en tanto se incorpora el nuevo integrante del mismo.
+
+Tercero.- Se deja sin efectos el Acuerdo CG306/2008, por el que se creó el Órgano Garante de la Transparencia y el Acceso a la Información, en lo que se contraponga a las modificaciones aprobadas.
+
+Cuarto.- Se instruye a la Junta General Ejecutiva del Instituto Federal Electoral establecer los términos y condiciones de contratación del ciudadano que se incorpore al Órgano Garante como segundo especialista, como consecuencia de la entrada en vigor del presente Acuerdo.
+
+Quinto.- Se instruye a la Junta General Ejecutiva ajustar los términos de la actual relación que existe con el especialista que ya forma parte del Órgano Garante a efecto de que los recursos con que dispone para el cumplimiento de sus atribuciones, distintos a aquellos que recibe como remuneración, sean aprovechados de la forma más eficiente por parte de los dos especialistas. Lo anterior, para su posterior aprobación por parte del Consejo General.
+
+Sexto.- Se exhorta a la Contraloría General a realizar dentro de un plazo de 30 días hábiles el ajuste que considere pertinente en sus disposiciones internas en atención a las reformas del presente Acuerdo y publicarlo en el Diario Oficial de la Federación.
+
+Séptimo.- En términos de lo establecido en los artículos 85 y 86 del Reglamento Interior del Instituto Federal Electoral, se deberá crear una comisión temporal a fin de elaborar el proyecto de reforma en el que se realicen las adecuaciones referentes al Reglamento Interior del Instituto Federal Electoral y se sometan a la consideración de este órgano máximo de dirección.
