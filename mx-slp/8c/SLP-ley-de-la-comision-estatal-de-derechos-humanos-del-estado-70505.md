@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2011-12-24"
+last_updated: "2013-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -177,9 +177,11 @@ En general, todos los principios del Derecho Internacional de los Derechos Human
 
 En aplicación del Principio Pro Persona, la Comisión obligatoriamente interpretará toda norma y situación buscando el mayor beneficio para la persona humana. Así mismo, aplicará y exigirá la aplicación de la norma más amplia o a la interpretación extensiva cuando se trata de derechos protegidos y, por el contrario, a la norma o a la interpretación más restringida, cuando se trata de establecer límites al ejercicio de derechos.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 14.
 
-En aplicación del Principio Pro Débil, la. Comisión obligatoriamente interpretará toda norma y situación buscando el mayor beneficio para la persona humana que, en una relación de competencia o litigio, se encuentre mayormente afectada en sus Derechos Humanos o esté en peor condición para defenderse o para hacer efectivos sus derechos.
+En aplicación del Principio Pro Homine, la Comisión obligatoriamente interpretará toda norma y situación buscando el mayor beneficio para la persona humana que, en una relación de competencia o litigio, se encuentre mayormente afectada en sus Derechos Humanos, o esté en peor condición para defenderse, o para hacer efectivos sus derechos, ante lo cual debe aplicar, en todos los casos, la suplencia en la deficiencia de la queja.
 
 ###### ARTICULO 15.
 
@@ -1153,9 +1155,11 @@ Los expedientes que la Comisión inicie serán de gestión y queja.
 
 El expediente de gestión tiene como objetivo atender los casos de violaciones a Derechos Humanos, en los que pudiese lograrse el cese inmediato o muy rápido de la violación denunciada por la persona víctima, quejosa, peticionaria o denunciante.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 97.
 
-La persona víctima, quejosa o peticionaria podrá presentar su asunto ante la Comisión, a más tardar dentro del plazo de seis meses contados a partir de iniciada la ejecución de los hechos violatorios de los Derechos Humanos o, en su caso, el día en que quien presente el asunto haya tenido conocimiento de ellos.
+La persona víctima, quejosa o peticionaria, podrá presentar su asunto ante la Comisión, a más tardar dentro del plazo de un año, contado a partir de iniciada la ejecución de los hechos violatorios de los Derechos Humanos o, en su caso, el día en que quien presente el asunto haya tenido conocimiento de ellos.
 
 ###### ARTICULO 98.
 
@@ -1589,7 +1593,7 @@ PRIMERO. Este Decreto entrará al día siguiente de su publicación en el Perió
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
 
-DECRETO 767 POR EL QUE SE REFORMA EL ARTICULO 64 EN SU FRACCIÓN I; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 64, ÉSTA COMO II, POR LO QUE ACTUAL II PASA A SER FRACCIÓN III, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ.
+DECRETO 767 POR EL QUE SE REFORMA EL ARTÍCULO 64 EN SU FRACCIÓN I; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 64, ÉSTA COMO II, POR LO QUE ACTUAL II PASA A SER FRACCIÓN III, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 22 DE NOVIEMBRE DE 2011.
 
@@ -1597,7 +1601,7 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
-DECRETO 768 POR EL QUE SE REFORMA EL ARTICULO 79 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN IV, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ.
+DECRETO 768 POR EL QUE SE REFORMA EL ARTÍCULO 79 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN IV, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 22 DE NOVIEMBRE DE 2011
 
@@ -1610,3 +1614,9 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
