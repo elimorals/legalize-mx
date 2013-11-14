@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2012-03-06"
+last_updated: "2013-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -41,9 +41,11 @@ SE EXPIDE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular y garantizar la igualdad entre mujeres y hombres y proponer los lineamientos y mecanismos institucionales que orienten a la Nación hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres. Sus disposiciones son de orden público e interés social y de observancia general en todo el Territorio Nacional.
+La presente Ley tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten a la Nación hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo. Sus disposiciones son de orden público e interés social y de observancia general en todo el Territorio Nacional.
 
 ###### Artículo 2.
 
@@ -65,13 +67,45 @@ En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducen
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombre.
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-II. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+I. Acciones Afirmativas. Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
-III. Sistema Nacional.- Sistema Nacional para la Igualdad entre Mujeres y Hombres.
+(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 2 DE AGOSTO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
-IV. Programa Nacional.- Programa Nacional para la Igualdad entre Mujeres y Hombres.
+II. Discriminación. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
+(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 2 DE AGOSTO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+III. Discriminación contra la Mujer. Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+
+(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 2 DE AGOSTO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+IV. Igualdad de Género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+V. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+VI. Perspectiva de Género. Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN II, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 14 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VII.</small>
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+VII. Transversalidad. Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN III, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 14 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VIII.</small>
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Sistema Nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres, y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN IV, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 14 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER IX.</small>
+
+IX. Programa Nacional. Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 6.
 
@@ -193,9 +227,33 @@ III. Fomentar la participación y representación política equilibrada entre mu
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-V. Promover la igualdad entre mujeres y hombres en la vida civil, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-VI. Promover la eliminación de estereotipos establecidos en función del sexo.
+V. Promover la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+VI. Promover la eliminación de estereotipos establecidos en función del sexo;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -313,13 +371,23 @@ Será objetivo de la Política Nacional el fortalecimiento de la igualdad en mat
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-III. Impulsar liderazgos igualitarios.
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+III. Impulsar liderazgos igualitarios, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -339,9 +407,17 @@ VIII. Evitar la segregación de las personas por razón de su sexo, del mercado 
 
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
-X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -375,9 +451,17 @@ Con el fin de promover la igualdad en el acceso a los derechos sociales y el ple
 
 I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
 
-II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
 
 ###### Artículo 38.
 
@@ -423,9 +507,17 @@ V. Reforzar la cooperación y los intercambios de información sobre los derecho
 
 VIII (sic). Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar en los ámbitos público y privado;
 
-IX. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-X. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+IX. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+X. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+XI. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres el derecho a un permiso y a una prestación por paternidad.
 
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
@@ -439,9 +531,21 @@ Para los efectos de lo previsto en el artículo anterior, las autoridades corres
 
 I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
 
-II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -508,3 +612,7 @@ D.O.F. 16 DE JUNIO DE 2011.
 D.O.F. 6 DE MARZO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
