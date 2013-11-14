@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-organo-garante-de-la-62168"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-14"
-last_updated: "2011-06-28"
+last_updated: "2013-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62168&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-07-10"
 ---
 # REGLAMENTO DE SESIONES DEL ORGANO GARANTE DE LA TRANSPARENCIA Y ACCESO A LA INFORMACION DEL INSTITUTO FEDERAL ELECTORAL
 
-REGLAMENTO DE SESIONES DEL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION DEL INSTITUTO FEDERAL ELECTORAL
+REGLAMENTO DE SESIONES DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
@@ -193,21 +193,21 @@ n) Unidad Técnica: la Unidad Técnica de Servicios de Información y Documentac
 
 ## TITULO SEGUNDO. De la integración y organización del Organo Garante
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
 Artículo 5
 
 Integración del Organo Garante
 
-1. El Organo Garante se integrará del modo siguiente:
+1. El Órgano Garante se integrará del modo siguiente:
 
 a) Un Consejero Electoral, que presidirá el órgano y cuyo nombramiento será aprobado por las dos terceras partes del Consejo, por un periodo de tres años.
 
-b) El Contralor General del Instituto,
+b) Dos especialistas, propuestos por el Consejero Presidente del Consejo, cuyo nombramiento será aprobado por las dos terceras partes del Consejo, por un periodo de tres años, quienes podrán ser reelectos por un periodo igual
 
-c) Un especialista, propuesto por el Consejero Presidente del Consejo, cuyo nombramiento será aprobado por las dos terceras partes del Consejo, por un periodo de tres años, quien podrá ser reelecto por un periodo igual
+c) Los representantes de los partidos y los consejeros del Poder Legislativo, que podrán participar únicamente con voz pero sin voto.
 
-d) Los representantes de los partidos y los consejeros del Poder Legislativo, que podrán participar únicamente con voz pero sin voto.
-
-e) El Director Jurídico del Instituto, quien fungirá como Secretario Técnico, con voz pero sin voto.
+d) El Director Jurídico del Instituto, quien fungirá como Secretario Técnico, con voz pero sin voto.
 
 Artículo 6
 
@@ -273,6 +273,8 @@ Grupos de trabajo
 
 4. El Presidente dará seguimiento y apoyo a las actividades desarrolladas por los grupos de trabajo.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
 Artículo 9
 
 Atribuciones de sus integrantes
@@ -285,7 +287,7 @@ b) Definir el orden del día de cada sesión;
 
 c) Solicitar y recibir la colaboración, los informes y documentos necesarios para el cumplimiento de los asuntos de su competencia;
 
-d) Velar porque todos los integrantes cuenten con toda la información necesaria para el desarrollo de las sesiones, así como la vinculada con los asuntos del propio Organo Garante y la que contenga los acuerdos que se hayan alcanzado;
+d) Velar porque todos los integrantes cuenten con toda la información necesaria para el desarrollo de las sesiones, así como la vinculada con los asuntos del propio Órgano Garante y la que contenga los Acuerdos que se hayan alcanzado;
 
 e) Presidir las sesiones, conceder la palabra y conducir sus trabajos en los términos que establece el presente Reglamento;
 
@@ -301,57 +303,41 @@ j) Declarar la suspensión de las sesiones en los casos que contempla este Regla
 
 k) Tomar las medidas necesarias para garantizar el debido orden en las sesiones ejerciendo las atribuciones que le confiere el artículo 15 en sus numerales 3 y 4 de este Reglamento;
 
-l) Ordenar al Secretario Técnico que someta a votación los programas, informes, dictámenes, acuerdos o resoluciones;
+l) Ordenar al Secretario Técnico que someta a votación los programas, informes, dictámenes, Acuerdos o Resoluciones;
 
-m) Votar los programas, informes, dictámenes, acuerdos o resoluciones;
+m) Votar los programas, informes, dictámenes, Acuerdos o Resoluciones;
 
-n) Revisar los anteproyectos de Programa Anual de Trabajo e Informe Anual de Actividades del Organo Garante y someterlos a la aprobación de éste y posteriormente remitirlos al Consejo General;
+n) Revisar los anteproyectos de (sic) Programa Anual de Trabajo e Informe Anual de Actividades del Órgano Garante y someterlos a la aprobación de éste y posteriormente remitirlos al Consejo General;
 
-o) Solicitar a nombre y por acuerdo del Organo Garante, sin perjuicio de su derecho propio, la inclusión de los programas, informes, dictámenes, acuerdos o resoluciones, en el orden del día de las sesiones del Consejo;
+o) Solicitar a nombre y por Acuerdo del Órgano Garante, sin perjuicio de su derecho propio, la inclusión de los programas, informes, dictámenes, Acuerdos o Resoluciones, en el orden del día de las sesiones del Consejo;
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+p) Designar, para las sesiones, en caso de ausencia temporal, al Consejero integrante del Órgano Garante que deba suplirlo;
 
-p) Designar, para las sesiones, en caso de ausencia temporal, a un integrante con voz y voto del Organo Garante que deba suplirlo;
+q) Dar seguimiento y apoyo a las actividades desarrolladas por los grupos de trabajo que integre el Órgano Garante, en los términos de este Reglamento, y participar en ellos, por sí o por medio de quien designe, y
 
-q) Dar seguimiento y apoyo a las actividades desarrolladas por los grupos de trabajo que integre el Organo Garante, en los términos de este Reglamento, y participar en ellos, por sí o por medio de quien designe, y
+r) Lo demás que le atribuya el Código, este Reglamento, su Acuerdo de creación, el Consejo o el propio Órgano Garante.
 
-r) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
-2. Corresponderá al Contralor General:
-
-a) Concurrir a las sesiones;
-
-b) Participar en las deliberaciones;
-
-c) Votar los programas, informes, dictámenes, acuerdos o resoluciones;
-
-d) Solicitar al Presidente la inclusión de asuntos en el orden del día;
-
-e) Por mayoría, solicitar se convoque a sesión extraordinaria;
-
-f) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Organo Garante, y
-
-g) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2011)</small>
-
-3. Corresponderá al especialista que designe el Consejo, como integrante del Organo Garante:
+2. Corresponderá a los especialistas que designe el Consejo, como integrantes del Órgano garante:
 
 a) Concurrir a las sesiones;
 
 b) Participar en las deliberaciones;
 
-c) Votar los programas, informes, dictámenes, acuerdos o resoluciones;
+c) Votar los programas, informes, dictámenes, Acuerdos o Resoluciones;
 
 d) Solicitar al Presidente la inclusión de asuntos en el orden del día;
 
 e) Por mayoría, solicitar se convoque a sesión extraordinaria;
 
-f) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Organo Garante, y
+f) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Órgano Garante, y
 
-g) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
+g) Lo demás que le atribuya el Código, este Reglamento, su Acuerdo de creación, el Consejo o el propio Órgano Garante.
 
-4. Corresponderá a los Consejeros del Legislativo y Representantes de los partidos políticos:
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+3. Corresponderá a los Consejeros del Legislativo y Representantes de los partidos políticos:
 
 a) Concurrir a las sesiones, por sí o a través de quien designen;
 
@@ -361,17 +347,19 @@ c) Solicitar al Presidente la inclusión de asuntos en el orden del día;
 
 d) Por mayoría, solicitar se convoque a sesión extraordinaria;
 
-e) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Organo Garante, y
+e) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Órgano Garante, y
 
-f) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
+f) Lo demás que le atribuya el Código, este Reglamento, su Acuerdo de creación, el Consejo o el propio Órgano Garante.
 
-5. Corresponderá al Secretario Técnico:
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+
+4. Corresponderá al Secretario Técnico:
 
 a) Preparar el orden del día de las sesiones previamente definido por el Presidente;
 
-b) De conformidad con el artículo 10 del presente Reglamento, en sus numerales 1 y 2, reproducir y circular con toda oportunidad entre los integrantes del Organo Garante, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día;
+b) De conformidad con el artículo 10 del presente Reglamento, en sus numerales 1 y 2, reproducir y circular con toda oportunidad entre los integrantes del Órgano Garante, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día;
 
-c) Verificar la asistencia de los integrantes del Organo Garante y llevar registro de ella;
+c) Verificar la asistencia de los integrantes del Órgano Garante y llevar registro de ella;
 
 d) Declarar la existencia del quórum;
 
@@ -379,23 +367,23 @@ e) Participar en las deliberaciones;
 
 f) Levantar el acta de las sesiones;
 
-g) Dar cuenta de los asuntos presentados al Organo Garante;
+g) Dar cuenta de los asuntos presentados al Órgano Garante;
 
 h) Tomar las votaciones de los integrantes con derecho a voto y dar a conocer su resultado;
 
-i) Informar sobre el cumplimiento de los acuerdos y resoluciones;
+i) Informar sobre el cumplimiento de los Acuerdos y Resoluciones;
 
-j) Llevar un registro de los programas, informes, dictámenes, acuerdos o resoluciones tomados por el Organo Garante;
+j) Llevar un registro de los programas, informes, dictámenes, Acuerdos o Resoluciones tomados por el Órgano Garante;
 
 k) Recabar de los integrantes, las firmas de los documentos que así lo requieran;
 
-l) Organizar y mantener el archivo de los asuntos que conozca el Organo Garante;
+l) Organizar y mantener el archivo de los asuntos que conozca el Órgano Garante;
 
-m) Elaborar los anteproyectos de Programa Anual de Trabajo e Informe Anual de Actividades del Organo Garante;
+m) Elaborar los anteproyectos de Programa Anual de Trabajo e Informe Anual de Actividades del Órgano Garante;
 
-n) Entregar a la Unidad de Enlace del Instituto la información del Organo Garante que de conformidad con lo dispuesto por el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, deba ponerse a disposición del público, y
+n) Entregar a la Unidad de Enlace del Instituto la información del Órgano Garante que de conformidad con lo dispuesto por el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, deba ponerse a disposición del público, y
 
-o) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
+o) Lo demás que le atribuya el Código, este Reglamento, su Acuerdo de creación, el Consejo o el propio Órgano Garante.
 
 ## TITULO TERCERO. Del funcionamiento del Organo Garante
 
@@ -619,10 +607,16 @@ Segundo.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 28 DE JUNIO DE 2011.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por parte del Consejo General.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
+
+D.O.F. 14 DE NOVIEMBRE DE 2013.
+
+Primero.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En términos de lo establecido en los artículos 85 y 86 del Reglamento Interior del Instituto Federal Electoral, se deberá crear una comisión temporal a fin de elaborar el proyecto de reforma en el que se realicen las adecuaciones referentes al Reglamento Interior del Instituto Federal Electoral y se sometan a la consideración de este órgano máximo de dirección.
