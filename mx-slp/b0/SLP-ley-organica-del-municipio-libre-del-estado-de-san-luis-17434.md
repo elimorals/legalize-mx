@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2013-09-17"
+last_updated: "2013-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1743,7 +1743,9 @@ IV. Plano con medidas y colindancias de la propiedad de que se trate;
 
 V. El valor fiscal; y tratándose de permutas, los avalúos comerciales de ambos inmuebles, que practique un perito valuador inscrito en el Registro Estatal de Peritos;
 
-VI. Indicar el uso de suelo del predio;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+VI. Dictamen de factibilidad expedido por, la dirección u autoridad municipal competente, y por la Coordinación Estatal de Protección Civil, respectivamente, mediante el cual se establezca la posibilidad de desarrollar, edificar, construir o realizar obras de infraestructura y los asentamientos humanos en un predio determinado; señalando el uso general y específico del suelo; densidad, los coeficientes de ocupación y uso del suelo; y las restricciones federales, estatales y municipales al mismo, así como la identificación del análisis de riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción, así como identificación de riesgos, que se entenderá como reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
 VII. La exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
 
@@ -2530,3 +2532,9 @@ P.O. 17 DE SEPTIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
