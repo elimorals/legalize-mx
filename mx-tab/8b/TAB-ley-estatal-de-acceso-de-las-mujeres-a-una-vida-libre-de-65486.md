@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2008-12-20"
+last_updated: "2013-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -69,7 +69,7 @@ Para garantizar el cumplimiento de los objetivos del Sistema y Programa Estatal,
 
 Todas las medidas que se deriven de esta Ley garantizarán:
 
-I. Que el Estado y sus. Municipios, en el ámbito de sus competencias, prevengan, atiendan, sancionen y erradiquen todo tipo de violencia que se produzca con motivo de género en contra de las mujeres; y
+I. Que el Estado y sus Municipios, en el ámbito de sus competencias, prevengan, atiendan, sancionen y erradiquen todo tipo de violencia que se produzca con motivo de género en contra de las mujeres; y
 
 II. Que el Estado y sus Municipios promuevan el desarrollo integral de la sociedad conforme a los principios de igualdad, equidad y no discriminación, procurando que la mujer participe plenamente en todas las esferas de la vida.
 
@@ -203,11 +203,13 @@ III. Asesoramiento jurídico a la Víctima sobre las acciones legales que existe
 
 IV. Servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas, eliminar los estereotipos de supremacía de género, patrones machistas, misoginia;
 
-V. Evitar procedimientos de conciliación en una relación en la que hay violencia en el ámbito familiar, a menos que sea a petición de la victima;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+V. Evitar procedimientos de conciliación en una relación en la que hay violencia en el ámbito familiar;
 
 VI. Instalar refugios con ubicación secreta para las Víctimas y sus hijas e hijos, para salvaguardar su integridad física, proporcionando apoyo psicológico, médico y legal especializado y gratuito; y
 
-VIII. Las establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
+VIII (SIC). Las establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LA VIOLENCIA LABORAL O ESCOLAR
 
@@ -1076,3 +1078,13 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LlC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las averiguaciones previas que se hayan iniciado antes de la entrada en vigor del presente decreto, o los procesos que se encuentren en trámite ante los órganos jurisdiccionales o administrativos respectivos, se continuarán tramitando conforme a las disposiciones anteriores.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
