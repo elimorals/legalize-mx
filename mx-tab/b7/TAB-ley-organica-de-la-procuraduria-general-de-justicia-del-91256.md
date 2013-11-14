@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-91256"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-11-17"
-last_updated: "2012-11-17"
+last_updated: "2013-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN ÉL PERIÓDICO OFICIAL DEL ESTADO, DE MANERA GRADUAL, CONFORME A LO ESTABLECIDO EN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO 206, PUBLICADO CON FECHA 29 DE AGOSTO DE DOS MIL DOCE, EN EL SUPLEMENTO "C" DEL PERIÓDICO OFICIAL DEL ESTADO, NÚMERO 7302, EN QUE SE EXPIDIÓ EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 17 de noviembre de 2012.
 
@@ -1179,9 +1179,11 @@ Los Agentes y los peritos, sea cual fuere su denominación y categoría, gozará
 
 Los demás nombramientos conferirán a sus titulares las atribuciones propias de la función que se les encomienden y las que el Reglamento de esta Ley y los demás ordenamientos jurídicos les señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 49.
 
-El Procurador será nombrado por el Gobernador del Estado, de la terna que al efecto le envíe el Honorable Congreso Local, y podrá ser removido libremente en los términos de la Constitución del Estado por el Titular del Poder Ejecutivo, de quien dependerá de forma directa.
+El Procurador será designado por el Gobernador del Estado y ratificado por el H. Congreso del Estado, previa comparecencia ante el Pleno o ante la Comisión Permanente. Podrá ser removido libremente en los términos de la Constitución del Estado por el Titular del Poder Ejecutivo, de quien dependerá de forma directa.
 
 Los Subprocuradores, Directores Generales, Directores y Fiscales Especializados, serán nombrados y removidos libremente por acuerdo del Gobernador, a propuesta del Procurador, cuando la ley o las demás disposiciones aplicables no prevengan otra forma.
 
@@ -1536,3 +1538,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
