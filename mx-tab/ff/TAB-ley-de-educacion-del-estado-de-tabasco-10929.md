@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2012-10-10"
+last_updated: "2013-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -59,17 +59,21 @@ Artículo 3 La aplicación y vigilancia del cumplimiento de la presente Ley comp
 
 Artículo 4 Todo individuo tiene derecho a recibir educación y por lo tanto, todos los habitantes de la entidad tienen las mismas oportunidades de acceso, permanencia y promoción en el sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+Artículo 5 El Estado está obligado a impartir los servicios educativos para que toda la población de la entidad pueda cursar la educación preescolar, la primaria, la secundaria, la media superior, así como la especial destinada a individuos con discapacidades transitorias o permanentes. Estos servicios se ofrecerán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2009)</small>
 
-Artículo 5 El Estado está obligado a impartir los servicios educativos para que toda la población de la entidad pueda cursar la educación preescolar, la primaria y la secundaria, así como la especial destinada a individuos con discapacidades transitorias o permanentes. Estos servicios se ofrecerán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
-
 Asimismo, está obligado a regular, supervisar y sancionar el proceso de educación inicial y cuidados infantiles, de acuerdo a la Ley específica.
 
-Artículo 6 Todos los habitantes de la entidad deben cursar la educación primaria y la secundaria como mínimo.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-Es obligación de los padres o tutores radicados en Tabasco, hacer que sus hijos o pupilos menores de edad cursen la educación primaria y la secundaria.
+Artículo 6 Todos los habitantes de la entidad deben cursar la educación preescolar, la primaria, la secundaria y la media superior, como mínimo.
+
+Es obligación de los padres o tutores radicados en Tabasco, hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, primaria, secundaria y la media superior.
 
 Artículo 7 La educación que impartan el Estado, los Municipios y los organismos descentralizados será laica y, por lo tanto, ajena a cualquier doctrina religiosa.
 
@@ -603,6 +607,10 @@ III.- La educación de tipo superior que abarca la educación normal en todos su
 
 También se ofrecerán los servicios de educación inicial, especial, indígena, la educación para adultos y la formación para el trabajo.
 
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
+
 #### Sección I. DE LA EDUCACIÓN PREESCOLAR
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2007)</small>
@@ -693,7 +701,9 @@ VI.- Fortalecer el hábito de la lectura, brindándole al alumno las herramienta
 
 #### Sección IV. DE LA EDUCACIÓN MEDIA SUPERIOR
 
-Artículo 70 La educación de tipo medio superior tiene como finalidad esencial proporcionar a los alumnos una formación cultural integral, una preparación adecuada para la vida y un desarrollo completo de su personalidad; propiciará además en el educando un adecuado desarrollo cognoscitivo que lo involucre en la problemática social y le permita una participación crítica en el desarrollo cultural del Estado.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+Artículo 70 La educación de tipo medio superior es obligatoria y de calidad, tiene como finalidad esencial proporcionar a los alumnos una formación cultural integral, una preparación adecuada para la vida y un desarrollo completo de su personalidad; propiciará además en el educando un adecuado desarrollo cognoscitivo, que lo involucre en la problemática social y le permita una participación crítica en el desarrollo cultural del Estado.
 
 Artículo 71 Para cursar la educación media superior, es requisito indispensable acreditar la educación secundaria.
 
@@ -1580,3 +1590,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, previo el procedimiento legislativo correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el Artículo Segundo Transitorio del Decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos expedido por el H. Congreso de la Unión, publicado con fecha 9 de febrero de 2012 en el Diario Oficial de la Federación, la obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el Estado a mas tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y de las Entidades Federativas.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con el Artículo Tercero Transitorio del citado Decreto de reforma constitucional, publicado el 9 de febrero de 2012 en el Diario Oficial de la Federación, para dar cumplimiento al principio de obligatoriedad, en los presupuestos de las entidades federativas y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
