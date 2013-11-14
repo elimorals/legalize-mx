@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-10-15"
+last_updated: "2013-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1303,9 +1303,9 @@ XI. El otorgamiento de preseas o reconocimientos en las diferentes áreas del de
 
 XII. La investigación, en su caso, de los méritos que se adjudican a los potosinos propuestos;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Convocar anualmente, a la celebración del Parlamento de las y los jóvenes del Estado de San Luis Potosí; que se realizará en coordinación con la instancia de juventud del Gobierno del Estado, el Consejo Estatal Electoral y de Participación Ciudadana y los ayuntamientos de la Entidad; establecer las bases para el desarrollo del evento y, previo análisis de las propuestas de los participantes; elaborar y, con base en ellas, presentar al Pleno las iniciativas que estime conducentes;
+XIII. Convocar anualmente a la celebración del Parlamento de las y los Jóvenes del Estado de San Luis Potosí, que se realizará en el primer periodo ordinario de sesiones, en coordinación con la instancia de la juventud del Gobierno del Estado, el Consejo Estatal Electoral y de Participación Ciudadana, los ayuntamientos de la Entidad, y las instituciones académicas de nivel medio, y superior, tanto públicas, como privadas que así lo deseen; establecer las bases para el desarrollo del evento y, previo análisis de la propuestas de los participantes, elaborar y, con base en ellas, presentar al Pleno las iniciativas que estime conducentes;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -2156,3 +2156,9 @@ P.O. 15 DE OCTUBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
