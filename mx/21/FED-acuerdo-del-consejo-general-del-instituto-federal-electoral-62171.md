@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-consejo-general-del-instituto-federal-electoral-621
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-08-14"
-last_updated: "2008-09-03"
+last_updated: "2013-11-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-07-10"
 ---
 # ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE CREA EL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION DEL INSTITUTO FEDERAL ELECTORAL
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE CREA EL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION DEL INSTITUTO FEDERAL ELECTORAL
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE CREA EL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE REFORMA EL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013 (SIN EFECTOS).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
@@ -317,8 +319,24 @@ Primero.- Este instrumento entrará en vigor una vez que el Consejo General apru
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 3 DE SEPTIEMBRE DE 2008.
 
 Unico.- El presente Acuerdo entrará en vigor a partir de su aprobación en la sesión correspondiente del Consejo General y tendrá efectos hasta la entrada en vigor del Acuerdo por el que se crea el Organo Garante de la Transparencia y el Acceso a la Información del Instituto Federal Electoral, aprobado en la sesión extraordinaria del Consejo General, celebrada el 10 de julio de 2008, en términos del artículo Décimo Segundo Transitorio del Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, aprobado en la misma sesión y publicado en el Diario Oficial de la Federación el 12 de agosto de 2008.
+
+D.O.F. 14 DE NOVIEMBRE DE 2013.
+
+Primero.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos que se encuentren en trámite y que requieran urgente atención o desahogo se resolverán con los votos del Consejero Electoral Designado como Presidente del Órgano Garante y del Especialista, hasta en tanto se incorpora el nuevo integrante del mismo.
+
+Tercero.- Se deja sin efectos el Acuerdo CG306/2008, por el que se creó el Órgano Garante de la Transparencia y el Acceso a la Información, en lo que se contraponga a las modificaciones aprobadas.
+
+Cuarto.- Se instruye a la Junta General Ejecutiva del Instituto Federal Electoral establecer los términos y condiciones de contratación del ciudadano que se incorpore al Órgano Garante como segundo especialista, como consecuencia de la entrada en vigor del presente Acuerdo.
+
+Quinto.- Se instruye a la Junta General Ejecutiva ajustar los términos de la actual relación que existe con el especialista que ya forma parte del Órgano Garante a efecto de que los recursos con que dispone para el cumplimiento de sus atribuciones, distintos a aquellos que recibe como remuneración, sean aprovechados de la forma más eficiente por parte de los dos especialistas. Lo anterior, para su posterior aprobación por parte del Consejo General.
+
+Sexto.- Se exhorta a la Contraloría General a realizar dentro de un plazo de 30 días hábiles el ajuste que considere pertinente en sus disposiciones internas en atención a las reformas del presente Acuerdo y publicarlo en el Diario Oficial de la Federación.
+
+Séptimo.- En términos de lo establecido en los artículos 85 y 86 del Reglamento Interior del Instituto Federal Electoral, se deberá crear una comisión temporal a fin de elaborar el proyecto de reforma en el que se realicen las adecuaciones referentes al Reglamento Interior del Instituto Federal Electoral y se sometan a la consideración de este órgano máximo de dirección.
