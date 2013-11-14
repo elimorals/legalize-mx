@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2012-08-29"
+last_updated: "2013-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIO DEL DECRETO NÚMERO 206, PUBLICADO EN EL SUPLEMENTO 7302 C DEL P.O. DE 29 DE AGOSTO DE 2012, EL PRESENTE CÓDIGO SE SEGUIRÁ APLICANDO EN LOS MUNICIPIOS DEL ESTADO EN LOS QUE NO HAYA ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO CONFORME A LOS TIEMPOS QUE SE SEÑALAN EN EL ARTÍCULO SEGUNDO TRANSITORIO Y EN LOS MUNICIPIOS DEL ESTADO, EN LOS QUE HABIENDO ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO, SE TRATE DE HECHOS DELICTIVOS Y PROCEDIMIENTOS PENALES, COMETIDOS O INICIADOS CON ANTERIORIDAD A ESE MOMENTO. LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE TABASCO SERÁ GRADUAL Y POR REGIONES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -925,11 +925,7 @@ XIV. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1;
 
 XV. Amenazas, previsto en el artículo 161; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
-
-XVI. Violencia familiar, previsto en los artículos 208 bis y 208 Bis 1, salvo en el caso de lesiones que tarden en sanar más de quince días o que la víctima sea menor de edad o incapaz
+XVI.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 116.
 
@@ -2282,3 +2278,11 @@ No procederá la acumulación de procesos sobre hechos delictuosos, cuando algun
 En el Presupuesto General de Egresos 2013 se crearan las partidas presupuestales para proveer lo conducente y necesario en la asignación de recursos presupuestales en favor de las instancias que deben operar el nuevo Sistema de Justicia Penal, a fin de que cuenten con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto, así como para la infraestructura, capacitación y difusión.
 
 De igual manera, los Presupuestos Generales de Egresos de los años subsiguientes, deberán establecer las partidas presupuestales necesarias según los requerimientos de este ordenamiento.
+
+P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entra en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las averiguaciones previas que se hayan iniciado antes de la entrada en vigor del presente decreto, o los procesos que se encuentren en trámite ante los órganos jurisdiccionales o administrativos respectivos, se continuarán tramitando conforme a las disposiciones anteriores.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
