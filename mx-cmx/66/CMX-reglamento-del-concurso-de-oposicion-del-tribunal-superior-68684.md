@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-del-tribunal-superior-6868
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-03"
-last_updated: "2013-09-13"
+last_updated: "2013-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-08-11"
 
 REGLAMENTO DEL CONCURSO DE OPOSICIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE NOVIEMBRE DE 2013 (DEROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de agosto de 2004.
 
@@ -279,3 +281,25 @@ G.O. 31 DE OCTUBRE DE 2011.
 G.O. 13 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
+
+G.O. 15 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publicación
+
+El presente reglamento y sus lineamientos entrarán en vigor al día siguiente de su publicación en el Boletín Judicial. Para su mayor difusión, publíquese en la Gaceta Oficial del Distrito Federal por una sola vez.
+
+###### ARTÍCULO SEGUNDO.
+
+Derogación
+
+Se deroga el Reglamento de Concurso de Oposición de fecha 11 de agosto del de 2004, así como los acuerdos y disposiciones incorporados al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Concursos previos
+
+Los Concursos de Oposición del Tribunal Superior de Justicia que hayan iniciado antes de la entrada en vigor del presente Reglamento, seguirán siendo regulados por la normatividad que fue vigente al momento de su inicio, salvaguardándose todos los derechos de los concursantes."
+
+Asimismo se aprueban los "Lineamientos relativos a la etapa de evaluación establecidos en el Reglamento de Concurso de Oposición para la designación de Jueces del Tribunal Superior de Justicia del Distrito Federal", en los siguientes términos:
