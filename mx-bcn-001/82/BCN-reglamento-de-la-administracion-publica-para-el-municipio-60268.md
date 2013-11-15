@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2013-10-18"
+last_updated: "2013-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1747,6 +1747,10 @@ II.- Dirección de Educación;
 
 III.- Unidad de atención a Grupos Vulnerables (Discapacitados y Comunidad Sorda).
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Unidad de Atención a Grupos Indígenas.
+
 ###### ARTÍCULO 87.
 
 A la Dirección de Servicios Médicos le corresponden las siguientes atribuciones:
@@ -2350,3 +2354,7 @@ P.O. 9 DE AGOSTO DE 2013.
 P.O. 18 DE OCTUBRE DE 2013.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE NOVIEMBRE DE 2013.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
