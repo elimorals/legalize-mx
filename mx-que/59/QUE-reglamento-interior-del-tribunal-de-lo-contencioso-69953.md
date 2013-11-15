@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-tribunal-de-lo-contencioso-69953"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-28"
-last_updated: "2009-08-28"
+last_updated: "2013-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL SE EXPIDE EL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL P.O. P.O. 15 DE NOVIEMBRE DE 2013., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. P.O. 15 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 28 de agosto de 2009.
 
@@ -1183,3 +1185,13 @@ OFICIAL MAYOR
 C.P. Romelia Portillo Cedeño
 
 Rúbrica
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO JURÍDICO.
+
+P.O. 15 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Sombra de Arteaga".
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Querétaro, expedido el 28 (veintiocho) de agosto de 2009 (dos mil nueve), con sus reformas y adiciones.
+
+Artículo Tercero.- Se derogan las disposiciones de igual o menor rango, que se opongan al presente ordenamiento.
