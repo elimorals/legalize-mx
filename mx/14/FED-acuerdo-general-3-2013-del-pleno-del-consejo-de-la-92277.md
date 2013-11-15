@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-11-13"
+last_updated: "2013-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -177,7 +177,9 @@ VII. SEPTIMO CIRCUITO:
 
 2. Tres tribunales unitarios dos con residencia en Boca del Río y uno con sede en Xalapa.
 
-3. Quince juzgados de Distrito en el Estado de Veracruz: dos especializados de Procesos Penales Federales con residencia en Villa Aldama, tres con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO 37/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+
+3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba”.
 
 VIII. OCTAVO CIRCUITO:
 
@@ -341,7 +343,9 @@ XXVI. VIGESIMO SEXTO CIRCUITO:
 
 XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
-1. Dos tribunales colegiados con residencia en Cancún.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+
+1. Tres tribunales colegiados con residencia en Cancún.
 
 2. Un tribunal unitario con sede en Cancún.
 
@@ -721,9 +725,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 35/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
 
-8. El Centro Auxiliar de la Octava Región, se integrará por un tribunal colegiado de Circuito y un juzgado de Distrito Auxiliares con residencia en Cancún, Quintana Roo, así como por un tribunal colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
+8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán y un Juzgado de Distrito Auxiliar, con residencia en Cancún, Quintana Roo.
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
@@ -868,3 +872,31 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los órganos jurisdiccionales que lo integrarán.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 37/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO VII, NUMERAL 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito.
+
+D.O.F. 15 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA LOS PUNTOS QUINTO, INCISO 8, Y SEGUNDO, APARTADO XXVII, INCISO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Quedan sin efecto las disposiciones dictadas con anterioridad en lo que se opongan al presente acuerdo.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de funciones de la Oficina de Correspondencia Común del Centro Auxiliar de la Octava Región.
+
+La Dirección General de Estadística Judicial atenderá lo relativo al archivo de la Oficina de Correspondencia Común del Centro Auxiliar de la Octava Región que concluye funciones.
+
+QUINTO. La nueva conformación del Pleno del Vigésimo Séptimo Circuito derivada de la incorporación a este del Tercer Tribunal Colegiado materia del presente Acuerdo, tendrá lugar hasta el uno de enero de dos mil catorce. Lo anterior, para ajustarse a lo dispuesto por el artículo 5, y demás dispositivos aplicables, del Acuerdo General 14/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+SEXTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar, de inmediato, el texto de la reforma al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación del Número y Límites Territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; y del Acuerdo General 32/2010, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán.
