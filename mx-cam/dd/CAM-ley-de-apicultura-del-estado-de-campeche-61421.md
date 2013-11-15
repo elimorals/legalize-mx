@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-apicultura-del-estado-de-campeche-61421"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-21"
-last_updated: "2008-05-21"
+last_updated: "2013-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE APICULTURA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 21 de mayo de 2008.
 
@@ -123,9 +123,15 @@ XXIV. Ruta o Territorio apícola: son los caminos, veredas o sitios donde se est
 
 Son autoridades competentes para la aplicación de esta Ley:
 
-l. El Ejecutivo del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. La Secretaría de Desarrollo Rural.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+I. El Ejecutivo del Estado, a través de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2013)
 
 III. Los Ayuntamientos en el ámbito de su competencia.
 
@@ -135,15 +141,33 @@ IV. El Consejo Estatal Apícola.
 
 Las autoridades estatales, municipales y el consejo estatal apícola, a que se refiere el artículo anterior procurarán coordinarse con las dependencias del Gobierno Federal correspondientes, para que dentro de los límites de su competencia, les otorguen el apoyo necesario para lograr los objetivos de esta Ley.
 
-### CAPÍTULO III. DE LAS ATRlBUClONES DE LA SECRETARÍA DE DESARROLLO RURAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 7.
 
-Corresponde a la Secretaría de Desarrollo Rural la planeación, organización, fomento, promoción y manejo estadístico de la producción apícola estatal. Así como el establecimiento de programas estatales que tiendan al mejoramiento de la apicultura, de igual manera la suscripción de convenios y la coordinación con las dependencias del Gobierno Federal para la aplicación de normas y programas en la materia.
+Corresponde a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, la planeación, organización, fomento, promoción y manejo estadístico de la producción apícola estatal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+Así como el establecimiento de programas estatales que tiendan al mejoramiento de la apicultura, de igual manera la suscripción de convenios y la coordinación con las dependencias del Gobierno Federal y Estatal para la aplicación de normas y programas en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 8.
 
-La Secretaría de Desarrollo Rural, para cumplir con lo anterior, tendrá sin perjuicio de las que le concede la Ley Orgánica de la Administración Pública del Estado, las siguientes atribuciones, mismas que ejercerá a través de su Dirección de Apicultura:
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable, para cumplir con lo anterior, tendrá sin perjuicio de las que le concede la Ley Orgánica de la Administración Pública del Estado, las siguientes atribuciones, mismas que ejercerá a través de su Dirección de Apicultura:
 
 I. Promover la formación de organizaciones apícolas, en municipios en donde existan más de 10 apicultores;
 
@@ -179,9 +203,17 @@ Se crea el Consejo Estatal Apícola, como un organismo de coordinación de las a
 
 El Consejo estará integrado por:
 
-I. Un Presidente, que será el Secretario de Desarrollo Rural, quien tendrá voto de calidad en caso de empate;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Un Secretario Técnico, que será el Director de Apicultura de la Secretaría de Desarrollo Rural; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+I. Un Presidente, que será el Secretario de Medio Ambiente y Aprovechamiento Sustentable, quien tendrá voto de calidad en caso de empate;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+II. Un Secretario Técnico que será el Director de Apicultura de la Secretaria de Medio Ambiente y Aprovechamiento Sustentable;
 
 III. Vocales que serán:
 
@@ -195,6 +227,12 @@ Asimismo participarán en sus sesiones con derecho a voz y voto los Presidentes 
 
 El Reglamento de esta ley determinará el funcionamiento y periodicidad para sesionar del Consejo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+Los cargos dentro de este Consejo tienen carácter honorífico y no generan derechos a retribución monetaria alguna.
+
 ###### ARTÍCULO 11.
 
 El Consejo tendrá las siguientes atribuciones:
@@ -203,11 +241,19 @@ I. Elaborar el plan rector apícola del Estado;
 
 II. Analizar los planes y programas de fomento apícola que se pretendan aplicar en el Estado;
 
-III. Proponer programas de fomento apícola a la Secretaría de Desarrollo Rural;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+III. Proponer programas de fomento apícola a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable;
 
 IV. Opinar sobre la creación de centros de procesamiento de productos apícolas;
 
-V. Apoyar a la Secretaria de Desarrollo Rural en sus programas de fomento y promoción de la actividad y productos apícolas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+V. Apoyar a las Secretarías de Medio Ambiente y Aprovechamiento Sustentable y de Desarrollo Rural en sus programas de fomento y promoción de la actividad y productos apícolas;
 
 VI. Proponer mecanismos de coordinación con las dependencias federales para mejorar la vinculación en la materia;
 
@@ -229,7 +275,11 @@ El Consejo Consultivo Apícola es un órgano de consulta, opinión y asesoría, 
 
 El Consejo Consultivo estará integrado por:
 
-I. Un Presidente que será el titular de la Secretaría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+I. Un Presidente que será el Director de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable;
 
 II. Un Secretario Técnico designado por el presidente;
 
@@ -263,15 +313,25 @@ I. Obtener los apoyos económicos que se concedan a los apicultores organizados;
 
 II. Formar parte de la organización de apicultores de la localidad donde se encuentre ubicada su explotación;
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Solicitar a la Secretaría de Desarrollo Rural POR CONDUCTO DE LA ORGANIZACIÓN A QUE PERTENEZCA, la credencial que lo acredite como apicultor;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
-IV. Convenir con la Secretaria de Desarrollo Rural el manejo y expedición de guías de tránsito en materia apícola;
+III. Solicitar al Sistema Nacional de Identificación Individual Ganadera su registro al padrón Ganadero Nacional;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+IV. Convenir con la Secretaría de Medio Ambiente y Aprovechamiento Sustentable el manejo y expedición de guías de tránsito en materia apícola;
 
 V. Tener anuencia de la organización de apicultores correspondientes en caso de reubicación de apiarios;
 
-VI. Obtener de la Dirección de Apicultura de la Secretaría de Desarrollo Rural, un número de registro por ruta o territorio apícola que tenga en operación, así como de las que pretenda operar en el futuro próximo, a efecto de asegurar su derecho de antigüedad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+VI. Obtener de la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, un número de registro por ruta o territorio apícola que tenga en operación, así como de las que pretenda operar en el futuro próximo, a efecto de asegurar su derecho de antigüedad;
 
 VII. Participar en la integración de organismos técnicos o de consulta que se establezcan para la protección y mejoramiento de la apicultura;
 
@@ -283,29 +343,55 @@ IX. Las demás que establezcan esta Ley y su Reglamento.
 
 Son obligaciones de los sujetos a esta ley:
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. CONSTITUIRSE EN ORGANIZACIÓN EN AQUELLOS MUNICIPIOS DONDE EXISTAN MÁS DE 10 APICULTORES. EN LOS MUNICIPIOS QUE CUENTEN CON MENOS DE 10 APICULTORES, DEBERÁN INGRESAR A LA ORGANIZACIÓN MÁS CERCANA A SU LUGAR DE ORIGEN;
+I. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2013)
 
-II. Instalar sus colmenas con estricto apego a lo establecido en el artículo 19 de esta ley, así como informar a la Secretaría de Desarrollo Rural a través de su Dirección de Apicultura del número total de colmenas con que cuenta y la disminución o ampliación de las mismas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Registrar en la Dirección de Apicultura de la Secretaría de Desarrollo Rural, la marca que utilizará para señalar e identificar a sus colmenas, de este registro enviará copia a la organización de apicultores que corresponda;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+II. Instalar sus colmenas con estricto apego a lo establecido en el artículo 19 de esta ley, así como informar a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable a través de su Dirección de Apicultura del número total de colmenas con que cuenta y la disminución o ampliación de las mismas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+III. Registrar ante la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, la marca que utilizará para señalar e identificar a sus colmenas, de este registro enviará copia a la organización de apicultores que corresponda;
 
 IV. Respetar el derecho de antigüedad de otros apicultores cuando pretendan establecer nuevos apiarios;
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Informar a la organización a la que pertenezcan sobre la ubicación de sus apiarios. Anexando plano o croquis descriptivo de macro y micro localización A FIN DE QUE SEA LA ASOCIACIÓN LA QUE TRAMITE Y GESTIONE ante la Dirección de Apicultura de la Secretaría de Desarrollo Rural, el registro respectivo del apicultor, en el caso de que el apicultor no forme parte todavía de una organización deberá tramitar su registro directamente;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
-VI. Registrar ante la Dirección de Apicultura de la Secretaría de Desarrollo Rural, la existencia e instalación de plantas extractoras, purificadoras, envasadoras, receptoras y/o copiadoras de productos y subproductos apícolas, ya sean empresas de origen campechano, sucursales o empresas foráneas que pretendan establecerse en el Estado;
+V. Informar a la organización a la que pertenezcan sobre la ubicación de sus apiarios Anexando plano o croquis descriptivo de macro y micro localización ante la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, para el registro respectivo del apicultor, en el caso de que el apicultor no forme parte todavía de una organización, deberá tramitar su registro directamente;
 
-VII. Rendir informes anuales a la Dirección de Apicultura de la Secretaría de Desarrollo Rural, con copia a la dependencia del Ejecutivo Federal relacionada con el ramo a través de su organización, sobre la producción obtenida, así como de la comercialización realizada en el mercado interno y externo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Informar a la Dirección de Apicultura de la Secretaría de Desarrollo Rural respecto de la adquisición de producto y subproducto apícola de origen campechano, cuyo destino señala comercialización a otros estados o países;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+VI. Registrar ante la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable la existencia e instalación de plantas extractoras, purificadoras, envasadoras, receptoras y/o acopiadoras de productos y subproductos apícolas, ya sean empresas de origen campechano, sucursales o empresas foráneas que pretendan establecerse en el Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+VII. Rendir informes anuales a la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, con copia a la Secretaría de Desarrollo Rural y la dependencia del Ejecutivo Federal relacionada con el ramo a través de su organización, sobre la producción obtenida, así como de la comercialización realizada en el mercado interno y externo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Informar a la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable respecto de la adquisición de producto y subproducto apícola de origen campechano, cuyo destino sea la comercialización a otros estados o países;
 
 IX. Sujetarse a la guía de tránsito y certificado zoosanitario y otros documentos necesarios para la movilización de sus abejas, productos y subproductos;
 
-X. Notificar a la Dirección de Apicultura de la Secretaria Desarrollo Rural y la delegación de la dependencia del Ejecutivo Federal relacionada con el ramo, sobre toda sospecha de enfermedades de las abejas a fin de que se tomen las medidas correspondientes; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+X. Notificar a la Dirección de Apicultura de la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y a la Secretaría de Desarrollo Rural, así como a la delegación de la dependencia del Ejecutivo Federal relacionada con el ramo, sobre toda sospecha de enfermedades de las abejas a fin de que se tomen las medidas correspondientes; y
 
 XI. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africanizada.
 
@@ -317,15 +403,21 @@ XI. Acatar las disposiciones federales y estatales, relativas al control de las 
 
 Para la instalación de un apiario será obligatorio, que dentro de los 30 días anteriores al establecimiento del apiario, el interesado cumpla con los siguientes requisitos:
 
-Notificar a la Secretaría de Desarrollo Rural lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+Notificar a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable lo siguiente:
 
 a) Actividad o actividades específicas a las que se destinará el apiario, pudiendo ser: producción y venta de miel, producción y venta de núcleos, cría y venta de reinas, polen y propóleos, entre otros;
 
 b) Domicilio del interesado y ubicación del apiario, anexando a este último, croquis de localización y ubicación geográfica;
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO C) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c) Credencial foliada expedida por la Dirección de Apicultura de la Secretaría de Desarrollo Rural, O COPIA CERTIFICADA DE SU SOLICITUD DE INGRESO;
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+c) Credencial foliada expedida por la Dirección de Apicultura de la Secretaría de Medio Ambiente y aprovechamiento Sustentable;
 
 d) Marca de fierro o señales que llevarán las cajas para su identificación y efectos del registro; y
 
@@ -343,41 +435,75 @@ La distancia entre un apiario y otro, deberá ser de 2,000 mts. como mínimo, pu
 
 Los apiarios familiares y escolares, tendrán preferencia en su ubicación si están situados dentro de un radio no menor a 2,000 mts., a partir de los límites de la población.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 22.
 
-Cualquier apicultor explotará el número de colmenas que convenga a sus intereses con base a su capacidad, debiendo notificar a la Secretaría de Desarrollo Rural el número con que cuente, así como la disminución o incremento que sufra.
+Cualquier apicultor explotará el número de colmenas que convenga a sus intereses con base a su capacidad, debiendo notificar a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable el número con que cuente, as! como la disminución o incremento que sufra.
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-En la instalación de nuevos apiarios tendrán prioridad los apicultores del poblado en que se pretenda realizar la instalación, deberán de contar con el permiso de las autoridades correspondientes Y PRESENTAR SOLICITUD DE INGRESO EN ALGUNA ORGANIZACIÓN LOCAL DE APICULTORES LEGALMENTE CONSTITUIDA.
+En la instalación de nuevos apiarios tendrán prioridad los apicultores del poblado en que se pretenda realizar la instalación, deberán de contar con el permiso de las autoridades correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 24.
 
-Queda facultada la Secretaría de Desarrollo Rural para que a petición de parte, intervenga como conciliador en los conflictos que se susciten entre los apicultores organizados o no tomando como base la antigüedad y demás derechos del apicultor.
+Queda facultada la Secretaría de Medio Ambiente y Aprovechamiento Sustentable para que a petición de parte, intervenga como conciliador en los conflictos que se susciten entre los apicultores organizados o no, tomando como base la antigüedad y demás derechos del apicultor.
 
 ###### ARTÍCULO 25.
 
 Cuando un apicultor con domicilio dentro o fuera del Estado ocupe en forma ilícita el espacio que pertenece a otro productor apícola, el afectado deberá proceder como sigue:
 
-I. Comunicar por escrito a la Secretaría de Desarrollo Rural, el nombre y domicilio del invasor, ubicación del sitio invadido, número y marca de las colmenas, marcando copia a la organización local de apicultores; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. La Secretaría de Desarrollo Rural a través de su personal técnico, en un plazo no mayor a tres días hábiles, investigará los hechos y en caso de resultar ciertos, se procederá a citar al presunto invasor en un plazo de cinco días hábiles para la conciliación o en su defecto, en los mismos términos se turnará a las autoridades correspondientes para su desalojo.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+I. Comunicar a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, el nombre y domicilio del invasor, ubicación del sitio invadido, número y marca de las colmenas, marcando copia a la organización local de apicultores; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+II. La Secretaría de Medio Ambiente y Aprovechamiento Sustentable a través de su personal técnico, en un plazo no mayor a tres días hábiles, investigará los hechos y en caso de resultar ciertos, se procederá a citar al presunto invasor en un plazo de cinco días hábiles para la conciliación o en su defecto, en los mismos términos se turnará a las autoridades correspondientes para su desalojo.
 
 ### CAPÍTULO II. DE LA MOVILIZACIÓN DE COLMENAS Y SUS PRODUCTOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-Para la movilización y transportación de colmenas y sus productos deberá contarse con las guías de tránsito, tarjeta de porteo y el certificado zoosanitario, expedidas las dos primeras por la Secretaría de Desarrollo Rural y la tercera por la dependencia relacionada del Ejecutivo Federal.
+Para la movilización y transportación de colmenas y sus productos deberá contarse con las guías de tránsito y el certificado zoosanitario, expedidas la primera por la Secretaría de Desarrollo Rural y la segunda por la dependencia relacionada del Ejecutivo Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Como medida de protección a la apicultura en el Estado contra enfermedades y la africanización, queda estrictamente prohibida la introducción apícola proveniente de otros estados o países destinados a ubicarse en el territorio campechano, sin el permiso correspondiente otorgado por la Secretaría de Desarrollo Rural y el Consejo Estatal Apícola.
+Como medida de protección a la apicultura en el Estado contra enfermedades y la africanización, queda estrictamente prohibida la introducción apícola proveniente de otros estados o países destinados a ubicarse en el territorio campechano, sin el permiso correspondiente otorgado por la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y el Consejo Estatal Apícola.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 Para la obtención del permiso habrá que cubrir los siguientes requisitos:
 
-I. Presentar una solicitud ante la Secretaría de Desarrollo Rural, quien la pondrá a consideración al Consejo Estatal Apícola para su análisis y dictamen de procedencia, misma que debe contener los siguientes datos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+I. Presentar una solicitud ante la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, quien la pondrá a consideración del Consejo Estatal Apícola para su análisis y dictamen de procedencia, misma que debe contener los siguientes datos:
 
 a) Domicilio particular y lugar de procedencia;
 
@@ -399,13 +525,19 @@ a) Anuencia por escrito de la organización local de apicultores para establecer
 
 b) Certificado zoosanitario de procedencia, expedido por médico veterinario zootecnista autorizado.
 
-III. La Secretaría de Desarrollo Rural y el Consejo Estatal Apícola, se reservan el derecho de otorgar o negar el permiso correspondiente según el caso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+III. La Secretaría de Medio Ambiente y Aprovechamiento Sustentable y el Consejo Estatal Apícola, se reservan el derecho de otorgar o negar el permiso correspondiente según el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 28.
 
-La persona física o moral que tenga por costumbre movilizar sus apiarios al interior del Estado, como es el caso de la cosecha y división durante el año, A TRAVÉS DE LA ORGANIZACIÓN A LA QUE PERTENEZCA deberá entregar anualmente a la Secretaría de Desarrollo Rural, con copia para el Consejo Estatal Apícola y la delegación de la dependencia relacionada del Ejecutivo Federal en el Estado, la siguiente información:
+La persona física o moral que tenga por costumbre movilizar sus apiarios al interior del Estado, como es el caso de la cosecha y división durante el año, deberá entregar anualmente a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, así como a la Secretaría de Desarrollo Rural, con copia para el Consejo Estatal Apícola y la delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado, la siguiente información:
 
 I. Número total de colmenas y apiarios que se trasladan o permanecen en el sitio preestablecido;
 
@@ -415,17 +547,23 @@ III. Municipio, poblado y paraje de ubicación original y de la nueva ubicación
 
 IV. Mapas o croquis georeferenciados (sic) de localización de los apiarios, señalando claramente los lugares de origen y los de nueva ubicación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría de Desarrollo Rural podrá ordenar hacer una o más inspecciones a los apiarios notificando oportunamente al apicultor las fechas de visita.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable, podrá ordenar hacer una o más inspecciones a los apiarios notificando oportunamente al apicultor las fechas de visita.
 
 ### CAPÍTULO III. DE LA IDENTlFICACIÓN Y REGISTRO
 
-(NOTA: EL 10 DE MARZO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2008, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE MARZO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 30.
 
-Todo apicultor que opere en el Estado, marcará sus cámaras de cría y demás partes de la colmena con una figura por medio de fierro quemador con medidas similares a las reglamentarias de los ganaderos para herrar sus animales y número de serie correlativo. El fierro del apicultor indicará la propiedad de la colmena y demás partes y será registrado en la Secretaría de Desarrollo Rural y ante las autoridades municipales competentes A TRAVÉS DE LA ORGANIZACIÓN APÍCOLA CORRESPONDIENTE. Lo anterior, sin perjuicio de la coordinación y colaboración que en la materia exista con la dependencia federal del ramo.
+Todo apicultor que opere en el Estado deberá darse de alta en el Padrón Ganadero Nacional, identificar sus colmenas con los marcadores oficiales y marcará sus cámaras de cría y demás partes de la colmena con una figura por medio de fierro quemador con medidas similares a las reglamentarias de los ganaderos para herrar sus animales y número de serié correlativo. El fierro del apicultor indicará la propiedad de la colmena y demás partes y será registrado ante la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y ante las autoridades municipales competentes. Lo anterior, sin perjuicio de la coordinación y colaboración que en la materia exista con la Secretaría de Desarrollo Rural y la delegación en el Estado de la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 ###### ARTÍCULO 31.
 
@@ -445,13 +583,21 @@ Los apicultores no serán responsables de los daños que las abejas causen a per
 
 ### CAPÍTULO IV. DE LA TÉCNICA Y PROTECCIÓN APÍCOLA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-Para efectos de la presente Ley, se declara de interés público:
+Para efectos de la presente ley, se declara de interés público:
 
 l. La protección, conservación y fomento de las plantas nectaropoliníferas;
 
-II. El fomento del establecimiento de la marca campechana en los productos obtenidos en la actividad apícola en el Estado, mediante la leyenda “producto de origen campechano”; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+II. El fomento del establecimiento de la marca campechana en los productos obtenidos en la actividad apícola en el Estado, mediante la leyenda "Producto de Campeche"; y
 
 III. El fomento y protección de las especies adaptadas en el Estado, con el fin de criar y comercializar especimenes propios de la región.
 
@@ -459,9 +605,13 @@ III. El fomento y protección de las especies adaptadas en el Estado, con el fin
 
 El Gobierno del Estado en coordinación con la dependencia del Ejecutivo Federal relacionada con el ramo y las organizaciones de apicultores; promoverán y fomentarán la introducción de cría de reinas de razas europeas puras como medida para controlar la africanización.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 37.
 
-La Secretaría de Desarrollo Rural, por si o en coordinación con su homóloga del Año XVII No. 4041 (sic) con los productores apícolas, organizará eventos que contribuyan al desarrollo de la apicultura.
+La Secretaría de Medio Ambiente y Aprovechamiento Sustentable, por si o en coordinación con otras dependencias estatales, federales o con los productores apícolas, organizará eventos. que contribuyan al desarrollo de la apicultura en el Estado.
 
 ###### ARTÍCULO 38.
 
@@ -477,9 +627,13 @@ Cuando una dependencia gubernamental, persona física o moral, tenga necesidad d
 
 ### CAPÍTULO V. DE LA INSPECCIÓN SANITARIA APÍCOLA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 41.
 
-Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de aspectos zootécnicos, la Secretaría de Desarrollo Rural cooperará con las instituciones competentes en las inspecciones de los apiarios, centros de acopio y centros de servicio o mieleras; farmacias veterinarias o establecimientos que vendan insumos para la actividad apícola, verificando que estén autorizados los medicamentos que se utilizan para el manejo de las colonias.
+Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de aspectos zootécnicos, la Secretaría de Medio Ambiente y Aprovechamiento Sustentable cooperará con las instituciones competentes en las inspecciones de los apiarios, centros de acopio y centros de servicio o mieleras; farmacias veterinarias o establecimientos que vendan insumos para la actividad apícola, verificando que estén autorizados los medicamentos que se utilizan para el manejo de las colonias.
 
 ###### ARTÍCULO 42.
 
@@ -525,7 +679,11 @@ III. Pugnar por agrupar a los apicultores de un municipio o zona de influencia;
 
 IV. Acatar las disposiciones expedidas por las dependencias correspondientes para el control de las enfermedades y de la abeja africanizada;
 
-V. Colaborar con la Secretaría de Desarrollo Rural y demás instituciones en la realización de programas para el desarrollo apícola, así como en la estricta observancia de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
+V. Colaborar con la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y demás instituciones en la realización de programas para desarrollo apícola, así como en la estricta observancia de esta Ley;
 
 VI. Participar en las campañas que efectúen las autoridades y organismos públicos, privados, nacionales o extranjeros contra plagas, enfermedades y en el control de la abeja africanizada;
 
@@ -581,9 +739,13 @@ Se prohíbe toda movilización de colmenas, abejas reinas, celdas reales, núcle
 
 Es obligatorio el cambio de abejas reinas mejoradas en todas y cada unas (sic) de las colmenas de los apicultores del Estado, cuando menos una vez al año.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 56.
 
-Toda sospecha de la presencia de enfermedades en una colmena deberá reportarse a la Secretaría de Desarrollo Rural y a los organismos oficiales o privados que cooperan con el programa.
+Toda sospecha de la presencia de enfermedades en una colmena deberá reportarse a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y a los organismos oficiales o privados que cooperan con el programa.
 
 ## TÍTULO TERCERO. INFRACCIONES, SANCIONES Y RECURSOS
 
@@ -593,9 +755,13 @@ Toda sospecha de la presencia de enfermedades en una colmena deberá reportarse 
 
 El robo de colmenas total o parcial, productos de la colmena, material apícola o la destrucción de éstas serán sancionadas conforme a lo dispuesto por el Código Penal del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 58.
 
-Las infracciones a los preceptos de esta Ley que no constituyan delito, se sancionarán administrativamente por la Secretaría de Desarrollo Rural, en la forma y términos que señala la ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+Las infracciones a los preceptos de esta Ley que no constituyan delito, se sancionarán administrativamente por la Secretaría de Medio Ambiente y Aprovechamiento Sustentable, en la forma y términos que señala la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
 
 ###### ARTÍCULO 59.
 
@@ -643,9 +809,13 @@ La clausura se aplicará cuando se carezca de los permisos y licencias que seña
 
 ### CAPÍTULO II. DE LOS RECURSOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 61.
 
-Contra las resoluciones emitidas por la Secretaría de Desarrollo Rural con motivo de la aplicación de la presente ley, se aplicará lo dispuesto en el Código de Procedimientos Contencioso-Administrativos del Estado de Campeche.
+Contra las resoluciones emitidas por la Secretaría de Medio Ambiente y Aprovechamiento Sustentable con motivo de la presente ley, se aplicará lo dispuesto en el Código de Procedimientos Contencioso-Administrativos del Estado de Campeche.
 
 ## TRANSITORIOS
 
@@ -666,3 +836,11 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIIl d
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veinte días del mes de mayo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
