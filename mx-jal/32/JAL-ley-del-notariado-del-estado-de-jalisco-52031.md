@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2012-11-20"
+last_updated: "2013-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -299,9 +299,7 @@ El notario deberá desempeñar su cargo a petición de parte, dentro de los lím
 
 Los notarios adscritos a los municipios comprendidos en la fracción I del artículo siguiente, deberán tener su oficina notarial única en el municipio de su adscripción y establecer su domicilio particular en cualquiera de los municipios de la zona metropolitana.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
-
-Los notarios públicos en ejercicio de sus funciones deberán acreditar cada año, con documentos públicos fehacientes, la ausencia de impedimentos a que hace referencia la fracción VII del artículo 9.° de esta ley, mediante certificado médico expedido por institución de salud pública o privada acreditada; en el caso de que el citado documento acredite o presuma que el examinado padece enfermedad permanente que limite las facultades intelectuales o impedimento físico para ejercer las funciones como notario, el titular del Poder Ejecutivo, por conducto de la Secretaría General de Gobierno, de oficio iniciará el procedimiento respectivo en los términos que señala el reglamento, resolviendo lo conducente en los términos del artículo 57 de esta ley.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 29.
 
@@ -437,8 +435,6 @@ Atotonilco el Alto,
 
 Ayotlán,
 
-.
-
 Degollado.
 
 V. REGION 05, Sureste, comprendiendo los siguientes municipios:
@@ -461,8 +457,6 @@ Tamazula de Gordiano,
 
 Tecalitlán,
 
-.
-
 Valle de Juárez.
 
 VI. REGION 06, SUR, que comprende los siguientes municipios:
@@ -470,8 +464,6 @@ VI. REGION 06, SUR, que comprende los siguientes municipios:
 Amacueca,
 
 Atemajac de Brizuela,
-
-.
 
 Atoyac,
 
@@ -535,8 +527,6 @@ Cihuatlán,
 
 Cuautitlán de García Barragán,
 
-.
-
 La Huerta,
 
 Purificaciópn (sic).
@@ -580,8 +570,6 @@ San Juanito de Escobedo,
 Cocula,
 
 El Arenal,
-
-.
 
 Etzatlán,
 
@@ -755,6 +743,10 @@ Cuando para la integración de averiguación previa, en la investigación por la
 
 El notario expedirá copias certificadas y testimonios por mandamiento judicial, que se requieran para el ejercicio de una acción civil o penal.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+En todos los casos aquí señalados, el notario deberá ser notificado con 24 horas de anticipación con el objeto de salvaguardar los derechos estipulados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 43.
 
 El notario autorizante, el o sus asociados, asistentes, practicantes para el ejercicio notarial, empleados, dependientes y demás personas que puedan tener acceso a los libros del protocolo, así como el Director del Archivo de Instrumentos Públicos y los demás servidores públicos de esa dependencia, están estrictamente obligados a guardar el secreto profesional sobre actos que autorice el primero y aun sobre la existencia de ellos, salvo cuando lo requiera la Secretaría General de Gobierno o por orden judicial o ministerial, fundada y motivada, sean requeridos.
@@ -807,9 +799,9 @@ V. Sus números telefónicos y en su caso, el fax y correo electrónico;
 
 VI. Horario de servicio al público.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
-Los datos a que se refieren las fracciones que anteceden deberán actualizarse en el mes de enero de cada año y dentro de los treinta días naturales siguientes a cualquier modificación de los mismos.
+En caso que el notario modifique cualquiera de los datos a que se refieren las fracciones que anteceden, deberá dar aviso en un término que no exceda 30 días hábiles actualizando dicha información a la Secretaria General de Gobierno, así como al Colegio de Notarios para los fines conducentes.
 
 ###### Artículo 46.
 
@@ -947,9 +939,9 @@ III. La revocación del nombramiento en los términos de esta ley;
 
 IV. El impedimento físico o psíquico total y permanente que lo imposibilite para actuar como notario.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
-La Procuraduría Social, o el Consejo de Notarios, de oficio o a solicitud de cualquier persona con interés legítimo, apoyados en indicios que hagan probable la existencia de causa de incapacidad para el desempeño de su función, podrán solicitar que la Secretaría de Salud (sic) Jalisco dictamine sobre las condiciones del notario para los efectos de la fracción III de este artículo y fracción I del artículo anterior, lo cual se hará del conocimiento en forma inmediata al Secretario General de Gobierno, y
+La Secretaría General de Gobierno, la Procuraduría Social o el Consejo de Notarios, apoyados en indicios que hagan probable la existencia de causa de incapacidad para el desempeño de su función, podrán requerir al notario en funciones que acuda a una institución del sector salud con domicilio en el Estado de Jalisco dentro de los 10 días hábiles siguientes a partir de la fecha en que sea notificado, con la finalidad de que ésta dictamine si existe algún impedimento físico o psíquico que lo imposibilite a desempeñar sus funciones notariales; y
 
 V. El fallecimiento o declaración de ausencia del notario.
 
@@ -1195,9 +1187,17 @@ X. Hará constar que los otorgantes tienen capacidad y bastará que en ellos no 
 
 XI. En los contratos de compraventa en que proceda la designación de beneficiario y por voluntad del adquirente no se consigne la institución, se dejará constancia de haber informado a esa parte sobre el derecho que tiene de designarlo en los términos de la legislación civil;
 
-XII. En cumplimiento de disposiciones fiscales o administrativas, contendrá las menciones y liquidaciones que resulten aplicables al acto o hecho jurídico materia del otorgamiento; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Cuando el acto jurídico contenido en el instrumento adolezca de notoria injusticia para alguno de los contratantes, el notario deberá hacerle las observaciones correspondientes y sus consecuencias legales. Si insiste en formalizar el referido acto, al autorizar el instrumento se hará constar esta circunstancia.
+XII. En cumplimiento de disposiciones fiscales o administrativas, contendrá las menciones o liquidaciones que resulten aplicables al acto o hecho jurídico materia del otorgamiento;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Cuando el acto jurídico contenido en el instrumento adolezca de notoria injusticia para alguno de los contratantes, el notario deberá hacerle las observaciones correspondientes y sus consecuencias legales. Si insiste en formalizar el referido acto, al autorizar el instrumento se hará constar esta circunstancia; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Certificará que tuvo a la vista los documentos relacionados o insertados en la escritura.
 
 ###### Artículo 85.
 
@@ -2766,5 +2766,9 @@ P.O. 13 DE NOVIEMBRE DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 20 DE NOVIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE NOVIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
