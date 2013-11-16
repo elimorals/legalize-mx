@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-08-10"
+last_updated: "2013-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1589,17 +1589,17 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 Para el ejercicio fiscal 2013, el beneficio a que se refieren las fracciones I, II, y V del artículo 42 de esta Ley, se amplía hasta el 30 de abril del citado año con un descuento del 10%, además de no generar los recargos correspondientes en dichas prórrogas, ampliándose por el mismo periodo los descuentos especificados en las fracciones III y IV de ese mismo artículo.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Por concepto de estímulo fiscal, en el ejercicio fiscal 2013, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio 2013 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago de los servicios de agua potable, alcantarillado y saneamiento de los años anteriores y 2013, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en el periodo y porcentaje siguiente:
 
-PERIODO AGOSTO A NOVIEMBRE Y
+PERIÓDO Del 17 de noviembre de 2013 al
 
-OCTUBRE DICIEMBRE
+20 de diciembre de 2013
 
-BASE 60% 50%
+BASE 0%
 
 Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
 
@@ -1672,3 +1672,7 @@ P.O. 10 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. 16 DE NOVIEMBRE DE 2013.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
