@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-y-desarrollo-de-ciencia-y-tecnologia-del-51981"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2010-05-29"
+last_updated: "2013-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE COLIMA
 
-LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE COLlMA
+LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -125,7 +125,9 @@ El CECyTCOL tendrá las siguientes atribuciones:
 
 I. Proponer las políticas gubernamentales para fomentar la investigación y difusión de la Ciencia y la Tecnología, encaminadas a elevar el nivel de vida de la población, combatir la desigualdad y preservar los recursos naturales para garantizar un desarrollo sustentable del Estado de Colima;
 
-II. Elaborar y difundir el Programa;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+II. Elaborar, actualizar y difundir el Programa;
 
 III. Promover y fomentar la cultura científica, tecnológica y humanística;
 
@@ -141,7 +143,9 @@ VIII. Ser enlace y coordinador de las actividades científicas, humanísticas y 
 
 IX. Apoyar programas y proyectos de investigación científica, humanística y tecnológica, relacionados con las necesidades y la solución de problemas sociales procurando el aprovechamiento de los recursos naturales y preservar el desarrollo sustentable del Estado;
 
-X. Propiciar la formación de una cultura que valore la ciencia y el desarrollo tecnológico y su vinculación con la sociedad colimense, a través de publicaciones, foros y simposium;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+X. Propiciar, a través de publicaciones, foros y simposios, la formación de una cultura que valore la ciencia y el desarrollo tecnológico y su vinculación con la sociedad colimense, así como la participación equitativa de mujeres y hombres en dicho desarrollo;
 
 XI. Promover en coordinación con las Universidades y Centros de Estudios Medio Superior y Superior, la formación de recursos humanos para la investigación científica, tecnológica y humanística;
 
@@ -161,9 +165,17 @@ XVIII. Promover el establecimiento de acciones de vinculación entre los sectore
 
 XIX. Promover el establecimiento del Premio, y el otorgamiento de reconocimientos a quienes sin hacerse merecedores al premio se destaquen en la investigación científica, tecnológica y humanística;
 
-XX. Establecer vínculos de coordinación con el Consejo Nacional y los Consejos Estatales de Ciencia y Tecnología, para el intercambio de información, conocimientos, programas y acciones que se estén desarrollando; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
-XXI. Las demás que le asignen esta ley u otros ordenamientos aplicables.
+XX. Establecer vínculos de coordinación con el Consejo Nacional y los Consejos Estatales de Ciencia y Tecnología, para el intercambio de información, conocimientos, programas y acciones que se estén desarrollando;
+
+(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 23 DE SEPTIEMBRE DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+XXI. Crear y expedir las bases de organización y funcionamiento del Sistema Estatal de Información Sobre Investigación Científica, Desarrollo Tecnológico e Innovación, así como del registro y las reglas de operación del mismo; y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 16 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXII.</small>
+
+XXII. Las demás que le asignen esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 7°.
 
@@ -315,7 +327,9 @@ III. Presentar para su análisis y aprobación en su caso, la propuesta de presu
 
 IV. Ejecutar los acuerdos de la Junta Directiva;
 
-V. Elaborar y presentar a la Junta Directiva el Programa;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+V. Elaborar y presentar a la Junta Directiva el Programa, así como realizar y proponer las actualizaciones pertinentes al mismo;
 
 VI. Asistir con voz pero sin voto a las sesiones de la Junta Directiva, de las Comisiones y de la Comisión Consultiva;
 
@@ -447,19 +461,37 @@ VI. Otras actividades específicas que le generen ingresos.
 
 ### CAPÍTULO VII. DEL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGÍA
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 20.
 
-El programa estatal de ciencia y tecnología es el instrumento rector de la política pública en la materia, será expedido, aplicado, evaluado y actualizado cada dos años en función de los avances que se tengan por el CECyTCOL.
+El programa estatal de ciencia y tecnología es el instrumento rector de la política pública en la materia, será expedido, aplicado, evaluado y actualizado cada tres años en función de los avances que se tengan por el CECyTCOL.
+
+El Programa Estatal incluirá una visión de largo plazo y proyección de hasta 25 años, de manera coordinada con el Programa Especial de Ciencia, Tecnología e Innovación a nivel Federal.
 
 ###### Artículo 21.
 
 A través del Programa Estatal de Ciencia y Tecnología, el Gobierno del Estado aplicará las acciones, programas y metas en materia de investigación científica y tecnológica que se contemplen en el Plan Estatal de Desarrollo, procurando el impulso del crecimiento económico y bienestar social de los habitantes del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+El Gobierno del Estado, a través del Programa Estatal, deberá apoyar una investigación científica y tecnológica que contribuya significativamente al desarrollo de un sistema de educación, formación y consolidación de recursos humanos de alta calidad, en igualdad de oportunidades y acceso entre mujeres y hombres.
+
 ###### Artículo 22.
 
 El programa deberá contemplar por lo menos los siguientes aspectos:
 
-I. La política general en ciencia y tecnología que identifique las áreas o sectores prioritarios del Estado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+I. La política general en ciencia y tecnología, de la siguiente manera:
+
+a) Identificando las áreas o sectores prioritarios del Estado;
+
+b) Definiendo la asignación y la optimización de recursos gubernamentales para la ciencia, la tecnología y la innovación en forma participativa;
+
+c) Propiciando el desarrollo estatal mediante el establecimiento de redes o alianzas para la investigación científica, el desarrollo tecnológico y la innovación; y
+
+d) Promoviendo la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como la incentivación de una participación equilibrada de mujeres y hombres en las nuevas generaciones de investigadores y tecnólogos;
 
 II. Diagnósticos, políticas estrategias y acciones en lo que respecta a:
 
@@ -469,11 +501,21 @@ b) Innovación y desarrollo tecnológico;
 
 c) Formación de científicos, tecnólogos y especialistas de alto nivel;
 
-d) Vinculación entre ciencia, tecnología, empresas y sector educativo; y
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
 
-e) Difusión y publicación del conocimiento científico y tecnológico.
+d) Vinculación entre ciencia, tecnología, empresas y sector educativo;
 
-III. Las áreas y líneas de investigación científica y tecnológica que se considerarán prioritarias;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+e) Difusión y publicación del conocimiento científico y tecnológico; y
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+f) Equidad y perspectiva de género, en la investigación científica, el desarrollo tecnológico y la innovación;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+III. Las áreas de investigación científica y tecnológica que se considerarán prioritarias, así como los proyectos estratégicos de ciencia, tecnología e innovación por sectores y regiones;
 
 IV. Las estrategias y mecanismos de financiamiento complementario; y
 
@@ -508,6 +550,10 @@ VIII. Otros recursos diversos.
 ###### Artículo 25.
 
 El objeto del fondo será el otorgamiento de apoyos para el desarrollo de proyectos de investigación científica y tecnológica, equipos, instrumentos y materiales; becas para la especialización; proyectos de modernización, innovación y desarrollo tecnológico, divulgación de temas sobre ciencia y tecnología, así como para otorgar estímulos y reconocimientos a instituciones, empresas e investigadores que destaquen en estas áreas.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+
+En la aplicación de los recursos del Fondo, deberá prevalecer un criterio de igualdad de oportunidades de acceso, para mujeres y hombres.
 
 ###### Artículo 26.
 
@@ -567,7 +613,7 @@ Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos m
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. LA SECRETARIA DE CULTURA, LICDA. ANA CECILIA GARCÍA LUNA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE MAYO DE 2007.
 
@@ -576,3 +622,13 @@ P.O. 12 DE MAYO DE 2007.
 P. O. 29 DE MAYO DE 2010
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Lo (sic) atribución prevista en la fracción XXI, que se adiciona al artículo 6º, de la Ley de Fomento y Desarrollo de Ciencia y Tecnología del Estado de Colima por virtud del presente Decreto, estará sujeta a la existencia de la suficiencia presupuestal que para tal efecto se requiere.
