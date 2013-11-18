@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-libre-y-soberano-de-hidalgo-para-910
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2013-11-04"
+last_updated: "2013-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2013
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2012.
 
@@ -59,11 +59,11 @@ HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2013.
 
 La Hacienda Pública del Estado de Hidalgo, percibirá durante el ejercicio fiscal comprendido del primero de enero al treinta y uno de diciembre de 2013, los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2013)</small>
 
 0.0.00.00.0 Ingresos Derivados de Financiamientos
 
-57,388,449.00
+1,133,388,449.00
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
@@ -76,6 +76,18 @@ La Hacienda Pública del Estado de Hidalgo, percibirá durante el ejercicio fisc
 Financiamiento del Estado de
 
 Hidalgo/Municipios
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2013)</small>
+
+0.1.05.00.0 Financiamiento Desarrollo Zona 636,000,000.00
+
+Industrial del Altiplano
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2013)</small>
+
+0.1.06.00.0 Financiamiento Reconstrucción por 440,000,000.00
+
+daños meteorológicos 2013
 
 1.0.00.00.0 Impuestos 998,354,001.00
 
@@ -499,9 +511,9 @@ Administrativa
 
 8.3.01.07.0 Impuesto a los Depósitos en Efectivo 100.00
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2013)</small>
 
-TOTAL 27,194,778,690.00
+TOTAL 28,270,778,690.00
 
 ###### Artículo 2.
 
@@ -626,3 +638,9 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
