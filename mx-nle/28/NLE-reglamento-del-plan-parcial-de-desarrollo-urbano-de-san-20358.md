@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "2012-12-12"
+last_updated: "2013-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE DESARROLLO URBANO SUSTENTABLE DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -1686,3 +1688,13 @@ SEGUNDO: Los asuntos, trámites y procedimientos iniciados y pendientes por reso
 SEXTO.- Las atribuciones y responsabilidades tanto de la Dirección de Desarrollo Urbano como de la Dirección de Medio Ambiente establecidas en el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza Nuevo León, se entenderán referidas a la Dirección de Desarrollo Urbano y Medio Ambiente.
 
 .
+
+P.O. 18 DE NOVIEMBRE DE 2013.
+
+PRIMERO: Se aprueba el Reglamento de Desarrollo Urbano Sustentable del Municipio de San Nicolás de los Garza, Nuevo León.
+
+SEGUNDO: Una vez iniciada la vigencia del Reglamento de Desarrollo Urbano Sustentable del Municipio de San Nicolás de los Garza, Nuevo León, se abroga el Reglamento del Plan Parcial de Desarrollo Urbano de San Nicolás de los Garza, N.L., publicado en el Periódico Oficial del Estado en fecha 06 de marzo de 1995 así como todas sus reformas y adiciones.
+
+TERCERO: Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente aprobación del Reglamento de Desarrollo Urbano Sustentable del Municipio de San Nicolás de los Garza, Nuevo León continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron y, serán substanciados por las áreas correspondientes y facultadas para ello.
+
+CUARTO: Se mantiene la vigencia de las licencias y autorizaciones expedidas con anterioridad a la vigencia de este reglamento.
