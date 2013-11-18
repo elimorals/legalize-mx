@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-transito-y-vialidad-para-el-municipio-de-71133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-07"
-last_updated: "2011-12-12"
+last_updated: "2013-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "HID"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD PARA EL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD PARA EL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 18 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -1566,3 +1568,11 @@ DECRETO MUNICIPAL NÚMERO TREINTA Y UNO POR EL QUE SE DECLARA PROCEDENTE LA PROP
 SEGUNDO: Se declara no procedente la propuesta de adición a la fracción XXIX del Artículo 8 del Reglamento de Tránsito y Vialidad del Municipio de Pachuca de Soto, Hidalgo.
 
 TERCERO: Aprobado que sea el presente dictamen, ordénese la emisión del Decreto correspondiente a fin de que el mismo entre en vigor al día siguiente de su Publicación.
+
+P.O. 18 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de Tránsito y Vialidad para el Municipio de Pachuca de Soto, Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo, el día siete de diciembre del año dos mil nueve.
+
+TERCERO. Cualquier procedimiento iniciado durante la vigencia del Reglamento de Tránsito y Vialidad para el Municipio de Pachuca de. Soto, Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo, el día siete de diciembre del año dos mil nueve, se substanciará en base a lo establecido en dicho ordenamiento.
