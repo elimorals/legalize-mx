@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-evaluacion-educativa-70268
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-10"
-last_updated: "2009-09-10"
+last_updated: "2013-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACION EDUCATIVA DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACION EDUCATIVA DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACIÓN EDUCATIVA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INNOVACIÓN Y EVALUACIÓN EDUCATIVA DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 19 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 10 de septiembre de 2009.
 
@@ -543,3 +545,19 @@ INDICADORES SISTEMAS E APLICACIÓN E PLANEACIÓN Y
 Y CONTEXTO INSTRUMENTOS INTERPRETA ADMINISTRACIÓN
 
 EDUCATIVO DE EVALUACIÓN CIÓN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 19 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Evaluación Educativa del Estado de Sonora publicado en Boletín Oficial número 21, Sección III de fecha 10 de septiembre de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán actualizarse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior, así como establecer que el Director General del Instituto de Innovación y Evaluación Educativa del Estado de Sonora queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
