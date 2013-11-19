@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2010-12-25"
+last_updated: "2013-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
 
-LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
+LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -183,7 +183,7 @@ Principio de Confiabilidad. Demanda que la ejecución de los actos y procedimien
 
 La fiscalización a la gestión financiera, así como al cumplimiento de los objetivos contenidos en los programas autorizados en el presupuesto de egresos del Órgano estará a cargo del Congreso por conducto de la Comisión con apoyo de la Contraloría Interna y demás personal del Congreso que al efecto se comisione; ésta se realizará con sujeción a las mismas formalidades y obligaciones que establece esta ley para los demás sujetos de fiscalización. En todo caso, los resultados de la fiscalización al Órgano, deberán incorporarse anualmente por la Comisión al dictamen que emita ésta sobre el Informe de Resultado de la Revisión de las Cuentas Públicas que deben presentarse al pleno del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -237,7 +237,7 @@ IX. Investigar, en su caso, los actos u omisiones que pudieran configurar alguna
 
 X. Efectuar visitas domiciliarias para solicitar se le proporcionen libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamientos de datos, documentos o archivos indispensables para la realización de la función de fiscalización, sujetándose a las leyes y a las formalidades para los cateos; así como realizar entrevistas y reuniones con particulares o servidores públicos vinculados con la gestión financiera y la evaluación sobre el desempeño de los Sujetos Fiscalizables, para allegarse la información que se considere necesaria para el ejercicio de sus atribuciones;
 
-(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010) (F. DE E., P.O. 16 DE FEBRERO DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010) (F. DE E., P.O. 16 DE FEBRERO DE 2011)
 
 XI. Requerir a los titulares de los Sujetos Fiscalizables, la remisión de documentación específica o de dispositivos magnéticos o electrónicos de almacenamientos de datos, indispensables para la realización de la función de fiscalización. El Órgano podrá solicitar los datos, libros y documentos justificativos y comprobatorios del ingreso y gasto público, y la demás información que considere necesaria. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva sobre dicha información.
 
@@ -385,11 +385,11 @@ V. La persona designada para ocupar el cargo, previamente a tomar posesión del 
 
 En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor General del Órgano, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 10.
 
-El Auditor General durará en su cargo siete años; será removido por las causas graves a que se refiere el artículo 20 de esta ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado y la ley de la materia.
+El Auditor General durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez; será removido por las causas graves a que se refiere el artículo 20 de esta ley, con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado y la ley de la materia.
 
 ###### Artículo 11.
 
@@ -497,9 +497,11 @@ XXX. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
 Corresponde originalmente al Auditor General el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto aquellas que por disposición de ley o del Reglamento Interior del Órgano deban ser ejercidas exclusivamente por él mismo. Para su validez, los actos de delegación deberán constar por escrito y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 13.
 
-En caso de falta absoluta o renuncia del Auditor General, la Comisión informará al Congreso para que éste designe un nuevo Auditor General, conforme al procedimiento previsto en el artículo 9 de esta ley. En tanto el Congreso designa Auditor General, fungirá en calidad de encargado el subalterno que señale el Reglamento Interior.
+En caso de falta absoluta o renuncia del Auditor General, la presidencia de la Mesa Directiva la hará del conocimiento del Congreso y solicitará a la Comisión que proceda de conformidad a lo previsto por el artículo 9 de la presente ley, a efecto de designar al Auditor General que iniciará un nuevo periodo. En tanto el Congreso realiza la designación fungirá de encargado el subalterno que señale el Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -801,7 +803,7 @@ Los sujetos de fiscalización tendrán la facultad de formular queja ante la Com
 
 INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
@@ -889,7 +891,7 @@ El Órgano analizará los Informes de Avance de Gestión Financiera con el prop�
 
 La Cuenta Pública y el Informe de Avance de Gestión Financiera serán presentados por los sujetos obligados al Congreso, en términos de esta ley, a través del Órgano, el cual deberá remitir el Informe del Resultado por conducto de la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -927,11 +929,11 @@ I. La Cuenta Pública se presentarán (sic) anualmente, a más tardar el 15 de f
 
 II. Los Informes de Avance de Gestión Financiera comprenderán información relativa a los meses de enero a marzo, de abril a junio, y de julio a septiembre deberán presentarse dentro de los treinta días naturales posteriores al último día del trimestre del que se informe. La información relativa al periodo de octubre a diciembre se presentará junto con la Cuenta Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera de los sujetos obligados a presentar dicha información, se incluirán de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
 
-> <small>(REFORMADO [N. DE E. EL ULTIMO PARRAFO PASO A FORMAR PARTE DE ESTE], P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. EL ULTIMO PÁRRAFO PASO A FORMAR PARTE DE ESTE], P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 A fin de dar cumplimiento a lo establecido en el párrafo anterior, los titulares de las entidades de la administración pública estatal y municipal, harán llegar con la debida anticipación al Ejecutivo Estatal o al Ayuntamiento, según corresponda, por conducto de la dependencia estatal competente o de la Tesorería Municipal, la información y documentación correspondiente. Para tal efecto, éstas deberán requerir en el ámbito de sus competencias, a las entidades estatales o municipales, la información adicional que estimen necesaria para cumplir en tiempo y forma con la presentación de la cuenta pública y de los Informes de Avance de Gestión Financiera.
 
@@ -971,7 +973,7 @@ LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
 El Órgano, para revisar las Cuentas Públicas, establecerá las normas, procedimientos, métodos y sistemas de auditoría y fiscalización y promoverá la elaboración de los manuales correspondientes para su aplicación interna.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 40.
 
@@ -999,7 +1001,7 @@ Las Unidades de Control Interno de los entes públicos deberán colaborar con el
 
 Las unidades de control interno deberán realizar al menos una auditoría por ejercicio fiscal a cada una de las dependencias u órganos del ente al cual pertenezcan debiendo verificar preferentemente la instrumentación de los controles internos y los actos de mayor impacto dentro de la gestión financiera. Corresponderá al titular del ente público verificar y solicitar al responsable de la Unidad de Control interno la realización de estas auditorías, su omisión o incumplimiento será causa de responsabilidad en los términos de ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 43.
 
@@ -1075,7 +1077,7 @@ A solicitud del Órgano, los sujetos de fiscalización le informarán de los act
 
 La negativa a proporcionar la información o documentación solicitada por el Órgano o a permitirle la revisión o fiscalización de los libros, instrumentos y documentos de fiscalización comprobatorios y justificativos del ingreso y del gasto público, así como la obstaculización a la práctica de visitas, inspecciones y auditorías será causa de responsabilidad administrativa grave la cual será sancionada directamente por el Órgano conforme a la ley, con independencia de las medidas de apremio que se apliquen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 50.
 
@@ -1135,7 +1137,7 @@ En todo caso, el pliego de observaciones a que se refiere esta fracción, deber�
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-IV. Presentación del Informe del Resultado de la Revisión de la Cuenta Pública.
+IV.- Presentación del Informe del Resultado de la Revisión de la Cuenta Pública.
 
 El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado de la Revisión de la Cuenta Pública a más tardar el quince de noviembre del año siguiente al que se fiscalice, mismo que tendrá carácter público y mientras ello no suceda, el Órgano deberá guardar reserva de sus actuaciones e informaciones, salvo cuando se trate de información o actuaciones que deriven del resultado de auditorías realizadas a recursos federales por convenio los cuales deban ser comunicados a la Auditoría Superior de la Federación previamente a la presentación de dicho informe. A petición del Órgano, por causa justificada y atendiendo a las circunstancias específicas del caso, la Comisión mediante acuerdo de trámite podrá autorizar se prorrogue la presentación del Informe del Resultado.
 
@@ -1145,7 +1147,7 @@ En el caso de que el Informe del Resultado contenga recomendaciones derivadas de
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-V. Dictaminación y aprobación del Informe de Resultado de la Fiscalización de la Cuenta Pública.
+V.- Dictaminación y aprobación del Informe de Resultado de la Fiscalización de la Cuenta Pública.
 
 El Congreso del Estado concluirá el proceso de fiscalización de las cuentas públicas a más tardar el 30 de mayo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas contenidas en el Informe del Resultado que presente el Órgano, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por dicho órgano sigan su curso.
 
@@ -1261,11 +1263,11 @@ Para los efectos de esta ley incurren en responsabilidad:
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-I.- Resarcitoria: Los servidores públicos y los particulares, personas físicas o morales por actos u omisiones que causen daño o perjuicio estimable en dinero en contra de las Haciendas Públicas Estatal, Municipales o del patrimonio de los Entes Públicos;
+I. Resarcitoria: Los servidores públicos y los particulares, personas físicas o morales por actos u omisiones que causen daño o perjuicio estimable en dinero en contra de las Haciendas Públicas Estatal, Municipales o del patrimonio de los Entes Públicos;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-II.- Administrativa:
+II. Administrativa:
 
 a) Los servidores públicos de los sujetos de fiscalización responsables de los procesos de gestión, trámite documental, registro y consolidación de la información que se debe derivar en la presentación de las cuentas públicas y sus informes de avance de gestión financiera, cuando no lo hagan en tiempo y forma; los que sin justificación procedente omitan la remisión de la documentación o información que directamente les sea requerida por el Órgano; y aquellos que teniendo la obligación de rendir los informes de solventación sobre los pliegos de observaciones que les sean formulados por el Órgano, no lo hagan en los plazos que establece la ley, lo anterior sin perjuicio de que puedan presentar las justificaciones de cada caso y de las responsabilidades administrativas que se establezcan en otros ordenamientos legales.
 
@@ -1393,7 +1395,7 @@ El Auditor General, podrá abstenerse de sancionar al infractor, por una sola ve
 
 ### CAPÍTULO X. DEL RECURSO DE RECONSIDERACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 72.
 
@@ -1589,9 +1591,9 @@ El Secretario General de Gobierno
 
 Lic. Fernando González Díaz
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 4 DE JUNIO DE 2003
+P.O. 4 DE JUNIO DE 2003.
 
 ###### ARTICULO PRIMERO.
 
@@ -1662,3 +1664,7 @@ Artículo Segundo.- Las cuentas públicas en los términos que dispone este decr
 Artículo Tercero.- Las formalidades, procedimientos y principios que se establecen en el presente decreto, relativas a los procesos de fiscalización que realice el Órgano de Fiscalización Superior entrarán en vigor a partir del primero de enero del año 2011.
 
 Artículo Cuarto.- Los procedimientos resarcitorios que a la fecha de entrada en vigor del presente decreto se encuentren en trámite, se continuarán desahogando hasta su culminación de conformidad a las disposiciones legales vigentes hasta antes de la entrada en vigor de este decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2013.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
