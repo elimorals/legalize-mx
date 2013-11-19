@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-10-30"
+last_updated: "2013-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 30 DE OCTUBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -12563,7 +12561,7 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 ### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13429,7 +13427,7 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 
 ###### Artículo 17.
 
-70.- El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura vial de cuota; efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles en territorio estatal, y en el ámbito estatal para la construcción y operación de aeropistas y helipuertos.
+70.- El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura vial de cuota; efectuar investigaciones y estudios que permitan, al Gobierno del Estado, sustentar las solicitudes de concesiones o permisos ante las autoridades federales en materia aeroportuaria; construir, rehabilitar conservar y dar mantenimiento a aeródromos, rampas de despegue y aterrizaje de aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor; aeropistas y helipuertos así como administrar, operar y explotarlos en los términos que dispongan las leyes aplicables, los títulos de concesión respectivos o los contratos que se firmen para la prestación de esos servicios a terceros.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13469,9 +13467,23 @@ XV. Adquirir en forma directa o a través de terceros los inmuebles necesarios p
 
 XVI. Proporcionar en el ámbito de su competencia asesoría a los municipios que lo soliciten;
 
-XVII. Coadyuvar con las concesionarias en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con la materia de su competencia; y
+XVII. Coadyuvar con las concesionarias en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con la materia de su competencia; y (sic)
 
-XVIII. Las demás que se señalen en este Libro y otras disposiciones.
+> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+
+XVIII. Construir, rehabilitar, conservar y dar mantenimiento a aeródromos, rampas de despegue y aterrizaje de aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor; aeropistas y helipuertos así como administrar, operar y explotarlos en los términos que dispongan las leyes aplicables, los títulos de concesión respectivos o los contratos que se firmen para la prestación de esos servicios a terceros;
+
+> <small>(ADICIONADA, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+
+XIX. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, rehabilitación, conservación, mantenimiento, y explotación de aeródromos de servicio particular y a terceros, aeropistas y helipuertos en territorio estatal;
+
+> <small>(ADICIONADA, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+
+XX. Planear, formular y establecer las políticas y programas para el desarrollo del sistema aeroportuario estatal, de acuerdo a las necesidades del Gobierno del Estado y de la Federación;
+
+> <small>(ADICIONADA, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+
+XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -16268,3 +16280,11 @@ G.G. 17 DE OCTUBRE DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo establecido por el presente Decreto.
