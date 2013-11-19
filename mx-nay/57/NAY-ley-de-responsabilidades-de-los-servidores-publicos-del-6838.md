@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "2011-07-20"
+last_updated: "2013-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2013.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 1 de Febrero de 1984.
 
@@ -43,7 +43,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 1o.
 
@@ -441,7 +441,7 @@ II. Formular y ejecutar los planes, programas y presupuestos correspondientes a 
 
 III. Utilizar los recursos que tenga asignados y las facultades que le hayan sido atribuidas para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos;
 
-IV. Caucionar el manejo de fondos, dentro de los treinta días siguientes al inicio del encargo hasta por al menos un monto igual al total de un año del salario base a percibir; de conformidad con el acuerdo que emita el titular del poder, los ayuntamientos o de la entidad estatal o municipal según corresponda;
+IV. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2013)
 
 V. Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y coadyuvar en la rendición de cuentas de la gestión pública, proporcionando la documentación e información que le sean requeridas en los términos que establezcan las disposiciones legales correspondientes;
 
@@ -543,7 +543,7 @@ Los servidores públicos que se hayan desempeñado en cargos de Dirección en el
 
 El Auditor General del Órgano de Fiscalización Superior del Estado no podrá desempeñar algún encargo dentro de la administración pública estatal o municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO II. DENUNCIAS, SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTO PARA APLICARLAS
 
@@ -977,7 +977,7 @@ En todo caso, en la declaración patrimonial inicial y final de bienes se señal
 
 Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emitan las autoridades competentes para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los servidores públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 20 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 85.
 
@@ -1067,11 +1067,11 @@ Cuando los servidores públicos reciban, de una misma persona, algún bien o don
 
 En todas las cuestiones relativas al procedimiento, no previstas en el Título Tercero de esta ley, así como en la apreciación de las pruebas, se observarán las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
 ## TÍTULO QUINTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO UNICO. DE LAS ACCIONES PREVENTIVAS PARA GARANTIZAR EL ADECUADO EJERCICIO DEL SERVICIO PUBLICO
 
@@ -1133,7 +1133,7 @@ El Secretario Gral. de Gobierno.
 
 JOSÉ FÉLIX TORRES HARO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 1984.
 
@@ -1226,3 +1226,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y administrativas que contravengan el presente decreto.
