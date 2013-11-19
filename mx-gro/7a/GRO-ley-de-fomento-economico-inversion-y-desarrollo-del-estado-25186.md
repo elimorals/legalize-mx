@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-economico-inversion-y-desarrollo-del-estado-2518
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-21"
-last_updated: "2012-06-05"
+last_updated: "2013-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO, NÚMERO 487
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el 21 de junio de 2002.
 
@@ -484,6 +484,38 @@ I.- Programas Sectoriales que están orientados a indicar la modernización e in
 II.- Programas Regionales por medio de los cuales se expresan prioridades y acciones ligadas a los programas parciales de desarrollo urbano de las regiones que se consideren estratégicas; y
 
 III.- Programas Especiales orientados a materias específicas o a grupos sociales que por su problemática requieran tratamiento específico.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 35 Bis.
+
+Los programas prioritarios de Fomento Económico, Inversión y Desarrollo en el Estado de Guerrero, contaran con Gasto Programable anual por la vía de inversión en programas y proyectos de Infraestructura y Equipamiento asignado a cada uno de ellos, en el Presupuesto de Egresos del Estado, del ejercicio Fiscal correspondiente y estarán basados en la obtención resultados (sic) y cumplimiento de objetivos y en lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 35 Bis 1.
+
+Son programas prioritarios de Fomento Económico, Inversión y Desarrollo en el Estado.
+
+a) El Programa de Fomento Económico del Sistema Producto Aguacate.
+
+b) El Programa de Fomento Económico del Sistema Producto del Café.
+
+c) El Programa de Fomento Económico del Sistema Producto del Mezcal.
+
+d) El Programa de Fomento Económico a la Artesanía Platera.
+
+e) El Programa de Fomento Económico del Sistema Producto Guayaba.
+
+I.- Los criterios generales de los Programas de Fomento Económico son:
+
+a) Estos Programas son de apoyo y respaldo de financiamiento económico permanente, contarán con los recursos fiscales suficientes y necesarios anualmente. Sus reglas de operación facilitaran el acceso a los recursos fiscales para la población objetivo.
+
+b) Para el Programa de Fomento Económico a la Artesanía Platera y de los Artesanos Plateros, se establecerán mecanismos para la adquisición de maquinaria o herramientas, insumos, materia prima, capacitación educativa artesanal, comercialización y exposición de las artesanías. El mismo considerara criterios de sustentabilidad en el buen uso, manejo y transformación de los minerales y materiales para la producción artesanal. El Gobierno Estatal será coadyuvante permanente en esta materia. Se fomentara la participación en la Feria anual de la Plata. En la ejecución del programa y su operación; La relación para el otorgamiento de los apoyos económicos será directamente con el artesano o artesana platera, para la elaboración de sus productos y derivados, por medio técnicas (sic) como filigrana, limado, pulido, repujado, recortado, empavonado, martillado, cincelado, calado, cartonado, sochapado, esmerilado, cera perdida y devastado, entre otras.
+
+De ningún modo y en ninguna circunstancia se otorgaran recursos fiscales a gestores o intermediarios entre el artesano y la Administración Pública Estatal. Las reglas de operación considerarán los criterios para el apoyo económico y continuidad anual del mismo, en caso de cumplimiento de las metas establecidas por los artesanos plateros, y en caso de incumplimiento, se hará la suspensión inmediata del apoyo económico. La Secretaría de Desarrollo Económico del Gobierno del Estado, realizara esta verificación.
+
+c) El Programa de Fomento Económico del Mezcal contara financiamiento (sic) permanente de recursos fiscales, para modernizar y equipar con tecnología industrial a todas las instalaciones de procesamiento del Mezcal del Estado reconocidas y se fortalecerá la cadena productiva Maguey-Mezcal en las regiones de vocación económica de este sistema, que de continuidad a la siembra del Maguey y a la modernización permanente de la infraestructura de la industria. El programa facilitara el acceso a la capacitación de los productores y técnicos fitosanitarios, en la instalación de viveros magueyeros y acompañamiento para la siembra y mantenimiento de cultivos de Maguey. Dentro del programa estará contemplado la elaboración y concreción del Corredor Eco-turístico que abarque la ruta del Mezcal en el Estado de Guerrero.
 
 ## TITULO QUINTO. Del Consejo Estatal de Fomento Económico, Inversión y Desarrollo
 
@@ -1254,3 +1286,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+P.O. 19 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
+
+TERCERO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
