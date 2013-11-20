@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2013-09-23"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -187,77 +187,9 @@ Los jueces de distrito que participen en los concursos para la designación de m
 
 El Consejo, a través del Instituto o del órgano designado por el Pleno, deberá expedir y entregar las constancias necesarias que acrediten fehacientemente el lugar, día y hora en que los servidores públicos realizaron su inscripción, sustentaron los exámenes, aprobaron los cursos y, en su caso, asistieron a los cursos propedéuticos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 25 DE ABRIL DE 2008)</small>
-
 ###### Artículo 20.
 
-El Pleno podrá reincorporar a quien, habiendo ocupado el cargo de magistrado de Circuito o de juez de Distrito ratificados, se hubiese separado de él por motivos personales o causas legales que, por no ser de gravedad, no constituyan impedimento insalvable.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 26 DE FEBRERO DE 2008)</small>
-
-La solicitud de reincorporación, referida a la última categoría desempeñada, deberá presentarse, en única ocasión, ante la Comisión.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-La solicitud de reincorporación, deberá formularse por escrito de manera respetuosa y motivada, a la que se acompañará:
-
-a) Currículum Vitae;
-
-b) Constancia de las actividades profesionales desarrolladas durante el tiempo en que estuvo separado del cargo; y
-
-c) Constancia de las actividades académicas realizadas en ese periodo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 26 DE FEBRERO DE 2008)</small>
-
-Recibida la solicitud, la Comisión observará el siguiente procedimiento:
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-I. Formará y registrará el expediente bajo el número que le corresponda;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-II. Ordenará que se publique el inicio del procedimiento de reincorporación por una vez en el Diario Oficial de la Federación, así como la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en el portal WEB del Consejo y en los estrados y lugares más visibles de los órganos jurisdiccionales ubicados en el o los circuitos en los que el solicitante se hubiera desempeñado como titular, a efecto de hacer saber al público en general, el nombre de la persona que solicita su reincorporación para que, dentro del improrrogable plazo de cinco días hábiles, contados a partir del siguiente al en que se hubiera publicado en el Diario Oficial de la Federación, cualquier persona pueda formular por escrito, de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con esa solicitud;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-III. Comunicará el inicio del trámite al solicitante respectivo y le entregará un ejemplar de la guía de estudio aprobada para los concursos internos de oposición de la plaza a reincorporar. Asimismo, lo citará para que en la fecha y hora determinadas por la Comisión, presente examen escrito de conocimientos, elaborado con base en la guía de estudio;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-IV. Realizado el examen a que se refiere la fracción anterior, se señalará día y hora para que el interesado sea entrevistado por la Comisión de Carrera Judicial. De esta diligencia se levantará acta circunstanciada y se hará registro de audio e imagen;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-V. Requerirá al Contralor del Poder Judicial de la Federación para que rinda un informe de la evolución de la situación patrimonial del solicitante durante el tiempo en que se desempeñó como titular de un órgano jurisdiccional;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-VI. Requerirá a la Dirección General de Recursos Humanos para que remita en original o copia el expediente personal del solicitante;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-VII. Ordenará recabar la información estadística sobre la actividad del solicitante en los órganos en que se hubiese desempeñado como titular;
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-VIII. Solicitará a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección practicadas, de los informes circunstanciados rendidos y de los procedimientos administrativos disciplinarios incoados en contra del servidor público; y
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 26 DE FEBRERO DE 2008)</small>
-
-IX. Turnará el expediente al Consejero Presidente de la Comisión a fin de que elabore el dictamen correspondiente para someterlo al Pleno.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-El Pleno, en la sesión correspondiente evaluará el desempeño que el solicitante tuvo en su trayectoria dentro del Poder Judicial de la Federación, la conducta observada en su actuación, la fama pública de que goce después de separado, su preparación profesional, así como la conveniencia de su reincorporación. La decisión en el sentido de aceptar la reincorporación al cargo de juez de Distrito o magistrado de Circuito, según el caso, deberá tomarse por al menos cinco votos.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-Aprobada la reincorporación y una vez que se designe el órgano de adscripción, el funcionario deberá rendir la protesta que exige el artículo 97 de la Constitución Federal.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTÍCULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
-
-No procederá la reincorporación si el motivo de separación se dio por declaración de incapacidad total y permanente expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Tampoco procederá, cuando la causa de separación hubiera derivado de actos constitutivos de delito, de reiteradas faltas a la moral o a la disciplina, o alguna otra que se considere totalmente incompatible con la función jurisdiccional, tales como las señaladas en las fracciones I a VI del artículo 131 de la Ley. La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA EL ARTÍCULO 20 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE NOVIEMBRE DE 2013)
 
 ### Capítulo II. De la Adscripción
 
@@ -1637,9 +1569,7 @@ Las normas éticas no pueden tener un efecto vinculatorio, van al interior de ca
 
 Bajo esas consideraciones, no puede dársele efectos vinculatorios ni establecerse como obligatoria una norma de carácter ético emitida bajo el concepto de "recomendación", expedida por un órgano ajeno a los legalmente constituidos.
 
-Sin embargo, en el caso sí se le dieron esos efectos pues se establece en el considerando octavo del acuerdo plenario aprobado por la mayoría, que derivado de la "recomendación" a que se alude en el mismo, emitida por la Comisión Nacional de Etica Judicial, se estimó obligatorio suprimir la facultad de los titulares de los órganos jurisdiccionales, de otorgar nombramientos provisionales para ocupar el cargo de actuarios y secretarios de tribunales de Circuito y juzgados de Distrito, con lo que el Consejo de la Judicatura Federal, contrario a la ley, se coloca bajo la potestad de un órgano que no es jurisdiccional ni vinculatorias
-
-sus conclusiones.
+Sin embargo, en el caso sí se le dieron esos efectos pues se establece en el considerando octavo del acuerdo plenario aprobado por la mayoría, que derivado de la "recomendación" a que se alude en el mismo, emitida por la Comisión Nacional de Etica Judicial, se estimó obligatorio suprimir la facultad de los titulares de los órganos jurisdiccionales, de otorgar nombramientos provisionales para ocupar el cargo de actuarios y secretarios de tribunales de Circuito y juzgados de Distrito, con lo que el Consejo de la Judicatura Federal, contrario a la ley, se coloca bajo la potestad de un órgano que no es jurisdiccional ni vinculatorias sus conclusiones.
 
 No puede el Consejo de la Judicatura Federal, desde el punto de vista estrictamente legal, someterse a la conclusión de la Comisión Nacional de Etica Judicial y darle fuerza obligatoria a la recomendación que emitió, como lo hace al determinar con base en dicha "recomendación", la derogación de los preceptos señalados, privando con ello a los titulares de la facultad de que gozaban para otorgar nombramientos provisionales en los casos que así lo requerían.
 
@@ -1791,9 +1721,7 @@ Habrá situaciones en las que una persona interesada en hacer carrera judicial, 
 
 Partiendo de las consideraciones expuestas, estimo que lo censurable no es el parentesco en sí, sino que el otorgamiento de esos nombramientos se dé en virtud de un acuerdo o convenio de reciprocidad, en cuyo caso se presume la intención de los titulares de ocultar éstos, con objeto de eludir la prohibición legal que tienen para otorgarles nombramiento como subordinados; o de permitir al nombrado faltar en cualquier forma al cumplimiento de los deberes derivados del nombramiento. Eso sería incluso ilegal.
 
-Bajo ese razonamiento, queda claro que el solo hecho de la relación de parentesco no puede válidamente llevar a suponer o determinar, sin más, que los nombramientos otorgados por un titular a familiares de otro, sean contrarios a la ética judicial y principios rectores de la carrera judicial, al carecer de fundamento
-
-esa determinación.
+Bajo ese razonamiento, queda claro que el solo hecho de la relación de parentesco no puede válidamente llevar a suponer o determinar, sin más, que los nombramientos otorgados por un titular a familiares de otro, sean contrarios a la ética judicial y principios rectores de la carrera judicial, al carecer de fundamento esa determinación.
 
 En consecuencia, la disposición en la que se contiene la prohibición de estos nombramientos, además de que carece de sustento legal, es discriminatoria porque impide que personas interesadas en ingresar a la carrera judicial puedan acceder a las categorías de actuario o secretario de juzgado de Distrito y de tribunal de Circuito, por el solo hecho de que guarden una relación de parentesco con el titular de un órgano jurisdiccional en el que también laboren familiares de otro titular.
 
@@ -1860,3 +1788,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de esta adición al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
+
+D.O.F. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
