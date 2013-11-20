@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-del-sistema-para-el-desarrollo-integral-6142
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-30"
-last_updated: "2009-09-16"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 30 de mayo de 2008.
 
@@ -103,27 +103,29 @@ VI. Comités Especiales.
 
 Además de las anteriores contará con las unidades técnicas y de administración aprobadas, modificadas o ratificadas por la Junta de Gobierno, acorde con su presupuesto de egresos, quienes ejercerán sus funciones y atribuciones de conformidad con las disposiciones jurídicas aplicables, ajustándose a los lineamientos, normas y políticas internas que fije la persona titular de la Dirección General y a las que en su caso establezca la Administración Pública Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 7.
 
-Para la atención de los asuntos que le competen, la Dirección General del Sistema contará con las unidades administrativas siguientes:
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+Para la atención de los asuntos que le competen, la Dirección General del Sistema contará con las Unidades Administrativas siguientes:
 
 I. Subdirección General;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
 II. Dirección de Desarrollo Integral Familiar y Asistencia Social;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 III. Dirección de Sistemas Alimentarios y Nutrición;
 
-IV. Procuraduría de la Defensa del Menor y la Familia, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-V. Dirección de Administración y Finanzas.
+IV. Procuraduría de la Defensa del Menor y la Familia,
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Dirección de Administración y Finanzas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VI. Dirección de Atención a la Discapacidad.
 
 ###### Artículo 8.
 
@@ -207,7 +209,7 @@ El Presidente o Presidenta será la máxima autoridad del Sistema y tendrá las 
 
 El Presidente o Presidenta tendrá la representación del Sistema, por lo que será quien acudirá a los eventos internacionales, nacionales y estatales con la representación oficial, siendo portavoz de los derechos y necesidades de los grupos vulnerables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL Y LA SUBDIRECCIÓN GENERAL
 
@@ -385,167 +387,101 @@ XXX. Las demás que le confiera la persona titular de la Dirección General y la
 
 ### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS PERSONAS TITULARES DE LAS DIRECCIONES DE ÁREA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE LI FRACCIONES.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 25.
 
 Corresponde a la Dirección de Desarrollo Integral Familiar y Asistencia Social, el ejercicio de las siguientes atribuciones específicas:
 
-I. Planear, programar, organizar, dirigir, coordinar ejecutar y evaluar los proyectos y programas en materia de asistencia social y de rehabilitación que tenga a su cargo;
+I. Planear, programar, organizar, dirigir, coordinar ejecutar y evaluar los Proyectos y Programas en materia de asistencia social y de rehabilitación que tenga a su cargo;
 
-II. Formular proyectos de prevención, detección, atención y tratamiento a favor de la población beneficiada por los programas a su cargo;
+II. Formular proyectos de prevención, detección, atención y tratamiento a favor de la población beneficiada por los Programas a su cargo;
 
-III. Promover acciones enfocadas al desarrollo de personas con discapacidad, que por sus carencias socioeconómicas no puedan desarrollarse en el medio en que habiten, o que sean receptoras de violencia;
+III. Ejecutar y vigilar las acciones necesarias para apoyar los Programas dirigidos a la población en riesgo de contingencia y atención psicosocial de víctimas de violencia familiar, adultos mayores, mujeres en situación de violencia y de personas con discapacidad en coordinación con la dependencia correspondiente;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+IV. Supervisar la operación eficiente de los Centros Asistenciales que tenga a su cargo, vigilando el respeto a los derechos humanos y el sustento de los sujetos albergados;
 
-IV. Ejecutar y vigilar las acciones necesarias para apoyar los programas dirigidos a la población en riesgo de contingencia y atención psicosocial de víctimas de violencia familiar, adultos mayores, mujeres en situación de violencia y de personas con discapacidad en coordinación con la dependencia correspondiente;
+V. Aplicar Acciones y Programas que ayuden a disminuir el deterioro emocional, funcional y cognitivo de los adultos mayores;
 
-V. Supervisar la operación eficiente de los Centros Asistenciales que tenga á su cargo, así como los de rehabilitación e integración, y de las unidades básicas de rehabilitación, vigilando el respeto a los derechos humanos y el sustento de los sujetos albergados;
+VI. Realizar acciones de sensibilización y educación en familiares, para integrar a los adultos mayores en entornos más seguros y afectuosos;
 
-VI. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
+VII. Aplicar, supervisar y evaluar las acciones y proyectos de atención psicosocial a la población víctima de violencia familiar y a los usuarios de los Programas de asistencia social;
 
-VII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
+VIII. Organizar, coordinar y supervisar las acciones enfocadas a la atención integral de mujeres en situación vulnerable;
 
-VIII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2009)
+IX. Organizar, coordinar y supervisar acciones dirigidas a la atención de menores en riesgo;
 
-IX. Aplicar acciones y programas que ayuden a disminuir el deterioro emocional, funcional y cognitivo de los adultos mayores;
+X. Promover la vinculación con instituciones públicas y privadas que coadyuven al desarrollo de las actividades de Asistencia Social;
 
-X. Realizar acciones de sensibilización y educación en familiares, para integrar a los adultos mayores en entornos más seguros y afectuosos;
+XI. Promover proyectos estratégicos y Programas que tiendan a mejorar la calidad de vida de los sujetos de Asistencia Social a su cargo;
 
-XI. Aplicar, supervisar y evaluar las acciones y proyectos de atención psicosocial a la población víctima de violencia familiar y a los usuarios de los programas de asistencia social;
+XII. Promover y supervisar el diseño de cursos dirigidos al desarrollo humano de los Programas y de las labores asignadas;
 
-XII. Organizar, coordinar y supervisar las acciones enfocadas a la atención integral de mujeres en situación vulnerable;
+XIII. Participar en los programas implementados por la Secretaría de Salud, especialmente en aquellos que le competan;
 
-XIII. Organizar, coordinar y supervisar acciones dirigidas a la atención de menores en riesgo;
+XIV. Vigilar que se genere información confiable sobre los datos de los sujetos beneficiados de los Programas de Asistencia Social;
 
-XIV. Planear y programar acciones para la investigación, control y prevención de la discapacidad, así como la habilitación y rehabilitación de las personas con discapacidad;
+XV. Coordinar con los diferentes sectores, en el ámbito de la Asistencia Social, acciones de atención y ayuda a personas en condiciones de emergencia derivados de casos de desastre;
 
-XV. Formular proyectos preventivos de detección, atención y tratamiento a favor de personas con discapacidad en el ámbito laboral;
+XVI. Recibir, concentrar y dar seguimiento a través del área correspondiente, las solicitudes de apoyos que se realicen al Sistema;
 
-XVI. Asumir las facultades que la legislación estatal vigente le atribuyen al Sistema en materia de discapacidad;
+XVII. Promover la organización social para impulsar Programas de Asistencia Social en su ámbito de competencia;
 
-XVII. Promover la apertura y ampliación de los Centros de Asistencia Social así como de las unidades básicas de rehabilitación en los municipios del Estado, con la finalidad de acercar los servicios a la población;
+XVIII. Coordinar con los Sistemas DIF Municipales, brigadas médicas preventivas y de rehabilitación, dirigidas a la población vulnerable;
 
-XVIII. Promover la vinculación con instituciones públicas y privadas que coadyuven al desarrollo de las actividades de Asistencia Social;
+XIX. Promover, coordinar, supervisar y evaluar los proyectos dirigidos al fortalecimiento de la familia;
 
-XIX. Promover proyectos estratégicos y programas que tiendan a mejorar la calidad de vida de los sujetos de Asistencia Social a su cargo;
+XX. Llevar a cabo la operación y el desarrollo del Programa modelo Morelos SUPERA;
 
-XX. Promover y supervisar el diseño de cursos dirigidos al desarrollo humano de los programas y de las labores asignadas;
+XXI. Llevar a cabo acciones de mejora continua de los procesos del programa modelo Morelos SUPERA;
 
-XXI. Participar en los programas implementados por la Secretaría de Salud, especialmente en aquellos que le competan;
+XXII. Elaboración de planes estratégicos para el fortalecimiento familiar y comunitario;
 
-XXII. Vigilar que se genere información confiable sobre los datos de los sujetos beneficiados de los programas de Asistencia Social;
+XXIII. Operar, coordinar y supervisar la construcción y mejoramiento de las viviendas de las familias, como espacio de desarrollo de los hogares morelenses;
 
-XXIII. Coordinar con los diferentes sectores, en el ámbito de la Asistencia Social, acciones de atención y ayuda a personas en condiciones de emergencia derivados de casos de desastre;
+XXIV. Generar enlaces con instancias nacionales e internacionales, cuyo objetivo sea promover valores y principios fundamentales de la familia y el desarrollo comunitario;
 
-XXIV. Recibir, concentrar y dar seguimiento a través del área correspondiente, las solicitudes de apoyos que se realicen al Sistema;
+XXV. Llevar a cabo acciones de intervención para la implementación de proyectos productivos en materia ecológica, protección al medio ambiente y aprovechamiento de los recursos naturales;
 
-XXV. Promover la organización social para impulsar programas de Asistencia Social en su ámbito de competencia;
+XXVI. Operar, coordinar y supervisar proyectos alternativos para mejor aprovechamiento de la energía eléctrica, solar y manejo adecuado de excretas;
 
-XXVI. Coordinar con los Sistemas DIF Municipales, brigadas médicas preventivas y de rehabilitación, dirigidas a la población vulnerable, y
+XXVII. Generar programas, cursos de capacitación y actualización para promotores de los mismos en los treinta y tres Municipios del Estado;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XXVIII. Formular proyectos de programas enfocados a la orientación y fortalecimiento familiar y comunitario, con la finalidad de captar Recursos Federales, Estatales y de la iniciativa privada que fortalezcan las estrategias del área;
 
-XXVII. Promover, coordinar, supervisar y evaluar los proyectos dirigidos al fortalecimiento de la familiar;
+XXIX. Generar el sustento estadístico y sociodemográfico que respalde la aplicación de programas que beneficien directamente a las familias morelenses en condiciones de vulnerabilidad y marginación;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XXX. Establecer diplomados en orientación familiar a nivel Estatal y en todos los ámbitos para profesionalizar al personal que proporciona atención a la familia;
 
-XXVIII. Llevar a cabo la operación y el desarrollo del programa modelo Morelos SUPERA;
+XXXI. Participar de forma activa en los programas implementados por otras Dependencias cuyos objetivos se asemejan a los de esta Dirección;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XXXII. Realizar los informes de seguimiento del programa con la finalidad de evaluar los avances del mismo;
 
-XXIX. Llevar a cabo acciones de mejora continua de los procesos del programa modelo Morelos SUPERA;
+XXXIII. Vigilar el debido cumplimiento de la Legislación Federal y Estatal que le competa, así como los lineamientos de carácter Estatal que sean emitidos por la generación de sus proyectos;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XXXIV. Generar estrategias de difusión y publicación de los resultados obtenidos de los proyectos de desarrollo humano y comunitario en los Municipios del Estado en coordinación con el área correspondiente;
 
-XXX. Elaboración de planes estratégicos para el fortalecimiento familiar y comunitario;
+XXXV. Promover la formación de promotores comunitarios que coadyuven el fortalecimiento de la organización y participación familiar y comunitaria;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XXXVI. Realizar todo tipo de investigaciones que ayuden a conocer la dinámica y situación social de la familia en comunidades morelenses;
 
-XXXI. Operar, coordinar y supervisar la construcción y mejoramiento de las viviendas de las familias, como espacio de desarrollo de los hogares morelenses;
+XXXVII. Establecer vínculos con Autoridades Federales, Estatales y Municipales para desarrollar en el ámbito de su competencia, la política de fortalecimiento familiar y comunitario;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XXXVIII. Implementar estrategias de apoyo, para hacer posible el establecimiento de centros de orientación familiar en cada Municipio;
 
-XXXII. Generar enlaces con instancias nacionales e internacionales, cuyo objetivo sea promover valores y principios fundamentales de la familia y el desarrollo comunitario;
+XXXIX. Supervisar y evaluar los proyectos internos y externos del Sistema; tanto entidades públicas como privadas; que contengan objetivos de desarrollo familiar y comunitario;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XL. Proponer el diseño, evaluación y sistematización de cédulas sociodemográficas;
 
-XXXIII. Llevar a cabo acciones de intervención para la implementación de proyectos productivos en materia ecológica, protección al medio ambiente y aprovechamiento de los recursos naturales;
+XLI. Promover y supervisar los eventos conmemorativos de la familia que realice el Sistema;
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+XLII. Vigilar que la información generada sea confiable sobre los datos de los sujetos beneficiados de los programas, y
 
-XXXIV. Operar, coordinar y supervisar proyectos alternativos para mejor aprovechamiento de la energía eléctrica, solar y manejo adecuado de excretas;
+XLIII. Las demás que le confiera la persona titular de la Dirección General, la Presidenta o Presidente del Sistema y las disposiciones legales y reglamentarias relativas.
 
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XXXV. Generar programas, cursos de capacitación y actualización para promotores de los mismos en los treinta y tres municipios del Estado;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XXXVI. Formular proyectos de programas enfocados a la orientación y fortalecimiento familiar y comunitario, con la finalidad de captar recursos federales, estatales y de la iniciativa privada que fortalezcan las estrategias del área;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XXXVII. Generar el sustento estadístico y sociodemográfico que respalde la aplicación de programas que beneficien directamente a las familias morelenses en condiciones de vulnerabilidad y marginación;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XXXVIII. Establecer diplomados en orientación familiar a nivel estatal y en todos los ámbitos para profesionalizar al personal que proporciona atención a la familia;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XXXIX. Participar de forma activa en los programas implementados por otras dependencias cuyos objetivos se asemejan a los de esta Dirección;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XL. Realizar los informes de seguimiento del programa con la finalidad de evaluar los avances del mismo;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLI. Vigilar el debido cumplimiento de la legislación federal y estatal que le competa, así como los lineamientos de carácter estatal que sean emitidos por la generación de sus proyectos;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLII. Generar estrategias de difusión y publicación de los resultados obtenidos de los proyectos de desarrollo humano y comunitario en los municipios del Estado en coordinación con el área correspondiente;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLIII. Promover la formación de promotores comunitarios que coadyuven el fortalecimiento de la organización y participación familiar y comunitaria;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLIV. Realizar todo tipo de investigaciones que ayuden a conocer la dinámica y situación social de la familia en comunidades morelenses;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLV. Establecer vínculos con autoridades Federales, Estatales y Municipales para desarrollar en el ámbito de su competencia, la política de fortalecimiento familiar y comunitario;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLVI. Implementar estrategias de apoyo, para hacer posible el establecimiento de centros de orientación familiar en cada Municipio;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLVII. Supervisar y evaluar los proyectos internos y externos del Sistema; tanto entidades públicas como privadas; que contengan objetivos de desarrollo familiar y comunitario;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLVIII. Proponer el diseño, evaluación y sistematización de cédulas sociodemográficas;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-XLIX. Promover y supervisar los eventos conmemorativos de la familia que realice el Sistema;
-
-> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-L. Vigilar que la información generada sea confiable sobre los datos de los sujetos beneficiados de los programas, y
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-LI. Las demás que le confiera la Dirección General, la Presidenta o Presidente del Sistema y las disposiciones legales y reglamentarias aplicables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -736,6 +672,58 @@ XXXVI. Registrar y supervisar que la expedición de recibos de donativos se apeg
 XXXVII. Proponer y coadyuvar en la elaboración de contratos y convenios de carácter financiero y administrativo, que vinculen al Sistema con instituciones públicas y privadas, y
 
 XXXVIII. Las demás que le confiera la persona titular de la Dirección General y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Corresponden a la Dirección de Atención a la Discapacidad las siguientes atribuciones específicas:
+
+l. Cumplir y vigilar que las Leyes, Reglamentos y demás disposiciones en materia de rehabilitación y discapacidad, sean cumplidos por los diversos sectores de la sociedad civil;
+
+II. Ejecutar y vigilar en coordinación con la Secretaría, Dependencia y Entidad correspondiente las acciones necesarias que vayan dirigidas a la población discapacitada en riesgo de contingencia;
+
+III. Planear, programar, organizar, dirigir, coordinar, ejecutar y evaluar los proyectos y programas en materia de discapacidad y rehabilitación que tenga a su cargo;
+
+IV. Promover acciones enfocadas al desarrollo de personas con discapacidad, que por sus carencias socioeconómicas no puedan desarrollarse en el medio en que habiten, o que sean receptoras de violencia;
+
+V. Planear y programar acciones para la investigación, control y prevención de la discapacidad, así como la habilitación y rehabilitación de las personas con discapacidad;
+
+VI. Formular proyectos preventivos de detección, atención y tratamientos a favor de personas con discapacidad en el ámbito laboral;
+
+VII. Promover la instalación, operación y ampliación de los Centros de Rehabilitación Integral así como de las unidades básicas de rehabilitación en los Municipios del Estado, con la finalidad de acercar esos servicios a la población;
+
+VIII. Apoyar a todos los Centros de Rehabilitación Integral y unidades básicas de rehabilitación en la difusión e implementación de los programas sustantivos para la atención a personas con discapacidad;
+
+IX. Supervisar la operación eficiente de los Centros de Rehabilitación y de las unidades básicas de rehabilitación, vigilando que en su atención se pondere el respeto a los derechos humanos;
+
+X. Asumir las facultades que la legislación estatal vigente le atribuyen al sistema en materia de discapacidad;
+
+XI. Supervisar y orientar el funcionamiento de las asociaciones civiles que presten servicios de atención a personas con discapacidad con la finalidad de coadyuvar con estas en el logro de objetivos en esa materia;
+
+XII. Promover en coordinación con la Secretaría, Dependencia y Entidad correspondiente que la Federación y Municipios apliquen recursos que se destinen en infraestructura, rehabilitación y discapacidad;
+
+XIII. Vigilar la ejecución de los proyectos en materia de discapacidad aprobados por la Federación o la Junta de Gobierno;
+
+XIV. Coordinar las funciones de los Centros de Rehabilitación Integral y Unidades Básicas de rehabilitación del Estado, verificando el logro de metas y profesionalización del personal para desempeñar responsablemente las actividades en materia de rehabilitación;
+
+XV. Supervisar que las Unidades Básicas de Rehabilitación cuenten con el personal calificado, así como con la infraestructura e instrumentos necesarios para proporcionar a la ciudadanía discapacitada la adecuada atención;
+
+XVI. Planear, en conjunto con la persona titular de la Dirección General, los proyectos para el Estado y dar cumplimiento a las Leyes que existan para el seguimiento a las personas con discapacidad;
+
+XVII. Promover los derechos de las personas con discapacidad y lucha contra la discriminación hacia ese sector de la sociedad;
+
+XVIII. Promover las Políticas Públicas para la inclusión social, cultural, educativa y deportista para las personas con discapacidad;
+
+XIX. Promover la comunicación efectiva con los Sistemas DIF Municipales para lograr conjuntamente los objetivos en común en materia de discapacidad;
+
+XX. Atender los asuntos conferidos por la persona titular de la Dirección General en relación a la discapacidad y rehabilitación;
+
+XXI. Establecer con las instituciones educativas públicas y privadas del Estado, los medios de enseñanza y capacitación que beneficien a personas con discapacidad;
+
+XXII. Vigilar que la información y datos estadísticos sea confiable sobre los sujetos beneficiados con motivo de las acciones y programas en materia de rehabilitación y discapacidad, y
+
+XXIII. Las demás que le confiera la persona titular de la Dirección General y las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO OCTAVO. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -969,7 +957,7 @@ DR. VÍCTOR MANUEL CABALLERO SOLANO
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 2009.
 
@@ -978,3 +966,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO.- La Dirección General del Sistema, en el término máximo de sesenta días naturales contados a partir de la vigencia del presente Acuerdo, someterá a consideración de la Junta de Gobierno, los ajustes a la estructura orgánica del Sistema, así como los manuales administrativos.
 
 TERCERO.- La Dirección General del Sistema deberá inscribir el presente Acuerdo, dentro de los treinta días naturales siguientes a su publicación, en el Registro Público de los Organismos Auxiliares, de conformidad con lo que establece el Reglamento del Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. El presente .ordenamiento en un plazo no mayor a veinte días hábiles, contados a partir de su publicación, se deberá inscribir en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 78, segundo párrafo, de la Ley Orgánica de la Administración Pública del Estado de Morelos y el artículo 6 del Reglamento del Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
