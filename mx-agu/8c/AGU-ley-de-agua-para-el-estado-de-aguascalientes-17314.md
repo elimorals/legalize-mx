@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2013-02-18"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -77,9 +77,13 @@ IV. Comunidad rural: los centros de población con menos de 2,500 habitantes;
 
 V. Concesionario: la persona moral a la que le sean concesionados los servicios públicos de agua potable, alcantarillado o saneamiento y su reuso;
 
-VI. Concedente: Es el Gobierno Municipal que por si mismo o con el concurso del Gobierno del Estado interviene constitucionalmente en la prestación del servicio;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-VII. Contratistas: las personas físicas y morales que celebren un contrato con los Municipios, organismos operadores municipales o intermunicipales o el instituto en los términos del Artículo 60 de esta Ley;
+VI. Concedente: es el Gobierno Municipal, o el Gobierno del Estado, directamente o por conducto del Instituto, en el caso señalado en el Artículo 21 de esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VII. Contratistas: las personas físicas y morales que celebren un contrato con los Municipios, organismos operadores municipales o intermunicipales, el Instituto o el Estado, en los términos del Artículo 60 de esta Ley;
 
 VIII. Derivación: la conexión a la instalación hidráulica de un predio para abastecer de agua a uno o más usuarios en el mismo predio;
 
@@ -91,7 +95,9 @@ XI. Estructura tarifaria: la tabla que establece por cada tipo de usuarios y, en
 
 XII. Instituto: el Instituto del Agua del Estado;
 
-XIII. Prestador de los servicios: quien preste los servicios públicos de agua potable, alcantarillado y saneamiento, ya sean organismos operadores municipales, intermunicipales, concesionarios o el Instituto";
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Prestador de los servicios: quien preste los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales, ya sean organismos operadores municipales, intermunicipales, concesionarios o contratistas del Instituto;
 
 XIV. Proyecto Estratégico de Desarrollo: estudio a cargo del Municipio que, basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado y saneamiento, y tomando en cuenta las proyecciones de incremento de la demanda, tomando en cuenta la disponibilidad del recurso y en estricto apego a los planes ambientales y de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el ambiente. Esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
 
@@ -101,7 +107,9 @@ XVI. Reuso: la utilización de las aguas residuales previamente tratadas, que cu
 
 XVII. Saneamiento: la conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
 
-XVIII. Servicios públicos: los servicios públicos de agua potable, alcantarillado y saneamiento;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XVIII. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales;
 
 XIX. Suspensión del servicio: la acción y efecto de interrumpir temporalmente el suministro de agua potable por falta de pago, derivaciones no autorizadas, uso distinto al convenido; instalar en forma no autorizada conexiones en cualquiera de las instalaciones del sistema sin estar contratadas y sin apegarse a los requisitos establecidos en la ley, por emplear mecanismos para succionar agua de las tuberías de distribución;
 
@@ -349,19 +357,25 @@ El Instituto contará con un Consejo Consultivo que se integrará a nivel estata
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 13.
 
-Los Municipios, con el concurso del Estado cuando así fuere necesario, tendrán a su cargo los servicios públicos dentro de su jurisdicción territorial, los cuales podrán ser prestados directamente por la dependencia municipal que corresponda o bien, por los prestadores de los servicios, en los términos de lo dispuesto en esta Ley.
+Los Municipios, con el concurso del Estado cuando así fuere necesario, o el Estado en el caso señalado en el Artículo 21, tendrán a su cargo los servicios públicos dentro de su jurisdicción territorial, los cuales podrán ser prestados directamente por la dependencia o entidad municipal o estatal que corresponda o bien, por los prestadores de los servicios, en los términos de lo dispuesto en esta Ley.
 
 ###### ARTICULO 14.
 
 Los servicios públicos serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del ambiente.
 
-Los Municipios con el concurso del Estado cuando así fuere necesario o los prestadores de los servicios serán responsables del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, conforme a las normas oficiales mexicanas o las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua, de acuerdo con lo establecido en la Ley de Aguas Nacionales y su Reglamento.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los Municipios con el concurso del Estado cuando así fuere necesario, el Estado en el supuesto señalado en el Artículo 21 o los prestadores de los servicios, según sea el caso, serán responsables del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, conforme a las normas oficiales mexicanas o las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua, de acuerdo con lo establecido en la Ley de Aguas Nacionales y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 15.
 
-Los Municipios por sí mismos, o con el concurso del Estado, los prestadores de los servicios o contratistas deberán adoptar las medidas necesarias para que se alcance la autonomía financiera en la prestación de los servicios públicos y establecerán los mecanismos de control para que se realicen con eficacia técnica y administrativa.
+Los Municipios por sí mismos, o con el concurso del Estado, el Estado en el supuesto señalado en el Artículo 21, los prestadores de los servicios o contratistas deberán adoptar las medidas necesarias para que se alcance la autonomía financiera en la prestación de los servicios públicos y establecerán los mecanismos de control para que se realicen con eficacia técnica y administrativa.
 
 Para tal efecto, estarán obligados a diseñar y a revisar anualmente el Proyecto Estratégico de Desarrollo, en los términos del Artículo 3º fracción XIV.
 
@@ -427,13 +441,21 @@ Asimismo, los municipios generarán los mecanismos que aseguren que los ingresos
 
 Los Municipios podrán prestar los servicios públicos en forma descentralizada, a través de organismos operadores municipales, o convenir con otros municipios la creación de organismos operadores intermunicipales, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 20.
 
-Los Municipios podrán concesionar, total o parcialmente, la prestación de los servicios públicos, o contratar la realización de las actividades a que se refieren las fracciones II a IV del Artículo 46, de conformidad con lo establecido en esta Ley.
+Los Municipios podrán concesionar, total o parcialmente, la prestación de los servicios públicos, o contratar la realización de las actividades a que se refiere el Artículo 46, de conformidad con lo establecido en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 21.
 
-En caso de que los municipios no pudieren prestar directamente o indirectamente los servicios públicos enunciados en esta Ley, podrán convenir con el Ejecutivo del Estado que éste los preste por conducto del Instituto.
+Conforme al Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y Artículo 69 de la Constitución Política del Estado de Aguascalientes, cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del Instituto, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. En estos supuestos, el Estado no podrá concesionar o contratar el servicio con particulares salvo que se cuente con el consentimiento del Municipio de que se trate, caso en el cual el Municipio estará obligado a respetar el plazo, términos y condiciones del contrato o concesión que sea otorgada por el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Respecto a los servicios públicos de los que se encargue el Estado en términos del presente Artículo, corresponderá al Estado de manera directa o por conducto del Instituto, el ejercicio de las facultades y atribuciones señaladas en la presente Ley, incluyendo sin limitar las facultades regulatorias, de inspección y vigilancia, así como la facultad de determinar y actualizar las tarifas. Lo anterior salvo que se pacte algo distinto en el convenio referido en el primer párrafo de este Artículo.
 
 ### CAPITULO III. De los Prestadores de los Servicios
 
@@ -759,43 +781,69 @@ III. La administración, operación y mantenimiento total o parcial de los siste
 
 IV. Las demás actividades que suscriben con los municipios, los organismos operadores municipales o intermunicipales o el Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 47.
 
-Para la prestación de los servicios públicos a que se refiere la fracción I del artículo anterior se requerirá de concesión, de conformidad con lo dispuesto en esta Sección, que sólo podrá otorgarse a personas morales legalmente constituidas.
+Para la prestación de los servicios públicos a que se refiere la Fracción I del Artículo anterior se requerirá de concesión y, en su caso, contrato de prestación de servicios, de conformidad con lo dispuesto en esta Sección, que sólo podrá otorgarse a personas morales legalmente constituidas.
 
-Para el otorgamiento de las concesiones a que se refiere el párrafo anterior, el municipio deberá realizar los estudios necesarios que determinen la factibilidad técnica y financiera de dichas concesiones.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Para el otorgamiento de las concesiones, y en su caso, contratos de prestación de servicios a que se refiere el párrafo anterior, el Municipio o el Estado en el caso señalado en el Artículo 21, deberá realizar los estudios necesarios que determinen la factibilidad técnica y financiera de los proyectos de que se trate, y deberá sujetarse a los procedimientos establecidos al efecto en esta Ley, salvo que el proyecto vaya a instrumentarse en términos de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, caso en el cual serán aplicables los procedimientos de contratación y demás disposiciones previstas en dicho ordenamiento legal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Las concesiones y contratos de prestación de servicios podrán incluir la elaboración de proyectos y ejecución de obras de infraestructura, así como equipamiento, administración, operación, mantenimiento y demás actividades relacionadas con los sistemas destinados a la prestación del servicio público de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 48.
 
-Las concesiones mencionadas en el artículo anterior se otorgarán por el municipio, o por dos o más municipios, previa licitación pública que realice el propio municipio, con la participación del Instituto, cuando así lo solicite el concedente, a quien resulte ganador de la misma, conforme a lo siguiente:
+Las concesiones y en su caso, contratos de prestación de servicios, mencionados en el Artículo anterior se otorgarán por el Municipio, por dos o más municipios, o por el Estado en el supuesto señalado en el Artículo 21, previa licitación pública que realice el concedente, con la participación del Instituto, cuando así lo solicite el concedente, a quien resulte ganador de la misma, conforme a lo siguiente:
 
-I. El municipio expedirá la convocatoria pública correspondiente para que, en un plazo de 60 días hábiles, se presenten propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+I. El concedente expedirá la convocatoria pública correspondiente para que, en un plazo de 60 días hábiles, se presenten propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
 
 II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Gobierno del Estado, en un diario de circulación nacional y en un diario de mayor circulación de la Entidad;
 
-III. Las bases del concurso, en cuya elaboración participará el Instituto, incluirán el señalamiento del área geográfica donde deberán prestarse los servicios públicos y los criterios con los que se seleccionará al ganador, los cuales tomarán en cuenta las contraprestaciones ofrecidas por el otorgamiento de la concesión, la calidad del servicio que se propone, las inversiones comprometidas, en su caso, las metas de desempeño físico y comercial, y las demás condiciones que se consideren convenientes;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida el municipio;
+III. Las bases del concurso, en cuya elaboración participará el Instituto, incluirán el señalamiento del área geográfica donde deberán prestarse los servicios públicos y los criterios con los que se seleccionará al ganador, los cuales tomarán en cuenta las contraprestaciones ofrecidas en su caso, por el otorgamiento de la concesión, la calidad del servicio que se propone, las inversiones comprometidas, en su caso, las metas de desempeño físico y comercial, así como el sistema con base en el cual se determinará el concurso ganador, y las demás condiciones que se consideren convenientes;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida el concedente;
 
 V. Sólo se recibirán propuestas de empresas que precalifiquen bajo los criterios técnicos y financieros establecidos en las bases de licitación;
 
 VI. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen y las causas que motivaren tal determinación;
 
-VII. El municipio, con la participación del Instituto, con base en el análisis comparativo de las propuestas admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VII. El concedente, con la participación del Instituto en caso de haberse solicitado su participación, con base en el análisis comparativo de las propuestas admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes;
 
 VIII. La propuesta ganadora estará a disposición de los participantes durante diez días hábiles a partir de que se haya dado a conocer el fallo;
 
-IX. Dentro de los quince días hábiles siguientes al plazo señalado en la fracción anterior, los participantes podrán inconformarse ante el municipio. Vencido dicho plazo, este último dictará resolución en un término que no excederá de quince días hábiles;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-X. Una vez dictada la resolución, el municipio, en su caso, adjudicará la concesión, y publicará el título de concesión en el Periódico Oficial del Gobierno del Estado a costa del concesionario; y
+IX. Dentro de los quince días hábiles siguientes al plazo señalado en la Fracción anterior, los participantes podrán inconformarse ante el concedente. Vencido dicho plazo, este último dictará resolución en un término que no excederá de quince días hábiles;
 
-XI. No se adjudicará la concesión cuando la o las propuestas presentadas no cumplan con las bases del concurso o cuando el municipio, en el caso de la fracción IX anterior, resuelva en sentido favorable al inconforme. En estos casos, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-Las propuestas a que se refiere la fracción I de este artículo, deberán contener la descripción técnica general y cronograma de las acciones y obras proyectadas; las estimaciones de los beneficios, costos, valor presente y rentabilidad asociados; las contraprestaciones propuestas y los demás requisitos que se fijen en las bases de licitación.
+X. Una vez dictada la resolución, el concedente, en su caso, adjudicará la concesión, y publicará el título de concesión en el Periódico Oficial del Gobierno del Estado a costa del concesionario; y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XI. No se adjudicará la concesión cuando la o las propuestas presentadas no cumplan con las bases del concurso o cuando el concedente, en el caso de la Fracción IX anterior, resuelva en sentido favorable al inconforme. En estos casos, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Las propuestas a que se refiere la Fracción I de este Artículo, deberán contener la descripción técnica general y cronograma de las acciones y obras proyectadas; las estimaciones de los beneficios, costos, valor presente y rentabilidad asociados; las contraprestaciones propuestas en su caso, y los demás requisitos que se fijen en las bases de licitación.
 
 En caso de que exista un organismo operador, éste emitirá su opinión respecto de los procedimientos que considere necesario adoptar para la transferencia de los bienes destinados a la prestación de los servicios públicos.
 
-Tratándose de comunidades rurales, no será necesario llevar a cabo el procedimiento de licitación señalado en este artículo. En este caso, la concesión podrá ser otorgada directamente por el municipio a las organizaciones que para tal efecto se constituyan en las comunidades y que así lo soliciten.
+Tratándose de comunidades rurales, no será necesario llevar a cabo el procedimiento de licitación señalado en este Artículo. En este caso, la concesión podrá ser otorgada directamente por el municipio a las organizaciones que para tal efecto se constituyan en las comunidades y que así lo soliciten.
 
 ###### ARTICULO 49.
 
@@ -809,11 +857,15 @@ III. Los derechos y obligaciones de los concesionarios;
 
 IV. Las garantías que otorgue el concesionario;
 
-V. Las contraprestaciones que deban cubrirse al concedente;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Las contraprestaciones que, en su caso, deban cubrirse al concedente;
 
 VI. Los derechos y obligaciones del concedente;
 
-VII. Las bases de indemnización que el concedente otorgue al concesionario en caso de revocación de la concesión por causas no imputables a éste;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VII. Las bases de indemnización que el concedente otorgue al concesionario en caso de extinción anticipada de la concesión;
 
 VIII. El período de vigencia;
 
@@ -827,23 +879,35 @@ XII. Las metas de cobertura y eficiencia técnicas, físicas y comerciales, así
 
 XIII. Los programas de construcción, expansión y modernización de los sistemas, los cuales se apegarán a las disposiciones aplicables en materia de equilibrio ecológico y protección al ambiente;
 
-XIV. Las fórmulas para calcular las cuotas y tarifas con base a esta Ley;
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DOS PÁRRAFOS.
 
-El reconocimiento explícito del Instituto como árbitro en caso de controversias entre las partes y como autoridad en el ejercicio de las atribuciones que se le confieren en la presente Ley y su reglamento, en el título de concesión o cualquier otro ordenamiento; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XV. Las causas de extinción establecidas en esta Ley.
+XIV. Las fórmulas para calcular las cuotas y tarifas con base en esta Ley, o la contraprestación a cargo del concedente o contratante cuando éste sea el usuario;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XV. Las causas de extinción establecidas en esta Ley; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XVI. En su caso, la facultad del concesionario de subcontratar con terceros los trabajos y servicios materia de la concesión. En todo caso el concesionario será el único responsable ante el Gobierno del Estado o el Ayuntamiento respectivo.
 
 ###### ARTICULO 50.
 
 Las concesiones se otorgarán, por el tiempo necesario para recuperar las inversiones y obtener la utilidad razonable que deba percibir el concesionario, no pudiendo exceder de treinta años.
 
-Las concesiones a que se refiere el párrafo anterior podrán prorrogarse hasta por un período igual al establecido inicialmente, siempre y cuando el concesionario lo solicite dentro de un plazo anterior a los últimos cinco años de duración de la concesión; la decisión de otorgar esa prórroga corresponde al municipio, con asesoría del Instituto.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Las concesiones a que se refiere el párrafo anterior podrán prorrogarse una o varias veces sin exceder de un plazo de hasta otros 30 años adicionales, cuando medien causas justificadas a juicio de la autoridad concedente.
 
 ###### ARTICULO 51.
 
 Los concesionarios estarán obligados a cumplir con lo dispuesto en esta Ley, su Reglamento, y las condiciones señaladas en los títulos de concesión.
 
-Los concesionarios deberán prestar los servicios públicos de conformidad con las reglas emitidas por el municipio y atendiendo a la legislación de equilibrio ecológico y protección al ambiente, y las normas oficiales mexicanas que se emitan en relación con los mismos.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los concesionarios deberán prestar los servicios públicos de conformidad con las reglas emitidas por el municipio, o por el Estado en el caso señalado en el Artículo 21, y atendiendo a la legislación de equilibrio ecológica (sic) y protección al ambiente, y las normas oficiales mexicanas que se emitan en relación con los mismos.
 
 ###### ARTICULO 52.
 
@@ -858,6 +922,10 @@ Los concesionarios estarán obligados a capacitar al personal de los prestadores
 ###### ARTICULO 54.
 
 El Concedente podrá autorizar, previa opinión del Instituto, dentro de un plazo de sesenta días hábiles, contados a partir de la presentación de la solicitud, la cesión total o parcial de los derechos y obligaciones de las concesiones, siempre que el cesionario cumpla con los requisitos que esta Ley exige para ser concesionario, se comprometa a cumplir con las obligaciones que se encuentren pendientes y asuma las condiciones que al efecto establezca el Concedente.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Con independencia de lo anterior, tanto los derechos económicos derivados de las concesiones, incluyendo sin limitar derecho a cobrar tarifas, contraprestaciones, compensaciones, indemnizaciones y cualquier otra cantidad derivada de la concesión, como las acciones o partes sociales representativas del capital de las empresas concesionarias, podrán ser fideicomitidos, pignorados o de otra forma gravados como garantía o fuente de pago de los créditos contratados con motivo de las concesiones de que se trate, incluyendo sus reestructuras y refinanciamientos.
 
 ###### ARTICULO 55.
 
@@ -883,7 +951,9 @@ Las concesiones podrán ser revocadas por el Concedente cuando el concesionario 
 
 I. Incumpla con el objeto, obligaciones o condiciones de las concesiones en los términos y plazos establecidos en ellas;
 
-II. Ceda o transfiera las concesiones o los derechos en ellas conferidos, sin la autorización previa del Concedente;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. Ceda o transfiera las concesiones o los derechos en ellas conferidos, sin la autorización previa del Concedente, exceptuando de lo anterior, la cesión que haga el Concesionario de los derechos económicos a que se refiere el segundo párrafo del Artículo 54 de la presente Ley;
 
 III. Interrumpa la prestación de los servicios públicos, total o parcialmente, sin causa justificada;
 
@@ -901,7 +971,9 @@ IX. No otorgue o no mantenga en vigor la garantía de cumplimiento de las conces
 
 X. Incumpla reiteradamente con las obligaciones señaladas en el título de concesión en materia de protección ecológica y prevención de la contaminación; así como con cualquiera de las obligaciones o condiciones establecidas en esta Ley o su reglamento.
 
-En los casos de las fracciones III a X, la concesión sólo podrá ser revocada cuando previamente se hubiese sancionado al concesionario por lo menos en dos ocasiones por las causas previstas en la misma fracción.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+En los casos de las Fracciones I y III a X, la concesión sólo podrá ser revocada cuando previamente se hubiese sancionado al concesionario por lo menos en dos ocasiones por las causas previstas en la misma Fracción. En todo caso, y cuando así se haya pactado en el contrato correspondiente, el Concedente podrá autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada.
 
 ###### ARTICULO 57.
 
@@ -921,29 +993,33 @@ En caso de que la prestación de los servicios públicos se concesionen, se form
 
 El concesionario deberá invitar por escrito, al Concedente a las sesiones del consejo de administración mencionadas en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 59.
 
-En materia de concesiones, en lo no establecido por esta Ley, se aplicará supletoriamente la normatividad vigente.
+En materia de concesiones, en lo no establecido por esta Ley, se aplicará supletoriamente, la Ley Municipal para el Estado de Aguascalientes, el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes y demás normatividad aplicable.
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE P.O. 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR DE ESTE PÁRRAFO CONSTABA DE CUATRO FRACCIONES.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 60.
 
-Las actividades a que se refieren las fracciones II a IV del Artículo 46 se podrán realizar mediante los siguientes contratos celebrados con el municipio, el organismo operador o el Instituto:
+Las actividades a que se refiere el Artículo 46 se podrán realizar mediante contratos celebrados con particulares por parte del municipio, el organismo operador o por el Estado, y este último podrá celebrar los contratos directamente o por conducto del Instituto.
 
-I. Contrato de prestación de servicios integrales sin riesgo comercial, que se celebrará para la realización de los estudios, proyectos, construcción, operación, mantenimiento y administración de los sistemas para la prestación de los servicios públicos en los que se establecerá un pago previamente definido para la prestación de los servicios;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-II. Contrato de prestación de servicios integrales con riesgo comercial, que se celebrará para la construcción, operación, mantenimiento y administración de los sistemas requeridos para la prestación de los servicios públicos y el financiamiento del capital de trabajo;
+En todo caso, para celebrar contratos con plazo mayor de cinco años, será necesario que la autoridad contratante se sujete a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes. Si el servicio a ser prestado por el particular requiere tanto de un contrato como de una concesión, ambos serán otorgados conjuntamente y mediante el mismo procedimiento seguido para la adjudicación del contrato.
 
-III. Contratos para la construcción, posesión, operación y transferencia, que se celebrarán para el financiamiento, construcción, posesión y operación de una obra nueva o sistema específico para la prestación de los servicios públicos, revirtiendo la propiedad de la obra al término del contrato, al contratante; y
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-IV. Los demás contratos o convenios necesarios para capitalizar, mejorar, ampliar y hacer más eficientes los servicios públicos.
+Los contratos a que se refiere este Artículo se consideran de derecho público. El incumplimiento grave o reiterado de sus cláusulas motivará su rescisión, previa audiencia de la parte afectada, independientemente de las penas convencionales y la forma de recuperación de la inversión realizada. La rescisión por el municipio, los organismos operadores municipales o intermunicipales, o por el Estado, de los contratos a que se refiere el presente Artículo, y aquellos casos en los que la calidad y continuidad de los servicios públicos dependa del contratante, requerirá de la previa opinión del Instituto, en caso de que se haya solicitado su participación.
 
-En los casos en que se haya otorgado un contrato integral de prestación de los servicios públicos, y el contratista haya cumplido con las condiciones estipuladas en el mismo, se podrá asignar al contratista la concesión para la prestación de los mismos sin necesidad de nuevo concurso, siempre y cuando así se haya estipulado en la licitación correspondiente al otorgamiento de dicho contrato. En estos casos, para la fijación de los requisitos en la licitación del contrato se considerarán los criterios que se hubieran considerado para el caso de concesión.
-
-Los contratos y convenios a que se refiere este artículo se consideran de derecho público. El incumplimiento de sus cláusulas motivará su rescisión, previa audiencia de la parte afectada, independientemente de las penas convencionales y la forma de recuperación de la inversión realizada convenidas (sic). La rescisión por el municipio, los organismos operadores municipales o intermunicipales, o el Instituto, de los contratos a que se refieren las fracciones I a III, y aquellos casos en los que la calidad y continuidad de los servicios públicos dependa del contratante, requerirá de la previa opinión Instituto.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 61.
 
-A los contratos se aplicarán las disposiciones de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes. Tratándose de los contratos de prestación de servicios se aplicarán lo que respecto a las concesiones se establece en los Artículos 48, 51, 53 segundo párrafo, 54, 55, fracciones I, II, III, IV y VI, 56 y 57 de esta Ley.
+A los contratos señalados en señalados en (sic) el Artículo 60 de la presente Ley distintos a los referidos en el párrafo segundo de dicho Artículo, se aplicará lo que corresponda de las disposiciones establecidas en los Artículos 48, 49, 50, 51, 52, 53 segundo párrafo, 54, 55, Fracciones I, II, III, IV y VI, 56 y 57 de esta Ley.
 
 ###### ARTICULO 62.
 
@@ -1198,6 +1274,10 @@ V. La orientación del desarrollo urbano e industrial.
 Las cuotas y tarifas se determinarán y actualizarán por el prestador de los servicios con base en la aplicación de las fórmulas que autorice el Municipio respectivo, con la opinión del Instituto, así como de la previa aprobación del Cabildo de cada Ayuntamiento. Estas fórmulas establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio.
 
 Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y administración de los sistemas; la rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura. Las fórmulas deberán reflejar el efecto, que en su caso, tengan en las tarifas medias de equilibrio las aportaciones que hagan los gobiernos federal, estatal y municipal, o cualquier otra instancia pública, privada o social. Las fórmulas también deberán tomar en cuenta explícitamente el efecto de la eficiencia física, comercial, operativa y financiera de los prestadores de los servicios.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Cuando el servicio de saneamiento o tratamiento de aguas residuales sea prestado por un particular, mediante contrato de prestación de servicios o concesión otorgada con ese único objeto por un Municipio o por el Estado en el caso señalado en el Artículo 21 de esta Ley, las tarifas serán determinadas y actualizadas sujetándose, exclusivamente, a las fórmulas y mecanismos que se establezcan en el contrato o concesión de que se trate. En estos supuestos no serán aplicables las disposiciones relativas a la determinación y ajuste de tarifas previstas en esta Sección Tercera, del Capítulo V, del Título Tercero de la Ley.
 
 ###### ARTICULO 97.
 
@@ -1672,5 +1752,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 18 DE FEBRERO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
