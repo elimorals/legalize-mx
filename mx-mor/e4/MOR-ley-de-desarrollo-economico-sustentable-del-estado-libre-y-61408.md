@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2013-04-24"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -163,7 +163,9 @@ III. La persona titular de la Consejería Jurídica, y
 
 IV. Una persona designada por la persona titular del Poder Ejecutivo, integrante de la CREDE, quien fungirá como Secretario Técnico.
 
-Todos los integrantes podrán designar a un suplente, el del Presidente será el Secretario de Desarrollo Económico, y en el caso de los demás deberá tener nivel jerárquico de Subsecretario o Director General.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Todos los integrantes podrán designar a un suplente, el del Presidente será el Secretario de Economía, y en el caso de los demás deberá tener nivel jerárquico de Subsecretario o Director General.
 
 Los integrantes tendrán derecho a voz y voto, en caso de empate la persona que funja como Presidente tendrá voto de calidad.
 
@@ -640,3 +642,13 @@ PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente al de su p
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas, de igual o menor rango jerárquico normativo, que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
