@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2013-11-12"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1161,13 +1161,21 @@ I. Administración;
 
 II. Estudios Legislativos;
 
-III. De Comunicación Social; y
+> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2013)</small>
+
+III. De Comunicación Social;
 
 IV. Vigilancia de la Contraloría.
 
+> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Editorial y de Biblioteca.
+
 La Asamblea podrá integrar los comités que considere necesarios con el carácter de permanentes o transitorios.
 
-Los comités permanentes se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados, conforme al ámbito de competencia señalada en los artículos 76 A, 76 B y 76 C; además de los asuntos que en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden.
+> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los comités permanentes se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados, conforme al ámbito de competencia señalada en los artículos 76 A, 76 B, 76 C y 76 E; además de los asuntos que en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden.
 
 > <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
@@ -1201,7 +1209,9 @@ III. Impulsar los programas del Instituto de Estudios Legislativos;
 
 IV. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Instituto;
 
-V. Proponer a la Comisión Editorial la inserción de trabajos y artículos que fomenten el estudio del derecho parlamentario; y
+> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Proponer al Comité Editorial y de Biblioteca la inserción de trabajos y artículos que fomenten el estudio del derecho parlamentario; y
 
 VI. Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
@@ -1238,6 +1248,30 @@ VI. Vigilar que el funcionamiento de la Contraloría y la actuación de sus serv
 VII. Supervisar que la Contraloría cumpla con las obligaciones en materia de transparencia y acceso a la información pública, así como guardar la debida reserva sobre las investigaciones y procedimientos administrativos que lleve a cabo, hasta que se pongan en estado de resolución ante la Junta de Coordinación Política; y
 
 VIII. Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2013)</small>
+
+Artículo 76 E.- Son atribuciones del Comité Editorial y de Biblioteca:
+
+I. Promover la divulgación y difusión de las obras editoriales y decretos de la Legislatura;
+
+II. Propiciar el desarrollo y funcionamiento eficaz de los servicios bibliotecarios, de documentación e información;
+
+III. Adoptar las medidas necesarias para conocer de las acciones que se realicen para el resguardo, cuidado y preservación del acervo histórico del Poder Legislativo;
+
+IV. Promover la impresión o edición de ordenamientos jurídicos y documentos de importancia para el Poder Legislativo del Estado Libre y Soberano de México;
+
+V. Participar en la suscripción de convenios o intercambios con las bibliotecas legislativas de otros Estados;
+
+VI. Conocer y evaluar el programa anual de actividades de la Biblioteca;
+
+VII. Citar al titular de la Biblioteca, Dr. José María Luis Mora, para conocer en lo específico las actividades que se realizan;
+
+VIII. Proponer a la Asamblea el Reglamento de la Biblioteca Dr. José María Luis Mora;
+
+IX. Los asuntos que le asignen el Pleno de la Legislatura, la Diputación Permanente o la Junta de Coordinación Política.
+
+Para la consecución de dichos fines el Comité se coordinará con la Secretaría de Asuntos Parlamentarios, en los términos de lo dispuesto por el Reglamento.
 
 ###### Artículo 77.
 
@@ -1429,7 +1463,7 @@ Para el control, fiscalización y revisión del ingreso y del gasto público de 
 
 Las atribuciones y funcionamiento de la Secretaría de Asuntos Parlamentarios, la Contraloría, la Secretaría de Administración y Finanzas, la Dirección General de Comunicación Social y el Instituto de Estudios Legislativos, serán regulados por el Reglamento correspondiente.
 
-Los titulares de estas dependencias serán electos por la Asamblea y durarán en su encargo cuatro años, pudiendo ser removidos de acuerdo con la ley.
+Los titulares de estas dependencias serán electos por la Asamblea y duraran en su encargo cuatro años, pudiendo ser removidos de acuerdo con la ley.
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -2014,3 +2048,17 @@ G.G. 12 DE NOVIEMBRE DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+###### ARTÍCULO TERCERO.
+
+Los actuales integrantes de la Comisión Legislativa Editorial y de Biblioteca conformarán el comité permanente que se crea y sus funciones serán las establecidas en virtud de este decreto.
