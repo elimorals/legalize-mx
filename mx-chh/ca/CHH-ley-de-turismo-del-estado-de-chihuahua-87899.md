@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2012-05-19"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -111,9 +111,17 @@ XVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de resi
 
 XIX. Turismo Accesible: Es aquel que brinda servicios que tienen las características para ser usados por personas con diferentes grados de habilidad, tomando en cuenta diferentes tipos de discapacidad.
 
-XX. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XXI. Zona de Interés: Aquella área posible de ser delimitada claramente, en la que se concentren un conjunto de atractivos y equipamiento básico en explotación de cierta importancia y densidad, capaz de configurar un producto turístico identificable, requiriendo, para su más eficaz desarrollo, del Programa Estatal de Turismo que facilite su consolidación y evite la existencia de actividades negativas o no compatibles con la vocación turística reconocida.
+XX. Turismo Médico.- Actividad turística generada con las personas que se trasladan a la Entidad con la finalidad de recibir servicios y tratamientos médicos o relacionados con la Salud.
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XXI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XXII. Zona de Interés: Aquella área posible de ser delimitada claramente, en la que se concentren un conjunto de atractivos y equipamiento básico en explotación de cierta importancia y densidad, capaz de configurar un producto turístico identificable, requiriendo, para su más eficaz desarrollo, del Programa Estatal de Turismo que facilite su consolidación y evite la existencia de actividades negativas o no compatibles con la vocación turística reconocida.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -153,7 +161,13 @@ XV. Promover, fomentar y coordinar la realización de programas de capacitación
 
 XVI. Promover, ante las autoridades competentes, el establecimiento de programas, instituciones y centros de enseñanza para la formación, desarrollo y profesionalización de recursos humanos requeridos para el fomento de la cultura turística.
 
-XVII. Ejercer las demás facultades y obligaciones que le asignen otros ordenamientos jurídicos aplicables y las que le sean atribuidas por el Titular del Ejecutivo del Estado, en materia de Turismo.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XVII. Coordinarse con la Secretaría de Salud y la Secretaría de Hacienda del Estado de Chihuahua, así como con la iniciativa privada, a fin de elaborar las políticas públicas pertinentes para la promoción y desarrollo del Turismo Médico en la Entidad.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XVIII. Ejercer las demás facultades y obligaciones que le asignen otros ordenamientos jurídicos aplicables y las que le sean atribuidas por el Titular del Ejecutivo del Estado, en materia de Turismo.
 
 ### CAPÍTULO III. FACULTADES CONCURRENTES DEL MUNICIPIO
 
@@ -654,3 +668,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciseis días del mes de mayo del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
