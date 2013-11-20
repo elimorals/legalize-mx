@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2013-11-13"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -1701,7 +1701,7 @@ d).- Los Ayuntamientos, en el ámbito de su competencia, propondrán a la legisl
 
 IV.- Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 104.
 
@@ -1750,6 +1750,18 @@ I.- El Congreso del Estado, tomando en cuenta las condiciones socioeconómicas d
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
 II.- Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Tratándose de asociaciones con Municipios que pertenezcan a otra u otras Entidades Federativas, éstos deberán contar con la aprobación de las Legislaturas de los Estados respectivas. Asimismo cuando a juicio del Ayuntamiento, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio; y
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los Ayuntamientos de los Municipios de las zonas conurbadas o metropolitanas, previa autorización de cuando menos las dos terceras partes de sus integrantes, podrán celebrar convenios para emitir reglamentos intermunicipales que normen la prestación de los servicios públicos y el mejor ejercicio de las funciones que les correspondan; así como para emitir lineamientos con el objeto de homologar los requisitos que se requieran en cada uno de sus Municipios para el otorgamiento de autorizaciones, permisos, licencias, concesiones, registros, constancias, dictámenes, empadronamientos y demás trámites que soliciten los particulares.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los reglamentos señalados en el párrafo que antecede deberán prever las autoridades de cada uno de los Municipios que ejercerán sus atribuciones en su correspondiente jurisdicción territorial.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+La Ley de la materia, regulará los demás requisitos que deberán observarse para la emisión de los ordenamientos a que se refieren los párrafos anteriores.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -3027,9 +3039,9 @@ P.O. 29 DE AGOSTO DE 2012.
 
 DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y reforman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
-SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3116,3 +3128,11 @@ SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- El Congreso del Estado realizará las adecuaciones legales necesarias derivadas del presente Decreto, en un plazo no mayor a ciento veinte días, contados a partir de su entrada en vigor.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta adición ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
