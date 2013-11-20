@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-seguridad-publica-51222
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-31"
-last_updated: "2006-07-31"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de julio de 2006.
 
@@ -123,9 +123,11 @@ Los directores, jefes de departamento y demás personal de la Secretaría serán
 
 Para la atención, trámite y resolución de asuntos que son competencia del Secretario, éste podrá comisionar al personal de su adscripción que habrá de llevarlos a cabo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-Son facultades y obligaciones del Secretario de Seguridad Pública las señaladas en los Artículos 26 C de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, en el Artículo 50 B de la Ley de Seguridad Pública, en el Artículo 8° Bis de la Ley de Vialidad del Estado de Aguascalientes, así como las siguientes:
+Son facultades y obligaciones del Secretario de Seguridad Pública las señaladas en los Artículos 30 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, 34 de la Ley del Sistema Estatal de Seguridad pública de Aguascalientes, 8° Bis de la Ley de Vialidad del Estado de Aguascalientes, así como las siguientes:
 
 I. Establecer, dirigir y controlar las políticas de la Secretaría, así como planear y coordinar en los términos de la legislación aplicable las actividades de la dependencia;
 
@@ -133,7 +135,9 @@ II. Proponer al titular del Ejecutivo en el Estado a la persona que ocupará el 
 
 III. Proponer al Gobernador Constitucional del Estado, las personas que serán los titulares de las Direcciones Generales de la Secretaría, del Departamento de Asuntos Internos, del Centro Estatal de Telecomunicaciones C4, y del Centro de Control y Evaluación del Personal;
 
-IV. Someter al acuerdo del Gobernador del Estado los asuntos relevantes encomendados a la Secretaría y a sus unidades adscritas;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Someter al acuerdo del Gobernador del Estado los asuntos relevantes encomendados a la Secretaría y a sus unidades adscritas, así como los nombramientos de los Directores y Subdirectores de cada institución policiaca que conforme el mando único.
 
 V. Certificar todo tipo de documentos que se encuentren en los archivos de la Secretaría y de las unidades administrativas que dependan orgánicamente de manera directa del Secretario;
 
@@ -931,7 +935,7 @@ II. Personal Operativo, el cual se encontrará sujeto a lo dispuesto en la Ley d
 
 Las Direcciones, Jefaturas y demás unidades administrativas a cargo de la Dirección General de Seguridad Pública y Vialidad del Estado, realizarán las actividades que les correspondan de acuerdo a este Reglamento y la naturaleza que les impone la denominación de su puesto sin perjuicio de que realicen las tareas que les encomiende el Director General para el cumplimiento de cualquiera de las obligaciones y fines de la Dirección General a efecto de equilibrar las cargas de trabajo y el inmediato cumplimiento de los fines de la misma.
 
-###### Articulo 52.
+###### Artículo 52.
 
 Son Facultades y obligaciones de los elementos de la Policía Estatal y del H. Cuerpo de Bomberos del Estado de Aguascalientes, las previstas por la Ley de Seguridad Pública, la Ley de Responsabilidades de los Servidores Públicos, en el Reglamento Interior de la Dirección General de Seguridad Pública y Vialidad y de las Relaciones y Derechos de los Elementos de las Corporaciones de Seguridad Pública adscritas a la Secretaría de Seguridad Pública del Estado de Aguascalientes y los manuales operativos que sean expedidos.
 
@@ -1572,3 +1576,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Filiberto Ramírez Lara,
 
 SECRETARIO DE SEGURIDAD PUBLICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
