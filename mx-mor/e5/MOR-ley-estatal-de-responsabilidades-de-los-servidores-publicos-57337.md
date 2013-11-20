@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2013-03-04"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,205 +21,249 @@ state: "MOR"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-REGLAMENTO DE LAS OFICINAS DE HACIENDA Y/O RECAUDACIONES DE RENTAS DEL ESTADO DE DURANGO
+LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
-Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 4 de septiembre de 2003.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
-El Ciudadano Licenciado Ángel Sergio Guerrero Mier, Gobernador Constitucional del Estado Libre y Soberano de Durango, en ejercicio de las facultades que me confiere el artículo 70 fracc. XXXI de la Constitución Política del Estado, los artículos 1, 15 y 16 de la Ley Orgánica de la Administración Pública del Estado de Durango y con fundamento en lo dispuesto por los artículos 65 fracc. I y 67 fracc. I del Código Fiscal del Estado de Durango; he tenido a bien expedir el siguiente:
+Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
 
-REGLAMENTO DE LAS OFICINAS DE HACIENDA Y/O RECAUDACIONES DE RENTAS DEL ESTADO DE DURANGO
+DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+
+LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
+
+CONSIDERANDO
+
+..
+
+Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
+
+LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
 ## TÍTULO PRIMERO
 
-### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
-El presente reglamento tiene por objeto regular la estructura orgánica, la competencia y el funcionamiento de las Oficinas de Hacienda y/o Recaudaciones de Rentas del Gobierno del Estado de Durango.
+Los servidores públicos de los Poderes del Estado, de los Ayuntamientos, de las Entidades Paraestatales, los titulares de los órganos autónomos y sus consejeros, los titulares de la administración pública paraestatal y en general, los funcionarios o empleados públicos, son responsables en el desempeño de sus atribuciones en los términos del Título Séptimo de la Constitución Política Local, esta Ley y la (sic) demás legislación que regule su actuación.
 
 ###### ARTÍCULO 2.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas son las Dependencias responsables de la recaudación de las contribuciones, productos, aprovechamientos y sus accesorios que debe percibir el Estado, provenientes del cumplimiento de las leyes fiscales y de los Convenios Fiscales que celebre el Estado con la Federación o los Municipios; así como llevar la representación de la Secretaría de Finanzas y de Administración en su jurisdicción territorial, ante las autoridades federales, estatales, municipales así como ante los contribuyentes.
+Para los efectos a los que se refiere esta Ley, se entiende por:
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas están adscritas a la Subsecretaría de Ingresos.
+Ley.- La Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+Servidor Público.- Los integrantes de los Poderes del Estado, de los Ayuntamientos, de las Entidades Paraestatales, los titulares de los órganos autónomos y sus consejeros, los titulares de la Administración Pública Paraestatal y en general, los funcionarios o empleados públicos que desempeñan un cargo, empleo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal.
+
+Denuncia.- Acto verbal o escrito mediante el cual se pone en conocimiento de la autoridad sancionadora hechos susceptibles de responsabilidad política o administrativa, cometidos por algún servidor público en el ejercicio de sus funciones.
+
+Queja.- Acto verbal o escrito mediante el cual se pone en conocimiento de la autoridad sancionadora hechos susceptibles de responsabilidad política o administrativa, cometidos por algún servidor público en el ejercicio de sus funciones, y que por su naturaleza y efectos, trascienden a la esfera jurídica del quejoso.
+
+Autoridad Sancionadora.- Es la persona investida de atribuciones de investigación, seguimiento y sanción en contra de servidores públicos, por la comisión de acciones u omisiones susceptibles de responsabilidad política o administrativa por el indebido ejercicio de sus funciones.
+
+Juicio Político.- La controversia y decisión legitima ante el Congreso del Estado, ejercida en materia política, en contra de funcionarios públicos, en razón del indebido ejercicio de sus atribuciones, que estas se encuentren debidamente establecidas en la Ley y que concluya con una resolución definitiva.
 
 ###### ARTÍCULO 3.
 
-Para los efectos del presente reglamento se entenderá por:
+Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular queja o denuncia ante la autoridad sancionadora, en los términos de la presente Ley respecto de los actos u omisiones que realicen los servidores públicos que den origen a responsabilidad administrativa por el incumplimiento de sus obligaciones.
 
-I. Secretaría.- La Secretaría de Finanzas y de Administración del Gobierno del Estado de Durango.
-
-II. Subsecretaría.- La Subsecretaría de Ingresos.
-
-III. Dirección.- La Dirección de Recaudación.
-
-IV. Recaudaciones.- Las Oficinas de Hacienda y/o Recaudaciones de Rentas.
+Todo servidor público que por cualquier causa tenga conocimiento de actos u omisiones que pudieran derivar en responsabilidad política o administrativa por parte de otro servidor público, se encuentra obligado a poner en conocimiento inmediato de la autoridad sancionadora correspondiente dichos actos u omisiones, con el propósito de que se inicien las investigaciones procedentes y en su caso el procedimiento de responsabilidad previsto por esta Ley.
 
 ###### ARTÍCULO 4.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas conducirán sus actividades de planeación, coordinación, ejecución, evaluación y control con base a los objetivos, políticas, estrategias, prioridades y restricciones que establezcan la Secretaría.
+Las quejas y denuncias que se presenten ante la Autoridad Sancionadora correspondiente deberán reunir los siguientes requisitos:
+
+I. Nombre de la Autoridad a quien va dirigida.
+
+II. Lugar y fecha de la presentación del escrito.
+
+III. El nombre del quejoso o denunciante. En caso de que sean varios los quejosos o denunciantes deberán designar un representante común a quien se le harán las notificaciones que correspondan. Para el caso de que no se realice la designación del representante común, la autoridad tendrá como representante a cualquiera de ellos.
+
+IV. El nombre y cargo del o los servidores públicos a quienes se les imputan los hechos, en caso de que sean de su conocimiento o la manifestación bajo protesta de decir verdad que lo desconocen.
+
+V. Relación sucinta de los hechos materia de su queja o denuncia, señalando de manera precisa el acto imputado, así como las circunstancias en que se realizo, tales como: lugar, hora y fecha.
+
+VI. Señalar domicilio en el lugar donde se siga el procedimiento, para que se le notifique el primer acuerdo que recaiga sobre la queja o denuncia presentada y en su caso la resolución definitiva. En este caso, será notificado siempre y cuando los actos u omisiones que deriven en responsabilidad provoquen un detrimento en la esfera patrimonial del quejoso o denunciante.
+
+VII. En caso de que el quejoso o denunciante cuente con elementos de prueba, deberá adjuntarlos a la queja o denuncia. Tratándose de juicio político, la aportación de dichos elementos será esencial.
+
+VIII. Firma autógrafa del quejoso o denunciante.
+
+En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos motivo de la comparecencia. Dichos datos deberán cubrir en esencia, los requisitos enumerados en las fracciones anteriores.
 
 ###### ARTÍCULO 5.
 
-Al frente de las Recaudaciones de Rentas habrá un Recaudador, al que corresponderá originalmente, tramitar y resolver los asuntos de su competencia, y será auxiliado para el desempeño de esta tarea cuando menos con un Jefe de Departamento de oficina y por los demás servidores públicos que autorice el Secretario.
+El quejoso o denunciante no será considerado como parte dentro de la investigación, juicios o procedimientos previstos por la presente Ley instaurados en contra de los Servidores Públicos que den lugar a ellos, pero sí podrá aportar las pruebas necesarias y suficientes para acreditar la responsabilidad administrativa del probable responsable.
+
+En el caso de la investigación, a juicio de la autoridad sancionadora, el quejoso o denunciante podrá coadyuvar para la integración de la misma en los términos que la propia autoridad proponga.
 
 ###### ARTÍCULO 6.
 
-El Recaudador de Rentas podrá delegar en los servidores públicos mencionados en el artículo anterior, cualesquiera de sus facultades, excepto aquellas que por disposición legal sean indelegables.
+Son autoridades sancionadoras en los términos que establece la presente Ley y en el ámbito de su competencia:
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+I. La Auditoría Superior de Fiscalización.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Legislativo del Gobierno del Estado y de los titulares de los órganos autónomos constitucionales.
+
+II. La Secretaría de la Contraloría.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Ejecutivo del Gobierno del Estado de Morelos y de las Entidades Paraestatales, así como de aquellos que ejerzan recursos federales y estatales a través de convenios.
+
+III. El Consejo de la Judicatura.- Para conocer de las quejas o denuncias en contra de los Servidores Públicos del Poder Judicial del Gobierno del Estado.
+
+IV. Las Contralorías Municipales.- Para conocer quejas o denuncias en contra de los servidores públicos de los Ayuntamientos; y
+
+V. El Tribunal Superior de Justicia.- Para conocer del juicio político como jurado de sentencia.
 
 ###### ARTÍCULO 7.
 
-Para efectos de recaudación se instituyen las Oficinas de Hacienda y/o Recaudaciones de Rentas en el Estado con el siguiente nombre, sede y ámbito de Competencia:
-
-I. Recaudación de Rentas en Canatlán.- Canatlán, como residencia; comprendiendo su ámbito territorial en el Municipio del mismo nombre.
-
-II. Recaudación de Rentas en Canelas.- Canelas, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-III. Recaudación de Rentas en Cuencamé.- Cuencamé, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre y el del Municipio de Santa Clara.
-
-IV. Recaudación de Rentas en Durango.- Durango, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-V. Recaudación de Rentas en El Oro.- Santa María del Oro, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-VI. Recaudación de Rentas en Gómez Palacio.- Gómez Palacio, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-VII. Recaudación de Rentas en Guadalupe Victoria.- Guadalupe Victoria, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-VIII. Recaudación de Rentas en Guanacevi.- Guanacevi, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-IX. Recaudación de Rentas en Hidalgo.- Villa Hidalgo, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-X. Recaudación de Rentas en Indé.- Indé, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XI. Recaudación de Rentas en Lerdo.- Lerdo, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XII. Recaudación de Rentas en Mapimí.- Mapimí, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XIII. Recaudación de Rentas en Mezquital.- Mezquital, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XIV. Recaudación de Rentas en Nazas.- Nazas, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre y los de los Municipios de San Luis del Cordero y San Pedro del Gallo.
-
-XV. Recaudación de Rentas en Nombre de Dios.- Nombre de Dios, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XVI. Recaudación de Rentas en Nuevo Ideal.- Nuevo Ideal, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XVII. Recaudación de Rentas en Ocampo.- Villa Ocampo, como residencia; comprendiendo su ámbito territorial el Municipio de Ocampo.
-
-XVIII. Recaudación de Rentas en Pánuco de Coronado.- Francisco I. Madero, como residencia; comprendiendo su ámbito territorial el Municipio de Pánuco de Coronado.
-
-XIX. Recaudación de Rentas en Peñon Blanco.- Peñon Blanco, como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XX. Recaudación de Rentas en Poanas.- Villa Unión, como residencia; comprendiendo su ámbito territorial el Municipio de Poanas.
-
-XXI. Recaudación de Rentas en Pueblo Nuevo.- El Salto como residencia; comprendiendo su ámbito territorial el Municipio de Pueblo Nuevo.
-
-XXII. Recaudación de Rentas en Rodeo.- Rodeo como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXIII. Recaudación de Rentas en San Bernardo.- San Bernardo como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXIV. Recaudación de Rentas en San Dimas.- Tayoltita como residencia; comprendiendo su ámbito territorial el Municipio de San Dimas.
-
-XXV. Recaudación de Rentas en San Dimas.- teniendo en San Miguel de Cruces una Recaudación adicional al de la residencia, en el ámbito territorial del Municipio de San Dimas.
-
-XXVI. Recaudación de Rentas en San Juan de Guadalupe.- San Juan de Guadalupe como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXVII. Recaudación de Rentas en San Juan del Río.- San Juan del Río como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre y el de Coneto de Comonfort.
-
-XXVIII. Recaudación de Rentas en Santiago Papasquiaro.- Santiago Papasquiaro como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre y el de Otaez.
-
-XXIX. Recaudación de Rentas en Simón Bolivar.- Simón Bolivar como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXX. Recaudación de Rentas en Súchil.- Súchil como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXXI. Recaudación de Rentas en Tamazula.- Tamazula como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXXII. Recaudación de Rentas en Tepehuanes.- Tepehuanes como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXXIII. Recaudación de Rentas en Tlahualilo.- Tlahualilo como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXXIV. Recaudación de Rentas en Vicente Guerrero.- Vicente Guerrero como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXXV. Recaudación de Rentas en Coneto de Comonfort.- Coneto de Comonfort como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-XXXVI. Recaudación de Rentas en Topia.- Topia como residencia; comprendiendo su ámbito territorial el Municipio del mismo nombre.
-
-Independientemente de lo anterior, el Secretario de Finanzas y de Administración, previo acuerdo con el Gobernador del Estado, podrá crear otras Oficinas de Hacienda y/o Recaudaciones de Rentas, en las circunscripciones territoriales que así lo amerite.
+Si la conducta de los Servidores Públicos deriva en responsabilidad civil, patrimonial o penal, se sancionará como tal, de conformidad con lo previsto por la legislación aplicable, independientemente de la responsabilidad política y/o administrativa en que hubieren incurrido.
 
 ## TÍTULO SEGUNDO. DEL JUICIO POLÍTICO
 
-### CAPÍTULO II. DE LA COMPETENCIA Y ORGANIZACIÓN
+### CAPÍTULO I. SUJETOS, CAUSAS DE JUICIO POLÍTICO Y SANCIONES
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán recaudar los ingresos provenientes de contribuciones, productos, aprovechamientos y sus accesorios que deba percibir el Gobierno del Estado, conforme lo disponga las leyes fiscales y de los convenios fiscales que celebre Estado con la Federación o los Municipios, dentro del ámbito territorial que se les asigna en el presente reglamento.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
 
 ###### ARTÍCULO 9.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán representar a la Secretaría en su jurisdicción territorial, ante autoridades federales, estatales, municipales así como ante los contribuyentes.
+Los sujetos de juicio político a que se refiere esta Ley, serán susceptibles de responsabilidad durante el ejercicio de su encargo y hasta un año después de haberse separado del empleo, cargo o comisión que les fue encomendado, siempre y cuando no haya transcurrido el plazo de la prescripción previsto en la presente Ley.
 
 ###### ARTÍCULO 10.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán vigilar el estricto cumplimiento de las normas fiscales, circulares e instrucciones expresas emitidas por el Secretario de Finanzas y de Administración, el Subsecretario de Ingresos y Director de Recaudación, haciéndolas del conocimiento de los empleados de su Recaudación.
+Da origen al juicio político:
+
+I. Cualquier violación a la Constitución Política del Estado, cuando cause daños o perjuicios graves o motive algún trastorno en el funcionamiento normal de las instituciones;
+
+II. Afectar la soberanía del Estado;
+
+III. Atacar las instituciones democráticas;
+
+IV. La usurpación de atribuciones;
+
+V. La violación grave a las garantías de los gobernados;
+
+VI. El abandono o desatención injustificada de las funciones que se le han encomendado;
+
+VII. Las violaciones graves a los planes, programas y presupuestos de la administración pública estatal o municipal;
+
+VIII. Incurrir en responsabilidad declarada por el Senado de la República en términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 11.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán depositar los ingresos recaudaos, atendiendo las políticas emitidas por el Secretario en las cuentas bancarias de la Secretaría de Finanzas y de Administración asignadas para tal fin.
+En caso de responsabilidad derivada de juicio político en términos de los artículos que anteceden, serán aplicables las siguientes sanciones:
+
+I. La destitución del cargo o investidura;
+
+II. La inhabilitación para ejercer la función pública, misma que no podrá ser menor a seis años, ni mayor a doce;
+
+III. La restitución del monto equivalente a los daños y perjuicios causados al erario público; y
+
+IV. Multa, la cual no podrá exceder de tres tantos a los daños y perjuicios causados al erario público.
 
 ###### ARTÍCULO 12.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán atender oportuna y eficazmente las consultas que sobre situaciones reales y concretas, le sean presentadas por los contribuyentes, sin que estas creen instancia. En su caso, tratándose de asuntos que no son de su competencia pero relativos de la Secretaría, recibir y turnar su trámite a la autoridad competente para su resolución.
+La aplicación de las sanciones previstas en el artículo que precede pueden ser acumulativas, y deberán ser impuestas atendiendo a la naturaleza y gravedad de las causas que dieron origen al procedimiento.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DEL JUICIO POLÍTICO
 
 ###### ARTÍCULO 13.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán concentrar oportunamente la documentación comprobatoria conforme a las políticas establecidas por el Secretario y Subsecretario de Ingresos.
+En el Juicio Político el Congreso del Estado conocerá como Jurado de Declaración y el H. Tribunal Superior de Justicia del
+
+Estado integrado por la totalidad de sus miembros, como Jurado de Sentencia.
 
 ###### ARTÍCULO 14.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán recibir de los contribuyentes, responsables solidarios o terceros con ellos relacionados, avisos, declaraciones, solicitudes, constancias, manifestaciones y demás documentación que conforme a las disposiciones fiscales deban presentarse ante la misma.
+Toda denuncia de juicio político deberá presentarse en los términos previstos por los artículos 3 y 4 de la presente Ley, salvo lo dispuesto por el segundo párrafo de este último artículo.
 
 ###### ARTÍCULO 15.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban ante las oficinas de Recaudaciones de Rentas, la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentre encomendada a dichas Recaudaciones.
+El procedimiento será de estricto derecho, manteniendo en todo momento el principio de igualdad de las partes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 16.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán previo acuerdo del Director de Recaudación, tramitar y resolver las solicitudes para el pago diferido o en parcialidades de los créditos fiscales, previa garantía del interés fiscal y sus accesorios, de conformidad con las leyes fiscales federales y estatales.
+El juicio político se desahogará conforme al siguiente procedimiento:
+
+I. La denuncia será presentada ante la Secretaría del Congreso del Estado y dentro del término de tres días hábiles siguientes a su presentación deberá ser ratificada, y en la siguiente sesión se dará cuenta al Pleno para su turno correspondiente;
+
+II. Turnada que sea la denuncia con la documentación que le acompaña, la Junta Política y de Gobierno procederá a calificar lo siguiente:
+
+a) Si el denunciante cumple con los requisitos establecidos en el artículo 4 de este ordenamiento;
+
+b) Si el denunciado es considerado sujeto de juicio político, conforme lo establece el artículo 8 de este ordenamiento;
+
+c) Si la conducta atribuida corresponde a las enumeradas en el artículo 10 de esta ley; y
+
+d) Si las pruebas aportadas tienen relación con los hechos denunciados;
+
+III. Si la denuncia reúne los requisitos señalados en la fracción anterior, emitirá dentro del término de treinta días hábiles contados a partir de que la recibió, el dictamen fundado y motivado en el que declara que la solicitud amerita la incoacción del procedimiento y turnará el expediente a la Comisión de Gobernación y Gran Jurado, quien actuará como Comisión Instructora del procedimiento.
+
+Si la denuncia no cumple con lo dispuesto por la fracción II de este artículo, la Junta Política y de Gobierno, dentro de un término de treinta días hábiles contados a partir de haberla recibido, emitirá el dictamen fundado y motivado mediante el cual declarará la improcedencia;
+
+IV. Una vez recibida la denuncia por la Comisión Instructora, procederá a emplazar al denunciado en el domicilio proporcionado para tal efecto o en el domicilio laboral si continúa en funciones, corriéndole traslado con las constancias que integran el expediente;
+
+V. En caso de que el denunciado no pueda ser emplazado en ninguno de los domicilios precisados, se procederá a notificarle por edictos, los cuales se publicarán por tres veces, de uno en uno semanalmente en el órgano de difusión oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación en la entidad;
+
+VI. El denunciado dentro de un plazo de quince días hábiles, contados a partir del día siguiente en que surte efectos la notificación realizada en los términos de la fracción anterior, o contados a partir del día siguiente de la última publicación en el caso de notificación por edictos, deberá contestar los hechos que se le imputan. En su contestación, deberá señalar domicilio para oír y recibir notificaciones, designar representante legal que cuente con cédula profesional de licenciado en derecho, personas autorizadas para oír y recibir notificaciones, debiendo además ofrecer sus pruebas;
+
+VII. Si concluido el plazo anterior no comparece por si o por medio de su representante legal, se seguirá el juicio en rebeldía, perdiendo el contumaz su derecho a contestar los hechos denunciados en su contra, teniéndolos por ciertos y perdiendo su derecho a ofrecer pruebas;
+
+VIII. En caso de existencia de pruebas que requieran diligencia especial para su desahogo, la Comisión Instructora procederá a señalar fecha y hora para su desahogo, el cual no excederá de quince días hábiles.
+
+Una vez desahogadas las pruebas en la misma diligencia, la Comisión Instructora procederá a declarar abierto el período de alegatos, en el cual el denunciado o su representante legal, los presentarán por escrito o en su caso verbalmente en un tiempo no mayor a treinta minutos;
+
+IX. Cerrado el período de alegatos, en la propia diligencia, la Comisión Instructora declarará cerrada la instrucción procediendo en el acto a turnar los autos para su resolución, la cual deberá dictarse en un plazo no mayor a veinte días hábiles contados a partir de la fecha del acuerdo de cierre de instrucción;
+
+X. Concluido el plazo señalado para emitir la resolución en que se contengan las conclusiones de la Comisión Instructora, ésta solicitará a la Conferencia para la Programación y Dirección de los Trabajos Parlamentarios, la fecha para que el Congreso conozca del asunto como Jurado de Declaración;
+
+XI. En la sesión del Pleno, el Congreso erigido en Jurado de Declaración, oirá al acusado, a su defensor o a ambos si quisieren; la Secretaría, por instrucciones de la Presidencia, dará lectura a las conclusiones contenidas en el dictamen emitido por la Comisión Instructora, sometiéndolo por instrucciones de la Presidencia a discusión y votación, debiéndose resolver el asunto por mayoría calificada del número de los integrantes del congreso.
 
 ###### ARTÍCULO 17.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán llevar a cabo en los términos de la legislación fiscal federal y estatal, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales a cargo de contribuyentes, responsables solidarios, terceros y demás obligados, así como para exigir las garantías constituidas para asegurar el interés fiscal.
+Si la declaración del Congreso del Estado fuere absolutoria, el procedimiento se tendrá por concluido y el servidor público continuará en el ejercicio de su encargo; caso contrario permanecerá en el cargo hasta que se pronuncie en definitiva el jurado de sentencia del Poder Judicial. El Congreso, dentro del término del término (sic) de veinticuatro horas, remitirá la resolución de procedencia junto con las constancias procésales existentes al Tribunal Superior de Justicia del Estado, corriéndole traslado de las mismas al Procurador General de Justicia del Estado para los efectos de su representación social y se designará una comisión de tres diputados para que sostengan la resolución emitida ante el Tribunal superior de Justicia como coadyuvantes del ministerio público.
 
 ###### ARTÍCULO 18.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán aceptar y custodiar las garantías previa calificación de las mismas, que los contribuyentes otorguen para cubrir los créditos fiscales, respecto de los cuales se aplique el Procedimiento Administrativo de Ejecución o sobre los que se autorice su pago diferido o en parcialidades, así como el de autorizar la sustitución de las citadas garantías, cancelarlas, cuando proceda, y llevar a cabo el embargo en la vía administrativa como medio de garantía en términos de las disposiciones fiscales.
+Recibida la acusación por el Tribunal Superior de Justicia del Estado, el presidente del mismo decretará las providencias cautelares que corresponda para garantizar la estancia en la Entidad del servidor público de que se trate hasta en tanto se dicte resolución definitiva y convocará dentro de las veinticuatro horas siguientes al Pleno para el efecto de designar una comisión de tres magistrados, de la cual siempre será integrante el Presidente del Tribunal Superior de Justicia, dicha comisión se encargará de instruir el proceso debiéndose emplazar al acusado y notificar a la Comisión del Congreso y al Procurador General de Justicia del Estado, señalándose un plazo de tres días para que, en caso de existir, ofrezcan pruebas supervenientes, las cuales se recibirán y desahogarán previa su declaración de admisión dentro de los tres días subsiguientes, transcurrido este plazo, las partes tienen cinco días para presentar sus conclusiones y alegatos por escrito.
 
 ###### ARTÍCULO 19.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán practicar embargos precautorios en la forma y términos que proceda conforme a las leyes fiscales, para asegurar el interés fiscal, cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda.
+Concluido el término para alegar, la Comisión designada elaborará dentro de los diez días hábiles siguientes su proyecto de resolución tomando en cuenta las constancias procesales existentes, dicho proyecto, se turnará de inmediato a la Secretaría del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO 20.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán imponer las sanciones que correspondan por infracciones a las disposiciones fiscales o administrativas en materias de su competencia.
+Recibido el Proyecto por la Secretaría del Tribunal Superior de Justicia el Presidente del mismo convocará al Pleno dentro de los cinco días hábiles siguientes para que se constituya en jurado de sentencia, debiendo citar a la Comisión del Congreso del Estado y al Procurador General de Justicia del Estado para que comparezcan a la audiencia, en la que se dictará la sentencia definitiva.
 
 ###### ARTÍCULO 21.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán notificar las multas impuestas por las autoridades administrativas, federales no fiscales, determinar sus correspondientes accesorios y recaudar unos y otros, incluso a través del procedimiento administrativo de ejecución.
+A la hora señalada para la audiencia referida en el artículo anterior el presidente del Tribunal Superior de Justicia del Estado declarará que el Pleno del mismo se ha constituido en jurado de sentencia, procediendo de conformidad con las siguientes normas:
+
+I. La Secretaria dará lectura al proyecto de resolución formulado;
+
+II. Se concederá el uso de la palabra a la Comisión de Diputados, así como al servidor público denunciado o a su representante legal para formular los alegatos o conclusiones; y
+
+III. Acto seguido, se retirará al servidor público, a su representante legal, a la Comisión de Diputados y al Procurador General de Justicia, y continuará el Tribunal Superior de Justicia del Estado en sesión, procediendo a discutir el proyecto y aprobado íntegramente o modificado que sea, por mayoría de votos, se emitirá la sentencia correspondiente.
 
 ###### ARTÍCULO 22.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán notificar en la forma y términos que conforme a las leyes fiscales corresponda, las resoluciones que determinen créditos fiscales, citatorios, requerimientos solicitudes de informes y otros actos administrativos de su competencia.
+Si la resolución es favorable al denunciado, se reintegrará de inmediato a su cargo o investidura con efectos retroactivos por lo que hace a sus sueldos y emolumentos, en caso contrario, se impondrán las sanciones aplicables. La resolución deberá notificarse personalmente a todas las partes dentro del término de veinticuatro horas. Una vez notificada la sentencia definitiva al Congreso del Estado y que esta haya causado ejecutoria, dará cumplimiento a lo en ella resuelto y, en su caso, procederá a ejecutar la sanción o sanciones impuestas al servidor público sentenciado.
 
 ###### ARTÍCULO 23.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación delegadas a la Recaudación de Rentas así como las resoluciones que determinen créditos fiscales, citatorios requerimientos solicitud de informes y otros actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales estatales o federales.
+Cuando de la sentencia definitiva se adviertan elementos que puedan constituir delito, el Pleno del Tribunal Superior de Justicia dará vista a la Procuraduría General de Justicia de dichos actos en particular, con el objeto de que esta inicie las indagatorias correspondientes.
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán dirigir, coordinar, supervisar y evaluar las labores correspondientes a los notificadores y ejecutores adscritos a la Recaudación de Rentas.
+Las declaraciones y resoluciones definitivas del Congreso local y del Tribunal Superior de Justicia del Estado, en los casos de juicio político y declaración de procedencia, son inapelables, y no prejuzgan sobre las responsabilidades Penal, Administrativa o Civil.
 
 ## TÍTULO TERCERO. DE LA RESPONSABILIDAD PENAL
 
@@ -229,39 +273,123 @@ Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán dirigir, coordina
 
 ###### ARTÍCULO 25.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán custodiar y controlar los créditos fiscales de su competencia, así como los fondos, valores y formas valoradas que estén bajo su responsabilidad.
+Para proceder en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Auditor Superior Gubernamental, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura Estatal, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística y los Presidentes Municipales y Síndicos por la comisión de delitos durante el tiempo de su encargo, por la probable responsabilidad penal en que hubieren incurrido, el Congreso del Estado, por mayoría absoluta de los diputados, deberá declarar la procedencia o improcedencia de acuerdo al siguiente procedimiento:
+
+I.- la solicitud será presentada ante la Secretaría del Congreso del Estado, y dentro del término de tres días hábiles siguientes a su presentación deberá ser ratificada, y en la siguiente sesión se dará cuenta al Pleno para su turno correspondiente;
+
+II.- Turnada que sea la solicitud con la documentación que le acompaña, la Junta Política y de Gobierno, procederá a calificar lo siguiente:
+
+a) Si el denunciante cumple con los requisitos establecidos en este ordenamiento;
+
+b) Si el denunciado es considerado como sujeto de formación de causa;
+
+c) Si la conducta atribuida corresponde a la prevista por el artículo 136 de la Constitución Política del Estado Libre y Soberano de Morelos; y
+
+d) Si las pruebas aportadas tienen relación con los hechos denunciados;
+
+III.- Si la denuncia no reúne los requisitos previstos en la fracción anterior, la Junta Política y de Gobierno dentro del término de treinta días hábiles contados a partir de su recepción, emitirá dictamen fundado y motivado mediante el cual declara la improcedencia;
+
+IV.- Si la denuncia reúne los requisitos señalados en la fracción II de este artículo, emitirá en el mismo término señalado en la fracción que antecede, dictamen fundado y motivado en el que declara que la solicitud amerita la incoacción del procedimiento y turnará el expediente a la Comisión de Gobernación y Gran Jurado, que actuará como Comisión instructora del procedimiento;
+
+V.- Una vez radicada la solicitud por la Comisión de Gobernación y Gran Jurado en su carácter de Comisión Instructora se notificará al funcionario de que se trate en los términos previstos por la fracción V del artículo 16 de la presente Ley, y le dará vista por el término de cinco días hábiles para que señale domicilio en la ciudad de Cuernavaca y manifieste lo que en derecho proceda;
+
+VI.- Concluido el plazo previsto por la fracción anterior, la Comisión Instructora procederá a dictaminar la solicitud presentada, conforme a los procedimientos establecidos en la Ley Orgánica y el Reglamento para el Congreso del Estado, además deberá remitir las constancias al Pleno del Congreso;
+
+VII.- La resolución del Pleno será notificada personalmente a la autoridad peticionaria y al funcionario probable responsable;
+
+VIII.- Si la solicitud se declara procedente, el funcionario público quedará suspendido en el ejercicio de su encargo y quedará a disposición de la autoridad común, y
+
+IX.- En caso de improcedencia, la causa quedará suspensa, sin perjuicio de su continuación una vez que el probable responsable haya concluido su encargo. La resolución del Congreso del Estado será inatacable.
+
+El Consejero Jurídico del Poder Ejecutivo, el Oficial Mayor del Poder Ejecutivo, la representación del Poder Ejecutivo, y los servidores públicos no comprendidos en los artículos 136 y 145 de la Constitución local no serán sujetos de juicio político sino sólo de responsabilidad penal y administrativa, la cual se exigirá ante las autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
 ## TÍTULO CUARTO. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-Las Oficinas de Hacienda y/o Recaudaciones de Rentas, deberán llevar y mantener actualizado el Padrón de Contribuyentes y Vehicular, dentro de su circunscripción territorial, así como realizar la verificación de los datos asentados en éstos.
+Los Servidores Públicos en el desempeño de sus funciones, deberán cumplir con sus obligaciones bajo los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.
+
+La responsabilidad administrativa de los Servidores Públicos, tendrá lugar con motivo de las faltas cometidas en el desempeño de sus funciones, lo que podrá ser concomitante con las demás responsabilidades previstas en esta Ley así como en la legislación común.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. Y REUBICADO, ANTES SEGUNDO PÁRRAFO], P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Las demás que las Leyes y reglamentos vigentes en el Estado le atribuyan, así como aquellas que les confiera el Secretario de Finanzas y de Administración, el Subsecretario de Ingresos y el Director de Recaudación.
+Dará origen a responsabilidades administrativas el incumplimiento de las siguientes obligaciones:
 
-TRANSITORIOS (SIC)
+I. Cumplir con diligencia el servicio que tenga encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique el ejercicio indebido de un empleo, cargo o comisión;
 
-###### ARTÍCULO ÚNICO.
+II. Formular y ejecutar, apegándose al principio de legalidad los planes, programas y presupuestos correspondientes a su competencia y cumplir con las Leyes y Reglamentos que determinen las formas de manejo de bienes y recursos económicos de la Federación, del Estado, de los Municipios así como los que provengan de cuotas de recuperación;
 
-El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+III. Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y coadyuvar en la rendición de cuentas de la gestión pública federal, proporcionando la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes;
 
-Dado en la residencia del Poder Ejecutivo del Estado, en la Ciudad de Victoria de Durango, Dgo., a los tres días del mes de septiembre de dos mil tres.
+IV. Utilizar los recursos humanos y materiales, así como las facultades que estén atribuidas y la información a que tenga acceso por su función, exclusivamente para los fines a que estén destinados;
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+V. Custodiar y conservar la documentación e información que por razón de su empleo, cargo o comisión esté a su cuidado o a la cual tenga acceso;
 
-LIC. ÁNGEL SERGIO GUERRERO MIER
+VI. Observar buena conducta, respetar la persona y órdenes de sus superiores jerárquicos y dar buen trato a sus subalternos; asimismo, informar a quien corresponda los casos de incumplimiento en el desempeño del cargo o empleo de los Servidores Públicos de que conozca;
 
-EL SECRETARIO GENERAL DE GOBIERNO
+VII. Abstenerse de autorizar a sus subordinados licencias, permisos, suspensiones o faltas a las labores cuando no tenga facultad para ello o sin justificación;
 
-LIC. JOSÉ MIGUEL CASTRO CARRILLO
+VIII. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley prohíba;
 
-EL SECRETARIO DE FINANZAS Y DE ADMINISTRACIÓN
+IX. Abstenerse de autorizar la selección, contratación, nombramiento o designación de personas que se encuentren inhabilitadas por resolución firme de la autoridad competente para ocupar un empleo o cargo en el servicio público;
 
-LIC. JUAN MANUEL FLORES ÁLVAREZ
+X. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el Servidor Público o las personas antes referidas formen o hayan formado parte;
+
+XI. Presentar ante la autoridad competente, con oportunidad y veracidad la declaración de situación patrimonial en los términos de Ley;
+
+XII. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir por sí o por interpósita persona, dinero u objetos, mediante enajenación a su favor, o en precio notoriamente inferior a aquel al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción IX, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el Servidor Público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+XIII. Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de otras autoridades o de los titulares de las áreas de auditoría;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+XIII-A.- Responder las recomendaciones que le presente el Organismo Protector de los Derechos Humanos, y en el supuesto de que decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la Constitución Federal, la Constitución Local y la Ley de Comisión de Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+XIII-B.- Atender los llamados que a solicitud del Organismo de Protección de los Derechos Humanos, realice el Pleno del Congreso, o en sus recesos de la Diputación Permanente, a comparecer ante dichos Órganos Legislativos, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones del Organismo Protector de los Derechos Humanos, en términos de lo dispuesto por la Constitución Federal, la Constitución Local y la Ley de la Comisión de Derechos Humanos del Estado de Morelos.
+
+XIV. Denunciar por escrito ante la autoridad sancionadora, los actos u omisiones que en ejercicio de sus funciones cometa algún servidor público, que pueda constituir responsabilidad política, administrativa o de cualquier otra naturaleza, en los términos de esta Ley y otros ordenamientos aplicables;
+
+XV. Abstenerse de inhibir por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos o denunciantes, con el fin de evitar la formulación o presentación de quejas o denuncias o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio del interés de quien la formule o presente; y
+
+XVI. Abstenerse de aprovechar la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción X;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XVII. Abstenerse de autorizar para sí o para otro servidor público, una remuneración mayor a la asignada al Presidente de la República en el respectivo Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XVIII. Abstenerse de aprobar, para sí o para algún servidor público el salario o sueldo cuyo monto resulte mayor o igual al sueldo o salario asignado al superior jerárquico de dicho servidor público, excepto en los siguientes casos: cuando el importe sea producto del cumplimiento de las condiciones generales del trabajo que se pacten; o cuando derive de un trabajo técnico calificado o especializado de la función en encomendada, siempre y que en cualquiera de los casos, el monto no exceda la mitad de la remuneración asignada al Presidente de la República de conformidad al Presupuesto de Egresos de la Federación correspondiente;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XIX. Abstenerse de aprobar, para sí o para otro, el pago en numerario o en especie, con el fin de percibir una remuneración mayor a la asignada al Presidente de la República en el Presupuesto de Egresos de la Federación respectivo, utilizando para ello: terceras personas, mecanismos, artificios, conceptos o denominaciones que den la falsa apariencia de ser ajenas a la remuneración o sueldo autorizado;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XX. Abstenerse de aprobar, para sí o para otro, el pago en numerario o en especie, de una remuneración igual o mayor a la asignada al superior jerárquico inmediato en el Presupuesto de Egresos respectivo, utilizando para ello a terceras personas, mecanismos, artificios, conceptos o denominaciones que den la falsa apariencia de ser iguales o menores a la remuneración del inmediato superior.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XXI. Abstenerse de negar la información o documentación que el poder legislativo de Morelos, por conducto de la autoridad competente le requiera para conocer íntegra y detalladamente el monto y la composición de las remuneraciones de los servidores públicos, o bien de cualquier otro elemento que incida en la valoración de la iniciativa del Presupuesto de Egresos y sus reformas o adecuaciones.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XXII. Abstenerse de autorizar jubilaciones, pensiones, haberes de retiro o liquidaciones por servicios prestados, préstamos o créditos, sin que estén previstos en la ley, decreto acuerdo de cabildo, contrato colectivo, condiciones generales de trabajo o el presupuesto de egresos.
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXIII. Cumplir, en tiempo y forma, con aquellas disposiciones transitorias de leyes y decretos, que en virtud de su competencia deba llevar a cabo.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 28.
 
@@ -271,9 +399,11 @@ Se consideran graves las infracciones o violaciones a los deberes establecidos p
 
 La responsabilidad administrativa de los servidores públicos no será objeto de conciliación o convenio por ser de interés social y orden público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 30.
 
-Son partes en el procedimiento administrativo de responsabilidad:
+Intervienen en el procedimiento administrativo de responsabilidad:
 
 I. La autoridad sancionadora; y
 
@@ -856,3 +986,27 @@ Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ej
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 Tercero.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que los originaron, deberán ajustarse por lo que convenga a los servidores públicos implícitos a las nuevas reglas de la prescripción previstas por la legislación vigente hasta su conclusión definitiva.
+
+P.O. 4 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
