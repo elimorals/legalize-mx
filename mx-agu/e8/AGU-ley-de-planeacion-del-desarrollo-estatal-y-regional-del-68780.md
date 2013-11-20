@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-del-desarrollo-estatal-y-regional-del-68780"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-08"
-last_updated: "2012-06-25"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PLANEACIÓN DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de junio de 2009.
 
@@ -391,7 +391,9 @@ Los Programas Operativos Anuales, son instrumentos de planeación de corto plazo
 
 En la elaboración de los Programas Operativos Anuales, la Secretaría de Finanzas del Estado deberá aprobar los recursos aplicables a dichos programas operativos, para que se incorporen en el Presupuesto de Egresos correspondiente al ejercicio fiscal de que se trate en los términos de la ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes.
 
-Los Programas Operativos Anuales, podrán contener en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes, previsiones presupuestales que rebasen el ejercicio presupuestal para aquellos programas y proyectos estratégicos descritos en los diversos planes y programas cuya ejecución deba hacerse en forma plurianual debido a la magnitud o complejidad de los mismos; en este caso, se deberá contar con la previa aprobación del Congreso del Estado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los Programas Operativos Anuales, podrán contener en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Aguascalientes, previsiones presupuestales que rebasen el ejercicio presupuestal en los términos del Artículo 25 del citado ordenamiento debido a la magnitud, complejidad, necesidad o conveniencia de los mismos; tratándose de los compromisos plurianuales contemplados en la Ley de Proyectos de Prestación de Servicios para el Estado de Aguascalientes, se deberá contar con la previa aprobación del Congreso del Estado.
 
 ###### ARTÍCULO 36.
 
@@ -786,3 +788,9 @@ P.O. 25 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
