@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2012-12-15"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -243,21 +243,31 @@ C) A los Comités Regionales, del Comité de Planeación para el Desarrollo del 
 
 ### CAPITULO III. PARTICIPACION SOCIAL EN LA PLANEACION DEMOCRATICA
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 9o.
 
 En el ámbito del Sistema Estatal de Planeación Democrática, tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización, ejecución, control y evaluación del Plan Estatal de Desarrollo y de los Planes Municipales de Desarrollo y los demás programas a que se refiere esta Ley.
+
+Asimismo, tendrá lugar la participación de los pueblos y comunidades indígenas, a fin de que ejerzan su derecho al consentimiento libre, previo e informado.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 10.
 
 En el Sistema Estatal de Planeación Democrática, deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación democrática.
 
+En cuanto a la participación de los pueblos y comunidades indígenas, se considerará el ejercicio al consentimiento libre, previo e informado, con respeto a sus tiempos y de conformidad con lo que establece la ley de Derechos de los Pueblos Indígenas del Estado de Chihuahua y demás ordenamientos aplicables.
+
 ### CAPITULO IV. PLAN ESTATAL DE DESARROLLO Y PROGRAMAS
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 11.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses, contado a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda, aún cuando podrá contener consideraciones y proyecciones de largo plazo.
+El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses, contado a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda, aun cuando podrá contener consideraciones y proyecciones de largo plazo.
 
-El Plan, precisará los objetivos estatales, estrategias y prioridades de desarrollo integral del Estado; determinará los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán, al conjunto de las actividades económicas y sociales; contendrá previsiones, sobre los recursos que serán asignados para el cumplimiento de sus fines, a través del programa operativo analizado y regirá el contenido de los programas que se deriven del Plan.
+El Plan precisará los objetivos estatales, estrategias y prioridades de desarrollo integral del Estado; determinará los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán, al conjunto de las actividades económicas y sociales; contendrá previsiones, sobre los recursos que serán asignados para el cumplimiento de sus fines, a través del programa operativo analizado y regirá el contenido de los programas que se deriven del Plan, y lineamientos generales que fijen acciones para el ejercicio de los derechos de los pueblos y comunidades indígenas, de conformidad con lo establecido en las leyes en la materia.
 
 La categoría de Plan, queda reservada exclusivamente para el Plan Estatal de Desarrollo y para los Planes Municipales.
 
@@ -476,3 +486,9 @@ El presente decreto entrará en vigor, el día siguiente al de su publicación e
 P.O. 15 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
