@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-61579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2013-07-08"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -185,7 +185,9 @@ Las comisiones constituidas por el Pleno, tendrán las funciones y competencias 
 
 Las comisiones legislativas se constituirán en la Sesión Ordinaria siguiente a aquélla en que se instala la Legislatura, tendrán hasta cinco miembros y el cargo de sus integrantes será por el término de la misma.
 
-Cada Diputado podrá participar hasta en cinco comisiones y presidir sólo una de ellas, para estos efectos no se computará la pertenencia a las Comisiones: de Gobierno, de Reglamentos y Prácticas Parlamentarias, de Postulaciones, de Investigación o Jurisdiccionales.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Cada Diputado podrá participar hasta en cinco comisiones, de las cuales presidirá las que le sean encomendadas por el Pleno.
 
 ###### ARTÍCULO 13.
 
@@ -275,6 +277,10 @@ II. Elaborar el orden del día de las sesiones de la comisión, y anexarlo a la 
 
 III. Convocar a las sesiones, presidirlas y conducirlas, tanto en los períodos ordinarios de sesiones del Congreso como durante los recesos;
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Cuando se le turnen iniciativas a la Comisión, se deberá convocar a más tardar en siete días naturales;
+
 IV. Asistir puntualmente a las sesiones de la comisión;
 
 V. Notificar por escrito a la Comisión de Gobierno de:
@@ -308,6 +314,14 @@ XVI. Remitir al Archivo del Poder Legislativo, toda la documentación que a lo l
 XVII. Representar a la comisión en todos los eventos públicos a los cuales tenga que asistir con motivo de sus actividades; y
 
 XVIII. Las demás que le otorgue la Ley y este Reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+El incumplimiento injustificado hasta en dos ocasiones, de alguna de las obligaciones señaladas en el presente Artículo, dará lugar a la remoción del Presidente.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+De configurarse dicho supuesto, cualquier integrante de la Comisión, lo comunicará a la Comisión de Gobierno, aportando los elementos suficientes para que proceda de inmediato a proponer ante el Pleno Legislativo un nuevo Presidente, a efecto de que dicha Comisión cumpla con sus funciones legales.
 
 ###### ARTÍCULO 20.
 
@@ -507,7 +521,9 @@ La convocatoria a sesión de comisión corresponderá a su Presidente, sin embar
 
 I. El Presidente no convoque en los términos legales;
 
-II. A partir de la fecha en que un asunto sea turnado a la comisión, transcurriesen más de quince días naturales sin que su Presidente convoque a sesionar para iniciar el tratamiento del asunto; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. A partir de la fecha en que un asunto sea turnado a la Comisión, transcurriesen más de siete días naturales sin que su Presidente convoque a sesionar para iniciar el tratamiento del asunto; y
 
 III. Al existir asuntos pendientes en la agenda de la comisión, el Presidente omita convocar a sesión en el lapso de un mes.
 
@@ -2062,3 +2078,13 @@ P.O. 8 DE JULIO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir de su aprobación.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado.
