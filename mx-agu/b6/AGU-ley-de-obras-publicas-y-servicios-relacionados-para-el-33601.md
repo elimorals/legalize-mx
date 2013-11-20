@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2010-07-19"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -289,11 +289,11 @@ Los Sujetos de la Ley, cuando sea el caso, previamente a la realización de las 
 
 Asimismo, es recomendable que los Sujetos de la Ley, involucren a los peritos responsables de obra y los peritos corresponsables, desde la realización de los estudios técnicos preliminares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-La programación y ejecución de las obras públicas y los servicios relacionados con las mismas no podrán rebasar un ejercicio presupuestal, salvo que se cuente con autorización de la Secretaría de Finanzas del Estado, la Tesorería Municipal, o su equivalente, según sea el caso, en los términos del Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto Público.
+La programación y ejecución de las obras públicas y los servicios relacionados con las mismas podrán rebasar un ejercicio presupuestal o podrán comenzar en un ejercicio presupuestal diferente al en que fueron contratados, en los términos del Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -303,9 +303,7 @@ El monto total de las obras señaladas en el párrafo anterior no deberá excede
 
 En el caso de aquellas obras públicas o servicios relacionados con las mismas que se contemple que requieran recursos por más de un ejercicio presupuestal, deberá determinarse el presupuesto total de la obra y los presupuestos que correspondan a cada uno de los ejercicios de que se trate. Para los presupuestos de los ejercicios subsecuentes, deberán tomarse en cuenta los costos que en su momento se encuentren vigentes, las medidas previsibles para los ajustes de costos y, en su caso, los convenios de ampliación que aseguren la continuidad y terminación de los trabajos.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
-
-En el caso del párrafo anterior, se pedirá la autorización del Congreso del Estado o del Cabildo Municipal, según corresponda, para que en su caso quede autorizada la afectación de los ejercicios subsecuentes.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -703,11 +701,11 @@ II. En el caso de las bases de la licitación, se difunda por los mismos medios 
 
 Las modificaciones que se tratan en este Artículo, en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 42.
 
-En las licitaciones públicas, la entrega de propuestas se harán por escrito, mediante dos sobres cerrados, debidamente identificados, que contendrán por separado, la propuesta técnica y la propuesta económica.
+En las licitaciones públicas, se entregarán las propuestas por escrito, mediante dos sobres cerrados, debidamente identificados, que contendrán por separado, la propuesta técnica y la propuesta económica; o por sobres generados mediante el uso de tecnologías que resguarden la confidencialidad de la información, de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto se expidan.
 
 ###### Artículo 43.
 
@@ -1567,7 +1565,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ABRIL DE 2005.
 
@@ -1614,3 +1612,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
