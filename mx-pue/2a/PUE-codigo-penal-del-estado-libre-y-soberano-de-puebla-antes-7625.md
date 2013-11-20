@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-09-09"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2057,23 +2057,25 @@ La disposición del artículo 195 de este Código no comprende la correspondenci
 
 #### SECCION PRIMERA.- DELITOS CONTRA EL MEDIO AMBIENTE
 
-(NOTA: EL 5 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 198.
 
-Se aplicará prisión de dos a diez años y multa de treinta a dos mil días de salario, a quien con peligro de la salud pública, ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas aplicables, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
+Se aplicará prisión de dos a diez años y multa de treinta a dos mil días de salario mínimo, a quien ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
 
 I.- Tale, corte, desmonte, destruya árboles, bosques y/o afecte de manera ilícita, recursos forestales, excepto en los casos de aprovechamientos de dichos recursos para uso doméstico, conforme a lo dispuesto en la Ley de Desarrollo Forestal Sustentable del Estado;
 
-II.- Transporte, comercie, acopie, almacene o transforme recursos forestales maderables obtenidos por la tala clandestina en cantidades superiores a tres metros cúbicos rollo o su equivalente;
+II.- Transporte, comercie, acopie, almacene o transforme madera en rollo, astilla, carbón vegetal, así como cualquier recurso forestal maderable en cantidades superiores a tres metros cúbicos rollo o su equivalente;
 
 III.- Expulse o descargue en la atmósfera gases, humos, polvos, líquidos, vapores o partículas sólidas que causen o puedan ocasionar daños graves a la salud pública o al medio ambiente en jurisdicción estatal o municipal;
 
-IV.- Transporte, comercie, almacene, deseche, descargue o realice cualquier actividad empleando residuos sólidos urbanos o de manejo especial, sin la autorización correspondiente y en volúmenes que causen o puedan causar daños graves a la salud pública, al medio ambiente o a los recursos naturales; y
+IV.- Transporte, comercie, almacene, deseche, descargue o realice cualquier actividad empleando residuos sólidos urbanos o de manejo especial, sin la autorización correspondiente y en volúmenes que causen o puedan causar daños graves a la salud pública, al medio ambiente o a los recursos naturales;
 
-V.- Realice obras o actividades sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental o no implemente las medidas preventivas, correctivas o de seguridad, indicadas por la autoridad ambiental, ocasionando daños a la salud pública, al medio ambiente o a los recursos naturales.
+V.- Realice obras o actividades sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental o no implemente las medidas preventivas, correctivas o de seguridad, indicadas por la autoridad ambiental, ocasionando daños a la salud pública, al medio ambiente o a los recursos naturales; y
+
+VI- Introduzca al Estado recursos del medio ambiente a sabiendas de que porten, o padezcan o hayan padecido, alguna enfermedad contagiosa, que ocasione o pueda ocasionar alguna enfermedad al medio ambiente.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
@@ -2143,23 +2145,23 @@ En caso de que alguno de los delitos previstos en esta Sección afecten un área
 
 #### SECCION SEGUNDA.- DELITOS CONTRA LA INFRAESTRUCTURA HIDRAULICA
 
-(NOTA: EL 5 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 198 Nonies.
 
-Se aplicará prisión de uno a diez años y multa de tres a veinte mil días de salario, a quien de manera dolosa o culposa, realice, autorice, consienta, permita u ordene la descarga, el depósito o infiltración de contaminantes, sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, al sistema de alcantarillado o drenaje de las poblaciones, en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas aplicables, que causen o puedan causar daño a la salud pública, al medio ambiente o a los recursos naturales.
+Se aplicará prisión de uno a diez años y multa de tres a veinte mil días de salario mínimo, a quien de manera dolosa o culposa, realice, autorice, consienta, permita u ordene la descarga, el depósito o infiltración de contaminantes, sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, al sistema de alcantarillado o drenaje de las poblaciones, en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, que causen o puedan causar daño a la salud pública, al medio ambiente o a los recursos naturales.
 
-Igual sanción se aplicará si la descarga, el depósito o infiltración, a que se refiere el párrafo anterior, se realiza en ríos, cuencas, vasos o demás depósitos de corrientes de agua.
+Igual sanción se aplicará si la descarga, el depósito o infiltración a que se refiere el párrafo anterior, se realiza en ríos, cuencas, vasos o demás depósitos de corrientes de agua.
 
-(NOTA: EL 5 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 6/2010, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 198 Decies.
 
-Se aplicará prisión de uno a cuatro años y multa de tres a cien días de salario, independientemente del pago de los daños causados, a quien en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas aplicables, cause daño, deterioro, alteración o destrucción en:
+Se aplicará prisión de uno a cuatro años y multa de tres a cien días de salario mínimo, independientemente del pago de los daños causados, a quien en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, cause daño, deterioro, alteración o destrucción en:
 
 I.- Los sistemas de tratamiento de aguas residuales, sulfhídricas o salinas estatales o municipales;
 
@@ -2167,7 +2169,7 @@ II.- Los aparatos de medición de las tomas de agua;
 
 III.- Los tableros de control, pozos, bombas, válvulas, instalaciones o instrumentos de la red de agua potable, alcantarillado y drenaje de jurisdicción estatal o municipal; y
 
-IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
+IV.-· Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
 
 #### SECCION SEGUNDA (SIC).- INCENDIO Y OTROS ESTRAGOS
 
@@ -5916,5 +5918,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE SEPTIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrara en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
