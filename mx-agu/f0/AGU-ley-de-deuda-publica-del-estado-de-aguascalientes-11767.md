@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2011-03-22"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
+LEY DE DEUDA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -41,11 +41,11 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 1o.
 
-Esta Ley es reglamentaria de la fracción IV del artículo 27, en relación con la fracción VIII del artículo 46, ambos de la Constitución Política del Estado de Aguascalientes, y tiene por objeto establecer las bases y requisitos para la contratación, regulación y control de financiamientos y empréstitos que constituyan la Deuda Pública del Estado de Aguascalientes.
+Esta Ley es reglamentaria de la Fracción IV del Artículo 27, en relación con la Fracción VIII del Artículo 46, ambos de la Constitución Política del Estado de Aguascalientes, y tiene por objeto establecer las bases y requisitos para la contratación, regulación y control de financiamientos y empréstitos que constituyan la Deuda Pública del Estado de Aguascalientes, así como el control e inscripción, de los pagos plurianuales por las obligaciones contraídas en los Proyectos de Prestación de Servicios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
@@ -69,17 +69,11 @@ V.- Los fideicomisos en los que el fideicomitente sea alguna de las entidades se
 
 Se entiende por Deuda Pública del Estado los financiamientos o empréstitos contratados con o a través de instituciones del sistema financiero, a cargo de alguna de las Entidades señaladas en el Artículo anterior, así como las que contraiga el Gobierno del Estado o el Gobierno Municipal en el ámbito de su competencia como avalista o deudor solidario de dichos sujetos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
-
-###### Artículo 4°.
-
-Para efectos de esta Ley, no se considerará Deuda Pública las obligaciones pasivas directas de corto plazo que contraigan los sujetos señalados en el Artículo 2° de la presente Ley, para solventar necesidades temporales de liquidez que se amorticen en el mismo ejercicio fiscal, de las cuales no será necesario obtener la autorización de la H. Legislatura y deberán incluirse en la Cuenta Pública.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 4o.
 
-Para efectos de esta Ley, no se considerará Deuda Pública la apertura de líneas de crédito que contraten los sujetos señalados en el Artículo 2º de la presente Ley, así como las obligaciones directas a corto plazo que contraigan para solventar necesidades temporales de liquidez que se amorticen en el mismo ejercicio fiscal, de las cuales no será necesario obtener la autorización de la H. Legislatura y deberán incluirse en la Cuenta Pública.
+Para efectos de esta Ley, no se considerará Deuda Pública las obligaciones pasivas directas de corto plazo que contraigan los sujetos señalados en el Artículo 2° de la presente Ley, para solventar necesidades temporales de liquidez que se amorticen en el mismo ejercicio fiscal, de las cuales no será necesario obtener la autorización de la H. Legislatura y deberán incluirse en la Cuenta Pública. Tampoco serán consideradas como deuda pública las obligaciones contraídas en los Proyectos de Prestación de Servicios.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
@@ -165,9 +159,9 @@ III.- Los Financiamientos se destinarán invariablemente a inversiones públicas
 
 IV.- Los financiamientos deberán ser congruentes con los objetivos y previsiones contenidos en las Leyes de Ingresos, Presupuestos de Egresos, Ley de Coordinación Fiscal Estatal, Ley de Presupuesto, Contabilidad y Gasto Público y programas estatales, municipales e institucionales;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2º;
+V.- En todos los casos se procurará el mantenimiento de un equilibrio financiero, por lo tanto la programación, contratación y pago de los Financiamientos se deberán ajustar a la capacidad de pago de las entidades para asegurar la autosustentabilidad de la Deuda. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago de las entidades de los sujetos de esta Ley señalados en el Artículo 2°; estas entidades no podrán celebrar obligaciones pasivas directas o contingentes, incluyendo las obligaciones de corto plazo, durante los últimos seis meses de las administraciones estatales o municipales en funciones.
 
 VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obtener las condiciones mejores en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia; y
 
@@ -197,17 +191,17 @@ V.- La novación, modificación, reestructuración o conversión de la deuda pú
 
 VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obtener las condiciones mejores en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-VII.- Integrar los documentos necesarios en materia de control interno a fin de que los procedimientos, actos o convenios sean susceptibles de auditoría o revisión por las instancias competentes;
+VIII.- Las destinadas para la ampliación o mejoramiento de los servicios públicos con alta rentabilidad social y/o produzcan de manera directa o indirecta un incremento de los ingresos o, en su caso, una disminución en los gastos de operación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-VIII.- Las destinadas para la ampliación o mejoramiento de los servicios públicos con alta rentabilidad social y/o produzcan de manera directa o indirecta un incremento de los ingresos o, en su caso, una disminución en los gastos de operación; y
+IX.- Los financiamientos que tengan por objeto cubrir, la aportación estatal al fondo de desastres naturales; y
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-IX.- Los financiamientos que tengan por objeto cubrir, la aportación estatal al fondo de desastres naturales.
+X.- La infraestructura o los servicios relacionados con los Proyectos de Prestación de Servicios.
 
 ###### Artículo 10.
 
@@ -529,6 +523,10 @@ En caso de no haberse realizado el pago o interponerse recurso alguno por la ent
 
 Las obligaciones directas o contingentes que contraigan las entidades, invariablemente se inscribirán en el Registro Estatal de Deuda Pública presentando para tal efecto la documentación correspondiente. El Registro de referencia estará a cargo de la Secretaría.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+El Registro incluirá una sección especial para inscribir los contratos de los Proyectos de Prestación de Servicios, así como las obligaciones plurianuales contraídas en dichos contratos, y las garantías otorgadas en su caso. Para tal efecto, las Entidades deberán solicitar la inscripción correspondiente, pudiendo éstas, previa autorización del Congreso, afectar ingresos, participaciones o aportaciones que en ingresos federales les correspondan como garantía de las obligaciones plurianuales contraídas por ellas, en los Proyectos de Prestación de Servicios.
+
 ###### Artículo 34.
 
 En el Registro Estatal de Deuda Pública se anotarán los datos mínimos siguientes:
@@ -546,6 +544,10 @@ V.- Garantías afectadas;
 VI.- Cumplimiento o incumplimiento de las obligaciones contraídas; y
 
 VII.- Cancelación de las inscripciones cuando se acredite el cumplimiento o el pago de los financiamientos que las generen.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Para la inscripción de los contratos de los Proyectos de Prestación de Servicios, se anotarán, en lo que corresponda, los datos mínimos señalados en las Fracciones I, II, III, IV, V y VII de este Artículo.
 
 ###### Artículo 35.
 
@@ -670,6 +672,12 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
 
 P.O. 22 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
