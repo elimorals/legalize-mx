@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2012-12-19"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1861,6 +1861,8 @@ VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, 
 
 ### CAPITULO VI. ASALTO
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 146.
 
 Al que por cualquier medio ilícito ejerza coacción sobre una persona para que haga o deje de hacer algo, se le impondrá de diez a quince años de prisión, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
@@ -1963,7 +1965,15 @@ IV. Al responsable de delito informático se le impondrá una pena de seis meses
 
 ###### ARTICULO 148.
 
-Al que en lugar solitario o desprotegido haga uso de la violencia sobre una o más personas, con el propósito de causarles un mal, obtener un lucro o exigir su asentimiento para cualquier fin, se le sancionará con prisión de uno a cuatro años.
+Al que haga uso de violencia física o moral a una o más personas con el propósito de exigirle su asentimiento para cualquier fin ilícito, en un lugar en que, a cualquier hora del día o de la noche no fuere posible obtener auxilio, se le impondrá de cinco a diez años de prisión y de cincuenta a doscientos días de multa.
+
+La misma sanción a que se refiere el párrafo anterior se aplicará cuando se haga uso de violencia física o moral estando la víctima o víctimas en un vehículo particular o público, independientemente del lugar en que se encuentre.
+
+Si la conducta se comete por dos o más sujetos activos, se aplicará prisión de diez a quince años de prisión y de cien a trescientos días de multa.
+
+Para los efectos del presente artículo, se entiende que el delito se comete aún al encontrarse en un sitio, calle o suburbio de una ciudad, pueblo o cualquier comunidad o en los caminos que comunican a los mismos.
+
+Las sanciones señaladas en el presente artículo se aplicarán independientemente de las que correspondan por la comisión de otros delitos que resulten.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
@@ -4532,3 +4542,13 @@ P.O. 19 DE DICIEMBRE DE 2012.
 PRIMERA.- Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
