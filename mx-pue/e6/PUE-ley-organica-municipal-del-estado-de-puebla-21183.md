@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2012-12-31"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -2471,7 +2471,7 @@ XXV.- Auxiliar y representar, en su caso, al Presidente Municipal ante las insta
 
 XXVI.- Proporcionar al auditor externo que designe el Ayuntamiento la información que requiera;
 
-XXVII.- Cumplir, en el control interno de los recursos públicos que ejerzan las Juntas Auxiliares, con las normas, procedimientos, métodos y sistemas contables y de auditoría que al efecto establezca el Órgano de Fiscalización Superior del Estado; y
+XXVII.- Cumplir, en el control interno de los recursos públicos que ejerzan las Juntas Auxiliares, con las normas, procedimientos, métodos y sistemas contables y de auditoría que el efecto establezca al Órgano de Fiscalización Superior del Estado; y
 
 XXVIII.- Las demás que le confieran esta Ley y disposiciones aplicables.
 
@@ -2671,6 +2671,14 @@ ARTÍCULO 184 BIS.- Los Ayuntamientos, al otorgar cualquier concesión sobre bie
 
 Las autorizaciones, permisos y licencias que otorgue el Ayuntamiento, se ajustarán a lo dispuesto en las leyes y demás disposiciones aplicables, pero siempre guardando los principios de transparencia, honestidad y simplificación.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los Ayuntamientos de las zonas conurbadas o metropolitanas, previa autorización de cuando menos las dos terceras partes de sus integrantes, podrán emitir lineamientos con el objeto de homologar los requisitos que se requieran en cada uno de sus Municipios para el otorgamiento de autorizaciones, permisos, licencias, concesiones, registros, constancias, dictámenes, empadronamientos y demás trámites que soliciten los particulares.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Dichos lineamientos se enviarán al Titular del Poder Ejecutivo Estatal, para su publicación en el Periódico Oficial del Estado. Los Ayuntamientos sólo podrán solicitar los requisitos que se encuentren publicados.
+
 ###### ARTÍCULO 186.
 
 Los Ayuntamientos deberán resolver las solicitudes de permisos, autorizaciones o licencias en un plazo no mayor a noventa días.
@@ -2846,6 +2854,30 @@ IV.- En la declaración del Congreso del Estado en Pleno, se determinarán las c
 ###### ARTÍCULO 203.
 
 Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan y para solucionar conjuntamente problemas que les afecten.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los Ayuntamientos de las zonas conurbadas o metropolitanas, previa autorización de cuando menos las dos terceras partes de sus integrantes, podrán celebrar convenios para emitir reglamentos intermunicipales que normen la prestación de los servicios públicos y el mejor ejercicio de las funciones que les correspondan.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+El reglamento intermunicipal de que se trate, contendrá:
+
+I.- Las autoridades competentes de cada uno de los municipios;
+
+II.- Las atribuciones que ejercerá cada autoridad en su correspondiente jurisdicción territorial;
+
+III.- Los ingresos que se recauden por cada autoridad en su respectiva jurisdicción territorial, formarán parte de las Haciendas Públicas Municipales que correspondan;
+
+IV.- La clasificación de infracciones;
+
+V.- Las sanciones que correspondan; y
+
+VI.- Los demás requisitos que resulten necesarios y que convengan los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Los reglamentos intermunicipales se enviarán al Titular del Poder Ejecutivo Estatal, para su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 204.
 
@@ -3568,3 +3600,9 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
