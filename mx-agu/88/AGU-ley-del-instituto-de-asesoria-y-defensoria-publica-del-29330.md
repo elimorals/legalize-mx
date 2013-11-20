@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2013-11-11"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -75,7 +75,11 @@ VII. Confidencialidad: brindar la seguridad de que la información entre asesore
 
 VIII. Continuidad: procurar la continuidad de la asesoría, representación y defensa, evitando sustituciones innecesarias;
 
-IX. Obligatoriedad: otorgar el servicio de una asesoría, representación, defensa adecuada y patrocinio, una vez que se ha aceptado el cargo, o ha sido designado como abogado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IX. Obligatoriedad: otorgar el servicio de una asesoría, representación, defensa adecuada y patrocinio, una vez que se ha aceptado el cargo, o ha sido designado como abogado, salvo las excepciones procedentes conforme a derecho.
 
 ###### ARTICULO 3°.
 
@@ -91,7 +95,9 @@ II. Brindar asesoría al ofendido y/o víctima de un delito;
 
 III. Asesorar o representar a los particulares en la tramitación de recursos o juicios ante las autoridades administrativas o jurisdiccionales por actos administrativos o fiscales emanados de las autoridades del Estado, de los municipios y de los organismos descentralizados estatales o municipales en funciones de autoridad;
 
-IV. Asesorar o representar a los trabajadores o a sus sindicatos cuando lo soliciten para su defensa; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IV. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
 V. Asesorar o representar a los particulares en la tramitación de negocios, recursos o juicios de materia civil y mercantil.
 
@@ -135,13 +141,35 @@ I. La Junta de Gobierno;
 
 II. La Dirección General;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. La coordinación de los defensores públicos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-IV. La coordinación de los asesores jurídicos; y
+III. La Coordinación de Defensoría Pública;
 
-V. Las unidades administrativas y personal técnico que para el adecuado desempeño de sus funciones se determinen en el presupuesto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. La Coordinación de Asesoría Jurídica;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. La Jefatura de Departamento de la Unidad de Investigaciones, dependiente de la Coordinación de Defensoría Pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VI. La Jefatura de Departamento de la Unidad de Estudios y Capacitación dependiente de la Dirección General del Instituto; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VII. Las unidades administrativas y personal técnico que para el adecuado desempeño de sus funciones se determinen en el presupuesto.
 
 ### CAPITULO II. De la Junta de Gobierno
 
@@ -175,7 +203,9 @@ La Junta de Gobierno tendrá las facultades siguientes:
 
 I. Fijar la política y las acciones relacionadas con la asesoría y la defensoría pública, considerando las opiniones que al respecto se le formulen;
 
-II. Designar al Director General del Instituto de la terna que le presente el Gobernador del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
 III. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los defensores públicos y asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
 
@@ -201,9 +231,13 @@ XIII. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplica
 
 ### CAPITULO III. De la Dirección General
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 9°.
 
-El Director General del Instituto será designado por la Junta de Gobierno y durará tres años en su cargo, pudiendo ser ratificado sólo para otro período.
+El Director General del Instituto será designado por el Gobernador del Estado en los términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
 ###### ARTICULO 10.
 
@@ -225,19 +259,35 @@ El Director General del Instituto tendrá las atribuciones siguientes:
 
 I. Organizar, dirigir, evaluar y controlar los servicios de defensoría pública que preste el Instituto, así como sus unidades administrativas;
 
-II. Dar seguimiento a los asuntos penales que se estén asistiendo a efecto de conocer, entre otras cosas, si los procesados con derecho a libertad caucional están gozando de ese beneficio, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Proponer a la Junta de Gobierno para su aprobación a los coordinadores de asesores y defensores públicos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-IV. Nombrar al demás personal administrativo del Instituto de conformidad a los lineamientos generales de selección, ingreso y contratación aprobados por la Junta de Gobierno;
+II. Dar seguimiento a los asuntos penales que se estén asistiendo a efecto de conocer, entre otras cosas, si los defendidos con derecho a libertad caucional están gozando de ese beneficio, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-V. Conocer y dar inmediato trámite a las quejas que se presenten contra los defensores públicos y asesores jurídicos;
+III. Proponer a la Junta de Gobierno para su aprobación a los Coordinadores de Asesoría Jurídica y de Defensoría Pública;
 
-VI. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores públicos y asesores jurídicos; determinando, si han incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados del Instituto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Nombrar al demás personal administrativo del Instituto de conformidad a los lineamientos generales de selección, ingreso y contratación aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Conocer y dar inmediato trámite a las quejas que se presenten contra el personal del Instituto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VI. Vigilar que se cumplan todas y cada una de las obligaciones impuestas al personal del Instituto;
 
 VII. Proponer a la Junta de Gobierno las políticas que estime convenientes para la mayor eficacia de la defensa de los inculpados;
 
@@ -263,27 +313,83 @@ I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos civiles y p
 
 II. Ser mayor de veinticinco años de edad, al día de su nombramiento;
 
-III. Tener título profesional de abogado o licenciado en derecho legalmente expedido y registrado cuando menos con tres años de antigüedad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+III. Tener título y cédula profesional de abogado o licenciado en derecho legalmente expedidos y registrados cuando menos con tres años de antigüedad;
 
-IV. Contar con experiencia en la materia penal en el caso del coordinador de los defensores públicos, y en las materias administrativa y laboral para el caso del coordinador de los asesores jurídicos, de cuando menos tres años de antigüedad; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Contar con experiencia en las materias de su área, de cuando menos tres años de antigüedad; y
 
 V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 13.
 
-El Coordinador de los Defensores Públicos, tendrá la obligación de coordinar, vigilar, evaluar la actividad de los defensores públicos; planeará y promoverá una constante capacitación de éstos; así como proponer al Director las políticas en materia de defensa penal y de estímulos al personal para que queden integrados al programa anual.
+El Coordinador de Defensoría Pública, tendrá las siguientes obligaciones:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+l. Coordinar, vigilar y evaluar la actividad del personal a su cargo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. Establecer o determinar las necesidades de capacitación de su personal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+III. Proponer al Director General las políticas en materia de defensa penal y de estímulos al personal para que queden integrados al programa anual; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Las demás que sean necesarias para cumplir con los objetivos específicos del área a su cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 14.
 
-El Coordinador de los Asesores Jurídicos tendrá a su cargo coordinar, vigilar, evaluar la actividad de los asesores jurídicos; planeará y promoverá una constante capacitación de éstos; así como propondrá al Director las políticas en materia de defensa administrativa, civil y laboral y de estímulos al personal a su cargo para que queden integrados al programa anual.
+El Coordinador de Asesoría Jurídica, tendrá las siguientes obligaciones:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+I. Coordinar, vigilar y evaluar la actividad del personal a su cargo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. Establecer o determinar las necesidades de capacitación de su personal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+III. Proponer al Director General las políticas en las materias de su competencia y de estímulos al personal para que queden integrados al programa anual; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Las demás que sean necesarias para cumplir con los objetivos específicos del área a su cargo.
 
 ###### ARTICULO 15.
 
@@ -293,7 +399,11 @@ Los servicios del Instituto se prestarán a través de:
 
 I. Defensores públicos, en los asuntos del orden penal local y del Sistema Estatal de Justicia para Adolescentes, desde la investigación hasta la ejecución de las penas o medidas de seguridad; y
 
-II. Asesores jurídicos, en asuntos del orden penal en tratándose de la víctima o el ofendido, en materia administrativa local, civil, mercantil y del trabajo, salvo los expresamente otorgados por la Ley a otras instituciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. Asesores jurídicos, en asuntos del orden penal en (sic) tratándose de la víctima o el ofendido, en materia administrativa local, civil y mercantil, salvo los expresamente otorgados por la Ley a otras instituciones.
 
 ### CAPITULO V. De los Asesores Jurídicos y Defensores Públicos
 
@@ -379,13 +489,13 @@ V. Inducir a sus representados a celebrar acuerdos con la parte contraria, aprov
 
 VI. Incumplir cualquiera de las demás obligaciones que se establecen en las otras normas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 19.
 
-El Director General del instituto, los Coordinadores de Asesores y Defensoría pública, asesores jurídicos y defensores públicos serán considerados servidores públicos de confianza.
+El Director General del Instituto, el Director Administrativo, los Coordinadores y los Jefes de Departamento, serán considerados servidores públicos de confianza.
 
 ### CAPITULO VI. De los Defensores Públicos
 
@@ -411,7 +521,11 @@ II. Solicitar la libertad caucional si procediera, la representación en la tram
 
 III. Entrevistar al defendido para conocer de viva voz la versión personal de los hechos que motivan la investigación en su contra, así como los argumentos y pruebas que le sirvan para tratar de justificar o explicar su intervención en los mismos hechos, con el propósito de que pueda hacerlos valer ante la autoridad del conocimiento;
 
-IV. Asistir jurídicamente al defendido en el momento en que rinda su declaración preparatoria, así como en cualquier otra diligencia que establezca la Ley, y asistirlo previamente y durante cualquier entrevista que pudiera practicársele;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Asistir jurídicamente al defendido en el momento en que rinda su declaración, así como en cualquier otra diligencia que establezca la Ley, y asistirlo previamente y durante cualquier entrevista que pudiera practicársele;
 
 V. Informar al defendido o a sus familiares del trámite legal que deberá desarrollarse en todo el procedimiento para establecer con ellos una comunicación estrecha sobre el particular;
 
@@ -435,7 +549,11 @@ II. Solicitar al juez de la causa la libertad caucional si procediera;
 
 III. Hacer valer los medios que desvirtúen los hechos que puedan constituir delito o la intervención o participación del defendido, en cualquier etapa del procedimiento, ofreciendo los medios de prueba y promoviendo los incidentes, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
 
-IV. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración preparatoria o pretenda ser entrevistado, y hacerle saber sus derechos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración o pretenda ser entrevistado, y hacerle saber sus derechos;
 
 V. Formular las conclusiones o alegatos finales en el momento procesal oportuno;
 
@@ -477,13 +595,17 @@ VII.- Solicitar al Ministerio Público para Adolescentes, el no ejercicio de la 
 
 VIII.- Realizar todos los trámites o gestiones necesarios para una defensa eficaz conforme a lo previsto en la Ley del sistema de Justicia para Adolescentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Las quejas que formulen los defensores públicos, los detenidos o internos de establecimientos de detención o reclusión por falta de atención médica, por tortura, por tratos crueles, inhumanos o degradantes, por golpes y cualquier otra violación a sus derechos humanos que provengan de cualquier servidor público, se denunciarán ante los jueces, el Ministerio Público, a la autoridad que tenga a su cargo los centros de reeducación social y a los organismos protectores de derechos humanos, según corresponda. Esto con el fin de que las autoridades adopten las medidas que pongan fin a tales violaciones, se prevenga su repetición y, en su caso, se sancione a quienes las hubiesen cometido, de conformidad con la legislación aplicable.
+Las quejas que formulen los defensores públicos, los detenidos o internos de establecimientos de detención o reclusión por falta de atención médica, por tortura, por tratos crueles, inhumanos o degradantes, por golpes y cualquier otra violación a sus derechos humanos que provengan de cualquier servidor público, se denunciarán ante los jueces, el Ministerio Público, a la autoridad que tenga a su cargo los centros de reinserción social y a los organismos protectores de derechos humanos, según corresponda. Esto con el fin de que las autoridades adopten las medidas que pongan fin a tales violaciones, se prevenga su repetición y, en su caso, se sancione a quienes las hubiesen cometido, de conformidad con la legislación aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en el Código de Procedimientos Penales del Estado para jueces y magistrados, y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -519,13 +641,9 @@ IV. Los demás que se establezca (sic) la Junta de Gobierno del Instituto.
 
 El servicio de asesoría jurídica comprende:
 
-A.- En materia laboral:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Asesorar o representar a los trabajadores o sus sindicatos en los conflictos laborales en los que sean parte;
-
-II. Interponer los recursos ordinarios y extraordinarios procedentes, para la defensa del trabajador o sindicato; y
-
-III. Proponer a las partes interesadas soluciones amistosas para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas.
+A. (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2013)
 
 B.- En materia administrativa:
 
@@ -585,9 +703,13 @@ VI. Las personas que por cualquier razón social o económica tengan la necesida
 
 VII. En materia civil y mercantil ubicarse dentro de las cuantías que establezca el reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 26.
 
-Para determinar si el solicitante de los servicios de asesoría jurídica reúne los requisitos establecidos para que se le otorgue el servicio, se requerirá un estudio social y económico, elaborado por un trabajador social del Instituto.
+Para determinar si el solicitante de los servicios de asesoría jurídica reúne los requisitos establecidos para que se le otorgue el servicio, se le aplicará un estudio social y económico, elaborado por un Trabajador Social del Instituto.
 
 En los casos de urgencia previstos en las bases generales de organización y funcionamiento, se deberá prestar de inmediato y por única vez, la asesoría jurídica, sin esperar los resultados del estudio socioeconómico.
 
@@ -599,15 +721,37 @@ I. El usuario manifieste de modo claro y expreso que no tiene interés en que se
 
 II. El usuario del servicio incurra dolosamente en falsedad en los datos proporcionados;
 
-III. El usuario o sus dependientes económicos cometan actos de violencia, amenazas o injurias en contra del personal del Instituto; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Desaparezcan las causas socioeconómicas que dieron origen a la prestación del servicio.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+III. El usuario o sus dependientes económicos cometan actos de violencia, amenazas o injurias en contra del personal del Instituto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Desaparezcan las causas socioeconómicas que dieron origen a la prestación del servicio; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. El usuario autorice en el procedimiento judicial correspondiente a un abogado particular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 28.
 
-En caso de retiro, el asesor jurídico correspondiente deberá rendir un informe pormenorizado al Director General del Instituto, en el que se acredite la causa que justifique el retiro del servicio. Se notificará al interesado el informe, concediéndole un plazo de cinco días hábiles para que, por escrito, aporte los elementos que pudieren, a su juicio, desvirtuar el informe.
+En caso de retiro, el asesor jurídico correspondiente deberá rendir un informe pormenorizado al Coordinador de Asesoría Jurídica del Instituto, en el que se acredite la causa que justifique el retiro del servicio, quien le notificará al interesado el informe, concediéndole un plazo de cinco días hábiles para que, por escrito, aporte los elementos que pudieren, a su juicio, desvirtuar el informe.
 
-Una vez presentado el escrito por el interesado o bien, transcurrido el plazo de cinco días, el expediente se remitirá a la unidad interna correspondiente, para que resuelva lo que corresponda, haciéndolo del conocimiento del interesado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Una vez presentado el escrito por el interesado o bien, transcurrido el plazo de cinco días sin que lo haya hecho, el Coordinador formulará el proyecto de resolución que corresponda, mismo que turnará al Director General para que resuelva en definitiva, resolución que el Coordinador notificará al interesado.
 
 En caso de retiro, se concederá al interesado un plazo de 15 días naturales para que el asesor jurídico deje de actuar.
 
@@ -627,17 +771,45 @@ El asesor jurídico expondrá por escrito su excusa a su superior jerárquico, e
 
 ### CAPITULO IX. La Unidad de Investigaciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 29 BIS.- El Instituto contará con una Unidad de Investigaciones, que se integrará por los investigadores, técnicos y peritos, en función permanente, que determine la Junta de Gobierno con base al presupuesto, los cuales prestarán el servicio de recolección de datos de prueba, asesoría técnica y científica que sea necesaria para sustentar el caso y se ejerza efectiva y debidamente los servicios de asesoría y defensoría.
+ARTICULO 29 BIS.- El Instituto contará con una Unidad de Investigaciones, que se integrará por un Jefe de Departamento de la Unidad, investigadores, técnicos y peritos, en función permanente, que determine la Junta de Gobierno con base al presupuesto, los cuales prestarán el servicio de recolección de datos de prueba, asesoría técnica y científica que sea necesaria para sustentar el caso y se ejerzan efectiva y debidamente los servicios de asesoría y defensoría.
 
-La Unidad de Investigación Criminal será coordinada por el titular de la coordinación de defensoría pública, quien controlará y dará seguimiento a las actividades de los investigadores y peritos que presten su servicios y apoyo al defensor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para el cumplimiento de esta función, el Instituto podrá celebrar convenios para la contratación externa y temporal de investigadores y peritos, en los términos de esta ley.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-El personal de esta Unidad estará a disposición de defensas particulares, para aquellos casos en que, previa solicitud y estudio social y económico, los imputados no puedan cubrir honorarios de investigadores o peritos particulares.
+La Unidad de Investigación será coordinada por el Jefe de Departamento de la Unidad de Investigación quién dependerá de la Coordinación de Defensoría Pública, controlará, dará seguimiento y vigilará las actividades de los investigadores, técnicos y peritos que presten su servicio y apoyo al defensor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Las ausencias del Jefe de departamento de la Unidad de Investigación, serán suplidas por el Coordinador de Defensoría Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Para el cumplimiento de esta función, el Instituto podrá celebrar convenios para la contratación externa y temporal de investigadores, técnicos y peritos, quienes no estarán sujetos a régimen laboral en su relación con el Instituto, por lo que serán responsables de daños y perjuicios que causen en términos de la legislación civil del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Para ingresar y permanecer como Investigador, técnico o perito se requiere:
+
+I. Ser ciudadano mexicano en ejercicio de sus derechos políticos y civiles;
+
+II. Contar con título, cédula profesional o documento oficial debidamente registrado que corresponda al área de conocimiento al que pertenezca;
+
+III. Tener como mínimo tres años de experiencia en las materias relacionadas con la prestación de sus servicios;
+
+IV. Aprobar los exámenes de ingreso y oposición correspondientes; y
+
+V. No haber sido condenado por delito doloso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -709,7 +881,11 @@ El Instituto podrá firmar convenios de colaboración y apoyo pericial con Asoci
 
 ARTICULO 30 BIS.- El Instituto tendrá a su cargo la función de contratación de defensoría penal privada con cargo al fondo público. Para contratar defensores privados que apoyen en funciones de consultoría externa y representación en el procedimiento penal, deberán seguirse los lineamientos establecidos por la Junta de Gobierno del Instituto, además de los siguientes:
 
-I. La contratación podrá llevarse a cabo cuando un imputado elija a un defensor privado del registro o lista que cuente el Instituto, siempre y cuando exista saturación de casos asignados a los defensores públicos, y en aquellos casos en que, a consideración de la Dirección General, sea necesaria una representación de alto perfil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+I. La contratación podrá llevarse a cabo cuando un imputado elija a un defensor privado del registro o lista que cuente el Instituto, siempre y cuando exista saturación de casos asignados a los defensores públicos a consideración de la Dirección General.
 
 II. El registro o lista de defensores privados se integrará con aquellos defensores particulares que participen en la convocatoria anual emitida por la Junta de Gobierno del Instituto, que establezca los requisitos que estime necesarios para el ingreso, además de que comprueben su especialización en Sistema de Justicia Penal Acusatorio mediante documentos idóneos a juicio de la Junta de Gobierno del Instituto, aprueben la evaluación de ingreso que aplique el Instituto, y firmen carta compromiso de aceptación de los honorarios que el Instituto fije como pago en cada caso asignado, acorde a las necesidades del servicio y el presupuesto asignado;
 
@@ -717,25 +893,53 @@ III. En caso de que los defensores particulares, demuestren su especialización,
 
 IV En caso de que los defensores particulares firmen la carta compromiso de aceptación, pero se nieguen a representar a un imputado cuya defensa le sea asignada, sin causa justificada, serán dados de baja de la lista de defensores particulares, y no podrá participar en la convocatoria de ingreso ni ingresar a la lista en un término de tres años;
 
-V. Todos aquellos defensores particulares que ingresen a la lista, deberán presentar y aprobar una evaluación anual, que aplicará el Instituto, y presentar todos los documentos o que ésta le solicite, para corroborar su especialización y capacitación continua en materia penal, y mantenerse en la lista de defensores. Los defensores particulares que no aprueben la evaluación, serán dados de baja de la lista de defensores particulares y no podrá participar en la convocatoria inmediata siguiente; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Todos aquellos defensores particulares que ingresen a la lista, deberán presentar y aprobar una evaluación anual, que aplicará el Instituto, y presentar todos los documentos que ésta le solicite, para corroborar su especialización y capacitación continua en materia penal, y mantenerse en la lista de defensores. Los defensores particulares que no aprueben la evaluación, serán dados de baja de la lista de defensores particulares y no podrá participar en la convocatoria inmediata siguiente; y
 
 VI. Los defensores particulares contratados por el Instituto, podrán hacer donación a éste de una parte de los honorarios que les corresponda percibir por su actuación profesional. Dichas donaciones serán deducibles de impuestos en los términos que establezcan las disposiciones fiscales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 31.
 
-Para promover la participación de estudiantes de la Licenciatura de Derecho, en las universidades públicas y privadas en los servicios de asesoría y defensoría pública, el Instituto podrá celebrar convenios con éstas, para que aquéllos puedan prestar su servicio social, de conformidad con los requisitos que al efecto establezcan las bases generales de organización y funcionamiento.
+Para promover la participación de estudiantes de las universidades públicas y privadas tanto en los servicios de asesoría y defensoría pública, como en el resto de las actividades que desarrolla el Instituto, mismo que podrá celebrar convenios con éstas, para que aquéllos puedan prestar su servicio social y prácticas profesionales, de conformidad con los requisitos que al efecto establezcan las bases generales de organización y funcionamiento.
 
-Los servicios que se realicen por prestadores de servicio social en todo momento estarán supervisados por un defensor público o asesor jurídico.
+Los estudiantes en todo momento estarán supervisados por el servidor público que para el efecto designe la Dirección General.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MARZO DE 2013)</small>
 
 ### CAPITULO XI. De la Unidad de Capacitación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-ARTICULO 31 BIS.- El Instituto contará con una Unidad de Estudios y Capacitación, dependiente de la Dirección General, que ejecutará programas de estudio y capacitación de asesores y defensores; realizará investigaciones jurídicas de apoyo; desarrollará publicaciones jurídicas cuando sea procedente; brindará asesoría y apoyo a las demás áreas y a los asesores y defensores públicos sobre estrategias de litigación; desarrollará estudios legislativos y jurisprudenciales, y creará y actualizará un sistema de documentación para lograr una eficiente labor de asesoría y defensoría.
+ARTICULO 31 BIS.- El Instituto contará con una Unidad de Estudios y Capacitación, que estará a cargo del Jefe de Departamento de la Unidad de Estudios y Capacitación dependiente de la Dirección General, que planeará, propondrá y ejecutará programas de estudio y capacitación de asesores, defensores públicos y demás personal de la institución; realizará investigaciones jurídicas de apoyo; desarrollará publicaciones jurídicas cuando sea procedente; desarrollará estudios legislativos y jurisprudenciales, y creará y actualizará un sistema de documentación para lograr una eficiente labor de asesoría y defensoría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+El Jefe de Departamento de la Unidad de Estudios y Capacitación deberá reunir los requisitos exigidos a los Coordinadores de Asesoría y Defensoría Pública, previstos en el artículo 12 del presente ordenamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO Y SUS FRACCIONES, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Para el mejor desempeño del personal del Instituto se elaborará un plan anual de capacitación y estímulo, de acuerdo con los criterios siguientes:
+
+I. Se recogerán las orientaciones que proporcione la Junta de Gobierno del Instituto;
+
+II. Se concederá amplia participación a los defensores públicos y asesores jurídicos en la formulación, aplicación y evaluación de los resultados del plan;
+
+III. Se procurará extender la capacitación a los trabajadores sociales y peritos, en lo que corresponda y para interrelacionar a todos los profesionales del Instituto y optimizar su preparación y el servicio que prestan; y
+
+IV. Se preverán estímulos económicos para el personal cuyo desempeño lo amerite.
 
 ## TITULO TERCERO. DEL PATRIMONIO DEL INSTITUTO
 
@@ -767,23 +971,57 @@ El ejercicio de los recursos del Instituto se ajustará siempre a los criterios 
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 35.
 
-El Instituto contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Contraloría del Estado.
+El Instituto contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de Fiscalización y Rendición de Cuentas del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 36.
 
-El Comisario del Instituto tendrá las siguientes facultades: Inspeccionar y evaluar el ejercicio del gasto del Instituto y su congruencia con el presupuesto de egresos;
+El Comisario del Instituto tendrá las siguientes facultades:
 
-I. Vigilar y supervisar el cumplimiento de las normas de control y de evaluación de su competencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Establecer y dictar las bases generales para la realización de auditorías e inspecciones;
+(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ANTERIOR, SE APRECIA LA EXISTENCIA DEL NUMERAL DE ESTA ESTA FRACCIÓN
 
-III. Inspeccionar y vigilar directamente o a través de los órganos de control interno el cumplimiento de las normas y disposiciones en materia del sistema de registros y contabilidad, ingresos propios, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales;
+I. Inspeccionar y evaluar el ejercicio del gasto del Instituto y su congruencia con el presupuesto de egresos;
 
-IV. Vigilar y fiscalizar que los recursos estatales se ejerzan y se apliquen conforme a lo estipulado en la Ley; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Las demás que establece esta Ley, el estatuto y demás disposiciones legales.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. Vigilar y supervisar el cumplimiento de las normas de control y de evaluación de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+III. Establecer y dictar las bases generales para la realización de auditorías e inspecciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Inspeccionar y vigilar directamente o a través de los órganos de control interno el cumplimiento de las normas y disposiciones en materia del sistema de registros y contabilidad, ingresos propios, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+V. Vigilar y fiscalizar que los recursos estatales se ejerzan y se apliquen conforme a lo estipulado en la Ley; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN V, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VI.
+
+VI. Las demás que establece esta Ley, el estatuto y demás disposiciones legales.
 
 ## TITULO QUINTO. REGIMEN LABORAL
 
@@ -797,17 +1035,11 @@ El personal del Instituto se regirá por las disposiciones del Estatuto de los T
 
 El personal del Instituto estará incorporado en los términos de la Ley de Seguridad y Servicios Sociales para los Trabajadores Públicos del Estado de Aguascalientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 39.
 
-Para el mejor desempeño del personal del Instituto se elaborará un plan anual de capacitación y estímulo, de acuerdo con los criterios siguientes:
-
-I. Se recogerán las orientaciones que proporcione la Junta de Gobierno del Instituto;
-
-II. Se concederá amplia participación a los defensores públicos y asesores jurídicos en la formulación, aplicación y evaluación de los resultados del plan;
-
-III. Se procurará extender la capacitación a los trabajadores sociales y peritos, en lo que corresponda y para interrelacionar a todos los profesionales del Instituto y optimizar su preparación y el servicio que prestan; y
-
-IV. Se preverán estímulos económicos para el personal cuyo desempeño lo amerite.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 40.
 
@@ -1030,3 +1262,13 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia conforme a las reglas contenidas en los Artículos Primero y Segundo Transitorios del Decreto Número 327, que reformó la Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de fecha 25 de marzo de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Artículos 5°, Fracciones V a la X; 29 BIS y 31 BIS del presente Decreto, que hacen referencia a incremento de personal, se irán incorporando de manera gradual, según lo permita el presupuesto que sea asignado por el Congreso del Estado en términos del Artículo Tercero Transitorio del Decreto Número 327 que reformó la Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de fecha 25 de marzo de 2013.
