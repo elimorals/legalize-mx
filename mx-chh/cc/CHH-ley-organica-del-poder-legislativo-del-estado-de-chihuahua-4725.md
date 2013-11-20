@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2013-10-23"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -405,7 +405,7 @@ Antes de clausurado el Primer Período Ordinario de Sesiones del Primer Año de 
 
 ### CAPITULO II. DEL PRESIDENTE
 
-((F. DE E., P.O. 22 DE JULIO DE 1995)
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
 ###### Art. 30.
 
@@ -907,9 +907,37 @@ XIX. De Salud;
 
 XX. De Economía;
 
-XXI. De Juventud y Deporte, y
+XXI. De Juventud y Deporte, y (sic)
 
 XXII. De Equidad, Género y Familia.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XXIII. COMISIÓN DE ENERGÍA
+
+PRESIDENTE: DIP. CÉSAR AUGUSTO PACHECO HERNÁNDEZ
+
+SECRETARIO: DIP. PEDRO ADALBERTO VILLALOBOS FRAGOSO
+
+VOCAL: DIP. ELISEO COMPEÁN FERNÁNDEZ
+
+VOCAL: DIP. MARÍA EUGENIA CAMPOS GALVÁN
+
+VOCAL: DIP. MARÍA ELVIRA GONZÁLEZ ANCHONDO
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XXIV. COMISIÓN DE PROTECCIÓN CIVIL
+
+PRESIDENTE: DIP. FRANCISCO CARO VELO
+
+SECRETARIA: DIP. ÁGUEDA TORRES VARELA
+
+VOCAL: DIP. ELISEO COMPEÁN FERNÁNDEZ
+
+VOCAL: DIP. MARÍA ÁVILA SERNA
+
+VOCAL: DIP. LUIS JAVIER MENDOZA VALDEZ
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
@@ -2364,3 +2392,9 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que respecta a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación, sin perjuicio de su posterior publicación en el Periódico Oficial del Estado.
