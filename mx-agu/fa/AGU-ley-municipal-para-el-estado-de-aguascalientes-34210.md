@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2010-10-11"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -333,7 +333,7 @@ El procedimiento que seguirá el Congreso del Estado, se estará a lo dispuesto 
 
 ### CAPITULO TERCERO. Facultades y Obligaciones de los Ayuntamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 36.
 
@@ -347,9 +347,9 @@ III. Presentar ante el Congreso del Estado las iniciativas de Ley, en asuntos de
 
 IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de octubre de cada año, el proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios de sus respectivos municipios, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al Ayuntamiento para que subsane su omisión;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles. La resolución que autorice el aumento del salario de sus integrantes, no podrá tener efecto sino después de concluido el periodo constitucional correspondiente;
+V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles, así como las partidas plurianuales, con cargo a las cuales se harán los pagos plurianuales por las obligaciones contraídas en los Proyectos de Prestación de Servicios previamente autorizados por el Congreso. La resolución que autorice el aumento del salario de sus integrantes, no podrá tener efecto sino después de concluido el período constitucional correspondiente;
 
 VI. Vigilar la administración de sus respectivas haciendas, cuidando que se observe puntualmente lo que disponen las leyes de ingresos y los presupuestos de egresos y practicar mensualmente, por conducto de su Comisión de Hacienda, el arqueo de sus fondos;
 
@@ -825,9 +825,21 @@ IV.- Donar bienes inmuebles propiedad del Municipio;
 
 V.- Coordinarse o asociarse con municipios del Estado o de otras Entidades Federativas, para la prestación de servicios públicos o el mejor ejercicio de las funciones que le corresponden;
 
-VI.- Celebrar convenios, coordinarse o asociarse con el Estado o la Federación, para la prestación de servicios públicos, o cuando el Gobierno Estatal asuma una función o servicio que originalmente corresponda al Municipio; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-VII. Contratar créditos cuando los plazos de amortización rebasen el término constitucional de la gestión municipal.
+VI. Celebrar convenios, coordinarse o asociarse con el Estado o la Federación, para la prestación de servicios públicos, o cuando el Gobierno Estatal asuma una función o servicio que originalmente corresponda al Municipio;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VII. Contratar créditos cuando los plazos de amortización rebasen el término constitucional de la gestión municipal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+En todos los casos durante los últimos seis meses de la administración municipal, los Ayuntamientos no podrán contratar créditos, así como contraer obligaciones de pago que trasciendan la administración municipal; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Aprobar los Proyectos de Prestación de Servicios, las partidas plurianuales a incluirse en el Presupuesto de Egresos, con cargo a las cuales se harán los pagos plurianuales, así como las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas en dichos Proyectos, de conformidad con la ley de la materia.
 
 ###### Artículo 61.
 
@@ -967,7 +979,11 @@ Los conflictos que se presenten con motivo de la aplicación de los convenios qu
 
 ### CAPITULO PRIMERO. De los Servicios y Funciones Públicas Municipales
 
-Artículo 74 (SIC).- Los municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 74 Bis.
+
+Los municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
 
 I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
@@ -981,9 +997,21 @@ V. Panteones;
 
 VI. Rastro;
 
-VII. Calles, parques, jardines y su equipamiento; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-VIII. Unidades deportivas y de promoción cultural de su competencia.
+VII. Calles, parques, jardines y su equipamiento;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IX. Unidades deportivas y de promoción cultural de su competencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+X. Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de cada Municipio, así como su capacidad administrativa y financiera.
 
 ###### Artículo 75.
 
@@ -1001,6 +1029,10 @@ Los servicios públicos prestados directa o indirectamente por el Ayuntamiento, 
 
 La prestación de los servicios públicos deberá realizarse por los ayuntamientos, sus unidades administrativas u organismos auxiliares, para lo cual el Ayuntamiento podrá coordinarse con el Estado o con otros municipios para la eficacia de los mismos.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Conforme al Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y Artículo 69 de la Constitución Política del Estado de Aguascalientes, cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. En estos supuestos, el Estado no podrá concesionar o contratar el servicio con particulares salvo que se cuente con el consentimiento del Municipio de que se trate, caso en el cual el Municipio deberá respetar el plazo, términos y condiciones del contrato o concesión que otorgada por el Estado. El Estado otorgará las concesiones y celebrará los contratos de prestación de servicios por conducto del titular del Poder Ejecutivo o en su caso, por el titular de la entidad paraestatal que corresponda.
+
 ###### Artículo 78.
 
 Los municipios, podrán celebrar los convenios a que se refieren las fracciones III del artículo 115 y VII del artículo 116, ambos de la Constitución Federal, con base y previo cumplimiento de los requisitos siguientes:
@@ -1017,11 +1049,15 @@ d) De rechazar el convenio propuesto, no podrá ser presentado ante el Cabildo, 
 
 e) De ser aprobado el convenio propuesto, en la misma sesión se nombrará dentro de las comisiones que intervengan, una comisión de vigilancia, misma que tendrá a su cargo la obligación de dar seguimiento a su ejecución, así como rendir un informe trimestral al Ayuntamiento sobre el funcionamiento de los servicios o funciones objeto del acuerdo. La comisión de vigilancia que para cada convenio sea formada, deberá ser plural e imparcial;
 
-f) En todo convenio que celebren los ayuntamientos deberá establecerse en forma clara las causas de terminación, rescisión o suspensión del mismo, así como las formas de operar de éstas, para conocimiento de todos los interesados; entre dichas causas, además de las naturales, deberá establecerse el resultado del informe que trimestralmente rinda la comisión de vigilancia;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+f) En todo convenio que celebren los ayuntamientos deberá establecerse en forma clara el plazo de vigencia, las causas de terminación, rescisión o suspensión del mismo, así como las formas de operar de éstas;
 
 g) Los convenios que se celebren entre dos o más municipios de distintos estados, deberán contar con la aprobación de las dos terceras partes tanto de los integrantes del Ayuntamiento como del Congreso del Estado;
 
-h) Los ayuntamientos podrán celebrar con el Ejecutivo del Estado, convenios para la prestación temporal por parte de éste de los servicios públicos o funciones a cargo del municipio, o bien para que se ejerzan coordinadamente por ambos, a solicitud del Ayuntamiento y que previamente se hayan reunido los requisitos del presente artículo; e
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+h) Los ayuntamientos podrán celebrar con el Ejecutivo del Estado, convenios para la prestación temporal por parte de éste de los servicios públicos o funciones a cargo del municipio, o bien para que se ejerzan coordinadamente por ambos, a solicitud del Ayuntamiento y que previamente se hayan reunido los requisitos del presente Artículo. El Estado podrá desarrollar dichos servicios de forma directa o través (sic) del organismo estatal que corresponda, o mediante el otorgamiento de concesiones o celebración de contratos con el sector privado, cuando así lo haya autorizado el Ayuntamiento. En dicho supuesto, el plazo durante el cual el Estado se hará cargo de los servicios públicos correspondientes, será el que se establezca en el convenio respectivo. En todo caso el municipio deberá respetar los plazos, términos y condiciones de los contratos y concesiones que el Estado otorgue a particulares con el consentimiento del propio municipio; y
 
 i) Bajo ninguna circunstancia los ayuntamientos renunciarán a sus obligaciones o facultades y sólo podrán delegar las funciones y servicios que actual y directamente estén prestando, a través de la celebración de los convenios que se prevén en el presente artículo.
 
@@ -1037,9 +1073,11 @@ d) Cuando el municipio tenga una incapacidad real para la ejecución o continuac
 
 ### CAPITULO SEGUNDO. Areas Estratégicas
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 79.
 
-Las funciones y servicios públicos que tiendan a satisfacer necesidades colectivas básicas o fundamentales para la población serán consideradas como áreas estratégicas y, deberán ser prestadas de manera directa por los municipios.
+Las funciones y servicios públicos que tiendan a satisfacer necesidades colectivas básicas o fundamentales para la población serán consideradas como áreas estratégicas y, deberán ser prestadas de manera directa por los municipios, salvo por lo señalado en el Artículo 77, segundo párrafo, y demás disposiciones aplicables de esta Ley.
 
 Se consideran como áreas estratégicas las funciones y servicios públicos siguientes:
 
@@ -1047,7 +1085,7 @@ I. Seguridad pública, en los términos del artículo 21 de la Constitución Gen
 
 II. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-Para el caso de que se concesione este último, se tendrá que obtener la aprobación de las dos terceras partes de los integrantes del Congreso del Estado.
+Para el caso de que se concesione este último, ya sea por un Municipio o por el Estado o sus entidades paraestatales en el caso señalado en el Artículo 77, segundo párrafo, de esta Ley, se tendrá que obtener la aprobación de las dos terceras partes de los integrantes del Congreso del Estado.
 
 ###### Artículo 80.
 
@@ -1737,13 +1775,17 @@ El cargo de Presidente del Comité Municipal para el Desarrollo Integral de la F
 
 ### CAPITULO SEPTIMO. De las Concesiones
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 147.
 
-La concesión es el acto administrativo del Ayuntamiento, por el cual se faculta a una persona física o moral para realizar la prestación de un servicio público o el uso, aprovechamiento o explotación de bienes propiedad del municipio.
+La concesión es el acto administrativo del Ayuntamiento o del Estado o sus entidades paraestatales, en los términos del segundo párrafo del Artículo 77 de esta Ley, por el cual se faculta a una persona física o moral para realizar la prestación de un servicio público o el uso, aprovechamiento o explotación de bienes propiedad del municipio.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 148.
 
-Cuando los servicios públicos municipales sean concesionados a particulares, se sujetarán a lo establecido por esta Ley, las condiciones de la concesión y demás normas aplicables.
+Cuando los servicios públicos municipales sean concesionados a particulares, se sujetarán a lo establecido por la ley especial que en su caso regule el servicio público de que se trate, las bases y obligaciones que se fijen al concesionario en el propio título de la concesión, las normas municipales aplicables, esta Ley y de manera supletoria, al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo para el Estado de Aguascalientes y demás normas aplicables.
 
 ###### Artículo 149.
 
@@ -1767,19 +1809,21 @@ II. Determinación del Ayuntamiento sobre la conveniencia social de que lo prest
 
 III. Convocatoria pública en la que se establezcan las bases y condiciones así como los plazos para su otorgamiento;
 
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE 6 INCISOS.
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 IV. Las condiciones y bases deberán, cuando menos, cubrir los requisitos siguientes:
 
-a) Régimen jurídico al que estarán sujetas, su término, las causas de caducidad y revocación y las formas de fiscalizar la prestación del servicio;
+a) Marco jurídico al que estarán sujetas, plazo de la concesión, las causas de caducidad y revocación y las formas de supervisar la prestación del servicio;
 
 b) Demostrar capacidad financiera que garantice una eficaz prestación del servicio;
 
-c) Los procedimientos de fiscalización financiera del Ayuntamiento al concesionario para evitar que se constituyan gravámenes que afecten la eficaz prestación del servicio;
+c) Los procedimientos de supervisión financiera de la autoridad concedente, al concesionario para evitar que se constituyan gravámenes que afecten la eficaz prestación del servicio;
 
-d) Las condiciones bajo las cuales se garanticen la generalidad, continuidad, regularidad y suficiencia del servicio;
+d) Las formas y condiciones en que se deberán otorgar las garantías para que la prestación del servicio se dé en los términos de Ley y de la concesión; y
 
-e) Las formas y condiciones en que se deberán otorgar las garantías para que la prestación del servicio se dé en los términos de Ley y de la concesión; y
-
-f) El procedimiento para resolver las demandas por afectación de derechos como consecuencia del otorgamiento de la concesión.
+e) El procedimiento para resolver las demandas por afectación de derechos como consecuencia del otorgamiento de la concesión.
 
 ###### Artículo 151.
 
@@ -1795,9 +1839,15 @@ IV. Cuando el concesionario pierda capacidad o carezca de los elementos financie
 
 V. Cuando el concesionario contravenga las normas legales aplicables a la concesión.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+En todo caso, para resolver sobre la revocación de una concesión, deberá tomarse en cuenta la gravedad y reiteración del incumplimiento incurrido por el concesionario.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 152.
 
-La concesión podrá ser prorrogada, por un período igual al otorgado a la concesión, si antes del vencimiento de la misma, el concesionario lo solicita al Ayuntamiento. Para que éste lo acuerde positivamente deben prevalecer las causas de imposibilidad señaladas en el Artículo 150 fracción I de esta Ley, y además que el interesado acredite la eficiente prestación del servicio concesionado y obtenga la autorización del Congreso del Estado. En todo caso, el concesionario tendrá la obligación de renovar o mantener en buenas condiciones el equipo e instalaciones afectas a la prestación del servicio público.
+La concesión podrá ser prorrogada en una o varias ocasiones, hasta alcanzar un período igual al otorgado a la concesión, si antes del vencimiento de la misma, el concesionario lo solicita a la autoridad concedente. Para que éste lo acuerde positivamente deben prevalecer las causas de imposibilidad señaladas en el Artículo 150, Fracción I de esta Ley, y además que el interesado obtenga la autorización del Congreso del Estado. En todo caso, el concesionario tendrá la obligación de renovar o mantener en buenas condiciones el equipo e instalaciones afectas a la prestación del servicio público.
 
 ###### Artículo 153.
 
@@ -1819,9 +1869,11 @@ En los casos en que se acuerde la revocación de las concesiones, los bienes con
 
 Las formalidades del procedimiento señalado en el artículo 150 de esta Ley, serán aplicables para la revocación de concesiones.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 156.
 
-El Ayuntamiento podrá municipalizar los servicios públicos, a fin de prestar directamente o conjuntamente con los particulares.
+El Ayuntamiento podrá municipalizar los servicios públicos, a fin de prestar directamente o conjuntamente con los particulares, sujetándose en su caso, a lo pactado en los convenios suscritos con el Estado o sus entidades paraestatales o con otros Municipios al amparo del Artículo 69, último párrafo de la Constitución Política del Estado de Aguascalientes, y respetando en todo caso los contratos y concesiones otorgadas por el Estado con el consentimiento del Municipio en el supuesto descrito en el Artículo 77, segundo párrafo, de esta ley.
 
 ###### Artículo 157.
 
@@ -2039,7 +2091,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JUNIO DE 2005.
 
@@ -2108,3 +2160,19 @@ P.O. 11 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 388, POR EL QUE SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 36; LAS FRACCIONES VI, VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 60 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 431, POR EL QUE SE REFORMA EL ARTÍCULO 74 UBICADO EN EL TÍTULO QUINTO, CAPÍTULO PRIMERO "DE LOS SERVICIOS Y FUNCIONES PÚBLICAS MUNICIPALES", PARA QUEDAR COMO ARTÍCULO 74 BIS; SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 77; SE REFORMAN LOS INCISOS F) Y H) DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 78; SE REFORMA EL ARTÍCULO 79; LOS ARTÍCULOS 147 Y 148; LA FRACCIÓN IV DEL ARTÍCULO 150; SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 151; SE REFORMAN LOS ARTÍCULOS 152 Y 156 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
