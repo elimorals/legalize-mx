@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-firma-electronica-del-estado-libre-y-soberano-de-77368"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2010-11-17"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE FIRMA ELECTRONICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-LEY DE FIRMA ELECTRONICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY DE FIRMA ELECTRÓNICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de noviembre de 2010.
 
@@ -55,7 +55,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Certificado Electrónico: El documento firmado electrónicamente por un prestador de servicios de certificación que vincula los datos de firma a su autor y confirma su identidad;
 
-II. Secretaría: A la Secretaría de Gestión e Innovación Gubernamental;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+II. Secretaría: A la Secretaría de Administración.
 
 III. Datos de creación de firma electrónica: Los datos únicos, las claves o llaves criptográficas privadas, que el titular obtiene del prestador de servicios de certificación y se utilizan para crear la firma electrónica;
 
@@ -79,7 +81,9 @@ XII. Prestador de Servicios de Certificación: Las autoridades certificadoras de
 
 XIII. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privados y servidores públicos que posean un certificado electrónico con validez jurídica;
 
-XIV. Unidad de Firma Electrónica: La Unidad administrativa adscrita a los entes públicos, responsable de ejercer las atribuciones establecidas en el artículo 4 de esta Ley. En el caso de la Administración Pública del Estado de Morelos estará adscrita a la Secretaría de Gestión e Innovación Gubernamental, con la coadyuvancia de la Comisión Estatal de Mejora Regulatoria.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Unidad de Firma Electrónica: La Unidad Administrativa adscrita a los entes públicos, responsable de ejercer las atribuciones establecidas en el artículo 4 de esta Ley. En el caso de la Administración Pública del Estado de Morelos estará adscrita a la Secretaría de Administración, con la coadyuvancia de la Comisión Estatal de Mejora Regulatoria.
 
 ###### ARTÍCULO 3.
 
@@ -99,9 +103,11 @@ IV.- Formular los requisitos específicos, directrices y lineamientos para la im
 
 V.- Las que establezcan esta ley y demás ordenamientos jurídicos y administrativos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde a la Secretaría de Desarrollo Económico del Gobierno del Estado:
+Corresponde a la Secretaría de Economía del Gobierno del Estado:
 
 I.- Promover y difundir la utilización generalizada de la firma electrónica dentro de los procesos de negocios de las empresas establecidas en el Estado de Morelos;
 
@@ -113,9 +119,11 @@ IV.- Asesorar a los Entes Públicos para el funcionamiento de los programas que 
 
 V.- Realizar una campaña de difusión masiva a través de medios de comunicación, que permita posicionar los beneficios y alcances de la firma electrónica, organizando para ello talleres de capacitación en las distintas regiones del Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-Corresponde a la Secretaría de Gestión e Innovación Gubernamental emitir las disposiciones normativas para la incorporación de la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Estado de Morelos, dando prioridad a los procesos internos y a los que se refieran a la atención de trámites y solicitudes de servicios que tengan mayor impacto entre la ciudadanía.
+Corresponde a la Secretaría de Administración, emitir las disposiciones normativas para la incorporación de la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Estado de Morelos, dando prioridad a los procesos internos y a los que se refieran a la atención de trámites y solicitudes de servicios que tengan mayor impacto entre la ciudadanía.
 
 Teniendo la obligación de llevar a cabo toda la capacitación necesaria de manera permanente a todos los servidores públicos a fin de fortalecer el uso de la firma electrónica.
 
@@ -470,3 +478,15 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
