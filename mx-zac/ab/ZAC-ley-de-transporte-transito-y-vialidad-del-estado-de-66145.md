@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-66145"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2011-07-13"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE TRANSPORTE, TRANSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-LEY DE TRANSPORTE, TRANSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
+LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 20 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -1716,3 +1718,17 @@ P.O. 13 DE JULIO DE 2011.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas, publicada en el Suplemento número 5 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día 17 de enero del 2009 y se derogan todas aquellas disposiciones que contravengan esta Ley.
+
+TERCERO.- Dentro del término de ciento veinte días naturales contados a partir del día siguiente de la publicación del Presente Decreto, el Gobernador deberá expedir los reglamentos de la presente Ley.
+
+CUARTO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, se integrará el Consejo Estatal de Tránsito y Transporte.
+
+QUINTO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, se integrará el Centro de Capacitación para el Transporte y Educación Vial.
+
+SEXTO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, se integrará el Registro Estatal de Vehículos y Concesiones.
