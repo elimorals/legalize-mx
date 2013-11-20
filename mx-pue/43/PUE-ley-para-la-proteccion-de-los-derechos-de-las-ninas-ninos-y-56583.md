@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-06"
-last_updated: "2007-08-06"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Puebla, el lunes 6 de agosto de 2007.
 
@@ -107,9 +107,11 @@ El Estado y los Municipios reconocen los principios rectores que rigen la protec
 
 Para el eficaz cumplimiento de la presente Ley se aplicarán las disposiciones expresas en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales, y demás disposiciones legales, y en su caso, los principios generales que deriven de dichos ordenamientos y a falta de estos, los principios generales de derecho.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-Son niñas, niños y adolescentes cuyos derechos fundamentales no han sido respetados, quienes sufren carencias o abusos de cualquier índole, están en circunstancias de desamparo o discriminación o padecen alguna dolencia crónica o terminal o alguna discapacidad, y debido a ello, no ejercen en igualdad de condiciones alguno o algunos de sus derechos fundamentales o garantías constitucionales.
+Se considerarán niñas, niños y adolescentes cuyos derechos fundamentales no han sido respetados, quienes sufren carencias o abusos de cualquier índole, o estén en circunstancias de desamparo o discriminación o padecen alguna dolencia crónica o terminal o alguna discapacidad, y debido a ello, no ejercen en igualdad de condiciones alguno o algunos de sus derechos humanos y sus garantías.
 
 ###### ARTÍCULO 12.
 
@@ -118,6 +120,10 @@ A fin de procurar a niñas, niños y adolescentes, el ejercicio pleno de sus der
 I.- Se adoptarán las medidas urgentes que sean necesarias en términos de la legislación aplicable; y
 
 II.- Las instituciones del Estado, deberán implementar los mecanismos o acciones pertinentes para cumplir las medidas urgentes establecidas en la fracción anterior, cuya permanencia debe quedar asegurada hasta que se logre el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS.- El Estado por conducto de las dependencias correspondientes, estimulará las capacidades de las niñas, niños y adolescentes en conflicto con la Ley en los lugares donde se encuentren sujetos a una medida de internamiento, con el fin de fortalecer sus habilidades de desarrollo intelectual y productivo.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -427,9 +433,17 @@ IX.- Garantizar el ejercicio y la aplicación de un Sistema Integral de Justicia
 
 X.- Dar a conocer y promover el uso de los medios alternativos de administración de justicia;
 
-XI.- Dotar a las instituciones de asistencia social y procuración de justicia para las niñas, niños y adolescentes, del personal especializado en cada una de las áreas que requieran; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XII.- Las demás que sean necesarias a fin de cumplir con el objeto y la finalidad de la presente Ley.
+XI.- Dotar a las instituciones de asistencia social y procuración de Justicia para las niñas, niños y adolescentes, del personal especializado en cada una de las áreas que requieran;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XII.- Fomentar políticas públicas que tiendan a prevenir el castigo corporal y trabajo infantil, con el fin de fortalecer el entorno de la familia, entendida esta como la base del desarrollo humano sustentable para el crecimiento óptimo de las niñas y niños que vivan en el Estado; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XIII.- Las demás que sean necesarias a fin de cumplir con el objeto y la finalidad de la presente Ley.
 
 ###### ARTÍCULO 43.
 
@@ -437,9 +451,11 @@ Las infracciones a lo dispuesto en esta Ley serán sancionadas por la autoridad 
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 44.
 
-En términos de lo previsto por la Ley Orgánica de la Administración Pública del Estado, se podrá crear un Órgano de análisis y opinión, donde converjan de manera conjunta representantes de los sectores público, privado y social.
+En términos de lo previsto por el Título IV de la Ley Orgánica de la Administración Pública del Estado, se podrá crear un órgano de análisis y opinión, donde converjan de manera conjunta representantes de los sectores público, privado y social.
 
 ## TRANSITORIOS
 
@@ -462,3 +478,9 @@ Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición, dada en el Palacio del Poder Legislativo, en la Heroica ciudad de Puebla de Zaragoza, a los doce días del mes de julio de dos mil siete.- Diputada Presidenta.- MARÍA ISABEL MERLO TALAVERA.- Rúbrica.- Diputada Vicepresidenta.- MARICELA GONZÁLEZ JUÁREZ.- Rúbrica.- Diputada Secretaria.- MARÍA NORMA SÁNCHEZ VALENCIA.- Rúbrica.- Diputada Secretaria.- MARÍA DEL ROSARIO LETICIA JASSO VALENCIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciocho días del mes de julio de dos mil siete. El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
