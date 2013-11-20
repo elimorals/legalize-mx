@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2012-12-14"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -157,7 +157,9 @@ El Ministerio Público, los cuerpos policiales y el juez, están obligados a vel
 
 El Ministerio Público deberá promover durante el curso del procedimiento acuerdos reparatorios, medidas cautelares u otros mecanismos que garanticen la reparación del daño causado a la víctima y protejan su integridad personal.
 
-Asimismo, el Ministerio Público, el juez o tribunal, la policía y los demás servidores públicos que entren en contacto con la víctima u ofendido, deberán otorgarle un trato acorde con su condición de víctima, procurando facilitar al máximo su participación en los trámites en que debiere intervenir.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Asimismo, el Ministerio Público, el Juez o Tribunal, la Policía y los demás Servidores Públicos que entren en contacto con la víctima u ofendido, deberán otorgarle un trato acorde con su condición de víctima, procurando facilitar al máximo su participación en los trámites en que debiere intervenir, obteniendo, en su caso, la narrativa o descripción escrita de los hechos en el que resultaron agraviados.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -923,9 +925,9 @@ Podrán ser ejercidas directamente por la víctima u ofendido, de acuerdo al pro
 
 I. Revelación de Secreto;
 
-II. Difamación;
+II. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
-III. Adulterio, y
+III. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
 IV. Los casos en que el Ministerio Público haya aplicado el criterio de oportunidad previsto en la fracción primera del artículo 88 de este Código.
 
@@ -1277,13 +1279,13 @@ La excusa o la recusación serán resueltas por el Procurador General de Justici
 
 Función de los cuerpos policiacos en el Estado.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-Los integrantes de los cuerpos de seguridad pública, distintos a la policía investigadora, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público, sin que ello implique la realización de actos de molestia; impedirán que los hechos se lleven a consecuencias ulteriores; detendrán en flagrancia a quien realice un hecho que pueda constituir delito. En este caso o cuando reciban de cualquier persona o autoridad a una persona detenida, deberán ponerla de inmediato a disposición del Ministerio Público y realizaran el registro inmediato de la detención; identificarán y aprehenderán, por mandato judicial o ministerial, a los imputados.
+Los integrantes de los Cuerpos de Seguridad Pública, distintos a la Policía Investigadora, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, incluyendo la narrativa o descripción de hechos de las victimas u ofendidos de los hechos delictuosos, por escrito; dando inmediato aviso al Ministerio Público, sin que ello implique la realización de actos de molestia; impedirán que los hechos se lleven a consecuencias ulteriores: detendrán en flagrancia a quien realice un hecho que pueda constituir delito. En este caso o cuando reciban de cualquier persona o autoridad a una persona detenida, deberán ponerla de inmediato a disposición del Ministerio Público y realizarán el registro inmediato de la detención; identificarán y aprehenderán, por mandato judicial o ministerial, a los imputados.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-Cuando los cuerpos de seguridad pública mencionados sean los primeros en conocer de un hecho delictuoso deberán ejercer las facultades previstas en el Artículo 118 fracciones III, V, VI, VII, XI, XII, y XIII de este Código, hasta que el Ministerio Público o la policía ministerial intervengan, debiendo informarles de lo actuado y entregarles los instrumentos, objetos y evidencias materiales que hayan asegurado. De todo lo actuado deberán elaborar un parte informativo.
+Cuando los Cuerpos de Seguridad Pública mencionados, sean los primeros en conocer de un hecho delictuoso, deberán ejercer las facultades previstas en el artículo 118, fracciones I, III, IV, V, VII, VIII y IX de este Código, hasta que el Ministerio Público o la Policía Ministerial intervengan, debiendo informarles de lo actuado y entregarles por cuanto las narrativas o descripciones obtenidas de las víctimas u ofendidos, los instrumentos, objetos y evidencias materiales que hayan asegurado. De todo lo actuado deberán elaborar un parte informativo.
 
 Así mismo, actuarán como auxiliares del Ministerio Público o de la autoridad judicial y por instrucciones expresas reunirán los antecedentes que aquel le solicite.
 
@@ -2171,9 +2173,17 @@ XVII. Despojo previsto en el artículo 185 segundo párrafo;
 
 XVIII. Corrupción de menores e incapaces previsto en los párrafos segundo y tercero del artículo 213 quater;
 
-XIX. Rebelión cuando se realice en las circunstancias previstas en el artículo 259, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XX. Terrorismo previsto en el artículo 263.
+XIX. Rebelión cuando se realice en las circunstancias previstas en el artículo 259;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XX. Terrorismo previsto en el artículo 263, y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XXI. Asalto, previsto en el artículo 148.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -5409,10 +5419,12 @@ SEGUNDA.- Este Decreto iniciará su vigencia el día siguiente de la fecha de su
 
 TERCERA.- La Procuraduría General de Justicia del Estado, deberá emitir los acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la especialización y funcionamiento de Agencias del Ministerio Público especializados en materia de narcomenudeo que sean competencia del fuero común acorde a lo establecido en el Capítulo VII de la Ley General de Salud, y de conformidad al presupuesto asignado.
 
+P.O. 20 DE NOVIEMBRE DE 2013.
+
 ###### ARTÍCULO PRIMERO.
 
-Publíquese en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos.
+Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente decreto entrará en vigor al siguiente día de su publicación.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
