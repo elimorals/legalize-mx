@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2013-07-10"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -951,6 +951,10 @@ Para tal efecto la Dirección o el municipio fijarán el horario para realizar e
 
 Las autoridades de Tránsito y/o Vialidad cuidarán que en las vías públicas no existan obstáculos que impidan la libre circulación de los vehículos y los peatones.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+Para la instalación de semáforos, realizarán estudios de las condiciones del tránsito y de las características de las intersecciones, para determinar si se justifica la instalación de los mismos.
+
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 ###### Artículo 68.
@@ -1702,3 +1706,9 @@ Por lo que respecta al Artículo Segundo del presente Decreto, no obstante su vi
 ###### ARTÍCULO CUARTO.
 
 Las sanciones a las que hace referencia el presente Decreto, independientemente de su reglamentación correspondiente, iniciarán su vigencia con la entrada en funcionamiento de las rutas troncales del Sistema de Transporte Colectivo Integrado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
