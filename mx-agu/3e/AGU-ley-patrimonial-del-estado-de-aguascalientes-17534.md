@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2012-03-12"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -403,11 +403,17 @@ V. La existencia en cantidad suficiente de los bienes, así como la calidad y la
 
 VI. En su caso, los proyectos, especificaciones y programas de ejecución;
 
-VII. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles a su cargo; y
+VII. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles a su cargo; y (sic)
 
 VIII. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones.
 
-IX. (sic) ARTICULO 36.- La programación de las adquisiciones, no deberá rebasar un ejercicio presupuestal, salvo que se cuente con autorización de la Secretaría de Finanzas del Estado, la de los Municipios o su equivalente, según sea el caso, y con la del Congreso del Estado en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+IX. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
+
+(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTE ARTÍCULO EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN IX DEL ARTÍCULO 35, PERO DEL ANÁLISIS AL DECRETO NÚMERO 429 DE 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE PASÓ A SER ESTE ARTÍCULO 36.
+
+###### ARTICULO 36.
+
+La programación de las adquisiciones, podrá rebasar un ejercicio presupuestal en los términos del artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
 
 #### SECCION TERCERA. Del Comité de Adquisiciones y Enajenaciones
 
@@ -969,7 +975,9 @@ II. Se hará una descripción completa de los bienes o servicios relacionada con
 
 III. En la solicitud y entrega de los bienes se hará referencia al contrato celebrado;
 
-IV. Su vigencia no excederá del ejercicio fiscal correspondiente a aquel en que se suscriba, salvo que se apegue al Artículo 36 de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+IV. Si su vigencia excede del ejercicio fiscal correspondiente a aquel en que se suscriba, deberá apegarse al Artículo 36 de esta Ley;
 
 V. Como máximo cada treinta días naturales se hará el pago de los bienes entregados o de los servicios prestados en tal periodo; y
 
@@ -1492,3 +1500,9 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTICULO SEGUNDO.
 
 Como fideicomitente, el Poder Ejecutivo del Estado y las entidades paraestatales no podrán constituir o aportar a los fideicomisos públicos paraestatales bienes de dominio público; en caso de requerirse estos deberán ser previamente desincorporados en términos de Ley.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
