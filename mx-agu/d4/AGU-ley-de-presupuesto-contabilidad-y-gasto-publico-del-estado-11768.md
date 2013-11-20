@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2011-10-31"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -43,7 +41,7 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 1o.
 
@@ -63,7 +61,7 @@ IV.- Municipios del Estado.
 
 El Gasto Público a que se refiere el artículo anterior, comprende las erogaciones que realicen los Sujetos de la Ley por los siguientes conceptos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2007)</small>
 
 I.- Gasto Corriente. En este concepto se incluirá de manera enunciativa, más no limitativa, las remuneraciones que se paguen a los servidores públicos, los materiales y suministros, así como los generales necesarios para la operación de los Sujetos de la Ley. De igual forma se incluyen las transferencias de recursos financieros que realicen entre sí, las distintas dependencias y entidades de los Sujetos de ley, así como los apoyos otorgados por concepto de ayudas, subsidios y donativos, así como las contraprestaciones que se paguen por los servicios que sean prestados conforme a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, salvo aquellas que por su naturaleza deban ser parcialmente consideradas como gasto de inversión y/o capital de acuerdo con los criterios que se establezcan en el Reglamento de esa ley.
 
@@ -327,17 +325,35 @@ El ejercicio del gasto comprenderá la aplicación de los recursos que realicen 
 
 El Gasto Público será ejercido con apego a los programas y presupuestos aprobados, y a los calendarios financieros autorizados por la Secretaría, la Tesorería Municipal o la Unidad o Comisión correspondiente, según se trate de los Sujetos de la presente Ley, respectivamente.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 25.
 
-Se prohíbe el establecimiento de compromisos de pago que rebasen un ejercicio presupuestal, salvo en el caso de compromisos de pago plurianuales aprobados conforme a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, en los términos del Artículo 27, Fracción III y Fracción XXXIV, de la Constitución Política del Estado.
+El Ejecutivo y los Municipios del Estado podrán celebrar compromisos de pago plurianuales aprobados conforme a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, en los términos del Artículo 27, Fracción III y Fracción XXXIV, de la Constitución Política del Estado.
 
-En el ámbito municipal, de conformidad con el Artículo 70 de la Constitución Política del Estado, corresponderá al Congreso, previa solicitud del Presidente Municipal, aprobar los Proyectos de prestación de servicios y los compromisos de pago plurianuales para cubrir los gastos correspondientes a los Proyectos municipales que sean desarrollados al amparo de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes.
+Asimismo, los Sujetos de esta Ley podrán asumir compromisos de pago que rebasen un ejercicio presupuestal según las siguientes modalidades:
 
-En casos excepcionales y debidamente justificados, la Secretaría, la Tesorería Municipal, la Unidad o Comisión respectiva, según sea el caso, podrán autorizar la afectación plurianual para la contratación de obra pública, en estos casos de igual forma se requerirá la aprobación expresa del Congreso del Estado, establecidos en los Presupuestos de Egresos respectivos.
+I. Compromisos de pago que rebasan un ejercicio presupuestal con cargo al presupuesto en el cual fueron contratados, mismos que no podrán asumirse por más de tres ejercicios fiscales contados a partir del ejercicio fiscal que regía al momento de la contratación, además, tratándose de el Ejecutivo y los Municipios del Estado, los compromisos de pago no podrán rebasar el período constitucional para el cual fue elegida la autoridad contratante.
 
-En los casos señalados en los Artículos 19 y 23 Bis de la ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, se aplicará lo estipulado en los mismos, debiendo presentar únicamente un informe al H. Congreso del Estado o Cabildo Municipal.
+II. Compromisos de pago que rebasan un ejercicio presupuestal con cargo a distintos presupuestos.
+
+Para asumir compromisos de pago que rebasen un ejercicio presupuestal, tratándose del Ejecutivo y los Municipios del Estado, se deberá contar con autorización de la Secretaría de Finanzas del Estado o las Tesorerías Municipales, según corresponda. Tratándose de órganos estatales con autonomía reconocida en la Constitución Política del Estado, se deberá contar con la autorización de su unidad con funciones administrativas o financieras, solicitando la opinión de la Secretaría de Finanzas del Estado. Si se trata del Poder Legislativo y el Poder Judicial, se deberá contar con la autorización de sus unidades con funciones administrativas o financieras.
+
+Tratándose de los compromisos de pago con cargo a varios ejercicios presupuestales, en el caso de el Ejecutivo y los Municipios del Estado, estos deberán solicitar la autorización del Congreso del Estado, cuando los compromisos rebasen el período constitucional para el cual fue elegida la autoridad contratante.
+
+Para sumir (sic) asumir compromisos de pago que rebasen uno o más ejercicios presupuestales, se deberá emitir un dictamen que incluya lo siguiente:
+
+a) La justificación de que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables, o bien, que se requiere continuidad en la contratación;
+
+b) La justificación del plazo de la contratación y que el mismo no afectará negativamente la operación y cumplimiento de programas de quien solicite la contratación;
+
+c) La identificación del gasto corriente o de inversión correspondiente; y
+
+d) El desglose del gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
+
+Los Sujetos de la Ley que pretendan asumir compromisos de pago que rebasen un ejercicio presupuestal con cargo a diferentes presupuestos, deberán incluir en el Presupuesto de Egresos del año o años que correspondan, la partida o partidas a que haya lugar para sufragar dichos pagos.
+
+Los compromisos no cubiertos durante el ejercicio fiscal en que se contrate, tendrán preferencia respecto de otras previsiones de gasto en los subsecuentes presupuestos.
 
 ###### ARTICULO 26.
 
@@ -437,7 +453,7 @@ III.- Situación de la Deuda Pública.
 
 ### CAPITULO VI. De la Evaluación y Control del Gasto Público
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 39.
 
@@ -501,7 +517,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE AGOSTO DE 1998.
 
@@ -610,3 +626,9 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
