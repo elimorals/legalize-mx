@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2012-10-03"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -559,7 +559,13 @@ XI. Coordinar su actuación con las autoridades federales y de otras entidades f
 
 XII. Establecer un sistema de estímulos por productividad y eficiencia de los servidores públicos de la Procuraduría, con base a las partidas presupuestales que para tal efecto se destinen.
 
-XIII. Las demás que prevea esta Ley, y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Coordinar y supervisar la correcta atención que los servidores públicos otorguen a las denuncias ciudadanas, que se reciban a través de los programas tecnológicos institucionales, inherentes al monitoreo de las mismas, que se formulen y reciban por medio de los dispositivos móviles, de comunicación electrónica y telefónicos, así como del sistema de buzones.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Las demás que prevea esta Ley, y otras disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -1051,13 +1057,13 @@ XI. Supervisar personalmente que los Fiscales del Ministerio Público que le est
 
 XII. Las demás que establezca la presente Ley, su Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 33.
 
-Además de las Fiscalías Especializadas, establecidas en la Constitución Política del Estado de Chiapas, la Procuraduría contará con las Fiscalías Especializadas de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; y para la Atención de los Delitos Ambientales.
+Además de las Fiscalías Especializadas, establecidas en la Constitución Política del Estado de Chiapas, la Procuraduría contará con las Fiscalías Especializadas de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; para la Atención de los Delitos Ambientales; y en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
-El funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Delitos Cometidos en Contra de Inmigrantes; en Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; en Atención de Periodistas y Libertad de Expresión; en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación; para la Atención de los Delitos Relacionados con Servidores Públicos; contra la Delincuencia Organizada; en Secuestro; en Asuntos Especiales y Relevantes; de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; y para la Atención de los Delitos Ambientales, estarán determinadas en la presente Ley, el Reglamento de la misma y demás disposiciones aplicables.
+El funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Delitos Cometidos en Contra de Inmigrantes; en Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; en Atención de Periodistas y Libertad de Expresión; en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación; para la Atención de los Delitos Relacionados con Servidores Públicos; contra la Delincuencia Organizada; en Secuestro; en Asuntos Especiales y Relevantes; de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; para la Atención de los Delitos Ambientales; y en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, estarán determinadas en la presente Ley, el Reglamento de la misma y demás disposiciones aplicables.
 
 ### Capítulo V. De la Fiscalía Electoral y Atribuciones de su Titular
 
@@ -1471,7 +1477,9 @@ d) Aprobar el proceso de evaluación de control de confianza y de competencias p
 
 e) Sustentar y acreditar el concurso de oposición, en los términos que señalen las disposiciones aplicables.
 
-f) Aprobar los cursos de formación inicial, así como los exámenes de evaluación médica, toxicológica, poligráfico, psicométrico y demás que ordenen las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+f) Aprobar los cursos de formación inicial, así como los exámenes de evaluación médica, toxicológica, psicométrico y demás que ordenen las disposiciones aplicables.
 
 g) No estar sujeto a proceso penal.
 
@@ -1525,7 +1533,9 @@ e) Tener acreditado en su caso, el Servicio Militar Nacional.
 
 f) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
 
-g) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, poligráfico, de entorno social y de control de confianza.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+g) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, de entorno social y de control de confianza.
 
 h) Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
 
@@ -1553,7 +1563,9 @@ d) Tener acreditado en su caso, el Servicio Militar Nacional.
 
 e) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
 
-f) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, poligráfico, de entorno social y de control de confianza.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+f) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, de entorno social y de control de confianza.
 
 g) Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
 
@@ -1627,7 +1639,9 @@ d) Aprobar el proceso de evaluación de control de confianza y de competencias p
 
 e) Sustentar y acreditar el concurso de oposición en los términos que señalen las disposiciones aplicables.
 
-f) Aprobar los cursos de formación inicial, así como los exámenes de evaluación médica, toxicológica, poligráfico, psicométrico y demás que ordene las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+f) Aprobar los cursos de formación inicial, así como los exámenes de evaluación médica, toxicológica, psicométrico y demás que ordenen las disposiciones aplicables.
 
 g) No estar sujeto a proceso penal.
 
@@ -1719,7 +1733,7 @@ II. Médico.
 
 III. Psicométrico y psicológico.
 
-IV. Poligráfico.
+IV. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
 V. Toxicológico.
 
@@ -2302,3 +2316,27 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al
 Artículo Tercero.- Los recursos humanos, materiales y financieros, que actualmente se encuentren asignados a la Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal pasarán a formar parte de la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia.
 
 Artículo Cuarto.- Las Investigaciones, procedimientos y en general todos los asuntos que se encuentren en trámite ante la Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal, iniciados con anterioridad a la entrada en vigor del presente Decreto, seguirán su trámite y serán atendidos, desahogados y resueltos por la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, previa razón que se asiente en cada uno de los expedientes.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En cumplimiento al Artículo Décimo Cuarto Transitorio del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, publicado en el Diario Oficial de la Federación, de fecha catorce de junio de dos mil doce, será la Fiscalía Especializada en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la que se encargue de investigar las conductas previstas en la referida Ley General.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto se encontraban asignados a la Dirección de Ciudadano Vigilante, serán transferidos de inmediato a la Procuraduría General de Justicia del Estado, cambiando su denominación a Dirección de Fuerza Ciudadana.
+
+De la misma manera, los recursos humanos, materiales y financieros que se encuentran asignados a la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, pasarán a formar parte de la Fiscalía Especializada en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+Artículo Quinto.- Las atribuciones, compromisos y procedimientos, que a la entrada en vigor del presente Decreto, hubiere contraído la Dirección de Ciudadano Vigilante, serán asumidos inmediatamente y se entenderán conferidas a la Procuraduría General de Justicia del Estado.
+
+Asimismo, todos los asuntos que se encuentren en trámite ante la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, seguirán su trámite y serán atendidos por la Fiscalía Especializada para la Atención de los Delitos relacionados con Servidores Públicos.
+
+Artículo Sexto.- Las referencias o menciones que hagan otros ordenamientos legales, normativos o administrativos en relación con la Dirección de Ciudadano Vigilante, se entenderán conferidos a la Procuraduría General de Justicia del Estado.
+
+Artículo Séptimo.- El personal de la Dirección de Ciudadano Vigilante, se someterá a las disposiciones que precisa la Ley Orgánica de la Procuraduría General de Justicia del Estado, en cuanto a procesos de evaluación y requisitos de ingreso o permanencia; y gozarán de los mismos derechos que los demás trabajadores de la Procuraduría General de Justicia del Estado.
+
+Artículo Octavo.- El Titular de la Procuraduría General de Justicia del Estado de Chiapas, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
+
+Artículo Noveno.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
