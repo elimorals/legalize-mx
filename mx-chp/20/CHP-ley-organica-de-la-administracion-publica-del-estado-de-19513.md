@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2013-07-31"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -567,9 +567,9 @@ LAS ROSAS
 
 MARAVILLA TENEJAPA
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-LA DESIGNACION DEL SUBSECRETARIO DE GOBIERNO SE HARA MEDIANTE TERNA QUE PRESENTE EL SECRETARIO GENERAL DE GOBIERNO AL CONGRESO, QUIEN VERIFICARA QUE EL CANDIDATO ES CHIAPANECO POR NACIMIENTO, MAYOR DE 25 AÑOS, Y CUENTA CON PRESENCIA RECONOCIDA Y ARRAIGO EN EL ESTADO; SERA REMOVIDO LIBREMENTE POR EL SECRETARIO GENERAL DE GOBIERNO.
+EL SUBSECRETARIO DE GOBIERNO, PODRÁ SER NOMBRADO Y REMOVIDO DIRECTAMENTE POR EL SECRETARIO GENERAL DE GOBIERNO, QUIEN VERIFICARÁ QUE LA PERSONA DESIGNADA SEA CHIAPANECO POR NACIMIENTO, MAYOR DE 25 AÑOS, CONTAR CON PRESENCIA RECONOCIDA Y CON UNA RESIDENCIA MÍNIMA DE 5 AÑOS EN EL ESTADO.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -817,9 +817,11 @@ XIV. DEFENDER ANTE CUALQUIER AUTORIDAD POR SI O A TRAVES DE LOS FUNCIONARIOS FAC
 
 XV. PROMOVER LA INSTRUMENTACION DE SISTEMAS DE DESARROLLO ADMINISTRATIVO, DE TECNOLOGIAS DE INFORMACION, DE RECURSOS MATERIALES Y SERVICIOS QUE COADYUVEN A SU MEJORAMIENTO.
 
-XVI. COORDINAR LA INTEGRACION Y OPERACION DE LOS PROGRAMAS TECNOLOGICOS INSTITUCIONALES, INHERENTES AL MONITOREO Y SEGUIMIENTO DE LAS SOLICITUDES FORMULADAS A TRAVES DE DISPOSITIVOS MOVILES DE COMUNICACION.
+XVI. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
-XVII. ASESORAR A LAS DEPENDENCIAS DE LA ADMINISTRACION CENTRALIZADA, EN LA ELABORACION Y ACTUALIZACION DE SUS REGLAMENTOS INTERIORES Y MANUALES ADMINISTRATIVOS; Y A LOS DE LA ADMINISTRACION PARAESTATAL CUANDO ASI LO SOLICITEN, AUTORIZANDO DICHOS INSTRUMENTOS TECNICA Y ADMINISTRATIVAMENTE, PREVIO A SU VALIDACION POR EL INSTITUTO DE LA CONSEJERIA JURIDICA Y DE ASISTENCIA LEGAL.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XVII. ASESORAR A LOS ORGANISMOS DE LA ADMINISTRACIÓN CENTRALIZADA EN LA ELABORACIÓN Y ACTUALIZACIÓN DE SUS REGLAMENTOS INTERIORES, Y A LOS DE LA ADMINISTRACIÓN PARAESTATAL CUANDO ASÍ LO SOLICITEN, AUTORIZANDO DICHOS INSTRUMENTOS TÉCNICA Y ADMINISTRATIVAMENTE, PREVIO A SU VALIDACIÓN POR EL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL; ASÍ COMO ASESORAR A DICHAS INSTANCIAS EN LA ELABORACIÓN Y ACTUALIZACIÓN DE LOS MANUALES ADMINISTRATIVOS.
 
 XVIII. APLICAR LAS POLITICAS Y LOS PROCEDIMIENTOS RESPECTO A LA ACTUACION DE LAS UNIDADES DE APOYO ADMINISTRATIVO O SU EQUIVALENTE DE LOS ORGANISMOS DE LA ADMINISTRACION PUBLICA ESTATAL, CONFORME A LAS NORMAS QUE EXPIDA LA PROPIA SECRETARIA.
 
@@ -3262,3 +3264,19 @@ Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor de
 De igual forma los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído la Secretaría de Seguridad y Protección Ciudadana, a través de la Unidad de Atención a Emergencias, con motivo de la Red Estatal de Radiocomunicaciones, serán asumidos inmediatamente y se entenderán conferidos al Consejo Estatal de Seguridad Pública.
 
 Artículo Sexto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 20 DE NOVIEMBRE DE 2013
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto se encontraban asignados a la Dirección de Ciudadano Vigilante, serán transferidos de inmediato a la Procuraduría General de Justicia del Estado, cambiando su denominación a Dirección de Fuerza Ciudadana.
+
+Artículo Cuarto.- Las atribuciones, compromisos y procedimientos, que a la entrada en vigor del presente Decreto, hubiere contraído la Dirección de Ciudadano Vigilante, serán asumidos inmediatamente y se entenderán conferidas a la Procuraduría General de Justicia del Estado.
+
+Artículo Quinto.- Las referencias o menciones que hagan otros ordenamientos legales, normativos o administrativos en relación con la Dirección de Ciudadano Vigilante, se entenderán conferidos a la Procuraduría General de Justicia del Estado.
+
+Artículo Sexto.- El personal de la Dirección de Ciudadano Vigilante, se someterá a las disposiciones que precisa la Ley Orgánica de la Procuraduría General de Justicia del Estado, en cuanto a procesos de evaluación y requisitos de ingreso o permanencia; y gozarán de los mismos derechos que los demás trabajadores de la Procuraduría General de Justicia del Estado.
+
+Artículo Séptimo.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
