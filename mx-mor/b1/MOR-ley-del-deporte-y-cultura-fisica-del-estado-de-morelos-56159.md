@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-09-25"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -35,9 +35,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO
-
-.
+CONSIDERANDO...
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -49,9 +47,11 @@ LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar y desarrollar el deporte y la cultura física en el Estado de Morelos; a establecer el Sistema Estatal del Deporte y Cultura Física, así como, a constituir las bases generales de coordinación y colaboración entre el Estado y los Municipios, la concertación para la participación de los sectores social y privado, en materia del deporte y la cultura física.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 2.
 
-La función social del deporte y de la cultura física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas y contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado.
+La función social del deporte y de la Cultura Física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas y contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
 
 ###### ARTÍCULO 3.
 
@@ -319,9 +319,15 @@ X. Participar en las campañas para prevenir y combatir el uso de estimulantes, 
 
 XI. Representar al País, al Estado, Municipio, localidad, asociación u organización deportiva en competiciones oficiales si fuere seleccionado para ello, conforme a la reglamentación correspondiente;
 
-XII. Elaborar, entregar y registrar ante el Instituto, los programas de actividades oficiales anuales, dentro de los meses de septiembre y octubre de cada año; y
+(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 4 DE JULIO DE 2007, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
-XIII. Las demás que le otorgue la presente ley u otros ordenamientos.
+XII. Igualdad de oportunidades dentro de los Programas y Acciones en materia de Deporte y Cultura Física que se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
+
+XIII. Elaborar, entregar y registrar ante el Instituto, los programas de actividades oficiales anuales, dentro de los meses de septiembre y octubre de cada año; y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XIII, PERO DEL ANÁLISIS A LA PUBLICACIÓN 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XIV.</small>
+
+XIV. Las demás que le otorgue la presente ley u otros ordenamientos.
 
 ###### ARTÍCULO 25.
 
@@ -1462,3 +1468,11 @@ DECRETO NÚMERO 832, POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 34, EL
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al presente Decreto.
