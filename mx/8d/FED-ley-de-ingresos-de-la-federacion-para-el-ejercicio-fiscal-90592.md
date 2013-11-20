@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-90592
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-17"
-last_updated: "2012-12-24"
+last_updated: "2013-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2012-12-14"
 
 LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2013
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de diciembre 2012.
 
@@ -531,9 +529,11 @@ Los recursos que durante el ejercicio fiscal de 2013 se destinen al Fondo de Est
 
 Hasta el 25 por ciento de las aportaciones que con cargo a los fondos de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, y para el Fortalecimiento de las Entidades Federativas, corresponda recibir a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, podrán servir como fuente de pago o compensación de las obligaciones que contraigan con el Gobierno Federal, siempre que exista acuerdo entre las partes y sin que sea necesario obtener la autorización de la legislatura local ni la inscripción ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 2o.
 
-Se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, para contratar y ejercer créditos, empréstitos y otras formas del ejercicio del crédito público, incluso mediante la emisión de valores, en los términos de la Ley General de Deuda Pública y para el financiamiento del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2013, por un monto de endeudamiento neto interno hasta por 415 mil millones de pesos. Asimismo, el Ejecutivo Federal y las entidades de control directo podrán contratar obligaciones constitutivas de deuda pública interna adicionales a lo autorizado, siempre que el endeudamiento neto externo sea menor al establecido en el presente artículo o en el presupuesto de las entidades respectivas en un monto equivalente al de dichas obligaciones adicionales. El Ejecutivo Federal queda autorizado para contratar y ejercer en el exterior créditos, empréstitos y otras formas del ejercicio del crédito público, incluso mediante la emisión de valores, para el financiamiento del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2013, así como para canjear o refinanciar obligaciones del sector público federal, a efecto de obtener un monto de endeudamiento neto externo de 7 mil millones de dólares de los Estados Unidos de América, el cual incluye el monto de endeudamiento neto externo que se ejercería con organismos financieros internacionales. De igual forma, el Ejecutivo Federal y las entidades de control directo podrán contratar obligaciones constitutivas de deuda pública externa adicionales a lo autorizado, siempre que el endeudamiento neto interno sea menor al establecido en el presente artículo o en el presupuesto de las entidades respectivas, en un monto equivalente al de dichas obligaciones adicionales. El cómputo de lo anterior se realizará, en una sola ocasión, el último día hábil bancario del ejercicio fiscal de 2013 considerando el tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana que publique el Banco de México en el Diario Oficial de la Federación, así como la equivalencia del peso mexicano con otras monedas que dé a conocer el propio Banco de México, en todos los casos en la fecha en que se hubieren realizado las operaciones correspondientes.
+Se autoriza al Ejecutivo Federal; por conducto de la Secretaría de Hacienda y Crédito Público, para contratar y ejercer créditos, empréstitos y otras formas del ejercicio del crédito público, incluso mediante la emisión de valores, en los términos de la Ley General de Deuda Pública y para el financiamiento del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2013, por un monto de endeudamiento neto interno hasta por 485 mil millones de pesos. Asimismo, el Ejecutivo Federal y las entidades de control directo podrán contratar obligaciones constitutivas de deuda pública interna adicionales a lo autorizado, siempre que el endeudamiento neto externo sea menor al establecido en el presente artículo o en el presupuesto de las entidades respectivas en un monto equivalente al de dichas obligaciones adicionales. El Ejecutivo Federal queda autorizado para contratar y ejercer en el exterior créditos, empréstitos y otras formas del ejercicio del crédito público, incluso mediante la emisión de valores, para el financiamiento del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2013, así como para canjear o refinanciar obligaciones del sector público federal, a efecto de obtener un monto de endeudamiento neto externo de 7 mil millones de dólares de los Estados Unidos de América, el cual incluye el monto de endeudamiento neto externo que se ejercería con organismos financieros internacionales. De igual forma, el Ejecutivo Federal y las entidades de control directo podrán contratar obligaciones constitutivas de deuda pública externa adicionales a lo autorizado, siempre que el endeudamiento neto interno sea menor al establecido en el presente artículo o en el presupuesto de las entidades respectivas, en un monto equivalente al de dichas obligaciones adicionales. El cómputo de lo anterior se realizará, en una sola ocasión, el último día hábil bancario del ejercicio fiscal de 2013 considerando el tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana que publique el Banco de México en el Diario Oficial de la Federación, así como la equivalencia del peso mexicano con otras monedas que dé a conocer el propio Banco de México, en todos los casos en la fecha en que se hubieren realizado las operaciones correspondientes.
 
 También se autoriza al Ejecutivo Federal para que, a través de la propia Secretaría de Hacienda y Crédito Público, emita valores en moneda nacional y contrate empréstitos para canje o refinanciamiento de obligaciones del erario federal, en los términos de la Ley General de Deuda Pública. Asimismo, el Ejecutivo Federal queda autorizado para contratar créditos o emitir valores en el exterior con el objeto de canjear o refinanciar endeudamiento externo.
 
@@ -1366,3 +1366,13 @@ Cuarto. Para los efectos de la Ley de Ingresos de la Federación para el Ejercic
 México, D.F., a 13 de diciembre de 2012.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de diciembre de dos mil doce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE NOVIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor conforme a lo siguiente:
+
+I. El artículo primero, el 1 de enero de 2014, y
+
+II. El artículo segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
