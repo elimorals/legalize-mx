@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mercados-del-estado-de-morelos-7117"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-27"
-last_updated: "1978-11-08"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MERCADOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el día 27 de octubre de 1965.
 
@@ -469,6 +469,100 @@ Son auxiliares de las Autoridades Municipales para el debido cumplimiento de est
 
 Se concede acción popular para denunciar ante las Autoridades competentes las infracciones que se cometan a esta Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+### CAPITULO XI
+
+De las medidas de regulación, fomento sanitario y protección civil.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 62.
+
+Se crea la Comisión Interinstitucional de Sanidad y Protección Civil, con el propósito de brindar atención y asesoría adecuada para implementar medidas preventivas de sanidad, seguridad y protección civil en los Mercados y Centrales de Abasto del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 63.
+
+La Comisión Interinstitucional de Sanidad y Protección Civil es un órgano integrado por:
+
+1. Regidores de Mercados y Salud del Ayuntamiento.
+
+2. Un representante de cada Mercado de la Administración Municipal.
+
+3. Un representante de las Uniones y Asociaciones de Comerciantes y Locatarios de diferentes ramos.
+
+4. Un representante de Comerciantes y Locatarios.
+
+5. Un representante del Instituto de Protección Civil.
+
+6. Un representante de los Servicios de Salud del Estado.
+
+7. Un representante del Organismo Operador de Agua Potable Municipal.
+
+Los miembros de la Comisión Interinstitucional de Sanidad y Protección Civil tendrán derecho a voz y voto, a sus sesiones podrán asistir representantes del sector público, social y privado, los cuales sólo tendrán derecho a voz. Todos los cargos dentro de esta Comisión tendrán carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 64.
+
+La Comisión Interinstitucional de Sanidad y Protección Civil tendrá las siguientes atribuciones:
+
+I. Presentar y aprobar el Plan Anual de Trabajo y Programas de Prevención, Capacitación y Adiestramiento para los Comerciantes y Locatarios en cuanto a las medidas de protección civil y Sanidad.
+
+II. Promover medidas de higiene en el proceso de alimentos que expenden los establecimientos en el Mercado Municipal.
+
+III. Mantener una constante y estrecha vigilancia en el cumplimiento de las medidas que se determinen en los Programas establecidos.
+
+IV. Informar cada dos meses a los comerciantes y locatarios de las disposiciones que se acuerden en las sesiones de la Comisión Interinstitucional de Sanidad y Protección.
+
+V. Verificar que las áreas de los mercados públicos cuenten con las instalaciones eléctricas e hidráulicas adecuadas conforme a la naturaleza de los bienes o servicios que se presten, previa certificación de los órganos operadores de agua potable y de la instancia correspondiente de suministrar la energía eléctrica.
+
+VI. Supervisar que los locales destinados a la preparación de alimentos contaran con instalaciones de gas y extracción de humos que cumplan con las Normas Oficiales Mexicanas.
+
+VII. Atender las peticiones de los locatarios y comerciantes relacionadas con este capítulo.
+
+VIII. Determinar la señalización de protección civil y la información de prevención a los usuarios, comerciantes y locatarios.
+
+IX. Expedir el Reglamento Interno, así como elaborar y mantener actualizado sus Manuales de Procedimiento.
+
+X. Realizar campañas de concientización, conferencias y foros de participación ciudadana con el propósito de coadyuvar en las acciones de sanidad y protección civil.
+
+XI. Verificar las etapas de Fumigación y Sanidad y las medidas de Protección Civil, contando con el calendario respectivo, de acuerdo a la fauna nociva.
+
+XII. Coordinarse con las Autoridades Estatales y Municipales a fin de impulsar la cultura del reciclaje y cuidado del medio ambiente.
+
+XIII. Las demás disposiciones que determine la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 65.
+
+Con el propósito de coordinar los trabajos de la Comisión Interinstitucional de Sanidad y Protección Civil se establece una Coordinación General, que tendrá las siguientes atribuciones:
+
+l.- Convocar a reunión de trabajo de la Comisión Interinstitucional de Sanidad y Protección Civil.
+
+II.- Fungir como secretario Técnico en las sesiones de la Comisión.
+
+III.- Resguardar el archivo, documentación y papelería que ingrese así como la que se expida en materia de sus atribuciones.
+
+IV.- Mantener informado de las disposiciones que emanen de la Comisión Interinstitucional a los locatarios y comerciantes y realizar campañas de difusión en la materia en las instalaciones del mercado.
+
+V.- Coordinar el plan de trabajo y los diferentes programas que se implementen, así como coordinarse con la unidad interna de protección civil.
+
+VI.- Representar a la Comisión Interinstitucional de Sanidad y Protección Civil, cuando así lo determine los integrantes.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 66.
+
+El Coordinador General será el Titular del área del Mercado del Ayuntamiento o Administración Municipal.
+
+En cada Ayuntamiento se instalará una Comisión Interinstitucional de Sanidad y Protección Civil.
+
+La Comisión podrá, a su vez, contar con Subcomisiones para la elaboración de programas Especiales y Extraordinarios que la misma Comisión Interinstitucional determine.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -532,3 +626,21 @@ Se restablece la facultad de los Ayuntamientos para la designación de los Admin
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Remítase al Ejecutivo Local, para los efectos de su promulgación y publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado, deberán tener integrada la Comisión Interinstitucional de Sanidad y Protección Civil, en sus respectivos Mercados y Centrales de Abasto, dentro de los sesenta días hábiles siguientes a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
