@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-instituto-municipal-de-investigacion-y-11882"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-30"
-last_updated: "2007-05-30"
+last_updated: "2013-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL INSTITUTO MUNICIPAL DE INVESTIGACION Y PLANEACION DEL MUNICIPIO DE JUAREZ, CHIHUAHUA
 
-LEY ORGANICA DEL INSTITUTO MUNICIPAL DE INVESTIGACION Y PLANEACION DEL MUNICIPIO DE JUAREZ
+LEY ORGÁNICA DEL INSTITUTO MUNICIPAL DE INVESTIGACIÓN Y PLANEACIÓN DEL MUNICIPIO DE JUÁREZ DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de septiembre de 1995.
 
@@ -78,6 +78,10 @@ IX. Crear, actualizar y administrar el banco municipal de información de estad�
 X. Generar los instrumentos de investigación estadística y de actualización cartográfica, y administrar el sistema de información geográfica municipal.
 
 XI. Elaborar estudios urbanos y regionales.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+XII. Elaborar, en coordinación con las instancias del ámbito federal y estatal competentes, estudios de factibilidad que permitan la protección y acrecentamiento del patrimonio arquitectónico de carácter histórico y cultural del Municipio de Juárez.
 
 ###### Artículo 3.
 
@@ -375,7 +379,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ENERO DE 2006.
 
@@ -390,3 +394,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase copia del Decreto, así como del Dictamen correspondiente, al H. Ayuntamiento de Juárez, Chihuahua, para los efectos legales procedentes.
+
+P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
