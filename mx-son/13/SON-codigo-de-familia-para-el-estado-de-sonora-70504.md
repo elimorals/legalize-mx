@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2013-06-27"
+last_updated: "2013-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -241,7 +241,7 @@ Los cónyuges contribuirán al sostenimiento del hogar en los términos que esta
 
 Los bienes de los cónyuges y sus productos, así como sus ingresos, quedan afectados preferentemente al pago de los alimentos. Para hacer efectivo este derecho, podrán los cónyuges y los hijos o sus representantes, pedir el aseguramiento de aquellos bienes.
 
-(REUBICADO [N. DE E. ANTES PARRAFO SEGUNDO], B.O. 1 DE MARZO DE 2011)
+(REUBICADO [N. DE E. ANTES PÁRRAFO SEGUNDO], B.O. 1 DE MARZO DE 2011)
 
 No estará obligado a contribuir económicamente el cónyuge que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que, por convenio expreso o tácito con el otro, se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, labor que se contabilizará como contribución económica al sostenimiento familiar, en cuyos casos el otro responderá íntegramente de esos gastos.
 
@@ -711,7 +711,7 @@ I.- El error acerca de la persona con quien se contrae, cuando entendiendo un c�
 
 II.- La violencia física o moral. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente puede manifestar su voluntad;
 
-IIl.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos previstos en el artículo 22 de este código; y
+III.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos previstos en el artículo 22 de este código; y
 
 > <small>(REFORMADA, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -1053,7 +1053,7 @@ También procede el divorcio, cuando uno de los cónyuges caiga en impotencia pr
 
 La embriaguez habitual y el uso indebido y persistente de drogas serán consideradas causales de divorcio por causa de enfermedad, cuando constituyan un continuo motivo de desavenencia conyugal o amenacen la estabilidad económica o la seguridad de la familia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPITULO V. DEL DIVORCIO NECESARIO POR CAUSALES OBJETIVAS
 
@@ -1161,11 +1161,11 @@ Son causas de divorcio los actos inmorales ejecutados por cualquiera de los padr
 
 Las amenazas e injurias graves, la acusación calumniosa por delito infamante y la comisión de un delito contra la persona o los bienes del otro cónyuge o los hijos, son causales que no requieren la tramitación previa de un juicio penal. El Juez que conozca del divorcio entrará al estudio de la causal invocada, constatando la existencia del delito y la responsabilidad del cónyuge culpable para el sólo efecto de decretar el divorcio.
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
-
 ###### Artículo 165.
 
 El delito infamante cometido por uno de los cónyuges en contra de terceros, sí requiere de sentencia penal de condena debidamente ejecutoriada, en la que se imponga al inculpado una pena de prisión, independientemente de su duración y de que ésta se suspenda o se conmute.
+
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 166.
 
@@ -1341,7 +1341,7 @@ I.- Durante tres años ininterrumpidos; o
 
 II.- Desde el nacimiento del primer hijo, si esto ocurre antes de que transcurra el plazo anterior.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES NACIDOS DEL CONCUBINATO
 
@@ -1881,7 +1881,7 @@ IV.- Que gozan de buena salud física y mental.
 
 Los requisitos de las fracciones III y IV de este artículo, serán acreditados mediante un estudio especial realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, que los declare aptos para realizar la adopción y, en su caso, los medios de prueba que se ofrezcan ante el Juez.
 
-> <small>(DEROGADO TERCER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -2015,9 +2015,9 @@ Cuando la familia del menor o incapaz no pueda ser hallada, será entregado a un
 
 La adopción plena crea entre los adoptantes y el adoptado, los mismos vínculos jurídicos que ligan a los padres con sus hijos biológicos, entrando los menores o incapaces a formar parte de la familia consanguínea del adoptante, para todos los efectos legales, al tiempo que se extingue el parentesco con la familia de origen. A la adopción plena le son aplicables las normas sobre parentesco genético.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 294.
 
@@ -2677,7 +2677,7 @@ I.- Los que ejerzan su administración sin haber caucionado su manejo en los té
 
 II.- Los que se conduzcan indebidamente en el desempeño de la tutela, con respecto a la persona o la administración de los bienes del incapacitado;
 
-IIl.- Los tutores que no rindan cuentas dentro del término legal, después de ser requeridos judicialmente para que lo hagan;
+III.- Los tutores que no rindan cuentas dentro del término legal, después de ser requeridos judicialmente para que lo hagan;
 
 IV.- Los comprendidos en el artículo 384, desde que se demuestre su incapacidad;
 
@@ -3011,13 +3011,11 @@ El saldo que resulte en pro o en contra del tutor, producirá intereses legales,
 
 Cuando resulte un saldo a cargo del tutor, seguirán vigentes las garantías otorgadas para desempeñar la tutela, mientras no se cubra. Si requerido el tutor por el pago del saldo no lo cubre en el término que le fije la autoridad judicial, se harán efectivas las garantías hasta el monto reclamado.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XII], B.O. 1 DE MARZO DE 2011)
-
 ###### Artículo 439.
 
 Todas las acciones que el incapacitado pueda ejercitar contra su tutor o contra los fiadores de éste, prescriben en el término de cuatro años, contados desde el día en que éste cumpla su mayoría de edad o desde que haya cesado la incapacidad.
 
-> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
+(REUBICADO [N. DE E. ANTES CAPITULO XII], B.O. 1 DE MARZO DE 2011)
 
 ### CAPITULO XIII. DEL CURADOR
 
@@ -3058,6 +3056,8 @@ El curador que no cumpla la obligación prevista en el párrafo anterior, respon
 El curador cesará cuando el incapacitado salga de la tutela; pero sólo si varía la persona del tutor, el curador continuará en su cargo.
 
 El curador tiene derecho a ser relevado de la curaduría, pasados cinco años de su encargo, pero no podrá exigir ninguna remuneración, excepto la restitución de los gastos realizados durante su gestión.
+
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPITULO XIV. DE LOS CONSEJOS LOCALES DE TUTELA
 
@@ -3463,11 +3463,11 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 El derecho a alimentos es una prerrogativa derivada del parentesco y, en los casos previstos por la ley, del matrimonio o el concubinato.
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 513.
 
-Los alimentos comprenden la comida, el vestido, la habitación, el sano esparcimiento y la asistencia en caso de enfermedad. Respecto de los menores, comprenden, además, los gastos necesarios para su educación, hasta proporcionarles un oficio, arte o profesión adecuados a sus circunstancias personales. Esta obligación se prorroga después de la mayoría de edad, si los acreedores alimentarios estudian una carrera técnica o superior, hasta el término normal necesario para concluir los estudios, si realizan los mismos de forma ininterrumpida.
+Los alimentos comprenden la comida, el vestido, la habitación, el sano esparcimiento y la asistencia en caso de enfermedad. Respecto de los menores, comprenden, además, los gastos necesarios para su educación, hasta proporcionarles un oficio, arte o profesión adecuados a sus circunstancias personales. Respecto de los discapacitados o declarados incapaces se prorrogará durante el tiempo que persista su discapacidad o hasta lograr su rehabilitación y pleno desarrollo y, comprenden, además, todos los gastos adicionales que se generen por la misma condición de los discapacitados o declarados incapaces. La obligación referida en este artículo se prorroga después de la mayoría de edad, si los acreedores alimentarios estudian una carrera técnica o superior, hasta el término normal necesario para concluir los estudios, si realizan los mismos de forma ininterrumpida.
 
 ###### Articulo 514.
 
@@ -3878,6 +3878,12 @@ B.O. 14 DE JULIO DE 2011.
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 27 DE JUNIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 21 DE NOVIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
