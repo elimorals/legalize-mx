@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-11-11"
+last_updated: "2013-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -593,11 +593,9 @@ IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del
 
 V. Región del Norte-Centro II: Dos Salas que se denominarán, "Primera Sala Regional del Norte-Centro II" y "Segunda Sala Regional del Norte-Centro II", ambas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
-
-VI. Región del Noreste: Tres Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, y “Tercera Sala Regional del Noreste”, todas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
+VI. Región del Noreste: Tres Salas que se denominarán, "Primera Sala Regional del Noreste", "Segunda Sala Regional del Noreste", y 'Tercera Sala Regional del Noreste", todas con sede en San Pedro Garza García, Nuevo León;
 
 VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
@@ -2842,3 +2840,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 SEGUNDO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Para efectos de la publicación de los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares, en la Revista de este Tribunal, todos los criterios aislados que a la fecha de la entrada en vigor de este Acuerdo se encuentren en trámite en la Secretaría de Acuerdos de Compilación de Tesis, pendientes de publicarse en la Revista de este Tribunal, conservarán la clave que les corresponda conforme a la disposición en la materia, vigente al momento de haber sido aprobadas.
+
+D.O.F. 21 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- A partir del martes diecinueve de noviembre de dos mil trece, el domicilio de la Primera, Segunda y Tercera Salas Regionales del Noreste del Tribunal Federal de Justicia Fiscal y Administrativa, estará ubicado en Montes Apalaches número 101, Colonia Residencial San Agustín, C.P. 66260, Municipio de San Pedro Garza García, en el Estado de Nuevo León.
+
+SEGUNDO.- El inventario de los asuntos que se encuentran radicados en la Primera, Segunda y Tercera Salas Regionales del Noreste y que serán trasladados a la nueva sede de las Salas, se encuentran registrados electrónicamente en el Sistema de Control y Seguimiento de Juicios, en términos del artículo 66 del Reglamento Interior de este Tribunal.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, en la página de internet del Tribunal y en el periódico de mayor circulación en los Estados de Nuevo León y Tamaulipas.
