@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2013-01-01"
+last_updated: "2013-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -7569,19 +7569,15 @@ Son atribuciones de la Fiscalía General del Estado las establecidas en el Códi
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 I. Dirección General de Fomento y Desarrollo Empresarial:
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
-
 a) Dirección de Asistencia Técnica y Vinculación Estatal, y
 
-b) (DEROGADO, D.O. 1 DE ENERO DE 2013)
-
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
-
-c) Dirección de Financiamiento y Cultura Emprendedora.
+b) Dirección de Financiamiento y Cultura Emprendedora.
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -7599,15 +7595,35 @@ a) Dirección de Planeación y Análisis Económico, y
 
 b) Dirección de Innovación y Proyectos Estratégicos.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Dirección de Administración y Finanzas, y
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+IV. Dirección General de Fondo Yucatán:
 
-V. Dirección Jurídica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. (DEROGADA, D.O. 23 DE FEBRERO DE 2009)
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+a) Dirección de Desarrollo Fiduciario, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+b) Dirección de Normatividad Fiduciaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V. Dirección de Administración y Finanzas, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI. Dirección Jurídica.
 
 ###### Artículo 475.
 
@@ -8027,101 +8043,261 @@ V. Coordinar los proyectos y programas del sector estratégico tecnologías de l
 
 VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL D.O. 21 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DIECISIETE FRACCIONES.</small>
+
+> <small>(REFORMADO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 485.
 
-El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
+El Director General de Fondo Yucatán tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar y controlar los procesos administrativos, financieros y operativos de esta Secretaría;
+I. Ser el responsable de la ejecución de las actividades propias para la consecución de los fines del fideicomiso "Fondo Yucatán";
 
-II. Administrar y controlar el ejercicio del presupuesto de esta Secretaría, de acuerdo con la normatividad aplicable;
+II. Administrar e invertir los recursos que integren el patrimonio del fideicomiso "Fondo Yucatán" y destinarlo para impulsar, apoyar, fomentar y promover la participación de los sectores público, privado y social en el desarrollo y ejecución de los programas productivos, industriales, agrícolas, comerciales, sociales, en infraestructura, turísticos, culturales, educativos de comercio, así como de cualquier sector que contribuya al desarrollo integral del estado;
 
-III. Coordinar e integrar el anteproyecto de presupuesto anual de egresos de esta Secretaría y someterlo a consideración del Titular;
+III. Gestionar y obtener recursos y aportaciones para aumentar el patrimonio del fideicomiso "Fondo Yucatán", tales como fideicomisos, fondos de inversión, fondos de capital de riesgo, sistemas de garantía y cualquier otro instrumento financiero que permita cumplir con los objetivos del (sic) proveniente de cualquier organismo, sea público o privado de carácter nacional o extranjero, así como de los 3 niveles de gobierno para apoyar el desarrollo económico del estado;
 
-IV. Coadyuvar en la planeación, programación y presupuestación de los recursos humanos, materiales y financieros requeridos para la operación de las Direcciones Administrativas de esta Secretaría;
+IV. Apoyar, a través del fideicomiso "Fondo Yucatán", a los sectores productivos públicos, privados a nivel municipal, regional o estatal a diseñar y estructurar mecanismos financieros que coadyuven al desarrollo económico;
 
-V. Participar en la integración del programa operativo anual de esta Secretaría;
+V. Contratar servicios de asesoría, consultoría, coordinación y supervisión de estudios de factibilidad, de rentabilidad, y de desarrollo productivo, industrial, agrícola, agroindustrial, comercial, social, de infraestructura, tecnológico, turístico, de desarrollo urbano, educativo, cultural, de comercio exterior tanto de importación como de exportación, y de cualquier otro proyecto que contribuya de manera directa o indirecta al desarrollo de los sectores económico, humano, social y territorial del estado;
 
-VI. Coordinar y cooperar con cada una de la (sic) unidades administrativas, para proponer el mejoramiento y desarrollo de la estructura organizacional de esta Secretaría;
+VI. Crear esquemas de financiamiento que satisfagan de forma eficiente y oportuna la demanda de apoyo por parte de sectores estratégicos de la iniciativa privada, y
 
-VII. Atender y gestionar los requerimientos de personal, materiales y equipo de trabajo, servicios de apoyo y en general de todos aquellos elementos que sean necesarios para el adecuado funcionamiento de las unidades administrativas de esta Secretaría;
+VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-VIII. Administrar y controlar la red interna de informática y comunicación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Propiciar el desarrollo de la tecnología informática y supervisar su mantenimiento;
+> <small>(ADICIONADO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-X. Participar con voz y voto en la integración y operación de los diversos fondos de apoyo económico que se instrumenten en esta Secretaría;
+###### Artículo 485 Bis.
 
-XI. Coordinar la elaboración del Programa Anual de Mantenimiento Preventivo y Correctivo, para la mejor conservación de los bienes muebles e inmuebles de esta Secretaría;
+El Director de Desarrollo Fiduciario tendrá las siguientes facultades y obligaciones:
 
-XII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+I. Determinar la viabilidad financiera de los proyectos presentados por los diversos sectores sociales, privados y públicos, a fin de tramitar su financiamiento;
 
-XIII. Administrar el sistema de control de inventarios de activos fijos de esta Secretaría;
+II. Realizar acciones para obtener recursos financieros de instituciones públicas y privadas, así como de organismos internacionales, enfocadas al apoyo y ejecución de los proyectos y programas que estén a cargo de la Secretaría;
 
-XIV. Proporcionar la información solicitada por los ciudadanos y dar respuesta a través de la Unidad de Acceso a la Información Pública;
+III. Proporcionar la asesoría financiera que sea requerida internamente o por otras dependencias;
 
-XV. Fomentar y gestionar la profesionalización del personal de esta Secretaría;
+IV. Evaluar las alternativas existentes en el mercado financiero para canalizar apoyos a los sectores productivos, industriales, comerciales y de servicios del estado;
 
-XVI. Coordinar la elaboración y actualización de los manuales de organización y de procedimientos de esta Secretaría, y
+V. Ser responsable de las actividades relacionadas con la ingeniería financiera, y poseer información sobre los instrumentos y organismos del mercado financiero; proponer nuevos y mejorados esquemas financieros para la obtención de recursos que permitan la realización de los proyectos, y
 
-XVII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 485 Ter.
+
+El Director de Normatividad Fiduciaria tendrá las siguientes facultades y obligaciones:
+
+l. Celebrar los convenios necesarios para dar validez a los proyectos presentados por los sectores, público, social y privado, que serán financiados por la Secretaría a través del fideicomiso "Fondo Yucatán";
+
+II. Llevar a cabo los trámites jurídicos que avalen la obtención de los recursos financieros de instituciones públicas y privadas, así como de organismos internacionales, enfocadas al apoyo y ejecución de los proyectos y programas a cargo de la Secretaría a través del fideicomiso "Fondo Yucatán", y
+
+III. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 486.
 
-El Director Jurídico tendrá las siguientes facultades y obligaciones:
+El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Procurar y llevar al cabo las gestiones de cobranza por la vía judicial y extrajudicial de los créditos o financiamientos que se otorguen a los sujetos de apoyo de los programas y fondos constituidos, administrados u operados por esta Secretaría, así como aceptar, en caso necesario, los pagos de dichos créditos, ya sea en numerario o en especie y turnarlos al área correspondiente;
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-II. Atender las solicitudes, consultas y cuestionamientos que formulen los interesados acerca de las disposiciones y atribuciones legales de esta Secretaría;
+I. Coordinar y controlar los procesos administrativos, financieros y operativos de esta Secretaría;
 
-III. Coordinar los asuntos jurídicos correspondientes a las unidades administrativas de esta Secretaría con las demás dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-IV. Dictaminar sobre las bajas y sanciones que proceda aplicar al personal de esta Secretaría;
+II. Administrar y controlar el ejercicio del presupuesto de esta Secretaría, de acuerdo con la normatividad aplicable;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Coadyuvar en la implementación de la mejora regulatoria de la Secretaría en el ámbito de su competencia;
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Coordinar e integrar el anteproyecto de presupuesto anual de egresos de esta Secretaría y someterlo a consideración del Titular;
 
-VI. Acordar con el titular de la Secretaría el trámite y resolución de los asuntos de su competencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-VII. Formular y coordinar los dictámenes, opiniones e informes que le sean solicitados por la Secretaría en aquellos asuntos que resulten de su competencia;
+IV. Coadyuvar en la planeación, programación y presupuestación de los recursos humanos, materiales y financieros requeridos para la operación de las Direcciones Administrativas de esta Secretaría;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Contribuir al establecimiento de un marco regulatorio que sustente, garantice y facilite la inversión en las diversas fases de conformidad a su competencia;
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Participar en la integración del programa operativo anual de esta Secretaría;
 
-IX. Proponer al titular de la Secretaría, la celebración de convenios en el ámbito de su competencia, para el mejor ejercicio de sus atribuciones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Coadyuvar dentro de la competencia de esta Secretaría, en la instrumentación de la simplificación administrativa a través de la digitalización de la administración estatal;
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+VI. Coordinar y cooperar con cada una de las unidades administrativas, para proponer el mejoramiento y desarrollo de la estructura organizacional de esta Secretaría;
 
-XI. Coadyuvar en el los asuntos de índole jurídica con las unidades administrativas de esta Secretaria, en la planeación y/o implementación de estrategias o planes para el desarrollo económico del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-XII. Coadyuvar en el proceso de apertura de empresas en el Estado ante cualquier autoridad federal, estatal y municipal en el ámbito de su competencia, y
+VII. Atender y gestionar los requerimientos de personal, materiales y equipo de trabajo, servicios de apoyo y en general de todos aquellos elementos que sean necesarios para el adecuado funcionamiento de las unidades administrativas de esta Secretaría;
 
-XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Administrar y controlar la red interna de informática y comunicación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IX. Propiciar el desarrollo de la tecnología informática y supervisar su mantenimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+X. Participar con voz y voto en la integración y operación de los diversos fondos de apoyo económico que se instrumenten en esta Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XI. Coordinar la elaboración del Programa Anual de Mantenimiento Preventivo y Correctivo, para la mejor conservación de los bienes muebles e inmuebles de esta Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XII. Administrar el sistema de control de inventarios de activos fijos de esta Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Proporcionar la información solicitada por los ciudadanos y dar respuesta a través de la Unidad de Acceso a la Información Pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Fomentar y gestionar la profesionalización del personal de esta Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XV. Coordinar la elaboración y actualización de los manuales de organización y de procedimientos de esta Secretaría, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XVI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 487.
 
-Los directores de esta Secretaría podrán participar en la elaboración y ejecución del Programa Estatal de Desarrollo Administrativo y en las sesiones de los grupos de trabajo del Subcomité de Administración Pública del Consejo Estatal de Planeación de Yucatán.
+El Director Jurídico tendrá las siguientes facultades y obligaciones:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+I. Procurar y llevar al cabo las gestiones de cobranza por la vía judicial y extrajudicial de los créditos o financiamientos que se otorguen a los sujetos de apoyo de los programas y fondos constituidos, administrados u operados por esta Secretaría, así como aceptar, en caso necesario, los pagos de dichos créditos, ya sea en numerario o en especie y turnarlos al área correspondiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+II. Atender las solicitudes, consultas y cuestionamientos que formulen los interesados acerca de las disposiciones y atribuciones legales de esta Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+III. Coordinar los asuntos jurídicos correspondientes a las unidades administrativas de esta Secretaría con las demás dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV. Dictaminar sobre las bajas y sanciones que proceda aplicar al personal de esta Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V. Coadyuvar en la implementación de la mejora regulatoria de la Secretaría en el ámbito de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI. Acordar con el titular de la Secretaría el trámite y resolución de los asuntos de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VII. Formular y coordinar los dictámenes, opiniones e informes que le sean solicitados por la Secretaría en aquellos asuntos que resulten de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Contribuir al establecimiento de un marco regulatorio que sustente, garantice y facilite la inversión en las diversas fases de conformidad a su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IX. Proponer al titular de la Secretaría, la celebración de convenios en el ámbito de su competencia, para el mejor ejercicio de sus atribuciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+X. Coadyuvar dentro de la competencia de esta Secretaría, en la instrumentación de la simplificación administrativa a través de la digitalización de la administración estatal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XI. Coadyuvar en los asuntos de índole jurídica con las unidades administrativas de esta Secretaría, en la planeación o implementación de estrategias o planes para el desarrollo económico del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XII. Coadyuvar en el proceso de apertura de empresas en el Estado ante cualquier autoridad federal, estatal y municipal en el ámbito de su competencia, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 488.
 
-(DEROGADO, D.O. 23 DE FEBRERO DE 2009)
+Los directores de esta Secretaría podrán participar en la elaboración y ejecución del Programa Estatal de Desarrollo Administrativo y en las sesiones de los grupos de trabajo del Subcomité de Administración Pública del Consejo Estatal de Planeación de Yucatán.
 
 ###### Artículo 489.
 
@@ -12882,5 +13058,19 @@ TERCERO. Se otorga un plazo de 120 días naturales contados a partir de la entra
 CUARTO. Las dependencias y entidades de la Administración Pública Estatal, contarán con un plazo de 120 días naturales contados a partir de la entrada en vigor de este Decreto para expedir sus manuales de organización para el debido funcionamiento de las unidades administrativas que integran sus direcciones o unidades administrativas análogas, respectivas.
 
 QUINTO. En tanto se expiden los manuales de organización a que se refiere el artículo transitorio anterior, los titulares de las dependencias y entidades, estarán facultados para resolver las cuestiones relacionadas con las unidades administrativas que integran las direcciones o unidades administrativas análogas, respectivas.
+
+SEXTO. Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 21 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día 1 de enero de 2014 previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción del artículo transitorio segundo que entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO. La Junta de Gobierno del Sistema para el Financiamiento del Desarrollo del Estado de Yucatán, "Fondo Yucatán" (SIFIDEY), dispondrá lo conducente a efecto de extinguir el organismo descentralizado, en los términos del Código de la Administración Pública de Yucatán y su Reglamento.
+
+TERCERO. Se deroga el Decreto Número 18 que crea el organismo público descentralizado denominado Sistema para el Financiamiento del Desarrollo del Estado de Yucatán, "Fondo Yucatán" (SIFIDEY), publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 19 de septiembre del año 2007.
+
+CUARTO. Cuando en las leyes de las dependencias o entidades de la Administración Pública Estatal y sus reglamentos o en otras disposiciones legales vigentes, se haga referencia al Sistema para el Financiamiento del Desarrollo del Estado de Yucatán, "Fondo Yucatán" (SIFIDEY), se entenderá que se refieren, en todos los casos, a la Secretaría de Fomento Económico.
+
+QUINTO. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Sistema para el Financiamiento del Desarrollo del Estado de Yucatán, "Fondo Yucatán" (SIFIDEY), y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por la Secretaría de Fomento Económico, de conformidad con las disposiciones aplicables.
 
 SEXTO. Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
