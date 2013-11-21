@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2007-12-17"
+last_updated: "2013-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE TRANSITO DEL ESTADO DE SONORA
 
-LEY DE TRANSITO DEL ESTADO DE SONORA
+LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -43,19 +43,27 @@ LEY DE TRANSITO DEL ESTADO DE SONORA.
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de interés público y de observancia obligatoria en el Estado de Sonora. Tiene por objeto regular el tránsito de vehículos y establecer las normas a las que se sujetarán sus conductores y ocupantes, así como los peatones.
+La presente Ley es de interés público y de observancia obligatoria en el Estado de Sonora. Tiene por objeto regular y controlar el tránsito de vehículos, peatones y pasajeros, establecer las normas y lineamentos necesarios para garantizar la seguridad de los conductores, ciclistas, peatones, pasajeros y usuarios, definir criterios en el uso de vialidades, así como en la creación de infraestructura.
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
-
-La planeación, ejercicio y supervisión de la función pública de tránsito, son actividades de interés público.
+La planeación, ejercicio y supervisión de la función pública de tránsito, son actividades de interés público prioritarias.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 2o.
 
 Los municipios tendrán a su cargo el ejercicio de la función pública de tránsito municipal, de acuerdo a las bases establecidas en esta Ley y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Las agencias encargadas de la expedición de licencias deberán estar vinculadas con las autoridades de tránsito, con el fin de llevar un mismo registro del historial de usuarios, infracciones y cancelaciones de licencias y cualquier otra información que pueda ser utilizada para el mejoramiento de sus funciones.
 
 ###### ARTICULO 3o.
 
@@ -93,15 +101,17 @@ I.- Organizar y ejercer, en los términos de esta Ley, la función pública de t
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
 
-II. - Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
+II.- Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
 
 > <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-III.- Emitir los manuales de organización, de procedimientos y servicios al público de las Policías de Tránsito Municipales;
+III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Establecer y ejecutar las políticas de vialidad en las zonas urbanas y rurales del municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito.
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Establecer y ejecutar las políticas de vialidad en las zonas urbanas y rurales del municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local, peatonal y de ciclo vías, dando prioridad a la seguridad de los usuarios peatonales y ciclistas, así como las características y normas técnicas respecto a estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito;
 
 V.- (DEROGADA, B.O. 8 DE JULIO DE 2002)
 
@@ -113,21 +123,41 @@ VII.- Establecer el calendario para el revisado de vehículos registrados en su 
 
 VIII.- Organizar los escuadrones de educación vial.
 
-IX.- Dictar las normas conforme a las cuales se establecerán las nomenclaturas de las calzadas, boulevares, avenidas, calles y callejones de su jurisdicción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-X.- Resolver los recursos de inconformidad de la materia.
+IX.- Establecer programas permanentes para la prevención de accidentes y orientación de los conductores sobre la forma adecuada para desplazarse en las vías públicas, garantizando el tránsito seguro de peatones, ciclistas y pasajeros.
 
-XI.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-XII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para el mejor ejercicio de la función pública de tránsito; y
+X.- Dictar las normas conforme a las cuales se establecerán las nomenclaturas de las calzadas, boulevares, avenidas, calles y callejones de su jurisdicción.
 
-> <small>(ADICIONADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII.- Lo demás que ésta y otras disposiciones legales le señalen.
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XI.- Resolver los recursos de inconformidad de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XII.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XIII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para el mejor ejercicio de la función pública de tránsito; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XIV.- Lo demás que ésta y otras disposiciones legales le señalen.
 
 ###### ARTICULO 6o.
 
@@ -203,9 +233,13 @@ Las Policías de Tránsito Municipales podrán, previo acuerdo de los Ayuntamien
 
 ###### ARTICULO 11.
 
-Son de jurisdicción municipal, las vías públicas ubicadas dentro de los límites de las poblaciones y ciudades comprendidas en el territorio del Municipio, así como los caminos y demás vías que no atraviesen los límites de dos o más Municipalidades.
+Son de jurisdicción municipal, las vías públicas ubicadas dentro de los límites de las poblaciones y ciudades comprendidas en el territorio del Municipio, así como los caminos y demás vías que no atreviesen los límites de dos o más Municipalidades.
 
-Sin embargo, los vehículos y sus conductores, y los peatones que usen vías públicas de jurisdicción estatal o federal, estarán sujetos a la vigilancia de las autoridades y agentes de tránsito de los Municipios por los que atraviesen, en cuanto no se opongan a disposiciones federales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Los vehículos y sus conductores, los peatones y ciclistas que usen vías públicas de jurisdicción estatal o federal, estarán sujetos a la vigilancia de las autoridades y agentes de tránsito de los municipios por los que atraviesen, en cuanto no se opongan a disposiciones federales.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 1995)</small>
 
@@ -221,9 +255,13 @@ En caso de duda respecto a la jurisdicción de alguna vía pública, cualquier i
 
 Son vías públicas las calzadas, boulevares, avenidas, calles, callejones, callejones de acceso y sus banquetas; así como los caminos vecinales, brechas, desviaciones, veredas, senderos, sus acotamientos; los puentes que unen a las vías públicas y a las zonas de protección de ambos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 15.
 
-Las vías públicas destinadas al tránsito de vehículos y de peatones, son bienes de dominio público. Su uso es común y no causa retribución alguna, sin más limitaciones que las señaladas en esta Ley y las disposiciones de las autoridades de tránsito dictadas en estricto cumplimiento de sus facultades.
+Las vías públicas destinadas al tránsito de vehículos, de peatones y de ciclistas, son bienes de dominio público. Su uso es común y no causa retribución alguna sin más limitaciones que las señaladas en esta Ley y las disposiciones de las autoridades de tránsito dictadas en estricto cumplimiento de sus facultades.
 
 ###### ARTICULO 16.
 
@@ -255,6 +293,18 @@ IV.- Licencia de motociclista.
 
 V.- Licencia provisional, expedida durante el trámite de licencias definitivas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Permiso de Conducir para menor de edad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Cuando la persona tenga más de una sola licencia, dichas licencias deberán unificarse en un mismo plástico, el cual deberá dejar claro la validez para los tipos de licencia incluidas en él.
+
 ###### ARTICULO 19.
 
 Para obtener la licencia de automovilista a que se refiere la Fracción I del Artículo anterior, se requiere:
@@ -263,13 +313,31 @@ I.- Ser mayor de 18 años.
 
 II.- Llenar la solicitud correspondiente en las formas oficiales impresas.
 
-III.- Certificado médico de su aptitud física y mental para conducir, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Recabar la aprobación de los peritos del Departamento de Tránsito Municipal, en el espacio especialmente destinado para ello en la forma de solicitud.
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-V.- Llenar el tarjetón de identificación con las huellas y datos personales del solicitante.
+III.- Tomar curso teórico-vial, impartido por las autoridades de tránsito competentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Certificado médico, con antigüedad no mayor a 3 meses, de su aptitud física y mental para conducir, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito.
 
 VI.- Anexar el número de fotografías que se le indique.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Las autoridades encargadas de expedir dichas licencias podrán solicitar, nuevamente, cualquiera de los requisitos anteriores para la renovación, según las características del solicitante.
 
 ###### ARTICULO 20.
 
@@ -285,23 +353,79 @@ II.- Llenar la solicitud correspondiente, en la forma oficial impresa.
 
 III.- Aprobar el examen sobre conducción de vehículos de servicio público y el examen escrito de conocimiento de esta Ley ante la Autoridad de Tránsito.
 
-IV.- Carecer de antecedentes personales que revelen peligrosidad social.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Demostrar haber recibido capacitación y adiestramiento en el manejo de vehículos de propulsión automotriz.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Exhibir certificación médica, ya sea de la Dirección de Medicina Preventiva de la Secretaría de Comunicaciones y Transporte o de cualquier otra Institución Médica Oficial, que acredite la aptitud física y mental, para conducir vehículos del servicio público, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
+IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V.- Carecer de antecedentes personales que revelen peligrosidad social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Demostrar haber recibido capacitación y adiestramiento en el manejo de vehículos de propulsión automotriz.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Exhibir certificación médica, ya sea de la Dirección de Medicina Preventiva de la Secretaría de Comunicaciones y Transporte o de cualquier otra Institución Médica Oficial, que acredite la aptitud física y mental, para conducir vehículos del servicio público, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
 
 ###### ARTICULO 22.
 
 Para obtener licencia de motociclista se requiere:
 
-I.- Ser mayor de 16 años. Podrá autorizarse a un menor de esta edad, pero mayor de 14 años, cuando justifique que únicamente utilizará la motocicleta para trasladarse a la escuela, taller o desempeño de su trabajo que haga necesario su uso; además deberá exhibir carta-autorización y responsiva de sus padres o tutor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Demostrar su pericia en el manejo de éstos vehículos y no tener impedimento físico o mental a juicio del Perito de Tránsito que haga el examen.
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+I.- Ser mayor de 18 años. Podrá autorizarse permiso a un menor de esta edad pero mayor de 16 años, cuando justifique que únicamente utilizará la motocicleta para trasladarse a la escuela, taller o desempeño de su trabajo que haga necesario su uso; además, deberá exhibir carta autorización y responsiva de sus padres o tutor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+II.- Demostrar que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+III.- Tomar curso teórico-vial impartido por las autoridades de tránsito competentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito en el que demuestre su pericia en el manejo de estos vehículos y que no tiene impedimento físico o mental; (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Las personas mayores de 16 años y menores de 18, podrán solicitar a la Tesorería General del Estado, por conducto de sus Agencias Fiscales, permiso para manejar automóviles de servicio particular, el cual tendrá vigencia de seis meses.
+Las personas mayores de 16 años y menores 18 años, podrán solicitar a la Secretaría de Hacienda, por conducto de sus agencias fiscales, permiso para manejar automóviles o permiso de motociclista de servicio particular, el cual tendrá vigencia de uno o dos años; cuando la vigencia sea de dos años, el interesado deberá refrendar, sin costo, que cumple con los requisitos establecidos en el artículo 19 de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+El uso de dichos permisos estará limitado en el horario de uso de las 5:00 horas a las 00:00 horas, a menos que:
+
+a) Se demuestre con carta de trabajo y vigencia del Instituto Mexicano del Seguro Social o de cualquier otra institución de seguridad social que por cuestiones de trabajo es necesaria su circulación.
+
+b) Se demuestre que la circulación es necesaria por motivos escolares.
+
+c) Se encuentre atendiendo una emergencia médica propia, de algún pasajero o familiar.
+
+d) Vayan acompañados por persona mayor de 24 años de edad que tenga licencia de automovilista o chofer vigente.
 
 ###### ARTICULO 24.
 
@@ -312,6 +436,18 @@ I.- Presentar solicitud en las formas impresas, firmadas por uno de los padres o
 II.- Cubrir los derechos correspondientes.
 
 III.- Aprobar el examen que determine la autoridad de tránsito. En caso de no aprobarlo, podrá con la misma solicitud y pago presentarlo en dos ocasiones, dentro de un plazo máximo de seis meses.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV.-Tomar curso teórico-vial impartido por las autoridades de tránsito competentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V.- Certificado médico, con antigüedad no mayor a 3 meses que anexe los resultados de las pruebas correspondientes en el que acredite su aptitud física y mental para conducir, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
 
 ###### ARTICULO 25.
 
@@ -371,11 +507,27 @@ X.- Tipo de licencia.
 
 XI.- Especificación de ser donador voluntario o no.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XII.- Especificar si utiliza anteojos, prótesis u otros aparatos que le capaciten para conducir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 31.
 
-Los conductores y operadores de vehículos, deberán portar sus respectivas licencias al momento de conducir un vehículo o al tenerlo bajo su cuidado y responsabilidad en caso de estar estacionado en la vía pública.
+Los conductores y operadores de vehículos deberán portar sus respectivas licencias vigentes al momento de conducir un vehículo o al tenerlo bajo su cuidado y responsabilidad, en caso de estar estacionado en la vía pública.
 
 Las personas que contraten los servicios de un chofer u operador de servicio público, así como los que permitan a otro que conduzca su vehículo, deberán cerciorarse de que tienen en regla su licencia de manejar, bajo responsabilidad ante las autoridades de tránsito correspondientes, del pago de las multas que se les impongan por las infracciones en que incurran.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Para efectos del párrafo anterior, la persona que autorice a otro a que conduzca un vehículo de su propiedad, podrá exigir a este último, el pago de las multas que se le impongan, siempre y cuando sean por causas imputables al conductor.
 
 ###### ARTICULO 32.
 
@@ -385,11 +537,19 @@ Las licencias para conducir expedidas por las autoridades de otros Estados o de 
 
 Los extranjeros que soliciten la expedición de una licencia de las señaladas en el Artículo 18, Fracción I, además de llenar los requisitos exigidos según el caso, deberán comprobar satisfactoriamente su legal estancia en el País.
 
-### CAPITULO II. DE LA SUSPENSION Y CANCELACION DE LICENCIAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+### CAPITULO II. DE LA SUSPENSION Y CANCELACION DE LICENCIAS Y PERMISOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 34.
 
-Las licencias de conducir que hubiere expedido la Tesorería General del Estado, conforme a lo establecido en esta Ley, podrán recogerse, suspenderse o cancelarse en los siguientes casos:
+Las licencias y permisos de conducir que hubiere expedido la Secretaría de Hacienda, conforme a lo establecido en esta Ley, podrán recogerse, suspenderse o cancelarse en los siguientes casos:
 
 I.- Procede la suspensión:
 
@@ -397,13 +557,49 @@ a) Por Resolución Judicial que cause ejecutoria y así lo ordene.
 
 II.- Procede la cancelación:
 
-a) Por haber sido infraccionado el titular de la licencia en más de tres ocasiones en el período de un año por conducir vehículos con exceso de velocidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) Por haber sido infraccionado por conducir vehículos en estado de ebriedad o bajo la influencia de estupefacientes, aún cuando no constituya delito.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-c) Por Resolución Judicial que cause ejecutoria y así lo ordene.
+a).- Por haber sido infraccionado, el titular de la licencia, en más de tres ocasiones en el período de un año, por conducir vehículos con exceso de velocidad.
 
-d) Por habérsele recogido en más de tres ocasiones la licencia, en el período de un año, al encargado de conducir una unidad destinada al servicio público de transporte.
+b).- Por haber sido infraccionado por conducir vehículos en estado de ebriedad o bajo la influencia de estupefacientes, aun cuando no constituya delito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c).- Por infracción a lo dispuesto por el artículo 81 de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+d).- Por transportar bebidas con contenido alcohólico dentro del vehículo, cuando el conductor sea un menor de edad y no se encuentre acompañado de un adulto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+e).- Por participar en competencias de aceleración y velocidad en la vía pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+f).- Por resolución judicial que cause ejecutoria y así lo ordene.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+g).- Por haber sido infraccionado, en más de tres ocasiones, por faltas consideradas como graves, en el período de un año, al encargado de conducir una unidad destinada al servicio público de transporte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+h).- Por reincidir en conducción temeraria.
 
 III.- Procede recoger la licencia de operador de servicio público de transporte, por las causas y en los términos que señala la Ley de Transporte del Estado de Sonora.
 
@@ -411,9 +607,13 @@ III.- Procede recoger la licencia de operador de servicio público de transporte
 
 Al recibirse en la Tesorería General del Estado, el oficio que comunica la Resolución Judicial que ordena la suspensión de la licencia, aquella la boletinará a sus dependencias receptoras y a las autoridades municipales de tránsito, para que procedan de inmediato a ejecutar la Resolución respectiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 36.
 
-Los departamentos de tránsito municipales al tener conocimiento de las causales de cancelación de licencias, lo notificarán al Ayuntamiento respectivo, remitiéndole las infracciones cometidas y actas levantadas. Inmediatamente después, el Ayuntamiento, notificará al titular de las licencias, a fin de que dentro del término de quince días hábiles, manifieste lo que a su derecho convenga, formulando su defensa.
+Los titulares de los departamentos de tránsito municipales tendrán la facultad de solicitar, a la Secretaría de Hacienda, la cancelación de licencias o permisos de conducir, lo cual deberá notificarse al Ayuntamiento respectivo, remitiéndole las infracciones cometidas y actas levantadas. Inmediatamente después, el Ayuntamiento notificará al titular de las licencias, a fin de que dentro del término de quince días hábiles, manifieste lo que a su derecho convenga, formulando su defensa.
 
 Vencido el término señalado en el párrafo anterior, el Ayuntamiento resolverá en definitiva y lo notificará dentro de los cinco días hábiles siguientes al titular de la licencia. Contra esta resolución no procede recurso administrativo alguno.
 
@@ -431,9 +631,13 @@ En caso de que no se entregue la licencia, se hará del conocimiento del Ministe
 
 Cuando se recoja una licencia en los términos del Artículo 34, Fracción III de esta Ley, deberá remitirse inmediatamente al Departamento de Tránsito respectivo para que le sea entregada al conductor una vez que haya liquidado la multa y se registre la infracción para su control y efectos estadísticos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 39.
 
-Salvo el término señalado en la Resolución Judicial respectiva, la Tesorería General del Estado, podrá volver a expedir nueva licencia a las personas a quienes se les haya cancelado conforme a esta Ley, siempre y cuando haya transcurrido cuando menos un año de la cancelación y hayan desaparecido las condiciones que originaron la misma. Al efecto, recabarán la información de la autoridad municipal de tránsito del domicilio del interesado.
+Salvo el término señalado en la resolución judicial respectiva, la Secretaría de Hacienda podrá expedir nueva licencia a las personas a quienes se les haya cancelado conforme a esta Ley, siempre y cuando haya transcurrido, cuando menos, seis meses de la cancelación y hayan desaparecido las condiciones que originaron la misma. Al efecto, recabarán la información de la autoridad municipal de tránsito del domicilio del interesado.
 
 ### CAPITULO III. DE LOS VEHICULOS
 
@@ -585,6 +789,22 @@ V.- Por el número de ejes:
 
 6.- Combinación de camión de 2 y 3 ejes con remolque de 2 ejes
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Por el tipo de propulsión:
+
+a).- De propulsión mecánica.
+
+b).- De propulsión eléctrica.
+
+c).- De propulsión animal.
+
+d).- De propulsión humana
+
+e).- Otros de propulsión sin motor.
+
 #### SECCION II. DE LOS REQUISITOS PARA LA CIRCULACION DE LOS VEHICULOS
 
 ###### ARTICULO 41.
@@ -717,9 +937,13 @@ Luz alta, deberá hacer una distribución de tal modo y de tal intensidad, que b
 
 b).- Los vehículos estarán equipados con un indicador de luces que deberá prenderse siempre que esté en uso la luz alta y permanecer apagado bajo cualquiera otra circunstancia. Este indicador deberá estar de tal manera colocado en el tablero, que sea fácilmente visible por el conductor del vehículo y que no lo deslumbre.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 55.
 
-Los vehículos de bomberos, de policía y tránsito, ambulancias y otros de emergencia autorizados, así como los vehículos destinados al mantenimiento de los servicios urbanos y limpieza de la vía pública, deberán estar provistos de una lámpara cuyo giro sea de 360 grados y que proyecte una luz roja visible a una distancia no menor de 150 metros, bajo la luz solar. La lámpara deberá ir montada en la parte más alta del vehículo.
+Los vehículos de bomberos, de policía y tránsito, ambulancias, protección civil y otros de emergencia autorizados, así como los vehículos destinados al mantenimiento de los servicios urbanos y limpieza de la vía pública, deberán estar provistos de una lámpara cuyo giro sea de 360 grados y que proyecte una luz roja visible a una distancia no menor de 150 metros, bajo la luz solar. La lámpara deberá ir montada en la parte más alta del vehículo.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
@@ -753,7 +977,7 @@ Equipo adicional de lámparas y reflectores obligatorios para determinados vehí
 
 Además del equipo que exigen los artículos anteriores, los vehículos que se mencionan a continuación, deberán estar equipados en la forma que aquí se especifica:
 
-a) Autobuses y camiones de dos metros o más de ancho total:
+a) Autobuses y camiones de 2 metros o más de ancho total:
 
 En el frente, 2 lámparas de gálibo una de cada lado y 3 lámparas de identificación.
 
@@ -779,7 +1003,7 @@ A cada lado, 2 lámparas demarcadoras, una cerca del frente y otra cerca de la p
 
 A cada lado, 2 reflectantes, uno cerca del frente y otro cerca de la parte posterior.
 
-En la parte posterior, 2 reflectantes de gálibo uno a cada lado sobre la carrocería simétrica lo más alejado posible de la línea del centro del vehículo.
+En la parte posterior, 2 reflectantes de gálibo uno a cada lado sobre la carrocería simétricamente lo más alejado posible de la línea del centro del vehículo.
 
 d).- Camiones:
 
@@ -823,7 +1047,7 @@ g).- Cualquier vehículo podrá ir provisto de lámparas que se puedan utilizar 
 
 Cuando las condiciones atmosféricas por la noche sean normales, éstas luces de advertencia deberán ser visibles desde una distancia no menor de 500 metros.
 
-h).- Cualquier vehículo de 2 metros o menos de ancho total puede ir provisto de no más de 3 lámparas de identificación que emitan hacia adelante una luz ámbar que no deslumbre y de no más de 3 lámparas de identificación que emitan una luz roja hacia atrás que no deslumbre como se indica en el Artículo 58, inciso e) de esta Ley.
+h).- Cualquier vehículo de 2 metros o menos de ancho total puede ir provisto de no más de 3 lámparas de identificación que emitan hacia delante una luz ámbar que no deslumbre y de no más de 3 lámparas de identificación que emitan una luz roja hacia atrás que no deslumbre como se indica en el Artículo 58, inciso e) de esta Ley.
 
 ###### ARTICULO 61.
 
@@ -831,7 +1055,7 @@ Dispositivos acústicos y ópticos en vehículos de emergencia.
 
 a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-b).- Además, deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
+b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
 c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
@@ -913,13 +1137,27 @@ Todo vehículo que utilice aire comprimido para el funcionamiento de sus propios
 
 Todo vehículo que utilice vacío para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia que no sea un vacuómetro, fácilmente audible o visible por el conductor que entrará en funcionamiento en todo momento en que el vacío del depósito alimentador del vehículo sea inferior a 20 milímetros de mercurio o su equivalente. Además deberá estar provisto de un vacuómetro visible por el conductor, que indique el vacío en milímetros de mercurio disponible para el frenado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL B.O. 21 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DOS INCISOS.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 67.
 
-Motocicletas y bicicletas:
+Las motocicletas deberán estar provistas de 2 dispositivos de frenado, uno de los cuales deberá actuar, por lo menos, sobre la rueda o las ruedas traseras y el otro, por lo menos, sobre la rueda o de las ruedas delanteras; si se acopla un compartimento para pasajero anexo a una motocicleta no será obligatorio el frenado de la rueda de dicho compartimento anexo. Estos dispositivos de frenado deberán permitir aminorar la marcha de la motocicleta e inmovilizarla de modo seguro, rápido y eficaz, cualquiera que sean las condiciones de carga y la pendiente ascendente o descendente de la vía por la que circula.
 
-a).- Las motocicletas deberán estar provistas de 2 dispositivos de frenado, uno de los cuales deberá actuar por lo menos sobre la rueda o las ruedas traseras y el otro por lo menos sobre la rueda o de las ruedas delanteras; si se acopla un sidecar a una motocicleta, no será obligatorio el frenado de la rueda del sidecar. Estos dispositivos de frenado deberán permitir aminorar la marcha de la motocicleta e inmovilizarla de modo seguro, rápido y eficaz, y cualquiera que sean las condiciones de carga y la pendiente ascendiente o descendiente de la vía por la que circula. Además de los dispositivos previstos en el párrafo anterior, las motocicletas que tengan tres ruedas simétricas con relación al plano longitudinal medio del vehículo, deberán estar provistas de un freno de estacionamiento que reúna las condiciones especificadas en el inciso siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) Toda bicicleta de 2 o 3 ruedas
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Además de los dispositivos previstos en el párrafo anterior, las motocicletas que tengan tres ruedas simétricas con relación al plano longitudinal medio del vehículo, deberán estar provistas de un freno de estacionamiento que reúna las condiciones especificadas en el supuesto final del párrafo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 67 BIS.- Toda bicicleta de 2 o 3 ruedas que transite por la vía pública, deberá estar provista de frenos que actúen en forma mecánica e independiente sobre la rueda o ruedas delanteras y sobre la rueda o ruedas traseras que permitan aminorar la marcha de la bicicleta e inmovilizarla de modo seguro, rápido y eficaz. Deberán conservarse en buen estado de funcionamiento, procurando que su acción sea la más uniforme posible sobre todas las ruedas.
 
 #### SECCION IV. OTROS DISPOSITIVOS
 
@@ -933,11 +1171,19 @@ Está permitido, pero no es obligatorio, que cualquier vehículo esté provisto 
 
 Los vehículos considerados como de emergencia, además de la bocina a que alude este Artículo, podrán estar provistos de una sirena capaz de emitir una señal acústica audible a una distancia de 60 metros o más.
 
-Queda prohibida la instalación y uso de sirenas en cualquier otra clase de vehículos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Queda prohibido el uso de sirenas o luces de estroboscopio en cualquier otra clase de vehículos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 69.
 
-Los automóviles deberán estar provistos de cinturones de seguridad, cuando menos en los asientos delanteros. Los conductores con limitaciones físicas o parapléjicos deberán portar una señal especialmente visible, consistente en el símbolo de la silueta de la silla de ruedas blanca con fondo negro en su vehículo para identificación.
+Los automóviles deberán estar provistos de cinturones de seguridad para el conductor y cada uno de los pasajeros de acuerdo a la capacidad del modelo de fabricación. Los conductores con limitaciones físicas deberán portar una señal especialmente visible, consistente en el símbolo de la silueta de la silla de ruedas blanca con fondo azul en su vehículo para identificación.
 
 ###### ARTICULO 70.
 
@@ -967,7 +1213,11 @@ Cristales:
 
 Los parabrisas tienen que estar libres de obstrucciones y provistos de limpiadores.
 
-Nadie conducirá ningún vehículo de motor que tenga puestos en el parabrisas delantero, las ventanillas laterales de aleta, ni en las ventanas laterales y posteriores del vehículo, algún rotulo, cartel u otro material opaco que obstruya la clara visión del conductor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Nadie conducirá ningún vehículo de motor que tenga puestos en el parabrisas, algún rótulo, cartel u otro material opaco, esto con el fin de que no se obstruya la clara visión del conductor.
 
 El parabrisas de todo vehículo de motor deberá estar provisto de un dispositivo que limpie la lluvia, la nieve u otra humedad; dispositivo que deberá estar construido de modo que lo haga funcionar el conductor del vehículo, desde su interior.
 
@@ -1037,13 +1287,21 @@ Queda prohibido a los conductores de vehículos entorpecer la marcha de columnas
 
 Se prohibe aprovisionar de combustible a un vehículo con el motor en marcha. Los vehículos de transporte colectivo de personas no deberán ser aprovisionados de combustible con pasajeros a bordo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 80.
 
-Ningún vehículo debe llevar personas a bordo cuando sea transportado por una embarcación u otro medio. Tampoco deberá llevarla cuando sea remolcado por un vehículo de salvamento.
+Ningún vehículo debe llevar personas a bordo cuando sea transportado por una embarcación u otro medio. Tampoco deberá llevarlas cuando éste sea remolcado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 81.
 
-Se prohibe a toda persona conducir un vehículo en estado de ebriedad o bajo la acción de drogas o sustancias que disminuyan su aptitud para conducir, aún cuando por prescripción médica esté autorizada para usarlas. Se considera que una persona se encuentra en estado de ebriedad, cuando tenga 0.80% o más de contenido alcohólico en su sangre.
+Se prohíbe a toda persona conducir un vehículo bajo los efectos del alcohol en límites mayores a lo establecido por este artículo o bajo la acción de drogas o sustancias que disminuyan su aptitud para conducir, aun cuando por prescripción médica esté autorizada para usarlas. Se considera que una persona se encuentra limitada en su capacidad para conducir un vehículo, cuando tenga 0.40 de gramos de alcohol/litros de contenido alcohólico en su sangre o 0.040 gramos de alcohol/210 litros de aire espirado, o las equivalencias de ambas medidas, o cuando así lo determine la práctica de un examen médico en el que se establezca la disminución o afectación de sus facultades psicomotoras, realizado por el médico competente quien podrá, para tal efecto, apoyarse en las herramientas de diagnóstico que considere necesarias.
 
 ###### ARTICULO 82.
 
@@ -1065,13 +1323,51 @@ Ningún vehículo deberá pasar sobre una manguera contra incendios carente de p
 
 Ningún conductor deberá estacionarse sobre la carretera, sin instalar señales preventivas, ni cerca de una curva, donde no sea visible a una distancia que proporcione seguridad para frenar el conductor de otro vehículo. Tampoco se estacionará en los tramos llamados "columpios".
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 87.
 
-Ninguna persona conducirá un vehículo por una vía pública, a velocidad mayor de la autorizada con excepción de los vehículos de emergencia.
+Ninguna persona conducirá un vehículo por una vía pública, a velocidad mayor de la autorizada, con excepción de los vehículos de emergencia. La velocidad se determinará por medio de los dispositivos de medición, tales como radar, el marcador de velocidad de la unidad oficial o cualquier otro instrumento de precisión que sea destinado para tal efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 88.
 
-Los límites máximos de velocidad cuando no haya señales indicadoras, serán los siguientes: de 30 kilómetros por hora en zonas urbanas, y de 80 kilómetros por hora fuera de los perímetros urbanos.
+Los límites máximos de velocidad cuando no haya señales indicadoras serán los siguientes:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+I.- 60 kilómetros por hora en bulevares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+II.- 45 kilómetros por hora en pares viales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+III.- 30 kilómetros por hora en calles o avenidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+IV.- 20 kilómetros por hora en zonas escolares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V.- 80 kilómetros por hora en zonas fuera de los perímetros urbanos.
 
 ###### ARTICULO 89.
 
@@ -1175,6 +1471,34 @@ Ninguna persona que conduzca un vehículo deberá hacerlo negligente o temeraria
 
 Se prohibe la circulación de vehículos, en la noche, a aquellos que por sus características y dimensiones ocupen mayor espacio del establecido para el carril de circulación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 107 BIS.- Para efectos del artículo anterior se considera:
+
+I. Conducción temeraria:
+
+a. Conducir a exceso de velocidad en una zona escolar.
+
+b. Conducir duplicando el límite de velocidad establecido.
+
+c. Cometer dos o más infracciones consideradas como graves, vinculadas a un mismo acto.
+
+d. Conducir un vehículo de servicio público de transporte, de carga o pasaje, presentando cualquier porcentaje de alcohol en sangre o aire espirado.
+
+II. Conducción negligente:
+
+a. Conducir de noche sin luces funcionales.
+
+b. Conducir sin luces posteriores de frenado funcionales.
+
+c. Transportar personas en la parte exterior de la carrocería.
+
+d. Trasportar a menores de seis años, contraviniendo lo dispuesto en el tercer párrafo del artículo 108 de la presente ley.
+
+e. Conducir realizando acciones que impliquen simultáneamente la utilización de una mano y provoquen distracción visual.
+
 ###### ARTICULO 108.
 
 Ninguna persona conducirá un vehículo de motor sin llevar asido firmemente con ambas manos el control de dirección, ni llevará a su izquierda o entre sus brazos ninguna persona o bulto, ni permitirá que otra persona tome el control de dirección o dificulte esta maniobra.
@@ -1183,13 +1507,17 @@ Ninguna persona conducirá un vehículo de motor sin llevar asido firmemente con
 
 Es obligatorio para todo conductor, así como para sus acompañantes, utilizar el cinturón de seguridad a que se refiere el artículo 69 de esta Ley, cuando el vehículo esté en marcha.
 
-> <small>(ADICIONADO, B.O. 8 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los menores de 6 años de edad deberán viajar preferentemente en el asiento trasero del vehículo y en un asiento de seguridad para niños, debiendo sujetarlos con el cinturón de seguridad para adultos, siguiendo las instrucciones del fabricante del vehículo y del asiento de seguridad señaladas para ese efecto.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2002)</small>
+Los menores de seis años de edad deberán viajar, obligatoriamente, en el asiento trasero del vehículo y en un asiento de seguridad para niños, debiendo sujetarlos con el cinturón de seguridad para adultos, siguiendo las instrucciones del fabricante del vehículo y del asiento de seguridad señaladas para ese efecto, según las posibilidades del vehículo.
 
-Queda prohibido a los conductores hacer uso de teléfonos celulares mientras se conduce un vehículo de motor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Queda prohibido a los conductores hacer uso de teléfonos celulares, dispositivos de comunicación, computadoras, o cualquier otro artículo que distraiga o dificulte la maniobrabilidad del vehículo.
 
 ###### ARTICULO 109.
 
@@ -1213,57 +1541,143 @@ Solamente se dará marcha atrás en un espacho (sic) no mayor de diez metros, cu
 
 Queda prohibido realizar estas maniobras en las bocacalles.
 
-#### SECCION III. CONDUCCION DE BICICLETAS Y MOTOCICLETAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN IlI. CONDUCCIÓN DE BICICLETAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 114.
 
-Todo conductor de bicicleta y motocicleta tiene los mismos derechos y está sujeto a las mismas obligaciones que para los conductores de vehículos de motor señala esta ley, excepto las que por su naturaleza no le sean aplicables.
+Todo conductor de bicicleta tiene los mismos derechos y está sujeto a las mismas obligaciones que para los conductores de vehículos de motor señala esta Ley, excepto las que por su naturaleza no le sean aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 115.
 
-Queda prohibida la conducción de bicicletas en la vía pública a menores de 12 años de edad y la conducción de motocicletas a menores de 14 años.
+Queda prohibida la conducción de bicicletas en la vía pública a menores de 12 años de edad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Se exceptúan de lo anterior, aquellas calles, avenidas, callejones y demás vías que se encuentren dentro de cerradas residenciales, fraccionamientos o vías de circulación controlada, entendiéndose por estas últimas, aquellas cuya velocidad máxima de circulación sea de 20 kilómetros por hora, siempre que los menores se encuentren acompañados de un adulto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 116.
 
-Quien conduzca una bicicleta o motocicleta deberá ir debidamente colocado en un asiento sujeto a la estructura y diseñado para tal fin, viendo hacia delante con una pierna en cada uno de los lados del vehículo y manteniendo ambas manos sujetando el manubrio.
+Toda persona que conduzca una bicicleta deberá utilizar casco de seguridad y deberá viajar sentado, viendo hacia adelante con una pierna en cada uno de los lados del vehículo y manteniendo ambas manos sujetando el manubrio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 117.
 
-En las bicicletas y motocicletas podrán viajar únicamente el número de personas que ocupen asientos especialmente acondicionados para tal objeto, ya sea en la parte posterior o lateral del conductor, según conste en la Tarjeta de Circulación.
+En las bicicletas podrán viajar únicamente el número de personas para las cuales se encuentren diseñadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 118.
 
-Toda persona que conduzca bicicletas o motocicletas deberán mantenerse en el carril de la extrema derecha de la vía y procederá con el debido cuidado al pasar a un vehículo estacionado. No deberá transitar al lado de otra bicicleta o motocicleta, ni sobre las aceras.
+Toda persona que conduzca bicicletas deberá mantenerse en el carril de la extrema derecha de la vía y procederá, con el debido cuidado, al pasar a un vehículo estacionado.
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL B.O. 21 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE TRES FRACCIONES.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 119.
 
-Quien conduzca motocicleta, está facultado para el uso de un carril de circulación y todo conductor de un vehículo de motor de 4 o más ruedas no podrá conducir éste de tal manera, que prive de una parte del uso total de un carril al conductor de una motocicleta:
+Toda persona que conduzca bicicletas podrá libremente dar vuelta a la derecha para incorporarse a otra vía con la debida precaución pero cuando el conductor requiera girar a la izquierda, deberá cruzar como peatón por la demarcación correspondiente, siguiendo los señalamientos peatonales correspondientes.
 
-I.- Más de una motocicleta no deberán ser conducidas en el mismo carril de circulación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- El conductor de una motocicleta, no deberá adelantar por el mismo carril ocupado por el vehículo que va a ser adelantado.
-
-III.- Toda persona que conduzca una motocicleta así como sus acompañantes, estarán obligados a usar casco protector, así como de parabrisa o anteojos protectores o algún dispositivo similar.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 120.
 
-Ninguna persona que conduzca una bicicleta o motocicleta, deberá asirse o sujetar la bicicleta o motocicleta a ningún otro vehículo que transite en la vía pública.
+Ninguna persona que conduzca una bicicleta deberá asirse o sujetarse de bicicleta, vehículo automotor o ningún otro vehículo que transite en la vía pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 121.
 
 Ninguna persona deberá conducir una bicicleta entre los carriles de tránsito y entre hileras adyacentes de vehículos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 122.
 
-Ninguna persona que conduzca una bicicleta o motocicleta, podrá llevar carga de cualquier naturaleza, la cual sólo podrá ser transportada cuando el vehículo esté especialmente acondicionado para ello y no se afecte su estabilidad, ni la visibilidad del conductor.
+Ninguna persona que conduzca una bicicleta podrá llevar carga de cualquier naturaleza, a menos que el vehículo esté especialmente acondicionado para ello y no se afecte su estabilidad ni la visibilidad del conductor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 123.
 
-Cuando exista una pista especial para bicicletas los ciclistas estarán obligados a transitar exclusivamente por esta vía.
+Cuando exista una pista especial para bicicletas, sea ésta una ciclo vía o una ciclo pista, los ciclistas estarán obligados a transitar exclusivamente por ésta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCION III BIS. CONDUCCIÓN DE MOTOCICLETAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 123 BIS.- Todo conductor de motocicleta tiene los mismos derechos y está sujeto a las mismas obligaciones que para los demás conductores de vehículos de motor señala esta Ley, excepto las que por su naturaleza no le sean aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 123 BIS 1.- Quien conduzca una motocicleta deberá ir debidamente sentado en un asiento sujeto a la estructura y diseñado para tal fin, viendo hacia adelante y manteniendo ambas manos sujetando el manubrio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 123 BIS 2.- En las motocicletas podrán viajar únicamente el número de personas que ocupen asientos especialmente acondicionados para tal objeto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 123 BIS 3.- Ninguna persona que conduzca una motocicleta podrá llevar carga de cualquier naturaleza si ésta no es transportada en lugar especialmente acondicionado para ello y no se afecte su estabilidad ni la visibilidad del conductor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 123 BIS 4.- Ninguna persona que conduzca una motocicleta deberá asirse o sujetarse de bicicleta, vehículo automotor o ningún otro vehículo que transite en la vía pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 123 BIS 5.- Toda persona que conduzca una motocicleta, así como sus acompañantes, están obligados a usar casco protector que cumpla con los requerimientos de seguridad para su conducción, así como de parabrisas o anteojos protectores o algún dispositivo similar.
 
 #### SECCION IV. CONSERVACION DE DISTANCIAS Y CARRILES
-
-#### SECCION V. CIRCULACION POR LA DERECHA
 
 ###### ARTICULO 124.
 
@@ -1293,7 +1707,7 @@ Los conductores que vayan a entrar a una vía principal, deberán tomar el carri
 
 En las vías de acceso controlados, se prohibe la entrada y salida de vehículos fuera de los lugares expresamente designados para ello.
 
-#### SECCION VI. OBLIGACION DE CEDER EL PASO
+#### SECCION V. CIRCULACION POR LA DERECHA
 
 ###### ARTICULO 129.
 
@@ -1306,6 +1720,12 @@ II.- Cuando la vía no tenga el ancho suficiente para dos carriles.
 III.- Cuando la mitad derecha estuviere obstruida y fuere necesario transitar por la izquierda del centro de la vía. En este caso los conductores deberán ceder el paso a los vehículos que se acerquen en sentido opuesto.
 
 IV.- Cuando la vía sea para el tránsito en un solo sentido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 129 BIS.- Queda prohibido transitar en sentido opuesto a la circulación establecida, excepto para la realización de maniobras de rebase en los lugares permitidos para tal efecto.
 
 ###### ARTICULO 130.
 
@@ -1329,11 +1749,15 @@ Cuando la superficie de rodamiento de una vía, esté dividida longitudinalmente
 
 Para transitar en derredor de una plataforma circular, los vehículos deberán ser conducidos dejando a la izquierda el centro de la misma.
 
-#### SECCION VII. REDUCCION DE VELOCIDAD Y CAMBIO DE DIRECCION
+#### SECCION VI. OBLIGACION DE CEDER EL PASO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 134.
 
-En intersecciones o zonas marcadas de paso de peatones, donde no haya semáforos ni Agentes que regulen la circulación, los conductores cederán el paso a los peatones que se encuentren sobre la parte de la superficie de rodamiento correspondiente al sentido de circulación del vehículo. En vías de doble circulación, donde no haya refugio central para peatones, también deberán ceder el paso a los que se aproximen provenientemente de la parte de la superficie de rodamiento correspondiente al sentido opuesto.
+En intersecciones o zonas marcadas de paso de peatones, donde no haya semáforos ni agentes que regulen la circulación, los conductores cederán el paso a los peatones y ciclistas que se encuentren sobre la parte de la superficie de rodamiento correspondiente al sentido de circulación del vehículo. En vías de doble circulación, donde no haya refugio central para peatones o vuelta demarcada para bicicletas, también deberán ceder el paso a los que se aproximen provenientes de la parte de la superficie de rodamiento correspondiente al sentido opuesto.
 
 ###### ARTICULO 135.
 
@@ -1341,9 +1765,13 @@ Las intersecciones con calles transversales de calles laterales de avanidas (sic
 
 En consecuencia, las calles laterales no tendrán preferencia de paso sobre las calles transversales por el solo hecho de formar parte de una arteria más importante. Para determinar la preferencia de paso entre estas calles laterales y las transversales, se aplicarán las normas establecidas en esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 136.
 
-El vehículo que se aproxime en forma simultánea con otros procedentes de diferentes vías a un crucero sin señalamiento, deberá ceder el paso al que circule por su lado derecho.
+El vehículo que se aproxime, en forma simultánea con otros procedentes de diferentes vías, a un crucero sin señalamiento o cuando todos tengan señalamiento de alto, deberá ceder el paso al que circule por su lado derecho.
 
 ###### ARTICULO 137.
 
@@ -1359,7 +1787,7 @@ El conductor que tenga que cruzar la acera para entrar o salir de una cochera, e
 
 Tienen preferencia de paso los vehículos que se desplazan sobre rieles respecto de los demás.
 
-#### SECCION VIII. EMPLEO DE LAS LUCES
+#### SECCION VII. REDUCCION DE VELOCIDAD Y CAMBIO DE DIRECCION
 
 ###### ARTICULO 140.
 
@@ -1405,7 +1833,7 @@ Se hará la aproximación tomando el extremo del carril izquierdo adyacente a la
 
 d).- Una vía de doble sentido a otra de un solo sentido:
 
-La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a (sic) izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
+La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
 
 e).- Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección.
 
@@ -1415,7 +1843,7 @@ Ningún conductor deberá dar vuelta en "U" para colocarse en sentido opuesto a 
 
 No se permitirá la vuelta en "U" en las arterias de tráfico intensivo.
 
-#### SECCION IX. LIMITE DE VELOCIDADES
+#### SECCION VIII. EMPLEO DE LAS LUCES
 
 ###### ARTICULO 144.
 
@@ -1461,7 +1889,7 @@ Las luces direccionales se emplearán para indicar cambios de dirección como se
 
 El empleo de luces direccionales deberá efectuarse a media cuadra antes de llegar a la intersección.
 
-#### SECCION X. REBASAR
+#### SECCION IX. LIMITE DE VELOCIDADES
 
 ###### ARTICULO 146.
 
@@ -1475,13 +1903,13 @@ Los Ayuntamientos podrán modificar los límites máximos de velocidad que seña
 
 ###### ARTICULO 148.
 
-En todo caso, cuando un vehículo sea conducido en una vía a velocidad más lenta que la normal de tránsito, deberá circular por su extrema derecha, excepto cuando esté preparándose para dar vuelta a la izquierda.
+En todo caso, cuando un vehículo sea conducido en una vía la velocidad más lenta que la normal de tránsito, deberá circular por su extrema derecha, excepto cuando esté preparándose para dar vuelta a la izquierda.
 
 ###### ARTICULO 149.
 
 En pendiente descendiente, se deberá controlar la velocidad con el motor, evitando transitar con la caja de velocidades en punto neutral o con el pedal de embrague oprimido.
 
-#### SECCION XI. ESTACIONAMIENTO
+#### SECCION X. REBASAR
 
 ###### ARTICULO 150.
 
@@ -1529,7 +1957,7 @@ Queda prohibido rebasar vehículos por el acotamiento, así como por el carril d
 
 No será considerado como rebase, cuando cubiertos todos los carriles de circulación, los vehículos de una fila transiten más de prisa que los de otra.
 
-#### SECCION XII. VEHICULOS DE EMERGENCIA
+#### SECCION XI. ESTACIONAMIENTO
 
 ###### ARTICULO 157.
 
@@ -1545,7 +1973,11 @@ I.- El vehículo deberá quedar orientado en el sentido de circulación, con las
 
 Si el vehículo pesa más de 3,500 kilogramos deberá calzarse con cuñas.
 
-II.- Cuando el conductor se retire del vehículo apagará el encendido del motor, recogerá la llave, aplicará el freno de estacionamiento y cerrará las puertas con llave.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+II.- Cuando el conductor se retire del vehículo, apagará el encendido del motor, recogerá la llave, aplicará el freno de estacionamiento, cerrará las puertas con llave y no dejará sin supervisión de un adulto, a personas menores de 8 años de edad o personas con limitaciones en sus capacidades mentales en el interior del vehículo ni animales.
 
 ###### ARTICULO 158.
 
@@ -1587,7 +2019,7 @@ III.- Frente a una entrada de vehículos.
 
 IV.- Entre una zona de seguridad y la acera adyacente o a menos de 10.00 metros atrás o adelante de ese lugar.
 
-V.- A menos de 5.00 metros atrás o adelante de un hidrante.
+V.- A menos de 5.00 metros atrás o delante de un hidrante.
 
 VI.- A menos de 5.00 metros de la entrada de una estación de bomberos o en la orilla opuesta a menos de 25.00 metros.
 
@@ -1620,6 +2052,12 @@ XIX.- Frente a las puertas de escuelas, hospitales, hoteles, centros de espectá
 XX.- Sobre los carriles de las vías públicas que conforme a las políticas de vialidad dictadas en los términos de la Fracción IV del Artículo 4o. de esta Ley sean consideradas como rápidas.
 
 XXI.- En las calles de un solo sentido, salvo cuando el Ayuntamiento, conforme a las políticas de vialidad, lo autorice.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+XXII.- En zonas exclusivas para personas con algún tipo de discapacidad.
 
 ###### ARTICULO 163.
 
@@ -1667,7 +2105,7 @@ Ningún conductor deberá demorarse innecesariamente al cruzar la vía férrea. 
 
 Para pasar un cruce de ferrocarril con un tractor de orugas, para mecánica, grúa, aplanadora, equipos o estructuras, que tenga una velocidad normal de operación menor de 15 km/h o un claro inferior de rodada menor de 22 Cms., el conductor deberá, además de tomar las precauciones a que se refiere el Artículo anterior, solicitar autorización del jefe de la Estación más próxima de ferrocarril a fin de que se tomen las medidas de protección apropiadas para el cruzamiento.
 
-#### SECCION I. DISPOSICIONES PRELIMINARES
+#### SECCION XII. VEHICULOS DE EMERGENCIA
 
 ###### ARTICULO 171.
 
@@ -1680,6 +2118,12 @@ II.- Pasarse la luz roja de los semáforos o señales de alto, pero tomando la p
 III.- Exceder los límites de velocidad.
 
 IV.- Desatender las indicaciones relativas a las vueltas en determinada dirección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+V.- Hacer uso de instrumentos de comunicación al conducir.
 
 ###### ARTICULO 172.
 
@@ -1713,9 +2157,13 @@ Los peatones deberán cumplir las disposiciones de esta Ley, las indicaciones de
 
 Los peatones transitarán por las aceras de las vías públicas y sobre las zonas destinadas para este objeto, evitando interrumpir u obstruir en cualquier forma la fluidez del tránsito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 179.
 
-Queda prohibido jugar en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, así como transitar por éstas en patines, triciclos u otros vehículos.
+Queda prohibido jugar en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, salvo en los lugares establecidos en el segundo párrafo del artículo 115 de esta ley.
 
 ###### ARTICULO 180.
 
@@ -1735,9 +2183,19 @@ Ningún peatón cruzará la intersección diagonalmente, excepto en los casos en
 
 Entre dos intersecciones contiguas controladas con semáforos, los peatones sólo cruzarán la calle en las zonas de paso marcadas para el efecto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 183.
 
-Los peatones deberán tomar todas las precauciones al cruzar una vía y no irrumpirán intempestivamente sobre la superficie de rodamiento.
+Los peatones deberán tomar todas las precauciones al cruzar una vía y no irrumpirán, intempestivamente, la superficie de rodamiento, buscando evitar accidentes de tránsito en todo momento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Los peatones que se encuentren involucrados en un accidente de tránsito por no tomar las medidas preventivas serán responsables por los daños materiales y lesiones ocasionados.
 
 ###### ARTICULO 184.
 
@@ -1757,9 +2215,13 @@ Los peatones que no se encuentren en completo uso de sus facultades y los menore
 
 Las personas con discapacidad que se desplacen en sillas de ruedas u otros medios especiales, no deberán transitar en la vía pública a mayor velocidad que la de marcha normal de los peatones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 188.
 
-Ninguna persona debe ofrecer mercancías o servicios a los ocupantes de los vehículos, repartirles propaganda o solicitarles ayuda económica; solicitar transportación en vehículos que no sean de servicio público autorizado, no ofrecerse para cuidar vehículos.
+Ninguna persona debe ofrecer mercancías o servicios a los ocupantes de los vehículos, repartirles propaganda o solicitarles ayuda económica o solicitar transportación en vehículos que no sean de servicio público autorizado ni ofrecerse para cuidar o realizar labores de limpieza en la vía pública.
 
 ###### ARTICULO 189.
 
@@ -1773,13 +2235,19 @@ Ninguna persona deberá ocupar un remolque mientras se encuentre en movimiento, 
 
 Se prohibe a los pasajeros ascender o descender de vehículos en movimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 192.
 
-Los pasajeros deberán viajar en el interior de los vehículos absteniéndose de hacerlo en salpicaderas, estribos, plataformas o cualquier parte externa de los mismos. Tampoco lo harán de manera que alguna parte del cuerpo del pasajero sobresalga del vehículo y pueda ser lesionado.
+Los pasajeros deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas, quemacocos, techo, cofre ó cualquier parte externa de los mismos.
+
+Tampoco lo harán de manera que alguna parte del cuerpo del pasajero sobresalga del vehículo y pueda ser lesionado.
 
 ### CAPITULO VII. INDICACIONES Y DISPOSITIVOS PARA EL CONTROL DEL TRANSITO
 
-#### SECCION II. ADEMANES DE LA POLICIA
+#### SECCION I. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 193.
 
@@ -1789,7 +2257,7 @@ Las indicaciones y dispositivos a que se refiere este Capítulo deberán de suje
 
 Queda prohibida la colocación de placas, carteles, marcas o instalaciones que puedan confundirse con las señales o dispositivos destinados a regular la circulación o que reduzcan la visibilidad o la eficiencia de los mismos, deslumbren a los usuarios de la vía pública o distraiga su atención implicando un riesgo.
 
-#### SECCION III. SEÑALES
+#### SECCION II. ADEMANES DE LA POLICIA
 
 ###### ARTICULO 195.
 
@@ -1821,7 +2289,7 @@ V.- Cuando el policía levante el brazo derecho en posición vertical:
 
 a) Indica a los conductores y peatones una situación de emergencia, motivada por la aproximación de vehículos de emergencia o algún otro servicio especial y que por lo tanto, deben despejar la vía e impedir su cruce.
 
-VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO, un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
+VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en las siguientes formas: ALTO. un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
 
 ###### ARTICULO 196.
 
@@ -1833,7 +2301,7 @@ a).- Con movimiento pendular por el frente del policía indica Alto a los vehíc
 
 b).- La lámpara sostenida con el brazo extendido hacia ella, en posición fija es indicación preventiva.
 
-#### SECCION IV. MARCAS
+#### SECCION III. SEÑALES
 
 ###### ARTICULO 197.
 
@@ -1855,7 +2323,11 @@ b) La señal de "CEDA EL PASO" tiene forma de triángulo equilátero, con un vé
 
 El conductor que se aproxime a una señal de "CEDA EL PASO", deberá disminuir la velocidad o detenerse, si es necesario, para ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
 
-c) Señal indicativa de ciegos y parapléjicos en lugares de intenso tráfico y en áreas al acceso a zonas comerciales, consistentes en señal de fondo negro y siluetas blancas, de bastón y sillas de ruedas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c) Señal indicativa de zona exclusiva para personas con algún tipo de discapacidad, consistente en señal de fondo azul y silueta blanca.
 
 III.- SEÑALES INFORMATIVAS.- Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles o caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias. Entre otras, Tabla número 3. Se dividen en cuatro grupos:
 
@@ -2103,7 +2575,7 @@ SI-40 La señal MONUMENTO COLONIAL se usará para informar al usuario la existen
 
 SI-41 La señal CAMPAMENTO se usará para informar a los excursionistas la existencia de éste servicio.
 
-#### SECCION V. ISLETAS
+#### SECCION IV. MARCAS
 
 ###### ARTICULO 199.
 
@@ -2129,11 +2601,29 @@ g) Rayas para estacionamiento. Delimitan los espacios donde es permitido el esta
 
 II.- Marcas en guarniciones.
 
-Guarniciones pintadas de rojo. Indican estacionamiento prohibido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Guarniciones pintadas de amarillo. Indican estacionamiento exclusivo.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
 
-Guarniciones pintadas de blanco o sin pintar, indican estacionamiento permitido.
+a) Guarniciones pintadas de rojo: Indican estacionamiento prohibido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+b) Guarniciones pintadas de amarillo: Indican estacionamiento exclusivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c) Guarniciones pintadas de blanco o sin pintar: Indican estacionamiento permitido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+d) Guarniciones pintadas de azul: Indican estacionamiento exclusivo para personas con algún tipo de discapacidad.
 
 III.- Letras y símbolos.
 
@@ -2147,25 +2637,25 @@ a) Indicadores de peligro. Advierten a los conductores la presencia de obstácul
 
 b) Indicadores de alineamiento o fantasmas. Son postes cortos de color blanco y material reflectante. Delinean la orilla de los acotamientos.
 
-#### SECCION VI. VIBRADORES
+#### SECCION V. ISLETAS
 
 ###### ARTICULO 200.
 
 Las isletas son superficies ubicadas en las intersecciones de las vías de circulación o en sus inmediaciones, delimitadas por guarniciones, grapas, rayas u otros materiales que sirven para canalizar el tránsito o como refugio de peatones. Los vehículos no deben invadir las isletas ni sus marcas de aproximación.
 
-#### SECCION VII. GUIAS Y ESCALAS PARA VADOS
+#### SECCION VI. VIBRADORES
 
 ###### ARTICULO 201.
 
 Los vibradores son acanalamientos transversales al eje de la vía. Advierten la proximidad de un peligro y los conductores deben disminuir la velocidad y extremar sus precauciones al cruzarlos.
 
-#### SECCION VIII. DISPOSITIVOS TRANSITORIOS CON MOTIVO DE OBRAS
+#### SECCION VII. GUIAS Y ESCALAS PARA VADOS
 
 ###### ARTICULO 202.
 
 Las guías son tubos verticales colocados a ambos lados de los vados y a todo lo largo de los mismos para delimitar su anchura. Antes de cruzarlos debe el conductor observar las escalas de profundidad, fijadas en algunas guías.
 
-#### SECCION IX. SEMAFOROS
+#### SECCION VIII. DISPOSITIVOS TRANSITORIOS CON MOTIVO DE OBRAS
 
 ###### ARTICULO 203.
 
@@ -2181,7 +2671,7 @@ a) SEÑAL DE ALTO.- La bandera sostenida en posición fija con el brazo horizont
 
 b) SIGA CON PRECAUCION.- La bandera sostenida en posición fija con el brazo extendido hacia abajo y moviendo el otro brazo en el sentido de la circulación.
 
-#### SECCION X. SEÑALES EN VEHICULOS
+#### SECCION IX. SEMAFOROS
 
 ###### ARTICULO 205.
 
@@ -2193,7 +2683,17 @@ Dichas luces indican a los conductores y peatones que las observen de frente, qu
 
 I.- Luz roja fija y sola "ALTO".
 
-a) El tránsito vehicular deberá detenerse antes de entrar en la zona de peatones; en defecto de ésta, antes de entrar en la intersección. Los vehículos no deberán seguir de frente, ni dar vuelta a la derecha o a la izquierda, a menos que una señal permita dichas maniobras.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+a).- El tránsito vehicular deberá detenerse antes de entrar en la zona de peatones; en defecto de ésta, antes de entrar en la intersección. Los vehículos no deberán seguir de frente ni dar vuelta a la izquierda, a menos que una señal permita dichas maniobras.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+La vuelta a la derecha en rojo será permitida después de detener totalmente su marcha, cediendo el paso a cualquier vehículo o peatón que pueda representar un riesgo.
 
 b) Los peatones deberán abstenerse de cruzar la vía.
 
@@ -2247,7 +2747,7 @@ Los semáforos en cruceros de ferrocarril, consisten en luces rojas que se encie
 
 Son dispositivos que al funcionar indican alto total a los conductores y peatones, ya que se aproxima o pasa un tren.
 
-#### SECCION I. DISPOSICIONES GENERALES
+#### SECCION X. SEÑALES EN VEHICULOS
 
 ###### ARTICULO 209.
 
@@ -2272,6 +2772,8 @@ Cuando un vehículo de transporte público de pasaje colectivo por alguna razón
 ###### ARTICULO 213.
 
 Los vehículos destinados al servicio particular para el transporte colectivo de personas o de carga, deberán ostentar en las portezuelas el número de permiso, la razón social y la palabra "PARTICULAR" o cualquier otra que denote que no es para servicio público.
+
+#### SECCION I. DISPOSICIONES GENERALES
 
 ### CAPITULO VIII. DE LOS ACCIDENTES
 
@@ -2361,9 +2863,23 @@ IV.- Si hubiere lesionados, llamarán al servicio médico.
 
 V.- Si las circunstancias lo ameritan, se solicitará el auxilio de otros elementos de policía.
 
-VI.- Harán constar la infracción en la boleta oficial impresa en su libreta de infracciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Los Agentes de Tránsito, además de levantar la infracción, deberán impedir que el vehículo continúe transitando y remitirlo al Departamento de Tránsito exclusivamente en los siguientes casos:
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Cuando la infracción sea causada por un error o una situación inevitable, siempre y cuando la conducta no sea reiterada, los agentes de tránsito podrán hacer constar, por escrito, una amonestación oficial en sus libretas de infracciones, la cual no llevará carga punitiva pero quedará constancia en el registro respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Harán constar la infracción en la boleta oficial impresa en sus libretas de infracciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Los agentes de tránsito, además de levantar la infracción, deberán impedir que el vehículo continúe transitando y remitirlo al Departamento de Tránsito exclusivamente en los siguientes casos:
 
 a) Conducir en estado de ebriedad o bajo el efecto de enervantes.
 
@@ -2377,6 +2893,22 @@ d) Cuando se preste un servicio público de transporte sin tener concesión o pe
 
 e).- Cuando se aprecie en forma ostensible que las sustancias contaminantes que emiten pueden rebasar los límites máximos permisibles, determinados por las normas técnicas ecológicas aplicables. En este caso, el Departamento de Tránsito ordenará la remisión inmediata del vehículo a un centro de verificación autorizado, quien emitirá su dictamen de la revisión que efectúe.
 
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+f) Conducir sin portar su licencia o permiso de conducir, o cuando éstos se encuentren cancelados.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+g) Por estacionarse en zonas prohibidas.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+h) Por orden de autoridad judicial.
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+i) Por realizar maniobras de carga y descarga sin el permiso correspondiente o fuera del horario establecido.
+
 > <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
 
 Si el resultado del dictamen es negativo, y si portaba la calcomanía, la infracción quedará sin efecto; si la calcomanía faltaba, el centro de verificación expedirá la constancia respectiva. De ser positivo el dictamen, la autoridad que hizo el traslado retendrá la tarjeta de circulación del vehículo, y el propietario tendrá un plazo de treinta días naturales para presentar nuevamente a verificación el vehículo y subsanar las deficiencias detectadas, pudiendo circular en ese período sólo para ser conducido al taller respectivo.
@@ -2385,13 +2917,53 @@ Si el resultado del dictamen es negativo, y si portaba la calcomanía, la infrac
 
 A los conductores procedentes de entidades o municipios donde no se encuentre en vigencia el programa de verificación vehicular obligatoria, cuyos vehículos ostensiblemente contaminen, rebasando los límites permisibles para emisiones tóxicas por automotores, se les retendrá la tarjeta de circulación y les será devuelta en cuanto comprueben que no rebasaron el límite de contaminación o en cuanto paguen la multa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 224.
 
-Las infracciones se harán constar en los talonarios oficiales, tratándose de las levantadas por Agentes de Tránsito y en las actas respectivas que al efecto se formulen cuando se refieran a las infracciones que, por su naturaleza, no puedan consignarse en las boletas oficiales. Las infracciones se levantarán a personas físicas; de ninguna manera se levantarán infracciones "A quien corresponda", exceptuándose los casos de estacionómetros y zonas prohibidas.
+Las infracciones se harán constar en los talonarios oficiales, tratándose de las levantadas por agentes de tránsito y en las actas respectivas que al efecto se formulen, cuando se refieran a las infracciones que, por su naturaleza, no puedan consignarse en las boletas oficiales. Las infracciones se levantarán a personas físicas, a las cuales se les deberá abrir un registro electrónico personal que quedará inscrito tanto en las agencias fiscales como en las respectivas bases de datos de las autoridades de tránsito y seguridad pública, las cuales deberán estar desvinculadas del vehículo; de ninguna manera se levantarán infracciones "A quien corresponda", exceptuándose los casos de zonas de estacionamiento en vía pública acondicionadas con parquímetros y zonas prohibidas, cuando por su naturaleza la infracción sea ligada directamente al vehículo, ésta se levantará a nombre del conductor pero será registrada y vinculada con las placas o número de serie del vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+Las infracciones no podrán eliminarse del registro electrónico personal, a menos que sea a través de una resolución de autoridad competente.
 
 ###### ARTICULO 225.
 
 Cuando el infractor, en un solo hecho viole varias disposiciones de esta ley, se aplicará la sanción que corresponda a la infracción de mayor gravedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 225 BIS.- Se consideran infracciones graves las siguientes:
+
+I. Conducir en estado de ebriedad o bajo la acción de drogas o sustancias que disminuyan su aptitud para conducir.
+
+II. Conducir en exceso de velocidad;
+
+III. No obedecer las indicaciones de semáforos y altos;
+
+IV. No respetar la preferencia de paso de vehículos, peatones o ciclistas;
+
+V. Hacer uso de teléfonos celulares al conducir;
+
+VI. Transportar a menores de 6 años sin reunir los requisitos de seguridad establecidos en el tercer párrafo del artículo 108 de la presente ley;
+
+VII. Transportar personas en el exterior de la carrocería;
+
+VIII. No obedecer las indicaciones del personal de seguridad pública;
+
+IX. Cambiar intempestivamente de un carril a otro, cruzando la trayectoria de otro vehículo;
+
+X. Salir intempestivamente y sin precaución del lugar de estacionamiento;
+
+XI. Estacionarse en carril de circulación, cuando el vehículo no sea visible a distancia, exceptuando cuando esto se derive de una falla mecánica;
+
+XII. Detenerse en carril de circulación a consecuencia de una falla mecánica sin instalar los dispositivos de advertencia correspondientes.
 
 ###### ARTICULO 226.
 
@@ -2423,7 +2995,7 @@ La acción del Fisco para hacer efectivas las sanciones señaladas en esta Ley, 
 
 En ambos casos, el término de la prescripción corre a partir de la fecha en que se haya cometido la infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 231.
 
@@ -2553,9 +3125,11 @@ a) Por no tomar el carril correspondiente para dar vuelta a la izquierda, o cons
 
 b) Cambiar intempestivamente de un carril a otro, cruzando la trayectoria de otro vehículo y provocando ya sea, un accidente, una frenada brusca o la desviación de otro vehículo.
 
-> <small>(REFORMADO, B.O. 8 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c) No utilizar el cinturón de seguridad, contraviniendo lo dispuesto por el artículo 108 de esta Ley y, transitar con cualquier clase de vehículos que no reúnan las condiciones mínimas de funcionamiento y los dispositivos de seguridad exigidos por esta Ley.
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+c) No utilizar el cinturón de seguridad, transportar a menores de 6 años en los asientos delanteros sin cumplir con los requisitos de seguridad, contraviniendo lo dispuesto en el artículo 108 de esta Ley y transitar con cualquier clase de vehículos que no reúnan las condiciones mínimas de funcionamiento y los dispositivos de seguridad exigidos por esta Ley.
 
 d) No guardar la distancia conveniente con el vehículo de adelante.
 
@@ -2569,7 +3143,11 @@ h) Entorpecer los desfiles, cortejos fúnebres y manifestaciones permitidas.
 
 i) Conducir vehículos, sin cumplir con las condiciones fijadas en las licencias.
 
-j) Conducir vehículos automotrices sin los limpiadores del parabrisas o estando éstos inservibles o que los cristales estén deformados u obstruídos deliberada o accidentalmente, de tal manera que se reste visibilidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+j) Conducir vehículos automotrices sin los limpiadores del parabrisas o estando inservibles o que el parabrisas esté deformado u obstruido, deliberada o accidentalmente, de tal manera que se reste visibilidad.
 
 k) Circular faltándole al vehículo una o varias de las luces reglamentarias o teniendo éstas deficiencias.
 
@@ -2583,7 +3161,7 @@ n) No disminuir la velocidad en intersecciones, puentes y lugares de gran afluen
 
 o) Permitir el acceso de animales en vehículos de servicio público de transporte de pasaje colectivo, exceptuando los utilizados por los invidentes, así como objetos voluminosos y no manuables que obstruyan la visibilidad de los operadores.
 
-p) Por falta de protectores en las llantas traseras de camiones remolques y semirremolques que tengan por finalidad evitar que éstos arrojen pequeños objetos hacia atrás.
+p) Por falta de protectores en la llantas traseras de camiones remolques y semirremolques que tengan por finalidad evitar que éstos arrojen pequeños objetos hacia atrás.
 
 q) Falta de aseo y cortesía de los operadores de los vehículos de servicio público de transporte de pasaje.
 
@@ -2597,13 +3175,23 @@ u) Falta de señalamiento de la razón social, nombre del propietario o de la in
 
 v) Circular careciendo de tarjeta de circulación o con una que no corresponda al vehículo o a sus características.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+w) Por dejar niños menores de 8 años de edad o animales, sin supervisión adulta al estacionarse.
+
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 237.
 
 Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
 
-a) Viajar más de una persona en las bicicletas de rodada menor de 65 centímetros; o utilizar en la vía pública una bicicleta infantil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+a) Viajar un mayor número de personas en las bicicletas que para el efecto fueran diseñadas; transitar en bicicleta entre los carriles de tránsito y entre hileras adyacentes; al existir ciclo vía, transitar una bicicleta en lugar distinto a ésta; o utilizar en la vía pública una bicicleta infantil.
 
 b) Circular en bicicletas o motocicletas en grupos de más de una fila, no guardando su extrema derecha o llevando carga sin la autorización respectiva o circular sobre las banquetas y zonas prohibidas o sin llenar las condiciones de seguridad exigidas para los conductores.
 
@@ -2623,7 +3211,11 @@ i) Conducir en zig-zag, con falta de precaución o rebasar por la derecha.
 
 j) Permitir el acceso en vehículos de servicio público de pasaje a individuos en estado de ebriedad o que por su falta de aseo o estado de salud perjudique o moleste al resto de los pasajeros.
 
-k) Circular faltando una de las placas o no colocarlas en el lugar destinado al efecto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+
+k).- Circular faltando la placa trasera o no colocar las placas en el lugar destinado al efecto, según el diseño del vehículo.
 
 l) Falta de timbre interior en vehículos de transporte público de pasaje colectivo.
 
@@ -2810,3 +3402,9 @@ El artículo tercero del presente decreto entrará en vigor el día siguiente al
 ###### ARTÍCULO SEGUNDO.
 
 El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
+
+B.O. 21 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de enero del 2014 previa publicación del mismo en el Boletín Oficial del Gobierno del Estado de Sonora.
