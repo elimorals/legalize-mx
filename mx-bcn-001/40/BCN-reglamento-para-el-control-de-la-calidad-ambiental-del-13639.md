@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2008-01-04"
+last_updated: "2013-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -88,9 +88,11 @@ X.- DESCARGA: Acción de verter aguas residuales a los sistemas de alcantarillad
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
 
-XI.- SECRETARÍA; La Secretaría de Administración Urbana;
+XI.- SECRETARÍA: La Secretaría de Administración Urbana;
 
-XII.- DIRECCION GENERAL: La Dirección General de Ecología del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XII.- SECRETARIA ESTATAL: La Secretaría de Protección al Ambiente del Estado de Baja California;
 
 XIII.- EMISION: Descarga directa o indirecta a la atmósfera, de energía o materia en cualquiera de sus estados físicos;
 
@@ -110,7 +112,9 @@ XX.- LA COMISION: La Comisión Nacional del Agua;
 
 XXI.- LEY ESTATAL: La Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California;
 
-XXII.- LEY GENERAL: La ley General del Equilibrio ecológico y Protección al Ambiente;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXII.- LEY GENERAL: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XXIII.- MANIFESTACION DEL IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
@@ -136,7 +140,31 @@ XXXII.- SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO: El conjunto de obras 
 
 XXXIII.- SISTEMA DE MONITOREO DE LA CALIDAD DEL AIRE: Es el procedimiento para la medición sistemática de las concentraciones de los principales contaminantes en la atmósfera;
 
-XXXIV.- SEPARACION DE DESECHOS: Es el procedimiento realizado por técnicas manuales y/o mecánicas, que permite clasificar los residuos sólidos conforme sus características físicas y químicas, para su reciclaje, tratamiento y/o confinamiento final; (sic)
+XXXIV.- SEPARACION DE DESECHOS: Es el procedimiento realizado por técnicas manuales y/o mecánicas, que permite clasificar los residuos sólidos conforme sus características físicas y químicas, para su reciclaje, tratamiento y/o confinamiento final;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXV.- BASURA Y/O RESIDUO SÓLIDO.- Todo desecho orgánico e inorgánico que resulte de las diversas actividades domésticas, comerciales, industriales o recreativas, cuya calidad no permita usarlos nuevamente en el proceso que los generó.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXVI.- RESIDUO DE MANEJO ESPECIAL.- Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXVII.- RELLENO SANITARIO.- Obra de ingeniería para la disposición final de residuos sólidos que no sean peligrosos, ni potencialmente peligrosos, que garanticen su aislamiento definitivo sin alteraciones a los ecosistemas.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXVIII.-CENTRO DE ACOPIO.- Lugar autorizado por la autoridad municipal para la recepción de residuos de manejos (sic) especial para su comercialización y posterior reciclaje
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXIX.- CENTRO DE TRANSFERENCIA.- Sitios de (sic) es un lugar destinado por la autoridad competente en donde se reciben residuos sólidos urbanos para su separación y comercialización.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XL.- DIRECCION: La Dirección de Ecología Municipal.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
 
@@ -148,11 +176,11 @@ La Secretaría observará, en la esfera de su competencia las disposiciones prev
 
 Las disposiciones previstas en este Reglamento son de observancia obligatoria para las autoridades, los organismos descentralizados y los particulares que realicen actividades o presten servicios objeto de regulación en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 6.
 
-Son atribuciones de la Secretaría, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, las siguientes:
+Son atribuciones de la Dirección, en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, las siguientes:
 
 I.- Formular, conducir y evaluar la política ambiental municipal;
 
@@ -160,9 +188,9 @@ II.- Aplicar los instrumentos de política ambiental previstos en la Ley Estatal
 
 III.- Formular, ejecutar y evaluar el Programa Municipal de Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Coadyuvar con la Secretaría en la formulación de los programas de ordenamiento ecológico regionales del Estado, particularmente en lo que se refiere a los asentamientos humanos;
+IV.- Coadyuvar con la Secretaría Estatal en la formulación de los programas de ordenamiento ecológico regionales del Estado, particularmente en lo que se refiere a los asentamientos humanos;
 
 V.- Formular y expedir los programas de ordenamiento ecológico local del municipio, así como el control y la vigilancia del uso y cambio de uso de suelo que se establezca en dichos programas;
 
@@ -192,15 +220,21 @@ XVI.- Prevenir y controlar la contaminación atmosférica generada por fuentes f
 
 XVII.- Establecer y operar, previo dictamen técnico que al efecto emita la SEMARNAT el Sistema de Monitoreo de la Calidad del Aire, cuyos reportes serán integrados a la información nacional en la materia;
 
-XVIII.- Prevenir y controlar los efectos sobre el ambiente ocasionados por la generación, transporte almacenamiento, manejo, tratamiento y disposición final de residuos sólidos no peligrosos, aplicando las Normas y demás disposiciones jurídicas en la materia en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XIX.- Autorizar, condicionar o negar el funcionamiento de los sistemas o actividades de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos no peligrosos conforme a la normatividad ambiental vigente; así como inspeccionar y vigilar el cumplimiento de las condiciones establecidas en las autorizaciones que expida;
+XVIII.- Prevenir y controlar los efectos sobre el ambiente ocasionados por la generación, transporte almacenamiento, manejo, tratamiento y disposición final de residuos sólidos urbanos aplicando las Normas y demás disposiciones jurídicas en la materia en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XIX.- Autorizar, condicionar o negar el funcionamiento de los sistemas o actividades de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos urbanos conforme a la normatividad ambiental vigente; así como inspeccionar y vigilar el cumplimiento de las condiciones establecidas en las autorizaciones que expida;
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
 
 XX.- Participar en el funcionamiento de los sistemas de recolección, almacenamiento, transporte, reuso, tratamiento y disposición final de residuos y materiales peligrosos en el territorio municipal, conforme a los acuerdos de coordinación que se celebren con la SEMARNAT;
 
-XXI.- Promover la instalación de centros de acopio de residuos sólidos no peligrosos que puedan ser reutilizados o reciclados, así como la formulación y promoción de programas de reutilización y reciclaje de dichos residuos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXI.- Promover la instalación de centros de acopio de residuos sólidos urbanos que puedan ser reutilizados o reciclados, así como la formulación y promoción de programas de reutilización y reciclaje de dichos residuos;
 
 XXII.- Prevenir y controlar la contaminación originada por ruidos, vibraciones, energía térmica y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes de competencia municipal, fijando condiciones particulares de emisión cuando sea necesario;
 
@@ -248,11 +282,11 @@ XLIII.- La preservación y restauración del equilibrio ecológico y la protecci
 
 XLIV.- Las demás que se establezcan en la Ley General, la Ley Estatal, los Reglamentos, las Normas y otros ordenamientos que de éstas emanen, y que no estén reservados expresamente a la Federación o al Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 7.
 
-Para el ejercicio concurrente de las atribuciones previstas en la Ley General y en la Ley Estatal, el Ayuntamiento, por conducto de la Secretaría y con la intervención que le corresponda al Gobierno del Estado, realizará las acciones que procedan, en su caso, celebrará los acuerdos de coordinación pertinentes, en las siguientes materias:
+Para el ejercicio concurrente de las atribuciones previstas en la Ley General y en la Ley Estatal, el Ayuntamiento, por conducto de la Dirección y con la intervención que le corresponda al Gobierno del Estado, realizará las acciones que procedan, en su caso, celebrará los acuerdos de coordinación pertinentes, en las siguientes materias:
 
 I.- El manejo y vigilancia de las áreas naturales protegidas de competencia federal;
 
@@ -266,13 +300,13 @@ V.- La realización de acciones operativas tendientes a cumplir con los fines pr
 
 ### CAPITULO SEGUNDO. PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO SEGUNDO. PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA
 
 ###### Artículo 8.
 
-En materia de prevención y control de la contaminación del agua, la Secretaría tendrá las siguientes facultades:
+En materia de prevención y control de la contaminación del agua, la Dirección tendrá las siguientes facultades:
 
 I.- Prevenir y controlar las descargas de aguas residuales a cuerpos receptores de competencia municipal provenientes de establecimientos mercantiles y de servicios;
 
@@ -284,11 +318,11 @@ III.- Integrar y mantener actualizado el Registro Municipal de Aguas Residuales 
 
 IV.- Requerir a quienes generen descargas, y no cumplan con las normas oficiales mexicanas o normas oficiales estatales, la instalación de equipos o sistemas de tratamiento de aguas residuales; y en su caso fijar condiciones particulares de descarga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 9.
 
-Se prohibe descargar al sistema de drenaje y alcantarillado municipal, residuos o aguas residuales portadoras de contaminantes cuya concentración exceda los límites máximos permisibles señalados en las Normas aplicables, y en su caso, en las Condiciones Particulares de Descarga que fije previamente la Secretaría.
+Se prohíbe descargar al sistema de drenaje y alcantarillado municipal, residuos o aguas residuales portadoras de contaminantes cuya concentración exceda los límites máximos permisibles señalados en las Normas aplicables, y en su caso, en las Condiciones Particulares de Descarga que fije previamente la Dirección.
 
 Se prohibe descargar o arrojar al sistema de drenaje y alcantarillado municipal, o depositar en zonas inmediatas al mismo, basura, lodos industriales o cualquier otra especie de residuos que provoque o puedan provocar trastornos, impedimentos o alteraciones en funcionamiento del sistema.
 
@@ -302,35 +336,45 @@ Se prohibe descargar o dejar correr a cielo abierto, aguas residuales o sustanci
 
 Solo podrán depositarse en letrinas o fosas sépticas aquellas aguas residuales provenientes de actividades exclusivamente domésticas.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Las letrinas o fosas sépticas deberán ser herméticamente selladas para evitar escurrimientos, contaminación al subsuelo y olores perjudiciales al ambiente, asimismo el propietario del predio tendrá la obligación de desaguarlas periódicamente antes de que lleguen a su nivel máximo.
+
 ###### Artículo 12.
 
 Se prohibe descargar aguas residuales, sustancias químicas o residuos, en las líneas de alcantarillado pluvial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 12 Bis.
+
+Los propietarios o administradores de expendios de combustibles, lubricantes y solventes o de giro de lavado de carro, cuidarán de manera especial que el pavimento frente a sus instalaciones y áreas adyacentes se mantengan en perfecto estado de aseo y que no se permita el derramamiento de líquidos hacia la vía pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 13.
 
-Los responsables de los establecimientos de servicios y mercantiles, públicos o privados que generen descargas de aguas residuales, deberán registrarlas en la Secretaría.
+Los responsables de los establecimientos de servicios y mercantiles, públicos o privados que generen descargas de aguas residuales, deberán registrarlas en la Dirección.
 
 Quedan exceptuadas del registro, las descargas de aguas residuales provenientes de actividades domésticas.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 14.
 
-Los establecimientos de servicios y mercantiles, públicos o privados que hubieren recabado el registro de descarga de aguas residuales ante Dependencia distinta a la Secretaría, deberán proporcionar a esta última la información contenida en aquél para su integración al registro municipal.
+Los establecimientos de servicios y mercantiles, públicos o privados que hubieren recabado el registro de descarga de aguas residuales ante Dependencia distinta a la Dirección, deberán proporcionar a esta última la información contenida en aquél para su integración al registro municipal.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 15.
 
-En caso de que la descarga de aguas residuales presente alguna modificación, derivada de la ampliación de la empresa, de la incorporación de nuevos procesos o de cualquier otra causa, los responsables de la misma deberán actualizar el registro correspondiente ante la Secretaría.
+En caso de que la descarga de aguas residuales presente alguna modificación, derivada de la ampliación de la empresa, de la incorporación de nuevos procesos o de cualquier otra causa, los responsables de la misma deberán actualizar el registro correspondiente ante la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 16.
 
-Para los efectos del registro de descarga de aguas residuales y de actualización del mismo, a que se refieren los artículos anteriores, la Secretaría proporcionará los formatos correspondientes en los que se indicarán:
+Para los efectos del registro de descarga de aguas residuales y de actualización del mismo, a que se refieren los artículos anteriores, la Dirección proporcionará los formatos correspondientes en los que se indicarán:
 
 I.- Datos generales,
 
@@ -342,31 +386,31 @@ IV.- Características de calidad del agua residual.
 
 Esta información será integrada al registro Nacional de descargas a cargo de la SEMARNAT.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
-La Secretaría, en base a las Normas, fijará a los responsables del vertimiento de las aguas residuales al sistema de drenaje y alcantarillado, las condiciones particulares para cada descarga, otorgando para el cumplimiento de las mismas, un plazo de tres a seis meses.
+La Dirección, en base a las Normas, fijará a los responsables del vertimiento de las aguas residuales al sistema de drenaje y alcantarillado, las condiciones particulares para cada descarga, otorgando para el cumplimiento de las mismas, un plazo de tres a seis meses.
 
 ###### Artículo 18.
 
 Los responsables de las descargas de aguas residuales que sean vertidas al sistema de drenaje y alcantarillado municipal, estarán obligados a implementar y operar los sistemas de tratamiento necesarios, con la finalidad de que sus descargas se mantengan por debajo de los niveles máximos permisibles señalados en las normas oficiales mexicanas, normas oficiales estatales, condiciones particulares establecidas por la autoridad competente y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-La Secretaría podrá modificar las condiciones particulares que fije cada descarga de aguas residuales, cuando estas presenten alguna modificación derivada de la ampliación de la empresa, de la incorporación de nuevos procesos o de cualquier otra causa, notificando al interesado la resolución donde se determinen las modificaciones que procedan.
+La Dirección podrá modificar las condiciones particulares que fije cada descarga de aguas residuales, cuando estas presenten alguna modificación derivada de la ampliación de la empresa, de la incorporación de nuevos procesos o de cualquier otra causa, notificando al interesado la resolución donde se determinen las modificaciones que procedan.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 22 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL CONTENIDO DEL PÁRRAFO TERCERO DEL PRESENTE ARTÍCULO, QUE EXISTÍA DESDE TEXTO ORIGINAL, SE AGREGÓ AL SEGUNDO PÁRRAFO PARA FORMAR PARTE DE SU CONTENIDO.</small>
 
 ###### Artículo 20.
 
 El organismo operador del agua potable, sistema de drenaje y alcantarillado, se ajustará a las disposiciones establecidas en la Ley de Aguas Nacionales, en lo relativo a la explotación, uso o aprovechamiento de las aguas que tengan asignadas.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Con base en la información contenida en el registro municipal de descargas de aguas residuales, la Secretaría y el organismo operador del agua potable, sistema de drenaje y alcantarillado, determinarán las aguas residuales que en función de sus características sean susceptibles de reutilización. Estas no deben descargarse al sistema de drenaje y alcantarillado.
-
-El organismo operador del agua potable, sistema de drenaje y alcantarillado, conjuntamente con los responsables de las aguas residuales susceptibles de reutilización determinarán el destino de las mismas, en todos los casos, quienes haya generado dichas aguas residuales, tendrán prioridad en su aprovechamiento.
+Con base en la información contenida en el registro municipal de descargas de aguas residuales, la Dirección y el organismo operador del agua potable, sistema de drenaje y alcantarillado, determinarán las aguas residuales que en función de sus características sean susceptibles de reutilización. Estas no deben descargarse al sistema de drenaje y alcantarillado. El organismo operador del agua potable, sistema de drenaje y alcantarillado, conjuntamente con los responsables de las aguas residuales susceptibles de reutilización determinarán el destino de las mismas, en todos los casos, quienes haya (sic) generado dichas aguas residuales, tendrán prioridad en su aprovechamiento.
 
 ###### Artículo 21.
 
@@ -376,11 +420,11 @@ El organismo operador del agua potable, sistema de drenaje y alcantarillado, se 
 
 El manejo y disposición final de los residuos provenientes de la operación de sistemas de tratamiento de aguas residuales, deberán sujetarse a las prevenciones establecidas en el Capítulo Cuarto de este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-La Secretaría, en ejercicio de las acciones de vigilancia previstas en el Capítulo Noveno de este Reglamento aplicará, para la vigilancia del cumplimiento de las disposiciones en materia de prevención y control de la contaminación de aguas, los métodos de muestreo y análisis de laboratorio establecidos en las normas oficiales mexicanas en materia ambiental y en su caso normas oficiales estatales.
+La Dirección, en ejercicio de las acciones de vigilancia previstas en el Capítulo Noveno de este Reglamento aplicará, para la vigilancia del cumplimiento de las disposiciones en materia de prevención y control de la contaminación de aguas, los métodos de muestreo y análisis de laboratorio establecidos en las normas oficiales mexicanas en materia ambiental y en su caso normas oficiales estatales.
 
 ### CAPITULO TERCERO. PREVENCION Y CONTROL DE LA CONTAMINACION ATMOSFERICA
 
@@ -390,11 +434,11 @@ La Secretaría, en ejercicio de las acciones de vigilancia previstas en el Capí
 
 Las disposiciones previstas en el presente capítulo tienen por objeto prevenir, controlar y abatir la contaminación atmosférica en el Municipio de Ensenada, Baja California, generada por fuentes fijas o móviles que no sean del orden federal o estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 25.
 
-La Secretaría en materia de prevención y control de la contaminación atmosférica en el ámbito de su competencia, tendrá las siguientes facultades:
+La Dirección en materia de prevención y control de la contaminación atmosférica en el ámbito de su competencia, tendrá las siguientes facultades:
 
 I.- Aplicar los criterios generales de protección a la atmósfera en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias contaminantes;
 
@@ -404,7 +448,9 @@ III.- Requerir a los responsables de la operación de fuentes contaminantes, la 
 
 IV.- Integrar y mantener actualizado el inventario de las fuentes emisoras de contaminantes a la atmósfera de competencia municipal, para incorporación al Sistema Nacional de Información de la Calidad del Aire;
 
-V.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica en coordinación con la Dirección General;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+V.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica en coordinación con la Secretaría Estatal;
 
 VI.- Aplicar las normas oficiales mexicanas y normas oficiales estatales para la protección de la atmósfera, en las materias de su competencia;
 
@@ -416,11 +462,11 @@ IX.- Llevar un registro de los centros de verificación de automotores en circul
 
 X.- Entregar cuando proceda, a los propietarios de los vehículos automotores, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las normas oficiales mexicanas y normas oficiales estatales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 26.
 
-La Secretaría integrará y mantendrá actualizado el inventario de fuentes fijas de contaminación de la atmósfera de competencia municipal, para cuyo efecto los responsables de los establecimientos, servicios o instalaciones que con motivo de sus actividades puedan producir contaminación atmosférica, deberán proporcionar la información que contenga el formato que al efecto establezca la propia Secretaría en el que se indicará cuando menos:
+La Dirección integrará y mantendrá actualizado el inventario de fuentes fijas de contaminación de la atmósfera de competencia municipal, para cuyo efecto los responsables de los establecimientos, servicios o instalaciones que con motivo de sus actividades puedan producir contaminación atmosférica, deberán proporcionar la información que contenga el formato que al efecto establezca la propia Dirección en el que se indicará cuando menos:
 
 I.- Ubicación;
 
@@ -432,17 +478,15 @@ IV.- Cantidad y naturaleza de los contaminañtes (sic) generados; y
 
 V.- Equipos de control de emisiones en operación.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 27.
 
-Los establecimientos mercantiles o de servicios, o instalaciones de nueva creación, que con motivo de sus actividades puedan producir contaminación atmosférica, deberán presentar ante la Secretaría, la manifestación de impacto ambiental a que se refiere el artículo 112 de este
+Los establecimientos mercantiles o de servicios, o instalaciones de nueva creación, que con motivo de sus actividades puedan producir contaminación atmosférica, deberán presentar ante la Dirección, la manifestación de impacto ambiental a que se refiere el artículo 112 de este Reglamento, a la que deberá ajustarse la solicitud de licencia ambiental respectiva.
 
-Reglamento, a la que deberá ajustarse la solicitud de licencia de funcionamiento respectivo.
+Los Establecimientos mercantiles y de servicios que pretendan realizar una ampliación, modificación de sus procesos, cambio de giro, de propietario, de razón o denominación social, deberán gestionar ante la Dirección la licencia correspondiente.
 
-Los Establecimientos mercantiles y de servicios que pretendan realizar una ampliación o modificación de sus procesos, deberán gestionar ante la Secretaría la licencia correspondiente.
-
-Las solicitudes de licencia de funcionamiento y de ampliación, se presentarán en los formatos que la Secretaría establezca para tales efectos.
+Las solicitudes de licencia ambiental se presentarán en los formatos que la Dirección establezca para tales efectos.
 
 ###### Artículo 28.
 
@@ -458,23 +502,35 @@ I.- Instalar los equipos y sistemas necesarios para que las emisiones que genere
 
 II.- Aplicar la mejor tecnología disponible con el propósito de reducir sus emisiones a la atmósfera;
 
-III.- Suspender de inmediato las obras o actividades y dar aviso a la Secretaría, en caso de descompostura o falla de los equipos de control de emisión de contaminantes, para que ésta determine lo conducente; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Monitorear las emisiones y reportar el resultado de los monitoreos a la Secretaría, de acuerdo con los plazos y condiciones que para tal efecto se establezcan en la licencia ambiental municipal.
+III.- Suspender de inmediato las obras o actividades y dar aviso a la Dirección, en caso de descompostura o falla de los equipos de control de emisión de contaminantes, para que ésta determine lo conducente; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Monitorear las emisiones y reportar el resultado de los monitoreos a la Dirección, de acuerdo con los plazos y condiciones que para tal efecto se establezcan en la licencia ambiental municipal.
 
 ###### Artículo 30.
 
 Para los efectos de la medición en fuentes fijas de emisiones a la atmósfera, deberán aplicarse los procedimientos de muestreo establecidos en las normas.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 30 Bis.
+
+Los propietarios de comercios y servicios que dentro de sus procesos realicen actividades donde se emitan olores, gases, humos y polvos deberán llevarlo a cabo en un lugar cerrado o instalando los aditamentos necesarios para reducir el impacto ambiental que estos generan. Asimismo los particulares que desarrollen actividades similares deberán acatar la presente disposición.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 31.
 
-Se prohibe la combustión a cielo abierto para eliminar basuras y residuos, y en particular, la quema de solventes, lubricantes usados o cualquier otro tipo de residuo líquido.
+Se prohíbe la combustión a cielo abierto para eliminar residuos sólidos urbanos, hierba, llantas y en particular, la quema de solventes, lubricantes usados o cualquier otro tipo de residuo líquido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 32.
 
-Se permite la combustión a cielo abierto salvo que se efectúe con el objeto de impartir instrucción y adiestramiento sobre procedimientos para combatir el fuego mediante permiso previo de la Secretaría, para cuyo otorgamiento los establecimientos de servicios o mercantiles, públicos o privados señalarán, en la solicitud que al efecto se formule, los datos siguientes:
+Se permite la combustión a cielo abierto salvo que se efectúe con el objeto de impartir instrucción y adiestramiento sobre procedimientos para combatir el fuego mediante permiso previo de la Dirección, para cuyo otorgamiento los establecimientos de servicios o mercantiles, públicos o privados señalarán, en la solicitud que al efecto se formule, los datos siguientes:
 
 I.- Localización del predio en el que se llevarán a cabo las prácticas de adiestramiento, señalando construcciones próximas, colindancias y condiciones de seguridad del lugar;
 
@@ -482,39 +538,39 @@ II.- Programa de prácticas, indicando fechas y horarios; y
 
 III.- Tipo y volúmenes de combustible a utilizar.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 33.
 
-La Secretaría establecerá y operará, previo dictamen técnico que emita la SEMARNAT, el sistema de monitoreo de calidad del aire, para cuyo efecto se sujetará a las Normas.
+La Dirección establecerá y operará, previo dictamen técnico que emita la SEMARNAT, el sistema de monitoreo de calidad del aire, para cuyo efecto se sujetará a las Normas.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 34.
 
-La Secretaría reportará a la SEMARNAT y a la Dirección General, los resultados que se obtengan a través del monitoreo atmosférico para su incorporación al Sistema Nacional de Información Ambiental, además de que periódicamente elabora informes en la materia destinados al público en general.
+La Dirección reportará a la SEMARNAT y a la Secretaría Estatal, los resultados que se obtengan a través del monitoreo atmosférico para su incorporación al Sistema Nacional de Información Ambiental, además de que periódicamente elabora informes en la materia destinados al público en general.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 35.
 
-El Ayuntamiento por conducto de la Secretaría, aplicará en el ámbito de su competencia las disposiciones relativas a la prevención y control de la contaminación atmosférica generada por vehículos automotores, de conformidad con la normatividad ambiental vigente y los programas de verificación vehicular que al efecto se establezcan por las autoridades competentes.
+El Ayuntamiento por conducto de la Dirección, aplicará en el ámbito de su competencia las disposiciones relativas a la prevención y control de la contaminación atmosférica generada por vehículos automotores, de conformidad con la normatividad ambiental vigente y los programas de verificación vehicular que al efecto se establezcan por las autoridades competentes.
 
 ###### Artículo 36.
 
 Queda prohibida la circulación de automotores que emitan gases, humos o polvos visibles, o cuyos niveles de emisión de contaminantes a la atmósfera rebasen los máximos permisibles establecidos en las normas oficiales mexicanas y normas oficiales estatales.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 37.
 
-La Secretaría participará con las autoridades competentes en la formulación de la reglamentación que fije las bases para la verificación vehicular así como los programas para aplicarla.
+La Dirección participará con las autoridades competentes en la formulación de la reglamentación que fije las bases para la verificación vehicular así como los programas para aplicarla.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 38.
 
-Los poseedores o propietarios de cualquier vehículo motor, público o privado, estarán obligados a realizar la verificación vehicular en los términos que se provean en los programas que al efecto se elaboren, y obtener la constancia de verificación de emisiones en la que se señale que se cumple con los máximos permisibles que establezcan las normas oficiales mexicanas y las normas oficiales estatales aplicables y revalidarla en los plazos que al efecto determine la Secretaría o la autoridad competente.
+Los poseedores o propietarios de cualquier vehículo motor, público o privado, estarán obligados a realizar la verificación vehicular en los términos que se provean en los programas que al efecto se elaboren, y obtener la constancia de verificación de emisiones en la que se señale que se cumple con los máximos permisibles que establezcan las normas oficiales mexicanas y las normas oficiales estatales aplicables y revalidarla en los plazos que al efecto determine la Dirección o la autoridad competente.
 
 ###### Artículo 39.
 
@@ -528,23 +584,21 @@ Los poseedores o propietarios de vehículos automotores que transporten material
 
 Las disposiciones previstas en el presente capítulo tienen por objeto regular el manejo y disposición final de los residuos sólidos, para prevenir y controlar los efectos sobre el medio ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Artículos 41.- La Secretaría tendrá a su cargo la aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos en los términos de la Ley General y la Ley Estatal.
+Artículos 41.- La Dirección tendrá a su cargo la aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos en los términos de la Ley General y la Ley Estatal.
 
-Las atribuciones a que se refiere este artículo, se ejercerán sin perjuicio de las disposiciones aplicables en materia de salud.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 42.
 
-La Secretaría para el cumplimiento de lo dispuesto en el artículo anterior, sujetará a los generadores o promoventes de dichos sistemas a las disposiciones jurídicas aplicables, incluyendo las contenidas en este Reglamento y el reglamento que en materia de aseo público expida el Ayuntamiento.
+La Dirección para el cumplimiento de lo dispuesto en el artículo anterior, sujetará a los generadores o promoventes de dichos sistemas a las disposiciones jurídicas aplicables, incluyendo las contenidas en este Reglamento y el Reglamento que en materia de aseo público expida el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 43.
 
-la Secretaría vigilará que la recolección, manejo, disposición final de residuos sólidos no peligrosos provenientes del servicio de limpia de calles, calzadas, bulevares, plazas, jardines y parques públicos, oficinas, comercios, mercados públicos y demás establecimientos similares, y los que provengan de usos industriales, respondan a los siguiente lineamientos;
+la Dirección vigilará que la recolección, manejo, disposición final de residuos sólidos urbanos provenientes del servicio de limpia de calles, calzadas, bulevares, plazas, jardines y parques públicos, oficinas, comercios, mercados públicos y demás establecimientos similares, y los que provengan de usos industriales, respondan a los siguiente (sic) lineamientos;
 
 I.- Abatir la contaminación de los suelos, en cuanto que los residuos sólidos constituyen la principal fuente de contaminación de aquellos.
 
@@ -552,131 +606,183 @@ II.- Mitigar los efectos secundarios que inciden en la contaminación atmosféri
 
 III.- Obtener el aprovechamiento de los residuos sólidos, mediante el proceso al que se refiere el artículo 61 de este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 43 Bis.
+
+Los centros comerciales, hospitales, talleres, restaurantes, oficinas, centros de espectáculos o similares y demás sitios mercantiles o de servicios donde se produzcan volúmenes de residuos sólidos urbanos, deberán disponer de un área específica dentro del predio con contenedores para el depósito de sus residuos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 43 Ter.
+
+Los establecimientos mercantiles o de servicios deberán comprobar la disposición final de los residuos sólidos urbanos que generan por la actividad, por medio de comprobantes fiscales expedidos por el relleno sanitario, estaciones de transferencia, centros de acopio o mediante contrato con una empresa recolectora de residuos sólidos urbanos autorizada.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 44.
 
-Queda sujeto a la autorización de la Secretaría, conforme a la normatividad aplicable, el funcionamiento de los sistemas o servicios de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos no peligrosos.
+Queda sujeto a la autorización de la Dirección, conforme a la normatividad aplicable, el funcionamiento de los sistemas o servicios de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos urbanos.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 44 Bis.
+
+Los residuos sólidos urbanos producidos a nivel doméstico serán recibidos por las unidades recolectoras o en los centros de acopio, siempre y cuando se entreguen en bolsas que posean características de resistencia y fácil manejo, mismas que deberán entregar bien cerradas. Las bolsas deberán depositarse en un contenedor y éste siempre se ubicará dentro del predio del ciudadano que lo habita, solo se sacarán a la banqueta el tiempo necesario para su recolección. En ningún caso podrán dejarse de forma permanente en la vía pública.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 44 Ter.
+
+Las unidades habitacionales o desarrollos multifamiliares, deberán contar con contenedores comunes en los que se alojarán los residuos sólidos urbanos producidos por sus habitantes.
+
+Los contenedores deberán ser dispuestos de acuerdo al número de familias y a la producción de residuos sólidos.
+
+La Dirección de Ecología no otorgará Licencia Ambiental cuando en los planos no contemple las instalaciones a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 45.
 
-La Secretaría promoverá la instalación en el territorio municipal de sitios de disposición final de residuos no peligrosos, así como de centros o estaciones de transferencia de los mismos, que incluyan áreas para la selección y separación de residuos susceptibles de ser reciclados o reutilizados.
+La Dirección promoverá la instalación en el territorio municipal de sitios de disposición final de residuos sólidos urbanos, así como de centros o estaciones de transferencia de los mismos, que incluyan áreas para la selección y separación de residuos susceptibles de ser reciclados o reutilizados.
 
 ###### Artículo 46.
 
 Se consideran prioritarios para los efectos de recolección de los residuos sólidos municipales no peligrosos, en general, los sitios de gran generación de basura.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 47.
 
-La Secretaría promoverá en coordinación con empresas y organismos públicos o privados, la instalación y operación de centros de acopio de materiales reciclables, así como la participación ciudadana y el manejo y administración de dichos centros.
+La Dirección promoverá en coordinación con empresas y organismos públicos o privados, la instalación y operación de centros de acopio de materiales reciclables, así como la participación ciudadana y el manejo y administración de dichos centros.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 48.
 
-La Secretaría promoverá ante la Dirección de Obras y Servicios Públicos Municipales, el uso de vehículos especialmente acondicionados para la adecuada recolección de residuos sólidos no peligrosos, cualquiera que sea su origen y la instalación de la infraestructura urbana necesaria para evitar la dispersión de los mismos y los efectos nocivos que pudieren generar.
+La Dirección promoverá ante la Dirección de Obras y Servicios Públicos Municipales, el uso de vehículos especialmente acondicionados para la adecuada recolección de residuos sólidos urbanos, cualquiera que sea su origen y la instalación de la infraestructura urbana necesaria para evitar la dispersión de los mismos y los efectos nocivos que pudieren generar.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 49.
 
-Los restos de animales domésticos deberán ser entregados por los particulares al servicio público de recolección, embalados en material impermeable perfectamente cerrado y resistente.
+Se consideran obligaciones de los habitantes del Municipio:
 
-Asimismo, el servicio de limpia deberá recoger los residuos de tal naturaleza encontrados en la vía pública.
+I.- Contribuir a mantener las calles, banquetas, plazas, jardines y demás sitios públicos, en buenas condiciones de aseo y saneamiento.
+
+II.- Recoger diariamente sus residuos sólidos y mantener limpia la parte de la calle y banqueta que le corresponda frente a sus domicilios.
+
+III.- Los restos de los animales domésticos deberán ser entregados al servicio público de recolección, embalados en material impermeable perfectamente cerrado y resistente.
+
+IV.- En el caso de edificios o viviendas multifamiliares, el aseo de las banquetas y calles colindantes con el mismo, la obligación recaerá en los habitantes del mismo.
+
+V.- Los colindantes inmediatos a los callejones de servicio, deberán compartir la obligación de mantener éstos en condiciones de aseo.
+
+VI.- Las demás que se señalen en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 50.
 
-Los propietarios de predios baldíos y fincas desocupadas son responsables de su limpieza y saneamiento y deberán mantenerlos cercados o bardeados a fin de reducir la acumulación de basura.
+Los propietarios de predios baldíos, fraccionamientos y fincas desocupadas con edificios o construcciones desocupadas o abandonadas, son responsables de su limpieza y saneamiento y deberán conservarlos cercados o bardeados a fin de reducir la acumulación de residuos sólidos urbanos; si requerido el propietario para que efectué dichas obras no las realiza dentro del plazo que le fije la Dirección, se procederá a instaurarle un procedimiento administrativo conforme a lo estipulado en el presente reglamento.
 
-La inobservancia de lo dispuesto en este precepto, originará que el Ayuntamiento realice directamente el saneamiento y limpieza de los predios baldíos, cuyo costo será a cargo de los propietarios, sin perjuicio de la aplicación de las sanciones que procedan.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 51.
 
-Queda prohibido el depósito en la vía pública, de escombro y residuos sólidos en general provenientes de la industria de la construcción, cuyo manejo será responsabilidad de los propietarios de las edificaciones, que deberán trasladarlos al lugar que la Secretaría señale para ese efecto.
+Queda prohibido el depósito en la vía pública y lotes baldíos sin la autorización del propietario, de escombro y residuos sólidos en general provenientes de la industria de la construcción, cuyo manejo será responsabilidad de los propietarios de las edificaciones, que deberán trasladarlos al relleno sanitario o al lugar que la Dirección autorice para ese efecto.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 51 Bis.
+
+Los propietarios o administradores de comercios o servicios tienen la obligación de mantener aseado el tramo de calle, banqueta y fachada frente a su establecimiento. Quienes realicen maniobras de carga y descarga, y que con motivo de estas se ensucie la vía pública deberán realizar el aseo inmediato del lugar una vez concluida la maniobra.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 51 Ter.
+
+Los propietarios de carpinterías o madererías, así como los particulares que realicen actividades similares en casas-habitación tendrán la obligación de vigilar que el aserrín que se produzca en los cortes y cepillado de las maderas y otros desechos por el pintado, no se acumulen en los lugares en donde pueda haber riesgo de incendio, evitando estrictamente que las personas que tengan acceso a los lugares en que estos desechos se encuentren, fumen o manejen fuego.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 52.
 
-Los establecimientos, servicios o instalaciones generadoras de residuos sólidos no peligrosos, estarán obligados a proporcionar la información que les requiera la Secretaría en la cédula correspondiente.
+Los establecimientos, servicios o instalaciones generadoras de residuos sólidos urbanos, estarán obligados a proporcionar la información que les requiera la Dirección en la cédula correspondiente.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 53.
 
-La información contenida en las cédulas a que se refiere el artículo anterior, servirá a la Secretaría para determinar los residuos sólidos no peligrosos que en razón de su volumen y características puedan ser objeto del servicio contratado de recolección, cubriendo la cuota que por este concepto corresponda.
+La información contenida en las cédulas a que se refiere el artículo anterior, servirá a la Dirección para determinar los residuos sólidos urbanos que en razón de su volumen y características puedan ser objeto del servicio contratado de recolección, cubriendo la cuota que por este concepto corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 54.
 
-Los residuos sólidos no peligrosos, para cuya disposición final la Secretaría autorice el uso de servicio contratado de recolección, deberán ser entregados a la unidad receptora debidamente separados según su naturaleza, atendiendo especialmente a su composición orgánica o inorgánica, en recipientes cerrados en los que se especifique su contenido.
+Los residuos sólidos urbanos, para cuya disposición final la Dirección autorice el uso de servicio contratado de recolección, deberán ser entregados a la unidad receptora debidamente separados según su naturaleza, atendiendo especialmente a su composición orgánica o inorgánica, en recipientes cerrados en los que se especifique su contenido.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 55.
 
-La Secretaría determinaría, con base en la cédula a la que se refiere el artículo 52 de este Reglamento, los residuos sólidos no peligrosos, que en función a su volumen y características fisicoquímicas deban ser manejados en sus etapas de almacenamiento y transporte hasta el sitio de tratamiento o de disposición final, por la fuente generadora de los mismos.
+La Dirección determinaría, con base en la cédula a la que se refiere el artículo 52 de este Reglamento, los residuos sólidos urbanos, que en función a su volumen y características fisicoquímicas deban ser manejados en sus etapas de almacenamiento y transporte hasta el sitio de tratamiento o de disposición final, por la fuente generadora de los mismos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 56.
 
-la disposición final de los lodos resultantes del tratamiento de aguas residuales se realizará a través de algún servicio de recolección autorizado por la Secretaría. Dichos lodos no podrán ser entregados al servicio contratado de recolección, ni depositados en los rellenos sanitarios cuando excedan el veinte por ciento de humedad.
+la disposición final de los lodos resultantes del tratamiento de aguas residuales se realizará a través de algún servicio de recolección autorizado por la Dirección. Dichos lodos no podrán ser entregados al servicio contratado de recolección, ni depositados en los rellenos sanitarios cuando excedan el veinte por ciento de humedad.
 
 Para el cumplimiento de lo anterior, la fuente generadora deberá aplicar a los lodos un proceso de solidificación.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 57.
 
-los residuos sólidos provenientes del funcionamiento de clínicas, hospitales, laboratorios o similares, deberán ser incinerados en el mismo lugar, empleando para tal efecto el equipo que autoricen la SEMARNAT y la Secretaría de Salud.
+Los residuos sólidos provenientes del funcionamiento de clínicas, consultorios, hospitales, laboratorios o similares, deberán ser incinerados en los lugares que autoricen la SEMARNAT y la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 58.
 
-Los residuos que resulten del proceso de incineración, a que se refiere el artículo anterior, deberán ser transportados al relleno sanitario que fije la Secretaría bajo la responsabilidad de la fuente generadora de los mismos, en donde serán entregados perfectamente empacados, señalando el establecimiento y domicilio de procedencia su contenido y composición.
+Los residuos que resulten del proceso de incineración, a que se refiere el artículo anterior, deberán ser transportados al relleno sanitario que fije la Dirección bajo la responsabilidad del prestador del servicio y del generador, en donde serán entregados perfectamente empacados, señalando el establecimiento y domicilio de procedencia su contenido y composición.
 
 ###### Artículo 59.
 
-Queda prohibida la combustión a cielo abierto de cualquier especie de residuos sólidos no peligrosos, cuya disposición final únicamente podrá realizarse en los términos de este Reglamento.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 60.
 
-La Secretaría en coordinación con la Dirección de Obras y Servicios Públicos Municipales, realizarán las acciones necesarias para promover la instalación y operación de plantas procesadoras de residuos sólidos industriales y de los rellenos sanitarios que se requieran, observando lo dispuesto en las normas, así como los lineamientos y condiciones técnicas que sean fijados.
+La Dirección en coordinación con la Dirección de Obras y Servicios Públicos Municipales, realizarán las acciones necesarias para promover la instalación y operación de plantas procesadoras de residuos sólidos industriales y de los rellenos sanitarios que se requieran, observando lo dispuesto en las normas, así como los lineamientos y condiciones técnicas que sean fijados.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 61.
 
-Los residuos sólidos no peligrosos municipales serán transportados y sometidos, atendiendo a su composición, a un método de selección para separar los que sean susceptibles de reciclaje y composteo, de los que serán destinados al relleno sanitario.
+Los residuos sólidos urbanos municipales serán transportados y sometidos, atendiendo a su composición, a un método de selección para separar los que sean susceptibles de reciclaje y composteo, de los que serán destinados al relleno sanitario.
 
 ###### Artículo 62.
 
 Los residuos sólidos que no hayan sido sujetos a composteo, los hospitalarios y el rechazo que resulte del proceso de aprovechamiento, serán dispuestos en los rellenos sanitarios, cuyo funcionamiento se sujetará a las normas oficiales mexicanas que al efecto se expidan.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 63.
 
-En la operación de las plantas procesadoras de residuos sólidos industriales y de los rellenos sanitarios, la Secretaría, sin prejuicio de las facultades que son de la competencia de la Dirección de Obras y Servicios Públicos Municipales, tendrá intervención en cuanto a los efectos adversos que el funcionamiento de tales sistemas pudiera generar el medio ambiente.
+En la operación de las plantas procesadoras de residuos sólidos industriales y de los rellenos sanitarios, la Dirección, sin prejuicio de las facultades que son de la competencia de la Dirección de Obras y Servicios Públicos Municipales, tendrá intervención en cuanto a los efectos adversos que el funcionamiento de tales sistemas pudiera generar el medio ambiente.
 
 ###### Artículo 64.
 
 Se prohibe arrojar, descargar, depositar o acumular en cualquier espacio público del Municipio no destinado especialmente para ese efecto, residuos sólidos no peligrosos de cualquier origen.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 65.
 
-La Secretaría promoverá el aprovechamiento de los residuos sólidos no peligrosos provenientes de actividades agropecuarias, previa aplicación del tratamiento correspondiente.
-
-De no ser así, la fuente generadora de los mismos podrá utilizar el servicio contratado de recolección o transportarlos directamente a los rellenos sanitarios, según lo autorice la propia Secretaría.
+La Dirección promoverá el aprovechamiento de los residuos sólidos no peligrosos provenientes de actividades agropecuarias, previa aplicación del tratamiento correspondiente.
 
 ### CAPITULO QUINTO. PREVENCION Y CONTROL DE LA CONTAMINACION POR RUIDO, VIBRACIONES, ENERGIA TERMICA, LUMINICA Y OLORES PERJUDICIALES
 
@@ -686,11 +792,11 @@ De no ser así, la fuente generadora de los mismos podrá utilizar el servicio c
 
 Las disposiciones previstas en el presente capítulo tienen por objeto prevenir y controlar en el territorio del Municipio, la contaminación por ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales, generados por fuentes móviles que no sean de competencia Federal o Estatal, así como por fuentes fijas estacionarias en establecimientos mercantiles o de servicios.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 67.
 
-Cualquier actividad que se realice en establecimientos de servicios o mercantiles, cuyas emisiones de ruido, vibraciones, energía térmica, energía lumínica u olores perjudiciales, puedan afectar la salud pública, el medio ambiente o los ecosistemas, deberá contar con la licencia ambiental municipal, en la cual, la Secretaría podrá fijar las condiciones particulares de emisión.
+Cualquier actividad que se realice en establecimientos de servicios o mercantiles, cuyas emisiones de ruido, vibraciones, energía térmica, energía lumínica u olores perjudiciales, puedan afectar la salud pública, el medio ambiente o los ecosistemas, deberá contar con la licencia ambiental municipal, en la cual, la Dirección podrá fijar las condiciones particulares de emisión.
 
 ###### Artículo 68.
 
@@ -698,11 +804,11 @@ El ruido producido en casas habitación por las actividades domésticas no será
 
 En caso de que reiteradamente se realicen actividades ruidosas meramente domésticas que ocasionen molestias a los vecinos, se estará a lo dispuesto en lo conducente, en el Bando de Policía y Buen Gobierno y demás ordenamientos municipales que regulen la convivencia.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 69.
 
-La Secretaría restringirá la emisión de ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales, temporal o permanentemente, en áreas habitacionales y en zonas colindantes a guarderías, escuelas, asilos, lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento y recuperación de la salud.
+La Dirección restringirá la emisión de ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales, temporal o permanentemente, en áreas habitacionales y en zonas colindantes a guarderías, escuelas, asilos, lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento y recuperación de la salud.
 
 ###### Artículo 70.
 
@@ -774,15 +880,15 @@ Los establecimientos y actividades mercantiles o de servicios que generen vibrac
 
 Queda prohibido instalar establos o similares, curtidoras, explotaciones avícolas, pecuarias y demás actividades que generen olores perjudiciales, en zonas habitacionales y en general dentro de los centros de población.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 84.
 
 Los responsables de establos o actividades similares que se pretendan instalar en zonas autorizadas para su funcionamiento, estarán obligados a tomar medidas necesarias para no producir olores perjudiciales al ambiente; en caso de inobservancia se sancionará conforme lo dispone el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
-
 ###### Artículo 85.
 
-Los responsables de los establos o actividades similares existentes dentro o en la periferia de las áreas urbanas del municipio, deberán implementar las medidas necesarias para no producir olores perjudiciales al ambiente, para lo cual la Secretaría emitirá las condiciones y plazos, o bien requerirá la reubicación de dichas instalaciones apoyándose en criterios de carácter ambiental y de salud pública.
+Los responsables de los establos o actividades similares existentes dentro o en la periferia de las áreas urbanas del municipio, deberán implementar las medidas necesarias para no producir olores perjudiciales al ambiente, para lo cual la Dirección emitirá las condiciones y plazos, o bien requerirá la reubicación de dichas instalaciones apoyándose en criterios de carácter ambiental y de salud pública.
 
 ###### Artículo 86.
 
@@ -798,13 +904,13 @@ IV.- Mantener dentro de los límites del predio de su propiedad o posesión.
 
 ### CAPITULO SEXTO. PROTECCION DEL PATRIMONIO NATURAL DEL MUNICIPIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO SEXTO. PROTECCION DEL PATRIMONIO NATURAL DE L MUNICIPIO
 
 ###### Artículo 87.
 
-Las disposiciones previstas en el presente Capítulo tienen por objeto fijar las bases para la intervención de la Secretaría en la preservación y restauración de los recursos del patrimonio natural del municipio cuyo cuidado no esté reservado a la Federación o al Gobierno del Estado, a través de los siguientes mecanismos:
+Las disposiciones previstas en el presente Capítulo tienen por objeto fijar las bases para la intervención de la Dirección en la preservación y restauración de los recursos del patrimonio natural del municipio cuyo cuidado no esté reservado a la Federación o al Gobierno del Estado, a través de los siguientes mecanismos:
 
 I.- Ordenamiento Ecológico del Territorio;
 
@@ -816,51 +922,51 @@ IV.- Protección de la flora y fauna silvestres;
 
 V.- Promover la formación de organismos públicos o privados para la administración de parques urbanos y zonas de conservación ambiental en los centros de población, así como para las áreas naturales protegidas propuestas por el Gobierno Municipal.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 88.
 
-Para la realización de obras o actividades públicas o privadas que atenten o puedan atentar contra el patrimonio natural, la Secretaría, en el ámbito de su competencia, sujetará a los promoventes a los criterios establecidos en los ordenamientos y programas ecológicos, en las Leyes de protección al ambiente, de planeación y desarrollo para la región, y en general todos los ordenamientos, programas y leyes vigentes aplicables que coadyuven en la preservación del ambiente.
+Para la realización de obras o actividades públicas o privadas que atenten o puedan atentar contra el patrimonio natural, la Dirección, en el ámbito de su competencia, sujetará a los promoventes a los criterios establecidos en los ordenamientos y programas ecológicos, en las Leyes de protección al ambiente, de planeación y desarrollo para la región, y en general todos los ordenamientos, programas y leyes vigentes aplicables que coadyuven en la preservación del ambiente.
 
 ###### Artículo 89.
 
 El ayuntamiento participará con el Gobierno del Estado, en los términos de la Ley General y la Ley Estatal, en la expedición de declaratorias para el establecimiento de áreas naturales protegidas de competencia municipal, y en su caso, administrará éstas en coordinación con el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 90.
 
-La Secretaría participará con el Gobierno del Estado en la elaboración de los programas de manejo de las áreas naturales protegidas que se establezcan en el territorio municipal, de conformidad con la Ley Estatal, y elaborará aquellos programas de manejo de los cuales hubiera promovido la declaratoria de áreas naturales protegidas.
+La Dirección participará con el Gobierno del Estado en la elaboración de los programas de manejo de las áreas naturales protegidas que se establezcan en el territorio municipal, de conformidad con la Ley Estatal, y elaborará aquellos programas de manejo de los cuales hubiera promovido la declaratoria de áreas naturales protegidas.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 91.
 
-La Secretaría coadyuvará con la Dirección General y las dependencias estatales y municipales competentes en materia de conservación del patrimonio natural, en la determinación de las zonas que tengan un valor escénico o paisajístico dentro de la circunscripción municipal, a fin de revenir y controlar su deterioro.
+La Dirección coadyuvará con la Secretaría Estatal y las dependencias estatales y municipales competentes en materia de conservación del patrimonio natural, en la determinación de las zonas que tengan un valor escénico o paisajístico dentro de la circunscripción municipal, a fin de prevenir y controlar su deterioro.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 92.
 
-La Secretaría promoverá la participación de universidades, centros de investigación, asociaciones civiles, sindicatos y otros grupos organizados, en el desarrollo de programas de restauración del ambiente en el territorio municipal.
+La Dirección promoverá la participación de universidades, centros de investigación, asociaciones civiles, sindicatos y otros grupos organizados, en el desarrollo de programas de restauración del ambiente en el territorio municipal.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 93.
 
-La Secretaría vigilará que las especies de flora que se empleen en la forestación y reforestación del territorio municipal, sean compatibles con las características de la zona y en la medida de lo posible se utilicen especies nativas; quedando prohibida la utilización de especies exóticas para esos fines.
+La Dirección vigilará que las especies de flora que se empleen en la forestación y reforestación del territorio municipal, sean compatibles con las características de la zona y en la medida de lo posible se utilicen especies nativas; quedando prohibida la utilización de especies exóticas para esos fines.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 94.
 
-La Secretaría promoverá la participación ciudadana en la creación, cuidado, mantenimiento, habilitación y restauración de parques, áreas verdes y recreativas dentro de la circunscripción municipal, así como de zonas sujetas a conservación ecológica dentro de éstos.
+La Dirección promoverá la participación ciudadana en la creación, cuidado, mantenimiento, habilitación y restauración de parques, áreas verdes y recreativas dentro de la circunscripción municipal, así como de zonas sujetas a conservación ecológica dentro de éstos.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 95.
 
-La Administración de los parques y jardines públicos que se establezcan dentro del territorio municipal, estará a cargo de la dependencia o entidad que determine el Ayuntamiento, sin perjuicio de la intervención que a la Secretaría le corresponde, en cuanto al cumplimiento de los objetivos, acciones y normas técnicos previstas en el programa de manejo respectivo.
+La Administración de los parques y jardines públicos que se establezcan dentro del territorio municipal, estará a cargo de la dependencia o entidad que determine el Ayuntamiento, sin perjuicio de la intervención que a la Dirección le corresponde, en cuanto al cumplimiento de los objetivos, acciones y normas técnicos previstas (sic) en el programa de manejo respectivo.
 
 ###### Artículo 96.
 
@@ -874,81 +980,93 @@ El ayuntamiento promoverá la realización de programas de forestación, refores
 
 Los habitantes, visitantes y transeúntes del Municipio, tienen la obligación de respetar las áreas verdes localizadas en los espacios de convivencia y uso general.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 99.
 
-Queda prohibido realizar actos que atenten contra la preservación de las áreas verdes en cualquier parque, calzada, paseo y en los demás sitos públicos, tales como: maltrato a plantas, árboles, césped y flores; tala o quema de árboles o plantas, y en general todos aquellos actos que vayan en contra del mantenimiento e incremento de los recursos que vayan en contra del mantenimiento e incremento de los recursos genéticos de la flora.
+Queda prohibido realizar actos que atenten contra la preservación de las áreas verdes en cualquier parque, calzada, paseo y en los demás sitos (sic) públicos, tales como: maltrato a plantas, árboles, césped y flores; tala o quema de árboles o plantas, y en general todos aquellos actos que vayan en contra del mantenimiento e incremento de los recursos genéticos de la flora.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 100.
 
-Se requiere autorización de la Secretaría, para derribar o trasplantar los árboles plantados en los espacios públicos o privados del territorio municipal, y sólo podrá efectuarse bajo condiciones establecidas por dicha Oficina en los siguientes casos:
+Se requiere autorización de la Dirección, para derribar o trasplantar los árboles plantados en los espacios públicos o privados del territorio municipal, y sólo podrá efectuarse bajo condiciones establecidas por dicha Oficina en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
 
 I.- Cuando de no hacerlo, se prevea un peligro para la integridad física de personas y bienes;
 
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
 II.- Cuando se encuentren secos;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
 
 III.- Cuando sus ramas afecten considerablemente a las fincas; y (sic)
 
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+
 IV.- Cuando sus raíces amenacen destruir las construcciones o deterioren el ornato de la zona de su ubicación;
 
-V.- Cuando por algún motivo, la Secretaría lo considere conveniente.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+V.- Cuando por algún motivo, la Dirección lo considere conveniente.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 101.
 
-Para obtener la autorización a que se refiere el artículo anterior, los interesados presentarán ante la Secretaría la solicitud correspondiente, la cual practicará una inspección y dictaminará lo conducente.
+Para obtener la autorización a que se refiere el artículo anterior, los interesados presentarán ante la Dirección la solicitud correspondiente, la cual practicará una inspección y dictaminará lo conducente.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 102.
 
-Cuando en el desarrollo de actividades comerciales, industriales o de servicios, o por la realización de obras de edificación o de urbanización, así como de infraestructura urbana, se requiere derribar o trasplantar árboles u otras plantas cuyas dimensiones sean considerables, deberá contarse con la autorización de la Secretaría.
+cuando en el desarrollo de actividades comerciales, industriales o de servicios, o por la realización de obras de edificación o de urbanización, así como de infraestructura urbana, se requiere derribar o trasplantar árboles u otras plantas cuyas dimensiones sean considerables, deberá contarse con la autorización de la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 103.
 
-en el caso de que se autorice el derribo de árboles, por cualquiera de los motivos previstos, el promovente deberá plantar o donar el Ayuntamiento, otros árboles, cuyo tamaño, especie y cantidad, será determinado de acuerdo con el número y características de los que hubieren sido derribados, de conformidad con lo que disponga la Secretaría.
+en el caso de que se autorice el derribo de árboles, por cualquiera de los motivos previstos, el promovente deberá plantar o donar el (sic) Ayuntamiento, otros árboles, cuyo tamaño, especie y cantidad, será determinado de acuerdo con el número y características de los que hubieren sido derribados, de conformidad con lo que disponga la Dirección.
 
 En el caso en el que sea factible trasplantar los árboles que deban ser removidos, se condicionará a la supervivencia de éstos en un periodo de tiempo determinado; de no sobrevivir, el interesado deberá sujetarse a lo dispuesto en el párrafo anterior y de no cumplir será sancionado de acuerdo al Capítulo Décimo de este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 104.
 
-Para el control de plagas o enfermedades propias de especies arbóreas, se permitirá a los particulares la poda de árboles localizados en los espacios públicos municipales, de conformidad con los lineamientos que en tales casos expida la Secretaría o la dependencia municipal responsables de las áreas verdes.
+Para el control de plagas o enfermedades propias de especies arbóreas, se permitirá a los particulares la poda de árboles localizados en los espacios públicos municipales, de conformidad con los lineamientos que en tales casos expida la Dirección o la dependencia municipal responsables de las áreas verdes.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 105.
 
-La Secretaría podrá dictaminar y ordenar la poda de un árbol que se encuentre sembrado en propiedad privada, cuando parte del mismo ocupe la vía pública obstaculizando el libre tránsito peatonal o vehicular, o afecte la visibilidad de cualquier tipo de señalamiento vial.
+La Dirección podrá dictaminar y ordenar la poda de un árbol que se encuentre sembrado en propiedad privada, cuando parte del mismo ocupe la vía pública obstaculizando el libre tránsito peatonal o vehicular, o afecte la visibilidad de cualquier tipo de señalamiento vial.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 106.
 
-Para colgar o colocar cualquier tipo de propaganda, de lonas u objetos, en árboles o plantas localizadas en la vía pública, se requiere solicitar y contar con la autorización de la Secretaría.
+Para colgar o colocar cualquier tipo de propaganda, de lonas u objetos, en árboles o plantas localizadas en la vía pública, se requiere solicitar y contar con la autorización de la Dirección.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 107.
 
-La Secretaría sancionará a cualquier persona que atente contra la preservación de las áreas verdes e incumpla las disposiciones de este Capítulo.
+La Dirección sancionará a cualquier persona que atente contra la preservación de las áreas verdes e incumpla las disposiciones de este Capítulo.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 108.
 
-Sin perjuicio de las atribuciones que corresponden a la Federación en materia de protección a la flora y fauna silvestre, el Ayuntamiento, por conducto de la Secretaría, denunciará ante la SEMARNAT los hechos de los que tenga conocimiento y que considere lesivos a la preservación de las especies de flora y fauna silvestre.
+Sin perjuicio de las atribuciones que corresponden a la Federación en materia de protección a la flora y fauna silvestre, el Ayuntamiento, por conducto de la Dirección, denunciará ante la SEMARNAT los hechos de los que tenga conocimiento y que considere lesivos a la preservación de las especies de flora y fauna silvestre.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 109.
 
-Las personas que pretendan realizar actos de comercio con la flora y fauna silvestre, de manera temporal o permanente, dentro de la circunscripción municipal, deberán acreditar ante la Secretaría, que la SEMARNAT les ha concedido la autorización correspondiente; en caso de no contar con dicha autorización la Dirección podrá ordenar el decomiso de los bienes hasta en tanto se ponga a disposición de la Procuraduría Federal de Protección al Ambiente, además de promover la cancelación de los permisos comerciales que existan.
+Las personas que pretendan realizar actos de comercio con la flora y fauna silvestre, de manera temporal o permanente, dentro de la circunscripción municipal, deberán acreditar ante la Dirección, que la SEMARNAT les ha concedido la autorización correspondiente; en caso de no contar con dicha autorización la Dirección podrá ordenar el decomiso de los bienes hasta en tanto se ponga a disposición de la Procuraduría Federal de Protección al Ambiente, además de promover la cancelación de los permisos comerciales que existan.
 
 ### CAPITULO SEPTIMO. EVALUACION AMBIENTAL
 
@@ -958,11 +1076,11 @@ Las personas que pretendan realizar actos de comercio con la flora y fauna silve
 
 Las disposiciones previstas en el presente Capítulo tienen por objeto la instrumentación de los principios de política ambiental previstos en la Ley General, particularmente y la evaluación ambiental, para prevenir y controlar los efectos adversos que sobre el medio ambiente y los ecosistemas pudieran generar las obras o actividades relativas a establecimientos mercantiles o de servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 111.
 
-Cualquier persona previamente a la realización de obras o actividades mercantiles o de servicios, deberá contar con la licencia ambiental expedida por la Secretaría, así como cumplir con los requisitos que se establezcan en la misma.
+Cualquier persona previamente a la realización de obras de construcción, ampliación y remodelación o actividades mercantiles o de servicios, deberá contar con la licencia ambiental expedida por la Dirección, así como cumplir con los requisitos que se establezcan en la misma.
 
 También se deberá tramitar la licencia ambiental municipal, en los siguientes casos:
 
@@ -978,51 +1096,67 @@ V.- Centrales de abastos;
 
 VI.- Aprovechamiento de minerales o sustancias no reservadas a la federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su desintegración, para la fabricación de materiales para la construcción u ornato;
 
-VII.- Almacenamiento de residuos no peligrosos; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Almacenamiento de residuos urbanos; y
 
 VIII.- Los que establezcan otras disposiciones jurídicas, y normas oficiales estatales.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 112.
 
-La licencia ambiental municipal, será el permiso único que en materia ambiental requerirán los establecimientos mercantiles o de servicios por parte del Ayuntamiento, integrando en esta autorización las disposiciones relativas a descargas de aguas residuales, emisiones a la atmósfera, manejo de residuos sólidos no peligrosos, emisiones de ruido, olores, vibraciones, energía térmica y lumínica, y en general, de todo aquello que sea de competencia municipal de conformidad con la Ley General, la Ley Estatal, las normas aplicables, las disposiciones del presente Reglamento y los Convenios que al efecto celebre el Gobierno Municipal con otros órdenes de gobierno.
+La licencia ambiental municipal, será el permiso único que en materia ambiental requerirán los establecimientos mercantiles o de servicios por parte del Ayuntamiento, integrando en esta autorización las disposiciones relativas a descargas de aguas residuales, emisiones a la atmósfera, manejo de residuos sólidos urbanos, emisiones de ruido, olores, vibraciones, energía térmica y lumínica, y en general, de todo aquello que sea de competencia municipal de conformidad con la Ley General, la Ley Estatal, las normas aplicables, las disposiciones del presente Reglamento y los Convenios que al efecto celebre el Gobierno Municipal con otros órdenes de gobierno.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 112 Bis.
+
+Las licencias ambientales para actividades mercantiles de recolección y transporte de agua residual, agua blanca, residuos sólidos urbanos y pétreos, serán refrendadas anualmente.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 112 Ter.
+
+La Dirección otorgará licencias ambientales hasta por 90 días para las actividades mercantiles temporales.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 113.
 
-Para la obtención de la autorización a que se refiere el artículo anterior, los interesados deberán presentar ante la Secretaría la solicitud correspondiente ante la Secretaría, en los formatos que para tal efecto se expidan.
+Para la obtención de la autorización a que se refiere el artículo 111, los interesados deberán presentar ante la Dirección la solicitud correspondiente, en los formatos que para tal efecto se expidan. Señalando entre otros las superficies destinadas para áreas verdes.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 114.
 
-La Secretaría evaluará la manifestación de impacto ambiental presentada dentro de veinte días siguientes a su presentación en caso de requerir información complementaria.
+La Dirección evaluará la manifestación de impacto ambiental presentada dentro de veinte días siguientes a su presentación en caso de requerir información complementaria.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 115.
 
-En caso de requerir información complementaria, la Secretaría lo hará saber a promovente dentro de un término máximo de cinco días hábiles posteriores a la presentación de la solicitud. De no presentar el promovente la información adicional, en un plazo de diez días hábiles posteriores a la notificación de requerimiento de información, se tendrá por no interpuesta la solicitud y se archivará el trámite como asunto concluído.
+En caso de requerir información complementaria, la Dirección lo hará saber a (sic) promovente dentro de un término máximo de cinco días hábiles posteriores a la presentación de la solicitud. De no presentar el promovente la información adicional, en un plazo de diez días hábiles posteriores a la notificación de requerimiento de información, se tendrá por no interpuesta la solicitud y se archivará el trámite como asunto concluído sin necesidad de notificación especial.
 
-Si para la presentación y evaluación de cierta información en la solicitud de licencia ambiental, fuere necesario un análisis técnico específico, se requerirá al promovente que presente dicha información a través de un Auditor Ambiental Externo autorizado por la Secretaría.
+Si para la presentación y evaluación de cierta información en la solicitud de licencia ambiental, fuere necesario un análisis técnico específico, se requerirá al promovente que presente dicha información a través de un Auditor Ambiental Externo autorizado por la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 116.
 
-La solicitud de licencia ambiental será evaluada por la Secretaría en un plazo de quince días hábiles posteriores a su presentación o a la entrega de información adicional por el promovente.
+La solicitud de licencia ambiental será evaluada por la Dirección en un plazo de quince días hábiles posteriores a su presentación o a la entrega de información adicional por el promovente.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Si la Secretaría requiriera un plazo mayor al previsto en este Artículo para análisis y evaluación desde la solicitud de licencia ambiental, lo notificará por escrito al promovente, señalándole el término adicional.
+Si la Dirección requiriera un plazo mayor al previsto en este Artículo para análisis y evaluación desde la solicitud de licencia ambiental, lo notificará por escrito al promovente, señalándole el término adicional.
 
 En el supuesto de que no se emita la resolución en el plazo señalado, se tendrá por concedida la licencia ambiental municipal para la realización de la obra o actividad de que se trate, debiéndose en todo caso, apegarse al cumplimiento de la normatividad ambiental vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 117.
 
-Una vez evaluada la manifestación de impacto ambiental, la Secretaría formulará y comunicará a los interesados la resolución correspondiente, en la que podrá:
+Una vez evaluada la manifestación de impacto ambiental, la Dirección formulará y comunicará a los interesados la resolución correspondiente, en la que podrá:
 
 I.- Autorizar la realización de la obra o actividad en los términos y condiciones señaladas en la solicitud de licencia ambiental municipal;
 
@@ -1032,25 +1166,25 @@ III.- Negar la licencia ambiental municipal.
 
 La ejecución de la obra o realización de la actividad de que se trate, deberá sujetarse a lo dispuesto en la resolución respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 118.
 
-Por las características, dimensiones o posibles implicaciones de la obra o actividad para la cual se solicite la licencia ambiental, la Secretaría podrá determinar la obligación de que se someta al procedimiento de evaluación de impacto ambiental conforme a la Ley Estatal y sus reglamentos.
+Por las características, dimensiones o posibles implicaciones de la obra o actividad para la cual se solicite la licencia ambiental, la Dirección podrá determinar la obligación de que se someta al procedimiento de evaluación de impacto ambiental conforme a la Ley Estatal y sus reglamentos.
 
 En estos casos, la resolución que dicte la autoridad estatal en materia de impacto ambiental, sustituirá la licencia ambiental municipal, teniendo los efectos previstos en este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 119.
 
-Todos los cambios o modificaciones que se hiciera al proyecto de una obra o actividad durante el procedimiento de evaluación, deberán ser notificados a la Secretaría para ser considerados antes de que se emita la licencia ambiental correspondiente.
+Todos los cambios o modificaciones que se hiciera al proyecto de una obra o actividad durante el procedimiento de evaluación, deberán ser notificados a la Dirección para ser considerados antes de que se emita la licencia ambiental correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 120.
 
-La Secretaría podrá revocar en cualquier momento la licencia ambiental que otorgue, y clausurar equipos, fuentes emisoras, fuentes de descarga, o la totalidad de las actividades de establecimientos mercantiles o de servicios, sin perjuicio de las sanciones a que se haga acreedor el responsable, si cualquiera de las siguientes condiciones llegaran a presentarse:
+La Dirección podrá revocar en cualquier momento la licencia ambiental que otorgue, y clausurar equipos, fuentes emisoras, fuentes de descarga, o la totalidad de las actividades de establecimientos mercantiles o de servicios, sin perjuicio de las sanciones a que se haga acreedor el responsable, si cualquiera de las siguientes condiciones llegaran a presentarse:
 
 I.- Cuando el establecimiento o actividad no cumpla con las disposiciones establecidas en las normas aplicables o los criterios y lineamientos establecidos en la licencia ambiental municipal correspondiente;
 
@@ -1074,39 +1208,39 @@ V.- Los Reglamentos y Normas vigentes; y
 
 VI.- Las demás disposiciones legales en la materia.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 122.
 
-La Secretaría podrá verificar en cualquier momento, que la obra o actividad de que se trate, se este realizando o se haya realizado de conformidad con la licencia ambiental municipal respectiva; en caso de incumplimiento se sancionará de conformidad con lo dispuesto en el Capítulo Décimo del presente Reglamento, pudiéndose en estos casos revocar la autorización en cuestión.
+La Dirección podrá verificar en cualquier momento, que la obra o actividad de que se trate, se esté realizando o se haya realizado de conformidad con la licencia ambiental municipal respectiva; en caso de incumplimiento se sancionará de conformidad con lo dispuesto en el Capítulo Décimo del presente Reglamento, pudiéndose en estos casos revocar la autorización en cuestión.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 123.
 
-Una vez otorgada la licencia ambiental municipal, si por caso fortuito o fuerza mayor llegaran a surgir afectaciones al ambiente no previstas en los documentos presentados por el promovente, o las medidas de prevención o mitigación propuestas en dichos documentos resultaran insuficientes, la Secretaría podrá evaluar de nuevo la solicitud de licencia ambiental de que se trate. En tales casos, la Secretaría requerirá al interesado para que se presente la información adicional o complementaria necesaria para evaluar la obra o actividad respectiva.
+Una vez otorgada la licencia ambiental municipal, si por caso fortuito o fuerza mayor llegaran a surgir afectaciones al ambiente no previstas en los documentos presentados por el promovente, o las medidas de prevención o mitigación propuestas en dichos documentos resultaran insuficientes, la Dirección podrá evaluar de nuevo la solicitud de licencia ambiental de que se trate. En tales casos, la Dirección requerirá al interesado para que se presente la información adicional o complementaria necesaria para evaluar la obra o actividad respectiva.
 
-La Secretaría podrá modificar, suspender o revocar la autorización otorgada, si la realización de la obra o actividad en cuestión, afectara o pusiera en riesgo el equilibrio ecológico, al medio ambiente o la salud pública.
+La Dirección podrá modificar, suspender o revocar la autorización otorgada, si la realización de la obra o actividad en cuestión, afectara o pusiera en riesgo el equilibrio ecológico, al medio ambiente o la salud pública.
 
-Mientras la Secretaría no dicte la resolución a que se refiere el párrafo anterior, se podrá ordenar la suspensión temporal o permanente, parcial o total, de la obra o actividad correspondiente.
+Mientras la Dirección no dicte la resolución a que se refiere el párrafo anterior, se podrá ordenar la suspensión temporal o permanente, parcial o total, de la obra o actividad correspondiente.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 124.
 
-En caso de que la licencia ambiental municipal esté condicionada a la presentación de otras autorizaciones o resoluciones administrativas, vencidos los plazos que se hubieren concedido y de no presentarse éstas ante la Secretaría, quedará sin efectos la autorización otorgada.
+En caso de que la licencia ambiental municipal esté condicionada a la presentación de otras autorizaciones o resoluciones administrativas, vencidos los plazos que se hubieren concedido y de no presentarse éstas ante la Dirección, quedará sin efectos la autorización otorgada.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 125.
 
-Aquellas personas que hayan obtenido licencia ambiental municipal y pretendan modificar sus procesos o materias primas, deberán solicitar previamente la autorización correspondiente de la Secretaría.
+Aquellas (sic) establecimientos mercantiles y de servicios que hayan obtenido licencia ambiental municipal y pretendan realizar una ampliación, modificación de sus procesos, cambio de giro, de propietario, de razón o denominación social, deberán gestionar previamente y de nueva cuenta la licencia ambiental correspondiente ante la Dirección.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 126.
 
-Cuando se realicen obras o actividades sin contar con la licencia ambiental municipal y con éstas se estuvieren generando afectaciones al medio ambiente o daños a la salud pública y los ecosistemas, se procederá a dictar la suspensión temporal o permanente, parcial o total, de dichas obras o actividades, hasta en tanto se proceda a la regularización respectiva y la Secretaría dicte la resolución correspondiente.
+Cuando se realicen obras o actividades sin contar con la licencia ambiental municipal y con éstas se estuvieren generando afectaciones al medio ambiente o daños a la salud pública y los ecosistemas, se procederá a dictar la suspensión temporal o permanente, parcial o total, de dichas obras o actividades, hasta en tanto se proceda a la regularización respectiva y la Dirección dicte la resolución correspondiente.
 
 ###### Artículo 127.
 
@@ -1114,19 +1248,19 @@ Será legalmente inexistente la licencia ambiental que se otorgue con base en in
 
 ### CAPITULO OCTAVO. MEDIDAS DE ORIENTACION Y CONCIENTIZACION PARA LA PARTICIPACION CIUDADANA
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO OCTAVO. MEDIDAS DE ORIENTACION Y CONCIENTIZACION
 
 ###### Artículo 128.
 
-Las disposiciones previstas en el presente capítulo tienen por objeto fomentar la participación de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental municipal, así como en la preservación y restauración del equilibrio ecológico y la protección del ambiente, a través de las acciones que llevará a cabo la Secretaría.
+Las disposiciones previstas en el presente capítulo tienen por objeto fomentar la participación de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental municipal, así como en la preservación y restauración del equilibrio ecológico y la protección del ambiente, a través de las acciones que llevará a cabo la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 129.
 
-Para los efectos del artículo anterior, el Ayuntamiento, por conducto de la Secretaría:
+Para los efectos del artículo anterior, el Ayuntamiento, por conducto de la Dirección:
 
 I.- Convocará, en el ámbito del sistema municipal de planeación democrática, al sector social, privado, instituciones académicas, grupos y organizaciones sociales y demás personas interesadas, para que manifiesten su opinión y propuestas;
 
@@ -1138,11 +1272,11 @@ IV.- Impulsará el fortalecimiento de la cultura ambiental, a través de accione
 
 V.- Concertará acciones e inversiones con los sectores sociales y privados, instituciones académicas, grupos y organizaciones sociales y demás personas interesadas para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 130.
 
-Para fomentar la participación y representación ciudadana en los programas y acciones que la Secretaría tenga a su cargo, el Ayuntamiento promoverá la integración del Subcomité Especial de Ecología, dentro de la estructura del Copladem.
+Para fomentar la participación y representación ciudadana en los programas y acciones que la Dirección tenga a su cargo, el Ayuntamiento promoverá la integración del Subcomité Especial de Ecología, dentro de la estructura del Copladem.
 
 ###### Artículo 131.
 
@@ -1164,41 +1298,41 @@ El Subcomité Especial de Ecología se reunirá de acuerdo a la agenda y horario
 
 A las reuniones del Subcomité podrán asistir los ciudadanos que estén interesados en los asuntos que traten las mismas, sin embargo, su participación tendrá que ser canalizada a través de los miembros del mismo.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 136.
 
-La Secretaría promoverá la elaboración y ejecución de programas y campañas destinados a involucrar a la población en general en la problemática de la contaminación ambiental, sus consecuencias y los medios para prevenirla, controlarla y abatirla; así como para desarrollar una conciencia de protección al ambiente y para promover el conocimiento y cumplimiento de este Reglamento.
+La Dirección promoverá la elaboración y ejecución de programas y campañas destinadas a involucrar a la población en general en la problemática de la contaminación ambiental, sus consecuencias y los medios para prevenirla, controlarla y abatirla; así como para desarrollar una conciencia de protección al ambiente y para promover el conocimiento y cumplimiento de este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 137.
 
-La Secretaría promoverá la realización, a través de los medios masivos de comunicación, de campañas de información sobre los problemas de contaminación ambiental que incidan en la jurisdicción municipal de Ensenada, B.C., así como de las medidas necesarias para su abatimiento, propiciando la formación de una conciencia ecológica en todos los sectores de la comunidad.
+La Dirección promoverá la realización, a través de los medios masivos de comunicación, de campañas de información sobre los problemas de contaminación ambiental que incidan en la jurisdicción municipal de Ensenada, B.C., así como de las medidas necesarias para su abatimiento, propiciando la formación de una conciencia ecológica en todos los sectores de la comunidad.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 138.
 
-La Secretaría promoverá la reubicación de establecimientos industriales, comerciales o de servicios, hacia las áreas definidas como factibles, de conformidad con lo dispuesto en el Programa de Desarrollo Urbano del Centro de Población de Ensenada, procurando que las empresas que opten por la relocalización consideren desde la etapa de montaje, la instalación de equipo, dispositivos y/o aditamentos anticontaminantes.
+La Dirección promoverá la reubicación de establecimientos industriales, comerciales o de servicios, hacia las áreas definidas como factibles, de conformidad con lo dispuesto en el Programa de Desarrollo Urbano del Centro de Población de Ensenada, procurando que las empresas que opten por la relocalización consideren desde la etapa de montaje, la instalación de equipo, dispositivos y/o aditamentos anticontaminantes.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 139.
 
-La Secretaría promoverá, ante las instituciones educativas, la celebración de eventos escolares en los planteles educativos radicados en el Municipio de Ensenada, Baja California, especialmente destinados a crear en la niñez y la juventud, cultura y conciencia ecológica.
+La Dirección promoverá, ante las instituciones educativas, la celebración de eventos escolares en los planteles educativos radicados en el Municipio de Ensenada, Baja California, especialmente destinados a crear en la niñez y la juventud, cultura y conciencia ecológica.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 140.
 
-La Secretaría promoverá, a través del programa que diseñe para tal fin, la regularización documental y operativa de establecimientos, servicios o instalaciones, para cuyo efecto difundirá los requisitos, trámites y obligaciones materia de este Reglamento.
+La Dirección promoverá, a través del programa que diseñe para tal fin, la regularización documental y operativa de establecimientos, servicios o instalaciones, para cuyo efecto difundirá los requisitos, trámites y obligaciones materia de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 141.
 
-Toda persona podrá denunciar, ante la Secretaría, los hechos, actos u omisiones que produzcan desequilibrio ecológico o daños al ambiente. El escrito en que se formule la denuncia, se manejará con la debida reserva y contendrá:
+Toda persona podrá denunciar, ante la Dirección, los hechos, actos u omisiones que produzcan desequilibrio ecológico o daños al ambiente. El escrito en que se formule la denuncia, se manejará con la debida reserva y contendrá:
 
 I.- Nombre, domicilio y teléfono del denunciante;
 
@@ -1206,37 +1340,37 @@ II.- Nombre y/o razón social y domicilio de la fuente contaminante, y en caso d
 
 III.- Breve descripción del hecho, acto u omisión que se presume produzca o pueda producir desequilibrio ecológico o daños al ambiente.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 142.
 
-Si la denuncia resultare del orden federal o estatal, la Secretaría la remitirá para su atención y trámite, a la Dependencia que corresponda.
+Si la denuncia resultare del orden federal o estatal, la Dirección la remitirá para su atención y trámite, a la Dependencia que corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 143.
 
-Para la atención de las denuncias que recibiere, que sean de jurisdicción municipal, la Secretaría efectuará las diligencias necesarias para la comprobación de los datos aportados por el denunciante, así como la evaluación de los mismos, de acuerdo a lo dispuesto en el Capítulo Noveno de este Reglamento.
+Para la atención de las denuncias que recibiere, que sean de jurisdicción municipal, la Dirección efectuará las diligencias necesarias para la comprobación de los datos aportados por el denunciante, así como la evaluación de los mismos, de acuerdo a lo dispuesto en el Capítulo Noveno de este Reglamento.
 
 ###### Artículo 144.
 
 La investigación de los hechos objeto de la denuncia podrá practicarse en cualquier momento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 145.
 
-Toda persona tendrá derecho a que la Secretaría, ponga a su disposición la información ambiental que soliciten, en los términos previstos en la Ley General.
+Toda persona tendrá derecho a que la Dirección, ponga a su disposición la información ambiental que soliciten, en los términos previstos en la Ley General.
 
 Para los efectos de lo dispuesto en el presente Capítulo, se considera información ambiental cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades municipales en materia de agua, aire, suelo, flora, fauna y recursos naturales en general, así como sobre las actividades que afectan o puedan afectarlos.
 
 Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 146.
 
-La Secretaría negará la entrega de la información ambiental a que se refiere el Artículo anterior cuando:
+La Dirección negará la entrega de la información ambiental a que se refiere el Artículo anterior cuando:
 
 I.- Se considere por disposición legal que la información es confidencial o que por propia naturaleza su difusión afecta la seguridad pública;
 
@@ -1246,11 +1380,11 @@ III.- Se trate de información aportada por terceros cuando los mismos no estén
 
 IV.- Se trate de información sobre inventarios, insumos o tecnologías de proceso, incluyendo la descripción del mismo.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 147.
 
-La Secretaría comunicará por escrito a los solicitantes de información ambiental en un plazo no mayor a veinte días hábiles a partir de la recepción de la petición respectiva. En caso de que se conteste negativamente la solicitud, se señalarán las razones que motivaron dicha determinación. Si transcurrido el plazo establecido en el párrafo anterior la autoridad no emite su respuesta por escrito, la petición se entenderá por resuelta en sentido negativo para el promovente.
+La Dirección comunicará por escrito a los solicitantes de información ambiental en un plazo no mayor a veinte días hábiles a partir de la recepción de la petición respectiva. En caso de que se conteste negativamente la solicitud, se señalarán las razones que motivaron dicha determinación. Si transcurrido el plazo establecido en el párrafo anterior la autoridad no emite su respuesta por escrito, la petición se entenderá por resuelta en sentido negativo para el promovente.
 
 ###### Artículo 148.
 
@@ -1258,25 +1392,27 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ### CAPITULO NOVENO. INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO NOVENO. INSPECCION Y VIGILANCIA
 
 ###### Artículo 149.
 
-La Secretaría tendrá a su cargo la vigilancia del cumplimiento de las disposiciones de este Reglamento, la Ley General y la Ley Estatal, en coordinación con las dependencias que resulten competentes y en los términos de los acuerdos que al efecto se celebren.
+La Dirección tendrá a su cargo la vigilancia del cumplimiento de las disposiciones de este Reglamento, la Ley General y la Ley Estatal, en coordinación con las dependencias que resulten competentes y en los términos de los acuerdos que al efecto se celebren.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 150.
 
-Para los efectos del artículo anterior, la Secretaría, por conducto del cuerpo de inspectores que establezca, realizará visitas de inspección en todos los establecimientos, servicios, instalaciones y obras cuyas actividades sean objeto de regulación en este Reglamento.
+Para los efectos del artículo anterior, la Dirección, por conducto del cuerpo de inspectores que establezca, realizará visitas de inspección en todos los establecimientos, servicios, instalaciones y obras cuyas actividades sean objeto de regulación en este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 151.
 
-Para la práctica de visitas de inspección, la Secretaría emitirá la orden escrita, debidamente fundada y motivada, en la que se señalará el personal facultado para realizar la diligencia; el lugar o zona a inspeccionarse; el objeto y alcance de la misma; y el nombre y firma de la autoridad que expide la orden.
+Para la práctica de visitas de inspección, la Dirección emitirá la orden escrita, debidamente fundada y motivada, en la que se señalará el personal facultado para realizar la diligencia; el lugar o zona a inspeccionarse; el objeto y alcance de la misma; y el nombre y firma de la autoridad que expide la orden.
+
+Cuando se detecte en plena flagrancia a cualquier persona realizando un acto, hecho u omisión que implique daño al ambiente o contravenga cualquier disposición de este Reglamento, se podrá actuar de conformidad con lo establecido en el artículo 163 del presente reglamento sin la necesidad de una orden de visita de inspección o de esperar al propietario del predio o del establecimiento mercantil o de servicios.
 
 ###### Artículo 152.
 
@@ -1292,9 +1428,11 @@ En el día y en la hora previamente fijada, de no ser atendido el citatorio, la 
 
 Al inicio de la diligencia se requerirá a la persona con la que ésta se entienda, para que designe dos testigos que deberán estar presentes durante el desarrollo de la misma. En caso de negativa o ausencia de los designados o que éstos no acepten fungir como testigos, el inspector hará la designación, haciendo constar esta situación en al acta que al efecto se levante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 154.
 
-Durante la práctica de la diligencia, el inspector levantará un acta circunstanciada en la que se harán constar los hechos u omisiones observados en el desarrollo de la inspección, dándosele intervención a la persona con la que se entienda la diligencia para que exponga lo que a su derecho convenga, lo que también se asentará en el acta correspondiente.
+Durante la práctica de la diligencia, el inspector levantará un acta circunstanciada en la que se hará una breve descripción del lugar y actividades que se llevan a cabo haciendo constar hechos u omisiones observados en el desarrollo de la inspección, dándosele intervención a la persona con la que se entienda la diligencia para que exponga lo que a su derecho convenga, lo que también se asentará en el acta correspondiente.
 
 Concluido el levantamiento del acta circunstanciada, ésta será firmada por el inspector, la persona con quien se atienda la inspección y los testigos.
 
@@ -1302,21 +1440,21 @@ En caso de que la persona con la que se entendió la diligencia o los testigos s
 
 Al término de la diligencia se hará entrega de copia del acta a la persona con la que se haya entendido, asentándose tal circunstancia en el cuerpo de la misma.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 155.
 
-El propietario, encargado o representante legal del lugar objeto de inspección, está obligado a permitir el acceso y otorgar las facilidades al personal de la Secretaría, para el desarrollo de la diligencia, así como proporcionar la información y documentación que se le requiera.
+El propietario, encargado o representante legal del lugar objeto de inspección, está obligado a permitir el acceso y otorgar las facilidades al personal de la Dirección, para el desarrollo de la diligencia, así como proporcionar la información y documentación que se le requiera.
 
 ###### Artículo 156.
 
 Dentro de las veinticuatro horas siguientes a la práctica de la diligencia, el personal de inspección entregará a la autoridad ordenadora el acta que hubiere levantado: (sic)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 157.
 
-El propietario o representante legal del establecimiento, obra o actividad inspeccionada, podrá manifestar por escrito lo que a su derecho convenga y ofrecer las pruebas que considere convenientes ante la Secretaría, en un plazo de tres días hábiles posteriores a la inspección, vencido dicho término, se tendrá por precluído su derecho para hacerlo con posterioridad; y se procederá dentro de los veinte días siguientes a dictar la resolución administrativa correspondiente.
+El propietario o representante legal del establecimiento, obra o actividad inspeccionada, podrá manifestar por escrito lo que a su derecho convenga y ofrecer las pruebas que considere convenientes ante la Dirección, en un plazo de tres días hábiles posteriores a la inspección, vencido dicho término, se tendrá por precluido su derecho para hacerlo con posterioridad; y se procederá dentro de los veinte días siguientes a dictar la resolución administrativa correspondiente.
 
 ###### Artículo 158.
 
@@ -1326,55 +1464,57 @@ En dicha resolución se precisarán los hechos constitutivos de infracción, las
 
 Cuando se trate de una segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer las sanciones que procedan por reincidencia conforme a las disposiciones establecidas en el Capítulo Décimo de este Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-En los casos que proceda, la Secretaría hará del conocimiento del Ministerio Público la realización de los actos u omisiones constatados que pudieran figurar uno o más delitos.
+En los casos que proceda, la Dirección hará del conocimiento del Ministerio Público la realización de los actos u omisiones constatados que pudieran figurar uno o más delitos.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 159.
 
-Los inspectores facultados por la Secretaría podrán llevar a cabo visitas de verificación para determinar si el infractor está implementado las medidas técnicas que se le impusieron y el grado de avance que éstas tengan.
+Los inspectores facultados por la Dirección podrán llevar a cabo visitas de verificación para determinar si el infractor está implementado (sic) las medidas técnicas que se le impusieron y el grado de avance que éstas tengan.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 160.
 
-La Secretaría podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección o verificación, cuando en el lugar objeto de la diligencia, alguna persona o personas manifieste oposición u obstaculicen la práctica de la misma, sin perjuicio de las sanciones a que haya lugar.
+La Dirección podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección o verificación, cuando en el lugar objeto de la diligencia, alguna persona o personas manifieste oposición u obstaculicen la práctica de la misma, sin perjuicio de las sanciones a que haya lugar.
 
 ###### Artículo 161.
 
 Las horas hábiles para la práctica de las visitas a que se refieren los artículos 150 y 158 párrafo segundo del presente Reglamento, serán de lunes a viernes de las ocho a las quince horas.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-La Secretaría tendrá la facultad para habilitar días y horas inhábiles, cuando hubiera causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+La Dirección tendrá la facultad para habilitar días y horas inhábiles, cuando hubiera causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 ###### Artículo 162.
 
 Si además de los reportes de muestreos de periódicos que conforme a la autorización otorgada estén obligados a presentar los establecimientos de servicios o mercantiles, fuera necesario por alguna causa justificada en una visita de inspección, tomar muestras y éstas sean analizadas en laboratorio para comprobar el acatamiento de la normatividad ambiental vigente, los gastos que se generen serán sufragados por el propietario del establecimiento objeto de tal diligencia, en caso de que resulte que dichas muestras rebasen los límites de contaminación permitidos.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 163.
 
-Cuando se detecte en plena flagrancia a cualquier persona realizando un acto, hecho u omisión que implique daño al ambiente o contravenga cualquier disposición de este Reglamento, los inspectores autorizados por la Secretaría estarán facultados para realizar las diligencias tendientes a solucionar, controlar y proteger al ambiente.
+Cuando se detecte en plena flagrancia a cualquier persona realizando un acto, hecho u omisión que implique daño al ambiente o contravenga cualquier disposición de este Reglamento, los inspectores autorizados por la Dirección estarán facultados para realizar las diligencias tendientes a solucionar, controlar y proteger al ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 164.
 
-En ejercicio de las acciones de vigilancia, la Secretaría por conducto del cuerpo de inspección autorizado, esta facultada, en caso de riesgo grave e inminente de desequilibrio ecológico o de daño al ambiente, para decretar, a título de medida de seguridad, la retención de materiales o sustancias contaminantes, la clausura temporal, parcial o total, de las fuentes o actividades contaminantes correspondientes cuya regulación en materia de protección al ambiente sea de competencia municipal, y las demás que sean necesarias para hacer frente al problema que se presente, para cuyo efecto se levantará acta de la diligencia observando las prevenciones establecidas para las inspecciones y se promoverán las medidas de seguridad pertinentes.
+En ejercicio de las acciones de vigilancia, la Dirección por conducto del cuerpo de inspección autorizado, está facultada, en caso de riesgo grave e inminente de desequilibrio ecológico o de daño al ambiente, para decretar, a título de medida de seguridad, la retención de materiales o sustancias contaminantes, la clausura temporal, parcial o total, de las fuentes o actividades contaminantes correspondientes cuya regulación en materia de protección al ambiente sea de competencia municipal, y las demás que sean necesarias para hacer frente al problema que se presente, para cuyo efecto se levantará acta de la diligencia observando las prevenciones establecidas para las inspecciones y se promoverán las medidas de seguridad pertinentes.
 
 Cuando no sea de su competencia y exista riesgo inminente de contaminación solicitará a las autoridades correspondientes la aplicación de las medidas que se consideren pertinentes.
 
 ### CAPITULO DECIMO. SANCIONES
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPITULO DECIMO. SANCIONES
 
 ###### Artículo 165.
 
-Están facultados para aplicar sanciones por infracciones a las disposiciones previstas en este Reglamento, el Director de Desarrollo Urbano y Ecología y sus superiores jerárquicos con base en la normatividad orgánica municipal.
+Están facultados para aplicar sanciones por infracciones a las disposiciones previstas en este Reglamento, el Director de Ecología y sus superiores jerárquicos con base en la normatividad orgánica municipal.
 
 ###### Artículo 166.
 
@@ -1416,9 +1556,9 @@ Cuando se cometan infracciones a las disposiciones de este Reglamento, se sancio
 
 En caso de que la resolución correspondiente se haya decretado como sanción la clausura temporal o definitiva, parcial o total de la fuente contaminante, el personal de inspección autorizado, levantará el acta de la diligencia de clausura.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-La diligencia de levantamiento de sellos de clausura, cuando proceda, sólo podrá realizarse mediante orden escrita de la Secretaría.
+La diligencia de levantamiento de sellos de clausura, cuando proceda, sólo podrá realizarse mediante orden escrita de la Dirección.
 
 En ambos casos se observarán las prevenciones establecidas para las inspecciones.
 
@@ -1426,23 +1566,27 @@ En ambos casos se observarán las prevenciones establecidas para las inspeccione
 
 En caso de reincidencia el monto de la multa podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, así como la clausura definitiva.
 
-Se entiende por reincidencia, la detección, en una posterior visita de verificación al mismo establecimiento, de una infracción igual a la que hubiere quedado consignada en una resolución precedente, dentro de los dos años anteriores a la que sea motivo de determinación.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+Se entiende por reincidencia, la detección, en una posterior visita de verificación al mismo establecimiento, de una infracción igual a la que hubiere quedado consignada en una resolución precedente, así como la detección de una infracción igual cometida por la misma persona física o moral al reglamento aun cuando sea en distinto domicilio, dentro de los dos años anteriores a la que sea motivo de determinación.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 172.
 
-Cuando la gravedad de la infracción lo amerite y sin perjuicio de las sanciones que procedan, la Secretaría podrá suspender, revocar o cancelar la concesión, permiso, licencia o autorización que haya otorgado para la realización de actividades, servicios u obras, cuya ejecución haya dado lugar a la infracción; así como solicitar ante la autoridad que corresponda, la suspensión, revocación o cancelación de las que esta última haya otorgado.
+Cuando la gravedad de la infracción lo amerite y sin perjuicio de las sanciones que procedan, la Dirección podrá suspender, revocar o cancelar la concesión, permiso, licencia o autorización que haya otorgado para la realización de actividades, servicios u obras, cuya ejecución haya dado lugar a la infracción; así como solicitar ante la autoridad que corresponda, la suspensión, revocación o cancelación de las que esta última haya otorgado.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 173.
 
-Cuando el infractor corrija la causa que originó el desequilibrio ecológico, los deterioros al ambiente o los daños a la salud pública, la Secretaría podrá revocar parcialmente la sanción impuesta.
+Cuando el infractor corrija la causa que originó el desequilibrio ecológico, los deterioros al ambiente o los daños a la salud pública, la Dirección podrá revocar parcialmente la sanción impuesta.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 174.
 
-Se sancionará con multa de diez a trescientos días de salario mínimo general vigente, a quien cometa cualquiera de las siguientes infracciones:
+Se sancionará con multa de diez a trescientos días de salario mínimo general vigente, a quien cometa cualquiera de las siguientes infracciones.
 
 I.- Mantener sin fines comerciales, animales domésticos o de crianza dentro de cualquier predio urbano y no tomar cualesquiera de las siguientes medidas:
 
@@ -1456,21 +1600,31 @@ d) Proveer del espacio suficiente para evitar en lo posible estados de alteraci�
 
 e) Mantener los animales dentro de los límites del predio de su propiedad o posesión.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-II.- Al que descargue o deje correr a cielo abierto, aguas residuales o sustancias químicas de cualquier índole, y no cuente con la autorización de la Secretaría;
+II.- Al que descargue o deje correr a cielo abierto, aguas residuales o sustancias químicas de cualquier índole, y no cuente con la autorización de la Dirección;
 
-III.- Al que descargue en fosas sépticas o letrinas aguas residuales proveniente de actividades no domésticas;
+III.- Al que descargue en fosas sépticas o letrinas aguas residuales proveniente (sic) de actividades no domésticas;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Realizar la combustión a cielo abierto de sustancias, materiales o residuos sólidos de cualquier índole, sin contar con la autorización de la Secretaría;
+IV.- Realizar la combustión a cielo abierto de sustancias, materiales o residuos sólidos de cualquier índole, sin contar con la autorización de la Dirección;
 
-V.- Realizar la combustión de residuos o sustancias de cualquier índole, en quemadores y calderas, sin contar con la autorización de la Secretaría;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VI.- A los responsables de las letrinas o fosas sépticas que generen efectos al ambiente por los escurrimientos a cielo abierto o por la emisión de olores perjudiciales al ambiente; y
+V.- Realizar la combustión de residuos o sustancias de cualquier índole, en quemadores y calderas, sin contar con la autorización de la Dirección;
+
+VI.- A los responsables de las letrinas o fosas sépticas que generen efectos al ambiente por los escurrimientos a cielo abierto o por la emisión de olores perjudiciales al ambiente; y (sic)
 
 VII.- A quien cometa cualquier infracción de las disposiciones de este Reglamento, que no señale en alguno de los siguientes artículos.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Al responsable de realizar obras o actividades que afecten al medio ambiente sin tomar las medidas necesarias para prevenir y minimizar los efectos ocasionados al medio ambiente.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+IX.- A los propietarios de lotes baldíos que no den cumplimiento a la limpieza de los mismos en el plazo concedido por la Dirección en la resolución administrativa definitiva.
 
 ###### Artículo 175.
 
@@ -1494,29 +1648,29 @@ IV.- A los poseedores o propietarios de vehículos automotores que transporten s
 
 V.- A los usuarios de las estaciones de transferencia y de los sitios de disposición final de residuos sólidos no peligrosos que maneje o contrate el Ayuntamiento, que no acaten en todo momento las instrucciones de los administradores de dichos sitios;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Al responsable de que se cuelgue o coloque cualquier tipo de propaganda, lonas u objetos, en árboles o plantas localizadas en la vía pública, sin contar con la autorización de la Secretaría;
+VI.- Al responsable de que se cuelgue o coloque cualquier tipo de propaganda, lonas u objetos, en árboles o plantas localizadas en la vía pública, sin contar con la autorización de la Dirección;
 
 VII.- Al propietario o responsable del establecimiento, obra o actividad que no cumpla con las disposiciones contenidas en las normas, criterios o lineamientos aplicables, que se hubieren señalado en la licencia ambiental municipal;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VIII.- A quien realice obras o actividades sin contar con la autorización que emita la Secretaría de conformidad con lo dispuesto en este Reglamento;
+VIII.- A quien realice obras o actividades sin contar con la autorización que emita la Dirección de conformidad con lo dispuesto en este Reglamento;
 
 IX.- A los responsables de las fuentes emisoras que por sus características requieran de puertos de muestreo y plataformas de seguridad para realizar el monitoreo de las emisiones que producen, que no cumplan con las especificaciones previstas en las normas aplicables expedidas por las autoridades competentes para dichos puertos y plataformas y no conserven éstos en buenas condiciones;
 
 X.- A los transportistas de residuos o materiales peligrosos que no se apeguen a las rutas y horarios ecológicos establecidos por las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XI.- A quien utilice para la disposición de residuos, servicios de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos no peligrosos, que no cuenten con la autorización que emita la Secretaría;
+XI.- A quien utilice para la disposición de residuos, servicios de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos no peligrosos, que no cuenten con la autorización que emita la Dirección;
 
 XII.- A los responsables de establecimientos o actividades que generen residuos sólidos no peligrosos, que no cuenten con un área delimitada para el almacenamiento temporal de los mismos, provista de contenedores con tapa adecuada para evitar la contaminación de los suelos, la emisión de olores, la propagación de fauna nociva para la salud y la contaminación visual;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XIII.- Disponer o utilizar la excretas de origen animal generadas en las instalaciones de producción de carne, leche o de huevo, en establos o en cualquier otro similar, sin previo tratamiento y autorización de la Secretaría;
+XIII.- Disponer o utilizar la excretas de origen animal generadas en las instalaciones de producción de carne, leche o de huevo, en establos o en cualquier otro similar, sin previo tratamiento y autorización de la Dirección;
 
 XIV.- A quien no disponga adecuadamente de los residuos que generó o recolectó, conforme a lo establecido en este Reglamento;
 
@@ -1524,9 +1678,9 @@ XV.- Almacenar o acumular residuos sólidos a cielo abierto, o bajo condiciones 
 
 XVI.- Realizar actos que atenten contra la preservación de las áreas verdes en cualquier parque, calzada, paseo y otros sitios públicos, como maltrato a plantas, césped y flores; tala y quema de árboles o plantas, y en general todos aquellos actos que afecten al mantenimiento, conservación e incremento de los recursos genéticos de la flora;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XVII.- Derribar o trasplantar árboles o plantas localizadas en los espacios públicos del territorio municipal, sin autorización de la Secretaría;
+XVII.- Derribar o trasplantar árboles o plantas localizadas en los espacios públicos del territorio municipal, sin autorización de la Dirección;
 
 XVIII.- Arrojar o depositar materiales de residuos sólidos a cielo abierto o en sitios no autorizados por la autoridad competente;
 
@@ -1534,41 +1688,47 @@ XIX.- Al promovente que incumpla cualesquiera de las disposiciones o plazos del 
 
 XX.- Al que deposite en la vía pública, escombro o residuos en general provenientes de la industria de la construcción; y
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XXI.- Al que incumpla las disposiciones que en base a lo dispuesto en el presente Reglamento, sean dictadas por la Secretaría con fines correctivos, de autorización o de regularización, en cualquier resolución o dictamen técnico.
+XXI.- Al que incumpla las disposiciones que en base a lo dispuesto en el presente Reglamento, sean dictadas por la Dirección con fines correctivos, de autorización o de regularización, en cualquier resolución o dictamen técnico.
 
 ###### Artículo 176.
 
 Se sancionará con multa de treinta a mil quinientos días de salario mínimo general vigente, a quien cometa cualquiera de las siguientes infracciones:
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-I.- A quien descargue o arroje al sistema de alcantarillado o drenaje municipal, o deposite en zonas inmediatas al mismo, sin contar con el permiso de la Secretaría;
+I.- A quien descargue o arroje al sistema de alcantarillado o drenaje municipal, o deposite en zonas inmediatas al mismo, sin contar con el permiso de la Dirección;
 
 II.- Al responsable de una fuente fija que emita ruido que exceda de los 68 decibeles dentro de un horario de las seis a las veintidós horas y de 65 decibeles en un horario de las veintidós a las seis horas; o exceda las condiciones particulares de emisión fijadas en la licencia ambiental;
 
 III.- Realizar operaciones de carga o descarga que genere ruido que exceda de un nivel de 90 decibeles en un horario de las siete a las veintidós horas y de 85 decibles en un horario de las veintidós a las siete horas;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Derribar o trasplantar árboles localizados en predios de propiedad privada, para el desarrollo de actividades comerciales, industriales o de servicios, o por la introducción de obras de infraestructura urbana o acciones de urbanización, sin contar con la autorización de la Secretaría;
+IV.- Derribar o trasplantar árboles localizados en predios de propiedad privada, para el desarrollo de actividades comerciales, industriales o de servicios, o por la introducción de obras de infraestructura urbana o acciones de urbanización, sin contar con la autorización de la Dirección;
 
 V.- A los responsables de fuentes emisoras de compuestos orgánicos volátiles que no cumplan con las disposiciones que para su control establezcan las autoridades competentes;
 
 VI.- A los responsables de establecimientos o actividades mercantiles o de servicios, que generen ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas, u olores perjudiciales, que no cuenten con elementos constructivos, materiales, aditamentos y equipos y sistemas de operación necesarios para aislar y evitar los impactos negativos de los contaminantes al ambiente;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VII.- A quien proporcione información falsa o incorrecta para la realización de cualquier trámite ante la Secretaría o la induzca al error;
+VII.- A quien proporcione información falsa o incorrecta para la realización de cualquier trámite ante la Dirección o la induzca al error;
 
 VIII.- A quien no realice la obra o actividad de que se trate, de conformidad con la licencia ambiental municipal respectiva;
 
 IX.- Al propietario o representante legal de los lugares objeto de inspección o verificación que se nieguen a permitir el acceso al lugar o lugares motivo de la diligencia, y no otorguen facilidades para el desarrollo de la misma;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-X.- A los propietarios de establecimientos que se nieguen a sufragar los costos del análisis de muestras tomadas en diligencias de inspección o verificación por la Secretaría en dichos establecimientos, siempre que los resultados de dichos análisis demuestren que exista incumplimiento de la normatividad aplicable.
+X.- A los propietarios de establecimientos que se nieguen a sufragar los costos del análisis de muestras tomadas en diligencias de inspección o verificación por la Dirección en dichos establecimientos, siempre que los resultados de dichos análisis demuestren que exista incumplimiento de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 176 Bis.
+
+A los infractores del presente reglamento se les impondrá además de la multa respectiva los gastos de ejecución equivalentes al 10% del monto total de la sanción impuesta en la resolución administrativa definitiva así como los gastos de notificación establecidos en la Ley de Ingresos Municipal.
 
 ### CAPITULO DECIMO PRIMERO. RECURSO DE RECONSIDERACION
 
@@ -1578,9 +1738,9 @@ X.- A los propietarios de establecimientos que se nieguen a sufragar los costos 
 
 Contra las resoluciones o actos dictados con motivo de la aplicación del presente Reglamento, procederá el Recurso de Reconsideración. El escrito por el que se interponga el recurso respectivo, deberá satisfacer los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-I.- El nombre y domicilio del recurrente y en su caso, el de la persona que promueva en su nombre acreditando la personalidad con la que comparece, si ésta no se tenía acreditada ante la Secretaría;
+I.- El nombre y domicilio del recurrente y en su caso, el de la persona que promueva en su nombre acreditando la personalidad con la que comparece, si ésta no se tenía acreditada ante la Dirección;
 
 II.- La resolución o el acto que se impugna, señalando la autoridad de la que haya emanado;
 
@@ -1662,15 +1822,17 @@ JEFE DEL AREA DE ECOLOGIA
 
 BIOL. SERGIO ALFREDO HIRALES LEREE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ENERO DE 2008.
 
-UNICO ((SIC).- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+UNICO (SIC).- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Sométase a consideración de este H. Cabildo en Pleno la Aprobación de la Reforma a los artículos 2, 3, fracción XI y XXXI, 4, 6 primer párrafo y fracción IV, 7, 8 párrafo primero y fracción III, 9, 10, 13, 14, 15, 16, 17, 19, 20 párrafo segundo, 23, 25, 26, 27 párrafo primero, segundo y tercero, 29 fracción III y IV, 32, 33, 34, 35, 37, 38, 41, 42, 43, 44, 45, 47, 48, 51, 52, 53, 54, 55, 56, 57, 58, 60, 63, 65 párrafo primero y segundo, 67, 69, 85, 87, 88, 90, 91, 92, 93, 94, 95, 100 párrafo y fracción V, 101, 102, 103, 104, 105, 106, 107, 108, 109, 11 (SIC), 113, 114, 115 párrafo primero y segundo, 116 párrafo primero y segundo, 117, 118, 119, 120, 122, 123 párrafo primero, segundo tercero, 124, 125, 126, 128, 129, 130, 136, 137, 138, 139, 140, 141, 142, 143, 145, 146, 147, 149, 150, 151, 155, 157, 158 párrafo tercero, 159, 160, 161 párrafo segundo, 163, 164, 170 párrafo segundo, 172, 173, 174 fracción II, IV y V, 175 fracción VI, VIII, XI, XIII y XXI, 176, fracción I, IV, VII y X, 177 fracción I del REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
 TERCERO.- Siendo aprobada la presente reforma, Publíquese en el Periódico Oficial del Estado de Baja California, para los efectos de su entrada en vigor.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
 
 ## TRANSITORIOS
 
@@ -1679,3 +1841,7 @@ Ayuntamiento Constitucional de Ensenada, B. C.
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
