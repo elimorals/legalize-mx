@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2013-04-03"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2013-03-27"
 
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE ABRIL DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -98,6 +96,28 @@ VII. Mantener, en coordinación con las áreas competentes, las relaciones inter
 VIII. Dirigir y organizar las unidades de apoyo técnico a su cargo y establecer sistemas de coordinación y colaboración de éstas con las dependencias y entidades de la Administración Pública Federal para el debido ejercicio de sus funciones, y
 
 IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2013)</small>
+
+Artículo 4 bis. La Jefatura de la Oficina de la Presidencia contará con un Vocero del Gobierno de la República, quien intervendrá en el diseño e implementación de las estrategias de información gubernamental, bajo los principios de transversalidad, congruencia, transparencia y rendición de cuentas, en coordinación con las instancias competentes.
+
+El Vocero del Gobierno de República será designado por el Ejecutivo Federal y tendrá las funciones siguientes:
+
+I. Convocar a reuniones de trabajo a los titulares de las áreas de comunicación social de las dependencias y entidades de la Administración Pública Federal, con objeto de diseñar y coordinar la estrategia de información gubernamental;
+
+II. Supervisar las acciones para la ejecución de la estrategia de información gubernamental;
+
+III. Coordinar a las áreas de comunicación social de las dependencias y entidades de la Administración Pública Federal, para dar congruencia a la información que el Gobierno de la República difunda a la población;
+
+IV. Ampliar y, en su caso, precisar la información relacionada con los posicionamientos del Gobierno de la República;
+
+V. Coadyuvar en el apoyo para la realización de programas, campañas o acciones específicas de información gubernamental, en coordinación con las instancias competentes;
+
+VI. Coadyuvar con la Coordinación de Comunicación Social de la Oficina de la Presidencia en la formulación, regulación y conducción de la política de comunicación social del Gobierno de la República, así como en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Federal;
+
+VII. Participar en las reuniones del Gabinete y de los gabinetes especializados a las que sea convocado, y
+
+VIII. Las demás necesarias para el cumplimiento del presente Decreto y que le asigne el Jefe de la Oficina de la Presidencia.
 
 ###### Artículo 5.
 
@@ -408,3 +428,9 @@ SEGUNDO.- Se abroga el Acuerdo por el que se reestructuran las unidades administ
 TERCERO.- La Coordinación General de Administración proveerá lo necesario para que los recursos humanos, financieros y materiales sean asignados conforme a lo previsto en el presente Reglamento, en términos del Presupuesto autorizado.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de marzo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
