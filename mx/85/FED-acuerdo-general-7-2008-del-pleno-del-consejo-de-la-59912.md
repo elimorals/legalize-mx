@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2013-11-11"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -113,249 +113,101 @@ III. Auxiliar al Pleno, a las Comisiones o al Presidente del Consejo en las tare
 
 ###### Artículo 4.
 
-Integración. La Visitaduría la integran el visitador general, los visitadores, el director general, los secretarios técnicos y demás servidores públicos que el Pleno determine.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 5.
 
-Requisitos del Visitador General. El visitador general, además de reunir los requisitos previstos en el segundo párrafo del artículo 88 de la Ley, deberá ser magistrado de Circuito ratificado, haber sido juez de Distrito, gozar de amplia experiencia y conocimiento del funcionamiento de los órganos jurisdiccionales y no haber sido sancionado por falta grave por el Consejo o por la Suprema Corte de Justicia de la Nación.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 6.
 
-Designación del Visitador General y duración del encargo. El visitador general será designado por el Pleno, a propuesta de su presidente, durará cuatro años en el ejercicio de su encargo, prorrogables por una vez, a consideración del Pleno.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 7.
 
-Requisitos de los Visitadores "A". El visitador judicial "A", además de reunir los requisitos previstos en el segundo párrafo del artículo 99 de la Ley, deberá ser magistrado de Circuito, ratificado en su cargo, haber sido juez de Distrito y no haber sido sancionado por falta grave por el Consejo o por la Suprema Corte de Justicia de la Nación.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 8.
 
-Designación de los Visitadores "A" y duración del encargo. Los visitadores judiciales "A" serán designados por el Pleno, a propuesta de su presidente. Durarán tres años en su encargo, prorrogables por una vez, a consideración del Pleno.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 9.
 
-Requisitos de los Visitadores "B". El visitador judicial "B" deberá reunir los requisitos previstos en el segundo párrafo del artículo 99 de la Ley.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 10.
 
-Designación de los Visitadores "B" y duración del encargo. Los visitadores judiciales "B" serán designados por el Pleno, mediante la celebración de un concurso de oposición, cuyas bases serán elaboradas por la Comisión y sometidas a la aprobación del Pleno. Podrá prescindirse del concurso cuando las necesidades del servicio apremien la designación. Durarán tres años en su encargo, prorrogables por una vez, a consideración del Pleno.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 11.
 
-Requisitos para ser Director General. Para ser director general se requiere: a) Ser de nacionalidad mexicana; b) Tener título de licenciado en Derecho; c) Contar con experiencia mínima profesional de cinco años, como secretario de juzgado de Distrito o tribunal de Circuito; d) Gozar de buena reputación; e) No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año; y f) No haber sido sancionado por falta grave por instancia competente.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 12.
 
-Designación del Director General. El nombramiento y designación del director general, será aprobado por el Pleno, a propuesta del Visitador General.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 13.
 
-Requisitos para ser Secretario Técnico. Para ser secretario técnico, además de los requisitos previstos en el segundo párrafo del artículo 87 de la Ley, se requiere: a) Tener título de licenciado en Derecho; y b) Contar con experiencia mínima profesional de tres años, como secretario de juzgado de Distrito o tribunal de Circuito.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 14.
 
-Designación de los Secretarios Técnicos. Los secretarios técnicos serán designados por el visitador general. Los secretarios técnicos adscritos a los visitadores judiciales "A", serán designados por el visitador general, a propuesta del visitador judicial "A" de que se trate.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 15.
 
-Funciones y obligaciones del Visitador General. El visitador general tendrá las siguientes funciones y obligaciones:
-
-I. Planear, programar, coordinar e implementar la práctica de las visitas ordinarias de inspección y de las inspecciones ordinarias a distancia. Enviar al secretario ejecutivo la documentación relativa al plan de visitas ordinarias de inspección para que éste realice el sorteo de los órganos jurisdiccionales a inspeccionar entre los visitadores judiciales "B";
-
-II. Elaborar el programa de visitas ordinarias e inspecciones ordinarias a distancia;
-
-III. Enviar con la oportunidad debida los oficios de aviso a los titulares de los distintos órganos jurisdiccionales para que comuniquen al público lo concerniente a la visita, conforme a lo previsto por el artículo 100 de la Ley;
-
-IV. Calificar los impedimentos de los visitadores judiciales "B";
-
-V. Cambiar al visitador judicial "B" que deba practicar la visita ordinaria o la inspección ordinaria a distancia, cuando a su juicio, exista causa fundada para ello;
-
-VI. Cambiar la fecha de inicio o conclusión de cualquier visita ordinaria o de la inspección ordinaria a distancia, cuando a su juicio, exista causa fundada para ello;
-
-VII. Solicitar a la Comisión que se emitan las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que durante el desarrollo de alguna visita de inspección, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
-
-VIII. Velar porque impere el orden y el respeto entre los integrantes de la Visitaduría y de éstos hacia el personal de los órganos visitados;
-
-IX. Expresar ante la Comisión el impedimento que tenga para realizar visitas de inspección;
-
-X. Implementar las visitas extraordinarias de inspección que el Pleno o la Comisión ordenen. Designar al visitador judicial "A" para la práctica de visitas extraordinarias, en caso de que no se asigne uno en especial;
-
-XI. Proponer al Pleno, con la debida fundamentación y motivación, los programas semestrales de visitas extraordinarias programadas; la selección de órganos jurisdiccionales a visitar, la calendarización de las visitas, el visitador judicial “A” designado, los aspectos en los que se deba poner mayor énfasis en la visita extraordinaria, así como otras circunstancias relevantes;
-
-XII. Implementar las visitas extraordinarias programadas que el Pleno acuerde. De no hacerse especial designación, el visitador general señalará al visitador judicial “A” que se encargará de practicarla;
-
-XIII. Remitir al secretario ejecutivo las correspondientes actas de visita y de inspección a distancia que se levanten. Informar al secretario ejecutivo los resultados de las supervisiones de conducta de los servidores públicos de los órganos jurisdiccionales;
-
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
-
-XIV. Planear, programar, implementar, coordinar y practicar los informes;
-
-XV. Rendir los informes que sean requeridos a la Visitaduría, por los órganos competentes del Consejo;
-
-XVI. Solicitar a las dependencias del Consejo o a los órganos jurisdiccionales, la información que se requiera para la realización de las funciones de la Visitaduría;
-
-XVII. Nombrar a los servidores públicos de la Visitaduría, con excepción de los visitadores y del director general. Proponer el nombramiento de este último al Pleno. En el caso de los servidores públicos adscritos a los visitadores judiciales "A", el nombramiento se hará a propuesta de éstos;
-
-XVIII. Conceder a los visitadores judiciales “B” y demás servidores públicos de la Visitaduría, licencia por causa justificada con goce de sueldo hasta por treinta días; y sin goce de sueldo hasta por seis meses. Las licencias de los visitadores judiciales “A” y aquellas que excedan de estos términos serán concedidas por la Comisión, con arreglo a la Ley y demás disposiciones aplicables, en el caso de los visitadores judiciales “A”, se recabará previamente la opinión del visitador general;
-
-XIX. Suplir las ausencias temporales de los visitadores judiciales "A" que no excedan de un mes;
-
-XX. Designar a funcionarios que deban hacerse cargo del despacho de la Visitaduría, durante los periodos vacacionales a que se refiere el artículo 159 de la Ley, así como al personal de apoyo que al efecto estime necesario;
-
-XXI. Autorizar las vacaciones a los funcionarios y empleados a que se refiere la fracción anterior, en los términos del artículo 159, párrafo segundo, de la Ley;
-
-XXII. Elaborar e implementar sistemas de supervisión y evaluación del desempeño y la conducta de los visitadores; informar a la Comisión los resultados de la evaluación y, en caso de ser negativos, proponer las medidas adecuadas;
-
-XXIII. Emitir opinión fundada al Consejo sobre la posible prórroga del nombramiento de los visitadores judiciales;
-
-XXIV. Cuidar que los procedimientos de inspección, de supervisión y las actas que se levanten, se ajusten a los lineamientos a que se refieren la Ley, este acuerdo general, así como las disposiciones relativas;
-
-XXV. Proponer a la Comisión, cuando exista razón fundada, la práctica del instrumento correspondiente, o bien la investigación de algún hecho o acto concreto, relacionado con el funcionamiento de un órgano jurisdiccional o con la conducta o el desempeño de cualquier funcionario o empleado judicial que pudiera ser constitutivo de causa de responsabilidad;
-
-XXVI. Instruir el cumplimiento o cumplir por sí mismo, los acuerdos emitidos por el Pleno o la Comisión, para la investigación de un hecho relacionado con algún servidor público de órgano jurisdiccional;
-
-XXVII. Ante cualquier circunstancia no prevista en la normatividad, implementar las acciones necesarias para ejecutar las inspecciones o supervisiones que se programen u ordenen. Cuidará que sus acciones no contravengan la esencia y características de los diferentes instrumentos;
-
-XXVIII. Implementar un registro en el que se guarden en forma sistematizada los resultados de las inspecciones y las supervisiones que la Visitaduría realice, con los propósitos de control, consulta e información;
-
-XXIX. Coordinar las reuniones periódicas con los visitadores con el objeto de analizar y uniformar, en su caso, los criterios que surjan en el desarrollo de su función;
-
-XXX. Rendir a la Comisión, cada seis meses, un informe detallado de labores; y previo su análisis y aprobación por ésta, remitir al Pleno, uno anual que además de cuenta sobre los resultados generales de la inspección y supervisión efectuadas;
-
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
-
-XXXI. Formular y proponer a la Comisión proyectos de reforma a este acuerdo general, a cualquier formato de actas, informes, cuestionarios; y
-
-XXXII. Las demás que le confieran la Ley, este acuerdo general, así como las disposiciones que en la materia emitan el Pleno o la Comisión.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 16.
 
-Funciones y obligaciones de los Visitadores "A". Los visitadores judiciales "A" tendrán las siguientes funciones y obligaciones:
-
-I. Practicar las visitas extraordinarias;
-
-II. Revisar las resoluciones y proyectos de resolución formulados por los titulares de los órganos jurisdiccionales. Dicha revisión la harán a solicitud de cualquiera de las Comisiones o del Pleno;
-
-III. Recibir quejas administrativas y denuncias durante la práctica de visitas;
-
-IV. Expresar a la Comisión respectiva, el impedimento que tengan para realizar visitas de inspección extraordinarias, o bien para revisar resoluciones;
-
-V. Suplir las ausencias temporales del visitador general, cuando lo determine la Comisión, o la de algún visitador judicial "A", cuando lo disponga el visitador general;
-
-VI. Tratar con respeto tanto al personal de la Visitaduría, como al de los órganos jurisdiccionales;
-
-VII. Informar al visitador general, sobre la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
-
-VIII. Informar al visitador general de cualquier hecho o acto del que se percaten durante la práctica de las visitas y que pudiera ser constitutivo de responsabilidad de cualquier funcionario o empleado del órgano visitado;
-
-IX. Rendir oportunamente al visitador general, un informe semestral de labores;
-
-X. Proponer al visitador general los nombramientos de su personal;
-
-XI. Participar en los programas para la evaluación de los visitadores judiciales "B"; y
-
-XII. Las que señale la Ley, este acuerdo general y demás disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 17.
 
-Funciones y obligaciones de los Visitadores "B". Los visitadores judiciales "B" tendrán las siguientes funciones y obligaciones:
-
-I. Practicar visitas ordinarias e inspecciones ordinarias a distancia a los órganos jurisdiccionales;
-
-II. Expresar ante el Visitador General, el impedimento que tengan para realizar visitas de inspección o inspecciones ordinarias a distancia;
-
-III. Recibir quejas administrativas y denuncias durante la práctica de las visitas, siempre y cuando éstas se formulen por escrito;
-
-IV. Suplir las ausencias temporales de otro visitador judicial "B";
-
-V. Tratar con respeto tanto al personal de la Visitaduría, como al de los órganos jurisdiccionales;
-
-VI. Auxiliar al visitador general en las labores que les encomiende, para cumplir con las funciones de la Visitaduría;
-
-VII. Rendir oportunamente al visitador general, un informe semestral de labores; y
-
-VIII. Las que señale la Ley, este acuerdo general y demás disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 18.
 
-Funciones y Obligaciones del Director General. El director general tendrá las siguientes funciones y obligaciones:
-
-I. Supervisar al personal adscrito a la Visitaduría en cumplimiento a las disposiciones del visitador general, con excepción de los visitadores judiciales "A";
-
-II. Llevar el control de la correspondencia de la Visitaduría, según instrucciones que gire el visitador general;
-
-III. Dar cuenta al visitador general, con la documentación que ingrese a la Visitaduría;
-
-IV. Realizar y coordinar, en términos de la Ley y del presente acuerdo general, las acciones de apoyo necesarias al visitador general o a cualquiera de los visitadores;
-
-V. Canalizar a las áreas correspondientes las peticiones que realicen los integrantes de los órganos jurisdiccionales;
-
-VI. Recibir las quejas y denuncias que se presenten por escrito ante la Visitaduría, informar de ellas al visitador general y turnarlas al secretario ejecutivo;
-
-VII. Brindar el apoyo necesario a los visitadores judiciales, para que pueda realizarse, con las mayores facilidades, el programa de visitas aprobado y el relativo a las inspecciones ordinarias a distancia, elaborado por el Visitador General;
-
-VIII. Colaborar con el visitador general, en la preparación y coordinación de las acciones de inspección y supervisión de la competencia de la Visitaduría, recabando toda la documentación necesaria para ello;
-
-IX. Recopilar los criterios y resultados que se obtengan en las reuniones a que se refiere la fracción XXIX del artículo 15 de este acuerdo general;
-
-X. Administrar los recursos del fondo fijo asignado a la Visitaduría;
-
-XI. Atender, tramitar y responder las solicitudes que se formulen a la Visitaduría en ausencia del Visitador General, que no sean de la competencia exclusiva de éste;
-
-XII. Manejar el archivo de la Visitaduría; certificar y expedir las copias de actas y documentos que obren en aquél y que sean requeridas a la propia Visitaduría, por órganos del Consejo u órganos jurisdiccionales;
-
-XIII. Remitir al director general de Recursos Humanos del Consejo, copia certificada de las actas de visita y de inspección a distancia que se levanten, así como los resultados de la supervisión de conducta, para ser agregadas al expediente personal de los servidores públicos inspeccionados y al expediente del órgano jurisdiccional;
-
-XIV. Tratar con respeto tanto al personal de la Visitaduría como al de los órganos jurisdiccionales; y
-
-XV. Las demás que le encomiende expresamente el Visitador General, encaminadas a cumplir con las funciones de la Visitaduría.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 19.
 
-Funciones y obligaciones de los Secretarios Técnicos. Los secretarios técnicos adscritos a la Visitaduría, tendrán las siguientes funciones y obligaciones:
-
-I. Asistir al visitador general o los visitadores judiciales "A", en la práctica de las visitas extraordinarias de inspección y demás diligencias en que éstos intervengan;
-
-II. Actuar como testigos de asistencia en la práctica de las visitas extraordinarias de inspección, así como firmar el acta correspondiente;
-
-III. Auxiliar al visitador general y al director general, en los programas de inspección y supervisión que efectúe la Visitaduría, así como en el despacho de la correspondencia que se reciba en el órgano auxiliar;
-
-IV. Tratar con respeto tanto al personal de la Visitaduría, como al de los órganos jurisdiccionales; y
-
-V. Las demás que les encomienden los visitadores “A”, a fin de cumplir con los objetivos de la Visitaduría.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ### CAPITULO TERCERO. DE LAS SUPLENCIAS E IMPEDIMENTOS
 
 ###### Artículo 20.
 
-Suplencias del Visitador General. Las ausencias temporales del visitador general serán cubiertas por el visitador judicial "A" que designe la Comisión.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 21.
 
-Suplencias de los Visitadores "A". Las ausencias temporales de los visitadores judiciales "A" que no excedan de treinta días serán cubiertas por el visitador general o por el visitador judicial "A" que éste designe. Las que excedan de ese plazo, por un visitador judicial "A" que designe la Comisión.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 22.
 
-Suplencias de los Visitadores "B". Las ausencias temporales de los visitadores judiciales "B" serán cubiertas por otro visitador judicial "B", designado por el Visitador General.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 23.
 
-Suplencias del Director General. Las ausencias temporales del director general serán cubiertas por un secretario técnico, designado por el visitador general.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 24.
 
-Suplencias de los Secretarios Técnicos. Las ausencias temporales de los secretarios técnicos serán cubiertas por otro secretario técnico, designado por el visitador general.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 25.
 
-Impedimentos del Visitador General y de los Visitadores. El visitador general y los visitadores están impedidos para practicar visitas de inspección o revisar resoluciones o proyectos, en los términos de la fracción II del artículo 16 de este acuerdo, cuando se encuentren en cualquiera de los supuestos previstos en las fracciones I, II, IX, XIII, XIV y XV del artículo 146, en relación con el 148 de la Ley o en las leyes aplicables.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 26.
 
-Plazo de manifestación de impedimentos. El visitador general y los visitadores no son recusables, pero de existir algún impedimento, deberán manifestarlo por escrito dentro de las veinticuatro horas siguientes a su conocimiento. Tratándose de visitas extraordinarias, si el visitador a quien le haya sido asignada, se considera impedido, deberá informar de inmediato a la Comisión, en su caso, para que proceda a su calificación.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 27.
 
-Calificación de impedimentos. La calificación del impedimento del visitador general o de los visitadores judiciales "A" será competencia de la Comisión; la calificación del impedimento de los visitadores judiciales "B" corresponderá al visitador general. En todo caso, la calificación será de plano, admitiéndola o desechándola, dentro del plazo de tres días, si se trata de visita ordinaria, y de inmediato, en caso de extraordinaria.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ## TITULO SEGUNDO. DE LA INSPECCION Y SUPERVISION
 
@@ -978,3 +830,35 @@ SEGUNDO. Se instruye a la Comisión de Administración del Consejo de la Judicat
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de esta reforma al Acuerdo General 7/2008, que regula la organización y funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal.
+
+D.O.F. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General número 15/1996, del pleno del Consejo de la Judicatura Federal, que establece las Bases de Operación y Funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo del Consejo de la Judicatura Federal;
+
+II. Acuerdo General número 24/1996, del Pleno del Consejo de la Judicatura Federal, relativo al domicilio oficial del propio Consejo;
+
+III. Acuerdo General número 18/2000 del Pleno del Consejo de la Judicatura Federal, por el que se desconcentra a las Administraciones Regionales la función administrativa de atención a los órganos jurisdiccionales federales y áreas del propio Consejo en el interior de la República;
+
+IV. Acuerdo General 39/2001 del Pleno del Consejo de la Judicatura Federal, por el que se delegan facultades en favor del Director General del Instituto Federal de Defensoría Pública, para la celebración de convenios;
+
+V. Acuerdo General 33/2003, del Pleno del Consejo de la Judicatura Federal, que ordena recibir los informes anuales de actividades del Instituto de la Judicatura Federal y del Instituto Federal de Defensoría Pública en el salón de usos múltiples del edificio sede del Consejo de la Judicatura Federal y abroga los diversos acuerdos generales 66/2001 y 27/2003, del propio Cuerpo Colegiado;
+
+VI. Acuerdo General 6/2007 del Pleno del Consejo de la Judicatura Federal, por el que se establecen reglas para suplir a los servidores públicos del propio Consejo, en sus ausencias;
+
+VII. Acuerdo General 2/2009 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de domicilio de la Comisión Substanciadora Única del Poder Judicial de la Federación;
+
+VIII. Acuerdo General 28/2009, del Pleno del Consejo de la Judicatura Federal, relativo al procedimiento para sustituir las ausencias temporales en la presidencia de la Comisión Substanciadora Única del Poder Judicial de la Federación; y
+
+IX. Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+CUARTO. Las referencias que se hagan en otras disposiciones a la Comisión Mixta de Seguridad, Higiene y Medio Ambiente en el Trabajo o a la Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, se entenderán hechas a la Comisión de Seguridad y Salud en el Trabajo.
+
+Y las que se hagan a las Comisiones Auxiliares de Seguridad, Higiene y Medio Ambiente se entenderán hechas a las Comisiones Auxiliares de Seguridad y Salud en el Trabajo.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
