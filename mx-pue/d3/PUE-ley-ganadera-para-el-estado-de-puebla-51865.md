@@ -4,7 +4,7 @@ identifier: "PUE-ley-ganadera-para-el-estado-de-puebla-51865"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2006-09-04"
+last_updated: "2013-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GANADERA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda del Periódico Oficial del Estado de Puebla, el lunes 4 de septiembre de 2006.
 
@@ -39,9 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOB
 
 CONSIDERANDO
 
-.
-
-Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, 64 Y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y IlI, 69 fracción Il, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y III del Reglamento Interior del H. Congreso del Estado, se expide la siguiente:
+Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, 64 Y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y III, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y III del Reglamento Interior del H. Congreso del Estado, se expide la siguiente:
 
 LEY GANADERA PARA EL ESTADO DE PUEBLA
 
@@ -49,15 +47,21 @@ LEY GANADERA PARA EL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, sus disposiciones son de observancia general y obligatoria en el territorio del Estado de Puebla y tiene por objeto apoyar en la planeación, organización, fomento, protección, producción, reproducción, crianza y mejoramiento de la ganadería, así como el establecimiento de las medidas de sanidad e inocuidad y calidad agroalimentaria en la Entidad.
+La presente Ley es de orden público e interés social, sus disposiciones son de observancia general y obligatoria en el territorio del Estado de Puebla y tiene por objeto apoyar en la planeación, organización, fomento, protección, producción, reproducción, crianza y mejoramiento de la ganadería, así como lo relativo a la sanidad animal, inocuidad y calidad agroalimentaria.
 
-En lo no contemplado en la presente Ley, se aplicarán las disposiciones legales y reglamentarias contenidas en otros ordenamientos relacionados con el presente ordenamiento.
+Las actividades de sanidad animal tienen como finalidad el diagnosticar y prevenir la introducción, permanencia y diseminación de enfermedades y plagas que afecten la salud o la vida de los animales, protegiendo la salud humana.
+
+Para todo lo no previsto en esta Ley, se aplicará de forma supletoria la Ley Federal de Sanidad Animal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 2.
 
-Para objeto de esta Ley, se considera de interés público:
+Para el logro del objeto de esta Ley, se considera de orden público e interés social:
 
 I.- Las vías pecuarias;
 
@@ -67,107 +71,129 @@ III.- El abastecimiento de productos cárnicos;
 
 IV.- La conservación, protección y fomento de las plantas nectaríferas y poliníferas;
 
-V.- Las campañas zoosanitarias; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VI.- La conservación y aprovechamiento de aguas, suelos y pastos.
+V.- El desarrollo de las actividades de sanidad animal;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Vigilar el no uso de sustancias prohibidas en la engorda animal;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VII.- El desarrollo de actividades fomentando el bienestar animal;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Establecer los procedimientos que faciliten la trazabilidad y rastreabilidad de animales, sus productos y subproductos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Las campañas zoosanitarias; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+X.- La conservación y aprovechamiento de aguas, suelos y pastos.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta Ley se entenderá por:
 
-I.- ABEJA.- Insecto himenóptero apis melIífera spp;
+I.- ABASTO.- Se refiere al sacrificio de animales para consumo humano, el cual debe realizarse en los centros de sacrificio autorizados por la autoridad competente;
 
-II.- ABEJA REINA.- Abeja hembra sexualmente desarrollada, cuya función principal es depositar huevos fértiles e infértiles en las celdas del panal, así como regir la vida de la colonia;
+II.- ABEJA.- Insecto himenóptero apis mellífera spp;
 
-III.- ABREVADERO.- Bebedero natural, estanque o bordo común donde el ganado se puede proveer de agua de manera rutinaria;
+III.- ABEJA REINA.- Abeja hembra sexualmente desarrollada, cuya función principal es depositar huevos fértiles e infértiles en las celdas del panal, así como regir la vida de la colonia;
 
-IV.- ACTIVIDAD GANADERA.- Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana, especies acuícolas y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
+IV.- ABREVADERO.- Bebedero natural, estanque o bordo común donde el ganado se puede proveer de agua de manera rutinaria;
 
-V.- ACUACULTOR.- Persona física que se dedica a la producción, reproducción, crianza y mejoramiento de las especies acuícolas en instalaciones tecnificadas;
+V.- ACTIVIDAD GANADERA.- Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana, especies acuícolas y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
 
-VI.- ACUACULTURA.- Cultivo de especies de la flora y fauna acuáticas, mediante el empleo de métodos y técnicas para su desarrollo controlado en todo estado biológico y ambiente acuático y en cualquier tipo de instalación;
+VI.- ANIMALES TRASHERRADOS.- Animales herrados de manera dolosa más de una vez, con el fin de ocultar el herraje original;
 
-VII.- ANIMALES TRASHERRADOS.- Animales herrados de manera dolosa más de una vez, con el fin de ocultar el herraje original;
+VII.- ANIMALES MOSTRENCOS.- Animales sin dueño o propietario conocido, o en su caso, sin herrar o sin marca a fuego;
 
-VIII.- ANIMALES MOSTRENCOS.- Animales sin dueño o propietario conocido; o en su caso sin herrar o sin marca a fuego;
+VIII.- APIARIO.- Conjunto de colmenas ubicadas en un lugar determinado;
 
-IX.- APIARIO.- Conjunto de colmenas ubicadas en un lugar determinado;
+IX.- APIARIO FAMILIAR.- Colmenas de un productor nativo del lugar, ubicadas en terreno o terrenos de su propiedad o de su parcela ejidal, con un máximo de diecinueve colmenas;
 
-X.- APIARIO FAMILIAR.- Colmenas de un productor nativo del lugar, ubicadas en terreno o terrenos de su propiedad o de su parcela ejidal, con un máximo de diecinueve colmenas;
+X.- APICULTOR.- Persona física o jurídica que se dedique a la cría, manejo, explotación, comercialización y mejoramiento de las abejas;
 
-XI.- APICULTOR.- Persona física o jurídica que se dedique a la cría, manejo, explotación, comercialización y mejoramiento de las abejas;
+XI.- APICULTURA.- Conjunto de actividades concernientes a la cría, sanidad y explotación racional de las abejas, sus productos y subproductos;
 
-XII.- APICULTURA.- Conjunto de actividades concernientes a la cría, sanidad y explotación racional de las abejas, sus productos y subproductos;
+XII.- APROVECHAMIENTO SUSTENTABLE.- Utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
-XIII.- APROVECHAMIENTO SUSTENTABLE.- Utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
+XIII.- ARETE.- Objeto metálico o plástico que se fija en la oreja del ganado para su identificación individual, con fines productivos, sanitarios o de registro, así como para garantizar la trazabilidad y rastreabilidad del ganado;
 
-XIV.- ARETE.- Objeto metálico o plástico que se fija en la oreja del ganado para su identificación individual, con fines productivos, sanitarios o de registro;
+XIV.- ARETE DE CAMPAÑA.- Arete metálico autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para la identificación individual de animales, inscritos en una campaña determinada; así como la trazabilidad del ganado;
 
-XV.- ARETE DE CAMPAÑA.- Arete metálico autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para la identificación individual de animales, inscritos en una campaña determinada;
+XV.- ASOCIACIÓN GANADERA.- Organización que agrupa a ganaderos que se dedican a la explotación racional de una o varias especies animal, en un Municipio determinado;
 
-XVI.- ASOCIACIÓN GANADERA.- Organización que agrupa a ganaderos que se dedican a la explotación racional de una o varias especies animal, en un Municipio determinado;
+XVI.- BIENESTAR ANIMAL.- Estado en que el animal tiene satisfechas sus necesidades biológicas, de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
 
-XVII.- BIENESTAR ANIMAL.- Estado en que el animal tiene satisfechas sus necesidades biológicas, de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
+XVII.- BORDOS.- Depósitos artificiales recaudadores de agua en los campos de cultivo que también pueden ser utilizados como abrevaderos;
 
-XVIII.- BORDOS.- Depósitos artificiales recaudadores de agua en los campos de cultivo que también pueden ser utilizados como abrevaderos;
+XVIII.- CAMPAÑA ZOOSANITARIA.- Conjunto de acciones y medidas sanitarias, encaminadas a la prevención y/o erradicación de enfermedades de los animales;
 
-XIX.- CAMPAÑA ZOOSANITARlA.- Conjunto de acciones y medidas sanitarias, encaminadas a la prevención y/o erradicación de enfermedades de los animales;
+XIX.- CADENAS PRODUCTIVAS.- Proceso donde convergen todos los agentes que participan en el eslabonamiento de la producción-transformación y consumo de los productos pecuarios y acuícolas;
 
-XX.- CADENAS PRODUCTIVAS.- Proceso donde convergen todos los agentes que participan en el eslabonamiento de la producción-transformación y consumo de los productos pecuarios y acuícolas;
+XX.- CENTROS DE MEJORAMIENTO PECUARIO.- Establecimientos especializados en la cría y mejoramiento genético de cualquier especie ganadera con fines productivos;
 
-XXI.- CENTROS ACUÍCOLAS.- Establecimientos relacionados con el cultivo, comercialización y transformación de especies acuáticos vivos (sic);
+XXI.- CENTRO DE SACRIFICIO.- Establecimiento autorizado, donde se realiza el sacrificio de animales domésticos con fines alimenticios y comercialización de sus productos;
 
-XXII.- CENTROS DE MEJORAMIENTO PECUARlO.- Establecimientos especializados en la cría y mejoramiento genético de cualquier especie ganadera con fines productivos;
+XXII.- CERCOS VIVOS.- Material vegetativo utilizado para la delimitación de predios ganaderos;
 
-XXIII.- CENTRO DE SACRIFICIO.- Establecimiento autorizado, donde se realiza el sacrificio de animales domésticos con fines alimenticios y comercialización de sus productos;
+XXIII.- CERNIDEROS.- Lugar donde se recepcionan excretas y materia orgánica de origen aviar;
 
-XXIV.- CERCOS VIVOS.- Material vegetativo utilizado para la delimitación de predios ganaderos;
+XXIV.- CERTIFICADO ZOOSANITARIO.- Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o los organismos de certificación acreditados y aprobados en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización, en el que se hace constar el cumplimiento de las disposiciones de sanidad animal;
 
-XXV.- CERNIDEROS.- Lugar donde se recepcionan excretas y materia orgánica de origen aviar;
+XXV.- CINEGÉTICO.- Concepto aplicado para definir a aquellos animales silvestres señalados por la Ley General de Vida Silvestre susceptibles a ser aprovechados para actividades de cacería sustentable;
 
-XXVI.- CINEGÉTICO.- Concepto aplicado para definir a aquellos animales silvestres señalados por la Ley General de Vida Silvestre susceptibles a ser aprovechados para actividades de cacería sustentable;
+XXVI.- COLMENA.- Equipo de madera u otro material adecuado con especificaciones estándar, que sirve de alojamiento a las abejas;
 
-XXVII.- COLMENA.- Equipo de madera u otro material adecuado con especificaciones estándar, que sirve de alojamiento a las abejas;
+XXVII.- COLMENA POBLADA.- Habitación para las abejas hecha por el hombre que contiene una colonia de abejas fortalecida y en producción, con población fuerte de abejas obreras, zánganos y una abeja reina;
 
-XXVIII.- COLMENA POBLADA.- Habitación para las abejas hecha por el hombre que contiene una colonia de abejas fortalecida y en producción, con población fuerte de abejas obreras, zánganos y una abeja reina;
+XXVIII.- COMPARTIMENTO.- Designa una o varias explotaciones con un mismo sistema de bioseguridad, que contienen una población animal en la cual se han aplicado las medidas de vigilancia y control, requeridos para obtener un estatus zoosanitario diferente;
 
-XXIX.- COMPARTIMENTO.- Designa una o varias explotaciones con un mismo sistema de bioseguridad, que contienen una población animal en la cual se han aplicado las medidas de vigilancia y control, requeridos para obtener un estatus zoosanitario diferente;
+XXIX.- CONTINGENCIA AMBIENTAL.- Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XXX.- CONTINGENCIA AMBIENTAL.- Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+XXX.- CONTINGENCIA ZOOSANITARIA.- Situación de riesgo en materia de salud animal;
 
-XXXI.- CONTINGENCIA ZOOSANITARIA.- Situación de riesgo en materia de salud animal;
+XXXI.- CONTROL.- Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XXXII.- CONTROL.- Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+XXXII.- CONTROL SANITARIO.- Conjunto de medidas que tienen por objeto disminuir la incidencia o prevalencia de una enfermedad en los animales;
 
-XXXIII.- CONTROL SANITARIO.- Conjunto de medidas que tienen por objeto disminuir la incidencia o prevalencia de una enfermedad en los animales;
+XXXIII.- CONSEJO ESTATAL.- El Consejo Estatal para el Desarrollo Rural Sustentable;
 
-XXX1V.- CONSEJO ESTATAL.- El Consejo Estatal para el Desarrollo Rural Sustentable;
+XXXIV.- CUERPOS DE AGUA.- Agua superficial distribuida en ríos, lagos, pantanos y rebalses o depósitos artificiales;
 
-XXXV.- CUERPOS DE AGUA.- Agua superficial distribuida en ríos, lagos, pantanos y rebalses o depósitos artificiales;
+XXXV.- CHIP.- Medio electrónico de identificación de especies animales;
 
-XXXVI.- CHIP.- Medio electrónico de identificación de especies animales;
+XXXVI.- DECLARATORIA OFICIAL.- Instrumento mediante el cual se legaliza el reconocimiento de una situación determinada;
 
-XXXVII.- DECLARATORIA OFICIAL.- Instrumento mediante el cual se legaliza el reconocimiento de una situación determinada;
+XXXVII.- DESARROLLO SUSTENTABLE.- El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XXXVlII.- DESARROLLO SUSTENTABLE.- El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XXXVIII.- ESPECIES GANADERAS.- Conjunto de animales pertenecientes a cualquiera de las siguientes especies: bovinos, equinos, caprinos, ovinos, porcinos, aves, conejos, abejas, fauna acuática y otros animales que sean motivo de aprovechamiento zootécnico;
 
-XXXIX.- ESPECIES GANADERAS.- Conjunto de animales pertenecientes a cualquiera de las siguientes especies: bovinos, equinos, caprinos, ovinos, porcinos, aves, conejos, abejas, fauna acuática y otros animales que sean motivo de aprovechamiento zootécnico;
+XXXIX.- FIERRO.- Instrumento de herrar a fuego o en frío en el cuerpo del animal que identifica de manera permanente al propietario del mismo;
 
-XL.- EXCRETAS.- Son todos los residuos fecales y urinarios evacuados por un animal;
+XL.- FLEJE SANITARIO.- Cinta metálica o plástica colocada en las puertas de embarque y desembarque de vehículos, como salvoconducto sanitario, para evitar el intercambio de mercancía desde su origen hasta su destino;
 
-XLI.- FIERRO.- Instrumento de herrar a fuego o en frío en el cuerpo del animal que identifica de manera permanente al propietario del mismo;
+XLI.- GANADERÍA.- Actividades consideradas dentro de los eslabones de la cadena productiva pecuaria tales como la producción, reproducción, crianza, desarrollo, engorda, sacrificio y mejoramiento de especies animales;
 
-XLII.- FLEJE SANITARIO.- Cinta metálica o plástica colocada en las puertas de embarque y desembarque de vehículos, como salvoconducto sanitario, para evitar el intercambio de mercancía desde su origen hasta su destino;
+XLII.- GANADERO.- Persona física o jurídica que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal;
 
-XLIII.- GANADERÍA.- Actividades consideradas dentro de los eslabones de la cadena productiva pecuaria tales como la producción, reproducción, crianza, desarrollo, engorda, sacrificio y mejoramiento de especies animales;
+XLIII.- GANADERÍA DE AUTOCONSUMO.- Actividad familiar encaminada a la cría y el aprovechamiento de los animales para consumo propio;
 
-XLIV.- GANADERO.- Persona física o jurídica que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal;
+XLIV.- GANADERÍA DE TRASPATIO.- Actividad familiar desarrollada en el ámbito domiciliario, encaminada a la cría y el aprovechamiento de los animales domésticos para fines de consumo propio y los excedentes para comercialización;
 
-XLV GANADERÍA DE AUTOCONSUMO.- Actividad familiar encaminada a la cría y el aprovechamiento de los animales para consumo propio;
+XLV.- GUÍA DE TRÁNSITO.- Documento oficial estatal autorizado por la Secretaría para la movilización de animales, productos y subproductos pecuarios;
 
-XLVI.- GANADERÍA DE TRASPATIO.- Actividad familiar desarrollada en el ámbito domiciliario, encaminada a la cría y el aprovechamiento de los animales domésticos para fines de consumo propio y los excedentes para comercialización;
+XLVI.- GRANJAS LIBRES DE PATÓGENOS ESPECÍFICOS (SPF).- Infraestructura encaminada a la producción animal, altamente tecnificados y con estrictas medidas de bioseguridad donde se mantienen individuos libres de patógenos específicos;
 
-XLVlI.- GRANJAS LIBRES DE PATÓGENOS ESPECÍFICOS (SPF).- Infraestructura encaminada a la producción animal, altamente tecnificados y con estrictas medidas de bioseguridad donde se mantienen individuos libres de patógenos específicos;
+XLVII.- IDENTIFICACIÓN SINIIGA.- Sistema Nacional de Identificación Individual de Ganado, el cual garantiza la trazabilidad y rastreabilidad del ganado;
 
 XLVIII.- INSPECTOR.- Personal debidamente autorizado para llevar a cabo acciones de inspección y vigilancia, para comprobar que se cumplan con las medidas establecidas en la presente Ley y demás disposiciones legales aplicables;
 
@@ -177,69 +203,77 @@ L.- INSTITUCIONES DE INVESTIGACIÓN.- Entidades públicas o privadas dedicadas a
 
 LI.- INTERNACIÓN DE COLMENAS.- Traslado de colmenas pobladas de otras Entidades Federativas a territorio del Estado de Puebla;
 
-LII.- INOCUlDAD.- Conjunto de procedimientos encaminados a la producción de alimentos de origen animal, libres de los riesgos resultantes de enfermedades trasmitidas por los alimentos o de la presencia de aditivos, contaminantes, toxinas u organismos patógenos en los productos alimenticios;
+LII.- INOCUIDAD.- Conjunto de procedimientos encaminados a la producción de alimentos de origen animal libres de los riesgos resultantes de enfermedades trasmitidas por los alimentos o de la presencia de aditivos, contaminantes, toxinas u organismos patógenos en los productos alimenticios;
 
 LIII.- LEY.- Ley Ganadera para el Estado de Puebla;
 
-LIV.- MATERIAL BIOLÓGICO APÍCOLA.- Individuos que integran la población de una colmena o núcleo de abejas formado por abeja reina, abejas obreras y zánganos, así como el semen debidamente preservado de éstos;
+LIV.- MATANZA CLANDESTINA: El sacrificio de especies ganaderas fuera de los rastros municipales o lugares no autorizados;
 
-LV.- MANTOS FREÁTICOS.- Cuerpos de agua subterráneos;
+LV.- MATERIAL BIOLÓGICO APÍCOLA.- Individuos que integran la población de una colmena o núcleo de abejas formado por abeja reina, abejas obreras y zánganos, así como el semen debidamente preservado de éstos;
 
-LVI.- MARCA.- Señal particular que se aplica al ganado;
+LVI.- MANTOS FREÁTICOS.- Cuerpos de agua subterráneos;
 
-LVII.- MOVlLIZACIÓN.- Sistema de control sanitario para la verificación e inspección del movimiento de animales, sus productos y subproductos, a través de la inspección física y documental;
+LVII.- MARCA.- Señal particular que se aplica al ganado;
 
-LVlII.- NOM's.- Normas Oficiales Mexicanas;
+LVIII.- MOVILIZACIÓN.- Sistema de control sanitario para la verificación e inspección del movimiento de animales, sus productos y subproductos, a través de la inspección física y documental;
 
-LIX.- NÚCLEO DE ABEJAS.- Colonia de abejas compuestas por dos o tres bastidores con cría operculada, uno o dos bastidores con polen, miel y abeja reina;
+LIX.- NOM's.- Normas Oficiales Mexicanas;
 
-LX.- ORGANIZACIONES GANADERAS.- Son las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la Confederación Nacional de Organizaciones Ganaderas, así como las asociaciones y uniones de avicultores, legalmente constituidas;
+LX.- NÚCLEO DE ABEJAS.- Colonia de abejas compuestas por dos o tres bastidores con cría operculada, uno o dos bastidores con polen, miel y abeja reina;
 
-LXI.- PRODUCTOR PECUARIO.- Toda persona física o jurídica legalmente constituida, que se dedique a la cría, explotación o mejoramiento de especies ganaderas, acuícolas y cinegéticas;
+LXI.- ORGANISMO DE COADYUVANCIA.- Aquéllos reconocidos por la Secretaría y que coadyuvan con ésta en la sanidad animal;
 
-LXII.- PRODUCTOS PECUARlOS.- Son todos aquellos productos y subproductos de origen animal;
+LXII.- ORGANIZACIONES GANADERAS.- Son las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la Confederación Nacional de Organizaciones Ganaderas, así como las asociaciones y uniones de avicultores, legalmente constituidas;
 
-LXIII.- PRODUCTOS PRIMARIOS.- Son todos aquellos productos emanados de la producción primaria en una cadena productiva;
+LXIII.- PRODUCTOR PECUARIO.- Toda persona física o jurídica legalmente constituida, que se dedique a la cría, explotación o mejoramiento de especies ganaderas, acuícolas y cinegéticas;
 
-LXIV.- PROTECCIÓN.- El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+LXIV.- PRODUCTOS PECUARIOS.- Son todos aquellos productos y subproductos de origen animal;
 
-LXV.- PUNTO DE VERIFICACIÓN ZOOSANITARIA E INSPECCIÓN.- Lugar donde se realiza inspección, revisión y verificación de documentos de propiedad y sanitarios, así como de los animales y productos que se transportan;
+LXV.- PRODUCTOS PRIMARIOS.- Son todos aquellos productos emanados de la producción primaria en una cadena productiva;
 
-LXVI.- RASTROS TIF.- Rastros Tipo Inspección Federal;
+LXVI.- PROTECCIÓN.- El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-LXVII.- RECONVERSIÓN PRODUCTIVA.- Cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentaria y al óptimo uso de las tierras mediante apoyos e inversiones complementarias;
+LXVII.- PUNTO DE VERIFICACIÓN E INSPECCIÓN INTERNA.- Lugar donde se realiza inspección, revisión y verificación de documentos de propiedad y sanitarios, así como de los animales y productos que se transportan;
 
-LXVIII.- RECURSOS GENÉTICOS.- El material genético de valor real o potencial;
+LXVIII.- RASTREABILIDAD.- Conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su controlo erradicación;
 
-LXIX.- REGLAMENTO.- El Reglamento de la presente Ley;
+LXIX.- RASTROS TIF.- Rastros Tipo Inspección Federal;
 
-LXX.- RUTA DE PECOREO.- Zonas útiles aledañas a carreteras, vías de acceso, veredas y sitios para la ubicación de apiarios de un productor o grupo de productores autorizados por las instancias correspondientes para la explotación apícola y que cuentan con el permiso del propietario del predio, o son dueños;
+LXX.- RECONVERSIÓN PRODUCTIVA.- Cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentaria y al óptimo uso de las tierras mediante apoyos e inversiones complementarias;
 
-LXXI.- SECRETARÍA.- Secretaría de Desarrollo Rural;
+LXXI.- RECURSOS GENÉTICOS.- El material genético de valor real o potencial;
 
-LXXII.- SANIDAD.- Conjunto de servicios encaminados a preservar la salud de los animales;
+LXXII.- REGLAMENTO.- El Reglamento de la presente Ley;
 
-LXXIII.- SEÑAL DE SANGRE.- Incisiones, cortadas o perforaciones que se hagan en las orejas del ganado;
+LXXIII.- RUTA DE PECOREO.- Zonas útiles aledañas a carreteras, vías de acceso, veredas y sitios para la ubicación de apiarios de un productor o grupo de productores autorizados por las instancias correspondientes para la explotación apícola y que cuentan con el permiso del propietario del predio, o son dueños;
 
-LXXIV.- SILO.- Depósito para el almacenado de granos y forrajes;
+LXXIV.- SECRETARÍA.- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
-LXXV.- SISTEMAS DE PRODUCCIÓN ALTERNATIVOS.- Actividad ganadera dedicada a la crianza y producción de especies de vida silvestre no convencionales;
+LXXV.- SANIDAD ANIMAL.- El conjunto de acciones de diagnóstico, prevención, control y erradicación de las enfermedades o plagas de los animales, teniendo por objeto salvaguardar las condiciones sanitarias de la Entidad;
 
-LXXVI.- SISTEMAS DE PRODUCCIÓN CINEGÉTICO.- Actividad ganadera encaminada a la cría, gestación y producción de aquellos animales silvestres señalados por la Ley General de vida silvestre susceptibles a ser aprovechados para actividades de cacería sostenible;
+LXXVI.- SEÑAL DE SANGRE.- Incisiones, cortadas o perforaciones que se hagan en las orejas del ganado;
 
-LXXVII.- SISTEMA-PRODUCTO.- Conjunto de elementos y agentes concernientes de los procesos producción-consumo pecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, almacenamiento, transformación, distribución, comercialización, consumo, valor alimenticio y actividades conexas, que tienen por objeto el mejor desarrollo de la cadena;
+LXXVII.- SILO.- Depósito para el almacenado de granos y forrajes;
 
-LXXVIII.- SUBPRODUCTOS.- Derivados de materias primas de origen animal;
+LXXVIII.- SISTEMAS DE PRODUCCIÓN ALTERNATIVOS.- Actividad ganadera dedicada a la crianza y producción de especies de vida silvestre no convencionales;
 
-LXXIX.- TATUAJE.- Impresión permanente de dibujos, letras o números indelebles en las orejas u otras partes del cuerpo del ganado;
+LXXIX.- SISTEMAS DE PRODUCCIÓN CINEGÉTICO.- Actividad ganadera encaminada a la cría, gestación y producción de aquellos animales silvestres señalados por la Ley General de vida silvestre susceptibles a ser aprovechados para actividades de cacería sostenible;
 
-LXXX.- UNIDAD DE PRODUCCIÓN.- Granjas, ranchos, asentamientos de animales de traspatio y ranchos cinegéticos;
+LXXX.- SISTEMA-PRODUCTO.- Conjunto de elementos y agentes concernientes de los procesos producción-consumo pecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, almacenamiento, transformación, distribución, comercialización, consumo, valor alimenticio y actividades conexas, que tienen por objeto el mejor desarrollo de la cadena;
 
-LXXXI.- UNIDADES DE PRODUCCIÓN PECUARIA.- Centros especializados en la producción animal de una o varias especies animales;
+LXXXI.- SUBPRODUCTOS.- Derivados de materias primas de origen animal;
 
-LXXXII.- UNIÓN GANADERA.- Organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales o especializadas de una región ganadera; y
+LXXXII.- TATUAJE.- Impresión permanente de dibujos, letras o números indelebles en las orejas u otras partes del cuerpo del ganado;
 
-LXXXIII.- VÍAS PECUARIAS.- Los caminos, veredas o rutas establecidos por la costumbre, que sigan los ganados para llegar a los embarcaderos o abrevaderos de uso común y en general, los que siguen en su movilización de una zona ganadera para su comercialización o sacrificio.
+LXXXIII.- TRAZABILIDAD.- Serie de actividades técnicas y administrativas sistematizadas que permiten registrar la ubicación y la trayectoria de un producto desde su nacimiento hasta el final de la cadena de comercialización;
+
+LXXXIV.- UNIDAD DE PRODUCCIÓN.- Granjas, ranchos, asentamientos de animales de traspatio y ranchos cinegéticos;
+
+LXXXV.- UNIDADES DE PRODUCCIÓN PECUARIA.- Centros especializados en la producción animal de una o varias especies animales;
+
+LXXXVI.- UNIÓN GANADERA.- Organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales o especializadas de una región ganadera; y
+
+LXXXVII.- VÍAS PECUARIAS.- Los caminos, veredas o rutas establecidos por la costumbre, que sigan los ganados para llegar a los embarcaderos o abrevaderos de uso común y en general, los que siguen en su movilización de una zona ganadera para su comercialización o sacrificio.
 
 ### CAPÍTULO II. DE LOS SUJETOS DE LA LEY Y SUS OBLIGACIONES
 
@@ -297,7 +331,9 @@ Son autoridades competentes en la aplicación de la presente Ley:
 
 I.- El Titular del Poder Ejecutivo;
 
-II.- La Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+II.- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
 III.- Los Ayuntamientos; y
 
@@ -327,7 +363,9 @@ IV.- Promover las demás actividades que la presente Ley y demás disposiciones 
 
 Son atribuciones de la Secretaría:
 
-I.- Establecer las políticas y programas relativos al fomento de las actividades pecuarias en el Estado, así como su difusión;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+I.- Formular y aplicar el Programa Estatal de Desarrollo Pecuario y Sanidad Animal;
 
 II.- Planear, coordinar y apoyar la realización de programas tendientes a la integración de las cadenas productivas de las especies ganaderas;
 
@@ -381,9 +419,25 @@ XXVI.- Vigilar en el ámbito de su competencia, el cumplimiento de las disposici
 
 XXVII.- Promover la transformación e industrialización de los productos y subproductos pecuarios;
 
-XXVIII.- Imponer en el ámbito de su competencia, las sanciones por incumplimiento o violación a las disposiciones de esta Ley; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XXIX.- Las que determine la presente Ley, su Reglamento, las demás disposiciones legales aplicables y las que le sean asignadas por el Ejecutivo del Estado.
+XXVIII.- Incentivar al productor a registrarse y mantener actualizado (sic) las Unidades de Producción Pecuaria;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXIX.- Realizar actos de inspección documental en rastros autorizados y cualquier lugar donde se practique el sacrificio de animales con la finalidad de que se cumpla con lo dispuesto en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXX.- Fomentar la aplicación de recursos públicos para prever la atención de emergencias zoosanitarias y demás que afecten al sector pecuario;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXI.- Designar Inspectores para realizar la Verificación, Inspección y Vigilancia, para el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás disposiciones aplicables, a través del personal debidamente autorizado; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXXII.- Realizar acciones de inspección con el auxilio de las autoridades municipales, uniones ganaderas, asociaciones ganaderas locales y organismos auxiliares, de las especies ganaderas que vayan a ser movilizadas en cumplimiento a las disposiciones contenidas en esta Ley.
 
 ### CAPÍTULO III. DE LOS AYUNTAMIENTOS
 
@@ -399,9 +453,53 @@ III.- Coadyuvar en la vigilancia y control de las campañas zoosanitarias;
 
 IV.- Prestar el servicio público de rastros para el sacrificio de animales, en los términos y disposiciones legales que al efecto se emitan, así como contar y en su caso verificar se cuenten con las autorizaciones correspondientes;
 
-V.- Implementar las medidas necesarias, en coordinación con las autoridades competentes, respecto de la disposición final sanitaria, de animales muertos que no pueden ser reconocidos o atribuidos a algún productor y que se encuentren en las vías públicas o privadas, sin perjuicio de lo dispuesto en la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Las demás que les confiere esta Ley, su Reglamento y demás ordenamientos aplicables.
+V.- En el ámbito de su competencia vigilar el sacrificio de especies ganaderas fuera de los lugares autorizados;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Fomentar, difundir y apoyar los programas relativos a la sanidad animal e inocuidad;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Fomentar la construcción y equipamiento de un centro de sacrificio autorizado en el Municipio;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Realizar las acciones necesarias para lograr control de salud, control y operación de negocios de carnicería, reglamentos de operación y mantenimiento de rastro, evitando la venta clandestina de productos o subproductos pecuarios;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Implementar las medidas necesarias, en coordinación con las autoridades competentes, respecto de la disposición final sanitaria, de animales muertos que no pueden ser reconocidos o atribuidos a algún productor y que se encuentren en las vías públicas o privadas, sin perjuicio de lo dispuesto en la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+X.- Expedir permisos para la instalación de tianguis, mercados, ferias, exposiciones y espectáculos ganaderos coordinándose con la Secretaría para efectuar la inspección correspondiente para determinar las condiciones de bienestar y salud animal a las que está expuesto el ganado.
+
+Dichas instalaciones deberán contar con lo siguiente:
+
+a) Contar con un Médico Veterinario Zootecnista titulado y con cédula profesional vigente, el cual fungirá como encargado de todos los animales que ahí se alojen.
+
+b) Oficina expedidora del documento Guía de Tránsito oficial por parte de la Asociación Ganadera a falta de ésta por autoridad municipal.
+
+c) Rampas de desembarque y de embarque.
+
+d) Corrales o espacios para cada especie en forma separada.
+
+e) Área para el manejo de excretas y desechos.
+
+f) Fuente de abastecimiento de agua.
+
+g) Operar un programa de limpieza y desinfección de instalaciones.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XI.- En caso de crecimiento del centro de población donde exista un rastró municipal y quede ubicado dentro de dicha zona, la autoridad municipal deberá adoptar las medidas correspondientes, a efecto de llevar a cabo la reubicación del citado establecimiento, tomando en cuenta para tal efecto lo dispuesto en la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XII.- Las demás que les confiere esta Ley, su Reglamento y demás ordenamientos aplicables.
 
 ### CAPÍTULO IV. DE LAS ORGANIZACIONES GANADERAS
 
@@ -421,6 +519,14 @@ Las organizaciones y productores pecuarios con fines mercantiles y demás organi
 
 Los productores que se dediquen a la actividad ganadera serán los responsables del manejo de las excretas que con motivo de dicha actividad se generen. Su manejo se sujetará a lo dispuesto en la Ley Para la Protección del Medio Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla y demás ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Los propietarios de las granjas avícolas serán responsables del manejo de las excretas que con motivo de la explotación de aves realizan; así como su almacenamiento y comercialización.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+En los casos en que los productores se dediquen a la actividad ganadera noten algún síntoma de enfermedad contagiosa, deberán proceder al aislamiento de los animales enfermos, separándolos de los sanos, dando aviso inmediato a las autoridades sanitarias.
+
 ###### Artículo 15.
 
 Para el establecimiento y funcionamiento de cernideros, centros de almacenamiento y procesadoras de excretas de origen animal, se deberá contar invariablemente con las autorizaciones emitidas por las autoridades competentes, de conformidad con las disposiciones legales aplicables.
@@ -437,11 +543,17 @@ Los animales que sean mantenidos de manera temporal o permanente en tianguis, me
 
 Para instalar una unidad de producción o cualquier otro tipo de instalación de distinto productor pecuario que ponga en riesgo la salud animal, la distancia mínima será la que al efecto se establezca en las NOM's, emanadas de la Ley Federal de Sanidad Animal.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Las Unidades de Producción Pecuaria registradas ante la autoridad federal, deberán de contar con un cercado perimetral como una medida de bioseguridad para evitar riesgos zoosanitarios.
+
 ### CAPÍTULO II. DE LOS CENTROS DE SACRIFICIO
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 19.
 
-Para la prestación del servicio público de rastro para el sacrificio de animales y en su caso, comercialización e industrialización, se deberá contar con los lineamientos previstos en la normatividad aplicable, así como con las autorizaciones correspondientes.
+Para la prestación del servicio público de rastro para el sacrificio de animales, y en su caso, comercialización e industrialización, se deberá contar con el Reglamento de operación, así como con los lineamientos, previstos en la normatividad aplicable, así como con las autorizaciones correspondientes.
 
 ###### Artículo 20.
 
@@ -459,7 +571,7 @@ Es obligatorio realizar el sacrifico de forma humanitaria conforme a la legislac
 
 El médico veterinario zootecnista o quien funja como responsable o administrador de los centros de sacrificio, deberá:
 
-1.- Llevar un libro de registro de los animales sacrificados, en el cual anotarán los siguientes datos:
+I.- Llevar un libro de registro de los animales sacrificados, en el cual anotarán los siguientes datos:
 
 a) Fecha;
 
@@ -483,11 +595,19 @@ El médico veterinario zootecnista o quien funja como responsable o administrado
 
 ### CAPÍTULO III. APIARIOS
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 25.
 
-Para establecer un apiario, el apicultor deberá obtener permiso de la Secretaría, cuando haya reunido los requisitos que exige esta Ley a través de su Reglamento, así como los permisos, en su caso, de los dueños o poseedores de los terrenos dependiendo del tipo de tenencia de los mismos y obtener el registro correspondiente.
+Para establecer un apiario, el apicultor deberá obtener permiso de establecimiento de apiarios, de la Secretaría, cuando haya reunido los requisitos que exige esta Ley y su Reglamento, así como los permisos, en su caso, de los dueños o poseedores de los terrenos dependiendo del tipo de tenencia de los mismos y obtener el registro correspondiente, tomando en consideración:
 
-En caso de obtener únicamente el permiso de manera verbal del dueño o poseedor del o los terrenos para instalar apiarios, la asociación, comisariado ejidal o autoridad municipal que corresponda, podrá hacer constar que no existe oposición alguna para instalar dichos apiarios.
+I.- Que el permiso de establecimiento de apiarios sea por los diferentes periodos de pecoreo que existen en nuestra Entidad durante el año, mismos que serán determinados por la Secretaría;
+
+II.- Que los permisos de los dueños de los predios sean autorizados cada año, en el caso de que los permisos sean firmados de manera permanente, que éste lo avalen las autoridades vigentes del Municipio donde realizan su actividad. En caso de obtener únicamente el permiso de manera verbal del dueño o poseedor del o los terrenos para instalar apiarios, la asociación de apicultores, comisariado ejidal o autoridad municipal que corresponda, podrá hacer constar que no existe oposición alguna del dueño o tenedor legal del terreno para instalar dichos apiarios;
+
+III.- Para solicitar el permiso de instalación de apiarios, deberá tener la georeferenciación del lugar o lugares donde pretende instalarlos; y
+
+IV.- En el caso que el productor haya sido sancionado con multa o multas, encontrarse al corriente en el pago de las mismas.
 
 ###### Artículo 26.
 
@@ -627,11 +747,11 @@ La autorización de fierros, marcas o señales, se solicitará ante la autoridad
 
 El registro de los mismos se hará ante el Ayuntamiento correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 53.
 
-El registro de fierro, marca, señal, tatuaje, así como las patentes respectivas deberá refrendarse anualmente.
-
-El mecanismo para la cancelación de las patentes se sujetará a lo dispuesto por el Reglamento de la presente Ley.
+El registro de fierro, arete, marca, señal, tatuaje, así como las patentes respectivas deberá refrendarse cada tres años, causando los derechos que marcan las leyes correspondientes
 
 ###### Artículo 54.
 
@@ -651,11 +771,41 @@ Las personas que falsifiquen o usen fierros, marcas, señales, señales de sangr
 
 ## TÍTULO QUINTO. SANIDAD ANIMAL E INOCUIDAD DE LOS ALIMENTOS
 
-### CAPÍTULO I. CAMPAÑAS ZOOSANITARIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO I. ACTIVIDADES ZOOSANITARIAS
 
 ###### Artículo 57.
 
 Son de observancia obligatoria, todas las campañas sanitarias que se decreten en contra de las enfermedades infectocontagiosas y parasitarias de los animales, en los términos de las Leyes y Reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Las actividades zoosanitarias estarán conformadas por las medidas y campañas zoosanitarias que se lleven a cabo en el Estado, teniendo por objeto prevenir, controlar y erradicar enfermedades y plagas de los animales.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Se considerarán como medidas zoosanitarias:
+
+a) La implementación integral de servicios de asistencia zoosanitaria;
+
+b) La movilización o retención de animales, sus productos o subproductos y productos químicos, farmacéuticos, biológicos y alimenticios, para uso o consumo en animales, y en su caso, la destrucción;
+
+c) El saneamiento, desinfección, desinfectación, esterilización, uso de germicidas y plaguicidas en los animales, locales y transportes, para evitar la transmisión o infestación de enfermedades o plagas de animales; y
+
+d) Las acciones preventivas de combate y erradicación de enfermedades y plagas en los animales.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+La Secretaría establecerá los lineamientos relativos a las medidas zoosanitarias, para evitar una emergencia o contingencia zoosanitaria, debiendo considerar, el análisis de riesgo, las características de la zona en donde se origine un problema, los productos químicos, farmacéuticos y alimenticios, en el consumo de los animales, así como cualquier otra causa que haya originado el problema.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Los centros de sacrificio de los animales autorizados, deberán tener a su servicio durante las horas laborables, cuando menos un médico veterinario debidamente capacitado para la revisión de los animales a sacrificar, para la vigilancia epidemiológica, la supervisión de medidas zoosanitarias y la verificación de la sanidad animal.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+La Secretaría en coordinación con los Municipios, deberán realizar un programa de trabajo, para el cumplimiento de lo establecido en las diversas normas aplicables tanto federales como locales en lo relativo al establecimiento de rastros o centros de sacrifico de animales, de tal forma que no existan mataderos clandestinos.
 
 ###### Artículo 58.
 
@@ -703,9 +853,11 @@ En los casos de aparición de plagas y/o enfermedades que afecten la ganadería,
 
 La declaratoria a que se refiere el artículo anterior, deberá notificarse al productor y a las organizaciones de productores, señalando los alcances geográficos, tiempo y medidas de observancia obligatoria hasta el control y erradicación de la plaga o enfermedad y cesen los efectos de la declaratoria.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 68.
 
-Mientras no se levante la declaratoria de emergencia o contingencia zoosanitaria, no se expedirán certificados zoosanitarios, ni guías de tránsito de la zona infectada a la zona libre y viceversa, a excepción de los animales que sean destinados a centros de sacrificio autorizados por autoridad competente o los que la autoridad sanitaria autorice y se dictará aislamiento completo o parcial de la zona, sin contravenir las disposiciones de las NOM's.
+Mientras no se levante la declaratoria de emergencia o contingencia zoosanitaria no se expedirán certificados zoosanitarios, ni guías de tránsito de la zona infectada a la zona libre y viceversa, a excepción de los animales que sean destinados a centros de sacrificio autorizados por autoridad competente o los que la autoridad sanitaria autorice y se dictará aislamiento completo o parcial de la zona, sin contravenir las disposiciones de las NOM's, o acuerdos establecidos por las autoridades correspondientes.
 
 ###### Artículo 69.
 
@@ -717,9 +869,13 @@ La Secretaría difundirá por los medios que estime convenientes, la informació
 
 Los propietarios o encargados de ganado tienen la obligación de prodigar a sus animales los cuidados preventivos y zootécnicos, necesarios para preservar la salud y bienestar de los mismos. Las autoridades sanitarias establecerán obligatoriamente las medidas preventivas que estimen necesarias a efecto de alcanzar el sano desarrollo de la ganadería.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 71.
 
-Queda prohibida la comercialización de animales muertos y sus despojos por cualquier causa.
+Queda prohibida la comercialización de animales muertos y sus despojos por cualquier causa de muerte (sic) se trate de alguna enfermedad infecto-contagiosa.
+
+Toda persona que venda, acepte o lleve a cabo cualquier operación o contrato sobre algún animal muerto a causa de una enfermedad infecto-contagiosa, será sancionado en los términos de esta Ley sin perjuicio de aplicarse las sanciones a que se haga acreedora.
 
 ###### Artículo 72.
 
@@ -733,9 +889,15 @@ El abastecimiento de carne deberá proceder de un centro de sacrificio autorizad
 
 En el caso de productos cárnicos se estará a la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 74.
 
-La venta y uso de productos veterinarios, químicos, farmacéuticos y biológicos para consumo y uso de los animales en el Estado, deberán estar autorizados por la autoridad federal competente en términos de las NOM's.
+La venta y uso de productos veterinarios, químicos, farmacéuticos y biológicos para consumo y uso de los animales en el Estado, deberán estar autorizados por la autoridad federal competente en términos de las disposiciones federales correspondientes.
+
+También se deberán tomar en consideración las disposiciones de sanidad animal, en las que se determinan los productos para uso o consumo animal que podrán ser adquiridos o aplicados únicamente mediante receta médica emitida por médicos veterinarios.
+
+Los propietarios, representantes de los establecimientos, las personas físicas o morales que desarrollen o presten cualquier actividad de salud animal o servicio veterinario, deberán asegurarse que los productos alimenticios, químicos, farmacéuticos o biológicos para uso o consumo animal que recomienden, utilicen o vendan, cuenten con el registro o autorización correspondiente, en caso de incumplimiento serán sancionados de conformidad a lo establecido en la presente Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO IV. MOVILIZACIÓN DEL GANADO, SUS PRODUCTOS Y SUBPRODUCTOS
 
@@ -743,21 +905,35 @@ La venta y uso de productos veterinarios, químicos, farmacéuticos y biológico
 
 La movilización de especies ganaderas, de sus productos y subproductos que se realice en el Estado, se sujetará a las disposiciones de esta Ley y su Reglamento, en lo que no contravengan las disposiciones federales e invariablemente se debe contar con los permisos que para tal efecto determine la autoridad competente y ampararse con guía de tránsito y certificado zoosanitario.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+En toda movilización de bovinos, ovinos, caprinos y colmenas en el Estado, se deberá contar con la identificación del Sistema Nacional de Identificación Individual del Ganado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+El Gobierno del Estado, en coordinación con el Gobierno Federal, podrá en cualquier momento rechazar el ingreso a la Entidad, de ganado con estatus zoosanitario menor al del Estado de Puebla, siempre que éste constituya un riesgo sanitario para la actividad pecuaria del lugar de destino, basado en el estatus sanitario de origen otorgado por organismos nacionales o internacionales, las condiciones sanitarias en que se movilice y el motivo de la misma.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Cualquier persona que pretenda movilizar e introducir ganado bovino a las zonas o regiones reconocidas por el Comité Binacional de Tuberculosis bovina, deberá contar con un permiso de Internación a las regiones certificadas por parte de la Secretaría.
+
 ###### Artículo 76.
 
 Las guías de tránsito serán expedidas por las Asociaciones Ganaderas Locales y a falta de ésta, por las Autoridades Municipales. Los interesados deberán comprobar la propiedad, la sanidad, el pago de las contribuciones que se hubieren causado y el pago de las cuotas sociales. La sanidad se acreditará con el certificado zoosanitario correspondiente. Por cada certificado zoosanitario, deberá extenderse una guía de tránsito.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 77.
 
-Las guías de tránsito serán numeradas progresivamente y se expedirán, por triplicado, en la forma que para el caso proporcione la Secretaría.
+Las guías de tránsito serán foliadas bajo un sistema electrónico que administra la Secretaría.
 
-El original de la guía se entregará al interesado; un tanto se remitirá a la Secretaría y otro a la autoridad municipal o a la Asociación Ganadera Local que corresponda.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 78.
 
-Es obligación de quienes movilicen animales, productos y subproductos, detenerse en los puntos de verificación e inspección zoosanitaria, a efecto de presentar la documentación correspondiente que acredite la procedencia, propiedad y destino de los mismos.
+Es obligación de quienes movilicen animales, productos y subproductos, detenerse en los puntos de verificación e inspección interna, a efecto de presentar la documentación correspondiente que acredite la procedencia, propiedad, sanidad y destino de los mismos.
 
-Para la inspección de lo previsto en el párrafo anterior se podrá contar con el apoyo de la Secretaría de Seguridad Pública y demás autoridades en materia de Seguridad Vial.
+Para la inspección de lo previsto en el párrafo anterior se podrá contar con el apoyo de la Secretaría de Seguridad Pública, Policía Federal Preventiva, Ministerio Público y demás autoridades en materia de Seguridad Vial.
 
 ###### Artículo 79.
 
@@ -767,9 +943,17 @@ Queda prohibido el embarque y movilización de aquellos animales con fines de pr
 
 Se prohíbe el tránsito de animales enfermos y de presentar signos de enfermedad, será detenida toda la partida, quedando sujeta a control sanitario. La reanudación de la marcha se permitirá por autorización de las autoridades competentes sin perjuicio de las sanciones previstas en las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+En el caso de que se determine que los animales, sus productos y subproductos sujetos a movilización representan un riesgo sanitario para el Estado, se deberán aplicar las medidas zoosanitarias correspondientes.
+
 ###### Artículo 81.
 
 Las especies ganaderas deberán movilizarse dentro del Estado en unidades de transporte que permitan su visibilidad y contar con un fleje sanitario, autorizado por la Secretaría que garantice su origen y su destino.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Los Inspectores podrán detener unidades en tránsito que transporten animales, productos y subproductos pecuarios, dando parte a la autoridad correspondiente en caso de que no se compruebe la procedencia legal, su condición sanitaria y legítima propiedad, e impedir los embarques o la movilización de ganado hasta en tanto se presente la documentación requerida para que ésta proceda conforme a lo que establece la normatividad aplicable.
 
 ###### Artículo 82.
 
@@ -841,7 +1025,9 @@ La Secretaría podrá realizar programas en materia de sanidad y bienestar anima
 
 El Estado promoverá la conservación y aprovechamiento de recursos con fines cinegéticos a través de medidas tendientes al aprovechamiento sustentable de la misma.
 
-### CAPÍTULO II. DE LA APICULTURA Y ACUACULTURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO II. DE LA APICULTURA
 
 ###### Artículo 89.
 
@@ -1295,7 +1481,9 @@ Sin perjuicio de las sanciones administrativas o penales que procedan, toda pers
 
 ## TRANSITORIOS
 
-ARTÍCULO PRlMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1321,6 +1509,14 @@ Los permisos y autorizaciones concedidos hasta antes de la entrada en vigor de l
 
 Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado Libre y Soberano de Puebla.
 
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinte días del mes de julio de dos mil seis.- Diputado Presidente.- JOSÉ ALBERTO GONZÁLEZ MORALES.- Rúbrica.- Diputada Vicepresidenta.- BLANCA ESTELA JIMÉNEZ HERNÁNDEZ. Rúbrica.- Diputado Secretario.- OSCAR ANGUIANO MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN AGUlLAR HERNÁNDEZ.- Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinte días del mes de julio de dos mil seis.- Diputado Presidente.- JOSÉ ALBERTO GONZÁLEZ MORALES.- Rúbrica.- Diputada Vicepresidenta.- BLANCA ESTELA JIMÉNEZ HERNÁNDEZ. Rúbrica.- Diputado Secretario.- OSCAR ANGUIANO MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN AGUILAR HERNÁNDEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiún días del mes de julio de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
