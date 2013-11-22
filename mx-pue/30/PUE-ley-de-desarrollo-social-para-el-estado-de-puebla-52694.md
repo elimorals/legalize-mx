@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2012-06-01"
+last_updated: "2013-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -183,13 +183,17 @@ VIII.- Cumplir con la normatividad de los Programas de Desarrollo Social.
 
 La Política Estatal de Desarrollo Social comprende los programas, acciones, directrices, líneas de acción y el cumplimiento de convenios que establezca el Ejecutivo del Estado a través de sus Dependencias e instancias de planeación, así como de la Secretaría, enfocados a impulsar el Desarrollo Social en el Estado.
 
-El Desarrollo Social debe coordinarse con la política de desarrollo económico, con el objeto de que propicie y fomente el empleo, eleve el nivel de ingreso y mejore su distribución, como parte del proceso económico, y tendrá los siguientes objetivos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+El desarrollo social debe coordinarse con la política de desarrollo económico, con el objeto de que propicie y fomente el empleo, eleve el nivel de ingreso y mejore su distribución, como parte del proceso económico, y tendrá los siguientes objetivos:
 
 I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, en los Programas de Desarrollo Social y la igualdad de oportunidades para la superación de la pobreza y la marginación social;
 
 II.- Fortalecer el desarrollo regional y municipal de manera equilibrada, a través de los programas regionales que establezca el Estado como resultado de la coordinación con los Municipios, propiciando la equidad y el fortalecimiento institucional de los mismos. Para estos efectos, ambas instancias de gobierno concertarán mecanismos que permitan una mejor distribución y el ejercicio transparente y eficiente de los recursos;
 
-III.- Focalizar las acciones en beneficio de los menos favorecidos por condiciones de pobreza, marginación o vulnerabilidad;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+III.- Focalizar las acciones en beneficio de la población que presente mayor índice de pobreza multidimensional, considerando los resultados de las evaluaciones de organismos internacionales, o nacionales públicos o privados.
 
 IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los Programas de Desarrollo Social;
 
@@ -261,7 +265,9 @@ La distribución del gasto social con el que se financiará el Desarrollo Social
 
 I.- Estará orientado a la promoción de un desarrollo regional equilibrado;
 
-II.- Se basará en indicadores de pobreza y marginación para beneficiar a la población en situaciones menos favorecidas; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+II.- Se basará en indicadores de pobreza multidimensional, para beneficiar a la población en situaciones menos favorecidas; y
 
 III.- Se podrá orientar a la ejecución de proyectos específicos, entre el Estado y los Municipios.
 
@@ -285,11 +291,11 @@ Los Municipios que no cuenten con la capacidad e infraestructura administrativa 
 
 ### CAPÍTULO III. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 27.
 
-Se consideran zonas de atención prioritaria, las áreas o regiones de carácter predominantemente rural o urbano, cuya población registre índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el Desarrollo Social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina la Secretaría, la que deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
+Se consideran zonas de atención prioritaria, las áreas o regiones de carácter predominantemente rural o urbano, cuya población registre índices de pobreza multidimensional indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el Desarrollo Social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina la Secretaría, el que deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
 
 ###### Artículo 28.
 
@@ -617,7 +623,7 @@ Para la evaluación de la Política de Desarrollo Social, los Programas de Desar
 
 Las Dependencias o Entidades del Ejecutivo del Estado o de los Ayuntamientos de los Municipios ejecutores de los Programas de Desarrollo Social a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de estas actividades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 56.
 
@@ -635,9 +641,9 @@ IV.- Mejoras en la calidad de vida de las familias en función del rezago social
 
 V.- Oportunidades de acceso a los programas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Disminución de los índices de marginación y pobreza; y
+VI.- Disminución de los índices de pobreza multidimensional; y
 
 VII.- Opinión de los beneficiados.
 
@@ -704,3 +710,9 @@ P.O. 1 DE JUNIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
