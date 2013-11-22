@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2013-10-18"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-> <small>N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA IMPRESIÓN DE LA PUBLICACIÓN EN EL PERIÓDICO OFICIAL No. 53 DE 22 DE NOVIEMBRE DE 2013.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -99,7 +97,7 @@ En caso de tratarse de actos o eventos donde se requiera la representación lega
 
 INTEGRACION DEL AYUNTAMIENTO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 8.
 
@@ -107,7 +105,7 @@ El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, 
 
 Los integrantes del Ayuntamiento también son llamados Munícipes y/o ediles.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 El Ayuntamiento funcionará, de manera colegiada, en régimen de sesiones de cabildo, con igual derecho de participación de todos sus integrantes.
 
@@ -281,7 +279,7 @@ VII.- Promover la participación ciudadana en los programas y acciones del Gobie
 
 INASISTENCIAS A LAS SESIONES DE CABILDO Y COMISIONES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 26.
 
@@ -293,7 +291,7 @@ II.- Cuando haya sido comisionado por el Ayuntamiento, por el Presidente Municip
 
 III.- Cuando asistan a eventos fuera del municipio relacionados con su comisión dando cuenta previamente de la ausencia y a su regreso, deberán informar de los resultados obtenidos.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 Se considerarán inasistencias a las sesiones de cabildo, cuando algún Regidor, el Síndico Social o el Síndico Procurador que hubieren sido convocados, no se presenten aún cuando no se reúna el quórum correspondiente, para lo cual se deberá levantar acta circunstanciada por el Secretario Fedatario, donde precise los nombres de los presentes y ausentes, y demás hechos que considere necesarios.
 
@@ -343,7 +341,7 @@ Las ausencias en que incurran los Munícipes serán suplidas conforme el procedi
 
 I.- Las ausencias temporales del Presidente Municipal serán suplidas por un Regidor, mientras que las definitivas serán cubiertas por su suplente;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
 II.- Las ausencias temporales del Síndico Procurador y del Síndico Social, no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente; y (sic)
 
@@ -367,11 +365,11 @@ II.- Previo al inicio de la sesión, se realizará un sorteo para determinar al 
 
 III.- Mediante votación económica se tomará el acuerdo de cabildo para llamar al suplente del Presidente Municipal, a fin de que cubra la ausencia definitiva.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
 SUPLENCIA DEL SÍNDICO PROCURADOR, SÍNDICO SOCIAL Y REGIDORES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 33.
 
@@ -553,7 +551,7 @@ III.- El Secretario Fedatario tomará lista de presentes a los Munícipes entran
 
 IV.- Se procederá a realizar honores a los símbolos patrios, y después a tomar la protesta legal de los integrantes del Ayuntamiento entrante ante el representante del Congreso del Estado y demás personalidades de la comunidad, para lo cual primeramente lo hará el Presidente Municipal entrante pidiendo a los Munícipes y asistentes que se pongan de pie para pasar a exclamar elevando el brazo derecho: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Presidente Municipal que el pueblo de Ensenada me ha conferido, mirando en todo por el bien y el progreso del Municipio, y si así no lo hiciere que el pueblo de Ensenada me lo demande".
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 Acto seguido, el Presidente Municipal entrante tomará la protesta a los demás integrantes del Ayuntamiento en los siguientes términos: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California, las Leyes que de ambas emanen y la reglamentación municipal, desempeñando leal y patrióticamente el cargo de Síndico Procurador, Síndico Social y Regidores que el pueblo de Ensenada les ha conferido, mirando en todo por el bien y el progreso del Municipio?. Los Munícipes entrantes elevarán el brazo derecho y contestarán:
 
@@ -615,7 +613,7 @@ Para efectos de proceder a la celebración de sesiones de cabildo, deberá convo
 
 AUTORIDAD CONVOCANTE.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 57.
 
@@ -643,7 +641,7 @@ II.- Lectura y aprobación del Orden del Día;
 
 III.- Lectura, discusión, y aprobación en su caso, del acta de la sesión anterior, excepto en los casos de dispensa;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
 IV.- Presentación de informes del Presidente Municipal, Sindico Procurador, Síndico Social y de las Comisiones de Regidores;
 
@@ -737,7 +735,7 @@ XIV.- Suscribir en unión con el Secretario Fedatario del Ayuntamiento, los acue
 
 XV.- Dar publicidad a los reglamentos y demás disposiciones de carácter general aprobados por el Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
 XVI.- Convocar y promover reuniones de consensos con el Síndico Procurador, el Síndico Social y los Regidores coordinadores que representen a los diferentes partidos políticos con presencia en el Ayuntamiento, con el objeto de promover entendimientos y convergencias políticas que resulten necesarios para alcanzar acuerdos a fin de que el Ayuntamiento, esté en mejores condiciones de adoptar las decisiones que constitucional, legal y reglamentariamente le corresponden;
 
@@ -1153,9 +1151,17 @@ NATURALEZA DE LAS COMISIONES Y DE LAS FUNCIONES DE LOS REGIDORES.
 
 Los Regidores ejercen las atribuciones que la Ley del Régimen Municipal les concede en materia de análisis, supervisión y vigilancia sobre los ramos de la Administración Pública Municipal, a través de las Comisiones del Ayuntamiento que la propia Ley y este Reglamento establecen.
 
-Para el mejor desempeño de sus funciones en las Comisiones y de acuerdo a la disponibilidad presupuestal, los Regidores de acuerdo con sus fracciones, podrán contratar el servicio de asesoría para lo cual recibirán apoyo económico en forma proporcional, de conformidad con lo que se establezca en el Presupuesto de Egresos. No obstante lo anterior, los Regidores que coordinen o integren las comisiones, no tendrán derecho a ninguna retribución adicional a su dieta por ese sólo hecho.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Para el mejor desempeño de sus funciones, los regidores que coordinen una o más Comisiones deberán contar con el apoyo de una secretaría técnica, compuesta de personal especialista en la materia de competencia de la comisión o comisiones de que se trate, de conformidad al Presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Los Regidores que coordinen o integren las Comisiones, no tendrán derecho a ninguna retribución adicional a su dieta por ese sólo hecho.
 
 En virtud de no tener funciones ejecutivas, cuando realicen sus funciones de supervisión y vigilancia, los Regidores se abstendrán de dar órdenes e instrucciones a los funcionarios y servidores públicos, comunicando al Presidente Municipal cualquier asunto relativo al funcionamiento de las dependencias y entidades de la Administración Pública Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 Con el propósito de vincular los trabajos de la Comisión a la función de Gobierno, los Regidores podrán contar con representación en los órganos de gobierno de las entidades paramunicipales, en los órganos de planeación del COPLADEM, en los consejos y demás órganos auxiliares de la Administración Pública Municipal, de acuerdo con la materia de la Comisión que coordinen o formen parte, sin que esta participación sea mayoritaria y de conformidad con lo que dispongan los ordenamientos respectivos.
 
@@ -1167,7 +1173,7 @@ Para ejercer las atribuciones que como órganos de trabajo del Ayuntamiento le c
 
 I.- Tendrán facultad para estudiar y supervisar que se ejecuten los Acuerdos de Cabildo y demás disposiciones aplicables al Gobierno y a la Administración Pública Municipal;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
 II.- Propondrán al Ayuntamiento los proyectos de solución o los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Pública Municipal, mediante opinión o dictamen de los asuntos que les sean turnados;
 
@@ -1175,7 +1181,7 @@ III.- Actuarán con plena autoridad para requerir por conducto del Presidente Mu
 
 IV.- Supervisarán el correcto funcionamiento de las dependencias y entidades de la Administración Pública Municipal relativas al ramo o materia de la Comisión y coadyuvarán en la promoción, difusión de sus programas o acciones; y
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
 V.- Ejercerán las demás facultades que les señale este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal, el Síndico Procurador y Sindico Social.
 
@@ -1259,7 +1265,7 @@ VI.- Las demás que el Coordinador o la Comisión le encomienden.
 
 MUNICIPES NO MIEMBROS DE LA COMISION.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 112.
 
@@ -1341,11 +1347,17 @@ XVIII.- Comisión de Deporte
 
 XX (SIC).- Comisión de Transparencia y Rendición de Cuentas.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+XXI.- Comisión de la Familia.
+
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
 Las comisiones permanentes tendrán las atribuciones que se le confieran expresamente en este Reglamento y las que otros ordenamientos y el Ayuntamiento le encomienden.
 
-Para efectos de la elaboración de dictámenes, podrán solicitar el apoyo y consulta de la unidad o área administrativa encargada de los asuntos jurídicos del propio Ayuntamiento.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Para efectos de la elaboración de dictámenes, con independencia del apoyo de la secretaría técnica, podrán solicitar la colaboración y consulta de la unidad o área administrativa encargada de los asuntos jurídicos del propio Ayuntamiento
 
 COMISION DE GOBERNACION Y LEGISLACION.
 
@@ -1687,6 +1699,24 @@ VII.- Vigilar la actualización del portal de internet del Ayuntamiento con la i
 
 VIII.- Cualquier otra relacionada a la promoción de la cultura de la legalidad, la denuncia, la transparencia y la rendición de cuentas.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+COMISIÓN DE LA FAMILIA
+
+ARTÍCULO 127 NONIES.- Atribuciones:
+
+I.- Dictaminar respecto de los asuntos relativos a los proyectos de reformas de reglamentos, iniciativas de ley, disposiciones normativas de observancia general tendientes a la protección y promoción de los derechos fundamentales de la familia, así como de sus obligaciones.
+
+II.- Proponer al Ayuntamiento medidas de carácter político, económico, social y jurídico, a fin de consolidar la unidad y bienestar familiar que permita fortalecer los valores de la familia.
+
+III.- Coadyuvar con las Dependencias Federales, Estatales y Municipales a fin de contribuir, vigilar y supervisar los programas concernientes a la Familia.
+
+IV.- Generar y promover condiciones de integración, protección, fortalecimiento y desarrollo de los derechos de la Familia, así como de sus obligaciones fundamentales.
+
+V.- Supervisar el correcto funcionamiento de los servicios que preste (sic) DIF Municipal.
+
+VI.- En general, aquellas que el Ayuntamiento le encomiende.
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
 CONVOCATORIA.
@@ -1695,7 +1725,7 @@ CONVOCATORIA.
 
 Las sesiones de las comisiones serán convocadas por su Coordinador, y el secretario de la comisión en su caso, cuando menos con cuarenta y ocho horas de anticipación, indicándose fecha, hora, lugar y asuntos a tratar. Para notificar la convocatoria a los Regidores integrantes de la Comisión, se observara el procedimiento aplicable en el caso de convocatorias a sesiones de cabildo.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 A los demás integrantes del Ayuntamiento, incluyendo al Sindico Procurador, Síndico Social y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
 
@@ -1767,7 +1797,7 @@ En la sesión ordinaria de Cabildo inmediata anterior a la que deba rendirse el 
 
 SANCIONES A MUNICIPES POR INASISTENCIAS A SESIONES DE CABILDO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 135.
 
@@ -1908,3 +1938,23 @@ P.O. 18 DE OCTUBRE DE 2013.
 SE APRUEBA POR EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, EL PROYECTO DE REFORMA DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+ACUERDO POR EL QUE SE APRUEBA POR EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, EL PROYECTO DE REFORMA DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+ACUERDO POR EL QUE APRUEBA EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, EL PROYECTO DE ADICIÓN DE LA FRACCIÓN XX DEL ARTÍCULO 114 Y ADICIÓN DEL ARTÍCULO 127 NONIES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, POR EL QUE SE CREA LA COMISIÓN EDILICIA DE LA FAMILIA.
+
+###### ARTÍCULO ÚNICO.
+
+Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+ACUERDO POR EL QUE APRUEBA EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, LA REFORMA DE LOS ARTÍCULOS 104 Y 114 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, B.C.
