@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-84-2008-del-pleno-del-consejo-de-la-64775"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-02"
-last_updated: "2013-04-09"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64775&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-10"
 
 ACUERDO GENERAL 84/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS ATRIBUCIONES DE LOS ÓRGANOS EN MATERIA DE TRANSPARENCIA, ASÍ COMO LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -103,147 +103,31 @@ Este acuerdo es de observancia obligatoria para los servidores públicos del Con
 
 ###### Artículo 4.
 
-La Comisión es el órgano encargado de promover y difundir la transparencia, el ejercicio del derecho al acceso a la información, proteger los datos de carácter personal y resolver sobre los recursos de revisión y reconsideración en materia de acceso a la información pública y de datos personales en posesión de las Unidades Administrativas y Organos Jurisdiccionales. En el ejercicio de sus atribuciones gozará de plena autonomía operativa, de gestión y de decisión.
-
-La Comisión al dictar sus resoluciones, no estará subordinada a autoridad alguna, gozará de plena independencia y contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones.
-
-Las resoluciones de la Comisión son inimpugnables.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 5.
 
-La Comisión sesionará en forma ordinaria de acuerdo con las cargas de trabajo y, en forma extraordinaria, a petición de cualquiera de sus integrantes; tomará sus decisiones por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad. Para su funcionamiento, se auxiliará de una Secretaría Técnica de Comisión.
-
-Las sesiones se celebrarán con la presencia de al menos dos de sus integrantes.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 6.
 
-La Comisión tendrá las siguientes atribuciones:
-
-I. Conocer, sustanciar y resolver los recursos de revisión y reconsideración previstos en el Título Séptimo del Reglamento;
-
-II. Vigilar que se dé cumplimiento a lo dispuesto en la Ley, el Reglamento y demás disposiciones aplicables en la materia y, en caso de incumplimiento, hacer las recomendaciones pertinentes a las Unidades Administrativas y Organos Jurisdiccionales;
-
-III. Supervisar que se ponga a disposición del público la información que refiere el artículo 7 de la Ley, y que sea actualizada periódicamente; así como autorizar aquella información en posesión de las Unidades Administrativas y Organos Jurisdiccionales que se estime conveniente difundir en la Página de Transparencia del Consejo;
-
-IV. Aprobar los criterios sostenidos al resolver asuntos en materia de transparencia;
-
-V. Emitir las disposiciones de carácter general que se requieran para el exacto cumplimiento de la Ley, del Reglamento y del presente acuerdo;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
-
-VI. Interpretar en el orden administrativo las disposiciones de la Ley, el Reglamento y las que de éstos emanen; así como las relativas a la Ley Federal de Archivos y la normativa que de ella derive;
-
-VII. Establecer mecanismos que permitan dar orientación y asesoría a los solicitantes respecto de las peticiones de acceso a la información y datos de carácter personal;
-
-VIII. Revisar y aprobar el procedimiento y los formatos de las solicitudes de acceso a la información, así como los de acceso, rectificación, cancelación y oposición a la publicación de datos de carácter personal, que someta a su consideración el Comité;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
-
-IX. Revisar, aprobar y expedir los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos de las Unidades Administrativas y Organos Jurisdiccionales; los criterios específicos en materia de organización y conservación de archivos; así como el Plan Anual de Desarrollo Archivístico y el Manual Institucional de Archivos;
-
-X. Aprobar y expedir los lineamientos y políticas generales para la administración, seguridad y protección de los datos de carácter personal que estén en posesión de las Unidades Administrativas y los Organos Jurisdiccionales;
-
-XI. Determinar, conforme a la propuesta del Comité, los indicadores de gestión que permitan divulgar los principales aspectos de las funciones jurisdiccionales y administrativas del Consejo y de los Organos Jurisdiccionales, los cuales se difundirán en medios electrónicos de consulta pública con actualización mensual;
-
-XII. Aprobar el listado de los archivos, registros o bancos de datos de carácter personal, que someta a su consideración el Comité;
-
-XIII. Fijar los costos por obtener la información, atendiendo a lo dispuesto por el artículo 27 de la Ley;
-
-XIV. Hacer del conocimiento de los órganos de control interno, las presuntas infracciones o violaciones a la Ley, al Reglamento, al presente acuerdo y a los ordenamientos derivados o vinculados con esta normativa;
-
-XV. Rendir anualmente un informe al Pleno sobre las actividades realizadas, del cual deberá remitir una copia al Instituto Federal de Acceso a la Información para los efectos del artículo 13 del Reglamento;
-
-XVI. Promover, en materia de transparencia, acceso a la información y protección de datos personales, acciones de cooperación e intercambio, mediante convenios y programas, con los demás sujetos obligados a que se refiere el artículo 3, fracción XIV, de la Ley;
-
-XVII. Difundir entre los servidores públicos y los particulares los beneficios que derivan del manejo público de la información, así como las responsabilidades en el buen uso y conservación de aquélla, a fin de generar la cultura de transparencia;
-
-XVIII. Autorizar la creación y ubicación de Módulos de Acceso;
-
-XIX. Establecer acciones de capacitación para los servidores públicos en materia de acceso a la información y protección de datos de carácter personal;
-
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
-XX. Proponer al Pleno del Consejo la designación de los Titulares de la Coordinación para la Transparencia, de la Unidad de Enlace y del Archivo General del Consejo, a sugerencia del Presidente;
-
-XXI. Designar, a propuesta de su Presidente, al secretario técnico de la Comisión, así como al demás personal de apoyo;
-
-XXII. Elaborar sus normas de operación; y
-
-XXIII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 7.
 
-Son atribuciones del Presidente de la Comisión, las siguientes:
-
-I. Representar a la Comisión;
-
-II. Determinar el contenido del orden del día de las sesiones ordinarias y extraordinarias;
-
-III. Convocar y presidir las sesiones;
-
-IV. Dirigir los debates y conservar el orden en las sesiones;
-
-V. Instruir el trámite de los asuntos que sean competencia de la Comisión, así como el despacho de la correspondencia oficial;
-
-VI. Rendir anualmente un informe al Pleno sobre las actividades de la Comisión;
-
-VII. Firmar, conjuntamente con los demás consejeros integrantes y con el secretario técnico de la Comisión, las resoluciones y actas aprobadas de las sesiones de ésta;
-
-VIII. Vigilar el cumplimiento de las resoluciones y acuerdos adoptados por la Comisión; y
-
-IX. Las demás que le confiera la Comisión y las disposiciones legales y reglamentarias aplicables.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 8.
 
-Son atribuciones de los consejeros integrantes de la Comisión:
-
-I. Asistir con derecho a voz y voto a las sesiones de la Comisión;
-
-II. Solicitar al Presidente de la Comisión la inclusión de asuntos en el orden del día;
-
-III. Presentar a consideración de la Comisión proyectos de resoluciones, acuerdos, informes y cualquier otro asunto que estimen conveniente;
-
-IV. Hacer suyo el proyecto de resolución que se presente por algún otro integrante de la Comisión, en su ausencia, y conforme al orden previamente establecido para tales efectos;
-
-V. Proponer la asistencia de servidores públicos que por la naturaleza de los asuntos a tratar, deban acudir a las sesiones de la Comisión;
-
-VI. Proponer al Presidente de la Comisión la celebración de sesiones extraordinarias; y
-
-VII. Las demás que le confiera la Comisión y las disposiciones legales y reglamentarias aplicables.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 9.
 
-Las convocatorias a las sesiones de la Comisión se harán por conducto de su secretario técnico, deberán realizarse por escrito y contener el orden del día, la fecha, el lugar y la hora en que se llevará a cabo la sesión, y remitirse a los integrantes cuando menos con cuarenta y ocho horas de antelación a la celebración de sesiones ordinarias; para el caso de las sesiones extraordinarias la remisión de dichos documentos se realizará, al menos, con veinticuatro horas de anticipación.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 10.
 
-El secretario técnico de la Comisión tendrá las funciones siguientes:
-
-I. Recibir la documentación dirigida a la Comisión y/o a su Presidente, y dar cuenta a éste;
-
-II. Turnar conforme al orden preestablecido, los asuntos para análisis de cada integrante de la Comisión y presentación de proyecto de resolución;
-
-III. Dar cuenta al Presidente de la Comisión del estado de trámite de los asuntos en conocimiento de dicho órgano colegiado y someter a su consideración los acuerdos conducentes;
-
-IV. Preparar el orden del día de las sesiones y someterlo a la consideración del Presidente de la Comisión, así como elaborar las respectivas convocatorias;
-
-V. Realizar las gestiones necesarias para distribuir oportunamente las convocatorias a las sesiones entre los integrantes de la Comisión;
-
-VI. Verificar el quórum de asistencia de las sesiones y dar cuenta de ello al Presidente de la Comisión;
-
-VII. Tomar las votaciones de los integrantes de la Comisión y dar a conocer su resultado;
-
-VIII. Elaborar y someter a consideración de los integrantes de la Comisión para su aprobación y firma, las actas relativas a las sesiones de dicho órgano;
-
-IX. Llevar a cabo las funciones de control y custodia de las actas y documentos relativos a la Comisión;
-
-X. Dar fe y expedir constancias de las actas, resoluciones, criterios y demás documentos relacionados, en todo o en parte;
-
-XI. Dar seguimiento a los acuerdos sobre las resoluciones de la Comisión o el estado que éstas guarden; y
-
-XII. Las demás que le confieran la Comisión y las disposiciones legales y reglamentarias aplicables.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ### Capítulo Segundo. Del Comité de Acceso a la Información y Protección de Datos Personales
 
@@ -391,229 +275,61 @@ XII. Informar quincenalmente al Comité sobre las actas y engroses pendientes de
 
 ### Capítulo Tercero. De la Coordinación para la Transparencia, Acceso a la Información y Archivos
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
 ###### Artículo 19 Bis.
 
-La Coordinación para la Transparencia se encargará de auxiliar a la Comisión y al Comité para el desempeño de las atribuciones que tienen encomendadas; así como de la planeación, supervisión y dirección de las acciones que en materia de transparencia, acceso a la información, protección de datos personales y archivo realiza el Consejo.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Articulo 19 Ter.
 
-La Coordinación para la Transparencia tendrá las siguientes atribuciones:
-
-I. Proponer a la Comisión las políticas, directrices, normas y criterios que sobre las materias de su competencia resulte necesario implementar;
-
-II. Verificar que la información a que se refiere el artículo 7 de la Ley quede a disposición del público, así como proponer a la Comisión, cualquier otra información que considere se deba difundir en la página de transparencia;
-
-III. Someter a la aprobación de la Comisión, el diseño de las páginas de transparencia;
-
-IV. Coordinarse con las áreas respectivas del Consejo, para presentar al Comité, los indicadores de gestión administrativa y jurisdiccional;
-
-V. Proponer al Comité, los proyectos de programas que faciliten la obtención de información en posesión de las unidades administrativas y órganos jurisdiccionales;
-
-VI. Instrumentar el desarrollo de las acciones encaminadas a la protección de datos personales;
-
-VII. Someter al Comité, las propuestas para definir los criterios y medidas necesarias para la organización y archivos en el Consejo;
-
-VIII. Supervisar el cumplimiento de la política archivística determinada por la Comisión que incluye la gestión de documentos; así como el fortalecimiento del Sistema Institucional de Archivos;
-
-IX. Recopilar y publicar los criterios novedosos o relevantes y las resoluciones de los Tribunales Unitarios y Juzgados de Distrito e informar trimestralmente a la Comisión, sobre los avances obtenidos;
-
-X. Publicar en Internet las sentencias ejecutorias o resoluciones públicas relevantes generadas por los Órganos Jurisdiccionales e informar trimestralmente a la Comisión sobre los avances en la conformación del banco de datos;
-
-XI. Operar y mantener actualizado el diccionario biográfico;
-
-XII. Coordinar la impartición de cursos de capacitación en materias de transparencia, acceso a la información, protección de datos y archivos a los servidores públicos de las unidades administrativas y de los órganos jurisdiccionales;
-
-XIII. Planear, programar, dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo;
-
-XIV. Proponer o designar, conforme a la normativa aplicable, al personal de la unidad administrativa a su cargo;
-
-XV. Informar a las áreas competentes, con la periodicidad que corresponda, sobre el avance y cumplimento de proyectos y programas a su cargo; y
-
-XVI. Las demás que le confiera la Comisión y las disposiciones legales y reglamentarias aplicables.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 19 Quater.
 
-La Coordinación para la Transparencia contará con las siguientes unidades administrativas:
-
-I. Unidad de Enlace;
-
-II. Archivo General del Consejo de la Judicatura Federal; y
-
-III. Secretaría Técnica del Comité de Acceso a la Información y Protección de Datos Personales.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ### Capítulo Cuarto. De la Unidad de Enlace
 
 ###### Artículo 20.
 
-La Unidad de Enlace es el órgano operativo en materia de transparencia y acceso a la información pública del Consejo, encargado de difundir la información y fungir como vínculo entre los solicitantes de información y las distintas Unidades Administrativas y los Organos Jurisdiccionales; además de desarrollar e implementar las acciones tendentes a la protección de datos de carácter personal, que permitan su adecuada administración y seguridad.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 21.
 
-La Unidad de Enlace tendrá las siguientes atribuciones:
-
-I. Gestionar la automatización, presentación y actualización de la información pública que señala el artículo 7 de la Ley, de las Unidades Administrativas y los Organos Jurisdiccionales, para ponerla a disposición del público en general;
-
-II. Proporcionar el apoyo técnico necesario a las diferentes Unidades Administrativas y Organos Jurisdiccionales, en la presentación de la información pública;
-
-III. Recibir y dar trámite a las solicitudes de acceso a la información pública y a las de acceso, rectificación, cancelación y oposición de publicación de datos personales, en términos de la Ley y el Reglamento;
-
-IV. Operar los Módulos de Acceso para que las personas que lo requieran puedan solicitar el acceso a la información pública o a sus datos personales;
-
-V. Auxiliar a los solicitantes o a sus representantes en el llenado de formatos de acceso a la información pública o aquellos relativos a datos personales;
-
-VI. Orientar a los solicitantes, en la medida de lo posible, en el caso de que la información pública o sus datos personales no sean competencia del Consejo o de los Organos Jurisdiccionales;
-
-VII. Comunicar por escrito al solicitante, cuando corresponda, que la petición no cuenta con los datos necesarios, no cumple con los requisitos o no es clara, precisa, concreta o particularizada;
-
-VIII. Calificar la procedencia de las solicitudes conforme a la normativa aplicable;
-
-IX. Comunicar al solicitante la disponibilidad de la información pública o de sus datos personales y, en su caso, cotizar los costos de reproducción y recibir el comprobante de pago;
-
-X. Entregar al solicitante la información correspondiente preferentemente a través del medio solicitado o por el medio existente, o bien, facilitarle los medios para que tenga acceso a ella;
-
-XI. Elaborar y proponer los procedimientos internos de acceso a la información pública, que aseguren eficiencia y eficacia en la gestión de las solicitudes;
-
-XII. Elaborar y proponer los procedimientos internos de solicitud de acceso, rectificación, cancelación y oposición de publicación de datos de carácter personal, para asegurar que éstos se pongan a disposición de sus titulares o sus representantes;
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
-XIII. Elaborar, bajo la supervisión de la Coordinación para la Transparencia y el apoyo técnico de la unidad administrativa competente en materia de informática, los criterios y políticas generales para administración, seguridad y protección de datos de carácter personal que estén en posesión de las Unidades Administrativas y Órganos Jurisdiccionales;
-
-XIV. Proporcionar, el apoyo necesario a las diferentes Unidades Administrativas y Organos Jurisdiccionales, en la administración, seguridad y protección de los datos de carácter personal que tienen bajo su resguardo;
-
-XV. Llevar el registro de las solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de publicación de datos personales, así como de sus trámites, costos y resultados;
-
-XVI. Recabar y sistematizar la información necesaria para la integración del inventario de los archivos, registros y bancos de datos de carácter personal en posesión de las Unidades Administrativas y Organos Jurisdiccionales;
-
-XVII. Verificar que los sistemas de datos de carácter personal de las Unidades Administrativas y Organos Jurisdiccionales cumplan con las disposiciones establecidas para la administración, seguridad y protección de los datos personales, y presentar el informe correspondiente ante el Comité;
-
-XVIII. Ejecutar las acciones que determine el Comité, conforme a sus funciones y en el ámbito de su competencia;
-
-XIX. Presentar al Comité un informe trimestral sobre las actividades realizadas, que contenga los datos necesarios para la elaboración del informe a que se refiere el artículo 13 del Reglamento;
-
-XX. Proponer actividades para la difusión entre los servidores públicos y los particulares, de los beneficios que se derivan del manejo público de la información, de las responsabilidades en el manejo, uso y conservación de los datos de carácter personal, a fin de generar la cultura de transparencia;
-
-XXI. Diseñar e instrumentar cursos de capacitación en materia de acceso a la información y protección de datos de carácter personal para los servidores públicos;
-
-XXII. Comunicar al Comité sobre cualquier problema o dificultad que se presente en la atención de las solicitudes de acceso a la información pública y de datos de carácter personal; y
-
-XXIII. Las demás que determine la Comisión, el Comité y las disposiciones legales y reglamentarias aplicables.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 22.
 
-La Unidad de Enlace estará a cargo por quien designe el Pleno, a propuesta de la Comisión.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 23.
 
-Las Unidades Administrativas y los Organos Jurisdiccionales brindarán el apoyo que sea requerido por la Unidad de Enlace, para el cumplimiento de las atribuciones que tiene conferidas.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 24.
 
-El titular de la Unidad de Enlace deberá presentar en cada sesión del Comité:
-
-I. Informe del número de solicitudes de acceso a la información pública presentadas, así como de acceso, rectificación, cancelación y oposición a la publicación de datos personales, en razón del trámite que le correspondió, y su resultado;
-
-II. Solicitudes de prórroga de los plazos de respuesta;
-
-III. Estado de cumplimiento por parte de las Unidades Administrativas y Organos Jurisdiccionales, de las obligaciones de transparencia y protección de datos personales, referidas en los ordenamientos aplicables;
-
-IV. Estado de cumplimiento por parte de las Unidades Administrativas y Organos Jurisdiccionales de las resoluciones de la Comisión y del Comité; y
-
-V. En su caso, las dificultades observadas en el cumplimiento de la normativa aplicable en materia de transparencia.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ### Capítulo Quinto. Del Archivo General del Consejo
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
-
 ###### Artículo 24 Bis.
 
-El Archivo General del Consejo es el Área Coordinadora de Archivos, encargada de desarrollar e implementar el sistema institucional de archivos, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 24 Ter.
 
-El titular del Archivo General del Consejo tendrá a su cargo las siguientes atribuciones:
-
-I. Proponer a la Coordinación para la Transparencia, aquellos procedimientos y métodos necesarios para el adecuado funcionamiento del Sistema Institucional de Archivos, así como el Plan Anual de Desarrollo Archivístico de los archivos bajo administración del Consejo, para someterlos a consideración del Comité y posterior aprobación de la Comisión;
-
-II. Proponer a la Coordinación para la Transparencia los criterios y lineamientos archivísticos para la organización y conservación de los archivos bajo la administración del Consejo, a fin de asegurar su integridad según las disposiciones aplicables, para presentarlos al Comité y en su oportunidad a la Comisión;
-
-III. Participar en la elaboración de las propuestas de la normativa relativa a los archivos bajo la administración del Consejo;
-
-IV. Formar parte del Comité con voz y voto, en aquellos casos relacionados con la materia archivística;
-
-V. Proporcionar capacitación archivística de conformidad con el programa que para tal efecto apruebe la Comisión, previa autorización de la Coordinación para la Transparencia;
-
-VI. Asesorar en materia archivística a los órganos jurisdiccionales y áreas administrativas del Consejo;
-
-VII. Promover el uso de tecnologías de la información disponibles en el Consejo para el manejo e integración de los archivos;
-
-VIII. En coordinación con la unidad administrativa competente en materia Informática, determinar los métodos para la conservación de los documentos de archivo en formato electrónico;
-
-IX. Elaborar conjuntamente con la Coordinación para la Transparencia y someter a consideración de la Comisión los contenidos y actualizaciones del Manual Institucional de Archivos, de los Reglamentos del Archivo Histórico y del Centro de Documentación;
-
-X. Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman los archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones aplicables;
-
-XI. Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos históricos;
-
-XII. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
-
-XIII. En coordinación con las áreas responsables, definir los espacios físicos y condiciones requeridas para la guarda, mantenimiento y conservación de los archivos bajo la administración del Consejo;
-
-XIV. Emitir opinión técnica sobre aquellos asuntos relacionados con la materia archivística, conforme a las atribuciones y funciones señaladas en el presente acuerdo y a la normativa aplicable;
-
-XV. Expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo;
-
-XVI. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
-
-XVII. Participar en la elaboración y revisión de los Sistemas de Manejo Ambiental a que se refiere el artículo 17 bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en el tema de la racionalidad y sustentabilidad de los archivos institucionales;
-
-XVIII. Proponer a la Coordinación para la Transparencia, los mecanismos de evaluación de los archivos bajo administración del Consejo;
-
-XIX. Rendir informe sobre el estado que guarda el Archivo General, con la periodicidad que determine la Comisión;
-
-XX. Presentar a la Comisión, por conducto de la Coordinación para la Transparencia, el informe anual de los avances alcanzados en materia archivística, para su difusión en el Portal de Transparencia del Consejo;
-
-XXI. Informar a la Coordinación para la Transparencia, para que en su caso, comunique a la Comisión sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
-
-XXII. Las demás que establezcan el Pleno y la Comisión.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ### Capítulo Sexto. De los Módulos de Acceso
 
 ###### Artículo 25.
 
-La Unidad de Enlace operará en los Módulos de Acceso, con el apoyo de las Administraciones Regionales y Delegaciones Administrativas, en donde las personas que lo requieran, podrán realizar consultas mediante el llenado de formatos, o en su caso, a través de los medios electrónicos dispuestos para tal caso.
-
-Las Administraciones Regionales y las Delegaciones Administrativas harán del conocimiento de la Unidad de Enlace el nombre del servidor público designado como responsable del Módulo de Acceso.
-
-Con el objeto de orientar a los solicitantes en la consulta de las terminales electrónicas y en el llenado de formatos, los módulos contarán con personal capacitado.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 26.
 
-Los Módulos de Acceso tendrán las siguientes atribuciones:
-
-I. Recibir solicitudes de acceso de información pública y de acceso, rectificación, cancelación y oposición de publicación de datos personales;
-
-II. Auxiliar a los solicitantes en el llenado de formatos de acceso a la información pública o aquellos relativos a datos personales y orientarlos, en la medida de lo posible, en el caso de que la información pública o sus datos personales no sean competencia del Consejo o de los Organos Jurisdiccionales;
-
-III. Remitir a la Unidad de Enlace las solicitudes de información;
-
-IV. Entregar a los requirentes, cuando proceda, las respuestas a sus solicitudes de información y, en su caso, hacer entrega de la información, previo cumplimiento de requisitos legales y reglamentarios;
-
-V. Remitir a la Unidad de Enlace los comprobantes de pago que hubiese recibido para el trámite de la solicitud de que se trate;
-
-VI. Informar mensualmente a la Unidad de Enlace el número de solicitudes atendidas; y
-
-VII. Comunicar de inmediato a la Unidad de Enlace sobre cualquier problema o dificultad que se presente en las solicitudes de acceso a la información y de datos personales.
+(DEROGADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ## Título Tercero. De las obligaciones de Transparencia y del Portal de Internet
 
@@ -1626,3 +1342,35 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
+
+D.O.F. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General número 15/1996, del pleno del Consejo de la Judicatura Federal, que establece las Bases de Operación y Funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo del Consejo de la Judicatura Federal;
+
+II. Acuerdo General número 24/1996, del Pleno del Consejo de la Judicatura Federal, relativo al domicilio oficial del propio Consejo;
+
+III. Acuerdo General número 18/2000 del Pleno del Consejo de la Judicatura Federal, por el que se desconcentra a las Administraciones Regionales la función administrativa de atención a los órganos jurisdiccionales federales y áreas del propio Consejo en el interior de la República;
+
+IV. Acuerdo General 39/2001 del Pleno del Consejo de la Judicatura Federal, por el que se delegan facultades en favor del Director General del Instituto Federal de Defensoría Pública, para la celebración de convenios;
+
+V. Acuerdo General 33/2003, del Pleno del Consejo de la Judicatura Federal, que ordena recibir los informes anuales de actividades del Instituto de la Judicatura Federal y del Instituto Federal de Defensoría Pública en el salón de usos múltiples del edificio sede del Consejo de la Judicatura Federal y abroga los diversos acuerdos generales 66/2001 y 27/2003, del propio Cuerpo Colegiado;
+
+VI. Acuerdo General 6/2007 del Pleno del Consejo de la Judicatura Federal, por el que se establecen reglas para suplir a los servidores públicos del propio Consejo, en sus ausencias;
+
+VII. Acuerdo General 2/2009 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de domicilio de la Comisión Substanciadora Única del Poder Judicial de la Federación;
+
+VIII. Acuerdo General 28/2009, del Pleno del Consejo de la Judicatura Federal, relativo al procedimiento para sustituir las ausencias temporales en la presidencia de la Comisión Substanciadora Única del Poder Judicial de la Federación; y
+
+IX. Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+CUARTO. Las referencias que se hagan en otras disposiciones a la Comisión Mixta de Seguridad, Higiene y Medio Ambiente en el Trabajo o a la Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, se entenderán hechas a la Comisión de Seguridad y Salud en el Trabajo.
+
+Y las que se hagan a las Comisiones Auxiliares de Seguridad, Higiene y Medio Ambiente se entenderán hechas a las Comisiones Auxiliares de Seguridad y Salud en el Trabajo.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
