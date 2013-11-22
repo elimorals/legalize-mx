@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2013-09-13"
+last_updated: "2013-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -197,21 +197,21 @@ III. Desempeñar las funciones electorales y los cargos de elección popular y l
 
 IV. Participar en los procesos de referéndum y de plebiscito a que se convoque en los términos de esta Constitución y sus leyes reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 ###### Art. 10.
 
-Son prerrogativas del ciudadano sinaloense:
+Son derechos del ciudadano sinaloense:
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
 I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos.
 
-II. Poder ser votado para los cargos de elección popular, siempre que reuna los requisitos siguientes, sin los cuales toda elección será nula:
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-A. Estar en pleno uso de sus derechos.
+> <small>N. DE E. DEL ANÁLISIS DE LA PROPIA REFORMA, SE ADVIERTE QUE SE DEROGARON LAS LETRAS A Y B, QUE EXISTÍAN EN EL TEXTO ANTERIOR.</small>
 
-B. No ser ministro de culto alguno.
-
-C. (DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
+II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. Para ejercer dicho derecho ante la autoridad electoral competente, el ciudadano sinaloense podrá hacerlo a través de la solicitud de registro de un partido político o de manera independiente siempre que cumpla con los requisitos, condiciones y términos que determine la legislación, sin los cuales toda elección será nula.
 
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
@@ -1067,7 +1067,7 @@ II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombrami
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas.;
+III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas;
 
 IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, y pedir al mismo la prórroga del período de sesiones por el tiempo que estime necesario.
 
@@ -3452,5 +3452,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el H. Congreso del Estado deberá expedir la Ley reglamentaria correspondiente.
 
 P.O. 13 DE SEPTIEMBRE DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE NOVIEMBRE DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
