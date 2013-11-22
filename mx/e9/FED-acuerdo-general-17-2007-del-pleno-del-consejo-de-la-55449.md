@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2007-del-pleno-del-consejo-de-la-55449"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2008-07-15"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2007-05-02"
 ---
 # ACUERDO GENERAL 17/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
+ACUERDO GENERAL 17/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -265,81 +265,19 @@ TRANSFERENCIA DE RECURSOS A LA CUENTA PATRIMONIAL DEL FONDO. La Secretaría Ejec
 
 ###### Artículo 37.
 
-ORGANO DE ADMINISTRACION DEL FONDO. La administración del Fondo estará a cargo del Comité, integrado por el presidente del Consejo, quien fungirá como presidente y los otros seis consejeros, auxiliándose para el cumplimiento de sus funciones con un Secretario Técnico, cuya designación recaerá en un profesionista especializado en finanzas y administración.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 38.
 
-ATRIBUCIONES DEL COMITE. El Comité tendrá las siguientes atribuciones:
-
-I. Establecer las políticas de inversión, administración y control de los recursos que constituyan el patrimonio del Fondo;
-
-II. Dictar las medidas que estime necesarias para la correcta administración de los recursos del Fondo;
-
-III. Decidir sobre el destino específico de los rendimientos del Fondo, de conformidad con las disposiciones de la Ley;
-
-IV. Nombrar y remover al Secretario Técnico;
-
-V. Instruir al Secretario Técnico sobre la celebración de convenios y demás instrumentos jurídicos que resulten necesarios para la operación del Fondo;
-
-VI. Instruir al Secretario Técnico para que rinda informes sobre la operación del Fondo con la periodicidad que sea necesaria; y
-
-VII. Las demás que determine la Ley, así como las que resulten necesarias para el efectivo manejo y operación del Fondo.
-
-Para el desarrollo y validez de las sesiones del Comité, se estará a lo dispuesto por la Ley, los Acuerdos Generales que regulan las sesiones del Pleno del Consejo y las Reglas de Operación del Comité.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 39.
 
-FUNCIONES DEL SECRETARIO TECNICO. El Secretario Técnico tendrá las siguientes funciones:
-
-I. Convocar a las reuniones del Comité;
-
-II. Preparar el orden del día de la sesión, así como los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual se remitirá copia a cada integrante del Comité;
-
-III. Elaborar y suscribir las actas de las sesiones para la aprobación del Comité e integrarlas en el expediente respectivo;
-
-IV. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
-
-V. Vigilar que el archivo de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones legales aplicables;
-
-VI. Suscribir los convenios, contratos y en general, la documentación que instruya el Comité;
-
-VII. Llevar el registro, control y seguimiento de los depósitos que se realicen ante los Organos Jurisdiccionales, con el auxilio de la Dirección General de Estadística;
-
-VIII. Proponer al Comité la inversión de los recursos administrados por el Fondo, en las opciones que resulten más productivas;
-
-> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2007)</small>
-
-IX. Controlar y dar seguimiento a la información sobre los depósitos que reciba la institución de crédito que haya sido designada para tal efecto;
-
-X. Proponer al Comité el grado de liquidez que deberá mantenerse para permitir la disponibilidad a que alude el artículo 248 de la Ley;
-
-XI. Proponer al Comité, con cargo a los rendimientos del Fondo, las erogaciones que sean necesarias para el mejoramiento de la administración de justicia;
-
-XII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley y demás ordenamientos de la materia, observando en todo momento las obligaciones contenidas en el artículo 8o. de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
-
-XIII. Brindar la asesoría que sea necesaria a los servidores públicos adscritos a los Organos Jurisdiccionales, en relación con el Fondo;
-
-XIV. Elaborar los informes sobre la situación contable y financiera que guarde el Fondo, con la periodicidad con que le sean solicitados; así como formular e informar al Comité del presupuesto relativo a la nómina del personal que integra el Fondo, y los que se generen por otros conceptos de gasto;
-
-XV. Dar seguimiento al cumplimiento de los acuerdos emitidos por el Comité;
-
-XVI. Formular el Programa Anual de Trabajo del Fondo; y
-
-XVII. Las demás que le señale el Comité.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 40.
 
-ASESORES E INVITADOS DEL COMITE. Los titulares del Comité de Inversión, de la Dirección General de Estadística y Planeación Judicial y de la Dirección General de Asuntos Jurídicos, serán asesores permanentes del Comité y tendrán las siguientes funciones:
-
-I. Asistir a las reuniones del Comité con voz pero sin voto, en los casos que sean citados;
-
-II. Analizar, cuando se les requiera, los documentos relacionados con la competencia del Comité;
-
-III. Opinar y proporcionar la asesoría que estimen conveniente en los asuntos de su especialización, cuando se les solicite; y
-
-IV. Proponer alternativas de solución cuando les sean solicitadas.
-
-El Comité podrá invitar a los representantes de grupos financieros, servidores públicos o particulares que, en razón de su competencia o profesión, puedan aportar sus conocimientos y experiencia para la resolución de los asuntos de la responsabilidad del Comité, los cuales tendrán derecho a voz pero no a voto. Dichas personas deberán guardar absoluta confidencialidad respecto de la información a la que tengan acceso.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ### Capítulo IV. Del Control y la Vigilancia
 
@@ -519,25 +457,17 @@ SANCIONES. El incumplimiento a lo dispuesto en este Acuerdo se sujetará a lo pr
 
 INTERPRETACION. En las dudas o controversias que se generen con motivo de la interpretación administrativa y aplicación del presente Acuerdo y, en su caso, de las Reglas de Operación del Comité, se estará a lo que resuelva el Comité.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL PUNTO UNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
 
 ### Capítulo X. De las Faltas Temporales del Titular de la Secretaría Técnica
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
-
 ###### Artículo 69.
 
-Durante las faltas temporales del titular de la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia, con excepción de los periodos de receso, el titular de la Dirección de Normatividad y Enlace Institucional ejercerá todas las atribuciones legales, normativas y reglamentarias asignadas a la Secretaría Técnica. A su vez, la falta temporal del titular de la Dirección de Normatividad y Enlace Institucional será suplida, en los mismos términos, por el titular de la Dirección de Administración Financiera.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 39/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2008)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 70.
 
-La falta temporal del titular de la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia, durante los periodos de receso del Consejo de la Judicatura Federal, será suplida por el titular de la Dirección de Normatividad y Enlace Institucional, quien ejercerá las atribuciones previstas en el artículo 39 de este acuerdo, excepto las mencionadas en las fracciones VIII, X, XI y XVI.
-
-De igual forma la falta temporal del titular de la Dirección de Normatividad y Enlace Institucional será suplida por el titular de la Dirección de Administración Financiera.
-
-Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Institucional y/o al titular de la Dirección de Administración Financiera, para determinar el número de servidores públicos necesarios para el óptimo ejercicio de las atribuciones antes descritas.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 ## TRANSITORIOS
 
@@ -559,7 +489,7 @@ OCTAVO.- Publíquese este Acuerdo en el Diario Oficial de la Federación; así c
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 17/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia, fue aprobado por el Pleno del propio Consejo, en sesión de dos de mayo de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello y Oscar Vázquez Marín.- México, Distrito Federal, a dos de mayo de dos mil siete.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 30 DE NOVIEMBRE DE 2007.
 
@@ -590,3 +520,35 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 17/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Regula la Organización y Funcionamiento del Fondo de Apoyo a la Administración de Justicia.
+
+D.O.F. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General número 15/1996, del pleno del Consejo de la Judicatura Federal, que establece las Bases de Operación y Funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo del Consejo de la Judicatura Federal;
+
+II. Acuerdo General número 24/1996, del Pleno del Consejo de la Judicatura Federal, relativo al domicilio oficial del propio Consejo;
+
+III. Acuerdo General número 18/2000 del Pleno del Consejo de la Judicatura Federal, por el que se desconcentra a las Administraciones Regionales la función administrativa de atención a los órganos jurisdiccionales federales y áreas del propio Consejo en el interior de la República;
+
+IV. Acuerdo General 39/2001 del Pleno del Consejo de la Judicatura Federal, por el que se delegan facultades en favor del Director General del Instituto Federal de Defensoría Pública, para la celebración de convenios;
+
+V. Acuerdo General 33/2003, del Pleno del Consejo de la Judicatura Federal, que ordena recibir los informes anuales de actividades del Instituto de la Judicatura Federal y del Instituto Federal de Defensoría Pública en el salón de usos múltiples del edificio sede del Consejo de la Judicatura Federal y abroga los diversos acuerdos generales 66/2001 y 27/2003, del propio Cuerpo Colegiado;
+
+VI. Acuerdo General 6/2007 del Pleno del Consejo de la Judicatura Federal, por el que se establecen reglas para suplir a los servidores públicos del propio Consejo, en sus ausencias;
+
+VII. Acuerdo General 2/2009 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de domicilio de la Comisión Substanciadora Única del Poder Judicial de la Federación;
+
+VIII. Acuerdo General 28/2009, del Pleno del Consejo de la Judicatura Federal, relativo al procedimiento para sustituir las ausencias temporales en la presidencia de la Comisión Substanciadora Única del Poder Judicial de la Federación; y
+
+IX. Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+CUARTO. Las referencias que se hagan en otras disposiciones a la Comisión Mixta de Seguridad, Higiene y Medio Ambiente en el Trabajo o a la Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, se entenderán hechas a la Comisión de Seguridad y Salud en el Trabajo.
+
+Y las que se hagan a las Comisiones Auxiliares de Seguridad, Higiene y Medio Ambiente se entenderán hechas a las Comisiones Auxiliares de Seguridad y Salud en el Trabajo.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
