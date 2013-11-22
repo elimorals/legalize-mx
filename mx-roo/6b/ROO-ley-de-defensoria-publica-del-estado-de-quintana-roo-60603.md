@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-defensoria-publica-del-estado-de-quintana-roo-60603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2011-02-25"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE DEFENSORIA PUBLICA DEL ESTADO DE QUINTANA ROO
 
-LEY DE DEFENSORIA PUBLICA DEL ESTADO DE QUINTANA ROO
+LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 22 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -626,3 +628,15 @@ P.O. 25 DE FEBRERO DE 2011.
 PRIMERO.- Estas reformas a la ley de Defensoría Pública del Estado de Quintana Roo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley del Instituto de Defensoría Pública del Estado de Quintana Roo, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley de la Defensoría Publica del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo, el día once de marzo de dos mil ocho.
+
+TERCERO.- A la entrada en vigor de la presente Ley, los servidores públicos del Instituto de la Defensoría Pública del Estado de Quintana Roo, permanecerán en el cargo por el periodo que hayan sido designados o ratificados, según sea el caso.
+
+CUARTO.- El Reglamento a que hace referencia esta Ley, deberá ser expedido por el Consejo de la Judicatura del Estado de Quintana Roo, a propuesta de la Dirección del Instituto de la Defensoría Pública dentro de los treinta días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
