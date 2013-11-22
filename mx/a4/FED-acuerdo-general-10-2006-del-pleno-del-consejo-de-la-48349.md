@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2006-del-pleno-del-consejo-de-la-48349"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-02-03"
-last_updated: "2013-06-28"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48349&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-02-01"
 
 ACUERDO GENERAL 10/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DE LOS DÍAS INHÁBILES Y LOS DE DESCANSO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2006.
 
@@ -59,59 +59,63 @@ Por lo anterior, y con fundamento en lo dispuesto en los citados preceptos const
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)</small>
 
-PRIMERO.- Para los efectos del cómputo de los plazos procesales en los asuntos de la competencia del Consejo de la Judicatura Federal, órganos auxiliares, así como órganos jurisdiccionales del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, se considerarán como días inhábiles:
+PRIMERO.- Para los efectos del cómputo de los plazos procesales en los asuntos de la competencia de órganos jurisdiccionales del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, se considerarán como días inhábiles:
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
 a) Los sábados;
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
+
 b) Los domingos;
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
 c) Los lunes en que por disposición del artículo 74 de la Ley Federal del Trabajo deje de laborarse;
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
+
 d) El primero de enero;
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
 e) El cinco de febrero;
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
+
 f) El veintiuno de marzo;
-
-g) El primero de mayo;
-
-h) El cinco de mayo;
-
-i) El dieciséis de septiembre;
-
-j) El doce de octubre;
-
-k) El veinte de noviembre;
-
-l) El veinticinco de diciembre; y
-
-m) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-SEGUNDO.- Para los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, serán días de descanso:
+g) El primero de mayo;
 
-a) Los sábados;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-b) Los domingos;
+h) El cinco de mayo;
 
-c) Los lunes en que por disposición del artículo 74 de la Ley Federal del Trabajo deje de laborarse;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-d) El primero de enero;
+i) El dieciséis de septiembre;
 
-e) El primero de mayo;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-f) El cinco de mayo;
+j) El doce de octubre;
 
-g) El dieciséis de septiembre;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-h) El doce de octubre;
+k) El veinte de noviembre;
 
-i) El veinticinco de diciembre; y
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
 
-j) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
+l) El veinticinco de diciembre; y
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 18/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE JUNIO DE 2013)</small>
+
+m) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO.- (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE NOVIEMBRE DE 2013)
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 39/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ENERO DE 2013)</small>
 
@@ -154,3 +158,35 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar el texto de estas reformas, a los Acuerdos Generales correspondientes.
+
+D.O.F. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General número 15/1996, del pleno del Consejo de la Judicatura Federal, que establece las Bases de Operación y Funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo del Consejo de la Judicatura Federal;
+
+II. Acuerdo General número 24/1996, del Pleno del Consejo de la Judicatura Federal, relativo al domicilio oficial del propio Consejo;
+
+III. Acuerdo General número 18/2000 del Pleno del Consejo de la Judicatura Federal, por el que se desconcentra a las Administraciones Regionales la función administrativa de atención a los órganos jurisdiccionales federales y áreas del propio Consejo en el interior de la República;
+
+IV. Acuerdo General 39/2001 del Pleno del Consejo de la Judicatura Federal, por el que se delegan facultades en favor del Director General del Instituto Federal de Defensoría Pública, para la celebración de convenios;
+
+V. Acuerdo General 33/2003, del Pleno del Consejo de la Judicatura Federal, que ordena recibir los informes anuales de actividades del Instituto de la Judicatura Federal y del Instituto Federal de Defensoría Pública en el salón de usos múltiples del edificio sede del Consejo de la Judicatura Federal y abroga los diversos acuerdos generales 66/2001 y 27/2003, del propio Cuerpo Colegiado;
+
+VI. Acuerdo General 6/2007 del Pleno del Consejo de la Judicatura Federal, por el que se establecen reglas para suplir a los servidores públicos del propio Consejo, en sus ausencias;
+
+VII. Acuerdo General 2/2009 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de domicilio de la Comisión Substanciadora Única del Poder Judicial de la Federación;
+
+VIII. Acuerdo General 28/2009, del Pleno del Consejo de la Judicatura Federal, relativo al procedimiento para sustituir las ausencias temporales en la presidencia de la Comisión Substanciadora Única del Poder Judicial de la Federación; y
+
+IX. Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+CUARTO. Las referencias que se hagan en otras disposiciones a la Comisión Mixta de Seguridad, Higiene y Medio Ambiente en el Trabajo o a la Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, se entenderán hechas a la Comisión de Seguridad y Salud en el Trabajo.
+
+Y las que se hagan a las Comisiones Auxiliares de Seguridad, Higiene y Medio Ambiente se entenderán hechas a las Comisiones Auxiliares de Seguridad y Salud en el Trabajo.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
