@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2009-del-pleno-del-consejo-de-la-69205"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-08-03"
-last_updated: "2009-08-03"
+last_updated: "2013-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69205&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-06-24"
 ---
 # ACUERDO GENERAL 28/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [PROCEDIMIENTO PARA SUSTITUIR LAS AUSENCIAS TEMPORALES EN LA PRESIDENCIA DE LA COMISION SUBSTANCIADORA UNICA DEL PODER JUDICIAL DE LA FEDERACION]
 
-ACUERDO GENERAL 28/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL PROCEDIMIENTO PARA SUSTITUIR LAS AUSENCIAS TEMPORALES EN LA PRESIDENCIA DE LA COMISION SUBSTANCIADORA UNICA DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL 28/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL PROCEDIMIENTO PARA SUSTITUIR LAS AUSENCIAS TEMPORALES EN LA PRESIDENCIA DE LA COMISIÓN SUBSTANCIADORA ÚNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES, PUBLICADO EN EL D.O.F. DE 22 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 3 de agosto de 2009.
 
@@ -62,3 +64,37 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 28/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Procedimiento para Sustituir las Ausencias Temporales en la Presidencia de la Comisión Substanciadora Unica del Poder Judicial de la Federación, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinticuatro de junio de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a trece de julio de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan los siguientes acuerdos generales:
+
+I. Acuerdo General número 15/1996, del pleno del Consejo de la Judicatura Federal, que establece las Bases de Operación y Funcionamiento de la Comisión Mixta de Seguridad e Higiene en el Trabajo del Consejo de la Judicatura Federal;
+
+II. Acuerdo General número 24/1996, del Pleno del Consejo de la Judicatura Federal, relativo al domicilio oficial del propio Consejo;
+
+III. Acuerdo General número 18/2000 del Pleno del Consejo de la Judicatura Federal, por el que se desconcentra a las Administraciones Regionales la función administrativa de atención a los órganos jurisdiccionales federales y áreas del propio Consejo en el interior de la República;
+
+IV. Acuerdo General 39/2001 del Pleno del Consejo de la Judicatura Federal, por el que se delegan facultades en favor del Director General del Instituto Federal de Defensoría Pública, para la celebración de convenios;
+
+V. Acuerdo General 33/2003, del Pleno del Consejo de la Judicatura Federal, que ordena recibir los informes anuales de actividades del Instituto de la Judicatura Federal y del Instituto Federal de Defensoría Pública en el salón de usos múltiples del edificio sede del Consejo de la Judicatura Federal y abroga los diversos acuerdos generales 66/2001 y 27/2003, del propio Cuerpo Colegiado;
+
+VI. Acuerdo General 6/2007 del Pleno del Consejo de la Judicatura Federal, por el que se establecen reglas para suplir a los servidores públicos del propio Consejo, en sus ausencias;
+
+VII. Acuerdo General 2/2009 del Pleno del Consejo de la Judicatura Federal, relativo al cambio de domicilio de la Comisión Substanciadora Única del Poder Judicial de la Federación;
+
+VIII. Acuerdo General 28/2009, del Pleno del Consejo de la Judicatura Federal, relativo al procedimiento para sustituir las ausencias temporales en la presidencia de la Comisión Substanciadora Única del Poder Judicial de la Federación; y
+
+IX. Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+CUARTO. Las referencias que se hagan en otras disposiciones a la Comisión Mixta de Seguridad, Higiene y Medio Ambiente en el Trabajo o a la Comisión Mixta Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, se entenderán hechas a la Comisión de Seguridad y Salud en el Trabajo.
+
+Y las que se hagan a las Comisiones Auxiliares de Seguridad, Higiene y Medio Ambiente se entenderán hechas a las Comisiones Auxiliares de Seguridad y Salud en el Trabajo.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
