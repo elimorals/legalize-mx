@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-11-20"
+last_updated: "2013-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1051,11 +1051,15 @@ Los delitos culposos se sancionarán con prisión de tres días a cinco años y 
 
 Cuando exista reincidencia en el delito de imprudencia y tanto en uno como en el otro delito se hubiere causado homicidio de una o más personas, o lesiones de las enumeradas en el artículo 307, o en uno de ellos homicidio y en el otro lesiones de esa clase, la sanción será de uno a ocho años de prisión.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 85.
 
-La sanción prevista en el artículo 83 del presente Código, se incrementará de tres días a dos años de prisión, cuando se cometa el delito al conducir vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca un efecto similar.
+La sanción prevista en el artículo 83 del presente Código, se incrementará de tres días a dos años de prisión y multa de cincuenta a cien días de salario mínimo, cuando se cometa el delito al conducir vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca un efecto similar.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis y 86 del presente Código.
 
@@ -1083,7 +1087,17 @@ II.- Si la parte agraviada estuviera inconsciente o no pudiera declarar, el part
 
 III.- Cuando sólo se ocasione daño en propiedad ajena, se impondrá la misma sanción prevista en la fracción IV del artículo 414, cualquiera que sea el valor del daño causado, y
 
-IV.- Lo dispuesto en el presente artículo no se aplicará cuando el delito se cometa por quien realiza un servicio de transporte público o mercantil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Cuando el sujeto activo se encontrase en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares y sólo ocasione daño en propiedad ajena, se sancionará con prisión de tres días a cinco años de prisión y multa de cincuenta a cien días de salario mínimo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Lo dispuesto en las fracciones I, II y III del presente artículo no se aplicará cuando el delito se cometa por quien realiza un servicio de transporte público o mercantil.
 
 ###### Artículo 88.
 
@@ -5924,5 +5938,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE NOVIEMBRE DE 2013.
 
 PRIMERO. El presente Decreto entrara en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
