@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-para-la-proteccion-de-datos-personales-en-el-70543
 country: "mx"
 rank: "lineamientos"
 publication_date: "2009-10-26"
-last_updated: "2010-03-22"
+last_updated: "2013-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70543&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-10-14"
 ---
 # LINEAMIENTOS PARA LA PROTECCION DE DATOS PERSONALES EN EL DISTRITO FEDERAL
 
-ACUERDO 547/SO/14-10/2009 MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS PARA LA PROTECCION DE DATOS PERSONALES EN EL DISTRITO FEDERAL
+ACUERDO 547/SO/14-10/2009 MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Gaceta Oficial de la Distrito Federal, el lunes 26 de octubre de 2009.
 
@@ -262,7 +262,9 @@ Supresión de sistemas de datos personales
 
 9. En caso de que el titular del ente público o, en su caso, el responsable del sistema de datos personales determine la supresión de un sistema de datos personales mediante la publicación del acuerdo respectivo en la Gaceta Oficial del Distrito Federal, la supresión deberá ser notificada al Instituto dentro de los diez días hábiles siguientes, a efecto de que se proceda a la cancelación de inscripción en el registro correspondiente.
 
-En los acuerdos que se emitan para la supresión de sistemas de datos personales se establecerá el destino que vaya a darse a los datos contenidos en los mismos o, en su caso, las previsiones que se adopten para su destrucción, de conformidad con la Ley de Archivos del Distrito Federal y demás normativa que resulte aplicable.
+> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+En los acuerdos que se emitan para la supresión de sistemas de datos personales se establecerá el destino que vaya a darse a los datos contenidos en los mismos o, en su caso, las previsiones que se adopten para su destrucción.
 
 Asimismo, la publicación de estos acuerdos en la Gaceta Oficial del Distrito Federal deberá ser, al menos, treinta días hábiles previos a la supresión del sistema de que se trate.
 
@@ -780,7 +782,7 @@ TERCERO. Los responsables deberán inscribir los sistemas de datos personales ba
 
 CUARTO. Los entes públicos contarán con ciento veinte días hábiles para realizar las adecuaciones necesarias que permitan atender los requerimientos sobre las medidas de seguridad referidas en estos Lineamientos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS</small>
 
 G.O. 22 DE MARZO DE 2010.
 
@@ -795,3 +797,7 @@ TERCERO. El Presente Acuerdo deberá ser comunicado por el Presidente de este In
 CUARTO. Se instruye al Director de Evaluación y Estudios para que el presente Acuerdo lo comunique a los responsables de las Oficinas de Información Pública y a los Responsables de los Sistemas de Protección de Datos Personales designados por los titulares de los entes públicos del Distrito Federal.
 
 QUINTO. Se instruye al Secretario Técnico para que, en el ámbito de sus atribuciones, realice las acciones necesarias para publicar el presente acuerdo en la Gaceta Oficial del Distrito Federal, y en el portal de Internet del INFODF.
+
+G.O. 22 DE NOVIEMBRE DE 2013.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL.
