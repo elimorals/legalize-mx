@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-operacion-de-la-oficina-de-pensiones-del-88698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-14"
-last_updated: "2012-06-14"
+last_updated: "2013-11-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "OAX"
 
 REGLAMENTO DE OPERACIÓN DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 14 de junio de 2012.
 
@@ -364,7 +364,9 @@ En términos de la Ley de Pensiones, el trabajador podrá solicitar a la Oficina
 
 I. Oficio dirigido al Director General de la Oficina de Pensiones solicitando la autorización para que se compute dentro del tiempo de servicios, el periodo que abarque alguna de las causas contempladas en el artículo 23 de la Ley de Pensiones por la cual tuvo que separarse temporalmente del servicio o se le hayan dejado de hacer los descuentos sin justificación alguna por parte de las Dependencias encargadas de hacerlo;
 
-II. Documento oficial donde se acredite el tiempo de servicio y ser trabajador de confianza protegido por la Ley de Pensiones; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+II. Documento oficial donde se acredite el tiem, o (sic) de servicio y ser trabajador protegido por la Ley de Pensiones; y
 
 III. Fotocopia de su último nombramiento.
 
@@ -468,7 +470,9 @@ IV. Último nombramiento como trabajador del Gobierno del Estado u oficio de reg
 
 V. Constancia de sueldo base percibido durante el último año de servicios expedida por Área Administrativa de la Dependencia en la que labora el trabajador;
 
-VI. En caso de tratarse de los trabajadores que soliciten pensión por jubilación contemplados en el artículo Cuarto Transitorio de la Ley de Pensiones deberán presentar su Nombramiento para efectos de Jubilación expedido la (sic) Dirección de Recursos Humanos o por Área Administrativa de la Dependencia en la que labora el trabajador;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+VI.- En caso de tratarse de los trabajadores que soliciten pensión por jubilación contemplados en el artículo Cuarto Transitorio de la Ley de Pensiones deberán presentar su Nombramiento para efectos de Jubilación expedido por la Dirección de Recursos Humanos o por Área Administrativa de la Dependencia en la que labora el trabajador; tratándose de los trabajadores contemplados en el supuesto previsto por el artículo 39 de la Ley de Pensiones se omitirá este requisito.
 
 VII. Copia certificada del acta de nacimiento y fotocopia certificada del libro de registro en que obra dicha acta, ambas expedidas por el Registro Civil;
 
@@ -680,25 +684,33 @@ La Oficina de Pensiones implementará los mecanismos de seguridad para evitar la
 
 #### SECCIÓN CUARTA. DEL SEGUIMIENTO A LAS PENSIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 57.
 
-Los jubilados, pensionados y pensionistas tendrán la obligación de acudir a las instalaciones de la Oficina de Pensiones a firmar su supervivencia durante el periodo comprendido del día uno al veintiuno de los meses de enero, mayo y septiembre de cada año, debiendo el interesado presenta una fotografía tamaño infantil reciente en el primer periodo anual de firma.
+Los jubilados, pensionados y pensionistas tendrán la obligación de acudir a las instalaciones de la Oficina de Pensiones a firmar su supervivencia tres veces durante el año en los días hábiles de los periodos comprendidos del 26 de diciembre del año inmediato anterior al 15 de enero, del 25 de abril al 15 de mayo, y del 25 de agosto al 15 de septiembre de cada año, en caso de que éste no pueda firmar deberá plasmar las huellas de sus dedos pulgares, debiendo además presentar cada dos años en el primer periodo una fotografía tamaño infantil reciente.
 
 En caso de no cumplir con lo dispuesto en el párrafo anterior, se suspenderá el pago de su pensión hasta que se presente a firmar. Una vez de ponerse al corriente de la firma de su supervivencia, la Oficina de Pensiones realizará el depósito de la cantidad que se retuvo junto con la pensión del mes a pagar de acuerdo a lo previsto en el artículo 52 de este Reglamento de Operación.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 58.
 
-Cuando algún jubilado, pensionado o pensionista no pueda acudir a firmar su supervivencia por estar imposibilitado físicamente, deberá dar aviso al titular del Departamento Administrativo de la Oficina de Pensiones quien en coordinación con el Departamento de Prestaciones Sociales y Culturales programará una visita a su domicilio.
+Cuando algún jubilado, pensionado o pensionista no pueda acudir a firmar su supervivencia por estar imposibilitado físicamente, deberá dar aviso al titular del Departamento Administrativo de la Oficina de Pensiones quien en coordinación con el Departamento de Prestaciones Sociales y Culturales programará una visita a su domicilio. En caso de que este radique a más de 60 kilómetros de la Ciudad de Oaxaca de Juárez, podrá enviar a la Oficina de Pensiones en original, constancia de supervivencia expedida por alguno de los entes descritos en las fracciones I y II del artículo 59 de este Reglamento de Operación.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
-Cuando un jubilado, pensionado o pensionista radique a mas de 60 kilómetros de la Ciudad de Oaxaca de Juárez y le sea imposible acudir a firmar en los periodos señalados en el primer párrafo del artículo 51 de este Reglamento de Operación, deberá presentar ante el Departamento Administrativo de la Oficina de Pensiones un escrito en el que además de cumplir con los requisitos previstos en el artículo 3° de este Reglamento de Operación, deberá plasmar las huellas de los dedos pulgares y anexar alguno de los siguientes documentos:
+Cuando un jubilado, pensionado o pensionista radique a mas de 60 kilómetros de la Ciudad de Oaxaca de Juárez y le sea imposible acudir a firmar en los periodos señalados en el primer párrafo del artículo 57 de este Reglamento de Operación, deberá enviar a la Oficina de Pensiones alguno de los documentos siguientes:
 
-I. Constancia con fotografía cancelada con sello oficial, expedida por el municipio o delegación política cuando radique dentro de la República Mexicana;
+I. Constancia de supervivencia original con fotografía, expedida por alguna institución de salud pública, autoridad en procuración y administración de justicia, autoridad o institución de asistencia social, autoridad municipal, agencia municipal o delegación política, registro civil, Telecomunicaciones de México (telecom-telégrafos) cuando radiquen dentro de la Republica Mexicana; o
 
-II. Constancia con fotografía cancelada con sello oficial, expedida por la Embajada o el Consulado Mexicano en aquel país, cuando radique fuera de la República Mexicana.
+II. Constancia de supervivencia original, expedida por autoridad, organismo o institución con fe pública cuando radiquen en el extranjero.
 
 Lo anterior a reserva de ser corroborado por la Oficina de Pensiones.
+
+La constancia podrá ser enviada a la Oficina por medio digital a reserva de recibir la original a mas tardar el día 15 del mes siguiente al periodo de firma, en caso de no recibirse se suspenderá el pago de la pensión correspondiente reanudándose a partir de la siguiente fecha de pago, una vez recibida la original.
 
 ###### Artículo 60.
 
@@ -742,25 +754,33 @@ VI. Nombre, firma del titular del Departamento Administrativo de la Oficina de P
 
 ### CAPÍTULO II. DE LOS GASTOS DE FUNERAL
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 65.
 
-El personal adscrito al Departamento de Prestaciones Económicas de la Oficina de Pensiones, recibirá la documentación necesaria para realizar el trámite del pago de gastos de funeral de los trabajadores de confianza, jubilados y pensionados. Los gastos de funeral del trabajador de base serán tramitados ante la Secretaría de Administración del Poder Ejecutivo.
+El personal adscrito al Departamento de Prestaciones Económicas de la Oficina de Pensiones, recibirá la documentación necesaria para realizar el trámite del pago de gastos de funeral de los jubilados y pensionados.
 
-Este pago se efectuará conforme a lo dispuesto por el artículo (sic) 66 y 67 de la Ley de Pensiones de acuerdo al caso concreto.
+Los gastos de funeral por el fallecimiento de un trabajador en servicio serán tramitados ante la Secretaría de Administración del Poder Ejecutivo para ser cubierto conforme a lo dispuesto por los artículos 66 y 67 de la Ley de Pensiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
-Para tramitar el pago de gastos de funeral, el interesado deberá presentar los siguientes documentos:
+Para tramitar el pago de gastos de funeral de los jubilados y pensionados, el interesado deberá presentar los siguientes documentos:
 
 I. Solicitud del pago de gastos de funeral dirigido al Director General de la Oficina de Pensiones especificando además de los requisitos previstos en el artículo 3° de este Reglamento de Operación los siguientes:
 
 a).- Nombre del extinto;
 
-b).- Fecha de fallecimiento;
+b) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2013)
 
-c).- Monto de su pensión o sueldo base mensual.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
-II. Copia certificada del acta de defunción del trabajador, jubilado o pensionado;
+c) Monto de su pensión mensual.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+II. Copia certificada del acta de defunción del jubilado o pensionado;
 
 III. Original de la factura de gastos de funeral, en la cual especifique quien los efectuó y el nombre del finado, o en su defecto el comprobante del gasto;
 
@@ -776,9 +796,11 @@ La factura de los gastos de funeral deberá haberse expedido a nombre de la pers
 
 Si la factura se encontrara a nombre de una persona diferente, deberá contener la leyenda de cesión de derechos de la misma a favor de la persona que realizará el cobro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 68.
 
-Para proceder al pago de gastos de funeral el Departamento Administrativo de la Oficina de Pensiones, elaborará oficio mediante el cual notificará al Departamento de Prestaciones Económicas el monto a descontar a éste concepto tomando en cuenta el día siguiente del fallecimiento del trabajador conforme a la dispuesto en la fracción I del artículo 54 de este Reglamento de Operación.
+Para proceder al pago de gastos de funeral el Departamento Administrativo de la Oficina de Pensiones, elaborará oficio mediante el cual notificará al Departamento de Prestaciones Económicas el monto a descontar a éste concepto por adeudo que tenga con la Oficina de Pensiones, tomando en cuenta el día siguiente del fallecimiento del jubilado o pensionado conforme a lo dispuesto en la fracción I del artículo 54 de este Reglamento de Operación.
 
 El Departamento Jurídico de la Oficina de Pensiones, deberá revisar el expediente para el pago de esta prestación, validando esta revisión con la rúbrica respectiva.
 
@@ -800,7 +822,7 @@ No se entregará ningún cheque si no se presenta la documentación conforme a l
 
 ###### Artículo 72.
 
-En términos de lo dispuesto en el artículo 66 de la Ley de Pensiones respecto a que los recursos para el pago de las gastos de funeral de los trabajadores fallecidos serán con cargo al fondo de protección mutua, la Oficina de Pensiones una vez efectuado el pago de la prestación mencionada, gestionará ante la Dirección de Recursos Humanos dependiente de la Secretaría de Administración del Poder Ejecutivo, la recuperación de las recursos erogados por este concepto.
+(DEROGADO, P.O. 23 DE NOVIEMBRE DE 2013)
 
 ### CAPÍTULO III. DE LOS PRÉSTAMOS
 
@@ -814,11 +836,19 @@ I. Original del recibo de pago más reciente, en donde conste que no tiene adeud
 
 II. Fotocopia del recibo de pago más reciente de cada uno de los avales, en caso de que su importe de contribución al Fondo de Pensiones no alcance a cubrir la cantidad solicitada; y
 
-III. Fotocopia del comprobante de domicilio reciente a nombre del solicitante y de los avales en su caso.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+III. Fotocopia del comprobante de domicilio reciente del solicitante y de los avales en su caso para cotejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
 
-El trámite de obtención de la solicitud de préstamo quirografario deberá realizarlo el interesado. En este acto se hará entrega de la solicitud correspondiente para que el interesado recabe las firmas de los avales si es que los requiriera, de su jefe inmediato y del jefe del Área Administrativa de la Dependencia que corresponda quien sellará la solicitud.
+El trámite de obtención de la solicitud de préstamo quirografario deberá realizarlo el interesado. En este acto se hará entrega de la solicitud correspondiente para que el interesado recabe las firmas de los avales si es que los requiriera y del jefe del Área Administrativa de la Dependencia que corresponda quien sellará la solicitud.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+No se autorizarán dos préstamos quirografarios a la misma persona a la vez, aun cuando estos siendo aportantes del fondo de pensiones gocen de una pensión por fallecimiento.
 
 ###### Artículo 75.
 
@@ -826,11 +856,15 @@ El interesado devolverá la solicitud de préstamo quirografario al Departamento
 
 I. Tres fotocopias de la solicitud ya requisitada;
 
-II. Dos fotocopias del sobre de pago con el que tramitó la solicitud;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
-III. Una fotocopia del recibo de pago de las percepciones de cada uno de los avales con el que tramitó la solicitud en su caso; y
+II. Dos fotocopias del sobre de pago con el que tramitó la solicitud; y
 
-IV. Croquis de localización de su domicilio señalando algún punto de referencia.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+III. Una fotocopia del recibo de pago de las percepciones de cada uno de los avales con el que tramitó la solicitud en su caso.
+
+IV. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2013)
 
 Presentando los requisitos anteriormente señalados, el Departamento de Prestaciones Económicas recabará la firma en el pagaré del interesado y los avales que de acuerdo a la Ley General de Títulos y Operaciones de Crédito deberán suscribir a favor de la Oficina de Pensiones, en ese momento dará ingreso a la solicitud por lo que a partir de esta fecha correrá el plazo previsto en el último párrafo del artículo 70 de la Ley de Pensiones para hacer la entrega efectiva del préstamo.
 
@@ -982,9 +1016,11 @@ Para demostrar la correcta aplicación de los recursos entregados como préstamo
 
 En caso de no presentar la documentación completa requerida en la presente Sección de este reglamento de operación, la Oficina de Pensiones podrá hacer exigible la totalidad del saldo del adeudo en todo momento de la vigencia de este.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 96.
 
-Si se acredita que el préstamo hipotecario concedido, no fue destinado para cubrir la necesidad de vivienda del trabajador y de su familia, podrá exigir a la Oficina de Pensiones el reintegro del préstamo concedido de la forma que juzgue procedente.
+Si se acredita que el préstamo hipotecario concedido, no fue destinado para cubrir la necesidad de vivienda del trabajador y de su familia, podrá exigir la Oficina de Pensiones el reintegro del préstamo concedido de la forma que juzgue procedente.
 
 #### SECCIÓN TERCERA. DEL ASEGURAMIENTO DE LOS PRÉSTAMOS EN GENERAL
 
@@ -1024,7 +1060,9 @@ b).- Por medio de otra persona distinta al deudor principal y a los avales, medi
 
 II. Vía caja;
 
-III. Mediante la aplicación del Fondo de Pensiones cuando el deudor haya causado baja definitiva como trabajador del Gobierno del Estado; y haya incurrido en morosidad por más de dos meses;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+III.- Mediante la aplicación del Fondo de Pensiones cuando el deudor haya causado baja como trabajador del Gobierno del Estado o goce de una licencia; y haya incurrido en morosidad por más de dos meses;
 
 IV. Vía aseguradora, en caso de fallecimiento del deudor principal mediante el procedimiento establecido por la aseguradora correspondiente;
 
@@ -1032,13 +1070,17 @@ V. Vía devolución del Fondo de Pensiones de conformidad con lo previsto en el 
 
 VI. Por la vía legal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 103.
 
-Cuando el deudor de un préstamo hipotecario haya dejado de prestar sus servicios al Gobierno del Estado o dejado de aportar al Fondo de Pensiones sin que pase a ser jubilado o pensionado, o goce de una licencia sin cumplir con lo previsto por el artículo 109, la Oficina de Pensiones podrá recuperar el adeudo por las siguientes vías:
+Cuando el deudor de un préstamo hipotecario haya dejado de prestar sus servicios al Gobierno del Estado o dejado de aportar al Fondo de Pensiones sin que pase a ser jubilado o pensionado, o goce de una licencia sin cumplir con lo previsto por el artículo 101, la Oficina de Pensiones podrá recuperar el adeudo por las siguientes vías:
 
 I. Vía caja;
 
-II. Mediante la aplicación del Fondo de Pensiones cuando el deudor haya causado baja como trabajador del Gobierno del Estado; y haya incurrido en morosidad por más de dos meses;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+II.- Mediante la aplicación del Fondo de Pensiones cuando el deudor haya causado baja como trabajador del Gobierno del Estado o goce de una licencia; y haya incurrido en morosidad por más de dos meses;
 
 III. Vía aseguradora, en caso de fallecimiento del deudor principal mediante el procedimiento establecido por la aseguradora correspondiente;
 
@@ -1064,13 +1106,13 @@ Con la aplicación del Fondo de Pensiones al adeudo, quedan suspendidos los dere
 
 Así mismo, la antigüedad amparada por las aportaciones que lleguen a aplicarse al adeudo por préstamo, podrá el deudor recuperarla de acuerdo a lo previsto por la misma Ley de Pensiones y por este Reglamento de Operación.
 
+(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013) N. DE E. DEL ANÁLISIS REALIZADO EN LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL P.O. DE 23 DE NOVIEMBRE DE 2013, SE OBSERVA QUE SE SUPRIMIÓ EL PÁRRAFO. TERCERO
+
 ###### Artículo 107.
 
-Si un trabajador detecta que los descuentos por concepto de préstamo quirografario o hipotecario se le han aplicado en forma indebida, deberá hacerlo del conocimiento del Área Administrativa de la Dependencia en la que labora quien efectuará por escrito la solicitud de la devolución, anexando copias de los sobres, recibos de pago o constancia emitido por la autoridad competente, en donde conste la aplicación de los descuentos.
+Si un trabajador detecta que los descuentos por concepto de préstamo quirografario o hipotecario se le han aplicado en forma indebida, deberá hacerlo del conocimiento del área administrativa de la Dependencia en la que labora o del Departamento de Prestaciones Económicas de la Oficina de Pensiones presentando copias de los sobres o recibos de pago en donde conste la aplicación de los descuentos indebidos.
 
-La Dirección General de la Oficina de Pensiones determinará si procede la devolución de los descuentos en un término no mayor a cinco días hábiles realizando el reintegro correspondiente mediante la expedición del recibo firmado por el interesado, el reintegro se efectuará en un plazo no mayor a 30 días hábiles.
-
-En caso de ser un jubilado o pensionado el que se encuentre en el supuesto señalado en el primer párrafo de este artículo, deberá hacerlo del conocimiento del Departamento Administrativo de la Oficina de Pensiones.
+La Oficina de Pensiones a través del Departamento de Prestaciones Económicas una vez de que tenga conocimiento determinará si procede la devolución de los descuentos en un término no mayor a cinco días hábiles realizando el reintegro correspondiente mediante la expedición del recibo firmado por el interesado, el reintegro se efectuará en un plazo no mayor a treinta días hábiles.
 
 ###### Artículo 108.
 
@@ -1225,3 +1267,9 @@ Ingeniero
 José Luis Abad Guzmán
 
 Director General de la Oficina de Pensiones del Estado de Oaxaca y Secretario de Acuerdos y Actas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2013.
+
+Artículo Único.- La presente reforma al Reglamento de Operación de la Oficina de Pensiones del Estado de Oaxaca, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
