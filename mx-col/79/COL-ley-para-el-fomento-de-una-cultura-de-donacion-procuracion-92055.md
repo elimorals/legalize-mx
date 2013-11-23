@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-fomento-de-una-cultura-de-donacion-procuracion-9205
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-26"
-last_updated: "2013-01-26"
+last_updated: "2013-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA EL FOMENTO DE UNA CULTURA DE DONACIÓN, PROCURACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 26 de enero de 2013.
 
@@ -197,9 +197,11 @@ Será donación el acto de dar algo de sí mismo a otra persona que lo requiera 
 
 El disponente primario podrá, en cualquier tiempo, revocar el consentimiento que haya otorgado para fines de disposición de sus órganos o de su propio cadáver, sin que exista responsabilidad de su parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 9º.
 
-Los órganos y tejidos que sirven para trasplante son:
+Los órganos y tejidos que pueden ser objeto de donación, transfusión y trasplante, en su caso, son:
 
 I. Corazón;
 
@@ -223,9 +225,15 @@ X. Piel y sus anexos;
 
 XI. Pulmones;
 
-XII. Riñones; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Tímpanos
+XII. Riñones;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Sangre; y
+
+XIV. Tímpanos
 
 No se podrán usar gónadas, ovarios, tejidos y/o células embrionarias o fetales.
 
@@ -417,9 +425,9 @@ VIII. Los demás que tenga como fin la conservación o desintegración, en condi
 
 ### CAPÍTULO I. DE LA INVESTIGACIÓN CIENTÍFICA Y DOCENTE
 
-###### ARTÍCULO 30.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
-Para efectos de la presente Ley, el Ministerio Público autorizará a las universidades así como a las instituciones de salud, que requieran de la utilización de órganos y tejidos de cadáveres de seres humanos, para la investigación científica o docente.
+ARTÍCULO 30 BIS.- Para efectos de la presente Ley, el Ministerio Público autorizará a las universidades así como a las instituciones de salud, que requieran de la utilización de órganos y tejidos de cadáveres de seres humanos, para la investigación científica o docente.
 
 ###### ARTÍCULO 31.
 
@@ -1128,3 +1136,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 24 veinticuatro del mes de enero del año 2013 dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ.- Rúbrica.- EL SECRETARIO DE SALUD, DR. AGUSTÍN LARA ESQUEDA.- Rúbrica.- LA ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE EDUCACIÓN, MTRA. NORMA LIDIA PONCE DE LEÓN AMADOR.- Rúbrica.- LA PROCURADORA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA, LICDA. YOLANDA VERDUZCO GUZMÁN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
