@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-nacionalidad-68849"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-17"
-last_updated: "2013-03-21"
+last_updated: "2013-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-06-16"
 
 REGLAMENTO DE LA LEY DE NACIONALIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -131,9 +131,15 @@ Una vez que el interesado haya cumplido con todos los requisitos señalados en e
 
 ### CAPÍTULO III. DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-Para efectos de los artículos 20 y 21 de la Ley, la residencia en territorio nacional se acreditará con el documento migratorio del inmigrante o inmigrado, expedido por la Secretaría de Gobernación, con excepción de los solicitantes a los que la Secretaría de Gobernación considere refugiados.
+Para efectos de lo dispuesto en los artículos 20 y 21 de la Ley, el interesado deberá acreditar la residencia en territorio nacional con cualquiera de los siguientes documentos:
+
+I. Con la tarjeta expedida por la Secretaría de Gobernación que acredite la condición de estancia de residente temporal, o
+
+II. Con la tarjeta expedida por la Secretaría de Gobernación que acredite la condición de estancia de residente permanente.
 
 ###### ARTÍCULO 15.
 
@@ -442,3 +448,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 21 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Relaciones Exteriores reconocerá para efectos del cómputo de la residencia a la que se refiere el artículo 14 del presente Reglamento, el tiempo durante el cual, el interesado en naturalizarse ha ostentado la calidad migratoria de inmigrante o inmigrado, otorgada antes de la entrada en vigor de la Ley de Migración y su Reglamento.
