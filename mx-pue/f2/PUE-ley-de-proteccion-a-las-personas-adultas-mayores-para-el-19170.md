@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2012-12-31"
+last_updated: "2013-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA -- ANTES LEY DE PROTECCION A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA --
 
-LEY DE PROTECCION A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA
+LEY DE PROTECCIÓN A LOS ADULTOS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -69,9 +69,11 @@ La presente Ley es de orden público e interés social; y tiene por objeto estab
 
 Para los efectos de la presente Ley, se entenderá por "senescentes" o "adultos mayores", a los hombres y mujeres a partir de los sesenta años de edad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 3.
 
-Se crea el Organismo Estatal de la Senectud para la atención a los senescentes, al cual, para efectos de la presente Ley, se le denominará "Organismo", y que tendrá a su cargo las siguientes funciones:
+Para efectos de esta Ley, se le denominará “Instituto” al Instituto de Adultos Mayores que tendrá a su cargo las siguientes atribuciones:
 
 I.- Proporcionar información gerontológica de prevención y autocuidado;
 
@@ -83,13 +85,19 @@ IV.- Implementar programas de prevención de enfermedades y accidentes que se pr
 
 V.- Realizar actividades recreativas, deportivas, culturales, de estudio y de aprendizaje especiales;
 
-VI.- Promover, a través de cursos y de los medios de comunicación masiva, su respeto y reconocimiento;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-VII.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con la Secretaría de Desarrollo Económico, programas de capacitación, financiamiento y empleo;
+VI.- Promover, a través de cursos y de los medios de comunicación masiva, su respeto, conocimiento y reconocimiento;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con la Secretaría de Competitividad, Trabajo y Desarrollo Económico, programas de capacitación, financiamiento y empleo;
 
 VIII.- Procurar que vivan en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, contagiosa o mental, que requiera internamiento en instituciones especializadas;
 
-IX.- Exhortar a las instituciones públicas, privadas y sociales que presten servicios de salud y bienestar social, para que les extiendan sus beneficios;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Llevar a cabo las acciones procedentes para su afiliación al Instituto y el Instituto Nacional de la Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
 X.- Otorgar atención inmediata a todo senescente que se encuentre abandonado en la vía pública y remitirlo a los Sistemas Estatal o Municipales para el Desarrollo Integral de la Familia, según corresponda;
 
@@ -105,25 +113,49 @@ XV.- Establecer programas, en coordinación con las autoridades competentes, dir
 
 XVI.- Tramitar ante las autoridades competentes, la condonación de impuestos estatales y municipales;
 
-XVII.- Concertar en coordinación con el Instituto Nacional de la Senectud, descuentos en servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales;
+REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)
+
+XVII.- Concertar en coordinación con el Instituto Nacional de las Personas Adultas Mayores, descuentos en servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales;
 
 XVIII.- Informar oportunamente de las condonaciones y descuentos a que se refieren las fracciones anteriores;
 
-XIX.- Dar apoyos, de acuerdo a sus recursos presupuestales, a aquéllos que carezcan de los medios necesarios para subsistir; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-XX.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
+XIX.- Dar apoyos, de acuerdo a sus recursos presupuestales, a aquéllos que carezcan de los medios necesarios para subsistir;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XX.- Impulsar la evolución y actualización permanente de las políticas públicas a favor de los adultos mayores del Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XXI.- Promover y diseñar, de manera coordinada con la Secretaría de Turismo y demás autoridades competentes, acciones para fomentar actividades turísticas para adultos mayores;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XXII.- Impulsar con los sectores público, social y privado políticas preferenciales para las personas adultos mayores, que comprendan precios especiales y/o gratuitos en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y transporte; y
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN XX, PERO DEL ANÁLISIS DE LA APLICACIÓN DE LA REFORMA DE 25 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXIII.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XXIII.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS SENESCENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
-La presente Ley reconoce como derechos de los senescentes:
+La presente Ley reconoce como derechos de los adultos mayores:
 
 I.- Tener acceso a toda la información gerontológica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la senectud;
 
 II.- Recibir orientación jurídica y social, por parte del Organismo, quien en forma conjunta con otros organismos públicos y privados, implementará programas de atención para los senescentes;
 
-III.- Vivir con decoro, honor y respeto por parte de las autoridades, la sociedad y su familia;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia física, verbal o económica que ponga en peligro su vida, salud y/o patrimonio;
 
 IV.- Residir dignamente en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, contagiosa o mental, que requiera de internamiento en instituciones especializadas;
 
@@ -177,11 +209,17 @@ VII.- Alcanzar su participación activa con pleno conocimiento y responsabilidad
 
 VIII.- Constituir clubes de tercera edad y asociaciones similares, tanto en el ámbito estatal como municipal;
 
-IX.- Motivarlos a afiliarse al Organismo y al Instituto Nacional de la Senectud, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Llevar a cabo las acciones procedentes para su afiliación al Instituto y al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo, así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
 X.- Obtener créditos accesibles para que adquieran una vivienda propia, o realicen mejoras en caso de que ya cuenten con una; y
 
 XI.- Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XII.- Desarrollar acciones tendientes a combatir la violencia de cualquier tipo en contra de los adultos mayores, a través de los programas y políticas que para tal efecto se establezcan.
 
 ###### ARTÍCULO 7.
 
@@ -307,9 +345,11 @@ V.- Carecer de habitación.
 
 ### CAPÍTULO VI. DE LAS ACTIVIDADES CULTURALES, RECREATIVAS Y DEPORTIVAS
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-El Organismo, previo convenio que celebre con el Instituto Nacional de la Senectud y con otras instituciones públicas, privadas y sociales, implementará cursos sobre diversas materias para que los senescentes y sus familiares alcancen mejores conocimientos y aptitudes.
+El Instituto, previo convenio que celebre con el Instituto Nacional de las Personas Adultas Mayores y con otras instituciones públicas, privadas y sociales, implementará cursos sobre diversas materias para que los adultos mayores y sus familiares alcancen mejores conocimientos y aptitudes.
 
 ###### ARTÍCULO 27.
 
@@ -319,15 +359,19 @@ Para tal efecto, los Gobiernos Estatal y Municipales, promoverán la realizació
 
 Las dependencias y entidades respectivas facilitarán a los senescentes el acceso a la expresión artística a través de talleres, exposiciones, concursos y eventos culturales.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-El Organismo, en coordinación con las autoridades competentes, promoverá la creación de organizaciones de senescentes para la realización de actividades deportivas, proporcionando entrenamiento en forma individual o en equipos, para participar en competencias a nivel municipal, estatal, nacional e internacional en las modalidades previstas para ellos, apoyándolos con asesoría especializada.
+El Instituto, en coordinación con las autoridades competentes Federales, Estatales y Municipales, promoverá la creación de organizaciones de adultos mayores para la realización de actividades deportivas, proporcionando entrenamiento en forma individual o en equipos, para participar en competencias a nivel municipal, estatal, nacional e internacional en las modalidades previstas para ellos, apoyándolos con asesoría especializada.
 
 ### CAPÍTULO VII. DE LA PROTECCIÓN FAMILIAR
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-Cuando los senescentes se encuentren viviendo con un familiar, no se interrumpirá dicha convivencia, a menos que se mejore su situación afectiva, material y moral al vivir en otro lugar, ya sea por voluntad del senescente o por resolución médica o judicial que así lo establezca.
+Cuando los senescentes se encuentren viviendo con un familiar, no se interrumpirá dicha convivencia, a menos de que su integridad física, afectiva y moral se encuentre en riesgo, ya sea por voluntad del adulto mayor, por situaciones de violencia en su contra o por resolución médica que así lo establezca.
 
 ###### ARTÍCULO 30.
 
@@ -406,3 +450,11 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En todas las disposiciones de la presente Ley que se mencione "Organismo", se entenderá como el Instituto de Adultos Mayores del Estado de Puebla, en virtud del Decreto publicado en el Periódico Oficial del Estado el 21 de julio de 2004.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
