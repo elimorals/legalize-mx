@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-11-22"
+last_updated: "2013-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2997,6 +2997,8 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 #### SECCION CUARTA.- RAPTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 260.
 
 Comete el delito de ataques al pudor quien sin el consentimiento de una persona mayor o menor de doce años, o con sentimiento de esta última, ejecutare en ella o le hiciere ejecutar un acto erótico sexual, sin el propósito de llegar a la cópula.
@@ -3027,7 +3029,11 @@ III.- Cuando el sujeto pasivo sea mayor de doce años y el delito se ejecute con
 
 El delito de ataques al pudor se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
 
-#### SECCION QUINTA.- DISPOSICION COMUN AL ESTUPRO, VIOLACION Y RAPTO
+#### SECCIÓN QUINTA.- DISPOSICIÓN COMÚN AL ESTUPRO Y VIOLACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 264.
 
@@ -3125,33 +3131,49 @@ III.- La introducción en una persona, por vía anal o vaginal, de cualquier obj
 
 En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 #### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
 
 ###### Artículo 273.
 
-Al que se apodere de una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo erótico sexual o para casarse, será sancionado con prisión de seis meses a cinco años y multa de tres a treinta días de salario; pero si la ofendida fuera mayor de dieciocho años, el rapto sólo se sancionará cuando se cometa por medio de la violencia física o moral.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 274.
 
-Por el solo hecho de no haber cumplido catorce años la mujer raptada que voluntariamente siga a su raptor, se presume que éste empleó la seducción.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 275.
 
-Se extinguirá la acción persecutoria, cuando el raptor se case con la mujer ofendida, salvo que el matrimonio se disuelva por ser nulo de manera absoluta.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 276.
 
-No se procederá contra el raptor, sino por queja de la mujer ofendida; pero si fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o en su defecto, de la misma menor.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 277.
 
-Cuando el rapto vaya acompañado de otro delito perseguible de oficio, sí se procederá contra el raptor, por este último, aunque no haya queja de la ofendida.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION SEGUNDA.- BIGAMIA
 
 ###### Artículo 278.
 
-La reparación del daño en los casos de estupro, violación o rapto comprenderá además, el pago de alimentos a la ofendida y a los hijos, si los hubiere, de acuerdo con lo dispuesto por las leyes civiles.
+La reparación del daño en los casos de estupro, o violación comprenderá además, el pago de alimentos a la ofendida y a los hijos, si los hubiere, de acuerdo con lo dispuesto por las leyes civiles.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
 
@@ -3447,9 +3469,23 @@ La penalidad se aumentará hasta en una mitad, cuando la o el agraviado tenga m�
 
 Si la detención a que se refiere la fracción I del artículo anterior, excediere de dos días, la sanción de prisión se aumentará un mes más por cada día que la detención excediere de ese tiempo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 301.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá de uno a cinco años de prisión.
+
+Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 301 Bis.
+
+La privación de la libertad con el propósito de realizar un acto sexual se perseguirá por querella de la parte ofendida.
 
 #### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
@@ -5942,6 +5978,12 @@ PRIMERO. El presente Decreto entrara en vigor a los quince días naturales sigui
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
