@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4080
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-16"
-last_updated: "2011-12-31"
+last_updated: "2013-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 31 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, A EXCEPCIÓN DEL CAPÍTULO CUARTO DE LA MENCIONADA LEY, EN TANTO NO SE EMITA UNA LEY QUE REGULE LA PROTECCIÓN DE LOS DATOS PERSONALES EN MANOS DE LOS SUJETOS OBLIGADOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 31 DE DICIEMBRE DE 2011, Y DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 25 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: PARCIALMENTE ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2004.
 
@@ -107,67 +107,29 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO CUARTO. PROTECCIÓN DE LOS DATOS DE LA VIDA PRIVADA Y DE LOS DATOS PERSONALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
-
 ###### ARTÍCULO 17.
 
-Los servidores públicos no podrán difundir, distribuir o comercializar los datos de la vida privada y los datos personales contenidos en los sistemas de información, salvo que haya mediado el consentimiento expreso por escrito, del titular de la información.
-
-El consentimiento a que se refiere el párrafo anterior podrá ser revocado expresamente en cualquier momento, sin que pueda dejarse de difundir o distribuir aquella información publicitada derivada del consentimiento otorgado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, P.O. 25 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 18.
 
-Los Sujetos Obligados sólo podrán proporcionar datos de la vida privada y los datos personales sin el consentimiento de la persona titular de los mismos, cuando se trate de:
-
-I.- Mandamiento Judicial;
-
-II.- Cuando se transmitan entre Sujetos Obligados o entre Dependencias y Entidades, siempre y cuando los datos se utilicen para el ejercicio de sus facultades;
-
-III.- La prevención o gestión de servicios de salud así como la asistencia médica en la que por la situación específica del caso, no pueda recabarse la autorización del titular de los datos personales; y
-
-IV.- Lo establecido por la legislación vigente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, P.O. 25 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 19.
 
-La persona interesada o su representante podrá solicitar, previa identificación, ante la Unidad Administrativa de Acceso a la Información Pública, que modifique sus datos de la vida privada y los datos personales que obren en cualquier sistema de datos del Sujeto Obligado; para lo cual deberán:
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-I.- Presentar una solicitud de modificaciones, en la que señale el sistema de datos personales y en su caso, de datos de la vida privada;
-
-II.- Indicar las modificaciones por realizarse; y
-
-III.- Aportar la documentación que justifique su petición.
-
-La Unidad Administrativa de Acceso a la Información Pública, deberá entregar al solicitante, la comunicación en que se haga constar las modificaciones o bien, le informe de manera fundada y motivada, las razones por las cuales no procedió la solicitud.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, P.O. 25 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 20.
 
-Los Sujetos Obligados que por razón de sus facultades obtengan, dispongan, manejen y controlen sistemas de datos personales y en su caso de datos de la vida privada deberán:
-
-I.- Establecer mecanismos y procedimientos adecuados para recibir y contestar las solicitudes de modificación de estos datos;
-
-II.- Procurar que los sistemas de dichos datos se mantengan actualizados y garantizar que los mismos se encuentren seguros, evitando su alteración, pérdida, transmisión y acceso no autorizado;
-
-III.- Actuar de oficio en la actualización de los sistemas de datos cuando se verifique la inexactitud de sus contenidos;
-
-IV.- Tratar los datos sólo cuando estos sean aptos, pertinentes y no excesivos en relación con el propósito para el cual se hubieren recabado; y
-
-V.- Salvaguardar la información respecto a los datos de la vida privada y los datos personales, lo anterior sin perjuicio de que se apliquen las sanciones que la Ley de la materia señale en caso de responsabilidad, cuando éstos se lleguen a hacer públicos por causa imputable al responsable de los mismos.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, P.O. 25 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 21.
 
-En caso de que exista una solicitud de acceso a la información que incluya información confidencial, los Sujetos Obligados la proporcionarán, siempre y cuando el solicitante obtenga el consentimiento expreso e indubitable del particular titular de la información confidencial.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA, P.O. 25 DE NOVIEMBRE DE 2013)
 
 ### CAPÍTULO QUINTO. DE LAS UNIDADES ADMINISTRATIVAS DE ACCESO A LA INFORMACIÓN
 
@@ -388,3 +350,13 @@ Tratándose de la información pública de oficio establecida en el artículo 11
 NOVENO.- Los Municipios que transcurridos los plazos señalados en el Transitorio Sexto y Séptimo no cuenten con los sistemas electrónicos y los sitios web para dar cumplimiento a las obligaciones referidas en la presente Ley, podrán solicitar a la Comisión una prórroga, justificando las razones por las que no les ha sido posible implementarlos.
 
 DÉCIMO.- El Gobernador del Estado deberá emitir en un lapso de un año, contado a partir de la publicación de esta Ley, el Reglamento de la misma, para lo cual podrá allegarse de diversas propuestas a considerarse.
+
+P.O. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Sujetos Obligados contarán con un plazo de un año para adecuar sus Sistemas de Datos Personales de acuerdo a lo dispuesto por la presente Ley.
+
+TERCERO.- El cumplimiento de la presente Ley estará sujeto a la disponibilidad presupuestal que anualmente se autorice en la Ley de Egresos del Estado para el Ejercicio Fiscal que corresponda.
+
+CUARTO.- Se deroga el Capítulo Cuarto de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado el 16 de agosto de 2004, así como sus reformas, publicadas el 18 de julio de 2008; así como todas las disposiciones que se opongan a la presente Ley.
