@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-proteccion-y-conservacion-de-poblaciones-tipicas-1195
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-08"
-last_updated: "1995-03-24"
+last_updated: "2013-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY SOBRE PROTECCION Y CONSERVACION DE POBLACIONES TIPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA
 
-LEY SOBRE PROTECCION Y CONSERVACION DE POBLACIONES TIPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA
+LEY SOBRE PROTECCIÓN Y CONSERVACIÓN DE POBLACIONES TÍPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de abril de 1986.
 
@@ -155,21 +155,31 @@ Son órganos competentes para la aplicación de la presente Ley:
 
 I).- El Ejecutivo del Estado.
 
-II).- La Secretaría de Cultura.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-III).- (DEROGADA, P.O. 24 DE MARZO DE 1995)
+II).- El Consejo Estatal para la Cultura y las Artes de Puebla;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-IV).- La Secretaría de Desarrollo Urbano y Ecología.
+III).- La Secretaría de Infraestructura;
 
-V).- La Dirección de Turismo, y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+IV).- La Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+V).- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 VI).- Los Ayuntamientos en cuya jurisdicción se ubique una población o parte de población, o lugar de belleza natural declarado "Zona Típica Monumental".
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 13.
 
-La Secretaría de Cultura vigilará la debida observancia de los reglamentos emanados de la presente Ley, o de las declaratorias a que la misma se refiere, promoviendo en su caso ante las autoridades municipales todo lo que esté dentro de sus facultades para el cabal cumplimiento de este Ordenamiento.
+El Consejo Estatal para la Cultura y las Artes de Puebla vigilará la debida observancia de los reglamentos emanados de la presente Ley, o de las declaratorias a que la misma se refiere, promoviendo en su caso ante las autoridades municipales todo lo que esté dentro de sus facultades para el cabal cumplimiento de este ordenamiento.
 
 ###### ARTICULO 14.
 
@@ -189,11 +199,11 @@ Lo anterior no se contrapone al otorgamiento de títulos de villa, pueblo, ciuda
 
 Cuando una área de Belleza natural colinde y se extienda hacia la jurisdicción de una o más Entidades Federativas, el Ejecutivo del Estado podrá celebrar convenios de coordinación con los titulares de dichas Entidades a fin de proteger el área en su totalidad.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 17.
 
-Todos los acuerdos y determinaciones que se dicten por el Ejecutivo del Estado en cumplimiento de la presente Ley, serán despachados por conducto de la Secretaría de Cultura. Quedando exceptuadas de la presente disposición la expedición de licencias de construcción, que serán otorgadas por los Ayuntamientos respectivos, previo dictamen de la Secretaría de la Secretaría de Desarrollo Urbano y Ecología.
+Todos los acuerdos y determinaciones que se dicten por el Ejecutivo del Estado en cumplimiento de la presente Ley, serán despachados por conducto del Consejo Estatal para la Cultura y las Artes de Puebla. Quedando exceptuadas de la presente disposición la expedición de licencias de construcción, que serán otorgadas por los Ayuntamientos respectivos.
 
 ###### ARTICULO 18.
 
@@ -235,23 +245,31 @@ C A P I T U L O II
 
 DE LA CONSERVACION Y PROTECCION DE LOS BIENES INMUEBLES DE PROPIEDAD PARTICULAR
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 27.
 
-Sólo con autorización del Ejecutivo del Estado, dada por conducto de la Secretaría de Cultura, previo el dictamen de la Comisión de Monumentos, podrán adosarse o apoyarse construcciones nuevas en bienes inmuebles ubicados dentro de poblaciones o partes de poblaciones declaradas "Zona Típica Monumental".
+Sólo con autorización del Ejecutivo del Estado, dada por conducto del Consejo Estatal para la Cultura y las Artes de Puebla previo el dictamen de la Comisión de Monumentos, podrán adosarse o apoyarse construcciones nuevas en bienes inmuebles ubicados dentro de poblaciones o partes de poblaciones declaradas "Zona Típica Monumental".
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 28.
 
-Cuando existan uno o varios bienes inmuebles que representen un valor intrínseco para el Estado y no estén comprendidos dentro de una zona típica monumental y exista el peligro de que sean destruidos, deteriorados o alterados en cualquier forma, la Secretaría de Cultura estará facultada para declarar que dichos bienes quedan sujetos, provisionalmente, a lo dispuesto por esta Ley.
+Cuando existan uno o varios bienes inmuebles que representen un valor intrínseco para el Estado y no estén comprendidos dentro de una Zona Típica Monumental y exista el peligro de que sean destruidos, deteriorados o alterados en cualquier forma, el Consejo Estatal para la Cultura y las Artes de Puebla estará facultado para declarar que dichos bienes quedan sujetos, provisionalmente, a lo dispuesto por esta Ley.
 
 En un plazo de 30 días, dentro del cual será oído el propietario y recabado el parecer de la Comisión de Monumentos, el Ejecutivo del Estado dictará la resolución que proceda.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 29.
 
-La Comisión de Monumentos a través de la Secretaría de Cultura podrá celebrar convenios con Asociaciones Civiles y Juntas Vecinales a fin de que coadyuven en la vigilancia y preservación de las poblaciones o partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental".
+La Comisión de Monumentos a través del Consejo Estatal para la Cultura y las Artes de Puebla, podrá celebrar convenios con Asociaciones Civiles y Juntas Vecinales a fin que coadyuven en la vigilancia y preservación de las poblaciones o partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental".
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 30.
 
-La Comisión de Monumentos a través de la Secretaría de Cultura, y en coordinación con las autoridades municipales, realizará campañas permanentes para fomentar el conocimiento y respeto a las poblaciones, partes de población, o lugares de belleza natural declaradas "Zona Típica Monumental".
+La Comisión de Monumentos a través del Consejo Estatal para la Cultura y las Artes de Puebla y en coordinación con las autoridades municipales, realizará campañas permanentes para fomentar el conocimiento y respeto a las poblaciones, partes de población, o lugares de belleza natural declaradas "Zona Típica Monumental".
 
 ###### ARTICULO 31.
 
@@ -265,17 +283,23 @@ Ninguno de los bienes de propiedad particular a que se refiere el artículo ante
 
 En los predios contiguos o próximos a los bienes inmuebles ubicados en las poblaciones o partes de éstas, declaradas "Zona Típica Monumental", ninguna obra podrá efectuarse que pueda causar daño a dichos bienes o dificultar la vista de éstos.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 34.
 
-La Secretaría de Cultura ordenará la suspensión provisional de toda obra que a su juicio quede comprendida en la prohibición del artículo que antecede, dando cuenta inmediata al Ejecutivo del Estado, para que éste, oyendo el parecer de la Comisión de Monumentos, resuelva en definitiva, confirmando o revocando la suspensión.
+El Consejo Estatal para la Cultura y las Artes de Puebla ordenará la suspensión provisional de toda obra que a su juicio quede comprendida en la prohibición del artículo que antecede, dando cuenta inmediata al Ejecutivo del Estado, para que éste, oyendo el parecer de la Comisión de Monumentos, resuelva en definitiva, confirmando o revocando la suspensión.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 35.
 
-Quienes ejecuten o realicen obras o trabajos en contravención a lo dispuesto en los artículos que anteceden o apartándose de la autorización concedida o de la orden dictada, están obligados a restaurar el bien afectado, sin perjuicio de las demás sanciones que esta Ley establezca. Si la restauración no quedara realizada ha satisfacción de la Secretaría de Cultura, en el plazo que al efecto se conceda, la misma Secretaría procederá, a través de la Secretaría de Desarrollo Urbano y Ecología del Estado, a la ejecución de las obras o trabajos necesarios, por cuenta del propietario.
+Quienes ejecuten o realicen obras o trabajos en contravención a lo dispuesto en los artículos que anteceden o apartándose de la autorización concedida o de la orden dictada, están obligados a restaurar el bien afectado, sin perjuicio de la (sic) demás sanciones que esta Ley establezca. Si la restauración no quedara realizada a satisfacción del Consejo Estatal para la Cultura y las Artes de Puebla, en el plazo que al efecto se conceda, el mismo Consejo procederá, a través de la Secretaría de Infraestructura, a la ejecución de las obras o trabajos necesarios, mismos que serán a cargo del propietario.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1995)</small>
 
 El Ejecutivo del Estado, en caso de inconformidad, resolverá en definitiva, previo dictamen de la Comisión de Monumentos.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1995)</small>
 
 Para la reintegración de los gastos que se causen, se hará uso de la facultad económico-coactiva.
 
@@ -289,13 +313,17 @@ Para poder fijar anuncios, avisos o carteles dentro de poblaciones o partes de p
 
 Igual autorización será necesaria para la exploración en las formaciones naturales subterráneas a que se refiere el párrafo segundo del artículo 5o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 38.
 
-La misma autorización, oyendo el parecer de la Secretaría de Cultura, se requiere para el establecimiento de negociaciones industriales o comerciales en los bienes inmuebles ubicados en las poblaciones o partes de poblaciones, o áreas de belleza natural declaradas "Zona Típica Monumental".
+La misma autorización, oyendo el parecer del Consejo Estatal para la Cultura y las Artes de Puebla, se requiere para el establecimiento de negociaciones industriales o comerciales en los bienes inmuebles ubicados en las poblaciones o partes de poblaciones, o áreas de belleza natural declaradas "Zona Típica Monumental".
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 39.
 
-La Secretaría de Cultura, oyendo el parecer de la Comisión de Monumentos, está facultada para ordenar que se retiren los anuncios y carteles que se fijen y la clausura de los giros que se establezcan sin la autorización correspondiente.
+El Consejo Estatal para la Cultura y las Artes de Puebla oyendo el parecer de la Comisión de Monumentos, está facultada para ordenar que se retiren los anuncios y carteles que se fijen y la clausura de los giros que se establezcan sin la autorización correspondiente.
 
 ###### ARTICULO 40.
 
@@ -305,13 +333,17 @@ Las dependencias del Gobierno Federal, Estatal o Municipal que realicen obras de
 
 Los Ayuntamientos donde se ubique una población o parte de población, o áreas de belleza natural declaradas "Zona Típica Monumental", procurarán la conservación de ésta, disponiendo lo necesario dentro de sus posibilidades presupuestales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 C A P I T U L O III
 
-DE LAS ATRIBUCIONES DE LA SECRETARIA DE CULTURA
+DE LAS ATRIBUCIONES DEL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 42.
 
-La Secretaría de Cultura, además de las facultades que se le señalan en los capítulos anteriores, tendrá las siguientes:
+El Consejo Estatal para la Cultura y las Artes de Puebla, además de las facultades que se le señalan en los Capítulos anteriores, tendrá las siguientes:
 
 I).- Proponer al Ejecutivo del Estado, previo el parecer de la Comisión de Monumentos, anteproyectos de disposiciones reglamentarias para la conservación y mejor protección de las poblaciones, partes de poblaciones y bellezas naturales declaradas "Zona Típica Monumental".
 
@@ -319,31 +351,35 @@ II).- Proponer al Ejecutivo del Estado, en escrito debidamente fundado, del que 
 
 III).- Coadyuvar con las autoridades municipales de las poblaciones declaradas "Zona Típica Monumental", en la elaboración de los reglamentos derivados de esta Ley, debiendo adecuarlos a las características específicas de cada "Zona Típica Monumental", contando con el parecer de la Comisión de Monumentos.
 
-IV).- Promover y estimular en coordinación con la Dirección de Turismo del Estado, el conocimiento de las poblaciones, partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental".
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+IV).- Promover y estimular en coordinación con la Secretaría de Turismo del Estado, el conocimiento de las poblaciones, partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental".
 
 V).- Recabar información general e implementar el estudio y divulgación de aspectos históricos, artísticos y naturales de las poblaciones declaradas "Zona Típica Monumental".
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-VI).- Colaborar con las autoridades de la Secretaría de Desarrollo Urbano y Ecología y Centro Regional de Puebla del Instituto Nacional de Antropología e Historia y en su caso el cronista oficial de la población, para el desempeño de su cometido.
+VI).- Colaborar con las autoridades de la Secretaría de Infraestructura y del Instituto Nacional de Antropología e Historia, y en su caso, el Cronista Oficial de la población, para el desempeño de su cometido.
 
 VII).- Vigilar que los trabajos de construcción y restauración de los bienes ubicados en poblaciones, partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental", se ejecuten con estricto apego a las autorizaciones otorgadas.
 
 VIII).- Solicitar la intervención de las Entidades Públicas competentes para evitar el deterioro de los lugares de belleza natural.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 C A P I T U L O IV
 
-OBLIGACIONES DE LA SECRETARIA DE DESARROLLO URBANO Y ECOLOGIA DEL ESTADO DE PUEBLA
+OBLIGACIONES DE LA SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 43.
 
-La Secretaría de Desarrollo Urbano y Ecología del Estado, tendrá además de las obligaciones señaladas por esta Ley, las siguientes:
+La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial del Estado, tendrá además de las obligaciones señaladas por esta Ley, las siguientes:
 
-I).- Coadyuvar con la Secretaría de Cultura y la Comisión de Monumentos, en el cumplimiento de las facultades que la presente Ley les confiere.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+I).- Coadyuvar con el Consejo Estatal para la Cultura y las Artes de Puebla y la Comisión de Monumentos, en el cumplimiento de las facultades que la presente Ley les confiere.
 
 II).- Coadyuvar con las autoridades municipales de las poblaciones declaradas "Zona Típica Monumental" para el cumplimiento de las disposiciones de esta Ley.
 
@@ -361,21 +397,35 @@ DE LA COMISION DE MONUMENTOS
 
 La Comisión de monumentos a que se refiere la presente Ley tendrá como marco de competencia lo estipulado en el artículo 1o. de la misma; y se integra por:
 
-I).- El Secretario de Cultura.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
+I).- El Secretario Ejecutivo del Consejo Estatal para la Cultura y las Artes de Puebla;
 
-II).- El Secretario de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-III).- El Secretario de Educación Pública.
+II).- El Titular de la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
-IV).- (DEROGADA, P.O. 24 DE MARZO DE 1995)
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-V).- El Jefe de los Servicios Coordinados de Salud Pública.
+III).- El Titular de la Secretaría de Educación Pública;
 
-VI).- El Director de Turismo.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-VII).- Los Presidentes Municipales y los Cronistas Oficiales en el ámbito de sus respectivas competencias territoriales.
+IV).- El Titular de la Secretaría de Salud y Director General de los Servicios de Salud del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+V).- El Titular de la Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+VI).- El Titular de la Secretaría de Infraestructura;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+VII).- Los Presidentes Municipales y los Cronistas Oficiales en el ámbito de sus respectivas competencias territoriales; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 VIII).- Los Representantes de las Instituciones de Cultura Superior que el Ejecutivo del Estado determine pertinentes.
 
@@ -387,7 +437,9 @@ Los cargos de la Comisión de Monumentos serán honoríficos.
 
 La Comisión de Monumentos formulará su propio reglamento interior, con arreglo a las siguientes bases:
 
-I).- Presidirá la Comisión, el Secretario de Cultura.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+I).- Presidirá la Comisión, el Gobernador del Estado como Presidente Honorario y el Secretario Ejecutivo del Consejo Estatal para la Cultura y las Artes de Puebla como Presidente Ejecutivo.
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 1995)</small>
 
@@ -447,8 +499,16 @@ LIC. JESUS MORALES FLORES.- DIPUTADO PRESIDENTE.- Rúbrica.- PROFR. FELIPE GUERR
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza a los cuatro días del mes de abril de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- LIC. GUILLERMO JIMENEZ MORALES.- Rúbrica.- El Secretario de Gobernación Lic. Amado Camarillo Sánchez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE MARZO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Del Estado de Puebla.
+
+D.O.F. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Los asuntos que se tramitan en los órganos competentes para la aplicación de la presente Ley, hasta la entrada en vigor de este Decreto, continuarán con el mismo hasta su conclusión de conformidad con el presente ordenamiento.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
