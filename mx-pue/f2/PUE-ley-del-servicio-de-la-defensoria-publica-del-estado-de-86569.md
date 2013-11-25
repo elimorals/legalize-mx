@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-servicio-de-la-defensoria-publica-del-estado-de-86569"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2013-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2011.
 
@@ -47,9 +47,11 @@ LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
 Las disposiciones de esta Ley son de observancia general, orden público e interés social, y regulan la prestación del servicio de Defensoría Pública, previsto en la Constitución Política de los Estados Unidos Mexicanos, a través de la Asistencia Jurídica.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 2.
 
-La aplicación de la presente Ley corresponde a la Secretaría de Servicios Legales y Defensoría Pública.
+La aplicación de la presente Ley corresponde a la Secretaría General de Gobierno a través de la Defensoría Pública del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -61,17 +63,27 @@ II. Asesoría: A la opinión que proporcionan los Defensores Públicos en sentid
 
 III. Defensor Público: Al servidor público que cuenta con tal nombramiento y tiene a su cargo la Asistencia Jurídica de los Usuarios, de acuerdo a lo dispuesto por esta Ley;
 
-IV. Defensa: Al conjunto de actos jurídicos, hechos valer para salvaguardar un derecho;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-V. Gestión: A la acción de promover la intervención de las dependencias y entidades de la administración pública;
+IV. Defensoría Pública: A la Defensoría Pública del Estado a cargo de la Secretaría General de Gobierno;
 
-VI. Patrocinio: A la intervención en los términos del Capítulo Tercero del Libro Primero del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-VII. Representación: A la actuación en nombre de otro ante las autoridades competentes en materia laboral;
+V. Defensa: Al conjunto de actos jurídicos, hechos valer para salvaguardar un derecho;
 
-VIII. Secretaría: A la Secretaría de Servicios Legales y Defensoría Pública;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-IX. Subsecretaría: A la Subsecretaría de Defensoría Pública de la Secretaría; y
+VI. Gestión: A la acción de promover la intervención de las Dependencias y Entidades de la administración pública;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+VII. Patrocinio: A la intervención en los términos del Capítulo Tercero del Libro Primero del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Representación: A la actuación en nombre de otro ante las autoridades competentes en materia laboral;
+
+IX. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2013)
 
 X. Usuario: A toda persona que recibe Asistencia Jurídica.
 
@@ -79,9 +91,11 @@ X. Usuario: A toda persona que recibe Asistencia Jurídica.
 
 Son principios rectores de la Asistencia Jurídica, la Gratuidad, Probidad, Independencia Técnica, Igualdad, Equidad, Profesionalismo y Confidencialidad.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-La Secretaría debe garantizar al Usuario el acceso a la Asistencia Jurídica en asuntos del fuero común, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de los Derechos Civiles y Políticos y en los respectivos Tratados Internacionales ratificados por el Estado Mexicano, así como las demás leyes aplicables.
+La Defensoría Pública, debe garantizar al Usuario el acceso a la Asistencia Jurídica en asuntos del fuero común, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de los Derechos Civiles y Políticos y en los respectivos Tratados Internacionales ratificados por el Estado Mexicano, así como las demás leyes aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -95,7 +109,9 @@ III. En materia civil y administrativa, a cualquier persona y de manera preferen
 
 IV. En materia mercantil, a cualquier persona física y de manera preferente a aquélla que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado particular.
 
-La Secretaría podrá establecer los mecanismos que considere pertinentes, para tener por acreditada la falta de recursos económicos del solicitante.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+La Defensoría Pública podrá establecer los mecanismos que considere pertinentes, para tener por acreditada la falta de recursos económicos del solicitante.
 
 ###### ARTÍCULO 7.
 
@@ -107,17 +123,25 @@ II. La Asistencia Jurídica se otorgará a favor de la parte que trate de evitar
 
 III. Cuando la posición de las partes sea la misma, la Asistencia Jurídica se otorgará observando la mayor igualdad posible entre ellas; y
 
-IV. En materia familiar y civil, cuando en un mismo asunto las partes contrarias soliciten el patrocinio o les sea asignado por una autoridad, se otorgará el servicio a quien primero lo hubiese requerido o se le hubiese asignado, quedando impedida la Secretaría para brindarlo a la contraparte.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-En el supuesto al que se refiere la fracción IV, la Secretaría notificará el impedimento a la autoridad que haya asignado el servicio de patrocinio que no fuera otorgado; en todos los casos previstos en el presente artículo, al solicitante que no se beneficie con la Asistencia Jurídica, se le orientará para que acuda ante las instancias que presten un servicio equivalente.
+IV. En materia familiar y civil, cuando en un mismo asunto las partes contrarias soliciten el patrocinio o les sea asignado por una autoridad, se otorgará el servicio a quien primero lo hubiese requerido o se le hubiese asignado, quedando impedida la Defensoría Pública para brindarlo a la contraparte.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+En el supuesto al que se refiere la fracción IV, la Defensoría Pública notificará el impedimento a la autoridad que haya asignado el servicio de patrocinio que no fuera otorgado, en todos los casos previstos en el presente artículo, al solicitante que no se beneficie con la Asistencia Jurídica, se le orientará para que acuda ante las instancias que presten un servicio equivalente.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 8.
 
-La Secretaría prestará Asistencia Jurídica en todo el territorio del Estado, a través de Defensores Públicos, quienes serán asignados en los diferentes distritos judiciales.
+La Defensoría Pública, prestará Asistencia Jurídica en todo el territorio del Estado, a través de Defensores Públicos, quienes serán asignados en los diferentes distritos judiciales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 9.
 
-Para el cumplimiento de esta Ley, la Secretaría realizará acciones que permitan:
+Para el cumplimiento de esta Ley, la Defensoría Pública, realizará acciones que permitan:
 
 I. La difusión y promoción de los servicios a través de todos los medios, incluidos las tecnologías de la información;
 
@@ -145,9 +169,11 @@ El incumplimiento de las obligaciones de colaboración a que se refiere el artí
 
 #### SECCIÓN I. DEL RETIRO DE LA ASISTENCIA JURÍDICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-La Asistencia Jurídica que presta la Secretaría en asuntos distintos de la materia penal, se retirará cuando el usuario:
+La Asistencia Jurídica que preste la Defensoría Pública en asuntos distintos de la materia penal, se retirará cuando el usuario:
 
 I. Convenga extrajudicialmente con su contraparte, sin conocimiento del Defensor Público o solicite los servicios de un abogado particular;
 
@@ -167,9 +193,11 @@ c) Proporcionar oportunamente al Defensor Público la información o documentaci
 
 VI. Oculte al Defensor Público datos o documentos de hechos propios o actos donde haya intervenido y que tengan relación con el asunto que se le tramite.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-El Defensor Público informará por escrito a su superior jerárquico inmediato, la causa que motive el retiro de la Asistencia Jurídica, quien, de determinar su procedencia le instruirá, lo haga por escrito del conocimiento al usuario y, en su caso, de la autoridad competente, concediéndole al usuario un término improrrogable de quince días para que tome las medidas pertinentes. Transcurrido el término señalado se retirará la Asistencia Jurídica, sin responsabilidad para el Defensor Público o para la Secretaría.
+El Defensor Público informará por escrito a su superior jerárquico inmediato, la causa que motive el retiro de la Asistencia Jurídica, quien, de determinar su procedencia le instruirá, lo haga por escrito del conocimiento al usuario, y en su caso, de la autoridad competente, concediéndole al usuario un término improrrogable de quince días para que tome las medidas pertinentes. Transcurrido el término señalado se retirará la Asistencia Jurídica, sin responsabilidad para el Defensor Público o para la Defensoría Pública.
 
 #### SECCIÓN II. DE LAS EXCUSAS
 
@@ -209,11 +237,13 @@ A falta de informe rendido por el recusado, se tendrá por cierto el impedimento
 
 #### SECCIÓN I. DE LOS REQUISITOS Y AUSENCIAS DE LOS DEFENSORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 20.
 
-Los Defensores Públicos son servidores públicos de confianza y serán asignados a la adscripción que determine el Secretario o el Subsecretario, en su caso, atendiendo a las necesidades del servicio y de conformidad con las disposiciones legales aplicables.
+Los Defensores Públicos son servidores públicos de confianza y serán asignados a la adscripción que determine el Titular de la Defensoría Pública, atendiendo a las necesidades del servicio y de conformidad con las disposiciones legales aplicables.
 
-Será causa suficiente para la pérdida de confianza, el incumplimiento a las obligaciones asignadas a los Defensores Públicos, así como la detección de irregularidades prevista en el artículo 28, debiendo la Secretaría proceder de conformidad con la normatividad aplicable.
+Será causa suficiente para la pérdida de confianza, el incumplimiento a las obligaciones asignadas a los Defensores Públicos, así como la detección de irregularidades prevista en el artículo 28, debiendo la Defensoría Pública de conformidad con la normatividad aplicable.
 
 ###### ARTÍCULO 21.
 
@@ -263,9 +293,13 @@ IX. Rendir informe mensual a su superior jerárquico dentro de los primeros cinc
 
 X. Rendir los informes que le requieran sus superiores jerárquicos;
 
-XI. Asistir y acreditar los cursos de actualización y especialización profesional que determine la Secretaría;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-XII. Acreditar las evaluaciones de conocimientos que aplique la Secretaría; y
+XI. Asistir y acreditar los cursos de actualización y especialización profesional que determine la Defensoría Pública;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XII. Acreditar las evaluaciones de conocimientos que aplique la Defensoría Pública; y
 
 XIII. Las demás que le señalen la presente Ley y demás ordenamientos aplicables.
 
@@ -333,9 +367,11 @@ IV. Evaluaciones periódicas consideradas en el artículo 27 de la presente Ley.
 
 El Sistema del Servicio Civil de Carrera a que se refieren los artículos anteriores, justificará la igualdad de oportunidades para los Defensores Públicos en el desempeño de sus funciones, capacitaciones y estímulos, en los términos de la legislación correspondiente.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 32.
 
-En virtud del Servicio Civil de Carrera al que se refiere el presente Capítulo, la Secretaría elaborará conforme a las normas aplicables, un programa anual de capacitación y estímulos.
+En virtud del Servicio Civil de Carrera al que se refiere el presente Capítulo, la Defensoría Pública elaborará conforme a las normas aplicables, un programa anual de capacitación y estímulos.
 
 ### CAPÍTULO V. DEL RECURSO DE INCONFORMIDAD
 
@@ -347,9 +383,11 @@ Las determinaciones que resuelvan sobre el retiro de servicio o la recusación d
 
 El recurso deberá interponerse dentro del término de tres días hábiles contados a partir del día siguiente donde surta efectos la notificación respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-El escrito de interposición del recurso de inconformidad deberá estar firmado por el interesado, salvo que no sepa o no pueda firmar, caso en el cual imprimirá su huella digital. Se presentará ante el titular de la Subsecretaría y expresará:
+El escrito de interposición del recurso de inconformidad deberá estar firmado por el interesado, salvo que no sepa o no pueda firmar, caso en el cual imprimirá su huella digital. Se presentará ante el Titular de la Defensoría Pública y expresará:
 
 I. El nombre del recurrente, así como el domicilio que señale para efectos de notificaciones;
 
@@ -359,11 +397,15 @@ III. La exposición de los hechos y causas por las cuales considera que la deter
 
 IV. Las pruebas que ofrezca, que tengan relación inmediata y directa con la determinación impugnada debiendo, en su caso, acompañar las documentales con que cuente.
 
-En el caso que sea promovido por el representante legal del usuario, al escrito se acompañará carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y de los testigos ante la propia Subsecretaría.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+En el caso que sea promovido por el representante legal del usuario, al escrito se acompañará carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y de los testigos ante la propia Defensoría Pública.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-Si el escrito por el cual se interpone el recurso, fuere oscuro, irregular o no cumpliera con los requisitos señalados en el artículo anterior, el titular de la Subsecretaría, señalando en concreto sus defectos u omisiones, prevendrá al recurrente, por una sola vez, para que lo aclare, enmiende o complete, con el apercibimiento de que si el recurrente no cumple dentro del término de tres días se desechará de plano.
+Si el escrito por el cual se interpone el recurso, fuere oscuro, irregular o no cumpliera con los requisitos señalados en el artículo anterior, el Titular de la Defensoría Pública, señalando en concreto sus defectos u omisiones, prevendrá al recurrente, por una sola vez, para que lo aclare, enmiende o complete, con el apercibimiento de que si el recurrente no cumple dentro del término de tres días se desechará de plano.
 
 ###### ARTÍCULO 37.
 
@@ -395,9 +437,11 @@ II. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a 
 
 III. En caso de que el recurrente muera durante el procedimiento, y si los derechos dirimidos en el asunto motivo de la Asistencia Jurídica fueran personalísimos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 40.
 
-El titular de la Subsecretaría al resolver el recurso podrá:
+El Titular de la Defensoría Pública al resolver el recurso podrá:
 
 I. Desecharlo por improcedente o sobreseerlo;
 
@@ -441,9 +485,11 @@ VIII. Dejar de cumplir las obligaciones que les impone esta Ley y demás ordenam
 
 Los Defensores Públicos, independientemente de las responsabilidades administrativas a las que se refiere este Capítulo, serán responsables civil o penalmente por las faltas o delitos donde incurran en el ejercicio de sus encargos, conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 45.
 
-Cuando la actuación del Defensor Público pudiera implicar responsabilidad penal, el titular de la Secretaría informará de ello a la autoridad competente.
+Cuando la actuación del Defensor Público pudiera implicar responsabilidad penal, el Titular de la Defensoría Pública informará de ello a la autoridad competente.
 
 ## TRANSITORIOS
 
@@ -456,3 +502,11 @@ TERCERO.- Se derogan todas las disposiciones de la misma naturaleza que se opong
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada (sic) en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veinticuatro días del mes de noviembre de dos mil once.- Diputado Presidente.- JOSÉ LAURO SÁNCHEZ LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
