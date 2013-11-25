@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-acceso-de-las-mujeres-a-una-598
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-11"
-last_updated: "2008-03-11"
+last_updated: "2013-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59886&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-10"
 
 REGLAMENTO DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 11 de marzo de 2008.
 
@@ -39,53 +39,89 @@ REGLAMENTO DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLEN
 
 Este ordenamiento tiene por objeto reglamentar las disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en lo relativo al Poder Ejecutivo Federal, y las bases de coordinación entre éste, las entidades federativas y los municipios, necesarias para su ejecución.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos del presente Reglamento, además de las definiciones contenidas en el artículo 5 de Ley (sic) General de Acceso de las Mujeres a una Vida Libre de Violencia, se entiende por:
+Para los efectos del presente Reglamento, además de las definiciones contenidas en el artículo 5 de la Ley, se entiende por:
 
-I. Banco Nacional: el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
+I. Banco Nacional: Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-II. Eje de Acción: las actividades que se llevan a cabo para aplicar las políticas públicas tendientes a prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+II. Comisión Nacional: Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, órgano administrativo desconcentrado de la Secretaría de Gobernación;
 
-III. Estado de Riesgo: cualquier circunstancia que haga previsible una situación de violencia contra las mujeres;
+III. Diagnóstico Nacional: estudio con Perspectiva de Género sobre los tipos y Modalidades de Violencia contra las Mujeres y niñas a nivel nacional, a fin de obtener información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la Violencia contra las Mujeres;
 
-IV. Mecanismos para el adelanto de las mujeres: las instancias de las entidades federativas creadas para el diseño, promoción y monitoreo de la aplicación de las políticas públicas en favor de los derechos de las mujeres;
+IV. Dignidad: valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares;
 
-V. Modelos: conjunto de estrategias que reúnen las medidas y acciones necesarias para garantizar la seguridad y el ejercicio de los derechos de las mujeres víctimas de violencia;
+V. Eje de Acción: conjunto de estrategias transversales basados en principios rectores con Perspectiva de Género y de Derechos Humanos de las Mujeres que se llevan a cabo para aplicar las políticas públicas tendientes a prevenir, atender, sancionar y erradicar los tipos y Modalidades de la Violencia;
 
-VI. Política Nacional Integral: acciones con perspectiva de género y de coordinación entre la Federación, las entidades federativas y los municipios para el acceso de las mujeres al derecho a una vida libre de violencia, y
+VI. Estado de Riesgo: cualquier circunstancia que haga previsible una situación de Violencia contra las Mujeres;
 
-VII. Reglamento: Reglamento de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+VII. Mecanismos para el adelanto de las mujeres: las instancias de las entidades federativas creadas para el diseño, promoción y monitoreo de la aplicación de las políticas públicas en favor de los derechos de las mujeres, encaminados a prevenir, atender, sancionar y erradicar la Violencia contra las Mujeres;
+
+VIII. Modelos: las medidas, programas, directrices, mecanismos y procedimientos que implementen los Ejes de Acción para garantizar los Derechos Humanos de las Mujeres y su ejercicio pleno;
+
+IX. Política Nacional Integral: las acciones y estrategias con Perspectiva de Género, Derechos Humanos de las Mujeres y mecanismos de coordinación que deberán observar la Federación, las entidades federativas y los municipios para prevenir, atender, sancionar y erradicar la Violencia contra las Mujeres, y
+
+X. Secretaría Ejecutiva: la Secretaría Ejecutiva del Sistema, que estará a cargo del Instituto Nacional de las Mujeres, en términos del artículo 36, fracción VIII, de la Ley.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
-Corresponde a la Federación, las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, la articulación y cumplimiento de la Política Nacional Integral, a través de instrumentos de coordinación.
+Corresponde a la Federación, a través de la Secretaría de Gobernación, formular, conducir y vigilar el cumplimiento de la Política Nacional Integral, para lo cual suscribirá los instrumentos de coordinación con las entidades federativas y los municipios, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 4.
 
-Para la ejecución de la Ley y la articulación de la Política Nacional Integral, se establecen los ejes de acción, los cuales se implementarán a través de los Modelos; éstos estarán relacionados con los tipos y modalidades de la violencia.
+Para la ejecución de la Ley y la articulación de la Política Nacional Integral, se establecen los Ejes de Acción, los cuales se implementarán a través de los Modelos.
+
+Son Ejes de Acción los siguientes:
+
+I. Prevención: Conjunto de estrategias para que los tres órdenes de gobierno con la participación social, generen condiciones idóneas a efecto de erradicar la violencia y cualquier forma de discriminación hacia la mujer, en los ámbitos público y privado, y modifiquen los patrones de comportamientos sociales y culturales basados en estereotipos de hombres y mujeres;
+
+II. Atención: Conjunto de estrategias para que los tres órdenes de gobierno brinden acceso a la justicia restaurativa a Víctimas y establezcan acciones y medidas reeducativas a los Agresores, con la debida diligencia y Perspectiva de Género;
+
+III. Sanción: Conjunto de estrategias para que los mecanismos judiciales y administrativos de los tres órdenes de gobierno establezcan las consecuencias jurídicas para el Agresor de la Violencia contra las Mujeres y asegure a las Víctimas y ofendidos el acceso efectivo a la reparación del daño, entendiendo ésta en un sentido restitutivo y transformador, que comprenda la indemnización, rehabilitación, satisfacción y garantías de no repetición, y
+
+IV. Erradicación: Conjunto de estrategias para que los tres órdenes de gobierno se coordinen de manera efectiva en la ejecución de los Ejes de Acción establecidos en las fracciones anteriores y en mecanismos de no repetición, abatimiento a la impunidad y remoción de los obstáculos que por acción u omisión del Estado genera Violencia contra las Mujeres, a fin de erradicar las prácticas, conductas, normas, costumbres sociales y culturales que menoscaben o anulen los Derechos Humanos de las Mujeres.
+
+Para el diseño, elaboración y ejecución de los Modelos se deberán tomar en cuenta el Diagnóstico Nacional y el Programa, de conformidad con el artículo 42, fracciones III y XII, de la Ley, así como la diversidad cultural del país.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 5.
 
-La Federación, las entidades federativas y los municipios en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para aplicar los Modelos.
+Las dependencias y entidades de la Administración Pública Federal que integran el Sistema, en el ámbito de sus atribuciones, planificarán, presupuestarán y ejecutarán las acciones necesarias para la aplicación de los Modelos.
+
+La Secretaría de Gobernación podrá coordinarse con las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, para planificar, presupuestar y ejecutar los programas estatales y municipales para la aplicación de los Modelos.
 
 ###### ARTÍCULO 6.
 
 Con motivo de la implementación del Programa, la Secretaría Ejecutiva del Sistema, a través de la coordinación interinstitucional, integrará un registro de los Modelos empleados por la Federación, las entidades federativas y los municipios.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-Los Mecanismos para el adelanto de las mujeres, en coordinación con la Secretaría Ejecutiva del Sistema, realizarán el registro y evaluación de los Modelos, considerando:
+La Secretaría Ejecutiva, en coordinación con los integrantes del Sistema, llevará a cabo la evaluación de los Modelos.
 
-I. La efectividad del Modelo;
-
-II. La aplicación de las leyes respectivas, y
-
-III. El impacto del Programa.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 8.
 
-El Instituto Nacional de las Mujeres, en su carácter de Secretaría Ejecutiva del Sistema, realizará en colaboración con las instituciones integrantes del mismo, la evaluación de los diferentes Modelos.
+La evaluación de los Modelos se llevará a cabo de manera anual, para lo cual la Secretaría Ejecutiva podrá apoyarse en instituciones externas y organizaciones de la sociedad civil con experiencia en la materia y reconocido prestigio profesional. Dicha evaluación incluirá:
+
+I. Los recursos utilizados en la ejecución de los Modelos;
+
+II. El estudio de la factibilidad, la viabilidad y la efectividad del Modelo;
+
+III. El cumplimiento de los procesos del Modelo respectivo;
+
+IV. La medición del impacto en la población beneficiaria, y
+
+V. La aplicación y cumplimiento de la normativa respectiva.
 
 ###### ARTÍCULO 9.
 
@@ -95,81 +131,137 @@ Las y los servidores públicos deberán recibir capacitación permanente sobre d
 
 ### CAPÍTULO I. DE LA PREVENCIÓN
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-El objetivo de la prevención será reducir los factores de riesgo de la violencia contra las mujeres, y se integrará por las etapas siguientes:
+El Modelo de Prevención es el conjunto de acciones encaminadas a promover y difundir los derechos de las mujeres e identificar factores de riesgo con el fin de evitar actos de violencia.
 
-I. Anticipar y evitar la generación de la violencia en todas sus modalidades previstas por la Ley;
+Sin perjuicio de lo previsto en el Programa, el Modelo se integrará por las siguientes acciones:
 
-II. Detectar en forma oportuna los posibles actos o eventos de violencia contra las mujeres, y
+I. Sensibilizar, concientizar y educar para prevenir la violencia en todos sus tipos y Modalidades previstas en la Ley;
 
-III. Disminuir el número de víctimas, mediante acciones disuasivas que desalienten la violencia.
+II. Diseñar campañas de difusión disuasivas y reeducativas integrales y especializadas para disminuir el número de Víctimas y Agresores;
+
+III. Detectar en forma oportuna los posibles actos o eventos de Violencia contra las Mujeres;
+
+IV. Fomentar que los medios de comunicación promuevan el respeto a la dignidad de las mujeres y eviten el uso de lenguaje e imágenes que reproduzcan estereotipos y roles de género que refuerzan y naturalizan la Violencia contra las Mujeres;
+
+V. Generar mecanismos para que la comunicación institucional se realice con un lenguaje incluyente y con Perspectiva de Género, y
+
+VI. Todas aquellas medidas y acciones que sean necesarias para eliminar los factores de riesgo de Violencia contra las Mujeres.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 11.
 
-Para la ejecución del Modelo de Prevención, se considerarán los siguientes aspectos:
+Para la ejecución del Modelo de Prevención, se tomarán en cuenta los siguientes aspectos:
 
-I. El diagnóstico de la modalidad de violencia a prevenir y la población a la que está dirigida;
+I. Niveles del Modelo:
 
-II. La percepción social o de grupo del fenómeno;
+a) Nivel primario, consiste en evitar la Violencia contra las Mujeres;
 
-III. Los usos y costumbres y su concordancia con el respeto a los derechos humanos;
+b) Nivel secundario, consiste en dar una respuesta inmediata una vez que haya ocurrido la Violencia contra las Mujeres, a fin de evitar de manera oportuna actos de violencia posteriores, y
 
-IV. Las estrategias metodológicas y operativas;
+c) Nivel terciario, consiste en brindar atención y apoyo a largo plazo a las Víctimas, a fin de prevenirlas de nuevos actos de violencia;
 
-V. La intervención interdisciplinaria;
+II. La percepción social de la Violencia contra las Mujeres;
 
-VI. Las metas a corto, mediano y largo plazo;
+III. Los usos y costumbres de los pueblos y comunidades indígenas y su concordancia con el respeto a los Derechos Humanos de las Mujeres;
 
-VII. La capacitación y adiestramiento, y
+IV. El grado de pobreza, marginación y analfabetismo, así como la esperanza de vida de la población a la que va dirigida;
 
-VIII. Los mecanismos de evaluación.
+V. La intervención interdisciplinaria en materia de salud, educación, seguridad, justicia, desarrollo social, asistencia social y desarrollo humano, y
+
+VI. La información desagregada, entre otros, por sexo, edad, lugar de los hechos de violencia, antecedentes de violencia, tipos de delitos, nivel educativo, condición socioeconómica, grupos en situación de vulnerabilidad y origen étnico.
 
 ###### ARTÍCULO 12.
 
-La Federación, en coordinación con las entidades federativas y los municipios, promoverá las acciones de prevención contra la violencia familiar, mismas que estarán orientadas a:
+(DEROGADO, D.O.F. 25 DE NOVIEMBRE DE 2013)
 
-I. Establecer programas de detección oportuna de la violencia;
-
-II. Facilitar el acceso de las víctimas a los procedimientos judiciales, y
-
-III. Promover una cultura de no violencia contra las mujeres.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 13.
 
-Las acciones correspondientes a la prevención de la violencia laboral, docente y en la comunidad, que realicen la Federación, las entidades federativas y los municipios, de conformidad con los instrumentos de coordinación, así como por la normatividad emitida en el ámbito de sus respectivas competencias, se regirá por los principios siguientes:
+Las acciones correspondientes a la prevención de la violencia en el ámbito familiar, laboral, docente, institucional y en la comunidad, que realice la Federación, se regirán además de los principios establecidos en el artículo 4 de la Ley, por los siguientes:
 
-I. Igualdad de mujeres y hombres ante la Ley;
+I. (DEROGADA, D.O.F. 25 DE NOVIEMBRE DE 2013)
 
 II. Reconocimiento de las mujeres como sujetos de derechos;
 
 III. Generación de cambios conductuales en la sociedad para el desaliento de la violencia contra las mujeres;
 
-IV. Participación de las mujeres en los diferentes sectores, y
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
-V. Fomento de la cultura jurídica y de legalidad, así como de denuncia.
+IV. Participación activa y equitativa de las mujeres en los diferentes sectores, especialmente en las dependencias y entidades de la Administración Pública Federal, y
+
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+V. Fomento de la cultura de la legalidad, así como de la denuncia.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+Las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, podrán realizar acciones correspondientes a la prevención de la violencia en el ámbito familiar, laboral, docente, institucional y en la comunidad.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
 Las acciones de prevención de la violencia institucional, en el ámbito federal, consistirán en:
 
-I. Capacitar y educar al personal encargado de la procuración e impartición de justicia en las materias que señala la Ley;
+I. Sensibilizar, capacitar y profesionalizar de manera permanente a los servidores públicos encargados de la seguridad pública, procuración e impartición de justicia, atención y asistencia legal a Víctimas de violencia y del delito y a cualquier servidor público que participe directa o indirectamente en la prevención, investigación, procesamiento judicial, sanción y reparación del daño causado por la Violencia contra las Mujeres.
 
-II. Capacitar y educar a las autoridades encargadas de la seguridad nacional y pública sobre las modalidades de violencia contra las mujeres;
+La sensibilización, capacitación y profesionalización a que se refiere el párrafo anterior deberán abordar temáticas de Perspectiva de Género, Derechos Humanos de las Mujeres y prevención de la Violencia contra las Mujeres para que los servidores públicos realicen una debida diligencia en la integración de averiguaciones previas y tramitación de los procesos judiciales iniciados por discriminación, homicidio o violencia por razones de género, así como para superar los estereotipos sobre el rol social de las mujeres;
 
-III. Designar en cada una de las dependencias y entidades que integran la Administración Pública Federal, áreas responsables de seguimiento y observancia de la Ley y del presente Reglamento, y
+II. Capacitar y educar a los servidores públicos de las dependencias y entidades de la Administración Pública Federal, sobre las Modalidades de Violencia;
 
-IV. Fomentar la prestación de servicios públicos especializados en materia de prevención de la violencia contra las mujeres.
+III. Difundir campañas que informen sobre las áreas a las que deberán recurrir las Víctimas para presentar una denuncia;
 
-Las acciones de este artículo se ejecutarán, en las entidades federativas y municipios, de acuerdo con los instrumentos de coordinación.
+IV. Fomentar la prestación de servicios públicos especializados en materia de prevención de la Violencia contra las Mujeres;
+
+V. Impulsar campañas permanentes de comunicación social que sensibilicen y prevengan la violencia de género, roles, estereotipos y cualquier otra conducta que genere discriminación en contra de las mujeres, y
+
+VI. Asignar presupuestos públicos con Perspectiva de Género.
+
+La Comisión Nacional y la Secretaría Ejecutiva, en sus respectivos ámbitos de competencia, a solicitud de las dependencias y entidades de la Administración Pública Federal brindarán el apoyo técnico para la elaboración y ejecución de las acciones referidas en el párrafo anterior.
 
 ### CAPÍTULO II. DE LA ATENCIÓN
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-La atención es el conjunto de servicios integrales proporcionados a las mujeres y a los agresores, con la finalidad de disminuir el impacto de la violencia, los cuales deberán otorgarse de acuerdo con la Política Nacional Integral, los principios rectores y los ejes de acción.
+El Modelo de Atención es el conjunto de servicios integrales y especializados proporcionados a las Víctimas, sus hijas e hijos, y a los Agresores, con la finalidad de atender el impacto de la violencia, los cuales deberán ser prestados de acuerdo con la Política Nacional Integral, los principios rectores, los Ejes de Acción y el Programa.
 
-El Modelo de Atención buscará incluir estrategias eficaces de rehabilitación y capacitación que permitan a las mujeres participar plenamente en la vida pública, privada y social. Los programas deberán diseñarse en atención a las necesidades y los derechos en materia de salud, educación, trabajo y acceso a la justicia de las mujeres.
+Sin perjuicio de lo previsto en el Programa, el Modelo de Atención tendrá los siguientes componentes:
+
+I. De atención en los niveles a que se refiere el artículo 22 de este Reglamento;
+
+II. De sensibilización;
+
+III. De reeducación, y
+
+IV. De rehabilitación y capacitación que permitan a las mujeres participar plenamente en la vida pública, privada y social.
+
+Los componentes del Modelo de Atención deberán diseñarse en atención a las necesidades y los derechos humanos en materia de salud, educación, trabajo, vivienda y acceso a la justicia de las mujeres, y deberán estar dirigidos a la construcción de conductas no violentas y equitativas de los hombres.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 15 Bis.
+
+El Modelo de Atención contendrá las siguientes acciones:
+
+I. Brindar servicios gratuitos de atención y apoyo, amplios e integrados que incluyan la ubicación accesible, líneas telefónicas de ayuda, centros de atención en crisis, apoyos al empleo y a la vivienda;
+
+II. Apoyar a las hijas e hijos, a efecto de brindarles los servicios establecidos en el artículo 56 de la Ley;
+
+III. Favorecer la instalación y el manteamiento de casas de refugio;
+
+IV. Prestar asesoría jurídica;
+
+V. Proteger los derechos de las mujeres indígenas, migrantes, o en situación de vulnerabilidad, y
+
+VI. Asegurar el acceso a la justicia para las mujeres garantizando, como mínimo, personal especializado para la atención de las Víctimas y sus casos en todas las etapas procesales.
 
 ###### ARTÍCULO 16.
 
@@ -195,11 +287,15 @@ Además de la capacitación a la que se refiere el artículo 9 de este Reglament
 
 I. Capacitación sobre la implementación y operación de la atención, y
 
-II. Atención psicológica encaminada a disminuir el impacto que pudieran sufrir en su persona, con motivo de las problemáticas que se les plantean.
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+II. Atención psicológica encaminada a disminuir el impacto o desgaste emocional derivado de brindar atención en materia de Violencia contra las Mujeres.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 21.
 
-El tratamiento de la violencia sexual tomará en consideración los criterios de construcción social de la agresión, de atención y tratamiento integral.
+El tratamiento de la violencia sexual tomará en consideración los criterios de construcción social de la agresión, de atención, tratamiento integral y los previstos en las normas oficiales mexicanas en la materia.
 
 ###### ARTÍCULO 22.
 
@@ -213,19 +309,25 @@ III. Especializada.
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 23.
 
-Los Modelos de Sanción generarán evaluaciones permanentes y sistemáticas sobre la aplicación de la Ley y de las diversas normas jurídicas que regulan los tipos y modalidades de la violencia.
+Los Modelos de Sanción generarán los mecanismos que permitan evaluaciones permanentes y sistemáticas sobre el impacto de la aplicación de la Ley y de las diversas normas jurídicas que reconocen y regulan los tipos y Modalidades de la Violencia.
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 24.
 
-La Federación, las entidades federativas y los municipios, en el ámbito de sus respectivas competencias y a través de instrumentos de coordinación, establecerán Modelos de Sanción en los términos del artículo 8 de la Ley.
+La Secretaría de Gobernación, a través de instrumentos de coordinación, establecerá Modelos de Sanción en los términos del artículo 8 de la Ley.
 
 Los Modelos de Sanción deberán contener como mínimo:
 
 I. Las directrices de apoyo para los servidores públicos que conozcan de los tipos y modalidades de violencia contemplados en la Ley, para facilitar su actuación en la aplicación de sanciones conforme a la legislación aplicable que corresponda;
 
-II. Las medidas de atención y rehabilitación para los agresores;
+> <small>(REFORMADA, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+II. Las medidas de atención y rehabilitación para los Agresores, mismas que serán reeducativas, ausentes de cualquier estereotipo y tendrán como propósito la eliminación de rasgos violentos de los Agresores, así como la construcción de conductas no violentas y equitativas de los hombres mediante el otorgamiento de servicios integrales y especializados;
 
 III. La capacitación especial necesaria para la aplicación del Modelo de Sanción dirigida al personal que integran las corporaciones de seguridad pública y del sistema de procuración y administración de justicia;
 
@@ -239,169 +341,323 @@ VII. Las prevenciones necesarias para evitar que las mujeres que han sufrido vio
 
 VIII. Los lineamientos que faciliten a la víctima demandar una reparación del daño u otros medios de compensación o resarcimiento económico a cargo del Estado, cuando haya responsabilidad de éste, en términos de la legislación aplicable.
 
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+Las entidades federativas y sus municipios, en el ámbito de sus respectivas competencias, podrán establecer los Modelos de Sanción a los que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 24 Bis.
+
+Para la ejecución de los Modelos de Sanción, deberán considerarse los siguientes aspectos:
+
+I. Procedimientos judiciales que eviten estereotipos, elementos discriminatorios por razón de género y la revictimización;
+
+II. Garantizar asistencia legal gratuita, a través de las áreas de atención a víctimas competentes, a fin de promover la cultura de denuncia, y
+
+III. Ausencia de cualquier estereotipo en las medidas reeducativas, con el propósito de eliminar rasgos violentos en los Agresores.
+
 ### CAPÍTULO IV. DE LA ERRADICACIÓN
 
 ###### ARTÍCULO 25.
 
 Los mecanismos y políticas públicas que se implementen en los tres órdenes de gobierno, en el marco de sus atribuciones, tendrán como objetivo erradicar la violencia contra las mujeres.
 
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+En lo que respecta a las medidas y acciones reeducativas, la Comisión Nacional, en coordinación con el Comisionado Nacional de Seguridad y la Subsecretaría de Prevención y Participación Ciudadana, diseñará e implementará los programas de medidas reeducativas dirigidas a los Agresores.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-El Modelo de Erradicación constará de las siguientes fases:
+Sin perjuicio de lo previsto en el Programa, el Modelo de Erradicación tendrá las siguientes acciones:
 
-I. La ejecución de actividades encaminadas al desaliento de prácticas violentas contra las mujeres, y
+I. Definir y ejecutar acciones interinstitucionales tendientes a desalentar prácticas violentas contra las mujeres;
 
-II. La consolidación, vigilancia y monitoreo del Modelo.
+II. Establecer y homologar mediante convenios de coordinación los registros administrativos sobre Violencia contra las Mujeres, que contengan los datos desagregados por sexo, edad, estado civil, ubicación geográfica, tipos y Modalidades de Violencia, nivel socioeconómico y grado de educación, además de los de desarrollo humano en su componente de violencia, que conforman el Sistema de Información estratégico de Violencia contra las Mujeres;
+
+III. Recopilar y dar seguimiento a la información estadística para la generación de indicadores de evaluación y medición del impacto de la Violencia contra las Mujeres;
+
+IV. Establecer mecanismos para la armonización legislativa con la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales ratificados por el Estado Mexicano en materia de Derechos Humanos de las Mujeres y sus recomendaciones en la legislación federal, local y municipal, y
+
+V. Implementar, vigilar y monitorear el presente Modelo.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-La Secretaría Ejecutiva del Sistema, con el apoyo de los Mecanismos para el adelanto de las mujeres, sistematizará la información que se genere en la implementación del Modelo de Erradicación. La información que se procesará será la siguiente:
+La Secretaría Ejecutiva, con el apoyo de los Mecanismos para el adelanto de las mujeres, sistematizará, en términos del presente artículo, la información que se genere en la implementación del Modelo de Erradicación e informará al Sistema para impulsar la instrumentación de acciones en la materia.
 
-I. Avances legislativos federales y locales con perspectiva de género;
+La información que se procesará será la siguiente:
 
-II. Criterios y lineamientos jurisdiccionales federales y locales sobre los tipos y modalidades de la violencia;
+I. El avance en la homologación de los registros administrativos sobre Violencia contra las Mujeres;
 
-III. Áreas geográficas o ámbitos de la sociedad con comportamiento violento contra las mujeres, para elaborar un diagnóstico sobre los posibles casos de alerta de género, e
+II. El análisis estadístico de los procesos y resoluciones jurisdiccionales tanto federales como locales sobre la aplicación y observancia de las disposiciones a favor de las mujeres;
 
-IV. Impacto en la ejecución del Modelo de Erradicación.
+III. Los resultados del monitoreo de la incidencia de la Violencia contra las Mujeres que conlleven a posibles casos de alerta de violencia de género;
+
+IV. La sistematización de políticas públicas, indicadores, y programas para combatir la Violencia contra las Mujeres;
+
+V. Los avances legislativos federales y locales con Perspectiva de Género, y
+
+VI. El impacto en la ejecución del Modelo de Erradicación.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 28.
 
-La Secretaría Ejecutiva del Sistema y la Secretaría de Seguridad Pública, en coordinación con los Mecanismos para el adelanto de las mujeres, establecerán y operarán el sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, previsto en la fracción II del artículo 17 de la Ley.
+La Secretaría de Gobernación, a través del Comisionado Nacional de Seguridad, en coordinación con la Comisión Nacional, la Secretaría Ejecutiva y los Mecanismos para el adelanto de las mujeres, establecerán y operarán el sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, previsto en la fracción II del artículo 17 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 29.
 
-El sistema de monitoreo se vinculará de manera directa y efectiva con el Banco Nacional, así como con el registro que se implemente respecto de las órdenes de protección y las personas sujetas a ellas, siendo responsabilidad de las autoridades que generan las acciones precautorias y cautelares, informar a la Secretaría Ejecutiva del Sistema, o bien, a la Secretaría de Seguridad Pública según sea el caso.
+La operación del sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres tendrá como objetivo generar instrumentos que permitan evaluar el avance en la erradicación de la Violencia contra las Mujeres y las posibles acciones que puedan implementarse para lograr dicha erradicación.
 
-La operación del sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, tendrá como objetivo generar instrumentos que permitan evaluar el avance en la erradicación de la violencia contra las mujeres y las posibles acciones que puedan implementarse para lograr dicha erradicación.
+El sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres deberá estar vinculado al monitoreo del avance de la no discriminación hacia las mujeres del Consejo Nacional para Prevenir la Discriminación y con el Banco Nacional, así como con el registro que se implemente respecto de las órdenes de protección y las personas sujetas a ellas, siendo responsabilidad de las autoridades que generan las acciones precautorias y cautelares, informar a la Secretaría de Gobernación, a través del Comisionado Nacional de Seguridad. El Comisionado Nacional de Seguridad, a su vez, informará semestralmente sobre el resultado del monitoreo a los demás integrantes del Sistema, por conducto de la Secretaría Ejecutiva.
 
 ## TÍTULO TERCERO
 
 ### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO Y VIOLENCIA FEMINICIDA
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 30.
 
-La declaratoria de alerta de violencia de género tiene por objeto fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por la existencia de un agravio comparado a través de acciones gubernamentales federales y de coordinación con las entidades federativas para enfrentar y erradicar la violencia feminicida en un territorio determinado, en términos del Capítulo V, Título II, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+La declaratoria de alerta de violencia de género tendrá como finalidad detenerla y erradicarla, a través de acciones gubernamentales de emergencia, conducidas por la Secretaría de Gobernación en el ámbito federal y en coordinación con las entidades federativas y los municipios.
 
-Procede la declaratoria de alerta de violencia de género cuando se demuestre que en un territorio determinado se perturba la paz social por la comisión de delitos contra la vida, la libertad, la integridad y la seguridad de las mujeres o cuando exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 31.
 
-Existe agravio comparado en caso de que un cuerpo normativo vigente contenga alguno de los siguientes supuestos que trasgredan los derechos humanos de las mujeres:
+La declaratoria de alerta de violencia de género por agravio comparado tendrá como finalidad eliminar las desigualdades producidas por un ordenamiento jurídico o políticas públicas que impidan el reconocimiento o el ejercicio pleno de los Derechos Humanos de las Mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado mexicano, a través de acciones gubernamentales previstas en el artículo 23 de la Ley.
+
+El agravio comparado se presenta cuando un ordenamiento jurídico vigente o una política pública contenga alguno de los siguientes supuestos y éstos transgredan los Derechos Humanos de las Mujeres:
 
 I. Distinciones, restricciones o derechos específicos diversos para una misma problemática o delito, en detrimento de las mujeres de esa entidad federativa o municipio;
 
 II. No se proporcione el mismo trato jurídico en igualdad de circunstancias, generando una discriminación y consecuente agravio, o
 
-III. Se genere una aplicación inequitativa de la ley, lesionándose los derechos de las mujeres.
+III. Se genere una aplicación desigual de la ley, lesionándose los Derechos Humanos de las Mujeres, así como los principios de igualdad y no discriminación.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 32.
 
-La solicitud de investigación sobre la procedencia de declaratoria de alerta de violencia de género, podrá ser presentada por los organismos de derechos humanos a nivel nacional o de las entidades federativas, los organismos de la sociedad civil y/o los organismos internacionales.
+La solicitud de la declaratoria de alerta de violencia de género podrá ser presentada por los organismos de derechos humanos internacionales, nacional o de las entidades federativas, así como las organizaciones de la sociedad civil legalmente constituidas.
 
-La solicitud se presentará por escrito ante la Secretaría Ejecutiva del Sistema, directamente o a través del servicio postal mexicano, quien lo hará del conocimiento del Sistema en un plazo no mayor a cinco días hábiles contados a partir de la admisión de la misma.
+La solicitud se presentará por escrito directamente o bien, a través de correo, ante la Secretaría Ejecutiva, quien revisará que dicha solicitud contenga los requisitos previstos en el artículo siguiente y lo hará del conocimiento de la Comisión Nacional.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 33.
 
-En la solicitud de investigación sobre la procedencia de declaratoria de alerta de violencia de género, se deberá hacer constar la siguiente información:
+La solicitud de la declaratoria de alerta de violencia de género deberá contener lo siguiente:
 
-I. Nombre del solicitante;
+I. Denominación o razón social de quién o quiénes promuevan o, en su caso, nombre de su representante legal;
 
-II. Carácter con el que actúa el solicitante;
+II. Domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas;
 
-III. Domicilio para oír y recibir notificaciones;
+III. Los documentos que sean necesarios para acreditar la personalidad con la que promueve, así como la legal existencia del organismo o asociación que promueva;
 
-IV. Lugar o lugares donde se presenta dicha violencia de género;
+IV. Narración de los hechos en que se basa para estimar que existen delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, que perturben la paz social en un territorio determinado y la sociedad así lo reclame, o que en dicho territorio existe un agravio comparado en términos del artículo 31 de este Reglamento, y
 
-V. Descripción de los hechos violatorios de los derechos humanos de las mujeres;
-
-VI. Grupo de mujeres afectadas y número aproximado, y
-
-VII. Periodo de reiteración de las conductas.
+V. Tratándose de agravio comparado, señalar las leyes, reglamentos, políticas o disposiciones jurídicas que considera, agravian los Derechos Humanos de las Mujeres.
 
 ###### ARTÍCULO 34.
 
-La solicitud de investigación sobre la procedencia de declaratoria de alerta de violencia de género sólo podrá ser admitida, para ser puesta a consideración del Sistema cuando en la misma se afirme la totalidad de los siguientes supuestos:
+(DEROGADO, D.O.F. 25 DE NOVIEMBRE DE 2013)
 
-I. Que existe violencia sistemática contra las mujeres;
-
-II. Que dicha violencia se traduce en delitos del orden común contra la vida, la libertad, la integridad y la seguridad jurídica de las mujeres y existe un contexto de impunidad o permisibilidad social, o que existe un agravio comparado que impide el ejercicio pleno de los derechos humanos de las mujeres, y
-
-III. Que la violencia proviene de un conjunto de conductas misóginas que perturban la paz social.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-Cuando la solicitud no contenga la totalidad de requisitos citados en los artículos 33 y 34 del presente Reglamento, la Secretaría Ejecutiva del Sistema, deberá prevenir al solicitante por escrito y por una sola vez, para que subsane la omisión dentro del plazo de cinco días hábiles. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite. Una vez desahogada la prevención, la Secretaría Ejecutiva del Sistema resolverá sobre la aceptación o no de la radicación de la solicitud, en un plazo de dos días hábiles.
+Cuando la solicitud no contenga la totalidad de los requisitos citados en el artículo 33 del presente Reglamento, la Comisión Nacional por conducto de la Secretaría Ejecutiva, deberá prevenir al solicitante por escrito y, por una sola vez, para que subsane la omisión dentro del plazo de cinco días hábiles contados a partir de su notificación. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite. Una vez que la solicitud cumpla con los requisitos previstos en el presente Reglamento, la Comisión Nacional, en coordinación con la Secretaría Ejecutiva, resolverá sobre la admisión de la solicitud, en un plazo de tres días hábiles.
 
-En cualquier caso, el Sistema instruirá a la Secretaría Ejecutiva para que dé respuesta al solicitante de la investigación sobre la procedencia de declaratoria de alerta de violencia de género, en un plazo no mayor a treinta días naturales, contados a partir de la fecha en que se tenga por aceptada la radicación de la solicitud, por parte de la Secretaría Ejecutiva.
-
-Cuando haya sido declarada improcedente una solicitud, se garantizará el derecho de audiencia. No podrá presentarse una nueva solicitud por los mismos hechos, sin que hubieran transcurrido, por lo menos seis meses.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-Una vez admitida la solicitud de investigación sobre la procedencia de declaratoria de alerta de violencia de género, la Secretaría Ejecutiva convocará al Sistema a sesión extraordinaria, para que éste resuelva en definitiva si procede o no iniciar la investigación solicitada.
+Admitida la solicitud, la Secretaría Ejecutiva lo hará del conocimiento del Sistema, y coordinará y realizará las acciones necesarias para la conformación de un grupo de trabajo a efecto de estudiar y analizar la situación que guarda el territorio sobre el que se señala que existe violación a los Derechos Humanos de las Mujeres, ya sea por violencia feminicida o agravio comparado, a fin de determinar si los hechos narrados en la solicitud actualizan alguno de los supuestos establecidos en el artículo 24 de la Ley.
 
-De ser procedente la solicitud, el Sistema conformará un grupo interinstitucional y multidisciplinario para el estudio y análisis de la posible emisión de alerta de violencia de género contra las mujeres.
+Dicho grupo se reunirá en el término de cinco días hábiles, contados a partir del día siguiente de admitida la solicitud.
 
-Asimismo, en términos de los artículos 40, 41, fracción IX y 49, fracciones III y XX de la Ley, hará del conocimiento del Ejecutivo Local correspondiente, el contenido de la solicitud de investigación sobre la procedencia de declaratoria de alerta de violencia de género, y pedirá un informe sobre los actos que se narran en dicha solicitud, señalando un plazo perentorio de quince días hábiles. El Ejecutivo Local, en adición al informe, podrá presentar todos los medios de prueba pertinentes, a fin de demostrar las afirmaciones que, en su caso, contenga su informe.
+El grupo de trabajo se conformará de la siguiente manera:
+
+I. Una persona representante del Instituto Nacional de las Mujeres, quien coordinará el grupo;
+
+II. Una persona representante de la Comisión Nacional;
+
+III. Una persona representante de la Comisión Nacional de los Derechos Humanos;
+
+IV. Dos personas representantes de una institución académica o de investigación especializada en Violencia contra las Mujeres ubicada en el territorio donde se señala la violencia feminicida o agravio comparado;
+
+V. Dos personas representantes de una institución académica o de investigación de carácter nacional especializada en Violencia contra las Mujeres, y
+
+VI. Una persona representante del Mecanismo para el adelanto de las mujeres de la entidad de que se trate.
+
+Para efectos de las fracciones III y VI del párrafo anterior deberá mediar la aceptación por escrito de dichos representantes para integrarse al grupo de trabajo.
+
+Las instituciones académicas o de investigación referidas en las fracciones IV y V de este artículo, podrán ser públicas o privadas y deberán estar incorporadas a la Secretaría de Educación Pública o a alguna institución de educación superior pública, contar con conocimiento y trabajo relevante sobre el tema de Violencia contra las Mujeres, y con experiencia de por lo menos dos años en la atención y prevención de la Violencia contra las Mujeres en la entidad federativa de la que se trate.
+
+El grupo de trabajo podrá invitar al organismo de protección de los derechos humanos de la entidad federativa que corresponda, así como a expertos independientes que por su experiencia puedan colaborar con el estudio, análisis y conclusiones.
+
+Por acuerdo del grupo de trabajo se podrán invitar como observadores a organismos internacionales en materia de derechos humanos.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 36 Bis.
+
+Para la realización del estudio y análisis a que se refiere el artículo anterior, el grupo de trabajo contará con treinta días naturales contados a partir del día en que se reúnan por primera vez para integrar y elaborar las conclusiones correspondientes, para lo cual podrá:
+
+I. Solicitar, a través de la Comisión Nacional, a las autoridades federales, locales y municipales todo tipo de información y documentación que tengan relación con los hechos de Violencia contra las Mujeres que se afirman en la solicitud;
+
+II. Solicitar la colaboración de las personas físicas o morales, que resulten necesarias, a fin de que expongan los hechos o datos que les consten;
+
+III. Solicitar a la Secretaría de Gobernación, por conducto de la Comisión Nacional, para que en un plazo no mayor a tres días naturales analice la posibilidad de implementar, en coordinación con las autoridades federales, locales o municipales que corresponda, las medidas provisionales de seguridad y justicia necesarias que, en su caso procedan, a fin de evitar que se continúen dando actos de Violencia contra las Mujeres en un territorio determinado. Una vez aceptadas las medidas provisionales por parte de las autoridades correspondientes, la Comisión Nacional por conducto de la Secretaría Ejecutiva lo informará al solicitante;
+
+IV. Realizar visitas en el lugar en donde se señale la existencia de los hechos de violencia, y
+
+V. Realizar, en su caso, el estudio legislativo para determinar si existe agravio comparado, considerando los datos de procuración e impartición de justicia relacionados con la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 36 Ter.
+
+Las decisiones del grupo de trabajo se tomarán por mayoría de voto de sus integrantes. En caso de empate, la persona coordinadora del grupo tendrá el voto de calidad. Las posiciones minoritarias deberán constar en un apartado del documento para conocimiento del público interesado.
+
+Cuando el grupo de trabajo no encuentre elementos suficientes que le permitan presumir la existencia o la veracidad de los hechos que dieron lugar a la solicitud, lo hará del conocimiento de la Comisión Nacional, así como de la Secretaría Ejecutiva, para que ésta a su vez lo haga del conocimiento de las partes interesadas. No podrá presentarse una nueva solicitud por los mismos hechos, sin que hubieran transcurrido, por lo menos, tres meses.
+
+La documentación y demás información que genere el grupo de trabajo observará lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, su Reglamento y demás normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 37.
 
-El grupo interinstitucional y multidisciplinario correspondiente, una vez efectuado el estudio y análisis referido en el artículo anterior, remitirá un informe al Sistema por conducto de su Secretaría Ejecutiva. Dicho informe no podrá calificar la legalidad de lo actuado en averiguaciones previas, juicios o procedimientos de cualquier índole.
+El informe del grupo de trabajo deberá contener:
 
-Para la debida integración del informe que se remita al Sistema, se podrá solicitar a las autoridades federales y locales todo tipo de información y documentación que tenga relación con la investigación.
+I. El contexto de Violencia contra las Mujeres en el lugar donde se solicita la alerta de violencia de género;
 
-Asimismo, se podrá solicitar la colaboración de las personas físicas o morales, que resulte necesaria a fin de que manifiesten los hechos o datos que les consten.
+II. La metodología de análisis;
 
-La documentación y demás información que genere el grupo interinstitucional y multidisciplinario es confidencial en los términos de los artículos 13 y 14 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; asimismo, las personas que integren o participen en éste tienen obligación de guardar la más estricta confidencialidad sobre el expediente e información respectivos, quedando sujeto el infractor, al procedimiento de responsabilidad correspondiente.
+III. El análisis científico de los hechos e interpretación de la información, y
+
+IV. Las conclusiones que contendrán las propuestas de acciones preventivas, de seguridad y justicia para enfrentar y abatir la violencia feminicida y, en su caso, el agravio comparado.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 38.
 
-El Sistema podrá formar una comisión dictaminadora que valorará, en su conjunto, el informe y pruebas rendidas por el Ejecutivo Local, así como el informe rendido por el grupo interinstitucional y multidisciplinario.
+La coordinadora del grupo de trabajo remitirá el informe a que se refiere el artículo anterior a la Secretaría de Gobernación, a través de la Comisión Nacional, para su análisis.
 
-El Sistema acordará si ha lugar a la procedencia de emitir la declaratoria de alerta de violencia de género y, en su caso, la remitirá a la Secretaría de Gobernación para que emita la declaratoria de alerta de violencia de género y notifique la misma al titular del Poder Ejecutivo de la entidad federativa correspondiente.
+La Secretaría de Gobernación, a través de la Comisión Nacional, remitirá el informe del grupo de trabajo al titular del Poder Ejecutivo de la entidad federativa correspondiente para su conocimiento.
 
-Lo dispuesto en el párrafo anterior, queda exceptuado tratándose del acuerdo sobre la procedencia de emitir la declaratoria de alerta de violencia de género por la existencia de un agravio comparado, en cuyo caso, se estará a lo dispuesto en el artículo 39 del presente Reglamento.
+El informe a que se refiere el párrafo anterior deberá publicarse en las páginas web del Instituto Nacional de las Mujeres y de la Comisión Nacional.
+
+En caso de que el Titular del Poder Ejecutivo de la entidad federativa correspondiente considere aceptar las conclusiones contenidas en el informe del grupo de trabajo, tendrá un plazo de quince días hábiles contados a partir del día en que las recibió para informar a la Secretaría de Gobernación, a través de la Comisión Nacional, su aceptación.
+
+Transcurrido el plazo señalado en el párrafo anterior, sin que la Comisión Nacional reciba dicha aceptación, o en su caso, reciba la negativa del Titular del Poder Ejecutivo de la entidad federativa correspondiente, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo 25 de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a cinco días naturales contados a partir del vencimiento del plazo referido en el párrafo anterior.
+
+Para efectos del párrafo cuarto de este artículo, la Secretaría de Gobernación, a través de la Comisión Nacional, solicitará al Titular del Poder Ejecutivo de la entidad de que se trate, en un plazo de seis meses siguientes a la aceptación, la información necesaria sobre las acciones que están llevando a cabo para implementar las propuestas contenidas en las conclusiones del informe del grupo de trabajo. Dicha información deberá remitirse dentro de los cinco días siguientes de haber recibido la solicitud.
+
+Una vez recibida la información a que se refiere el párrafo anterior, el grupo de trabajo emitirá un dictamen sobre la implementación de las propuestas contenidas en las conclusiones del informe, el cual se remitirá a la Secretaría de Gobernación para que a través de la Comisión Nacional, determine si la entidad federativa implementó dichas propuestas.
+
+La Comisión Nacional, en coordinación con la Secretaría Ejecutiva, notificará el dictamen del grupo de trabajo a que se refiere el párrafo anterior a la organización solicitante.
+
+En caso de que el grupo de trabajo considere que no se implementaron las propuestas contenidas en las conclusiones del informe, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo 25 de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a diez días naturales contados a partir de la fecha en que se reciba la notificación del dictamen.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 38 BIS.- La declaratoria de alerta de violencia de género deberá contener lo siguiente:
+
+I. Las acciones preventivas, de seguridad y justicia para enfrentar y abatir la violencia feminicida y, en su caso, el agravio comparado;
+
+II. Las asignaciones de recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género, por parte de la entidad federativa;
+
+III. Las medidas que deberán implementarse para dar cumplimiento a la reparación del daño previsto en el artículo 26 de la Ley;
+
+IV. El territorio que abarcará las acciones y medidas a implementar, y
+
+V. El motivo de la alerta de violencia de género.
+
+Una vez emitida la declaratoria de alerta de violencia de género, el grupo de trabajo se constituirá en el grupo interinstitucional y multidisciplinario a que se refiere la fracción I del artículo 23 de la Ley.
+
+No procederá la investigación de hechos relacionados con solicitudes previamente presentadas que ya hubieran dado lugar a informes por parte del grupo de trabajo. Las solicitudes que se presenten por los mismos hechos se acumularán al expediente inicial para que la Secretaría Ejecutiva lo haga del conocimiento del grupo de trabajo.
 
 ###### ARTÍCULO 39.
 
-En caso de que el Sistema acuerde que existe un agravio comparado, el Presidente del Sistema remitirá el acuerdo a la persona en quien se encuentre depositado el Poder Ejecutivo Local correspondiente, para que en un plazo de treinta días hábiles previos a la declaratoria de alerta de violencia de género, se realice su estudio y posible aceptación de homologación o eliminación de la norma jurídica que impida el ejercicio pleno de los derechos humanos de las mujeres.
-
-Si antes del vencimiento del plazo previsto en el artículo anterior, el poder ejecutivo local acepta realizar las acciones tendentes a modificar o abrogar la legislación motivo del agravio comparado, no se emitirá la declaratoria de alerta de violencia de género y se otorgará un plazo de sesenta días hábiles para su cumplimiento.
-
-Transcurrido el término a que se refiere el párrafo que antecede, sin que se dé cabal cumplimiento a la modificación o abrogación de la norma que dio origen al agravio comparado, el Secretario de Gobernación como Presidente del Sistema emitirá sin mayor trámite la declaratoria de alerta de violencia de género correspondiente.
+(DEROGADO, D.O.F. 25 DE NOVIEMBRE DE 2013)
 
 ### CAPÍTULO II. DE LA APLICACIÓN DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 40.
 
-El otorgamiento de las órdenes de protección emergentes y preventivas se realizará con base en las disposiciones que señala la Ley, por el plazo que sea procedente, debiendo ser emitidas por autoridad competente.
+El otorgamiento de las órdenes de protección, emergentes y preventivas, se realizará de acuerdo a las siguientes disposiciones:
 
-Las órdenes de protección podrán ser solicitadas en forma verbal o escrita por la afectada de violencia y, excepcionalmente, por cualquier persona, ante un estado de riesgo o cualquier otra circunstancia que impida a la mujer afectada hacerlo personalmente. Dicha solicitud deberá ser ratificada por la afectada en un término de cinco días naturales posteriores al momento en que haya cesado el estado de riesgo o el impedimento en su actuación directa.
+I. Las dependencias y entidades de la Administración Pública Federal que conozcan de hechos de Violencia contra las Mujeres tendrán la obligación de salvaguardar la vida e integridad de la Víctima, informarle sobre la existencia de órdenes de protección, canalizar a la Víctima a la instancia competente, dar seguimiento al caso hasta el momento en que se envíe a la instancia correspondiente y documentarlo;
 
-La excepción a que se refiere el párrafo que antecede no será aplicable en lo referente a las órdenes de protección de naturaleza civil.
+II. Se podrán expedir nuevas órdenes de protección hasta que cese el riesgo hacia la Víctima;
 
-Transcurrida la vigencia de la orden de protección de emergencia y preventiva a que hace alusión el artículo 28 de la Ley, se podrán expedir nuevas órdenes si continúa el riesgo que ponga en peligro la seguridad de la víctima que originó el pedimento.
+III. La solicitud podrá realizarse en forma verbal o escrita por la Víctima o por cualquier persona que tenga conocimiento de un Estado de Riesgo o cualquier otra circunstancia que genere Violencia contra las Mujeres. También podrán ser representadas legalmente o cuando así lo requieran por su abogado, agente del Ministerio Público de la Federación o cualquier servidor público especialista en Perspectiva de Género. La valoración de las órdenes se hará de conformidad con el artículo 31 de la Ley;
+
+IV. Cuando la Víctima la solicite, no será necesaria la presentación de pruebas para acreditar los hechos de violencia, y
+
+V. La autoridad jurisdiccional competente podrá considerar para otorgar las órdenes de protección, si de la declaración o entrevista de la Víctima o solicitante se desprende alguno o algunos de los siguientes supuestos:
+
+a) Ataques previos con riesgo mortal, amenazas de muerte, o el temor de la Víctima a que el Agresor la prive de la vida;
+
+b) Que la Víctima esté aislada o retenida por el Agresor contra su voluntad o lo haya estado previamente;
+
+c) Aumento de la frecuencia o gravedad de la violencia;
+
+d) Que la Víctima, como consecuencia de las agresiones sufridas, haya o esté recibiendo atención médica;
+
+e) Intento o amenazas de suicidio o cualquier otra forma de medida intimidatoria por parte del Agresor;
+
+f) Que el Agresor tenga una acusación o condena previa por delitos contra la integridad física o sexual de personas; que cuente con antecedentes de órdenes de protección dictadas en su contra; tenga antecedentes de violencia que impliquen una conducta agresiva o de peligrosidad; o que tenga conocimiento en el uso de armas, acceso a ellas o porte alguna;
+
+g) Cuando existan antecedentes de abuso físico o sexual del agresor contra ascendientes, descendientes o familiares de cualquier grado de la Víctima, o
+
+h) Que exista o haya existido amenaza por parte del Agresor de llevarse a los hijos de la Víctima por cualquier circunstancia.
+
+Para los efectos de este artículo, debe tomarse en cuenta, al momento de evaluar el riesgo, si existe recurrencia de violencia y la posibilidad para la Víctima de salir de ésta.
+
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
-En congruencia con los artículos 6 y 27 de la Ley, para la emisión de las órdenes de protección emergentes y preventivas se observará lo siguiente:
+Las autoridades de seguridad pública federal, ante un hecho de violencia flagrante en contra de las mujeres, en observancia al principio de máxima protección estarán obligadas a:
 
-I. El tiempo que ha durado el ejercicio de la violencia;
+I. Intervenir de manera inmediata y eficaz;
 
-II. Los antecedentes violentos del agresor;
+II. Hacer cesar el ejercicio de la violencia en contra de las Víctimas, y
 
-III. La gravedad del daño causado por la violencia;
+III. Ingresar al domicilio donde se esté perpetrando el acto de violencia ante peligro inmediato e inminente de muerte o lesiones a la Víctima.
 
-IV. La magnitud del daño causado, y
+En el supuesto señalado en el párrafo anterior, las autoridades de seguridad pública federal que intervengan, deberán prestar el auxilio inmediato que requiera la Víctima y canalizarla a las autoridades competentes para su atención integral.
 
-V. Cualquier otra información relevante de la condición de la víctima y del agresor.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-Independientemente de los procedimientos que correspondan, toda orden de protección que se emita, deberá constar en documento por separado, que contendrá la fecha, hora, lugar, vigencia, nombre de la persona a quien protege y en contra de quien se expide, tipo de orden, autoridad que la emite, haciéndose del conocimiento de las autoridades competentes y encargadas de auxiliar en su cumplimiento.
+En ningún supuesto la Víctima será quien lleve a cabo la notificación de órdenes de protección al Agresor.
 
-El Sistema establecerá la coordinación necesaria con todas las entidades federativas, en las que, la legislación civil contemple la existencia del oficial o asistente de víctimas menores de edad, para efecto de que auxilien a los de edades de doce años y menores de dieciocho años, de conformidad con lo dispuesto por el artículo 34 de la Ley.
+Las instancias policiales federales deberán brindar el apoyo necesario a las autoridades competentes que emitan órdenes de protección.
+
+Cuando se le notifique a las instancias policiales federales una orden de protección emitida por la autoridad competente deberá llevar un registro y prestar auxilio a la Víctima de manera inmediata.
+
+En caso de que la persona señalada como Agresor tenga más de doce y menos de dieciocho años de edad quedará sujeta a las leyes en la materia, y se le hará saber la responsabilidad en que puede incurrir si persiste en su conducta.
+
+En caso de que la Víctima o el Agresor no hablen el idioma español, tendrán derecho a contar en todo momento con la asistencia de un perito intérprete o traductor.
+
+> <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 42 Bis.
+
+Los Mecanismos para el adelanto de las mujeres, a través de sus Sistemas estatales para prevenir, sancionar y erradicar la violencia contra las mujeres, podrán articular las acciones correspondientes para la coordinación de las autoridades competentes para la emisión, ejecución y cumplimiento de las órdenes de protección.
 
 ## TÍTULO CUARTO
 
@@ -411,9 +667,11 @@ El Sistema establecerá la coordinación necesaria con todas las entidades feder
 
 El Sistema contará con Comisiones por cada uno de los Ejes de Acción, para llevar un puntual seguimiento de los mismos y estar en aptitud de implementar las políticas públicas conducentes y favorecer la ejecución del programa integral. Las instituciones que conformen dichas comisiones deberán participar de acuerdo con las atribuciones conferidas por la Ley y este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 44.
 
-Corresponde al Sistema, por medio de la Secretaría Ejecutiva, la emisión de lineamientos normativos y metodológicos para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en las modalidades y tipos establecidos en la Ley.
+Corresponde al Sistema, a través de su Presidencia, la emisión de lineamientos normativos y metodológicos para prevenir, atender, sancionar y erradicar la Violencia contra las Mujeres en las Modalidades y tipos establecidos en la Ley. Para la emisión de lineamientos metodológicos, la Presidencia se coordinará con la Secretaría Ejecutiva.
 
 ###### ARTÍCULO 45.
 
@@ -439,9 +697,13 @@ Los integrantes del Sistema proporcionarán la información necesaria para mante
 
 ### CAPÍTULO II. DEL PROGRAMA
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 48.
 
-El Programa desarrollará las acciones que señala la Ley, observando el Plan Nacional de Desarrollo y las disposiciones de la Ley de Planeación.
+El Programa será elaborado de manera sexenal y desarrollará las acciones que señala la Ley, observando el Plan Nacional de Desarrollo y las disposiciones de la Ley de Planeación.
+
+El Diagnóstico Nacional a que se refiere el artículo 42, fracción XII, de la Ley se deberá de llevar a cabo de manera sexenal, durante el año en que termina su encargo el Ejecutivo Federal.
 
 ###### ARTÍCULO 49.
 
@@ -483,31 +745,43 @@ II. Determinar los recursos humanos y financieros para el desarrollo del Program
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE GOBERNACIÓN
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 54.
 
-La Secretaría de Gobernación, en su calidad de Presidente del Sistema, tendrá las siguientes atribuciones:
+La Secretaría de Gobernación tendrá las siguientes atribuciones:
 
-I. Dar seguimiento al Programa que elabore con el Sistema, independientemente de la evaluación periódica del mismo;
+I. Celebrar convenios de coordinación para fortalecer la operación del Sistema entre las dependencias y entidades de la Administración Pública Federal que lo conforman y los Mecanismos para el adelanto de las mujeres en las entidades federativas;
 
-II. Supervisar la operación del Sistema, a efecto de informar anualmente al H. Congreso de la Unión, de los avances del Programa;
+II. Coordinar las acciones de promoción y defensa de los Derechos Humanos de las Mujeres que señala el Programa;
 
-III. Difundir los resultados de la Política Nacional Integral contra la violencia, incluyendo las declaratorias de alerta de violencia de género que se hayan emitido y los agravios comparados tramitados;
+III. Dar seguimiento al Programa que elabore con el Sistema, independientemente de la evaluación del mismo;
 
-IV. Actualizar los supuestos de vigilancia de los medios de radio y televisión y la consecuente sanción que señala la Ley, y
+IV. Supervisar la operación del Sistema, a efecto de informar anualmente al Congreso de la Unión, de los avances del Programa;
 
-V. Coordinar a través de la Secretaría Ejecutiva del Sistema:
+V. Difundir los resultados de la Política Nacional Integral, así como las declaratorias de alerta de violencia de género que se hayan emitido;
 
-a) La integración del grupo interinstitucional y multidisciplinario para el estudio, análisis y seguimiento de la implementación de la alerta de violencia de género;
+VI. Vigilar que los medios de comunicación favorezcan la erradicación de la Violencia contra las Mujeres y sancionar a dichos medios que no cumplan con esta obligación en términos de la Ley;
 
-b) La recepción y procesamiento de los indicadores para las investigaciones sobre la violencia de género, aportadas por los integrantes del Sistema, con base en los ejes de acción respectivos;
+VII. Dar seguimiento a los trabajos del grupo interinstitucional y multidisciplinario, así como la implementación de la declaratoria de la alerta de violencia de género;
 
-c) La coordinación de los ejes de promoción y defensa de los derechos humanos que señala el Programa;
+VIII. Elaborar y ejecutar políticas y programas para prevenir la comisión de delitos vinculados con la Violencia contra las Mujeres, en el ámbito de su competencia;
 
-d) La celebración de convenios de coordinación para reforzar la operación del Sistema entre las dependencias que lo conforman y aquéllas que con motivo de la Ley, establezcan o hayan establecido las entidades federativas;
+IX. Diseñar y aplicar medidas de readaptación social con Perspectiva de Género que permitan prevenir la Violencia contra las Mujeres, en congruencia con el Programa;
 
-e) La identificación y diseño de las estrategias por cada eje de acción, a efecto de su incorporación al Programa, y
+X. Celebrar instrumentos de coordinación con instituciones de salud para el tratamiento de sentenciados por delitos vinculados con Violencia contra las Mujeres;
 
-f) Efectuar el diagnóstico nacional de la violencia de género con los ejes de acción que señala la Ley, a partir de la información integrada en el Banco Nacional.
+XI. Administrar y operar el Banco Nacional;
+
+XII. Emitir los lineamientos necesarios para determinar e integrar la información que contendrá el Banco Nacional;
+
+XIII. Proporcionar la información del Banco Nacional a los particulares, en términos de la Ley Federal de Transparencia y Acceso a Información Pública Gubernamental, su Reglamento y demás disposiciones jurídicas aplicables, y
+
+XIV. Administrar la página web en la que se registren los datos generales de las mujeres y niñas reportadas como desaparecidas.
+
+Las atribuciones a que se refieren las fracciones anteriores se ejercerán por las áreas competentes de la Secretaría de Gobernación.
+
+Además de las atribuciones mencionadas en las fracciones anteriores, la Secretaría de Gobernación representará al Sistema en los juicios de amparo en los que aquél sea parte, para lo cual, podrá solicitar la información necesaria y, en general, auxiliarse en todo momento de los integrantes del Sistema.
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
@@ -529,23 +803,13 @@ VI. Colaborar en el fortalecimiento y ampliación de acciones de las instancias 
 
 VII. Dar seguimiento a las acciones del Programa, en coordinación con los integrantes del Sistema, y efectuar su supervisión y evaluación en el ámbito de su competencia.
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN CUARTA
 
 ###### ARTÍCULO 56.
 
-La Secretaría de Seguridad Pública, en su calidad de Integrante del Sistema, tendrá las siguientes atribuciones:
-
-I. Elaborar y ejecutar políticas y programas para prevenir la comisión de delitos vinculados con la violencia contra las mujeres, en el ámbito de su competencia;
-
-II. Diseñar y aplicar medidas de readaptación social con perspectiva de género que permitan prevenir la violencia contra las mujeres, en congruencia con el Programa;
-
-III. Celebrar instrumentos de coordinación con las instituciones de salud y educativas para el tratamiento de sentenciados por delitos vinculados con violencia contra las mujeres;
-
-IV. Administrar y operar el Banco Nacional;
-
-V. Emitir los lineamientos necesarios para determinar e integrar la información que contendrá el Banco Nacional, y
-
-VI. Proporcionar la información del Banco Nacional a los particulares, en términos de la Ley Federal de Transparencia y Acceso a Información Pública Gubernamental y de los lineamientos referidos en la fracción anterior.
+(DEROGADO, D.O.F. 25 DE NOVIEMBRE DE 2013)
 
 #### SECCIÓN QUINTA. DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
@@ -611,25 +875,29 @@ VIII. Informar a las autoridades competentes sobre los hechos relacionados con v
 
 #### SECCIÓN OCTAVA. DEL INSTITUTO NACIONAL DE LAS MUJERES
 
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
 #### SECCIÓN NOVENA. DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
 ###### ARTÍCULO 60.
 
-El Instituto Nacional de las Mujeres, en su calidad de Secretaría Ejecutiva del Sistema, tendrá las siguientes atribuciones:
+El Instituto Nacional de las Mujeres, en su calidad de Secretaría Ejecutiva, tendrá las siguientes atribuciones:
 
-I. Integrar las investigaciones realizadas por dependencias de la Administración Pública Federal, sobre el origen, características y consecuencias de la violencia de género, así como la evaluación de los ejes de acción y la difusión de los resultados respectivos;
+I. Integrar el grupo de trabajo a que se refiere el artículo 36 del presente Reglamento;
 
-II. Proponer a los integrantes del Sistema, los Modelos, programas, medidas y estrategias, así como las normas técnicas respectivas en torno a la violencia de género y operación de los refugios y centros de atención para víctimas;
+II. Integrar las investigaciones promovidas por dependencias de la Administración Pública Federal, sobre las causas, características y consecuencias de la violencia de género, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los Derechos Humanos de las Mujeres en las entidades federativas o municipios;
 
-III. Promover la atención especializada y profesional de las diversas modalidades de violencia, con base en los principios y lineamientos que la Ley y el Reglamento determinen;
+III. Proponer a los integrantes del Sistema, en coordinación con la Comisión Nacional, los Modelos, programas, medidas y estrategias, así como las normas técnicas respectivas en torno a la violencia de género y operación de los refugios y centros de atención para víctimas;
 
-IV. Coadyuvar con las instancias respectivas a garantizar el derecho de las mujeres a una vida libre de violencia, y difundir los derechos humanos de las mujeres;
+IV. Promover la atención especializada y profesional de las diversas Modalidades de Violencia, con base en los principios y lineamientos que la Ley y el presente Reglamento determinen;
 
-V. Realizar el inventario de los Modelos y los registros que prevé el presente Reglamento;
+V. Coadyuvar con las instancias respectivas a garantizar el derecho de las mujeres a una vida libre de violencia, y difundir los Derechos Humanos de las Mujeres;
 
-VI. Impulsar la armonización de los programas nacionales e integrales sobre violencia de género, igualdad entre mujeres y hombres y el del propio Instituto, a efecto de articular la Política Nacional Integral, y
+VI. Realizar un inventario de los Modelos que prevé el presente Reglamento;
 
-VII. Las demás que establezca la Ley, la Ley del Instituto Nacional de las Mujeres, el presente Reglamento y demás disposiciones administrativas aplicables.
+VII. Impulsar, en coordinación con la Comisión Nacional, la armonización de los programas nacionales e integrales sobre violencia de género, igualdad entre mujeres y hombres y el del propio Instituto, a efecto de articular la Política Nacional Integral, y
+
+VIII. Las demás que establezcan la Ley, la Ley del Instituto Nacional de las Mujeres, el presente Reglamento y demás disposiciones administrativas aplicables.
 
 #### SECCIÓN DÉCIMA. DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -687,7 +955,9 @@ El Sistema promoverá, por conducto de los Mecanismos para el adelanto de las mu
 
 Los refugios para mujeres en situación de violencia familiar serán creados de acuerdo a un Modelo establecido por el Instituto Nacional de las Mujeres en su carácter de Secretaría Ejecutiva del Sistema.
 
-Los Modelos para el funcionamiento y operación de los refugios, establecerán un marco de referencia para la operación, diseño, implementación, seguimiento y evaluación de los refugios para mujeres, sus hijos e hijas en situación de violencia familiar extrema, con una perspectiva de género que garantice el acceso a un servicio de atención integral, en términos de los artículos 8, fracción VI y XIII, 48, fracción IV, 50, fracción VII, 51, fracción IV, 52, fracción VI y VIII, 54, 55, 56, 57, 58 y 59 de la Ley.
+> <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
+
+Los Modelos para el funcionamiento y operación de los refugios, establecerán un marco de referencia para la operación, diseño, implementación, seguimiento y evaluación de los refugios para mujeres, sus hijos e hijas en situación de violencia familiar, con una Perspectiva de Género que garantice el acceso a un servicio de atención integral, en términos de los artículos 8, fracción VI; 48, fracción IV; 50, fracción VII; 51, fracción IV; 52, fracciones VI y VIII; 54; 55; 56; 57; 58 y 59 de la Ley.
 
 ## TRANSITORIOS
 
@@ -696,3 +966,23 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los programas y la implementación de las acciones que se deriven del presente Reglamento, podrán contar con una previa suficiencia presupuestaria autorizada por la Secretaría de Hacienda y Crédito Público, en los términos que señalan los artículos 39 y sexto transitorio de la Ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de marzo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.- El Secretario de Desarrollo Social, Ernesto Javier Cordero Arroyo.- Rúbrica.- La Secretaria de Educación Pública, Josefina Eugenia Vázquez Mota.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los programas y la implementación de las acciones que se deriven del presente Decreto, se llevarán a cabo en los términos del artículo 39 y del sexto transitorio de la Ley.
+
+TERCERO.- Los Modelos a que se refieren los artículos 4, 10, 15, 23, 25 y demás relativos del presente Decreto, se implementarán dentro de los ocho meses siguientes a partir de la entrada en vigor de este ordenamiento.
+
+CUARTO.- Las disposiciones contenidas en el artículo 8 del presente Decreto entrarán en vigor un año posterior a la implementación de los Modelos.
+
+QUINTO.- Los Lineamientos a los que hace referencia el artículo 54, fracción XII del presente Decreto deberán ser revisados y, en su caso, actualizados en un plazo no mayor a sesenta días hábiles, a partir de la entrada en vigor de este ordenamiento.
+
+SEXTO.- Las acciones que lleven a cabo las dependencias y entidades de la Administración Pública Federal en cumplimiento del presente Decreto, se sujetarán a los recursos presupuestarios aprobados para tales fines.
+
+SÉPTIMO.- La emisión de lineamientos normativos y metodológicos para prevenir, atender, sancionar y erradicar la violencia contra las mujeres a que hace referencia el artículo 44 del presente Decreto, deberán ser emitidos en un plazo de noventa días naturales a partir de la entrada en vigor de este Decreto.
+
+OCTAVO.- Los procedimientos y asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente Decreto se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
