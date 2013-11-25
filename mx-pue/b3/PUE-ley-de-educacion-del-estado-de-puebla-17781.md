@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2013-01-07"
+last_updated: "2013-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -205,13 +203,17 @@ XXI.- Generar canales permanentes de participación en los que se involucre a la
 
 XXII.- Fomentar dentro del proceso enseñanza-aprendizaje el desarrollo del pensamiento crítico, creativo, así como actitudes de iniciativa y autoformación;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
 
-XXIII.- Fomentar la equidad entre los géneros; y
+XXIII.- Fomentar la igualdad entre los géneros;
 
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 XXIV.- Promover entre los educandos el consumo de alimentos con alto valor nutricional, así como, el desarrollo de hábitos que favorezcan su salud y mejoren su calidad de vida.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
+XXV.- Realizar las actividades de promoción e impulso que permitan ampliar la calidad y la cobertura de la educación inicial, para alcanzar los propósitos de atención a los niños desde la edad temprana.
 
 ###### ARTÍCULO 9.
 
@@ -619,9 +621,11 @@ Para atender las necesidades educativas específicas de la población, la Autori
 
 #### SECCIÓN I. DE LA EDUCACIÓN INICIAL
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 49.
 
-La educación inicial tiene por objeto el desarrollo de las capacidades físicas, cognoscitivas, afectivas y de sociabilidad de niños y niñas menores de cuatro años de edad. La Autoridad Educativa Estatal, tomando en cuenta la vinculación estrecha que debe darse en esta etapa formativa con la educación familiar, realizará programas especiales de orientación conjunta dirigidos a padres de familia y a todos los involucrados en esta etapa de proceso educativo, a fin de cumplir debidamente con los fines previstos en el artículo 8o. de esta Ley.
+La Educación Inicial tiene por objeto el desarrollo de las capacidades físicas, cognoscitivas, afectivas y de sociabilidad de niños y niñas menores de tres años de edad. La Autoridad Educativa Estatal, tomando en cuenta la vinculación estrecha que debe darse en esta etapa formativa con la educación familiar, realizará programas especiales de orientación conjunta dirigidos a padres de familia y a todos los involucrados en esta etapa de proceso educativo, a fin de cumplir debidamente con los fines previstos en el artículo 8 de esta Ley y de consonancia con lo establecido en la Ley de Educación Inicial del Estado Libre y Soberano de Puebla.
 
 #### SECCIÓN II. DE LA EDUCACIÓN PREESCOLAR
 
@@ -1454,3 +1458,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 > <small>(F. DE E., P.O. 7 DE ENERO DE 2013)</small>
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación Pública del Estado, tendrá un plazo de ciento ochenta días para establecer la normatividad administrativa que resulte necesaria para la aplicación de esta Ley.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
