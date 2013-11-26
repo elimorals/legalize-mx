@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2009-10-27"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -47,13 +47,53 @@ El transporte vehicular de personas y bienes, y el uso de las vías públicas de
 
 El transporte vehicular de personas y bienes está sujeto a regímenes de autorización que esta Ley, y otros cuerpos legales, establece. En el caso del transporte como servicio público esos regímenes asegurarán la satisfacción oportuna, eficiente y equitativa de las necesidades colectivas, y una utilidad razonable para los transportistas; o bien la satisfacción de necesidades particulares sin perjuicio del interés colectivo.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 3o.
 
-El transporte de bienes y personas se divide en público y particular.
+Para efectos de la presente Ley se entenderá por:
 
-El servicio público de transporte es el que se presta de manera regular y uniforme a un tercero, mediante el pago de tarifas autorizadas y mediante concesión o permiso. El servicio público de transporte puede ser de pasajeros, de bienes o mixto.
+I. Carril Confinado: El destinado para uso de los Vehículos de Transporte Masivo que opera en el Sistema Integral de Transporte;
 
-El servicio de transporte privado o particular es el que se presta para satisfacer necesidades del permisionario conexas a su actividad y sin estipendio por concepto de pasaje o flete. Para efectuar este tipo de transporte se requiere de permiso.
+II. Centro de Control: El elemento principal del Sistema de Despacho, desde donde se centralizarán todas las comunicaciones y se procesarán y almacenarán todos los datos recibidos para el control del Sistema de Despacho y del Sistema de Recaudo;
+
+III. Concesión: La autorización para prestar el servicio público de transporte. Cuando la autorización sea temporal no mayor de treinta días se denominará permiso;
+
+IV. Corredor: En su conjunto a la o las Rutas Troncales, a las Rutas Alimentadoras y, en su caso, a las Rutas Complementarias;
+
+V. Estaciones: El lugar exclusivo para realizar obligatoriamente el ascenso y descenso de pasajeros de los Vehículos de Transporte Masivo sobre el Corredor;
+
+VI. Infraestructura: Las instalaciones necesarias para la correcta prestación del Servicio Público de Transporte Masivo de Pasajeros, de manera enunciativa, más no limitativa: Estaciones ubicadas a lo largo del Corredor con Terminales en su origen y destino con paradas predeterminadas para el ascenso y descenso de pasajeros, Paraderos y/o Patios y Talleres;
+
+VII. Organismo: Los organismos públicos descentralizados que se constituyan para administrar y regular técnicamente la operación del Transporte Masivo.
+
+VIII. Paraderos: El lugar exclusivo para realizar obligatoriamente el ascenso y descenso de pasajeros de los Vehículos de Transporte Masivo sobre las Rutas Alimentadoras;
+
+IX. Ruta Alimentadora: La que moviliza pasajeros de las áreas periféricas y/o de baja densidad de y hacia los Paraderos, Terminales y Estaciones de la Ruta Troncal;
+
+X. Ruta Complementaria: El Servicio de Transporte Público que se requiera integrar a un Corredor con la finalidad de darle viabilidad operativa;
+
+XI. Ruta Troncal: El Servicio Público de Transporte Masivo que es prestado en una vialidad con carriles específicos, preferentes o confinados total o parcialmente para el transporte público masivo;
+
+XII. Servicio Público de Transporte: El servicio de transporte que se presta de manera regular y uniforme a un tercero, mediante el pago de tarifas autorizadas y mediante concesión o permiso. El servicio público de transporte puede ser de pasajeros, de bienes o mixto;
+
+XIII. Servicio Público de Transporte Masivo de Pasajeros: El servicio de transporte que se presta como un Sistema Integral de Transporte en Vías Públicas específicas, preferentes o confinadas, con Vehículos de Transporte Masivo y con tecnologías para su control, operación y cobro de tarifas, así como en su caso, en las Rutas Alimentadoras y Complementarias que permitan su adecuada operación;
+
+XIV. Servicio de Transporte Privado o Particular: El servicio de transporte que se presta para satisfacer necesidades del permisionario conexas a su actividad y sin estipendio por concepto de pasaje o flete. Para efectuar este tipo de transporte se requiere de permiso;
+
+XV. Sistema de Despacho: El sistema que controla las frecuencias de paso y/o operación regulada de manera exclusiva en una vialidad con carriles preferentes o total o parcialmente confinados para el Servicio de Transporte Público Masivo;
+
+XVI. Sistema de Recaudo: El conjunto de bienes tangibles e intangibles incluyendo los mecanismos, procesos y procedimientos que permiten la identificación, captura, almacenamiento, comunicación, procesamiento y generación de informes de operación relativos al Servicio Público de Transporte Masivo; así como distribuir y vender la Tarjeta Multimodal, y recolectar el dinero por la tarifa que los usuarios pagan;
+
+XVII. Terminales: Las estaciones ubicadas en el origen y destino de Corredor, cada uno de los Corredores que forman parte del Sistema Integral de Transporte Público Masivo;
+
+XVIII. Sistema Integral de Transporte Masivo: Comprende en su conjunto a todos y cada uno de los Corredores en donde se preste esta modalidad de servicio;
+
+XIX. Vehículo: Todo mueble que mediante mecanismos de combustión interna, tracción animal o humana se destine a transitar por las vías públicas;
+
+XX. Vehículos de Transporte Masivo: El vehículo automotor por medio de cual se presta el servicio público de transporte masivo ya sea en la Ruta Troncal, las Rutas Alimentadoras o en las Rutas Complementarias; y
+
+XXI. Vías Públicas: Las carreteras y caminos vecinales, calles, avenidas y toda área del dominio público y de uso común, destinados al tránsito de vehículos, que se encuentren dentro de los límites del Estado y que no sean de jurisdicción federal según la Ley de Vías Generales de Comunicación.
 
 ###### ARTICULO 4o.
 
@@ -61,17 +101,23 @@ La prestación del servicio público de transporte de personas o bienes, corresp
 
 ###### ARTICULO 5o.
 
-Para los efectos de esta Ley se consideran vías públicas las carreteras y caminos vecinales, calles, avenidas y toda área del dominio público y de uso común, destinados al tránsito de vehículos, que se encuentren dentro de los límites del Estado y que no sean de jurisdicción federal según la Ley de Vías Generales de Comunicación.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 6o.
 
-Se entiende por vehículo todo mueble que mediante mecanismos de combustión interna, tracción animal o humana se destine a transitar por las vías públicas.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2013)
 
 ###### ARTICULO 7o.
 
-Para los efectos de esta Ley se denomina concesión a la autorización para prestar el servicio público de transporte. Cuando la autorización sea temporal no mayor de treinta días se denominará permiso.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 7o
+
+BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionarios y permisionarios de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, el Ejecutivo Estatal podrá autorizar al titular de la Comisión Técnica de Transporte y Vialidad para celebrar convenios con los concesionarios y permisionarios, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
+
+Los organismos podrán celebrar dichos convenios, previa autorización de la Comisión Técnica de Transporte y Vialidad.
 
 ###### ARTICULO 7
 
@@ -79,27 +125,27 @@ BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionar
 
 ### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE Y VIALIDAD
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 8o.
 
-Son Autoridades en materia de Transporte:
+Son autoridades en materia de transporte y vialidad:
 
-I.- El Gobernador del Estado;
+I. El Gobernador del Estado;
 
-II.- El Secretaría General de Gobierno;
+II. El Secretario General de Gobierno;
 
-III.- La Secretaría de Finanzas y Administración.
+III. El Secretario de Finanzas y Administración;
 
-IV.- El Consejo Técnico de Transporte y Vialidad;
+IV. El Consejo Técnico de Transporte y Vialidad;
 
-V.- El Director;
+V. El Director General de la Comisión Técnica de Transporte y Vialidad;
 
-VI.- Los Delegados Regionales;
+VI. Los Delegados Regionales;
 
-VII.- Los Inspectores de Transporte y Vialidad, y
+VII. Los Inspectores de Transporte y Vialidad; y
 
-VIII.- El Director General de Tránsito del Estado.
+VIII. Director General de Tránsito, Caminos, Puertos y Aeropuertos del Estado.
 
 ###### ARTICULO 9o.
 
@@ -119,7 +165,9 @@ I. Ejercer las facultades que en materia de transporte y vialidad confiere la Le
 
 II. Establecer las normas técnicas y demás disposiciones que rijan la organización, funcionamiento y prestación del servicio público de transporte, y vigilar su cumplimiento;
 
-III. Otorgar concesiones, permisos y todo tipo de autorizaciones en materia de transporte que sean de la jurisdicción del Estado;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+III. Otorgar y revocar concesiones, permisos y todo tipo de autorizaciones en materia de transporte que sean de la jurisdicción del Estado; así como otorgar y revocar las concesiones y contratos para el Sistema de Recaudo, Sistema de Despacho y/o Centro de Control.
 
 IV. Realizar visitas periódicas de inspección, auditoría técnica, vigilancia y supervisión tendientes a asegurar la prestación eficiente, oportuna y social del servicio público;
 
@@ -131,27 +179,69 @@ VII. Propiciar la formación de empresas del sector social en materia de transpo
 
 VIII. Regular la vialidad de jurisdicción estatal;
 
-IX. Celebrar convenios con los Ayuntamientos para delegarles o desconcentrarles facultades;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+IX. Celebrar convenios con los Ayuntamientos u Organismos para delegarles o desconcentrarles facultades;
 
 X. Establecer Comités Consultivos de Transporte y Vialidad de carácter regional o municipal en los casos en que sea conveniente;
 
-XI. Imponer las sanciones que la presente Ley y sus disposiciones reglamentarias prevengan, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-XII. Las demás que sean necesarias para el ejercicio de las anteriores.
+XI. Imponer las sanciones que la presente Ley y sus disposiciones reglamentarias prevengan,
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XII. Llevar a cabo los procedimientos para el otorgamiento de concesiones o adjudicación de contratos para el equipamiento, operación y/o mantenimiento de los sistemas necesarios para la operación de los Corredores;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Vigilar los Corredores del Sistema Integral de Transporte Masivo de Pasajeros.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Proyectar y diseñar las Rutas Troncales y las Rutas Alimentadoras y Complementarias para cada uno de los Corredores del Sistema Integral de Transporte Masivo de Pasajeros;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XV. Autorizar y coordinar los Sistemas de Recaudo para cada Corredor del Sistema Integral de Transporte Masivo de Pasajeros;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XVI. Coadyuvar con los concesionarios y contratistas en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con el Sistema Integral de Transporte Público Masivo de Pasajeros; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XVII. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 12.
 
-La Comisión Técnica de Transporte y Vialidad se integra por un Consejo Técnico, formado por el Secretario General de Gobierno, que lo presidirá, y los Secretarios de Desarrollo Social; Finanzas y Administración; Desarrollo Urbano y Obras Públicas, Desarrollo Económico y Desarrollo Rural; así como por un Director que será designado y removido libremente por el Titular del Poder Ejecutivo.
+La Comisión Técnica de Transporte y Vialidad contará con un órgano de gobierno denominado Consejo Técnico, que estará integrado por:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
+I. El Secretario General de Gobierno, quien fungirá como presidente;
+
+II. El Secretario de Finanzas y Administración;
+
+III. El Secretario de Desarrollo Urbano y Obras Públicas;
+
+IV. El Secretario de Desarrollo Social;
+
+V. El Secretario de Desarrollo Económico, y
+
+VI.- El Secretario de Desarrollo Rural.
+
+El Director General de la Comisión Técnica de Transporte y Vialidad será nombrado y removido por el Titular del Poder Ejecutivo, mismo que podrá participar en las sesiones del Consejo con voz pero sin voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 13.
 
-El Consejo Técnico, que es el órgano de Gobierno de la Comisión Técnica de Transporte y Vialidad, tienen las facultades siguientes:
+El Consejo Técnico de la Comisión Técnica de Transporte y Vialidad tiene las facultades siguientes:
 
-I. Conocer y aprobar el Plan de Labores y el Presupuesto de Egresos de la Comisión;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+I. Conocer y aprobar los Planes de Trabajo y el Presupuesto de Egresos de la Comisión;
 
 II. Conocer y aprobar los programas de la Comisión;
 
@@ -161,15 +251,17 @@ IV. Conocer y aprobar la formación de oficinas regionales, la delegación o des
 
 V. Conocer y aprobar el establecimiento de Comités Consultivos de Transporte y Vialidad de carácter regional o municipal;
 
-VI. Designar y remover a los servidores públicos de la Comisión Técnica de Transporte y Vialidad, y (sic)
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+VI. Designar y remover a los servidores públicos de la Comisión Técnica de Transporte y Vialidad;
 
-VII. Las demás que sean necesarias para el ejercicio de las atribuciones de la Comisión Técnica de Transporte y Vialidad; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+VII. Otorgar al Director General de la Comisión Técnica de Transporte y Vialidad facultades generales para la defensa de dicho órgano, en todo tipo de juicios, así como para delegar poderes generales y/o especiales a servidores públicos subalternos o a terceras personas; y
 
-VIII. Otorgar al Director de la Comisión Técnica de Transporte y Vialidad, facultades generales para la defensa de dicha Comisión, en todo tipo de juicios, así como para delegar poderes generales y/o especiales a servidores públicos subalternos o a terceras personas, y (sic)
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Las demás que sean necesarias para el ejercicio de las facultades de la Comisión Técnica de Transporte y Vialidad.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
@@ -217,13 +309,17 @@ El Consejo Técnico, celebrará sesiones ordinarias bimensuales, pudiendo su Pre
 
 ### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 19.
 
-El Consejo Estatal Consultivo de Transporte y Vialidad será el órgano de consulta de la Comisión Técnica de Transporte y Vialidad, y se integrará por el Director de la misma, quien lo presidirá y por representantes de las organizaciones de concesionarios, y técnicos que al efecto sean designados por el Consejo Técnico.
+El Consejo Estatal Consultivo de Transporte y Vialidad será el órgano de consulta y se integrará por la Comisión Técnica de Transporte y Vialidad, cuyo titular la presidirá; así como, por las dependencias, entidades y organismos en materia de transporte público de pasajeros, y los representantes de las organizaciones de concesionarios, permisionarios y técnicos, que al efecto sean invitados.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 20.
 
-El Consejo Estatal Consultivo de Transporte y Vialidad emitirá opinión sobre los asuntos específicos que le consulte la Comisión Técnica de Transporte y Vialidad y para el mejoramiento del servicio público y la mejor atención de las necesidades colectivas.
+El Consejo Estatal Consultivo de Transporte y Vialidad emitirá opiniones y recomendaciones generales, específicas y vinculatorias para el mejoramiento del servicio público y la mejor atención de las necesidades colectivas.
 
 ###### ARTICULO 21.
 
@@ -237,11 +333,11 @@ BIS.- A fin de que los diferentes sectores de la comunidad estén conscientes de
 
 ### CAPITULO IV. DE LAS LICENCIAS
 
-> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 22.
 
-Para conducir vehículos de propulsión motorizada o eléctrica se deberá contar con licencia expedida por la Dirección General de Tránsito del Estado, en su ámbito de competencia territorial, previa la satisfacción de los requisitos que esta Ley y sus disposiciones reglamentarias establezcan.
+Para conducir vehículos de propulsión motorizada o eléctrica se deberá contar con licencia expedida por la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, en su ámbito de competencia territorial, previa la satisfacción de los requisitos que esta Ley y sus disposiciones reglamentarias establezcan.
 
 Los conductores de vehículos de propulsión humana o animal no requieren licencia.
 
@@ -271,25 +367,31 @@ V. Por las demás causas que para cada servicio se prevengan en las disposicione
 
 Las personas menores de 18 años y mayores de 16 años pueden obtener licencia para conducir únicamente los vehículos de servicio privado que determine el reglamento de esta Ley, pero además de satisfacer los requisitos del caso, deberán acreditar, mediante una carta responsiva, que cuentan con el consentimiento de quienes ejerzan la patria potestad o su tutor, siendo éstos últimos los responsables de los daños que se ocasionen.
 
-> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-La Dirección General de Tránsito del Estado, exigirá fianza o depósito, o póliza de seguro con una cobertura amplia por la cantidad del importe de cuarenta y cinco veces el salario mínimo diario vigente de la zona económica correspondiente al domicilio de la persona que ejerza la patria potestad o tutoría sobre el menor que será consignado ante la Secretaría de Finanzas y Administración para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar con el vehículo que conduzca.
+La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, exigirá fianza o depósito, o póliza de seguro con una cobertura amplia por la cantidad del importe de cuarenta y cinco veces el salario mínimo diario vigente de la zona económica correspondiente al domicilio de la persona que ejerza la patria potestad o tutoría sobre el menor que será consignado ante la Secretaría de Finanzas y Administración para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar con el vehículo que conduzca.
 
-> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTICULO 27.
+###### ARTÍCULO 27.
 
-la Dirección General de Tránsito, mediante disposiciones que se publicarán en el Periódico Oficial vigilará la vigencia de las licencias de manejo y su diseño, así como los plazos y circunstancias para su revalidación.
+La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, mediante disposiciones que se publicarán en el Periódico Oficial del Gobierno vigilará la vigencia de las licencias de manejo y su diseño así como los plazos y circunstancias para su revalidación.
 
 Las licencias de manejo que se expidan a menores de edad no podrán tener una vigencia superior a 180 días.
 
-> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTICULO 28.
+###### ARTÍCULO 28.
 
-La Secretaría de Finanzas y Administración a través de la Sub'secretaría de Ingresos, ejercerá el control en todo el territorio del Estado, de las formas que se utilicen en la expedición de licencias para conducir vehículos de motor o eléctricos, mismas que deberán estar debidamente foliadas.
+La Secretaría de Finanzas y Administración a través de la Subsecretaría de Ingresos, ejercerá el control en todo el territorio del Estado, de las formas que se utilicen en la expedición de licencias para conducir vehículos de motor o eléctricos, mismas que deberán estar debidamente foliadas.
 
-Las Direcciones Generales de Tránsito Estatal y Municipales solicitarán la impresión de formas para licencias, permisos; y todos los demás conceptos señalados en la Ley de Ingresos vigente, a la Sub'secretaría de Ingresos, la que a través del almacén de formas valoradas, llevará el registro y control de folios que sean distribuidos por las Oficinas Rentísticas tanto a la Dirección General de Tránsito como a sus Delegaciones en el Estado y Municipales.
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+El control técnico estará a cargo de la Comisión Técnica de Transporte y Vialidad.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+Las Direcciones Generales de Tránsito Estatal y Municipales solicitarán la impresión de formas para licencias, permisos; y todos los demás conceptos señalados en la Ley de Ingresos vigente, a la Subsecretaría de Ingresos, la cual llevará el registro y control de folios que sean distribuidos por las Administraciones Fiscales tanto a la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos como a sus Delegaciones en el Estado y Municipales.
 
 Asimismo, el pago de los Derechos e Impuestos Adicionales que se originen por la expedición de licencias, permisos y los demás conceptos a que hace referencia el párrafo que antecede, deberá hacerse exclusivamente en la Oficina Rentística de su Jurisdicción correspondiente.
 
@@ -357,9 +459,13 @@ Solamente se permite la emisión de gases y ruido técnicamente necesarios, deri
 
 Los vehículos que presten el servicio público de transporte en rutas o en zonas predominantemente turísticas, deberán reunir las condiciones de mantenimiento de carrocería, motor e interiores, así como de comodidad, seguridad, e imagen visual idóneos para la actividad turística, pudiendo establecerse al efecto el servicio turístico urbano en rutas específicas, según el artículo 42 de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-La Comisión Técnica de Transporte y Vialidad así como la Dirección General de Tránsito del Estado podrán suspender la circulación de los vehículos que no se ajusten a lo previsto en el párrafo anterior.
+Los Vehículos de Transporte Masivo deberán reunir las características de operación, carrocería, motor e interiores, así como de comodidad, seguridad, e imagen visual que al efecto indique la Comisión Técnica de Transporte y Vialidad.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+La Comisión Técnica de Transporte y Vialidad, así como la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado podrán suspender, dentro del ámbito de sus facultades, la circulación de los vehículos que no se ajusten a lo previsto en el párrafo anterior.
 
 ### CAPITULO VI. DEL SERVICIO PUBLICO DEL TRANSPORTE
 
@@ -385,9 +491,17 @@ I. De personas, de bienes, mixto de ruta y mixto doméstico;
 
 II. Urbano, semiurbano, foráneo y rural;
 
-III. De transporte especial, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-IV. De servicio turístico urbano.
+III. De transporte especial;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+IV. De servicio turístico urbano; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+V. Servicio masivo de pasajeros.
 
 ###### ARTICULO 43.
 
@@ -399,9 +513,17 @@ II. Foráneo en primera o segunda clase;
 
 III. Automóviles de alquiler, con capacidad vehicular de hasta cinco pasajeros;
 
-IV. Automóviles de alquiler sin servicio de chofer, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-V. Ciclomotores y motocicletas de alquiler en renta sin conductor.
+IV. Automóviles de alquiler sin servicio de chofer;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+V. Ciclomotores y motocicletas de alquiler en renta sin conductor; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+VI. Servicio masivo de pasajeros.
 
 ###### ARTICULO 44.
 
@@ -467,13 +589,325 @@ III. Los vehículos de uso privado para transportar bienes de su propiedad, y
 
 IV. El transporte de cadáveres y de servicios funerarios.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO VI BIS. DEL SISTEMA INTEGRAL DE TRANSPORTE PÚBLICO MASIVO DE PASAJEROS
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS.- El Sistema Integral de Transporte Masivo está integrado por todos y cada uno de los Corredores que se establezcan y cumplan con los siguientes componentes:
+
+I. Operación regulada y controlada a través del Sistema de Despacho y centralización de pagos a través del Sistema de Recaudo;
+
+II. Operación de Vehículos de Transporte Masivo en una Vía Pública con carriles específicos, preferentes o total o parcialmente confinados para el Servicio de Transporte Público Masivo, así como de las Rutas Alimentadoras y Rutas Complementarias; e
+
+III. Infraestructura y equipamiento necesarios para la prestación del Servicio de Transporte Público Masivo.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 1.- El Transporte Masivo constituye un servicio público cuya prestación corresponde al Gobierno del Estado, el cual podrá concesionarlo en términos del presente capítulo, a través de la Comisión Técnica de Transporte y Vialidad.
+
+Asimismo, dicha dependencia podrá operar, equipar, y dar mantenimiento al Sistema de Recaudo y Despacho, directamente o por conducto de terceros, mediante el otorgamiento de concesiones o contratos que se otorguen en términos del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 2.- Los Organismos aplicarán los descuentos establecidos en los títulos de concesión y en los contratos respectivos a los que se harán acreedores los concesionarios o contratistas por la falta, fallas o deficiencias en la prestación de servicios; la reiteración de éstas podrá implicar la aplicación de sanciones en términos de la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 3.- Cualquier usuario puede utilizar del Servicio Público de Transporte Masivo de Pasajeros previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el usuario:
+
+I. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
+
+II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquili-dad (sic), seguridad e integridad de los usuarios; y
+
+III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 4.- La Comisión Técnica de Transporte y Vialidad deberá fijar y revisar las tarifas para el Servicio Público de Transporte Masivo para cada Corredor. Las tarifas se establecerán y revisarán con base en un estudio técnico que al efecto realice dicha dependencia. El estudio en mención, deberá considerar:
+
+I. El impacto en el interés público y social;
+
+II. La zona donde habrán de prestarse los servicios;
+
+III. El equilibrio financiero de operación del servicio;
+
+IV. La clase del servicio que se preste, el grado de comodidad, la categoría del equipo y los márgenes de seguridad que debe prestar al usuario;
+
+V. Los costos diarios de operación, y los de depreciación de inversiones;
+
+VI. Los índices y precios de insumos para la adecuada operación; y
+
+VII. La utilidad razonable a que tienen derecho los concesionarios.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 5.- Las concesiones y contratos que se otorguen para el transporte masivo serán preferentemente integrales respecto de los componentes de los Corredores del Sistema Integral de Transporte Masivo, pero cuando así resulte conveniente o necesario, podrán concursarse, otorgarse y/o contratarse por separado o por etapas, si ello permite un avance más ordenado en su implementación.
+
+En los títulos de concesión o contratos se establecerán los bienes objeto de los mismos que al término de la vigencia pasarán al dominio del Estado sin costo alguno y libre de todo gravamen.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DE LAS CONCESIONES Y CONTRATOS DEL SERVICIO PÚBLICO DE TRANSPORTE MASIVO DE PASAJEROS
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 6.- Para la prestación y operación del servicio público de transporte masivo de pasajeros se requiere de concesión o contrato, otorgados por la Comisión Técnica de Transporte y Vialidad.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 7.- El servicio público de transporte masivo de pasajeros deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones y contratos obligan a sus titulares a la prestación directa del servicio.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 8.- Los concesionarios y contratistas tendrán derecho a explotar el servicio o recibir de un tercero o del Gobierno del Estado, un pago por la prestación del servicio público de transporte masivo de pasajeros, en los términos que se establezcan en los correspondientes títulos de concesión.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 9.- Las concesiones y contratos para la prestación y operación del servicio público de transporte masivo de pasajeros tendrán una vigencia de hasta 20 años en función de la amortización de las inversiones y una utilidad razonable. El plazo de las concesiones y contratos podrá ser prorrogado previo estudio que al efecto realice la Comisión Técnica de Transporte y Vialidad del cumplimiento de las obligaciones del Título de Concesión.
+
+La Comisión Técnica referida podrá otorgar otras concesiones para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros, aun cuando dichas concesiones pudieran afectar el desempeño económico de una concesión de transporte masivo otorgada con anterioridad. En ese caso, el concesionario afectado podrá solicitar a la propia Comisión medidas compensatorias, en los términos que se establezcan en los títulos correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 51 Bis 10.
+
+Las concesiones y contratos para la prestación y operación del servicio público de transporte masivo de pasajeros sólo podrán ser otorgados a personas morales, constituidas bajo las leyes mexicanas mediante solicitud por escrito que presenten a la Comisión Técnica de Transporte y Vialidad o mediante acuerdo que emita esta última.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 11.- Las solicitudes que se presenten a la Comisión Técnica de Transporte y Vialidad para la obtención de la concesión o contrato para la prestación y operación del servicio público de transporte masivo de pasajeros, deberán contener:
+
+I. Las características de los vehículos de transporte masivo que destinará a la prestación del servicio;
+
+II. Razón y denominación social, nacionalidad y domicilio social;
+
+III. Declaración bajo protesta de decir verdad, manifestando si es titular de una o más concesiones.
+
+IV. Precisar los puntos correspondientes a la ruta, el Municipio o los municipios que comprenda;
+
+V. La mención de los seguros que se obliga a contratar siendo mínimo:
+
+a) Seguro de responsabilidad civil; y
+
+b) Seguro contra todo riesgo para cada vehículo.
+
+VI. Lugar y fecha en que se formula la solicitud, firmando el documento el representante legal de la persona moral solicitante; y
+
+VII. Los demás requisitos que se señalen en el Reglamento o normas que expida la Comisión Técnica de Transporte y Vialidad.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 12.- Admitida la solicitud y satisfechos los requisitos establecidos en esta Ley, su Reglamento y normas que establezca la Comisión Técnica de Transporte y Vialidad, podrá otorgar el título de concesión o contrato correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 13.- En los títulos de concesión y contratos se determinarán las condiciones a las que habrá de sujetarse la operación y funcionamiento del servicio público de transporte masivo de pasajeros, y contendrán al menos los datos siguientes:
+
+I. Fundamentos legales aplicables;
+
+II. Nombre y datos de la persona moral a la que se le otorga la concesión;
+
+III. Objeto de la concesión;
+
+IV. Obligaciones y derechos del titular de la concesión;
+
+V. Vigencia;
+
+VI. Número y características de los Vehículos de Transporte Masivo que ampara la concesión;
+
+VII. Monto de la garantía de cumplimiento;
+
+VIII. Determinaciones, límites y zona de influencia a las que habrá de sujetarse la operación y funcionamiento del servicio;
+
+IX. Causas de terminación y revocación de la concesión o causas de rescisión del contrato; así como los términos y condiciones en los que, en caso de revocación, rescate o rescisión, proceda el reembolso al concesionario del monto de inversiones que demuestre haber realizado durante el periodo de inversión;
+
+X. Lugar y fecha de expedición;
+
+XI. Firmas de la autoridad y del titular de la concesión;
+
+XII. Forma de pago por la prestación del servicio público de transporte de pasajeros;
+
+XIII. Horarios de servicio;
+
+XIV. Itinerarios;
+
+XV. Paradas autorizadas;
+
+XVI. Frecuencias de paso y/o operación regulada y controlada;
+
+XVII. Programa de capacitación;
+
+XVIII. Programa de mantenimiento de vehículos;
+
+XIX. Datos del seguro de responsabilidad civil para el pasajero y para cada unidad; y
+
+XX. Programa de renovación de vehículos.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 14.- En las concesiones y contratos para prestar y operar el servicio público de transporte masivo de pasajeros, los concesionarios y contratistas serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 15.- El servicio público de transporte masivo de pasajeros se prestará en vehículos de transporte masivo que cumplan con las especificaciones y condiciones que se establezcan en la concesión respectiva y las unidades no podrán tener más de 10 años de antigüedad.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 16.- La Comisión Técnica de Transporte y Vialidad llevará el registro de los Vehículos de Transporte Masivo con los cuales se prestará el servicio público de transporte masivo de pasajeros; así como de las personas morales y deberá establecer los requisitos y documentos que deberán presentar los concesionarios.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS CONCESIONES Y/O CONTRATOS PARA EL SISTEMA DE RECAUDO Y DESPACHO
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 17. - La Comisión Técnica de Transporte y Vialidad podrá equipar, operar, y dar mantenimiento al Sistema de Recaudo, Sistema de Despacho y/o al Centro de Control, directamente o a través de terceros, mediante el otorgamiento de concesiones o contratos.
+
+La Secretaría de Desarrollo Urbano y Obras Públicas será la responsable del mantenimiento de la Infraestructura respectiva, directamente o a través de terceros, mediante el otorgamiento de concesiones o contratos.
+
+Los Organismos establecerán los mecanismos para garantizar la seguridad de la infraestructura y usuarios del servicio.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 18.- Los contratos y concesiones para el equipamiento, operación y mantenimiento del Sistema de Recaudo, el Sistema de Despacho y/o el Centro de Control, tendrán una vigencia de hasta 20 años en función de la armonización de las inversiones y una utilidad razonable. El plazo de las concesiones y contratos podrá ser prorrogado siempre que los titulares hayan cumplido con sus obligaciones y soliciten dicha ampliación a la Comisión Técnica de Transporte y Vialidad. Esta última solicitará a los Organismos los informes del cumplimiento de las obligaciones de los contratos y concesiones.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 19. - Los contratos o concesiones para equipar, operar y dar mantenimiento al Sistema de Recaudo, el Sistema de Despacho y/o el Centro de Control se adjudicarán mediante licitación pública, adjudicación directa o invitación a cuando menos tres personas, conforme a lo siguiente:
+
+A. Licitación Pública:
+
+I. La Comisión Técnica de Transporte y Vialidad del Estado expedirá la convocatoria pública para que, en un plazo razonable, se presenten proposiciones en sobre cerrado, que será abierto en día prefijado y en presencia de los interesados;
+
+II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Gobierno del Estado y en un periódico de amplia circulación nacional;
+
+III. Las bases de la licitación incluirán como mínimo las características técnicas del proyecto del Corredor, así como los servicios solicitados, el plazo, los requisitos de calidad de la construcción y operación de los servicios y/o equipos; los criterios para su otorgamiento.
+
+En la evaluación de las propuestas, podrán utilizarse mecanismos de puntos y porcentajes, así como cualesquier otro, siempre que sea claro, cuantificable y permitan una comparación objetiva e imparcial de las propuestas;
+
+IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida la Comisión Técnica de Transporte y Vialidad;
+
+V. La Comisión Técnica de Transporte y Vialidad con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes; y
+
+VI. No se otorgará la concesión o el contrato cuando ninguna de las proposiciones presentadas, cumplan con las bases o por caso fortuito o fuerza mayor. Se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+
+B. Invitación a cuando menos tres personas o adjudicación directa:
+
+I. La Comisión Técnica de Transporte y Vialidad podrá adjudicar los contratos o concesiones, mediante invitación a cuando menos tres personas o adjudicación directa, siempre que se actualice alguno de los siguientes supuestos:
+
+a) Se trate de una persona que posea la titularidad exclusiva de patentes, derechos de autor, u otros derechos exclusivos;
+
+b) Existan circunstancias que puedan provocar pérdidas o costos importantes;
+
+c) Se haya rescindido un Contrato adjudicado a través de licitación, en cuyo caso el Contrato se adjudicará al Licitante que hubiese obtenido el segundo lugar;
+
+d) Se realice una licitación pública que haya sido declarada desierta, siempre que se cumplan con los requisitos señalados en las bases de licitación; y
+
+e) Se trate de la sustitución de un concesionario o contratista por causas de terminación anticipada o rescisión de un Contrato cuya ejecución se encuentre en marcha.
+
+La Comisión Técnica de Transporte y Vialidad deberá elaborar un dictamen en el que esté debidamente justificado alguno de los supuestos mencionados.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 20.- Los contratos o títulos de concesión establecerán las condiciones a que deberá sujetarse el servicio objeto de ésta Sección y contendrán al menos los datos siguientes:
+
+I. Autoridad que lo emite;
+
+II. Fundamentos legales aplicables;
+
+III. Nombre y datos de la persona a la que se le otorga;
+
+IV. Objeto;
+
+V. Obligaciones y derechos del titular;
+
+VI. Vigencia;
+
+VII. Monto de la garantía de cumplimiento;
+
+VIII. Causas de terminación y revocación; así como los términos y condiciones en los que, en caso de revocación o rescate, proceda el reembolso al privado del monto de las inversiones que demuestre haber realizado durante el periodo de inversión;
+
+IX. Lugar y fecha de expedición;
+
+X. Firmas de la autoridad y del titular;
+
+XI. Contraprestación o forma de pago al concesionario o contratista; y
+
+XII. Seguros de responsabilidad civil.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA TERMINACIÓN, REVOCACIÓN Y RESCATE DE LAS CONCESIONES Y/O CONTRATOS DEL SERVICIO PÚBLICO DE TRANSPORTE MASIVO DE PASAJEROS
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 21.- Las concesiones y contratos para prestar el servicio público de transporte masivo de pasajeros terminan por:
+
+I. Vencimiento del plazo establecido en el título de la concesión o de la prórroga que se hubiera otorgado;
+
+II. Renuncia del titular;
+
+III. Revocación;
+
+IV. Rescate;
+
+V. Rescisión;
+
+VI. Desaparición del objeto o de la finalidad de la concesión;
+
+VII. Disolución, liquidación o quiebra del titular;
+
+VIII. Por sustitución del titular, para incorporarse a un nuevo sistema de prestación del servicio; y
+
+IX. Por resolución judicial o administrativa.
+
+X. Las demás causas que se establezcan en la concesión, reglamento o disposiciones de la materia.
+
+La terminación de la concesión no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno y con terceros.
+
+Los organismos, por causas justificadas, podrán solicitar a la Comisión Técnica de Transporte y Vialidad la terminación de una concesión o contrato.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 22.- Las concesiones se podrán revocar por cualquiera de las causas siguientes:
+
+I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones en los términos establecidos en ellos;
+
+II. Interrumpir el concesionario la operación de la vía o la prestación del servicio de transporte, parcial o totalmente, sin causa justificada;
+
+III. La no prestación de los servicios o su prestación en términos distintos a los establecidos en los títulos de concesión; y
+
+IV. Las demás que se establezcan en los respectivos títulos de concesión, leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones de la materia vigentes.
+
+El titular de una concesión que hubiere sido revocada estará imposibilitado para obtener otra dentro de un plazo de cinco años, contado a partir de que hubiere quedado firme la resolución respectiva.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 23.- Los contratos podrán darse por terminados anticipadamente o rescindirse por:
+
+I. Causas de interés general;
+
+II. Por subsistencia de un caso fortuito o fuerza mayor;
+
+III. Por mutuo acuerdo;
+
+IV. Por causas imputables al contratista;
+
+V. No cumplir con las obligaciones establecidas en el contrato; y
+
+VI. Las demás que se establezcan en los respectivos contratos, leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones vigentes.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 51 BIS 24.- Los efectos de la terminación anticipada de los contratos y de la revocación de las concesiones se determinarán en cada uno de estos. En caso de que se rescinda el contrato o revoque la concesión, por causas no imputables al contratista, se deberá reembolsar a éste los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y los mismos se relacionen directamente con el objeto de la concesión o contrato.
+
 ### CAPITULO VII. DE LAS CONCESIONES Y PERMISOS
 
 ### CAPITULO VII-BIS. DE PROTECCION AL MEDIO AMBIENTE
 
 > <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
-
-### CAPITULO VIII. DE LOS ITINERARIOS, LOS HORARIOS Y LAS TARIFAS
 
 ###### ARTICULO 52.
 
@@ -492,6 +926,10 @@ V. A quien cuente con mejor equipo, infraestructura y experiencia para la eficie
 VI. A quien haya resultado afectado por expropiaciones agrarias o por razón de equidad social.
 
 Cuando un núcleo agrario obtenga una concesión o permiso de los que prevé esta Ley, y carezca de la capacidad económica para la adquisición del equipo de transporte, su asamblea general propondrá a la Comisión Técnica de Transporte y Vialidad al ejidatario o comunero que pueda obtener la concesión o permiso para, en su caso, explotarla en beneficio del núcleo agrario que lo haya propuesto.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+Las concesiones para el transporte masivo de pasajeros únicamente podrán otorgarse a personas morales constituidas conforme a la legislación mexicana.
 
 ###### ARTICULO 53.
 
@@ -514,6 +952,10 @@ VII. Que se acredite la propiedad del o los vehículos;
 VIII. Que la persona moral haya comprobado su constitución de conformidad con la legislación, y
 
 IX. Que tratándose de sociedades o asociaciones de derecho privado en los estatutos se prevea la prohibición de concentración de acciones u otros títulos representativos de capital o de patrimonio en beneficio de una o más personas.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+Para el otorgamiento de concesiones del servicio público de transporte masivo de pasajeros, se estará a lo dispuesto en el Capítulo VI BIS de esta Ley.
 
 ###### ARTICULO 54.
 
@@ -653,7 +1095,7 @@ III. Por caducidad.
 
 > <small>(ADICIONADO, CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 24 DE FEBRERO DE 1995)</small>
 
-### CAPITULO IX. DEL REGISTRO
+### CAPITULO VIII. DE LOS ITINERARIOS, LOS HORARIOS Y LAS TARIFAS
 
 ###### ARTICULO 70
 
@@ -715,7 +1157,7 @@ BIS 9.- Las presentes disposiciones, se aplicarán independientemente de las med
 
 Sin perjuicio de lo anterior, la autoridad competente podrá aplicar aquellas medidas tendientes a reducir los niveles de emisión de los vehículos automotores, aún cuando no se trate de situaciones de contingencia ambiental o de emergencia ecológica.
 
-### CAPITULO X. DE LA VIALIDAD
+### CAPITULO IX. DEL REGISTRO
 
 ###### ARTICULO 71.
 
@@ -783,15 +1225,7 @@ Para asegurar la continuidad del servicio público y la atención eficiente de l
 
 En el procedimiento de intervención la autoridad notificará por escrito al concesionario, apercibiéndolo del contenido del artículo anterior, que procederá a intervenir el servicio público concesionado. Al efecto, tendrá tres días naturales para expresar lo que a su derecho convenga.
 
-### CAPITULO X BIS
-
-DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
-
-ARTICULO 108 (sic) Bis 1.- Los ayuntamientos, en los términos del artículo 115 de la Constitución General de la República y de la Constitución Política del Estado, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos a efecto de atender el interés público y favorecer las actividades económicas y sociales, lograr una mayor eficiencia en las funciones urbanas.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+### CAPITULO X. DE LA VIALIDAD
 
 ###### ARTICULO 86.
 
@@ -801,9 +1235,9 @@ Todo vehículo, concesión, permiso o autorización en materia de transporte, as
 
 El vehículo que no esté registrado no podrá circular y la falta de inscripción será sancionada en los términos que fijen las disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-Cuando los vehículos estén registrados en otras Entidades Federativas o en otros países y circulen dentro del territorio del Estado, se respetarán sus efectos jurídicos, si lo estuvieran legalmente, pero la Comisión Técnica de Transporte y Vialidad y la Dirección General de Tránsito del Estado, podrán aplicar las sanciones a que se hagan acreedores por infracciones a esta Ley y las disposiciones reglamentarias.
+Cuando los vehículos estén registrados en otras Entidades Federativas o en otros países y circulen dentro del territorio del Estado, se respetarán sus efectos jurídicos, si lo estuvieran legalmente, pero la Comisión Técnica de Transporte y Vialidad y la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, podrán aplicar las sanciones a que se hagan acreedores por infracciones a esta Ley y las disposiciones reglamentarias.
 
 ###### ARTICULO 88.
 
@@ -857,7 +1291,15 @@ VI. Por resolución judicial.
 
 La Comisión Técnica de Transporte y Vialidad administrará el padrón de conductores con licencia expedida por la autoridad competente, de solicitantes de concesiones o permisos, así como de concesionarios y permisionarios.
 
-### CAPITULO XI. DE LAS SANCIONES
+### CAPITULO X BIS
+
+DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+ARTICULO 108 (sic) Bis 1.- Los ayuntamientos, en los términos del artículo 115 de la Constitución General de la República y de la Constitución Política del Estado, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos a efecto de atender el interés público y favorecer las actividades económicas y sociales, lograr una mayor eficiencia en las funciones urbanas.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 96.
 
@@ -910,6 +1352,8 @@ La construcción de todo estacionamiento de uso colectivo será autorizado por l
 La Comisión Técnica de Transporte y Vialidad mantendrá en buen estado la señalización y el balizamiento de la vialidad existente y producirá e instalará los señalamientos visuales que requiera el control de la vialidad con la participación de la ciudadanía y la que corresponda a las autoridades municipales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 26 DE FEBRERO DE 1991)</small>
+
+### CAPITULO XI. DE LAS SANCIONES
 
 ###### ARTICULO 107 Bis 2.
 
@@ -999,13 +1443,19 @@ Las sanciones a que se refiere el artículo anterior serán las siguientes:
 
 I. Multa;
 
-II. Suspensión de concesión, permiso o licencia;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+II. Suspensión de concesión, contrato, permiso o licencia;
 
 III. Revocación de concesión, permiso o licencia;
 
-IV. Caducidad de concesión o permiso, y
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-V. Detención de vehículo.
+IV. Terminación anticipada de los contratos;
+
+V. Caducidad de concesión o permiso, y
+
+VI. Detención de vehículo.
 
 Los montos y duración según sea el caso y el procedimiento de aplicación de las sanciones quedará regulado en el Reglamento respectivo.
 
@@ -1186,3 +1636,21 @@ La Verificación Vehicular referida en el capítulo VII-BIS entrará en vigor a 
 P.O. 27 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones de la presente Ley, serán aplicables en todo lo que no se contraponga con el Capítulo VI Bis del Transporte Público Masivo de Pasajeros.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales constitucionales.
