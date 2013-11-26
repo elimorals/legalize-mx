@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2013-09-24"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -513,9 +513,9 @@ XI.- Formular y remitir al Congreso, para su estudio y aprobación el proyecto d
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-XIII.- Enviar al Congreso del Estado, en los términos que establece la Ley de Fiscalización Superior del Estado de Tamaulipas, las cuentas de recaudación y aplicación de los fondos públicos, correspondientes al período que hayan elegido para su presentación.
+XIII.- Enviar al Congreso del Estado, en los términos que establece la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas, las cuentas de recaudación y aplicación de los fondos públicos, correspondientes al período que hayan elegido para su presentación.
 
 XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. Las remuneraciones al personal no excederán de los límites señalados en el Título III de este Código.
 
@@ -1023,7 +1023,9 @@ III.- Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de
 
 IV.- Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de irregularidades en Acuerdos, Convenios o Contratos que celebren los particulares con los departamentos de la administración municipal, y en la aplicación de recursos destinados a obras y servicios del Municipio.
 
-V.- Vigilar el cumplimiento de las normas de control y fiscalización, principalmente las emanadas de la Ley de Fiscalización Superior del Estado de Tamaulipas.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+V.- Vigilar el cumplimiento de las normas de control y fiscalización, principalmente las emanadas de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
 VI.- Inspeccionar y vigilar directamente que la administración municipal cumpla con las normas y disposiciones en materia de sistema y registro de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales del Municipio.
 
@@ -2069,11 +2071,11 @@ Los Ayuntamientos no otorgarán garantías ni efectuarán depósitos para el cum
 
 Los Ayuntamientos estarán obligados a proporcionar al órgano de control del gasto público, dependiente del Ejecutivo, la información que se les solicite y permitirles que su personal practique visitas y auditorías, para comprobar la aplicación de los recursos provenientes del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 167.
 
-El Congreso del Estado revisará las Cuentas Públicas de los municipios, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización Superior del Estado de Tamaulipas.
+El Congreso del Estado revisará las Cuentas Públicas de los municipios, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
 ### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
 
@@ -4088,3 +4090,9 @@ Los actos jurídicos que realicen los servidores públicos designados conforme a
 ###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
