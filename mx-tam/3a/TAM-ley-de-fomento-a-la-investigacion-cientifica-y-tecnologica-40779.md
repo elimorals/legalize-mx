@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2006-09-06"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA EN EL ESTADO DE TAMAULIPAS
 
-LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA EN EL ESTADO DE TAMAULIPAS
+LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -63,9 +63,13 @@ III.- Establecer y garantizar los medios de vinculación y participación de la 
 
 IV.- Vincular la investigación científica y tecnológica con la educación y desarrollo económico del Estado, particularmente los procesos productivos;
 
-V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado; y
+V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado; y (sic)
 
 VI.- Regular la aplicación de recursos destinados para el financiamiento de investigación y desarrollo tecnológico.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+VII.- Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia y la tecnología e innovación, así como una participación equitativa de las mujeres y los hombres en todos los ámbitos de la investigación en que se desarrollen.
 
 ###### ARTICULO 3.
 
@@ -132,6 +136,10 @@ XVII.- La conservación, consolidación, actualización y desarrollo de la infra
 XVIII.- La creación y fortalecimiento de espacios destinados a la promoción de ciencia y tecnología para jóvenes y niños; y
 
 XIX.- Toda opinión, propuesta o sugerencia que emita el ciudadano durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas en lo conducente.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XX.- La participación de la mujer y el hombre en el ámbito científico y tecnológico, deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadores.
 
 ### CAPITULO III. INSTRUMENTOS DE APOYO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA
 
@@ -561,7 +569,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 6 DE ABRIL DE 2005.
 
@@ -576,5 +584,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
