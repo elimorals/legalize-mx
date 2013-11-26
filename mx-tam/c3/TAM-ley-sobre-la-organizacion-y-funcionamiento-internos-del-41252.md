@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2013-11-05"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -615,7 +615,11 @@ c) De Asuntos Municipales, a cargo de analizar las iniciativas y propuestas inhe
 
 d) De Estudios Legislativos, a cargo de contribuir con el análisis, estudio y dictamen de las iniciativas de carácter legislativo.
 
-e) De Vigilancia de la Auditoría Superior del Estado, a cargo de las tareas que derivan de la Constitución Política del Estado y de la Ley de Fiscalización Superior del Estado en torno a dicho órgano técnico.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+e) De Vigilancia de la Auditoría Superior del Estado, a cargo de las tareas que derivan de la Constitución Política del Estado y de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas en torno a dicho órgano técnico.
 
 f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción de postulaciones a esa presea y de proponer al Pleno quien deba recibirla anualmente, de acuerdo con el Decreto de creación de dicho reconocimiento.
 
@@ -681,7 +685,11 @@ Ningún diputado podrá pertenecer a más de ocho comisiones, salvo que se trate
 
 1. Las comisiones ordinarias cuya materia se corresponda con tareas a cargo de las dependencias de la administración pública del Estado harán el estudio del informe a que se refiere el cuarto párrafo del artículo 93 de la Constitución Política del Estado, según la competencia de cada una de ellas. Al efecto, formularán un documento en el que consten las conclusiones de su análisis. En su caso, podrán requerir mayor información o solicitar la comparecencia de servidores públicos ante la propia comisión. Si de las conclusiones se desprende la necesidad de que el titular del ente público comparezca ante el Pleno del Congreso, la Comisión competente formulará la solicitud correspondiente a la Junta de Coordinación Política. En todo caso se estará a lo dispuesto por la parte final del cuarto párrafo del artículo 93 de la Constitución Política del Estado.
 
-2. Las comisiones a que se refiere el párrafo anterior, conforme a su competencia, darán opinión a la Comisión de Vigilancia de la Auditoría Superior del Estado de las reflexiones que formulen en torno al desempeño de los entes públicos sujetos a la Ley de Fiscalización Superior del Estado. Esta opinión buscará hacer aportaciones sobre aspectos presupuestales específicos en materia de cumplimiento de los objetivos de los programas del ente público de que se trate, a fin de que se consideren en la revisión de las cuentas públicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+2. Las comisiones a que se refiere el párrafo anterior, conforme a su competencia, darán opinión a la Comisión de Vigilancia de la Auditoría Superior del Estado de las reflexiones que formulen en torno al desempeño de los entes públicos sujetos a la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas. Esta opinión buscará hacer aportaciones sobre aspectos presupuestales específicos en materia de cumplimiento de los objetivos de los programas del ente público de que se trate, a fin de que se consideren en la revisión de las cuentas públicas.
 
 ###### ARTICULO 43.
 
@@ -2648,3 +2656,9 @@ P.O. 5 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
