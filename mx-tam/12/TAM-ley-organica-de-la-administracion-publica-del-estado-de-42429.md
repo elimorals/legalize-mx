@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2013-09-30"
+last_updated: "2013-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -1475,7 +1475,9 @@ VIII. Régimen laboral a que se sujetarán las relaciones de trabajo; y
 
 IX. Forma y términos de su extinción y liquidación.
 
-2. Las entidades remitirán su cuenta pública trimestral a la Secretaría de Finanzas en términos de la Ley de Fiscalización Superior, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+2. Las entidades remitirán su cuenta pública anual a la Secretaría de Finanzas en términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -1850,3 +1852,9 @@ En los casos conducentes, el titular de la dependencia cabeza de sector, así co
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
