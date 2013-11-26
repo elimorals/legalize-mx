@@ -4,7 +4,7 @@ identifier: "GRO-ley-para-la-proteccion-y-desarrollo-de-los-menores-en-el-23178"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2011-09-02"
+last_updated: "2013-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY PARA LA PROTECCION Y DESARROLLO DE LOS MENORES EN EL ESTADO DE GUERRERO, NUMERO 415
 
-LEY PARA LA PROTECCION Y DESARROLLO DE LOS MENORES EN EL ESTADO DE GUERRERO, NUMERO 415
+LEY PARA LA PROTECCIÓN Y DESARROLLO DE LOS MENORES EN EL ESTADO DE GUERRERO, NÚMERO 415
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de enero de 2002.
 
@@ -219,9 +219,15 @@ XI. Derecho a participar;
 
 XII. Derecho al debido procedimiento como infractor de la Ley Penal o Administrativa;
 
-XIII. Derechos de los menores con discapacidad; y
+XIII. Derechos de los menores con discapacidad; y (sic)
 
-XIV. Los demás que otros ordenamientos les otorguen.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Derecho a tener una vida libre de violencia; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XV. Los demás que otros ordenamientos les otorguen.
 
 ###### ARTICULO 7.
 
@@ -883,9 +889,61 @@ X. Promover las reformas de Leyes, Acuerdos y Reglamentos Estatales a fin de hac
 
 XI. Promover la participación permanente de los menores de edad en el conocimiento, difusión y puesta en práctica de la Convención Internacional de los Derechos del Niño, a fin de permitirles actuar como agentes de cambio en su persona, en su familia, escuela y comunidad;
 
-XII. Proponer las prohibiciones que estime necesarias para la asistencia de los menores de edad a espectáculos públicos no autorizados expresamente para ellos; y
+XII. Proponer las prohibiciones que estime necesarias para la asistencia de los menores de edad a espectáculos públicos no autorizados expresamente para ellos; y (sic)
 
 XIII. Rendir los informes correspondientes al Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de la Convención Internacional de los Derechos del Niño.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Crear grupos de trabajo específicos, de carácter temporal o permanente, que se consideren necesarios para el mejor cumplimiento de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XV. Las demás que contribuyan al respeto de los menores en el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 112 Bis.
+
+El grupo de trabajo de seguimiento a casos de violencia en una relación de noviazgo es de carácter permanente y se integra por:
+
+a) El Secretario de Educación, quien lo presidirá y tendrá voto de calidad;
+
+b) El Presidente de la Comisión de Educación, Ciencia y Tecnología del Congreso del Estado;
+
+c) El Secretario de Salud;
+
+d) El Procurador General de Justicia del Estado; y
+
+e) El Titular de la Comisión de Derechos Humanos del Estado.
+
+Los integrantes del grupo de trabajo podrán nombrar a un representante quien deberá ser, a excepción del señalado en el inciso b), de nivel jerárquico inmediato inferior, a fin de que éstos los suplan cuando así se requiera.
+
+El grupo de trabajo de seguimiento a casos de violencia en una relación de noviazgo, podrá invitar a sus reuniones a los representantes de las dependencias federales, estatales o municipales, de los medios de comunicación, organizaciones civiles, o personas físicas o morales de reconocida trayectoria que se hayan destacado por su trabajo, estudio o compromiso en materia de niñas, niños y adolescentes, quienes tendrán derecho a voz pero no a voto.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 112 Ter.
+
+El grupo de trabajo de seguimiento a casos de violencia en una relación de noviazgo sesionará de manera ordinaria en forma trimestral y extraordinaria cuantas veces sean necesarias, en términos de las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 112 Quáter.
+
+El grupo de trabajo de seguimiento a casos de violencia en una relación de noviazgo tiene las siguientes atribuciones:
+
+I. Proponer al Comité los programas enfocados a la violencia en una relación de noviazgo, mediante acciones de prevención y atención;
+
+II. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones;
+
+III. Supervisar que cada institución competente le de cabal cumplimiento a los programas enfocados a la prevención de la violencia en una relación de noviazgo;
+
+IV. Proponer al Comité, los mensajes que pudieran ser transmitidos por las radiodifusoras y televisoras locales dirigidos a los adolescentes para prevenir y atender la violencia en una relación de noviazgo;
+
+V. Informar al Comité, de manera trimestral, las acciones que realice en el cumplimiento de sus atribuciones; y
+
+VI. Las demás que resulten necesarias para el cumplimiento de sus atribuciones.
 
 ## TITULO SEXTO. DE LAS INSTITUCIONES AUXILIARES ENCARGADAS DE DAR ALBERGUE Y ATENCION A LOS MENORES DE EDAD
 
@@ -1100,3 +1158,13 @@ P.O. 2 DE SEPTIEMBRE DE 2011.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. - Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
