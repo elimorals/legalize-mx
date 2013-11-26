@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2012-08-30"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -447,9 +447,11 @@ Los ingresos que se recauden por los diversos conceptos que establece la Ley de 
 
 Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública, deberán sujetarse a lo dispuesto por esta ley y su reglamento y en las disposiciones legales respectivas de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 51.
 
-Las entidades remitirán su cuenta pública anual a la Secretaría de Finanzas en términos de la Ley de Fiscalización Superior del Estado de Tamaulipas, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
+Las entidades remitirán su cuenta pública anual a la Secretaría de Finanzas en términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
 
 ### CAPÍTULO VI (SIC). DE LA EVALUACIÓN Y CONTROL
 
@@ -570,3 +572,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de agosto del año dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
