@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2011-11-22"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -119,7 +119,7 @@ XXIII. Violencia feminicida: es la forma extrema de violencia de género contra 
 
 ### CAPÍTULO I. PRINCIPIOS Y FINES FUNDAMENTALES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 6.
 
@@ -179,35 +179,93 @@ XVII. Evitar que se excluya a las mujeres, o que sólo se beneficien marginalmen
 
 ### CAPÍTULO II. RESPONSABILIDAD DEL ESTADO Y DE LOS GOBIERNOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 8.
 
-Es responsabilidad del Estado, de los poderes legalmente constituidos, y de los municipios buscar los mecanismos, en los ámbitos de sus respectivas competencias, para eliminar las desigualdades entre hombres y mujeres; en consecuencia deberán:
+Es responsabilidad del Estado, de los poderes legalmente constituidos y de los municipios, en los ámbitos de sus respectivas competencias, adoptar, por todos los medios apropiados y sin dilaciones, políticas orientadas a prevenir, sancionar y erradicar todas las formas de violencia contra la mujer; en consecuencia deberán:
 
-I.- Dar debido y cabal cumplimiento a las convenciones y tratados internacionales en materia de derechos, discriminación y violencia contra la mujer, en los términos que establece el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+I. Dar debido y cabal cumplimiento a las convenciones y tratados internacionales en materia de derechos, discriminación y violencia contra la mujer, en los términos establecidos por el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos.
 
 II.- Respetar todos y cada uno de los principios del acceso de las mujeres a una vida libre de violencia que se establecen en la presente ley, y en todo el marco jurídico federal y estatal;
 
-III.- Fomentar la cultura jurídica y de la legalidad con una sensibilización hacia la violencia de género, y de la normatividad que proteja a las mujeres de cualquier tipo de violencia evaluando, sus acciones y buscando los cambios estructurales que se requieran;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Evitar cualquier tipo de abuso de poder sobre las mujeres que se traduzca en preservar el clima de violencia;
+III. Abstenerse de cualquier acción o práctica de violencia contra la mujer y velar para que las autoridades, sus funcionarios, personal y agentes e instituciones se comporten de conformidad con estas obligaciones;
 
-V.- Garantizar la participación democrática de las mujeres en la toma de decisiones en su comunidad, sobre asuntos que le atañen, independientemente de los usos y costumbres;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Garantizar a las mujeres el acceso a la justicia, tanto en su procuración, como administración, ya sea como victima o acusada de un delito.
+IV. Actuar con la debida diligencia para prevenir, investigar y sancionar la violencia contra la mujer;
 
-VII.- Establecer estrategias por sector que favorezcan la aplicación de la presente Ley y de la normatividad que proteja a las mujeres de cualquier tipo de violencia evaluando, sus acciones y buscando los cambios estructurales que se requieran;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-VIII.- Implementar estrategias en materia penal, civil, administrativa y familiar que contengan y sancionen a quienes ejercen violencia contra las mujeres;
+V. Incluir en la legislación local respectiva, normas penales, civiles y administrativas, así como las de otra naturaleza que sean necesarias para prevenir, sancionar y erradicar la violencia contra la mujer y adoptar las medidas administrativas apropiadas que sean del caso;
 
-IX.- Involucrar a los cuerpos de seguridad pública, estatal y municipal, no sólo en la disuasión de la violencia, sino en la erradicación de la tolerancia de la violencia;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-X.- Garantizar la asistencia y protección integral de las mujeres para acceder a una vida libre de violencia;
+VI. Adoptar medidas jurídicas para conminar al agresor a abstenerse de hostigar, intimidar, amenazar, dañar o poner en peligro la vida de la mujer de cualquier forma que atente contra su integridad o perjudique su propiedad;
 
-XI.- Establecer estrategias de análisis, erradicación y sanción efectiva de la violencia masculina;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-XII.- Garantizar que los funcionarios públicos observen los principios fundamentales de la presente ley en la prestación de servicios, y se abstengan de aplicar criterios de discriminación contra las mujeres.
+VII. Implementar las medidas apropiadas, para modificar o abolir leyes y reglamentos vigentes, o para modificar prácticas jurídicas o consuetudinarias que respalden la persistencia, abuso de poder o la tolerancia de la violencia contra la mujer;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Establecer procedimientos legales justos y eficaces para la mujer que haya sido sometida a violencia, que incluyan, entre otros, medidas de protección, un juicio oportuno y el acceso efectivo a tales procedimientos;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+IX. Establecer los mecanismos judiciales y administrativos necesarios para asegurar que la mujer objeto de violencia tenga acceso efectivo a resarcimiento, reparación del daño u otros medios de compensación justos y eficaces;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+X. Garantizar la participación democrática de las mujeres en la toma de decisiones en su comunidad, sobre asuntos que le atañen, independientemente de los usos y costumbres;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XI. Garantizar que las instituciones a cargo de los servicios médicos públicas y privadas, proporcionen inmediatamente atención médica a las mujeres que hayan sido violentadas, así como dar aviso a la autoridad ministerial, al Sistema para el Desarrollo Integral de la Familia y a la Secretaría de la Mujer, para los efectos procedentes que establece la presente ley;
+
+En caso de que el personal médico no cumpla con lo señalado en la presente fracción, las autoridades citadas deberán realizar lo procedente para fincar la responsabilidad profesional, de acuerdo a lo establecido en el Capítulo Único del Título Sexto artículos 222 y 223 del Código Penal para el Estado de Guerrero.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XII. Garantizar a las mujeres el acceso a la justicia, tanto en su procuración, como administración, ya sea como víctima o acusada de un delito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Establecer estrategias por sector que favorezcan la aplicación de la presente Ley y de la normatividad que proteja a las mujeres de cualquier tipo de violencia evaluando, sus acciones y buscando los cambios estructurales que se requieran;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Establecer estrategias de análisis, erradicación y sanción efectiva de la violencia masculina;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XV. Involucrar a los cuerpos de seguridad pública, estatal y municipal, no sólo en la disuasión de la violencia, sino en la erradicación de la tolerancia de la violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XVI. Establecer programas para:
+
+1. Fomentar el conocimiento y la observancia del derecho de la mujer a una vida libre de violencia, y el derecho de la mujer a que se respeten y protejan sus derechos humanos;
+
+2. Modificar los patrones socioculturales de conducta de hombres y mujeres, incluyendo el diseño de programas de educación formales y no formales apropiados a todo nivel del proceso educativo, para contrarrestar prejuicios y costumbres y todo otro tipo de prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros;
+
+3. Fomentar la educación y capacitación del personal en la administración de justicia, policial y demás funcionarios encargados de la aplicación de la ley, así como del personal a cuyo cargo esté la aplicación de las políticas de prevención, sanción y eliminación de la violencia contra la mujer;
+
+4. Suministrar los servicios especializados apropiados para la atención necesaria a la mujer objeto de violencia, por medio de entidades de los sectores público y privado, inclusive refugios, servicios de orientación para toda la familia, cuando sea del caso, y cuidado y custodia de los menores afectados;
+
+5. Fomentar y apoyar programas de educación gubernamentales y del sector privado destinados a concientizar al público sobre los problemas relacionados con la violencia contra la mujer, los recursos legales y la reparación que corresponda;
+
+6. Ofrecer a la mujer objeto de violencia acceso a programas eficaces de rehabilitación y capacitación que le permitan participar plenamente en la vida pública, privada y social;
+
+7. Alentar a los medios de comunicación a elaborar directrices adecuadas de difusión que contribuyan a erradicar la violencia contra la mujer en todas sus formas y a realzar el respeto a la dignidad de la mujer;
+
+8. Garantizar la investigación y recopilación de estadísticas y demás información pertinente sobre las causas, consecuencias y frecuencia de la violencia contra la mujer, con el fin de evaluar la eficacia de las medidas para prevenir, sancionar y eliminar la violencia contra la mujer y de formular y aplicar los cambios que sean necesarios, y
+
+9. Las demás que se consideren necesarias según las circunstancias sociales de las regiones y municipios de la entidad.
 
 ## TÍTULO TERCERO
 
@@ -231,7 +289,7 @@ V. Violencia económica: es toda acción u omisión del agresor que afecta la su
 
 ### CAPÍTULO II. DE LA VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 10.
 
@@ -325,15 +383,21 @@ II. Preventivas, y
 
 III. De naturaleza Civil.
 
-Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
 
 ###### ARTÍCULO 15.
 
 Son órdenes de protección de emergencia las siguientes:
 
-I. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+I. Desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+II. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad, y
 
@@ -661,13 +725,33 @@ VI. Cuando se realice por homofobia;
 
 VII. Cuando existan indicios de que la víctima presentaba estado de indefensión.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO IV. DEL BANCO ESTATAL DE DATOS E INFORMACIÓN SOBRE CASOS DE VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 38 Bis.
+
+El Banco Estatal fungirá como la red estatal de información sobre casos de violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 38 BIS 1. El Banco Estatal funcionará bajo las siguientes bases:
+
+I. Será manejado, organizado y dirigido por la Procuraduría General de Justicia del Estado;
+
+II. Deberá alimentarse mensualmente de los datos que arrojen las instituciones públicas y privadas, estatales o municipales sobre la violencia contra la mujer;
+
+III. Los datos arrojados por éste serán considerados como oficiales en el Estado y será el que alimentará a los bancos nacionales, internacionales, redes o cualquier organismo que solicite información sobre la materia de violencia contra las mujeres en el Estado;
+
+IV. Deberá tener indicadores que arrojen los datos y estadísticas que le permitan obtener información desagregada; y
+
+V. Se deberá publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres en el Estado.
+
 TÌTULO QUINTO
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 39.
 
@@ -753,7 +837,9 @@ XVIII.- Las organizaciones civiles especializadas en derechos humanos de las muj
 
 La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 42.
 
@@ -763,7 +849,7 @@ La formulación del programa estatal será coordinado por la Secretaria de la Mu
 
 El Ejecutivo Estatal propondrá en el Proyecto de Presupuesto de Egresos del estado asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
 
-### CAPÍTULO IV. DE LOS REFUGIOS PARA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 #### SECCIÓN PRIMERA. DEL SISTEMA
 
@@ -1205,11 +1291,17 @@ VIII. Proporcionar a las víctimas información objetiva que les permita reconoc
 
 IX. Promover la cultura de respeto a los derechos humanos de las mujeres;
 
-X. Garantizar la seguridad de quienes denuncian;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
-XI. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+X. Expedir y ejecutar las órdenes de protección y garantizar la integridad física de quienes denuncian;
 
-XII. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XI. Diseñar las políticas en materia de procuración de justicia en contra de la violencia hacia las mujeres;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+XII. Desarrollar campañas de difusión sobre los derechos que tienen las víctimas de delitos que atentan contra la libertad y la seguridad sexuales y de violencia intrafamiliar, así como de las agencias especializadas que atienden estos delitos; (sic)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
@@ -1292,6 +1384,8 @@ I. Vigilar el cumplimiento del Programa para Prevenir, Atender, Sancionar y Erra
 II. Solicitar la Declaratoria de Alerta de Violencia de Género t (sic) el agravio comparado cuando las circunstancias lo demanden; y
 
 III. Auxiliar a las instancias que integran el Sistema en el cumplimiento de los objetivos de la presente Ley.
+
+### CAPÍTULO IV. DE LOS REFUGIOS PARA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 61.
 
@@ -1464,3 +1558,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos legales procedentes.
+
+P.O. 26 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abrogan todas las disposiciones que se opongan al presente Decreto, subsistiendo con plena vigencia aquellas que se encuentren en trámite hasta antes de la entrada en vigor del mismo.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado.
