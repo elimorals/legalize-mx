@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-instituto-de-la-infraestructura-fisica-96294"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2013-10-12"
+last_updated: "2013-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2013, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO EL 26 DE NOVIEMBRE DE 2013.</small>
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -43,11 +43,15 @@ Se expide la Ley que crea el Instituto de la Infraestructura Física Educativa d
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(F. DE E., P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-Se crea el Instituto de Infraestructura Física Educativa del Estado de Jalisco como un organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Educación, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades; tendrá su domicilio legal en la ciudad de Guadalajara, Jalisco, o en el lugar que determine el Titular del Poder Ejecutivo Estatal.
+Se crea el Instituto de la Infraestructura Física Educativa del Estado de Jalisco como un organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Educación, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades; tendrá su domicilio legal en la ciudad de Guadalajara, Jalisco, o en el lugar que determine el Titular del Poder Ejecutivo Estatal.
 
-Para los efectos de la presente Ley, cuando se mencione Instituto, se estará aludiendo al Instituto de Infraestructura Física Educativa del Estado de Jalisco.
+> <small>(F. DE E., P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+Para los efectos de la presente Ley, cuando se mencione Instituto, se estará aludiendo al Instituto de la Infraestructura Física Educativa del Estado de Jalisco.
 
 ###### Artículo 2.
 
