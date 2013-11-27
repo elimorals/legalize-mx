@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2012-09-14"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -173,9 +173,17 @@ a).- Policía Preventiva;
 
 b).- Policía de Seguridad Vial;
 
-c).- Policía Bombero; y
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-d).- Policía Custodio.
+c).- Policía Bombero;
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+d).- Policía Custodio; y
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+e).- Policía Procesal.
 
 II.- Cuerpo de Seguridad Pública Municipal, cuya organización podrá replicarse en los términos de esta Ley.
 
@@ -295,17 +303,27 @@ XI.- Integrar el Sistema de Información Penitenciaria;
 
 XII.- Dirigir los mecanismos, sistemas y procedimientos de funcionamiento de los centros penitenciarios de reinserción social y los de internamiento especializados para adolescentes del Estado;
 
-XIII.- Coordinar la flota aérea del Gobierno del Estado y los servicios aeroportuarios relacionados con ésta;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XIV.- Cumplir los acuerdos del Sistema en materia de prevención del delito;
+XIII.- Realizar las funciones de evaluación de riesgos que representen (sic) los imputados, así como la supervisión y seguimiento de las medidas cautelares, distintas a la prisión preventiva impuestas por los Jueces de Control;
 
-XV.- Supervisar y vigilar el funcionamiento de las empresas de seguridad privada legalmente establecidas, así como conocer y resolver los procedimientos administrativos contra éstas, aplicando las sanciones administrativas correspondientes;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XVI.- Identificar a quien sin contar con el registro y autorización del Estado preste servicios de seguridad privada, a fin de hacerlo del conocimiento de las autoridades competentes;
+XIV.- Diseñar, aplicar y, en su caso, coordinar, estrategias, planes y programas para cumplir con las funciones de evaluación de riesgos, supervisión y seguimiento de las medidas cautelares, distintas a la prisión preventiva impuestas por los Jueces de Control;
 
-XVII.- Participar en la integración del Programa Estatal de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XVIII.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
+XV.- Cumplir los acuerdos del Sistema en materia de prevención del delito;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XVI.- Participar en la integración del Programa Estatal de Seguridad Pública; y
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XVII.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
+
+XVIII.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 2013)
 
 ###### Artículo 18.
 
@@ -1942,3 +1960,9 @@ SEGUNDO.- Se deja sin efecto el Acuerdo del Ejecutivo del Estado, por el que se 
 El presente Decreto le será aplicable a todos los ex Gobernadores del Estado.
 
 TERCERO.- Lo dispuesto en el artículo 138 de esta Ley, no estará sujeto a refrendo ni a prórroga para su aplicación en el tiempo, así como tampoco será objeto de revocación.
+
+P.O. 2 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
