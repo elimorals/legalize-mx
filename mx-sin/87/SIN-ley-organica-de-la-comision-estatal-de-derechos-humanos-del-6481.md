@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-comision-estatal-de-derechos-humanos-del-648
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-04-07"
-last_updated: "2001-07-04"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
+LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE JULIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial el "Estado de Sinaloa" el miércoles 07 de Abril de 1993.
 
@@ -45,9 +45,11 @@ LEY ORGANICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de Sinaloa y tiene por objeto crear la Comisión Estatal de Derechos Humanos de la Entidad y establecer las bases y procedimientos a que se sujetará su funcionamiento.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 2o.
 
-Se crea la Comisión Estatal de Derechos Humanos del Estado de Sinaloa como un organismo descentralizado, representativo de composición plural, con autonomía, personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos en nuestro orden jurídico vigente.
+La Comisión Estatal de Derechos Humanos de Sinaloa es un organismo público con carácter autónomo, personalidad jurídica y patrimonio propios, que tiene por objeto esencial la defensa, protección, observancia, promoción, estudio y divulgación de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 ###### ARTICULO 3o.
 
@@ -60,6 +62,10 @@ Cuando en un mismo hecho, estuvieren involucrados tanto autoridades o servidores
 ###### ARTICULO 4o.
 
 La Comisión diseñará e implementará los instrumentos para promover, salvaguardar y defender los derechos humanos de los habitantes y visitantes del Estado, coordinándose para este efecto con las autoridades federales, estatales o municipales y concertando acciones con los particulares de los sectores social y privado, celebrando los convenios de coordinación pertinentes.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Para la defensa y promoción de los derechos humanos se observarán los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
 ###### ARTICULO 5o.
 
@@ -111,7 +117,13 @@ XI. Promover el estudio, la enseñanza y divulgación de los derechos humanos en
 
 XII. Formular y ejecutar programas preventivos en materia de derechos humanos, en los ámbitos jurídico, educativo y cultural;
 
-XIII. Supervisar el respeto a los derechos humanos en el sistema penitenciario y de readaptación social de Sinaloa, así como en las diversas corporaciones policíacas y en los centros de reclusión o detención;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Supervisar el respeto a los derechos humanos en el sistema de reinserción social de Sinaloa, así como en las diversas corporaciones policíacas y en los centros de reclusión o detención, mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden.
+
+En dicho diagnóstico deberán incluirse, además de las evaluaciones que la Comisión pondere, datos estadísticos sobre el número, las causas y efectos de los homicidios, riñas, motines, desórdenes, abusos y quejas documentadas; así como de conductas violatorias de derechos humanos que sucedan en las prisiones, centros de detención y retención estatales.
+
+El diagnóstico se hará del conocimiento de las dependencias locales y municipales competentes en la materia para que éstas elaboren, considerando las opiniones de la Comisión, las políticas públicas tendientes a garantizar el respeto de los derechos humanos de los internos;
 
 XIV. Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del Estado de Sinaloa, de los ordenamientos jurídicos vigentes en materia de derechos humanos;
 
@@ -121,17 +133,13 @@ XVI. Expedir su Reglamento Interno, así como las reglas de operación de la Com
 
 XVII. Las demás que le otorguen la presente ley y otros ordenamientos legales.
 
-###### ARTICULO 8o.
-
-La Comisión Estatal no podrá conocer de los asuntos relativos a:
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)ARTICULO 8o. La Comisión Estatal no podrá conocer de los asuntos relativos a:
 
 I. Actos y resoluciones de organismos y autoridades electorales;
 
-II. Resoluciones de carácter jurisdiccional;
+II. Resoluciones de carácter jurisdiccional; y
 
-III. Conflictos de carácter laboral; y
-
-IV. Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
+III. Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
 
 ###### ARTICULO 9o.
 
@@ -139,13 +147,13 @@ En los términos de esta Ley, sólo podrán admitirse o conocerse quejas o incon
 
 ### CAPITULO II. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISION
 
-> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 10.
 
-El nombramiento del presidente de la Comisión Estatal será hecho por el Congreso del Estado con la aprobación del voto de las dos terceras partes de sus integrantes y mediante convocatoria pública previa a las organizaciones sociales y organismos públicos y privados defensores y promotores de los derechos humanos en Sinaloa. Durará en su cargo cuatro años y sólo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+El Presidente de la Comisión Estatal, será elegido por el voto de las dos terceras partes de los integrantes del Congreso del Estado. Para tales efectos, el Congreso procederá a realizar una consulta pública, que deberá ser transparente, entre las organizaciones sociales representativas de los distintos sectores de la sociedad; así como los organismos públicos y privados defensores y promotores de los derechos humanos en Sinaloa. Durará en su cargo cuatro años y sólo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
 
-El presidente de la Comisión Estatal de Derechos Humanos podrá ser reelecto por una sola vez para un nuevo periodo mediante el mismo procedimiento de convocatoria pública y votación de las dos terceras partes de los integrantes del Congreso.
+El Presidente de la Comisión Estatal podrá ser reelecto por una sola vez para un nuevo periodo mediante el mismo procedimiento de consulta pública y votación de las dos terceras partes de los integrantes del Congreso.
 
 ###### ARTICULO 11.
 
@@ -207,13 +215,23 @@ VIII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases d
 
 IX. Aprobar y emitir las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por los visitadores;
 
-X. Formular, en coordinación con el Consejo las propuestas generales conducentes a una mejor protección de los derechos humanos en el Estado;
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XI. Nombrar a las personas que habrán de fungir como titulares de las diversas dependencias y unidades administrativas de la Comisión, garantizando su imparcialidad, así como dirigir y coordinar las labores de éstas últimas por sí o a través de las personas que designe;
+X. Solicitar al Congreso del Estado, llame a comparecer a las autoridades o servidores públicos que se hubiesen negado a aceptar o cumplir las recomendaciones emitidas por la Comisión Estatal de Derechos Humanos ante las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, para explicar el motivo de su negativa a aceptar o cumplir las referidas recomendaciones, en términos del artículo 58 de esta Ley;
 
-XII. Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma; y
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Las demás que le señalen la presente ley y otros ordenamientos.
+XI. Interponer las acciones de inconstitucionalidad, en contra de leyes expedidas por el Congreso del Estado que vulneren los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que México sea parte, de acuerdo al artículo 105, fracción II, párrafos primero y segundo, inciso g) de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XII. Formular, en coordinación con el Consejo, las propuestas generales conducentes a una mejor protección de los derechos humanos en el Estado;
+
+XIII. Nombrar a las personas que habrán de fungir como titulares de las diversas dependencias y unidades administrativas de la Comisión, garantizando su imparcialidad, así como dirigir y coordinar las labores de éstas últimas por sí o a través de las personas que designe;
+
+XIV. Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma; y
+
+XV. Las demás que le señalen la presente ley y otros ordenamientos.
 
 ###### ARTICULO 17.
 
@@ -231,11 +249,11 @@ El Presidente de la Comisión Estatal lo será también del Consejo. Los cargos 
 
 Se podrán establecer Consejos municipales conforme a las bases contempladas en el Reglamento de la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 19.
 
-Para el nombramiento de los miembros del consejo, el Congreso del Estado convocará a presentar propuestas a las organizaciones sociales y organismos públicos y privados defensores y promotores de los derechos humanos de Sinaloa, de entre quienes con la aprobación de sus dos terceras partes, nombrará a los diez consejeros y les tomará protesta encabezados por su presidente.
+La elección de los miembros del Consejo, se hará por el Congreso del Estado con la aprobación de las dos terceras partes de sus integrantes y mediante consulta pública que deberá ser transparente entre las organizaciones sociales representativas de los distintos sectores de la sociedad; así como los organismos públicos y privados defensores y promotores de los derechos humanos en Sinaloa. Igual procedimiento se desahogará en caso de ratificación para un segundo periodo.
 
 El Consejo contará con un Secretario Técnico, correspondiendo al titular de la Secretaría Ejecutiva de la Comisión fungir como tal.
 
@@ -363,7 +381,9 @@ I.- Proporcionar atención a los individuos y grupos que denuncien la posible vi
 
 II.- Recibir, admitir o rechazar las quejas e inconformidades presentadas por los afectados, sus representantes o los denunciantes ante la Comisión Estatal;
 
-III. Iniciar a petición de parte la investigación de las quejas e inconformidades que le sean presentadas; o de oficio, discrecionalmente, aquéllas denuncias de violación a los derechos humanos hechas públicas en los medios de comunicación masiva;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+III. Iniciar a petición de parte o de oficio la investigación de las quejas e inconformidades que le sean presentadas;
 
 IV. Integrar los expedientes y recibir las pruebas que fueren rendidas por las partes en el procedimiento y llevar a cabo las investigaciones que a su juicio fueren necesarias para esclarecer los hechos en cuestión, realizando las visitas que considere convenientes para este efecto;
 
@@ -382,6 +402,8 @@ Los visitadores de Zona y los adjuntos auxiliarán en sus funciones al Visitador
 ## TITULO TERCERO. EL PROCEDIMIENTO ANTE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
 ### CAPITULO II. DEL PROCEDIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 28.
 
@@ -405,11 +427,13 @@ La Comisión sólo conocerá de quejas y denuncias presentadas dentro del plazo 
 
 Todos los trámites y gestiones realizadas ante y por la Comisión Estatal serán gratuitos.
 
-### CAPITULO III. DE LOS ACUERDOS, DICTAMENES Y RECOMENDACIONES AUTÓNOMAS
+### CAPÍTULO II BIS. DE LAS INVESTIGACIONES DE OFICIO
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 32.
 
-Las quejas o denuncias deberán presentarse por escrito y firmarse por quien las formule; en casos urgentes podrá formularse por cualquier medio de comunicación electrónica. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejoso no se identifica y no la suscribe en un primer momento.
+Las quejas o denuncias podrán presentarse de forma oral, por escrito, firmadas por quien las formule, y por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejoso no se identifica y no la suscribe en un primer momento.
 
 Cuando el quejoso o denunciante se encuentren recluidos en un centro de detención o reclusorio, sus escritos podrán entregarse directamente al Visitador General, Visitadores de Zona o a los adjuntos. En su caso, los encargados de dichos centros o reclusorios, tendrán la obligación de remitir las quejas a la Comisión Estatal, de lo contrario incurrirán en responsabilidad.
 
@@ -417,11 +441,13 @@ Cuando el quejoso o denunciante se encuentren recluidos en un centro de detenci�
 
 Para la atención oportuna e inmediata de las reclamaciones o quejas sobre violaciones de derechos humanos, la Comisión designará personal de guardia para recibirlas a cualquier hora del día o de la noche, durante los trescientos sesenta y cinco días del año.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 34.
 
-La Comisión Estatal deberá poner a disposición de los quejosos los formularios que faciliten el trámite, proporcionando orientación a los comparecientes sobre el contenido de su queja o reclamación.
+La Comisión Estatal deberá poner a disposición de los quejosos los formularios que faciliten el trámite, y en todos los casos ejercerá la suplencia en la deficiencia de la queja.
 
-Cuando los comparecientes no sepan o no puedan escribir o sean menos d edad, podrán presentar su queja o denuncia en forma oral, debiendo la Comisión brindarle el auxilio indispensable para documentar su queja o denuncia. Igualmente proporcionará servicio de traducción o intérprete cuando se trate de personas que no entiendan o hablen suficientemente el idioma español.
+Cuando los comparecientes no sepan o no puedan escribir o sean menores de edad, podrán presentar su queja o denuncia en forma oral, debiendo la Comisión brindarle el auxilio indispensable para documentar su queja o denuncia. Tratándose de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran o personas con discapacidad auditiva, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura, o en su caso intérprete de lengua de señas mexicana.
 
 ###### ARTICULO 35.
 
@@ -519,11 +545,41 @@ Las pruebas que se presenten, tanto por los interesados como por las autoridades
 
 Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+### CAPITULO III. DE LOS ACUERDOS, DICTAMENES Y RECOMENDACIONES AUTÓNOMAS
+
+###### ARTICULO 53 Bis.
+
+La Comisión iniciará de oficio la investigación de hechos presuntamente violatorios de derechos humanos, tanto individuales como colectivos.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 53 Bis A. En las investigaciones de oficio deberá prevalecer la observancia del interés superior del niño, la erradicación de cualquier forma de violencia contra la mujer, el goce pleno de derechos en condiciones de igualdad para las mujeres y las personas con discapacidad; así como la debida protección y salvaguarda de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 53 Bis B. La investigación de oficio procede en los casos siguientes:
+
+I. Cuando se trate de actos violatorios de derechos humanos presentados en los medios de comunicación;
+
+II. Cuando por la realización de determinadas conductas se ponga en peligro la vida, libertad, integridad física o psicológica de niños y personas adultas mayores;
+
+III. Cuando exista reiteración de violaciones a determinados derechos, por las mismas autoridades o servidores públicos;
+
+IV. Cuando la persona peticionaria o la persona agraviada solicite que su nombre se mantenga en estricta reserva, y de la valoración de la queja se determine la procedencia de dicha solicitud; y
+
+V. En aquellos en los que la Comisión tenga conocimiento por cualquier medio de presuntas violaciones de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 53 Bis C. En las investigaciones que se inicien de oficio, se procurará hacer del conocimiento de las partes tal circunstancia, sin ser impedimento para la Comisión Estatal el continuar la investigación del caso, a pesar de que el agraviado en sus derechos rechace avalar la denuncia de violaciones a derechos humanos.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 53 Bis D. las investigaciones iniciadas de oficio, se regirán por las disposiciones relativas al procedimiento de queja iniciada a petición de parte.
+
 ### CAPITULO IV. DE LAS NOTIFICACIONES
-
-### CAPITULO V. DE LOS INFORMES DE LA COMISION
-
-> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 54.
 
@@ -553,6 +609,22 @@ Una vez recibida la Recomendación, la autoridad o servidor público de que se t
 
 Habiendo aceptado la Recomendación entregará, en su caso, en otros cinco días adicionales, las pruebas correspondientes de que ha cumplido con la misma. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+
+a) La autoridad o servidor público de que se trate, deberá fundar, motivar y hacer pública su negativa, además, atender los llamados del Congreso del Estado, previo Dictamen emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno, a comparecer ante dichas Comisiones Permanentes, a efecto de que expliquen el motivo de su negativa;
+
+b) La Comisión determinará, previa consulta con las Comisiones Permanentes referidas en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso;
+
+c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o cumplir la recomendación; y
+
+d) Si persiste la negativa, la Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Lo anterior, sin ser impedimento para que la Comisión durante el curso de la investigación pueda presentar las denuncias sobre delitos y faltas administrativas en que incurran las autoridades y servidores públicos.
+
 ###### ARTICULO 59.
 
 En contra de las Recomendaciones, acuerdos o resoluciones definitivas de la Comisión Estatal, no procederá ningún recurso.
@@ -565,7 +637,9 @@ La Comisión Estatal no estará obligada a entregar ninguna de sus pruebas a la 
 
 Las Recomendaciones y los acuerdos de no responsabilidad que dicte la Comisión se referirán únicamente a casos concretos; por consiguiente, las autoridades no podrán aplicarlos a otros casos por analogía o por mayoría de razón.
 
-### CAPITULO I. OBLIGACIONES Y COLABORACION
+### CAPITULO V. DE LOS INFORMES DE LA COMISION
+
+> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 62.
 
@@ -579,7 +653,7 @@ La Comisión Estatal, notificará inmediatamente, en forma personal, a los quejo
 
 El Presidente de la Comisión Estatal deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Estatal. En casos excepcionales podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
+### CAPITULO I. OBLIGACIONES Y COLABORACION
 
 ###### ARTICULO 65.
 
@@ -599,7 +673,7 @@ La Comisión Estatal podrá en casos específicos rendir un informe especial cua
 
 ## TITULO CUARTO. DE LAS AUTORIDADES Y LOS SERVIDORES PUBLICOS
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
 
 ###### ARTICULO 69.
 
@@ -635,7 +709,15 @@ Además de las denuncias sobre los delitos y faltas administrativas en que incur
 
 Los servidores públicos presuntos responsables de violación grave a los derechos humanos, serán suspendidos de sus funciones en tanto el Ministerio Público resuelve la responsabilidad de que se le acusa.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 75 Bis.
+
+La Comisión Estatal podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda la reiteración de las conductas cometidas por una misma autoridad o servidor público, que hayan sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
+
 ## TITULO QUINTO. DEL REGIMEN LABORAL DE LOS SERVIDORES PUBLICOS DE LA COMISION
+
+### CAPITULO UNICO
 
 ###### ARTICULO 76.
 
@@ -693,7 +775,7 @@ El Secretario General de Gobierno
 
 Gonzalo M. Armienta Calderón
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 04 DE JULIO DE 2001.
 
@@ -712,3 +794,9 @@ El presidente de la Comisión Estatal de Derechos Humanos deberá comunicar al C
 ###### ARTÍCULO CUARTO.
 
 El Congreso del Estado convocará, a las organizaciones sociales y organismos públicos y privados defensores y promotores de los derechos humanos de Sinaloa, a presentar propuestas para la elección de las vacantes de consejeros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
