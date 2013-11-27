@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2013-08-23"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -1907,7 +1907,9 @@ XVIII.- Conocer y resolver las solicitudes de traslado de reos y las tendentes a
 
 XIX.- Promover y vigilar el establecimiento de instituciones y medidas preventivas para adolescentes que cometan conductas tipificadas como delitos por la legislación del Estado, así como prestarles el auxilio necesario;
 
-XX.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XX.- Realizar las funciones de evaluación de riesgos que representen los imputados, así como la supervisión y seguimiento de las medidas cautelares, distintas a la prisión preventiva impuestas por los Jueces de Control;
 
 XXI.- Organizar, dirigir, capacitar, administrar y supervisar las fuerzas de Seguridad Vial del Estado y apoyar a los cuerpos de inspección y vigilancia de los servicios de transporte en sus diversas modalidades, para vigilar y controlar, a través de ellos y en los términos que señalen las leyes y reglamentos respectivos, todo lo relativo a la vialidad y tránsito de vehículos en los ámbitos de competencia del Estado;
 
@@ -2266,3 +2268,9 @@ P.O. 23 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
