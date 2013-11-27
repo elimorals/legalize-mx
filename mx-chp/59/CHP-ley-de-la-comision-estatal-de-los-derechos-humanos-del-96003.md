@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-la-comision-estatal-de-los-derechos-humanos-del-96003"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-19"
-last_updated: "2013-08-19"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 288, POR EL QUE SE ESTABLECE LA DÉCIMA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 19 de agosto de 2013.
 
@@ -636,3 +638,15 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los diecinueve días del mes de agosto del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de la Comisión Estatal de los Derechos Humanos, expedida mediante Decreto número 233, de fecha 29 de julio de 2013 y publicada en el Periódico Oficial número 050, de fecha 19 de agosto de 2013.
+
+Artículo Cuarto.- La Comisión Estatal de los Derechos Humanos podrá otorgar de conformidad con la disponibilidad presupuestal, a los entonces Consejeros del Consejo Estatal de los Derechos Humanos, un monto económico por la conclusión de sus actividades.
