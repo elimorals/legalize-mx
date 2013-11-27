@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-11-25"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3567,9 +3567,7 @@ CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
-#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 1994)</small>
+#### SECCION SEPTIMA.-
 
 ###### Artículo 305.
 
@@ -3863,15 +3861,13 @@ Al que cometa el delito a que se refiere el artículo que antecede, se le impond
 
 (DEROGADO, P.O. 4 DE ENERO DE 2012)
 
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 #### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
 
 ###### Artículo 338.
 
-Se impondrá sanción de ocho días a seis años de prisión al que en estado de emoción violenta prive a otro de la vida o lo lesione, en circunstancias que atenúen su culpabilidad.
-
-I.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
-
-II.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2013)
 
 #### SECCION SEGUNDA.- DISCRIMINACION
 
@@ -5986,5 +5982,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE NOVIEMBRE DE 2013.
 
 PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
