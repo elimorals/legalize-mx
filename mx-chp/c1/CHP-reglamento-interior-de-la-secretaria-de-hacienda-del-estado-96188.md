@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-04"
-last_updated: "2013-09-04"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico oficial del Estado de Chiapas, el miércoles 4 de septiembre de 2013.
 
@@ -1009,7 +1009,9 @@ V. Conocer de los recursos captados a través de instituciones bancarias, a efec
 
 VI. Administrar los recursos públicos, invirtiendo en los instrumentos que ofrece el sistema financiero mexicano, suscribiendo los contratos de inversión y/o de intermediación bursátil que sean necesarios.
 
-VII. Coordinar la ministración de los recursos autorizados a los Organismos Públicos del Ejecutivo.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+VII. Otorgar el visto bueno de forma previa para la ministración de los recursos autorizados a los Organismos Públicos del Ejecutivo.
 
 VIII. Vigilar que se realicen los pagos de las amortizaciones, intereses y demás pagos a que haya lugar, derivados de empréstitos o créditos contratados.
 
@@ -1551,23 +1553,35 @@ II. Dirigir la revisión de los anteproyectos de presupuesto de egresos del gast
 
 III. Coordinar la elaboración de los anteproyectos de Presupuesto de Egresos de los Organismos Públicos, que no los hayan presentado en las fechas previstas.
 
-IV. Coordinar el análisis del calendario de gasto anual de los proyectos institucionales, que elaboren los Organismos Públicos, verificando la capacidad de ejecución, compatibilidad con las prioridades de planeación, programación y presupuestación, así como la disponibilidad de recursos financieros.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-V. Dirigir el análisis de las solicitudes de adecuaciones al presupuesto de egresos del gasto institucional presentadas por los Organismos Públicos.
+IV. Suscribir el calendario de gasto de los proyectos institucionales, que elaboren los Organismos Públicos, verificando la capacidad de ejecución, compatibilidad con las prioridades de planeación, programación y presupuestación, así como la disponibilidad de recursos financieros.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+V. Autorizar las adecuaciones presupuestarias del gasto institucional presentadas por los Organismos Públicos.
 
 VI. Vigilar el seguimiento del gasto que afecten el presupuesto comprometido, devengado, ejercido y pagado en el Sistema Presupuestario, con el fin de conocer las disponibilidades presupuestarias y analizar el comportamiento del ejercicio del gasto público.
 
-VII. Dirigir la reprogramación de los recursos presupuestarios autorizados y ministrados, mediante la cancelación de ministración que originen los traspasos y/o reducciones presupuestarias.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-VIII. Dirigir el proceso de las adecuaciones presupuestarias de acuerdo a lo solicitado por los Organismos Públicos, para su autorización y de las ministraciones que se deriven de éstas.
+VII. Suscribir la reprogramación de los recursos presupuestarios autorizados y ministrados, mediante la cancelación de ministración que originen los traspasos y/o reducciones presupuestarias.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Autorizar las adecuaciones presupuestarias solicitadas por los Organismos Públicos, para las ministraciones que se deriven de éstas.
 
 IX. Coordinar la integración del Presupuesto de Egresos presentado por los Organismos Públicos, con base a los criterios generales para presupuestar y programar.
 
 X. Dirigir el proceso de los incrementos o decrementos al Presupuesto de Egresos del Estado, en función al incremento o disminución de los ingresos, o remanentes de años anteriores.
 
-XI. Suscribir los volantes de la ministración mensual; y firmar mancomunadamente con el Director General de Presupuesto y Cuenta Pública, las ministraciones que se deriven de los traspasos, liberaciones y recalendarizaciones presupuestales.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XII. Validar la viabilidad presupuestaria para la creación, modificación y cancelación de estructuras orgánicas y plantillas de plazas de la Administración Pública Estatal.
+XI. Suscribir los volantes de la ministración mensual, así como las ministraciones que se deriven de los traspasos, liberaciones y recalendarizaciones presupuestales.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XII. Suscribir los dictámenes de estructuras orgánicas y la consecuente creación, modificación o cancelación de categorías y/o plazas.
 
 XIII. Proponer a su superior inmediato, y en su caso, realizar la modificación del presupuesto autorizado a los proyectos institucionales de los Organismos Públicos, para atender contingencias que requieran recursos no presupuestados.
 
@@ -1593,7 +1607,9 @@ b) Departamento de Proyectos de Inversión.
 
 El Titular de la Dirección de Presupuesto del Gasto de Inversión, tendrá las atribuciones siguientes:
 
-I. Formular la liberación de recursos presupuestarios de los programas y proyectos de inversión pública, en apego a la validación que emita la Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+I. Autorizar la liberación de recursos presupuestarios de los programas y proyectos de inversión pública, en apego a la validación que emita la Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
 
 II. Participar en la integración de políticas normativas, programáticas y presupuestarias en materia de inversión.
 
@@ -1608,6 +1624,8 @@ VI. Establecer coordinación con la Tesorería Única y la Subsecretaría de Ing
 VII. Realizar las ampliaciones o reducciones del Presupuesto de Egresos, en función al incremento o disminución de los ingresos.
 
 VIII. Realizar las acciones de seguimiento presupuestal al Programa de Inversión Anual en materia del gasto de inversión.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 IX. Suscribir las ministraciones mensuales del gasto de inversión, derivadas de las autorizaciones de las adecuaciones presupuestarias.
 
@@ -2968,3 +2986,13 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley 
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los seis días del mes de agosto del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Vicente Pérez Cruz, Consejero Jurídico del Gobernador.- Juana María de Coss León.- Secretaria de Hacienda.- Rubricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
