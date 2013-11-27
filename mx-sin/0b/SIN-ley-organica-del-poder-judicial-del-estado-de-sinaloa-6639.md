@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2011-08-29"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -127,15 +127,17 @@ La extensión territorial de cada uno de estos Distritos Judiciales es la del Mu
 
 Las cabeceras de dichos Distritos Judiciales serán las poblaciones de: Los Mochis, El Fuerte, Choix, Guasave, Sinaloa de Leyva, Angostura, Guamúchil, Mocorito, Badiraguato, Culiacán, Navolato, La Cruz, Cosalá, San Ignacio, Mazatlán, Concordia, El Rosario y Escuinapa, respectivamente, y en ellas residirán los Juzgados de Primera Instancia.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 17.
 
-Los Juzgados de Primera Instancia ejercerán jurisdicción en todo el territorio del Distrito Judicial de su residencia y, en su caso, en los que fijen las leyes.
+Los Juzgados de Primera Instancia ejercerán jurisdicción en el Distrito Judicial de su residencia y, en su caso, en los que fijen las leyes o en los que se determine mediante acuerdo por el Pleno del Supremo Tribunal de Justicia.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+En el caso de los Juzgados de Primera Instancia de Control y Juicio Oral Penal, su jurisdicción se ejercerá en el territorio del Circuito Judicial integrado por los Distritos que determine el Pleno del Supremo Tribunal de Justicia.
 
-Los Juzgados de Primera Instancia que conozcan de asuntos en materia penal, podrán resolver lo que jurídicamente corresponda, respecto de las solicitudes formuladas por el Ministerio Público, durante el periodo de integración de la averiguación previa, para la práctica del cateo en distritos judiciales distintos al de su residencia.
+Los Juzgados de Primera Instancia que conozcan de asuntos en materia penal iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio, podrán resolver lo que jurídicamente corresponda, respecto de las solicitudes formuladas por el Ministerio Público, durante el periodo de integración de la averiguación previa, para la práctica del cateo en Distritos Judiciales distintos al de su residencia.
 
 ###### ARTICULO 18.
 
@@ -177,7 +179,11 @@ XIV.- Adscribir a los Magistrados de una Sala a otra cuando las necesidades del 
 
 XV.- Calificar las recusaciones con causa y excusas de los Magistrados del Supremo Tribunal de Justicia;
 
-XVI.- Calificar las recusaciones con causa y excusas de los Magistrados de las Salas de Circuito, asignando al similar que deba conocer el asunto de que se trate;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XVI.- Calificar las recusaciones con causa y excusas de los Magistrados de las Salas de Circuito, y de los jueces adscritos a los Juzgado de Primera Instancia de Control y Juicio Oral Penal, asignando al similar que deba conocer el asunto de que se trate;
 
 XVII.- Acordar con respecto de la sustitución del Presidente del Tribunal;
 
@@ -279,7 +285,11 @@ Cada Sala tendrá un Presidente que se designará por los integrantes de la mism
 
 Son atribuciones del Presidente de cada una de las Salas del Supremo Tribunal de Justicia, en los asuntos de su competencia:
 
-I.- Dirigir los debates y conservar el orden en las sesiones de las Salas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+I.- Dirigir los debates y conservar el orden en las sesiones y audiencias de las Salas;
 
 II.- Turnar al Pleno los asuntos que sean de su competencia;
 
@@ -325,13 +335,31 @@ c) Las demás facultades que le confieren esta Ley o el Reglamento Interior del 
 
 La Primera y la Tercera Sala, conocerán:
 
-I.- De los recursos que la Ley conceda ante el superior, contra las sentencias definitivas dictadas por los Jueces Penales de Primera Instancia;
+I. De los recursos que la Ley conceda ante el superior, contra las sentencias definitivas dictadas por los Jueces Penales de Primera Instancia;
 
-II.- De las recusaciones y excusas de los Jueces Penales de Primera Instancia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Ejercer la jurisdicción atrayente en asuntos del orden penal de las Salas de Circuito, en los términos de Ley; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-IV.- Los demás asuntos que en materia penal determinen las Leyes.
+II. De las recusaciones y excusas de los Jueces Penales de Primera Instancia, salvo las relativas a los Jueces adscritos a los Juzgados de Primera Instancia de Control y Juicio Oral Penal, que corresponden al Supremo Tribunal de Justicia en Pleno;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 10 DE ABRIL DE 1995, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+III. Del recurso de queja contra las conductas de los Jueces de Control y Juicio Oral Penal que injustificadamente no emitan las resoluciones o no señalen la práctica de diligencias dentro de los plazos y términos que señala la ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 10 DE ABRIL DE 1995, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+IV. Del recurso de revisión interpuesto contra las sentencias ejecutoriadas dictadas en el proceso penal acusatorio;
+
+V. Ejercer la jurisdicción atrayente en asuntos del orden penal de las Salas de Circuito, en los términos de Ley; y
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN IV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 27 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER VI.</small>
+
+VI. Los demás asuntos que en materia penal determinen las Leyes.
 
 ###### ARTICULO 30.
 
@@ -405,13 +433,13 @@ Los Actuarios de las Salas lo serán también del Pleno.
 
 ### CAPITULO VII. DE LAS SALAS DE CIRCUITO
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 36.
 
-Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares, así como de los que se interpongan en contra de las resoluciones que dicten los Jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
-
-> <small>(DEROGADO PARRAFO SEGUNDO, P.O. 30 DE MARZO DE 2009)</small>
+Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares, solo con excepción del recurso de queja al que se refiere el artículo 29 de esta Ley; así como de los que se interpongan en contra de las resoluciones que dicten los Jueces de Primera Instancia de Ejecución de las Consecuencias Jurídicas del Delito.
 
 ###### ARTICULO 37.
 
@@ -503,7 +531,11 @@ Para la práctica de las visitas encomendadas por el Pleno o el Presidente del S
 
 Son obligaciones de los Visitadores a que refiere el artículo anterior:
 
-I.- Examinar el estado que guardan el archivo, los libros, el local, los muebles y los expedientes de los Juzgados visitados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+I.- Examinar el estado que guardan el archivo, los libros, el local, los muebles, los expedientes y, en su caso, los registros y constancias de los asuntos de las Salas de Circuito o Juzgados visitados;
 
 II.- Rendir al Pleno o al Presidente del Supremo Tribunal, informe acerca de las visitas que practiquen;
 
@@ -515,15 +547,39 @@ V.- Las demás que señalen las Leyes o el Reglamento Interior del Supremo Tribu
 
 ### CAPITULO XI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 48.
 
-El personal de cada uno de los Juzgados de Primera Instancia se compondrá de un Juez, de un Secretario por lo menos y del número de empleados que determine el Presupuesto. El Supremo Tribunal de Justicia resolverá en qué Juzgados de Primera Instancia habrá dos o más Secretarios. En caso de que en un Juzgado Mixto de Primera Instancia haya dos Secretarios, fungirá el primero de ellos como Secretario del ramo civil y el segundo como Secretario del ramo penal.
+Con excepción de los Juzgados de Control y Juicio Oral Penal, el personal de cada uno de los Juzgados de Primera Instancia se compondrá de un Juez, de un Secretario por lo menos y del número de empleados que determine el Presupuesto. El Supremo Tribunal de justicia resolverá en qué Juzgados de Primera Instancia habrá dos o más Secretarios. En caso de que en un Juzgado Mixto de Primera Instancia haya dos Secretarios, fungirá el primero de ellos como Secretario del ramo civil y el segundo como Secretario del ramo penal.
+
+El personal de los Juzgados de Primera Instancia de Control y Juicio Oral Penal se compondrá de al menos tres Jueces, un Administrador de Juzgado y del número de servidores Judiciales que determine el Supremo Tribunal de Justicia en atención al presupuesto de Egresos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 48 BIS.- Los Jueces adscritos a los Juzgados de Primera Instancia de Control y Juicio Oral Penal tendrán fe pública en el ejercicio de sus funciones y podrán ejercer como:
+
+I. Jueces de Control, que ejercerán sus atribuciones desde el inicio de la etapa de investigación inicial hasta el dictado del auto de apertura a juicio oral; y
+
+II. Jueces de Juicio Oral, ante los cuales se celebrará la audiencia de debate de juicio oral, dictarán la sentencia y, en su caso, conocerán de la prueba anticipada conforme a lo previsto en la legislación procesal penal.
+
+Ningún Juez puede conocer de un asunto como Juez de Juicio Oral, si en la misma causa intervino como Juez de Control.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 49.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos; mayor de veinticinco años, contar con título profesional de Licenciado en Derecho, de notoria buena conducta y aprobar el examen de admisión correspondiente.
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años, contar con título profesional de Licenciado en Derecho, de notoria buena conducta y ser seleccionado en el concurso de oposición correspondiente.
 
-En el nombramiento y ascenso de los Jueces, se tendrá en cuenta preferentemente a quienes estén prestando sus servicios con eficiencia y probidad en el Poder Judicial. Lo mismo se observará en el caso de los Secretarios y Actuarios.
+En tanto se realiza el concurso de selección correspondiente, el Pleno del Supremo Tribunal de Justicia podrá nombrar a quien cubra provisionalmente la vacante de Juez de Primera Instancia de entre quienes laboran en el Poder Judicial y que reúnan los requisitos previstos en el párrafo anterior.
+
+En el nombramiento y promoción de los Jueces, se tendrá en consideración preferentemente a quienes estén prestando sus servicios con eficiencia y probidad en el Poder Judicial. Igual prevención se observará, estando los aspirantes en igualdad de circunstancias, en el caso de los Secretarios y Actuarios.
 
 ###### ARTICULO 50.
 
@@ -533,23 +589,103 @@ Para ser Secretario y Actuario de Juzgado de Primera Instancia se requieren los 
 
 En cada Distrito Judicial habrá el número de Juzgados de Primera Instancia que determine el Pleno del Supremo Tribunal de Justicia, conforme a las necesidades del servicio judicial.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+El Pleno también determinará el número de Jueces que integrarán los Juzgados de Control y Juicio Oral Penal de cada Circuito Judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 52.
 
-El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, para adolescentes o de vigilancia de la ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar.
+El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar, para adolescentes o de ejecución de las las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar, a menos que el Pleno del Supremo Tribunal de Justicia establezca mediante acuerdo que su conocimiento debe limitarse a materia determinada. En todo caso, en los Distritos Judiciales que forme parte de un Circuito Judicial donde ejerza jurisdicción un Juzgado de Primera Instancia de Control y Juicio Oral Penal, no conocerá de materia penal conforme al sistema acusatorio.
+
+Asimismo, el Pleno podrá fijar competencias especializadas a los Juzgados de Primera Instancia de cualquier Ramo y a las Salas de Circuito, para conocer exclusivamente asuntos de la materia correspondiente que por su alta incidencia, su impacto social o su complejidad requieran atención especifica para su resolución, o cuando en general sea conveniente para hacer mas eficiente y completo el servicio de impartición de justicia.
 
 ###### ARTICULO 53.
 
 Los Juzgados de Primera Instancia del Ramo Penal, conocerán:
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
 I.- De los delitos del orden común, cuando su conocimiento no esté reservado a otra autoridad judicial, y los establecidos en la legislación federal en los casos que ésta prevea la competencia para las entidades Federativas, cometidos dentro del territorio del Estado, así como de los incidentes de responsabilidad civil que de tales delitos se deriven; y,
 
 II.- De los demás asuntos que les encomienden las Leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 53 BIS.- Además de lo previsto en la fracción I del artículo anterior, los Juzgados de Primera Instancia del Control y Juicio Oral Penal, conocerán:
+
+A. Como Juzgado de Control:
+
+I. De las audiencias que deban realizarse en la etapa de investigación inicial y en las fases de control previo, investigación formalizada e intermedia o de preparación del juicio oral;
+
+II. De las diligencias o cualquier otra medida que requiera control judicial previo;
+
+III. De las solicitudes realizadas por el imputado o su defensa para intervenir cuando el Ministerio Público no les entregue copias de los registros que existan en la investigación;
+
+IV. De las solicitudes de la victima u ofendido y del Ministerio Público para dictar las medidas cautelares y providencias necesarias para asegurar los fines del proceso y los derechos de las personas involucradas;
+
+V. De las solicitudes de orden de aprehensión o comparecencia;
+
+VI. De las impugnaciones interpuestas en contra de las resoluciones del Procurador General de Justicia del Estado, o del servidor público en quien delegue la función, que confirmen las determinaciones del Ministerio Público establecidas en el artículo 234 del Código de Procedimientos Penales;
+
+VII. De las impugnaciones interpuestas en contra de la aplicación indebida de un criterio de oportunidad por parte del Ministerio Público, así como en contra de su negativa de solicitar la recepción anticipada de prueba;
+
+VIII. De la vinculación a proceso de los imputados;
+
+IX. De la práctica de la prueba anticipada;
+
+X. De la admisión de la prueba que se desahogará en la audiencia de juicio oral;
+
+XI. Sobre la aprobación, en su caso, de los acuerdos reparatorios;
+
+XII. De las solicitudes de procedimiento abreviado y procedimiento simplificado hasta el dictado del auto de apertura correspondiente;
+
+XIII. De las solicitudes de suspensión condicional del proceso;
+
+XIV. Del recurso de revocación; y
+
+XV. Las demás que señalen las Leyes, Reglamentos, Acuerdos y Manuales respectivos.
+
+B. Como Juzgado de Juicio Oral:
+
+I. De la dirección de la audiencia de juicio oral;
+
+II. De las cuestiones que se presenten durante el desarrollo de la audiencia de juicio oral;
+
+III. Del desahogo de la prueba durante la audiencia de juicio oral;
+
+IV. Del dictado y explicación de la sentencia definitiva en los juicios que le corresponda resolver; y
+
+V. Las demás que señalen las Leyes, Reglamentos, Acuerdos y Manuales Respectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 53 BIS A.- Los Jueces adscritos a los Juzgados de Primera Instancia de Control y Juicio Oral así como los Magistrados que intervengan en el proceso penal acusatorio, en el ámbito de sus respectivas competencias y atribuciones, tendrán como deber:
+
+I. Resolver los asuntos sometidos a su consideración dentro de los términos previstos en la Ley con sujeción a los principios que orientan el ejercicio de la función jurisdiccional y los del proceso;
+
+II. Respetar, garantizar y velar por la salvaguarda de los derechos de quienes intervienen en el proceso;
+
+III. Realizar personalmente las funciones que le confiere la ley, salvo aquellas de carácter administrativo que de conformidad con la normatividad aplicable correspondan al personal auxiliar del Juzgado o Tribunal, y responder por el uso de la autoridad que les haya sido otorgada en el ámbito de su competencia;
+
+IV. Guardar reserva sobre los asuntos relacionados con su función, aún después de haber cesado en el ejercicio del cargo;
+
+V. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que intervienen dentro del proceso penal;
+
+VI. Abstenerse de presentar en público al imputado o acusado como culpable; y
+
+VII. Las demás que señalen las Leyes, Reglamentos y Manuales respectivos.
 
 ###### ARTICULO 54.
 
@@ -681,6 +817,12 @@ Dicha oficina será destinada a organizar y programar las agendas de los Actuari
 
 Los Jueces de Primera Instancia serán sustituidos en sus faltas, en tanto se hace una nueva designación por el Secretario, y si hubiere dos o más, por el de menor número.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Los Jueces de Primera Instancia adscritos a los Juzgados de Control y Juicio Oral Penal serán sustituidos en sus faltas por el Juez de la misma materia que corresponda en turno.
+
 ###### ARTICULO 61.
 
 Las faltas accidentales del Secretario y las temporales que no excedan de un mes serán cubiertas por otro secretario, si lo hubiere, o en su defecto por el Actuario. Si tampoco hubiere Actuario, el Juez actuará con testigos de asistencia.
@@ -697,15 +839,19 @@ Cuando un Juez de Primera Instancia del orden civil tenga impedimento legal para
 
 Cuando un Juez de Primera Instancia del orden Familiar tenga impedimento legal para conocer determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo; en defecto de éste, el Juez del Ramo Civil y a falta o impedimento de éste, el Juez de Primera Instancia del Ramo Penal, siguiendo siempre el orden numérico; y en defecto de éstos, un Juez de Justicia para Adolescentes, de haberlo en el mismo distrito judicial.
 
-> <small>(F. DE E., P.O. 26 DE ABRIL DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando el Juez de Primera Instancia del orden Penal tenga impedimento legal para conocer determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo; en defecto de éste, el Juez del Ramo Civil y a falta o impedimento de éste, el Juez de Primera Instancia del Ramo Familiar, siguiendo siempre el orden numérico.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Cuando un Juez de Primera Instancia del orden Penal tenga impedimento legal para conocer determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo; en defecto de éste, el Juez de Primera Instancia del Ramo Familiar, siguiendo siempre el orden numérico. Cuando de trate de un Juez de Primera Instancia de Control y Juicio Oral Penal, conocerá del asunto el Juez del mismo Juzgado que corresponda en turno.
 
 Si persiste el impedimento, el competente será el Juez del Distrito Judicial a cuya cabecera exista comunicación más rápida, correspondiendo conocer en primer término al de la materia de que se trate, atendiéndose al orden numérico como en los casos anteriores.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando un Juez de Primera Instancia de Vigilancia de las Consecuencias Jurídicas del Delito tenga impedimento legal para conocer determinado negocio, conocerá del asunto un Juez de Primera Instancia del Ramo Penal del Distrito Judicial en que aquél tenga su asiento, siguiendo el orden numérico.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Cuando un Juez de Primera Instancia de Ejecución de las Consecuencias Jurídicas del Delito tenga impedimento legal para conocer determinado negocio, conocerá del asunto un Juez de Primera Instancia del Ramo Penal del Distrito Judicial en que aquél tenga su asiento, siguiendo el orden numérico.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -947,13 +1093,21 @@ IV.- No presentar oportunamente el Magistrado Ponente, por negligencia, el proye
 
 V.- No concurrir, sin causa justificada, a la discusión del proyecto presentado por el Magistrado Ponente, o no votarlo, por negligencia, dentro del término legal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 95.
 
-Son faltas oficiales de los Jueces:
+Son faltas oficiales de los Jueces de Primera Instancia y Menores:
 
 I.- No dictar, por negligencia, dentro del término señalado por la Ley, los acuerdos que procedan a los escritos y promociones de las partes;
 
-II.- Dictar resoluciones o trámites notoriamente innecesarios, que sólo tiendan a retardar el procedimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+II.- Dictar resoluciones o trámites notoriamente innecesarios o que sean contrarios a las constancias procesales o a Derecho, o emitir resoluciones modificando por sí, sin interposición de recurso, otras diversas dictadas con anterioridad;
 
 III.- Admitir como fiadores a personas que no acrediten suficientemente su solvencia y la libertad de gravámenes en los casos en que legalmente procedan las fianzas o las contrafianzas;
 
@@ -967,9 +1121,29 @@ VII.- No dictar por negligencia, las sentencias interlocutorias o definitivas en
 
 VIII.- No imponer las correcciones disciplinarias que sean procedentes, a los Secretarios, Actuarios y demás subalternos de su dependencia, por faltas en que incurran en el desempeño de sus funciones;
 
-IX.- No concurrir al desempeño de sus labores oficiales durante las horas hábiles, sin causa justificada; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X.- Dedicar a los servidores de su dependencia al desempeño de labores extrañas a sus funciones oficiales.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+IX.- No concurrir al desempeño de sus labores oficiales durante las horas hábiles, sin causa justificada;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+X.- Dedicar a los servidores a su cargo al desempeño de labores extrañas a sus funciones oficiales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XI.- Desempeñar sus funciones sin apegarse a los principios de Legalidad, Independencia, Autonomía, Honorabilidad, Honestidad, Eficiencia y Excelencia Profesional; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XII.- No presidir y dirigir personalmente las audiencias previstas en el sistema penal acusatorio.
 
 ###### ARTICULO 96.
 
@@ -988,6 +1162,22 @@ V.- No mostrar sin causa justificada los expedientes a las partes cuando lo soli
 VI.- No entregar al Actuario los expedientes de notificación personal o pendiente de diligenciar; y
 
 VII.- Las señaladas en las fracción (sic) IV, IX y X del artículo 95 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+ARTICULO 96 BIS.- Son faltas oficiales de los Administradores de Juzgado de Control y Juicio Oral Penal:
+
+I. No rendir los informes estadísticos requeridos por la Presidencia del Supremo Tribunal de Justicia o la Visitaduría de Juzgados;
+
+II. No cumplir con las indicaciones que les sean formuladas por los Jueces durante las audiencias que éstos presidan;
+
+III. No imponer las correcciones disciplinarias que sean procedentes, al personal a su cargo por faltas en que incurran en el desempeño de sus funciones;
+
+IV. No concurrir al desempeño de sus labores oficiales durante las horas hábiles, sin causa justificada; y
+
+V. Dedicar a los servidores a su cargo al desempeño de labores extrañas a sus funciones oficiales.
 
 ###### ARTICULO 97.
 
@@ -1013,29 +1203,45 @@ II.- No atender oportunamente y con la debida corrección a los litigantes y al 
 
 III.- No despachar oportunamente los oficios, practicar actuaciones judiciales o evacuar las diligencias que sean de su competencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 99.
 
-Las faltas que establecen los artículos del 94 al 98 de esta Ley, se sancionarán con una corrección disciplinaria, sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
+Las faltas de los servidores judiciales que establecen los artículos 94, 95, 96, 96 Bis, 97 y 98 de esta Ley, atendiendo la gravedad del caso concreto y la afectación del servicio de administración de justicia, se castigarán imponiendo las sanciones siguientes:
 
-Se entenderá corrección disciplinaria:
+I. Amonestación privada o pública, hecha por escrito;
 
-I.- El apercibimiento hecho por escrito;
+II. Suspensión, sin goce de sueldo, hasta por noventa días;
 
-II.- La multa que no exceda del importe del salario de tres días; y
+III. Destitución;
 
-III.- La suspensión, sin goce de sueldo, que no exceda de un mes.
+IV. Sanción económica; y
 
-Las correcciones disciplinarias se impondrán sin sujetarse al orden establecido en atención a la gravedad de la falta, tomándose razón en el expediente personal del servidor público a quien se sancione.
+V. Inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+
+Las sanciones se aplicarán previo procedimiento que se sustanciará con audiencia del servidor judicial señalado como probable responsable de la comisión de una falta.
+
+La destitución se aplicará por la comisión de hechos que se consideren constituyen una falta grave por afectar la legalidad, honradez, lealtad, imparcialidad, eficiencia o la excelencia profesional que requiere el servicio de administración de justicia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 100.
 
-También se considerarán faltas oficiales y se sancionarán como tales, las infracciones y omisiones en que incurran los servidores del Poder Judicial, con relación a los deberes que les imponen las Leyes y Reglamentos respectivos.
+También se considerarán faltas oficiales y se sancionarán como tales, las infracciones y omisiones en que incurran los servidores del Poder Judicial, con relación a los deberes que les imponen las Leyes, Reglamentos, Acuerdos y Manuales respectivos.
 
 ###### ARTICULO 101.
 
 Las faltas oficiales en que incurran los servidores de la administración de justicia, serán sancionadas:
 
-I.- Por el Supremo Tribunal de Justicia en Pleno, cuando se trate de las cometidas por Magistrados del propio Tribunal, Magistrados de Circuito, Secretarios del Tribunal, Secretarios de las Salas de Circuito y Jueces del orden común;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+I.- Por el Supremo Tribunal de Justicia en Pleno, cuando se trate de las cometidas por Magistrados del propio Tribunal, Magistrados de Circuito, Secretarios del Tribunal, Secretarios de las Salas de Circuito, Jueces de Primera Instancia y Menores, así como de Administradores de Juzgados de Control y juicio Oral Penal;
 
 II.- Por el Presidente del Supremo Tribunal, tratándose de las cometidas por los Actuarios y demás subalternos del Tribunal; y
 
@@ -1057,7 +1263,11 @@ La protesta se otorgará:
 
 I.- Ante el Supremo Tribunal de Justicia en Pleno, por los Magistrados de Circuito, Jueces de Primera Instancia y Secretarios del propio Tribunal;
 
-II.- Ante el Presidente del Supremo Tribunal de Justicia, por los Actuarios y demás empleados del Tribunal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+II.- Ante el Presidente del Supremo Tribunal de Justicia, por los Administradores de Juzgado de Control y Juicio Oral Penal, Actuarios y demás empleados del Tribunal;
 
 III.- Ante el Magistrado de Circuito, por los Secretarios y demás personal de la Sala respectiva;
 
@@ -1067,9 +1277,13 @@ V.- Ante el Juez de quien dependan, por los Secretarios, Actuarios y demás suba
 
 De toda acta de protesta se harán los ejemplares que determinen las disposiciones administrativas y uno más para el Supremo Tribunal de Justicia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 105.
 
-Los Jueces y Secretarios de los Juzgados no podrán abandonar el lugar de su residencia sin la previa autorización del Presidente del Supremo Tribunal de Justicia, salvo los casos de diligencias que deban practicar dentro de la jurisdicción territorial del Juzgado al que estén adscritos, o cuando disfruten de licencias o vacaciones conforme a esta Ley.
+Los Jueces, Administradores y Secretarios de los Juzgados no podrán abandonar el lugar de su residencia sin la previa autorización del Presidente del Supremo Tribunal de Justicia, salvo los casos de diligencias que deban practicar dentro de la jurisdicción territorial del Juzgado al que estén adscritos, o cuando disfruten de licencias o vacaciones conforme a esta Ley.
 
 Para la práctica de las visitas de inspección a los Juzgados Menores, fuera del lugar de residencia de los Jueces de Primera Instancia, deberán éstos recabar previamente autorización del Supremo Tribunal de Justicia.
 
@@ -1083,15 +1297,17 @@ Los servidores públicos del Poder Judicial del Estado tendrán derecho a dos pe
 
 Los períodos de vacaciones de los Magistrados y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas de Circuito serán fijados en forma tal que no sufra perjuicio el despacho de los negocios de su competencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE JUNIO DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 108.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-Los servidores públicos de los juzgados disfrutarán de sus períodos de vacaciones en el orden que determine el juez, de conformidad con lo previamente acordado por el Pleno del Supremo Tribunal.
+###### ARTICULO 108.
 
-Cuando disfrute de vacaciones el Juez, será sustituido por el Secretario, y si hubiere dos Secretarios por el de menor número. Durante sus períodos de vacaciones los Secretarios serán sustituidos conforme al artículo 61 de esta Ley.
+Los servidores públicos de los Juzgados disfrutarán de sus períodos de vacaciones en el orden que determine el Juez, de conformidad con lo previamente acordado por el Pleno del Supremo Tribunal; en los casos de los Juzgados de Primera Instancia de Control y Juicio Oral Penal, el orden lo determinará el Administrador de Juzgado, garantizando en este último caso que siempre queden en funciones al menos dos Jueces y el personal necesario.
+
+Cuando disfrute de vacaciones el Juez, será sustituido por el Secretario, y si hubiere más de un Secretario, por el de menor número. Durante sus períodos de vacaciones los Secretarios serán sustituidos conforme al Artículo 61 de esta Ley. Los Administradores de Juzgado serán sustituidos por el Jefe de Unidad que designe.
 
 ###### ARTICULO 109.
 
@@ -1161,7 +1377,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Francisco C. Frías Castro
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE JUNIO DE 2000.
 
@@ -1246,3 +1462,25 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo
 SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
 
 TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Por lo que concierne a lo relativo al proceso penal acusatorio, el presente Decreto entrará en vigor de manera gradual y sucesiva, en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
+
+II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+
+TERCERO. El Ejecutivo del Estado deberá considerar en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal que corresponda, los recursos necesarios para el cumplimiento del presente Decreto, en apego a los artículos primero y segundo transitorios del Código de Procedimientos Penales publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha 25 de enero de 2013.
+
+CUARTO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá expedir la normatividad necesaria para reglamentar los procedimientos y organización administrativa de los Juzgados de Primera Instancia de
+
+Control y Juicio Oral Penal.
+
+QUINTO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá disponer los procesos para la selección del personal de los Juzgados de Primera Instancia de Control y Juicio Oral Penal, así como las acciones de capacitación necesarias para dicho personal y demás servidores judiciales con intervención en el proceso penal acusatorio y su implementación.
