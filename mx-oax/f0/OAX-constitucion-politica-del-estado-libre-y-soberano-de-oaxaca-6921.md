@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-09-06"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -545,9 +545,9 @@ e) Los fondos de ayuda aportado por la Federación al Estado y Municipios deber�
 
 Son obligaciones de los habitantes del Estado:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria y reciban la militar, en los términos que establezca la Ley;
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar, en los términos que establezca la ley;
 
 II. Inscribirse en el padrón de la localidad en que residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan;
 
@@ -2087,7 +2087,7 @@ El Gobernador no puede:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2461,7 +2461,7 @@ Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aproba
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-III. Conocer de las peticiones formuladas por los demás Tribunales y Jueces del Estado, cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, en los términos que disponga la Ley. Las resoluciones dictadas por las dos terceras partes de los miembros del Pleno del Tribunal Superior de Justicia tendrán efectos de criterios orientados no vinculantes;
+III. Conocer de las peticiones formuladas por los demás Tribunales y Jueces del Estado, cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, en los términos que disponga la Ley. Las resoluciones dictadas por las dos terceras partes de los miembros del Pleno del Tribunal Superior de Justicia tendrán efectos de criterios orientadores no vinculantes;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2473,7 +2473,7 @@ V. Sustanciar y resolver el juicio para la protección de los derechos humanos, 
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Solventar y resolver los recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de esta Constitución, en los términos y plazos señalados por la Ley.
+VI. Solventar y resolver los recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de la Constitución, en los términos y plazos señalados por la Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2825,7 +2825,7 @@ IV.- Las demás que le atribuyan esta Constitución y las leyes.
 
 ARTICULO 125 BIS.- El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos del Estado y Municipales
 
@@ -2991,7 +2991,7 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 ###### ARTICULO 126.
 
-En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
+En el Estado de Oaxaca todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3017,13 +3017,17 @@ a) Será democrática, considerando la democracia no sólo como una estructura j
 
 b) Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad, igualdad de derecho de todos los hombres, evitando los privilegios de razas, de región, de grupos, de sexos o de individuos.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+c) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
 III.- Para dar cumplimiento al tercer Párrafo y fracción II de este Artículo, el Ejecutivo Estatal, en coordinación con la Federación, determinarán los planes y programas de estudio de la educación primaria, secundaria y normal. Para tales efectos, considerará la opinión de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
 
 IV.- Toda la educación que el Estado imparta será gratuita.
 
-V.- Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer Párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo de la Nación y el Estado; apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+V.- Además de impartir la educación preescolar, primaria, secundaria y media superior, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación inicial y la educación superior necesarios para el desarrollo de la Nación, y el Estado, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2004)</small>
 
@@ -3201,7 +3205,7 @@ Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hicierei
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2011)</small>
 
-Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezcan las bases y procedimientos para tal efecto.
+Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezca las bases y procedimientos para tal efecto.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3831,7 +3835,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Gobernador del Estado dentro del término de noventa días, contados a partir de la publicación del presente Decreto, propondrá a la Legislatura los candidatos para ocupar el cargo de Procurador General de Justicia del Estado.
 
-TERCERO.- La legislatura del Estado efectuará las adecuaciones legales necesidades para dar cumplimiento al presente Decreto.
+TERCERO.- La Legislatura del Estado efectuará las adecuaciones legales necesarias para dar cumplimiento al presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -4051,6 +4055,12 @@ DECRETO NÚMERO 2044, POR EL QUE SE MODIFICA EL ARTÍCULO 37 DE LA CONSTITUCIÓN
 
 P.O. 6 DE SEPTIEMBRE DE 2013.
 
-DECRETO NÚMERO 2045, POR EL QUE SE MODIFICA EL PÁRRARO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+DECRETO NÚMERO 2045, POR EL QUE SE MODIFICA EL PÁRRAFO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
 
 ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La obligatoriedad del Estado para garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el Estado a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado de Oaxaca, y en los términos establecidos en los instrumentos del Sistema Nacional y Estatal de Planeación Democrática del Desarrollo.
