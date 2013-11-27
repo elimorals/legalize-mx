@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-884
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-30"
-last_updated: "2012-08-22"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL DÉCIMO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de mayo de 2012.
 
@@ -1197,7 +1199,7 @@ V. Representar al Coordinador Regional del Gobierno del Estado Zona Ríos y Jonu
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DEL TRABAJO Y PREVISIÓN SOCIAL
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL PRESENTE ACUERDO, MODIFICO EN CUANTO A SU ESTRUCTURA PRACTICAMENTE AL ARTICULO, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL PRESENTE ACUERDO, MODIFICÓ EN CUANTO A SU ESTRUCTURA PRÁCTICAMENTE AL ARTÍCULO, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA</small>
 
 ###### Artículo 47.
 
@@ -1370,3 +1372,27 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 P.O. 22 DE AGOSTO DE 2012.
 
 ÚNICO.- El presente acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Con las salvedades a que se contrae este artículo en su parte in fine, se derogan todas las disposiciones administrativas reglamentarias que se opongan al presente Reglamento. En aquellas unidades administrativas que requieran reformar en lo conducente o expedir nuevos reglamentos que regulen sus atribuciones propias, deberán proceder a su inmediata formulación en un plazo no mayor de ciento veinte días hábiles; mientras tanto, podrán aplicar los que se encuentren vigentes y no se opongan a los términos de este Reglamento Interior.
+
+TERCERO. Los asuntos pendientes, al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquellas unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+CUARTO. Cuando en otras disposiciones legales se dé una denominación distinta a alguna unidad administrativa cuyas funciones estén establecidas por el presente Reglamento, dichas atribuciones se entenderán concedidas para su ejercicio a la unidad administrativa que determina este Ordenamiento.
+
+QUINTO. Para su mejor funcionamiento, las unidades operativas y administrativas, deberán revisar sus respectivos Manuales de Procedimientos, para que las disposiciones de los mismos puedan ser integradas al Manual General de la Secretaría de Gobierno, en un plazo de ciento veinte días hábiles al día siguiente del inicio de vigencia del presente.
+
+SEXTO. Los derechos de los servidores públicos, serán respetados conforme a la Ley aplicable y en ningún caso, serán afectados por la organización, que implica este Reglamento.
+
+SÉPTIMO. Los recursos humanos, financieros y materiales que fueron transferidos al sector de la Secretaría de Gobierno, de conformidad con lo dispuesto en el decreto 270 que reforma la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, publicado el 26 de diciembre de 2012 en el Periódico Oficial del Estado, fueron validados con la intervención de las instancias normativas, como son las secretarías de Planeación y Finanzas, de Contraloría, y de Administración, con la participación de la Coordinación General de Asuntos Jurídicos, quedando sujetos a las disposiciones conducentes que regulan la actividad de la Administración Pública Estatal.
+
+OCTAVO. Los actos administrativos y presupuestarios que a la fecha estén ejercidos por las unidades administrativas a que se contrae la presente adecuación al Reglamento Interior de la Secretaría de Gobierno, se considerarán válidos para todos los efectos legales, sin menoscabo de las facultades de las dependencias normativas del ámbito estatal en materia de aplicación y ejercicio de los recursos públicos, así como de aquéllas relacionadas con la observancia de las disposiciones jurídicas correspondientes.
+
+Por lo que toca a los recursos humanos y financieros necesarios para dar cauce a la nueva estructura orgánica de la Secretaría, se harán los ajustes presupuestarios y administrativos para el inicio oportuno de sus actividades, según determinen en lo conducente las instancias normativas competentes.
+
+NOVENO. Se abrogan el Acuerdo de Creación de la Coordinación de Asuntos Religiosos, publicado en el Suplemento “C” al Periódico Oficial del Estado de Tabasco número 6713 de fecha 6 de enero de 2007 y el Reglamento Interior de la Coordinación de Asuntos Religiosos, publicado en el Suplemento “G” al Periódico Oficial del Estado de Tabasco número 6736 de fecha 28 de marzo de 2007.
+
+DÉCIMO. Con las salvedades a que se contrae el Artículo Transitorio Segundo de este Acuerdo, se abroga el Reglamento Interior de la Secretaría de Gobierno publicado en el Suplemento “C” al Periódico Oficial del estado de Tabasco número 7276 de fecha 30 de mayo de 2012.
