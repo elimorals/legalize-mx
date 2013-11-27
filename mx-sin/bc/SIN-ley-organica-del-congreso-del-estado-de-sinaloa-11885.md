@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2013-06-21"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -901,13 +901,25 @@ IV.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el d
 
 V.- La Comisión de Honor y Disciplina Parlamentaria funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-VI.- La Comisión de Justicia se hará cargo de los asuntos relacionados con la procuración y la administración de justicia; y,
+VI.- La Comisión de Justicia se hará cargo de los asuntos relacionados con la procuración y la administración de justicia;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-VII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+VII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa; y,
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- La Comisión de Derechos Humanos se encargará de atender y resolver los asuntos siguientes:
+
+a) Dictaminar las propuestas de actualización de la legislación en materia de derechos humanos;
+
+b) Analizar y dictaminar sobre el informe anual que presente la Comisión Estatal de Derechos Humanos;
+
+c) Proveyendo de acuerdo a su competencia, lo relacionado con la defensa, protección, observancia, promoción, estudio y divulgación de los derechos humanos en el Estado, para que toda persona disfrute de los mismos; y
+
+d) El desahogo del procedimiento relativo a la negativa de una autoridad o servidor público a aceptar o cumplir una recomendación que le emita la Comisión Estatal de Derechos Humanos, en conjunto con la Comisión Permanente relativa al cargo que desempeñe dicha autoridad o servidor, de conformidad con lo dispuesto en los artículos 77 bis, tercer párrafo de la Constitución Política del Estado y 58, tercer párrafo de la Ley Orgánica de la Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
@@ -2246,3 +2258,9 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
