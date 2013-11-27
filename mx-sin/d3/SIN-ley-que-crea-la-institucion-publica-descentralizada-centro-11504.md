@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-la-institucion-publica-descentralizada-centro-1150
 country: "mx"
 rank: "ley"
 publication_date: "1976-08-04"
-last_updated: "1976-08-04"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY QUE CREA LA INSTITUCION PUBLICA DESCENTRALIZADA CENTRO REGIONAL DE INSUMOS AGROPECUARIOS
 
-LEY QUE CREA LA INSTITUCION PUBLICA DESCENTRALIZADA CENTRO REGIONAL DE INSUMOS AGROPECUARIOS
+LEY QUE CREA LA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CENTRO REGIONAL DE INSUMOS AGROPECUARIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el miércoles 4 de agosto de 1976.
 
@@ -204,3 +206,21 @@ C.P. ROBERTO WONG LEAL
 El Secretario del Desarrollo Económico
 
 MIGUEL ANGEL SUAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO. La presente Ley entrará en vigor a los noventa días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. Se abroga la Ley que Crea la Institución Pública Descentralizada Centro Regional de Insumos Agropecuarios, decreto número 121, publicado en el Periódico Oficial "El Estado de Sinaloa", número 93, de 4 de agosto de 1976.
+
+CUARTO. Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas Mejoradas, decreto número 226, publicado en el Periódico Oficial "El Estado de Sinaloa", número 40, de 3 de abril de 1971.
+
+QUINTO. El titular del Poder Ejecutivo Estatal en el plazo de noventa días contados a partir de la entrada en vigor de la presente Ley expedirá su Reglamento y los Decretos administrativos derivados de la misma.
+
+SEXTO. El Consejo Estatal para el Desarrollo Rural Sustentable y la Comisión Intersecretarial para el Desarrollo Rural Sustentable, se constituirán materialmente en un plazo de ciento veinte días a partir de la entrada en vigor de esta Ley.
+
+SÉPTIMO. El titular del Poder Ejecutivo Estatal deberá expedir y publicar el Programa Especial Concurrente para el Desarrollo Rural Sustentable a más tardar el primer trimestre del año 2014.
