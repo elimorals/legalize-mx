@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2013-10-23"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1151,7 +1151,7 @@ Región XV. Meseta Comiteca Tojolabal: Conformada por los municipios de Comitán
 
 ### CAPÍTULO III. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 47.
 
@@ -1301,27 +1301,49 @@ La Contraloría General de la Procuraduría General de Justicia del Estado tendr
 
 ###### Artículo 55.
 
-El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que ampara el orden jurídico mexicano que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter local o municipal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto y promoción de los derechos de las mujeres, y la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas, y combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
+Para la protección y salvaguarda de los derechos humanos, el Estado contará con un organismo que ampara el orden jurídico mexicano, denominado Comisión Estatal de los Derechos Humanos; el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter local o municipal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto y promoción de los derechos de las mujeres, y la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas, y combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 El organismo a que se refiere el párrafo anterior, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente este organismo.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Comisión Permanente, podrán llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-El organismo que establezca el Congreso del Estado, se denominará Comisión Estatal de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+La Comisión Estatal de los Derechos Humanos contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 Asimismo, contará con Visitadurías Generales especializadas en Atención de Asuntos de la Mujer; Atención de Asuntos Indígenas y Atención de Asuntos de Migrantes.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de (sic) Congreso del Estado o, en sus recesos, por la Comisión Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Décimo Segundo de esta Constitución.
 
-La elección del titular de la presidencia de la Comisión Estatal de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+La elección del titular de la presidencia de la Comisión Estatal de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, se ajustará en los términos y condiciones que determine la ley de la materia.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto comparecerá ante el Congreso en los términos que disponga la ley.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 La Comisión Estatal de los Derechos Humanos, deberá impulsar los mecanismos necesarios para promover una cultura de paz, pudiendo intervenir, a petición de parte en procesos de negociación para resolver conflictos sociales a través de un procedimiento voluntario de gestión o resolución positiva de tensiones de diversa naturaleza, en el que las partes solicitan y acepten la intervención del consejo como mediador profesional, imparcial y neutral, con la finalidad de favorecer vías de comunicación y búsqueda de acuerdos consensuados.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 La Comisión Estatal de los Derechos Humanos estará facultada para:
 
@@ -1355,7 +1377,11 @@ XIV. Formular denuncias y quejas ante las autoridades competentes, cuando tenga 
 
 XV. Promover la profesionalización de sus trabajadores.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+
 El Congreso del Estado asignará anualmente a la Comisión Estatal de los Derechos Humanos, el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos; el cual no podrá ser menor al aprobado en el ejercicio inmediato anterior.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
 
 La Comisión Estatal de los Derechos Humanos velará por el cabal cumplimiento de las determinaciones formuladas por los Organismos Internacionales de los Derechos Humanos, así como la Comisión Nacional de los Derechos Humanos, en especial aquellas en las que se determine la reparación del daño.
 
@@ -4000,3 +4026,13 @@ Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decr
 Artículo Tercero.- El Honorable Congreso del Estado, expedirá las adecuaciones necesarias a la legislación local aplicable, de conformidad con los términos del presente Decreto.
 
 Artículo Cuarto.- Los Organismos con autonomía reconocida en la Constitución Política del Estado, deberán adecuar su marco normativo, en términos del presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de la Comisión Estatal de Derechos Humanos, expedida mediante Decreto número 233, de fecha 29 de julio de 2013 y publicada en el Periódico Oficial número 050, de fecha 19 de agosto de 2013.
+
+Artículo Cuarto.- La Comisión Estatal de los Derechos Humanos podrá otorgar de conformidad con la disponibilidad presupuestal, a los entonces Consejeros del Consejo Estatal de los Derechos Humanos, un monto económico por la conclusión de sus actividades.
