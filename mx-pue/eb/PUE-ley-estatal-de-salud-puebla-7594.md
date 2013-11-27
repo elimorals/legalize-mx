@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2010-01-20"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -983,6 +983,10 @@ Compete a la Secretaría de Salud del Estado, ejercer el control sanitario de la
 
 La Procuraduría General de Justicia del Estado propiciará lo necesario, en el ámbito de su competencia, para la pronta obtención de órganos, tejidos y células para fines de trasplante.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Corresponde también a la Secretaría de Salud del Estado, fomentar la cultura de la donación, difundiendo el procedimiento para asignación y distribución de órganos, así como las sanciones a las que se hacen acreedores quienes comercien con órganos, tejidos y células, o promuevan, realicen y acepten una donación ilícita, en términos de lo establecido en la Ley General de Salud.
+
 ###### ARTICULO 91.
 
 Para efectos de éste título, se entiende por:
@@ -1090,6 +1094,10 @@ Los profesionales responsables de los actos a que se refieren los párrafos ante
 ###### ARTICULO 97.
 
 Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, a aquélla que se realiza en contra de la Ley y el orden público.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+Las autoridades, médicos y personal médico involucrados en la disposición y donación de órganos, tejidos y células, así como en trasplantes, deberán hacer del conocimiento del donante o de sus familiares, así como de los candidatos a receptor y de sus familiares, los delitos en que pueden incurrir, así como las sanciones a que se hacen acreedores quienes los cometen, de conformidad con el Capítulo Sexto denominado "Delitos", del Título Décimo Octavo de la Ley General de Salud, con relación a la donación y trasplante de órganos, tejidos y células.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2954,3 +2962,9 @@ P.O. 20 DE ENERO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
