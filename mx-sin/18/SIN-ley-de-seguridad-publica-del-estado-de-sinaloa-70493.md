@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2013-07-17"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -161,7 +161,9 @@ III. El Secretario de Seguridad Pública;
 
 IV. El Procurador General de Justicia;
 
-V. El Subsecretario de Seguridad Pública y de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+V. El Subsecretario de Seguridad Pública y de Prevención y Reinserción Social;
 
 VI. El Director de la Policía Estatal Preventiva;
 
@@ -1401,9 +1403,11 @@ XXVI. Las demás que establezcan esta Ley, otras disposiciones legales o el Cons
 
 ### Capítulo VIII. De la Conferencia Estatal del Sistema Penitenciario
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 83.
 
-La Conferencia Estatal del Sistema Penitenciario, se integra por el Secretario de Seguridad Pública, el Subsecretario de Seguridad Pública y de Prevención y Readaptación Social, el Director de Prevención y Readaptación Social, los Directores de los centros de ejecución de las consecuencias jurídicas del delito, del órgano de Ejecución de Medidas para Adolescentes y los Directores de los Centros Estatales de Internamiento para Adolescentes. La Conferencia será presidida por el Subsecretario de Seguridad Pública y de Prevención y Readaptación Social.
+La Conferencia Estatal del Sistema Penitenciario, se integra por el Secretario de Seguridad Pública, el Subsecretario de Seguridad Pública y de Prevención y Reinserción Social, el Director de Prevención y Reinserción Social, los Directores de los centros de ejecución de las consecuencias jurídicas del delito, del órgano de Ejecución de Medidas para Adolescentes y los Directores de los Centros Estatales de Internamiento para Adolescentes. La Conferencia será presidida por el Subsecretario de Seguridad Pública y de Prevención y Reinserción Social.
 
 Dicha Conferencia contará con un Secretario Técnico que será nombrado y removido por el titular de la Secretaría.
 
@@ -3374,3 +3378,19 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el 
 P.O. 17 DE JULIO DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Las disposiciones relativas al régimen de modificación y duración de penas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las disposiciones que contiene los principios del Sistema Penal Acusatorio que aplicarán los jueces de ejecución de las consecuencias jurídicas del delito, entrarán en vigor de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
+
+II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+
+TERCERO. El Ejecutivo del Estado deberá realizar las modificaciones reglamentarias necesarias para el cumplimiento del presente Decreto.
