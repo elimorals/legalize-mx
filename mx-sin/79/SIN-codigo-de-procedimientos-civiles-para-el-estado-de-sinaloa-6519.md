@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2012-04-25"
+last_updated: "2013-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -5371,99 +5371,111 @@ La apelación sólo será admisible conforme a las reglas del derecho común.
 
 El juez deberá compeler a los árbitros a cumplir con sus obligaciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO III.
 
 De la Modificación y Convalidación de Actas de Estado Civil y del Registro Extemporáneo.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 663.
 
-Es Juez competente para conocer de los juicios sobre convalidación, reposición y rectificación de actas de Registro Civil, el de Primera Instancia de la comprensión en que pasó o debió de haber pasado el acta, y se tramitarán conforme a las disposiciones de este Capítulo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 664.
 
-En el escrito de demanda de modificación de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil por el término de cinco días para que produzca su contestación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
-
-Se publicará un extracto de la demanda por dos veces, en un lapso de tres días, en el Periódico Oficial del Estado y en el Diario de mayor circulación, a juicio del juez, llamando a los interesados a oponerse, quienes tendrán derecho a intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 665.
 
-Si transcurrido el término señalado en el artículo anterior, el oficial del Registro Civil no hubiere contestado la demanda se le tendrá por contestada en sentido afirmativo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 666.
 
-Una vez contestada la demanda o dada por contestada en los términos prevenidos, se citará a las partes para el desahogo de pruebas y alegatos debiendo señalarse la audiencia en un plazo no mayor de diez días a partir del en que se tenga por contestada la demanda.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1995)</small>
-
-Concluido el desahogo de las pruebas, se presentarán los alegatos en la misma audiencia y previa citación de oficio, se pronunciará sentencia definitiva dentro del término de seis días, la cual será apelable en ambos efectos.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 667.
 
-En los juicios de rectificación de acta se enviará al Oficial del Registro Civil y al Archivo Estatal del Registro Civil copia certificada de la sentencia ejecutoriada para que efectúe anotación de la misma en el acta ya sea que se conceda o niegue la rectificación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 668.
 
-El registro de nacimiento efectuado después de los plazos establecidos por este Código se tramitarán ante las autoridades del Registro Civil, según el procedimiento establecido en el Reglamento respectivo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO IV.
 
 Divorcio por Mutuo Consentimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 669.
 
-Cuando ambos consortes convengan en divorciarse en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 670.
 
-Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación; si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 671.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 672.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 673.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 670 y 671, sino que deben comparecer personalmente, y en su caso, acompañados del tutor especial.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 674.
 
-En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 675.
 
-En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el tribunal lo hará saber a los cónyuges para que dentro de tres días manifiesten si aceptan las modificaciones.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-En caso de que no las acepten, el tribunal resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando de que en todo caso queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 676.
 
-La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 677.
 
-Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
 ## TITULO XII.
 
@@ -6089,817 +6101,945 @@ El deudor de buena fe tiene derecho a alimentos cuando el valor de los bienes ex
 
 Si en el curso del juicio se hace constar que los bienes son inferiores a los créditos, cesarán los alimentos, pero el deudor no devolverá lo que hubiere percibido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ## TITULO XIV.
 
 De las Sucesiones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION I.
 
 Disposiciones Generales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 767.
 
-Inmediatamente que el Juez tenga conocimiento de la muerte del autor de una herencia, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil, y mientras se presentan los interesados, procederá con intervención del Ministerio Público a asegurar los bienes:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Si el difunto no era conocido o estaba de transeunte en el lugar;
-
-II. Cuando haya menores interesados;
-
-III. Cuando haya peligro de que se oculten o dilapiden los bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 768.
 
-Como medidas urgentes, en los casos del artículo anterior el Juez deberá:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Reunir los papeles del difunto, los que cerrados y sellados se depositarán en el Secreto del Juzgado;
-
-II. Ordenar a la Administración de Correos que le remita la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás papeles;
-
-III. Mandar depositar el dinero y alhajas en el establecimiento autorizado por la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 769.
 
-Si pasados diez días de la muerte del autor de la sucesión no se presenta el testamento; si en éste no está nombrado el albacea o si no se denuncia el intestado, el Juez nombrará un interventor que reúna los requisitos siguientes:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Ser mayor de edad;
-
-II. De notoria buena conducta;
-
-III. Estar domiciliado en el lugar del juicio;
-
-IV. Otorgar fianza judicial para responder de su manejo.
-
-La fianza deberá otorgarse en un plazo de diez días contados desde la aceptación del cargo, bajo pena de remoción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 770.
 
-Una vez otorgada la fianza, el interventor recibirá los bienes por inventario y tendrá el carácter de simple depositario, sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieran al pago de las deudas mortuorias, con autorización judicial.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si los bienes estuvieran situados en lugares diversos o a larga distancia, para la formación del inventario bastará con que se haga mención en él, de los títulos de propiedad, si existen entre los papeles del difunto o la descripción de aquéllos según las noticias que se tuvieren.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 771.
 
-Mientras el interventor no se haga cargo de los bienes, tendrá la vigilancia de ellos el Ministerio Público.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 772.
 
-El interventor cesará en su cargo luego que se nombre o se dé a conocer el albacea y entregará a éste los bienes sin que pueda retenerlos bajo ningún pretexto ni aun por razón de mejoras o de gastos de manutención o de reparación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 773.
 
-Al promoverse el juicio sucesorio, debe presentarse la partida de defunción del autor de la herencia, y cuando esto no sea posible, otro documento o prueba bastante.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 774.
 
-Cuando con fundamento en la declaración de ausencia o de presunción de muerte de un ausente, se haya abierto sucesión si durante la secuela del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea con arreglo a derecho.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 775.
 
-En los juicios sucesorios en que haya herederos o legatarios menores e incapacitados, que no tuvieren representante legítimo, se procederá desde luego a designarlo con arreglo a derecho.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 776.
 
-Los tutores nombrados conforme al artículo anterior tendrán el carácter de interinos y especiales para el juicio sucesorio.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 777.
 
-Si el tutor o cualquier representante legítimo de heredero, legatario o interesado, tienen interés en la herencia, lo reemplazará el Juez, con un tutor especial para el juicio o hará que lo nombren los que tengan facultad para ello. En este caso y en los demás análogos, aceptado el cargo por el nombrado, entrará al ejercicio de sus funciones, salvo el caso de que tuviere que otorgar garantía, lo que hará conforme a la ley.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 778.
 
-La intervención del tutor especial se limitará a aquello en que el tutor propietario o representante legítimo tenga incompatibilidad y únicamente en el juicio sucesorio para el que fué nombrado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 779.
 
-En las sucesiones de extranjeros se dará a los cónsules o agentes consulares la intervención que les concede la ley.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 780.
 
-Son acumulables a los juicios sucesorios:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Todos los pleitos incoados contra el finado antes de su fallecimiento, pendientes en primera instancia;
-
-II. Todas las demandas ordinairas (sic) y ejecutivas que se deduzcan contra los herederos del difunto en su calidad de tales, después de denunciado el intestado;
-
-III. Los juicios que sigan los herederos deduciendo la acción de petición de herencia, ya impugnando el testamento o la capacidad de los herederos presentados o reconocidos, o ya exigiendo su reconocimiento, siempre que esto último acontezca antes de hecha la adjudicación;
-
-IV. Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la formación de los inventarios y anteriores a la adjudicación, exceptuando los legados de alimentos, de pensiones, de educación, y de uso y habitación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 781.
 
-En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a los menores o incapacitados que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 782.
 
-El albacea, dentro de los tres días siguientes al en que se le haga saber su nombramiento, deberá manifestar al juzgado si lo acepta o no, si no lo acepta se procederá a hacer nueva designación; y si lo acepta y entra en la administración, le prevendrá el Juez que dentro de tres meses deberá garantizar su manejo con sujeción a lo dispuesto en los artículos 1593 y 1594 del Código Civil, salvo que todos los interesados le dispensen de esa obligación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si no garantiza su manejo dentro del término señalado, se le removerá de plano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 783.
 
-Toda persona que a la muerte de otra tuviere en su poder bienes de ésta, por cualquiera circunstancia, deberá manifestarlo al Juez de la sucesión o al representante del Ministerio Público tan luego como tenga noticias del fallecimiento, siendo responsable de los daños y perjuicios que sobrevengan por tal omisión.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 784.
 
-Los herederos o legatarios que no se presenten al juicio de sucesión, tienen derecho de pedir su herencia o legado mientras no prescriba, demandando en el juicio correspondiente al albacea si el juicio no hubiere concluido, o a los que hubieren adquirido los bienes sucesorios, si ya se habiere (sic) verificado la partición.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 785.
 
-Las resoluciones que el Juez dicta en los juicios hereditarios, mientras no estén satisfechos los intereses fiscales se notificarán también a los representantes de la Hacienda Pública Federal y del Estado, para que promuevan lo que competa al ejercicio de sus atribuciones.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 786.
 
-Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquélla; para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION II.
 
 De las testamentarías.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 787.
 
-El que promueva el juicio de testamentaría, a más de acreditar el fallecimiento de la persona de cuya sucesión se trate, como lo dispone el artículo 773, deberá presentar el testamento del difunto. Cumplido lo anterior, el Juez tendrá por radicado el juicio y en el mismo auto mandará convocar a los interesados a una junta para darles a conocer el testamento y el albacea nombrado si lo hubiere o para que procedan a elegirlo con arreglo a lo prescrito en los artículos 1567, 1568, 1569 y 1573 del Código Civil, si no apareciere nombrado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 788.
 
-La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el Juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o por correo con acuse de recibo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 789.
 
-Si hubiere herederos cuyo domicilio se ignore, se les citará por medio de edictos que se mandarán fijar por diez días en el lugar del juicio, en los sitios de costumbre, en el último domicilio del finado y en el de su nacimiento. Además, se mandarán publicar por tres veces, de diez en diez días, en el Periódico Oficial del Estado y en un diario de los de mayor circulación a juicio del Juez.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 790.
 
-Si hubiere herederos menores o incapacitados que tengan tutor, se citará a éste para la junta.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si los herederos menores no tuvieren tutor, se les nombrará con arreglo a derecho.
-
-Respecto al declarado ausente se entenderá la citación con el que fuere su representante legítimo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 791.
 
-Si el testamento no es impugnado ni se objeta la capacidad de los interesados, el Juez en la misma junta reconocerá como herederos a los que estén nombrados, en las porciones que les correspondan.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si se impugnare la validez del testamento o la capacidad legal de algún heredero, se sustanciará el juicio ordinario correspondiente con el albacea o heredero, respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 792.
 
-En la junta prevenida por el artículo 787 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1613 del Código Civil y se nombrará precisamente en los casos previstos en el artículo 1616 del mismo Código.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION III.
 
 De los Intestados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 793.
 
-Quien promueva un intestado, deberá presentar con la denuncia los justificantes de la muerte del autor de la herencia y los que acrediten su parentesco con éste si lo tuviere; además, bajo protesta de decir verdad expresará los nombres y domicilios de los parientes en línea recta y del cónyuge supérstite o a falta de ellos el de los colaterales dentro del cuarto grado de que tenga conocimiento y, de serle posible, presentará también certificado de las partidas del registro civil, que demuestren el parentesco. Además, acompañará copia del escrito de denuncia y de los demás documentos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 794.
 
-Hecha la denuncia con los requisitos que expresa el artículo anterior, el Juez, una vez practicadas las diligencias de aseguramiento de los bienes, como se dispone en este Capítulo, cuando así proceda, tendrá por radicado el intestado y mandará notificarlo por cédula o por correo con acuse de recibo a las personas que se hubieren señalado como interesadas, haciéndole saber el nombre del finado, las demás particularidades que lo identifiquen y la fecha y lugar del fallecimiento, para que en un término improrrogable de treinta días se presenten a deducir y justificar sus derechos a la herencia y a hacer el nombramiento del albacea.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-En todo caso se mandarán fijar y publicar edictos como se dispone en el artículo 789, haciendo saber a los interesados la radicación del intestado y previniéndoles que deberán presentarse a deducir y justificar sus derechos en la forma y términos que ordena el párrafo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 795.
 
-El Juez podrá ampliar prudentemente el plazo que señala el artículo anterior, cuando por el origen del difunto u otra circunstancia, se presuma que puede haber parientes fuera de la República.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 796.
 
-Fijados los edictos y hechas las publicaciones a que se refiere el artículo 794, lo cual certificará en los autos el Secretario, una vez transcurrido el término concedido a los interesados para presentarse a deducir y justificar sus derechos, que se computará desde el día siguiente a la última publicación, el Juez dictará auto haciendo la declaración de herederos en favor de quien lo estime pertinente en vista de los justificantes presentados o la denegará con reserva de sus derechos a los que la hubieren pretendido, para que los hagan valer en juicio ordinario.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Este auto será apelable en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 797.
 
-Al hacerse la declaración de herederos de acuerdo con los artículos precedentes, el Juez en el mismo auto citará a los declarados, a una junta que deberá verificarse dentro de los ocho días siguientes, para que en ella designen al albacea. Se omitirá la junta cuando el heredero fuere único o si los interesados, desde su presentación emitieren ya su voto por escrito o en comparecencia. El Juez aprobará el nombramiento en favor del que obtuviere mayoría o hará la designación que corresponda con arreglo al Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-El albacea nombrado tendrá carácter de definitivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 798.
 
-Los herederos inconformes con el nombramiento del albacea podrán nombrar interventor con arreglo al Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 799.
 
-Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o el que en su defecto se nombre.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 800.
 
-Si el Ministerio Público o cualquier pretendiente se opone a la declaración de herederos o alega incapacidad de alguno de ellos, se sustanciará en juicio ordinario el pleito a que la oposición dé lugar, con el albacea o heredero, respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 801.
 
-Después de los plazos a que se refieren los artículos 794 y 795, no serán admitidos los que se presenten deduciendo derechos hereditarios; pero tendrán a salvo su derecho para hacerlo valer en los términos de ley contra los que fueren declarados herederos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 802.
 
-Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil, debiendo rendirle cuentas el interventor.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 803.
 
-Si nadie se presenta reclamando la herencia o si no fuere reconocido el derecho de los presentados, se declarará heredero a la Beneficencia Pública.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION IV.
 
 Del Inventario y Avalúo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 804.
 
-Dentro de los diez días siguientes a la aceptación de su cargo, el albacea deberá proceder simultáneamente a la formación del inventario y del avalúo de los bienes de la sucesión. Para el efecto, dará aviso al Juzgado, a fin de que éste prevenga a los interesados se pongan de acuerdo en el nombramiento de un perito valuador que asesore en sus labores al albacea y los aperciba de que si no hacen saber su acuerdo al Juzgado dentro del término de seis días o el propuesto no acepta el cargo, el Juez hará la designación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si cuando menos la mayoría de los interesados manifiesta su conformidad con que el avalúo sea hecho bajo la responsabilidad del albacea, no se hará designación de perito y el albacea fijará a los bienes el valor que estime justo, pudiendo consultar con peritos de su confianza, quienes en su caso firmarán también el avalúo.
-
-Al hacerse el nombramiento de peritos en el caso previsto en el párrafo primero, el Juez hará también la designación de un tercero para el caso de que hubiere oposición entre el albacea y su asesor nombrado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 805.
 
-Para los efectos del artículo anterior, se reputan interesados:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. El cónyuge que sobreviva;
-
-II. Los demás herederos;
-
-III. Los legatarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 806.
 
-Con excepción de los casos señalados en el artículo que sigue, el inventario y avalúo se practicarán por memorias simples y extrajudicialmente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 807.
 
-El inventario será solemne:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Si la mayoría de los herederos y legatarios así lo solicitan;
-
-II. Cuando los establecimientos de Beneficencia tuvieren interés en la sucesión como herederos o legatarios;
-
-III. Cuando habiendo menores interesados, el Ministerio Público lo solicite;
-
-IV. En los demás casos que expresamente lo prevenga este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 808.
 
-El inventario solemne se formará con intervención del Ministerio Público, por Notario designado por la mayoría de los interesados y en su defecto o cuando no se pongan de acuerdo en su nombramiento dentro del término que para el efecto señale el Juez, por el Secretario del Juzgado, pudiendo intervenir personalmente el Juez cuando lo estime necesario.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 809.
 
-Antes de iniciarse la formación de inventarios, deberá citarse a los interesados en la sucesión, por medio de cédula o correo con acuse de recibo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 810.
 
-En el inventario y avalúo se listarán los bienes señalándolos con toda precisión y claridad, en el orden siguiente:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Dinero efectivo;
-
-II. Alhajas;
-
-III. Efectos de comercio o de industria;
-
-IV. Semovientes;
-
-V. Frutos;
-
-VI. Muebles;
-
-VII. Bienes raíces;
-
-VIII. Créditos;
-
-IX. Los documentos, escrituras y papeles de importancia que se encuentren.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 811.
 
-Respecto de los créditos, títulos y demás documentos se expresará la fecha, el nombre de la persona obligada, el del Notario ante quien se otorgaron y la clase de obligación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 812.
 
-En el mismo inventario deberán figurar los bienes litigiosos, expresándose esa circunstancia, la clase de juicio que se siga, el Juez que conozca de él, la persona contra quien se litiga y la causa del pleito.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 813.
 
-Si el difunto tenía en su poder bienes ajenos prestados o en depósito, en prenda o por cualquier otro título, también se harán constar en el inventario con expresión de la causa.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 814.
 
-Si hubiere legados de cosa determinada, ésta se listará con expresión de su calidad especial.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 815.
 
-Cuando el albacea o los peritos juzguen conveniente razonar sobre alguno de los valores que hubieren fijado, lo harán por medio de notas al pie del inventario, refiriéndose al número que en él tengan los objetos de cuyo valor se trate.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 816.
 
-Todos los objetos deberán estimarse según su estado y valor actuales.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 817.
 
-El albacea deberá concluir las operaciones de inventario y avalúo dentro de sesenta días contados desde el nombramiento del perito valuador o desde que se hubiere manifestado conformidad con que el avalúo sea hecho bajo su responsabilidad conforme al artículo 804. Si los bienes se encuentran ubicados a grandes distancias o si por la naturaleza de los negocios no se creyere bastante el término concedido, el Juez podrá ampliarlo prudentemente hasta por otros sesenta días.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 818.
 
-Si pasados los términos que señalan los artículos 804 y 867, el albacea no promueve o no concluye el inventario y avalúo, se estará a lo dispuesto en los artículos 1636 y 1637 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-La remoción a que se refiere el último precepto, se hará de plano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 819.
 
-Presentados el inventario y avalúo, se correrá traslado de ellos por cinco días a cada uno de los interesados que no lo hubieren suscrito y transcurrido este término, si manifiestan su conformidad o no se evacuaron los traslados, el Juez sin más trámite los aprobará o reprobará, con la reserva, en el primer caso, de que si aparecieren nuevos bienes se listarán en el lugar respectivo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 820.
 
-Si se dedujere oposición contra el inventario o avalúo, se sustanciará la que se presente en forma incidental, debiendo ser común la audiencia si fueren varias las oposiciones, y a ella concurrirán los interesados y el perito que hubiese practicado la valorización, para que con las pruebas rendidas se discuta la cuestión promovida.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Para dar curso a esta oposición, es indispensable expresar concretamente cuál es el valor que se atribuye a cada uno de los bienes y cuáles sean (sic) las pruebas que se invocan como base de la objeción del inventario o avalúo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 821.
 
-En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos que propusiere, de manera que la audiencia no se suspenderá por la ausencia de todos o de alguno de los propuestos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si dejaren de presentarse los peritos perderán el derecho de cobrar honorarios por los trabajos practicados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 822.
 
-Si los reclamantes fueren varios e idénticas sus oposiciones, deberán nombrar representante común en la audiencia como lo previene el artículo 53.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 823.
 
-La interlocutoria que se dicte en el caso del artículo 820 será apelable en el efecto devolutivo si por su cuantía procede tal recurso.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 824.
 
-A los avalúos sólo puede hacerse oposición:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Por error en la cosa objeto del avalúo o sus condiciones y circunstancias esenciales;
-
-II. Por cohecho a los peritos o inteligencias fraudulentas entre ellos o alguno de los interesados, para aumentar o disminuir el valor de cualesquiera de los bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 825.
 
-Si hubiere motivo fundado para creer que el cohecho o la inteligencia fraudulenta para el avalúo han tenido lugar, se procederá criminalmente contra los culpables, a cuyo efecto se remitirá testimonio de lo conducente al Agente del Ministerio Público.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 826.
 
-El inventario hecho por el albacea o por herederos, aprovecha a todos los interesados aunque no hubieran sido citados, incluso a los sustitutos y a los herederos por intestado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
-
-Aprobados el inventario y el avalúo por el juez, no podrán reformarse sino por error o dolo declarados por sentencia definitiva pronunciada en juicio sumario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 827.
 
-Los gastos de inventario y avalúo serán a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION V.
 
 De la Administración.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 828.
 
-El cónyuge supérstite tendrá la posesión y administración de los bienes de la sociedad conyugal, con intervención del albacea, conforme al artículo 205 del Código Civil y será puesto en ella en cualquier momento en que lo pida, aunque antes la haya tenido el albacea u otra persona, sin que por esto pueda empeñarse cuestión alguna.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Contra el auto que otorgue la posesión y administración al cónyuge, no se admitirá ningún recurso; contra el que la niegue habrá el de apelación en ambos efectos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 829.
 
-En el caso del artículo anterior, la intervención del albacea se concretará a vigilar la administración del cónyuge y en cualquier momento en que observe que no se hace convenientemente, dará cuenta al tribunal, quien citará a ambos a una audiencia para dentro de los tres días siguientes y dentro de otros tres resolverá lo que proceda.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 830.
 
-Si la falta de herederos de que trata el artículo 1572 del Código Civil, depende de que el testador declare no ser suyos los bienes o de otra causa que impida la sucesión por intestado, el albacea judicial durará en su encargo hasta que se entreguen los bienes a su legítimo dueño.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 831.
 
-Si la falta de herederos depende de incapacidad legal del nombrado o de renuncia, el albacea judicial durará en su encargo el tiempo señalado en el artículo 1574 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 832.
 
-Si por cualquier motivo no hubiere albacea después de un mes de iniciado el juicio sucesorio, podrá el interventor, con autorización del tribunal, intentar las demandas que tengan por objeto recobrar bienes o hacer efectivos derechos pertenecientes a la sucesión y contestar las que contra ésta se promuevan.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 833.
 
-El interventor no podrá deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, sino cuando haya hecho estos gastos con autorización previa.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 834.
 
-El interventor tendrá el dos por ciento del importe de los bienes, si no excede de 600 veces el salario mínimo; si excede de dicha suma pero no de 3000 veces el mismo salario, tendrá además el uno por ciento sobre el exceso; y si excediere de este último monto, tendrá además el medio por ciento sobre la cantidad excedente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si el interventor fuere abogado y ejerciere funciones de su profesión en los casos del Artículo 832 tendrá además los honorarios que señale el Arancel.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 835.
 
-El Juez abrirá toda la correspondencia que venga dirigida al difunto, en presencia del Secretario y del interventor, en los períodos que se señalen, según las circunstancias. El interventor recibirá la que tenga relación con el caudal, dejándose testimonio en los autos, y el Juez conservará la restante para darle en su oportunidad el destino que corresponda.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 836.
 
-Todas las disposiciones relativas al interventor regirán respecto al albacea judicial.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 837.
 
-Durante la sustanciación del juicio sucesorio, no se podrán enajenar los bienes inventariados sino en los casos del artículo 1602 del Código Civil, y en los siguientes:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Cuando los bienes puedan deteriorarse;
-
-II. Cuando sean de difícil y costosa conservación;
-
-III. Cuando para la enajenación de los frutos se presenten condiciones ventajosas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 838.
 
-Los libros de cuentas y papeles del difunto se entregarán al albacea y hecha la partición a los herederos reconocidos, observándose respecto de los títulos, lo que se prescribe en la sección siguiente. Los demás papeles quedarán en poder del que hubiere desempeñado el albaceazgo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 839.
 
-Si nadie se presenta alegando derechos a la herencia o por no haber sido reconocidos los que se presentaron, se declarará heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con la herencia. Los demás se archivarán con los autos del intestado en cubierta cerrada y sellada, que rubricarán el Juez, el representante del Ministerio Público y el Secretario.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 840.
 
-El dinero y alhajas se depositarán en el establecimiento destinado por la ley para ese efecto; pero el Juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 841.
 
-Aprobados el inventario y el avalúo de los bienes y terminados los incidentes a que uno u otro hubieren dado lugar, se procederá a la liquidación del caudal.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION VI.
 
 De la Rendición de Cuentas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 842.
 
-El interventor, el cónyuge en el caso del artículo 828 y el albacea, ya sea provisional, judicial o definitivo, están obligados a rendir dentro de los cinco primeros días de cada año del ejercicio de su cargo, la cuenta de su administración correspondiente al año anterior, pudiendo el Juez de oficio exigir el cumplimiento de este deber.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 843.
 
-Las cantidades que resulten líquidas se depositarán, a disposición del Juzgado, en el establecimiento destinado por la ley.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 844.
 
-La garantía otorgada por el interventor o por el albacea no se cancelará sino hasta que haya sido aprobada la cuenta general de administración.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 845.
 
-Cuando el que administre no rinda sus cuentas dentro del término legal, podrá ser removido a solicitud de parte legítima; la remoción se tramitará en forma de incidente. También podrá ser removido a juicio del Juez y a solicitud de cualquiera de los interesados cuando alguna de las cuentas no fuere aprobada en su totalidad.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 846.
 
-Cuando no alcancen los bienes para pagar las deudas y legados, el albacea deberá no obstante dar cuenta de su administración a los acreedores y legatarios.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 847.
 
-Concluidas las operaciones de liquidación, dentro de los quince días siguientes presentará el albacea su cuenta general del albaceazgo; si no lo hace se le apremiará por los medios legales; siendo aplicables las reglas de ejecución de sentencia.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 848.
 
-Presentadas las cuentas de administración se pondrán en la Secretaría del Juzgado a disposición de las partes, por un término de diez días para que se impongan de ellas y hagan las observaciones que estimen oportunas.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 849.
 
-Si todos los interesados aprobaren las cuentas o no las impugnaren, el Juez las aprobará. Si alguno o algunos de los interesados no estuvieren conformes, se tramitará el incidente respectivo, pero será indispensable para que se le dé curso, precisar la objeción y que los que sostengan la misma pretensión nombren representante común.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-El auto que apruebe o repruebe las cuentas, será apelable en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 850.
 
-Concluidas y aprobadas las operaciones de inventario y avalúo, el albacea procederá a la liquidación de la herencia.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION VII.
 
 De la Liquidación y Partición de la Herencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 851.
 
-El albacea, dentro de los quince días siguientes a la aprobación del inventario, presentará al Juzgado un proyecto de distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deba entregarse a los herederos y legatarios, en proporción a su haber. La distribución de los productos se hará en efectivo o en especie.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 852.
 
-Presentado el proyecto mandará el Juez ponerlo a la vista de los interesados, por cinco días. Si éstos están conformes o nada exponen dentro del término de la vista, el Juez lo aprobará mandando abonar a cada uno la porción que le corresponda. La inconformidad expresa se sustanciará en forma incidental.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 853.
 
-Cuando los productos de los bienes variaren de bimestre a bimestre, el albacea presentará su proyecto de distribución por cada uno de los períodos indicados. En este caso deberá presentarse el proyecto dentro de los primeros cinco días del bimestre.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 854.
 
-Aprobada la cuenta general de administración dentro de los quince días siguientes presentará el albacea el proyecto de partición de bienes, observando para ello lo que dispone el Código Civil y con sujeción a este Capítulo, y si no pudiere hacer por sí mismo la partición lo manifestará al Juez dentro de los tres días de aprobada la cuenta, a fin de que se nombre contador que la haga.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 855.
 
-Los interesados, además de los casos ya previstos, podrán pedir, en el incidente respectivo, la separación del albacea, en los siguientes casos:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Si no presentare el proyecto de partición dentro del término indicado en el artículo anterior o dentro de la prórroga que le conceden los interesados por mayoría de votos;
-
-II. Cuando no haga la manifestación a que se refiere la parte final del artículo anterior, dentro de los tres días que sigan a la aprobación de la cuenta;
-
-III. Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios dentro de los plazos legales;
-
-IV. Cuando durante dos bimestres consecutivos, sin justa causa, deje de cubrir a los herederos o legatarios la porción de frutos que les corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 856.
 
-Tienen derecho de pedir la partición de la herencia:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. El heredero que tenga la libre disposición de sus bienes, en cualquier tiempo en que lo solicite, siempre que hubieren sido aprobados los inventarios y rendida la cuenta de administración; puede sin embargo, hacerse la partición antes de la rendición de cuentas o de su aprobación, si así lo conviniere la mayoría de los interesados;
-
-II. Los herederos bajo condición, luego que se haya cumplido ésta;
-
-III. El cesionario del heredero y el acreedor de un heredero que hubiere trabado ejecución en los derechos que tenga en la herencia, siempre que obtenida sentencia de remate, no haya otros bienes con que hacer el pago;
-
-IV. Los coherederos del heredero condicional, siempre que aseguren el derecho de éste para el caso de que se cumpla la condición, hasta saberse que ésta ha faltado o que no podrá ya cumplirse y sólo por lo que respecta a la parte en que consista el derecho pendiente y a las cauciones con que se hayan asegurado. El albacea o el contador partidor, en su caso, procederán al aseguramiento del derecho pendiente;
-
-V. Los herederos del heredero que muere antes de la partición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 857.
 
-Cuando el albacea no haga la partición por sí mismo, promoverá dentro del tercer día de aprobada la cuenta la elección de un contador o abogado con título oficial registrado, para que haga la división de los bienes. El juez convocará a los herederos, por medio de cédula o por correo con acuse de recibo, a una junta dentro de los tres días siguientes, a fin de que se haga en su presencia la elección.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propuestos.
-
-El cónyuge aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 858.
 
-El Juez pondrá a disposición del partidor los autos y, bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición concediéndole el término que solicite, siempre que no exceda de sesenta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y ser multado de acuerdo con lo previsto por el Artículo 62, Fracción II.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 859.
 
-El partidor pedirá a los interesados las instrucciones que juzgue necesarias a fin de hacer las adjudicaciones de conformidad con ellos, en todo lo que estén de acuerdo o de conciliar en lo posible sus pretensiones.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Podrá ocurrir al juez para que por correo o por cédula los cite a junta, a fin de que en ella los interesados fijen de común acuerdo las bases de la partición, que se considerará como un convenio. Si no hubiere conformidad el partidor se sujetará a los principios legales.
-
-En todo caso, al hacerse la división, se separarán los bienes que correspondan al cónyuge que sobreviva, conforme a las capitulaciones matrimoniales o a las disposiciones que regulan la sociedad conyugal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 860.
 
-El proyecto de partición, se sujetará en todo caso a la designación de partes que hubiere hecho el testador.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-A falta de convenio entre los interesados, se incluirán en cada porción bienes de la misma especie si fuere posible.
-
-Si hubiere bienes gravados se especificarán los gravámenes, indicando el modo de redimirlos o de dividirlos entre los herederos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 861.
 
-Concluido el proyecto de partición el juez lo mandará poner a la vista de los interesados en la Secretaría por un término de diez días. Vencido este término sin hacerse oposición o cuando se presente el proyecto suscrito de conformidad por todos los interesados, el juez lo aprobará y dictará sentencia de adjudicación mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el Secretario, una nota en que se haga constar la adjudicación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 862.
 
-Si se dedujere oposición contra el proyecto se sustanciará en forma incidental, procurando, si fueren varios los opositores, que la audiencia sea común y concurran los interesados y el partidor para que se discutan las cuestiones promovidas y se reciban pruebas.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Para dar curso a la oposición, será indispensable expresar concretamente el motivo de la inconformidad y las pruebas que se invoquen como base de la oposición.
-
-Si los que se opusieron dejeren (sic) de concurrir a la audiencia, se les tendrá por desistidos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 863.
 
-Si la reclamación fuere relativa a la clase de bienes asignados y no hubiere convenio, los bienes que se discutan se venderán observándose lo dispuesto en los artículos 867 a 873.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 864.
 
-Todo heredero o legatario de cantidad tiene derecho a pedir que se le adjudiquen en pago bienes de la herencia y la aplicación se hará por el precio que tengan en el avalúo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 865.
 
-En el caso del artículo anterior, la elección será del que deba pagar la herencia o el legado, a no ser que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 866.
 
-Los bienes que fueren indivisibles o que desmerezcan mucho con la división, podrán adjudicarse a uno de los herederos con la condición de abonar a los otros el exceso, en dinero.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 867.
 
-Si no pudiere realizarse lo dispuesto en el artículo anterior y los herederos no convinieren en usufructuar los bienes en común u otra manera de pago, se procederá a su venta, prefiriéndose al heredero que haga mejor postura.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 868.
 
-La venta se hará en pública subasta admitiendo licitadores extraños, siempre que haya menores o que alguno de los herederos lo pida.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 869.
 
-La diferencia que hubiere en el precio aumentará o disminuirá la masa hereditaria. En estos casos la partición deberá modificarse.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 870.
 
-Si se suscitare cuestión sobre si los bienes admiten cómoda división, el juez oyendo a un perito que él nombre, decidirá lo que proceda en justicia.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 871.
 
-Si verificadas tres almonedas no hubiere postor para los bienes que no admitan cómoda división, se sortearán y al que designe la suerte se adjudicarán por la mitad de su valor.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 872.
 
-Lo que en el caso del artículo anterior exceda de la cuota del heredero adjudicatario, será reconocido por éste, salvo convenio en otro sentido, durante seis años al nueve por ciento, con hipoteca de la cosa adjudicada a favor de la persona a quien corresponda según la partición.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 873.
 
-Si la cosa adjudicada no cubriere la cuota del heredero adjudicatario y no pudiere completarse ésta con otros bienes, la diferencia se reconocerá sobre otro inmueble en los términos establecidos en el artículo anterior.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 874.
 
-Si varios herederos pretenden una misma cosa de la herencia, se licitará entre ellos y lo que se diere de más sobre su precio legítimo, entrará al fondo común.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 875.
 
-Si hubiere alguna cosa que todos rehusaren recibir, se observará lo dispuesto en el artículo 863 y los que en él se citan.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 876.
 
-Cualquier heredero puede, aun después de sorteada la cosa, en los casos de los artículos 871 y 875 evitar la adjudicación por la mitad del precio aumentado éste; y si hubiere varios pretendientes habrá lugar a la licitación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 877.
 
-La escritura de partición deberá contener:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. El nombre y apellido de todos los herederos y legatarios;
-
-II. Los nombres, medidas y linderos de los predios adjudicados, con expresión de la parte que cada heredero adjudicatario tenga obligación de devolver si el precio de la cosa excede al de su porción, o que recibir si falta;
-
-III. La garantía especial que para la devolución del exceso constituya el heredero en el caso de la fracción que precede;
-
-IV. La enumeración de los muebles o cantidades repartidas;
-
-V. Noticia de la entrega de los títulos de las propiedades adjudicadas o repartidas;
-
-VI. Expresión de las cantidades que algún heredero quede reconociendo a otro de la garantía que haya constituido;
-
-VII. La firma de todos los interesados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 878.
 
-Cuando en un mismo título estén comprendidas fincas adjudicadas a diversos coherederos o una sola, pero dividida entre dos o más, el título hereditario quedará en poder del que tenga mayor interés representado en la finca o fincas, dándose a los otros copias fehacientes a costa del caudal hereditario.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 879.
 
-Si el título fuere original, deberá también aquél en cuyo poder quedare, exhibirlo a los demás interesados cuando fuere necesario.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 880.
 
-Si todos los interesados tuvieren igual porción en las fincas, el título quedará en poder del que designe el juez, si no hubiere convenio entre los partícipes.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 881.
 
-Pueden oponerse a que se lleve a efecto la partición:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Los acreedores hereditarios legalmente reconocidos mientras no se pague su crédito si ya estuviere vencido y, si no lo estuviere, mientras no se les asegure debidamente el pago;
-
-II. Los legatarios de cantidad, de alimentos, de educación y de pensiones, mientras no se les pague o se les garantice legalmente el derecho.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 882.
 
-La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía la ley exige para su venta. El notario ante el que se otorgue la escritura será designado por el albacea.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 883.
 
-La sentencia que apruebe o repruebe la participación es apelable en ambos efectos, cuando el caudal exceda de doscientos días de salario mínimo general vigente en el Estado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION VIII.
 
 De la Transmisión Hereditaria del Patrimonio Familiar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 884.
 
-En todo lo relativo a la sucesión de los bienes del patrimonio familiar, se observarán las disposiciones de este título, que no se opongan a las siguientes reglas:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Con la certificación de la defunción del autor de la herencia, se acompañarán los comprobantes de la constitución del patrimonio familiar y su registro, así como el testamento o la denuncia del intestado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
-
-> <small>(ADICIONADA, [N. DE E., REFORMADA] P.O. 24 DE OCTUBRE DE 1975)</small>
-
-III. El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquéllos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrarán un partidor entre los contadores oficiales que presten servicios al Erario, para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación; excepción hecha de lo previsto por el artículo 740 Bis, en cuyo caso se estará a lo dispuesto por este último precepto;
-
-IV. Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado que se hará con copia para dar aviso al Fisco;
-
-V. El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados;
-
-VI. La transmisión de los bienes del patrimonio familiar, está exenta de contribuciones, cualquiera que sea su naturaleza.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION IX.
 
 De la Tramitación por Notarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 885.
 
-Una vez radicada la sucesión hecha la declaratoria de herederos, cuando todos éstos sean mayores de edad o lo sea la mayoría y estuvieren debidamente representados los menores, o cuando hubiere un sólo heredero, aunque éste sea menor de edad, podrá continuar tramitándose la sucesión extrajudicialmente, ante los Notarios Públicos del Estado, mientras no se suscite controversia.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 886.
 
-El albacea y los herederos comparecerán ante el Notario y exhibiendo copia certificada de la resolución judicial que les hubiere reconocido su carácter, así como testimonio del testamento, cuando lo hubiere, le manifestarán su conformidad de que él continúe extrajudicialmente el procedimiento. El Notario hará constar en su protocolo la declaración y la dará a conocer publicándola por una vez en el Periódico Oficial del Estado y en un diario de los de mayor circulación, a su juicio.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-También avisará al Juzgado que previno, por medio de oficio, para que se siente razón en los autos y a los representantes del Fisco, si no estuvieren cubiertos los impuestos, para los efectos relativos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 887.
 
-Practicadas las operaciones de inventario y avalúo por el albacea y satisfechos los impuestos correspondientes, estando conformes todos los herederos, aquél los presentará al Notario para su protocolización.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 888.
 
-Formado por el albacea, con aprobación de los herederos, el proyecto de partición de la herencia, lo exhibirá al Notario para su protocolización.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 889.
 
-Cuando se suscite controversia, el Notario suspenderá su intervención y a costa de los interesados se remitirá testimonio de lo practicado por él al Juzgado que previno, para que judicialmente continúe el procedimiento, sin que los interesados puedan volver a separarse de éste.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION X.
 
 Del Testamento Público Cerrado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 890.
 
-Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El representante del Ministerio Público asistirá a la diligencia.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 891.
 
-Cumplido lo prescrito en sus respectivos casos en los artículos del Código Civil números 1440 a 1545 (sic), el Juez, en presencia del Notario, testigos, representante del Ministerio Público y Secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-En seguida firmarán al margen del testamento las personas que hayan intervenido en la diligencia, con el Juez y el Secretario, y se le pondrá el sello del Juzgado, asentándose acta de todo ello.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 892.
 
-Será preferida para la protocolización de todo testamento cerrado, la Notaría del lugar en que haya sido abierto, y si hubiere varias, se preferirá la que designe el promovente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 893.
 
-Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el Juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1392 y 1394 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION XI.
 
 De la Declaración de Ser Formal el Testamento Ológrafo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 894.
 
-El Tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento ológrafo como se dispone en el artículo 1451 del Código Civil, dirigirá oficio al Encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 895.
 
-Recibido el pliego procederá el Tribunal como se dispone en el artículo 1459 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 896.
 
-Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubiesen intervenido o por no estimarse bastante sus declaraciones, el Tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador y, teniendo en cuenta su dictamen, hará la declaración que corresponda.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 897.
 
-En el caso del artículo 1460 del Código Civil, se procederá como se dispone en los artículos anteriores, una vez que el Encargado del Registro correspondiente remita copia certificada del asiento que previene el artículo 1455 del mismo Código.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION XII.
 
 De la Declaración de ser Formal el Testamento Privado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 898.
 
-A instancia de parte legítima podrá elevarse a escritura pública el testamento privado, sea que conste por escrito o sólo de palabra.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 899.
 
-Es parte legítima para los efectos del artículo anterior:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. El que tuviere interés en el testamento;
-
-II. El que hubiere recibido en él algún encargo del testador.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 900.
 
-Hecha la solicitud se señalarán día y hora para el examen de los testigos que hayan concurrido al otorgamiento.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Para la información se citará al representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
-
-Los testigos declararán al tenor del interrogatorio respectivo que se sujetará estrictamente a lo dispuesto en el artículo 1472 del Código Civil.
-
-Recibidas las declaraciones el Tribunal procederá conforme al artículo 1473 del Código Civil.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 901.
 
-De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el Ministerio Público. En ambos casos procede la apelación en ambos efectos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 902.
 
-Las constancias que de lo actuado expida el Juez, hacen las veces de testamento para iniciar el juicio hereditario respectivo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION XIII.
 
 Del Testamento Militar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 903.
 
-Luego que el Tribunal reciba, por conducto del Secretario de la Defensa Nacional, el parte a que se refieren los artículos 1479 y 1480 del Código Civil, citará a los testigos que estuvieren en el lugar y, respecto de los ausentes, mandará exhorto al Tribunal del lugar donde se hallen.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 904.
 
-De la declaración judicial se remitirá copia autorizada al Secretario de la Defensa Nacional.
-
-En lo demás se observará lo dispuesto en el Capítulo que antecede.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
 ## TITULO XV.
 
@@ -6967,453 +7107,493 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPITULO II.
 
 De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de Estos Cargos y de las Cuentas de la Tutela.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION I.
 
 De la Declaración de Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 916.
 
-La declaración de estado de minoridad puede pedirse:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Por el mismo menor que ha cumplido dieciséis años;
-
-II. Por su cónyuge;
-
-III. Por sus presuntos herederos legítimos;
-
-IV. Por el ejecutor testamentario;
-
-V. Por el Ministerio Público y los Consejos de Tutelas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 917.
 
-Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Ministerio Público; en ella, con o sin la asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 918.
 
-La declaración de incapacidad por causa de demencia, idiotismo, imbecilidad, embriaguez habitual o toxicomanía, podrá pedirse:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Por el cónyuge;
-
-II. Por los presuntos herederos legítimos;
-
-III. Por el ejecutor testamentario;
-
-IV. Por el Ministerio Público, que en todo caso será oído;
-
-V. Por el Consejo de Tutelas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 919.
 
-En todos los casos del artículo anterior, presentada la solicitud de interdicción el Tribunal proveerá auto para que, dentro de los tres días siguientes, sea reconocido el incapacitado por tres médicos que nombrará; la diligencia de reconocimiento se practicará en presencia del Tribunal, del Ministerio Público y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 920.
 
-Si del dictamen pericial resultare comprobada la demencia o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Nombrará tutor y curador interinos, sujetándose a las disposiciones de este Capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
-
-II. Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y los de la copropiedad, si los hubiere, bajo la administración del otro cónyuge;
-
-III. Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
-
-Del auto en que se dicten estas providencias no procederá apelación sino en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 921.
 
-Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 919 dentro de un término que en ningún caso excederá de cuarenta días, el Juez citará a junta en la cual, si estuvieren conformes el tutor y el Ministerio Público, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Si hubiere oposición, se sustanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere y durante la tramitación subsistirán las medidas decretadas conforme al artículo 920.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 922.
 
-En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
-
-II. El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el Juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen y se oiga su dictamen;
-
-III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a mil pesos, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
-
-IV. Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 923.
 
-El procedimiento que tenga por objeto hacer cesar la interdicción, se seguirá en todo caso como el que la declaró, observándose en lo conducente las disposiciones de los artículos anteriores.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 924.
 
-La declaración de estado de los sordomudos se hará mediante el dictamen unánime de tres facultativos que reconozcan al incapaz, en presencia del Juez y del Ministerio Público.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 925.
 
-Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el Periódico Oficial y en el diario de mayor circulación en el Estado, a juicio del Juez, por tres veces de tres en tres días.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION II.
 
 Del nombramiento de Tutores y del Discernimiento de este Cargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 926.
 
-Ninguna tutela podrá conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 927.
 
-Acreditado el nombramiento de tutor hecho por el que ejerce patria potestad, en última disposición, se discernirá el cargo por el Juez sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 522 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 928.
 
-No habiendo relevación de garantía se exigirá ésta proporcionada al caudal que haya de administrarse y con entera sujeción a lo prescrito en el Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 929.
 
-Si el que no está en ejercicio de la patria potestad nombra tutor con arreglo al artículo 474 del Código Civil, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo prescrito en el artículo 522 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 930.
 
-Siempre que corresponda al Juez el nombramiento de tutor conforme a lo prevenido en el Capítulo VI, Título Undécimo, Libro Primero del Código Civil deberá recibir información sumaria de estar el menor en alguno de los casos del artículo 496 del mismo Código, y convocará por edictos publicados tres veces en el periódico oficial del Estado y en un diario de los de mayor circulación, a juicio del Juez, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 931.
 
-Cuando expire el término de los edictos sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aun cuando no haya concluido dicho término.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 932.
 
-El menor podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente lo hubiere instituido heredero o legatario; cuando tuviere dieciséis años o más.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 933.
 
-Siempre que el tutor nombrado no reúna los requisitos que la Ley exige para ser tutor o curador, el Juez denegará el discernimiento del cargo y proveerá el nombramiento en la forma y términos prevenidos por el Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 934.
 
-Si sobre el nombramiento de un tutor se empeñare cuestión, se sustanciará ésta en la vía sumaria y en el pleito que se siga representará al menor un tutor interino, que el Juez nombrará para este solo efecto.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 935.
 
-Todo tutor, cualquiera que sea su clase, deberá aceptar previamente y prestar las garantías que exige el Código Civil para que se le discierna el cargo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-El tutor deberá manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término deberá proponer sus impedimentos o excusas, disfrutando de un día más por cada cuarenta kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
-
-Cuando el impedimento o la causa legal de la excusa ocurrieren después de la admisión de la tutela, los términos correrán desde el día en que el tutor conoció el impedimento o la causa legal de la excusa.
-
-La aceptación o el transcurso de los términos en su caso importan renuncia de la excusa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 936.
 
-El importe de la garantía se determinará con audiencia del Ministerio Público.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 937.
 
-También se dará audiencia al Ministerio Público para la apreciación y aprobación de la garantía que se otorgue.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 938.
 
-Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 939.
 
-El tutor interino que en estos casos deba nombrarse conforme al artículo 533 del Código Civil, presentará dentro del término que designe el juez con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido Código.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 940.
 
-De este cómputo se dará traslado al Ministerio Público y en vista de su respuesta se determinará el otorgamiento de la garantía.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 941.
 
-Previa la aceptación del tutor designado y la prestación de la garantía en la forma que queda prevenida, se le discernirá el encargo, proveyendo auto en que se le faculte para ejercerlo con sujeción a la ley. De este auto se le darán los testimonios que pidiere para acreditar su personalidad.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 942.
 
-No se exigirá fianza a los tutores interinos cuando no tengan administración de bienes.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 943.
 
-En todo caso en que se nombre al menor, tutor interino, se le designará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 944.
 
-La oposición de intereses a que se refieren los artículos 441 y 458 del Código Civil, se calificará siempre con audiencia del Ministerio Público y sólo que éste pida de conformidad, se nombrará el tutor interino.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 945.
 
-En todo auto de discernimiento del cargo de tutor, deberá el juez expresar el tanto por ciento que, con arreglo a lo prevenido en el artículo 586 del Código Civil, le corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le hubiere asignado el autor de la herencia.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 946.
 
-Los autos de nombramiento de tutor y de discernimiento del cargo, a más de comunicarse como dispone el artículo 89 del Código Civil, se publicarán por tres veces, de tres en tres días, en el periódico Oficial del Estado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 947.
 
-Si al diferirse la tutela se encontrare el incapaz fuera de su domicilio, el juez de Primera Instancia, y en su falta el Juez Menor de la población en que se hallare, hará inventariar y depositar los bienes muebles que el incapaz tenga en su poder y lo avisará inmediatamente al juez del domicilio, remitiéndole testimonio de estas diligencias.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 948.
 
-Esta misma obligación tendrá en el caso de quedar vacante la tutela por cualquiera (sic) causa.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 949.
 
-De las resoluciones que se dicten conforme a los dos artículos anteriores no se admitirá apelación más que en el efecto devolutivo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 950.
 
-El Ministerio Público será oído siempre que el juez deba interponer su autoridad en los negocios relativos a tutela, sean de la clase que fueren.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION III.
 
 Del nombramiento de Curador y del Discernimiento de este cargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 951.
 
-Una vez acreditado el nombramiento de curador, hecho por la persona facultada para ello por la ley u otorgado por el juez en los casos en que deba hacerlo, se hará saber la designación al nombrado y se procederá a discernirle el cargo, observándose en lo conducente las disposiciones de la sección anterior.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCION IV.
 
 De la Vigilancia y cuentas de la Tutela.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 952.
 
-En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieren de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Tutelas y demás interesados, se insertará copia autorizada por el Secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 953.
 
-Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del Consejo de Tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la ley;
-
-II. Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
-
-III. Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del artículo 591 del Código Civil;
-
-IV. Obligarán a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 540, 555 y 566 del Código Civil, y de pagado el tanto por ciento de administración;
-
-V. Si los jueces lo creyeren conveniente, decretarán el depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 558 y 559 del Código Civil;
-
-VI. Pedirán al efecto, las noticias que estimen necesarias del estado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 954.
 
-Los tutores al rendir sus cuentas deberán hacer una exposición sucinta que comprenda la administración de los bienes en el período a que se refieran; y listarán por riguroso debe y haber los ingresos y egresos precisando el saldo y presentarán los documentos justificativos, a excepción de los de aquéllas partidas que no excedan de cinco pesos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Se tendrán como justificativos:
-
-I. La autorización para hacer el gasto contenido en cada partida, sea la general dada al principio de la administración, sea la especial posterior;
-
-II. El documento que pruebe que realmente se hizo el gasto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 955.
 
-Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que se presente la cuenta en estracto (sic) si estuvieren conformes el curador y el Ministerio Público, quienes tendrán derecho de examinar por sí mismos los libros originales; el juez podrá cuando alguno de ellos lo pida, nombrar un perito que glose la cuenta.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 956.
 
-El tutor cuyo cargo ha concluido puede, al hacer la entrega que previenen los artículos 605 y 609 del Código Civil, retener los documentos para formar su cuenta, previo consentimiento del curador o del pupilo, si salió ya éste de la menor edad y autorización judicial, a fin de presentarlos con ella.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 957.
 
-Presentada la cuenta en los términos que quedan establecidos, mandará el Juez correr traslado de ella al curador y al Ministerio Público, por un término que no podrá exceder en ningún caso, de diez días para cada uno de ellos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 958.
 
-Si al presentar la cuenta el tutor, la suscribe también el curador, no se correrá a éste el traslado que previene el artículo precedente; pero se exigirá la ratificación de las firmas y sólo se entenderá el traslado con el Ministerio Público.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 959.
 
-Si ni el Ministerio Público ni el curador hacen observaciones, el Juez dictará dentro de diez días su auto de aprobación, salvo que del examen que por sí mismo verifique resulte que deben hacerse algunas rectificaciones o aclaraciones, las que mandará se practiquen en un término prudente.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 960.
 
-Si el curador o el Ministerio Público hacen observaciones relativas sólo a la forma de la cuenta, la mandará el Juez enmendar o reponer en un plazo que no excederá de cinco días.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 961.
 
-Si hacen observaciones relativas al fondo de la cuenta o se objetan de falsas o de no justificadas algunas partidas, se sustanciará la oposición en vía sumaria.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 962.
 
-El Ministerio Público y el curador podrán apelar de la resolución que aprueba las cuentas, si las hubieren impugnado; los mismos y el tutor podrán apelar de la que las desapruebe. Tales apelaciones proceden en ambos efectos.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 963.
 
-Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fraude del tutor, se iniciará desde luego el juicio de separación que se seguirá en la vía sumaria; si de las primeras diligencias resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, sin perjuicio de proceder a la instrucción de la respectiva causa.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 964.
 
-En todos los casos en que el tutor, para algún acto relativo al desempeño de la tutela necesite la licencia del juez o de su aprobación, se requiere la previa audiencia del curador. En caso de oposición, se sustanciará juicio sumario conforme al artículo 424, en donde se decidirá solamente la diferencia entre el tutor y el curador, y ni de la sentencia definitiva ni de las interlocutorias, se admitirá apelación ni otro recurso.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-La resolución del juez, que niegue la licencia o autorización solicitada por el tutor con la anuencia del curador, es apelable en ambos efectos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO III.
 
 De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción sobre sus Derechos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 965.
 
-Será necesario obtener licencia judicial para disponer de los bienes que pertenezcan exclusivamente a menores, incapacitados y ausentes, que correspondan a las clases siguientes:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I. Bienes raíces;
-
-II. Derechos reales sobre muebles;
-
-III. Alhajas y muebles preciosos;
-
-IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 966.
 
-Para decretar la venta de bienes se necesita que al pedirse se exprese el motivo de la enajenación y el objeto a que deba aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si fuere el tutor quien solicita la venta deberá proponer al hacer la promoción las bases del remate, en cuanto a la cantidad que deba darse de contado, el plazo, intereses y garantías del rematante.
-
-La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dicte será apelable en ambos efectos.
-
-Los peritos que se designen para hacer el avalúo, serán nombrados por el Juez.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 967.
 
-Respecto de las alhajas y muebles preciosos se observará lo que acerca de ellos dispone el artículo 564 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-Si se decreta la subasta se observarán en lo relativo las disposiciones de este Código.
-
-El remate de los inmuebles se hará conforme al título octavo capítulo IV y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo pericial ni la que no se ajuste a los términos de la autorización judicial.
-
-Si en la primera almoneda no hubiere postor, el Juez convocará a solicitud del tutor o del curador, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 968.
 
-Para la venta de acciones y títulos de venta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de comerciante establecido y acreditado.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 969.
 
-El precio de la venta se entregará al tutor si las fianzas o garantías que tuviere prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas conforme a las fracciones I y III del artículo 521 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-El Juez señalará un término prudente al tutor para que justifique la inversión del precio de lo enajenado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 970.
 
-El Juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya obtenido, la aplicación indicada al solicitar la autorización.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 971.
 
-Si el tutor no estuviese relevado de dar garantía y faltare ésta o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 537 de este Código.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 972.
 
-Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 966. El incidente se sustanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el Juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-También requerirán los padres autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior, para obtenerla.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 973.
 
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 974.
 
-Para transigir sobre derechos de menores o incapacitados, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta, observándose en su caso lo que se dispone en los artículos 565 y 569 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 975.
 
-Cuando en virtud de la transacción reciba el menor alguna cantidad, se observará lo dispuesto en este capítulo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 976.
 
-Lo dispuesto en los artículos que proceden se aplicará el gravamen y enajenación de los bienes de ausentes, así como el arrendamiento por más de cinco años de bienes de los ausentes, menores o incapacitados.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 977.
 
-La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo teniendo en cuenta lo que se dispone en el artículo 565 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO IV.
 
 De la Adopción.
 
-> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 978.
 
-El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 391 del Código Civil para el Estado de Sinaloa, debiéndose observar lo siguiente:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-I.- En la solicitud se deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si lo hubiere, el domicilio de la niña o niño o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social, pública o privada, que lo haya acogido.
-
-A la solicitud se acompañará certificado médico de buena salud, estudios socio-económicos y psicológicos del o de los pretensos adoptantes. Dichos estudios serán realizados por el Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa o por institución que a juicio del juez sea suficiente;
-
-II.- Cuando el menor hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según sea el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 445, fracción IV, del Código Civil;
-
-III.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2008)
-
-IV.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2008)
-
-V.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país y así como la autorización para adoptar.
-
-Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
-
-La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial, la misma deberá estar apostillada por el Cónsul mexicano.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 978 Bis.
 
-La niña, niño o adolescente que ha sido acogido por una institución de asistencia social pública o privada, podrá ser entregada en custodia familiar preadoptiva, para ese efecto la institución social pública o privada, junto con la solicitud entregará al Juez los estudios y constancias a que se refiere el artículo anterior, y con la ratificación, consentimiento del Director o Representante de la institución para que sea entregado, se resolverá sobre la custodia; a no ser que encuentre algún inconveniente y para ello tenga que emplear alguna diligencia previa, la que practicará en un plazo no mayor de diez días y dentro de los cinco siguientes, de oficio, se pronunciará sobre el fondo de la solicitud.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 978 Ter.
 
-Una vez aprobada la custodia familiar preadoptiva, el Juez le enviará al Ministerio Público Especializado o del lugar las copias del expediente, quien vigilará la custodia preadoptiva y le entregará al menos un informe semestral y, en caso de anomalías podrá promover cualquier medida de protección.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-La vigilancia del Ministerio Público, no eximirá a la casa de asistencia pública o privada la de seguir velando por los intereses de la niña, niño o adolescente sujeto a la custodia preadoptiva y de su obligación de poner en conocimiento del Ministerio Público cualquier circunstancia que afecte sus derechos para que proceda en favor del infante.
-
-> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 979.
 
-Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el juez resolverá dentro de cinco días, lo que proceda sobre la adopción.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 980.
 
-Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el juez los citará a una audiencia verbal, para que dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 408 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 02 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 980 Bis.
 
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 02 DE FEBRERO DE 2001)</small>
-
-###### Artículo 980 Bis
-
-1. Para acreditar cualquier hecho relativo a la revocación, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
-
-> <small>(ADICIONADO, P.O. 02 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 980 Bis
 
-2. Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 405 del Código Civil, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente, en el término de ocho días.
+1. (DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 980 Bis
+
+2. (DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 981.
 
-Los procedimientos de revocación en materia de adopción simple, se seguirán por la vía ordinaria.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 982.
 
-Cuando se apruebe la adopción o se deje sin efecto el Juez cumplirá lo que previenen los artículos 402 y 411 del Código Civil.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA, P.O. 27 DE NOVIEMBRE DE 2013)
 
 ### CAPITULO V.
 
@@ -8170,3 +8350,19 @@ P.O. 25 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+PRIMERO: El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO: Los asuntos iniciados con anterioridad a la entrada en vigor del presente Código o que se estén substanciando, se tramitarán hasta su conclusión y en su caso ejecución de sentencia, conforme a las disposiciones vigentes al momento de su ejercicio;
+
+TERCERO: Si para la interposición de un recurso o para el ejercicio de un derecho en la tramitación de los asuntos pendientes, se establecen en este Código, plazos menores que los que estuvieren concedidos en el anterior, se observará lo dispuesto en el Código de Procedimientos Civiles;
+
+CUARTO: Los procedimientos de providencias cautelares, se sujetarán a este Código en el estado en que se encuentren;
+
+QUINTO: Las apelaciones que se interpongan contra las sentencias dictadas en los juicios de primera instancia, se sujetarán a este Código.
+
+SEXTO: Quedan derogados del TÍTULO XI: Los Capítulos III y IV; Del TÍTULO XIV: Las Secciones: I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII; Del TÍTULO XV: Los Capítulos II, Secciones I, II, III y IV; Capítulos III y IV; Del Código de Procedimientos Civiles del Estado de Sinaloa.
+
+SÉPTIMO. Se derogan las demás disposiciones que se opongan al presente ordenamiento.
