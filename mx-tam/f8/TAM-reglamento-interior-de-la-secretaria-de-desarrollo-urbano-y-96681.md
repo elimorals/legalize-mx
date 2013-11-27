@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-966
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-20"
-last_updated: "2013-11-20"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2013.</small>
 
 Reglamento publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 20 de noviembre de 2013.
 
@@ -93,7 +93,9 @@ III. Subsecretaría de Ordenamiento Territorial y Desarrollo Urbano:
 
 a) Dirección de Planeación Regional y Urbana;
 
-b) Dirección de Promoción y Operación de Espacios Públicos e Imagen Urbana; y
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+b) Dirección de Promoción Patrimonio Histórico y Proyectos Especiales; y
 
 c) Dirección de Ordenamiento Territorial.
 
@@ -143,7 +145,9 @@ Corresponde originalmente al Titular de la Secretaría la representación, el tr
 
 ###### ARTÍCULO 9.
 
-El Titular de la Secretaría tendrá las siguientes facultades no delegables:
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+El Secretario tendrá las siguientes facultades no delegables:
 
 I. Establecer, conducir y coordinar la política de la Secretaría, incluida la de las entidades sectorizadas, en los términos de la legislación de la materia y de conformidad con los objetivos, propósitos y estrategias del Plan Estatal de Desarrollo y de los que expresamente determine el Titular del Ejecutivo Estatal;
 
@@ -383,7 +387,9 @@ La Subsecretaría de Medio Ambiente contará con la unidad administrativa denomi
 
 1. La unidad administrativa denominada Ventanilla Única será la encargada de la recepción, captura electrónica, clasificación por materia, ordenación cronológica, distribución y control de documentos y trámites que se presenten ante las distintas instancias de la Subsecretaría. Además será encargada de realizar la notificación de los permisos, licencias, autorizaciones, concesiones que en el ejercicio de sus atribuciones en materia ambiental, emita la Secretaría de Desarrollo Urbano y Medio Ambiente.
 
-2. La Ventanilla Única dependerá del área jurídica de la Subsecretaría y tendrá las funciones siguientes:
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+2. La Ventanilla Única dependerá del área jurídica de la Subsecretaría de conformidad a lo previsto por el artículo 26, fracción IV, del presente reglamento y tendrá las funciones siguientes:
 
 I. Recibir y sellar de recibido los escritos, promociones, documentos relacionados con las solicitudes de autorizaciones, licencias, permisos, concesiones, o las promociones relativas a los procedimientos de inspección y vigilancia y en general toda clase de documentos inherentes a los trámites que realiza la Subsecretaría de Medio Ambiente, asentando para ello tanto en la promoción como en el acuse de recibo, razón con sello oficial y firma, expresando la fecha y hora de presentación, número de fojas, los documentos que se reciben en original y copia, anexos, así como el número de control interno que corresponda conforme al libro que para tal efecto se tenga;
 
@@ -1183,7 +1189,9 @@ X. Realizar las demás que en el ámbito de su competencia le delegue el Titular
 
 ###### ARTÍCULO 29.
 
-En ausencias temporales menores de 30 días, el Titular de la Secretaría será suplido para el despacho y la resolución de los asuntos de su competencia, por el Sub Secretario de Ordenamiento Territorial, quien estará facultado para suscribir convenios, contratos, autorizaciones, resoluciones y todo tipo de oficios, escritos de demandas, contestaciones, incluso en materia de juicio de amparo.
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+En ausencias temporales menores de 30 días, el Titular de la Secretaría será suplido para el despacho y la resolución de los asuntos de su competencia, por el Sub Secretario de Ordenamiento Territorial y Desarrollo Urbano, quien estará facultado para suscribir convenios, contratos, autorizaciones, resoluciones y todo tipo de oficios, escritos de demandas, contestaciones, incluso en materia de juicio de amparo.
 
 Si las ausencias del Titular de la Secretaría exceden de 30 días, será suplido por el servidor público designado por el Titular del Ejecutivo del Estado.
 
