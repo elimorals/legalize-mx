@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-administrativas-de-los-servidores-8081
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2011-04-13"
+last_updated: "2013-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
 
-LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
+LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de abril de 2011.
 
@@ -263,9 +263,21 @@ XXXIX.- Comunicar por escrito al titular de la dependencia o entidad en la que p
 
 XL.- Abstenerse de destinar recursos públicos materiales o humanos para apoyar las campañas electorales de partidos políticos o candidatos;
 
-XLI.- Abstenerse de difundir propaganda, bajo cualquier modalidad de comunicación social, con carácter ajeno al institucional y con fines distintos a los informativos, educativos o de orientación social; por lo que en ningún caso y, por ningún motivo, dicha propaganda deberá incluir nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público; y,
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-XLlI.- Las demás que se deriven de ésta Ley y otros ordenamientos legales.
+XLI.- Abstenerse de difundir propaganda, bajo cualquier modalidad de comunicación social, con carácter ajeno al institucional y con fines distintos a los informativos, educativos o de orientación social; por lo que en ningún caso y, por ningún motivo, dicha propaganda deberá incluir nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XLII.- Responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos, y en el supuesto que decida no aceptarlas o no cumplirlas, deberá hacer pública su negativa, fundándola y motivándola en términos de los dispuesto por el Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, 77 Bis de la Constitución Política del Estado y 58 de la Ley Orgánica de la Comisión Estatal de Derechos Humanos del Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+XLIII.- Atender los llamados del Congreso del Estado, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la Comisión Estatal de Derechos Humanos, en términos de lo dispuesto por el Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, 77 Bis de la Constitución Política del Estado y 58 de la Ley Orgánica de la Comisión Estatal de Derechos Humanos del Estado de Sinaloa; y,
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN XLII, PERO DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE 27 DE NOVIEMBRE DE 2013, SE RECORRIÓ EN SU NUMERACIÓN PARA SER XLIV.</small>
+
+XLIV.- Las demás que se deriven de ésta Ley y otros ordenamientos legales.
 
 ### CAPÍTULO II. DE LAS SANCIONES Y EL PROCEDIMIENTO PARA APLICARLAS Y EJECUTARLAS
 
@@ -359,9 +371,13 @@ Cuando el servidor público confiese su responsabilidad por el incumplimiento de
 
 La inhabilitación podrá aplicarse conjuntamente con la sanción económica, y se impondrá como consecuencia de un acto u omisión, considerada como grave en los términos del artículo 34 de esta Ley, conforme a lo siguiente:
 
-I. Cuando el monto del beneficio obtenido o de los daños y perjuicios causados no exceda de cien veces el salario mínimo general mensual vigente en el Estado de Sinaloa, así como cuando el servidor público incurra en la conducta establecida en la fracción III del artículo 34 de esta Ley, la sanción de inhabilitación será de seis meses a tres años;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+I. Cuando el monto del beneficio obtenido o de los daños y perjuicios causados no exceda de cien veces el salario mínimo general mensual vigente en el Estado de Sinaloa, así como cuando el servidor público incurra en las conductas establecidas en las fracciones III y IV del artículo 34 de esta Ley, la sanción de inhabilitación será de seis meses a tres años;
 
 II. Cuando se incumplan las disposiciones contenidas en las fracciones XVII, XVIII, y XXXII, del artículo 15 de esta ley, la inhabilitación será de tres a seis años; y,
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 III. Cuando el servidor público despliegue la conducta prevista en el supuesto de la fracción IV del artículo 34 de esta Ley, obteniendo un beneficio económico u ocasione daños o perjuicios que excedan de cien veces el salario mínimo general mensual vigente en el Estado de Sinaloa, se inhabilitará de tres a diez años.
 
@@ -447,9 +463,17 @@ I. El incumplimiento a cualquiera de las obligaciones previstas en el artículo 
 
 II. Cuando se incumpla con cualquiera de las obligaciones contenidas en las fracciones XVII, XXVIII y XXXII del artículo 15 de la presente ley, se obtenga o no, un beneficio económico;
 
-III. Cuando se reincida en la omisión de dar respuesta a solicitudes realizadas en ejercicio del derecho de petición, a las formuladas en materia de acceso a la información pública; no se autorice liberar contenidos informativos; no se dé respuesta en el plazo concedido para ese efecto, a las resoluciones administrativas de la Comisión Estatal de Derechos Humanos y de la Comisión Estatal de Acceso a la Información Pública para liberar información en los términos de la Ley de Acceso a la Información Pública del Estado de Sinaloa, su Reglamento y otras disposiciones aplicables; y,
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
-IV. Destruir indebidamente, en forma total o parcial, información pública; así como reincidir en autorizar o realizar con pleno conocimiento, una clasificación indebida de la información que evite la liberación de contenidos informativos.
+III. Cuando se reincida en la omisión de dar respuesta a solicitudes realizadas en ejercicio del derecho de petición, a las formuladas en materia de acceso a la información pública; no se autorice liberar contenidos informativos; no se dé respuesta en el plazo concedido para ese efecto, a las resoluciones administrativas de la Comisión Estatal de Acceso a la Información Pública para liberar información en los términos de la Ley de Acceso a la Información Pública del Estado de Sinaloa, su Reglamento y otras disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2013)</small>
+
+IV. No responder las recomendaciones que le presente la Comisión Estatal de Derechos Humanos; y en el supuesto de no aceptarlas o cumplirlas omitir hacer pública su negativa; así como no atender los llamados del Congreso del Estado a comparecer a efecto de explicar el motivo de dicha negativa; y
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN IV, PERO DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE 27 DE NOVIEMBRE DE 2013, SE RECORRIÓ EN SU NUMERACIÓN PARA SER V.</small>
+
+V. Destruir indebidamente, en forma total o parcial, información pública; así como reincidir en autorizar o realizar con pleno conocimiento, una clasificación indebida de la información que evite la liberación de contenidos informativos.
 
 ### CAPÍTULO IV. DEL FINCAMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS RESARCITORIAS
 
@@ -951,7 +975,7 @@ Son documentos privados los que no reúnen las condiciones previstas para los do
 
 La presentación de documentos públicos podrá hacerse en copia simple si el interesado manifiesta que carece del original o copia certificada, pero si en la fase de instrucción del procedimiento administrativo o del recurso no se exhibe por el oferente el documento en original o copia certificada, aquellos producirán los efectos que conforme a su valoración probatoria les corresponda.
 
-Cuando las pruebas documentales no obren en poder del oferente o cuando no haya podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar de su ubicación, para que a su costa se mande expedir copia certificada de eIlos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto, deberá indicar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la presentación del escrito en que las ofrezca. Se entiende que el interesado tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
+Cuando las pruebas documentales no obren en poder del oferente o cuando no haya podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar de su ubicación, para que a su costa se mande expedir copia certificada de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto, deberá indicar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la presentación del escrito en que las ofrezca. Se entiende que el interesado tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
 
 A fin de que los particulares puedan rendir sus pruebas, las autoridades tienen obligación de expedir con toda oportunidad a costa del solicitante, las copias de los documentos que les soliciten; si no se cumpliera con esta obligación, la parte interesada solicitará a la autoridad que requiera a los omisos.
 
@@ -1320,3 +1344,9 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+P.O. 27 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
