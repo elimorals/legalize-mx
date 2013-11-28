@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2013-11-08"
+last_updated: "2013-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -291,9 +291,13 @@ XI. Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
 
 XII. Secretaría de Finanzas;
 
-XIII. Secretaría de Administración, y
+XIII. Secretaría de Administración, y (sic)
 
 XIV. Secretaría de la Contraloría y Transparencia Gubernamental.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+XV.- Secretaría del Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1073,7 +1077,7 @@ XXI. En el ámbito de su competencia impulsar, coordinar, ejecutar y supervisar 
 
 XXII. Coadyuvar con el Gobierno Federal en la aplicación de leyes, normas y campañas en materia de salud animal, de sanidad agrícola e inocuidad agroalimentaria;
 
-XXIII. Impulsar políticas públicas, para la mitigación y adaptación al cambio climático y fomentar estudios e investigaciones en esta materia, en el ámbito de su esfera competencial;
+XXIII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013)
 
 XXIV. Promover la protección, restauración y conservación de los ecosistemas en la planeación y desarrollo de los proyectos estratégicos; y
 
@@ -1436,6 +1440,48 @@ XXXI. Fomentar entre los servidores públicos del Estado, la cultura de la legal
 XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias, Entidades y Órganos Auxiliares de la Administración Pública Estatal, que considere necesarias para el mejor ejercicio de sus atribuciones; el nombramiento, remoción y rotación de los delegados, así como, del personal que integre cada una de las delegaciones será facultad exclusiva del Titular de esta Secretaría, y
 
 XXXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 47 BIS.- A la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, evaluar y conducir la política estatal en materia de recursos naturales, gestión y regulación ambiental, en congruencia con el Plan Estatal de Desarrollo y con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales;
+
+II. Orientar la implementación de un modelo de sustentabilidad, que permita a la población del Estado enfrentar la problemática ambiental prevaleciente;
+
+III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación de la política ecológica estatal, mismos que guardarán congruencia con los que formule la Federación en la materia, instrumentando al efecto un programa estatal de protección al ambiente;
+
+IV. Formular y ejecutar acciones de mitigación y adaptación al cambio climático, en concordancia con las políticas adoptadas por el Ejecutivo Federal en la materia;
+
+V. Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, y propiciar su aprovechamiento y desarrollo sustentable;
+
+VI. Formular los programas de ordenamiento ecológico estatal, así como regionales, comunitarios o prioritarios, con la participación de los núcleos de población comunal y ejidal y, en su caso, de los municipios, guardando congruencia con lo establecido por la Federación;
+
+VII. Promover, regular, administrar y vigilar las áreas naturales protegidas y predios de certificación voluntaria, previstos en la legislación local, con la participación de los núcleos de población comunal y ejidal y, en su caso, de los municipios;
+
+VIII. Fortalecer procesos, programas y proyectos en materia de conservación y uso sostenible de la biodiversidad terrestre y de los recursos hídricos;
+
+IX. Impulsar la evaluación, medición y seguimiento de la gestión ambiental, mediante mecanismos y regulaciones que aseguren que las actividades, obras y proyectos operen con una visión de desarrollo sustentable;
+
+X. Impulsar el desarrollo de tecnologías basadas en energías renovables y proyectos en todo el estado, que puedan ofertarse en un mercado sustentable y viable, y así transitar hacia una economía con bajo consumo de carbón;
+
+XI. Consolidar una cultura ambiental de participación corresponsable con la ciudadanía, que facilite la transparencia de la aplicación de las políticas públicas y sus recursos. Apoyándose para ello, del Fondo Público Ambiental de Oaxaca, como un instrumento indispensable de asesoría y apoyo técnico al Ejecutivo Estatal para administrar y encauzar los recursos públicos, hacia los programas y estrategias establecidos para ejecutar la política ambiental en Oaxaca, observando lo establecido por su correspondiente Fideicomiso de Administración;
+
+XII. Vigilar y estimular el cumplimiento de las leyes, normas y programas relacionados con recursos naturales y medio ambiente y, en su caso, imponer las sanciones que procedan dentro del ámbito de su competencia legal;
+
+XIII. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
+
+XIV. Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores público, social y privado y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
+
+XV. Establecer y promover un sistema de información ambiental estatal en coordinación con las dependencias y entidades federales, estatales y municipales e instituciones de investigación y de educación superior;
+
+XVI. Promover el uso de metodologías y procedimientos de evaluación económica del capital natural de Oaxaca, y de los bienes y servicios que presta;
+
+XVII. Conducir la política estatal de información, divulgación y educación en materia ambiental;
+
+XVIII. Consolidar la participación de organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, en la conservación del patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia; y
+
+XIX. Las demás atribuciones que le señalen las leyes y reglamentos en el Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2204,3 +2250,19 @@ DÉCIMO. Los derechos de los trabajadores de las áreas administrativas que con 
 UNDÉCIMO. Las obligaciones y derechos derivados de los contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las Dependencias, Órganos Auxiliares y Áreas administrativas, que por este Decreto cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativos.
 
 DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 28 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a al (sic) día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan o contravengan al presente Decreto.
+
+TERCERO. La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca deberá crearse e instalarse para iniciar sus operaciones, en el año 2016. La Secretaría de Finanzas del Gobierno del Estado implantará las medidas conducentes para prever en el Presupuesto de Egresos del Estado, las partidas correspondientes para la creación, instalación y operación de la Secretaría del Medio Ambiente y Recursos Naturales del Estado.
+
+CUARTO. La Secretaría de Administración del Estado, realizará las previsiones razonables, necesarias y pertinentes, para que el personal que labora en las diferentes dependencias y organismos de la Administración Pública del Estado, pasen a formar parte de la Secretaría del Medio Ambiente y Recursos Naturales, respetando sus derechos laborales.
+
+Los archivos, expedientes y mobiliario que tengan en resguardo las diferentes dependencias y organismos de la Administración Pública del Estado involucradas en la materia y ecológica ambiental, pasarán a formar parte del inventario de la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca.
+
+QUINTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, seguirá ejerciendo las funciones que establece el artículo 44 en su fracción XXIII de esta Ley.
+
+SEXTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretarías y/o entidades involucradas en la materia ecológica y ambiental, seguirán ejerciendo sus facultades de acuerdo a las competencias distribuidas por la Ley Orgánica del Poder Ejecutivo del Estado. EI Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca seguirá ejerciendo sus atribuciones conforme a lo establecido por la Ley que lo crea y la Ley del Equilibrio Ecológico del Estado de Oaxaca.
