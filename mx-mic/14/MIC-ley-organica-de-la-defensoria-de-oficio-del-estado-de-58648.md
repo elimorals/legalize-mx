@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-defensoria-de-oficio-del-estado-de-58648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-18"
-last_updated: "2008-01-18"
+last_updated: "2013-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY ORGÁNICA DE LA DEFENSORÍA DE OFICIO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MICHOACÁN, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE ENERO DE DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 18 de enero de 2008.
 
@@ -530,3 +532,21 @@ PRESIDENTE.- DIP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.-DlP. REVERIANO ORO
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de Diciembre del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de enero del año dos mil catorce.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Defensoría de Oficio del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado el 18 de enero de 2008, tomo CXLIII, núm. 18.
+
+TERCERO. El Instituto entrará en funciones dentro de los quince días naturales siguientes a la entrada en vigor de la presente Ley, para lo cual el Gobernador del Estado deberá convocar a la instalación de la Junta.
+
+CUARTO. El personal que actualmente forma parte de la Defensoría de Oficio pasará a formar parte del Instituto de la Defensoría Pública, preservando los derechos laborales.
+
+QUINTO. El patrimonio con el que actualmente cuenta la Defensoría de Oficio pasará a formar parte del Instituto.
+
+SEXTO. Para efectos presupuestales y administrativos a que haya lugar, el Poder Ejecutivo preverá en el presupuesto de egresos del ejercicio fiscal dos mil catorce, la creación de la unidad responsable correspondiente, en la unidad programática presupuestal de organismos descentralizados.
+
+SÉPTIMO. El Reglamento Interior del Instituto y el Reglamento del Servicio Civil de Carrera, deberán ser aprobados en un plazo máximo de noventa días contados a partir de la instalación de la Junta.
