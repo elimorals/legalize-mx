@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2013-02-04"
+last_updated: "2013-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -735,7 +735,7 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 39.
 
@@ -745,71 +745,67 @@ I. Administración y Presupuesto;
 
 II. Asuntos Indígenas;
 
-III. Ciencia y Tecnología;
+III. Atención y Protección de Periodistas;
 
-IV. Comunicaciones;
+IV. Ciencia y Tecnología;
 
-> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2013)</small>
+V. Comunicaciones;
 
-V. Derechos Humanos y Atención a Grupos Vulnerables y Migrantes;
+VI. Derechos Humanos y Atención a Grupos Vulnerables y Migrantes;
 
-VI. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
+VII. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
 
-VII. Desarrollo Económico;
+VIII. Desarrollo Económico;
 
-VIII. Desarrollo Regional;
+IX. Desarrollo Metropolitano;
 
-IX. Desarrollo y Fortalecimiento Municipal;
+X. Desarrollo Regional;
 
-X. Editorial, Biblioteca y Archivo;
+XI. Desarrollo y Fortalecimiento Municipal;
 
-XI. Educación y Cultura;
+XII. Editorial, Biblioteca y Archivo;
 
-XII. Equidad, Género y Familia;
+XIII. Educación y Cultura;
 
-XIII. Gestoría y Quejas;
+XIV. Equidad, Género y Familia;
 
-XIV. Gobernación;
+XV. Gestoría y Quejas;
 
-XV. Hacienda del Estado;
+XVI. Gobernación;
 
-XVI. Hacienda Municipal;
+XVII. Hacienda del Estado;
 
-XVII. Instructora;
+XVIII. Hacienda Municipal;
 
-XVIII. Justicia y Puntos Constitucionales;
+XIX. Instructora;
 
-XIX. Juventud y Deporte;
+XX. Justicia y Puntos Constitucionales;
 
-XX. Límites Territoriales Intermunicipales;
+XXI. Juventud y Deporte;
 
-XXI. Medio Ambiente, Recursos Naturales y Aguas;
+XXII. Límites Territoriales Intermunicipales;
 
-XXII. Organización Política y Procesos Electorales;
+XXIII. Medio Ambiente, Recursos Naturales y Aguas;
 
-XXIII. Procuración de Justicia;
+XXIV. Organización Política y Procesos Electorales;
 
-XXIV. Protección Civil;
+XXV. Procuración de Justicia;
 
-XXV. Salud y Asistencia;
+XXVI. Protección Civil;
 
-XXVI. Seguridad Pública;
+XXVII. Salud y Asistencia;
 
-XXVII. Trabajo y Previsión Social;
+XXVIII. Seguridad Pública;
 
-XXVIII. Transporte, Tránsito y Vialidad;
+XXIX. Trabajo y Previsión Social;
 
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+XXX. Transparencia y Acceso a la Información;
 
-XXIX. Turismo;
+XXXI. Transporte, Tránsito y Vialidad;
 
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+XXXII. Turismo; y
 
-XXX. Vigilancia; y
-
-> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
-
-XXXI. Desarrollo Metropolitano
+XXXIII. Vigilancia
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -1380,3 +1376,9 @@ G.O. 4 DE FEBRERO DE 2013.
 Primero. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. A partir del inicio de la vigencia del presente Decreto, todas las referencias que en ordenamientos estatales se hagan a la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables se entenderán referidas a la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables y Migrantes.
+
+G.O. 28 DE NOVIEMBRE DE 2013.
+
+PRIMERO. EL PRESENTE DECRETO INICIARÁ SU VIGENCIA EL DÍA DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL ESTADO.
+
+SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
