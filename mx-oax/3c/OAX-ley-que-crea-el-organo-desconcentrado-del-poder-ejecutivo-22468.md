@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-organo-desconcentrado-del-poder-ejecutivo-22468
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-13"
-last_updated: "2001-10-13"
+last_updated: "2013-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY QUE CREA EL ORGANO DESCONCENTRADO DEL PODER EJECUTIVO... DENOMINADO "ADMINISTRACION DIRECTA DE OBRAS Y SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA CIUDAD DE OAXACA -ADOSAPACO-"
 
-LEY QUE CREA EL ORGANO DESCONCENTRADO DEL PODER EJECUTIVO, DEPENDIENTE DE LA SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS, DENOMINADO "ADMINISTRACION DIRECTA DE OBRAS Y SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA CIUDAD DE OAXACA (ADOSAPACO)", COMO OPERADOR DE OBRAS Y SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA CIUDAD DE OAXACA Y ZONA CONURBADA
+LEY QUE CREA EL ÓRGANO DESCONCENTRADO DEL PODER EJECUTIVO, DEPENDIENTE DE LA SECRETARÍA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PÚBLICAS, DENOMINADO "ADMINISTRACIÓN DIRECTA DE OBRAS Y SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA CIUDAD DE OAXACA (ADOSAPACO)", COMO OPERADOR DE OBRAS Y SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA CIUDAD DE OAXACA Y ZONA CONURBADA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 13 de Octubre del 2001.
 
@@ -350,3 +352,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 28 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga el decreto 356 por el que se crea el Órgano Desconcentrado del Poder Ejecutivo denominado Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (A.D.O.S.A.P.A.C.O.), así mismo hasta el momento de la publicación de la reforma a la Ley Estatal de Derechos, en su ordenamiento 99; por la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (A.D.O.S.A.P.A.C.O.) se entenderá como Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+
+TERCERO. A la entrada en vigor de la presente Ley, el Personal Humano, los Recursos Materiales e Infraestructura, pertenencientes a la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (A.D.O.S.A.P.A.C.O.), quedarán adscritos al Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, los Municipios a quienes se a la prestación de Servicio de Agua Potable y Alcantarillado, quedarán adscritos al Organismo Operador Público denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+
+CUARTO. Las relaciones laborales y de seguridad social de los trabajadores del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, serán respetadas íntegramente como se venían ejerciendo, al momento de la entrada en vigor del presente Decreto.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto, las personas que ingresen a ocupar plazas vacantes de base estarán sujetas a las leyes y normatividad vigente señalados en el transitorio anterior.
+
+SEXTO. La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y a Administración directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, llevarán a cabo los trámites correspondientes para la transferencia de sus atribuciones y estructura organizacional, debiendo contemplar en su programas operativos anuales, para el ejercicio fiscal 2014 dichas modificaciones, en coordinación con las Secretarías de Finanzas, de Administración y de Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, sin que haya lugar a afectarse las prestaciones o condiciones laborales adquiridos por los trabajadores de base de la Administración de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca.
+
+SÉPTIMO. En un plazo no mayor a treinta días naturales contados a partir de la aprobación del presente decreto; el Ejecutivo del Estado deberá publicar el Reglamento de la presente Ley.
+
+OCTAVO. Se derogan aquellas disposiciones que se oponga a la presente ley.
