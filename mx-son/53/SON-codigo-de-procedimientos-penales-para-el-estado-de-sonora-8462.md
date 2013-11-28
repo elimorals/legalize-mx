@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2012-01-30"
+last_updated: "2013-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE FECHA 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO, A PARTIR DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1301,6 +1301,8 @@ VI.- Solicitar las medidas y providencias que establece la Ley de Atención y Pr
 
 En todo caso, el Juez, de oficio, mandará citar a la víctima u ofendido por el delito, para que comparezca por sí o por su representante designado en la averiguación previa o en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
 
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 > <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ARTICULO 142 BIS.- Cuando un sentenciado sea declarado penalmente responsable de la comisión del delito de trata de personas establecido en el artículo 301-J del Código Penal del Estado de Sonora, el Juez deberá condenarlo también al pago de la reparación del daño a favor de la víctima. Esta incluirá, por lo menos:
@@ -1581,11 +1583,13 @@ Cuando se trate de lesiones externas, éstas serán objeto de inspección pormen
 
 En caso de lesiones internas, envenenamiento u otra enfermedad proveniente de delito, además de cualesquiera de otras diligencias que resulten procedentes, se practicará inspección haciéndose constar las manifestaciones exteriores que presentare la víctima y se recabará el dictamen pericial en que se expresarán los síntomas que presente, si existen esas lesiones y si han sido producidas por una causa externa. En caso de no existir manifestaciones exteriores, se hará constar esta circunstancia, agregándose el dictamen pericial.
 
-> <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 167.
 
-Si se tratare de homicidio, además de otras diligencias que sean procedentes, se practicará la inspección del cadáver, describiéndose minuciosamente y se recabará el dictamen de los peritos médicos, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo.
+Si se tratare de homicidio o feminicidio, además de otras diligencias que sean procedentes, se practicará la inspección del cadáver, describiéndose minuciosamente y se recabará el dictamen de los peritos médicos, quienes practicarán la autopsia y expresarán, con minuciosidad, el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo.
+
+> <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 Solamente se podrá dejar de practicar la autopsia, cuando el Ministerio Público, o el Tribunal en su caso, estimen que no es necesaria.
 
@@ -1601,7 +1605,7 @@ Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, ba
 
 ###### ARTICULO 169.
 
-En los casos de aborto, además de las diligencias mencionadas en los artículos 167 y 168, así como de cualesquiera otras que resulten pertinentes, también reconocerán los peritos médicos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En todo caso expresarán la edad del producto de la concepción, su viabilidad y todo aquello que pueda servir para fijar la naturaleza del delito.
+En los casos de aborto, además de las diligencias mencionadas en los artículos 167 y 168, así como de cualesquiera otras que resulten pertinentes, también reconocerán los peritos médicos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En todo caso expresarán la edad del producto de la concepción, su viabilidad y todo aquello que puede servir para fijar la naturaleza del delito.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 17 DE MAYO DE 2001)</small>
 
@@ -1749,9 +1753,11 @@ III.- Que no pueda ocurrir ante el Juez a solicitar la orden de aprehensión, po
 
 Se califican como delitos graves, los previstos en los siguientes artículos del Código Penal para el Estado de Sonora:
 
-> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2010)</small>
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 Bis; los supuestos previstos en la última parte del primer párrafo y segundo párrafo del artículo 65 Ter; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuesto (sic) previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 Bis 1; tortura, previsto en el artículo 181; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilio o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; secuestro, previsto en los artículos 296, 297,297 Bis, 297-B, 298, 298-A, 299 y 300; trata de personas previsto en el artículo 301-J; sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX, X, XI y XII, excepto lo previsto en el penúltimo párrafo de este artículo, y 308 Bis; abigeato respecto de ganado bovino, en los términos del artículo 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+Homicidio por culpa, previsto en el artículo 65, tercer párrafo; los supuestos previstos por el artículo 65 Bis; los supuestos previstos en la última parte del primer párrafo y segundo párrafo del artículo 65 Ter; homicidio previsto en el artículo 123; rebelión, previsto en el artículo 124; evasión de presos, previsto en el artículo 134 cuando su comisión sea dolosa; asociación delictuosa, previsto en el artículo 142, tercer párrafo, en el caso de los supuesto (sic) previstos en el cuarto párrafo; violación de correspondencia, previsto en el segundo párrafo del artículo 152; corrupción de personas menores de edad previsto en los párrafos tercero, cuarto y quinto del artículo 168; utilización de imágenes y/o voces de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho para la pornografía previsto en el artículo 169 Bis 1; tortura, previsto en el artículo 181; abusos deshonestos previstos en el cuarto párrafo del artículo 213 únicamente en los supuestos de los párrafos segundo y tercero; violación y las figuras equiparadas, previstas en los artículos 218, 219 y 220; asalto, previsto en el artículo 241; lesiones que ponen en peligro la vida, previsto en el artículo 244, independientemente de las prevenciones establecidas en los artículos 245, 246, 247, 248 y 251; homicidio, previsto en el artículo 252, cuando se den los supuestos previstos en los artículos 256, 257, 258 y 259 párrafo segundo; auxilio o inducción al suicidio, cuando le correspondan las sanciones previstas en el segundo párrafo del artículo 264; feminicidio previsto en el artículo 263 Bis 1; aborto sin consentimiento y con violencia, previsto en el artículo 267; abandono de personas, previsto en el artículo 275, cuando le corresponda las sanciones señaladas en los párrafos segundo y tercero del mismo numeral; extorsión, previsto en el artículo 293; privación ilegal de la libertad, previsto en el artículo 294, cuando se da alguno de los supuestos establecidos en el artículo 295; SECUESTRO, previsto en los artículos 296, 297, 297 Bis, 297-B, 298, 298-A, 299 y 300; TRATA DE PERSONAS previsto en el artículo 301-J; sustracción de menores e incapaces, previsto en el artículo 301-E; robo, previsto en los artículos 308, fracciones I, IV, VII, VIII, IX, X, XI y XII, excepto lo previsto en el penúltimo párrafo de este artículo, 308 Bis y 308 Bis C; abigeato respecto de ganado bovino, en los términos del artículo 312 y 313 y, respecto de ganado equino, ovino, caprino y porcino, en los términos del párrafo cuarto del artículo 312; abuso de confianza, en los casos del segundo párrafo del artículo 317; fraude, en los casos del segundo párrafo del artículo 320; despojo con intervención de autor intelectual en despoblado, en los términos del artículo 323, párrafo tercero en relación con el cuarto; daños, previsto en el artículo 327, cuando se trata de comisión dolosa; encubrimiento, previsto en los párrafos tercero y cuarto del artículo 329.
 
 Los delitos señalados en el párrafo anterior también serán considerados como graves aún en los casos de tentativa.
 
@@ -4294,3 +4300,13 @@ Se derogan todas aquellas disposiciones que se opongan al presente Código.
 ###### ARTÍCULO CUARTO.
 
 Los juicios y procedimientos que se encuentran en trámite a la entrada en vigor de este Código, se substanciaran y resolverán de conformidad con las normas aplicables al momento de inicio.
+
+B.O. 28 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Sonora acuerda que, en un plazo no mayor a seis meses, contado a partir de la entrada en vigor del presente Decreto, se legislará para establecer en el Código de Procedimientos Penales para el Estado de Sonora, los protocolos de investigación con perspectiva de género, necesarios para un correcta procuración e impartición de justicia en lo concerniente al feminicidio.
