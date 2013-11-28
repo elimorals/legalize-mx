@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-para-el-desarrollo-metropolitano-84275"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-17"
-last_updated: "2011-12-17"
+last_updated: "2013-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO SUSTENTABLE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 17 de diciembre de 2011.
 
@@ -47,7 +47,7 @@ I. Acciones Metropolitanas.- Son los planes, programas, estudios, evaluaciones, 
 
 II. Agenda Metropolitana.- La relación de acciones metropolitanas de interés municipal que se determinarán por el Instituto Metropolitano de Planeación para el Desarrollo Sustentable.
 
-III. Consejo de Desarrollo Metropolitano.- Órgano Colegiado que administra y ejecuta los objetivos, prioridades, políticas y estrategias de la Agenda para el desarrollo de cada Zona Metropolitana y contará con un Fideicomiso; su correspondiente Comité Técnico y Subcomité Técnico de Evaluación de Proyectos, conforme lo establecen las Reglas de Operación del Fondo Metropolitano establecidas por la SHCP y las adicionales que se legislen anualmente en la Ley Federal del Presupuesto de Egresos.
+III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013)
 
 IV. Comité Técnico Interinstitucional.- Se refiere al Órgano Interinstitucional del Consejo de Desarrollo Metropolitano, con participación de instancias Federales y Estatales, encargada de la planeación presupuestal para cumplir las acciones de la Agenda Metropolitana, derivadas de la Planeación Metropolitana, a través de los Programas Sectoriales del Poder Ejecutivo.
 
@@ -59,7 +59,9 @@ VII. Consejo Honorario de Participación Ciudadana.- Se refiere al Órgano Consu
 
 VIII. Comisiones.- Son órganos de consulta, opinión y concertación que forman parte del Consejo Honorario, que analizan y consensan propuestas sobre asuntos específicos de carácter Metropolitano para integrar la Agenda Metropolitana.
 
-IX. Coordinador General.- Se refiere al Coordinador del Consejo Directivo del Instituto Metropolitano de Planeación para el Desarrollo Sustentable.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+IX. Coordinador Municipal.- Se refiere al Coordinador de los presidentes municipales integrantes del Consejo Directivo del Instituto Metropolitano de Planeación para el Desarrollo Sustentable.
 
 X. Dirección General.- Titular responsable del Instituto Metropolitano de Planeación para el Desarrollo Sustentable.
 
@@ -75,7 +77,9 @@ XV. Fondo.- Fondo Metropolitano establecido anualmente por el Congreso Federal.
 
 XVI. Infraestructura Metropolitana.- Toda clase de redes de comunicación, transportación y distribución de servicios públicos en el área metropolitana.
 
-XVII. Instituto.- Se refiere al Instituto Metropolitano de Planeación para el Desarrollo Sustentable, Órgano Técnico Descentralizado, con personalidad jurídica y patrimonio propios y con Participación de la Sociedad Civil, integrado por un Consejo Directivo, una Dirección General, una Dirección Técnica y un Consejo Honorario de Participación Ciudadana, responsable de la planeación de la Zona Metropolitana.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+XVII. Instituto.- Se refiere al Instituto Metropolitano de Planeación para el Desarrollo Sustentable, Organismo Descentralizado, con personalidad jurídica y patrimonio propios y con Participación de la Sociedad Civil, integrado por un Consejo Directivo, una Dirección General, una Dirección Técnica y un Consejo Honorario de Participación Ciudadana, responsable de la planeación de la Zona Metropolitana.
 
 XVIII. Municipio.- La jurisdicción territorial determinada y representada por un Gobierno con personalidad jurídico-política, dotado de facultades para atender las necesidades de su núcleo poblacional, que maneja su patrimonio conforme a las Leyes en la materia y elige directamente a sus autoridades.
 
@@ -117,9 +121,11 @@ XXVII. Zona Metropolitana.- Es el espacio territorial de influencia dominante de
 
 DE LA INSTITUCIONALIZACIÓN DE LAS ZONAS METROPOLITANAS.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 3.
 
-El Gobernador Constitucional del Estado de Oaxaca, al aceptar la delimitación que emita el Grupo Interdisciplinario integrado por la Secretaría de Desarrollo Social, el Consejo Nacional de Población y el Instituto Nacional de Estadística y Geografía de la constitución de Zona Metropolitana que involucre jurisdicciones del territorio del Estado, la remitirá a la Legislatura para que emita el Decreto que incorpore las jurisdicciones de los municipios involucrados en la jurisdicción territorial de la Zona Metropolitana correspondiente.
+El Gobernador Constitucional del Estado de Oaxaca, al aceptar la delimitación que emita el Grupo Interdisciplinario integrado por la Secretaría de Desarrollo Social, el Consejo Nacional de Población y el Instituto Nacional de Estadística y Geografía de la constitución de Zona Metropolitana que involucre jurisdicciones del territorio del Estado, emitirá la declaratoria que incorpore a los municipios involucrados en la jurisdicción territorial de la Zona Metropolitana correspondiente.
 
 ###### ARTÍCULO 4.
 
@@ -171,95 +177,45 @@ IV. Las Comisiones de Concertación y Propuesta Sectorial, como organismos facil
 
 ###### ARTÍCULO 13.
 
-El Consejo para el Desarrollo Metropolitano será una instancia de interés público y beneficio social, que apoyará la planeación, promoción y gestión del desarrollo metropolitano y regional, y contribuirá a una adecuada coordinación intergubernamental para la ejecución de la Agenda Metropolitana con el fin de resolver de manera oportuna, eficaz, eficiente y estratégica, aspectos prioritarios para el desarrollo metropolitano sustentable.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 14.
 
-El Consejo se integrará de la siguiente manera:
-
-I. Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, quien lo presidirá.
-
-II. Presidentes Municipales que integren las zonas metropolitanas.
-
-III. Titular de la Secretaría General de Gobierno.
-
-IV. Titular de la Secretaría de Finanzas.
-
-V. Titular de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable quien fungirá como Secretario Técnico.
-
-VI. Titular de la Secretaría de Desarrollo Social y Humano.
-
-VII. Titular de la Secretaría de la Contraloría y Transparencia.
-
-VIII. Titular del Comité Estatal de Planeación para el Desarrollo.
-
-IX. Diputado Presidente de la Comisión Permanente de Asuntos Metropolitanos.
-
-X. Delegado de la SEMARNAT en el Estado.
-
-XI. Delegado de la SEDESOL en el Estado.
-
-XII. Legislador o Legisladores representantes del Distrito o Distritos Electorales que incluyan los Municipios integrados a las Zonas Metropolitanas.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 15.
 
-Por cada consejero propietario se podrá nombrar un suplente con nivel mínimo de Subsecretario o equivalente quien deberá estar debidamente acreditado, y en ausencia del propietario ejercerá los mismos derechos de los titulares.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 16.
 
-Deberán ser invitados a las sesiones, con derecho a voz pero sin voto, el titular del Consejo Honorario Metropolitano de Participación Ciudadana, dos representantes del sector empresarial, dos representantes de Colegios de Profesionistas, dos ciudadanos especialistas en la materia, y dos representantes de Instituciones de Educación Superior.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 17.
 
-El Consejo sesionará de acuerdo a lo establecido en el Reglamento de la presente Ley y de conformidad con las Reglas de Operación del Fondo Metropolitano vigente.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 18.
 
-Corresponderá al Consejo, de acuerdo a las normas Federales y Estatales:
-
-1. Evaluar la alineación de las acciones metropolitanas que se postulen para la aplicación del Fondo Metropolitano, con el Plan Nacional de Desarrollo y los Programas de Desarrollo Regional, Urbano y Especial que se deriven del mismo, así como con los Planes y Programas de Desarrollo Urbano del ámbito Estatal y Municipal.
-
-2. Establecer los criterios para asignar prioridad y prelación a las acciones de la Agenda Metropolitana en materia de infraestructura y su equipamiento que se presentarán a la consideración del Subcomité Técnico de Evaluación de Proyectos y del Comité Técnico del Fideicomiso.
-
-3. Revisar que todas las acciones metropolitanas que se postulen en la Agenda cumplan con los requisitos establecidos en las Reglas de Operación del Fondo Metropolitano emitidas por la SHCP y que se encuentren claramente delimitadas y localizadas dentro del perímetro urbano de la Zona Metropolitana, de acuerdo con el plan o programa de desarrollo urbano vigente y, en su caso, emitir recomendaciones al respecto.
-
-4. Revisar aquellas acciones de infraestructura y su equipamiento contenidas en la Agenda que no impacten directamente en la jurisdicción de la Zona Metropolitana, pero que, con base en las evaluaciones costo-beneficio, impacto económico, social o ambiental, y de conformidad con los programas de desarrollo regional, urbano y para el ordenamiento del territorio, se acredite su pertinencia y contribución al desarrollo de la Zona Metropolitana correspondiente.
-
-5. Verificar que las acciones metropolitanas de infraestructura y su equipamiento que se postulen para recibir recursos del Fondo; consideren el impacto metropolitano.
-
-6. Designar recursos de los programas sectoriales, fomentar otras fuentes de financiamiento, adicionales a los recursos del Fondo Metropolitano previstos en el Presupuesto de Egresos de la Federación, para fortalecer las decisiones del comité técnico.
-
-7. Coadyuvar en el seguimiento, evaluación, rendición de cuentas y transparencia de los recursos del Fondo Metropolitano en los términos que establezcan las propias Reglas de Operación y las demás aplicables.
-
-8. Remitir trimestralmente el informe del destino y aplicación de los recursos, del avance físico y financiero y de la evaluación de los resultados alcanzados y el impacto urbano, económico y social a la SHCP así como a las Legislaturas Federal y Estatal a través de las Comisiones Metropolitanas respectivas; invariablemente se cumplirá lo determinado por el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y las demás disposiciones legales aplicables.
-
-9. Proponer auditorías y evaluaciones externas a las acciones metropolitanas de infraestructura y su equipamiento que se seleccionen.
-
-10. Remitir, trimestralmente a las Comisiones Metropolitanas de las Legislaturas Federal y Estatal, la información desglosada en la que se autoriza la asignación de recursos del Fondo Metropolitano, misma que estará disponible en el portal de Internet de las Entidades Federativas que conforman cada Zona Metropolitana, siendo responsabilidad del Consejo mantenerlo actualizado con propuestas y acciones que integran la Agenda Metropolitana.
-
-11. El portal de internet del Fondo Metropolitano debe mantener información permanentemente y actualizada de las propuestas y acciones aprobadas que integran la Agenda Metropolitana.
-
-12. En la realización de las funciones asignadas al Consejo y en el cumplimiento de su objeto, se cuidará que contribuya al eficaz y eficiente funcionamiento del Fideicomiso administrador de los recursos del Fondo Metropolitano.
-
-13. Definir la programación e instrumentación, así como las partidas presupuestales para la ejecución de la Agenda Metropolitana de acuerdo a los indicadores que propondrá el Instituto para promover el desarrollo integral sustentable de las Zonas Metropolitanas;
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 19.
 
-Los acuerdos de este Consejo, además de hacerse del conocimiento de las instancias del Ejecutivo y Legislativo Federales, como lo establecen las Reglas de Operación, deberán notificarse a la Legislatura local a través de la Comisión Permanente de Desarrollo Metropolitano.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 20.
 
-El Consejo nombrará a un Prosecretario Técnico que auxilie al Secretario Técnico y lo supla en sus ausencias. Quien será designado de entre los miembros del Consejo tomando en consideración que las funciones que desempeñen, sean acordes con los objetivos del Consejo.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 21.
 
-Corresponderá al Secretario Técnico dar seguimiento a los acuerdos que se adopten e informar del avance en su cumplimiento, así como la coordinación y ejecución de las acciones que corresponden al Consejo establecidas en el Artículo 18; representará al Consejo en el Comité Técnico y en el Subcomité Técnico de Evaluación, órganos que se establecen siguiendo las Reglas de Operación del Fondo Metropolitano.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ### CAPÍTULO V. DEL FIDEICOMISO Y SUS COMITES
 
 ###### ARTÍCULO 22.
 
-La Legislatura autorizará al Ejecutivo Estatal para la constitución del Fideicomiso de Administración e Inversión, que requieren las Reglas de Operación del Fondo Metropolitano emitidas por la SHCP para la administración de dicho Fondo, considerando la obligación de presentar trimestralmente el informe del destino y aplicación de los recursos, del avance físico y financiero y de la evaluación de los resultados alcanzados y el impacto urbano, económico y social por conducto de la Comisión Permanente de Asuntos Metropolitanos.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 23.
 
@@ -341,15 +297,17 @@ Los Reglamentos de esta Ley, los especiales del Consejo y sus Comités, así com
 
 ### CAPÍTULO VI. DEL INSTITUTO METROPOLITANO DE PLANEACIÓN PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE OAXACA
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 37.
 
-El Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca, es un Organismo Público Autónomo, con participación ciudadana, dotado de personalidad jurídica, autonomía de gestión y patrimonio propios, que ejerce funciones de planeación integral en las jurisdicciones definidas y declaradas Zonas Metropolitanas del Estado de Oaxaca.
+El Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca, es un Organismo Descentralizado, con participación ciudadana, dotado de personalidad jurídica, autonomía de gestión y patrimonio propios, que ejerce funciones de planeación integral en las jurisdicciones definidas y declaradas Zonas Metropolitanas del Estado de Oaxaca.
 
 El patrimonio del Instituto se constituirá por:
 
 a) El presupuesto establecido en la Ley de Egresos del Estado del ejercicio fiscal que corresponda;
 
-b) El veinticinco por ciento de los Fondos Metropolitanos;
+b) (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 c) Las aportaciones municipales que para tal efecto aprueben los Ayuntamientos;
 
@@ -361,15 +319,19 @@ f) Los bienes muebles e inmuebles que adquiera bajo cualquier título legal.
 
 g) Todos aquellos fondos que contribuyan al fortalecimiento patrimonial del Instituto y los demás bienes, derechos y recursos que por cualquier otro título legal adquiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-El Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca, es el organismo especializado interdisciplinario encargado de realizar los estudios para las Declaratorias de las Zonas Metropolitanas; de complementar, coordinar y auxiliar a los Municipios de la Zona en sus funciones técnicas, realizando análisis, resolución de la planeación y el desarrollo de todos los proyectos de la Agenda Metropolitana para presentar ante el consejo para su correspondiente ejecución; dará seguimiento y evaluará los programas, proyectos, acciones y obras de la Zona Metropolitana; es la instancia de promoción y concertación, entre los sectores interesados, de acciones metropolitanas a mediano y largo plazo; y estará integrado por:
+El Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca, es el organismo especializado interdisciplinario encargado de realizar los estudios para las Declaratorias de las Zonas Metropolitanas; de complementar, coordinar y auxiliar a los Municipios de la Zona en sus funciones técnicas, realizando análisis, resolución de la planeación y el desarrollo de todos los proyectos de la Agenda Metropolitana para presentar ante el consejo para su correspondiente ejecución; dará seguimiento y evaluará los programas, proyectos, acciones y obras de la Zona Metropolitana; es la instancia de promoción y concertación, entre los sectores interesados, de acciones metropolitanas a mediano y largo plazo; cumpliendo las Reglas de Operación del Fondo Metropolitano, recibirá recursos económicos de dicho Fondo Metropolitano en un veinticinco por ciento de su totalidad y estará integrado por:
 
 a) El Consejo Directivo como el órgano de gobierno y administración del Instituto.
 
 b) Un Director General quien será el titular del Instituto y su representante jurídico.
 
-c) El Comité Técnico con las áreas requeridas de acuerdo al Reglamento de la Ley.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+b) Un Director General quien será el Titular del Instituto y su representante jurídico y, un Director Técnico.
 
 e) (sic) El personal que se requiera y que permita el presupuesto asignado mismo que se regirá de acuerdo al Apartado A del Artículo 123 Constitucional.
 
@@ -381,13 +343,19 @@ g) Comisiones de Concertación y Propuesta Sectorial.
 
 El Consejo Directivo se integrará por los titulares o representantes debidamente acreditados de las siguientes instancias y tendrán voz y voto en las asambleas.
 
-I. Un Coordinador General, que será el Presidente del Municipio Central de la Zona Metropolitana con voz y voto de calidad en caso de empate.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-II. Un Secretario, que será el Director General o el Delegado del Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca con voz.
+I. Un Presidente, que será el Secretario de Finanzas, con voz y voto de calidad en caso de empate.
 
-III. Los Presidentes Municipales de los Municipios integrados en la Zona Metropolitana con voz y voto.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-IV. Legislador que presida la Comisión Permanente de Asuntos Metropolitanos, con voz y voto.
+II. Un Secretario Técnico, que será el Director General del Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca con voz.
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+III. Los Presidentes Municipales de los Municipios integrados en la zona Metropolitana con voz y voto; su Coordinador Municipal será el Presidente del Municipio Central de la Zona Metropolitana.
+
+IV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013)
 
 V. Un representante de las siguientes delegaciones del Gobierno Federal: SEDESOL, SEMARNAT y SCT con voz y voto.
 
@@ -395,13 +363,21 @@ VI. Un representante de las siguientes Secretarias de Gobierno Estatal: General 
 
 VII. El presidente del Consejo Honorario de Participación Ciudadana, con voz y voto.
 
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Un Comisario que será el titular de la Secretaría de la Contraloría del Gobierno del Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 40.
 
-El Director General deberá ser un profesionista especializado en Urbanismo, Desarrollo Urbano o áreas afines a la Planeación, debiendo acreditarlo con cedula profesional, contar como mínimo con diez años de experiencia en la materia, ser mexicano y vecino del Estado con permanencia de los últimos cinco años. Será electo mediante terna propuesta por el Ejecutivo y aprobada por el Legislativo del Estado. Su cargo tendrá una duración de cuatro años, pudiendo ser ratificado por el Legislativo por una ocasión a petición del Consejo Directivo. Para el desarrollo de sus funciones contará con un área técnica especializada.
+El Director General deberá ser un profesionista especializado en Urbanismo Desarrollo Urbano o áreas afines a la Planeación, preferentemente, debiendo acreditarlo con titulo, cedula profesional o experiencia probada, contar como mínimo con diez años de experiencia en la materia, ser mexicano y vecino del Estado con permanencia de los últimos cinco años; será nombrado por el Titular del Ejecutivo del Estado. Para el desarrollo de sus funciones contará con un Comité Técnico del Instituto.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
-El Área Técnica se integrará por especialistas de diversas disciplinas de acuerdo al Reglamento del Instituto y su función será la de realizar los trabajos necesarios para conformar la Agenda Metropolitana.
+El Comité Técnico del Instituto se integrará por especialistas de diversas disciplinas de acuerdo al Reglamento del Instituto y su función será la de realizar los trabajos necesarios para conformar la Agenda Metropolitana.
 
 ###### ARTÍCULO 42.
 
@@ -577,9 +553,11 @@ Todos los servidores públicos del Instituto estarán sujetos a la Ley de Respon
 
 La Secretaria de la Contraloría instalará en el Instituto y sus Delegaciones, un módulo de atención quejas y denuncias.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 61.
 
-El ocultamiento, omisión y negación de información, será sancionado en términos de la Ley Federal de Acceso a la Información.
+El ocultamiento, omisión y negación de información, será sancionado en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
 
 ###### ARTÍCULO 62.
 
@@ -601,7 +579,9 @@ TERCERO.- La Legislatura del Estado contará con un plazo de sesenta días para 
 
 CUARTO.- La Legislatura del Estado deberá contemplar presupuesto para el funcionamiento del Instituto Metropolitano de Planeación para el Desarrollo Sustentable, en el ejercicio fiscal 2012.
 
-QUINTO.- El Instituto Metropolitano de Planeación para el Desarrollo Sustentable a partir de su constitución, se establece como Órgano Autónomo del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+QUINTO.- El Instituto Metropolitano de Planeación para el Desarrollo Sustentable a partir de su constitución, se establece como Organismo Descentralizado de Estado de Oaxaca.
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
@@ -642,3 +622,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 16 de Diciembre del 2011.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca, a partir de su constitución, se establece como Organismo Descentralizado sectorizado a la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se exhorta al Titular del Poder Ejecutivo del Estado, para que en un plazo no mayor de treinta días naturales, nombre al Director General del Instituto Metropolitano de Planeación para el Desarrollo Sustentable del Estado de Oaxaca.
