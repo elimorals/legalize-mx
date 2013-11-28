@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-del-estado-de-oaxaca-21397"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-10"
-last_updated: "2008-05-10"
+last_updated: "2013-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO DEL ESTADO DE OAXACA
 
-LEY DEL EQUILIBRIO ECOLOGICO DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+LEY DEL EQUILIBRIO ECOLÓGICO DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
@@ -117,7 +119,7 @@ XX.- Flora silvestre: Las especies vegetales terrestres, así como hongos que su
 
 XXI.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXII.- Instituto: El Instituto Estatal de Ecología;
+XXII.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013)
 
 XXIII.- Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
@@ -148,6 +150,10 @@ XXXV.- Región ecológica: La unidad del territorio estatal que comparte caracte
 XXXVI.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
 XXXVII.- Restauración ambiental: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+XXXVII bis.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca.
 
 XXXVIII.- Sustancia peligrosa: Aquella que por sus altos índices de inflamabilidad, explosividad, toxicidad, reactividad, radiactividad, corrosividad o acción biológica puede ocasionar una afectación significativa al ambiente, a la población o a sus bienes; y
 
@@ -1868,3 +1874,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 10 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decretó entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a (sic) al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, el Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca seguirá ejerciendo sus atribuciones, conforme a lo establecido por la Ley que lo crea y la Ley del Equilibrio Ecológico del Estado de Oaxaca.
