@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-box-y-lucha-8487"
 country: "mx"
 rank: "ley"
 publication_date: "1988-04-11"
-last_updated: "1988-04-11"
+last_updated: "2013-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE BOX Y LUCHA PROFESIONALES Y ESTABLECE LAS BASES GENERALES PARA LA PRACTICA DE ESTOS DEPORTES
 
-LEY QUE CREA LA COMISION ESTATAL DE BOX Y LUCHA PROFESIONALES Y ESTABLECE LAS BASES GENERALES PARA LA PRACTICA DE ESTOS DEPORTES
+LEY QUE CREA LA COMISIÓN ESTATAL DE BOX Y LUCHA PROFESIONALES Y ESTABLECE LAS BASES GENERALES PARA LA PRACTICA DE ESTOS DEPORTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 28 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 90 DÍAS, CONTADOS A PARTIR DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 11 de abril de 1988.
 
@@ -320,3 +322,27 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO.
 
 FRANCISCO JAVIER ALDANA MONTAÑO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 28 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los 90 días, contados a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 210, aprobada por esta Soberanía el día 25 de marzo de 1988, publicada en el Boletín Oficial con fecha 11 de abril de 1988.
+
+###### ARTÍCULO TERCERO.
+
+Se abrogan todas aquellas disposiciones reglamentarias y acuerdos o disposiciones administrativas de observancia general que se opongan al presente cuerpo normativo.
+
+###### ARTÍCULO CUARTO.
+
+El reglamento de la presente Ley se deberá expedir dentro de los 180 días posteriores a la entrada en vigor de este ordenamiento jurídico.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión deberá integrarse dentro de los sesenta días siguientes a la entrada en vigor de esta Ley.
