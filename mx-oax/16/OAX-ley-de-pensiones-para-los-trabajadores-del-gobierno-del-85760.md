@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-del-gobierno-del-85760"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-28"
-last_updated: "2012-01-28"
+last_updated: "2013-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de enero de 2012.
 
@@ -857,17 +857,21 @@ DÉCIMO. Cualquier situación no prevista, relacionada con las pensiones que se 
 
 SOBRE LOS JUBILADOS, PENSIONADOS Y PENSIONISTAS A LA FECHA DE ENTRADA EN VIGOR DE ESTA LEY
 
-DÉCIMO PRIMERO. Los jubilados, pensionados y pensionistas que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la ley que se abroga, continuarán ejerciendo sus derechos señalados en las disposiciones vigentes al momento de su otorgamiento debiendo aportar, en el caso de jubilados y pensionados, al Fondo de Pensiones en los términos de los Artículos Décimo Segundo y Décimo Tercero Transitorio de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+DÉCIMO PRIMERO. Los jubilados, pensionados y pensionistas que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la ley que se abroga, continuarán ejerciendo sus derechos señalados en las disposiciones vigentes al momento de su otorgamiento.
 
 El otorgamiento de las jubilaciones y pensiones cuya solicitud se encuentre en trámite al entrar en vigor esta Ley, se resolverán conforme a las disposiciones legales que se encontraban vigentes con anterioridad a la entrada en vigencia de esta Ley.
 
-DÉCIMO SEGUNDO. Por lo que hace a las cuotas de los Jubilados conforme al artículo Décimo Primero transitorio, su importe será equivalente al seis por ciento de su pensión. La Oficina de Pensiones descontará y retendrá el importe que corresponda, valiéndose del procedimiento señalado en el artículo 18 de esta Ley, al momento de cubrirles sus numerales. Dicha cuota será aplicada de manera gradual con una tasa de 2% en el primer año de vigencia de la Ley; de 4% en el segundo y de 6% en el tercer año.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Por lo que respecta a las aportaciones del 14% que el Gobierno del Estado de Oaxaca se obliga a realizar al Fondo de Pensiones, estas las enterará con apego a lo señalado en el artículo 18 de esa Ley.
+DÉCIMO SEGUNDO. (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
-DÉCIMO TERCERO. Por lo que hace a las cuotas de los Pensionados conforme al artículo Décimo Primero transitorio, su importe será equivalente al tres por ciento de su pensión. La Oficina de Pensiones descontará y retendrá el importe correspondiente, valiéndose del procedimiento señalado en el artículo 18 de esta Ley, al momento de cubrirles sus numerales. Dicha cuota será aplicada de manera gradual con una tasa de 1% en el primer año de vigencia de la Ley; de 2% en el segundo y de 3% en el tercer año.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Por lo que respecta a las aportaciones del 7% que el Gobierno del Estado de Oaxaca se obliga a realizar al Fondo de Pensiones, estas las enterará con apego a lo señalado en el artículo 18 de esa Ley
+DÉCIMO TERCERO. (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2013)
 
 DÉCIMO CUARTO. Las pensiones concedidas a los Elementos de la Policía Preventiva, o a sus familiares, hasta antes de la entrada en vigor de la presente Ley y las que se les concedan a partir de la fecha de inicio de vigencia de esta Ley mediante acuerdo del ejecutivo, serán con cargo al Gobierno del Estado de Oaxaca.
 
@@ -914,3 +918,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 28 de Enero del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca y entrará en vigor el primero de enero del año dos mil catorce.
