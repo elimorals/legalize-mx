@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2013-11-27"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -499,9 +499,9 @@ X. La asistencia a los grupos más vulnerables y con mayor atención a las comun
 
 XI. La salud en el trabajo o laboral.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XII.- La atención de los sujetos de violencia intrafamiliar y abandono; y
+XII.- La atención de los sujetos de violencia intrafamiliar y abandono, en particular a las niñas y los niños que serán atendidos, conforme al protocolo de atención a menores víctimas de violencia intrafamiliar y abandono, establecido por la Secretaría de Salud del Estado; y
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -1281,7 +1281,9 @@ La Secretaría de Salud Pública del Estado, de conformidad con la Ley de Inform
 
 La información se referirá fundamentalmente a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+I. Estadísticas de natalidad, mortalidad, morbilidad, invalidez y maltrato infantil;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud y
 
@@ -1585,9 +1587,9 @@ Son actividades básicas de asistencia social:
 
 I. La atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-II. La atención en establecimientos especializados a personas sujetas a maltrato, en estado de abandono, desamparo y sin recursos;
+II. La atención en establecimientos especializados a personas sujetas a maltrato, en estado de abandono, desamparo y sin recursos. En el caso de maltrato infantil, el Estado garantizará su atención, conforme al protocolo de atención a menores víctimas de violencia intrafamiliar y abandono, establecido por la Secretaría de Salud del Estado;
 
 III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
@@ -1626,6 +1628,10 @@ Los menores, ancianos y mujeres en estado de desamparo y desprotección social t
 Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático y sexual de las personas.
 
 En estos casos, las Instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+En estos casos, las Instituciones de Salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y en los casos procedentes, dar intervención a las autoridades competentes.
 
 ###### ARTICULO 166.
 
@@ -2968,3 +2974,11 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los servicios establecidos en la presente disposición, se prestarán conforme a la infraestructura actual y quedarán sujetos en todo caso a la disponibilidad presupuestal correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
