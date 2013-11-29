@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2012-10-19"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -125,9 +125,9 @@ XVI. La prevención del consumo de narcóticos, la atención a las adicciones y 
 
 XVII. El desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, en coordinación con las autoridades federales y de conformidad con los acuerdos de coordinación específicos que al efecto se celebren;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XVIII. Ejercer la vigilancia y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con lo establecido por las disposiciones aplicables;
+XVIII. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, de conformidad con lo establecido por las disposiciones aplicables. En lo que corresponde a los establecimientos donde se expendan o suministren al público, bebidas alcohólicas, se aplicará además, la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -801,7 +801,15 @@ La atención de las enfermedades mentales comprende:
 
 I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales, deberá contar con protocolos que garanticen los derechos humanos de sus pacientes.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 68 Bis.
+
+Las instituciones que tengan a su cargo la reclusión de enfermos mentales deberán llevar un registro de las visitas que le hagan los familiares al enfermo, en caso de no recibir visita el enfermo en un periodo máximo de 30 días, la institución deberá dar aviso al Ministerio Público sobre el abandono del paciente.
 
 ###### Artículo 69.
 
@@ -1341,7 +1349,7 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 124.
 
@@ -1381,7 +1389,7 @@ Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1581,21 +1589,29 @@ VI. Promover y difundir acciones que ayuden a la sensibilización, prevención, 
 
 ###### Artículo 150.
 
-El Gobierno del Estado, a través de la Secretaría, se coordinará con las autoridades sanitarias federales para ejecutar dentro del ámbito de su competencia y de conformidad con los acuerdos que al efecto se celebren en el marco del Sistema Nacional de Salud, las acciones contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderán, entre otras, las siguientes:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales y con los Municipios, para la ejecución del Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas que comprenderá, entre otras las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de las personas adictas al alcohol etílico;
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el abuso de las bebidas alcohólicas, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 En ningún caso y de ninguna forma se podrá expender o suministrar bebidas alcohólicas a menores de edad. Las dependencias y entidades competentes del Estado y los municipios deberán vigilar, en el ámbito de sus respectivas competencias el cumplimiento de lo dispuesto en este párrafo y, en su caso, aplicar las sanciones correspondientes.
 
-(REUBICADO, P.O. 19 DE OCTUBRE DE 2012)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 151.
 
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado, en coordinación con los Municipios y otras entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
 
 I. Causas del alcoholismo y acciones para controlarlas;
 
@@ -1604,6 +1620,10 @@ II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas
 III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+El Ejecutivo del Estado y los Municipios, deberán incluir en su informe anual, las acciones específicas en materia de combate al alcoholismo y el abuso en el consumo de bebidas alcohólicas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -1823,27 +1843,43 @@ VI. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 156.
 
-La Secretaría de Salud del Estado ejercerá la vigilancia y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro y fuera del mismo establecimiento, de conformidad con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal.
+La Secretaría de Salud del Estado ejercerá la vigilancia y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, de conformidad con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal y las disposiciones de la Ley Estatal de Salud y la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 Las instituciones que tengan por objeto recibir la donación de alimentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición y alimentación de los sectores vulnerables del Estado, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
 
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+
 I. Tener establecimientos que reúnan las condiciones sanitarias adecuadas para el manejo de alimentos;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
 II. Contar con personal capacitado y equipo para la conservación, análisis bacteriológico, manejo y transporte higiénico de alimentos;
 
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
+
 III. Realizar la distribución de los alimentos oportunamente, a fin de evitar su contaminación, alteración o descomposición, y
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
 IV. Adoptar las medidas de control sanitario, que en su caso, les señale la autoridad competente.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+
 Se considerará responsable exclusivo del suministro de alimentos que por alguna circunstancia se encuentren en estado de descomposición y que por esta razón causen un daño a la salud, a la persona o institución que hubiere efectuado su distribución.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 157.
 
-Corresponde al Ejecutivo del Estado determinar la ubicación y el horario de funcionamiento de los establecimientos en que se expendan bebidas alcohólicas en la entidad.
+Para determinar el horario de funcionamiento de los establecimientos en que se expendan o consuman bebidas alcohólicas en la entidad, se aplicará lo establecido en la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 158.
 
-Para determinar la ubicación y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, el Ejecutivo del Estado tomará en cuenta la distancia establecida de centros de recreo, culturales y otros similares, a efecto de coadyuvar eficazmente con las acciones derivadas del Programa Nacional contra el Alcoholismo.
+Para determinar la ubicación de los establecimientos en que se vendan o consuman bebidas alcohólicas, se aplicará lo establecido en la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza.
 
 ###### Artículo 159.
 
@@ -3076,3 +3112,7 @@ El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo gener
 ###### ARTÍCULO QUINTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
