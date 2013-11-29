@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2012-11-30"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -83,9 +83,9 @@ Los Partidos Políticos Nacionales tendrán derecho a participar en las eleccion
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-Corresponde exclusivamente a los partidos políticos el derecho para solicitar el registro de candidatos a cargos de elección popular, y podrán hacerlo de manera unipartidista o mediante las figuras de coalición o candidato común, conforme lo establezca la ley de la materia.
+Corresponde a los partidos políticos el derecho para solicitar el registro de candidatos a cargos de elección popular, y podrán hacerlo de manera unipartidista o mediante las figuras de coalición o candidato común, conforme lo establezca la ley de la materia.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -287,7 +287,9 @@ a).- Votar en las elecciones para integrar los órganos de elección popular de 
 
 b).- Participar en los términos de esta Constitución y de la Ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito y Revocación de Mandato;
 
-c).- Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+c) Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
 
 d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
 
@@ -1309,9 +1311,9 @@ La Ley establecerá sistemas permanentes de evaluación del desempeño de los Ma
 
 Seis meses antes de que concluya el período de los Magistrados del Tribunal Superior de Justicia, el Congreso del Estado, por el voto de las dos terceras partes de sus integrantes, procederá a realizar los nuevos nombramientos entre los aspirantes que integren la lista que le presente el Presidente del Tribunal Superior de Justicia del Estado de Baja California, la cual deberá contener únicamente a los profesionistas que hayan resultado aprobados en el examen que practique el Consejo de la Judicatura conforme al reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-El Tribunal de Justicia Electoral se integrará por tres Magistrados Numerarios y hasta dos Supernumerarios nombrados por mayoría calificada del Congreso del Estado que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados del Tribunal de Justicia Electoral podrán ser ratificados, y si lo fueren, solo podrán ser privados de su cargo al cumplir nueve años en el mismo contados a partir del momento de su nombramiento o actualizarse alguno de los supuestos que se señalan en los incisos a), c) y d) de este artículo. Para el proceso de ratificación de los Magistrados del Tribunal de Justicia Electoral, la Comisión de Administración actuará de conformidad a lo que establecen los párrafos antepenúltimo y penúltimo de este artículo, pero además tendrá la obligación de rendir informes semestrales al Congreso del Estado para que este se encuentre en condiciones de realizar una evaluación objetiva durante este proceso de la actuación de los Magistrados del citado Tribunal.
+El Tribunal de Justicia Electoral se integrará por tres Magistrados Numerarios y hasta dos Supernumerarios nombrados por mayoría calificada del Congreso del Estado que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados del Tribunal de Justicia Electoral podrán ser ratificados, y si lo fueren, solo podrán ser privados de su cargo al cumplir quince años en el mismo, contados a partir del momento de su nombramiento o actualizarse alguno de los supuestos que se señalan en los incisos a), c) y d) de este artículo. Para el proceso de ratificación de los Magistrados del Tribunal de Justicia Electoral, la Comisión de Administración actuará de conformidad a lo que establecen los párrafos antepenúltimo y penúltimo de este artículo, pero además tendrá la obligación de rendir informes semestrales al Congreso del Estado para que este se encuentre en condiciones de realizar una evaluación objetiva durante este proceso de la actuación de los Magistrados del citado Tribunal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2173,8 +2175,6 @@ La resolución emitida por el Congreso estará investida de soberanía, por lo q
 
 IV.- Se establecerá la obligación de los servidores públicos de elección popular, así como de los que desempeñen empleo, cargo o comisión de primer nivel en los Poderes del Estado, Ayuntamientos y los órganos autónomos, de someterse anualmente a examen para la detección de drogas de abuso.
 
-> <small>N. DE E. EN ARCHIVO ANEXO SE MUESTRA EL TEXTO DEL ARTÍCULO 93, CON SU REFORMA PUBLICADA EN EL DECRETO No. 342 P.O. 30 DE NOVIEMBRE DE 2012.</small>
-
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE ARTÍCULO INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
@@ -3021,7 +3021,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
 
-P.O. 6 DE OCTUBRE DE 2000.
+P.O. 6 DE DICIEMBRE DE 2000.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3586,3 +3586,25 @@ SEGUNDO.- En su oportunidad, pronunciada la declaratoria en los términos establ
 TERCERO.- La Fiscalía Especializada para la Atención de Delitos Electorales a que se refieren los artículos 69 y 70 del presente Decreto, entrará en funcionamiento a partir del primero de Enero de 2013, por lo que deberá realizarse la asignación de recursos presupuestales para el ejercicio fiscal 2013. El Congreso del Estado, en un término que no exceda de 10 días a partir de la vigencia de las presentes reformas, emitirá convocatoria pública y procedimiento para la selección del Fiscal Especializado para la Atención de Delitos Electorales, mismo que deberá ser nombrado a más tardar el 20 de Diciembre de 2012.
 
 CUARTO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 573, POR EL QUE SE APRUEBA LA REFORMA AL QUINTO PÁRRAFO DEL ARTÍCULO 58 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, la presente reforma se declarará parte de esta Constitución.
+
+TERCERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado y serán aplicables a los servidores públicos que con anterioridad a las mismas se encuentran desempeñando funciones como Magistrados Numerarios del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California, por haber alcanzado el derecho de inamovilidad judicial con motivo de su ratificación durante 2010, debiendo permanecer en su cargo hasta el 15 de diciembre del 2018, plazo en que se cumplen los 15 años fijados como máximo para dicho cargo en el presente Decreto.
+
+CUARTO.- El Congreso del Estado, dentro de la primer semana de noviembre del año 2018, deberá emitir convocatoria pública para la designación de los nuevos Magistrados Numerarios del Tribunal de Justicia Electoral en los términos previstos en la Ley de la materia.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 8, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5 Y 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
