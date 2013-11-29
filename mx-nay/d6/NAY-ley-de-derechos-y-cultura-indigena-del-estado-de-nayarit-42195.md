@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-cultura-indigena-del-estado-de-nayarit-42195"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-18"
-last_updated: "2013-05-08"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Vigésima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 18 de diciembre de 2004.
 
@@ -103,9 +103,15 @@ Para asegurar el absoluto respeto de los derechos humanos de los indígenas, se 
 
 El Estado y los Municipios, en los términos de la presente Ley, deberán promover el desarrollo equitativo y sustentable de los pueblos y comunidades indígenas, impulsando el respeto a su cultura, usos, costumbres y tradiciones, a efecto de que sus integrantes no sean víctimas de explotación o abuso alguno.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 10.
 
-El Estado promoverá que las actuales instituciones indigenistas y de desarrollo social, con intervención de las autoridades de las comunidades indígenas, operen de manera conjunta y concertada, a través de la coordinación institucional que al respecto establezca el Gobierno del Estado.
+El Estado promoverá que las actuales instituciones indigenistas y de desarrollo social, con intervención de las autoridades de las comunidades indígenas, operen de manera conjunta y concertada.
+
+Para los efectos de (sic) coordinación institucional en la implementación de las políticas públicas de atención a los pueblos indígenas asentados en la entidad, la Secretaría General de Gobierno del Estado contará con una dependencia consultiva y operativa denominada Instituto para la Atención de los Pueblos y Comunidades Indígenas del Estado de Nayarit.
+
+El Instituto referido en el párrafo anterior, tendrá como objeto primordial orientar, coordinar, promover, apoyar, fomentar, gestionar, dar seguimiento y evaluar los programas, proyectos, estrategias y acciones públicas transversales para el desarrollo humano, social, integral y sustentable con respeto a la identidad de los pueblos y comunidades indígenas, su integración y funcionamiento será regulado a través de un reglamento que emitirá el Titular del Poder Ejecutivo para tal efecto.
 
 ### CAPÍTULO II. DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS
 
@@ -506,3 +512,9 @@ P.O. 8 DE MAYO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo.- Para iniciar con el registro estatal de centros ceremoniales y lugares sagrados referido en el último párrafo del artículo 51, se contará con un plazo de dos años a partir de la publicación del presente decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
