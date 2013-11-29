@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2012-01-20"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -75,19 +75,19 @@ Naturaleza Constitucional del Ayuntamiento.- El Municipio de Tijuana ser (sic) g
 
 Corresponde al Ayuntamiento el ejercicio de las atribuciones que le conceden la Constitución Polític (sic) de los Estados Unidos Mexicanos, la particular del Estado Libre y Soberano de Baja California, en lo (sic) términos de la Ley del Régimen Municipal para el estado de Baja California y las leyes federales locales (sic) aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 6.
 
-Composición del Ayuntamiento.- El Ayuntamiento se integrará por un President (sic) Municipal, un Síndico, regidores electos por el principío de mayoría relativa y regidores electos por e (sic) principio de representación proporcional, en los términos de lo dispuesto por la Constitución Polític (sic) del Estado.
+Composición del Ayuntamiento.- El Ayuntamiento se integrara por un Presidente Municipal, un Síndico Procurador, Sindico Social y Regidores electos por el principio de mayoría relativa y regidores electos por el principio de representación proporcional, en los términos de lo dispuesto por la Constitución Política del Estado.
 
 El Ayuntamiento funcionará en forma colegiada, integrado en sesión de Cabildo, con igual derecho d (sic) participación de todos sus integrantes.
 
 Todos los integrantes del Cabildo tienen derecho a voz y voto y gozan de las mismas prerrogativas.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-En la sesión de instalación del Ayuntamiento, entendiéndose que el Ayuntamiento se instala cuando toman protesta sus integrantes, el Cabildo designará de una terna propuesta por el Ejecutivo Municipal al ciudadano que deba ejercer el cargo de Secretario de Gobierno Municipal, mediante votación económica por mayoría simple, quien fungirá en calidad de Secretario Fedatario del Ayuntamiento mismo que tendrá derecho a voz en los términos de este Ordenamiento.
+En sesión solemne de instalación la cual se celebrará el día treinta del mes de noviembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, deberán comparecer al recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico Procurador, Síndico Social en los casos que así corresponda y Regidores, con el fin de protestar el fiel ejercicio de sus cargos, en sesión solemne, ante el Diputado representante que al efecto designe el Congreso del Estado. Esta protesta surtirá sus efectos a partir del día uno de diciembre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
 
 ###### ARTICULO 7.
 
@@ -1556,3 +1556,7 @@ P.O. 20 DE ENERO DE 2012.
 PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASI COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
 
 SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+UNICO: Publíquense la presente reforma en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal, para conocimiento de los ciudadanos.
