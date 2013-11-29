@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-los-animales-para-el-estado-de-coahuila-126
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-15"
-last_updated: "2005-04-29"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN LA PRIMERA SECCIÓN DEL P.O. DE 29 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 15 de abril de 1997.
 
@@ -73,7 +75,7 @@ B) Vivisección: Disección anatómica de un ser vivo con fines científicos.
 
 ### CAPITULO II. DE LA PROTECCION A LOS ANIMALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 6.
 
@@ -85,7 +87,7 @@ Esto no tiene aplicación en el caso de animales domésticos destinados a labore
 
 Las indemnizaciones que indica el artículo anterior serán demandadas según los procedimientos señalados en las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 8.
 
@@ -361,7 +363,7 @@ EL SECRETARIO DE FOMENTO AGROPECUARIO
 
 ING. LORENZO MARIO GONZALEZ VILLAREAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE ABRIL DE 2005.
 
@@ -370,3 +372,33 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Comisión Estatal de Protección a los Animales elaborará en un plazo de 60 días el Reglamento al artículo 8 de esta Ley, para determinar qué animales domésticos y no domésticos pueden ser considerados como peligrosos, en el supuesto de que no se encuentre constituida la Comisión Estatal de Protección a los Animales, la Dirección General de Ecología, en el ámbito de su competencia, realizará las acciones necesarias para la constitución del mismo, por lo que el plazo para la expedición del Reglamento empezará a correr una vez que quede constituida la Comisión.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección a los Animales para el Estado de Coahuila de Zaragoza y Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los Centros de Control Canino, Antirrábicos y demás instituciones que tengan un fin similar serán renombrados como Centros de Control Animal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos deberán crear en el plazo de seis meses, a partir de la entrada en vigor de la presente Ley, la conformación de las Áreas Técnicas y Control de Especies Animales y para la creación de los Padrones Municipales de Animales.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado emitirá dentro del término de seis meses, a partir de la entrada en vigor de la presente Ley, el Reglamento respectivo.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos podrán suscribir Convenios entre sí y con el Titular del Poder Ejecutivo Estatal para el mejor cumplimiento de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Comisión Estatal de Protección a los Animales en un plazo de sesenta días a partir de la publicación del presente decreto deberá expedir su reglamento interior.
