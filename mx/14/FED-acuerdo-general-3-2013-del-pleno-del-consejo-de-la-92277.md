@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-11-15"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -125,7 +125,9 @@ II. SEGUNDO CIRCUITO:
 
 1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados en Nezahualcóyotl.
 
-2. Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 36/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+
+2. Seis tribunales unitarios: cinco con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
 3. Veinticinco juzgados de Distrito en el Estado de México: seis especializados en Procesos Penales Federales y cinco especializados en materia de amparo y juicios federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
@@ -137,9 +139,9 @@ III. TERCER CIRCUITO:
 
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 31/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 44/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
 
-3. Veintiséis juzgados de Distrito especializados: seis de amparo en materia penal, siete en materias administrativa y de trabajo, y seis en materia civil, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande”.
+3. Veintiocho juzgados de Distrito especializados: seis de amparo en materia penal, siete en materias administrativa y de trabajo, y seis en materia civil, todos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande".
 
 > <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 12/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE ABRIL DE 2013)</small>
 
@@ -163,7 +165,9 @@ V. QUINTO CIRCUITO:
 
 VI. SEXTO CIRCUITO:
 
-1. Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en San Andrés Cholula.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 43/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+
+1. Diez tribunales colegiados especializados: tres en materia penal, tres en materia administrativa y tres en materia civil, todos con residencia en San Andrés Cholula; uno en materia de trabajo, con sede en Puebla, Puebla".
 
 2. Dos tribunales unitarios con sede en San Andrés Cholula.
 
@@ -183,7 +187,9 @@ VII. SEPTIMO CIRCUITO:
 
 VIII. OCTAVO CIRCUITO:
 
-1. Cinco tribunales colegiados especializados: uno en materias civil y de trabajo y dos en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
+> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 45/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+
+1. Seis tribunales colegiados especializados: dos en materias civil y de trabajo y dos en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
 
 2. Tres tribunales unitarios, dos con sede en Torreón y uno con sede en Saltillo.
 
@@ -247,7 +253,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 2. Ocho tribunales unitarios: tres con sede en Mexicali y cinco con residencia en Tijuana.
 
-3. Dieciséis juzgados de Distrito en el Estado de Baja California: seis con sede en Mexicali, ocho con residencia en Tijuana y dos con sede en Ensenada.
+> <small>(REFORMADO POR EL PUNTO DECIMOSÉPTIMO DEL ACUERDO GENERAL 38/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+
+3. Diecisiete juzgados de Distrito en el Estado de Baja California, seis con sede en Mexicali, nueve con residencia en Tijuana, seis especializados en Procesos Penales Federales y tres en Materia de Amparo y Juicios Federales y dos con sede en Ensenada.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
@@ -709,7 +717,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 1. El Centro Auxiliar de la Primera Región se integrará por siete tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
 
-2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y siete juzgados de Distrito Auxiliares, seis con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 42/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+
+2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y siete juzgados de Distrito Auxiliares, seis con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
 
 > <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 39/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2013)</small>
 
@@ -900,3 +910,73 @@ La Dirección General de Estadística Judicial atenderá lo relativo al archivo 
 QUINTO. La nueva conformación del Pleno del Vigésimo Séptimo Circuito derivada de la incorporación a este del Tercer Tribunal Colegiado materia del presente Acuerdo, tendrá lugar hasta el uno de enero de dos mil catorce. Lo anterior, para ajustarse a lo dispuesto por el artículo 5, y demás dispositivos aplicables, del Acuerdo General 14/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
 
 SEXTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar, de inmediato, el texto de la reforma al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación del Número y Límites Territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; y del Acuerdo General 32/2010, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 36/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO II, NUMERAL 2.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma al Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 38/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XV, NUMERAL 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. En virtud de los ajustes de nomenclatura y residencia previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad cuenten con ellos.
+
+CUARTO. Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, remitiendo por separado el reporte estadístico mensual correspondiente.
+
+QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación y que se trasforman, deberán colocar en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, letreros tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, precisamente, para conocimiento general.
+
+SEXTO. La Secretaría Técnica de la Comisión para la Trasparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar con la debida oportunidad, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 42/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, INCISO VI, PUNTO 1 Y EL PUNTO QUINTO APARTADO 2.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se ordena la homologación de la plantilla de personal del Tribunal que se transforma, a fin de que sea equivalente a la de su par que actualmente funciona, por lo que deben crearse dos plazas de secretario de tribunal, dos de actuario, quince de oficial administrativo, una de oficial de partes y una de oficial de servicios y mantenimiento, para hacer un total de veintiún plazas nuevas.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de las reformas, a los Acuerdos Generales: 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, publicado en el Diario Oficial de la Federación el quince de febrero de dos mil trece y 10/2008 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán.
+
+CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 43/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, INCISO VI, PUNTO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 44/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO III, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+CUARTO. La jueza o juez que tenga a su cargo la Coordinación de los Juzgados de Procesos Penales Federales en el Estado de Jalisco enviará a la Secretaría Ejecutiva del Pleno el rol de guardias de dichos juzgados para su inmediata publicación en las páginas de Intranet e Internet del Consejo de la Judicatura Federal, de conformidad con lo dispuesto en el punto SEXTO del presente Acuerdo General.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+ACUERDO GENERAL 45/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO VIII, NÚMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
