@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-94007"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2012-12-22"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO, EJERCICIO FISCAL 2013 DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de diciembre de 2012.
 
@@ -325,6 +325,8 @@ Lic. Cándido Ochoa Rojas
 
 > <small>N. DE E. VÉASE ANEXO I DE LA LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, 2013, EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 22 DE DICIEMBRE DE 2012, PÁGINAS DE LA 12 A LA 16.</small>
 
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO I, P.O. 29 DE NOVIEMBRE DE 2013, PÁGINAS DE LA 2 A LA 3.</small>
+
 > <small>N. DE E. VÉASE ANEXO II DE LA LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, 2013, EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 22 DE DICIEMBRE DE 2012, PÁGINA 17.</small>
 
 > <small>N. DE E. VÉASE ANEXO IV DE LA LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, 2013, EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 22 DE DICIEMBRE DE 2012, PÁGINAS DE LA 18 A LA 19.</small>
@@ -334,3 +336,11 @@ Lic. Cándido Ochoa Rojas
 > <small>N. DE E. VÉASE ANEXO VI DE LA LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2013. CLASIFICADOR POR OBJETO DEL GASTO 2013, EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 22 DE DICIEMBRE DE 2012, PÁGINAS DE LA 21 A LA 83.</small>
 
 > <small>N. DE E. VÉASE ANEXO VII MARCO DEL PROCESO DE IMPLEMENTACIÓN DE UNA PLANEACIÓN ORIENTADA A RESULTADOS, EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 22 DE DICIEMBRE DE 2012, PÁGINAS DE LA 83 A LA 87.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
