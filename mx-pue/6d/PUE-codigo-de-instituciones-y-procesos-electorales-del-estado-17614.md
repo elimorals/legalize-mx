@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2013-11-13"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -434,6 +434,10 @@ La totalidad del territorio del Estado constituye una circunscripción plurinomi
 ###### ARTÍCULO 23.
 
 El territorio del Estado constituye una circunscripción uninominal, para la elección de Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+En este caso y para efectos de esta elección se considerarán como votos emitidos dentro de la circunscripción uninominal, los sufragios de los poblanos residentes en el extranjero.
 
 ###### ARTÍCULO 24.
 
@@ -1553,17 +1557,23 @@ LIII.- Dictar los acuerdos necesarios a fin de cumplir las anteriores atribucion
 
 LIV.- Establecer lineamientos y formatos para la presentación de informes de gastos de precampañas y campañas electorales; así como para el debido funcionamiento de la Unidad de Fiscalización;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-LV.- Negar o cancelar el registro, en su caso, al Precandidato o Candidato a quien se le haya sentenciado por autoridad competente, dentro de los plazos del proceso electoral respectivo, por su participación en la comisión del delito de delincuencia organizada, en caso de que la responsabilidad sea imputable exclusivamente a aquéllos; y (sic)
+LV.- Negar o cancelar el registro, en su caso, al Precandidato o Candidato a quien se le haya sentenciado por autoridad competente, dentro de los plazos del proceso electoral respectivo, por su participación en la comisión del delito de delincuencia organizada, en caso de que la responsabilidad sea imputable exclusivamente a aquéllos;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-LVI.- Autorizar al Presidente y al Secretario Ejecutivo, de ser el caso, a celebrar convenio con el Instituto Federal Electoral con el objeto de utilizar la misma ubicación de casillas, integración de mesas directivas de casilla y representantes de los partidos políticos que funcionen en el Proceso Electoral Federal, de conformidad con las disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales; y
+LVI.- Autorizar al Presidente y al Secretario Ejecutivo, de ser el caso, a celebrar convenio con la autoridad federal electoral, con el objeto de utilizar la misma ubicación de casillas, integración de mesas directivas de casilla y representantes de los partidos políticos que funcionen en el Proceso Electoral Federal, de conformidad con las disposiciones relativas del Código Federal de Instituciones y Procedimientos Electorales;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-LVII.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
+LVII.- Organizar los procedimientos y mecanismos para promover y recabar el voto de los poblanos residentes en el extranjero únicamente para la elección de Gobernador del Estado; para lo cual podrá aprobar los acuerdos y suscribir los convenios correspondientes, así como elaborar el listado de poblanos residentes en el extranjero; y
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN LVII, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 29 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER LVIII.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+LVIII.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
 
 ###### ARTÍCULO 90.
 
@@ -5073,7 +5083,13 @@ IV.- Asignar los Regidores de representación proporcional.
 
 Para realizar el cómputo final de la elección de Diputados por el principio de representación proporcional y de Gobernador del Estado, el Consejo General se sujetará a las reglas siguientes:
 
-I.- Se tomará nota de los resultados que consten en las actas de cómputo distritales, relativas a cada una de las elecciones;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+I.- Se tomará nota de los resultados que conste en las actas de cómputo distrital, relativas a cada una de las elecciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+En su caso, también se tomará nota de la votación obtenida en la elección de Gobernador del Estado de los poblanos residentes en el extranjero;
 
 II.- La suma de esos resultados constituirá el cómputo final de la elección; y
 
@@ -5199,11 +5215,59 @@ I.- Constancia de asignación de Diputados por el principio de representación p
 
 II.- Constancia de asignación de Regidores por el principio de representación proporcional, a los partidos políticos que tuvieron derecho a ello.
 
-## TÍTULO PRIMERO. DEL TRIBUNAL ELECTORAL DEL ESTADO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+## TÍTULO SÉPTIMO. DEL VOTO DE LOS POBLANOS RESIDENTES EN EL EXTRANJERO
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 BIS.- Los poblanos que residan en el extranjero podrán ejercer su derecho al voto exclusivamente para la elección de Gobernador del Estado.
+
+El Consejo General determinará los medios y mecanismos que garanticen la confidencialidad del voto.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 TER.- Para el ejercicio del voto los poblanos que residan en el extranjero, además de los requisitos que establece la Constitución Local y la legislación aplicable, deberán cumplir con los siguientes:
+
+I.- Solicitar al Instituto, por escrito, con firma autógrafa, o en su caso, huella digital, en el formato aprobado y de acuerdo a los plazos dispuestos por el Consejo General, su inscripción en el listado de poblanos residentes en el extranjero;
+
+II.- Manifestar, bajo su responsabilidad y bajo protesta de decir verdad, el domicilio en el extranjero al que se le hará llegar la boleta electoral, o en su caso, a través del medio electrónico que corresponda; y
+
+III.- Anexar a su solicitud copia por anverso y reverso legible de su credencial de elector con fotografía domiciliada en el Estado de Puebla.
+
+El Consejo General tendrá bajo su responsabilidad el voto de los poblanos en el extranjero, por conducto de la Comisión Especial que para tal objeto se cree; por lo que con la anticipación debida pondrá a disposición de los interesados el formato de solicitud de inscripción en la lista de residentes en el extranjero, a través de los medios que acuerde.
+
+El poblano interesado podrá consultar al Instituto, por vía telefónica o electrónica su inscripción.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 QUATER.- Los poblanos inscritos en el listado de residentes en el extranjero, serán excluidos de la Lista Nominal de Electores correspondiente a su sección electoral hasta la conclusión del proceso.
+
+Una vez concluido el proceso electoral, el Instituto solicitará a la autoridad federal electoral la reinscripción de los poblanos inscritos en el listado de residentes en el extranjero en la Lista Nominal de Electores de la sección electoral a que corresponde su credencial para votar con fotografía.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 QUINQUIES.- El Consejo General deberá acordar los procedimientos, mecanismos y modalidades correspondientes para que los poblanos residentes en el extranjero emitan su voto. En todos los casos se deberán considerar las acciones previas y posteriores que permitan el desarrollo del proceso electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 SEXIES.- Los partidos políticos y sus candidatos a Gobernador no podrán realizar campaña electoral en el extranjero; en consecuencia; quedan prohibidas en cualquier tiempo, las actividades, actos y propaganda electoral en el extranjero. Asimismo, la contratación de medios de comunicación para la promoción del proceso electoral, o de algún partido o candidato.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 SEPTIES.- Durante el proceso electoral, en ningún caso y por ninguna circunstancia los partidos políticos utilizarán recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de campaña en el extranjero.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 OCTIES.- El Consejo General establecerá las medidas para salvaguardar la confidencialidad y protección de los datos personales contenidos en el listado de residentes en el extranjero. La violación a esta disposición por parte de los servidores públicos del Instituto o partidos políticos realizada por cualquier forma o medio, generará las responsabilidades a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 324 NONIES.- En todo lo que no contravenga las disposiciones del presente Título, se aplicará la normatividad conducente en la materia.
 
 # LIBRO SEXTO. DE LO CONTENCIOSO ELECTORAL
 
-## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL TRIBUNAL
+## TÍTULO PRIMERO. DEL TRIBUNAL ELECTORAL DEL ESTADO
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
 
@@ -5307,7 +5371,7 @@ Se considerarán ausencias temporales, aquellas que por su duración no cumplan 
 
 En caso de ausencias definitivas de algún Magistrado, el Tribunal procederá a notificar al Congreso del Estado para que designe a quien lo sustituya de conformidad con lo que establece la fracción IV del artículo 329 de este Código.
 
-## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS FUNCIONARIOS DEL TRIBUNAL
+## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL TRIBUNAL
 
 ###### ARTÍCULO 338.
 
@@ -5339,7 +5403,7 @@ IX.- Implementar el Servicio Profesional de Carrera para su personal, bajo los p
 
 X.- Conocer, resolver y sancionar en caso de denuncias por faltas administrativas previstas por este Código.
 
-## TÍTULO CUARTO. DE LOS RECURSOS, NULIDADES Y SANCIONES ADMINISTRATIVAS
+## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS FUNCIONARIOS DEL TRIBUNAL
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL SECRETARIO INSTRUCTOR
 
@@ -5456,6 +5520,8 @@ Las diligencias que se desahoguen fuera de las instalaciones del Tribunal estar�
 ###### ARTÍCULO 346.
 
 El Secretario General de Acuerdos, los Secretarios Instructores y demás personal técnico y administrativo deberán conducirse con eficacia, eficiencia, diligencia e imparcialidad en todos los casos y deberán guardar absoluta reserva sobre los asuntos del Tribunal.
+
+## TÍTULO CUARTO. DE LOS RECURSOS, NULIDADES Y SANCIONES ADMINISTRATIVAS
 
 ### CAPÍTULO IV. DE LAS PRUEBAS
 
@@ -6192,3 +6258,13 @@ P.O. 13 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y aplicará a partir del proceso electoral en el que se celebren elecciones para la renovación del Congreso del Estado del año dos mil dieciocho.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones relacionadas con el voto de los poblanos residentes en el extranjero, serán aplicables a partir del proceso electoral a celebrarse en el año 2018.
+
+TERCERO.- El Instituto deberá incluir en el proyecto de presupuesto de egresos correspondiente, la partida presupuestal necesaria para instrumentar el voto de los poblanos residentes en el extranjero.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
