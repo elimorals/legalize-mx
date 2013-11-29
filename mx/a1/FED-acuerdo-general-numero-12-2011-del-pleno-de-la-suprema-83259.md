@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2011-del-pleno-de-la-suprema-83259"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-10-18"
-last_updated: "2012-05-29"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83259&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-10-11"
 
 ACUERDO GENERAL NÚMERO 12/2011, DE DIEZ DE OCTUBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DETERMINAN LAS BASES DE LA DÉCIMA ÉPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VÍA ELECTRÓNICA, A TRAVÉS DE LA PÁGINA DE INTERNET DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL D.O.F. DE 29 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2013 (DEROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de octubre de 2011.
 
@@ -224,3 +226,19 @@ SEGUNDO. A partir de la entrada en vigor del presente Instrumento Normativo, las
 TERCERO. En tanto entra en vigor la regulación que expida el legislador ordinario sobre la figura de la sustitución de jurisprudencia, las subsecciones del Semanario Judicial de la Federación que refieren a ésta, se denominarán "Por modificación.".
 
 CUARTO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2011 en dichos medios electrónicos.
+
+D.O.F. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Acuerdo General Plenario 12/2011, de diez de octubre de dos mil once, así como todas las disposiciones emitidas con anterioridad que se opongan a lo establecido en este Acuerdo General.
+
+TERCERO. El Sistema de Jurisprudencia y Tesis Aisladas IUS dejará de operar, una vez que se realicen las adecuaciones necesarias para que sea reemplazado por la versión electrónica del Semanario Judicial de la Federación.
+
+CUARTO. Las tesis jurisprudenciales y aisladas derivadas de las sentencias dictadas por el Pleno y por las Salas de la Suprema Corte de Justicia de la Nación así como por los Tribunales Colegiados de Circuito antes de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 94, 103, 104 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el seis de junio de dos mil once, corresponderán a la Novena Época del Semanario Judicial de la Federación, y se distinguirán agregando a su número de identificación: "(9a.)". Las tesis derivadas de las sentencias dictadas con posterioridad a la entrada en vigor del referido Decreto corresponden a la Décima Época, y a su número de identificación se le agregará: "(10a.)".
+
+QUINTO. En tanto se culmina con la modificación de los sistemas informáticos relativos al Semanario Judicial de la Federación, los Plenos de Circuito y los Tribunales Colegiados de Circuito podrán comunicarse con la Coordinación de Compilación y Sistematización de Tesis para los efectos previstos en los Puntos Sexto y Décimo Primero de este Acuerdo General, a través del mecanismo electrónico que se indique en la Circular que al efecto emita la Secretaría General de Acuerdos.
+
+SEXTO. La primera publicación semanal de tesis y ejecutorias en el Semanario Judicial de la Federación en su versión electrónica será el viernes seis de diciembre de dos mil trece.
+
+SÉPTIMO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
