@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-alternativa-en-materia-penal-para-el-estado-942
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-15"
-last_updated: "2013-05-15"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY DE JUSTICIA ALTERNATIVA EN MATERIA PENAL PARA EL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR ATENDIENDO A LAS REGLAS DE INICIO DE VIGENCIA PREVISTAS EN EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTADO DE SINALOA” No. 011, SEGUNDA SECCIÓN DEL 25 DE ENERO DE 2013.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR DE MANERA GRADUAL Y SUCESIVA EN LAS REGIONES QUE COMPRENDEN LOS DISTRITOS JUDICIALES DEL ESTADO DE SINALOA.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 15 de mayo de 2013.
 
@@ -629,7 +629,17 @@ En los casos previstos en el artículo anterior, el Ministerio Público y el per
 
 ## ARTÍCULOS TRANSITORIOS
 
-PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial "El Estado de Sinaloa" y entrará en vigor atendiendo las reglas de inicio de vigencia previstas en el artículo primero transitorio del Código de Procedimientos Penales para el Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 011, segunda sección del 25 de enero de 2013.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+PRIMERO. La Ley de Justicia Alternativa en Materia Penal para el Estado de Sinaloa, contenido en el presente Decreto entrará en vigor de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
+
+II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
 
 SEGUNDO. El Poder Ejecutivo del Estado deberá considerar en su presupuesto del ejercicio fiscal correspondiente los recursos necesarios para el funcionamiento del Centro de Mecanismos Alternativos de Solución de Controversias en Materia Penal y sus unidades, para que entren en funcionamiento conforme a los tiempos previstos en el Artículo Transitorio Primero de este Decreto.
 
@@ -668,3 +678,55 @@ C. Gerardo O. Vargas Landeros
 Procurador General de Justicia del Estado de Sinaloa
 
 C. Marco Antonio Higuera Gómez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO. La Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa contenida en el artículo primero del presente Decreto entrará en vigor de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
+
+II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+
+SEGUNDO. A la entrada en vigor del Presente Decreto, corresponderá a la Subprocuraduría General de Justicia, con la estructura creada en la presente Ley, atender los asuntos relacionados con las carpetas de investigación y el nuevo sistema de justicia penal, en los términos del dispositivo anterior.
+
+En las regiones en donde no opere aún el Nuevo Sistema de Justicia Penal, para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, la Procuraduría General de Justicia se apoyará con la estructura que señala la Ley Orgánica del Ministerio Público del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" Número 587, del día 16 de Noviembre de 1998.
+
+TERCERO. Las Unidades requeridas para la implementación del Sistema Acusatorio, deberán crearse en los términos del Código de Procedimientos Penales para el Estado de Sinaloa.
+
+Las atribuciones y asuntos encomendados a las dependencias y unidades administrativas por las disposiciones de la Ley que por regiones se abroga, por la presente Ley podrán ser competencia y quedar radicados para su prosecución en las dependencias y unidades de nueva creación y denominación distinta que aparecen en la Ley Orgánica de La Procuraduría General de Justicia del Estado de Sinaloa y cuyas competencias y atribuciones sean de naturaleza similar y se corresponda a la de aquéllas, por ende, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes; sin defecto de que se cumplan y observen las especificidades que en este particular precise la presente Ley.
+
+CUARTO. Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado, que pasen a formar parte de las nuevas instancias, unidades o áreas creadas, no resultarán afectados en sus derechos.
+
+QUINTO. Las actuales Direcciones de Averiguaciones Previas y Control de Procesos, continuarán con sus funciones dentro de las regiones en las que aún no se aplique el Nuevo Sistema de Justicia Penal, debiendo de desaparecer paulatinamente, en función a como se vaya instrumentando el Sistema Acusatorio Adversarial por regiones geográficas en la Entidad y se resuelvan las averiguaciones previas y procesos penales, pendientes que hayan iniciado antes de la fecha en los ámbitos territoriales y temporales de validez que se determinan en el artículo PRIMERO transitorio del Decreto, Número 738, del H. Congreso del Estado, por el cual se publica el Código de Procedimientos Penales para el Estado de Sinaloa, sin que pueda exceder del día primero de Junio, del año dos mil dieciséis, fecha en que deberán desaparecer, quedando mientras tanto bajo la jerarquía del Subprocurador General.
+
+Una vez que desaparezcan las mencionadas Direcciones, corresponderá precisamente a la Subprocuraduría General asumir las facultades y atribuciones que actualmente corresponden a la Dirección de Averiguaciones Previas y a la Dirección de Control de Procesos, sobre las averiguaciones previas y procesos penales que queden pendientes de resolverse al día primero de Junio, del año dos mil dieciséis, hasta su conclusión y causen estado las resoluciones que pongan fin a estos.
+
+En la nueva Dirección General de Carpetas de Investigación se deben crear las Unidades de Carpetas de Investigación y de Justicia para Adolescentes para efectos de llevar a cabo las funciones propias del Sistema Acusatorio con las reglas previstas en el Nuevo Código de
+
+Procedimientos Penales. Estas Unidades de nueva creación entrarán en funcionamiento por regiones, de manera paulatina conforme se vaya implementando el Nuevo Sistema de Justicia Penal y el personal debe ser seleccionado de entre el más capacitado con el que cuente actualmente la Procuraduría en el Régimen de Audiencias, siempre que se cumplan con los requisitos legales y técnicos que se necesitan para instrumentar dicho reto.
+
+Se crea la Unidad de Litigación en sustitución de la Dirección de Control de Procesos, la cual quedará bajo mando y conducción de la Subprocuraduría General respecto a los asuntos del Nuevo Sistema de Justicia Penal.
+
+Dentro de la estructura de la Dirección General de Litigación se crean también las Unidades de Litigación Oral, de Medidas Cautelares y de Ejecución de Sanciones y Medidas de Seguridad. Estas Unidades y la Dirección General conocerán únicamente de los asuntos del Sistema Acusatorio y se irán creando las plazas o espacios de operatividad conforme vaya entrando el Nuevo Sistema en la Entidad Federativa.
+
+Se actualiza la Dirección General Jurídico Consultiva, y se le dota de tres Unidades que son la de Medios de Impugnación, la de Normatividad y la Unidad de Acceso a la Información Pública, a efecto de que puedan auxiliar a las funciones de la Procuraduría en los medios de defensa, en la contestación de informes previos o justificados y en la elaboración de los Acuerdos y Manuales de Funcionamiento de los Operadores del Nuevo Sistema de Justicia Penal, así como en el Acceso a la Información Pública por parte de la Procuraduría General de Justicia. Esta Dirección junto con las Unidades quedará bajo el mando del Subprocurador General de manera paulatina conforme vaya teniendo vigencia el Sistema Acusatorio.
+
+SEXTO. La Ley Orgánica del Ministerio Público del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" Número 587, del día 16 de Noviembre de 1998, seguirá rigiendo, en lo conducente, para los hechos ocurridos con anterioridad a la vigencia de la presente Ley y quedará abrogada cuando los procedimientos iniciados para el conocimiento de dichos hechos queden agotados.
+
+Los acuerdos, circulares, y demás disposiciones administrativas dictadas por el Procurador General de Justicia del Estado, con fundamento en la Ley Orgánica que se abroga mediante el presente Decreto, continuarán en vigor en lo que no se oponga a la Ley que entra en vigor, hasta que aquél dicte las normas administrativas que correspondan.
+
+SÉPTIMO. Los recursos humanos, materiales, financieros y documentales de la Unidad de Contraloría Interna, prevista en la Ley Orgánica del Ministerio Público, que se deroga de conformidad con lo señalado en este Decreto, se transferirán a la Visitaduría, por lo que todos los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente Ley, se seguirá aplicando la publicada en el Periódico Oficial "El Estado de Sinaloa", Número 587, del 16 de noviembre de 1998.
+
+OCTAVO. Dentro del plazo de un año el Ejecutivo del Estado y las autoridades correspondientes deberán expedir los reglamentos que se prevén en la presente ley.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO. Los ARTÍCULOS SEGUNDO, TERCERO y CUARTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+DÉCIMO PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
