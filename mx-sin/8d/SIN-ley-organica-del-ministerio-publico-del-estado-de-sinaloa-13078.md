@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2013-07-17"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 29 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO DE FORMA GRADUAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -91,7 +93,7 @@ II. Promover la eficaz, expedita y debida procuración de justicia;
 
 III. Velar por el respeto a los derechos humanos en la esfera de su competencia;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -109,7 +111,7 @@ d) Remitir oficio que contenga los datos del farmacodependiente a la Secretaría
 
 V. Promover la práctica de las diligencias para la consecución de la justicia penal, en los juicios o asuntos en que legalmente deba intervenir;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -157,7 +159,7 @@ IV. Establecer coordinación con los organismos de derechos humanos referidos, p
 
 V. Recibir y dar la atención debida a las quejas que directamente formule la población en materia de derechos humanos.
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -171,7 +173,7 @@ I. Recibir denuncias y querellas sobre acciones y omisiones que puedan constitui
 
 II. Propiciar adecuadamente la conciliación entre las víctimas u ofendidos por delitos y quienes aparezcan como probables responsables, en los ilícitos que se persigan por querella;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -221,7 +223,7 @@ VIII. Impugnar legalmente las resoluciones judiciales que a su juicio causen agr
 
 IX. En general, promover lo conducente al desarrollo de los procesos y ejercer las demás atribuciones que le confieran las leyes.
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -229,7 +231,7 @@ IX. En general, promover lo conducente al desarrollo de los procesos y ejercer l
 
 Investigar y perseguir las conductas tipificadas como delitos por las leyes penales estatales y los autorizados por las leyes de conformidad con el artículo 73 fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos, atribuidas a adolescentes, proveyendo al respeto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial, comprende:
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -363,7 +365,7 @@ A ese fin, las Agencias del Ministerio Público estarán constituidas permanente
 
 Para el cumplimiento de sus atribuciones el Ministerio Público gozará de las más amplias facultades, pudiendo requerir informes, documentos y en general elementos de prueba a las dependencias y entidades de la administración pública estatal, así como de otras autoridades, organismos y de particulares, que puedan proporcionar elementos para el ejercicio de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -441,7 +443,7 @@ Para el despacho de los asuntos de su competencia, los órganos y dependencias e
 
 Además, habrá las Delegaciones, Oficinas y Secciones que se creen por acuerdo del Procurador General de Justicia, en cuyo caso se tendrán en cuenta las necesidades del servicio y su capacidad presupuestal.
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -887,7 +889,7 @@ X. Las demás que le sean encomendadas por el Procurador General de Justicia.
 
 (DEROGADO, P.O. 30 DE MARZO DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2000)</small>
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE LA POLICÍA MINISTERIAL
 
@@ -903,7 +905,7 @@ La Policía Ministerial es el cuerpo policial encargado de la investigación de 
 
 La Dirección de Policía Ministerial del Estado estará a cargo de un Director, mismo que será designado y removido libremente por el Procurador General de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 48.
 
@@ -923,7 +925,7 @@ VI. No haber sido condenado por delito doloso; y
 
 VII. No tener antecedentes negativos en los Registros Estatal y Nacional de Personal de Seguridad Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 49.
 
@@ -1031,7 +1033,7 @@ XII. Recepcionar y entregar las Unidades Administrativas de la institución, con
 
 XIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO XI BIS. DE LA UNIDAD DE CONTROL DE CONFIANZA
 
@@ -1105,7 +1107,7 @@ XV. Requerir a las Unidades Administrativas, los informes, datos, expedientes y 
 
 XVI. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LOS INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO XII BIS. DE LA UNIDAD DE ASUNTOS INTERNOS
 
@@ -1191,7 +1193,7 @@ I. De los Agentes del Ministerio Público Investigadores:
 
 a). Residir en el lugar de su adscripción;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -1345,7 +1347,7 @@ Los funcionarios del Ministerio Público no son recusables, pero deberán excusa
 
 El Gobernador del Estado calificará las excusas del Procurador General de Justicia. Este calificará las excusas del Subprocurador General, de los Subprocuradores Regionales, de los Directores, del Jefe de la Unidad de Informática, del Contralor Interno, de los Agentes del Ministerio Público; y éstos la de sus auxiliares.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 1999)</small>
 
 ## TITULO SEXTO. DE LA PROFESIONALIZACION Y EL SERVICIO CIVIL DE CARRERA DEL MINISTERIO PUBLICO
 
@@ -1387,7 +1389,7 @@ Artículo 69 Bis A. Los Agentes del Ministerio Público, Agentes de Policía Min
 
 Los ascensos a las categorías superiores de las ramas de Ministerio Público, Policía Ministerial y Perito, se podrá realizar mediante concurso de oposición según disponga el Consejo Ministerial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 Artículo 69 Bis B. El Consejo Ministerial es la instancia con atribuciones para orientar, proveer, coordinar, disponer y normar el desarrollo y evaluación de la profesionalización de Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, en los términos que establece esta Ley, y se integrará por: el Subprocurador General de Justicia, los Subprocuradores Regionales de Justicia de las Zonas Norte, Centro y Sur del Estado, el Coordinador Administrativo, el Director de Averiguaciones Previas, el Director de Control de Procesos, el Director de Investigación Criminalística y Servicios Periciales, el Director de Policía Ministerial, el Director de Planeación, Desarrollo y Atención Ciudadana, el Jefe de la Unidad de Asuntos Internos y el Jefe de la Unidad de Contraloría Interna.
 
@@ -1501,13 +1503,13 @@ Por la naturaleza de sus funciones, los Agentes del Ministerio Público, Peritos
 
 El servicio civil de carrera del Ministerio Público se regirá por lo dispuesto en el estatuto respectivo, el cual será expedido por el Gobernador Constitucional del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2000)</small>
 
 ## TITULO SEPTIMO. DE LAS RESPONSABILIDADES ESPECIALES DE LOS AGENTES DEL MINISTERIO PUBLICO, PERITOS Y AGENTES DE POLICIA MINISTERIAL
 
 ### CAPITULO ÚNICO. DE LAS CAUSAS, SANCIONES Y PROCEDIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 71.
 
@@ -1691,7 +1693,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN LUIS TORRES VEGA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE JULIO DE 1999.
 
@@ -1814,3 +1816,51 @@ TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán rea
 P.O. 17 DE JULIO DE 2013
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO. La Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa contenida en el artículo primero del presente Decreto entrará en vigor de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+
+I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
+
+II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
+
+III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+
+SEGUNDO. A la entrada en vigor del Presente Decreto, corresponderá a la Subprocuraduría General de Justicia, con la estructura creada en la presente Ley, atender los asuntos relacionados con las carpetas de investigación y el nuevo sistema de justicia penal, en los términos del dispositivo anterior.
+
+En las regiones en donde no opere aún el Nuevo Sistema de Justicia Penal, para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, la Procuraduría General de Justicia se apoyará con la estructura que señala la Ley Orgánica del Ministerio Público del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" Número 587, del día 16 de Noviembre de 1998.
+
+TERCERO. Las Unidades requeridas para la implementación del Sistema Acusatorio, deberán crearse en los términos del Código de Procedimientos Penales para el Estado de Sinaloa.
+
+Las atribuciones y asuntos encomendados a las dependencias y unidades administrativas por las disposiciones de la Ley que por regiones se abroga, por la presente Ley podrán ser competencia y quedar radicados para su prosecución en las dependencias y unidades de nueva creación y denominación distinta que aparecen en la Ley Orgánica de La Procuraduría General de Justicia del Estado de Sinaloa y cuyas competencias y atribuciones sean de naturaleza similar y se corresponda a la de aquéllas, por ende, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes; sin defecto de que se cumplan y observen las especificidades que en este particular precise la presente Ley.
+
+CUARTO. Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado, que pasen a formar parte de las nuevas instancias, unidades o áreas creadas, no resultarán afectados en sus derechos.
+
+QUINTO. Las actuales Direcciones de Averiguaciones Previas y Control de Procesos, continuarán con sus funciones dentro de las regiones en las que aún no se aplique el Nuevo Sistema de Justicia Penal, debiendo de desaparecer paulatinamente, en función a como se vaya instrumentando el Sistema Acusatorio Adversarial por regiones geográficas en la Entidad y se resuelvan las averiguaciones previas y procesos penales, pendientes que hayan iniciado antes de la fecha en los ámbitos territoriales y temporales de validez que se determinan en el artículo PRIMERO transitorio del Decreto, Número 738, del H. Congreso del Estado, por el cual se publica el Código de Procedimientos Penales para el Estado de Sinaloa, sin que pueda exceder del día primero de Junio, del año dos mil dieciséis, fecha en que deberán desaparecer, quedando mientras tanto bajo la jerarquía del Subprocurador General.
+
+Una vez que desaparezcan las mencionadas Direcciones, corresponderá precisamente a la Subprocuraduría General asumir las facultades y atribuciones que actualmente corresponden a la Dirección de Averiguaciones Previas y a la Dirección de Control de Procesos, sobre las averiguaciones previas y procesos penales que queden pendientes de resolverse al día primero de Junio, del año dos mil dieciséis, hasta su conclusión y causen estado las resoluciones que pongan fin a estos.
+
+En la nueva Dirección General de Carpetas de Investigación se deben crear las Unidades de Carpetas de Investigación y de Justicia para Adolescentes para efectos de llevar a cabo las funciones propias del Sistema Acusatorio con las reglas previstas en el Nuevo Código de Procedimientos Penales. Estas Unidades de nueva creación entrarán en funcionamiento por regiones, de manera paulatina conforme se vaya implementando el Nuevo Sistema de Justicia Penal y el personal debe ser seleccionado de entre el más capacitado con el que cuente actualmente la Procuraduría en el Régimen de Audiencias, siempre que se cumplan con los requisitos legales y técnicos que se necesitan para instrumentar dicho reto.
+
+Se crea la Unidad de Litigación en sustitución de la Dirección de Control de Procesos, la cual quedará bajo mando y conducción de la Subprocuraduría General respecto a los asuntos del Nuevo Sistema de Justicia Penal.
+
+Dentro de la estructura de la Dirección General de Litigación se crean también las Unidades de Litigación Oral, de Medidas Cautelares y de Ejecución de Sanciones y Medidas de Seguridad. Estas Unidades y la Dirección General conocerán únicamente de los asuntos del Sistema Acusatorio y se irán creando las plazas o espacios de operatividad conforme vaya entrando el Nuevo Sistema en la Entidad Federativa.
+
+Se actualiza la Dirección General Jurídico Consultiva, y se le dota de tres Unidades que son la de Medios de Impugnación, la de Normatividad y la Unidad de Acceso a la Información Pública, a efecto de que puedan auxiliar a las funciones de la Procuraduría en los medios de defensa, en la contestación de informes previos o justificados y en la elaboración de los Acuerdos y Manuales de Funcionamiento de los Operadores del Nuevo Sistema de Justicia Penal, así como en el Acceso a la Información Pública por parte de la Procuraduría General de Justicia. Esta Dirección junto con las Unidades quedará bajo el mando del Subprocurador General de manera paulatina conforme vaya teniendo vigencia el Sistema Acusatorio.
+
+SEXTO. La Ley Orgánica del Ministerio Público del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" Número 587, del día 16 de Noviembre de 1998, seguirá rigiendo, en lo conducente, para los hechos ocurridos con anterioridad a la vigencia de la presente Ley y quedará abrogada cuando los procedimientos iniciados para el conocimiento de dichos hechos queden agotados.
+
+Los acuerdos, circulares, y demás disposiciones administrativas dictadas por el Procurador General de Justicia del Estado, con fundamento en la Ley Orgánica que se abroga mediante el presenté Decreto, continuarán en vigor en lo que no se oponga a la Ley que entra en vigor, hasta que aquél dicte las normas administrativas que correspondan.
+
+SÉPTIMO. Los recursos humanos, materiales, financieros y documentales de la Unidad de Contraloría Interna, prevista en la Ley Orgánica del Ministerio Público, que se deroga de conformidad con lo señalado en este Decreto, se transferirán a la Visitaduría, por lo que todos los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente Ley, se seguirá aplicando la publicada en el Periódico Oficial "El Estado de Sinaloa", Número 587, del 16 de noviembre de 1998.
+
+OCTAVO. Dentro del plazo de un año el Ejecutivo del Estado y las autoridades correspondientes deberán expedir los reglamentos que se prevén en la presente ley.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO. Los ARTÍCULOS SEGUNDO, TERCERO y CUARTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+DÉCIMO PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
