@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2013-05-31"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3379,19 +3377,55 @@ V. ABUSO CONTRA LA TRANQUILIDAD PERSONAL. Valiéndose de su cargo, amenace o int
 
 VI. ABUSO CONTRA LA SEGURIDAD PERSONAL. Estando encargado de la custodia o conducción de alguna persona detenida o presa, cometa contra ella cualquier acto prohibido por la ley.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-ARTÍCULO 212 BIS. SANCIONES Y FIGURA TÍPICA DE DEASPARICIÓN (SIC) FORZADA DE PERSONAS.- Se aplicará una pena de diez a cuarenta años de prisión y de trescientos a mil días multa, destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por diez años, al servidor público que con motivo o abusando de sus atribuciones, detenga y mantenga dolosamente oculta a una o varias personas.
+ARTÍCULO 212 BIS. SANCIONES Y FIGURA TÍPICA DE DESAPARICIÓN FORZADA DE PERSONAS. Se aplicará una pena de veinte a sesenta años de prisión, además de la destitución e inhabilitación de forma vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos, al servidor público que, detenga, arreste, aprehenda o prive de la libertad, cualquiera que fuere su forma a una o varias personas, o bien autorice, ordene, apoye o consienta que otros lo hagan, seguida del ocultamiento del paradero de la persona o de la negativa a reconocer dicha privación de libertad, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes.
 
-Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrá prisión de doce a treinta años y de ciento cincuenta a quinientos días multa.
+Las mismas penas se impondrán al particular que por orden, autorización, apoyo, consentimiento o aquiescencia de un servidor público participe en los actos descritos en el párrafo anterior.
 
-Si con motivo de la desaparición de una persona, ésta fuera localizada posteriormente sin vida, se iniciará la correspondiente averiguación previa por separado y en su caso se impondrán las sanciones que correspondan por el delito o delitos que resulten sin perjuicio de la sanción impuesta por la desaparición forzada.
+Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de quien hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad cuando contribuya a lograr la aparición con vida o el paradero de la víctima.
 
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+El delito de desaparición forzada de personas es de ejecución permanente en tanto no se tenga conocimiento del paradero de la víctima.
 
-Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
+La acción penal derivada de la desaparición forzada de personas y la pena que se imponga judicialmente al responsable de la misma no estarán sujetas a prescripción.
 
-Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+Lo relativo a la reparación del daño a favor del ofendido o víctima en caso de resultar procedente, se atenderá a lo que se establece en el titulo quinto, capítulo noveno del presente ordenamiento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 212 BIS 1. CIRCUNSTANCIAS AGRAVANTES DEL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS:
+
+A quien cometa el delito de desaparición forzada de personas, se le incrementará la pena de prisión en una mitad de la que le corresponda, cuando:
+
+I. La víctima del delito de desaparición forzada de personas fallezca durante o después del tiempo en que se encuentre privada de la libertad, debido a cualquier alteración de su salud que sea consecuencia de la privación de la misma, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito.
+
+II. Se haya infligido a la víctima grave daño físico o psicológico.
+
+III. El sujeto pasivo del delito sea persona con discapacidad, migrante, menor de dieciocho años, mayor de sesenta años, indígena o mujer embarazada, o pertenezca a un grupo especialmente vulnerable.
+
+IV. Se cometa con el propósito de ocultar o asegurar la impunidad de otro delito; o
+
+V. Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento de dicho ataque.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 212 BIS 2. SANCIONES PARA QUIEN OCULTE AL INFANTE QUE NAZCA DURANTE LA DESAPARICIÓN FORZADA DE LA MADRE: a quien retenga, mantenga oculto, o no entregue a su familia al infante que nazca durante el período de desaparición forzada de la madre se le impondrá una pena de diez a veinte años de prisión.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 212 BIS 3. SANCIONES PARA QUIÉN CONOCIENDO EL PARADERO DEL INFANTE NACIDO DURANTE LA DESAPARICIÓN FORZADA DE LA MADRE NO PROPORCIONE INFORMACIÓN PARA SU LOCALIZACIÓN: A quien conociendo el paradero o destino final del infante que nazca durante el período de la desaparición forzada de la madre, no proporcione información para su localización se le aplicará una pena de dos a cinco años de prisión.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 212 BIS 4. AMNISTÍA, PERDÓN Y OTROS BENEFICIOS QUE LAS LEYES ESTABLECEN PARA EL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS: Quien cometa el delito de desaparición forzada de persona no tendrá derecho a gozar del perdón, conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria, amnistía, indulto o cualquier otro beneficio que las leyes respectivas establezcan, salvo el caso estipulado en el artículo 212 BIS. Tampoco se le considerará de carácter político para los efectos de extradición.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 212 BIS 5. EXCLUYENTES DEL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS: No podrán invocarse como causas excluyentes del delito de desaparición forzada de personas, la obediencia por razones de jerarquía, las órdenes o instrucciones recibidas por superiores o circunstancias como inseguridad pública, inestabilidad política interna, o cualquier otra emergencia.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 212 BIS 6. SANCIONES PARA LOS SERVIDORES PÚBLICOS QUE OBSTRUYAN LA INVESTIGACIÓN: Los servidores públicos que teniendo a su cargo la investigación del delito de desaparición forzada de persona o sus auxiliares, evidentemente la obstruyan o eviten hacerla, se les aplicará una pena de cinco a diez años de prisión además de la inhabilitación vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos.
 
 #### SECCIÓN NOVENA. COALICIÓN DE SERVIDORES PÚBLICOS
 
@@ -4435,17 +4469,85 @@ ARTÍCULO 293 BIS. SANCIÓN Y FIGURA TÍPICA DE ALMACENAMIENTO, TRANSPORTACION Y
 
 La misma sanción se aplicará a quien teniendo autorización legal realice las actividades señaladas en este artículo, sin observar las medidas de seguridad debidas con riesgo de la población o del medio ambiente.
 
-### CAPÍTULO PRIMERO. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y PLACAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-### CAPÍTULO SEGUNDO. FALSIFICACIÓN DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+### CAPÍTULO QUINTO. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 1. Al que cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal que no constituyan plaga, provocando o no lesiones evidentes, se le impondrá de seis meses a cuatro años de prisión y de cien a quinientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, los cuales podrán ser puestos bajo los cuidados de las Asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal. En caso de que las lesiones pongan en peligro la vida del animal, se aumentara en una mitad la pena señalada; salvo lo exceptuado en las Leyes de Protección a los Animales.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 2. Todo aquel que cometa actos de maltrato o crueldad injustificada en contra de cualquier especie animal que no constituyan plaga, provocándole la muerte, se le impondrá de dos a seis años de prisión y de trescientos a mil días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, los cuales podrán ser puestos bajo los cuidados de la Asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal. En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentaran en una mitad. Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que provoquen una muerte no inmediata y por el contrario prolonguen la agonía del animal, ya sea por las lesiones que provoca o el detrimento de la salud del animal; salvo lo exceptuado en las Leyes de Protección a los Animales.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 3. Serán considerados actos de maltrato:
+
+1. No alimentar en cantidad y calidad suficiente a los animales domésticos o cautivos;
+
+2. Azuzarlos para el trabajo mediante instrumentos que, no siendo de simple estímulo, les provoquen innecesarios castigos o sensaciones dolorosas;
+
+3. Hacerlos trabajar en jornadas excesivas sin proporcionarles descanso adecuado;
+
+4. No brindar a los animales de compañía una vivienda o refugio adecuado de acuerdo a las características propias de la especie o teniendo el espacio para tenerlos sueltos, los tengan permanentemente amarrados o encerrados.
+
+5. Emplearlos en el trabajo cuando no se hallen en estado físico adecuado;
+
+6. Estimularlos con drogas sin perseguir fines terapéuticos;
+
+7. Emplear animales en el tiro de vehículos que excedan notoriamente sus capacidades físicas.
+
+8. No proporcionar un espacio adecuado y limpio, a los animales que se encuentren en establecimientos o comercios dedicados a la venta de estos o en los lugares en donde se encuentren a resguardo por cualquier motivo.
+
+9. No proporcionar atención veterinaria a cualquier animal que lo requiera y que tengan por cualquier motivo bajo su cuidado o resguardo. Quedan exceptuados los casos en donde por no contar con los medios económicos para su atención, se de aviso a las autoridades correspondientes o grupos protectores de animales legalmente constituidos a fin de obtener apoyo para la atención del animal de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 4. Serán considerados actos de crueldad:
+
+1. Practicar la vivisección con fines que no sean científicamente necesarios o en lugares o por personas que no estén debidamente autorizados para ello;
+
+2. Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de mejoramiento, marcación, castración o higiene de la respectiva especie animal o se realice por motivos de piedad.
+
+3. Intervenir quirúrgicamente animales sin anestesia o aun cuando se utilice anestesia la persona que lo realice no tenga título de médico o médico veterinario, salvo el caso de urgencia debidamente comprobada;
+
+4. Experimentar con animales pudiendo utilizar otros métodos para obtener el resultado deseado o se utilicen animales de grado superior en la escala zoológica al indispensable, según la naturaleza del protocolo de investigación;
+
+5. Abandonar a cualquier animal de modo tal que quede desamparado o expuesto a riesgos que amenacen su integridad física o la de terceras personas;
+
+6. Causar la muerte de animales preñados cuando tal estado es patente en el animal;
+
+7. Lastimar y arrollar animales intencionalmente, causándoles torturas o sufrimientos innecesarios o con la intención de matarlos por el solo espíritu de perversidad, venganza, odio o simple diversión;
+
+8. Ocasionar la muerte por cualquier medio a un animal, sin respetar las disposiciones normativas aplicables en los casos de rastros y lugares destinados al sacrificio de animales por cuestiones alimentarias, sanitarias o de otro tipo que se encuentre debidamente regulada.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 5. En caso de que las lesiones o muerte del animal, sean provocadas por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales, además de la pena de prisión se aplicara suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años, del empleo, cargo, profesión, oficio, autorización, licencia, comercio, o cualquier circunstancia bajo la cual hubiese cometido el delito y en caso de reincidencia se revocaran estos de forma definitiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO SEXTO. PELEAS O ENFRENTAMIENTOS ENTRE ANIMALES
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 6. SANCIONES Y FIGURA TIPICA DE PELEAS O ENFRENTAMIENTO ENTRE ANIMALES. Se aplicará prisión de uno a siete años, multa, así como el decomiso de los objetos, instrumentos y productos del delito, la clausura del establecimiento y la cancelación del permiso o licencia, si lo hubiere: A quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, todo acto cuyo objeto sea total o parcialmente la pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, independientemente de que se efectúen apuestas o actividades conexas; salvo lo exceptuado en las Leyes de Protección a los Animales.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+ARTÍCULO 293 BIS 7. SANCIONES Y FIGURA TIPICA RELACIONADAS CON PELEAS O ENFRENTAMIENTOS ENTRE ANIMALES. Se aplicará prisión de uno a tres años y multa: A quien participe, ayude o coopere con otra a organizar, explotar, financiar, promocionar o realizar todo acto cuyo objetivo sea totalmente o parcialmente la pelea de animales entre sí o con ejemplares de otra especie, así como a quien presencie su realización; salvo lo exceptuado en las Leyes de Protección a los Animales.
+
+Las mismas penas se impondrán a quien procure o ayude a procurar la desaparición, ocultación o alteración de los rastros, pruebas o instrumentos utilizados para explotación, organización o realización de las actividades previstas en este artículo.
+
+Los delitos señalados en el presente Título se perseguirán de oficio.
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA FE PÚBLICA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPÍTULO PRIMERO
-
-DELITOS CONTRA EL DESARROLLO DE LA PERSONALIDAD.
+### CAPÍTULO PRIMERO. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y PLACAS
 
 ###### ARTÍCULO 294.
 
@@ -4465,9 +4567,7 @@ ARTÍCULO 294 BIS. SANCIONES Y TIPOS DE ELABORACIÓN Y USO INDEBIDO DE PLACAS, E
 
 Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
 
-### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO SEGUNDO. FALSIFICACIÓN DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
 
 ###### ARTÍCULO 295.
 
@@ -4525,7 +4625,9 @@ DELITOS CONTRA LA SEGURIDAD DE LAS PERSONAS.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO TERCERO. LENOCINIO Y TRATA DE PERSONAS
+### CAPÍTULO PRIMERO
+
+DELITOS CONTRA EL DESARROLLO DE LA PERSONALIDAD.
 
 ###### ARTÍCULO 298.
 
@@ -4651,7 +4753,9 @@ PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará pr
 
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LAS LEYES DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
+### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 309.
 
@@ -4667,9 +4771,7 @@ DELITOS CONTRA LA FAMILIA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPÍTULO PRIMERO. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO TERCERO. LENOCINIO Y TRATA DE PERSONAS
 
 ###### ARTÍCULO 310.
 
@@ -4707,7 +4809,7 @@ SANCIONES ADICIONALES CON RELACIÓN AL DELITO DE VIOLENCIA FAMILIAR, PROPIO O EQ
 
 SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO, CON RELACIÓN A OTRO QUE SE COMETA. Si además de los delitos que prevé este capítulo, resulta cometido otro con motivo de la violencia familiar, se aplicarán las reglas del concurso.
 
-### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
+### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE CADÁVERES
 
 ###### ARTÍCULO 314.
 
@@ -4739,7 +4841,9 @@ QUERELLA PARA PERSEGUIR LOS DELITOS DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSIC
 
 ARTÍCULO 317 BIS. FRAUDE FAMILIAR. Se aplicará prisión de uno a cuatro años y multa, al cónyuge, concubino o compañero civil que sin causa justificada y en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, el concubinato o pacto civil de solidaridad, oculte, transfiera o adquiera a nombre de terceros bienes.
 
-### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
+### CAPÍTULO PRIMERO. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 318.
 
@@ -4761,9 +4865,7 @@ VI. USURPACIÓN DEL ESTADO CIVIL O LA FILIACIÓN DE OTRO. Usurpe el estado civil
 
 VII. NEGATIVA DEL DERECHO DE CONVIVENCIA ENTRE PADRES E HIJOS. A quien teniendo la custodia provisional o definitiva de un menor por decreto de autoridad competente y habiendo sido requerido por ésta para tal efecto, niegue o impida la convivencia de aquél con la persona que tiene reconocido ese derecho; o a ésta, si después de que lo ha ejercido, no reincorpora al menor al domicilio que habita con su custodio.
 
-### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
+### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
 ###### ARTÍCULO 319.
 
@@ -4785,7 +4887,7 @@ Cuando en la comisión falte el consentimiento a que se refiere el primer párra
 
 Si se acredita que quien dio el consentimiento o quien recibió al menor lo hizo para incorporarlo al núcleo familiar de éste último y darle los beneficios propios de tal incorporación: La pena aplicable será de tres meses a un año de prisión y multa.
 
-### CAPÍTULO QUINTO. BIGAMIA Y MATRIMONIOS ILEGALES
+### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ###### ARTÍCULO 322.
 
@@ -4805,7 +4907,9 @@ CUESTIÓN PREJUDICIAL ESPECÍFICA QUE SUSPENDE LA PRESCRIPCIÓN DE LA ACCIÓN PE
 
 SANCIÓN ESPECÍFICA PARA LOS ENCARGADOS DE LAS OFICINAS DEL REGISTRO CIVIL. Se aplicará de uno a cinco años de prisión, multa e inhabilitación definitiva: A los funcionarios del registro civil que conociendo los impedimentos, autoricen el matrimonio en los términos de este capítulo.
 
-### CAPÍTULO SEXTO. INCESTO
+### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 326.
 
@@ -4817,7 +4921,7 @@ Se aplicarán las últimas sanciones del párrafo anterior en caso de que la có
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
 
-### CAPÍTULO SÉPTIMO. ADULTERIO
+### CAPÍTULO QUINTO. BIGAMIA Y MATRIMONIOS ILEGALES
 
 ###### ARTÍCULO 327.
 
@@ -4833,7 +4937,7 @@ DELITOS CONTRA LAS PERSONAS
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
 
-### CAPÍTULO PRIMERO. HOMICIDIO
+### CAPÍTULO SEXTO. INCESTO
 
 ###### ARTÍCULO 329.
 
@@ -4899,7 +5003,7 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 
 Al servidor público que con motivo de sus funciones y atribuciones conozca del delito de feminicidio y por acción u omisión realice practicas dilatorias en la procuración y administración de justicia se le impondrán de cinco a diez años de prisión, de quinientos a mil días multa e inhabilitación del cargo o comisión que desempeñe de cinco a diez años.
 
-### CAPÍTULO SEGUNDO. LESIONES
+### CAPÍTULO SÉPTIMO. ADULTERIO
 
 ###### ARTÍCULO 337.
 
@@ -4965,9 +5069,7 @@ Si la acción fuere realizada en su desempeño por un profesional de la salud, s
 
 Si la conducta descrita se realizara culposamente, las sanciones se reducirán a una tercera parte, salvo si se trata de la mujer embarazada, que no será penada por su imprudencia.
 
-### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO PRIMERO. HOMICIDIO
 
 ###### ARTÍCULO 347.
 
@@ -5041,7 +5143,7 @@ OTRAS CIRCUNSTANCIAS DE AGRAVACIÓN EN LESIONES Y HOMICIDIO DOLOSO. El homicidio
 
 OTRAS SANCIONES PARA LOS DELITOS DE HOMICIDIO Y DE LESIONES SEGÚN LAS CIRCUNSTANCIAS. Además de las sanciones que señalan los dos capítulos anteriores se podrá prohibir al responsable, hasta por cinco años, ir a determinada demarcación geográfica o residir en ella.
 
-### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
+### CAPÍTULO SEGUNDO. LESIONES
 
 ###### ARTÍCULO 353.
 
@@ -5059,7 +5161,9 @@ SANCIONES Y FIGURA TÍPICA DE EUTANASIA. Se aplicará de tres meses a tres años
 
 ARTÍCULO 354 BIS. En los casos a que se refieren los artículos anteriores, la conducta no será punible cuando ocurra y haya sido realizada en términos de lo dispuesto por la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila.
 
-### CAPÍTULO QUINTO. PARRICIDIO, MATRICIDIO, FILICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN
+### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 355.
 
@@ -5069,7 +5173,7 @@ SANCIONES Y FIGURAS TÍPICAS DE PARRICIDIO, MATRICIDIO, FILICIDIO, UXORICIDIO, F
 
 El tipo penal de la figura anterior admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus penalidades, así como las del concurso conforme a lo dispuesto en el artículo 67.
 
-### CAPÍTULO SEXTO. INFANTICIDIO
+### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
 
 ###### ARTÍCULO 356.
 
@@ -5083,7 +5187,7 @@ III. CIRCUNSTANCIAS ESPECIALES. Cuando obre una o más circunstancias que racion
 
 Lo que se prevé en la fracción anterior se podrá apreciar desde que se ejercite la acción penal, sin perjuicio del grado de punibilidad que se determine en la sentencia de condena.
 
-### CAPÍTULO SÉPTIMO. ABORTO
+### CAPÍTULO QUINTO. PARRICIDIO, MATRICIDIO, FILICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN
 
 ###### ARTÍCULO 357.
 
@@ -5123,7 +5227,7 @@ III. PELIGRO DE MUERTE DE LA MUJER EMBARAZADA. Cuando de no provocarse el aborto
 
 IV. ALTERACIONES GENÉTICAS O CONGÉNITAS GRAVES. Cuando se practique con el consentimiento de la madre y a juicio de un médico exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado que nazca un ser con deficiencias físicas o mentales graves.
 
-### CAPÍTULO OCTAVO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
+### CAPÍTULO SEXTO. INFANTICIDIO
 
 ###### ARTÍCULO 362.
 
@@ -5165,7 +5269,7 @@ SANCIONES Y FIGURA TÍPICA DE DISPARO DE ARMA DE FUEGO. Se aplicará prisión de
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
-### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
+### CAPÍTULO SÉPTIMO. ABORTO
 
 ###### ARTÍCULO 368.
 
@@ -5189,11 +5293,7 @@ La pena máxima se reducirá a un tercio, cuando el autor o partícipe pongan es
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará prisión de seis meses a nueve años y multa, al particular que por cualquier medio constriña a una persona a prestarle trabajos o servicios personales sin la debida retribución; o celebre un contrato que ponga en condiciones de servidumbre a otro.
 
-### CAPÍTULO SEGUNDO. SECUESTRO
-
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO OCTAVO. DELITOS DE PELIGRO CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
 ###### ARTÍCULO 371.
 
@@ -5393,7 +5493,7 @@ ARTÍCULO 375 BIS. SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicar�
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
-### CAPÍTULO TERCERO. AMENAZAS
+### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
 
 ###### ARTÍCULO 376.
 
@@ -5401,7 +5501,11 @@ SANCIONES Y FIGURA TÍPICA DE AMENAZAS. Se aplicará prisión de un mes a un añ
 
 Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumentará en un tercio el mínimo y el máximo de las sanciones del párrafo anterior. Y se aplicará también hasta por tres años, la prohibición de ir al lugar donde reside el ofendido.
 
-### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
+### CAPÍTULO SEGUNDO. SECUESTRO
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 377.
 
@@ -5409,7 +5513,7 @@ SANCIONES Y FIGURA TÍPICA DE ALLANAMIENTO DE MORADA. Se aplicará prisión de u
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO QUINTO. ASALTO
+### CAPÍTULO TERCERO. AMENAZAS
 
 ###### ARTÍCULO 378.
 
@@ -5425,7 +5529,7 @@ PENALIDAD AGRAVADA A LOS CABECILLAS O JEFES. Se aplicará prisión de diez a vei
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR, A LOS DERECHOS DE PERSONALIDAD Y A LA DIGNIDAD E IGUALDAD DE LAS PERSONAS
+### CAPÍTULO CUARTO. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 381.
 
@@ -5519,7 +5623,7 @@ ARTÍCULO 383 BIS 1. SANCIONES Y FIGURA TÍPICA DE LA ESTERILIDAD PROVOCADA. Se 
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
-### CAPÍTULO PRIMERO. VIOLACIÓN
+### CAPÍTULO QUINTO. ASALTO
 
 ###### ARTÍCULO 384.
 
@@ -5571,7 +5675,7 @@ Se incrementará en un tercio el mínimo y el máximo de las sanciones de los p�
 
 ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O LESIONES. Si el autor matare a la víctima o a través de la violencia sexual o de la violación le causare la muerte; además de las sanciones que le correspondan por el delito de violación, se le aplicarán las propias del homicidio doloso o culposo, según sea el caso, atendiendo a las reglas del concurso, en los términos del segundo párrafo del artículo 67. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
 
-### CAPÍTULO SEGUNDO. RAPTO
+### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR, A LOS DERECHOS DE PERSONALIDAD Y A LA DIGNIDAD E IGUALDAD DE LAS PERSONAS
 
 ###### ARTÍCULO 389.
 
@@ -5601,9 +5705,7 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá co
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de dos a ocho años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona de hasta doce años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
 
-### CAPÍTULO TERCERO. ESTUPRO
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+### CAPÍTULO PRIMERO. VIOLACIÓN
 
 ###### ARTÍCULO 394.
 
@@ -5621,9 +5723,7 @@ AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLAC
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO CUARTO. ABUSO SEXUAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO SEGUNDO. RAPTO
 
 ###### ARTÍCULO 397.
 
@@ -5655,6 +5755,18 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SE
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
+### CAPÍTULO TERCERO. ESTUPRO
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
+### CAPÍTULO CUARTO. ABUSO SEXUAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+
+## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
@@ -5672,22 +5784,6 @@ Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto ac
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
 
 > <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
-
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
-
-## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
-
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 399
 
@@ -5781,7 +5877,11 @@ Se entiende que el narcótico está destinado para su estricto e inmediato consu
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO PRIMERO. ROBO
+### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 406.
 
@@ -5815,7 +5915,11 @@ TRATAMIENTO Y REHABILITACIÓN A FARMACODEPENDIENTES. El Ministerio Público o la
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 410.
 
@@ -5919,9 +6023,7 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras pa
 
 SANCIONES Y FIGURA TÍPICA DE ROBO DE USO. Se aplicará una tercera parte de las sanciones mínima y máxima del robo simple: A quien se apodere de una cosa mueble ajena; sin consentimiento de la persona que legalmente pueda otorgarlo o del legítimo poseedor, con el sólo fin de usarla transitoriamente y no para disponer de ella como dueño.
 
-### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 418.
 
@@ -5931,9 +6033,7 @@ Si las conductas se ejecutan sobre tres o más cabezas de ganado menor, la sanci
 
 Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marcas de identificación del ganado, con ánimo de apropiárselo en forma indebida.
 
-### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 419.
 
@@ -5963,7 +6063,9 @@ Se procederá de igual forma, cuando el robo o abigeato se cometa por el suegro 
 
 Se procederá de oficio contra los demás autores o partícipes que intervengan.
 
-### CAPÍTULO QUINTO. FRAUDE
+### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 421.
 
@@ -5993,7 +6095,9 @@ IV. ILEGÍTIMA POSESIÓN DE LA COSA RETENIDA. La ilegítima posesión de la cosa
 
 QUERELLA NECESARIA PARA LA PERSECUCIÓN DE ABUSO DE CONFIANZA. Los delitos que prevé este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 424.
 
@@ -6043,9 +6147,7 @@ XII. ENGAÑO DE GARANTÍA. A quien para liberar a otro o a sí mismo del cumplim
 
 QUERELLA NECESARIA. Los delitos de este capítulo, con excepción del de fraccionamientos no autorizados, sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO SÉPTIMO. USURA
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO QUINTO. FRAUDE
 
 ###### ARTÍCULO 428.
 
@@ -6063,7 +6165,7 @@ IV. OCULTACIÓN, RETENCIÓN O EMPLEO INDEBIDO DE VALORES. Oculte o retenga valor
 
 QUERELLA NECESARIA. El delito de administración fraudulenta sólo se perseguirá por querella del ofendido.
 
-### CAPÍTULO OCTAVO. DESPOJO
+### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 430.
 
@@ -6071,9 +6173,9 @@ PENALIDAD Y FIGURA TÍPICA DE USURA. Se aplicará de seis meses a ocho años y m
 
 El monto de la reparación del daño, será por lo menos igual a la desproporción del beneficio económico obtenido o de los intereses devengados en exceso, o de ambos, según el caso.
 
-### CAPÍTULO NOVENO. DAÑOS
+### CAPÍTULO SÉPTIMO. USURA
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 431.
 
@@ -6099,9 +6201,7 @@ En estos supuestos, a los instigadores o a quienes dirijan materialmente la ejec
 
 QUERELLA NECESARIA PARA PERSEGUIR EL DESPOJO. Los delitos de este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO DÉCIMO. EXTORSIÓN
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO OCTAVO. DESPOJO
 
 ###### ARTÍCULO 435.
 
@@ -6127,7 +6227,9 @@ ARTÍCULO 438 BIS. SANCIONES Y FIGURAS TÍPICAS DE GRAFITO. Se aplicará prisió
 
 Se aplicará prisión de un mes a seis años y multa: A quien realice cualquiera de las conductas a que se refiere el párrafo anterior, en bienes del dominio público o privado que hayan sido declaradas por las autoridades competentes como parte del acervo cultural del estado o de cualquier municipio, y cuya reparación sea difícil o imposible.
 
-### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO NOVENO. DAÑOS
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 439.
 
@@ -6141,6 +6243,10 @@ En estos casos, además, se impondrá a cualquiera de las personas mencionadas y
 
 ### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
 
+### CAPÍTULO DÉCIMO. EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 441.
 
 SANCIONES Y FIGURA TÍPICA DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA. Se aplicará de dos a diez años de prisión y multa: A quien por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del estado o de éste hacia fuera o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con el propósito de ocultar o impedir que se conozca el origen, localización, destino o propiedad de dichos recursos, derechos o bienes; o para alentar alguna actividad ilícita.
@@ -6150,6 +6256,8 @@ Las sanciones mínima y máxima del primer párrafo se aumentarán en una mitad:
 Las sanciones mínima y máxima del primer párrafo se aumentarán en un tercio más: Cuando el delito se cometa por empleados o funcionarios de instituciones de crédito o de casas de bolsa, siempre y cuando aprovechen su posición en ellas para ese efecto.
 
 Para los efectos de este artículo, se entiende que son producto de una actividad ilícita: Los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios graves de que provienen directa o indirectamente de la comisión de algún delito; o representan las ganancias derivadas de ello; y no se pueda acreditar su legítima procedencia.
+
+### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 442.
 
@@ -6564,3 +6672,15 @@ Cuando se haga la publicación de este Decreto en el Periódico Oficial del Esta
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 331, POR EL QUE SE ADICIONA AL TÍTULO CUARTO DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA, EL CAPÍTULO QUINTO QUE CONTIENE LOS ARTÍCULOS 293 BIS 1, 293 BIS 2, 293 BIS 3, 293 BIS 4, 293 BIS 5, 293 BIS 6, Y EL CAPÍTULO SEXTO QUE CONTIENE LOS ARTÍCULOS 293 BIS 7 Y 293 BIS 8.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+DECRETO NÚMERO 333, POR EL QUE SE REFORMA EL ARTÍCULO 212 BIS DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA. ASÍ MISMO SE ADICIONAN LOS ARTÍCULOS: 212 BIS 1, 212 BIS 2, 212 BIS 3, 212 BIS 4, 212 BIS 5, Y 212 BIS 6.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
