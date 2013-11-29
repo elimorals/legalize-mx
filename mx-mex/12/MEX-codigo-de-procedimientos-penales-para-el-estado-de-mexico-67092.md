@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2013-08-20"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -441,7 +441,7 @@ Registro de actuaciones
 
 ###### Artículo 40.
 
-Cuando los actos de la policía, el ministerio público o el juez deban hacerse constar, se registrarán en audio, video, fotografía o cualquier otro medio, que garantice su leal o fidedigna reproducción, dejándose constancia de la hora, fecha y lugar de su realización.
+Cuando los actos de la policía, el ministerio público o el juez deban hacerse constar, se registrarán en audio, video, fotografía o cualquier otro medio, que garantice su leal o fidedigna reproducción dejándose constancia de la hora, fecha y lugar de su realización.
 
 Tratándose de registros electrónicos emitidos por el juez, este dará fe de los mismos certificando la autenticidad de ellos.
 
@@ -766,6 +766,12 @@ Remisión directa de exhortos
 ###### Artículo 82.
 
 Los exhortos dirigidos a los tribunales del Estado o de otras entidades federativas se enviarán directamente al exhortado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+
+Los exhortos y despachos entre tribunales del Estado y entre éstos y otros tribunales podrán remitirse por medios electrónicos, conforme a los lineamientos que al respecto emita el Consejo de la Judicatura. Debiendo dejar constancias en autos cuando se haga por dichos medios. Todas las constancias para la diligenciación se remitirán digitalizadas de oficio.
 
 Despacho de comunicaciones procesales
 
@@ -5151,7 +5157,7 @@ El día uno de octubre del año dos mil diez entrará en vigor en los Distritos 
 
 El día uno de abril del año dos mil once entrará en vigor en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango.
 
-El día uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+El uno de octubre del año dos mil once entrará en vigor en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -5394,3 +5400,13 @@ G.G. 20 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
