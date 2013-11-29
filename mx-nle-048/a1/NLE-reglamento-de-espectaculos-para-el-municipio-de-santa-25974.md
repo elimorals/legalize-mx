@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-santa-25974"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-27"
-last_updated: "1994-10-31"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1994.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE SANTA CATARINA, N.L., PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de noviembre de 1991.
 
@@ -71,7 +73,7 @@ ART. 9o.- La luz eléctrica, será la única iluminación permitida dentro de lo
 
 ART. 10.- Los teatros, cines, salones de baile y demás salas de espectáculos, deberán estar provistos de hidrantes, mangueras y extinguidores, en número suficiente, a fin de que puedan en caso dado, sofocar a la mayor brevedad, cualquier conato de incendio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 1994)</small>
 
 ART. 11.- Queda estrictamente prohibida la entrada a cualquier tipo de espectáculo a personas armadas, a excepción hecha de las personas encargadas de vigilar el orden público.
 
@@ -241,7 +243,7 @@ ART. 52.- Los horarios para la presentación de las variedades, deberán ser del
 
 ART. 53.- Queda estrictamente prohibido que los artistas, antes, entre o después de sus actuaciones, alternen con los clientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 1994)</small>
 
 ART. 54.- Queda prohibida la entrada a estos lugares, a menores de 18 años, a los militares y policías uniformados.
 
@@ -333,7 +335,7 @@ SECRETARIO DEL AYUNTAMIENTO
 
 LIC. JOSE G. ABRAHAM SALINAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 1992.
 
@@ -352,3 +354,11 @@ PRIMERO: Las modificaciones y adiciones a los Artículos del Reglamento de Espec
 SEGUNDO: Los demás Artículos del Reglamento de Espectáculos de Santa Catarina, N.L. publicado en el Periódico Oficial de 27 de Noviembre de 1991, que no fueron modificados o adicionados, quedan firmes para todos sus efectos legales.
 
 TERCERO: Envíese al Periódico Oficial del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, de quién depende, para su promulgación y publicación.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Se abroga el “Reglamento De Espectáculos Para El Municipio De Santa Catarina, N.L.”, Publicado el día 27 de Noviembre de 1991.
+
+SEGUNDO.- Se abroga el "Reglamento de Videojuegos, Futbolitos y Billares" publicado en el Periódico Oficial el 14 de Septiembre de 1992, así como todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
