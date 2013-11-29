@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-para-adolescentes-del-estado-de-mexico-53769"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-25"
-last_updated: "2013-08-20"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2007.
 
@@ -101,7 +101,7 @@ V. Conducta Antisocial Grave: Cuando el Adolescente cometa alguna de las conduct
 
 > <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-a) Homicidio; establecido en el articulo 241 del Código Penal del Estado de México y el culposo establecido en el artículo 61 segundo párrafo, fracciones I, II y V.
+a) Homicidio; establecido en el articulo 241 del Código Penal del Estado de México y el culposo establecido en el articulo 61 segundo párrafo, fracciones I, II y V.
 
 b) Secuestro; establecido en el artículo 259 del Código Penal del Estado de México, en todas sus modalidades, excepto los 2 últimos párrafos.
 
@@ -782,6 +782,10 @@ Se empleará la forma de exhorto cuando se dirija a un funcionario de igual o de
 ###### Artículo 81.
 
 Los oficios de colaboración, exhortos y requisitorias contendrán las inserciones necesarias, según la naturaleza de la diligencia que se haya de practicar.
+
+> <small>(ADICIONADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+
+Los exhortos y despachos entre tribunales del Estado y entre éstos y otros tribunales podrán remitirse por medios electrónicos, conforme a los lineamientos que al respecto emita el Consejo de la Judicatura. Debiendo dejar constancia en autos cuando se haga por dichos medios. Todas las constancias para la diligenciación se remitirán digitalizadas de oficio.
 
 ###### Artículo 82.
 
@@ -2424,3 +2428,13 @@ G.G. 20 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
