@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2013-05-10"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -1310,6 +1310,12 @@ Medio de remitir los exhortos
 ###### Artículo 1.
 
 147.- Los Tribunales pueden, si lo consideran conveniente, acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien los devolverá dentro del plazo de tres días de practicada la diligencia, si por su conducto se devuelven. De no hacerlo en ese plazo se le aplicarán los medios de apremio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+
+Los exhortos y despachos entre tribunales del Estado y entre éstos y otros tribunales podrán remitirse por medios electrónicos, conforme a los lineamientos que al respecto emita el Consejo de la Judicatura. Debiendo dejar constancia en autos cuando se haga por dichos medios. Todas las constancias para la diligenciación se remitirán digitalizadas de oficio.
 
 ###### Artículo 1.
 
@@ -8648,3 +8654,13 @@ QUINTO. Dentro de las normas relativas al expediente electrónico, el Consejo de
 El Consejo de la Judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de Ejecutores y Notificadores.
 
 SEXTO. La Legislatura del Estado tomará las previsiones presupuestales para el cumplimiento gradual del Plan de Mejora del Servicio de Administración de Justicia.
+
+G.G. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
