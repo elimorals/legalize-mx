@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2013-06-25"
+last_updated: "2013-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -811,7 +811,9 @@ IV. De Salud Pública y Asistencia Social;
 
 V. De Desarrollo Rural;
 
-VI. De la Participación Social de la Mujer;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+VI. De Equidad y Género;
 
 > <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -1181,25 +1183,49 @@ X. Ejercer las facultades que le confiere la Ley Federal de la Reforma Agraria, 
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 69.
 
-Son facultades y obligaciones del Ayuntamiento en materia de Participación Equitativa de la Mujer las siguientes:
+Son facultades y obligaciones del Ayuntamiento en materia de Equidad y Género las siguientes:
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 l. Implementar un programa municipal de Participación Equitativa de la Mujer, que considere acciones y presupuestos encaminados a mejorar sus condiciones de vida. Así como darle seguimiento y efectuar evaluaciones periódicas del mismo;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-II. Apoyar las actividades productivas de las mujeres; otorgando asesoría, capacitación, gestionando créditos y apoyándoles en los trámites para su funcionamiento;
+II. Apoyar las actividades productivas de las mujeres; promoviendo el empleo, gestionando créditos y apoyándoles en los trámites para su funcionamiento que permita a las mujeres contar con recursos para la creación de sus propios proyectos;
 
-III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y
+III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y (sic)
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 IV. Intervenir en defensa de los derechos de las mujeres, impulsando la creación de centros de atención con áreas de salud, legal y social.
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+V. Impulsar acciones para la igualdad entre los géneros y promover, fomentar y defender los derechos de las mujeres y las niñas, al acceso pleno e igualitario a los recursos, a su integración a la actividad económica y a su participación en la vida pública y política;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+VI. Coadyuvar en el combate y eliminación de todas las formas de violencia y discriminación contra las mujeres, dentro o fuera de la familia;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+VII. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentren las mujeres;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+IX. Impulsar acciones de educación y formación sobre los derechos de las mujeres, prevención de la violencia, autoestima, cultura del buen trato, herramientas jurídicas, así como capacitación en desarrollo de habilidades y destrezas en actividades no tradicionales para las mujeres; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+X. Coadyuvar en el Municipio para integrar, acciones a favor de las mujeres, que deberán contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales deba tener una participación efectiva.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -1357,45 +1383,77 @@ IX. Proponer al Ayuntamiento los nombramientos del Secretario, Oficial Mayor o J
 
 X. Nombrar y remover a los servidores del Municipio de acuerdo con la Ley;
 
-XI. Conceder vacaciones y licencias a los servidores públicos municipales conforme a las disposiciones reglamentarias;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XII. Dirigir, vigilar y dictar las medidas necesarias para el buen funcionamiento de los servicios públicos Municipales;
+XI. Incluir a las mujeres en la administración municipal, incorporando la perspectiva de género en las políticas públicas y garantizando de manera especial, los derechos de las mujeres y las niñas, así como el acceso de las mismas a la salud, educación, cultura, participación política, desarrollo y bienestar;
 
-XIII. Someter a la aprobación del Ayuntamiento el presupuesto anual de egresos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XIV. Librar con el Síndico Procurador, las órdenes de pago a la Tesorería Municipal;
+XII. Conceder vacaciones y licencias a los servidores públicos municipales conforme a las disposiciones reglamentarias;
 
-XV. Acudir cuando menos una vez al año, en visita de trabajo, a las comisarías del Municipio y los poblados y localidades;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XVI. Ser el conducto para las relaciones entre el Ayuntamiento y los Poderes del Estado y los demás Ayuntamientos del Estado;
+XIII. Dirigir, vigilar y dictar las medidas necesarias para el buen funcionamiento de los servicios públicos municipales;
 
-XVII. Suspender la ejecución de acuerdos del Ayuntamiento que considere inconvenientes para los intereses del Municipio, dando informes al Ayuntamiento sobre estas resoluciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XVIII. Vigilar el cumplimiento del Plan de Desarrollo Municipal y de los programas que deriven del mismo;
+XIV. Someter a la aprobación del Ayuntamiento el presupuesto anual de egresos;
 
-XIX. Someter a la consideración del Ejecutivo del Estado, para su aprobación, el programa municipal de desarrollo urbano y las declaratorias de provisiones, reservas, usos y destinos de áreas y predios;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XX. Solicitar autorización del Ayuntamiento para ausentarse de la cabecera municipal por periodos mayores de 5 días;
+XV. Librar con el Síndico Procurador, las órdenes de pago a la Tesorería Municipal;
 
-XXI. Mantener el orden, la paz y la tranquilidad públicas, así como imponer las sanciones administrativas a quienes infrinjan el bando de policía y buen gobierno por sí o a través del Juez calificador;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XXII. No ausentarse más de tres días de su Municipio cada treinta, sin autorización del Ayuntamiento; y no más de cinco días sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado;
+XVI. Acudir cuando menos una vez al año, en visita de trabajo, a las comisarías del Municipio, poblados y localidades;
 
-XXIII. Participar en el procedimiento de entrega-recepción de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XXIV. Conducir el trabajo administrativo de los regidores cuando se les asigne alguna de las ramas de la administración;
+XVII. Ser el conducto para las relaciones entre el Ayuntamiento y los Poderes del Estado y los demás Ayuntamientos del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XXV.- Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones bancarias, así como la del Síndico Procurador, y
+XVIII. Suspender la ejecución de acuerdos del Ayuntamiento que considere inconvenientes para los intereses del Municipio, dando informes al Ayuntamiento sobre estas resoluciones;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XXVI.- Remitir conjuntamente con el Tesorero Municipal a la Auditoría General del Estado las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicable a la Materia; y
+XIX. Vigilar el cumplimiento del Plan de Desarrollo Municipal y de los programas que deriven del mismo;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-XXVII. Las demás que les otorguen la Ley y los reglamentos.
+XX. Someter a la consideración del Ejecutivo del Estado, para su aprobación, el programa municipal de desarrollo urbano y las declaratorias de provisiones, reservas, usos y destinos de áreas y predios;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXI. Solicitar autorización del Ayuntamiento para ausentarse de la cabecera municipal por periodos mayores de 5 días;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXII. Mantener el orden, la paz y la tranquilidad públicas, así como imponer las sanciones administrativas a quienes infrinjan el bando de policía y buen gobierno por sí o a través del Juez calificador;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXIII. No ausentarse más de tres días de su Municipio cada treinta, sin autorización del Ayuntamiento; y no más de cinco días sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXIV. Participar en el procedimiento de entrega - recepción de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXV. Conducir el trabajo administrativo de los regidores cuando se les asigne alguna de las ramas de la administración;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXVI. Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones bancarias, así como la del Síndico Procurador,
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XXVII. Remitir conjuntamente con el Tesorero Municipal a la Auditoria General del Estado las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicables a la Materia; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+XVIII (SIC).- Las demás que les otorguen la Ley y los Reglamentos.
 
 ###### ARTICULO 74.
 
@@ -3595,7 +3653,7 @@ DECRETO NÚMERO 417, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 29, 109 B
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
-SEGUNDO.- Comuníquese el presente Decreto a los 81 Ayuntamientos del Estado de Guerrero, los Honorables Ayuntamientos Municipales que no cuenten a la fecha de la vigencia del presente Decreto con una oficina o unidad de atención juvenil, harán los trámites y gestiones procedentes con el objeto de presupuestar lo concerniente en el ejercicio fiscal del año 2011, con el fin de programar su instalación y funcionamiento de Acuerdo al Plan de Desarrollo Municipal, a los Programas Estatales y Municipales de la Juventud y demás ordenamientos legales correspondientes.
+SEGUNDO.- Comuniquese el presente Decreto a los 81 Ayuntamientos del Estado de Guerrero, los Honorables Ayuntamientos Municipales que no cuenten a la fecha de la vigencia del presente Decreto con una oficina o unidad de atención juvenil, harán los trámites y gestiones procedentes con el objeto de presupuestar lo concerniente en el ejercicio fiscal del año 2011, con el fin de programar su instalación y funcionamiento de Acuerdo al Plan de Desarrollo Municipal, a los Programas Estatales y Municipales de la Juventud y demás ordenamientos legales correspondientes.
 
 TERCERO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3688,3 +3746,11 @@ DECRETO NÚMERO 166, POR EL QUE SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 70 DE 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase el presente decreto al Titular del Poder Ejecutivo, para su conocimiento y publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Los artículos antes citados derogan todas las disposiciones que se opongan a él.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
