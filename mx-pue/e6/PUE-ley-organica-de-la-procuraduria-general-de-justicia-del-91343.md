@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-91343"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-31"
-last_updated: "2013-06-17"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Décima Cuarta del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SO
 
 CONSIDERANDO
 
-.
+...
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 119, 123 fracción II, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47 y 48 fracción II del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -467,11 +467,15 @@ Para ser Coordinador General, Director General, Director, Coordinador o bien, Su
 
 I.- Tener nacionalidad mexicana, en pleno ejercicio de sus derechos;
 
-II.- Tener como mínimo, veintinueve años cumplidos al momento de su designación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+II.- Tener, como mínimo veinticinco años cumplidos al momento de su designación;
 
 III.- Gozar de buen estado psicofisiológico;
 
-IV.- Contar con título y cédula profesional;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Contar con título y cédula profesional, con excepción de la Policía Ministerial;
 
 V.- No haber sido condenada por sentencia irrevocable como responsable de delito doloso o culposo calificado como grave;
 
@@ -481,7 +485,9 @@ VII.- No ser adicta a estupefacientes, sustancias psicotrópicas ni padecer alco
 
 VIII.- Contar con el certificado y registro a que se refiere esta Ley; y
 
-IX.- Tener, como mínimo, cinco años en el ejercicio profesional; salvo los casos de Coordinadores y Supervisores en los que bastará tres años en el ejercicio de la profesión.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Tener como mínimo, tres años en el ejercicio profesional.
 
 Aquéllos que se encuentren directamente relacionados tanto con el área de Averiguaciones Previas como a la de Procesos, deberán ser profesionales del Derecho con título legalmente expedido y la correspondiente cédula profesional.
 
@@ -629,7 +635,9 @@ Para ingresar como agente del Ministerio Público Titular, se requiere:
 
 I.- Ser mexicano en pleno ejercicio de sus derechos;
 
-II.- Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de cinco años y con la correspondiente cédula profesional;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+II.- Ser profesional del Derecho con título legalmente expedido, con antigüedad mínima de tres años y con la correspondiente cédula profesional;
 
 III.- En su caso, tener acreditado el Servicio Militar Nacional;
 
@@ -643,29 +651,41 @@ VII.- Aprobar el curso de ingreso, formación inicial o básica que establezcan 
 
 VIII.- Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables, y
 
-IX.- Tener como mínimo, veintinueve años cumplidos a la fecha de su nombramiento.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Tener como mínimo, veinticinco años cumplidos a la fecha de su nombramiento.
 
 ###### Artículo 45.
 
 Para ingresar como agente del Ministerio Público Adjunto, se requieren los requisitos señalados en el artículo que antecede con excepción de lo establecido en la fracción IX y deberá acreditar lo siguiente:
 
-I.- Tener como mínimo, veintiséis años cumplidos a la fecha de su nombramiento, y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
-II.- Tener tres años en el ejercicio de su profesión al momento de su nombramiento.
+I.- Tener como mínimo, veintitrés años cumplidos a la fecha de su nombramiento; y
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+II.- Tener dos años en el ejercicio de su profesión al momento de su nombramiento.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 46.
 
-Para ser Auxiliar de agente del Ministerio Público, se requieren los mismos requisitos mencionados en el artículo 44 con excepción de la fracción IX, por lo que además deberá acreditar lo siguiente:
+Para ser Auxiliar de Agente del Ministerio Público, se requieren los mismos requisitos mencionados en el artículo 44, con excepción de la antigüedad prevista en sus fracciones II y IX de esta Ley, por lo que además deberá acreditarse lo siguiente:
 
-I.- Tener como mínimo, veinticinco años de edad, a la fecha de su nombramiento, y
+I.- Tener como mínimo, veintitrés años de edad, a la fecha de su nombramiento; y
 
-II.- Tener cuando menos dos años en el ejercicio profesional.
+II.- Tener cuando menos un año en el ejercicio profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 47.
 
-Para ser Oficial del Ministerio Público, se requieren los mismos requisitos mencionados en el artículo 44 con excepción de la fracción IX, por lo que además deberá acreditar lo siguiente:
+Para ser Oficial del Ministerio Público, se requieren los mismos requisitos mencionados en el artículo 44, con excepción de la antigüedad prevista en sus fracciones II y IX de esta Ley, por lo que además deberá acreditarse lo siguiente:
 
-I.- Tener como mínimo, veintitrés años de edad, a la fecha de su nombramiento; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+I.- Tener como mínimo, veintiún años de edad, a la fecha de su nombramiento; y
 
 II.- Tener cuando menos seis meses en el ejercicio profesional.
 
@@ -1235,6 +1255,10 @@ Los policías ministeriales que hayan alcanzado la edad límite para la permanen
 
 ## TÍTULO CUARTO. DEL SISTEMA PROCESAL PENAL ACUSATORIO
 
+### CAPÍTULO ÚNICO. DEL MINISTERIO PÚBLICO SUBALTERNO
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 102.
 
 El Sistema Procesal Penal Acusatorio será operado por personal de la Procuraduría capacitado para tal efecto.
@@ -1363,6 +1387,74 @@ V.- Atender las diligencias periciales que le sean solicitadas; y
 
 VI.- Las que les asignen otros ordenamientos legales aplicables al Sistema Procesal Penal Acusatorio.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+## TÍTULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 109.
+
+Los Agentes del Ministerio Público Subalternos son auxiliares directos del Ministerio Público y dependerán de la Dirección de Agencias del Ministerio Público de su circunscripción.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 110.
+
+Los Agentes del Ministerio Público Subalternos, serán nombrados por el Procurador, previo examen de destreza y conocimientos que aplicará el Instituto de Capacitación y Profesionalización de la Dependencia y durarán en su cargo hasta en tanto no sean sustituidos sin exceder de tres años a partir de su designación.
+
+(NOTA: EL 16 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 111.
+
+El cargo de Agente Subalterno del Ministerio Público SERÁ HONORÍFICO y para ser nombrado como tal, deberá cubrir los requisitos siguientes:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- No haber sido condenado por delito doloso;
+
+III.- Gozar de buena fama en su lugar de residencia;
+
+IV.- Tener como mínimo dos años de residencia en la región a que pertenezca;
+
+V.- Acreditar haber cursado por lo menos la instrucción media básica;
+
+VI.- Tener un modo honesto de vivir, no ser adicto a estupefacientes, enervantes, psicotrópicos o cualquier sustancia que produzca un efecto similar, ni tener el hábito del alcoholismo;
+
+VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en términos de las leyes aplicables;
+
+VIII.- Tener veinte años de edad cumplidos al día de su designación;
+
+IX.- Aprobar el examen de destrezas y conocimientos a que se refiere el artículo anterior;
+
+X.- Aceptar ser sujeto de capacitación permanente conforme los cursos a los que sean convocados por la Procuraduría; y,
+
+XI.- Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 112.
+
+Los Agentes del Ministerio Público Subalternos tendrán a su cargo las atribuciones siguientes:
+
+I.- Auxiliar a los Agentes del Ministerio Público en el despacho de las diligencias urgentes que aquéllos no puedan desahogar en razón de las modalidades de tiempo, lugar y ocasión en que se realizó la conducta delictiva;
+
+II.- Elaborar el acta correspondiente de aquellas conductas que lleguen a su conocimiento y puedan ser constitutivas de delito y remitirla inmediatamente al Agente del Ministerio Público de su adscripción;
+
+III.- Poner inmediatamente a disposición del Agente del Ministerio Público, a aquellas personas que le sean presentadas por haber sido detenidas en flagrante delito;
+
+IV.- Cumplir las instrucciones que le gire el Agente del Ministerio Público de su adscripción, para la práctica de aquellas diligencias urgentes, tendentes al aseguramiento del lugar de los hechos, de los indicios, instrumentos del delito y protección de las víctimas del mismo;
+
+V.- Intervenir en los juicios que se sigan ante los Juzgados de Paz, de la circunscripción territorial que le corresponda;
+
+VI.- Respetar en el desempeño de sus atribuciones, las garantías individuales de los gobernados;
+
+VII.- Expedir constancias o certificaciones de la denuncia por la pérdida o extravío de objetos o documentos, sin prejuzgar de la veracidad de los hechos asentados; y
+
+VIII.- Las demás que mediante acuerdo determine el Procurador.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
@@ -1400,3 +1492,9 @@ P.O. 17 DE JUNIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
