@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-video-juegos-y-futbolitos-en-el-municipio-de-2582
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-14"
-last_updated: "1997-09-22"
+last_updated: "2013-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE VIDEO JUEGOS, FUTBOLITOS Y BILLARES EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE VIDEO JUEGOS, FUTBOLITOS Y BILLARES EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE SANTA CATARINA, N.L., PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013. (ABROGADO)
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de septiembre de 1992.
 
@@ -33,7 +35,7 @@ El Ciudadano Sr. Atanasio González Puente, Presidente Municipal de Santa Catari
 
 Que el R. Ayuntamiento de Santa Catarina, Nuevo León, en Sesión Ordinaria de Cabildo celebrada el día 5 de Junio de 1992, con fundamento en los Artículos 26 inciso A Fracción VII, inciso C Fracción VI, 27, Fracción IV, y del 160 al 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal en el Estado en vigor, acordó la expedición del Reglamento que regula: Los Video Juegos y Futbolitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
 
 REGLAMENTO DE VIDEO JUEGOS, FUTBOLITOS Y BILLARES
 
@@ -199,7 +201,7 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. FERNANDO MARGARIN BERLANGA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE NOVIEMBRE DE 1996.
 
@@ -218,3 +220,11 @@ Las presentes modificaciones e inclusión al Reglamento para Video Juegos, Futbo
 ###### ARTICULO SEGUNDO.
 
 Envíese para su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Se abroga el “Reglamento De Espectáculos Para El Municipio De Santa Catarina, N.L.”, Publicado el día 27 de Noviembre de 1991.
+
+SEGUNDO.- Se abroga el “Reglamento de Videojuegos, Futbolitos y Billares” publicado en el Periódico Oficial el 14 de Septiembre de 1992, así como todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
