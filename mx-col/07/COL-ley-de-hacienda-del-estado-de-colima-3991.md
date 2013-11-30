@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2013-07-27"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -51,9 +51,13 @@ LEY DE HACIENDA DEL ESTADO DE COLIMA
 
 ### CAPITULO I. Del Impuesto a la Prestación del Servicio de Enseñanza
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-Es objeto de este impuesto la percepción de ingresos, con motivo de la prestación del servicio de enseñanza realizada por particulares, cuando tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación y de la Ley para la Educación del Estado de Colima.
+Es objeto de este impuesto la percepción de ingresos, con motivo de la prestación del servicio de enseñanza realizada por particulares, cuando tengan autorización o reconocimiento de validez oficial de estudios.
 
 ###### Artículo 2.
 
@@ -115,15 +119,15 @@ Para practicar las estimaciones a que hace referencia este Artículo, las autori
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
 ###### Artículo 8.
 
-Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, presentarán declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción y en las formas oficiales que para el efecto sean aprobadas por la Secretaría de Finanzas y Administración, acompañando a la misma una copia de la declaración anual que debió haberse presentado ante las autoridades federales, de conformidad con las disposiciones fiscales correspondientes.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 9.
 
-Para los efectos del Artículo anterior, el impuesto se calculará sobre el ingreso anual obtenido y al resultado se le disminuirá el importe de los pagos provisionales efectuados en los términos de este capítulo.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ### CAPITULO II. Del Impuesto Sobre Ejercicio de Profesiones
 
@@ -151,15 +155,31 @@ Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del
 
 Son deducciones autorizadas las siguientes:
 
-I.- Sueldos, gratificaciones anuales, aportaciones de seguridad social e impuesto sobre erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón, a cargo del contribuyente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Las inversiones en adquisición de inmuebles destinados exclusivamente al desarrollo de la actividad generadora de los ingresos gravados, hasta por un monto anual equivalente al 10% del importe de la inversión.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+I.- Sueldos, gratificaciones anuales y aportaciones de seguridad social por concepto de remuneraciones al trabajo personal subordinado a cargo del contribuyente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+II.- Las inversiones en adquisición de inmuebles, incluyendo las ampliaciones y mejoras destinadas exclusivamente al desarrollo de la actividad generadora de los ingresos gravados, hasta por un monto anual equivalente al 10% del importe de la inversión.
 
 III.- Los gastos de mantenimiento, ampliaciones y mejoras del inmueble donde se realicen las actividades a que se refiere este capítulo.
 
-IV.- Las inversiones en adquisición de mobiliario y equipo de oficina e instrumental propio para la realización de la actividad del contribuyente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Las inversiones en automóviles y los gastos para su mantenimiento.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Las inversiones en adquisición de mobiliario y equipo de oficina e instrumental propio para la realización de la actividad del contribuyente, hasta por un monto anual equivalente al 10% de la inversión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+V.- Las inversiones en automóviles, hasta por un monto equivalente a 2040 unidades de salario mínimo general del Área Geográfica del Estado de Colima, así como los gastos para su mantenimiento, los cuales se podrán deducir en la proporción que represente el monto original de la inversión deducible, respecto del valor de adquisición de los automóviles.
 
 VI.- Las erogaciones por arrendamiento financiero, cuando los contratos se refieran al instrumental y equipo propio para la realización de la actividad del contribuyente.
 
@@ -171,7 +191,9 @@ IX.- Los gastos de viaje del contribuyente con motivo justificado de su asistenc
 
 X.- Los pagos por concepto de servicio telefónico y energía eléctrica del local que se utilice para el desempeño de la actividad gravada.
 
-XI.- Las cuotas que se paguen a sociedades o asociaciones civiles de profesionistas a que pertenezca el contribuyente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XI.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ###### Artículo 14.
 
@@ -189,11 +211,17 @@ V.- Que el costo de adquisición declarado por el contribuyente corresponda al d
 
 VI.- Que en el caso de compras de importación se compruebe que se cumplieron los requisitos legales para su importación. Como importe de dichas compras sólo se aceptará el que haya sido declarado con motivo de la importación.
 
-VII.- Que tratándose de inversiones en automóviles, sólo se autoriza la deducción respecto de vehículos definidos como utilitarios en los términos de la Ley del Impuesto Sobre la Renta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2013)
 
 VIII.- Que tratándose de contratos de arrendamiento financiero sólo se considere el monto pactado como valor del bien en los contratos respectivos.
 
-IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 días de salario mínimo general de la zona económica correspondiente al Estado de Colima, si se erogan en el extranjero o de 80 días de salario mínimo si se erogan en territorio nacional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 días de salario mínimo general del Área Geográfica del Estado de Colima, si se erogan en el extranjero o de 80 días de salario mínimo si se erogan en territorio nacional.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -253,33 +281,23 @@ II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepci
 
 Para practicar las estimaciones a que se refiere este Artículo se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 20.
 
-Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, están obligados a presentar declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción en las formas oficiales que para el efecto sean aprobados por la Secretaría de Finanzas y Administración, acompañando a la misma una copia de la declaración anual que por estos ingresos tenga obligación de presentar, de conformidad con las disposiciones fiscales federales correspondientes.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
-No están obligados a presentar declaración anual, los contribuyentes eventuales, y los pagos provisionales efectuados por estos se consideraran como definitivos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 21.
 
-El cálculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 22.
 
-Las personas físicas que obtengan ingresos de los señalados en este capítulo, para calcular su impuesto anual, podrán hacer, además de las deducciones autorizadas en el Artículo 13, las siguientes deducciones personales:
-
-I.- Los honorarios médicos, dentales y los gastos hospitalarios efectuados por el contribuyente para si, para su conyugue (sic), o para las personas con quiénes viva en concubinato y para sus ascendientes o descendientes en línea recta, siempre y cuando dichas personas no reciban durante el año calendario ingresos en cantidad igual o superior a la que resulte de calcular el salario mínimo general del área geográfica del contribuyente elevado al año.
-
-II.- Los gastos de funerales efectuados en favor de las personas a que se refiere la fracción anterior, en la parte que no exceda del salario mínimo general del área geográfica del contribuyente elevado al año.
-
-III.- Los donativos no onerosos ni remunerativos que se otorguen en favor de la federación, del Estado, o de sus municipios, y de las instituciones asistenciales o de beneficencia reconocidas por las leyes de la materia, así como de las asociaciones y sociedades civiles que realicen actividades similares.
-
-Para que procedan las deducciones a que se refiere este Artículo, se deberán comprobar con documentación que reúna los requisitos señalados en la fracción II del Artículo 14 de esta Ley, expedida en favor de las personas obligadas al pago de este impuesto. Si el contribuyente recupera parte de dichas cantidades, únicamente tendrá derecho a deducir la parte no recuperable.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ### CAPITULO III. Del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores
 
@@ -327,9 +345,11 @@ Los vehículos objeto de la transmisión, garantizaran preferentemente el pago d
 
 Para la recaudación de este impuesto, se observaran las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28, de esta Ley.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28 de esta Ley, presentando la factura original del vehículo objeto de la transmisión o documento que la sustituya, con validez jurídica.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -467,25 +487,9 @@ De no efectuar el desglose del monto correspondiente a hospedaje, los contribuye
 
 Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-Artículo 41 E BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto por la Prestación del Servicio de Hospedaje regulado en este capítulo, mediante cuota fija determinada en base a los ingresos gravables estimados por la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas y Administración.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, en los mismos plazos que se autorice pagar la cuota estimada del Impuesto Sobre la Renta.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando los ingresos del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra la modificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas y Administración, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en los ingresos estimados.
+Artículo 41 E BIS.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -687,27 +691,9 @@ Artículo 41 R.- El impuesto se causará en el momento en que se realicen las er
 
 Los contribuyentes deberán presentar declaraciones aun cuando no exista impuesto a pagar, mientras no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-Artículo 41 R BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto Sobre Nóminas regulado en este capítulo, mediante cuota fija determinada por la Receptoría de Rentas correspondiente de la Secretaría de Finanzas y Administración, en base a las erogaciones manifestadas por el contribuyente.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, en los mismos plazos que se autorice pagar la cuota estimada del Impuesto Sobre la Renta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando las erogaciones del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas y Administración, en el bimestre siguiente a aquél en que ocurra la modificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas y Administración, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en las erogaciones estimadas.
+Artículo 41 R BIS.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1279,9 +1265,9 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circular sin placas o alta del vehículo. El pago se realizará en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
+Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 15 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1523,13 +1509,17 @@ XXIX.- Aclaración y complementación de actas del Registro Civil. 7.000
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 50.
 
-Por los servicios prestados en la Dirección de Transporte.
+Por los servicios prestados en la Dirección General del Transporte y de la Seguridad Vial:
 
-Numero de días de salario
+NUMERO DE DÍAS DE
 
-mínimo
+SALARIO MÍNIMO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1729,9 +1719,13 @@ e).- Placas de demostración automóviles y camiones 12.000
 
 f).- Renovación de tarjeta de circulación de motocicletas o su reposición 1.000
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-g).- Reposición de tarjeta de circulación de automóviles y camiones 2.413
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+g).- Reposición de tarjeta de circulación de
+
+automóviles y camiones, a solicitud del interesado 11
 
 h).- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2005)
 
@@ -1743,6 +1737,14 @@ i).- Placas para vehículos antiguos. 13.000
 
 j).- Placas de demostración motocicletas 10.570
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+K) Reposición de tarjeta de circulación de automóviles y camiones, por cambio de
+
+domicilio del propietario del vehículo 0.00
+
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 Los derechos consignados en 105 incisos a), b), c), d), e), f), e i) anteriores, tratándose de canje o renovación, por término del periodo de vigencia, deberán pagarse durante los meses de enero a junio. Las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida en los incisos a), c), d), f), g) e i), respecto a un vehículo que tenga en propiedad.
@@ -1750,6 +1752,24 @@ Los derechos consignados en 105 incisos a), b), c), d), e), f), e i) anteriores,
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Los adultos en plenitud acreditarán ser de escasos recursos económicos, mediante constancia expedida por el Instituto para la Atención de Adultos en Plenitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IV BIS.- Por reposición de placas de circulación, por robo o extravío:
+
+a).- Vehículos de servicio particular,
+
+incluyendo tarjeta de circulación 6.000
+
+b).- Motocicletas, incluyendo tarjeta
+
+de circulación 2.000
+
+c).- Remolques 6.000
+
+Para dar trámite a la solicitud de reposición de placas de circulación, será requisito indispensable que no se tengan adeudos pendientes de pago por impuestos y derechos causados por el uso, tenencia o circulación de la unidad vehicular de que se trate, ni de multas que la Dirección General de Transporte y de la Seguridad Vial hubiera impuesto con respecto al mismo vehículo y se acredite el robo o extravío de las placas de circulación, con la copia del escrito que contenga la denuncia que del hecho respectivo se hubiera presentado ante la Agencia del Ministerio Público correspondiente, de la que se entregará copia a la Dirección General señalada.
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
@@ -1875,9 +1895,11 @@ II.- Certificaciones y constancias, en general, así como certificaciones por co
 
 III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 10.000
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 12.000
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -2513,171 +2535,9 @@ más, por cada unidad que integre el condominio 23.000
 
 más, por cada unidad que integre el condominio 25.000
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 55 A.- Por los servicios prestados en la Dirección de Ecología.
-
-Número de días de salario mínimo
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 30.000
-
-Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo; así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
-
-1.- En su modalidad MIA-1 70.000
-
-2.- En su modalidad MIA-2 120.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del resolutivo o ampliación de vigencia:
-
-1.- En su modalidad de informe de factibilidad: 10.000
-
-2.- En su modalidad MIA-1 20.000
-
-3.- En su modalidad MIA-2 30.000
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-4.- En su modalidad de diagnóstico ambiental 40.000
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-5.- En su modalidad de riesgo ambiental 20.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 70.000
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico ambiental o informes de factibilidad, anualmente:
-
-1.- Por la inscripción 260.000
-
-2.- Por el refrendo 160.000
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-VII.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de diagnóstico ambiental en materia de impacto ambiental 150.000
-
-VIII.- Poda o derribo de árboles:
-
-1.- Especies comerciales e industriales:
-
-1.1.- Por poda 1.000
-
-1.2.- Por derribo:
-
-a).- Arboles hasta 30 cm. de diámetro del fuste principal 2.000
-
-b).- Arboles de 31 hasta 50 cm. de diámetro del fuste principal 3.000
-
-c).- Arboles de 51 hasta 70 cm. de diámetro del fuste principal 6.000
-
-d).- Arboles de 71 hasta 90 cm. de diámetro del fuste principal 10.000
-
-e) Arboles de 91 hasta 120 cm. de diámetro del fuste principal 15.000
-
-f).- Arboles de 121 o más centímetros de diámetro del fuste principal 25.000
-
-2.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-No se pagará el derecho a que se refiere esta fracción, cuando la Dirección de Ecología dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal:
-
-1.- Por la recepción y evaluación 10.000
-
-2.- Por el otorgamiento de la licencia 5.000
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal:
-
-1.- Por la recepción y evaluación 10.000
-
-2.- Por el otorgamiento de la licencia 2.000
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la reutilización o reciclaje de residuos sólidos:
-
-1.- Por la recepción y evaluación 5.000
-
-2.- Por el otorgamiento de la autorización 2.000
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-XII.- Por la expedición del certificado de bajas emisiones 12.000
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-XIII.- Por la expedición de copias certificadas de las actuaciones que obren en los expedientes administrativos:
-
-1.- Por la primer hoja o actuación 0.500
-
-2.- Por cada hoja, actuación o fracción siguiente a la primera 0.040
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-XIV.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ":
-
-1.- Alberca, por niño con derecho a tobogán 0.200
-
-2.- Alberca, por adulto con derecho a tobogán 0.250
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-3.- Ingreso por niño a zona de bosque 0.063
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-4.- Ingreso por adulto a zona de bosque 0.095
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-5.- Por uso de espacio en bosque o albercas para fiesta infantil 5.250
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-XV.- Por la recepción y evaluación de la solicitud y otorgamiento del dictamen de congruencia de factibilidad de uso de suelo en materia de ordenamiento ecológico 10.000
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
-
-XVI.- Por la recepción, evaluación y otorgamiento de la cédula de operación anual a las fuentes fijas de jurisdicción estatal 10.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XVII.- Por la recepción, evaluación y otorgamiento de la resolución de la determinación del plan de manejo de residuos especiales 15.000
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XVIII.- Por la revalidación de la resolución del plan de manejo de residuos especiales 5.000
-
-No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII del (sic) este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
+ARTÍCULO 55 A.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3123,6 +2983,14 @@ a).- Registro de Consejo Directivo 11.616
 
 b).- Registro por cada socio 0.464
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Expedición de constancia de trámite
+
+ante la Dirección General de Profesiones 1.000
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 58.
@@ -3453,6 +3321,92 @@ IV.- Revalidación de Estudios de Educación Básica de nivel
 
 Primaria y Secundaria 0.330
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+V.- Expedición de dictamen de rectificación
+
+de nombre en certificados de estudio del
+
+Sistema Educativo Nacional, por cambio
+
+de situación jurídica de la persona 1.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 59 Bis 1.
+
+Por los servicios prestados en la Universidad Pedagógica Nacional, Unidad 061 se pagarán los derechos siguientes:
+
+NÚMERO
+
+DE DÍAS
+
+DE SALARIO
+
+MÍNIMO
+
+I.- Por el derecho a examen de admisión:
+
+a).- Licenciatura 9.780
+
+b).- Maestría 9.780
+
+II.- Por inscripción:
+
+a).- Licenciatura 19.550
+
+b).- Maestría en Educación Básica 39.190
+
+c).- Maestría en Educación,
+
+Campo Innovación Educativa 60.280
+
+d).- Diplomado en Línea de la
+
+Reforma Integral en Educación Básica 40.730
+
+III.- Por reinscripción:
+
+a).- Licenciatura 19.550
+
+b).- Maestría en Educación Básica 39.190
+
+c).- Maestría en Educación,
+
+Campo Innovación Educativa 60.280
+
+IV.- Por exámenes profesionales:
+
+a).- Licenciatura 20.360
+
+b).- Maestría 30.550
+
+V.- Proceso de titulación 9.780
+
+VI.- Por expedición de duplicado
+
+de certificado de estudios 1.630
+
+VII.- Por expedición de duplicado
+
+de constancia de estudio 0.810
+
+VIII.- Por expedición de duplicado
+
+de credencial de estudiante 0.810
+
+IX.- Por copia fotostática 0.010
+
+X.- Por impresión a color 0.070
+
+XI.- Por impresión en tinta negra 0.050
+
+XII.- Por Scanner por hoja 0.030
+
 ###### Artículo 60.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
@@ -3647,369 +3601,163 @@ y operativa, de establecimientos de servicios de salud. 45.000
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
+### CAPÍTULO VII QUATER. SERVICIOS PRESTADOS POR El INSTITUTO PARA EL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
-
-### CAPITULO IX. Otros Derechos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 62 Bis 3.
 
-Por los servicios prestados en la Dirección del Registro del Territorio.
+Por los servicios prestados en el Instituto para el Medio Ambiente y Desarrollo Sustentable, se pagarán los derechos siguientes:
 
-I.- Por cada asignación o punto de coordenadas geodésicas 10.000
+NUMERO DE DÍAS DE
 
-II.- Informes catastrales relacionados con los predios registrados,
+SALARIO MÍNIMO
 
-a solicitud de los interesados:
+I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 30.000
 
-1.- Certificado 1.800
+Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
 
-2.- Sin Certificar 1.000
+II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
-III.- Por cartografía a escala 1:1,000 en forma digital de las
+1.- En su modalidad MIA-1 70.000
 
-distintas manchas urbanas:
+2.- En su modalidad MIA-2 120.000
 
-1.- Archivos DXF (manzanas, predios y nomenclaturas de calles) 75.000
+III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del resolutivo o ampliación de vigencia:
 
-2.- Por cada capa adicional 20.000
+1.- En su modalidad de informe de factibilidad 10.000
 
-IV.- Por la impresión de archivos digitales:
+2.- En su modalidad MIA-1 20.000
 
-a).- Plano general a diferentes escalas:
+3.- En su modalidad MIA-2 30.000
 
-1.- Graficado y certificado incluyendo manzanas, predios y calles 8.000
+4.- En su modalidad de diagnóstico ambiental 40.000
 
-2.- Por cada impresión de hasta 1.10 X 0.84 mts. 8.000
+5.- En su modalidad de riesgo ambiental 20.000
 
-3.- Por cada capa adicional al plano general 2.500
+IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 70.000
 
-4.- Por cada impresión de hasta 1.10 X 0.84 mts. 2.500
+V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico ambiental o informes de factibilidad, anualmente:
 
-b.- Por la expedición de planos de predios urbanos con medidas,
+1.- Por la inscripción 260.000
 
-superficies y nombre de calles:
+2.- Por el refrendo 160.000
 
-1.- Sin nombre de colindantes. 3.600
+VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
-2.- Con nombres de colindantes. 4.600
+VII.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de diagnóstico ambiental en materia de impacto ambiental 150.000
 
-c).- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
+VIII.- Poda o derribo de árboles:
 
-1.- Manzanas, predios y nombre de calles. 5.000
+1.- Especies comerciales e industriales:
 
-2.- Predios rústicos, vías de comunicación, hidrografía. 5.000
+1.1.- Por poda 1.000
 
-3.- Por cada nombre de colindante o propietario. 3.480
+1.2.- Por derribo:
 
-d).- Por cartografía en formato digital por cada mancha urbana
+a).- Arboles hasta 30 cm. de diámetro
 
-que incluya:
+del fuste principal 2.000
 
-1.- Archivo en formato “Shape”, manzanas y predios. 100.000
+b).- Arboles de 31 hasta 50 cm. de diámetro
 
-2.- Por cada capa adicional. 50.000
+del fuste principal 3.000
 
-e).- Por cartografía a escala 1:1,000 en formato digital de los
+c).- Arboles de 51 hasta 70 cm. de diámetro
 
-distintos polígonos ejidales parcelarios o solares, así como de
+del fuste principal 6.000
 
-los predios de pequeña propiedad por municipio:
+d).- Arboles de 71 hasta 90 cm. de diámetro
 
-1.- Archivos en formatos DXF (predios) 75.000
+del fuste principal 10.000
 
-2.- Por cada capa adicional 20.000
+e).- Arboles de 91 hasta 120 cm. de diámetro
 
-f).- Por cartografía en formato digital por cada polígono ejidal
+del fuste principal 15.000
 
-parcelario o solar, así como de predios de pequeña propiedad
+f).- Arboles de 121 o más cm. de diámetro
 
-por municipio:
+del fuste principal 25.000
 
-1.- Archivos en formatos SHAPE (predios) 100.000
+No se pagará el derecho a que se refiere esta fracción, cuando el Instituto dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
 
-2.- Por cada capa adicional 50.000
+IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal:
 
-g).- Por búsqueda en los archivos históricos catastrales 7.500
+1.- Por la recepción y evaluación 10.000
 
-h).- Por cartografía en formato digital en archivo de formato PDF:
+2.- Por el otorgamiento de la licencia 5.000
 
-1.- Por mancha urbana (manzanas, predios y nomenclaturas
+X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal:
 
-de calles) 37.500
+1.- Por la recepción y evaluación 10.000
 
-2.- Por cada capa adicional en mancha urbana 10.000
+2.- Por el otorgamiento de la licencia 5.000
 
-3.- Por cada Polígono ejidal parcelario o solar, así como de
+XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la
 
-predios de pequeña propiedad por municipio 37.500
+reutilización o reciclaje de residuos sólidos:
 
-4.- Por cada capa adicional de polígonos parcelarios, solares o
+1.- Por la recepción y evaluación 5.000
 
-predios de la pequeña propiedad 10.000
+2.- Por el otorgamiento de la autorización 2.000
 
-V.- Por el uso de puntos de lared (sic) geodésica estatal:
+XII.- Por la expedición del certificado
 
-a).- Por documento impreso o digital de uno o varios puntos del
+de bajas emisiones 12.000
 
-conjunto vértices geodésicos, distribuidos en el territorio estatal,
+XIII.- Por la expedición de copias certificadas
 
-que proporcionan servicios de posicionamiento geodésico mediante
+de las actuaciones que obren en los expedientes
 
-datos en línea y coordenadas en el marco oficial vigente.
+administrativos:
 
-1.- Por punto geodésico 2.000
+1.- Por la primer hoja o actuación 0.500
 
-VI.- Georreferenciación de mapa o plano:
+2.- Por cada hoja, actuación o fracción
 
-a).- Por cada imagen georreferenciada del plano o mapa y archivo de
+siguiente a la primera 0.040
 
-metadatos en base a la norma vigente INEGI 1.350
+XIV.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ":
 
-VII.- Digitalización de información del plano o mapa:
+1.- Alberca, por niño con derecho a tobogán 0.200
 
-a).- Por la digitalización del contenido del mapa o plano, incluye capa
+2.- Alberca, por adulto con derecho a tobogán 0.250
 
-(s) vectorial (es) que conforman el plano o mapa:
+3.- Ingreso por niño a zona de bosque 0.063
 
-1.- Por cada capa vectorial. 6.000
+4.- Ingreso por adulto a zona de bosque 0.095
 
-b).- Escaneo de plano o mapa de diferentes formatos y entrega de
+5.- Por uso de espacio en bosque o
 
-archivos:
+albercas para fiesta infantil 5.250
 
-1.- Tamaño carta, oficio y doble carta 1.500
+XV.- Por la recepción y evaluación de la solicitud y otorgamiento
 
-2.- Tamaño mayor hasta 90 X 60 cm 2.500
+del dictamen de congruencia de factibilidad de uso de suelo
 
-VIII.- Impresión de plano o mapa.
+en materia de ordenamiento ecológico 10.000
 
-a).- Plano general a diferentes escalas:
+XVI.- Por la recepción, evaluación y otorgamiento
 
-1.- Incluyendo objetos territoriales 8.000
+de la cédula de operación anual a las fuentes fijas
 
-2.- Por cada impresión hasta de 1.10 X 0.84 Mts. 8.000
+de jurisdicción estatal 10.000
 
-3.- Por cada capa adicional al plano general. 2.500
+XVII.- Por la recepción, evaluación y otorgamiento de
 
-b).- Por expedición de planos referidos en la superficie territorial del
+la resolución de la determinación del plan de manejo de
 
-Estado de Colima:
+residuos especiales 15.000
 
-1.- Con objetos territoriales 4.600
+XVIII.- Por la revalidación de la resolución del plan de
 
-c).- Por cada impresión simple de planos en tamaño carta u oficio
+manejo de residuos especiales 5.000
 
-que incluya:
-
-1.- Objetos territoriales 5.000
-
-2.- Vías de comunicación, hidrografía, glorietas, monumentos,
-
-etc. 5.000
-
-3.- Por cada objeto territorial 1.000
-
-d).- Por cartografía a escala 1:1,000 en formato digital de los
-
-distintos polígonos establecido en la superficie territorial del
-
-Estado de Colima, por municipio
-
-1.- Archivos en formato DXF. 5.000
-
-2.- Por cada capa adicional 15.000
-
-e).- Por cartografía en formato digital por cada polígono establecido
-
-en la superficie territorial del Estado de Colima, por municipio
-
-1.- Archivos en formato SHAPE. 100.000
-
-2.- Por cada capa adicional. 50.000
-
-f).- Por cartografía en formato digital en archivo en formato PDF
-
-1.- Por municipio del Estado de Colima 37.500
-
-2.- Por cada capa adicional 100.000
-
-3.- Por cada polígono establecido en la superficie del Estado de
-
-Colima 37.500
-
-4.- Por cada capa adicional de polígonos establecidos en la
-
-superficie del Estado de Colima, por municipio 10.000
-
-IX.- Levantamiento geodésico y topográfico:
-
-a).- Por levantamiento y trabajos de planimetría en terreno Plano -
-
-Lomerío de 1 a 1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 20.50
-
-2.- Por máximo desde 1000 hectáreas 1,862.000
-
-b).- Por levantamiento y trabajos de planimetría en terreno
-
-Montañoso de 1 a 1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 34.000
-
-2.- Por máximo desde 1000 hectáreas 1,946.500
-
-c).- Por levantamiento y trabajos de planimetría y
-
-configuracióntopográfica (sic) en terreno Plano - Lomerío de 1 a
-
-1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 34.000
-
-2.- Por máximo desde 1000 hectáreas 2,623.500
-
-d).- Por levantamiento y trabajos de planimetría y configuración
-
-topográfica en terreno montañoso de 1 a 1000hectáreas (sic).
-
-1.- Como mínimo desde 1 hectárea 67.700
-
-2.- Por máximo desde 1000 hectáreas 6,601.000
-
-X.- Certificación de levantamiento geodésico y topográfico:
-
-a).- Por levantamiento y trabajos de planimetría en terreno Plano -
-
-Lomerío de 1 a 1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 20.500
-
-2.- Por máximo desde 1000 hectáreas 1,862.000
-
-b).- Por levantamiento y trabajos de planimetría en terreno
-
-Montañoso de 1 a 1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 34.000
-
-2.- Por máximo desde 1000 hectáreas 1,946.500
-
-c).- Por levantamiento y trabajos de planimetría y configuración
-
-topográfica en terreno Plano - Lomerío de 1 a 1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 34.000
-
-d).- Por levantamiento y trabajos de planimetría y configuración
-
-topográfica en terreno montañoso de 1 a 1000 hectáreas.
-
-1.- Como mínimo desde 1 hectárea 67.700
-
-2.- Por máximo desde 1000 hectáreas 6,601.000
-
-XI.- Disposición vía Web de Mapa Base
-
-a).- Disposición vía web para uso restringido (Consulta) de
-
-capas de información del Mapa base
-
-1.- Disposición por mes 6.000
-
-XII.- Expedición de cartas geográficas.
-
-a).- Para la expedición de la información territorial en cuanto
-
-a los límites, superficie y capas de información.
-
-1.- Por cada capa del mapa base Estatal 6.000
-
-XIII.- Registro de peritos valuadores:
-
-1.- Por los derechos de registro y expedición de credencial de
-
-perito valuador. 30.000
-
-2.- Refrendo 20.000
-
-XIV.- Todo trámite solicitado y realizado vía WEB en las diferentes
-
-direcciones del Instituto para el Registro del Territorio, se cobrará
-
-un salario mínimo menos del costo total de dicho trámite
-
-XV.- Por impresión de la Cedula Territorial con información general
-
-de un objeto territorial 4.000
-
-XVI.- Por las asesorías que se realicen por parte del Instituto
-
-a).- Asesoría en generación y uso de metadatos geográficos
-
-(4 horas) 41.000
-
-b).- Asesoría en Arcgis nivel básico (12 horas) 142.000
-
-c).- Asesoría en Arcgis nivel medio (12 horas) 203.000
-
-d).- Asesoría en Arcgis nivel avanzado (12 horas) 244.000
-
-e).- Asesoría en Autocad (civilcad) nivel básico (10 horas) 102.000
-
-f.-) (sic) Asesoría en Autocad (civilcad) nivel medio
-
-(10 horas) 135.000
-
-g).- Asesoría en Autocad (civilcad nivel avanzado (10 horas) 169.000
-
-h).- Asesoría en normatividad vigente (5 horas) 51.000
-
-i).- Asesoría en el uso y tratamiento de imágenes (16 horas) 406.000
-
-j).- Asesoría en el manejo de GPS (8 horas) 203.000
-
-k).- Asesoría en manejo de estación total (8 horas) 162.000
-
-l).- Asesoría en el uso y manejo de navegador (8 horas) 122.000
-
-m).- Asesoría en la interpretación de la norma ISO 9000
-
-(15 horas) 80.000
-
-n).- Asesoría en la aplicación de la norma ISO 9001 (15 horas) 90.000
-
-ñ).- Asesoría en la generación de planes y procesos de calidad
-
-(20 horas) 120.000
-
-o).- Asesoría en generación de indicadores de calidad (15 horas) 80.000
-
-p).- Asesoría en el uso manejo de documentos de calidad
-
-(15 horas) 90.000
-
-q).- Asesoría en la formación del coordinación de calidad
-
-(20 horas) 120.000
-
-r).- Asesoría en la generación de manuales de organización
-
-(15 horas) 80.000
-
-s).- Asesoría en manejo del sistema integral de gestión registral
-
-(SIGER) (20 horas) 102.000
-
-t).- Asesoría en manejo del sistema web del Instituto (20 horas) 102.000
-
-u).- Asesoría en instalación de redes y adquisición de equipos
-
-(20 horas) 102.000
-
-v).- Asesoría en herramientas informáticas (20 horas) 102.000
+No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII de este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
 (REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
@@ -4639,9 +4387,13 @@ el siguiente derecho:
 
 - Por cada 200 kilómetros recorridos 20.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+### CAPITULO IX. Otros Derechos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
 
@@ -4653,15 +4405,17 @@ Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas 
 
 Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa:
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-1.- Arena y grava, por cada cien metros cúbicos que se extraigan $120.00
+Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa, misma que se encuentra expresada en unidades de salario mínimo diario del Estado de Colima.
 
-2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan $200.00
+1.- Arena y grava, por cada cien metros cúbicos que se extraigan 3.000
 
-3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan $200.00
+2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan 5.000
+
+3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan 5.000
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -4692,10 +4446,6 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -4799,6 +4549,14 @@ V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2012)
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
+
+## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
@@ -4806,10 +4564,6 @@ V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2012)
 Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -4819,13 +4573,13 @@ Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recu
 
 ### CAPITULO UNICO
 
+## TITULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
+
 ### CAPITULO UNICO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-## TITULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
 ###### Artículo 65.
 
@@ -4959,11 +4713,13 @@ Los gastos de ejecución y los honorarios por notificación que se recauden, se 
 
 Para determinar las contribuciones y demás conceptos de ingreso que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso; no obstante, para efectuar su pago, el monto se ajustará a la unidad de peso mas próxima.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 78.
 
-En la prestación de servicios de inscripción de documentos, de gravámenes, de operaciones de crédito, de fraccionamientos y relotificación de los mismos por parte de la Dirección del Registro Público de la Propiedad y del Comercio, cuando el objeto sea la promoción y enajenación de viviendas con valor de hasta el equivalente a 16.1 días de salario mínimo general de la zona económica del Estado de Colima elevado al año, o de lotes con servicios y que en cualquiera de los casos, la superficie del terreno no exceda de 120 metros cuadrados, se causarán los derechos previstos en el artículo 52 de esta Ley, aplicando a la cantidad que resulte de multiplicar el importe del salario mínimo por el número de unidades que señale la fracción o inciso correspondiente, el factor de 0.20.
+En la prestación de servicios de inscripción de documentos, de gravámenes, de operaciones de crédito, de fraccionamientos y relotificación de los mismos por parte de la Dirección del Registro Público de la Propiedad y del Comercio, cuando el objeto sea la promoción y enajenación de viviendas con valor de hasta el equivalente a 16.1 días de salario mínimo general del Área Geográfica del Estado de Colima elevado al año, o de lotes con servicios y que en cualquiera de los casos, la superficie del terreno no exceda de 120 metros cuadrados, se causarán los derechos previstos en el artículo 52 de esta Ley, aplicando a la cantidad que resulte de multiplicar el importe del salario mínimo por el número de unidades que señale la fracción o inciso correspondiente, el factor de 0.20.
 
 ## TRANSITORIOS
 
@@ -5404,3 +5160,33 @@ SEGUNDO.- La Dirección General de Transporte y de la Seguridad Vial tendrá un 
 TERCERO.- En plano respeto a su esfera de competencia, los diez Ayuntamientos de la entidad, contarán con un término de 6 meses para que en uso de sus atribuciones adecúen sus reglamentos municipales de tránsito y vialidad en términos del presente Decreto a partir de su vigencia.
 
 CUARTO.- Para efectos del cumplimiento del presente Decreto, con respecto a la reforma del primer párrafo del artículo 102 de la Ley del Transporte y de la Seguridad Vial del Estado de Colima, sólo las concesiones del servicio de transporte público que se otorguen a partir de la vigencia de este Decreto, serán por una temporalidad inicial de diez años contados a partir de su otorgamiento, cumpliendo con la renovación de la misma cada cinco años.
+
+P.O. 30 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Durante el ejercicio fiscal 2014, se otorga un estímulo fiscal en el pago del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por dicho ejercicio, a las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, respecto de las unidades vehiculares inscritas en el Registro Público Vehicular del Estado en el ejercicio 2013 o anteriores, consistente en un subsidio del 100%, siempre que se cumpla con los requisitos siguientes:
+
+a).- No tener adeudos del ejercicio 2013 y anteriores, por cualquiera de los conceptos siguientes:
+
+1).- Impuestos, derechos y aprovechamientos estatales;
+
+2).- Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, incluyendo los créditos fiscales cuya recuperación tiene a su cargo el Gobierno del Estado de Colima por virtud del Anexo Núm. 18 a dicho Convenio, aunque su pago deba realizarse a la Tesorería de la Federación; y
+
+3).- Impuesto Predial y Derechos por los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento, con cualesquiera de los Municipios y Organismos Operadores en la Entidad.
+
+b).- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2014 que resulte procedente, se efectúe de enero a marzo de dicho año.
+
+Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero.
+
+TERCERO.- Durante el ejercicio fiscal 2014, se otorga un estímulo fiscal en el pago del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por dicho ejercicio, a las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, respecto de las unidades vehiculares que se inscriban-en el Registro Público Vehicular del Estado en el ejercicio fiscal 2014, consistentes en un subsidio en los términos del Transitorio Segundo, primer párrafo del presente Decreto, siempre que cumplan con los siguientes requisitos:
+
+I.- Que hubieran adquirido vehículos nuevos o importados entre los días 10 y 31 de diciembre del 2013, sin que los mismos se hubieran inscrito en el Registro Público Vehicular del Estado en dicho periodo;
+
+II.- Que adquieran vehículos nuevos o importados durante el ejercicio fiscal 2014; y
+
+III.- Que la inscripción en el Registro Público Vehicular del Estado, de los vehículos señalados en las fracciones anteriores de este Transitorio, se realice dentro de los 15 días hábiles siguientes a la fecha de su adquisición y cumplan con el requisito señalado en el Transitorio Segundo, segundo párrafo, inciso a) y sus numerales 1, 2 y 3, del presente Decreto.
+
+Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero.
+
+CUARTO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios y Trámites Electrónicos, durante el año 2014 el monto se ajustará a la decena de pesos inferior más próxima.
