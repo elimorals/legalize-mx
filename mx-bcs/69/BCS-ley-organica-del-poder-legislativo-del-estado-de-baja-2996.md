@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2013-06-10"
+last_updated: "2013-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1147,7 +1147,7 @@ XXVII.- DE CULTURA Y ARTES:
 
 a).- El desarrollo de la cultura y las artes en el Estado de Baja California Sur y sus Municipios:
 
-b).- La conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
+b).- La conservación, el fomento y estÍmulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
 
 c).- Los relativos a la protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y municipios;
 
@@ -1393,7 +1393,7 @@ VIII.- Las demás que acuerden la Asamblea, la Comisión de Cuenta y Administrac
 
 IX.- Las adquisiciones, los arrendamientos, la prestación de servicios y la obra pública que excedan los $ 50,000.00 (Cincuenta Mil Pesos 00/100 M.N.) se adjudicarán por regla general mediante licitación pública o subasta electrónica para asegurar al congreso, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, y oportunidad.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE MARZO DE 2008)</small>
 
 ### CAPITULO X
 
@@ -1983,7 +1983,7 @@ Cuando algún Diputado de los que hayan solicitado la palabra, no estuviere en l
 
 ###### ARTICULO 132.
 
-Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
 
 ###### ARTICULO 133.
 
@@ -2297,7 +2297,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pie.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2343,9 +2343,11 @@ DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLA
 
 A las Sesiones que no tengan carácter de sesiones privadas podrá concurrir el público que desee presenciarlas, instalándose en las galerías; pero deberá prohibirse la entrada a quienes se encuentren armados o en estado de ebriedad. El Congreso se reserva la facultad de limitar el acceso de concurrentes, mediante tarjetas o invitaciones que se expidan para la entrada y cuya distribución quedará a cargo de la Oficialía Mayor, previo acuerdo de la asamblea.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 191.
 
-El Público asistente deberá guardar respeto y abstenerse de tomar parte en los debates con cualquiera demostración. El Presidente estará facultado para desalojar el Recinto, cuando en alguna forma se perturbe el orden, sin perjuicio de la facultad que le corresponde, para ordenar la detención y consignación de los responsables, en caso de que los hechos que provoquen el desorden, constituyeren delito.
+El Público asistente deberá guardar respeto y abstenerse de tomar parte en los debates con cualquiera demostración. Cuando alguno o algunos de los asistentes a las sesiones de esta representación popular perturben el orden o impidan el buen desarrollo de las sesiones, el Presidente de la Mesa Directiva podrá declarar un receso, debiéndose reanudar la sesión cuando se restablezca el orden, en cuyo caso, por acuerdo de la Mesa Directiva, se podrá continuar la sesión con las seguridades debidas para garantizar la ininterrupción de la misma. El Presidente estará facultado para desalojar el Recinto, cuando en alguna forma se perturbe el orden, sin perjuicio de la facultad que le corresponde, para ordenar la detención y consignación de los responsables, en caso de que los hechos que provoquen el desorden, constituyeren delito.
 
 ### CAPITULO I
 
@@ -2517,7 +2519,7 @@ DISPOSICIONES GENERALES.
 
 ## TITULO OCTAVO. DE LA ENTREGA-RECEPCION
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ### CAPITULO SEGUNDO
 
@@ -2617,7 +2619,7 @@ La representación del Poder Legislativo radicará en la Diputación Permanente,
 
 Al final de su ejercicio, la Diputación Permanente entregará a la Directiva del período que se inicia, un informe por escrito y detallado de los trabajos realizados, así como un inventario que contenga los expedientes de iniciativas, oficios, memoriales, comunicaciones y demás documentos turnados durante su ejercicio. Quién informe al pleno, deberá abstenerse de emitir opinión alguna sobre los asuntos mencionados.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ## TITULO NOVENO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACION
 
@@ -3110,3 +3112,13 @@ PRIMERO.- El presente decreto será publicado en el Boletín Oficial del Gobiern
 SEGUNDO.- El H. Congreso del Estado de Baja California Sur, por votación del pleno en sesión privada, nombrará al Director o Directora del Instituto de Estudios Legislativos, dentro de los 30 días siguientes de la entrada en vigor del presente decreto.
 
 TERCERO.- El Instituto de Estudios Legislativos, deberá elaborar su reglamento correspondiente dentro de los 90 días siguientes de la entrada en vigor del presente decreto, el cual deberá ser aprobado por la mayoría del pleno del H. Congreso del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
