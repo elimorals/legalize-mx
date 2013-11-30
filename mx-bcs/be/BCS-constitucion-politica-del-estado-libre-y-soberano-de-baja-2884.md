@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-09-13"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -157,13 +157,19 @@ Las Leyes locales organizarán el patrimonio familiar, determinando los bienes q
 
 El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá, en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el Artículo 123 de la Constitución General de la República.
 
-> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-13.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
+13.- Todos los habitantes del Estado tienen derecho a una alimentación nutritiva, suficiente y de calidad, a la protección de la salud, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
 Las leyes aplicables definirán las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
 Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 
@@ -174,6 +180,34 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 > <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)</small>
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+Todos los habitantes del Estado tienen derecho a disfrutar de una vivienda digna, de calidad y sustentable, que sea la base de su patrimonio familiar, como objetivo de la permanente superación del nivel de vida de la población. Para tal efecto el Gobierno del Estado y los Gobiernos Municipales, deberán implementar políticas y programas de acceso a la vivienda; desarrollaran planes de financiamiento para la construcción de viviendas de interés social, en colaboración con el Gobierno Federal; inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones aplicables; y deberán garantizar la dotación de servicios públicos, en coordinación con los Municipios.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+El Estado desarrollará políticas para la prevención y atención de las personas con discapacidad. Promoverá la integración social y laboral, la equiparación de oportunidades y la igualdad de condiciones para las personas con discapacidad, a fin de alcanzar el máximo desarrollo de su personalidad.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+El Estado en los términos que disponga la ley reconoce el derecho de las personas con discapacidad a:
+
+I. La atención sanitaria especializada acorde con sus necesidades, que incluirá la provisión de medicamentos y la atención psicológica, de forma gratuita.
+
+II. La rehabilitación integral y la asistencia permanente.
+
+III. Acceder al trabajo remunerado y socialmente útil en condiciones de igualdad.
+
+IV. Obtener descuentos en los servicios públicos y lugares adecuados en transporte colectivo y espectáculos.
+
+V. Beneficiarse de descuentos y exenciones fiscales.
+
+VI. Acceso a educación, que desarrolle sus habilidades, potencie su integración y participación en la sociedad.
+
+VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a sus requerimientos específicos.
+
+VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -3182,3 +3216,7 @@ SEGUNDO.- La XIII Legislatura del Congreso del Estado en coordinación con los M
 B.O. 13 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente decreto entrara en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2013.
+
+UNICO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
