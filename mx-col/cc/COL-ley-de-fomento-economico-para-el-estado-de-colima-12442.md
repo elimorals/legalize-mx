@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2013-08-17"
+last_updated: "2013-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -63,7 +63,9 @@ La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de 
 
 Para los efectos de esta Ley se entiende por:
 
-a) LEY: A la Ley de Fomento Económico;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+a) LEY: A la Ley de Fomento Económico para el Estado de Colima;
 
 b) SECRETARIA: A la Secretaría de Fomento Económico;
 
@@ -133,9 +135,15 @@ XXI.- Estimular los programas de capacitación, productividad y calidad total de
 
 XXII.- Promover la participación del Estado en eventos nacionales e internacionales que permitan difundir las oportunidades de negocio e inversión que ofrece el Estado de Colima;
 
-XXIII.- Impulsar el establecimiento de las industrias maquiladoras de exportación; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-XXIV.- Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos en la presente Ley.
+XXIII.- Impulsar el establecimiento de las industrias maquiladoras de exportación;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XXIV.- Incentivar la generación de empleos para personas mayores de 45 años de edad, y
+
+XXV.- Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos en la presente Ley.
 
 ### CAPITULO II. DE LAS EMPRESAS SUJETAS A FOMENTO
 
@@ -171,9 +179,19 @@ c) En programas de crecimiento, consolidación y diversificación de proveedores
 
 d) De instrumentación de programas permanentes de investigación y de avance científico o tecnológico;
 
-e) De promoción de una cultura de la calidad mediante acciones de normalización, certificación y verificación; y
+e) De promoción de una cultura de la calidad mediante acciones de normalización, certificación y verificación; y (sic)
 
 f) De impulso, diversificación e incremento de programas de inversión en la capacitación y adiestramiento de recursos humanos
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+g) Empresas que cuenten con una política de contratación que contemple puestos específicamente destinados a personas mayores de 45 años de edad.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 6o Bis.
+
+Las empresas a que se refiere el inciso g) del párrafo segundo del artículo anterior, para ser sujetas a los incentivos y apoyos del Gobierno del Estado, deberán brindar a los empleados mayores de 45 años, las mismas prestaciones de ley que al resto de sus trabajadores, y contratos a término indefinido.
 
 ### CAPITULO III. DE LOS INCENTIVOS Y APOYOS A LAS EMPRESAS
 
@@ -287,9 +305,15 @@ VIII.- Desarrollo tecnológico;
 
 IX.- Volumen de exportaciones:
 
-X.- Integración y fortalecimiento de cadenas productivas; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-XI.- Incorporación al Programa de Proveedores de la entidad.
+X.- Integración y fortalecimiento de cadenas productivas;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XI.- Inclusión de trabajadores mayores a 45 años de edad, y
+
+XII.- Incorporación al Programa de Proveedores de la entidad.
 
 Las bases que se fijen para el otorgamiento y ejecución de incentivos indicarán, adicionalmente, las obligaciones a cumplir por parte de las empresas que gocen de los beneficios que otorga la presente Ley, así como las sanciones a las que se harán acreedoras cuando no cumplan con lo convenido o que simulen acciones para merecer los incentivos.
 
@@ -409,7 +433,9 @@ II.- El Secretario de Fomento Económico, quien fungirá como Secretario Ejecuti
 
 III.- Doce vocales que serán:
 
-a).- Los Secretarios de Planeación, de Finanzas, de Turismo, de Desarrollo Urbano y de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+a).- Los Secretarios de Planeación, de Finanzas y Administración, de Turismo, de Desarrollo Urbano y de Desarrollo Rural;
 
 b).- Cinco representantes del sector privado, que a convocatoria del Presidente del Consejo, serán propuestos por los organismos empresariales y de productores. Durarán en su cargo un año, pudiendo ser ratificados por un período más; y
 
@@ -465,9 +491,13 @@ XV.- Proponer modificaciones a la operación, en áreas del gobierno estatal y m
 
 XVI.- Orientar los objetivos y estrategias de fomento económico para la elaboración de planes y programas de los sectores productivos de la entidad;
 
-XVII.- Expedir su reglamento interior, y
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-XVIII.- Las demás que se deriven de esta Ley.
+XVII.- Promover el empleo de personas mayores de 45 años de edad en las empresas colimenses;
+
+XVIII.- Expedir su reglamento interior, y
+
+XIX.- Las demás que se deriven de esta Ley.
 
 ###### ARTICULO 24.
 
@@ -553,15 +583,21 @@ II.- Secretaría de Planeación del Gobierno del Estado;
 
 III.- Secretaría de Desarrollo Urbano del Gobierno del Estado;
 
-IV.- Secretaría de Finanzas del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-V.- Secretaría de la Contraloría de Gobierno del Estado;
+IV.- Secretaría de Finanzas y Administración del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+V.- Contraloría General del Gobierno del Estado;
 
 VI.- Banco Nacional de Comercio Exterior;
 
 VII.- Nacional Financiera;
 
-VIII.- Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+VIII.- Secretaría de Economía;
 
 IX.- Secretaría de Comunicaciones y Transportes;
 
@@ -571,13 +607,21 @@ XI.- Secretaría de Hacienda y Crédito Publico;
 
 XII.- Secretaría de Desarrollo Social;
 
-XIII.- Secretaría del Medio Ambiente, Recursos Naturales y Pesca;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-XIV.- Dirección Estatal de Ecología;
+XIII. - Secretaría de Medio Ambiente y Recursos Naturales;
 
-XV.- Procuraduría del Medio Ambiente;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-XVI.- Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+XIV.- Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XV.- Delegación de la Procuraduría Federal de Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XVI.- Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 XVII.- Secretaría de Desarrollo Rural del Gobierno del Estado;
 
@@ -661,7 +705,9 @@ Independientemente de las sanciones administrativas establecidas en las fraccion
 
 En caso de que se determine la cancelación o suspensión de los incentivos o apoyos, además de las sanciones antes señaladas, el infractor que hubiese gozado de los beneficios otorgados, deberá reintegrar al Estado el importe de los bienes, costos de infraestructura, de capacitación y adiestramiento, así como otros beneficios que hubieran representado algún costo para la entidad que hubiere concedido dichos incentivos, considerando el valor comprobado de los mismos, más sus intereses y demás accesorios.
 
-Asimismo, el infractor que hubiere gozado de los beneficios de la fracción I del artículo 7 de la presente Ley, deberá pagar a la Secretaría de Finanzas, las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en las leyes fiscales aplicables, tomando en cuenta para calcularlos, las fechas en que deberían haberse pagado, de no haberse resuelto favorablemente su solicitud de incentivo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+Asimismo, el infractor que hubiere gozado de los beneficios de la fracción I del artículo 7 de la presente Ley, deberá pagar a la Secretaría de Finanzas y Administración, las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en las leyes fiscales aplicables, tomando en cuenta para calcularlos, las fechas en que deberían haberse pagado, de no haberse resuelto favorablemente su solicitud de incentivo.
 
 ###### ARTICULO 42.
 
@@ -687,9 +733,11 @@ La Secretaría procederá a determinar cuáles pruebas son de admitirse, conside
 
 Una vez desahogadas las pruebas o cuando la empresa no hubiere comparecido a defender sus derechos en el plazo concedido, la Secretaría notificará a la empresa la resolución definitiva, en un plazo no mayor de tres días hábiles.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### ARTICULO 46.
 
-La Secretaría fundará y motivará su resolución, debiendo comunicarla a la Secretaría de Finanzas del Gobierno del Estado para que proceda al cobro de la misma, mediante el procedimiento económico coactivo.
+La Secretaría fundará y motivará su resolución, debiendo comunicarla a la Secretaría de Finanzas y Administración del Gobierno del Estado para que proceda al cobro de la misma, mediante el procedimiento económico coactivo.
 
 ###### ARTICULO 47.
 
@@ -734,5 +782,9 @@ P.O. 30 DE ABRIL DE 2005.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 17 DE AGOSTO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
