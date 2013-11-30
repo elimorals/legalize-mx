@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2012-07-31"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -147,7 +147,9 @@ XXVI. Policía Municipal.- Policia Preventiva Municipal;
 
 XXVII. Registros: El Registro de las Instituciones de Seguridad Pública, Registro de Instituciones de Servicios de Seguridad Privada, Registro de Identificación de Personas, Registro de Detenciones, Registro de Mandamientos Judiciales y Procedimientos Jurisdiccionales, Registro de Sentenciados, Registro de Personal de Seguridad Pública y Organismos Auxiliares, Registro de Huellas Dactilares, Registro de Armamento y Equipo, Registro de Personas Desaparecidas o Secuestradas, Registro de Vehículos Robados y Recuperados, Registro Publico Vehicular; así como cualquier otro registro que se cree co (sic) el objeto del cumplimiento de la presente Ley;
 
-XXVIII. Secretaría: La Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XVIII (SIC). Subsecretaría: La Subsecretaría de Seguridad Pública del Estado;
 
 XXIX. Secretario Ejecutivo: El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública; y
 
@@ -187,7 +189,9 @@ La aplicación de esta Ley corresponde a las Instituciones de Seguridad Pública
 
 La seguridad pública comprende las acciones que realizan:
 
-l. La Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+I. La Subsecretaría de Seguridad Pública del Estado;
 
 II. Las Instituciones Policiales;
 
@@ -225,7 +229,9 @@ II. El Consejo Estatal de Seguridad Pública;
 
 III. El Secretario General de Gobierno;
 
-IV. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IV. El Subsecretario de Seguridad Pública;
 
 V. El Procurador General de Justicia;
 
@@ -247,17 +253,23 @@ l. Ejercer el mando de las Instituciones Policiales en los términos de la Const
 
 II. Proponer ante el Consejo Estatal de Seguridad Pública el Programa Estatal;
 
-III. Nombrar y remover libremente al Secretario de Seguridad Pública;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+III. Nombrar y remover libremente al Subsecretario de Seguridad Pública;
 
 IV. Emitir lineamientos para establecer mecanismos de coordinación entre las instituciones de seguridad dependientes del Gobierno del Estado, con las del orden Federal y Municipal;
 
-V. Celebrar en representación del Estado con la Federación, el Distrito Federal, las Entidades Federativas, los Municipios y con cualquier otro organismo e institución de los sectores público, privado y social, por sí o por conducto de la Secretaría, los convenios que se requieran para el mejor desarrollo de la función de Seguridad Pública en el Estado y sus Municipios, en los términos que establece la Ley General y demás disposiciones aplicables, así como suscribir con otros poderes del Estado los acuerdos que sean necesarios para tal efecto;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+V. Celebrar en representación del Estado con la Federación, el Distrito Federal, las Entidades Federativas, los Municipios y con cualquier otro organismo e institución de los sectores público, privado y social, por sí o por conducto de la Subsecretaría, los convenios que se requieran para el mejor desarrollo de la función de Seguridad Pública en el Estado y sus Municipios, en los términos que establece la Ley General y demás disposiciones aplicables, así como suscribir con otros poderes del Estado los acuerdos que sean necesarios para tal efecto;
 
 VI. Expedir los reglamentos y disposiciones administrativas relativas a la seguridad pública;
 
 VII. Establecer las medidas necesarias para la integración y funcionamiento del Sistema Estatal;
 
-VIII. Requerir al Secretario de Seguridad Pública la realización de estudios especializados sobre la seguridad pública y materias afines;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+VIII. Requerir al Subsecretario de Seguridad Pública la realización de estudios especializados sobre la seguridad pública y materias afines;
 
 IX. Presidir el Consejo Estatal de Seguridad Pública;
 
@@ -279,7 +291,9 @@ l. Un Presidente, que será el Titular del Poder Ejecutivo;
 
 II. El Secretario General de Gobierno; quien suplirá las ausencias del Presidente;
 
-III. El Secretario de Seguridad Pública del Estado; quien será el Secretario Técnico;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+III. El Subsecretario de Seguridad Pública del Estado; quien será el Secretario Técnico;
 
 IV. Los Presidentes Municipales;
 
@@ -287,9 +301,25 @@ V. El Presidente del Tribunal Superior de Justicia del Estado;
 
 VI. El Secretario de Finanzas del Estado;
 
-VII. El Procurador General de Justicia del Estado; y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-VIII. La Secretaría Ejecutiva que estará a cargo del Secretario General de Gobierno de manera directa o a través del servidor público que designe para tales efectos.
+VII. El Procurador General de Justicia del Estado;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+VIII. La Secretaría Ejecutiva que estará a cargo del Secretario General de Gobierno de manera directa o a través del servidor público que designe para tales efectos;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IX. El Presidente de la Comisión Permanente de Seguridad Pública del Congreso del Estado;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+X. El Presidente de la Comisión Estatal de Derechos Humanos; y
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XI. El Presidente del Consejo Ciudadano de Seguridad Pública del Estado.
 
 Por cada uno de los integrantes del Consejo Estatal se designará un suplente que lo sustituirá en sus ausencias, y acudirá a las sesiones con voz y voto.
 
@@ -298,6 +328,10 @@ Podrán acudir a las sesiones del Consejo Estatal, a invitación del Presidente 
 El Consejo Estatal expedirá el reglamento para su organización y funcionamiento.
 
 Los integrantes del Consejo desempeñarán su puesto de manera honorífica, por lo que no recibirán sueldo, compensación o emolumento de ninguna especie.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+En la integración del Consejo Estatal tendrán el carácter de invitados dos representantes de la sociedad civil organizada, con derecho a voz, pero no a voto, los cuales perduraran por un lapso mínimo de un año, bajo los mecanismos y formas que determine el Consejo Estatal, con posibilidad de ser nuevamente reelegidos ambos o en lo individual. El Consejo Estatal definirá el mecanismo y forma de elección, reelección o permanencia de dichos representantes.
 
 ###### Artículo 16.
 
@@ -391,11 +425,15 @@ V. Ser el enlace entre las autoridades en materia de seguridad pública de los t
 
 VI. Las demás que le asigne el Gobernador del Estado y el Consejo.
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA EN EL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE LA SUBSECRETARÍA DE SEGURIDAD PÚBLICA EN EL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 20.
 
-Son atribuciones del Secretario de Seguridad Pública:
+Son atribuciones del Subsecretario de Seguridad Pública:
 
 l. Ejecutar las órdenes que dicte el Gobernador en materia de Seguridad Pública;
 
@@ -423,13 +461,17 @@ XII. Proponer al Gobernador la creación de instancias de coordinación interins
 
 XIII. Suscribir los convenios, contratos, acuerdos, bases y demás documentos de carácter legal relacionados con la seguridad pública del Estado, que conforme a derecho sean procedentes;
 
-XIV. Nombrar y remover a los titulares de las unidades administrativas dependientes de la Secretaría, conforme a lo establecido en la presente Ley y la estructura orgánica establecida en el reglamento interior de la Secretaria de Seguridad Pública del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Nombrar y remover a los titulares de las unidades administrativas dependientes de la Subsecretaría, conforme a lo establecido en la presente Ley y la estructura orgánica establecida en el reglamento interior de la Subsecretaria de Seguridad Pública del Estado de Baja California Sur;
 
 XV. Analizar la congruencia que deban tener los proyectos de los Programas de Seguridad Pública Preventiva Municipal con el Programa Estatal en materia de seguridad;
 
 XVI. Aprobar el plan rector de formación, capacitación y profesionalización, así como los programas de actualización, adiestramiento y especialización de los integrantes de las Instituciones Policiales;
 
-XVII. Determinar los niveles de restricción de acceso a la información en materia de seguridad pública, cuando se pueda comprometer la seguridad personal de los servidores públicos de la Secretaría, la de las instituciones dependientes del Gobierno del Estado y la seguridad pública en general;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XVII. Determinar los niveles de restricción de acceso a la información en materia de seguridad pública, cuando se pueda comprometer la seguridad personal de los servidores públicos de la Subsecretaría, la de las instituciones dependientes del Gobierno del Estado y la seguridad pública en general;
 
 XVIII. Evaluar los programas y sus resultados en materia de seguridad e investigación;
 
@@ -437,7 +479,9 @@ XIX. Autorizar el registro y supervisar el funcionamiento de los servicios de se
 
 XX. Presidir el Consejo de Honor y Justicia y hacer cumplir sus resoluciones;
 
-XXI. Vigilar permanentemente el uso, existencia, condiciones y resguardo de las armas que se encuentran registradas al amparo de la licencia oficial colectiva para la portación de armas de fuego que tiene otorgada la Secretaría, además de las que tienen en comodato los Ayuntamientos;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XXI. Vigilar permanentemente el uso, existencia, condiciones y resguardo de las armas que se encuentran registradas al amparo de la licencia oficial colectiva para la portación de armas de fuego que tiene otorgada la Subsecretaría, además de las que tienen en comodato los Ayuntamientos;
 
 XXII. Acordar con los Municipios la coordinación en materia de seguridad pública;
 
@@ -517,11 +561,13 @@ El Consejo Estatal fijará las reglas para el funcionamiento de los Consejos Mun
 
 Los Consejos Municipales quedarán integrados por:
 
-l. El Presidente Municipal, que será el Presidente del Consejo;
+I. El Presidente Municipal, que será el Presidente del Consejo;
 
 II. Un representante del Consejo Estatal;
 
-III. Un representante de la Secretaría;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+III. Un representante de la Subsecretaría;
 
 IV. El regidor que presida la comisión de seguridad pública en el municipio;
 
@@ -531,13 +577,19 @@ VI. Un Secretario Ejecutivo, que será nombrado por el Consejo Municipal a propu
 
 Los integrantes de los Consejos Municipales desempeñarán su puesto de manera honorífica, por lo que no recibirán sueldo, compensación o emolumento de ninguna especie.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+En la integración de los Consejos Municipales tendrán el carácter de invitados tres representantes de la sociedad civil, con derecho a voz, pero no a voto, los cuales perduraran por un lapso mínimo de un año, bajo los mecanismos y formas que determine el Consejo Municipal a que correspondan, con posibilidad de ser nuevamente reelegidos colectivamente o en lo individual. Cada Consejo Municipal definirá el mecanismo y forma de elección, reelección o permanencia de dichos representantes, otorgando preferencia a aquellos que representen a sectores o grupos organizados.
+
 ###### Artículo 24.
 
 Los Consejos Intermunicipales quedarán integrados con:
 
-l. Los Presidentes de los municipios que lo conformen, que lo presidirán en forma alterna;
+I. Los Presidentes de los municipios que lo conformen, que lo presidirán en forma alterna;
 
-II. Un representante de la Secretaría;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+II. Un representante de la Subsecretaría;
 
 III. Un representante del Consejo Estatal;
 
@@ -599,7 +651,9 @@ Corresponde a los Titulares de las Instituciones Policiales Municipales las sigu
 
 I. Ordenar que se realice oportunamente la inscripción de los integrantes de la policía preventiva de su Municipio en el Registro Nacional de Personal de Seguridad Pública;
 
-II. Proporcionar a la Secretaría la información relacionada con la incidencia delictiva, las infracciones administrativas y la productividad de los integrantes de la Institución de Seguridad Pública Municipal;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+II. Proporcionar a la Subsecretaría la información relacionada con la incidencia delictiva, las infracciones administrativas y la productividad de los integrantes de la Institución de Seguridad Pública Municipal;
 
 III. Verificar que el personal, parque vehicular, armamento, municiones y demás equipo de seguridad, se encuentren inscritos en los Registros correspondientes;
 
@@ -661,9 +715,11 @@ Las funciones de los Ministerios Públicos, los Policías Ministeriales y Perito
 
 #### SECCIÓN SEGUNDA. DE LA POLICÍA ESTATAL PREVENTIVA
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 32.
 
-Para el cumplimiento de sus atribuciones la Secretaría se apoyará en la Policía Estatal Preventiva, con el propósito de cumplir los objetivos y fines de esta Ley y su reglamento en el ámbito de su competencia.
+Para el cumplimiento de sus atribuciones la Subsecretaría se apoyará en la Policía Estatal Preventiva, con el propósito de cumplir los objetivos y fines de esta Ley y su reglamento en el ámbito de su competencia.
 
 ###### Artículo 33.
 
@@ -679,9 +735,11 @@ b. Unidad de Investigaciones.- Coordinar al personal de su área para prevenir l
 
 c. Unidad de Operaciones.- Prevenir los delitos considerados de alto impacto que por su propia naturaleza requieran una intervención inmediata y/o sorpresiva, la cual será integrada por personal altamente calificado para la desarticulación de posibles redes delictivas, el cual se constituye para ejercer una misión específica no permanente.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 35.
 
-La Secretaría llevará un riguroso control de los mecanismos de evaluación y control de confianza de los integrantes de las unidades que conforman a la Policita Estatal Preventiva.
+La Subsecretaría llevará un riguroso control de los mecanismos de evaluación y control de confianza de los integrantes de las unidades que conforman a la Policía Estatal Preventiva.
 
 ###### Artículo 36.
 
@@ -1145,9 +1203,9 @@ Requisitos para ingresar y permanecer en el Servicio Profesional de Carrera:
 
 A. De Ingreso:
 
-(NOTA: EL 2 DE JULIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO A, FRACCIÓN I DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-I. Ser mexicano POR NACIMIENTO, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Ser mexicano, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Contar con una edad mínima de veintiún años cumplidos;
 
@@ -1215,9 +1273,11 @@ La terminación del Servicio Profesional de Carrera se sujetará a lo dispuesto 
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 65.
 
-El Centro es la unidad administrativa dependiente de la Secretaría, que tiene por objeto la evaluación y certificación de los aspirantes y del personal de las Instituciones Policiales y de Procuración de Justicia.
+El Centro es la unidad administrativa dependiente de la Subsecretaría, que tiene por objeto la evaluación y certificación de los aspirantes y del personal de las Instituciones Policiales y de Procuración de Justicia.
 
 Dicha certificación será determinada con los resultados de las evaluaciones médicas, toxicológicas, psicológicas, poligráficas, socioeconómicas y demás necesarias que se consideren en la normatividad aplicable; la cual tendrá una vigencia de dos años.
 
@@ -1231,7 +1291,9 @@ Cuando en los procesos de certificación intervengan instituciones privadas, és
 
 El Centro certificará a los aspirantes y al personal de las Instituciones Policiales y de Procuración de Justicia en los procesos de selección, permanencia y promoción conforme a los procedimientos que para el efecto establezca el Centro Nacional de Certificación y Acreditación.
 
-La Secretaría podrá celebrar convenios para la evaluación y certificación del personal de instituciones públicas y privadas, relacionadas con la función de seguridad pública.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+La Subsecretaría podrá celebrar convenios para la evaluación y certificación del personal de instituciones públicas y privadas, relacionadas con la función de seguridad pública.
 
 Los servidores públicos de las Instituciones Policiales y de Procuración de Justicia que deseen prestar sus servicios en otra corporación, ya sea en la Entidad o en algún otro Estado de la República, deberán presentar la Certificación que les haya sido expedida previamente.
 
@@ -1287,13 +1349,15 @@ Si el Municipio de que se trate cuenta con la infraestructura académica y admin
 
 El Sistema a que se refiere este Título, está regulado por la Ley de Ejecución de Sanciones y Medidas de Seguridad, y por la Ley de Justicia para Adolescentes, ambas del Estado de Baja California Sur, y tiene por objeto procurar la reinserción social del sentenciado, la adaptación social y reeducación del adolescente infractor, y prevenir en lo posible, la desadaptación social de las personas privadas de la libertad que se encuentren bajo proceso.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 74.
 
-La Secretaría a través de la Dirección General de Prevención y Reinserción Social, desarrollará programas sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte y la terapia psicológica, así como con la finalidad de alcanzar los efectos del artículo anterior.
+La Subsecretaría a través de la Dirección General de Prevención y Reinserción Social, desarrollará programas sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte y la terapia psicológica, así como con la finalidad de alcanzar los efectos del artículo anterior.
 
-La Secretaría Implementará, asimismo, a través de la Dirección de Ejecución y Seguimiento de Medidas de Tratamiento para Adolescentes, programas que tengan como finalidad que el adolescente no reitere o cometa otra conducta típica, dándole los elementos de convivencia social, a través de la educación, la capacitación, el deporte, la salud y de la realización de todas las acciones necesarias que permitan su desarrollo biopsicosocial, la mejor integración a su familia y en la sociedad, así como el desarrollo de sus capacidades, su sentido de responsabilidad y lo concerniente a efectuar los fines del artículo anterior.
+La Subsecretaría implementará, asimismo, a través de la Dirección de Ejecución y Seguimiento de Medidas de Tratamiento para Adolescentes, programas que tengan como finalidad que el adolescente no reitere o cometa otra conducta típica, dándole los elementos de convivencia social, a través de la educación, la capacitación, el deporte, la salud y de la realización de todas las acciones necesarias que permitan su desarrollo biopsicosocial, la mejor integración a su familia y en la sociedad, así como el desarrollo de sus capacidades, su sentido de responsabilidad y lo concerniente a efectuar los fines del artículo anterior.
 
-Corresponde a la Secretaría la evaluación del desempeño del personal que labora en seguridad y custodia de los Centros de Reinserción Social, y Centros de Internamiento de Adolescentes.
+Corresponde a la Subsecretaría la evaluación del desempeño del personal que labora en seguridad y custodia de los Centros de Reinserción Social, y Centros de Internamiento de Adolescentes.
 
 ###### Artículo 75.
 
@@ -1487,9 +1551,13 @@ Las resoluciones que emita el Consejo de Honor no admitirán medio de impugnaci�
 
 El Consejo de Honor se integrará por:
 
-I. El Secretario de Seguridad Pública, quien lo presidirá;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-II. Un Secretario Técnico, que será el titular del órgano interno de control de la Secretaría;
+I. El Subsecretario de Seguridad Pública, quien lo presidirá;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+II. Un Secretario Técnico, que será el titular del órgano interno de control de la Subsecretaría;
 
 III. El Procurador General de Justicia;
 
@@ -1563,9 +1631,11 @@ XVIII. Las demás que señale esta Ley y su Reglamento.
 
 Las Instituciones de Seguridad Pública están obligadas a alimentar y a mantener actualizados los registros enunciados en el presente Artículo conforme a su ámbito de competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 95.
 
-Las Instituciones de Seguridad Pública implementarán el sistema o subsistemas de registro en materia de Seguridad Pública y Procuración de Justicia, conforme lo establezca el Sistema Nacional de Seguridad Pública, el cual estará a cargo de la Secretaría, para lo cual proporcionará los medios tecnológicos idóneos y recursos materiales necesarios que permitan la concentración única de los datos que puedan ser objeto de consulta e intercambio de información.
+Las Instituciones de Seguridad Pública implementarán el sistema o subsistemas de registro en materia de Seguridad Pública y Procuración de Justicia, conforme lo establezca el Sistema Nacional de Seguridad Pública, el cual estará a cargo de la Subsecretaría, para lo cual proporcionará los medios tecnológicos idóneos y recursos materiales necesarios que permitan la concentración única de los datos que puedan ser objeto de consulta e intercambio de información.
 
 Las autoridades estatales, municipales, los servicios de seguridad privada y demás auxiliares en la materia, tienen la obligación de proporcionar la documentación e información que se les solicite, a efecto de dar cumplimiento a las disposiciones contenidas en este Capítulo. El acceso estará permitido a las instituciones de seguridad pública, conforme al ámbito de su competencia.
 
@@ -1583,9 +1653,11 @@ El Consejo Estatal impulsará en el Estado el establecimiento de servicios de at
 
 Asimismo, se promoverá un servicio de atención y queja de la ciudadanía, para que se reporten las anomalías en la prestación de los servicios de Seguridad Pública del Estado y de los Municipios, con objeto de conocer la opinión de la comunidad, a fin de impulsar medidas que tiendan a corregirlas.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 98.
 
-Conforme a los protocolos establecidos por el Sistema Nacional de Seguridad Pública la Secretaría, para la prestación de los servicios de atención a la población, proporcionará una vía rápida eficaz para la atención, registro de llamadas de emergencia y denuncia anónima por medio de un centro de control, comando, comunicación y cómputo, el cual coordinará a las Instituciones de Seguridad para efectos de eficientar la atención y confidencialidad con base en la información recabada y con previo conocimiento de la ubicación del hecho por medio de un sistema de alto nivel de seguridad.
+Conforme a los protocolos establecidos por el Sistema Nacional de Seguridad Pública la Subsecretaría, para la prestación de los servicios de atención a la población, proporcionará una vía rápida eficaz para la atención, registro de llamadas de emergencia y denuncia anónima por medio de un centro de control, comando, comunicación y cómputo, el cual coordinará a las Instituciones de Seguridad para efectos de eficientar la atención y confidencialidad con base en la información recabada y con previo conocimiento de la ubicación del hecho por medio de un sistema de alto nivel de seguridad.
 
 ###### Artículo 99.
 
@@ -1593,9 +1665,11 @@ El Estado y los Municipios realizarán los trabajos para lograr la compatibilida
 
 El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con el número único de atención a la ciudadanía convenido por el Sistema Nacional. La Secretaría Ejecutiva adoptará las medidas necesarias para la homologación de los servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 100.
 
-La Secretaría instrumentará a través del centro de control, comando, comunicación y cómputo, la coordinación operativa de la información con las finalidades siguientes:
+La Subsecretaría instrumentará a través del centro de control, comando, comunicación y cómputo, la coordinación operativa de la información con las finalidades siguientes:
 
 I. Despachar oportunamente la operación de los servicios de emergencia;
 
@@ -1619,11 +1693,15 @@ IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de 
 
 V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la Seguridad Pública; y
 
-VI. Los registros que en los términos de ésta y otras leyes resguarda la Secretaría.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+VI. Los registros que en los términos de ésta y otras leyes resguarda la Subsecretaría.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 102.
 
-La Secretaría adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y funcional que permita la sistematización y el intercambio ágil de la información a que se refiere este ordenamiento.
+La Subsecretaría adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y funcional que permita la sistematización y el intercambio ágil de la información a que se refiere este ordenamiento.
 
 ## TÍTULO DÉCIMO. DEL SISTEMA PARA LA PREVENCIÓN DEL DELITO
 
@@ -1653,9 +1731,11 @@ La prevención del delito realizada por las instituciones de Seguridad Pública 
 
 Este nivel de intervención deberá realizarse considerando la prestación de los servicios específicos, que de acuerdo al ámbito de sus competencias, corresponde realizar a las instituciones de Seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 107.
 
-El Programa Estatal deberá establecer las bases para la instrumentación, seguimiento y evaluación de los diversos ámbitos de intervención en materia de prevención del delito y será la Secretaría la instancia responsable de verificar su aplicación, en los términos de esta Ley y del Reglamento respectivo.
+El Programa Estatal deberá establecer las bases para la instrumentación, seguimiento y evaluación de los diversos ámbitos de intervención en materia de prevención del delito y será la Subsecretaría la instancia responsable de verificar su aplicación, en los términos de esta Ley y del Reglamento respectivo.
 
 El Consejo Estatal a iniciativa de sus integrantes, resolverá la instrumentación de acciones en materia de prevención del delito que no se encuentren previstas en el Programa Estatal y que por su naturaleza requieren la adopción inmediata de medidas para su prevención y control.
 
@@ -1699,9 +1779,11 @@ III. Cualquier organismo o institución del sector público, privado, social, em
 
 La participación ciudadana para la Seguridad Pública tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, la denuncia ciudadana, la protección o autoprotección ante el delito y en general, cualquier actividad que se relacione con esta Ley, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada con las autoridades, para el cumplimiento de los y fines que en la misma se establecen.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 115.
 
-La Secretaría verificará que la integración y funcionamiento de este Sistema se haga con apego a las disposiciones contenidas en esta Ley, en su reglamento y en las demás disposiciones aplicables.
+La Subsecretaría verificará que la integración y funcionamiento de este Sistema se haga con apego a las disposiciones contenidas en esta Ley, en su reglamento y en las demás disposiciones aplicables.
 
 ### CAPÍTULO II. DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL ESTADO
 
@@ -1729,7 +1811,9 @@ VI. El Presidente del H. Tribunal Superior de Justicia del Estado;
 
 VII. Dos Diputados del H. Congreso del Estado;
 
-El Consejo Ciudadano contará con un Secretario Técnico que será el Secretario de Seguridad Pública del Estado.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+El Consejo Ciudadano contará con un Secretario Técnico que será el Subsecretario de Seguridad Pública del Estado.
 
 Los cargos de Consejero Ciudadano serán de carácter honorario, por lo que no recibirán retribución económica o en especie alguna.
 
@@ -1787,9 +1871,11 @@ Una vez recibidas las propuestas, el Gobernador del Estado elegirá por insacula
 
 ### CAPÍTULO III. DE LOS SISTEMAS ESTATALES DE DENUNCIA PÚBLICA Y DE LOCALIZACIÓN DE PERSONAS Y BIENES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 121.
 
-La Secretaría desarrollará y operará con empleo de tecnología de vanguardia, los siguientes sistemas:
+La Subsecretaría desarrollará y operará con empleo de tecnología de vanguardia, los siguientes sistemas:
 
 l. De denuncia ciudadana. Para que la población manifieste, bajo un esquema de confidencialidad, la probable comisión de un delito o la conducta indebida por parte de un Servidor Público. La denuncia se canalizará a la Institución competente, se le dará seguimiento a petición expresa de ciudadano se proporcionará la información estadística correspondiente, siempre y cuando no afecte algún procedimiento judicial o perjudique los derechos de terceros; y,
 
@@ -1857,11 +1943,17 @@ El Programa deberá elaborarse de manera coordinada por cada una de las Instituc
 
 El Fondo de Aportaciones e (sic) Seguridad Pública se integra con los recursos del Fondo de Aportaciones para la Seguridad Pública de los Estado (sic) y del Distrito Federal, y los que el Estado le asigne conforme a los porcentajes determinados por el Consejo Nacional de Seguridad Pública, atendiendo la Ley General.
 
-Artículo 132 (sic).- El Fondo será administrado por el Comité del Fondo de Aportaciones de Seguridad Pública, el cual está integrado de la siguiente manera:
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 134.
+
+El Fondo será administrado por el Comité del Fondo de Aportaciones de Seguridad Pública, el cual está integrado de la siguiente manera:
 
 I. Por el Secretario General de Gobierno, quien lo Presidirá;
 
-II. Por el Secretario de Seguridad Pública, que será el Secretario Técnico;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+II. Por el Subsecretario de Seguridad Pública, que será el Secretario Técnico;
 
 III. Por el Secretario de Finanzas;
 
@@ -1881,11 +1973,13 @@ El Comité podrá invitar a sus sesiones a otros servidores públicos de conform
 
 La administración se regulará en el Reglamento del Consejo Estatal de Seguridad Pública.
 
-###### Artículo 133.
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 135.
 
 El Secretario de Finanzas, tendrá las siguientes funciones:
 
-l. Administrar y resguardar los recursos del Fondo de Aportaciones para la Seguridad Pública. Para lo cual, los integrará en una cuenta bancaria productiva específica y una subcuenta para la aportación estatal que corresponda. Debiendo ejercerse en el ejercicio fiscal para el cual fueron aprobados;
+I. Administrar y resguardar los recursos del Fondo de Aportaciones para la Seguridad Pública. Para lo cual, los integrará en una cuenta bancaria productiva específica y una subcuenta para la aportación estatal que corresponda. Debiendo ejercerse en el ejercicio fiscal para el cual fueron aprobados;
 
 II. Identificar por separado los recursos federales, de los aportados por el Gobierno del Estado, incluyendo los productos financieros que deriven de ambos. Y presentará en las sesiones del Comité los informes correspondientes, así como del Consejo cuando este último se los solicite;
 
@@ -1897,11 +1991,13 @@ V. Revisar la información financiera mensual que envíe la institución bancari
 
 VI. Las demás que le asigne el Comité conforme a sus atribuciones.
 
-###### Artículo 134.
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 136.
 
 El Secretario Técnico del Comité, tendrá las siguientes funciones:
 
-l. Convocar a las sesiones del Comité, por instrucciones del Presidente;
+I. Convocar a las sesiones del Comité, por instrucciones del Presidente;
 
 II. Verificar que exista quórum en las sesiones, integrar el registro y recabar la firma de los asistentes;
 
@@ -1923,19 +2019,25 @@ X. Revisar la información financiera mensual que presente la Secretaría de Fin
 
 XI. Las demás que se asigne el Presidente o el Comité conforme a sus funciones.
 
-La Procuraduría General de Justicia, la Secretaría y el Tribunal Superior de Justicia, presentarán anualmente ante el Comité, los planes y programas en materia de seguridad pública, debidamente aprobados por el Consejo, así como la programación del gasto para su integración en la propuesta estatal de inversión del año siguiente.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+La Procuraduría General de Justicia, la Subsecretaría y el Tribunal Superior de Justicia, presentarán anualmente ante el Comité, los planes y programas en materia de seguridad pública, debidamente aprobados por el Consejo, así como la programación del gasto para su integración en la propuesta estatal de inversión del año siguiente.
 
 También serán responsables de ejercer los recursos aprobados por el Comité conforme a los planes y programas de seguridad pública aprobados previamente por el Consejo Estatal, en apego a los procedimientos establecidos en los lineamientos estatales.
 
 La Secretaria de Planeación Urbana, Infraestructura y Ecología, ejecutará la obra pública en materia de infraestructura de seguridad pública aprobada por el Comité, atendiendo a lo dispuesto por la Ley de Obras Públicas y Servicios Relacionadas con las Mismas del Estado y Municipios de Baja California Sur.
 
-###### Artículo 135.
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 137.
 
 La Oficialía Mayor de Gobierno y la Secretaría de Finanzas, según corresponda, llevarán el control e inventario de los bienes muebles adquiridos con recursos del patrimonio del Fondo, conservando las facturas y los resguardos correspondientes y atendiendo lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Baja California Sur.
 
 Será responsabilidad de Oficialía Mayor de Gobierno la contratación de los recursos humanos con cargo a los recursos del Fondo de Aportaciones para la Seguridad Pública, previa autorización del Comité del Fondo de Aportaciones de Seguridad Pública.
 
-###### Artículo 136.
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 138.
 
 La Contraloría General del Estado, en su calidad de Comisario, vigilará que las instancias que participen en la ejecución de programas y acciones de cualquier índole aprobados por el Comité, con cargo al Fondo de Aportaciones para la Seguridad Pública, observen lo dispuesto por la legislación estatal en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos, prestación de servicios, planeación, programación y control del gasto público y las demás que sean aplicables, con el fin de dar transparencia al destino de los recursos.
 
@@ -2002,3 +2104,17 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Los reglamentos y disposiciones municipales derivadas del contenido de la presente Ley deberán adecuarse a las reformas y adiciones del presente decreto dentro de un plazo de noventa días, contados a partir del día siguiente a su entrada en vigor.
+
+###### ARTÍCULO TERCERO
+
+El Gobernador del Estado, para llevar a cabo las adecuaciones derivadas del presente decreto a los reglamentos y disposiciones administrativas emanadas del contenido de la presente Ley cuenta con un plazo de ciento veinte días, contados a partir del día siguiente a su entrada en vigor.
