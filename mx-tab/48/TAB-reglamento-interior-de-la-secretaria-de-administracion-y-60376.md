@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-administracion-y-60376"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-05"
-last_updated: "2012-03-31"
+last_updated: "2013-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN y FINANZAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 30 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de marzo de 2008.
 
@@ -2176,3 +2178,25 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 P.O. 31 DE MARZO DE 2012.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de; su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Administración y Finanzas, publicado en el suplemento “G” al Periódico Oficial del Estado de Tabasco número 6834 de fecha 5 de marzo de 2008.
+
+TERCERO. Se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de un área a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas áreas a las que se les haya atribuido la competencia en este Reglamento.
+
+QUINTO. Cuando en este Reglamento se dé una denominación nueva o distinta a alguna Unidad establecida con anterioridad a la vigencia, del mismo, aquella unidad atenderá los asuntos a que se refiere este ordenamiento.
+
+SEXTO. Para su mejor funcionamiento, se deberán formular los respectivos Manuales de Organización y de Procedimientos con base en su competencia.
+
+SÉPTIMO. Los recursos en trámite que se hayan, interpuesto y se encuentren pendientes de resolver al momento de entrada en vigor de este Reglamento, continuarán hasta su resolución final, bajo la competencia de la Procuraduría Fiscal.
+
+OCTAVO. Los derechos de los trabajadores serán respetados conforme a la Ley de los Trabajadores al Servicio del Estado y en ningún caso serán afectados por la reorganización que implica el presente Reglamento.
+
+NOVENO. Los recursos financieros y materiales que estuvieren asignados a las áreas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento serán reasignados a las áreas que asumen las correspondientes atribuciones, con la intervención de la Secretaría de Administración y de conformidad a las instrucciones que al efecto imparta el Secretario.
+
+DÉCIMO. Cuando en el Código Fiscal del Estado de Tabasco se señalen atribuciones a una autoridad fiscal cuyo nombre sea Dirección General de Ingresos, Dirección de Auditoría y Fiscalización, Dirección de Recaudación, se entenderá Subsecretaría de Ingresos, Dirección de Auditoría Fiscal, Dirección de Recaudación y Dirección Técnica de Recaudación.
