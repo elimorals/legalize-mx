@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transito-terrestre-del-estado-y-municipios-de-baja-44507
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2013-07-20"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRÁNSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -135,7 +135,17 @@ II. Disponer lo necesario para la debida observancia y aplicación de la present
 
 III. Establecer políticas públicas que involucren a los particulares en la creación de una cultura que facilite a los discapacitados al acceso a todo tipo de negocios comerciales, y transporte y zonas peatonales, evitando los obstáculos y todo tipo de barreras arquitectónicas de conformidad a la Norma Oficial Mexicana respectiva;
 
-IV. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+IV.- Impulsar programas encaminados al fomento del uso de la bicicleta como medio de transporte y la recreación ciudadana;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+V.- Incluir dentro de su presupuesto y realizar adecuaciones arquitectónicas en sus calles y avenidas para la seguridad de las personas ciclistas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Las demás que le otorgue la presente Ley y el Reglamento respectivo que al efecto expida.
 
 ###### ARTÍCULO 14.
 
@@ -185,9 +195,23 @@ X. Expedir y entregar a los propietarios o legítimos poseedores de vehículos, 
 
 XI. Observar que se realicen verificaciones periódicas, de las condiciones físicas y electromecánica de los vehículos;
 
-XII. Ordenar y regular el tránsito de vehículos y peatones, dictando las providencias necesarias para hacer fluida, ordenada y segura la circulación; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-XIII. Las que esta Ley y las demás disposiciones legales le señalen.
+XII. Realizar campañas encaminadas a crear una cultura de respeto hacia las personas que utilizan la bicicleta y transitan por las ciclovías.
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XIII. Planear y ejecutar programas encaminados al fomento del uso de la bicicleta como medio de transporte y la recreación ciudadana y para extremar medidas de seguridad de las y los ciclistas se incluyen disposiciones reglamentarias y el señalamiento necesario en las vialidades;
+
+Las medidas de seguridad para las y los ciclistas deberán basarse en el derecho de utilizar la vía pública al igual que quienes utilizan otro tipo de vehículo y a que se les respete su espacio tal como si viajaran en un automotor y no deberán ser rebasados cuando no se den las condiciones de seguridad.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XIV. Cuidar que en las vialidades se realicen adecuaciones para la seguridad de las y los ciclistas;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+XV. Las que esta Ley y las demás disposiciones legales le señalen.
 
 ###### ARTÍCULO 16.
 
@@ -322,6 +346,10 @@ VII. Parabrisas y limpiaparabrisas.
 Los vehículos oficiales y de emergencia deberán ostentar, en lugar visible, leyendas que identifiquen la dependencia pública a que pertenezcan, en su caso número de control.
 
 Las bicicletas que circulen en la vía pública deberán contar con faro frontal de luz blanca y reflejante de luz en la parte posterior.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+Los conductores de bicicleta deberán contar obligatoriamente con casco protector, vestir colores claros y calzado cerrado.
 
 ###### ARTÍCULO 23.
 
@@ -936,3 +964,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2013.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
