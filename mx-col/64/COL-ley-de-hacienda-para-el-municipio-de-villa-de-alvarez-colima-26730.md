@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-10-19"
+last_updated: "2013-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3053,17 +3053,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial de los años anteriores y 2013, dentro de los meses de junio a diciembre del actual ejercicio fiscal, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 0% al 40%, en los siguientes periodos:
+Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial de los años anteriores y 2013, se les condonará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodo siguiente:
 
-PERIÓDO JUNIO JULIO SEPTIEMBRE NOVIEMBRE
+PERIÓDO 1° al 20 de Diciembre de 2013
 
-AGOSTO OCTUBRE DICIEMBRE
+BASE 0%
 
-BASE 0% 20% 40%
+Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Ayuntamiento celebren convenio para pago en parcialidades.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
@@ -3194,3 +3194,7 @@ P.O. 4 DE MAYO DE 2013.
 P.O. 19 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE NOVIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
