@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2012-11-17"
+last_updated: "2013-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-> <small>N. DE E. LA PROMULGACIÓN DE FECHA 29 DE ABRIL DE 2010 DEL DECRETO 008 POR EL QUE SE PUBLICAN REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE TABASCO, CARECE DEL REFRENDO POR PARTE DEL SECRETARIO DE GOBIERNO. LA RESOLUCIÓN A LA CONTRADICCIÓN DE TESIS 123/2013, DERIVADA DE DIVERSOS JUICIOS DE AMPARO INTERPUESTOS POR PARTICULARES, SE PRONUNCIÓ EN EL SENTIDO DE QUE ES REQUISITO EL REFRENDO DEL SECRETARIO DE GOBIERNO EN EL DECRETO PROMULGATORIO PARA SU OBLIGATORIEDAD, DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTÍCULO 53 DE LA CONSTITUCIÓN DEL ESTADO.</small>
+> <small>N. DE E. LA PROMULGACIÓN DEL 29 DE ABRIL DE 2010 DEL DECRETO 008 POR EL QUE SE PUBLICARON REFORMAS LA LEY DE HACIENDA DEL ESTADO DE TABASCO, AL NO HABER SIDO FIRMADO EL REFRENDO POR LOS ENTONCES SECRETARIOS DE GOBIERNO Y DE ADMINISTRACIÓN Y FINANZAS, PROCEDIERON A SUBSANARLA PARA PROVEER A SU ESTRICTO CUMPLIMIENTO EN TÉRMINOS DE LO ESTABLECIDO POR EL ARTÍCULO 53 DE LA CONSTITUCIÓN DEL ESTADO; POR LO QUE CON BASE EN LO FUNDADO Y MOTIVADO, PUBLICAN ÍNTEGRAMENTE EL DECRETO DE REFERENCIA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -57,13 +57,13 @@ LEY DE HACIENDA DEL ESTADO DE TABASCO
 
 La presente Ley es de orden público y de interés social. Tiene por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos tributarios y no tributarios que corresponden al Estado, que estén previstos en esta Ley y en las disposiciones fiscales aplicables, para cubrir el gasto público.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 2.
 
-La presente Ley será aplicada por Ejecutivo del Estado, a través de la Secretaría y demás autoridades fiscales. Asimismo, se complementa con los reglamentos circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
+La presente Ley será aplicada por el Ejecutivo del Estado, a través de la Secretaría y demás autoridades fiscales. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
@@ -91,13 +91,13 @@ De igual forma, las contribuciones que se señalan en el artículo 1 de esta Ley
 
 La Federación, el Estado y sus municipios, así como sus respectivos organismos descentralizados y órganos desconcentrados, estarán exentos o no serán sujetos de las contribuciones que se establecen en esta Ley cuando así se disponga expresamente en la misma.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 5.
 
 Las autoridades fiscales del Estado ejercerán las facultades que esta Ley les otorga, con arreglo a los principios de legalidad, igualdad, equidad, seguridad jurídica y no confiscatoriedad.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 6.
 
@@ -251,9 +251,9 @@ III. En los que tengan por objeto la transmisión de negociaciones comerciales, 
 
 IV. En los demás contratos, actos, instrumentos notariales de índole no contractual sin valor pecuniario y en los protestos, el número de hojas en que se extienda o, en su caso, el del folio del protocolo que se emplee.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-Cuando no sea posible lograr la concurrencia de alguno de los valores señalados, o éstos se aparten notoriamente de su valor comercial, la Secretaría, con los elementos que disponga, determinará el valor que sirva de base y que será lo más cercano al que le correspondería en una libre transacción mercantil del bien o derecho de que se trate.
+Cuando no sea posible lograr la concurrencia de alguno de los valores señalados, o éstos se aparten notoriamente de su valor comercial, la Secretaría, con los elementos que disponga, determinará el valor que sirva de base y que será lo más cercano al que le correspondería en una libre transacción mercantil del bien o derecho (sic) que se trate.
 
 #### SECCIÓN TERCERA. DE LAS TASAS Y PAGO DEL IMPUESTO
 
@@ -261,7 +261,7 @@ Cuando no sea posible lograr la concurrencia de alguno de los valores señalados
 
 El impuesto sobre los actos y contratos a que este capítulo se refiere, se causará, liquidará y pagará de acuerdo a las tasas siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 I. Por el importe de los contratos y actos
 
@@ -289,7 +289,7 @@ c) En la hipoteca de crédito hipotecario,
 
 sobre el valor de la operación. 0.5%
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 IV. Cuando se trate de la constitución o modificación de sociedades:
 
@@ -331,7 +331,7 @@ obligaciones:
 
 a) Por las primeras tres hojas 1.5 D.S.M.G.V
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 b) Por cada hoja subsecuente. 0.2 D.S.M.G.V.
 
@@ -369,7 +369,7 @@ En el caso de que las obligaciones estipuladas esté sujetas a alguna condición
 
 Por lo que se refiere a la fracción VI del artículo 15 de este capítulo, al celebrarse el contrato definitivo deberá pagarse el derecho de inscripción en el Registro Público de la Propiedad y de Comercio.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 20.
 
@@ -411,7 +411,7 @@ Son sujetos de este impuesto, las personas físicas, las jurídicas colectivas o
 
 Es base de este impuesto, el monto total de los pagos a que se refiere el artículo 22 de esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 25.
 
@@ -425,7 +425,7 @@ II) El 2.5% respecto de los demás sujetos pasivos de la relación jurídica tri
 
 El pago de este impuesto deberá efectuarse a más tardar el día 20 de cada uno de los meses del ejercicio, mediante declaración que contenga los datos relativos al establecimiento.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
@@ -437,9 +437,9 @@ Los contribuyentes presentarán sus declaraciones y efectuarán el pago del impu
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-I. Inscribirse en la Receptoría de Rentas o Agencia Recaudadora que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de actividades, utilizando al efecto, las formas aprobadas por la Secretaría, con los datos que las mismas exijan.
+I. Inscribirse en la Receptoría de Rentas o Agencia Recaudadora que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de actividades, utilizando al efecto, las formas aprobadas por la Secretaría, con los datos que las mismas exijan;
 
 II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
 
@@ -447,7 +447,7 @@ III. Presentar los avisos, datos, documentos e informes que le soliciten las aut
 
 IV. Presentar una sola declaración, cuando tengan varios establecimientos dentro del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 28 Bis.
 
@@ -467,7 +467,7 @@ c) Jubilaciones y pensiones, en caso de invalidez, cesantía, vejez y muerte.
 
 d) Gastos funerarios.
 
-> <small>(REFORMADO, P.O.1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 30.
 
@@ -515,7 +515,7 @@ Para el pago del 10.0% a que se refiere la fracción II del párrafo anterior, s
 
 Cuando existan consultas eventuales en consultorios particulares o en algún otro lugar, sean estos hoteles, casas de huéspedes o domicilios particulares, las autoridades fiscales habilitarán al personal para la verificación de los ingresos y la revisión del pago de este impuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
@@ -531,19 +531,19 @@ II. En forma eventual al día siguiente de percibir el ingreso.
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-I. Empadronarse en la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los treinta días siguientes a aquél en que se inicien sus actividades, utilizando al efecto las formas oficiales aprobadas por la Secretaría.
+I. Empadronarse en la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los treinta días siguientes a aquél en que se inicien sus actividades, utilizando al efecto las formas oficiales aprobadas por la Secretaría;
 
 II. Dar aviso en la Receptoría de Rentas o Agencia Recaudadora que corresponda, de los cambios de domicilio, así como los de suspensión de actividades dentro del mismo plazo señalado en la fracción anterior.
 
 III. Presentar los avisos, documentos, datos e información que le solicite la autoridad fiscal en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 IV. Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, que en forma general señala la Secretaría y que podrán ser los mismos que establezcan las disposiciones fiscales federales correspondientes.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 38.
 
@@ -551,7 +551,7 @@ La obligación de proporcionar los datos y documentos que le sean solicitados po
 
 #### SECCIÓN CUARTA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
@@ -563,7 +563,7 @@ II. Cuando de los informes que se obtengan, se ponga de manifiesto la percepció
 
 Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales o servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 40.
 
@@ -699,7 +699,7 @@ El impuesto se causará, liquidará y pagará a la tasa del 2.0%, sobre los ingr
 
 El pago del impuesto se efectuará mensualmente, a más tardar el día 20 del mes siguiente a aquél en que se haya percibido el ingreso.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 51.
 
@@ -711,9 +711,9 @@ Los contribuyentes presentarán sus declaraciones y pagos en la Receptoría de R
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-I. Inscribirse en la Receptoría de Rentas o Agencia Recaudadora que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de sus actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría con los datos que las mismas exijan.
+I. Inscribirse en la Receptoría de Rentas o Agencia Recaudadora que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de sus actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría con los datos que las mismas exijan;
 
 II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
 
@@ -727,21 +727,21 @@ IV. Presentar una sola declaración cuando tengan varios establecimientos dentro
 
 No son sujetos de este impuesto, cuando se presten, los servicios de hospedaje proporcionados por los hospitales, clínicas, asilos, conventos, seminarios, internados, orfanatos y casas de beneficencia o asistencia social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SÉPTIMO. DEL IMPUESTO VEHÍCULAR ESTATAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 A. Es objeto del impuesto a que se refiere este capítulo, la tenencia o uso de vehículos que se efectúe en el territorio del Estado.
 
@@ -757,15 +757,15 @@ c) En su defecto, cuando el domicilio del sujeto pasivo de la relación jurídic
 
 Para los efectos de este impuesto, se presume que el propietario es el tenedor o usuario del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 B. Están obligados al pago de este impuesto, las personas físicas, jurídico colectivas o unidades económicas, tenedoras o usuarias de los vehículos a que se refiere este capítulo de la Ley.
 
@@ -773,9 +773,9 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 Para los efectos de este capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 C. Son solidariamente responsables del pago de este impuesto:
 
@@ -793,15 +793,15 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en territorio del Estado de Tabasco.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN TERCERA. DEL CÁLCULO, BASE Y TASA DEL IMPUESTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 D. En el caso de vehículos nuevos el impuesto se calculará conforme a lo siguiente:
 
@@ -811,7 +811,7 @@ TARIFA
 
 Límite Límite Cuota fija Tasa para
 
-Inferior superior $ aplicarse
+inferior superior $ aplicarse
 
 $ $ sobre el
 
@@ -823,7 +823,7 @@ inferior
 
 %
 
-0.01 526,657.78 0.00 3.0
+0.001 526,657.78 0.00 3.0
 
 526,657.79 1,013,523.64 15,799.73 8.7
 
@@ -845,7 +845,7 @@ TARIFA
 
 Límite Límite Cuota fija Tasa para
 
-Inferior superior $ aplicarse
+inferior superior $ aplicarse
 
 $ $ sobre el
 
@@ -895,9 +895,9 @@ Las cantidades establecidas en las tarifas y tablas se actualizarán en el mes d
 
 El Índice Nacional de precios al Consumidor que se aplicará para los efectos del párrafo anterior, es el publicado por el Banco de México en los términos que disponga el Código Fiscal de la Federación o las disposiciones federales aplicables, para tales efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 E. En el caso de vehículos usados de fabricación nacional e importados, incluyendo los denominados extranjeros, el impuesto se determinará conforme a lo siguiente:
 
@@ -965,9 +965,9 @@ b) La cantidad obtenida conforme al inciso anterior se actualizará de conformid
 
 c) El resultado obtenido se multiplicará por el 0.245%.
 
-IV. Tratándose de vehículos de servicio público para transporte de pasajeros o los denominados 'taxis”, que pasen a ser de servicio particular destinados al transporte hasta de quince pasajeros, el impuesto se calculará para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, conforme a lo previsto en la fracción I del presente artículo.
+IV. Tratándose de vehículos de servicio público para transporte de pasajeros o los denominados 'taxis”, que pasen a ser de servicio particular destinados al transporte hasta de quince pasajeros, el impuesto se calculará para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, conforme a lo previsto en la fracción I del presente artículo;
 
-V. Tratándose de los vehículos a que se refiere la fracción IV del artículo 53- D de esta Ley, de hasta nueve años modelo anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+V. Tratándose de los vehículos a que se refiere la fracción IV del artículo 53-D de esta Ley, de hasta nueve años modelo anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
 El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
 
@@ -995,7 +995,7 @@ Años de antigüedad Factor de depreciación
 
 A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hacer referencia el artículo 53-D fracción IV, de esta Ley.
 
-VI. Tratándose de los vehículos a que se refiere la fracción V del artículo 53- D de esta Ley, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+VI. Tratándose de los vehículos a que se refiere la fracción V del artículo 53-D de esta Ley, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
 a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
 
@@ -1045,17 +1045,17 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-ARTÍCULO 53 F. Los sujetos pasivos de la relación jurídico tributaria pagarán mediante declaración o por los medios que al efecto establezca la Secretaría para facilitar su pago, el impuesto por año calendario durante los cuatro primeros meses de cada año, salvo en el caso de vehículos nuevos, en el que el impuesto deberá calcularse y enterarse dentro de los 3 días naturales siguientes a los supuestos de enajenación o importación definitiva a que se refiere el artículo 53- H fracción VIII de la presente Ley.
+ARTÍCULO 53 F. Los sujetos pasivos de la relación jurídico tributaria pagarán mediante declaración o por los medios que al efecto establezca la Secretaría para facilitar su pago, el impuesto por año calendario durante los cuatro primeros meses de cada año, salvo en el caso de vehículos nuevos, en el que el impuesto deberá calcularse y enterarse dentro de los 3 días naturales siguientes a los supuestos de enajenación o importación definitiva a que se refiere el artículo 53-H fracción VIII de la presente Ley.
 
 En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del presente capítulo de esta Ley, se pagará el importe correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
@@ -1089,9 +1089,9 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 G. Son obligaciones de los contribuyentes de este impuesto:
 
@@ -1099,19 +1099,19 @@ I.- Solicitar ante las autoridades fiscales competentes el Registro Estatal Vehi
 
 II.- Conservar a disposición de las autoridades fiscales, acreditar y exhibir cuando lo soliciten, la documentación comprobatoria del pago del impuesto que corresponda;
 
-III.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado de Tabasco; y,
+III.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado de Tabasco; y
 
 IV.- Las demás que establezcan las leyes y normatividad aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN QUINTA. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 H. Para efecto del impuesto establecido en este Capítulo, se entiende por:
 
@@ -1149,23 +1149,23 @@ XIV.- Pago en Ventanilla: Aquel que se realice en las receptorías de rentas, ag
 
 En todo momento, para determinar la clasificación del vehículo o variables definidas en las fracciones anteriores y en el presente capítulo, se estará a los datos manifestados en la primera factura o factura de origen, que expida el enajenante o distribuidor autorizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 I. Los vehículos siniestrados y que representen pérdida total o robo total, siempre que medie denuncia o querella ante la Agencia del Ministerio Público correspondiente, enterarán - del monto total que corresponda enterar en el ejercicio - la parte proporcional en razón del mes en que se determinó la pérdida total o robo total del vehículo; esto es, que el monto anual que resulte después de realizado el cálculo del impuesto correspondiente, se dividirá entre doce (número de meses en el año) y el resultado se multiplicará por el número de meses que comprenda hasta el mes en que sucedió la pérdida o robo total del vehículo.
 
 Lo dispuesto en este artículo no será aplicable a los adeudos de ejercicios fiscales anteriores a aquél en el que se siniestró el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEXTA. DE LAS EXENCIONES Y LOS BENEFICIOS FISCALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 J. Para efectos de este impuesto estarán exentos los siguientes vehículos:
 
@@ -1185,15 +1185,15 @@ No se pagará el impuesto que establece este capítulo, en los casos que se acre
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 3 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 K. Los tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Administración y Finanzas, que se encuentran comprendidos en dichos supuestos, de acuerdo con las reglas de carácter general que para tal efecto emita la citada Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 L. Los contribuyentes que realicen el pago del impuesto en una sola exhibición, a más tardar el último día del mes de abril del periodo de liquidación ordinario que corresponda, tendrán derecho a una reducción sobre el monto del impuesto o cuota a pagar, de acuerdo a la siguiente tabla:
 
@@ -1217,9 +1217,9 @@ a) No tener adeudos por ejercicios fiscales anteriores; y
 
 b) Presentar póliza de seguro automotriz vigente en los términos que dispone el artículo 40, segundo y tercer párrafos de la Ley General de Tránsito y Vialidad del Estado de Tabasco, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 53 M. Los beneficios fiscales a que se refiere la presente sección no darán derecho a devolución, compensación, acreditamiento o saldo a favor alguno.
 
@@ -1363,11 +1363,11 @@ Queda estrictamente prohibido a los oficiales y demás servidores públicos del 
 
 ###### ARTÍCULO 57.
 
-(DEROGADO, P.O. 1 DE MAYO DE 2010)
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 #### SECCIÓN CUARTA
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1573,33 +1573,33 @@ XIX. Los demás documentos no
 
 comprendidos en este artículo. 11.0 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 58 A. Los servidores públicos encargados de las oficinas del Registro Público de la Propiedad y del Comercio expedirán previas las formalidades de la ley, las copias certificadas de las escrituras de los volúmenes que se encuentren en los archivos y que los interesados solicitaren con relación a la tarifa de 5.0 D.S.M.G.V. por cada testimonio librado.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 58 B. Las inscripciones en el Registro Público de la Propiedad y del Comercio de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares de crédito o los organismos públicos federales, así como su cancelación pagarán:
 
 Por cada acto 5.0 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 58 C Los magistrados, jueces y demás funcionarios que expidan copias de sentencias o actos que deban ser registrados, quedan sujetos a las disposiciones que establece el Código Fiscal del Estado para los notarios y encargados del Registro Público de la Propiedad y del Comercio respectivamente, y por ende, a las sanciones correspondientes, si antes el interesado no presenta el comprobante de pago oficial autorizado por las autoridades fiscales.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ARTÍCULO 58 D. El personal adscrito al Registro Público de la Propiedad y del Comercio, que expida documentos en uso de sus atribuciones, deberán exigir al solicitante, el comprobante que se han satisfecho al erario estatal, los derechos correspondientes, anotando el numero de recibo oficial; quienes infrinjan esta disposición, serán sancionados conforme al Código Fiscal del Estado, sin perjuicio de las sanciones y responsabilidades a las que se hiciera acreedor, según la gravedad del caso.
 
 #### SECCIÓN ÚNICA
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 #### SECCIÓN PRIMERA
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 59.
 
@@ -1843,7 +1843,7 @@ d) Cuotas de riesgo por valor de
 
 traslado foráneo. 0.11 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 59 Bis.
 
@@ -1909,7 +1909,7 @@ para vehículos nuevos, con vigencia de
 
 setenta y dos horas. 5.0 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 59 Ter.
 
@@ -1919,7 +1919,7 @@ a) por los primeros 25 kilómetros 8.0 D.S.M.G.V.
 
 b) por cada kilómetro o fracción siguiente 0.25 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 59 Quáter.
 
@@ -1973,7 +1973,7 @@ g) Curso de tipos de riesgos que afectan
 
 a la población. 8.0 D.S.M.G.V.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
@@ -2001,27 +2001,27 @@ cada establecimiento: 100 D.S.M.G.V.
 
 ###### ARTÍCULO 61.
 
-(DEROGADO, P.O. 1 DE MAYO DE 2010)
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 62.
 
-(DEROGADO, P.O. 1 DE MAYO DE 2010)
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 63.
 
-(DEROGADO, P.O. 1 DE MAYO DE 2010)
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 64.
 
-(DEROGADO, P.O. 1 DE MAYO DE 2010)
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ###### ARTÍCULO 65.
 
-(DEROGADO, P.O. 1 DE MAYO DE 2010)
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 #### SECCIÓN TERCERA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 66.
 
@@ -2103,15 +2103,15 @@ c) Consulta de información documental almacenada
 
 en disco compacto, por documento. 1.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XII. Constancia de No Propiedad 2.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XIII. Constancia de Propiedad por predio 5.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XIV. Por levantamiento topográfico: incluye generación del polígono, georreferenzación de puntos con coordenadas métricas UTM, impreso en papel en medida de 60x90 cm., en la escala que se requiera:
 
@@ -2135,7 +2135,7 @@ a 45 grados 11.0 D.S.M.G.V.
 
 Mayor a 45 grados 13.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XV. Por levantamiento topográfico: incluye generación del polígono, georreferenzación de puntos con coordenada (sic) métricas UTM, curvas de nivel a cada 10mts., impreso en papel en medida de 60x80cm., en la escala que se requiera:
 
@@ -2159,7 +2159,7 @@ a 45 grados 22.0 D.S.M.G.V.
 
 Mayor a 45 grados 26.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XVI. Archivos de ortofotos o imagen satelital en formato de imagen satelital estándar, a las siguientes escalas:
 
@@ -2175,13 +2175,13 @@ precisión métrica, coordenadas UTM;
 
 por cobertura de 0.2km2 3.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XVII. Por cada punto terrestre
 
 georreferenciado en la cartografía 3.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XVIII. Por elaboración de propuestas de
 
@@ -2189,7 +2189,7 @@ zonificación y tablas de valores catastrales
 
 de suelo y construcción, por zona catastral 30.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XIX. Por consultoría aplicada a Sistemas de
 
@@ -2197,13 +2197,13 @@ Información Geográfica (SIG), por hora y un
 
 máximo de 8 personas 20.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XX. Por coordinación de Programas de
 
 Actualización Catastral, por predio 0.50 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XXI. Por la expedición anual de constancia
 
@@ -2213,7 +2213,7 @@ valuador o perito topógrafo en la Secretaría
 
 de Administración y Finanzas 14.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XXII. Por la expedición anual de constancia
 
@@ -2223,7 +2223,7 @@ técnico en la Secretaría de Administración
 
 y Finanzas 7.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XXIII. Por revisión y validación de avalúo
 
@@ -2231,7 +2231,7 @@ comercial a peritos registrados ante la
 
 Secretaría de Administración y Finanzas. 10.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XXIV. Por revisión y validación de avalúo
 
@@ -2241,7 +2241,7 @@ Secretaría de Administración
 
 y Finanzas. 5.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 XXV. Por consulta de valor catastral de zona,
 
@@ -2297,7 +2297,7 @@ Salón de baile. 2000.0 D.S.M.G.V.
 
 Cuando la expedición de la licencia sea con vigencia de más de un año, a la cantidad que resulte de la expedición de la licencia con vigencia de un año, el pago de los derechos se incrementarán en un 15.0% por cada uno de los años subsecuentes, en cada uno de los giros que se señalan en esta fracción.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 II. Por el refrendo anual de la licencia, en
 
@@ -2305,7 +2305,7 @@ cualquiera de los giros establecidos en
 
 la Ley. 100.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 III. Por la revalidación de la licencia por un
 
@@ -2315,19 +2315,19 @@ en la Ley. 200.0 D.S.M.G.V.
 
 Cuando la revalidación de la licencia, se Realice por cinco años se pagarán 900 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 IV. Por el cambio de domicilio en cualquiera de
 
 Los giros establecidos en Ley. 600.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 V. Permiso para el funcionamiento temporal 100.0 D.S.M.G.V.
 
 El citado permiso tendrá una duración máxima de 15 días, y será renovable por única ocasión previo pago de los derechos que establece esta fracción.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 VI. Autorización de ampliación de horario,
 
@@ -2337,11 +2337,11 @@ VII. La reposición de la licencia, permiso o
 
 autorización. 35.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 VIII. Por cambio de giro. 600.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 IX. Autorización anual para venta de bebidas
 
@@ -2349,7 +2349,7 @@ alcohólicas en horario extendido, en aquellos
 
 giros permitidos por la Ley de la materia. 600.0 D.S.M.G.V.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 X. Por autorización de cambio de titular de
 
@@ -2361,7 +2361,7 @@ Una licencia. 1,500.0 D.S.M.G.V.
 
 Por los servicios relacionados con vehículos particulares, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 I. Por emisión o reposición de juegos de
 
@@ -2389,7 +2389,7 @@ documento que ampare el registro para que
 
 circule legalmente en la vía pública. 5.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 V. Por el refrendo anual de placa de
 
@@ -2401,7 +2401,7 @@ particular. 5.0 D.S.M.G.V.
 
 #### SECCIÓN SEXTA
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 70 Bis.
 
@@ -2427,7 +2427,7 @@ traslado. 100.0 D.S.M.G.V.
 
 De los servicios relacionados con el transporte público se pagarán y causarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 I. Por emisión o reposición de juegos de 15.0 D.S.M.G.V.
 
@@ -2441,7 +2441,7 @@ a) Alta. 10.0 D.S.M.G.V.
 
 b) Baja. 5.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 III. Por el refrendo anual de placa de
 
@@ -2453,7 +2453,7 @@ y enmicado de la tarjeta de circulación para
 
 vehículo de servicio público. 10.0 D.S.M.G.V.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 70.
 
@@ -2463,7 +2463,7 @@ I. Tratándose de canje de periodo general de placas de circulación, los derech
 
 II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolque, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el último día del mes de marzo de cada año para el que se realice el refrendo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN ÚNICA
 
@@ -2471,7 +2471,7 @@ II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de 
 
 #### SECCIÓN ÚNICA
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 71.
 
@@ -2635,13 +2635,13 @@ secundaria y capacitación para el trabajo. 0.2 D.S.M.G.V.
 
 3. Educación superior. 1.0 D.S.M.G.V.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
 
 #### SECCIÓN ÚNICA
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 72 Bis.
 
@@ -2655,7 +2655,7 @@ otorgamiento de concesión de servicio
 
 público de transporte. 20 D.S.M.G.V.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULO QUE LO INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 72.
 
@@ -2889,15 +2889,15 @@ VII.- Por los servicios relacionados con las
 
 actividades de monitoreo ambiental: 15.0 D.S.M.G.V.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULO QUE LO INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SEXTO BIS. POR LOS SERVICIOS PRESTADOS POR LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN ÚNICA
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 72 Ter.
 
@@ -2911,15 +2911,15 @@ información relativa al Registro
 
 Estatal de Agentes Inmobiliarios. 4.0 D.S.M.G.V.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULO QUE LO INTEGRAN, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SEXTO TER. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN ÚNICA
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 72 Quáter.
 
@@ -3111,15 +3111,15 @@ d) Constancia de antigüedad de prestación
 
 del servicio público de transporte 5.0 D.S.M.G.V.
 
-e) Búsqueda de documentos para la
+(sic) Búsqueda de documentos para la
 
 elaboración de las constancias a que se
 
-refieren las fracciones anteriores. 5.0 D.S.M.G.V.
+refieren las fracciones anteriores 5.0 D.S.M.G.V.
 
 ### CAPÍTULO SEXTO QUÁTER. POR LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 #### SECCIÓN ÚNICA
 
@@ -3155,7 +3155,7 @@ distintas de las contempladas en la fracción
 
 II del artículo 78-Bis de la presente Ley. 3.0 D.S.M.G.V.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 III. Copia certificada de los documentos, actuaciones o datos que obren en las dependencias u oficinas del Gobierno, distintas a las contempladas en la fracción II del artículo 78-Bis de la presente Ley:
 
@@ -3173,7 +3173,7 @@ V. Por la ratificación de firmas ante cualquier
 
 Autoridad administrativa o judicial. 3.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 VI. Por los trámites de nueva expedición
 
@@ -3203,7 +3203,7 @@ II. Los derechos de registros, la legalización de firmas, expedición de certif
 
 III. Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad y de Comercio, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 77.
 
@@ -3229,9 +3229,9 @@ I. Por certificación expedida por jueces y magistrados, se pagarán:
 
 a) Hasta las primeras 10 hojas. 2.0 D.S.M.G.V.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-b) Por cada hoja subsecuente. 0.1 D.S.M.G.V.
+b) Por cada hoja subsecuente. 0.01 D.S.M.G.V.
 
 II. Otros no especificados en éste Capítulo. 5.0 D.S.M.G.V.
 
@@ -3419,7 +3419,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 P.O. 27 DE DICIEMBRE DE 2008.
 
@@ -3448,3 +3448,25 @@ SÉPTIMO.- (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2012)
 P.O. 17 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, a excepción del capítulo séptimo del Título Segundo que incluye los artículos 53-A al 53-M, los cuales entrarán en vigor el día 1º de enero de 2011 (sic)).
+
+SEGUNDO.- Queda sin efecto cualquier disposición que contravenga a lo estipulado en los Convenios de Adhesión y Colaboración Administrativa en Materia Fiscal, celebrados entre el Gobierno del Estado de Tabasco y la Secretaría de Hacienda y Crédito Público.
+
+TERCERO.- La Secretaria de Administración y Finanzas queda habilitada para dictar las medidas administrativas que estime necesarias para mejorar y proveer la aplicación de las disposiciones que establece el presente Decreto y la Ley de Hacienda.
+
+CUARTO.- La determinación de los pagos del impuesto sobre tenencia o uso de vehículos de ejercicios fiscales de 2010 y anteriores, se realizarán conforme a las disposiciones legales y administrativas de carácter federal aplicable para el ejercicio fiscal que corresponda.
+
+QUINTO.- Para la determinación de los pagos por concepto del impuesto establecido en la fracción segunda del artículo 53-E de este Decreto, correspondientes al ejercicio fiscal 2011, el importe del impuesto causado en el ejercicio fiscal inmediato anterior será el que se haya causado para el ejercicio fiscal 2010, de conformidad con las disposiciones legales y administrativas de carácter fiscal federal referentes al Impuesto sobre Tenencia o Uso de Vehículos.
+
+SEXTO.- La Secretaría queda habilitada para establecer las medidas necesarias a efecto que las contribuciones que previene esta Ley sean pagadas por todos aquellos medios de pago, incluyendo los electrónicos, que faciliten al contribuyente el cumplimiento de sus obligaciones fiscales.
+
+SÉPTIMO.- Con la finalidad de fortalecer las finanzas públicas de los municipios, a partir de la entrada en vigor del presente artículo y hasta en tanto se realiza la correspondiente adición a la Ley de Coordinación Fiscal y Financiera del Estado, se aplicará lo siguiente:
+
+I. El 100% de las cantidades enteradas por los Municipios al erario estatal, en su carácter de contribuyentes, por concepto del Impuesto Sobre Nómina, se destinará a un Fondo de Resarcimiento de Contribuciones Estatales, el cual será distribuido entre los Municipios de la entidad, con base en el porcentaje que representa el monto del impuesto pagado por cada uno de ellos del monto total del impuesto pagado por el conjunto de los Municipios;
+
+II. Los Municipios, sus organismos y entidades, deberán estar inscritos en el padrón del Impuesto sobre Nómina, auto determinar el Impuesto a su cargo en términos de lo dispuesto en la Ley de Hacienda del Estado y presentar la declaración correspondiente de manera mensual; y
+
+III. Si así lo acuerdan los Municipios y la Secretaría, podrán celebrar convenios para la compensación de fondos.
