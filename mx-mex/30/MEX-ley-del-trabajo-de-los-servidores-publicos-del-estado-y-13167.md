@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2013-09-09"
+last_updated: "2013-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 9 DE SEPTIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -651,13 +649,25 @@ V. Asistir a las actividades de capacitación que les permitan elevar sus conoci
 
 VI. Impartir horas-clase, siempre y cuando los horarios establecidos para el desempeño de las mismas sean compatibles, de acuerdo a lo determinado en las condiciones generales de trabajo o en las disposiciones relativas;
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Ser respetado en su intimidad, integridad física, psicológica y sexual, sin discriminación por motivo de origen étnico o nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, ideología, preferencia y orientación sexual, estado civil, embarazo, raza, idioma o color de piel; y
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+VII. Ser respetado en su intimidad, integridad física, psicológica y sexual, sin discriminación por motivo de origen étnico o nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, ideología, preferencia y orientación sexual, estado civil, embarazo, raza, idioma o color de piel;
 
-VIII. Los demás que establezca esta ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+VIII. Disfrutar de licencias o permisos para desempeñar una comisión accidental o permanente del Estado, de carácter sindical o por motivos particulares, siempre que se soliciten con la anticipación debida y que el número de trabajadores no sea tal que perjudique la buena marcha de la dependencia o entidad.
+
+Estas licencias o permisos podrán ser con goce o sin goce de sueldo, sin menoscabo de sus derechos y antigüedad y, se otorgarán en los términos previstos en las Condiciones Generales de Trabajo que se expidan conforme a la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+IX. Los demás que establezca esta ley.
 
 ###### Artículo 87.
 
@@ -753,7 +763,11 @@ V. Las previstas por otros ordenamientos aplicables e impuestas por la autoridad
 
 VI. Las que se determinen en las condiciones generales de trabajo de las instituciones públicas o dependencias;
 
-VII. Las licencias otorgadas sin goce de sueldo para desempeñar cargo de elección popular o comisiones sindicales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+VII. Las licencias otorgadas sin goce de sueldo para desempeñar cargo de elección popular.
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -2992,3 +3006,21 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Cualquier asunto en trámite se sustanciará hasta su conclusión, de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor el presente Decreto.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+G.G. 2 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2014.
+
+TERCERO.- Para efectos del segundo párrafo del artículo 7.7, la Secretaría de Transporte deberá enviar a la Secretaría de Finanzas los datos, informes y documentos que esta última le solicite, dentro del plazo de treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Con relación a la reforma al artículo 221, esta será aplicable a partir del ejercicio fiscal 2016, para los ejercicios fiscales 2014 y 2015, los coeficientes “C1 i,t” y “C2 i,t” tendrán la siguiente ponderación según el ejercicio fiscal del que se trate, de acuerdo a lo siguiente:
+
+Ejercicio Ponderación
+
+Fiscal C1 i,t C2 i,t
+
+2014 50% 50%
+
+2015 40% 60%
