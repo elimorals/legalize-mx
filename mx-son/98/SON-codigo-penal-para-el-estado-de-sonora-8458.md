@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2013-11-28"
+last_updated: "2013-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -1961,17 +1961,19 @@ Al que dé en arrendamiento una finca, teniendo conocimiento de que será destin
 
 (DEROGADO, B.O. 7 DE ABRIL DE 2008)
 
-### CAPITULO III. COALICION
+### CAPÍTULO II BIS. Desaparición forzada de personas
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 175.
 
 Al que provoque públicamente a cometer un delito, haga la apología de éste o de algún vicio, se le aplicará, si el delito no se ejecutare, de diez a ciento ochenta jornadas de trabajo en favor de la comunidad; en caso contrario, se aplicará al provocador la sanción que corresponda por su participación en el delito cometido.
 
-### CAPITULO IV. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PUBLICO
+### CAPITULO III. COALICION
 
 ## TITULO SEXTO. REVELACION DE SECRETOS
 
-### CAPITULO V. COHECHO
+### CAPITULO IV. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PUBLICO
 
 ###### ARTICULO 176.
 
@@ -1985,7 +1987,7 @@ Los delitos previstos en el presente Capítulo, sólo se perseguirán a petició
 
 ## TITULO SEPTIMO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
-### CAPITULO VI. PECULADO
+### CAPITULO V. COHECHO
 
 ###### ARTICULO 178.
 
@@ -1997,7 +1999,7 @@ Se impondrán las mismas sanciones previstas en este Título o en el subsecuente
 
 Cuando los delitos de abuso de autoridad o incumplimiento de un deber legal, coalición, intimidación y cohecho, previstos en este Título, sean cometidos por servidores públicos miembros de alguna corporación policial, las penas previstas se aumentarán en una mitad y, además, se impondrán, destitución, en su caso, e inhabilitación de uno a diez años, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO VII. CONCUSION
+### CAPITULO VI. PECULADO
 
 ###### ARTICULO 180.
 
@@ -2055,9 +2057,107 @@ La misma sanción del párrafo anterior, se impondrá a cualquier persona que pa
 
 Tratándose del delito de tortura, en ningún caso podrá invocarse la excluyente de responsabilidad prevista en la fracción VIII del artículo 13 de este Código.
 
-### CAPITULO VIII. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO IX. INTIMIDACION
+### CAPITULO VII. CONCUSION
+
+###### Artículo 181 Bis.
+
+Comete el delito de desaparición forzada de personas, el servidor público que, con motivo de sus atribuciones, detenga y mantenga oculta, a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes.
+
+Este delito se considera permanente hasta en tanto no se establezca el paradero o destino de la víctima.
+
+Si durante la comisión del delito se cometiere otro en contra de la víctima, se aplicarán las reglas del concurso.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 181 Bis 1.
+
+A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de quince a cuarenta años de prisión, además de la inhabilitación para el desempeño de cualquier cargo, empleo o comisión pública de diez a veinte años.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 181 Bis 2.
+
+Se sancionará con diez a veinte años de prisión, además de la inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos de cinco a diez años, al servidor público que, teniendo conocimiento de la comisión del delito de desaparición forzada de persona por algún subordinado, no adoptare las medidas necesarias y razonables para evitar su consumación.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 181 Bis 3.
+
+Al responsable de la comisión del delito de desaparición forzada de persona, se le incrementará la pena de prisión, en una mitad más, cuando:
+
+I.- Sea superior jerárquico de un servidor público que participe en la comisión del delito y haya tenido conocimiento de su comisión y no ejerciera su autoridad para evitarlo;
+
+II.- El sujeto pasivo del delito sea persona con discapacidad, migrante, menor de dieciocho años, indígena o mujer embarazada;
+
+III.- Se cometa con el propósito de ocultar o asegurar la impunidad de otro delito; o
+
+IV.- Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con un conocimiento de dicho ataque.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 181 Bis 4.
+
+Quien haya participado en hechos con características del delito de desaparición forzada de personas y proporcione al Ministerio Público datos relevantes para dar a conocer con el paradero de la víctima, podrá recibir los siguientes beneficios:
+
+I.- Cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la averiguación previa iniciada por su colaboración, no serán tomadas en cuenta en su contra. Este beneficio sólo podrá otorgarse, en una ocasión, respecto de la misma persona; o
+
+II.- Cuando un sentenciado aporte pruebas ciertas que, valoradas por el Juez, sirvan para sentenciar a otros que hayan participado con funciones de administración, dirección o supervisión del delito de desaparición forzada, podrá otorgársele la remisión parcial de la pena, hasta en una mitad de la pena de prisión impuesta.
+
+En la imposición de las penas, así como en el otorgamiento de los beneficios a que se refiere el presente artículo, a solicitud del Ministerio Público, el Juez tomará en cuenta la participación del colaborador del delito, excluyéndose de este beneficio al autor intelectual o a quien haya dirigido la ejecución material.
+
+La autoridad mantendrá con carácter confidencial la identidad del individuo que se acoja a los beneficios de este artículo.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 5.
+
+Quién cometa el delito de desaparición forzada de persona no tendrá derecho a gozar del perdón judicial, conmutación de sanciones, remisión parcial de la pena, tratamiento de pre liberación, libertad preparatoria, amnistía, indulto o cualquier otro beneficio que la Ley respectiva establezca, salvo los casos específicos estipulados en el artículo anterior. Tampoco se le considerará de carácter político para los efectos de la extradición.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 6.
+
+Se impondrá (sic) cuatro a doce años de prisión y, en el caso de ser servidor público, se le impondrá también la inhabilitación de cuatro a doce años para el desempeño de cualquier cargo, empleo o comisión públicos, a quien:
+
+I.- Teniendo conocimiento de la comisión del delito de desaparición forzada de persona, sin concierto previo, ayude a eludir la aplicación de la justicia o a entorpecer la investigación del mismo; o
+
+II.- Conociendo los planes para la comisión del delito de desaparición forzada de persona, sin ser partícipe, no diere aviso a la autoridad.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 7.
+
+A quien retenga o mantenga oculto o no entregue a su familia al infante que nazca durante el periodo de desaparición forzada de la madre, se le impondrá una pena de diez a veinte años de prisión.
+
+A quien conociendo el paradero o destino final del infante que nazca durante el periodo de la desaparición forzada de la madre, no proporcione información para su localización, se le aplicará una pena de dos a cinco años de prisión.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 8.
+
+Aquellos servidores públicos que teniendo a su cargo la investigación del delito de desaparición forzada de persona o sus auxiliares, evidentemente la obstruyan o eviten hacerla, se les aplicará pena de cinco a diez años de prisión, además de la inhabilitación de cinco a diez años para el ejercicio de cargos públicos.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 9.
+
+No serán excluyentes o atenuantes de responsabilidad, en ningún caso y bajo ninguna circunstancia, para cometer el delito de desaparición forzada de persona, la obediencia por razones de jerarquía, así como las órdenes o instrucciones recibidas por superiores.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 10.
+
+No podrá invocarse circunstancias de excepción como inseguridad pública, de inestabilidad política interna o cualquier otra emergencia, como causa de justificación o inculpabilidad para cometer el delito de desaparición forzada de persona.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 181 Bis 11.
+
+El Estado y los Municipios responderán, solidariamente, ante la víctima u ofendido del delito por la comisión del mismo por parte de los servidores públicos. Dicha responsabilidad incluirá el pago de los daños y perjuicios y el Juez, al resolver en la sentencia, fijará la misma en cantidad líquida, en beneficio de la víctima o del ofendido.
+
+### CAPITULO VIII. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
 ###### ARTICULO 182.
 
@@ -2069,7 +2169,7 @@ No cometen este delito los servidores públicos que se coaliguen en ejercicio de
 
 A los que cometan el delito de coalición se les impondrán prisión de tres meses a dos años, de diez a cien días multa, y destitución, en su caso, e inhabilitación de tres meses a dos años, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO X. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO IX. INTIMIDACION
 
 ###### ARTICULO 184.
 
@@ -2089,7 +2189,7 @@ VI.- Al que teniendo obligación, por razón de su empleo, cargo o comisión, de
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I, II y III de este artículo, se le impondrán de tres meses a un año de prisión o de sesenta a doscientos cincuenta días multa y destitución, en su caso, e inhabilitación de tres meses a un año para desempeñar otro empleo, cargo o comisión públicos. Al infractor de las fracciones IV, V y VI, se le impondrán de dos a siete años de prisión, de veinte a doscientos cincuenta días multa y destitución, en su caso, e inhabilitación de dos a tres años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO XI. TRAFICO DE INFLUENCIA
+### CAPITULO X. EJERCICIO ABUSIVO DE FUNCIONES
 
 ###### ARTICULO 185.
 
@@ -2103,7 +2203,7 @@ El delito de cohecho se sancionará con prisión de seis meses a nueve años, de
 
 En todos los casos se decomisará a los responsables del delito de cohecho el dinero o dádivas entregados.
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. TRAFICO DE INFLUENCIA
 
 ###### ARTICULO 186.
 
@@ -2119,7 +2219,7 @@ IV.- Cualquier persona que sin tener el carácter de servidor público estatal o
 
 Al que cometa el delito de peculado se le impondrán de seis meses a doce años de prisión, de diez a trescientos días multa y destitución, en su caso, e inhabilitación de seis meses a doce años, para ejercer un empleo, cargo o comisión públicos.
 
-### CAPITULO UNICO. DELITOS COMETIDOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
 ###### ARTICULO 187.
 
@@ -2127,7 +2227,7 @@ Comete el delito de concusión el servidor público que con tal carácter y a t�
 
 Al que cometa el delito de concusión, se le aplicarán prisión de tres meses a nueve años, de diez a doscientos cincuenta días multa y destitución, en su caso, e inhabilitación de tres meses a nueve años, para ejercer empleo, cargo o comisión públicos.
 
-### CAPITULO I. RESPONSABILIDAD MEDICA Y TECNICA
+### CAPITULO UNICO. DELITOS COMETIDOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 188.
 
@@ -2151,15 +2251,13 @@ Al que cometa el delito de uso indebido de atribuciones y facultades se le impon
 
 Cuando el monto a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el salario mínimo diario general vigente en la capital del Estado, el día en que se hubiere cometido el delito, se impondrán de uno a cinco años de prisión, de veinte a doscientos días multa y destitución, en su caso, e inhabilitación de uno a cinco años, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPITULO I. RESPONSABILIDAD MEDICA Y TECNICA
 
 ###### ARTICULO 189.
 
 Se impondrán de seis meses a nueve años de prisión, de diez a doscientos cincuenta días multa y destitución, en su caso, e inhabilitación de seis meses a nueve años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que por sí o por medio de terceros, inhiba o intimide, por medio de la violencia física o moral, a cualquier persona, para evitar que ésta o alguien con ella relacionada, formule denuncia, acusación o querella o aporte información relativa a las conductas sancionadas por la legislación penal del Estado o por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS, TITULOS AL PORTADOR
-
-Y DOCUMENTOS RELATIVOS AL CREDITO
+### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 ###### ARTICULO 190.
 
@@ -2173,7 +2271,9 @@ Al que cometa el delito de ejercicio abusivo de funciones se le impondrán de un
 
 Cuando el monto a que asciendan las operaciones a que hace referencia este artículo exceda de mil veces el salario mínimo diario general vigente en la capital del Estado, el día en que se hubiere cometido el delito, se impondrán de uno a diez años de prisión, de veinte a trescientos días multa y destitución, en su caso, e inhabilitación de uno a diez años, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO II. FALSIFICACION DE DOCUMENTOS EN GENERAL
+### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS, TITULOS AL PORTADOR
+
+Y DOCUMENTOS RELATIVOS AL CREDITO
 
 ###### ARTICULO 191.
 
@@ -2187,7 +2287,7 @@ III.- El servidor público que por sí o por interpósita persona indebidamente,
 
 Al que cometa el delito de tráfico de influencia se le impondrán de dos a seis años de prisión, de veinte a doscientos días multa y destitución, en su caso, e inhabilitación de dos a seis años, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO III. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS ANTE UNA AUTORIDAD O NOTARIO PÚBLICO
+### CAPITULO II. FALSIFICACION DE DOCUMENTOS EN GENERAL
 
 ###### ARTICULO 192.
 
@@ -2201,11 +2301,11 @@ Decomiso en beneficio del Estado o del Municipio, según corresponda, de aquello
 
 Se le aplicará además, prisión de uno a nueve años, de veinte a doscientos cincuenta días multa y destitución, en su caso, e inhabilitación de uno a nueve años, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO IV. VARIACIONES DEL NOMBRE O DEL DOMICILIO
+### CAPITULO III. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS ANTE UNA AUTORIDAD O NOTARIO PÚBLICO
 
 ## TITULO OCTAVO. DELITOS COMETIDOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
+### CAPITULO IV. VARIACIONES DEL NOMBRE O DEL DOMICILIO
 
 ###### ARTICULO 193.
 
@@ -2281,7 +2381,7 @@ A quien cometa los delitos previstos en las fracciones IX, X, XI, XII, XIII, XIV
 
 ## TITULO NOVENO. RESPONSABILIDAD PROFESIONAL
 
-### CAPITULO VI. USO INDEBIDO DE UNIFORMES, EMBLEMAS, SIMBOLOS, CREDENCIALES, PLACAS O GAFETES OFICIALES
+### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 
 ###### ARTICULO 194.
 
@@ -2303,7 +2403,7 @@ Igualmente serán responsables en la forma que previene el artículo 194, todos 
 
 Quienes ejerzan la medicina y sin causa debidamente justificada se nieguen a prestar sus servicios a un enfermo en caso de notoria urgencia, poniendo en peligro la vida de dicho enfermo, por exigir que se les pague anticipadamente su trabajo, se les aplicará de diez a trescientas jornadas de trabajo en favor de la comunidad. Si se produjere daño por la falta de intervención, se les impondrán prisión de un mes a cinco años e inhabilitación para el ejercicio profesional por el mismo plazo.
 
-### CAPITULO VII. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO VI. USO INDEBIDO DE UNIFORMES, EMBLEMAS, SIMBOLOS, CREDENCIALES, PLACAS O GAFETES OFICIALES
 
 ###### ARTICULO 198.
 
@@ -2347,7 +2447,7 @@ IV.- A los defensores que sin fundamento no promuevan las pruebas conducentes en
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO. MALVIVENCIA
+### CAPITULO VII. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 200.
 
@@ -2389,25 +2489,7 @@ Si el sujeto activo es empleado de la víctima, la pena se aumentará en una mit
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
-### CAPITULO I. HOSTIGAMIENTO SEXUAL Y ABUSOS DESHONESTOS
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 212 BIS.- Al que solicite favores de naturaleza sexual para sí o para un tercero, con el anuncio expreso o tácito de causar a la víctima un mal relacionado con las legítimas expectativas que pueda tener en el ámbito de una relación, bien sea entre superior o inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el campo laboral, docente, doméstico o cualquier otro, se le impondrá sanción de dos meses a dos años de prisión.
-
-Si el hostigador fuese servidor público, y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior se le destituirá de su cargo.
-
-Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
-
-Este delito se perseguirá sólo a petición de parte ofendida.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
-
-Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
-
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+### CAPITULO UNICO. MALVIVENCIA
 
 ###### ARTICULO 201.
 
@@ -2469,7 +2551,25 @@ VI.- El que a sabiendas hiciere uso de un documento falso, sea público o privad
 
 Cuando alguno de los delitos previstos en este Capítulo sea ejecutado por un servidor público en ejercicio o con motivo de sus funciones, será sancionado, además, con destitución, en su caso, e inhabilitación para ocupar otro empleo, cargo o comisión públicos, hasta por tres años.
 
-### CAPITULO II. ESTUPRO
+### CAPITULO I. HOSTIGAMIENTO SEXUAL Y ABUSOS DESHONESTOS
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 212 BIS.- Al que solicite favores de naturaleza sexual para sí o para un tercero, con el anuncio expreso o tácito de causar a la víctima un mal relacionado con las legítimas expectativas que pueda tener en el ámbito de una relación, bien sea entre superior o inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el campo laboral, docente, doméstico o cualquier otro, se le impondrá sanción de dos meses a dos años de prisión.
+
+Si el hostigador fuese servidor público, y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior se le destituirá de su cargo.
+
+Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
+
+Este delito se perseguirá sólo a petición de parte ofendida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 205.
 
@@ -2497,9 +2597,7 @@ V.- Al servidor público que rinda a una autoridad, informes relativos a sus fun
 
 Cuando el traductor, perito o testigo se retracte espontáneamente de sus falsas declaraciones y faltare a la verdad en dicha retractación, se le impondrán de seis meses a ocho años de prisión y de diez a doscientos cincuenta días multa.
 
-### CAPITULO III. VIOLACION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE MAYO DEL 2001)</small>
+### CAPITULO II. ESTUPRO
 
 ###### ARTICULO 207.
 
@@ -2513,7 +2611,9 @@ II.- Al que para eludir la práctica de una diligencia o una notificación de cu
 
 Se sancionará con prisión de seis meses a tres años y de diez a ciento cincuenta días multa, al servidor público o notario público que, en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenece.
 
-### CAPITULO IV. RAPTO
+### CAPITULO III. VIOLACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 209.
 
@@ -2523,9 +2623,7 @@ I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna
 
 II.- Al que se atribuya el carácter de profesionista y realice actos propios de una profesión sin llenar los requisitos que exija la respectiva ley reglamentaria.
 
-### CAPITULO V. INCESTO
-
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+### CAPITULO IV. RAPTO
 
 ###### ARTICULO 210.
 
@@ -2533,7 +2631,9 @@ Se impondrán de dos meses a dos años de prisión y de diez a cien días multa,
 
 Cuando los objetos o identificaciones a que se refiere el párrafo anterior, correspondan o sean representativos de una corporación policial, la sanción se duplicará.
 
-### CAPITULO I. SUPOSICION, SUPRESION, OCULTACION Y SUBSTITUCION DE INFANTE; Y VIOLACION DE IMPEDIMENTOS CIVILES
+### CAPITULO V. INCESTO
+
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 211.
 
@@ -2543,7 +2643,7 @@ TITULO DECIMOPRIMERO
 
 DELITOS DE PELIGROSIDAD SOCIAL
 
-### CAPITULO II. BIGAMIA
+### CAPITULO I. SUPOSICION, SUPRESION, OCULTACION Y SUBSTITUCION DE INFANTE; Y VIOLACION DE IMPEDIMENTOS CIVILES
 
 ###### ARTICULO 212.
 
@@ -2555,7 +2655,7 @@ DELITOS SEXUALES
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-### CAPITULO III. INCUMPLIMIENTO DE OBLIGACIONES FAMILIARES
+### CAPITULO II. BIGAMIA
 
 ###### ARTICULO 213.
 
@@ -2613,9 +2713,7 @@ La pérdida de la patria potestad por parte del reo, no implica la falta de cump
 
 En el supuesto señalado en la fracción V del presente artículo, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión hasta por cinco años.
 
-### CAPITULO IV. Violencia Intrafamiliar
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
+### CAPITULO III. INCUMPLIMIENTO DE OBLIGACIONES FAMILIARES
 
 ###### ARTICULO 215.
 
@@ -2645,7 +2743,9 @@ Por el solo hecho de no haber cumplido dieciséis años de edad la mujer estupra
 
 La reparación del daño, en los casos de estupro, comprenderá el pago de los alimentos a la mujer y a los hijos, si los hubiere, además de la que corresponda por los demás daños materiales y morales que el imputado cause a la víctima. Dicho pago se hará en la forma y términos que la ley fija en los casos de divorcio.
 
-### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO IV. Violencia Intrafamiliar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 218.
 
@@ -2725,7 +2825,7 @@ La pérdida de la patria potestad por parte del sentenciado, no implica la falta
 
 En el supuesto señalado en la fracción VI del presente artículo, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión hasta por cinco años.
 
-### CAPITULO I. AMENAZAS
+### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 221.
 
@@ -2753,9 +2853,7 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida o de su m
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por este último.
 
-### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+### CAPITULO I. AMENAZAS
 
 ###### ARTICULO 226.
 
@@ -2771,7 +2869,9 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA FAMILIA
 
-### CAPITULO I. LESIONES
+### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 227.
 
@@ -2805,13 +2905,13 @@ III.- A la mujer que contraiga matrimonio antes del vencimiento de los términos
 
 IV.- Al que contraiga matrimonio o a quienes autoricen su celebración con un incapaz por insania mental.
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 231.
 
 Se impondrán de seis meses a cinco años de prisión y de diez a doscientos días multa al que, estando unido con una persona en matrimonio no disuelto, ni declarado nulo, contraiga otro matrimonio con las formalidades legales. Estas mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al momento de celebrarse el matrimonio.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 232.
 
@@ -2831,9 +2931,7 @@ Para que el perdón concedido por la víctima u ofendido, o representante de los
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE MAYO DEL 2001)</small>
 
-### CAPÍTULO III BIS. FEMINICIDIO
-
-> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTICULO 234-A.
 
@@ -2921,9 +3019,11 @@ TITULO DECIMOCUARTO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
+### CAPÍTULO III BIS. FEMINICIDIO
 
-### CAPITULO V. ABORTO
+> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
+
+### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 235.
 
@@ -2951,9 +3051,7 @@ TITULO DECIMOQUINTO
 
 DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+### CAPITULO V. ABORTO
 
 ###### ARTICULO 238.
 
@@ -2975,7 +3073,9 @@ Si el amenazador cumple su amenaza, y como consecuencia resultare cometido otro 
 
 Si el amenazador exigía que el amenazado ejecutara un delito y consigue su propósito, se aplicarán las reglas relativas al concurso de delitos, respecto de la sanción aplicable a la amenaza y la que corresponda por su participación en el delito que resulte.
 
-### CAPITULO VII. ABANDONO DE PERSONAS
+### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 240.
 
@@ -2995,6 +3095,8 @@ TITULO DECIMOSEXTO
 
 DELITOS CONTRA LA VIDA Y LA SALUD
 
+### CAPITULO VII. ABANDONO DE PERSONAS
+
 ### CAPITULO I. INJURIAS Y DIFAMACION
 
 ### CAPITULO II. CALUMNIA
@@ -3004,8 +3106,6 @@ DELITOS CONTRA LA VIDA Y LA SALUD
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-### CAPITULO I. CHANTAJE
 
 ###### ARTICULO 242.
 
@@ -3079,9 +3179,7 @@ Los padres o tutores que a sabiendas que sus hijos o pupilos padecen alguna enfe
 
 Cuando el contagio llegare a consumarse, el responsable será sancionado en los términos que para el delito de lesiones u homicidio fija este Código.
 
-### CAPITULO II. EXTORSION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+### CAPITULO I. CHANTAJE
 
 ###### ARTICULO 252.
 
@@ -3163,15 +3261,13 @@ No se considerará calificado el homicidio cometido por la madre que prive de la
 
 Al responsable de cualquier otro homicidio calificado se impondrá de veinte a cincuenta años de prisión.
 
+### CAPITULO II. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
 ### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO II. SECUESTRO
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 259.
 
@@ -3211,23 +3307,11 @@ ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
+### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-ARTÍCULO 301 B.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor de doce años o de un incapaz, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de tres a nueve años y de doscientos a quinientos días multa.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-La misma pena a que se refiere el párrafo anterior se aplicará al tercero que reciba al menor o incapaz.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Se aplicará una mitad más de la pena señalada en el párrafo primero, a quien ejerciendo la patria potestad o la custodia de un menor o incapaz, injustificadamente otorgue su consentimiento para su ilegítima entrega o cuando lo entregue directamente para su custodia definitiva a cambio de un beneficio económico.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Cuando el consentimiento, la entrega y recepción del menor o incapaz, se haga con el propósito de incorporarlo a un núcleo familiar y otorgarle los beneficios propios de esa incorporación, las penas a que se refiere éste artículo se reducirán una mitad en su término mínimo y máximo.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 263 Bis 1.
 
@@ -3265,13 +3349,29 @@ En el delito de feminicidio se observará lo que señalan los artículos 252 BIS
 
 Al servidor público que maliciosamente o por negligencia, retarde o entorpezca la procuración o administración de justicia, se le sancionará conforme a lo establecido en el artículo 193 fracción VII de éste Código Penal.
 
+### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 301 B.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor de doce años o de un incapaz, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de tres a nueve años y de doscientos a quinientos días multa.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+La misma pena a que se refiere el párrafo anterior se aplicará al tercero que reciba al menor o incapaz.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Se aplicará una mitad más de la pena señalada en el párrafo primero, a quien ejerciendo la patria potestad o la custodia de un menor o incapaz, injustificadamente otorgue su consentimiento para su ilegítima entrega o cuando lo entregue directamente para su custodia definitiva a cambio de un beneficio económico.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Cuando el consentimiento, la entrega y recepción del menor o incapaz, se haga con el propósito de incorporarlo a un núcleo familiar y otorgarle los beneficios propios de esa incorporación, las penas a que se refiere éste artículo se reducirán una mitad en su término mínimo y máximo.
+
 ### CAPITULO IV. TRATA DE PERSONAS
 
 (NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
-
-### CAPITULO I. ROBO
 
 ###### ARTICULO 264.
 
@@ -3285,7 +3385,7 @@ Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad o no 
 
 Si se auxilia o induce al suicidio a una persona por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### ARTICULO 265.
 
@@ -3313,7 +3413,7 @@ No es punible el aborto causado por culpa de la mujer embarazada, o cuando el em
 
 No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### ARTICULO 271.
 
@@ -3347,7 +3447,7 @@ Además de las sanciones señaladas, se decretará el decomiso en beneficio del 
 
 Si las conductas a que se refieren las fracciones anteriores se llevan a cabo en más de una ocasión, la sanción será de dos a nueve años y de cincuenta a mil días multa.
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 272.
 
@@ -3383,9 +3483,9 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
+### CAPITULO IV. FRAUDE
 
-### CAPITULO VI. DESPOJO
+### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
 ###### ARTICULO 276.
 
@@ -3419,7 +3519,7 @@ DELITOS CONTRA EL HONOR
 
 (DEROGADO, B.O. 12 DE JULIO DE 2007)
 
-### CAPITULO VII. DAÑOS
+### CAPITULO VI. DESPOJO
 
 ###### ARTICULO 284.
 
@@ -3461,7 +3561,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio, en la investigación de un delito o imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO UNICO. ENCUBRIMIENTO
+### CAPITULO VII. DAÑOS
 
 ###### ARTICULO 288.
 
@@ -3491,7 +3591,7 @@ TITULO DECIMOCTAVO
 
 CHANTAJE Y EXTORSION
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO UNICO. ENCUBRIMIENTO
 
 ###### ARTICULO 292.
 
@@ -3499,7 +3599,7 @@ Comete el delito de chantaje, el que con ánimo de lucro u otro provecho, bajo l
 
 Al responsable del delito de chantaje se le impondrán de seis meses a diez años de prisión y de diez a trescientos días multa.
 
-### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 293.
 
@@ -3514,6 +3614,8 @@ TITULO DECIMONOVENO
 PRIVACION ILEGAL DE LA LIBERTAD, VIOLACION DE OTROS DERECHOS, SECUESTRO Y TRATA DE PERSONAS
 
 ## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
+
+### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 294.
 
@@ -4570,3 +4672,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en Bo
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado de Sonora acuerda que, en un plazo no mayor a seis meses, contado a partir de la entrada en vigor del presente Decreto, se legislará para establecer en el Código de Procedimientos Penales para el Estado de Sonora, los protocolos de investigación con perspectiva de género, necesarios para una correcta procuración e impartición de justicia en lo concerniente al feminicidio.
+
+B.O. 2 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
