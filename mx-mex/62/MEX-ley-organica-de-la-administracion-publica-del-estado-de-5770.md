@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2013-10-17"
+last_updated: "2013-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -457,6 +457,12 @@ I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás d
 
 II. Recaudar los impuestos, derechos, aportaciones de mejoras, productos y aprovechamientos, que correspondan al Estado; y las contribuciones federales y municipales en los términos de los convenios suscritos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+En cuanto a las contribuciones federales en términos de los convenios suscritos señalados en el párrafo anterior, para la mejor organización del trabajo se establece que el Secretario de Finanzas encomiende a los funcionarios a que se refiere el último y penúltimo párrafos del presente artículo, cualesquiera de sus facultades otorgadas por los propios convenios suscritos, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por el propio Secretario.
+
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
 
 III. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y de más (sic) de su ramo, aplicables en el Estado.
@@ -518,6 +524,20 @@ Difundir permanentemente y publicar anualmente las disposiciones fiscales estata
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
 
 XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la hacienda pública del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+En materia de impuestos federales coordinados, en cumplimiento de los convenios y acuerdos de coordinación fiscal tendrá las siguientes facultades:
+
+a). Intervenir como parte en los juicios contra resoluciones o actos emitidos por el Gobierno del Estado en ejercicio de sus facultades por ingresos federales ya sea por sí o a través de las dependencias u organismos auxiliares de la administración pública estatal, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público y/o al Servicio de Administración Tributaria.
+
+b). Ejercer las acciones, oponer las excepciones y defensas que correspondan a los actos emitidos por el Gobierno del Estado en los juicios.
+
+c). Intervenir en los juicios interpuestos contra requerimientos de pago a cargo de instituciones de fianzas con base en pólizas que se hayan expedido para asegurar el interés fiscal.
+
+d). Interponer recurso de revisión en nombre y representación del Gobierno del Estado de México, en contra de las sentencias y resoluciones ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Fiscal y Administrativa y las dictadas en el Juicio en Línea, en relación con los juicios en que el propio Estado haya intervenido como parte.
 
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
 
@@ -678,6 +698,18 @@ En los convenios antes mencionados que celebre el Estado se podrán estipular la
 LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
 
 LVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+El Secretario de Finanzas, para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Procurador Fiscal, Contador General, Directores Generales, Directores de Área, Titulares de Área, Subdirectores, Jefes de Departamento, Coordinadores, Delegados, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones legales, salvo aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas únicamente por el Secretario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, se auxiliará de las autoridades señaladas en el párrafo anterior para el despacho de los asuntos de su competencia en materia de impuestos federales coordinados, en cumplimiento de los convenios y acuerdos de coordinación fiscal, dentro de las facultades otorgadas por el reglamento interior de la Secretaría, excepto aquéllas que por disposición de ley o del reglamento, deban ser ejercidas precisamente por el propio Secretario.
 
 > <small>(ADICIONADO, G.G. 4 DE MARZO DE 2000)</small>
 
@@ -1551,21 +1583,37 @@ A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
 
 I. Representar al Gobernador en los juicios en que él sea parte, pudiendo delegar ésta, en terceros o subalternos;
 
-II. Proporcionar y coordinar la asesoría en materia jurídica y consultiva a las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, con apego a las leyes, reglamentos y demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Revisar o elaborar los proyectos de iniciativas de ley o decreto que presente el Gobernador a la Legislatura del Estado;
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+II. Proporcionar y coordinar la asesoría en materia jurídica y consultiva a las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, a excepción de la materia fiscal, con apego a las leyes, reglamentos y demás disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+III. Revisar o elaborar los proyectos de iniciativas de ley o decreto que presente el Gobernador a la Legislatura del Estado, y en caso de que los mismos afecten el Presupuesto de Egresos, se estará a lo que dispone el artículo 288 del Código Financiero del Estado de México y Municipios;
 
 IV. Revisar o elaborar los proyectos de reglamentos, decretos o acuerdos y demás instrumentos jurídicos que se sometan a consideración y en su caso autorización del Gobernador;
 
 V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección;
 
-VI. Coordinar la función jurídica de la Administración Pública del Gobierno del Estado de México;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+VI. Coordinar la función jurídica de la Administración Pública del Gobierno del Estado de México, con excepción de la materia fiscal;
 
 VII. Asesorar jurídicamente al Gobernador en los asuntos que le encomiende;
 
 VIII. Elaborar el proyecto de agenda legislativa del Gobernador, atendiendo las propuestas dé las dependencias y organismos, y someterla a la consideración del mismo;
 
-IX. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+IX. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado, distintas de aquellas que se refieran a la materia fiscal;
 
 X. Definir, unificar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen la gestión de la Administración Pública del Estado;
 
@@ -2430,3 +2478,21 @@ G.G. 17 DE OCTUBRE DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 2 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2014.
+
+TERCERO.- Para efectos del segundo párrafo del artículo 7.7, la Secretaría de Transporte deberá enviar a la Secretaría de Finanzas los datos, informes y documentos que esta última le solicite, dentro del plazo de treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Con relación a la reforma al artículo 221, esta será aplicable a partir del ejercicio fiscal 2016, para los ejercicios fiscales 2014 y 2015, los coeficientes "C1i,t" y "C2i,t" tendrán la siguiente ponderación según el ejercicio fiscal del que se trate, de acuerdo a lo siguiente:
+
+Ejercicio Ponderación
+
+Fiscal C1i,t C2i,t
+
+2014 50% 50%
+
+2015 40% 60%
