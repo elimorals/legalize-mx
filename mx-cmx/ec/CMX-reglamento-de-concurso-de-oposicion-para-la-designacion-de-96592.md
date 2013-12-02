@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-concurso-de-oposicion-para-la-designacion-de-9659
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-15"
-last_updated: "2013-11-15"
+last_updated: "2013-12-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96592&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-10-08"
 
 REGLAMENTO DE CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de noviembre de 2013.
 
@@ -206,7 +206,13 @@ I. Llevar a cabo las acciones necesarias para el desarrollo de la primera y segu
 
 II. Elaborar y resguardar un banco de reactivos actualizado, cuya responsabilidad de actualización corresponde al Instituto de Estudios Judiciales.
 
-III. Todas las demás que se señalen en el presente ordenamiento y otros aplicables.
+(ADICIONADA, G.O. 2 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+
+III. Generar, integrar y recopilar la información, así como la documentación que se genere con motivo de los concursos, comprendiendo todas sus etapas desde su inicio hasta la publicación de los resultados respectivos, a fin de que los expedientes queden debidamente integrados para su resguardo y custodia por parte de dicho instituto.
+
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN III, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 2 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER IV.</small>
+
+IV. Todas las demás que se señalen en el presente ordenamiento y otros aplicables.
 
 ## TÍTULO TERCERO. CONVOCATORIA Y LISTA
 
@@ -591,3 +597,9 @@ EL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. ALFREDO ÁLVAREZ CÁRDENAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 2 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
