@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-11-19"
+last_updated: "2013-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4989,6 +4989,12 @@ XII. La promoción y publicidad sobre lotes de un conjunto urbano deberá apegar
 
 XIII. Los permisos para la venta de los lotes se otorgarán de manera proporcional al avance que presenten en su ejecución las obras de infraestructura, urbanización y equipamiento urbano que establezca la autorización respectiva, cada vez que dichas obras presenten un veinticinco por ciento de avance en su ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Para la venta de lotes o vivienda nueva en que intervenga una desarrolladora de conjuntos urbanos, se deberá acreditar por esta ante fedatario público con quien se formalice la operación, estar al corriente en el pago del impuesto predial y de derechos por el suministro de agua, en concordancia con lo establecido en los artículos 107 y 129 del Código Financiero del Estado de México y Municipios, requisito sin el cual no podrá verificarse la compraventa.
+
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 #### SECCIÓN SÉPTIMA. De los Condominios
@@ -6164,6 +6170,12 @@ Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de 
 ###### Artículo 7.
 
 7.- Corresponde a la Secretaría de Transporte matricular los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Transporte deberá proporcionar en forma mensual a la Secretaría de Finanzas los datos, informes y documentos a fin de verificar, unificar y mantener actualizado el padrón vehicular para efectos fiscales.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -16288,3 +16300,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo establecido por el presente Decreto.
+
+G.G. 2 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2014.
+
+TERCERO.- Para efectos del segundo párrafo del artículo 7.7, la Secretaría de Transporte deberá enviar a la Secretaría de Finanzas los datos, informes y documentos que esta última le solicite, dentro del plazo de treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Con relación a la reforma al artículo 221, esta será aplicable a partir del ejercicio fiscal 2016, para los ejercicios fiscales 2014 y 2015, los coeficientes “C1i,t” y “C2i,t” tendrán la siguiente ponderación según el ejercicio fiscal del que se trate, de acuerdo a lo siguiente:
+
+Ejercicio Ponderación
+
+Fiscal C1i,t C2i,t
+
+2014 50% 50%
+
+2015 40% 60%
