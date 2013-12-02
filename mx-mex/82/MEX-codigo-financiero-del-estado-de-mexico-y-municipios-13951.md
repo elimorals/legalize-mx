@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-11-12"
+last_updated: "2013-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN LA G.G. DE 19 DE DICIEMBRE DE 2013 Y 3 DE MARZO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 172, PUBLICADO EN LA G.G. DE 2 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -45,7 +49,9 @@ CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
 Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular la actividad financiera del Estado de México y municipios, en el ámbito de sus respectivas competencias.
 
-La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos, así como lo conducente a la transparencia y difusión de la información financiera relativa a la presupuestación, ejercicio, evaluación y rendición de cuentas, en apego a las disposiciones legales aplicables en la materia.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -59,7 +65,7 @@ Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, 
 
 Para efectos de este Código, Ley de Ingresos del Estado y del Presupuesto de Egresos se entenderá por:
 
-I. Ahorro Presupuestario. A la diferencia que resulte entre los recursos del presupuesto autorizado y el presupuesto que ejerza la dependencia u organismo auxiliar en el ejercicio de que se trate, sin afectar el cumplimiento de las metas de los programas, en los términos de las disposiciones aplicables. En este rubro se encuentran comprendidas las medidas previstas en las disposiciones generales en materia de ahorro y las vacantes en materia de servicios personales.
+I. (DEROGADA, G.G. 2 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -99,13 +105,15 @@ IX. Contraloría. A la Secretaría de la Contraloría.
 
 X. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
 
-XI. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+XI. Economías Presupuestarias. A la diferencia que resulte entre los recursos del presupuesto autorizado y el presupuesto que ejerza la dependencia u organismo auxiliar en el ejercicio de que se trate, sin afectar el cumplimiento de las metas de los programas, en los términos de las disposiciones aplicables. En este rubro se encuentran comprendidas las medidas previstas en las disposiciones generales en materia de ahorro y las vacantes en materia de servicios personales.
 
 XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de diciembre.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
+XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México, Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios y órganos electorales del Estado de México.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -145,11 +153,11 @@ XXII. Hacienda Pública. A la obtención, administración y aplicación de los i
 
 XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+XXIII-A. Ingresos Ordinarios. Proporción de los ingresos gubernamentales que de manera permanente y previsible obtiene el Estado o Municipios, que constituyen la fuente normal y periódica de recursos fiscales para financiar sus actividades. Se integran por los impuestos, derechos, aprovechamientos y los ingresos derivados del Sistema Nacional de Coordinación Fiscal y de otros apoyos federales, siempre y cuando que por su naturaleza no se encuentren destinados a un fin específico.
 
-XXIII-A. Ingresos Ordinarios. Son exclusivamente, los recursos percibidos por el Estado y los Municipios considerados en el artículo 1 de su respectiva Ley de Ingresos, del ejercicio fiscal del que se trate, con excepción de los Ingresos Derivados de Financiamiento.
+Para el cálculo de las transferencias que se le autoricen a los Organismos Autónomos y Entidades Públicas se exceptuará además de lo mencionado en el párrafo anterior los recursos provenientes del Ramo General 28 destinados a los Municipios y del Ramo 33, así como de otros ingresos de origen federal por estar destinados a un fin específico. De igual forma los ingresos propios de las Entidades Públicas por el cobro de Derechos, Cuotas y Aportaciones de Seguridad Social, Productos, Aprovechamientos e Ingresos por Venta de Bienes y Servicios.
 
 XXIV. Inversión financiera. Al importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito. Incluye el otorgamiento de créditos para el fomento de actividades productivas y las que tienen por objeto las prestaciones y apoyos distintos a las laborales de los servidores públicos y de los subsidios para la población.
 
@@ -209,41 +217,29 @@ XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asi
 
 XL. Vivienda. Es la prevista en la fracción I del artículo 5.37 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 285,586 pesos.
 
-A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 272,506 pesos.
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+B). Interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 285,586 pesos y menor o igual a 371,263 pesos.
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-B). Interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 272,506 pesos y menor o igual a 354,259 pesos.
+C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 371,263 pesos y menor o igual a 542,615 pesos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 542,615 pesos y menor o igual a 1,536,973 pesos.
 
-C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 354,259 pesos y menor o igual a 517,762 pesos.
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1,536,973 pesos y menor o igual a 2,554,698 pesos.
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 517,762 pesos y menor o igual a 1,466,577 pesos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1,466,577 pesos y menor o igual a 2,437,689 pesos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2,437,689 pesos.
+F). Residencial Alto y Campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2,554,698 pesos.
 
 En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
 
@@ -555,7 +551,9 @@ D). Exista oposición a la diligencia de notificación.
 
 E). El contribuyente desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio ante la autoridad fiscal estatal o municipal correspondiente, después de la notificación de la orden de visita o del requerimiento de información, o bien después de que se le hubiere notificado un crédito fiscal y no se pueda iniciar el procedimiento administrativo de ejecución.
 
-F). Cuando se señale domicilio inexistente o falso.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+F). Cuando no se señale domicilio, o sea inexistente o falso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -1133,6 +1131,10 @@ III. En los demás casos que señale este ordenamiento y demás disposiciones le
 
 Se podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sea notoria la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan.
+
 ###### Artículo 39.
 
 La cancelación de la garantía procederá en los siguientes casos:
@@ -1158,6 +1160,8 @@ Las garantías constituidas para asegurar el interés fiscal otorgadas mediante 
 Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal quede firme procederá su aplicación en pago.
 
 Tratándose de fianza otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se estará a lo dispuesto por la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 41.
 
@@ -1291,8 +1295,6 @@ En los supuestos de las fracciones IV, VI y XII, a que se refiere este artículo
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 42.
 
 Cuando por mandato de autoridad o el contribuyente solicite por escrito la devolución de cantidades pagadas indebidamente y las que procedan de conformidad con este Código, la autoridad fiscal deberá reintegrarlas mediante cheque nominativo, o en su caso, mediante depósito en cuenta, vía sistema de pago electrónico interbancario, debiendo incluir los datos del beneficiario, institución bancaria de que se trate, número de cuenta, cuenta Clave Bancaria Estandarizada, así como la sucursal y plaza, conforme a las disposiciones del Banco de México.
@@ -1391,6 +1393,18 @@ En el caso de que la compensación la realice la autoridad de oficio, deberá no
 
 La cancelación de créditos fiscales, procederá cuando sea incosteable o imposible su cobro, o bien, por insolvencia del deudor o de los responsables solidarios, debidamente probada.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Se consideran créditos de cobro incosteable aquellos cuyo importe sea inferior o igual al equivalente al límite que fije la correspondiente Ley de Ingresos, así como aquellos cuyo costo de recuperación rebase el 75% del importe histórico del crédito.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Se consideran insolventes los contribuyentes o sus responsables solidarios cuando no tengan bienes embargables o éstos ya se hubieran embargado y sean insuficientes para cubrir el crédito.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Existe imposibilidad práctica de cobro, entre otras, cuando los deudores no se puedan localizar o cuando no tengan bienes embargables, el deudor hubiera fallecido o desaparecido sin dejar bienes a su nombre que puedan ser objeto del procedimiento administrativo de ejecución, o cuando por sentencia firme hubiera sido declarado en quiebra por falta de activos.
+
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
@@ -1463,7 +1477,7 @@ II. Señalar el domicilio fiscal en el que realicen actividades que generen obli
 
 III. Consignar en las declaraciones, manifestaciones y avisos previstos en este Código, la clave de registro asignada por la autoridad fiscal.
 
-IV. Presentar los avisos que modifiquen los datos previamente declarados para efectos de registro, en un plazo que no excederá de diez días a partir de la fecha en que se de la modificación.
+IV. (DEROGADA, G.G. 2 DE DICIEMBRE DE 2013)
 
 V. Declarar y en su caso, pagar los créditos fiscales en los términos que disponga este Código.
 
@@ -1491,9 +1505,51 @@ X. Facilitar a las autoridades catastrales y fiscales el ejercicio de sus facult
 
 XI. Proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus clientes y proveedores, así como aquélla relacionada con su contabilidad que tengan en los medios o registros electrónicos.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-XII. Presentar el aviso de suspensión, reanudación, baja de actividades, apertura y cierre de establecimiento o cambio de domicilio para los impuestos previstos en este Código, en un plazo que no excederá de diez días a partir de la fecha en que se dé el acto.
+XII. Presentar los avisos que modifiquen los datos declarados o la situación fiscal del contribuyente para efectos de su registro, de acuerdo a los siguientes supuestos:
+
+A). Cambio o corrección de nombre, denominación o razón social.
+
+B). Cambio de régimen de capital o se transforme en otro tipo de sociedad.
+
+Tratándose de personas jurídico-colectivas, para tales efectos deberán exhibir el instrumento público en que conste dicha modificación.
+
+C). Cambio de domicilio fiscal o actualización de datos relativos a éste.
+
+D). Suspensión de actividades.
+
+E). Reanudación de actividades.
+
+F). Actualización de obligaciones.
+
+G). Baja de actividades.
+
+H). Apertura y cierre de sucursales.
+
+I). Inicio de liquidación.
+
+J). Apertura de sucesión.
+
+K). Cancelación en el Registro Estatal de Contribuyentes por:
+
+1. Liquidación de la sucesión.
+
+2. Defunción.
+
+3. Liquidación total del activo.
+
+4. Escisión de sociedades.
+
+5. Fusión de sociedades.
+
+6. Cambio de residencia a otra entidad federativa.
+
+L). Inicio de procedimiento de concurso mercantil.
+
+Los avisos a que refiere el presente artículo, se presentarán en un plazo que no exceda de diez días hábiles contados a partir de la fecha en que se dé el supuesto jurídico o el hecho que los motiven, en las formas y cumpliendo con los requisitos que se establezcan por las autoridades fiscales en los medios impresos o electrónicos oficiales que correspondan.
+
+Cuando no se presenten en el plazo referido, surtirán sus efectos a partir de la fecha en que sean presentados.
 
 En el caso de suspensión de actividades se deberá señalar un domicilio fiscal para efecto del cumplimiento de sus obligaciones fiscales.
 
@@ -1633,7 +1689,9 @@ Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los d
 
 I. El Contador Público que dictamine esté autorizado por la autoridad fiscal competente; su registro no esté dado de baja, se encuentre suspendido o cancelado en la fecha de presentación del dictamen; y no esté impedido en términos del artículo 47 E de este Código.
 
-II. El dictamen se formule de acuerdo con las normas de auditoria generalmente aceptadas que regulan la capacidad, independencia e imparcialidad profesionales del Contador Público, el trabajo que desempeña y la opinión profesional que rinda como resultado del mismo.
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+II. El dictamen se formule de acuerdo con las normas internacionales de auditoría.
 
 III. El Contador Público incluya en el dictamen que formule, el informe sobre la revisión de la situación fiscal del contribuyente en términos del artículo 47 H de este Código.
 
@@ -1717,19 +1775,15 @@ El Contador Público que sea autorizado para formular dictamen, deberá manifest
 
 Asimismo, el Contador Público autorizado deberá comprobar ante la autoridad fiscal competente dentro de los tres primeros meses de cada año, que continúa siendo miembro activo de un colegio profesional o asociación que estén reconocidos y autorizados por la Secretaría de Educación Pública y que cumplió con la norma de educación profesional continua o con su actualización académica, presentando las constancias pertinentes.
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-El registro otorgado para formular dictamen, se dará de baja del padrón de profesionistas autorizados que tengan las autoridades fiscales cuando el Contador Público en cuestión no formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años continuos, notificándosele este hecho por estrados, o por medio del SEITS si los interesados están autorizados para ello en los términos de la Ley de Medios Electrónicos, al colegio profesional o asociación de contadores públicos y, en su caso, a la federación de colegios profesionales a la que pertenezca. En estos casos, el Contador Público podrá solicitar a la autoridad fiscal competente que quede sin efectos dicha baja, manifestando los motivos que tenga para ello durante los 15 días hábiles siguientes a la fecha en que surta efectos la notificación correspondiente.
+Cuando el Contador Público en cuestión no formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años continuos, se le sancionará y notificará conforme a este Código o por medio del SEITS si los interesados están autorizados para ello en los términos de la Ley de Medios Electrónicos, al colegio profesional o asociación de contadores públicos y, en su caso, a la federación de colegios profesionales a la que pertenezca. En estos casos, el Contador Público podrá solicitar a la autoridad fiscal competente reconsiderar su determinación, manifestando los motivos que tenga para ello durante los 15 días hábiles siguientes a la fecha en que surta efectos la notificación correspondiente.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Cuando un Contador Público formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en contravención a lo dispuesto en este Código, la autoridad fiscal competente lo amonestará, suspenderá temporalmente los efectos de su registro para formular dictamen o cancelará definitivamente el registro que le haya otorgado revocando la autorización correspondiente, de conformidad a la fracción III del artículo 362 Bis de este Código, previa la garantía de audiencia establecida en el artículo 129 del Código de Procedimientos Administrativos del Estado de México.
+Cuando un Contador Público formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en contravención a lo dispuesto en este Código, la autoridad fiscal competente, previa audiencia, lo amonestará, suspenderá temporalmente los efectos de su registro para formular dictamen o cancelará definitivamente el registro que le haya otorgado revocando la autorización correspondiente, de conformidad a la fracción III del artículo 362 Bis de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En el caso de que un Contador Público haya obtenido la autorización y registro a que se refiere este artículo manifestando información falsa ante la autoridad fiscal competente, dicho otorgamiento quedará sin efectos a partir de que quede firme la resolución correspondiente, previa la garantía de audiencia señalada en el párrafo anterior, sin perjuicio de la sanción que corresponda.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1787,13 +1841,15 @@ Cuando el dictaminador o las personas jurídicas colectivas en las que sea miemb
 
 Lo dispuesto en este artículo, no resulta aplicable para el IGECEM cuando se trate del dictamen sobre la determinación de la base del Impuesto Predial que deba realizar respecto de los inmuebles que sean propiedad del Gobierno del Estado.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 47-F.
+Artículo 47 F.- Las normas internacionales de auditoría a que se refiere la fracción II del artículo 47 C de este Código, se consideran cumplidas en la forma siguiente:
 
-Las normas de auditoría a que se refiere la fracción II del artículo 47 C de este Código, se consideran cumplidas en la forma siguiente:
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 I. Las relativas a la capacidad, independencia e imparcialidad profesionales del Contador Público autorizado, cuando su registro se encuentre vigente y no tenga impedimento para dictaminar en términos del artículo 47 E de este Código.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 II. Las relativas al trabajo profesional, cuando:
 
@@ -1806,6 +1862,8 @@ A). La planeación del trabajo y la supervisión de sus ayudantes le permitan al
 B). El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría aplicables a las circunstancias que habrán de emplearse.
 
 C). Los elementos probatorios y la información presentada en el dictamen como soporte de la determinación y pago de la contribución revisada al contribuyente y en las notas aclaratorias relativas, sean suficientes y adecuados para su razonable interpretación.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten, indicando los motivos y, en su caso, los fundamentos legales y conceptos que las originaron, señalando las inconsistencias o diferencias detectadas, así como su efecto cuantificado sobre la determinación y pago de la contribución revisada, emitiendo en consecuencia como resultado de su trabajo, una opinión negativa o con salvedades, según corresponda. Cuando se carezca de elementos probatorios, el Contador Público emitirá una abstención razonada de opinión sobre la información y documentación que en su conjunto tenga del contribuyente, respecto del cumplimiento de sus obligaciones fiscales.
 
@@ -1873,11 +1931,9 @@ Artículo 47 H.- En el informe a que se refiere la fracción IV del artículo 47
 
 I. Que se emite con estricto apego a lo dispuesto en este Código y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales, respecto de toda la información y documentación del contribuyente relacionada con la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-II. Que dentro de las pruebas llevadas a cabo en cumplimento a las normas de auditoría generalmente aceptadas, se examinó la situación fiscal del contribuyente por el ejercicio fiscal y la contribución que comprende el dictamen. En caso de haber observado cualquier omisión respecto al cumplimiento de las obligaciones fiscales del contribuyente inherentes a la contribución revisada, ésta se mencionará en forma expresa; con independencia de que sea subsanada antes de la presentación del dictamen; de lo contrario, se manifestará haberse cerciorado mediante la utilización de procedimientos de auditoría general aplicables a las circunstancias, que la contribución revisada fue razonablemente determinada y pagada.
+II. Que dentro de las pruebas llevadas a cabo en cumplimiento a las normas internacionales de auditoría, se examinó la situación fiscal del contribuyente por el ejercicio fiscal y la contribución que comprende el dictamen. En caso de haber observado cualquier omisión respecto al cumplimiento de las obligaciones fiscales del contribuyente inherentes a la contribución revisada, esta se mencionará en forma expresa; con independencia de que sea subsanada antes de la presentación del dictamen, de lo contario, se manifestará haberse cerciorado mediante la utilización de procedimientos de auditoría generalmente aplicables a las circunstancias, que la contribución revisada fue razonablemente determinada y pagada.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1922,6 +1978,16 @@ IX. Que se verificó el correcto registro y valuación de todas las obligaciones
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 X. Que se corroboró la integración a la base para la determinación del impuesto revisado, del monto total de las remuneraciones al trabajo personal sin deducción o disminución alguna, así como de las erogaciones provenientes de pasivos u obligaciones pendientes de pago relacionados con la base de dicho impuesto, de acuerdo al alcance establecido y la naturaleza de los procedimientos de auditoría generalmente aceptados aplicables a las circunstancias.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Artículo 47 I.- Las facultades a que se refiere el artículo 47 D, penúltimo párrafo de este Código, se ejercerán por las autoridades fiscales mediante el siguiente procedimiento:
+
+l. Determinada la irregularidad, ésta será hecha del conocimiento del Contador Público autorizado, a efecto de que en un plazo de diez días manifieste por escrito lo que a su derecho convenga, donde además ofrezca y exhiba las pruebas que considere pertinentes:
+
+II. Agotado el periodo probatorio a que se refiere la fracción anterior, con los elementos que obren en el expediente, la autoridad fiscal emitirá la resolución que proceda, y
+
+III. La resolución se emitirá en un plazo que no excederá de doce meses, contado a partir de que se agote el plazo señalado en la fracción I de este artículo.
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -2273,7 +2339,7 @@ Cuando en el desarrollo de la revisión se conozcan hechos u omisiones de los co
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Para estos efectos, el contribuyente o su representante legal podrán acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que le exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
+Para estos efectos, el contribuyente o su representante legal podrán, acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que se exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -2355,6 +2421,22 @@ XXI. Revisar los dictámenes sobre la determinación de la base del impuesto Pre
 
 XXII. Verificar en coordinación con el IGECEM en su caso, la determinación del valor catastral o base del impuesto Predial de los inmuebles objeto de dictaminación.
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Señalar el establecimiento principal donde se realicen actividades que generen obligaciones fiscales, cuando los contribuyentes cuenten con sucursales dentro del territorio del Estado y no lo hayan designado.
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+XXIV. En materia del Registro Estatal de Contribuyentes, realizar la verificación física para constatar la inscripción o los datos proporcionados al mismo, relacionados con la identidad, domicilio y demás información que se haya manifestado para los efectos de dicho registro, así como el cumplimiento de obligaciones fiscales, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La autoridad fiscal derivado de la información obtenida en la verificación podrá modificar los datos contenidos en el Registro Estatal de Contribuyentes a fin de mantener actualizado dicho registro.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+En caso de que el contribuyente se negare a presentar la documentación correspondiente al llevar a cabo la verificación, se hará acreedor a la multa establecida en el artículo 361 fracción VIII de este Código.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
@@ -2369,7 +2451,9 @@ Tratándose del dictamen de la determinación de la base del Impuesto Predial, n
 
 Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación revisen el dictamen y la demás información y documentación con éste relacionada, a que se refieren los artículos 47 C, 47 G y 47 H de este Código, estarán a lo siguiente:
 
-I. La revisión se llevará a cabo con el Contador Público que haya formulado el dictamen, requiriéndole por escrito y con copia al contribuyente lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+l. La revisión se llevará a cabo con el Contador Público que haya formulado el dictamen, requiriéndole por escrito lo siguiente:
 
 A). La información que conforme a este Código deba estar incluida en los documentos dictaminados para efectos fiscales.
 
@@ -2563,23 +2647,43 @@ Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones ad
 
 No se podrá resolver favorablemente una solicitud de revisión administrativa por violaciones de forma o de procedimiento.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la autoridad al respecto no podrán ser impugnadas por los contribuyentes.
+Lo señalado en el tercer párrafo no constituirá instancia y las resoluciones que dicte la autoridad al respecto no podrán ser impugnadas por los contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 55.
 
-Los servidores públicos que intervengan en trámites relativos a la aplicación de este Código, están obligados a guardar la confidencialidad de los datos que proporcionen los particulares, excepto en los casos que de manera expresa se disponga lo contrario, o cuando lo requiera la autoridad competente para la defensa de los intereses de la hacienda pública; o bien, las autoridades judiciales o administrativas o aquellas del ámbito federal encargadas de la procuración y administración de justicia; dicha confidencialidad tampoco comprenderá la información relativa a la publicación de los créditos fiscales que estén firmes o en controversia, o bien de los contribuyentes no localizados, así como de aquella otorgada a terceros que auxilien a las autoridades fiscales en la búsqueda y localización de contribuyentes.
+Los servidores públicos que intervengan en trámites relativos a la aplicación de este Código, están obligados a guardar en absoluta reserva o confidencialidad, según sea el caso, lo concerniente a las declaraciones y datos que proporcionen los particulares o terceros relacionados con ellos, así como los obtenidos en el ejercicio de las facultades de comprobación.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Lo anterior no será aplicable cuando se presenten los siguientes supuestos:
+
+I. De manera expresa lo disponga el Código;
+
+II. Lo requiera la autoridad competente para la administración o defensa de los intereses de la hacienda pública;
+
+III. La que soliciten las autoridades judiciales y administrativas encargadas de la procuración de justicia, sean locales o federales;
+
+IV. Los créditos fiscales, que se encuentren en los siguientes supuestos:
+
+A). Firmes;
+
+B). En controversia que no estén garantizados;
+
+C). Que no estén pagados o cese la autorización del pago a plazos, y
+
+D). Determinados a contribuyentes no localizados.
+
+V. Información otorgada a terceros que auxilien a las autoridades fiscales en la búsqueda y localización de contribuyentes.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 Dicha confidencialidad tampoco comprenderá la información relativa a los créditos fiscales mayores a 25,000 pesos exigibles de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de Información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para regular las Agrupaciones Financieras, ni la que se proporcione para efectos de la notificación por terceros.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 El uso, manejo y transmisión de datos personales a que se refieren los párrafos anteriores se sujetará a las disposiciones que para tal efecto señale la ley de la materia.
 
@@ -2695,85 +2799,79 @@ Quienes realicen pagos a trabajadores por concepto de edificación de obra, acab
 
 En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 20 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)|
-
-Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal cuyo monto global no exceda de 272,506 pesos, no causarán este impuesto. Tampoco causarán este impuesto los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 54,500 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal cuyo monto global no exceda de 285,586 pesos, no causarán este impuesto. Tampoco causarán este impuesto los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 57,116 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Al importe que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente tabla, se le aplicará la tasa vigente a que se refiere el artículo 57 de este código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADA EN SU TARIFA,
-
-G.G. 19 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 Tipo de obra Costo por m2
 
-Bardas $ 314
+Bardas $329
 
-Bodegas $ 417
+Bodegas $437
 
-Canchas de tenis $174
+Canchas de tenis $182
 
-Casa habitación de interés social $698
+Casa habitación de interés social $732
 
-Casa habitación tipo medio $828
+Casa habitación tipo medio $868
 
-Casa habitación residencial de lujo $1,084
+Casa habitación residencial de lujo $1,136
 
-Cines $808
+Cines $847
 
-Edificios habitacionales de interés social $675
+Edificios habitacionales de interés social $707
 
-Edificios habitacionales tipo medio $785
+Edificios habitacionales tipo medio $823
 
-Edificios habitacionales de lujo $1,156
+Edificios habitacionales de lujo $1,211
 
-Edificios de oficinas $675
+Edificios de oficinas $707
 
-Edificios de oficinas y locales comerciales $891
+Edificios de oficinas y locales comerciales $934
 
-Escuelas de estructura de concreto $609
+Escuelas de estructura de concreto $638
 
-Escuelas de estructura metálica $732
+Escuelas de estructura metálica $767
 
-Estacionamientos $393
+Estacionamientos $412
 
-Gasolineras $465
+Gasolineras $487
 
-Gimnasios $698
+Gimnasios $732
 
-Hospitales $1,200
+Hospitales $1,258
 
-Hoteles $1,209
+Hoteles $1,267
 
-Hoteles de lujo $1,628
+Hoteles de lujo $1,706
 
-Locales comerciales $725
+Locales comerciales $760
 
-Naves industriales $619
+Naves industriales $649
 
-Naves para fábricas, bodegas y/o talleres $434
+Naves para fábricas, bodegas y/o talleres $455
 
-Piscinas $552
+Piscinas $578
 
-Remodelaciones $711
+Remodelaciones $745
 
-Templos $665
+Templos $697
 
-Urbanizaciones $241
+Urbanizaciones $253
 
-Vías de comunicación subterráneas y conexas $1,231
+Vías de comunicación subterráneas y conexas $1,290
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 57.
 
-El impuesto se determinará aplicando la tasa del 2.5% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
+El impuesto se determinará aplicando la tasa del 3.0% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2829,9 +2927,9 @@ VI. Pensiones, jubilaciones y gastos funerarios.
 
 VII. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-VIII. Pagos a personas discapacitadas.
+VIII. Pagos a personas discapacitadas o con enfermedades en estado terminal, crónicas o degenerativas, que les impida o limite el desempeño o desarrollo en forma habitual de sus funciones en un trabajo, conforme a las reglas que al efecto emita la Secretaría.
 
 IX. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
@@ -3225,11 +3323,11 @@ antigüedad depreciación
 
 El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con el factor de actualización determinado con base en lo establecido en el segundo párrafo del artículo 60 C de éste Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 60 Bis.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2011)
+Las personas físicas y jurídicas colectivas, que habitualmente se dediquen a la enajenación de vehículos nuevos, están obligadas a presentar ante la autoridad fiscal competente, declaración trimestral de las enajenaciones de vehículos realizadas en el periodo, dentro de los primeros 15 días siguientes al vencimiento del trimestre que se reporta, que deberá contener como mínimo el nombre, registro federal de contribuyentes y domicilio del adquirente, así como el número de serie y clave vehicular, conforme a las reglas de carácter general que emita la Secretaría y que habrán de publicarse en el Periódico Oficial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3255,9 +3353,9 @@ Se considera que la adquisición se realizó en el Estado cuando la compra-venta
 
 Se entiende por adquisición de vehículos automotores usados, la que derive de todo acto por el que se transmita la propiedad, incluyendo la donación y la sucesión. En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Están obligadas a retener y enterar el impuesto en términos de este Código, las personas físicas o jurídicas colectivas que reciban en consignación vehículos automotores usados y los enajenen. En este caso, deberán de entregar la constancia de retención correspondiente a la persona física o jurídica colectiva que adquiera el vehículo, en la que se indicarán los datos del propietario anterior, el valor de la operación, el monto del impuesto retenido y los datos de identificación del vehículo.
+Están obligadas a retener y enterar el impuesto en términos de este Código, las personas físicas o jurídicas colectivas que reciban en consignación vehículos automotores usados y los enajenen. En este caso, deberán de entregar la constancia de retención correspondiente a la persona física o jurídica colectiva que adquiera el vehículo dentro de los quince días siguientes a la fecha en que se realice la enajenación, en la que se indicarán los datos del propietario anterior, el valor de la operación, el monto del impuesto retenido y los datos de identificación del vehículo.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3273,33 +3371,31 @@ I. Tratándose de automóviles de hasta diez años modelo anterior al de aplicac
 
 Se considerará el valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizado, sin incluir el Impuesto al Valor Agregado, siempre y cuando se encuentre desglosado, y se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA EN EL AÑO Y EN SU FACTOR DE ACTUALIZACIÓN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO EN SU TABLA Y TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 AÑOS DE AÑO FACTOR DE FACTOR DE
 
 ANTIGÜEDAD DEPRECIACIÓN ACTUALIZACIÓN
 
-1 2013 0.9750 1.0000
+1 2014 0.9750 1.0000
 
-2 2012 0.8500 1.0480
+2 2013 0.8500 1.0480
 
-3 2011 0.7250 1.0837
+3 2012 0.7250 1.0837
 
-4 2010 0.6000 1.1288
+4 2011 0.6000 1.1288
 
-5 2009 0.5000 1.1886
+5 2010 0.5000 1.1886
 
-6 2008 0.4000 1.2495
+6 2009 0.4000 1.2495
 
-7 2007 0.3000 1.2990
+7 2008 0.3000 1.2990
 
-8 2006 0.2250 1.3462
+8 2007 0.2250 1.3462
 
-9 2005 0.1500 1.3999
+9 2006 0.1500 1.3999
 
-10 2004 0.0750 1.4922
+10 2005 0.0750 1.4922
 
 La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tasa del 1%.
 
@@ -3307,19 +3403,15 @@ La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el fa
 
 II. En el caso de vehículos de más de diez años modelo de fabricación o ejercicio automotriz anterior al año fiscal de que se trata la determinación del impuesto será atendiendo al número de cilindros del motor conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADA EN SU TARIFA,
-
-G.G. 19 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO EN SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 CONCEPTO CILINDRAJE TARIFA
 
-Hasta 4 $242
+Hasta 4 $254
 
-De 5 a 6 $732
+De 5 a 6 $767
 
-De más de 6 $913
+De más de 6 $957
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -3425,9 +3517,9 @@ Quienes obtengan premios derivados de las loterías, rifas, sorteos o concursos 
 
 La disposición contenida en el párrafo anterior también se aplica al organizador cuando el boleto premiado no haya sido vendido.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
+Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención del impuesto correspondiente, a la persona que obtenga el premio.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3457,57 +3549,79 @@ IV. Señalar en los boletos, billetes, contraseñas o instrumentos que permitan 
 
 V. Presentar declaración mensual informativa dentro de los primeros 10 días del mes siguiente al en que se realizaron los eventos respecto de las personas físicas y jurídico colectivas, incluidas las asociaciones en participación, que obtuvieron premios derivados de loterías, rifas, sorteos o juegos permitidos con cruce de apuestas, conforme a las reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial.
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
+#### Sección Quinta. Del Impuesto sobre la Prestación de Servicios de Hospedaje
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-SUBSECCION PRIMERA
+Artículo 69 A.- Están obligados al pago de este impuesto y lo trasladarán en forma expresa y por separado a las personas que reciban los servicios, las personas físicas y jurídicas colectivas que en el territorio del Estado presten el servicio de hospedaje a través de hoteles, moteles, albergues, posadas, hosterías, mesones, casa de huéspedes, villas, búngalos, campamentos, paraderos de casas rodantes, departamentos amueblados con fines de hospedaje para fines turísticos y otros establecimientos que presten servicios de esta naturaleza, incluyendo los que prestan estos servicios bajo la modalidad de tiempo compartido.
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCIÓN PRIMERA BIS. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA CONSEJERÍA JURÍDICA
+Artículo 69 B.- El impuesto se determinará aplicando la tasa del 4% sobre el monto total de la contraprestación por el servicio de hospedaje, sin considerar, el importe de los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-SUBSECCIÓN PRIMERA
+Artículo 69 C.- Este impuesto se pagará mediante declaración, en la forma oficial aprobada por la Secretaría de Finanzas, a más tardar el día diez del mes siguiente a aquél en que se perciban las contraprestaciones.
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCIÓN TÉCNICA Y DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO"
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-(ADICIONADO, G.G. 25 DE FEBRERO DE 2013) (REFORMADO EN SUS TARIFAS, G.G. 15 DE MARZO DE 2013)
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
+Artículo 69 D.- La Secretaría de Finanzas podrá determinar presuntivamente la base gravable o fuente generadora de este impuesto cuando se actualicen los supuestos establecidos en el artículo 49.
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+Para tales efectos la autoridad tomará el número de habitaciones o cuartos destinados al alojamiento y lo multiplicará por el costo promedio diario de la tarifa establecida y lo elevará al periodo sujeto a revisión, siendo el resultado la base del impuesto.
 
-#### SECCIÓN TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
+El costo promedio diario se determinará sumando las diferentes tarifas vigentes al momento de la revisión y el resultado obtenido se dividirá entre el número de tarifas establecidas por el prestador del servicio de hospedaje.
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+En caso de que el contribuyente no proporcione las tarifas a que se hace referencia en este artículo se tomará como referencia la tarifa más alta que tenga a la vista a la fecha del ejercicio de las facultades de comprobación de la autoridad.
 
-#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO URBANO
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
+Artículo 69 E.- Las personas que presten los servicios de hospedaje, además de las obligaciones establecidas en otros artículos de este Código y en las demás disposiciones fiscales, tendrán las siguientes:
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE AGUA Y OBRA PUBLICA
+a). Solicitar su inscripción en el Registro Estatal de Contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+b) Trasladar el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo dentro del plazo señalado en esta sección, debiendo de emitir el comprobante correspondiente.
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+c) Llevar un registro en el que se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje y los datos relativos a la ocupación.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 172, PUBLICADO EN LA G.G. DE 2 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE CAPÍTULO.</small>
+
+> <small>(REFORMADOA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SEGURIDAD CIUDADANA
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE EDUCACION
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
 
-DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL AGUA Y OBRA PUBLICA
 
-#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
-
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70.
 
-Las cantidades en moneda nacional que se establezcan en las cuotas y tarifas de los derechos contemplados en este capítulo, se actualizarán el primer día del mes de enero de cada año.
+Las cantidades en moneda nacional que se establezcan en las cuotas y tarifas de los derechos contemplados en este Capítulo, se actualizarán el primer día del mes de enero de cada año.
 
 Para tal efecto se aplicará el factor de actualización anual que se establece en la Ley de Ingresos del Estado de México para el ejercicio fiscal de que se trate sobre aquellas cuotas y tarifas de los derechos que no hayan sido modificadas desde la última actualización general indicada en el párrafo anterior. El factor será publicado en la "Gaceta del Gobierno" del Estado de México.
 
@@ -3516,6 +3630,8 @@ Las cifras que presenten diferencias por redondeo hasta por dos pesos, derivado 
 Las cantidades de los derechos que se señalan como límites mínimos o máximos se actualizarán con la misma periodicidad y factor de actualización referidos.
 
 Cuando el pago de los derechos se haya efectuado por el contribuyente y no sea prestado por alguna eventualidad sustantiva, incapacidad técnica o material, se procederá en su caso, a la devolución de la contribución enterada, no siendo obligatoria la prestación del servicio para la autoridad.
+
+Para efectos del párrafo anterior, se tendrá como base para que se compute la prescripción, la fecha en la que la autoridad informe por escrito al contribuyente la imposibilidad de la prestación del servicio correspondiente, lo cual en ningún caso generará interés ni accesorio legal alguno.
 
 Una vez realizado el pago de los derechos el contribuyente o retenedor deberá de efectuar su trámite ante la autoridad prestadora del servicio a más tardar en un plazo de treinta días.
 
@@ -3575,39 +3691,71 @@ Con relación a aquellos derechos que se calculen con base en límites mínimos 
 
 La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de este Código.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 71.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Siempre que así lo establezca expresamente la ley de su creación u otras disposiciones aplicables, los montos de los derechos por los servicios que presten los organismos públicos descentralizados podrán actualizarse cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor, desde el mes en que se actualizaron por última vez conforme al presente artículo, exceda del 10% (diez por ciento) utilizando el factor de actualización que a continuación se describe. Dicha actualización entrará en vigor a partir del mes siguiente a aquél en el que se haya dado el incremento respectivo y se mantendrá vigente hasta la fecha de entrada en vigor de una nueva actualización.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
+Para efectos de lo previsto en el párrafo siguiente se entenderá por "periodo" el plazo comprendido entre el mes en que se calculó la última actualización conforme al presente artículo y el mes en el que a partir de dicha fecha el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor exceda del 10% (diez por ciento); en el entendido que el primer "periodo" empezará a contar a partir del mes de enero de 2009.
 
-SUBSECCION SEGUNDA
+El factor de actualización a que se refiere el primer párrafo de este artículo se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al último mes del periodo respectivo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al primer mes de dicho periodo. La Secretaría de Finanzas publicará en la Gaceta del Gobierno el factor de actualización en el entendido de que la falta de publicación no afectará su actualización.
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
+Con relación a aquellos derechos que se calculen con base en límites mínimos y máximos, los montos mínimos y máximos se actualizarán de conformidad con lo establecido en el primer párrafo de este artículo.
+
+La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de éste Código.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 72.
 
-(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+Por los servicios prestados por las dependencias y entidades públicas, relativos a la supervisión y control necesarios para la ejecución de obra pública, se cobrará un 2% por concepto de derechos a los contratistas con quien se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas, mediante retención que ellas realicen.
+
+Esta retención deberá ser enterada a la Subsecretaría de Tesorería de la Secretaría a través de la Caja General de Gobierno, de acuerdo a la fecha límite para el ejercicio de la obra pública o de servicios relacionados con la misma.
+
+De igual manera, los Municipios que ejecuten obra pública con cargo parcial o total a los recursos del Fondo Estatal de Fortalecimiento Municipal o su equivalente, aplicarán esta disposición debiendo enterarla a la Subsecretaría de Tesorería de la Secretaría a través de la Caja General de Gobierno, a más tardar el último día hábil del mes de marzo del siguiente ejercicio fiscal.
+
+Para el cobro de estos derechos, los Organismos Autónomos harán las retenciones de los mismos de acuerdo a sus propias disposiciones.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
-(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+Por la expedición de los siguientes documentos se pagarán:
 
-#### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
+TARIFA
 
-(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+CONCEPTO
+
+l. Por la expedición de copias certificadas:
+
+A). Por la primera hoja. $59
+
+B). Por cada hoja subsecuente. $28
+
+II. Copias simples:
+
+A). Por la primera hoja. $16
+
+B). Por cada hoja subsecuente. $2
+
+III. Expedición de copias certificadas de testimonios de viviendas de interés social, social progresiva y popular. $15
+
+IV. Por la expedición de información en medios magnéticos. $15
+
+V. Por la expedición de información en disco compacto. $23
+
+VI. Por el escaneo y digitalización de documentos que sean entregados por vía electrónica, en medio magnético o disco compacto. $0.50
+
+Para los supuestos establecidos en las fracciones IV y V, el solicitante podrá, en ejercicio del derecho a la información pública, aportar el medio en el que se requiera le sea proporcionada la información, en cuyo caso no habrá costo que cubrir.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
-
-(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
-
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
-
-(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-###### Artículo 75.
 
 Las personas físicas y jurídicas colectivas que presten los servicios de seguridad privada, pagarán derechos conforme a la siguiente:
 
@@ -3615,67 +3763,41 @@ TARIFA
 
 CONCEPTO
 
-I. Por la consulta de antecedentes policiales en el
+l. Por la consulta de antecedentes policiales en el Registro Público correspondiente, respecto del personal operativo con que cuentan los prestadores de servicios, por elemento. $362
 
-Registro Público correspondiente, respecto del
+II. Por el estudio y evaluación de la solicitud para la prestación de servicios de seguridad privada, en los términos de ley, o su revalidación. $1,809
 
-personal operativo con que cuentan los prestadores
+III. Por el estudio para determinar la legalidad de inscribir cada arma de fuego o equipo utilizado en la prestación de los servicios, por cada arma o equipo. $362
 
-de servicios, por elemento. $345
+IV. Por el estudio para determinar la legalidad de inscribir en el Registro Público correspondiente, de cada uno de los elementos operativos de quienes la Secretaría haya efectuado la consulta previa de antecedentes policiales, por elemento. $362
 
-II. Por el estudio y evaluación de la solicitud para la
+V. Por la expedición de cédula de identificación a personal operativo, por cada elemento o su reposición. $302
 
-prestación de servicios de seguridad privada, en los
+VI. Por la modalidad de la prestación de los servicios de seguridad privada. $603
 
-términos de ley, o su revalidación. $1,727
+VII. Por el cambio de modalidad del servicio de seguridad privada o su ampliación. $1,809
 
-III. Por el estudio para determinar la legalidad de
+VIII. Por inscripción de licencia colectiva de portación de arma de fuego por cada uno de los elementos operativos. $362
 
-inscribir cada arma de fuego o equipo utilizado en
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-la prestación de los servicios, por cada arma
-
-o equipo. $345
-
-IV. Por el estudio para determinar la legalidad de
-
-inscribir en el Registro Público correspondiente,
-
-de cada uno de los elementos operativos de quienes
-
-la Secretaría haya efectuado la consulta previa de
-
-antecedentes policiales, por elemento. $345
-
-V. Por la expedición de cédula de identificación
-
-a personal operativo, por cada elemento o su reposición. $288
-
-VI. Por la modalidad de la prestación de los servicios
-
-de seguridad privada. $576
-
-VII. Por el cambio de modalidad del servicio de
-
-seguridad privada o su ampliación. $1,727
-
-VIII. Por inscripción de licencia colectiva de portación
-
-de arma de fuego por cada uno de los elementos
-
-operativos. $345
-
-SUBSECCION TERCERA
+SUBSECCION PRIMERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION CIVIL
 
-(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 76.
+SUBSECCION PRIMERA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA JUNTA DE CAMINOS
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 75.
 
 Por los servicios prestados por la Dirección General de Protección Civil, se pagarán derechos conforme a la siguiente:
 
@@ -3683,249 +3805,1377 @@ TARIFA
 
 CONCEPTO
 
-I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil:
+l. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil:
 
-A). Grupos voluntarios. $3,351
+A). Grupos voluntarios. $3,512
 
-B). Prestadoras de servicios de consultoría o capacitación
+B). Prestadoras de servicios de consultoría o capacitación en materia de protección civil. $4,104
 
-en materia de protección civil. $3,916
+II. Por la evaluación de las condiciones de seguridad para usos del suelo que generen impacto regional. $4,214
 
-II. Derogada.
+III. Por la prestación de los servicios de asesoría técnica a personas físicas o jurídicas colectivas que así lo soliciten, para la elaboración de sus programas específicos de protección civil. $3,164
 
-III. Por la evaluación de las condiciones de seguridad para
+IV. Por la evaluación del análisis de vulnerabilidad y riesgo, así como la incorporación de información cualitativa del Subsistema Afectable identificado al Sistema Estatal de Información de Protección Civil. $4,104
 
-usos del suelo que generen impacto regional. $4,021
+V. Por el suministro de atlas estatal de riesgos o de los productos del Sistema Estatal de Información de Protección Civil, en medios digitales o impresos. $2,541
 
-IV. Por la prestación de los servicios de asesoría técnica
+VI. Por la prestación de los servicios que involucre el Programa de Capacitación en materia de Protección Civil:
 
-a personas físicas o jurídicas colectivas que así lo soliciten,
+A). Prevención y Combate de Incendios Urbanos Nivel Básico, Incendios Estructurales, y Normatividad en la materia, por cada curso. $1,326
 
-para la elaboración de sus programas específicos de
+B). Prevención y Combate de Incendios Urbanos Nivel Intermedio e Incendios Industriales por cada curso. $2,210
 
-protección civil. $3,019
+C). Manejo Defensivo de Vehículos de Emergencia, Operación y Mantenimiento de Auto-Bombas y Preparación Psicofísica del Rescatista, por cada curso. $1,326
 
-V. Por la evaluación del análisis de vulnerabilidad y
+D). Equipos de Aire Autocontenido. $2,210
 
-riesgo, así como la incorporación de información
+E). Prevención y Combate de Incendios Urbanos Nivel Avanzado y Formación Profesional de Instructores, por cada curso. $2,463
 
-cualitativa del Subsistema Afectable identificado al
+F). Elaboración de Programas, Introducción a la Protección Civil, Taller de Integrantes de Brigadas Internas y Amenaza Bomba, por cada curso. $758
 
-Sistema Estatal de Información de Protección Civil. $3,916
+G). Práctica para Brigadas Internas. $1,010
 
-VI. Por el suministro de atlas estatal de riesgos o de los
+H). Protección Civil para Caravanas. Desfiles y Eventos Especiales. $758
 
-productos del Sistema Estatal de Información de
+I). Taller sobre Fenómenos Perturbadores y Ayuda Humanitaria en Situación de Emergencia, por cada curso. $505
 
-Protección Civil, en medios digitales o impresos. $2,424
+J). Riesgo Químico y Transporte de Mercancía, Gestión en la Administración de Desastres y Riesgos, por cada curso. $1,010
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+K). Rescate Módulo Uno y Dos, por cada curso. $1,326
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+L). Rescate Módulo Tres y Cuatro, Soporte Básico de la Vida, Rescate Agreste, en Espacios Confinados y Estructuras Colapsadas, por cada curso. $2,463
 
-VII. Por la prestación de los servicios que involucre el Programa de Capacitación en materia de Protección Civil:
+M). Manejo de Paciente Politraumatizado. $1,326
 
-A). Prevención y Combate de Incendios Urbanos Nivel Básico, Incendios Estructurales, y Normatividad en la materia, por cada curso. $1,265.50
+N). Manejo de Paciente Clínico. $2,463
 
-B). Prevención y Combate de Incendios Urbanos Nivel Intermedio e Incendios Industriales por cada curso. $2,109
+O). Empaquetamiento y Transporte de Lesionados. $1,516
 
-C). Manejo Defensivo de Vehículos de Emergencia, Operación y Mantenimiento de Auto-Bombas y Preparación Psicofísica del Rescatista, por cada curso. $1,265.50
+P). Taller Curso de Extracción Vehicular. $2,210
 
-D). Equipos de Aire Autocontenido. $2,109
+Q). RCP para Profesionales de la Salud. $2,463
 
-E). Prevención y Combate de Incendios Urbanos Nivel Avanzado y Formación Profesional de Instructores, por cada curso. $2,350
+R). Prestación de Servicios Especiales. $1,137
 
-F). Elaboración de Programas, Introducción a la Protección Civil. Taller de Integrantes de Brigadas Internas y Amenaza Bomba, por cada curso. $723.00
+VII. Por la evaluación de las condiciones de seguridad para la emisión de la opinión favorable del Ejecutivo Estatal, en términos de la Ley Federal de Armas de Fuego y Explosivos:
 
-G). Práctica para Brigadas Internas. $964
+A). Carro vitrina para juguetería pirotécnica. $439
 
-H). Protección Civil para Caravanas, Desfiles y Eventos Especiales. $723
+B). Bodega para artificios pirotécnicos. $1,761
 
-I). Taller sobre Fenómenos Perturbadores y Ayuda Humanitaria en Situación de Emergencia, por cada curso. $482
+C). Fabricación de artificios pirotécnicos. $2,641
 
-J). Riesgo Químico y Transporte de Mercancía, Gestión en la Administración de Desastres y Riesgos, por cada curso. $964
+D). Fábrica de elementos pirotécnicos. $5,137
 
-K). Rescate Módulo Uno y Dos, por cada curso. $1,265.50
+E). Compra-venta de sustancias químicas. $3,156
 
-L). Rescate Módulo Tres y Cuatro, Soporte Básico de la Vida, Rescate Agreste, en Espacios Confinados y Estructuras Colapsadas, por cada curso. $2,350
+F). Instalaciones en que se realiza la compra-venta de sustancias químicas. $3,156
 
-M). Manejo de Paciente Politraumatizado. $1,265.50
+G). Obras de ingeniería civil. $3,156
 
-N). Manejo de Paciente Clínico. $2,350
+H). Industrias químicas de transformación. $3,156
 
-O). Empaquetamiento y Transporte de Lesionados. $1,446
+I). Almacén para la compra-venta de pólvoras deportivas, fulminantes y demás proyectiles impulsados por deflagración de pólvora, así como clubes y campos de tiro y cacería. $2,604
 
-P). Taller Curso de Extracción Vehicular. $2,109
+J). Reparación de armas de fuego y gas. $2,087
 
-Q). RCP para Profesionales de la Salud. $2,350
+K). Transporte especializado de explosivos. $2,783
 
-R). Prestación de Servicios Especiales. $1,085
+VIII. Por la evaluación de Programas Específicos de Protección Civil:
 
-VIII. Por la evaluación de las condiciones de seguridad para la emisión de la opinión favorable del Ejecutivo Estatal, en términos de la Ley Federal de Armas de Fuego y Explosivos:
+A). Presentación del programa. $3,164
 
-A). Carro vitrina para juguetería pirotécnica. $419
+B). Actualización del programa. $1,184
 
-B). Bodega para artificios pirotécnicos. $1,681
+IX. Por la evaluación y dictamen de condiciones de seguridad de los bienes inmuebles, sus instalaciones y equipo, por cada vez que se solicite. $4,214
 
-C). Fabricación de artificios pirotécnicos. $2,520
+X. Evaluación de condiciones de seguridad en sitios de concentración masiva de población donde se reúnan 3,000 o más personas, ó se realicen torneos de gallos:
 
-D). Fábrica de elementos pirotécnicos. $4,902
+A). Instalaciones fijas, anual. $7,024
 
-E). Compra-venta de sustancias químicas. $3,012
+B). Instalaciones eventuales, por cada ocasión que se realice. $7,024
 
-F). Instalaciones en que se realiza la compra-venta de
+XI. Por el suministro de guías:
 
-sustancias químicas. $3,012
+A). Para la elaboración de programas específicos de protección civil. $1,124
 
-G). Obras de ingeniería civil. $3,012
+B). Para la elaboración de análisis de vulnerabilidad y riesgo, por guía. $1,124
 
-H). Industrias químicas de transformación. $3,012
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+#### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
 
-(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-I). Almacén para la compra-venta de pólvoras
+###### Artículo 76.
 
-deportivas, fulminantes y demás proyectiles
+Por los servicios prestados por la Secretaría de Finanzas, se pagarán los siguientes derechos:
 
-impulsados por deflagración de pólvora,
+TARIFA
 
-así como clubes y campos de tiro y cacería. $2,485
+CONCEPTO
 
-J). Reparación de armas de fuego y gas. $1,991
+l. Expedición de certificados por cada foja. $59
 
-K). Transporte especializado de explosivos. $2,656
+II. Expedición de formas aprobadas. $54
 
-IX. Por la evaluación de Programas Específicos de Protección Civil:
+III. Práctica de auditoría realizada a solicitud de particulares:
 
-A). Presentación del programa. $3,019
+A). Hora auditor. $48
 
-B). Actualización del programa. $1,129
+B). Hora supervisor. $81
 
-X. Por la evaluación y dictamen de condiciones de seguridad
+IV. Por el almacenaje de bienes muebles secuestrados y liberados en la vía del procedimiento administrativo de ejecución y no retirados oportunamente, se pagarán derechos de acuerdo con lo siguiente:
 
-de los bienes inmuebles, sus instalaciones y equipo, por cada
+A). Cuando los bienes ocupen hasta 1 m2 de superficie, por día. $10
 
-vez que se solicite. $4,021
+B). Por cada metro o fracción excedente, por día. $2
 
-XI. Evaluación de condiciones de seguridad en sitios de concentración masiva de población donde se reúnan 3,000 o más personas, ó se realicen torneos de gallos:
+V. Expedición de copias microfilmadas a papel, por imagen. $15
 
-A). Instalaciones fijas, anual. $6,702
+VI. Expedición de constancia de inexistencia de documentos. $30
 
-B). Instalaciones eventuales, por cada ocasión que se realice. $6,702
+VII. Expedición de constancias de pago de contribuciones y de constancias que reflejen la situación fiscal del contribuyente. $152
 
-XII. Por el suministro de guías:
+VIII. Por los servicios prestados a las casas de empeño se pagarán los derechos siguientes:
 
-A). Para la elaboración de programas específicos de
+A). Por la solicitud, estudio, revisión y resolución del trámite de permiso, así como por el refrendo anual correspondiente. $8,000
 
-protección civil. $1,072
+B). Por cada modificación solicitada del permiso. $1,000
 
-B). Para la elaboración de análisis de vulnerabilidad y riesgo,
+C). Por la expedición de duplicado del permiso. $500
 
-por guía. $1,072
+D). Por el registro de valuadores. $1,000
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE DICIEMBRE DE 2007)</small>
+E). Por refrendo anual del registro de valuadores. $1,000
 
-SUBSECCION CUARTA
+No pagarán estos derechos las empresas registradas en el Padrón Nacional de la Microindustria.
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 77.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios de control vehicular prestados por la Secretaría de Finanzas, que sean de su competencia, se pagarán los siguientes derechos:
 
-#### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
+TARIFA
 
-(F. DE E., G.G. 25 DE MARZO DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+CONCEPTO
+
+I. Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
+
+A). Para vehículos de servicio particular. $581
+
+B). Para vehículos particulares de carga comercial. $1,212
+
+C). Para remolques:
+
+1. Con capacidad de carga de hasta 1,000 Kgs. $1,514
+
+2. Con capacidad de carga de 1,001 a 5,000 Kgs. $1,812
+
+3. Con capacidad de carga de 5,001 a 10,000 Kgs. $2,165
+
+4. Con capacidad de carga de 10,001 Kgs., en adelante. $2,947
+
+D). Para motocicleta, motoneta, trimoto y cuadrimoto:
+
+1. Cilindrada hasta de 350 c.c. $422
+
+2. Cilindrada 351 c.c. en adelante. $485
+
+E). Para auto antiguo. $2,075
+
+Para efectos del presente inciso, se entenderá por auto antiguo, a aquel vehículo con una antigüedad mínima de 30 años a partir de la fecha de su fabricación, que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación, debiendo contar con una certificación de sus condiciones físico-mecánicas, expedida por el fabricante u organismo de certificación, laboratorio de prueba o unidad de verificación debidamente acreditado.
+
+Los derechos previstos en esta fracción se pagarán previamente a la prestación de los servicios o en su caso, dentro de los días considerados dentro del permiso provisional autorizado.
+
+II. Por refrendo anual:
+
+A). Para vehículos de uso particular. $434
+
+B). Para vehículos particulares de carga comercial. $1,087
+
+C). Para remolques:
+
+1. Con capacidad de carga de hasta 1,000 Kg. $1,514
+
+2. Con capacidad de carga de 1,001 a 5,000 Kg. $1,812
+
+3. Con capacidad de carga de 5,001 a 10,000 Kg. $2,165
+
+4. Con capacidad de carga de 10,001 Kg en adelante. $2,947
+
+D). Para motocicleta, motoneta, trimoto y cuadrimoto:
+
+1. Cilindrada hasta de 350 cm3 $422
+
+2. Cilindrada 351 cm3 en adelante. $485
+
+E). Para auto antiguo. $2,095
+
+Los derechos previstos en esta fracción se pagarán anualmente en los mismos plazos establecidos en este ordenamiento para el impuesto sobre tenencia o uso de vehículos, mediante declaración.
+
+III. Por el duplicado o reposición de la tarjeta de circulación, con motivo de correcciones por errores imputables al contribuyente o actualizaciones de datos que afecten el registro en el padrón vehicular. $643
+
+IV. Por cambio de propietario. $330
+
+V. Por la expedición de permiso para circular sin placas y tarjeta de circulación hasta por treinta días:
+
+A). Para vehículos de uso particular. $176
+
+B). Para vehículos particulares de carga comercial. $703
+
+C). Para remolques. $350
+
+D). Para motocicleta, motoneta, trimoto y cuadrimoto. $176
+
+VI. Por la expedición del permiso para transportar carga en vehículo particular, por quince días y hasta por una ocasión en el ejercicio fiscal de que se trate. $201
+
+VII. Por el trámite de baja de vehículos o placas:
+
+A). Particular. $351
+
+B). Vehículos particulares de carga comercial. $492
+
+C). Remolque. $470
+
+D). Motocicleta, motoneta, trimoto y cuadrimoto. $290
+
+VIII. Por los servicios relativos a las placas en demostración y traslado:
+
+A). Por la expedición inicial de placas y tarjeta de circulación. $1,620
+
+B). Refrendo anual. $1,095
+
+C). Baja. $382
+
+IX. Por otros servicios relativos al transporte particular y comercial, se pagarán los siguientes derechos:
+
+A). Por la práctica de revista a vehículos particulares de carga. $416
+
+B). Autorización con vigencia anual para el transporte de carga particular. $921
+
+Los derechos previstos en este inciso, se pagarán anualmente de manera simultánea con el Impuesto sobre Tenencia o Uso de Vehículos o el Impuesto sobre Tenencia o Uso de Vehículos Automotores, según corresponda, mediante declaración, dentro de los tres primeros meses de cada año.
+
+C). Por los servicios de certificación de extravío, mutilación o deterioro de documentos que amparen la circulación del vehículo. $59
+
+X. Por la obtención de un número de placas específico sujeto a disponibilidad. $3,344
+
+Una vez realizado el pago de los derechos señalados en esta fracción el contribuyente deberá concluir el trámite en un plazo de treinta días hábiles; de no ser así se procederá conforme a lo señalado en el quinto párrafo del artículo 70 de éste Código.
+
+Tratándose de los servicios previstos en las fracciones I, II, III, IV, V y VII de este artículo, el pago tendrá una reducción del 50% cuando se trate de vehículos habilitados para personas con discapacidad y vehículos eléctricos.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 78.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios prestados por el Instituto de Seguridad Social del Estado de México y Municipios, se pagarán los siguientes derechos:
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
+TARIFA
+
+CONCEPTO
+
+I. Expedición de identificación institucional del ISSEMYM. $105
+
+No se generará el pago de los derechos contenidos en esta fracción, si el servidor público se ubica en los siguientes supuestos:
+
+A). Si tramita la expedición de su identificación institucional del ISSEMYM y en su caso, la de sus dependientes económicos dentro del plazo de 30 días hábiles posteriores a la fecha de su alta como servidor público.
+
+B). Si una vez realizado su registro y obtenida su identificación institucional ante el Instituto, el servidor público:
+
+1. Registre a su cónyuge, dentro de los 30 días hábiles siguientes a la fecha de su matrimonio.
+
+2. Registre a sus hijos, dentro de los 30 días hábiles siguientes a la fecha de su nacimiento.
+
+3. Registre a su concubina o concubinario, dentro de los 30 días hábiles siguientes a la fecha en que el Instituto le reconozca tal carácter, en términos de lo dispuesto por la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios.
+
+4. Registre a sus ascendientes o hijos mayores de edad con discapacidad o inhabilitados, dentro de los 30 días hábiles siguientes a la fecha de notificación del dictamen favorable de afiliación.
+
+II. Expedición de duplicado de identificación institucional del ISSEMYM. $105
+
+III. Expedición de duplicado de gafete de identificación institucional del ISSEMYM. $210
+
+IV. Acta informativa por extravío, robo o pérdida de identificación o gafete de identificación institucional del ISSEMYM. $52
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA CONSEJERIA JURÍDICA
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+SUBSECCION PRIMERA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION DE LEGALIZACION Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 79.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios prestados por la Secretaría de Educación, se pagarán derechos conforme a la siguiente:
+
+TARIFA
+
+CONCEPTO
+
+I. Por solicitud, estudio, revisión y resolución del trámite de autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
+
+A). Preescolar. $5,126
+
+B). Primaria. $5,334
+
+C). Secundaria. $6,564
+
+D). Normal. $9,877
+
+II. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios, por plan de estudios, a escuelas particulares de educación media superior. $8,533
+
+III. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios, por plan de estudios o carrera a escuelas particulares de educación superior. $10,667
+
+IV. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios por turno y por modalidad, a escuelas particulares:
+
+A). Educación Media Superior. $8,533
+
+B). Educación Superior. $10,669
+
+V. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación media superior:
+
+A). Por plan de estudio o carrera. $7,467
+
+B). Por modalidad y turno. $7,467
+
+VI. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación superior:
+
+A). Por plan de estudio o carrera. $9,336
+
+B). Por modalidad y turno. $9,336
+
+VII. Por vigencia anual de derechos, por autorización de plan de estudios, modalidad y turno a escuelas particulares:
+
+A). Preescolar. $5,338
+
+B). Primaria. $5,529
+
+C). Secundaria. $6,506
+
+D). Normal. $10,422
+
+VIII. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior, por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez, independientemente del grado o ciclo que curse. $79
+
+IX. Por cambios diversos:
+
+A). Por cambio de plan de estudio:
+
+1. Educación Media Superior para Profesional Medio. $3,696
+
+2. Educación Superior. $3,696
+
+B). Por cambio de denominación de carrera de educación superior.
+
+C). Por actualización de contenidos de programas de estudios: $1,067
+
+1. Educación Media Superior para Profesional Medio. $1,068
+
+2. Educación Superior. $1,068
+
+D). Por cambio de nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, docente de grupo, domicilio o turno:
+
+1. Educación Básica. $1,068
+
+2. Educación Media Superior. $1,068
+
+3. Educación Superior. $1,068
+
+E). Por cambio de plantilla de personal docente:
+
+1. Educación Media Superior. $1,068
+
+2. Educación Superior. $1,068
+
+No se causarán los derechos a que hace referencia el inciso D) de esta fracción, respecto del cambio de personal, cuando el particular acredite que el director o docente sustituido goza de incapacidad otorgada por la institución de seguridad social correspondiente.
+
+X. Por expedición de certificados o de duplicados de certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
+
+A). Por expedición de certificado:
+
+1. Educación Media Superior. $168
+
+2. Educación Superior. $238
+
+B). Por duplicado de certificado:
+
+1. Educación Básica. $99
+
+2. Educación Media Superior. $168
+
+3. Educación Superior. $238
+
+XI. Por resolución de revalidación de estudios o expedición de duplicados:
+
+A). Por resolución:
+
+1. Educación Básica. $50
+
+2. Educación Media Superior. $299
+
+3. Educación Superior. $895
+
+B). Por duplicado:
+
+1. Educación Media Superior. $106
+
+2. Educación Superior. $248
+
+C). Por modificación o enmienda:
+
+1. Educación Media Superior. $78
+
+2. Educación Superior. $248
+
+XII. Por resolución de equivalencia de estudios o expedición de duplicado:
+
+A). Por resolución:
+
+1. Educación Media Superior. $296
+
+2. Educación Superior. $886
+
+B). Por duplicado:
+
+1. Educación Media Superior. $101
+
+2. Educación Superior. $235
+
+XIII. Por expedición de cédula de pasante para el ejercicio profesional. $1,066
+
+XIV. Por expedición de duplicado de cédula de pasante para el ejercicio profesional. $533
+
+XV. Por inscripción de:
+
+A). Títulos profesionales con timbre holograma:
+
+1. Licenciatura o Grado Académico. $658
+
+2. Profesional Técnico o Técnico Superior Universitario. $400
+
+B). Certificado, constancia o diplomas de especialidad con timbre holograma. $658
+
+XVI. Por registro de colegios de profesionistas. $7,569
+
+XVII. Por enmienda al registro de los colegios de profesionistas. $1,068
+
+XVIII. Refrendo de registro de colegios de profesionistas. $1,068
+
+XIX. Autorización temporal para ejercer la actividad de perito. $1,068
+
+XX. Refrendo y expedición de duplicado a la autorización para ejercer la actividad de perito. $1,068
+
+XXI. Por la expedición de hojas de servicio, por cada hoja. $30
+
+XXII. Por la expedición de constancia de antecedentes profesionales. $70
+
+XXIII. Por solicitud, estudio, revisión y resolución del trámite de aprobación del reglamento académico o de titulación, o de la actualización del mismo, a planteles particulares de tipo superior. $1,058
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 80.
 
-(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
+Por los servicios prestados por el Organismo Público Descentralizado denominado Servicios Educativos Integrados al Estado de México, se pagarán derechos conforme a la siguiente:
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+TARIFA
 
-> <small>(REFORMADO Y REUBICADO, G.G. 22 DE FEBRERO DE 2013)</small>
+CONCEPTO
+
+I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno de educación:
+
+A). Preescolar. $5,333
+
+B). Primaria. $5,333
+
+C). Secundaria. $6,398
+
+D). Normal. $9,877
+
+II. Por vigencia anual de derechos, por autorización de plan de estudios, modalidad, carrera y turno a escuelas particulares:
+
+A). Preescolar. $5,339
+
+B). Primaria. $5,528
+
+C). Secundaria. $6,507
+
+D). Normal. $10,422
+
+III. Por expedición de certificados o duplicado de certificados de estudios realizados en escuelas oficiales o particulares incorporadas, de tipo:
+
+A). Certificados de Educación Normal. $237
+
+B). Duplicados:
+
+1. Educación Básica. $99
+
+2. Educación Normal. $236
+
+IV. Por dictamen de revalidación de estudios tipo Básico. $50
+
+V. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez independientemente del grado o ciclo que curse. $79
+
+VI. Por cambio del nombre del plantel, titular del acuerdo de autorización, representante legal, apoderado legal, directivos, modificación a la plantilla docente, domicilio o turno:
+
+A). Educación Básica. $1,068
+
+B). Educación Media Superior. $1,068
+
+C). Educación Superior. $1,068
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 81.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
+
+l. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones en condominio y, en su caso, de subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de autorización de más de 3,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
+
+En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
+
+Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+
+II. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
+
+TARIFA
+
+CONCEPTO
+
+A). Por el duplicado de la primera hoja simple. $59
+
+B). Por el duplicado de cada una de las hojas simples subsecuentes. $28
+
+C). Por duplicado de cada plano. $160
+
+D). Por el duplicado de planos con material proporcionado por el usuario. $114
+
+La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
+
+III. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $3,512.
+
+IV. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $3,512.
+
+V. Por la expedición de informe técnico urbano $1,340.
+
+VI. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán $632.
+
+VII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en alguna forma, los lotes vendibles de un conjunto urbano o áreas privativas de un condominio se pagarán $632.
+
+VIII. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio se pagarán $1,405.
+
+IX. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán $2,413.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 82.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios prestados por la Secretaría del Agua y Obra Pública se pagarán los derechos siguientes:
+
+l. Por la expedición de la autorización de Perito Responsable de Obra, por tres años de vigencia, el pago de derechos por la cantidad de $4,020.
+
+II. Por el refrendo el 50% de la tarifa establecida.
+
+III. Por la reposición de la credencial de Perito Responsable de Obra que se encuentre vigente, se pagará el 50% de la tarifa establecida.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 83.
+
+Por los servicios prestados por el Organismo Público Descentralizado denominado Comisión del Agua del Estado de México, se pagarán los derechos sin exención alguna conforme a lo siguiente:
+
+I. Por la conexión de la toma para el suministro de agua en bloque proporcionada por la Comisión del Agua del Estado de México, se pagará de acuerdo a la siguiente:
+
+TARIFA
+
+GRUPO DE MUNICIPIOS
+
+M3/día 1 2 3 4
+
+Uso doméstico $3,266 $3.069 $2,875 $2,680
+
+Uso no doméstico $4.083 $3,690 $3,428 $3,230
+
+Para su aplicación se atenderá a la clasificación de Municipios contenida en el artículo 140 de este Código.
+
+Por cada metro cúbico adicional al de la toma inicial, se pagará de acuerdo a la tarifa anterior.
+
+Se deberán pagar el monto de los derechos a la Comisión del Agua del Estado de México, en un plazo no mayor de diez días a la fecha de haber surtido efecto la notificación.
+
+Para la aplicación de esta tarifa se considera caudal adicional el requerido para nuevos conjuntos urbanos.
+
+La Comisión del Agua del Estado de México conjuntamente con los Municipios o sus descentralizadas, analizarán el origen de los caudales adicionales, a fin de determinar cuáles corresponden a nuevos conjuntos urbanos.
+
+Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos conjuntos urbanos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos a la Comisión del Agua del Estado de México por los servicios prestados, en un plazo no mayor de diez días después de haber recibido el pago.
+
+II. Por los servicios proporcionados a través de la Comisión del Agua del Estado de México, se pagarán los siguientes derechos:
+
+A). Para el suministro de agua en bloque, se pagará de acuerdo con la siguiente:
+
+TARIFA
+
+GRUPO 1 2 3 4 5 Otros
+
+$/m3 7.32 6.76 6.05 5.27 4.08 8.78
+
+Para su aplicación se atenderá a la clasificación siguiente:
+
+Grupo 1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
+
+Grupo 2. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
+
+Grupo 3. Atlacomulco, Chicoloapan, Huehuetoca, Nextlalpan, Ocoyoacac, Tecámac, Tianguistenco, Tultepec y Zumpango.
+
+Grupo 4. Almoloya de Juárez, Amecameca, Atlautla, Coyotepec, Hueypoxtla, Ixtlahuaca, Jaltenco, Otumba, Tenango del Valle, Teoloyucan, Tequixquiac y Tlalmanalco.
+
+Grupo 5. Axapusco, Ayapango, Ecatzingo, Jilotepec, Joquicingo, Juchitepec, Luvianos, Ozumba, San Simón de Guerrero, Soyaniquilpan de Juárez, Tejupilco, Temascaltepec, Tenango del Aire, Tepetlixpa y Timilpan.
+
+Otros: Quedan comprendidos en forma transitoria en esta tarifa aquellos usuarios a los que preste el servicio directa y temporalmente la Comisión del Agua del Estado de México, de acuerdo con la fracción III último párrafo del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En caso de que un municipio distinto a los anteriores solicite el servicio, será clasificado de acuerdo al análisis de sus características socio-económicas y al costo que implique prestar el servicio, para incluirlo en algún grupo.
+
+B). Para usuarios que tengan asignación directa de la Comisión Nacional del Agua y utilicen la infraestructura que opera la Comisión del Agua del Estado de México, para la conducción de los volúmenes asignados, pagarán:
+
+Por cada metro cúbico de agua asignada de fuentes federales $2.27.
+
+C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $11.4 por metro cúbico.
+
+Quedan comprendidos en esta tarifa aquellos usuarios a los que preste el servicio directa y temporalmente la Comisión del Agua del Estado de México, quienes deberán obtener permiso correspondiente de los ayuntamientos u organismos prestadores de los servicios.
+
+D). Por el suministro y aprovechamiento de agua residual tratada.
+
+Por el agua disponible dentro de las instalaciones de las plantas de tratamiento de jurisdicción estatal, se pagará conforme a la siguiente:
+
+TARIFA
+
+Usos Pesos/m3
+
+Uso a cargo del municipio $2.20
+
+Otros usos $5.12
+
+Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría del Agua y Obra Pública y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
+
+E). Conexión, tratamiento y manejo ecológico de aguas residuales:
+
+1. Por la conexión a colectores que descargan en las plantas de tratamiento se pagarán $3,314 por m3/día.
+
+2. Por el tratamiento de aguas residuales en las plantas de tratamiento se pagará una tarifa de $4.71 por metro cúbico.
+
+Las descargas que ingresen a los colectores que drenan a las plantas de tratamiento de jurisdicción estatal, no deberán exceder de los límites máximos permisibles de contaminación que señale el organismo y observarán las normas oficiales mexicanas en la materia, así como las observaciones que emitan otras autoridades competentes.
+
+Los usuarios cuyas descargas excedan los límites establecidos en la tarifa anterior, podrán optar por utilizar las instalaciones de las plantas, en cuyo caso deberán suscribir el convenio o contrato correspondiente para la prestación del servicio.
+
+F). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.150 por metro cúbico.
+
+G). Por la expedición y renovación anual del permiso para la distribución de agua a consumidores a través de pipas, se pagarán $2,365 por cada una.
+
+III. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
+
+CONCEPTO TARIFA
+
+A). Por duplicado de cada plano. $153
+
+B). Por el duplicado de planos con material proporcionado por el usuario. $108
+
+La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo, deberán ser presentadas a más tardar el 15 de octubre a la Legislatura.
+
+Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características, circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de Municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos, o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el contrato o convenio correspondiente y pagar los derechos durante los treinta días del mes siguiente a aquel en el que se haya recibido el servicio.
+
+La parte de los ingresos de la Comisión del Agua del Estado de México que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Caja General de Gobierno del Estado.
+
+La Comisión del Agua del Estado de México, para efectos de las solicitudes de retención y pago de derechos y aprovechamientos por concepto de agua, a que se refieren los artículos 51 de la Ley de Coordinación Fiscal y 230 B de este ordenamiento, deberá entregar a la Comisión Nacional del Agua durante los primeros 10 días de cada mes, un informe sobre los volúmenes de agua suministrada a los Municipios, incluyendo sus organismos operadores de agua.
+
+En caso de que la Comisión Nacional del Agua considere que existe alguna diferencia entre los volúmenes suministrados o adeudos informados, lo hará del conocimiento de la Comisión del Agua del Estado de México a fin de que en su caso se lleven a cabo los ajustes correspondientes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 83.
-
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
-
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 84.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios de auditoría técnica requeridos, que se practiquen a los trabajos que realicen los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, se pagarán derechos a razón del 2% sobre el importe total de cada una de las estimaciones de trabajo.
 
-#### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
+Los estudios técnicos que con motivo de la auditoria técnica sean necesarios practicar, a efecto de soportar y sustentar dicha auditoria, correrán a cargo del solicitante.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 85.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por el uso y aprovechamiento del derecho de vía estatal, así como por los servicios prestados respecto de las concesiones, permisos o autorizaciones, se pagarán los siguientes derechos:
+
+TARIFA
+
+CONCEPTO
+
+I. Canalizaciones superficiales por cada metro:
+
+A). De 0 a 999 metros. $15
+
+B). A partir de 1000 metros. $10
+
+II. Canalizaciones subterráneas por cada metro:
+
+A). De 0 a 999 metros. $17
+
+B). A partir de 1000 metros. $10
+
+III. Instalación de postería para instalación marginal, por cada poste. $290
+
+IV. Cruzamientos por cada metro:
+
+A). Aéreo. $57
+
+B). Subterráneo. $118
+
+V. Instalaciones marginales aéreas por cada metro:
+
+A). De 0 a 999 metros. $12
+
+B). A partir de 1000 metros. $8
+
+VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señales informativas y estructuras con fines de publicidad, se pagarán los siguientes derechos:
+
+A). Por la integración de expediente técnico de la solicitud. $69
+
+B). Elaboración de estudio técnico, al realizarse la instalación:
+
+1. Por señal informativa. $377
+
+2. Por estructura para anuncios publicitarios. $3,773
+
+C). Uso y aprovechamiento del derecho de vía anualmente:
+
+1. Por señal informativa. $2,564
+
+2. Por estructura para anuncios publicitarios, según sus dimensiones, de acuerdo con lo siguiente:
+
+a). Anuncios informativos menores a 10 metros cuadrados. $2,625
+
+b). Anuncios semiespectaculares iguales o mayores a 10 metros cuadrados, pero menores a 20 metros cuadrados. $5,386
+
+c). Anuncios espectaculares:
+
+i. Igual o mayor a 20 metros cuadrados, pero menor de 30 metros cuadrados. $8,079
+
+ii. Igual o mayor a 30 metros cuadrados, pero menor de 40 metros cuadrados. $10,772
+
+iii. Igual o mayor de 40 metros cuadrados, pero menor de 50 metros cuadrados. $13,465
+
+iv. Igual o mayor de 50 metros cuadrados, pero menor a 60 metros cuadrados. $16,159
+
+v. Igual o mayor a 60 metros cuadrados, pero menor a 70 metros cuadrados. $18,851
+
+vi. Igual o mayor a 70 metros cuadrados, pero menor a 80 metros cuadrados. $21,545
+
+vii. Igual o mayor a 80 metros cuadrados y hasta 90 metros cuadrados. $24,237
+
+D). Otorgamiento del permiso anualmente:
+
+1. Por señal informativa. $137
+
+2. Por estructura para anuncios publicitarios. $1,368
+
+VII. Registros para canalizaciones en cruces, avenidas o calles, por registro:
+
+A). Para transición aéreo-subterráneo en baja tensión. $2,066
+
+B). Para instalaciones de telecomunicaciones. $2,066
+
+C). Para líneas de drenaje, agua potable, hidrocarburos o similares:
+
+1. Por pozo. $2,066
+
+2. Por registro. $1,033
+
+VIII. Ruptura de banquetas por metro cúbico. $114
+
+IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico:
+
+A). Manual. $135
+
+B). Con maquinaria. $63
+
+X. Protección a instalaciones subterráneas con pintura o cinta plástica por metro lineal. $18
+
+XI. Ruptura de guarnición por metro cúbico. $63
+
+XII. Accesos por metro cuadrado. $418
+
+XIII. Revisión técnica de memorias y/o planos:
+
+A). Instalaciones marginales por metro lineal. $16
+
+B). Cruzamientos aéreos o subterráneos por cruce. $946
+
+C). Instalaciones marginales de telecomunicaciones por metro lineal. $5
+
+D). Anuncios por memoria. $5,319
+
+XIV. Por retiro de estructuras de anuncios publicitarios:
+
+A). Estructurales. $24,427
+
+B). Semiestructurales. $59,904
+
+C). Unipolares. $98,599
+
+D). Bipolares. $109,217
+
+Cuando por su denominación o características del anuncio no se encuentren comprendidos en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+SUBSECCION SEGUNDA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL SISTEMA DE AUTOPISTAS, AEROPUERTOS, SERVICIOS CONEXOS Y AUXILIARES
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 86.
 
-(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
+Por el uso o aprovechamiento del derecho de vía de las autopistas de cuota y zonas aledañas, así como por los servicios prestados por el Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, se pagarán los siguientes derechos:
+
+TARIFA
+
+CONCEPTO
+
+I. Por la integración de expediente técnico de la solicitud para la explotación y utilización del derecho de vía de las autopistas de cuota estatales y zonas aledañas. $69
+
+II. Por el estudio técnico de planos y proyectos para la instalación de cada señalamiento vertical informativo dentro del derecho de vía de las autopistas de cuota estatales y zonas aledañas. $418
+
+III. Por el estudio técnico de planos y proyectos para la instalación de cada señalamiento publicitario monumental dentro del derecho de vía de las autopistas de cuota estatales y zonas aledañas. $6,610
+
+IV. Por el estudio técnico de planos, proyectos y memorias de cálculo, para obras e instalaciones marginales superficiales o aéreas que se realicen dentro del derecho de vía de las autopistas de cuota estatales y zonas aledañas, por cada kilómetro lineal o fracción. $6,610
+
+V. Por el estudio técnico para validación y restitución del derecho de vía de las autopistas de cuota estatales y zonas aledañas. $1,253
+
+VI. Por el estudio técnico de planos, proyectos y memorias de cálculo, para la construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen las autopistas de cuota estatales y zonas aledañas. $4,870
+
+VII. Por el estudio técnico de planos, proyectos y memorias de cálculo para la construcción de obras e instalaciones marginales subterráneas, que se realicen dentro de los derechos de vía de las autopistas de cuota estatales y zonas aledañas, por kilómetro lineal o fracción. $1,253
+
+VIII. Por el estudio técnico del proyecto y aprobación de obras para paradores integrales de servicio en las autopistas de cuota estatales y zonas aledañas:
+
+A). Con superficie total del proyecto hasta 3,000 metros cuadrados. $53,994
+
+B). Con superficie total del proyecto hasta 5,000 metros cuadrados. $64,294
+
+C). Con superficie total del proyecto hasta 10,000 metros cuadrados. $75,286
+
+D). Con superficie mayor a los 10,000 metros cuadrados, para cada 1,000 metros cuadrados adicionales. $2,158
+
+IX. Por el permiso para la instalación de cada señalamiento informativo sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas. $244
+
+X. Por el permiso para la instalación de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
+
+A). De 2.00 y hasta 50.00 metros cuadrados. $15,975
+
+B). De 51.00 y hasta 90.00 metros cuadrados. $20,071
+
+XI. Por el permiso para la construcción de accesos que afecten el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
+
+A). Proyecto a realizar en terreno plano. $21,500
+
+B). Proyecto a realizar en terreno de lomerío con:
+
+1. Geometría en corte. $22,545
+
+2. Geometría en terraplén. $23,658
+
+C). Proyecto a realizar en terreno montañoso con:
+
+1. Geometría en corte. $26,858
+
+2. Geometría en terraplén. $27,902
+
+XII. Por el permiso del proyecto geométrico, estructura de pavimentos y obras hidráulicas en las autopistas de cuota estatales y zonas aledañas:
+
+A). Por obras desarrolladas en un tramo de 1 kilómetro de longitud. $21,500
+
+B). Por obras desarrolladas en un tramo mayor de 1 kilómetro y hasta 5 kilómetros de longitud. $23,658
+
+C). Por obras desarrolladas en un tramo mayor de 5 kilómetros y hasta 20 kilómetros de longitud. $27,902
+
+D). Por obras desarrolladas en un tramo mayor de 20 kilómetros, por cada kilómetro adicional. $279
+
+XIII. Pago anual por el permiso para permanencia de cada señalamiento informativo sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas. $244
+
+XIV. Pago anual por el permiso para la permanencia de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
+
+A). De 2.00 y hasta 50.00 metros cuadrados. $57,689
+
+B). De 51.00 y hasta 90.00 metros cuadrados. $85,816
+
+XV. Pago anual por la explotación de cada acceso que afecte el derecho de vía de las autopistas de cuota estatales y zonas aledañas. $101,450
+
+XVI. Pago anual por la permanencia de cada cruce subterráneo o aéreo en las autopistas de cuota estatales y zonas aledañas. $3,896
+
+XVII. Pago anual por la permanencia de instalaciones marginales superficiales, subterráneas o aéreas que el particular realice dentro del derecho de vía de las autopistas de cuota estatales y zonas aledañas, por kilómetro lineal o fracción. $974
+
+XVIII. Permiso por un día para la expedición de folletos o volantes en plataformas y casetas de las autopistas de cuota estatales y zonas aledañas. $1,433
+
+XIX. Por verificación inicial para desvíos y maniobras en plataformas e instalaciones sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas. $8,602
+
+XX. Por la verificación inicial para la construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen las autopistas de cuota estatales y zonas aledañas. $21,104
+
+XXI. Por el permiso para la construcción de obras e instalaciones marginales, que se realicen dentro de los derechos de vía de las autopistas de cuotas estatales y zonas aledañas, por kilómetro lineal o fracción. $5,293
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 87.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por el otorgamiento de concesiones, permisos y autorizaciones, por su cesión de derechos o cambio de titular, por su prórroga o cambio de temporalidad, así como por los servicios conexos, de control vehicular y otros servicios, que sean de su competencia, se pagarán los siguientes derechos:
+
+TARIFA
+
+CONCEPTO
+
+l. Otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, en sus modalidades de:
+
+A). Servicio regular de pasaje:
+
+l. Colectivo:
+
+a). Autobuses. $25,823
+
+b). Minibuses. $21,173
+
+c). Vagonetas. $21,173
+
+2. Mixto: camioneta de carga y pasaje. $17,216
+
+B). Servicio discrecional de pasaje: individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano que constituya un vehículo de cuatro puertas sin incluir la del portaequipaje, con un máximo de cinco asientos y un mínimo de cuatro, incluido el del operador. $19,927
+
+C). El servicio discrecional de arrastre o de salvamento:
+
+1. Grúas de arrastre u otros vehículos especializados para trasladar vehículos impedidos mecánica o legalmente para su autodesplazamiento. $25,824
+
+2. Grúas de salvamento. $25,824
+
+3. Servicio de depósito de vehículos para guarda y custodia de vehículos accidentados o a disposición de autoridades diversas por cada corralón. $25,824
+
+D). Por estudios técnicos y económicos, a solicitud de los particulares, para el otorgamiento de concesiones, ampliación de ruta y territorio de operación, referidos a:
+
+1. Concesiones para servicio de transporte de pasajeros. $1,720
+
+2. Concesiones para servicio discrecional de arrastre o de salvamento. $1,720
+
+II. Por la cesión de derechos o cambio de titular de la concesión, que se refieran a las modalidades:
+
+A). Servicio regular de pasaje:
+
+1. Colectivo:
+
+a). Autobuses. $20,660
+
+b). Minibuses. $17,216
+
+c). Vagonetas. $16,937
+
+2. Mixto: camioneta de carga y pasaje. $13,773
+
+B) Servicio discrecional de pasaje: individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano, que sea en vehículo de cuatro puertas sin incluir la del portaequipaje, con un máximo de cinco asientos y un mínimo de cuatro, incluido el del operador. $17,216
+
+C). El servicio discrecional de arrastre o de salvamento:
+
+1. Grúas de arrastre u otros vehículos especializados para trasladar vehículos impedidos mecánica o legalmente para su autodesplazamiento. $20,660
+
+2. Grúas de salvamento. $20,660
+
+3. Servicio de depósito de vehículos para guarda y custodia de vehículos accidentados o a disposición de autoridades diversas por cada corralón. $20,660
+
+III. Por la prórroga o cambio de temporalidad de vigencia de la concesión, que se refieran a las modalidades de:
+
+A). Servicio regular de pasaje:
+
+l. Colectivo:
+
+a). Autobuses. $12,911
+
+b). Minibuses. $10,760
+
+c). Vagonetas. $10,760
+
+2. Mixto: camioneta de carga y pasaje. $8,607
+
+B). Servicio discrecional de pasaje individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano en vehículo de cuatro puertas sin incluir la del portaequipaje, con un máximo de cinco asientos y un mínimo de cuatro, incluido el del operador. $10,760
+
+Las tarifas establecidas en esta fracción, amparan la prórroga o cambio de la temporalidad de vigencia de las concesiones por un período hasta de diez años, pudiendo los contribuyentes solicitar la prestación de estos servicios por anualidad, para lo cual se pagarán los derechos correspondientes en forma proporcional al período solicitado, cuando así lo acuerde la autoridad administrativa.
+
+C). El servicio discrecional de arrastre o de salvamento:
+
+1. Grúas de arrastre u otros vehículos especializados para trasladar vehículos impedidos mecánica o legalmente para su autodesplazamiento. $12,911
+
+2. Grúas de salvamento. $12,911
+
+3. Servicio de depósito de vehículos para guarda y custodia de vehículos accidentados o a disposición de autoridades diversas por cada corralón. $12,911
+
+IV. Por el otorgamiento de permisos de:
+
+A). Servicio discrecional de pasaje en la modalidad especializado:
+
+l. Vehículos de transporte de pasaje especializado escolar y personal de empresa en que se obtenga lucro por la prestación del servicio:
+
+a). Autobús. $2,407
+
+b). Minibús. $2,407
+
+c). Vagonetas. $2,065
+
+2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica, en que se obtenga lucro por la prestación del servicio:
+
+a). Autobús. $5,314
+
+b). Minibús. $5,314
+
+c). Vagonetas. $3,444
+
+d). Bicitaxis. $697
+
+B). Transporte de carga en general:
+
+1. Capacidad hasta de 3,000 Kg. $2,408
+
+2. Capacidad de carga de más de 3,000 Kg. $3,443
+
+C). Por la realización de estudios técnicos y económicos a solicitud de los particulares, para el otorgamiento de permisos en la modalidad de vehículos de propulsión no mecánica. $136
+
+D). El servicio discrecional de arrastre y traslado, prestado a través de grúas para transportar vehículos impedidos mecánicamente para su auto-desplazamiento o para traslado. $12,911
+
+E). Por el otorgamiento de permiso o autorización de bases, sitios o lanzaderas, por cada uno de ellos. $1,517
+
+F). Los servicios conexos al servicio público de transporte:
+
+1. Por el otorgamiento de permiso para el establecimiento de terminales de pasaje. $6,958
+
+2. Por el otorgamiento de permiso para el establecimiento de bahías de ascenso y descenso. $2,088
+
+3. Por el otorgamiento de permiso para el establecimiento de cobertizos. $3,480
+
+4. Por la realización de estudios técnicos para el establecimiento de terminales de pasaje. $6,958
+
+5. Por la realización de estudios técnicos para el establecimiento de bahías de ascenso y descenso. $2,088
+
+6. Por la realización de estudios técnicos para el establecimiento de cobertizos. $3,480
+
+7. Por la realización de estudios técnicos y económicos a solicitud de los particulares o de las autoridades para el otorgamiento de concesiones y permisos en todas sus modalidades, por unidad vehicular. $1,720
+
+8. Por la realización de estudios técnicos y económicos, para la autorización o modificación de ruta o derrotero, enlace y enrolamiento. $4,304
+
+G). La instalación y explotación de anuncios publicitarios en el transporte:
+
+1. Por la obtención del permiso para la instalación de anuncios publicitarios. $3,478
+
+2. Por la instalación y explotación de anuncios publicitarios por el período de ciento veinte días por unidad vehicular:
+
+a). Autobús. $697
+
+b). Minibús. $487
+
+c). Pick up, panel, van y vagoneta. $418
+
+d). Vehículo de cuatro puertas sin incluir la del portaequipaje, con un máximo de cinco asientos y un mínimo de cuatro, incluido el del operador. $279
+
+V. Por la cesión de derechos o cambio de titular del permiso de carga en general:
+
+A). El servicio discrecional de pasaje:
+
+1. Transporte de pasaje especializado escolar y personal de empresa, en que se obtenga un lucro por la prestación:
+
+a). Autobús. $2,065
+
+b). Minibús. $2,065
+
+c). Vagoneta. $1,652
+
+2. El servicio de transporte de pasaje especializado o individual:
+
+a). Autobús. $4,132
+
+b). Minibús. $4,132
+
+c). Vagonetas. $2,754
+
+d). Vehículos de propulsión no mecánica, bicitaxis. $348
+
+B). El servicio de carga en general:
+
+1. Capacidad hasta de 3,000 Kg. $1,291
+
+2. Capacidad de carga de más de 3,000 Kg. $1,722
+
+C). El servicio discrecional de arrastre y traslado, prestado a través de grúas para transportar vehículos impedidos mecánicamente para su auto-desplazamiento o para traslado. $10,329
+
+D). Los servicios conexos:
+
+1. Terminales de pasaje. $6,958
+
+2. Bahías de ascenso y descenso. $2,437
+
+3. Cobertizos. $2,088
+
+E). Para la instalación de anuncios publicitarios en el transporte. $1,740
+
+VI. Por la prórroga o cambio de la temporalidad de vigencia del permiso respecto de:
+
+A). El servicio discrecional de pasaje:
+
+1. El servicio de transporte de pasaje especializado escolar y personal de empresa en que se obtenga un lucro por la prestación del servicio:
+
+a). Autobús. $1,291
+
+b). Minibús. $1,033
+
+c). Vagonetas. $1,033
+
+2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica que obtenga un lucro por la prestación del servicio:
+
+a). Autobús. $2,582
+
+b). Minibús. $2,582
+
+c). Vagonetas. $1,722
+
+d). Bicitaxi. $697
+
+B). El servicio de carga en general y especializado de carga:
+
+1. Capacidad hasta de 3,000 Kg. $1,291
+
+2. Capacidad de carga de más de 3,000 Kg. $1,722
+
+C). El servicio discrecional de arrastre y traslado, prestado a través de grúas para transportar vehículos impedidos mecánicamente para su auto-desplazamiento o para traslado. $5,164
+
+D). Los servicios conexos, por el establecimiento de:
+
+1. Terminales de pasaje. $3,480
+
+2. Bahías de ascenso y descenso. $1,253
+
+3. Cobertizos. $1,045
+
+E). El permiso para la instalación de anuncios publicitarios. $3,480
+
+En la prórroga o cambio de la temporalidad de vigencia de permisos para servicios de arrastre y traslado y servicio de transporte especializado, que en términos del Reglamento de Transporte Público y Servicios Conexos del Estado de México, opten por la certificación de calidad respecto de dichos servicios y los bienes afectos a los mismos, acreditándolo debidamente ante la autoridad de transporte, se encontrarán exentos del pago que se contempla en esta fracción.
+
+Se exceptúan de lo anterior, los permisos para servicio con vehículos de propulsión no mecánica.
+
+VII. Por la expedición de autorizaciones o modificaciones complementarias de las concesiones y permisos que correspondan, respecto de:
+
+A). Autorización de ruta o área geográfica de operación del servicio público de transporte en las modalidades de colectivo, mixto, de arrastre y de salvamento, y de arrastre y traslado, por cada vehículo. (Sic)
+
+B). Modificación de rutas o área geográfica de operación del servicio público de transporte en las modalidades referidas en el inciso que antecede, por cada vehículo: $2,128
+
+1. De enrolamiento. $1,517
+
+2. Por la fusión de dos rutas como resultado de un enlace. $1,517
+
+3. De su derrotero por cambios de sentido de la circulación vehicular, y/o en su recorrido original. $172
+
+4. La reducción de su longitud por reubicarse su origen o destino, reduciendo el derrotero. $172
+
+5. De frecuencia de la ruta o derrotero. $1,517
+
+6. Por el cambio de base en los lugares de origen o destino y alargamiento en la longitud del derrotero. $2,128
+
+C). Autorización de las tarifas a que se sujetará la operación del servicio público de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo. $244
+
+D). Autorización de la cromática de los vehículos y equipos afectos a los servicios de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo. $768
+
+VIII. Por la expedición inicial de licencias o de permisos para conducir vehículos automotores:
+
+A). Chofer para servicio público:
+
+1. Por cuatro años de vigencia. $1,689
+
+2. Por tres años de vigencia. $1,215
+
+3. Por dos años de vigencia. $913
+
+4. Por un año de vigencia. $683
+
+B). Chofer para servicio particular:
+
+1. Por cuatro años de vigencia. $1,205
+
+2. Por tres años de vigencia. $905
+
+3. Por dos años de vigencia. $678
+
+4. Por un año de vigencia. $508
+
+C). Automovilista:
+
+1. Por cuatro años de vigencia. $924
+
+2. Por tres años de vigencia. $695
+
+3. Por dos años de vigencia. $520
+
+4. Por un año de vigencia. $388
+
+D). Motociclista:
+
+1. Por cuatro años de vigencia. $924
+
+2. Por tres años de vigencia. $695
+
+3. Por dos años de vigencia. $520
+
+4. Por un año de vigencia. $388
+
+E). Por la expedición del permiso provisional de práctica "B":
+
+1. Por dos años de vigencia. $520
+
+2. Por un año de vigencia. $388
+
+F). Por la expedición de permiso provisional de práctica "A". $1,847
+
+El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
+
+IX. Duplicado de licencias y permisos, con la vigencia del documento expedido originalmente y con la leyenda de "Duplicado". $262
+
+X. Por la expedición de medios de identificación para manejar vehículos automotores y equipos afectos al servicio público de transporte:
+
+A). Por la expedición de la tarjeta de identificación personal para operadores de transporte público, por año. $1,061
+
+B). Por el duplicado de la tarjeta de identificación personal para operadores de transporte público con la vigencia del documento expedido originalmente y con la leyenda "Duplicado". $776
+
+La expedición de la tarjeta de identificación personal incluye exámenes médico, psicométrico y toxicológico.
+
+XI. Por los servicios de control vehicular relativos al servicio público de transporte, se pagarán los siguientes derechos:
+
+A). Por la expedición o reposición, en su caso, de placas, tarjeta de circulación y calcomanía para vehículos de servicio público en todas sus clases, modalidades y tipos. $1,114
+
+B). Por refrendo anual para vehículos afectos a la prestación del servicio público del transporte en todas sus clases, modalidades y tipos, a excepción del servicio de carga en general y especializado de carga. $910
+
+Los derechos previstos en este inciso se pagarán anualmente de manera simultánea con el impuesto sobre tenencia, mediante la forma oficial aprobada por la autoridad fiscal, dentro de los tres primeros meses de cada año.
+
+C). Por cambio de propietario o cambio de motor del vehículo afecto a la prestación del servicio público de transporte en todas sus modalidades y tipos. $183
+
+D). Por cambio de vehículo afecto a la prestación del servicio público de transporte, en todas sus modalidades y tipos. $485
+
+E). Por el trámite de baja de placas para vehículos afectos a la prestación del servicio público de transporte en todas sus clases, modalidades y tipos. $370
+
+F). Por la expedición de placas y tarjeta de circulación, para vehículos de servicio público en la modalidad de individual en vehículo de propulsión no mecánica. $342
+
+G). Por la reposición de tarjeta de circulación, o del título de concesión o permiso en todas sus modalidades o tipos. $859
+
+XII. Expedición de permiso de transporte público en otras modalidades. $860
+
+XIII. Por la expedición de constancias:
+
+A). De registro de licencia o permiso para conducir vehículos automotores. $59
+
+B). De registro de tarjeta de identificación personal para operadores de transporte público. $59
+
+XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas jurídicas colectivas, unidades o empresas económicas:
+
+A). Autorización. $11,234
+
+B). Refrendo. $225
+
+Los derechos por refrendo previstos en esta fracción, se pagarán anualmente dentro de los tres primeros meses de cada año.
+
+XV. Por la realización de estudios técnicos y económicos para el establecimiento de bases o concesionarios del Gobierno del Distrito Federal; personas físicas o jurídicas colectivas, unidades o empresas económicas. $4,304
+
+XVI. Expedición del permiso para el establecimiento de bases a concesionarios del Gobierno del Distrito Federal, que hayan sido autorizados para prestar el servicio público de autotransporte colectivo de pasajeros, en rutas fijas dentro del territorio del Estado. $480
 
 ###### Artículo 87 Bis.
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 88.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por los servicios prestados por la Secretaría del Medio Ambiente que a continuación se mencionan, se pagarán los siguientes derechos:
+
+TARIFA
+
+CONCEPTO
+
+l. Por la búsqueda y reposición de la constancia sobre los resultados de la verificación del vehículo automotor. $155
+
+II. Por la expedición del certificado-holograma distintivo que ampara a los vehículos que operan con combustibles alternos, como gas licuado de petróleo, gas natural, diesel u otros, que conforme a las normas técnicas emitidas al efecto no quedan sujetos al Acuerdo "Hoy No Circula" y al Programa de Contingencias Ambientales. $698
+
+III. Por la expedición a domicilio del certificado-holograma distintivo que ampara a los vehículos mercantiles que operan con combustibles alternos como gas licuado de petróleo, gas natural, diesel u otros, que conforme a las normas técnicas emitidas al efecto no quedan sujetos al Acuerdo "Hoy No Circula" y al Programa de Contingencias Ambientales, por cada uno. $760
+
+IV. Por la certificación para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones. $5,470
+
+V. Por la renovación anual de la certificación para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones. $1,367
+
+El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial "Gaceta del Gobierno".
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 89.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por la evaluación del impacto ambiental, que efectúe la autoridad competente, en los términos de los ordenamientos jurídicos aplicables, se pagarán los siguientes derechos:
 
-SUBSECCION QUINTA
+TARIFA
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
+CONCEPTO INDUSTRIAL OTROS
+
+l. Por la evaluación de la manifestación de impacto ambiental. $9,509 $9,786
+
+II. Evaluación del estudio de riesgo ambiental. $14,261 $14,679
+
+III. Por la evaluación de las solicitudes presentadas para la acreditación para la prestación de servicios profesionales en materia de impacto y riesgo ambiental:
+
+A). Impacto. $3,916
+
+B). Riesgo. $3,916
+
+IV. Por la evaluación del Informe previo de impacto ambiental:
+
+A). Industria. $4,515
+
+B). Otros. $4,653
+
+V. Por expedición del oficio de prórroga de la vigencia de la resolución. $3,993
+
+VI. Por la expedición del oficio que determine que una obra y/o actividad no requiere someterse al procedimiento de evaluación en materia de impacto ambiental. $460
+
+No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 90.
 
-(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+Por la evaluación permanente a verificentros autorizados, se pagará una cuota anual de $5,127, por cada línea de verificación con que cuente el verificentro.
 
-> <small>(ADICIONADA CON SUBSECCIÓN Y ARTÍCULO QUE LA INTEGRA, G.G. 25 DE FEBRERO DE 2013)</small>
+(ADICIONADO, G.G. 25 DE FEBRERO DE 2013) (REFORMADO EN SUS TARIFAS, G.G. 15 DE MARZO DE 2013)
 
 ###### Artículo 90 Bis.
 
@@ -3974,12 +5224,6 @@ IV. Por autorización de folios de los volúmenes de protocolo ordinario y libro
 A) Folios de Protocolo ordinario, por volumen. $225
 
 B) Folios de libros de cotejos, por volumen. $376
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 25 DE FEBRERO DE 2013)</small>
-
-SUBSECCIÓN SEGUNDA
-
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
 (ADICIONADO, G.G. 25 DE FEBRERO DE 2013) (REFORMADO EN SUS TARIFAS, G.G. 15 DE MARZO DE 2013)
 
@@ -4317,12 +5561,6 @@ Por la autorización definitiva de escrituras que contengan diversos contratos o
 
 Artículo 90 Terdecies.- Los notarios públicos, deberán efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 25 DE FEBRERO DE 2013)</small>
-
-SUBSECCIÓN TERCERA
-
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
-
 > <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 Artículo 90 Quaterdecies.- Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
@@ -4367,47 +5605,11 @@ y actos del estado civil. $5
 
 X. Por el servicio de encuadernación o rehabilitación de los libros de Oficialía de las diversas actas de los actos y hechos del estado civil, por libro. $258
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 91.
 
-Por los servicios prestados por la Secretaría de Finanzas, se pagarán los siguientes derechos:
-
-TARIFA
-
-CONCEPTO
-
-I. Expedición de certificados por cada foja. $56
-
-II. Expedición de formas aprobadas. $52
-
-III. Práctica de auditoría realizada a solicitud de particulares:
-
-A). Hora auditor. $46
-
-B). Hora supervisor. $77
-
-IV. Por el almacenaje de bienes muebles secuestrados y liberados en la vía del procedimiento administrativo de ejecución y no retirados oportunamente, se pagarán derechos de acuerdo con la siguiente:
-
-CONCEPTO TARIFA
-
-A). Cuando los bienes ocupen hasta 1 m2 de superficie, por día. $9
-
-B). Por cada metro o fracción excedente, por día. $2
-
-V. Expedición de copias microfilmadas a papel, por imagen. $15
-
-VI. Expedición de constancia de inexistencia de documentos. $29
-
-VII. (DEROGADA, G.G. 27 DE DICIEMBRE DE 2005) (REPUBLICADA, G.G. 1 DE ENERO DE 2011)
-
-VIII. Expedición de constancias de pago de contribuciones y
-
-de constancias que reflejen la situación fiscal del contribuyente. $145
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-No pagarán estos derechos las empresas registradas en el Padrón Nacional de la Microindustria.
+Por las evaluaciones técnicas para la procedencia operativa de verificentros autorizados, se pagarán $5,128, semestralmente, dentro de los primeros diez días naturales siguientes a la entrada en vigor del Programa de Verificación Vehicular correspondiente.
 
 (REFORMADO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
@@ -4679,231 +5881,27 @@ III. Expedición de duplicado de gafete de identificación institucional del ISS
 
 IV. Acta informativa por extravío, robo o pérdida de identificación o gafete de identificación institucional del ISSEMYM. $50
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 92.
 
-(DEROGADO, G.G. 26 DE DICIEMBRE DE 2007)
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-###### Artículo 93.
-
-Por los servicios prestados por la Secretaría de Educación, se pagarán derechos conforme a la siguiente:
+Por la expedición o prórroga de constancia, actualización o verificación de:
 
 TARIFA
 
 CONCEPTO
 
-I. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
+l. Funcionamiento de emisiones a la atmósfera. $724
 
-II. Por solicitud, estudio, revisión y resolución del trámite de autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
+II. Generador de residuos de manejo especial. $543
 
-A). Preescolar. $4,891
+III. Quema de materiales a cielo abierto. $965
 
-B). Primaria. $5,089
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-C). Secundaria. $6,263
+###### Artículo 93.
 
-D). Normal. $9,424
-
-III. Por solicitud, estudio, revisión y resolución del trámite
-
-de reconocimiento de validez oficial de estudios, por plan
-
-de estudios, a escuelas particulares de educación media
-
-superior. $8,142
-
-IV. Por solicitud, estudio, revisión y resolución del trámite
-
-de reconocimiento de validez oficial de estudios, por plan
-
-de estudios o carrera a escuelas particulares de educación
-
-superior. $10,179
-
-V. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios, por turno y por modalidad, a escuelas particulares.
-
-A). Educación Media Superior. $8,142
-
-B). Educación Superior. $10,180
-
-VI. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación media superior:
-
-A). Por plan de estudio o carrera. $7,125
-
-B). Por modalidad y turno. $7,125
-
-VII. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación superior:
-
-A). Por plan de estudio o carrera. $8,908
-
-B). Por modalidad y turno. $8,908
-
-VIII. Por vigencia anual de derechos, plan de estudios, modalidad y turno a escuelas particulares:
-
-A). Autorización:
-
-1. Preescolar. $5,094
-
-2. Primaria. $5,275
-
-3. Secundaria. $6,208
-
-4. Normal. $9,944
-
-5. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
-
-B). (DEROGADO, G.G. 1 DE ENERO DE 2009)
-
-C). (DEROGADO, G.G. 1 DE ENERO DE 2009)
-
-IX. Por servicios de evaluación, orientación o asesoría en
-
-materia administrativa o pedagógica, otorgados a
-
-instituciones educativas particulares de tipo básico,
-
-normal, medio superior y superior, por cada alumno de
-
-nuevo ingreso matriculado en el plantel educativo,
-
-por una sola vez, independientemente del grado o ciclo
-
-que curse. $76
-
-X. Por cambios diversos:
-
-A). Por cambio de plan de estudio:
-
-1. Educación Media Superior para Profesional Medio. $3,527
-
-2. Educación Superior. $3,527
-
-B). Por cambio de denominación de carrera de educación
-
-superior. $1,019
-
-C). Por actualización de contenidos de programas de estudios:
-
-1. Educación Media Superior para Profesional Medio. $1,019
-
-2. Educación Superior. $1,019
-
-D). Por cambio de nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, docente de grupo, domicilio o turno:
-
-1. Educación Básica. $1,019
-
-2. Educación Media Superior. $1,019
-
-3. Educación Superior. $1,019
-
-E). Por cambio de plantilla de personal docente:
-
-1. Educación Media Superior. $1,019
-
-2. Educación Superior. $1,019
-
-No se causarán los derechos a que hace referencia el inciso D) de esta fracción, respecto del cambio de personal, cuando el particular acredite que el director o docente sustituido goza de incapacidad otorgada por la institución de seguridad social correspondiente.
-
-XI. Por expedición de certificados o de duplicados de certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
-
-A). Por expedición de certificado:
-
-1. Educación Media Superior. $161
-
-2. Educación Superior. $227
-
-B). Por duplicado de certificado:
-
-1. Educación Básica. $95
-
-2. Educación Media Superior. $161
-
-3. Educación Superior. $227
-
-XII. Por resolución de revalidación de estudios o expedición de duplicados:
-
-A). Por resolución:
-
-1. Educación Básica. $47
-
-2. Educación Media Superior. $285
-
-3. Educación Superior. $854
-
-B). Por duplicado:
-
-1. Educación Media Superior. $102
-
-2. Educación Superior. $237
-
-C). Por modificación o enmienda
-
-l. Educación Media Superior. $74
-
-2. Educación Superior. $237
-
-XIII. Por resolución de equivalencia de estudios o expedición de duplicado:
-
-A). Por resolución:
-
-1. Educación Medio Superior. $283
-
-2. Educación Superior. $845
-
-B). Por duplicado:
-
-1. Educación Media Superior. $96
-
-2. Educación Superior. $224
-
-XIV. Por expedición de cédula de pasante para el ejercicio
-
-profesional. $1,018
-
-XV. Por expedición de duplicado de cédula de pasante
-
-para el ejercicio profesional. $509
-
-XVI. Por inscripción de:
-
-A). Títulos profesionales con timbre holograma:
-
-1. Licenciatura o grado académico. $627
-
-2. Profesional Técnico o Técnico Superior Universitario. $381
-
-B). Certificado, constancia o diplomas de especialidad con
-
-timbre holograma. $627
-
-XVII. Por registro de colegios de profesionistas. $7,222
-
-XVIII. Por enmienda al registro de los colegios de
-
-profesionistas. $1,019
-
-XIX. Refrendo de registro de colegios de profesionistas. $1,019
-
-XX. Autorización temporal para ejercer la actividad de perito. $1,019
-
-XXI. Refrendo y expedición de duplicado a la autorización
-
-para ejercer la actividad de perito. $1,019
-
-XXII. Por la expedición de hojas de servicio, por cada hoja. $28
-
-XXIII. Por la expedición de constancia de antecedentes
-
-profesionales. $67
-
-XXIV. Por solicitud, estudio, revisión y resolución del trámite
-
-de aprobación del reglamento académico o de titulación, o de
-
-la actualización del mismo, a planteles particulares de tipo
-
-superior. $1,010
+Por la renovación anual de acreditación en el Programa Integral de Reducción de Emisiones Contaminantes, se cobrarán por concepto de derechos a cada taller autorizado $5,218.
 
 (REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
@@ -4981,207 +5979,167 @@ VII. Por cambio del nombre del plantel, titular del acuerdo de autorización, re
 
 VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 94.
 
-Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
-
-I. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones en condominio y, en su caso, de subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de autorización de más de 3,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
-
-En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
-
-> <small>(F. DE E., 24 DE ENERO DE 2013)</small>
-
-Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
-
-II. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
+Por los servicios prestados por la Dirección de Legalización y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-A). Por el duplicado de la primera hoja simple. $56
+l. Legalización de firmas autógrafas de servidores públicos estatales y municipales:
 
-B). Por el duplicado de las subsecuentes hojas simples. $27
+A). Por cada legalización de firmas de servidores públicos del Poder Ejecutivo:
 
-C). Por duplicado de cada plano. $153
+l. De Educación:
 
-D). Por el duplicado de planos con material proporcionado
+a). Programas de estudio. $80
 
-por el usuario. $109
+b). Boletas de calificaciones. $80
 
-La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
+c). Certificados de estudio. $80
 
-III. (DEROGADA, G.G. 22 DE AGOSTO DE 2012) (F. DE E., 24 DE ENERO DE 2013)
+d). Títulos profesionales. $236
 
-IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $3,351.
+2. Del Registro Civil. $80
 
-V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $3,351.
+3. De otros servidores públicos del Poder Ejecutivo. $80
 
-VI. Por la expedición de informe técnico urbano, $1,279.
+B).Por cada legalización de firmas de servidores públicos del Poder Judicial. $80
 
-VII. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán $603.
+C). Por cada legalización de firmas de servidores públicos municipales. $80
 
-VIII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en alguna forma, los lotes vendibles de un conjunto urbano, áreas privativas de un condominio, se pagarán $603.
+II. Apostillamiento de documentos públicos para presentarse en países firmantes de la convención de La Haya. $236
 
-IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio se pagarán $1,340.
+III. Por certificación de cada ejemplar agotado del Periódico Oficial "Gaceta del Gobierno". $39
 
-X. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán $ 2,302.
+IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
+A). Folios de Protocolo ordinario, por volumen. $236
+
+B). Folios de libros de cotejos, por volumen. $394
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+SUBSECCION SEGUNDA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 95.
 
-Por los servicios prestados por el Organismo Público Descentralizado, denominado, Comisión del Agua del Estado de México se pagarán los derechos sin exención alguna conforme a lo siguiente:
-
-I. Por la conexión de la toma para el suministro de agua en bloque proporcionada por la Comisión del Agua del Estado de México, se pagará de acuerdo a la siguiente:
+Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán los siguientes derechos:
 
 TARIFA
 
-GRUPO DE MUNICIPIOS
+CONCEPTO
 
-M3/día 1 2 3 4
+l. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-Uso doméstico $3,117 $2,929 $2,743 $2,558
+A). Apeo y deslinde judicial. $562
 
-Uso no doméstico $3,896 $3,521 $3,271 $3,082
+B). Capitulaciones matrimoniales sobre inmuebles. $562
 
-Para su aplicación se atenderá a la clasificación de municipios contenida en el artículo 140 de este Código.
+C). La declaración, reconocimiento, adquisición o transmisión de la propiedad o posesión de inmuebles o derechos sobre los mismos por cualquier título.
 
-Por cada metro cúbico adicional al de la toma inicial, se pagará de acuerdo a la tarifa anterior.
+Se considera que existe transmisión o cesión de derechos de fideicomitente o fideicomisario cuando hay sustitución de un fideicomitente o de un fideicomisario por cualquier motivo.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+En el caso de la permuta de derechos se cobrarán por cada uno de los inmuebles.
 
-Se deberán pagar el monto de los derechos a la Comisión del Agua del Estado de México, en un plazo no mayor de diez días a la fecha de haber surtido efecto la notificación.
+Los títulos expedidos por el Registro Agrario Nacional.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+D). La compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva y la constitución de fideicomiso traslativo de dominio.
 
-Para la aplicación de esta tarifa se considera caudal adicional el requerido para nuevos conjuntos urbanos.
+E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos.
 
-La Comisión del Agua del Estado de México conjuntamente con los municipios o sus descentralizadas, analizarán el origen de los caudales adicionales, a fin de determinar cuáles corresponden a nuevos conjuntos urbanos.
+F). La inmatriculación judicial o administrativa de inmuebles, por cada predio. $63
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos.
 
-Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos conjuntos urbanos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos a la Comisión del Agua del Estado de México por los servicios prestados, en un plazo no mayor de diez días después de haber recibido el pago.
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos. $556
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+H). Otros actos inscribibles o anotables. $844
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $132, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
 
-II. Por los servicios proporcionados a través de la Comisión del Agua del Estado de México, se pagarán los siguientes derechos:
-
-A). Para el suministro de agua en bloque, se pagará de acuerdo con la siguiente:
+Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
 
 TARIFA
 
-GRUPO 1 1 b 2 3 4 Otros
+CONCEPTO
 
-$/m3 6.98 6.45 5.77 5.02 3.89 8.37
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $215,885. $1,521
 
-Para su aplicación se atenderá a la clasificación siguiente:
+2. Cuando el valor de los actos a inscribir sea de más de $215,885 y hasta de $269,857. $4,564
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+3. Cuando el valor de los actos a inscribir sea de más de $269,857 y hasta de $323,828. $7,608
 
-Grupo 1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
+4. Cuando el valor de los actos a inscribir sea de más de $323,828 y hasta de $377,800. $10,651
 
-Grupo 1 b. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
+5. Cuando el valor de los actos a inscribir sea de más de $377,800 y hasta de $431,773. $13,725
 
-Grupo 2. Atlacomulco, Chícoloapan, Huehuetoca, Nextlalpan, Ocoyoacac, Tecamac, Tianguistenco, Tultepec y Zumpango.
+6. Cuando el valor de los actos a inscribir sea de más de $431,773. $15,246
 
-Grupo 3. Almoloya de Juárez, Amecameca, Atlautla, Coyotepec, Hueypoxtla, Ixtlahuaca, Jaltenco, Otumba, Tenango del Valle, Teoloyucan, Tequixquiac y Tlalmanalco.
+Por las inscripciones a que se refieren los incisos C), D), E), F) y H), se tomará como valor para la ubicación del rango correspondiente de la tarifa anterior, el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+Las constancias o documentos que amparen los valores antes referidos, no deberán tener una vigencia mayora (sic) a noventa días.
 
-Grupo 4. Axapusco, Ayapango, Ecatzingo, Jilotepec, Joquicingo, Juchitepec, Luvianos, Ozumba, San Simón de Guerrero, Soyaniquilpan de Juárez, Tejupilco, Temascaltepec, Tenango del Aire, Tepetlixpa y Timilpan.
+Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción. $601
 
-Otros: Quedan comprendidos en forma transitoria en esta tarifa aquellos usuarios a los que preste el servicio directa y temporalmente la Comisión del Agua del Estado de México, de acuerdo con la fracción III último párrafo del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
-
-En caso de que un municipio distinto a los anteriores solicite el servicio, será clasificado de acuerdo al análisis de sus características socio-económicas y al costo que implique prestar el servicio, para incluirlo en algún grupo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-B). Para usuarios que tengan asignación directa de la Comisión Nacional del Agua y utilicen la infraestructura que opera la Comisión del Agua del Estado de México, para la conducción de los volúmenes asignados, pagarán:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-Por cada metro cúbico de agua asignada de fuentes federales $2.16.
-
-C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $10.87 por metro cúbico.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Quedan comprendidos en esta tarifa aquellos usuarios a los que preste el servicio directa y temporalmente la Comisión del Agua del Estado de México, quienes deberán obtener permiso correspondiente de los ayuntamientos u organismos prestadores de los servicios.
-
-D). Por el suministro y aprovechamiento de Agua residual tratada.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Por el agua disponible dentro de las instalaciones de las plantas de tratamiento de jurisdicción estatal, se pagará conforme a la siguiente:
+II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
 
 TARIFA
 
-Usos Pesos/m3
+CONCEPTO
 
-Uso a cargo del municipio $2.10
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $215,885. $1,521
 
-Otros usos $4.88
+2. Cuando el valor de los actos a inscribir sea de más de $215,885 y hasta de $269,857. $4,564
 
-Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría del Agua y Obra Pública y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
+3. Cuando el valor de los actos a inscribir sea de más de $269,857 y hasta de $323,828. $7,608
 
-E). Conexión, tratamiento y manejo ecológico de aguas residuales:
+4. Cuando el valor de los actos a inscribir sea de más de $323,828 y hasta de $377,800. $10,651
 
-1. Por la conexión a colectores que descargan en las plantas de tratamiento se pagarán $3,162 por m3/día.
+5. Cuando el valor de los actos a inscribir sea de más de $377,800 y hasta de $431,773. $13,725
 
-2. Por el tratamiento de aguas residuales en las plantas de tratamiento se pagará una tarifa de $4.50 por metro cúbico.
+6. Cuando el valor de los actos a inscribir sea de más de $431,773. $15,246
 
-> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
+Tratándose de cédula hipotecaria, se tomará como base la cantidad adeudada, para cada inmueble que sea objeto de anotación.
 
-Las descargas que ingresen a los colectores que drenan a las plantas de tratamiento de jurisdicción estatal, no deberán exceder de los límites máximos permisibles de contaminación que señale el organismo y observarán las normas oficiales mexicanas en la materia, así como las observaciones que emitan otras autoridades competentes. Los usuarios cuyas descargas excedan los límites establecidos en la tarifa anterior, podrán optar por utilizar las instalaciones de las plantas, en cuyo caso deberán suscribir el convenio o contrato correspondiente para la prestación del servicio.
+Tratándose de las inscripciones de aseguramientos de bienes ordenados por la autoridad judicial o ministerial competente, dichas inscripciones se encontrarán exentas de pago.
 
-F). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.140 por metro cúbico.
+Por la inscripción de la división de hipoteca, se pagarán $1,451 por cada inmueble.
 
-> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+Por la inscripción de hipotecas, en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $830.
 
-III. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
+Por la inscripción de hipotecas, para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $131.
 
-CONCEPTO TARIFA
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,203, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $63, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
 
-A). Por duplicado de cada plano $146
+Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-B). Por el duplicado de planos con material
+III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $562.
 
-proporcionada por el usuario $103
+Para efectos del párrafo anterior, los contratos privados de compraventa no se considerarán como un acto previo, independientemente de la denominación que se les dé.
 
-La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo, deberán ser presentadas a más tardar el 15 de octubre a la Legislatura.
+Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $256.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Están exentos del pago de derechos la inscripción, cancelación o la adjudicación de inmuebles garantizados con la hipoteca inversa.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o Municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades financieras de objeto múltiple cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del artículo 3 de este Código para cada tipo de vivienda.
 
-Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características, circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos; o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el contrato o convenio correspondiente y pagar los derechos durante los treinta días del mes siguiente a aquel en el que se haya recibido el servicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-> <small>N. DE E. EL PRESENTE PÁRRAFO HA SIDO REUBICADO, PERTENECÍA A LA FRACCIÓN II, COMO CUARTO PÁRRAFO</small>
-
-(REUBICADO, G.G. 29 DE DICIEMBRE DE 2006)
-
-La parte de los ingresos de la Comisión del Agua del Estado de México que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Caja General de Gobierno del Estado.
+Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aun cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
 
 > <small>(REFORMADO Y ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)</small>
 
@@ -5213,151 +6171,67 @@ I. Por la expedición del permiso de distribución de agua a través de pipa a c
 
 II. Por la renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
 
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 96.
 
-Por los servicios prestados por la Secretaría de la Contraloría, se pagarán los siguientes derechos:
+Por inscripciones de actos relativos a bienes muebles, se pagarán los siguientes derechos:
+
+l. Por inscripción de actos o contratos que transmitan la propiedad de bienes muebles, sea plena o con alguna condición suspensiva o resolutiva.
+
+II. Por inscripción de operaciones que limiten o graven bienes muebles.
+
+III. Por otros actos inscribibles o anotables.
+
+Estos derechos se pagarán conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-I. Por los servicios de auditoría técnica requeridos, que se practiquen a los trabajos que realicen los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, se pagarán derechos a razón del 2% sobre el importe total de cada una de las estimaciones de trabajo.
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $215,885. $1,521
 
-Los estudios técnicos que con motivo de la auditoría técnica sean necesarios practicar, a efecto de soportar y sustentar dicha auditoría, correrán a cargo del solicitante.
+2. Cuando el valor de los actos a inscribir sea de más de $215,885 y hasta de $269,857. $4,564
 
-II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+3. Cuando el valor de los actos a inscribir sea de más de $269,857 y hasta de $323,828. $7,608
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
+4. Cuando el valor de los actos a inscribir sea de más de $323,828 y hasta de $377,800. $10,651
+
+5. Cuando el valor de los actos a inscribir sea de más de $377,800 y hasta de $431,773. $13,725
+
+6. Cuando el valor de los actos a inscribir sea de más de $431,773. $15,246
+
+IV. Por cancelación de cualquiera de los actos contenidos en este artículo. $1,521
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 97.
 
-Por el uso o aprovechamiento del derecho de vía estatal, así como por los servicios prestados por la Junta de Caminos, respecto de las concesiones, permisos o autorizaciones, se pagarán los siguientes derechos:
+Por inscripciones de documentos o actos relativos a personas jurídicas colectivas, se pagarán los siguientes derechos:
 
 TARIFA
 
 CONCEPTO
 
-I. Canalizaciones superficiales por cada metro.
+I. Escrituras constitutivas de personas jurídicas colectivas o aumento de capital social. $1,506
 
-A). De 0 a 999 metros. $14
+II. Actas de asambleas de socios o de juntas de administradores de conformidad a la legislación aplicable. $1,506
 
-B). A partir de 1000 metros. $9
+III. Otorgamiento o sustitución de poderes generales, nombramientos, revocación y renuncia de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán. $619
 
-II. Canalizaciones subterráneas por cada metro:
+IV. Emisiones de acciones, cédulas, obligaciones o certificados de participación. $1,506
 
-A). De 0 a 999 metros. $16
+V. Fianzas de corredores, se pagarán. $844
 
-B). A partir de 1000 metros. $9
+VI. Depósito de la firma en facsímil de los administradores, se pagarán. $1,521
 
-III. Instalación de postería para instalación marginal, por cada poste. $276
+VII. Depósito de copia autorizada por balance, se pagarán. $1,521
 
-IV. Cruzamientos por cada metro:
+VIII. Cancelación, por mandato judicial, de cualquier acto que sea inscribible de acuerdo con este artículo. $1,121
 
-A). Aéreo. $54
+IX. Otros actos inscribibles o anotables. $1,506
 
-B). Subterráneo. $113
-
-V. Instalaciones marginales aéreas por cada metro:
-
-A). De 0 a 999 metros. $11
-
-B). A partir de 1000 metros. $8
-
-VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señales informativas y estructuras con fines de publicidad, se pagarán los siguientes derechos:
-
-A). Elaboración de estudio técnico, al realizarse la instalación:
-
-1. Por señal informativa. $360
-
-2. Por estructura para anuncios publicitarios. $3,600
-
-B). Uso y aprovechamiento del derecho de vía anualmente:
-
-1. Por señal informativa de hasta 10 metros cuadrados. $2,447
-
-2. Por estructura para anuncios publicitarios, según el tamaño, de acuerdo con lo siguiente:
-
-a) Hasta 10 metros cuadrados $2,505
-
-b) Más de 10 y hasta 20 metros cuadrados $5,139
-
-c) Más de 20 y hasta 30 metros cuadrados $7,709
-
-d) Más de 30 y hasta 40 metros cuadrados $10,279
-
-e) Más de 40 y hasta 50 metros cuadrados $12,848
-
-f) Más de 50 y hasta 60 metros cuadrados $15,418
-
-g) Más de 60 y hasta 70 metros cuadrados $17,988
-
-h) Más de 70 y hasta 80 metros cuadrados $20,558
-
-i) Más de 80 y hasta 90 metros cuadrados $23,127
-
-C). Otorgamiento del permiso anualmente:
-
-1. Por señal informativa. $131
-
-2. Por estructura para anuncios publicitarios. $1,305
-
-VII. Registros para canalizaciones en cruces, avenidas o calles, por registro:
-
-A). Para transición aéreo-subterráneo en baja tensión. $1,972
-
-B). Para instalaciones de telecomunicaciones. $1,972
-
-C). Para líneas de drenaje, agua potable, hidrocarburos o similares:
-
-1. Por pozo. $1,972
-
-2. Por registro. $986
-
-VIII. Ruptura de banquetas por metro cúbico. $109
-
-IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico:
-
-A). Manual. $129
-
-B). Con maquinaria. $60
-
-X. Protección a instalaciones subterráneas con pintura o cinta
-
-plástica por metro lineal. $17
-
-XI. Ruptura de guarnición por metro cúbico. $60
-
-XII. Accesos por metro cuadrado. $399
-
-XIII. Revisión técnica de memorias y/o planos:
-
-A). Instalaciones marginales por metro lineal. $15
-
-B). Cruzamientos aéreos o subterráneos por cruce. $903
-
-C). Instalaciones marginales de telecomunicaciones por metro lineal. $5
-
-D). Anuncios por memoria. $5,075
-
-XIV. Por retiro de estructuras de anuncios publicitarios:
-
-A). Estructurales. $23,308
-
-B). Semiestructurales. $57,160
-
-C). Unipolares. $94,083
-
-D). Bipolares. $104,214
-
-E). Tripolares. $114,882
-
-F). Denominativos. $4,125
-
-G). Anuncios tipo oficial, pendones, gallardetes u otros análogos. $17
-
-H). Estructura para vallas y columnas. $30,195
-
-Cuando por su denominación o características del anuncio no se encuentran comprendidos en la clasificación anterior, se ubicará en aquel que por sus características le sea más semejante.
+Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en este artículo $115.
 
 (REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
@@ -5549,7 +6423,7 @@ derechos de vía de las autopistas de cuotas estatales
 
 y zonas aledañas, por kilómetro lineal o fracción. $5,051
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
+(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 97-B.
 
@@ -6177,155 +7051,159 @@ autotransporte colectivo de pasajeros, en rutas fijas dentro
 
 del territorio del Estado. $458
 
-(REPUBLICADA, G.G. 1 DE ENERO DE 2010)
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 98.
 
-Por los servicios prestados por la Secretaría del Medio Ambiente que a continuación se mencionan, se pagarán los siguientes derechos:
+Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
 TARIFA
 
 CONCEPTO
 
-I. Por la búsqueda y reposición de la constancia sobre los
+l. Corresponsalía. $845
 
-resultados de la verificación del vehículo automotor. $148
+II. Compra-venta con reserva de dominio.
 
-II. Por la expedición de la constancia que ampara a los
+III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente o crédito simple.
 
-vehículos que operan con combustibles alternos, como
+IV. Embargos.
 
-gas licuado de petróleo, gas natural, diesel u otros, que
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II, III, IV y VII. $1,195
 
-conforme a las normas técnicas emitidas al efecto no
+VI. Registros o matriculas que acrediten la calidad de personas físicas comerciantes. $601
 
-quedan sujetos al Acuerdo “Hoy No Circula” y al
+VII. Arrendamiento financiero.
 
-Programa de Contingencias Ambientales. $666
+VIII. Otros actos inscribibles o anotables.
 
-III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
-
-IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
-
-V. Por la inscripción y expedición a domicilio de la
-
-constancia que ampara a los vehículos mercantiles
-
-que operan con combustibles alternos como gas
-
-licuado de petróleo, gas natural, diesel u otros, que
-
-conforme a las normas técnicas emitidas al efecto
-
-no quedan sujetos al Acuerdo “Hoy no Circula” y al
-
-Programa de Contingencias Ambientales, por cada uno. $725
-
-VI. Por la certificación para la comercialización y/o
-
-instalación de sistemas, equipos y dispositivos de control de
-
-emisiones. $5,220
-
-VII. Por la renovación anual de la certificación para la
-
-comercialización y/o instalación de sistemas, equipos y
-
-dispositivos de control de emisiones. $1,304
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados Verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial "Gaceta del Gobierno".
-
-(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-###### Artículo 99.
-
-Por la evaluación del impacto ambiental, que efectúe la autoridad competente, en los términos de los ordenamientos jurídicos aplicables, se pagarán los siguientes derechos:
+Por las inscripciones a que se refieren las fracciones II, III, IV, VII y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
 TARIFA
 
-CONCEPTO INDUSTRIAL OTROS
+CONCEPTO
 
-I. Por la evaluación de la
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $215,885. $1,521
 
-manifestación de impacto ambiental. $9,073 $9,338
+2. Cuando el valor de los actos a inscribir sea de más de $215,885 y hasta de $269,857. $4,564
 
-II. Evaluación del estudio de riesgo
+3. Cuando el valor de los actos a inscribir sea de más de $269,857 y hasta de $323,828. $7,608
 
-ambiental. $13,608 $14,007
+4. Cuando el valor de los actos a inscribir sea de más de $323,828 y hasta de $377,800. $10,651
 
-III. Por la evaluación de las solicitudes presentadas para la acreditación para la prestación de servicios profesionales en materia de impacto y riesgo ambiental.
+5. Cuando el valor de los actos a inscribir sea de más de $377,800 y hasta de $431,773. $13,725
 
-A). Impacto. $3,736
+6. Cuando el valor de los actos a inscribir sea de más de $431,773. $15,246
 
-B). Riesgo. $3,736
+Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagarán por concepto de derechos $830.
 
-IV. Por la evaluación del informe previo de impacto ambiental:
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-A). Industria. $4,308
+###### Artículo 99.
 
-B). Otros. $4,440
+Por las inscripciones o anotaciones de resoluciones judiciales que contengan actos mercantiles, se pagarán derechos:
 
-V. Por expedición del oficio de prórroga de la vigencia de la
+TARIFA
 
-resolución. $3,810
+CONCEPTO
 
-VI. Por la expedición del oficio que determine que una
+I. Providencias precautorias. $1,521
 
-obra y/o actividad no requiere someterse al procedimiento
+II. Suspensión de pagos. $1,524
 
-de evaluación en materia de impacto ambiental. $439
+III. Quiebras. $1,524
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
+IV. Otras resoluciones. $1,524
 
 ###### Artículo 99 Bis.
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 100.
 
-Por la evaluación permanente a verificentros autorizados, se pagará una cuota anual conforme a la siguiente:
+Por la expedición de certificados y copias certificadas, se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2011)
+l. Expedición de certificados:
 
-I. Por cada línea de verificación con que cuente el verificentro. $4,893
+A). De no inscripción. $717
 
-II. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+B). De no propiedad. $58
 
-III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+C). De inscripción. $709
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+D). De libertad o de existencia de gravámenes. $826
+
+Tratándose de la expedición de certificados de libertad o existencia de gravámenes relacionados con la adquisición de viviendas de interés social, social progresiva o popular y en los que intervenga el Fondo Instituido en relación a la Agricultura o la Financiera Rural. $144
+
+Tratándose de terrenos en donde se construyan viviendas de interés social, social progresiva o popular. $358
+
+Los derechos a que se refiere esta fracción, se pagarán por cada fracción de terreno, lote o vivienda.
+
+II. Por expedición de informes sobre la existencia o inexistencia de testamentos. $601
+
+III. Por compulsa de documentos. $58
+
+IV. Expedición de copias literales de asientos registrales por cada predio, o de las copias certificadas de la carátula de los folios reales electrónicos. $717
+
+V. Por la expedición del certificado de una secuencia registral de un inmueble o asiento registral, por cada asiento que se certifique. $606
+
+VI. Por la búsqueda y expedición, sin certificación, de informes contenidos en los libros, partidas o folios electrónicos del Registro Público de la Propiedad de antecedentes registrales. $315
+
+En el caso de los certificados a que hace referencia la fracción I y tratándose de programas o campañas de regularización de la tenencia de la tierra llevadas a cabo por los organismos reguladores del Estado o de los Municipios, quedarán exentos del pago de derechos, siempre y cuando el Instituto de la Función Registral del Estado de México sea parte en los convenios suscritos.
+
+Cuando los servicios a que aluden las fracciones I, incisos A), B), C) y D) y V de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la documentación solicitada, haciendo válido el pago efectuado.
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 101.
 
-Por las evaluaciones técnicas para la procedencia operativa de verificentros autorizados, se pagarán $4,893, semestralmente, dentro de los primeros diez días naturales siguientes a la entrada en vigor del Programa de Verificación Vehicular correspondiente.
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $456.
 
-(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $117.
+
+Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
+
+Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $380, por cada una de ellas.
+
+Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 102.
 
-Por la expedición o prórroga de constancia, actualización o verificación de:
+Por los servicios prestados por el Archivo General de Notarías, se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-I. Funcionamiento de emisiones a la atmósfera. $691
+l. Expedición de Testimonios, incluida la autorización, por cada hoja. $58
 
-II. Generador de residuos de manejo especial. $518
+II. Expedición de copias certificadas de planos que obran en el apéndice por cada foja, incluida la autorización. $117
 
-III. Quema de materiales a cielo abierto. $921
+III. Expedición de testimonio de escrituras mecanografiadas, por hoja. $77
+
+IV. Informe sobre existencia o inexistencia de testamento. $581
+
+V. Búsqueda de antecedentes notariales. $58
+
+VI. Autorización definitiva de las escrituras o actas notariales de valor determinado que no contengan cuota especial en este Código. $1,116
+
+VII. Derechos por autorización definitiva, para cuando se trate de actas o escrituras de valor indeterminado. $1,192
+
+VIII. Por la cancelación de la disposición del patrimonio familiar. $562
+
+IX. Por revocación, extinción y sustitución de poderes que se asienten en nota complementaria dentro del acto jurídico que corresponda. $574
+
+X. Depósito de aviso de testamento, incluyendo el que se realiza por vía correo electrónico, por cada uno. $58
+
+Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
 (REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
@@ -6339,83 +7217,105 @@ Taller autorizado en el Programa Integral de Reducción
 
 de Emisiones Contaminantes (PIREC). $4,979
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 103.
 
-Por los servicios prestados por la Procuraduría General de Justicia del Estado, se pagarán derechos conforme a la siguiente:
+Los notarios públicos deberán, efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
-CONCEPTO TARIFA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-I. Expedición de certificados de no antecedentes penales. $115
+SUBSECCION TERCERA
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
 
-No se pagarán estos derechos por la expedición de certificados a los elementos activos de la policía ministerial, seguridad pública estatal, municipal y los del ámbito federal, con motivo de la renovación de la licencia colectiva para la portación y uso de armas de fuego.
-
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-II. No se pagarán los derechos previstos en el artículo 70 Bis por la expedición de:
-
-A). Las copias certificadas que se expidan para la sustanciación de los juicios de amparo;
-
-B). Las copias certificadas solicitadas por autoridades judiciales y administrativas;
-
-C). Cuando las copias certificadas se expidan para la sustanciación de procedimientos penales y familiares;
-
-D). Las copias certificadas que se expidan de actas de levantamiento de denuncias de robo de vehículos;
-
-> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-E). Las copias certificadas que se expidan para la sustanciación de procedimientos laborales, cuando lo solicite el trabajador.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-F). Las copias certificadas que se expidan para la substanciación de cualquier procedimiento para las personas con discapacidad y de la tercera edad.
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 104.
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE FEBRERO DE 2013)</small>
+TARIFA
+
+CONCEPTO
+
+I. Expedición de copias certificadas en papel bond del apéndice de los procedimientos administrativos y de la documentación concentrada en la Dirección General del Registro Civil. $82
+
+II. Expedición de copia certificada del Registro Civil en papel bond para acuerdos de aclaración de actas, concentradas en la Dirección General y oficinas regionales del Registro Civil. $29
+
+III. Expedición de copia certificada en papel seguridad, de las actas de los actos y/o hechos del estado civil concentradas en la Dirección General. $60
+
+IV. Por el dictamen de procedencia del divorcio administrativo. $1,123
+
+V. Búsqueda en los libros y archivos sistematizados del Registro Civil que se encuentren concentrados en la Dirección General, subdirecciones y oficinas regionales, cuando no se señale fecha de registro, por cada año o fracción. $16
+
+VI. Por el trámite de aclaración de acta por vía administrativa y el asentamiento de la anotación marginal correspondiente. $87
+
+VII. Por certificación de constancia de inexistencia de registro. $60
+
+VIII. Por cada hoja de papel seguridad para copia certificada. $10
+
+IX. Por juego de formato para el asentamiento de hechos y actos del estado civil. $5
+
+X. Por el servicio de encuadernación o rehabilitación de los libros de Oficialía de las diversas actas de los actos y hechos del estado civil, por libro. $270
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+
+###### Artículo 105.
+
+Por los servicios prestados por la Procuraduría General de Justicia del Estado, se pagarán derechos conforme a la siguiente:
+
+TARIFA
+
+CONCEPTO
+
+l. Expedición de certificados de no antecedentes penales. $121
+
+No se pagarán estos derechos por la expedición de certificados a los elementos activos de la policía ministerial, seguridad pública estatal, municipal y los del ámbito federal, con motivo de la renovación de la licencia colectiva para la portación y uso de armas de fuego.
+
+II. No se pagarán los derechos previstos en el artículo 73 por la expedición de:
+
+A). Las copias certificadas que se expidan para la sustanciación de los juicios de amparo.
+
+B). Las copias certificadas solicitadas por autoridades judiciales y administrativas.
+
+C). Cuando las copias certificadas se expidan para la sustanciación de procedimientos penales y familiares.
+
+D). Las copias certificadas que se expidan de actas de levantamiento de denuncias de robo de vehículos.
+
+E). Las copias certificadas que se expidan para la sustanciación de procedimientos laborales, cuando lo solicite el trabajador.
+
+F). Las copias certificadas que se expidan para la substanciación de cualquier procedimiento para las personas con discapacidad y de la tercera edad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 105.
-
-(DEROGADO, G.G. 29 DE AGOSTO DE 2013)
-
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
-
-#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
-
 ###### Artículo 106.
 
-Por certificados expedidos por el Tribunal de lo Contencioso Administrativo se pagarán los derechos establecidos en el artículo 70 Bis.
+Por certificados expedidos por el Tribunal de lo Contencioso Administrativo se pagarán los derechos establecidos en el artículo 73.
 
-No se pagarán estos derechos ni los establecidos en el artículo 70 Bis, cuando se expidan:
+No se pagarán estos derechos ni los establecidos en el artículo 73 cuando se expidan:
 
-I. Para la sustanciación del juicio de amparo;
+l. Para la sustanciación del juicio de amparo.
 
-II. Para integrar los testimonios en la sustanciación de recursos; y
+II. Para integrar los testimonios en la sustanciación de recursos.
 
 III. Para la sustanciación de procedimientos penales y familiares.
 
-#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
 ## TITULO CUARTO. DE LOS INGRESOS DE LOS MUNICIPIOS
 
 ### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
-#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
+#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 107.
 
@@ -6499,17 +7399,17 @@ DICIEMBRE DE 2010) DICIEMBRE DE 2010)
 
 El monto anual del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre el valor catastral del inmueble de que se trate y el valor catastral que se indica en el límite inferior del rango relativo.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Cuando se trate de terrenos baldíos mayores de 200 metros cuadrados, se aplicará una tasa adicional del 15%, sobre el monto total a pagar.
+
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 110.
 
 Cuando se modifiquen los valores catastrales de los inmuebles, el impuesto que resulte de aplicar el nuevo valor, se pagará a partir del bimestre siguiente a la fecha de su modificación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-Si como resultado de la modificación del valor catastral, el impuesto a pagar es de un monto menor al efectivamente pagado por el contribuyente, la autoridad fiscal procederá a acreditar las cantidades que resulten a favor por ese ejercicio, contra pagos futuros o créditos fiscales firmes a cargo del contribuyente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 111.
 
@@ -6555,7 +7455,9 @@ Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
+#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 113.
 
@@ -6583,7 +7485,9 @@ V. Fusión y escisión de sociedades.
 
 VI. La dación en pago y la liquidación, reducción o aumento de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-VII. Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+VII. Constitución de usufructo, transmisión de éste o de la nuda propiedad y la extinción del usufructo.
 
 VIII. Prescripción positiva e información de dominio judicial o administrativa.
 
@@ -6755,11 +7659,9 @@ VII. En los casos no previstos en las fracciones anteriores, cuando los actos de
 
 La forma oficial única autorizada en el marco del Sistema de Coordinación Hacendaria del Estado de México y Municipios para la declaración de este impuesto, será de libre reproducción, para lo cual deberá publicarse en el Periódico Oficial y a través del portal electrónico del gobierno municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-A la declaración a que se refiere este artículo deberá acompañarse de copia certificada expedida por notario público, autoridad judicial o administrativa, en la que conste el acto o contrato traslativo de dominio, así como certificaciones de pago actualizado de impuesto predial, y de clave y valor catastral; y en su caso, certificaciones de pago de derechos de agua y de aportaciones de mejoras.
+A la declaración a que se refiere este artículo deberá acompañarse de copia certificada de la escritura pública expedida por notario o de la resolución de autoridad judicial o administrativa, en la que conste el acto o contrato traslativo de dominio, así como certificaciones de pago actualizado de impuesto predial, y de clave y valor catastral; y en su caso, certificaciones de pago de derechos de agua y de aportaciones de mejoras.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -6773,15 +7675,15 @@ Las personas físicas o jurídicas colectivas cuya actividad sea la enajenación
 
 En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro del plazo a que se refiere el artículo anterior.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Los fedatarios públicos que por disposición legal ejerzan funciones notariales, tendrán la obligación de verificar que todo traslado de dominio de vivienda nueva en que intervenga una desarrolladora de conjuntos urbanos, se lleve a cabo una vez que ésta acredite estar al corriente en el pago del impuesto predial y de derechos por el suministro de agua, en concordancia con lo establecido en los artículos 107 y 129 de este Código, de lo contrario la compraventa no podrá verificarse.
+
 Si las adquisiciones se hacen constar en documentos privados, el cálculo y entero del impuesto deberá efectuarlo el adquirente bajo su responsabilidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
 
 ###### Artículo 118.
 
@@ -6891,15 +7793,11 @@ Grupo B.- Comprenderá los municipios no incluidos en el grupo A.
 
 II. Los montos determinados de conformidad con lo previsto en este artículo, se pagarán ante la tesorería correspondiente, dentro de los noventa días siguientes contados a partir de la fecha de publicación en el periódico oficial, del acuerdo de autorización del conjunto urbano o de las subdivisiones de predios de que se trate, o de sus modificaciones.
 
-#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
+#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
 
 ###### Artículo 120.
 
-Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que se anuncien en bienes del dominio público o privado, mediante anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, así como la distribución de publicidad impresa en la vía pública, que anuncien o promuevan la venta de bienes o servicios. Lo anterior, observando las disposiciones aplicables en la materia, incluyendo las emitidas por la autoridad municipal de que se trate.
+Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que se anuncien en bienes del dominio público o privado, mediante anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, así como la distribución de publicidad impresa, sonorización y perifoneo, en la vía pública, que anuncien o promuevan la venta de bienes o servicios. Lo anterior, observando las disposiciones aplicables en la materia, incluyendo las emitidas por la autoridad municipal de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6977,7 +7875,11 @@ No se pagará este impuesto, por aquellos anuncios que tengan como única finali
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
+#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
 
 ###### Artículo 122.
 
@@ -7025,43 +7927,29 @@ Las máquinas de entretenimiento de audio, vídeo, vídeo juegos, eléctricas y 
 
 Los contribuyentes que habitualmente realicen actividades por las que se cause este impuesto lo pagarán dentro de los primeros diecisiete días de cada mes; y quienes realicen actividades que lo causen de manera temporal lo deberán pagar diario en la tesorería.
 
-#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
 ###### Artículo 125.
 
-Están obligados al pago de este impuesto y lo trasladarán en forma expresa y por separado a las personas que reciban los servicios, las personas físicas y jurídicas colectivas que en el territorio del municipio presten el servicio de hospedaje a través de hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes y otros establecimientos que presten servicios de esta naturaleza, incluyendo los que prestan estos servicios bajo la modalidad de tiempo compartido.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 ###### Artículo 126.
 
-El impuesto se determinará aplicando la tasa del 4% sobre el monto total de la contraprestación por el servicio de hospedaje, sin considerar el importe de los alimentos y demás servicios relacionados con los mismos.
+(DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 ###### Artículo 127.
 
-Este impuesto se pagará mediante declaración que se presentará a la tesorería, en la forma oficial aprobada, a más tardar el día diecisiete del mes siguiente a aquél en que se perciban las contraprestaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 18 DE DICIEMBRE DE 2008)</small>
+(DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 ###### Artículo 128.
 
-La Tesorería deberá depositar el 50% de lo recaudado por el impuesto a que se refiere la presente Sección, dentro de los diez días siguientes al mes en que se reciba el pago del propio gravamen, en una cuenta bancaria específica en la que únicamente podrán depositarse los montos recaudados por el impuesto y en su caso los rendimientos que éstos produzcan.
+(DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Artículo 128 Bis A.- (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-Artículo 128 Bis A.- Los ingresos depositados en la cuenta a que se refiere el artículo 128 del Código deberán destinarse al desarrollo de actividades de fomento al turismo en el territorio del municipio de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-Artículo 128 Bis B.- El Órgano Superior de Fiscalización del Estado de México, en el ámbito de sus atribuciones, será responsable de fiscalizar y comprobar el ejercicio de los recursos a que se refiere la presente Sección.
+Artículo 128 Bis B.- (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
 
@@ -7069,9 +7957,9 @@ Artículo 128 Bis B.- El Órgano Superior de Fiscalización del Estado de Méxic
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
+#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 129.
 
@@ -7137,6 +8025,10 @@ El consejo directivo del organismo público descentralizado de carácter municip
 
 Los usuarios del servicio de agua potable, drenaje, alcantarillado y recepción de los caudales de aguas residuales para su tratamiento o manejo y conducción están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Para la contratación de los servicios de conducción de agua y drenaje solo será necesario presentar cualquier tipo de comprobante del domicilio donde se instalarán dichos servicios y, en estos casos, el recibo que expida la autoridad será innominado. Para que en el contrato y recibo se registre el nombre del usuario se presentarán los documentos que acrediten la respectiva propiedad o legal posesión.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
@@ -7181,9 +8073,15 @@ El consumo promediado se aplicará a los establecimientos que se encuentren habi
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Para usuarios con servicio medido, en el caso de que las instalaciones hidráulicas internas del predio de que se trate presenten fuga, verificada por la autoridad, se cobrará por única vez en el mes o bimestre según corresponda, hasta un máximo de tres períodos, con fuga, el consumo promedio de los últimos seis bimestres de consumo normal y la diferencia de los metros cúbicos registrados por la fuga, se cobrará conforme al costo del metro cúbico adicional sobre el rango de la tarifa del consumo promedio aplicado.
+Para usuarios con servicio medido, en el caso de que las instalaciones hidráulicas internas del predio de que se trate presenten fuga, verificada por la autoridad, se cobrará por única vez en el mes o bimestre según corresponda, hasta un máximo de tres períodos, con fuga, el consumo promedio de los últimos doce meses o seis bimestres de consumo normal, y la diferencia de los metros cúbicos registrados por la fuga, se cobrará conforme al costo del metro cúbico adicional sobre el rango de la tarifa del consumo promedio aplicado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Cuando se trate de medidores que cuenten con menos de 60 días naturales de instalados, se deberá esperar a que se cumpla el término para así poder aplicar el consumo promedio real del usuario, al bimestre en que haya ocurrido la anomalía.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7935,9 +8833,9 @@ Grupo 4.- Comprenderá el resto de los municipios del Estado no incluidos en los
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
+#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 142.
 
@@ -7967,19 +8865,11 @@ nacimiento de recién nacidos,
 
 hasta cumplido un año. Exento
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+II. Asentamiento de actas de los registros extemporáneos de nacimiento de personas mayores de un año, pero menores de sesenta, y por cada año omiso.
 
-II. Asentamiento de actas de
-
-los registros extemporáneos
-
-de nacimiento de personas
-
-mayores de un año, por cada
-
-año omiso. 0.17
+Por el asentamiento de actas de los registros extemporáneos de nacimiento de personas de 60 años en adelante, sujetos al Programa Permanente para el Registro de Nacimiento de Adultos Mayores. Exento
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -7987,11 +8877,7 @@ III. Asentamiento de actas de
 
 reconocimiento de hijos. 0.66
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-IV. Asentamiento de actas de
-
-adopción. 0.66
+IV. (DEROGADA, G.G. 2 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -8131,7 +9017,9 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 Los municipios podrán convenir con el Estado, para que éste sea quien preste los servicios del Registro Civil, y reciba el pago de los derechos correspondientes.
 
-#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 143.
 
@@ -8553,7 +9441,7 @@ Para los efectos de esta Sección, se atenderá a la clasificación de municipio
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
+#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
 
 ###### Artículo 147.
 
@@ -8641,9 +9529,11 @@ Por la expedición de documentos solicitados en el ejercicio del derecho a la in
 
 TARIFA
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 CONCEPTO NUMERO DE SALARIOS
 
-MINIMOS GENERALES DEL
+MINIMOS DIARIOS GENERALES DEL
 
 AREA GEOGRAFICA QUE
 
@@ -8693,6 +9583,10 @@ IV. Para la expedición de información en disco
 
 compacto por cada disco. 0.336
 
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+V. Por el escaneo y digitalización de documentos. 0.008
+
 Para los supuestos establecidos en la fracciones III y IV, el solicitante podrá proporcionar a la autoridad municipal, el medio en el que requiera le sea entregada la información pública, en cuyo caso no habrá costo que cubrir.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
@@ -8729,9 +9623,7 @@ B). Por cada metro o fracción
 
 excedente, por día. 1.0
 
-#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
 
 ###### Artículo 150.
 
@@ -8811,11 +9703,9 @@ por cabeza, o cada una. 0.0051
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación del número de cabezas sacrificadas por especie, en el mes anterior.
 
-#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
+#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 152.
 
@@ -8843,11 +9733,11 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
+#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 154.
 
@@ -8865,9 +9755,9 @@ Geográfica que
 
 corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-I. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
+I. Puestos fijos, semifijos o comerciantes ambulantes por cada metro cuadrado o fracción. 0.01
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8909,9 +9799,9 @@ Por la expedición y renovación anual de la cédula para puestos fijos, semifij
 
 Para el cobro del derecho a que se refiere el presente artículo, la autoridad municipal deberá emitir el reglamento relativo a las modalidades, requisitos y características que deberán tener las cédulas, como son, entre otros, los datos que permitan la identificación del comercio, la persona a quien se expide la cédula, la vigencia de la misma y su carácter no transferible.
 
-#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 155.
 
@@ -9085,9 +9975,9 @@ Por la evaluación de la prestación del servicio de panteones concesionados, el
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación de las inhumaciones efectuadas el mes anterior.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 157.
 
@@ -9153,7 +10043,9 @@ El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 159.
 
@@ -9401,7 +10293,7 @@ Cuando la expedición de la licencia no se autorice en el primer mes del ejercic
 
 El refrendo deberá pagarse dentro de los primeros tres meses de cada año.
 
-#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
 
 ###### Artículo 160.
 
@@ -9435,9 +10327,7 @@ VIII. Primer
 
 comandante. 9.64
 
-#### SECCION CUARTA. DE LA FORMA DE PAGO
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
 
 ###### Artículo 161.
 
@@ -9459,11 +10349,9 @@ Tratándose de microindustrias ubicadas en los inmuebles de referencia y que est
 
 Los ayuntamientos podrán acordar la aplicación del derecho en aquellas zonas que no tengan un grado relativo de existencia del servicio, a solicitud de los habitantes del área específica del municipio, o por convenio expreso entre éstos y el ayuntamiento, cuando los importes de su recaudación se destinen precisamente a la introducción o ampliación en su caso, de las redes de alumbrado público faltantes o insuficientes, respectivamente.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION CUARTA. DE LA FORMA DE PAGO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 163.
 
@@ -9529,11 +10417,9 @@ Se consideran residuos sólidos industriales y comerciales, los que así conside
 
 Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 días de salario mínimo general vigente en el área geográfica que corresponda, por m3 o fracción.
 
-#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 166.
 
@@ -9541,11 +10427,11 @@ Por los servicios prestados por las autoridades municipales de catastro, se paga
 
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 CONCEPTO Número de Salarios Mínimos Diarios
 
-Generales Diarios (sic) del Área Geográfica
+Generales del Área Geográfica
 
 que corresponda.
 
@@ -9579,9 +10465,7 @@ catastral. 2.00
 
 V. Por el levantamiento topográfico catastral, se pagarán derechos conforme a la siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 TARIFA
 
@@ -9593,17 +10477,17 @@ Límite Límite
 
 inferior superior
 
-1 1 500 260.00 0.8400
+1 1 500 310.00 0.9900
 
-2 501 2,000 680.00 0.4132
+2 501 2,000 805.00 0.4867
 
-3 2,001 5,000 1,300.00 0.5800
+3 2,001 5,000 1,535.00 0.6850
 
-4 5,001 20,000 3,040.00 0.1260
+4 5,001 20,000 3,590.00 0.1487
 
-5 20,001 50,000 4,930.00 0.0683
+5 20,001 50,000 5,820.00 0.0805
 
-6 50,001 En adelante 6,980.00 0.0491
+6 50,001 En adelante 8,235.00 0.0579
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9617,9 +10501,7 @@ Una vez programada la fecha para la ejecución de los trabajos y notificados los
 
 VI. Por la verificación de linderos a petición de parte, se pagarán derechos conforme a la siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 TARIFA
 
@@ -9631,17 +10513,17 @@ Límite Límite
 
 inferior superior
 
-1 1 500 220.00 0.4600
+1 1 500 260.00 0.5400
 
-2 501 2,000 450.00 0.2266
+2 501 2,000 530.00 0.2667
 
-3 2,001 5,000 790.00 0.3033
+3 2,001 5,000 930.00 0.3583
 
-4 5,001 20,000 1,700.00 0.0780
+4 5,001 20,000 2,005.00 0.0920
 
-5 20,001 50,000 2,870.00 0.0480
+5 20,001 50,000 3,385.00 0.0567
 
-6 50,001 En adelante 4,310.00 0.0379
+6 50,001 En adelante 5,085.00 0.0447
 
 El importe de los derechos a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable a cada rango por la diferencia que exista entre la superficie de terreno del inmueble de que se trate y la superficie indicada en el límite inferior del rango relativo.
 
@@ -9661,23 +10543,15 @@ Las disposiciones de este título tienen por objeto normar la actividad catastra
 
 En lo concerniente a la integración, conservación y actualización de la información e investigación catastral, se estará a lo dispuesto en el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 168.
 
-Catastro es el sistema de información territorial, cuyo propósito es integrar, conservar y mantener actualizado el padrón catastral que contiene los datos técnicos y administrativos de un inventario analítico de los inmuebles ubicados en el Estado.
+Catastro es el sistema de información territorial, cuyo propósito es integrar, conservar y mantener actualizado el padrón catastral del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+El padrón catastral es el inventario analítico que contiene los datos técnicos y administrativos de los inmuebles y está conformado por el conjunto de registros geográficos, gráficos, estadísticos, alfanuméricos y elementos y características resultantes de las actividades catastrales.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-El padrón catastral es el inventario analítico de los inmuebles, conformado por el conjunto de registros geográficos, gráficos, estadísticos, alfanuméricos y elementos y características resultantes de las actividades catastrales de identificación, inscripción, control y valuación de los inmuebles.
-
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-La actividad catastral es el conjunto de acciones que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego al LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+La actividad catastral es el conjunto de acciones de identificación, inscripción, control y valuación, que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego al LlGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES
 
@@ -9701,19 +10575,19 @@ III. El Director General del Instituto de Información e Investigación Geográf
 
 IV. El ayuntamiento y el servidor público que éste designe como titular del área de catastro municipal, quien deberá estar debidamente certificado o certificarse en un plazo máximo de tres meses contados a partir de su designación, ante la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México en al menos una de las ocho unidades de competencia laboral que integran a las normas institucionales vigentes en materia de catastro.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Las facultades y obligaciones que en materia catastral corresponden a estas autoridades, son aquellas que se encuentran conferidas en los términos de el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+Las facultades y obligaciones que en materia catastral correspondan a estas autoridades, son aquellas que se encuentran conferidas en los términos del LlGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 170.
 
-Además de las atribuciones que otros ordenamientos le confieren en materia de información e investigación catastral, el IGECEM tendrá las siguientes:
+El IGECEM, además de las atribuciones que otros ordenamientos le confieran en materia de información e investigación catastral, tendrá las facultades y obligaciones siguientes:
 
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en términos de el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+l. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en términos del LlGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -9787,15 +10661,15 @@ XIV. Practicar el avalúo de los inmuebles vacantes que sean adjudicados al Gobi
 
 XV. Integrar una base de datos con la información recabada a través de investigaciones de valores unitarios comerciales de suelo, realizadas en el territorio del Estado, estableciendo las medidas necesarias para su vinculación cartográfica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
+XVI. Aplicar los autodiagnósticos, integrar la documentación inherente a las evaluaciones y demás acciones relativas al proceso de certificación de competencia laboral a los servidores públicos, con base en las Normas Institucionales en materia catastral.
 
-XVI. Realizar los diagnósticos y aplicar las evaluaciones relativas al proceso de certificación de competencia laboral a los servidores públicos, con base en las Normas Institucionales en materia catastral.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 171.
 
-Además de las atribuciones que este Código y otros ordenamientos les confieran en materia catastral, los ayuntamientos tendrán las siguientes facultades y obligaciones:
+Los Ayuntamientos, además de las atribuciones que este Código y otros ordenamientos les confieran en materia catastral, tendrán las facultades y obligaciones siguientes:
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -9871,9 +10745,9 @@ XVII. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
 XVIII. Expedir las constancias o certificaciones catastrales en el ámbito de su competencia.
 
-> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-XIX. Verificar y registrar oportunamente los cambios que se operen en los inmuebles, que por cualquier concepto alteren los datos contenidos en el Padrón Catastral Municipal.
+XIX. Verificar y registrar oportunamente los cambios técnicos o administrativos de los inmuebles, que por cualquier concepto alteren los datos contenidos en el Padrón Catastral Municipal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -9951,15 +10825,17 @@ Los propietarios o poseedores de inmuebles, independientemente del régimen jur�
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 175 Bis.
 
-Cuando se modifique la superficie de terreno o de construcción, cualquiera que sea la causa, los propietarios o poseedores de esos inmuebles deberán declarar ante la autoridad catastral municipal dichas modificaciones, mediante manifestación que presenten en los formatos autorizados.
+Cuando se modifique la superficie de terreno o de construcción, cualquiera que sea la causa, los propietarios o poseedores de esos inmuebles deberán declarar ante la autoridad catastral municipal dichas modificaciones, mediante manifestación catastral que presenten en los formatos autorizados.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 Cuando se fusione, subdivida, lotifique, relotifique, o se produzca una lotificación en condominio o conjunto urbano de un inmueble, mediante autorización que emita la autoridad competente, es necesario actualizar los datos técnicos, administrativos y el valor en el padrón catastral municipal y en su caso, asignar claves e inscribirlos; para tal efecto, los propietarios deberán declarar ante el Ayuntamiento, las modificaciones generadas, mediante manifestación catastral que presenten dentro de los treinta días siguientes a la fecha en que se haya otorgado la autorización correspondiente.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 En el caso de lotificaciones en condominio y conjuntos urbanos, previamente a la autorización correspondiente, se requiere un avalúo catastral del inmueble o inmuebles que conforman el proyecto que será practicado y emitido por el IGECEM o por especialista en valuación inmobiliaria con registro vigente expedido por el propio Instituto, como soporte técnico a los requerimientos señalados en el Manual Catastral.
 
@@ -9975,13 +10851,13 @@ En los casos en que el valor catastral haya sido modificado por la actualizació
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 177.
 
-La autoridad catastral municipal está facultada para constatar la veracidad de los datos declarados en la manifestación por los propietarios o poseedores de inmuebles, mediante la realización de los estudios técnicos catastrales que sean necesarios.
+La autoridad catastral municipal está facultada para constatar la veracidad de los datos declarados en la manifestación catastral por los propietarios o poseedores de inmuebles, mediante la realización de los estudios técnicos catastrales que sean necesarios.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 Cuando no fuese presentada la manifestación, y hayan sido detectadas modificaciones en los inmuebles, la autoridad catastral municipal podrá requerir a los propietarios o poseedores que proporcionen los datos, documentos e informes de los inmuebles; y realizar levantamientos topográficos, investigaciones en campo y demás actividades catastrales.
 
@@ -10099,11 +10975,11 @@ VIII. Inmatriculación Administrativa o Judicial.
 
 La inscripción de un inmueble en el padrón catastral municipal, no genera por sí misma, ningún derecho de propiedad o posesión en favor de la persona a cuyo nombre aparezca inscrito.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 184.
 
-Cuando no se inscriba un inmueble, no se manifieste su valor o las modificaciones de terreno o construcción, en los términos establecidos en este Capítulo, el Ayuntamiento, sin perjuicio de la responsabilidad que le resulte al propietario o poseedor del inmueble, conforme a el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables de la materia, le hará llegar la notificación correspondiente, para que dentro del término de quince días corrija la omisión o en su defecto, con los elementos de que disponga, haga la actualización, inscripción en el padrón y la determinación del valor catastral.
+Cuando no se inscriba un inmueble, no se manifieste su valor o las modificaciones de terreno o construcción, en los términos establecidos en este Capítulo, el Ayuntamiento, sin perjuicio de la responsabilidad que le resulte al propietario o poseedor del inmueble, conforme al LlGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables de la materia, le hará llegar la notificación correspondiente, para que dentro del término de quince días corrija la omisión o en su defecto, con los elementos de que disponga, haga la actualización, inscripción en el padrón y la determinación del valor catastral.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -10111,11 +10987,11 @@ Cuando no se inscriba un inmueble, no se manifieste su valor o las modificacione
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 185.
 
@@ -10135,11 +11011,11 @@ Las Tablas de Valores Unitarios de Suelo y de Construcciones que forman parte in
 
 El área homogénea es la delimitación constituida por un conjunto de manzanas que cualitativa y cuantitativamente tienen como características predominantes el régimen jurídico de la propiedad; uso del suelo; la existencia, calidad y disponibilidad de los servicios públicos, infraestructura y equipamiento; nivel socioeconómico de la población; tipo y calidad de las construcciones y valores unitarios de suelo.
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 188.
 
-La delimitación técnica de las áreas homogéneas se hará en polígonos cerrados de forma y tamaño variables integrando manzanas completas; su perímetro deberá estar definido por límites físicos como son vialidades y accidentes topográficos, que determinen las características predominantes indicadas en el artículo anterior y permitan establecer con claridad las demarcaciones de unas y otras.
+La delimitación técnica de las áreas homogéneas se hará en polígonos cerrados de forma y tamaño variables integrando manzanas completas; su perímetro deberá estar definido por límites físicos como vialidades y accidentes topográficos, que determinen las características predominantes indicadas en el artículo anterior y permitan establecer con claridad las demarcaciones de unas y otras.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -10149,11 +11025,11 @@ La delimitación técnica de las áreas homogéneas se hará en polígonos cerra
 
 Las bandas de valor son tramos de vialidad identificados dentro de una área homogénea, que presentan una diferencia de valor positiva o negativa, respecto al valor del área en la que están contenidas; se determinarán atendiendo a las características de la circulación peatonal o vehicular; de las actividades económicas desarrolladas; al cambio de uso del suelo, o a peculiaridades físicas referidas a canales conductores de aguas residuales, panteones, ríos, barrancas y la existencia de riesgos geológicos, hidrometeorológicos o antropogénicos, identificados en el atlas de riesgo municipal correspondiente.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 190.
 
-El área base, es la superficie promedio preponderante, de los predios que integran a cada área homogénea, que determina las dimensiones del frente y fondo base, constituyen la referencia de comparación para la determinación y aplicación de los factores correspondientes, en la valuación de un inmueble.
+El área, frente y fondo bases, son la superficie y dimensiones promedio preponderantes, de los predios que integran a cada área homogénea y constituyen, la referencia de comparación para la determinación y aplicación de los factores correspondientes, en la valuación de un inmueble.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10173,11 +11049,11 @@ Cuando un inmueble esté afectado por dos o más bandas, para efectos de valuaci
 
 Para efectos de integración del código de identificación de las bandas de valor se atenderá a lo dispuesto en el reglamento de este Título, en el Manual Catastral y demás disposiciones aplicables a la materia.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 192.
 
-Los valores unitarios de suelo y de construcciones se determinarán por la unidad de medida que establecen las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y que forman parte de este Código.
+Los valores unitarios de suelo y de construcciones, se determinarán por la unidad de medida que establecen las Tablas de Valores Unitarios de Suelo y Construcciones, aprobadas por la Legislatura y que forman parte de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10589,9 +11465,15 @@ En la Tabla de Valores Unitarios de Construcciones, se identifican el código de
 
 > <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
+#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 195.
 
-Las Tablas de Valores Unitarios de Suelo y Construcciones, se modificarán, y actualizarán, por las autoridades en la materia, en los términos siguientes:
+Las Tablas de Valores Unitarios de Suelo y Construcciones, se modificarán, y actualizarán, por las autoridades en la materia; en ningún caso, podrán ratificarse las del año inmediato anterior, cuando menos se actualizarán de acuerdo a la proyección inflacionaria para el siguiente ejercicio fiscal, en los términos siguientes:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10689,6 +11571,10 @@ VI. La propuesta de modificación y actualización de las áreas homogéneas, ba
 
 VII. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Además, las propuestas de modificación de áreas homogéneas, bandas de valor, manzanas y valores unitarios de suelo, que contemplen un incremento superior a la proyección inflacionaria del año fiscal siguiente, deberá considerarse el mejoramiento de servicios públicos e infraestructura municipal realizada durante los últimos dos años al que quieran modificarse.
+
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 196 Bis.
@@ -10709,7 +11595,7 @@ Independientemente del método que se adopte para determinar el Valor Unitario d
 
 ###### Artículo 197.
 
-Los propietarios o poseedores de bienes inmuebles para efectos de la valuación catastral, se sujetarán a lo dispuesto por este Título, su reglamento y en el Manual Catastral, a los criterios de clasificación de áreas homogéneas y tipologías de construcción; y a las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y publicadas en el Periódico Oficial.
+Los propietarios o poseedores de bienes inmuebles para efectos de la valuación catastral, se sujetarán a lo dispuesto por este Título, su reglamento y el Manual Catastral, a los criterios de clasificación de áreas homogéneas y tipologías de construcción; y a las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y publicadas en el Periódico Oficial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -10737,13 +11623,11 @@ Cuando en el transcurso de un ejercicio fiscal se requiera la creación de nueva
 
 Lo establecido en el párrafo anterior se aplicará hasta en tanto sean aprobadas y publicadas las Tablas de Valores Unitarios de Suelo y Construcciones para el siguiente ejercicio fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 199.
 
-El valor del terreno de un inmueble se obtiene de multiplicar la superficie de terreno en metros cuadrados, por el valor unitario de suelo contenido en la Tabla de Valores Unitarios de Suelo y al resultado obtenido, por los factores de mérito o demérito, respecto del frente, del fondo, de irregularidad, de área, de topografía, de restricción y de posición dentro de la manzana, conforme a las definiciones y determinaciones establecidas en el reglamento de este Título y el Manual Catastral.
+El valor del terreno de un inmueble se obtiene de multiplicar la superficie de terreno en metros cuadrados, por el valor unitario de suelo contenido en la Tabla de Valores Unitarios de Suelo y al resultado obtenido, por los factores de mérito o demérito, respecto al frente, fondo, irregularidad, área, topografía, restricción y posición dentro de la manzana, conforme a las definiciones y determinaciones establecidas en el reglamento de este Título y el Manual Catastral.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -10993,35 +11877,17 @@ Sólo para efectos de este capítulo, el número de cajones de estacionamiento r
 
 El factor de mitigación de impacto vial se aplicará de acuerdo al tipo de vehículo que potencialmente hará uso del inmueble como sigue:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-(REFORMADO EN SU
+TIPO DE VEHÍCULO FACTOR DE MITIGACIÓN DE IMPACTO VIAL
 
-TARIFA, G.G. 19 DE
+A). Automóvil, camioneta y pickup $755
 
-DICIEMBRE DE 2012)
+B). Autobuses, microbuses y similares hasta cuatro ejes. $1,066
 
-TIPO DE VEHICULO FACTOR DE
+C). Camiones de carga de dos hasta seis ejes. $1,614
 
-MITIGACION
-
-DE IMPACTO
-
-VIAL
-
-A. Automóvil, camioneta y pickup $720
-
-B. Autobuses, microbuses y similares
-
-hasta con cuatro ejes $1,017
-
-C. Camiones de carga de dos
-
-hasta seis ejes $1,540
-
-D. Combinación de un tracto-camión $1,263
-
-con semiremolque y/o remolque
+D). Combinación de un tracto-camión con semirremolque y/o remolque $1,324
 
 El factor de uso de suelo se aplicará ubicando el rango correspondiente de la tabla del artículo 216-D, tomando en cuenta el uso general de suelo, el uso específico de suelo y la zona que corresponda al municipio en que se localice el inmueble.
 
@@ -11049,7 +11915,7 @@ Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional c
 
 Para establecer el número de cajones de estacionamiento requeridos por el inmueble y el factor de uso de suelo a que se refiere el artículo 216-B, se ubicará el rango que corresponda de acuerdo al uso general del suelo, el uso específico del suelo y la zona en que se localice el inmueble, de conformidad con la siguiente tabla:
 
-Esta tabla solo se establece para efectos de poder determinar la aportación para obras de impacto vial, el número de cajones de estacionamiento requeridos por el inmueble por metro cuadrado o características de uso, sin que surta efectos para ningún otro fin.
+Esta tabla sólo se establece para efectos de poder determinar la aportación para obras de impacto vial, el número de cajones de estacionamiento requeridos por el inmueble por metro cuadrado o características de uso, sin que surta efectos para ningún otro fin.
 
 (VÉASE ARCHIVO ANEXO)
 
@@ -11061,29 +11927,19 @@ Cuando no se encuentre comprendido en la tabla anterior por su denominación alg
 
 Tratándose de conjuntos urbanos habitacionales en el Estado, para la determinación de la aportación que por cada vivienda corresponda, se aplicará la siguiente tarifa:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU TARIFA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-(REFORMADO EN SU
+TIPO DE VIVIENDA MONTO DE APORTACIÓN POR VIVIENDA
 
-TARIFA, G.G. 19 DE
+DE INTERÉS SOCIAL $689
 
-DICIEMBRE DE 2012)
+POPULAR $1,030
 
-TIPO DE VIVIENDA MONTO DE APORTACIÓN
+MEDIA $11,530
 
-POR VIVIENDA
+RESIDENCIAL $19,169
 
-DE INTERÉS SOCIAL $657
-
-POPULAR $983
-
-MEDIA $11,002
-
-RESIDENCIA $18,291
-
-RESIDENCIAL ALTO
-
-Y CAMPESTRE $31,204
+RESIDENCIAL ALTO Y CAMPESTRE $32,702
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -11123,7 +11979,9 @@ II. Un representante de la Secretaría de Comunicaciones.
 
 III. Un representante de la Secretaría de Finanzas.
 
-IV. Dos representantes de los municipios de la entidad, que serán designados anualmente en el seno del Instituto Hacendario del Estado de México, debiendo ser municipios en los cuales se genere la aportación.
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+IV. Dos representantes de los Municipios de la entidad, que serán elegidos anualmente en el seno del Instituto Hacendario del Estado de México, en Sesión de su Consejo Directivo, utilizando el procedimiento de insaculación, debiendo ser Municipios en los cuales se genere la aportación.
 
 Este Comité será presidido por el representante de la Secretaría de Comunicaciones y tendrá, entre otras funciones, las siguientes:
 
@@ -11267,11 +12125,9 @@ VII. Los organismos públicos descentralizados municipales prestadores de los se
 
 VIII. Los municipios que no cuentan con organismo descentralizado para la prestación de los servicios de agua potable, alcantarillado y saneamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012
-
-IX. El órgano de control interno de la Secretaría a la que esté adscrito la Protectora de Bosques del Estado de México; y
+IX. El órgano interno de control de la Secretaría a la que esté adscrito la Protectora de Bosques del Estado de México, y
 
 X. El órgano desconcentrado de carácter federal denominado Comisión Nacional Forestal.
 
@@ -11411,7 +12267,7 @@ B). El 20% del fondo general de participaciones.
 
 C). El 50% de los ingresos correspondientes al Fondo de Fiscalización.
 
-D). El 20% de la recaudación correspondiente al impuesto especial sobre producción y servicios.
+D). (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 E). El 50% de la recaudación correspondiente al impuesto sobre automóviles nuevos.
 
@@ -11461,19 +12317,17 @@ La Recaudación Estatal Participable se distribuirá conforme a la fórmula sigu
 
 > <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN TERCERA DE LA G.G. DE 26 DE DICIEMBRE DE 2007, PÁGINA 80.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN QUINTA DE LA G.G. DE 18 DE DICIEMBRE DE 2008, PÁGINA 60.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN QUINTA DE LA G.G. DE 18 DE DICIEMBRE DE 2008, PÁGINA 60; SECCIÓN TERCERA DE LA G.G. DE 2 DE DICIEMBRE DE 2013, PÁGINA 77.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-Cuando en un año determinado el Estado de México reciba recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas a que se refiere el artículo 21 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la parte que corresponda a los municipios de ese Fondo se sumará a la participación de la Recaudación Estatal Participable a que se refiere este artículo del municipio i del año inmediato anterior (P i,t-l) (sic), actualizado por la inflación anual del año inmediato anterior.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año inmediato anterior, aplicándole a esta última la inflación anual registrada en dicho ejercicio fiscal. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará de acuerdo al coeficiente de las participaciones definitivas que para tal efecto publique la Secretaría.
+La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año 2012. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará de acuerdo al coeficiente de las participaciones definitivas que para tal efecto publique la Secretaría.
 
 La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial “Gaceta del Gobierno” y en Internet.
 
@@ -11539,11 +12393,9 @@ II. El 30% restante se distribuirá en partes iguales entre los municipios del E
 
 (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 225 Bis.
 
-Las participaciones derivadas del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal se distribuirán a cada municipio conforme al pago mensual efectuado por el municipio, sus organismos públicos descentralizados y sus fideicomisos, de acuerdo a las reglas que para el efecto publique la Secretaría de Finanzas.
+(DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -11615,7 +12467,9 @@ Los fondos señalados en las fracciones III, IV, V y VII del artículo 228 de es
 
 Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, se entenderá por:
 
-l. Obligaciones de pago de derechos y aprovechamientos por concepto de agua.- Los pagos que deban realizar los municipios, incluyendo sus organismos operadores de agua, a la Comisión Nacional del Agua del derecho por el uso, aprovechamiento o explotación de aguas nacionales de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación. Asimismo, los pagos que deban realizarse por el suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión de Agua del Estado de México.
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+I. Obligaciones de pago de derechos y aprovechamientos por concepto de agua.- Los pagos que deban realizar los Municipios, incluyendo sus organismos operadores de agua, a la Comisión Nacional del Agua de los derechos por el uso, aprovechamiento o explotación de aguas nacionales y descargas de aguas residuales de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación. Asimismo, los pagos que deban realizarse por el suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua, suministro y aprovechamiento de agua residual tratada y por la conexión, tratamiento y manejo ecológico de aguas residuales por la Comisión de Agua del Estado de México.
 
 II. Incumplimiento.- La falta de pago total o parcial de las obligaciones a que se refiere la fracción I del presente artículo, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
 
@@ -11625,11 +12479,9 @@ II. Incumplimiento.- La falta de pago total o parcial de las obligaciones a que 
 
 En caso de incumplimiento, de conformidad con lo previsto en los artículos 51 de la Ley de Coordinación Fiscal y 230 A del Código, la Comisión Nacional del Agua podrá solicitar al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento, la retención y pago de los adeudos correspondientes con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento que correspondan al municipio de que se trate. Para tal efecto, la Comisión Nacional del Agua, en términos de lo previsto en el segundo párrafo del artículo 51 de la Ley de Coordinación Fiscal, sólo podrá solicitar la retención y pago señalados cuando los adeudos tengan una antigüedad mayor de 90 días naturales.
 
-> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 230-C.
-
-Para acreditar el incumplimiento, la Comisión Nacional del Agua deberá enviar a la Secretaría por escrito la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua.
+Artículo 230 C.- Para acreditar el incumplimiento, la Comisión Nacional del Agua deberá enviar a la Secretaría por escrito la relación de adeudos de cada uno de los Municipios, incluyendo sus organismos operadores de agua, por cada una de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, y descargas de aguas residuales.
 
 > <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
 
@@ -11647,11 +12499,9 @@ Salvo lo dispuesto en el párrafo precedente, la solicitud de retención y pago 
 
 La Secretaría deberá efectuar los depósitos correspondientes a las retenciones y pagos a que se refiere el artículo 230 B del Código, dentro de los 5 días siguientes a la realización de la afectación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En caso de que los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento no sean suficientes para cubrir las obligaciones de pago de derechos y aprovechamientos por concepto de agua que correspondan a la Comisión Nacional del Agua y a la Comisión de Agua del Estado de México, la Secretaría efectuara los depósitos de manera proporcional al monto del derecho y/o aprovechamiento correspondiente al volumen suministrado. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras de dicho Fondo.
+En caso de que los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento no sean suficientes para cubrir las obligaciones de pago de derechos y aprovechamientos por concepto de agua que correspondan a la Comisión Nacional del Agua y a la Comisión de Agua del Estado de México, la Secretaría efectuará los depósitos de manera proporcional al monto del derecho y/o aprovechamiento correspondiente al volumen suministrado y al volumen de descarga. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras de dicho Fondo.
 
 > <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
 
@@ -12535,7 +13385,7 @@ Cuando los municipios, los organismos descentralizados, las empresas de particip
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 273.
 
@@ -12671,13 +13521,11 @@ Cuando un crédito esté totalmente amortizado se deberá dar de baja en el Regi
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 285.
 
-El Presupuesto de Egresos del Estado es el instrumento jurídico, de política económica y de política de gasto, que aprueba la Legislatura conforme a la iniciativa que presenta el Gobernador, en el cual se establece el ejercicio, control y evaluación del gasto público de las Dependencias, Entidades Públicas y Organismos Autónomos a través de los programas derivados del Plan de Desarrollo del Estado de México, durante el ejercicio fiscal correspondiente, así como de aquellos de naturaleza multianual propuestos por la Secretaría.
+El Presupuesto de Egresos del Estado es el instrumento jurídico, de política económica y de política de gasto, que aprueba la Legislatura conforme a la iniciativa que presenta el Gobernador, en el cual se establece el ejercicio, control del gasto público y evaluación del desempeño de las Dependencias, Entidades Públicas, Organismos Autónomos, Poderes Legislativo y Judicial y de los Municipios a través de los programas derivados del Plan de Desarrollo del Estado de México, durante el ejercicio fiscal correspondiente, así como de aquellos de naturaleza multianual propuestos por la Secretaría.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -12699,13 +13547,31 @@ Cuando se trate de la creación de un nuevo empleo cuya remuneración no hubiere
 
 Las remuneraciones estarán sujetas a las modificaciones que, en su caso, sean convenidas conforme a la legislación laboral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+Para efectos de este Título, se entiende por:
+
+I. Evaluación. Al análisis sistemático y objetivo de los programas coordinados por los entes públicos que tiene como finalidad determinar la pertinencia, el logro de sus objetivos y metas, su eficiencia, eficacia, calidad, resultados, impacto y sostenibilidad.
+
+II. Metodología del Marco Lógico (MML). Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un programa y sus relaciones de causa y efecto, medios y fines. La MML facilita el proceso de conceptualización y diseño de programas.
+
+III. Presupuesto basado en Resultados (PbR). Modelo mediante el cual el proceso presupuestario incorpora sistemáticamente consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos, a efecto de lograr una mejor calidad del gasto público y favorecer la rendición de cuentas
+
+IV. Programa Presupuestario. Conjunto de acciones sistematizadas dirigidas a resolver un problema vinculado a la población, que operan las Dependencias, Entidades Públicas y Poderes Legislativo y Judicial, identificando los bienes y servicios mediante los cuales logran su objetivo así como a sus beneficiarios.
+
+V. Sistema Integral de Evaluación del Desempeño (SIED): Herramienta automatizada del proceso integral de planeación estratégica, que permite evaluar el desempeño gubernamental en la ejecución de políticas públicas, para mejorar la toma de decisiones, mediante el monitoreo y seguimiento de indicadores estratégicos y de gestión.
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 286.
 
-Los poderes Legislativo y Judicial; así como los organismos autónomos y Municipios se sujetarán a la disposiciones de este Título en lo que no se contraponga a los ordenamientos legales que los rigen.
+El proceso de planeación, programación y presupuestación, tiene como propósito orientar el gasto público a la atención de lo prioritario, tomando en cuenta los objetivos, metas y estrategias contenidos en el Plan de Desarrollo del Estado de México y los programas que de éste se derivan, garantizando con ello el uso eficiente de los recursos públicos en cada uno de los programas presupuestarios. Este proceso comprende las siguientes fases:
+
+I. La Planeación, consiste en la definición de las acciones estratégicas y operativas, que tendrán atención prioritaria, tomando en cuenta la planeación estatal para el desarrollo y los programas que de éste se deriven. Lo anterior con la finalidad de determinar los programas presupuestarios, proyectos y actividades que sean necesarias para su cumplimiento;
+
+II. La Programación, es la fase donde se definen, ordenan y jerarquizan los programas presupuestarios y, proyectos de inversión y demás actividades, partiendo de una selección de objetivos, metas e indicadores de desempeño, así como los tiempos y las unidades responsables de su ejecución, y
+
+III. La Presupuestación, es la fase de costeo y distribución de los recursos financieros, humanos y materiales, para su aplicación al cumplimiento de los planes, programas presupuestarios y proyectos seleccionados en la fase anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -12717,11 +13583,27 @@ La Secretaría deberá establecer y operar un Registro Estatal de Planes, Progra
 
 Las autoridades competentes que formulen los anteproyectos de presupuesto tanto estatal como municipal serán responsables de que los presupuestos de egresos se encuentren relacionados con el Plan de Desarrollo del Estado de México y el correspondiente Plan de Desarrollo Municipal y los programas inscritos en el Registro Estatal de Planes, Programas y Proyectos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+La Secretaría, con independencia del origen de los recursos, autorizará por escrito y de manera individualizada las obras, acciones y proyectos que ejecutarán las dependencias y organismos auxiliares. Tratándose de los organismos auxiliares, las obras, acciones y proyectos, deberán contar con la autorización del órgano de gobierno que corresponda.
 
-Los programas y proyectos contarán con indicadores desagregados que sean claros, útiles, informativos y que generen mayor transparencia y rendición de cuentas, que permitan evaluar la eficiencia, eficacia y el desempeño de las dependencias, generando indicadores confiables y pertinentes para medir el costo y efectividad del gasto.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Los programas y proyectos contarán con indicadores que sean claros, útiles, informativos y que generen mayor transparencia y rendición de cuentas, que permitan evaluar la eficiencia, eficacia y el desempeño de las dependencias, generando indicadores confiables y pertinentes para medir el costo y efectividad del gasto.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría difundirá a los Poderes Legislativo y Judicial, a las Dependencias y Entidades Públicas, y a los Municipios los documentos y metodologías relativas al proceso presupuestario, atendiendo las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La programación y presupuestación del gasto público se realizará con base en:
+
+I. El resultado de las acciones que realiza el ejecutor del gasto público;
+
+II. El seguimiento y control de las acciones físicas y actividades financieras del ejercicio del Presupuesto de Egresos del Gobierno del Estado de México inmediato anterior, que se fundamentará en el resultado de los indicadores de desempeño sobre los avances físicos e impacto del ejercicio del gasto público autorizado a cada uno de los ejecutores del gasto público, y
+
+III. El diagnóstico económico y financiero que para el ejercicio correspondiente formule la Secretaría.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12731,13 +13613,11 @@ Los programas y proyectos contarán con indicadores desagregados que sean claros
 
 Las iniciativas de ley o decreto del Gobernador que impliquen afectación al Presupuesto de Egresos para el ejercicio fiscal que corresponda, deberán estar sustentadas en un dictamen de reconducción y actualización programática presupuestal realizado por el área que sometió la propuesta y aprobado por la Secretaría, cuyos aspectos más importantes se incluirán en la exposición de motivos de la iniciativa y su texto completo se anexará a la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 289.
 
-Las dependencias, entidades públicas y unidades administrativas estatales y municipales formularán su anteproyecto de Presupuesto de Egresos, de acuerdo con las normas presupuestales vigentes y con base en sus programas y proyectos anuales.
+Las Dependencias, Entidades Públicas, Organismos Autónomos, Poderes Legislativo y Judicial y unidades administrativas estatales y municipales formularán su anteproyecto de Presupuesto de Egresos, de acuerdo con las normas presupuestales vigentes con base en sus Programas presupuestarios y proyectos anuales.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -12757,11 +13637,9 @@ Los servidores públicos, recibirán una remuneración adecuada e irrenunciable 
 
 Para determinar las remuneraciones de los servidores públicos municipales, los ayuntamientos considerarán entre otros, los factores siguientes: población, recursos económicos disponibles, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional, los bonos o compensaciones adicionales que se asignen a servidores públicos estatales y municipales no podrán ser superiores al 10% de su salario bruto mensual y deberán informarlo a la Legislatura del Estado.
+La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional; los bonos, estímulos, premios, gratificaciones o compensaciones adicionales que se asignen a servidores públicos estatales y municipales no podrán ser superiores al 10% de su salario bruto mensual, independientemente de que se pague en numerario o en especie, cualquiera que sea el medio de pago y deberán informarlo a la Legislatura del Estado.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -12781,7 +13659,7 @@ La Legislatura verificara que en el Presupuesto de Egresos, de que se trate, se 
 
 ###### Artículo 290.
 
-La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto de Presupuesto de Egresos del Estado, el que se elaborará con base en el marco de referencia para las finanzas públicas estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y deberá de ser congruente con el Plan de Desarrollo del Estado además de que será armónico con las disposiciones de carácter contable que emita el Consejo Nacional de Armonización Contable.
+La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto de Presupuesto de Egresos del Estado, bajo los lineamientos y herramientas que ésta determine, considerando para su elaboración el marco de referencia para las finanzas públicas estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal debiendo mantener la congruencia con el Plan de Desarrollo del Estado de México además de que será armónico con las disposiciones de carácter contable establecidos en la Ley General de Contabilidad Gubernamental, así como a los preceptos del Presupuesto basado en Resultados, del Sistema de Evaluación del Desempeño, de transparencia y difusión de la información financiera que establecen las disposiciones normativas aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12795,65 +13673,57 @@ Cualquier disposición normativa o legal que afecte al Presupuesto de Egresos, e
 
 En el caso de los municipios, el proyecto de Presupuesto de Egresos, lo integrará la Tesorería y lo someterá a la consideración del presidente municipal.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Los programas presupuestarios que integran el Presupuesto de Egresos deberán contener lo siguiente:
+
+I. Los resultados de la evaluación del desempeño que se haya obtenido con la aplicación del Gasto Público de ejercicios anteriores;
+
+II. Los objetivos, sus indicadores de desempeño y metas que se pretendan alcanzar;
+
+III. Las previsiones del gasto de acuerdo con lo establecido en la clasificación por objeto del gasto y demás clasificaciones que señale la Secretaría, para cada una de las categorías programáticas establecidas por ésta, y
+
+IV. Las demás previsiones que se estimen necesarias.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría deberá analizar y validar que los programas presupuestarios de las dependencias, entidades públicas y Poderes Legislativo y Judicial son congruentes entre sí y responden a los objetivos prioritarios del Plan de Desarrollo del Estado de México y de los programas que de él se deriven, en los términos de las leyes relativas.
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 291.
 
-Las dependencias, entidades públicas y municipios tendrán la obligación de presupuestar en sus programas las contribuciones federales, estatales y municipales y las aportaciones de seguridad social de conformidad con la legislación aplicable, así como las acciones comprometidas de mediano y largo plazo.
+Las Dependencias, Entidades Públicas, Organismos Autónomos, Poderes Legislativo y Judicial, así como los Municipios tendrán la obligación de presupuestar en sus programas las contribuciones federales, estatales y municipales y las aportaciones de seguridad social de conformidad con la legislación aplicable, así como las acciones comprometidas de mediano y largo plazo, debiendo desagregar el tipo de gasto por fuente de financiamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 292.
 
-El Presupuesto de Egresos del Gobierno del Estado de México se integrará con los recursos que se destinen a los poderes Ejecutivo, Legislativo y Judicial, y a los organismos autónomos; para el caso de los municipios, el Presupuesto se integrará con los recursos que se destinen al Ayuntamiento y a los organismos municipales y se distribuirá conforme a lo siguiente:
+El Proyecto de Presupuesto de Egresos del Gobierno del Estado de México será elaborado atendiendo el modelo de Presupuesto basado en Resultados y sujeto a la evaluación del desempeño de sus programas presupuestarios, y se integrará con los recursos que se destinen a los poderes Ejecutivo, Legislativo y Judicial, a los Organismos Autónomos y a los Municipios.
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+Para el caso de los Municipios, el Proyecto de Presupuesto se integrará con los recursos que se destinen al Ayuntamiento y a los organismos municipales.
 
-I. El Gasto Programable comprende los siguientes capítulos:
+La distribución será conforme a lo siguiente:
 
-a). 1000 Servicios Personales;
+I. El gasto programable comprende los siguientes capítulos:
 
-b). 2000 Materiales y Suministros;
+a). 1000 Servicios Personales.
 
-c). 3000 Servicios Generales;
+b). 2000 Materiales y Suministros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+c). 3000 Servicios Generales.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+d). 4000 Transferencias, Asignaciones, Subsidios y otras ayudas.
 
-d). 4000 Transferencias, Asignaciones, Subsidios y otras ayudas;
+e). 5000 Bienes Muebles, Inmuebles e Intangibles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-e). 5000 Bienes Muebles, Inmuebles e Intangibles;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-f). 6000 Inversión Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+f). 6000 Inversión Pública.
 
 g). 7000 Inversiones Financieras y otras provisiones.
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
 II. El gasto no programable comprende los siguientes capítulos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-a). 8000 Participaciones y Aportaciones;
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+a). 8000 Participaciones y Aportaciones.
 
 b). 9000 Deuda Pública.
 
@@ -12862,6 +13732,10 @@ b). 9000 Deuda Pública.
 ###### Artículo 292 Bis.
 
 El Presupuesto de Egresos deberá contemplar anualmente en el capítulo de deuda pública las asignaciones destinadas a cubrir totalmente el pago de los pasivos derivados de erogaciones devengadas y pendientes de liquidar al cierre del ejercicio fiscal anterior, así como aquellas asignaciones correspondientes a programas y proyectos propuestos por la Secretaría y cuyo presupuesto multianual hubiese sido aprobado por la Legislatura.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+En lo relativo a la transparencia y difusión de la información financiera, de la deuda pública del Estado, se estará a lo establecido en la Ley General de Contabilidad Gubernamental y demás disposiciones que de ella emanen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12875,23 +13749,19 @@ Los capítulos de gasto se dividirán en concepto, partida genérica y partida e
 
 En el caso de los municipios, corresponderá a su Tesorería emitir el Clasificador por Objeto del Gasto, el cual deberá guardar congruencia y homogeneidad con el que determine la Secretaría en términos del párrafo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 294.
 
-Antes del último día hábil de mayo, la Secretaría dará a conocer a las dependencias y entidades públicas, para su concertación, los catálogos que determine, así como los lineamientos para la revisión y alineación de indicadores para evaluar el desempeño, que servirá de base para la formulación de su anteproyecto de presupuesto, para que a más tardar el día quince del mes de junio le envíen sus observaciones.
+Antes del último día hábil de mayo, la Secretaría dará a conocer a las Dependencias, Entidades Públicas, Organismos Autónomos y Poderes Legislativo y Judicial, para su concertación, los catálogos que determine, así como los Lineamientos para la revisión y alineación de Programas presupuestarios e indicadores para evaluar el desempeño, que servirá de base para la formulación de su anteproyecto de presupuesto, para que a más tardar el día quince del mes de junio le envíen sus observaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En el caso de los Municipios, corresponderá a la Tesorería en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, dar a conocer las disposiciones que se aprueben en materia de planeación, programación, presupuestación, evaluación del desempeño y contabilidad gubernamental, así como los documentos a que refiere el presente artículo, aprobados en el marco del Sistema de Coordinación Hacendaria del Estado de México, con la participación de la Secretaría, las tesorerías y el Órgano Superior de Fiscalización del Estado de México.
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-En el caso de los municipios, corresponderá a la Tesorería en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, dar a conocer las disposiciones que se aprueben en materia de planeación, programación, presupuestación, evaluación y contabilidad gubernamental, así como los documentos a que refiere el presente artículo, aprobados en el marco del Sistema de Coordinación Hacendaria del Estado de México, con la participación de la Secretaría, las tesorerías y el Órgano Superior de Fiscalización del Estado de México.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 295.
 
-A más tardar el último día hábil antes del 15 de julio la Secretaría enviará a las dependencias y entidades públicas, el manual para la formulación del anteproyecto de presupuesto y comunicará los techos presupuestarios para la elaboración de su anteproyecto de presupuesto.
+A más tardar el último día hábil antes del quince de julio la Secretaría enviará a las Dependencias, Entidades Públicas, Organismos Autónomos y Poderes Legislativo y Judicial, el Manual para la Formulación del Anteproyecto de Presupuesto y comunicará los techos presupuestarios para la elaboración de su anteproyecto de presupuesto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12899,19 +13769,17 @@ A más tardar el último día hábil antes del 15 de julio la Secretaría enviar
 
 En el caso de los municipios, la comunicación de techos presupuestarios, la realizará la Tesorería, en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, con base en las disposiciones que se aprueben en materia de planeación, programación, presupuestación, evaluación y contabilidad gubernamental.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 296.
 
-Las dependencias y entidades públicas formularán su anteproyecto de Presupuesto de Egresos de acuerdo con el manual para la formulación del anteproyecto de presupuesto, con base en los techos presupuestarios comunicados y sus programas anuales.
+Las Dependencias, Entidades Públicas, Organismos Autónomos, así como los Poderes Legislativo y Judicial formularán su anteproyecto de Presupuesto de Egresos de acuerdo con el Manual para la Formulación del Anteproyecto de Presupuesto, con base en los techos presupuestarios comunicados y sus Programas presupuestarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 297.
 
-En casos especiales y previa justificación, la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, podrán autorizar que se celebren contratos de obra pública o de adquisiciones de bienes o contratación de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes. Justifique que su celebración representa ventajas económicas o que sus términos o condiciones, son más favorables; que el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate; identifiquen el gasto corriente o de inversión correspondiente; y desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente como para los subsecuentes. Asimismo, podrán autorizarse programas y proyectos de gran visión, debiendo incluir en el proyecto de Presupuesto de Egresos, el Presupuesto Multianual correspondiente. Para los años presupuestales subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, por las dependencias, entidades y municipios gozarán de preferencia respecto de nuevos compromisos que las mismas adquieran. Las cuales deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
+En casos especiales y previa justificación, la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, podrán autorizar presupuestalmente la celebración de contratos así como sus ampliaciones y/o modificaciones de obra pública o de adquisiciones de bienes o contratación de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes. Justifique que su celebración representa ventajas económicas o que sus términos o condiciones, son más favorables; que el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate; identifiquen el gasto corriente o de inversión correspondiente; y desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente como para los subsecuentes. Asimismo, podrán autorizarse programas y proyectos de gran visión, debiendo incluir en el proyecto de Presupuesto de Egresos, el Presupuesto Multianual correspondiente. Para los años presupuestales subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, por las Dependencias, Entidades y Municipios gozarán de preferencia respecto de nuevos compromisos que las mismas adquieran. Las cuales deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -12921,11 +13789,11 @@ Cuando la Legislatura del Estado apruebe una asignación presupuestal para el cu
 
 Tratándose de obra pública cuando existan obras o acciones cuya ejecución abarque varios ejercicios presupuestales, las dependencias, entidades públicas y unidades administrativas ejecutoras deberán presentar a la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, el programa de ejecución de la obra en el que se establezca claramente el plazo para su ejecución, dicho documento deberá formar parte del expediente técnico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 298.
 
-El último día hábil anterior al día quince del mes de agosto, las dependencias y entidades públicas enviarán a la Secretaría su anteproyecto de presupuesto.
+El último día hábil anterior al día quince del mes de agosto, las Dependencias, Entidades Públicas, enviarán a la Secretaría su anteproyecto de Presupuesto de Egresos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -12933,11 +13801,11 @@ El último día hábil anterior al día quince del mes de agosto, las dependenci
 
 Las unidades administrativas de los Municipios enviarán su anteproyecto de presupuesto a la Tesorería para ser revisado con la Unidad de Información, Planeación, Programación y Evaluación. o la Unidad Administrativa responsable de realizar estas funciones. Dichas unidades administrativas deberán integrar el proyecto de presupuesto que se someterá a consideración del presidente municipal para su posterior aprobación por el Ayuntamiento.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 299.
 
-Los poderes Legislativo, Judicial y los Organismos Autónomos, formularán sus respectivos anteproyectos de presupuesto, y los presentarán al Ejecutivo el último día hábil anterior al día quince del mes de agosto, para su incorporación al proyecto del Presupuesto de Egresos, considerando las previsiones de ingresos y gasto público.
+Los Poderes Legislativo, Judicial y los Organismos Autónomos, formularán sus respectivos anteproyectos de presupuesto, y los presentarán al Ejecutivo el último día hábil anterior al día quince del mes de agosto, para su incorporación al proyecto del Presupuesto de Egresos, considerando las previsiones de ingresos, gasto público, así como lo establecido en la Ley General de Contabilidad Gubernamental y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
@@ -12945,7 +13813,9 @@ Los poderes Legislativo, Judicial y los Organismos Autónomos, formularán sus r
 
 El Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fiscal anual, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, correspondiente al año inmediato anterior.
 
-En ningún caso, el presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+De conformidad con las necesidades básicas de operación del Poder Judicial, su Presupuesto de Egresos se deberá incrementar anualmente hasta representar el 2% de los ingresos ordinarios del Estado, siempre y cuando así lo permita la disponibilidad presupuestal con la que se cuente.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -12959,15 +13829,13 @@ La Secretaría formulará los anteproyectos de presupuesto de las dependencias y
 
 En el caso de los ayuntamientos, corresponderá a la Tesorería en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, formular los anteproyectos en los términos de este artículo.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 301.
 
-La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, en cuanto a importes asignados y a la congruencia de la orientación del gasto con los objetivos de los programas; las modificaciones que realice deberá informarlas a las dependencias y entidades públicas para que efectúen los ajustes correspondientes.
+La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, en cuanto a importes asignados y a la congruencia de la orientación del gasto con los objetivos de los programas, asimismo podrá revisar y en su caso aprobar los Programas presupuestarios e indicadores de desempeño vinculados al cumplimiento de los objetivos del Plan de Desarrollo del Estado de México y las modificaciones que realice deberá informarlas a las dependencias y entidades públicas para que efectúen los ajustes correspondientes.
 
-> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-En el caso de los Municipios lo hará la Tesorería, en coordinación con la unidad de información, planeación, programación y evaluación.
+En el caso de los Municipios lo hará la Tesorería, en coordinación con la Unidad de Información, Planeación, Programación y Evaluación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -12987,71 +13855,69 @@ En el caso de los Municipios, el Presidente Municipal lo presentará al Ayuntami
 
 Las dependencias y entidades públicas al formular su anteproyecto de presupuesto de egresos, deberán considerar prioritariamente las erogaciones que se realizarán con base en los programas de mediano y largo plazo, que impliquen compromisos por contratos de obra pública, así como las que deriven de programas y proyectos multianuales cuyos presupuestos hubiesen sido aprobados por la Legislatura en ejercicios fiscales anteriores.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 304.
 
-La Presentación del Proyecto de Presupuesto de Egresos, tanto a nivel estatal como municipal, deberá incluir:
+La presentación del Proyecto de Presupuesto de Egresos, tanto a nivel estatal como municipal, deberá incluir, lo siguiente:
 
-I. Una exposición de la situación de la hacienda pública del ejercicio inmediato anterior y del año en curso, así como de las condiciones previstas para el próximo ejercicio fiscal;
+I. Una exposición de la situación de la Hacienda Pública del ejercicio inmediato anterior y del año en curso, así como de las condiciones previstas para el próximo ejercicio fiscal;
 
 II. Estimación de los ingresos por cada una de sus fuentes;
 
-III. Estimaciones de egresos, agrupados de la siguiente forma:
+III. Estimaciones de egresos, por cada una de sus fuentes, agrupados de la siguiente forma:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+1. Clasificación Programática a nivel de Programas presupuestarios y proyectos.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+2. Clasificación Administrativa.
 
-1. Clasificación Programática a nivel de programas y proyectos.
-
-2. Clasificación Administrativa;
-
-3. Clasificación Económica;
+3. Clasificación Económica.
 
 IV. Las metas de los proyectos agrupados en los programas derivados del Plan de Desarrollo y destacando lo relativo a los compromisos por contratos de obra pública;
 
-V. Resumen y descripción de la ejecución de los principales programas, identificando aquellos que comprendan más de un ejercicio fiscal.
+V. Resumen y descripción de la ejecución de los principales programas, identificando aquellos que comprendan más de un ejercicio fiscal, y
+
+VI. Indicadores estratégicos y de gestión que apoyarán el seguimiento en el ejercicio de los recursos públicos y la evaluación del desempeño.
+
+Además de la información prevista anteriormente, se deberá anexar la requerida en la Ley General de Contabilidad Gubernamental mediante las normas, metodologías, clasificaciones y formatos que ésta determine.
 
 En el ámbito Estatal, las estimaciones de egresos a que se refiere este artículo comprenderán por separado los poderes Legislativo y Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 304 Bis.
 
-El Ejecutivo del Estado por conducto de la Secretaría de Finanzas deberá enviar a la Legislatura o a la Diputación Permanente en los recesos de ésta, a más tardar 30 días hábiles contados a partir de la publicación del Presupuesto de Egresos del Gobierno del Estado de México del ejercicio fiscal correspondiente, la actualización de los anexos del Presupuesto, con excepción de aquellos que refieran recursos federales que incluirán las modificaciones respectivas derivadas de los montos definitivos aprobados en el Decreto correspondiente.
+El Ejecutivo del Estado por conducto de la Secretaría deberá enviar a la Legislatura o a la Diputación Permanente en los recesos de ésta, a más tardar treinta días hábiles contados a partir de la publicación del Presupuesto de Egresos del Gobierno del Estado de México del ejercicio fiscal correspondiente, la actualización de los anexos del Presupuesto, con excepción de aquellos que refieran recursos federales que incluirán las modificaciones respectivas derivadas de los montos definitivos aprobados en el Decreto correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO CUARTO. DEL CONTROL, INFORMACION Y EVALUACION DEL GASTO PUBLICO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 305.
 
 El presupuesto de egresos se ejercerá de acuerdo con lo que determine el Decreto de Presupuesto de Egresos y demás disposiciones que establezca la Secretaría y la Tesorería en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-El egreso podrá efectuarse cuando exista partida específica de gasto en el presupuesto de egresos autorizado y saldo suficiente para cubrirlo y no podrán cubrir acciones o gastos fuera de los programas a los que correspondan por su propia naturaleza.
+El egreso podrá efectuarse cuando exista partida específica de gasto en el presupuesto de egresos autorizado y saldo suficiente para cubrirlo y no podrá cubrir acciones o gastos fuera de los programas y calendarios a los que correspondan por su propia naturaleza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 306.
 
-Una vez que se apruebe el presupuesto de egresos por la Legislatura, el Ejecutivo Estatal, por conducto de la Secretaría deberá comunicar a las dependencias, entidades públicas y organismos autónomos dentro de los primeros 20 días hábiles del ejercicio fiscal correspondiente, su presupuesto aprobado.
+Una vez que se apruebe el Presupuesto de Egresos por la Legislatura, el Ejecutivo Estatal, por conducto de la Secretaría deberá comunicar a las Dependencias, Entidades Públicas y Organismos Autónomos dentro de los primeros veinte días hábiles del ejercicio fiscal correspondiente, su presupuesto aprobado.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En el caso de los municipios la comunicación a que se refiere el presente artículo la realizará la Tesorería, una vez aprobado el presupuesto por el ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 307.
 
-Las Dependencias y Entidades Públicas en el ejercicio de sus asignaciones presupuestarias se sujetarán al calendario que determine la Secretaría, y en el caso de los municipios la Tesorería.
+Las Dependencias, Entidades Públicas, Organismos Autónomos y Poderes Legislativo y Judicial en el ejercicio de sus asignaciones presupuestarias se ejercerán con base en los calendarios financieros aprobados y de metas que se establezcan conforme a los Criterios, Manuales y Lineamientos que determine la Secretaría y en el caso de los Municipios la Tesorería.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13059,9 +13925,9 @@ Las Dependencias y Entidades Públicas en el ejercicio de sus asignaciones presu
 
 En el caso de los Municipios, la Tesorería en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, podrá autorizar y verificar en el ámbito de sus competencias modificaciones a los calendarios de gasto que tengan por objeto anticipar la disponibilidad de recursos, cuando su flujo de efectivo lo permita, así como la relación que guarde la recalendarización de recursos con la ejecución y cumplimiento de objetivos y metas.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría no reconocerá adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas que rebasen el monto mensual del presupuesto de egresos.
+La Secretaría o la Tesorería, en el ámbito de sus respectivas competencias, no reconocerán adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas que rebasen el monto mensual del presupuesto de egresos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13071,11 +13937,11 @@ La Secretaría no reconocerá adeudos ni pagos por cantidades reclamadas o eroga
 
 Para efectos de este Capítulo, se entenderá por subsidios, cooperaciones y donativos a las previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 309.
 
-Las dependencias, entidades públicas y unidades administrativas municipales, informarán y remitirán la documentación comprobatoria a la Secretaría o Tesorería según corresponda, dentro de los primeros diez días hábiles posteriores al término del ejercicio, todos los adeudos contraídos al 31 de diciembre del ejercicio inmediato anterior, para ser registrados como pasivos.
+Las Dependencias, Entidades Públicas y unidades administrativas municipales, informarán y remitirán la documentación comprobatoria a la Secretaría o Tesorería según corresponda, dentro de los primeros diez días hábiles posteriores al término del ejercicio, todos los adeudos contraídos al treinta y uno de diciembre del ejercicio inmediato anterior, para ser registrados como pasivos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -13125,9 +13991,13 @@ II. En el manejo de sus disponibilidades financieras no cumplan los lineamientos
 
 III. Hayan celebrado convenios de asunción de pasivos y no se cumpla con las obligaciones pactadas, con los programas de saneamiento financiero respectivos o con los compromisos de déficit o superávit acordados;
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-IV. En general, no ejerzan sus presupuestos con base a las disposiciones aplicables.
+IV. Cuando ejecuten obra pública con recursos propios, sin excepción alguna.
+
+En este caso, deberán solicitar la autorización de la Secretaría y cumplir con los requisitos que establece el Manual de Operación del Gasto de Inversión Sectorial y demás disposiciones aplicables.
+
+V. En general, no ejerzan sus presupuestos con base a las disposiciones aplicables.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -13141,11 +14011,9 @@ II. Que se efectúen dentro de los límites de los calendarios financieros autor
 
 III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, entendiéndose por justificantes las disposiciones y documentos legales que determinen la obligación de hacer un pago y por comprobantes, los documentos que demuestren la entrega de los bienes y servicios y el pago en dinero correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-IV. Que se relacionen directa y únicamente con los objetivos y metas contemplados en el proyecto presupuestal correspondiente.
+IV. Que se relacionen directa y únicamente con los objetivos y metas contemplados en el presupuesto autorizado.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -13153,11 +14021,13 @@ IV. Que se relacionen directa y únicamente con los objetivos y metas contemplad
 
 Los Poderes Legislativo y Judicial y los organismos autónomos en el ejercicio de su Presupuesto de egresos, para la contratación y ejecución de obra pública y la adquisición de bienes y servicios, cumplirán las disposiciones previstas en el Código Administrativo y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 314.
 
-Las dependencias y entidades públicas deberán reportar a la Secretaría el presupuesto ejercido con base en la estructura programática vigente.
+Las Dependencias, Entidades Públicas, Organismos Autónomos, así como los Poderes Legislativo y Judicial, deberán reportar trimestralmente a la Secretaría el presupuesto ejercido con base en la clasificación por objeto del gasto y demás clasificaciones que la misma señale, para cada una de las categorías programáticas vigentes.
+
+Los coordinadores administrativos, delegados administrativos o equivalentes, conjuntamente con los titulares de las unidades ejecutoras del gasto o en su caso los titulares de las Dependencias o de las Entidades Públicas serán responsables de la ejecución, registro y control del presupuesto de egresos que les haya sido autorizado, y al solicitar la dictaminación o adquisición de bienes y servicios certificarán la suficiencia presupuestal correspondiente, en términos de la Ley de Contratación Pública del Estado de México y Municipios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13167,11 +14037,11 @@ Las dependencias y entidades públicas deberán reportar a la Secretaría el pre
 
 Las partidas de gasto en que se registra el ejercicio del Presupuesto de Egresos solo serán afectadas por los importes devengados en el propio ejercicio; en consecuencia, no se podrán hacer cargos por conceptos que debieron registrarse en años anteriores, salvo que lo autorice la Secretaría o la Tesorería en el caso de los Municipios, en tal caso, en la respectiva Cuenta Pública se incluirá un apartado que contenga la descripción precisa de estas operaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 316.
 
-Las garantías que deban constituirse para asegurar los actos y contratos que celebren las Dependencias, se otorgarán a favor del Gobierno del Estado de México; en el caso de las Entidades Públicas y los Entes Autónomos, dichas garantías estarán a favor de las mismas.
+Las garantías que deban constituirse para asegurar los actos y contratos que celebren las Dependencias, se otorgarán a favor del Gobierno del Estado de México; en el caso de las Entidades Públicas y los Organismos Autónomos, dichas garantías estarán a favor de las mismas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13207,29 +14077,25 @@ En el caso de que los traspasos presupuestarios internos rebasen el 25% del tota
 
 Tratándose de traspasos entre proyectos, el límite máximo ascenderá al 25% del valor original del programa de que se trate. En caso de exceder dicho porcentaje, requerirá la autorización previa de la Legislatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+En caso de que se requiera la realización de traspasos presupuestarios que rebasen el porcentaje señalado en este artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquélla se encuentre en receso, quién deberá aprobarlo en un plazo no mayor de diez días naturales.
 
-En caso de que se requiera la realización de traspasos presupuestarios que rebasen el porcentaje señalado en este Artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquélla se encuentre en receso, quién deberá aprobarlo en un plazo no mayor de 10 días naturales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 317 Bis.
 
-Los traspasos presupuestarios externos serán aquellos que se realicen entre programas o capítulos de gasto, debiendo la unidad ejecutora solicitar autorización de la Secretaría, en términos de las disposiciones aplicables.
+Los traspasos presupuestarios externos serán aquellos que se realicen entre programas, capítulos de gasto o fuentes de financiamiento. Para poderlos llevar a cabo las Dependencias y Entidades Públicas deberán solicitar autorización de la Secretaría, en términos de las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-La solicitud deberá contener la justificación necesaria, así como el dictamen de reconducción y actualización programática presupuestal, correspondiente que deberá incluir los montos, programas y proyectos afectados, la descripción del ajuste en sus metas y objetivos, así como las unidades ejecutoras afectadas y los capítulos de gasto que comprenden.
+La solicitud deberá contener la justificación necesaria, así como el dictamen de reconducción y actualización programática-presupuestal, correspondiente que deberá incluir los montos, fuentes de financiamiento, programas y proyectos afectados, la descripción del ajuste en sus metas y objetivos, así como las unidades ejecutoras afectadas y los capítulos de gasto que comprenden.
 
 Para el caso de las entidades públicas, adicionalmente a la solicitud de traspasos externos, deberán contar con la aprobación del órgano de gobierno y presentarla a la Secretaría.
 
-Los traspasos presupuestarios autorizados deberán informarse dentro de los primeros diez días del mes siguiente en el que se realicen para ser integrados al informe que el Poder Ejecutivo rinda al Poder Legislativo, el que invariablemente deberá contener montos, los programas, unidades ejecutoras y capítulos afectados por cada uno de los traspasos realizados.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Los traspasos presupuestarios autorizados deberán informarse dentro de los primeros diez días del mes siguiente en el que se realicen para ser integrados al informe que el Poder Ejecutivo rinda al Poder Legislativo, el que invariablemente deberá contener montos, fuentes de financiamiento, programas, unidades ejecutoras y capítulos afectados por cada uno de los traspasos realizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -13237,11 +14103,9 @@ Los traspasos presupuestarios autorizados deberán informarse dentro de los prim
 
 El monto total de traspasos presupuestarios externos que autorice la Secretaría no podrá exceder del 5% del presupuesto total autorizado anual, exceptuando de este capítulo los ajustes por incrementos salariales de carácter general, los ajustes derivados de la firma de convenios específicos con otros ámbitos de gobierno y las contingencias derivadas de desastres naturales y siniestros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-En caso de que se requiera la realización de traspasos presupuestarios externos que rebasen el porcentaje señalado en este artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquella se encuentra en receso, quien deberá aprobarlo en un plazo no mayor de 15 días.
+En caso de que se requiera la realización de traspasos presupuestarios externos que rebasen el porcentaje señalado en este artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquella se encuentra en receso, quien deberá aprobarlo en un plazo no mayor de quince días.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -13297,11 +14161,9 @@ Las solicitudes de ampliación presupuestaria que presenten las dependencias y e
 
 En el caso de los municipios, los Ayuntamientos podrán autorizar la adecuación solicitada, la cual emitirá la Tesorería previa revisión de la Unidad de Información, Planeación, Programación y Evaluación o bien de la Unidad Administrativa o los servidores públicos de los municipios que tengan encomendada esta responsabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-El Ejecutivo deberá informar a la Legislatura en la cuenta pública, los programas a los que se aprobaron erogaciones adicionales en los términos de este artículo, describiendo con precisión los montos, proyectos, metas, unidades ejecutoras y capítulos afectados por dichos movimientos.
+El Ejecutivo deberá informar a la Legislatura, en la cuenta pública, los programas a los que se aprobaron erogaciones adicionales en los términos de este artículo, describiendo con precisión los montos, fuentes de financiamiento, proyectos, metas, unidades ejecutoras y capítulos afectados por dichos movimientos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -13309,13 +14171,13 @@ El Ejecutivo deberá informar a la Legislatura en la cuenta pública, los progra
 
 Las adecuaciones presupuestarias deberán justificarse plenamente así como contar con dictamen de reconducción y actualización, que presenten a la Secretaría o a la Tesorería, según corresponda, cuando modifiquen las metas de los proyectos autorizados o impliquen la cancelación de proyectos y la reasignación de sus recursos a otros proyectos prioritarios. El dictamen debe reunir los requisitos planteados para el dictamen de reconducción en el artículo 317 Bis de este Código.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Las adecuaciones que impliquen una disminución de recursos serán viables siempre y cuando las metas programadas hayan sido cumplidas y se registren ahorros presupuestarios.
+Las adecuaciones que impliquen una disminución de recursos serán viables siempre y cuando las metas programadas hayan sido cumplidas y se registren economías presupuestarias.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-Para el caso de las entidades públicas, adicionalmente la solicitud de adecuaciones externas deberán contar con la aprobación de su órgano de gobierno y presentarla a la Secretaría o a la Tesorería en el ámbito de sus respectivas competencias, por conducto de la dependencia coordinadora de sector.
+Para el caso de las Entidades Públicas, adicionalmente la solicitud de adecuaciones presupuestarias deberá contar con la aprobación de su órgano de gobierno y presentarla a la Secretaría o a la Tesorería en el ámbito de sus respectivas competencias, por conducto de la dependencia coordinadora de sector.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -13329,7 +14191,9 @@ La Secretaría o la Tesorería, según corresponda, podrán recibir solicitudes 
 
 I. Las metas de los programas lo justifiquen.
 
-II. Existan ahorros presupuestarios.
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+II. Existan economías presupuestarias;
 
 III. Se presente una justificación y exposición clara de motivos.
 
@@ -13343,7 +14207,9 @@ I. Que las transferencias se destinen al cumplimiento de las metas comprometidas
 
 II. El ejercicio presupuestario sea acorde con el avance programático de metas y resultados.
 
-En el caso de aquellas entidades que no se encuentren adscritas a un sector, será su órgano de gobierno quien tramitará ante la Secretaría la liberación de las transferencias respectivas.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+En el caso de aquellas entidades que no se encuentren adscritas a un sector, será el titular de la entidad quien tramitará ante la Secretaría la liberación de las transferencias respectivas.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -13447,7 +14313,7 @@ En el caso de las entidades públicas deberán contar con el previo acuerdo de s
 
 ###### Artículo 327.
 
-Será responsabilidad de la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, cumplir y hacer cumplir las disposiciones del presente título, estableciendo las medidas para su correcta aplicación, así como determinar las normas y procedimientos administrativos tendientes a homogeneizar, desconcentrar, transparentar, racionalizar y llevar a cabo un mejor control del gasto público estatal.
+Será responsabilidad de la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, cumplir y hacer cumplir las disposiciones del presente Título, estableciendo las medidas para su correcta aplicación, así como determinar las normas, Manuales, Lineamientos y procedimientos administrativos tendientes a homogeneizar, desconcentrar, transparentar, racionalizar y llevar a cabo un mejor control del gasto público estatal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13455,25 +14321,79 @@ Será responsabilidad de la Secretaría y la Contraloría, en el ámbito de sus 
 
 En el caso de los municipios esta responsabilidad recae en la Contraloría Interna.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+La evaluación del desempeño se hará en función a los objetivos y metas de los programas presupuestarios, y demás elementos de programación y para tales efectos se diseñará, administrará y operará el Sistema de Evaluación del Desempeño.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría, será la instancia técnica a que alude el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la evaluación del desempeño por lo que respecta a las Dependencias y Entidades Públicas y para el caso de los Municipios, la evaluación del desempeño le corresponde a la Unidad de Información, Planeación, Programación y Evaluación o los servidores públicos responsables de realizar estas funciones, en coordinación con la Tesorería.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Son atribuciones de la Secretaría en relación con el Sistema de Evaluación del Desempeño, las siguientes:
+
+I. Diseñar, coordinar y emitir los Lineamientos metodológicos y técnicos para su operación;
+
+II. Aprobar los indicadores del desempeño de tipo estratégico y de gestión, relativos a los programas presupuestarios de las Dependencias, y Entidades Públicas, conforme a los Lineamientos que establezca para tal efecto;
+
+III. Formular y publicar un Programa Anual de Evaluación apegado a los correspondientes indicadores de desempeño;
+
+IV. Revisar los resultados de la evaluación de los indicadores de desempeño de las Dependencias y Entidades Públicas, y
+
+V. Formular recomendaciones a las Dependencias y Entidades Públicas, con base en los resultados de las evaluaciones.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Los Poderes Legislativo y Judicial, los Organismos Autónomos y los Municipios, diseñarán, administrarán y operarán su respectivo Sistema de Evaluación del Desempeño, observando los principios rectores a que se refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y el presente Código. Así mismo, se sujetarán, a la Ley de Coordinación Fiscal, a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y a la Ley General de Contabilidad Gubernamental y demás normatividad aplicable, considerando al mismo tiempo las previsiones presupuestales necesarias para dar cumplimiento a éstas disposiciones.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La evaluación del desempeño, se efectuará sin perjuicio de lo que establezcan otras disposiciones legales y de la que lleve a cabo la Contraloría, en el ámbito de su competencia y de las atribuciones que la Ley confiera al Órgano Superior de Fiscalización.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+El Gobernador del Estado, a través de la Secretaría y a petición expresa de los Poderes Legislativo y Judicial, así como los Organismos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de evaluación del desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 327-A.
 
-Los titulares de las Dependencias y Entidades Públicas en el ejercicio de su presupuesto, serán responsables de que se ejecuten con oportunidad, eficiencia, eficacia y honestidad los proyectos previstos en sus respectivos programas y deberán enviar a la Secretaría, a través de las unidades de información, planeación, programación y evaluación, o su equivalente, el informe del comportamiento del ejercicio presupuestal y el informe de avance programático en forma mensual y trimestral respectivamente, para la revisión, seguimiento y evaluación del cumplimiento de los objetivos y metas establecidas en los proyectos aprobados en relación con el presupuesto y ejercicio.
+Los titulares de las Dependencias, Entidades Públicas y Organismos Autónomos en el ejercicio de su presupuesto, serán responsables de que se ejecuten con oportunidad, eficiencia, eficacia y honestidad los proyectos previstos en sus respectivos Programas presupuestarios y serán los responsables del resultado y de la evaluación de los Programas presupuestarios a su cargo, ya sea por cuenta propia o a través de terceros, así como analizar la información relativa al desarrollo y grado de avance de los Programas presupuestarios. Así mismo, deberán enviar a la Secretaría o la Contraloría, según sea el caso, a través de las Unidades de Información, Planeación, Programación y Evaluación, o su equivalente, los resultados obtenidos de la evaluación, el informe del comportamiento del ejercicio presupuestal y el informe de avance programático en forma mensual y trimestral respectivamente, para la revisión, seguimiento y evaluación del desempeño del cumplimiento de los objetivos y metas establecidas en los proyectos aprobados en relación con el presupuesto y ejercicio.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En el caso de los municipios, los informes a que se refiere este artículo, se enviarán a la Tesorería.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+En materia de evaluación del desempeño, son obligaciones de las Dependencias y Entidades Públicas del Ejecutivo Estatal:
+
+I. Elaborar y proponer anualmente a la Secretaría, los objetivos estratégicos de los programas presupuestarios;
+
+II. Elaborar y proponer los indicadores de desempeño con enfoque a resultados, de los programas a su cargo conforme a los Lineamientos que emita la Secretaría y demás disposiciones aplicables;
+
+III. Cumplir con lo establecido en el Programa Anual de Evaluación, de los programas presupuestarios a su cargo con base en los Lineamientos que emita la Secretaría, así como atender las revisiones a las evaluaciones de desempeño que ordene la Secretaría;
+
+IV. Dar seguimiento y monitoreo de los indicadores de desempeño de los programas presupuestarios a su cargo, mediante el cálculo de su valor, de manera periódica y permanente, con el propósito de analizar su tendencia;
+
+V. Informar trimestralmente a través de la Unidad de Información, Planeación, Programación y Evaluación a la Secretaría, los resultados de las evaluaciones a los indicadores de desempeño de los programas a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño;
+
+VI. Atender y dar seguimiento a las recomendaciones derivadas de las evaluaciones de desempeño que emitan la Secretaría y la Contraloría;
+
+VII. Elaborar e implementar proyectos de mejora para incorporarlos en el diseño, adecuación y operación de los programas presupuestarios a su cargo, y
+
+VIII. Acordar con la Secretaría y la Contraloría las adecuaciones a los programas presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación mediante la celebración de un Convenio para la mejora del Desempeño y Resultados Gubernamentales.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Las Dependencias y Entidades Públicas deberán tomar las previsiones presupuestales necesarias para dar cumplimiento a las disposiciones de este Código, en materia del Sistema de Evaluación del Desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 327-B.
 
-La Secretaría, la Tesorería y los órganos de control interno, en coordinación con las unidades de información, planeación, programación y evaluación, o la unidad administrativa responsable de realizar estas funciones, en el ámbito de sus respectivas competencias, verificarán periódicamente a través del sistema de control y evaluación que establezcan, los resultados de la ejecución de los programas en relación con el ejercicio del presupuesto.
+La Secretaría, la Tesorería y los órganos de control interno, en coordinación con las Unidades de Información, Planeación, Programación y Evaluación, o la unidad administrativa responsable de realizar estas funciones, en el ámbito de sus respectivas competencias, verificarán periódicamente a través del sistema de control y evaluación del desempeño que establezcan, los resultados de la ejecución de los programas en relación con el ejercicio del presupuesto.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -13489,15 +14409,27 @@ Será causa de responsabilidad de los titulares de las dependencias, entidades p
 
 Las dependencias y entidades públicas deberán enviar a la Secretaría dentro de los primeros diez días posteriores al cierre del mes inmediato anterior, los resultados del avance de su ejercicio presupuestario, en función de su calendario de gasto aprobado.
 
-> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Para el caso de los Organismos Autónomos y los Poderes Legislativo y Judicial deberán enviar a la Secretaría para su consolidación el avance de su ejercicio presupuestario en el mismo plazo mencionado anteriormente.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Adicionalmente, las Dependencias y Entidades Públicas deberán enviar de manera trimestral a la Secretaría dentro de los primeros diez días posteriores al cierre del mes inmediato anterior la información sobre el avance y cumplimiento de las metas financieras consignadas en sus programas y presupuestos aprobados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 327-D.
 
-La Secretaría y la Contraloría, en el ámbito de sus competencias, verificarán periódicamente los resultados de la ejecución de los programas de las dependencias y entidades públicas, a fin de que en su caso, se adopten las medidas necesarias, para corregir las desviaciones detectadas.
+La Secretaría y la Contraloría, en el ámbito de sus competencias, evaluarán el desempeño conforme a este Código y verificarán periódicamente los resultados de la ejecución de los programas de las Dependencias y Entidades Públicas, a fin de que en su caso, se adopten las medidas necesarias, para corregir las desviaciones detectadas.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Las dependencias a través de las Unidades de Información, Planeación, Programación y Evaluación, así como las entidades públicas, por conducto de sus dependencias coordinadoras de sector, enviarán a la Secretaría dentro de los primeros diez días posteriores al cierre del trimestre inmediato anterior sus avances del informe programático-presupuestal, sin detrimento de la actualización periódica que hagan de sus indicadores contenidos en el Sistema Integral de Evaluación del Desempeño.
 
-Al efecto, se llevará a acabo (sic) la revisión, seguimiento y evaluación del cumplimiento de objetivos y metas establecidas en los proyectos aprobados, contra los resultados del ejercicio del Presupuesto de Egresos.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Al efecto, se llevará a cabo la revisión, seguimiento y evaluación del desempeño en el cumplimiento de objetivos y metas establecidas en los proyectos aprobados, contra los resultados del ejercicio del Presupuesto de Egresos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13514,6 +14446,10 @@ Al efecto, se llevará a acabo (sic) la revisión, seguimiento y evaluación del
 Las disposiciones de este Título tienen por objeto regular los servicios de tesorería del Estado y de los municipios.
 
 Los servicios de tesorería son aquéllos relacionados con la recaudación, concentración, administración y custodia de fondos y valores, así como la realización de pagos con cargo al presupuesto de egresos.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría a través de la Dirección General de Tesorería, autorizará el pago dentro del término de los cuarenta y cinco días hábiles posteriores a la fecha de ingreso de la documentación, debidamente requisitada por las Dependencias, Entidades Públicas y unidades ejecutoras del gasto.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -13565,13 +14501,15 @@ En la liberación de recursos financieros, las dependencias, entidades públicas
 
 Los contratistas, proveedores y prestadores de servicios que sean contratados por las unidades ejecutoras del gasto, recibirán el pago por la contraprestación otorgada, únicamente a través del beneficiario, o en su caso por medio de su representante legal debidamente acreditado mediante poder notarial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+Para el pago de documentos programados por la Tesorería, las Dependencias, Entidades Públicas, unidades administrativas, personas físicas y jurídicas colectivas contarán con un plazo de tres meses a partir de su programación para hacerlos efectivos; en caso de no hacerlo, se procederá a la cancelación del documento, sin perjuicio de su reprogramación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 336.
 
-Para la disposición de los recursos financieros, las dependencias, entidades públicas y unidades administrativas deberán requisitar la orden de pago, especificando que la modalidad de liquidación será mediante cheque o transferencia electrónica vía Sistema de Pagos Electrónicos Interbancaria.
+Para la disposición de los recursos financieros, las Dependencias, Entidades Públicas y unidades administrativas deberán requisitar la orden de pago, especificando que la modalidad de liquidación será preferentemente mediante transferencia electrónica vía Sistema de Pagos Electrónicos Interbancaria, o cheque cuando no haya disponibilidad de servicios bancarios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13593,13 +14531,15 @@ Las entidades públicas apoyados presupuestalmente y que manejen fondos público
 
 El pago de cantidades retenidas en favor de terceros, se liquidarán a petición de la dependencia, entidad pública o unidad administrativa que la practicó, debiendo comprobarlo con la documentación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 338 Bis.
 
-Para la devolución de pagos efectuados en forma indebida, duplicados, y/o en demasía; las dependencias, entidades públicas, unidades administrativas, personas físicas o jurídicas colectivas, deberán presentar ante la Dirección General de Tesorería por conducto de la autoridad ejecutora el oficio original en el que se fundamente los motivos y la autorización respectiva del importe a reintegrar.
+Para la devolución de pagos efectuados en forma indebida, duplicados, y/o en demasía; las Dependencias, Entidades Públicas, unidades administrativas, personas físicas o jurídicas colectivas, deberán presentar ante la Dirección General de Tesorería por conducto de la autoridad ejecutora el oficio original de autorización en el que se fundamente los motivos y el importe a reintegrar, así como copia de la documentación comprobatoria que ampare la procedencia de la devolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 La devolución del pago, se efectuará solamente al titular del mismo, quien deberá presentar además identificación oficial vigente; o bien, a su representante legal, quien deberá acreditarse como tal, única y exclusivamente mediante poder notarial, o resolución judicial, ya que no se realizarán devoluciones a beneficiarios que no acrediten su personalidad jurídica.
 
@@ -13613,7 +14553,7 @@ La devolución del pago, se efectuará solamente al titular del mismo, quien deb
 
 ###### Artículo 339.
 
-Las disposiciones de este Título tienen por objeto regular la contabilidad gubernamental y la cuenta pública del Estado, y la de los Municipios, de conformidad con las disposiciones establecidas en la Ley General de Contabilidad Gubernamental.
+Las disposiciones de este Título tienen por objeto regular la contabilidad gubernamental y la cuenta pública del Estado, y la de los Municipios, de conformidad con las disposiciones establecidas en la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -13687,6 +14627,10 @@ III. Fomentar la evaluación de las acciones de gobierno, la planeación y progr
 
 IV. Integrar la cuenta pública.
 
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Lo anterior de acuerdo a los principios, normas contables generales y específicas e instrumentos que se establezcan en la normatividad aplicable.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
@@ -13721,9 +14665,7 @@ El sistema de contabilidad sobre base acumulativa total se sustentará en los po
 
 Las Dependencias, Entidades Públicas y unidades administrativas registrarán contablemente el efecto patrimonial y presupuestal de las operaciones financieras que realicen, en el momento en que ocurran, con base en el sistema y políticas de registro establecidas, en el caso de los Municipios se hará por la Tesorería.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-Los coordinadores administrativos, delegados administrativos o equivalentes, conjuntamente con los titulares de las unidades ejecutoras del gasto o en su caso los titulares de las Dependencias o de las Entidades Públicas serán responsables de la ejecución, registro y control del presupuesto de egresos que les haya sido autorizado, y al solicitar la dictaminación o adquisición de bienes y servicios certificarán la suficiencia presupuestal correspondiente, en términos del Libro Décimo Tercero del Código Administrativo del Estado de México.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -13795,9 +14737,11 @@ III. Información de la obra pública.
 
 IV. Información de nómina.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 351.
 
-Los principales resultados de la gestión financiera se deberán publicar periódicamente por la Secretaría y por las tesorerías.
+La información financiera se deberá publicar periódicamente por la Secretaría y por las tesorerías, observando la normatividad aplicable.
 
 > <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2004)</small>
 
@@ -13929,7 +14873,9 @@ D) En un 50% del importe de las contribuciones retenidas o recaudadas y no enter
 
 II. Se disminuirán:
 
-A). En un 20% de su monto, siempre que el infractor pague o devuelva el importe de las contribuciones omitidas con sus accesorios, o el beneficio indebido dentro de los quince días siguientes a la notificación de la resolución en la que se impuso el importe de la misma.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+A). En un 20% de su monto, siempre que el infractor pague o devuelva el importe de las contribuciones omitidas con sus accesorios, o el beneficio indebido dentro de los diez días siguientes a la notificación de la resolución en la que se impuso el importe de la misma.
 
 B). En un 100% el importe de la multa fijada por la omisión en el pago de contribuciones y aprovechamientos, en los casos de devolución de cheques, siempre que se pague dicha contribución o aprovechamiento y en sus accesorios dentro de los cinco días siguientes a la fecha de notificación del requerimiento correspondiente.
 
@@ -14087,17 +15033,25 @@ A). Se amonestará al Contador Público cuando:
 
 B de este Código, sin justificación que lo motive.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+3. No manifieste a la autoridad fiscal competente cualquier modificación a la información que le haya proporcionado, de conformidad con el artículo 47 D, segundo párrafo del Código.
 
-3. No cumpla con lo establecido en el segundo o tercer párrafo del artículo 47 D de este Código, en cuyo caso la amonestación será por cada bimestre que transcurra sin cumplir con cualquiera de esas obligaciones.
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+4. No compruebe ante la autoridad fiscal competente que continúa siendo miembro activo de una agrupación profesional de contadores públicos y que cumplió con la norma de educación profesional continua o con su actualización académica, de conformidad con el artículo 47 D, tercer párrafo del Código.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+La amonestación para los supuestos previstos en los numerales 3 y 4 de este inciso, se efectuará por cada bimestre que transcurra sin cumplirse con la obligación fiscal de que se trate en el plazo establecido para tal efecto en el Código.
 
 B). Se suspenderán temporalmente los efectos de su registro para formular dictamen por dos años cuando:
 
 1. Formule el dictamen en contravención a lo dispuesto en este Código o no lo elabore de conformidad con las reglas de carácter general que al efecto emitan las autoridades fiscales.
 
-2. El Contador Público acumule tres amonestaciones.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+2. El Contador Público acumule dos amonestaciones.
 
 3. No formule el dictamen debiendo hacerlo.
 
@@ -14105,7 +15059,9 @@ En el caso de que el Contador Público se encuentre sujeto a proceso por la comi
 
 C). Se cancelará definitivamente su registro para formular dictamen, revocándose la autorización otorgada, cuando:
 
-1. Incurra en reincidencia al acumular tres suspensiones con motivo de la violación a las disposiciones fiscales que rigen la formulación del dictamen.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+1. Incurra en reincidencia al acumular dos suspensiones con motivo de la violación a las disposiciones fiscales que rigen la formulación del dictamen.
 
 2. No exhiba a requerimiento de la autoridad fiscal competente los papeles de trabajo a que se refiere el inciso B) de la fracción I del artículo 48-B de éste Código.
 
@@ -14118,6 +15074,14 @@ C). Se cancelará definitivamente su registro para formular dictamen, revocándo
 4. Haya participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
 
 5. El Contador Público no sea localizado en el domicilio que haya señalado dentro del territorio del Estado ante las autoridades fiscales para oír y recibir notificaciones por los actos que se emitan en relación con los dictámenes que formule.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+6. No formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años continuos.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+7. Cuando haya obtenido la autorización y registro a que se refiere el artículo 47 D del Código manifestando información falsa ante la autoridad fiscal competente, dicho otorgamiento quedará sin efectos a partir de que quede firme la resolución correspondiente, previa la garantía de audiencia establecida en el artículo 129 del Código de Procedimientos Administrativos del Estado de México, sin perjuicio de la sanción que corresponda.
 
 El cómputo de lo dispuesto en el numeral 1, de los incisos A) y B) de la fracción III de ese artículo, se hará por cada actuación del Contador Público, independientemente del contribuyente al que se refieran.
 
@@ -14223,7 +15187,9 @@ No se formulará querella si, quien encontrándose en los supuestos anteriores, 
 
 Se impondrá pena de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio de la Hacienda Pública Estatal o Municipal, disponga para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido.
 
-Igual pena se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Igual pena se aplicará al depositario que los oculte, no los ponga a disposición de la autoridad competente cuando ésta se los requiera o cambie de domicilio sin dar aviso a la autoridad fiscal.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -14319,9 +15285,9 @@ Las diligencias de notificación y ejecución que se deban practicar con motivo 
 
 I. El ejecutor designado en el mandamiento de ejecución deberá identificarse plenamente ante la persona con quien se practique la diligencia, debiendo señalar en las actas correspondientes, el cargo que ocupa, la fecha del documento con el cual se identifica del que se infiera que está vigente, que contiene el nombre y la firma del funcionario competente para expedirlo, el puesto que desempeña y el fundamento legal que lo faculta para la expedición del documento de identificación referido.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-II. Cuando la diligencia se efectúe personalmente y el ejecutor no encuentre a quien deba notificar, le dejará citatorio en el domicilio, con quien se encuentre en el mismo, para que espere a una hora fija del día hábil siguiente.
+II. Cuando la diligencia deba efectuarse personalmente y el ejecutor no encuentre a quien deba notificar, le dejará citatorio en el domicilio, con quien se encuentre en el mismo, para que espere a una hora fija del día hábil siguiente.
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -14375,7 +15341,17 @@ III. El contribuyente se niegue a proporcionar la contabilidad que acredite el c
 
 En los casos anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
 
-El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refiere el artículo 48 fracciones II y III de este Código, y de 18 meses en el caso de la fracción I, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 380-B.
+
+En el caso de la fracción I del artículo 380 A, el aseguramiento precautorio quedará sin efectos si la autoridad no emite dicha resolución en el plazo de 18 meses contados desde la fecha en que fue practicado el aseguramiento.
+
+En el caso de las fracciones II y III del artículo 380 A, el aseguramiento precautorio quedará sin efectos si la autoridad no emite resolución en la que determine créditos fiscales en los plazos a que se refiere el artículo 48 fracciones I y III de este Código.
+
+Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -14469,7 +15445,9 @@ Una vez que el crédito fiscal quede firme, la autoridad fiscal competente proce
 
 I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció otra forma de garantía del interés fiscal suficiente, antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta que señale la autoridad fiscal.
 
-II. Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III del artículo 35 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder al embargo de cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, procediendo en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo informe a la autoridad fiscal haber transferido los recursos a la cuenta que señale dicha autoridad suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+> <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+II. Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III del artículo 35 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días. En caso de no efectuarlo la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida o proceder al embargo de cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores procediendo en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo o de inversiones y valores informe a la autoridad fiscal haber transferido los recursos a la cuenta que señale dicha autoridad suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
 
 III. Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III del artículo 35 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía.
 
@@ -15959,7 +16937,7 @@ Los recursos que, en su caso, se obtengan como resultado de la aplicación progr
 
 NOVENO.- Los municipios que se beneficien por la modificación o no ratificación de las reducciones en las retenciones contempladas originalmente en los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios de acuerdo con el calendario contenido en el artículo Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, deberán remitir al Órgano Superior de Fiscalización del Estado de México y a la Legislatura su Plan Econónico (sic)-Financiero de saneamiento a mediano plazo.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2012)</small>
 
 DÉCIMO.- Para los efectos del artículo 47 Bis primer párrafo del Código Financiero del Estado de México y Municipios, el aviso de dictamen y el dictamen sobre la base, determinación y pago del Impuesto Predial correspondiente al ejercicio fiscal 2011, podrá presentarse a más tardar el 31 de diciembre de 2012, por tratarse de una nueva obligación fiscal que requiere el adecuado conocimiento de los contribuyentes, así como para desarrollar con oportunidad el sistema electrónico que facilitará su cumplimiento vía Internet.
 
@@ -16120,3 +17098,21 @@ QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa d
 SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
 
 SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
+
+G.G. 2 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2014.
+
+TERCERO.- Para efectos del segundo párrafo del artículo 7.7, la Secretaría de Transporte deberá enviar a la Secretaría de Finanzas los datos, informes y documentos que esta última le solicite, dentro del plazo de treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Con relación a la reforma al artículo 221, esta será aplicable a partir del ejercicio fiscal 2016, para los ejercicios fiscales 2014 y 2015, los coeficientes "C1i,t" y "C2i,t" tendrán la siguiente ponderación según el ejercicio fiscal del que se trate, de acuerdo a lo siguiente:
+
+Ejercicio Ponderación
+
+Fiscal C1i,t C2i,t
+
+2014 50% 50%
+
+2015 40% 60%
