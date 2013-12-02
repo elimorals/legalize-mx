@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-migracion-89552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-28"
-last_updated: "2012-09-28"
+last_updated: "2013-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89552&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-09-28"
 
 REGLAMENTO DE LA LEY DE MIGRACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de septiembre de 2012.
 
@@ -395,15 +395,31 @@ I. Transmitir electrónicamente al Instituto la información en los términos de
 
 II. Abstenerse de transportar al territorio nacional a personas extranjeras que no cuenten con pasaporte o documento de identidad y viaje que sea válido conforme al derecho internacional, y en su caso, visa o documento migratorio que acredite su condición de estancia, mismos que deberán ser válidos y vigentes. En caso contrario, serán responsables de los gastos que se originen con motivo de la devolución de pasajeros que fueren rechazados por carecer de documentación migratoria o la tengan irregular.
 
-En el caso de niñas, niños o adolescentes o personas bajo tutela jurídica en términos de la legislación civil que vayan acompañados por un tercero mayor de edad o viajen solos, deberán verificar que cuentan con el permiso a que hace referencia el segundo párrafo de la fracción V del presente artículo. Lo anterior no será necesario para el caso de mexicanos que viajen solos y que vayan a ser repatriados al territorio nacional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2013)</small>
+
+En el caso de niñas, niños o adolescentes o personas bajo tutela jurídica en términos de la legislación civil que vayan acompañados por un tercero mayor de edad o viajen solos, deberán verificar que cumplen con lo establecido en el inciso b) de la fracción V del presente artículo. Lo anterior no será necesario para el caso de mexicanos que viajen solos y que vayan a ser repatriados al territorio nacional;
 
 III. Abstenerse de transportar a personas extranjeras fuera del territorio nacional que no cuenten con pasaporte o documento de identidad y viaje que sea válido conforme al derecho internacional, así como a aquéllos que no comprueben su situación migratoria regular en el territorio nacional, a menos que exista autorización expresa del Instituto;
 
 IV. Abstenerse de transportar personas que exhiban pasaporte o documento de identidad y viaje roto, que contenga tachaduras, enmendaduras o algún daño en la página biográfica de datos que haga imposible la identificación de su portador o el daño no permita su lectura mecánica;
 
-V. Abstenerse de transportar a menores de edad que pretendan salir del territorio nacional, sin que previamente comprueben que cuentan con pasaporte o documento de identidad y viaje que sea válido conforme al derecho internacional, y que viajan en compañía de alguna de las personas que ejercen sobre ellos la patria potestad o la tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-En el caso de niñas, niños o adolescentes o personas bajo tutela jurídica en términos de la legislación civil que vayan acompañados por un tercero mayor de edad o viajen solos, deberán presentar documento otorgado ante fedatario público o por autoridad que tenga facultad para ello en el que conste la autorización para que el menor de edad pueda salir del territorio nacional otorgada por ambos padres o por quienes ejerzan sobre ellos la patria potestad o la tutela. Cuando se trate de un documento otorgado en el extranjero, deberá ser legalizado o apostillado según sea el caso, con su traducción cuando se trate de idioma distinto al español;
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2013)</small>
+
+V. Transportar a niñas, niños, adolescentes y personas bajo tutela jurídica en términos de la legislación civil fuera del territorio nacional, cuando porten pasaporte o documento de identidad y viaje válido y vigente de conformidad con las disposiciones jurídicas aplicables. Tratándose de mexicanos, así como de extranjeros con condición de estancia de residente permanente, residente temporal y residente temporal estudiante en territorio nacional, además deberán ubicarse en alguno de los siguientes supuestos:
+
+a) Que viajen en compañía de alguna de las personas que ejercen sobre ellos la patria potestad o la tutela, cumpliendo con los requisitos de la legislación civil, o
+
+b) Que viajen solos o acompañados por un tercero mayor de edad distinto a los señalados en el inciso anterior, siempre y cuando presenten:
+
+1. El documento a través del cual quienes ejerzan la patria potestad o la tutela autorizan su salida del territorio nacional, otorgado ante fedatario público, o
+
+2. El documento emitido por autoridad facultada para ello. Dicho documento podrá ser en el formato que para tal efecto establezca la autoridad migratoria mediante disposiciones administrativas de carácter general publicadas en el Diario Oficial de la Federación.
+
+Los documentos otorgados en el extranjero deberán estar legalizados o apostillados según sea el caso, y acompañarse de la traducción cuando se trate de idioma distinto al español.
 
 VI. Responder de los gastos y sanciones que se impongan a sus tripulantes extranjeros que permanezcan o transiten en el territorio nacional sin la debida autorización de las autoridades migratorias;
 
@@ -527,7 +543,11 @@ La revisión migratoria a que hace referencia el párrafo precedente, se llevar�
 
 La autoridad migratoria deberá dejar constancia de la salida de personas del territorio nacional por los medios que para tal efecto establezca el Instituto. Si la salida de las personas extranjeras es definitiva, la autoridad migratoria recogerá la documentación migratoria y la cancelará.
 
-En el caso de salida del territorio nacional de niñas, niños o adolescentes o personas bajo tutela jurídica en términos de la legislación civil que vayan acompañados por un tercero mayor de edad o viajen solos, tanto mexicanos como personas extranjeras, deberán presentar documento otorgado ante fedatario público o por autoridad que tenga facultad para ello en el que conste la autorización de ambos padres o de quienes ejerzan sobre ellos la patria potestad o la tutela. Cuando se trate de un documento otorgado en el extranjero, deberá ser legalizado o apostillado según sea el caso, con su traducción cuando se trate de idioma distinto al español.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2013)</small>
+
+En el caso de niñas, niños o adolescentes o personas bajo tutela jurídica en términos de la legislación civil, que salgan del territorio nacional, la autoridad migratoria deberá dejar constancia de que la salida se efectuó en términos de lo establecido por el artículo 42, fracción V, del presente Reglamento.
 
 ###### Artículo 54.
 
@@ -2749,9 +2769,13 @@ Se impondrá una multa de veinte a cien días de salario mínimo general vigente
 
 Lo anterior, sin perjuicio de que el tripulante extranjero sea rechazado y de que la empresa lo regrese por su cuenta al lugar de procedencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 247.
 
-A las empresas de transporte aéreo, marítimo y terrestre que permitan viajar a niñas, niños y adolescentes para salir del territorio nacional, sin observar lo previsto en el artículo 49 de la Ley, serán acreedoras a una multa de mil a diez mil días de salario mínimo general vigente en el Distrito Federal.
+Las empresas de transporte aéreo, marítimo y terrestre que permitan viajar a niñas, niños y adolescentes para salir del territorio nacional, sin observar lo previsto en el artículo 42, fracción V, del presente Reglamento, serán acreedoras a una multa de mil a diez mil días de salario mínimo general vigente en el Distrito Federal.
 
 ###### Artículo 248.
 
@@ -2808,3 +2832,13 @@ DÉCIMO SEGUNDO.- El artículo 159, fracción I, inciso d), del Reglamento de la
 DÉCIMO TERCERO.- La Secretaría de Gobernación, la Secretaría de Relaciones Exteriores y el Instituto Nacional de Migración realizarán las acciones necesarias para que la instrumentación del Decreto por el que se expide el Reglamento de la Ley de Migración y se reforman, derogan y adicionan diversas disposiciones del Reglamento de la Ley General de Población y del Reglamento de la Ley de Asociaciones Religiosas y Culto Público se realice con los recursos aprobados en sus presupuestos, por lo que no se requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de septiembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.- El Secretario de Marina, Mariano Francisco Saynez Mendoza.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Dionisio Arturo Pérez-Jácome Friscione.- Rúbrica.- El Secretario de Educación Pública, José Ángel Córdova Villalobos.- Rúbrica.- El Secretario de Salud, Salomón Chertorivski Woldenberg.- Rúbrica.- La Secretaria del Trabajo y Previsión Social, Rosalinda Vélez Juárez.- Rúbrica.- La Secretaria de Turismo, Gloria Guevara Manzo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+TERCERO. La Secretaría de Gobernación deberá emitir las disposiciones administrativas de carácter general a que se refiere el presente Decreto, en un plazo no mayor a treinta días, contados a partir del día siguiente a la publicación del presente ordenamiento.
