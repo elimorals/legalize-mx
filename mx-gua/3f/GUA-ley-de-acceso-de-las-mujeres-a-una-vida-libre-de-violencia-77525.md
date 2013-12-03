@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2013-06-07"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -829,7 +829,11 @@ II. Preventivas; y
 
 III. De naturaleza civil.
 
-Las órdenes de protección de emergencia y preventivas, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+Las órdenes de protección de emergencia y preventivas, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
 
 A quien desacate una orden de protección de emergencia o preventiva, le serán aplicables los medios de apremio establecidos en la legislación procesal penal vigente en el Estado.
 
@@ -980,3 +984,7 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+Artículo único.- El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
