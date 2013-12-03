@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2013-11-12"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1151,7 +1151,7 @@ Cuando la condena a la reparación del daño haya nacido de la acción penal pú
 
 ###### Artículo 99
 
-v.- Quien tenga derecho a la reparación del daño podrá optar por reclamarlo en la jurisdicción civil, sirviéndole de documento ejecutivo.la resolución firme que condene al pago. En este caso cesará el procedimiento ejecutivo penal.
+v.- Quien tenga derecho a la reparación del daño podrá optar por reclamarlo en la jurisdicción civil, sirviéndole de documento ejecutivo la resolución firme que condene al pago. En este caso cesará el procedimiento ejecutivo penal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3033,9 +3033,7 @@ III.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el
 
 > <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-IV.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o
-
-servicios, sin consentimiento de quien esté facultado para ello.
+IV.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o servicios, sin consentimiento de quien esté facultado para ello.
 
 > <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -3379,6 +3377,10 @@ A quien empleando la violencia física o moral se oponga a que una autoridad eje
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 257.
 
 A quien por medio de la violencia física o moral exija a una autoridad la ejecución u omisión de un acto oficial, esté o no dentro de sus atribuciones, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa.
@@ -3453,7 +3455,7 @@ No se considerarán causas excluyentes de responsabilidad del delito de tortura 
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
 
-No se considerarán tortura los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentes a éstas o a un acto legitimo de autoridad.
+No se considerarán tortura los dolores o sufrimientos que sean consecuencia únicamente de sanciones legítimas, o que sean inherentes o incidentes a éstas o a un acto legítimo de autoridad.
 
 ###### Artículo 265.
 
@@ -3839,6 +3841,38 @@ Las dependencias de la administración pública competentes, deberán proporcion
 
 Tratándose de los delitos establecidos en los artículos 291 y 292, el trabajo a favor de la comunidad consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales, tomando en consideración el dictamen-técnico correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 297.
+
+Al que dolosamente cause la muerte de un animal vertebrado, se le impondrá de diez a cien días multa y de sesenta a ciento ochenta jornadas de trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 298.
+
+Al que dolosamente cause la mutilación orgánicamente grave de un animal vertebrado, se le impondrá de cinco a cincuenta días multa y de treinta a noventa jornadas de trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 299.
+
+Son excluyentes de responsabilidadde (sic) lo dispuesto en los artículos anteriores:
+
+I.- La muerte o mutilación de un animal vertebrado resultado de actividades lícitas.
+
+II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
+
+III.- La muerte o mutilación de un animal vertebrado por causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
+
+IV.- El sacrificio de un animal vertebrado para consumo humano.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 300.
+
+Los delitos previstos en este capítulo se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- Este Código entrará en vigor el 1º primero de enero del 2002 dos mil dos, previa publicación, junto con su dictamen, en el Periódico Oficial del Gobierno del Estado.
@@ -3871,7 +3905,7 @@ JUAN MANUEL OLIVA RAMÍREZ.
 
 P.O. 13 DE AGOSTO DE 2004.
 
-Artículo Único.- el presente decreto entrará en vigor a los sesenta días siguientes contados al de su fecha de publicación en el Periódico Oficial del Gobierno del Estado.
+Artículo Único.- El presente decreto entrará en vigor a los sesenta días siguientes contados al de su fecha de publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 10 DE JUNIO DE 2005.
 
@@ -3879,7 +3913,7 @@ Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguient
 
 P.O. 1 DE AGOSTO DE 2006.
 
-Artículo Primero.- Las presentes modificaciones al Código Penal para el Estado de Guanajuato, entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis.
+Artículo Primero.- Las presentes modificaciones al Código Penal para el Estado de Guanajuato, entrarán en vigencia el 12 doce de septiembre del año 2006 dos mil seis.
 
 Artículo Segundo.- Los derechos nacidos al amparo de la disposición a que se refería el artículo 57, fracción I, del Código Penal, quedarán a salvo para hacerse valer ante la autoridad que resulte competente.
 
@@ -3887,7 +3921,7 @@ Artículo Segundo.- Los derechos nacidos al amparo de la disposición a que se r
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 12 DE JUNIO DE 2007.
 
@@ -3962,3 +3996,7 @@ Artículo Tercero. A las personas que hayan cometido los delitos contemplados en
 P.O. 12 DE NOVIEMBRE DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
