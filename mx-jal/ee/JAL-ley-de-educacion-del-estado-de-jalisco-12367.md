@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2013-09-24"
+last_updated: "2013-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1046,6 +1046,12 @@ DE LA EQUIDAD EN LA EDUCACIÓN.
 ###### ARTICULO 90.
 
 En la esfera de su competencia la Secretaría de Educación del Estado, los municipios y sus organismos descentralizados, tomarán las medidas necesarias para hacer expedito el derecho a la educación que tiene todo habitante del Estado, en igualdad de circunstancias y oportunidades de acceso y permanencia al sistema educativo estatal.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 90
+
+BIS.- La Secretaría de Educación observará que en los centros escolares públicos o privados de cualquier nivel y modalidad en el Estado, otorguen dentro de sus facultades y atribuciones, apoyo educativo para coadyuvar a que las niñas, niños y adolescentes en circunstancias especialmente difíciles, den inicio, continuación y conclusión a sus estudios, conforme lo previsto en la presente ley, la Ley de las Niñas, Niños y Adolescentes del Estado de Jalisco, y demás ordenamientos legales aplicables.
 
 ###### ARTICULO 91.
 
@@ -2354,3 +2360,7 @@ DECRETO NÚMERO 24449/LX/13, QUE REFORMA EL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN 
 P.O. 24 DE SEPTIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
