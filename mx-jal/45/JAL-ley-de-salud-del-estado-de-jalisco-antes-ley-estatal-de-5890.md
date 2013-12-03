@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2013-09-24"
+last_updated: "2013-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -323,7 +323,9 @@ El Sistema Estatal de Salud, con la intervención que corresponda a la Secretar�
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen o causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+I. Proporcionar servicios de salud a toda la población del Estado, priorizando a las comunidades más vulnerables del Estado, y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen o causen daños a la salud, con especial interés en las acciones preventivas;
 
 II. Contribuir al adecuado desarrollo demográfico del Estado;
 
@@ -1244,6 +1246,20 @@ El Gobierno del Estado coadyuvará con las autoridades federales competentes, pa
 ###### Art. 83.
 
 La Secretaría de Salud Jalisco coadyuvará con las entidades públicas correspondientes, para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establezcan las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+###### Art. 83
+
+Bis. La Secretaría de Salud vigilará que cuando se prescriba algún medicamento, el emisor de la receta se sujete a lo siguiente:
+
+I. Cuando se trate de los incluidos en el Catálogo de Medicamentos Genéricos Intercambiables, deberá anotar la denominación genérica y, si lo desea, podrá indicar la denominación distintiva de su preferencias (sic); y
+
+II. En el caso de los que no estén incluidos en el catálogo referido en la fracción anterior, podrá indistintamente expresar la denominación distintiva o conjuntamente de las denominaciones genérica y distintiva.
+
+Cuando en la receta se exprese la denominación distintiva del medicamento, su venta o suministro deberá ajustarse precisamente a esta denominación y sólo podrá sustituirse cuando lo autorice expresamente quien lo prescribe.
+
+La prescripción en las instituciones públicas se ajustará a lo que cada una de ellas se señale debiéndose utilizar en todos los casos únicamente las denominaciones genéricas de los medicamentos incluidos en el cuadro básico de insumos para el primer nivel o en el catálogo de insumos para el segundo y tercer nivel. Por excepción, y con la autorización que corresponda, podrán prescribirse otros medicamentos.
 
 ###### Art. 84.
 
@@ -4164,3 +4180,15 @@ SEGUNDO. El reglamento del presente decreto deberá ser expedido en un plazo no 
 P.O. 24 DE SEPTIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 24551/LX/13, POR EL QUE SE ADICIONA EL ARTÍCULO 83-BIS A LA LEY DE SALUD DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 24552/LX/13, POR EL QUE SE MODIFICA LA FRACCIÓN I AL ARTÍCULO 14 DE LA LEY DE SALUD DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
