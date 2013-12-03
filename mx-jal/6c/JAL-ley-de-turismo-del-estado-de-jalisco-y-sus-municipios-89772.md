@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-del-estado-de-jalisco-y-sus-municipios-89772"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2013-10-12"
+last_updated: "2013-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
@@ -173,9 +173,15 @@ XVIII. Crear y actualizar el Atlas Turístico Estatal, en el marco de la present
 
 XIX. Solicitar información a los prestadores de servicios turísticos, con la finalidad de observar, evaluar y generar estadística confiable en materia turística, intercambiando de forma sistemática y periódica dicha información con la Secretaría Federal;
 
-XX. Elaborar y presentar ante la Secretaría Federal proyectos de declaratoria de zonas de desarrollo turístico sustentable, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XXI. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
+XX. Elaborar y presentar ante la Secretaría Federal proyectos de declaratoria de zonas de desarrollo turístico sustentable;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+XXI. Formular, promover, ejecutar y evaluar el programa municipios amables, que tiene como finalidad impulsar la actividad turística y resaltar su valor en el Estado, y
+
+XXII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
 
 ### CAPÍTULO III. Atribuciones de los municipios
 
@@ -684,5 +690,9 @@ DECRETO NO. 24477/LX/13 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 
 P.O. 12 DE OCTUBRE DE 2013.
 
 DECRETO NÚMERO 24478/LX/13 POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
