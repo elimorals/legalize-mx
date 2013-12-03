@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-animales-domesticos-en-el-33057"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2013-06-07"
+last_updated: "2013-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 29 de julio de 2003.
 
@@ -255,9 +255,11 @@ VII.- Retirar de la vía pública las excretas del animal.
 
 Artículo 13 a.- Se consideran actos de crueldad y maltrato a los animales domésticos:
 
-I.- Causarles la muerte utilizando cualquier medio que prolongue la agonía o provoque sufrimiento;
+I.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2013)
 
-II.- Cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales, que no se efectúe bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos en la materia;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+II.- Cualquier alteración de la integridad física o modificación negativa de sus instintos naturales, que no se efectúe bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos en la materia;
 
 III.- Todo acto u omisión que ocasione sufrimiento o ponga en peligro la vida;
 
@@ -656,3 +658,7 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
