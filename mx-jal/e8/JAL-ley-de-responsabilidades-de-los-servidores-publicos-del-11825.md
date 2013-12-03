@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2013-08-08"
+last_updated: "2013-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -1009,13 +1009,21 @@ Se entregará una copia de la amonestación al sancionado y una más se insertar
 
 #### Sección Cuarta. Sanciones pecuniarias
 
-> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 75.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-Para la aplicación de sanciones pecuniarias por los daños y perjuicios causados por el servidor público presunto responsable a las autoridades descritas en el artículo 3.° de esta ley, por el incumplimiento de alguna de las obligaciones establecidas en el artículo 61 de este ordenamiento, se podrán aplicar hasta dos tantos del daño causado, atendiendo a la determinación líquida que se efectúe, sin que en ningún caso se deje de cubrir el menoscabo sufrido por el erario estatal o municipal.
+###### Articulo 75.
 
-Las sanciones pecuniarias deberán cubrirse una vez determinada la cantidad líquida en su equivalencia en salarios mínimos vigentes al día de su pago. Se otorgará un plazo máximo de tres años para que el servidor público pague la sanción pecuniaria que se le imponga, pero en ningún caso los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
+Para la aplicación de sanciones pecuniarias por los daños y perjuicios causados por el servidor público presunto responsable a las autoridades descritas en el artículo 3°. de esta ley, por el incumplimiento de alguna de las obligaciones establecidas en el artículo 61 de este ordenamiento con excepción a la dispuesta por su fracción XXII, se podrán aplicar hasta dos tantos del daño causado, atendiendo a la determinación liquida que se efectúe, sin que en ningún caso se deje de cubrir el menoscabo sufrido por el erario estatal o municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+Las sanciones pecuniarias deberán cubrirse una vez determinada la cantidad líquida en su equivalencia en salarios mínimos vigentes al día de su pago. Se otorgará un plazo máximo de quince días naturales para que el servidor público pague la sanción pecuniaria que se le imponga. En caso de incapacidad material para sufragar el pago, los servidores públicos podrán celebrar con los titulares de las respectivas entidades públicas convenio para realizar el pago hasta por un plazo de tres años, pero en ningún caso los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 Esta sanción será aplicada por el titular de la entidad pública, a través del procedimiento sancionatorio.
 
@@ -1025,9 +1033,21 @@ Esta sanción será aplicada por el titular de la entidad pública, a través de
 
 Las sanciones pecuniarias constituirán créditos fiscales a favor del erario estatal o municipal, según sea el caso. Se harán efectivas mediante el procedimiento económico coactivo de ejecución y tendrán la prelación prevista para dichos créditos, sujetándose en todo a las disposiciones fiscales aplicables en esta materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+Las sanciones pecuniarias impuestas por el incumplimiento a la obligación de presentar en tiempo y forma la declaración de situación patrimonial, se constituirán a favor de la entidad pública facultada para conocerla conforme a lo dispuesto por el artículo 94 de la presente ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 76 Bis.
 
-(DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
+El servidor público que omita presentar las declaraciones de situación patrimonial a que se refieren las fracciones I a III del artículo 96, de este ordenamiento se hará acreedor a una sanción pecuniaria de siete a ochenta veces el salario mínimo vigente para la Zona Metropolitana de Guadalajara.
+
+El órgano de control, registro y verificación de la situación patrimonial correspondiente, determinará el monto de la sanción considerando para ello, el nivel y las percepciones del servidor público omiso.
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1343,17 +1363,21 @@ II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese m
 
 III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 97.
 
-En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si, transcurrido dicho término, el superior jerárquico o el servidor público omiso no cumplen con su correspondiente obligación, se les instaurará el procedimiento de responsabilidad a que alude el artículo 87 de esta ley, pudiendo ser sancionados con la destitución o con la inhabilitación hasta por un año.
+En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a pagar la multa y a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si transcurrido dicho término el superior jerárquico o el servidor público omiso no cumplen con su correspondiente obligación, se les instaurará el procedimiento de responsabilidad a que alude el artículo 87 de esta ley, pudiendo ser sancionados con la destitución o con la inhabilitación hasta por un año.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 98.
 
-En caso de incumplimiento de la obligación contenida en la fracción III del artículo 96, se instaurará el procedimiento a que alude el artículo 87 de este ordenamiento, pudiendo sancionarse al servidor público omiso con inhabilitación hasta por dos años para el desempeño de cargos públicos. En caso de subsistir la falta de presentación, la inhabilitación continuará indefinidamente hasta el momento en que se subsane la omisión.
+En caso de incumplimiento de la obligación contenida en la fracción III del artículo 96, se impondrá sanción económica y se instaurará el procedimiento a que alude el artículo 87 de este ordenamiento, pudiendo sancionarse al servidor público omiso con inhabilitación hasta por dos años para el desempeño de cargos públicos. En caso de subsistir la falta de presentación, la inhabilitación continuará indefinidamente hasta el momento en que se subsane la omisión.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1628,3 +1652,7 @@ CUARTO. El Secretario Ejecutivo del Instituto, en su calidad de Secretario Técn
 QUINTO. Los procedimientos iniciados en los términos de la ley que se abroga continuarán tramitándose hasta su conclusión con la misma.
 
 SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fracciones II, III y IV, previo a la entrada en vigor del presente decreto, deberán sujetarse a lo previsto por el artículo 45 del Código Penal para el Estado Libre y Soberano del Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día primero de enero de 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
