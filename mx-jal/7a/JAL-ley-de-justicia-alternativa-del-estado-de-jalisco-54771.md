@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2013-10-15"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -153,31 +153,27 @@ I. Código Penal para el Estado Libre y Soberano de Jalisco:
 
 a) Asociación delictuosa, artículo 120;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+b) Corrupción de menores, artículos 142-A y 142-B;
 
-b) Corrupción de menores, artículos 142-A, 142-B y 142-C;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-c) Pornografía infantil, artículo 142-D;
+c) Abuso sexual infantil, artículos 142-L y 142-M;
 
 d) Lenocinio, artículos 139 y 141;
 
 e) Falsedad en declaraciones e informes dados a una autoridad, artículo 168;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-f) Prostitución infantil, artículos 142-F, 142-G y 142-H;
+f) Prostitución infantil, artículos 142-F y 142-G;
 
 g) De la suposición y supresión del estado civil, artículo 177;
 
-h) Violación, artículo 175 y 176;
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+h) Violación, artículo 175;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -191,11 +187,7 @@ i) Robo de infante, artículo 179 párrafo cuarto;
 
 j) Tráfico de menores, artículo 179-Bis;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-k) Secuestro, artículo 194 y 194-Bis;
+k) (DEROGADO, P.O. 3 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -283,7 +275,13 @@ III. En la Ley Estatal para Prevenir y Sancionar la Tortura:
 
 a) Tortura, artículo 3º;
 
-IV. En las demás leyes que expresamente así lo señalen.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+IV. Los delitos tipificados por las leyes generales de conformidad con el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicano (sic);
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+V. En las demás leyes que expresamente así lo señalen.
 
 En todos los casos el método alterno se aplicará siempre y cuando se trate de delincuente primario.
 
@@ -1422,3 +1420,7 @@ P.O. 15 DE OCTUBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales para emitir el reglamento a que hace referencia el artículo 64 Bis de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
