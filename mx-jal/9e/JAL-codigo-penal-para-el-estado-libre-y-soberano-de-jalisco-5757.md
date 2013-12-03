@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2013-11-12"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3245,7 +3245,7 @@ Para que proceda la aplicación de la pena de infanticidio, se requiere que la m
 
 ### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 227.
 
@@ -3317,7 +3317,7 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 ### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 233.
 
@@ -3445,17 +3445,21 @@ XIV. Los responsables sean miembros de un cuerpo de seguridad pública, aun cuan
 
 XV. Se ejecute a bordo de un vehículo de transporte público en servicio; y (sic)
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XVI. Se cometa en un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo;
+XVI. Se cometa dentro de un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo, o en las inmediaciones de éstos sobre sus usuarios;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XVII. El objeto del robo sean productos agrícolas, siempre que el valor de lo robado sea por el equivalente a cincuenta días de salario mínimo o más, o
+XVII. El objeto del robo sean productos agrícolas, siempre que el valor de lo robado sea por el equivalente a cincuenta días de salario mínimo o más;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Recaiga sobre autopartes.
+XVIII. Recaiga sobre autopartes; o
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+XIX. Se ejecute en la vía pública mediante la utilización de vehículos motorizados o no motorizados que otorguen ventaja al sujeto activo para cometer el delito o para huir.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3475,15 +3479,23 @@ III. De cuatro a once años de prisión y multa por el importe de veinte a noven
 
 IV. De tres a seis años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuere estimable en dinero.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-B) Si interviene alguna de las calificativas que se consignan en las fracciones V, X, XII, XIV, XV, XVI y XVII del artículo anterior, la pena será:
+B) Si interviene alguna de las calificativas que se consignan en las fracciones V, X, XII, XIII, XIV, XV, XVI, XVII y XIX del artículo anterior, la pena será:
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
 
 I. De cinco a diez años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado no exceda del importe de trescientos setenta días de salario;
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+
 II. De seis a doce años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+
 III. De ocho años seis meses a quince años de prisión y multa por el monto de treinta a cien días de salario, cuando el valor de lo robado exceda del importe de mil días de salario; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
 
 IV. De cinco años seis meses a nueve años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
 
@@ -4049,33 +4061,63 @@ III. Documentos públicos electorales, las actas oficiales de instalación de ca
 
 ###### Art. 267.
 
-Se impondrá de diez a cien días multa y prisión de seis meses a tres años, al ciudadano que:
+Se impondrá de diez a cien días de multa y prisión de seis meses a tres años, al ciudadano que:
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 I. Vote a sabiendas de que no cumple con los requisitos de ley;
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
 II. Vote más de una vez en una misma elección;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 III. Haga proselitismo o presione a los electores el día de la jornada electoral, en el interior de las casillas o en el lugar en el que se encuentren formados los electores;
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
 IV. Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 V. Recoja sin causa prevista por la ley de la materia, credenciales de elector de los ciudadanos;
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
 VI. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 VII. Viole dolosamente el secreto del voto;
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
 VIII. Vote o pretenda votar con una credencial de la que no sea titular;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 IX. El día de la elección, organice la reunión y traslado de votantes con el objeto de llevarlos a votar e influir en el sentido de su voto;
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
+
 X. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales; las altere o destruya sin autorización del órgano electoral respectivo;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 XI. Obtenga o solicite declaración firmada del elector acerca del sentido de su voto, o bien, que comprometa el voto mediante amenaza o promesa;
 
-XII. Impida en forma violenta la instalación o cierre de una casilla; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XIII. Se presente en la casilla en plan intimidatorio, portando armas.
+XII. Impida en forma violenta la instalación o cierre de una casilla;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+XIII. Se presente en la casilla en plan intimidatorio, portando armas, o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+XIV. Obligue, presione, condicione o coaccione a las personas que estén bajo su encargo, haciendo uso del grado de superioridad jerárquica, escolar o laboral, para apoyar a agrupación política, partido político, candidato o a emitir su voto a favor de éstos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -4127,11 +4169,19 @@ VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
 ###### Art. 270.
 
-Se impondrá de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
+Se impondrá de doscientos a cuatrocientos días de multa y prisión de uno a nueve años, al servidor público que:
 
-I. Obligue a sus subordinados a emitir su voto en favor de un candidato o partido político;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+I. Obligue, presione, condicione o coaccione a quienes esté bajo su encargo a emitir su voto a favor de un candidato o partido político o a participar en actividades de éstos o de agrupación política alguna, condicionando su permanencia o situación laboral o escolar.
+
+La pena se incrementará en una mitad cuando el delito previsto en el párrafo anterior se realice dentro de los horarios escolares o laborales;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
 
@@ -5170,3 +5220,15 @@ SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales
 P.O. 12 DE NOVIEMBRE DE 2013.
 
 ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013
+
+DECRETO NÚMERO 24545/LX/13 POR EL QUE SE REFORMAN LOS ARTÍCULOS 267 Y 270 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 24549/LX/13 POR EL QUE SE REFORMAN LOS ARTÍCULOS 236 FRACCIONES XVI, XVII Y XVIII Y 236 BIS INCISO B); Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 236 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
