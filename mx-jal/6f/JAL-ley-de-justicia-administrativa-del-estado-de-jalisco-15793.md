@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2011-12-22"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -399,6 +399,10 @@ Cuando las pruebas documentales no obren en poder del demandante o cuando no hub
 
 Si el acto impugnado no constare documentalmente el actor lo manifestará así, bajo protesta formal de decir verdad, y ofrecerá los elementos de prueba mediante los cuales acredite la existencia del acto impugnado.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+Si los documentos a que se refiere el presente artículo excedieren de cincuenta fojas, quedarán en la secretaría para que se instruyan de ellos las partes y sólo subsistirá la obligación de presentar copia del escrito.
+
 ###### Artículo 37.
 
 Si al examinarse la demanda se advierte que ésta es oscura, irregular o incompleta, o que no se adjuntaron los documentos señalados en el artículo precedente, se requerirá al demandante para que dentro del término de tres días la aclare, corrija, complete o exhiba los documentos aludidos, apercibiéndolo de que de no hacerlo se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas, en su caso.
@@ -466,6 +470,10 @@ II. El documento en que acredite su personalidad, salvo cuando actúe por su pro
 III. El cuestionario que deba desahogar el perito, si se ofrece prueba pericial; así como la ampliación del cuestionario para el desahogo de dicha prueba, en el caso de que ésta se haya propuesto por el demandante; y
 
 IV. Las pruebas documentales que aporte, si las tuviere en su poder. En caso contrario se aplicarán las reglas que se establecen para el ofrecimiento de las documentales en la demanda.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+Si los documentos a que se refiere el presente artículo excedieren de cincuenta fojas, quedarán en la secretaría para que se instruyan de ellos las partes y sólo subsistirá la obligación de presentar copia del escrito.
 
 ###### Artículo 45.
 
@@ -935,7 +943,7 @@ Quien interponga un recurso de apelación que resulte desestimado por notoriamen
 
 Al Actuario que sin causa justificada incumpla con la obligación de notificar una resolución dentro del término que señala esta ley, se le impondrá una amonestación. En caso de reincidencia, una multa que no excederá del quince por ciento de su salario mensual; y si incurriera nuevamente en tal conducta, se le impondrá una sanción hasta por treinta días de suspensión; de persistir en la omisión, será destituido sin responsabilidad para el Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 108.
 
@@ -1108,3 +1116,7 @@ IV. Emitir o actualizar conforme a este decreto y remitir al Instituto para su a
 V. Analizar y reclasificar en su caso, la información pública en su poder, de acuerdo con la ley, los lineamientos generales y sus criterios generales de clasificación, dentro de los treinta días naturales siguientes a la autorización de éstos últimos por parte del Instituto.
 
 QUINTO. Los asuntos en materia de información pública, cuyo trámite haya iniciado durante la vigencia de la Ley de Transparencia e Información Pública del Estado de Jalisco, seguirán rigiéndose por la misma hasta su conclusión.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
