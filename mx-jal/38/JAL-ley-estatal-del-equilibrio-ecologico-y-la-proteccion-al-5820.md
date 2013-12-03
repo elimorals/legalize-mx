@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2010-12-09"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE, JALISCO
 
-LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -163,7 +163,7 @@ XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de
 
 XXXII. Procuraduría: Órgano desconcentrado de la Secretaria de Medio Ambiente para el Desarrollo Sustentable, denominado Procuraduría Estatal de Protección al Ambiente; (sic)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO II
 
@@ -255,13 +255,13 @@ XXXIV. Las demás que se deriven de la Ley General del Equilibrio Ecológico y l
 
 Cuando dos o más centros de población urbanos, situados en el estado, formen o tiendan a formar una continuidad demográfica, el gobierno del estado y los gobiernos municipales respectivos, en el ámbito de sus competencias, planearán de manera coordinada las acciones de que trata éste artículo, cuya regulación queda a cargo del gobierno del estado, salvo lo previsto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO III
 
 De las atribuciones de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 6º.
 
@@ -319,13 +319,19 @@ XXII. Vigilar el cumplimiento de las disposiciones de la presente ley en las obr
 
 XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más municipios, de conformidad a la distribución de competencias que se establece en la presente ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XXIV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente; y
+XXIV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-XXV. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+XXV. Proponer al titular del Poder Ejecutivo las bases para la celebración del concurso denominado "Premio Estatal al Cuidado del Medio Ambiente" que será entregado al o a los municipios que hayan cumplido con los Criterios Ambientales y de Gestión Ambiental de la presente ley.
+
+Las bases a las que se refiere la presente fracción serán aprobadas mediante acuerdo que deberá ser publicado en el periódico oficial El Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -337,7 +343,7 @@ El Titular del Ejecutivo del Estado y la Secretaría podrán celebrar con los go
 
 De las atribuciones de los gobiernos municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 8º.
 
@@ -621,7 +627,7 @@ V. La vivienda que se construya en los asentamientos humanos deberá incorporar 
 
 De la evaluación del impacto ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 26.
 
@@ -637,7 +643,7 @@ Los estudios únicamente podrán ser realizados por grupos multidisciplinarios, 
 
 Las modalidades de los estudios, los mecanismos y plazos de evaluación se establecerán en el reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 28.
 
@@ -657,7 +663,7 @@ V. Aquellas obras y actividades que incidan en dos o más municipios y que su co
 
 VI. Las demás que no sean competencia de la federación ni de los gobiernos municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 29.
 
@@ -765,7 +771,7 @@ De la autorregulación y auditorías ambientales.
 
 Los productores, industriales u organizaciones empresariales, podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 La Secretaría y los gobiernos municipales en el ámbito de sus competencias, inducirán:
 
@@ -779,13 +785,13 @@ III. El establecimiento de sistemas de certificación de procesos o productos pa
 
 IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 40.
 
 Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger al ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 La Secretaría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales y supervisará su ejecución, con apoyo de los gobiernos municipales y, en su caso, certificará su cumplimiento. Para tal efecto:
 
@@ -803,7 +809,7 @@ V. Dirigirá sus esfuerzos principalmente a la mediana y pequeña industria, con
 
 VI. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 41.
 
@@ -811,7 +817,7 @@ La Secretaría, en coordinación con la empresa auditada, pondrá los programas 
 
 En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2007)</small>
 
 #### SECCION DECIMA SEGUNDA. Del fondo estatal de protección al ambiente
 
@@ -915,7 +921,7 @@ IV. Areas municipales de protección hidrológica.
 
 En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se refieren los artículos anteriores, participarán los poseedores y propietarios de los terrenos, así como los habitantes del área en estudio, de conformidad con los acuerdos de concertación que al efecto se celebren, con el objeto de propiciar el desarrollo integral de las comunidades y asegurar la protección de los ecosistemas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 47.
 
@@ -1085,7 +1091,7 @@ Las áreas naturales protegidas consideradas de interés federal, estatal y muni
 
 La Secretaría llevará un registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción o incorporación en los registros públicos de la propiedad, de conformidad al reglamento que al respecto se expida.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2008)</small>
 
 ### CAPITULO III
 
@@ -1233,7 +1239,7 @@ Protección al Ambiente.
 
 De la prevención y control de la contaminación del suelo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 71.
 
@@ -1243,7 +1249,7 @@ I. La calidad del aire deberá ser satisfactoria en todos los asentamientos huma
 
 II. Las emisiones de contaminantes a la atmósfera, en la entidad, sean de fuentes fijas o móviles, deberán de ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 72.
 
@@ -1275,7 +1281,7 @@ IX. Elaborarán los informes sobre la situación del medio ambiente en el estado
 
 X. Ejercerán las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 73.
 
@@ -1329,7 +1335,7 @@ IV. Las aguas residuales de origen urbano, industrial, agropecuario, acuícola o
 
 V. La participación y corresponsabilidad de la sociedad son condiciones indispensables para evitar la contaminación del agua.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 79.
 
@@ -1455,7 +1461,7 @@ Queda sujeto a la autorización de la Secretaría en coordinación con los gobie
 
 Queda sujeto a la vigilancia del gobierno del estado en coordinación con los gobiernos municipales, con referencia a las normas oficiales mexicanas correspondientes y la normatividad estatal que al efecto se expida, la aplicación y uso de agroquímicos y pesticidas en las actividades del sector primario, dentro del territorio estatal, debiendo el gobierno del estado y los gobiernos municipales remitir las opiniones técnicas y los señalamientos respectivos a la instancia correspondiente, con el fin de proteger la productividad y el desarrollo de los suelos de la entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 91.
 
@@ -1495,7 +1501,7 @@ La Secretaría regulará y vigilará la realización de actividades riesgosas qu
 
 La vigilancia del cumplimiento de la regulación a que se refiere el artículo anterior, corresponderá a los gobiernos municipales, únicamente cuando en la realización de las actividades riesgosas, se generen residuos que sean vertidos a los sistemas de drenaje y alcantarillado de los centros de población, o integrados a la basura; así como cuando se trate de actividades relacionadas con residuos sólidos urbanos generados en servicios públicos y privados cuya regulación corresponda a los propios gobiernos municipales o se relacionen con dichos servicios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2007)</small>
 
 ### CAPITULO I
 
@@ -1563,7 +1569,7 @@ Toda persona con el interés jurídico que tiene de gozar de un ambiente sano y 
 
 La Secretaría y los gobiernos municipales promoverán la participación corresponsable de la sociedad en la planeación, evaluación y vigilancia de la política ambiental y la aplicación de sus instrumentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 107.
 
@@ -1649,7 +1655,7 @@ Medidas de Control y Seguridad y Sanciones.
 
 De las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 116.
 
@@ -1673,7 +1679,7 @@ Las promociones deberán hacerse por escrito, en el que se precisará el nombre,
 
 El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos por esta ley y los ordenamientos que de ella se deriven.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 120.
 
@@ -1763,7 +1769,7 @@ Las notificaciones irregularmente practicadas, surtirán efectos a partir de la 
 
 De las sanciones administrativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 132.
 
@@ -1775,7 +1781,7 @@ La Secretaría y los gobiernos municipales, en el ámbito de sus respectivas com
 
 El procedimiento administrativo de inspección y vigilancia podrá iniciarse de oficio o a petición de parte interesada. La Secretaría y los gobiernos municipales, no podrán exigir más formalidades que las expresamente previstas en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 134.
 
@@ -1887,7 +1893,7 @@ Cuando la Secretaría y los gobiernos municipales, según corresponda, ordenen a
 
 De la comisión de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 146.
 
@@ -2185,7 +2191,7 @@ La autoridad competente, una vez recibida la denuncia, y atendiendo a lo dispues
 
 Admitida la instancia, procederá por los medios que resulten conducentes, a identificar al denunciante, y hará del conocimiento la denuncia a la persona o personas a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, otorgándoles un término de quince días hábiles contados a partir del día siguiente en que surta efectos la notificación, para que señalen por escrito lo que a su derecho corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 177.
 
@@ -2199,7 +2205,7 @@ Si los hechos no fuesen de su competencia, hará llegar la denuncia ante la auto
 
 La autoridad competente notificará al denunciante, a más tardar dentro de los cinco días hábiles siguientes, el resultado de cada uno de los acuerdos que emita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 179.
 
@@ -2293,7 +2299,7 @@ El Secretario General de Gobierno
 
 Lic. Enrique Romero González
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE DICIEMBRE DE 1999.
 
@@ -2384,3 +2390,7 @@ P.O. 2 DE OCTUBRE DE 2008.
 P.O. 9 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor a los 15 días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
