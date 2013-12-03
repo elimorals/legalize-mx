@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2013-03-05"
+last_updated: "2013-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DE ESTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -107,9 +107,13 @@ En la aplicación de estos mecanismos se buscará la justicia restaurativa y se 
 
 IX.- Las demás que señalen las leyes.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Art. 3o bis.- En los casos de violencia intrafamiliar, el Ministerio Público podrá emitir órdenes de protección a favor de los receptores de violencia y de sus familiares, exponiendo las razones y los fundamentos que las justifiquen, las cuales tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generen.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+Art. 3o bis.- En los casos de violencia intrafamiliar, el Ministerio Público podrá emitir órdenes de protección a favor de los receptores de violencia y de sus familiares, exponiendo las razones y los fundamentos que las justifiquen, las cuales tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generen.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
 
 Las órdenes de protección podrán ser:
 
@@ -121,7 +125,11 @@ III.- Auxilio policíaco de reacción inmediata a favor de la persona receptora 
 
 IV.- Mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+
 Las órdenes deberán ser notificadas de inmediato al generador de violencia y se dará cumplimiento a las mismas a través de las corporaciones policíacas de que se auxilie.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
 
 En caso de que el inculpado quebrante las órdenes dictadas, se le sancionará en los términos de los artículos 255 y 256 del Código Penal para el Estado de Guanajuato.
 
@@ -209,7 +217,7 @@ Es competente para conocer de los delitos continuados o permanentes cualesquiera
 
 ###### Art. 9o.
 
-En material penal, no cabe prórroga ni renuncia de jurisdicción.
+En materia penal, no cabe prórroga ni renuncia de jurisdicción.
 
 ###### Art. 10.
 
@@ -4449,7 +4457,7 @@ Artículo Segundo. Las disposiciones de esta ley se aplicarán a hechos que ocur
 
 Vigencia del Código de Procedimientos Penales para el Estado de Guanajuato
 
-> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo para los hechos cometidos y los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
 
@@ -4465,7 +4473,7 @@ Artículo Quinto. No procederá la acumulación de procesos sobre hechos delictu
 
 Retroactividad
 
-> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Sexto. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse dentro del curso del procedimiento regido por el Código de Procedimientos Penales para el Estado de Guanajuato, las disposiciones de la presente ley que se refieran a: a) Indemnización al sentenciado injustamente condenado; b) Aplicación de los criterios de oportunidad en el ejercicio de la acción penal; c) Imposición de medidas cautelares personales; d) Acuerdos reparatorios y suspensión condicional del proceso; e) Mecanismos alternativos de solución de controversias o justicia restaurativa; f) Procedimiento abreviado; y g) Procedimiento especial para inimputables y por incapacidad sobrevenida.
 
@@ -4475,13 +4483,13 @@ Artículo Séptimo. El Poder Legislativo realizará las acciones conducentes, pa
 
 Normatividad a aplicar para diligencias
 
-> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Octavo. Las diligencias que se realicen en alguna región en que conforme al artículo primero transitorio aun no opere el sistema penal acusatorio, deberán desahogarse conforme la Ley del Proceso Penal para el Estado de Guanajuato, si derivan de un proceso donde ya se aplique ésta.
 
 Cuestiones competenciales
 
-> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Noveno. Cuando un procedimiento se inicie en una región y se hubiesen desahogado diligencias en esta, el proceso se seguirá conforme a las normas que se atendieron al inicio de la investigación, independientemente que por razón de competencia correspondiere a otra región cuyo sistema procesal penal sea diferente.
 
@@ -4504,3 +4512,7 @@ Artículo Único. El presente Decreto entrará en vigencia el 1 de septiembre de
 P.O. 5 DE MARZO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+Artículo único. El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
