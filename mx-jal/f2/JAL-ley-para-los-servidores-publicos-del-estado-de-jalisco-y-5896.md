@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2013-09-19"
+last_updated: "2013-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -745,7 +745,9 @@ El sueldo para los servidores públicos será determinado anual y equitativament
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra prestación, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
 
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente, y
 
@@ -799,9 +801,9 @@ El cargo de integrante del .Comité Técnico de Transparencia y Valoración Sala
 
 El Comité, bajo ninguna circunstancia puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus Municipios.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-Art. 46 bis 1. Las recomendaciones del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios serán obligatorias para los poderes del estado y los organismos públicos autónomos, cuando el Congreso del Estado las incorpore en el presupuesto de egresos del Gobierno del Estado, en los términos de lo dispuesto por el artículo 46-Bis de la ley estatal en materia de presupuesto, contabilidad y gasto público.
+Art. 46 bis 1. Las recomendaciones del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios serán obligatorias para los poderes del Estado y los organismos públicos autónomos, salvo disposición legal en contrario, cuando el Congreso del Estado las incorpore en el presupuesto de egresos del Gobierno del Estado, en los términos de lo dispuesto por el artículo 46 Bis de la ley estatal en materia de presupuesto, contabilidad y gasto público, en cuyo caso, las remuneraciones autorizadas por diversas entidades, que sean mayores a las previstas en el decreto legislativo correspondiente, serán nulas y deberán invariablemente ajustarse a dicho decreto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2007)</small>
 
@@ -2700,3 +2702,9 @@ P.O. 19 DE SEPTIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
+
+P.O. 3 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En el caso de los magistrados y los jueces se atenderá a lo dispuesto por el artículo 116, fracción III, párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos.
