@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2013-08-19"
+last_updated: "2013-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -149,7 +149,9 @@ I. Secretaría de Gobierno;
 
 II. Secretaría de Desarrollo Social e Indígena;
 
-III. Secretaría de Planeación y finanzas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+III. Secretaría de Finanzas y Planeación;
 
 IV. Secretaría de Desarrollo Urbano y Vivienda;
 
@@ -353,7 +355,9 @@ VII. Dar seguimiento a la ejecución de los programas de desarrollo social y des
 
 VIII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
-IX. Regular y supervisar, en coordinación con la Secretaría de Planeación y finanzas con la Secretaría de la Gestión Pública, que los subsidios y las transferencias de fondos provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IX. Regular y supervisar, en coordinación con la Secretaría de Finanzas y Planeación con la Secretaría de la Gestión Pública, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
 
 X. Coordinar y concertar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población;
 
@@ -369,7 +373,9 @@ XV. Proponer y promover mecanismos de financiamiento para el desarrollo social, 
 
 XVI. Impulsar y coordinar la organización social en los ámbitos rural y urbano para facilitar la participación en la toma de decisiones con respecto a su propio desarrollo;
 
-XVII. Analizar, evaluar y en su caso instrumentar de manera conjunta con la Secretaría de Planeación y finanzas, las propuestas de desarrollo comunitario y social resultantes de la participación de las diferentes organizaciones sociales y civiles, favoreciendo el equilibrio en el desarrollo regional;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XVII. Analizar, evaluar y en su caso instrumentar de manera conjunta con la Secretaría de Finanzas y Planeación, las propuestas de desarrollo comunitario y social resultantes de la participación de las diferentes organizaciones sociales y civiles, favoreciendo el equilibrio en el desarrollo regional;
 
 XVIII. Coordinar la ejecución de los convenios en materia de desarrollo social celebrados con la federación, municipios y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades del Estado;
 
@@ -387,9 +393,11 @@ XXIV. Recibir las demandas ciudadanas y gestionar su solución a través de las 
 
 XXV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 33.
 
-A la Secretaría de Planeación y finanzas corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Planeación corresponde el despacho de los siguientes asuntos:
 
 I. Conducir la política hacendaria del Estado en materias de administración tributaria, planeación, ingresos, gasto público y procuración fiscal, en los términos de la legislación aplicable y las políticas del Titular del Poder Ejecutivo del Estado; así mismo, ejercer el presupuesto de egresos en los términos de la legislación respectiva, considerando la participación de la Oficialía Mayor en lo que se refiere al Gasto Corriente;
 
@@ -417,7 +425,7 @@ XII. Normar, coordinar, supervisar y consolidar los sistemas estatales de planea
 
 XIII. Conducir, regular, administrar, operar y supervisar el Sistema de Contabilidad del Estado, para lo cual fijará, emitirá y evaluará criterios y lineamientos en dicha materia;
 
-XIV. Proponer al Gobernador del Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
+XIV. Proponer al Gobernador el (sic) Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
 
 XV. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Pública del Estado;
 
@@ -441,7 +449,9 @@ XXIV. Diseñar, administrar y difundir el Sistema de Asistencia al Contribuyente
 
 XXV. Proporcionar asesoría en materia de aplicación de las leyes tributarias que le sea solicitada por las demás dependencias, por los organismos y empresas del Estado, por los ayuntamientos y por los particulares y realizar una labor permanente de difusión y orientación fiscal;
 
-XXVI. Formular los informes y estudios sobre el comportamiento del gasto público del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Formular los informes y estudios sobre el comportamiento del gasto público del Estado; integrar la información sobre los avances en el cumplimiento de los planes y programas de desarrollo del Estado, y dentro del ámbito de su competencia, generar la información que se requiera para la formulación del informe que rinde el Gobernador del Estado ante la Legislatura del Estado sobre la situación que guarda la cuenta pública del Estado;
 
 XXVII. Aprobar, previo acuerdo del Gobernador del Estado, la participación del Estado en empresas, sociedades, asociaciones civiles y mercantiles, ya sea en su creación, aumento del capital o en la adquisición de todo o parte de éste, conforme lo dispongan las leyes aplicables. En caso de que lo anterior implique mayor presupuesto del autorizado anualmente para el Poder Ejecutivo, requerirá de la aprobación de la Legislatura del Estado;
 
@@ -479,7 +489,9 @@ VII. Promover y vigilar, en coordinación con los municipios correspondientes, q
 
 VIII. Promover, proponer, conducir y evaluar la realización de los programas de desarrollo urbano, vivienda y los relacionados con los servicios de agua potable y saneamiento en coordinación con los gobiernos municipales e instituciones públicas competentes;
 
-IX. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado en coordinación con la Secretaría de Planeación y finanzas y establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los municipios, para determinar los avalúos de los predios dentro de su jurisdicción;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IX. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado en coordinación con la Secretaría de Finanzas y Planeación y establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los municipios, para determinar los avalúos de los predios dentro de su jurisdicción;
 
 X. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda al Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado;
 
@@ -515,7 +527,9 @@ XXV. Convenir con los órganos de representación de los ejidos y comunidades, l
 
 XXVI. Promover, gestionar y realizar técnica y jurídicamente, con la anuencia de las asambleas ejidales y comunales que corresponda, y con estricta observancia de las disposiciones legales correspondientes, las acciones necesarias para tramitar, según sea el caso, procedimientos para la adopción del dominio pleno, tratándose de tierra ejidal formalmente parcelada; expropiación por causa de utilidad pública; terminación del régimen ejidal y regularización de las tierras ejidales;
 
-XXVII. Administrar las reservas territoriales, llevar su control e informar sobre las mismas a la autoridad responsable de su registro;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Administrar las reservas territoriales y de suelo apto para vivienda, llevar su control e informar sobre las mismas a la autoridad responsable de su registro;
 
 XXVIII. Convenir con el Gobierno Federal y en su caso, con los Ayuntamientos la formulación y ejecución de programas de adquisición de suelo y reserva territorial, y promover el traslado de dominio al Estado, de bienes del dominio de la Federación, aptos para el desarrollo urbano de la Entidad;
 
@@ -561,7 +575,9 @@ XII. Estudiar, planear y controlar el servicio público de transporte en todas s
 
 XIII. Tramitar los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia;
 
-XIV. Fijar, en coordinación con la Secretaría de Planeación y finanzas, las tarifas del transporte público del Estado, con base en los estudios técnicos que realice; asimismo, administrar las vías de cuota a cargo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XIV. Fijar, en coordinación con la Secretaría de Finanzas y Planeación, las tarifas del transporte público del Estado, con base en los estudios técnicos que realice; asimismo, administrar las vías de cuota a cargo del Gobierno del Estado;
 
 XV. Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas que conduzcan al mejor aprovechamiento de éste;
 
@@ -669,7 +685,9 @@ VII. Promover y coordinar los programas de promoción del comercio exterior y la
 
 VIII. Coadyuvar con las autoridades competentes en la instrumentación y divulgación de la normatividad del registro de la propiedad industrial, así como en lo relacionado con el estímulo y orientación de la inversión estatal, nacional e internacional y el comercio exterior en la entidad;
 
-IX. Establecer la política en materia de atracción de inversiones y promover en coordinación con la Secretaría de Planeación y finanzas, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IX. Establecer la política en materia de atracción de inversiones y promover en coordinación con la Secretaría de Finanzas y Planeación, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad;
 
 X. Coadyuvar con las autoridades federales y locales competentes en la implementación de la política de precios, su cumplimiento y observancia de las disposiciones jurídicas aplicables en calidad, peso y medidas necesarias para las actividades comerciales e industriales;
 
@@ -683,7 +701,9 @@ XIV. Establecer y coordinar la operación del Sistema Estatal de Incubación de 
 
 XV. Fomentar y coordinar el funcionamiento de la Comisión Estatal de Competitividad, entre los Gobiernos Federal, Estatal y Municipales, así como promover e incentivar la cooperación de los sectores públicos y privados para la planeación, control y evaluación de los programas y proyectos relacionados con la competitividad;
 
-XVI. Instrumentar los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Planeación y finanzas y la Secretaría de Desarrollo Agropecuario y Rural, asimismo, con la participación de otras instancias del sector público y privado, de las etnias y de los grupos involucrados;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XVI. Instrumentar los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Finanzas y Planeación y la Secretaría de Desarrollo Agropecuario y Rural, asimismo, con la participación de otras instancias del sector público y privado, de las etnias y de los grupos involucrados;
 
 XVII. Actuar como instancia de coordinación y de enlace con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias en materia industrial, minera, comercio exterior e interior, abasto, servicios, pesquera, acuacultura, artesanías, e industria agropecuaria y forestal que coadyuven al desarrollo económico del Estado;
 
@@ -723,7 +743,9 @@ XXXIV. Desarrollar actividades, en coordinación con las Dependencias competente
 
 XXXV. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico; y competitividad; asimismo, instrumentar la normatividad que regule, coordine y de seguimiento a los subcomités de promoción y fomento económico;
 
-XXXVI. Proponer y establecer el marco de actuación y normatividad de los centros de atención al sector productivo y en coordinación con la Secretaría de Planeación y finanzas y la Oficialía Mayor del Estado, la creación o modificación de las unidades administrativas, organismos auxiliares del sector que se consideren necesarios para el incremento de las actividades que contribuyan al desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXXVI. Proponer y establecer el marco de actuación y normatividad de los centros de atención al sector productivo y en coordinación con la Secretaría de Finanzas y Planeación y la Oficialía Mayor del Estado, la creación o modificación de las unidades administrativas, organismos auxiliares del sector que se consideren necesarios para el incremento de las actividades que contribuyan al desarrollo económico del Estado;
 
 XXXVII. Establecer y atender ventanillas y centros de gestión, fomento económico y de competitividad, que se instalen en las distintas Cámaras, Asociaciones, Colegios y Banca de Desarrollo, y
 
@@ -823,7 +845,9 @@ XVII. Supervisar la ejecución de los programas estatales de desarrollo agrícol
 
 XVIII. Coordinar, supervisar y atender la observancia obligatoria de la normatividad establecida en materia de sanidad agropecuaria, así como instrumentar y evaluar en coordinación con el Gobierno Federal, las campañas de prevención contra plagas, siniestros y enfermedades que ataquen a las especies vegetales y animales, y las medidas de control para la movilización de productos agropecuarios que garanticen la protección sanitaria del sector;
 
-XIX. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos de origen agrícola, ganadero y forestal; así como, instrumentar y ejecutar, en coordinación con las autoridades competentes, acciones y programas de industrialización, distribución, abastecimiento, comercialización y consumo de dichos productos. Además proponer a la Secretaría de Planeación y finanzas, así como a otras instancias correspondientes, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades de comercialización de los productos y aprovechamiento forestal en el Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XIX. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos de origen agrícola, ganadero y forestal; así como, instrumentar y ejecutar, en coordinación con las autoridades competentes, acciones y programas de industrialización, distribución, abastecimiento, comercialización y consumo de dichos productos. Además proponer a la Secretaría de Finanzas y Planeación, así como a otras instancias correspondientes, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades de comercialización de los productos y aprovechamiento forestal en el Estado;
 
 XX. Coordinar con las Dependencias y Entidades de la Administración Pública Estatal competentes, la instrumentación de esquemas de financiamiento mediante la creación de fondos de fomento y garantía, así como, otras instancias similares que permitan la participación de las instituciones bancarias en los proyectos de desarrollo agropecuario, rural, indígena y de los grupos marginados;
 
@@ -903,7 +927,9 @@ XXVI. Organizar, promover y supervisar, en coordinación con las autoridades com
 
 XXVII. Coordinar, normar y evaluar, las acciones de los organismos descentralizados de capacitación para el trabajo y de educación media, superior, tecnológica y universitaria y lo relativo a la Banda de Música del Estado de Quintana Roo;
 
-XXVIII. Instrumentar los programas de educación y cultura vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Planeación y finanzas, de Desarrollo Social e Indígena y de Desarrollo Agropecuario y Rural; asimismo, con la participación de las etnias y de los núcleos involucrados;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Instrumentar los programas de educación y cultura vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social e Indígena y de Desarrollo Agropecuario y Rural; asimismo, con la participación de las etnias y de los núcleos involucrados;
 
 XXIX. Instrumentar la elaboración de programas de carácter educativo y culturales, orientados a sensibilizar y concientizar a la población sobre las formas de expresión, erradicación y prevención de la violencia intrafamiliar; asimismo, coadyuvar con las autoridades u organismos competentes, en la realización de investigaciones sobre este fenómeno, a fin de identificar los problemas reales y potenciales que la generan, que permitan en su caso, diseñar nuevos modelos para su asistencia y prevención;
 
@@ -969,7 +995,9 @@ XVII. Coordinar, concertar y ejecutar programas especiales para la atención de 
 
 XVIII. Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general, en la generación e instrumentación de estrategias para mejorar la salud, superar rezagos sociales e impulsar el bienestar social de la población;
 
-XIX. Instrumentar los programas de salud vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Planeación y finanzas, de Desarrollo Social e Indígena y de Desarrollo Agropecuario y Rural, asimismo, con la participación de las etnias y de los núcleos involucrados;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XIX. Instrumentar los programas de salud vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social e Indígena y de Desarrollo Agropecuario y Rural, asimismo, con la participación de las etnias y de los núcleos involucrados;
 
 XX. Realizar las gestiones tendentes a proveer lo necesario para asegurar una adecuada atención médica, así como para garantizar la dotación de medicamentos básicos en los establecimientos de salud pública de la entidad;
 
@@ -1139,7 +1167,9 @@ VI. Regular y contratar al personal de la Administración Pública del Estado; a
 
 VII. Normar y emitir los criterios y lineamientos sobre el reclutamiento, selección, contratación, inducción y baja de los servidores públicos, elaborar y actualizar el escalafón, así como programar los estímulos y recompensas para los trabajadores de las dependencias y entidades de la Administración Pública Estatal, conforme a las disposiciones aplicables;
 
-VIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo fijar, regular y emitir, en coordinación con las Secretarías de la Gestión Pública y de Planeación y finanzas, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+VIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo fijar, regular y emitir, en coordinación con las Secretarías de la Gestión Pública y de Finanzas y Planeación, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
 
 IX. Normar y difundir el sistema de control de almacenes generales y de inventarios de los bienes muebles que sean patrimonio del Estado, así como establecer los lineamientos y procedimientos para su control, vigilancia, baja y destino final;
 
@@ -1319,7 +1349,9 @@ III. Que el Gobierno del Estado aporte o sea propietario de más del cincuenta p
 
 Los Fideicomisos Públicos son aquellos que por contrato y mediante Acuerdo se constituyen con el propósito de auxiliar al Titular del Poder Ejecutivo del Estado en sus atribuciones conferidas para impulsar las áreas prioritarias de desarrollo y su órgano colegiado de Gobierno, se denominará Comité Técnico. Su funcionamiento, conformación y registro se regulará conforme a lo dispuesto por la ley de la materia, considerándose únicamente entidades paraestatales aquellos fideicomisos públicos que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, los demás fondos y fideicomisos se regirán conforme a lo establecido en sus cuerpos legales constitutivos y demás normatividad aplicable.
 
-En la constitución de los fideicomisos públicos, la Secretaría de Planeación y finanzas fungirá siempre como Fideicomitente único del Gobierno del Estado y el Ejecutivo del Estado deberá determinar la forma de integración del respectivo Comité Técnico. La Secretaría de Planeación y finanzas debe participar en los órganos de gobierno como miembro con voz y voto, y podrá designar a su suplente.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+En la constitución de los fideicomisos públicos, la Secretaría de Finanzas y Planeación fungirá siempre como Fideicomitente único del Gobierno del Estado y el Ejecutivo del Estado deberá determinar la forma de integración del respectivo Comité Técnico. La Secretaría de Finanzas y Planeación debe participar en los órganos de gobierno como miembro con voz y voto, y podrá designar a su suplente.
 
 ## TÍTULO CUARTO. De los Tribunales Administrativos
 
@@ -1394,3 +1426,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2013
+
+PRIMERO.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Cuando en otras disposiciones legales y administrativas se haga referencia a la Secretaría de Hacienda o a la Secretaría de Planeación y Finanzas, se entenderá que se refiere a la Secretaría de Finanzas y Planeación, hasta en tanto se efectúen las adecuaciones correspondientes.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
