@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2013-08-19"
+last_updated: "2013-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -71,7 +71,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- El Ejecutivo: Al Gobernador del Estado de Quintana Roo;
 
-II.- La Secretaría: A la Secretaría de Hacienda del Gobierno del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+II.- La Secretaría: A la Secretaría de Finanzas y Planeación del Estado de Quintana Roo.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -103,7 +105,9 @@ Son autoridades del Estado de Quintana Roo competentes para la aplicación y obs
 
 I.- El Gobernador;
 
-II.- El Secretario de Hacienda;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+II.- El Secretario de Finanzas y Planeación;
 
 III.- El Procurador Fiscal;
 
@@ -179,7 +183,7 @@ Se entenderá por transferencia temporal cuando el titular de la Licencia otorgu
 
 En ambos casos, la transferencia de la Licencia de Bebidas Alcohólicas se sujetará en lo general a los alcances establecidos en esta ley, y en lo particular a lo siguiente:
 
-I.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a los padres, cónyuge, hijos o hermanos del titular será viable toda vez que el cesionario haya cumplido con lo señalado en el Artículo 14 fracción I y en el Artículo 15 fracciones I y II incisos a), b), c), d), e), f) y h). Esta transferencia no tendrá costo.
+I.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a los padres, cónyuge, hijos o hermanos del titular será viable toda vez que el cesionario haya cumplido con lo señalado en el Artículo 14 fracción I y en el Artículo 15 fracciones I y II incisos a), b), c), d), e), f) y h). Esta transferencia no tendrá costo;
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
@@ -787,9 +791,11 @@ Cuando el titular de la Licencia de Bebidas Alcohólicas sea notificado de la re
 
 En el escrito de interposición del recurso se deberán ofrecer las pruebas que se consideren, a excepción de la Prueba Confesional. Para la interposición del Recurso se seguirán las reglas de la Sección Segunda, Capítulo I, Título Quinto de los Procedimientos Administrativos del Código Fiscal del Estado de Quintana Roo, a excepción de las que sean incompatibles con las disposiciones de la presente ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 65.
 
-Una vez presentado el recurso de inconformidad, las autoridades señaladas deberán remitir copia del expediente al Secretario de Hacienda del Estado de Quintana Roo, para que éste resuelva y substancie el recurso, por conducto de la Procuraduría Fiscal del Estado de Quintana Roo, quien en un plazo no mayor de 30 días hábiles, procederá a emitir la resolución correspondiente misma que deberá de ser notificada en forma personal al recurrente.
+Una vez presentado el recurso de inconformidad, las autoridades señaladas deberán remitir copia del expediente al Secretario de Finanzas y Planeación del Estado de Quintana Roo, para que éste resuelva y substancie el recurso, por conducto de la Procuraduría Fiscal del Estado de Quintana Roo, quien en un plazo no mayor de 30 días hábiles, procederá a emitir la resolución correspondiente misma que deberá de ser notificada en forma personal al recurrente.
 
 ###### ARTÍCULO 66.
 
@@ -986,3 +992,9 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
