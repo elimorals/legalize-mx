@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2013-10-26"
+last_updated: "2013-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -343,77 +343,83 @@ XVIII.- Igualdad de Género;
 
 XIX.- Estudios Constitucionales;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XX.- Fomento Cooperativo y Ahorro Popular;
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
-
-XXI.- Fomento Industrial, Comercial y Artesanal;
+XX.- Estudios Legislativos
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXII.- Fomento de la Energía Renovable;
+XXI.- Fomento Cooperativo y Ahorro Popular;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXII.- Desarrollo Económico, Industrial, Comercial y Artesanal
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIII.- Fortalecimiento y Asuntos Municipales;
+XXIII.- Fomento de la Energía Renovable;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIV.- Gobernación;
+XXIV.- Fortalecimiento y Asuntos Municipales;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXV.- Hacienda;
+XXV.- Gobernación;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVI.- Hacienda;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXVI.- Honor, Justicia y Régimen Parlamentario;
+XXVII.- Honor, Justicia y Régimen Parlamentario;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVII.- Instructora;
+XXVIII.- Instructora;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVIII.- Juventud y Deporte.
+XXIX.- Juventud y Deporte.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIX.- Pesca;
+XXX.- Pesca;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXX.- Presupuesto y Programación;
+XXXI.- Presupuesto y Programación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXI.- Protección Ciudadana;
+XXXII.- Protección Ciudadana;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXXIII.- Recursos Hidráulicos
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXII.- Salud Pública;
+XXXIV.- Salud Pública;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXIII.- Trabajo y Seguridad Social;
+XXXV.- Trabajo y Seguridad Social;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXIV.- Turismo;
+XXXVI.- Turismo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
-XXXV.- Vialidad y Transporte;
+XXXVII.- Vialidad y Transporte;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XXXVI.- Vigilancia de la Auditoría Superior del Estado; y
+XXXVIII.- Vigilancia de la Auditoría Superior del Estado
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL DECRETO DE LA PUBLICACIÓN P.O. 29 DE ENERO DE 2011 EN LA FRACCIÓN XXXVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXXVII.</small>
-
-XXXVII.- Vivienda y Desarrollo Urbano.
+XXXIX.- Vivienda y Desarrollo Urbano
 
 ###### ARTICULO 26.
 
@@ -1664,3 +1670,7 @@ SEGUNDO.- Todos los asuntos turnados para estudio y dictamen a la actual Comisi�
 P.O. 26 DE OCTUBRE DE 2013.
 
 PRIMERO.- El presente Decreto, entrará en vigor el día 13 de noviembre de 2013.
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
