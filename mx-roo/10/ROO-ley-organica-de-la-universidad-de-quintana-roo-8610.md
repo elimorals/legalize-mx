@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-universidad-de-quintana-roo-8610"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-14"
-last_updated: "2013-08-19"
+last_updated: "2013-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de septiembre de 1994.
 
@@ -177,7 +177,9 @@ El cargo de miembro de la Junta Directiva será honorífico, sin retribución ec
 
 De los miembros de la Junta Directiva, siete serán designados por el Gobernador del Estado; los otros cuatro, serán designados por el Consejo Universitario de entre los integrantes del personal académico definitivo de tiempo completo de la Universidad. Cada año será reemplazado el integrante más antiguo de la Junta Directiva; las vacantes que se presenten por renuncia, muerte, incapacidad o límite de edad, serán cubiertas por el órgano quien designó el anterior.
 
-Dentro de los miembros designados por el Gobernador del Estado en todo caso estará un representante de la Oficialía Mayor y uno de la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+Dentro de los miembros designados por el Gobernador del Estado en todo caso estará un representante de la Oficialía Mayor y uno de la Secretaría de Finanzas y Planeación.
 
 ###### Artículo 10º.
 
@@ -192,6 +194,10 @@ III.- Haber demostrado interés en asuntos universitarios o de índole cultural,
 IV.- No ser funcionario público, ni dirigente de partido político u organización religiosa, ni miembro activo de las fuerzas armadas, tanto al momento de la designación, como durante el tiempo de gestión;
 
 V.- No haber sido sancionado por actos contrarios a la Ley orgánica de la Universidad y sus reglamentos, ni haber sido condenado por delito intencional.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+No aplicará lo dispuesto en la fracción IV de este artículo, respecto al impedimento de los funcionarios públicos para ser miembro de la Junta Directiva, tratándose únicamente de los miembros designados por el Gobernador del Estado, en cuanto a los representantes de la Oficialía Mayor y la Secretaría de Finanzas y Planeación, de conformidad con el artículo 9 de esta Ley.
 
 ###### Artículo 11.
 
@@ -213,7 +219,9 @@ VI.- Resolver la separación definitiva de cualquiera de sus miembros, por haber
 
 VII.- Expedir su reglamento interior.
 
-Para la validez de los acuerdos y resoluciones, se requerirá el voto aprobatorio de cuando menos cinco de los integrantes de la Junta Directiva.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+Para la validez de los acuerdos y resoluciones, se requerirá el voto aprobatorio de cuando menos seis de los integrantes de la Junta Directiva.
 
 Las resoluciones de la Junta Directiva, respecto a lo dispuesto en este Artículo, son de cumplimiento obligatorio para la propia Junta, para las demás autoridades universitarias y, en general, para todos los miembros de la comunidad universitaria.
 
@@ -227,7 +235,9 @@ La Junta Directiva contará con un Presidente y un Secretario, que serán design
 
 La Junta Directiva se reunirá en sesión ordinaria tres veces al año, mediante convocatoria de su Presidente; también podrá reunirse a sesionar en forma extraordinaria, cuando así lo juzgue conveniente su Presidente o a solicitud expresa del Rector.
 
-Las sesiones de la Junta Directiva serán válidas con la asistencia de cuando menos cinco de sus miembros.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+Las sesiones de la Junta Directiva serán válidas con la asistencia de cuando menos seis de sus miembros.
 
 ###### Artículo 14.
 
@@ -609,11 +619,11 @@ PATRONATO.
 
 Para contribuir a los fines de la Universidad habrá un Patronato, como órgano colegiado de la propia institución, cuya finalidad será, fundamentalmente, la de vigilar la aplicación y utilización del patrimonio de la Universidad; así como realizar todas aquellas actividades tendientes a su incremento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 43.
+###### ARTÍCULO 43.
 
-El Patronato estará integrado por un mínimo de 9 y un máximo de 12 personas; contará con un Presidente, dos Vicepresidentes, un Secretario y las demás fungirán como vocales, quienes serán designados de entre sus miembros. Serán miembros integrantes del Patronato por disposición legal un representante de la Oficialia Mayor y un representante de la Secretaría de Planeación y finanzas.
+El Patronato estará integrado por un mínimo de 9 y un máximo de 12 personas; contará con un Presidente, dos Vicepresidentes, un Secretario y las demás fungirán como vocales, quienes serán designados de entre sus miembros. Serán miembros integrantes del Patronato por disposición legal un representante de la Oficialía Mayor y un representante de la Secretaría de Finanzas y Planeación.
 
 Los miembros del Patronato durarán en su cargo cuatro años y no podrán ser reelectos.
 
@@ -866,3 +876,9 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
