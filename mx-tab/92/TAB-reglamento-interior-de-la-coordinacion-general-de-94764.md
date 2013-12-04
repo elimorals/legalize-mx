@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-general-de-94764"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2013-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE DESARROLLO REGIONAL Y PROYECTOS ESTRATÉGICOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Suplemento K del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -181,9 +181,17 @@ XXIV. Organizar, promover y participar en reuniones, foros, conferencias, comisi
 
 XXV. Nombrar, adscribir, readscribir, promover, estimular, sancionar o remover a los funcionarios y servidores públicos subalternos, de conformidad con la normatividad aplicable;
 
-XXVI. Administrar los recursos humanos, financieros y materiales asignados a la Coordinación General, con sujeción a las políticas y normatividad que determine el Gobernador; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XXVII. Las demás que le atribuyan expresamente las disposiciones legales aplicables, así como aquellas que le asigne expresamente el Gobernador.
+XXVI. Administrar los recursos humanos, financieros y materiales asignados a la Coordinación General, con sujeción a las políticas y normatividad que determine el Gobernador;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Promover y organizar al interior de la Coordinación General los grupos de Trabajo y los Comités Técnicos de Revisión y Análisis de Proyectos; y de Desarrollo Regional. Asimismo proponer a los titulares de las Dependencias y Entidades de la Administración Pública Estatal la conformación de grupos de trabajo similares; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Las demás que le atribuyan expresamente las disposiciones legales aplicables, así como aquellas que le asigne expresamente el Gobernador.
 
 ## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LAS UNIDADES DE APOYO AL COORDINADOR GENERAL
 
@@ -207,9 +215,17 @@ VI. Fungir como enlace entre los diferentes servidores públicos de la Coordinac
 
 VII. Procurar la óptima organización de las reuniones de trabajo del Titular;
 
-VIII. Representar al Titular en las comisiones que éste le asigne, manteniéndolo adecuadamente informado de los pormenores de su actividad; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-IX. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
+VIII. Representar al Titular en las comisiones que éste le asigne, manteniéndolo adecuadamente informado de los pormenores de su actividad;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IX. Participar en las sesiones del Comité Técnico de Revisión y Análisis de Proyectos, así como en el Comité Técnico de Desarrollo Regional; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+X. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
 
@@ -343,33 +359,61 @@ XX. Rendir los informes sobre gasto público que soliciten al Titular los Órgan
 
 XXI. Las demás que le otorgue el presente Reglamento y los ordenamientos Legales aplicables, así como las que le confiera el Titular.
 
-## TÍTULO CUARTO. DE LAS SUBCOORDINACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO ÚNICO. DE LAS ATRIBUCIONES DE LAS SUBCOORDINACIONES
+## TÍTULO CUARTO. DE LAS SUBCOORDINACIONES Y LAS DIRECCIONES QUE LAS INTEGRAN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO ÚNICO. ATRIBUCIONES GENÉRICAS DE LAS SUBCOORDINACIONES Y DE LAS DIRECCIONES
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 16.
 
-Para una mayor y mejor organización de los trabajos encomendados al Titular, éste se auxiliará en las Subcoordinaciones de Estudios y Proyectos de Inversión y de Desarrollo Regional.
+Para una mayor y mejor organización de los trabajos encomendados al Titular, éste se auxiliará en las Subcoordinaciones de Estudios y Proyectos de Inversión y de Desarrollo Regional, las cuales a su vez se auxiliaran de las Direcciones y demás Unidades Administrativas que sean necesarias para el ejercicio de sus atribuciones.
+
+La Subcoordinación de Estudios y Proyectos de Inversión tendrá bajo su encargo la conducción del estudio de los proyectos presentados ante el Comité Técnico de Revisión y Análisis de Proyectos, la cual se apoyará para el mejor ejercicio de las actividades en las unidades administrativas que la integran. Asimismo la Subcoordinación y sus unidades administrativas podrán participar en el Comité Técnico de Desarrollo Regional.
+
+Por su parte, la Subcoordinación de Desarrollo Regional tendrá bajo su encargo la conducción de los estudios y diagnósticos que deriven de la operatividad del Comité Técnico de Desarrollo Regional, la cual se apoyará para el mejor ejercicio de las actividades en las unidades administrativas que la integran. Asimismo la Subcoordinación de Desarrollo Regional y sus unidades administrativas podrán participar en el Comité Técnico de Revisión y Análisis de Proyectos.
+
+El Comité Técnico de Revisión y Análisis de Proyectos tienen por objeto determinar si un proyecto puede considerarse inicialmente como estratégico y ser aprobado para su evaluación mediante las metodologías formales de Evaluación de Proyectos; y el Comité Técnico de Desarrollo Regional, tiene por objeto dar mayor sustento a la selección de temas y metodologías sobre problemáticas que inciden en el desarrollo regional del Estado de Tabasco, a fin de determinar su importancia y priorización para la realización de los estudios y diagnósticos correspondientes.
+
+Como resultado de la operación de los Comités Técnicos señalados en los párrafos anteriores, se origina el Sistema de Desarrollo Regional y Proyectos Estratégicos, el cual se define como el Conjunto de lineamientos, procedimientos y principios establecidos y regulados por dichos Comités.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
-Las Subcoordinaciones tendrán las siguientes atribuciones genéricas:
+Las Subcoordinaciones y las Direcciones que las integran tendrán las siguientes atribuciones genéricas:
 
-I. Asesorar en el ámbito de su competencia al Titular cuando así lo requiera;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+I. Asesorar en el ámbito de su competencia al superior jerárquico cuando así lo requiera;
 
 II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones de las unidades administrativas a su cargo;
 
-III. Emitir los dictámenes, opiniones e informes que les sean solicitados por el Titular;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-IV. Proporcionar asesoría en el ámbito de su competencia, cuando el Titular así lo acuerde, en asuntos en los que intervengan Dependencias o Entidades de la Administración Pública Estatal;
+III. Emitir los dictámenes, opiniones e informes que les sean solicitados por su superior jerárquico;
 
-V. Representar al Titular ante los órganos de gobierno de las Entidades Paraestatales, Juntas, Comisiones, Comités, Consejos, Órganos Desconcentrados y demás Organismos en los que de acuerdo a sus funciones así se requiera y en aquéllas que le encomiende el Titular;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IV. Proporcionar asesoría en el ámbito de su competencia, cuando su superior jerárquico así lo acuerde, en asuntos en los que intervengan Dependencias o Entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+V. Representar a su superior jerárquico ante los órganos de gobierno de las Entidades Paraestatales, Juntas, Comisiones, Comités, Consejos, Órganos Desconcentrados y demás Organismos en los que de acuerdo a sus funciones así se requiera y en aquéllas que le encomiende el Titular;
 
 VI. Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
-VII. Acordar con el Titular el despacho de los asuntos encomendados a la Subcoordinación e informar oportunamente sobre el trámite de los mismos; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-VIII. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera el Titular.
+VII. Acordar con el su (sic) superior jerárquico el despacho de los asuntos encomendados e informar oportunamente sobre el trámite de los mismos; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+VIII. Las demás que le otorgue el presente Reglamento y los ordenamientos legales aplicables, así como las que le confiera su superior jerárquico.
 
 ## TÍTULO QUINTO. DE LAS FACULTADES ESPECÍFICAS DE LAS SUBCOORDINACIONES Y DIRECCIONES
 
@@ -620,3 +664,9 @@ COORDINADOR GENERAL DE ASUNTOS
 LIC. CARLOS HERNÁNDEZ VIDAL
 
 COORDINADOR GENERAL DE DESARROLLO REGIONAL Y PROYECTOS ESTRATÉGICOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
