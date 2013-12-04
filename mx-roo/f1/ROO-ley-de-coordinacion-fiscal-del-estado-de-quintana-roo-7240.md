@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2011-12-16"
+last_updated: "2013-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -75,7 +75,7 @@ VI.- Señalar las bases para la adhesión de los Municipios al Sistema de Coordi
 
 Rubros que podrán requerir y cobrar los Municipios Coordinados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO DE LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO DE LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -391,11 +391,9 @@ ARTICULO 8ºB.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2011)
 
 Liquidaciones de las participaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-El Gobierno del Estado a través de la Secretaría de Hacienda, una vez identificada la asignación mensual que le corresponde a la Entidad de los Fondos previstos en el artículo 2 y 2-A de la Ley de Coordinación Fiscal Federal, afectará mensualmente la participación que le corresponde a cada Municipio.
+El Gobierno del Estado a través de la Secretaría de Finanzas y Planeación, una vez identificada la asignación mensual que le corresponde a la Entidad de los Fondos previstos en el artículo 2 y 2-A de la Ley de Coordinación Fiscal Federal, afectará mensualmente la participación que le corresponde a cada Municipio.
 
 La liquidación de los ajustes cuatrimestrales y definitivos quedarán sujetos a la normatividad establecida en el Artículo 7º de la Ley Federal en la Materia.
 
@@ -465,19 +463,15 @@ DE LAS REUNIONES EN MATERIA DE COORDINACION.
 
 Objetivos de los órganos de Coordinación:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-El Gobierno del Estado por conducto de la Secretaría de Hacienda; los Ayuntamientos a través de sus Tesorerías Municipales y el Poder Legislativo por medio de su Auditoría Superior del Estado, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán la Comisión Permanente de Funcionarios Fiscales, teniendo los siguientes objetivos:
+El Gobierno del Estado por conducto de la Secretaría de Finanzas y Planeación; los Ayuntamientos a través de sus Tesorerías Municipales y el Poder Legislativo por medio de su Auditoría Superior del Estado, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán la Comisión Permanente de Funcionarios Fiscales, teniendo los siguientes objetivos:
 
 I.- Proponer las medidas que estimen convenientes para mejorar o actualizar en su caso, el Sistema de Coordinación Fiscal del Estado de Quintana Roo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-II.- Vigilar la distribución y liquidación tanto de pagos provisionales como de diferencias en las participaciones anuales que formule la Secretaría de Hacienda.
+II. Vigilar la distribución y liquidación tanto de pagos provisionales como de diferencias en las participaciones anuales que formule la Secretaría de Finanzas y Planeación.
 
 III.- Efectuar en forma permanente estudios de la Legislatura Fiscal Municipal.
 
@@ -495,11 +489,9 @@ PARA CONVOCAR A REUNION.
 
 De las reuniones de los Organismos de Coordinación en el artículo precedente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-Las reuniones se podrán realizar a petición expresa de la Secretaría de Hacienda o de alguno de los Ayuntamientos y se efectuarán cuantas veces sea necesario.
+Las reuniones se podrán realizar a petición expresa de la Secretaría de Finanzas y Planeación o de alguno de los Ayuntamientos y se efectuarán cuantas veces sea necesario.
 
 ### CAPITULO IV
 
@@ -509,11 +501,9 @@ DE LOS ALCANCES POR VIOLACIONES AL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO.
 
 Procedimientos en caso de violaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-Cuando un Municipio adherido al Sistema de Coordinación Fiscal del Estado, contravenga lo establecido por esta Ley o viole el contenido de los Convenios de adhesión al Sistema de Coordinación Fiscal del Estado o al de Colaboración Administrativa, previa opinión de la Comisión Permanente de Funciones Fiscales, será prevenido por la Secretaría de Hacienda para que en un plazo que no exceda de treinta días, adopte las medidas necesarias para corregir las violaciones en que hubiera incurrido, de no hacerlo, se considerará que deja de estar adherido al Sistema de Coordinación Fiscal del Estado.
+Cuando un Municipio adherido al Sistema de Coordinación Fiscal del Estado, contravenga lo establecido por esta Ley o viole el contenido de los Convenios de Adhesión al Sistema de Coordinación Fiscal del Estado o al de Colaboración Administrativa, previa opinión de la Comisión Permanente de Funciones Fiscales, será prevenido por la Secretaría de Finanzas y Planeación, para que en un plazo que no exceda de treinta días, adopte las medidas necesarias para corregir las violaciones en que hubiera incurrido, de no hacerlo, se considerará que deja de estar adherido al Sistema de Coordinación Fiscal del Estado.
 
 El Ejecutivo del Estado hará la declaratoria correspondiente, mediante su publicación en el Periódico Oficial.
 
@@ -533,7 +523,7 @@ IV.- Los activos, pasivos, uso o tenencia de bienes y capitales de comerciantes 
 
 Los Municipios no establecerán bajo ningún título, tasas adicionales, cooperaciones o contribuciones especiales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. EL 15 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. EL 15 DE DICIEMBRE DE 1997)</small>
 
 ### CAPÍTULO V. Del Fondo de Aportación para la Infraestructura Social Municipal
 
@@ -575,23 +565,29 @@ II.- Promover la participación de las comunidades beneficiarias de su destino, 
 
 III.- Informar a sus habitantes, al termino de cada ejercicio, sobre los resultados alcanzados;
 
-IV.- Proporcionar, por conducto de la Secretaría Estatal de Desarrollo Social a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal les sea requerida.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IV. Proporcionar, por conducto de la Secretaría Estatal de Desarrollo Social e Indígena a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal les sea requerida.
 
 V.- Vigilar que los avances físico-financieros se cumplan de conformidad con los programas, proyectos y obras que sean financiados con recursos de este Fondo;
 
 VI.- Apoyar a los Municipios en el desempeño, para alcanzar los objetivos y metas establecidas en el programa de desarrollo institucional; y
 
-VII.- En el caso de incumplimiento o desvío de lo previsto en los programas de desarrollo institucional, girar comunicación a la Secretaria de Hacienda del Gobierno del Estado, a fin de que se tomen las medidas conducentes en tanto persista la anomalía detectada.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+VII. En el caso de incumplimiento o desvío de lo previsto en los programas de desarrollo institucional, girar comunicación a la Secretaría de Finanzas y Planeación, a fin de que se tomen las medidas conducentes en tanto persista la anomalía detectada.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 VIII.- Procurar que las obras que se realicen con los recursos de los fondos sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sustentable.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 24.
+###### ARTÍCULO 24.
 
-Los recursos que se integran del Fondo de Aportaciones para la Infraestructura Social Municipal serán distribuidos directamente a los municipios del Estado a través de la Secretaría de Hacienda, considerando criterios de pobreza extrema, conforme al calendario de enteros en que el Gobierno Federal lo haga y de acuerdo a los coeficientes que obtenga al desarrollar la siguiente fórmula y procedimiento:
+Los recursos que se integran del Fondo de Aportaciones para la Infraestructura Social Municipal serán distribuidos directamente a los municipios del Estado a través de la Secretaría de Finanzas y Planeación, considerando pobreza extrema, conforme al calendario de enteros en que el Gobierno Federal lo haga y de acuerdo a los coeficientes que tenga al desarrollar la siguiente formula y procedimiento:
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 I.- Formula:
 
@@ -607,6 +603,8 @@ j = Hogar en estudio
 
 Esta fórmula representa el Indice Global de Pobreza en un hogar, IGPj´ el cual se conforma con las brechas Pj1, Pj2, Pj3, Pj4, Pj5, de las necesidades básicas a que se refiere la fracción II; sus correspondientes ponderadores son B1= 0.4616, B2= 0.1250, B3= 0.2386, B4= 0.0608, B5= 0.1140.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
 II.- Las necesidades básicas, en el orden en que aparecen en la formula anterior, son las siguientes:
 
 w1= Ingreso per cápita del hogar.
@@ -618,6 +616,8 @@ w3= Disponibilidad de espacio de la vivienda.
 w4= Disponibilidad de drenaje; y
 
 w5= Disponibilidad de electricidad-combustible para cocinar.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 III.- Para cada hogar se estiman las cinco brechas respecto a las normas de pobreza extrema que corresponden a cada una de las necesidades básicas, con base en la siguiente formula:
 
@@ -631,7 +631,11 @@ Zw = Norma establecida para la necesidad básica w.
 
 Xjw = Valor observado en cada hogar j, para la necesidad básica w.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
 IV.- Los resultados de cada una de estas brechas se ubican dentro de un intervalo de -0.5 a 1. Cada brecha se multiplica por los ponderadores establecidos en la fracción I de este artículo para, una vez sumadas, obtener el Indice Global de Pobreza del hogar, que se encuentra en el mismo intervalo. Cabe señalar que para los cálculos subsecuentes, solo se consideran a los hogares cuyo valor se ubique entre 0 y 1, que son aquellos de pobreza extrema.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 V.- El valor del IGP del hogar se eleva al cuadrado para atribuir mayor peso a los hogares más pobres. Después se multiplica por el tamaño del hogar, con lo cual se incorpora el factor poblacional. Con lo anterior se conforma la Masa Carencial del Hogar, determinada por la siguiente fórmula:
 
@@ -678,6 +682,8 @@ PMk= Participación porcentual del Municipio k
 MCMk= Masa Carencial del Municipio k; y
 
 MCE= Masa Carencia Estatal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 Así, la distribución del Fondo de Aportaciones para la Infraestructura Social Municipal se realiza en función de la proporción que corresponde a cada Municipio de la pobreza extrema a nivel Estatal, según lo establecido.
 
@@ -845,7 +851,7 @@ EL C. SECRETARIO DE GOBIERNO
 
 PROFRA. SARA ESTHER MUZA SIMON.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE DICIEMBRE DE 1997.
 
@@ -1026,3 +1032,9 @@ También se consideran como derechos para los efectos de este artículo, las con
 SEGUNDO. - Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- El presente decreto entrará en vigor a partir del 1o. de enero de 2012, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
