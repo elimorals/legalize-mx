@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-04-24"
+last_updated: "2013-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -47,6 +47,12 @@ LEY GENERAL DE SALUD
 ###### ARTICULO 1o.
 
 La presente Ley reglamenta el derecho a la protección de la salud que tiene toda persona en los términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, establece las bases y modalidades para el acceso a los servicios de salud y la concurrencia de la Federación y las entidades federativas en materia de salubridad general. Es de aplicación en toda la República y sus disposiciones son de orden público e interés social.
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 1o. Bis.
+
+Se entiende por salud como un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.
 
 ###### ARTICULO 2o.
 
@@ -2072,11 +2078,11 @@ En el tratamiento de una persona enferma, el médico podrá utilizar recursos te
 
 El genoma humano es el material genético que caracteriza a la especie humana y que contiene toda la información genética del individuo, considerándosele como la base de la unidad biológica fundamental del ser humano y su diversidad.
 
-> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 103 Bis 1.
 
-El genoma humano y el conocimiento sobre este es patrimonio de la humanidad. El genoma individual de cada ser humano pertenece a cada individuo.
+El genoma humano y el conocimiento sobre éste son patrimonio de la humanidad. El genoma individual de cada ser humano pertenece a cada individuo.
 
 > <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -2084,11 +2090,13 @@ El genoma humano y el conocimiento sobre este es patrimonio de la humanidad. El 
 
 Nadie podrá ser objeto de discriminación, conculcación de derechos, libertades o dignidad con motivo de sus caracteres genéticos.
 
-> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 103 Bis 3.
 
-Todo estudio en este campo deberá contar con la aceptación expresa de la persona sujeta al mismo o de su representante legal en términos de la legislación aplicable.
+Todo estudio sobre el genoma humano deberá contar con la aceptación expresa de la persona sujeta al mismo o de su representante legal en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 En el manejo de la información deberá salvaguardarse la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico y prevención, investigación, terapéuticos o cualquier otro propósito, salvo en los casos que exista orden judicial.
 
@@ -3669,6 +3677,10 @@ La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Feder
 ###### ARTICULO 220.
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
+
+La violación a esta disposición será equiparable con el delito de Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
 ### CAPITULO X. Productos de Aseo
 
@@ -7174,6 +7186,14 @@ La mujer casada no podrá otorgar su consentimiento para ser inseminada sin la c
 
 Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, se le aplicará de siete a quince años de prisión.
 
+(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO “EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY”, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 467 Bis.
+
+Al que venda o suministre a menores de edad o incapaces, mediante cualquier forma, substancias que se encuentren comprendidas dentro de los supuestos a que se refieren las fracciones IV y V del artículo 245 de esta Ley, se aplicará de 7 a 15 años de prisión.
+
 ###### ARTICULO 468.
 
 Al profesional, técnico o auxiliar de las disciplinas para la salud, que sin causa legítima se rehuse a desempeñar las funciones o servicios que solicite la autoridad sanitaria en ejercicio de la acción extraordinaria en materia de salubridad general, se le aplicará de seis meses a tres años de prisión y multa por el equivalente de cinco a cincuenta días de salario mínimo general vigente en la zona económica de que se trate.
@@ -7971,3 +7991,21 @@ SEGUNDO. La Secretaría de Salud expedirá el modelo de certificado de nacimient
 TERCERO. La Secretaría de Salud, en coordinación con la Secretaría de Gobernación y las autoridades sanitarias y del Registro Civil de las entidades federativas, promoverá la utilización del certificado de nacimiento.
 
 CUARTO. El Ejecutivo Federal contará con un plazo de 90 días hábiles, a partir de la publicación del presente decreto, para establecer el reglamento correspondiente a la expedición de los certificados de nacimiento.
+
+D.O.F. 4 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 103 BIS 1 Y 103 BIS 3 DE LA LEY GENERAL DE SALUD.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 1°. BIS A LA LEY GENERAL DE SALUD.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 220 Y UN ARTÍCULO 467 BIS A LA LEY GENERAL DE SALUD.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
