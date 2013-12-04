@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-08-19"
+last_updated: "2013-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,37 +21,65 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
+REGLAMENTO DEL PROCEDIMIENTO DE PLEBISCITO Y DE REFERENDO
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 17 de diciembre de 2002.
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
+SESIÓN ORDINARIA DE FECHA
 
-DECRETO NUMERO 78:
+11 DE NOVIEMBRE DE 2002
 
-POR EL QUE SE APRUEBA LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO.
+ACUERDO NÚMERO 121/2002
 
-LA H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
+El Instituto Electoral y de Participación Ciudadana de Coahuila, por unanimidad de votos de los Consejeros Electorales, en presencia de los representantes de los Partidos Políticos asistentes a la sesión, con fundamento en lo dispuesto por los artículos 127 y Segundo Transitorio de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza, ACUERDA: aprobar en sus términos el Reglamento del Procedimiento de Plebiscito y Referendo y el Reglamento de los Consejos de Participación Ciudadana en los términos que establece la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
 
-D E C R E T A:
+Instrumentos que se anexan al cuerpo de la presente acta para todos los efectos legales a que haya lugar.
 
-LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO.
+Acuerdo que en esta misma fecha se notifica fijándose cédula en los estrados de este Instituto, en los términos del artículo 34 de la Ley de Medios de Impugnación en Materia Político Electoral y de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
 
-## TITULO I. GENERALIDADES
+Se certifica según lo estipulado en el artículo 93, fracciones VII y XV de la Ley del Instituto Electoral y de Participación Ciudadana para el Estado de Coahuila.
 
-### CAPITULO UNICO. PRINCIPIOS GENERALES
+LIC. HOMERO RAMOS GLORIA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+PRESIDENTE
 
-###### ARTICULO 1o.
+LIC. MA. GUADALUPE HERNÁNDEZ B.
 
-La Hacienda Pública del Estado de Quintana Roo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones federales y otros que anualmente se establezcan en la Ley de Ingresos del Estado de Quintana Roo.
+SECRETARIA TÉCNICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+REGLAMENTO DEL PROCEDIMIENTO DE PLEBISCITO Y DE REFERENDO
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+## TITULO PRIMERO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1º.
+
+El presente reglamento es de orden público y de aplicación general y tiene por objeto regular los procedimientos de plebiscito y de referendo, el cual se expide conforme a lo dispuesto por el artículo 127 de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+###### ARTÍCULO 2°.
+
+Para los efectos de este reglamento se entiende por:
+
+I. Ley del Instituto: La Ley del Instituto Electoral y de Participación Ciudadana para el Estado de Coahuila.
+
+II. Ley de Participación Ciudadana: La Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
+
+III. Ley de Instituciones: La Ley de Instituciones Políticas y Procedimientos Electorales para el Estado de Coahuila.
+
+IV. Instituto: El Instituto Electoral y de Participación Ciudadana de Coahuila.
+
+V. Consejo General: El Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila.
+
+VI. Comisión: Comisión de Participación Ciudadana del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila.
+
+###### ARTÍCULO 3°.
+
+La interpretación de las disposiciones de este reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo en todo momento a los principios de constitucionalidad, legalidad, imparcialidad, objetividad, certeza e independencia.
+
+Las situaciones no previstas en este reglamento serán resueltos por el Consejo General.
 
 ###### ARTICULO 2o.
 
@@ -61,29 +89,55 @@ Los ingresos fiscales y los no tributarios que se establecen en este ordenamient
 
 La Ley de ingresos que anualmente expide el Congreso Local, como ordenamiento especial, priva sobre el contenido de esta ley.
 
-###### ARTICULO 4o.
+###### ARTÍCULO 4º.
 
-Cuando en esta ley se tomen como base para el pago de los créditos fiscales a cargo de los sujetos pasivos, los ingresos, se entenderá que quedan comprendidos tanto los que se perciban en efectivo como en especie.
-
-Cuando en esta Ley se haga mención a las siglas S.M.G., se entenderá que se refiere al salario mínimo general vigente en la entidad.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-La recaudación y administración de las contribuciones establecidas en esta ley, es de la competencia de la Secretaría de Hacienda, sus dependencias, órganos auxiliares y las que autorice el Ejecutivo del Estado.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-La (sic) percepciones derivadas de las funciones del Poder Judicial, comprendidas en la legislación aplicable, serán recaudados y administradas por la Secretaría de Hacienda del Estado.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Los integrantes del Consejo General vigilarán la aplicación y la observancia de este reglamento que contiene las bases para el procedimiento del plebiscito y de referendo, el cual tenderá a promover la consulta para la toma de decisiones de los ciudadanos electores coahuilenses.
 
 ###### ARTICULO 4-A.
 
 Las violaciones a las disposiciones expresas en este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código Fiscal del Estado.
 
-## TITULO II. DE LOS IMPUESTOS
+## TITULO SEGUNDO
 
-### CAPITULO I. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR Y BIENES MUEBLES USADOS ENTRE PARTICULARES
+### CAPÍTULO PRIMERO. GENERALIDADES DEL PLEBISCITO
+
+###### ARTÍCULO 5°.
+
+El plebiscito es la consulta mediante la cual los ciudadanos electores coahuilenses aprueban o rechazan las decisiones del Ejecutivo del Estado o de los Ayuntamientos.
+
+El plebiscito estatal se circunscribirá a las decisiones del Ejecutivo del Estado que sean trascendentales para la vida pública de la entidad.
+
+El plebiscito municipal se circunscribirá a las decisiones de los ayuntamientos del Estado que sean trascendentales para la vida pública del municipio de que se trate.
+
+El plebiscito procederá cuando se den las condiciones a que se refiere este reglamento y cuando se refiera a hechos de las autoridades y no a actos normativos.
+
+###### ARTÍCULO 6°.
+
+Los sujetos facultados para solicitar el plebiscito estatal son:
+
+I. El tres por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de sus credenciales de elector.
+
+El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral estatal.
+
+II. El titular del Poder Ejecutivo del Estado.
+
+III. El cincuenta por ciento de los miembros del Congreso del Estado.
+
+IV. La mitad más uno de los Ayuntamientos del Estado. En este caso, se requerirá que cada Ayuntamiento apruebe la solicitud con la mitad más uno de sus miembros.
+
+###### ARTÍCULO 7°.
+
+Los sujetos facultados para solicitar el plebiscito municipal son:
+
+I. En los municipios cuyo número de electores sea de hasta diez mil, el cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate. En los municipios que tengan más de diez mil y hasta veinte mil electores, el treinta por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate. Los municipios que tengan más de veinte mil y hasta cincuenta mil electores, el veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate En los municipios que tengan más de cincuenta mil y hasta cien mil, el diez por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate. En los municipios cuyo número de electores sea mayor a cien mil el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate.
+
+El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral estatal.
+
+II. El titular del Poder Ejecutivo del Estado.
+
+III. Las dos terceras partes de los miembros del Congreso del Estado.
+
+IV. El Presidente municipal o la mitad más uno de los miembros del Ayuntamiento respectivo.
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
@@ -215,425 +269,361 @@ II.- A falta de precio de la operación se tomará como base el valor del avalú
 
 Este impuesto se determinará aplicando a la base gravable la tasa del 1% tratándose de vehículos destinados para uso particular y el 0.5% tratándose de vehículos destinados para servicio público.
 
+###### ARTÍCULO 9°.
+
+Los sujetos facultados para solicitar el referendo son:
+
+I. El tres por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de sus credenciales de elector.
+
+El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral estatal.
+
+II. El titular del Poder Ejecutivo del Estado.
+
+III. El cincuenta por ciento de los miembros del Congreso del Estado.
+
+IV. La mitad más uno de los Ayuntamientos del Estado. En este caso, se requerirá que cada Ayuntamiento apruebe la solicitud con la mitad más uno de sus miembros.
+
+TITULO TECERO (SIC)
+
 #### SECCION CUARTA. DE LAS OBLIGACIONES Y DEL PAGO
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 10.
+###### ARTÍCULO 10°.
 
-Los sujetos del impuesto que regula este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del Artículo 7º de esta ley, además de las obligaciones establecidas en el Código Fiscal del Estado, tendrán las siguientes:
+El procedimiento del plebiscito o del referendo, se sujetará a las bases siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+I. El Instituto se encargará de preparar, organizar, vigilar, computar y declarar los efectos del plebiscito o del referendo.
 
-a).- Exhibir el original del documento que ampare la propiedad del vehículo objeto de la enajenación, debidamente endosado especificando la fecha de enajenación, nombre, Registro Federal de Contribuyentes y domicilio del adquiriente; además deberá proporcionar copias simples del mismo por ambos lados, dentro de los treinta días siguientes a la fecha del endoso o a la de adquisición.
+En todo caso, el Instituto estará facultado para emitir los acuerdos que estime necesarios para el desarrollo del procedimiento correspondiente.
 
-b).- Presentar el comprobante de domicilio del adquiriente, que a criterio de la Secretaría de Hacienda se solicite.
+II. El Instituto podrá auxiliarse de las autoridades estatales y/o municipales, de los consejos de participación, de las instituciones de educación superior, de investigación, de organismos, asociaciones u organizaciones públicas, sociales o civiles.
 
-Para los efectos de este impuesto, se considera domicilio fiscal el manifestado ante la Secretaría de Hacienda del Estado, al realizar los trámites establecidos en los artículos 176 y 179 de esta ley.
+El Ejecutivo del Estado y los Ayuntamientos deberán prestar al Instituto el apoyo y auxilio necesarios para llevar a cabo la consulta respectiva.
 
-###### ARTICULO 11.
+###### ARTÍCULO 11.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+Todo procedimiento del plebiscito o del referendo, se sujetará a los límites y condiciones siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+I. En ningún caso, el procedimiento procederá noventa días naturales antes del inicio del proceso electoral local o noventa días después de su terminación, conforme a los plazos que establezca la ley de la materia.
 
-###### ARTICULO 12.
+II. Los procedimientos se programarán en la medida en que exista la capacidad real y presupuestal del Instituto para organizarlos, de acuerdo a su naturaleza, complejidad, plazos y etapas previstas en este reglamento; pero en todo caso, no podrán exceder de dos procedimientos por año sean plebiscitos y/o referendos.
 
-Los vehículos de motor y bienes muebles usados quedan afectos preferentemente al pago del Impuesto que regula este capítulo.
+###### ARTÍCULO 12.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+No podrán realizarse en un en un solo procedimiento dos o más consultas, salvo que el Instituto autorice llevar a cabo los plebiscitos y/o referendos en un solo procedimiento bajo las modalidades que juzgue pertinentes, según su naturaleza, complejidad y economía procesal.
 
-###### ARTICULO 13.
+Tratándose de solicitudes sobre un mismo tema o relacionados en forma lógica, el Instituto podrá acumularlos en un solo procedimiento.
 
-Las dependencias oficiales competentes y sus oficinas foráneas, no tramitarán solicitud de alta, baja o traspaso de vehículos de motor usados, por los cuales no se hubiese pagado el impuesto cuando éste se cause en los términos prescritos por este capítulo.
+###### ARTÍCULO 13.
+
+Para llevar a cabo los procedimientos de plebiscito y referendo el Instituto contará con diez Comités Regionales en Consulta, mismos que estarán divididos en:
+
+1. Región Norte: Piedras Negras (Cabecera), Acuña, Jiménez, Guerrero e Hidalgo.
+
+2. Región 5 Manantiales: Allende (Cabecera), Morelos, Nava, Villa Unión y Zaragoza.
+
+3. Región Carbonífera: Sabinas (Cabecera), Múzquiz, San Juan de Sabinas, Juárez y Progreso.
+
+4. Región Centro 1: Monclova (Cabecera), Candela, Castaños, Escobedo.
+
+5. Región Centro 2: Frontera (Cabecera), Nadadores, San Buenaventura y Abasolo.
+
+6. Región Desierto: Cuatrociénegas (Cabecera), Ocampo, Sacramento y Lamadrid.
+
+7. Región Laguna 1: Torreón (Cabecera), Matamoros y Viesca.
+
+8. Región Laguna 2: San Pedro (Cabecera), Francisco I. Madero y Sierra Mojada.
+
+9. Región Sureste 1: Saltillo (Cabecera), Arteaga y Ramos Arizpe.
+
+10. Región Sureste 2: Parras (Cabecera) y General Cepeda.
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 14.
+###### ARTÍCULO 14.
 
-Quedan exentos de este impuesto la enajenación, cesión o transmisión de derechos de vehículos de motor y de bienes muebles usados, que realicen los Gobiernos Federal, Estatal o Municipales.
+Los Comités Regionales de Participación Ciudadana son los órganos del Instituto encargados de la organización, preparación, desarrollo y vigilancia, dentro de su circunscripción, de los procedimientos de plebiscito y referendo.
 
-Asimismo no estarán obligados al pago de este impuesto las personas físicas o morales que adquieran vehículos automotores y bienes muebles usados como consecuencia de la constitución o disolución de la sociedad conyugal, el cambio de las capitulaciones, matriculaciones o la constitución de la copropiedad.
+###### ARTÍCULO 15.
 
-###### ARTICULO 15.
+Cada uno de los Comités Regionales de Consulta estará integrado por un Presidente, un Secretario y un Auxiliar, quienes a su vez contarán con el apoyo de una coordinación municipal que estará integrada por un coordinador y por la cantidad de capacitadores que se requiera en atención al número de ciudadanos electores coahuilenses de cada municipio.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+Para efectos de procedimientos de plebiscito y/o referendo que se realicen exclusivamente en el ámbito municipal, se establecerán y entrarán en funciones Comités Municipales de Consulta que estarán integrados de igual manera que los Comités Regionales de Consulta.
 
 #### SECCION SEXTA. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTICULO 16.
+###### ARTÍCULO 16.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+Los miembros de cada Comité Regional y Municipal de Consulta serán designados por el Consejo General a propuesta de la Comisión de Participación Ciudadana, considerando preferentemente a los integrantes de los Comités Municipales y Distritales Electorales.
 
-### CAPITULO II. DEL IMPUESTO SOBRE PRODUCTOS Y RENDIMIENTOS DE CAPITAL
+### CAPÍTULO SEGUNDO. GENERALIDADES DEL REFERENDO
+
+###### ARTÍCULO 8°.
+
+El referendo es la consulta mediante la cual los ciudadanos electores coahuilenses aprueban o rechazan una iniciativa de ley o decreto o, en su caso, una ley o decreto del Poder Legislativo del Estado.
+
+El objeto del referendo será:
+
+I. Determinar la creación, modificación, adición, derogación o abrogación de la norma o normas de la ley o decreto materia del referendo.
+
+II. Determinar la observancia o inobservancia de la norma o normas de la ley o decreto aprobado por el poder Legislativo del Estado.
 
 #### SECCION PRIMERA. DEL OBJETO
 
-###### ARTICULO 17.
+###### ARTÍCULO 17.
 
-Es objeto de este impuesto la percepción de ingresos o el derecho a obtenerlos dentro del territorio del Estado, o de fuentes de riqueza en el mismo por concepto de:
+Los Comités Regionales y Municipales de Consulta tendrán las atribuciones siguientes:
 
-I.- Intereses simples o capitalizados sobre préstamos en general y de adeudos que sean reconocidos;
+I. Observar la ley y los acuerdos que dicte el Consejo General en el ámbito de su competencia.
 
-II.- Intereses por cantidades que se adeuden sobre el precio en contratos de promesa de venta, de compraventa con reserva de dominio o de compraventa a plazos;
+II. Intervenir, dentro de su jurisdicción, en la preparación, organización, desarrollo y vigilancia de los procedimientos de plebiscito y de referendo.
 
-III.- Intereses sobre las cantidades anticipadas a cuenta de precio de toda clase de bienes o derechos;
+III. Ejecutar el programa de capacitación electoral a ciudadanos que integren las mesas receptoras de consulta ciudadana.
 
-IV.- Intereses provenientes del contrato de cuenta corriente;
+IV. Seleccionar los lugares en que habrán de ubicarse las mesas receptoras de consulta ciudadana en cada una de las secciones de su municipio.
 
-V.- Otorgamiento de fianzas;
+V. Entregar a los presidentes de las mesas receptoras de consulta ciudadana, el equipo, material y la documentación necesaria para el debido cumplimiento de sus funciones.
 
-VI.- Descuentos o anticipos sobre títulos o documentos;
-
-VII.- Usufructo de capitales impuestos a rédito;
-
-VIII.- Premios, primas, regalías o retribuciones de toda clase, provenientes de la explotación de patentes de invención y de marcas comerciales e industriales.
-
-También se considerarán como percepciones de las enumeradas en esta fracción, las que obtengan los Titulares de patentes o marcas mediante la fijación de un sobre-precio a las mercancías amparadas con dichas patentes o marcas;
-
-IX.- El arrendamiento o subarrendamiento de inmuebles destinados a casa habitación que no se proporcionen amueblados ni destinen o utilicen como hoteles o casas de hospedaje, así mismo los destinados a la Industria y al Comercio.
-
-En el caso de subarrendamiento de bienes inmuebles, para determinar la base gravable se observarán las siguientes reglas:
-
-a).- Cuando se subarriende en su totalidad el bien arrendado, el impuesto se causará sobre la diferencia que resulte entre la cantidad que el arrendatario pague al arrendador y lo que reciba por el subarrendamiento y
-
-b).- Cuando el arrendatario tenga en arrendamiento la totalidad del inmueble y solo subarriende parte, o tenga en arrendamiento parte del predio y subarrendé solo una fracción de esa parte, se obtendrán los siguientes datos:
-
-1.- Importe de la renta que pague el arrendatario;
-
-2.- Importe de lo que perciba el arrendatario por el subarrendamiento;
-
-3.- Superficie total rentada, y
-
-4.- Superficie subarrendada.
-
-El importe de la renta se dividirá entre el número de metros cuadrados que el arrendatario tenga en arrendamiento, y el cociente se multiplica por el número de metros cuadrados que tenga la superficie subarrendada; el producto se restará de lo que perciba por el subarrendamiento y será la base gravable;
-
-X.- De operaciones en las que el precio a plazos sea mayor que el precio de contado, caso en el cual la diferencia entre uno y otro será objeto del impuesto;
-
-XI.- De intereses y demás percepciones a que se refiere este capítulo, en los casos de fideicomiso o de cualquiera otras operaciones de inversión, aún cuando el pago se haga por conducto de instituciones de crédito, siempre y cuando esos intereses y percepciones no sean a cargo del patrimonio de dichas instituciones, y
-
-XII.- De cualesquiera otras operaciones o inversiones de capital, sin importar el nombre con que se les designe, siempre que los ingresos que se obtengan de las mismas, no sea objeto de algún otro impuesto del Estado, ni estén expresamente exceptuados por la Ley.
-
-Para los efectos de este artículo se presumirá, salvo prueba en contrario, que existe derecho a percibir los intereses a que se refieren las fracciones l, II, III, IV, y XI de este artículo, no obstante que en los documentos en que se hubieran hecho constar las operaciones relativas no aparezca estipulado ningún interés o cuando se determine que no causaron intereses, y en estos casos el ingreso gravable será el que resulte de aplicar al capital el interés legal que establece el Código Civil del Estado de Quintana Roo por falta de pago oportuno.
+VI. Las demás que les confiera este reglamento u otras disposiciones aplicables, o el Consejo General.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-###### ARTICULO 18.
+###### ARTÍCULO 18.
 
-Es sujeto de este impuesto, el acreedor, vendedor, cuentacorrentista, inversionista, usufructuario, propietario, arrendador o subarrendador, según el caso. En consecuencia, es nulo todo pacto o convenio en contrario, cualquiera que sea la fecha y forma en que se hubiera hecho o se hiciere.
+Toda solicitud de plebiscito o referendo que se presente ante el Instituto en los términos previstos en este reglamento y demás disposiciones aplicables, deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I. Presentarse por escrito, en los formatos que al efecto autorice el Instituto.
 
-###### ARTICULO 19.
+II. Precisar la decisión de gobierno materia del plebiscito, y en el caso del referendo precisar la iniciativa de ley o decreto o, en su caso, la ley o decreto o el artículo o artículos que sean materia del mismo.
 
-Los deudores, sean empresarios, explotadores, arrendatarios o subarrendatarios que paguen los intereses, rentas y demás percepciones gravadas por este impuesto, tendrán la obligación de exigir al acreedor, como requisito previo para cubrir las prestaciones mencionadas, que les compruebe con los recibos oficiales expedidos por la Secretaría de Hacienda del Estado, encontrarse al corriente en el pago de este impuesto y, en caso de que no se haga tal comprobación, estarán obligados a retener el impuesto correspondiente y a enterarlo en la oficina Recaudadora de Rentas de su jurisdicción, dentro del plazo establecido para el cumplimiento de la prestación.
+III. Para el caso del plebiscito se deberán exponer los motivos, razones y fundamentos por los cuales, la decisión se considera trascendental para la vida pública del Estado o del Municipio de que se trate.
 
-En todos los casos, los mencionados deudores serán solidariamente responsables del pago de este impuesto.
+IV. Para el caso del referendo señalar las razones, motivos y fundamentos por los cuales la iniciativa correspondiente, la ley o el decreto o parte de su articulado deben someterse a referendo, así como explicar cuáles serán las implicaciones de la ley, cómo funcionará y a quiénes afectará y el texto oficial de la iniciativa, creación, modificación, adición, derogación o abrogación de la norma o normas de la ley o decreto, objeto del procedimiento de referendo.
 
-###### ARTICULO 20.
+V. Autoridad o autoridades de las que emana la materia del plebiscito o de referendo.
 
-Para los efectos de este impuesto se considerará:
+VI. Cuando se presente por los ciudadanos, incluir en los formatos aprobados por la Comisión, la relación que contenga el nombre completo, el número de folio de la credencial para votar con fotografía, la clave de elector, la sección electoral a la que pertenecen y la firma de cada elector solicitante que concuerde con la que aparece en la credencial para votar. En este caso los solicitantes deberán señalar un representante y domicilio para oír o recibir toda clase de documentos y/o notificaciones.
 
-I.- Que obtienen ingresos gravables las personas que celebren alguno de los actos o contratos a que se refiere el artículo 17, aún cuando por no haberse vencido el plazo convenido o por cualquier otra causa, el pago de la prestación gravable no sea exigible;
+Para los efectos legales a que haya lugar, se entenderá que el representante podrá realizar todos los actos necesarios para tramitar el procedimiento correspondiente.
 
-II.- Que se obtienen ingresos gravables en el Estado, por alguno de los conceptos previstos en el artículo 17 cuando el acreedor tenga su residencia en el mismo Estado, aún cuando el pago se obtenga fuera de él o en el contrato respectivo se estipule que el pago se haga fuera del propio Estado, y
+###### ARTÍCULO 19.
 
-III.- Que se obtienen ingresos gravables de fuentes de riqueza en el Estado:
+La solicitud para promover los procedimientos de referendo y plebiscito, presentados ante el Instituto por el titular del Poder Ejecutivo del Estado, el Congreso del Estado, los Presidentes Municipales, y los Ayuntamientos, deberá contener cuando menos:
 
-a).- Cuando el deudor resida en él.
+I. Presentarse por escrito en los formatos que al efecto autorice el Instituto.
 
-b).- Cuando el pago de los intereses gravables esté garantizado con bienes ubicados en el Estado, y
+II. Datos de la autoridad que lo promueve. En el caso de tratarse del Congreso del Estado o de los Ayuntamientos, debe agregarse además el acuerdo que apruebe la promoción del procedimiento respectivo.
 
-c).- Cuando el capital de que provengan esté invertido en el Estado.
+III. El precepto legal en el que se fundamente su solicitud.
+
+IV. Los temas de votación, los cuales deben incluir materias, actividades, acciones, proyectos y los demás datos que sirvan para identificar la materia del plebiscito o del referendo.
+
+V. Especificación precisa y detallada de la ley, reglamento o decreto que será objeto de referendo o en su caso, el acto de autoridad concreto a realizarse, que será objeto del plebiscito.
+
+VI. Autoridad o autoridades de las que emana la materia del referendo o del plebiscito.
+
+VII. Exposición de motivos, la cual debe contener en forma precisa y detallada las razones por las cuales se considera necesario realizar el procedimiento ya sea de referendo o de plebiscito.
+
+VIII. Nombre y firma del titular del Ejecutivo, del Presidente y de los Secretarios del Congreso del Estado o del Presidente Municipal, de los integrantes del Ayuntamiento y del servidor público encargado de la Secretaría del Ayuntamiento, según sea el caso.
+
+###### ARTÍCULO 20.
+
+Una vez presentada la solicitud, ya sea del plebiscito o del referendo, podrá operar el desistimiento para lo cual el solicitante debe necesariamente motivar tal decisión. El desistimiento podrá hacerse valer hasta diez días naturales antes de la fecha del procedimiento.
 
 #### SECCION TERCERA. DE LA BASE
 
-###### ARTICULO 21.
+###### ARTÍCULO 21.
 
-La base gravable de este impuesto será el importe de los ingresos obtenidos por cualquiera de los conceptos a que se refiere el artículo 17.
+El Instituto acordará el procedimiento que deba seguirse para la verificación de la autenticidad de las firmas de los ciudadanos que respaldan y apoyan la solicitud respectiva. Dicho procedimiento se realizará invariablemente de manera aleatoria y podrá adoptar técnicas de muestreo científicamente sustentadas.
 
-Tratándose de los casos señalados en la fracción IX del artículo 17, la base gravable será el valor de la renta mensual estipulada en el contrato respectivo.
+###### ARTÍCULO 22.
 
-Se estimarán como intereses las indemnizaciones o penas convencionales que pacten los contratantes, sin que importe el nombre con el que se le designe.
+Cuando se presenten dos o más solicitudes de plebiscito y/o de referendo, el Instituto las tramitará de la siguiente manera:
 
-En este último caso la base gravable se determinará en la forma siguiente:
+I. La preferencia del procedimiento se regirá por su oportunidad en la presentación.
 
-I.- Cuando el deudor se obligue a devolver una cantidad mayor a la recibida, la diferencia se considerará como el interés del capital, y sobre esa diferencia se causará el impuesto, y
+II. Si se trata de solicitudes ciudadanas y/o gubernamentales presentadas al mismo tiempo, se dará preferencia a la instancia ciudadana siempre que se cumpla en tiempo y forma el porcentaje ciudadano requerido por este reglamento.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+III. Si se trata de dos solicitudes ciudadanas presentas al mismo tiempo, se preferirá aquella que tenga mayor apoyo ciudadano.
 
-II.- En los casos de Remate Judicial o Administrativo, por el que se adjudiquen bienes inmuebles y sirva de base como precio del remate un valor inferior a la suerte principal, la Secretaría de Hacienda del Estado estimará como base para el cobro de este impuesto, la diferencia que exista entre el capital invertido y el valor comercial del inmueble.
+IV. Por excepción en todos los casos previstos en las fracciones que anteceden, el Instituto podrá declarar el trámite preferente del plebiscito y/o referendo basado en el criterio más trascendental para el interés público, según los lineamientos siguientes:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+1. La naturaleza del tema o problema comunitario.
 
-###### ARTICULO 22.
+2. Su impacto en el desarrollo comunitario sustentable.
 
-La Secretaría de Hacienda del Estado llevará un padrón en el que se registren los nombres de los contribuyentes y todos los datos necesarios para la determinación del nacimiento, modificación y extinción de los créditos fiscales, por concepto del impuesto a que este capítulo se refiere, así como las bases para su recaudación y los demás datos que se estimen necesarios para la eficaz administración del citado impuesto.
+3. La premura o urgencia de resolver el asunto.
+
+4. El ámbito de comprensión dentro de la comunidad.
 
 #### SECCION CUARTA. DE LA TASA
 
-###### ARTICULO 23.
+###### ARTÍCULO 23.
 
-Este impuesto se determinará aplicando a la base gravable, señalada en el artículo 21, la tasa del 1.5%.
+El Instituto por conducto de sus órganos internos, procederá a registrar el texto, asegurándose de que la proposición no sea confusa y asegurando, con las medidas pertinentes, que el mismo no sea alterado o modificado una vez que se ha registrado, así mismo se le asignará un número consecutivo de registro a la solicitud, el cual indicará el orden en que estos han sido presentados y la fecha de su inscripción.
 
 #### SECCION QUINTA. DEL PAGO
 
-###### ARTICULO 24.
+###### ARTÍCULO 24.
 
-Este impuesto deberá pagarse mensualmente, dentro de los días primero al veinte del mes siguiente al en que se hubiere causado.
+Una vez presentada la solicitud, el Instituto a través de la Comisión determinará si es trascendental para el orden público o de interés social:
 
-Cuando de acuerdo con lo convenido en el contrato, el acreedor obtenga intereses por períodos mayores a un mes, se hará el cálculo de las percepciones que correspondan a un mes, a fin de que el pago del impuesto se haga mensualmente en los términos que señala el párrafo anterior.
+I. La ley, el reglamento o decreto en el caso del referendo; y
 
-En los casos de contratos de cuenta corriente o de cualesquiera otros en que no sea posible determinar anticipadamente, ni el monto de los ingresos, ni quien sea el contribuyente, el pago se hará dentro de los treinta días naturales siguientes al corte de la cuenta o a la fecha en que deba definirse quien es el acreedor y el importe de los ingresos.
+II. Las propuestas de decisión o actos del Ejecutivo del Estado y los actos o disposiciones de carácter administrativo, en el ámbito municipal, en el caso del plebiscito.
 
-###### ARTICULO 25.
+###### ARTÍCULO 25.
 
-Salvo pacto expreso en contrario, toda percepción obtenida por el acreedor se considerará aplicada preferentemente a intereses vencidos.
+Dentro de los veinte días siguientes de presentada la solicitud del plebiscito o del referendo, el Instituto decidirá la procedencia del plebiscito o del referendo, bajo las siguientes reglas:
 
-Cuando los pagos efectuados deban aplicarse de acuerdo con el documento constitutivo de la operación, parte al capital y parte a intereses, el impuesto sólo se causará sobre estos últimos, observándose, en su caso, lo dispuesto por el artículo 23.
+I. Pondrá sin demora a la vista la solicitud en un lugar de su oficina visible al público, para que cualquier ciudadano y/o autoridad estatal o municipal manifieste lo que a su juicio proceda, en un término que no excederá de tres días hábiles contado (sic) a partir de la fecha de la colocación de la solicitud.
 
-Las remisiones de acuerdos que comprenden la totalidad o parte de los intereses vencidos, no surtirán efectos fiscales y, por lo mismo, se estimará en todo caso que la cancelación de un crédito implica el pago total de los intereses vencidos, sobre cuyo monto deberá pagarse el impuesto correspondiente.
+En el caso de las autoridades estatales o municipales cuyos actos o decisiones se propongan someter al plebiscito o referendo, el Instituto deberá enviarles una copia de la solicitud de que se trate dentro de los tres días hábiles siguiente de haberla recibido, para que manifieste lo que a su derecho convenga dentro de los tres días hábiles siguientes al de la notificación.
 
-Cuando se revoque o rescinda un contrato a plazo fijo, del que se deriven ingresos de los gravados por este capítulo, el impuesto sólo se causará sobre los ingresos que realmente se perciban de acuerdo con el convenio que extinguió la obligación.
+II. En caso de que la solicitud sea vaga, obscura o incompleta, el Instituto requerirá a los solicitantes para que subsanen la irregularidad dentro de los tres días hábiles siguientes. Hecho lo cual, el Instituto resolverá lo que conforme a derecho proceda.
 
-###### ARTICULO 26.
+###### ARTÍCULO 26.
 
-El pago de este impuesto sólo se suspenderá a solicitud del contribuyente, cuando por falta de pago de las cantidades que tenga derecho a obtener, haya demandado judicialmente al deudor el cumplimiento de su obligación.
+La procedencia del plebiscito suspenderá la ejecución y/o la implementación de la decisión de gobierno del Ejecutivo del Estado o del Ayuntamiento hasta en tanto se conozca los resultados del mismo. El plebiscito no procederá contra decisiones ejecutadas y/o implementadas.
 
-Al solicitar el contribuyente la suspensión, deberá:
+###### ARTÍCULO 27.
 
-I.- Comprobar, por medio de la copia de la demanda sellada por el juzgado respectivo, haber promovido el juicio correspondiente;
+La procedencia del referendo para los efectos previstos en la fracción I del artículo 8 del presente reglamento, no suspenderá el trámite legislativo de la iniciativa de ley o decreto hasta en tanto se conozcan los resultados del mismo. En el caso previsto en la fracción II del artículo 8 de este reglamento, el Congreso del Estado deberá legislar las disposiciones transitorias conducentes en la ley o decreto aprobado materia del referendo.
 
-II.- Acreditar estar al corriente en el pago de este impuesto hasta el mes en que se presente la solicitud de suspensión, y
+###### ARTÍCULO 28.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Garantizar el interés fiscal, cuyo monto fijará la Secretaría de Hacienda del Estado, mientras obtiene el pago de los ingresos sobre los que se causa el impuesto y se cubra éste o se cancele la cuenta respectiva por acuerdo de la misma Secretaría, a petición del contribuyente, por la imposibilidad debidamente comprobada de hacer efectivo el cobro.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-También podrá suspenderse el pago de este impuesto a solicitud del contribuyente, cuando ante la Secretaría de Hacienda del Estado se compruebe que no se han recibido ingresos gravables por causas no imputables al mismo contribuyente. En este caso la suspensión se concederá previo el cumplimiento de las condiciones establecidas en las fracciones II y III anteriores.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-###### ARTICULO 27.
-
-Si después de suspenderse el cobro de este impuesto en los términos del artículo anterior, el contribuyente percibe alguna cantidad en pago total del adeudo, quedará sin efecto la suspensión acordada a partir de la fecha del pago. Al efecto, el mismo contribuyente estará obligado a dar aviso de ello a la Secretaría de Hacienda del Estado y a cubrir el impuesto dentro del término de quince días hábiles siguientes a la fecha en que reciba el pago.
-
-Igual aviso al señalado en el párrafo anterior deberá dar el contribuyente si recibe algún pago parcial en cuyo caso cubrirá el impuesto correspondiente dentro del mismo término. En este caso, la suspensión subsistirá por lo que hace al adeudo insoluto.
-
-###### ARTICULO 28.
-
-Cuando se haya suspendido el cobro de este impuesto, de acuerdo con lo establecido en el artículo 26, y el actor se desiste de la demanda o haya omitido hacer en tiempo las promociones procedentes, y como consecuencia de ello se haya perjudicado su acción, quedará sin efecto la suspensión y será exigible el pago del impuesto correspondiente sobre la totalidad de los ingresos que el contribuyente haya tendido (sic) derecho a percibir de acuerdo con las estipulaciones del contrato.
+El Instituto decretará de oficio o a petición de parte, la improcedencia del procedimiento del plebiscito o del referendo.
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
-###### ARTICULO 29.
+###### ARTÍCULO 29.
 
-Los contribuyentes de este impuesto están obligados:
+Las causas de improcedencia del plebiscito son:
 
-I.- A presentar una manifestación por escrito de la celebración del acto o contrato por el que se derive el derecho a obtener ingresos por cualquiera de los conceptos referidos en el artículo 17. Dicha manifestación deberá contener los siguiente (sic) datos:
+I. Cuando la decisión no sea trascendental para el orden público o interés social del estado o del municipio.
 
-a).- Nombre y domicilio del acreedor y del deudor;
+II. Cuando, en los casos en que la solicitud fuere realizada por ciudadanos, las firmas de apoyo no sean auténticas, los ciudadanos firmantes no estén inscritos en el listado nominal de electores o los datos vaciados en el escrito no concuerden con los datos registrados en la lista nominal de que se trate.
 
-b).- Nombre y número del Notario ante quien se haya otorgado la escritura, en su caso;
+III. Cuando el objeto del plebiscito se haya consumado por haberse ejecutado el acto o decisión por la autoridad competente y, por tanto, no puedan restituirse las circunstancias a la situación que guardaban con anterioridad.
 
-c).- Naturaleza de la operación o del contrato de que se trate y fecha de su celebración o, en su caso, fecha de la autorización definitiva de la escritura respectiva;
+IV. Cuando la solicitud no cumpla con los requisitos para ejercer el derecho de petición.
 
-d).- Importe del capital invertido y monto de los ingresos que el acreedor tenga derecho a percibir y sobre los cuales deba causarse el impuesto;
+V. Cuando la solicitud no cumpla con los requisitos que establece el presente reglamento.
 
-e).- Tasa de los intereses adicionales o moratorios, indemnizaciones o penas convencionales estipuladas, en su caso;
+VI. Cuando se trate de las materias siguientes:
 
-f).- Plazo señalado para el pago de las prestaciones sobre las cuales se causa el impuesto;
+1. Régimen interno de la administración pública estatal o municipal.
 
-g).- Plazo o fecha fijados para la extinción del acto o contrato o indicación de que se celebró por tiempo indefinido;
+2. Los actos cuya realización sea obligatoria en los términos de las leyes aplicables.
 
-h).- Especificación en su caso, de los bienes que constituyan la garantía del acto o contrato;
+3. Los nombramientos o destituciones de funcionarios públicos del gobierno del estado o del municipio.
 
-i).- Tratándose de contratos de arrendamiento o subarrendamiento de inmuebles destinados a fines habitacionales de los señalados en la fracción IX del artículo 17, en la manifestación se expresará lo siguiente:
+VII. Cuando en el año en que se presente la solicitud tengan verificativo elecciones para renovación de cargos de elección popular del estado o del municipio, durante el término a que se refiere el artículo 10, fracción I, del presente reglamento.
 
-1.- Importe mensual de la renta estipulada en el contrato respectivo;
+VIII. En los demás casos en que la improcedencia resulte por analogía o por disposición legal aplicable.
 
-2.- Ubicación del inmueble arrendado o subarrendado;
+###### ARTÍCULO 30.
 
-3.- Clave catastral, número de cuenta o número de predio, en su caso, del inmueble dado en arrendamiento o subarrendamiento, y
+Las causas de improcedencia del referendo son:
 
-4.- Nombre y domicilio del arrendador o subarrendador.
+I. En los casos en que la solicitud fuere realizada por ciudadanos, cuando las firmas de apoyo no sean auténticas, los ciudadanos firmantes no estén inscritos en la lista nominal de electores o los datos vaciados en el escrito no concuerden con los datos registrados en la lista nominal de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+II. Cuando la solicitud no cumpla con los requisitos para ejercer el derecho de petición.
 
-A la manifestación se acompañará el original y una copia del contrato de arrendamiento celebrado con el propietario del inmueble, así como el original y copia del contrato o contratos de subarrendamiento en su caso. La copia del contrato de arrendamiento y la copia o copias de los subarrendamientos se agregarán a su expediente, devolviéndose los originales al interesado con el sello de la Secretaría de Hacienda del Estado, que acredite su presentación;
+III. Cuando la solicitud no cumpla con los requisitos que establece el presente reglamento.
 
-j).- Cuando se trate de créditos otorgados en el extranjero o en la República, pero fuera del Estado, la manifestación a que se refiere esta fracción deberá hacerse por los representantes de los acreedores en la Entidad. A falta de estos representantes, la manifestación se hará por los deudores;
+IV. Cuando se trate de las materias siguientes:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+1. Financieras, tributarias, fiscales, presupuestales, de ingresos o similares.
 
-Quienes deban cubrir intereses a empresas o personas domiciliadas fuera del Estado, que no tengan representantes en el mismo, deberán empadronarse y presentar dicha declaración en la oficina Recaudadora de Rentas de su jurisdicción.
+2. Régimen interno de la administración pública estatal o municipal.
 
-II.- A dar aviso por escrito, de las modificaciones que se hagan a los contratos, expresando los mismos datos que exige la fracción anterior;
+3. Regulación interna del Congreso del Estado y de la Contaduría Mayor de Hacienda.
 
-III.- Tratándose de contratos de cuenta corriente, a manifestar por escrito, dentro de los sesenta días naturales siguientes al corte o clausura de la cuenta, el monto de los intereses pagados.
+4. Regulación interna de los órganos de la función jurisdiccional del Estado.
 
-Esta obligación deberá ser cumplida por el propietario de la cuenta corriente que resulte acreedor de los intereses.
+5. Reformas a la Constitución Política del Estado o a las leyes locales que deriven necesariamente de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos.
 
-Si se trata de contratos en virtud de los cuales se tenga derecho a obtener las percepciones a que se refiere la fracción VII del artículo 17, la manifestación deberá presentarse dentro de los sesenta días naturales siguientes a la fecha del balance respectivo, tanto por el que tenga derecho a obtener esas percepciones, como por el que las pague. Si quienes tengan derecho a obtener las mismas percepciones, o quienes paguen éstas, no están obligados a llevar un libro de contabilidad conforme a la Legislación deberá hacerse por su representante en el Estado y, en defecto de éste dicha manifestación se hará por el mismo deudor;
+6. Los actos cuya realización sea obligatoria en los términos de las leyes aplicables.
 
-IV.- Tratándose de personas que habitualmente hagan préstamos cuyo importe individual no exceda de cinco mil pesos y a plazo no mayor de noventa días, a manifestar por escrito, dentro de los primeros quince días de cada mes, el importe total del capital invertido y el monto global de los intereses percibidos en el mes inmediato anterior;
+V. Cuando en el año en que se presente la solicitud tengan verificativo elecciones para la renovación de los cargos de elección popular del estado o del municipio, durante el término a que se refiere el artículo 10 fracción I, del presente reglamento.
 
-V.- A dar aviso por escrito, de los cambios de su domicilio, dentro de los quince días hábiles siguientes a la fecha en que ocurra;
+VI. En los demás casos en que la improcedencia resulte por analogía o por disposición legal aplicable.
 
-VI.- A dar aviso por escrito, de la terminación del acto o contrato, expresando:
+###### ARTÍCULO 31.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Si se declara procedente la solicitud, el Instituto iniciará el plebiscito o referendo mediante convocatoria que deberá expedir cuando menos treinta días naturales antes de la fecha de realización de la consulta de que se trate.
 
-a).- Número de la cuenta abierta por la Secretaría de Hacienda del Estado para el cobro del impuesto; si aún no se ha señalado número de cuenta bastará expresar la fecha y el número de registro del aviso de constitución del crédito;
+###### ARTÍCULO 32.
 
-b).- Nombre y domicilio del acreedor y del deudor;
+La convocatoria deberá publicarse en el Periódico Oficial del Gobierno del Estado. Para mayor divulgación la convocatoria podrá publicarse o difundiese en los principales medios de comunicación o en los lugares de mayor afluencia al público, que se estimen convenientes por el Instituto.
 
-c).- Nombre y número del Notario, ante quien se haya otorgado la escritura de cancelación, y
+###### ARTÍCULO 33.
 
-d).- Importe de los intereses adicionales o moratorios, de las indemnizaciones o penas convencionales que, en su caso, se hayan obtenido al extinguirse la obligación.
+Toda convocatoria de plebiscito y/o de referendo que sea emitida por el Instituto deberá contener los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I. Especificación precisa y detallada de la ley, o decreto que será objeto de referendo, o en su caso el acto de autoridad concreto a realizarse que será objeto del plebiscito, así como la autoridad o autoridades de las que emana el acto administrativo objeto del plebiscito o, en su caso, la ley; el reglamento o el decreto sujeto a referendo.
 
-VII.- A presentar en la Secretaría de Hacienda del Estado, cuando ésta lo estime necesario, el original de los contratos privados, a efecto de comprobar la veracidad de los datos contenidos en las manifestaciones previstas en las fracciones l, II, III, IV y VI de este artículo. Esta obligación debe cumplirse por los contribuyentes dentro del plazo fijado en cada caso, el que no será mayor de diez ni menor de cinco días hábiles siguientes a la fecha en que reciban la notificación de presentar los contratos originales referidos en esta fracción;
+II. Una síntesis de los motivos, razones y fundamentos por los cuales la decisión de gobierno debe someterse al plebiscito, o en el caso del referendo las razones, motivos y fundamentos por los cuales la iniciativa correspondiente, la ley, el decreto o bien parte de su articulado deben someterse al mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+III. Señalar la fecha, el lugar, la hora y el formato mediante el cual se consultará a los ciudadanos electores coahuilenses.
 
-VIII.- En los casos de inversiones de procedencia extranjera en las que el inversionista no tenga representante en el Estado, los deudores deberán retener el impuesto y pagarlo en la oficina Recaudadora de Rentas correspondiente, mediante la presentación de una manifestación en la que se expresará:
+IV. El porcentaje mínimo de electores requeridos para que la decisión ciudadana sea vinculatoria.
 
-a).- El nombre y el domicilio del acreedor y del deudor,
+V. Los cuestionamientos conforme a las que los electores expresarán su aprobación o rechazo.
 
-b).- El monto de los intereses pagados y la fecha de vencimiento, y
+VI. Los demás elementos de información que estime señalar el Instituto, a través de la Comisión.
 
-c).- El importe del impuesto retenido.
+###### ARTÍCULO 34.
 
-Si los acreedores o inversionistas tienen representantes en el Estado, a éste corresponderá presentar la declaración y hacer el pago del impuesto respectivo.
+El Instituto, conforme a su disponibilidad presupuestal, instrumentará una campaña de información, bajo las reglas siguientes:
 
-En todos los casos, el impuesto deberá ser pagado dentro de los treinta días hábiles siguientes al mes en que se hubiera causado.
+I. El objeto consistirá en que los ciudadanos conozcan los argumentos a favor y en contra del objeto de la consulta, argumentos que serán proporcionados por los solicitantes del procedimiento, así como de los grupos que tengan interés en el tema a consultarse.
 
-Si el pago de las percepciones se hace al acreedor con anterioridad a la fecha de la formalización del contrato, por haberse así estipulado en éste, el plazo de treinta días hábiles empezará a correr a partir del día primero del mes siguiente al de la fecha del primer pago que haga el deudor en el Estado, y
+II. La campaña se difundirá en los medios de comunicación oficiales. Se podrán utilizar medios de comunicación, debates, foros o cualquier otra forma de comunicación confiable, objetiva, transparente e ilustrativa.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+III. Cualquiera de las personas que soliciten el plebiscito o referendo, podrán participar directamente en la campaña de información, conforme a las reglas siguientes:
 
-IX.- Tratándose de contratos de promesa de venta, de compraventa con reserva de dominio o de compraventa a plazos, que celebren particulares o empresas fraccionadoras de terrenos, éstos deberán presentar mensualmente una relación en las formas que apruebe la Secretaría de Hacienda del Estado, en que se indique el nombre de los adquirentes de terrenos, el saldo inicial que corresponda al mes de que se trate, el saldo final, el tipo de interés pactado, el tipo de interés moratorio y el monto total de los intereses correspondientes al mismo mes. Asimismo, en dichas relaciones deberán hacerse las observaciones que procedan por cuanto se refiere a la modificación de los mencionados contratos. Dichas relaciones deberán presentarse en la Secretaría de Hacienda del Estado, dentro de los días primero al veinte del mes siguiente al que corresponda a las operaciones declaradas. Los contribuyentes de este impuesto están obligados a proporcionar a la Secretaría de Hacienda del Estado los datos y documentos que ésta solicite, en relación con los actos, contratos y operaciones a que este capítulo se refiere.
+a) Presentarán ante el Instituto una solicitud de registro de campaña, a la que anexarán una relación con sus nombres, firmas y claves de su credencial de elector.
 
-###### ARTICULO 30.
+b) Se inscribirán como partidarios a favor o en contra del objeto de consulta, según su posición.
 
-Las manifestaciones y avisos deberán firmarse:
+c) Presentarán la metodología, formato, objeto y participantes de su campaña de información.
 
-I.- Por los sujetos del impuesto o por sus representantes legales que en ningún caso podrán ser los Notarios que hubiesen intervenido en las operaciones, o
+d) El Instituto deberá garantizar la participación en la campaña de información registrada por los ciudadanos. Para tal efecto podrá auxiliarse de las autoridades estatales y/o municipales correspondientes, de los consejos de participación, de las instituciones de educación superior, de investigación, de organismos, asociaciones u organizaciones públicas, sociales o civiles.
 
-II.- Los deudores, como responsables solidarios, cuando los acreedores residan fuera del Estado y no tengan representante en el mismo.
+El Instituto, una vez que reciba la solicitud de registro de campaña, resolverá sobre su procedencia y notificará a los solicitantes dentro de los diez días hábiles siguientes al en que se presentó la solicitud su resolución al respecto, así como la duración de la campaña, en caso de ser procedente la petición.
 
-Salvo disposición expresa en contrario, los avisos y manifestaciones deberán presentarse dentro de los primeros quince días hábiles siguientes a:
+###### ARTÍCULO 35.
 
-a).- La realización del acto o la celebración del contrato si éste se hace constar en documento privado, o
-
-b).- La autorización definitiva de la escritura respectiva, si se otorga ante Notario Público.
-
-En todos los casos, cuando en el contrato se estipule que las percepciones gravadas deben pagarse en fecha anterior a la formalización de dicho contrato, el término de quince días hábiles empezará a contarse a partir del día primero del mes siguiente al en que el deudor en el Estado efectúe el primer pago.
-
-En los casos de instituciones de crédito que intervengan invirtiendo capitales propiedad de terceros, las manifestaciones o avisos a que este mismo artículo se refiere deberán hacerse por las propias instituciones.
-
-###### ARTICULO 31.
-
-Los Notarios ante quienes se efectúen operaciones o contratos de los que se derive el derecho a obtener ingresos por los conceptos a que se refiere el artículo 17 de esta Ley, están obligados a:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Dar aviso a la Secretaría de Hacienda del Estado de la realización de dichos actos o contratos, dentro de los quince días hábiles siguientes:
-
-a).- La autorización definitiva de la escritura correspondiente;
-
-b).- Las modificaciones que sufra dicha escritura;
-
-c).- La extinción de las obligaciones contractuales.
-
-II.- No autorizar escrituras en las que se haga constar la extinción de las obligaciones contractuales, si los interesados no comprueban estar al corriente en el pago de este impuesto.
-
-Tratándose de contratos de promesa de venta, compraventa con reserva de dominio o compraventa a plazos, que celebren particulares o empresas fraccionadoras de terrenos, los Notarios deberán hacer constar en las escrituras correspondientes que el vendedor les presentó el duplicado de la última declaración general para el pago del impuesto a que se refiere el artículo 24.
-
-Para que se acepte este duplicado, será necesario presentar el recibo oficial de pago del impuesto. Sin este requisito, el Notario no podrá autorizar definitivamente la escritura.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-###### ARTICULO 32.
-
-Las obligaciones que el artículo anterior señala a los notarios y las que el artículo 29 fija a los contribuyentes, podrán cumplirse presentando en la oficina Recaudadora de Rentas un solo escrito firmado por aquéllos y por éstos.
-
-La falta de firma de dicha (sic) escrito por parte del Notario o bien del contribuyente, no relevará al omiso de las responsabilidades fiscales que resulten conforme a las disposiciones de este capítulo.
-
-###### ARTICULO 33.
-
-Los jueces durante los procedimientos por los que se demande el cumplimiento de las obligaciones contractuales, en relación a los ingresos que se tiene derecho a percibir por cualquiera de los conceptos a que se refiere el artículo 17, podrán exigir que se compruebe, con la constancia de las autoridades fiscales haber presentado las manifestaciones a que refieren las fracciones I y II del artículo 29.
-
-###### ARTICULO 34.
-
-Las autoridades judiciales, para los efectos de este impuesto, además de las obligaciones a que se refiere este capítulo, tienen las siguientes:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Exigir a quien demande ante ellas el cumplimiento de las obligaciones, nacidas de los actos o contratos que den derecho a la percepción de ingresos por alguno de los conceptos a que se refiere el artículo 17, que compruebe que los documentos en que se funda su acción o que presente como pruebas, fueron registrados en la Secretaría de Hacienda del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II.- Dar aviso a la Secretaría de Hacienda del Estado de la presentación de las demandas, contrademandas y excepciones, así como de cualquier promoción posterior, cuando ésta implique desistimiento de alguna de las partes y de las transacciones o convenios a que éstas pudieran llegar, si esos hechos ocurren dentro de un procedimiento fundado en actos o contratos de los que se derive el derecho a obtener ingresos por cualquiera de los conceptos señalados en el artículo 17, y
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Dar a conocer a la Secretaría de Hacienda del Estado las resoluciones que se dicten en los casos a que se refiere la fracción anterior.
-
-###### ARTICULO 35.
-
-Los encargados del Registro Público de la Propiedad y del Comercio del Estado, no podrán inscribir títulos, contratos o documentos en que se hagan constar operaciones de las que se derive el derecho a obtener ingresos por alguno de los conceptos mencionados en el artículo 17 si no se les acredita previamente, con la copia sellada por las autoridades fiscales u otra constancia expedida por las mismas, haber presentado las declaraciones que previenen las fracciones I y II del artículo 29.
-
-Tampoco podrán los encargados del Registro Público cancelar las inscripciones relativas a las operaciones contratos o documentos a que se refiere el párrafo anterior, si no se les acredita, con la documentación respectiva, estar al corriente en el pago de impuestos a que se refiere este capítulo.
+El Instituto determinará el número de opciones y sus variantes que se consultarán a los ciudadanos electores coahuilenses en el plebiscito en el referendo, con base en la solicitud del procedimiento de que se trate, la opinión de las autoridades o el debate público que se genere.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
-###### ARTICULO 36.
+###### ARTÍCULO 36.
 
-Quedan exentos del pago de este impuesto, los ingresos que se obtengan por los siguientes conceptos:
+Para el efecto de lograr la neutralidad en el desarrollo de estos procesos, y cuando los sujetos que soliciten el plebiscito o el referendo sean los miembros del Congreso del Estado, el Poder Ejecutivo del Estado, los miembros de los Ayuntamientos del Estado, estos se abstendrán de realizar campaña oficial a favor o en contra del objeto de la consulta.
 
-I.- Operaciones celebradas con los Gobiernos Federal, Estatal o Municipales;
+###### ARTÍCULO 37.
 
-II.- Intereses de bonos obligaciones o cédulas hipotecarias;
+Para iniciar la preparación, de los procedimientos del plebiscito y del referendo se requiere previamente la publicación del acuerdo del Instituto donde se declare la procedencia del procedimiento de referendo o plebiscito, en su caso u una vez hecho lo anterior el Instituto procederá conforme a lo siguiente:
 
-III.- Intereses y percepciones que obtengan las instituciones, organizaciones y empresas exceptuadas de impuestos locales por las leyes especiales de la Federación que rigen su funcionamiento;
+I. La aprobación de la circunscripción territorial donde se aplicará el procedimiento y las secciones electorales que lo componen;
 
-IV.- Ingresos sobre los cuales se pague el Impuesto al Valor Agregado;
+II. La integración, ubicación y publicación de las mesas directivas de casilla; y
 
-V.- Intereses y demás percepciones a que se refiere este capítulo, cuando el responsable del pago sea institución de seguros o fianzas, siempre y cuando dichos intereses y percepciones sean a cargo de su patrimonio, y
-
-VI.- Dividendos.
-
-###### ARTICULO 37.
-
-En los casos de adjudicación de bienes, en pago de créditos que incluyan ingresos por alguno de los conceptos a que se refiere el artículo 17 se observarán las siguientes reglas:
-
-I.- Si la adjudicación se hace al acreedor o a un tercero, previos los trámites Judiciales respectivos, se considerará que aquél percibió la totalidad de los intereses vencidos hasta la fecha de la adjudicación y el impuesto se cobrará sobre el monto total de ellos, siempre que el valor del bien adjudicado alcance a cubrir la suerte principal y los créditos devengados;
-
-II.- Si en el caso de la fracción anterior, el bien adjudicado sólo bastare para cubrir el importe principal del adeudo, no se causará el impuesto cuando el acreedor declare en el acto de la adjudicación, no reservarse derecho alguno contra el deudor, pues si se lo reserva causará el impuesto sobre los intereses cubiertos cuando el acreedor obtenga el pago de los mismos;
-
-III.- Si en el caso de la fracción l, del presente artículo, el valor del bien adjudicado alcanza para cubrir el monto de la suerte principal y una parte de los intereses, solo sobre el monto de éstos, que resulte cubierto, se causará el impuesto si el acreedor no se reserva ningún derecho contra el deudor, pues si se los reserva se causará el impuesto también sobre los intereses no cubiertos, cuando el acreedor obtenga el pago de éstos;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-IV.- Si en los casos de las fracciones II y III, que anteceden, el bien adjudicado no cubre el monto total de los intereses, conforme el valor que a los bienes se haya dado en la adjudicación, la Secretaría de Hacienda del Estado tendrá facultad para mandar valuar dichos bienes, a fin de conocer el monto real de las percepciones obtenidas, de acuerdo con ellas, hacer el cobro del impuesto correspondiente, y
-
-V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerarse, en todo caso, que percibió la totalidad de los intereses causándose el impuesto sobre los mismos.
+III. La elaboración y entrega de la documentación y material electoral que se empleará en este procedimiento.
 
 #### SECCION OCTAVA. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTICULO 38.
+###### ARTÍCULO 38.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+El Consejo General acordará, a propuesta de la Comisión de Participación Ciudadana, el procedimiento que habrá de observarse en el desarrollo de los trabajos el día en que tenga verificativo el procedimiento de plebiscito y/o referendo, así como de los trabajos previos y posteriores a él.
 
-### CAPITULO III. DEL IMPUESTO SOBRE NOMINAS
+### CAPÍTULO ÚNICO. REGLAS COMUNES PARA EL EL (SIC) PROCEDIMIENTO DEL PLEBISCITO Y DE REFERENDO
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
@@ -641,25 +631,11 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 ###### ARTÍCULO 39.
 
-Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
+Las mesas receptoras de consulta ciudadana se integrarán por un presidente, un secretario y un escrutador, salvo que el Consejo General determine una integración diferente, y tendrán, en su caso, las atribuciones que les otorga la Ley de Instituciones y Procedimientos Electorales para el Estado de Coahuila en las mesas directivas de casilla.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+El Instituto según las necesidades del procedimiento, su naturaleza y el ámbito territorial de aplicación, establecerá la estructura para realizar el plebiscito o el referendo.
 
-Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo honorarios asimilables a salarios, comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles, así como los rendimientos y anticipos que obtengan los miembros de sociedades cooperativas de productores de bienes y/o servicios.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Son también objeto de este impuesto las erogaciones hechas de manera ocasional en contratos por eventos o servicios determinados.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+En todo caso, se podrán establecer las instancias que se requieran, mismas que tendrán las atribuciones que les confiere el propio Instituto.
 
 ###### ARTICULO 39-A.
 
@@ -675,15 +651,9 @@ Para los efectos de este impuesto, la prestación del servicio personal debe rea
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 40.
+###### ARTÍCULO 40.
 
-Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso en las formas aprobadas por la Secretaría de Hacienda durante los siguientes cinco días posteriores a la fecha del contrato suscrito o inicio de la prestación de los servicios, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada y la vigencia del contrato.
+Los procedimientos de plebiscito o de referendo, se verificarán en día domingo, en una jornada que iniciará a las diez horas y concluirá a las dieciocho horas en que se cerrará la casilla. En el caso de que haya electores presentes se continuará recibiendo la votación hasta que los electores hayan sufragado.
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
@@ -691,31 +661,19 @@ Cuando en la contratación de trabajadores para una persona física, moral o uni
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-###### ARTICULO 41.
+###### ARTÍCULO 41.
 
-Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 39, calculados por ejercicios fiscales, salvo lo señalado por el artículo 43-D de ésta ley.
+Según las necesidades particulares de cada plebiscito o referendo, el Instituto decidirá el número y ubicación de las mesas receptoras de consulta ciudadana, debiendo establecerse cuando menos una por cada cinco secciones contenidas en el área territorial donde se aplicará el procedimiento, en el caso del área urbana y de una para el caso del área rural.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+De acuerdo al tema de la consulta se establecerán los lugares en donde se recibirá la votación. En todo caso las mesas receptoras de votación se instalarán, preferentemente en locales públicos.
 
-###### ARTICULO 42.
+###### ARTÍCULO 42.
 
-El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la base gravable señalada en el artículo anterior.
+Los ciudadanos mexicanos podrán observar individualmente o en forma colectiva el desarrollo de la consulta ciudadana ya sea de plebiscito o de referendo, sin embargo, los organismos del Instituto no avalarán ni el trabajo de ellos ni sus conclusiones.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+###### ARTÍCULO 43.
 
-###### ARTICULO 43.
-
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente (sic) aquél en el que se causó utilizando las formas autorizadas por la Secretaria, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general, debiéndose efectuar en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto emita la Secretaría.
-
-Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
-
-Serán considerados patrones, las empresas que presten servicios a otras, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
-
-Para el legal funcionamiento de estas personas, deberán aperturar una cuenta en institución bancaria debidamente autorizada, domiciliada en la circunscripción territorial donde se preste el servicio, y hacerlo del conocimiento de la autoridad recaudadora de rentas.
-
-El incumplimiento a esta disposición, hará responsable directo a quien reciba el servicio.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Se entiende por observador al ciudadano mexicano, que acreditado por el Instituto, participe con ese carácter en los procedimientos de plebiscito y de referendo.
 
 ###### ARTICULO 43-A.
 
@@ -795,67 +753,57 @@ Cuando el contribuyente realice la erogación a que se refiere el párrafo anter
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 44.
+###### ARTÍCULO 44.
 
-Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
+Es derecho exclusivo de los ciudadanos mexicanos participar como observadores en actividades de consulta de participación ciudadana de la entidad, de acuerdo con las siguientes bases:
 
-I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+I. Podrán participar sólo cuando hayan obtenido su registro ante el Instituto.
 
-II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+II. Los ciudadanos que pretendan participar como observadores en los procedimientos de Plebiscito y de Referendo, deberán señalar en el escrito de solicitud lo siguiente:
 
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+1. Los datos de identificación personal, anexando fotocopia de su credencial de elector con fotografía.
 
-IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse solo para efectos de control.
+2. Una fotografía reciente tamaño infantil, con el nombre del solicitante escrito al reverso.
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+3. La manifestación expresa de que si obtienen el registro, se conducirán conforme a los principios de imparcialidad, certeza, objetividad, legalidad y profesionalismo, así como no haber sido dirigente de partido político o haber ocupado un puesto de elección popular en los últimos tres años.
 
-V.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además deberán hacer sus pagos en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto dicte la Secretaría;
+III. La solicitud de registro a que se refiere este artículo, deberá presentarse en forma personal o a través de la agrupación a que pertenezca directamente al Instituto, a más tardar diez días de que se vaya a verificar el procedimiento de plebiscito o de referendo que se pretende observar. Dicha solicitud deberá resolverse a más tardar faltando cinco días para que se celebre el procedimiento del que se trate. Una vez resueltas sus acreditaciones se entregarán los registros correspondientes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+###### ARTÍCULO 45.
 
-VI.- Conservar la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años contados, a partir de la fecha en que se presentaron o debieron haberse presentando las declaraciones con ellas relacionadas.
+El Instituto en caso de que otorgue el registro correspondiente, deberá informar a los Comités Regionales y Municipales de Consulta y expedir los documentos pertinentes que otorgan el carácter de observador al solicitante.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+###### ARTÍCULO 46.
 
-VII.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efecto de impuestos federales tengan su domicilio fiscal en otra entidad, deberán mantener copia de su documentación contable fiscal relacionada con las contribuciones estatales, en la sucursal que corresponda en el Estado.
+Los observadores electorales debidamente acreditados por el Instituto, el día de la Consulta, ante una mesa receptora de Consulta Ciudadana tendrán derecho a observar los siguientes actos:
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I. Instalación de la Mesa Receptora de Consulta Ciudadana.
 
-VIII.- Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias. Asimismo, cuando por motivo del ejercicio de las facultades de comprobación fiscal deberán presentarse declaraciones de corrección por los períodos omitidos.
+II. Desarrollo de la consulta.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+III. Escrutinio y cómputo de la consulta en la casilla.
 
-IX.- Para los efectos previstos en el artículo 40 segundo párrafo de esta Ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
+IV. Fijación de resultados de la consulta en el exterior de la mesa receptora de consulta ciudadana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+V. Clausura de la mesa receptora de consulta ciudadana.
 
-###### ARTICULO 45.
+Por lo que respecta a la fracción II de este artículo, durante el período de duración del desarrollo de la consulta ciudadana, los observadores no podrán estar de manera permanente en el lugar.
 
-Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Hacienda del Estado, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
+###### ARTÍCULO 47.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+Son obligaciones de los observadores:
 
-En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
+I. Abstenerse de actos que estorben a las autoridades electorales en el ejercicio de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II. No realizar actos de proselitismo ni manifestaciones a favor o en contra del tema de la consulta.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+III. No incurrir en la ofensa, difamación, calumnia o injuria, en contra de las instituciones, autoridades electorales, asociaciones, organizaciones y ciudadanos en general.
 
-Tratándose de intermediarios laborales deberán manifestar el número de empleados e impuesto causado por cada uno de los establecimientos donde se le hubiese contratado.
+IV. Portar en lugar visible sus acreditaciones o gafetes durante el desempeño como observador. La omisión a lo establecido en esta fracción impedirá al observador cumplir con su función hasta en tanto satisfaga este requisito.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+V. Abstenerse de proclamar el triunfo o derrota del tema de consulta.
 
-###### ARTICULO 46.
-
-Quienes realicen pagos y erogaciones por cuentas de terceros gravados por este impuesto, a personas que presten servicios en el estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la Oficina Recaudadora de Rentas que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 43 de esta ley.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE 1995)</small>
-
-###### ARTICULO 47.
-
-Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+VI. Cumplir los ordenamientos legales vigentes.
 
 ###### ARTICULO 47
 
@@ -873,271 +821,135 @@ El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
-###### ARTICULO 48.
+###### ARTÍCULO 48.
 
-No se consideran gravadas por este impuesto, las erogaciones que se cubran por concepto de:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Las indemnizaciones por terminación de relaciones laborales y por riesgo o enfermedades profesionales que sean otorgadas conforme a las leyes o contratos de trabajo respectivo. Salvo las otorgadas por diferencia y ajustes de sueldos.
-
-II.- Jubilaciones y pensiones en caso de invalidez, vejez, cesantía y muerte.
-
-III.- Pagos por gastos funerarios.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-IV.- Los instrumentos de trabajo, tales como herramientas, ropa y otros similares.
-
-(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004) (F. DE E., P.O. 10 DE ENERO DE 2005)
-
-V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Estatal y Municipal.
-
-VI.- Remuneraciones cubiertas por los Ejidos y Comunidades, las uniones de ejidos y comunidades, las empresas sociales constituidas por avecindados e hijos de ejidatarios con derechos a salvo, las asociaciones rurales de interés colectivo, las sociedades de producción rural y las unidades agrícolas industriales de la mujer campesina.
-
-VII.- Remuneraciones cubiertas por las personas morales con fines no lucrativos siguientes:
-
-a) Sindicatos obreros y los organismos que los agrupen.
-
-b) Asociaciones patronales.
-
-c) Cámaras de comercio, industria, agricultura, ganadería o pesca, así como los organismos que los agrupen.
-
-d) Colegios de profesionales y los organismos que los agrupen.
-
-e) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la materia.
-
-f) Sociedades cooperativas de consumo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-g) Las asociaciones civiles organizadas con fines científicos, políticos, religiosos, culturales o deportivos.
-
-No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-VIII.- El ahorro cuando se integre por un depósito igual del trabajador y de la empresa, siempre y cuando éste se realice con la misma periodicidad al pago de las remuneraciones del trabajador;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-IX.- Remuneraciones cubiertas a trabajadores domésticos en términos de la Ley Federal del Trabajo.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-X.- Remuneraciones a cónyuges y/o familiares hasta el primer grado en línea recta.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-XI.- Cuotas obrero patronales efectuadas por el patrón al INFONAVIT, SAR, IMSS, ISSSTE.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-XII.- La alimentación, la habitación y las despensas cuando se cobren al trabajador.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIII.- Las remuneraciones cubiertas a trabajadores con capacidades diferentes, siempre que acrediten esta calidad mediante certificado expedido por un Organismo de Salud Pública competente y credencial del DIF correspondiente. Los certificados emitidos por particulares se considerarán improcedentes.
+Los Comités Regionales y/o Municipales de Consulta Ciudadana capacitarán a los funcionarios de las mesas receptoras de consulta ciudadana, en cuanto a la presencia de los observadores así como los derechos y obligaciones inherentes a su actuación.
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTICULO 49.
+###### ARTÍCULO 49.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+En caso de que cualquier observador o grupo de ellos, entorpezca el desarrollo de la Consulta, podrá el presidente de la mesa receptora de consulta ciudadana, utilizar los medios legales respectivos para retirarlos del lugar.
 
-### CAPITULO IV. DEL IMPUESTO AL COMERCIO Y LA INDUSTRIA
+### CAPÍTULO PRIMERO. DE LOS COMITÉS REGIONALES DE PARTICIPACIÓN CIUDADANA
 
 #### SECCION PRIMERA. DEL OBJETO
 
-###### ARTICULO 50.
+###### ARTÍCULO 50.
 
-Son objeto de este impuesto los ingresos en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquiera otra forma que se obtenga por:
+La votación podrá recogerse por medio de instrumentos electrónicos y/o máquinas, cuyo modelo sea aprobado por el Consejo General, siempre que se garantice la efectividad y el secreto del sufragio.
 
-I.- La enajenación de bienes, incluyendo las ventas con reserva de dominio;
+###### ARTÍCULO 51.
 
-II.- El arrendamiento de bienes por empresas mercantiles;
-
-III.- La prestación de servicios, y
-
-IV.- Las comisiones y mediaciones mercantiles.
-
-###### ARTICULO 51.
-
-Para los efectos de este impuesto se considera por:
-
-I.- Enajenación, toda transmisión de dominio de carácter mercantil por la cual se perciba un ingreso;
-
-II.- Arrendamiento, la concesión del uso o goce temporal de un bien que produzca un ingreso al arrendador;
-
-III.- Prestación de servicios, aquellas que sean de índole mercantil, y
-
-IV.- Comisión Mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comité, y
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-V.- Mediación mercantil, la actividad que desarrolla el mediador para relacionar a los contratantes;
-
-VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
+El Instituto, a propuesta del Secretario Técnico, decidirá sobre los formatos de boletas que habrán de utilizarse en los procesos de plebiscito y referendo. De igual forma decidirán sobre el resto del material y equipo.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-###### ARTICULO 52.
+###### ARTÍCULO 52.
 
-Son sujetos de este impuesto las personas físicas o morales que obtengan habitual u ocasionalmente los ingresos gravados por este capítulo, cuyas operaciones sean realizadas o que surtan sus efectos en el territorio del Estado.
+Para los efectos del artículo anterior, el Instituto, realizará el procedimiento de adquisición más conveniente, conforme a las disposiciones legales aplicables en la materia, a efecto de adquirir la documentación, material y equipo necesario para el desarrollo de los procedimientos de plebiscito y de referendo.
 
-###### ARTICULO 53.
+###### ARTÍCULO 53.
 
-Para los efectos de este impuesto se considerará percibido ingreso:
+Para la emisión del voto, se elaborarán las boletas correspondientes, conforme al modelo que apruebe el Instituto debiendo contener cuando menos los siguientes datos:
 
-I.- En el lugar donde el contribuyente establezca su negocio, industria o comercio;
+I. Entidad o municipio, de conformidad con la naturaleza del procedimiento a celebrarse.
 
-II.- En el domicilio del comisionista cuando su comitente se encuentre establecido fuera del Estado;
+II. La pregunta o preguntas relativas al procedimiento de que se trate.
 
-III.- En el domicilio de sus dependencias, cuando la matriz se encuentre ubicada fuera del Estado;
+III. Cuadros o círculos para las respuestas.
 
-IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+IV. El emblema del Instituto; y
 
-V.- En el Estado, cuando una empresa domiciliada en éste realice sus operaciones gravadas fuera del mismo aún cuando sea por conducto de sus dependencias ubicadas fuera del Estado, y
-
-VI.- Cuando se obtengan ingresos, objeto de este impuesto, provenientes de bienes que en el momento de efectuarse la operación se encuentren dentro del territorio del Estado, cualquiera que sea el domicilio de las partes y el destino de la mercancía.
+V. Las medidas de seguridad que garanticen la dificultad de su falsificación.
 
 #### SECCION TERCERA. DE LOS RESPONSABLES SOLIDARIOS
 
-###### ARTICULO 54.
+###### ARTÍCULO 54.
 
-Responden solidariamente del pago de este impuesto:
+La declaración de los efectos del procedimiento del plebiscito o del referendo, la realizará el Instituto conforme a lo dispuesto por la Ley de Participación Ciudadana.
 
-I.- Los representantes legales de los sujetos del gravamen, excepto los apoderados para pleitos y cobranzas;
+Tratándose de plebiscitos o referendos estatales, el Consejo General realizará, a más tardar el siguiente martes del día de la celebración del procedimiento, el cómputo estatal y declarará los efectos legales del mismo.
 
-II.- Los comisionistas respecto del impuesto a cargo del comitente cuando la entrega de la (sic) mercancías enajenadas se haga en los establecimientos de aquéllos; en este caso, el establecimiento del comisionista se estimará como una dependencia del comitente y el ingreso se considerará percibido en el mismo;
-
-III.- Los comitentes, por los créditos fiscales derivados de las operaciones gravadas por este impuesto a cargo de sus comisionistas, y
-
-IV.- Quienes adquieran por cualquier título establecimientos comerciales o industriales en los que se perciban ingresos gravados por este impuesto. Los establecimientos referidos quedarán afectos preferentemente al pago de este impuesto.
+En el caso de plebiscito o de referendo municipal el órgano municipal encargado de la organización y desarrollo del procedimiento, realizará el cómputo respectivo a más tardar el siguiente martes del día de la celebración del procedimiento, haciendo la declaración de los efectos legales del mismo, informando al Instituto de inmediato de tal circunstancia, para todos los efectos conducentes.
 
 #### SECCION CUARTA. DE LA BASE
 
-###### ARTICULO 55.
+###### ARTÍCULO 55.
 
-Es base para el pago de este impuesto, el ingreso y total derivado de las operaciones gravadas, aún cuando sea a plazo o a crédito sujetas a condición, o con reserva del dominio, incluyendo el sobreprecio, los intereses o cualquiera otra prestación que lo aumente.
+El Instituto remitirá la resolución correspondiente al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado.
 
-###### ARTICULO 56.
+###### ARTÍCULO 56.
 
-El ingreso gravable de los comisionistas estará formado por la cantidad que perciban de acuerdo con lo pactado, por concepto de remuneración por la comisión desempeñada y en su caso, por los ingresos percibidos como rembolso (sic) por concepto de viáticos, gastos de viaje o de oficina y demás erogaciones que por cualquier concepto cargue o cobre a su comitente o representado, siempre que se satisfagan los requisitos siguiente (sic):
+Los resultados del plebiscito serán obligatorios para el Ejecutivo del Estado o para los Ayuntamientos, siempre y cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos, al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado o del Municipio, según se trate.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+En caso contrario, el plebiscito y el referendo tendrán únicamente el carácter de recomendación.
 
-I.- Que exista contrato escrito en el que se estipule la remuneración, ya sea en una cantidad fijada o en un porcentaje determinado sobre el precio de la operación, y que se envíe para su registro una copia firmada y certificada de él y de sus modificaciones a la Oficina Recaudadora de Rentas correspondiente, durante los quince días siguientes a la celebración de aquél o a que éstas se acuerden;
+En todo caso, el Instituto deberá comunicar al Ejecutivo del Estado o al Ayuntamiento correspondiente, los resultados del plebiscito dentro de los tres días siguientes al en que se verificó el procedimiento.
 
-II.- Que el comisionista no haga descuentos o bonificaciones a los clientes en el precio de las operaciones, con cargo a su comisión;
+Toda omisión, acto o resolución del Poder Ejecutivo o de los Ayuntamientos que violen los resultados vinculatorios del plebiscito podrán ser impugnadas en los términos de la ley de la materia.
 
-III.- Que el comisionista no se obligue a anticipar al comitente el precio total o parcial de las operaciones, ni lo garantice en efectivo o en títulos de crédito;
+###### ARTÍCULO 57.
 
-IV.- Que el comisionista cubra el comitente el importe de las operaciones que realice a crédito, hasta el vencimiento de los plazos concedidos, y
+Los resultados del referendo serán obligatorios para el Poder Legislativo del Estado cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+En caso contrario, el referendo tendrá únicamente el carácter de recomendación.
 
-V.- Que el comisionista ponga a disposición de las autoridades fiscales, cuando éstas lo soliciten, los comprobantes de las cuentas rendidas a su comitente y de las comisiones percibidas.
-
-De no satisfacer los requisitos anteriores, se estimará que el comisionista ha obrado en su nombre y por cuenta propia, y el impuesto se causará sobre el importe total de la operación.
-
-###### ARTICULO 57.
-
-El ingreso gravable del propietario de las mercancías, estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, representante, corredor o distribuidor, sin que sea deducible, para este efecto, la retribución estipulada.
+En todo caso, el Instituto deberá comunicar al Congreso del Estado los resultados del referendo, dentro de los tres días siguientes al en que se verificó el procedimiento.
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
-###### ARTICULO 58.
+###### ARTÍCULO 58.
 
-Para los efectos de este impuesto, no se consideran ingresos gravables:
+Una vez que el Instituto notifique al Congreso del Estado o en su caso a la Diputación Permanente los efectos obligatorios del referendo se turnará a la Comisión correspondiente para que ésta sin demora, presente el dictamen en el sentido del referendo al Congreso del Estado, para su discusión y aprobación.
 
-I.- Los reembolsos de pagos hechos a terceros por concepto de gastos de seguro, acarreos, fletes, empaques, envolturas, envases exteriores, impuesto, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que estos se carguen al comprador, sin que se altere su monto y siempre que los importes se expresen específicamente en las facturas o notas de venta que se expidan, a condición de que el precio no se pacte libre de gastos para el comprador;
-
-II.- Los descuentos y bonificaciones hechos por el vendedor al comprador;
-
-III.- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente;
-
-IV.- Los que provengan de reintegros o anticipos hechos por la persona que reciba el servicio, de los gastos que sean ocasionados por servicios complementarios del principal, siempre que se hagan por cuenta del cliente, se señalen específicamente en la factura o nota de venta que expida y reúnan los requisitos siguientes;
-
-a).- Que el prestador del servicio principal no pueda proporcionar directamente los servicios complementarios, y
-
-b).- Que el prestador del servicio principal no altere los precios de los servicios complementarios al cargarlos en cuenta al cliente.
-
-Tampoco se consideran gravables los descuentos y bonificaciones que haga el prestador del servicio a quien lo recibe y los que se reintegran con motivo de la rescisión total o parcial de los contratos, y
-
-V.- En el caso de los comisionistas, las comisiones cedidas a otros agentes o subagentes, siempre que sobre ellas se cause el impuesto.
+Toda omisión, acto o resolución del Congreso del Estado o de la Diputación Permanente que viole los resultados vinculatorios del referendo, podrá ser impugnada en los términos de la ley de la materia.
 
 #### SECCION SEXTA. DE LAS DECLARACIONES Y PAGO
 
-###### ARTICULO 59.
+###### ARTÍCULO 59.
 
-Este impuesto se causará a razón del 2% cuando se trata de las actividades señaladas en las fracciones l, II y IV del artículo 50 y del 1.5% cuando se trate de las actividades señaladas en la fracción III del mencionado artículo 50 de esta ley.
+Los resultados del plebiscito o del referendo se publicarán en el Periódico Oficial del Gobierno del Estado. Para mayor difusión, los resultados se podrán publicar o difundir en los medios de comunicación o en los lugares de mayor afluencia al público.
 
-###### ARTICULO 60.
+###### ARTÍCULO 60.
 
-El pago de este impuesto se hará en la oficina recaudadora de rentas que corresponda a la jurisdicción del establecimiento del contribuyente, dentro de los días primero al veinte del mes siguiente, al en que se hubiere percibido el ingreso, mediante la prestación de una declaración en las formas aprobadas, consignando todos los datos requeridos en las mismas.
+En los procedimientos de plebiscito y de referendo los plazos son improrrogables.
 
-En los casos de enajenaciones de inmuebles cuando el precio se estipule a plazo, el impuesto se pagará sobre el monto de los ingresos mensuales que efectivamente se perciban, con motivo de las exhibiciones pactadas.
+###### ARTÍCULO 61.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Los plazos se contarán por días hábiles, salvo que el presente reglamento establezca días naturales.
 
-Quienes tengan señalada cuota fija para el pago del impuesto, no presentarán la declaración a que se refiere el primer párrafo, pero deberán cubrirlo dentro del plazo señalado en el mismo, salvo que, la Secretaría de Hacienda del Estado mediante disposiciones generales fije plazo diferente.
+###### ARTÍCULO 62.
 
-Los contribuyentes que no hayan obtenido ingresos gravables presentarán sus declaraciones expresando la causa de ello dentro el plazo establecido en este artículo.
+Cuando estas disposiciones no fijen plazo especial, el término será de tres días hábiles.
 
-###### ARTICULO 61.
+###### ARTÍCULO 63.
 
-No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el impuesto y, en su caso, los accesorios legales causados, excepto en el caso previsto en el párrafo final del artículo anterior. Tampoco se admitirán cuando no se presenten en las formas aprobadas.
+Las notificaciones durante los procedimientos del plebiscito o referendo, se realizarán por aquella persona que designe el Instituto.
 
-###### ARTICULO 62.
+###### ARTÍCULO 64.
 
-Las declaraciones deberán ser firmadas:
+Los ciudadanos que intervengan en el procedimiento de plebiscito o referendo señalarán en su solicitud, su domicilio y designarán a un representante para oír y recibir toda clase de notificaciones y/o documentos, en la ciudad donde resida el Instituto.
 
-I.- Por el propietario o su apoderado y por el contador si lo hubiere, cuando se trate de negociaciones propiedad de personas físicas;
-
-II.- Por el contador de la empresa y por el gerente, o por el director o administrador, cuando se trate de sociedades; en defecto de éstos al funcionario de la empresa autorizado por el Consejo de Administración, o si no existe Consejo, por el Administrador único, y
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Por el gerente o encargado de la sucursal o por el contador si lo hubiere, cuando se trate de sucursales ubicadas en jurisdicción de la Oficina Recaudadora de Rentas distinta a la de la matriz; las declaraciones serán firmadas, en su caso, por las personas a que se refieren las dos fracciones anteriores.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-###### ARTICULO 63.
-
-Las sociedades no podrán presentar sus declaraciones mensuales sin que sean aprobadas expresamente por la persona a quien corresponda la representación de la sociedad. En el documento en que se apruebe la presentación de las declaraciones se hará constar el monto de los ingresos que deberán declararse.
-
-Cuando el administrador único o los administradores de las sociedades autoricen, al gerente, al director o al apoderado de la empresa para que presenten las declaraciones mensuales sin previa aprobación expresa asumirán, para todos los efectos legales, las responsabilidades que pueden derivarse de la falsedad o inexactitud de dichas declaraciones.
-
-###### ARTICULO 64.
-
-Los contribuyentes menores podrán cubrir sus impuestos a cuota predeterminada, pero estarán obligados a presentar una declaración complementaria al finalizar cada ejercicio, en el caso de que los ingresos reales percibidos hayan excedido en más de un 20% a los que hubiesen servido de base para la determinación de la cuota. Para presentar tal declaración, se establece como plazo los meses de enero y febrero siguientes al término del ejercicio y con ella se cubrirán las diferencias del impuesto a que haya lugar.
+Si por cualquier circunstancia no hacen la designación, cambian su domicilio sin dar aviso o señalan uno de manera incorrecta o falsa, todas las notificaciones se harán en los estrados del Instituto, para todos los efectos a que haya lugar.
 
 #### SECCION SEPTIMA
 
 DE LAS RECTIFICACIONES.
 
-###### ARTICULO 65.
+###### ARTÍCULO 65.
 
-Los contribuyentes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados asientos que comprueben aumentos o disminuciones de los ingresos declarados y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor, del impuesto rectificado, en la declaración del mes siguiente al en que efectivamente hayan registrado dichos asientos.
+Las notificaciones se harán en el lugar que señalaron los solicitantes o en el local del Instituto o de la autoridad competente, según se trate.
 
-También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o de menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquélla que se rectifique.
+###### ARTÍCULO 66.
 
-Cumpliéndose con los requisitos establecidos, no se cobrarán recargos, no se impondrán sanciones por los impuestos omitidos declarados.
+Toda resolución se notificará por vía de oficio que se entregará en el lugar señalado por los solicitantes, en forma personal o por estrados.
 
-###### ARTICULO 66.
+###### ARTÍCULO 67.
 
-Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el artículo anterior, si al finalizar su ejercicio fiscal determinan diferencias de impuestos pagados tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ella resulta diferencia a su cargo, la cubrirán mediante declaración complementaria con los recargos de ley, dentro de los tres meses siguientes al cierre de ejercicio; si por el contrario, la diferencia fuese a su favor, podrán solicitar su devolución.
+El Instituto publicará una lista de acuerdos. En ella expresará el número del expediente que se le asigne a la solicitud de plebiscito o de referendo, según el caso, los interesados y el rubro del asunto acordado.
 
-Fuera del plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso, los contribuyentes deberán pagar las omisiones y recargos y pedir por separado la devolución del impuesto cubierto en exceso.
-
-###### ARTICULO 67.
-
-Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones referidas en los artículos anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierto de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una inspección, investigación, revisión o auditoría al responsable o presunto responsable, o haya sido requerido del pago de alguna prestación fiscal derivada en este gravamen.
+La lista se publicará el día laborable siguiente al día de la resolución, a más tardar a la última hora laborable.
 
 #### SECCION OCTAVA
 
@@ -1145,121 +957,119 @@ DE LAS OBLIGACIONES.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 68.
+###### ARTÍCULO 68.
 
-Los contribuyentes de este impuesto están obligados a registrarse o empadronarse en las Oficinas Recaudadoras de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas aprobadas y proporcionando todos los datos y documentos exigidos en las mismas.
+Las notificaciones surten efecto el mismo día que se hagan o el día que se recibieron en el domicilio señalado.
 
-Cuando un mismo contribuyente tenga diversos establecimientos, sucursales, bodegas o dependencias, deberá registrar o empadronar cada una de ellas por separado.
+Las notificaciones por lista surten efectos al día siguiente laborable de su publicación, a menos que la resolución respectiva se hubiere notificado antes, en forma personal.
 
-Para los efectos de éste artículo, se considera como fecha de iniciación de operaciones, aquélla en que se efectúe la apertura o en la que el contribuyente obtenga el primer ingreso.
+###### ARTÍCULO 69.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+El Instituto tendrá facultades para ampliar o modificar los plazos y términos establecidos en este reglamento, siempre y cuando a su juicio exista imposibilidad material o presupuestal para realizar dentro de los mismos los actos para los cuales se prevén, o así resulte conveniente para un mejor y debido cumplimiento de las diversas etapas del procedimiento correspondiente.
 
-Quienes en la solicitud de inscripción o en los avisos de modificación o baja al padrón, hayan incurrido en errores u omisiones o empleado de manera equivocada las formas oficiales, darán a conocer los datos correctos a la Oficina Recaudadora de Rentas correspondiente, utilizando la forma oficial respectiva, e indicando en ella que se presenta para corrección de errores u omisiones, con el original del que se dejará copia, se devolverá para su reposición, en su caso, el documento erróneo que se hubiere expedido.
+El acuerdo a que se refiere el párrafo que antecede, se publicará en el Periódico Oficial y en los medios de comunicación de mayor circulación del Estado o del Municipio según sea el caso, dentro de los tres días siguientes a la fecha de su aprobación.
 
-###### ARTICULO 69.
+###### ARTÍCULO 70.
 
-Los contribuyentes de este impuesto deberán conservar y colocar en lugar visible de sus establecimientos, la copia debidamente requisitada de su solicitud de empadronamiento o registro.
+Toda controversia del procedimiento de plebiscito y del referendo, será resuelto por el Tribunal Electoral de conformidad con la ley de la materia.
 
-###### ARTICULO 70.
+###### ARTÍCULO 71.
 
-Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones I, III, V, y X del artículo 80 de:
+A falta de norma expresa, en el procedimiento del plebiscito y del referendo se aplicarán en lo conducente las disposiciones relativas a las leyes electorales o de participación ciudadana en el Estado.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+###### ARTÍCULO 72.
 
-I.- Empadronarse dentro del mes siguiente a la fecha de iniciación de sus operaciones.
+Para fijar el porcentaje ciudadano de plebiscito y de referendo se tomará en cuenta la lista nominal utilizada en el último proceso electoral estatal.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+El Instituto establecerá los mecanismos que estime conducentes para realizar el cotejo respectivo.
 
-II.- Solicitar por escrito la confirmación de su exención ante la Secretaría de Hacienda del Estado, la cual resolverá su procedencia si reúne los requisitos correspondientes, y
+###### ARTÍCULO 73.
 
-III.- Declarar en el mes de enero de cada año, el importe de los ingresos que hayan percibido durante el año anterior, o en su caso dentro de los quince días siguientes a la fecha de clausura, traspaso o cambio de giro.
+Si durante el desarrollo del procedimiento, existen datos fundados que revelen que la consulta pudiere generar desorden público o un ambiente de intimidación para los ciudadanos, el Instituto, previa consulta con los solicitantes, suspenderá temporal o definitivamente la realización del plebiscito o del referendo hasta que existan condiciones para la consulta de que se trate.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+Para tal efecto, el Instituto deberá emitir un informe fundado o motivado a la ciudadanía.
 
-###### ARTICULO 71.
+###### ARTÍCULO 74.
 
-En los casos de cambio de nombre, denominación o de razón social, domicilio, actividad, aumento o disminución del capital social, traspaso de la negociación y suspensión de actividades, los contribuyentes deberán dar aviso, en las formas aprobadas a través de la oficina Recaudadora de Rentas correspondiente, dentro del mes siguiente a la fecha en que hubiera ocurrido cualquiera de tales hechos, consignando todos los datos que en la misma se requieran.
+En el plebiscito o el referendo, los ciudadanos tendrán derecho a las siguientes opciones:
 
-###### ARTICULO 72.
+I. El procedimiento preparatorio de firmas.
 
-Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
+II. La suscripción directa de las autoridades.
 
-###### ARTICULO 73.
+III. La comisión ciudadana y/o interinstitucional.
 
-Además de las ya establecidas, son obligaciones de los contribuyentes de este impuesto:
+IV. La consulta ciudadana.
 
-I.- Pagar el impuesto en la forma y términos establecidos en este capítulo;
+###### ARTÍCULO 75.
 
-II.- Llevar como mínimo tres libros principales: libro diario, libro mayor, libro de inventarios y balances y además el libro de actas, cuando se trate de personas morales.
+El procedimiento preparatorio de firmas, se sujetará a las bases siguientes:
 
-En las sucursales, dependencias o agencias de los contribuyentes, deberá llevarse un libro especial de ingresos, salvo que en los libros o registros auxiliares que lleven se cumpla con la obligación de registrar los ingresos dentro del plazo que establezcan las disposiciones fiscales.
+I. Podrá solicitarlo, en el caso del plebiscito estatal y del referendo, el uno punto cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del estado.
 
-Quedan exceptuados del cumplimiento de las obligaciones referidas en esta fracción, los sujetos de este impuesto clasificados como menores, quienes llevarán para el control de sus operaciones un libro de ingresos y egresos;
+II. La solicitud deberá cumplir con los requisitos que establece este reglamento para el plebiscito o el referendo, respectivamente.
 
-III.- Expedir facturas, notas de venta o documentos que amparen los ingresos que perciban, así como recabarlos por las compras y otros egresos que efectúen;
+III. El Instituto dentro de los diez días siguientes calificara la procedencia del procedimiento, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+1. En caso de que la solicitud no cumpla con los requisitos que establece esta ley, el Instituto requerirá al representante de los solicitantes para que subsane la irregularidad dentro de los cinco días siguientes. Hecho lo cual, el Instituto resolverá sobre su procedencia.
 
-IV.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones contables efectuadas, contados a partir de la fecha en que se presentaron o debieron haberse presentado;
+2. En caso de que la solicitud cumpla con los requisitos que establece esta ley el Instituto, conforme a su disponibilidad de recursos humanos y financieros, iniciará el procedimiento preparatorio de firmas de la manera siguiente:
 
-V.- Proporcionar a las autoridades fiscales los datos, informes o documentos que le soliciten dentro del plazo fijado para ello;
+a) Instrumentará una campaña de difusión para recabar las firmas ciudadanas necesarias, para que en su caso, proceda el plebiscito o el referendo, según se trate.
 
-VI.- Recibir las visitas de investigación y proporcionar a los auditores, inspectores o a los investigadores los libros, datos, informes, documentos y demás registros que le soliciten para el desempeño de sus funciones;
+b) Establecerá el lugar o lugares donde los ciudadanos podrán adherirse a la solicitud de que se trate. En este caso, el Instituto recabará las firmas ciudadanas, previa consulta y/o cotejo respectivo.
 
-VII.- Practicar balance al cierre de cada ejercicio fiscal, tratándose de contribuyentes mayores, y
+c) El plazo para que los ciudadanos manifiesten su adhesión a la solicitud, no podrá exceder de quince días naturales contados a partir de la fecha en que se instalen los lugares autorizados para recibir las firmas. El Instituto se encargará de computar este plazo y hacerlo saber a la ciudadanía en general.
 
-VIII.- Los contribuyentes que expendan alcohol, bebidas alcohólicas al copeo o en botella cerrada, adicionalmente deberán cumplir con las siguientes obligaciones:
+IV. Para la instrumentación de la campaña de difusión, el Instituto podrá auxiliarse de las siguientes alternativas:
 
-a).- Llevar un libro de ventas, en el que se hará constar de manera inalterable, el movimiento pormenorizado de las ventas diariamente realizadas, independientemente de los libros que por ley deben llevar;
+1. Expedir una convocatoria abierta para que la ciudadanía conozca el objeto de la solicitud del plebiscito o referendo. En este caso, los solicitantes podrán anexar un proyecto de convocatoria.
 
-b).- Verificar, al recibir mercancía materia de las operaciones gravadas, que se encuentran legalmente amparadas con la documentación correspondiente y que los marbetes comprobatorios del pago del impuesto federal respectivo, estén debidamente adheridos;
+2. Organizar foros de información, de análisis y de discusión sobre el objeto de la solicitud del plebiscito o referendo.
 
-c).- Abstenerse de introducir y de permitir la introducción en sus establecimientos, de bebidas alcohólicas que no forman parte de sus existencias legalmente adquiridas. Las que se introduzcan se considerarán para todos los efectos legales, como parte integrante de las existencias del establecimiento;
+3. Establecer mecanismos confiables, objetivos y expeditos para recabar las firmas ciudadanas.
 
-d).- No tener en expendios al copeo, más envases abiertos de cada clase específica de bebidas alcohólicas, que las que sean necesarias en relación con la intensidad de sus operaciones, ni cambiar las bebidas alcohólicas de los envases abiertos a otros aún cuando sean de la misma clase específica de bebida, así como raspar las etiquetas de los envases terminados;
+En la instrumentación de la campaña de difusión, podrán participar los ciudadanos solicitantes y la comunidad en general, en los términos previstos por este reglamento y la ley de la materia.
 
-e).- Otorgar garantía para asegurar el pago de este impuesto, equivalente al monto probable de tres meses cuando se haga mediante depósito en efectivo y de seis meses si se otorga fianza, cuando la Secretaría lo considera conveniente;
-
-f).- En los establecimientos donde se expendan bebidas alcohólicas, no deberán tener existencia de las mismas (sic) envases de capacidad superior a cinco litros, ni existencia de alcohol en los expendios de bebidas alcohólicas al copeo;
-
-g).- En los expendios de bebidas alcohólicas al copeo, queda prohibida la práctica de llenar o rellenar botellas o envases; en consecuencia, únicamente podrán tener botellas o envases de origen y abiertos, los que estén en uso. Toda botella o envase de bebida alcohólica vacía, deberá ser inmediatamente inutilizada.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-###### ARTICULO 74.
-
-Los fabricantes, envasadores, rectificadores, ampliadores y mezcladores, no podrán establecer expendios de bebidas alcohólicas al copeo, en el mismo local o dependencia de sus fábricas, almacenes o bodegas. La Secretaría de Hacienda del Estado, por conducto de las Oficinas Recaudadoras de Rentas, negará el empadronamiento de tales expendios y procederá a su clausura definitiva.
-
-###### ARTICULO 75.
-
-Los locales de los expendios de bebidas alcohólicas no podrán ser utilizados para fines distintos a dicho expendio; en consecuencia, se prohibe que estos locales sean utilizados como habitación y que constituyan la única entrada para la habitación.
+V. Transcurrido el plazo para recibir las firmas ciudadanas, el Instituto declarará si procede o no el plebiscito o referendo.
 
 #### SECCION NOVENA. DE LAS OBLIGACIONES DE TERCEROS
 
-###### ARTICULO 76.
+###### ARTÍCULO 76.
 
-Están obligados a retener y enterar el impuesto en los términos del artículo 60:
+Para las formas alternativas de acceso al ciudadano previstas en las fracciones II, III y IV del artículo anterior, se estará a lo dispuesto por la ley de la materia.
 
-I.- Los usuarios de servicios técnicos y los arrendatarios de maquinaria y equipo, cuando los ingresos se perciban por contribuyentes residentes fuera del Estado y provengan de operaciones realizadas o que surtan sus efectos en territorio del mismo;
+###### ARTÍCULO 77.
 
-II.- Las personas residentes en el Estado que paguen comisiones o remuneraciones por servicios prestados por comisionistas, agentes o representantes radicados fuera del Estado, excepto cuando se trate de comisiones pagadas por exportaciones o para que empresas residentes en el Estado, presten servicios fuera del mismo. La retención se hará calculando el impuesto, sobre el monto total de las cantidades que se cubran a los comisionistas, agentes o representantes;
+El Instituto, y los Comités Regionales y Municipales de Consulta, en los ámbitos de sus competencias, conocerán y resolverán de las infracciones a las disposiciones de este reglamento por su incumplimiento, aplicando las sanciones que correspondan en los términos establecidos por el mismo.
 
-III.- Los comitentes, sobre las remuneraciones que cubran a sus comisionistas, cuando éstos no realicen sus operaciones en establecimientos fijos, y
+###### ARTÍCULO 78.
 
-IV.- Los retenedores a que se refieren las fracciones I y II; de este artículo, enterarán el impuesto mediante una declaración adicional, con su mismo número de cuenta, en la que se manifestarán los ingresos pagados, el monto del impuesto retenido, el nombre o razón social y domicilio de los sujetos a quienes se practicó la retención.
+Para los efectos del artículo anterior, el Instituto conocerá de las irregularidades en que hayan incurridos (sic) los solicitantes del Plebiscito y de Referendo.
 
-###### ARTICULO 77.
+Una vez que tenga conocimiento de la irregularidad, la Comisión de Participación Ciudadana emplazará al presunto infractor, para que en el plazo de tres días hábiles conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes, las que en su caso serán a su cargo.
 
-En los contratos de comisión y representación, serán responsables del pago del impuesto que se deje de cubrir, los comisionistas y los representantes, respectivamente.
+Concluido el plazo a que se refiere el segundo párrafo de este artículo, se abrirá una fase probatoria de dos días hábiles y concluida ésta, se formulará el dictamen correspondiente, el cual se presentará por la Comisión de Participación Ciudadana al Consejo General, para su discusión, y, en su caso, aprobación.
 
-###### ARTICULO 78.
+El Instituto, para fijar la sanción correspondiente, tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa.
 
-Los contadores al firmar o rendir dictamen sobre balance de los contribuyentes, harán constar si el ingreso ha sido declarado en los términos de este capítulo. En caso de falsedad, serán acreedores a las sanciones correspondientes.
+Las multas que imponga el Instituto deberán ser pagadas en la Dirección Ejecutiva del Instituto en un plazo improrrogable de diez días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el mismo se hubiere efectuado, el Instituto, lo turnará para todos los efectos legales como Crédito Fiscal a las autoridades competentes para su ejecución.
 
-###### ARTICULO 79.
+###### ARTÍCULO 79.
 
-Quienes tenga (sic) o hayan tenido relaciones comerciales o industriales con alguno o algunos de los contribuyentes de este impuesto, deberán auxiliar a la Secretaría y a sus dependencias, suministrándoles los informes, datos y documentos que le sean solicitados.
+Las sanciones se impondrán con sujeción a las siguientes disposiciones y podrán consistir en:
+
+I. Multa de doscientas a quinientas veces el salario mínimo vigente en la capital del Estado, a los que soliciten firmas tergiversando el contenido de la iniciativa.
+
+II. Multa de doscientas cincuenta a quinientas veces el salario mínimo vigente en la capital del Estado a los que realicen actividades que contravengan las disposiciones de este reglamento.
+
+III. Multa de doscientas a mil veces el salario mínimo vigente en la capital del Estado, a quienes impidan a los votantes leer el contenido completo de la propuesta o soliciten firmas falsas.
+
+Las multas que se apliquen serán destinadas a la promoción del voto y a la difusión de la cultura democrática.
+
+T R A N S I T O R I O
+
+ÚNICO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 #### SECCION DECIMA. DE LAS EXENCIONES
 
@@ -1305,9 +1115,7 @@ Las personas morales cualesquiera que sea el monto de sus ingresos, se clasifica
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO V. DEL IMPUESTO SOBRE PRODUCCION DE AZUCAR, PILONCILLO, MIELES CRISTALIZABLES E INCRISTALIZABLES
-
-PRIMERA PARTE
+### CAPÍTULO SEGUNDO. DE LA SOLICITUD DEL PLEBISCITO Y DEL REFERENDO
 
 #### SECCION PRIMERA
 
@@ -1573,7 +1381,7 @@ Los fabricantes de azúcar, piloncillo, mieles cristalizables e incristalizables
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO VI. DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE PRODUCTOS AGRICOLAS
+### CAPÍTULO TERCERO. DE LA PROCEDENCIA DEL PLEBISCITO Y DEL REFERENDO
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -1713,7 +1521,7 @@ Para hacer el pago del impuesto, el comprador deberá presentar a la oficina rec
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO VII. DEL IMPUESTO SOBRE COMPRAVENTA O PERMUTA DE GANADO Y SUS ESQUILMOS
+### CAPÍTULO CUARTO. IMPROCEDENCIA DEL PLEBISCITO Y DEL REFERENDO
 
 #### SECCION PRIMERA
 
@@ -1785,7 +1593,7 @@ Están exentas de este impuesto, las operaciones de compraventa sobre sementales
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO VIII. IMPUESTO SOBRE LA CRIA DE GANADO
+### CAPÍTULO QUINTO. DE LA CONVOCATORIA
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
@@ -1891,7 +1699,7 @@ III.- Quienes trasladen ganado que carezca de la contraseña que acredite que se
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO IX. IMPUESTO AL LIBRE EJERCICIO DE PROFESIONES Y ACTIVIDADES LUCRATIVAS
+### CAPÍTULO SEXTO. DE LA CAMPAÑA DE INFORMACIÓN
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -1985,7 +1793,7 @@ IV.- Presentar a más tardar el último día hábil del mes de abril, en las for
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO X. DEL IMPUESTO SOBRE EXPLOTACION Y VENTA DE PRIMERA MANO DE DIVERSOS MATERIALES PARA CONSTRUCCION
+### CAPÍTULO SÉPTIMO. DE LA PREPARACIÓN DE LOS PROCEDIMIENTOS DEL PLEBISCITO Y DEL REFERENDO
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -2057,7 +1865,7 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO XI. DEL IMPUESTO SOBRE LA EXPLOTACION DE DIVERSIONES Y ESPECTACULOS PUBLICOS
+### CAPÍTULO OCTAVO. DE LAS MESAS RECEPTORAS DE CONSULTA CIUDADANA
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
@@ -2101,7 +1909,7 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO XII. DEL IMPUESTO ADICIONAL
+### CAPÍTULO NOVENO. DE LOS OBSERVADORES
 
 #### SECCION UNICA
 
@@ -2115,9 +1923,7 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
-### CAPITULO XII-A. IMPUESTO AL HOSPEDAJE
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+### CAPÍTULO DÉCIMO. DE LAS BOLETAS, MATERIAL Y EQUIPO A UTILIZARSE EN LOS PROCEDIMIENTOS DE PLEBISCITO Y REFERENDO
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -2301,9 +2107,7 @@ Los retenedores deberán de proporcionar mensualmente mediante formas aprobadas 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO XIII. DEL IMPUESTO SOBRE LA EXTRACCION DE MATERIALES DEL SUELO Y SUBSUELO
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS EFECTOS DEL PLEBISCITO O DE REFERENDO Y ADOPCIÓN DE LA DECISIÓN
 
 #### SECCION PRIMERA. OBJETO DEL IMPUESTO
 
@@ -2383,9 +2187,7 @@ V.- Presentar a más tardar el último día hábil del mes de febrero, a través
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO XIV. DEL IMPUESTO CEDULAR POR LA ENAJENACION DE BIENES INMUEBLES
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+### CAPÍTULO ÚNICO. DE LOS PLAZOS Y DE LAS NOTIFICACIONES
 
 #### SECCION PRIMERA. OBJETOS DEL IMPUESTO
 
@@ -2453,11 +2255,7 @@ TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corr
 
 > <small>(ADICIONADO CON LAS SECCIONES, APARTADOS, Y ARTÍCULOS, QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO XV. DEL IMPUESTO SOBRE USO O TENENCIA VEHICULAR
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO ÚNICO. DISPOSICIONES COMPLEMENTARIAS DEL PLEBISCITO Y DEL REFERENDO
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -2947,9 +2745,9 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 QUATER-P.- Los tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada dependencia.
 
-## TITULO III. DE LOS DERECHOS
+## TITULO CUARTO. DEL PROCEDIMIENTO DEL PLEBISCITO Y DE REFERENDO
 
-### CAPITULO I. DEL CONCEPTO
+### CAPÍTULO ÚNICO. DE LAS FORMAS ALTERNATIVAS DE ACCESO CIUDADANO
 
 ###### ARTICULO 169.
 
@@ -2957,9 +2755,7 @@ El Gobierno del Estado, percibirá derechos por los servicios que preste en el e
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO II. DE LA EXPEDICION DE LICENCIAS DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+### CAPÍTULO ÚNICO. DE LAS SANCIONES
 
 ###### ARTICULO 170.
 
@@ -9565,7 +9361,7 @@ a) Por la aplicación de evaluaciones integrales que incluyen la psicológica, m
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
-## TITULO IV. DE LOS PRODUCTOS
+## TITULO QUINTO
 
 ### CAPITULO V. DONACIONES DE PARTICULARES
 
@@ -9815,7 +9611,7 @@ f).- Por formas impresas de:
 
 BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda perciba el Gobierno del Estado por las cuentas bancarias perteneciente a este.
 
-## TITULO V. APROVECHAMIENTOS
+## TITULO SEXTO
 
 ### CAPITULO VI. INGRESOS POR COORDINACION
 
@@ -9883,7 +9679,7 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 
 Los Notarios Públicos titulares y suplentes en funciones deberán otorgar y mantener vigente una garantía a favor del Gobierno del Estado de Quintana Roo por la cantidad de 1000 S.M.G. vigente en la entidad. Dicha garantía deberá depositarse en efectivo ante la Recaudadora de Rentas de su jurisdicción y actualizarse en el mismo porcentaje en que se modifique el citado Salario Mínimo, dentro de los treinta días siguientes a la fecha en que se publique la modificación del Salario en el Diario Oficial de la Federación.
 
-## TITULO VI. INGRESOS EXTRAORDINARIOS
+## TITULO SEPTIMO
 
 ###### ARTICULO 228.
 
@@ -9899,9 +9695,7 @@ IV.- Aportaciones especiales.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-## TITULO VII. INGRESOS POR COORDINACION
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+## TITULO OCTAVO
 
 ###### ARTICULO 229.
 
