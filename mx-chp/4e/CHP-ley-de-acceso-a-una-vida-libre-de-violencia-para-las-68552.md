@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2011-09-14"
+last_updated: "2013-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -67,7 +67,7 @@ VIII. Establecer bases de coordinación y cooperación entre las autoridades fed
 
 IX. Las demás que establezca la presente Ley, su reglamento y demás disposiciones legales aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3°.
 
@@ -265,7 +265,9 @@ II. Preventivas, y
 
 III. De naturaleza Civil.
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+Las órdenes de protección de emergencia y preventivas deberán emitirse de manera inmediata. La autoridad competente determinará su temporalidad.
 
 ###### Artículo 16.
 
@@ -283,9 +285,9 @@ IV. Prohibición de intimidar o molestar a la víctima en su entorno social, as�
 
 V. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-Las medidas a que se refiere el presente artículo, podrán ser emitidas por el Ministerio Público, cuando se ponga en peligro la vida y/o la libertad de la víctima, previa valoración psicológica y/o médica del perito en la materia legalmente acreditado ante esa institución.
+Las medidas a que se refiere el presente artículo, podrán ser emitidas por el Ministerio Público, cuando se ponga en peligro la vida y/o libertad de la víctima. Para su emisión, bastará únicamente con la declaración de la víctima, la cual posteriormente deberá ser corroborada por peritos legalmente acreditados.
 
 ###### Artículo 17.
 
@@ -363,7 +365,7 @@ Los recursos humanos, financieros y materiales que conforman al sistema serán r
 
 ### Capítulo VI. De la Distribución de Competencias del Consejo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 26.
 
@@ -403,11 +405,11 @@ X. El Titular del Sistema para el Desarrollo Integral de la Familia en el Estado
 
 XI. El Titular del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
 
-XII. El Titular de la Coordinación General de Gabinetes del Poder Ejecutivo del Estado.
+XII. (DEROGADA, P.O. 4 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XIII. El Titular del Consejo Estatal de los Derechos Humanos.
+XIII. El Titular de la Comisión Estatal de los Derechos Humanos.
 
 XIV. Un representante del Poder Judicial.
 
@@ -437,7 +439,9 @@ V. Establecer y promover la capacitación y actualización permanente, con persp
 
 VI. Proponer a las autoridades facultadas para expedir ordenamientos legales diversos en la materia objeto de esta Ley, proyectos o recomendaciones normativas que tengan como propósito prevenir y erradicar la violencia contra las mujeres;
 
-VII. Proponer anualmente al Ejecutivo Estatal asigne en el Presupuesto de Egresos, partidas suficientes a las dependencias que integran al Sistema, para el cabal cumplimiento de los objetivos de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+VII. Proponer anualmente al Ejecutivo Estatal asigne en el Presupuesto de Egresos, partidas suficientes a las dependencias que integran al Sistema, para el cabal cumplimiento de los objetivos de esta Ley e impulsar el Programa Estatal.
 
 VIII. Contribuir a la difusión de la legislación en materia de violencia contra las mujeres;
 
@@ -459,9 +463,11 @@ Las sesiones del Consejo serán encabezadas por la Presidencia y en su ausencia 
 
 El Programa Estatal será el documento rector para el cumplimiento del Sistema Estatal; en él se definirán con perspectiva de género los objetivos, estrategias, líneas de acción, recursos y responsabilidades de las y los participantes en el Sistema Estatal, para el cumplimiento de las metas que en él se establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 33.
 
-El Programa Estatal deberá ser congruente con el Plan Estatal de Desarrollo Chiapas Solidario 2007-20012 y Nacional de Desarrollo, así como, con el Programa Nacional y contendrá las acciones siguientes para:
+El Programa Estatal deberá ser congruente con los Planes Nacional y Estatal de Desarrollo, y con el Programa Nacional, el cual contendrá las acciones siguientes para:
 
 I. Fomentar el conocimiento y el respeto al derecho de toda persona a una vida sin violencia, y la observancia en todo momento, circunstancia y ámbito de los derechos humanos de las mujeres;
 
@@ -523,7 +529,7 @@ XV. Garantizar el cumplimiento e implementación, en el Sector Salud, de las nor
 
 XVI. Las demás previstas en este y otros ordenamientos para el cumplimiento del objeto de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
@@ -557,7 +563,7 @@ XI. Administrar los recursos humanos, materiales y financieros del Consejo;
 
 XII. Las demás que le confieran el Consejo, su Presidente y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
 
@@ -593,11 +599,15 @@ Son atribuciones y obligaciones del Estado:
 
 I. Garantizar el ejercicio del derecho de las mujeres a una vida libre de violencia;
 
-II. Formular y conducir, con perspectiva de género, la política estatal y municipal para revenir (sic) y en su caso, erradicar la violencia contra las mujeres, proteger y asistir a las víctimas en todos los ámbitos, en un marco integral y promoviendo sus derechos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+II. Formular y conducir, con perspectiva de género, la política estatal y municipal para prevenir y en su caso, erradicar la violencia contra las mujeres, proteger y asistir a las víctimas en todos los ámbitos, en un marco integral y promoviendo sus derechos.
 
 III. Desarrollar todos los mecanismos necesarios para el cumplimiento de esta Ley;
 
-IV. Incluir una partida presupuestal suficiente para garantizar que las dependencias y entidades cumplan con los objetivos de esta Ley, realicen acciones afirmativas en favor de las mujeres y coadyuven en la protección integral a quienes sean víctimas de violencia;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IV. Incluir una partida presupuestal suficiente para garantizar que las dependencias y entidades cumplan con los objetivos de esta Ley, para impulsar el Programa Estatal, realicen acciones afirmativas en favor de las mujeres y coadyuven en la protección integral a quienes sean víctimas de violencia.
 
 V. Celebrar convenios de coordinación y concertación con la participación que corresponda a las dependencias o entidades del Gobierno Federal, Estatal y Municipal, con organismos nacionales e internacionales en materia de prevención y erradicación de la violencia contra las mujeres, protección y asistencia a las víctimas;
 
@@ -741,9 +751,15 @@ e) Recursos erogados en la atención de las víctimas de violencia;
 
 V. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección, con apego a lo establecido en sus reglamentos internos;
 
-VI. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+VI. Hacer del conocimiento del Ministerio Público, aquellos casos que se presuma que una mujer ha sido víctima de violencia, de acuerdo con las Normas Oficiales Mexicanas aplicables.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+VII. Las demás previstas para el cumplimiento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 44.
 
@@ -799,7 +815,7 @@ VIII. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 IX. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -885,15 +901,15 @@ XIV. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde al Sistema Chiapaneco de Radio, Televisión y Cinematografía coadyuvar con las dependencias para la difusión y publicidad de todo lo relacionado con los modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 50.
 
-Corresponde al Consejo Estatal de los Derechos Humanos:
+Corresponde a la Comisión Estatal de los Derechos Humanos:
 
 I. Promover la defensa, respeto, estudio y divulgación de los Derechos Humanos de las mujeres establecidos en el Orden Jurídico Mexicano e Internacional, considerando la diversidad cultural, las costumbres y tradiciones de grupos étnicos de la Entidad;
 
-II. Incorporar la perspectiva de género en sus políticas de Derechos Humanos de las mujeres tomando como referencia los Tratados y Convenios lnternacionales en materia de la defensa y promoción de los derechos humanos de las mujeres;
+II. Incorporar la perspectiva de género en sus políticas de Derechos Humanos de las mujeres tomando como referencia los Tratados y Convenios Internacionales en materia de la defensa y promoción de los derechos humanos de las mujeres;
 
 III. Atender en forma oportuna y expedita las quejas y recomendaciones relacionadas a los derechos humanos de las mujeres;
 
@@ -977,7 +993,7 @@ VII. Bolsa de trabajo, con la finalidad de que puedan acceder a una actividad re
 
 En todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia en los refugios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 ### Capítulo XII. De las Responsabilidades y Sanciones
 
@@ -1009,7 +1025,7 @@ Corresponderá al Gobierno Federal a través de la Secretaría de Gobernación, 
 
 El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobernación, la notificación de la declaratoria de alerta de Violencia de Género contra las Mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25, de la Ley General.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 63.
 
@@ -1053,7 +1069,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE OCTUBRE DE 2009.
 
@@ -1068,3 +1084,9 @@ P.O. 14 DE SEPTIEMBRE DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto y se opongan al mismo.
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
