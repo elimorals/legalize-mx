@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-76222"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2012-12-06"
+last_updated: "2013-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 22 de julio de 2010.
 
@@ -695,43 +695,45 @@ La Secretaría, en coordinación con los Municipios y la Secretaría Federal, re
 
 Para el logro de los fines antes mencionados, la Secretaría deberá analizar las potencialidades y vocación turística de las regiones y destinos en el estado, a fin de identificar las ventajas comparativas y mercados potenciales, con el propósito de definir los productos y segmentos en que Durango sea más competitivo, considerando en particular los señalados en el artículo 49 de esta Ley. Las estrategias y directrices deberán sujetarse a los lineamientos definidos en el Reglamento de la Ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ### CAPÍTULO XVI. DE LA CINEMATOGRAFÍA TELEVISIVA Y AUDIOVISUAL
 
 ###### Artículo 55.
 
-Para la promoción cinematográfica, se aplicarán los recursos económicos, técnicos, profesionales y logísticos, coordinados de manera sistemática, planificada y organizada para la realización de actividades culturales en el ámbito local, cuya temática sea la cinematografía.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 56.
 
-La Secretaría fomentará y estimulará la producción, educación, experimentación e investigación cinematográfica.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 57.
 
-La Secretaría realizará y promoverá con instancias y entidades, festivales, certámenes, muestras y otras actividades análogas relacionadas con el cine mexicano, en especial el que se realice en el Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 58.
 
-La Secretaría brindará, en atención a proyectos cinematográficos, el apoyo logístico necesario antes y durante la filmación; así mismo, vinculará el proyecto fílmico con prestadores de servicios a la producción y de la iniciativa privada.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 59.
 
-En el ámbito de su competencia, la Secretaría promoverá la filmación de películas, comerciales, documentales, mensajes publicitarios, programas de televisión; difundiendo un catálogo de locaciones con las que cuenta el Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 60.
 
-Con el objeto de conservar la memoria de lo realizado total o parcialmente en el Estado, en producciones cinematográficas, televisivas o audiovisuales se crea la Filmoteca Estatal “John Wayne”, cuyo acervo estará integrado por al menos un duplicado de cada una de las producciones cinematográficas, televisivas o audiovisuales realizadas en el Estado de Durango.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 61.
 
-Los realizadores nacionales o extranjeros que efectúen producciones cinematográficas, televisivas o audiovisuales en el Estado, deberán bajo convenio con la Secretaría, depositar al menos una copia de su obra en la Filmoteca Estatal "John Wayne" que hará parte de su acervo fílmico, en concordancia con la legislación federal e internacional aplicable, prohibiéndose el uso total o parcial del acervo en resguardo para fines comerciales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 62.
 
-La Filmoteca Estatal "John Wayne", estará a cargo del Instituto de Cultura del Estado de Durango que deberá establecer un lugar idóneo para la conservación del acervo así como para su exhibición, de acuerdo con la legislación federal e internacional aplicable y el Reglamento de la presente Ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ###### Artículo 63.
 
-Toda producción cinematográfica, televisiva o audiovisual, realizada en el Estado, debe dar crédito al mismo, para que la difusión de nuestra entidad se de de manera constante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE DURANGO, P.O. 5 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO XVII. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
 
@@ -1174,3 +1176,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2013.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se deroga el Capítulo XVI denominado De la Cinematografía Televisiva y Audiovisual, de la Ley de Turismo del Estado de Durango.
+
+TERCERO. La Secretaría de Turismo, propondrá al Ejecutivo Estatal en un plazo de ciento veinte días a partir de la publicación del presente ordenamiento, las adecuaciones que resulten pertinentes a su Reglamento Interno por virtud de la entrada en vigor de la presente Ley para que, de considerarlo procedente el Titular de dicho Poder, apruebe y ordene la publicación correspondiente.
+
+CUARTO. Los ayuntamientos dictarán, o en su caso, adecuarán los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas que correspondan para que en sus respectivas circunscripciones se cumplan las previsiones de esta Ley.
+
+QUINTO. Dentro de los sesenta días siguientes a la instalación del Consejo Consultivo Estatal de Filmaciones, se deberá expedir el reglamento en el que se establezcan las normas de organización y operación interna.
