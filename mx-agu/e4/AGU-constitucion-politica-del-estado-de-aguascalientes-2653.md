@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2013-11-11"
+last_updated: "2013-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1571,15 +1571,21 @@ CAPITULO DECIMOSEXTO
 
 De la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
-Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+
 La Ley de Responsabilidades de los Servidores Públicos del Estado determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las leyes.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -2678,3 +2684,9 @@ DECRETO NÚMERO 390, POR EL QUE SE REFORMA EL ARTÍCULO 17, APARTADO B, PÁRRAFO
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
