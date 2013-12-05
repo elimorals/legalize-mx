@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2013-04-02"
+last_updated: "2013-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1014,13 +1014,19 @@ XXXVIII.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
 
 XXXIX.- Otorgar contratos, concesiones, licencias, permisos, autorizaciones, asignaciones, y reconocer derechos, según corresponda, en materia de aguas, forestal, ecológica, explotación de la flora y fauna silvestres, y sobre playas, zona federal marítimo terrestre y terrenos ganados al mar;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2013)</small>
 
-XL.- Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente, y
+XL.- Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DE LA REFORMA DE 28 DE DICIEMBRE DE 1994, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
-XLI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XLI.- Elaborar y aplicar en coordinación con las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático, y
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL 28 DE DICIEMBRE DE 1994, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 5 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XLII.</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2013)</small>
+
+XLII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -2369,3 +2375,7 @@ Décimo Segundo.- El Congreso de la Unión expedirá la legislación sobre el us
 D.O.F. 2 DE ABRIL DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
