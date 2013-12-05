@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2013-05-31"
+last_updated: "2013-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE CÓDIGO ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2014.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2465,37 +2463,39 @@ d) Existan con antelación actos que constituyan violencia familiar del sujeto a
 
 ### CAPÍTULO IV. ABORTO
 
-###### Artículo 241.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Comete el delito de aborto quien provoque la muerte del producto de la concepción en cualquier momento del embarazo y se impondrán las siguientes penas:
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-I. De uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, si se obra con el consentimiento de la mujer embarazada, y
+###### Articulo 241.
 
-II. De tres a ocho años de prisión y multa doscientos ochenta y ocho a quinientos setenta y seis días de salario, si se obra sin consentimiento de la mujer embarazada.
+El aborto es la expulsión del producto de la preñez antes del tiempo en que el feto puede vivir.
 
-###### Artículo 242.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Si el aborto lo causare un médico, cirujano, enfermero, enfermera, comadrón, comadrona o partera, además de las penas que le correspondan conforme al artículo anterior, se les suspenderá de tres a cinco años en el ejercicio de su profesión u oficio.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 243.
+###### Articulo 242.
 
-Se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, a la mujer que diere muerte al producto de su concepción o consintiere en que otro se la diere.
+Se impondrá de quince días a dos meses de prisión y multa de dieciocho a treinta y seis días de salario, a la madre que voluntariamente procure el aborto o consienta en que otro la haga abortar.
 
-Son causas que excluyen el delito la muerte dada al producto de la concepción cuando:
+La misma sanción se aplicará al que haga abortar a una mujer a solicitud de ésta, con tal que no se trate de un abortador de oficio o de persona ya condenada por ese delito, pues en tal caso la sanción será de dos a tres años de prisión.
 
-I. Aquélla sea resultado de una conducta culposa de la mujer embarazada. En este caso deberá darse el aviso correspondiente al Ministerio Público;
+Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de tres a siete años, y si mediare violencia física o moral de seis a diez años.
 
-II. El embarazo sea resultado del delito de violación;
+Si el aborto lo causare un médico, cirujano, comadrón o partera, además de las sanciones que le correspondan conforme a este artículo, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
-III. El embarazo sea resultado de una inseminación artificial no querida, ni consentida;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-IV. De no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, y
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-V. Cuando a juicio de dos médicos especialistas en la materia y exista prueba suficiente para diagnosticar que el producto de la concepción sufre alteraciones genéticas o congénitas, siempre y cuando se cuente con el consentimiento de la madre o de ambos.
+###### Articulo 243.
 
-Tratándose de los casos a que se refieren las fracciones II, III, IV y V deberá obtenerse previamente la autorización del Ministerio Público.
+No es punible el aborto causado por la imprudencia de la mujer embarazada, ni cuando el embarazo sea el resultado de una violación o de inseminación artificial no consentida conforme al artículo 297 de este Código.
 
-Asimismo, en todas las hipótesis previstas en este artículo, los peritos médicos especialistas tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+No se aplicará sanción, cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+
+En los casos contemplados en este artículo, los médicos legistas oficiales tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
 ### CAPÍTULO V. AYUDA O INDUCCIÓN AL SUICIDIO
 
@@ -4108,3 +4108,11 @@ EL SECRETARIO DE GOBIERNO
 MIGUEL MOCTEZUMA DOMÍNGUEZ
 
 Rúbrica y sello
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor en el momento en que cobre vigencia el nuevo Código Penal y de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, en los términos del Artículo Primero Transitorio del Decreto Número 175, publicado en el Periódico Oficial del Gobierno del Estado el día 29 de mayo de 2013.
