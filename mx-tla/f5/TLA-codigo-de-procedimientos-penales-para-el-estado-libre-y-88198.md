@@ -4,7 +4,7 @@ identifier: "TLA-codigo-de-procedimientos-penales-para-el-estado-libre-y-88198"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-30"
-last_updated: "2013-05-29"
+last_updated: "2013-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 30 de mayo de 2012.
 
@@ -2127,15 +2127,31 @@ II. Violación;
 
 III. Trata de Personas;
 
-IV. Sustracción de Menores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-V. Robo previsto en el artículo 301 fracción V y artículo 304 fracciones I, II y VIII, del Código Penal para el Estado Libre y Soberano de Tlaxcala;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+IV. Retención o Sustracción de Menores o Incapaces;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+V. Robo previsto en el artículo 323 fracción V y artículo 328 fracciones I, II y VIII del Código Penal para el Estado Libre y Soberano de Tlaxcala;
 
 VI. Cometidos con medios violentos como armas y explosivos, y
 
-VII. Delitos contra la Moral Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Para los efectos de este artículo se consideran delitos contra la moral pública: Pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho; Lenocinio cuando la víctima sea menor de edad o no tenga capacidad de comprender el significado del hecho o de resistirlo.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+VII. Delitos contra el Libre Desarrollo de la Personalidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+Para efectos de este artículo se consideran Delitos contra el Libre Desarrollo de la Personalidad: Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, con excepción del artículo 356 y los Ultrajes a la Moral Pública.
 
 La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como de prisión preventiva oficiosa.
 
@@ -2585,7 +2601,11 @@ PROCEDENCIA
 
 Procederán los acuerdos reparatorios en los delitos imprudenciales; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; en los que admitan presumiblemente la sustitución de sanciones o condena condicional, así como en aquellos cuya pena media aritmética no exceda de cinco años de prisión y carezcan de trascendencia social.
 
-Se exceptúan de esta disposición los homicidios imprudenciales en el supuesto del artículo 239 fracción VIII, contra la libertad y la seguridad sexuales y el normal desarrollo psicosexual, delitos contra la filiación y la institución del matrimonio, robo en la hipótesis del artículo 301 fracciones III, IV y V, los delitos contra la seguridad del Estado, las asociaciones delictuosas y los delitos cometidos por funcionarios o empleados públicos, todos previstos en el Código Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+Se exceptúan de esta disposición los homicidios imprudenciales en el supuesto del artículo 239 fracción VIII, contra la libertad y la seguridad sexual y el normal desarrollo psicosexual, delitos contra la filiación y la institución del matrimonio, robo en la hipótesis del artículo 323 fracciones III, IV y V, de los delitos contra la seguridad del Estado, pandilla, y asociación delictuosa y los delitos cometidos en el ejercicio de la profesión, todos previstos en el Código Penal.
 
 Tampoco procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otro acuerdo por hechos de la misma naturaleza.
 
@@ -3113,7 +3133,15 @@ I. Delitos de abogados patronos y litigantes;
 
 II. Abandono, Negación y Práctica Indebida del Servicio Médico;
 
-III. Producción, impresión, enajenación, distribución, alteración o falsificación de títulos al portador, documentos de crédito públicos o vales de canje, previsto en los artículos 380 y 381 del Código Penal para el Estado Libre y Soberano de Tlaxcala;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+III. Falsificación o Alteración de Títulos al Portador y Documentos de Crédito Público, previstos en los artículos 398 y 399 del Código Penal para el Estado Libre y Soberano de Tlaxcala;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 IV. Incumplimiento de obligación alimentaria;
 
@@ -3125,7 +3153,11 @@ VII. Allanamiento de Morada, Despacho, Oficina o Establecimiento Mercantil;
 
 VIII. Lesiones, solamente en los casos previstos por las fracciones I y II del artículo 232 del Código Penal para el Estado Libre y Soberano de Tlaxcala, salvo que se cometan en los supuestos de calificadas;
 
-IX. Robo simple a que se refiere el artículo 301 fracciones I y II del Código Penal para el Estado Libre y Soberano de Tlaxcala;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+IX. Robo Simple a que se refiere el artículo 323 fracciones I y II del Código Penal para el Estado Libre y Soberano de Tlaxcala;
 
 X. Abuso de confianza;
 
@@ -3133,7 +3165,11 @@ XI. Fraude;
 
 XII. Despojo, y
 
-XIII. Daños, excepción hecha del supuesto que establecen los artículos 327 y 329 del Código Penal para el Estado Libre y Soberano de Tlaxcala.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XIII. Daños, excepción hecha del supuesto que establecen los artículos 349 y 350 del Código Penal para el Estado Libre y Soberano de Tlaxcala.
 
 ###### ARTÍCULO 260.
 
@@ -6276,3 +6312,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor en el momento en que cobre vigencia el nuevo Código Penal y de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, en los términos del Artículo Primero Transitorio del Decreto Número 175, publicado en el Periódico Oficial del Gobierno del Estado el día 29 de mayo de 2013.
