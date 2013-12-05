@@ -4,7 +4,7 @@ identifier: "DUR-ley-ganadera-para-el-estado-de-durango-51620"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-13"
-last_updated: "2006-08-13"
+last_updated: "2013-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GANADERA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de agosto de 2006.
 
@@ -81,201 +81,235 @@ III. Los estableros, avicultores, apicultores y todas aquellas personas físicas
 
 Los terrenos dedicados a la producción de forrajes, praderas o agostaderos; los bienes, infraestructura y equipamiento dedicados o relacionados con la ganadería; abrevaderos, caminos y rutas pecuarias de uso común.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
 Para los efectos de esta ley, se considera:
 
 I. Acopiador: Quien teniendo instalaciones adecuadas, se dedica a la compra-venta de animales, sus productos o subproductos;
 
-II. Acta circunstanciada: Documento en donde deberán anotarse todos y cada uno de los pormenores de la verificación o inspección y su debida fundamentación;
+II. Acta circunstanciada: Documento en donde deberán plasmar todos y cada uno de los pormenores de la verificación o inspección y su debida fundamentación;
 
-III. Animales de peletería: Conejos, chinchillas y martas;
+III. Acta de retención: Resolución de la autoridad debidamente fundada y motivada mediante la cual se impide el tránsito del ganado, productos o subproductos;
 
-IV. Apiario: Al conjunto de colmenas instaladas en un lugar determinado;
+IV. Agostadero: La superficie de terreno utilizada para el pastoreo, la reproducción y cría de animales mediante el uso de su vegetación nativa;
 
-V. Apicultor: Toda persona física o moral que se dedique a la cría, explotación, producción y mejoramiento de las abejas, ya sea en forma estacionaria o migratoria;
+V. Animales de peletería: Conejos, chinchillas y martas;
 
-VI. Apicultura: Las actividades relacionadas con la cría, explotación y mejoramiento genético de las abejas, así como a la industrialización y comercialización de sus productos y/o subproductos;
+VI. Apiario: Al conjunto de colmenas instaladas en un lugar determinado;
 
-VII. Aprovechamiento racional: La utilización de los elementos naturales en forma que resulte eficiente, socialmente útil y asegure la preservación del ambiente;
+VII. Apicultor: Toda persona que se dedique a la cría, explotación, producción y mejoramiento de las abejas, ya sea en forma estacionaria o migratoria;
 
-VIII. Arete de origen: Arete metálico de color amarillo que se coloca en la oreja del ganado, el cual identifica al dueño, asiento de producción y municipio de origen;
+VIII. Apicultura: Las actividades relacionadas con la cría, explotación y mejoramiento genético de las abejas, así como a la industrialización y comercialización de sus productos y/o subproductos;
 
-IX. Arillo de identidad: Cinta metálica que se fija generalmente en el ala o en la pata de las aves gigantes y exóticas;
+IX. Aprovechamiento racional: La utilización de los elementos naturales en forma que resulte eficiente, socialmente útil y asegure la preservación del ambiente;
 
-X. Autorización: Acto por el cual la Secretaría otorga a una persona física o moral la posibilidad de realizar una actividad específica competencia de ésta;
+X. Arillo de identidad: Cinta metálica que se fija generalmente en el ala o en la pata de las aves gigantes y exóticas;
 
-XI. Aves de corral: Gallináceas, palmípedas y colúmbidas;
+XI. Autorización: Acto por el cual la Secretaría otorga a una persona física o moral la posibilidad de realizar una actividad específica competencia de ésta;
 
-XII. Aves gigantes: Avestruz y ñandú;
+XII. Aves de corral: Gallináceas, palmípedas y colúmbidas;
 
-XIII. Avicultor: La persona física o moral que se dedica a la cría, reproducción y explotación de aves;
+XIII. Aves gigantes: Avestruz y ñandú;
 
-XIV. Avicultura: Las actividades relacionadas con la cría, reproducción y explotación de las especies y variedades de aves útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus productos y subproductos;
+XIV. Avicultor: La persona física o moral que se dedica a la cría, reproducción y explotación de aves;
 
-XV. C. N.: Consumo nacional;
+XV. Avicultura: Las actividades relacionadas con la cría, reproducción y explotación de las especies y variedades de aves útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus productos y subproductos;
 
 XVI. Campaña: Conjunto de medidas zoosanitarias para la prevención, control o erradicación de enfermedades o plagas de los animales de un área geográfica determinada;
 
-XVII. Certificado zoosanitario: Documento oficial expedido por la SAGARPA o por quienes estén aprobados o acreditados para constatar el cumplimiento de las normas oficiales. Tratándose de animales, será signado por un médico veterinario acreditado o aprobado;
+XVII. Caseta de inspección: Instalaciones ubicadas en las vías terrestres de comunicación donde se lleva a cabo la verificación física y documental, que certifique la legal propiedad,
 
-XVIII. Codex: Código alimentario;
+XVIII. Certificado zoosanitario el origen y la sanidad de ganado, productos o subproductos;: (sic) Documento oficial expedido por la SAGARPA o por quienes estén aprobados o acreditados para constatar el cumplimiento de las normas oficiales. Tratándose de animales, será signado por un médico veterinario acreditado o aprobado;
 
-XIX. Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que de ahí finquen sus panales para su almacenamiento de miel;
+XIX. C.N.: Consumo nacional;
 
-XX. Colmena natural: La oquedad que las abejas ocupan como morada sin la intervención del hombre;
+XX. Codex: Código alimentario;
 
-XXI. Colmena rústica: El alojamiento para las abejas construido por ellas, sin guiarlas en la edificación de los panales;
+XXI. Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que de ahí finquen sus panales para su almacenamiento de miel;
 
-XXII. Comité Estatal de Fomento y Protección Pecuaria: Organismo auxiliar de la Secretaría constituido por las organizaciones de ganaderos, instituciones de investigación, industriales, para coadyuvar con la Secretaría en las actividades zoosanitarias y de fomento pecuario;
+XXII. Colmena natural: La oquedad que las abejas ocupan como morada sin la intervención del hombre;
 
-XXIII. Control: Conjunto de medidas zoosanitarias que tienen por objeto disminuir la incidencia o prevalencia de una enfermedad o plaga de los animales en un área geográfica determinada;
+XXIII. Colmena rústica: El alojamiento para las abejas construido por ellas, sin guiarlas en la edificación de los panales;
 
-XXIV. Criadero: Lugar destinado para la cría de los animales;
+XXIV. Comité Estatal de Fomento y Protección Pecuaria: Organismo auxiliar de la Secretaría constituido por las organizaciones de ganaderos, instituciones de investigación, industriales, para coadyuvar con la Secretaría en las actividades zoosanitarias y de fomento pecuario;
 
-XXV. Criadero de reinas: El conjunto de colmenas divididas interiormente o de medidas especiales, destinadas a la obtención de las abejas reinas;
+XXV. Control: Conjunto de medidas zoosanitarias que tienen por objeto disminuir la incidencia o prevalencia de una enfermedad o plaga de los animales en un área geográfica determinada;
 
-XXVI. Criador: Quien se dedique a la cría, reproducción y explotación de especies de su propiedad;
+XXVI. Criadero: Lugar destinado para la cría de los animales;
 
-XXVII. Corridas. La reunión y recuento que de sus animales hace un ganadero para comprobar el número de semovientes que le pertenecen y recoger e identificar el ganado ajeno, con el fin de entregarlo a la autoridad municipal correspondiente;
+XXVII. Criadero de reinas: El conjunto de colmenas divididas interiormente o de medidas especiales, destinadas a la obtención de las abejas reinas;
 
-XXVIII. Cuarentena de los animales: Medida zoosanitaria basada en el aislamiento, observación y restricción de la movilización de animales, por la sospecha o existencia de una enfermedad o plaga de los mismos, sujeta a control;
+XXVIII. Criador: Quien se dedique a la cría, reproducción y explotación de especies de su propiedad;
 
-XXIX. Diagnóstico: Estudio que se basa en el análisis que se haga del conjunto de signos clínicos observados en los animales que permite descartar o confirmar la sospecha; en este último caso, mediante pruebas de laboratorio, de la presencia de una enfermedad o plaga en los mismos;
+XXIX. Corridas: La reunión y recuento que de sus animales hace un ganadero para comprobar el número de semovientes que le pertenecen y recoger e identificar el ganado ajeno, con el fin de entregarlo a la autoridad municipal correspondiente;
 
-XXX. Enfermedad: Ruptura del equilibrio en la interacción entre un animal, agente biológico y medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
+XXX. Cuarentena de los animales: Medida zoosanitaria basada en el aislamiento, observación y restricción de la movilización de animales, por la sospecha o existencia de una enfermedad o plaga de los mismos, sujeta a control;
 
-XXXI. Enfermedad o plaga exótica: La que es extraña en el territorio nacional o en una región del mismo;
+XXXI. Diagnóstico: Estudio que se basa en el análisis que se haga del conjunto de signos clínicos observados en los animales que permite descartar o confirmar la sospecha; en este último caso, mediante pruebas de laboratorio, de la presencia de una enfermedad o plaga en los mismos;
 
-XXXII. Engordador: Quien se dedique a la explotación de especies de su propiedad;
+XXXII. Enfermedad: Ruptura del equilibrio en la interacción entre un animal, agente biológico y medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
 
-XXXIII. Epizootia: Enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
+XXXIII. Enfermedad o plaga exótica: La que es extraña en el territorio nacional o en una región del mismo;
 
-XXXIV. Erradicación: Eliminación total de una enfermedad o plaga de animales en un área geográfica determinada;
+XXXIV. Engordador: Quien se dedique a la explotación de especies de su propiedad;
 
-XXXV. Especies diversas: Las que constituyen una explotación zootécnica económica no numerada;
+XXXV. Epizootia: Enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
 
-XXXVI. Especies domésticas productivas: abejas, avestruces, bovinos, caprinos, colúmbidas, chinchillas, gallináceas, martas, ñandúes, ovinos y porcinos.
+XXXVI. Erradicación: Eliminación total de una enfermedad o plaga de animales en un área geográfica determinada;
 
-XXXVII. Estación cuarentenaria: Conjunto de instalaciones especializadas para el aislamiento de animales, donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas propias de éstos;
+XXXVII. Especies diversas: Las que constituyen una explotación zootécnica económica no numerada;
 
-XXXVIII. Exportador: El que se dedica a la venta de especies domésticas productivas al exterior del país.
+XXXVIII. Especies domésticas productivas: abejas, avestruces, bovinos, caprinos, colúmbidas, chinchillas, gallináceas, martas, ñandúes, ovinos y porcinos;
 
-XXXIX. Fierro: Instrumento que se utiliza para marcar el ganado;
+XXXIX. Estación cuarentenaria: Conjunto de instalaciones especializadas para el aislamiento de animales, donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas propias de éstos;
 
-XL. Ganadero: Toda persona física o moral que se dedique a la producción, reproducción, cría o comercialización de cualquier especie animal explotable y que tenga su principal asiento de producción en el territorio estatal;
+XL. Exportador: El que se dedica a la venta de especies domésticas productivas al exterior del país;
 
-XLI. Ganado mayor: Bovino, equino, mular y asnal;
+XLI. Fierro: Instrumento que se utiliza para marcar el ganado;
 
-XLII. Ganado menor: Ovinos, caprinos y porcinos;
+XLII. Fleje: Dispositivo de seguridad autorizado por la Secretaría, para evitar que los contenedores, jaulas u otro transporte, sean abiertos en su trayecto y pierdan las condiciones de seguridad e inocuidad, con las cuales el ganado, productos o subproductos fueron certificados al ser embarcados;
 
-XLIII. Granja porcícola: La empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para abasto;
+XLIII. Ganadero: Toda persona física o moral que se dedique a la producción, reproducción, cría o comercialización de cualquier especie animal explotable y que tenga su principal asiento de producción en el territorio estatal;
 
-XLIV. Granja avícola: La empresa especializada en la cría, reproducción y explotación de aves;
+XLIV. Ganado mayor: Bovino, equino, mular y asnal;
 
-XLV. Hato: Porción de ganado mayor o menor;
+XLV. Ganado menor: Ovinos, caprinos y porcinos;
 
-XLVI. Identificación electrónica: Elemento electromagnético que se implanta vía subcutánea en el animal y contiene datos de identidad del mismo y del dueño;
+XLVI. Granja porcícola: La empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para abasto;
 
-XLVII. Incidencia: Número de nuevos casos de una enfermedad que aparecen en una población animal determinada, durante un periodo específico en un área geográfica determinada;
+XLVII. Granja avícola: La empresa especializada en la cría, reproducción y explotación de aves;
 
-XLVIII. Inspección: Revisión para constatar el cumplimiento de las disposiciones de esta ley y demás ordenamientos aplicables en la materia efectuada por personal de la Secretaría, o unidad de verificación aprobada, que se deberá realizar previa identificación de dichos actuantes, y levantándose acta circunstanciada al concluir la misma;
+XLVIII. Guía de tránsito: Documento que expide la autoridad competente para la movilización de ganado, una vez que se verifica su legítima propiedad y el cumplimiento de las disposiciones sanitarias;
 
-XLIX. Marca: Dibujo que se plasma en el cuarto trasero izquierdo del ganado conocido también como lado del criador, con fuego, pintura indeleble, ácido corrosivo o en frío;
+XLIX. Hato: Conjunto de animales de una misma especie que se encuentra ubicado en una unidad de producción;
 
-L. Médico veterinario: Profesional con cédula expedida por la Secretaría de Educación Pública de médico veterinario o médico veterinario zootecnista;
+L. Identificación electrónica: Elemento electromagnético que se implanta vía subcutánea en el animal y contiene datos de identidad del mismo y del dueño;
 
-LI. Medida zoosanitaria: Disposición para proteger la vida o salud humana y animal, de la introducción, radicación o propagación de una plaga o enfermedad, de los riesgos provenientes de aditivos, contaminantes, toxinas u organismos causantes de enfermedades y daños;
+LI. Identificadores SINIIGA: Dispositivo conformado por dos identificadores de plástico color amarillo (arete) para las especies bovina, ovina y caprina; para las colmenas dos discos y para los équidos se compone de un microchip;
 
-LII. Mostrenquero: Persona que se encarga del cuidado de los animales mostrencos;
+LII. Incidencia: Número de nuevos casos de una enfermedad que aparecen en una población animal determinada, durante un periodo específico en un área geográfica determinada;
 
-LlII. NOM's: Normas Oficiales Mexicanas, expedidas por la SAGARPA en materia de sanidad animal, de carácter obligatorio, elaboradas en los comités consultivos nacionales de normalización de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización;
+LIII. Inspección: Revisión para constatar el cumplimiento de las disposiciones de esta ley y demás ordenamientos aplicables en la materia efectuada por personal de la Secretaría o unidad de verificación aprobada, que se deberá realizar previa identificación de dichos actuantes y levantándose acta circunstanciada al concluir la misma;
 
-LlV. Organismo auxiliar: Organizaciones de productores pecuarios integrados en Comités Estatales de Fomento y Protección Pecuaria, que fungen como auxiliares de la Secretaría en el desarrollo de las medidas zoosanitarias y actividades de fomento que ésta implemente en todo o en parte del territorio estatal. La Secretaría organizará y coordinará la integración y operación de estos organismos;
+LIV. Inspector de ganado: Persona a quien se le ha extendido una autorización por la Secretaría para ejercer las funciones previstas para dicho cargo por esta ley;
 
-LV. Particulares: Personas físicas o morales con interés jurídico que participen en actividades pecuarias de acuerdo a lo establecido en esta ley;
+LV. Marca: Dibujo que se plasma en el cuarto trasero izquierdo del ganado conocido también como lado del criador, con fuego, pintura indeleble, ácido corrosivo o en frío;
 
-LVI. Parvada: Grupo numeroso de aves;
+LVI. Médico veterinario: Profesional con cédula expedida por la Secretaría de Educación Pública de médico veterinario o médico veterinario zootecnista;
 
-LVII. Plaga: Presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población;
+LVII. Medida zoosanitaria: Disposición para proteger la vida o salud humana y animal, de la introducción, radicación o propagación de una plaga o enfermedad, de los riesgos provenientes de aditivos, contaminantes, toxinas u organismos causantes de enfermedades y daños;
 
-LVIII. Porcicultor: La persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de la especie porcina;
+LVIII. Mostrenquero: Persona que se encarga del cuidado de los animales mostrencos;
 
-LlX. Porcicultura: La cría, reproducción, mejoramiento y explotación de los cerdos;
+LXIX. NOM's: Normas Oficiales Mexicanas, expedidas por la SAGARPA en materia de sanidad animal, de carácter obligatorio, elaboradas en los comités consultivos nacionales de normalización de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización;
 
-LX. Preservación: Las medidas tomadas para mantener las condiciones que propicia la evolución y continuidad de los procesos naturales;
+LX. Organismo auxiliar: Organizaciones de productores pecuarios integrados en Comités Estatales de Fomento y Protección Pecuaria, que fungen como auxiliares de la Secretaría en el desarrollo de las medidas zoosanitarias y actividades de fomento que ésta implemente en todo o en parte del territorio estatal. La Secretaría organizará y coordinará la integración y operación de estos organismos;
 
-LXI. Prevalencia: La frecuencia de una enfermedad o plaga, en un periodo preciso, referida a una población animal determinada;
+LXI. Particulares: Personas físicas o morales con interés jurídico que participen en actividades pecuarias de acuerdo a lo establecido en esta ley;
 
-LXII. Prevención: Conjunto de medidas zoosanitarias basadas en estudios epizootiológicos, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales;
+LXII. Parvada: Grupo numeroso de aves;
 
-LXIII. Productos: Resultados de la producción primaria de las especies domésticas productivas, tales como: carne, leche, miel, entre otros;
+LXIII. Plaga: Presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población;
 
-LXIV. Punto de verificación e inspección estatal: Instalaciones ubicadas en las vías terrestres de comunicación del territorio del Estado, donde se llevan a cabo la revisión y/o expedición de documentos oficiales en materia de movilización y de sanidad animal así como la verificación física de los animales, sus productos y subproductos, así como de los productos biológicos, químicos, farmacéuticos para uso animal y alimentos para consumo de aquéllos;
+LXIV. Porcicultor: La persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de la especie porcina;
 
-LXV. Punto de verificación e inspección zoosanitaria: Sitios ubicados dentro del territorio del Estado, con infraestructura de diagnóstico autorizada por la SAGARPA, para constatar el cumplimiento de las NOM's, de conformidad a lo establecido por esta ley y la Ley Federal de Sanidad Animal, en materia de sanidad y movilización animal;
+LXV. Porcicultura: La cría, reproducción, mejoramiento y explotación de los cerdos;
 
-LXVI. Rastro: Establecimiento donde se da el servicio para sacrificio de animales destinados a la alimentación humana y comercialización al mayoreo, de sus productos, generalmente prestado por los municipios;
+LXVI. Preservación: Las medidas tomadas para mantener las condiciones que propicia la evolución y continuidad de los procesos naturales;
 
-LXVII. Realeo: Rastrear, perseguir, lazar y reunir a todo el ganado;
+LXVII. Prevalencia: La frecuencia de una enfermedad o plaga, en un periodo preciso, referida a una población animal determinada;
 
-LXVIII. Rebaño: Hato grande de ganado, especialmente del lanar;
+LXVIII. Prevención: Conjunto de medidas zoosanitarias basadas en estudios epizootiológicos, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales;
 
-LXIX. Riesgo zoosanitario: La probabilidad de introducción, establecimiento o diseminación de una enfermedad o plaga en la población animal;
+LXIX. Productos: Resultados de la producción primaria de las especies domésticas productivas;
 
-LXX. Ruta o territorio apícola: Los caminos, veredas o lugares en donde tradicionalmente existen apiarios;
+LXX. PSG. Prestador de Servicios Ganaderos;
 
-LXXI. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, del Gobierno Federal;
+LXXI. Punto de verificación e inspección estatal: Instalaciones ubicadas en las vías terrestres de comunicación del territorio del Estado, donde se llevan a cabo la revisión y/o expedición de documentos oficiales en materia de movilización y de sanidad animal así como la verificación física de los animales, sus productos y subproductos, así como de los productos biológicos, químicos, farmacéuticos para uso animal y alimentos para consumo de aquéllos;
 
-LXXII. Sanidad pecuaria: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
+LXXII. Punto de verificación e inspección zoosanitaria: Sitios ubicados dentro del territorio del Estado, con infraestructura de diagnóstico autorizada por la SAGARPA, para constatar el cumplimiento de las NOM's, de conformidad a lo establecido por esta ley y la Ley Federal de Sanidad Animal, en materia de sanidad y movilización animal;
 
-LXXIII. Secretaría: Secretaría de Agricultura, Ganadería y Desarrollo Rural, del Gobierno del Estado de Durango;
+LXXIII. Rastreabilidad: Conjunto de acciones, medidas y procedimientos técnicos y administrativos de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus últimas consecuencias, a fin de llevar a cabo su control y erradicación;
 
-LXXIV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales, del Gobierno Federal;
+LXXIV. Rastro: Establecimiento donde se da el servicio para sacrificio de animales destinados a la alimentación humana y comercialización al mayoreo de sus productos;
 
-LXXV. Señal de sangre: Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
+LXXV. Realeo: Rastrear, perseguir, lazar y reunir a todo el ganado;
 
-LXXVI. Subproducto animal: El que se deriva de un producto pecuario cuyo proceso de transformación no asegura su desinfectación o desinfección;
+LXXVI. Rebaño: Hato grande de ganado, especialmente del lanar;
 
-LXXVII. Subproducto pecuario: El que se deriva de un proceso de transformación de un producto pecuario;
+LXXVII. Riesgo zoosanitario: La probabilidad de introducción, establecimiento o diseminación de una enfermedad o plaga en la población animal;
 
-LXXVIII. Tatuaje: La impresión de dibujos, letras o números indelebles en la oreja, belfos o pliegue inguinal;
+LXXVIII. Ruta o territorio apícola: Los caminos, veredas o lugares en donde tradicionalmente existen apiarios;
 
-LXXIX. TIF: Establecimiento Tipo Inspección Federal;
+LXXIX. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, del Gobierno Federal;
 
-LXXX. Zona libre: Área geográfica determinada, en la cual se ha eliminado o no se han presentado casos positivos de una enfermedad o plaga de animales específica durante un periodo preciso, de acuerdo con las NOM's y las medidas zoosanitarias que la SAGARPA establezca;
+LXXX. Sanidad pecuaria: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
 
-LXXXI. Zona en control: Área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a disminuir la incidencia o prevalencia de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específico;
+LXXXI. Secretaría: Secretaría de Agricultura, Ganadería y Desarrollo Rural, del Gobierno del Estado de Durango;
 
-LXXXII. Zona de erradicación: Área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a la eliminación total de una enfermedad o plaga de animales, o se realizan estudios epizotiolóogicos (sic) con el objeto de comprobar la ausencia de dicha enfermedad o plaga en un periodo de tiempo y especie animal específicos, de acuerdo con las NOM's y las medidas zoosanitarias que la SAGARPA establezca;
+LXXXII. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales, del Gobierno Federal;
 
-LXXXIII. Zona de alta prevalencia: Área geográfica determinada en donde se presenta una mayor frecuencia de casos recientes de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específicos;
+LXXXIII. Señal de sangre: Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
-LXXXIV. Zona de baja prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específicos, y
+LXXXIV. SINIIGA: Sistema Nacional de Identificación Individual de Ganado.
 
-LXXXV. Zona zoosanitariamente restringida: Área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a disminuir la incidencia o prevalencia de una enfermedad o plaga de los animales, en un periodo de tiempo y especie animal específicos.
+LXXXV. Subproducto animal: El que se deriva de un producto pecuario cuyo proceso de transformación no asegura su desinfectación o desinfección;
+
+LXXXVI. Subproducto pecuario: El que se deriva de un proceso de transformación de un producto pecuario;
+
+LXXXVII. Tatuaje: La impresión de dibujos, letras o números indelebles en la oreja, belfos o pliegue inguinal;
+
+LXXXVIII. TIF: Establecimiento Tipo Inspección Federal;
+
+LXXXIX. Trazabilidad: Serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con el nacimiento, crianza, engorda, reproducción, sacrificio y procesamiento de un animal, productos o subproductos, así como de los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumido por éstos hasta su finalización, identificando en cada etapa su ubicación espacial y en su caso los factores de riesgo zoosanitario y de contaminación que pueden estar presentes en cada una de las actividades;
+
+XC. UPP: Unidad de producción pecuaria;
+
+XCI. Zona libre: Área geográfica determinada, en la cual se ha eliminado o no se han presentado casos positivos de una enfermedad o plaga de animales específica durante un periodo preciso, de acuerdo con las NOM's y las medidas zoosanitarias que la SAGARPA establezca;
+
+XCII. Zona en control: Área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a disminuir la incidencia o prevalencia de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específico;
+
+XCIII. Zona de erradicación: Área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a la eliminación total de una enfermedad o plaga de animales, o se realizan estudios epizotioológicos con el objeto de comprobar la ausencia de dicha enfermedad o plaga en un periodo de tiempo y especie animal específicos, de acuerdo con las NOM's y las medidas zoosanitarias que la SAGARPA establezca;
+
+XCIV. Zona de alta prevalencia: Área geográfica determinada en donde se presenta una mayor frecuencia de casos recientes de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específicos;
+
+XCV. Zona de baja prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específicos, y
+
+XCVI. Zona zoosanitariamente restringida: Área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a disminuir la incidencia o prevalencia de una enfermedad o plaga de los animales, en un periodo de tiempo y especie animal específicos.
 
 ###### ARTÍCULO 5.
 
 En el Estado de Durango, se reconoce la personalidad jurídica de las asociaciones ganaderas legalmente constituidas y sus respectivas uniones regionales para la realización de sus finalidades, de conformidad con la Ley de Organizaciones Ganaderas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-Todo ganadero deberá manifestar por escrito a la Secretaría y a la autoridad municipal en que tenga su explotación pecuaria, la iniciación o cambio de actividades dentro de un plazo de sesenta días naturales siguientes a la misma.
+Toda actividad de acopio de ganado, como es el inicio, cambio o conclusión, deberá registrarse por escrito ante la Secretaría, dentro de un plazo de sesenta días naturales siguientes a la misma, debiendo cumplir con los siguientes requisitos:
 
-Tal manifestación deberá contener:
+I. Solicitud original del interesado manifestando el propósito de su comercialización;
 
-I. Nombre y ubicación del predio;
+II. Copia de la identificación oficial vigente con fotografía y original para su cotejo;
 
-II. Fierro y señales de su uso;
+III. Datos de la clave única de registro de población (CURP);
 
-III. Número, sexo y especies de animales;
+IV. Croquis de ubicación del corral y vías de acceso;
 
-IV. El giro de actividad ganadera, así como la clase de explotación a que se dediquen, y
+V. Plano de distribución de la infraestructura pecuaria con la que se cuente;
 
-V. Además se deberá expresar también el número de registro que le corresponde en la asociación ganadera local a que, en su caso, pertenezca, sin perjuicio de otros requisitos que señale la autoridad. El escrito que contenga dicha manifestación se entregará en original a la Secretaría, remitiéndose copias a la asociación ganadera local y a la autoridad municipal que corresponda.
+VI. Contar con infraestructura mínima necesaria para el manejo del ganado como lo son la manga o shute, prensa, embarcadero, espacio protegido para el manejo y control de archivos (oficina), etc.;
 
-Además el criador, el engordador, acopiador y exportador, deberán llevar un registro de ingresos y egresos del ganado de sus hatos ganaderos, acopios o engorda.
+VII. Presentar el registro como PSG;
+
+VIII. Constancia emitida por el Comité Estatal de Fomento y Protección Pecuaria de no antecedentes epidemiológicos; y
+
+IX. Las demás que establezca el reglamento de la presente Ley.
+
+Deberán llevar un registro de control de entradas y salidas del ganado de forma escrita o magnética sustentado en facturas o documento que acredite la propiedad del ganado, fierros de herrar, certificado de origen, dictámenes zoosanitarios, guías de tránsito de ingreso al corral y permiso de internación en su caso.
+
+En caso de cambios deberán actualizar la información soportándola con la documentación inherente; la cancelación de la actividad bastará con la declaración escrita del interesado o la presentación del instrumento legal correspondiente.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
 
@@ -313,9 +347,11 @@ VI. Los médicos veterinarios en ejercicio de su profesión en el Estado, y
 
 VII. Las demás autoridades estatales y municipales que como auxiliares sean requeridas para el cumplimiento de los actos que deriven de esta ley.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 9.
 
-El Gobernador del Estado, celebrará con el Gobierno Federal, de conformidad con la fracción X del artículo 4 de la Ley Federal de Sanidad Animal, los acuerdos interinstitucionales y las bases de coordinación, convenios y acuerdos necesarios para la asunción del ejercicio de funciones, ejecución y operación de obras y prestación de servicios públicos que sean necesarios, de conformidad con esta ley.
+El Gobernador del Estado podrá celebrar con el Gobierno Federal los acuerdos interinstitucionales y las bases de coordinación y convenios necesarios para la asunción del ejercicio de funciones, ejecución y operación de obras y prestación de servicios públicos que sean necesarios, de conformidad con esta Ley.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -373,7 +409,9 @@ XIII. Llevar el registro y control de los medios de identificación que permitan
 
 XIV. Apoyar, a través de los inspectores, el realeo de ganado, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
 
-XV. Expedir un solo tipo de guía de tránsito, así como el documento de transmisión de propiedad para controlar la movilización y comercialización de las especies domésticas productivas, productos y subproductos, dentro y fuera del Estado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XV. Elaborar y expedir los formatos de guía de tránsito, el pase de sacrificio, así como la factura para controlar la movilización y comercialización de las especies domésticas productivas, productos y subproductos, dentro y fuera del Estado;
 
 XVI. Otorgar los permisos para el establecimiento de expendios de productos y subproductos, previa autorización de la Secretaría de Salud del Estado y demás autoridades competentes;
 
@@ -411,9 +449,21 @@ XXXII. Organizar y mantener permanentemente actualizado el Registro Estatal de I
 
 XXXIII. Celebrar por delegación del Gobernador del Estado convenios y acuerdos con las entidades federativas en materia pecuaria;
 
-XXXIV. Elaborar y expedir los formatos de transmisión de propiedad de las especies domésticas productivas, sus productos y/o subproductos, las órdenes de sacrificio y el formato único de guía de tránsito, con base en los requisitos que establezca la Secretaría, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-XXXVI. Las demás que establezcan la presente ley, su reglamento, los convenios que celebre el Gobernador del Estado y demás normatividad aplicable.
+XXXIV. Organizar y dirigir los servicios de inspección, vigilancia y control de ganado;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXXV. Aplicar las medidas y acciones necesarias para mejorar el estatus sanitario, procurando incrementar de modo constante los niveles de sanidad animal;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXXVI. Autorizar o cancelar la operación de los corrales de acopio para comercializar ganado a distintos fines y destinos, realizando las verificaciones necesarias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXXVII. Las demás que establezca la presente ley, su reglamento y normatividad aplicable.
 
 ###### ARTÍCULO 12.
 
@@ -491,7 +541,9 @@ VIII. Estar inscrito en el Registro Estatal.
 
 Son deberes, atribuciones y obligaciones de los inspectores de ganado:
 
-I. Expedir, verificar, validar y cancelar guías de tránsito para ganado, sus productos y/o subproductos previa comprobación de la legalidad de los documentos requeridos conforme a la Ley Federal de Sanidad Animal y las NOM's;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+I. Expedir, verificar, validar y cancelar guías de tránsito y pases a sacrificio para ganado, sus productos y/o subproductos previa comprobación de la legalidad de los documentos requeridos conforme a la normatividad de la materia;
 
 II. Inspeccionar las especies domésticas productivas, sus productos y/o subproductos, para verificar el cumplimiento de las disposiciones sanitarias y disposiciones, generales para su movilización;
 
@@ -559,15 +611,21 @@ III. Cuando se haya realizado un acto de compraventa o cesión de derechos, con 
 
 Las facturas o documentos que amparen la propiedad de segundas o terceras personas serán expedidas por el propietario del ganado, del talonario de facturas fiscales que está obligado a tener debidamente requisitadas, conforme las reglas que marque la Secretaría de Hacienda y Crédito Público.
 
-En el caso de los ganaderos a quienes por su producción no les obliga el procedimiento antes descrito, solicitarán a la autoridad civil correspondiente, la expedición de una factura del talonario que previamente les haya proporcionado la Presidencia Municipal del formato único obtenido de la Secretaría, la autoridad será responsable de la legalidad de las operaciones.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+El Gobierno del Estado emitirá un formato único de factura que ampare la propiedad de los animales, que le será proporcionado a la Presidencia Municipal, debiendo la autoridad civil correspondiente expedirlo y sellarlo por cada cabeza de ganado mayor.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 25.
 
-Las facturas o documentos que amparen la propiedad, deberán ser revisadas y selladas por el inspector de ganado mas cercano al lugar de la compraventa, cerciorándose de que las mismas estén expedidas por el propietario del ganado cuyo título de fierro de herrar esté en vigor y que se dio cumplimiento a lo establecido en el artículo anterior de la presente ley.
+Los productores del Estado deberán aplicar a su ganado los identificadores SINIIGA, dentro de los doce primeros meses del nacimiento de los animales, o en el momento de su movilización si esta sucede antes.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-Cuando se trate de ventas de segunda mano, la persona que venda, tiene la obligación de expedir la factura correspondiente o el documento que acredite la propiedad que certifique la operación efectuada; debiendo entregar al comprador el original del documento que ampara la compraventa anterior, conservando en su poder copia de éste último autorizado por la autoridad competente más cercana al lugar donde se realice la compraventa.
+Cuando se trate de ventas de segunda mano, la persona que venda tiene la obligación de transferir la factura debidamente endosada, en presencia de la autoridad civil del lugar donde se realice la transacción.
 
 ###### ARTÍCULO 27.
 
@@ -605,15 +663,19 @@ Las personas físicas o morales que deseen obtener el registro de un fierro de h
 
 ###### ARTÍCULO 34.
 
-Para registrar un fierro de herrar, señal de sangre, registro electrónico, tatuaje o arete de origen, se presentará la solicitud correspondiente en la Secretaría, la que deberá contener los requisitos establecidos en el reglamento respectivo.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-La Secretaría llevará un registro general de los fierros de herrar por orden de municipios, en el que se anotará un diseño de los mismos, incluyendo nombre, asiento de producción, domicilio de los dueños, fecha de alta y número de registro; de igual manera, en cada municipio, la autoridad competente mantendrá un registro vigente de los correspondientes a su jurisdicción.
+La Secretaría llevará un registro general de los fierros de herrar por orden de municipios, en el que se anotará un diseño de los mismos, incluyendo nombre, unidad de producción pecuaria, domicilio del dueño, fecha de alta y número de registro; de igual manera, en cada municipio, la autoridad competente mantendrá un registro vigente de los correspondientes a su jurisdicción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-El fierro de herrar deberá tener como máximo trece centímetros de alto y ancho, y la línea un grosor no mayor de cinco milímetros; la señal de sangre no deberá cortar más de una tercera parte de la oreja y no más de cuatro cortes; los tatuajes deberán ser en los lugares acostumbrados, a saber: interior de las orejas, belfos o pliegue inguinal, la marca del fierro de herrar será en el lado izquierdo ya sea en la pierna, palomilla o el costillar.
+El fierro de herrar deberá tener como máximo trece centímetros de alto y ancho, y la línea un grosor no mayor de cinco milímetros; la marca como máximo de siete centímetros de alto y ancho y un grosor no mayor de cinco milímetros; la señal de sangre no deberá cortar más de una tercera parte de la oreja y no más de cuatro cortes; los tatuajes deberán ser en los lugares acostumbrados, a saber: interior de las orejas, belfos o pliegue inguinal, la marca del fierro de herrar será en el lado izquierdo ya sea en la pierna, palomilla o el costillar.
 
 En caso de ser acopiador, la marca será implantada en la parte que quede libre ya sean las costillas, palomilla o pierna del mismo lado.
 
@@ -683,7 +745,9 @@ La lista de sucesión deberá ser depositada en la Secretaría o formalizada ant
 
 La Secretaría dará de baja o cancelará de manera temporal o definitiva el uso de los títulos de fierro de herrar, señal de sangre o tatuaje cuando:
 
-I. No se revaliden luego de un período de dos años;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+I. No se revaliden después de un período de dos años.
 
 II. Su titular no tenga ganado y manifieste su voluntad para la cancelación;
 
@@ -703,6 +767,14 @@ IX. Su titular interne ganado al Estado sin observar los procedimientos previsto
 
 X. Cuando el interesado o solicitante quiera registrar en el Estado la misma figura de fierro de herrar, señal de sangre o tatuaje que ya tenga registrado en otra entidad federativa.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XI. Su titular mantenga el ganado fuera del asiento de producción correspondiente, en perjuicio de los derechos de terceros; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XII. Al titular le sea revocada, por el propietario o poseedor del predio señalado como asiento de producción, la autorización otorgada para la explotación del mismo, y no se señale uno nuevo dentro del plazo de treinta días hábiles.
+
 Se cancelará el uso y el título de fierro de herrar, señal de sangre o tatuaje cuando se incurra en los supuestos previstos en las fracciones I y II pudiéndose expedir nuevamente a solicitud del interesado en caso de que no haya sido registrado por otra persona.
 
 Se dará de baja a petición del interesado el uso y el título de fierro de herrar, señal de sangre o tatuaje cuando se de el supuesto previsto en la fracción III de este artículo.
@@ -710,6 +782,10 @@ Se dará de baja a petición del interesado el uso y el título de fierro de her
 Se cancelará el título de fierro de herrar, señal de sangre o tatuaje mas reciente y se procederá a la expedición de uno nuevo, sin costo para el interesado, cuando se dé el supuesto de la fracción IV,
 
 Se cancelará coactivamente y de manera definitiva el uso y el título de fierro de herrar, señal de sangre o tatuaje cuando se incurra en los supuestos previstos en las fracciones V, VI, VII, VIII, IX y X.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+El procedimiento de cancelación podrá iniciarse oficiosamente o a solicitud de parte interesada, dándose cumplimiento a la garantía de audiencia.
 
 ###### ARTÍCULO 47.
 
@@ -889,9 +965,11 @@ III. Facilitar al inspector que dirija la corrida o vela, los elementos necesari
 
 Salvo lo que determine la Secretaría, los colindantes del predio en que se realice la corrida podrán participar en la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 77.
 
-Cuando en los predios en donde se celebre una corrida se encuentre ganado ajeno que se haya introducido accidentalmente, el inspector notificará a su propietario o representante para que dentro del término de cinco días proceda a retirarlo, previo pago de los gastos que se hubiesen generado. Además, se notificará de dicha circunstancia a la Secretaría y a la asociación ganadera local correspondiente.
+Cuando en los predios en donde se celebre una corrida se encuentre ganado ajeno que se haya introducido accidentalmente, el inspector notificará a su propietario o representante para que dentro del término de cinco días proceda a retirarlo, salvo en los casos que la autoridad zoosanitaria establezca lo contrario y previo pago de los gastos que se hubiesen generado. Además, se notificará de dicha circunstancia a la Secretaría y a la asociación ganadera local correspondiente.
 
 Transcurrido el plazo señalado sin que el propietario o su representante legal debidamente acreditado acudan por el ganado, el inspector lo pondrá a disposición de la autoridad municipal o civil correspondiente para que se dé tratamiento, conforme al procedimiento de ganado mostrenco.
 
@@ -907,9 +985,11 @@ De las corridas se levantará un acta circunstanciada de conformidad con las dis
 
 ### CAPÍTULO I. DE LAS VÍAS PECUARIAS
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 80.
 
-Las vías pecuarias están destinadas al tránsito del ganado, se consideran de utilidad pública y su existencia implica para los predios sirvientes la carga gratuita de las servidumbres de paso correspondiente. Compete al Gobernador del Estado, a través de la Secretaría, determinar su ubicación, supresión o creación oyendo previamente a los organismos de cooperación de la región y a los interesados.
+Las vías pecuarias están destinadas al tránsito del ganado, se consideran de utilidad pública y su existencia implica para los predios sirvientes la carga gratuita de las servidumbres de paso correspondiente. Compete a la Secretaría determinar su ubicación, supresión o creación oyendo previamente a los organismos auxiliares de la región y a los interesados.
 
 ###### ARTÍCULO 81.
 
@@ -947,23 +1027,31 @@ Para los efectos de esta ley, se considera movilización: el embarque, transport
 
 Para efectos de esta ley, la Secretaría podrá instalar en sitios estratégicos del territorio estatal, puntos de inspección y verificación que le permitan un mejor control en la movilización del ganado, pudiendo coordinarse con la SAGARPA en materia de sanidad pecuaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 89.
 
-Toda conducción de ganado deberá ampararse con un documento denominado guía de tránsito que será expedido por la Secretaría, a través del inspector de ganado más cercano al origen; siempre y cuando se compruebe la legal propiedad del ganado por medio de su título de fierro de herrar vigente o por medio de la factura de compra-venta cuando se haya realizado la traslación de dominio; el pago de impuestos y derechos correspondientes, la solicitud de movilización, así como los certificados zoosanitarios que establece la Ley Federal de Sanidad Animal.
+Toda conducción de ganado deberá ampararse con un documento denominado guía de tránsito que será expedido por la Secretaria a través del inspector de ganado más cercano al origen o personal autorizado, siempre y cuando se compruebe su legal propiedad por medio de su título de fierro de herrar vigente o factura de compra-venta, cuando se haya realizado la traslación de dominio, previa instalación de los identificadores SINIIGA; el pago de impuestos y derechos correspondientes, así como los certificados zoosanitarios.
 
 Se exceptúa de lo anterior la movilización de ganado que se realice de uno a otro predio que colinden entre sí, o estén ubicados dentro de una misma zona, cuando dicha movilización se realice por razones de manejo, recreación, alimentación o producción, y no tenga por objeto la venta o traslado de dominio de los animales, en cuyo caso deberá contarse con el visto bueno del inspector de ganado o de la autoridad municipal correspondiente, previa comprobación de los documentos que acrediten la propiedad y la certificación zoosanitaria requerida.
 
 En caso de ser detenido el ganado, los gastos que se originen correrán por cuenta del propietario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 90.
 
-La guía de tránsito se expedirá por el inspector de ganado correspondiente y la suscribirá el propietario de ganado o su representante legítimo debidamente acreditado, previa inspección minuciosa del ganado.
+La guía de tránsito se expedirá por el inspector de ganado correspondiente o por el personal autorizado y la suscribirá el propietario de ganado o su representante legítimo debidamente acreditado, previa inspección minuciosa del ganado.
 
 Es obligatorio que en las guías se dibuje el fierro del propietario o poseedores y se anote el número de arete o cualquier otro medio de acreditación de la propiedad del ganado de que se trate, así como establecer la vigencia de la guía que será por el tiempo estrictamente necesario para la movilización del ganado hacia su destino.
 
 ###### ARTÍCULO 91.
 
 Las guías de tránsito estarán numeradas progresivamente, y serán proporcionadas por la Secretaría a sus inspectores de ganado; las guías se expedirán por triplicado: el original para el interesado o transportista, una copia para el inspector y otra para la Secretaría, a quien se entregará con el informe mensual de actividades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+Independientemente de las conductas penales que correspondan, se sancionará administrativamente por la Secretaría a toda persona que proporcione o asiente datos falsos en las guías de tránsito de ganado o las altere de cualquier forma.
 
 ###### ARTÍCULO 92.
 
@@ -975,35 +1063,45 @@ Todo el ganado que transite en el territorio sin estar amparado por la guía de 
 
 Si el conductor de ganado comprueba la legítima propiedad de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria, previo pago de la multa correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 94.
 
-Toda movilización de ganado deberá llevarse a cabo en vehículos adecuados, que permitan inspeccionarlos libremente y que garanticen la protección y cuidado de los animales.
+Toda movilización de ganado se llevará a cabo en vehículos adecuados, que permitan inspeccionarlos libremente y garanticen la protección y cuidado del personal y de los animales.
 
-Cuando la movilización se lleve a cabo en dos o más unidades de transporte, se requerirá documentación por separado.
+Cuando la movilización se lleve a cabo en dos o más unidades de transporte, se requerirá documentación por separado, debidamente flejados.
 
 ###### ARTÍCULO 95.
 
 Cuando la documentación no reúna los requisitos previstos en esta ley y no sea posible la revisión en el interior de los vehículos de traslado, es obligación del propietario, chofer o encargado, bajar el ganado en el punto más cercano que cuente con las instalaciones necesarias. Los gastos que se originen, correrán por cuenta del propietario, de lo anterior se levantará acta circunstanciada.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 96.
 
-Toda persona, aun cuando fuere el criador, que por cualquier título transmita la propiedad de ganado, está obligada a suscribir y proporcionar el correspondiente documento que acredite la propiedad que ampare la movilización o traslado de dominio de los animales. Si no cumple con este requisito, el tercero que pretenda haber adquirido la propiedad del ganado referido no podrá ser tenido como adquirente o propietario y, en consecuencia, tampoco podrá movilizar el ganado de que se trate ni solicitar la expedición de guías de tránsito para subsecuentes movilizaciones del mismo.
+Toda persona aún cuando fuere el criador, que transmita la propiedad de ganado, está obligada a suscribir y proporcionar la factura debidamente endosada que ampare la movilización. Si no cumple con este requisito, el tercero que pretenda haber adquirido la propiedad del ganado referido no podrá ser tenido como adquirente o propietario.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 97.
 
-El Comité de Fomento y Protección Pecuaria solicitará a la Secretaría que verifique por conducto del inspector de ganado correspondiente el origen y procedencia del ganado con fines de exportación en un plazo no mayor de 62 horas contadas a partir de la solicitud para que se autorice su movilización fuera del territorio del Estado.
+El Comité Estatal de Fomento y Protección Pecuaria solicitará a la Secretaría verificar por conducto del inspector de ganado el origen y procedencia de los animales con fines de exportación en un plazo no mayor de 72 horas contadas a partir de la solicitud para que se autorice su movilización fuera del territorio del Estado.
 
-Dicha solicitud deberá presentarse en original y copia, quedando la original en poder del Comité y la copia en manos de la Secretaría.
+Dicha solicitud deberá presentarse en original y copia, quedando la original en poder del organismo y la copia en la Secretaría.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 98.
 
-Si se altera la documentación o se sustituye el ganado aprobado previamente por la Secretaría para su movilización, se aplicarán las sanciones que disponga esta ley, sin perjuicio de las que se le puedan aplicar por la responsabilidad civil o penal en que incurra.
+En caso de alterarse la documentación o sustituirse el ganado aprobado previamente por la Secretaría para su movilización o exportación, se impondrán las sanciones que disponga esta ley, sin perjuicio de las que se le puedan aplicar por la responsabilidad civil o penal en que incurra.
 
 ### CAPÍTULO III. DE LA INTRODUCCIÓN Y SALIDA DE GANADO, SUS PRODUCTOS Y/O SUBPRODUCTOS
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 99.
 
-Para la introducción o salida de ganado del Estado, sus productos y/o subproductos, deberá contarse con la autorización que previamente expida la Secretaría; además, la movilización deberá ampararse con la guía de tránsito que expida el inspector de ganado, de conformidad con lo dispuesto en esta ley y su reglamento.
+Para la introducción o salida de ganado del Estado, sus productos y/o subproductos, deberá contar con la autorización expedida por la Secretaría y la guía de tránsito, de conformidad con lo dispuesto en esta ley y su reglamento, siendo necesario el fleje de los vehículos de transporte.
 
 ###### ARTÍCULO 100.
 
@@ -1015,7 +1113,9 @@ Los titulares de estas autorizaciones y quienes conduzcan o auxilien en la movil
 
 En las introducciones de ganado, el titular de la autorización, en el punto de entrada al Estado, deberá cumplir ante el inspector correspondiente con los siguientes requisitos:
 
-I. Exhibir la autorización relativa a la internación;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+I. Exhibir el permiso de internación relativo a su tránsito por el Estado;
 
 II. Acreditar que el ganado que se pretende introducir al Estado es del tipo referido en la autorización, para lo cual podrá ser suficiente, salvo casos de excepción, la inspección de los animales;
 
@@ -1023,7 +1123,9 @@ III. Presentar la documentación zoosanitaria, de propiedad y de movilización d
 
 IV. En su caso, someter a los animales a la aplicación del baño garrapaticida, y
 
-V. En general, acreditar el cumplimiento de todas las condiciones establecidas en la autorización.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+V. Los demás que establezcan el reglamento de esta Ley y autoridades correspondientes.
 
 ###### ARTÍCULO 102.
 
@@ -1135,7 +1237,9 @@ I. En los rastros o centros debidamente autorizados, dando cumplimiento a los re
 
 II. En corrales particulares en los lugares donde no exista rastro; en este caso, el Inspector de ganado podrá expedir las órdenes de sacrificio a efecto de autorizarlo, previa comprobación de la propiedad, pago de los impuestos requeridos y una vez realizada la inspección sanitaria por cualquier médico veterinario habilitado legalmente en el ejercicio de su profesión, y
 
-III. En el campo o potreros donde se encuentren animales que representen un peligro de contagio, de ataque a humanos o que fueron gravemente lesionados y sea necesario sacrificarlos por razones humanitarias, se deberá informar a la autoridad municipal y al inspector de ganado, quienes otorgarán el permiso correspondiente.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+III. En el campo o potreros donde se encuentren animales que representen un peligro de contagio, previa notificación y autorización para su sacrificio en establecimiento autorizado; en caso de ataque a humanos o que fueron gravemente lesionados y sea necesario sacrificarlos por razones humanitarias, se deberá informar a la autoridad municipal y al inspector de ganado, quienes otorgarán el permiso correspondiente.
 
 ###### ARTÍCULO 125.
 
@@ -1147,11 +1251,13 @@ El sacrificio de las especies domésticas productivas, se hará mediante la auto
 
 ###### ARTÍCULO 127.
 
-La autorización para la apertura y operación de los rastros la proporcionará la autoridad municipal, quien será la responsable de que se cumplan los requerimientos mínimos marcados por las autoridades, Leyes aplicables y por las NOM's con respecto a las instalaciones y funcionamiento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 128.
 
-Todo rastro, sin perjuicio de lo que determinen otras disposiciones, tendrá un administrador, e igualmente para su operación, deberá contar con la atención de un médico veterinario o profesionista con carrera afín que realice la inspección ante mortem, evalúe la gestación de las hembras y vigile que se cumplan las NOM's sanitarias, ambos serán designados por la autoridad municipal correspondiente, quien será responsable de regular sus acciones.
+Todo rastro, sin perjuicio de lo que determinen otras disposiciones, tendrá un administrador, e igualmente para su operación, deberá contar con la atención de un médico veterinario que realice la inspección ante y post mortem, evalúe la gestación de las hembras y vigile que se cumplan las NOM's sanitarias, ambos serán designados por la autoridad municipal correspondiente, quien será responsable de regular sus acciones.
 
 ###### ARTÍCULO 129.
 
@@ -1175,7 +1281,9 @@ VI. Denunciar ante el Ministerio Público, a la brevedad, los hechos que constit
 
 VII. Denunciar a la Secretaría toda falta de honradez y de probidad, actos de corrupción e irregularidades en la que incurran los Inspectores de ganado en el cumplimiento de sus funciones;
 
-VIII. Entregar en forma mensual al Inspector de ganado, una recopilación de los medios de identificación de todos los animales sacrificados por introductor, con el objeto de apoyarlo en el cumplimiento de sus responsabilidades;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+VIII. Entregar en forma mensual al Inspector de ganado, la recopilación de los medios de identificación de todos los animales sacrificados, con el objeto de apoyarlo en el cumplimiento de sus responsabilidades;
 
 IX. Informar al Agente del Ministerio Público los hechos que se adviertan con irregularidades, cuando se pretenda o se hayan sacrificado especies productivas domésticas sin su consentimiento;
 
@@ -1185,7 +1293,9 @@ XI. Proporcionar la información necesaria para identificación de los propietar
 
 XII. Apoyar en el decomiso que considere necesario el médico veterinario y disponer racionalmente, a su criterio, de los despojos para su cremación, a fin de garantizar el no consumo de estos productos por la población humana o animal, evitando con esta acción la contaminación ambiental y la proliferación de plagas;
 
-XIII. Establecer, en coordinación con el médico veterinario responsable, el orden en el sacrificio, el programa de lavado, higienización, desinfectación, desinfestación, despoblación y mantenimiento de los corrales, instalaciones y equipo del rastro;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XIII. Establecer, en coordinación con el médico veterinario responsable, el orden en el sacrificio, el programa de lavado, higienización, desinfección, despoblación y mantenimiento de los corrales, instalaciones y equipo del rastro;
 
 XIV. Colaborar con las autoridades zoosanitaria federales y con los médicos veterinarios en la toma de muestras biológicas de los animales sacrificados, proporcionándoles información acerca del origen de los mismos, a fin de integrar la estadística epizootiológica estatal;
 
@@ -1531,7 +1641,7 @@ VIII. Inmunización preventiva o provocada de los animales, cuando las circunsta
 
 IX. Las demás que de conformidad con la Ley Federal de Sanidad Animal o NOM's de campañas sanitarias; sean indicadas para combatir la enfermedad o plaga e impedir su propagación.
 
-Cuando una persona esté en contacto con animales, sus productos y/o subproductos afectados por una enfermedad infectocontagiosa será sujeto de una medida zoosanitaria, y el inspector dará aviso inmediato a la autoridad correspondiente.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 188.
 
@@ -1547,13 +1657,23 @@ Será obligación de los propietarios de predios colindantes a una cuarentena pa
 
 En los casos en que los animales de predios colindantes a uno declarado en cuarentena se introduzcan a éste o rebasen la línea que haya sido marcada para guardar distancia entre ambos predios, podrán ser sujetos a la misma medida precautoria.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 191.
 
-Queda prohibida la entrada al Estado de Durango, de animales afectados por enfermedad infecto-contagiosa o sospechosos de estarlo, así como las de sus despojos y de cualquier otro objeto que haya estado en contacto con ellos o con objetos susceptibles de transmitir el contagio, quedando éstos sujetos a las disposiciones sanitarias que establece esta ley, La Ley Federal de Sanidad Animal y las NOM's correspondientes, quien lo detecte deberá de hacer del conocimiento a la Secretaría y a las autoridades federales o municipales competentes las irregularidades encontradas, para la aplicación de las sanciones que tengan lugar o la persecución de los delitos que pudieran configurarse.
+Queda prohibida la entrada a la zona de baja prevalencia del Estado de animales afectados por enfermedades infecto-contagiosa o sospechosos de estarlo, así como las de sus despojos y de cualquier otro objeto que haya estado en contacto con ellos o con objetos susceptibles de transmitir el contagio, quedando estos sujetos a las disposiciones sanitarias que establece esta ley, la Ley Federal de Sanidad Animal y las NOM's correspondientes, quien lo detecte, deberá de hacer del conocimiento a la Secretaría y a las autoridades federales o municipales competentes las irregularidades encontradas, para la aplicación de las sanciones que tengan lugar o la persecución de los delitos que pudieran configurarse.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 192.
 
-Quien haga aparecer como nacido en el Estado de Durango a ganado proveniente de otra entidad del país, será sancionado en los términos de esta ley, independientemente de la responsabilidad penal que le pudiera corresponder.
+Quien haga aparecer como nacido en el Estado de Durango o en la zona de baja prevalencia ganado proveniente de zona de alta prevalencia u otra entidad del país, será sancionado en los términos de esta ley, independientemente de la responsabilidad penal que le pudiera corresponder.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 192.
+
+BIS. Toda persona que movilice o introduzca al Estado o zona de baja prevalencia, ganado enfermo o portador de plagas, o sin observar los procedimientos sanitarios previstos y ponga en riesgo el estatus sanitario y la economía pecuaria del Estado, será excluida de los programas de apoyo gubernamentales por un periodo de cinco a diez años, sin perjuicio de las penas y sanciones a que se haga acreedor.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS CAMPAÑAS EN MATERIA DE SANIDAD PECUARIA
 
@@ -1773,7 +1893,7 @@ La Secretaría promoverá y apoyará la organización de los productos apícolas
 
 Son derechos de los apicultores:
 
-I. Obtener por conducto de la Asociación que forma parte de manera independiente la credencial de apicultor en las formas que expida la Subdirección de Fomento Apícola;
+I. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2013)
 
 II. Solicitar a la Secretaría, la apertura de nuevas rutas o territorios apícolas;
 
@@ -1845,9 +1965,11 @@ La Secretaría llevará un registro de las marcas aprobadas y pasará copia de l
 
 La Secretaría no aceptará el registro de marcas semejantes, dará preferencia a la presentada en primer término y exigirá que los solicitantes posteriores presenten marcas distintas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 242.
 
-Todos los propietarios de títulos de propiedad, marca y señales deberán revalidarlos dentro de los primeros noventa días de los años terminados en cero y en cinco, en la inteligencia de que al no cumplir con esta disposición en el término señalado, se harán acreedores a una sanción igual al pago que por revalidación fije la Ley de Ingresos correspondiente. El ingreso obtenido se aplicará al Desarrollo Apícola en el Estado.
+Todos los propietarios de títulos de fierros, marca y señales, deberán revalidarse cada dos años, a partir de la fecha en que se dieron de alta, para efectos de cancelación de los mismos, se ajustarán a lo dispuesto por esta Ley.
 
 Cuando durante dos periodos consecutivos se dejen de revalidar los títulos de los propietarios, éstos quedarán sin efecto y no podrá autorizarse ninguna venta de colmenas al propietario que se encuentre en tal caso.
 
@@ -2239,9 +2361,11 @@ Las denuncias, serán presentadas ante la Secretaría o, en su caso, ante la Sec
 
 ### CAPÍTULO II. LAS SANCIONES Y SU APLICACIÓN
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 312.
 
-Las violaciones a las disposiciones de esta ley, su reglamento y demás disposiciones que emanen de la misma, serán sancionadas administrativa mente por la Secretaría, la Secretaría de la Contraloría y Modernización Administrativa o las autoridades municipales competentes en su caso, sin perjuicio de las penas que se le apliquen cuando sean constitutivas de delito y el pago de daños y perjuicios correspondientes.
+Las violaciones a lo dispuesto por esta ley, su reglamento y demás disposiciones, serán sancionadas administrativamente por la Secretaría, la Secretaría de Contraloría del Estado de Durango, o las autoridades competentes en su caso, sin perjuicio de las penas que se le apliquen cuando sean constitutivas de delito y el pago de daños y perjuicios correspondientes.
 
 ###### ARTÍCULO 313.
 
@@ -2249,7 +2373,7 @@ Las personas físicas o morales que incumplan lo establecido en esta ley o su re
 
 I. Al que no manifieste el ejercicio de la explotación pecuaria en los términos de esta ley, se hará acreedor a una multa equivalente a cien días de salario mínimo;
 
-II. Al que críe o adquiera crías de vacas lecheras con ganado de carne y las comercialice como crías de ganado de carne, se hará acreedor a una multa de quinientos a diez mil días de salario mínimo;
+II. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2013)
 
 III. A quien haciendo uso de una servidumbre de paso o vía pecuaria, permita el apareamiento con animales que no le pertenezcan se hará acreedor a una multa de cincuenta a trescientos días de salario mínimo;
 
@@ -2267,9 +2391,13 @@ IX. A quien transporte ganado, sus productos o subproductos sin ampararse con la
 
 X. Al propietario o usuario que no construya y no dé mantenimiento a los cercos de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de cincuenta a doscientos días de salario mínimo;
 
-XI. A la persona que ordene o realice el transporte de animales afectados por enfermedad infectocontagiosa contemplada en el reglamento de esta ley, se le aplicará una multa equivalente de dos mil quinientos a diez mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-XII. Al que lleve a cabo cualquier compra-venta con animales afectados por enfermedad infecto-contagiosa, contemplada en el reglamento de esta ley o en otras disposiciones legales aplicables, se hará acreedor a una multa equivalente de dos mil quinientos a diez mil días de salario mínimo;
+XI. A la persona que movilice o lleve a cabo compraventa, ordene o realice el trasporte de animales afectados por enfermedad infectocontagiosa, se le aplicará una multa equivalente de dos mil quinientos a diez mil días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XII. A quien movilice o comercialice animales que hayan salido reactores a las pruebas de tuberculina con motivo distinto al sacrificio, se le impondrá una multa equivalente de doscientos a mil días de salario mínimo por animal;
 
 XIII. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de cien a doscientos días de salario mínimo;
 
@@ -2285,15 +2413,55 @@ XVIII. A quien una vez obtenido el visto bueno de la Secretaría para la moviliz
 
 XIX. A quien incumpla con el último párrafo del artículo 149 de esta ley, se hará acreedor de una multa equivalente de cinco mil a quince mil días de salario mínimo;
 
-XX. Al que afecte, altere o dañe sin causa justificada el destino de las áreas destinadas al pastoreo, se hará acreedor de una multa equivalente de cincuenta a diez mil días de salario mínimo;
+XX. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2013)
 
 XXI. A quien transfiera autorizaciones Rara la internación de ganado, productos o subproductos, se le sancionará con multa equivalente de cien a quince mil días de salario mínimo;
 
 XXII. Al propietario o encargado de ganado que provoque accidentes en las vías públicas estatales de comunicación, se le aplicará una multa equivalente de cinco mil a diez mil días de salario mínimo;
 
-XXIII. Al que participe en una acción encaminada a la adulteración mediante mezclas de otros productos o por cualquier otro medio, de la miel, y los productos de la colmena, jalea real, el polen y propóleos, se le aplicará una multa equivalente de cincuenta a cien días de salario mínimo, y
+XXIII. Al que participe en una acción encaminada a la adulteración mediante mezclas de otros productos o por cualquier otro medio, de la miel, y los productos de la colmena, jalea real, el polen y propóleos, se le aplicará una multa equivalente de cincuenta a cien días de salario mínimo, y (sic)
 
 XXIV. Al que realice cualquier operación o contrato con el despojo de algún animal muerto por causa desconocida o enfermedad infecto-contagiosa, se hará acreedor de una multa equivalente de cien a cinco mil días de salario mínimo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXV. A quien proporcione o asiente datos falsos en el formato único de factura que ampare la propiedad de los animales, en las guías de tránsito o las altere de cualquier forma se le aplicará una multa equivalente de dos mil quinientos a diez mil días de salario mínimo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXVI. A quien ponga en riesgo el estatus sanitario alcanzado en la actividad ganadera en la entidad, se le impondrá una multa equivalente de diez mil a veinte mil días de salario mínimo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXVII. A quien autorice o movilice ganado sin la documentación necesaria se le impondrá una multa equivalente de diez mil a veinte mil días de salario mínimo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. A quien evada las casetas de inspección ganadera se le impondrá multa equivalente de cuatrocientos a mil días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 313 BIS. Se impondrá multa equivalente de cinco mil a veinte mil días de salario mínimo general vigente en el Estado, al momento de cometerse la infracción se deberá herrar el ganado con las siglas C.N., independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+
+I. Introduzcan ganado al Estado o zona de baja prevalencia, sin cumplir con las disposiciones sanitarias en vigor;
+
+II. Hagan parecer como nacido en una zona de baja prevalencia o en el Estado, ganado proveniente de otra Entidad del país o zona de alta prevalencia;
+
+III. Comercialicen para exportación el ganado clasificado como lechero o media leche;
+
+IV. A quien movilice ganado de una zona de alta prevalencia a zona de baja prevalencia sin cumplir con los requisitos establecidos;
+
+V. A quien proporcione información falsa para la aplicación de los identificadores de SINIIGA; y
+
+VI. A quien reutilice los identificadores de SINIIGA.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 313 BIS 1. En los demás casos de incumplimiento de obligaciones a cargo de particulares, la Secretaría podrá imponer las siguientes sanciones, separada o simultáneamente:
+
+I. Multa de quinientos a dos mil días de salario mínimo al momento de cometerse la infracción; y
+
+II. Aseguramiento de ganado, productos, subproductos, implementos, documentación, vehículos o cualquier otro objeto o maquinaria que sean utilizados en su cuidado, control, movilización o introducción al Estado o zona de baja prevalencia.
 
 ###### ARTÍCULO 314.
 
@@ -2327,6 +2495,10 @@ Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, 
 
 En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria se incrementará hasta un cien por ciento.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 315 BIS. El técnico autorizado que aplique los identificadores de SINIIGA sin cumplir con los requisitos establecidos en la normatividad de la materia, se le impondrá una sanción de mil a cinco mil días de salario mínimo vigente en el Estado y será inhabilitado en el desempeño de sus funciones por la Secretaría.
+
 ###### ARTÍCULO 316.
 
 Cualquier persona física o moral que participe en una acción encaminada a la adulteración mediante mezclas de otros productos o por cualquier otro medio, de la miel, y los productos de la colmena, jalea real, el polen y propóleos, se harán acreedores a la sanción establecida por esta ley, sin perjuicio de los delitos que se pueden tipificar conforme al Código Penal para el Estado de Durango.
@@ -2354,6 +2526,10 @@ Las sanciones serán impuestas, independientemente de las que resulten de la apl
 Las sanciones previstas en la presente ley, se fijarán tomando en cuenta los mínimos y máximos que se contemplan, en atención a las circunstancias en que se realizó la infracción, a la mayor o menor responsabilidad y condiciones económicas del infractor, al daño que causó o pudo causar a la actividad ganadera, a la sanidad animal o a los consumidores.
 
 La Secretaría será la autoridad que se hará cargo de la calificación de las sanciones, fundando y motivando para tales efectos, los argumentos que tuvo para imponer la sanción atendiendo a las circunstancias que se señalan en el párrafo que antecede.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 320 BIS. Las multas señaladas en los artículos anteriores, se incrementarán en un cien por ciento de su máximo, en caso de reincidencia.
 
 ###### ARTÍCULO 321.
 
@@ -2414,3 +2590,15 @@ C.P. ISMAEL HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO LÓPEZ PESCADOR.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
