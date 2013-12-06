@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2009-01-30"
+last_updated: "2013-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -77,7 +77,13 @@ VII. Secretaría.- A la Secretaría de Gobierno Municipal;
 
 VIII. Síndico Procurador.- Al Síndico Procurador del Ayuntamiento;
 
-IX. Oficialía.- A la Oficialía Mayor.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+IX. Síndico Social.- Al Sindico Social del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+X. Oficialía.- A la Oficialía Mayor.
 
 ###### ARTICULO 4.
 
@@ -537,7 +543,9 @@ IV.- Analizar y, en su caso, aprobar el envío de las propuestas de fijación y 
 
 V.- Analizar y, en su caso, aprobar el envío al Ayuntamiento de la solicitud de concertación de los préstamos para el financiamiento de la entidad con créditos internos y externos, observando la normatividad que dicte la Secretaría de Administración y Finanzas. En cuanto a los créditos externos se estará a lo que dispone el artículo 55 de esta (sic) Reglamento;
 
-VI.- Aprobar anualmente, previo informe de los comisarios, los estados financieros y el cierre del ejercicio presupuestal de la entidad paramunicipal, autorizando su publicación en el Periódico Oficial del Estado, así como el cierre programático;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+VI.- Aprobar anualmente, previo informe de los comisarios de la Sindicatura Procuradora, los estados financieros y el cierre del ejercicio presupuestal de la entidad paramunicipal, autorizando su publicación en el Periódico Oficial del Estado, así como el cierre programático.
 
 VII.- Aprobar de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deberá celebrar la entidad paramunicipal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
@@ -591,6 +599,8 @@ XV.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás 
 
 ### CAPÍTULO VII. De la Vigilancia y Evaluación
 
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
+
 ###### ARTICULO 62.
 
 Corresponde al Síndico Procurador, vigilar y evaluar la operación y el funcionamiento de las Entidades Paramunicipales, ejerciendo sus atribuciones por medio de auditorias e inspecciones técnicas para informarse de su operación administrativa y financiera, para lo cual deberá:
@@ -605,49 +615,77 @@ IV.- Sancionar las licitaciones relativas a todo tipo de adquisiciones y obras p
 
 V.- Auditar el ejercicio presupuestal en todos sus rubros; (sic)
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 62 Bis.
+
+Corresponde al Síndico Social, vigilar la operación y el funcionamiento de las Entidades Paramunicipales, ejerciendo sus atribuciones en materia de bienes y servicios públicos Municipales.
+
 ###### ARTICULO 63.
 
 Las Entidades Paramunicipales están obligadas a:
 
-I.- Presentar oportunamente a la Sindicatura, los presupuestos anuales y programas de operación;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-II.- Otorgar las facilidades necesarias a la Sindicatura para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
+I.- Presentar oportunamente a la Sindicatura Procuradora, los presupuestos anuales y programas de operación;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+II.- Otorgar las facilidades necesarias a la Sindicatura Procuradora para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
 
 III.- Organizar sus sistemas de contabilidad, control y auditoría internos, de acuerdo con las disposiciones que dicte la reglamentación correspondiente, en los términos de la fracción I del artículo anterior;
 
-IV.- Enviar con tres días hábiles de anticipación cuando menos, a los integrantes de los Órganos de Gobierno, el orden del día y la documentación de los asuntos a tratar en las sesiones;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+IV.- Enviar con tres días hábiles de anticipación cuando menos, a los integrantes de los Órganos de Gobierno, el orden del día y la documentación de los asuntos a tratar en las sesiones, incluyendo a las sindicaturas.
 
 V.- Observar la normatividad aplicable a la administración pública;
 
 VI.- Las demás que este Reglamento y otras disposiciones legales les impongan.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+El Síndico Procurador, designará a un Comisario quien tendrá a su cargo la vigilancia y control interno del organismo descentralizado,
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+El Síndico Social designara a un Comisario Honorifico quien tendrá a su cargo la función de observador.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 64.
 
-El Sindico Procurador, designara a un comisario, con cargo al presupuesto de la Sindicatura Municipal, quien tendrá bajo su responsabilidad la vigilancia y control interno del organismo descentralizado.
+El Síndico Procurador, designara a un comisario, con cargo al presupuesto de la Sindicatura Municipal, quien tendrá bajo su responsabilidad la vigilancia y control interno del organismo descentralizado. P. 0. 23 SEPT-05
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 65.
 
-Los comisarios, como órgano interno de control, tendrán las siguientes facultades y obligaciones, respecto de los organismos descentralizados:
+Los Comisarios, como órgano interno de control y observancia, tendrán las siguientes facultades y obligaciones, respecto de los organismos descentralizados:
 
 I.- Revisar el funcionamiento de la paramunicipal en lo general y por unidades administrativas;
 
 II.- Sugerir medidas de eficiencia con la que se ejerzan los recursos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos;
 
-III.- Solicitar la información necesaria para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Sindicatura les asigne específicamente.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-El Órgano de Gobierno y el director deberán proporcionar la información que les soliciten los comisarios para el cumplimiento de sus funciones.
+III.- Solicitar la información necesaria para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que las Sindicaturas les asignen específicamente. El Órgano de Gobierno y el director deberán proporcionar la información que les soliciten los comisarios para el cumplimiento de sus funciones.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 66.
 
 Para el control interno de los organismos descentralizados, se deberá observar lo siguiente:
 
-I.- Los Órganos de Gobierno atenderán los informes que en materia de control y auditoria les sean turnados por los comisarios y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+I.- Los Órganos de Gobierno atenderán los informes que en materia de control y auditoria y observaciones les sean turnados por los comisarios y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
 
 II.- Los directores definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentarán al Órgano de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento;
 
 III.- Los demás empleados del organismo descentralizado responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 67.
 
@@ -661,29 +699,41 @@ III.- Vigilar que el manejo y aplicación de los recursos públicos se efectúe 
 
 IV.- Presentar al titular de la entidad y al órgano de gobierno los informes, resultados de las auditorias, exámenes y evaluaciones realizadas.
 
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
+
 ###### ARTICULO 68.
 
 Las empresas de participación municipal, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicables, para su vigilancia, control y evaluación, incorporaran los órganos internos de control y contaran con los comisarios que designe el Síndico Procurador, en los términos de este capítulo.
+
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 69.
 
 Los fideicomisos públicos a que se refiere el artículo 39 de este reglamento, sin perjuicio de lo establecido en los acuerdos que expida el Ayuntamiento en el que se establezcan las bases para su constitución organización y funcionamiento, así como por lo establecido en su contrato mercantil y demás legislación aplicable, para su vigilancia control y evaluación, cuando así lo determinen en el ámbito de sus competencias, el Síndico Procurador y la Secretaría del Sector, deberán contar con Órganos de Control interno y en todos los casos contarán con los comisarios que designe el Síndico Procurador en los términos de las disposiciones contenidos en este reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 70.
 
-La Sindicatura podrá realizar visitas y auditorias a las Entidades Paramunicipales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 62, y en su caso, sugerir lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Sindicatura Procuradora podrá realizar visitas y auditorías a las Entidades Paramunicipales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en los artículos 62, y en su caso, sugerir lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 71.
 
 En los casos en que los integrantes del Órgano de Gobierno o el titular de la entidad paramunicipal, no cumplan con las disposiciones de este reglamento, el Presidente por conducto de las dependencias competentes, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de este reglamento u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+(REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
+
 ###### ARTICULO 72.
 
 En aquellas empresas en las que participe la Administración Pública Municipal con la suscripción del 25 al 50 por ciento del capital, se vigilarán las inversiones del Municipio a través del comisario que designe el Síndico Procurador, y el ejercicio de los derechos respectivos se hará por conducto de la Secretaría de Sector.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 73.
 
-La Sindicatura vigilará el debido cumplimiento de lo dispuesto en el artículo 32 de este reglamento.
+La Sindicatura Procuradora vigilará el debido cumplimiento de lo dispuesto en el artículo 32 de este reglamento.
 
 ### CAPÍTULO VIII. De las Sanciones y Responsabilidades
 
@@ -750,3 +800,7 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 CUARTO. El presente acuerdo, entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado de Baja California, de conformidad con el artículo 18, de la Ley del Régimen Municipal para el Estado de Baja California.
 
 QUINTO. Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
