@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2013-11-07"
+last_updated: "2013-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -637,7 +637,7 @@ DEL OBJETO DEL IMPUESTO
 
 Son objeto de este impuesto las actividades no comprendidas en la Ley del Impuesto al Valor Agregado o expresamente exceptuadas por la misma del pago de dicho impuesto y además, susceptibles de ser gravadas por los Municipios, en los términos de las disposiciones legales aplicables.
 
-No quedan comprendidas en este articulo las actividades relacionadas con la celebración de loterías, rifas, sorteos y juegos con apuesta permitidos; la enajenación de inmuebles y de muebles usados.
+No quedan comprendidas en este artículo las actividades relacionadas con la celebración de loterías, rifas, sorteos y juegos con apuesta permitidos; la enajenación de inmuebles y de muebles usados.
 
 DE LOS SUJETOS DEL IMPUESTO
 
@@ -1279,21 +1279,121 @@ DE LA BASE Y PAGO DE LA CONTRIBUCIÓN
 
 La base de esta contribución es el importe de los pagos que se realicen por concepto de impuestos, derechos y demás contribuciones incluyendo sus accesorios.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 146.
 
-La tasa o tarifa aplicable a este impuesto será la que al efecto establezca la Ley de Ingresos Municipal correspondiente.
+La tasa o cuota correspondiente a esta contribución será la que al efecto se establezca en las Leyes de Ingresos Municipal correspondiente.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 147.
 
-El pago de esta contribución deberá efectuarse en las oficinas recaudadoras, que determine la autoridad fiscal, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
+El pago de esta contribución deberá efectuarse en la Tesorería Municipal, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
-#### SECCIÓN I. DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-#### SECCIÓN II. DE LOS SERVICIOS DE RASTROS
+#### SECCIÓN V. POR MANTENIMIENTO Y CONSERVACIÓN DEL CENTRO HISTÓRICO
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+OBJETO
+
+###### ARTÍCULO 147-A.
+
+Es objeto de esta contribución para el mantenimiento y conservación del Centro Histórico de los municipios del Estado de Coahuila de Zaragoza, la realización de pagos por concepto del impuesto predial que se cause.
+
+Los ingresos que se obtengan por esta contribución, serán destinados al mantenimiento y conservación del Centro Histórico de los Municipios del Estado a través del Patronato que para tal efecto se constituya en cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+SUJETO
+
+###### ARTÍCULO 147-B.
+
+Son sujetos de esta contribución, las personas físicas, morales o unidades económicas que realicen pagos por los conceptos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+BASE
+
+###### ARTÍCULO 147-C.
+
+La base de esta contribución, es la realización de los pagos por concepto del impuesto predial.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+CUOTA
+
+###### ARTÍCULO 147-D.
+
+La tasa o cuota correspondiente a esta contribución será la que al efecto se establezca en las Leyes de Ingresos Municipal correspondiente
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+PAGO
+
+###### ARTÍCULO 147-E.
+
+El pago de esta contribución deberá efectuarse en la Tesorería Municipal, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN VI. POR OTROS SERVICIOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+OBJETO
+
+###### ARTÍCULO 147-F.
+
+Es objeto de esta contribución la realización de pagos por concepto de impuesto predial que se cause conforme a este Código y demás disposiciones fiscales del Municipio.
+
+El rendimiento de esta contribución será destinado exclusivamente a lo siguiente:
+
+I. Mantenimiento e instalación de señalamientos viales.
+
+II. Fortalecimiento del sistema de protección civil municipal.
+
+III. Desarrollo Integral de la Familia.
+
+Los ingresos que se obtengan por esta contribución, serán destinados exclusivamente a los fines que se establezcan en las leyes de ingresos municipales y de acuerdo a los requerimientos de cada Municipio.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+SUJETO
+
+###### ARTÍCULO 147-G.
+
+Son sujetos de esta contribución, las personas físicas, morales o unidades económicas que realicen pagos por los conceptos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+BASE
+
+###### ARTÍCULO 147-H.
+
+La base de esta contribución, es el importe de los pagos que se realicen por concepto del impuesto predial.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+CUOTA
+
+###### ARTÍCULO 147-I.
+
+La tasa o cuota correspondiente a esta contribución será la que al efecto se establezca en las Leyes de Ingresos Municipal correspondiente, para cada uno de los conceptos establecidos en el artículo 147-F de este Código.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+PAGO
+
+###### ARTÍCULO 147-J.
+
+El pago de esta contribución deberá efectuarse en la Tesorería Municipal, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
 ### CAPÍTULO DECIMO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS PÚBLICOS
 
-#### SECCIÓN III. DE LOS SERVICIOS DE ALUMBRADO PÚBLICO
+#### SECCIÓN I. DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 148.
 
@@ -1311,7 +1411,7 @@ Los servicios de agua potable y alcantarillado se cobrarán con base en las cuot
 
 El Ayuntamiento podrá celebrar, en su caso, los convenios correspondientes con el Organismo Descentralizado Comisión Estatal de Aguas y Saneamiento de Coahuila", en ejercicio de la facultad que le otorga la fracción tercera del artículo 115 Constitucional, para efectos de la prestación del servicio y cobro de las cuotas y tarifas.
 
-#### SECCIÓN IV. DE LOS SERVICIOS EN MERCADOS
+#### SECCIÓN II. DE LOS SERVICIOS DE RASTROS
 
 ###### ARTÍCULO 152.
 
@@ -1357,7 +1457,7 @@ Todo ganado sacrificado fuera del Rastro Público Municipal, estará sujeto a cu
 
 Los derechos a que se refiere esta sección, se pagarán en las oficinas de la Tesorería Municipal, de acuerdo con las tarifas establecidas en la Ley de Ingresos de cada Municipio.
 
-#### SECCIÓN V. DE LOS SERVICIOS DE ASEO PÚBLICO
+#### SECCIÓN III. DE LOS SERVICIOS DE ALUMBRADO PÚBLICO
 
 ###### ARTÍCULO 160.
 
@@ -1383,7 +1483,7 @@ Para efectos del cobro de este derecho los ayuntamientos podrán celebrar conven
 
 Los ingresos que se perciban por este concepto se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-#### SECCIÓN VI. DE LOS SERVICIOS DE SEGURIDAD PÚBLICA
+#### SECCIÓN IV. DE LOS SERVICIOS EN MERCADOS
 
 ###### ARTÍCULO 166.
 
@@ -1409,7 +1509,7 @@ III. Por cuota fija para comerciantes ambulantes.
 
 El pago de los derechos por servicios que deban prestarse en forma regular, como son: El aseo, vigilancia y demás relacionados con la administración, deberán realizarse mensualmente por los comerciantes con locales o puestos fijos o semifijos. En los casos de comerciantes que realicen sus actividades de manera esporádica, el pago deberá realizarse por cada vez que soliciten la asignación de lugares o espacios.
 
-#### SECCIÓN VII. DE LOS SERVICIOS EN PANTEONES
+#### SECCIÓN V. DE LOS SERVICIOS DE ASEO PÚBLICO
 
 ###### ARTÍCULO 170.
 
@@ -1439,7 +1539,7 @@ II. En los casos a que se refiere la fracción II del artículo anterior, dentro
 
 III. En los casos a que se refiere la fracción III del artículo anterior, el pago se hará bimestralmente, conforme a los contratos celebrados entre el Ayuntamiento y los particulares para tal efecto y de acuerdo a las cuotas establecidas en la Ley de Ingresos Municipal.
 
-#### SECCIÓN VIII. DE LOS SERVICIOS DE TRÁNSITO
+#### SECCIÓN VI. DE LOS SERVICIOS DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 174.
 
@@ -1459,7 +1559,7 @@ Estos derechos se causarán conforme a la tarifa señalada en la Ley de Ingresos
 
 El pago de los derechos se hará por anticipado en el momento de la solicitud del servicio, ante las oficinas de la Tesorería Municipal. En los casos en que el Ayuntamiento determine la prestación del servicio, el pago deberá realizarlo el sujeto atendido, dentro del plazo que establezca la autoridad.
 
-#### SECCIÓN IX. DE LOS SERVICIOS DE PREVISIÓN SOCIAL
+#### SECCIÓN VII. DE LOS SERVICIOS EN PANTEONES
 
 ###### ARTÍCULO 178.
 
@@ -1517,7 +1617,7 @@ En los casos en que de acuerdo con las disposiciones administrativas que dicte e
 
 El pago de los derechos por servicios en panteones, se hará en la Tesorería Municipal que corresponda antes de la ejecución del servicio, o al día hábil siguiente, conforme a la tarifa que establezca la Ley de Ingresos Municipal.
 
-#### SECCIÓN X. DE LOS SERVICIOS DE PROTECCIÓN CIVIL
+#### SECCIÓN VIII. DE LOS SERVICIOS DE TRÁNSITO
 
 ###### ARTÍCULO 181.
 
@@ -1543,7 +1643,7 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 El pago del derecho se hará en la Tesorería Municipal correspondiente en el momento en que se solicite el servicio y por el monto que establezca la Ley de Ingresos Municipal.
 
-#### SECCIÓN I. POR LA EXPEDICIÓN DE LICENCIAS PARA CONSTRUCCIÓN
+#### SECCIÓN IX. DE LOS SERVICIOS DE PREVISIÓN SOCIAL
 
 ###### ARTÍCULO 184.
 
@@ -1557,7 +1657,7 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten, se
 
 El pago de este derecho se hará en el momento en que se solicite o se preste el servicio por el monto que para tal efecto señale la Ley de Ingresos Municipal.
 
-#### SECCIÓN II. DE LOS SERVICIOS POR ALINEACIÓN DE PREDIOS Y ASIGNACIÓN DE NÚMEROS OFICIALES
+#### SECCIÓN X. DE LOS SERVICIOS DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 187.
 
@@ -1569,7 +1669,7 @@ I. La autorización para el uso y quema de fuegos pirotécnicos, incluyendo arti
 
 II. La inspección y verificación de seguridad para permisos de la Secretaría de la Defensa Nacional.
 
-III. Por inspección, verificación y en su caso autorización de programas de protección civil, programa interno, plan de contingencias, o programas especiales.
+III. Por inspección, verificación y en su caso autorización de programas de protección civil, programa interno, plan de contingencias o programas especiales.
 
 IV. Por dictámenes de seguridad en materia de protección civil relativos a:
 
@@ -1591,7 +1691,7 @@ El pago de estos derechos se hará en la Tesorería Municipal correspondiente, e
 
 ### CAPÍTULO UNDÉCIMO. DE LOS DERECHOS POR EXPEDICIÓN DE LICENCIAS, PERMISOS, AUTORIZACIONES Y CONCESIONES
 
-#### SECCIÓN III. POR LA EXPEDICIÓN DE LICENCIAS PARA FRACCIONAMIENTOS
+#### SECCIÓN I. POR LA EXPEDICIÓN DE LICENCIAS PARA CONSTRUCCIÓN
 
 ###### ARTÍCULO 190.
 
@@ -1621,7 +1721,7 @@ IV. Cuarta Categoría: construcciones de viviendas o cobertizos de madera tipo p
 
 Las construcciones que excedan de cinco plantas, causarán, el 75% de la cuota correspondiente de la sexta a la décima planta. Cuando excedan de diez plantas, se causará el 50% de la cuota correspondiente a partir de la onceava planta.
 
-Este último porcentaje se aplicará para reparaciones, excavaciones, rellenos y remodelación de fachadas, (por concepto de aprobación de planos).
+Este último porcentaje se aplicará para reparaciones, excavaciones, rellenos y remodelación de fachadas (por concepto de aprobación de planos).
 
 ###### ARTÍCULO 194.
 
@@ -1681,7 +1781,7 @@ Los derechos a que se refiere la presente Sección, se pagarán en la Tesorería
 
 La documentación oficial que expidan las tesorerías municipales, que ampare el pago de los derechos por aprobación de planos o licencias de construcción, deberá mantenerse en un lugar visible de la obra en construcción y mostrarse a los inspectores o supervisores municipales cuantas veces sea requerida. La falta de esta documentación se sancionará con la multa correspondiente, la cual se aplicará sin perjuicio del pago de los derechos y recargos que procedan.
 
-#### SECCIÓN IV. POR LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
+#### SECCIÓN II. DE LOS SERVICIOS POR ALINEACIÓN DE PREDIOS Y ASIGNACIÓN DE NÚMEROS OFICIALES
 
 ###### ARTÍCULO 205.
 
@@ -1695,7 +1795,7 @@ Son sujetos de estos derechos, los propietarios o poseedores de predios construi
 
 Las personas a que se refiere el artículo anterior, deberán solicitar el alineamiento objeto de estos derechos y adquirir la placa correspondiente al número oficial asignado por el Municipio a dichos predios, en los que no podrá ejecutarse alguna obra material si no se cumple previamente con la obligación que señala este precepto.
 
-#### SECCIÓN V. POR LA EXPEDICIÓN DE LICENCIAS PARA LA COLOCACIÓN Y USO DE ANUNCIOS Y CARTELES PUBLICITARIOS
+#### SECCIÓN III. POR LA EXPEDICIÓN DE LICENCIAS PARA FRACCIONAMIENTOS
 
 ###### ARTÍCULO 208.
 
@@ -1715,7 +1815,7 @@ No se causarán los derechos por la aprobación de planos cuando los servicios s
 
 Los derechos que se causen conforme a esta sección se cobrarán por metro vendible y se pagarán en la Tesorería Municipal, o en las oficinas autorizadas, de acuerdo con las tarifas establecidas de las Leyes de Ingresos Municipales.
 
-#### SECCIÓN VI. DE LOS SERVICIOS CATASTRALES
+#### SECCIÓN IV. POR LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
 
 ###### ARTÍCULO 212.
 
@@ -1731,7 +1831,7 @@ Los sujetos de este derecho que cuenten con licencia para su funcionamiento, deb
 
 El pago de este derecho deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto, previamente al otorgamiento de la licencia o refrendo anual correspondiente, conforme a las tarifas que para tal efecto establezca la Ley de Ingresos Municipal.
 
-#### SECCIÓN VII. DE LOS SERVICIOS POR CERTIFICACIONES Y LEGALIZACIONES
+#### SECCIÓN V. POR LA EXPEDICIÓN DE LICENCIAS PARA LA COLOCACIÓN Y USO DE ANUNCIOS Y CARTELES PUBLICITARIOS
 
 ###### ARTÍCULO 215.
 
@@ -1751,7 +1851,7 @@ Los sujetos de este derecho que cuenten con licencia para la colocación y uso d
 
 El pago de este derecho deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto, previamente al otorgamiento de la licencia o refrendo anual correspondiente, conforme a las tarifas que para tal efecto establezca la Ley de Ingresos Municipal.
 
-#### SECCIÓN VIII. POR LA EXPEDICIÓN DE LICENCIAS, PERMISOS, AUTORIZACIONES Y SERVICIOS DE CONTROL AMBIENTAL
+#### SECCIÓN VI. DE LOS SERVICIOS CATASTRALES
 
 ###### ARTÍCULO 219.
 
@@ -1785,7 +1885,7 @@ No se causarán estos derechos cuando los servicios catastrales se soliciten con
 
 Tratándose de los programas de regularización de la tenencia de la tierra que promueva la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila, se requerirá la aprobación del consejo directivo de dicho organismo.
 
-#### SECCIÓN I. DE LOS SERVICIOS DE ARRASTRE Y ALMACENAJE
+#### SECCIÓN VII. DE LOS SERVICIOS POR CERTIFICACIONES Y LEGALIZACIONES
 
 ###### ARTÍCULO 223.
 
@@ -1813,7 +1913,7 @@ II. Los solicitados por las autoridades federales, del Estado o del Municipio.
 
 III. Los relativos al ramo penal.
 
-#### SECCIÓN II. PROVENIENTES DE LA OCUPACIÓN DE LAS VÍAS PÚBLICAS
+#### SECCIÓN VIII. POR LA EXPEDICIÓN DE LICENCIAS, PERMISOS, AUTORIZACIONES Y SERVICIOS DE CONTROL AMBIENTAL
 
 ###### ARTÍCULO 225.
 
@@ -1855,7 +1955,7 @@ El pago de estos derechos deberá realizarse en las oficinas de la Tesorería Mu
 
 ### CAPÍTULO DUODÉCIMO. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PÚBLICO DEL MUNICIPIO
 
-#### SECCIÓN III. PROVENIENTES DEL USO DE LAS PENSIONES MUNICIPALES
+#### SECCIÓN I. DE LOS SERVICIOS DE ARRASTRE Y ALMACENAJE
 
 ###### ARTÍCULO 228.
 
@@ -1869,7 +1969,7 @@ Son sujetos de estos derechos las personas físicas o morales e instituciones p�
 
 El pago de estos derechos se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la Ley de Ingresos Municipal.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN II. PROVENIENTES DE LA OCUPACIÓN DE LAS VÍAS PÚBLICAS
 
 ###### ARTÍCULO 231.
 
@@ -1889,7 +1989,7 @@ El pago de los derechos a que se refiere la fracción I del artículo anterior, 
 
 El pago de los derechos señalados en la fracción II del artículo anterior, se efectuará dentro de los primeros diez días de cada mes y de acuerdo con las cantidades que establezca la Ley de Ingresos Municipal.
 
-#### SECCIÓN II. PROVENIENTES DE LA VENTA O ARRENDAMIENTO DE LOTES Y GAVETAS DE LOS PANTEONES MUNICIPALES
+#### SECCIÓN III. PROVENIENTES DEL USO DE LAS PENSIONES MUNICIPALES
 
 ###### ARTÍCULO 234.
 
@@ -1907,7 +2007,7 @@ El pago de los derechos a que se refiere esta sección se realizará de acuerdo 
 
 ### CAPÍTULO PRIMERO. DE LOS PRODUCTOS
 
-#### SECCIÓN III. PROVENIENTES DEL ARRENDAMIENTO DE LOCALES UBICADOS EN LOS MERCADOS MUNICIPALES
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 237.
 
@@ -1937,11 +2037,11 @@ Los ayuntamientos podrán realizar inversiones que generen intereses fijos, no s
 
 Para ese fin, el presidente municipal instruirá al tesorero para que proceda a efectuar los estudios financieros necesarios que justifiquen la conveniencia de la inversión sin comprometer recursos económicos que impliquen el sacrificio de los servicios públicos a cargo del Municipio y los presentará, en su caso, al Ayuntamiento para que determine lo que proceda.
 
-#### SECCIÓN IV. OTROS PRODUCTOS
+#### SECCIÓN II. PROVENIENTES DE LA VENTA O ARRENDAMIENTO DE LOTES Y GAVETAS DE LOS PANTEONES MUNICIPALES
 
 ###### ARTÍCULO 243.
 
-Son objeto de estos productos, la venta o arrendamiento de lotes y gavetas, de los panteones municipales.
+Son objeto de estos productos, la venta o arrendamiento de lotes y gavetas de los panteones municipales.
 
 ###### ARTÍCULO 244.
 
@@ -1963,7 +2063,7 @@ Los ayuntamientos podrán otorgar en comodato, los lotes y gavetas del panteón 
 
 El personal del panteón municipal, sin excepción, no podrá celebrar contratos verbales con los interesados en la construcción, aseo o conservación de sepulcros o mausoleos, ya que forman parte de un servicio que el público tiene derecho a recibir en razón del pago de las cuotas que por esos conceptos haya efectuado.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN III. PROVENIENTES DEL ARRENDAMIENTO DE LOCALES UBICADOS EN LOS MERCADOS MUNICIPALES
 
 ###### ARTÍCULO 249.
 
@@ -1977,7 +2077,7 @@ Son sujetos de estos productos las personas físicas o morales que obtengan por 
 
 El pago de los productos señalados en este capítulo se realizará dentro de los primeros diez días de cada mes y de acuerdo con las cuotas que señale la Ley de Ingresos Municipal.
 
-#### SECCIÓN II. DE LOS INGRESOS POR TRANSFERENCIA
+#### SECCIÓN IV. OTROS PRODUCTOS
 
 ###### ARTÍCULO 252.
 
@@ -1987,7 +2087,7 @@ También percibirá ingresos derivados de empresas municipales.
 
 ### CAPÍTULO SEGUNDO. DE LOS APROVECHAMIENTOS
 
-#### SECCIÓN III. DE LOS INGRESOS DERIVADOS DE SANCIONES
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 253.
 
@@ -2005,7 +2105,7 @@ b). Adjudicaciones en favor del Municipio.
 
 c). Aportaciones y subsidios de otro nivel de gobierno u organismos públicos o privados.
 
-#### SECCIÓN I. DE LOS PAGOS EN GENERAL
+#### SECCIÓN II. DE LOS INGRESOS POR TRANSFERENCIA
 
 ###### ARTÍCULO 254.
 
@@ -2015,7 +2115,7 @@ Son ingresos por transferencia, los que perciba el Municipio por concepto de ces
 
 También se consideran ingresos transferidos al Municipio, los que se originen por adjudicación en la vía judicial o en el desahogo del procedimiento administrativo de ejecución, así como las aportaciones o subsidios de otro nivel de gobierno u organismos públicos o privados en favor del Municipio.
 
-#### SECCIÓN II. DEL PAGO DE REMUNERACIONES
+#### SECCIÓN III. DE LOS INGRESOS DERIVADOS DE SANCIONES
 
 ###### ARTÍCULO 256.
 
@@ -2241,7 +2341,7 @@ Queda prohibido a los servidores públicos municipales obtener o tratar de obten
 
 La infracción a esta norma sujetará a los responsables a la devolución de lo que indebidamente percibieron, sin perjuicio de que puedan hacerse efectivas en su contra las demás sanciones prescritas por la ley.
 
-#### SECCIÓN III. DEL PAGO DE OBRAS Y SERVICIOS
+#### SECCIÓN I. DE LOS PAGOS EN GENERAL
 
 ###### ARTÍCULO 286.
 
@@ -2269,13 +2369,13 @@ De no cumplir con los requisitos antes señalados, dichos compromisos se pagará
 
 Las Dependencias y Organismos Descentralizados que por cualquier motivo al término del ejercicio fiscal que corresponda, conserven fondos presupuestales, los enterarán a la Tesorería Municipal, dentro de los diez primeros días del mes de enero inmediato siguiente.
 
-#### SECCIÓN IV. DE LOS PAGOS POR ANTICIPOS
+#### SECCIÓN II. DEL PAGO DE REMUNERACIONES
 
 ###### ARTÍCULO 290.
 
 El pago de remuneraciones al personal de la Administración Pública Municipal, se efectuará por conducto de la Tesorería Municipal u órganos auxiliares facultados expresamente para ello, y conforme al puesto o categoría que se les asigne de acuerdo con el tabulador autorizado por el Ayuntamiento, y en todo caso de conformidad a la nómina y/o recibos correspondientes, donde conste la firma de los beneficiarios.
 
-#### SECCIÓN V. DE LOS OTROS PAGOS
+#### SECCIÓN III. DEL PAGO DE OBRAS Y SERVICIOS
 
 ###### ARTÍCULO 291.
 
@@ -2293,13 +2393,13 @@ Todo pago a proveedores y contratistas, deberá estar sustentado en comprobantes
 
 Una vez concluida la vigencia del presupuesto de egresos, la Tesorería Municipal, sólo procederá a hacer pagos con base en él, por obras, adquisiciones, servicios y demás conceptos que efectivamente se hubieren contabilizado debida y oportunamente las operaciones correspondientes.
 
-#### SECCIÓN I. COORDINACIÓN EN INGRESOS
+#### SECCIÓN IV. DE LOS PAGOS POR ANTICIPOS
 
 ###### ARTÍCULO 294.
 
 Solamente se podrán efectuar pagos por anticipos en los casos que prevean las leyes correspondientes, debiéndose reintegrar las cantidades anticipadas que no se hubieren devengado o erogado.
 
-#### SECCIÓN II. COORDINACIÓN EN GASTO PÚBLICO
+#### SECCIÓN V. DE LOS OTROS PAGOS
 
 ###### ARTÍCULO 295.
 
@@ -2801,7 +2901,7 @@ Este título será aplicable en tanto no contravenga las disposiciones de la Con
 
 Los Municipios del Estado podrán celebrar Convenios de Coordinación en materia de ingresos, gasto, patrimonio y deuda pública. Para tal efecto, atenderán las disposiciones conducentes previstas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, este código, el Código Municipal para el Estado de Coahuila de Zaragoza y demás disposiciones en materia municipal aplicables.
 
-#### SECCIÓN III. COORDINACIÓN EN DEUDA PÚBLICA
+#### SECCIÓN I. COORDINACIÓN EN INGRESOS
 
 ###### ARTÍCULO 352.
 
@@ -2811,7 +2911,7 @@ Los Ayuntamientos podrán celebrar Convenios de Colaboración Administrativa ent
 
 En los Convenios de Colaboración deberán establecerse las funciones y facultades que se deleguen de un municipio a otro o al Estado y las contraprestaciones que se otorguen.
 
-#### SECCIÓN I. DEL NACIMIENTO DE LAS OBLIGACIONES FISCALES
+#### SECCIÓN II. COORDINACIÓN EN GASTO PÚBLICO
 
 ###### ARTÍCULO 354.
 
@@ -2837,7 +2937,7 @@ Tratándose de recursos humanos se precisarán los mecanismos, formas, plazos y 
 
 Deberán también convenirse expresamente la manera en que serán solventadas y de donde provendrán los recursos que originen las diferencias provocadas por los distintos niveles de salarios que se encuentren vigentes entre el gobierno que recibe los recursos y el que los transfiere.
 
-#### SECCIÓN II. DE LA DETERMINACIÓN DE LOS CRÉDITOS FISCALES
+#### SECCIÓN III. COORDINACIÓN EN DEUDA PÚBLICA
 
 ###### ARTÍCULO 360.
 
@@ -2967,7 +3067,7 @@ Para los efectos de este artículo, la autoridad recaudadora los determinará co
 
 ### CAPÍTULO PRIMERO. DEL NACIMIENTO, DETERMINACIÓN, GARANTÍA Y EXTINCIÓN DE LOS CRÉDITOS FISCALES
 
-#### SECCIÓN III. DE LAS GARANTÍAS DE LOS CRÉDITOS FISCALES
+#### SECCIÓN I. DEL NACIMIENTO DE LAS OBLIGACIONES FISCALES
 
 ###### ARTÍCULO 378.
 
@@ -3033,7 +3133,7 @@ Las resoluciones que conforme a este artículo dicte el Presidente Municipal, de
 
 Todos los estímulos fiscales e incentivos contenidos en las Leyes de Ingresos Municipales, se otorgarán únicamente a aquellos contribuyentes que estén al corriente en el cumplimiento de las obligaciones fiscales que este Código, las Leyes Municipales o Reglamentos establezcan, así como cumplir con todos los requisitos que para tal efecto se establezcan en dichos ordenamientos.
 
-#### SECCIÓN IV. DE LA EXTINCIÓN DE LOS CRÉDITOS FISCALES
+#### SECCIÓN II. DE LA DETERMINACIÓN DE LOS CRÉDITOS FISCALES
 
 ###### ARTÍCULO 385.
 
@@ -3105,7 +3205,7 @@ La vigencia de los convenios estará limitada a la del año natural en que se ce
 
 Los municipios podrán celebrar convenios entre sí y con el Estado, a efecto de delegar funciones de determinación, liquidación, administración, recaudación y vigilancia de las contribuciones que le correspondan a unos o al otro, en forma exclusiva o concurrente.
 
-#### SECCIÓN I. DEL REQUERIMIENTO DE PAGO
+#### SECCIÓN III. DE LAS GARANTÍAS DE LOS CRÉDITOS FISCALES
 
 ###### ARTÍCULO 394.
 
@@ -3135,7 +3235,7 @@ La garantía de un crédito fiscal deberá incluir la de los posibles recargos y
 
 La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como los recargos que se causen en los doce meses siguientes a su otorgamiento; al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía por el importe de los recargos correspondientes a los doce meses siguientes.
 
-#### SECCIÓN II. DEL EMBARGO
+#### SECCIÓN IV. DE LA EXTINCIÓN DE LOS CRÉDITOS FISCALES
 
 ###### ARTÍCULO 397.
 
@@ -3441,7 +3541,7 @@ Los informes, datos o documentos a que se refiere este artículo, se deberán pr
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
-#### SECCIÓN III. DEL REMATE
+#### SECCIÓN I. DEL REQUERIMIENTO DE PAGO
 
 ###### ARTÍCULO 423.
 
@@ -3491,7 +3591,7 @@ I. La preferencia corresponderá al fisco que tenga a su favor créditos por imp
 
 II. En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante, según inscripción en el Registro Público cuando así proceda.
 
-#### SECCIÓN I. DE LAS INFRACCIONES Y SANCIONES
+#### SECCIÓN II. DEL EMBARGO
 
 ###### ARTÍCULO 429.
 
@@ -3639,7 +3739,7 @@ III. Cuando se hubiere dejado sin efectos el crédito fiscal por resolución fir
 
 Procede la enajenación de la negociación intervenida cuando lo recaudado en tres meses no cubra el 24% del crédito fiscal, salvo que se trate de negocios que obtengan sus ingresos en un determinado período del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 8% mensual.
 
-#### SECCIÓN II. DE LOS DELITOS
+#### SECCIÓN III. DEL REMATE
 
 ###### ARTÍCULO 446.
 
@@ -3835,6 +3935,8 @@ En caso de conflicto, el remanente quedará depositado ante la propia ejecutora,
 
 ### CAPÍTULO PRIMERO. EN MATERIA DE INGRESOS
 
+#### SECCIÓN I. DE LAS INFRACCIONES Y SANCIONES
+
 ###### ARTÍCULO 469.
 
 Las autoridades fiscales municipales tendrán facultades para determinar que se ha cometido una infracción de las enunciadas en este capítulo y para imponer las sanciones procedentes que establezca este código.
@@ -3954,6 +4056,8 @@ b). En un 60% del monto de las contribuciones omitidas o del beneficio indebido,
 ###### ARTÍCULO 477.
 
 El monto de la sanción correspondiente a cada una de las infracciones establecidas en los artículos 463 al 470 de este código, será el que se establezca anualmente en las Leyes de Ingresos de los Municipios.
+
+#### SECCIÓN II. DE LOS DELITOS
 
 ###### ARTÍCULO 478.
 
@@ -4272,3 +4376,19 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
