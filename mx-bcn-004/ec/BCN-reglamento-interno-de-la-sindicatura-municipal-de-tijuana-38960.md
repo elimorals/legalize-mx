@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-municipal-de-tijuana-38960
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2007-08-03"
+last_updated: "2013-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO CUARTO DEL ACTA NÚMERO 79, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -327,6 +329,10 @@ P.O. 3 DE AGOSTO DE 2007.
 
 PRIMERO.- La presente iniciativa entrará en vigor al momento de su aprobación.
 
-SEGUNDO.- PUblíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, asi como en un diario de mayor circulación en la localidad y/o en la Gaceta Municipal para conocimiento de los vecinos.
+SEGUNDO.- Publíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, asi como en un diario de mayor circulación en la localidad y/o en la Gaceta Municipal para conocimiento de los vecinos.
 
 TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
