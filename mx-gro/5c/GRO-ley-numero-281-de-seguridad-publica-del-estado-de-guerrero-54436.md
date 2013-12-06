@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-281-de-seguridad-publica-del-estado-de-guerrero-5443
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-16"
-last_updated: "2010-12-10"
+last_updated: "2013-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 281 DE SEGURIDAD PUBLICA DEL ESTADO DE GUERRERO
 
-LEY NUMERO 281 DE SEGURIDAD PUBLICA DEL ESTADO DE GUERRERO
+LEY NÚMERO 281 DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 16 de febrero de 2007.
 
@@ -36,8 +36,6 @@ El Pleno de la Quincuagésima Octava Legislatura al Honorable Congreso del Estad
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
 C O N S I D E R A N D O
-
-.
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 47 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -115,9 +113,9 @@ V.- Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Púb
 
 VI.- Sistema Nacional: El Sistema Nacional de Seguridad Pública;
 
-Vll.- Consejo Nacional: El Consejo Nacional de Seguridad Pública;
+VII.- Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-Vlll.- Sistema Estatal: El Sistema Estatal de Seguridad Pública;
+VIII.- Sistema Estatal: El Sistema Estatal de Seguridad Pública;
 
 IX.- Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
@@ -163,7 +161,7 @@ II.- Preservar las libertades con arreglo a la Ley, mantener el orden y la paz p
 
 III.- Prevenir, combatir la comisión de delitos y las infracciones a las disposiciones administrativas;
 
-IV.- El combate, persecución y sanción de las infracciones y delitos, así como la reinserción social del delincuente, el auxilio a las víctimas del delito, y la ejecución de medidas de orientación, protección y tratamiento de los adoslescentes; (sic)
+IV.- El combate, persecución y sanción de las infracciones y delitos, así como la reinserción social del delincuente, el auxilio a las víctimas del delito, y la ejecución de medidas de orientación, protección y tratamiento de los adoslescentes (sic);
 
 V.- Establecer los mecanismos de coordinación con el Ministerio Público, para auxiliarlo en la investigación, persecución de los delitos y detención de los probables responsables;
 
@@ -171,7 +169,7 @@ VI.- Cuidar y proteger los bienes, las riquezas y recursos naturales de la Entid
 
 VII.- El apoyo y auxilio a la población, en casos de siniestros y desastres naturales, conforme a la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
@@ -243,7 +241,7 @@ Los recursos que se programen, presupuesten y aporten para el estado y los munic
 
 De dichos recursos deberán rendir informes trimestrales al Secretariado Ejecutivo del Sistema Nacional sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 Para los efectos de este artículo, el Estado y los Municipios tendrán la obligación de:
 
@@ -305,7 +303,7 @@ IV.- El Secretario de Seguridad Pública y Protección Civil; y
 
 V.- El Procurador General de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ARTÍCULO 14 bis.- Las autoridades estatales y las autoridades municipales en el ámbito de sus respectivas competencias, tendrán las atribuciones generales siguientes:
 
@@ -345,7 +343,7 @@ I.- Aplicar la política y estrategia de seguridad pública para mantener el ord
 
 II.- Ejercer el mando del Cuerpo de Policía Estatal;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 III.- Celebrar convenios y acuerdos con la Federación, el Distrito Federal, las Entidades Federativas y Municipios, para la mejor prestación de la función de seguridad pública, conforme a la Ley General del Sistema, la Constitución Estatal, la Ley Orgánica de la Administración Pública del Estado de Guerrero, esta Ley y demás disposiciones jurídicas aplicables;
 
@@ -369,11 +367,11 @@ XII.- Establecer las políticas de seguridad pública de la entidad;
 
 XIII.- Proponer al Consejo Estatal la creación de comisiones especiales permanentes o temporales para estudiar, operar y evaluar políticas, planes, programas y acciones en materia de seguridad pública, en términos del articulo 35 de la Ley.
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XIV.- Administrar y ejercer los recursos de los fondos de ayuda federal, para la seguridad pública provenientes del Sistema Nacional, así como designar al responsable del control y administración de estos, sin perjuicio de la denominación que se asigne; y
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XV.- Todas aquellas que le confiere la Constitución Federal, la Constitución Estatal, la Ley General del Sistema, la Ley y otros ordenamientos legales.
 
@@ -493,11 +491,11 @@ X.- Ejecutar el Programa Municipal de Seguridad Pública; y
 
 XI.- Las demás facultades que le confiere la Ley y otros ordenamientos legales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO III. DE LOS REQUISITOS PARA SER TITULAR DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA ESTATAL Y MUNICIPAL Y DE LOS MANDOS OPERATIVOS DEL CUERPO DE LA POLICÍA ESTATAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
@@ -593,7 +591,7 @@ I.- Integrar el Sistema Estatal;
 
 II.- Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
-Ill.- Integrar y participar en el Consejo Estatal;
+III.- Integrar y participar en el Consejo Estatal;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -679,7 +677,7 @@ La coordinación a que se refiere el articulo anterior, se hará con respeto abs
 
 Cuando las acciones conjuntas sean para prevenir, combatir e investigar los delitos, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales aplicables.
 
-### CAPÍTULO Il. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 31.
 
@@ -749,7 +747,7 @@ El Consejo Estatal podrá invitar, con derecho a voz, pero sin derecho a voto, p
 
 Los cargos en el Consejo Estatal serán honoríficos, excepto el del Secretario Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 32.
 
@@ -843,11 +841,11 @@ XXV.- Proponer lineamientos para la adquisición del equipamiento para el Cuerpo
 
 XXVI.- Las demás que sean necesarias dentro del marco legal, para cumplir los objetivos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 34.
 
-El Consejo Estatal se reunirá en forma ordinaria cada seis meses y en forma extraordinaria cuando lo solicite el Presidente, el Vicepresidente o a petición de las dos terceras partes de sus integrantes, siendo convocados en ambos casos, por conducto del Secretario Ejecutivo, anexando el orden del día.
+El Consejo Estatal se reunirá en forma ordinaria una seis meses y en forma extraordinaria cuando lo solicite el Presidente, el Vicepresidente o a petición de las dos terceras partes de sus integrantes, siendo convocados en ambos casos, por conducto del Secretario Ejecutivo, anexando el orden del día.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -961,11 +959,11 @@ XXI.- Dictar las medidas necesarias para garantizar el adecuado funcionamiento d
 
 XXII.- Las demás que le asigne el Consejo Estatal o le confieran otros ordenamientos legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO III. DE LAS INSTANCIAS REGIONALES, MUNICIPALES E INTERMUNICIPALES DE COORDINACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 39.
 
@@ -1007,7 +1005,7 @@ VIII.- Un Representante de la Procuraduría General de Justicia del Estado; y
 
 IX.- El Secretario Ejecutivo, que será nombrado por el Consejo Municipal de Seguridad Pública a propuesta del Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 41.
 
@@ -1033,7 +1031,7 @@ En los Consejos Municipales e Intermunicipales, previa invitación, podrán part
 
 Los cargos en los Consejos Municipales e Intermunicipales serán honoríficos, excepto el del Secretario Ejecutivo de los Consejos Municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 43.
 
@@ -1133,11 +1131,47 @@ Corresponde al Gobernador del Estado y a los Presidentes Municipales, en sus res
 
 Los Secretarios Ejecutivos de los Consejos Estatal, Municipal e Intermunicipales de Seguridad Pública, darán amplia difusión al Programa Estatal, destacando la manera en que la población debe participar en el cumplimiento del mismo.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO V. DEL CUERPO DE POLICÍA RURAL
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 48 bis. Se crea el Cuerpo de Policía Rural del Estado de Guerrero, como órgano operativo auxiliar de la seguridad pública estatal, el cual tendrá por objeto mantener la seguridad, tranquilidad y el orden público de los habitantes de las comunidades de los municipios en que funcione y opere de manera subordinada a las autoridades y las instituciones de la materia, en el ámbito de su competencia.
+
+Las acciones y el actuar de los Cuerpos de Policía Rural y sus miembros, serán con estricto apego a los principios constitucionales de legalidad y eficiencia; observar una conducta ejemplar y honrada, y con pleno respeto a los derechos humanos, las garantías individuales y los derechos de terceros, que marca el derecho vigente.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 48 bis 1.- El Cuerpo de la Policía Rural quedará integrada por los agrupamientos que incorporen a miembros de su propia comunidad, con sentido de pertenencia e identidad de zona o región, para la prestación del servicio de seguridad pública, el cual formará parte de la Policía Estatal; su organización y actuación se regirá conforme a ésta Ley, al Reglamento Interior de la citada Corporación y demás disposiciones aplicables en la materia.
+
+La selección de los aspirantes a miembros del Cuerpo de Policía Rural, la comunidad o población a través del Comisario Municipal, ejidal o comunal, de que se trate, celebrarán asamblea para tal efecto, en la designación de los miembros del Cuerpo de Policía Rural se requerirá del voto favorable de, al menos, el cincuenta por ciento más uno de los ciudadanos presentes en dicha asamblea.
+
+La asamblea de la comunidad o población, no podrán celebrarse si no concurre la mitad más uno del número total de ciudadanos que la integran.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 48 bis 2.- El Cuerpo de la Policía Rural desarrollará sus funciones dentro de la circunscripción territorial de la localidad o municipio para el que hubiese sido constituida; pudiendo actuar fuera de ésta sólo en auxilio y a petición expresa de las corporaciones de seguridad municipal, estatal o federal; previa autorización de la Secretaría de Seguridad Pública y Protección Civil; tendrá su domicilio en las comunidades o cabecera municipal que determinen sus asambleas locales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 48 bis 3.- El Cuerpo de la Policía Rural para el desempeño de sus funciones y objetivos, contará con la siguiente estructura de organización y dirección:
+
+I. Una Coordinación General.- estará a cargo de un Inspector General y será quien administre todo lo relativo a la operación del Cuerpo de Policía Rural y dependerá del Subsecretario de Operación Policial.
+
+II. Comandancias Regionales. Para la operación y función del Cuerpo de Policía Rural se crea una comandancia en cada una de las regiones del Estado.
+
+III. Comandancias Municipales. Éstas atenderán la operación y función de los agrupamientos del Cuerpo de la Policía Rural que en el municipio operen.
+
+IV. Agrupamiento de la Localidad. Se integrará por los elementos propuestos por la asamblea de la localidad.
+
+V. La Asamblea de la localidad, con sujeción a esta Ley y demás disposiciones aplicables, será el órgano supremo de selección de los aspirantes a integrar los agrupamientos del Cuerpo de la Policía Rural.
+
+El reglamento interno regulará la organización, dirección, funcionamiento y demás reglas aplicables del Cuerpo de Policía Rural, sin que éste contravenga disposiciones de orden público aplicables a ésta Ley.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL DE INFORMACIÓN POLICIAL
 
-### CAPÍTULO II. DEL REGISTRO DE PERSONAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 49.
 
@@ -1249,7 +1283,7 @@ Asimismo, establecerá las condiciones de seguridad sobre manejo y acceso a la i
 
 Cualquier interesado que estime falsa o errónea alguna información, podrá solicitar la información correspondiente con el objeto de que, en su caso, se anote la corrección que proceda, conforme al procedimiento que establezca el Reglamento.
 
-### CAPÍTULO III. DEL REGISTRO DE ARMAMENTO, VEHÍCULOS, MUNICIONES Y EQUIPO OFICIAL
+### CAPÍTULO II. DEL REGISTRO DE PERSONAL DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 55.
 
@@ -1313,7 +1347,7 @@ Los particulares autorizados para prestar los servicios de seguridad privada, es
 
 Quien infrinja lo dispuesto en los artículos anteriores o expida constancias que modifiquen o alteren el sentido de la información que constan en el Registro del Personal de Seguridad Pública; omitan registrar u oculte un antecedente negativo o positivo de cualquier persona, será sancionado conforme a las disposiciones legales correspondientes, sin perjuicio de la responsabilidad penal que resulte.
 
-### CAPÍTULO IV. DE LA INFORMACIÓN DE APOYO A LA PROCURACIÓN DE JUSTICIA
+### CAPÍTULO III. DEL REGISTRO DE ARMAMENTO, VEHÍCULOS, MUNICIONES Y EQUIPO OFICIAL
 
 ###### ARTÍCULO 59.
 
@@ -1359,7 +1393,7 @@ En el caso de que los elementos del Cuerpo de Policía Estatal aseguren armas o 
 
 El incumplimiento a los artículos de esté capítulo será sancionada en los términos de la Ley y demás disposiciones legales aplicables.
 
-### CAPÍTULO V. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
+### CAPÍTULO IV. DE LA INFORMACIÓN DE APOYO A LA PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 65.
 
@@ -1409,7 +1443,7 @@ Al servidor público que quebrante la reserva del Registro o proporcione informa
 
 ARTÍCULO 66 bis 2.- Las Instituciones de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
 
-### CAPÍTULO VI. DE LA INVESTIGACIÓN PARA LA PREVENCIÓN
+### CAPÍTULO V. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 67.
 
@@ -1425,7 +1459,7 @@ La estadística se integrará al Sistema Estatal de Información Policial, que c
 
 Cuando la revelación de la información a que se hace referencia en el párrafo que antecede, ponga en riesgo el debido desarrollo de una investigación, averiguación previa o proceso, se podrá reservar hasta en tanto no deje de existir tal condición.
 
-### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
+### CAPÍTULO VI. DE LA INVESTIGACIÓN PARA LA PREVENCIÓN
 
 ###### ARTÍCULO 70.
 
@@ -1483,9 +1517,7 @@ Los demás registros que integran el Sistema Estatal de Información Policial, a
 
 ## TÍTULO QUINTO. DE LA PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 74.
 
@@ -1603,9 +1635,9 @@ III.- Medidas de protección a la víctima; y
 
 IV.- Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 82.
 
@@ -1619,7 +1651,9 @@ El servicio tendrá comunicación directa con las instituciones de seguridad pú
 
 ## TÍTULO SEXTO. DEL CUERPO DE POLICÍA ESTATAL
 
-### CAPÍTULO II. DE LAS FUNCIONES Y FACULTADES DEL CUERPO DE POLICÍA ESTATAL
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 84.
 
@@ -1727,7 +1761,7 @@ Asimismo coadyuvará con el Ministerio Público y las autoridades judiciales en 
 
 La profesionalización del Cuerpo de Policía Estatal, tiene como finalidad forjar el desarrollo integral en el policía mediante la adquisición de los conocimientos y habilidades que propician la honorabilidad, disciplina y la competencia profesional en todas las etapas de la vida policial como un servidor público eficaz, desarrollando el sentido de pertenencia, la aceptación de la sociedad y el respeto de los derechos humanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 91.
 
@@ -1847,9 +1881,7 @@ Se consideran miembros de las Instituciones Policiales, a quienes tengan un nomb
 
 No forman parte del Cuerpo de Policía Estatal, aquellas personas que ostenten nombramiento distinto al de elemento policial, aún cuando laboren en las instituciones de seguridad pública.
 
-### CAPÍTULO III. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN DEL CUERPO DE POLICÍA ESTATAL
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+### CAPÍTULO II. DE LAS FUNCIONES Y FACULTADES DEL CUERPO DE POLICÍA ESTATAL
 
 ###### ARTÍCULO 98.
 
@@ -1867,7 +1899,7 @@ c).- Los espacios urbanos, así como en los inmuebles, instalaciones y servicios
 
 d).- Todos aquellos lugares, zonas o espacios del territorio sujeto a la jurisdicción estatal conforme a lo establecido por las Leyes respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 III.- Garantizar, mantener y restablecer el orden y la paz públicos, así como salvaguardar la integridad de las personas y participar en la ejecución de medidas de protección a las víctimas u ofendidos del delito;
 
@@ -1953,9 +1985,9 @@ f).- Contar con un equipo especializado que preste auxilio a víctimas de violen
 
 XXXI.- Las demás que determinen las normas aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2009)</small>
 
-### CAPÍTULO IV. DE LA ACADEMIA Y DEL CENTRO DE EVALUACION Y CONTROL DE CONFIANZA
+### CAPÍTULO III. DE LA CARRERA POLICIAL Y DE LA PROFESIONALIZACIÓN DEL CUERPO DE POLICÍA ESTATAL
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1989,19 +2021,19 @@ Son principios rectores del Servicio de Carrera Policial, la disciplina, honrade
 
 Se considera como policía de carrera al recurso humano que ha sido seleccionado, capacitado, contratado y certificado, que cuenta con nombramiento para efectuar funciones policiales, en los rangos, categorías, especialidades, puesto, nivel o ámbito de competencia previsto en la presente Ley o en el Reglamento que al efecto se expida. Los elementos del Cuerpo de Policía Estatal, sólo podrán ser nombrados y promocionados a la categoría inmediata superior y sancionados en los casos y bajo los procedimientos previstos en la Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O 16 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ARTÍCULO 102 bis.- La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales.
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que apruebe la Conferencia Nacional de Secretarios de Seguridad Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 103.
 
 La conclusión del servicio de un integrante del Cuerpo de Policía Estatal, es la terminación de su nombramiento o la cesación de sus efectos legales por las causas siguientes:
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 A).- Baja por:
 
@@ -2071,11 +2103,11 @@ El Reglamento que al efecto se expida, ampliará y desarrollará los procesos qu
 
 ARTÍCULO 107 bis.- El servicio de carrera, la certificación y la profesionalización respecto a los Ministerios Públicos y Peritos; así como la creación de las Comisiones de Honor y Justicia y del Servicio Profesional de Carrera de la Procuraduría, se establecerá en su Legislación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2009)</small>
 
-### CAPÍTULO V. DEL RÉGIMEN DISCIPLINARIO DEL CUERPO DE POLICÍA ESTATAL
+### CAPÍTULO IV. DE LA ACADEMIA Y DEL CENTRO DE EVALUACION Y CONTROL DE CONFIANZA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 108.
 
@@ -2175,7 +2207,9 @@ XVI.- Supervisar que los aspirantes e integrantes de las Instituciones Policiale
 
 XVII.- Las demás que establezcan las disposiciones legales aplicables.
 
-### CAPÍTULO VI. DE LOS DERECHOS Y DEBERES DE LOS MIEMBROS DEL CUERPO DE POLICÍA ESTATAL
+### CAPÍTULO V. DEL RÉGIMEN DISCIPLINARIO DEL CUERPO DE POLICÍA ESTATAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 111.
 
@@ -2245,9 +2279,7 @@ La suspensión preventiva subsistirá hasta que el asunto de que se trate quede 
 
 En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
 
-### CAPÍTULO VII. DE LA JUSTICIA POLICIAL. FUNCIÓN Y PROCEDIMIENTO ANTE EL CONSEJO DE HONOR Y JUSTICIA
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+### CAPÍTULO VI. DE LOS DERECHOS Y DEBERES DE LOS MIEMBROS DEL CUERPO DE POLICÍA ESTATAL
 
 ###### ARTÍCULO 113.
 
@@ -2459,9 +2491,9 @@ XXIX.- Las demás que establezcan las disposiciones legales aplicables.
 
 Las promociones, condecoraciones, estímulos y recompensas a que se hagan acreedores los miembros del Cuerpo de Policía Estatal, se otorgaran bajo los supuestos y requisitos que se establezcan en el Reglamento que al efecto se expidan.
 
-### CAPÍTULO VIII. DE LAS CAUSALES DE REMOCIÓN
+### CAPÍTULO VII. DE LA JUSTICIA POLICIAL. FUNCIÓN Y PROCEDIMIENTO ANTE EL CONSEJO DE HONOR Y JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 116.
 
@@ -2635,9 +2667,11 @@ ARTÍCULO 131 bis.- La Comisión del Servicio Profesional de Carrera Policial, c
 
 ARTÍCULO 131 bis 1.- Las Comisiones del servicio profesional de carrera policial y de honor y justicia, llevarán un registro de datos de los integrantes de sus instituciones. Dichos datos se incorporarán (sic) las bases de datos de personal de Seguridad Pública.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2009)</small>
 
-### CAPÍTULO IX. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO VIII. DE LAS CAUSALES DE REMOCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 132.
 
@@ -2655,7 +2689,7 @@ IV.- Portar el arma de cargo fuera del servicio, horario, misión o comisión si
 
 V.- Poner en peligro a las personas, sus bienes y derechos por imprudencia, descuido, negligencia o abandono del servicio;
 
-> <small>(REFORMADA, .P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 VI.- Asistir a sus labores en estado de ebriedad, bajo el influjo de sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
 
@@ -2685,11 +2719,11 @@ XIV.- No recoger, destruir o recabar medios de pruebas necesarios u obtener inde
 
 XV.- Introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
 
-> <small>(ADICIONADA, .P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XVI.- Consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
 
-> <small>(ADICIONADA, .P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XVII.- Las demás que establezcan la ley y otras disposiciones aplicables.
 
@@ -2707,7 +2741,7 @@ La destitución del cargo, procederá en los supuestos previstos en la Ley y dem
 
 Toda sanción a que se hagan acreedores los elementos del Cuerpo de Policía Estatal, se ajustara a lo que para tal efecto dispone la Ley, con independencia de la responsabilidad penal a que haya lugar. La resolución que contenga la sanción impuesta deberá hacerse del conocimiento de la Contraloría General del Estado y del Sistema de Información, especificando además la causa de la misma.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IX. DEL RECURSO DE RECONSIDERACIÓN
 
 ###### ARTÍCULO 136.
 
@@ -2743,9 +2777,7 @@ La resolución definitiva recaída al recurso de reconsideración, será firme, 
 
 ## TÍTULO SÉPTIMO. DE LA RELACIÓN JURÍDICA DE LOS ELEMENTOS DEL CUERPO DE POLICÍA ESTATAL
 
-### CAPÍTULO I. DE LA POLICÍA AUXILIAR
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 140.
 
@@ -2773,7 +2805,9 @@ Las Instituciones de Seguridad Pública, realizarán y someterán a las autorida
 
 ## TÍTULO OCTAVO. DE LOS SERVICIOS AUXILIARES DE LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO II. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO I. DE LA POLICÍA AUXILIAR
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 143.
 
@@ -2801,7 +2835,7 @@ Los ingresos que perciban el Estado y los Ayuntamientos por los derechos a que s
 
 Las Secretarías de Seguridad Pública y Protección Civil, de Finanzas y Administración y la Contraloría General del Estado, en el ámbito de sus respectivas competencias, establecerán sistemas y mecanismos administrativos, presupuestarios y de control, para que los ingresos se destinen con transparencia a los fines establecidos en el artículo anterior. Esta misma disposición observaran los Ayuntamientos de acuerdo con sus órganos de administración y control interno de los recursos.
 
-### CAPÍTULO III. DE LA AUTORIZACIÓN Y SUPERVISIÓN
+### CAPÍTULO II. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
 ###### ARTÍCULO 148.
 
@@ -2811,7 +2845,7 @@ El Estado podrá autorizar a particulares la prestación de servicios de segurid
 
 Las personas físicas o morales, prestadores de los servicios de seguridad privada y todos aquellos que realicen funciones relacionadas con la seguridad pública, son auxiliares de la seguridad pública, quedando sujetos a los principios de actuación previstos en la presente Ley y en los términos y modalidades que se señalen en el Reglamento que al efecto se expida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 150.
 
@@ -2857,7 +2891,7 @@ Los servicios de seguridad privada sólo podrán ser prestados por ciudadanos me
 
 Ningún elemento en activo que pertenezca al Cuerpo de Policía Estatal o Federal o de las Fuerzas Armadas o servidor público que labore en las Instituciones de seguridad pública, podrá ser socio, propietario, administrador, comisionista, o empleado de una empresa o grupo que preste servicios de seguridad privada. La contravención a lo dispuesto será motivo para revocar la autorización respectiva.
 
-### CAPÍTULO IV. DE LAS SANCIONES
+### CAPÍTULO III. DE LA AUTORIZACIÓN Y SUPERVISIÓN
 
 ###### ARTÍCULO 156.
 
@@ -2906,6 +2940,8 @@ Los particulares que presten el servicio de seguridad privada, con la autorizaci
 ###### ARTÍCULO 161.
 
 Corresponde a la Secretaría, supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de servicios de seguridad privada, a efecto de que éstos cumplan con lo previsto en la presente Ley y el Reglamento respectivo.
+
+### CAPÍTULO IV. DE LAS SANCIONES
 
 ###### ARTÍCULO 162.
 
@@ -2981,7 +3017,7 @@ GRAL. JUAN HERIBERTO SALINAS ALTÉS.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE JUNIO DE 2009.
 
@@ -3020,3 +3056,11 @@ P.O. 10 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. En un plazo máximo de 90 días, contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo, deberá expedir el Reglamento del Cuerpo de Policía Rural, para ello podrá llevar a cabo mecanismos de consulta con los Cuerpos de Policías Rurales, constituidos conforme a la presente Ley.
+
+TERCERO. Quedan derogadas todas las disposiciones que contravengan el presente Decreto.
