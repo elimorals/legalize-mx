@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2013-10-25"
+last_updated: "2013-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -273,7 +273,9 @@ V.- Desempeñar las comisiones y funciones que el Gobernador le confiera, manten
 
 VI.- Proponer al Gobernador los Anteproyectos de Leyes, Reglamentos, Decretos, Acuerdos y Ordenes sobre los asuntos que competen a la Dependencia a su cargo y al Sector que le corresponda coordinar;
 
-VII.- Dar cuenta al Congreso del Estado de la situación que guarda su Ramo o el del Sector correspondiente, siempre que sea requerido para ello, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+VII.- Dar cuenta de manera formal al Congreso del Estado, de la situación que guarda su Ramo o el Sector correspondiente, así como dar trámite y respuesta formal y puntual, a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales, y
 
 VIII.- Documentar, compilar y mantener actualizada la información de la Dependencia a su cargo, con el objeto de integrar el Informe General que obliga al Gobernador la Fracción V del Artículo 49 de la Constitución Política del Estado de Baja California.
 
@@ -1447,6 +1449,10 @@ Los Organismos Descentralizados son Entidades Jurídicas Públicas, con personal
 
 Con el fin de preservar la rectoría de los planes de Gobierno, los instrumentos de creación de todo Organismo Descentralizado deberán observar e incorporar, en su caso, las facultades de supraordenación y coordinación, que la presente Ley reserva al Gobernador del Estado o a las Dependencias del Poder Ejecutivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+Los directores o quienes funjan como titulares de los organismos descentralizados, están obligados con el Congreso del Estado en los mismos términos que previene la fracción VII del artículo 18 del presente ordenamiento.
+
 ###### ARTICULO 42.
 
 Los Organismos Descentralizados podrán ser creados por Leyes especiales que expida el Congreso, o en su caso, por el Ejecutivo Estatal, cualquiera que sea la forma o estructura legal que adopten.
@@ -2046,3 +2052,7 @@ P.O. 30 DE AGOSTO DE 2013.
 P.O. 25 DE OCTUBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+Único.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
