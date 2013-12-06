@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2012-07-13"
+last_updated: "2013-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -157,6 +157,8 @@ Para el cambio de régimen de un bien del dominio público al de dominio privado
 
 Procederá el cambio de régimen del dominio público al de dominio privado cuando el bien deje de tener el uso público o común al que se encontraba afecto, o resultare necesario su cambio a juicio del cabildo en los términos del artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 15.
 
 Desincorporado un bien del dominio público se registrará en los inventarios del dominio privado pudiendo permanecer en él, fungir como garantía o ser directamente enajenado con la autorización previa de las dos terceras partes de los integrantes del ayuntamiento. Cuando el bien a enajenar sea inmueble la venta se hará condicionando al comprador a que dicho inmueble sea utilizado conforme al uso de suelo que autorice la Dirección de Administración Urbana, que no afecte el interés social y que impulse el desarrollo de la zona, proponiendo al comprador que sea utilizado para esparcimiento, vivienda popular, comercio o desarrollo industrial, pudiendo el ayuntamiento generar los incentivos necesarios para que se fomenten estas inversiones.
@@ -181,15 +183,21 @@ CONTENIDO DEL EXPEDIENTE TÉCNICO:
 
 7. Oficios expedidos por la Comisión Federal de Electricidad y la Comisión Estatal de Servicios Públicos acreditando qué no cuenta con ningún tipo de uso sobre el bien inmueble que implique la instalación de cables vías y o tuberías etc.
 
-8. Cuando el solicitante sea persona moral, deberá acreditar su representación legal a través de poder general expedido por notario publico.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-Para la enajenación de los bienes una vez autorizada, se procederá conforme lo siguiente:
+8. Cuando el particular solicitante se encuentre constituido como persona moral, deberá acreditar su personalidad a través de poder general expedido por notario público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+Para la enajenación de los bienes una vez autorizada, se procederá conforme lo Siguiente:
 
 > <small>(F. DE E., P.O. 10 DE MAYO DE 2002)</small>
 
 I.- El Tesorero o funcionario equivalente procederá en subasta pública si el valor de los bienes muebles dictaminado por peritos en la materia excede de 2000 salarios mínimos vigentes en la entidad.
 
-II.- Si el valor de la enajenación es menor al rango citado en la fracción anterior se podrá hacer la venta directa mediante invitación a tres postores que no tengan relación familiar con ningún miembro del ayuntamiento ni de los funcionarios públicos de primer segundo y tercer nivel, debiendo autorizarse la venta por el Tesorero, el Oficial Mayor y el Sindico Municipal.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+II.- Si el valor de la enajenación es menor al rango citado en la fracción anterior se podrá hacer la venta directa mediante invitación a tres postores que no tengan relación familiar con ningún miembro del ayuntamiento ni de los funcionarios públicos de primer segundo y tercer nivel, debiendo autorizarse la venta por el Tesorero, el Oficial Mayor y el Sindico Procurador.
 
 III.- Tratándose de bienes inmuebles la venta se hará a petición de parte interesada o por subasta pública sea cual fuere su valor, salvo el caso de colindantes o los causantes en la adquisición de un bien inmueble respecto del ayuntamiento, quienes tendrán preferencia si pagan el avaluó fijado por peritos igual derecho de preferencia tendrán las personas colindantes cuando se trate de alineación de calles, callejones, banquetas y similares. Si varias personas se encuentran en esta situación se le venderá al que de entre ellos presente la mejor postura.
 
@@ -197,7 +205,9 @@ Para la subasta pública de bienes inmuebles, el tesorero, tramitara la venta co
 
 a).- Obtener el acuerdo del ayuntamiento mediante la mayoría calificada a que se refiere este reglamento, que autorice la desincorporación del inmueble del régimen del dominio publico, y en su caso la autorización de la venta y la aplicación que se le dará a los recursos.
 
-b).- Dentro de los siguientes treinta días a partir de realizada la desincorporación y autorización de venta, se mandará realizar el avalúo comercial correspondiente, que en ningún caso será menor que el valor fiscal, y mismo que una vez aprobado por la Comisión de Hacienda y con el voto favorable del Síndico, se mandará publicar en el periódico oficial y en un diario de mayor circulación, junto con el acuerdo de desincorporacion y el avalúo aprobado, la convocatoria a postores para que participen en la licitación para adquirir el bien inmueble. Este procedimiento será obligatorio para los que hayan solicitado la compra de un inmueble.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+b).- Dentro de los siguientes treinta días a partir de realizada la desincorporación y autorización de venta, se mandará realizar el avalúo comercial correspondiente, que en ningún caso será menor que el valor fiscal, y mismo que una vez aprobado por la Comisión de Hacienda y con el voto favorable del Síndico Procurador, se mandará publicar en el periódico oficial y en un diario de mayor circulación, junto con el acuerdo de desincorporación y el avalúo aprobado, la convocatoria a postores para que participen en la licitación para adquirir el bien inmueble. Este procedimiento será obligatorio para los que hayan solicitado la compra de un inmueble
 
 c).- De la convocatoria que se publique, se deberá notificar personalmente a los vecinos directamente colindantes, si hubiera en ellos asentamiento humano. De no haberlo les surtirá efectos la convocatoria publica como si fuera notificación personal. La presente disposición aplica solo para el efecto de que los colindantes hagan valer su derecho al tanto para el efecto en los términos del presente artículo.
 
@@ -265,13 +275,13 @@ Al término del plazo de la concesión, o de la última prórroga que en su caso
 
 Para dar en concesión un bien inmueble del dominio público se estará a lo siguiente:
 
-Si la concesión excede del término del periodo constitucional del Ayuntamiento, el acuerdo que la autorice debe tomarse con el voto favorable de cuando menos las dos terceras partes de los miembros del cabildo.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-Para la explotación o afectación de un bien propiedad municipal, el Ayuntamiento deberá aprobar la autorización correspondiente con el voto favorable de las dos terceras partes de los integrantes del Cabildo.
+Si la concesión excede del término del periodo constitucional del Ayuntamiento, el acuerdo que la autorice debe tomarse con el voto favorable de cuando menos las dos terceras partes de los miembros del cabildo. Para la explotación o afectación de un bien propiedad municipal, el Ayuntamiento deberá aprobar la autorización correspondiente con el voto favorable de las dos terceras partes de los integrantes del Cabildo. Cuando la concesión sea promovida por el Ayuntamiento se hará mediante licitación pública, conforme al siguiente procedimiento:
 
-Cuando la concesión sea promovida por el Ayuntamiento se hará mediante licitación pública conforme al siguiente procedimiento:
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-a) Se constituirá un Comité Técnico conformado por el Administrador Municipal, el Tesorero, el Síndico, el Titular del Área involucrada y un Regidor designado expresamente por el Cabildo; de acuerdo con la materia de la concesión; órgano que autorizará las bases y la emisión de la responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante.
+a) Se constituirá un Comité Técnico conformado por el Administrador Municipal, el Tesorero, el Síndico Procurador, el Titular del Área involucrada y un Regidor designado expresamente por el Cabildo; de acuerdo con la materia de la concesión; órgano que autorizará las bases y la emisión de la convocatoria para la licitación; asimismo dicho comité designara a la Dependencia Municipal responsable de llevar a cabo el proceso de licitación respectivo, teniendo ésta última el carácter de autoridad convocante.
 
 b) Las convocatorias para la licitación pública de concesiones deberán indicar:
 
@@ -445,11 +455,11 @@ Si el ganador de la licitación no estuviera de acuerdo con el título de conces
 
 Previsiones Generales
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
 
-Con el objeto de dar transparencia en la administración y enajenación de bienes, el síndico municipal emitirá las normas técnicas y administrativas necesarias para el mejor control y curso de los trámites que se señalan en el presente ordenamiento.
+Con el objeto de dar mayor transparencia en la administración y enajenación de bienes, el Síndico Procurador emitirá las normas técnicas y administrativas necesarias para el mejor control y curso de los trámites que se señalan en el presente ordenamiento.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -492,3 +502,7 @@ P.O. 13 DE JULIO DE 2012.
 PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASI COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
 
 SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
