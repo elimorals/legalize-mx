@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2013-11-08"
+last_updated: "2013-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -421,17 +421,65 @@ Las personas menores de doce años que hayan realizado una conducta prevista com
 
 En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 14.
 
-El Estado organizará un Sistema de Planeación Democrática del Desarrollo de la Entidad, mediante la participación de los Sectores Público, Privado y Social.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+A. El Estado organizará un Sistema de Planeación Democrática del Desarrollo de la Entidad, mediante la participación de los Sectores Público, Privado y Social.
 
-Tratándose de planes de desarrollo regional se garantizará la participación de los Municipios involucrados.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de programas regionales se garantizará la participación de los municipios involucrados.
 
 La Ley establecerá los procedimientos de participación y consulta popular para la planeación.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+B. La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. Los derechos a la información pública y protección de datos personales serán garantizados por el Estado.
+
+Para el ejercicio del derecho de acceso a la información, los Poderes, organismos autónomos y ayuntamientos, en el ámbito de sus respectivas competencias, se regirán por las siguientes fracciones y bases:
+
+I. Toda la información pública en posesión de los poderes ejecutivo, legislativo o judicial y de cualquier autoridad, órgano estatal y municipal, incluyendo los órganos autónomos por disposición constitucional es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad;
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición de éstos;
+
+IV. Se establecerán los medios de impugnación que se sustanciarán ante el organismo especializado que establece esta Constitución, que es la única instancia estatal facultada para dirimirlos;
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
+
+VI. La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley.
+
+BASE PRIMERA. El organismo autónomo es especializado e imparcial, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en los términos que establezca la Ley.
+
+Contará con personalidad jurídica y patrimonio propios, así como plena autonomía técnica, de gestión, para proponer su proyecto de presupuesto y determinar su organización interna.
+
+BASE SEGUNDA. Este organismo se regirá de acuerdo a lo señalado en la Ley de la materia, y su organización interna se desarrollará en su Reglamento Interior.
+
+BASE TERCERA. En su funcionamiento se rige por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, transparencia y máxima publicidad.
+
+BASE CUARTA. Tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión o a cargo de los poderes Ejecutivo, Legislativo y Judicial o de cualquier autoridad, entidad, órgano u organismo que forme parte de éstos, ayuntamientos, órganos autónomos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+
+Sus resoluciones son vinculatorias, definitivas e irrecurribles para los sujetos obligados.
+
+BASE QUINTA. El organismo autónomo se integra por cuatro consejeros. Para su designación, el Ejecutivo del Estado, propondrá éstos ante el Congreso del Estado, mediante ternas que elaborará considerando la opinión de instituciones gubernamentales y no gubernamentales que se desempeñen en el ámbito de la transparencia, el acceso a la información y la protección de datos personales, y quienes deberán ser designados por el voto de las dos terceras partes de los integrantes del Congreso del Estado.
+
+EI Presidente del Congreso citará al Consejero designado, para que rinda la protesta de Ley al cargo, ante el Pleno o en los recesos, ante la Diputación Permanente.
+
+En caso de que el Pleno del Congreso del Estado no apruebe la propuesta, el titular del Ejecutivo presentará una nueva terna.
+
+Los consejeros durarán en su encargo siete años, sin posibilidad de reelección y durante el tiempo que dure su nombramiento no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, y sólo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución.
+
+Su Presidente ser designado por los propios consejeros, mediante voto secreto, por un periodo de dos años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual en la fecha y en los términos que disponga la Ley de la materia.
+
+La Ley establecerá las medidas de apremio que podrá imponer el organismo autónomo para asegurar el cumplimiento de sus decisiones; toda autoridad y servidor público, estará obligado a coadyuvar con éste para el buen desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1239,6 +1287,12 @@ Ratificar el nombramiento del Procurador General de Justicia a propuesta del Gob
 
 Aprobar el nombramiento de los Magistrados del Tribunal de lo Contencioso Administrativo a propuesta del Gobernador del Estado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+Designar y en su caso, calificar las renuncias de los Consejeros del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales, de acuerdo a la propuesta que formule el Ejecutivo del Estado.
+
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
 XXIII.- Declarar si ha lugar a la formación de causa respecto de los Funcionarios que gocen de Fuero;
@@ -1611,7 +1665,17 @@ XXIII.- Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscit
 
 XXIV.- Instrumentar, en los términos de ley, sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
 
-XXV.- Las demás que le concedan esta Constitución y las leyes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ANTERIOR, SE APRECIA LA EXISTENCIA DEL NUMERAL DE ESTA FRACCIÓN.
+
+XXV.- Proponer al Congreso del Estado las ternas para la designación de consejeros del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales, en los términos establecidos por esta Constitución y las disposiciones previstas en la Ley de la materia; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ANTERIOR EN LA FRACCIÓN XXV, PERO DEL ANÁLISIS DEL DECRETO NÚMERO 100 PUBLICADO EL 6 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVI.
+
+XXVI.- Las demás que le concedan esta Constitución y las leyes.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -1849,9 +1913,17 @@ c).- El Poder Ejecutivo y el Legislativo.
 
 B. Las acciones de inconstitucionalidad que promueva al menos una tercera parte de los integrantes del Congreso del Estado y que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ANTERIOR, SE APRECIA LA EXISTENCIA DE UN SEGUNDO PÁRRAFO.
+
+El Consejero Presidente del organismo autónomo, señalado en el apartado B del artículo 14 de esta Constitución, por acuerdo del Pleno de su Consejo General, podrá promover acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, en materia de acceso a la información pública y protección de datos personales.
+
 Las acciones de inconstitucionalidad sólo podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma.
 
 Quedan excluidos los conflictos o acciones de carácter electoral.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS DEL DECRETO NÚMERO 100 DE FECHA 6 DE DICIEMBRE DE 2013, PASÓ A SER UN NUEVO QUINTO PÁRRAFO.</small>
 
 El procedimiento se substanciará conforme lo disponga la Ley;
 
@@ -3520,3 +3592,23 @@ Artículo Único. El presente decreto entrará en vigencia el cuarto día siguie
 P.O. 8 DE NOVIEMBRE DE 2013.
 
 Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigencia sesenta días posteriores a su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. Los consejeros que actualmente conforman el Instituto de Acceso a la Información Pública para el Estado de Guanajuato seguirán en su cargo hasta concluir el periodo para el cual fueron nombrados y pasarán a formar parte del organismo constitucional autónomo en que se transforma con el presente Decreto. Dichos consejeros no podrán ser reelectos.
+
+Artículo Tercero. El Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, contará con un término de noventa días para realizar los ajustes presupuestales respecto del Instituto de Acceso a la Información Publica en su carácter de organismo constitucional autónomo, en cumplimiento de lo establecido en el presente Decreto.
+
+Artículo Cuarto. El personal de base que a la entrada en vigor de la presente Ley presten un servicio personal subordinado al Instituto de Acceso a la Información Pública para el Estado de Guanajuato, formarán parte del personal al servicio del Instituto en su carácter de organismo constitucional autónomo, y conservarán las remuneraciones y prestaciones de las cuales gozan a la entrada en vigor del presente Decreto.
+
+Artículo Quinto. El Instituto de Acceso a la Información Pública para el Estado de Guanajuato en su carácter de organismo constitucional autónomo, con el concurso de la Secretaría de Finanzas, Inversión y Administración, realizarán los ajustes de recursos humanos, financieros y materiales, los que deberán efectuarse en los términos de las disposiciones legales aplicables, garantizando la continuidad de la operación y de las actividades del Instituto.
+
+Artículo Sexto. EI Congreso del Estado deberá adecuar la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, en un término de ciento ochenta días, contado a partir del inicio de vigencia del presente Decreto.
+
+En tanto el Instituto de Acceso a la Información Pública para el Estado de Guanajuato expide las demás disposiciones administrativas necesarias para su operación, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes, en lo que no se opongan al presente Decreto. Las medidas administrativas dictadas con fundamento en disposiciones anteriores en la materia, continuarán en vigor hasta que no sean revocadas o modificadas expresamente por las autoridades competentes.
+
+Artículo Séptimo. Los poderes, mandatos y en general las representaciones otorgadas y facultades concedidas por el Instituto de Acceso a la Información Pública del Estado de Guanajuato, con anterioridad a la entrada en vigor del presente Decreto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+En el supuesto de que existan asuntos en la Secretaría de la Transparencia y Rendición de Cuentas, que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán ser concluidos por la propia Secretaría de la Transparencia y Rendición de Cuentas, aplicando lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, y demás ordenamientos legales en la materia.
