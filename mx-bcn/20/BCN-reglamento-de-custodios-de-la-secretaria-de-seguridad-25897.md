@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-custodios-de-la-secretaria-de-seguridad-25897"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2002-08-30"
+last_updated: "2013-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE CUSTODIOS DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE CUSTODIOS DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE CUSTODIOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE LA POLICÍA ESTATAL DE SEGURIDAD Y CUSTODIA PENITENCIARIA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -99,7 +101,7 @@ Una vez que se obtenga la alta como custodio de centros penitenciarios, adquiere
 
 ###### Artículo 11.
 
-El custodio deberá reunir en todo tiempo, los requisitos de permanencia señalados en el articulo 93 de la Ley.
+El custodio deberá reunir en todo tiempo, los requisitos de permanencia señalados en el artículo 93 de la Ley.
 
 ### CAPÍTULO CUARTO. DEL SERVICIO DE CUSTODIA
 
@@ -258,3 +260,23 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 BERNARDO H. MARTÍNEZ AGUIRRE
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, salvo lo previsto en los artículos transitorios séptimo y octavo.
+
+Artículo Segundo.- Se abroga el Reglamento de Custodios de la Secretaría de Seguridad Pública del Estado de Baja California, Publicado en el Periódico Oficial del Estado en fecha 30 de agosto de 2002.
+
+Artículo Tercero.- El titular de la Secretaría de Seguridad Pública del Estado de Baja California deberá expedir los manuales administrativos necesarios para el funcionamiento de la Policía Estatal de Seguridad y Custodia Penitenciaria de Baja California, a que se refiere el presente Reglamento, a más tardar dentro de un año siguiente a la entrada en vigor de éste.
+
+Artículo Cuarto.- En tanto no se expidan los manuales, acuerdos, órdenes generales, circulares y demás disposiciones aplicables necesarias para el funcionamiento de la Policía Estatal de Seguridad y Custodia Penitenciaria de Baja California, el titular de la Subsecretaría del Sistema Estatal Penitenciario queda facultado para disponer la forma de atender y resolver los asuntos que se presenten, relacionados con dicha normatividad.
+
+Artículo Quinto.- El titular de la Secretaría de Seguridad Pública del Estado de Baja California queda autorizado para resolver las dudas con motivo de la interpretación o aplicación del presente Reglamento, y sobre las situaciones no previstas en el mismo.
+
+Artículo Sexto.- El Comité Interno de Evaluación de la Policía Estatal de Seguridad y Custodia Penitenciaria de Baja California se instalará e iniciará sus funciones a más tardar dentro de los treinta días naturales posteriores a la publicación del presente Reglamento.
+
+Artículo Séptimo.- Los grados, cargos y estructura de la Institución Policial a que refiere el presente Reglamento, entrarán en operación hasta en tanto se actualice el supuesto previsto en el artículo Segundo transitorio de la Ley de la Policía Estatal de Seguridad y Custodia Penitenciaria de Baja California.
+
+Artículo Octavo.- Los sistemas complementarios de seguridad social que a favor de los Miembros establece el presente Reglamento, entrarán en vigor a más tardar dentro de los cinco años siguientes a la entrada en vigor del presente Reglamento, a excepción de las prestaciones médicas a que refiere el artículo 129 del presente reglamento, las cuales seguirán la entrada en vigor prevista en el transitorio primero de este Decreto.
