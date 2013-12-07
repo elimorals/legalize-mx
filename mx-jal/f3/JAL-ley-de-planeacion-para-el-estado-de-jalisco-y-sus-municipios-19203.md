@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2012-02-14"
+last_updated: "2013-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -81,7 +81,9 @@ a) COPLADE: es el Comité de Planeación para el Desarrollo del Estado de Jalisc
 
 b) COPLADEMUN: es el Comité de Planeación para el Desarrollo Municipal, de cada uno de los Municipios del Estado; y
 
-c) SEIJAL: es el Sistema Estatal de Información Jalisco.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
+c) Instituto de Información: Instituto de Información Estadística y Geográfica del Estado de Jalisco
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -193,13 +195,13 @@ El proceso de planeación deberá integrarse cuando menos con las etapas de cons
 
 Las dependencias y entidades de la administración pública estatal y municipal, deberán participar en la formulación, evaluación y actualización o sustitución de los planes y programas de gobierno, conforme a lo establecido en esta ley.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13.
 
-Los planes estatal, municipales y regionales y los programas de gobierno, serán elaborados tomando en cuenta en lo conducente la información que al respecto generen el SEIJAL, el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Estatal de Población, el Instituto de Información Territorial del Estado de Jalisco y las instituciones de educación superior y de investigación, así como cualquier otra que se considere necesaria para el proceso de planeación.
+Los planes estatal, municipales y regionales y los programas de gobierno, serán elaborados tomando en cuenta en lo conducente la información que al respecto generen el Instituto de Información, el Instituto Nacional de Estadística, Geografía e Informática y las instituciones de educación superior y de investigación, así como cualquier otra que se considere necesaria para el proceso de planeación.
 
-La información útil para el proceso de planeación del Estado de Jalisco y sus Municipios será concentrada, sistematizada y ministrada por el SEIJAL.
+La información útil para el proceso de planeación del Estado de Jalisco y sus Municipios será concentrada, sistematizada y ministrada por el Instituto de Información.
 
 ###### Artículo 14.
 
@@ -836,3 +838,33 @@ P.O. 29 DE DICIEMBRE DE 2009.
 P.O. 14 DE FEBRERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Ejecutivo del Estado deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+TERCERO. Se abroga la Ley del Sistema de Información Territorial del Estado de Jalisco, expedida mediante el Decreto número 16795, publicado en el Periódico Oficial "El Estado de Jalisco" el 20 de noviembre de 1997, así como sus reformas y adiciones.
+
+CUARTO. Se dejan sin efecto todos los ordenamientos que se opongan al presente decreto.
+
+QUINTO. Se fusionan los organismos públicos descentralizados Sistema de Información y Análisis de Coyuntura del Gobierno del Estado de Jalisco, Instituto de Información Territorial del Estado de Jalisco, así como el órgano desconcentrado Consejo Estatal de Población, para crear el organismo público descentralizado denominado Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+SEXTO. El Poder Ejecutivo dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá aprobar y publicar el Reglamento correspondiente a la presente Ley.
+
+SÉPTIMO. El Titular del Poder Ejecutivo dentro de los 180 días posteriores a la entrada en vigor del presente decreto deberá nombrar al Director General del Instituto de Información Estadística y Geográfica del Estado de Jalisco e instalar la Junta de Gobierno.
+
+OCTAVO. La Junta de Gobierno con apoyo del Director General del Instituto de Información Estadística y Geográfica del Estado de Jalisco deberá aprobar dentro de los 60 días posteriores a su instalación el estatuto orgánico que rija su organización y funcionamiento interno.
+
+NOVENO. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones de los organismos que se fusionan en los términos del presente decreto, pasarán a formar el patrimonio del Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+DÉCIMO. Se autoriza al Titular del Poder Ejecutivo, para que por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. En el proceso de fusión del organismo público descentralizado Instituto de Información Estadística y Geográfica del Estado de Jalisco, serán respetados los derechos laborales adquiridos con anterioridad, de los servidores públicos, empleados y funcionarios públicos, así como de los trabajadores de los organismos que se fusionan en los términos del presente decreto.
+
+DÉCIMO SEGUNDO. Los asuntos que se encuentren pendientes de resolver ante los organismos que se fusionan en los términos del presente decreto, corresponderá su trámite o resolución al Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+DÉCIMO TERCERO. A la fecha de entrada en vigor del presente Decreto, el Instituto de Información Estadística y Geográfica del Estado de Jalisco se subrogará en todas las obligaciones que hubieren contraído las entidades que se fusionan.
+
+DÉCIMO CUARTO. El Ejecutivo Estatal deberá ordenar una auditoria interna que refleje el estado real y actual en que se encuentran los organismos públicos descentralizados que se fusionan y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto de Información Estadística y Geográfica del Estado de Jalisco.
