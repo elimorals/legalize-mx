@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2012-06-09"
+last_updated: "2013-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 23965/LIX/12, PUBLICADO EN LA SECCIÓN V DEL P.O. DE 31 DE MARZO DE 2012, ENTRARÁ EN VIGOR A PARTIR DEL 1 DE ENERO DEL AÑO 2013.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012, NO APLICA A LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2012, PÁGINAS 5 A 13.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -61,9 +57,11 @@ De las Actividades del Desarrollo Económico.
 
 Esta ley es de orden público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable y equitativo de todas las regiones y sectores económicos en la entidad, con el fin de aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 2.
 
-La aplicación de esta ley le corresponde a la Secretaría de Promoción Económica del Gobierno del Estado, al Consejo Estatal de Promoción Económica, al Consejo Estatal para la Competitividad de Jalisco, al Sistema de Información y Análisis de Coyuntura y a las demás entidades públicas estatales y municipales en sus respectivos ámbitos de competencia y según sus atribuciones de ley.
+La aplicación de esta ley le corresponde a la Secretaría de Desarrollo Económico del Gobierno del Estado, al Consejo Estatal de Promoción Económica, al Consejo Estatal para la Competitividad de Jalisco, al Instituto de Información Estadística y Geográfica del Estado de Jalisco y a las demás entidades públicas estatales y municipales en sus respectivos ámbitos de competencia y según sus atribuciones de ley.
 
 ###### Artículo 3.
 
@@ -101,9 +99,13 @@ XV. Proyectos productivos: conjunto de actividades coordinadas y planificadas en
 
 XVI. Reglamento: el Reglamento de la Ley para el Desarrollo Económico del Estado de Jalisco;
 
-XVII. Secretaría: la Secretaría de Promoción Económica del Gobierno del Estado de Jalisco, y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Sistema de información: el Sistema Estatal de Información Jalisco.
+XVII. Secretaría: la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco; y
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Instituto de Información: Instituto de Información Estadística y Geográfica del Estado de Jalisco.
 
 ###### Artículo 4.
 
@@ -117,7 +119,9 @@ III. El Consejo;
 
 IV. El Consejo de Competitividad;
 
-V. El Sistema de Información;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
+V. El Instituto de Información;
 
 VI. Las dependencias y organismos competentes y vinculantes de la administración pública estatal y municipal, y
 
@@ -293,7 +297,9 @@ Dicha clasificación deberá actualizarse cada cuatro años mediante propuesta d
 
 La clasificación deberá realizarse mediante estudios objetivos y con criterios de elaboración científica, tanto cuantitativos como cualitativos, que garanticen el desarrollo económico equitativo y equilibrado de los sectores, actividades económicas y regiones de la entidad.
 
-El Sistema de información coadyuvará con la Secretaría y el Consejo en la elaboración de los estudios mencionados en el párrafo anterior.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
+El Instituto de Información coadyuvará con la Secretaría y el Consejo en la elaboración de los estudios mencionados en el párrafo anterior.
 
 ###### Artículo 14.
 
@@ -533,7 +539,7 @@ XVII. Asesorar y auxiliar al sector productivo de la entidad en contra de las pr
 
 XVIII. Proponer en cualquier tiempo al Gobernador del Estado la realización de obra pública en zona de prioridad uno, con carácter de apoyo en infraestructura, y en general en todo el Estado cuando sea necesaria para el desarrollo económico;
 
-XIX. Administrar el Sistema de Información;
+XIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2013)
 
 XX. Proponer al Gobernador del Estado, el Reglamento de la presente Ley, así como las reformas legislativas que estime convenientes y necesarias para su funcionamiento, y
 
@@ -541,11 +547,11 @@ XXI. Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 ### Capítulo II. Del Consejo Estatal de Promoción Económica
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 27.
 
-El Consejo Estatal de Promoción Económica de Jalisco, es un organismo público descentralizado del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sectorizado de la Secretaría de Promoción Económica, que tiene el carácter deliberativo y quien, en coordinación con la misma dependencia, será el responsable de impulsar el desarrollo económico de la micro, pequeña y mediana empresa, bajo criterios de equidad para todas las regiones del Estado y demás disposiciones contenidas en esta Ley.
-
-El Consejo deberá revisar el índice de Libertad Económica de Jalisco que anualmente realice el Sistema de Información. Una vez revisado en sesión de la Junta de Gobierno del Consejo, éste procederá a su difusión y publicación en los medios impresos de mayor circulación de la entidad. Asimismo, el Consejo hará las recomendaciones que estime convenientes, a las entidades públicas y privadas relacionadas, para la mejora continua de dicho índice de Libertad Económica de Jalisco.
+El Consejo Estatal de Promoción Económica de Jalisco, es un organismo público descentralizado del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sectorizado de la Secretaría de Desarrollo Económico, que tiene el carácter deliberativo y quien, en coordinación con la misma dependencia, será el responsable de impulsar el desarrollo económico de la micro, pequeña y mediana empresa, bajo criterios de equidad para todas las regiones del Estado y demás disposiciones contenidas en esta Ley.
 
 ###### Artículo 28.
 
@@ -627,7 +633,7 @@ XXV. Proponer al Gobernador del Estado la constitución de los fondos y fideicom
 
 XXVI. Proponer la Declaratoria de Emergencia Económica y emitir el programa aplicable para el caso;
 
-XXVII. Revisar y publicar el índice de Libertad Económica realizado por el Sistema de Información;
+XXVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2013)
 
 XXVIII. Realizar recomendaciones a las entidades públicas y privadas relacionadas con la Libertad Económica, para la mejora continua de la misma;
 
@@ -1075,9 +1081,11 @@ El Consejo tendrá como una de sus prioridades, apoyar e incentivar aquellos pro
 
 A cada programa que sea autorizado por el Consejo, deberá llevarse un seguimiento puntual de sus indicadores de productividad, con el fin de medir el impacto que dicho proyecto haya obtenido.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 64.
 
-El Consejo deberá dar seguimiento puntual a los indicadores generales de productividad de Jalisco, tanto del sector privado como del sector público. Para tal fin, el Sistema de Información deberá prestar el apoyo estadístico, informático e informativo que para tal fin requiera el Consejo.
+El Consejo deberá dar seguimiento puntual a los indicadores generales de productividad de Jalisco, tanto del sector privado como del sector público. Para tal fin, el Instituto de Información deberá prestar el apoyo estadístico, informático e informativo que para tal fin requiera el Consejo.
 
 ###### Artículo 65.
 
@@ -1099,91 +1107,37 @@ Durante el mes de diciembre, cada uno de los poderes del Estado, así como los a
 
 ###### Artículo 67.
 
-El Sistema de Información y Análisis de Coyuntura del Gobierno del Estado de Jalisco es un organismo público descentralizado del Poder Ejecutivo Estatal, con personalidad jurídica y patrimonios (sic) propios, cuyo ámbito de coordinación estará a cargo y supervisión de la Secretaría.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ###### Artículo 68.
 
-El Sistema de Información, tiene por objeto fundamental la búsqueda, acopio, integración, inventario, clasificación, análisis, elaboración y difusión de indicadores oportunos, confiables y objetivos de desarrollo económico y competitividad de la entidad, sus regiones y sus sectores o actividades económicas, que faciliten y den certidumbre a la mejor integración de políticas y programas públicas para el fomento e impulso del crecimiento económico de la Entidad.
-
-El Sistema de Información tendrá acceso y contará con el apoyo, los recursos materiales y de información de que dispongan las dependencias del Ejecutivo estatal para realizar la captación, recopilación, procesamiento, presentación, divulgación y capacitación en materia de información, necesarios para cumplir sus fines, en la forma que precise el Ejecutivo estatal.
-
-El Sistema de Información llevará la medición de impacto socioeconómico de todos los programas de promoción y desarrollo económico emprendidos por la Secretaría y demás autoridades de esta Ley. Para tal fin, dichas autoridades deberán proporcionar la información en forma oportuna y pertinente, tanto del inicio de cualquier programa como del desarrollo anual y conclusión del mismo.
-
-La información contenida en el Sistema de Información, es pública y estará en todo momento a disposición para su consulta tanto física como por internet.
-
-El Sistema de Información deberá realizar anualmente el Índice de Libertad Económica de Jalisco, utilizando los estándares internacionalmente reconocidos. Dicho Índice deberá realizarse respecto de todas las regiones del Estado. El informe anual de Libertad Económica será puesto a consideración del Consejo para su publicación.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ###### Artículo 69.
 
-El Sistema de Información tendrá las siguientes obligaciones:
-
-I. Formular y mantener actualizados los procedimientos de generación, análisis y presentación de información de la administración pública estatal;
-
-II. Inventariar y clasificar la información relacionada con aquellos actos y contratos que celebren, tanto el Ejecutivo estatal como sus dependencias y entidades. Para efecto de lo anterior y poder brindar la información que se les solicite, los órganos mencionados, remitirán copia certificada de estos instrumentos al Sistema Estatal de Información Jalisco;
-
-III. Establecer los lineamientos conceptuales, de organización y de operación, necesarios para la integración del Sistema de Información y su vinculación con otros sistemas o centros de información, tanto públicos como privados;
-
-IV. Celebrar los convenios de coordinación y colaboración con dependencias, organismos v (sic) entidades de la federación, de otros estados y de los municipios en general, con los poderes Legislativo y Judicial, así como con instituciones académicas y con los sectores social y privado, nacionales o extranjeros, para promover su participación en la generación y difusión de los procesos de información;
-
-V. Celebrar los contratos, convenios y acuerdos; constituir fideicomisos y demás actos jurídicos que resulten necesarios para la realización de sus fines;
-
-VI. Avalar y certificar los estudios que en materia de información realicen otras entidades, ya sean públicas, privadas o sociales, siempre y cuando los mismos se encuentren dentro de los lineamientos y metodología establecidos por el propio Sistema Estatal de Información Jalisco, y si así lo solicita la parte interesada, otorgará su reconocimiento a dichos estudios;
-
-VII. Divulgar la información obtenida mediante la publicación y venta de libros, revistas, folletos, mapas, reproducciones o medios magnéticos o electrónicos especializados, previo registro de su propiedad intelectual o industrial ante las autoridades correspondientes;
-
-VIII. Organizar seminarios, cursos, conferencias y otros actos de difusión y capacitación en materia de información, que resulten de especial interés para el Estado y sus habitantes;
-
-IX. Realizar los estudios especiales que se le encomienden, así como aquellos que coadyuven a que el Ejecutivo del Estado determine la clasificación de sectores y áreas estratégicas;
-
-X. Proporcionar la información a los particulares que lo soliciten, previo pago de las cuotas correspondientes, en atención a la normatividad en materia de acceso e información pública;
-
-XI. Instituirse como entidad encargada de concentrar, sistematizar y ministrar la información generada por el propio Sistema de Información, el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Estatal de Población y las instituciones de educación superior y de investigación, así como cualquier tipo de información que se considere necesaria, para ser otorgada al titular del Ejecutivo en los términos de la Ley de Planeación para el Estado de Jalisco y sus Municipios;
-
-XII. Coadyuvar con la Secretaria, el Consejo y el Consejo de Competitividad en la elaboración de los estudios y diagnósticos necesarios para el cabal cumplimiento de las obligaciones contraídas en la presente Ley, y
-
-XIII. Las demás que determine esta Ley y su Reglamento.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ###### Artículo 70.
 
-El patrimonio del Sistema de Información se formará con:
-
-I. Las partidas presupuesta (sic) que les asigna el Gobierno del Estado, en forma directa o a través de dependencias y organismos públicos de la administración pública estatal;
-
-II. Las aportaciones que reciba de personas físicas o jurídicas, nacionales o extranjeras;
-
-III. Los ingresos que genere por sus actividades, ya sea directamente o en colaboración con otras unidades de servicios y sistemas;
-
-IV. Los legados o donaciones a su favor;
-
-V. Los bienes muebles e inmuebles que adquiera para el cumplimiento de su objetivo, y
-
-VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ### Capítulo II. Del Órgano de Gobierno del Sistema de Información
 
 ###### Artículo 71.
 
-El Sistema de Información tendrá como Órgano de Gobierno, un Consejo Directivo, integrado por:
-
-I. Un Presidente, que será el Gobernador del Estado;
-
-II. Un Secretario Ejecutivo, que será el Secretario de Promoción Económica, quién suplirá en sus ausencias al Presidente, y
-
-III. Los representantes de los sectores privado, social y público que determine el Reglamento de esta Ley.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ###### Artículo 72.
 
-El Sistema de Información contará con un Comité Asesor Técnico, integrado por representantes de las instituciones de educación superior e investigación científica y dependencias estatales y municipales que participen en forma directa en los proyectos.
-
-Podrán ser invitados para integrar el Comité Asesor Técnico, los representantes de las dependencias federales correspondientes o de los organismos e instituciones de los sectores privado y social, cuando tengan participación directa en los proyectos.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ###### Artículo 73.
 
-El procedimiento de integración, toma de decisiones y en general, el funcionamiento del Consejo Directivo y del Comité Asesor Técnico, se establecerán en el reglamento correspondiente.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ###### Artículo 74.
 
-Los cargos de los miembros del Consejo Directivo y del Comité Asesor Técnico serán honoríficos, por lo que no recibirán retribución alguna por el desempeño de sus actividades.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2013)
 
 ## Título Cuarto. Del Procedimiento de Verificación, Inspección, Infracción y Sanción
 
@@ -1446,3 +1400,35 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Ejecutivo del Estado deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+TERCERO. Se abroga la Ley del Sistema de Información Territorial del Estado de Jalisco, expedida mediante el Decreto número 16795, publicado en el Periódico Oficial "El Estado de Jalisco" el 20 de noviembre de 1997, así como sus reformas y adiciones.
+
+CUARTO. Se dejan sin efecto todos los ordenamientos que se opongan al presente decreto.
+
+QUINTO. Se fusionan los organismos públicos descentralizados Sistema de Información y Análisis de Coyuntura del Gobierno del Estado de Jalisco, Instituto de Información Territorial del Estado de Jalisco, así como el órgano desconcentrado Consejo Estatal de Población, para crear el organismo público descentralizado denominado Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+SEXTO. El Poder Ejecutivo dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá aprobar y publicar el Reglamento correspondiente a la presente Ley.
+
+SÉPTIMO. El Titular del Poder Ejecutivo dentro de los 180 días posteriores a la entrada en vigor del presente decreto deberá nombrar al Director General del Instituto de Información Estadística y Geográfica del Estado de Jalisco e instalar la Junta de Gobierno.
+
+OCTAVO. La Junta de Gobierno con apoyo del Director General del Instituto de Información Estadística y Geográfica del Estado de Jalisco deberá aprobar dentro de los 60 días posteriores a su instalación el estatuto orgánico que rija su organización y funcionamiento interno.
+
+NOVENO. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones de los organismos que se fusionan en los términos del presente decreto, pasarán a formar el patrimonio del Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+DÉCIMO. Se autoriza al Titular del Poder Ejecutivo, para que por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. En el proceso de fusión del organismo público descentralizado Instituto de Información Estadística y Geográfica del Estado de Jalisco, serán respetados los derechos laborales adquiridos con anterioridad, de los servidores públicos, empleados y funcionarios públicos, así como de los trabajadores de los organismos que se fusionan en los términos del presente decreto.
+
+DÉCIMO SEGUNDO. Los asuntos que se encuentren pendientes de resolver ante los organismos que se fusionan en los términos del presente decreto, corresponderá su trámite o resolución al Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+DÉCIMO TERCERO. A la fecha de entrada en vigor del presente Decreto, el Instituto de Información Estadística y Geográfica del Estado de Jalisco se subrogará en todas las obligaciones que hubieren contraído las entidades que se fusionan.
+
+DÉCIMO CUARTO. El Ejecutivo Estatal deberá ordenar una auditoria interna que refleje el estado real y actual en que se encuentran los organismos públicos descentralizados que se fusionan y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto de Información Estadística y Geográfica del Estado de Jalisco.
