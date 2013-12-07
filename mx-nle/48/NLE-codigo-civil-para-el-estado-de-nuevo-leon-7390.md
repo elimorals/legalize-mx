@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2012-06-27"
+last_updated: "2013-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1505,11 +1505,11 @@ El matrimonio es la unión legítima de un solo hombre y una sola mujer, para pr
 
 Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 148.
 
-Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido dieciséis años. Los jueces competentes podrán conceder dispensas de edad, por causas justificadas.
+Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido dieciocho años, los jueces competentes podrán conceder dispensas de edad por causas justificadas.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -2233,9 +2233,9 @@ XVIII.- Las conductas de violencia familiar cometidas por uno de los cónyuges q
 
 Cuando un cónyuge promueva el divorcio fundado en ésta causal, deberá narrar en la demanda los hechos que pongan de manifiesto la violencia familiar imputada a la parte demandada, la afectación causada al demandante, así como el nexo causal entre uno y otro, sin que sea necesario especificar las circunstancias de tiempo, modo y lugar de cada evento atribuido al demandado;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
-XIX.- La separación de los cónyuges por más de dos años siempre que no exista causa que la justifique y no se cumplan los fines del matrimonio.
+XIX.- La separación de los cónyuges por más de dos años ininterrumpidos, independientemente del motivo que haya originado la separación.
 
 Esta causal podrá ser invocada por cualquiera de los cónyuges, mas ninguno tendrá la calidad de culpable.
 
@@ -2347,7 +2347,9 @@ El juez, previo el procedimiento que fije el Código respectivo y velando siempr
 
 En la sentencia que decrete el divorcio, el juez determinará los derechos y obligaciones derivados de la patria potestad y custodia que conservará cada uno de los cónyuges, respecto a la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto deberá el Juez oír al Ministerio Público, a los cónyuges; y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además, discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos.
 
-No será aplicable lo previsto en el párrafo anterior, cuando las causas de divorcio sean las que se señalan en el artículo 267 fracciones VI a excepción de la enfermedad referida en ultimo término y VII, en cuyos casos los hijos quedarán bajo la custodia del cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de los hijos y XVII, supuesto este último en el cual se estará a lo previsto en el artículo 273 fracción I de este Código.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
+No será aplicable lo previsto en el párrafo anterior, cuando las causas de divorcio sean las que se señalan en el Artículo 267 fracciones VI a excepción de la enfermedad referida en último término y VII, en cuyos casos los hijos quedarán bajo la custodia del cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de los hijos y XVII, de este Código.
 
 Para los efectos del párrafo primero de este artículo, el Juez podrá antes de pronunciar sentencia definitiva, oír al Ministerio Público, a los hijos mayores de doce años y, en caso de estimarlo necesario a familiares o personas que concurran con los mismos.
 
@@ -11933,9 +11935,11 @@ Si la cosa enajenada pereciere o mudare de naturaleza a consecuencia de los vici
 
 Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
 ###### Art. 2043.
 
-Las acciones que nacen de lo dispuesto en los artículos 2036 y 2042, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2032 y 2033.
+Las acciones que nacen de lo dispuesto en los artículos 2036 y 2042, se extinguen al año, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2032 y 2033.
 
 ###### Art. 2044.
 
@@ -17018,3 +17022,27 @@ P.O. 27 DE JUNIO DE 2012.
 Primero.- El presente Decreto entrará en vigor a los 30 días después de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Dentro del término señalado en el Artículo anterior la Secretaría de Salud, deberá de establecer los requisitos a cumplir por las Instituciones para la realización de las pruebas de ADN.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 093, POR EL QUE SE REFORMA, POR MODIFICACIÓN EL ARTÍCULO 148 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+DECRETO NÚM. 094 POR EL QUE SE REFORMA POR MODIFICACIÓN EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 283 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+DECRETO NÚM. 096 POR EL QUE SE REFORMA POR MODIFICACIÓN DEL ARTÍCULO 2043 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+DECRETO NÚM. 098 POR EL QUE SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX DEL ARTÍCULO 267 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
