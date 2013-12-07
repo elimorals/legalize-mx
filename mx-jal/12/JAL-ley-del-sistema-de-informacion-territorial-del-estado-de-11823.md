@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-informacion-territorial-del-estado-de-11823"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-20"
-last_updated: "2000-09-19"
+last_updated: "2013-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL SISTEMA DE INFORMACION TERRITORIAL DEL ESTADO DE JALISCO
 
-LEY DEL SISTEMA DE INFORMACION TERRITORIAL DEL ESTADO DE JALISCO
+LEY DEL SISTEMA DE INFORMACIÓN TERRITORIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY ORGÁNICA DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 20 de noviembre de 1997.
 
@@ -599,7 +601,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE SEPTIEMBRE DE 2000.
 
@@ -608,3 +610,33 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se da el término de tres meses para que se expidan los reglamentos relativos, y en tanto se hacen los ordenamientos en cita, se continuarán aplicando las disposiciones vigentes, siempre y cuando no se opongan al presente Ordenamiento.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Ejecutivo del Estado deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+TERCERO. Se abroga la Ley del Sistema de Información Territorial del Estado de Jalisco, expedida mediante el Decreto número 16795, publicado en el Periódico Oficial "El Estado de Jalisco" el 20 de noviembre de 1997, así como sus reformas y adiciones.
+
+CUARTO. Se dejan sin efecto todos los ordenamientos que se opongan al presente decreto.
+
+QUINTO. Se fusionan los organismos públicos descentralizados Sistema de Información y Análisis de Coyuntura del Gobierno del Estado de Jalisco, Instituto de Información Territorial del Estado de Jalisco, así como el órgano desconcentrado Consejo Estatal de Población, para crear el organismo público descentralizado denominado Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+SEXTO. El Poder Ejecutivo dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá aprobar y publicar el Reglamento correspondiente a la presente Ley.
+
+SÉPTIMO. El Titular del Poder Ejecutivo dentro de los 180 días posteriores a la entrada en vigor del presente decreto deberá nombrar al Director General del Instituto de Información Estadística y Geográfica del Estado de Jalisco e instalar la Junta de Gobierno.
+
+OCTAVO. La Junta de Gobierno con apoyo del Director General del Instituto de Información Estadística y Geográfica del Estado de Jalisco deberá aprobar dentro de los 60 días posteriores a su instalación el estatuto orgánico que rija su organización y funcionamiento interno.
+
+NOVENO. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones de los organismos que se fusionan en los términos del presente decreto, pasarán a formar el patrimonio del Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+DÉCIMO. Se autoriza al Titular del Poder Ejecutivo, para que por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. En el proceso de fusión del organismo público descentralizado Instituto de Información Estadística y Geográfica del Estado de Jalisco, serán respetados los derechos laborales adquiridos con anterioridad, de los servidores públicos, empleados y funcionarios públicos, así como de los trabajadores de los organismos que se fusionan en los términos del presente decreto.
+
+DÉCIMO SEGUNDO. Los asuntos que se encuentren pendientes de resolver ante los organismos que se fusionan en los términos del presente decreto, corresponderá su trámite o resolución al Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+DÉCIMO TERCERO. A la fecha de entrada en vigor del presente Decreto, el Instituto de Información Estadística y Geográfica del Estado de Jalisco se subrogará en todas las obligaciones que hubieren contraído las entidades que se fusionan.
+
+DÉCIMO CUARTO. El Ejecutivo Estatal deberá ordenar una auditoria interna que refleje el estado real y actual en que se encuentran los organismos públicos descentralizados que se fusionan y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto de Información Estadística y Geográfica del Estado de Jalisco.
