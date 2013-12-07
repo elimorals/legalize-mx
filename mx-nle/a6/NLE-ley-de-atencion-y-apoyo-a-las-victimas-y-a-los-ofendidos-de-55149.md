@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-atencion-y-apoyo-a-las-victimas-y-a-los-ofendidos-de-551
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-18"
-last_updated: "2011-08-05"
+last_updated: "2013-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE ATENCION Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEON
 
-LEY DE ATENCION Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEON
+LEY DE ATENCIÓN Y APOYO A LAS VÍCTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIO DE LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. 7 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO ES ABROGADO A LOS CIENTO OCHENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de abril de 2007.
 
@@ -600,3 +602,31 @@ Tercero.- El Gobernador del Estado instruirá a la Secretaria de Finanzas y Teso
 P.O. 5 DE AGOSTO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+Primero.- La presente Ley entrará en vigor a los ciento 180-ciento ochenta días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A la entrada en vigor del presente ordenamiento, se abroga la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León, publicada en el Periódico Oficial del Estado el 18 de abril de 2007.
+
+Tercero.- Se derogan todas las disposiciones legales que se opongan a lo establecido en la presente Ley.
+
+Cuarto.- El Reglamento de la presente Ley deberá expedirse dentro de los 30-treinta días hábiles siguientes a la fecha en que la Ley entre en vigor.
+
+Quinto.- El Sistema Estatal de Atención a las Víctimas, así como el Comité de Atención, Asistencia y Protección a las Víctimas, a que se refiere la presente Ley, deberán instalarse dentro de los 30-treinta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+Sexto.- A fin de dar cumplimiento a lo establecido en el Artículo 73 de esta Ley, el Ejecutivo del Estado, dentro de los 30-treinta días naturales siguientes a la entrada en vigencia del presente Decreto, deberá enviar al H. Congreso del Estado la propuesta para la designación del Titular de la Comisión Estatal de Atención a Víctimas.
+
+Séptimo.- La designación de los tres Representantes permanentes ante el Sistema Estatal de Atención a las Víctimas, cuya designación corresponde al Congreso, deberá realizarse dentro de los 90-noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+Octavo.- El Comité de Atención, Asistencia y Protección a las Víctimas dispondrá de hasta 30-treinta días hábiles siguientes al de su instalación para aprobar y publicar en el Periódico Oficial del Estado el Reglamento de Administración y Operación del Fondo de Atención, Auxilio y Protección a las víctimas del Estado de Nuevo León.
+
+Noveno.- La Comisión Estatal de Atención a Víctimas del Estado de Nuevo León deberá diseñar el Programa Anual de Atención a Víctimas del Estado en un plazo no mayor a 60-sesenta días naturales a partir de la aprobación del Plan Anual Integral de Atención a Víctimas previsto en la Ley General de Víctimas.
+
+Décimo.- El Gobierno del Estado, sus dependencias y entidades deberán adecuar la normatividad que les resulte aplicable, así como emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia estatal, que se deriven de la presente Ley de acuerdo al límite de la disponibilidad y suficiencia presupuestal asignados.
+
+Décimo Primero.- Los Municipios del Estado deberán adecuar la normatividad que les resulte aplicable, así como emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia municipal y que se deriven de la presente Ley.
+
+Décimo Segundo.- Para efectos del Fondo de Atención, Auxilio y Protección a las víctimas del Estado de Nuevo León, el Ejecutivo del Estado realizará la propuesta de asignación presupuestal dentro del presupuesto de egresos para cada ejercicio fiscal.
+
+Décimo Tercero.- Las solicitudes de atención, apoyo y protección que se encuentren en trámite o que hayan sido otorgadas previamente a la entrada en vigor del presente ordenamiento seguirán su trámite y conclusión conforme a las disposiciones, ordenamientos, procedimientos y documentación requerida, vigentes en ese momento.
