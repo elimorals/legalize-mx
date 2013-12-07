@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-52356
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2012-09-15"
+last_updated: "2013-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de septiembre de 2006.
 
@@ -3705,7 +3707,7 @@ En casos de peligro derivado de conflictos o siniestros públicos, todos los pro
 
 ###### ARTICULO 464.
 
-La SEDARH, organizará al menos una vez al año, en coordinación y con el apoyo de las organizaciones ganaderas y los organismos auxiliares de cooperación, cursos elementales sobre legislación pecuaria, producción y sanidad animal, destinándose a la preparación de los verificadores ganaderos, expeditotes acreditados y personal adscrito a los puntos de verificación zoosanitarios, así como a los propios consejos directivos de las organizaciones pecuarias generales o especializadas para el mejor desempeño de sus cargos.
+La SEDARH, organizará al menos una vez al año, en coordinación y con el apoyo de las organizaciones ganaderas y los organismos auxiliares de cooperación, cursos elementales sobre legislación pecuaria, producción y sanidad animal, destinándose a la preparación de los verificadores ganaderos, expeditores acreditados y personal adscrito a los puntos de verificación zoosanitarios, así como a los propios consejos directivos de las organizaciones pecuarias generales o especializadas para el mejor desempeño de sus cargos.
 
 ###### ARTICULO 465.
 
@@ -3851,7 +3853,7 @@ XXXVI. No permitir el uso de las servidumbres de paso consideradas vías pecuari
 
 XXXVII. Atentar contra las vías pecuarias;
 
-XXXVIII. No contar con la autorización correspondiente y se permita pastorear al ganado, beber de aguajes en donde el agua se obtuvo por bombeo, se le permita causar daños o aparearse con animales de otos ranchos cuando se arree ganado a través de predios ajenos;
+XXXVIII. No contar con la autorización correspondiente y se permita pastorear al ganado, beber de aguajes en donde el agua se obtuvo por bombeo, se le permita causar daños o aparearse con animales de otros ranchos cuando se arree ganado a través de predios ajenos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4190,3 +4192,11 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor a partir del día 1 de enero del año 2013, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Ordenamiento, se abroga la Ley de Fomento al Desarrollo Rural Sustentable del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 19 de septiembre de 2006, así como sus modificaciones. Asimismo, se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por la presente Ley.
+
+TERCERO. El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días siguientes a su entrada en vigor.
