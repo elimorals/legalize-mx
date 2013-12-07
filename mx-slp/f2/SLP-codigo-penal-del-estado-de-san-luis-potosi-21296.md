@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2013-07-11"
+last_updated: "2013-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -609,25 +609,29 @@ El juez, en resolución incidental y previa audiencia de la persona moral a trav
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 59.
 
-El juez, dentro de los límites establecidos por este Código, fijará las penas y las medidas de seguridad que correspondan según su prudente arbitrio y la peligrosidad del infractor, tomando en cuenta:
+El juez, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, con base en la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
 
-I. Los antecedentes y condiciones personales del responsable, así como sus usos y costumbres tratándose de una persona perteneciente a grupos étnicos;
+I. La naturaleza de la acción u omisión y los medios empleados para ejecutarla;
 
-II. Los móviles del delito;
+II. La magnitud del daño causado al bien jurídico o del peligro en que éste fue colocado;
 
-III. Los daños materiales y morales causados;
+III. Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado;
 
-IV. El peligro corrido;
+IV. La forma y grado de intervención del agente en la comisión del delito; los vínculos de parentesco, amistad o relación entre el activo y el pasivo, así como su calidad y la de la víctima u ofendido;
 
-V. Las circunstancias que concurrieron en el hecho, y
+V. La edad, el nivel de educación, las costumbres, condiciones sociales, económicas y culturales del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado pertenezca a un grupo étnico o pueblo indígena, se tomarán en cuenta, además, sus usos y costumbres;
 
-VI. Las condiciones personales del ofendido.
+VI. Las condiciones de salud físicas y psíquicas específicas en que se encontraba el activo en el momento de la comisión del delito;
 
-Para los fines de este artículo, el juez requerirá a la autoridad encargada de la custodia del procesado que rinda los dictámenes periciales tendientes a conocer la personalidad del sujeto y los demás elementos que sean conducentes, en su caso, para la fijación de las sanciones penales. Este dictamen deberá recabarse antes de dictar sentencia.
+VII. Las circunstancias del activo y pasivo, antes y durante la comisión del delito, que sean relevantes para individualizar la sanción, incluidos, en su caso, los datos de violencia, la relación de desigualdad o de abuso de poder entre el agresor y la víctima vinculada directamente con el hecho delictivo, así como el comportamiento posterior del acusado con relación al delito cometido, y
 
-Cuando dentro del procedimiento se hubiere señalado la incompatibilidad de la prisión preventiva, por la senilidad o precario estado de salud del sujeto activo, el juez, de oficio o a petición de parte, pero motivando debidamente su resolución, podrá eximir de la pena de prisión o sustituirla por una medida de seguridad, al dictar sentencia, para lo cual se apoyará siempre en dictámenes de peritos.
+VIII. Las demás circunstancias especiales del agente, que sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma.
+
+Para la adecuada aplicación de las penas y medidas de seguridad, el juez deberá tomar conocimiento directo del sujeto; de la víctima u ofendido; y de las circunstancias del hecho, y requerirá los dictámenes periciales tendientes a conocer la personalidad del sujeto y los demás elementos conducentes.
 
 ###### ARTICULO 60.
 
@@ -4630,3 +4634,9 @@ P.O. 11 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales vigentes que se opongan al presente Decreto.
