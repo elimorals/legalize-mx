@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2013-10-14"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -1054,55 +1054,57 @@ Jefe de Departamento de Adquisiciones
 
 Jefe de Departamento de Recursos Humanos
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-VI.-Secretaría de Seguridad Pública y Vialidad
+VI.- SECRETARIA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-Secretario de Seguridad Pública y Vialidad
+A) Secretario de Seguridad Pública y Vialidad
 
-Policía Tercero JUA
+a) Fiscal
 
-Policía UA
+b) Policía Tercero JUA
 
-Jefe de Bomberos
+1) Policía UA
 
-Encargado de Bomberos
+c) Jefe de Bomberos
 
-Bomberos
+1) Encargado de Bomberos
 
-Subdirector Administrativo
+1.1) Bomberos
 
-Coordinador de Servicios al Personal
+d) Sub Director Administrativo
 
-Auxiliar Administrativo
+1) Coordinador de Servicios al Personal
 
-Secretaria
+1.1) Auxiliar Administrativo
 
-Jardinero
+1.2) Secretaria
 
-Intendente
+1.3) Jardinero
 
-Auxiliar en Control Vehicular
+1.4) Intendente.
 
-Auxiliar de Grúa
+2) Auxiliar en Control Vehicular
 
-Trabajadora Social
+2.1) Auxiliar de Grúa
 
-Director
+3) Trabajadora Social
 
-Policía Tercero JUR
+B) Director
 
-Policía UR
+a) Sub Oficial
 
-Sub Oficial
+1) Policía Primero
 
-Policía Primero
+1.1) Policía Segundo
 
-Policía Segundo
+1.1.1) Policía Tercero
 
-Policía Tercero
+1.1.1.1.) Policía
 
-Policía
+b) Policía Tercero JUR
+
+1) Policía UR
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
 
@@ -14759,3 +14761,11 @@ SEGUNDO.- El presente acuerdo gozará de efectos retroactivos al 1° de enero de
 P.O. 14 DE OCTUBRE DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO.</small>
+
+SEGUNDO.- El presente acuerdo gozará de efectos retroactivos al 10 de enero de 2013, con excepción de lo siguiente: a partir del 1° de julio de 2013, el fiscal estará adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+Segundo.- El efecto legal para el presente acuerdo será lo publicado en el Periódico Oficial del Estado de Aguascalientes, edición vespertina, en fecha 8 de julio del 2013, por ser el origen de lo presente.
