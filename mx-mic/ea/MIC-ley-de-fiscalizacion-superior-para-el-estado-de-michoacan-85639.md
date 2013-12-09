@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-para-el-estado-de-michoacan-85639
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-24"
-last_updated: "2012-01-24"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 24 de enero del 2012.
 
@@ -45,25 +45,31 @@ LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Michoacán; tiene por objeto regular y reglamentar la fiscalización de las entidades, así como la organización y funcionamiento de la Auditoría Superior.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Michoacán; tiene por objeto reglamentar los artículos 44 fracciones VIII, X, XI, XII, XIII y XV, 133, 134, 135 y 136 y el Título Cuarto de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; regula la fiscalización superior de las entidades, así como la organización y funcionamiento de la Auditoría Superior de Michoacán.
 
 El desarrollo de las actividades de la Auditoría Superior se regirá bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad en el servicio, vigilancia, fiscalización técnica oportuna, imparcialidad, confiabilidad, definitividad, en forma simultánea, anual, posterior, externa, independiente y autónoma; así como la promoción y aplicación de las sanciones que resulten.
 
 Sin perjuicio del principio de anualidad, la Auditoría Superior podrá solicitar y revisar de manera particular y concreta, la información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Asimismo, sin perjuicio del principio de simultaneidad, en las situaciones excepcionales que determine la Ley, derivado de quejas y denuncias, podrá requerir a las entidades que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados, así como la rendición de un informe.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, sin perjuicio del principio de simultaneidad, en las situaciones excepcionales que determine la Ley, derivado de la naturaleza, quejas y denuncias, podrá requerir a las entidades que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados, así como la rendición de un informe.
 
 ###### ARTÍCULO 2.
 
 La Auditoría Superior, como Órgano Técnico del Congreso del Estado; contará con plena autonomía técnica, financiera y de gestión, en el ejercicio de sus atribuciones, en los términos que disponga la Ley. La organización interna se rige por el Reglamento Interior que al efecto apruebe el Congreso.
 
-Para satisfacer los requerimientos que implica el ejercicio de la función pública encomendada a la Auditoría Superior, una vez seguido el procedimiento que la Ley establece para el trámite de su presupuesto anual deberá garantizarse, al aprobarse, que se considere una base mínima del 0. 34% del monto total de las asignaciones presupuestales previstas en el Decreto de Presupuesto de Egresos del Gobierno del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
-La Auditoría Superior tendrá la responsabilidad de elaborar y emitir normatividad secundaria en los términos de la Ley, para asegurar la eficiencia, eficacia e imparcialidad en el desempeño de sus funciones en apoyo al Congreso.
+La Auditoría Superior emitirá los lineamientos y procedimientos técnicos, que deberán observar las entidades fiscalizables, conforme a las leyes y normas que expida el Congreso del Estado.
 
 ###### ARTÍCULO 4.
 
@@ -87,23 +93,37 @@ VIII. Estado.- Estado Libre y Soberano de Michoacán de Ocampo;
 
 IX. Finiquito.- Certificación del informe dictaminado de la cuenta pública validando su alcance y resultados, sin limitar posibles responsabilidades en caso de detectar irregularidades posteriores;
 
-X. Fiscalización.- Es la revisión y evaluación que en forma simultánea o posterior, independiente y autónoma realiza la Auditoría Superior para verificar si los ingresos, el manejo, la custodia y la aplicación de fondos y recursos públicos, se ajustaron a la normatividad que regula su operación y si se cumplieron los objetivos y metas contenidos en los programas estatales y municipales; así como para evaluar el desempeño de los servidores públicos que administraron, ejercieron y aplicaron los recursos públicos reportados a través de Poderes del Estado en la respectiva cuenta pública;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+X. Fiscalización.- Es la revisión y evaluación que en forma simultánea o posterior, independiente y autónoma realiza la Auditoría superior para verificar si los ingresos, el manejo, la custodia y aplicación de fondos y recursos púbicos, se ajustaron a la normatividad que regula su operación y si se cumplieron los objetivos y metas contenidos en los programas estatales y municipales; así como para evaluar el desempeño institucional y de los servidores públicos que administraron, ejercieron y aplicaron los recursos públicos;
 
 XI. Fondo.- Fondo de Fortalecimiento para la Fiscalización Superior;
 
-XII. Gestión Financiera.- La administración, manejo, custodia, control y aplicación de los ingresos, egresos, fondos, patrimonio y en general, de los recursos públicos que las entidades utilicen para la ejecución de los objetivos contenidos en los programas federales, estatales o Municipales aprobados o convenidos debidamente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XII. Gestión Financiera.- La administración, manejo, custodia, control y aplicación de los ingresos, egresos, fondos, patrimonio y en general, de los recursos públicos que las entidades utilicen para la ejecución de los objetivos contenidos en los programas federales, estatales o municipales aprobados o convenidos debidamente, así como sus atribuciones;
 
 XIII. Informe de Resultados.- El informe de los resultados de la revisión y fiscalización de las cuentas públicas que la Auditoría Superior presente al Congreso;
 
 XIV. Interventor.- Persona designada por la Auditoría Superior, con facultad de intervención en representación de ésta, dentro del proceso de entrega-recepción con alcances de la fiscalización simultánea;
 
-XV. Ley.- Ley de Fiscalización Superior para el Estado de Michoacán;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XV. Ley.- Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo;
 
 XVI. Normatividad secundaria.- Los manuales, normas técnicas, lineamientos o disposiciones secundarias que expida la Auditoría Superior acordes a la presente Ley y los reglamentos, con la aprobación de la Comisión;
 
-XVII. Órgano de Control.- Órgano Interno de Control del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Recursos públicos.- Todo numerario que sea propiedad del Gobierno del Estado, de los ayuntamientos o de las demás entidades, provenientes de los conceptos previstos en las leyes de ingresos, decretos o acuerdos que rijan en la materia, asignaciones, subsidios, concesiones, participaciones, aprovechamientos, derechos o cualquier otro concepto análogo que se les asigne; así como la colocación en forma temporal o permanente de los fondos en valores que les representen inversiones;
+XVII. Órgano de Control.- Órganos internos de control de las entidades;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XVII BIS. Pliego de Presuntas Responsabilidades.- Es el documento que surge como resultado de los actos de fiscalización no solventados en los términos de la Ley;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Recursos públicos.- Todo numerario que sea propiedad del Gobierno del Estado, de los ayuntamientos o de las demás entidades, provenientes de los conceptos previstos en las leyes de ingresos, decretos o acuerdos que rijan en la materia, asignaciones, subsidios, concesiones, participaciones, aprovechamientos, derechos, aportaciones federales o cualquier otro concepto análogo que se les asigne; así como la colocación en forma temporal o permanente de los fondos en valores que les representen inversiones;
 
 XIX. Reglamento.- Normatividad que, con tal carácter, formal o materialmente emita el Congreso, en los términos de Ley, para el funcionamiento técnico de la Auditoría Superior, a propuesta de la misma;
 
@@ -141,13 +161,17 @@ VII. Notificar las ejecutorias y solicitar se inicie y dé seguimiento al proced
 
 VIII. Recibir, registrar, verificar, analizar y vigilar el estado de situación patrimonial de los servidores públicos obligados a presentar las declaraciones correspondientes;
 
-IX. Determinar los montos, requerir, recibir, registrar y aplicar las fianzas o cauciones a los funcionarios y empleados que manejen recursos públicos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+IX. Determinar las formas y los montos, requerir, recibir, registrar y aplicar las fianzas o cauciones a los servidores públicos que manejen recursos públicos;
 
 X. Establecer las reglas técnicas de instrucción, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos necesarios conforme a la legislación aplicable en la materia;
 
 XI. Apoyar al Congreso en la revisión y fiscalización de las cuentas públicas y entregar a través de la Comisión, el Informe de Resultados correspondiente;
 
-XII. Establecer las bases de coordinación entre el Órgano de Control, los órganos internos de control de las Entidades y la Auditoría Superior;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XII. Establecer las bases de coordinación entre los órganos internos de control de las Entidades y la Auditoría Superior;
 
 XIII. Determinar en su caso los actos u omisiones que pudieran configurar alguna irregularidad o conducta ilícita en el manejo, custodia y aplicación de recursos públicos de las entidades, así como las derivadas del incumplimiento de obligaciones legales, precisando la responsabilidad que resulte imputable al servidor público;
 
@@ -171,7 +195,9 @@ XXII. La Auditoría Superior de manera directa o conjuntamente con el Órgano de
 
 Los reglamentos que se emitan en materia de guarda y protección de información a través de medios electrónicos, ópticos o de cualquier otra tecnología, a propuesta de la Auditoría Superior deberán presentarse a la Comisión para aprobación del Congreso;
 
-XXIII. Determinar qué proveedores de bienes o servicios o contratistas de obras, no deben ser contratados por las entidades cuando incurran en alguno de los supuestos establecidos en el artículo 44 de esta Ley, así como llevar un registro de los mismos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Determinar qué proveedores de bienes, servicios o contratistas de obras, no deben ser contratados por las entidades cuando incurran en alguno de los supuestos establecidos en el artículo 44 de esta Ley.
 
 XXIV. Operar y desarrollar el Servicio Civil de Carrera, para la profesionalización de la fiscalización en los procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente;
 
@@ -279,11 +305,15 @@ VI. Elaborar el Programa Operativo Anual de la Auditoría Superior;
 
 VII. Elaborar los proyectos de reglamentos que habrán de presentarse, al Pleno del Congreso, a través de la Comisión, para su aprobación. Todo Reglamento deberá ser publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-VIII. Requerir a las Entidades el cumplimiento de obligaciones legales, la información y el auxilio que se requiera para el ejercicio de la función de revisión y fiscalización superior, en los casos y con las modalidades que prevenga esta Ley y sus reglamentos, imponiendo en su caso los medios de apremio necesarios para hacer cumplir sus determinaciones o para imponer el buen orden, los que consistirán en:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+VIII. Requerir a las entidades el cumplimiento de obligaciones legales, la información y el auxilio que se requiera para el ejercicio de la función de revisión y fiscalización, en los casos y con las modalidades que prevenga esta Ley y sus reglamentos, imponiendo en su caso los medios de apremio necesarios para hacer cumplir sus determinaciones o para imponer el buen orden, los que consistirán en:
 
 a) Multa, de acuerdo a lo que establezca la Ley de Ingresos del Estado. Si los servidores públicos o personas involucradas en el procedimiento de fiscalización continuaren en incumplimiento de las determinaciones que se les imponen, se harán acreedores a los accesorios que determine la propia Ley;
 
-b) Expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia o actuación, cuando sea necesario para su debida continuación o para mantener el orden;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+b) Retirar temporalmente a las personas del lugar donde se lleve a cabo la diligencia o actuación, cuando sea necesario para su debida continuación o para mantener el orden;
 
 c) Auxilio de la fuerza pública en el desahogo del Procedimiento Administrativo de Fiscalización; y,
 
@@ -321,7 +351,9 @@ XIX. Encabezar la administración del Fondo de conformidad a lo que establece su
 
 XX. Emitir la normatividad secundaria, que deberán observar las entidades, conforme a las leyes y reglamentos que expida el Congreso, previa autorización de la Comisión, así como solicitar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-XXI. Expedir la liberación a los funcionarios y empleados de las entidades; y,
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XXI. Expedir el finiquito a los servidores públicos de las entidades; y,
 
 XXII. Las demás que señalen esta Ley y otras disposiciones legales aplicables.
 
@@ -387,9 +419,11 @@ III. Informe sobre los trabajos realizados, solicitados por la Comisión; y,
 
 IV. Informe trimestral de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio, dentro de los treinta días naturales siguientes al en que concluya el trimestre.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-La Comisión presentará a la Comisión de Programación, Presupuesto y Cuenta Pública, como medio de interlocución, el informe previo de Resultados de la Revisión de la Cuenta Pública del Estado y de los ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la Ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía. Este informe deberá ser expedido conforme a la legislación secundaria.
+La Comisión como medio de interlocución presentará a la Comisión de Programación, Presupuesto y Cuenta Pública, el informe de Resultados de la Revisión de la Cuenta Pública del Estado y de los ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la Ley señale, de la aplicación de los recursos de las entidades.
 
 ###### ARTÍCULO 20.
 
@@ -477,7 +511,9 @@ Las resoluciones y acuerdos del Comité de Dirección, se adoptarán mediante el
 
 Para los efectos de esta Ley, la Cuenta Pública comprenderá:
 
-I. El estado analítico de ingresos, egresos, los estados programáticos, presupuestarios, financieros, de deuda pública y contables que a la administración pública corresponda, de acuerdo a la legislación aplicable;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+I. Los estados analíticos de ingresos, egresos, patrimoniales, programáticos, presupuestarios, financieros, de deuda pública y contables que a la administración pública corresponda; de acuerdo a la legislación aplicable;
 
 II. La información general que permita el análisis por resultados, evaluación de desempeño y la eficiencia y eficacia de los programas ejecutados así como la aplicación oportuna de los recursos ministrados; y,
 
@@ -487,7 +523,9 @@ III. La información que para el efecto requiera de las entidades la Auditoría 
 
 Las cuentas públicas anuales deberán ser presentadas en los términos previstos por la Constitución.
 
-El Gobernador del Estado presentará los cuatro informes trimestrales, dentro de un plazo de cuarenta y cinco días después de concluido el trimestre. Los ayuntamientos los presentarán en un plazo no mayor de treinta días siguientes a la conclusión del trimestre.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+El Gobernador del Estado y los ayuntamientos, presentarán los informes trimestrales dentro del término señalado en las normas vigentes.
 
 ###### ARTÍCULO 32.
 
@@ -545,9 +583,11 @@ Las auditorías, visitas e inspecciones que se efectúen en los términos de est
 
 Las personas a que se refiere el párrafo anterior tendrán el carácter de dependientes o auxiliares de la Auditoría Superior, en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo y en su caso, orden de visita, e identificación que lo acredite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-Durante sus actuaciones, los representantes de la Auditoría Superior que hubieren intervenido en las revisiones deberán levantar actas circunstanciadas en presencia de dos testigos de calidad, propuestos por el representante de la entidad, o en su rebeldía, por la autoridad que practique la diligencia, en las que se harán constar, los actos u omisiones que se hubieren detectado. Las actas así como las declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba plena.
+Durante sus actuaciones, los representantes de la Auditoría Superior que hubieren intervenido en las revisiones deberán levantar actas circunstanciadas en presencia de dos testigos de calidad, propuestos por el representante de la entidad, o en su rebeldía, por la autoridad que practique la diligencia, en las que se harán constar, los actos, hechos u omisiones que se hubieren detectado. Las actas así como las declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba plena.
 
 Los auditados deberán cumplir con los requerimientos solicitados mediante oficio; excepto aquellos documentos que por su naturaleza no se encuentren en poder del auditado, para lo cual tendrán un término máximo de setenta y dos horas para presentarlos, término que surtirá efectos a partir de recibido aquel.
 
@@ -565,23 +605,31 @@ IV. Solicitar la suspensión.
 
 Los servidores públicos de la Auditaría Superior, así como los prestadores de servicios que contrate, deberán entregar toda la documentación que se genere en el proceso de fiscalización, debiendo guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento; excepto en los casos en que sean requeridos expresamente por la Comisión, o cuando exista una resolución de autoridad competente. La violación a esta disposición se sancionará en los términos que dispongan esta Ley y demás disposiciones análogas del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 40.
 
-Si del ejercicio de las facultades de revisión y fiscalización a las Entidades aparecieren posibles irregularidades o ilícitos, que determinen la existencia de actos o conductas que produzcan daños y perjuicios, la Auditoría Superior procederá de inmediato a levantar acta del cierre de auditoría y requerirla, para que presente en el término de treinta días hábiles el informe de sus actuaciones acompañada de la documentación suficiente, competente, en original o copia certificada, que permita desvirtuar las posibles irregularidades o ilícitos con motivo del ejercicio público.
+Si del ejercicio de las facultades de revisión y fiscalización a las entidades se detectaran irregularidades que presuman la existencia de conductas, actos, hechos u omisiones que produzcan daños y perjuicios a las mismas, la Auditoría Superior procederá a requerir a los servidores públicos fiscalizados, con la finalidad de darlos a conocer mediante Acta Circunstanciada el pliego de observaciones, para que presenten en un término de treinta días hábiles improrrogables contados a partir del día hábil siguiente al de su firma, el informe de sus actuaciones acompañado de la documentación y/o información suficiente, competente y fehaciente en copia debidamente certificada por la autoridad correspondiente, que permita solventar las posibles irregularidades.
 
-Para garantizar la objetividad e imparcialidad como atributo de la auditoría pública, la calificación de las pruebas, una vez que la entidad fiscalizada presente los informes, actuaciones y evidencias para desvirtuar y aclarar las observaciones a que se refiere el párrafo anterior, una instancia interdisciplinaria evaluadora de la Dirección de Seguimiento Estatal y de la Municipal, integrada por dos ingenieros civiles o arquitectos, dos licenciados en derecho y dos contadores públicos o su equivalente, en cuanto responsables de la fiscalización de que se trate.
+Para garantizar la objetividad e imparcialidad como atributo de la auditoría pública, se integrará un equipo institucional por dos ingenieros civiles o arquitectos, dos licenciados en derecho y dos contadores públicos o su equivalente, en cuanto responsables de la fiscalización de que se trate y una vez que la entidad fiscalizada presente los informes, actuaciones y evidencias para desvirtuar y solventar las observaciones a que se refiere el párrafo anterior, otro equipo de auditores evaluará y verificará las mismas.
 
-Para efectos del párrafo que antecede, dentro de los treinta días naturales siguientes, deberá calificar y en su caso emitir un dictamen sobre la solventación, desvanecimiento o fincamiento de probables responsabilidades, de las irregularidades o ilícitos determinadas, y en su momento turnar a su superior jerárquico para en su caso turnar a la Unidad General de Asuntos Jurídicos los casos no aclarados, una vez tipificadas como presuntas responsabilidades.
+Para efectos del párrafo que antecede, dentro de los ciento veinte días hábiles siguientes, deberá calificar y en su caso emitir un informe sobre la solventación, desvanecimiento o fincamiento de probables responsabilidades, de las irregularidades o ilícitos determinadas, y en su momento turnar a su superior jerárquico para en su caso turnar a la Unidad General de Asuntos Jurídicos los casos no aclarados, una vez tipificadas como presuntas responsabilidades.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
-La Auditoría Superior, por conducto de su titular o de los Auditores Especiales, formulará legalmente a las entidades, según sea el caso y agotado el término previsto en el artículo anterior, los pliegos de presuntas responsabilidades, cuando el acta de actos u omisiones no sean solventados o bien la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría Superior; posteriormente, se procederá a turnar a la Unidad General de Asuntos Jurídicos para el inicio del procedimiento administrativo de responsabilidades.
+Una vez concluido el termino establecido en el artículo anterior, la Auditoría Superior valorará las pruebas y argumentos presentados por los auditados, el resultado de la valoración efectuada, se dará a conocer a los servidores públicos fiscalizados mediante Acta Circunstanciada.
+
+En el caso de las observaciones que no sean solventadas, se procederá a turnar a la Unidad General de Asuntos Jurídicos, el pliego de presuntas responsabilidades, para el inicio del procedimiento administrativo respectivo.
 
 ###### ARTÍCULO 42.
 
 Incurren en responsabilidad:
 
-I. Los servidores públicos, los particulares o en general cualquier persona física o moral que en razón de su cargo, encargo o comisión, incumplan sus obligaciones de salvaguardar la legalidad, honradez, imparcialidad y eficiencia en el desempeño de sus atribuciones y funciones, por actos u omisiones que causen daño o perjuicio contra las Entidades;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+I. Los servidores públicos, los particulares o en general cualquier persona física o moral que en razón de su empleo, cargo, encargo o comisión, incumplan sus obligaciones de salvaguardar la legalidad, honradez, imparcialidad y eficiencia en el desempeño de sus atribuciones y funciones, por actos u omisiones que causen daño o perjuicio contra las entidades;
 
 II. Los servidores públicos, personas físicas y morales de las entidades, que no rindan sus informes en tiempo y forma, que tiendan a solventar los pliegos de observaciones formulados y remitidos por la Auditoría Superior;
 
@@ -627,15 +675,19 @@ La Auditoría Superior instrumentará un padrón de sancionados, pudiendo realiz
 
 También publicitará dentro del padrón de sancionados, a los servidores públicos sancionados.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 45.
 
-Para efectos de lo establecido en artículo anterior, respecto de la no contratación de proveedores de bienes o servicios o contratistas de obra, se tomará en cuenta los criterios establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán. El periodo restrictivo y de inhabilitación, no deberá ser menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Para efectos de lo establecido en artículo anterior, respecto de la no contratación de proveedores de bienes o servicios o contratistas de obra, se tomará en cuenta los criterios establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán. El periodo restrictivo y de inhabilitación, no deberá ser menor de tres meses ni mayor de seis años, plazo que comenzará a contarse a partir del día siguiente a la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 46.
 
-Las sanciones así como los resarcimientos se fincarán, en primer término, a los servidores públicos o personas físicas y morales que directamente hayan ejecutado los actos o incurrido en las omisiones que las hubieren originado y, subsidiariamente, en orden jerárquico, al servidor público que, por la índole de sus funciones, haya omitido la revisión, realización o autorizado tales actos, por causas que impliquen dolo, culpa o negligencia.
+Las sanciones así como los resarcimientos se fincarán, en primer término, a los servidores públicos o personas físicas y morales que directamente hayan ejecutado los actos, hechos o incurrido en las omisiones que las hubieren originado y, subsidiariamente, en orden jerárquico, al servidor público que por sus funciones y atribuciones, hubiese omitido la revisión, realización o autorizado tales actos y hechos, por causas que impliquen dolo, culpa o negligencia.
 
-Serán responsables indirectos, los servidores públicos y los particulares, que hayan sido partícipes en los actos u omisiones que en ellos se determine, sin que esto los exima de la indemnización que les corresponda.
+Serán responsables indirectos, los servidores públicos y los particulares, que hayan sido partícipes en los actos, hechos u omisiones que en ellos se determine, sin que esto los exima de la indemnización que les corresponda.
 
 ###### ARTÍCULO 47.
 
@@ -805,9 +857,11 @@ III. Revocarlo; y,
 
 IV. Modificarlo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 67.
 
-Son de aplicación supletoria a la presente Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, el Código de Justicia Administrativa del Estado de Michoacán de Ocampo, el Código Fiscal del Estado, el Código Fiscal Municipal, el Código de Procedimientos Civiles del Estado y el Código de Procedimientos Penales del Estado.
+Son de aplicación supletoria a la presente Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, el Código Fiscal del Estado, el Código Fiscal Municipal, el Código de Procedimientos Civiles del Estado y el Código de Procedimientos Penales del Estado.
 
 ## TRANSITORIOS
 
@@ -840,3 +894,27 @@ ATENTAMENTE. - "SUFRAGIO EFECTIVO. NO REELECCIÓN". - PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 4 cuatro días del mes de Enero del año 2012 dos mil doce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. - EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LEONEL GODOY RANGEL. - EL SECRETARIO DE GOBIERNO. - RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las cédulas o pliegos de observaciones que han sido notificadas como resultado de la revisión y fiscalización de las cuentas públicas correspondientes al Ejercicio Fiscal del año 2012 a los entes fiscalizados hasta antes de la entrada en vigencia del presente Decreto, deberán sustanciarse conforme a lo establecido en el artículo 40 de la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo, de acuerdo a lo establecido en el Decreto 434 del año 2012.
+
+###### ARTÍCULO TERCERO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes y su debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Toda referencia a la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo en lo relativo a la temporalidad, vigencia y aplicación en competencia de sus atribuciones en lo referente a la práctica de las auditorías, visitas e inspecciones, hasta el Ejercicio Fiscal 2011 se aplicarán las disposiciones vigentes hasta la entrada en vigor de la presente Ley, misma que fue publicada el día 24 de enero de 2012.
+
+###### ARTÍCULO QUINTO.
+
+Todas aquellas referencias a la Contaduría General de Glosa, Contaduría General o Contaduría, descrita en cualquier ordenamiento del Estado de Michoacán de Ocampo, entendiéndose la referencia a la Auditoría Superior de Michoacán.
