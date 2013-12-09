@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2012-11-12"
+last_updated: "2013-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -920,53 +920,107 @@ La Secretaría de Hacienda dará acceso al sistema de información a la Auditor�
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
-Sin perjuicio de lo dispuesto en esta Ley y en otros ordenamientos, las entidades federativas deberán presentar información relativa al Fondo de Aportaciones para la Educación Básica y Normal y al Fondo de Aportaciones para la Educación Tecnológica y de Adultos, conforme a lo siguiente:
+Sin perjuicio de lo dispuesto en esta Ley y en otros ordenamientos, las entidades federativas deberán presentar información relativa al Fondo de Aportaciones para la Educación Tecnológica y de Adultos, conforme a lo siguiente:
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 I. Las entidades federativas deberán entregar a la Secretaría de Educación Pública del Gobierno Federal, de manera trimestral, a más tardar dentro de los veinte días naturales siguientes a la terminación del trimestre correspondiente, así como publicar en su respectiva página de Internet la siguiente información:
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 a) El número total del personal comisionado y con licencia, con nombres, tipo de plaza, número de horas, funciones específicas, claves de pago, fecha de inicio y conclusión de la comisión o licencia, así como el centro de trabajo de origen y destino;
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 b) Los pagos realizados durante el periodo correspondiente por concepto de pagos retroactivos hasta por cuarenta y cinco días naturales, siempre y cuando se acredite la asistencia del personal beneficiario durante dicho periodo en la plaza respectiva, debiendo precisar el tipo de plaza y el periodo que comprende;
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 c) La información señalada en la siguiente fracción, y
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 II. La Secretaría de Educación Pública del Gobierno Federal deberá:
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 a) Conciliar las cifras de matrícula escolar, correspondiente al inicio del ciclo escolar, con las entidades federativas y enviar un reporte definitivo a la Cámara de Diputados del Congreso de la Unión durante el primer semestre del año;
 
-b) Conciliar el número, tipo de plazas docentes, administrativas y directivas, y número de horas, de nivel básico, normal, de educación tecnológica y de adultos, por escuela, con las entidades federativas, determinando aquéllas que cuentan con registro en la Secretaría de Educación Pública del Gobierno Federal y las que sólo lo tienen en las entidades federativas y, en su caso, aquéllas que lo tienen en ambas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+b) Conciliar el número, tipo de plazas docentes, administrativas y directivas, y número de horas, de educación tecnológica y de adultos, por escuela, con las entidades federativas, determinando aquéllas que cuentan con registro en la Secretaría de Educación Pública del Gobierno Federal y las que sólo lo tienen en las entidades federativas y, en su caso, aquéllas que lo tienen en ambas;
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 c) Actualizar, a más tardar el último día hábil de julio, el registro de la totalidad del personal federalizado, sin importar su situación de ocupación o vacancia, por centro de trabajo, con el nombre de cada trabajador y su respectiva Clave Única de Registro de Población y Registro Federal de Contribuyentes con Homoclave, así como la función que desempeña.
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 La Secretaría de Educación Pública del Gobierno Federal dará acceso al sistema establecido para el registro del personal federalizado, para efectos de consulta a las instancias locales y federales de control, evaluación y fiscalización que así lo soliciten;
 
-d) Incluir de conformidad con la normatividad aplicable, en su página de Internet la información que sea remitida por las entidades federativas en términos del inciso anterior, particularmente respecto a:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-1. Número y tipo de las plazas docentes, administrativas y directivas existentes, el nombre y la Clave Única de Registro de Población y el Registro Federal de Contribuyentes con Homoclave de quienes las ocupan, así como número de horas de nivel básico, normal, de educación tecnológica y de adultos, por centros de trabajo, y el pago que reciben por concepto de servicios personales;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+d) Incluir de conformidad con la normatividad aplicable, en su página de Internet la información a que se refiere el inciso anterior, particularmente respecto a:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+1. Número y tipo de las plazas docentes, administrativas y directivas existentes, el nombre y la Clave Única de Registro de Población y el Registro Federal de Contribuyentes con Homoclave de quienes las ocupan, así como número de horas de educación tecnológica y de adultos, por centros de trabajo, y el pago que reciben por concepto de servicios personales;
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 2. Movimientos que se realicen a dichas plazas, tales como altas, bajas y cambios en su situación;
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 3. Relación de trabajadores comisionados por centro de trabajo, identificando sus claves de pago, el centro de trabajo de origen y destino, así como el inicio y la conclusión de la comisión, el pago que en su caso reciban por concepto de servicios personales, y el objeto de la comisión otorgada al trabajador para desempeñar temporalmente funciones distintas para las que fue contratado originalmente sin afectar por ello sus derechos laborales;
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 4. Relación de trabajadores con licencia por centro de trabajo, identificando sus claves de pago, tipo de licencia, el centro de trabajo y fechas de inicio y conclusión de la licencia otorgada por la autoridad para que el trabajador se ausente legalmente de sus labores por un tiempo determinado otorgándose a solicitud del mismo o por dictamen médico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o de la institución de seguridad social respectiva;
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 5. Relación de trabajadores jubilados y con licencia prejubilatoria tramitada en el periodo, especificando cuáles han sido las últimas dos plazas que ocuparon previas a la jubilación, sus claves de pago, el último centro de trabajo al que estuvieron adscritos, así como las fechas de inicio y fin de cada una de las plazas que ocuparon;
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 6. Relación de personas contratadas por honorarios, por centro de trabajo, identificando sus claves de pago, así como el inicio y conclusión de su contrato, el pago que reciben por concepto de honorarios y la actividad para la que fueron contratadas, y
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 7. Analítico de plazas, tabuladores y catálogos de conceptos de percepciones y deducciones por cada entidad federativa;
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 e) Coordinarse con las entidades federativas para que los pagos de nómina se realicen solamente a personal que cuente con Registro Federal de Contribuyentes con Homoclave, de acuerdo a las disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+
 La Secretaría de Educación Pública del Gobierno Federal analizará la información proporcionada por las entidades federativas y les comunicará los casos en los que encuentre irregularidades, a efecto de corregir las mismas, a más tardar dentro de los 30 días naturales siguientes al término del trimestre respectivo;
 
-f) Enviar a la Cámara de Diputados del Congreso de la Unión, a la Secretaría de Hacienda y a la Secretaría de la Función Pública, durante el primer semestre del año, el listado de nombres, plazas y de entidades federativas en las que identifique doble asignación salarial que no sea compatible geográficamente, cuando la ocupación sea igual o superior a dos plazas en municipios no colindantes, o temporalmente, cuando el trabajador ocupe una cantidad de plazas que supere el número de horas hábiles en un plantel; y reportar durante el tercer trimestre del año, sobre la corrección de las irregularidades detectadas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-g) Vigilar el monto de las remuneraciones con cargo al fondo respectivo, informando a la Cámara de Diputados del Congreso de la Unión los casos en que superen los ingresos promedio de un docente en la categoría más alta del tabulador salarial correspondiente a cada entidad.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+f) Enviar a la Cámara de Diputados del Congreso de la Unión, a la Secretaría de Hacienda y a la Secretaría de la Función Pública, durante el primer semestre del año, el listado de nombres, plazas y de entidades federativas en las que identifique doble asignación salarial que no sea compatible geográficamente, cuando la ocupación sea igual o superior a dos plazas en municipios no colindantes, y reportar durante el tercer trimestre del año, sobre la corrección de las irregularidades detectadas, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+g) Vigilar el monto de las remuneraciones, informando a la Cámara de Diputados del Congreso de la Unión los casos en que superen los ingresos promedio de un docente en la categoría más alta del tabulador salarial correspondiente a cada entidad.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 Para el cumplimiento de lo previsto en este artículo, el consejo solicitará a la Secretaría de Educación Pública del Gobierno Federal los formatos y el modelo de estructura de información que sean necesarios.
 
@@ -1289,3 +1343,23 @@ Séptimo.- El Consejo Nacional de Armonización Contable enviará a las Comision
 Octavo.- La Auditoría Superior de la Federación enviará a las Comisiones de Hacienda del Senado de la República y de la Cámara de Diputados así como a las Comisiones de la Función Pública, de Presupuesto y Cuenta Pública y de Vigilancia de la Auditoría Superior de la Federación de la Cámara de Diputados en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto, un diagnóstico que señale las áreas de opacidad en la ejecución del gasto federalizado y una propuesta de modificación al marco jurídico para transparentar aún más el ejercicio de dicho gasto y mejorar los resultados del mismo.
 
 Noveno.- Las entidades federativas podrán presentar y difundir semestralmente la información a que se refieren los artículos 73 y 74 de esta Ley cuando la totalidad de las nóminas a que se refieren dichos artículos, se pague mediante transferencia electrónica.
+
+D.O.F. 9 DE DICIEMBRE DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el 1 de enero de 2014.
+
+…
+
+Tercero.- El Fondo de Aportaciones para la Nómina Educativa entrará en vigor en el ejercicio fiscal 2015.
+
+En tanto entra en vigor el Fondo de Aportaciones para la Nómina Educativa a que se refiere este artículo, seguirán aplicándose las disposiciones correspondientes a la distribución del Fondo de Aportaciones para la Educación Básica y Normal vigentes hasta antes de la entrada en vigor de este Decreto, con base en el presupuesto aprobado para el ejercicio fiscal 2014.
+
+Cuarto.- Una vez concluida la conciliación a que se refiere el artículo anterior, aquellos estados en donde los recursos por concepto del Fondo de Aportaciones para la Educación Básica y Normal, transferidos con anterioridad a la conciliación, resulten mayores al valor determinado del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, serán compensados por dicha diferencia a través del Fondo de Compensación, cuyos recursos serán destinados exclusivamente para cumplir con las atribuciones a las que se refieren los artículos 13 y 16 de la Ley General de Educación.
+
+El Fondo de Compensación será constituido en el ejercicio fiscal 2015 y se actualizará de manera anual, conforme a la inflación reportada por el Instituto Nacional de Estadística y Geografía mediante el Índice Nacional de Precios al Consumidor.
+
+Quinto.- Las autoridades competentes respetarán los derechos de los trabajadores de la educación en términos de las disposiciones jurídicas aplicables y las relaciones laborales correspondientes se mantendrán en los términos vigentes hasta la entrada en vigor del presente Decreto.
+
+Sexto.- A más tardar a los 45 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Social, previa opinión de la Secretaría de Hacienda y Crédito Público, deberá publicar en el Diario Oficial de la Federación los Lineamientos del Fondo de Aportaciones para la Infraestructura Social, a que hace referencia el artículo 33 del presente Decreto.
+
+…
