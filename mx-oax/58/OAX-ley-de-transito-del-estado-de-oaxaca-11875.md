@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "1999-07-09"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
 
@@ -46,6 +46,8 @@ LEY DE TRANSITO REFORMADA
 ### CAPITULO PRIMERO.
 
 DISPOSICIONES GENERALES.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE DEROGA EL PRESENTE ARTÍCULO EN LO QUE RESPECTA A LOS SERVICIOS PÚBLICOS DE TRANSPORTE DE PASAJEROS Y CARGA. DE IGUAL MODO EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN VÉASE TRANSITORIO PRIMERO DE DICHO DECRETO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -117,9 +119,9 @@ Son Autoridades de Tránsito en el Estado:
 
 I.- El Gobernador del Estado.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- El Secretario de Transporte;
+II.- (DEROGADA POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, P.O. 9 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -131,7 +133,7 @@ IV.- El Subdirector de Tránsito del Estado;
 
 ([N. DE E. REFORMADA], P.O. 9 DE JULIO DE 1999)
 
-V- Los Delegados Foráneos de Tránsito del Estado; y
+V.- Los Delegados Foráneos de Tránsito del Estado; y
 
 ([N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 1999)
 
@@ -153,11 +155,17 @@ I.- Para celebrar convenios con la Federación sobre vías de comunicación, tr�
 
 II.- Para establecer vías estatales de comunicación.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE DEROGA LA PRESENTE FRACCIÓN EN LO QUE RESPECTA A LOS SERVICIOS PÚBLICOS DE TRANSPORTE DE PASAJEROS Y CARGA. DE IGUAL MODO EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN VÉASE TRANSITORIO PRIMERO DE DICHO DECRETO.</small>
+
 III.- Para establecer los requisitos y condiciones a los cuales se sujetarán las actividades relacionadas con la circulación de las personas, el manejo y el tránsito de vehículos y semovientes y los servicios de transporte de pasajeros y de carga en las vías públicas del Estado, que no sean de jurisdicción federal.
 
-IV.- Para otorgar concesiones y permisos para el establecimiento y explotación de servicios de transporte de pasajeros y de carga y, consecuentemente, para suspenderlos o revocarlos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Para ordenar la inspección y vigilancia de las empresas que exploten servicios de transporte de pasajeros o de carga, así como la de los medios de transporte, con el objeto de comprobar el cumplimiento de las disposiciones de esta Ley y asegurar los intereses del público.
+IV.- (DEROGADA POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, P.O. 9 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+V.- (DEROGADA POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, P.O. 9 DE DICIEMBRE DE 2013)
 
 VI.- Para fijar y aplicar las sanciones en que incurran las personas físicas y morales con motivo de violaciones a la presente Ley y sus reglamentos.
 
@@ -167,25 +175,7 @@ VII.- Para nombrar y remover al personal de la Dirección de Tránsito del Estad
 
 VIII.- Para expedir los reglamentos de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1999)</small>
-
-Artículo 7° BIS.- Son atribuciones y competencia del Secretario de Transporte:
-
-I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus Reglamentos;
-
-II.- Planificar y ordenar los proyectos y programas de los servicios de transporte público, de pasaje o carga, en las poblaciones, caminos y carreteras de jurisdicción estatal, tomando en cuenta la participación de los Municipios cuando éstos lo soliciten, sometiéndolos a la aprobación del titular del Ejecutivo Estatal;
-
-III.- Dictar las medidas necesarias para la inspección y vigilancia de las empresas que exploten servicios de transporte, de pasaje o de carga para comprobar el cumplimiento de las disposiciones de esta Ley y asegurar las garantías de los usuarios;
-
-IV.- Instruir los procedimientos administrativos para otorgar, supervisar, suspender o revocar las concesiones y permisos que señala el Capítulo IV de esta Ley y el respectivo Reglamento, hasta dejarlos en estado de resolución, sometiéndolo a la aprobación del Gobernador del Estado para su resolución;
-
-V.- Aplicar las sanciones a que se refiere esta Ley y sus Reglamentos;
-
-VI.- Aprobar las tarifas del transporte público de pasaje o carga;
-
-VII.- Ejercer el mando de la Dirección de Tránsito del Estado; y
-
-VIII.- Las demás que le confieran otros ordenamientos legales y reglamentarios.
+Artículo 7° BIS.- (DEROGADA POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, P.O. 9 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -369,11 +359,9 @@ I.- Vehículos particulares o destinados al servicio particular de las personas,
 
 II.- Vehículos de servicio público o destinados a operar mediante el cobro de tarifas autorizadas y con sujeción a concesiones o permisos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE DEROGA EL PRESENTE CAPÍTULO, A EXCEPCIÓN DEL ARTÍCULO 17, EN LO QUE RESPECTA A LA MATERIA DE TRÁNSITO DE VEHÍCULOS. DE IGUAL MODO EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN VÉASE TRANSITORIO PRIMERO DE DICHO DECRETO.</small>
 
 ### CAPITULO IV.
-
-TRANSITO, CONCESIONES Y PERMISOS.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -535,7 +523,9 @@ II.- Suspención de licencias para el manejo y tránsito de vehículos.
 
 III.- Cancelación de licencias para el manejo y tránsito de vehículos.
 
-IV.- Revocación de concesiones y permisos para la explotación de servicios públicos de transporte de pasajeros o de carga.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV.- (DEROGADA POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA, P.O. 9 DE DICIEMBRE DE 2013)
 
 V.- Arresto.
 
@@ -638,3 +628,31 @@ PRIMERO.- El Ejecutivo Estatal tendrá un plazo de seis meses, contados a partir
 SEGUNDO.- Continuarán aplicándose las disposiciones legales y reglamentarias vigentes hasta antes de la entrada en vigor del presente Decreto, en todos aquellos procedimientos administrativos y jurídicos que hayan iniciado antes de la publicación del mismo, hasta su resolución.
 
 TERCERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan los artículos 1, en lo que respecta a los servicios públicos de transporte de pasajeros y carga; 6, fracción II, 7, fracciones III, en lo que respecta a los servicios públicos de transporte de pasajeros y carga, IV, y V; 7 Bis, el CAPÍTULO IV, denominado “TRANSITO, CONCESIONES Y PERMISOS”, a excepción del artículo 17, en lo que respecta a la materia de tránsito de vehículos; y el artículo 30 fracción IV, de la Ley de Tránsito Reformada, publicada en el Periódico Oficial del Estado número 62, de fecha 5 de julio de 1969.
+
+Las disposiciones contenidas en la presente Ley, por razón de la materia prevalecerán sobre las disposiciones legales y administrativas de igual o menor rango que se le opongan, aun cuando no esté expresamente señalado o previsto; o abrogadas o derogadas.
+
+TERCERO.- El Gobernador del Estado, en un plazo de noventa días ejercerá sus facultades reglamentarias, para la abrogación del Reglamento de Transporte Público de pasajeros en su modalidad de mototaxis y bicitaxis, publicado en el Periódico Oficial del Gobierno del Estado de fecha veintinueve de marzo de dos mil ocho.
+
+CUARTO.- El Gobernador del Estado, expedirá los reglamentos necesarios para la ejecución y debida observancia de la presente Ley, dentro de los siguientes dos meses siguientes, contados a partir de su entrada en vigor.
+
+Hasta en tanto se expidan los reglamentos respectivos, serán aplicables en lo conducente, las disposiciones legales vigentes en la materia, en todo lo que no contravenga lo dispuesto en la presente Ley.
+
+QUINTO.- El Gobernador del Estado expedirá el Programa Sectorial de Transporte y Movilidad dentro de los doce meses siguientes a la entrada en vigencia de la presente Ley.
+
+SEXTO.- La Secretaría de Vialidad y Transporte, con la finalidad de integrar el Registro Público Estatal de Transporte, expedirá dentro de los seis meses siguientes a la entrada en vigor de la presente Ley, un Programa para la revisión, reordenamiento documental y actualización de concesiones y permisos otorgados hasta el año 2010, el cual se implementará en forma progresiva en los términos y plazos que en el mismo se establezca. Los criterios a que se sujete el Programa deberán publicarse en el Periódico Oficial.
+
+SÉPTIMO.- Los prestadores del servicio tendrán un plazo máximo de doce meses para sustituir los vehículos del servicio público o especial de transporte que no cumplan con las características señaladas en la presente Ley.
+
+OCTAVO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de la presente Ley, continuarán desahogándose conforme a las disposiciones legales vigentes al momento de su inicio, salvo expresa petición de parte interesada, que manifieste que el procedimiento se instruya con la nueva normatividad.
+
+En ningún caso, procederá la reposición de procedimientos, por la sola entrada en vigor de esta Ley.
+
+NOVENO.- Los concesionarios deberán designar a sus beneficiarios en términos del artículo 97, dentro de los ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley, con independencia de los resultados del programa referido en el párrafo anterior.
+
+DÉCIMO.- Dentro del plazo de doce meses contado a partir de la entrada en vigor de esta Ley, los titulares de más de una concesión, darán aviso a la Secretaría de su voluntad, en su caso, de transferir las concesiones excedentes, siempre que hayan cumplido con la antigüedad señalada en el artículo 98 y no se encuentren en los supuestos establecidos en el artículo 99, o para manifestar lo que a sus derechos convenga.
