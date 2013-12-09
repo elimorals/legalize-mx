@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-06-27"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -300,6 +300,10 @@ El fin primordial del proceso educativo es la formación del educando. Para que 
 > <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 Todos los alumnos de escuelas públicas y privadas, tienen derecho a recibir orientación escolar para conseguir el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas.
+
+> <small>(ADICIONADO, B.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Todos los alumnos de escuelas públicas y privadas, tienen derecho a recibir orientación escolar para conseguir el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, debiendo contar cada institución con, cuando menos, un profesional de la psicología por cada 300 alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia.
 
 ### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DEL ESTADO EN MATERIA EDUCATIVA
 
@@ -1408,3 +1412,13 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal incluirá en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal del año 2014, recursos suficientes para dar cumplimiento a lo previsto en el presente Decreto.
+
+B.O. 9 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo Estatal y el Congreso del Estado realizarán las previsiones de recursos en los respectivos presupuestos de egresos del gobierno del Estado, de tal forma que la contratación de profesionales en psicología a que se refiere este Decreto se realice en forma gradual a partir del año 2014 y se cubra la totalidad de la demanda en el año 2018.
