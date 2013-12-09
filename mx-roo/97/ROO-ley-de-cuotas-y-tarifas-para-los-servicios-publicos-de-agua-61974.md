@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cuotas-y-tarifas-para-los-servicios-publicos-de-agua-619
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-02"
-last_updated: "2011-03-22"
+last_updated: "2013-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
 
-LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 2013 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de julio de 2008.
 
@@ -89,7 +91,9 @@ XIX. Medidor: aparato que sirve para determinar el volumen de agua que pasa por 
 
 XX. Prestador del servicio: la Comisión, los organismos operadores, o las empresas concesionarias, según corresponda;
 
-XXI. Obra de infraestructura primaria: toda la infraestructura para la producción, transporte y rebombeo de agua potable, necesaria para alimentar una red de distribución, así como los colectores, cárcamos y emisores para recibir las aguas residuales de las redes de alcantarillado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XXI. Obra de Cabecera o de infraestructura primaria: Toda la infraestructura para la producción, transporte y rebombeo de agua potable, necesaria para alimentar una red de distribución, así como los colectores, cárcamos y emisores para recibir las aguas residuales de las redes de alcantarillado;
 
 XXII. Reuso: la utilización de las aguas residuales tratadas en la industria, el riego de áreas verdes, en la agricultura, así como en otros usos permitidos;
 
@@ -121,13 +125,21 @@ XXXV. Uso en servicios generales a la comunidad: el empleo que se hace del agua 
 
 XXXVI. Usuario: las personas físicas o morales que reciban los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, según corresponda;
 
-XXXVII. Vivienda de interés social o popular: Es aquella vivienda con una construcción mayor a 40 M2, destinada a sectores de la población de menores recursos; y (sic)
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-XXXVIII. Vivienda progresiva: Es la vivienda que tiene como máximo una construcción de 40 M2 y es destinada a personas con ingresos menores o igual a dos salarios mínimos vigentes en la zona;
+XXXVII. Vivienda de interés social o popular: Es aquella que tiene una construcción mayor a 45 M2, que sean promovidas mediante alguno de los programas de apoyo a construcción de vivienda para los trabajadores;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XXXVIII. Vivienda progresiva: Es aquella que tiene como máximo una construcción de 45 M2, destinada a personas con ingresos menores o igual a dos salarios mínimos vigentes en la zona.
 
 > <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 XXXIX. Subsidio: El beneficio que recibirá el usuario doméstico de los servicios públicos de agua potable y alcantarillado, respecto de la diferencia entre el precio real conforme al costo de producción del servicio y el precio real que se cobre al usuario.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+XL. Saneamiento: Proceso relativo al tratamiento del agua residual, así como de los subproductos generados en el curso de la recogida o transporte de dicha agua residual, de forma que su evacuación produzca el mínimo impacto al medio ambiente, comprendiendo todas aquellas acciones tendientes a la protección del acuífero.
 
 Aquellos términos no definidos tendrán el significado atribuido en la Ley de Agua Potable y Alcantarillado del Estado de Quintana Roo.
 
@@ -205,9 +217,11 @@ El pago de las cuotas y tarifas a que se refiere esta Ley, es independiente del 
 
 La prestación y administración de los servicios públicos previstos en la presente Ley, son de orden público e interés social, por lo que todas las instituciones de servicios y las dependencias y entidades públicas federales, estatales y municipales, proporcionarán a los prestadores de servicios, según corresponda, la información y la colaboración que resulten necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 7.
 
-El monto de las cuotas y tarifas que se establecen en este ordenamiento, se actualizarán mensualmente en la misma proporción en que lo haga el índice Nacional de Precios al Consumidor que publique el Banco de México en el Diario Oficial de la Federación, dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor del mes anterior, al más reciente del período entre el citado índice correspondiente al mes anterior, al más antiguo de dicho período, salvo las relacionadas con el uso doméstico para las cuales se considerarán los incrementos al salario mínimo vigente en el Estado.
+El monto de las cuotas y tarifas que se establecen en este ordenamiento, se actualizarán mensualmente en la misma proporción en que lo haga el índice nacional de precios al consumidor que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior, al más reciente del período entre el citado índice correspondiente al mes anterior, al más antiguo de dicho período, salvo las relacionadas con el uso doméstico para las cuales se considerarán los incrementos al salario mínimo vigente en el Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
@@ -271,9 +285,11 @@ Cualquier modificación que se pretenda hacer al inmueble que afecte las instala
 
 En caso de que el propietario o poseedor del predio o establecimiento realice por sí mismo el cambio, instalación, supresión o conexión de los servicios públicos, se hará acreedor a las sanciones que al efecto establece la Ley de Agua Potable y Alcantarillado del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 18.
 
-Podrá solicitarse la suspensión o supresión de una toma de agua o de una descarga, independientemente de los casos en que conforme a la Ley proceda hacerlo, en los siguientes casos:
+Podrá solicitarse la suspensión o supresión de una toma de agua o de una descarga, así como la cancelación del contrato respectivo, independientemente de los casos en que conforme a la Ley proceda hacerlo, en los siguientes casos:
 
 I. Cuando se fusionen predios;
 
@@ -293,17 +309,17 @@ Los usuarios de los servicios de agua potable, alcantarillado, tratamiento y dis
 
 Cuando el usuario no haga uso del agua y del alcantarillado o se limite el servicio por falta de pago, cubrirá la cuota que se hubiere fijado al consumo mínimo, toda vez que este concepto equivale a la parte proporcional que le corresponde del costo por conservación y mantenimiento de la infraestructura hidráulica.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 21.
 
-El consumo en m3 de agua potable para su correspondiente cobro, se redondeará en números enteros.
+El consumo en metros cúbicos de agua potable, así como los servicios de alcantarillado, saneamiento y alcantarillado por descargas en exceso, para su correspondiente cobro, se redondeará en números enteros.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 22.
 
-Los servicios de agua potable y alcantarillado se cobrarán por períodos vencidos de treinta días y se pagarán dentro de los quince días siguientes a la fecha en que el usuario tenga conocimiento del importe a pagar por dichos servicios.
+Los servicios de agua potable alcantarillado, saneamiento y alcantarillado por descargas en exceso, se cobrarán por períodos vencidos de treinta días y se pagarán dentro de los quince días siguientes a la fecha en que el usuario tenga conocimiento del importe a pagar por dichos servicios.
 
 ###### Artículo 23.
 
@@ -323,11 +339,13 @@ La falta de pago oportuno de los servicios, es decir en la fecha límite de pago
 
 El prestador del servicio podrá suspender o limitar el servicio, en caso de incumplimiento del pago de las cuotas derivadas de la prestación de los servicios, con la salvedad de lo establecido por el artículo 81 párrafo segundo y tercero de la Ley de Agua Potable y Alcantarillado del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 26.
 
-Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillado no pagados en forma oportuna junto con sus actualizaciones y las multas que se apliquen con base en la ley de agua potable y alcantarillado y ésta ley, tendrán el carácter de créditos fiscales. Para su cobro, la Comisión hará uso de la facultad económica-coactiva, a través de la Dirección de Recuperación de Adeudos y Ejecución Fiscal.
+Los adeudos a cargo de los usuarios de los servicios de agua potable, alcantarillado, saneamiento y alcantarillado por descargas en exceso no pagados en forma oportuna junto con sus actualizaciones y las multas que se apliquen con base en la Ley de Agua Potable y Alcantarillado y ésta Ley, tendrán el carácter de créditos fiscales. Para su cobro, la Comisión hará uso de la facultad económico-coactiva, a través de la Dirección de Recuperación de Adeudos y Ejecución Fiscal.
+
+En los casos en los que el servicio se encuentre concesionado, la empresa concesionaria llevará a cabo el cobro de los adeudos, pudiendo turnarse para su cobro a la mencionada Dirección de Recuperación de Adeudos y Ejecución Fiscal.
 
 ###### Artículo 27.
 
@@ -397,7 +415,9 @@ I. Las tarifas por instalación, reinstalación y/o reubicación considerarán e
 
 II. El importe a pagar por dotación de litros por segundo, se determinará de acuerdo a la tarifa vigente y al volumen del proyecto total de que se trate o de la etapa del mismo que corresponda según lo solicitado al requerimiento mensual solicitado, a partir de los precios actualizados a la fecha en que se realice la contratación.
 
-Para el cálculo del monto a cubrir por este concepto, la tarifa base del litro por segundo será de $846,148.67 En el caso de que se contrate la conexión al alcantarillado, adicional a la contratación de litros por segundo, se cobrará el equivalente al 37.5% de los derechos que se cubran por concepto de dotación de agua potable.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Para el cálculo del monto a cubrir por este concepto, la tarifa base del litro por segundo será de $1,077,808.52 En el caso de que se contrate la conexión al alcantarillado, adicional a la contratación de litros por segundo, se cobrará el equivalente al 40% de los derechos que se cubran por concepto de dotación de agua potable. En el caso de los fraccionadores o desarrolladores de vivienda o lotes con servicio adicionalmente deberán pagar un 3% del importe de las inversiones para la infraestructura hidráulica y sanitaria de su desarrollo, para los gastos de supervisión normativa.
 
 ###### Artículo 36.
 
@@ -407,13 +427,85 @@ En el caso de que la dotación de litros por segundo contratada sea menor que el
 
 Las tarifas de conexión al servicio de agua potable y alcantarillado que deberán pagar los fraccionadores y desarrolladores, serán las siguientes.
 
-I.- Por cada vivienda de interés social o popular, $ 6,511.36 más el equivalente al 37.5% de este importe por servicio de alcantarillado, independientemente de los derechos de instalación, y gastos de supervisión normativa para las obras que deban desarrollar equivalente al 3% sobre el importe de las inversiones para la infraestructura hidráulica y sanitaria;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-II.- Las instituciones publicas y empresas privadas dedicadas a desarrollar lotes con servicios y viviendas progresivas por un valor comercial de hasta 4000 salarios mínimos vigentes en el Distrito Federal, pagarán $ 3,615.10 pesos por concepto de derechos de conexión y el equivalente al 37.5% de este importe por servicio de alcantarillado independientemente de los derechos de instalación y gastos de supervisión normativa para las obras que deban desarrollar equivalente al 3% sobre el importe de las inversiones para infraestructura hidráulica y sanitaria.
+I.- Por cada lote o vivienda de interés social o popular por un valor comercial de hasta 11.235 salarios mínimos vigentes en la Zona del Estado, pagaran $8,294.01 más el equivalente al 40% de este importe por servicio de alcantarillado, independientemente de los derechos de instalación, y gastos de supervisión normativa para las obras que deban desarrollar equivalente al 3% sobre el importe de las inversiones para la infraestructura hidráulica y sanitaria;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+II.- Las instituciones públicas y empresas privadas dedicadas a desarrollar lotes con servicios y/o viviendas progresivas por un valor comercial de hasta 4750 salarios mínimos vigentes en la Zona del Estado, pagaran $4,604.89 pesos por concepto de derechos de conexión y el equivalente al 40% de este importe por servicio de alcantarillado independientemente de los derechos de instalación y gastos de supervisión normativa para las obras que deban desarrollar equivalente al 3% sobre el importe de las inversiones para infraestructura hidráulica y sanitaria.
 
 ###### Artículo 38.
 
 El prestador de los servicios podrá cobrar una sanción equivalente hasta dos salarios mínimos a falta del pago de los servicios de dos meses consecutivos, ello con el objeto de no afectar al usuario con la suspensión de los servicios, en caso de que el usuario continué en mora se procederá en términos del Artículo 26 de la presente Ley, sin menoscabo de limitar o suspender los servicios, en esta última hipótesis, adicionalmente procederá el cobro de los gastos inherentes a la reinstalación del servicio, la cual será equivalente a un 30% del monto de los derechos de conexión por instalación vigente a la fecha del pago, para el tipo de toma de que se trate.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 38
+
+BIS.- Los tramites que deberán cumplir los fraccionadores y desarrolladores urbanos serán los siguientes:
+
+I.- Para obtener la “FACTIBILIDAD”:
+
+A) Para desarrolladores de vivienda o lotes con servicio:
+
+El propietario del predio o su representante legal presentará solicitud de factibilidad de servicio por escrito ante el prestador de los servicios, y deberá indicar y anexar lo siguiente:
+
+1) Tipo de fraccionamiento o lotes: Residencial, Interés Social o Progresiva (pie de casa).
+
+2) Densidad máxima de acuerdo al Plan de Desarrollo Urbano.
+
+3) Planos de ubicación, medidas y colindancias y de conjunto.
+
+4) Carta de uso del suelo actualizada expedida por la Dirección de Desarrollo Urbano Municipal.
+
+B) Para otros desarrollos con giro comercial, hotelero, industrial o de servicios generales:
+
+1) Explicación descriptiva del proyecto, en caso de hotel especificar la clasificación y numero de cuartos.
+
+2) Planos de ubicación, medidas y colindancias y de conjunto.
+
+3) Carta de uso del suelo actualizada expedida por la Dirección de Desarrollo Urbano Municipal.
+
+II.- Para obtener la “APROBACIÓN DEL PROYECTO”
+
+El propietario del predio o su representante legal presentará solicitud de aprobación del proyecto por escrito ante el prestador de los servicios y deberá indicar y anexar lo siguiente:
+
+A) Para desarrolladores de vivienda o lotes con servicio deberán presentar:
+
+1) Copia del acta constitutiva de la empresa.
+
+2) Copia del documento que acredite la propiedad.
+
+3) Si el solicitante no es el propietario deberá proporcionar copia protocolizada ante notario del poder general para actos de administración.
+
+4) Copia de identificación oficial con fotografía del solicitante o del representante legal.
+
+5) Memoria descriptiva del proyecto.
+
+6) Memoria del cálculo hidráulico y alcantarillado sanitario.
+
+7) Planos definitivos impresos y digitalizados (Autocad).
+
+8) Presupuesto de las obras de infraestructura hidráulica y sanitaria.
+
+9) Programa de obra.
+
+10) Especificaciones técnicas de los equipos utilizados en la obra (eléctricos e hidráulicos).
+
+B) Para otros desarrollos con giro comercial, hotelero, industrial o de servicios generales:
+
+1) Copia del documento que acredite la propiedad.
+
+2) Si el solicitante no es el propietario deberá proporcionar una copia protocolizada ante notario del poder general para actos de administración.
+
+3) Copia de identificación oficial con fotografía del solicitante o del representante legal.
+
+4) Memoria descriptiva del proyecto
+
+5) Memoria del cálculo hidráulico.
+
+6) Planos definitivos impresos y digitalizados (Autocad).
 
 ### CAPÍTULO QUINTO. TARIFAS POR CONSUMO DE AGUA POTABLE Y ALCANTARILLADO
 
@@ -557,6 +649,10 @@ Inferior Superior
 
 201 999,999 3,961.44 32.20
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Se faculta al Consejo Directivo de la Comisión para aplicar el subsidio a la tarifa a que se refiere el presente artículo.
+
 ###### Artículo 42.
 
 Las tarifas base para el cobro de los servicios de agua potable para el uso industrial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
@@ -602,6 +698,10 @@ LIM. INFER. LIM. SUPER. (PESOS) ADIC.x M3
 5001 20000 132,124.79 32.46
 
 20001 999,999 649,143.15 35.79
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Adicionalmente a las tarifas comprendidas en el cuadro que antecede, los prestadores del servicio podrán convenir precio por metro cubico con los usuarios afectos a las tarifas por consumo del servicio de agua potable para el uso hotelero, siempre y cuando se consuma un mínimo mensual de 10,000 metros cúbicos y se demuestre que se cuenta con alguna forma alterna de abastecimiento distinta a la red del prestador del servicio.
 
 ###### Artículo 44.
 
@@ -656,6 +756,10 @@ V. Se sumará la “cuota base a pagar” a la “cuota adicional a pagar”, co
 ###### Artículo 46.
 
 Los usuarios deberán de pagar por los servicios de alcantarillado una cuota adicional igual al 35% del importe del cobro del consumo de agua potable.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Artículo 46 BIS.- Los usuarios deberán pagar por el servicio de saneamiento una cuota adicional igual a 5% del importe del cobro del consumo de agua potable.
 
 #### Sección Segunda. Servicios de Alcantarillado por Descargas en Exceso
 
@@ -785,7 +889,7 @@ LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE FEBRERO DE 2009.
 
@@ -810,3 +914,13 @@ SEGUNDO. El cobro de las cuotas por consumo doméstico que incluyen el subsidio 
 TERCERO. Los usuarios que tengan sistemas propios de potabilización a la fecha de la publicación de presente decreto y que descarguen sus aguas residuales a los sistemas de alcantarillado públicos, gozarán, durante el Ejercicio Fiscal 2011, de un subsidio equivalente al 70% de la tarita establecida en el artículo 47 del presente ordenamiento.
 
 CUARTO. Los usuarios que estén efectivamente conectados a la red de alcantarillado gozarán de un subsidio equivalente al 20% de la cuota resultante de aplicar la tarifa establecida en el artículo 46 del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+El subsidio a que se refiere el presente artículo, a partir del primero de julio y hasta el treinta y uno de diciembre del año 2014, será el equivalente al 10%, mismo que a partir del primero de enero del año 2015 quedará sin efecto.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
