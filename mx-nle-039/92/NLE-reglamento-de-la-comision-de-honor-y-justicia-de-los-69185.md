@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-69185"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-20"
-last_updated: "2012-08-08"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de febrero de 2009.
 
@@ -41,17 +41,17 @@ SEGUNDO: Se aprueba el REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto regular las facultades y obligaciones de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía y Tránsito del Municipio de Monterrey, Nuevo León, así como las atribuciones del Delegado de la Comisión de Honor y Justicia.
+El presente Reglamento tiene por objeto regular las facultades y obligaciones de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey, así como las atribuciones del Delegado de la Comisión de Honor y Justicia.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 2.
 
-La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía y Tránsito del Municipio de Monterrey, Nuevo León, es la autoridad competente para resolver las quejas y denuncias que se interpongan en relación con la actuación de los Elementos de la Secretaría de la Policía Municipal y de la Secretaría de Vialidad y Tránsito del Municipio de Monterrey, Nuevo León.
+La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey, es la autoridad competente para resolver las quejas y denuncias que se interpongan en relación con la actuación de los Elementos de la Secretaría de Seguridad Pública y Vialidad.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -59,13 +59,17 @@ La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía 
 
 Para los efectos del presente Reglamento se entenderá por:
 
-I. Comisión: La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía y Tránsito de Monterrey;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+I. Comisión: La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey,
 
 II. Contraloría: Secretaría de la Contraloría Municipal de Monterrey;
 
 III. Delegado: Funcionario Público designado por la Comisión de Honor y Justicia con las atribuciones establecidas en el presente Reglamento;
 
-IV. Elementos: Servidores Públicos del Municipio de Monterrey, pertenecientes a la Secretaría de Policía Municipal y a la Secretaría de Vialidad y Tránsito de Monterrey que desempeñan labores operativas;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+IV. Elementos: Servidores Públicos del Municipio de Monterrey, pertenecientes a la Secretaría de Seguridad Pública y Vialidad que desempeñan labores operativas;
 
 V. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León; y,
 
@@ -80,6 +84,8 @@ Para lo no previsto en este Reglamento, así como para lo no previsto en la subs
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. DE LA INTEGRACIÓN DE LA COMISIÓN
+
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE MONTERREY, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 5.
 
@@ -99,47 +105,53 @@ IV. Vocal: Será el Presidente de la Comisión de Tránsito del Ayuntamiento;
 
 V. Vocal: Será el Presidente de la Comisión de Policía y Buen Gobierno del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-VI. Vocal: Será el Titular del Área de Prevención de la Secretaría de Policía Municipal;
+VI. Vocal: Será el titular de la Dirección de Reclusorios y Prevención Social del Delito de la Secretaría de Seguridad Pública y Vialidad;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-VII. Vocal: Será el Titular del Área de Reacción de la Secretaría de Policía Municipal;
+VII. Vocal: Será el titular de la Dirección de Policía de la Secretaría de Seguridad Pública y Vialidad;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-VIII. Vocal: Será el Titular del Área de Investigación de la Secretaría de Policía Municipal; y,
+VIII. Vocal: Será el titular de la Dirección Administrativa de la Secretaría de Seguridad Pública y Vialidad;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-IX. Consejo Ciudadano: Que será integrado por 3-tres vocales ciudadanos elegidos por el Ayuntamiento.
+IX. Vocal: Será el Titular de la Dirección de Tránsito de la Secretaría de Seguridad Pública y Vialidad; y
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-Los integrantes de las fracciones de la I a la V, tendrán derecho a voz y a voto en las sesiones de la Comisión, a excepción de los señalados en las fracciones VI a la IX, los cuales solo tendrán derecho a voz.
+X. Consejo Ciudadano: Que será integrado por 3-tres vocales ciudadanos elegidos por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Los integrantes de las fracciones de la I a la V tendrán derecho a voz y a voto en las sesiones de la Comisión, a excepción de los señalados en las fracciones VI a X, los cuales sólo tendrán derecho a voz.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 Los integrantes de la Comisión de Honor y Justicia señalados de la fracción I a la V, podrán designar a un suplente, el cual podrá ser empleado de la Administración Pública o integrante del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-Los integrantes de la Comisión de Honor y Justicia señalados en la (sic) fracciones VI, VII y VIII, podrán designar a un suplente, el cual solo podrá ser personal adscrito al área del titular que lo hubiera designado.
+Los integrantes de la Comisión señalados en las fracciones VI, VII, VIII y IX podrán designar a un suplente, el cual solo podrá ser personal adscrito de la misma área.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-En caso de ausencia del Titular, el integrante suplente podrá, acudir a la sesión respectiva, con derecho a voz y voto, excepto los titulares de las fracciones VI, VII y VIII quienes podrán designar un suplente.
+En caso de ausencia del titular, el integrante suplente podrá acudir a la sesión respectiva, con derecho a voz y voto, excepto los titulares de las fracciones VI, VII, VIII y IX, quienes sólo tendrán derecho a voz.
 
-Por cada uno de los cargos antes mencionados a excepción del Consejo Ciudadano, el titular de cada cargo designará un suplente, el cual podrá ser empleado de la Administración Pública o integrante del R. Ayuntamiento, y de labores ajenas a la Secretaría de la Policía Preventiva de Monterrey y/o de la Secretaría de Vialidad y Tránsito de Monterrey.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 6.
 
-A fin de verificar el buen desempeño y transparencia en los procedimientos de la Comisión, será creado un Consejo Ciudadano, el cual tendrá derecho a voz dentro de las sesiones de la Comisión y será elegido por el R. Ayuntamiento de entre una lista que se integrará previa convocatoria pública, en la que se fijen las reglas correspondientes, misma que será expedida por el R. Ayuntamiento a propuesta de la Comisión de Participación Ciudadana.
+A fin de verificar el buen desempeño y transparencia en los procedimientos de la Comisión, será creado un Consejo Ciudadano, el cual tendrá derecho a voz dentro de las sesiones de la Comisión y será elegido por el Ayuntamiento de entre una lista que se integrará, previa convocatoria pública, en la que se fijen las reglas correspondientes, misma que será expedida por el Ayuntamiento a propuesta de la Comisión de Participación Ciudadana.
 
 Para ser integrante Ciudadano se deberán acreditar los siguientes requisitos:
 
-I. Ser ciudadano nuevoleonés en pleno ejercicio de sus derechos políticos, inscrito en la lista nominal de electores del Estado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+I. Tener una residencia mínima de un año en el Municipio de Monterrey;
 
 II. Tener como mínimo veinticinco años cumplidos al día de su nominación;
 
@@ -171,7 +183,9 @@ IV.- Por causas que se estimen graves a juicio del R. Ayuntamiento de Monterrey.
 
 Los cargos antes conferidos, serán solamente por el período de la administración en la que desempeñan sus funciones, a excepción de lo establecido en el artículo 5 fracción IX de este Reglamento.
 
-### CAPITULO III. ATRIBUCIONES DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DE MONTERREY
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO III. ATRIBUCIONES DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE MONTERREY
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -179,9 +193,9 @@ Los cargos antes conferidos, serán solamente por el período de la administraci
 
 Son atribuciones de la Comisión:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-I. Conocimiento, trámite y resolución de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos pertenecientes a las Secretarías de Policía Municipal y Vialidad y Tránsito de Monterrey;
+I. Conocimiento, trámite y resolución de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos pertenecientes a la Secretaría de Seguridad Pública y Vialidad;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -191,9 +205,9 @@ II. Iniciar de oficio o a instancia de parte el procedimiento administrativo:
 
 III. Desahogar el procedimiento de responsabilidad administrativa en términos del presente Reglamento;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-IV. Remitir a la Contraloría Municipal y a la Contraloría Interna del Gobierno del Estado de Nuevo León, copia de las resoluciones mediante las cuales se impongan sanciones a los pertenecientes a las Secretarías de Policía Municipal y de Vialidad y Tránsito de Monterrey, para efecto de inscribirlas en el Registro de Servidores Públicos Sancionados e Inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León, dejando constancia de ello en el expediente respectivo;
+IV. Remitir a la Contraloría Municipal y a la Contraloría Interna del Gobierno del Estado de Nuevo León, copia de las resoluciones mediante las cuales se impongan sanciones a los pertenecientes a la Secretaría de Seguridad Pública y Vialidad, para efecto de inscribirlas en el Registro de Servidores Públicos Sancionados e Inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León, dejando constancia de ello en el expediente respectivo;
 
 V.- Tener acceso a los expedientes personales de los elementos denunciados o implicados en alguna queja o denuncia, así como a la documentación necesaria para el mejor desempeño de sus funciones.
 
@@ -219,7 +233,9 @@ La Comisión en pleno designará un delegado de entre una terna de aspirantes qu
 
 Para ser Delegado de la Comisión, se deberán acreditar los siguientes requisitos:
 
-I. Ser ciudadano nuevoleonés en pleno ejercicio de sus derechos políticos, inscrito en la lista nominal de electores del Estado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+I. Tener residencia mínima de un año en el Municipio de Monterrey;
 
 II. Tener como mínimo 25-veinticinco años cumplidos al día de su designación;
 
@@ -229,25 +245,31 @@ IV. No haber sido condenados (sic) por delitos de carácter intencional o que ha
 
 V. No ser ministro o dirigente de algún culto o asociación religiosa.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 12.
 
-El Delegado de la Comisión representará a la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía y Tránsito del Municipio de Monterrey, Nuevo León y tendrá además de las atribuciones que señala el artículo 9 del presente Reglamento, las siguientes:
+El Delegado de la Comisión representará a la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey, Nuevo León y tendrá además de las atribuciones que señala el artículo 9 del presente Reglamento; las siguientes:
 
 I. Iniciar de oficio o a instancia de parte el Procedimiento Administrativo;
 
-II. Recibir las quejas o denuncias que se interpongan en relación con la actuación de los Elementos de la Secretaría de la Policía Municipal y de la Secretaría de Vialidad y Tránsito del Municipio de Monterrey, Nuevo León;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+II. Recibir las quejas o denuncias que se interpongan en relación con la actuación de los Elementos de la Secretaría de Seguridad Pública y Vialidad;
 
 III. Resolver la admisión o desechamiento de las quejas o denuncias;
 
 IV. Desahogar el procedimiento de responsabilidad administrativa en términos del presente Reglamento;
 
-V. Realizar los proyectos de resolución derivados de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos pertenecientes a las Secretarías de Policía Municipal y Vialidad y Tránsito de Monterrey;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+V. Realizar los proyectos de resolución derivados de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos pertenecientes a la Secretaría de Seguridad Pública y Vialidad;
 
 VI. Someter ante la Comisión de Honor y Justicia, para su aprobación, modificación o rechazo, el proyecto de resolución referido en la fracción que antecede;
 
-VII. Tener a su cargo módulos que operen como oficialía de partes para la recepción de quejas y denuncias, los cuales se situarán en la Secretaría de la Contraloría Municipal, en la Secretaría de la Policía Municipal y en la Secretaría de Vialidad y Tránsito del Municipio de Monterrey, Nuevo León; y,
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+VII. Tener a su cargo módulos que operen como oficialía de partes para la recepción de quejas y denuncias, los cuales se situarán en la Secretaría de la Contraloría Municipal y en la Secretaría de Seguridad Pública y Vialidad; y,
 
 VIII. Las demás que sean conferidas por la Comisión, las cuales deberán estar publicadas en el Periódico Oficial del Estado
 
@@ -273,15 +295,17 @@ En caso de empate, el Presidente ejercerá el voto de calidad.
 
 De cada sesión, el Secretario formulará el acta que deberá foliarse con un número único e irrepetible, el cual incluirá el año al que corresponde y contendrá los pormenores de los acuerdos tomados, indicándose el sentido de cada votación y la firma de los asistentes con derecho a voz y voto, así como del Delegado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO V. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DE MONTERREY
+### CAPÍTULO V
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE MONTERREY
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
-Las quejas o denuncias deberán presentarse por escrito o por comparecencia, en las instalaciones o módulos de la Comisión de Honor y Justicia, ubicados en las respectivas Secretarías de Policía Municipal de Monterrey y la de Vialidad y Tránsito de Monterrey, o en su defecto deberán presentarse en las oficinas de la Contraloría, debiendo turnarse inmediatamente por escrito, adjuntando los documentos recibidos en un término que no exceda de 24-veinticuatro horas al Delegado de la Comisión.
+Las quejas o denuncias deberán presentarse por escrito o por comparecencia en las instalaciones o módulos de la Comisión, ubicados en la Secretaría de Seguridad Pública y Vialidad, o en su defecto deberán presentarse en las oficinas de la Contraloría, debiendo turnarse inmediatamente por escrito, adjuntando los documentos recibidos en un término que no exceda de 24-veinticuatro horas al Delegado de la Comisión.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -355,11 +379,11 @@ Las sanciones deberán registrarse en el expediente personal de los infractores:
 
 La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las Instituciones Policiales de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 22.
 
-Para la aplicación de las sanciones, la Comisión de Honor y Justicia tomará en consideración lo siguiente:
+Para la aplicación de las sanciones, la Comisión tomará en consideración lo siguiente:
 
 I. La conveniencia de suprimir prácticas que afecten a la ciudadanía o lesionen la imagen de la institución;
 
@@ -377,11 +401,11 @@ VII. La reincidencia del infractor; y,
 
 VIII. El daño o perjuicio ocasionado a terceras personas.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-Las resoluciones que dicte la Comisión de Honor y Justicia, deberán ser dictadas en términos de lo establecido por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, conforme a la letra o a la interpretación jurídica de la Ley de Seguridad, y a falta de ésta, en la Ley de Responsabilidades, y a falta de ambas, se fundará en los principios generales del derecho.
+Las resoluciones que dicte la Comisión deberán ser dictadas en términos de lo establecido por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, conforme a la letra o a la interpretación jurídica de la Ley de Seguridad y a falta de ésta, en la Ley de Responsabilidades, y a falta de ambas, se fundará en los principios generales del derecho.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -413,11 +437,11 @@ La suspensión cautelar subsistirá hasta que el asunto de que se trate quede de
 
 ### CAPITULO VII. DE LOS RECURSOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Las resoluciones absolutorias que dicte la Comisión de Honor y Justicia, podrán ser impugnadas en los términos del presente Reglamento, por el quejoso o denunciante.
+Las resoluciones absolutorias que dicte la Comisión, podrán ser impugnadas en los términos del presente Reglamento, por el quejoso o denunciante.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -486,3 +510,15 @@ P.O. 8 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO
 
 Las presentes reformas por modificación y adición del Reglamento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía y Tránsito del Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO
+
+Las presentes reformas por modificación y adición del Reglamento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
+
+SEGUNDO: Se ordena a la Secretaría del Ayuntamiento publique los presentes acuerdos en el Periódico Oficial del Estado, en la Gaceta Municipal y en el portal de Internet www.monterrey.gob.mx.
