@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2013-08-09"
+last_updated: "2013-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -2093,6 +2093,14 @@ Cuando la Tesorería acuerde la devolución por la cantidad que proceda, dictar�
 
 El Ayuntamiento podrá declarar la condonación total o parcial de un adeudo fiscal, siempre que se demuestre que, de efectuarse el cobro, el causante quedará en notorio estado de insolvencia o cuando por causa de fuerza mayor o de calamidad pública ocurrida en el Municipio, los causantes de la zona afectada hayan sufrido perjuicios que afecten seriamente su situación económica.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 139-A.
+
+El Ayuntamiento podrá realizar la condonación de multas y recargos de carácter general en un ejercicio fiscal, hasta el 100% cuando se conceda en un período de treinta días y del 50% por los siguientes treinta días.
+
+En casos particulares, podrá condonar multas y recargos hasta el 50%, cuando se compruebe que la falta de pago se motivó por penuria económica de los contribuyentes.
+
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 140.
@@ -3424,3 +3432,9 @@ P. O. 9 DE AGOSTO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
