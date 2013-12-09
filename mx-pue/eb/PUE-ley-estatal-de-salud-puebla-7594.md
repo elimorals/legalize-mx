@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2013-11-29"
+last_updated: "2013-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY ESTATAL DE SALUD, PUEBLA
 
-LEY ESTATAL DE SALUD
+LEY ESTATAL DE SALUD DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -1713,6 +1713,12 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 177 Bis.
+
+El Gobierno del Estado, a través de la Secretaría de Salud, emitirá las autorizaciones sanitarias para venta y suministro de bebidas alcohólicas, respecto de las que establecerá un sistema de registro e información para efectos, entre otros, de este Capítulo.
+
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 178.
@@ -2211,9 +2217,9 @@ Las Autoridades Sanitarias mantendrán campañas permanentes de orientación a l
 
 La autorización sanitaria es el acto administrativo mediante el cual la Autoridad Sanitaria del Estado, permite a una persona pública o privada la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine ésta Ley y demás disposiciones generales aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-Las autorizaciones sanitarias, tendrán el carácter de licencias, permisos o tarjetas de control sanitario.
+Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, tarjetas de control sanitario y el de cédula sanitaria para la venta y suministro de bebidas alcohólicas.
 
 ###### ARTICULO 261.
 
@@ -2234,6 +2240,12 @@ Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señ
 En el caso de las autorizaciones sanitarias, la solicitud de revalidación deberá presentarse dentro de los 30 días anteriores a su vencimiento.
 
 Cuando cambien de ubicación los establecimientos, requerirán de nueva autorización sanitaria.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 263 Bis.
+
+Las cédulas sanitarias para la venta y suministro de bebidas alcohólicas, garantizarán que los establecimientos cumplen con las prácticas de higiene y sanidad, las instalaciones físicas y sanitarias y demás requisitos para su actividad, en términos de los ordenamientos legales correspondientes.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2481,7 +2493,7 @@ VI. Con la impugnación a que se refiere la fracción anterior, el interesado de
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2982,3 +2994,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los servicios establecidos en la presente disposición, se prestarán conforme a la infraestructura actual y quedarán sujetos en todo caso a la disponibilidad presupuestal correspondiente.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Los municipios del Estado contarán con un plazo de sesenta días naturales, a partir de la entrada en vigor de la presente Ley, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
+
+CUARTO.- Las personas que realicen actividades de venta y suministro de bebidas alcohólicas con los permisos municipales vigentes, cuentan con un plazo de cuarenta y cinco días hábiles para obtener de la autoridad competente, la licencia o el permiso correspondiente en términos de esta Ley.
+
+QUINTO.- El Ejecutivo Estatal contará con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes, en tanto no se realicen, emitirá, por medio de la autoridad administrativa competente, las disposiciones normativas y administrativas para atender a través de la Secretaría de Salud, las solicitudes de cédulas sanitarias para la venta y suministro de bebidas alcohólicas.
