@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2013-07-16"
+last_updated: "2013-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -2523,13 +2523,17 @@ II. Los oficios que dirija el Gobernador, las Legislaturas de los Estados, los P
 
 III. Por acuerdo del Pleno, a petición de alguno de sus integrantes, las disposiciones administrativas o disciplinarias que afecten el orden interno del Congreso; la moción a diputados, así como del cumplimiento de los deberes de unos y otros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 225.
 
-Son materia de Sesión Solemne:
+Las asambleas a las que se convoque como Sesión Solemne, serán aquéllas en las que:
 
 I. Se tome la protesta a los diputados locales y se instale la Legislatura;
 
-II. Rinda la protesta de ley el titular del Poder Ejecutivo del Estado, al asumir su cargo;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+II. Rinda la protesta de ley el Titular del Poder Ejecutivo del Estado, al asumir su cargo;
 
 III. Asista el Presidente de la República;
 
@@ -2544,6 +2548,10 @@ VII. Se rinda el informe de actividades del Congreso del Estado; y,
 VIII. Las demás señaladas en algún ordenamiento jurídico.
 
 El Presidente del Congreso girará invitaciones a quien considere conveniente.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+Al inicio del pase de lista de las sesiones solemnes a las que acudan los tres poderes, el Segundo Secretario deberá nombrar al ilustre Generalísimo Don José María Morelos y Pavón, como Diputado Honorífico del Congreso del Estado, a lo que los diputados presentes de manera respetuosa contestarán a una sola voz, «presente».
 
 ###### ARTÍCULO 226.
 
@@ -3396,3 +3404,9 @@ P.O. 16 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- El Congreso del Estado, dentro de los noventa días naturales siguientes contados a partir de la fecha de entrada en vigor de este Decreto, a propuesta de la Comisión de Turismo, aprobará los lineamientos con base a los cuáles se otorgue la condecoración materia del artículo 49 de la Ley de Turismo del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, en los términos del artículo 42 de la Constitución Política del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
