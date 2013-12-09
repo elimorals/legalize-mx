@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-para-adolescentes-del-estado-de-oaxaca-52027"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2010-03-13"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -401,9 +401,9 @@ Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el a
 
 Procedencia
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-Con excepción de los delitos previstos en los incisos a), c), d), e), f) g) e i) de la fracción I y los incisos b), c), g). j), m); n), y o), de la fracción II del artículo 93 de esta Ley (privación de la libertad en un centre especializado), en los demás casos procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto a apertura a Juicio.
+Con excepción de los delitos previstos en el párrafo segundo y la fracción tercera del párrafo tercero, ambos del artículo 475 de la ley General de Salud, así como en los incisos a), c), e), f), g) e i) de la fracción I y los incisos b), c), g), j), m), n) y o), de la fracción II del artículo 93 de esta ley, en los demás casos procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto a apertura a juicio.
 
 ###### Artículo 43.
 
@@ -914,6 +914,8 @@ No puede dictarse por un plazo inferior a dos ni superior a seis meses.
 Privación de la libertad en régimen semi-abierto
 
 La privación de la libertad en régimen semi-abierto consiste en la obligación del adolescente de residir en el centro especializado pudiendo realizar fuera del mismo actividades formativas, educativas, laborales y de ocio que serán parte del Programa Individual de Ejecución.
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 9 DE DICIEMBRE DE 2013, SE ADVIERTE QUE CORRESPONDEN A LAS PARTES NO VETADAS POR EL TITULAR DEL PODER EJECUTIVO.</small>
 
 ###### Artículo 93.
 
@@ -1630,3 +1632,9 @@ P.O. 12 DE ABRIL DE 2008.
 P. O. 13 DE MARZO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
