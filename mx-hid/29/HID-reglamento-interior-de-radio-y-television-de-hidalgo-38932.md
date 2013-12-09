@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-radio-y-television-de-hidalgo-38932"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-26"
-last_updated: "2004-04-26"
+last_updated: "2013-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE RADIO Y TELEVISION DE HIDALGO
 
-REGLAMENTO INTERIOR DE RADIO Y TELEVISION DE HIDALGO
+REGLAMENTO INTERIOR DE RADIO Y TELEVISIÓN DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE RADIO Y TELEVISIÓN DE HIDALGO, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de abril de 2004.
 
@@ -498,3 +500,19 @@ COORDINACION GENERAL JURIDICO
 LIC. JORGE ROJO GARCIA DE ALBA
 
 SECRETARIO DE DESPACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Estatuto Orgánico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de Radio y Televisión de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo, el 26 de abril del 2004, quedando sin efecto todas las disposiciones legales que se opongan al presente Estatuto Orgánico.
+
+TERCERO.- Los aspectos no previstos en este Estatuto Orgánico, serán resueltos por los integrantes de la Junta de Gobierno de Radio y Televisión de Hidalgo.
+
+CUARTO.- Los acuerdos, circulares y demás disposiciones emitidas por la Dirección General antes y durante la autorización de este Estatuto, tendrán plena validez, siempre y cuando no se opongan al mismo.
+
+QUINTO.- En tanto se expidan los manuales de organización y de procedimientos, que en este Estatuto se mencionan, el Director General resolverá las cuestiones que conforme a dichos manuales se deba regular.
+
+SEXTO.- El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados en términos de lo que establezca la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado de Hidalgo.
