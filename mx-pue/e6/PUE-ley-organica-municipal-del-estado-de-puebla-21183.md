@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2013-11-20"
+last_updated: "2013-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1447,13 +1447,17 @@ LXII.- Promover la contratación de personas en contexto de vulnerabilidad en el
 
 LXIII.- Actualizar sus marcos normativos de conformidad con sus atribuciones;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-LXIV.- Formular y conducir la política municipal sobre conservación y aprovechamiento sustentable de la vida silvestre en el Municipio, además de las atribuciones que le otorgue la Ley de Protección a los Animales para el Estado de Puebla; y
+LXIV.- Formular y conducir la política municipal sobre conservación y aprovechamiento sustentable de la vida silvestre en el Municipio, además de las atribuciones que le otorgue la Ley de Protección a los Animales para el Estado de Puebla;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
-LXV.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+LXV.- Otorgar, previos requisitos de ley, las licencias o permisos provisionales para venta y suministro de bebidas alcohólicas; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
+LXVI.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -2471,7 +2475,7 @@ XXV.- Auxiliar y representar, en su caso, al Presidente Municipal ante las insta
 
 XXVI.- Proporcionar al auditor externo que designe el Ayuntamiento la información que requiera;
 
-XXVII.- Cumplir, en el control interno de los recursos públicos que ejerzan las Juntas Auxiliares, con las normas, procedimientos, métodos y sistemas contables y de auditoría que el efecto establezca al Órgano de Fiscalización Superior del Estado; y
+XXVII.- Cumplir, en el control interno de los recursos públicos que ejerzan las Juntas Auxiliares, con las normas, procedimientos, métodos y sistemas contables y de auditoría que al efecto establezca el Órgano de Fiscalización Superior del Estado; y
 
 XXVIII.- Las demás que le confieran esta Ley y disposiciones aplicables.
 
@@ -3429,7 +3433,7 @@ Las partes podrán alegar verbalmente, pero sin exigir que sus alegaciones se ha
 
 Es admisible toda clase de pruebas, excepto la de posiciones y las que fueren contrarias al derecho, a la moral y a las buenas costumbres.
 
-Sólo se admitirán las pruebas ofrecidas por las partes antes de la celebración de la audiencia, de lo contrario, carecerán en absoluto de valor probatorio, salvo que se trate de documentos de fecha posterior a su ofrecimiento, o de aquéllos cuya existencia ignoraba el que los presente; y los que no hubiere adquirido con anterioridad.
+Solo se admitirán las pruebas ofrecidas por las partes antes de la celebración de la audiencia, de lo contrario, carecerán en absoluto de valor probatorio, salvo que se trate de documentos de fecha posterior a su ofrecimiento, o de aquéllos cuya existencia ignoraba el que los presente; y los que no hubiere adquirido con anterioridad.
 
 La audiencia y la recepción de pruebas serán públicas.
 
@@ -3606,3 +3610,15 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Los municipios del Estado contarán con un plazo de sesenta días naturales, a partir de la entrada en vigor de la presente Ley, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
+
+CUARTO.- Las personas que realicen actividades de venta y suministro de bebidas alcohólicas con los permisos municipales vigentes, cuentan con un plazo de cuarenta y cinco días hábiles para obtener de la autoridad competente, la licencia o el permiso correspondiente en términos de esta Ley.
+
+QUINTO.- El Ejecutivo Estatal contará con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes, en tanto no se realicen, emitirá, por medio de la autoridad administrativa competente, las disposiciones normativas y administrativas para atender a través de la Secretaría de Salud, las solicitudes de cédulas sanitarias para la venta y suministro de bebidas alcohólicas.
