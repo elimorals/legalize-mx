@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-838
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-15"
-last_updated: "2011-11-15"
+last_updated: "2013-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE PERIBAN, MICHOACAN
 
-REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE PERIBAN, MICHOACAN
+REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE PERIBÁN, MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN DEL MUNICIPIO DE PERIBÁN, MICHOACÁN, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 15 de noviembre de 2011.
 
@@ -336,3 +338,15 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
 
 Peribán, Michoacán, a los 28, veintiocho, días del mes de octubre del año 2011, dos mil once.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo, y para el conocimiento de todo gobernado publíquese en los estrados del Palacio Municipal, de las tenencias, en los diarios de mayor circulación del Municipio, en la página de Internet oficial del Ayuntamiento.
+
+Artículo Segundo.- Se abroga el Reglamento para ejercer el derecho a la información ante el H. Ayuntamiento de Peribán, Michoacán publicado en el Periódico Oficial del Estado de Michoacán de Ocampo el 13 de octubre de 2011 dos mil once (sic).
+
+Artículo Tercero.- El Ayuntamiento de Peribán, Michoacán, deberá crear dentro de un plazo no mayor de noventa días naturales, contados a partir de la vigencia de éste Reglamento, el Comité a que se refiere el presente.
+
+Artículo Cuarto.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado, al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información del Estado de Michoacán de Ocampo para su conocimiento y efectos legales conducentes.
