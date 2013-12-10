@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-general-de-archivos-del-poder-judicial-del-93235"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-21"
-last_updated: "2013-02-21"
+last_updated: "2013-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de febrero de 2013.
 
@@ -1048,3 +1050,21 @@ LICENCIADO CARLOS ALEJANDRO PONCE RODRÍGUEZ
 SECRETARIO EJECUTIVO DE PLENO Y CARRERA JUDICIAL
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 10 DE DICIEMBRE DE 2013.
+
+PRIMERO. Publíquese el presente reglamento en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Reglamento General de Archivos entrará en vigor el 1º primero de enero del año 2014 dos mil catorce.
+
+TERCERO. La persona titular de la Dirección del Archivo Judicial, con auxilio del Área de Organización y Métodos y bajo la supervisión del Secretariado Ejecutivo de Vigilancia y Disciplina, iniciarán la reorganización de las funciones y procedimientos que realiza el personal del Archivo y la Coordinación.
+
+Además de lo anterior en un periodo que no exceda de cuatro meses deberán ser modificados los manuales de organización y procedimientos, así como los instrumentos de control archivístico para adecuarlos a la organización que el presente Reglamento dispone, incluyendo los lineamientos y políticas que regulen el servicio de préstamo y consulta de documentos.
+
+CUARTO. Se abroga: el Reglamento General de Archivos, publicado en edición extraordinaria del Periódico Oficial del Estado el 21 veintiuno de febrero del 2013 dos mil trece.
+
+QUINTO.- Gírese oficio circular a todos los órganos judiciales para informarles sobre la expedición del presente y désele la más amplia publicidad en el Portal de Transparencia del Poder Judicial.
+
+SEXTO. A partir del nombramiento de la persona encargada del archivo histórico, este servidor judicial deberá realizar un diagnóstico de las condiciones de los documentos con valor histórico con los que cuenta la institución y propondrá las medidas necesarias para dar cumplimiento a lo que señala la Ley de Archivos.
