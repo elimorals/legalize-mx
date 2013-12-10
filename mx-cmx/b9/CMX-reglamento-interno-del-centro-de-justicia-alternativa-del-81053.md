@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-centro-de-justicia-alternativa-del-81053
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-29"
-last_updated: "2011-04-29"
+last_updated: "2013-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81053&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-03-29"
 
 REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 10 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 29 de abril de 2011.
 
@@ -1039,3 +1041,29 @@ EL ENCARGADO DE LA SECRETARÍA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO
 (Firma)
 
 MTRO ALFREDO ÁLVAREZ CÁRDENAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. DE 10 DE DICIEMBRE DE 2013.
+
+Primera. El presente Acuerdo de Reforma Integral al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal entrará en vigor el día de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+Segunda. Se abroga el Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal aprobado por el Consejo de la Judicatura del Distrito Federal mediante Acuerdo 26-16/2011, y su reforma aprobada por el referido Consejo de la Judicatura del Distrito Federal mediante Acuerdo 39-08/2012 y se derogan las disposiciones que se opongan al presente Acuerdo.
+
+Tercera. El Centro realizará las acciones necesarias para que los mediadores privados, y los Módulos de Mediación, inicien su funcionamiento conforme a lo dispuesto en la Ley, las Reglas y este Reglamento.
+
+Cuarta. En un plazo no mayor a tres meses a partir de la entrada en vigor del presente Acuerdo, el Centro y el Instituto habrán de diseñar e impartir el curso de capacitación y actualización a que se refiere el Quinto Transitorio del Decreto por el que se Reforman, Adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, del Código de Procedimientos Civiles para el Distrito Federal, de la Ley Registral del Distrito Federal, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal y de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 19 de junio de 2013. Dicho curso será de carácter obligatorio para los mediadores privados certificados con anterioridad a la fecha del decreto mencionado.
+
+Durante el tiempo que transcurra entre la publicación del presente acuerdo y la publicación del acuerdo de Certificación y Registro correspondiente, los mediadores privados con Certificación y Registro vigente deberán continuar en la prestación del servicio Privado de mediación en los términos de las disposiciones legales aplicables al momento de la expedición de su Certificado y Registro. Sin embargo, su registro quedará suspendido si omiten participar en el curso a que se refiere el párrafo anterior y se sujetarán a lo previsto en el artículo 121, tercer párrafo del Reglamento.
+
+Quinta. La garantía que deberán otorgar los mediadores privados Certificados por el Centro a que se refiere la fracción I del artículo 43 de la Ley y 92 fracción I del Reglamento, será por el equivalente a 3,500 veces el salario mínimo general vigente en el Distrito Federal a favor del Tribunal Superior de Justicia del Distrito Federal.
+
+Por única ocasión los mediadores privados con certificación y registro vigente a que se refiere el párrafo anterior, dispondrán de noventa días hábiles, a partir de la expedición de su respectivo Certificado y Registro o Refrendo, según corresponda, para otorgar la garantía a que se refiere la fracción I del artículo 43 de la Ley.
+
+Sexta. El Centro deberá coordinarse con las dependencias a que se refiere la fracción III del artículo 43 de la Ley para que, por esta única ocasión, los mediadores privados con certificación y registro vigente puedan dar cumplimiento en conjunto y de forma escalonada a las disposiciones relativas en un plazo prudente.
+
+Séptima. Por única ocasión la vigencia de tres años de la Certificación y Registro de los mediadores privados que se encuentre vigente al momento de la publicación del presente acuerdo, se contará a partir de la fecha de su certificación o renovación de la certificación vigente según corresponda y hasta por tres años contados a partir de esa fecha.
+
+Octava. Para mayor difusión publíquese el presente Acuerdo en la Gaceta Oficial del Distrito Federal.
+
+Novena. Lo dispuesto en las fracciones V, VI y VII del artículo 5, así como las demás disposiciones del Reglamento relacionadas con la Dirección de Mediación Privada y de Registro de Mediadores y Convenios; así como a las Unidades de Inscripción y Archivo de Convenios de Mediación, y la de Atención al Público; quedará sujeto a la aprobación del Dictamen de Reestructura correspondiente, mismo que deberá ser presentado propuesto y considerado en estricto apego a la normatividad aplicable y a la suficiencia presupuestal respectiva. Para tal efecto el Director General del Centro de Justicia Alternativa, de conformidad con los procedimientos establecidos en la normativa aplicable y, a la brevedad posible, deberá presentar a la Oficialía Mayor, la propuesta de reestructura respectiva, para que a través de las áreas que corresponda, se realice el análisis de viabilidad, técnica, estructural y presupuestal, y en caso de así proceder, se considere dicha reestructura dentro del proyecto de presupuesto para el ejercicio 2014.
