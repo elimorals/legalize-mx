@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2013-11-29"
+last_updated: "2013-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -599,9 +599,11 @@ El Presidente saliente, o la persona que los sustituya, replicará: "Si no lo hi
 
 A continuación el nuevo Presidente declarará: "Queda legítimamente instalado el Ayuntamiento del Municipio de ........................... que funcionará el trienio ............
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 38.
 
-Formulada la declaratoria a que se refiere el artículo anterior el Presidente dará lectura a las bases del programa de trabajo que desarrollará el Ayuntamiento durante el período de su gestión, sin perjuicio del Plan de Desarrollo del Municipio del trienio que deberá expedirse a más tardar el 28 de febrero siguiente.
+Formulada la declaratoria a que se refiere el artículo anterior el Presidente dará lectura a las bases del programa de trabajo que desarrollará el Ayuntamiento durante el período de su gestión, sin perjuicio del Plan de Desarrollo del Municipio del trienio que deberá expedirse a más tardar el 28 de diciembre del año en que entren en funciones.
 
 ### CAPITULO III
 
@@ -3754,3 +3756,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los artículos antes citados derogan todas las disposiciones que se opongan a él.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
+
+P.O. 10 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y publicación en el Periódico Oficial del Estado de Guerrero.
