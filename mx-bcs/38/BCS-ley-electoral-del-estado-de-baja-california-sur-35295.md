@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2010-04-30"
+last_updated: "2013-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -49,7 +49,9 @@ Las disposiciones de esta Ley son de orden público y de observancia general en 
 
 La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, de carácter permanente, denominado Instituto Estatal Electoral de Baja California Sur; dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Poder Legislativo del Estado, los Partidos Políticos Nacionales y Estatales y los ciudadanos en los términos que ordene esta Ley.
 
-La certeza, legalidad, independencia, equidad, imparcialidad y objetividad serán principios rectores en el ejercicio de esta función.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+Serán principios rectores en el ejercicio de esta función, la certeza, legalidad, independencia, equidad, imparcialidad, objetividad, definitividad e igualdad.
 
 ###### ARTÍCULO 3.
 
@@ -69,9 +71,15 @@ En cumplimiento con lo dispuesto por el segundo párrafo del artículo 4º de la
 
 #### SECCIÓN PRIMERA. DE LOS DERECHOS
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-El sufragio expresa la voluntad soberana del pueblo de Baja California Sur. Votar en las elecciones constituye un derecho y una obligación de los ciudadanos que se ejerce para cumplir la función pública de integrar los órganos de elección popular del Estado y Municipios. El voto es universal, libre, secreto, directo, personal e intransferible.
+El sufragio expresa la voluntad soberana del pueblo de Baja California Sur.
+
+Votar y ser votado en las elecciones constituye un derecho y una obligación de los ciudadanos, mismos que deben darse en igualdad de oportunidades y equidad entre mujeres y hombres, y que se ejercen para cumplir la función pública de integrar los órganos de elección popular del Estado y municipios.
+
+El voto es universal, libre, secreto, directo, personal e intransferible.
 
 ###### ARTÍCULO 7.
 
@@ -247,7 +255,7 @@ Por cada miembro de los Ayuntamientos habrá un suplente.
 
 Las elecciones ordinarias de Diputados al Congreso del Estado y de los miembros de los Ayuntamientos se celebrarán cada tres años; las de Gobernador del Estado se efectuarán cada seis años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -295,9 +303,17 @@ I.- Propiciar la articulación social y la participación democrática de los ci
 
 II.- Promover la formación ideológica y política de sus militantes, para hacer posible el acceso de éstos al ejercicio del poder público;
 
-III.- Coordinar actividades políticas conforme a sus programas de acuerdo a sus principios; y
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
 
-IV.- Estimular discusiones sobre intereses comunes y deliberaciones sobre objetivos estatales y municipales a fin de establecer vínculos permanentes entre la opinión ciudadana y los poderes públicos.
+III. - Coordinar actividades políticas conforme a sus programas de acuerdo a sus principios;
+
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+IV.- Estimular discusiones sobre intereses comunes y deliberaciones sobre objetivos estatales y municipales a fin de establecer vínculos permanentes entre la opinión ciudadana y los poderes públicos; y
+
+> <small>(ADICIONADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+V.- Adoptar medidas que garanticen la igualdad de oportunidades y equidad entre hombres y mujeres.
 
 ###### ARTÍCULO 30.
 
@@ -381,7 +397,7 @@ I.- La denominación propia y distinta a la de otros partidos políticos registr
 
 II.- Los procedimientos para la afiliación individual libre, pacífica y voluntaria de sus miembros, así como sus derechos y obligaciones; Dentro de los derechos se incluirán el de participar personalmente o por medio de delegados en asambleas y convenciones, y el de poder ser integrante de los órganos directivos;
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE MARZO DE 2010)</small>
 
 III.- Los procedimientos democráticos para la integración y renovación de los órganos directivos así como las funciones, facultades y obligaciones de los mismos. Entre sus órganos deberá contar, cuando menos, con los siguientes:
 
@@ -411,7 +427,7 @@ VI.- La obligación de presentar una plataforma electoral mínima para cada elec
 
 VII.- Las sanciones aplicables a los afiliados que infrinjan sus disposiciones internas y los correspondientes medios y procedimientos de defensa, así como los órganos partidarios permanentes encargados de la sustanciación y resolución de las controversias. Las instancias de resolución de conflictos internos nunca serán más de dos, a efecto de que las resoluciones se emitan de manera pronta y expedita.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 12 DE MARZO DE 2010)</small>
 
 ### CAPÍTULO II. DEL INICIO DE LOS PROCESOS INTERNOS Y DE LAS PRECAMPAÑAS
 
@@ -511,7 +527,7 @@ VIII.- Solicitar al Instituto Estatal Electoral que investigue las actividades d
 
 IX.- Aportando elementos de prueba, podrá solicitar al Consejo General del Instituto Estatal Electoral que promueva la investigación de las actividades de otros partidos políticos o de alguna agrupación política cuando incumplan sus obligaciones de manera grave o sistemática; y (sic)
 
-> <small>(REFORMADA [N.DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2007)</small>
 
 X.- Participar en los debates, foros, mesas redondas y demás eventos organizados por el Instituto;
 
@@ -545,7 +561,9 @@ VII.- Comunicar al Instituto Estatal Electoral cualquier modificación a su decl
 
 VIII.- Publicar y difundir en las demarcaciones electorales en que participen, la plataforma electoral que el partido y sus candidatos sostendrán en la elección de que se trate;
 
-IX.- Garantizar la participación y la equidad entre hombres y mujeres en las oportunidades políticas;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+IX.- Garantizar la participación, la igualdad de oportunidades y la equidad entre mujeres y hombres, así como procurar la paridad de los géneros en la vida política del Estado y sus municipios, en sus órganos de dirección y en la postulación de candidaturas a los diferentes cargos de elección popular;
 
 X.- Registrar a sus candidatos ante los organismos electorales que proceda, conforme a lo dispuesto en la presente Ley;
 
@@ -563,9 +581,15 @@ XIII BIS.- Aplicar el financiamiento de que dispongan, por cualquiera de las mod
 
 XIV.- Brindar el apoyo necesario que se requiera para la práctica de las auditorias y verificaciones que ordene el Instituto Estatal Electoral a través de la Comisión de Fiscalización del Financiamiento de los Partidos Políticos;
 
-XV.- Coadyuvar con las autoridades competentes para que se retire, dentro de los treinta días siguientes al día de la elección en que participen, la propaganda que en apoyo de sus candidatos hubieren fijado, pintado, instalado o emitido; y
+XV.- Coadyuvar con las autoridades competentes para que se retire, dentro de los treinta días siguientes al día de la elección en que participen, la propaganda que en apoyo de sus candidatos hubieren fijado, pintado, instalado o emitido; y (sic)
 
-XVI.- Las demás que establezca esta Ley.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Aplicar el 5 por ciento de su financiamiento público a fomentar el liderazgo político de las mujeres a través de acciones de capacitación, promoción y desarrollo; y
+
+> <small>(ADICIONADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+XVII.- Las demás que establezca la presente Ley.
 
 ###### ARTÍCULO 47.
 
@@ -715,9 +739,9 @@ a) La educación y capacitación política, investigación socioeconómica y pol
 
 b) El Consejo General del Instituto Estatal Electoral otorgará apoyos para las actividades referidas en el inciso anterior hasta por un 15% del monto que represente la cantidad anual que le corresponda al partido político por financiamiento público para sus actividades ordinarias permanentes;
 
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
 
-De la cantidad obtenida con base al porcentaje que refiere el párrafo anterior, cada partido político deberá destinar anualmente hasta una tercera parte, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres y jóvenes;
+Los partidos políticos garantizarán la aplicación de un 5 por ciento de su financiamiento anual para la capacitación, promoción y desarrollo del liderazgo político de las mujeres y jóvenes, el cual deberá ejercerse con base a las disposiciones reglamentarias que para tal efecto emita el Instituto Estatal Electoral.
 
 c) Las cantidades que en su caso se determinen para cada partido político serán entregadas previa comprobación de los gastos que por las actividades a que se refiere el inciso a) de esta fracción hubieren erogado; y
 
@@ -1101,7 +1125,7 @@ b).- Por haberse cumplido el término en que se convino su disolución; o
 
 c).- Por dejar de satisfacer los requisitos necesarios para su registro o incumplir las obligaciones que le fija esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 83.
 
@@ -1181,13 +1205,19 @@ Los Comités Distritales y Municipales Electorales formarán parte de la estruct
 
 El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, serán electos por el Congreso del Estado, conforme a las siguientes bases:
 
-I.- Cada fracción parlamentaria tendrá derecho a presentar una lista de hasta cinco candidatos;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+I.- Cada fracción parlamentaria tendrá derecho a presentar una lista de hasta cinco candidatos. En la formulación de propuestas deberá observarse el principio de igualdad entre los géneros, de tal forma que se promueva la participación equitativa de hombres y mujeres en los cargos que serán ocupados.
 
 II.- Una Comisión Especial integrada de manera plural por las fracciones parlamentarias que al efecto designe el Pleno del Congreso del Estado elaborará una lista de candidatos hasta por el doble del número a elegir, de entre los propuestos de acuerdo a la fracción anterior;
 
 III.- De esta lista, la mencionada Comisión examinará si los candidatos propuestos cumplen los requisitos de elegibilidad establecidos en la presente Ley y elaborará un dictamen en el que se contenga la fórmula de Consejero Presidente y Consejeros Electorales propietarios y suplentes. El Congreso del Estado elegirá al Consejero Presidente y a los Consejeros Electorales, de manera individual y sucesiva, por el voto de las dos terceras partes de sus miembros presentes;
 
 IV.- Si realizadas dos rondas de votación no se cubrieran la totalidad de Consejeros a elegir, la Comisión Especial deberá presentar una nueva lista hasta por el doble de los Consejeros faltantes con candidatos distintos a los que hubieren sido propuestos, de acuerdo a lo establecido en la fracción I de este artículo para realizar su elección por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Si de nueva cuenta no se lograre dicha votación, se procederá a la designación mediante insaculación de la lista a que se refiere esta fracción.
+
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+V.- En todo caso, en la conformación del Consejo General no podrá haber más de las dos terceras partes de integrantes de un mismo género.
 
 > <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1255,7 +1285,7 @@ El Secretario General, además de cumplir con los requisitos a que se refiere el
 
 El Secretario General del Instituto Estatal Electoral sólo podrá ser removido de su cargo a propuesta de un integrante del Consejo General, hecha ante el Pleno del Consejo General, y aprobada la misma por la mayoría de votos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 94.
 
@@ -1277,9 +1307,9 @@ II.- Conminar a abandonar el local; y
 
 III.- Solicitar, de ser necesario, el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 96.
 
@@ -1317,7 +1347,11 @@ I.- Confirmar ante el Instituto Federal Electoral la vigencia del registro de lo
 
 II.- Expedir las constancias de registro de partidos políticos y asociaciones políticas que hubieren satisfecho los requisitos exigidos en la presente Ley o, en su caso, cancelarlas en los términos de este ordenamiento;
 
-III.- Registrar los programas, declaración de principios, estatutos y plataforma electoral mínima de los partidos políticos, así como vigilar su cumplimiento en la realización de las campañas electorales de acuerdo a los términos establecidos por esta Ley;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+III.- Registrar los programas, declaración de principios, estatutos y plataforma electoral mínima de los partidos políticos, así como vigilar su cumplimiento en la realización de las campañas electorales de acuerdo a los términos fijados por la presente Ley;
+
+De igual forma, deberá vigilar que en la totalidad de solicitudes de registro de candidaturas a diputados de mayoría relativa, así como de las planillas que conforman los ayuntamientos, que presenten los partidos políticos o coaliciones, ante el órgano electoral respectivo, se cumpla con el cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto.
 
 IV.- Resolver sobre las peticiones, consultas y controversias que le presenten los ciudadanos y partidos políticos registrados o acreditados, relativas al funcionamiento de este organismo y de los órganos que integran el mismo y demás asuntos de su competencia;
 
@@ -1403,9 +1437,9 @@ XLI.- Recibir la información sobre los cómputos y expedición de las constanci
 
 XLII.- Contar directamente o por medio de sus órganos, con el auxilio de la fuerza pública necesaria para garantizar en los términos de esta Ley, el desarrollo del proceso electoral;
 
-> <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
 
-XLIII.- Diseñar, desarrollar, ejecutar y evaluar programas y actividades que promuevan y difundan los principios y valores de la cultura democrática y fortalezcan la educación cívica en la entidad; deberá organizar dentro de la campaña electoral debates, foros, mesas redondas y demás eventos que fortalezcan la difusión de las plataformas electorales de partidos y candidatos, y en los que participarán los candidatos a Gobernador del Estado y Presidentes Municipales; así como ordenar la realización de encuestas estatales basadas en actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral. Los resultados de dichos estudios deberán ser difundidos por el consejero presidente, previa aprobación del Consejo General, después de las veintidós horas del día de la jornada electoral;
+XLIII.- Diseñar, desarrollar, ejecutar y evaluar programas y actividades que promuevan y difundan los principios y valores de la cultura democrática y fortalezcan la educación cívica en la entidad, las cuales deberán promover la participación política en igualdad de oportunidades y equidad entre hombres y mujeres; deberá organizar dentro de la campaña electoral debates, foros, mesas redondas y demás eventos que fortalezcan la difusión de las plataformas electorales de partidos y candidatos, y en los que participarán los candidatos a Gobernador del Estado y presidentes municipales; así como ordenar la realización de encuestas estatales basadas en actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral. Los resultados de dichos estudios deberán ser difundidos por el consejero presidente, previa aprobación del Consejo General después de las veintidós horas del día de la jornada electoral;
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1513,6 +1547,10 @@ I.- Llevar y mantener actualizado el registro de los partidos políticos que hub
 
 II.- Recibir del Secretario General las solicitudes de registros de candidatos que competan al Instituto Estatal Electoral, así como recibir supletoriamente las que correspondan a los Comités Distritales Electorales en los términos de esta Ley;
 
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+Así mismo, informar al Consejo sobre el grado de cumplimiento de los partidos políticos y coaliciones, de la obligación de registrar el cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto para la elección de diputados de mayoría relativa y de planillas de los ayuntamientos.
+
 III.- Llevar el registro, calendario y seguimiento de las prerrogativas otorgadas a los partidos políticos o coaliciones;
 
 IV.- Expedir las constancias de la vigencia de los registros de los partidos políticos que hubiesen acreditado cumplir con los requisitos previstos en esta Ley, así como de los convenios de coalición, frentes, fusiones y candidaturas comunes;
@@ -1527,7 +1565,9 @@ VII.- Las demás que determine el Reglamento Interior.
 
 A la Comisión de Capacitación Electoral y Educación Cívica, le corresponden las siguientes funciones:
 
-I.- Elaborar y proponer al Consejo General del Instituto Estatal Electoral los programas de capacitación electoral y educación cívica;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+I.- Elaborar y proponer al Consejo General del Instituto Estatal Electoral los programas de capacitación electoral y educación cívica, destacándose la promoción y defensa de los derechos políticos de las mujeres;
 
 II.- Coordinar la capacitación de los funcionarios electorales, así como de los observadores electorales;
 
@@ -1587,9 +1627,9 @@ VII.- Las demás que se determinen (sic) el reglamento interior o por acuerdo de
 
 Los Comités Municipales Electorales son los órganos del Instituto Estatal Electoral encargados de la preparación, desarrollo y vigilancia del proceso electoral en la elección de Ayuntamientos, en el ámbito de su competencia conforme a lo estipulado en esta Ley y los acuerdos que emita el Consejo General del Instituto Estatal Electoral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 108.
 
@@ -1601,7 +1641,7 @@ A partir de esta fecha y hasta el término del proceso electoral sesionarán por
 
 Los Comités Municipales Electorales se integrarán de la siguiente manera:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1645,7 +1685,7 @@ IX.- Gozar de buena reputación y no haber sido condenado por delito doloso.
 
 Las vacantes del Consejero Presidente o de los Consejeros Electorales propietarios serán cubiertas por los suplentes respectivos; en caso de continuar dichas vacantes deberán ser cubiertas conforme a lo establecido en las fracciones VIII del artículo 99 y VI del artículo 100 de la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1669,7 +1709,9 @@ I.- Vigilar la observancia de esta Ley y las disposiciones que dicte el Consejo 
 
 II.- Intervenir en los términos de esta Ley, dentro del Municipio de que se trate, en la preparación, desarrollo y vigilancia del proceso electoral;
 
-III.- Recibir las solicitudes de registro de las planillas para miembros de Ayuntamientos, para su aprobación y registro en su caso, informando de ello al Instituto Estatal Electoral;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+III.- Recibir las solicitudes de registro de las planillas para miembros de Ayuntamientos, para su aprobación y registro en su caso, vigilando el estricto cumplimiento de la obligación de los partidos políticos y coaliciones de proponer el cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto e informando de ello al Instituto Estatal Electoral;
 
 IV.- Conocer de los acuerdos de los Comités Distritales Electorales respecto del número y ubicación de casillas, así como de la integración de las mesas directivas correspondientes;
 
@@ -1729,7 +1771,7 @@ Los Comités Distritales Electorales son los órganos del Instituto Estatal Elec
 
 En cada Distrito Electoral en que se divida el territorio del Estado funcionará un Comité Distrital Electoral, con domicilio legal en el mismo, que será determinado por el Consejo General del Instituto Estatal Electoral, el cual ejercerá sus funciones sólo durante el proceso electoral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1739,7 +1781,7 @@ Se instalarán a más tardar el día veinticuatro de enero del año de la elecci
 
 Los Comités Distritales Electorales se integrarán de la siguiente manera:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1769,7 +1811,9 @@ Los Comités Distritales Electorales tendrán las siguientes atribuciones:
 
 I.- Vigilar la observancia de esta Ley y de las disposiciones que dicte el Instituto Estatal Electoral;
 
-II.- Recibir las solicitudes de registro de las fórmulas de candidatos a Diputados por el principio de mayoría relativa, para su aprobación y registro en su caso, informando de ello al Instituto Estatal Electoral;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+II.- Recibir las solicitudes de registro de las formulas de candidatos a diputados por el principio de mayoría relativa, para su aprobación y registro en su caso, vigilando el estricto cumplimiento de la obligación de los partidos políticos y coaliciones de proponer el cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del genero opuesto e informando de ello al Instituto Estatal Electoral;
 
 III.- Registrar los nombramientos de los representantes generales y de casilla de los partidos políticos que se efectúen en los términos de esta Ley y expedir, en su caso, la identificación para los mismos en un plazo máximo de setenta y dos horas a partir de su registro, siempre y cuando cumplan los requisitos establecidos en esta Ley, debiendo informar de ello a los Comités Municipales Electorales;
 
@@ -1839,7 +1883,7 @@ V.- Supervisar la administración de los recursos humanos, materiales y financie
 
 VI.- Las demás que le confiera esta Ley y el propio órgano electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 125.
 
@@ -1891,13 +1935,13 @@ Las mesas directivas de casilla se integrarán con un presidente, un secretario,
 
 El procedimiento para designar a los integrantes de las mesas directivas de casilla se sujetará a las siguientes disposiciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
 I.- Recibida la información del número de ciudadanos empadronados en la lista nominal de las secciones comprendidas en el Distrito Electoral uninominal de que se trate, el Comité Distrital Electoral respectivo celebrará, a más tardar el día trece de febrero del año de la elección, una sesión en la que su Presidente presentará al pleno del Comité el proyecto del número de casillas a instalarse, para su aprobación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -1905,7 +1949,7 @@ II.- Del catorce al dieciocho de febrero del año de la elección, los Comités 
 
 III.- Los Comités Distritales harán una evaluación objetiva para seleccionar de entre dichos ciudadanos a los que resulten aptos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, Y RESPECTO A LAS ELECCIONES A CELEBRARSE EN EL AÑO 2011, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -2011,7 +2055,7 @@ Los partidos políticos o coaliciones podrán designar representantes ante las m
 
 ### CAPÍTULO ÚNICO. DEL CONVENIO PARA LA PRESTACIÓN DEL SERVICIO DEL REGISTRO DE ELECTORES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 140.
 
@@ -2307,9 +2351,15 @@ I.- Ante el Comité Distrital Electoral respectivo, las fórmulas de candidatos 
 
 II.- Las candidaturas para el cargo de Gobernador del Estado, ante el Instituto Estatal Electoral; y
 
-IV.- Las planillas de candidatos a integrantes de Ayuntamiento, ante el Comité Municipal Electoral respectivo.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES FRACCIÓN IV], B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+III.- Las planillas de candidatos a integrantes de ayuntamiento, ante el Comité Municipal Electoral respectivo.
 
 El registro de fórmulas de candidatos a Diputados de Mayoría Relativa y de planillas para miembros de Ayuntamiento podrá realizarse de manera supletoria, ante el Instituto Estatal Electoral, cuando por causas de fuerza mayor o circunstancias fortuitas los Comités Distritales o Municipales no realicen el registro de que se trate. La supletoriedad también procederá cuando exista negativa de registro por parte de los Comités Distritales o Municipales o en cualquier caso en que de acuerdo con la Ley en la materia se conceda a los partidos políticos o coaliciones algún recurso.
+
+> <small>(ADICIONADO TERCER PÁRRAFO DE LA FRACCIÓN III, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+De la totalidad de solicitudes de registro que presenten los partidos políticos o coaliciones, tanto de candidaturas a diputados de mayoría relativa así como de planillas de miembros de ayuntamientos, deberán integrarse con un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto.
 
 ###### ARTÍCULO 159.
 
@@ -2317,7 +2367,9 @@ Las candidaturas a Diputados por Mayoría Relativa serán registradas por fórmu
 
 Las candidaturas a Presidente, Síndico y Regidores del Ayuntamiento, serán registradas mediante planillas completas. La planilla se complementará con los candidatos suplentes respectivos.
 
-De la totalidad de solicitudes de registro de candidaturas que presenten los partidos políticos o coaliciones, en ningún caso incluirán más de las dos terceras partes de candidatos propietarios ni suplentes de un mismo sexo.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+De la totalidad de las solicitudes de registro, tanto de las candidaturas a diputados como de las planillas que conforman los ayuntamientos, que presenten los partidos políticos o coaliciones, ante el órgano electoral respectivo, deberán integrarse con un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto.
 
 > <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -2361,6 +2413,10 @@ Los partidos políticos o las coaliciones, deberán manifestar por escrito, que 
 
 Para la procedencia de la integración de listas de candidatos a Diputados por el principio de Representación Proporcional, a que se refiere el artículo 265, los partidos políticos o las coaliciones, deberán acreditar además de los requisitos previstos en los artículos 159, 160, 161, y 162 de esta Ley, el contar con el registro de fórmulas de candidatos a Diputados por el principio de Mayoría Relativa en cuando menos ocho de los Distritos Electorales Uninominales de la entidad.
 
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+En concordancia con lo anterior, el registro del cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, se aplicará aún cuando los partidos o coaliciones registren al menos ocho candidatos a diputados por el principio de mayoría relativa.
+
 ###### ARTÍCULO 164.
 
 Los candidatos, propietarios y suplentes, deberán acreditar que reúnen los requisitos de elegibilidad previstos en la Constitución Política del Estado y los de la presente Ley.
@@ -2374,6 +2430,14 @@ Cualquier solicitud o documentación presentada fuera de los plazos a que se ref
 La negativa del registro de una candidatura, sólo podrá ser recurrida por el partido político o coalición que la solicitó, por conducto de su representante, mediante el recurso de revisión o apelación, en su caso, previstos en la Ley de la materia.
 
 Los Comités Distritales y Municipales, comunicarán al Instituto Estatal Electoral el registro de candidatos dentro de las veinticuatro horas siguientes a la fecha en que se lleve a cabo. El Instituto Estatal Electoral, les comunicará a su vez, oportunamente, los registros de candidaturas que hubiere efectuado.
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 165 BIS.- En el supuesto de que al cierre del registro de candidaturas un partido político o coalición no cumpla con lo establecido en los artículos 159 y 163 de esta Ley, el órgano electoral ante el cual se efectuó el registro, lo requerirá en primera instancia para que en un plazo de 48 horas contadas a partir de la notificación que se le haga, rectifique la solicitud de registro de candidaturas. Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo Estatal Electoral le requerirá, de nueva cuenta, para que en un plazo de 24 horas, contadas a partir de la notificación, haga la corrección.
+
+En caso de reincidencia se sancionará con la negativa del registro de las candidaturas correspondientes.
+
+Los Comités Distritales y Municipales, comunicarán oportunamente al Instituto Estatal Electoral los registros de candidaturas que hubiere efectuado.
 
 ###### ARTÍCULO 166.
 
@@ -3937,7 +4001,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE FEBRERO DE 2004.
 
@@ -4068,3 +4132,9 @@ II.- (DEROGADA, B.O. 30 DE ABRIL DE 2010)
 B.O. 30 DE ABRIL DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con excepción de las reformas a los artículos 96, 142 Y 148 previstas en el ARTÍCULO PRIMERO de este mismo Decreto, mismos que entrarán en vigor el 30 de junio del año 2014.
+
+B.O. 10 DE DICIEMBRE DE 2013.
+
+Primero.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- El Instituto Estatal Electoral, deberá realizar las adecuaciones legales que correspondan a su reglamentación, para armonizarla con el presente decreto, en un plazo no mayor a 60 días naturales, contados a partir de su entrada en vigor.
