@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-particular-del-67482"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-18"
-last_updated: "2009-02-18"
+last_updated: "2013-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR DEL EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR DEL EJECUTIVO DEL ESTADO DE QUINTANA ROO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR DEL EJECUTIVO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR DEL EJECUTIVO DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de febrero de 2009.
 
@@ -392,3 +394,25 @@ LIC. CORA AMALIA CASTILLA MADRID
 EL SECRETARIO PARTICULAR DEL EJECUTIVO
 
 LIC. MARCO ANTONIO DE JESUS LOZANO OCMAN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR DEL EJECUTIVO DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento interior de la Secretaría Particular del Ejecutivo, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 18 de Febrero de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un plazo de noventa días naturales contados a partir de la fecha de publicación del presente acuerdo, para que se elaboren los Manuales de Organización y Procedimientos correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+El Secretario Particular del Ejecutivo resolverá las cuestiones que al efecto se presenten, en tanto se expiden los Manuales de Organización y Procedimientos.
