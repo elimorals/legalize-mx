@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-empresarial-a-tasa-unica-56890"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-01"
-last_updated: "2007-10-01"
+last_updated: "2013-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56890&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-09-28"
 
 LEY DEL IMPUESTO EMPRESARIAL A TASA UNICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO Y TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS; DE LA LEY FEDERAL DE DERECHOS, SE EXPIDE LA LEY DEL IMPUESTO SOBRE LA RENTA, Y SE ABROGAN LA LEY DEL IMPUESTO EMPRESARIAL A TASA ÚNICA, Y LA LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO, PUBLICADO EN EL D.O.F. DE 11 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de octubre de 2007.
 
@@ -536,3 +538,27 @@ III.- En caso de que durante el periodo de suspensión, el contribuyente realice
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se ABROGA la Ley del Impuesto Empresarial a Tasa Única, publicada en el Diario Oficial de la Federación el 1 de octubre de 2007.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO EMPRESARIAL A TASA ÚNICA
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+En relación con el Artículo Décimo Primero de este Decreto, se estará a lo siguiente:
+
+I. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las resoluciones y disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones, autorizaciones o permisos otorgados a título particular, en materia del impuesto establecido en la Ley del Impuesto Empresarial a Tasa Única que se abroga, sin perjuicio de lo dispuesto en la siguiente fracción.
+
+II. Las obligaciones y los derechos derivados de la Ley del Impuesto Empresarial a Tasa Única que se abroga conforme al Artículo Noveno de este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas o de hecho previstas en dicha Ley, deberán cumplirse conforme a los montos, formas y plazos establecidos en el citado ordenamiento y en las demás disposiciones aplicables, así como en las resoluciones a consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hayan otorgado a título particular en materia del impuesto establecido durante la vigencia de la Ley que se abroga.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
+
+Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
