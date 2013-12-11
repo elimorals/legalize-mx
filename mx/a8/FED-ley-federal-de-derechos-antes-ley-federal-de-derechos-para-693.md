@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2012-12-28"
+last_updated: "2013-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2012.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -57,21 +57,23 @@ Los derechos por la prestación de servicios que establece esta Ley deberán est
 
 Cuando se concesione o autorice que la prestación de un servicio que grava esta Ley, se proporcione total o parcialmente por los particulares, deberá disminuirse el cobro del derecho que se establece por el mismo en la proporción que represente el servicio concesionado o prestado por un particular respecto del servicio total.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Las cuotas de los derechos que se establecen en esta Ley se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Esta actualización entrará en vigor a partir del primero de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento. Para la actualización mencionada, se considerará el periodo comprendido desde el último mes que se utilizó en el cálculo de la última actualización y hasta el último mes del ejercicio en el que se exceda el porcentaje citado.
+Las cuotas de los derechos que se establecen en esta Ley se actualizarán anualmente el primero de enero de cada año, considerando el periodo comprendido desde el decimotercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO SEXTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los derechos que se adicionen a la presente Ley o que hayan sufrido modificaciones en su cuota, se actualizarán en el mes de enero del ejercicio fiscal en que se actualicen las demás cuotas de derechos conforme al párrafo anterior, considerando solamente la parte proporcional del incremento porcentual de que se trate, para lo cual se considerará el periodo comprendido desde el mes en que entró en vigor la adición o modificación y hasta el último mes del ejercicio en el que se exceda el porcentaje citado en el párrafo anterior. Para las actualizaciones subsecuentes del mismo derecho, las cuotas de los derechos a que se refiere este párrafo, se actualizarán conforme a lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los derechos que se adicionen a la presente Ley o que hayan sufrido modificaciones en su cuota, durante el transcurso del ejercicio fiscal que corresponda, se actualizarán en el mes de enero del ejercicio fiscal en que se actualicen las demás cuotas de derechos conforme al párrafo anterior, considerando solamente la parte proporcional del incremento porcentual de que se trate, para lo cual se considerará el periodo comprendido desde el mes en que entró en vigor la adición o modificación y hasta el último mes del ejercicio en el que se efectúa la actualización. Para las actualizaciones subsecuentes del mismo derecho, las cuotas de los derechos a que se refiere este párrafo, se actualizarán conforme a lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para los efectos de los párrafos anteriores, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al último mes que se utilizó en el cálculo de la última actualización, o bien, el del mes anterior a aquél en que entró en vigor la adición o modificación a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos de los párrafos anteriores, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo, o bien, el del mes anterior a aquél en que entró en vigor la adición o modificación a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -127,13 +129,21 @@ Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Cuando el pago de derechos deba efectuarse de forma periódica o en una fecha posterior al inicio de la prestación del servicio o del otorgamiento del uso, goce, explotación o aprovechamiento de bienes de dominio público de la Federación, por tratarse de servicios continuos o porque así se establezca, el contribuyente deberá presentar copia de la declaración del pago de derechos de que se trate ante la dependencia encargada de la prestación de los servicios o de la administración de los bienes del dominio público de la Federación dentro de los plazos que se señalan en esta Ley. Cuando no se presente la copia de la declaración o una vez recibida la misma se observe que el pago del derecho de que se trate no se efectuó por la totalidad de la cuota que corresponda, la dependencia procederá como sigue:
+Cuando el pago de derechos deba efectuarse de forma periódica o en una fecha posterior al inicio de la prestación del servicio público o del otorgamiento del uso, goce, explotación o aprovechamiento de bienes de dominio público de la nación, por tratarse de servicios continuos o porque así se establezca, el contribuyente deberá presentar copia de la declaración del pago de derechos de que se trate ante el encargado de la prestación de los servicios públicos o de la administración de los bienes de dominio público de la nación, respecto del uso, goce, explotación o aprovechamiento de los mismos, según corresponda, dentro de los plazos que se señalan en esta Ley. Cuando no se presente la copia de la declaración o una vez recibida la misma se observe que el pago del derecho de que se trate no se efectuó por la totalidad de la cuota que corresponda, el encargado de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público de la nación, procederá como sigue:
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 I. Requerirá al contribuyente para que en un plazo no mayor a 10 días presente copia de la declaración o, en su caso, efectúe la aclaración correspondiente.
 
-II. Una vez transcurrido el plazo a que se refiere la fracción anterior, si el contribuyente no hubiere presentado la declaración o aclaración correspondiente o de haberla presentado subsistan las diferencias, sin perjuicio de otros procedimientos de aclaración que se señalen en esta Ley, la dependencia de que se trate procederá a determinar los adeudos en el pago de los derechos y remitirá dicha determinación al Servicio de Administración Tributaria en los formatos y con los documentos que para tal efecto dicho órgano desconcentrado señale mediante reglas de carácter general, a fin de que éste último realice la notificación del adeudo y, en su caso, el requerimiento de pago correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO SEXTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+II. Una vez transcurrido el plazo a que se refiere la fracción anterior, si el contribuyente no hubiere presentado la declaración o aclaración correspondiente o de haberla presentado subsistan las diferencias, sin perjuicio de otros procedimientos de aclaración que se señalen en esta Ley, el encargado de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público de la nación, procederá a determinar los adeudos en el pago de los derechos y remitirá dicha determinación al Servicio de Administración Tributaria en los formatos y con los documentos que para tal efecto dicho órgano desconcentrado señale mediante reglas de carácter general, a fin de que éste último realice la notificación del adeudo y, en su caso, el requerimiento de pago correspondiente.
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 III. Deberá suspender el servicio o interrumpir el uso, goce, explotación o aprovechamiento del bien de que se trate.
 
@@ -145,9 +155,9 @@ Al servidor público encargado de la prestación de los servicios o del otorgami
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-El Servicio de Administración Tributaria proporcionará la asistencia legal a las dependencias de la Administración Pública Federal con el fin de que en el procedimiento a que se refiere el párrafo cuarto de este artículo se cumplan las formalidades aplicables.
+El Servicio de Administración Tributaria proporcionará la asistencia legal a los encargados de la prestación de los servicios públicos o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público de la nación, con el fin de que en el procedimiento a que se refiere el párrafo cuarto de este artículo se cumplan las formalidades previstas en las disposiciones fiscales. Respecto de los derechos mineros a que se refiere el Capítulo XIII del Título II de esta Ley, la Secretaría de Economía no ejercerá el procedimiento a que se refiere el cuarto párrafo de este artículo, salvo lo dispuesto en su fracción III, por lo que el Servicio de Administración Tributaria ejercerá sus facultades de comprobación de conformidad con el Código Fiscal de la Federación y demás disposiciones jurídicas aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -155,9 +165,11 @@ El Servicio de Administración Tributaria proporcionará la asistencia legal a l
 
 Lo dispuesto en el párrafo cuarto de este artículo no será aplicable a los derechos por el uso, explotación o aprovechamiento de bienes de dominio público de la Nación a cargo de la Comisión Nacional del Agua, con excepción de lo establecido en la fracción XI del artículo 192-E de la Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los servidores públicos encargados de la prestación de los servicios, así como de la administración de los bienes del dominio público de la Nación que regula esta Ley, serán responsables de la vigilancia del pago y, en su caso, del cobro y entero de los derechos previstos en la misma. La omisión total o parcial en el cobro y entero de los derechos, afectará el presupuesto de la dependencia o entidad en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los servidores públicos encargados de la prestación de los servicios, así como de la administración de los bienes del dominio público de la Nación que regula esta Ley, serán responsables de la vigilancia del pago y, en su caso, del cobro y entero de los derechos previstos en la misma. La omisión total o parcial en el cobro y entero de los derechos, afectará el presupuesto del ente encargado de la prestación de los servicios públicos o de la administración del uso, goce, explotación o aprovechamiento de los bienes de dominio público de la nación, en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -353,9 +365,17 @@ En todo caso, las autoridades fiscales podrán autorizar el pago en cualquier ot
 
 Las dependencias y entidades de la Administración Pública Federal deberán informar a la Secretaría de Hacienda y Crédito Público a más tardar en el mes de marzo del ejercicio correspondiente, los montos de los ingresos por concepto de derechos que hayan enterado a la Tesorería de la Federación, durante el ejercicio fiscal inmediato anterior.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, deberán presentar a la Secretaría de Hacienda y Crédito Público, un informe dentro de los primeros quince días del mes de julio respecto de los ingresos que hayan percibido por derechos durante el primer semestre del ejercicio fiscal en curso, así como los que tengan programados percibir durante el segundo semestre.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, deberán presentar a la Secretaría de Hacienda y Crédito Público, un informe a más tardar el último día hábil del mes de julio respecto de los ingresos que hayan percibido por derechos durante el primer semestre del ejercicio fiscal en curso, así como los que tengan programados percibir durante el segundo semestre. El informe de ingresos a que se refiere el presente párrafo deberá ser presentado a través del sistema electrónico que disponga la Secretaría de Hacienda y Crédito Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Lo dispuesto en el presente artículo, también será aplicable a cualquier órgano del Estado que preste servicios públicos u otorgue el uso, goce, aprovechamiento o explotación de bienes de dominio público que den lugar al pago de derechos.
 
 ## TITULO I. De los Derechos por la Prestación de Servicios
 
@@ -379,9 +399,9 @@ I. Visitante sin permiso para realizar actividades remuneradas $295.00
 
 II. Visitante con permiso para realizar actividades remuneradas $2,350.00
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Visitante Regional $295.00
+III. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -413,13 +433,37 @@ d). Cuatro años $7,040.00
 
 VII. Residente Permanente $3,815.00
 
-Por la reposición de los documentos a que se refiere este artículo se pagará la misma cuota del derecho según corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Por la reposición de los documentos contenidos en las fracciones I y IV de este artículo se pagará la misma cuota del derecho según corresponda. Respecto a las fracciones II, V, VI y VII la cuota aplicable será de $1,040.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013) N. DE E. EN SU CONTENIDO.
+
+Por la renovación de los documentos a que se refieren las fracciones II a VII de este artículo, se pagará la misma cuota del derecho según corresponda.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL TERCER PÁRRAFO DE FECHA 11 DE DICIEMBRE DE 2013, PASO A SER UN NUEVO CUARTO PÁRRAFO.</small>
 
 Para efectos de la fracción I de este artículo, la Secretaría de Gobernación fijará el procedimiento para identificar a los Visitantes sin permiso para realizar actividades remuneradas con fines turísticos.
 
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL TERCER PÁRRAFO DE FECHA 11 DE DICIEMBRE DE 2013, PASO A SER UN NUEVO QUINTO PÁRRAFO.</small>
+
 No pagarán los derechos por servicios migratorios a que se refieren las fracciones I y II de este artículo los choferes u operadores de vehículos de transporte de carga que se internen en el país con el único objeto de cargar o descargar mercancías en los recintos de las aduanas fronterizas del territorio nacional.
 
-El pago del derecho previsto en las fracciones I y II de este artículo deberá efectuarse a la salida del territorio nacional tratándose de extranjeros que arriben al país vía aérea.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL TERCER PÁRRAFO DE FECHA 11 DE DICIEMBRE DE 2013, PASO A SER UN NUEVO SEXTO PÁRRAFO.
+
+Tratándose de extranjeros que arriben al país vía aérea, el derecho previsto en la fracción I de este artículo, deberá ser recaudado y enterado por las empresas de transporte aéreo internacional de pasajeros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -455,7 +499,11 @@ El pago del derecho a que se refiere este artículo será sin perjuicio del dere
 
 No se pagarán los derechos señalados en el artículo 8o. de esta Ley cuando los extranjeros permanezcan en territorio nacional en las condiciones de estancia siguientes:
 
-I. Residente Temporal estudiante.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I. Residente Temporal Estudiante, y Residente Temporal cuando sea autorizado bajo los convenios de cooperación o intercambio educativo, cultural y científico.
 
 II. Visitantes sin permiso para realizar actividades remuneradas que se ubiquen en alguno de los siguientes supuestos:
 
@@ -491,7 +539,17 @@ territorio nacional, se cobrará la
 
 cuota de $58.79 $59
 
-El derecho de servicios migratorios a que se refiere el presente artículo se pagará a la salida de pasajeros de vuelos internacionales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de pasajeros que abandonen el país vía aérea, el derecho previsto en este artículo, deberá ser recaudado y enterado por las empresas de transporte aéreo internacional de pasajeros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -509,17 +567,25 @@ I. Certificados en los que se haga constar la situación migratoria $320.00
 
 II. Permiso de salida y regreso al país $320.00
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Autorización para realizar actividades remuneradas a Residente Temporal
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-estudiante $2,350.00
+III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $2,350.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IV. Autorización de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $800.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 14.
 
-(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+Por el estudio, trámite y, en su caso, autorización o renovación para ser miembro del Programa Viajero Confiable, se pagarán derechos conforme a la cuota de $1,372.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -607,9 +673,15 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 15.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
+Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de $1,117.00
+
+Por la reposición de la tarjeta, se pagará la misma cuota.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -709,7 +781,7 @@ VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 1.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. Publicaciones
 
@@ -929,7 +1001,7 @@ capítulo $931.45 $931
 
 c) Series filmadas, por capítulo $686.67 $687
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1253,21 +1325,11 @@ Los derechos por la expedición de las visas ordinarias en pasaportes extranjero
 
 IV.- Expedición de certificados de:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Constitución de sociedades
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-extranjeras, importación de
-
-armas, municiones, detonantes,
-
-explosivos y artificios químicos y
-
-de pasavantes o patentes
-
-provisionales de navegación, por
-
-cada uno $2,694.09 $2,695
+a). Constitución de sociedades extranjeras y de pasavantes o patentes provisionales de navegación, por cada uno $2,694.09
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -1311,7 +1373,7 @@ Los derechos por la expedición de menajes de casa a extranjeros, podrán exenta
 
 V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADO, D.O.F 18 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 Cuando los servicios a que se refiere este artículo, sean prestados en territorio nacional, se pagará el 50% de los derechos correspondientes.
 
@@ -1443,7 +1505,11 @@ IV.- El registro de nacimientos y el registro de defunciones, así como las copi
 
 V.- El visado a los permisos de tránsito y certificado de embalsamamiento de cadáveres.
 
-VI.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VI.- Por la expedición del certificado de lista de menaje de casa para miembros del servicio exterior mexicano.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2075,6 +2141,12 @@ XXIV. Por la autorización para la constitución y operación de instituciones d
 
 XXV. Por la autorización para el inicio de operaciones de instituciones de banca múltiple: $1,793,760.00 $1,793,760
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $20,000.00
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29-A.
@@ -2349,7 +2421,7 @@ concepto
 
 excedan de $2,802,750.00 $2,802,750
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
@@ -2637,29 +2709,9 @@ en esta fracción, en ningún
 
 caso podrá ser inferior a: $309,423.60 $309,424
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Arrendadoras Financieras:
-
-Cada entidad que pertenezca al sector de Arrendadoras Financieras, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual al resultado de la suma de las siguientes cantidades:
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-a). El resultado de multiplicar 0.519993 al millar por el valor del total de su pasivo.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-b). El resultado de multiplicar 7.034000 al millar, por el valor de su cartera de arrendamiento vencida.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-c). El resultado de multiplicar 0.090500 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-La cuota que resulte, en ningún
-
-caso será inferior a $309,423.60 $309,424
+II. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2743,29 +2795,9 @@ La cuota que resulte, en ningún
 
 caso será inferior a $476,377.81 $476,378
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Empresas de Factoraje Financiero:
-
-Cada entidad que pertenezca al sector de Empresas de Factoraje Financiero, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-a). El resultado de multiplicar 0.925400 al millar, por el valor del total de su pasivo.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-b). El resultado de multiplicar 8.363500 al millar, por el valor de su cartera de factoraje vencida.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-c). El resultado de multiplicar 0.138800 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-La cuota que resulte, en ningún
-
-caso será inferior a $309,423.60 $309,424
+VII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2835,29 +2867,9 @@ La cuota que resulte de la aplicación de la opción prevista en esta fracción 
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en el Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
-> <small>(REFORMADA D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Sociedades Financieras de Objeto Limitado:
-
-Cada entidad que pertenezca al sector de Sociedades Financieras de Objeto Limitado, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-a). El resultado de multiplicar 0.152310 al millar, por el valor del total de sus pasivos.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-b). El resultado de multiplicar 0.149700 al millar, por el valor de su cartera de crédito vencida.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-c). El resultado de multiplicar 0.003890 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-La cuota que resulte, en ningún
-
-caso será inferior a $595,472.27 $595,472
+XII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2905,7 +2917,7 @@ XV. Fideicomisos Públicos:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
@@ -3597,7 +3609,7 @@ pagar por este concepto
 
 excedan de: $448,440.00 $448,440
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
 
@@ -3785,7 +3797,7 @@ En el caso de Emisoras, las cuotas a su cargo deberá (sic) determinarse conform
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4061,7 +4073,7 @@ seguros persona moral $601.02 $601
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -4345,7 +4357,7 @@ moral $601.02 $601
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -4609,7 +4621,7 @@ Los ingresos que se obtengan por la recaudación de los derechos por los servici
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 40.
 
@@ -4823,13 +4835,13 @@ transformación o
 
 reparación $6,771.44 $6,771
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), ñ), o), p) y q) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i) y j) de este artículo se pagarán por única vez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -5297,7 +5309,7 @@ muestra analizada, la cuota de: $3,436.25 $3,436
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 #### SECCION QUINTA. Acuñación de Moneda Metálica y Desmonetización de Billetes
 
@@ -5309,7 +5321,7 @@ muestra analizada, la cuota de: $3,436.25 $3,436
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 #### SECCION SEXTA. Máquinas Registradoras de Comprobación Fiscal
 
@@ -5321,25 +5333,25 @@ muestra analizada, la cuota de: $3,436.25 $3,436
 
 #### SECCION SEPTIMA. Registro de Bancos y Entidades de Financiamiento, Fondos de Pensiones y Jubilaciones y Fondos de Inversión del Extranjero
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 53-D.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 53-E.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 53-F.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION OCTAVA. Resoluciones Relativas a Precios o Montos de Contraprestaciones entre Partes Relacionadas
 
@@ -5385,17 +5397,17 @@ derechos conforme a la
 
 cuota de $2,247.49 $2,247
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION NOVENA. Otros Servicios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 53-I.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 53-J.
 
@@ -5415,7 +5427,7 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION UNICA. Padrón de Contratistas y de Proveedores del Gobierno Federal
 
@@ -5431,7 +5443,7 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 ### CAPITULO V. Secretaría de Energía
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5465,7 +5477,7 @@ c). Mayor a 50 y hasta 200 MW: $166,275.58 $166,276
 
 d). Mayor a 200 MW: $703,293.86 $703,294
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5697,7 +5709,7 @@ V. Por el análisis, evaluación y, en su caso, renovación de los permisos de d
 
 Se pagarán derechos en materia de gas licuado de petróleo por los servicios que presta la Comisión Reguladora de Energía, conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5737,7 +5749,7 @@ planta de suministro
 
 o depósito $543,849.21 $543,849
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5781,7 +5793,7 @@ a). El 50 por ciento de la cuota establecida en la fracción I del presente art�
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5849,9 +5861,9 @@ las terminales de importación o distribución
 
 de dichos productos $544,518.44 $544,518
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 59.
 
@@ -6005,19 +6017,19 @@ Normalización se pagarán derechos
 
 con la siguiente cuota: $2,186.15 $2,186
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 61-A.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 61-B.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 61-C.
 
@@ -6061,7 +6073,7 @@ conforme a la cuota de $11,709.33 $11,709
 
 Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ### CAPITULO VI. De la Secretaría de Comercio y Fomento Industrial
 
@@ -6069,7 +6081,7 @@ Tratándose de solicitudes para la autorización de prórroga, transferencia y m
 
 #### SECCION PRIMERA. Correduría Pública
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 62.
 
@@ -6079,7 +6091,7 @@ Tratándose de solicitudes para la autorización de prórroga, transferencia y m
 
 #### SECCION SEGUNDA. Minería
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 63.
 
@@ -6223,11 +6235,11 @@ VII. Revisión de la documentación que consigne las correcciones o aclaraciones
 
 ###### ARTICULO 65-A.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 65-B.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6271,27 +6283,27 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 ###### ARTICULO 68.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 69.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-A.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-B.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-C.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+(DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 70-D.
 
@@ -6301,13 +6313,13 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 #### SECCION TERCERA. Inversiones Extranjeras
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 71.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 72.
 
@@ -6449,7 +6461,7 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-(REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION TERCERA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
+(REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN TERCERA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
 #### SECCION CUARTA. Normas Oficiales
 
@@ -6521,7 +6533,7 @@ derecho de normas conforme
 
 a la cuota de $529.41 $529
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 #### SECCION QUINTA. Permisos de Importación
 
@@ -6553,13 +6565,13 @@ a la cuota de $529.41 $529
 
 #### SECCION SEXTA. Competencia Económica
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 77.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEPTIMA. Servicios de Certificación de Firma Electrónica en Actos de Comercio
 
@@ -6649,7 +6661,7 @@ servicios adicionales relativos
 
 a la firma electrónica $125,406.46 $125,406
 
-(REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEPTIMA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
+(REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN SÉPTIMA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
 #### SECCION OCTAVA. Verificación de Instrumentos de Medir
 
@@ -6679,7 +6691,7 @@ a la firma electrónica $125,406.46 $125,406
 
 ### CAPITULO VII. De la Secretaría de Agricultura y Recursos Hidráulicos
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 #### SECCION PRIMERA. Servicios de Agua
 
@@ -6719,9 +6731,9 @@ a la firma electrónica $125,406.46 $125,406
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCION SEGUNDA. Sanidad Fitozoosanitaria
 
@@ -6745,11 +6757,17 @@ En el caso de solicitud de cancelación de los servicios, cuando ésta se solici
 
 Cuando por causas no imputables a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no sea posible prestar los servicios, se pagará la totalidad de los derechos que correspondan a los servicios solicitados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos del artículo anterior, la prestación de los servicios estará sujeta a las condiciones de operación y disponibilidad con las que cuente la dependencia prestadora del servicio.
+
 ###### ARTICULO 85-A.
 
 (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 86.
 
@@ -6887,9 +6905,9 @@ semillas regulados $814.66 $815
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Por duplicado, renovación o modificación de cada certificado a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
+Por renovación o modificación de cada certificado a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6897,11 +6915,23 @@ Por duplicado, renovación o modificación de cada certificado a que se refiere 
 
 No se pagará el derecho a que se refiere este artículo por los animales y vegetales, sus productos y subproductos que se importen o exporten en forma temporal; mascotas y perros guías para invidentes; muestras médicas y comerciales; así como por las mercancías originarias de México que hubieren sido retornadas por causas no imputables al exportador.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Tampoco se pagarán los derechos a que se refiere este artículo, cuando las importaciones se realicen por la Federación o cuando se trate de instituciones de enseñanza e investigación, por donaciones de productos en abandono propiedad del fisco federal, situaciones de emergencia o ayuda humanitaria, así como las derivadas de programas en materia de sanidad e inocuidad autorizados por la autoridad competente que se efectúen a través de organismos auxiliares en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En caso de que la expedición de los certificados señalados en las fracciones V y VI de este artículo esté precedida por una cancelación de la solicitud de importación originada por el rechazo parcial de la mercancía a importarse, únicamente se pagará el 50% de los derechos para certificar la mercancía no rechazada.
+
 ###### ARTICULO 86-B.
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86-C.
 
@@ -7059,7 +7089,7 @@ a la cuota de $1,102.64 $1,103
 
 Los ingresos que se obtengan por la recaudación de derechos a que se refiere esta sección, se destinarán al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, para el mejoramiento, conservación y mantenimiento de dichos servicios, así como para el combate y erradicación de contingencias fitozoosanitarias no contempladas en los programas autorizados.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
 
@@ -7203,9 +7233,9 @@ II.- Por la expedición de certificados
 
 de calidad, por etiqueta $1.2211
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 III.- Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal:
 
@@ -7253,13 +7283,13 @@ de calidad, para semilla
 
 finalmente no certificada $323.82 $324
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION CUARTA. Sanidad Acuícola
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7433,13 +7463,13 @@ cuota de $431.76 $432
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION QUINTA. De los Organismos Genéticamente Modificados
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -7555,7 +7585,7 @@ Las verificaciones realizadas a usuarios del servicio de aficionados o radioafic
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 93.
 
@@ -7689,7 +7719,7 @@ IV.- Por la autorización de prórroga
 
 de concesión $9,246.42 $9,246
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 96.
 
@@ -7873,7 +7903,7 @@ IV.- Por la autorización de
 
 prórroga del permiso $12,935.06 $12,935
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 99.
 
@@ -7939,7 +7969,7 @@ permiso y, en su caso, por la
 
 autorización de las prórrogas $1,800.77 $1,801
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 100.
 
@@ -7987,7 +8017,7 @@ y legal inherente a la misma $12,135.95 $12,136
 
 II.- Por la expedición del permiso $5,548.88 $5,549
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 102.
 
@@ -8029,7 +8059,7 @@ a).- Por el estudio $4,089.86 $4,090
 
 b).- Por la autorización $1,030.97 $1,031
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV. Por cambio en las características técnicas y de operación del permiso de la estación terrena transmisora:
 
@@ -8051,7 +8081,7 @@ establecidas en el permiso y, en su caso,
 
 por la autorización de las prórrogas. $1,800.77 $1,801
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 103.
 
@@ -8065,7 +8095,7 @@ por la autorización de las prórrogas. $1,800.77 $1,801
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 105.
 
@@ -8203,7 +8233,7 @@ Los estudios para la asignación de las frecuencias que vayan a ser utilizadas d
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 #### SECCION SEGUNDA. Servicios de Telégrafos y Teléfonos
 
@@ -8271,7 +8301,7 @@ cuota de $8,543.67 $8,544
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 123.
 
@@ -8405,7 +8435,7 @@ título de concesión $5,238.32 $5,238
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 124.
 
@@ -8835,7 +8865,7 @@ o control remoto $4,098.81 $4,099
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -8881,7 +8911,7 @@ Por la expedición de licencias de estaciones de radio a bordo de barcos y avion
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 135.
 
@@ -9189,7 +9219,7 @@ homologado, se pagará la cuota de: $2,585.35 $2,585
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 141-A.
 
@@ -9199,7 +9229,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 I.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -9323,7 +9353,7 @@ II.- Medición de los parámetros técnicos
 
 de la señal de televisión $8,698.38 $8,698
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 #### SECCION CUARTA. Servicio de Correos
 
@@ -9385,63 +9415,25 @@ A. Por los servicios relacionados con la expedición de:
 
 I.- Permisos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Para la operación y explotación
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-de los servicios de autotransporte
+a). Para la operación y explotación de los servicios de autotransporte federal y sus servicios auxiliares en sus distintas modalidades, por cada permiso para:
 
-federal de pasajeros y turismo, en
+1. Vehículos motrices. Incluye permiso, alta vehicular, dos placas, calcomanía de identificación vehicular y tarjeta de circulación $3,080.00
 
-sus distintas modalidades, carga
+Cuando los servicios a que se refiere el presente numeral sean solicitados a través de medios electrónicos $2,349.00
 
-general, fondos y valores, automóviles
+2. Unidades de Arrastre. Incluye permiso, alta vehicular, una placa, calcomanía de identificación vehicular y tarjeta de circulación $2,351.00
 
-sin rodar en vehículo tipo góndola;
+Cuando los servicios a que se refiere el presente numeral sean solicitados a través de medios electrónicos $1,620.00
 
-de carga especializada de materiales
+3. Especial para grúas industriales del servicio de autotransporte federal; especial por un viaje para el autotransporte de objetos voluminosos o de gran peso; para complementar la ruta autorizada por concesiones o permisos estatales; depósitos de vehículos; para el autotransporte internacional de pasajeros, turismo y carga; para operar servicios transfronterizos de turismo $533.00
 
-y residuos peligrosos; de explosivos;
+Cuando los servicios a que se refiere el presente numeral sean solicitados a través de medios electrónicos $173.00
 
-especial por un año para grúas industriales
-
-del servicio de autotransporte federal;
-
-especial para el autotransporte de objetos
-
-voluminosos o de gran peso por un solo
-
-viaje por unidad; para complementar
-
-la ruta autorizada por concesiones o
-
-permisos estatales, por vehículo; para
-
-el servicio de paquetería y mensajería;
-
-para operar el servicio de arrastre, arrastre
-
-y salvamento de vehículos; para operar
-
-depósitos de vehículos; para el autotransporte
-
-internacional de pasajeros, turismo y carga;
-
-para operar servicios transfronterizos de
-
-carga y pasaje en sus diversas modalidades;
-
-para operar servicios transfronterizos de
-
-turismo, por permiso. $532.97 $533
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-Cuando los permisos a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por permiso $173.00
+Si los permisos que se otorgan conforme a los numerales 1 y 2 de este inciso amparan más de un vehículo motriz o unidad de arrastre, se pagará por cada uno de los subsecuentes únicamente el derecho por el alta, a que se refiere la fracción I del apartado D de este artículo.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -9483,45 +9475,23 @@ c).- Para el inicio de operación de terminal de autotransporte de pasajeros, po
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Expedición o reposición de
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-placas para automotor, remolque
+a). Reposición de placas para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades, servicios auxiliares y de arrendamiento, por placa $729.20
 
-y semirremolque, para los servicios
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de autotransporte federal en sus
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-diversas modalidades, servicios
+b). Reposición de calcomanía de identificación vehicular, por calcomanía $118.01
 
-auxiliares y de arrendamiento, por
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-placa. $729.20 $729
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-b).- Expedición de calcomanía
-
-de identificación vehicular, por
-
-calcomanía. $118.01 $118
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-c).- Expedición o revalidación de la
-
-tarjeta de circulación para automotor,
-
-remolque y semirremolque, para los
-
-servicios de autotransporte federal
-
-en sus diversas modalidades,
-
-servicios auxiliares y de arrendamiento,
-
-por tarjeta. $422.93 $423
+c). Revalidación de la tarjeta de circulación para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades, servicios auxiliares y de arrendamiento, por tarjeta $422.93
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -9583,31 +9553,23 @@ Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, 
 
 D. Servicios diversos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-I. Alta de vehículo automotor, remolque
+I.- Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares. En el supuesto de arrendamiento: alta de vehículo automotor, remolque o semirremolque o automóvil para uso particular en el registro de arrendamiento; vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares. Alta de vehículo automotor, remolque o semirremolque por cambio de modalidad:
 
-o semirremolque en el permiso de
+a). Por cada vehículo motriz. Incluye alta de vehículo, dos placas, calcomanía de identificación vehicular y tarjeta de circulación $2,547.00
 
-los servicios de autotransporte federal
+Cuando los servicios a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por cada vehículo motriz $2,176.00
 
-y servicios auxiliares, por unidad;
+b). Por cada unidad de arrastre. Incluye alta de vehículo, una placa, calcomanía de identificación vehicular y tarjeta de circulación $1,818.00
 
-alta de vehículo automotor, remolque
+Cuando los servicios a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por cada unidad de arrastre $1,447.00
 
-o semirremolque y automóvil para uso
+c). Por cada vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares; o cambio de modalidad. Incluye alta de vehículo y modificación de la tarjeta de circulación $718.00
 
-particular en el registro de arrendamiento,
-
-por vehículo $547.57 $548
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo o unidad $177.00
+Cuando los servicios a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por cada vehículo automotor, remolque o semirremolque $347.00
 
 II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -9761,7 +9723,7 @@ peso, con exceso de peso o dimensión,
 
 por permiso. $507.79 $508
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 #### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
 
@@ -9777,7 +9739,7 @@ por permiso. $507.79 $508
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 150-C.
 
@@ -9797,19 +9759,15 @@ por cada minuto o fracción, conforme
 
 a la cuota de $11.18 $11
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por extensión de horario de los
+II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-servicios de información de vuelo,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-por cada minuto o fracción,
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-conforme a la cuota de $11.18 $11
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Tratándose de los derechos a que se refiere este artículo, los usuarios con operaciones no regulares deberán calcular y enterar el pago correspondiente por cada aeronave, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, al día siguiente de haberse proporcionado dichos servicios. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria dentro de los diez días del mes siguiente a aquél en que se reciban los servicios, anexando un desglose que contenga las operaciones efectuadas en el mes por cada aeronave.
+El derecho a que se refiere este artículo, se deberá calcular y enterar por cada aeronave, inmediatamente posterior a su arribo o de manera previa al despegue de la misma, según corresponda. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave dentro de los diez días del mes siguiente a aquél en que se reciban los servicios. Dentro de ese mismo plazo, los contribuyentes deberán presentar ante el SENEAM el documento que contenga el desglose de las operaciones efectuadas en el mes anterior por cada aeronave respecto de la cual se realiza el pago.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9821,7 +9779,7 @@ Tratándose de los derechos a que se refiere este artículo, los usuarios con op
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 152.
 
@@ -10033,15 +9991,9 @@ y permisos $5,632.73 $5,633
 
 II.- Por verificación menor $1,123.67 $1,124
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por la certificación a las
-
-verificaciones efectuadas por las
-
-unidades de verificación
-
-establecidas por terceros $5,618.91 $5,619
+III.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -10099,17 +10051,19 @@ derechos conforme a la cuota de $78,947.87 $78,948
 
 No se pagará el derecho a que se refiere este artículo por los servicios de certificación mediante vuelos de inspección a las instalaciones de ayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes operadas por la misma.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTICULO 157.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Por los servicios relacionados con la expedición de capacidades y licencias al personal técnico aeronáutico o, en su caso, permiso se pagarán derechos conforme a las siguientes cuotas:
+###### Artículo 157.
 
-cuota sin cuota con
+Por los servicios relacionados con la expedición de cada certificado de capacidad, licencia al personal técnico aeronáutico o, en su caso, permiso se pagarán derechos conforme a las siguientes cuotas:
 
-ajuste ajuste
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por la expedición de la capacidad y licencia o permiso para:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I. Por la expedición de cada certificado de capacidad, licencia o permiso para:
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -10118,6 +10072,14 @@ a).- Personal de vuelo $1,123.67 $1,124
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
 b).- Personal de tierra $842.71 $843
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Por la recuperación de licencia se pagará la misma cuota establecida en los incisos de esta fracción, según corresponda.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por la revalidación de licencia al:
 
@@ -10151,9 +10113,11 @@ ajuste ajuste
 
 I.- Por la expedición de los siguientes certificados:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- De aeronavegabilidad $1,404.63 $1,405
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+a) De aeronavegabilidad $2,853.00
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -10197,7 +10161,9 @@ o matrícula $1,404.63 $1,405
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IV. Por la expedición del certificado de aeródromo $9,203.62
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -10207,9 +10173,29 @@ nacionalidad y matrícula con siglas
 
 especiales $18,384.52 $18,385
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VI. Por la expedición del certificado de especificaciones del sistema de gestión de seguridad operacional $32,875.23
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VII. Por la expedición del certificado de producción de aeronaves y sus componentes $17,161.47
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 158 BIS.- Por las verificaciones, y en su caso, la certificación como explotador de servicios aéreos:
+
+I. Por el otorgamiento $52,576.14
+
+II. Por la renovación $3,998.12
+
+III. Por la convalidación $1,459.54
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -10235,9 +10221,11 @@ II.- Permiso $14,047.54 $14,048
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo, así como aquellos que son parte de la Secretaría de Comunicaciones y Transportes.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Autorización $702.23 $702
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+III. Autorización $1,383.35
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -10279,33 +10267,13 @@ derechos conforme a la cuota de $842.71 $843
 
 por cada vuelo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 161.
 
-Por los servicios relacionados con los exámenes de conocimientos de aviación civil, para los permisos de formación o capacitación, así como para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos conforme a las siguientes cuotas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-I. Por el examen para el permiso de formación
-
-o capacitación, por cada uno $784.77 $785
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-II. Por los exámenes para la obtención,
-
-convalidación y recuperación de licencias y
-
-certificados de capacidad,
-
-por cada uno $1,737.71 $1,738
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+Por el examen para el permiso de formación o capacitación, así como por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos, por cada uno $1,684.83
 
 No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
 
@@ -10741,7 +10709,7 @@ técnico $941.85 $942
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 166.
 
@@ -10755,7 +10723,7 @@ I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
 
 II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 167.
 
@@ -10941,7 +10909,7 @@ I.- Servicio de transporte de pasajeros, con embarcaciones cuya dimensión máxi
 
 II.- Servicio de turismo náutico, con embarcaciones de recreo o deportivas tipo moto acuática, kayak, botes de remos o similares en porte; cuya dimensión máxima sea de 0.5 unidades de arqueo bruto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 169.
 
@@ -11279,11 +11247,13 @@ X.- Señales radioeléctricas $4,890.48 $4,890
 
 XI.- Otras señales $5,501.87 $5,502
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 170.
 
-Por los servicios que presta la Capitanía de Puerto a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho de capitanía de puerto por cada autorización de arribo, despacho o maniobra de fondeo, conforme a las siguientes cuotas:
+Por los servicios que presta la Capitanía de Puerto a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho de capitanía de puerto por cada autorización de arribo, despacho, maniobra de fondeo, o enmienda, en este último caso cuando sea a solicitud del particular, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -11313,11 +11283,29 @@ IV.- De más de 500 hasta 1,000
 
 toneladas brutas de arqueo $1,143.29 $1,143
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- De más de 1,000 toneladas
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-brutas de arqueo $2,286.80 $2,287
+V. De más de 1,000 hasta 15,000 toneladas brutas de arqueo $2,475.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VI. De más de 15,000 hasta 25,000 toneladas brutas de arqueo $3,153.25
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VII. De más de 25,000 hasta 50,000 toneladas brutas de arqueo $3,637.04
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VIII. De más de 50,000 toneladas brutas de arqueo $4,385.38
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -11339,7 +11327,13 @@ No se pagará el derecho a que se refiere este artículo por las embarcaciones q
 
 No pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+El pago que deba realizarse a la Capitanía de Puerto por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 170-A.
 
@@ -11395,7 +11389,7 @@ mar y tirón a punto fijo, se pagará por
 
 cada embarcación $1,371.56 $1,372
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 170-B.
 
@@ -11441,7 +11435,7 @@ VI.- De más de 10000 unidades
 
 de arqueo bruto $15,486.90 $15,487
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 170-C.
 
@@ -11503,7 +11497,7 @@ derecho por cada persona, conforme a la
 
 cuota de: $1,312.56 $1,313
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 170-E.
 
@@ -11527,15 +11521,19 @@ II.- Por persona física $1,783.57 $1,784
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 170-G.
 
-Se pagará el derecho de cumplimiento del Código Internacional de Protección de los Buques y de las Instalaciones Portuarias, por cada buque, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las siguientes cuotas:
+Se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada buque o instalación portuaria, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 I.- Por la revisión de la evaluación de protección:
 
@@ -11575,6 +11573,8 @@ f).- De más de 10,000 unidades
 
 de arqueo bruto $16,641.66 $16,642
 
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
@@ -11613,7 +11613,11 @@ f).- De más de 10,000 unidades
 
 de arqueo bruto $18,100.07 $18,100
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
 
@@ -11652,6 +11656,12 @@ e).- De más de 5,000 y hasta
 f).- De más de 10,000 unidades
 
 de arqueo bruto $16,941.30 $16,941
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IV. Por el estudio, trámite y, en su caso, la expedición del certificado de cumplimiento por parte de las instalaciones portuarias $3,087.54
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11849,7 +11859,7 @@ títulos a oficialidad de la marina
 
 mercante $407.36 $407
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 171-A.
 
@@ -11859,7 +11869,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -11873,11 +11883,11 @@ a).- Navegación de Altura $7,235.00 $7,235
 
 b).- Navegación de Cabotaje $5,167.61 $5,168
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 d).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -11893,35 +11903,35 @@ General o Agente Naviero
 
 Protector $14,712.59 $14,713
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 171-B.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 171-C.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 171-D.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 171-E.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION OCTAVA. Otorgamiento de permisos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 172.
 
@@ -12199,7 +12209,7 @@ modificación en los caminos
 
 y puentes de cuota $5,899.87 $5,900
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION NOVENA. Otros Servicios
 
@@ -12391,7 +12401,7 @@ I.- Por la expedición $561.72 $562
 
 II.- Por la revalidación $561.72 $562
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 172-G.
 
@@ -12445,7 +12455,7 @@ instalaciones de los servicios
 
 auxiliares $1,812.71 $1,813
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 172-H.
 
@@ -12617,7 +12627,7 @@ del sistema ferroviario, se pagará la
 
 cuota de $14,166.33 $14,166
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO IX. De la Secretaría de Desarrollo Social
 
@@ -12725,7 +12735,7 @@ cuota de $14,166.33 $14,166
 
 ### CAPITULO X. De la Secretaría de Educación Pública
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION SEGUNDA. De la Zona Marítimo Terrestre
 
@@ -12769,7 +12779,7 @@ cuota de: $40.25 $40
 
 No se pagará este derecho por los permisos que soliciten la Federación, las Entidades Federativas o los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 177.
 
@@ -13351,7 +13361,7 @@ XIII.- Registro de Federación de
 
 Colegios de Profesionistas $9,542.84 $9,543
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 185-A.
 
@@ -13831,7 +13841,7 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. Derechos de Autor
 
@@ -13845,11 +13855,11 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO XII. Secretaría de la Función Pública
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. Registro y Ejercicio Profesional
 
@@ -13863,35 +13873,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 II.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -13913,7 +13923,7 @@ XI.- Expedición de certificados de
 
 no inscripción federal $418.06 $418
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -14063,7 +14073,7 @@ propiedad federal $6,331.71 $6,332
 
 #### SECCION CUARTA. Servicios de Educación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 191.
 
@@ -14081,11 +14091,11 @@ En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de C
 
 Los ingresos que se obtengan por la recaudación de este derecho, que no estén destinados a las Entidades Federativas en términos del párrafo anterior, se destinarán a la Secretaría de la Función Pública, para el fortalecimiento del servicio de inspección, vigilancia y control a que se refiere este artículo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ### CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 #### SECCION PRIMERA. Registro Agrario Nacional
 
@@ -14139,7 +14149,7 @@ o transformación de productos
 
 pesqueros $502.72 $503
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -14201,15 +14211,15 @@ titular de los derechos de la concesión
 
 acuícola $1,576.73 $1,577
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 X.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
@@ -14255,7 +14265,7 @@ cuota de $2,797.64 $2,798
 
 (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 191-E.
 
@@ -14267,7 +14277,7 @@ cuota de $2,797.64 $2,798
 
 Las Entidades Federativas que hayan celebrado convenio de colaboración administrativa en materia fiscal federal con la Secretaría de Hacienda y Crédito Público, para que directamente, cuando así lo acuerden expresamente, ejerzan funciones operativas de administración, sobre los ingresos que se obtengan por el cobro de los derechos a que se refieren los artículos 191-D y 191-E de esta Sección, percibirán la totalidad de los ingresos que se generen por la prestación de estos servicios.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
 
@@ -14349,7 +14359,7 @@ del título $2,836.10 $2,836
 
 Tratándose de los casos previstos en las fracciones IV y V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 192-A.
 
@@ -14435,7 +14445,7 @@ uno $1,573.51 $1,574
 
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -14461,17 +14471,9 @@ las fracciones V del artículo 224 y
 
 IV del artículo 282, por cada uno $4,073.88 $4,074
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por la expedición del certificado
-
-sobre el contenido de sólidos disueltos
-
-totales de aguas salobres, a que se
-
-refiere la fracción VI del artículo 224,
-
-por cada uno $4,073.88 $4,074
+II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14567,7 +14569,15 @@ XI. Con excepción del uso doméstico amparado en los títulos de concesión y d
 
 El ejercicio de las facultades a que se refiere este artículo, es independiente y sin menoscabo de las atribuciones que competen a la Secretaría de Hacienda y Crédito Público.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 92-F.
+
+Por el estudio, trámite, y en su caso, la expedición de la validación a que se refiere la fracción VI del artículo 224 de esta Ley, se pagará el derecho conforme a la cuota de $6,155.00
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION TERCERA. Otros Servicios
 
@@ -14579,11 +14589,11 @@ El ejercicio de las facultades a que se refiere este artículo, es independiente
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 194-A.
 
@@ -14593,11 +14603,13 @@ El ejercicio de las facultades a que se refiere este artículo, es independiente
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 194-C.
 
-Por el otorgamiento de permisos, prórrogas, sustituciones, transferencias o concesiones para el uso o aprovechamiento de elementos y recursos naturales dentro de las áreas naturales protegidas, se pagarán derechos conforme a las siguientes cuotas:
+Por el otorgamiento de autorizaciones, prórrogas, sustituciones, transferencias o concesiones para el uso o aprovechamiento de elementos y recursos naturales dentro de las áreas naturales protegidas, se pagarán derechos conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -14609,11 +14621,11 @@ I.- Por el otorgamiento de la
 
 concesión, anualmente $3,260.26 $3,260
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por el otorgamiento de permiso,
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-por cada uno $317.63 $318
+II.- Por el otorgamiento de cada autorización $317.63
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14635,9 +14647,11 @@ c).- De 1001 en adelante $570.37 $570
 
 Con base en lo referido en esta fracción, tratándose de actividades turísticas o urbanísticas que se realicen en las citadas áreas, se pagará el 50% de los montos de los derechos señalados en los incisos a), b) y c) de dicha fracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por el otorgamiento de permisos para prestadores de servicios turísticos, por temporada:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IV.- Por el otorgamiento de autorizaciones para prestadores de servicios turísticos:
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14725,11 +14739,11 @@ derecho conforme a la siguiente
 
 cuota $101.61 $102
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION SEGUNDA. Inspección y Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 194-D.
 
@@ -14839,11 +14853,11 @@ Este derecho se pagará independientemente del que corresponda por el uso o apro
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 194-F.
 
@@ -14855,7 +14869,7 @@ ajuste ajuste
 
 A. (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 B. Por la expedición de permisos, autorizaciones y certificados:
 
@@ -15045,13 +15059,13 @@ IV.- Por supervisión anual, por
 
 Hectárea $8.21 $8
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
 #### SECCION SEGUNDA
 
 Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 194-H.
 
@@ -15157,7 +15171,7 @@ Evaluación del Impacto Ambiental,
 
 se pagará la cuota de: $3,216.44 $3,216
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -15185,7 +15199,7 @@ Tratándose de la solicitud de reconsideración de resolución negativa de cada 
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION TERCERA.
 
@@ -15245,7 +15259,7 @@ d). La solicitud de modificación sea exclusivamente para el aprovechamiento de 
 
 e). La solicitud de modificación sea para cambiar la cronología de las anualidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 194-L.
 
@@ -15493,7 +15507,7 @@ III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 5.- (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION CUARTA. De las Areas Naturales Protegidas
 
@@ -15627,7 +15641,7 @@ Por las solicitudes de transferencia, modificación o prórroga de la autorizaci
 
 Los microgeneradores organizados que presenten las solicitudes a que se refiere la fracción I del presente artículo pagarán el 50% de la cuota establecida en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 194-T
 
@@ -15771,11 +15785,11 @@ de sitios contaminados se pagará
 
 la cuota de $3,572.83 $3,573
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 194-U.
 
@@ -15945,23 +15959,11 @@ Las unidades de verificación que soliciten la aprobación para ser consideradas
 
 El 60% de los ingresos que se obtengan por la recaudación del derecho a que se refieren las fracciones I, II, III, VI, VII y VIII, se destinarán a la Procuraduría Federal de Protección al Ambiente para el fortalecimiento de los servicios de inspección y vigilancia.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 194-V.
 
-Por el dictamen técnico para determinar los daños o perjuicios ocasionados por la infracción a disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-I.- Personas físicas $11,626.57 $11,627
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-II.- Personas morales $17,439.85 $17,440
+(DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15995,7 +15997,7 @@ Por la solicitud y, en su caso, autorización de la modificación del Documento 
 
 #### SECCION SEXTA. Servicios de Vida Silvestre
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 195.
 
@@ -16058,6 +16060,12 @@ III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de esta
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
 a). Por fábrica o laboratorio $70,838.95 $70,839
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas, se pagará el 50% del derecho que corresponda a este inciso.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -16363,7 +16371,7 @@ a la cuota de $2,304.85 $2,305
 
 #### SECCION OCTAVA. Servicios Forestales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 195-C.
 
@@ -16401,9 +16409,11 @@ por tipo de producto, se pagará la
 
 cuota de $1,956.82 $1,957
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de $6,701.94 $6,702
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, y por cada autorización emitida, conforme a la cuota de $6,701.94
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16473,7 +16483,7 @@ c).- De riesgo bajo sanitario $885.88 $886
 
 #### SECCION NOVENA. Prevención y Control de la Contaminación
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 195-E.
 
@@ -16783,11 +16793,13 @@ encuentre vigente $611.11 $611
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 195-I.
 
-Por los servicios de trámite de cada solicitud de los permisos, expedición de licencias, así como por la autorización de protocolos de investigación y de la clave alfanumérica de remedios herbolarios, se pagará el derecho de trámite sanitario, conforme a las siguientes cuotas:
+Por otros servicios en materia sanitaria se pagarán los siguientes derechos:
 
 cuota sin cuota con
 
@@ -16829,9 +16841,11 @@ cada solicitud de liberación $1,524.52 $1,525
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios de insumos para la salud, con motivo de pérdida, robo o extravío, se pagará conforme a la siguiente cuota:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios, con motivo de pérdida, robo o extravío, se pagará conforme a las siguientes cuotas:
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -17021,25 +17035,13 @@ doméstico, se pagarán derechos
 
 conforme a la cuota de $3,633.31 $3,633
 
-cuota sin cuota con
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 195-K
 
-4.- Por la validación
-
-de la calidad sanitaria del agua del
-
-área de producción de moluscos
-
-bivalvos y de las especies que se
-
-cultivan o cosechan, se pagarán
-
-derechos conforme a la cuota de $10,572.90 $10,573
+4.- Por cada certificado que se emita al amparo del Programa Mexicano de Sanidad de Moluscos Bivalvos, distintos a los señalados en este Capítulo, se pagarán derechos conforme a la cuota de $1,600.00
 
 cuota sin cuota con
 
@@ -17061,23 +17063,11 @@ Moluscos Bivalvos, se pagarán derechos
 
 conforme a la cuota de $10,478.44 $10,478
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 195-K
 
-6.- Por la acreditación
-
-de plantas de empacado al Programa
-
-Mexicano de Sanidad de Moluscos
-
-Bivalvos, se pagarán derechos
-
-conforme a la cuota de $12,062.55 $12,063
+6.- (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 cuota sin cuota con
 
@@ -17983,9 +17973,17 @@ cualquier actividad vinculada
 
 con los servicios de seguridad privada $13,086.94 $13,087
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-f).- (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+f).- Para prestar servicios de alarmas y de monitoreo electrónico $14,047.54
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+g).- Para fungir como centro de capacitación privado $14,047.54
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
 
@@ -18345,6 +18343,12 @@ Estarán exentos del pago de los derechos a que se refieren las fracciones I y I
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para la conservación y aprovechamiento sustentable de las Áreas Naturales Protegidas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En el caso de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales marinos e insulares de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 198-A.
@@ -18458,6 +18462,12 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 En el caso de que en un Área Natural Protegida se realice cualquiera de las actividades establecidas en el presente artículo o en el artículo 198 de esta Ley, únicamente se pagará el derecho establecido en este último artículo.
 
 El pago del derecho a que se refiere este artículo, no exime a los obligados del mismo del cumplimiento de las obligaciones que pudieran adquirir con los propietarios o legítimos poseedores de los terrenos que se encuentran dentro de las Áreas Naturales Protegidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En el supuesto de que para acceder a una determinada Área Natural Protegida que por sus características geográficas sea contigua con otra y solamente se pueda acceder a la misma transitando por la otra, únicamente se pagarán los derechos a los que hacen referencia las fracciones I y II, según sea el caso, por aquélla en la que usen o aprovechen los elementos naturales y escénicos de la misma, siempre y cuando sea en el mismo día y no se usen o aprovechen los elementos del Área Natural Protegida contigua.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -19069,15 +19079,19 @@ Los ingresos generados por la recaudación de este derecho, estarán a lo dispue
 
 Caminos y Puentes Federales de Ingresos y Servicios Conexos está obligado al pago de derechos por el uso de las carreteras y puentes federales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 213.
 
-Caminos y Puentes Federales de Ingresos y Servicios Conexos determinará el derecho por cada ejercicio fiscal, aplicando la tasa del 5% sobre los ingresos por la venta de bienes y servicios que obtenga por el uso de las carreteras y puentes federales, conforme a sus estados financieros dictaminados y que presente ante la Secretaría de la Función Pública.
+Caminos y Puentes Federales de Ingresos y Servicios Conexos determinará el derecho por cada ejercicio fiscal, aplicando la tasa del 1.0% sobre los ingresos por la venta de bienes y servicios que obtenga por el uso de las carreteras y puentes federales, conforme a sus estados financieros dictaminados y que presente ante la Secretaría de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para la determinación de la base del derecho a que se refiere el párrafo anterior, no se considerarán los ingresos provenientes de los bienes que se encuentren fideicomitidos.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para la determinación de la base del derecho a que se refiere el párrafo anterior, no se considerarán los ingresos provenientes de los bienes que se encuentren fideicomitidos, así como los que el organismo entere a la Federación por concepto de coordinación fiscal, de acuerdo con el artículo 9-A de la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -19093,11 +19107,11 @@ El derecho del ejercicio se pagará mediante declaración que se presentará ant
 
 Caminos y Puentes Federales de Ingresos y Servicios Conexos efectuará pagos provisionales mensuales a cuenta del derecho del ejercicio a más tardar el día 17 del mes inmediato posterior a aquél en que corresponda el pago.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El pago provisional se calculará aplicando la tasa del 5% a los ingresos por la venta de bienes y servicios obtenidos desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago. Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente realizados en los meses anteriores de dicho ejercicio y la diferencia será el pago provisional a enterar.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+El pago provisional se calculará aplicando la tasa del 1% a los ingresos por la venta de bienes y servicios obtenidos desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago. Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente realizados en los meses anteriores de dicho ejercicio y la diferencia será el pago provisional a enterar.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -19157,7 +19171,9 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 #### SECCION PRIMERA. Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
@@ -19165,209 +19181,111 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 ###### ARTICULO 222.
 
-Están obligadas al pago del derecho sobre agua, las personas físicas y las morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción de conformidad a la división territorial contenida en el artículo 231 de esta Ley.
+Están obligadas al pago del derecho sobre agua, las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 223.
 
-Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo, se pagará el derecho sobre agua, de conformidad con la zona de disponibilidad de agua en que se efectúe su extracción y de acuerdo con las siguientes cuotas:
+Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo, se pagará el derecho sobre agua, de conformidad con la zona de disponibilidad de agua y la cuenca o acuífero en que se efectúe su extracción y de acuerdo con las siguientes cuotas:
 
-cuota sin cuota con
+A. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, por cada metro cúbico:
 
-ajuste ajuste
+(VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-A.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, por cada metro cúbico:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-I.- Zona de disponibilidad 1 $20.5042
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-II.- Zona de disponibilidad 2 $16.4028
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-III.- Zona de disponibilidad 3 $13.6689
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-IV.- Zona de disponibilidad 4 $11.2770
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-V.- Zona de disponibilidad 5 $8.8845
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-VI.- Zona de disponibilidad 6 $8.0297
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-VII.- Zona de disponibilidad 7 $6.0437
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-VIII.- Zona de disponibilidad 8 $2.1472
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-IX.- Zona de disponibilidad 9 $1.6092
-
-Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales, que cuenten con el permiso por parte de los municipios u organismos operadores para la prestación de los servicios de agua potable, cumplan con las condiciones de calidad de agua para consumo humano establecidas en las normas oficiales mexicanas y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso. Los contribuyentes podrán aplicar las cuotas preferenciales que establece el Apartado B, fracción I de este artículo, siempre y cuando cumplan con todos los requisitos previstos en este párrafo.
 
 De los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales por usuarios distintos de los municipales y organismos operadores de los mismos, 300 millones de pesos tendrán destino específico para el Fondo Forestal Mexicano para el desarrollo y operación de Programas de Pago por Servicios Ambientales. Estos recursos ampliarán el presupuesto que se asigne a la Comisión Nacional Forestal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+B. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, se pagará el derecho sobre agua por cada mil metros cúbicos, destinadas a:
 
-B.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, se pagará el derecho sobre agua por cada mil metros cúbicos, destinadas a:
+I. Uso de agua potable:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+a). Asignada a Entidades Federativas, Municipios, organismos paraestatales, paramunicipales.
 
-I.- Uso de agua potable:
+b). Concesionadas a empresas que presten el servicio de agua potable o alcantarillado y que mediante autorización o concesión, presten el servicio en sustitución de las personas morales a que se refiere el inciso a).
 
-a).- Asignada a Entidades Federativas, Municipios, organismos paraestatales, paramunicipales.
-
-b).- Concesionadas a empresas que presten el servicio de agua potable o alcantarillado y que mediante autorización o concesión, presten el servicio en sustitución de las personas morales a que se refiere el inciso a).
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-c).- Concesionada a colonias constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+c). Concesionada a colonias constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
 
 Para los efectos del uso de agua potable, se considerará:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 1 a 6 $406.20
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 7 $189.15
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 8 $94.46
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 9 $47.02
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+(VÉASE ARCHIVO ANEXO)
 
 Los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere esta fracción, que paguen los municipios, se destinarán a la Comisión Nacional del Agua para obras de infraestructura hidráulica.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que en las mismas se señalan cuando el consumo de agua en el periodo sea inferior o igual a un volumen equivalente a los 300 litros por habitante al día, de acuerdo con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística, Geografía e Informática, actualizado con las proyecciones de población publicadas por el Consejo Nacional de Población.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-En aquellos casos en que el consumo no exceda de los volúmenes a que se refiere el párrafo anterior, se aplicarán las siguientes tarifas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 1 a 6 $406.20
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 7 $189.15
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 8 $94.46
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 9 $47.02
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que en las mismas se señalan cuando el consumo de agua en el periodo sea inferior o igual a un volumen equivalente a los 300 litros por habitante al día, de acuerdo con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
 
 En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+(VÉASE ARCHIVO ANEXO)
 
-Zona de disponibilidad 1 a 6 $812.38
+II. Generación Hidroeléctrica $4.7469
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+III. Acuacultura:
 
-Zona de disponibilidad 7 $378.30
+(VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+IV. Balnearios y centros recreativos:
 
-Zona de disponibilidad 8 $188.93
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 9 $94.07
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-II.- Generación Hidroeléctrica $4.3102
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-III.- Acuacultura:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 1 a 6 $3.3479
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 7 $1.6487
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 8 $0.7752
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 9 $0.3682
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-IV.- Balnearios y centros recreativos:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 1 a 6 $11.6629
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 7 $5.7459
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 8 $2.7050
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 9 $1.2862
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(VÉASE ARCHIVO ANEXO)
 
 Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de acceso exclusivo o privado y campos de golf.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
 
-C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-Zona de disponibilidad 1 a 9 $0.1452
+Zona de disponibilidad 1 a 4 $0.1452
 
 Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 223.
+
+-BIS.- Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
+
+Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
+
+(VÉASE ARCHIVO ANEXO)
+
+Apartado B, fracción I del artículo 223 de esta Ley, fuente de extracción aguas superficiales
+
+(VÉASE ARCHIVO ANEXO)
+
+Apartado B, fracción II del artículo 223 de esta Ley, fuente de extracción aguas superficiales
+
+(VÉASE ARCHIVO ANEXO)
+
+Apartado B, fracción III del artículo 223 de esta Ley, fuente de extracción aguas superficiales
+
+(VÉASE ARCHIVO ANEXO)
+
+Apartado B, fracción IV del artículo 223 de esta Ley, fuente de extracción aguas superficiales
+
+(VÉASE ARCHIVO ANEXO)
+
+Apartado C, dei (sic) artículo 223 de esta Ley, fuente de extracción aguas superficiales
+
+(VÉASE ARCHIVO ANEXO)
+
+La cuota que resulte de las tablas anteriores, se aplicará por cada metro cúbico o mil metros cúbicos de agua que durante el trimestre trasvase directamente el contribuyente, así como por cada metro cúbico o mil metros cúbicos de los que se haya beneficiado el contribuyente derivado del trasvase indirecto, según corresponda.
+
+El contribuyente podrá optar por adicionar a la cuota prevista en el artículo 223 de esta Ley, la cuota que se determine de acuerdo con la siguiente fórmula:
+
+(VÉASE ARCHIVO ANEXO)
+
+Como facilidad administrativa, la Secretaría de Hacienda y Crédito Público, publicará en el Diario Oficial de la Federación, a más tardar el último día del segundo mes del ejercicio fiscal que corresponda, las cuotas aplicables al trasvase durante dicho ejercicio.
+
+Para los efectos de este artículo se considerará trasvase, el uso, explotación o aprovechamiento de aguas nacionales trasladadas de una cuenca a una distinta con la que no haya conexión natural, que realiza el Estado, así como los asignatarios y concesionarios, mediante obras de infraestructura hidráulica, para concesionarlas, asignarlas, usarlas, aprovecharlas y explotarlas en un lugar distinto a la cuenca de extracción, y que para los fines de la presente Ley pueden ser:
+
+a). Directo: El que realizan los asignatarios y concesionarios con autorización de la Comisión Nacional del Agua.
+
+b). Indirecto: El que efectúa el Estado en beneficio de los asignatarios o concesionarios, con inversión federal o con participación de inversión estatal, municipal, social o privada. Dicho beneficio tiene lugar cuando concesionarios y asignatarios usan, aprovechan o explotan aguas nacionales trasvasadas previamente por el Estado.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 224.
 
@@ -19423,19 +19341,45 @@ NMP= Número más probable. BHC=HCH=1,2,3,4,5,6 Hexaclorociclohexano. Niveles m�
 
 Lo dispuesto en esta fracción no será aplicable al agua que se use o aproveche para la generación de energía hidroeléctrica.
 
-VI.- Por la explotación, extracción, uso o aprovechamiento de las aguas interiores salobres, cuando se obtenga certificado expedido por la Comisión Nacional del Agua en el que se establezca que dicha agua contiene más de 2,500 miligramos por litro, de sólidos disueltos totales, independientemente de si se desaliniza o se trata. Dicho certificado será válido durante tres ejercicios fiscales contado aquél en que fue expedido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-El certificado deberá solicitarse dentro de los tres primeros meses del ejercicio fiscal de que se trate. En caso de ser solicitado posteriormente al plazo antes señalado, será válido a partir del momento en que se solicitó.
+VI.- Por la explotación, extracción, uso o aprovechamiento de las aguas interiores salobres, cuando el contribuyente acredite que éstas contienen más de 2,500 miligramos por litro, de sólidos disueltos totales, independientemente de si se desaliniza o se trata.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Para efectos de la exención a que se refiere esta fracción, el contribuyente estará obligado a realizar alguna de las siguientes opciones:
 
-Estos contribuyentes deberán tener instalados dispositivos de medición tanto a la entrada como a la salida de las aguas.
+a). Llevar a cabo el muestreo y análisis de la calidad del agua explotada, usada o aprovechada en cada punto de extracción y de forma diaria, mediante reportes basados en determinaciones analíticas realizadas por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, los cuales deberán adjuntarse a la declaración trimestral que corresponda.
+
+b). Instalar los aparatos de medición de calidad, cuyas características, instalación, calibración y funcionamiento deberán cumplir con los requisitos que la Comisión Nacional del Agua establezca mediante reglas de carácter general, publicadas en el Diario Oficial de la Federación, y solicitar la validación de que se cumple con los referidos requisitos.
+
+La validación a que se refiere este inciso se solicitará a la Comisión Nacional del Agua, previo pago del derecho a que se refiere el artículo 192-F de esta Ley, la cual deberá notificarse dentro de los diez días hábiles siguientes a la presentación de la solicitud y del comprobante del pago, considerando para efectos del cálculo del derecho por aguas nacionales lo siguiente:
+
+i) Cuando la citada Comisión notifique al contribuyente la resolución de validación favorable dentro del plazo previsto de diez días hábiles, el contribuyente considerará las lecturas diarias del medidor de calidad a partir de la fecha de su instalación o reparación; en caso de que la resolución sea en sentido negativo se considerará que el agua contiene menos de 2,500 miligramos por litro de sólidos disueltos totales.
+
+ii) En el caso de que la referida Comisión no notifique al contribuyente la resolución con motivo de la validación dentro del plazo previsto de diez días hábiles, el contribuyente considerará que las lecturas diarias del medidor contienen más de 2,500 miligramos por litro de sólidos disueltos totales a partir de la fecha de su instalación o reparación, hasta en tanto la Comisión le notifique la resolución respectiva.
+
+Cuando la Comisión Nacional del Agua no reciba información de la calidad del agua por cinco días hábiles consecutivos, se entenderá que el aparato de medición se descompuso y el contribuyente deberá repararlo o sustituirlo en un plazo que no exceda de un mes contado a partir del primer día en que la Comisión dejó de recibir información de la medición de calidad del agua.
+
+Una vez reparado o sustituido el medidor de calidad, el contribuyente deberá solicitar la validación a que se refiere este inciso.
+
+Para el periodo comprendido desde que se descompuso el medidor de calidad y hasta el día en que se haya reparado o sustituido, se considerarán los muestreos y análisis referidos en el inciso a) de esta fracción, o a través del promedio de los resultados de la medición de sólidos disueltos totales de los quince días naturales inmediatos anteriores a la descompostura del medidor, para lo cual se sumarán las lecturas diarias del citado medidor de los referidos quince días y el resultado lo dividirá entre quince, el cociente obtenido será la calidad del agua que se considerará para efectos de determinar el volumen exento.
+
+Para la determinación del volumen usado, explotado o aprovechado exento en el trimestre, el contribuyente considerará el volumen que efectivamente usó, explotó o aprovechó en cada uno de los días del trimestre en los que se acreditó que el agua contiene más de 2,500 miligramos por litro de sólidos disueltos totales, para lo cual deberá contar con el medidor volumétrico a que se refiere el párrafo primero del artículo 225 de esta Ley y llevar un registro diario de lecturas.
+
+El contribuyente podrá optar para la determinación del volumen usado, explotado o aprovechado exento en el trimestre, considerando la lectura del aparato de medición volumétrico a que se refiere el artículo 225 de esta Ley durante el último día hábil del trimestre de que se trate y disminuir la lectura realizada el último día del trimestre anterior, el resultado se dividirá entre el número de días que conforman el trimestre para obtener el promedio diario de volumen, el cual se multiplicará por el número de días que durante el trimestre se acreditó que el agua contenía más de 2,500 miligramos por litro de sólidos disueltos totales.
+
+Los contribuyentes a que se refiere esta fracción están obligados a permitir el acceso al personal de la Comisión Nacional del Agua para verificar los medidores, de lo contrario no podrán gozar del beneficio previsto en esta fracción.
 
 VII.- Por el uso o aprovechamiento de aguas efectuado por las poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda y por los organismos operadores de agua potable y alcantarillado, públicos o privados, que abastezcan de agua para consumo doméstico a estas poblaciones, por los volúmenes suministrados para este fin.
 
 VIII.- Por el uso o aprovechamiento de aguas nacionales efectuada por entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IX.- Por el uso, explotación o aprovechamiento de aguas tomadas del mar.
 
 Las personas físicas o morales que estén exentas en los términos del presente artículo y que realicen usos o aprovechamientos diferentes a éstos, deberán medir los volúmenes y pagar los derechos respectivos en los términos del presente Capítulo. Cuando no se midan los volúmenes exentos respecto de los que sí causan derechos, estarán obligados al pago de los mismos por la totalidad de los volúmenes de agua que usen o aprovechen, quedando sin efecto las citadas exenciones.
 
@@ -19459,33 +19403,9 @@ I.- El costo comprobado de los aparatos de medición y los gastos de su instalac
 
 A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del aparato de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- $2.3886
-
-por cada metro cúbico de agua
-
-potable que se proporcione al
-
-Distrito Federal o a los municipios
-
-del Valle de México, a través de su
-
-conexión transitoria a la respectiva
-
-red de agua potable, tratándose de
-
-pozos que no sean propiedad de
-
-dichas instancias de gobierno, pero
-
-que por necesidad pública las mismas
-
-requieran de su uso o aprovechamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -19683,337 +19603,53 @@ Tratándose de contribuyentes que efectúen el uso, explotación o aprovechamien
 
 Tratándose del derecho a que se refiere el presente Capítulo, la Comisión Nacional del Agua está facultada para ejercer las atribuciones a que se refiere el artículo 192-E de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 231.
 
-Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, son las siguientes:
+Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, se determinarán conforme a lo siguiente:
 
-ZONA 1.
+I. Tratándose de aguas superficiales la determinación será por cuenca hidrológica aplicando la siguiente fórmula:
 
-Distrito Federal.
+(VÉASE ARCHIVO ANEXO)
 
-Estado de México: Atizapán de Zaragoza, Chalco, Chiconcuac, Chimalhuacán, Coacalco, Cuautitlán, Cuautitlán-lzcalli, Ecatepec, Huixquilucan, Ixtapaluca, Melchor Ocampo, Naucalpan de Juárez, Nezahualcóyotl, Nicolás Romero, La Paz, Tecámac, Tepotzotlán, Texcoco, Tlalnepantla de Baz, Tultepec, Tultitlán y Valle de Chalco Solidaridad.
+El volumen anual de retornos, se determina mediante aforo de las salidas de los volúmenes que se reincorporan a la red de drenaje de una cuenca.
 
-Estado de San Luis Potosí: Cerro de San Pedro, San Luis Potosí y Soledad de Graciano Sánchez.
+El volumen anual de evaporación en embalses, se determina a partir de la lámina de evaporación medida, aplicada a la superficie libre del agua expuesta, en los embalses naturales o artificiales.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+El volumen anual de variación del almacenamiento en embalses, se determina mediante la diferencia del volumen final, menos el volumen inicial (V final–V inicial), de cada año en particular.
 
-ZONA 2
+(VÉASE ARCHIVO ANEXO)
 
-Estado de Aguascalientes: Aguascalientes.
+En caso de que la Norma Oficial Mexicana señalada en el párrafo anterior se modifique, para efectos de este artículo se continuará aplicando la NOM-011-CONAGUA-2000.
 
-Estado de Baja California: Playas de Rosarito y Tijuana.
+La Comisión Nacional del Agua, publicará anualmente en el Diario Oficial de la Federación, a más tardar el segundo mes del ejercicio fiscal de que se trate, como facilidad administrativa, los valores de cada una de las variables que integran la citada fórmula.
 
-Estado de Coahuila: Matamoros y Torreón.
+El resultado obtenido de la fórmula prevista en esta fracción, se ubicará dentro de los rangos siguientes para determinar la zona de disponibilidad que le corresponda a la cuenca:
 
-Estado de Durango: Gómez Palacio y Lerdo.
+(VÉASE ARCHIVO ANEXO)
 
-Estado de Guanajuato: Celaya y León.
+II. Tratándose de aguas subterráneas la determinación será por acuífero aplicando la siguiente fórmula:
 
-Estado de Jalisco: Guadalajara, Tlaquepaque, Tonalá y Zapopan.
+(VÉASE ARCHIVO ANEXO)
 
-Estado de México: Apaxco, Atizapán, Chapa de Mota, Huehuetoca, Jilotepec, San Martín de las Pirámides, Teotihuacán, Toluca y Villa del Carbón.
+Las variables que integran la fórmula prevista en esta fracción se determinarán en términos del método obligatorio previsto en la Norma Oficial Mexicana NOM-011-CONAGUA-2000 que establece las especificaciones y el método para determinar la disponibilidad media anual de las aguas nacionales.
 
-Estado de Querétaro: Corregidora, Marqués El y Querétaro.
+En caso de que la Norma Oficial Mexicana señalada en el párrafo anterior se modifique, para efectos de este artículo se continuará aplicando la NOM-011-CONAGUA-2000.
 
-Estado de San Luis Potosí: Villa de Reyes y Zaragoza.
+La Comisión Nacional del Agua, publicará anualmente en el Diario Oficial de la Federación, a más tardar el segundo mes del ejercicio fiscal de que se trate, como facilidad administrativa, los valores de cada una de las variables que integran la citada fórmula.
 
-ZONA 3.
+El resultado obtenido de la fórmula prevista en esta fracción, se ubicará dentro de los rangos siguientes para determinar la zona de disponibilidad que le corresponda al acuífero:
 
-Estado de Baja California: Tecate.
+(VÉASE ARCHIVO ANEXO)
 
-Estado de Chihuahua: Aldama, Allende, Camargo, Chihuahua, Cuauhtémoc, Jiménez, Juárez, López y San Francisco de Conchos.
+III. La Comisión Nacional del Agua para fines informativos publicará en su página de Internet en el mes de septiembre los valores preliminares calculados a dicho mes de cada una de las variables que integran las fórmulas previstas en las fracciones I y II de este artículo, así como la zona de disponibilidad que correspondería a cada cuenca o acuífero.
 
-Estado de Coahuila: Francisco I. Madero, Ramos Arizpe, Saltillo, San Pedro de las Colonias y Viesca.
+Lo previsto en esta fracción es sin menoscabo de lo dispuesto en las fracciones anteriores de este artículo.
 
-Estado de Colima: Manzanillo.
-
-Estado de Durango: Mapimí y Tlahualilo.
-
-Estado de Guanajuato: Apaseo El Alto, Apaseo El Grande, Doctor Mora, Romita, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao y Villagrán.
-
-Estado de México: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Cocotitlán, Coyotepec, Chapultepec, Chicoloapan, Isidro Fabela, Ixtlahuaca, Jalatlaco, Jaltenco, Joquicingo, Malinalco, Nextlalpan, Rayón, San Antonio la Isla, Soyaniquilpan de Juárez, Temascalcingo, Teoloyucan, Tianguistenco, Texcaltitlán, Texcalyacac, Tonatico, Zinacantepec y Zumpango.
-
-Estado de Morelos: Axochiapan y Tepalcingo.
-
-Estado de Nuevo León: Apodaca, Benito Juárez, Carmen El, García, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza y Santa Catarina.
-
-Estado de Puebla: Puebla y Santa Clara Huitziltepec.
-
-Estado de Quintana Roo: Cozumel, en su porción insular.
-
-Estado de San Luis Potosí: Cedral, Matehuala y Villa de Arista.
-
-ZONA 4.
-
-Estado de Aguascalientes: Asientos, Calvillo, Cosío, Jesús María, Pabellón de Arteaga, Llano El, Rincón de Romos, San José de Gracia, San Francisco de los Romo y Tepezalá.
-
-Estado de Baja California: Ensenada y Mexicali.
-
-Estado de Baja California Sur: La Paz, Los Cabos y Loreto.
-
-Estado de Chihuahua: Ahumada, Ascensión, Delicias, Janos, Julimes, La Cruz, Meoqui, Rosales y Saucillo.
-
-Estado de Coahuila: Allende, Monclova, Morelos, Nava y Piedras Negras.
-
-Estado de Durango: Durango y San Pedro del Gallo.
-
-Estado de Guanajuato: Abasolo, Allende, Comonfort, Dolores Hidalgo, Irapuato, Pueblo Nuevo, Salamanca y Valle de Santiago.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Estado de Hidalgo: Alfajayucan, Almoloya, Apan, Cuautepec de Hinojosa, Chapantongo, Epazoyucan, Huichapan, Pachuca de Soto, Mineral de la Reforma, Nopala de Villagrán, Singuilucan, Tasquillo, Tecozautla, Tepeapulco, Tezontepec de Aldama, Tizayuca, Tlanalapa, Tolcayuca, Tulancingo de Bravo, Zapotlán de Juárez y Zimapán.
-
-Estado de Jalisco: El Salto.
-
-Estado de México: Acolman, Almoloya del Río, Amatepec, Atenco, Ixtapan de la Sal, Jocotitlán, Lerma, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, El Oro, Otzolotepec, San Felipe del Progreso, San Mateo Atenco, Temoaya, Tenancingo, Tenango del Valle, Tlatlaya, Villa Guerrero, Xonacatlán y Zumpahuacán.
-
-Estado de Nuevo León: Bustamante, Mina y Salinas Victoria.
-
-Estado de Oaxaca: Asunción Ocotlán, Ayoquezco de Aldama, Ciénega de Zimatlán La, Coatecas Altas, Compañía La, Cuilapam de Guerrero, Ejutla de Crespo, Guadalupe Etla, Mesones Hidalgo, Magdalena Apasco, Magdalena Mixtepec, Magdalena Teitipac, Mazatlán Villa de Flores, Natividad, Nazareno Etla, Oaxaca de Juárez, Ocotlán de Morelos, Pe La, San José del Progreso, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín de las Juntas, San Agustín Etla, San Agustín Yatareni, San Andrés Zabache, San Andrés Zautla, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Bartolo Coyotepec, San Bernardo Mixtepec, San Dionisio Ocotlán, San Felipe Tejalapam, San Francisco Huehuetlán, San Francisco Lachigolo, San Francisco Sola, San Francisco Telixtlahuaca, San Jacinto Amilpas, San Jerónimo Sosola, Ánimas Trujano, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Tlachichilco, San Juan Chilateca, San Juan Guelavia, San Juan Teitipac, San Lorenzo Cacaotepec, San Martín de los Canseco, San Martín Tilcajete, San Martín Toxpalan, Capulalpan de Méndez, San Miguel Amatlán, San Miguel Ejutla, San Pablo Cuatro Venados, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pedro Apóstol, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir, San Pedro y San Pablo Etla, San Sebastián Abasolo, San Sebastián Tutla, Santa Ana, Santa Ana del Valle, Santa Ana Zegache, Santa Catarina Quiane, Santa Cruz Amilpas, Santa Cruz Papalutla, Santa Cruz Xoxocotlán, Santa Lucía del Camino, Santa Lucía Miahuatlán, Santa María Apazco, Santa María Atzompa, Santa María Coyotepec, Santa María del Tule, Santa María Guelace, Santa María Texcaltitlán, Santiago Apoala, Santiago Apóstol, Santiago Suchilquitongo, Santiago Tenango, Santiago Tilantongo, Santo Domingo Tomaltepec, Santo Tomás Mazaltepec, Soledad Etla, Taniche, Teotitlán de Flores Magón, Teotitlán del Valle, San Jerónimo Tlacochauaya, Tlacolula de Matamoros, Tlacotepec Plumas, Tlalixtac de Cabrera, Trinidad Zaachila, Valerio Trujano, Zaachila Villa de, Villa Etla y Zimatlán de Álvarez.
-
-Estado de Puebla: Altepexi, Amozoc, Atoyatempan, Cuapiaxtla de Madero, Cuauntinchán, Mixtla, Ocoyucan, Palmar de Bravo, Quecholac, Reyes de Juárez Los, San Andrés Cholula, San Pedro Cholula, San Salvador Huixcolotla, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco, Tehuacán, Tepeaca, Tepeyahualco de Cuauhtémoc, Tlanepantla y Tochtepec.
-
-Estado de Querétaro: Colón, Pedro Escobedo, San Juan del Río y Tequisquiapan.
-
-Estado de San Luis Potosí: Ahualulco, Catorce, Ciudad Fernández, Charcas, Mexquitic de Carmona, Moctezuma, Río Verde, Santo Domingo, Vanegas, Venado, Villa de Arriaga, Villa de la Paz y Villa de Ramos.
-
-Estado de Sonora: Altar, Atil, Caborca, Cananea, Empalme, Guaymas, Hermosillo, Nogales, Pitiquito, General Plutarco Elías Calles, Puerto Peñasco y San Luis Río Colorado.
-
-Estado de Zacatecas: Fresnillo, Guadalupe, Ojocaliente y Zacatecas.
-
-ZONA 5.
-
-Estado de Baja California Sur: Comondú y Mulegé.
-
-Estado de Chiapas: (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
-
-Estado de Chihuahua: Aquiles Serdán, Buenaventura, Casas Grandes, Coronado, Galeana, Hidalgo del Parral, Matamoros, Nuevo Casas Grandes, San Francisco del Oro y Santa Bárbara.
-
-Estado de Coahuila: Abasolo, Arteaga, Candela, Cuatrociénegas, Frontera, Nadadores, Parras de la Fuente, Progreso, Sabinas, Sacramento, San Buenaventura, San Juan de Sabinas y Villa Unión.
-
-Estado de Durango: Canatlán, General Simón Bolívar, Nazas, Nombre de Dios, Poanas, Rodeo, San Juan de Guadalupe, San Luis del Cordero y Vicente Guerrero.
-
-Estado de Guanajuato: Ciudad Manuel Doblado, Cortázar, Cuerámaro, Huanímaro, Jaral del Progreso, Moroleón, Pénjamo, Purísima del Rincón, Salvatierra, San Diego de la Unión, San Felipe, Uriangato y Yuriria.
-
-Estado de Guerrero: Acapulco de Juárez y José Azueta.
-
-Estado de Hidalgo: Atotonilco de Tula, Emiliano Zapata, Ixmiquilpan, Metepec, Santiago Tulantepec de Lugo Guerrero, Tepeji del Río de Ocampo, Tepetitlán, Villa de Tezontepec y Zempoala.
-
-Estado de Jalisco: La Barca y Tlajomulco de Zúñiga.
-
-Estado de México: Aculco, Amanalco, Chiautla, Donato Guerra, Hueypoxtla, Ixtapan del Oro, Otzoloapan, Polotitlán, San Simón de Guerrero, Santo Tomás de los Plátanos, Sultepec, Tejupilco, Temascalapa, Temascaltepec, Tenango del Aire, Timilpan, Valle de Bravo, Villa de Allende, Villa Victoria, Zacazonapan y Zacualpan.
-
-Estado de Michoacán: Alvaro Obregón, Copándaro, Charo, Morelia, Tannuato, Tarímbaro, Vista Hermosa y Yurécuaro.
-
-Estado de Morelos: Cuernavaca.
-
-Estado de Nuevo León: Abasolo, Doctor González, Galeana, Rayones y Vallecillo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Estado de Oaxaca: Fresnillo de Trujano, Guelatao de Juárez, Huautla de Jiménez, Nejapa de Madero, Salina Cruz, San Andrés Sinaxtla, San Antonino Castillo Velasco, San Antonio Nanahuatipam, San Baltazar Chichicapan, San Cristóbal Suchixtlahuaca, San Jerónimo Taviche, San Jorge Nuchita, San José Ayuquila, San Juan Achiutla, San Juan Atepec, San Juan Bautista Atlatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan del Río (Albarrada), San Juan Lachigalla, San Juan de los Cués, San Juan Ñumi, San Juan Tepeuxila, San Juan Yae, San Luis Amatlán, San Martín Zacatepec, San Mateo Etlatongo, San Mateo Nejapam, San Miguel Achiutla, San Miguel Aloapam, San Miguel Amatitlán, San Miguel Chicahua, San Miguel del Río, San Miguel Huautla, Villa Sola de Vega, San Miguel Tlacotepec, San Pedro Cajonos, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Quiatoni, San Pedro Taviche, San Pedro Totolapam, San Pedro y San Pablo Tequixtepec, San Simón Zahuatlán, Santa Ana Tavela, Santa Ana Yareni, Santa Catarina Ixtepeji, Santa Catarina Zapoquila, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Nundaco, Santa Cruz Tayata, Santa Gertrudis, Santa María Jaltianguis, Santa María Nativitas, Santa María Nduayaco, Santa María Papalo, Santa María Petapa, Santa María Tecomavaca, Santa María Yavesia, Santa María Zoquitlán, Santiago Ayuquililla, Santiago Comaltepec, Santiago Chazumba, Santiago Huauclilla, Santiago Matatlán, Santiago Miltepec, Santiago Nuyoo, Santiago Xiacui, Nuevo Zoquiapam, Santo Domingo Petapa, Santos Reyes Yucuna, Sitio de Xitlapehua, Tecocuilco de Marcos Pérez, Yaxe y Zapotitlán Palmas.
-
-Estado de Puebla: Acatzingo, Calpan, Coronango, Coxcatlán, Cuautlancingo, General Felipe Ángeles, Huejotzingo, Juan C. Bonilla, Nealtican, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Texmelucan, San Miguel Xoxtla, Santiago Miahuatlán, Tecali de Herrera, Tepanco de López, Tlacotepec de Benito Juárez, Tlaltenango, Xochitlán Todos Santos, Yehualtepec y Zinacatepec.
-
-Estado de Querétaro: Amealco, Ezequiel Montes, Huimilpan, Peñamiller y Tolimán.
-
-Estado de San Luis Potosí: Guadalcázar, Salinas, Santa María del Río, Tierranueva, Villa Hidalgo y Villa de Guadalupe.
-
-Estado de Sonora: San Miguel de Horcasitas.
-
-Estado de Tlaxcala: Santa Cruz Tlaxcala y Tlaxcala.
-
-Estado de Zacatecas: Calera, Cuauhtémoc, General Enrique Estrada, General Pánfilo Natera, General Joaquín Amaro, Loreto, Luis Moya, Noria de Ángeles y Villa González Ortega.
-
-ZONA 6.
-
-Estado de Chiapas: (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
-
-Estado de Chihuahua: Bachíniva, Bocoyna, Carichi, Coyame, Cuzihuiriáchi, Chinipas, Guachochi, Guadalupe, Guerrero, Manuel Benavides, Namiquipa, Nonoava, Ocampo, Ojinaga y Praxedis G. Guerrero.
-
-Estado de Coahuila: Acuña, Castaños, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Melchor Múzquiz, Ocampo, Sierra Mojada y Zaragoza.
-
-Estado de Colima: Armería, Minatitlán y Tecomán.
-
-Estado de Durango: Guadalupe Victoria, Nuevo Ideal, Ocampo, Pánuco de Coronado, San Juan del Río, Súchil y Tepehuanes.
-
-Estado de Guanajuato: Acámbaro, Guanajuato, Jerécuaro, Ocampo, Santiago Maravatío y Tarandacuao.
-
-Estado de Guerrero: Coyuca de Benítez, Huitzuco de los Figueroa, Iguala de la Independencia, San Marcos y Tepecoacuilco de Trujano.
-
-Estado de Hidalgo: Acatlán, Ajacuba, Arenal El, Atitalaquia, Francisco I. Madero, Huasca de Ocampo, Progreso, San Agustín Tlaxiaca, Santiago de Anaya, Tlahuelilpan, Tetepango, y Tula de Allende.
-
-Estado de Jalisco: Atotonilco el Alto, Ayotlán, Cihuatlán, Ciudad Guzmán, Ixtlahuacán de los Membrillos, Jamay, Jocotepec, Chapala, Ocotlán, Ojuelos de Jalisco, Poncitlán, Tuxcueca, Tuxpan, Zapotlán el Grande y Zapotiltic.
-
-Estado de México: Amecameca, Atlautla, Axapusco, Ayapango, Jilotzingo, Jiquipilco, Juchitepec, Nopaltepec, Otumba, Papalotla, Temamatla, Tepetlaoxtoc, Tequisquiac, Tezoyuca y Tlalmanalco.
-
-Estado de Michoacán: Angamacutiro, Apatzingán, Briseñas, Buenavista, Chavinda, Cojumatlán de Régules, Chucándiro, Cuitzeo, Ecuandureo, Huandacareo, Indaparapeo, Ixtlán, Jacona, Jiquilpan, José Sixto Verduzco, Múgica, Numarán, Pajacuarán, Parácuaro, Pátzcuaro, Penjamillo, La Piedad, Purépero, Puruándiro, Queréndaro, Sahuayo, Santa Ana Maya, Tangancícuaro, Tepalcatepec, Tlazazalca, Tocumbo, Tzintzuntzán, Venustiano Carranza, Villamar, Zamora y Zináparo.
-
-Estado de Morelos: Cuautla, Jiutepec, Jonacatepec, Tlalnepantla y Yautepec.
-
-Estado de Nuevo León: Agualeguas, Aldamas Los, Anáhuac, Cadereyta Jiménez, Ciénega de Flores, China, Doctor Coss, General Bravo, General Terán, General Treviño, General Zuazua, Herreras Los, Iturbide, Marín, Melchor Ocampo, Mier y Noriega, Montemorelos, Parás, Pesquería, Ramones Los, Sabinas Hidalgo, Hidalgo, Santiago y Villaldama.
-
-Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 4, 5, 7 y 9.
-
-Estado de Puebla: Acajete, Atlixco, Chapulco, Izúcar de Matamoros, Molcaxac, Morelos Cañada, San José Miahuatlán y Tepatlaxco de Hidalgo.
-
-Estado de Querétaro: Pinal de Amoles, Arroyo Seco, Jalpan de Serra y Landa de Matamoros.
-
-Estado de San Luis Potosí: Alaquines, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Lagunillas, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina y Villa de Juárez.
-
-Estado de Sinaloa: Ahome, Culiacán, Guasave, Mazatlán y Salvador Alvarado.
-
-Estado de Sonora: Aconchi, Agua Prieta, Álamos, Arizpe, Bácum, Banámichi, Baviácora, Benito Juárez, Cajeme, Carbó, La Colorada, Etchojoa, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Nacozari de García, Navojoa, Oquitoa, San Felipe de Jesús, Santa Ana, Santa Cruz, Sáric, Suaqui Grande, San Ignacio Río Muerto, Trincheras, Tubutama y Ures.
-
-Estado de Tabasco: Centro y Cunduacán.
-
-Estado de Tamaulipas: Camargo, Ciudad Madero, Guerrero, Güémez, Gustavo Díaz Ordaz, Matamoros, Nuevo Laredo, Padilla, Reynosa, Río Bravo, Valle Hermoso, Victoria, Mier y Miguel Alemán.
-
-Estado de Tlaxcala: Acuamanala de Miguel Hidalgo, Altzayanca, Benito Juárez, Calpulalpan, El Carmen Tequexquitla, Emiliano Zapata, Chiautempan, Cuapiaxtla, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Nativitas, Panotla, Papalotla de Xicohténcatl, San Damián Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San José Teacalco, San Juan Huactzinco, San Lorenzo Axocomanitla, San Lucas Tecopilco, Sanctórum de Lázaro Cárdenas, San Pablo del Monte, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Totolac, Xicohtzinco, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
-
-Estado de Veracruz: Coatzacoalcos, Cosoleacaque, Minatitlán, La Antigua, Ixhuatlán del Sureste, Nanchital de Lázaro Cárdenas del Río y Veracruz.
-
-Estado de Yucatán: Mérida.
-
-Estado de Zacatecas: Jerez, Miguel Auza, Morelos, Pánuco, Susticacán, Tepechitlán, Tepetongo, Veta Grande, Villa de Cos y Villa Hidalgo.
-
-ZONA 7.
-
-Estado de Chiapas: Excepto los municipios comprendidos en las zonas 5 y 6.
-
-Estado de Chihuahua: Balleza, Batopilas, General Trías, Gómez Farías, Guadalupe y Calvo, Guazapares, Huejotitán, Ignacio Zaragoza, Maguarichi, Matachi, Morelos, Riva Palacio, Rosario, San Francisco de Borja, Satevó, Tule El, Urique y Valle de Zaragoza.
-
-Estado de Colima: Colima, Comalá, Coquimatlán, Cuauhtémoc, Ixtlahuacán y Villa de Álvarez.
-
-Estado de Durango: Coneto de Comonfort, Cuencamé, Hidalgo, Inde, Oro El, Peñón Blanco, Santa Clara y Santiago Papasquiaro.
-
-Estado de Guanajuato: Coroneo.
-
-Estado de Guerrero: Atoyac de Álvarez, Azoyú, Benito Juárez, Copala, Cuajiniculapa, Chilpancingo de los Bravo, Florencio Villarreal, Petatlán, Tecpan de Galeana y La Unión de Isidro Montes de Oca.
-
-Estado de Hidalgo: Actopan, Chilcuatlán, Metztitlán, Mixquiahuala, San Salvador y Tlaxcoapan.
-
-Estado de Jalisco: Ahualulco de Mercado, Amacueca, Arenal El, Atoyac, Autlán, Bolaños, Casimiro Castillo, Cocula, Colotlán, Cuahutilán, Chimaltitán, Degollado, Encarnación de Díaz, Gómez Farías, Huejúcar, Huejuquilla el Alto, Ixtlahuacán del Río, Jesús María, Juanacatlán, Lagos de Moreno, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Sayula, San Gabriel, Tala, Tamazula de Gordiano, Techalutla de Montenegro, Teocuitatlán de Corona, Teuchitlán, Tizapán el Alto, Tolimán, Tonila, Totaniche, Tototlán, Tuxcacuesco, Valle de Guadalupe, Villa Corona, Villa Guerrero, Villa Obregón, Zacualco de Torres, Zapotlán del Rey y Zapotitlán de Vadillo.
-
-Estado de México: Ecatzingo, Ozumba y Tepetlixpa.
-
-Estado de Michoacán: Agangueo, Aporo, Coahuayana, Coeneo, Contepec, Cotija, Chinicuila, Churintzio, Erongarícuaro, Epitacio Huerta, Gabriel Zamora, Hidalgo, Huaniqueo, Huiramba, Irimbo, Jiménez, Lagunillas, Lázaro Cárdenas, Maravatío, Morelos, Nuevo Parangaricutiro, Ocampo, Panindícuaro, Peribán, Quiroga, Reyes Los, Senguio, Tansítaro, Tangamandapio, Tingüindín, Tlalpujahua, Tuxpan, Uruapan, Zacapu, Zinapécuaro y Ziracuaretiro.
-
-Estado de Morelos: Jantetelco, Tepoztlán, Tlayacapan y los municipios que no estén comprendidos en las zonas 4, 6 y 8.
-
-Estado de Nayarit: Bahía de Banderas y Tepic.
-
-Estado de Nuevo León: Allende, Aramberri, Cerralvo, Doctor Arroyo, General Zaragoza, Higueras, Hualahuises, Lampazos de Naranjo y Linares.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Estado de Oaxaca: Asunción Ixtaltepec, Asunción Nochixtlán, Ayotzintepec, Cuyamecalco Villa de Zaragoza, Chahuites, Chalcatongo de Hidalgo, Espinal El, Guevea de Humbolt, Huautepec, Magdalena Zahuatlán, Matías Romero, Miahuatlán de Porfirio Díaz, Nuevo Soyaltepec, Santiago Niltepec, Reforma de Pineda, San Andrés Nuxiño, San Andrés Teotilalpam, San Andrés Tepetlapa, San Blas Atempa, San Dionisio del Mar, San Felipe Usila, San Francisco Chapulapa, San Francisco del Mar, San Francisco Ixhuatán, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Coatzospan, San Juan Guichicovi, San Juan Juquila Vijanos, San Juan Chiquihuitlán, San Juan Lachao, San Juan Mazatlán, San Juan Yucuita, San Lorenzo, San Lorenzo Cuaunecuiltitla, San Lucas Ojitlán, San Mateo del Mar, San Mateo Sindihui, San Miguel Ahuehuetitlán, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Santa Flor, San Pedro Comitancillo, San Pedro Huilotepec, San Pedro Ixcatlán, San Pedro Juchatengo, San Pedro Ocopetatillo, San Pedro Sochiapam, San Pedro Tapanatepec, San Pedro Teozacoalco, San Pedro Teutila, San Sebastián Teitipac, San Simón Almolongas, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Ana Tlapacoyan, Santa Catarina Cuixtla, Santa Catarina Tayata, Santa Cruz Acatepec, Santa Cruz Xitla, Santa María La Asunción, Santa María Chilchotla, Santa María Chimalapa, Santa María Guienagati, Santa María Jacatepec, Santa María Teopoxco, Santa María Tlalixtac, Santa María Xadani, Santiago Ixcuintepec, Santiago Lachiguiri, Santiago Laollaga, Villa Tejupam de la Unión, Santiago Jocotepec, Santiago Texcalcingo, Santo Domingo Nuxaa, Santo Domingo Roayaga, Santo Domingo Tehuantepec, Santo Domingo Xagacia, Santo Domingo Zanatepec, Santo Tomás Ocotepec, Santo Tomás Tamazulapam, Villa de Tamazulapam del Progreso, Teotongo, Unión Hidalgo, Valle Nacional San Juan Bautista, Yutanduchi de Guerrero y Zaragoza Santa Inés de.
-
-Estado de Puebla: Aljojuca, Chalchicomula de Sesma, Cuyoaco, Esperanza, Guadalupe Victoria, Mazapiltepec de Juárez, Ocotepec, Oriental, San José Chiapa, San Juan Atenco, San Juan Tianguismanalco, San Nicolás de Buenos Aires, Tepeojuma, Tepeyahualco de Hidalgo y los municipios que no estén comprendidos en las zonas 4, 5, 6, 8 y 9.
-
-Estado de Querétaro: Cadereyta de Montes y San Joaquín.
-
-Estado de Quintana Roo: Benito Juárez, Cozumel en su porción Continental, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
-
-Estado de San Luis Potosí: Aquismón, Ciudad Valles, Rayón y Tamasopo.
-
-Estado de Sinaloa: Concordia, Escuinapa y Rosario El, y los municipios que no estén comprendidos en las zonas 6 y 8.
-
-Estado de Sonora: Arivechi, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Cumpas, Cucurpe, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Moctezuma, Naco, Onavas, Opodepe, Rayón, Quiriego, Sahuaripa, San Javier, San Pedro de la Cueva, Soyopa, Tepache, Villa Hidalgo y Villa Pesqueira.
-
-Estado de Tabasco: Balancán, Cárdenas, Centla, Comalcalco, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Estado de Tamaulipas: Antiguo Morelos, Bustamante, Casas, Gómez Farías, Hidalgo, Jaumave, Llera, Mante El, Miquihuana, Nuevo Morelos, Ocampos, Palmillas, Soto la Marina, Tampico y Tula, excepto los municipios comprendidos en las zonas 6, 8 y 9.
-
-Estado de Veracruz: Actopan, Agua Dulce, Catemaco, Hueyapan de Ocampo, Moloacán y Sayula de Alemán.
-
-Estado de Yucatán: Muna, Progreso, Río Lagartos, San Felipe, Sinanché, Telchac Pueblo, Telchac Puerto, Dzan, Dzemul y Dzilam de Bravo.
-
-Estado de Zacatecas: Apozol, Atolinga, Cañitas de Felipe Pescador, Concepción del Oro, Chalchihuites, Huanusco, Jalpa, Jiménez de Teúl, Juchipila, Momax, Monte Escobedo, Moyahua de Estrada, Tabasco, Tlaltenango de Sánchez Román, Valparaíso, Villanueva, Villa García, Genaro Codina, General Francisco R. Murguía, Juan Aldama, Mazapil, Melchor Ocampo, Pinos, Río Grande, Sain Alto, El Salvador y Sombrerete.
-
-ZONA 8.
-
-Estado de Campeche: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega Hecelchakán, Hopelchén, Tenabo y Palizada.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Estado de Chiapas: Acapetahua, Arriaga, Berriozábal, Cintalapa, Comitán de Domínguez, Chiapa de Corzo, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, Independencia La, Ixtapa, Jiquipilas, Mapastepec, Margaritas Las, Mazatán, Metapa, Motozintla, Ocosingo, Ocozocuautla de Espinoza, Palenque, Pijijiapan, Pueblo Nuevo Comaltitlán, Reforma, Rosas Las, San Cristóbal de las Casas, Suchiate, Sumuapa, Tapachula, Tecpatán, Tonalá, Trinitaria La, Tuxtla Chico, Tuxtla Gutiérrez, Venustiano Carranza y Villaflores.
-
-Estado de Chihuahua: Doctor Belisario Domínguez, Gran Morelos, Madera, Moris, Temósachi y Uruachi.
-
-Estado de Durango: Canelas, Guanaceví, Mezquital, Otáez, Pueblo Nuevo, San Bernardo, San Dimas, Tamazula y Topia.
-
-Estado de Guanajuato: Atarjea, Santa Catarina, Tarimoro, Tierra Blanca y Victoria.
-
-Estado de Guerrero: Acatepec, Ajuchitlán del Progreso, Alpoyeca, Arcelia, Atenango del Río, Ayutla de los Libres, Coahuayutla de José María Izazaga, Cocula, Coyuca de Catalán, Guamuxtitlán, Juan R. Escudero, Mochitlán, Pungarabato, Quechultenango, San Miguel Totolapan, Tlapa de Comonfort, Tecoanapa, Teloloapan, Tixtla de Guerrero y Zirándaro.
-
-Estado de Hidalgo: Acaxochitlán, Agua Blanca, Atlapexco, Atotonilco el Grande, Calnali, Cardonal, Eloxochitlán, Huazalingo, Huehuetla, Huejutla de Reyes, Jacala de Ledezma, Jaltocan, Juárez Hidalgo, Lolotla, Mezquititlán, Mineral del Chico, Mineral del Monte, Misión La, Molango, Nicolás Flores, Omitán de Juárez, Orizatlán, Pacula, Pisaflores, San Bartolo Tutotepec, Tenango de Doria, Tepehuacán de Guerrero, Tianguistengo, Tlahuiltepa, Tlanchinol, Xochiatipan, Xochicoatlán, Yahualica, Zacualtipan de Ángel, excepto los municipios comprendidos en las zonas 2, 4, 5, 6 y 9.
-
-Estado de Jalisco: Acatic, Amatitán, Ameca, Arandas, Atemajac de Brizuela, Cabo Corrientes, Cuquío, Chiquilistlán, Etzatlán, Grullo El, Hostotipaquillo, Huerta La, Jalostititlán, Juchitlán, Limón El, Magdalena, Puerto Vallarta, Purificación, San Cristóbal de la Barranca, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Juanito de Antonio Escobedo, San Marcos, San Martín Hidalgo, San Miguel el Alto, San Sebastián del Oeste, Tapalpa, Tecalitlán, Tecolotlán, Teocaltiche, Tepatitlán de Morelos, Tequila, Tonaya, Unión de San Antonio, Valle de Juárez, Villa Hidalgo, Yahualica de González, Zapotlanejo y los municipios que no estén comprendidos en las zonas 2, 3, 4, 5, 6, 7 y 9.
-
-Estado de Michoacán: Churumuco, Huetamo y San Lucas.
-
-Estado de Morelos: Amacuzac, Coatlán del Río, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango y Zacatepec de Hidalgo.
-
-Estado de Nayarit: Acaponeta, Compostela, Rosamorada, Ruiz, San Blas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tuxpan y Xalisco.
-
-Estado de Puebla: Acateno, Acatlán, Acteopan, Ahuacatlán, Ahuatlán, Ahuazotepec, Ahuehuetitla, Ajalpan, Albino Zertuche, Amixtlán, Aquixtla, Atempan, Atexcal, Atzala, Atzitzintla, Atzitzihuacán, Axutla, Ayotoxco de Guerrero, Caltepec, Camocuautla, Caxhuacan, Coatepec, Coatzingo, Cohetzala, Cohuecán, Coyomeapan, Coyotepec, Cuautempan, Cuayuca de Andrade, Cuetzalan del Progreso, Chiautla de Tapia, Chiautzingo, Chichiquila, Chietla, Chiconcuautla, Chigmecatitlán, Chignahuapan, Chignautla, Chila, Chila Honey, Chila de las Flores, Chilchotla, Chinantla, Domingo Arenas, Eloxochitlán, Francisco Z. Mena, Guadalupe, Hermenegildo Galeana, Huatlatlauca, Huauchinango, Huehuetla, Huehuetlán el Chico, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ignacio Allende, Ixcamilpa de Guerrero, Ixcaquixtla, Ixtacamaxtitlán, Ixtepec, Jalpan, Jolalpan, Jonotla, Jopala, Juan Galindo, Juan N. Méndez, La Magdalena Tlatlauquitepec, Naupan, Nauzontla, Olintla, Pahuatlán, Pantepec, Petlalcingo, Piaxtla, Quimixtlán, San Diego la Mesa Tochimiltzingo, San Felipe Tepatlán, San Felipe Teotlalcingo, San Jerónimo Xayacatlán, San José Acateno, San Juan Atzompa, San Matías Tlalancaleca, San Martín Totoltepec, San Miguel Ixitlán, San Nicolás de los Ranchos, San Pablo Amicano, San Pedro Yeloixtlahuaca, San Salvador el Verde, San Sebastián Tlacotepec, Tlachichuca, Tlahuapan, Santa Catarina Tlaltempan, Santa Inez Ahuetempan, Santo Domingo Huehuetlán, Saltillo Lafragua, Tecomatlán, Tehuitzingo, Tenampulco, Teopantlán, Teotlalco, Tepango de Rodríguez, Tepemaxalco, Tepetzintla, Tepexco, Tepexi de Rodríguez, Tetela de Ocampo, Teteles de Ávila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tochimilco, Totoltepec de Guerrero, Tulcingo, Tuzamapan de Galeana, Tzicatlacoyan, Venustiano Carranza, Vicente Guerrero, Xayacatlán de Bravo, Xicotepec, Xicotlán, Xochiapulco, Xochitlán, Xochitlán de Vicente Suárez, Xochiltepec, Yaonáhuac, Zacapala, Zacapoaxtla, Zacatlán, Zapotitlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zongozotla, Zoquiapan y Zoquitlán.
-
-Estado de Quintana Roo: excepto los municipios comprendidos en las zonas 2, 3 y 7.
-
-Estado de San Luis Potosí: Matlapa, Naranjo El, excepto los municipios comprendidos en las zonas 1, 2, 3, 4, 5 y 7.
-
-Estado de Sinaloa: Badiraguato.
-
-Estado de Sonora: Nacori Chico, Rosario y Yécora.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Estado de Tamaulipas: Aldama, González y San Nicolás.
-
-Estado de Tlaxcala: excepto los municipios comprendidos en las zonas 5 y 6.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Estado de Veracruz: Alpatlahua, Alvarado, Ángel R. Cabada, Apazapan, Boca del Río, Camarón de Tejada, Camerino Z. Mendoza, Cazones, Carlos A. Carrillo, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chalcaltianguis, Chinameca, Choapas Las, Emiliano Zapata, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huiloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, Ixtaczoquitlán, Jamapa, Juan Rodríguez Clara, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Medellín, Nautla, Nogales, Omealca, Orizaba, Otatitlán, Paso del Macho, Paso de Ovejas, Perote, Puente Nacional, Río Blanco, Saltabarranca, Soledad de Doblado, Tamiahua, José Azueta, Tecolutla, Temapache, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tuxpan, Tuxtilla, Úrsulo Galván, Vega de Alatorre y Yanga.
-
-Estado de Yucatán: Excepto los municipios comprendidos en las zonas 6 y 7.
-
-Estado de Zacatecas: Apulco, Benito Juárez, Mezquital del Oro, Nochistlán de Mejía, Teúl de González Ortega y Trinidad García de la Cadena.
-
-ZONA 9.
-
-Estado de Guanajuato: Xichú.
-
-Estado de Guerrero: Ahuacuotzingo, Cutzamala de Pinzón, General Canuto A. Neri, Tlalchapa, Tlapehuala y los municipios que no estén comprendidos en las zonas 4 y 8.
-
-Estado de Hidalgo: Chapulhuacán y Huautla.
-
-Estado de Jalisco: Acatlán de Juárez, Atengo, Atenguillo, Ayutla, Concepción de Buenos Aires, Cuautla, Ejutla, Guachinango, Jilotlán de los Dolores, Manzanilla de la Paz La, Mascota, Mazamitla, Mexticacán, Mixtlán, Nahuatzén, Pihuamo, Quitupan, Santa María del Oro, Talpa de Allende, Tenamaxtlán, Tomatlán y Unión de Tula.
-
-Estado de Michoacán: Acuitzio, Aguililla, Aquila, Ario, Arteaga, Carácuaro, Coalcomán de Vázquez Pallárez, Charapan, Cherán, Chilchota, Juárez, Jungapeo, La Huacana, Madero, Marcos Castellanos, Nahuatzén, Nocupétaro, Nuevo Urecho, Paracho, Salvador Escalante, Susupuato, Tacámbaro, Taretán, Tingambato, Tiquicheo de Nicolás Romero, Tumbiscatío, Turicato, Tuzantla, Tzitzio y Zitácuaro.
-
-Estado de Nayarit: Excepto los municipios comprendidos en la zona 8.
-
-Estado de Oaxaca: San Pedro Coaxcaltepec Cántaros.
-
-Estado de Puebla: Xiutetelco.
-
-Estado de Tabasco: Excepto los municipios comprendidos en las zonas 6, 7 y 8.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Estado de Tamaulipas: Altamira
-
-Estado de Veracruz: Excepto los municipios comprendidos en las zonas 6, 7 y 8.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Tratándose de municipios que no se encuentren dentro de las zonas 1 a 9, el pago del derecho sobre aguas se efectuará de conformidad con la cuota establecida para el municipio más próximo al lugar de la extracción.
+Con independencia que los contribuyentes puedan determinar la zona de disponibilidad que corresponda a la cuenca hidrológica o acuífero donde se realiza la extracción, la Comisión Nacional del Agua, como facilidad administrativa, publicará a más tardar el tercer mes del ejercicio fiscal de que se trate, la zona de disponibilidad que corresponda a cada cuenca hidrológica y acuífero del país.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -20361,17 +19997,23 @@ Subzona B
 
 $30.10 $0.107 $107.87
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Se considerará como uso de protección, el que se dé a aquellas superficies ocupadas que mantengan el estado natural de la superficie concesionada, no realizando construcción alguna y donde no se realicen actividades de lucro. Se exceptúan las obras de protección contra fenómenos naturales.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Se considerará como uso de protección, el que se dé a aquellas superficies ocupadas que mantengan el estado natural de la superficie concesionada, no realizando construcción alguna y donde no se realicen actividades de lucro.
 
-Se considerará como uso de ornato, el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado obras de ingeniería civil, cuya construcción no requiera de trabajos de cimentación, y que estén destinadas exclusivamente para el embellecimiento del lugar o para el esparcimiento del solicitante, siempre y cuando dichas áreas no estén vinculadas con actividades lucrativas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Se considerará como uso general el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado construcciones con cimentación o se lleven a cabo actividades con fines de lucro. Se exceptúan las obras de protección o defensa contra fenómenos naturales.
+Se considerará como uso de ornato, el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado obras cuya construcción no requiera de trabajos de cimentación, y que estén destinadas exclusivamente para el embellecimiento del lugar o para el esparcimiento del solicitante, siempre y cuando dichas áreas no estén vinculadas con actividades lucrativas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Se considera como uso general el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado construcciones u obras con cimentación o estén vinculadas con actividades de lucro.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -20937,17 +20579,33 @@ Los residentes de la zona de influencia de las Áreas Naturales Protegidas que r
 
 Las personas físicas y las morales que usen o aprovechen el espacio aéreo y, en general, cualquier medio de propagación de las ondas electromagnéticas en materia de telecomunicaciones, están obligadas a pagar el derecho por el uso del espectro radioeléctrico, conforme a las disposiciones aplicables.
 
-Este derecho se pagará anualmente dentro de los meses de enero a junio del año de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Este derecho se pagará anualmente dentro de los meses de enero a marzo del año de que se trate.
 
 No pagarán el derecho que se establece en este Capítulo las empresas de radio y televisión que estén obligadas a retener el impuesto por servicios expresamente declarados de interés público por Ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la nación.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
 Aquellos concesionarios o permisionarios u otros usuarios de servicios de telecomunicaciones, que hayan contratado la operación de frecuencias o bandas de frecuencias con concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces microondas de punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido u otros servicios, estarán exentos del pago de la cuota de derechos correspondiente a las frecuencias contratadas.
 
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO SEXTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres, no contribuyentes del impuesto sobre la renta y los usuarios de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en esta sección. Asimismo, quedan exentas del pago de derechos previsto en esta sección, las bandas de uso oficial dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres, no contribuyentes del impuesto sobre la renta y los usuarios de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en esta sección. Asimismo, quedan exentas del pago de derechos previsto en esta sección, las bandas de uso oficial otorgadas a las Entidades Federativas y Municipios, dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los Poderes de la Unión, las entidades paraestatales federales y los organismos constitucionalmente autónomos estarán sujetos a los derechos por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico establecidos en este Capítulo, independientemente de la concesión, permiso o asignación que les otorguen para su uso, goce, aprovechamiento o explotación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Lo dispuesto en este Capítulo, será aplicable para cualquier concesión, permiso, asignación o como se denomine de acuerdo con las disposiciones jurídicas aplicables, por lo que las referencias efectuadas en este Capítulo a los términos antes señalados, serán aplicados igualmente a las figuras que se determinen en las disposiciones jurídicas aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -21101,13 +20759,35 @@ En el mes de julio se deberá de pagar a más tardar el día 17, el monto corres
 
 Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Secretaría de Comunicaciones y Transportes, de conformidad con su Título de Concesión.
 
-El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital con sus respectivas bandas de frecuencia asociadas, correspondiente a las bandas de frecuencia utilizadas para prestar servicios en Territorio Nacional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante la Secretaría de Comunicaciones y Transportes, los pagos realizados ante la autoridad correspondiente del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital y sus bandas de frecuencias asociadas.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-En el caso de que el pago realizado en el país de origen del sistema satelital extranjero abarque más de un período anual, la Secretaría de Comunicaciones y Transportes, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital de los satélites extranjeros concesionados para prestar servicios en Territorio Nacional.
+El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital utilizadas para prestar servicios en Territorio Nacional.
 
-Asimismo, el monto anual que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital con sus respectivas bandas de frecuencia asociadas, se deberá de multiplicar por el tipo de cambio que el Banco de México haya publicado en el Diario Oficial de la Federación, el día en que dicho monto se haya pagado y adicionalmente se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante el Instituto Federal de Telecomunicaciones, los pagos realizados ante la autoridad correspondiente del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En el caso de que el pago realizado en el país de origen del sistema satelital extranjero abarque más de un periodo anual, el Instituto Federal de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital de los satélites extranjeros concesionados para prestar servicios en Territorio Nacional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, el monto anual que se haya pagado ante las autoridades del país de origen del sistema satelital extranjero, por concepto de la concesión de cada posición orbital, se deberá de multiplicar por el tipo de cambio que el Banco de México haya publicado en el Diario Oficial de la Federación el día en que dicho monto se haya pagado y adicionalmente se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe ante las autoridades del país de origen del sistema satelital extranjero. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -21147,13 +20827,35 @@ En el mes de julio se deberá de pagar a más tardar el día 17, el monto corres
 
 Para el cálculo del pago del derecho a que se refiere este artículo, se restará de la cantidad total de megahertz utilizados, el número de megahertz de segmento espacial que de forma gratuita el concesionario tenga la obligación de aportar a la Secretaría de Comunicaciones y Transportes, de conformidad con su Título de Concesión.
 
-El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado en licitación pública por concepto de la concesión de cada posición orbital con sus respectivas bandas de frecuencia asociadas, correspondiente a las frecuencias utilizadas para proporcionar servicios en territorio nacional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante la Secretaría de Comunicaciones y Transportes, los pagos realizados por concepto de la concesión de cada posición orbital y sus bandas de frecuencias asociadas.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-En caso de que el pago realizado abarque más de un período anual, la Secretaría de Comunicaciones y Transportes, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital.
+El importe anual del derecho a pagar, no podrá ser mayor al resultado que se obtenga de restar del importe obtenido conforme a las fracciones I y II anteriores, el monto anual neto que se haya pagado en licitación pública por concepto de la concesión de cada posición orbital utilizadas para proporcionar servicios en territorio nacional.
 
-Asimismo, el monto anual que se haya pagado ante las autoridades, por concepto de la concesión de cada posición orbital con sus respectivas bandas de frecuencia asociadas, se deberá de actualizar en los términos del artículo 17-A del Código Fiscal de la Federación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para que los concesionarios estén en posibilidad de efectuar la operación señalada en el párrafo anterior, deberán demostrar fehacientemente ante el Instituto Federal de Telecomunicaciones, los pagos realizados por concepto de la concesión de cada posición orbital.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En caso de que el pago realizado abarque más de un período anual, el Instituto Federal de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, el monto anual que se haya pagado ante las autoridades, por concepto de la concesión de cada posición orbital, se deberá de actualizar en los términos del artículo 17-A del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna.
 
 ###### ARTICULO 242-A.
 
@@ -21341,81 +21043,11 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 244-A.
 
-El derecho por el uso del espectro radioeléctrico, por los sistemas y redes públicas de comunicación, multicanales o monocanales entre estaciones móviles, portátiles o fijas, a través de una o más estaciones base, con o sin repetidor, se pagará anualmente conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-I.- Para el servicio de radiotelefonía
-
-celular, por cada frecuencia asignada,
-
-concesionada o permisionada y por
-
-cada región $5,187.89 $5,188
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-II.- Para el servicio de radiotelefonía
-
-móvil convencional, por cada frecuencia
-
-asignada, concesionada o permisionada
-
-y por sistema $5,187.89 $5,188
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-III.- Por los servicios de radiolocalización
-
-móvil de personas, radiolocalización de
-
-vehículos, radiolocalización móvil
-
-marítima y radiodeterminación, se
-
-pagarán derechos por frecuencia
-
-asignada, concesionada o permisionada,
-
-y por sistema $5,187.89 $5,188
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-IV.- En servicio móvil especializado
-
-de flotillas y de portadora común, se
-
-pagará el derecho por frecuencia
-
-asignada, concesionada o permisionada,
-
-y por sistema $561.72 $562
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-V.- Por el servicio de radiocomunicación
-
-móvil aeronáutica, por cada frecuencia
-
-asignada, concesionada o permisionada,
-
-y por estación base $635.39 $635
+(DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -21681,7 +21313,9 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 244-D.
 
@@ -21707,113 +21341,19 @@ De 896 MHz a 901 MHz
 
 De 935 MHz a 940 MHz
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Tabla B
 
-Cobertura Cuota por cada kilohertz
-
-concesionado
-
-Todos los municipios de Baja
-
-California, Baja California Sur
-
-y el municipio de San Luis Río
-
-Colorado del estado de Sonora $2,134.14
-
-Todos los municipios de Sinaloa
-
-y todos los de Sonora, excepto
-
-el municipio de San Luis Río
-
-Colorado $316.36
-
-Todos los municipios de los estados
-
-de Chihuahua y Durango y los
-
-municipios Francisco I. Madero,
-
-Matamoros, San Pedro, Torreón y
-
-Viesca del estado de Coahuila $1,343.72
-
-Todos los municipios de los estados
-
-de Nuevo León, Tamaulipas y Coahuila,
-
-con excepción de los municipios de
-
-Francisco I. Madero, Matamoros,
-
-San Pedro, Torreón y Viesca $6,683.45
-
-Todos los municipios de los estados
-
-de Colima, Michoacán, Nayarit y
-
-Jalisco, excepto los municipios de
-
-Bolaños, Colotlán, Encarnación de Díaz,
-
-Huejúcar, Huejuquilla, Lagos de Moreno,
-
-Mezquitic, Ojuelos de Jalisco, Santa
-
-María de los Angeles, Teocaltiche, Villa
-
-Guerrero y Villa Hidalgo $2,595.69
-
-Todos los municipios de
-
-Aguascalientes, Guanajuato, Querétaro,
-
-San Luis Potosí, Zacatecas y los
-
-municipios de Bolaños, Colotlán,
-
-Encarnación de Díaz, Huejúcar,
-
-Huejuquilla, Lagos de Moreno, Mezquitic,
-
-Ojuelos de Jalisco, Santa María de
-
-los Angeles, Teocaltiche, Villa Guerrero
-
-y Villa Hidalgo del estado de Jalisco $1,082.94
-
-Todos los municipios de los estados
-
-de Guerrero, Oaxaca, Puebla,
-
-Tlaxcala y Veracruz $184.99
-
-Todos los municipios de los estados
-
-de Campeche, Chiapas, Quintana Roo,
-
-Tabasco y Yucatán $125.06
-
-Todos los municipios de los estados
-
-de Hidalgo, Morelos y Estado de
-
-México, y todas las delegaciones del
-
-Distrito Federal $9,720.83
+(VÉASE ARCHIVO ANEXO)
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la Tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la Tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 244-E.
 
@@ -21965,6 +21505,26 @@ El pago del derecho a que se refiere este artículo, se realizará sin perjuicio
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
+###### ARTICULO 244
+
+-F.- Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
+
+Tabla A
+
+(VÉASE ARCHIVO ANEXO)
+
+Tabla B
+
+(VÉASE ARCHIVO ANEXO)
+
+Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones o el que lo sustituya.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 245.
 
 El derecho por el uso del espectro radioeléctrico, por los enlaces multicanales de microondas entre dos estaciones terminales para servicios públicos o privados de señales de telecomunicaciones, se pagará anualmente por cada enlace, conforme a las siguientes cuotas:
@@ -22012,6 +21572,8 @@ de señales de telecomunicaciones $5,189.19 $5,189
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 La cuota total por cada enlace será el resultado de aplicar en forma acumulada las cuotas correspondientes a las fracciones I, II y III.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 245-A.
 
@@ -22075,7 +21637,9 @@ de estaciones o nodos $50,207.21 $50,207
 
 d).- Por cada estación fija remota $2,716.65 $2,717
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 245-C.
 
@@ -22133,11 +21697,13 @@ I.- Cuando la Secretaría de Comunicaciones y Transportes o los usuarios conside
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 253-A.
 
-El 35 por ciento de los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán a la Comisión Federal de Telecomunicaciones, para el Sistema de Información Integral en Materia de Telecomunicaciones y para el fortalecimiento de la red nacional de monitoreo.
+El 3.5 por ciento de los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán al Instituto Federal de Telecomunicaciones.
 
 ###### ARTICULO 253-B.
 
@@ -22975,99 +22541,109 @@ Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales ca
 
 La cancelación de una concesión o asignación minera por el incumplimiento en el pago de los derechos sobre minería establecidos en esta Ley o por cualquier otra de las causas previstas en la Ley Minera, no libera a su titular del pago de los derechos sobre minería que haya causado durante su vigencia, así como de los demás accesorios que se hubieren originado por el incumplimiento en el pago de éstos, de acuerdo con las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 267.
 
-Están obligados a pagar el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios mineros que conforme a la Ley Minera recuperen y aprovechen el gas, ya sea para autoconsumo o entrega a Petróleos Mexicanos, aplicando la tasa de 40% a la diferencia que resulte entre el valor anual del gas asociado a los yacimientos de carbón mineral extraído en el año y las deducciones permitidas en este artículo, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
+Están obligados a pagar el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios mineros que conforme a la Ley Minera recuperen y aprovechen el gas, ya sea para autoconsumo o entrega a Petróleos Mexicanos, aplicando la tasa calculada conforme el párrafo siguiente al valor anual del gas asociado a los yacimientos de carbón mineral extraído en el año, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+La tasa aplicable al derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral será el porcentaje que resulte de multiplicar el precio del gas asociado a los yacimientos de carbón mineral por 2.5%.
 
-Para la determinación de la base de este derecho, serán deducibles los siguientes conceptos relacionados con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral:
-
-I. El 16.7% del monto original de las inversiones realizadas para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, en cada ejercicio. Dentro de esta deducción no se considerarán inversiones relacionadas con la exploración de la actividad minera;
-
-II. El 5% del monto original de las inversiones realizadas en gasoductos, terminales, transporte o tanques de almacenamiento, en cada ejercicio;
-
-III. Los costos, considerándose para tales efectos las erogaciones necesarias para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral de conformidad con las Normas de Información Financiera Mexicanas, excepto las inversiones a que se refieren las fracciones I y II de este artículo. Los únicos gastos que se podrán deducir serán los de transportación o entrega del gas. Los costos y gastos se deducirán cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-Las deducciones a que se refieren las fracciones I y II de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-El monto original de las inversiones a que se refieren las fracciones I y II de este artículo, comprenderá además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-La deducción del monto original de las inversiones se podrá iniciar a partir del ejercicio en que se inicie la utilización de los bienes o desde el ejercicio siguiente. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el tercer párrafo de este artículo, rebasarán el 100% de su monto original. Cuando no se efectúe la deducción a partir del inicio de los plazos señalados en este párrafo, o bien, no se lleve a cabo en algún ejercicio o se haga en porcentajes menores a los autorizados, se perderá el derecho a deducir las cantidades correspondientes que pudieron haberse deducido.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-Tratándose de ejercicios fiscales irregulares, o cuando los bienes se empiecen a utilizar después de iniciado el ejercicio, así como en el ejercicio en que se termine su deducción, las inversiones correspondientes se deducirán en el por ciento que represente el número de meses completos en los que el bien haya sido utilizado, respecto de doce meses. Cuando los bienes se adquieran por fusión o escisión de sociedades, se considerará como fecha de adquisición la que le corresponda a la sociedad fusionada o a la escindente.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-Cuando las inversiones, costos o gastos a que se refieren las fracciones I a III de este artículo, se utilicen parcialmente para actividades diversas a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios sólo podrán deducir la parte proporcional que corresponda a la recuperación y aprovechamiento de dicho gas. Dicha proporción se calculará dividiendo el valor anual del gas asociado a los yacimientos de carbón mineral entre el monto que resulte de sumar el de las ventas relacionadas con la concesión minera y el valor del gas asociado a los yacimientos de carbón mineral en el año. Cuando se trate de pagos provisionales del derecho, dicha proporción se determinará utilizando los mismos conceptos, correspondientes al periodo de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-El monto de la deducción por concepto de los costos, gastos e inversiones deducibles, relacionados con el gas asociado a los yacimientos de carbón mineral extraído, no excederá el valor de 3.20 dólares de los Estados Unidos de América por cada millar pies cúbicos de dicho gas, en el año de que se trate, considerando para tales efectos el promedio de tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-En ningún caso serán deducibles los intereses de cualquier tipo a cargo de los concesionarios.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-Tratándose de costos, gastos e inversiones realizados o adquiridos con partes relacionadas, los concesionarios considerarán para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para esos efectos lo dispuesto en los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
-A cuenta del derecho a que se refiere este artículo, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que corresponda el pago, aplicando la tasa establecida en el primer párrafo de este artículo al valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los costos, gastos y la parte proporcional de las inversiones autorizadas, correspondientes al mismo periodo. La parte proporcional de las inversiones citadas, se calculará considerando el número de meses transcurridos en el periodo que comprenda el pago, respecto del monto anual de la deducción de las inversiones que corresponda al ejercicio.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+A cuenta del derecho a que se refiere este artículo, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que corresponda el pago, aplicando la tasa establecida en el segundo párrafo de este artículo al valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago.
 
 Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional a enterar.
 
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
-
 En la declaración anual a que se refiere el primer párrafo de este artículo, se podrán acreditar los pagos provisionales mensuales efectivamente pagados de éste derecho correspondientes al ejercicio de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+Para los efectos de este artículo, se considerará como valor del gas asociado a los yacimientos de carbón mineral extraído, el precio del gas asociado a los yacimientos de carbón, multiplicado por las unidades energéticas contenidas en el volumen de gas extraído medidas en millones de unidades térmicas británicas (Btu's) en el mismo periodo por el que se esté obligado al pago del derecho, convertido en pesos, considerando para tales efectos el promedio del tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate.
 
-Para los efectos de este artículo, se considerará como valor del gas asociado a los yacimientos de carbón mineral extraído, el promedio del precio de referencia del índice de Texas Eastern Transmission Corp., renglón South Texas Zone, publicado por el Inside FERC's Gas Merket Report, correspondiente al periodo de que se trate, convertido, de dólares de los Estados Unidos de America por millón de unidades térmicas británicas (Btu's) a pesos por millón de dichas unidades térmicas, considerando para tales efectos el promedio de tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate y, este resultado, transformado a pesos por Gigajoule, multiplicado por las unidades energéticas contenidas en el volumen de gas extraído en el mismo periodo por el que se esté obligado al pago del derecho.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+Se considerará como precio del gas asociado a los yacimientos de carbón mineral, al promedio del precio de referencia del índice de Texas Eastern Transmission Corp., renglón South Texas Zone, publicado por el Inside FERC's Gas Market Report, o el índice que lo sustituya, correspondiente al periodo de que se trate, en dólares de los Estados Unidos de América por millón de unidades térmicas británicas (Btu's).
 
 La determinación de las unidades energéticas contenidas en el volumen del gas asociado a los yacimientos de carbón mineral extraído se realizará conforme a la Norma Oficial Mexicana de Calidad del Gas Natural (NOM-001-SECRE-2003). La medición del referido gas se determinará de acuerdo con las normas oficiales mexicanas que se emitan para dicho propósito.
 
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+Los concesionarios estarán obligados a informar en las declaraciones mensuales y anuales realizadas por este concepto, el precio, el volumen y el valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo de que se trate.
 
-Los concesionarios estarán obligados a llevar los registros contables que permitan identificar por separado el valor del gas extraído, los gastos, costos y montos de las inversiones deducibles, relativos a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral.
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+Para los efectos de este artículo, la Secretaría de Hacienda y Crédito Público, como facilidad administrativa, publicará mensualmente en el Diario Oficial de la Federación, la tasa aplicable para el cálculo del derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral.
 
 El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a este Capítulo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 268.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Los titulares de concesiones y asignaciones mineras pagarán anualmente el derecho especial sobre minería, aplicando la tasa del 7.5% a la diferencia positiva que resulte de disminuir de los ingresos derivados de la enajenación o venta de la actividad extractiva, las deducciones permitidas en este artículo, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+
+Los ingresos a que se refiere el párrafo anterior, se determinarán considerando los ingresos acumulables que tenga el concesionario o asignatario minero conforme a la Ley del Impuesto sobre la Renta, con excepción de los establecidos en las fracciones IX, X y XI del artículo 18 de dicha ley, o las que las sustituyan.
+
+Para la determinación de la base del derecho a que se refiere este artículo, los titulares de concesiones o asignaciones mineras podrán disminuir las deducciones autorizadas conforme a la Ley del Impuesto sobre la Renta, con excepción de las siguientes:
+
+a). Las establecidas en las fracciones IV, VII y VIII del artículo 25 de dicha ley, salvo las inversiones realizadas para la prospección y exploración minera o las que las sustituyan, y
+
+b). Las contribuciones y aprovechamientos, pagados por dicha actividad.
+
+Los contribuyentes podrán acreditar contra el derecho a que se refiere este artículo, los pagos definitivos efectuados en el ejercicio de que se trate del derecho sobre minería a que se refiere el artículo 263 de esta Ley.
+
+El derecho a que se refiere el presente artículo, se calculará considerando la totalidad de las concesiones o asignaciones de las que sea titular.
+
+Los concesionarios y asignatarios mineros que paguen el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral a que se refiere el artículo 267 de esta Ley, no estarán obligados al pago del derecho a que se refiere este artículo únicamente respecto de dicho gas.
+
+El pago del derecho señalado en este artículo se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 269.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Los titulares de concesiones mineras que no lleven a cabo obras y trabajos de exploración o explotación debidamente comprobadas de acuerdo con la Ley Minera, durante dos años continuos dentro de los primeros once años de vigencia, contados a partir de la fecha de la expedición de su respectivo título de concesión minera, pagarán semestralmente el derecho adicional sobre minería conforme al 50% de la cuota señalada en la fracción VI del artículo 263 de esta Ley, por hectárea concesionada.
+
+Para el caso de los titulares cuyas concesiones se encuentren en el doceavo año y posteriores de vigencia, que no realicen obras y trabajos de exploración y explotación durante dos años continuos, el pago del derecho será del 100% de la cuota señalada en la fracción VI del artículo 263 antes citado, por hectárea concesionada.
+
+El pago del derecho a que se refiere este artículo, se efectuará hasta en tanto no se acredite ante la autoridad minera la realización de obras y trabajos de exploración o explotación durante dos años continuos.
+
+Para los efectos del presente artículo, el pago del derecho adicional sobre minería, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
+
+El pago del derecho a que se refiere este artículo deberá efectuarse semestralmente en los meses de enero y julio del año que corresponda.
+
+Para el caso de que la determinación del cumplimiento del plazo de dos años a que se refieren los párrafos primero y segundo de este artículo, se efectúe en el transcurso de un semestre, los concesionarios deberán pagar la parte proporcional del derecho por el periodo que corresponda, a partir del mes en que se cumplió el plazo de los dos años y hasta el último mes del semestre de que se trate, para tales efectos, el derecho se deberá pagar dentro de los treinta días naturales siguientes a esa fecha.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 270.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Los titulares de concesiones y asignaciones mineras pagarán anualmente el derecho extraordinario sobre minería, aplicando la tasa del 0.5% a los ingresos derivados de la enajenación del oro, plata y platino, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+
+El derecho a que se refiere el presente artículo, se calculará considerando los ingresos totales del concesionario o asignatario minero por la enajenación o venta del oro, plata y platino, independientemente del número de concesiones o asignaciones de las que sea titular.
+
+Los contribuyentes deberán llevar contabilidad por separado en donde se identifiquen los ingresos derivados de la enajenación del oro, plata y platino.
+
+El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
+
+El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 271.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+El Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros se integrará con los recursos por derechos sobre minería a que se refieren los artículos 268, 269 y 270 de esta Ley y deberán ser empleados en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
+
+I. La construcción, remodelación y equipamiento de centros escolares;
+
+II. Pavimentación y mantenimiento de calles y caminos locales, así como la instalación y mantenimiento de alumbrado público;
+
+III. Rellenos sanitarios, plantas de tratamiento de agua, instalación y mantenimiento de obras de drenaje público, manejo de residuos sólidos, y mejora de calidad del aire;
+
+IV. Obras que preserven áreas naturales, como por ejemplo, reforestación y rescate o rehabilitación de ríos y otros cuerpos de agua, y
+
+V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas de trenes suburbanos, metrocable de transporte o equivalentes.
 
 ###### ARTICULO 272.
 
@@ -23081,13 +22657,23 @@ El pago del derecho señalado en este artículo, se efectuará con independencia
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 275.
 
-Los Estados y el Distrito Federal participarán en los ingresos de los derechos sobre minería a que se refiere este Capítulo, en los términos de la Ley de Coordinación Fiscal.
+Los Estados y el Distrito Federal participarán en los ingresos de los derechos sobre minería a que se refieren los artículos 263 y 267 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
+
+Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 80% al Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, el cual se distribuirá, en un 62.5% a los municipios y demarcaciones del Distrito Federal en los que tuvo lugar la explotación y obtención de sustancias minerales y el 37.5% restante a la entidad federativa correspondiente, a fin de que se apliquen en términos de lo dispuesto por el artículo 271 de esta Ley.
+
+La distribución de estos recursos entre los municipios y demarcaciones del Distrito Federal, y entre las entidades federativas correspondientes, se determinará con base en el porcentaje del valor de la actividad extractiva del municipio o demarcación del Distrito Federal correspondiente, respecto del valor total de la actividad extractiva en el territorio nacional, de acuerdo al registro estadístico de producción minera que para tales efectos elabore la Secretaría de Economía en el año que corresponda.
+
+Para aplicar los recursos del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, se conformará en cada entidad federativa un Comité de Desarrollo Regional para las Zonas Mineras, el cual estará integrado por un representante de la Administración Pública Federal, en este caso, por parte del titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano a cargo del Comité; un representante del Gobierno del Estado o del Distrito Federal; un representante del o de los municipios o demarcaciones en donde se localicen las actividades mineras; en los casos en donde éstas se realicen en comunidades indígenas o agrarias, un representante de dichas comunidades, así como un representante de las empresas mineras relevantes con actividades en la demarcación.
+
+Los ingresos que obtenga el Gobierno Federal derivado de la aplicación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, se destinaran a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+
+Con periodicidad trimestral, las entidades federativas deberán publicar, entre otros medios, a través de su página oficial de Internet, y entregar a la Secretaría de Hacienda y Crédito Público, la información relativa a los montos que reciban, el ejercicio y destino del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, desagregándola en términos de la Ley General de Contabilidad Gubernamental.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -23098,6 +22684,12 @@ Los Estados y el Distrito Federal participarán en los ingresos de los derechos 
 ###### ARTICULO 276.
 
 Están obligados a pagar el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, las personas físicas o morales que descarguen en forma permanente, intermitente o fortuita aguas residuales en ríos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua, así como los que descarguen aguas residuales en los suelos o las infiltren en terrenos que sean bienes nacionales o que puedan contaminar el subsuelo o los acuíferos, en términos de lo dispuesto en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+El pago del derecho a que se refiere este artículo no exime a los responsables de las descargas de aguas residuales de cumplir con los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y con las condiciones particulares de sus descargas, de conformidad con la Ley de Aguas Nacionales.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23141,15 +22733,85 @@ XVII. Uso Consuntivo: El volumen de agua de una calidad determinada que se consu
 
 XVIII. Uso Doméstico: La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, cuyo servicio se preste en términos del inciso a), de la fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 277-A.
+
+El derecho a que se refiere este capítulo se calculará conforme al volumen descargado durante el trimestre; los contribuyentes efectuarán la lectura del aparato de medición durante el último día hábil del trimestre de que se trate y de la lectura realizada se disminuirá la lectura efectuada el último día del trimestre anterior, sobre el volumen resultante se aplicará la cuota que corresponda, de conformidad con lo señalado en el artículo 277-B.
+
+Los contribuyentes deberán contar en cada una de las descargas de aguas residuales con aparatos de medición volumétricos que instale la Comisión Nacional del Agua; para tales efectos, deberán permitir el acceso y brindar las facilidades y apoyos necesarios al personal de dicha Comisión para que los instalen, los verifiquen y realicen la toma de las lecturas correspondientes.
+
+Sin perjuicio de la consulta directa de los medidores instalados por la Comisión Nacional del Agua, los contribuyentes podrán consultar vía Internet, en el transcurso del trimestre que corresponda, el estado que guardan sus volúmenes descargados, de conformidad con el procedimiento que al efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+Hasta que la Comisión Nacional del Agua instale el aparato de medición a que se refiere el presente artículo, el contribuyente estará obligado a:
+
+a). Adquirir, conservar e instalar un aparato de medición que cumpla con las reglas de carácter general que emita la Comisión Nacional del Agua.
+
+b). Informar a la Comisión Nacional del Agua las descomposturas de su medidor dentro del término de treinta días hábiles contados a partir de que tuvieron conocimiento.
+
+En caso de que no se pueda medir el volumen de agua descargada durante el trimestre, a falta de medidor o como consecuencia de la descompostura de éste por causas no imputables al contribuyente, el volumen a declarar será el promedio del volumen descargado durante los últimos cuatro trimestres; cuando sea por causas imputables al contribuyente el volumen a declarar no podrá ser inferior a la cuarta parte que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I, incisos a) y d) de esta Ley.
+
+Los contribuyentes a que se refiere la fracción I del artículo 277-B de esta Ley, cuya infraestructura de drenaje y alcantarillado esté conectada con otro contribuyente del mismo tipo y no se pueda identificar el volumen de descarga de cada uno de ellos, podrán determinarlo multiplicando el volumen descargado por los contribuyentes interconectados por la proporción de habitantes que corresponda al contribuyente, la cual se obtendrá de dividir el número de habitantes del contribuyente entre la totalidad de habitantes en las localidades o municipios interconectados en su red de alcantarillado, en términos del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 277-B.
+
+El monto del derecho a pagar se determinará aplicando al volumen descargado durante el trimestre las siguientes cuotas por cada metro cúbico, según corresponda:
+
+I. Por la descarga que realicen las entidades federativas, municipios, organismos paraestatales, paramunicipales y las empresas concesionarias que presten el servicio de alcantarillado en sustitución de las anteriores, atendiendo al tipo de cuerpo receptor aplicarán.
+
+(VÉASE ARCHIVO ANEXO)
+
+II. Por la descarga que realicen las personas físicas y morales distintas a las señaladas en la fracción I de este artículo, atendiendo al tipo de cuerpo receptor aplicarán.
+
+(VÉASE ARCHIVO ANEXO)
+
+III. Los contribuyentes a que se refiere la fracción II de este artículo, podrán optar por aplicar las siguientes cuotas a cada metro cúbico descargado atendiendo al tipo de cuerpo receptor en que realicen su descarga y a la actividad que la generó, siempre y cuando presenten previamente la información necesaria para acreditar la cantidad y calidad de sus descargas, que solicite la Comisión Nacional del Agua mediante reglas de carácter general.
+
+(VÉASE ARCHIVO ANEXO)
+
+Los contribuyentes cuya actividad que origina la descarga no esté comprendida en la tabla anterior, aplicarán la cuota establecida en este artículo para las descargas preponderantemente no biodegradables.
+
+El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 278.
 
-Por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, se causará el derecho de acuerdo con el tipo del cuerpo receptor en donde se realice la descarga, conforme al volumen de agua descargada y los contaminantes vertidos, en lo que rebasen los límites máximos permisibles establecidos en la presente Ley.
+Los contribuyentes a que se refieren las fracciones I y III del artículo 277-B de esta Ley, podrán acreditar contra el derecho del trimestre a su cargo la cantidad que resulte de aplicar el siguiente procedimiento:
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+I. Se deberán obtener las concentraciones de contaminantes de la descarga del contribuyente de sólidos suspendidos totales y demanda química de oxígeno, expresadas en miligramos por litro, mediante el muestreo y análisis a que se refiere el artículo 278-B de esta Ley.
 
-El pago del derecho a que se refiere este artículo no exime a los responsables de las descargas de aguas residuales de cumplir con los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y con las condiciones particulares de sus descargas, de conformidad con la Ley de Aguas Nacionales.
+II. A la concentración del contaminante, característica correspondiente a la actividad que generó la descarga del contribuyente prevista en la tabla siguiente, se le disminuirá la concentración del contaminante obtenida del análisis a que se refiere la fracción anterior.
+
+(VÉASE ARCHIVO ANEXO)
+
+Los contribuyentes que opten por aplicar lo dispuesto en este artículo, deberán considerar las concentraciones de contaminantes señalados en la tabla anterior, que correspondan al mismo grupo respecto del cual aplicaron la cuota prevista en el artículo 277-B de esta Ley.
+
+III. Al resultado obtenido de la fracción anterior, se le aplicará el factor de acreditamiento que corresponda al tipo del cuerpo receptor donde se efectuó la descarga y al contaminante respectivo conforme a la siguiente tabla:
+
+(VÉASE ARCHIVO ANEXO)
+
+El factor de acreditamiento, se actualizará en los términos del artículo 1o. de esta Ley.
+
+IV. El resultado obtenido de la operación señalada en la fracción anterior se multiplicará por el volumen descargado en el trimestre.
+
+V. La cantidad resultante conforme a la fracción anterior se sumará con el monto obtenido al aplicar el procedimiento previsto en este artículo para el otro contaminante, obteniendo así la cantidad a acreditar contra el derecho del trimestre a cargo del contribuyente que se determine conforme a las fracciones I y III del artículo 277-B de esta Ley, según corresponda.
+
+El monto a acreditar se aplicará únicamente contra el derecho a cargo que corresponda al mismo punto de descarga que originó dicho beneficio.
+
+VI. La cantidad que resulte después de aplicar el acreditamiento será el derecho a pagar.
+
+El contribuyente que opte por aplicar el acreditamiento previsto en este artículo, deberá acompañar a la declaración del trimestre que corresponda el reporte emitido por el laboratorio referido en el artículo 278-B de esta Ley.
+
+El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23305,35 +22967,37 @@ Zacatecas: Presa José López Portillo (Tenayuca) en los municipios de Nochistl�
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 278-B.
 
-El volumen de agua residual y las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
+Para efectos del acreditamiento a que se refiere el artículo 278 de esta Ley, las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
 
-I.- Volumen:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+I.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+II.- (DEROGADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+El responsable de la descarga realizará el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas para verificar las concentraciones de los contaminantes a que se refiere esta Ley.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-a).- Cuando el caudal de la descarga se efectúe en forma continua o intermitente, y sea igual o mayor a 9,000 metros cúbicos en un trimestre, el contribuyente deberá instalar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual. El volumen de cada descarga corresponderá a la diferencia entre la lectura tomada el último día del trimestre de que se trate y la lectura efectuada el último día del trimestre anterior.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-b).- Cuando el caudal de descarga sea continuo o intermitente y menor a 9,000 metros cúbicos en un trimestre, el usuario podrá optar entre instalar medidores o efectuar cada trimestre bajo su responsabilidad la determinación del volumen con otros dispositivos de aforo. Dicha determinación se deberá manifestar bajo protesta de decir verdad en la declaración correspondiente.
-
-En caso de que no se pueda medir el volumen de agua descargada, a falta de medidor o como consecuencia de la descompostura de éste, el volumen a declarar no podrá ser inferior al que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I, incisos a) y d) de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-II.- Las concentraciones de contaminantes descargados al cuerpo receptor se determinarán, conforme a lo que se indica en los párrafos siguientes.
-
-El responsable de la descarga tendrá la obligación de realizar el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas para verificar las concentraciones de los contaminantes a que se refiere esta Ley.
 
 Los reportes que presente el responsable de la descarga estarán basados en determinaciones analíticas realizadas por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- En el Procedimiento Obligatorio del Muestreo de las Descargas, se entenderá por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+III. En el Procedimiento del Muestreo de las Descargas, se entenderá por:
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23385,9 +23049,11 @@ c).- Parámetro: Variable que se utiliza como referencia para determinar la cali
 
 d). Promedio Diario: El valor que resulta del análisis de una muestra compuesta.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-e). Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+e). Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23397,33 +23063,33 @@ IV.- El muestreo, análisis y reporte de la calidad de las descargas, se efectua
 
 A).- Método de Muestreo: El método que se deberá llevar a cabo al efectuar la toma de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003-1980 Aguas Residuales-Muestreo, publicada en el Diario Oficial de la Federación el 25 de Marzo de 1980.
 
-La obligación de realizar el muestreo y análisis de la calidad del agua descargada, corresponde al responsable de estas descargas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 B).- Frecuencias del Muestreo y Análisis, y del Reporte de Datos: La frecuencia de muestreo y análisis y de reporte será de acuerdo al tamaño de población en el caso de efluentes municipales, y en el caso de descargas no municipales, de acuerdo a la carga de contaminantes, según se indica en las tablas de efluentes municipales y de efluentes no municipales, respectivamente.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Tabla B. Efluentes Municipales
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Tabla C. Efluentes no Municipales
 
-Demanda Sólidos Frecuencia de Frecuencia de
+(VÉASE ARCHIVO ANEXO)
 
-Química Suspendidos Muestreo Reporte de
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de Oxígeno Totales y Análisis Datos
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Toneladas/día Toneladas/día
-
-Mayor de 3.0 Mayor de 3.0 Mensual Trimestral
-
-De 1.2 a 3.0 De 1.2 a 3.0 Trimestral Trimestral
-
-Menor de 1.2 Menor de 1.2 Semestral Semestral
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo y en la Tabla D de este artículo.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo.
 
 C).- Cálculo de los Valores: En el muestreo y análisis y reporte de datos del parámetro o parámetros requeridos, se debe considerar el valor del promedio mensual de acuerdo a la definición dada en este procedimiento, y debe considerar días hábiles de actividad o producción normal.
 
@@ -23433,7 +23099,9 @@ El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia
 
 2.- Para la frecuencia trimestral, el promedio mensual del parámetro o parámetros en un mes del trimestre.
 
-3.- Para la frecuencia semestral, el promedio mensual del parámetro o los parámetros en un mes del semestre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+3.- (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 El reporte de los resultados del muestreo y análisis del parámetro o parámetros requeridos, deberá ser hecho en una frecuencia trimestral, conforme a lo señalado en el artículo 283 de esta Ley.
 
@@ -23441,7 +23109,9 @@ El reporte de los resultados del muestreo y análisis del parámetro o parámetr
 
 El reporte del trimestre, para la frecuencia mensual de muestreo y análisis, será el promedio aritmético de los valores que resulten del análisis de cada mes.
 
-En el caso de la frecuencia semestral del muestreo y análisis, para el reporte del trimestre donde no se realice el muestreo y análisis, se podrá repetir el reporte del trimestre inmediato anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23451,115 +23121,89 @@ El cumplimiento de lo anterior, es sin menoscabo de la observancia a las disposi
 
 D) Método de Prueba: Para la toma de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en esta fracción y en las normas oficiales mexicanas y normas mexicanas, correspondientes.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Para cada descarga el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes en miligramos por litro, conforme al procedimiento obligatorio de muestreo de descargas establecido en este artículo.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+V. Para cada descarga el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes en miligramos por litro, conforme al procedimiento de muestreo de descargas establecido en este artículo.
 
-VI. En caso de que el agua de abastecimiento registre alguna concentración promedio mensual de los parámetros referidos en la tabla D del presente artículo, se podrá restar de la concentración de la descarga, siempre y cuando lo acredite ante la Comisión Nacional del Agua, a través de un análisis de calidad del agua efectuado por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El informe referido en el párrafo anterior podrá ser presentado dentro del primer trimestre del ejercicio de que se trate y será válido durante dicho ejercicio. En caso de ser solicitado con posterioridad al plazo antes señalado el informe será válido a partir del momento en que se presente.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-La Comisión Nacional del Agua estará facultada para revisar la veracidad de los datos del informe presentado.
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-VII. Una vez determinadas las concentraciones de los contaminantes expresados en miligramos por litro se compararán con los valores correspondientes a los límites máximos permisibles por cada contaminante, previstos en la siguiente tabla:
-
-Tabla D
-
-LÍMITES MÁXIMOS PERMISIBLES
-
-CUERPOS RECEPTORES
-
-PARÁMETROS TIPO A TIPO B TIPO C
-
-(miligramos por Ríos Ríos
-
-litro) Aguas Costeras Embalses Ríos y
-
-Suelo Aguas Costeras Embalses
-
-Estuarios
-
-Humedales Natu-
-
-rales
-
-P.M. P.M. P.M.
-
-Sólidos
-
-Suspendidos 150.0 75.0 40.0
-
-Totales
-
-Demanda
-
-Química de 320 200 100
-
-Oxígeno
-
-P.M.: Promedio Mensual
-
-En caso de que las concentraciones de contaminantes sean superiores a dichos límites se pagará el derecho conforme a lo dispuesto en el artículo 278-C de esta Ley.
-
-> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-VIII. Los laboratorios acreditados ante la entidad autorizada por la Secretaría de Economía y aprobados por la Comisión Nacional del Agua, deberán de informar semestralmente a dicha Comisión de los resultados de los análisis efectuados en ese periodo a los contribuyentes a que se refiere el presente Capítulo.
-
-En caso de que la Comisión Nacional del Agua determine que los laboratorios no cumplieron con la obligación establecida en esta fracción notificará el incumplimiento al laboratorio y lo apercibirá de que en caso de reincidencia quedará sin efectos la aprobación que le otorgó.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-###### ARTICULO 278-C.
-
-Para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales se considerará, trimestralmente, el volumen de las aguas residuales descargadas, las concentraciones de contaminantes que rebasen los límites máximos permisibles establecidos, así como el tipo de cuerpo receptor donde se efectúen, de la siguiente forma:
-
-I. La concentración de contaminantes que rebasen los límites máximos permisibles expresados en miligramos por litro se multiplicará por el factor de 0.001, para convertirla a kilogramos por metro cúbico.
-
-II. El resultado obtenido se multiplicará por el volumen trimestral de aguas residuales descargadas en metros cúbicos, obteniéndose así la carga de contaminantes, expresada en kilogramos por trimestre, descargada al cuerpo receptor.
-
-III. Para obtener el monto correspondiente por cada contaminante que rebase los límites máximos permisibles, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, por la cuota en pesos por kilogramo que corresponda, de acuerdo con la siguiente Tabla:
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2013, D.O.F. DEL 28 DE DICIEMBRE DE 2012.</small>
-
-TABLA II
-
-CUOTA EN PESOS POR KILOGRAMO DE CONTAMINANTE AL TRIMESTRE
-
-Tipo de Cuerpo Receptor
-
-contaminante Tipo “A” Tipo “B” Tipo “C”
-
-Demanda Química $0.3517 $0.3933 $0.4138
-
-de Oxígeno
-
-Sólidos Suspendidos $0.6040 $0.6751 $0.7108
-
-Totales
-
-El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
+VI. En caso de que el agua de abastecimiento registre alguna concentración promedio mensual, se podrá restar de la concentración de la descarga, siempre y cuando lo acredite ante la Comisión Nacional del Agua, a través de un análisis de calidad del agua efectuado por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
+El informe referido en el párrafo anterior podrá ser presentado dentro del primer trimestre del ejercicio de que se trate y será válido durante dicho ejercicio. En caso de ser solicitado con posterioridad al plazo antes señalado el informe será válido a partir del momento en que se presente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
+La Comisión Nacional del Agua estará facultada para revisar la veracidad de los datos del informe presentado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VIII. Los laboratorios acreditados ante la entidad autorizada por la Secretaría de Economía y aprobados por la Comisión Nacional del Agua, deberán de informar trimestralmente a dicha Comisión de los resultados de los análisis efectuados en ese periodo a los contribuyentes a que se refiere el presente Capítulo.
+
+En caso de que la Comisión Nacional del Agua determine que los laboratorios no cumplieron con las obligaciones establecidas en este artículo notificará el incumplimiento al laboratorio y lo apercibirá de que en caso de reincidencia quedará sin efectos la aprobación que le otorgó, de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+Los laboratorios a que se refiere este artículo serán responsables de la veracidad y exactitud de los datos e información suministrados en los reportes a que se refiere este artículo y responderán solidariamente del pago del derecho a que se refiere este Capítulo y del derecho por uso, explotación o aprovechamiento de aguas nacionales a cargo de los contribuyentes respecto de los cuales se haya indebidamente aplicado el acreditamiento, exención o descuento con motivo del reporte emitido por el laboratorio.
+
+Para determinar la responsabilidad solidaria a los laboratorios a que se refiere este artículo, la autoridad fiscal llevará a cabo el procedimiento a que se refiere el artículo 42, fracción II, del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTICULO 278-C.
+
+(DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
+
+(N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 279.
 
-Los ingresos que se obtengan por concepto del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, correspondientes al artículo 278-C de esta Ley, se destinarán a la Comisión Nacional del Agua para la realización de los programas que al efecto establezca dicha Comisión, en una cantidad equivalente hasta por el monto cubierto, en el ejercicio de que se trate, para la realización de obras y acciones de saneamiento y dotación de infraestructura para el tratamiento de aguas residuales, conforme a lo siguiente:
+Los ingresos que se obtengan por concepto del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, correspondientes a este Capítulo, se destinarán a la Comisión Nacional del Agua para la realización de los programas que al efecto establezca dicha Comisión, para la realización de acciones de infraestructura, operación y mejoramiento de eficiencia de saneamiento.
 
-Los contribuyentes del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales podrán solicitar a la Comisión Nacional del Agua autorización para realizar un programa de acciones en materia de saneamiento y tratamiento de aguas residuales y, en su caso, dicha Comisión les asignará recursos para su realización, siempre que no exceda el monto cubierto por el contribuyente de conformidad con el artículo 278-C de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los contribuyentes del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales a que se refiere la fracción I del artículo 277-B de esta Ley, podrán solicitar a la Comisión Nacional del Agua autorización para realizar un programa de acciones de infraestructura, operación y mejoramiento de eficiencia de saneamiento y, en su caso, dicha Comisión les asignará recursos para su realización hasta por el monto cubierto por el contribuyente de conformidad con los artículos 277-B y, en su caso, 278 de esta Ley, siempre y cuando el contribuyente invierta una cantidad en la proporción al monto asignado señalada en la tabla siguiente atendiendo al número de habitantes de la localidad, municipio o municipios donde el contribuyente preste el servicio de alcantarillado y saneamiento de acuerdo al último Censo General de Población y Vivienda que emita el Instituto Nacional de Estadística y Geografía:
+
+(VÉASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 El programa de acciones referido en el párrafo anterior, tendrá como fin mejorar la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas, a fin de no rebasar los límites máximos permisibles establecidos en esta Ley, y mantener o mejorar la calidad de sus descargas de aguas residuales.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
 Para los efectos del párrafo anterior, los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los primeros diez días de los meses de julio del mismo año y enero del siguiente, en las formas establecidas para ello.
 
-La Comisión Nacional del Agua en términos del instructivo para la presentación y seguimiento del programa de acciones que para tal efecto publique en el Diario Oficial de la Federación, vigilará el cumplimiento en el avance de las acciones comprometidas por los contribuyentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 En el caso de que los contribuyentes no presenten alguno de los informes señalados en el párrafo anterior, en los plazos establecidos para ello, no gozarán del beneficio contenido en este artículo, por lo que hace al periodo omitido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+La Comisión Nacional del Agua en términos del instructivo para la presentación y seguimiento del programa de acciones que para tal efecto publique en el Diario Oficial de la Federación, vigilará el cumplimiento en el avance de las acciones comprometidas por los contribuyentes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+
 La Comisión Nacional del Agua vigilará que los recursos entregados se ejerzan para los fines establecidos en el presente artículo y en caso de que los contribuyentes no acrediten tal situación, deberán reintegrar a la Comisión los recursos asignados, dentro de los 30 días siguientes a la fecha en que dicha autoridad se lo comunique a los contribuyentes, para lo cual se señalará en la resolución correspondiente el importe respectivo, con la actualización y recargos causados a partir de la fecha en que recibieron los recursos, en términos de los artículos 17-A, 21 y demás aplicables del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 Cuando los recursos asignados no sean devueltos por el contribuyente en el plazo establecido para tal efecto, el importe señalado en la resolución dictada, tendrá el carácter de crédito fiscal y será exigible a través del procedimiento administrativo de ejecución, de conformidad con las disposiciones fiscales aplicables.
 
@@ -23593,21 +23237,31 @@ El monto a acreditar deberá asentarse en la declaración trimestral definitiva,
 
 No estarán obligados al pago del derecho federal a que se refiere el presente Capítulo:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Los contribuyentes cuyos contaminantes no rebasen los límites máximos permisibles establecidos en la presente Ley.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I.- Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites máximos permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales.
+
+(VÉASE ARCHIVO ANEXO)
+
+Para tales efectos, el contribuyente deberá medir el volumen en cada punto de descarga en términos del artículo 277-A de esta Ley y acompañar a la declaración del trimestre respectivo el reporte que emita el laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua, que acredite que la calidad de la descarga se efectúa en términos del párrafo anterior.
+
+Los contribuyentes que realicen descargas que estén exentas en los términos de esta fracción y efectúen otras por las que sí se debe cubrir el derecho previsto en este Capítulo, deberán medir los volúmenes y pagar los derechos respectivos en los términos del presente Capítulo. Cuando no se midan los volúmenes exentos respecto de los que sí se debe pagar derechos, estarán obligados al pago de los mismos por la totalidad de los volúmenes descargados, quedando sin efectos la citada exención.
 
 II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 III.- Quienes descarguen aguas residuales a redes de drenaje o alcantarillado que no sean bienes del dominio público de la Nación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Las poblaciones rurales de hasta 2,500 habitantes, de conformidad con el último Censo General de Población y Vivienda y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+V.- Las poblaciones de hasta 10,000 habitantes, de conformidad con el último Censo General de Población y Vivienda y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -23635,47 +23289,15 @@ Cuando las personas físicas o morales para el cumplimiento de la obligación le
 
 Las personas físicas o morales que contraten o utilicen los servicios mencionados, serán solidariamente responsables con las empresas que traten aguas residuales, por el pago del derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 282-C.
 
-Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquellos que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas, sean de una calidad superior a la establecida en los límites máximos permisibles establecidos en esta Ley, podrán gozar del descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII, del Título II de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, de acuerdo con lo indicado en la Tabla IV, de este artículo, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
+Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquéllos que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas, sean de una calidad igual o superior a la establecida en la Norma Oficial Mexicana NOM-127-SSA1-1994, podrán gozar de un 30% de descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII, del Título II de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-TABLA IV
-
-DESCUENTO EN EL PAGO DEL DERECHO POR USO O APROVECHAMIENTO DE AGUAS NACIONALES.
-
-Calidad Tipo de calidad de % de descuento
-
-establecida la descarga
-
-para
-
-descargas
-
-a cuerpos
-
-receptores
-
-tipo
-
-A B 12
-
-A C 18
-
-A NOM-127-SSA1-1994 44
-
-B C 6
-
-B NOM-127-SSA1-1994 32
-
-C NOM-127-SSA1-1994 26
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Este porcentaje de descuento se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar los resultados de la calidad del agua, emitidos por un laboratorio acreditado ante la entidad de acreditamiento autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
+El porcentaje de descuento se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar los resultados de la calidad del agua, emitidos por un laboratorio acreditado ante la entidad de acreditamiento autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
 ###### ARTICULO 282-D.
 
@@ -23689,10 +23311,6 @@ Este porcentaje de descuento se aplicará al monto del derecho a que se refiere 
 
 El usuario calculará el derecho federal a que se refiere el presente Capítulo trimestralmente y efectuará su pago el último día hábil de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 Los contribuyentes que efectúen descargas permanentes o intermitentes estarán obligados a presentar la declaración a que se refiere el párrafo anterior.
@@ -23701,9 +23319,11 @@ Los contribuyentes que efectúen descargas permanentes o intermitentes estarán 
 
 Las personas que efectúen descargas fortuitas de aguas residuales, deberán presentar la declaración aun cuando no resulte pago a su cargo, dentro del mes siguiente a aquél en que se realizó la descarga, misma que se considerará definitiva.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por cada uno de los sitios donde lleve a cabo la descarga al cuerpo receptor.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por todos los sitios donde lleve a cabo la descarga al cuerpo receptor, señalando sus sitios de descarga, nombre, denominación o razón social, registro federal de contribuyentes, número de permisos de descarga, incluyendo por cada sitio de descarga el nombre y tipo de cuerpo receptor, el volumen descargado, la cuota aplicada y el monto pagado, en caso de que opte por aplicar el acreditamiento, exención o descuento a que se refiere este Capítulo, indicar las concentraciones de contaminantes de cada descarga.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -23717,17 +23337,21 @@ Los contribuyentes deberán contar con la documentación original comprobatoria 
 
 La Comisión Nacional del Agua o el Servicio de Administración Tributaria procederán a la determinación presuntiva del derecho federal a que se refiere el presente Capítulo, en los siguientes casos:
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- No se tenga instalado aparato de medición o el mismo no funcione.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I.- No se tenga instalado aparato de medición o el mismo no funcione y tal circunstancia no se haya informado dentro del plazo que se establece en el artículo 277-A de esta Ley, o habiéndolo informado dicho aparato no se hubiera reparado dentro de los diez días siguientes.
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 II.- Cuando el cálculo que efectúe el usuario bajo su responsabilidad sea menor al que resulte de aplicar el mismo procedimiento que se señala en la Ley, en la visita de inspección o verificación de contaminación en la descarga de agua residual o en ejercicio de las facultades de comprobación que al efecto se lleven a cabo.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación, verificación y medición que efectúe la Comisión Nacional del Agua, o no presente la documentación que ésta le solicite.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+III.- Se oponga u obstaculice al inicio o desarrollo de las facultades de comprobación, verificación y medición que efectúe la Comisión Nacional del Agua, o no presente la documentación que ésta le solicite.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -23737,9 +23361,9 @@ IV.- El usuario no efectúe el pago del derecho en los términos del artículo a
 
 V.- Cuando se efectúe en forma fortuita una descarga de aguas residuales o contaminadas, por quienes normalmente no son contribuyentes del derecho a que se refiere el presente Capítulo, y que causen daño ecológico conforme a dictamen que al efecto emita la autoridad ecológica competente.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Cuando el usuario no presente sus reportes de análisis de la calidad de las descargas de aguas residuales, emitidos por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
+VI.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -23751,11 +23375,19 @@ La determinación presuntiva a que se refiere este artículo procederá independ
 
 Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, la autoridad fiscal estará a lo siguiente:
 
-I. Para la determinación del volumen de agua residual vertida, se considerará lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I. Para la determinación del volumen de agua residual vertida, se aplicarán indistintamente los siguientes procedimientos:
 
 a). El señalado en el permiso de descarga respectivo.
 
-b). El que señalen los registros de las lecturas de sus dispositivos de medición o que se desprendan de alguna de las declaraciones trimestrales o anuales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+b). El que señalen los registros de las lecturas de los dispositivos de medición o que se desprendan de alguna de las declaraciones presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
 
 c). El que proporcionen las autoridades administrativas, fiscales o las competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas atribuciones.
 
@@ -23765,45 +23397,31 @@ e). El que resulte del procedimiento establecido en el artículo 229, fracción 
 
 f). El que resulte de los medios indirectos de la investigación económica o de cualquier otra clase.
 
-g). El que resulte de cualquier otra información que obtenga la autoridad fiscal distinta a las anteriores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+g). Tratándose de los contribuyentes a que se refiere la fracción I del artículo 277-B de esta Ley, cuya infraestructura de drenaje y alcantarillado esté conectada con otro contribuyente del mismo tipo y no se pueda identificar el volumen de descarga de cada uno de ellos, se determinará multiplicando el volumen descargado por los contribuyentes interconectados por la porción de habitantes que corresponda al contribuyente, la cual se obtendrá de dividir el número de habitantes del contribuyente entre la totalidad de habitantes en las localidades o municipios interconectados en su red de alcantarillado, en términos del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+h). El que resulte de cualquier otra información que obtenga la autoridad fiscal distinta a las anteriores.
 
 Cuando el volumen señalado en el permiso de descargas, resulte menor al que se obtenga de la información y documentación con que cuenten la Comisión Nacional del Agua o el Servicio de Administración Tributaria, se deberán considerar estas últimas.
 
 En caso de que no se cuente con permiso de descarga y la autoridad fiscal cuente con más de un volumen presuntivo, considerará aquél que resulte mayor.
 
-II. Para la concentración de los contaminantes, trimestralmente se considerarán presuntivamente las siguientes concentraciones:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a). Para descargas municipales:
+II. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-Tabla I
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tipo de Contaminante CONCENTRACIÓN PRESUNTIVA
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Demanda Química de 700 mg/L
-
-Oxígeno
-
-Sólidos Suspendidos 400 mg/L
-
-Totales
-
-b). Para descargas no municipales:
-
-Tabla II
-
-Tipo de contaminante CONCENTRACIÓN PRESUNTIVA
-
-Demanda Química de 7,000 mg/L
-
-Oxígeno
-
-Sólidos Suspendidos 3,000 mg/L
-
-Totales
-
-En caso de que la autoridad fiscal cuente con información proporcionada por las autoridades administrativas competentes en la cual se determine la concentración de contaminantes, deberá considerarse ésta para la determinación correspondiente y no la señalada en las tablas anteriores.
-
-III. Una vez determinado el volumen presuntivo de la descarga de aguas residuales, así como la concentración presuntiva de los contaminantes en los términos antes señalados, para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, la autoridad fiscal aplicará el procedimiento establecido en el artículo 278-C de esta Ley.
+III. Una vez determinado el volumen presuntivo de la descarga de aguas residuales en los términos antes señalados, para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, la autoridad fiscal aplicará el procedimiento establecido en el artículo 277-B de esta Ley.
 
 ###### ARTICULO 286.
 
@@ -23827,7 +23445,7 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 ### CAPITULO XVI. De los Bienes Culturales Propiedad de la Nación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 288.
 
@@ -23859,21 +23477,29 @@ normal
 
 Para efectos de este artículo se consideran:
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Áreas tipo AAA:
 
-Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo), y Zona Arqueológica de Xochicalco (con museo);
+Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); y Museo Maya de Cancún y Sitio Arqueológico de San Miguelito;
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Áreas tipo AA:
 
-Zona Arqueológica de Paquimé y Museo de las Culturas del Norte; Museo Nacional del Virreinato; Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Zona Arqueológica Yaxchilán; Sitio Arqueológico de Tamtoc y Zona Arqueológica de Plazuelas;
+Zona Arqueológica de Paquimé y Museo de las Culturas del Norte; Museo Nacional del Virreinato; Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Zona Arqueológica Yaxchilán; Sitio Arqueológico de Tamtoc y Zona Arqueológica de Plazuelas; Sitio Arqueológico Ek-Balam; y Sitio Arqueológico Xcambó;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Áreas tipo A:
 
-Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Calakmul; Zona Arqueológica Bonampak; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo Histórico Ex-aduana de Cd. Juárez; Museo del Carmen; Galería de Historia; Museo Nacional de las Intervenciones; Museo Histórico de Acapulco Fuerte de San Diego; Zona Arqueológica Tula (con museo); Museo Regional de Hidalgo; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Zona Arqueológica de Cholula (con museo); Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica San Gervasio; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán “Palacio Cantón”; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca.
+Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Calakmul; Zona Arqueológica Bonampak; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo Histórico Ex-aduana de Cd. Juárez; Museo del Carmen; Galería de Historia; Museo Nacional de las Intervenciones; Museo Histórico de Acapulco Fuerte de San Diego; Zona Arqueológica Tula (con museo); Museo Regional de Hidalgo; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Zona Arqueológica de Cholula (con museo); Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica San Gervasio; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán “Palacio Cantón”; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca; y Zona Arqueológica de las Labradas.
 
 > <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -23883,9 +23509,13 @@ Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zon
 
 > <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 Áreas tipo C:
 
-Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex Convento de San Andrés Epazoyucan; Ex-convento de Ixmiquilpan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Ocotelulco (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Museo Local del Cuale, Puerto Vallarta; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Ek-Balam; Zona Arqueológica Las Ranas; y Zona Arqueológica de Muyil.
+Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex Convento de San Andrés Epazoyucan; Ex-convento de Ixmiquilpan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Ocotelulco (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Museo Local del Cuale, Puerto Vallarta; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; y Zona Arqueológica de Muyil.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -24489,9 +24119,21 @@ I.- Para el caso de la fracción I, el derecho se pagará como sigue:
 
 El usuario deberá calcular y enterar mensualmente el derecho, a través de cualquier medio de pago autorizado por el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la presentación de declaración, a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, entregando a la Secretaría de Comunicaciones y Transportes a través de SENEAM, dentro de los cinco días siguientes a aquél en el que se efectuó el pago, copia de la Declaración General de Pago de Derechos con el sello legible de la oficina autorizada, así como el archivo electrónico que contenga los datos de las operaciones que dieron lugar al pago del derecho.
 
-La Secretaría de Comunicaciones y Transportes a través de SENEAM verificará la información entregada por el usuario, y en el caso de existir diferencias en el pago del derecho, se le solicitará la aclaración respectiva dentro de los quince días siguientes a la presentación de la copia de la declaración a SENEAM, debiendo el usuario presentarla en los tres días siguientes en el que se le solicitó dicha aclaración y en el supuesto de que subsistieran las diferencias, SENEAM comunicará al usuario dicha circunstancia quien deberá realizar el pago de las mismas dentro de los tres días siguientes a la comunicación, enterando dicho pago con los accesorios que se hubieren generado. La Secretaría de Comunicaciones y Transportes a través de SENEAM informará esta situación al Servicio de Administración Tributaria, quien realizará el requerimiento de pago del derecho que corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En el caso de que el contribuyente incumpla con la presentación del comprobante de pago o de la relación que contenga el cálculo de las operaciones realizadas, SENEAM comunicará de este hecho al Servicio de Administración Tributaria, quien realizará el requerimiento del pago del derecho que corresponda. La Secretaría de Comunicaciones y Transportes, a través de la Dirección General de Asuntos Jurídicos, comunicará al usuario la suspensión del uso, goce o aprovechamiento del espacio aéreo atendiendo a lo dispuesto en el último párrafo del artículo 3o. de esta Ley.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En el caso de que el contribuyente incumpla con la presentación del comprobante de pago que contenga el cálculo de las operaciones aeronáuticas realizadas, SENEAM comunicará de este hecho al Servicio de Administración Tributaria, quien realizará el requerimiento del pago del derecho que corresponda en términos del artículo 3o. de esta Ley. La Secretaría de Comunicaciones y Transportes, a través de la Unidad de Asuntos Jurídicos, comunicará al usuario la suspensión del uso, goce o aprovechamiento del espacio aéreo mexicano, atendiendo a lo dispuesto en el referido artículo 3o. de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los contribuyentes que no cuenten con cédula de Registro Federal de Contribuyentes, domicilio fiscal en los Estados Unidos Mexicanos o representante legal dentro del territorio nacional, no podrán optar por pagar el derecho conforme a la fracción I del artículo 289, por lo que deberán efectuar el pago en efectivo a Aeropuertos y Servicios Auxiliares o al concesionario autorizado para el suministro de combustible, cada vez que le sea suministrado el mismo a la aeronave de que se trate, de conformidad con lo dispuesto en las fracciones II y III del artículo 289 de esta Ley, según corresponda.
 
 II.- Para los efectos de las fracciones II y III, según sea el caso, el derecho se pagará como sigue:
 
@@ -24585,7 +24227,7 @@ México, D. F., 30 de diciembre de 1981.- Marco Antonio Aguilar Cortes, D.P.- Bl
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.- Rúbrica.- El Secretario de la Defensa Nacional, Félix Galván López.- Rúbrica.- El Secretario de Marina, Ricardo Cházaro Lara.- Rúbrica.- El Secretario de Programación y Presupuesto, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, José Andrés de Oteyza.- Rúbrica.- El Secretario de Comercio, Jorge de la Vega Domínguez.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Francisco Merino Rábago.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Mújica Montoya.- Rúbrica.- El Secretario de Asentamientos Humanos y Obras Públicas, Pedro Ramírez Vázquez.- Rúbrica.- El Secretario de Educación Pública, Fernando Solana.- Rúbrica.- El Secretario de Salubridad y Asistencia, Mario Calles López Negrete.- Rúbrica.- El Secretario de Trabajo y Previsión Social, Sergio García Ramírez.- Rúbrica.- El Secretario de la Reforma Agraria, Gustavo Carvajal Moreno.- Rúbrica.- La Secretaría de Turismo, Rosa Luz Alegría.- Rúbrica.- El Jefe del Departamento de Pesca, Fernando Rafful Miguel.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Carlos Hank González.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, LAS DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, LAS DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE DICIEMBRE DE 1982.
 
@@ -28792,3 +28434,129 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 28 DE DICIEMBRE DE 2012.
 
 LA RESOLUCIÓN DE ACTUALIZACIONES A LA MISCELÁNEA FISCAL PARA 2013 CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 11 DE DICIEMBRE DE 2013.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE DERECHOS
+
+###### ARTÍCULO SEXTO.
+
+En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2014, salvo:
+
+I. Lo dispuesto en los artículos 1o. y 239, quinto y sexto párrafos, los cuales entrarán en vigor a partir del 1 de enero de 2015.
+
+II. La reforma al artículo 3o., sexto párrafo, la cual entrará en vigor el 1 de julio de 2014, hasta en tanto, la Secretaría de Economía podrá continuar ejerciendo las facultades que le confiere el artículo 3o. de la Ley Federal de Derechos, por lo que podrá iniciar, continuar o concluir el ejercicio de sus facultades conforme a dichas atribuciones.
+
+La Secretaría de Economía continuará ejerciendo las facultades establecidas en el artículo 3o. de la Ley Federal de Derechos, hasta la conclusión de los asuntos que haya iniciado antes de la entrada en vigor de este Decreto, igualmente a dicha Dependencia le corresponderá el cumplimiento de las sentencias derivadas de juicios contenciosos administrativos o juicios de amparo, así como las resoluciones de recursos administrativos, recaídas respecto de las resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto.
+
+Segundo. Para los efectos de la actualización de las cuotas de los derechos a que se refiere el artículo 1o. de la Ley Federal de Derechos, en lugar de aplicar el procedimiento señalado en dicho precepto, durante los años de 2014 y 2015, se estará a lo siguiente:
+
+a). Las cuotas de los derechos que se establecen en la Ley Federal de Derechos, se actualizarán el primero de enero de 2014, considerando el periodo comprendido desde el mes de diciembre de 2012 y hasta el mes de diciembre de 2013.
+
+Para los efectos del párrafo anterior, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo.
+
+Los derechos que se adicionen o que sufran modificaciones en su cuota contenidos en el presente Decreto, no se actualizarán el primero de enero de 2014.
+
+b). Las cuotas de los derechos que se establecen en la Ley Federal de Derechos, se actualizarán el primero de enero de 2015, considerando el periodo comprendido desde el mes de diciembre de 2011 y hasta el mes de diciembre de 2012.
+
+Para los efectos del párrafo anterior, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo.
+
+Los derechos que se adicionen o que sufran modificaciones en su cuota contenidos en el presente Decreto o, en su caso, en el Decreto de reformas a la Ley Federal de Derechos aplicable a partir del 1 de enero de 2015 que al efecto se expida, no se actualizarán el primero de enero de 2015, conforme a lo señalado en este inciso.
+
+c). Las cuotas de los derechos que se establecen en la Ley Federal de Derechos, se actualizarán el primero de enero de 2015, considerando el periodo comprendido desde el mes de diciembre de 2013 y hasta el mes de diciembre de 2014.
+
+Para los efectos del párrafo anterior, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo.
+
+Los derechos que se adicionen o que sufran modificaciones en su cuota contenidos en el Decreto de reformas a la Ley Federal de Derechos aplicable a partir del 1 de enero de 2015 que al efecto se expida, no se actualizarán el primero de enero de 2015.
+
+Tercero. Durante el año 2014 en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Para los efectos del artículo 3o., sexto párrafo a que se refiere este Decreto, el Servicio de Administración Tributaria y la Secretaría de Economía deberán celebrar un acuerdo de intercambio de información que permita a dicho órgano desconcentrado ejercer sus facultades de comprobación.
+
+II. En relación con el registro de título de técnico o profesional técnico, técnico superior universitario o profesional asociado, se aplicarán en materia de derechos las siguientes disposiciones:
+
+a). Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+b). Por el registro de título de técnico superior universitario o profesional asociado expedidos por Instituciones del Sistema Educativo Nacional que impartan educación de tipo superior, así como por la expedición de la respectiva cédula, se pagará el 50% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+III. El concesionario que entregue agua para uso público urbano a municipios u organismos operadores municipales de agua potable, alcantarillado y saneamiento podrá descontar del pago del derecho que le corresponda por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado A de la Ley Federal de Derechos, el costo comprobado de instalación y operación de la infraestructura utilizada para la entrega de agua de uso público urbano que el contribuyente hubiera hecho en el ejercicio fiscal de 2014, sin que en ningún caso exceda del monto del derecho a pagar. Lo anterior, previa aprobación del programa que al efecto deberá presentar a la Comisión Nacional del Agua.
+
+IV. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refieren las fracciones III, IV, V y XI del artículo 29-D de la Ley Federal de Derechos vigentes para el ejercicio fiscal de 2014, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refieren dichas fracciones conforme a lo dispuesto en ellas, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2013 hubieren optado por pagar para dicho ejercicio fiscal, más el 5% de dicha cuota.
+
+Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refieren las fracciones I, VI, VIII a X, XIII a XX del artículo 29-D de la Ley Federal de Derechos vigentes para el ejercicio fiscal de 2014, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refieren dichas fracciones conforme a lo dispuesto en ellas, podrán optar por pagar la cuota que les hubiere correspondido enterar para el ejercicio fiscal de 2013 más el 5% de dicha cuota.
+
+Tratándose de las entidades financieras a que se refieren las fracciones I, III a VI, VIII, IX, XI, XIII, XV, XVIII y XIX del artículo 29-D de la Ley Federal de Derechos, que se hayan constituido en el ejercicio fiscal de 2013, en lugar de pagar el derecho por concepto de inspección y vigilancia correspondiente al ejercicio de 2014, en términos de lo dispuesto en tales fracciones, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2013 conforme a las fracciones I, III a VI, VIII, IX, XI, XIII, XV, XVIII y XIX del artículo 29-D de la citada Ley, según sea el caso, más el 5% de dicha cuota.
+
+Para los efectos de la opción a que se refieren los párrafos anteriores, tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente a 2014 se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+Cuando los contribuyentes ejerzan la opción de pagar los derechos en los términos previstos en esta fracción y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2014, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+V. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere la fracción IV, del artículo 29-D de la Ley Federal de Derechos, que se constituyan durante el ejercicio fiscal de 2014 y tengan por objeto realizar las operaciones a que se refiere el artículo 2, fracción III, inciso b) de las "Disposiciones de carácter general aplicables a las instituciones de crédito" expedidas por la Comisión Nacional Bancaria y de Valores que fueron publicadas en el Diario Oficial de la Federación el 2 de diciembre de 2005 y sus respectivas modificaciones, pagarán la cuota de $2'000,000.00 por concepto de inspección y vigilancia, ajustándose en todo caso, a lo previsto por el artículo 29-G de la Ley Federal de Derechos.
+
+VI. Los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas que paguen el derecho a que se refiere el artículo 29-E, fracción VII, de la Ley Federal de Derechos, dentro de los primeros tres meses del ejercicio fiscal, por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, pagarán únicamente el 70% de la cuota establecida en la fracción XXVI del artículo 29 de dicho ordenamiento.
+
+Cuarto. A partir del 1 de enero de 2014, y para efectos del derecho por el uso o aprovechamiento no extractivo de elementos naturales y escénicos que se realiza dentro de las Áreas Naturales Protegidas terrestres establecido en el artículo 198-A de la Ley Federal de Derechos, se deroga de la fracción I de dicho artículo, el Monumento Natural Yaxchilán.
+
+Quinto. Los contribuyentes que cuenten con certificados de agua salobre expedidos por la Comisión Nacional del Agua con anterioridad a la entrada en vigor del presente Decreto, gozarán del beneficio establecido en el artículo 224 fracción VI, de la Ley Federal de Derechos, hasta que concluya la vigencia de dichos certificados. Asimismo, hasta en tanto la Comisión emita las reglas generales a que se refiere dicha fracción, los contribuyentes podrán obtener el certificado de aguas salobres cuya vigencia concluirá 30 días naturales posteriores a la publicación de las citadas reglas.
+
+Sexto. Para los efectos del artículo 224, fracción VI, de la Ley Federal de Derechos, a partir de 2014 la Comisión Federal de Electricidad, siempre y cuando acredite haber contado con certificado de agua salobre expedido por la Comisión Nacional del Agua y que el volumen que usó dejó de ser salobre como consecuencia de las obras de infraestructura en materia hídrica que el Gobierno Federal realizó para reencausar las aguas a una zona distinta a fin de evitar inundaciones en localidades del país, gozará del beneficio previsto por dicho dispositivo, así como la exención en el pago del derecho a que se refiere el Capítulo XIV del Título II de dicha Ley, únicamente sobre el volumen usado al amparo del título de concesión respecto del cual se emitió el certificado de aguas salobres.
+
+Se condonan los créditos fiscales generados hasta el ejercicio fiscal 2013 por concepto del derecho por uso, explotación o aprovechamiento de aguas nacionales, por los volúmenes concesionados a la Comisión Federal de Electricidad que amparó el certificado de aguas salobres.
+
+Séptimo. Las cuotas establecidas en el artículo 244-D de la Ley Federal de Derechos se encuentran actualizadas al 1 de enero de 2012.
+
+Octavo. Los contribuyentes a que se refiere el artículo 277-B, fracción I, de la Ley Federal de Derechos, aplicarán durante los ejercicios fiscales que a continuación se indican, la cuota prevista en dicha fracción durante los ejercicios fiscales que a continuación se indican y en su caso los factores de acreditamiento contenidos en la fracción III del artículo 278 del mismo ordenamiento cuando opten por acreditar, en los siguientes porcentajes:
+
+Ejercicio fiscal Porcentaje de
+
+aplicación de la cuota
+
+2014 30%
+
+2015 36%
+
+2016 43%
+
+2017 51%
+
+2018 57%
+
+2019 64%
+
+2020 72%
+
+2021 78%
+
+2022 85%
+
+2023 93%
+
+2024 99%
+
+A partir de 2025 100%
+
+Noveno. Se amplía el plazo a que se refiere el párrafo quinto de la fracción IV del transitorio Quinto del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos", publicado en el Diario Oficial de la Federación el 24 de diciembre de 2007, hasta el 31 de diciembre de 2014.
+
+Para tales efectos, aquellos contribuyentes que se encuentran incorporados a los beneficios establecidos en el transitorio Quinto, fracción IV, del Decreto referido en el párrafo anterior y en el artículo 279 de la Ley Federal de Derechos, deberán presentar solicitud de ampliación del plazo de cumplimiento ante la Comisión Nacional del Agua. Dicha Comisión deberá resolver la procedencia de la misma en un término no mayor de 15 días hábiles, contados a partir de la fecha de presentación de la solicitud a que se refiere el presente párrafo.
+
+Los contribuyentes que a la fecha de entrada en vigor del presente artículo, no hayan solicitado su incorporación a los beneficios establecidos en el transitorio Quinto, fracción IV del Decreto referido en el párrafo primero de este numeral y en el artículo 279 de la Ley Federal de Derechos, podrán presentar una solicitud para gozar de dichos beneficios cumpliendo con los requisitos establecidos para tales efectos en las mencionadas disposiciones.
+
+Aquellos contribuyentes a que se refiere el primer párrafo de la fracción IV del transitorio Quinto del Decreto referido en el párrafo primero de este numeral, podrán obtener la condonación de los créditos fiscales a su cargo, determinados o autodeterminados que se hayan causado hasta el ejercicio fiscal de 2007, por concepto del derecho por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, aun cuando no rebasen los límites máximos permisibles establecidos en la Ley Federal de Derechos, para lo cual solicitarán a la Comisión Nacional del Agua autorización para realizar un programa de acciones en materia de saneamiento y tratamiento de aguas residuales, siempre y cuando mejoren la calidad de las aguas residuales, ya sea mediante cambios en los procesos productivos o para el control o tratamiento de las descargas y concluyan dicho programa a más tardar el 31 de diciembre de 2014. Dicha dependencia deberá resolver la procedencia de la autorización en un término no mayor a 15 días hábiles, contados a partir de la fecha de presentación de la solicitud a que se refiere el presente párrafo.
+
+Para los efectos de lo establecido en este numeral, los contribuyentes deberán observar lo establecido en la fracción IV del transitorio Quinto del Decreto referido en el párrafo primero de este numeral y las "Disposiciones para la aplicación de los beneficios establecidos en la Ley Federal de Derechos en materia del derecho por el uso o aprovechamiento de bienes de dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, con motivo de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2007", instrumento que se publicó en el mismo órgano de difusión el 3 de julio de 2008.
+
+La Comisión Nacional del Agua podrá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación de la presente disposición.
+
+Décimo. Para los efectos del artículo 291, en relación con el 3o., cuarto párrafo fracciones I y II, de la Ley Federal de Derechos, el Servicio a la Navegación en el Espacio Aéreo Mexicano no está obligado a llevar a cabo el procedimiento descrito en dichos numerales, respecto de aquellos usuarios que no cuenten con registro federal de contribuyentes, domicilio fiscal y/o representante legal en territorio nacional.
+
+Décimo Primero. Cuando en la Ley Federal de Derechos se haga referencia a los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta que se abroga, se entenderá que se refiere a los artículos 11, 179 y 180 de la Ley del Impuesto sobre la Renta, respectivamente.
+
+Décimo Segundo. Para los efectos de los derechos establecidos en el Capítulo XI, denominado "Espacio Aéreo", Sección Única, "Espectro Radioeléctrico" de esta Ley, en relación con los artículos Décimo Sexto y Décimo Séptimo Transitorios del "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones", publicado en el Diario Oficial de la Federación el 11 de junio de 2013, el Estado, a través del Ejecutivo Federal en coordinación con el Instituto Federal de Telecomunicaciones, una vez que se defina el modelo y uso asociado a las bandas de frecuencias del espectro radioeléctrico de 698 MHz a 806 MHz y de 2500 MHz a 2690 MHz, propondrá al Congreso de la Unión, en un plazo máximo de sesenta días naturales, los derechos por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, para que éste los apruebe en un plazo máximo de ciento veinte días.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
+
+Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
