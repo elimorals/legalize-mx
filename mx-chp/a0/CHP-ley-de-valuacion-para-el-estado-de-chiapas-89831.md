@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-valuacion-para-el-estado-de-chiapas-89831"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-17"
-last_updated: "2012-09-17"
+last_updated: "2013-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE VALUACIÓN PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 17 de septiembre de 2012.
 
@@ -59,7 +59,9 @@ Su aplicación compete al Instituto de la Consejería Jurídica y de Asistencia 
 
 La presente Ley tiene por objeto:
 
-I. Establecer y reglamentar las bases para el ejercicio de las actividades profesionales que realicen los Peritos Valuadores, con relación a los requerimientos del Estado, los municipios y de las personas en particular, a efecto de extender un documento técnico que contenga el estudio para establecer el valor comercial de los bienes muebles e inmuebles en forma fehaciente, confiable y autorizada, para fines administrativos, fiscales y judiciales, quedando comprendidos dichos bienes dentro de las especialidades señaladas en el artículo 18 de la presente Ley.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
+I. Establecer y reglamentar las bases para el ejercicio de las actividades profesionales que realicen los Peritos Valuadores, con relación a los requerimientos del Estado, los municipios y de las personas en particular, a efectos de expedir un documento técnico que contenga el estudio para establecer el valor comercial de los bienes muebles e inmuebles en forma fehaciente, confiable y autorizada, para fines administrativos y judiciales, quedando comprendidos dichos bienes dentro de las especialidades señaladas en el artículo 18 de la presente Ley.
 
 II. Regular, controlar y vigilar el ejercicio de la valuación como una actividad profesional y determinar los requisitos para su ejercicio.
 
@@ -69,7 +71,9 @@ IV. Definir los derechos y obligaciones de los Peritos Valuadores.
 
 V. Establecer la Comisión de Valuación del Estado de Chiapas, en lo sucesivo la Comisión; así como definir las bases para su integración, organización y funcionamiento.
 
-VI. Establecer los lineamientos técnicos y jurídicos mínimos que deberán observar los Peritos Valuadores al emitir avalúos en los que intervengan, los cuales deberán determinar de manera óptima e integral el valor de los bienes objeto de la valuación.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
+VI. Establecer los lineamientos técnicos y jurídicos mínimos que deberán observar los Peritos Valuadores al emitir avalúos en los que intervengan, los cuales deberán determinar de manera óptima e integral el valor comercial de los bienes objeto de la valuación.
 
 VII. Promover la actualización de la actividad valuatoria, así como la capacitación y profesionalización del Perito Valuador.
 
@@ -261,7 +265,9 @@ VII. Proporcionar a la Comisión, la información que se le requiera en los tér
 
 VIII. Proporcionar a la Subconsejería los datos que permitan mantener actualizado el Registro.
 
-IX. Respetar las normas que regulen la actividad valuatoria.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
+IX. Respetar las normas que regulen la actividad valuatoria según su objeto.
 
 X. Llevar un control de los avalúos que emita, formando el archivo correspondiente para cumplir con estricto apego a lo dispuesto por el reglamento de esta Ley.
 
@@ -503,7 +509,9 @@ T r a n s i t o r i o s
 
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- Se derogan las disposiciones jurídicas y administrativas que se opongan a lo previsto por la presente Ley.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
+Artículo Segundo.- Se derogan las disposiciones jurídicas y administrativas que se opongan a lo previsto por la presente Ley, salvo las que se refieran a la valuación fiscal y catastral.
 
 Artículo Tercero.- La Comisión deberá instalarse en un término no mayor a 90 días hábiles contados a partir de la entrada en vigor de la presente Ley; para tal efecto, el Instituto de la Consejería Jurídica y de Asistencia Legal, deberá convocar a los integrantes de la misma, de acuerdo a lo dispuesto en el artículo 27 fracción I de la presente Ley.
 
@@ -516,3 +524,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los diecisiete días del mes de septiembre del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
