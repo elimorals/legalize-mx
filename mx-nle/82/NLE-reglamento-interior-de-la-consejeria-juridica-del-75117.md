@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-consejeria-juridica-del-75117"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-29"
-last_updated: "2010-05-29"
+last_updated: "2013-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR, DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL GOBERNADOR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 29 de mayo de 2010.
 
@@ -59,7 +59,9 @@ IV. REGLAMENTO: Regiamente Interior de la Consejería Jurídica del Gobernador.
 
 V. UNIDADES ADMINISTRATIVAS: La Dirección Jurídica Consultiva, la Dirección de Asuntos Interinstitucionales, la Dirección de Asuntos Legislativos y Normatividad y la Dirección de Asuntos Jurisdiccionales.
 
-VI. UNIDADES DE APOYO: La Coordinación Jurídica, la Coordinación de Transparencia e Información y la Coordinación Operativa.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
+VI. UNIDADES DE APOYO: La Secretaría Particular y la Coordinación Jurídica.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA DE LA CONSEJERIA
 
@@ -75,9 +77,9 @@ b) Coordinación Jurídica.
 
 II. Subconsejería Jurídica
 
-a) Coordinación Operativa, y
+a) (DEROGADO, P.O. 11 DE DICIEMBRE DE 2013)
 
-b) Coordinación de Transparencia e Información.
+b) (DEROGADO, P.O. 11 DE DICIEMBRE DE 2013)
 
 III. Direcciones Jurídicas
 
@@ -95,9 +97,11 @@ Además de las Unidades Administrativas y de Apoyo mencionadas en el artículo a
 
 ### CAPÍTULO III. DEL CONSEJERO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 6°.
 
-El titular de la Consejería será un Consejero, quien tendrá el rango de Secretario en la administración pública estatal y dependerá en forma directa del Gobernador del Estado. Al Consejero le corresponde originalmente la representación de la Consejería, así como el trámite y resolución de los asuntos de la competencia de ésta y el ejercicio de las facultades que las disposiciones legales le asignan.
+A cargo de la Consejería estará un Consejero, quien será su titular y dependerá en forma directa del Gobernador del Estado. Al Consejero le corresponde originalmente la representación de la Consejería, así como el trámite y resolución de los asuntos de la competencia de ésta y el ejercicio de las facultades que las disposiciones legales le asignan.
 
 El Consejero podrá delegar en servidores públicos subalternos aquellas facultades no catalogadas como indelegables, ya sea para asuntos generales o especificas.
 
@@ -201,9 +205,11 @@ VII. Las demás que expresamente le determine su superior y las disposiciones ju
 
 ### CAPÍTULO V. DE LA SUBCONSEJERÍA JURÍDICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 11.
 
-El Subconsejero Jurídico tendrá el rango de Subsecretario en la Administración Pública del Estado, y contara con las siguientes facultades:
+A cargo de la Subconsejería Jurídica habrá un Subconsejero, quien contará con las siguientes facultades:
 
 I. Apoyar al Consejero en el despacho de los asuntos encomendados directamente por el Gobernador del Estado;
 
@@ -221,27 +227,13 @@ VII. Las demás que expresamente le determine el Consejero y las disposiciones j
 
 ###### Artículo 12.
 
-Para el mejor desempeño de las funciones propias del Subconsejero, éste se auxiliará de un Coordinador Operativo.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2013)
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13.
 
-La Subconsejería contara con una Coordinación de Transparencia e Información, cuyo titular tendrá las siguientes facultades:
-
-I. Atender oportunamente las solicitudes de información en poder de la Consejería, que se formulen de conformidad con la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
-
-II. Preparar los acuerdos de reserva que procedan en términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
-
-III. Cuidar el debido cumplimiento de las obligaciones institucionales derivadas de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
-
-IV. Coadyuvar en la presentación de informes, defensa en caso de inconformidades, impugnaciones y cualquier intervención relativa a la representación del Gobernador del Estado ante la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, en todos los procedimientos en que el Titular del Ejecutivo del Estado deba participar conforme a la ley de esa materia;
-
-V. Asistir en representación de la Consejería a las juntas del Comité Ejecutivo para la Transparencia y el Acceso a la Información Pública del Estado de Nuevo León;
-
-VI. Elaborar registros y estadísticas de los asuntos a su cargo;
-
-VII. Fungir como enlace de Transparencia y de Información de la Consejería, en los términos de la ley de la materia, y
-
-VIII. Las demás que le determinen su superior y las disposiciones jurídicas aplicables.
+Las funciones y obligaciones relativas a la transparencia y acceso a la información, así como a la protección de datos personales, establecidas en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León o en otros ordenamientos legales aplicables que correspondan a la Consejería, se realizarán por el servidor público adscrito a la Consejería que para tal efecto determine el Consejero.
 
 ### CAPÍTULO VI. DISPOSICIONES COMUNES DE LAS UNIDADES ADMINISTRATIVAS Y DE LAS UNIDADES DE APOYO
 
@@ -343,9 +335,11 @@ VI. Las demás que le determinen expresamente su superior y las disposiciones ju
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 19.
 
-En los casos de ausencia temporal, el Consejero será suplido por el Subconsejero o por el servidor público que determine el Titular del Ejecutivo.
+El Consejero, en sus ausencias temporales menores de quince días será suplido por el Subconsejero o por el servidor público que el propio Consejero designe. Cuando la ausencia sea mayor o definitiva, el Gobernador del Estado podrá designar a un encargado del despacho de la dependencia hasta en tanto designe al titular.
 
 ###### Artículo 20.
 
@@ -374,3 +368,9 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. CONSEJERO JURÍDICO DEL GOBERNADOR
 
 HUGO ALEJANDRO CAMPOS CANTÚ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
