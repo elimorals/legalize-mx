@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2011-12-12"
+last_updated: "2013-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LIEPS"
 ---
 # LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 13/2014 POR EL QUE SE ACTUALIZAN LAS CUOTAS DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS APLICABLES A LOS COMBUSTIBLES FÓSILES, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014. VÉASE ARCHIVO ANEXO]</small>
+
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -38,7 +40,7 @@ DECRETO:
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-> <small>(DEROGADA SU DENOMINACION, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ## TÍTULO I
 
@@ -50,7 +52,11 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 Están obligadas al pago del impuesto establecido en esta Ley, las personas físicas y las morales que realicen los actos o actividades siguientes:
 
-I. La enajenación en territorio nacional o, en su caso, la importación, definitiva, de los bienes señalados en esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I. La enajenación en territorio nacional o, en su caso, la importación de los bienes señalados en esta Ley. Para efectos de la presente Ley se considera importación la introducción al país de bienes.
 
 II. La prestación de los servicios señalados en esta Ley.
 
@@ -64,9 +70,11 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 13/2014 POR EL QUE SE ACTUALIZAN LAS CUOTAS DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS APLICABLES A LOS COMBUSTIBLES FÓSILES, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2014. VÉASE ARCHIVO ANEXO]</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 2o.
 
@@ -78,17 +86,21 @@ I. En la enajenación o, en su caso, en la importación de los siguientes bienes
 
 A) Bebidas con contenido alcohólico y cerveza:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+(N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 
-1. Con una graduación alcohólica de hasta 14°G.L. 25%
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+1. Con una graduación alcohólica de hasta 14° G.L. 26.5%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 2. Con una graduación alcohólica de más de 14° y hasta 20°G.L. 30%
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-3. Con una graduación alcohólica de más de 20°G.L. 50%
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+3. Con una graduación alcohólica de más de 20°G.L 53%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -108,93 +120,173 @@ C) Tabacos labrados:
 
 3. Puros y otros tabacos labrados hechos enteramente a mano. 30.4%
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
 Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $0.35 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Tratándose de los tabacos labrados no considerados en el párrafo anterior se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados.
+Tratándose de los tabacos labrados no considerados en el párrafo anterior, con excepción de puros y otros tabacos labrados hechos enteramente a mano, se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados.
 
 D) Gasolinas: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
 E) Diesel: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
 F) Bebidas energetizantes, así como concentrados, polvos y jarabes para preparar bebidas energetizantes 25%
 
-G) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-H) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+G) Bebidas saborizadas; concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas; y jarabes o concentrados para preparar bebidas saborizadas que se expendan en envases abiertos utilizando aparatos automáticos, eléctricos o mecánicos, siempre que los bienes a que se refiere este inciso contengan cualquier tipo de azúcares añadidos.
+
+La cuota aplicable será de $1.00 por litro. Tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas que, de conformidad con las especificaciones del fabricante, se puedan obtener.
+
+Lo dispuesto en este inciso también será aplicable a los bienes mencionados en el inciso F) de esta fracción, cuando contengan azúcares añadidos, en adición al impuesto establecido en dicho inciso F).
+
+La cuota a que se refiere este inciso se actualizará conforme a lo dispuesto por el sexto y séptimo párrafos del artículo 17-A del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+H) Combustibles Fósiles Cuota Unidad de medida
+
+(VÉASE ARCHIVO ANEXO)
+
+Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción que corresponda a dichas fracciones respecto de la unidad de medida de que se trate.
+
+Cuando los bienes a que se refiere este inciso estén mezclados, la cuota se calculará conforme a la cantidad que en la mezcla tenga cada combustible.
+
+Las cantidades señaladas en el presente inciso, se actualizarán anualmente y entrarán en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+I) Plaguicidas. La tasa se aplicará conforme a la categoría de peligro de toxicidad aguda, en la forma siguiente:
+
+1. Categorías 1 y 2 9%
+
+2. Categoría 3 7%
+
+3. Categoría 4 6%
+
+La categoría de peligro de toxicidad aguda se determinará conforme a la siguiente tabla:
+
+Tabla 1. Categorías de peligro de toxicidad aguda
+
+(VÉASE ARCHIVO ANEXO)
+
+La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM-232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+J) Alimentos no básicos que se listan a continuación, con una densidad calórica de 275 kilocalorías o mayor por cada 100 gramos 8%
+
+1. Botanas.
+
+2. Productos de confitería.
+
+3. Chocolate y demás productos derivados del cacao.
+
+4. Flanes y pudines.
+
+5. Dulces de frutas y hortalizas.
+
+6. Cremas de cacahuate y avellanas.
+
+7. Dulces de leche.
+
+8. Alimentos preparados a base de cereales.
+
+9. Helados, nieves y paletas de hielo.
+
+Cuando los alimentos mencionados cumplan con las disposiciones relativas a las especificaciones generales de etiquetado para alimentos, los contribuyentes podrán tomar en consideración las kilocalorías manifestadas en la etiqueta. Tratándose de alimentos que no tengan la etiqueta mencionada, se presumirá, salvo prueba en contrario, que tienen una densidad calórica igual o superior a 275 kilocalorías por cada 100 gramos.
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, dará a conocer los alimentos de consumo básico, considerando su importancia en la alimentación de la población, que no quedan comprendidos en este inciso.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 II. En la prestación de los siguientes servicios:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B), C) y F) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la misma.
+A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B), C), F), I) y J) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la propia Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 30%
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 C) Los que se proporcionen en territorio nacional a través de una o más redes públicas de telecomunicaciones. 3%
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 2o.-A.
 
 Las personas que enajenen gasolina o diesel en territorio nacional estarán sujetas a las tasas y cuotas siguientes:
 
-I. La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos y sus organismos subsidiarios conforme a lo siguiente:
+I. La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada Terminal de Almacenamiento y Reparto de Petróleos Mexicanos conforme a lo siguiente:
 
-a) El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con el inciso f) de esta fracción, se adicionará con el costo de manejo y el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
+a) Precio productor: Se determinará para las gasolinas y el diesel de uso automotriz, industrial de bajo azufre y en vehículos marinos, adicionando al precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con el inciso f) de esta fracción, así como el costo de manejo y el costo neto de transporte a la Terminal de Almacenamiento y Reparto de que se trate en el periodo señalado en el inciso f) de esta fracción, sin incluir el impuesto al valor agregado.
 
-b) Se multiplicará por el factor de 1.0 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el monto que se obtenga de adicionar al margen comercial que haya fijado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que se trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
+b) Costo de distribución y comercialización: Para los combustibles señalados en el inciso a) y para el periodo señalado en el inciso f) de esta fracción, se determinará para cada Terminal de Almacenamiento y Reparto, adicionando al margen comercial que haya fijado Petróleos Mexicanos para los expendios autorizados por el combustible de que se trate, en su caso, los costos netos de transporte del combustible de la Terminal de Almacenamiento y Reparto que corresponda al establecimiento del expendedor, ya sea realizado por Petróleos Mexicanos o por un tercero con el que el organismo tenga celebrado un contrato de Venta de Primera Mano y que cumpla la realización del transporte en los términos de la normatividad correspondiente. El monto obtenido se dividirá entre el volumen total facturado del combustible de que se trate.
 
-c) Se multiplicará por el factor de 0.9091 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 10%.
+Únicamente para las gasolinas, se considerará dentro del costo unitario de distribución y comercialización, el monto por concepto de mermas, que se determinará multiplicando el factor de 0.003375 por el valor total de las enajenaciones de gasolinas a las estaciones de servicio sin considerar lo señalado en la fracción II de este artículo, así como las señaladas en el inciso H) de la fracción I, del artículo 2o. de esta Ley, ni tampoco el impuesto al valor agregado, dividido por el volumen total del combustible en el periodo señalado en el inciso f) de esta fracción.
 
-Se multiplicará por el factor de 0.8696 para las gasolinas y el diesel para uso automotriz, para uso industrial de alto y bajo azufre y para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 15%.
+c) Precio neto de venta en la Terminal de Almacenamiento y Reparto: Se determinará, cuando se lleve a cabo la enajenación, descontando al precio de venta al público del combustible de que se trate, vigente en la zona geográfica correspondiente en el periodo citado, en el inciso f) de esta fracción, los montos de las cuotas señaladas en la fracción II de este artículo, multiplicado por el factor, redondeado a cuatro decimales, que resulte de la siguiente fórmula:
 
-d) El monto que resulte conforme al inciso c) anterior se disminuirá con las cantidades obtenidas conforme a los incisos a) y b) de esta fracción.
+1
 
-e) La cantidad determinada conforme al inciso d) anterior se dividirá entre el monto que se obtuvo conforme al inciso a) de esta fracción y el resultado se multiplicará por 100. El porcentaje que se obtenga será la tasa aplicable al combustible de que se trate que enajene la agencia correspondiente durante el mes por el que se calcula la tasa.
+_____
 
-f) El precio de referencia para cada uno de los combustibles a que se refiere el inciso a) de esta fracción, será el promedio de las cotizaciones del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcula la tasa, convertidas a pesos con el promedio del tipo de cambio de venta del dólar de los Estados Unidos de América que publica el Banco de México en el Diario Oficial de la Federación, como sigue:
+1+T
 
-1. Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
+Donde T corresponde a la tasa del impuesto al valor agregado, expresado en decimales de conformidad con lo señalado en la Ley del Impuesto al Valor Agregado.
 
-2. Diesel para uso automotriz de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34° API, vigente en la Costa del Golfo de los Estados Unidos de América.
+Al monto que resulte se le restarán las cuotas señaladas en el inciso H) de la fracción I del artículo 2o. de esta Ley, de acuerdo al combustible de que se trate.
 
-3. Diesel para uso automotriz y diesel para uso industrial de bajo azufre: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+d) El monto que resulte conforme al inciso c) anterior, se disminuirá con las cantidades obtenidas conforme a los incisos a) y b) de esta fracción.
 
-4. Diesel para uso industrial de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34° API, vigente en la Costa del Golfo de los Estados Unidos de América.
+e) La cantidad determinada conforme al inciso d) anterior, se dividirá entre el monto que se obtuvo conforme al inciso a) de esta fracción y el resultado se multiplicará por 100. El porcentaje que se obtenga será la tasa aplicable al combustible de que se trate que enajene la Terminal de Almacenamiento y Reparto correspondiente, durante el mes por el que se calcula la tasa.
 
-5. Diesel para uso en vehículos marinos en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34° API, vigente en Houston, Texas, de los Estados Unidos de América.
+f) El precio de referencia para cada uno de los combustibles a que se refiere el inciso a) de esta fracción, será el promedio de las cotizaciones disponibles del día 21 del segundo mes anterior al día 20 del mes inmediato anterior a aquél por el que se calcula la tasa, convertidas a pesos con el promedio del tipo de cambio de venta del dólar de los Estados Unidos de América que publica el Banco de México en el Diario Oficial de la Federación, para el mismo periodo, como sigue:
 
-6. Diesel para uso en vehículos marinos de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Ángeles, California, de los Estados Unidos de América.
+1. Gasolinas: el promedio del precio spot de la gasolina de calidad equivalente, vigente en la Costa del Golfo de los Estados Unidos de América, a la gasolina que se enajene en territorio nacional.
 
-La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, el margen comercial y el costo de manejo a los expendios autorizados a que se refiere esta fracción. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
+2. Diesel para uso automotriz y diesel para uso industrial de bajo azufre: el promedio del precio spot (fuel oil) del diesel de calidad equivalente, vigente en la Costa del Golfo de los Estados Unidos de América, al diesel que se enajene en territorio nacional.
 
-> <small>N. DE E. CONFORME A LO PREVISTO EN LA DISPOSICIÓN TRANSITORIA, ARTÍCULO SEXTO, FRACCIÓN III, DEL DECRETO DEL D.O.F. 12 DE DICIEMBRE DE 2011, A PARTIR DEL 1 DE ENERO DE 2015, LAS CUOTAS PREVISTAS EN ESTE ARTÍCULO DISMINUIRÁN EN UNA PROPORCIÓN DE 9/11 PARA QUEDAR EN 2/11.</small>
+3. Diesel para uso en vehículos marinos: el promedio del precio spot (fuel oil) del diesel de calidad equivalente, vigente en Houston, Texas, de los Estados Unidos de América, al diesel que se enajene en territorio nacional en la Costa del Golfo de México; y el promedio del precio spot (fuel oil) del diesel de calidad equivalente, vigente en Los Ángeles, California, de los Estados Unidos de América, al diesel que se enajene en territorio nacional en la Costa del Pacífico.
 
-II. Sin perjuicio de lo previsto en la fracción anterior, se aplicarán las cuotas siguientes a la venta final al público en general en territorio nacional de gasolinas y diesel:
+Para la determinación de los montos señalados en los incisos a), b) y c), los volúmenes se expresarán en metros cúbicos.
+
+La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general basadas en criterios de eficiencia económica y saneamiento financiero, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, el margen comercial y el costo de manejo a los expendios autorizados a que se refiere esta fracción.
+
+La Secretaría de Hacienda y Crédito Público, requerirá a Petróleos Mexicanos la información necesaria para realizar mensualmente las operaciones aritméticas para calcular las tasas aplicables en el mes de que se trate para cada combustible y en cada agencia de ventas, Terminal de Almacenamiento y Reparto de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación, a más tardar el último día del mes anterior, al mes en que aplicarán las tasas.
+
+Se continuarán aplicando las tasas publicadas en el mes inmediato anterior hasta en tanto se haga la publicación a que se refiere el párrafo anterior.
+
+II. Sin perjuicio de lo previsto en la fracción anterior, y en lo dispuesto en el artículo 2o., fracción I, inciso H), se aplicarán las cuotas siguientes:
 
 a) Gasolina Magna 36 centavos por litro.
 
@@ -202,21 +294,23 @@ b) Gasolina Premium UBA 43.92 centavos por litro.
 
 c) Diesel 29.88 centavos por litro.
 
-Petróleos Mexicanos y sus organismos subsidiarios, las estaciones de servicio y demás distribuidores autorizados, que realicen la venta de los combustibles al público en general, trasladarán un monto equivalente al impuesto establecido en esta fracción, pero en ningún caso lo harán en forma expresa y por separado. El traslado del impuesto a quien adquiera gasolina o diesel se deberá incluir en el precio correspondiente.
+Los contribuyentes trasladarán en el precio, a quien adquiera gasolinas o diesel, un monto equivalente al impuesto establecido en esta fracción, pero en ningún caso lo harán en forma expresa y por separado.
 
 Las cuotas a que se refiere este artículo no computarán para el cálculo del impuesto al valor agregado.
 
-Para los efectos anteriores, se considerarán estaciones de servicio todos aquellos establecimientos en que se realice la venta al público en general de gasolina y diesel.
-
-La aplicación de las cuotas a que se refiere esta fracción se suspenderá parcialmente en el territorio de aquellas entidades federativas que en ejercicio de la facultad prevista en el artículo 10-C de la Ley de Coordinación Fiscal establezcan impuestos locales a la venta final de gasolina y diesel. Dicha suspensión se llevará a cabo en la misma proporción que la tasa del impuesto local, por lo que el remanente seguirá aplicando como impuesto federal. La Secretaría de Hacienda y Crédito Público hará la declaratoria de la suspensión del impuesto mencionado, la cual se publicará en el periódico oficial de la entidad federativa de que se trate y en el Diario Oficial de la Federación.
-
 Los recursos que se recauden en términos de esta fracción, se destinarán a las entidades federativas, municipios y demarcaciones territoriales, conforme a lo establecido en la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+Para los efectos de lo dispuesto en esta fracción, en sustitución de las declaraciones informativas a que se refiere esta Ley, los contribuyentes presentarán a más tardar el último día hábil de cada mes la información correspondiente a los litros de las gasolinas y diesel enajenados por los que se haya causado el impuesto por cada expendio autorizado en cada una de las entidades federativas durante el mes inmediato anterior; tratándose de enajenaciones a distribuidores de gasolinas y diesel, la información se presentará de acuerdo a la entidad federativa en la que se ubique el punto de entrega convenido con cada distribuidor.
+
+La Secretaría de Hacienda y Crédito Público hará la distribución que corresponda a las entidades federativas durante los primeros diez días hábiles del mes inmediato posterior al mes en que los contribuyentes hayan realizado el pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 2o.-B.
 
-La tasa aplicable para la importación de gasolinas o diesel será la menor de las que resulten para la enajenación del combustible de que se trate en los términos del artículo 2o-A, fracción I de esta Ley, vigente en el mes en que se realice la importación.
+La tasa aplicable para la importación de gasolinas o diesel será la mayor de las tasas que resulte para la enajenación del combustible de que se trate en los términos del artículo 2o.-A, fracción I de esta Ley, vigente en el mes en que se realice la importación; en caso de que la tasa resultante sea negativa, la tasa aplicable será cero.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
@@ -270,9 +364,17 @@ b) Puros, los tabacos labrados confeccionados y enrollados al 100% con hojas de 
 
 c) Otros tabacos labrados, los que no están comprendidos en los incisos anteriores. Se consideran tabacos labrados, entre otros, a los tabacos cernidos, picados, de hebra, de mascar, así como al rapé.
 
-IX. Gasolina, combustible líquido y transparente obtenido como producto purificado de la destilación o de la desintegración de petróleo crudo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Diesel, combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IX. Gasolina, combustible líquido e incoloro sin plomo, que se obtiene del proceso de refinación del petróleo crudo al fraccionarse típicamente a temperaturas entre los 30° y los 225° Celsius (en destilación fraccionada), formado por una mezcla de hidrocarburos alifáticos volátiles, principalmente parafinas ramificadas, aromáticos, naftenos y olefinas, y que cumple con especificaciones para ser usado en motores de combustión interna mediante ignición por una chispa eléctrica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+X. Diesel, combustible líquido e incoloro, compuesto por una mezcla compleja de hidrocarburos, principalmente parafinas no ramificadas, pudiendo contener aditivos, y que cumple con especificaciones para ser usado principalmente como combustible en calefacción y en motores de combustión interna por inyección y cuyo encendido se logra por la temperatura elevada que produce la compresión del aire y combustible en el interior del cilindro que no necesita bujías, para uso: marino, automotriz, así como industrial (flama abierta) y cuya eficiencia se mide en número de cetano.
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
@@ -298,25 +400,25 @@ En las permutas y pagos en especie, el impuesto especial sobre producción y ser
 
 XIII. Mieles incristalizables, el producto residual de la fabricación de azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentables expresados en glucosa no excedan del 61%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 XIV. Red pública de telecomunicaciones, la red de telecomunicaciones a través de la cual se explotan comercialmente servicios de telecomunicaciones. La red no comprende los equipos terminales de telecomunicaciones de los usuarios ni las redes de telecomunicaciones que se encuentren más allá del punto de conexión terminal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 XV. Red de telecomunicaciones, el sistema integrado por medios de transmisión, tales como canales o circuitos que utilicen bandas de frecuencias del espectro radioeléctrico, enlaces satelitales, cableados, redes de transmisión eléctrica o cualquier otro medio de transmisión, así como, en su caso, centrales, dispositivos de conmutación o cualquier equipo necesario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 XVI. Equipo terminal de telecomunicaciones, comprende todo el equipo de telecomunicaciones de los usuarios que se conecte más allá del punto de conexión terminal de una red pública con el propósito de tener acceso a uno o más servicios de telecomunicaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -324,31 +426,171 @@ XVII. Bebidas energetizantes, las bebidas no alcohólicas adicionadas con la mez
 
 Se consideran concentrados, polvos y jarabes para preparar bebidas energetizantes, aquéllos que por dilución permiten obtener bebidas energetizantes con las características señaladas en el párrafo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares y que pueden incluir ingredientes adicionales tales como saborizantes, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas, a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXI. Suero oral, la preparación en agua que exclusivamente contenga todas y cada una de las siguientes substancias: glucosa anhidra, cloruro de potasio, cloruro de sodio y citrato trisódico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXII. Combustibles fósiles:
+
+a) Gas Natural, hidrocarburo que se presenta como una mezcla de gases, constituida principalmente por metano, pero que comúnmente puede contener otros alcanos y otros gases como nitrógeno, ácido sulfhídrico, helio y mercaptanos.
+
+b) Propano, gas incoloro e inodoro, perteneciente a los hidrocarburos alifáticos con enlaces simples de tres carbonos.
+
+c) Butano, también conocido como n-butano, hidrocarburo saturado, parafínico o alifático, inflamable que se presenta comúnmente en estado gaseoso, incoloro e inodoro, compuesto por cuatro átomos de carbono y por diez de hidrógeno.
+
+d) Gasolina, combustible líquido e incoloro sin plomo, que se obtiene del proceso de refinación del petróleo crudo al fraccionarse típicamente a temperaturas entre los 30° y los 225° Celsius (en destilación fraccionada), formado por una mezcla de hidrocarburos alifáticos volátiles, principalmente parafinas ramificadas, aromáticos, naftenos y olefinas, y que cumple con especificaciones para ser usado en motores de combustión interna mediante ignición por una chispa eléctrica.
+
+e) Gasavión, alquilado o gasolina de alto octanaje, de alta volatilidad y estabilidad y de un bajo punto de congelación, con contenido de tetraetilo de plomo utilizado en aeronaves equipadas con motores de combustión interna.
+
+f) Turbosina y kerosenos, combustibles líquidos e incoloros insolubles en agua, que se obtienen del proceso de refinación del petróleo crudo al fraccionarse típicamente a temperaturas entre los 157° y los 233° Celsius, utilizados principalmente como combustibles para aviones de retropropulsión, en los motores a reacción y de turbina de gas.
+
+g) Diesel, combustible líquido e incoloro, compuesto por una mezcla compleja de hidrocarburos, principalmente parafinas no ramificadas, pudiendo contener aditivos, y que cumple con especificaciones para ser usado principalmente como combustible en calefacción y en motores de combustión interna por inyección y cuyo encendido se logra por la temperatura elevada que produce la compresión del aire y combustible en el interior del cilindro que no necesita bujías, para uso: marino, automotriz, así como industrial (flama abierta) y cuya eficiencia se mide en número de cetano.
+
+h) Combustóleo, también llamado fuel oil, combustible más pesado de los que se puede destilar a presión atmosférica, es una fracción del petróleo que se obtiene como residuo de la destilación fraccionada a temperaturas típicamente por encima de los 426° Celsius, está compuesto por moléculas con más de 20 átomos de carbono, y su color es negro, se usa como combustible para plantas de energía eléctrica, calderas y hornos.
+
+i) Coque de Petróleo, combustible sólido carbonoso formado por la coquización del petróleo crudo procesado en refinerías o en procesos de craqueo.
+
+j) Coque de Carbón, combustible sólido carbonoso formado por la destilación de carbón bituminoso calentado a temperaturas de 500° a 1,100° Celsius sin contacto con el aire.
+
+k) Carbón Mineral, roca sedimentaria utilizada como combustible sólido, compuesto principalmente por carbono y otros elementos en cantidades variables como hidrógeno, azufre, oxígeno y nitrógeno.
+
+l) Otros combustibles fósiles, cualquier otro derivado del petróleo, carbón mineral o gas natural que se destinen a un proceso de combustión y que no estén listados en los incisos anteriores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Plaguicida, cualquier substancia o mezcla de substancias que se destina a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las substancias defoliantes y las desecantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXIV. Bonos de carbono, son un instrumento económico contemplado en el Protocolo de Kioto y avalados por la Organización de las Naciones Unidas dentro de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y cada bono de carbono equivale a una tonelada de bióxido de carbono equivalente (ton CO2 eq.), que ha sido dejada de emitir a la atmósfera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXV. Densidad calórica, a la cantidad de energía, expresada en kilocalorías por cada 100 gramos de alimento, que se obtiene al multiplicar las kilocalorías que contiene el alimento por cien y el resultado dividirlo entre los gramos de la porción de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Botanas, los productos elaborados a base de harinas, semillas, tubérculos, cereales, granos y frutas sanos y limpios que pueden estar fritos, horneados y explotados o tostados y adicionados de sal, otros ingredientes y aditivos para alimentos, así como las semillas para botanas, que son la parte del fruto comestible de las plantas o árboles, limpia, sana, con o sin cáscara o cutícula, frita, tostada u horneada, adicionada o no de otros ingredientes o aditivos para alimentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Productos de confitería, los dulces y confites. Quedan comprendidos los caramelos, el dulce imitación de mazapán, gelatina o grenetina, gelatina preparada o jaletina, malvavisco, mazapán, peladilla, turrón, entre otros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Chocolate, al producto obtenido por la mezcla homogénea de cantidades variables de pasta de cacao, o manteca de cacao, o cocoa con azúcares u otros edulcorantes, ingredientes opcionales y aditivos para alimentos, cualquiera que sea su presentación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXIX. Derivados del cacao, la manteca de cacao, pasta o licor de cacao, torta de cacao, entre otros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXX. Flan, dulce que se hace con yemas de huevo, leche y azúcar, y se cuaja a baño María, dentro de un molde generalmente bañado de azúcar tostada. Suele llevar también harina, y con frecuencia se le añade algún otro ingrediente, como café, naranja, vainilla, entre otros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXXI. Pudin, dulce que se prepara con bizcocho o pan deshecho en leche y con azúcar y frutas secas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXXII. Dulces de frutas y de hortalizas, a los productos tales como ates, jaleas o mermeladas, obtenidos por la cocción de pulpas o jugos de frutas u hortalizas con edulcorantes, adicionados o no de aditivos para alimentos. Comprende las frutas y hortalizas cristalizadas o congeladas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXXIII. Crema de cacahuate o avellanas, la pasta elaborada de cacahuates o avellanas, tostados y molidos, generalmente salada o endulzada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXXIV. Dulces de leche, comprende, entre otros, la cajeta, el jamoncillo y natillas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXXV. Alimentos preparados a base de cereales, comprende todo tipo de alimento preparado a base de cereales, ya sea en hojuelas, aglomerados o anillos de cereal, pudiendo o no estar añadidos con frutas o saborizantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXXVI. Helados, al alimento elaborado mediante la congelación, con agitación de una mezcla pasteurizada compuesta por una combinación de ingredientes lácteos, que puede contener grasas vegetales permitidas, frutas, huevo, sus derivados y aditivos para alimentos.
+
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 4o.
 
 Los contribuyentes a que se refiere esta Ley, pagarán el impuesto a su cargo, sin que proceda acreditamiento alguno contra dicho pago, salvo en los supuestos a que se refiere el siguiente párrafo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Únicamente procederá el acreditamiento del impuesto trasladado al contribuyente por la adquisición de los bienes a que se refieren los incisos A) y F) de la fracción I del artículo 2o. de esta Ley, así como el pagado por el propio contribuyente en la importación de los bienes a que se refieren los incisos A), C), D), E) y F) de dicha fracción, siempre que sea acreditable en los términos de la citada Ley.
+Únicamente procederá el acreditamiento del impuesto trasladado al contribuyente por la adquisición de los bienes a que se refieren los incisos A), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, así como el pagado por el propio contribuyente en la importación de los bienes a que se refieren los incisos A), C), D), E), F), G), H), I) y J) de dicha fracción, siempre que sea acreditable en los términos de la citada Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refiere la fracción I, incisos A) y F) del artículo 2o. de la misma, o de la que resulte de aplicar las cuotas a que se refieren los artículos 2o., fracción I, inciso C), segundo y tercer párrafos y 2o.-C de esta Ley. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el segundo párrafo de este artículo, en el mes al que corresponda.
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refiere la fracción I, incisos A), F), I) y J) del artículo 2o. de la misma, o de la que resulte de aplicar las cuotas a que se refieren los artículos 2o., fracción I, incisos C), segundo y tercer párrafos, G) y H) y 2o.-C de esta Ley. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el segundo párrafo de este artículo, en el mes al que corresponda.
 
 Para que sea acreditable el impuesto especial sobre producción y servicios en términos de los párrafos que anteceden, deberán reunirse los siguientes requisitos:
 
 I. Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, en los términos de esta Ley y que corresponda a bienes o servicios por los que se deba pagar el impuesto.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Que los bienes se enajenen sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+II. Que los bienes se enajenen sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados, así como de concentrados, polvos, jarabes, esencias o extractos de sabores, que sean utilizados para preparar bebidas saborizadas.
 
 III. Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en los comprobantes a que se refiere la fracción II del artículo 19 de esta Ley.
 
@@ -382,11 +624,11 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley; el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley. Tratándose de la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota que corresponda a los cigarros enajenados en el mes, o la que se obtenga de aplicar esa cuota al resultado de dividir el peso total de los otros tabacos labrados enajenados en el mes, entre 0.75, disminuidas dichas cantidades, en su caso, con el impuesto pagado en el mismo mes al aplicar la cuota correspondiente con motivo de la importación de los cigarros u otros tabacos labrados, en los términos del segundo párrafo del artículo 4o. de esta Ley.
+El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley; el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley. Tratándose de la cuota a que se refieren los párrafos segundo y tercero del inciso C), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota que corresponda a los cigarros enajenados en el mes, o la que se obtenga de aplicar esa cuota al resultado de dividir el peso total de los otros tabacos labrados enajenados en el mes, entre 0.75, disminuidas dichas cantidades, en su caso, con el impuesto pagado en el mismo mes al aplicar la cuota correspondiente con motivo de la importación de los cigarros u otros tabacos labrados, en los términos del segundo párrafo del artículo 4o. de esta Ley. En el caso de la cuota a que se refiere el inciso G), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota a los litros de bebidas saborizadas enajenadas en el mes o al total de litros que se puedan obtener por los concentrados, polvos, jarabes, esencias o extractos de sabores enajenados en el mes, según corresponda, disminuida con el impuesto pagado en el mismo mes con motivo de la importación de dichos bienes o el trasladado en la adquisición de los bienes citados. Tratándose de los bienes a que se refiere el inciso H), de la fracción I, del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar las cuotas que correspondan a las unidades de medida de dichos bienes, enajenados en el mes, disminuida con el impuesto pagado en el mismo mes al aplicar las cuotas correspondientes con motivo de la importación de esos bienes, en términos del segundo párrafo del artículo 4o. de esta Ley. Tratándose de los bienes a que se refiere la fracción II, del artículo 2o.-A de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar las cuotas que correspondan a los litros de combustible enajenados.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
@@ -398,13 +640,19 @@ Cuando el contribuyente no compense el saldo a favor contra el impuesto que le c
 
 Las disposiciones que establece el Código Fiscal de la Federación en materia de devolución de saldos a favor y de compensación, se aplicarán en lo que no se oponga a lo previsto en el presente artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Tratándose del impuesto a que se refiere el inciso H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes podrán optar por pagar el impuesto mediante la entrega de los bonos de carbono a que se refiere la fracción XXIV del artículo 3o. del mismo ordenamiento, cuando sean procedentes de proyectos desarrollados en México y avalados por la Organización de las Naciones Unidas dentro de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. El valor de dichos bonos será el que corresponda a su valor de mercado en el momento en que se pague el impuesto. La entrega de dichos bonos y la determinación de su valor se realizará de conformidad con las reglas de carácter general que al efecto expida la Secretaría de Hacienda y Crédito Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 5o.-A.
 
-Los fabricantes, productores, envasadores o importadores, que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refieren los incisos A), B), C) y F) de la fracción I del artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos correspondan y enterarlo mediante declaración que presentarán ante las oficinas autorizadas, de conformidad con lo dispuesto en el primer párrafo del artículo 5o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
+Los fabricantes, productores, envasadores o importadores, que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refieren los incisos A), B), C), F), I) y J) de la fracción I, del artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos correspondan y enterarlo mediante declaración que presentarán ante las oficinas autorizadas, de conformidad con lo dispuesto en el primer párrafo del artículo 5o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
 Los contribuyentes que únicamente realicen las actividades a que se refiere el párrafo anterior y que por dichas actividades les sea retenido el impuesto sobre las contraprestaciones que les correspondan en los términos del citado párrafo, no tendrán obligación de presentar declaraciones de pago mensual.
 
@@ -426,13 +674,35 @@ Las personas que realicen las actividades a que se refiere el artículo 2o., fra
 
 Los contribuyentes también podrán disminuir del impuesto correspondiente a las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en el mes de que se trate, el monto del pago efectivamente realizado por concepto de los impuestos que las entidades federativas tengan establecidos sobre los juegos con apuestas y sorteos, sin que en ningún caso esta disminución exceda de la quinta parte del impuesto que establece esta Ley a dichas actividades. La disminución prevista en este párrafo se podrá realizar en la declaración de pago siguiente al mes en que se haya efectuado el entero de los impuestos establecidos por las entidades federativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 5o.-C.
 
 Para los efectos de esta Ley, se considera que se cobran efectivamente las contraprestaciones correspondientes a los actos o actividades gravadas, cuando se realicen los supuestos que para tal efecto se establecen en la Ley del Impuesto al Valor Agregado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 5o.-D.
+
+Los contribuyentes que ejerzan la opción a que se refiere el artículo 111 de la Ley del Impuesto sobre la Renta, durante el periodo que permanezcan en el régimen previsto en dicho artículo, en lugar de calcular y pagar mensualmente el impuesto especial sobre producción y servicios, conforme lo establece el artículo 5o. de esta Ley, deberán calcularlo en forma bimestral por los periodos comprendidos de enero y febrero; marzo y abril; mayo y junio; julio y agosto; septiembre y octubre; y, noviembre y diciembre de cada año y pagarlo a más tardar el día 17 del mes siguiente al bimestre que corresponda el pago, mediante declaración que presentarán a través de los sistemas que disponga el Servicio de Administración Tributaria en su página de Internet, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos bimestrales tendrán el carácter de definitivos.
+
+El pago bimestral será la diferencia entre el impuesto que corresponda al total de las actividades causadas en el bimestre por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades correspondientes al mismo periodo por las que proceda el acreditamiento determinadas en los términos de esta Ley.
+
+Los contribuyentes a que se refiere el presente artículo que, en su caso, efectúen la retención a que se refiere el artículo 5o.-A de esta Ley, en lugar de enterar el impuesto retenido mensualmente mediante la declaración a que se refiere el primer párrafo de dicho artículo, lo enterarán por los bimestres a que se refiere el primer párrafo de este artículo, conjuntamente con la declaración de pago prevista en el mismo o, en su defecto, a más tardar el día 17 del mes siguiente al bimestre que corresponda.
+
+Tratándose de contribuyentes que inicien actividades, en la declaración correspondiente al primer bimestre que presenten, deberán considerar únicamente los meses que hayan realizado actividades.
+
+Cuando en la declaración de pago bimestral resulte saldo a favor, el contribuyente únicamente podrá compensarlo contra el impuesto a su cargo que le corresponda en los pagos bimestrales siguientes hasta agotarlo.
+
+Cuando el contribuyente no compense el saldo a favor contra el impuesto que le corresponda pagar en el bimestre de que se trate, o en los dos siguientes, pudiendo haberlo hecho, perderá el derecho a hacerlo en los bimestres siguientes hasta por la cantidad en que pudo haberlo compensado.
+
+Los contribuyentes a que se refiere este artículo, deberán cumplir la obligación prevista en la fracción III del artículo 112 de la Ley del Impuesto sobre la Renta, en lugar de llevar la contabilidad a que se refiere la fracción I del artículo 19 de esta Ley. Asimismo, podrán conservar y expedir comprobantes fiscales de conformidad con lo establecido en las fracciones II y IV del citado artículo 112.
+
+Asimismo, los contribuyentes a que se refiere el presente artículo, no estarán obligados a presentar las declaraciones informativas previstas en este ordenamiento, siempre que presenten la información de las operaciones con sus proveedores en el bimestre inmediato anterior, de conformidad con la fracción VIII del artículo 112 de la Ley del Impuesto sobre la Renta. Lo dispuesto en este párrafo, no será aplicable a la obligación establecida en la fracción IX del artículo 19 de la presente Ley. La información a que se refiere la fracción citada se presentará en forma bimestral conjuntamente con la declaración de pago.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -462,9 +732,15 @@ Igualmente, se considera enajenación de los bienes a que hace referencia el inc
 
 Se equipara a la enajenación el consumo que efectúe Petróleos Mexicanos de los productos gravados por esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Asimismo, para efectos del artículo 2o.-A, fracción II de esta Ley, se considerará enajenación el autoconsumo de gasolina o diesel que se realice en las estaciones de servicio y los distribuidores autorizados por Petróleos Mexicanos y sus organismos subsidiarios, salvo que se realice en estaciones de servicios que no vendan los combustibles al público en general.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+También se considera enajenación el autoconsumo de los bienes que realicen los contribuyentes del impuesto a que se refiere el inciso H), de la fracción I, del artículo 2o. de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -482,17 +758,19 @@ No se pagará el impuesto establecido en esta Ley:
 
 I. Por las enajenaciones siguientes:
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Las realizadas a distribuidores autorizados por Petróleos Mexicanos y sus organismos subsidiarios, o bien, efectuadas a estaciones de servicio, exclusivamente por lo que respecta al artículo 2o.-A, fracción II de esta Ley.
+a) (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 b) Aguamiel y productos derivados de su fermentación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Las que realicen personas diferentes de los fabricantes, productores o importadores, de los bienes a que se refieren los incisos C), D) y E) de la fracción I del artículo 2o. de esta Ley. En estos casos, las personas distintas de los fabricantes, productores o importadores, no se consideran contribuyentes de este impuesto por dichas enajenaciones.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c) Las que realicen personas diferentes de los fabricantes, productores o importadores, de los bienes a que se refieren los incisos C), D), E), G) y H) de la fracción I del artículo 2o. y la fracción II del artículo 2o.-A de esta Ley. En estos casos, las personas distintas de los fabricantes, productores o importadores, no se consideran contribuyentes de este impuesto por dichas enajenaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -502,11 +780,27 @@ d) Las de cerveza, bebidas refrescantes, puros y otros tabacos labrados, así co
 
 e) Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su enajenación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, X, XII y XIV de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
 
-f) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-g) La de cualquier tipo de bienes que se encuentren sujetos al régimen aduanero de recinto fiscalizado estratégico.
+f) Las de bebidas saborizadas en restaurantes, bares y otros lugares en donde se proporcionen servicios de alimentos y bebidas, bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+g) (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+h) Plaguicidas que conforme a la categoría de peligro de toxicidad aguda correspondan a la categoría 5.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+i) Petróleo crudo y gas natural.
 
 II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
 
@@ -514,7 +808,11 @@ II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos,
 
 III. Por las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en los siguientes supuestos:
 
-a) Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el artículo 95, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+a) Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el artículo 79, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
 
 b) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio.
 
@@ -526,7 +824,7 @@ c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad
 
 Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en esta Ley con la actualización y los recargos respectivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -544,7 +842,11 @@ c) De interconexión, consistente en la conexión física o virtual, lógica y f
 
 d) De acceso a Internet, a través de una red fija o móvil, consistente en todos los servicios, aplicaciones y contenidos que mediante dicho acceso a Internet se presten a través de una red de telecomunicaciones.
 
-Cuando los servicios a que se refiere el párrafo anterior se ofrezcan de manera conjunta con otros servicios que se presten a través de una red pública de telecomunicaciones, la exención a que se refiere este inciso será procedente siempre que en el comprobante respectivo se determine la contraprestación correspondiente al servicio de acceso a Internet de manera separada a los demás servicios de telecomunicaciones que se presten a través de una red pública y que dicha contraprestación se determine de acuerdo con los precios y montos de las contraprestaciones que se hubieran cobrado de no haberse proporcionado el servicio en forma conjunta con otros servicios de telecomunicaciones gravados por esta Ley. En este caso los servicios de Internet exentos no podrán exceder del 30% del total de las contraprestaciones antes referidas que se facturen en forma conjunta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Cuando los servicios a que se refiere el párrafo anterior se ofrezcan de manera conjunta con otros servicios que se presten a través de una red pública de telecomunicaciones, la exención a que se refiere este inciso será procedente siempre que en el comprobante fiscal respectivo, se determine la contraprestación correspondiente al servicio de acceso a Internet de manera separada a los demás servicios de telecomunicaciones que se presten a través de una red pública y que dicha contraprestación se determine de acuerdo con los precios y montos de las contraprestaciones que se hubieran cobrado de no haberse proporcionado el servicio en forma conjunta con otros servicios de telecomunicaciones gravados por esta Ley. En este caso los servicios de Internet exentos no podrán exceder del 30% del total de las contraprestaciones antes referidas que se facturen en forma conjunta.
 
 ###### ARTICULO 8o.
 
@@ -556,15 +858,19 @@ B (SIC).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío, se realiza en el país la entrega material del bien por el enajenante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 10.
 
-En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, el impuesto se calculará por los litros que hayan sido pagados con el monto de las contraprestaciones efectivamente percibidas. Tratándose de la cuota por enajenación de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros efectivamente cobrados y, en el caso de otros tabacos labrados, la cantidad de gramos efectivamente cobrados.
+En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, el impuesto se calculará por los litros que hayan sido pagados con el monto de las contraprestaciones efectivamente percibidas. Tratándose de la cuota por enajenación de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros efectivamente cobrados y, en el caso de otros tabacos labrados, la cantidad de gramos efectivamente cobrados. Por las enajenaciones de los bienes a que se refieren los incisos G) y H) de la fracción I del artículo 2o. de esta Ley, el impuesto se causa en el momento en que se cobren las contraprestaciones. Por las enajenaciones de los bienes a que se refiere la fracción II del artículo 2o.-A de esta Ley, el impuesto se causa en el momento en que se cobren las contraprestaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+En el caso de faltante de bienes en los inventarios, consumo o autoconsumo, se considera que se efectúa la enajenación en el momento en el que el contribuyente o las autoridades fiscales conozcan que se realizaron los hechos mencionados, lo que ocurra primero.
+
+Tratándose de donaciones por las que se deba pagar el impuesto, en el momento en que se haga la entrega del bien donado o se extienda el comprobante que transfiera la propiedad, lo que ocurra primero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 11.
 
@@ -576,15 +882,15 @@ Los productores o importadores de cigarros, para calcular el impuesto por la ena
 
 El impuesto a que se refiere el párrafo anterior, no se pagará por las enajenaciones subsecuentes, no procediendo en ningún caso el acreditamiento o la devolución del impuesto por dichas enajenaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados. Tratándose de la cuota por enajenaciones de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros enajenados y, en el caso de otros tabacos labrados, la cantidad de gramos enajenados.
+Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados. Tratándose de la cuota por enajenaciones de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros enajenados y, en el caso de otros tabacos labrados, la cantidad de gramos enajenados. Por las enajenaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados de bebidas saborizadas con azucares añadidos; tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas con azucares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener, del total de productos enajenados. Por las enajenaciones de los bienes a que se refiere el inciso H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades, según corresponda. Por las enajenaciones de los bienes a que se refiere la fracción II del artículo 2o.-A de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida, según corresponda.
 
 ### CAPITULO III. De la Importación de Bienes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 12.
 
@@ -600,7 +906,7 @@ II.- En caso de importación temporal al convertirse en definitiva.
 
 III. En el caso de bienes que hayan sido introducidos ilegalmente al país, cuando dicha internación sea descubierta o las citadas mercancías sean embargadas, por las autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 13.
 
@@ -608,9 +914,11 @@ No se pagará el impuesto establecido en esta Ley, en las importaciones siguient
 
 I.- Las que en los términos de la legislación aduanera no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tampoco se pagará este impuesto por los bienes que se introduzcan al país mediante el régimen aduanero de recinto fiscalizado estratégico.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+No será aplicable la exención a que se refiere esta fracción tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico.
 
 II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante disposiciones de carácter general, en su caso, establezca la Secretaría de Hacienda y Crédito Público.
 
@@ -618,27 +926,55 @@ II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y
 
 III.- Las de aguamiel y productos derivados de su fermentación.
 
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Las de los bienes en franquicia de conformidad con lo dispuesto en la Ley Aduanera.
+IV.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 V.- Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su importación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, VI, VIII, XI, XIV y XIX de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
 
-VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VI.- Las importaciones definitivas de los bienes por los que se haya pagado el impuesto a que se refiere esta Ley al destinarse a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico o de mercancías que incluyan los bienes por los que se pagó el impuesto, siempre que la importación definitiva la realicen quienes hayan destinado los bienes a los regímenes mencionados. No será aplicable lo dispuesto en esta fracción cuando el impuesto se haya pagado aplicando el crédito fiscal previsto en el artículo 15-A de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VII.- Las de bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VIII.- Las de plaguicidas que de conformidad con la categoría de peligro de toxicidad aguda corresponda a la categoría 5.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+IX.- Las de petróleo crudo y gas natural.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 14.
 
 Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de las contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Por las importaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros importados afectos a la citada cuota. En las importaciones de cigarros u otros tabacos labrados en las que el impuesto se pague aplicando la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros importados y, en el caso de otros tabacos labrados, la cantidad de gramos importados.
+Tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, para calcular el impuesto especial sobre producción y servicios se considerará el valor en aduana a que se refiere la Ley Aduanera, adicionado del monto de las demás contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva, a excepción del impuesto al valor agregado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Por las importaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros importados afectos a la citada cuota. En las importaciones de cigarros u otros tabacos labrados en las que el impuesto se pague aplicando la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros importados y, en el caso de otros tabacos labrados, la cantidad de gramos importados. Tratándose de las importaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto por el total de litros importados de bebidas saborizadas o por el total de litros que se puedan obtener, de conformidad con las especificaciones del fabricante, por el total de concentrados, polvos, jarabes, esencias o extractos de sabores. Tratándose de las importaciones de los bienes a que se refiere el inciso H) de la fracción I del artículo 2o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades importadas, según corresponda.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -646,9 +982,31 @@ Por las importaciones de cerveza en las que el impuesto se pague aplicando la cu
 
 Tratándose de la importación de bienes, el pago del impuesto establecido en esta Ley se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+En el caso de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, el pago se hará a más tardar en el momento en que se presente el pedimento respectivo para su trámite. Cuando se retornen al extranjero los bienes, los contribuyentes podrán solicitar la devolución del impuesto especial sobre producción y servicios que hayan pagado cuando destinaron los bienes a dichos regímenes, así como el que, en su caso, les hayan trasladado siempre que dicho impuesto no haya sido acreditado en los términos de esta Ley.
+
 Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto especial sobre producción y servicios, mediante declaración que presentarán en la aduana correspondiente.
 
 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponda conforme a esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 15-A.
+
+Las personas que introduzcan bienes a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, podrán aplicar un crédito fiscal consistente en una cantidad equivalente al 100% del impuesto especial sobre producción y servicios que deba pagarse por la importación, el cual será acreditable contra el impuesto especial sobre producción y servicios que deba pagarse por las citadas actividades, siempre que obtengan una certificación por parte del Servicio de Administración Tributaria. Para obtener dicha certificación, las empresas deberán acreditar que cumplen con los requisitos que permitan un adecuado control de las operaciones realizadas al amparo de los regímenes mencionados, de conformidad con las reglas de carácter general que al efecto emita dicho órgano.
+
+La certificación a que se refiere el párrafo anterior tendrá una vigencia de un año y podrá ser renovada por las empresas dentro de los treinta días anteriores a que venza el plazo de vigencia, siempre que acrediten que continúan cumpliendo con los requisitos para su certificación.
+
+El impuesto cubierto con el crédito fiscal previsto en este artículo, no será acreditable en forma alguna.
+
+El crédito fiscal a que se refiere este artículo no se considerará como ingreso acumulable para los efectos del impuesto sobre la renta.
+
+Las personas a que se refiere este artículo que no ejerzan la opción de certificarse, podrán no pagar el impuesto especial sobre producción y servicios por la introducción de los bienes a los regímenes aduaneros antes mencionados, siempre que garanticen el interés fiscal mediante fianza otorgada por institución autorizada, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -682,7 +1040,7 @@ II. Las cantidades efectivamente devueltas a los participantes, siempre que las 
 
 Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -698,35 +1056,39 @@ Para los efectos de esta ley, se considera que se prestan los servicios en terri
 
 Los contribuyentes a que se refiere esta Ley tienen, además de las obligaciones señaladas en otros artículos de la misma y en las demás disposiciones fiscales, las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las que se pague el impuesto mediante la aplicación de las cuotas previstas en los artículos 2o., fracción I, inciso C), segundo y tercer párrafos y 2o.-C de esta Ley.
+I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las que se pague el impuesto mediante la aplicación de las cuotas previstas en los artículos 2o., fracción I, incisos C), segundo y tercer párrafos, G) y H); 2o.-A, fracción II, y 2o.-C de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-II. Expedir comprobantes sin el traslado en forma expresa y por separado del impuesto establecido en esta Ley, salvo tratándose de la enajenación de los bienes a que se refieren los incisos A) y F) de la fracción I del artículo 2o. de esta Ley, siempre que el adquirente sea a su vez contribuyente de este impuesto por dichos bienes y así lo solicite.
+II. Expedir comprobantes fiscales, sin el traslado en forma expresa y por separado del impuesto establecido en esta Ley, salvo tratándose de la enajenación de los bienes a que se refieren los incisos A), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, siempre que el adquirente sea a su vez contribuyente de este impuesto por dichos bienes y así lo solicite.
 
-Los comerciantes que en el ejercicio inmediato anterior a aquél al que corresponda, hubieran efectuado el 90% del importe de sus enajenaciones con el público en general, en el comprobante que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que el adquirente sea contribuyente de este impuesto por el bien o servicio de que se trate y requiera la expedición del comprobante con el impuesto trasladado expresamente y por separado. En todos los casos, se deberán ofrecer los bienes gravados por esta Ley, incluyendo el impuesto en el precio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+Los comerciantes que en el ejercicio inmediato anterior a aquél al que corresponda, hubieran efectuado el 90% del importe de sus enajenaciones con el público en general, en el comprobante fiscal que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que el adquirente sea contribuyente de este impuesto por el bien o servicio de que se trate y solicite la expedición del comprobante fiscal con el impuesto trasladado expresamente y por separado. En todos los casos, se deberán ofrecer los bienes gravados por esta Ley, incluyendo el impuesto en el precio.
 
-Los contribuyentes que enajenen los bienes a que se refieren los incisos A) y F) de la fracción I del artículo 2o. de esta Ley, que trasladen en forma expresa y por separado el impuesto establecido en la misma, deberán asegurarse de que los datos relativos al nombre, denominación o razón social de la persona a favor de quien se expiden, corresponde con el registro con el que dicha persona acredite que es contribuyente del impuesto especial sobre producción y servicios respecto de dichos bienes. Asimismo, los citados contribuyentes deberán proporcionar al Servicio de Administración Tributaria en forma trimestral, en los meses de abril, julio, octubre y enero, del año que corresponda, la relación de las personas a las que en el trimestre anterior al que se declara les hubiere trasladado el impuesto especial sobre producción y servicios en forma expresa y por separado en los términos de esta fracción, así como el monto del impuesto trasladado en dichas operaciones y la información y documentación que mediante reglas de carácter general señale el Servicio de Administración Tributaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Los contribuyentes que enajenen los bienes a que se refieren los incisos A), F), G) y J) de la fracción I del artículo 2o. de esta Ley, que trasladen en forma expresa y por separado el impuesto establecido en la misma, deberán proporcionar al Servicio de Administración Tributaria en forma trimestral, en los meses de abril, julio, octubre y enero, del año que corresponda, la relación de las personas a las que en el trimestre anterior al que se declara les hubiere trasladado el impuesto especial sobre producción y servicios en forma expresa y por separado en los términos de esta fracción, así como el monto del impuesto trasladado en dichas operaciones y la información y documentación que mediante reglas de carácter general señale el Servicio de Administración Tributaria.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere el párrafo anterior en los meses de enero y julio de cada año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-Tratándose de la enajenación de tabacos labrados, en los comprobantes que se expidan se deberá especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
+Tratándose de la enajenación de tabacos labrados, en los comprobantes fiscales que se expidan se deberá especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
 
 III. Presentar las declaraciones e informes previstos en esta Ley, en los términos que al efecto se establezcan en el Código Fiscal de la Federación. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago ante las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
 
@@ -734,7 +1096,7 @@ IV. Los productores e importadores de cigarros, deberán registrar ante las auto
 
 Asimismo, se deberá informar a las autoridades fiscales cuando exista alguna modificación en los precios, debiendo presentar a las citadas autoridades, dentro de los 5 días siguientes a que esto ocurra, la lista de precios de venta que estará vigente a partir del momento de la modificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 V. Los contribuyentes deberán adherir marbetes a los envases que contengan bebidas alcohólicas, inmediatamente después de su envasamiento. Tratándose de bebidas alcohólicas a granel, se deberán adherir precintos a los recipientes que las contengan, cuando las mismas se encuentren en tránsito o transporte. No será aplicable lo dispuesto en este párrafo tratándose de bebidas alcohólicas envasadas que se destinen a la exportación, siempre que se cumplan con las reglas de carácter general que al efecto se señalen en el Reglamento de esta Ley.
 
@@ -746,15 +1108,19 @@ El marbete para bebidas alcohólicas podrá colocarse en el cuello de la botella
 
 Para los casos de vinos de mesa de hasta 14° GL podrán adherir el marbete en el cuello de la botella o en la etiqueta frontal del envase, abarcando parte de la etiqueta y del propio envase.
 
-VI. Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información que corresponda de los bienes que produjeron, enajenaron o importaron en el año inmediato anterior, respecto de su consumo por entidad federativa e impuesto correspondiente, así como de los servicios prestados por establecimiento en cada entidad federativa. Para los efectos de esta fracción, se considera que los bienes se consumen en el lugar en el que se hace la entrega material del producto, de acuerdo con el comprobante de enajenación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+VI. Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información que corresponda de los bienes que produjeron, enajenaron o importaron en el año inmediato anterior, respecto de su consumo por entidad federativa e impuesto correspondiente, así como de los servicios prestados por establecimiento en cada entidad federativa. Para los efectos de esta fracción, se considera que los bienes se consumen en el lugar en el que se hace la entrega material del producto, de acuerdo con el comprobante fiscal.
 
 VII. Realizar, tratándose de los contribuyentes que presten los servicios a que se refiere el inciso A) de la fracción II del artículo 2o. de esta Ley, la separación en su contabilidad y registros, de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta ajena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-VIII. Los contribuyentes de los bienes a que se refieren los incisos A), B), C) y F) de la fracción I del artículo 2o. de esta Ley, obligados al pago del impuesto especial sobre producción y servicios a que se refiere la misma, deberán proporcionar al Servicio de Administración Tributaria, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la información sobre sus 50 principales clientes y proveedores del trimestre inmediato anterior al de su declaración, respecto de dichos bienes. Tratándose de contribuyentes que enajenen o importen vinos de mesa, deberán cumplir con esta obligación de manera semestral, en los meses de enero y julio de cada año.
+VIII. Los contribuyentes de los bienes a que se refieren los incisos A), B), C), F), G), H), I) y J) de la fracción I del artículo 2o. de esta Ley, obligados al pago del impuesto especial sobre producción y servicios a que se refiere la misma, deberán proporcionar al Servicio de Administración Tributaria, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la información sobre sus 50 principales clientes y proveedores del trimestre inmediato anterior al de su declaración, respecto de dichos bienes. Tratándose de contribuyentes que enajenen o importen vinos de mesa, deberán cumplir con esta obligación de manera semestral, en los meses de enero y julio de cada año.
 
 Los contribuyentes que tengan uno o varios establecimientos ubicados en una entidad federativa diferente al de la matriz, deberán presentar la información a que se refiere el párrafo anterior por las operaciones que correspondan a dichos establecimientos para su consumo final.
 
@@ -762,27 +1128,27 @@ Los contribuyentes que tengan uno o varios establecimientos ubicados en una enti
 
 La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 IX. Los productores e importadores de tabacos labrados, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados o, en su caso, la cantidad total de cigarros enajenados. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-X. Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados, bebidas energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
+X. Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados, bebidas energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, bebidas saborizadas con azucares añadidos, así como de concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azucares añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
 
 La obligación a que se refiere esta fracción no será aplicable a los productores de vinos de mesa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-XI. Los importadores o exportadores de los bienes a que se refieren los incisos A), B), C) y F) de la fracción I del artículo 2o. de esta Ley, deberán estar inscritos en el padrón de importadores y exportadores sectorial, según sea el caso, a cargo de la Secretaría de Hacienda y Crédito Público.
+XI. Los importadores o exportadores de los bienes a que se refieren los incisos A), B), C), F), G), H) e I) de la fracción I del artículo 2o. de esta Ley, deberán estar inscritos en el padrón de importadores y exportadores sectorial, según sea el caso, a cargo de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 XII. Los fabricantes, productores y envasadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán reportar en el mes de enero de cada año, al Servicio de Administración Tributaria, las características de los equipos que utilizarán para la producción, destilación, envasamiento y almacenaje de dichos bienes, así como de los contenedores para el almacenaje de dichos bienes cuando no se trate de equipo.
 
@@ -790,11 +1156,11 @@ Asimismo, deberán reportar a dicha dependencia la fecha de inicio del proceso d
 
 En el caso de que se adquieran o se incorporen nuevos equipos de destilación o envasamiento, se modifiquen los instalados o se enajenen los reportados por el contribuyente, se deberá presentar aviso ante las autoridades fiscales dentro de los 15 días siguientes a que esto ocurra.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-XIII. Los contribuyentes de los bienes a que se refieren los incisos A) y F) de la fracción I del artículo 2o. de esta Ley, obligados al pago del impuesto especial sobre producción y servicios, deberán proporcionar al Servicio de Administración Tributaria, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, el precio de enajenación de cada producto, valor y volumen de los mismos, efectuado en el trimestre inmediato anterior.
+XIII. Los contribuyentes de los bienes a que se refieren los incisos A), F) y H) de la fracción I del artículo 2o. de esta Ley, obligados al pago del impuesto especial sobre producción y servicios, deberán proporcionar al Servicio de Administración Tributaria, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, el precio de enajenación de cada producto, valor y volumen de los mismos, efectuado en el trimestre inmediato anterior.
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -838,15 +1204,51 @@ Los importadores de cerveza que apliquen la disminución del monto a que se refi
 
 Cuando los contribuyentes no cumplan con los registros establecidos en esta fracción, dichos registros sean falsos o no se cuente con la documentación soporte de los mismos, no se tendrá derecho a la disminución prevista en el artículo 2o.-C de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir en cada una de las cajetillas de cigarros para su venta en México, el código de seguridad que reúna las características que determine el Servicio de Administración Tributaria mediante reglas de carácter general. En dichas reglas se podrán establecer los mecanismos o sistemas que se utilizarán para imprimir en cada cajetilla de cigarros el código de seguridad correspondiente.
+XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir un código de seguridad en cada una de las cajetillas de cigarros para su venta en México, así como registrar, almacenar y proporcionar al Servicio de Administración Tributaria la información que se genere derivada de los mecanismos o sistemas de impresión del referido código.
 
-Los contribuyentes a que se refiere esta fracción deberán poner a disposición de las autoridades fiscales la información, documentación o dispositivos necesarios, que se establezcan en las reglas de carácter general, que permitan constatar que la impresión del código de seguridad en cada una de las cajetillas de cigarros producidos o importados, se está llevando a cabo de conformidad con lo dispuesto por las propias reglas de carácter general.
+Para lo anterior, los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán cumplir con lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+a) Imprimir el código de seguridad con las características técnicas y de seguridad que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+b) Imprimir el código de seguridad en la línea de producción de las cajetillas de cigarros o antes de la importación a territorio nacional de las mismas, utilizando los mecanismos o sistemas que cumplan las características técnicas y de seguridad que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+c) Registrar y almacenar la información contenida en el código de seguridad, así como la información de la impresión del mismo en las cajetillas de cigarros, generada por los mecanismos o sistemas de impresión del referido código, en los términos que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+d) Proporcionar al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los registros que se realicen conforme al inciso anterior, en los términos que determine dicho órgano desconcentrado, mediante reglas de carácter general.
+
+e) Instrumentar las demás características técnicas y de seguridad que establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+La impresión del código de seguridad, así como el registro, almacenamiento y el proporcionar la información que se genere derivada de los mecanismos o sistemas de impresión del referido código, se deberá realizar a través de los proveedores de servicios de impresión de códigos de seguridad previamente autorizados por el Servicio de Administración Tributaria.
+
+Cuando los proveedores autorizados de servicios de impresión de códigos de seguridad incumplan con alguna de las obligaciones que deriven de la autorización, o bien cuando no atiendan a lo señalado en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria, dicho órgano desconcentrado podrá revocar las autorizaciones correspondientes.
+
+El Servicio de Administración Tributaria podrá requerir a los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, la información o la documentación a que se refieren los párrafos primero y segundo de esta fracción, así como la relativa a sus sistemas, proveedores, clientes, operaciones y mecanismos que estime necesaria, relacionada con el cumplimiento de las obligaciones a que se refiere esta fracción. Asimismo, podrá realizar en todo momento verificaciones en los locales, establecimientos o domicilios de los mismos, a efecto de constatar el cumplimiento de las obligaciones a que se encuentran afectos.
+
+Los contribuyentes a que se refiere esta fracción deberán poner a disposición de las autoridades fiscales la información, documentación o dispositivos necesarios, que permitan constatar el cumplimiento de las obligaciones previstas en los párrafos primero, segundo y cuarto de esta fracción y en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria. Asimismo, deberán permitir a las autoridades fiscales la realización de las verificaciones a que se refiere el párrafo anterior.
+
+Cuando los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, incumplan con alguna de las obligaciones establecidas en esta Ley, o bien, cuando no atiendan lo señalado en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria, dicho órgano desconcentrado impondrá las sanciones que procedan, conforme al Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Los importadores de concentrados, polvos, jarabes, esencias o extractos de sabores, para los efectos de pagar el impuesto en la importación, deberán manifestar bajo protesta de decir verdad, el número de litros de bebidas saborizadas con azucares añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener. Las especificaciones no podrán ser menores a las que el importador manifieste en la enajenación que de dichos bienes haga en el mercado nacional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 19-A.
+
+Cuando el Servicio de Administración Tributaria detecte cajetillas de cigarros que no cumplan con la impresión del código de seguridad a que se refiere el artículo 19, fracción XXII, las mismas serán aseguradas y pasarán a propiedad del fisco federal, a efecto de que se proceda a su destrucción.
+
+Para los efectos de este artículo, el Servicio de Administración Tributaria podrá realizar en todo momento verificaciones en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que utilicen para el desempeño de sus actividades quienes vendan, enajenen o distribuyan en México las cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que deban contener impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de esta Ley, observando para ello el procedimiento que se establece en el artículo 49 del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -862,11 +1264,27 @@ b) Sistema de caja y control de efectivo en el que se registren cada una de las 
 
 II. Llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los sistemas de registro mencionados en la fracción I de este artículo. El Servicio de Administración Tributaria establecerá mediante reglas de carácter general las características técnicas, de seguridad y requerimientos de información del sistema a que se refiere la presente fracción.
 
-El incumplimiento de cualquiera de las obligaciones establecidas en este artículo será sancionado con la clausura de uno a dos meses del establecimiento o establecimientos que tenga el contribuyente en donde realice las actividades de juegos con apuestas y sorteos y cuyas operaciones deben ser registradas en los sistemas de cómputo a que se refiere el presente artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+El incumplimiento de cualquiera de las obligaciones establecidas en este artículo será sancionado con la clausura del establecimiento o establecimientos que tenga el contribuyente en donde realice las actividades de juegos con apuestas y sorteos y cuyas operaciones deben ser registradas en los sistemas de cómputo a que se refiere el presente artículo.
 
 No procederá la aplicación de la sanción establecida en el párrafo anterior cuando el incumplimiento se deba a fallas en los sistemas de cómputo cuyas causas no sean imputables a los contribuyentes y siempre que éstos presenten un aviso al Servicio de Administración Tributaria en el plazo y los términos que a través de reglas de carácter general emita dicho órgano desconcentrado.
 
 Las obligaciones establecidas en este artículo no son exigibles a las personas que de conformidad con lo dispuesto por el artículo 8o., fracción III de esta Ley están exentas del pago del impuesto por las actividades mencionadas en el primer párrafo de este artículo, ni a los contribuyentes a que se refiere el artículo 29 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+Las autoridades fiscales para efectos de determinar el incumplimiento e imponer la sanción que se establece en el segundo párrafo de este artículo, deberán practicar las visitas domiciliarias a que se refieren los artículos 42, fracción V y 49 del Código Fiscal de la Federación, sujetándose al procedimiento previsto en esta última disposición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
+La clausura del establecimiento o establecimientos, que en su caso se decrete, se levantará una vez que el contribuyente acredite ante las autoridades fiscales haber subsanado la infracción cometida.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -904,7 +1322,7 @@ Para los efectos de este artículo, se considerará como valor, el precio promed
 
 Bis.- (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 23.-A.
 
@@ -922,7 +1340,7 @@ Se presume que las bebidas alcohólicas que no tengan adherido el marbete o prec
 
 Lo dispuesto en el párrafo anterior no será aplicable respecto de las bebidas alcohólicas destinadas a la exportación por las que no se esté obligado al pago de este impuesto, que se encuentren en tránsito hacia la aduana correspondiente, siempre que dichos bienes lleven adheridos etiquetas o contraetiquetas que contengan los datos de identificación del importador en el extranjero.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 24.
 
@@ -946,7 +1364,7 @@ V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 Si de la aplicación de cualesquiera de los métodos antes mencionados se determina que el contribuyente enajenó sus productos a precios superiores a los declarados, las autoridades fiscales podrán considerar que la producción del último año se enajenó a ese precio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 25.
 
@@ -980,7 +1398,7 @@ Cuando el contribuyente sea omiso en presentar por más de tres veces en un mism
 
 Las autoridades fiscales podrán requerir a los contribuyentes la información o documentación que sea necesaria para constatar el uso adecuado de los marbetes o precintos que les hayan sido entregados, para lo cual se les otorgará un plazo de 10 días, apercibiéndoles que, de no hacerlo en ese plazo, se les tendrá por desistidos de la solicitud de marbetes o precintos que, en su caso, hubieren formulado.
 
-> <small>(REFORMADO [N. DE E. ANTES TITULO III], D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ANTES TÍTULO III], D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO VII. De las Participaciones a las Entidades Federativas
 
@@ -1032,11 +1450,11 @@ La Secretaría de Hacienda y Crédito Público cubrirá directamente las cantida
 
 Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal, podrán gravar la producción, acopio o venta de tabaco en rama con impuestos locales o municipales que en conjunto no excederán de un peso cincuenta y cinco centavos por kilo, que sólo podrán decretar las entidades en que aquél se cultive
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 29.
 
-Las entidades federativas que tengan celebrado con la Secretaría de Hacienda y Crédito Público convenio de coordinación para la administración del impuesto sobre la renta a cargo de las personas físicas que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, administrarán el impuesto especial sobre producción y servicios de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondiente a los contribuyentes que hayan optado por pagar el impuesto sobre la renta mediante estimativa practicada por las autoridades fiscales. Las entidades federativas recibirán como incentivo el 100% de la recaudación que obtengan por el citado concepto.
+(DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 ## TRANSITORIOS
 
@@ -1128,7 +1546,7 @@ México, D. F., a 19 de diciembre de 1980.- José Murat, D. P.- Graciliano Alpuc
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 30 DE DICIEMBRE DE 1980.
 
@@ -1138,7 +1556,7 @@ DISPOSICIONES DE VIGENCIA ANUAL
 
 ARTICULO DECIMOPRIMERO.- Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso II, subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1981 tengan un precio máximo al público que no exceda de $4.00 por cajetilla de veinte cigarros.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1146,7 +1564,7 @@ Esta Ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
 
 D.O.F. 31 DE DICIEMBRE DE 1981.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1188,7 +1606,7 @@ ARTICULO DECIMOCUARTO.- Para los efectos de la aplicación de la tasa establecid
 
 ARTICULO DECIMONOVENO.- Los artículos Transitorios SEXTO relativo a la Ley del Impuesto Especial sobre Producción y Servicios, DECIMOCTAVO referente a la Ley del Impuesto al Valor Agregado, VIGESIMO QUINTO concerniente a la Ley del Impuesto sobre la Renta y TRIGESIMO OCTAVO respecto de la Ley Orgánica del Tribunal Fiscal de la Federación, de la ley que reforma, adiciona y deroga diversas disposiciones en materia fiscal, de 30 de diciembre de 1981, se reforman para surtir sus efectos en toda la República a partir del 1o. de enero de 1983.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1220,7 +1638,7 @@ DISPOSICIONES DE VIGENCIA ANUAL
 
 Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1984 tengan un precio máximo al público que no exceda de $19.00 por cajetilla de 20 cigarros.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1244,7 +1662,7 @@ I.- Lo dispuesto en el segundo párrafo del artículo 5o.-A de la Ley no será a
 
 II.- Para los efectos de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1985, tengan un precio máximo al público que no exceda de $30.00 por cajetilla de 20 cigarros.
 
-DISPOSICION CON VIGENCIA DURANTE LOS AÑOS DE 1985 Y 1986
+DISPOSICIÓN CON VIGENCIA DURANTE LOS AÑOS DE 1985 Y 1986
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -1444,7 +1862,7 @@ Disposición Transitoria
 
 Se deroga lo dispuesto por el ARTICULO DECIMO CUARTO de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1985, aplicable a la Ley del Impuesto Especial sobre Producción y Servicios.
 
-DISPOSICION CON VIGENCIA DURANTE EL AÑO DE 1990
+DISPOSICIÓN CON VIGENCIA DURANTE EL AÑO DE 1990
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
@@ -1458,13 +1876,13 @@ III.- Tratándose de la importación de petrolíferos, el valor que se tomará c
 
 IV.- Lo dispuesto en el ARTICULO DECIMO SEXTO, fracción IV de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1988, se seguirá aplicando en materia del impuesto especial sobre producción y servicios, durante el año de 1990, salvo lo establecido por el inciso 5) de la citada fracción.
 
-DISPOSICION CON VIGENCIA DURANTE LOS AÑOS DE 1990 A 1992
+DISPOSICIÓN CON VIGENCIA DURANTE LOS AÑOS DE 1990 A 1992
 
 ###### ARTICULO VIGESIMO SEGUNDO.
 
 Durante los años de 1990 a 1992, los fabricantes de cigarros cuyo volumen total de producción sea inferior a 40.000,000 de cajetillas anuales, que utilicen exclusivamente tabacos producidos en el país en todas sus marcas y que el origen de éstas sea también nacional, y que en virtud de la derogación de la fracción V del artículo 8o. de la Ley del Impuesto Especial sobre Producción y Servicios, estén obligados al pago de ese impuesto por las enajenaciones de sus productos que realicen, lo harán por el 25% del mismo durante el año de 1990, por el 50% en 1991, y por el 75% en el año de 1992.
 
-DISPOSICION CON VIGENCIA DURANTE LOS AÑOS 1990 A 1993
+DISPOSICIÓN CON VIGENCIA DURANTE LOS AÑOS 1990 A 1993
 
 ###### ARTICULO VIGESIMO TERCERO.
 
@@ -1474,7 +1892,7 @@ Los contribuyentes a que se refiere el párrafo anterior efectuarán la retenci�
 
 Los contribuyentes a los que se les retenga el impuesto, de conformidad con lo señalado en este artículo, deberán presentar declaraciones de pago provisional en la que acreditarán el impuesto que les debió haber sido retenido en los términos de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1510,7 +1928,7 @@ III.- Lo dispuesto en el ARTICULO DECIMO SEXTO, fracción IV de la Ley que Estab
 
 IV.- Cuando en un lugar o región del país se establezca un sobreprecio al precio de la gasolina, no se estará obligado al pago del impuesto especial sobre producción y servicios por dicho sobreprecio en la enajenación.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
 
@@ -1552,7 +1970,7 @@ UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
 
 D.O.F. 20 DE JULIO DE 1992.
 
-DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ###### ARTICULO DECIMO QUINTO.
 
@@ -1578,7 +1996,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 D.O.F. 3 DE DICIEMBRE DE 1993.
 
-DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIÓN TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ###### ARTICULO DECIMO.
 
@@ -1586,7 +2004,7 @@ Las personas que hayan adquirido para su consumo diesel industrial o marino a qu
 
 El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere el párrafo anterior.
 
-DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -1600,19 +2018,19 @@ Durante el año de 1994, se aplicará al gas natural para combustión automotriz
 
 Durante el año de 1994, se prorroga la vigencia de la fracción V del ARTICULO DECIMO PRIMERO de las DISPOSICIONES DE VIGENCIA ANUAL de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales para 1992 y las modificaciones a dicha fracción, publicadas en el Diario Oficial de la Federación el 20 de julio de 1992.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
 D.O.F. 28 DE DICIEMBRE DE 1994.
 
-DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIÓN DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ###### ARTICULO DECIMO.
 
 Durante el año de 1995 y para efectos del artículo 2o., fracción I inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1995 tengan un precio máximo al público que no exceda de 10 centavos de nuevos pesos por cigarro.
 
-DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIÓN TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -1706,7 +2124,7 @@ Disposición de Vigencia Anual de la Ley del Impuesto Especial sobre Producción
 
 Artículo Décimo Primero. Para efectos de lo dispuesto por el artículo 2o., fracción I, inciso H), subinciso 2 de la Ley del Impuesto Especial sobre Producción y Servicios, durante el año de 1999, son cigarros populares sin filtro los que al 1o. de enero de 1999 tengan un precio máximo al público que no exceda de $0.24 por cigarro.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
 
@@ -1748,7 +2166,7 @@ c) En cada uno de los ejercicios fiscales de 1997, 1998 y 1999, la suma de sus v
 
 Las cuotas a que se refiere esta fracción deberán actualizarse en los términos del artículo 26-B de la presente Ley.
 
-DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIÓN DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 Artículo Décimo. Para efectos de lo dispuesto por el artículo 2o., fracción I, inciso G), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, durante el año de 2000, son cigarros populares sin filtro los que al 1o. de enero de 2000 tengan un precio máximo al público que no exceda de $0.26 por cigarro.
 
@@ -2376,13 +2794,13 @@ Los envases que contengan bebidas alcohólicas que se produzcan o importen a par
 
 D.O.F. 23 DE DICIEMBRE DE 2005.
 
-DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIÓN TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ###### ARTÍCULO SÉPTIMO.
 
 Se deroga el ARTÍCULO TERCERO del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
 
-DISPOSICION TRANSITORIA DEL DECRETO QUE MODIFICA LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
 
@@ -2392,7 +2810,7 @@ D.O.F. 28 DE JUNIO DE 2006.
 
 D.O.F. 27 DE DICIEMBRE DE 2006.
 
-DECRETO QUE REFORMA Y DEROGA DIVERSOS ARTICULOS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS.
+DECRETO QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
 
@@ -2400,7 +2818,7 @@ Segundo. Los contribuyentes que hayan causado el impuesto especial sobre producc
 
 D.O.F. 27 DE DICIEMBRE DE 2006.
 
-DECRETO QUE REFORMA EL ARTICULO 2o., FRACCION I, INCISO C), NUMERALES 1 Y 2, Y ADICIONA EL NUMERAL 3, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS.
+DECRETO QUE REFORMA EL ARTÍCULO 2o., FRACCIÓN I, INCISO C), NUMERALES 1 Y 2, Y ADICIONA EL NUMERAL 3, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2007.
 
@@ -2466,9 +2884,9 @@ I. En el mes calendario en que entre en vigor el artículo 2o.-A, fracción II d
 
 II. Las cuotas mencionadas en la fracción anterior, se incrementarán mensualmente en 2 centavos, 2.44 centavos y 1.66 centavos, por cada litro de Gasolina Magna, Gasolina Premium UBA y Diesel, respectivamente, hasta llegar a las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. A partir del 1 de enero de 2015, las cuotas previstas en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en una proporción de 9/11 para quedar en 2/11 de las cuotas contenidas en dicho artículo.
+III. (DEROGADA POR ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 ## TRANSITORIO
 
@@ -2478,7 +2896,7 @@ D.O.F. 27 DE NOVIEMBRE DE 2009.
 
 Primero.- El presente Decreto entrará en vigor el 1 de enero de 2010.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 Segundo.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 2010)
 
@@ -2520,7 +2938,7 @@ Tercero. Las personas físicas y morales que adquirieron o importaron alcohol, a
 
 D.O.F. 19 DE NOVIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2011.
 
@@ -2532,7 +2950,7 @@ Se exceptúa del tratamiento establecido en el párrafo anterior a las operacion
 
 D.O.F. 19 DE NOVIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 2o. DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2o. DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2011.
 
@@ -2545,6 +2963,50 @@ Se exceptúa del tratamiento establecido en la segunda parte del párrafo anteri
 D.O.F. 12 DE DICIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación
+
+D.O.F. 11 DE DICIEMBRE DE 2013.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
+
+###### ARTÍCULO CUARTO.
+
+En relación con las modificaciones a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
+
+I. Tratándose de la enajenación de bienes o de la prestación de servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro.
+
+No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente:
+
+a) Tratándose de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa del impuesto especial sobre producción y servicios menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto especial sobre producción y servicios aplicando la tasa que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+Se exceptúa del tratamiento establecido en los incisos anteriores a las actividades que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo dispuesto por la Ley del Impuesto sobre la Renta, sean o no residentes en México.
+
+II. Tratándose de insumos destinados hasta antes de la entrada en vigor de los artículos a que se refiere la fracción V de este artículo, a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, en caso de que éstos se incorporen en mercancías que también lleven incorporados insumos por los que se haya pagado el impuesto especial sobre producción y servicios al destinarlos a los regímenes mencionados, cuando se importe en definitiva dicha mercancía estará sujeta al pago del impuesto especial sobre producción y servicios conforme a las disposiciones vigentes con anterioridad a dicha entrada en vigor.
+
+Para los efectos del párrafo anterior, se considerará que, en las mercancías que se importen en definitiva, fueron incorporados en primer lugar los insumos que tengan mayor antigüedad de haber sido destinados a los regímenes mencionados, siempre que se trate de insumos genéricos que no estén identificados individualmente. Para ello, el inventario de los insumos mencionados deberá controlarse utilizando el método de primeras entradas primeras salidas.
+
+III. La reforma al artículo 19, fracción XXII y la adición del artículo 19-A, entrarán en vigor al año siguiente al de la entrada en vigor del presente Decreto.
+
+IV. Se deroga la fracción III del ARTÍCULO SEXTO, del "Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios", publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, fracción reformada mediante el "Decreto por el que se reforman diversos artículos del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado el 21 de diciembre de 2007", publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011.
+
+V. Lo dispuesto en los artículos 13, fracción I, segundo párrafo y las adiciones a los artículos 13, fracción VI; 14, segundo párrafo; 15, segundo párrafo, y 15-A, de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor un año después de que se hayan publicado en el Diario Oficial de la Federación las reglas sobre certificación a que se refiere el citado artículo 15-A.
+
+VI. Para los efectos de lo dispuesto en el artículo 2o. fracción I, inciso I) de la Ley del Impuesto Especial sobre Producción y Servicios, durante el ejercicio fiscal de 2014, en sustitución de las tasas previstas en dicho inciso se aplicarán las siguientes:
+
+1. Categorías 1 y 2 4.5%
+
+2. Categoría 3 3.5%
+
+3. Categoría 4 3.0%
+
+VII. Durante 2014, en lugar del factor a que se refiere el inciso b) de la fracción I del artículo 2o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, que se utiliza para calcular el monto por concepto de mermas, se utilizará un factor de 0.005.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
+
+Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
 
 ###### ARTICULO QUINTO.
 
