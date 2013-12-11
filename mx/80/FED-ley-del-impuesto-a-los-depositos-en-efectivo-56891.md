@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-a-los-depositos-en-efectivo-56891"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-01"
-last_updated: "2009-12-07"
+last_updated: "2013-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56891&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-09-28"
 ---
 # LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO
 
-LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO
+LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y EL ARTÍCULO DÉCIMO TERCERO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS; DE LA LEY FEDERAL DE DERECHOS, SE EXPIDE LA LEY DEL IMPUESTO SOBRE LA RENTA, Y SE ABROGAN LA LEY DEL IMPUESTO EMPRESARIAL A TASA ÚNICA, Y LA LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO”, PUBLICADO EN EL D.O.F. DE 11 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE ENERO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de octubre de 2007.
 
@@ -53,9 +55,9 @@ I. La Federación, las Entidades Federativas, los Municipios y las entidades de 
 
 II. Las personas morales con fines no lucrativos conforme al Título III de la Ley del Impuesto sobre la Renta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 III. Las personas físicas y morales, por los depósitos en efectivo que se realicen en sus cuentas, hasta por un monto acumulado de $15,000.00, en cada mes del ejercicio fiscal, salvo por las adquisiciones en efectivo de cheques de caja. Por el excedente de dicha cantidad se pagará el impuesto a los depósitos en efectivo en los términos de esta Ley.
 
@@ -67,7 +69,7 @@ IV. Las instituciones del sistema financiero, por los depósitos en efectivo que
 
 V. Las personas físicas, por los depósitos en efectivo realizados en sus cuentas que a su vez sean ingresos por los que no se pague el impuesto sobre la renta en los términos del artículo 109, fracción XII de la Ley del Impuesto sobre la Renta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -75,9 +77,9 @@ VI. Las personas físicas, con excepción de las que tributen en los términos d
 
 Para los efectos del párrafo anterior, las personas físicas que tengan abiertas las cuentas a que se refiere dicho párrafo deberán proporcionar a la institución del sistema financiero de que se trate su clave en el Registro Federal de Contribuyentes, a efecto de que ésta verifique con el Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que para tal efecto emita ese órgano desconcentrado, que dichas personas físicas no son contribuyentes que tributan en el Título IV, Capítulo II, de la Ley del Impuesto sobre la Renta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -93,13 +95,13 @@ I. Recaudar el impuesto a los depósitos en efectivo el último día del mes de 
 
 Las instituciones del sistema financiero recaudarán el impuesto a los depósitos en efectivo indistintamente de cualquiera de las cuentas que tenga abiertas el contribuyente en la institución de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 Tratándose de depósitos a plazo cuyo monto individual exceda de $15,000.00, el impuesto a los depósitos en efectivo se recaudará al momento en el que se realicen tales depósitos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -123,7 +125,7 @@ VIII. Informar a los titulares de las cuentas concentradoras, sobre los depósit
 
 IX. Los titulares de las cuentas concentradoras deberán identificar al beneficiario final del depósito, respecto del cual deberá cumplir con todas las obligaciones establecidas en esta Ley para las instituciones del sistema financiero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -207,7 +209,7 @@ Los depósitos en efectivo realizados en las cuentas concentradoras, se consider
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -219,7 +221,7 @@ III. Cuenta concentradora, a la que tenga a su nombre una institución del siste
 
 IV. Beneficiario final, a la persona física o moral que sea cliente de la institución del sistema financiero titular de una cuenta concentradora.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -237,7 +239,7 @@ e) A las sociedades operadoras de sociedades de inversión.
 
 f) A las sociedades que presten servicios de distribución de acciones de sociedades de inversión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -255,11 +257,11 @@ México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 7 DE DICIEMBRE DE 2009.
 
-DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO
 
 ###### ARTÍCULO SEXTO.
 
@@ -280,3 +282,33 @@ b) A las sociedades y asociaciones a que se refieren los transitorios Primero y 
 ## Transitorio
 
 Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+D.O.F. 11 DE DICIEMBRE DE 2013.
+
+LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se ABROGA la Ley del Impuesto a los Depósitos en Efectivo publicada en el Diario Oficial de la Federación el 1o. de octubre de 2007.
+
+En relación con la abrogación a que se refiere el párrafo anterior, se estará a lo siguiente:
+
+I. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las resoluciones y disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones, autorizaciones o permisos otorgados a título particular, en materia del impuesto establecido en la Ley del Impuesto a los Depósitos en Efectivo que se abroga, sin perjuicio de lo dispuesto en la siguiente fracción.
+
+II. Las obligaciones y los derechos derivados de la Ley del Impuesto a los Depósitos en Efectivo que se abroga conforme al Artículo Séptimo de este Decreto, que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en dicha Ley, deberán cumplirse conforme a los montos, formas y plazos establecidos en dicho ordenamiento y en las demás disposiciones aplicables, así como en las resoluciones a consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hayan otorgado a título particular en materia del impuesto establecido durante la vigencia de la Ley que se abroga.
+
+III. Las instituciones del sistema financiero obligadas a informar, recaudar o enterar el impuesto a los depósitos en efectivo conforme al artículo 4 de la Ley del Impuesto a los Depósitos en Efectivo que se abroga, respecto a operaciones realizadas durante su vigencia, cumplirán con dichas obligaciones en los términos precisados en el citado artículo.
+
+IV. Las instituciones del sistema financiero deberán entregar a los contribuyentes las constancias que acrediten el entero o, en su caso, el importe no recaudado del impuesto a los depósitos en efectivo correspondientes al mes de diciembre de 2013, a más tardar el 10 de enero de 2014, y al ejercicio fiscal de 2013, a más tardar el 15 de febrero de 2014.
+
+V. A más tardar el 15 de febrero de 2014, las instituciones del sistema financiero deberán proporcionar al Servicio de Administración Tributaria la información relativa al importe del impuesto recaudado conforme a la Ley del Impuesto a los Depósitos en Efectivo que se abroga y del pendiente de recaudar por falta de fondos en las cuentas de los contribuyentes o por omisión de la institución de que se trate, en los términos establecidos por el citado órgano desconcentrado mediante reglas de carácter general.
+
+Si de la información que se presente el 15 de febrero de 2014, en relación con el impuesto a los depósitos en efectivo recaudado y el pendiente de recaudar se comprueba que existe un saldo a pagar del citado impuesto, las autoridades notificarán al contribuyente dicha circunstancia y, en su caso, determinarán el crédito fiscal en los términos y condiciones establecidos en los artículos 5 y 6 de la Ley del Impuesto a los Depósitos en Efectivo que se abroga.
+
+VI. El impuesto a los depósitos en efectivo efectivamente pagado durante la vigencia de la Ley del Impuesto a los Depósitos en Efectivo que se abroga que no se haya acreditado, podrá acreditarse, compensarse o solicitarse en devolución hasta agotarlo, en los términos y condiciones establecidos en los artículos 7, 8, 9 y 10 de dicho ordenamiento.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
+
+Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
