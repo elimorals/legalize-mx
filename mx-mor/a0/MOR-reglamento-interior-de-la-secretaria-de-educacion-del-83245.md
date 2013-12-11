@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-educacion-del-83245"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-05"
-last_updated: "2011-10-05"
+last_updated: "2013-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de octubre de 2011.
 
@@ -608,3 +610,17 @@ DR. ALEJANDRO PACHECO GÓMEZ.
 LA PRESENTE HOJA DE FIRMAS ES PARTE INTEGRANTE DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN.
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Educación, publicado en el Periódico Oficial "Tierra y Libertad", número 4924, de fecha cinco de octubre de 2011 y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+TERCERA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las unidades administrativas cuya denominación se modifican o cambian de adscripción, serán continuados en su tramitación por la unidad administrativa que corresponda.
+
+CUARTA. La Secretaría de Educación del Poder Ejecutivo Estatal, deberá emitir o actualizar sus Manuales de Organización, y de Políticas y Procedimientos en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, y en tanto se realiza dicha modificación seguirán vigentes los actuales.
+
+QUINTA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por la persona titular de la Secretaría de Educación del Poder Ejecutivo Estatal.
