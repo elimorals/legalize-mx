@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2013-05-19"
+last_updated: "2013-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 100, PUBLICADO EN EL P.O. 12 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -47,29 +49,45 @@ LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURA
 
 ### CAPÍTULO I. Objeto de la Ley
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto garantizar la protección integral de los Animales que se encuentren dentro del territorio del Estado de Durango.
+La presente Ley es de orden público e interés social y tiene con finalidad fijar las bases y las condiciones de protección y bienestar de los animales que viven bajo la posesión de las Personas y en especial de los animales de compañía, en el territorio del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 2.
 
-La presente Ley tiene como objetivos:
+La presente Ley tiene por objeto:
 
-I. Regular la conducta de los seres humanos hacia las formas de vida y la integridad de los Animales a fin de permitir su reproducción y desarrollo bajo condiciones de bienestar;
+I. Regular la conducta de las Personas hacia las formas de vida y la integridad de los animales a fin de permitir su reproducción y desarrollo bajo condiciones de bienestar;
 
-II. Promover y regular el adecuado manejo, transporte, trato y sacrificio humanitario de los Animales Domésticos, Silvestres, de Abasto, Carga, Tiro, Monta y Labranza, de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
+II. Promover y regular el adecuado manejo, transporte, trato y sacrificio humanitario de los animales domésticos, silvestres, de exhibición, de abasto, de carga, de caza, de tiro, monta y labranza, de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
 
-III. Fomentar la protección, conservación y respeto a la biodiversidad de los Animales, para que exista una convivencia armónica entre éstos y los seres humanos;
+III. Fomentar la protección, conservación y respeto a la biodiversidad de los animales, para que exista una convivencia armónica entre éstos y las Personas;
 
-IV. Establecer la participación y compromiso de las Asociaciones, las instancias gubernamentales competentes y demás organizaciones de la sociedad civil en las campañas de esterilización y sacrificio humanitario de los Animales en los Centros de Asistencia Canina y Felina apegándose a la presente ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables;
+IV. Establecer la participación de las asociaciones, de las instancias gubernamentales competentes y demás organizaciones de la sociedad civil en las campañas de esterilización y sacrificio humanitario de los animales en los Centros de Asistencia Canina y Felina apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables;
 
-V. Diseñar, implementar y evaluar las campañas de educación ambiental relacionadas a la protección y tenencia responsable de los Animales, cuidados básicos y esterilización de los Animales Domésticos de Compañía, en las escuelas del sistema educativo del Estado, así como fomentar la participación activa de las Asociaciones en dichas campañas en los términos de la presente Ley, de los reglamentos municipales de la materia y de las Normas Oficiales Mexicanas aplicables;
+V. Diseñar, implementar y evaluar las campañas de educación ambiental relacionadas a la protección y tenencia responsable de los animales, cuidados básicos y esterilización de los animales domésticos de compañía, en las escuelas del sistema educativo del Estado, así como fomentar la participación activa de las Asociaciones en dichas campañas en los términos de la presente Ley, de los reglamentos municipales de la materia y de las Normas Oficiales Mexicanas aplicables;
 
-VI. Establecer las obligaciones y responsabilidades de los Propietarios, Poseedores y Encargados de los Animales para garantizar su protección integral; y,
+VI. Establecer las obligaciones y responsabilidades de los propietarios, poseedores y encargados de los animales para garantizar su protección integral;
 
-VII. Regular la reproducción, cría, enajenación, albergue, hospedaje y adiestramiento de los Animales Domésticos de Compañía y Animales Silvestres para que estas actividades se realicen en condiciones de bienestar.
+VII. Regular la reproducción, cría, enajenación, albergue, hospedaje y adiestramiento de los animales domésticos de compañía y animales silvestres para que estas actividades se realicen en condiciones de bienestar.
 
-### CAPITULO II. Disposiciones preliminares
+VIII. Proteger a los animales domésticos y silvestres, regulando la vida y el crecimiento natural de las especies de animales no nocivas;
+
+IX. Propiciar el aprovechamiento racional de las especies, con el fin de que se impida la crueldad hacia los animales;
+
+X. Impulsar las técnicas de desarrollo de especies animales y su racional explotación para fines alimenticios, de preservación ecológica y de aprovechamiento económico, utilizando las técnicas más modernas que impidan la crueldad en los procesos de su aplicación;
+
+XI. Proteger la fauna silvestre y sus refugios naturales de acciones destructoras para asegurar su conservación; y
+
+XII. Controlar la reproducción y el desarrollo de la fauna nociva mediante sistemas que eviten la crueldad hacia los animales y no pongan en peligro la salud humana o la existencia o supervivencia del resto de la fauna.
+
+### CAPÍTULO II. Disposiciones preliminares
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 3.
 
@@ -81,13 +99,13 @@ II. Adopción: Acto celebrado entre un Adoptante y una Asociación, o una autori
 
 III. Adoptante: Propietario de un Animal Doméstico de Compañía de origen no-comercial, que voluntariamente decide responsabilizarse de su custodia y atención al celebrar la Adopción con alguna Asociación o autoridad;
 
-IV. Albergue: Lugar en el cual un Animal es alojado, hospedado o abrigado por el ser humano y donde se le proporcionan los cuidados apropiados, para satisfacer sus necesidades básicas de alimentación, atención veterinaria y abrigo, ya sea de forma temporal o permanente, en función de la condición del animal y las posibilidades que éste tenga de ser adoptado por un particular;
+IV. Albergue: Lugar en el cual un Animal es alojado por las Personas para su protección y cuidado;
 
 V. Animales: Seres vivos no humanos con sistemas orgánicos, que sienten y se desplazan voluntariamente o por instinto;
 
-VI. Animales Abandonados: Los animales que habiendo estado bajo el cuidado y protección del ser humano queden sin el cuidado y protección de sus propietarios o poseedores, así como los que libremente deambulan por la vía pública sin contar con placa de identidad u otra forma de identificación y los que se encuentran en los Albergues;
+VI. Animales Abandonados: Los animales que queden sin el cuidado y protección de sus propietarios o poseedores, así como los que libremente deambulan por la vía pública sin contar con placa de identidad u otra forma de identificación y los que se encuentran en los Albergues;
 
-VII. Animal de Abasto: Animales cuyo destino final es el sacrificio para el consumo de su carne o derivados;
+VII. Animal de Abasto: Animales cuyo destino final es el sacrificio para el consumo humano de su carne y/o sus derivados;
 
 VIII. Animales de Asistencia: Son los Animales entrenados para desarrollar actividades de guía y apoyo a las personas con discapacidad;
 
@@ -95,29 +113,29 @@ IX. Animal en Exhibición: Todos aquellos que se encuentran en cautiverio en zoo
 
 X. Animal de Monta, Carga y Tiro: Los caballos, yeguas, ponis, burros, mulas, asnos, reses, sus mezclas y demás análogos que son utilizados por el ser humano para transportar personas o productos o para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado; incluyendo aquellos utilizados en charrería, rodeos y similares.
 
-XI. Animal Callejero Todo animal doméstico de compañía que deambula en las calles, ya sea por condición de abandono o por descuido, o por costumbre del poseedor o encargado y puede o no contar con placa o collar de identificación;
+XI. Animal Callejero: Todo animal doméstico de compañía que deambula en las calles, ya sea por condición de abandono o por descuido, o por costumbre del poseedor o encargado y puede o no contar con placa o collar de identificación;
 
-XII. Animal Doméstico.- Todo Animal que pueda convivir con el ser humano en un ambiente doméstico y vive bajo sus cuidados;
+XII. Animal Doméstico: Todo Animal que pueda convivir con las Personas en un ambiente doméstico y que vive bajo sus cuidados;
 
-XIII. Animal Feral: Todos aquellos animales domésticos que han sido abandonados por los seres humanos y se vuelven silvestres; así como sus descendientes nacidos en ese hábitat;
+XIII. Animal Feral: Todos aquellos animales domésticos que han sido abandonados por las Personas y se vuelven silvestres; así como sus crías nacidas en ese hábitat;
 
-XIV. Animal Potencialmente Peligroso: Todo aquel Animal que por sus características físicas, especie e instinto represente un elemento peligroso o muestre una carga agresiva que pueda atentar contra la integridad física de una persona, de sus bienes, o de otros Animales, conforme a las disposiciones que emita la autoridad que corresponda;
+XIV. Animal Potencialmente Peligroso: Todo aquel Animal que por sus características físicas, especie e instinto represente un elemento peligroso o muestre una carga agresiva que pueda atentar contra la integridad física de una persona, de sus bienes, o de otros Animales;
 
-XV. Animal Silvestre.- Las especies animales no domésticas que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en su hábitat, o poblaciones e individuos de éstas que se encuentran bajo control del hombre;
+XV. Animal Silvestre: Las especies animales no domésticas que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en su hábitat, o poblaciones e individuos de éstas que no se encuentran bajo control de las Personas;
 
-XVI. Animal Silvestre en Cautiverio: Animal Silvestre que ahora se encuentra bajo control del ser humano;
+XVI. Animal Silvestre en Cautiverio: Animal Silvestre que se encuentra bajo control de las Personas;
 
-XVII. Animales para Zooterapia: Son ellos animales que conviven con una persona o grupo humano con fines terapéuticos, con el fin de auxiliar en el tratamiento de diversas enfermedades;
+XVII. Animales para Zooterapia: Animales que conviven con las Personas con fines terapéuticos;
 
 XVIII. Asociaciones: Asociaciones y otras organizaciones no-gubernamentales de carácter civil protectoras de animales debidamente constituidas;
 
 XIX. Autoridad Municipal: La dependencia de la Administración Pública Municipal encargada de la preservación del equilibrio ecológico y la protección del ambiente;
 
-XX. Bienestar Animal: Conjunto de condiciones ambientales que permiten a un Animal la adecuada satisfacción de las condiciones biológicas y ambientales que requiere para desarrollar sus actividades y comportamiento propio de su especie;
+XX. Bienestar Animal: Conjunto de condiciones ambientales que permiten a un Animal la adecuada satisfacción de las condiciones biológicas y ambientales que requiere para su desarrollo y comportamiento propio de su especie;
 
-XXI. Bioparque: Área geográfica ubicada en un amplio espacio natural con límites físicos implementados por el hombre en donde se albergan diferentes especies de Animales para su exhibición y en algunos casos convivencia con el ser humano, con el fin de ofrecer oportunidades de aprendizaje e investigación sobre la relación entre todos los diferentes componentes de los ecosistemas;
+XXI. Bioparque: Área geográfica ubicada en un amplio espacio natural con límites físicos donde se albergan diferentes especies de Animales para su exhibición y en algunos casos para convivencia con las Personas, con el fin de ofrecer oportunidades de aprendizaje e investigación sobre la relación entre todos los diferentes componentes de los ecosistemas;
 
-XXII. Cautiverio: Falta de libertad o aprisionamiento al que es sometido un Animal de manera deliberada por parte del ser humano;
+XXII. Cautiverio: Falta de libertad o aprisionamiento al que es sometido un Animal de manera deliberada por parte de las Personas;
 
 XXIII. Centro de Asistencia Canino y Felino: Los Centros de Atención Antirrábico y de Esterilización dependientes de las autoridades municipales;
 
@@ -125,7 +143,7 @@ XXIV. Certificado de Garantía: Documento que establece la responsabilidad que a
 
 XXV. Certificado de Salud: Documento mediante el cual se describe el estado normal de las funciones orgánicas de un Animal y en el que se asienta que el mismo se encuentra clínicamente sano, siendo emitido y avalado por un médico veterinario;
 
-XXVI. Cuidados Apropiados: Trato respetuoso hacia los Animales, contemplando sus necesidades físicas, de espacio, alimentación, resguardo, y de acuerdo a las necesidades especificas de su especie, en los términos de las Normas Oficiales Mexicanas y otros ordenamientos legales aplicables;
+XXVI. Cuidados Apropiados: Trato respetuoso hacia los Animales que comprende sus necesidades físicas, de espacio, alimentación, resguardo, y de acuerdo a las necesidades especificas de su especie, en los términos de las Normas Oficiales Mexicanas y otros ordenamientos legales aplicables;
 
 XXVII. Encargado: Persona física o moral que sin ser Poseedor o Propietario de un Animal se encuentra a cargo del mismo temporalmente y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
 
@@ -137,101 +155,189 @@ XXX. Establecimiento: Local comercial, destinado a la exposición y venta de Ani
 
 XXXI. Esterilización de Animales: Cirugía o método realizado por un médico veterinario para evitar su reproducción, que son la castración para los machos y la ovariohisterectomía para las hembras;
 
-XXXII. Fenotipo: Cualquier característica o rasgo observable de un organismo tales como su morfología, desarrollo, fisiología y comportamiento;
+XXXII. Fenotipo: Cualquier característica o rasgo observable de un Animal tales como su morfología, desarrollo, fisiología y comportamiento;
 
 XXXIII. Función Zootécnica: Las diversas funciones o trabajos que puede desarrollar un Animal de acuerdo a su especie o raza, en función de los intereses humanos;
 
-XXXIV. Guía Informativa: Documento elaborado por el proveedor de animales en donde se incluye la garantía; se informe y describa al comprador las características del Animal; Cuidados Apropiados y Espacio Vital, para el Bienestar del Animal y las demás obligaciones de esta Ley;
+XXXIV. Guía Informativa: Documento elaborado por el proveedor de animales en donde se incluye la garantía; se informe y describa al comprador las características del Animal, Cuidados Apropiados y Espacio Vital, para el Bienestar del Animal y las demás obligaciones de esta Ley;
 
 XXXV. Humanitario: Característica del trato o acción que implica ser benigno o aliviar de una forma indolora las enfermedades que padece un Animal;
 
-XXXVI. IDENTIFICACION: collar, placa, tatuaje o chip que contenga los datos que permitan identificar al propietario o tenedor responsable del animal;
+XXXVI. Identificación: collar, placa, tatuaje o chip que contenga los datos que permitan identificar al propietario o tenedor responsable del animal;
 
-XXXVII. Insensibilización: Acto por el cual se le somete a un Animal inhibiendo toda respuesta a cualquier estimulo que provoque dolor o malestar;
+XXXVII. Insensibilización: Acto por el cual se le somete a un Animal inhibiendo toda respuesta a cualquier estímulo que provoque dolor o malestar;
 
 XXXVIII. Ley: Ley de Protección y Bienestar Animal para la Sustentabilidad en el Estado de Durango;
 
 XXXIX. Ley de Gestión Ambiental: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
 
-XL. Maltrato: Acto de violencia hacia los Animales de cualquier naturaleza, así como la falta de atención a las necesidades fisiológicas, afectivas y de resguardo de un animal de conformidad con los requerimientos propios de su especie, así como cualquier otra actividad que ocasione enfermedades, deterioro a la salud, lesiones o mutilaciones que ponga en peligro su vida; sean estos por negligencia, omisión o intención.
+XL. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o afecten su salud y bienestar, así como la sobreexplotación de su trabajo.
 
-Pueden ejecutarse de los siguientes modos.
+XLI. Médico Veterinario: Profesional al servicio de la salud de los animales que cuenta con los conocimientos científico-técnicos y ético-humanísticos dirigidos al mejoramiento de la calidad de vida de los animales y el desarrollo sustentable. Promueve y ejecuta acciones tendientes a la prevención, diagnóstico clínico terapéutica médica y quirúrgica y que cuenta con cédula profesional de médico veterinario zootecnista.
 
-a) Actos de Crueldad cometidos en perjuicio de los animales:
-
-Son los que realizan u omiten las personas de manera voluntaria y conciente (sic) para hacer sufrir causar dolor, molestia física o anímica a los animales de su propiedad, ajenos, abandonados o callejeros.
-
-b) Actos irresponsables cometidos en perjuicio de los animales:
-
-Son los que cometen u omiten las personas en contra de los animales propios o ajenos que ocasionan un perjuicio o deterioro grave en el animal.
-
-c) Actos criminales cometidos en perjuicio de los animales:
-
-Quedan comprendidos aquellos actos u omisiones graves realizadas intencionalmente por las personas propietarias o cuidadores de animales contra la seguridad, bienestar y vida de los mismos.
-
-XLI. MEDICO VETERINARIO.- Profesional al servicio de la salud de los animales que cuenta con los conocimientos científico-técnicos y ético-humanísticos dirigidos al mejoramiento de la calidad de vida de los animales y el desarrollo sustentable en el sector pecuario. Promueve y ejecuta acciones tendientes a la prevención, diagnóstico clínico terapéutica médica y quirúrgica y que cuenta con cédula profesional de médico veterinario zootecnista.
-
-XLII. Personal capacitado: Son los médicos veterinarios zootecnistas y otros técnicos en materia de cuidado, atención, manejo y aprovechamiento animal, que presten sus servicios y que cuenten con constancia oficial de estudios avalada por las autoridades competentes;
+XLII. Personal capacitado: Son los médicos veterinarios y otros técnicos en materia de cuidado, atención, manejo y aprovechamiento animal, que presten sus servicios y que cuenten con constancia oficial de estudios avalada por las autoridades competentes;
 
 XLIII. Plan de contingencia: Instrumento que se deriva de un análisis de riesgo de un establecimiento, en donde se identifican aquellas amenazas naturales e inducidas que pueden afectar a la salud de los seres vivos estableciendo las contramedidas más adecuadas y las diferentes alternativas para su estancia;
 
-XLIV. Poseedor: Persona física o moral que, sin tener el título de dueño o sin ser Encargado, posee un Animal y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+XLIV. Poseedor: Persona física o moral que, sin tener el título de propietario o sin ser Encargado, posee un Animal y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
 
 XLV. Propietario: Persona física o moral que posee un Animal a título de dueño y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
 
-XLVI. Protocolo de Adopción: Lineamientos establecidos en conjunto por las asociaciones protectoras y los ayuntamientos para entregar animales en adopción a personas que llenen los requisitos para tal fin;
+XLVI. Protocolo de Adopción: Lineamientos establecidos en conjunto por las asociaciones protectoras y los Ayuntamientos para entregar animales en adopción a personas que llenen los requisitos para tal fin;
 
 XLVII. Refugio: Lugar que asemeja las condiciones naturales donde un Animal puede albergarse, morar y resguardarse de las inclemencias del clima;
 
 XLVIII. Riesgo Zoosanitario: Probabilidad de transmisión de enfermedades de los Animales a otros animales o al ser humano;
 
-XLIX. Sacrificio Humanitario: Procedimiento realizado por un médico veterinario titulado, por el cual se provoca la muerte al Animal sin sufrimiento, ya sea por métodos físicos o químicos, sin que el Animal muestre signos de angustia, verificando que haya ocurrido la muerte del Animal en cuestión al constatar la ausencia de signos vitales;
+XLIX. Sacrificio Humanitario: Procedimiento realizado por un médico veterinario por el cual se provoca la muerte al Animal sin sufrimiento, ya sea por métodos físicos o químicos, sin que el Animal muestre signos de angustia, verificando que haya ocurrido la muerte del Animal en cuestión al constatar la ausencia de signos vitales;
 
-XLX (SIC). Sacrificio Humanitario de emergencia: Sacrificio necesario con métodos humanitarios que se practica en cualquier Animal que haya sufrido lesiones traumáticas o afecciones que le causen dolor y sufrimiento; o para aquellos Animales que al estar fuera de control puedan causar algún daño o lesión al ser humano u otros Animales;
+L. Sacrificio Humanitario de emergencia: Sacrificio necesario con métodos humanitarios que se practica en cualquier Animal que haya sufrido lesiones traumáticas o afecciones que le causen dolor y sufrimiento; o para aquellos Animales que al estar fuera de control puedan causar algún daño o lesión a las Personas u otros Animales;
 
-XLXI (SIC). Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales del Estado;
+LI. Secretaría: La Secretaría de Recursos Naturales y Medio Ambiente del Estado;
 
-XLXII (SIC). Tatuaje: Identificador numérico único y permanente tatuado sobre la piel de los animales y que tiene un registro en la Secretaría o en cualquier otra dependencia de la administración pública;
+LII. SAGDR: La Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado;
 
-XLXIII (SIC). Tenencia Responsable: Conjunto de derechos y responsabilidades de personas físicas o morales que conlleva la propiedad, posesión o custodia de un Animal, y el proporcionarle los Cuidados Apropiados y el Espacio Vital, para el Bienestar Animal;
+LIII. Tatuaje: Identificador numérico único y permanente tatuado sobre la piel de los animales y que tiene un registro en la SAGDR o en cualquier otra dependencia de la administración pública;
 
-XLXIV (SIC). Uncimiento: Acción de colocar los arreos, riendas y sillas a los Animales de carga, tiro o monta; y
+LIV. Tenencia Responsable: Conjunto de derechos y responsabilidades de Personas físicas o morales que conlleva la propiedad, posesión o custodia de un animal, y el proporcionarle los cuidados apropiados y el espacio vital, para el bienestar animal;
 
-XLXV (SIC). Vehículos de Tracción Animal: Carros, carretas, instrumentos de labranza o carretones que para su movilización requieren ser tirados o jalados por un Animal.
+LV. Uncimiento: Acción de colocar los arreos, riendas y sillas a los Animales de carga, tiro o monta; y
 
-Los términos definidos en este artículo podrán ser utilizados indistintamente en singular o plural en el cuerpo de esta Ley a fin de adecuarlos al sentido gramatical correspondiente, sin que por ello se pierda el significado otorgado en el presente artículo.
+LVI. Vehículos de Tracción Animal: Carros, carretas, instrumentos de labranza o carretones que para su movilización requieren ser tirados o jalados por un Animal.
+
+Los términos definidos en este artículo podrán ser utilizados indistintamente en singular o plural, conforme a la presente Ley a fin de adecuarlos al sentido gramatical correspondiente, sin que por ello se pierda el significado otorgado en el presente artículo.
+
+(REPUBLICADO, P.O. 12 DE DICIEMBRE DE 2013)
 
 ###### Artículo 4.
 
 En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Gestión Ambiental, la Ley de Salud del Estado de Durango, la Ley Ganadera para el Estado de Durango y demás leyes, reglamentos, normas y ordenamientos aplicables que no se opongan a la misma.
 
-### CAPÍTULO I. De los Propietarios, Poseedores y Encargados de los Animales
+### CAPÍTULO III. De las autoridades
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 5.
 
 La aplicación de esta Ley corresponde:
 
-I. Al Poder Ejecutivo del Estado, a través de la Secretaría de Medio Ambiente y Recursos Naturales y la Secretaría de Salud y demás dependencias
+I. Al Poder Ejecutivo del Estado, a través de la Secretaría, SAGDR, la Secretaría de Salud, Secretaría de Educación y demás dependencias sanitarias del Estado, en el ámbito de sus respectivas competencias; y,
 
-II. sanitarias del Estado, en el ámbito de sus respectivas competencias; y,
+II. A los Municipios del Estado, por conducto de las dependencias que se determine en sus Reglamentos.
 
-III. A las autoridades de los Municipios del Estado.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 6.
 
-La Secretaría, en coordinación con la Secretaría de Salud, las autoridades de educación, en el ámbito de sus respectivas competencias, y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y de la tenencia responsable de Animales tendientes a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
+La Secretaría, en coordinación con la Secretaría de Salud, la Secretaría de Educación, en el ámbito de sus respectivas competencias y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y de la tenencia responsable de Animales tendientes a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 7.
 
-Todo Propietario, Poseedor o Encargado de un Animal queda sujeto a las disposiciones de la presente Ley y obligado a su tenencia responsable.
+La Secretaría de Educación promoverá en el ámbito de su competencia, una cultura de respeto a los animales.
 
-Cuando el Animal cause un daño a terceros, en su persona o en sus bienes, su Propietario, Poseedor o Encargado será responsable.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 8.
 
+Corresponde al Ejecutivo del Estado, a través de la Secretaría:
+
+I. Fomentar y apoyar la creación de Sociedades, Asociaciones o Grupos de Protección de Animales;
+
+II. Conformar y actualizar, conforme a la información que le proporcionen los Municipios, el registro estatal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
+
+III. Promover campañas de difusión en materia de protección y respeto a los Animales;
+
+IV. Promover la creación de Centros de Control Animal ante los Ayuntamientos del Estado;
+
+V. Celebrar convenios con la Federación, los municipios, otras Entidades Federativas, así como con organismos e instituciones de los sectores social, académico y privado, relacionados con la materia de la presente Ley;
+
+VI. Coadyuvar, con la autoridad competente, en la ejecución de las medidas zoosanitarias, de higiene y de buen funcionamiento para los establecimientos con animales;
+
+VIII (SIC). Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias de su competencia;
+
+IX. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales y la creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
+
+X. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 9.
+
+Las Autoridades Municipales tendrán las siguientes facultades:
+
+I. Vigilar, en coordinación con las autoridades competentes, la instalación de sitios adecuados para la comercialización legal de Animales Domésticos y otorgar la autorización correspondiente;
+
+II. Ordenar la práctica de visitas de inspección y vigilancia, con el objeto de verificar que las condiciones en que se encuentran los Animales sean las establecidas por la Ley y sus disposiciones reglamentarias;
+
+III. Expedir y, en su caso, revocar las autorizaciones, licencias y/o permisos que sean necesarios para realizar las actividades dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
+
+IV. Promover campañas de difusión en materia de reproducción responsable y esterilización de animales de compañía;
+
+V. Conformar y actualizar el registro municipal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con Animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de la fauna, y proporcionar la información que se contenga en los mismos a la Secretaría para la integración del Registro Estatal; y
+
+VI. Las demás que establezca la presente Ley y los Reglamentos Municipales que se relacionen con ésta.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 10.
+
+Los Ayuntamientos, establecerán un registro de personas físicas o morales que sean:
+
+I. Propietarios, Poseedores o Encargados de los Animales Potencialmente Peligrosos y Animales Domésticos de Compañía;
+
+II. Quienes realicen actividades de reproducción, cría o enajenación de Animales Domésticos de Compañía; y,
+
+III. Quienes realicen actividades de exhibición, pensión, Adiestramiento, o Albergue de Animales Domésticos de Compañía.
+
+Las autorizaciones y el procedimiento de registro serán expedidos por la Autoridad Municipal, en los términos que se determinen en la presente Ley, los Reglamentos Municipales y demás disposiciones aplicables. Dichas autorizaciones serán independientes de las que se expidan por alguna otra autoridad competente, conforme a otros ordenamientos aplicables.
+
+La inscripción a dicho registro es de carácter obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada dos años, en el caso de cambio de propietario, poseedor o encargado deberá informarlo a la Autoridad Municipal para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
+
+REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)
+
+###### Artículo 11.
+
+La SAGDR en el ámbito de su competencia, establecerá un registro de personas físicas o morales que sean:
+
+I. Propietarios, poseedores o encargados de Animales Silvestres, de Carga y Tiro, y de Abasto;
+
+II. Quienes realicen actividades de reproducción, cría o enajenación de animales silvestres, de carga y Tiro, y de Abasto;
+
+III. Propietarios, Poseedores o Encargados de los Animales Potencialmente Peligrosos, cuando sean Animales Silvestres, de Carga y Tiro, y de Abasto; y
+
+IV Quiénes realicen actividades de exhibición, pensión, Adiestramiento, o Albergue de Animales Silvestres, de Carga y Tiro, y de Abasto.
+
+Las autorizaciones y el procedimiento de registro serán expedidos y definidos por la SAGDR. Dichas autorizaciones serán independientes de las autorizaciones que expidan las demás autoridades competentes.
+
+La inscripción a dicho registro es de carácter obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada año. En el caso de cambio de propietario, poseedor o encargado deberá comunicarse a la SAGDR para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 12.
+
+Los Municipios deberán contar con al menos un Centro de Asistencia Canino y Felino, apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables.
+
+## TITULO SEGUNDO. OBLIGACIONES
+
+### CAPÍTULO I. De los Propietarios, Poseedores y Encargados de los Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 13.
+
+Todo Propietario, Poseedor o Encargado de un Animal queda sujeto a las disposiciones de la presente Ley y a los Reglamentos Municipales que se expidan con arreglo a la misma.
+
+Cuando un Animal cause un daño a terceros, en su persona o en sus bienes, su Propietario, Poseedor o Encargado, según sea el caso, será responsable del resarcimiento del mismo en los términos que disponga (sic) las Leyes aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 14.
+
 Quien sea Propietario, Poseedor o Encargado de un Animal Potencialmente Peligroso deberá:
 
-I. Estar debidamente inscritos en el registro que establecen los artículos 15 y 16, según corresponda, de esta Ley;
+I. Estar debidamente inscritos (sic) en el registro que establecen los artículos 10 y 11, según corresponda, de esta Ley;
 
 II. Colocar avisos que alerten del riesgo en el lugar donde se encuentre el Animal;
 
@@ -241,39 +347,47 @@ IV. Comprobar que se cuenta con la infraestructura material, técnica y humana p
 
 V. Contar con la cartilla de vacunación del animal actualizada, según corresponda conforme a su especie y demás disposiciones aplicables.
 
-###### Artículo 9.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 15.
 
 No se permitirá el uso de Animales para efectuar prácticas de entrenamiento de animales de guardia, protección o ataque, o para verificar su agresividad.
 
-###### Artículo 10.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 16.
 
 Quedan prohibidas las peleas de perros, así como azuzarlos para que se acometan entre ellos y hacer de las peleas así provocadas un espectáculo público o privado, así como facilitar inmuebles a título oneroso o gratuito, para que tengan lugar dichas peleas.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Se prohíbe utilizar Animales para prácticas y competencias de tiro al blanco. La Secretaria y los municipios en el ámbito de sus respectivas competencias, vigilarán el estricto apego a esta disposición.
+###### Artículo 17.
 
-###### Artículo 12.
+Se prohíbe utilizar Animales para prácticas y competencias de tiro al blanco. Los Municipios en el ámbito de sus respectivas competencias, vigilarán el estricto apego a esta disposición.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 18.
 
 En los lugares en los que se lleve a cabo actividades de recreación, exhibición y cautiverio de Animales, tales como criaderos, tiendas de Animales, circos, ferias, zoológicos, parques de diversiones, Bioparques, acuarios y colecciones privadas de Animales, se deberá proporcionar a los Animales áreas adecuadas y en la medida de lo posible, condiciones de hábitat que emulen a las naturales según la especie, así como su desarrollo armónico a través de la implementación de programas de Bienestar Animal, garantizando la seguridad de éstos y de las personas, debiendo contar con las autorizaciones, permisos y licencias que resulten aplicables.
 
-## TITULO SEGUNDO. OBLIGACIONES
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO II. De las Autoridades
-
-###### Artículo 13.
+###### Artículo 19.
 
 Queda prohibido ofrecer y proporcionar alimentos u objetos, de parte del público visitante, a los Animales que permanezcan en cautiverio en acuarios, Bioparques, criaderos, circos, ferias, tiendas de Animales, parques de diversiones y zoológicos, exceptuando los casos en los cuales en dichos lugares se proporcione el alimento para la convivencia con el Animal.
 
-Será solidaria la responsabilidad de la persona visitante, y en su caso con el Propietario, Poseedor o Encargado del Animal, que negligente o dolosamente permita o proporcione, según sea el caso, alimentos u objetos cuya ingestión o presencia cause daño al Animal, de las sanciones administrativas y gastos veterinarios para restablecer la salud del Animal.
+Será solidaria la responsabilidad de la persona visitante, y en su caso con el Propietario, Poseedor o Encargado del Animal, que negligente o dolosamente permita o proporcione, según sea el caso, alimentos u objetos cuya ingestión o presencia cause daño al. Animal, de las sanciones administrativas y gastos veterinarios para restablecer la salud del Animal.
 
-###### Artículo 14.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 20.
 
 El Propietario, Poseedor o Encargado de un Animal tendrá las siguientes obligaciones:
 
-I. Esterilizar a los Animales Domésticos de Compañía, a partir de los dos meses de vida, quedando prohibida la reproducción de éstos, salvo que el criador se encuentre registrado como tal ante la Secretaría y cumpla con los requisitos y obligaciones para la cría, enajenación y exhibición de Animales, en términos de esta Ley, justificando además el propósito de la crianza para efecto de evitar el detrimento de la raza; como consecuencia de taras genéticas.
+I. Esterilizar a los Animales Domésticos de Compañía, a partir de los dos meses de vida, quedando prohibida la reproducción de éstos, salvo que el criador se encuentre registrado como tal ante la Autoridad competente y cumpla con los requisitos y obligaciones para la cría, enajenación y exhibición de Animales, en términos de esta Ley, justificando además el propósito de la crianza para efecto de evitar el detrimento de la raza; como consecuencia de taras genéticas.
 
-II. Asegurar, para el caso de los Animales Domésticos de Compañía, que porten en su cuerpo de forma permanente la placa de identificación y/ó tatuaje, y al salir a la vía pública contar con las medidas necesarias de seguridad tales como el collar y la correa de manera obligatoria, así como el uso del bozal, en caso de ser necesario;
+II. Asegurar, para el caso de los Animales Domésticos de Compañía, que porten en su cuerpo de forma permanente la placa de identificación, chip y/o tatuaje, y al salir a la vía pública contar con las medidas necesarias de seguridad tales como el collar y la correa de manera obligatoria, así como el uso del bozal, en caso de ser necesario;
 
 III. Suministrarle al Animal los Cuidados Apropiados atendiendo a la especie, hábitos naturales, raza y edad, que permita la ingestión, y satisfaga las necesidades instintivas, metabólicas y fisiológicas de su cuerpo, así como las atenciones afectivas para su desarrollo;
 
@@ -285,57 +399,155 @@ VI. Proveer al Animal Silvestre en Cautiverio, de un espacio vital que cumpla co
 
 VII. Proporcionar al Animal la higiene necesaria tanto en su cuerpo como en su área de estancia;
 
-VIII. En caso de que impere la necesidad de llevar a cabo el sacrificio del Animal, deberá verificar que se practique por personal calificado y que el establecimiento en el cual se vaya a realizar cumpla con las disposiciones aplicables, así como que se empleen las técnicas necesarias para la Insensibilización del animal antes del acto;
+VIII. En caso de que impere la necesidad de llevar a cabo el sacrificio del Animal deberá verificar que se practique por personal calificado y que el establecimiento en el cual se vaya a realizar cumpla con las disposiciones aplicables, así como que se empleen las técnicas necesarias para la Insensibilización del animal antes del acto;
 
 IX. No abandonar a los Animales que tenga bajo su custodia o bajo cualquier titulo legal o encargo, así como no permitir que éstos salgan de su área de resguardo sin supervisión o control;
 
 X. Proporcionar preferentemente a los Animales de Carga, Tiro y Monta el tipo de herraduras y accesorios adecuados que se utilicen en zonas urbanizadas o asfaltadas. Es obligatorio el mantenimiento del herraje con la frecuencia que en cada caso sea requerida para garantizar el Bienestar Animal;
 
-XI. Evitar golpear y maltratar con brutalidad al Animal destinado a la carga, labranza, tiro o monta, para el adecuado desempeño de su trabajo, y
+XI. Evitar maltratar con brutalidad al Animal destinado a la carga, labranza, tiro o monta, para el adecuado desempeño de su trabajo, y
 
 XII. Las demás previstas en la presente Ley y en los reglamentos municipales de la materia.
 
-###### Artículo 15.
+### CAPÍTULO II. De los Animales Domésticos
 
-Los Ayuntamientos, establecerán un registro de personas físicas y morales que sean:
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-I. Propietarios, Poseedores o Encargados de los Animales Potencialmente Peligrosos y Animales Domésticos de Compañía;
+###### Artículo 21.
 
-II. Quienes realicen actividades de reproducción, cría o enajenación de Animales Domésticos de Compañía; y,
+Los animales domésticos abandonados o callejeros cuyo dueño se ignore se reputarán como mostrencos para todos los efectos legales y deberán ser retenidos y custodiados por las autoridades en lugares adecuados o apropiados o bien confinados a las asociaciones protectoras de animales.
 
-III. Quienes realicen actividades de exhibición, pensión, Adiestramiento, o Albergue de Animales Domésticos de Compañía.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Las autorizaciones y el procedimiento de registro serán expedidos y definidos por la Secretaría. Dichas autorizaciones serán independientes de las autorizaciones que expidan las demás autoridades competentes.
+###### Artículo 22.
 
-La inscripción a dicho registro es de carácter gratuito y obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada dos años, en el caso de cambio de propietario, poseedor o encargado deberá comunicarse a la Secretaría para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
+Todo propietario, poseedor o encargado de un animal que voluntariamente lo abandone y cauce por tal motivo un daño a terceros, será responsable del animal y de los perjuicios que ocasione.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado, en el ámbito de su competencia, establecerá un registro de personas físicas y morales que sean:
+###### Artículo 23.
 
-I. Propietarios, poseedores o encargados de Animales Silvestres, de Carga y Tiro, y de Abasto;
+Cualquier acto de crueldad hacia un animal doméstico, ya sea intencional o imprudencial, será sancionado en los términos de la presente Ley y demás disposiciones legales aplicables.
 
-II. Quienes realicen actividades de reproducción, cría o enajenación de Animales Silvestres, de Carga y Tiro, y de Abasto;
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-III. Propietarios, Poseedores o Encargados de los Animales Potencialmente Peligrosos, cuando sean Animales Silvestres, de Carga y Tiro, y de Abasto; y
+###### Artículo 24.
 
-IV. Quienes realicen actividades de exhibición, pensión, Adiestramiento, o Albergue de Animales Silvestres, de Carga y Tiro, y de Abasto.
+Son actos de crueldad a los animales domésticos:
 
-Las autorizaciones y el procedimiento de registro serán expedidos y definidos por la Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado. Dichas autorizaciones serán independientes de las autorizaciones que expidan las demás autoridades competentes.
+I. Los actos u omisiones que sean susceptibles de causar a un animal dolores o sufrimientos considerables o que afecten gravemente su salud e integridad física;
 
-La inscripción a dicho registro es de carácter obligatorio y para mantenerlo vigente, el interesado deberá renovarla cada año. En el caso de cambio de propietario, poseedor o encargado deberá comunicarse a la Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado para los efectos a que haya a lugar, conforme a los lineamientos que ésta expida.
+II. El torturar o maltratar a un animal por maldad, brutalidad, egoísmo o grave negligencia;
 
-###### Artículo 17.
+III. El descuidar la morada y las condiciones de ventilación, movilidad, higiene y albergue de un animal, a punto tal que esto pueda causarles sed, insolación, dolores considerables o atente gravemente contra su salud; y
 
-Los Municipios deberán contar con al menos un Centro de Asistencia Canino y Felino, apegándose a la presente Ley, a los reglamentos municipales de la materia y a las Normas Oficiales Mexicanas aplicables.
+IV. El no proporcionarles una alimentación suficiente para poder cubrir sus necesidades vitales.
 
-###### Artículo 18.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Para la enajenación de Animales que deban registrarse ante la Secretaría o la autoridad que corresponda de conformidad con los artículos que anteceden, el propietario deberá dar aviso de la enajenación del Animal a la Secretaría o a la Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado, según sea el caso, dentro de los siguientes sesenta días naturales contados a partir de la fecha de su enajenación, proporcionando para tal efecto los datos del nuevo propietario,
+###### Artículo 25.
 
-El propietario que enajene un Animal sin dar aviso a la Secretaria o a la Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado, además de las sanciones administrativas correspondientes, será responsable de los daños y perjuicios que ocasione el Animal que se encuentre registrado a su nombre. De la misma manera, las Asociaciones realizarán el aviso a la Secretaria al que se refiere el presente artículo.
+Toda Persona física o moral que se dedique a la cría de animales domésticos está obligada a brindarles en su desarrollo un trato humanitario, de acuerdo a los adelantos científicos y técnicos que puedan satisfacer el comportamiento natural de su especie y utilizando para ello las condiciones de espacio e higiene que permitan tal desarrollo.
 
-###### Artículo 19.
+### CAPÍTULO III. De los Animales Silvestres en Cautiverio
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 26.
+
+Los zoológicos que operen en el Estado estarán a cargo de las autoridades estatales o municipales y se ajustarán a los reglamentos de funcionamiento que al efecto expidan las autoridades competentes y tendrán como objetivo central la educación ecológica, el respeto al medio ambiente y la protección para su reproducción y desarrollo de las especies.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 27.
+
+Los zoológicos deberán mantener a los animales en instalaciones amplias, de manera que se les permita la libertad de movimiento y la satisfacción de sus necesidades vitales, así como asegurar las condiciones de seguridad pública e higiene. Iguales medidas deberán adoptar los circos y ferias que exhiban o utilicen animales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 28.
+
+Las autoridades podrán autorizar la operación de zoológicos a cargo de particulares cuando éstos cubran los requisitos sanitarios y los reglamentos de funcionamiento y seguridad pública que emitan las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 29.
+
+Los particulares que obtengan las autorizaciones de funcionamiento a que se refiere el artículo anterior deberán cumplir estrictamente con las disposiciones de esta Ley y demás disposiciones aplicables a fin de mantener su autorización de funcionamiento, la cual deberá ser refrendada anualmente y expresamente por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 30.
+
+En todo caso la dirección de los zoológicos estará a cargo de un médico veterinario o especialista equivalente, quien otorgará una responsiva sobre la seguridad de los visitantes, de los trabajadores del zoológico y sobre el cuidado de los animales en cautiverio.
+
+### CAPÍTULO IV. De los Animales Silvestres
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 31.
+
+Ninguna persona tiene derecho a apropiarse de animales silvestres o a mantenerlos en cautiverio, salvo que disponga de la autorización de las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 32.
+
+Las autoridades estatales y municipales, los clubes de caza, las Asociaciones Civiles y los habitantes en general del Estado, coadyuvarán con las autoridades federales competentes para garantizar la conservación, restauración y fomento de la fauna silvestre que existe en la entidad y en el cumplimiento de las disposiciones en materia de comercio exterior.
+
+### CAPÍTULO V. De la Caza
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 33.
+
+Queda expresamente prohibida la caza de cualquier especie animal silvestre en el Estado de Durango a excepción de la que se efectúe en aquellos cotos de caza que las autoridades fijen para fines deportivos, conforme a las Leyes y reglamentos aplicables. Se entiende por coto de caza una superficie delimitada y destinada por el Ejecutivo de la Unión a la caza deportiva, en los términos de las disposiciones federales aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 34.
+
+El ejercicio del derecho de caza se regirá por los reglamentos administrativos y en todo caso se observarán las siguientes reglas:
+
+a) Se considera capturado el animal que ha sido muerto por el cazador durante el acto venatorio y también el que está preso en redes;
+
+b) Si la presa herida muere en terrenos ajenos, el propietario de éstos o quien lo presente, deberá entregarla al cazador o permitir que entre a buscarla y en todo caso deberá mostrar la autorización administrativa para la caza, y en caso de no disponer de la misma el propietario deberá dar aviso inmediato a la autoridad administrativa correspondiente; y
+
+c) El propietario que infrinja el inciso anterior pagará el valor de la pieza y el cazador perderá ésta si entra a buscarla sin permiso de aquel o sin disponer de la autorización administrativa correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DICIEMBRE DE 2013)</small>
+
+###### Artículo 35.
+
+Las curtidurías, tenerías y establecimientos de taxidermia que se dediquen a la preparación de pieles de animales silvestres, están obligadas a requerir del interesado el permiso correspondiente y a llevar un libro de control de las piezas preparadas.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 36.
+
+Los establecimientos a que se refiere el artículo anterior deberán disponer de una autorización expresa de la autoridad sanitaria competente para su funcionamiento.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 37.
+
+Las autoridades estatales y municipales coadyuvarán con las autoridades federales en la prevención y persecución de los delitos y faltas de caza que se señalan en la Ley Federal de la materia y en el título quinto de esta Ley.
+
+## TITULO TERCERO. CUIDADO ANIMAL
+
+### CAPÍTULO I. Disposiciones Generales de la Enajenación de Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 38.
+
+Para la enajenación de Animales en el Estado de Durango que deban registrarse ante la Autoridad Municipal o ante la SAGDR, de conformidad con las disposiciones de esta Ley, el propietario deberá dar aviso de la enajenación del Animal a la Autoridad que corresponda, según sea el caso, dentro de los siguientes sesenta días naturales contados a partir de la fecha de su enajenación, proporcionando para tal efecto los datos del nuevo propietario.
+
+El propietario que enajene un Animal sin dar aviso a la Autoridad competente, además de las sanciones administrativas correspondientes, será responsable de los daños y perjuicios que ocasione el Animal que se encuentre registrado a su nombre. De la misma manera, las Asociaciones realizarán el aviso a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 39.
 
 Queda prohibida la Enajenación de Animales en los siguientes casos:
 
@@ -345,121 +557,149 @@ II. En la vía pública y en general en todos aquellos lugares que no cuenten co
 
 III. En el caso de los Animales Domésticos de Compañía, se prohíbe su uso como artículos promocionales, premios en sorteos, rifas, loterías o promociones comerciales;
 
-IV. Cuando se trate de Animales Domésticos de Compañía que no estén previamente esterilizados, salvo aquellos que sean enajenados a personas físicas o morales que estén debidamente inscritos en el registro para la reproducción de Animales Domésticos de compañía para ser utilizados en la reproducción como pie de cría y cuyo propósito de crianza esté debidamente justificado a efecto de evitar el detrimento de la raza como consecuencia de taras genéticas.
+IV. Cuando se trate de Animales Domésticos de Compañía que no estén previamente esterilizados, salvo aquellos que sean enajenados a Personas físicas o morales que estén debidamente inscritos en el registro para la reproducción de Animales Domésticos de compañía para ser utilizados en la reproducción como pie de cría y cuyo propósito de crianza esté debidamente justificado a efecto de evitar el detrimento de la raza como consecuencia de taras genéticas.
 
 V. Cuando se trate de Animales Domésticos de Compañía con edad menor a dos meses; ó,
 
-VI. La que se realice por personas físicas o morales que no estén debidamente inscritas en el registro a que se refieren los artículos 15 y 16 de esta Ley.
+VI. La que se realice por Personas físicas o morales que no estén debidamente inscritas en el registro a que se refieren los artículos 10 y 11 de esta Ley.
 
-###### Artículo 20.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-La utilización de Animales en exhibiciones o eventos de los permitidos por esta Ley requiere la autorización previa y por escrito de la Secretaría o de la Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado, según corresponda, conforme al procedimiento que al efecto se establezca.
+###### Artículo 40.
 
-En todos los casos la Secretaría y la Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado, según corresponda vigilará que la actividad se realice bajo condiciones de Bienestar Animal, sin incidir en actos de maltrato o crueldad.
+La utilización de Animales en exhibiciones o eventos de los permitidos por esta Ley requiere la autorización previa y por escrito de la Autoridad competente, según corresponda, conforme al procedimiento que al efecto se establezca.
+
+En todos los casos la SAGDR y los Municipios, según corresponda, vigilarán que la actividad se realice bajo condiciones de Bienestar Animal, sin incidir en actos de maltrato o crueldad.
 
 Los organizadores de dichas exhibiciones y eventos, así como los expositores, serán responsables del maltrato animal y de las violaciones a esta Ley y ambos podrán ser objeto de las sanciones a que se refiere la presente Ley y demás ordenamientos jurídicos aplicables.
 
-### CAPÍTULO I. Disposiciones Generales de la Enajenación de Animales
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 21.
+###### Artículo 41.
 
-Las personas físicas y morales que realicen actividades de enajenación y exhibición de Animales que arriben al territorio del Estado con Animales de otras entidades federativas con el objetivo de trasladar su dominio, deberán cumplir y quedarán sujetas a todas y cada una de las disposiciones y limitaciones establecidas en la presente Ley, incluyendo la desparasitación, vacunación, venta en lugares autorizados y prohibiciones de enajenación y para el caso de Animales Domésticos de Compañía adicional la esterilización.
+Las personas físicas o morales que realicen actividades de enajenación y exhibición de Animales que arriben al territorio del Estado con Animales de otras entidades federativas con el objetivo de trasladar su dominio, deberán cumplir y quedarán sujetas a todas y cada una de las disposiciones y limitaciones establecidas en la presente Ley, incluyendo la desparasitación, vacunación, venta en lugares autorizados y prohibiciones de enajenación y para el caso de Animales Domésticos de Compañía adicional la esterilización.
 
 De igual forma deberán poner en observación a los Animales por un período mínimo de tres días y posterior a este tiempo deberán realizarse los análisis médicos veterinarios correspondientes y emitirse el certificado de salud correspondiente.
 
-Los Animales Domésticos de Compañía en exhibición y/o para su enajenación deberán proporcionárseles los paseos necesarios para que se ejerciten y no deberán permanecer de manera continua por periodos de más de cuarenta y ocho horas en jaulas, corrales, vitrinas o similares.
+Los Animales Domésticos de Compañía en exhibición y/o para su enajenación deberán proporcionárseles los paseos necesarios para que se ejerciten y no deberán permanecer de manera continua por períodos de más de cuarenta y ocho horas en jaulas, corrales, vitrinas o similares.
 
-###### Artículo 22.
+### CAPÍTULO II. De la Reproducción, Cría y Enajenación de Animales Silvestres
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 42.
 
 Las personas físicas o morales que realicen actividades de reproducción, cría o enajenación de Animales Silvestres, que estén permitidos por la legislación federal, la Ley Ganadera para el Estado de Durango y demás disposiciones aplicables, deberán:
 
-I. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales Silvestres no queden expuestos a las inclemencias del clima, y otros factores que les ocasionen angustia, así como que cuenten con el acondicionamiento adecuado para el proceso de reproducción;
+I. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales Silvestres no queden expuestos a las inclemencias del clima, y otros factores que les ocasionen alteración en de (sic) estado de salud, así como que cuenten con el acondicionamiento adecuado para el proceso de reproducción;
 
 II. Contar con los permisos necesarios;
 
-III. Obtener el permiso de la Secretaría de Salud del Estado, y estar debidamente inscritos en el registro, al que refiere el artículo 16 de esta Ley sin perjuicio de lo que establezcan los reglamentos municipales de la materia;
+III. Obtener el permiso de la Secretaría de Salud del Estado, y estar debidamente inscritos en el registro, al que refieren los artículos 10 y 11 de esta Ley sin perjuicio de lo que establezcan los reglamentos municipales de la materia y demás disposiciones legales aplicables;
 
-IV. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los Animales Silvestres, el cual deberá contener como mínimo con el nombre del propietario, domicilio, características del Animal y nombre, marcaje o identificación;
+IV. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los Animales Silvestres, el cual deberá contener como mínimo el nombre del propietario, domicilio, características del Animal y nombre, marcaje o identificación;
 
 V. Proporcionar al comprador la guía informativa del Animal Silvestre del cual transmiten el dominio, la cual deberá firmar el comprador y en donde se establecerá de forma clara, que en caso de transferir la responsabilidad adquirida, a las autoridades, les será aplicable una sanción resarcitoria;
 
 VI. Contar con certificado de salud de cada uno de los Animales Silvestres, expedido por el médico veterinario o responsable técnico; y,
 
-VII. Diseñar e implementar para los establecimientos, centros de exhibición o lugares donde se conserven Animales Silvestres, un plan de contingencia adecuado para: (sic)
+VII. Diseñar e implementar para los establecimientos, centros de exhibición o lugares donde se conserven Animales Silvestres, un plan de contingencia adecuado para:
 
-VIII. Garantizar el Bienestar Animal de los ejemplares bajo su custodia;
+a) Garantizar el Bienestar Animal de los ejemplares bajo su custodia,
 
-IX. Garantizar el bienestar de las personas, debidamente avalado por la autoridad competente en materia de protección civil en término de la legislación o reglamento aplicable; y
+b) Garantizar el bienestar de las personas, debidamente avalado por la autoridad competente en materia de protección civil en término (sic) de la legislación o reglamento aplicable; y
 
-X. Garantizar las condiciones de seguridad y protección en los recintos, que prevenga cualquier fuga, en especial tratándose de animales exóticos.
+c) Garantizar las condiciones de seguridad y protección en los recintos, que prevenga cualquier fuga, en especial tratándose de animales exóticos.
 
-###### Artículo 23.
+### CAPÍTULO III. De la Reproducción, Cría y Enajenación de Animales Domésticos de Compañía
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 43.
 
 Los lugares en donde se establezcan criaderos para la reproducción o locales para el Albergue o enajenación de Animales Domésticos de Compañía deberán contar con las instalaciones adecuadas especificas para cada una de las actividades, y con la asesoría de un médico veterinario o técnico responsable, para que las actividades mencionadas se realicen bajo condiciones de Bienestar Animal y demás condiciones establecidas en esta Ley.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Las personas físicas o morales que realicen actividades de reproducción, cría o enajenación de Animales Domésticos de Compañía deberán:
+###### Artículo 44.
+
+Las Personas físicas o morales que realicen actividades de reproducción, cría o enajenación de Animales Domésticos de Compañía deberán:
 
 I. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales no queden expuestos a las inclemencias del clima, y otros factores que afecte su Bienestar Animal, asimismo que cuenten con el acondicionamiento adecuado para el proceso de reproducción;
 
 II. Contar con los permisos necesarios;
 
-III. Obtener el permiso de la Secretaría de Salud del Estado, y estar debidamente inscritos en el registro, al que refiere el artículo 15 de esta Ley sin perjuicio de lo que establezcan los reglamentos municipales de la materia;
+III. Obtener el permiso de la Secretaría de Salud del Estado, y estar debidamente inscritos en el registro, al que refieren los artículos 10 y 11 de esta Ley sin perjuicio de lo que establezcan los reglamentos municipales de la materia y demás disposiciones legales aplicables;
 
-IV. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los Animales, el cual deberá contener como mínimo con el nombre del propietario, domicilio, características del Animal y nombre, marcaje o identificación;
+IV. Llevar y mantener actualizado un registro de la procedencia y destino de cada uno de los Animales, el cual deberá contener como mínimo el nombre del propietario, domicilio, características del Animal y nombre, marcaje o identificación;
 
 V. Proporcionar al comprador la guía informativa del Animal del cual transmiten el dominio;
 
 VI. Contar con certificado de salud de cada uno de los Animales, expedido por el médico veterinario o responsable técnico;
 
-VII. Por cuestiones de madurez reproductiva y eficiencia biológica, sólo se podrán aparear una vez al año y hasta la edad de 4 años a las hembras que son pies de cría y será obligatorio que todos los Animales que enajenen o transfieran mediante cualquier título legal a terceros se encuentren debidamente esterilizados, desparasitados y vacunados de acuerdo a su edad biológica, por un médico veterinario titulado. El costo de la esterilización, desparasitación y vacunación, correrá a cargo de quien lleve a cabo la reproducción, cría o enajenación del Animal; y,
+VII. Por cuestiones de madurez reproductiva y eficiencia biológica, sólo se podrán aparear una vez al año y hasta la edad de 4 años a las hembras que son pies de cría y será obligatorio que todos los Animales que enajenen o transfieran mediante cualquier título legal a terceros se encuentren debidamente esterilizados, desparasitados y vacunados de acuerdo a su edad biológica, por un médico veterinario. El costo de la esterilización, desparasitación y vacunación, correrá a cargo de quien lleve a cabo la reproducción, cría o enajenación del Animal; y,
 
 VIII. Diseñar e implementar para los establecimientos, centros de exhibición u otros lugares donde se conserven Animales Domésticos de Compañía un plan de contingencia adecuado para garantizar el Bienestar Animal de los ejemplares bajo su custodia, debidamente avalado por la autoridad competente en materia de protección civil en términos de la legislación o reglamento aplicable.
 
-###### Artículo 25.
+### CAPÍTULO IV. De los Animales de Carga y Tiro
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 45.
 
 Toda persona que sea Propietario, Poseedor o Encargado de un Animal de Carga y Tiro debe procurarle alimentación, hidratación y cuidados apropiados, así como los tratamientos veterinarios preventivos y curativos, y demás obligaciones que establece esta Ley.
 
-### CAPÍTULO II. De la Reproducción, Cría y Enajenación de Animales Silvestres
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 26.
+###### Artículo 46.
 
 La vida laboral de los Animales de Carga y Tiro será considerando su edad y condiciones fisiológicas, siempre y cuando gocen de salud para el desempeño de dichas actividades.
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 47.
 
 Los equinos y bovinos que se utilicen para la carga y tiro deberán contar con el marcaje requerido en la Ley Ganadera para el Estado de Durango, debiendo cumplir con todos los ordenamientos aplicables, procurando el menor dolor o sufrimiento para el Animal.
 
-###### Artículo 28.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 48.
 
 Los Animales de Carga y Tiro serán cargados teniendo en cuenta sus condiciones físicas y fisiológicas y no podrán utilizarse por periodos que rebasen su resistencia, debiendo proporcionar al Animal los periodos de descanso necesarios para no causarle agotamiento, sufrimiento, heridas, laceraciones, enfermedad o muerte.
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 49.
 
 Los Animales de Carga y Tiro en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones o hembras próximas al parto, entendiéndose por éste, el último tercio de la gestación, no podrán ser utilizados para carga y tiro.
 
-###### Artículo 30.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 50.
 
 Los vehículos de tracción animal no podrán ser cargados con un peso mayor al doble del peso del Animal que se utilice para tirar, y se tendrá en cuenta las condiciones físicas y fisiológicas de los Animales que se empleen.
 
-### CAPÍTULO III. De la Reproducción, Cría, y Enajenación de Animales Domésticos de Compañía
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 31.
+###### Artículo 51.
 
 El Estado a través de la Secretaría, los municipios y las Asociaciones diseñarán e implementarán un programa de substitución progresiva de los Animales de Carga y Tiro utilizados para actividades de trabajo.
 
-###### Artículo 32.
+### CAPÍTULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 52.
 
 Los establecimientos e instalaciones en donde se realice la exhibición, hospedaje, albergue o Adiestramiento de Animales deben ser adecuados y específicos para cada una de esas actividades, ser salubres y contar con el mantenimiento apropiado bajo la asesoría de un responsable médico veterinario que supervise que las actividades se realicen bajo condiciones de Bienestar Animal y se proporcionen a los Animales los cuidados apropiados.
 
 Las actividades habituales de exhibición, de Adiestramiento o de hospedaje o albergue temporal de Animales Domésticos de Compañía deberán desarrollarse en establecimientos o instalaciones que cuenten con las autorizaciones de las autoridades correspondientes.
 
-### CAPITULO IV. De los Animales de Carga y Tiro
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 33.
+###### Artículo 53.
 
-Las personas físicas y morales que realicen actividades de exhibición, pensión, albergue temporal o Adiestramiento de Animales, estarán obligados, según corresponda, a:
+Las personas físicas o morales que realicen actividades de exhibición, pensión, albergue temporal o Adiestramiento de Animales, estarán obligados, según corresponda, a:
 
 I. Valerse de los medios y procedimientos más adecuados para el Adiestramiento, atendiendo al Bienestar Animal y evitando el maltrato de los mismos;
 
@@ -467,27 +707,35 @@ II. Contar con el certificado de salud de cada uno de los Animales, expedido por
 
 III. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los Animales no queden expuestos a las inclemencias del clima;
 
-IV. Estar inscrito, si así corresponde, en el registro a que se refieren los artículos 15 y 16 de la presente Ley;
+IV. Estar inscrito, si así corresponde, en el registro a que se refieren los artículos 10 y 11 de la presente Ley;
 
 V. Contar con un plan de contingencia para garantizar la seguridad de las personas y el Bienestar Animal de los ejemplares bajo su custodia;
 
 VI. Contar con los permisos y demás autorizaciones que resultan aplicables; y,
 
-VII. Las demás previstos en la presente Ley y demás ordenamientos legales aplicables.
+VII. Las demás previstos (sic) en la presente Ley y demás ordenamientos legales aplicables.
 
-###### Artículo 34.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 54.
 
 En las actividades de exhibición de Animales queda prohibido incidir o alterar su fenotipo con sustancias, pinturas, accesorios e implementos no ortopédicos ni médicos que pongan en riesgo su vida y afecten su naturaleza o Bienestar Animal, a excepción de las derivadas de procedimientos de esterilización.
 
-###### Artículo 35.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 55.
 
 El Adiestramiento para la realización de rutinas, con fines de exhibición y espectáculo deberá realizarse sin causar maltrato a los Animales. Las mismas limitaciones aplicarán al momento en que se lleve a cabo la rutina del (sic) los Animales al público en general.
 
-###### Artículo 36.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Queda prohibido el realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos en remolques o vehículos automotores que circulen por las vías públicas. Dichas exhibiciones quedan sujetas a las disposiciones que emita la autoridad correspondiente.
+###### Artículo 56.
 
-###### Artículo 37.
+Queda prohibido el realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos, sin autorización de la autoridad municipal. En todo caso los remolques o vehículos automotores, deberán estar adaptados para su traslado, conforme a su especie y tamaño y deberán contar con las medidas de seguridad.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 57.
 
 Queda prohibido el Adiestramiento en los siguientes casos:
 
@@ -495,19 +743,23 @@ I. Cuando su finalidad sea el acometimiento para hacerlo pelear con otros Animal
 
 II. Cuando se dirija a acrecentar y reforzar la agresividad de un Animal, con excepción de los que se entrenen policiacamente con fines de seguridad y de combate.
 
-## TITULO TERCERO. CUIDADO ANIMAL
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
-
-###### Artículo 38.
+###### Artículo 58.
 
 Los adiestradores de Animales Potencialmente Peligrosos estarán obligados a contar con instalaciones debidamente protegidas que proporcionen seguridad, a las personas y al animal. Asimismo deberán contar con un plan de contingencia avalado por la autoridad competente en materia de protección civil que garantice el Bienestar Animal bajo su custodia y de las personas.
 
-###### Artículo 39.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Las Autoridades Municipales competentes deberán implementar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas adecuados conforme a los principios de trato digno y respetuoso contenidos en la presente Ley, y en su caso, lograr la reubicación de las parvadas, cuando sea posible; lo anterior acompañado de campañas informativas tendientes a desalentar la alimentación de parvadas.
+###### Artículo 59.
 
-###### Artículo 40.
+Las Autoridades Municipales competentes deberán implementar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas adecuados y en su caso, lograr la reubicación de las parvadas, cuando sea posible; lo anterior acompañado de campañas informativas tendientes a desalentar la alimentación de parvadas.
+
+### CAPÍTULO VI. Del Traslado de Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 60.
 
 El traslado de los Animales en cualquier tipo de vehículo o implementos como cajas, remolques y jaulas, sin perjuicio de lo que dispongan la legislación federal y la Ley Ganadera para el Estado de Durango, deberá realizarse conforme a lo siguiente:
 
@@ -515,19 +767,21 @@ I. Emplear en todo el trayecto los procedimientos que impliquen proveer de alime
 
 II. Procurar la comodidad, descansos y seguridad del Animal durante el traslado y evitar durante todo el procedimiento la crueldad, maltrato, fatiga extrema, exposición a la intemperie, condiciones no higiénicas y carencia de espacio suficiente.
 
-###### Artículo 41.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 61.
 
 En el caso de Animales transportados que fueren detenidos en su camino o arribo al lugar destinado por complicaciones derivadas de accidentes, caso fortuito o de fuerza mayor, procedimientos o diligencias judiciales o administrativas, deberá mantenérseles, en la medida que las circunstancias lo permitan, bajo condiciones optimas.
 
-### CAPÍTULO VI. Del Traslado de Animales
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 42.
+###### Artículo 62.
 
 En caso de accidente durante el traslado y cuando los Animales queden heridos desahuciados o en agonía se debe utilizar el Sacrificio Humanitario de Emergencia de acuerdo a las normas vigentes.
 
-### CAPÍTULO VII. De los Centros de Asistencia Canino y Felino
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 43.
+###### Artículo 63.
 
 El traslado de Animales, sin perjuicio de lo que dispongan la legislación federal y la Ley Ganadera para el Estado de Durango, se realizará conforme a las siguientes disposiciones, según corresponda:
 
@@ -571,7 +825,11 @@ b) En el caso de peces, anfibios y reptiles, se tomarán las precauciones necesa
 
 Queda prohibida la transportación de cualquier Animal arrastrándolo o suspendido de los miembros inferiores o superiores o ambos.
 
-###### Artículo 44.
+### CAPÍTULO VII. De los Centros de Asistencia Canino y Felino
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 64.
 
 Los Centros de Asistencia Canino y Felino estarán a cargo de las autoridades Municipales y tienen como funciones:
 
@@ -581,57 +839,75 @@ II. Realizar campañas de educación sobre la tenencia responsable de Animales;
 
 III. Desarrollar programas de difusión tendientes a concientizar a la población en general de la importancia del control de natalidad animal, como medio efectivo de lograr un equilibrio poblacional y para favorecer la adopción de Animales Abandonados;
 
-IV. Efectuar el Sacrificio Humanitario de Animales en los términos de la presente Ley; y, (sic)
+IV. Efectuar el Sacrificio Humanitario de Animales en los términos de la presente Ley;
 
-V. Las demás previstas en esta Ley y otros ordenamientos jurídicos aplicables.
+V. Certificar y capacitar al personal que trabaje en estos centros con especial atención a quienes estén encargados del sacrificio de animales, entendiéndose por esto principalmente una revisión de salud mental; y,
 
-VI. Certificar y capacitar al personal que trabaje en estos centros con especial atención a quienes estén encargados del sacrificio de animales, entendiéndose por esto principalmente una revisión de salud mental.
+VI. Las demás previstas en esta Ley y otros ordenamientos jurídicos aplicables.
 
-Para cumplir con los objetivos de las campañas y programas señalados en este artículo los Municipios del Estado podrán celebrar convenios de colaboración con las autoridades estatales correspondientes instituciones educativas, centros de investigación y Asociaciones y Personas Interesadas en el tema.
+Para cumplir con los objetivos de las campañas y programas señalados en este artículo los Municipios del Estado podrán celebrar convenios de colaboración con las autoridades estatales correspondientes, instituciones educativas, centros de investigación y Asociaciones y Personas Interesadas en el tema.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 65.
+
+Los Centros de Asistencia Canino y Felino podrán coordinarse con las Asociaciones para que los animales que se encuentren en el supuesto de las fracciones I, II y III del artículo 78 puedan ser entregados para Adopción.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 66.
+
+El personal de los Centros de Asistencia Canino y Felino deberán regresar los Animales a sus Propietarios Poseedores o Encargados al término del plazo mencionado en el artículo 78 fracción VI de esta Ley, cuándo así lo soliciten, previa firma de responsiva.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 67.
+
+Los Animales Abandonados, cuyo dueño se ignore deberán ser retenidos y custodiados por las autoridades competentes en lugares adecuados, o bien, podrán ser entregados a las Asociaciones, siempre y cuando éstas cumplan con las condiciones y formalidades exigidas por dichas autoridades y haya transcurrido el plazo establecido en la fracción II del artículo 78.
+
+## TITULO CUARTO. INTERVENCIONES QUIRÚRGICAS Y SACRIFICIO DE LOS ANIMALES
 
 ### CAPÍTULO I. De las Intervenciones Quirúrgicas y Experimentación con Animales
 
-###### Artículo 45.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Los Centros de Asistencia Canino y Felino podrán coordinarse con las Asociaciones para que los animales que se encuentren en el supuesto de las fracciones I, II y III del artículo 58 puedan ser entregados para Adopción.
+###### Artículo 68.
 
-###### Artículo 46.
-
-El personal de los Centros de Asistencia Canino y Felino deberán regresar los Animales a sus Propietarios Poseedores o Encargados al término del plazo mencionado en el artículo 58 fracción VI de esta Ley, cuándo así lo soliciten, previa firma de responsiva.
-
-###### Artículo 47.
-
-Los Animales Abandonados, cuyo dueño se ignore deberán ser retenidos y custodiados por las autoridades competentes en lugares adecuados, o bien, podrán ser entregados a las Asociaciones, siempre y cuando éstas cumplan con las condiciones y formalidades exigidas por dichas autoridades y haya transcurrido el plazo establecido en la fracción II del artículo 58.
-
-###### Artículo 48.
-
-Las intervenciones quirúrgicas con Animales o cualquier tipo de intervención médica o cirugías que implique el uso de instrumentación, la exploración interior o exterior en el cuerpo del Animal, la prescripción de medicamentos, traslado e implantes de algunas de sus partes, órganos, o embriones deberá ser realizado por personal profesional con título de Médico Veterinario Zootecnista y su correspondiente acreditación mediante cédula profesional.
+Las intervenciones quirúrgicas con Animales o cualquier tipo de intervención médica o cirugías que implique el uso de instrumentación, la exploración interior o exterior en el cuerpo del Animal, la prescripción de medicamentos, traslado e implantes de algunas de sus partes, órganos, o embriones deberá ser realizado por personal profesional con título de Médico Veterinario y su correspondiente acreditación mediante cédula profesional.
 
 Dichas intervenciones y demás prácticas veterinarias antes mencionadas deberán realizarse exclusivamente con motivos curativos o de sanación de enfermedades, heridas, lesiones, contusiones o fracturas, o con el objetivo del control natal de los de su especie o su reproducción.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-La práctica de técnicas reproductivas como la extracción de semen, traslado de óvulos, inseminación artificial, o cualquier otra, deberá ser realizada por Médico Veterinario Zootecnista, o Personal Calificado con los conocimientos técnicos requeridos y con la debida acreditación a través de cédula profesional.
+###### Artículo 69.
 
-Quien no cumpla con esta disposición ser (sic) sancionado en términos de la presente Ley, sin perjuicio de las responsabilidades establecidas por los demás ordenamientos jurídicos.
+La práctica de técnicas reproductivas como la extracción de semen, traslado de óvulos, inseminación artificial, o cualquier otra, deberá ser realizada por Médico Veterinario o Personal Calificado con los conocimientos técnicos requeridos y con la debida acreditación a través de cédula profesional.
 
-###### Artículo 50.
+Quien no cumpla con esta disposición será sancionado en términos de la presente Ley, sin perjuicio de las responsabilidades establecidas por los demás ordenamientos aplicables.
 
-Las escuelas de educación superior, institutos e instituciones científicas y de investigación nacionales, públicas y privadas, podrán utilizar Animales Domésticos de Compañía y realizar el Sacrificio Humanitario de Animales de experimentación, únicamente con fines legítimos de investigación, siempre y cuando justifiquen con protocolo de práctica y bibliografía, carecer de alternativa, sólo bajo lo cual accederán a la autorización correspondiente.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 51.
+###### Artículo 70.
+
+Las escuelas de educación superior, institutos e instituciones científicas y de investigación, públicas y privadas, podrán utilizar Animales Domésticos de Compañía y realizar el Sacrificio Humanitario de Animales de experimentación, únicamente con fines legítimos de investigación, siempre y cuando justifiquen con protocolo de práctica y bibliografía, carecer de alternativa, sólo bajo lo cual accederán a la autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 71.
 
 En materia de investigación y docencia siempre y cuando existan alternativas disponibles, queda prohibido provocar o inducir a causar lesiones, heridas o fracturas en Animales, así como implementar otras prácticas similares que causen daño físico o que afecten el bienestar de los Animales.
 
-### CAPITULO II. Del Sacrificio Humanitario de los Animales
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 52.
+###### Artículo 72.
 
-Queda prohibido en materia docente el realizar prácticas de laboratorio de biología o materias similares de vivisección en escuelas de educación primaria, secundaria o media superior. Se deberán utilizar métodos análogos sustitutos.
+Queda prohibido en materia docente el realizar prácticas de laboratorio de biología o materias similares de vivisección en escuelas de educación primaria, secundaria o media superior, las cuales en su caso, deberán utilizar métodos análogos sustitutos.
 
 Para el caso que no existan métodos alternos, los animales sujetos a experimentos de vivisección deberán ser previamente insensibilizados, y en caso de habérseles causado daños que impidan el desarrollo normal de su vida, sacrificarlos humanitariamente al término del procedimiento, de conformidad con la presente ley y deberá ser incinerado de preferencia o hacer una disposición adecuada del cadáver que no sea el abandono.
 
-###### Artículo 53.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 73.
 
 Para la realización de cualquier investigación científica con Animales, se requiere la autorización expedida por la Secretaría de Salud del Estado.
 
@@ -643,15 +919,17 @@ II. Que los experimentos sean necesarios para el control, prevención, diagnóst
 
 III. Que los experimentos con los Animales no puedan ser sustituidos por otras alternativas disponibles;
 
-IV. Que la persona que realice o supervise del (sic) experimento cuente con la acreditación académica y competencia necesaria para ello; y,
+IV. Que la persona que realice o supervise del experimento cuente con la acreditación académica y competencia necesaria para ello; y,
 
 V. Que las operaciones quirúrgicas experimentales de Animales sean supervisadas por un médico veterinario con cédula profesional o por personal calificado.
 
-###### Artículo 54.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-El Médico Veterinario Zootecnista involucrado en la investigación científica con Animales, ya sea que participe como investigador, tutor o miembro de algún Comité de Bioética, o de uso y cuidado de Animales de experimentación, deberá procurar:
+###### Artículo 74.
 
-Reducir el número de Animales utilizados al mínimo necesario para tener resultados estadísticamente significativos:
+El Médico Veterinario involucrado en la investigación científica con Animales, ya sea que participe como investigador, tutor o miembro de algún Comité de Bioética, o de uso y cuidado de Animales de experimentación, deberá procurar:
+
+Reducir el número de Animales utilizados al mínimo necesario para tener resultados estadísticamente significativos;
 
 I. Refinar los métodos y técnicas del experimento procurando en todo momento el bienestar de los Animales;
 
@@ -661,71 +939,99 @@ III. Reemplazar a los Animales sujetos a experimentación por modelos alternativ
 
 IV. Apegarse a las normas y disposiciones aplicables vigentes en materia de uso, cuidado y muerte humanitaria de los Animales de laboratorio o para investigación.
 
-###### Artículo 55.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Ninguna persona, por ningún motivo, podrá ser obligada o coaccionada a provocar daño, lesión, mutilación o provocar daño físico, emocional o la muerte de algún Animal y podrá referirse a esta Ley en su defensa.
+###### Artículo 75.
 
-###### Artículo 56.
+Ninguna persona, podrá ser obligada o coaccionada a provocar daño, lesión, mutilación o provocar daño físico, emocional o la muerte de algún Animal y podrá referirse a esta Ley en su defensa.
+
+### CAPÍTULO II. Del Sacrificio Humanitario de los Animales
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 76.
 
 Queda prohibido sacrificar Animales con o sin dueño por procedimientos que causen sufrimiento o prolongue su agonía, así como el sacrificio de Animales para llevar a cabo rituales, actos de magia, remedios, medicina alterna o mera crueldad.
 
-###### Artículo 57.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 77.
 
 Quedan exceptuados los Animales que constituyan plagas que pongan en peligro el patrimonio o salud de las personas, procurando en todo momento prevenir que se llegue a supuestos por parte de la autoridad.
 
-###### Artículo 58.
+### CAPÍTULO III. Del Sacrificio Humanitario de los Animal Domésticos de Compañía
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 78.
 
 El Sacrificio Humanitario de los Animales Domésticos de Compañía se deberá realizar primordialmente en los Centros de Asistencia Canino y Felino, y de manera auxiliar en las clínicas veterinarias de las Asociaciones y en clínicas veterinarias particulares, de conformidad con sus posibilidades y recursos disponibles, y únicamente en los siguientes supuestos:
 
 I. Entrega voluntaria de los Propietarios o Poseedores por imposibilidad para su manutención, enfermedad grave o zoonótica, incapacidad física o vejez extrema;
 
-II. Cuando sean asegurados y no reclamados en un plazo de 20 días naturales contados a partir de su fecha de captura por deambular en la vía pública; no sin antes difundir en medios de comunicación y redes sociales su disponibilidad para adopción.
+II. Cuando sean asegurados y no reclamados en un plazo de 20 días naturales contados a partir de su fecha de captura por deambular en la vía pública;
 
 III. Por el sufrimiento que le cause una enfermedad o accidente y sean desahuciados clínicamente para su recuperación;
 
-IV. A juicio de la Secretaría por el exceso en el número de ejemplares de su especie y constituyan un riesgo zoosanitario o peligro para la comunidad y no se encuentre una alternativa a corto plazo para resolver el riesgo inminente; siempre y cuando se haya conminado previamente a la comunidad a mantener a sus perros en sus hogares, para entonces tomar la decisión sobre aquellos ejemplares que carecen de hogar.
+IV. A juicio de la Autoridad competente por el exceso en el número de ejemplares de su especie y constituyan un riesgo zoosanitario o peligro para la comunidad y no se encuentre una alternativa a corto plazo para resolver el riesgo inminente; siempre y cuando se haya conminado previamente a la comunidad a mantener a sus perros en sus hogares, para entonces tomar la decisión sobre aquellos ejemplares que carecen de hogar.
 
-V. Cuando a criterio de la Secretaría, conforme a las circunstancias e investigaciones realizadas, lo estime pertinente para los Animales Potencialmente Peligrosos que incurran en reincidencia de ataque; y,
+V. Cuando a criterio de la Autoridad competente, conforme a las circunstancias e investigaciones realizadas, lo estime pertinente para los Animales Potencialmente Peligrosos que incurran en reincidencia de ataque; y,
 
-VI. Cuando los Animales que agredan a personas o a Animales no sean reclamados por su Propietario, Poseedor o Encargado dentro de los 10 días naturales siguientes a un período de observación de 15 días naturales.
+VI. Cuando los Animales que agredan a personas o a Animales no sean reclamados por su Propietario, Poseedor o Encargado dentro de los 10 días naturales.
 
-###### Artículo 59.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 79.
 
 El Sacrificio Humanitario de los Animales Domésticos de Compañía deberá realizarse de acuerdo a lo previsto en las Normas Oficiales Mexicanas que resulten aplicables.
 
-### CAPITULO III. Del Sacrificio Humanitario de los Animales Domésticos de Compañía
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 60.
+###### Artículo 80.
 
 El Sacrificio Humanitario podrá realizarse por las autoridades competentes o médicos veterinarios de las Asociaciones, por personal calificado o por cualquier otra persona siempre y cuando se sujete a los métodos establecidos en las Normas Oficiales Mexicanas aplicables. Esto incluye animales callejeros, sin dueño y otros no previstos.
 
 La disposición final del cadáver de todo Animal sacrificado debe efectuarse en los lugares establecidos para dicho efecto y que cumplan con las disposiciones legales aplicables.
 
-###### Artículo 61.
+### CAPÍTULO IV. De los Rastros y del sacrificio de Animales de Abasto
 
-El sacrificio de Animales de Abasto se realizará de acuerdo con las normas vigentes y demás disposiciones que expidan las autoridades competentes, debiendo contar con las autorizaciones correspondientes de las autoridades sanitarias, la Secretaría y la Autoridad Municipal, según corresponda.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 62.
+###### Artículo 81.
+
+El sacrificio de Animales de Abasto se realizará de acuerdo con las normas vigentes y demás disposiciones que expidan las autoridades competentes, debiendo contar con las autorizaciones correspondientes de las autoridades sanitarias, la SAGDR y la Autoridad Municipal, según corresponda.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 82.
 
 Los propietarios, encargados o administradores de expendios de Animales o rastros, deberán sacrificar inmediatamente a los Animales que por cualquier causa se hubiesen lesionado gravemente, asimismo cuando hayan enfermado y que esto represente un peligro para la salud o seguridad de las personas, en cuyo caso además del sacrificio deberá disponerse del cadáver del animal conforme las disposiciones y normas aplicables.
 
 Se prohíbe la presencia de menores de edad en el sacrificio de animales o en las salas de matanza del rastro. Lo anterior, se deberá de hacer del conocimiento público mediante avisos o anuncios colocados en lugares visibles del rastro.
 
-###### Artículo 63.
+## TITULO QUINTO. OBSERVANCIA DE LA LEY
+
+### CAPÍTULO I. De la Participación Ciudadana en materia de protección Animal
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 83.
 
 Con el objeto de cumplir y alcanzar los objetivos que la Ley establece, las autoridades encargadas de su aplicación podrán suscribir convenios de colaboración con Asociaciones e instituciones educativas, en los cuales se establecerán las responsabilidades, compromisos y demás apoyos que éstas podrán realizar.
 
 El Estado y los Municipios promoverán y facilitarán la participación efectiva de todas las personas y sectores sociales interesados en colaborar en los procesos de educación ambiental, la conservación y protección del medio ambiente, la búsqueda del bienestar colectivo, la tenencia responsable de Animales y el desarrollo y aprovechamiento sustentable de éstos.
 
-### CAPITULO IV. De los Rastros y del sacrificio de Animales de Abasto
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 64.
+###### Artículo 84.
 
 El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, serán órganos de consulta y participación ciudadana con la finalidad de realizar acciones de promoción cultural, proponer líneas concretas de acción para la formulación de políticas públicas que sobre todo involucren medidas preventivas y de control ético de la fauna urbana.
 
 El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales funcionarán y se integrarán conforme a lo dispuesto por los propios Reglamentos que emitan la Secretaría y los Municipios.
 
-###### Artículo 65.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 85.
 
 En el ámbito de sus respectivas competencias, la Secretaría y las Autoridades Municipales, llevarán un registro de las Asociaciones y personas interesadas con quienes celebren convenios de colaboración, para el cumplimiento de ésta Ley.
 
@@ -733,19 +1039,25 @@ En el marco de cooperación con las autoridades responsables de la ejecución y 
 
 I. Participar en campañas de vacunación, desparasitación, Esterilización de Animales, Sacrificio Humanitario, programas de concientización sobre la importancia de la protección del medio ambiente, el bienestar y la protección de Animales, la tenencia responsable y el respeto a éstos, y demás acciones que se implementen para la observancia y cumplimiento de esta Ley;
 
-II. Proporcionar Albergue y custodia a los Animales asegurados o decomisados con motivo de la aplicación de esta Ley, así como poner en Adopción Animales que no sean reclamados en el plazo que la Secretaría determine, mediante resolución administrativa, esto último de acuerdo a las posibilidades de espacio y recursos con los que cuenten dichas asociaciones; y,
+II. Proporcionar Albergue y custodia a los Animales asegurados o decomisados con motivo de la aplicación de esta Ley, así como poner en Adopción Animales que no sean reclamados en el plazo que establece la presente Ley; y
 
 III. Las demás que al efecto se acuerden entre ambas partes, siempre y cuando no se contravengan las disposiciones de la presente Ley.
 
 Los servicios proporcionados a la población en general por las Asociaciones serán sin fines de lucro.
 
-###### Artículo 66.
+### CAPÍTULO II. De la Denuncia Ciudadana
 
-Cualquier persona física o moral tiene el derecho y el deber de denunciar, ante la Secretaría o las Autoridades Municipales según corresponda, todo hecho, acto u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección y Bienestar Animal.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 86.
+
+Cualquier Persona física o moral tiene el deber de denunciar, ante las Autoridades competentes, todo hecho, acto u omisión que contravenga las disposiciones de esta Ley y demás ordenamientos que regulen las materias relacionadas con la protección y Bienestar Animal.
 
 La autoridad que tenga conocimiento de los hechos u omisiones señalados en el párrafo anterior, deberá denunciarlos ante la autoridad competente en la materia a fin de que se siga el procedimiento correspondiente.
 
-###### Artículo 67.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 87.
 
 La denuncia ciudadana podrá realizarse tanto en forma verbal, por escrito, o por medios electrónicos proporcionando como mínimo el denunciante:
 
@@ -755,45 +1067,59 @@ II. En su caso los datos que permitan identificar al presunto infractor.
 
 La autoridad estará obligada a mantener en reserva el nombre del denunciante, cuando éste así lo solicite. Así como dar respuesta por escrito al denunciante del resultado de las investigaciones en un lapso no mayor a 10 días naturales a partir de la fecha de denuncia.
 
-## TITULO CUARTO. INTERVENCIONES QUIRÚRGICAS Y SACRIFICIO DE LOS ANIMALES
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO I. De la Participación Ciudadana en materia de protección Animal
-
-###### Artículo 68.
+###### Artículo 88.
 
 La autoridad deberá llevar un registro de las denuncias recibidas y procederá a su verificación siempre que éstas reporten la información suficiente que lo permita. En caso de denuncias falsas, la autoridad podrá fincar las responsabilidades pertinentes que considere necesarias por los medios legales aplicables ante las autoridades competentes.
 
 Una vez presentada la denuncia, la autoridad iniciará el procedimiento administrativo de inspección y vigilancia, y efectuará las diligencias necesarias con el propósito de determinar la existencia de los hechos, actos u omisiones constitutivos de la denuncia.
 
-###### Artículo 69.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 89.
 
 Si de la diligencia se desprende que no es asunto de la competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a cinco días hábiles, turnará el asunto a la autoridad competente.
 
-###### Artículo 70.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 90.
 
 En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos, actos u omisiones denunciados, aportándole las pruebas, documentación e información que estime pertinentes.
 
-###### Artículo 71.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-La autoridad exhortará de manera permanente al público o sociedad en general a denunciar hechos u omisiones que produzcan o puedan producir maltrato a los Animales o alterar el Bienestar Animal, además, informará puntualmente, por escrito y en detalle al denunciante el resultado de su gestión y de las investigaciones y demás diligencias realizadas con motivo de la denuncia realizada, cuando el interesado lo solicite.
+###### Artículo 91.
 
-###### Artículo 72.
+La autoridad exhortará de manera permanente a la sociedad en general a denunciar hechos u omisiones que produzcan o puedan producir maltrato a los Animales o alterar el Bienestar Animal, además, informará puntualmente, por escrito y en detalle al denunciante el resultado de su gestión y de las investigaciones y demás diligencias realizadas con motivo de la denuncia realizada, cuando el interesado lo solicite.
 
-Si del resultado de las investigaciones realizadas por la Secretaría, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante estas u otras, la ejecución de las acciones procedentes.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 73.
+###### Artículo 92.
 
-La Secretaría y las Autoridades Municipales, en el ámbito de sus respectivas competencias, conforme a las disposiciones de esta Ley, podrán realizar visitas de inspección para comprobar el cumplimiento de la misma, su Reglamento, Normas Oficiales Mexicanas y demás ordenamientos aplicables en la materia.
+Si del resultado de las investigaciones realizadas por la Autoridad, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante estas u otras, la ejecución de las acciones procedentes.
 
-###### Artículo 74.
+### CAPÍTULO III. Del Procedimiento de Inspección y Vigilancia
 
-Las visitas de inspección podrán ser ordinarias y extraordinarias. Las ordinarias se efectuarán en días y horas hábiles y las segundas en cualquier tiempo. Se consideran días hábiles todos a excepción de sábado, domingo, días festivos por ley y los que por Decreto o Acuerdo del Ejecutivo del Estado, se declaren como inhábiles. Se entiende por horas hábiles las que medien desde las nueve a las diecinueve horas.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Iniciada una diligencia en horas hábiles podrá concluirse y será válida aún cuando se actúe en horas inhábiles sin necesidad de determinación especial de la autoridad competente. De igual forma, la propia autoridad podrá habilitar los días y las horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que lo amerite, expresando cuales son éstas y las diligencias que hayan de practicarse.
+###### Artículo 93.
 
-En materia procesal, será aplicado supletoriamente, en lo que no se oponga a esta Ley, la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Las Autoridades Municipales, en el ámbito de sus respectivas competencias, conforme a las disposiciones de esta Ley, podrán realizar visitas de inspección para comprobar el cumplimiento de la misma, su Reglamento, Normas Oficiales Mexicanas y demás ordenamientos aplicables en la materia.
 
-###### Artículo 75.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 94.
+
+Las visitas de inspección podrán ser ordinarias y extraordinarias.
+
+Las ordinarias se efectuarán en días y horas hábiles y las segundas en cualquier tiempo, según lo dispongan los ordenamientos legales aplicables.
+
+El procedimiento se sujetará a lo que disponga la presente Ley y de manera supletoria se aplicaran las disposiciones contenidas en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 95.
 
 El personal autorizado como inspector para realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite como tal, así como estar provisto de orden escrita debidamente fundada y motivada, con firma autógrafa expedida por la autoridad competente, en la que se precisará el lugar o las zonas que habrán de inspeccionarse, el objeto de la visita, el alcance que deba tener y el personal técnico o de apoyo en su caso que estará involucrado.
 
@@ -801,19 +1127,21 @@ Al iniciar la visita de inspección, el inspector se identificará debidamente c
 
 Si la persona con la que se entiende la diligencia no designa testigos, o bien éstos no aceptan su nombramiento, el personal acreditado como inspector podrá nombrarlos. En el caso de que no fuera posible encontrar en el lugar de la visita persona alguna que pudiera ser designada como testigo, el personal actuante deberá asentar estas circunstancias en el acta correspondiente, sin que por esto se afecte su validez.
 
-### CAPÍTULO II. De la Denuncia Ciudadana
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 76.
+###### Artículo 96.
 
 Los propietarios, responsables, o encargados del establecimiento, lugar o área, objeto de verificación o la persona con quien se atienda la diligencia están obligados a permitir el acceso y dar facilidades a los inspectores acreditados, así como proporcionarles toda clase de información para el desarrollo de la diligencia, con excepción de lo relativo a derechos de propiedad industrial o de patentes que sean confidenciales conforme a la Ley.
 
-###### Artículo 77.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 97.
 
 La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguien obstaculice o se oponga a la práctica de la diligencia o cuando hubiera causa urgente que así lo amerite, independientemente de las acciones legales a que haya lugar.
 
-### CAPÍTULO III. Del Procedimiento de Inspección y Vigilancia
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 78.
+###### Artículo 98.
 
 En toda visita de inspección se levantará acta circunstanciada en la que se hará constar de forma detallada los hechos u omisiones que se hayan detectado durante la diligencia, así como las medidas de seguridad que en su caso se hubiesen adoptado.
 
@@ -821,7 +1149,9 @@ Concluida la inspección, se dará oportunidad a la persona con la que se entend
 
 La persona con quien se entendió la diligencia, los testigos si los hubiera y el personal responsable de la inspección firmarán el acta correspondiente. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negara a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte la validez de la diligencia. De toda acta se dejará copia a la persona con quien se entendió la diligencia.
 
-###### Artículo 79.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 99.
 
 En las actas de inspección se hará constar lo siguiente:
 
@@ -847,65 +1177,87 @@ X. Declaración del visitado, si quisiera hacerla; y,
 
 XI. Nombre, huella o firma y datos de la identificación de quienes intervinieron en la diligencia y así quisieran hacerlo.
 
-###### Artículo 80.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 100.
 
 Con base en los resultados que arroje la visita de inspección, la autoridad competente emplazará mediante notificación personal al presunto infractor o a su representante legal debidamente acreditado, o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación, necesarias para cumplir con las disposiciones jurídicas aplicables, para que en el término de diez días hábiles, contados a partir de la fecha de la notificación, exprese lo que a sus intereses convenga y, en su caso, ofrezca las pruebas con relación a los hechos contenidos en el acta de inspección.
 
-### CAPÍTULO IV. Medidas de Seguridad
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Articulo 81.
+###### Artículo 101.
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el artículo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que, en un plazo de tres días hábiles, presente por escrito sus alegatos.
 
-###### Artículo 82.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Recibidos los alegatos o transcurrido el término para presentarlos, la autoridad correspondiente procederá a dictar, fundada y motivadamente, la resolución administrativa que corresponda, dentro de los quince días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo;
+###### Artículo 102.
+
+Recibidos los alegatos o transcurrido el término para presentarlos, la autoridad correspondiente procederá a dictar, fundada y motivadamente, la resolución administrativa que corresponda, dentro de los quince días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo.
 
 En la resolución administrativa correspondiente se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a esta Ley y su reglamento.
 
-## TITULO QUINTO. OBSERVANCIA DE LA LEY
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO V. Sanciones en Contra el (sic) Maltrato a los Animales
-
-###### Artículo 83.
+###### Artículo 103.
 
 Durante el procedimiento y antes de que se dicte resolución, el interesado y la autoridad, a petición del primero, podrán convenir la realización de acciones de rehabilitación de los Animales y/o de su medio ambiente a los cuales se les ocasionó daños, para la corrección de las irregularidades observadas.
 
-###### Artículo 84.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada acompañando las pruebas respectivas a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en la resolución administrativa respectiva.
+###### Artículo 104.
 
-###### Artículo 85.
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada acompañando las pruebas respectivas a la autoridad ordenadora, haber dado cumplimiento a las medidas impuestas en la resolución administrativa respectiva.
 
-La autoridad competente podrá llevar a cabo posteriores visitas de verificación para observar el cumplimiento de los requerimientos señalados. Si del acta correspondiente se desprende que no se ha dado cumplimiento a los mismos, la autoridad competente considerará dicha conducta como un agravante y estará facultada a imponer la sanción o sanciones que procedan conforme a esta Ley.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 86.
+###### Artículo 105.
 
-Cuando se detecte alguna presunta irregularidad de competencia federal o de otra dependencia de la administración pública estatal, la Secretaria o las Autoridades Municipales, según sea el caso, podrán aplicar por sí las medidas de seguridad que resulten necesarias para proteger a los Animales y evitar daños al Bienestar Animal, sin perjuicio de las facultades que a la Federación competen en la materia, y en un término no mayor a dos días hábiles, pondrán los hechos en conocimiento de la autoridad que corresponda y le remitirán copia de todo lo actuado.
+La autoridad competente podrá llevar a cabo posteriores visitas de verificación para observar el cumplimiento de los requerimientos señalados. Si del acta correspondiente se desprende que no se ha dado cumplimiento a los mismos, la autoridad considerará dicha conducta como un agravante y estará facultada a imponer la sanción o sanciones que procedan conforme a esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 106.
+
+Cuando se detecte alguna presunta irregularidad de competencia federal o de otra dependencia de la administración pública estatal, la Autoridad competente podrá aplicar por sí las medidas de seguridad que resulten necesarias para proteger a los Animales y evitar daños al Bienestar Animal, sin perjuicio de las facultades que a la Federación competen en la materia, y en un término no mayor a dos días hábiles, pondrán los hechos en conocimiento de la autoridad que corresponda y le remitirán copia de todo lo actuado.
 
 En caso de ser un asunto de competencia Municipal que atienda el Estado o viceversa, se actuará conforme al mismo procedimiento. La autoridad responsable deberá de hacer del conocimiento de la autoridad que haya detectado la irregularidad en primera instancia las actuaciones subsecuentes, hasta su conclusión.
 
-###### Artículo 87.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-De existir riesgo inminente para las personas o para los Animales, que pueda poner en peligro su vida, debido al incumplimiento a las disposiciones de esta Ley, la Secretaría o el municipio correspondiente, en forma fundada y motivada, podrá ordenar la aplicación de alguna o algunas de las siguientes medidas de seguridad:
+### CAPÍTULO IV. Medidas de Seguridad
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 107.
+
+De existir riesgo inminente para las personas o para los Animales, que pueda poner en peligro su vida, debido al incumplimiento a las disposiciones de esta Ley, la Autoridad competente, en forma fundada y motivada, podrá ordenar la aplicación de alguna o algunas de las siguientes medidas de seguridad
 
 I. Aseguramiento precautorio de los Animales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
 
-II. Clausura temporal, parcial o total de los establecimientos, instalaciones, servicios, eventos o lugares donde se celebren actividades reguladas por esta Ley, en donde se incumpla o contravenga alguna de las disposiciones de la misma, los reglamentos municipales de la materia, las demás leyes aplicables, Normas Oficiales Mexicanas, así como con cualquier otro precepto legal aplicable; y (sic),
+II. Clausura temporal, parcial o total de los establecimientos, instalaciones, servicios, eventos o lugares donde se celebren actividades reguladas por esta Ley, en donde se incumpla o contravenga alguna de las disposiciones de la misma, los reglamentos municipales de la materia, las demás leyes aplicables, Normas Oficiales Mexicanas, así como con cualquier otro precepto legal aplicable; y,
 
 III. La suspensión temporal, parcial o total de obras, eventos o actividades donde se celebren espectáculos públicos con animales que no cumplan con esta Ley, su reglamento, las Normas Oficiales Mexicanas, así como con cualquier otro precepto legal aplicable.
 
-IV. En caso de decomiso de animales doméstico y o de compañía, estos quedarán a resguardo del centro de atención canina y felino o en alguna entidad protectora acreditada para tal fin, sin que esto implique el sacrificio del Animal en cuestión es decir en todo lo posible se pondrá en adopción, brindándole atención médica requerida.
+IV. En caso de decomiso de animales doméstico y/o de compañía, estos quedarán a resguardo del centro de atención canina y felino o en alguna entidad protectora acreditada para tal fin, sin que esto implique el sacrificio del Animal en cuestión y en todo lo posible se pondrá en adopción, brindándole atención médica requerida.
 
-Las medidas de seguridad ordenadas por las autoridades competentes en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivo, se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas. Dichas medidas tendrán la duración estrictamente necesaria para la protección efectiva de los Animales y la corrección de las irregularidades respectivas y deberán ser notificadas o ratificadas por escrito al infractor para su inmediata ejecución.
+Las medidas de seguridad ordenadas por las autoridades competentes en caso de riesgo, son de inmediata ejecución, tienen carácter preventivo y en su caso correctivo, se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas. Dichas medidas tendrán la duración estrictamente necesaria para la protección efectiva de los Animales y la corrección de las irregularidades respectivas y deberán ser notificadas al infractor para su inmediata ejecución.
 
-###### Artículo 88.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Es responsable de las faltas previstas en esta Ley cualquier persona física o moral que participe en la ejecución de las mismas o induzca directa o indirectamente a cometerlas. Los padres o tutores de los menores de edad o incapaces serán responsables de las faltas que éstos cometan en los términos de la presente Ley.
+### CAPÍTULO V. Sanciones en Contra el Maltrato a los Animales
 
-###### Artículo 89.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Para efectos de esta Ley se consideran infracciones, competencia de aplicación de la Secretaría según corresponda, las siguientes:
+###### Artículo 108.
+
+Es responsable de las faltas previstas en esta Ley cualquier Persona física o moral que participe en la ejecución de las mismas o induzca directa o indirectamente a cometerlas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 109.
+
+Para efectos de esta Ley se consideran infracciones, competencia de aplicación de los Municipios, las siguientes:
 
 I. El realizar actividades de Adiestramiento utilizando métodos antinaturales o técnicas crueles;
 
@@ -913,21 +1265,21 @@ II. Los daños que provoque a terceros el Animal;
 
 III. En el caso de Adiestramiento, el acometimiento para hacer pelear o reforzar la agresividad de un Animal;
 
-IV. Vender animales sin tener autorización o estar inscrito en los registros ante la Secretaría; no cumplir con la entrega de garantías, certificados de salud o manuales para el adecuado cuidado del animal enajenado, así como llevar a cabo la venta de animales a menores de edad e incapaces;
+IV. Vender animales sin tener autorización o estar inscrito en los registros ante la Autoridad competente; no cumplir con la entrega de garantías, certificados de salud o manuales para el adecuado cuidado del animal enajenado, así como llevar a cabo la venta de animales a menores de edad e incapaces;
 
-V. Enajenar los Animales Domésticos de Compañía, mayores a dos meses sin esterilizarlos o esterilizarlos antes de dicho periodo;
+V. Enajenar los Animales Domésticos de Compañía, mayores a dos meses sin esterilizarlos o esterilizarlos antes de dicho período;
 
 VI. Los actos u omisiones que sean susceptibles de causar a un Animal la muerte, heridas y laceraciones, dolores o sufrimientos que afecten su salud o alteren su comportamiento natural;
 
 VII. El no proporcionar el Espacio Vital a los Animales, descuidar su Refugio y el tenerlo sujeto, inmovilizado o amarrado de forma temporal o permanente y que quede expuesto a las condiciones o inclemencias del clima;
 
-VIII. Los actos de perversión sexual efectuados por un ser humano a un Animal o valiéndose del mismo;
+VIII. Los actos de perversión sexual efectuados por Personas a un Animal o valiéndose del mismo;
 
 IX. Cualquier mutilación, física u orgánica a los Animales, que no se efectúe por motivos fundados de salud y seguridad y que ponga en peligro su vida; esto incluye también la mutilación o amputación innecesaria de apéndices tales como orejas y cola por motivos "estéticos";
 
 X. El no proporcionar los tratamientos veterinarios, higiene necesaria del cuerpo y del área de estancia de los animales;
 
-XI. No estar inscrito o no mantener vigente su inscripción en el registro a que se refieren los artículos 15 y 16 de esta Ley;
+XI. No estar inscrito o no mantener vigente su inscripción en el registro a que se refieren los artículos 10 y 11 de esta Ley;
 
 XII. Utilizar Animales para prácticas o competencias de tiro al blanco;
 
@@ -937,7 +1289,7 @@ XIV. Cargar vehículos de tracción con un peso superior al que puede soportar e
 
 XV. Utilizar para el transporte de carga, y tiro a Animales heridos, enfermos, o en condiciones fisiológicas no aptas, o a hembras en periodo próximo al parto o a animales que por su edad fisiológica no deban ser cargados;
 
-XVI. Realizar práctica veterinaria por persona que no cuente con título de médico veterinario zootecnista y que carezcan de cédula profesional o que no posea los conocimientos técnicos requeridos para ser considerado personal calificado, en intervenciones quirúrgicas y práctica de técnicas reproductivas como la extracción de semen, traslado de óvulos, inseminación artificial, entre otras;
+XVI. Realizar práctica veterinaria por persona que no cuente con título de médico veterinario y que carezcan de cédula profesional o que no posea los conocimientos técnicos requeridos para ser considerado personal calificado, en intervenciones quirúrgicas y práctica de técnicas reproductivas como la extracción de semen, traslado de óvulos, inseminación artificial, entre otras;
 
 XVII. No contar con la Cartilla de vacunación animal, expedida por la autoridad correspondiente en términos de esta Ley;
 
@@ -947,7 +1299,7 @@ XIX. El suministrar a los Animales de forma intencional o negligente, sustancias
 
 XX. Realizar algún experimento con uno o varios animales sin obtener la autorización a que se refiere esta Ley;
 
-XXI. No insensibilizar previamente a los animales domésticos de compañía previo a su sacrificio humanitario, inflingirles (sic) dolor o sufrimiento innecesarios en el proceso;
+XXI. No insensibilizar previamente a los animales domésticos de compañía previo a su sacrificio humanitario, infringirles dolor o sufrimiento innecesarios en el proceso;
 
 XXII. No insensibilizar previamente al Animal que sea usado para experimentación de vivisección, no curarlo y alimentarlo en forma debida antes y después de la intervención o no sacrificar de manera humanitaria al animal al término de la operación si las heridas son de consideración o implican mutilación grave;
 
@@ -957,29 +1309,31 @@ XXIV. Sacrificar a un Animal en la vía pública sin que medie motivo de caso fo
 
 XXV. No sacrificar inmediatamente, los propietarios, encargados o administradores de expendios de Animales o rastros, al Animal que por cualquier causa se hubiese lesionado gravemente;
 
-XXVI. Realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos en remolques o vehículos automotores que circulen por las vías públicas;
+XXVI. Realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos en remolques o vehículos automotores que circulen por las vías públicas, sin la autorización previa correspondiente; y,
 
-XXVII. Los animales en exhibiciones como circos y zoológicos quedan sujetos a las normas contenidas dentro de esta ley y las leyes Federales que apliquen a este rubro;
+XXVII. Las demás previstas en las disposiciones de la presente Ley y Reglamentos aplicables.
 
-XXVIII. Las demás previstas en las disposiciones de la presente Ley.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 90.
+###### Artículo 110.
 
-Para efectos de esta Ley se consideran infracciones, competencia de aplicación, de los Municipios, las siguientes:
+Para efectos de esta Ley se consideran infracciones y serán previstas como tales, en la Reglamentación municipal, las siguientes:
 
 I. Cuando fuese abandonado el Animal de forma voluntaria o involuntaria ya sea en la vía pública;
 
-II. No contar con el permiso correspondiente para la cría, reproducción y enajenación de animales;
+II. No contar con el permiso correspondiente para la cría, reproducción y enajenación de animales domésticos y de compañía;
 
 III. Vender animales en la vía pública, parques, plazas y jardines así como dentro de estacionamientos comerciales;
 
-IV. Que el animal doméstico de compañía que este en la vía pública, en compañía de su propietario, poseedor o encargado, no cuente con collar, correa, identificación permanente en el cuerpo como placa de identificación y tatuaje, así como bozal para el caso de Animales Potencialmente Peligrosos.
+IV. Que el animal doméstico que este en la vía pública, en compañía de su propietario, poseedor o encargado, no cuente con collar, correa, identificación permanente en el cuerpo como placa de identificación, tatuaje o chip, según sea el caso, así como bozal para el caso de Animales Potencialmente Peligrosos.
 
 V. Tener en exhibiciones públicas o privadas animales en malas condiciones, que presenten estereotipias o enfermedades, dentro de recintos insalubres o demasiado pequeños para su especie y bienestar.
 
-###### Articulo 91.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-A quienes infrinjan la presente Ley, la Secretaría o los Municipios según corresponda, aplicará las sanciones siguientes:
+###### Artículo 111.
+
+Se aplicarán las siguientes sanciones a quienes infrinjan la presente Ley:
 
 I. Apercibimiento o amonestación pública o privada;
 
@@ -999,31 +1353,237 @@ VIII. Revocación de permisos, autorizaciones y licencias, según corresponda;
 
 IX. Clausura temporal o definitiva, parcial o total, de las instalaciones y sitios donde se desarrollen las actividades violatorias a esta Ley;
 
-X. Pago de todos los gastos erogados por el depositario de los Animales decomisados durante el procedimiento administrativo, tales como hospedaje, alimentación y atención veterinaria, entre otros; o,
+X. Pago de todos los gastos erogados por el depositario de los Animales decomisados durante el procedimiento administrativo, tales como hospedaje, alimentación y atención veterinaria, entre otros;
 
-XI. Realización de trabajo comunitario en beneficio de la sociedad en su conjunto.
+XI. Realización de trabajo comunitario; o
 
 XII. En caso de que el dictamen lo considere necesario, asistir a terapia psicológica, lo cual será supervisado por la autoridad competente y/o la procuraduría del menor.
 
 Para imponer las sanciones señaladas la autoridad competente considerará la gravedad de la conducta, si existe reincidencia, los daños y perjuicios causados a terceros en sus bienes o sus personas; la intención con la cual fue cometida y los antecedentes, circunstancias y situación socioeconómica del infractor y de los afectados.
 
-###### Artículo 92.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-Para el caso de la sanción resarcitoria, la Secretaría aplicará por ésta, una cuota de recuperación de 50 a 10,000 días de salario mínimo general vigente en el Estado, según lo considere, independientemente, según sea el caso, de las demás sanciones que correspondan.
+###### Artículo 112.
 
-###### Artículo 93.
+Para el caso de la sanción resarcitoria, la Autoridad competente podrá aplicar una cuota de recuperación de 50 a 10,000 días de salario mínimo general vigente en el Estado, según se determine en Resolución fundada y motivada, con independencia de la imposición de otras sanciones.
 
-La violación de las disposiciones de esta Ley por parte de quien ejerza la profesión de Médico Veterinario o Médico Zootecnista, independientemente de la responsabilidad civil, penal o administrativa en la que incurra, ameritará aumento de la multa hasta en un cincuenta por ciento.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 113.
+
+Las multas previstas en esta Ley se aumentarán hasta en un cincuenta por ciento, cuando las infracciones a la presente Ley se cometan o se realicen con la participación de un Médico Veterinario, independientemente de la responsabilidad civil, penal o administrativa en la que incurra.
 
 La reincidencia en cualquiera de las infracciones a esta Ley ameritará aumento de la multa hasta por el doble de la sanción pecuniaria correspondiente, sin menoscabo de la aplicación de un arresto administrativo hasta por 72 horas.
 
-La Secretaría deberá convenir con los municipios que lo recaudado por concepto de sanciones sea destinado para campañas de esterilización y Sacrificio Humanitario de los Animales en los Centros de Asistencia Canino y Felino.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 94.
+###### Artículo 114.
+
+Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
+
+I. La gravedad de la infracción;
+
+II. Las condiciones económicas del infractor;
+
+III. La reincidencia, si la hubiere;
+
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+
+V. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción; y
+
+VI. El daño ocasionado en la integridad física del animal.
+
+En el caso en que el infractor realice las medidas correctivas o subsane las irregularidades en que hubiere incurrido, previamente a que la autoridad imponga una sanción, dicha situación deberá considerarse como atenuante de la infracción cometida.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 115.
+
+Para los efectos del artículo anterior las infracciones se clasifican de gravedad alta, media y baja.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 116.
+
+Son infracciones de gravedad alta:
+
+I. El maltrato de animales que les cause invalidez o muerte;
+
+II. El abandono de animales;
+
+III. Practicar una mutilación con fines exclusivamente estéticos o sin utilidad alguna salvo las practicadas por veterinarios en caso de necesidad;
+
+IV. Depositar alimentos envenenados en espacios y lugares públicos, salvo los empleados por empresas autorizadas para el control de plagas;
+
+V. El uso de animales en fiestas o espectáculos en los que éstos puedan ser objeto de daños, sufrimientos, tratamientos antinaturales, malos tratos o en los que se pueda herir la sensibilidad del espectador;
+
+VI. El suministro a los animales de alimentos y medicamentos que contengan sustancias que puedan provocarles sufrimientos o daños innecesarios;
+
+VII. La organización de peleas con y entre animales;
+
+VIII. La cesión por cualquier título de locales, terrenos o instalaciones para la celebración de peleas con y entre animales;
+
+IX. La utilización de animales por parte de sus propietarios o poseedores para su participación en peleas;
+
+X. La filmación con animales de escenas que conlleven crueldad, maltrato o sufrimiento, cuando los daños no sean simulados;
+
+XI. La utilización en los procedimientos de experimentación de animales de especies no recogidas en la normativa aplicable;
+
+XII. La realización de procedimientos de experimentación no autorizados.
+
+XIII. La utilización de animales para procedimientos de experimentación en centros no reconocidos oficialmente;
+
+XIV. Utilizarlos en procedimientos de experimentación o destinarles a los mismos sin el cumplimiento de las garantías establecidas en la normativa aplicable;
+
+XV. Realizar el sacrificio de un animal sin seguir las especificaciones de esta Ley y de la normativa aplicable;
+
+XVI. El empleo de animales vivos para el entrenamiento de otros;
+
+XVII. La comisión de más de una infracción de naturaleza grave, cuando así haya sido declarado por resolución firme; y
+
+XVIII. Las demás que establezcan los Ayuntamientos en sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 117.
+
+Son infracciones de gravedad media:
+
+I. El maltrato a animales que causen dolor o sufrimiento o lesiones no invalidantes;
+
+II. No realizar las vacunaciones y tratamientos obligatorios previstos en la normativa aplicable;
+
+III. No mantener a los animales en buenas condiciones higiénico-sanitarias o en las condiciones fijadas por la normativa aplicable;
+
+IV. No suministrar a los animales la asistencia veterinaria necesaria;
+
+V. Imponer un trabajo que supere la capacidad de un animal u obligar a trabajar a animales enfermos, fatigados;
+
+VI. La venta o donación de animales para la experimentación sin la autorización correspondiente;
+
+VII. La filmación de escenas con animales que simulen crueldad, maltrato o sufrimiento sin la correspondiente autorización administrativa;
+
+VIII. El empleo de animales en exhibiciones que les cause sufrimiento o dolor;
+
+IX. La cría o comercialización de animales sin cumplir los requisitos correspondientes;
+
+X. La venta o donación de animales a menores de edad o incapacitados sin la autorización de quien tenga su patria potestad, tutela o custodia;
+
+XI. No facilitar a los animales la alimentación adecuada a sus necesidades;
+
+XII. Ofrecer animales como premio o recompensa en concursos, o con fines publicitarios;
+
+XIII. La venta ambulante de animales, sin contar con el permiso de la autoridad correspondiente;
+
+XIV Impedir al personal habilitado por los órganos competentes el acceso a las instalaciones de los establecimientos previstos en la presente Ley, así como no facilitar la información y documentación que se les requiera en el ejercicio de las funciones de control;
+
+XV. El incumplimiento, por parte de los centros veterinarios y centros para la venta, adiestramiento y cuidado temporal de los animales de compañía, de los requisitos y condiciones establecidas en la presente Ley;
+
+XVI. La venta de animales enfermos cuando se tenga constancia de ello;
+
+XVII. El transporte de animales sin reunir los requisitos legales;
+
+XVIII. La negativa u obstaculización a suministrar datos o facilitar la información requerida por las autoridades competentes o sus agentes, en orden al cumplimiento de funciones establecidas en esta Ley, así como el suministro de información inexacta o de documentación falsa;
+
+XIX. La posesión de animales no registrados ni identificados conforme a lo previsto en esta Ley; y
+
+XX. Las demás que establezcan los Ayuntamientos en sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 118.
+
+Son infracciones de gravedad baja:
+
+I. La carencia o tenencia incompleta del archivo de fichas clínicas de los animales objeto de tratamiento obligatorio;
+
+II. La no obtención de las autorizaciones, permisos o licencias necesarias, en cada caso, para estar en posesión del animal de que se trate, cuando así lo exijan las disposiciones legales aplicables;
+
+III. La manipulación artificial de los animales con objeto de hacerlos atractivos como diversión o juguete para su venta;
+
+IV. La falta de notificación a la autoridad de la utilización de animales de experimentación;
+
+V. La perturbación por parte de los animales de la tranquilidad y el descanso de los vecinos;
+
+VI. El no recoger de forma inmediata u omitir la recolección de los excrementos evacuados por el animal de compañía en las vías públicas;
+
+VII. Cualquier otra conducta cometida por acción u omisión que contravenga las disposiciones contenidas en la presente ley y que no sea considerada como infracción grave o muy grave;
+
+VIII. Las demás que establezcan los Ayuntamientos en sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 119.
+
+Quedan exceptuadas de las disposiciones establecidas en los artículos 57, 109, 110, 111, 116 fracciones I, VII, IX y XV; 117 fracciones I y VII, de la presente Ley, las corridas de toros, novillos, becerros, jaripeos, rodeo, charreadas, carreras de caballos, peleas de gallos así como los espectáculos de adiestramiento y entretenimiento familiar, mismos que habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
+
+## TITULO SEXTO. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 120.
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y demás disposiciones jurídicas aplicables, podrán ser impugnadas conforme a lo previsto en la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
-## TITULO SEXTO. DEL RECURSO DE INCONFORMIDAD
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 121.
+
+El recurso de inconformidad se interpondrá por escrito ante el titular de la unidad administrativa que hubiere dictado la resolución recurrida.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 122.
+
+En el escrito en el que se interponga el recurso se señalará:
+
+I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece si ésta no se tenía justificada ante la autoridad que conozca del asunto;
+
+II. Bajo protesta de decir verdad, la fecha en que el recurrente tuvo conocimiento de la resolución recurrida;
+
+III. El acto o la resolución que se impugna;
+
+IV. Los agravios que, a juicio del recurrente, le cause la resolución o el acto impugnado;
+
+V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
+
+VI. Los documentos que el recurrente ofrezca como prueba, que tengan relación inmediata o directa con la resolución o acto impugnado. Dichos documentos deberán acompañarse al escrito a que se refiere el presente artículo;
+
+VII. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con éste. No podrá ofrecerse como prueba la confesión de la autoridad, y
+
+VIII. La solicitud de suspensión del acto o resolución impugnado, previa la comprobación de haber garantizado, en su caso, debidamente el Importe de la multa o multas impuestas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 123.
+
+Al recibir el recurso, la autoridad verificará si éste fue interpuesto en tiempo, admitiéndolo o rechazándolo.
+
+Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir del día hábil siguiente al de la notificación del proveído de admisión.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 124.
+
+La ejecución de la resolución impugnada, se podrá suspender cuando se cumplan los siguientes requisitos:
+
+I. Lo solicite el interesado;
+
+II. No se pueda seguir perjuicio al interés general;
+
+III. No se trate de infracciones reincidentes;
+
+IV. Que de ejecutarse la resolución, pueda causar daños de difícil reparación para el recurrente, y
+
+V. Se garantice el importe de las multas impuestas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 125.
+
+Transcurrido el término para el desahogo de las pruebas, si las hubiere, dispondrá el recurrente de tres días para alegar de su derecho, y agotados éstos se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido.
+
+Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
 ## TRANSITORIOS
 
@@ -1066,3 +1626,19 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2013.
+
+PRIMERO.- La presente Ley entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Los procedimientos instaurados en materia de protección Animal previos a la entrada en vigor del presente Decreto, serán resueltos en términos de lo previsto por la entonces vigente Ley de Protección y Bienestar Animal para la sustentabilidad del Estado de Durango.
+
+CUARTO.- Las Autoridades Municipales promoverán, en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+QUINTO.- La Secretaría promoverá, en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, la emisión del Reglamento que permita la exacta observancia de la Ley, en las materias de su competencia.
+
+SEXTO.- Los Consejos Consultivos a que se refiere esta Ley deberán instalarse dentro de los 30 días después de la expedición de los reglamentos emitidos para tal efecto.
