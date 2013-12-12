@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-5-2003-del-pleno-de-la-suprema-corte-de-40929"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-04-08"
-last_updated: "2003-04-08"
+last_updated: "2013-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40929&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-03-25"
 ---
 # ACUERDO NUMERO 5/2003 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LAS TESIS EMITIDAS POR LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION, Y VERIFICACION DE LA JURISPRUDENCIA EMITIDA POR LA PROPIA CORTE]
 
-ACUERDO NUMERO 5/2003 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE VEINTICINCO DE MARZO DE DOS MIL TRES, RELATIVO A LAS REGLAS PARA LA ELABORACION, ENVIO Y PUBLICACION DE LAS TESIS QUE EMITEN LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION, Y PARA LA VERIFICACION DE LA EXISTENCIA Y APLICABILIDAD DE LA JURISPRUDENCIA EMITIDA POR LA SUPREMA CORTE
+ACUERDO NUMERO 5/2003 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICINCO DE MARZO DE DOS MIL TRES, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, ENVÍO Y PUBLICACIÓN DE LAS TESIS QUE EMITEN LOS ÓRGANOS DEL PODER JUDICIAL DE LA FEDERACIÓN, Y PARA LA VERIFICACIÓN DE LA EXISTENCIA Y APLICABILIDAD DE LA JURISPRUDENCIA EMITIDA POR LA SUPREMA CORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DEL ACUERDO GENERAL NÚMERO 20/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, ENVÍO Y PUBLICACIÓN EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA, DE LAS TESIS QUE EMITEN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, LOS PLENOS DE CIRCUITO Y LOS TRIBUNALES COLEGIADOS DE CIRCUITO, PUBLICADO EN EL D.O.F. DE 12 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL DOS DE ENERO DE DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de abril de 2003 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Marzo de 2003, página 1785.
 
@@ -646,3 +648,15 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 5/2003, relativo a las reglas para la elaboración, envío y publicación de las tesis que emiten los órganos del Poder Judicial de la Federación, y para la verificación de la existencia y aplicabilidad de la jurisprudencia emitida por la Suprema Corte, fue aprobado por el Tribunal Pleno en sesión privada de veinticinco de marzo en curso, por unanimidad de once votos de los señores Ministros: presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Genaro David Góngora Pimentel, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a veintiséis de marzo de dos mil tres.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 12 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día dos de enero de dos mil catorce.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 5/2003, de veinticinco de marzo de dos mil tres, relativo a las reglas para la elaboración, envío y publicación de las tesis que emiten los órganos del Poder Judicial de la Federación, y para la verificación de la existencia y aplicabilidad de la jurisprudencia emitida por la Suprema Corte, así como las demás disposiciones generales y específicas que se opongan a lo previsto en este instrumento normativo.
+
+TERCERO. Tomando en cuenta lo previsto en el segundo párrafo del Punto Transitorio Sexto del Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al Expediente Electrónico, las comunicaciones electrónicas señaladas en el presente instrumento normativo se realizarán provisionalmente mediante el uso de los certificados digitales de firma electrónica referidos en los Puntos Transitorios Tercero y Cuarto, parte primera, del citado Acuerdo General Conjunto, a través del Módulo de Intercomunicación de la Suprema Corte de Justicia de la Nación, al que podrán acceder los Plenos de Circuito y los Tribunales Colegiados de Circuito a través de la Red Jurídica SCJN o, en tanto dicho Módulo inicia su funcionamiento, a la o a las direcciones electrónicas que se indiquen por la Secretaría General de Acuerdos en la Circular correspondiente, desde el correo oficial del Secretario de Acuerdos del Pleno o del Tribunal Colegiado de Circuito respectivo, al cual el personal de la Coordinación remitirá las observaciones pertinentes.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
