@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2010-del-pleno-del-consejo-de-la-77112"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-10-29"
-last_updated: "2013-11-15"
+last_updated: "2013-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-10-21"
 
 ACUERDO GENERAL 32/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA OCTAVA REGIÓN, CON RESIDENCIA EN CANCÚN, QUINTANA ROO, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de octubre de 2010.
 
@@ -59,11 +59,9 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 49/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Octava Región, conformado por un tribunal colegiado de Circuito con residencia en Mérida, Yucatán y un Juzgado de Distrito con sede en Cancún, Quintana Roo; todos ellos tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
-
-Juzgado de Distrito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Octava Región, conformado por un tribunal colegiado de Circuito con residencia en Mérida, Yucatán, el cual tendrá jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región, con residencia en Mérida, Yucatán.
 
@@ -212,3 +210,13 @@ La Dirección General de Estadística Judicial atenderá lo relativo al archivo 
 QUINTO. La nueva conformación del Pleno del Vigésimo Séptimo Circuito derivada de la incorporación a este del Tercer Tribunal Colegiado materia del presente Acuerdo, tendrá lugar hasta el uno de enero de dos mil catorce. Lo anterior, para ajustarse a lo dispuesto por el artículo 5, y demás dispositivos aplicables, del Acuerdo General 14/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
 
 SEXTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar, de inmediato, el texto de la reforma al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación del Número y Límites Territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; y del Acuerdo General 32/2010, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. DE 13 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Quedan sin efecto las disposiciones dictadas con anterioridad en lo que se opongan al presente acuerdo.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito; y del Acuerdo General 32/2010 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán.
