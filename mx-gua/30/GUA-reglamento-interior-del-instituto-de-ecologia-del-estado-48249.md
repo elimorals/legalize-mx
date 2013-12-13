@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2012-12-04"
+last_updated: "2013-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGÍA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -169,7 +169,9 @@ V. El Titular de la Secretaría de Desarrollo Económico Sustentable;
 
 VI. El Titular de la Secretaría de Salud;
 
-VII. El Titular de la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+VII. El Titular de la Secretaría de Desarrollo Agroalimentario y Rural;
 
 VIII. El Titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
@@ -183,7 +185,9 @@ XII. Hasta cuatro representantes del sector social designados por el Ejecutivo d
 
 Los consejeros tendrán la calidad de propietarios y nombrarán un suplente quien tendrá las mismas facultades del consejero propietario en caso de ausencia de éste.
 
-Los integrantes del Consejo Directivo, asistirán a las sesiones y ejercerán su derecho a voz y voto, salvo el Titular de la Secretaría de la Transparencia y Rendición de Cuentas, quien solamente tendrá derecho a voz.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+Los integrantes del Consejo Directivo participarán en las sesiones y ejercerán su derecho a voz y voto, salvo el Titular de la Secretaría de la Transparencia y Rendición de Cuentas, quien solamente tendrá derecho a voz.
 
 Los ciudadanos previstos en las fracciones I y XII duraran en su encargó cuatro años y podrán ser reelectos por una sola ocasión.
 
@@ -197,15 +201,19 @@ El Consejo Directivo contará con un Secretario Técnico que será nombrado por 
 
 El Secretario Técnico tendrá por función obtener la información técnica que genera el Instituto para el desarrollo de las sesiones, levantar las actas en éstas y constatar que se otorgue el trámite administrativo a los acuerdos del Consejo Directivo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 12.
 
-El Presidente del Consejo Directivo podrá invitar a participar a las sesiones del Consejo a otros miembros de la Administración Pública Estatal, así como a instituciones de orden público o privado, dependiendo del asunto o tema enlistado en el orden del día de la sesión, a fin de facilitar la atención de los asuntos competencia del Instituto, quienes únicamente tendrán derecho a voz.
+El Presidente, previo acuerdo del Consejo Directivo, podrá invitar a participar en las sesiones del Consejo a representantes de las dependencias y entidades de la Administración Pública Estatal, vinculadas con el tema ambiental, quienes tendrán solamente derecho a voz.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2012)</small>
+El Presidente podrá proponer al Consejo Directivo que se invite a participar a especialistas, quienes tendrán únicamente derecho a voz, atendiendo a la naturaleza del asunto o tema listado en el orden del día de la sesión.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 13.
 
-Cuando el Gobernador del Estado asista a las sesiones del Consejo Directivo fungirá como Presidente del mismo y el ciudadano designado por el Gobernador será un integrante más del Consejo. En este caso Gobernador del Estado y el ciudadano tendrán derecho a voz y voto.
+Cuando el Gobernador del Estado participe en las sesiones del Consejo Directivo fungirá como Presidente del mismo y el ciudadano Presidente designado por el Gobernador será un integrante más del Consejo. En este caso el Gobernador del Estado y el ciudadano tendrán derecho a voz y voto.
 
 ###### Artículo 14.
 
@@ -249,15 +257,51 @@ I.- Vigilar el cumplimiento de las disposiciones normativas en el establecimient
 
 II.- Solicitar formalmente al Director General del Instituto la información específica que considere necesaria para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 16.
 
-El Consejo Directivo se reunirá en sesiones ordinarias y extraordinarias. Para que las sesiones sean válidas, se requerirá la asistencia de más de la mitad de sus integrantes.
+El Consejo Directivo celebrará sesiones ordinarias y extraordinarias, las cuales podrán ser presenciales o virtuales. Para que las sesiones sean válidas, se requerirá de la mitad más uno de sus integrantes.
+
+De no integrarse el quórum necesario, se emitirá una segunda convocatoria a los dos días hábiles siguientes para que dentro de los cinco días hábiles subsiguientes se lleve a cabo la sesión, la cual se celebrará con el número de integrantes que acudan.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
-Las sesiones ordinarias se celebrarán cada tres meses y las extraordinarias cuando a juicio del Presidente del Consejo Directivo o del Director General del Instituto, sea necesario. Las convocatorias serán suscritas por el Secretario Técnico del Consejo.
+Las sesiones ordinarias se celebrarán cada tres meses y las extraordinarias, cuando a juicio del Presidente del Consejo Directivo o del Director General del Instituto, sea necesario.
 
-Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los integrantes presentes y en caso de empate, el Presidente tendrá voto de calidad.
+Las convocatorias serán suscritas por el Secretario Técnico del Consejo y deberán ser notificadas, cuando se trate de sesiones ordinarias, con al menos cinco días hábiles de anticipación y con al menos veinticuatro horas en el caso de sesiones extraordinarias.
+
+La convocatoria deberá incluir los datos de verificativo y el carácter de la sesión, el orden del día y la documentación que tenga que analizarse, discutirse y aprobarse en el desarrollo de la sesión de que se trate.
+
+La participación de los integrantes del Consejo Directivo puede ser de manera personal o virtual a través de los instrumentos tecnológicos, informáticos o de cualquier otro medio producido por las nuevas tecnologías. Cuando en la sesión se cuente con asistencia virtual deberá quedar grabada la imagen y voz en archivo electrónico del desarrollo de la sesión, a fin de acreditar la asistencia y la votación de sus miembros.
+
+Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los integrantes participantes y en caso de empate el Presidente tendrá voto de calidad, deberán constar por escrito y debidamente suscritas por los integrantes del Consejo Directivo que hayan participado en la sesión.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 17 Bis.
+
+El desarrollo de las sesiones se realizará de la siguiente manera:
+
+I. El Presidente declarará instalada la sesión, previa verificación y declaratoria del quórum por parte del Secretario Técnico;
+
+II. El Secretario Técnico, a petición del Presidente, dará lectura al contenido del orden del día, sometiéndose a aprobación;
+
+III. El Presidente dirigirá los debates; y someterá a votación los acuerdos.
+
+En el desarrollo de las sesiones ordinarias solo podrán ser tratados los asuntos del orden del día contenidos en la convocatoria, pudiéndose abordar los temas que al respecto hayan sido incluidos a propuesta de los consejeros como asuntos generales, debiéndose aportar la información y documentación necesaria para incorporar el asunto de que se trate.
+
+En el desarrollo de las sesiones extraordinarias sólo se podrán tratar los asuntos del orden del día contenidos en la convocatoria;
+
+IV. El Secretario Técnico, a petición del Presidente, dará lectura a los acuerdos generados y éste último someterá a votación los acuerdos;
+
+V. El Presidente dará por concluida la sesión; y
+
+VI. El Secretario Técnico levantará el acta de la sesión y recabará las firmas correspondientes.
+
+El acta de sesión que se levante deberá contener, por lo menos, un número progresivo, el año al que corresponde, carácter de la sesión, lugar, fecha, hora, participantes, desarrollo del orden del día y los acuerdos tomados.
 
 ###### Artículo 18.
 
@@ -1341,13 +1385,17 @@ Las relaciones laborales entre el Instituto y sus trabajadores, se regirán de c
 
 #### SECCIÓN SEGUNDA. LICENCIAS Y SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 63.
 
-El Director General del Instituto en sus ausencias que sean menores de quince días será suplido por el Director que para tal efecto designe, para el caso de exceder dicho plazo; será suplido por quien designe el Titular del Ejecutivo.
+El Director General del Instituto, en sus ausencias menores de quince días, será suplido por el Director que para tal efecto designe, para el caso de exceder dicho plazo, será suplido por quien designe el Titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 64.
 
-Los Directores del Instituto serán suplidos en sus ausencias que no excedan de quince días, por el Coordinador de su área que al efecto designe, si la ausencia es mayor de quince días, corresponderá al Director General del Instituto nombrar al suplente.
+Los Directores serán suplidos en sus ausencias que no excedan de quince días, por el Coordinador de su área en los asuntos de sus respectivas competencias, si la ausencia es mayor de quince días, corresponderá al Director General del Instituto nombrar al suplente.
 
 T R A N S I T O R I O S
 
@@ -1406,3 +1454,7 @@ Artículo Segundo. Las dependencias que cuenten con fideicomisos que conforme al
 Derogación tácita
 
 Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto Gubernativo.
+
+P.O. 13 DE DICIEMBRE DE 2013.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
