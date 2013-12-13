@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2013-04-17"
+last_updated: "2013-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -729,7 +729,9 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años, y la mujer mayor de catorce;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+I.- El acta de nacimiento de los pretendientes o en su defecto un dictamen médico que compruebe su edad;
 
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 145, 146 y 147;
 
@@ -1145,15 +1147,17 @@ El matrimonio debe celebrarse ante la autoridad que establece la ley con las for
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, no tendrá efecto jurídico alguno.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 144.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. La autoridad judicial competente puede conceder dispensas de edad por causas graves y justificadas.
+Podrán contraer matrimonio el hombre y la mujer que hayan cumplido dieciocho años de edad. La autoridad judicial competente puede conceder dispensas de edad por causas graves y justificadas.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 145.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos que ejerzan la patria potestad o en su defecto con quienes cohabite. En ausencia de los anteriores, por los que sobrevivan.
+El hombre o la mujer menores de dieciocho años y mayores de dieciséis años de edad, podrán contraer matrimonio con el consentimiento de sus padres, si vivieren ambos, o del que sobreviva. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos que ejerzan la patria potestad o en su defecto con quienes cohabite. En ausencia de los anteriores, por los que sobrevivan.
 
 ###### Artículo 146.
 
@@ -1653,9 +1657,11 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 230.
 
-La menor de edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+La minoría de edad de dieciséis años en el hombre y la mujer dejará de ser causa de nulidad:
 
 I.- Cuando haya habido hijos;
 
@@ -16175,20 +16181,6 @@ P.O. 7 DE AGOSTO DE 1996 SE ADICIONA ARTICULO 1692
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
-P.O. 19 DE FEBRERO DE 1997.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Los asuntos tramitados con la normatividad anterior, continuarán en su trámite con las nuevas disposiciones en cuanto no afecten los intereses de las partes y el interés público.
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas y adiciones.
-
 P.O. 5 DE ABRIL DE 1997.
 
 ###### ARTICULO PRIMERO.
@@ -16202,6 +16194,20 @@ Los asuntos tramitados con la normatividad anterior, continuarán en su trámite
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas.
+
+P.O. 19 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos tramitados con la normatividad anterior, continuarán en su trámite con las nuevas disposiciones en cuanto no afecten los intereses de las partes y el interés público.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas y adiciones.
 
 P.O. 13 DE DICIEMBRE DE 2000
 
@@ -16286,3 +16292,7 @@ P.O. 3 DE ABRIL DE 2013.
 P.O. 17 DE ABRIL DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE DICIEMBRE DE 2013.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
