@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2013-12-06"
+last_updated: "2013-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -279,7 +279,9 @@ II.- Ejercer el derecho de petición de manera respetuosa y pacífica, teniendo 
 
 III.- Si son extranjeros, gozarán de las garantías individuales y sociales, así como de los derechos establecidos en la Constitución General de la República, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y
 
-IV.- Si además de mexicanos, son ciudadanos tendrán los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+IV.- Si además de ser mexicanos, son ciudadanos tendrán los siguientes:
 
 a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
 
@@ -294,6 +296,10 @@ c) Ser votados siempre que reúnan los requisitos que determina esta Constituci�
 d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
 
 e).- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; así como al partido político de su preferencia o asociación de que se trate.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+f).- Decidir sobre la donación, trasplante de sus órganos, tejidos, células con fines terapéuticos y sobre el destino final de sus restos mortales; siempre que se apegue a las disposiciones legales establecidas en materia de salud.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -705,7 +711,7 @@ XXII.- Resolver las competencias y dirimir las controversias que se susciten ent
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-XXIII.- Elegir a los tres Magistrados Numerarios del Tribunal de lo Contencioso Administrativo, así como a los dos Supernumerarios en orden del prelación, y resolver respecto a su reelección o no reelección, renuncias y remociones;
+XXIII.- Elegir a los tres Magistrados Numerarios del Tribunal de lo Contencioso Administrativo, así como a los dos Supernumerarios en orden de prelación, y resolver respecto a su reelección o no reelección, renuncias y remociones;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2295,6 +2301,10 @@ En el Estado las mujeres tienen los mismos derechos civiles y políticos que los
 
 El Estado y los Municipios promoverán el desarrollo integral de la juventud; la Ley establecerá los mecanismos para la protección de sus derechos.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+El Estado y los Municipios fomentarán el acceso universal de toda persona a la conectividad de redes digitales dentro de los bienes del dominio público que a cada ámbito correspondan, desarrollando las acciones que sean necesarias para garantizar el ejercicio de este derecho.
+
 ###### ARTICULO 99.
 
 Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
@@ -3620,3 +3630,21 @@ Artículo Segundo.- Agotado el trámite y pronunciada la declaratoria señalada 
 Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 Artículo Cuarto.- En un término que no exceda de 60 días a partir de la vigencia del presente Decreto, el Congreso del Estado realizará las adecuaciones necesarias a los ordenamientos legales que se vean impactados por la presente reforma.
+
+P.O. 13 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 13 POR EL QUE SE APRUEBA LA ADICIÓN DE UN INCISO F) A LA FRACCIÓN IV DEL ARTICULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese la presente reforma a los Ayuntamientos del Estado a efecto de que se emita su opinión, siguiendo con el procedimiento marcado en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el Proceso Legislativo en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, resultando el recuento aprobatorio, la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 14 POR EL QUE SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+
+PRIMERO.- Aprobada que sea ésta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
