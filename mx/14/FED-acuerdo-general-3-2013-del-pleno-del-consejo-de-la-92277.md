@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-11-29"
+last_updated: "2013-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -109,7 +109,9 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
-SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 51/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+
+SEGUNDO. Cada uno de los Circuitos a los que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
 I. PRIMER CIRCUITO:
 
@@ -253,9 +255,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 2. Ocho tribunales unitarios: tres con sede en Mexicali y cinco con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSÉPTIMO DEL ACUERDO GENERAL 38/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 51/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
-3. Diecisiete juzgados de Distrito en el Estado de Baja California, seis con sede en Mexicali, nueve con residencia en Tijuana, seis especializados en Procesos Penales Federales y tres en Materia de Amparo y Juicios Federales y dos con sede en Ensenada.
+3. Diecinueve juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis más, con sede en Mexicali y diez con residencia en Tijuana, éstos últimos comprenden seis especializados en Procesos Penales Federales y cuatro en Materia de Amparo y Juicios Federales.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
@@ -307,7 +309,9 @@ XXI. VIGESIMO PRIMER CIRCUITO:
 
 2. Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
 
-3. Nueve juzgados de Distrito en el Estado de Guerrero: dos con residencia en Chilpancingo, cinco con residencia en Acapulco y dos con residencia en Iguala.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 47/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+
+3. Diez juzgados de Distrito en el Estado de Guerrero: tres con residencia en Chilpancingo, cinco con residencia en Acapulco y dos con residencia en Iguala.
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
@@ -357,7 +361,9 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 2. Un tribunal unitario con sede en Cancún.
 
-3. Seis juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y cuatro con sede en Cancún.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 49/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+
+3. Siete Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y cinco con sede en Cancún.
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún.
 
@@ -735,9 +741,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 49/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
-8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán y un Juzgado de Distrito Auxiliar, con residencia en Cancún, Quintana Roo.
+8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
@@ -980,3 +986,33 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. DE 13 DE DICIEMBRE DE 2013.
+
+ACUERDO GENERAL 47/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XXI, PUNTO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. DE 13 DE DICIEMBRE DE 2013.
+
+ACUERDO GENERAL 49/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO, INCISO 8 Y EL PUNTO SEGUNDO, APARTADO XXVII. VIGÉSIMO SÉPTIMO CIRCUITO, INCISO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Quedan sin efecto las disposiciones dictadas con anterioridad en lo que se opongan al presente acuerdo.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito; y del Acuerdo General 32/2010 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 13 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
