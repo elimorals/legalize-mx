@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-coordinacion-general-de-proyectos-957
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-26"
-last_updated: "2013-08-26"
+last_updated: "2013-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE PROYECTOS ESTRATÉGICOS, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de agosto de 2013.
 
@@ -346,3 +348,11 @@ C. GERARDO O. VARGAS LANDEROS
 EL COORDINADOR GENERAL DE PROYECTOS ESTRATÉGICOS
 
 C. FRANCISCO LABASTIDA GÓMEZ DE LA TORRE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Coordinacion General de Proyectos Estrategicos, publicado en el Periodico Oficial "El Estado de Sinaloa" el dia 26 de agosto de 2013, y se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Reglamento.
