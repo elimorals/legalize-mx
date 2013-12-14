@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-ministerio-publico-del-estado-de-zacatecas-168
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-08-12"
-last_updated: "2012-08-04"
+last_updated: "2013-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE ZACATECAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2014 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de agosto del 2000.
 
@@ -307,9 +309,11 @@ La Institución, además, por previsión reglamentaria o por Acuerdo del Procura
 
 La Institución contará con las unidades administrativas u órganos indispensables para cumplir con las disposiciones legales que establezcan los principios y procedimientos generales que deberán orientar la recepción, registro, guarda, custodia, conservación, y en su caso, con las características que se determinen, la aplicación y el destino de bienes asegurados en beneficio de la Procuración de Justicia, así como los relativos a la confidencialidad, control y supervisión, que garanticen su administración eficaz y honesta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 16.
 
-La Institución del Ministerio Público con base al principio de Jerarquía, se integrará de la forma que a continuación se enumera:
+La Institución del Ministerio Público con base en el principio de jerarquía, se integrará de la forma que a continuación se enumera:
 
 I. Procurador General de Justicia del Estado;
 
@@ -331,9 +335,9 @@ VII. Dirección de Servicios Periciales;
 
 VIII. Dirección de la Policía Ministerial;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-IX. Dirección de Prevención y Atención a Víctimas del Delito;
+IX. Unidad de Justicia para las Mujeres;
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -405,17 +409,19 @@ Los Peritos actuarán bajo la autoridad y mando inmediato del Ministerio Públic
 
 Para ser Procurador General de Justicia, deberán satisfacerse los requisitos que establece la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 25.
 
-Para ser Subprocurador, Director General y Director se requiere:
+Para ser Subprocurador, Director General, Delegado Regional y Director se requiere:
 
 I. Ser Ciudadano Zacatecano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad cumplidos el día de la designación;
 
-III. Contar con Título Profesional de Licenciado en Derecho. El Director Administrativo podrá, igualmente, ser Licenciado en Contaduría, en Administración u otro equivalente. El Director de la Policía Ministerial podrá, igualmente, tener alguna Licenciatura o grado académico relacionado con seguridad pública, carrera policial o equivalente. El Director de Prevención del Delito podrá tener, igualmente, Licenciatura en un área de psicología, sociología, antropología o equivalente en atención a sus funciones.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-Los funcionarios anteriores deberán contar, además, con la cédula profesional respectiva.
+III. Contar con Título Profesional de Licenciado en Derecho. El Director Administrativo podrá, igualmente, ser Licenciado en Contaduría, en Administración u otro equivalente. El Director de la Policía Ministerial podrá, igualmente, tener alguna Licenciatura o grado académico relacionado con seguridad pública, carrera policial o equivalente. La Directora de la Unidad de Justicia para las Mujeres deberá contar con Título Profesional de Licenciatura en Derecho, Trabajo Social, Psicología, Sociología, Antropología o equivalente, en atención a sus funciones tener experiencia en el ámbito de procuración de justicia y reconocimiento por su labor a favor del respeto de los derechos humanos de las mujeres.
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
 
@@ -679,7 +685,9 @@ XXIII. Proponer los procedimientos internos que aseguren la mayor eficacia y efi
 
 El Subprocurador de Derechos Humanos y Atención a Víctimas tendrá a su cargo y responsabilidad:
 
-I. La Dirección de Prevención y Atención a Víctimas del Delito; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+I. La Unidad de Justicia para las Mujeres.
 
 II. La Unidad de Contraloría Interna y Derechos Humanos.
 
@@ -843,61 +851,103 @@ VII. Ejecutar los mandamientos judiciales que de manera especial le solicite la 
 
 VIII. Las demás que le asigne esta Ley y el Reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 43.
 
-La Dirección de Prevención y Atención a Víctimas del Delito tendrá por objeto la formulación de estrategias y programas tendientes a evitar delitos, a fin de salvaguardar los valores fundamentales que son vitales para el individuo y la sociedad, tales como la vida, la integridad física y moral y la propiedad, así como el diseño de políticas tendientes a garantizar los derechos de las víctimas.
+La Unidad de Justicia para las Mujeres, es un órgano administrativo de la Procuraduría General de Justicia del Estado, encargado de coadyuvar con las instancias gubernamentales, del Poder Judicial y organizaciones de la sociedad civil que brindan servicios de manera interdisciplinaria, secuencial, interinstitucional, coordinada y especializada a mujeres víctimas de violencia, sus hijas e hijos, para concretar acciones que garanticen el acceso a la justicia y a encontrar conjuntamente un proceso de potencialización en el respeto y ejercicio de sus derechos humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 44.
 
-Corresponde a la Dirección de Prevención y Atención a Víctimas del Delito:
+Corresponde a la Unidad de Justicia para las Mujeres:
 
-I. Implementar las estrategias pertinentes y proponer políticas y normas en materia de prevención del delito que sean acordes con las necesidades y realidades de la Entidad;
+I. Diseñar y desarrollar, con perspectiva de género, una política persecutoria e indagatoria del delito, orientada a la prevención y sanción efectiva de la violencia contra las mujeres;
 
-II. Coordinar recursos y actividades e intercambiar información y experiencias con dependencias de los gobiernos estatal, municipal y federal a fin de lograr una mayor eficiencia y eficacia en los programas de prevención;
+II. Proporcionar orientación y atención a las mujeres, sus hijas y sus hijos para salvaguardar en todo momento su integridad. Informarlas de manera clara, sencilla y concreta, sobre sus derechos y los servicios públicos o privados disponibles para su caso en particular;
 
-III. Editar y difundir materiales impresos destinados a dar a conocer las políticas y acciones que realice la Dirección, así como a informar a la ciudadanía sobre la manera en que puede coadyuvar y participar en actividades de prevención del delito;
+III. Facilitar a las personas víctimas de violencia el acceso a la justicia, para combatir y contrarrestar la violencia que sufren las mujeres;
 
-IV. Propiciar la participación activa de la ciudadanía en la formulación y ejecución de las políticas y programas de prevención del delito mediante la realización constante de encuestas, foros de consulta y la organización de comités en áreas de mayor incidencia delictiva; y
+IV. Ofrecer un ambiente seguro, empático y confiable a las usuarias, sus hijas e hijos, en donde se respete sobre todo su dignidad;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+V. Contribuir a la reducción de las tasas de violencias de género, familiar, sexual y de homicidios dolosos contra mujeres tipificados como feminicidios;
 
-V. Proporcionar orientación y asesoría jurídica a las víctimas y ofendidos por delitos del fuero común;
+VI. Fomentar el incremento de las denuncias, reducir la impunidad y favorecer una mayor confiabilidad en el sistema de justicia;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+VII. Evitar la revictimización de las personas usuarias de la Unidad;
 
-VI. Coordinarse con las áreas competentes para promover que se garantice y haga efectiva la reparación de los daños y perjuicios a las víctimas y ofendidos de los delitos del fuero común, de conformidad con las disposiciones legales aplicables;
+VIII. Consolidar un equipo multidisciplinario profesionalizado y destacado en el tema de género y violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+IX. Intervenir en representación de la Procuraduría General de Justicia del Estado en el Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
 
-VII. Proponer la celebración de convenios con instituciones de asistencia médica y social, públicas y privadas, para los efectos del artículo 20, apartado C, fracción III, de la Constitución Política de los Estados Unidos Mexicanos;
+X. Capacitar e instruir a los agentes del Ministerio Público para que atiendan los casos de violencia familiar que se les presenten;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+XI. Tomar las medidas provisionales necesarias, para que se cumplan los objetivos de atención y prevención de la Ley para Prevenir y Atender la Violencia Familiar en el Estado de Zacatecas y solicitar al juez competente se ordenen las medidas de protección que requieran las víctimas de delitos de violencia familiar;
 
-VIII. Canalizar a las víctimas y ofendidos por delitos del fuero común, así como a otras personas cuando resulte necesario, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención;
+XII. Proporcionar a las personas receptoras de la violencia familiar o, en su caso, víctimas del delito, la orientación jurídica y de cualquier otra índole que resulten necesarias, para su eficaz atención y protección;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+XIII. Ordenar se practiquen a las personas mencionadas en la fracción anterior, los exámenes necesarios para determinar las alteraciones de su integridad física o salud, incluyendo el daño psicoemocional que presente, así como su causa probable;
 
-IX. Implementar medidas que faciliten el avenimiento entre la víctima u ofendido del delito y el imputado;
+XIV. Promover el desarrollo de técnicas de investigación para la obtención eficaz de las pruebas necesarias en los casos de violencia familiar, con respeto a la dignidad, intimidad y privacidad de las víctimas;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+XV. Rendir al Consejo Estatal para la Prevención y Atención de la Violencia Familiar la información estadística, desagregada por sexo y por edad, sobre los casos de violencia familiar que hayan sido de su conocimiento, con las observaciones pertinentes para su seguimiento. Esta información cuidará el derecho a la intimidad de las víctimas de estos actos;
 
-X. Establecer el sistema de atención a detenidos que se encuentran a disposición del Ministerio Público o en las instalaciones de la Institución, vigilando el respeto irrestricto de sus derechos humanos;
+XVI. Asesorar a las víctimas de Violencia Familiar en lo relativo a la importancia de preservar las pruebas que se tengan respecto de la conducta de su agresor;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+XVII. Dirigir de inmediato a la Unidad de Atención a la Violencia Familiar correspondiente, a la persona que ha sufrido lesiones físicas o de tipo emocional, si requiere intervención médica deberán ser canalizadas a un centro de salud, sin perjuicio de que se le proporcione de inmediato asesoría jurídica;
 
-XI. Diseñar y ejecutar el programa de vinculación de la Procuraduría con la sociedad, en coordinación con el Centro Estatal para la Prevención del Delito y Participación Ciudadana;
+XVIII. Interrogar a la víctima para que manifieste si es su deseo que se promueva por la vía civil, ante el Juez competente, y en vía de providencias cautelares, orden de protección, de conformidad con lo previsto por el Código de Procedimientos Civiles. Sin perjuicio de que inicie la averiguación previa tratándose de la comisión de delitos que se persigan de oficio.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+XIX. Dar la intervención que corresponda, a la Unidad de Atención a la Violencia Familiar, para que ejerza las facultades y obligaciones que la Ley le confiere;
 
-XII. Facilitar el acceso a los servicios requeridos por las víctimas, en el ámbito de competencia de la Procuraduría, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales; y
+XX. Intervenir en representación de la Procuraduría General de Justicia del Estado en el Consejo Estatal para Prevenir y Erradicar toda Forma de Discriminación;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+XXI. Intervenir en representación de la Procuraduría General de Justicia del Estado en el Sistema para la Igualdad entre Mujeres y Hombres del Estado;
 
-XIII. Las demás que establezca esta Ley y su Reglamento.
+XXII. Intervenir en representación de la Procuraduría General de Justicia del Estado en el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra las Mujeres;
+
+XXIII. Impulsar la apertura de agencias del Ministerio Público especializadas en violencia familiar y particularmente en contra de las mujeres;
+
+XXIV. Impartir cursos de formación y especialización con perspectiva de género a Agentes del Ministerio Público, Peritos, Policía Ministerial, personal administrativo, así como a los servidores públicos encargados de la procuración de justicia y de la persecución del delito, a fin de mejorar la atención que se brinda a las mujeres víctimas de violencia;
+
+XXV. Brindar a las víctimas o a las personas agresoras, en su caso, la información integral sobre las instituciones públicas o privadas encargadas de su atención;
+
+XXVI. Dictar las medidas necesarias para que la victima reciba atención médica de emergencia, así como para realizar los exámenes médicos correspondientes, para lo cual, se aplicará el protocolo respectivo y se auxiliará por especialistas de los Servicios de Salud del Estado;
+
+XXVII. Establecer medidas de protección adecuadas, necesarias y suficientes, para salvaguardar la integridad física de las mujeres que lo soliciten;
+
+XXVIII. Intervenir por conducto de .la Policía Ministerial en la ejecución de las órdenes de protección, y de las determinaciones, resoluciones y sanciones que emitan las autoridades correspondientes en materia de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas;
+
+XXIX. Generar estudios, información y estadística sobre la violencia contra las mujeres y establecer una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del Banco Estatal;
+
+XXX. Diseñar y ejecutar campañas de difusión para promover la cultura de denuncia de la violencia contra las mujeres;
+
+XXXI. Otorgar las órdenes emergentes o preventivas a que se refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas, debidamente fundadas y motivadas, tomando en consideración el riesgo o peligro existente, la seguridad de la víctima y los demás elementos de convicción con que se cuente;
+
+XXXII. Informar a la víctima, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución y los tratados internacionales, el Código Penal y Procesal Penal respectivo y las demás disposiciones aplicables, así como el alcance de esos derechos, debiendo dejar constancia escrita de la lectura y explicación realizada;
+
+XXXIII. Vigilar el cumplimiento de los deberes consagrados en la Ley General de Víctimas, en especial el deber legal de búsqueda e identificación de victimas desaparecidas;
+
+XXXIV. Solicitar el embargo precautorio de los bienes susceptibles de aplicarse a la reparación integral del daño sufrido por la victima, así como el ejercicio de otros derechos;
+
+XXXV. Solicitar las medidas cautelares o de protección necesarias para la protección de la víctima, sus familiares y lo sus bienes, cuando sea necesario;
+
+XXXVI. Solicitar las pruebas conducentes a fin de acreditar, determinar y cuantificar el daño de la víctima, especificando lo relativo a daño moral y daño material, siguiendo los criterios de la Ley General de Víctimas;
+
+XXXVII. Dirigir los estudios patrimoniales e investigaciones pertinentes a fin de determinar la existencia de bienes susceptibles de extinción de dominio;
+
+XXXVIII. Solicitar la reparación del daño de acuerdo con los criterios señalados en la Ley General de Víctimas;
+
+XXXIX. Informar sobre las medidas alternativas de resolución de conflictos que ofrece la Ley General de Víctimas a través de instituciones como la conciliación y la mediación, y a garantizar que la opción y ejercicio de las mismas se realice con pleno conocimiento y absoluta voluntariedad;
+
+XL. Cuando los bienes asegurados sean puestos bajo la custodia de la víctima o le sean devueltos, informará claramente a ésta los alcances de dicha situación, y las consecuencias que acarrea para el proceso;
+
+XLI. Cuando se entregue a la víctima el cuerpo o restos humanos del familiar o personas cercanas, y no haya causado ejecutoria, le informará que pesa sobre ella la responsabilidad de no someter los mismos a cremación. Dicha responsabilidad sólo puede ser impuesta a la víctima en aras de hacer efectivo su derecho a la verdad y a la justicia;
+
+XLII. Llevar un registro y una auditoría sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, notificando en todo caso a las instancias de protección a la mujer a fin de que se cercioren que la víctima tuvo la asesoría requerida para la toma de dicha decisión; y
+
+XLIII. Las demás acciones que establezcan las disposiciones jurídicas aplicables en materia de atención integral a víctimas y reparación integral.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -1264,3 +1314,17 @@ Artículo tercero.- Dentro de los treinta días naturales siguientes a la vigenc
 Artículo cuarto.- A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros de la Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado de Zacatecas, se transferirán al Instituto Zacatecano de Ciencias Forenses.
 
 Artículo quinto.- El Reglamento Interno del Instituto Zacatecano de Ciencias Forenses, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor de este Instrumento Legislativo.
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo Tercero.- Dentro de los treinta días naturales siguientes a la vigencia de este Decreto, se nombrará a la Directora de la Unidad de Justicia para las Mujeres.
+
+Artículo Cuarto.- El Reglamento Interno de la Unidad de Justicia para las Mujeres deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor de este instrumento legislativo.
+
+Artículo Quinto.- En el Presupuesto de Egresos del Estado se deberán establecer las partidas presupuestales correspondientes para el funcionamiento de la Unidad de Justicia para las Mujeres.
+
+Artículo Sexto.- Los recursos humanos, materiales y financieros que pertenecían a la Dirección de Prevención y Atención a Víctimas del Delito, se transferirán a la Unidad de Justicia para Mujeres.
