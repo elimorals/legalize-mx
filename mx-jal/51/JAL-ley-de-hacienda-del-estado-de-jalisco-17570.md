@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2006-11-11"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -43,55 +43,61 @@ LEY DE HACIENDA DEL ESTADO DE JALISCO
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 1°.
 
 Los ingresos que la Hacienda Pública del Estado tiene derecho a percibir de conformidad con las disposiciones fiscales, serán los que se obtengan por concepto de:
 
-I. Impuestos sobre:
+I. Impuestos
 
-a) Transmisiones patrimoniales de bienes muebles;
+1) Impuesto sobre los Ingresos
 
-b) Negocios Jurídicos e Instrumentos Notariales;
+a) Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuesta y Concursos de Toda Clase
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+b) Impuesto sobre Enajenación y Distribución de Boletos de Rifas y Sorteos
 
-c) Adquisición de vehículos automotores usados;
+c) Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado
 
-d) Remuneraciones al trabajo personal no subordinado;
+2) Impuestos sobre la Producción, el Consumo y las Transacciones
 
-e) Nóminas;
+a) Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles
 
-f) Hospedaje;
+b) Impuesto sobre la Adquisición de Vehículos Automotores Usados
 
-g) Loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase; y
+c) Impuesto sobre Negocios Jurídicos e Instrumentos Notariales
 
-h) Enajenación de boletos de rifas y sorteos.
+d) Impuesto sobre Hospedaje
 
-II. Derechos de:
+3) Impuesto sobre Nóminas y Asimilables
 
-a) Registro Público de la Propiedad y Registro Público de Comercio;
+a) Impuesto sobre Nóminas
 
-b) Archivo de Instrumentos Públicos;
+II. Derechos
 
-c) Autorizaciones para el ejercicio profesional y notarial;
+1) Derechos por la Prestación de Servicios
 
-d) Prestaciones en el ramo de transportes;
+a) Registro Público de la Propiedad y de Comercio
 
-e) Certificaciones, expediciones de constancias y otros servicios;
+b) Archivo de Instrumentos Públicos y Archivo General del Estado
 
-f) Servicios de Catastro, y
+c) Autorizaciones para el Ejercicio Profesional y Notarial
 
-g) Servicios diversos fijados de conformidad con la presente ley o cualquier otra disposición fiscal estatal.
+d) Servicios en los ramos de Vialidad, Tránsito, Transporte y su Registro
 
-III. Productos;
+e) Certificaciones, Expediciones de Constancias y otros Servicios
+
+f) Servicios diversos fijados de conformidad con la presente ley o cualquier otra disposición fiscal estatal.
+
+III. Productos
 
 IV. Aprovechamientos;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
+V. Participaciones y aportaciones federales;
 
-V. Participaciones y aportaciones federales; y
+VI. Ingresos extraordinarios; e
 
-VI. Ingresos extraordinarios.
+VII. Ingresos por Financiamientos.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -135,13 +141,13 @@ Será base de este impuesto, el valor que resulte más alto entre el de operaci�
 
 I. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad o de sociedad legal o conyugal, el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios, herederos o cónyuges, determinado de acuerdo con lo señalado en la presente fracción;
 
-II. En las ventas judiciales o administrativas de bienes muebles, el valor de
-
-adjudicación de los bienes; y
+II. En las ventas judiciales o administrativas de bienes muebles, el valor de adjudicación de los bienes; y
 
 III. Tratándose de fideicomisos, el valor de los bienes fideicomitidos.
 
-Cuando la Secretaría de Finanzas advierta que el valor de operación consignado en el documento de que se trate; o el consignado en el avalúo pericial, es notoriamente inferior al que le correspondería como valor real, practicará avalúo con los elementos de que disponga, mismo que servirá de base para el pago de ese impuesto.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Cuando la Secretaría de Planeación, Administración y Finanzas advierta que el valor de operación consignado en el documento de que se trate; o el consignado en el avalúo pericial, es notoriamente inferior al que le correspondería como valor real, practicará avalúo con los elementos de que disponga, mismo que servirá de base para el pago de ese impuesto.
 
 De la cuota
 
@@ -173,9 +179,13 @@ II. La fecha de protocolización respectiva, tratándose de disolución o liquid
 
 III. La fecha del documento en que se haga constar el acto o contrato respectivo, en los casos no comprendidos en las fracciones anteriores.
 
-En el área metropolitana, compuesta por los municipios de Guadalajara, Tlaquepaque, Zapopan y Tonalá, el pago de este impuesto se hará en la oficina central de recaudación fiscal o en la oficina de recaudación fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de Finanzas mediante acuerdo general.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-Fuera del área metropolitana, el pago se efectuará en las oficinas de recaudación fiscal que correspondan.
+En el área metropolitana, compuesta por los Municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan el pago de este impuesto se hará en la Oficina Central de Recaudación Fiscal o en la Oficina de Recaudación Fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de Planeación, Administración y Finanzas o el Sub Secretario de Finanzas mediante acuerdo general.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Fuera del área metropolitana, el pago se efectuará en las Oficinas de Recaudación Fiscal que correspondan.
 
 ###### Artículo 8°.
 
@@ -185,17 +195,21 @@ Los bienes materia del hecho, acto o contrato, gravados con este impuesto, queda
 
 Para los efectos del artículo 7° de esta Ley, los notarios públicos o quienes hagan sus veces, las instituciones fiduciarias y los servidores públicos, en su caso, deberán retener y enterar el impuesto causado en los términos de esta Ley, por los actos o contratos en que intervengan, gravados por este impuesto.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 10.
 
-El entero del impuesto y avisos a que se refiere el artículo anterior se harán en las formas aprobadas por la Secretaría de Finanzas, debiendo proporcionar los datos y acompañar los documentos que en las mismas se indiquen.
+El entero del impuesto y avisos a que se refiere el artículo anterior se harán en las formas aprobadas por la Secretaría de Planeación, Administración y Finanzas, debiendo proporcionar los datos y acompañar los documentos que en las mismas se indiquen.
 
 ###### Artículo 11.
 
 El entero de este impuesto se hará en las oficinas señaladas en el artículo 7 de la Ley.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 12.
 
-Los avisos deberán presentarse en la Secretaría de Finanzas, dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato.
+Los avisos deberán presentarse en la Secretaría de Planeación, Administración y Finanzas, dentro de los sesenta días naturales siguientes a la fecha del documento en que se haga constar el acto o contrato.
 
 ### CAPITULO SEGUNDO. Del impuesto sobre negocios jurídicos e instrumentos notariales
 
@@ -227,7 +241,7 @@ Los fedatarios públicos, registradores y las autoridades competentes no registr
 
 De la base del impuesto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -245,15 +259,15 @@ Este impuesto se liquidará y pagará de conformidad con la tarifa o tasa que se
 
 Del pago
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
 El pago de este impuesto se efectuará dentro de los treinta días naturales siguientes a la fecha de celebración del acto jurídico o contrato, o en su defecto, a la fecha de expedición del protocolo, acta o póliza respectiva.
 
-En el área metropolitana, compuesta por los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, el pago de este impuesto se hará en la oficina de recaudación fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de Finanzas mediante acuerdo general.
+En el área metropolitana, compuesta por los Municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, el pago de este impuesto se hará en la Oficina de Recaudación Fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de Planeación, Administración y Finanzas o el Sub Secretario de Finanzas mediante acuerdo general.
 
-Fuera del área metropolitana, el pago se efectuará en las oficinas de recaudación fiscal que correspondan.
+Fuera del área metropolitana, el pago se efectuará en las Oficinas de Recaudación Fiscal que correspondan.
 
 De las exenciones
 
@@ -277,7 +291,7 @@ VI. Los contratos de arrendamiento de casa habitación;
 
 VII. La manifestación de voluntad que realicen las personas para donar sus órganos o tejidos para fines terapéuticos o de investigación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 19.
 
@@ -295,11 +309,11 @@ Tratándose de contratos mercantiles cuyo registro no puede ser demorado de acue
 
 En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, también se causará el impuesto por la celebración del contrato respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 22.
 
-Los fedatarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
+Los fedatarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Planeación, Administración y Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
 
 ### CAPITULO TERCERO. Del impuesto sobre la adquisición de vehículos automotores usados
 
@@ -325,11 +339,15 @@ De las bases del impuesto
 
 Para los efectos de este impuesto, la base gravable será:
 
-I. Tratándose de vehículos automotores y eléctricos, el valor que señale el tabulador que mediante disposiciones de carácter general expida la Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+I. Tratándose de vehículos automotores y eléctricos, el valor que señale el tabulador que mediante disposiciones de carácter general expida la Secretaría de Planeación, Administración y Finanzas;
 
 II. Tratándose de vehículos usados cuyo modelo sea del año en curso o del siguiente, el valor total consignado en la factura original expedida por el distribuidor, relativo al precio de la unidad, equipo opcional y otros accesorios,
 
-III. Tratándose de vehículos no comprendidos en el tabulador oficial, la Secretaría de Finanzas practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+III. Tratándose de vehículos no comprendidos en el tabulador oficial, la Secretaría de Planeación, Administración y Finanzas practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto; y
 
 IV. En el caso de vehículos no aptos para circular se considerará sólo el 25% del valor que señale el tabulador a que se refiere la fracción I de este artículo.
 
@@ -345,7 +363,9 @@ Tratándose de vehículos usados, deberá pagarse dentro de los treinta días po
 
 I. Endoso de la factura o del documento que acredite legalmente la propiedad del vehículo; o
 
-II. Aviso de cambio de propietario en la Secretaría de Finanzas a través de la correspondiente oficina de recaudación fiscal.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+II. Aviso de cambio de propietario en la Secretaría de Planeación, Administración y Finanzas a través de la correspondiente Oficina de Recaudación Fiscal.
 
 ###### Artículo 27.
 
@@ -405,9 +425,11 @@ Este impuesto se liquidará, aplicando a la base determinada en el artículo ant
 
 Del pago
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 34.
 
-El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente al de la percepción del ingreso, en la oficina de recaudación fiscal correspondiente, a su jurisdicción, o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas del Gobierno del Estado.
+El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente al de la percepción del ingreso, en la Oficina de Recaudación Fiscal correspondiente a su jurisdicción, o ante las instituciones de crédito autorizadas por la Secretaría de Planeación, Administración y Finanzas.
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan obtenido ingresos gravados.
 
@@ -429,11 +451,13 @@ V. Presentar ante las mismas autoridades, dentro del plazo que señala la fracci
 
 VI. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 36.
 
 Las personas físicas o jurídicas que contraten a sujetos obligados al pago de este impuesto y para efectos eventuales, están obligadas a conservar copia autógrafa del contrato que al efecto se celebre.
 
-La Secretaría de Finanzas podrá designar interventores, a fin de verificar que los pagos del impuesto se realicen en el periodo que corresponda por las actividades eventuales realizadas.
+La Secretaría de Planeación, Administración y Finanzas podrá designar interventores, a fin de verificar que los pagos del impuesto se realicen en el periodo que corresponda por las actividades eventuales realizadas.
 
 ###### Artículo 37.
 
@@ -441,9 +465,11 @@ Quienes cubran remuneraciones objeto de este impuesto a contribuyentes que no es
 
 Las personas jurídicas que cubran las remuneraciones a que se refiere el artículo 30 de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 38.
 
-La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este impuesto o, en su defecto, determinar estimativamente el impuesto que los solidarios responsables debieran retener y enterar, en los siguientes casos:
+La Secretaría de Planeación, Administración y Finanzas podrá estimar los ingresos de los sujetos de este impuesto o, en su defecto, determinar estimativamente el impuesto que los solidarios responsables debieran retener y enterar, en los siguientes casos:
 
 I. Cuando no presenten sus declaraciones, no lleven los libros o registros de contabilidad o, en su caso no expidan o recaben la documentación comprobatoria a que están obligados;
 
@@ -457,21 +483,25 @@ Para practicar la estimación o determinación estimativa a que se refiere este 
 
 Del objeto
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 39.
 
 Son objeto de este impuesto, los pagos que en efectivo o en especie, realicen personas físicas o jurídicas en el estado de Jalisco, por concepto de remuneración al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
-
-Quedan incluidas las personas físicas o jurídicas que sin estar domiciliadas en el Estado de Jalisco, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
+Quedan incluidas las personas físicas o jurídicas, públicas o privadas, que sin estar domiciliadas en el Estado de Jalisco, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, entidades, delegaciones, representaciones, comisiones y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
 Para efecto de este impuesto se consideran remuneraciones al trabajo personal subordinado, las contraprestaciones, ordinarias o extraordinarias, que realicen los patrones en favor de sus empleados.
 
 De los sujetos
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 40.
 
-Son sujetos de este impuesto las personas físicas o jurídicas obligados a efectuar los pagos a que se refiere el artículo anterior.
+Son sujetos de este impuesto las personas físicas o jurídicas, públicas o privadas, obligados a efectuar los pagos a que se refiere el artículo anterior.
+
+Quedan comprendidos como sujetos de este impuesto, la Federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos.
 
 Serán responsables solidarios del pago de este impuesto las personas físicas o jurídicas que contraten y reciban la prestación del trabajo personal subordinado, aun cuando el pago del salario se realice por otra persona.
 
@@ -489,11 +519,13 @@ Este impuesto se liquidará de conformidad con la tarifa que al efecto establezc
 
 Del pago
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 43.
 
 El pago de este impuesto deberá efectuarse a más tardar el día doce del mes siguiente en que se causó.
 
-Dicho pago se hará mediante declaración en las oficinas de recaudación fiscal que corresponda, en los términos del artículo 46 fracciones IV y V de esta Ley, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas del Gobierno del Estado.
+Dicho pago se hará mediante declaración en las Oficinas de Recaudación Fiscal que corresponda, en los términos del artículo 46 fracciones IV y V de esta Ley, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Planeación, Administración y Finanzas.
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -523,7 +555,9 @@ h) Remuneración al trabajo personal subordinado a favor de empleados mayores de
 
 II. Las erogaciones que efectúen:
 
-a) La Federación, Estado y Municipio;
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+a) El Estado y Municipio, así como sus organismos descentralizados, organismos autónomos fideicomisos, dependencias y entidades.
 
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo; y
 
@@ -531,13 +565,27 @@ c) Asociaciones de trabajadores y colegios de profesionistas.
 
 De la estimación de erogaciones
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 45.
 
-La Secretaría de Finanzas podrá estimar las erogaciones en los siguientes casos:
+La Secretaría de Planeación, Administración y Finanzas, podrá estimar las erogaciones en los siguientes casos:
 
-I. Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar, y
+I. Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar; y
 
-II. Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, existe discrepancia mayor a un 3%.
+II. Cuando de los informes que se obtengan de las declaraciones y datos presentados por el contribuyente ante un tercero o ante cualquier dependencia o entidad gubernamental, exista discrepancia con el impuesto pagado y lo que debió enterarse.
+
+En este caso la autoridad fiscal dará a conocer al sujeto del impuesto, los datos contenidos en sus declaraciones e informes presentados ante un tercero o ante cualquier dependencia o entidad gubernamental, señalando el periodo sujeto a revisión, así como las cantidades que resultan como diferencia en el pago del impuesto.
+
+En el mismo acto se otorgará al sujeto del impuesto, un plazo de diez días para que realice las aclaraciones que a su derecho convenga, el sujeto del impuesto podrá autocorregir su situación, dentro del plazo de diez días, mediante el pago de las contribuciones omitidas, en cuyo caso se impondrá la multa mínima.
+
+En caso de que no se realicen las aclaraciones o no se justifique la discrepancia, dentro del plazo antes señalado, la autoridad fiscal procederá a determinar la diferencia del impuesto, calculando el monto de las erogaciones correspondientes a cuando menos 30 días, los más cercanos posibles al período revisado, con base en la información obtenida, se determinará el promedio mensual de las erogaciones correspondientes al período calculado u observado, el cual se multiplicará por el número de meses del período sujeto a revisión, respecto del cual no se acreditó el pago del impuesto sobre nominas en los términos establecidos en esta Ley.
+
+III. Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimaran las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que emite la Comisión Nacional de Salarios Mínimos, los cuales dé a conocer la Secretaría de Planeación, Administración y Finanzas mediante disposiciones de carácter general, en los términos que establezca el Código Fiscal del Estado.
+
+En este caso la autoridad fiscal determinará en cantidad liquida las contribuciones omitidas, en los términos que establezca el Código Fiscal del Estado, notificando al propietario o contratista de la obra del inmueble en el que se realizó la obra privada, otorgando un plazo de diez días, para que realice las aclaraciones que a su derecho convenga, el sujeto del impuesto podrá autocorregir su situación, dentro del plazo de diez días, mediante el pago de las contribuciones omitidas, en cuyo caso se impondrá la multa mínima.
+
+En caso de que no se efectué el entero del impuesto omitido o no se realicen aclaraciones, dentro del plazo antes señalado, la autoridad fiscal procederá a hacer efectivo el crédito fiscal determinado.
 
 De las obligaciones de los contribuyentes
 
@@ -601,13 +649,15 @@ En el caso de que un contribuyente cuente con dos o más inmuebles donde se pres
 
 De la base del impuesto
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 50.
 
 La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y, en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje tales como alimentación, bebidas, transportación y otros similares, considerarán como base gravable únicamente el importe correspondiente al albergue, en caso de que no se desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como bebidas, comidas, transportación, uso de instalaciones u otros similares, y no desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+El contribuyente podrá optar por estimar el Importe relativo al servicio de hospedaje dentro del sistema ''todo incluido”, sin que ningún (sic) caso puede ser inferior al 40% del monto total de los servicios comprendidos bajo este sistema.
 
 De la cuota
 
@@ -617,9 +667,11 @@ Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto
 
 Del pago
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 52.
 
-El pago entero del impuesto lo hará el prestador de servicios de hospedaje a más tardar el día 15 posterior a cada bimestre del año natural en las oficinas de recaudación fiscal de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas.
+El pago entero del impuesto lo hará el prestador de servicios de hospedaje a más tardar el día 15 posterior a cada bimestre del año natural en las Oficinas de Recaudación Fiscal de la Secretaría de Planeación, Administración y Finanzas o ante las instituciones de crédito autorizadas.
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
 
@@ -647,11 +699,13 @@ Las personas o instituciones que organicen o celebren los eventos objeto del imp
 
 De la base
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 55.
 
 Será base del impuesto, para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de todo tipo, el valor determinado o determinable que se obtenga.
 
-Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación, adjudicación y en ausencia de ambos, el de avalúo que practique la Secretaría de finanzas.
+Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación, adjudicación y en ausencia de ambos, el de avalúo que practique la Secretaría de Planeación, Administración y Finanzas.
 
 Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo, juego con apuesta o concurso de que se trate, se considerará como base del impuesto el valor o precio total del evento correspondiente.
 
@@ -675,9 +729,11 @@ No pagarán este impuesto los reintegros que se deriven por la celebración de l
 
 Del pago
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 59.
 
-Los sujetos obligados al pago del impuesto por responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes inmediato siguiente a aquél al que corresponda el pago. El pago se hará mediante declaración en las oficinas de recaudación fiscal, correspondiente a su domicilio fiscal, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas del gobierno del Estado, dicho pago se entenderá definitivo.
+Los sujetos obligados al pago del impuesto por responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes inmediato siguiente a aquél al que corresponda el pago. El pago se hará mediante declaración en las Oficinas de Recaudación Fiscal, correspondiente a su domicilio fiscal, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Planeación, Administración y Finanzas, dicho pago se entenderá definitivo.
 
 De las obligaciones de los contribuyentes
 
@@ -689,7 +745,9 @@ I. Presentar su aviso de inscripción en la oficina de recaudación fiscal corre
 
 II. Presentar ante las mismas autoridades, los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso, reanudación o suspensión de actividades;
 
-III. Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+III. Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones, así como proporcionar constancia de retención del impuesto a la persona que obtenga el premio;
 
 IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados, del pago del impuesto correspondiente, así como los avisos, datos e informes que les soliciten; y
 
@@ -733,15 +791,23 @@ Este impuesto se liquidará aplicando a la base determinada en el artículo ante
 
 De las exenciones
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 65.
 
 Se exceptúan del pago del presente impuesto, los ingresos que obtengan los organismos descentralizados de la Administración Pública Federal, Estatal y Municipios, cuya finalidad sea la obtención de recursos para destinarlos a la asistencia pública.
 
+Los Partidos Políticos Nacionales, que cuenten con registro vigente ante el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, no estarán obligados al pago de este impuesto en los términos de la Ley de la materia.
+
 Del pago
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 66.
 
-Los sujetos obligados al pago del impuesto, deberán enterarlo a más tardar dentro de los 15 días naturales inmediatos posteriores al día de la celebración del evento de que se trate, el pago se hará mediante declaración en las oficinas de recaudación fiscal, correspondiente a su domicilio fiscal, o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas del gobierno del Estado.
+Los sujetos obligados al pago del impuesto, deberán enterarlo a más tardar dentro de los 15 días naturales inmediatos posteriores al día de la celebración del evento de que se trate, el pago se hará mediante declaración en las oficinas de recaudación fiscal, correspondiente a su domicilio fiscal, o ante las instituciones de crédito autorizadas por la Secretaria de Planeación, Administración y Finanzas del Gobierno del Estado.
+
+El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
 
 De las obligaciones de los contribuyentes
 
@@ -753,11 +819,25 @@ I. Presentar su aviso de inscripción en la oficina de recaudación fiscal corre
 
 II. Presentar ante las mismas autoridades, los avisos de cambio de domicilio, nombre o razón social, traspaso, reanudación o suspensión de actividades;
 
-III. Enterar el impuesto que se cause mediante las declaraciones aprobadas por la Secretaría de Finanzas del gobierno del Estado;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-IV. Presentar ante la Secretaría de Finanzas, siete días antes del inicio de la venta, los comprobantes que permitan participar en los eventos, para su resello, una vez celebrado el evento de que se trate, entregarán los comprobantes no vendidos a la Secretaría de Finanzas para su verificación; y
+III. Efectuar mediante forma oficial aprobada, los pagos provisionales mensuales a más tardar el día 15 de cada mes, por los ingresos obtenidos en el mes inmediato anterior;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+IV. Informar a la Secretaría de Planeación, Administración y Finanzas, siete días antes del inicio de la venta, en el formato oficial aprobado, el tipo de evento, precio y número de los boletos, billetes o contraseñas, la fecha de realización del mismo, así como la información y documentación que se establezca en la forma, acompañando una muestra de los referidos boletos, billetes o contraseñas.
+
+Cuando los sujetos obligados utilicen sistemas electrónicos de control para la emisión de boletos, billetes o contraseñas de los eventos de cruce de apuestas, o de loterías, rifas, sorteos y concursos que se realicen en el Estado, deberán solicitar autorizar (sic) previa a la Secretaría de Planeación, Administración y Finanzas, la cual verificará que cuenta con el sistema central de cómputo cuyas características técnicas, de seguridad y requerimientos de información cumplen con las disposiciones establecidas por la autoridad fiscal federal para el pago del Impuesto Especial sobre Producción y Servicios;
 
 V. Abstenerse de vender boletos en tanto no estén resellados por las autoridades fiscales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+VI. Presentar una declaración, en la forma oficial aprobada, del ejercicio ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, una vez deducidos los pagos provisionales mensuales en aquellos casos en los que se esté obligado a presentarlos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+VII. Llevar contabilidad en registro específico de las operaciones relativas a este impuesto.
 
 ### CAPITULO UNICO. De los derechos
 
@@ -765,19 +845,23 @@ V. Abstenerse de vender boletos en tanto no estén resellados por las autoridade
 
 ### CAPITULO UNICO. De los productos diversos
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ## TITULO TERCERO. Derechos
 
 ### CAPITULO UNICO. De los aprovechamientos
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
 Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en le (sic) momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso que las leyes estatales aplicables en la materia señalen cosa distinta.
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 69.
 
-A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen la Ley de Ingresos del Estado deberá ser cubierto en las oficinas de recaudación fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaría de Finanzas del Estado. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social, para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
+A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen (sic) la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaría de Planeación, Administración y Finanzas. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social, para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
 
 ###### Artículo 70.
 
@@ -787,21 +871,29 @@ Para el pago de los derechos que a continuación se enuncian se observará lo si
 
 I. Tratándose de canje periódico general de placas de circulación de motocicletas, los derechos correspondientes deberán pagarse a más tardar el último día hábil del mes de marzo del año en que se realice el canje. Dicho plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado;
 
-II. Tratándose de refrendo anual, tarjeta de circulación y holograma de automóviles, camiones, camionetas, tractores, automotores, remolques y otros vehículos, deberá realizarse en el periodo comprendido del 2 de enero al último día hábil del mes de julio, debiendo cubrirse los derechos respectivos en ese mismo período. Este plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+II. Tratándose de refrendo anual, tarjeta de circulación y holograma de automóviles, camiones, camionetas, tractores, automotores, remolques y otros vehículos, deberá realizarse en el periodo comprendido del 2 de enero al último día hábil del mes de marzo, debiendo cubrirse los derechos respectivos en ese mismo período. Este plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
 Se considera inscrito el vehículo en el padrón al momento en que sean dotadas las placas de circulación. Además, se estará obligado a presentar los avisos de cambio de domicilio, cambio de propietario, modificación y baja de placas por robo o baja total;
 
-III. Los derechos que deban causar todos los documentos que tengan que registrarse en la Dirección del Registro Público de la Propiedad y Registro Público de Comercio, establecida en la ciudad de Guadalajara, deberán ser cubiertos en la oficina de recaudación fiscal anexa a la misma, o en cualquier otra que señale el Secretario de Finanzas, mediante acuerdo general previo, independientemente de la municipalidad de la notaría pública que los autorice; en los demás casos, deberán ser cubiertos en la oficina de recaudación fiscal del lugar donde está ubicada la oficina registral. El pago se efectuará previo aviso por escrito a la recaudadora de parte de la oficina que prestará el servicio, en el cual se deberá mencionar, la cantidad a cubrir, concepto afectado así como el fundamento legal correspondiente;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-IV. El pago de los derechos por los servicios prestados por la Secretaría General de Gobierno que señale la Ley de Ingresos del Estado, se efectuará en la oficina central de recaudación fiscal de la Secretaría de Finanzas del Estado, previamente a la prestación de los servicios que los originen; también podrá pagarse este derecho en cualquiera otra que mediante acuerdo general expida el Secretario de Finanzas;
+III. Los derechos que deban causar todos los documentos que tengan que registrarse en la Dirección del Registro Público de la Propiedad y Registro Público de Comercio, establecida en la ciudad de Guadalajara, deberán ser cubiertos en la Oficina de Recaudación Fiscal anexa a la misma, o en cualquier otra que señale el Secretario de Planeación, Administración y Finanzas o el Sub Secretario de Finanzas, mediante acuerdo general previo, independientemente de la municipalidad de la notaría pública que los autorice; en los demás casos, deberán ser cubiertos en la Oficina de Recaudación Fiscal del lugar donde está ubicada la oficina registral. El pago se efectuará previo aviso por escrito a la recaudadora de parte de la oficina que prestará el servicio, en el cual se deberá mencionar, la cantidad a cubrir, concepto afectado así como el fundamento legal correspondiente;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-V. El pago de los derechos por los servicios que preste la Secretaría de Vialidad y Transporte que establezca la Ley de Ingresos del Estado, se efectuará en la oficina de recaudación fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice la Secretaría de Finanzas del Estado;
+IV. El pago de los derechos por los servicios prestados por la Secretaría General de Gobierno que señale la Ley de Ingresos del Estado, se efectuará en la Oficina Central de Recaudación Fiscal de la Secretaría de Planeación, Administración y Finanzas, previamente a la prestación de los servicios que los originen; también podrá pagarse este derecho en cualquiera otra que mediante acuerdo general expida el Secretario de Planeación, Administración y Finanzas o el Sub Secretario de Finanzas;
 
-VI. El pago de los derechos por los servicios de inspección y vigilancia que señale la Ley de Ingresos del Estado, se efectuará en la oficina de recaudación fiscal que corresponda al domicilio del contribuyente o en la que autorice la Secretaría de Finanzas conforme a lo siguiente:
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+V. El pago de los derechos por los servicios que preste la Secretaría de Movilidad que establezca la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice la Secretaría de Planeación, Administración y Finanzas;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+VI. El pago de los derechos por los servicios de inspección y vigilancia que señale la Ley de Ingresos del Estado, se efectuará en la Oficina de Recaudación Fiscal que corresponda al domicilio del contribuyente o en la que autorice la Secretaría de Planeación, Administración y Finanzas conforme a lo siguiente:
 
 a) Las que deben hacerse mensualmente, dentro de la primera quincena del mes a que corresponda, y
 
@@ -835,83 +927,111 @@ El servidor público que preste algún servicio por el que se genere el pago de 
 
 ## TITULO CUARTO. Productos
 
-### CAPITULO UNICO. De las participaciones federales
+### CAPITULO UNICO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+De las participaciones y aportaciones federales
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 73.
 
 Quedan comprendidos dentro de esta clasificación, los ingresos, que obtiene el Estado por concepto de:
 
-I. Arrendamiento de muebles e inmuebles propiedad del Estado;
+I. Productos Tipo Corriente
 
-II. Venta de muebles e inmuebles propiedad del Estado;
+a) Arrendamiento de muebles e inmuebles propiedad del Estado;
 
-III. La explotación o enajenación de cualquiera naturaleza, de los bienes propiedad del Estado;
+b) Venta de muebles e inmuebles propiedad del Estado;
 
-IV. Rendimiento o intereses de capitales y valores del Estado;
+c) La explotación o enajenación de cualquiera (sic) naturaleza, de los bienes propiedad del Estado;
 
-V. Resultados de establecimientos y empresas del Estado;
+d) Resultados de establecimientos y empresas del Estado;
 
-VI. Venta de publicaciones oficiales leyes y reglamentos que edite el Gobierno del Estado;
+e) Venta de publicaciones oficiales leyes y reglamentos que edite el Gobierno del Estado;
 
-VII. Venta y publicaciones del Periódico Oficial El Estado de Jalisco;
+f) Venta y publicaciones del Periódico Oficial El Estado de Jalisco;
 
-VIII. Venta de protocolos notariales;
+g) Venta de protocolos notariales;
 
-IX. Venta de formas valoradas, incluyendo las hojas para copias de actas del Registro Civil;
+h) Venta de formas valoradas, incluyendo las hojas para copias de actas del Registro Civil;
 
-X. Productos de archivo;
+i) Productos de archivo;
 
-XI. Fotocopiado de los libros del Registro Público de la Propiedad y del Comercio, y demás documentos con ellos relacionados, y
+j) Fotocopiado de los libros del Registro Público de la Propiedad y del Comercio, y demás documentos con ellos relacionados; y
 
-XII. Otros diversos de los señalados en las fracciones anteriores, que perciba el Estado por actividades que no desarrolle en sus funciones propias de derecho público.
+k) Otros diversos de los señalados en las fracciones anteriores, que perciba el Estado por actividades que no desarrolle en sus funciones propias de derecho público.
+
+II. Productos de Capital
+
+a) Rendimiento o intereses de capitales y valores del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 74.
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivas o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado y, en defecto de ellos, en las disposiciones legales que les sean aplicables.
 
-## TITULO QUINTO. Aprovechamiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+## TITULO QUINTO. Aprovechamientos
 
 ### CAPITULO UNICO
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-De los Ingresos Extraordinarios
+De los ingresos extraordinarios
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 75.
 
-Quedan comprendidos dentro de esta clasificación además de los (sic) establecidas en la presente Ley y en las demás leyes fiscales estatales, los ingresos que obtenga el Estado por concepto de:
+Quedan comprendidos dentro de esta clasificación además de los establecidos en la presente Ley y en las demás leyes fiscales estatales, los ingresos que obtenga el Estado por concepto de:
 
-I. Recargos, indemnización por cheques no pagados por las instituciones bancarias;
+I. De los Aprovechamientos de Tipo Corriente
 
-II. Multas y rezagos;
+a). Recargos, indemnizaciones por cheques no pagados por instituciones de crédito;
 
-III. Gastos que cubran los municipios al Estado, por la administración de sus contribuciones;
+b). Multas;
 
-IV. Indemnización por cheques no pagados por las instituciones de banca, provenientes de la administración de impuestos municipales, efectuada por el Gobierno del Estado;
+c). Gastos de Ejecución; y (sic)
 
-V. Herencias, legados y donaciones, a favor del Gobierno del Estado;
+d). Los que se deban percibir de acuerdo con lo establecido en el Código Urbano para el Estado de Jalisco.
 
-VI. Cauciones, fianzas o depósitos favorables al Estado;
+e). Incentivos derivados de la Colaboración Fiscal
 
-VII. Reintegros;
+f). Otros aprovechamientos no especificados
 
-VIII. Aportaciones del Gobierno Federal provenientes del Ramo 33 del Presupuesto de Egresos de la Federación entre otros;
+II. De los Aprovechamientos de Capital
 
-IX. Usufructo de concesiones otorgadas al Estado;
+a) Intereses;
 
-X. Recuperaciones, sanciones e indemnizaciones por responsabilidad de servidores públicos; y
+b) Cauciones, fianzas y billetes de depósito;
 
-XI. Otros no especificados.
+c) Reintegros;
 
-## TITULO SEXTO. Participaciones Federales
+d) Indemnizaciones;
+
+e) Bienes vacantes y mostrencos; y
+
+f) Otros aprovechamientos de capital no especificados.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+## TITULO SEXTO. Participaciones y aportaciones federales
+
+### CAPITULO UNICO. De los ingresos por financiamientos
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 76.
 
-Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado, provenientes de su adhesión al Sistema Nacional de Coordinación Fiscal, así como por la realización de diversos actos de administración de impuestos federales coordinados, de acuerdo con lo estipulado en el Convenio de Colaboración Administrativa y sus anexos, celebrado entre el Gobierno del Estado y el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado, provenientes de su adhesión al Sistema Nacional de Coordinación Fiscal, así como otros ingresos que el Gobierno del Estado obtenga de la Federación, por concepto de participaciones, proveniente de otras fuentes que en su caso, se establezcan, así como las aportaciones federales que conforme al Capítulo V de la Ley de Coordinación Fiscal la Federación aporte al Estado y los municipios.
 
-Quedan comprendidos también en este capítulo, otros ingresos que el Gobierno del Estado obtenga de la Federación, por concepto de participaciones, proveniente de otras fuentes que, en su caso, se establezcan.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-## TITULO SEPTIMO. De Los Ingresos Extraordinarios
+## TITULO SEPTIMO. De los ingresos extraordinarios
 
 > <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
 
@@ -919,11 +1039,23 @@ Quedan comprendidos también en este capítulo, otros ingresos que el Gobierno d
 
 Los ingresos extraordinarios que tendrá derecho a recibir el Estado además de los señalados en la presente Ley o en cualquier otra ley fiscal estatal se obtendrán por:
 
-I. Créditos otorgados al Estado;
+I. Derechos que, no estando señalados en esta Ley, se establezcan de manera especial en la Ley de Ingresos del Estado; y
 
-II. Derechos que, no estando señalados en esta Ley, se establezcan de manera especial en la Ley de Ingresos del Estado;
+II. Aportaciones extraordinarias de entidades públicas o de los sectores social o privado.
 
-III. Aportaciones extraordinarias de entidades públicas o de los sectores social o privado.
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+## TITULO OCTAVO. De los ingresos por financiamientos
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 78.
+
+Los ingresos por créditos otorgados al Estado se obtendrán:
+
+I. Por financiamientos contratados previa autorización del Congreso del Estado; y
+
+II. Por las obligaciones directas y contingentes a que se refiere Ley (sic) de Deuda Pública del Estado de Jalisco y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -961,11 +1093,11 @@ El Subsecretario General de Gobierno de Asuntos Jurídicos
 
 DR. MAURICIO LIMÓN AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE DICIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -986,3 +1118,7 @@ P.O. 4 DE MAYO DE 2004.
 P.O. 11 DE NOVIEMBRE DE 2006.
 
 Único. Las reformas y adiciones del presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
