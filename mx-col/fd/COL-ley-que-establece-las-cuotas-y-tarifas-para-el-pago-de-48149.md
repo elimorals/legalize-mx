@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-07-06"
+last_updated: "2013-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN, COLIMA, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1° DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL ”EL ESTADO DE COLIMA”.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -438,3 +440,37 @@ P.O. 6 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. DE 14 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2014, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de. Coquimatlán, Colima, publicada en el Periódico Oficial "El Estado de Colima" el día 31 de diciembre de 2005, mediante Decreto No. 315, así como las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Para el ejercicio fiscal 2014, a los contribuyentes que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, podrán gozar del beneficio previsto en la fracción III del artículo 31 de esta Ley sin recargos, siempre y cuando se pongan al corriente en el pago de los servicios de agua potable, drenaje y saneamiento del ejercicio fiscal 2013 y anteriores, durante los meses de enero a abril del citado año.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2014, se otorgara el 50% de descuento por concepto de saneamiento tomando como base el artículo 8 de esta ley, siempre y cuando cubran el pago en el mismo año fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza realizar los ajustes correspondientes en los en (sic) el pago de los derechos por los servicios de agua potable, drenaje y saneamiento; durante los meses de enero a diciembre de 2014, a través de programas de recuperación de adeudos vencidos, para lo cual se podrá realizar descuentos hasta del total de los recargos conforme a las siguientes reglas:
+
+I.- Se aplicará en beneficio de quienes adeuden ejercicios fiscales anteriores al 2014;
+
+a).-Se descontara hasta el 100% de los recargos, siempre que la totalidad del adeudo se cubra en una sola exhibición.
+
+b).- Se descontara hasta el 80% de los recargos, en caso de que los usuarios realicen convenio para efectuar el pago total del adeudo dentro de un periodo máximo de tres meses.
+
+c).- Se descontara hasta el 60% de los recargos, en caso que los usuarios realicen convenio para efectuar el pago del adeudo dentro un periodo máximo de seis meses.
+
+d).- Se descontara hasta el 50% de los recargos en caso de que los usuarios realicen convenio para efectuar el pago del adeudo dentro de un periodo máximo de doce meses.
+
+e).- Se descontara hasta el 100% de recargos a todos aquellos usuarios que tengan convenios anteriores y actualice o ponga al corriente su situación.
