@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-11-30"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ÁLVAREZ DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2925,13 +2925,13 @@ VI. Otros productos no especificados Según acuerdo de Cabildo.
 
 ## TITULO SEXTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+### CAPITULO UNICO. REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 120.
 
-Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por las multas de orden administrativo que en el uso de sus facultades imponga la autoridad municipal, incluidos los descuentos a las mismas.
+Los Ingresos por concepto de aprovechamientos serán los que el municipio perciba por las multas de orden administrativo que en el uso de sus facultades imponga la autoridad municipal, incluidos los que deriven de infracciones en materia de tránsito conocidas a través de equipos o sistemas tecnológicos y gestionadas con el uso de medios electrónicos que hayan sido notificadas vía correo certificado con acuse de recibo. Los descuentos a las multas a que se refiere este párrafo formarán también parte de los aprovechamientos.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 Se consideran aprovechamientos también los ingresos que obtenga el municipio por intereses, indemnizaciones de terceros o por responsabilidades de los servidores públicos, reintegros, aportaciones y apoyos de terceros, depósitos y otros no especificados.
 
@@ -3198,3 +3198,11 @@ P.O. 19 DE OCTUBRE DE 2013.
 P.O. 30 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Municipio que decida adoptar los sistemas tecnológicos que se refieren en el presente Decreto para la aplicación de sanciones por la Infracción a las normas viales establecidas en los reglamentos municipales de la materia, deberán Implementar una campaña de Información y concientización de por lo menos tres meses y en el transcurso de dicha campaña las infracciones que se apliquen serán simbólicas sin el cobro del aprovechamiento correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
