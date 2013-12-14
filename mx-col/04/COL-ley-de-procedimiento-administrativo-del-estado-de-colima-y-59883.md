@@ -4,7 +4,7 @@ identifier: "COL-ley-de-procedimiento-administrativo-del-estado-de-colima-y-5988
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-09"
-last_updated: "2008-07-05"
+last_updated: "2013-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLlMA Y SUS MUNICIPIOS
+LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 9 de febrero de 2008.
 
@@ -579,7 +579,11 @@ a) No se trate de los casos en que la autoridad tenga un plazo perentorio;
 
 b) Se trate de citar a peritos, testigos o terceros que no constituyan parte en el procedimiento y cuya presentación no quede a cargo de los interesados por disposición expresa de la Ley;
 
-c) En los demás casos previstos por la Ley.
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+c) Se trate de notificaciones de actas circunstanciadas por infracciones en materia de tránsito conocidas a través de equipos o sistemas tecnológicos y gestionadas con el uso de medios electrónicos; o
+
+d) En los demás casos previstos por la Ley.
 
 III. Por edictos, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido o sea incierta, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal;
 
@@ -1294,3 +1298,11 @@ P.O. 5 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Lo dispuesto por el segundo párrafo del Artículo 34 de la Ley de Transparencia y Acceso a la Información Pública, contenido en esta reforma, será aplicable a partir del 21 de Julio de 2009.
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Municipio que decida adoptar los sistemas tecnológicos que se refieren en el presente Decreto para la aplicación de sanciones por la infracción a las normas viales establecidas en los reglamentos municipales de la materia, deberán implementar una campaña de información y concientización de por lo menos tres meses y en el transcurso de dicha campaña las infracciones que se apliquen serán simbólicas sin el cobro del aprovechamiento correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
