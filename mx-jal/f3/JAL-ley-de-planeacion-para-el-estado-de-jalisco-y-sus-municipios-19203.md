@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2013-12-07"
+last_updated: "2013-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -71,9 +71,17 @@ b) Desarrollo: la evolución integral, sustentable, progresiva y permanente de l
 
 c) Instrumentos de planeación: los planes, programas y proyectos contemplados en esta ley.
 
-d) Programas Operativos Anuales: son instrumentos que convierten los lineamientos de la planeación y programación del desarrollo de mediano y largo y (sic) plazo en objetivos, acciones y metas concretas de corto plazo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-e) Programas Sectoriales: son instrumentos que abordan una materia determinada y que vinculan el funcionamiento de diversas instituciones públicas, sociales y privadas que comparten fines similares con el Plan Estatal de Desarrollo.
+d) Matriz de Indicadores para Resultados: Instrumentos de programación del presupuesto basado en resultados que conectan la planeación, programación y presupuestación, permitiendo una evaluación, de los bienes y servicios que se entregan a la población, y los resultados del programa.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+e) Programas Sectoriales: son instrumentos que abordan una materia determinada y que vinculan el funcionamiento de diversas instituciones públicas, sociales y privadas que comparten fines similares con el Plan Estatal de Desarrollo; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+f) Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
 II. Enunciados orgánicos:
 
@@ -139,7 +147,9 @@ Corresponde al titular del Poder Ejecutivo en materia de planeación para el des
 
 I. Aprobar el Plan Estatal de Desarrollo su modificación o actualización;
 
-II. Aprobar los programas intersectoriales, sectoriales y operativos anuales, de las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+II. Aprobar los programas intersectoriales, sectoriales y las Matrices de Indicadores para Resultados, de las dependencias y entidades de la administración pública estatal;
 
 III. Fijar los lineamientos a las dependencias y entidades de la administración pública estatal, para la elaboración y ejecución de los instrumentos que se derivan de la aplicación de esta ley;
 
@@ -207,15 +217,15 @@ La información útil para el proceso de planeación del Estado de Jalisco y sus
 
 Los Programas Institucionales que deban elaborarse por las entidades paraestatales y organismos municipales equivalentes y auxiliares, se sujetarán a las previsiones contenidas en los respectivos planes y en el programa sectorial correspondiente. Las entidades mencionadas, al elaborar sus programas institucionales, se ajustarán a la ley que regula su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-Los Programas Operativos Anuales, como instrumentos de corto plazo, constituirán el vínculo entre el Plan y los programas de mediano plazo y especificarán las metas, proyectos, acciones, instrumentos y recursos asignados para el ejercicio respectivo.
+Las Matrices de Indicadores para Resultados, como instrumentos de corto plazo, constituirán el vínculo entre el Plan y los programas de mediano plazo y especificarán el nombre del programa, su contribución a los fines del Plan Estatal de Desarrollo, y a los planes sectoriales, los componentes que harán posible cumplir el propósito del programa, las actividades, así como los indicadores, supuestos de cada uno de ellos y los recursos asignados para el ejercicio respectivo.
 
-Estos programas deberán ser congruentes entre sí y regirán las actividades de la Administración Pública Estatal y Municipal en su conjunto, durante el año respectivo, y serán considerados para la integración de los anteproyectos de presupuestos anuales que, las propias dependencias y entidades de la administración pública estatal y municipal, deberán elaborar conforme a la legislación aplicable.
+Los programas incluidos en las Matrices de Indicadores para Resultados deberán ser congruentes entre sí y regirán las actividades de la Administración Pública Estatal y Municipal en su conjunto, durante el año respectivo, y serán considerados para la integración de los anteproyectos de presupuestos anuales que, las propias dependencias y entidades de la administración pública estatal y municipal, deberán elaborar conforme a la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
-
-El Ejecutivo Estatal deberá entregar al Congreso del Estado a más tardar el primero de noviembre los proyectos de los Programas Operativos Anuales de cada una de las Secretarías a su cargo para el año siguiente, de igual forma se entregará un dictamen de cada uno de los Programas aplicados durante el año en curso de manera parcial a la fecha de entrega de los mismos.
+El Ejecutivo Estatal deberá entregar al Congreso del Estado, a más tardar el primero de noviembre, los proyectos de las Matrices de Indicadores para Resultados de cada una de las Secretarías a su cargo para el año siguiente; de igual forma se entregará un dictamen de cada una de las Matrices de Indicadores para Resultados aplicadas durante el año en curso de manera parcial a la fecha de entrega de los mismos.
 
 ### CAPITULO TERCERO. De la Planeación Estatal del Desarrollo
 
@@ -247,9 +257,9 @@ IV. Verificar que los planes y los programas que se generen en el Sistema, mante
 
 V. Coordinar las actividades que en materia de investigación y capacitación para la planeación del desarrollo, realicen las dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-VI. Coordinar la integración de los programas operativos anuales para la ejecución del Plan Estatal, los planes regionales y los programas sectoriales, considerando las propuestas que para el efecto realicen los Poderes Legislativo y Judicial, las dependencias y entidades de la administración pública estatal y municipal, así como los organismos representativos del sector privado y social, de conformidad con lo establecido en la presente Ley;
+VI. Coordinar la integración de los planes regionales y los programas sectoriales, considerando las propuestas que para el efecto realicen los Poderes Legislativo y Judicial, las dependencias y entidades de la administración pública estatal y municipal, así como los organismos representativos del sector privado y social, de conformidad con lo establecido en la presente Ley;
 
 VII. Verificar la relación que guarden los programas de las diversas dependencias de la administración pública estatal, así como los resultados de su ejecución, con los objetivos y prioridades de los planes a que se refiere esta ley, a fin de adoptar las medidas necesarias para corregir y replantear, en su caso, los programas respectivos; y
 
@@ -271,13 +281,27 @@ III. Formular y aprobar los programas sectoriales, tomando en cuenta las propues
 
 IV. Procurar la congruencia de sus programas sectoriales con el Plan Estatal y con los planes regionales, considerando los planes y programas del Gobierno Federal y de los municipios;
 
-V. Coordinar la elaboración de los programas operativos anuales para la ejecución de los programas sectoriales correspondientes;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+V. Coordinar la elaboración de las Matrices de Indicadores para Resultados para la ejecución de los programas sectoriales correspondientes;
 
 VI. Verificar periódicamente que las entidades del sector al que coordinen, conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al programa sectorial correspondiente, y cumplan con lo previsto en su respectivo programa institucional, a fin de adoptar las medidas necesarias para corregir y replantear, en su caso, los programas respectivos;
 
 VII. Validar los programas institucionales que le presenten las entidades de su sector; y
 
 VIII. Las demás que les confieran ésta ley, otras leyes e instrumentos normativos en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 20
+
+Bis. A la Secretaría de Planeación, Administración y Finanzas le corresponde:
+
+I. Elaborar y administrar un Sistema de Evaluación del Desempeño de la Administración Pública del Estado de Jalisco;
+
+II. Emitir lineamientos respecto a la elaboración, seguimiento y evaluación de las Matrices de Indicadores para Resultados y sus indicadores; y
+
+III. Dar seguimiento a las Matrices de Indicadores para Resultados.
 
 ###### Artículo 21.
 
@@ -287,7 +311,9 @@ I. Participar en la elaboración de los programas sectoriales, mediante la prese
 
 II. Formular, aprobar y proponer su respectivo programa institucional, atendiendo a las previsiones contenidas en el programa sectorial correspondiente;
 
-III. Elaborar los programas operativos anuales para la ejecución de los programas sectoriales y, en su caso, institucionales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+III. Elaborar las Matrices de Indicadores para Resultados para la ejecución de los programas sectoriales y, en su caso, institucionales;
 
 IV. Considerar el ámbito territorial de sus acciones atendiendo a las propuestas de los Subcomités Regionales y los Municipios, a través de la dependencia coordinadora del sector, conforme a los lineamientos que al efecto señale ésta última;
 
@@ -301,7 +327,9 @@ A las demás dependencias y entidades de la administración pública estatal les
 
 I. Participar en la formulación y ejecución del Plan Estatal, los planes regionales y los programas sectoriales, en el ámbito de su competencia;
 
-II. Formular sus respectivos programas operativos anuales, en congruencia con los planes estatal y regionales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+II. Formular sus respectivas Matrices de Indicadores para Resultados, en congruencia con los planes estatal y regional;
 
 III. Formular, aprobar y proponer, en el caso de las entidades, sus respectivos programas institucionales; y
 
@@ -659,7 +687,9 @@ b) Programas de mediano plazo (sectoriales, institucionales, especiales).
 
 II. Operativos:
 
-a) Programas Operativos Anuales.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+a) Matrices de Indicadores para Resultados;
 
 b) Leyes de Ingresos del Estado y de los Municipios.
 
@@ -707,11 +737,11 @@ Los poderes públicos, ayuntamientos y organismos públicos descentralizados y c
 
 El Plan General es un instrumento con proyecciones de corto, mediano y largo plazo y sus prevenciones contendrán las estrategias y acciones para el mejoramiento del desempeño de las funciones públicas.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 78-C.
 
-La evaluación de la eficacia y eficiencia de los orgánicos, organismos y entidades de gobierno se hará con base en indicadores de desempeño de la función pública.
+La evaluación de la eficacia y eficiencia de los órganos, organismos y entidades de gobierno se hará con base en las matrices de indicadores de desempeño.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -868,3 +898,9 @@ DÉCIMO SEGUNDO. Los asuntos que se encuentren pendientes de resolver ante los o
 DÉCIMO TERCERO. A la fecha de entrada en vigor del presente Decreto, el Instituto de Información Estadística y Geográfica del Estado de Jalisco se subrogará en todas las obligaciones que hubieren contraído las entidades que se fusionan.
 
 DÉCIMO CUARTO. El Ejecutivo Estatal deberá ordenar una auditoria interna que refleje el estado real y actual en que se encuentran los organismos públicos descentralizados que se fusionan y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Lo previsto en el artículo 29-Bis que se adiciona mediante este decreto a la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco, será aplicable para la preparación del presupuesto del ejercicio fiscal de 2015.
