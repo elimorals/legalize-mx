@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2008-09-27"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "JAL"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -66,15 +66,19 @@ Las participaciones Federales y Estatales que correspondan a los municipios en l
 
 El fondo municipal de participaciones se integrará con los recursos que perciba el estado procedente del fondo general de participaciones, de la recaudación del impuesto sobre tenencia o uso de vehículos; del impuesto especial sobre producción y servicios y del impuesto sobre automóviles nuevos, así mismo del fondo de fomento municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los impuestos sobre nóminas, espectáculos públicos y hospedaje.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 5°.
 
-De las cantidades que perciba el Estado, incluyendo sus incrementos, en cada ejercicio fiscal, por concepto de participaciones federales previstas en la Ley de Coordinación Fiscal Federal, así como los ingresos estatales derivados de los impuestos sobre nóminas, espectáculos públicos y hospedaje, los municipios recibirán:
+De las cantidades que perciba el Estado, incluyendo sus incrementos, en cada ejercicio fiscal, por concepto de participaciones federales previstas en la Ley de Coordinación Fiscal Federal, así como los ingresos Estatales derivados de los Impuestos sobre Nóminas y Hospedaje los Municipios recibirán:
 
 I. El 22% del total de las percepciones que obtenga el Estado correspondientes al fondo general de participaciones;
 
 II. El 100% de lo que reciba el estado del fondo de fomento municipal en forma directa;
 
-III. El 22% del importe que perciba en forma directa por concepto de participaciones del impuesto sobre tenencia o uso de vehículos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+III. El 22% del importe que perciba en forma directa por concepto de Participaciones federales del Impuesto Sobre Tenencia o Uso de Vehículos;
 
 IV. El 22% del importe que perciba por concepto de participaciones del impuesto especial sobre producción y servicios;
 
@@ -82,7 +86,7 @@ V. El 22% del importe que perciba en forma directamente por concepto de particip
 
 VI. El 40% del importe que perciba por concepto del impuesto estatal sobre nóminas;
 
-VII. El 100% del importe que perciba por concepto del impuesto estatal de espectáculos públicos;
+VII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2013)
 
 VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y (sic)
 
@@ -94,9 +98,17 @@ IX. Los ingresos correspondientes al Fondo de Fiscalización, en base a lo seña
 
 X. El 22.00% del importe que perciba el Estado por concepto de participaciones del Impuesto Especial sobre Producción y Servicios en gasolinas y diesel.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Respecto de los importes a que se refiere la fracción VI del presente artículo, se exceptúan los ingresos que el Estado perciba por concepto de Impuesto sobre Nóminas que causen y enteren la Federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos, por las erogaciones que efectúen en calidad de entidades patronales.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 6°.
 
-El importe que se forme con los porcentajes señalados se distribuirá entre los municipios en forma directa de acuerdo a las cantidades que resulten de aplicar a su total los coeficientes que para cada municipio se determine.
+El importe que se forme con los porcentajes señalados se distribuirá entre los Municipios en forma directa de acuerdo a las cantidades que resulten de aplicar a su total los coeficientes que para cada Municipio se determine por el Congreso del Estado.
+
+Los Municipios recibirán y manejarán los recursos transferidos por el Estado mediante cuentas bancarias específicas para cada Fondo a efecto de transparentar y facilitar la fiscalización en su aplicación.
 
 ###### Artículo 7°.
 
@@ -138,17 +150,29 @@ Por los porcentajes descritos en el artículo 5º, fracciones VI y VII, que se g
 
 Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 8°.
 
-Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto por el artículo 9º de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Finanzas del Estado, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El Fondo de Fiscalización a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma trimestral a los municipios, dentro de los cinco días siguientes a aquel en que el Estado lo reciba.
+Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto por el artículo 9° de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Planeación, Administración y Finanzas directamente o a través de los mecanismos generales de distribución que la misma determine, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El fondo de fiscalización a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma trimestral a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba.
 
-La Secretaría de Finanzas del Estado, una vez identificada la asignación en el periodo mensual o trimestral que le corresponda a la Entidad de los fondos previstos en la Ley Federal de Coordinación Fiscal, y de la presente Ley, afectará mensual o trimestralmente la participación que le corresponda a cada Municipio.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Sin perjuicio de lo anterior, los Municipios podrán celebrar convenio con la Secretaría de Planeación, Administración y Finanzas, para que reserve con la periodicidad, que los propios Municipios determinen, una parte de sus participaciones, que serán restituidas con los productos financieros que se hubiesen generado, para solventar de acuerdo a su interés los compromisos a su cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría de Planeación, Administración y Finanzas, una vez identificada la asignación en el periodo mensual o trimestral que le corresponda a la entidad de los fondos previstos en la Ley Federal de Coordinación Fiscal, y de la presente Ley, afectará mensual o trimestralmente la participación que le corresponda a cada Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Los municipios podrán afectar los recursos provenientes del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal como garantía del cumplimiento de sus obligaciones de pago en los términos y condiciones a los que se refiere el artículo 51 de la Ley de Coordinación Fiscal del Gobierno Federal.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 El retraso en la entrega de las participaciones dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6o. de la Ley de Coordinación Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 9°.
 
@@ -194,17 +218,21 @@ b) 30% en proporción al índice de marginalidad, según la información oficial
 
 A través de un fondo denominado FIEPS, de conformidad con la fórmula siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 11.
 
-Las participaciones que correspondan a los municipios son inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen el pago de obligaciones contraídas por los mismos, con autorización del ayuntamiento y cuando rebasen el término de su administración, con el acuerdo de las dos terceras partes de los integrantes del ayuntamiento.
+Las participaciones que correspondan a los Municipios son inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen o se afecten como fuente de pago de obligaciones contraídas por los mismos, con autorización del Ayuntamiento y cuando rebasen el término de su administración, con el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento.
 
-Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Finanzas, en el registro estatal de deuda pública.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-La compensación entre el derecho del municipio a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación por créditos de cualquier naturaleza sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas o cuando así lo autorice la Ley Federal de Coordinación Fiscal, la Ley de Deuda Pública del Estado de Jalisco y sus Municipios, u otros ordenamientos de la materia aplicables.
+Las participaciones que correspondan a los Municipios otorgadas en garantía de obligaciones a su cargo, deberán ser inscritas en la Secretaría de Planeación, Administración y Finanzas, en el Registro Estatal de Deuda Pública.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+La compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación por créditos de cualquier naturaleza, sólo podrá llevarse a cabo si existe acuerdo entre las partes interesadas o cuando así lo autorice la Ley Federal de Coordinación Fiscal, la Ley de Deuda Pública del Estado de Jalisco y sus Municipios, u otros ordenamientos de la materia aplicables o bien, tenga por objeto resarcir al Estado la ejecución del aval o cualquier garantía otorgada a favor del Municipio o algún organismo público municipal del mismo o resarcir apoyos presupuestales específicos.
 
 El régimen de participaciones para los municipios en ingresos federales podrá ser modificado, ajustado o adaptado por el Congreso de Estado, en consonancia con las modificaciones que en su caso se establezcan para la fórmula de distribución de participaciones dentro del sistema nacional de coordinación fiscal.
 
@@ -214,19 +242,25 @@ El régimen de participaciones para los municipios en ingresos federales podrá 
 
 El Gobierno del Estado, deberá publicar en el Periódico Oficial "El Estado de Jalisco", y en dos diarios de mayor circulación en la entidad, los coeficientes de participación aprobados en los términos de los artículos 5º y 7º de esta Ley, así como la fórmula y los datos utilizados para determinarlos, dentro del tercer trimestre del año precedente al que van a regir; así mismo deberá publicar, dentro del mes de enero de cada año en los periódicos mencionados, el monto de las participaciones que hubieren correspondido a cada uno de los municipios durante el ejercicio fiscal del año inmediato anterior.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 13.
 
-El Gobierno del Estado por conducto de la Secretaría de Finanzas enviará por escrito a los ayuntamientos la información necesaria que permita comprobar la correcta determinación de sus coeficientes de participaciones, dentro del tercer trimestre del año precedente al que van a regir.
+El Gobierno del Estado por conducto de la Secretaría de Planeación, Administración y Finanzas enviará por escrito a los Ayuntamientos la información necesaria que permita comprobar la correcta determinación de sus coeficientes de participaciones, dentro del tercer trimestre del año precedente al que van a regir.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 14.
 
-El Gobierno del Estado, a través de la Secretaría de Finanzas, independientemente de la publicación a que se refiere el artículo 12, deberá proporcionar por escrito a cada uno de los municipios del estado el monto anual estimado de sus participaciones dentro de los quince días siguientes a aquel en que haya recibido de la Federación la estimación de las participaciones que recibirá el Estado, así como un informe, dentro del mes de enero de cada año, sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
+El Gobierno del Estado, a través de la Secretaría de Planeación, Administración y Finanzas, independientemente de la publicación a que se refiere el artículo 12, deberá proporcionar por escrito a cada uno de los Municipios del Estado el monto anual estimado de sus participaciones dentro de los quince días siguientes a aquél en que haya recibido de la Federación la estimación de las participaciones que recibirá el Estado, así como un informe, dentro del mes de enero de cada año, sobre las que le hubieren correspondido en el año anterior y su comportamiento en relación a lo estimado para dicho año.
 
 ### CAPÍTULO V. De la coordinación fiscal y colaboración administrativa entre estado y municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 15.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas y los municipios por conducto de sus ayuntamientos, podrán celebrar convenios de coordinación fiscal y colaboración administrativa respecto de gravámenes estatales y municipales, en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para ejercer las siguientes funciones operativas:
+El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas y los Municipios por conducto de sus Ayuntamientos, podrán celebrar Convenios de Coordinación Fiscal y Colaboración Administrativa respecto de gravámenes estatales y municipales, en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para ejercer las siguientes funciones operativas:
 
 I. Registro Federal de Contribuyentes;
 
@@ -264,15 +298,19 @@ Las autoridades fiscales municipales, en el ejercicio de las facultades y funcio
 
 ### CAPÍTULO VI. De los organismos en materia de coordinación fiscal
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 18.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los gobiernos municipales, por conducto de sus tesoreros, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta Ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
+El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus tesoreros, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta Ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
 
 ###### Artículo 19.
 
 El Consejo Estatal Hacendario se integrará por:
 
-I. El Gobierno del Estado, por conducto del secretario de Finanzas, o el director general de Ingresos, quien lo presidirá;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+I. El Gobierno del Estado, por conducto del Secretario de Planeación, Administración y Finanzas, o el Sub Secretario de Finanzas, quien lo presidirá;
 
 II. El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Presupuestos, y
 
@@ -280,9 +318,13 @@ III. Los 124 municipios, por conducto de los tesoreros de cada uno de los Ayunta
 
 El Consejo Estatal Hacendario se establece como un órgano de consulta y análisis técnico, respecto del estudio, modificación y actualización de la legislación fiscal estatal y municipal de la entidad, en sus diversas modalidades, para proponerlos al Congreso del Estado, para su aprobación, por conducto de las instancias gubernativas correspondientes.
 
-Las ausencias de los titulares del Consejo Estatal Hacendario podrán ser suplidas de la forma siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-1. El Secretario de Finanzas, por el Director de Ingresos de dicha Secretaría;
+Las ausencias de los Titulares del Consejo Estatal Hacendario, podrá ser suplida (sic) de la forma siguiente:
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+1. El Secretario de Planeación, Administración y Finanzas por el Sub Secretario de Finanzas;
 
 2. El Presidente de la Comisión de Hacienda y Presupuestos del Congreso, por un representante que invariablemente será integrante de la misma Comisión, y
 
@@ -294,7 +336,9 @@ Son facultades del Consejo Estatal Hacendario, opinar sobre lo siguiente:
 
 I. Proponer al Gobierno del Estado las medidas que estime convenientes para mejorar el Sistema de Coordinación Fiscal del Estado de Jalisco y el Sistema Nacional de Coordinación Fiscal;
 
-II. La distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de diferencias correspondientes a los ajustes que formule la Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+II. La distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de diferencias correspondientes a los ajustes que formule la Secretaría de Planeación, Administración y Finanzas.
 
 III. Sobre el cumplimiento de los convenios de colaboración administrativa que celebren los municipios con el estado y en caso de violación a los mismos emitir propuestas al respecto;
 
@@ -308,11 +352,27 @@ VII. Establecer, en su caso, las aportaciones ordinarias y extraordinarias que d
 
 VIII. Formular las actas del Consejo Estatal Hacendario y cumplimentar los acuerdos que de él emanen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 21.
 
-El Consejo Estatal Hacendario, tendrá a su vez un Reglamento donde especificará la representación, integración, funcionamiento, objetivos, facultades y obligaciones.
+El Consejo Estatal Hacendario, tendrá a su vez un reglamento donde especificará, la representación, integración, funcionamiento, objetivos, facultades y obligaciones.
 
-Representación. El Comité Directivo estará integrado por: el titular del Poder Ejecutivo del Estado, representado por el Secretario de Finanzas; el Poder Legislativo, representado por el Presidente de la Comisión de Hacienda y Presupuestos, y a su vez los 124 municipios del Estado, serán representados de acuerdo con el mecanismo de los grupos que a continuación se especifican:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Representación.- El Comité Directivo estará integrado por: el Titular del Poder Ejecutivo del Estado, representado por el Secretario de Planeación, Administración y Finanzas; el Poder Legislativo, representado por el Presidente de la Comisión de Hacienda y Presupuestos; y a su vez los 125 Municipios del Estado, serán representados de acuerdo con el mecanismo de los Grupos que a continuación se especifican:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Integración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Por la Secretaría de Planeación, Administración y Finanzas:
+
+El Secretario de Planeación, Administración y Finanzas y un suplente;
+
+El Sub Secretario de Finanzas y un suplente;
 
 Integración. Por la Secretaría de Finanzas:
 
@@ -324,9 +384,15 @@ El Director de Planeación Fiscal e Ingresos Coordinados y un suplente
 
 El Director General de Fondo de Apoyo Municipal y un suplente
 
-Por la Comisión de Hacienda y Presupuestos: El Presidente y un suplente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-Los 124 municipios formarán 5 grupos, que se integrarán de la siguiente manera:
+Por la Comisión de Hacienda y Presupuestos:
+
+El Presidente y un suplente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Los 125 Municipios formarán 5 grupos, que se integrarán de la siguiente manera:
 
 Grupo I. De 2,000 hasta 14,999 habitantes
 
@@ -344,7 +410,9 @@ Estos grupos se conforman de acuerdo al rango que pertenezca cada municipio, seg
 
 Funcionamiento. El comité directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario.
 
-Objetivos. Promover los mecanismos para el diálogo e información entre la Secretaría de Finanzas, el Congreso del Estado y los Ayuntamientos; realizar propuestas en materia hacendaria, así como brindar asesoría técnica y jurídica.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Objetivos. Promover los mecanismos para el diálogo e información entre la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado y los Ayuntamientos; realizar propuestas en materia Hacendaria, así como brindar asesoría técnica y jurídica.
 
 Obligaciones. Preparar las asambleas de autoridades hacendarias; establecer los Reglamentos de Funcionamiento del propio consejo, y formar subcomités para funciones específicas.
 
@@ -398,7 +466,7 @@ El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE AGOSTO DE 1997.
 
@@ -442,4 +510,8 @@ SEXTO. Se validan las ministraciones de los recursos que hubiere realizado la Se
 
 SÉPTIMO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, VEASE TABLA DE LOS COEFICIENTES DE DISTRIBUCION DEL FONDO DE IEPS, EN LA SECCION III DEL P.O. DE 27 DE SEPTIEMBRE DE 2008, PAGINAS DE LA 6 A LA 12, DEL DECRETO NUMERO 22286/LVIII/08, QUE REFORMA VARIOS ARTICULOS DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, VÉASE TABLA DE LOS COEFICIENTES DE DISTRIBUCIÓN DEL FONDO DE IEPS, EN LA SECCIÓN III DEL P.O. DE 27 DE SEPTIEMBRE DE 2008, PÁGINAS DE LA 6 A LA 12, DEL DECRETO NÚMERO 22286/LVIII/08, QUE REFORMA VARIOS ARTÍCULOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.</small>
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
