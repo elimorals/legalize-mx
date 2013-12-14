@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2011-10-29"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
+LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -41,11 +41,13 @@ LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas.
+La presente Ley tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Titular del Poder Ejecutivo del Estado a través de la Secretaría de Planeación, Administración y Finanzas.
 
-De igual forma, el titular del Poder Ejecutivo Estatal por conducto de la "Secretaría", dictará las normas para la aplicación e interpretación administrativa de esta Ley.
+De igual forma, el Titular del Poder Ejecutivo Estatal, por conducto de dicha Secretaría, dictará las normas para la aplicación e interpretación administrativa de esta Ley.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
@@ -53,7 +55,9 @@ De igual forma, el titular del Poder Ejecutivo Estatal por conducto de la "Secre
 
 Para los efectos de esta ley se entenderá por:
 
-I. Secretaría: A la Secretaria de Finanzas;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+I. Secretaría: A la Secretaría de Planeación, Administración y Finanzas;
 
 II. Dependencias: A las secretarías y dependencias del Poder Ejecutivo y sus organismos desconcentrados;
 
@@ -61,13 +65,27 @@ III. Entidades: A los organismos descentralizados, empresas de participación es
 
 IV. El Comité: Al Comité Interno de Presupuesto del Poder Ejecutivo del Estado.
 
-(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2000) (REPUBLICADO, P.O. 11 DE SEPTIEMBRE DE 2007)
-
 V. Unidad Presupuestal: a los poderes Legislativo y Judicial, los organismos públicos autónomos, así como las dependencias y entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales por el Congreso. Se identifica con los dos primeros dígitos, de la clave presupuestal;
 
-VI. Clave Presupuestal: Es la codificación completa que sistematiza la información del presupuesto de egresos de acuerdo con la clasificación administrativa, funcional, programática y económica. Esto es, identifica unidad presupuestal, organismo, programa de gobierno y partida, Así mismo, integra las asignaciones presupuéstales que resultan de las etapas de programación y presupuesto; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-VII. Partida Presupuestal: Es la codificación terminal que, mediante los cuatro últimos dígitos de la clave presupuestal, identifica de manera concreta el concepto del que se trata, y se define en el Clasificador por Objeto del Gasto.
+VI. Clave Presupuestal: Es la codificación completa que sistematiza la información del presupuesto de egresos de acuerdo con la clasificación administrativa, funcional, programática y económica. Esto es, identifica unidad presupuestal, organismo, programa de gobierno y partida. Así mismo, integra las asignaciones presupuestales que resultan de las etapas de programación y presupuesto;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+VII. Partida Presupuestal: Es la codificación terminal que, mediante los cuatro últimos dígitos de la clave presupuestal, identifica de manera concreta el concepto del que se trata, y se define en el Clasificador por Objeto del Gasto;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+VIII. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+IX. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+X. Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos.
 
 ###### Artículo 3.
 
@@ -163,7 +181,7 @@ A la Iniciativa de Presupuesto de Egresos del Estado que presente el titular del
 
 En ningún caso, los Presupuestos de los Poderes Legislativo y Judicial podrán ser inferiores al ejercido el año inmediato anterior actualizado con base en la cifra oficial de inflación que publique el Banco de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 18.
 
@@ -229,7 +247,7 @@ El importe del presupuesto de Egresos, no deberá exceder de la estimación de l
 
 La Secretaría fijará anualmente, de acuerdo a las instrucciones del titular del Poder Ejecutivo, las sumas definitivas que habrán de incluirse en el proyecto de presupuesto de Egresos para cada una de las unidades presupuestales, observando lo dispuesto por esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 29.
 
@@ -242,6 +260,36 @@ Los proyectos de presupuesto a que se refiere el presente artículo deben conten
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
 Si la partida de responsabilidad patrimonial no se ejerce en el ejercicio fiscal, se deberá traspasar al siguiente ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Para la programación de los recursos destinados a programas y proyectos de inversión, las dependencias y entidades deberán observar el siguiente procedimiento, sujetándose a lo establecido en el Reglamento:
+
+I. Contar con un mecanismo de planeación de las inversiones, en el cual:
+
+a) Se identifiquen los programas y proyectos de inversión en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros; y
+
+b) Se establezcan las necesidades de inversión a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos.
+
+Los mecanismos de planeación a que hace referencia esta fracción serán normados y evaluados por la Secretaría;
+
+II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales;
+
+III. Registrar cada programa y proyecto de inversión en la cartera que integrará la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables; y
+
+IV. Los programas y proyectos registrados en la cartera de inversión serán analizados por el Secretario de Planeación, Administración y Finanzas, quien determinará la prelación para su inclusión en el proyecto de presupuesto de egresos, así como el orden de su ejecución, para establecer un orden de los programas y proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+
+a) Rentabilidad socioeconómica;
+
+b) Reducción de la pobreza extrema;
+
+c) Desarrollo Regional;
+
+d) Concurrencia con otros programas y proyectos de inversión; y
+
+e) Aportación al medio ambiente.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -305,11 +353,15 @@ I. Exposición de motivos en la que se señalen los efectos políticos, económi
 
 II. Descripción de los programas que integran el proyecto de presupuesto de egresos, señalando objetivos y prioridades globales, así como las Unidades Presupuestales responsables de su ejecución;
 
-III. Programas Operativos Anuales de cada una de las Secretarías;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+III. Matrices de indicadores para Resultados de cada una de las Secretarías;
 
 IV. Informe de los avances en el cumplimiento de los objetivos y metas de desarrollo establecidas en el Plan Estatal;
 
-V. Informe de cada uno de los Programas Operativos Anuales aplicados durante el año en curso de manera parcial a la fecha de entrega de los mismos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+V. Informe de cada una de las Matrices de Indicadores para Resultados aplicados durante el año en curso de manera parcial a la fecha de entrega de los mismos;
 
 VI. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales;
 
@@ -335,13 +387,21 @@ XIII. Sueldo y demás prestaciones económicas asignadas a cada una de las plaza
 
 XIV. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-XV. Situación que guardan las obligaciones de pago derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Congreso del Estado; y
+XV. Situación que guardan las obligaciones de pago derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
-XVI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+XVI. Un capítulo específico que incorpore las erogaciones multianuales para proyectos de inversión en infraestructura, aprobadas en términos de la Ley de Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco y sus Municipios; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+XVII. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+La Secretaría deberá integrar en el proyecto de presupuesto de egresos las asignaciones presupuestales para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -349,7 +409,7 @@ XVI. En general, toda información que se considere útil para mostrar la propue
 
 Las previsiones de Egresos a que se refiere el artículo 37 de esta ley, se clasificarán separadamente por unidades presupuestales. En consecuencia las previsiones del sector paraestatal quedarán incluidas en la unidad especial correspondiente a su coordinadora de sector, o en unidad especial, si no están sectorizadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### Artículo 41.
 
@@ -397,9 +457,13 @@ La partida prevista para el proceso de entrega-recepción deberá cumplir en for
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2000)</small>
 
-Artículo 41 bis.- El Clasificador por Objeto del Gasto es el instrumento que contiene el listado que ordena e identifica en forma genérica, homogénea y coherente, los capítulos de gasto, conceptos y partidas de la demanda gubernamental de los recursos humanos, materiales, tecnológicos y financieros.
+###### Artículo 41 Bis.
 
-Corresponde a la Secretaría de Finanzas emitir el Clasificador por Objeto del Gasto para cada ejercicio fiscal, así como sus modificaciones.
+El Clasificador por Objeto del Gasto es el instrumento que contiene el listado que ordena e identifica en forma genérica, homogénea y coherente, los capítulos de gasto, conceptos y partidas de la demanda gubernamental de los recursos humanos, materiales, tecnológicos y financieros.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Corresponde a la Secretaría emitir el Clasificador por Objeto del Gasto para cada ejercicio fiscal, así como sus modificaciones.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -457,11 +521,13 @@ El Titular del Poder Ejecutivo del Estado, estará facultado para que previa pet
 
 Cuando las asignaciones fijadas en el presupuesto de Egresos resulten insuficientes para el cumplimiento de las funciones de las Unidades Presupuestales, las Dependencias y Entidades interesadas solicitarán a la Secretaría que se analice la factibilidad de proponer al Ejecutivo la formulación de iniciativas de reformas al presupuesto, observando lo dispuesto en los dos preceptos anteriores.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 49.
 
-El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente; por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio titular del Poder Ejecutivo o el Secretario de Finanzas podrán autorizar las transferencias entre las partidas que a su juicio se justifiquen conforme a las siguientes reglas:
+El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente, por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio Titular del Poder Ejecutivo, el Secretario de Planeación, Administración y Finanzas o el Subsecretario de Finanzas podrán autorizar las transferencias entre las partidas que a su juicio se justifiquen conforme a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 I. Se permiten las transferencias entre partidas presupuestales siempre y cuando en su conjunto no rebasen el 10% de los recursos presupuestados en la partida de origen;
 
@@ -477,7 +543,11 @@ b) Cuando la partida del capítulo de "Inversión Pública" sea origen de una tr
 
 III. Las partidas de "Servicios Personales" no podrán ser consideradas como de destino, salvo en los casos que el recurso se dirija a la educación, salud o inversión pública, aún cuando la partida de origen sea de ampliación automática. Asimismo, podrán realizarse transferencias entre partidas del capítulo de "Servicios Personales" siempre y cuando éstas hayan sido previamente autorizadas en los presupuestos de una misma Dependencia, no se altere el techo financiero del capítulo y, no se modifique la plantilla de personal autorizada por el Congreso del Estado, observando en todos los casos lo dispuesto en la fracción I de este artículo;
 
-IV. Las transferencias entre partidas presupuestales de una misma unidad que conforme a las reglas anteriores se efectúen, se podrán aprobar por acuerdo del Secretario de Finanzas previa justificación del titular de la dependencia;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+IV. Las transferencias entre partidas presupuestales de una misma unidad que conforme a las reglas anteriores se efectúen, se podrán aprobar por acuerdo del Secretario de Planeación, Administración y Finanzas o del Subsecretario de Finanzas, previa justificación del Titular de la dependencia; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 V. Las transferencia (sic) entre partidas contenidas en distintas unidades presupuestales que conforme a las reglas anteriores se realicen, deberán ser aprobadas por el titular del Poder Ejecutivo del Estado previa consulta del titular de la dependencia de la partida de origen y mediando justificación del titular de la dependencia receptora de recursos.
 
@@ -511,17 +581,17 @@ El ejercicio del gasto público estatal comprende el manejo y aplicación de los
 
 Ninguna partida podrá considerarse como de ampliación automática en lo relativo a las remuneraciones que por cualquier concepto se establezca para los servidores públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53.
 
-Ningún gasto podrá efectuarse sin partida presupuestal expresa. Para que proceda una erogación, esta deberá de sujetarse al texto de la partida contenida en el clasificador por objeto del gasto que lo autorice y a la suficiencia presupuestal. En caso de duda sobre la partida a afectar, la Secretaría de Finanzas resolverá lo conducente.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+Ningún gasto podrá efectuarse sin partida presupuestal expresa. Para que proceda una erogación, ésta deberá de sujetarse al texto de la partida contenida en el Clasificador por Objeto del Gasto que lo autorice y a la suficiencia presupuestal. En caso de duda sobre la partida a afectar, la Secretaría resolverá lo conducente.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
-Artículo 53 bis.- En ningún caso y bajo ninguna circunstancia podrán ejercerse recursos públicos en beneficio o perjuicio de la imagen de gobernante o persona, física o jurídica alguna.
+###### Artículo 53 Bis.
+
+En ningún caso y bajo ninguna circunstancia podrán ejercerse recursos públicos en beneficio o perjuicio de la imagen de gobernante o persona, física o jurídica alguna.
 
 Las campañas de prensa, propaganda y difusión deberán ser instrumentadas exclusivamente para dar a conocer asuntos relacionados con las actividades propias de la entidad de gobierno que sean de interés y en beneficio de los ciudadanos.
 
@@ -543,6 +613,10 @@ La Secretaría examinará y autorizará dentro de los límites presupuestales, l
 
 La Secretaría deberá examinar, autorizar y registrar los créditos a cargo del Estado y los que avale a los municipios, entidades o particulares, así como las obligaciones que se deriven de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura o de prestación de servicios, de acuerdo con lo establecido por la Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Cuando el Congreso del Estado apruebe una asignación presupuestal para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto, las asignaciones presupuestales para ejercicios posteriores no podrán ser disminuidas, para asegurar el cumplimiento de los compromisos adquiridos por el Estado bajo dicho esquema.
+
 ###### Artículo 57.
 
 El titular del Poder Ejecutivo del Estado, determinará la forma en que deberán aplicarse presupuestalmente los subsidios que se otorguen a los Municipios de la Entidad y a los sectores social, privado y paraestatal, los beneficiarios de estos subsidios, deberán proporcionar según sea el caso, a la Secretaría, a la Contraloría del Estado o a su coordinadora de sector, bimestralmente o cuando se les requiera la información que se estime necesaria respecto a la utilización de los fondos.
@@ -555,7 +629,9 @@ La Secretaría cuidará de la exacta aplicación y ejecución del presupuesto ap
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
 
-Artículo 58 bis.- El Titular del Poder Ejecutivo, por conducto de la Secretaría, formulará mensualmente el estado de origen y aplicación de los recursos financieros y tributarios, mismo que se publicará cada mes en el Periódico Oficial "El Estado de Jalisco" y de manera bimestral en uno de los periódicos de mayor circulación en la entidad.
+###### Artículo 58 Bis.
+
+El Titular del Poder Ejecutivo, por conducto de la Secretaría, formulará mensualmente el estado de origen y aplicación de los recursos financieros y tributarios, mismo que se publicará cada mes en el Periódico Oficial "El Estado de Jalisco" y de manera bimestral en uno de los periódicos de mayor circulación en la entidad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -567,13 +643,13 @@ Las instituciones señaladas en este artículo, deberán expedir a costa de cual
 
 Es responsable del cumplimiento de las obligaciones contenidas en este artículo el administrador, tesorero o funcionario público que lleve la contabilidad de la Unidad Presupuestaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
-Los pagos que con cargo al Presupuesto de Egresos y los que conforme a la ley y otras disposiciones aplicables, vaya a efectuar el Gobierno del Estado, se realizarán por conducto de la Secretaría, previa la revisión legal de la Dependencia generadora del gasto y la revisión administrativa de la documentación comprobatoria por parte de la Secretaría. Cuando en su caso, las Dependencias realicen algún pago directamente, a través de sus fondos revolventes, serán los responsables de justificar la procedencia del gasto y revisar administrativa y legalmente la documentación comprobatoria. Para tal efecto los proveedores de bienes y servicios deberán de sujetarse a las disposiciones que existan en la materia.
+Los pagos que con cargo al Presupuesto de Egresos y los que conforme a la Ley y otras disposiciones aplicables, vaya a efectuar el Gobierno del Estado, se efectuarán previa instrucción de pago de la Dependencia generadora del gasto y se realizarán por conducto de la Secretaría, esta última será responsable de la revisión administrativa, en tanto, las Dependencias generadoras de dicho gasto serán las responsables de realizar su revisión legal, la justificación y procedencia de la instrucción de pago que efectúen, así como de vigilar el destino y uso adecuado del gasto. Cuando en su caso, las Dependencias realicen algún pago directamente, a través de sus fondos revolventes, serán las responsables de justificar tanto la procedencia del gasto, como la revisión administrativa y legal de la documentación comprobatoria, así como de vigilar el destino y uso adecuado del gasto. Para tal efecto los proveedores de bienes y servicios deberán de sujetarse a las disposiciones que existan en la materia.
 
-Los pagos correspondientes a los Poderes Legislativo Judicial y entidades, se efectuarán por conducto de sus propias áreas responsables.
+Los pagos correspondientes a los Poderes Legislativo Judicial y entidades, se efectuarán por conducto de sus propias áreas las que serán las responsables de justificar la procedencia del gasto, la revisión administrativa y legal de la documentación comprobatoria, así como vigilar el destino y uso adecuado del gasto.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -653,7 +729,7 @@ Las claves presupuestales comprendidas en el Presupuesto, sólo serán afectadas
 
 Para los efectos del Presupuesto, la Deuda Pública comprende las obligaciones provenientes de adeudos contraídos dentro de las asignaciones presupuestales autorizadas por la Secretaría en los términos de esta Ley, durante el ejercicio para el cual fueron fijadas y no satisfechas a la terminación del propio ejercicio, así como los reconocidos expresamente por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### Artículo 75.
 
@@ -676,6 +752,10 @@ Las obligaciones contraídas fuera de las asignaciones presupuestales, requieren
 ###### Artículo 77.
 
 Para pagar las obligaciones que dentro de los términos legales que contraigan en un ejercicio fiscal, que deban cubrirse en años futuros, es necesario que las dependencias contratantes incluyan dentro de sus presupuestos, las cantidades necesarias para hacerlas efectivas, en las proporciones que se vayan devengando en cada ejercicio, pues solo se llevarán a deuda pública, cuando para contraer esas obligaciones se haya hecho necesaria la contratación de un empréstito.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+Las asignaciones aprobadas por el Congreso del Estado para el cumplimiento de obligaciones contraídas mediante contratos de asociaciones público privadas, proyectos de inversión o que impliquen una afectación multianual del presupuesto estarán garantizadas, para tal efecto los presupuestos de los ejercicio (sic) siguientes deberán incluir las asignaciones necesarias para su cabal cumplimiento.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -749,13 +829,13 @@ Para el registro de operaciones, la Secretaría utilizará de manera preferente 
 
 La Secretaría deberá efectuar el cierre de la contabilidad gubernamental por año calendario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### Artículo 89.
 
 Será responsabilidad de las Entidades los registros de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de sus cuentas en función de los activos y pasivos reales de las mismas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### Artículo 90.
 
@@ -773,7 +853,7 @@ El archivo contable gubernamental consta de registros contables y documentación
 
 La Secretaría será la responsable del archivo contable gubernamental, debiendo mantenerlo actualizado en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 93.
 
@@ -823,7 +903,7 @@ Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los d
 
 La Auditoría Superior del Estado, por derecho propio, podrá realizar auditoría a las entidades señaladas en este artículo, no obstante éstas hayan rendido los resultados sobre sus estados financieros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 97.
 
@@ -869,8 +949,6 @@ Quienes realicen gastos públicos estarán obligados a proporcionar al Congreso 
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
-Artículo 104 bis.- Los Poderes del Estado, Organismos Constitucionales, Autónomos y sus dependencias y entidades deben publicar a través de los medios oficiales de divulgación la información a que se refiere este título.
-
 ###### Artículo 104 Bis.
 
 Los Poderes del Estado, Organismos Constitucionales, Autónomos y sus dependencias y entidades deben publicar a través de los medios oficiales de divulgación la información a que se refiere este título.
@@ -881,7 +959,9 @@ El incumplimiento de las disposiciones de la presente Ley y de las que de ella s
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
 
-Artículo 105 bis.- Los administradores, tesoreros o quienes sean responsables de llevar la contabilidad de las Unidades Presupuestarias que incurran en incumplimiento a las obligaciones señaladas en el artículo 58 bis, serán sancionados de la siguiente manera:
+###### Artículo 105 Bis.
+
+Los administradores, tesoreros o quienes sean responsables de llevar la contabilidad de las Unidades Presupuestarias que incurran en incumplimiento a las obligaciones señaladas en el artículo 58 bis, serán sancionados de la siguiente manera:
 
 a) El responsable de la falta será apercibido de acatar el dispositivo legal con puntualidad;
 
@@ -943,7 +1023,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE DICIEMBRE DE 1999.
 
@@ -1062,3 +1142,9 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 29 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Lo previsto en el artículo 29-Bis que se adiciona mediante este decreto a la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco, será aplicable para la preparación del presupuesto del ejercicio fiscal de 2015.
