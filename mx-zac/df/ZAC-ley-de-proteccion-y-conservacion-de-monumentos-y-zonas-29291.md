@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-y-conservacion-de-monumentos-y-zonas-29291"
 country: "mx"
 rank: "ley"
 publication_date: "1987-04-15"
-last_updated: "2012-09-01"
+last_updated: "2013-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y ZONAS TÍPICAS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 15 de abril de 1987.
 
@@ -508,3 +510,27 @@ Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 Artículo tercero.- La Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas, seguirá conservando los recursos humanos, materiales y financieros, adquiridos hasta antes de la vigencia del presente Decreto.
 
 Artículo cuarto.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo del Estado emitirá los reglamentos e instrumentos legislativos correspondientes.
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, de fecha 15 de abril de 1987, contenida en el Decreto número 60, Suplemento número 30.
+
+Tercero.- Se mantiene en sus términos la Declaratoria contenida en el artículo 16 de la ley respectiva de fecha veintiuno de junio de mil novecientos sesenta y cinco.
+
+Cuarto.- Se mantiene en sus términos la Declaratoria contenida en el artículo 9° de la Ley que se abroga y que fue publicada el quince de abril de mil novecientos ochenta y siete.
+
+Quinto.- Se mantiene en sus términos el Decreto número 168, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas de fecha 22 de junio del 2011 y en el cual se Declara al Centro de la Cabecera Municipal del Teúl de González Ortega, Zacatecas, como Zona de Monumentos.
+
+Sexto.- La Junta conservará los recursos humanos, financieros y materiales adquiridos hasta antes de la vigencia de la presente Ley.
+
+Séptimo.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, se instalará el Consejo Directivo.
+
+Octavo.- Dentro de los sesenta días siguientes a la entrada en vigor de esta Ley, el Consejo Directivo emitirá el Estatuto Orgánico de la Junta.
+
+Noveno.- Dentro de los ciento veinte días siguientes a la entrada en vigor de esta Ley, el Titular del Poder Ejecutivo del Estado emitirá los reglamentos e instrumentos legales correspondientes.
+
+Décimo.- El proceso para determinar la traza y delimitación de los polígonos a que se refiere el presente ordenamiento, deberá culminar antes del 1° de Junio del año 2015.
+
+Decimoprimero.- Se derogan las disposiciones que contravengan la presente Ley.
