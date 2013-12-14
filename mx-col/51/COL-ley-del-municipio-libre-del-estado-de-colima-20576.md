@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2012-05-26"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1311,13 +1311,31 @@ La organización de la policía preventiva municipal será regulada mediante los
 
 La actuación de la policía preventiva municipal, se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 91.
 
 Los servicios de tránsito que le corresponden al municipio son los siguientes:
 
-I. Realizar las medidas y acciones correspondientes en todo lo relativo al tránsito de vehículos en las vías públicas de la demarcación municipal, así como sus aspectos correlativos; y
+I. Realizar las medidas y acciones correspondientes en todo lo relativo al tránsito de vehículos en las vías públicas de la demarcación municipal, en las que se podrán utilizar elementos aportados por los descubrimientos de la ciencia y la tecnología; así como sus aspectos correlativos;
 
-II. Instaurar los mecanismos adecuados para prevenir, controlar y combatir la contaminación ambiental originada por la emisión de humos, gases y ruidos provenientes de la circulación de vehículos automotores, así como promover la concientización de los habitantes en lo correspondiente a estas materias.
+II. Instaurar los mecanismos adecuados para prevenir, controlar y combatir la contaminación ambiental originada por la emisión de humos, gases y ruidos provenientes de la circulación de vehículos automotores, así como promover la concientización de los habitantes en lo correspondiente a estas materias;
+
+III. La orientación, sensibilización, participación y colaboración con la población en general, para el cumplimiento de las medidas de seguridad vial, tendientes a la prevención de accidentes viales, evitando la comisión de infracciones;
+
+IV. Cuidar de la seguridad y respeto de las personas con discapacidad, del peatón y de las personas que se desplazan en unidades de propulsión humana en las vías públicas, dándoles siempre preferencia sobre los vehículos;
+
+V. Proteger y auxiliar a las personas, particularmente cuando sufran accidentes en las vías públicas;
+
+VI. Coadyuvar con otras autoridades en la conservación del orden público y la tranquilidad de la comunidad;
+
+VII. Cuidar que se cumplan y apliquen las disposiciones de la Ley y sus reglamentos en materia de tránsito y vialidad, así como informar y orientar a quienes transiten en las vías públicas;
+
+VIII. Tomar conocimiento de las infracciones que cometan los conductores de los vehículos y prestadores del servicio público y, en su caso, levantar o hacer constar dichas infracciones, para los efectos de determinar y aplicar la sanción correspondiente, atendiendo las circunstancias de tiempo, modo y lugar.
+
+Las infracciones en materia de tránsito podrán ser conocidas por los elementos de tránsito municipal a través de equipos o sistemas tecnológicos y gestionarse con el uso de medios electrónicos, los cuales deberán funcionar bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad; y
+
+IX. Las demás que les sean señaladas por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, por esta Ley y los reglamentos en materia de tránsito y seguridad vial.
 
 La actuación de los elementos de tránsito, se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
@@ -1773,6 +1791,10 @@ VI. Nombre y firma autógrafa del inspector, verificador o persona autorizada y 
 
 El inspector, verificador o personal comisionado entregará, en su caso, una copia del acta a la persona con quien se entienda la diligencia, aún en el caso de que ésta se hubiera negado a firmarla, haciéndole saber que dispone de setenta y dos horas, contados a partir del día siguiente de aquel en que se levantó el acta, para que acuda ante el titular de la dependencia municipal correspondiente para alegar lo que a su derecho convenga y rendir las pruebas que considere convenientes. Lo señalado en este párrafo deberá asentarse en el formulario del acta correspondiente.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 124 BIS.- Se exceptúan los requisitos contenidos en las fracciones IV, V y VI del artículo 124 de esta Ley, en la elaboración de actas circunstanciadas por infracciones en materia de tránsito conocidas a través de equipos o sistemas tecnológicos y gestionadas con el uso de medios electrónicos, subsistiendo para la autoridad que impone la sanción la obligatoriedad de realizar la notificación de la infracción vía correo certificado con acuse de recibo en el domicilio del propietario del vehículo con el que se cometió, motivando y fundamentado el acto de autoridad.
+
 ###### ARTICULO 125.
 
 La autoridad municipal competente, dentro de los cinco días siguientes a la conclusión del plazo a que se refiere el artículo anterior, emitirá la resolución procedente, con base en los hechos consignados en el acta así como en el alegato producido por el infractor y las pruebas aportadas, en su caso.
@@ -1934,3 +1956,11 @@ P.O. 4 DE FEBRERO DE 2012.
 P.O. 26 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Municipio que decida adoptar los sistemas tecnológicos que se refieren en el presente Decreto para la aplicación de sanciones por la infracción a las normas viales establecidas en los reglamentos municipales de la materia, deberán implementar una campaña de información y concientización de por lo menos tres meses y en el transcurso de dicha campaña las infracciones que se apliquen serán simbólicas sin el cobro del aprovechamiento correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
