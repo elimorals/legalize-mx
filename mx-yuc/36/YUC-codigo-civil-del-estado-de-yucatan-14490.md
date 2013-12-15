@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2013-02-19"
+last_updated: "2013-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2013.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -9939,9 +9939,15 @@ I.- Si las deudas se han contraído por causa de la sociedad, serán carga de el
 
 II.- Si las deudas son anteriores a la celebración del contrato, o posteriores a él, pero contraídas respecto a los bienes propios de cada socio, será de cuenta de éste el capital de la deuda, y los intereses serán carga de la sociedad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 1832.
 
-En toda sociedad universal, de cualquiera especie que sea, se sacarán de los fondos comunes las expensas y gastos necesarios para los alimentos de los socios, conforme a lo dispuesto en el artículo 235 de este código.
+En toda sociedad universal, de cualquiera especie que sea, se sacarán de los fondos comunes las expensas y gastos necesarios para los alimentos de los socios, conforme a lo dispuesto en los artículos 35 y 36 del Código de Familia para el Estado de Yucatán.
+
+Los alimentos previstos en el párrafo anterior no se considerarán como tales para ningún efecto fiscal, tampoco otorgarán el carácter de acreedor alimentario a los beneficiarios de los mismos, incluyendo en específico, la fracción XXVI del artículo 93 de la Ley del Impuesto sobre la Renta.
 
 ###### Artículo 1833.
 
@@ -9980,6 +9986,12 @@ Si los bienes llevados a la sociedad particular no lo han sido en cuanto a la pr
 ###### Artículo 1841.
 
 En la sociedad particular no se sacarán del fondo común los alimentos de los socios, sino cuando así se haya pactado expresamente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 15 DE DICIEMBRE DE 2013)</small>
+
+Los alimentos previstos en el párrafo anterior no se considerarán como tales para ningún efecto fiscal, tampoco otorgarán el carácter de acreedor alimentario a los beneficiarios de los mismos, incluyendo en específico, la fracción XXVI del artículo 93 de la Ley del Impuesto sobre la Renta.
 
 #### SECCION CUARTA. DE LAS OBLIGACIONES Y DERECHOS RECIPROCOS DE LOS SOCIOS
 
@@ -15118,3 +15130,13 @@ Con motivo de la entrada en vigor del Libro de Registro de Cotejos y Certificaci
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 15 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1 de enero del año 2014, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas de igual o menor rango en lo que se opongan al contenido de este Decreto.
