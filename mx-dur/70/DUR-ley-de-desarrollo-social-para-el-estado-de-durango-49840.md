@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2011-11-10"
+last_updated: "2013-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -343,9 +343,9 @@ V. Tomará en cuenta la mezcla de recursos provenientes de las dependencias y en
 
 Son zonas de atención prioritaria, las áreas o regiones que se encuentren en condiciones de vida por debajo de los niveles mínimos de bienestar, pobreza o marginación.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2013)</small>
 
-El Ejecutivo del Estado dispondrá en el Presupuesto de Egresos Anual que corresponda, un monto especifico a efecto de dotar anualmente de un juego de útiles escolares, al inicio de los ciclos escolares, según la lista oficial de éstos, determinada por la Secretaría de Educación del Estado, para otorgar un juego de uniforme escolar, de uso ordinario o deportivo, adecuado y completo, a los beneficiaros inscritos en las escuelas de educación básica obligatoria de cada uno de los municipios del Estado. La entrega de dichos beneficios se realizará de manera gratuita en tiempo y forma al inicio del ciclo escolar a cada alumno debidamente inscrito de acuerdo a lo establecido por el artículo 49 de la Ley de Educación del Estado de Durango.
+El Ejecutivo del Estado dispondrá en el Presupuesto de Egresos Anual que corresponda, un monto especifico a efecto de dotar anualmente de un juego de útiles escolares, según la lista oficial de éstos, determinada por la Secretaría de Educación del Estado, así mismo se otorgará un juego de uniforme escolar, de uso ordinario o deportivo, adecuado y completo, a los beneficiaros inscritos en las escuelas de educación básica obligatoria de cada uno de los municipios del Estado. La entrega de dichos beneficios se realizará de manera gratuita en tiempo y forma en cada ciclo escolar a los alumnos que estén debidamente inscritos de acuerdo a lo establecido por el artículo 49 de la Ley de Educación del Estado de Durango.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -656,3 +656,13 @@ C) Procurar que en caso de que así lo permitan las circunstancias específicas,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones legales que se opongan el presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
