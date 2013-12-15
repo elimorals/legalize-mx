@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-desarrollo-urbano-del-estado-42536
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2013-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE DESARROLLO URBANO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 98, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -444,3 +446,93 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS.
 SECRETARIO GENERAL DE GOBIERNO.
 
 RICARDO FIDEL PACHECO RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue el organismo público descentralizado denominado Instituto de Desarrollo Urbano del Estado de Durango, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en la Secretaría de Comunicaciones y Obras Públicas, bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+###### ARTÍCULO QUINTO.
+
+Cuando las disposiciones jurídicas, contenidas en cualquier ley, reglamento decreto o convenio, se refieran al Instituto de Desarrollo Urbano del Estado de Durango, se entenderá que se refiere a la Secretaría de Comunicaciones y Obras Públicas.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Comunicaciones y Obras Públicas asumirá la responsabilidad del proceso de liquidación, para tal efecto designará al Liquidador, pudiendo recaer dicha designación en algún funcionario de la propia Secretaría o bien en algún profesionista externo en caso de que la naturaleza de las acciones lo amerite.
+
+ARTÍCULO SÉPTIMO, El Liquidador será el representante del organismo en proceso de liquidación, en sus relaciones internas y externas y ejercerá las atribuciones de apoderado general para pleitos y cobranzas, actos de administración y actos de dominio, con todas las facultades generales y aún las especiales que de acuerdo con la ley requieran poder o cláusula especial.
+
+###### ARTÍCULO OCTAVO.
+
+El proceso de liquidación se efectuara conforme a lo siguiente:
+
+I. La Secretaría de Finanzas y de Administración, conforme a sus atribuciones, vigilará la liquidación.
+
+II. El proceso de liquidación no podrá durar más de 5 meses, salvo que existan razones financieras o legales que impidan su conclusión.
+
+III. Los derechos laborales adquiridos por los trabajadores del organismo en liquidación, serán asumidos y garantizados por la dependencia a la que se transfieren los recursos humanos, respetando las disposiciones legales aplicables.
+
+IV. Los bienes muebles e inmuebles pasarán a formar parte de los activos del Gobierno del Estado y se pondrán a disposición y uso de la Secretaría de Comunicaciones y Obras Públicas. La transferencia se realizará mediante los instrumentos jurídicos aplicables y de conformidad a la normatividad vigente.
+
+V. Los recursos financieros que conserve el Instituto en su haber a la entrada en vigor del presente Decreto, quedarán bajo la custodia del Liquidador con la estricta finalidad de cumplir con las obligaciones adquiridas por el organismo en liquidación y/o transferir dichos recursos a la Secretaría de Finanzas y de Administración. Para estos fines el Liquidador deberá informar de su aplicación en los estados financieros finales.
+
+###### ARTÍCULO NOVENO.
+
+Para el cumplimiento de su responsabilidad, el Liquidador deberá realizar las siguientes actividades:
+
+I. Recibir los estados financieros correspondientes al tercer trimestre del ejercicio fiscal 2013, aprobados por el Consejo Directivo del organismo que se extingue y liquida.
+
+II. En un plazo de 15 días contados a partir de recibir el encargo, deberá elaborar un plan detallado de la liquidación, con objetivos y metas, mismo que deberá someter a la consideración de la Secretaría de Finanzas y a la Secretaría de Comunicaciones y Obras Públicas.
+
+III. Informar oficialmente a la Secretaría de Comunicaciones y Obras Públicas todas las actividades y asuntos de carácter técnico que hayan quedado pendientes de solución al momento de decretarse la extinción y liquidación del organismo, para efecto de que ésta dependencia proceda a su conclusión.
+
+IV. Realizar ante las instancias competentes los trámites administrativos y fiscales que resulten necesarios para concluir la liquidación en el plazo establecido.
+
+V. Identificar los pasivos del organismo que se extingue y proponer a la Secretaría de Finanzas y de Administración, así como a la Secretaría de Comunicaciones y Obras Públicas la forma en que se puedan cubrir.
+
+VI. Participar en el acto de entrega-recepción de los bienes y recursos del organismo;
+
+VII. Administrar los activos remanentes hasta su traspaso a la dependencia que corresponda.
+
+VIII. Atender lo relativo a los juicios laborales, civiles, mercantiles y de cualquier otra índole que se encuentren en curso.
+
+IX. Finiquitar los contratos y convenios de cualquier naturaleza que tengan celebrados el organismo que se extingue con particulares u otros niveles de gobierno, asegurándose del cumplimiento satisfactorio de las obligaciones y contraprestaciones pactadas en los mismos;
+
+X. Efectuar el cobro de los créditos pendientes de liquidar a favor del organismo, sometiendo, en su caso, a la autorización de las Secretarías de Finanzas y de Administración, la cancelación de aquellos créditos que se identifiquen como incobrables o incosteables;
+
+XI. Presentar ante la Secretaría de Hacienda y Crédito Público el aviso de cancelación del Registro Federal de Contribuyentes, conjuntamente con la declaración final de la liquidación de los activos del organismo,
+
+XII. Coordinar y entregar toda la información que le sea requerida por la Secretaría de Comunicaciones y Obras Públicas, así como a la Secretaría de Finanzas, o cualquier otra autoridad vinculada con el proceso de liquidación; y
+
+XIII. Publicar en uno de los periódicos de mayor circulación en la entidad, así como en el Periódico Oficial del Gobierno del Estado, los estados financieros del organismo con corte al 31 de octubre del año 2013.
+
+###### ARTÍCULO DÉCIMO.
+
+El Liquidador tomará posesión de su cargo una vez que suscriba el acta de entrega-recepción que deberá preparar el Director General del organismo que se extingue, misma que contendrá, entre otros documentos, los siguientes:
+
+1. Inventarios de los activos y pasivos del organismo;
+
+2. Asuntos pendientes, y
+
+3. Estados financieros.
+
+La firma del acta deberá realizarse a los 10 días de que haya sido designado el Liquidador.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Liquidador deberá de proponer a la Secretaría de Finanzas y de Administración, el personal de apoyo que sea estrictamente indispensable para llevar a cabo el proceso de liquidación para que en su caso se comisione temporalmente al propio personal que será reasignado a la Secretaría de Comunicaciones y Obras Públicas con motivo de la extinción del organismo.
