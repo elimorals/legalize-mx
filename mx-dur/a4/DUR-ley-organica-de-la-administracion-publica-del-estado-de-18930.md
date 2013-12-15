@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2013-04-09"
+last_updated: "2013-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -637,11 +637,11 @@ LXXIII. Evaluar, con la participación de las dependencias y entidades de la adm
 
 LXXIV. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Comunicaciones y Obras Públicas, es la dependencia responsable de planear, conducir, ejecutar, normar y evaluar la política general de comunicaciones y obras públicas. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Comunicaciones y Obras Públicas, es la dependencia responsable de planear, conducir, ejecutar, normar y evaluar la política general de comunicaciones, obras públicas y desarrollo urbano. Le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas de construcción, conservación, rehabilitación y operación de carreteras, caminos, puentes y demás vías de comunicación de jurisdicción estatal;
 
@@ -665,17 +665,25 @@ X. Proyectar y ejecutar programas de obras de infraestructura escolar y deportiv
 
 XI. En coordinación con la Secretaría de Salud, proyectar y ejecutar obras de infraestructura para este sector;
 
-XII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2013)</small>
 
-XIII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+XII. Formular y ejecutar el Programa Estatal de Desarrollo Urbano, con el objetivo de lograr de manera armónica el crecimiento ordenado de los asentamientos humanos, sin menoscabo del medio ambiente y la ecología;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2013)</small>
+
+XIII. Con respeto a la autonomía municipal, promover y participar en la elaboración de los planes directores de desarrollo urbano de los municipios, así como de las zonas conurbadas, vigilando el cumplimiento de los mismos;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 XIV. Ejecutar la construcción de obras de infraestructura y equipamiento para el desarrollo urbano, protegiendo el medio ambiente y los ecosistemas, en coordinación con los gobiernos municipales y la participación de los sectores social y privado;
 
-XV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2013)</small>
 
-XVI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+XV. Proyectar la distribución de la población y la ordenación de los centros de población, conjuntamente con las instituciones que corresponda y concertando acciones con los sectores social y privado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2013)</small>
+
+XVI. Coadyuvar con las autoridades competentes para dictar las medidas necesarias para evitar la especulación con los terrenos rurales y urbanos, tanto privados como ejidales, y propiciar la regularización de los asentamientos humanos;
 
 XVII. Estudiar y aprobar, en su caso, los expedientes relativos al denuncio y enajenación de terrenos municipales, así como proyectar en coordinación con el Gobierno Federal y los Municipios la dotación de fundos legales a las poblaciones del Estado;
 
@@ -2081,7 +2089,7 @@ Se derogan todas la sus disposiciones legales que se opongan al presente decreto
 
 P.O. 30 DE DICIEMBRE DE 2007.
 
-PRIMERO.- Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el presente Decreto entrará en vigor el primero de enero de 2008.
+PRIMERO.- Una vez publicado en el Periódico Oficial del Gobierno Constitucional de Estado del Durango, el presente Decreto entrará en vigor el primero de enero de 2008.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -2164,3 +2172,93 @@ El proceso de transferencia se realizará de conformidad a las disposiciones leg
 ###### ARTÍCULO SEXTO.
 
 En un plazo de 90 días se deberá expedir las disposiciones administrativas derivadas de la reforma y adición a la presente Ley.
+
+P.O. 15 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue el organismo público descentralizado denominado Instituto de Desarrollo Urbano del Estado de Durango, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en la Secretaría de Comunicaciones y Obras Públicas, bajo el procedimiento vigente al momento en que se presentó el asunto.
+
+###### ARTÍCULO QUINTO.
+
+Cuando las disposiciones jurídicas, contenidas en cualquier ley, reglamento decreto o convenio, se refieran al Instituto de Desarrollo Urbano del Estado de Durango, se entenderá que se refiere a la Secretaría de Comunicaciones y Obras Públicas.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Comunicaciones y Obras Públicas asumirá la responsabilidad del proceso de liquidación, para tal efecto designará al Liquidador, pudiendo recaer dicha designación en algún funcionario de la propia Secretaría o bien en algún profesionista externo en caso de que la naturaleza de las acciones lo amerite.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Liquidador será el representante del organismo en proceso de liquidación, en sus relaciones internas y externas y ejercerá las atribuciones de apoderado general para pleitos y cobranzas, actos de administración y actos de dominio, con todas las facultades generales y aún las especiales que de acuerdo con la ley requieran poder o cláusula especial.
+
+###### ARTÍCULO OCTAVO.
+
+El proceso de liquidación se efectuara conforme a lo siguiente:
+
+I. La Secretaría de Finanzas y de Administración, conforme a sus atribuciones, vigilará la liquidación.
+
+II. El proceso de liquidación no podrá durar más de 5 meses, salvo que existan razones financieras o legales que impidan su conclusión.
+
+III. Los derechos laborales adquiridos por los trabajadores del organismo en liquidación, serán asumidos y garantizados por la dependencia a la que se transfieren los recursos humanos, respetando las disposiciones legales aplicables.
+
+IV. Los bienes muebles e inmuebles pasarán a formar parte de los activos del Gobierno del Estado y se pondrán a disposición y uso de la Secretaría de Comunicaciones y Obras Públicas. La transferencia se realizará mediante los instrumentos jurídicos aplicables y de conformidad a la normatividad vigente.
+
+V. Los recursos financieros que conserve el Instituto en su haber a la entrada en vigor del presente Decreto, quedarán bajo la custodia del Liquidador con la estricta finalidad de cumplir con las obligaciones adquiridas por el organismo en liquidación y/o transferir dichos recursos a la Secretaría de Finanzas y de Administración. Para estos fines el Liquidador deberá informar de su aplicación en los estados financieros finales.
+
+###### ARTÍCULO NOVENO.
+
+Para el cumplimiento de su responsabilidad, el Liquidador deberá realizar las siguientes actividades:
+
+I. Recibir los estados financieros correspondientes al tercer trimestre del ejercicio fiscal 2013, aprobados por el Consejo Directivo del organismo que se extingue y liquida.
+
+II. En un plazo de 15 días contados a partir de recibir el encargo, deberá elaborar un plan detallado de la liquidación, con objetivos y metas, mismo que deberá someter a la consideración de la Secretaría de Finanzas y a la Secretaría de Comunicaciones y Obras Públicas.
+
+III. Informar oficialmente a la Secretaría de Comunicaciones y Obras Públicas todas las actividades y asuntos de carácter técnico que hayan quedado pendientes de solución al momento de decretarse la extinción y liquidación del organismo, para efecto de que ésta dependencia proceda a su conclusión.
+
+IV. Realizar ante las instancias competentes los trámites administrativos y fiscales que resulten necesarios para concluir la liquidación en el plazo establecido.
+
+V. Identificar los pasivos del organismo que se extingue y proponer a la Secretaría de Finanzas y de Administración, así como a la Secretaría de Comunicaciones y Obras Públicas la forma en que se puedan cubrir.
+
+VI. Participar en el acto de entrega-recepción de los bienes y recursos del organismo;
+
+VII. Administrar los activos remanentes hasta su traspaso a la dependencia que corresponda.
+
+VIII. Atender lo relativo a los juicios laborales, civiles, mercantiles y de cualquier otra índole que se encuentren en curso.
+
+IX. Finiquitar los contratos y convenios de cualquier naturaleza que tengan celebrados el organismo que se extingue con particulares u otros niveles de gobierno, asegurándose del cumplimiento satisfactorio de las obligaciones y contraprestaciones pactadas en los mismos;
+
+X. Efectuar el cobro de los créditos pendientes de liquidar a favor del organismo, sometiendo, en su caso, a la autorización de las Secretarías de Finanzas y de Administración, la cancelación de aquellos créditos que se identifiquen como incobrables o incosteables;
+
+XI. Presentar ante la Secretaría de Hacienda y Crédito Público el aviso de cancelación del Registro Federal de Contribuyentes, conjuntamente con la declaración final de la liquidación de los activos del organismo,
+
+XII. Coordinar y entregar toda la información que le sea requerida por la Secretaría de Comunicaciones y Obras Públicas, así como a la Secretaría de Finanzas, o cualquier otra autoridad vinculada con el proceso de liquidación; y
+
+XIII. Publicar en uno de los periódicos de mayor circulación en la entidad, así como en el Periódico Oficial del Gobierno del Estado, los estados financieros del organismo con corte al 31 de octubre del año 2013.
+
+###### ARTÍCULO DÉCIMO.
+
+El Liquidador tomará posesión de su cargo una vez que suscriba el acta de entrega-recepción que deberá preparar el Director General del organismo que se extingue, misma que contendrá, entre otros documentos, los siguientes:
+
+1. Inventarios de los activos y pasivos del organismo;
+
+2. Asuntos pendientes, y
+
+3. Estados financieros.
+
+La firma del acta deberá realizarse a los 10 días de que haya sido designado el Liquidador.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Liquidador deberá de proponer a la Secretaría de Finanzas y de Administración, el personal de apoyo que sea estrictamente indispensable para llevar a cabo el proceso de liquidación para que en su caso se comisione temporalmente al propio personal que será reasignado a la Secretaría de Comunicaciones y Obras Públicas con motivo de la extinción del organismo.
