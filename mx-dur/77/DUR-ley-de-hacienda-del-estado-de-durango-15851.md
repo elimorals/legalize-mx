@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2012-10-11"
+last_updated: "2013-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -279,11 +279,13 @@ Son sujetos de este impuesto, las personas físicas y morales obligadas a contri
 
 La base gravable del impuesto es el monto total de las contribuciones establecidas en esta Ley excepto el impuesto establecido en este capítulo así como a las aportaciones especiales.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 16.
 
-El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 35%.
+El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 40%.
 
 ###### ARTICULO 17.
 
@@ -1501,7 +1503,7 @@ XXXVII.- La inscripción de las capitulaciones
 
 matrimoniales y sus modificaciones. 1
 
-XXXVlll.- El examen de todo documento, sea público
+XXXVIII.- El examen de todo documento, sea público
 
 o privado, que se presente al registro para su
 
@@ -2735,7 +2737,7 @@ En los siguientes casos, se pagará el importe del numeral 1) y, adicionalmente,
 
 7) De 2000.01 en adelante 0.39
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] , P.O. 4 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE ABRIL DE 2010)</small>
 
 b).- Por predio con topografía irregular:
 
@@ -3652,3 +3654,9 @@ El Gobierno del Estado y los Municipios deberán adecuar, en su caso, sus respec
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del primero de enero del año dos mil catorce.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
