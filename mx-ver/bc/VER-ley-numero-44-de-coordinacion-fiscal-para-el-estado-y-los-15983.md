@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2012-12-17"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -39,7 +37,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 "La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68, fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY NÚMERO 44
 
@@ -65,17 +65,17 @@ V. Regular los procedimientos que permitan cubrir oportunamente las obligaciones
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 I. Ley: La Ley de Coordinación Fiscal para el Estado y los Municipios de Veracruz de Ignacio de la Llave;
 
 II. Municipio o municipios: El o los municipios que se encuentran dentro del territorio de la entidad;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 III. Legislatura: La H. Legislatura del Estado de Veracruz de Ignacio de la Llave, y
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 IV. Secretaría: La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
@@ -83,9 +83,13 @@ IV. Secretaría: La Secretaría de Finanzas y Planeación del Gobierno del Estad
 
 Las participaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno; son inembargables; no pueden estar sujetas a retención y no pueden afectarse a fines específicos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 4.
 
-Se exceptúan de lo señalado en el artículo anterior, las participaciones federales que se otorguen en garantía de pago de obligaciones contraídas por los municipios a favor de la Federación, el Estado, instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+Se exceptúan de lo señalado en el artículo anterior, las participaciones federales que se otorguen en garantía de pago de obligaciones contraídas por los municipios a favor de la Federación, el Estado, las instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana. De igual manera, cuando exista acuerdo o convenio entre el Estado y sus Municipios para hacer frente a las obligaciones fiscales que tengan estos últimos con el primero.
 
 Para otorgar las participaciones federales en garantía, los municipios deberán contar con la previa autorización de la Legislatura; cumplir con lo establecido en la Ley de Deuda Pública Municipal, e inscribir en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público y en el Registro de Deuda Pública Estatal el documento en donde conste el monto comprometido. La Secretaría dentro de los cinco días siguientes aquel en que la Federación haga efectiva dicha percepción al Estado, hará la retención que corresponda, siempre y cuando con anterioridad le haya sido notificada por el interesado.
 
@@ -251,7 +255,9 @@ MUNICIPIO FACTOR DE DISTRIBUCIÓN
 
 8. ALPATLÁHUAC 0.00131527721
 
-9. ALTO LUCERO DE GUTIÉRREZ
+9. ALTO LUCERO
+
+DE GUTIÉRREZ
 
 BARRIOS 0.00369198132
 
@@ -261,7 +267,9 @@ BARRIOS 0.00369198132
 
 12. AMATITLÁN 0.00127152484
 
-13. AMATLÁN DE LOS REYES 0.00320090329
+13. AMATLÁN DE
+
+LOS REYES 0.00320090329
 
 14. ÁNGEL R. CABADA 0.00395323005
 
@@ -289,9 +297,13 @@ BARRIOS 0.00369198132
 
 26. CALCAHUALCO 0.00141787444
 
-27. CAMARÓN DE TEJEDA 0.00113071127
+27. CAMARÓN DE
 
-28. CAMERINO Z. MENDOZA 0.00480314273
+TEJEDA 0.00113071127
+
+28. CAMERINO Z.
+
+MENDOZA 0.00480314273
 
 29. CARLOS A. CARRILLO 0.00108022996
 
@@ -301,7 +313,9 @@ BARRIOS 0.00369198132
 
 32. CATEMACO 0.00437006538
 
-33. CAZONES DE HERRERA 0.00271083965
+33. CAZONES DE
+
+HERRERA 0.00271083965
 
 34. CERRO AZUL 0.00368491815
 
@@ -327,7 +341,9 @@ BARRIOS 0.00369198132
 
 45. COSAMALOAPAN 0.00812963294
 
-46. COSAUTLÁN DE CARVAJAL 0.00252836870
+46. COSAUTLÁN DE
+
+CARVAJAL 0.00252836870
 
 47. COSCOMATEPEC 0.00227579303
 
@@ -355,7 +371,9 @@ BARRIOS 0.00369198132
 
 59. CHINAMECA 0.00214346854
 
-60. CHINAMPA DE GOROSTIZA 0.00167097729
+60. CHINAMPA DE
+
+GOROSTIZA 0.00167097729
 
 61. CHOCAMÁN 0.00166107277
 
@@ -381,11 +399,17 @@ BARRIOS 0.00369198132
 
 72. HUAYACOCOTLA 0.00198519134
 
-73. HUEYAPAN DE OCAMPO 0.00383787129
+73. HUEYAPAN DE
 
-74. HUILOAPAN DE CUAUHTÉMOC 0.00140914775
+OCAMPO 0.00383787129
 
-75. IGNACIO DE LA LLAVE 0.00264207947
+74. HUILOAPAN DE
+
+CUAUHTÉMOC 0.00140914775
+
+75. IGNACIO DE LA
+
+LLAVE 0.00264207947
 
 76. ILAMATLÁN 0.00127118522
 
@@ -393,13 +417,21 @@ BARRIOS 0.00369198132
 
 78. IXCATEPEC 0.00160732806
 
-79. IXHUACÁN DE LOS REYES 0.00179309046
+79. IXHUACÁN DE
 
-80. IXHUATLÁN DE MADERO 0.00257570767
+LOS REYES 0.00179309046
 
-81. IXHUATLÁN DEL CAFÉ 0.00258313730
+80. IXHUATLÁN DE
 
-82. IXHUATLÁN DEL SURESTE 0.00233021071
+MADERO 0.00257570767
+
+81. IXHUATLÁN DEL
+
+CAFÉ 0.00258313730
+
+82. IXHUATLÁN DEL
+
+SURESTE 0.00233021071
 
 83. IXHUATLANCILLO 0.00143909009
 
@@ -421,7 +453,9 @@ BARRIOS 0.00369198132
 
 92. JOSÉ AZUETA 0.00351065013
 
-93. JUAN RODRÍGUEZ CLARA 0.00387307071
+93. JUAN RODRÍGUEZ
+
+CLARA 0.00387307071
 
 94. JUCHIQUE DE FERRER 0.00315625844
 
@@ -435,7 +469,9 @@ BARRIOS 0.00369198132
 
 99. LAS MINAS 0.00126676044
 
-100. LAS VIGAS DE RAMÍREZ 0.00201133164
+100. LAS VIGAS DE
+
+RAMÍREZ 0.00201133164
 
 101. LERDO DE TEJADA 0.00388242035
 
@@ -445,11 +481,15 @@ BARRIOS 0.00369198132
 
 104. MALTRATA 0.00146921053
 
-105. MANLIO FABIO ALTAMIRANO 0.00219767731
+105. MANLIO FABIO
+
+ALTAMIRANO 0.00219767731
 
 106. MARIANO ESCOBEDO 0.00214112211
 
-107. MARTÍNEZ DE LA TORRE 0.01185674852
+107. MARTÍNEZ DE
+
+LA TORRE 0.01185674852
 
 108. MECATLÁN 0.00169099117
 
@@ -463,11 +503,15 @@ BARRIOS 0.00369198132
 
 113. MISANTLA 0.00539639499
 
-114. MIXTLA DE ALTAMIRANO 0.00133430472
+114. MIXTLA DE
+
+ALTAMIRANO 0.00133430472
 
 115. MOLOACÁN 0.00391767995
 
-116. NANCHITAL DE LÁZARO
+116. NANCHITAL DE
+
+LÁZARO
 
 CÁRDENAS DEL RÍO 0.01031268460
 
@@ -509,7 +553,9 @@ CÁRDENAS DEL RÍO 0.01031268460
 
 135. PLAYA VICENTE 0.00474026189
 
-136. POZA RICA DE HIDALGO 0.02598330256
+136. POZA RICA DE
+
+HIDALGO 0.02598330256
 
 137. PUEBLO VIEJO 0.00380541096
 
@@ -523,15 +569,23 @@ CÁRDENAS DEL RÍO 0.01031268460
 
 142. SALTABARRANCA 0.00146099076
 
-143. SAN ANDRÉS TENEJAPAN 0.00121111480
+143. SAN ANDRÉS
 
-144. SAN ANDRÉS TUXTLA 0.00773342114
+TENEJAPAN 0.00121111480
 
-145. SAN JUAN EVANGELISTA 0.00330956704
+144. SAN ANDRÉS
+
+TUXTLA 0.00773342114
+
+145. SAN JUAN
+
+EVANGELISTA 0.00330956704
 
 146. SAN RAFAEL 0.00433208682
 
-147. SANTIAGO SOCHIAPAN 0.00322095348
+147. SANTIAGO
+
+SOCHIAPAN 0.00322095348
 
 148. SANTIAGO TUXTLA 0.00425594720
 
@@ -543,7 +597,9 @@ CÁRDENAS DEL RÍO 0.01031268460
 
 152. SOLEDAD ATZOMPA 0.00175396723
 
-153. SOLEDAD DE DOBLADO 0.00290426888
+153. SOLEDAD DE
+
+DOBLADO 0.00290426888
 
 154. SOTEAPAN 0.00197256661
 
@@ -559,7 +615,9 @@ CÁRDENAS DEL RÍO 0.01031268460
 
 160. TANTOYUCA 0.00523841862
 
-161. TATAHUICAPAN DE JUÁREZ 0.00127129223
+161. TATAHUICAPAN
+
+DE JUÁREZ 0.00127129223
 
 162. TATATILA 0.00126905457
 
@@ -603,7 +661,9 @@ CÁRDENAS DEL RÍO 0.01031268460
 
 182. TLACOTALPAN 0.00277181798
 
-183. TLACOTEPEC DE MEJÍA 0.00138788325
+183. TLACOTEPEC
+
+DE MEJÍA 0.00138788325
 
 184. TLACHICHILCO 0.00148747866
 
@@ -695,9 +755,11 @@ De los ingresos que el Estado otorgue a los municipios, derivados de convenios d
 
 El Fondo de Aportaciones para la Infraestructura Social Municipal y el Fondo de Aportaciones para el Fortalecimiento de los Municipios que se integran con los recursos que la Federación transfiera a los municipios, estarán a lo dispuesto en la Ley de Coordinación Fiscal, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece dicha Ley.
 
-> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno, son inembargables y no pueden estar sujetas a retención, salvo el Fondo de Aportaciones para la Infraestructura Social, cuyos derechos, ingresos, o ambos, podrán afectarse por los Municipios como fuente de pago, garantía, o ambas, de sus obligaciones, en términos de la Ley de Coordinación Fiscal Federal, esta Ley y las demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno, son inembargables y no pueden estar sujetas a retención, y sólo podrán afectarse como fuente de pago, garantía, o ambas, de sus obligaciones, en términos de la Ley de Coordinación Fiscal Federal, esta Ley y las demás disposiciones aplicables.
 
 Los fondos de aportaciones se integran, distribuyen, administran y ejercen de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, en la legislación estatal correspondiente y conforme a las normas que para tal efecto emita la Legislatura.
 
@@ -708,6 +770,44 @@ Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinaci�
 > <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
 
 Los fideicomisos que se constituyan como mecanismos de captación, distribución, o ambos, no serán considerados, en ningún caso, parte de la administración pública estatal, por lo que no les serán aplicables las disposiciones de las entidades paraestatales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 19 Bis.
+
+La Comisión Nacional del Agua podrá solicitar al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento, la retención y pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, que correspondan al municipio de que se trate, en términos de lo previsto en el artículo 51 de la Ley de Coordinación Fiscal Federal.
+
+Para efectos del párrafo anterior, la Comisión Nacional del Agua, en términos de lo previsto en el segundo párrafo del artículo 51 de la Ley de Coordinación Fiscal Federal, sólo podrá solicitar la retención y pago señalados cuando los adeudos tengan una antigüedad mayor de 90 días naturales.
+
+Para acreditar el incumplimiento, la Comisión Nacional del Agua deberá enviar a la Secretaría, por escrito la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
+
+La Secretaría en su carácter de retenedor, estará facultada para efectuar las retenciones y pagos referidos en un plazo máximo de 5 días, a favor de la Comisión Nacional del Agua.
+
+En caso de que los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal no sean suficientes para cubrir las obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Secretaría efectuará los depósitos de manera proporcional al monto del derecho y/o aprovechamiento. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras de dicho Fondo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 19 Ter.
+
+Para efectos de lo dispuesto en el Artículo 51 de la Ley de Coordinación Fiscal Federal, se entenderá por:
+
+I. Obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales: los pagos que deban realizar los municipios, incluyendo sus organismos operadores de agua, a la Comisión Nacional del Agua por el derecho por uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación.
+
+II. Incumplimiento: la falta de pago total o parcial de las obligaciones a que se refiere la fracción anterior, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 19 Quater.
+
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, por adeudos que correspondan al municipio y a sus organismos operadores de agua, a que se refieren los artículos señalados anteriormente, sólo podrá solicitarse para el cobro de adeudos generados a partir del 1 de enero de 2014.
+
+Lo anterior, en el entendido de que las retenciones y pagos relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, con cargo a los recursos del citado Fondo deberán efectuarse de manera gradual, considerando el 100% de la facturación o causación de los conceptos citados, con base en, al menos, los porcentajes que en su momento se establezcan en la Ley de Coordinación Fiscal Federal o en el instrumento jurídico que corresponda.
 
 ###### Artículo 20.
 
@@ -813,7 +913,9 @@ DISTRIBUCIÓN
 
 13. AMATITLAN 0.00128396818
 
-14. AMATLAN DE LOS REYES 0.00313791285
+14. AMATLAN DE
+
+LOS REYES 0.00313791285
 
 15. ANGEL R. CABADA 0.00388846149
 
@@ -839,15 +941,21 @@ DISTRIBUCIÓN
 
 26. BENITO JUAREZ 0.00175159826
 
-27. CAMARON DE TEJEDA 0.00115800142
+27. CAMARON DE
+
+TEJEDA 0.00115800142
 
 28. BOCA DEL RIO 0.02581551143
 
 29. CALCAHUALCO 0.00135549814
 
-30. CAMERINO Z. MENDOZA 0.00499107347
+30. CAMERINO Z.
 
-31. CARLOS A. CARRILLO 0.00109901190
+MENDOZA 0.00499107347
+
+31. CARLOS A.
+
+CARRILLO 0.00109901190
 
 32. CARRILLO PUERTO 0.00148278932
 
@@ -855,7 +963,9 @@ DISTRIBUCIÓN
 
 34. CATEMACO 0.00424300759
 
-35. CAZONES DE HERRERA 0.00257961075
+35. CAZONES DE
+
+HERRERA 0.00257961075
 
 36. CERRO AZUL 0.00383616544
 
@@ -931,7 +1041,9 @@ GOROSTIZA 0.00159202964
 
 70. FORTIN 0.00471335783
 
-71. GUTIERREZ ZAMORA 0.00515840541
+71. GUTIERREZ
+
+ZAMORA 0.00515840541
 
 72. HIDALGOTITLAN 0.00236234435
 
@@ -941,11 +1053,15 @@ GOROSTIZA 0.00159202964
 
 75. HUAYACOCOTLA 0.00182522982
 
-76. HUEYAPAN DE OCAMPO 0.00353211085
+76. HUEYAPAN DE
+
+OCAMPO 0.00353211085
 
 77. HUILOAPAN 0.00124630192
 
-78. IGNACIO DE LA LLAVE 0.00265201006
+78. IGNACIO DE LA
+
+LLAVE 0.00265201006
 
 79. ILAMATLAN 0.00113363933
 
@@ -953,13 +1069,19 @@ GOROSTIZA 0.00159202964
 
 81, IXCATEPEC 0.00155087868
 
-82. IXHUACAN DE LOS REYES 0.00177528570
+82. IXHUACAN DE
 
-83. IXHUATLAN DE MADERO 0.00208161445
+LOS REYES 0.00177528570
+
+83. IXHUATLAN DE
+
+MADERO 0.00208161445
 
 84. IXHUATLAN DEL CAFE 0.00253642040
 
-85. IXHUATLAN DEL SURESTE 0.00234520202
+85. IXHUATLAN DEL
+
+SURESTE 0.00234520202
 
 86. IXHUATLANCILLO 0.00140528077
 
@@ -971,7 +1093,9 @@ GOROSTIZA 0.00159202964
 
 90. JALCOMULCO 0.00136370258
 
-91. JALTIPAN DE MORELOS 0.00470470776
+91. JALTIPAN DE
+
+MORELOS 0.00470470776
 
 92. JAMAPA 0.00142234044
 
@@ -981,9 +1105,13 @@ GOROSTIZA 0.00159202964
 
 95. JOSE AZUETA 0.00347352209
 
-96. JUAN RODRIGUEZ CLARA 0.00385101458
+96. JUAN RODRIGUEZ
 
-97. JUCHIQUE DE FERRER 0.00315893082
+CLARA 0.00385101458
+
+97. JUCHIQUE DE
+
+FERRER 0.00315893082
 
 98. LANDERO Y COSS 0.00126269938
 
@@ -993,17 +1121,25 @@ GOROSTIZA 0.00159202964
 
 101. MALTRATA 0.00142653859
 
-102. MANLIO F. ALTAMIRANO 0.00223350984
+102. MANLIO F.
 
-103. MARIANO ESCOBEDO 0.00209161551
+ALTAMIRANO 0.00223350984
 
-104. MARTINEZ DE LA TORRE 0.01173519303
+103. MARIANO
+
+ESCOBEDO 0.00209161551
+
+104. MARTINEZ DE
+
+LA TORRE 0.01173519303
 
 105. MECATLAN 0.00164314282
 
 106. MECAYAPAN 0.00129748431
 
-107. MEDELLIN DE BRAVO 0.00341483725
+107. MEDELLIN
+
+DE BRAVO 0.00341483725
 
 108. MIAHUATLAN 0.00154780140
 
@@ -1013,7 +1149,9 @@ GOROSTIZA 0.00159202964
 
 111. MISANTLA 0.00522138915
 
-112. MIXTLA DE ALTAMIRANO 0.00122877508
+112. MIXTLA DE
+
+ALTAMIRANO 0.00122877508
 
 113. MOLOACAN 0.00402884046
 
@@ -1023,7 +1161,9 @@ GOROSTIZA 0.00159202964
 
 116. NARANJAL 0.00111079209
 
-117. NARANJOS AMATLAN 0.00363653972
+117. NARANJOS
+
+AMATLAN 0.00363653972
 
 118. NAUTLA 0.00233289997
 
@@ -1059,7 +1199,9 @@ GOROSTIZA 0.00159202964
 
 134. PLAYA VICENTE 0.00451235289
 
-135. POZA RICA DE HIDALGO 0.02702781510
+135. POZA RICA DE
+
+HIDALGO 0.02702781510
 
 136. PUEBLO VIEJO 0.00375506531
 
@@ -1075,23 +1217,35 @@ GOROSTIZA 0.00159202964
 
 142. SALTABARRANCA 0.00153641542
 
-143. SAN ANDRES TENEJAPA 0.00129298674
+143. SAN ANDRES
 
-144. SAN ANDRES TUXTLA 0.00668390703
+TENEJAPA 0.00129298674
 
-145. SAN JUAN EVANGELISTA 0.00318808583
+144. SAN ANDRES
+
+TUXTLA 0.00668390703
+
+145. SAN JUAN
+
+EVANGELISTA 0.00318808583
 
 146. SANTIAGO TUXTLA 0.00385170249
 
-147. SAYULA DE ALEMAN 0.00355948899
+147. SAYULA DE
+
+ALEMAN 0.00355948899
 
 148. SOCONUSCO 0.00176284501
 
 149. SOCHIAPA 0.00102493215
 
-150. SOLEDAD ATZOMPA 0.00152334174
+150. SOLEDAD
 
-151. SOLEDAD DE DOBLADO 0.00279282595
+ATZOMPA 0.00152334174
+
+151. SOLEDAD DE
+
+DOBLADO 0.00279282595
 
 152. SOTEAPAN 0.00171884593
 
@@ -1149,7 +1303,9 @@ GOROSTIZA 0.00159202964
 
 179. TLACOTALPAN 0.00278393226
 
-180. TLACOTEPEC DE MEJIA 0.00145602557
+180. TLACOTEPEC
+
+DE MEJIA 0.00145602557
 
 181. TLACHICHILCO 0.00141868746
 
@@ -1249,7 +1405,7 @@ Secretario de Finanzas y Planeación
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 3 DE ENERO DE 2002
 
@@ -1309,7 +1465,7 @@ Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
 
 G.O. 15 DE AGOSTO DE 2007.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
 
 G.O. 31 DE DICIEMBRE DE 2007.
 
@@ -1351,9 +1507,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+G.O. 16 DE DICIEMBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor el primero de enero de 2014, previa publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios, prevista en la presente reforma, se calculará a partir del ejercicio fiscal 2014, aun cuando el hecho impositivo se hubiere producido con anterioridad a dicho ejercicio.
+
+Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
+
+Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.
+
 G.O. 17 DE DICIEMBRE DE 2012.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 590 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ ”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 590 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
