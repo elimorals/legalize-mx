@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2013-12-02"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3991,9 +3991,7 @@ X.- Respecto de vehículos de propulsión mecánica;
 
 X Bis.- Respecto de vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales, utilizados para intercambiar o canjear bienes y servicios;
 
-> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2010)</small>
-
-XI. Respecto de bienes muebles destinados a los planteles educativos e instituciones de educación básica, media superior, superior, para su utilización en el proceso de enseñanza-aprendizaje, tales como infraestructura hidráulica y eléctrica, equipos de cómputo, equipos de aire acondicionado, sistemas de vigilancia, equipos de sonido, aparatos reproductores de imágenes, pantallas digitales o de televisión; asimismo, los que por sus características físicas o sus componentes, formen parte de la infraestructura física de dichos lugares y aquellos cuyo valor individual o en conjunto, al momento de la comisión del delito, exceda los cien días de salario mínimo diario vigente en la capital del Estado; y
+XI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2013)
 
 > <small>(ADICIONADA, B.O. 17 DE JUNIO DE 2010)</small>
 
@@ -4044,6 +4042,10 @@ Por desmantelamiento se entenderá la acción de desarmar y desbaratar de manera
 ###### ARTICULO 308-B.
 
 Se sancionará con prisión de un mes a nueve años y de uno hasta doscientos cincuenta días multa, al que sin tomar las medidas indispensables para cerciorarse de su procedencia legítima, compre, venda o comercialice materiales reciclables robados.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 308 BIS-C.- Se sancionará con prisión de cinco a quince años, a quien se apodere de bienes muebles destinados a los planteles educativos e instituciones de educación básica, media superior, superior, tales como infraestructura hidráulica y eléctrica, equipos de cómputo, equipos de aire acondicionado, sistemas de vigilancia, equipos de sonido, aparatos reproductores de imágenes, pantallas digitales o de televisión, sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley; asimismo, los que por sus características físicas o sus componentes, formen parte de la infraestructura física de dichos lugares y aquellos cuyo valor individual o, en conjunto, al momento de la comisión del delito, exceda los cien días de salario mínimo diario vigente en la capital del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2004)</small>
 
@@ -4678,3 +4680,9 @@ B.O. 2 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 16 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
