@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2007-10-29"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -202,6 +202,10 @@ El Estado y los municipios coadyuvarán con la Federación en la implementación
 El Estado y los municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 Todas las medidas que lleven a cabo el Estado y los municipios deberán ser realizadas sin discriminación alguna. Por ello, considerarán el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+Los gobiernos estatal y municipales, coordinarán acciones con el objeto de implementar y operar, un sistema exclusivo de información en el que se registren las denuncias e investigaciones de violencia familiar que brinde a las autoridades preventivas e investigadoras correspondientes, las herramientas necesarias para detectar, en forma inmediata, la reincidencia de todo agresor, así como sus antecedentes, en caso de tenerlos, y la peligrosidad de sus actos, a efecto de determinar, en forma eficaz, las órdenes de protección correspondientes para salvaguardar la integridad de la víctima.
 
 ###### ARTÍCULO 20.
 
@@ -720,3 +724,11 @@ El Ejecutivo del Estado y los Municipios, en el ámbito de sus respectivas compe
 COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO. SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, HERMOSILLO, SONORA, 11 DE OCTUBRE DE 2007, C. FRANCISCO GARCÍA GAMEZ, DIPUTADO PRESIDENTE, RUBRICA.- C. JUAN MANUEL SAUCEDA MORALES, DIPUTADO SECRETARIO, RUBRICA.- C. JOSÉ SALOME TELLO MAGOS, DIPUTADO SECRETARIO, RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA. A LOS DOCE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL SIETE, SUFRAGIO EFECTIVO NO REELECCIÓN, EL GOBERNADOR DEL ESTADO, EDUARDO TOURS CASTELO, RUBRICA.- EL SECRETARIO DE GOBIERNO, ROBERTO RUBIAL ASTIAZARAN, RUBRICA.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 16 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
