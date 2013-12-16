@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2012-10-11"
+last_updated: "2013-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -975,11 +975,37 @@ Estos centros comunitarios podrán ser promovidos por entidades de la administra
 
 ARTÍCULO 79 BIS.- Del padrón estatal de personas con discapacidad a que se refiere la fracción VII del artículo 24 de esta Ley, deberá crearse una base de datos que contenga la información suficiente que permita identificar plenamente a aquellas personas con discapacidad que han sido beneficiadas por instituciones de beneficencia pública o privada, con la finalidad de evitar duplicidad en el servicio social prestado y así garantizar mayor equidad en el uso de los recursos disponibles para tal fin.
 
-### CAPÍTULO I. DE LAS BARRERAS ARQUITECTONICAS Y DE SUS ADECUACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO XIV. ATENCION PREFERENTE A LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 79 BIS 1.- Las personas con discapacidad gozarán del derecho de atención preferente para realizar trámites ante instituciones de la administración pública estatal y municipal.
+
+Para los efectos de esta Ley, la identificación de personas con discapacidad, cuando no sea notoria, se hará con credenciales que expidan los Consejos Municipales o certificados de cualquier institución de salud.
+
+La expedición de la credencial de atención preferencial para personas con discapacidad, deberá ser gratuita.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 79 BIS 2.- La atención preferente consistirá en reducir los tiempos de atención y despacho a las personas con discapacidad que acudan a las instituciones públicas de la administración estatal o municipal, a realizar los diversos trámites, a título personal.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 79 BIS 3.- Las instituciones públicas en las cuales se realicen trámites procurarán contar con una ventanilla especial para atender a las personas con discapacidad.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 79 BIS 4.- Para el caso de los servidores públicos que incumplan con lo establecido en el presente capítulo, se estará a lo dispuesto por el segundo párrafo del artículo 29 Bis de esta ley.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 79 BIS 5.- Los establecimientos privados que cuenten con mecanismos o servicios tendientes a dar mayor celeridad o comodidad en la atención a usuarios con ciertas circunstancias como tener la calidad de preferentes, clientes distinguidos o cualesquiera otras, deberán hacer extensivos, a personas identificadas como discapacitadas, estas prerrogativas, siempre y cuando éstas tengan por objeto el reducir el tiempo de espera o esfuerzo por parte del cliente.
 
 ## TÍTULO CUARTO. DE LAS CONDICIONES URBANISTICAS
 
-### CAPITULO II. DE LOS ESTACIONAMIENTOS
+### CAPÍTULO I. DE LAS BARRERAS ARQUITECTONICAS Y DE SUS ADECUACIONES
 
 ###### ARTÍCULO 80.
 
@@ -1027,17 +1053,13 @@ Los restaurantes y cafeterías deberán brindar la comodidad requerida a los usu
 
 Los auditorios, cines, teatros y salas de conciertos, de conferencias y, en general, cualquier recinto en el que se presenten espectáculos públicos deberán contar con espacios reservados y suficientes para personas con discapacidad imposibilitadas para hacer uso de las butacas o asientos con que cuente el recinto.
 
-> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-ARTÍCULO 87 BIS.- Los establecimientos, públicos o privados, que cuenten con mecanismos o servicios tendientes a dar mayor celeridad o comodidad en la atención a usuarios con ciertas circunstancias como tener la calidad de preferentes, clientes distinguidos o cualesquiera otras, deberán hacer extensivos a personas identificadas como discapacitadas estas prerrogativas, siempre y cuando éstas tengan por objeto el reducir el tiempo de espera o esfuerzo por parte del cliente.
-
-Para los efectos de la presente Ley, la identificación de personas con discapacidad, cuando no sea notoria, se hará con credenciales que expidan los Consejos Municipales o certificados de cualquier institución de salud.
+ARTÍCULO 87 BIS.- (DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 ###### ARTÍCULO 88.
 
 El Estado y los municipios, en cumplimiento de sus planes, programas y acciones institucionales deberán promover la instalación y equipamiento de bibliotecas públicas especiales, con material suficiente y un área determinada específicamente para el uso de invidentes, débiles visuales o sordos.
 
-### CAPÍTULO III. DE LOS BAÑOS Y SANITARIOS
+### CAPITULO II. DE LOS ESTACIONAMIENTOS
 
 ###### ARTÍCULO 89.
 
@@ -1083,7 +1105,7 @@ Para los efectos determinados en los artículos 90 y 92 se tomará como base la 
 
 (DEROGADO, B.O. 17 DE OCTUBRE DE 2005)
 
-### CAPÍTULO IV. DE LOS ELEVADORES Y RAMPAS
+### CAPÍTULO III. DE LOS BAÑOS Y SANITARIOS
 
 ###### ARTÍCULO 96.
 
@@ -1113,7 +1135,7 @@ XI.- Universidades, escuelas, institutos y centros de investigación; y,
 
 XII.- Centros de readaptación social.
 
-### CAPÍTULO V. DE LAS BARRERAS ARQUITECTÓNICAS EN LA VÍA PÚBLICA
+### CAPÍTULO IV. DE LOS ELEVADORES Y RAMPAS
 
 ###### ARTÍCULO 97.
 
@@ -1125,7 +1147,7 @@ En los lugares que por naturaleza de su construcción sea imposible realizar las
 
 En las intersecciones o cruces de aceras o calles que se encuentren construidas a diferentes niveles, las superficies de ambas deberán llevarse al mismo nivel mediante el uso de rampas, con la finalidad de hacer factible el tránsito a personas con discapacidad.
 
-### CAPÍTULO VI. DEL TRÁNSITO Y TRANSPORTE
+### CAPÍTULO V. DE LAS BARRERAS ARQUITECTÓNICAS EN LA VÍA PÚBLICA
 
 ###### ARTÍCULO 99.
 
@@ -1151,7 +1173,7 @@ Los tensores metálicos que se instalen en la vía pública como apoyo de los po
 
 Las nuevas construcciones de edificios públicos, especialmente oficinas y escuelas, deberán construirse libres de barreras, debiendo considerar las dimensiones especiales para el desplazamiento de personas en silla con ruedas o muletas.
 
-### CAPÍTULO VII. DE EDUCACIÓN VIAL, CORTESIA URBANA Y RESPETO A PERSONAS CON DISCAPACIDAD
+### CAPÍTULO VI. DEL TRÁNSITO Y TRANSPORTE
 
 ###### ARTÍCULO 105.
 
@@ -1169,7 +1191,7 @@ En caso de que el espacio señalado en el artículo anterior fuere ocupado por a
 
 Cuando el operador no cumpla con lo establecido en el artículo anterior, se hará acreedor a una sanción de las establecidas en la presente Ley.
 
-### CAPÍTULO UNICO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO VII. DE EDUCACIÓN VIAL, CORTESIA URBANA Y RESPETO A PERSONAS CON DISCAPACIDAD
 
 ###### ARTÍCULO 109.
 
@@ -1180,6 +1202,8 @@ El Gobierno del Estado y los Ayuntamientos, por conducto de las autoridades de T
 Para conformar la cultura de la discapacidad, los medios de comunicación locales podrán otorgar espacios para difundir programas y acciones que eleven la autoestima y valoren los potenciales del desarrollo integral de este sector de la población.
 
 ## TÍTULO QUINTO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE INCONFORMIDAD
+
+### CAPÍTULO UNICO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 111.
 
@@ -1310,3 +1334,9 @@ B.O. 11 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
