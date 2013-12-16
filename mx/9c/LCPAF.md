@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2013-05-21"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -516,6 +516,38 @@ Las empresas arrendadoras de automóviles para uso particular, que circulen en c
 
 Tratándose de arrendamiento puro y financiero de vehículos destinados al servicio federal de autotransporte, se estará a las disposiciones legales de la materia.
 
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 45 BIS.- Toda Autoridad Federal cuando determine la remisión de vehículos para el servicio de depósito de guarda y custodia a locales permisionados por la Secretaría, deberán notificarlo al interesado o a su representante legal dentro de los 15 días naturales siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta correspondiente, para que ejerza su derecho de audiencia.
+
+En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene, disponga o grave el vehículo, si lo hiciere será nula de pleno derecho.
+
+En la notificación deberá apercibirse al interesado o a su representante legal que, de no manifestar lo que a su derecho convenga en los plazos a que se refiere el artículo 55 Bis 1 de esta Ley, los bienes causarán abandono en favor del Gobierno Federal.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 45 BIS 1.- Las notificaciones a que se refiere esta Ley se practicarán como sigue:
+
+I. Personalmente, con el interesado o su representante legal, de conformidad con las reglas siguientes:
+
+a) La notificación se practicará en el domicilio del interesado. En caso de que el interesado se encuentre privado de su libertad, la notificación personal se hará en el lugar donde se encuentre detenido;
+
+b) El notificador deberá cerciorarse del domicilio, entregar copia de lo que se notifique y recabar nombre y firma de la persona con quien se entienda la diligencia; asentando los datos del documento oficial con el que se identifique;
+
+c) De no encontrarse la persona por notificar en la primera búsqueda, se le dejará citatorio en el domicilio designado para que espere a una hora fija del día hábil siguiente, y si no espera, o se niega a recibir la notificación, se fijará instructivo en un lugar visible del domicilio y la notificación se practicará mediante edictos en términos de la fracción II de este artículo, y
+
+d) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
+
+II. Por edictos, cuando se desconozca la identidad o domicilio del interesado, así como en los casos a que se refiere el inciso c) de la fracción anterior, de conformidad con las reglas siguientes:
+
+a) Los edictos se publicarán en el Diario Oficial de la Federación, en un diario de mayor circulación a nivel nacional y uno de mayor circulación en el lugar donde la resolución se haya expedido, por dos veces con intervalo de tres días, y
+
+b) Los edictos deberán contener un resumen de la resolución por notificar.
+
+Las notificaciones personales surtirán efectos el día en que hubieren sido practicadas y las efectuadas por edictos el día de la última publicación.
+
+Los plazos establecidos en esta Ley empezarán a correr el día siguiente a aquél en que haya surtido efectos la notificación respectiva.
+
 ### CAPITULO II. DEL AUTOTRANSPORTE DE PASAJEROS
 
 ###### ARTICULO 46.
@@ -593,6 +625,22 @@ Para su instalación y conexión a la vía férrea y a la carretera federal requ
 ###### ARTICULO 55.
 
 Los servicios de arrastre, arrastre y salvamento y depósito de vehículos se sujetarán a las condiciones de operación y modalidades establecidas en los reglamentos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 55 BIS.- Los vehículos respecto de los cuales el interesado o su representante legal no manifiesten lo que a su derecho convenga, causarán abandono a favor del Gobierno Federal transcurridos 90 días naturales, contados a partir de la notificación, que en su caso haya llevado a cabo la Autoridad Federal, al momento de retirarlos de la circulación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 55 BIS 1.- La Autoridad Federal, notificará al interesado o a su representante legal los plazos previstos en el artículo anterior, para que en el plazo de 90 días naturales a partir de la notificación manifieste lo que a su derecho convenga, bajo el apercibimiento de que de no hacerlo, los bienes causarán abandono a favor del Gobierno Federal, en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 55 BIS 2.- El permisionario deberá notificar a la Dirección General de Autotransporte Federal el listado de unidades que cumplan con los requisitos para considerarse en el supuesto de abandono, con excepción de los que estén sujetos a procedimientos administrativos, jurisdiccionales o cualquier acción de reclamación, bajo protesta de decir verdad y que estén o hayan estado a disposición de autoridades federales, a efecto de que se realice la supervisión de la solicitud y con los datos proporcionados se haga la publicación correspondiente, de acuerdo a lo establecido en el artículo 45 Bis 1 de esta Ley.
+
+Una vez transcurrido el plazo de 90 días naturales a partir de la publicación, se considerarán abandonados por disposición legal en favor de Gobierno Federal y el permisionario tendrá 30 días naturales para poner a disposición los vehículos al Servicio de Administración y Enajenación de Bienes, de conformidad con las disposiciones aplicables.
+
+El otorgamiento de datos falsos por parte del permisionario lo hará responsable de las acciones penales, civiles o administrativas que pudiesen surgir y será causa de revocación del permiso.
 
 ### CAPITULO V. UNIDADES DE VERIFICACION Y CENTROS DE CAPACITACION
 
@@ -993,3 +1041,19 @@ Primero. El presente Decreto entrará en vigor, a los ciento ochenta días sigui
 Segundo. El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
 
 Tercero. El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
+
+D.O.F. 16 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los permisionarios deberán informar a la Secretaría de Comunicaciones y Transportes, de conformidad al Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal el listado de unidades que reciban, así como las que sean susceptibles de considerarse en abandono en favor del gobierno federal.
+
+TERCERO. La Secretaría de Comunicaciones y Transportes deberá automatizar los sistemas de control e información de los permisionarios del autotransporte federal en un plazo máximo de 18 meses, de acuerdo a la disponibilidad presupuestal.
+
+CUARTO. La Secretaría de Comunicaciones y Transportes emitirá los lineamientos que regularán lo establecido en el artículo 55 Bis 2, dentro de los 30 días naturales siguientes, en tanto se expide el Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal, el cual buscará salvaguardar el interés de los usuarios y evitar abusos de los prestadores de servicios, en un plazo máximo de 18 meses.
+
+QUINTO. La Secretaría de Comunicaciones y Transportes gestionará ante la Secretaría de Hacienda y Crédito Público, con cargo al Presupuesto de Egresos de la Federación, los recursos necesarios para el adecuado desarrollo del Programa de Reordenamiento General del Autotransporte Federal.
+
+SEXTO. Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de cinco años en depósito de guarda y custodia en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, se destinarán de conformidad con el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, incluyendo los gastos realizados por la Dirección General de Autotransporte Federal en el marco del presente Decreto y los lineamientos que al afecto se emitan. En este supuesto, a los permisionarios se les cubrirán los adeudos generados con el treinta por ciento de los remanentes de los ingresos y el resto se destinará a la modernización del autotransporte federal de carga.
+
+En el caso de los vehículos que causen abandono con más de cinco años en depósito de guarda y custodia, en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, serán adjudicados en forma directa al permisionario federal correspondiente, quien cubrirá los gastos administrativos en que incurra la Dirección General de Autotransporte Federal y el Servicio de Administración y Enajenación de Bienes. Asimismo, el permisionario federal aportará a la Dirección General de Autotransporte Federal, el uno por ciento de los ingresos que obtenga por este concepto, descontados los gastos administrativos mencionados en el presente párrafo, para el desarrollo de un sistema automatizado de control e información de los permisionarios del autotransporte federal.
