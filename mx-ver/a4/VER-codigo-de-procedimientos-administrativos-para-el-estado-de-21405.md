@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2013-08-13"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -1511,9 +1511,11 @@ En materia fiscal, los contribuyentes visitados dentro de este plazo probatorio 
 
 XIII. Se tendrán por consentidos los hechos consignados en las actas a que se refiere la fracción anterior, si antes del cierre del acta final el visitado no presenta los documentos, libros o registros de referencia o no señala el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad, o no prueba que éstos se encuentran en poder de la autoridad; y
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. Las autoridades deberán concluir la visita domiciliaria dentro de un plazo máximo de seis meses contados a partir de que se le notifique al visitado la orden de visita respectiva.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XIV. Las autoridades deberán concluir la visita domiciliaria dentro de un plazo máximo de doce meses contados a partir de que se le notifique al visitado la orden de visita respectiva.
 
 ###### Artículo 172.
 
@@ -1598,6 +1600,26 @@ II. Tratándose de aquellos casos en que se conozca de manera fehaciente la cant
 III. Embargar precautoriamente los bienes o la negociación u ordenar la práctica de visita domiciliaria o revisión de gabinete, cuando el contribuyente omita presentar, en forma consecutiva, las últimas tres declaraciones de las contribuciones a que se encuentra obligado o cuando no atienda a dos requerimientos de la autoridad, en los términos que dispone la fracción IV de este artículo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si durante dicho plazo las autoridades fiscales no inician el ejercicio de sus facultades de comprobación; o
 
 IV. Requerir la presentación del documento omitido en un plazo de quince días para el primer requerimiento, y de seis días para el subsecuente. Si no se atiende el requerimiento se impondrá la multa correspondiente, en términos de la ley de la materia. La autoridad en ningún caso formulará más de dos requerimientos por una misma omisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 176 Bis.
+
+Las declaraciones que presenten los contribuyentes, serán definitivas y sólo se podrán modificar por el propio contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
+
+No obstante lo dispuesto en el párrafo anterior, el contribuyente podrá modificar en más de tres ocasiones las declaraciones correspondientes, aun cuando se hayan iniciado las facultades de comprobación, en los siguientes casos:
+
+I. Cuando sólo incrementen sus ingresos o el valor de sus actos o actividades;
+
+II. Cuando sólo disminuyan sus deducciones o pérdidas o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribuciones a cuenta;
+
+III. Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo; y
+
+IV. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de Ley.
+
+Lo dispuesto en este artículo no limita las facultades de comprobación de las autoridades fiscales.
 
 ###### Artículo 177.
 
@@ -1719,11 +1741,13 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 187.
 
-Las autoridades fiscales emitirán la resolución al procedimiento a través del cual ejerzan cualesquiera de las facultades de comprobación a que alude este Capítulo, dentro de los cuarenta y cinco días siguientes contados a partir de la fecha del levantamiento del acta final u oficio de observaciones, en su caso.
+Las autoridades fiscales emitirán la resolución al procedimiento a través del cual ejerzan cualesquiera de las facultades de comprobación a que alude este Capítulo, dentro de un plazo máximo de seis meses, contados a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que se concluyan los plazos a que se refiere la fracción VI del artículo 177 de este Código.
 
 Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar sus resoluciones.
 
@@ -3910,3 +3934,13 @@ Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría prop
 G.O. 13 DE AGOSTO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 16 DE DICIEMBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor el primero de enero de 2014, previa publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios, prevista en la presente reforma, se calculará a partir del ejercicio fiscal 2014, aun cuando el hecho impositivo se hubiere producido con anterioridad a dicho ejercicio.
+
+Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
+
+Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.
