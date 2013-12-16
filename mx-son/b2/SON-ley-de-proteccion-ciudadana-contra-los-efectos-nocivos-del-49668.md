@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-ciudadana-contra-los-efectos-nocivos-del-4966
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-06"
-last_updated: "2006-03-06"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCION CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección III al Número 19 del Boletín Oficial del Estado de Sonora, el lunes 6 de marzo de 2006.
 
@@ -181,7 +181,9 @@ La infracción a las disposiciones de esta ley se sancionará con:
 
 I.- Apercibimiento.
 
-II.- Multa de hasta mil salarios mínimos.
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+II.- Multa de hasta 3100 salarios mínimos.
 
 III.- Clausura parcial o total, temporal o permanente del establecimiento, excepto oficinas gubernamentales.
 
@@ -211,9 +213,11 @@ Las violaciones a esta ley serán sancionadas administrativamente por la Secreta
 
 Se sancionará con apercibimiento la primera vez y con multa equivalente de uno a cinco veces el salario mínimo diario general vigente en la capital del Estado la siguiente ocasión, a quienes realicen la acción prohibida por la fracción III del artículo 16.
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 21.
 
-Se sancionará con multa equivalente de cien a mil veces el salario mínimo diario general vigente en la capital del Estado a quienes actualicen cualquiera de los supuestos previstos en las fracciones I y II del artículo 16.
+Se sancionará con multa equivalente de 1000 a 3100 veces el salario mínimo diario general vigente en la capital del Estado y con las sanciones previstas en las fracciones de la IV a la VI del artículo 17, a quienes actualicen cualquiera de los supuestos previstos en las fracciones I y II del artículo 16.
 
 ###### Artículo 22.
 
@@ -231,9 +235,11 @@ En caso de reincidencia se duplicará el monto de la multa que corresponda cuand
 
 Junto con las multas que procedan en los términos de los artículos anteriores, podrán imponerse de modo adicional y acumulativo, según las circunstancias de cada caso, cualquiera o varias de las diferentes sanciones previstas en las fracciones IV, V Y VI del artículo 17 de esta ley o bien, a juicio de la autoridad que decida, las multas de referencia podrán conmutarse total o parcialmente por una o varias de dichas diversas sanciones citadas en segundo término.
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 26.
 
-La sanción prevista por la fracción III del artículo 17 de este ordenamiento será impuesta cuando se induzca, permita o tolere, pasivamente o por omisión, que menores de edad obtengan cigarros o cigarrillos de las máquinas referidas en el artículo 4 de esta ley, así como en los casos de gravedad especial a juicio de la autoridad que decida, la que deberá razonar cuidadosa y exhaustivamente la aplicación correspondiente. Será considerado como de gravedad especial el caso que actualice una reincidencia reiterada por tres o más veces de la misma conducta en un plazo de seis meses contado desde la fecha de la infracción inicial.
+La sanción prevista por la fracción III del artículo 17 de este ordenamiento será impuesta cuando se induzca, permita o tolere, pasivamente o por omisión, que menores de edad obtengan cigarros o cigarrillos de las máquinas referidas en el artículo 4 de esta ley, así como en los casos de gravedad especial a juicio de la autoridad que decida, la que deberá razonar cuidadosa y exhaustivamente la aplicación correspondiente. Será considerado como de gravedad especial el caso que actualice una reincidencia reiterada de la misma conducta en un plazo de seis meses contado desde la fecha de la infracción inicial.
 
 ###### Artículo 27.
 
@@ -324,3 +330,13 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los tres días del mes de marzo del año dos mil seis.
 
 SUFRAGIO EFECTIVO. NO REELECION. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBALASTIAZARAN, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 16 DE DICIEMBRE DE 2013.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 70, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO Y DE LA LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOVICOS DEL TABACO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
