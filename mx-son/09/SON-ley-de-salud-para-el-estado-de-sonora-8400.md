@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2013-06-27"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -643,43 +643,29 @@ La Administración Pública Estatal coadyuvará con la Secretaría de Salud en l
 
 ### CAPITULO VII. SALUD MENTAL
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 58.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afecten la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental serán reguladas por la ley especial que al efecto emita el Congreso del Estado de Sonora.
 
 ### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 ###### ARTICULO 59.
 
-Para la promoción de la salud mental, la Secretaría y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
-
-I. El desarrollo de actividades educativas, socioculturales y recreativas familiares que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
-
-II. La difusión de las orientaciones para la promoción de la salud mental, preferentemente al núcleo familiar;
-
-III. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias; y
-
-IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 60.
 
-La atención de las enfermedades mentales comprende:
-
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2013)</small>
-
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos, personas que usen habitualmente estupefacientes o sustancias psicotrópicas y ludópatas; y
-
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos y deficientes mentales y adictos.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 61.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, deberán proporcionar la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales. A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 62.
 
-La Secretaría, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
-
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 ### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
@@ -2819,7 +2805,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. ROBERTO SANCHEZ CEREZO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 10 DE MARZO DE 1997.
 
@@ -2952,3 +2938,9 @@ Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en ma
 ###### ARTÍCULO CUARTO.
 
 Hasta en tanto los ayuntamientos no cuenten con lo señalado en el artículo anterior, deberán ceñir su actuación de manera supletoria a las disposiciones emanadas del presente Decreto.
+
+B.O. 16 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
