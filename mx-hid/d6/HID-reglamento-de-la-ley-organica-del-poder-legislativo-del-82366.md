@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2011-12-31"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -423,17 +423,19 @@ II.- Organizar anualmente el Parlamento tanto Infantil como Juvenil; y
 
 III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde a la Comisión de Seguridad Pública y Justicia:
+Corresponde a la Comisión de Seguridad Ciudadana y Justicia:
 
-I.- Conocer y dictaminar las Iniciativas y resolver los asuntos relacionados con seguridad pública, procuración y administración de justicia, así como prevención y reinserción social;
+I. Conocer y dictaminar las Iniciativas y resolver los asuntos relacionados con seguridad ciudadana, procuración y administración de justicia, prevención social de la violencia y reinserción social;
 
-II.- Analizar y dictaminar sobre el nombramiento, licencia o renuncia de los Magistrados de los Tribunales Superior de Justicia, Fiscal Administrativo y Electoral del Estado; del Procurador General de Justicia y Subprocurador de Asuntos Electorales, así como el Consejero designado por el Congreso del Estado, para formar parte del Consejo de la Judicatura del Poder Judicial del Estado;
+II. Analizar y dictaminar sobre el nombramiento, licencia o renuncia de los Magistrados de los Tribunales Superior de Justicia, Fiscal Administrativo y Electoral del Estado; del Procurador General de Justicia y Subprocurador de Asuntos Electorales, así como el Consejero designado por el Congreso del Estado, para formar parte del Consejo de la Judicatura del Poder Judicial del Estado;
 
-III.- Conocer y emitir resolutivos de los asuntos que le sean turnados, en materia de seguridad pública y justicia; y
+III. Conocer y emitir resolutivos de los asuntos que le sean turnados, en materia de seguridad ciudadana y justicia; y
 
-IV.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+IV. Las demás que le sean conferidas expresamente por el Pleno o la Diputación Permanente.
 
 ###### ARTÍCULO 33.
 
@@ -1358,3 +1360,7 @@ LIC. JOSÉ FRANCISCO OLVERA RUIZ
 P.O. 31 DE DICIEMBRE DE 2011.
 
 Artículo Único.- Envíese el presente Decreto al Ejecutivo del Estado para los efectos del Artículo 51 de la Constitución Política del Estado de Hidalgo.
+
+P.O. 16 DE DICIEMBRE DE 2013.
+
+Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
