@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2013-09-06"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -649,7 +649,9 @@ II.- Cuando no exceda de cuatro años, por tratamiento en libertad, semilibertad
 
 Para los efectos de la conmutación, se requerirá que el reo sea delincuente primario, pague o garantice la reparación de los daños y perjuicios causados, que el delito no sea considerado como grave cuando se cometa en agravio de alguna persona menor de 18 años de edad o que no tenga la capacidad para comprender el significado del hecho, y se considere más adecuada la pena conmutativa en atención a las condiciones personales del sujeto y a los fines de ésta.
 
-Tratándose de la multa conmutativa de la pena de prisión, la equivalencia será en razón de hasta un día multa por un día de prisión, atendiendo a las condiciones económicas del sentenciado. La multa sustitutiva es independiente de la señalada, en su caso, como pena. Si además de la pena privativa de la libertad se impuso al sentenciado una multa como pena, deberá pagarse ésta o garantizarse su pago para que proceda la conmutación.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de la multa conmutativa de la pena de prisión, la equivalencia será en razón de un día multa por un día de prisión, atendiendo a las condiciones económicas del sentenciado. La multa sustitutiva es independiente de la señalada, en su caso, como pena. Si además de la pena privativa de la libertad se impuso al sentenciado una multa como pena, deberá pagarse ésta o garantizarse su pago para que proceda la conmutación.
 
 La multa impuesta como pena única, conjuntamente con otra, o como pena alternativa o conmutativa podrá ser sustituida por trabajo en favor de la comunidad, en los términos de los artículos 27 y 37.
 
@@ -3640,3 +3642,9 @@ P.O. 6 DE SEPTIEMBRE DE 2013.
 DECRETO NÚMERO: 321 POR EL QUE SE ADICIONA UN CAPÍTULO VI DENOMINADO "USURPACIÓN DE IDENTIDAD", AL TÍTULO CUARTO DE LA SECCIÓN TERCERA DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
