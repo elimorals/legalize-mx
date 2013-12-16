@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-los-comites-de-desarrollo-de-la-comunidad-del-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-03"
-last_updated: "2001-12-03"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LOS COMITES DE DESARROLLO DE LA COMUNIDAD DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DE LOS COMITES DE DESARROLLO DE LA COMUNIDAD
+REGLAMENTO DE LOS COMITÉS DE DESARROLLO DE LA COMUNIDAD DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LAS REFORMAS APROBADAS Y PUBLICADAS EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, EL 16 DE DICIEMBRE DE 2013, MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 3 de diciembre de 2001.
 
@@ -35,25 +37,31 @@ Que el R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, en Sesiones Or
 
 REGLAMENTO DE LOS COMITÉS DE DESARROLLO DE LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-El presente reglamento se expide con fundamento en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 131 de la Constitución Política del Estado de Nuevo León, y en los artículos 9, 26 inciso d) fracciones I, II, III, IV, IX, 122, 123 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, siendo obligatoria su observancia general por contener disposiciones de orden público e interés social.
+###### Artículo 1.
 
-###### Artículo 2°.
+El presente reglamento se expide con fundamento en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado de Nuevo león, y en los artículos 26 inciso d) fracciones I, II. III, IV, IX, 122, 123 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo león, siendo obligatoria su observancia general por contener disposiciones de orden público e interés social.
 
-El objetivo de este reglamento es regular la integración, organización y funcionamiento de los Comités de Desarrollo de la Comunidad en el Municipio de San Nicolás de los Garza del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 3°.
+###### Artículo 2.
 
-Los Comités de Desarrollo de la Comunidad, se integrarán en las colonias o fraccionamientos ubicados en este municipio y tendrán por objeto, ser un enlace entre su comunidad y la Autoridad Municipal y colaborar en la realización del plan, programas y proyectos municipales, impulsando la participación de la comunidad y proponiendo alternativas de solución respecto de los problemas de sus colonias o fraccionamientos.
+El objetivo de este reglamento es regular la integración, organización y funcionamiento de los Comités de Desarrollo de la Comunidad los cuales se dividirán en el Comité del PAC y en el Comité de Seguridad Social en el Municipio de San Nicolás de los Garza del Estado de Nuevo León, entendiéndose por PAC para efectos secundarios como Programa de Acción Comunitaria.
 
-###### Artículo 4°.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 3.
 
 Los integrantes de los Comités desempeñarán su función en forma honorífica pues no percibirán remuneración alguna por sus servicios.
 
-###### Artículo 5°.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 4.
 
 Los Comités de Desarrollo de la Comunidad podrán ser:
 
@@ -61,7 +69,9 @@ A) Permanentes, los cuales atenderán necesidades generales y durarán el perío
 
 B) Transitorios, si se constituyen para un programa o proyecto específico.
 
-###### Artículo 6°.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 5.
 
 Son encargados de la vigilancia y cumplimiento de las disposiciones de este ordenamiento:
 
@@ -69,255 +79,201 @@ a) El R. Ayuntamiento.
 
 b) El Presidente Municipal.
 
-c) El Secretario del Ayuntamiento.
+c) El Secretario del Ayuntamiento
 
-d) El Secretario de Desarrollo Social y Fomento Económico.
+d) El Secretario de Desarrollo Humano.
 
-e) El Director de Desarrollo Social.
+e) El Director del Programa de Acción Comunitaria y Seguridad Social.
 
-f) El Coordinador de Zona.
+f) El Jefe de Enlace
 
-### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DE LOS COMITÉS DE DESARROLLO DE LA COMUNIDAD
+g) El Enlace de Área.
 
-###### Artículo 7°.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-Durante el período de duración de la Administración Pública Municipal la Secretaría de Desarrollo Social tendrá la facultad de crear nuevos Comités o ratificar los ya existentes, dependiendo de las necesidades sociales.
+###### Artículo 6.
 
-###### Artículo 8°.
+Durante el período de duración de la Administración Pública Municipal la Dirección de PAC y Seguridad Social tendrá la facultad de crear nuevos Comités, ratificar y/o reestructurar los ya existentes, dependiendo de las necesidades sociales.
 
-Se considera Comité de Desarrollo de la Comunidad al grupo de vecinos propuestos por la comunidad que tiene por finalidad impulsar la participación vecinal para contribuir en la realización del plan, programas y proyectos municipales, además de ser una vía permanente de comunicación entre la Autoridad Municipal y los vecinos dando a conocer las necesidades y problemas de su colonia o fraccionamiento y proponer alternativas de solución a éstos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 9°.
+### CAPÍTULO SEGUNDO. DE LA FINALIDAD E INTEGRACIÓN DE LOS COMITÉS
 
-Dependiendo del objetivo y de acuerdo con la sectorización que señale la Autoridad Municipal, en cada sector se constituirá un Comité de Desarrollo de la Comunidad, mediante el siguiente procedimiento:
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-I. Primera convocatoria: La Dirección de Desarrollo Social ordenará la entrega de invitaciones directas a los vecinos, indicando en ésta el lugar, fecha y hora para llevar a cabo la junta de integración del comité, así como los requisitos para participar con voz y voto en la misma.
+###### Artículo 7.
 
-La asistencia mínima requerida para llevar a cabo la junta de integración en la primera convocatoria será de veinticinco personas.
+El Comité del PAC tiene por finalidad impulsar la participación vecinal para contribuir en la realización del plan, programas y proyectos municipales y el Comité de Seguridad Social tiene por finalidad impulsar la seguridad y vigilancia vecinal, ambos Comités se integrarán a través de un grupo de vecinos propuestos por la comunidad, además de ser una vía permanente de comunicación entre los vecinos de la colonia o fraccionamiento y la Autoridad Municipal, dando a conocer a ésta las necesidades y problemas y proponer alternativas de solución.
 
-II. Segunda convocatoria: Si en la primera convocatoria no se reúne el mínimo de asistencia requerida para llevar a cabo la junta de integración, se realizará una segunda convocatoria.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-III. Junta de integración: Esta se llevará a cabo una vez reunido el quórum o cantidad mínima de personas señalada (sic) en la primera convocatoria, o con el número de personas que asistan a la segunda, el cual no podrá ser inferior a diez.
+###### Artículo 8.
 
-La junta de integración será presidida y dirigida por el Coordinador de Zona asignado por la Dirección de Desarrollo Social.
+Dependiendo del objetivo y de acuerdo con la sectorización que señale la Autoridad Municipal, en cada sector se constituirá un Comité del PAC y un Comité de Seguridad Social, mediante el siguiente procedimiento:
 
-IV. Selección de integrantes: El Comité se integrará con un mínimo de siete y un máximo de diez personas, los cuales serán elegidos de entre los vecinos que asistan a la junta de integración, a propuesta y por mayoría en la votación entre los mismos.
+I. Convocatoria: La Dirección del PAC y Seguridad Social convocará a la comunidad de vecinos mediante la cual se establecerán los requisitos de participación para ser elegidos en la integración del comité, indicando en ésta el lugar, fecha y hora para llevar a cabo la junta de integración del comité, así como los requisitos para participar con voz y voto en la misma.
 
-Los vecinos propuestos deberán reunir los requisitos de selección que se señalan en el siguiente artículo.
+La asistencia mínima requerida para llevar a cabo la junta de integración en la primera convocatoria será de diez personas.
 
-V. Acta de integración: Concluida la selección de integrantes del Comité, se levantará el acta de integración en dos tantos, la cual será firmada por el Coordinador de Zona que presidió la junta y por los integrantes electos.
+II. Junta de integración: Esta se llevará a cabo una vez reunido el quórum o cantidad mínima de personas señalada en la convocatoria.
 
-Uno de los tantos quedará al resguardo del Comité recién integrado y el otro se remitirá a la Dirección de Desarrollo Social para su archivo.
+La junta de integración será presidida y dirigida por el Enlace de Área de la Dirección del PAC y Seguridad Social asignado por la Secretaría de Desarrollo Humano.
 
-VI. Acreditación y toma de protesta: Recibida por parte de la Dirección de Desarrollo Social el acta de integración respectiva, citará a los integrantes del comité para tomar su protesta de cumplir su misión con base en lo señalado en este reglamento y demás disposiciones relacionadas con su actividad, y les otorgará una credencial que los acredite como miembros del comité.
+III. Selección de integrantes: El Comité se integrará con un mínimo de siete y un máximo de diez personas, los cuales serán elegidos de entre los vecinos que asistan a la junta de integración, a propuesta y por mayoría en la votación entre los mismos.
 
-VII. Capacitación: La Dirección de Desarrollo Social señalará a los integrantes el lugar y la fecha para que reciban la capacitación que les permita desempeñar eficientemente su labor.
+Los vecinos propuestos deberán reunir los requisitos de selección que se señalan en el artículo 9 del presente ordenamiento.
 
-### CAPÍTULO TERCERO. ATRIBUCIONES DE LOS COMITÉS
+IV. Formato de acta: Concluida la selección de integrantes del Comité, se levantará el acta de integración, la cual será firmada por los integrantes electos.
 
-###### Artículo 10°.
+Uno de los tantos quedará al resguardo del Enlace de Área y el otro se remitirá a la Secretaria de Desarrollo Humano para su archivo.
+
+V. Acreditación: Una vez que se ha tomado la protesta se les otorgará una credencial que los acredite como miembros del Comité del PAC ó del Comité de Seguridad Social.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 9.
 
 Son requisitos de selección de los integrantes de los Comités de Desarrollo de la Comunidad los siguientes:
 
-a) Ser mayor de edad.
+a) Ser ciudadano mexicano;
 
-b) Ser vecino de la colonia o fraccionamiento ubicados dentro del sector respectivo, debiendo acreditarlo con documento idóneo a criterio de la Autoridad Municipal que presida la junta de integración.
+b) Ser vecino de la colonia o fraccionamiento ubicados dentro del sector respectivo, debiendo acreditarlo con documento oficial, tal como la credencial de elector; o aquella que la autoridad determine en caso de faltar ésta.
 
-c) No desempeñar cargo alguno en juntas de mejoras ni ser Comisionado Municipal.
+c) No desempeñar cargo alguno en juntas de mejoras ni ser Delegado Municipal.
 
 d) Tener disponibilidad de tiempo para atender los asuntos del Comité.
 
 e) Tener reconocida honorabilidad entre sus vecinos y espíritu de servicio.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-Los Comités de Desarrollo de la Comunidad tendrán las siguientes facultades:
+### CAPÍTULO TERCERO. ATRIBUCIONES DE LOS COMITÉS
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 10.
+
+Los Comités de Desarrollo de la Comunidad tendrán la siguiente facultad:
 
 a) Promover las formas en que los vecinos de su sector podrán participar en acciones de beneficio para la colectividad.
 
-b) Hacer llegar a las comisiones respectivas del Ayuntamiento sus opiniones respecto de la elaboración, revisión o modificación de los reglamentos municipales.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-c) Presentar al R. Ayuntamiento, por conducto de sus respectivas comisiones, propuestas de solución a los problemas de la comunidad.
+###### Artículo 11.
 
-d) Establecer las formas de recaudación de los fondos, previamente aprobadas por la Dirección de Desarrollo Social, con el que se contribuirá a atender obras de beneficio colectivo.
-
-###### Artículo 12.
-
-Son obligaciones del Comité de Desarrollo de la Comunidad:
+Son obligaciones de los Comités de Desarrollo de la Comunidad:
 
 a) Coadyuvar con la Autoridad Municipal en la realización del plan, programas y proyectos municipales.
 
 b) Difundir en su sector el Plan Municipal y los programas y proyectos que se lleven a cabo en su sector comunitaria (sic).
 
-c) Dar a conocer a la Dirección de Desarrollo Social las necesidades y problemas de su colonia o fraccionamiento.
+c) Dar a conocer a la Dirección del PAC y Seguridad Social las necesidades y problemas de su colonia o fraccionamiento.
 
 d) Proponer soluciones a los problemas y necesidades de su sector.
 
 e) Reunirse en junta ordinaria mensualmente y en las extraordinarias necesarias para atender sus asuntos.
 
-f) Levantar actas de las juntas e integrar el expediente del Comité y el expediente de evaluación.
+f) Levantar minutas de las juntas e integrar el expediente del Comité y el expediente de evaluación.
 
-g) Contar con previa aprobación de los vecinos de los gastos que se pretendan efectuar para realizar las acciones de beneficio comunitario.
+g) Coordinarse con la Dirección del PAC y Seguridad Social cuando se traten asuntos relevantes, para la toma de decisiones al respecto.
 
-h) Presentar ante la Dirección de Desarrollo Social el informe del avance de los proyectos y del manejo de fondos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-i) Informar mensualmente a los vecinos de su sector de los ingresos y egresos, integrando una copia en el expediente que se remitirá a la dirección de desarrollo social.
+###### Artículo 12.
 
-j) Responder solidariamente de la correcta aplicación de los fondos entregados en su sector vecinal, anexando las comprobaciones de gastos en el expediente de evaluación.
+Queda prohibido a los Comités de Desarrollo de la Comunidad, realizar toda actividad política partidista o de proselitismo de cualquier clase.
 
-k) Coordinarse con la Dirección de Desarrollo Social cuando se traten asuntos relevantes, para la toma de decisiones al respecto.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO CUARTO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS COMITÉS
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 13.
 
-Queda prohibido a los Comités de Desarrollo, realizar toda actividad política partidista o de proselitismo de cualquier clase.
+Las juntas ordinarias se verificarán en fecha cierta y conocida por los integrantes del comité una vez al mes, notificando de éstas a los vecinos e integrantes del comité con suficiente anticipación, en tanto las extraordinarias serán notificadas una vez que se tenga conocimiento del asunto a tratar y dependiendo de la urgencia o necesidad del mismo.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO QUINTO. DE LA EVALUACIÓN DE ACTIVIDADES DEL COMITÉ
 
-###### Artículo 22.
-
-La actividad y desarrollo de las funciones de los integrantes del comité serán evaluadas por la Dirección de Desarrollo Social.
-
-###### Artículo 23.
-
-La Dirección de Desarrollo Social recibirá el informe de actividades del comité y emitirá un resultado de la verificación de los datos contenidos en éste.
-
-###### Artículo 24.
-
-La revisión de cuentas y su aprobación corresponderá tanto a los integrantes del Comité de Desarrollo, como a la Dirección de Desarrollo Social.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 14.
 
-Los integrantes del Comité se reunirán para elegir a un Coordinador y darán aviso de tal designación a la Dirección de Desarrollo Social.
+La actividad y desarrollo de las funciones de los integrantes de los Comités serán evaluadas por la Dirección del PAC y Seguridad Social.
 
-### CAPÍTULO SEXTO. DE LA TERMINACIÓN DE ACTIVIDADES
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 25.
+### CAPÍTULO SEXTO. DE LA TERMINACIÓN. DE ACTIVIDADES
 
-Cualquier integrante del comité podrá presentar ante éste, por escrito y en una junta, su renuncia, la cual será aprobada previa entrega y revisión de las cuentas relativas a los fondos que hubiese manejado.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 26.
+###### Artículo 15.
 
-La Dirección de Desarrollo Social podrá proponer en junta general de vecinos la remoción de alguno o algunos de los integrantes del comité, en los siguientes casos:
+Cualquier integrante del Comité podrá presentar ante éste, por escrito y/o en una junta, su renuncia, la cual será acordada respectivamente.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 16.
+
+La Dirección del PAC y Seguridad Social podrá proponer en junta general de vecinos la remoción de alguno o algunos de los integrantes del Comité, en los siguientes casos:
 
 a) El incumplimiento de las obligaciones señaladas.
 
-b) Cuando legalmente se encuentren impedidos.
+b) Cuando legalmente se encuentren impedidos,
 
-c) Cuando de la evaluación de actividades derive una deficiente actuación del responsable de alguna de las comisiones.
+c) Cuando de la evaluación de actividades derive una deficiente actuación del responsable.
 
-d) Cuando no presente cuentas claras del manejo de los fondos de la comisión respectiva, sin perjuicio de las acciones penales que pudieran proceder contra éste.
+d) Por aprovecharse de su misión para realizar acciones con fines políticos, religiosos o de lucro.
 
-e) Por aprovecharse de su misión para realizar acciones con fines políticos, religiosos o de lucro.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 27.
+###### Artículo 17.
 
-En todo caso, se respetará el derecho de audiencia del afectado, quien podrá manifestar en un plazo de diez días hábiles lo que a su derecho convenga, allegando las pruebas y alegatos necesarios para acreditar su dicho; transcurrido dicho la (sic) plazo, la Dirección de Desarrollo Social emitirá el acto procedente.
+En todo caso, se respetará el derecho de audiencia del afectado, quien podrá manifestar en un plazo de diez días hábiles lo que a su derecho convenga, por medio de un recurso de inconformidad allegando las pruebas y alegatos necesarios para acreditar su dicho; transcurrido dicho plazo, la Secretaría de Desarrollo Humano emitirá el acto procedente.
 
-###### Artículo 28.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-La Dirección de Desarrollo Social podrá determinar la disolución de los Comités de Desarrollo:
+###### Artículo 18.
+
+La Dirección del PAC y Seguridad Social podrá determinar la disolución de los Comités de Desarrollo de la Comunidad:
 
 a) Cuando se haya cumplido el objetivo de los proyectos específicos para el cual fueron creados, en el caso de los transitorios.
 
-b) Ante la negativa de la mayoría de sus integrantes a continuar en el mismo, debiéndose llevar a cabo su reestructuración a través del procedimiento señalado para su integración, en el cuerpo del presente reglamento.
+b) Ante la negativa de la mayoría de sus integrantes a continuar en el mismo, debiéndose llevar a cabo su reestructuración a través del procedimiento señalado pata su integración, en el cuerpo del presente reglamento.
 
 c) Por la existencia de conflictos personales entre sus integrantes que hagan imposible u obstaculicen el buen funcionamiento del comité.
 
 d) Cuando por cualquier motivo no cumplan con su finalidad, en cuyo caso se otorgará audiencia a los interesados.
 
-###### Artículo 15.
-
-Sin perjuicio de lo establecido en los siguientes artículos, el Coordinador del Comité de Desarrollo de la Comunidad será responsable de:
-
-a) Dirigir las juntas del Comité de Desarrollo y firmar las actas correspondientes.
-
-b) Mantener comunicación directa y permanente con la Dirección de Desarrollo Social.
-
-c) Firmar y recabar la firma de los demás integrantes en la correspondencia del Comité de Desarrollo.
-
-d) Resguardar la correspondencia, el expediente del Comité y el expediente de evaluación.
-
-e) Las demás que le señale este reglamento y en cada caso especifico la Autoridad Municipal.
-
-###### Artículo 16.
-
-Para su organización y funcionamiento, cada Comité se integrará en las siguientes comisiones:
-
-a) Obras Públicas, Desarrollo Urbano y Ecología,
-
-b) Seguridad Pública y Vialidad,
-
-c) Educación, Cultura y Deportes,
-
-d) Servicios Públicos,
-
-e) Ornato y Forestación y
-
-f) Comisión Juvenil.
-
-###### Artículo 17.
-
-El Comité de Desarrollo coordinará conjuntamente las decisiones y actividades de las diferentes comisiones.
-
-###### Artículo 18.
-
-Cada Comisión tendrá un responsable, el cual podrá:
-
-a) Convocar a juntas extraordinarias.
-
-b) Presentar, por conducto del Comité, a aprobación en junta, los proyectos específicos de trabajo que corresponda a su comisión.
-
-c) Intervenir con voz y voto en los acuerdos que tome la mesa directiva del comité.
-
-d) Responder por el correcto uso de los fondos que le corresponda manejar.
-
-e) Suplir en caso de ausencia, renuncia o remoción al coordinador del comité, previo acuerdo entre sus integrantes.
-
-f) Las demás que le señale este reglamento y, en cada caso específico, la Autoridad Municipal.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SÉPTIMO. DEL RECURSO DE INCONFORMIDAD
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-Las resoluciones y actos administrativos, que dicte la Autoridad Municipal, con motivo de la aplicación de este reglamento, podrán ser impugnados por los interesados mediante el recurso de inconformidad, ante la autoridad mencionada en el artículo 6, en un término de cinco días.
+###### Artículo 19.
 
-###### Artículo 30.
+Las resoluciones y actos administrativos, que dicte la Autoridad Municipal, con motivo de la aplicación de este reglamento, podrán ser impugnados por los interesados mediante el recurso de inconformidad, ante la Secretaría de Desarrollo Humano.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 20.
 
 Al interponerse el recurso se acompañarán las pruebas que el interesado estime pertinentes. La resolución deberá dictarse en un término de cinco días hábiles.
 
 La interposición del recurso de inconformidad, no suspende la ejecución de la resolución o acto impugnado.
 
-###### Artículo 19.
-
-El responsable de la Comisión Juvenil deberá tener de entre dieciocho y veinticinco años de edad y considerará la participación de jóvenes mayores de catorce años en el desarrollo de los proyectos de la comisión.
-
-###### Artículo 20.
-
-Las juntas ordinarias se verificarán en fecha cierta y conocida por los integrantes del comité una vez al mes, notificando de éstas a los vecinos e integrantes del comité con suficiente anticipación, en tanto las extraordinarias serán notificadas una vez que se tenga conocimiento del asunto a tratar y dependiendo de la urgencia o necesidad del mismo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO OCTAVO. DE LA REVISIÓN Y CONSULTA DE ESTE REGLAMENTO
 
-###### Artículo 31.
-
-En la medida que se modifiquen las condiciones socioeconómicas del municipio, en virtud de su crecimiento demográfico, social y desarrollo de las actividades productivas, y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
-
-###### Artículo 32.
-
-Para lograr el propósito anterior, la administración municipal a través de la Dirección de Desarrollo Social, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con este reglamento, a fin de que en sesión de Cabildo, el C. Presidente Municipal, proponga el estudio o revisión y, en su caso, la modificación de este ordenamiento.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 21.
 
-En cada junta ordinaria o extraordinaria del comité de desarrollo de la comunidad se observará lo siguiente:
-
-1. Se designará por votación entre todos los asistentes a un Secretario, quien podrá ser vecino no integrante del comité; estableciendo así un sistema de rotación para dar oportunidad a otros vecinos de participar en tales funciones.
-
-2. El Coordinador del Comité tendrá las funciones específicas de hacer guardar el orden, otorgar el uso de la voz y, para el caso de aclaraciones, hacer las preguntas pertinentes a los participantes.
-
-3. El Secretario levantará el acta de la junta en dos tantos, tomando nota en palabras literales de los comentarios de los presentes y anexando a la misma los documentos que los interesados le hagan llegar para tal efecto, previa autorización del Coordinador del Comité para integrar tales anexos.
-
-4. El acta levantada será firmada por el Coordinador del Comité, el Secretario, los integrantes del comité presentes y los asistentes que deseen hacerlo; integrando uno de los tantos de ésta al expediente del comité y otro al expediente de evaluación.
+En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de las actividades productivas, y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -328,3 +284,13 @@ Artículo segundo: Se abroga el reglamento de los Comités de Desarrollo de la C
 Dado en la Sala de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, a los 11- once días del mes de octubre del año 2001-dos mil uno.
 
 Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno, para su promulgación y publicación de dicho órgano y se le dé el debido cumplimiento, igualmente procédase a la publicación respectiva en la Gaceta Municipal. Ing. Fernando A. Larrazabal Bretón, Presidente Municipal; Lic. Zeferino Salgado Almaguer, Secretario del R. Ayuntamiento; Lic. José Luis Morales Davis, Secretario de Desarrollo Social y Económico. Rubricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2013.
+
+Artículo primero: El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y se ordena su publicación en la Gaceta Municipal.
+
+Artículo segundo: Se reforma el reglamento de los Comités de Desarrollo de la Comunidad del Municipio de San Nicolás de los Garza, Nuevo León, publicado el 03 de diciembre de 2001 en el Periódico Oficial del Estado.
+
+Artículo tercero: Los asuntos, trámites y procedimientos iniciados y pendientes por resolver antes de la entrada en vigor de la presente reforma, en la Secretaría de Desarrollo Humano y en la Dirección de PAC y Seguridad Social respectivamente, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento que se solicitaron.
