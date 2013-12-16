@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2012-03-31"
+last_updated: "2013-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -55,39 +55,43 @@ Para los efectos de la presente ley se entenderá por:
 
 2. Instituto: al Instituto para la Transparencia y Acceso a la Información Pública del Estado de Nayarit.
 
-3. Comités: los Comités de Información previstos en esta ley.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
 
-4. Consejo: el Consejo del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+3. Calendario de Actualización: es el instrumento institucional que indica cronológicamente los plazos programados para que los sujetos obligados efectúen la actualización de su información fundamental en su portal de internet, así de igual manera, indicará los plazos para la revisión de esta información por el Instituto.
 
-5. Datos personales: la información concerniente a una persona física, identificada o identificable.
+4. Comités: los Comités de Información previstos en esta ley.
 
-6. Documentos: los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
+5. Consejo: el Consejo del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Nayarit.
 
-7. Expediente: conjunto de documentos relacionados entre sí.
+6. Datos personales: la información concerniente a una persona física, identificada o identificable.
 
-8. Fuente de acceso público: aquellos sistemas de datos personales cuya consulta puede ser realizada, por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el pago de una contraprestación.
+7. Documentos: los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
 
-9. Información: la contenida en los documentos que los sujetos obligados deben generar, obtener, adquirir, transformar o conservar por cualquier título.
+8. Expediente: conjunto de documentos relacionados entre sí.
 
-10. Información clasificada: la información reservada o confidencial.
+9. Fuente de acceso público: aquellos sistemas de datos personales cuya consulta puede ser realizada, por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el pago de una contraprestación.
 
-11. Información confidencial: la que contiene datos relativos a las características físicas, morales o emocionales de las personas previstas en esta ley.
+10. Información: la contenida en los documentos que los sujetos obligados deben generar, obtener, adquirir, transformar o conservar por cualquier título.
 
-12. Información fundamental: la información de oficio que debe tenerse obligatoriamente disponible por el sujeto obligado y proporcionarse a cualquier persona invariablemente por medios electrónicos o por cualquier otra forma, en los términos de la ley.
+11. Información clasificada: la información reservada o confidencial.
 
-13. Información pública gubernamental: la contenida en documentos escritos, mapas, fotografías, grabaciones, soporte magnético o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido, en el ejercicio de las funciones de los entes públicos, o se encuentre en disposición de éstas, así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente, con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
+12. Información confidencial: la que contiene datos relativos a las características físicas, morales o emocionales de las personas previstas en esta ley.
 
-14. Información reservada: la información que se encuentra temporalmente restringida al acceso público por encontrarse en los supuestos previstos en esta ley.
+13. Información fundamental: la información de oficio que debe tenerse obligatoriamente disponible por el sujeto obligado y proporcionarse a cualquier persona invariablemente por medios electrónicos o por cualquier otra forma, en los términos de la ley.
 
-15. Sistema de datos personales: el conjunto ordenado de datos personales que estén en posesión de un sujeto obligado.
+14. Información pública gubernamental: la contenida en documentos escritos, mapas, fotografías, grabaciones, soporte magnético o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido, en el ejercicio de las funciones de los entes públicos, o se encuentre en disposición de éstas, así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente, con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
 
-16. Sujetos obligados: cualquier autoridad, ente, órgano u organismo del Estado de Nayarit y sus municipios, señalados en la presente ley.
+15. Información reservada: la información que se encuentra temporalmente restringida al acceso público por encontrarse en los supuestos previstos en esta ley.
 
-17. Transparencia: obligación de los entes públicos de poner a disposición de las personas la información pública que poseen, así como dar a conocer el motivo y justificación de sus decisiones de acuerdo a sus facultades y obligaciones.
+16. Sistema de datos personales: el conjunto ordenado de datos personales que estén en posesión de un sujeto obligado.
+
+17. Sujetos obligados: cualquier autoridad, ente, órgano u organismo del Estado de Nayarit y sus municipios, señalados en la presente ley.
+
+18. Transparencia: obligación de los entes públicos de poner a disposición de las personas la información pública que poseen, así como dar a conocer el motivo y justificación de sus decisiones de acuerdo a sus facultades y obligaciones.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
 
-18. Unidad de Enlace: El área administrativa de la estructura orgánica de los entes públicos, encargada del despacho de los asuntos relacionados con la presente Ley.
+19. Unidad de Enlace: El área administrativa de la estructura orgánica de los entes públicos, encargada del despacho de los asuntos relacionados con la presente Ley.
 
 ###### Artículo 3o.
 
@@ -273,7 +277,9 @@ c) De las adjudicaciones directas: los motivos y fundamentos legales aplicados, 
 
 La información a que se refiere este capítulo deberá publicarse y difundirse de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad, y confiabilidad.
 
-Los entes públicos atenderán las recomendaciones que expida el Instituto y deberán señalar en sus reglamentos y en sus páginas de Internet los rubros del presente capítulo que no le son aplicables.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+Los entes públicos atenderán las recomendaciones que expida el Instituto y deberán señalar en sus reglamentos y en sus páginas de Internet los rubros del presente capítulo que no le son aplicables. Dichas recomendaciones deberán ser debidamente fundadas y motivadas por el Instituto, y en su caso, indicar con precisión en qué consisten las omisiones o insuficiencias de la información.
 
 Los entes públicos realizarán actualizaciones periódicas de la información fundamental. Al efecto, sistematizarán la información a través de medios magnéticos, digitales, Internet y demás recursos de acceso remoto para facilitar el acceso de las personas a la misma, o bien, con la publicación a través de los medios escritos o electrónicos disponibles.
 
@@ -283,7 +289,17 @@ A través de sus órganos internos se preverá la adquisición e instalación de
 
 Cuando la información se difunda en Internet los sujetos obligados deberán promover el acceso a la información con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que los solicite. Esta entrega deberá ser expedita y procurará la creación de bases de datos explotables para la generación de conocimiento por parte de la sociedad.
 
-El Instituto revisará que la información fundamental sea la versión más actualizada. Los sujetos obligados comunicarán al Instituto antes de que finalice el primer trimestre del año, el calendario de actualización. En todos los casos se deberá indicar la fecha de la última actualización por cada rubro.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+El Instituto revisará que la información fundamental sea la versión más actualizada. Dichas actualizaciones se realizarán en función del Calendario de Actualización tomando en cuenta los plazos estipulados por esta Ley y su Reglamento; podrán excepcionalmente establecerse plazos diferentes para los sujetos obligados cuando las características operativas institucionales del ente así lo justifiquen, dichas excepciones deberán ser debidamente fundadas y motivadas por el sujeto obligado y aprobadas previamente por el Instituto.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+Los sujetos obligados en el mes de diciembre presentarán ante el Instituto la propuesta de Calendario de Actualización para el año próximo. En el supuesto de contener excepciones a las que refiere el párrafo anterior deberán ser, en su caso, aprobadas por el Instituto a más tardar en el mes de enero del año de que se trate.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+En todos los casos se deberá indicar la fecha de la última actualización por cada rubro.
 
 > <small>(F. DE E., P.O. 18 DE ENERO DE 2008)</small>
 
@@ -559,7 +575,13 @@ Compete al Comité:
 
 8. Enviar los datos necesarios para la elaboración del informe anual del Instituto.
 
-9. Promover la capacitación y actualización del personal adscrito a la o las Unidades de Enlace.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+9. Promover la capacitación y actualización del personal adscrito a la o las Unidades de Enlace, y
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+
+10. Elaborar el calendario de actualizaciones a que se refiere el numeral 3 del artículo 2 de esta Ley.
 
 ## TÍTULO QUINTO. Del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit
 
@@ -1294,3 +1316,11 @@ P.O. 31 DE MARZO DE 2012.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Lo dispuesto en el artículo 45 del presente decreto, surtirá efectos a partir de la designación que apruebe la legislatura sobre la Presidencia del Instituto, una vez concluido el periodo del actual titular.
+
+P.O. 16 DE DICIEMBRE DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo. El Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, deberá modificar su reglamentación en lo conducente dentro de los 60 días naturales contados a partir de su vigencia.
+
+Artículo tercero. Se derogan todas las disposiciones legales y administrativas que contravengan el presente decreto.
