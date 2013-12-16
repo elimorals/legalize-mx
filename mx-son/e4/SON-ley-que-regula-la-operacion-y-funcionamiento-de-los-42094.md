@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2012-08-06"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -965,6 +965,10 @@ IV.- Cuando la licencia sea explotada en un domicilio diferente o con giro disti
 
 V.- Cuando el establecimiento opere con venta o consumo de bebidas con contenido alcohólico adulteradas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+VI.- Por vender o permitir el consumo de bebidas con contenido alcohólico a menores de edad o incapacitados legales.
+
 Lo anterior, independientemente de la aplicación de las sanciones que correspondan por infracciones en que se haya incurrido.
 
 ###### Artículo 77.
@@ -1085,7 +1089,7 @@ c).- Cuando se opere en contravención a lo dispuesto en las fracciones VII y VI
 
 d).- A los que en cualquier forma alteren o afecten la licencia de funcionamiento, o bien, operen con un giro distinto al autorizado en la licencia respectiva;
 
-e).- A los que contravengan lo dispuesto por la fracción I del artículo 20 de esta Ley, la primera reincidencia con el doble de la sanción impuesta y la segunda, con la cancelación de la licencia y clausura del establecimiento;
+e).- (DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1100,6 +1104,12 @@ h).- Por la venta de bebidas alcohólicas fuera de los horarios establecidos en 
 i).- Por cualquier otro acto u omisión que infrinja las disposiciones de esta Ley y que no se encuentre previsto en las fracciones anteriores.
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia, se estará a lo dispuesto por el Capítulo X de esta Ley.
+
+> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 2013)</small>
+
+IV.- Con multa equivalente de 1000 a 3100 veces el salario mínimo general vigente en la zona geográfica “A”, o arresto de hasta 36 horas en el siguiente caso:
+
+a) A los que contravengan lo dispuesto por la fracción I del artículo 20 de esta Ley, y en caso de reincidencia con el triple de la sanción impuesta y con la cancelación de la licencia y clausura del establecimiento.
 
 ###### Artículo 83.
 
@@ -1373,7 +1383,7 @@ BAILE
 
 XVIII.- SALON SOCIAL CENTRO DE EVENTOS O
 
-SALON DEBAILE
+SALON DE BAILE
 
 XIX.- SALON DE BAILE CENTRO DE EVENTOS O
 
@@ -1446,3 +1456,9 @@ Transcurrido el plazo a que se refiere la fracción II de este artículo, la Sec
 II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+B.O. 16 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
