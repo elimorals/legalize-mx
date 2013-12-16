@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2013-08-26"
+last_updated: "2013-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -85,47 +85,109 @@ IV. Dependencias: Las Secretarías de Despacho, la Procuraduría General de Just
 
 V. Dictamen de Suficiencia Presupuestal: El documento por medio del cual la Secretaría autoriza a las dependencias y entidades el ejercicio del gasto público asignado a sus Programas Presupuestarios y Actividades Institucionales conforme a la normatividad aplicable;
 
-VI. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, las comisiones, comités y juntas creados por el Congreso o por decreto del propio Ejecutivo que cuenten con asignación presupuestal;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-VII. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el Plan y los programas que de él se deriven, los Programas Presupuestarios y las Actividades Institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado "De Control y Evaluación del Gasto Público" del Libro Cuarto de este Código;
+VI. Documento Electrónico: El documento o archivo electrónico en cualquier formato sea este alfanumérico, de video o de audio, el cual sea firmado con un certificado electrónico con validez jurídica;
 
-VIII. Gasto Público: Las erogaciones que con cargo a recursos públicos realizan las Unidades Presupuestales;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-IX. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+VII. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, las comisiones, comités y juntas creados por el Congreso o por decreto del propio Ejecutivo que cuenten con asignación presupuestal;
 
-X. Indicador de Desempeño: La observación o fórmula que integra información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad, respecto del logro o resultado de los objetivos de la política pública, de los Programas Presupuestarios y de las Actividades Institucionales de Dependencias y Entidades;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XI. Indicadores Estratégicos: Los Indicadores de Desempeño que miden el grado de cumplimiento de los objetivos de las políticas públicas y de los Programas Presupuestarios, los cuales contribuyen a fortalecer o corregir las estrategias y la orientación de los recursos;
+VIII. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el Plan y los programas que de él se deriven, los Programas Presupuestarios y las Actividades Institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado "De Control y Evaluación del Gasto Público" del Libro Cuarto de este Código;
 
-XII. Indicadores de Gestión: Los Indicadores de Desempeño que miden el avance y logro en procesos y actividades, es decir, la forma en que los bienes y servicios públicos son generados y entregados;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XIII. Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
+IX. Firma Electrónica: La firma electrónica avanzada que es generada con un certificado reconocido legalmente, a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa, y que ha sido aprobada para su uso en los trámites contenidos en esta Ley por la Secretaría;
 
-XIV. Matriz de Indicadores para Resultados: La herramienta de planeación estratégica que organiza los objetivos, indicadores y metas de un Programa Presupuestario y que de forma resumida y sencilla vincula los instrumentos de diseño, organización, ejecución, seguimiento, monitoreo, evaluación y mejora de los Programas Presupuestarios, como resultado de un proceso de programación realizado con base en la Metodología del Marco Lógico;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XV. Metodología del Marco Lógico: La herramienta de planeación estratégica basada en la estructuración y solución de problemas que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causalidad; identificar los factores externos que pueden influir en el cumplimiento de los objetivos del Programa Presupuestario; proporcionar elementos para evaluar el avance en la consecución de dichos objetivos, y examinar el desempeño del Programa Presupuestario en todas sus etapas. Asimismo, facilita el proceso de conceptualización y diseño de Programas Presupuestarios, a través de la Matriz de Indicadores para Resultados;
+X. Gasto Público: Las erogaciones que con cargo a recursos públicos realizan las Unidades Presupuestales;
 
-XVI. Municipio o municipios: El o los municipios del Estado de Veracruz de Ignacio de Llave;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XVII. Organismos Autónomos: Los señalados en el Capítulo V del Título Segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para efectos únicamente de este Código se incluirá también a la Universidad Veracruzana que es una institución autónoma de educación superior;
+XI. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-XVIII. Plan: El Plan Veracruzano de Desarrollo;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XIX. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz de Ignacio de la Llave;
+XII. Indicador de Desempeño: La observación o fórmula que integra información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad, respecto del logro o resultado de los objetivos de la política pública, de los Programas Presupuestarios y de las Actividades Institucionales de Dependencias y Entidades;
 
-XX. Presupuesto basado en Resultados: El instrumento de la Gestión por Resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen, sistemáticamente, consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XXI. Programa Presupuestario: La categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos cuya identificación corresponde a la solución de una problemática de carácter público, que de forma tangible y directa entrega bienes o presta servicios públicos a una población objetivo claramente identificada y localizada;
+XIII. Indicadores de Gestión: Los Indicadores de Desempeño que miden el avance y logro en procesos y actividades, es decir, la forma en que los bienes y servicios públicos son generados y entregados;
 
-XXII. Recursos Públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen las Unidades Presupuestales;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XXIII. Secretaría: La Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave;
+XIV. Indicadores Estratégicos: Los Indicadores de Desempeño que miden el grado de cumplimiento de los objetivos de las políticas públicas y de los Programas Presupuestarios, los cuales contribuyen a fortalecer o corregir las estrategias y la orientación de los recursos;
 
-XXIV. Sistema de Evaluación del Desempeño: El instrumento del proceso integral de planeación estratégica que permite evaluar el desempeño gubernamental en la ejecución de políticas y programas públicos, para mejorar la toma de decisiones;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-XXV. Unidades Presupuestales: Los Poderes Legislativo y Judicial, los Organismos Autónomos, las Dependencias y Entidades, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones; y
+XV. Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
 
-XXVI. Unidades Administrativas: Las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos públicos asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XVI. Matriz de Indicadores para Resultados: La herramienta de planeación estratégica que organiza los objetivos, indicadores y metas de un Programa Presupuestario y que de forma resumida y sencilla vincula los instrumentos de diseño, organización, ejecución, seguimiento, monitoreo, evaluación y mejora de los Programas Presupuestarios, como resultado de un proceso de programación realizado con base en la Metodología del Marco Lógico;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XVII. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XVIII. Metodología del Marco Lógico: La herramienta de planeación estratégica basada en la estructuración y solución de problemas que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causalidad; identificar los factores externos que pueden influir en el cumplimiento de los objetivos del Programa Presupuestario; proporcionar elementos para evaluar el avance en la consecución de dichos objetivos, y examinar el desempeño del Programa Presupuestario en todas sus etapas. Asimismo, facilita el proceso de conceptualización y diseño de Programas Presupuestarios, a través de la Matriz de Indicadores para Resultados;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XIX. Municipio o municipios: El o los municipios del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XX. Organismos Autónomos: Los señalados en el Capítulo V del Título Segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para efectos únicamente de este Código se incluirá también a la Universidad Veracruzana que es una Institución Autónoma de Educación Superior;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXI. OVH: Oficina Virtual de Hacienda;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXII. Plan: El Plan Veracruzano de Desarrollo;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXIII. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXIV. Presupuesto basado en Resultados: El instrumento de la Gestión por Resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen, sistemáticamente, consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXV. Programa Presupuestario: La categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos cuya identificación corresponde a la solución de una problemática de carácter público, que de forma tangible y directa entrega bienes o presta servicios públicos a una población objetivo claramente identificada y localizada;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXVI. Recursos Públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen las Unidades Presupuestales;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Secretaría: La Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Sistema de Evaluación del Desempeño: El instrumento del proceso integral de planeación estratégica que permite evaluar el desempeño gubernamental en la ejecución de políticas y programas públicos, para mejorar la toma de decisiones;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXIX. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privadas, y servidores públicos que posean un certificado electrónico con validez jurídica;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXX. Unidades Administrativas: Las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos públicos asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico o su equivalente; y
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XXXI. Unidades Presupuestales: Los Poderes Legislativo y Judicial, los Organismos Autónomos, las Dependencias y Entidades, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones.
 
 ###### Artículo 3.
 
@@ -165,13 +227,17 @@ I. Se privilegiará el principio de transparencia y máxima publicidad de la inf
 
 II. Los plazos fijados en días, meses o años se computarán como días naturales salvo disposición en contrario y con excepción de lo dispuesto en el Libro Segundo, relativo a las disposiciones de carácter tributario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 9 Bis.
 
-Para la celebración de contratos con proveedores registrados en el padrón de proveedores, éstos deberán presentar constancia de cumplimiento de obligaciones fiscales por contribuciones estatales y opinión de cumplimiento de obligaciones fiscales, la primera expedida por la Dirección General de Recaudación de la Secretaría de Finanzas y Planeación, y la segunda emitida por el Servicio de Administración Tributaria respecto de impuestos federales; las que deberán tener como máximo 30 días de haber sido expedidas, sin los cuales no será posible la celebración del contrato.
+Para la celebración de contratos o convenios con proveedores o contratistas, registrados en el padrón correspondiente, éstos deberán presentar constancia de cumplimiento de obligaciones fiscales por contribuciones estatales y opinión de cumplimiento de obligaciones fiscales, la primera expedida por la Dirección General de Recaudación de la Secretaría de Finanzas y Planeación, y la segunda emitida por el Servicio de Administración Tributaria respecto de impuestos federales; las que deberán tener como máximo 30 días de haber sido expedidas, sin las cuales no será posible la celebración del contrato o convenio.
+
+Los Poderes, las Dependencias y las Entidades de la administración pública y los Organismos Autónomos, deberán incluir en todo contrato o convenio que celebren con proveedores o contratistas, como condición indispensable para cualquier pago, la obligación a cargo de dichos proveedores o contratistas de presentar los documentos mencionados en el párrafo anterior, ante el Poder, la Dependencia, la Entidad o el Organismo Autónomo, con quien se esté contratando, en los términos ahí señalados.
+
+Para el caso de las devoluciones tramitadas en términos de los artículos 45 y 46 del presente Código, será requisito indispensable presentar la documentación a que se refiere el primer párrafo de este artículo, conjuntamente con la solicitud de devolución, en los mismos términos de dicho párrafo.
+
+Quedan exceptuados de lo establecido en los párrafos segundo y tercero de este artículo, los pagos menores a 65 salarios mínimos del área geográfica "A".
 
 # LIBRO SEGUNDO. DE LAS DISPOSICIONES DE CARÁCTER TRIBUTARIO
 
@@ -249,6 +315,22 @@ Los impuestos, derechos y aprovechamientos, se regirán por este Código y suple
 
 Los productos, las participaciones federales, las aportaciones federales, así como los demás ingresos federales transferidos, se regirán por las disposiciones estatales o federales y, en su caso, por los convenios respectivos.
 
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 19 Bis.
+
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales, definitivos y del ejercicio, no será deducible ni acreditable.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco estatal, así como a los valores de bienes u operaciones de que se traten, será 1.
+
+Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas, con el fin de determinar factores o proporciones, las mismas deberán calcularse hasta el diezmilésimo.
+
 ###### Artículo 20.
 
 Son autoridades fiscales del Estado:
@@ -298,6 +380,10 @@ Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispo
 El cobro de las contribuciones, productos o aprovechamientos se realizará en horario normal de las recaudadoras que autorice la Secretaría.
 
 La ampliación de horarios y autorización de días inhábiles para el pago de dichos ingresos, se publicará en el periódico de mayor circulación del Estado.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+En los casos en los que se paguen las contribuciones, productos o aprovechamientos, a través de la oficina Virtual de Hacienda, la red de cajeros automáticos de Veracruz, establecimientos mercantiles o instituciones bancarias autorizadas, éstas se considerarán efectivamente enteradas en el momento en que se tenga por autorizada la operación; salvo que se realice en días inhábiles, caso en el cual, se considerarán pagadas hasta el día hábil siguiente, para los efectos legales a que haya lugar.
 
 ###### Artículo 24.
 
@@ -395,9 +481,15 @@ XII. La persona moral que administre o los propietarios de los inmuebles afectos
 
 XIII. Los asociados, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por el asociante mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b) y c) de la fracción III de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el período o a la fecha de que se trate;
 
-XIV. Los servidores públicos, magistrados, jueces, secretarios de acuerdos, notarios públicos y corredores públicos que autoricen cualquier acto jurídico o autentiquen algún documento sin cerciorarse de que se han cubierto las contribuciones o aprovechamientos correspondientes u omitan cumplir las disposiciones fiscales estatales, y
+XIV. Los servidores públicos, magistrados, jueces, secretarios de acuerdos, notarios públicos y corredores públicos que autoricen cualquier acto jurídico o autentiquen algún documento sin cerciorarse de que se han cubierto las contribuciones o aprovechamientos correspondientes u omitan cumplir las disposiciones fiscales estatales, y (sic)
 
-XV. Las demás personas que señalen las Leyes.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XV. Los contadores públicos autorizados para emitir los dictámenes previstos en este código, respecto de las diferencias detectadas por las autoridades fiscales, que no hayan sido consignadas en el dictamen correspondiente; y
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+XVI. Las demás personas que señalen las Leyes.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas, lo que no impedirá que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
 
@@ -507,9 +599,9 @@ b) Si se trata de obligaciones derivadas de convenios, contratos o concesiones q
 
 c) Si las disposiciones fiscales no señalan la fecha de pago, éste deberá hacerse dentro de los quince días siguientes al nacimiento de la obligación fiscal.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-Los pagos se realizarán en días y horas hábiles. Si el último día del plazo de pago o fecha determinada para realizar éste fuera inhábil o se trate de día viernes, se prorrogará para el hábil siguiente.
+Los pagos se realizarán en días y horas hábiles, salvo que se ejecuten a través de la oficina Virtual de Hacienda, la red de cajeros automáticos de Veracruz, los establecimientos mercantiles o las instituciones bancarias autorizadas. Si el último día del plazo de pago o fecha determinada para realizar éste fuera inhábil o se trate de día viernes, se prorrogará para el hábil siguiente.
 
 Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Estado, se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días. Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
 
@@ -557,11 +649,15 @@ Los contribuyentes que se encuentren en cualesquiera de los supuestos mencionado
 
 En lo (sic) supuestos a que se refiere este artículo, las autoridades fiscales requerirán y harán exigible el saldo insoluto mediante el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 42.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo señalado en las disposiciones respectivas, se pagarán recargos por mora en concepto de indemnización al fisco estatal por falta de pago oportuno a la tasa que anualmente autorice el Congreso.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo señalados en las disposiciones respectivas, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además deberán pagarse recargos por mora en concepto de indemnización al fisco estatal por falta de pago oportuno a la tasa que anualmente autorice el Congreso.
 
-Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos por el periodo a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas o de los aprovechamientos actualizados por el periodo a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate.
 
 Los recargos se causarán sobre el total del crédito fiscal excluyendo los propios recargos, la indemnización por cheque no pagado a que se refiere el artículo siguiente, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -578,6 +674,10 @@ Obtenida la autorización para pagar a plazos, ya sea en forma diferida o en par
 En caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito fiscal, excluyendo los recargos, los gastos de ejecución y la indemnización a que se refiere el mismo numeral.
 
 Las autoridades fiscales no liberarán ni condonarán, total o parcialmente, el pago de las contribuciones y de los recargos correspondientes.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+En ningún caso se podrá liberar a los contribuyentes de la actualización de las contribuciones y de los aprovechamientos.
 
 ###### Artículo 43.
 
@@ -743,7 +843,9 @@ V. Embargo en la vía administrativa.
 
 VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría.
 
-La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y, en tanto no se cubra el crédito, se actualizará su importe cada año y se ampliará la garantía para que cubra el crédito y el importe de los recargos, incluyendo los correspondientes a los doce meses siguientes.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+La garantía comprenderá, además de las contribuciones actualizadas adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y, en tanto no se cubra el crédito, se actualizará su importe cada año y se ampliará la garantía para que cubra el crédito y el importe de los recargos, incluyendo los correspondientes a los doce meses siguientes.
 
 La Secretaría establecerá los requisitos que deberán reunir las garantías y vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
 
@@ -833,31 +935,51 @@ Las instancias o peticiones que se formulen a las autoridades fiscales se resolv
 
 En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, y dará lugar a la interposición de los recursos legales a que haya lugar cuando no se dé respuesta en el término que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital. Además de la firma autógrafa, electrónica o huella digital, las promociones deberán:
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital. Además de la firma autógrafa o huella digital las promociones deberán:
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 I. Señalar la autoridad a la que se dirige y el propósito de la promoción;
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 II. Precisar el nombre o, en su caso, denominación o razón social del interesado, Registro Federal de Contribuyentes y domicilio fiscal;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 III. En su caso, señalar el nombre del representante legal, su Registro Federal de Contribuyentes, su domicilio fiscal, así como exhibir el original de los documentos que acrediten su personalidad;
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 IV. Señalar el domicilio para oír y recibir notificaciones, así como la designación de las personas autorizadas para tales efectos;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 V. La dirección de correo electrónico para recibir notificaciones;
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 VI. Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 VII. Describir las actividades a las que se dedica el interesado;
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 VIII. Realizar una descripción de los hechos y razonamientos en los que sustente su solicitud, así como el monto de la operación u operaciones objeto de la promoción;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 IX. Anexar la documentación comprobatoria respecto de los hechos y razonamientos asentados, así como los de su legal estancia en el país cuando aplique;
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 X. Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medio de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XI. Indicar si el contribuyente se encuentra sujeto a las facultades de comprobación por parte de las autoridades fiscales estatales o federales, señalando los periodos y las contribuciones objeto de la revisión.
 
@@ -1088,6 +1210,14 @@ VI. No pagar en forma total o parcial, dentro de los plazos señalados por las l
 a) De 10 a 40 días de salario mínimo, cuando el monto del cheque sea inferior a $1,000.00.
 
 b) De 15 a 200 días de salario mínimo cuando el monto del cheque sea superior al señalado en el inciso anterior.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+VII. No presentar oportunamente el dictamen en materia de Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Impuesto por la Prestación de Servicios de Hospedaje; o Impuesto sobre Loterías, Rifas, Sorteos y Concursos, a que estén obligados los contribuyentes de conformidad con las disposiciones de este Código. Se aplicará una multa de 200 a 500 días de salario mínimo.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+VIII. No proporcionar a la autoridad la información solicitada en Medios Electrónicos. Se aplicará una multa de 15 a 100 días de salario mínimo
 
 ###### Artículo 74.
 
@@ -1425,6 +1555,10 @@ La base del impuesto es el monto total de las erogaciones realizadas por concept
 
 Este impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base que señala el artículo anterior.
 
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+En el supuesto de los Poderes a que hace mención la fracción XXIII, del artículo 2°, de este ordenamiento, así como en el caso de las Dependencias y Entidades de la administración pública estatal a que aluden las fracciones IV y VII del mismo, la tasa a que hace referencia este artículo, será del 3%. Lo recaudado en este caso queda exceptuado de lo señalado en los párrafos primero y segundo del artículo 105 de este Código.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
@@ -1553,11 +1687,13 @@ Tratándose de empresas de nueva creación, las personas morales y las personas 
 
 II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; y
 
-III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de contador público autorizado, en los términos y plazos del Código Fiscal de la Federación y de las demás disposiciones legales y tributarias aplicables, y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+IV. Proporcionar a las autoridades fiscales, la información a la que se encuentren obligados, a través de los medios autorizados por la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
 
@@ -1661,6 +1797,14 @@ V. Llevar y conservar los registros contables o administrativos exigidos por la 
 
 VI. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+VII. Dictaminar la determinación y pago del Impuesto por la Prestación de Servicios de Hospedaje por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; y
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+VIII. Proporcionar a las autoridades fiscales, la información a la que se encuentren obligados, a través de los medios autorizados por la Secretaría.
+
 > <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
 ###### Artículo 116.
@@ -1673,31 +1817,113 @@ No se considerará servicio de hospedaje el albergue o alojamiento prestado por 
 
 ### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 118.
 
-Es objeto del impuesto sobre loterías, rifas, sorteos y concursos la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos que celebren los organismos públicos descentralizados de la administración pública federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública. Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete o el equivalente en pesos al valor del cupón o boleto que permitió participar en loterías.
+Son objeto de este impuesto los ingresos provenientes de la realización o celebración, así como de la obtención de premios en efectivo o en especie, derivados de rifas, sorteos, loterías, apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas.
+
+El impuesto se causa al momento en que se efectúe la explotación de las actividades señaladas en el párrafo anterior, así como al instante del pago o entrega del premio.
+
+Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete o el equivalente en pesos al valor del cupón o boleto que permitió participar en la lotería, rifa o sorteo.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 119.
 
-Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos derivados de premios por loterías, rifas, sorteos y concursos cuyo billete, boleto o contraseña o cualquier comprobante que permita participar en los eventos, le haya sido pagado dentro del territorio del estado.
+Son sujetos de este impuesto, las personas físicas o morales, o unidades económicas sin personalidad jurídica, considerándose estas últimas dotadas de personalidad jurídica para los efectos de este impuesto:
+
+I. Que realicen o celebren rifas, sorteos, loterías, apuestas y concursos de cualquier índole, así como juegos con máquinas de sistemas, programas automatizados o computarizados, aun cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos; y
+
+II. Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 120.
 
-Es base de este impuesto los ingresos por los premios obtenidos por las personas físicas o morales, correspondientes a cada boleto o billete entero, sin deducción alguna, que den derecho a participar en loterías, rifas, sorteos y concursos efectuados por los organismos a que se refiere el artículo 118 de este Código.
+La base del impuesto se determinará conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+I. Para los sujetos señalados en la fracción I del artículo 119 de esta Ley, se considerará el valor total de la emisión de los boletos, billetes, contraseñas, documentos, objetos, registros o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquéllos no enajenados, no entregados o que no participen en la posibilidad de obtener premios;
+
+II. Para los sujetos de este impuesto que realicen las actividades señaladas en la fracción anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se haya vendido dentro del Estado; y
+
+III. Para los sujetos señalados en la fracción II del artículo 119 de esta Ley, se considerará el monto total del premio en efectivo, o el valor del bien en que consista el premio, determinado por el organizador del concurso de cualquier índole, sorteo, rifa, apuesta, lotería y juegos con máquinas de sistemas, programas automatizados o computarizados, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
+
+En el caso de juegos con máquinas de sistemas, programas automatizados o computarizados, serán los ingresos obtenidos provenientes de la participación en éstos.
+
+Tratándose de premios en especie, será el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
+
+El impuesto a que se refiere este Capítulo no se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en los eventos objeto de este impuesto.
+
+El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 121.
 
-El impuesto a que se refiere este capítulo, se determinará aplicando la tasa del 5.21% a la base establecida en el artículo anterior.
+Para efectos del cálculo para la determinación de este impuesto se estará a lo siguiente:
 
-El impuesto será retenido al momento de la entrega de los premios de que se trate por los organismos descentralizados a que se refiere el artículo 118 de este Código, quienes lo enterarán a la Secretaría dentro de los primeros 20 días del mes siguiente a aquel en que se hayan cobrado.
+I. Para los sujetos señalados en la fracción I del artículo 119, el impuesto se determinará aplicando la tasa del 3.5% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas, sorteos, concursos, apuestas y juegos con máquinas de sistemas, programas automatizados o computarizados.
 
-Para los efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados, formularán y proporcionarán a la Secretaría, liquidaciones mensuales en las que señalen los datos relativos a la identificación de premios pagados e impuestos retenidos en el territorio del Estado.
+Cuando en los supuestos anteriores el premio ofrecido se encuentre contenido de manera referenciada u oculta en bienes cuya adquisición otorgue el derecho a participar en dichas actividades, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en las mismas.
+
+Tratándose de igual manera de los supuesto referidos anteriormente en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en la actividad de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad; y
+
+II. Para los sujetos señalados en la fracción II del artículo 119, el impuesto se determinará aplicando la tasa del 5.21% a la base correspondiente.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 122.
 
-Se exceptúan del pago del impuesto a que se refiere este Capítulo por los ingresos que se obtengan por concepto de loterías rifas, sorteos y concursos, cuando el valor de cada premio no exceda de un día de salario mínimo.
+Los sujetos que realicen o exploten de manera habitual las actividades gravadas por este impuesto, deberán presentar su declaración y enterar el pago mensualmente los días diecisiete del mes inmediato posterior, siguiente al de su causación.
+
+Los sujetos que realicen o exploten de manera eventual las actividades gravadas en este impuesto, deberán presentar su declaración y enterar el pago dentro de los cinco días hábiles siguientes a la fecha en que se generó el acto, se realicen o celebren las actividades gravadas.
+
+Los sujetos a que se refiere la fracción I del artículo 119 de esta Ley, serán responsables de calcular y retener el impuesto al contribuyente, al momento de entregarle el premio o ingreso y, de enterarlo ante la autoridad fiscal por los conductos autorizados en este Código, dentro de los plazos establecidos en el primer y segundo párrafos de este artículo.
+
+En los casos de premios en especie, el contribuyente deberá proveer al retenedor el importe del impuesto previamente a la entrega del bien. Los retenedores son solidariamente responsables con los contribuyentes por el pago de este impuesto.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 122 Bis.
+
+Son obligaciones de los contribuyentes de este impuesto, a que se refiere la fracción I del artículo 119:
+
+I. Para los sujetos que exploten o realicen estas actividades habitualmente:
+
+a) Inscribirse en el Registro Estatal de Contribuyentes ante la oficina de Hacienda del Estado que le corresponda, dentro de los 30 días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría.
+
+La Secretaría podrá inscribir de oficio a los contribuyentes, cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
+
+b) Calcular y retener el impuesto que corresponda a los premios pagados, o entregados, y enterarlo a las autoridades fiscales correspondientes mediante las formas y conductos autorizados, y dentro de los plazos establecidos;
+
+c) Proporcionar al interesado la constancia de retenciones del impuesto causado;
+
+d) Presentar declaraciones mensualmente mediante las formas y conductos autorizados ante las autoridades fiscales correspondientes, en las que incluirán el impuesto retenido y, en su caso, el que corresponda por su propia actividad;
+
+e) Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda al principal establecimiento o casa matriz en el Estado;
+
+f) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda, en términos de Ley;
+
+g) Si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos;
+
+h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, a más tardar en el mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales; e
+
+i) Proporcionar a las autoridades fiscales, la información solicitada por éstas, a través de los medios autorizados por la Secretaría.
+
+II. Tratándose de sujetos eventuales tendrán las obligaciones señaladas en los incisos b), c), f), g) e i) de la fracción anterior.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 122 Ter.
+
+No se pagará este impuesto por la celebración de loterías, rifas, sorteos y concursos de cualquier índole, que lleven a cabo las dependencias del Gobierno Federal, de los Gobiernos de los Estados y de los municipios; así como los organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; así como las donatarias autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
+
+No obstante lo anterior, los citados entes, deberán cumplir con la obligación de retener y enterar el impuesto por los premios pagados o entregados.
+
+En ningún caso, se entenderán exentos del pago del impuesto, los premios obtenidos.
+
+Para los efectos de este impuesto, se consideran sujetos habituales las personas que realicen más de diez actividades objeto de este impuesto que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, durante un ejercicio fiscal.
 
 ### CAPÍTULO CUARTO. DEL IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES USADOS
 
@@ -1729,275 +1955,65 @@ a) El vehículo en cuestión circule con placas del Estado de Veracruz; o
 
 b) La documentación de pagos de otros impuestos o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante autoridades domiciliadas en el Estado.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 125.
 
-La base de este Impuesto será el modelo y categoría del vehículo de motor objeto del mismo.
+La base del impuesto será la que resulte de aplicar al valor total del vehículo, en términos de lo dispuesto por el artículo 136-A fracción II de este ordenamiento, el factor de la siguiente tabla de acuerdo al año de antigüedad de la unidad.
+
+Antigüedad Factor
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+Para los supuestos previstos en este artículo, en ningún caso el impuesto será menor a cuatro días de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente, tratándose de automóviles; y de dos días de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente, tratándose de motocicletas.
+
+En todo caso, los vehículos a que se refiere el inciso e) de la fracción I del Artículo 2-A de la Ley del Impuesto al Valor Agregado, pagarán dos salarios mínimos, independientemente de su antigüedad.
 
 ###### Artículo 126.
 
-El Impuesto que se causará en la adquisición de vehículos de motor usados, será el que resulte de aplicar la siguiente:
-
-TARIFA
-
-I. Vehículos Compactos:
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 12
-
-2 años 11
-
-3 años 10
-
-4 años 9
-
-5 años 8
-
-6 años 7
-
-7 años 6
-
-8 años 5
-
-9 años 4
-
-10 años 3
-
-De 10 años en adelante 2
-
-II. Vehículos Medianos:
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 15
-
-2 años 13
-
-3 años 11
-
-4 años 9
-
-5 años 8
-
-6 años 7
-
-7 años 6
-
-8 años 5
-
-9 años 4
-
-10 años 3
-
-De 10 años en adelante 2
-
-III. Vehículos Grandes:
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 20
-
-2 años 18
-
-3 años 16
-
-4 años 14
-
-5 años 12
-
-6 años 10
-
-7 años 8
-
-8 años 7
-
-9 años 6
-
-10 años 5
-
-De 10 años en adelante 4
-
-IV. Vehículos destinados al Transporte de más 10 persona (sic) o efectos (carga):
-
-a) Categoría A
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 20
-
-2 años 18
-
-3 años 16
-
-4 años 14
-
-5 años 12
-
-6 años 10
-
-7 años 8
-
-8 años 7
-
-9 años 6
-
-10 años 5
-
-De 10 años en adelante 4
-
-b) Categoría B
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 20
-
-2 años 19
-
-3 años 18
-
-4 años 17
-
-5 años 16
-
-6 años 15
-
-7 años 14
-
-8 años 13
-
-9 años 12
-
-10 años 11
-
-De 10 años en adelante 10
-
-c) Categoría C
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 25
-
-2 años 23
-
-3 años 21
-
-4 años 19
-
-5 años 17
-
-6 años 16
-
-7 años 15
-
-8 años 14
-
-9 años 13
-
-10 años 12
-
-De 10 años en adelante 10
-
-V. Motocicletas Chicas hasta de 250 C.C.:
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 10
-
-2 años 9
-
-3 años 8
-
-4 años 7
-
-5 años 6
-
-6 años 5
-
-7 años 4
-
-8 años 3
-
-9 años 2
-
-10 años 1
-
-De 10 años en adelante 1
-
-VI. Motocicletas Medianas más de 250 hasta 500 C.C.:
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 12
-
-2 años 11
-
-3 años 10
-
-4 años 9
-
-5 años 8
-
-6 años 7
-
-7 años 6
-
-8 años 5
-
-9 años 4
-
-10 años 3
-
-De 10 años en adelante 2
-
-VII. Motocicletas Grandes más de 500 C.C.:
-
-Antigüedad Salarios Mínimos aplicables
-
-Hasta 1 año 15
-
-2 años 14
-
-3 años 13
-
-4 años 12
-
-5 años 11
-
-6 años 10
-
-7 años 9
-
-8 años 8
-
-9 años 7
-
-10 años 6
-
-De 10 años en adelante 5
+(DEROGADO, G.O. 16 DE DICIEMBRE DE 2013)
 
 ###### Artículo 127.
 
-Para los efectos de aplicación de este Impuesto se consideran:
+(DEROGADO, G.O. 16 DE DICIEMBRE DE 2013)
 
-a) Tipos de Vehículo:
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
-I. Vehículos Compactos: Todos los automóviles que cuenten con 4 cilindros o menos.
+###### Artículo 127 Bis.
 
-II. Vehículos Medianos: Todos los automóviles que cuenten con 6 cilindros.
+La tasa del impuesto es el 2% sobre la base indicada en el artículo 125.
 
-III. Vehículos Grandes: Todos los automóviles que cuenten con 8 cilindros o más.
-
-b) Categorías:
-
-I. Categoría A: Camiones Pick-Up, Estacas, Plataformas, Panel, Hormiga, cualesquiera que sea su Marca, cuyo peso vehicular sea hasta 8,000 kg y demás equiparables.
-
-II. Categoría B: Camiones de cualesquiera que sea su Marca y tipo cuyo peso vehicular sea mayor de 8,000 kg y demás equiparables.
-
-III. Categoría C: Tractocamiones (tractores 5ª rueda), microbuses, ómnibus y demás vehículos para el transporte de más de 10 pasajeros, de cualquier tipo y Marca y demás equiparables.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 128.
 
-Los sujetos de este Impuesto están obligados a exhibir ante las Oficinas recaudadoras correspondientes, el documento original, con una copia del mismo, que ampare la propiedad del vehículo objeto de la adquisición, debiendo efectuar el pago de Impuesto dentro de los quince días siguientes a la adquisición del mismo.
+Los sujetos de este impuesto están obligados a exhibir ante la Oficina de Hacienda del Estado correspondiente, el documento original, con una copia del mismo, que ampare la propiedad del vehículo objeto de la adquisición, debiendo efectuar el pago del impuesto dentro de los cinco días siguientes a la adquisición del mismo a través de los medios autorizados por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 128 Bis.
+
+Los vehículos con antigüedad igual o mayor de diez años:
+
+I. Pagarán el equivalente a dos días de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente;
+
+II. Pagarán el equivalente a un día de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente, tratándose de motocicletas.
 
 ###### Artículo 129.
 
@@ -5328,3 +5344,13 @@ G.O. 26 DE AGOSTO DE 2013.
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. La Secretaría emitirá los lineamientos respecto al Sistema de Evaluación para el Desempeño a que hace referencia el artículo 289 Bis del Código Financiero en un plazo de 90 días después de la publicación del presente Decreto.
+
+G.O. 16 DE DICIEMBRE DE 2013.
+
+Primero. El presente Decreto entrará en vigor el primero de enero de 2014, previa publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios, prevista en la presente reforma, se calculará a partir del ejercicio fiscal 2014, aun cuando el hecho impositivo se hubiere producido con anterioridad a dicho ejercicio.
+
+Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
+
+Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.
