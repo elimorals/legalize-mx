@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-las-unidades-de-apoyo-al-gobernador-5017
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-03-27"
+last_updated: "2013-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO AL GOBERNADOR
 
-REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO AL GOBERNADOR
+REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO AL GOBERNADOR DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LAS UNIDADES DE APOYO AL GOBERNADOR, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -580,3 +582,13 @@ Dado en la residencia oficial del Poder Ejecutivo del Estado de Hidalgo, en la c
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento Interior de las Unidades de Apoyo al Gobernador, publicado en el Periódico Oficial del Estado de Hidalgo el 27 de Marzo del año 2006.
+
+TERCERO. En tanto no se expidan los manuales de organización, de procedimientos y de servicios al público, el Gobernador estará facultado para resolver lo que dichos manuales deben regular.
