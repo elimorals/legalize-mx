@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2013-01-17"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -457,9 +455,11 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación, correspondiente al día en que se efectuó la transacción.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Se aceptarán como medio de pago los cheques certificados o de caja, los giros postales o telegráficos y la transferencia electrónica de fondos a favor de la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas; las tarjetas de crédito y de débito únicamente se aceptarán como medios de pago en los casos que establece el Reglamento de este Código.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Se aceptarán como medio de pago de las contribuciones y aprovechamientos, los cheques certificados o de caja, los giros postales o telegráficos y la transferencia electrónica de fondos a favor de la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, así como las tarjetas bancarias de crédito y de débito en los términos del Reglamento de este Código.
 
 Los pagos que se hagan se aplicarán a los créditos fiscales más antiguos, siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -3446,3 +3446,13 @@ Este porcentaje será distribuido en proporción a la recaudación que se obteng
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2014, con excepción del artículo 9 Bis de la Ley de Coordinación Fiscal del Estado de Tamaulipas adicionado en este Decreto, que entrará en vigor el 1° de enero de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
