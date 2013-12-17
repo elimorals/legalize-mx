@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2011-12-20"
+last_updated: "2013-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -63,7 +63,11 @@ Para los efectos de esta ley se entenderá por:
 
 I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo;
 
-II.- Agencia o subagencia: Establecimiento dedicado al expendio y distribución de cerveza al mayoreo. Sus instalaciones e infraestructura deberán ser acordes con su objeto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+II.- Agencia o subagencia: Establecimiento dedicado al expendio y distribución de cerveza al mayoreo. Sus instalaciones e infraestructura deberán ser acordes con su objeto, debiendo contar con vehículos o camiones debidamente identificados mediante los cuales distribuyan su producto a los establecimientos respectivos;
 
 III.- Almacén: Lugar donde se guardan o custodian bebidas alcohólicas en los negocios autorizados;
 
@@ -113,7 +117,11 @@ XXIV.- Discoteca: Establecimiento donde se enajenan bebidas alcohólicas, para s
 
 XXV.- Distribución: El traslado a domicilio de bebidas alcohólicas, una vez realizada la enajenación por la distribuidora;
 
-XXVI.- Distribuidora: Establecimiento en el que se almacenan bebidas alcohólicas para su enajenación al público, en envase cerrado, mediante pedido al mayoreo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXVI.- Distribuidora: Establecimiento en el que se almacenan bebidas alcohólicas para su enajenación al público en envase cerrado, mediante pedido al mayoreo y deberá contar con las instalaciones e infraestructura acorde a su actividad, así como vehículos debidamente identificados para distribuir el producto;
 
 XXVII.- Enajenación: Acto mediante el cual una persona transmite a otra, una cosa o un derecho;
 
@@ -123,7 +131,11 @@ XXIX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohó
 
 XXX.- Establecimiento: Lugar destinado para la enajenación, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
-XXXI.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para llevar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXXI.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para su posterior consumo en lugar distinto a este;
 
 XXXII.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
 
@@ -141,9 +153,17 @@ XXXVIII.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto 
 
 XXXIX.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
 
-XL.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLI.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, y en su interior cuenta con una área donde solo se expenden bebidas alcohólicas, que además podrá contar con pista de baile para su clientela;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XL.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XLI.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación;
 
 XLII.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para la diversión de los asistentes y por enajenar bebidas alcohólicas en envase abierto y al copeo, para su consumo en el interior del mismo lugar, durante los eventos;
 
@@ -171,13 +191,21 @@ XLIX.- Visitador: Servidor Público que se le ordena practicar visitas domicilia
 
 Para los efectos de esta ley se considera que la actividad se realiza de manera complementaria cuando el importe de la enajenación por concepto de bebidas alcohólicas no exceda del 40% del total de las enajenaciones efectuadas en un mes de calendario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 6o.
 
-En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciales, distribuidoras, expendios o depósitos, licorerías, minisuper, y supermercados, la enajenación o distribución de bebidas alcohólicas solo podrá efectuarse en envase cerrado.
+En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciales, distribuidoras, expendios o depósitos, licorerías, minisúper y supermercados, la enajenación o distribución de bebidas alcohólicas sólo podrá efectuarse en envase cerrado y para su posterior consumo en lugar distinto a éstos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 7o.
 
-En los bares, billares o boliches, cantinas o tabernas, cabaret o centros nocturnos, casinos, círculos o clubes sociales, cafés cantantes, centros recreativos y deportivos o clubes, centros de espectáculos públicos autorizados, cervecerías, coctelerías, discotecas, fondas, loncherías, taquerías, cenadurías; comedores y similares, inmuebles construidos o habilitados para ferias, restaurantes, restaurantes bar y, salones de recepciones, la enajenación de bebidas alcohólicas solo podrá efectuarse en envase abierto o al copeo.
+En los bares, billares o boliches, cantinas o tabernas, cabaret o centros nocturnos, casinos, círculos o clubes sociales, cafés cantantes, centros recreativos y deportivos o clubes, centros de espectáculos públicos autorizados, cervecerías, coctelerías, discotecas, fondas, loncherías, taquerías, cenadurías; comedores y similares, inmuebles construidos o habilitados para ferias, restaurantes, restaurantes bar y salones de recepciones, la enajenación de bebidas alcohólicas sólo podrá efectuarse en envase abierto o al copeo y para su consumo en el interior del establecimiento.
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
@@ -295,7 +323,11 @@ IV.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, 
 
 V.- Impedir escándalos en los establecimientos, recurriendo, para evitarlos, a la fuerza pública. Cuando tenga conocimiento o encuentre alguna persona armada o que use o posea, dentro del local, estupefacientes o cualquier otra droga enervante, deberá denunciarlo a la autoridad competente;
 
-VI.- Enajenar únicamente bebidas alcohólicas que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+VI.- Enajenar únicamente bebidas alcohólicas que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos, conservando en los establecimientos, y poniéndolos a disposición de la autoridad, los comprobantes del origen de las bebidas alcohólicas que enajenan;
 
 VII.- Observar los requisitos de funcionamiento de salubridad e higiene que establezcan las leyes y reglamentos respectivos;
 
@@ -334,6 +366,10 @@ III.- Los que hubieren tenido licencia o permiso y hayan cedido los derechos del
 IV.- Quienes en los tres años anteriores a la fecha de su solicitud hubieren sido sancionados con la cancelación de una licencia; y
 
 V.- Reincidentes en la infracción de disposiciones sobre la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO IV. DE LOS DIAS Y HORARIOS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
@@ -378,6 +414,14 @@ IX.- Los salones de recepciones, de lunes a sábado de las diez a las cuatro hor
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 En los días 15 de septiembre, 24 y 31 de diciembre se podrá optar por observar el horario aplicable a sábado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 19 BIS.- La distribución de bebidas alcohólicas enajenadas por los establecimientos previstos en la fracción II del artículo anterior, se realizará en un horario que comprende de lunes a domingo de las 7:00 a las 22:00 horas.
+
+La presente disposición contempla exclusivamente el horario de distribución de bebidas alcohólicas, por lo que se prohíbe su enajenación fuera del horario estipulado en la presente ley.
 
 ###### ARTICULO 20.
 
@@ -819,7 +863,11 @@ d).- A quienes no conserven en el establecimiento los comprobantes de pago de lo
 
 II.- Con multa de ciento cincuenta y uno a trescientos días de salario mínimo vigente en la capital del Estado y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
-a).- A quienes no presenten el original de la licencia o permiso de funcionamiento y demás documentos que esta ley exige, cuando lo requiera la autoridad competente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+a).- A quienes no conserven, mantengan y presenten el original de la licencia o permiso de funcionamiento y demás documentos que esta ley exige, cuando lo requiera la autoridad competente;
 
 b).- A los que no cumplan con los requisitos establecidos en el artículo 13 de esta ley;
 
@@ -1028,3 +1076,15 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2014, con excepción del artículo 9 Bis de la Ley de Coordinación Fiscal del Estado de Tamaulipas adicionado en este Decreto, que entrará en vigor el 1° de enero de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
