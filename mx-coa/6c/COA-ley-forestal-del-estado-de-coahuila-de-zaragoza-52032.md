@@ -4,7 +4,7 @@ identifier: "COA-ley-forestal-del-estado-de-coahuila-de-zaragoza-52032"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-03"
-last_updated: "2008-06-06"
+last_updated: "2013-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY FORESTAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de octubre de 2006.
 
@@ -49,9 +49,11 @@ La presente ley es reglamentaria del artículo 172 de la Constitución Política
 
 El diseño, la interpretación y la aplicación de los actos o normas en materia forestal, deberán ajustarse a los principios, normas y valores del estado humanista, social y democrático de derecho que establece la Constitución Política del Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 3.
 
-Esta ley tiene por objeto regular y fomentar la conservación, protección, restauración, producción, ordenación, desarrollo, cultivo, manejo y aprovechamiento sustentable de los ecosistemas forestales del Estado de Coahuila y de sus municipios, así como distribuir las competencias que en materia forestal les correspondan.
+Esta ley tiene por objeto propiciar en la sociedad la cultura forestal, regular y fomentar la conservación, protección, restauración, producción, ordenación, cultivo, manejo, así como desarrollo tecnológico, la investigación forestal y el aprovechamiento sustentable de los ecosistemas forestales del Estado de Coahuila y de sus municipios, así como distribuir las competencias que en materia forestal les correspondan.
 
 ###### Artículo 4.
 
@@ -105,9 +107,25 @@ XXIII. Promover la creación, administración y funcionamiento de áreas natural
 
 XXIV. Promover la capacitación para el manejo forestal sustentable;
 
-XXV. Contribuir al funcionamiento y efectividad del sistema integral forestal nacional, regional, estatal y municipal, y
+XXV. Contribuir al funcionamiento y efectividad del sistema integral forestal nacional, regional, estatal y municipal, y (sic)
 
 XXVI. Impulsar la regulación en materia de impacto ambiental relacionada con la actividad forestal.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXVII. Impulsar el desarrollo de (sic) sector forestal del Estado, mediante el manejo adecuado de los recursos forestales, incluyendo las cuencas y ecosistemas hidrológico-forestales, sin perjuicio de lo establecido en la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXVIII. Asegurar el mejoramiento de la calidad de vida de los coahuilenses, a través de la aplicación de la silvicultura en los aprovechamientos de los recursos forestales en forma sustentable;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXIX. Promover los bienes y servicios ambientales para contribuir a la fijación de carbono, la protección y conservación de los recursos hídricos y mantener la biodiversidad y belleza escénica de los ecosistemas forestales, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXX. Dotar de mecanismos de coordinación y cooperación a las instituciones Estatales y Municipales del sector forestal, así como con otras instancias afines para la vigilancia, conservación y regulación del aprovechamiento y uso de los recursos forestales.
 
 ###### Artículo 5.
 
@@ -1161,10 +1179,14 @@ DR. HÉCTOR FRANCO LÓPEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JUNIO DE 2008.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
