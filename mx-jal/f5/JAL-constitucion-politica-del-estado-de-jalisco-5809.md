@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2013-12-03"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -217,7 +217,9 @@ Son prerrogativas de los ciudadanos jaliscienses:
 
 I. Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum;
 
-II. Ser votado en toda elección popular, siempre que el individuo reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no esté comprendido en alguna de las causas de incapacidad establecidas por las mismas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+II. Ser votado en toda elección popular, siempre que el individuo reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no esté comprendido en alguna de las causas de incapacidad establecidas por las mismas. El derecho de solicitar el registro de candidatos ante la autoridad electoral correspondiente a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
 
 III. Desempeñar preferentemente cualquier empleo del Estado, cuando el individuo tenga las condiciones que la ley exija para cada caso; y
 
@@ -421,9 +423,9 @@ Los partidos políticos son entidades de interés público. Tienen como finalida
 
 Para el ejercicio de sus derechos político-electorales, sólo los ciudadanos jaliscienses podrán organizarse y afiliarse libre e individualmente a partidos políticos, en los términos previstos por esta Constitución y la ley de la materia. Por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos, y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-Sólo los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2.°, apartado A, fracciones III y VII, de la Constitución Política de los Estados Unidos Mexicanos.
+Los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2.°, apartado A, fracciones III y VII, de la Constitución Política de los Estados Unidos Mexicanos. Los ciudadanos de manera independiente podrán postularse como candidatos a cargos de elección popular, en los términos y bajo las condiciones que establezca la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -513,7 +515,9 @@ Los órganos del poder público del Estado proveerán las condiciones para el ej
 
 I. Las autoridades estatales y municipales colaborarán con la familia para su fortalecimiento, adoptarán y promoverán medidas que propicien el desarrollo integral de la población infantil; fomentarán la participación de la juventud en actividades sociales, políticas y culturales; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población;
 
-II. Se establecerá un sistema que coordine las acciones de apoyo e integración social de las personas de edad avanzada para facilitarles una vida digna, decorosa y creativa; y se promoverá el tratamiento, rehabilitación e integración a la vida productiva de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+II. Se establecerá un sistema que coordine las acciones de apoyo e integración social de los adultos mayores para facilitarles una vida digna, decorosa y creativa, y se promoverá el tratamiento, rehabilitación e integración a la vida productiva de las personas con discapacidad;
 
 III. (DEROGADA, P.O. 29 DE ABRIL DE 2004)
 
@@ -535,13 +539,17 @@ La ley establecerá los criterios para la instrumentación, control y evaluació
 
 VII. Las autoridades estatales y municipales para la preservación de los derechos a que alude el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, velarán por la utilización sustentable de todos los recursos naturales con el fin de conservar y restaurar el medio ambiente.
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal, deberán publicar mensualmente en forma pormenorizada sus estados financieros.
+VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal deberán publicar mensualmente, en forma pormenorizada, sus estados financieros;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-IX. Las autoridades estatales y municipales promoverán y garantizarán la transparencia y el derecho a la información pública en el ámbito de su competencia.
+IX. Las autoridades estatales y municipales promoverán y garantizarán la transparencia y el derecho a la información pública, en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía.
 
 La ley regulará el ejercicio del derecho a la información pública y el procedimiento para hacerlo efectivo; las obligaciones por parte de los sujetos de aplicación de la ley respecto a la transparencia y el derecho a la información pública, así como las sanciones por su incumplimiento.
 
@@ -3076,3 +3084,15 @@ P.O. 20 DE MARZO DE 2013.
 P.O. 3 DE DICIEMBRE DE 2013.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 24443/LX/13, POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, previo cómputo y declaración de votación mayoritaria de los ayuntamientos, en los términos del artículo 117 de la Constitución Política del Estado de Jalisco.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 24457/LX/13, POR EL QUE SE REFORMAN LOS ARTÍCULOS 8° Y 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
+
+PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
