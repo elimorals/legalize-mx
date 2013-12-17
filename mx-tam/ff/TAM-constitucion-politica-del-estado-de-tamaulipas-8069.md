@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2013-09-18"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -107,13 +107,53 @@ Son derechos de los ciudadanos tamaulipecos:
 
 I. Sufragar en todas las elecciones de autoridades del Estado y de su respectiva Municipalidad.
 
-II. Poder ser electos para todos los cargos públicos, siempre que reúnan las condiciones que en cada caso exija la ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 III. Ser nombrado para cualquier empleo o comisión oficiales, en la forma y términos que prescriben las leyes, con preferencia en igualdad de circunstancias a los que no fueren tamaulipecos.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-IV. Reunirse para tratar y discutir los negocios públicos, y participar en los procesos de referéndum, plebiscito, iniciativa popular, y demás procedimientos de consulta ciudadana que la ley establezca; y
+IV. Reunirse para tratar y discutir los negocios públicos, y participar en los procesos de referéndum, plebiscito, iniciativa popular, y demás procedimientos de consulta ciudadana que la ley establezca.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Las consultas populares sobre temas de trascendencia estatal serán convocadas por el Congreso del Estado a petición de:
+
+a) El Gobernador del Estado;
+
+b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado; o
+
+c) Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Con excepción de la hipótesis prevista en el inciso c) del párrafo anterior, la petición deberá ser aprobada por la mayoría del Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo, así como para las autoridades competentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por el orden jurídico mexicano; los principios consagrados en el artículo 21 de esta Constitución; la materia electoral; los ingresos y gastos del Estado; la seguridad del Estado y la organización, funcionamiento y disciplina de las instituciones de seguridad pública. El Pleno del Supremo Tribunal de Justicia resolverá, previo a la convocatoria que realice el Congreso del Estado, sobre la constitucionalidad de la materia de la consulta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+El Instituto Electoral de Tamaulipas tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c), del párrafo segundo de esta fracción, así como la organización, desarrollo, cómputo y declaración de resultados de la consulta popular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+La consulta popular se realizará el mismo día de la jornada electoral para elegir a los integrantes del Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Las leyes garantizarán que las consultas populares sean libres, auténticas y democráticas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Las resoluciones del Instituto Electoral de Tamaulipas podrán ser impugnadas en los términos de lo dispuesto en las fracciones III y IV del artículo 20 de esta Constitución y las leyes aplicables; y
 
 V. Ejercer en materias políticas el derecho de petición.
 
@@ -121,7 +161,9 @@ V. Ejercer en materias políticas el derecho de petición.
 
 Son obligaciones de los ciudadanos del Estado:
 
-I. Votar en las elecciones populares en la forma que disponga la ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+I. Votar en las elecciones y en las consultas populares, en los términos que señale la ley;
 
 II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima.
 
@@ -339,9 +381,13 @@ La soberanía del Estado reside en el pueblo y éste la ejerce a través del Pod
 
 Las elecciones de Gobernador, de los Diputados y de los integrantes de los Ayuntamientos del Estado se realizarán el primer domingo de julio del año que corresponda, mediante sufragio universal, libre, secreto y directo; éstas serán libres, auténticas y periódicas, y se desarrollarán conforme a las siguientes bases:
 
-I. De los Partidos Políticos.- Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-Apartado A.- La ley determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento. Los partidos políticos deberán rendir informes financieros mismos que serán públicos.
+I. De los Partidos Políticos y de los candidatos independientes.- Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Apartado A.- La ley determinará las formas específicas de participación de los partidos políticos y de los candidatos independientes en los procesos electorales, sus derechos, prerrogativas, reglas de financiamiento y fiscalización. Tanto los partidos políticos, como los candidatos independientes deberán rendir informes financieros mismos que serán públicos.
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen las leyes respectivas.
 
@@ -357,25 +403,49 @@ b) El financiamiento público para las actividades tendientes a la obtención de
 
 c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al cinco por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta y cinco por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el sesenta y cinco por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior.
 
-Apartado C.- La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-Asimismo, la legislación electoral fijará las reglas para las precampañas y las campañas electorales de los partidos políticos, y las sanciones para quienes las infrinjan. La duración de las campañas no deberá exceder de noventa días para la elección de gobernador, ni de sesenta días cuando sólo se elijan diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+Apartado C.- La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de los candidatos independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador.
+
+Asimismo, la legislación electoral fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y los candidatos independientes, y las sanciones para quienes las infrinjan. La duración de las campañas no deberá exceder de noventa días para la elección de gobernador, ni de sesenta días cuando sólo se elijan diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 Apartado D.- La ley establecerá el procedimiento para la liquidación de los partidos políticos locales, las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
 
 Apartado E.- Los partidos políticos accederán a las prerrogativas de radio y televisión, conforme lo establecido en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, en la ley electoral federal que reglamenta lo relativo a dicha disposición constitucional y conforme a lo que disponga la legislación electoral local en su ámbito de competencia.
 
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Los candidatos independientes accederán a las prerrogativas de radio y televisión en los términos que establece la legislación en la materia. Sólo gozarán de este derecho durante las campañas electorales.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Los partidos políticos, sus candidatos y los candidatos independientes en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA EN LA REFORMA ANTERIOR EN EL PÁRRAFO TERCERO, SIN EMBARGO, DEL ANÁLISIS DEL DECRETO No. LXII-32 DE FECHA 17 DE DICIEMBRE DE 2013, SE ADVIERTE QUE PASÓ A SER UN NUEVO CUARTO PÁRRAFO.</small>
 
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
 
-En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+En la propaganda política o electoral que difundan los partidos políticos, sus candidatos y los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA EN LA REFORMA ANTERIOR EN EL PÁRRAFO QUINTO, SIN EMBARGO, DEL ANÁLISIS DEL DECRETO No. LXII-32 DE FECHA 17 DE DICIEMBRE DE 2013, SE ADVIERTE QUE PASÓ A SER UN NUEVO SEXTO PÁRRAFO.</small>
 
 Durante el tiempo que comprendan las campañas electorales, y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-Apartado F.- La ley preverá los procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos políticos y establecerá las sanciones por el incumplimiento a las disposiciones en esta materia.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Apartado F.- La ley preverá los procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos políticos y los candidatos independientes y establecerá las sanciones por el incumplimiento a las disposiciones en esta materia.
 
 Apartado G.- Conforme a las reglas que para tal efecto se establezcan en la ley, los partidos políticos no podrán proponer a más del 60% de candidatos de un mismo género.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Apartado H.- Los ciudadanos que soliciten su registro como candidatos de manera independiente participarán en los procesos electorales del Estado en condiciones generales de igualdad.
+
+Los candidatos independientes estarán representados ante la autoridad electoral de la elección en que participen y ante las mesas directivas de casilla correspondientes.
+
+Ninguna persona podrá ser registrada como candidato independiente a más de un cargo de elección popular en el mismo proceso electoral.
 
 II. De la Autoridad Administrativa Electoral.- La organización de las elecciones, es una función estatal que se realiza a través de un Organismo Público Autónomo; de los partidos políticos y de los ciudadanos, según lo disponga la Ley.
 
@@ -937,7 +1007,9 @@ XXIX. Conocer y resolver sobre las solicitudes de licencia que le sean presentad
 
 XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
 
-XXXI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXXI.- Para legislar sobre mecanismos de participación ciudadana;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1175,9 +1247,13 @@ III. Al Supremo Tribunal de Justicia.
 
 IV. A los Ayuntamientos.
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-V.- A todos los ciudadanos, por conducto de sus Diputaciones; la iniciativa popular deberá plantearse conforme a la ley.
+V.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+La Ley del Congreso determinará el trámite que deba darse a las iniciativas.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -4136,3 +4212,13 @@ El Congreso del Estado realizará las adecuaciones pertinentes a la legislación
 ###### ARTÍCULO TERCERO.
 
 Tratándose del último año de ejercicio constitucional del Ejecutivo del Estado, deberán adoptarse las previsiones de tiempo necesarias a efecto de que durante el mes de septiembre se lleven a cabo la entrega del informe y las comparecencias de los titulares de las dependencias, que en su caso se acuerden.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La LXII Legislatura del Congreso del Estado de Tamaulipas deberá realizar las adecuaciones necesarias a la legislación secundaria, durante el Segundo Periodo del Primer Año de Ejercicio Constitucional.
