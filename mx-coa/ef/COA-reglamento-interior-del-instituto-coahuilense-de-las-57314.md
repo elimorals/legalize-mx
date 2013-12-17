@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-coahuilense-de-las-57314"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-28"
-last_updated: "2007-09-28"
+last_updated: "2013-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 28 de septiembre de 2007.
 
@@ -140,3 +142,13 @@ EL SECRETARIO TÉCNICO DEL CONSEJO DIRECTIVO Y DIRECTOR GENERAL DEL INSTITUTO
 FRANCISCO JOSÉ MADERO GONZÁLEZ
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+Primero.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior del Instituto Coahuilense de las Personas Adultas mayores, aprobado por el Consejo Directivo en la sesión ordinaria de fecha 30 de agosto del 2006 y publicado en el Periódico Oficial del Gobierno del Estado N° 78, de fecha 28 de septiembre de 2007.
+
+Tercero.- El presente reglamento fue aprobado por el Consejo Directivo del Instituto de las Personas Adultas Mayores, en la sesión ordinaria de fecha 23 de agosto de 2013.
