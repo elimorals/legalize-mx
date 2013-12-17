@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-01-17"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO LXI-590 PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -139,11 +137,19 @@ II.- El 100 por ciento de los recursos provenientes del Fondo de Fomento Municip
 
 III.- El 20 por ciento como mínimo, de las cantidades que el Estado reciba por concepto de participaciones por el Impuesto Especial sobre Producción y Servicios, de acuerdo a la Ley de Coordinación Fiscal Federal;
 
-IV. El 20 por ciento como mínimo, de los recursos provenientes del Fondo de Fiscalización;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+IV. El 20 por ciento como mínimo, de los recursos provenientes del Fondo de Fiscalización y Recaudación;
 
 V. El 20 por ciento como mínimo, derivado de los recursos que reciba la entidad por concepto del Fondo de Extracción de Hidrocarburos;
 
-VI. El 20 por ciento como mínimo, de los 9/11 que el Estado perciba por concepto de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude en su territorio;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+VI. El 20 por ciento como mínimo, de los 9/11 que el Estado perciba por concepto de la Cuota a la Venta Final de Gasolinas y Diesel;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -277,6 +283,12 @@ La Secretaría de Finanzas enviará dicha información al Comité de Vigilancia 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 9 BIS.- Adicionalmente, el Estado participará a los Municipios, Organismos Autónomos, Entidades Paraestatales y Paramunicipales el 100% de la recaudación que se obtenga del Impuesto sobre la Renta correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el Municipio, Organismos Autónomos, Entidades Paraestatales y Paramunicipales, siempre que el salario hubiese sido efectivamente pagado con cargo a sus participaciones u otros ingresos locales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 10.
@@ -365,11 +377,11 @@ Los recursos de este Fondo se destinarán exclusivamente al financiamiento de ob
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 20.
 
-La Secretaría de Desarrollo Social del Gobierno del Estado calculará y determinará la masa carencial municipal para la distribución de los recursos que corresponden a cada Municipio de la Entidad, y enviará dicha información a la Secretaría de Finanzas a más tardar el último día del mes de enero del año correspondiente.
+La Secretaría de Desarrollo Social del Gobierno del Estado calculará y determinará el factor para la distribución de los recursos que corresponden a cada Municipio de la Entidad, en base a las estadísticas de carencias de la población en pobreza extrema y enviará dicha información a la Secretaría de Finanzas a más tardar el último día del mes de enero del año correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -389,11 +401,11 @@ Los recursos correspondientes a este Fondo se distribuirán en proporción direc
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
-Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Igualmente, podrán destinarse al pago de derechos y aprovechamientos por concepto de agua, conforme a la Ley de Coordinación Fiscal Federal.
+Los recursos de este Fondo se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Igualmente, podrán destinarse al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, a la modernización de los sistemas de recaudación locales y mantenimiento de infraestructura, conforme a la Ley de Coordinación Fiscal Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -503,7 +515,7 @@ Cuando un Municipio no cumpla con lo señalado en algún Convenio de Colaboraci�
 
 En caso de que el incumplimiento sea por parte del Gobierno del Estado o entre los municipios, el Municipio afectado podrá presentar su inconformidad al Congreso, el cual deberá emitir resolución dentro de los 30 días naturales siguientes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO SEXTO. DE LAS GARANTIAS O FUENTE DE PAGO
 
@@ -537,7 +549,7 @@ Las obligaciones de los municipios a que se refiere el segundo párrafo de este 
 
 Los Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LA COMISIÓN DE FUNCIONARIOS DE LA HACIENDA PÚBLICA DE TAMAULIPAS
 
@@ -711,7 +723,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 30 DE ABRIL DE 2009.
 
-DECRETO No. LX-565, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 23 Y 24 DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-565, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 23 Y 24 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -719,7 +731,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 P.O. 30 DE ABRIL DE 2009.
 
-DECRETO No. LX-566, POR EL QUE SE ADICIONAN LOS ARTICULOS 21 Y 23 DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-566, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 21 Y 23 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -790,3 +802,15 @@ Este porcentaje será distribuido en proporción a la recaudación que se obteng
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2014, con excepción del artículo 9 Bis de la Ley de Coordinación Fiscal del Estado de Tamaulipas adicionado en este Decreto, que entrará en vigor el 1° de enero de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
