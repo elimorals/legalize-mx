@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-industria-de-la-leche-y-sus-derivados-en-el-estado-45
 country: "mx"
 rank: "ley"
 publication_date: "1940-07-24"
-last_updated: "1940-07-24"
+last_updated: "2013-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE LA INDUSTRIA DE LA LECHE Y SUS DERIVADOS EN EL ESTADO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 351 Y SU TRANSITORIO ÚNICO, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 24 de julio de 1940.
 
@@ -138,3 +140,9 @@ PEDRO V. RODRIGUEZ TRIANA.
 EL OFICIAL MAYOR ENC. DEL DESP.
 
 TOMAS ALGABA GOMEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 17 DE DICIEMBRE DE 2013.
+
+ÚNICO.- La Ley de la Industria de la Leche y sus Derivados en el Estado de Coahuila de Zaragoza quedará abrogada al día siguiente de la publicación del presente decreto en el Periódico Oficial del Estado.
