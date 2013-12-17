@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-05-15"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -187,13 +187,29 @@ Son sujetos de este impuesto, las personas físicas o morales que habitual o acc
 
 La base de este impuesto será:
 
-I. Tratándose de vehículos, el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en los tabuladores oficiales de valores mínimos de la Secretaría de Finanzas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+I. Tratándose de vehículos, la base del impuesto se determinará de la siguiente manera:
+
+Al valor total del vehículo se le aplicará el factor de actualización, mismo que se obtendrá dividiendo el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se efectúe el acto gravado por este impuesto, entre el citado índice correspondiente al mes de la adquisición del vehículo.
+
+Al valor resultante de la operación señalada en el párrafo anterior, se le disminuirá el importe de la depreciación acumulada correspondiente a los meses comprendidos entre el mes de adquisición y el mes inmediato anterior al del acto. Para tal efecto, se considerará una tasa de depreciación anual del 22.5% y un valor de rescate equivalente al 10% del valor original del vehículo. Para tal caso, será aplicado el método de depreciación en línea recta.
+
+Para los efectos de lo dispuesto en el presente artículo, se entiende como mes de adquisición, cuando se realice la enajenación por primera vez al consumidor por el fabricante, ensamblador o distribuidor.
 
 II. Tratándose de otros bienes muebles, el valor de la operación. Cuando este valor sea inferior al que rija en el mercado o no se tenga la documentación que acredite su valor, la Secretaría de Finanzas, podrá efectuar el avalúo de los bienes motivo del acto o convenio, objeto de este impuesto para efectos de determinar la base.
 
 ###### Artículo 10.
 
 El impuesto se causará sobre el importe del 2 por ciento sobre su base.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de vehículos, el impuesto no podrá ser menor a 10 días de salario mínimo.
 
 ###### Artículo 11.
 
@@ -431,7 +447,11 @@ La misma obligación tendrán quienes en forma habitual o accidental efectúen p
 
 Los sujetos de este impuesto están obligados a:
 
-I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Finanzas del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas. La Secretaría de Finanzas del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -453,11 +473,11 @@ IV. Recibir las visitas de inspección y proporcionar a los auditores fiscales c
 
 V. Llevar libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-VI. Presentar declaración anual informativa a más tardar en el mes de abril del siguiente año, en las formas aprobadas que dé a conocer la autoridad.
+VI. Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad.
 
 ###### Artículo 33.
 
@@ -973,13 +993,13 @@ II.- A la cantidad obtenida conforme al párrafo anterior, se le aplicará la ta
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año- modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 43.
 
-Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a las autoridades competentes, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este articulo, haciendo la separación por cada uno de los establecimientos.
+Los distribuidores autorizados de venta de vehículos así como los comerciantes en el ramo de vehículos, tendrán la obligación de presentar durante el mes de mayo, declaración anual informativa sobre las enajenaciones de vehículos nuevos o seminuevos realizadas en territorio del Estado en el ejercicio anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1047,17 +1067,23 @@ XIV.- Pagos de primas de seguros para gastos médicos o de vida;
 
 XV.- Pagos realizados a las personas por los servicios que presten a un prestatario, cuando sean asimilados a salarios de conformidad al Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XVI.- El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado; o
+XVI.- El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XVII.- Cualquier otra erogación realizada por concepto de trabajo personal subordinado.
+XVII.- Los rendimientos y anticipos que reciban los miembros de las sociedades cooperativas, así como los anticipos que reciban los miembros de las sociedades y asociaciones civiles, siempre que se opten por asimilarse a salarios para efectos del cumplimento del Impuesto Sobre la Renta; o
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XVIII.- Cualquier otra erogación realizada por concepto de trabajo personal subordinado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1081,13 +1107,13 @@ Son responsables solidarios del pago de este impuesto quienes contraten, subcont
 
 Se entiende por subcontratación, el trabajo por medio del cual un contratista o subcontratista ejecuta obras o presta servicios con trabajadores bajo su dependencia, a favor de otra persona física o moral que resulta beneficiaria de los servicios contratados, la cual fija las tareas a realizar y supervisa el desarrollo de los servicios o la ejecución de las obras contratadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 47.
 
-La base de este impuesto es el monto total de los pagos por concepto de remuneración al trabajo personal subordinado a que se refiere el artículo 45 de esta ley.
+La base de este impuesto será el resultado que se obtenga de restar los conceptos exentos previstos en el artículo 52 de la presente Ley, al total de los conceptos de remuneraciones al trabajo personal subordinado a que se refiere el artículo 45 de la presente Ley.
 
 ###### Artículo 48.
 
@@ -1201,11 +1227,11 @@ VI.- Conservar la documentación comprobatoria del pago de las remuneraciones ob
 
 VII.- Registrar su calidad de contribuyentes, para efectos de pago y control, según sea el caso, si la administración principal de su empresa está fuera del Estado, pero establezcan sucursales, bodegas, agencias, oficinas u otras dependencias dentro del territorio del propio Estado, cuando se encuentren gravadas por este impuesto o cuando sólo tengan las otras obligaciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-VIII.- Retener y enterar este impuesto, las personas físicas o morales que contraten o subcontraten la prestación de servicios, de contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad en las formas aprobadas que dé a conocer la autoridad;
+VIII.- Retener el impuesto a que se refiere este Capítulo, las personas físicas o morales que contraten o subcontraten la prestación de servicios, de contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición, personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad y que las cantidades que el prestador del servicio erogue a favor de sus trabajadores o quienes presten servicios personales independientes, den lugar a las erogaciones gravadas por este impuesto;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1213,17 +1239,53 @@ VIII.- Retener y enterar este impuesto, las personas físicas o morales que cont
 
 IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-X.- Presentar declaración anual informativa a más tardar en el mes de abril del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; y
+X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto, a excepción de los señalados en el artículo 52, fracción II; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 XI.- Las personas físicas y morales que lleven a cabo la retención de este impuesto deberán expedir la constancia correspondiente por cada una de las operaciones que realice, en las formas aprobadas que dé a conocer la autoridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 51 Bis.
+
+Los retenedores a que se refiere el artículo anterior, tendrán las siguientes obligaciones:
+
+I.- Retener el impuesto que se cause conforme a las disposiciones contenidas en este Capítulo y expedir al contribuyente constancia de la retención en el momento en que ésta se efectúe o durante los 15 días siguientes a la fecha en que se efectuó dicha retención. Para estos efectos, se utilizará el formato o forma oficial que autorice y dé a conocer la Secretaría de Finanzas.
+
+La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados; y
+
+II.- Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 50 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 51 Ter.
+
+La retención a que se refiere la fracción I del artículo anterior, se determinará conforme a lo siguiente:
+
+I.- Si en el comprobante que le expida la persona física o moral que le proporciona la prestación de servicios personales, se especifica en forma expresa y por separado el o los importes de los conceptos establecidos en el artículo 45 de esta Ley, dichos montos serán la base para el cálculo de la retención; y
+
+II.- En el supuesto de que los prestadores de servicios a que se refiere el artículo 51 fracción VIII de esta Ley, no expidan alguno de los comprobantes a que se refiere este artículo, la base para la retención será el total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda.
+
+La base a que se refieren las fracciones I y II del presente artículo, se determinará sin incluir los impuestos que se trasladen en forma expresa y por separado en el comprobante, independientemente de la denominación con que se designen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 51 Quater.
+
+El impuesto retenido en los términos del artículo 51 de la presente Ley, se podrá acreditar contra el impuesto a pagar que resulte en el cálculo de pago mensual definitivo, de conformidad con lo dispuesto en este Capítulo.
 
 ###### Artículo 52.
 
@@ -1965,7 +2027,11 @@ IX. Por el otorgamiento de permisos ocasionales para el transporte de carga, die
 
 X. Por la certificación de los términos de referencia para realizar estudios técnicos para la autorización de modificaciones de recorrido y nuevas rutas, doscientos días de salario mínimo;
 
-XI. Por la expedición de licencia de chofer para conducir vehículos en los que se preste el servicio público del transporte, diez días de salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XI. Por la expedición de licencia de chofer para conducir vehículos en los que se preste el servicio público del transporte, diez días de salario mínimo, dicha licencia tendrá una vigencia de dos años, contados a partir de la fecha de su expedición;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2009,17 +2075,37 @@ XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecáni
 
 XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro días de salario mínimo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 74.
 
-Se exime del pago de los derechos previstos por el artículo anterior, en los siguientes términos:
+Se exime del pago de los derechos previstos en el artículo anterior, en los siguientes casos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. De un 50 por ciento a los comprendidos en las fracciones I, inciso a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado; y
 
-I. De un 50 por ciento a los comprendidos en las fracciones I, inciso a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de “discapacitado”, lo cual solo se podrá autorizar a personas físicas con discapacidad motriz permanente, en una sola ocasión por año y que de acuerdo con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, se eximirá el 100 por ciento; en el caso de que la persona propietaria del vehículo no sea la persona discapacitada, pero que acredite la utilización del mismo para el transporte y ejecución de las actividades cotidianas que debe realizar una persona con capacidades diferentes, se le otorgarán las placas con identificación de “discapacitado”, pero no se aplicará la exención del pago de derechos por servicios para el control vehicular, siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior; y
+III. De un 100 por ciento a los comprendidos en las fracciones I, inciso a) y b), en una sola ocasión por año, tratándose de vehículos con la necesidad de asignación de placas de circulación con identificación de "discapacitado" cuyos propietarios cumplan con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y que reúnan los siguientes requisitos:
 
-II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado.
+a) En el caso de personas físicas:
+
+1. Vehículos cuyos propietarios sean personas con discapacidad motora y neuromotora permanente; y
+
+2. Vehículos cuyos propietarios sean padres o tutores de hijos con discapacidad motora y neuromotora permanente;
+
+b) En el caso de personas morales:
+
+1. Vehículos a nombre de Centros Especializados en Rehabilitación debidamente constituidos para personas con discapacidad motora y neuromotora;
+
+2. Vehículo a nombre de Asociaciones Civiles debidamente constituidas que cuenten y atiendan a personas con discapacidad motora y neuromotora permanente; y
+
+3. Vehículos a nombre de Asociaciones Religiosas debidamente registradas ante la Secretaría de Gobernación y que briden (sic) atención a integrantes con discapacidad motora y neuromotora permanente.
+
+Asimismo, se podrá otorgar placas con identificación de "discapacitado" sin aplicar la exención a que se refiere esta fracción, siendo efectivo su pago normal, en los casos en que la persona propietaria del vehículo no sea la persona discapacitada así como a vehículos a nombre de sociedad o asociación que cuente con adaptaciones para el traslado de su personal laboral con discapacidad motora y neuromotora y cumplan con la normatividad que a efecto establece el Sistema Integral para el Desarrollo de la Familia en el Estado.
+
+En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de "discapacitado" siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
 
 ### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
@@ -2281,11 +2367,21 @@ XVIII. Por la recepción, evaluación y resolución de la autorización para un 
 
 XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de un día de salario mínimo por unidad de motor y capacidad de carga que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Articulo 76.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-(DEROGADO, P.O. 31 DE AGOSTO DE 2011)
+###### Artículo 76.
+
+Por los servicios otorgados para el aprovechamiento de la Vida Silvestre en Tamaulipas, se pagarán las siguientes cuotas:
+
+I. Por la recepción, evaluación y resolución técnica que determine la tasa de aprovechamiento por especie; 7 días de salario mínimo;
+
+II. Por la recepción y evaluación del Plan de Manejo para la Conservación de la Vida Silvestre, once días de salario mínimo;
+
+III. Por la recepción y evaluación de la solicitud de modificación de datos al registro de unidades de manejo para la Conservación de la Vida Silvestre, siete y medio días de salario mínimo; y
+
+IV. Por el aprovechamiento extractivo comercial o mediante la caza deportiva de ejemplares, seis y medio días de salario mínimo, considerando como unidad, el límite de posesión de ejemplares autorizado a cada especie por tipo de marcaje.
 
 ### CAPITULO UNICO
 
@@ -2557,13 +2653,21 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 1.- Por unidad móvil tipo ambulancia, se pagarán cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
 
-2.- Por laboratorio de análisis clínicos, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+2.- Por laboratorio de análisis clínicos, se pagará diez veces el salario mínimo y diez veces el salario mínimo por la autorización de responsable sanitario;
 
 3.- Por laboratorio de citología exfoliativa, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
 
 4.- Por laboratorio de anatomía patológica, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
 
-5.- Por consultorio de medicina especializada, se pagará cinco veces el salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+5.- Por consultorio de medicina especializada, se pagará doce veces el salario mínimo;
 
 6.- Por consultorio de medicina general, se pagará cinco veces el salario mínimo;
 
@@ -2577,9 +2681,17 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 11.- Por consultorio de psicología, se pagará cinco veces el salario mínimo;
 
-12.- Por consultorio de medicina dental, se pagará cinco veces el salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-13.- Por consultorio de medicina dental especializada, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+12.- Por consultorio de medicina dental, se pagará ocho veces el salario mínimo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+13.- Por consultorio de medicina dental especializada, se pagará doce veces el salario mínimo;
 
 14.- Por estéticas, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
 
@@ -2615,11 +2727,19 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 30.- Por centro de atención de adicciones, se pagará cinco veces el salario mínimo;
 
-31.- Por agencia funeraria con embalsamiento, se pagará cinco veces el salario mínimo; y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+31.- Por agencia funeraria con embalsamamiento, se pagará diez veces el salario mínimo; y diez días de salario mínimo por la autorización de responsable sanitario;
 
 32.- Por anfiteatro anatómico en escuelas de ciencia para la salud, se pagará cinco veces el salario mínimo;
 
-33.- Por servicios privados de hospitalización o unidades de cirugía ambulatoria, se pagará cinco veces el salario mínimo, y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+33.- Por servicios privados de hospitalización o unidades de cirugía ambulatoria, se pagará diez veces el salario mínimo; y diez veces el salario mínimo por la autorización de responsable sanitario;
 
 34.- Por servicios públicos de hospitalización, se pagará cinco veces el salario mínimo, y cinco veces el salario mínimo por la autorización de responsable sanitario;
 
@@ -2629,21 +2749,27 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 IX.- Por capacitación a petición de parte, se pagarán veinticinco días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X.- Por visita de verificación sanitaria a petición de parte a establecimientos sujetos a control sanitario, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+X.- Por visita de verificación sanitaria a petición de parte a establecimientos sujetos a control sanitario, se pagarán diez veces el salario mínimo;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 XI.- Por solicitud de muestreo a petición del prestador de servicios y/o el representante legal del establecimiento, se pagarán cinco días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII.- Por permiso sanitario para inhumación, exhumación, traslado y cremación funeraria, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+XII.- Por permiso sanitario para inhumación, exhumación, traslado y cremación funeraria, se pagarán diez veces de salario mínimo;
 
-XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán dieciocho días de salario mínimo; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces de salario mínimo; y, (sic)
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
@@ -2667,11 +2793,11 @@ XVI.- Por la expedición de aviso de responsable sanitario de establecimientos d
 
 XVII.- Por la autorización de cada uno de los libros de control para bancos de sangre y servicios de transfusión, se pagarán cinco veces el salario mínimo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XVIII.- Por concepto de desinfección, desinsectación, desratización en embarcaciones y demás actividades que establezca el reglamento sanitario Internacional, y los tratados o convenciones internacionales, se pagarán ciento cinco días de salario mínimo;
+XVIII.- Por concepto de desinfección, desinsectación, desratización en embarcaciones y demás actividades que establezca el Reglamento Sanitario Internacional, y los tratados o convenciones internacionales, se pagarán ciento diez veces de salarios mínimos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3010,3 +3136,9 @@ P.O. 15 DE MAYO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2014.
