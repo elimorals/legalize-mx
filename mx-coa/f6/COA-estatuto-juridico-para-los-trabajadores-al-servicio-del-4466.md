@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2012-10-19"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -1785,7 +1785,7 @@ IV.- Conocer de los conflictos sindicales;
 
 V.- Efectuar el registro de las condiciones generales de trabajo;
 
-Vl.- Conocer de todos los conflictos que se susciten en la aplicación de la presente Ley;
+VI.- Conocer de todos los conflictos que se susciten en la aplicación de la presente Ley;
 
 VII.- Conocer de todos los demás casos que esta Ley determine deban ser resueltos por él;
 
@@ -1975,6 +1975,8 @@ Las demás autoridades del Estado estarán obligadas a prestar auxilio al Tribun
 
 EJECUCION DE LAUDOS.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 205.
 
 El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de quince veces el salario mínimo vigente en la Capital del Estado.
@@ -1991,7 +1993,9 @@ CORRECCIONES DISCIPLINARIAS Y SANCIONES.
 
 ###### ARTICULO 207.
 
-El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que su juicio sean procedentes.
+El Tribunal de Conciliación y Arbitraje tiene la obligación de prever a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
+
+Tratándose de laudos o resoluciones que requieran ser ejecutados vía exhorto, rogatorias, suplicatorias, requisitorias y despachos, los tribunales y jueces del Poder Judicial del Estado, están obligados a prestar el auxilio que sea necesario para su cumplimiento.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -2149,11 +2153,15 @@ SEGUNDO.- Deberán elaborarse las disposiciones reglamentarias relativas al sist
 
 TERCERO.- Para dar cumplimiento a lo previsto en el presente Decreto, en la Constitución Política del Estado de Coahuila de Zaragoza, así como en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, deberá quedar instalado formal y materialmente el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza a partir de enero de 2010, fecha a partir de la cual, dicho órgano judicial recibirá las demandas y asuntos laborales de los trabajadores al servicio del Estado y los municipios que, por su naturaleza, deba conocer.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-CUARTO.- El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, órgano del Poder Ejecutivo del Estado, deberá concluir los trámites, procedimientos y expedientes que tenga pendientes y posterior a ello quedará formal y materialmente extinto.
+CUARTO.- Se extingue el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, órgano del Poder Ejecutivo del Estado.
 
-QUINTO.- El personal que forma parte del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los poderes del Estado y de los Municipios, quedará a disposición del Ejecutivo del Estado, una vez que se cumpla con lo previsto en el artículo que antecede.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+QUINTO.- Los recursos humanos del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, serán transferidos al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado. Los recursos financieros asignados al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios y los recursos materiales que hubiera adquirido por cualquier título, serán transferidos al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado, de acuerdo al procedimiento y a las reglas establecidas en la Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza, a más tardar en un plazo de dos meses.
+
+Los asuntos y trámites pendientes de resolver por el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, serán transferidos en los términos del párrafo anterior y serán resueltos por el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 SEXTO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
 
@@ -2184,3 +2192,9 @@ TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las
 CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
 
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
