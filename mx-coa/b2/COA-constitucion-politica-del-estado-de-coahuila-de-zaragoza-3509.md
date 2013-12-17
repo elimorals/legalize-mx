@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2013-04-26"
+last_updated: "2013-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -401,6 +401,14 @@ IV. Alistarse en la Guardia Nacional y servir en ella en los términos que desig
 Son derechos de los ciudadanos coahuilenses:
 
 I. Votar y ser electos para los empleos y cargos públicos en la forma y términos que prescriban las leyes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+El derecho de solicitar el registro de candidatos a cargos de elección popular ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine tanto esta Constitución, como la legislación electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+Las candidaturas independientes se sujetarán a los requisitos, condiciones y términos que determine esta Constitución, la legislación electoral del Estado y los acuerdos de las autoridades electorales, en especial para garantizar la transparencia, legalidad y fiscalización en el origen y ejercicio de los recursos. En todo caso, las disposiciones relativas a los partidos políticos, en los procesos electorales, serán aplicables a las candidaturas independientes con las modalidades específicas que la ley señale.
 
 II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejercer en ellos los derechos que las leyes les conceden.
 
@@ -4785,3 +4793,15 @@ P.O. 26 DE ABRIL DE 2013.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado, con excepción a aquellas que se relacionen con el nuevo sistema penal acusatorio, mismas que tendrán aplicación a partir del día primero de junio del año dos mil trece, en el distrito judicial o región que determine el Consejo de la Judicatura, el cual definirá el esquema de gradualidad en todo el estado, sea por distrito o por región, asimismo decidirá sobre la conveniencia de mantener los actuales distritos judiciales, o, en su cado (sic), establecer una nueva distritación para la implementación eficaz del nuevo modelo de juzgamiento penal.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza deberá expedir la legislación secundaria que resulte necesaria para poder aplicar con certeza las candidaturas independientes. El Instituto Electoral y de Participación Ciudadana de Coahuila expedirá los acuerdos que hagan posible el ejercicio de los derechos de las candidaturas independientes, conforme a la legislación secundaria que haga exigible este derecho humano de contenido y de desarrollo legal.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
