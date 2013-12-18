@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2012-09-26"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -65,7 +65,7 @@ V. Establecer medidas para concientizar y sensibilizar a la comunidad con el pro
 
 VI. Instruir y responsabilizar, conforme a los ordenamientos legales aplicables, a los integrantes del sector salud para que proporcionen trato digno y atención integral a las víctimas de violencia, respetando su intimidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -132,6 +132,10 @@ XIII. Modalidades de violencia: Las formas, las manifestaciones o los ámbitos d
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
 
 XIV. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XV. Prevención.- Son aquellas medidas o acciones gubernamentales encaminadas a impedir o eliminar las conductas que produzcan maltrato físico, verbal, psicoemocional o sexual entre los integrantes de una familia.
 
 ###### Artículo 5.
 
@@ -397,7 +401,7 @@ I. Fomentar el conocimiento y el respeto al derecho de toda persona a una vida s
 
 II. Transformar los modelos socioculturales de conducta de hombres y mujeres, incluyendo la propuesta y formulación de programas de educación formales y no formales, respectivamente, en todos los niveles y modalidades, con la finalidad de erradicar estereotipos que permitan o toleren la violencia contra las mujeres;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -553,7 +557,7 @@ XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
 XIX. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -593,17 +597,21 @@ XV. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
 XVI. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 31.
 
 (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 32.
 
-Corresponde a la Secretaría de Educación y Cultura:
+Corresponde a la Secretaría de Educación, Cultura y Deporte:
 
-l. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+I. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres y la familia;
 
 II. Regular, con perspectiva de género, las directrices de acciones y programas educativos en el Estado;
 
@@ -708,6 +716,18 @@ Con la finalidad de proveer información para el diseño de los programas y acci
 ###### Artículo 38.
 
 Los programas y acciones para la prevención de la violencia familiar deben fomentar en la sociedad valores cívicos que induzcan a la cultura de la juridicidad, la convivencia armónica y la cultura de la paz.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+De igual manera, deben estar encaminados a eliminar los patrones de conducta que propician la comisión de este delito, al tiempo que se fomenta una cultura de respeto, igualdad y libertad entre las personas que integran la familia.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Así mismo, deberán tender a la inclusión de medidas que permitan a las diversas autoridades, proveer lo necesario para garantizar el respeto de los derechos de víctimas de violencia familiar, así como la detección y canalización adecuada de las personas generadoras y víctimas de estas conductas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+También, deberán incluir en todo momento, espacios para la capacitación, certificación y sensibilización permanente del personal de las distintas dependencias gubernamentales en relación a la prevención de la violencia familiar, con la finalidad de propiciar los cambios conductuales en dichas instancias, para su erradicación de todos los ámbitos sociales, los cuales deberán ser reforzados con campañas publicitarias que sensibilicen y concienticen sobre las formas en que se expresa, previene y combate este problema social.
 
 ###### Artículo 39.
 
@@ -871,7 +891,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE MARZO DE 2010.
 
@@ -936,3 +956,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
