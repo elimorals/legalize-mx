@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2011-11-12"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
+CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -73,15 +73,19 @@ En el proceso penal se observarán especialmente los principios de oralidad, pub
 
 Los principios, derechos y garantías previstos por este Código serán observados en todo proceso como consecuencia del cual pueda resultar una sanción penal, medida de seguridad o cualquier otra resolución que afecte los derechos de las personas.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 4.
 
 Regla de interpretación.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
 Deberán interpretarse restrictivamente las disposiciones legales que coarten la libertad personal o limiten el ejercicio de un derecho conferido a los sujetos del proceso.
 
-En esta materia, queda prohibido imponer, por simple analogía, y aun por mayoría de razón, pena alguna que no esté decretada por una disposición legal exactamente aplicable al delito de que se trate.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013) N. DE E. DECRETO NÚMERO 1307/2013 II P.O.
+
+En esta materia, queda prohibido imponer, por simple analogía, y aun por mayoría de razón, pena alguna que no esté decretada por una disposición legal exactamente aplicable al delito de que se trate. La autoridad judicial deberá ponderar los derechos de la víctima u ofendido e imputado que se vean afectados.
 
 ###### Artículo 5.
 
@@ -849,7 +853,7 @@ I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabi
 
 No podrá aplicarse el principio de oportunidad en los casos de delitos contra la libertad y seguridad sexuales o de violencia familiar, por afectar gravemente el interés público.
 
-II. Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
+II Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
 
 III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicológico grave que torne desproporcionada la aplicación de una pena;
 
@@ -2313,7 +2317,9 @@ El cumplimiento de lo acordado impedirá el ejercicio de la acción penal o, en 
 
 Procedencia.
 
-En los casos en que el auto de vinculación a proceso se haya dictado por delito cuya pena máxima de prisión no exceda de cinco años, considerando su tipo básico, sus agravantes o las circunstancias atenuadoras de la conducta según corresponda, el imputado no haya sido condenado por delito doloso, no tenga o haya tenido otro proceso suspendido a prueba y no exista oposición del Ministerio Público u oposición fundada de la víctima, ofendido o acusador coadyuvante, procederá la suspensión del proceso a prueba a solicitud del imputado o del Ministerio Público con acuerdo de aquél. No procederá la suspensión del proceso a prueba en aquellos delitos patrimoniales cometidos con violencia en las personas.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013) N. DE E. DECRETO NÚMERO 1307/2013 II P.O.
+
+En los casos en que el auto de vinculación a proceso se haya dictado por delito imprudencial, o doloso cuya pena máxima de prisión no exceda de cinco años, considerando su tipo básico, sus agravantes o las circunstancias atenuadoras de la conducta según corresponda, el imputado no haya sido condenado por delito doloso, no tenga o haya tenido otro proceso suspendido a prueba y no exista oposición del Ministerio Público u oposición fundada de la víctima, ofendido o acusador coadyuvante, procederá la suspensión del proceso a prueba a solicitud del imputado o del Ministerio Público con acuerdo de aquel. No procederá la suspensión del proceso a prueba en aquellos delitos patrimoniales cometidos con violencia en las personas.
 
 ###### Artículo 202.
 
@@ -2499,9 +2505,9 @@ Querella es la expresión de voluntad de la víctima u ofendido del delito, o de
 
 Delito perseguible por querella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013) N. DE E. DECRETO NÚMERO 1389/2013 XIV P.E.
 
-Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos que atentan contra el cumplimiento de la obligación alimentaria previsto en el artículo 188 del Código Penal, lesiones que tardan en sanar menos de quince días, lesiones que tarden más de quince días y menos de sesenta, peligro de contagio, amenazas, allanamiento de vivienda, despacho, oficina o establecimiento mercantil, revelación de secretos, estupro, abusos sexuales, excepto los contemplados en los artículos 174 y 175 del Código Penal, hostigamiento sexual, procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal, privación de la libertad con fines sexuales, abuso de confianza, fraude, daños, con excepción de los contemplados en el artículo 237 del Código Penal, despojo y administración fraudulenta.
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos que atentan contra el cumplimiento de la obligación alimentaria previsto en el artículo 188 del Código Penal, salvo cuando se trate de personas menores de edad, incapaces y adultos mayores, lesiones que tarden en sanar menos de quince días, lesiones que tarden más de quince días y menos de sesenta, peligro de contagio, amenazas, allanamiento de vivienda, despacho, oficina o establecimiento mercantil, revelación de secretos, estupro, abusos sexuales, excepto los contemplados en los artículos 174 y 175 del Código Penal, hostigamiento sexual, procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal, privación de la libertad con fines sexuales, abuso de confianza, fraude, daños, con excepción de los contemplados en el artículo 237 del Código Penal, despojo y administración fraudulenta.
 
 Asimismo, se requerirá querella en los delitos de robo, robo de ganado y encubrimiento por receptación de éstos, cuando los mismos sean cometidos por el ascendiente, descendiente, cónyuge, parientes por consanguinidad y afinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado.
 
@@ -3593,7 +3599,7 @@ Los jueces que en el mismo asunto hayan intervenido en las etapas anteriores a l
 
 #### SECCIÓN 2. ACTUACIONES PREVIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -3601,9 +3607,13 @@ Los jueces que en el mismo asunto hayan intervenido en las etapas anteriores a l
 
 Fecha, lugar, integración y citaciones.
 
-El Juez de Garantía hará llegar la resolución de apertura del juicio al Tribunal Unitario competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a su disposición a las personas sometidas a prisión preventiva u otras medidas cautelares personales.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013) N. DE E. DECRETO NÚMERO 1307/2013 II P.O.
 
-Transcurrido el plazo de cinco días hábiles contados a partir de la recepción del auto de apertura, si el Pleno del Supremo Tribunal de Justicia no ejerce la atribución prevista en el artículo 50, fracción VII, segundo párrafo de la Ley Orgánica del Poder Judicial del Estado, el Tribunal Unitario procederá a radicar el proceso.
+El Juez de Garantía hará llegar la resolución de apertura del juicio al Tribunal Unitario competente, dentro de las cuarenta y ocho horas siguientes a que cause ejecutoria. También pondrá a su disposición a las personas sometidas a prisión preventiva u otras medidas cautelares personales.
+
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013) N. DE E. DECRETO NÚMERO 1307/2013 II P.O.
+
+Transcurrido el plazo de cinco días hábiles contados a partir de la recepción del auto de apertura, si el Pleno del Supremo Tribunal de Justicia no ejerce la atribución prevista en el artículo 50, fracción VII, segundo párrafo de la Ley Orgánica del Poder Judicial del Estado, el Tribunal Unitario procederá, dentro de las veinticuatro horas siguientes, a radicar el proceso.
 
 En caso de que por disposición del Pleno, sea un Tribunal Colegiado el que deba resolver, el Tribunal Unitario pondrá a su disposición a las personas sometidas a prisión preventiva u otras medidas cautelares personales.
 
@@ -3667,7 +3677,7 @@ IV. Esté previsto específicamente en este Código o en otra ley.
 
 La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa se permitirá ingresar nuevamente al público y quien presida el debate informaré brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
 
-El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada, la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este Artículo o cuando se límite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
+El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este Artículo o cuando se límite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -4295,7 +4305,7 @@ Contenido de la sentencia.
 
 La sentencia definitiva contendrá:
 
-l. La mención del Tribunal y la fecha de su emisión;
+I. La mención del Tribunal y la fecha de su emisión;
 
 II. La identificación de la víctima u ofendido y del acusado;
 
@@ -4775,7 +4785,7 @@ Motivos de casación de carácter procesal.
 
 El juicio y la sentencia serán motivos de casación cuando:
 
-I. En la tramitación de la audiencia de debate de juicio oral se hubieren infringido derechos fundamentales asegurados por la Constitución Federal o Local, o por los Tratados Internacionales ratificados por el Estado Mexicano que se encuentren vigentes.
+l. En la tramitación de la audiencia de debate de juicio oral se hubieren infringido derechos fundamentales asegurados por la Constitución Federal o Local, o por los Tratados Internacionales ratificados por el Estado Mexicano que se encuentren vigentes.
 
 II. La sentencia hubiere sido pronunciada por un Tribunal incompetente o que, en los términos de la ley, no garantice su imparcialidad.
 
@@ -5458,3 +5468,19 @@ El presente Decreto entrará en vigor a los quince días siguientes de su public
 ###### ARTÍCULO SEGUNDO.
 
 Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 1307/2013 II P.O. POR EL QUE SE REFORMAN LOS ARTÍCULOS 4, SEGUNDO PÁRRAFO; 201, Y 318, PRIMER Y SEGUNDO PÁRRAFOS, TODOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 1389/2013 XIV P.E. POR EL QUE SE REFORMA EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA, EN SU ARTÍCULO 219, PRIMER PÁRRAFO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
