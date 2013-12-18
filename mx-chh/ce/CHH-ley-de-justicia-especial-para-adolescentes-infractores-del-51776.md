@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-especial-para-adolescentes-infractores-del-5177
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2011-05-14"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 298/2011 II P.O. PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial el Estado de Chihuahua, el sábado 16 de septiembre de 2006.
 
@@ -209,6 +209,10 @@ La privación de libertad es toda forma de aprehensión o internamiento en un es
 
 En ningún caso se podrá imponer medida cautelar o sancionadora privativa de la libertad a los menores de catorce años.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+La estancia domiciliaria sin custodia no podrá ser considerada como privación de la libertad.
+
 ###### Artículo 19.
 
 Medida cautelar o sancionadora de privación de libertad en centro especializado para adolescentes.
@@ -293,7 +297,9 @@ Derecho de abstenerse de declarar.
 
 Todo adolescente tiene derecho a abstenerse de declarar y a no autoincriminarse. Su silencio no puede ser valorado en su contra.
 
-Si consintiera en prestar declaración, deberá hacerlo ante el juez en presencia de su defensor y previa entrevista en privado con éste.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Si consintiera en prestar declaración, deberá hacerlo ante el Juez o Ministerio Público, en presencia de su defensor y previa entrevista en privado con este.
 
 En ningún caso se le exigirá protesta de decir verdad.
 
@@ -761,11 +767,13 @@ IV. No se encuentre demostrada, más allá de toda duda razonable, una causa de 
 
 El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación. En dicho auto deberá establecerse el lugar, tiempo y circunstancias de ejecución de tales hechos.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 69.
 
 Validez de reconocimiento de hechos.
 
-El reconocimiento de hechos por parte del adolescente sólo tendrá valor probatorio cuando lo haga ante el Juez, con la presencia de su defensor, y previa entrevista con este último, en privado.
+El reconocimiento de hechos por parte del adolescente solo tendrá valor probatorio cuando lo haga ante el Juez o Ministerio Público, con la presencia de su defensor, y previa entrevista con este último, en privado.
 
 ###### Artículo 70.
 
@@ -781,21 +789,25 @@ Los procesos en los que se ven involucrados adolescentes, son prioritarios y de 
 
 Salvaguardando plenamente el derecho que tienen los adolescentes a ser escuchados, su declaración debe ser, bajo pena de nulidad:
 
-I. Rendida ante el Juez especializado para adolescentes;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+I. Rendida ante el Juez especializado para adolescentes o Ministerio Público;
 
 II. Voluntaria y previa consulta con su defensor;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-III. Breve, de modo que la comparecencia ante el Juez tome estrictamente el tiempo requerido;
+III. Breve, de modo que la comparecencia ante el Juez o Ministerio Público tome estrictamente el tiempo requerido;
 
 IV. Asistida, de modo que se realice con la presencia de su defensor y con la de un profesional capaz de detectar fenómenos de ansiedad, fatiga o daño sicológico producidos por la declaración; en cuyo caso, se suspenderá ésta, y se reanudará a la brevedad posible; y,
 
-V. En presencia de su padre, madre, o ambos, o de su representante, si él o su defensa lo solicitan y el Juez lo estima conveniente.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+V. En presencia de su padre, madre, o ambos, o de su representante, si él o su defensa lo solicitan y el Juez o Ministerio Público lo estiman conveniente.
 
-Las mismas reglas se observarán, en lo aplicable, en las declaraciones que voluntariamente tenga con el Ministerio Público.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Cuando la declaración se rinda ante el Ministerio Público, esta deberá ser videograbada.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -825,13 +837,15 @@ I. La voluntad del adolescente infractor, y
 
 II. El consentimiento expreso de su padre, de su madre, de ambos, o de su representante.
 
-El procedimiento abreviado sólo será aplicable cuando el delito no se encuentre dentro del catálogo de los hechos típicos como graves del artículo 101 de esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 75.
 
 Audiencia intermedia.
 
-Transcurridos los cinco días señalados en el artículo 73, el Juez citará a las partes, en un plazo igual, a una audiencia para decidir las pruebas que se desahogarán en el juicio y remitirá a la autoridad correspondiente el auto de apertura de juicio oral.
+Transcurrido el término señalado en el artículo 73, el Juez citará a las partes, en un plazo igual, a una audiencia para decidir las pruebas que se desahogarán en el juicio y remitirá a la autoridad correspondiente el auto de apertura de juicio oral.
 
 ###### Artículo 76.
 
@@ -989,13 +1003,19 @@ IV. Reparación del Daño;
 
 V. Las órdenes de orientación y supervisión que, como condiciones, señala el artículo 50 de la presente Ley.
 
-VI. Medidas sancionadoras privativas de libertad:
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-a) internamiento domiciliario;
+VI. Estancia domiciliaria sin custodia;
 
-b) la privación de libertad durante el tiempo libre; y,
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-c) la privación de libertad en centros especializados para adolescentes.
+VII. Medidas sancionadoras privativas de libertad:
+
+a) Internamiento domiciliario con custodia;
+
+b) La privación de libertad durante el tiempo libre, y
+
+c) La privación de libertad en centros especializados para adolescentes.
 
 ###### Artículo 90.
 
@@ -1077,6 +1097,18 @@ En caso de que esta medida sancionadora no pueda cumplirse por imposibilidad eco
 
 El Juez de Ejecución podrá modificar las órdenes impuestas, cuando el adolescente las incumpla.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Artículo 96 bis.- Estancia domiciliaria sin custodia.
+
+La estancia domiciliaria sin custodia consiste en la permanencia del adolescente en su domicilio a cargo de los padres, representantes legales, tutores o la persona responsable del lugar, sin perjuicio del monitoreo que realice la autoridad competente. De no poder cumplirse en este por razones de inconveniencia o imposibilidad, se llevará a cabo en casa de cualquier familiar o, en su defecto, en vivienda de persona diversa que se ocupe de cuidarlo, o institución pública o privada de comprobada idoneidad.
+
+La estancia domiciliaria no debe afectar el cumplimiento del trabajo ni la asistencia al centro educativo al que concurra la persona sancionada.
+
+El Juez prevendrá al adolescente para que cumpla con las condiciones de esta medida, y al padre, madre o representante para que, en su caso, coadyuven con la vigilancia.
+
+El plazo de esta medida no podrá ser inferior a tres meses ni superior a un año.
+
 #### Sección III. Medidas sancionadoras privativas de libertad
 
 ###### Artículo 97.
@@ -1085,11 +1117,15 @@ Procedencia.
 
 La privación de libertad es una medida sancionadora de carácter excepcional que deberá aplicarse como última opción.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 98.
 
-Internamiento domiciliario.
+Internamiento domiciliario con custodia.
 
-El internamiento domiciliario consiste en la detención del adolescente en su domicilio. De no poder cumplirse en éste por razones de inconveniencia o imposibilidad, se llevará a cabo en casa de cualquier familiar. De no ser posible ni esto, la detención se realizará en otra vivienda de persona que se ocupe de cuidarlo, o institución pública o privada, de comprobada idoneidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+El internamiento domiciliario con custodia consiste en la detención del adolescente en su domicilio, con vigilancia material y permanente de la autoridad competente. De no poder cumplirse en este por razones de inconveniencia o imposibilidad, se llevará a cabo en casa de cualquier familiar. De no ser posible ni esto, la detención se realizará en otra vivienda de persona que se ocupe de cuidarlo, o institución pública o privada, de comprobada idoneidad.
 
 El internamiento domiciliario no debe afectar el cumplimiento del trabajo ni la asistencia al centro educativo al que concurra la persona sancionada.
 
@@ -1109,13 +1145,17 @@ No puede dictarse por un plazo inferior a dos meses ni superior a un año.
 
 Privación de libertad en un centro especializado.
 
-La medida sancionadora de privación de libertad se ejecutará en centros especializados para adolescentes, que serán diferentes a los destinados para la población penitenciaria adulta.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+La medida sancionadora de privación de libertad se ejecutará en centros especializados para adolescentes, que serán diferentes a los destinados para la población penitenciaria adulta, con la salvedad que se prevé en el último párrafo del presente artículo.
 
 Deben existir secciones separadas para albergar a mujeres y hombres.
 
 En los centros especializados no se podrá admitir a adolescentes sin orden previa de autoridad judicial competente. En aquellos, los adolescentes deben estar separados según los grupos etarios definidos en esta Ley. Así mismo, se separarán los que se encuentren con medida de detención cautelar de aquellos que estén cumpliendo una medida definitiva.
 
-Cuando los adolescentes cumplan la mayoría de edad durante la ejecución de la medida sancionadora, serán separados de los adolescentes y no se podrá ubicarlos conjuntamente con adultos. El organismo competente proveerá los medios necesarios para asegurar un área especial para quienes se encuentren en esta situación.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Cuando los adolescentes cumplan la mayoría de edad, antes o durante la ejecución de la medida sancionadora, serán separados de los adolescentes y no se podrá ubicarlos conjuntamente con adultos. El organismo competente proveerá los medios necesarios para asegurar un centro especializado dentro del complejo de reinserción social más cercano al lugar en el que se procesa al infractor o en la etapa de ejecución al lugar de residencia habitual, en el que podrán ser ubicados quienes se encuentren en estos supuestos. Lo anterior, sin perjuicio de los principios, derechos y garantías que correspondan de conformidad con la legislación aplicable o el derecho internacional.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
 
@@ -1153,15 +1193,19 @@ i) Tráfico de menores, salvo lo previsto en el artículo 167 del Código Penal;
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
-j) Extorsión; y
+j) Extorsión; y (sic)
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
 k) Conductas previstas en el artículo 212 Bis del Código Penal.
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
 I) Desobediencia o resistencia de particulares conforme a lo que establece el artículo 278 del Código Penal.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+m) Delitos contra la Salud en su modalidad de Narcomenudeo.
 
 La tentativa de estos hechos típicos, también será calificada como grave para los efectos de este artículo.
 
@@ -1512,6 +1556,12 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
