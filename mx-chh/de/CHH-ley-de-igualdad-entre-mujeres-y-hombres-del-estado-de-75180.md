@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-75180"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2010-05-29"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 29 de mayo de 2010.
 
@@ -91,6 +91,10 @@ IX. Programa Nacional: Programa Nacional para la Igualdad entre Mujeres y Hombre
 
 X. Programa Estatal: Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XI. Unidades de Igualdad de Género: Instancias encargadas de fomentar la igualdad entre mujeres y hombres a través de la aplicación transversal de la perspectiva de género en todos los planes, programas, proyectos y presupuestos de las dependencias y entidades de la administración pública centralizada y descentralizada, así como en órganos autónomos.
+
 ###### Artículo 6.
 
 La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo.
@@ -125,9 +129,19 @@ IV. Suscribir dentro del ámbito de su competencia, los convenios necesarios par
 
 V. Participar en el diseño y formulación de políticas públicas locales en materia de igualdad entre mujeres y hombres;
 
-VI. Coordinar los instrumentos de la Política en el Estado en Materia de Igualdad entre Mujeres y Hombres; y
+VI. Coordinar los instrumentos de la Política en el Estado en Materia de Igualdad entre Mujeres y Hombres; y (sic)
 
-VII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VII. Fomentar la creación de Unidades de Igualdad de Género;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VIII. Proponer los lineamientos generales para el funcionamiento de las Unidades de Igualdad de Género y capacitación para el personal que las maneje;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+IX. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### Artículo 9.
 
@@ -496,3 +510,15 @@ PRESIDENTE DIP. FERNANDO RODRÍGUEZ MORENO. Rúbrica. SECRETARIA DIP. MARÍA ÁV
 Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento. En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los siete días del mes de mayo del año dos mil diez.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez entrado en vigor el presente Decreto, la autoridad responsable contará con 180 días para realizar las adecuaciones reglamentarias procedentes.
