@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-extincion-de-dominio-del-estado-de-chihuahua-74537"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-07"
-last_updated: "2011-12-28"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 7 de abril de 2010.
 
@@ -77,7 +77,7 @@ IV. En los aspectos relativos a la regulación de bienes, obligaciones y derecho
 
 Toda la información que se genere u obtenga con relación a esta Ley, se regirá en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -93,7 +93,7 @@ La acción de extinción de dominio es de carácter real, de contenido patrimoni
 
 El ejercicio de la acción de extinción de dominio corresponde al Ministerio Público.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR EL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR EL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -119,9 +119,13 @@ Procede la extinción de dominio respecto de los bienes a que se refiere esta Le
 
 I. Secuestro;
 
-II. Robo de vehículos, y
+II. Robo de vehículos, y (sic)
 
 III. Trata de personas.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+IV. Delitos contra la salud en su modalidad de narcomenudeo, en la forma y competencia que establece el artículo 474 de la Ley General de Salud.
 
 Para los efectos de esta Ley, se entiende que existen elementos suficientes para determinar que el hecho ilícito sucedió, cuando se reúnan indicios respecto de los elementos objetivos o externos y, en su caso, normativos de los delitos a que se refieren las fracciones anteriores, aun cuando no se haya determinado quiénes intervinieron en él o el carácter de su participación.
 
@@ -257,7 +261,7 @@ El procedimiento de extinción de dominio será autónomo del de materia penal, 
 
 Tribunal de Extinción de Dominio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -525,7 +529,7 @@ No estarán obligados a concurrir al llamamiento judicial para el desahogo de la
 
 I. El Presidente de la República; los Secretarios de Estado de la Federación; los Ministros de la Suprema Corte de Justicia de la Nación; el Procurador General de la República;
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -761,7 +765,7 @@ Procedimiento.
 
 Para el trámite del recurso de revisión regirán las reglas establecidas para el de apelación, en cuanto sean aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -797,7 +801,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés dí
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
@@ -854,6 +858,12 @@ El presente Decreto entrará en vigor a los quince días siguientes de su public
 Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
 
 P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
