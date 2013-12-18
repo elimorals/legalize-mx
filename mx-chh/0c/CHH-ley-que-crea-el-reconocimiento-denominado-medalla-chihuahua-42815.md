@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-reconocimiento-denominado-medalla-chihuahua-428
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2010-01-30"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY QUE CREA EL RECONOCIMIENTO DENOMINADO "MEDALLA CHIHUAHUA AL MERITO EDUCATIVO"
 
-LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO
+LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MÉRITO EDUCATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de enero de 2005.
 
@@ -53,23 +53,29 @@ LEY QUE CREA EL RECONOCIMIENTO DENOMINADO "MEDALLA CHIHUAHUA AL MÉRITO EDUCATIV
 
 Se declara de interés público el reconocimiento a individuos o equipos de personas, originarios o que radiquen en el Estado de Chihuahua, que realicen actividades educativas eminentes y que las mismas hayan traído beneficios a esta Entidad Federativa, a nuestro País o a la humanidad. Para tal objeto se establece la "Medalla Chihuahua al Mérito Educativo", la cual se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 2.
 
-Se otorgarán dos premios, uno en la categoría individual y otro en la categoría de equipo, los cuales deberán ser realizados en la disciplina de educación, en cualquiera de los siguientes niveles:
+Se otorgarán dos premios, uno en la categoría individual y otro en la categoría de equipo, respecto a los trabajos ganadores que hayan sido aplicados en materia educativa, y cuyo impacto beneficie a la:
 
-a) Educación básica.
+a) Educación inicial.
 
-b) Educación media superior.
+b) Educación básica.
 
-c) Educación superior e investigación en el ámbito educativo.
+c) Educación media superior.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2007)</small>
+d) Educación superior.
+
+e) Investigación educativa.
+
+f) Sociedad chihuahuense en general.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
-El premio consistirá en la entrega de una medalla, la cual contendrá la leyenda "Medalla Chihuahua al Mérito Educativo" y el escudo del Estado de Chihuahua, así como una cantidad en efectivo, la cual se determinará anualmente por acuerdo del Titular del Poder Ejecutivo y del H. Congreso del Estado, o más tardar en el mes de diciembre, la misma que deberá ser incrementada anualmente, por lo menos en la cuantía de incremento del índice inflacionario anual que registre el Banco de México.
+El premio consistirá en la entrega de una medalla de oro, la cual contendrá la leyenda "Medalla Chihuahua al Mérito Educativo" y el escudo del Estado de Chihuahua, así como una cantidad en efectivo, la cual se determinará anualmente por acuerdo del Titular del Poder Ejecutivo y del H. Congreso del Estado, a más tardar en el mes de diciembre, misma que deberá ser actualizada anualmente, por lo menos en el porcentaje de incremento del índice inflacionario anual que registre el Banco de México.
 
 ###### ARTÍCULO 4.
 
@@ -105,7 +111,9 @@ Para el análisis y la evaluación de los trabajos participantes, así como para
 
 Los miembros del jurado propuesto en los términos del artículo 7, desempeñarán su cargo personalmente. Para pertenecer al jurado, se deberá tener el grado de Maestría o Doctorado en Educación y, al aceptar dicho encargo, observarán las normas éticas que exige la convocatoria.
 
-En caso de empate, la Comisión de Educación y Cultura del H. Congreso, emitirá el voto de calidad por medio del Presidente de dicha Comisión.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+En caso de empate, el Presidente del Jurado tendrá voto de calidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -115,9 +123,11 @@ El fallo que emita el Jurado Calificador, tendrá carácter de inapelable.
 
 El premio podrá ser declarado desierto en caso de que los trabajos presentados no reúnan los requisitos marcados en la convocatoria.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-Una vez emitido el fallo del jurado calificador, se notificará inmediatamente a los participantes que resulten triunfadores, de igual manera se publicará el nombre de los ganadores en la prensa local.
+Una vez emitido el fallo del Jurado Calificador, será dado a conocer a la Secretaría de Educación, Cultura y Deporte, y a la Comisión de Educación y Cultura, que en voz de su Presidente informará del mismo al Pleno Legislativo en la siguiente sesión ordinaria, proporcionando los nombres de los ganadores, así como un resumen breve de los argumentos del Jurado Calificador para fundamentar su decisión. Acto seguido, se notificará a los triunfadores, y sus nombres se darán a conocer al público en general, a través de la prensa local.
 
 ###### ARTÍCULO 11.
 
@@ -126,6 +136,10 @@ No se devolverán los trabajos que no obtengan el premio.
 ###### ARTÍCULO 12.
 
 Los trabajos que resulten ganadores pasarán a ser propiedad del Gobierno del Estado, quien podrá disponer libremente de los mismos respetando en todo momento los créditos correspondientes en lo referente a la autoría.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Deporte; y el Honorable Congreso del Estado, por conducto del Comité de Biblioteca, Asuntos Editoriales e Informática, imprimirán en un plazo no mayor de tres meses a partir de la entrega del reconocimiento, una edición especial que contenga los trabajos ganadores, para su publicación y difusión entre la sociedad chihuahuense.
 
 ###### ARTÍCULO 13.
 
@@ -180,3 +194,9 @@ El presente Decreto entrará en vigor en el momento de su aprobación, sin perju
 P.O. 30 DE ENERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
