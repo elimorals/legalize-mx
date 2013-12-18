@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-10-19"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -603,13 +603,17 @@ El importe de la multa y la sanción económica impuestas se destinará preferen
 
 De la reparación del daño
 
-La reparación del daño comprende, según la naturaleza del delito de que se trate:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+La reparación del daño debe ser plena y efectiva, proporcional a la gravedad del daño causado, y comprenderá cuando menos:
 
 I. El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
 
 II. La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesorios y, si no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, la autoridad judicial podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
 
-III. La reparación del daño moral sufrido por la víctima u ofendido;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+III. La reparación del daño físico, psicológico, material y moral;
 
 IV. El resarcimiento de los perjuicios ocasionados; y
 
@@ -708,6 +712,10 @@ Cuando el imputado se sustraiga a la acción de la justicia, las garantías econ
 Otro destino de la reparación del daño
 
 Si la víctima u ofendido renuncian o no cobran la reparación del daño dentro del plazo de tres meses, o no se encuentran identificados, el importe de ésta se entregará al Fondo de Auxilio para Víctimas u Ofendidos del Delito, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+El derecho a la reparación del daño es irrenunciable tratándose de personas menores de edad, adultos mayores, o quienes no tengan la capacidad para comprender el significado del hecho o no puedan resistirlo.
 
 ###### Artículo 52.
 
@@ -1173,11 +1181,9 @@ En caso de que cometa nuevo delito doloso después de concedido el beneficio, se
 
 Artículo 91 bis. Restricciones a los beneficios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
-
-El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, extorsión, violación u homicidio doloso, de acuerdo a este Código, no le serán aplicables ninguno de los siguientes beneficios:
+El reo que haya sido sentenciado, aun en grado de tentativa por el delito de robo en los supuestos contemplados en las fracciones I, II o III del artículo 212 del Código Penal; extorsión, violación u homicidio doloso, salvo que se trate en riña; así como por homicidio o lesiones imprudenciales contempladas en los artículos 138, segundo párrafo, 139 o 140 del Código Penal, no le será aplicable ninguno de los siguientes beneficios:
 
 I. Modalidad de la pena de prisión, tales como.
 
@@ -1601,9 +1607,11 @@ En ambos casos, a juicio de la autoridad judicial, se decretará la suspensión 
 
 A quien infiera a otro lesiones en riña, se le impondrá dos terceras partes de las penas que correspondan por las lesiones causadas, si se tratare del provocador, y la mitad si se trata del provocado.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 133.
 
-Cuando las lesiones sean calificadas, la pena correspondiente a las lesiones simples se incrementará en una mitad.
+Cuando las lesiones sean calificadas o se infieran a una mujer embarazada con conocimiento de su estado, la pena correspondiente a las lesiones simples se incrementará en una mitad.
 
 ### CAPÍTULO IV. AYUDA O INDUCCIÓN AL SUICIDIO
 
@@ -1681,19 +1689,29 @@ No se impondrá pena alguna a quien por imprudencia ocasione lesiones u homicidi
 
 Cuando el homicidio o las lesiones se cometan imprudencialmente con motivo del tránsito de vehículos, se impondrá una mitad más de las penas previstas en el artículo 73, en los siguientes casos:
 
-I. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+I. El agente conduzca en primer o segundo grado de ebriedad; o
 
 II. No auxilie a la víctima del delito y se dé a la fuga.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Cuando el agente conduzca en tercer grado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y cometa homicidio o lesiones de las previstas en las fracciones IV, V o VII del artículo 129 de este Código, se impondrá de dos a ocho años de prisión.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 139.
 
-Cuando se causen lesiones a dos o más personas, de las previstas en las fracciones VI y VII del artículo 129 de este Código y se trate de vehículos de pasajeros, carga, servicio público o servicio al público o de transporte escolar, o servicio de transporte de personal de alguna institución o empresa, y el agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares, la pena aplicable será de dos años a ocho años de prisión.
+Cuando se causen lesiones a dos o más personas, de las previstas en las fracciones VI o VII del artículo 129 de este Código y se trate de vehículos de carga o servicio de transporte público, escolar, de personal o pasajeros de alguna institución o empresa, y el agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares, la pena aplicable será de tres a diez años de prisión.
 
-Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga; si es servidor público, también inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
+Además, se impondrá suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 140.
 
-Cuando por imprudencia se cause homicidio de dos o más personas, en las circunstancias previstas en el artículo anterior, las penas serán de tres a diez años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta; si es servidor público, además, destitución e inhabilitación por igual período para obtener empleo, cargo o comisión de la misma naturaleza.
+Cuando por imprudencia se cause homicidio de dos o más personas, en las circunstancias previstas en el artículo anterior, las penas serán de cuatro a doce años de prisión y suspensión de los derechos en cuyo ejercicio hubiese cometido el delito por un periodo igual al de la pena de prisión impuesta.
 
 ### CAPÍTULO V. ABORTO
 
@@ -1939,7 +1957,9 @@ IV. Teniendo la guarda y custodia compartida, no devuelva a la persona menor de 
 
 ###### Artículo 171.
 
-A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de cuatro a doce años.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de cinco a quince años.
 
 Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal o bucal.
 
@@ -1961,7 +1981,9 @@ Si se ejerciera violencia física o moral, la pena prevista se aumentará en una
 
 ###### Artículo 173.
 
-A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a observarlo o la haga ejecutarlo, se le impondrán de seis meses a seis años de prisión.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a observarlo o la haga ejecutarlo, se le impondrán de seis meses a seis años de prisión y de cien a trescientos días multa.
 
 Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad.
 
@@ -1969,7 +1991,9 @@ Este delito se perseguirá previa querella, salvo que concurra violencia o se tr
 
 ###### Artículo 174.
 
-A quien sin el propósito de llegar a la cópula ejecute un acto sexual en una persona menor de catorce años o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la obligue a observar o ejecutar dicho acto, se le impondrán de dos a diez años de prisión.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+A quien sin el propósito de llegar a la cópula ejecute un acto sexual en una persona menor de catorce años o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la obligue a observar o ejecutar dicho acto, se le impondrán de tres a diez años de prisión y de doscientos a cuatrocientos días multa.
 
 Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad.
 
@@ -1981,7 +2005,9 @@ I. Con intervención directa o inmediata de dos o más personas;
 
 II. Quebrantando la fe que expresa o tácitamente nace de cualquier relación que inspire confianza y respeto;
 
-III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión, el sentenciado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+III. Por quien desempeñe un cargo o empleo público o ejerza su profesión o posición que le conceda cualquier tipo de autoridad laboral, académica o religiosa, utilizando los medios o circunstancia que su cargo o situación personal le proporcionen. Además de la pena de prisión, el sentenciado será, en su caso, destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión;
 
 IV. Ejerciendo sobre la víctima actos que revistan un carácter particularmente degradante o vejatorio;
 
@@ -2113,9 +2139,9 @@ Si en la comisión de los delitos previstos en este Título el sujeto se valiese
 
 ###### Artículo 188.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de seis meses a cuatro años de prisión. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
+A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de seis meses a cuatro años de prisión y de cincuenta a cuatrocientos días multa. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
 
 Para los efectos de éste Artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
 
@@ -2285,7 +2311,9 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilac
 
 ###### Artículo 204.
 
-A quien amenace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de tres meses a un año de prisión o de noventa a trescientos sesenta días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+A quien amenace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de seis meses a cinco años de prisión y de noventa a trescientos sesenta días multa.
 
 Se debe entender como ligados por algún vínculo con la persona:
 
@@ -2341,7 +2369,9 @@ Cuando el agente sea servidor público, se le impondrá, además, destitución o
 
 ###### Artículo 208.
 
-A quien con ánimo de dominio y sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena, se le impondrá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+A quien con ánimo de dominio y sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena total o parcialmente, se le impondrá:
 
 I. Cuando el valor de lo robado no exceda de quinientas veces el salario, se impondrán de seis meses a dos años de prisión y multa de treinta a cien veces el salario.
 
@@ -2367,7 +2397,9 @@ Como reparación del daño, pagará al ofendido el doble del alquiler, arrendami
 
 ###### Artículo 211.
 
-Además de las sanciones que correspondan conforme a los artículos anteriores, se aplicará prisión de seis meses a tres años, cuando el robo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Además de las sanciones que correspondan conforme a los artículos anteriores, se aplicará prisión de uno a tres años, cuando el robo:
 
 I. Se cometa con violencia en las personas o en las cosas, o bien, se ejerza ésta para propiciar la fuga o defender lo robado.
 
@@ -2397,7 +2429,9 @@ XI. Cuando se cometa por un servidor público que actúe en ejercicio y con moti
 
 XII. (DEROGADA, P.O. 19 DE FEBRERO DE 2011)
 
-XIII. Recaiga sobre equipo, instrumentos, semillas, frutos cosechados o por cosechar, o cualesquiera otros artículos destinados al aprovechamiento agrícola, forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XIII. Recaiga sobre semillas, frutos cosechados o por cosechar, o cualesquiera otros artículos destinados al aprovechamiento agrícola, forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2008)</small>
 
@@ -2405,9 +2439,9 @@ XIV. Recaiga sobre materiales conductores de energía destinados a la prestació
 
 ###### Artículo 212.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-Además de las sanciones que correspondan conforme a los artículos anteriores, se aplicarán de uno a diez años de prisión, cuando el robo:
+Además de las sanciones que correspondan conforme a los artículos anteriores, se aplicarán de dos a diez años de prisión, cuando el robo:
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -2419,7 +2453,9 @@ II. Se cometa por medio de la violencia a las personas, sea física o moral, uti
 
 III. Recaiga sobre vehículos automotores.
 
-IV. (DEROGADA, P.O. 23 DE OCTUBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+IV. Recaiga sobre equipo o instrumentos destinados al aprovechamiento agrícola, forestal o frutícola, cometido en huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
 
 > <small>(ADICIONADA. P.O. 19 DE FEBRERO DE 2011)</small>
 
@@ -2891,7 +2927,9 @@ I. El servidor público que ilegalmente:
 
 a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Estado;
 
-b) Otorgue permisos, licencias o autorizaciones de contenido económico;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+b) Otorgue permisos, licencias o autorizaciones de contenido económico o de construcción;
 
 c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Estado; o
 
@@ -2969,7 +3007,29 @@ I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalen
 
 II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán de uno a nueve años de prisión y de trescientos a ochocientos días multa.
 
-### CAPÍTULO I. DENEGACIÓN O RETARDO DE JUSTICIA Y PREVARICACIÓN
+### CAPÍTULO VIII. CONTRA LA SEGURIDAD DE LA COMUNIDAD
+
+Artículo 284 bis.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+A quien aceche, vigile o realice actos tendientes a obtener información, tal como la ubicación, actividades, operativos o, en general, cualquiera relacionada con las labores que realizan los integrantes de las instituciones de seguridad pública, así como del Ejército, Armada o Fuerza Aérea Nacional, con la finalidad de informar o alertar a otra u otras personas para que estas puedan utilizarla en la comisión de algún delito, se le impondrá prisión de dos a cinco años y de cien a quinientos días multa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Las penas a que se refiere el párrafo anterior se aumentarán en una mitad más cuando:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+a) Sea cometido por integrantes o ex integrantes de las instituciones de seguridad pública, en cuyo caso se impondrá además la destitución del cargo o comisión e inhabilitación para ocupar otro hasta por diez años;
+
+b) Se utilice a menores de edad o a quienes no tienen la capacidad para comprender el significado del hecho, o
+
+c) Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales de instituciones de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Si el o los delitos relacionados con la información o alerta proporcionada, llegaren a consumarse, a la penalidad resultante con motivo de la comisión de este ilícito se le aplicarán las que resulten, observando lo dispuesto por los artículos 76 y 78 de este Código.
 
 ###### Artículo 270.
 
@@ -2981,7 +3041,7 @@ II. Indebidamente utilice fondos públicos, con el objeto de promover la imagen 
 
 Cuando el monto o valor exceda de quinientas veces el salario mínimo, se impondrán prisión de cuatro a doce años y de quinientos a dos mil días multa.
 
-### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
+### CAPÍTULO I. DENEGACIÓN O RETARDO DE JUSTICIA Y PREVARICACIÓN
 
 ###### Artículo 271.
 
@@ -2991,7 +3051,7 @@ I. Cuando el valor de lo exigido no exceda de quinientas veces el salario mínim
 
 II. Si el valor de lo exigido excede de quinientas veces el salario mínimo, se le impondrán de dos a doce años de prisión y de trescientos a quinientos días multa.
 
-### CAPÍTULO III. TORTURA
+### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
 
 ###### Artículo 272.
 
@@ -3005,11 +3065,11 @@ A quien cometa el delito de enriquecimiento ilícito se le impondrá de tres a q
 
 Además de las penas señaladas en el párrafo anterior, se decretará el decomiso en beneficio del Estado de aquellos bienes cuya legítima adquisición no logre acreditar el sentenciado.
 
-### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO III. TORTURA
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
-### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICO FORENSES
+### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 274.
 
@@ -3021,7 +3081,7 @@ Se le impondrán las mismas sanciones previstas para el enriquecimiento ilícito
 
 Las penalidades a que se refiere el presente artículo se reducirán en una mitad si el particular reintegra voluntariamente al patrimonio público los bienes, objetos o productos del delito.
 
-### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
+### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICO FORENSES
 
 ###### Artículo 276.
 
@@ -3049,7 +3109,7 @@ Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los 
 
 Con excepción de los casos previstos en el Código de Procedimientos Civiles del Estado.
 
-### CAPÍTULO VII. EVASIÓN DE PRESOS
+### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
 ###### Artículo 280.
 
@@ -3057,19 +3117,19 @@ A quien con actos materiales trate de impedir la ejecución de una obra o un tra
 
 Cuando el delito se cometa por varias personas de común acuerdo, se impondrá de tres meses a un año de prisión, si sólo se hiciere una simple oposición material sin violencia. En caso de existir violencia, la pena será de tres meses a dos años de prisión, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
-### CAPÍTULO I. FRAUDE PROCESAL
+### CAPÍTULO VII. EVASIÓN DE PRESOS
 
 ###### Artículo 281.
 
 A quien quebrante los sellos puestos por orden legítima de la autoridad competente, se le impondrán de dos a siete años de prisión y de cien a quinientos días multa.
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
+### CAPÍTULO I. FRAUDE PROCESAL
 
 ###### Artículo 282.
 
 A quien ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de seis meses a un año de trabajo a favor de la comunidad o de treinta a noventa días de multa.
 
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE O DOMICILIO
+### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
 ###### Artículo 283.
 
@@ -3077,7 +3137,7 @@ A quien para hacer efectivo un derecho o pretendido derecho que deba ejercitar, 
 
 En estos casos, sólo se procederá por querella de la parte ofendida.
 
-### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
+### CAPÍTULO III. VARIACIÓN DEL NOMBRE O DOMICILIO
 
 ###### Artículo 284.
 
@@ -3085,11 +3145,13 @@ A quien sin ser servidor público, valiéndose de cualquier medio, se atribuya e
 
 Se aplicarán las penas previstas en el párrafo anterior, a quien fabrique, comercialice, almacene, transporte o distribuya vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública, sin contar con el permiso respectivo para ello, o a quien teniéndolo, haga uso indebido del mismo.
 
-### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
-### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 ###### Artículo 285.
 
@@ -3145,7 +3207,7 @@ IV. Bajo cualquier pretexto, se niegue injustificadamente a despachar, dentro de
 
 En las hipótesis previstas en la fracción III, la penalidad se aumentará hasta en una mitad de la pena a imponer.
 
-### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
+### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### Artículo 288.
 
@@ -3171,7 +3233,7 @@ IX. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a o
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
+### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
 ###### Artículo 289.
 
@@ -3189,7 +3251,7 @@ IX. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a o
 
 (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
-### CAPÍTULO III. PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
+### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
 ###### Artículo 293.
 
@@ -3215,9 +3277,7 @@ VIII. Inicie un proceso penal contra un servidor público con fuero.
 
 Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días multa, al servidor público que durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero ofrezca medios de prueba relativos a la comisión de un delito.
 
-### CAPÍTULO IV
-
-RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y DE ESTABLECIMIENTOS FUNERARIOS POR REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACIÓN
+### CAPÍTULO III. PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
 ###### Artículo 295.
 
@@ -3255,7 +3315,9 @@ Las mismas penas que señala el artículo anterior se aplicarán al profesional 
 
 Se impondrá prisión de seis meses a un año y multa de diez a treinta veces el salario, al profesional en medicina, técnico o práctico que con motivo de su profesión o actividad, tenga conocimiento del estado de abandono de un recién nacido, persona menor de edad o que no tenga la capacidad de comprender los hechos o adulto mayor, y omita dar aviso inmediato a la Procuraduría de la Defensa del Menor y la Familia del DIF Estatal o a la autoridad que exista en el lugar, quedando bajo la responsabilidad de esta última el informar a la autoridad competente.
 
-### CAPÍTULO V. SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
+### CAPÍTULO IV
+
+RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y DE ESTABLECIMIENTOS FUNERARIOS POR REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACIÓN
 
 ###### Artículo 299.
 
@@ -3267,7 +3329,7 @@ II. Otorgue indebidamente privilegios a los internos; o
 
 III. Permita ilegalmente la salida temporal de personas privadas de su libertad.
 
-### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
+### CAPÍTULO V. SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
 
 ###### Artículo 300.
 
@@ -3305,7 +3367,7 @@ DELITOS COMETIDOS POR PARTICULARES ANTE EL MINISTERIO PÚBLICO,
 
 AUTORIDAD JUDICIAL O ADMINISTRATIVA
 
-### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
 ###### Artículo 306.
 
@@ -3321,7 +3383,7 @@ De verificarse el perjuicio o los beneficios a que se refiere el primer párrafo
 
 Cuando en la comisión de este delito intervenga de forma directa o indirecta un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
-### CAPÍTULO III. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
+### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### Artículo 307.
 
@@ -3379,15 +3441,15 @@ Las penas previstas en este artículo se aumentarán en una mitad cuando se trat
 
 Además de las penas a que se refieren los artículos anteriores, se suspenderá hasta por tres años en el ejercicio de profesión, ciencia, arte u oficio al perito, intérprete o traductor, que se conduzca falsamente u oculte la verdad, al desempeñar sus funciones.
 
-### CAPÍTULO IV. DEL USO Y ACCESO ILÍCITO A LOS SISTEMAS Y EQUIPOS INFORMÁTICOS Y DE COMUNICACIÓN
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+### CAPÍTULO III. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 ###### Artículo 313.
 
 Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta días de trabajo a favor de la comunidad, a quien ante una autoridad judicial o administrativa en ejercicio de sus funciones, oculte o niegue su nombre o apellido o se atribuya uno distinto del verdadero, u oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
 
-### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO IV. DEL USO Y ACCESO ILÍCITO A LOS SISTEMAS Y EQUIPOS INFORMÁTICOS Y DE COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 314.
 
@@ -3397,7 +3459,7 @@ A quien con el propósito de inculpar a alguien como responsable de un delito an
 
 Se aplicarán las mismas penas a quien simule o aporte pruebas falsas en cualquier procedimiento jurisdiccional con el propósito de obtener beneficios o causar un perjuicio indebidos.
 
-### CAPÍTULO II. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 ###### Artículo 315.
 
@@ -3419,7 +3481,9 @@ Si el responsable de los delitos previstos en este artículo es un defensor part
 
 V. Como representante de la víctima o el ofendido, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación.
 
-### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO II. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 316.
 
@@ -3439,7 +3503,7 @@ No comete el delito a que se refiere al artículo anterior, quien oculte al resp
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### Artículo 318.
 
@@ -3447,13 +3511,13 @@ Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables d
 
 Además de las sanciones fijadas para los delitos que resulten consumados, se les podrá imponer suspensión de un mes a dos años en el ejercicio de la profesión y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos, siempre y cuando el resultado punible sea consecuencia directa e inmediata de dichas órdenes.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 319.
 
 A quien se atribuya el carácter de profesionista u ostente algún postgrado, sin haber cursado los estudios para obtener el título o certificación expedida por autoridades u organismos legalmente facultados para ello y ofrezca o desempeñe sus servicios bajo ese carácter, se le impondrá de dos a seis años de prisión y de doscientos a quinientos días multa.
 
-### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
+### CAPÍTULO I. REBELIÓN
 
 ###### Artículo 320.
 
@@ -3465,7 +3529,7 @@ II. Simule la práctica de una intervención quirúrgica; o
 
 III. Sin autorización del paciente o de la persona que ante la imposibilidad de aquél pueda legítimamente otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital.
 
-### CAPÍTULO III. SABOTAJE
+### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
 
 ###### Artículo 321.
 
@@ -3479,7 +3543,7 @@ II. Impidan la entrega de un recién nacido, por el mismo motivo.
 
 Se impondrá suspensión de derechos para ejercer un cargo de seis meses a dos años o multa de quinientas a dos mil veces el salario, a los directores, encargados o administradores de hospitales, sanatorios, clínicas, dispensarios, enfermerías, o cualquier otro centro de salud, o de agencias funerarias, cuando la autoridad correspondiente haya ordenado la entrega de un cadáver y por motivo injustificado la nieguen o la retarden.
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SABOTAJE
 
 ###### Artículo 323.
 
@@ -3489,15 +3553,13 @@ Al profesionista en medicina o enfermería que suministre un medicamento evident
 
 A las personas encargadas, empleadas o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud, se les impondrán seis meses a dos años de prisión y de cincuenta a doscientos días multa.
 
-### CAPÍTULO V. SEDICIÓN
+### CAPÍTULO IV. MOTÍN
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS
 
 VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
-
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+### CAPÍTULO V. SEDICIÓN
 
 ###### Artículo 325.
 
@@ -3513,9 +3575,9 @@ Si alguno de los hechos a que se refiere este artículo, se ejecuta por medio de
 
 Estas sanciones se impondrán con independencia de las que procedan si se ocasiona algún otro ilícito.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 326.
 
@@ -3524,6 +3586,10 @@ A quien abra o intercepte una comunicación escrita que no esté dirigida a él,
 Los delitos previstos en este artículo se perseguirán por querella.
 
 La misma sanción se impondrá en los casos en que la comunicación se encuentre registrada o archivada en sistemas o equipos de informática protegidos por algún mecanismo de seguridad.
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 327.
 
@@ -3569,9 +3635,9 @@ Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado s
 
 ###### Artículo 329.
 
-A quien elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, se le impondrán de dos a seis años de prisión y de trescientos a dos mil días multa.
+A quien elabore o altere, sin permiso de la autoridad competente, una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, se le impondrán de dos a cinco años de prisión y de trescientos a dos mil días multa.
 
-Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
+Las mismas penas se impondrán al que adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente; así mismo, al que con cualquier finalidad instale en un vehículo placas de circulación o autorización oficial para circular, que no le correspondan legalmente, o a sabiendas de esta circunstancia haga uso del mismo.
 
 ###### Artículo 330.
 
@@ -3905,27 +3971,69 @@ A quien haga aparecer ganado bovino como nacido en la Entidad, sin serlo, se le 
 
 Si en la comisión de cualesquiera de las conductas previstas en los artículos 361 y 362 se afecta el estatus zoosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-## TÍTULO VIGÉSIMO OCTAVO. DELITOS EN CONTRA DE LOS ANIMALES DE COMPAÑÍA POR ACTOS DE MALTRATO
+## TÍTULO VIGÉSIMO OCTAVO. DELITOS FISCALES
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 364.
 
-Se impondrá multa de hasta doscientos salarios a quien omita dolosamente prestar cuidados a un animal de compañía, que sea de su propiedad y que esta omisión ponga en peligro la salud del animal.
+Para iniciarse el procedimiento penal por los delitos fiscales, es necesario denuncia precisamente de la autoridad fiscal correspondiente.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+Se extinguirá la acción penal y la autoridad fiscal correspondiente otorgará el perdón al imputado en los delitos fiscales, si antes de que se haya dictado sentencia de primera instancia se pagan las prestaciones fiscales originadas por el hecho atribuido, o si a juicio de la autoridad fiscal se ha garantizado debidamente el interés fiscal.
+
+En los delitos fiscales no se aplicarán sanciones pecuniarias en el procedimiento penal; las autoridades fiscales harán efectivas las prestaciones omitidas y las sanciones administrativas correspondientes, con arreglo a las disposiciones del Código Fiscal del Estado de Chihuahua.
+
+Para que se otorgue el beneficio de la condena condicional o del procedimiento especial abreviado, además de los requisitos señalados en el Código de la materia, deberá acreditarse que el interés fiscal está satisfecho o garantizado.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 365.
 
-Al que dolosamente cometa actos de maltrato en contra de cualquier animal de compañía, causándole lesiones que pongan en peligro la vida del animal, se le impondrá de seis meses a un año de prisión y multa de hasta doscientos cincuenta salarios.
+Habrá lugar al procedimiento penal en los términos señalados en el artículo anterior, cuando se realicen las conductas que a continuación se describen:
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+I. Comete el delito de defraudación fiscal el contribuyente que realice cualquier hecho, aserción, omisión, simulación, ocultación o maniobra que tenga por objeto producir o facilitar la evasión total o parcial de los tributos, siempre y cuando el perjuicio resentido por el fisco exceda de veinticinco mil pesos.
+
+Salvo prueba en contrario, la intención de defraudar al fisco se presume en los casos siguientes:
+
+a) Cuando haya contradicción entre los datos que consten en libros, documentos o demás antecedentes relativos, con los datos que surjan de las declaraciones fiscales.
+
+b) Cuando las declaraciones fiscales contengan datos falsos, incluidas las presentadas por medio de la red electrónica mundial.
+
+c) Proporcionar con falsedad, a las autoridades fiscales que lo requieran, los datos que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que se causen.
+
+d) Excluir algún bien, actividad u operación gravable, que implique una declaración fiscal incompleta.
+
+e) Informar inexactamente sobre negocios o actividades concernientes a ventas, compras, existencia o valuación de mercancía, capitales o factores análogos y similares.
+
+f) No llevar o no exhibir a las autoridades fiscales los libros de contabilidad o documentos de comprobación suficiente, cuando la naturaleza o volumen de las operaciones desarrolladas no justifiquen esa omisión.
+
+g) Llevar dos o más libros similares con distintos asientos o datos, aun cuando se trate de libros no autorizados.
+
+h) Destruir, ordenar o permitir la destrucción total o parcial, dejándolos ilegibles, de los libros de contabilidad que prevengan las disposiciones fiscales.
+
+i) No enterar a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los causantes, por concepto de contribuciones.
+
+El delito de defraudación fiscal se sancionará con prisión de seis meses a dos años de prisión, si el monto de lo defraudado o de lo que se intentó defraudar importa de veinticinco mil pesos un centavo hasta cien mil pesos. Si es mayor de esta cantidad, se aplicarán de nueve meses a diez años.
+
+Cuando no se pueda determinar la cuantía de lo que se defraudó o intentó defraudar, la pena será de seis meses a tres años de prisión.
+
+II. Se sancionará con prisión de seis meses a cinco años, a los funcionarios o empleados públicos que practiquen o pretendan practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
+
+III. Se sancionará con prisión de seis meses a seis años, al que sin derecho o autorización oficial, imprima, grave, manufacture, altere, destruya o mutile, compre, venda, posea, ponga en circulación, realice cualquier hecho jurídico o utilice, marbetes, calcomanías, placas o tarjetones, formas valoradas o numeradas y, en general, cualquier valor fiscal o documento comprobatorio de pago, exención, cancelación o reducción de algún tributo.
+
+IV. Se sancionará con prisión de seis meses a un año:
+
+a) Al que sin causa justificada, por vías de hecho se oponga o resista a las visitas de inspección o a proporcionar datos, informes o documentos que soliciten las autoridades fiscales en el desempeño de sus funciones.
+
+b) Al que viole, deteriore o destruya los sellos o marcas colocados con finalidad fiscal, con el propósito de que dejen de cumplir el objeto para el que fueron destinados.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 366.
 
-Al que dolosamente cometa actos de maltrato en contra de algún animal de compañía, causándole la muerte, se le impondrá de seis meses a dos años de prisión y multa de hasta doscientos cincuenta salarios.
+Independientemente de las medidas de carácter administrativo a que se refiere la fracción I del artículo 94 del Código Fiscal del Estado de Chihuahua, se impondrá de seis meses a tres años de prisión al causante que deliberadamente y con el fin de defraudar al fisco, falsee sus declaraciones o realice maniobras tendientes a ocultar sus verdaderos ingresos, sin perjuicio de exigirse el pago del adeudo y de las sanciones fiscales procedentes.
 
 ## TRANSITORIOS
 
@@ -4294,6 +4402,22 @@ P.O. 8 DE JUNIO DE 2013.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO No. 1307/201311 P.O. POR EL QUE SE REFORMAN LOS ARTÍCULOS 43, PRIMER PÁRRAFO Y FRACCIÓN III; 91 BIS; 133; 138, FRACCIÓN I; 139; 140; 171, PRIMER PÁRRAFO; 175, FRACCIÓN III; 204, PRIMER PÁRRAFO; 208, PRIMER PÁRRAFO; 211, PRIMER PÁRRAFO Y FRACCIÓN XIII; 212, PRIMER PÁRRAFO Y FRACCIÓN IV; 261, FRACCIÓN I, INCISO B); Y 329; SE ADICIONA EL ARTÍCULO 138, CON UN SEGUNDO PÁRRAFO; AL TÍTULO DÉCIMO OCTAVO, UN CAPÍTULO VIII DENOMINADO “CONTRA LA SEGURIDAD DE LA COMUNIDAD”, MISMO QUE CONTIENE UN ARTÍCULO 284 BIS; Y UN TÍTULO VIGÉSIMO OCTAVO DENOMINADO “DELITOS FISCALES”, QUE CONTIENE LOS ARTÍCULOS 364, 365 Y 366; TODOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO No. 1389/2013 XIV P.E. POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, EN SUS ARTÍCULOS 173, PRIMER PÁRRAFO; 174, PRIMER PÁRRAFO; 188, PRIMER PÁRRAFO Y 284 BIS; SE ADICIONA CON UN SEGUNDO PÁRRAFO EL ARTÍCULO 51; Y CON UN TERCER PÁRRAFO EL 284 BIS.
 
 ###### ARTÍCULO ÚNICO.
 
