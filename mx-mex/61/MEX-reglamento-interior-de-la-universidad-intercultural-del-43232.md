@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-intercultural-del-43232"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-19"
-last_updated: "2005-01-19"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2013
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 19 de enero de 2005.
 
@@ -126,15 +126,33 @@ II. Dirección de División de Desarrollo Sustentable.
 
 III. Dirección de División de Comunicación Intercultural.
 
-IV. Dirección de Administración y Finanzas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
 
-V. Departamento de Investigación.
+IV. Dirección de División de Salud Intercultural
 
-VI. Departamento de Planeación, Programación y Evaluación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
 
-VII. Departamento de Control Escolar.
+V. Dirección de Vinculación y Extensión Universitaria
 
-VIII. Abogado General.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+Vi. Dirección de Administración y Finanzas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+VII. Departamento de Investigación.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+VIII. Departamento de Planeación, Programación y Evaluación.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+IX. Departamento de Control Escolar.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+X. Abogado General.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la estructura orgánica y presupuesto autorizados a la Universidad.
 
@@ -176,7 +194,13 @@ XIII. Proponer al Rector la suscripción de acuerdos, convenios y contratos orie
 
 XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia.
 
-XV. Las demás que les confieran otras disposiciones aplicables y aquellas que les encomiende el Rector.
+> <small>(REFORMADA , G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+XV. Someter a la consideración del Rector acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la Unidad Administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento, y
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+XVI. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Rector.
 
 ### CAPITULO V. DE LAS DIRECCIONES, DE LOS DEPARTAMENTOS Y DEL ABOGADO GENERAL
 
@@ -218,6 +242,24 @@ XVI. Establecer políticas y lineamientos para la asignación de becas a los est
 
 XVII. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Rector.
 
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 14 Bis.
+
+Corresponde a la Dirección de Vinculación y Extensión Universitaria las atribuciones siguientes:
+
+l. Celebrar convenios con los sectores público, privado y social para que coadyuven con los objetivos de la Universidad.
+
+II. Elaborar proyectos de vinculación que permitan ofrecer servicios de educación continúa (sic) y el desarrollo académico.
+
+III. Coordinar las comisiones académicas y de vinculación para la actualización de planes y programas de estudio de la Universidad
+
+IV. Proponer al Rector programas que permitan una mayor vinculación con los sectores público, privado y social con organismos nacionales e internacionales.
+
+V. Someter a la consideración del Rector acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento, y
+
+VI Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Rector.
+
 ###### Artículo 15.
 
 Corresponde a la Dirección de Administración y Finanzas:
@@ -250,9 +292,15 @@ XIII. Integrar y someter a la consideración del Rector los proyectos de manuale
 
 XIV. Promover la capacitación y desarrollo del personal administrativo y docente de la Universidad.
 
-XV. Promover y, en su caso, ejecutar acciones para la modernización administrativa de la Universidad y vigilar su cumplimiento.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+XV. Someter a la consideración del Rector acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la Unidad Administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento, y
 
 XVI. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Rector.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2013)</small>
+
+XVII. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Rector.
 
 ###### Artículo 16.
 
@@ -340,13 +388,17 @@ IX. Las demás que le confieran otras disposiciones aplicables y aquellas que le
 
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 20.
 
-El Rector será suplido en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días, por quien designe el Presidente del Consejo Directivo.
+El Rector será suplido en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días hábiles por quien designe el Presidente del Consejo Directivo.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 21.
 
-Los directores, abogado general y jefes de Departamento serán suplidos en sus ausencias menores de 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Rector.
+Los Directores, Abogado General y Jefes de Departamento serán suplidos en sus ausencias menores de 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen.
 
 T R A N S I T O R I O S
 
@@ -365,3 +417,13 @@ M. EN C. S. FELIPE GONZÁLEZ ORTIZ
 ENCARGADO DE LA RECTORÍA DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO JURÍDICO.
+
+G.G. 18 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía jurídica que se opongan a las establecidas en el presente Acuerdo.
