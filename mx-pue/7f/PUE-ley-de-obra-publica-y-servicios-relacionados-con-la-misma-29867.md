@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2012-09-19"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -111,11 +111,13 @@ La obra pública que sea considerada como proyecto de inversión, se regirá por
 
 Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-I.- Convocante: La Secretaría de Desarrollo Urbano y Obras Públicas, las Dependencias y Entidades Paraestatales que de conformidad con la Ley Orgánica de la Administración Pública del Estado, su Decreto de creación, Reglamentos Interiores y demás disposiciones aplicables, según sea el caso, cuenten con facultades para ejecutar obra, así como el Comité de Obra Municipal en el ámbito municipal, según corresponda;
+I.- Convocante: La Secretaría de Infraestructura, las Dependencias y Entidades Paraestatales que de conformidad con la Ley Orgánica de la Administración Pública del Estado, su Decreto de creación, Reglamentos Interiores y demás disposiciones aplicables, según sea el caso, cuenten con facultades para ejecutar obra, así como el Comité de Obra Municipal en el ámbito municipal, según corresponda.
 
-II.- Contraloría.- La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública Estatal o su similar Municipal;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+II.- Contraloría.- La Secretaría de la Contraloría o su similar Municipal;
 
 III.- Contratista.- La persona que celebre contratos de obras públicas o de servicios relacionados con las mismas;
 
@@ -131,9 +133,9 @@ VIII.- Servicios relacionados con la misma.- Todos aquellos que tengan como fina
 
 IX.- Presidente.- El Presidente Municipal; y
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-X.- Secretaría.- La Secretaría de Desarrollo Urbano y Obras Públicas.
+X.- Secretaría.- La Secretaría de Infraestructura.
 
 ###### ARTÍCULO 3.
 
@@ -149,11 +151,11 @@ IV.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas
 
 V.- Los demás de naturaleza análoga.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 4.
 
-La Secretaría de Gobernación; la Secretaría; la Contraloría y el Presidente en su caso, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta Ley.
+La Secretaría General de Gobierno; la Secretaría; la Contraloría y el Presidente en su caso, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta Ley.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -461,6 +463,10 @@ XI.- Los términos en que se desahogarán las fases de los procedimientos de adj
 
 XII.- Los demás requisitos generales que deban cumplir los interesados, atendiendo a las características, complejidad y magnitud de los trabajos.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 27 BIS.- En los procedimientos de adjudicación de obras o servicios relacionados, podrán intervenir la Contralora Social o testigos sociales, a juicio de la Contraloría y/o de las dependencias o entidades contratantes, conforme a los lineamientos que para ese efecto dicte la Contraloría.
+
 ###### ARTÍCULO 28.
 
 Todo interesado que satisfaga los términos de la convocatoria respectiva, tendrá derecho a participar en el procedimiento de licitación, presentando sus proposiciones por los medios que considere oportuno, de acuerdo con las disposiciones que para tal efecto se establezcan.
@@ -689,7 +695,11 @@ III.- Existan circunstancias que puedan provocar pérdidas o costos adicionales 
 
 IV.- Derivado de caso fortuito o fuerza mayor, no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública, en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto, deberán limitarse a lo estrictamente necesario para afrontarlo;
 
-V.- Cuando se haya declarado firme la rescisión administrativa del contrato respectivo por causas imputables al contratista que hubiere resultado ganador en un procedimiento de adjudicación. En estos casos la dependencia o entidad podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al diez por ciento;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+V.- Se haya declarado firme la rescisión administrativa del contrato respectivo por causas imputables al contratista que hubiere resultado ganador en un procedimiento de adjudicación.
+
+En este caso, la dependencia o entidad podrá optar por seleccionar, además de los procedimientos a los que se refiere este artículo, el procedimiento de adjudicación directa del contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al diez por ciento.
 
 VI.- Realizada una licitación haya sido declarada desierta;
 
@@ -817,7 +827,7 @@ d) Cualquier otra que las partes estipulen en el contrato o que por Ley les corr
 
 ###### ARTÍCULO 49.
 
-Todos los contratos de obras públicas y servicios relacionados con las misma, a que se refiere esta Ley, deberán contener como mínimo lo siguiente:
+Todos los contratos de obras públicas y servicios relacionados con las mismas, a que se refiere esta Ley, deberán contener como mínimo lo siguiente:
 
 I.- La autorización del presupuesto para cubrir el compromiso derivado del contrato y sus anexos;
 
@@ -851,9 +861,11 @@ XIV.- Tratándose de contratos celebrados con empresas supervisoras de obras, ad
 
 La Contraloría, en el ámbito de sus facultades, expedirá los lineamientos bajo los cuales las dependencias y entidades ejecutoras deban suscribir los contratos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 50.
 
-La adjudicación del contrato obligará a la dependencia o entidad y a la persona en quien hubiere recaído, a formalizar el documento relativo, dentro de los quince días hábiles siguientes al de la notificación del fallo, debiendo remitir copia del mismo a la Contraloría, dentro del término de seis días hábiles posteriores a la formalización.
+La adjudicación del contrato obligará a la dependencia o entidad y a la persona en quien hubiere recaído, a formalizar el documento relativo, dentro de los tres días hábiles siguientes al de la notificación del fallo, debiendo remitir copia del mismo a la Contraloría, dentro del término de cinco días hábiles posteriores a la formalización.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -895,7 +907,7 @@ La garantía a que se refiere la fracción IV de este artículo podrá ser const
 
 ###### ARTÍCULO 53.
 
-Las garantías que deban otorgar los contratistas de obras públicas y servicios relacionados con las misma, de conformidad con esta Ley, se constituirán a favor de:
+Las garantías que deban otorgar los contratistas de obras públicas y servicios relacionados con las mismas, de conformidad con esta Ley, se constituirán a favor de:
 
 I.- La Secretaría de Finanzas y Administración del Gobierno del Estado, por actos o contratos que celebren el propio Estado a través de sus dependencias o entidades; y
 
@@ -906,6 +918,10 @@ II.- Las Tesorerías Municipales cuando se trate de actos o contratos celebrados
 El otorgamiento del anticipo a que se refiere el artículo 52 de esta Ley se deberá pactar en los contratos y se sujetará a las siguientes disposiciones:
 
 I.- La cantidad equivalente del anticipo concedido será puesta a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso del anticipo será motivo para diferir en igual plazo el programa de ejecución que se haya pactado. Cuando el contratista no entregue la garantía de anticipo en el momento señalado en el artículo 52 de este ordenamiento, no procederá el diferimiento, y por tanto quedará obligado a iniciar los trabajos en la fecha establecida originalmente;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+El contratista podrá, mediante pacto expreso, aceptar con posterioridad al inicio de los trabajos, el anticipo respectivo, estando en la disposición de iniciar la ejecución de los mismos en la fecha del plazo inicialmente contratado, en virtud de contar con la capacidad financiera, técnica, administrativa y legal necesaria para la ejecución de la obra a realizar. Para efectos de lo anterior, únicamente en el presente supuesto, la garantía establecida en el artículo 52 mencionado con antelación, se entregará al momento de recibir el anticipo respectivo.
 
 II.- Las dependencias y entidades podrán otorgar como anticipo hasta un treinta por ciento de la asignación presupuestal aprobada al contrato en el ejercicio de que se trate, para que el contratista realice en el sitio de los trabajos la construcción de sus oficinas, almacenes, bodegas, e instalaciones, y en su caso, para los gastos de traslado de la maquinaria y equipo de construcción e inicio de los trabajos, así como para la compra y producción de materiales de construcción, la adquisición de equipos que deban instalarse y demás insumos que deberán otorgar.
 
@@ -923,11 +939,17 @@ En ejercicios subsecuentes, la entrega del anticipo deberá hacerse dentro de lo
 
 VI.- No deberán otorgarse anticipos para los convenios que se celebren en términos del artículo 69 de esta Ley, salvo para aquéllos que alude el último párrafo del mismo; ni para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate.
 
-Para la amortización del anticipo en el supuesto de que sea rescindido el contrato, el saldo por amortizar se reintegrará a la dependencia o entidad en un plazo no mayor de diez días naturales, contados a partir de la fecha en que le sea comunicado al contratista la determinación de dar por rescindido el contrato.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Para la amortización del anticipo en el supuesto de que sea rescindido el contrato, el saldo por amortizar se reintegrará a la dependencia o entidad en un plazo no mayor de cinco días hábiles, contados a partir de la fecha en que le sea notificado al contratista la determinación de dar por rescindido el contrato.
 
 El contratista que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme a lo indicado en el párrafo primero del artículo 65 de esta Ley.
 
 La amortización del anticipo se aplicará proporcionalmente con cargo a cada una de las estimaciones por trabajos ejecutados que se formulen, debiéndose liquidar el faltante por amortizar en la estimación finiquito. En caso de que la dependencia o entidad omita presentar estimaciones o en su caso el finiquito de los trabajos conforme a la presente Ley, estarán obligados a realizar el reintegro de los recursos pagados, a la Secretaría de Finanzas y Administración en un término que no excederá del ejercicio fiscal en que fueron otorgados los recursos, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+La Contraloría podrá verificar en cualquier momento el debido cumplimiento de la presente disposición, así como solicitar a los contratistas la acreditación de la aplicación del anticipo.
 
 ###### ARTÍCULO 55.
 
@@ -951,15 +973,35 @@ V.- Quienes hayan sido declaradas por autoridad competente intervenidas o sujeta
 
 VI.- Los licitantes que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común;
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 VII.- Quienes pretendan participar en un procedimiento de contratación y previamente, hayan realizado o se encuentren realizando por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, el proyecto de que se trate; trabajos de dirección, coordinación, supervisión y control de obra e instalaciones; laboratorio de análisis y control de calidad, geotecnia, mecánica de suelos y de resistencia de materiales, radiografías industriales, preparación de especificaciones de construcción, presupuesto de los trabajos, selección o aprobación de materiales, equipos y procesos, o la elaboración de cualquier otro documento vinculado con el procedimiento en que se encuentran interesadas en particular;
+
+Las personas que hayan realizado, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, estudios, planes o programas para la realización de obras públicas asociadas a proyectos de infraestructura en los que se incluyan trabajos de preparación de especificaciones de construcción, presupuesto, selección o aprobación de materiales, equipos o procesos, podrán participar en el procedimiento de licitación pública para la ejecución de los proyectos de infraestructura respectivos, siempre y cuando la información utilizada por dichas personas en los supuestos indicados, sea proporcionada a los demás licitantes.
 
 VIII.- Aquéllas que por sí o a través de empresas que forman parte del mismo grupo empresarial, pretendan ser contratadas para la elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean partes;
 
 IX.- Aquéllas que presenten atraso en la ejecución de obra pública por causas imputables a ellos mismos;
 
-X.- Quienes no se encuentren inscritos en el listado de contratistas calificados o no tengan revalidado su registro, salvo lo establecido por la Ley Federal; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-XI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
+X.- Aquellas que habiendo sido contratadas para la ejecución de alguna obra, ésta presente vicios o defectos ocultos. En este caso el impedimento subsistirá hasta que los mismos se subsanen a satisfacción de la dependencia, entidad o de la Contraloría;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XI.- Aquellas que incurran en el supuesto a que se refiere el artículo 95 fracción IV de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XII.- Aquellas que se encuentren sujetas a algún procedimiento de suspensión o cancelación de calificación, o del listado de contratistas;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XIII.- Aquellas que no se encuentren inscritas en el listado de contratistas calificados o no tengan revalidado su registro, salvo lo establecido por la Ley Federal; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
 #### SECCIÓN QUINTA. DE LA CALIFICACIÓN DE LOS CONTRATISTAS Y LABORATORIOS
 
@@ -983,13 +1025,15 @@ La convocante deberá solicitar a la Contraloría o al Comité de Obra Municipal
 
 El reglamento correspondiente establecerá los requisitos que deberán reunir los interesados en obtener la calificación para ejecutar obras o prestar servicios relacionados, en el Estado. De igual forma incorporará las condiciones que se requerirán para acreditar la solvencia económica, técnica y moral, así como la especialización y experiencia de los contratistas y prestadores de servicios relacionados con la misma. Dichos requisitos deberán ser difundidos por la Contraloría y el Comité de Obra Municipal según corresponda a través de medios electrónicos.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-La Contraloría durante el proceso de calificación o en la instrumentación de un proceso de adjudicación, podrá verificar la veracidad de la información que proporcionen los solicitantes de una calificación.
+La Contraloría y el Comité de Obra Pública Municipal según corresponda, podrán implementar mecanismos electrónicos para recibir y tramitar las solicitudes de calificación o revalidación.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+La Contraloría durante los procesos de calificación, adjudicación, contratación o vigencia de la calificación, podrá verificar la veracidad de la información que proporcionen los solicitantes de una calificación o contratistas según sea el caso.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 La Contraloría y el Comité de Obra Municipal, en el ámbito de su competencia, administrarán un listado de laboratorios calificados que realicen pruebas de calidad, las cuales se regirán en lo conducente por lo establecido en la presente sección y en el reglamento correspondiente.
 
@@ -1057,7 +1101,9 @@ III.- Si de conformidad con lo que dispone el artículo anterior la suspensión 
 
 IV.- Que la suspensión de pago sea inevitable y definitiva; y
 
-V.- Por otras causas legales que el Comité determine conforme a la ley, fundando y motivando su resolución.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+V.- Por otras causas legales que el Comité o la Contraloría, según corresponda, determinen conforme a la ley, fundando y motivando su resolución.
 
 ###### ARTÍCULO 62.
 
@@ -1149,7 +1195,9 @@ Las dependencias y entidades están facultadas para suspender temporalmente, por
 
 Asimismo podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general; existan causas justificadas que impidan la continuación de los trabajos y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado o Municipio en su caso, o bien no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere el párrafo anterior.
 
-En los casos anteriores, las dependencias y entidades deberán hacer del conocimiento de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, esta situación previamente a la iniciación del procedimiento.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+En los casos anteriores, las dependencias y entidades deberán hacer del conocimiento de la Contraloría, esta situación previamente a la iniciación del procedimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -1159,11 +1207,17 @@ La Secretaría el Presidente Municipal y en su caso las dependencias y entidades
 
 El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
 
-I.- Se iniciará con la comunicación que se haga al contratista de la causa de interés general o del incumplimiento en que haya incurrido, para que dentro de un término de quince días hábiles manifieste lo que a su derecho convenga y ofrezca, en su caso las pruebas que estime pertinentes a excepción de la confesional y la declaración de parte;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-II.- Transcurrido el término señalado en la fracción anterior, dentro de los cinco días hábiles siguientes, se resolverá lo procedente considerando los argumentos y pruebas que hubiere hecho valer; y
+I.- Se iniciará con la notificación del inicio del procedimiento administrativo de rescisión instaurado al contratista, en el que conste la causa de interés general o del incumplimiento en que haya incurrido, para que dentro de un término de tres días hábiles, manifieste lo que a su derecho convenga y ofrezca, en su caso las pruebas que estime pertinentes, a excepción de la confesional y la declaración de parte;
 
-III.- La resolución que se dicte deberá estar debidamente fundada, motivada y será notificada al contratista dentro de los diez días hábiles siguientes a la fecha en que se hubiere dictado la misma, sin que proceda recurso alguno.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+II.- Una vez transcurrido el término señalado en la fracción anterior, dentro de los tres días hábiles siguientes, se dictará la resolución que en derecho corresponda, considerando los argumentos y pruebas que hubiere hecho valer; y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+III.- La resolución que se dicte deberá estar debidamente fundada, motivada y será notificada al contratista dentro de los cinco días hábiles siguientes a la fecha en que se hubiere dictado la misma, sin que proceda recurso alguno.
 
 ###### ARTÍCULO 72.
 
@@ -1185,7 +1239,9 @@ V.- Si la dependencia o entidad no contesta en el plazo a que se refiere el pár
 
 VI.- Una vez que la dependencia o entidad de que se trate, comunique la terminación anticipada de los contratos o el inicio del procedimiento de rescisión de los mismos, procederá asistido de un fedatario público a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble o de las instalaciones respectivas, levantando con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentren, la que deberá ser firmada por el representante de la Contraloría correspondiente, que asista; y
 
-VII.- El contratista estará obligado a devolver a la dependencia o entidad, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado y generado, para la realización de los trabajos. De no hacerlo en este plazo, la dependencia o entidad dará aviso a la Contraloría, dentro de un plazo que no excederá de tres días naturales, para que ésta determine lo que proceda conforme a derecho.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VII.- El contratista estará obligado a devolver a la dependencia o entidad, en un plazo de tres días hábiles, contados a partir de la notificación del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado y generado para la realización de los trabajos. De no hacerlo en este plazo, la dependencia o entidad dará aviso a la Contraloría para que se determine lo procedente.
 
 ###### ARTÍCULO 73.
 
@@ -1195,7 +1251,9 @@ En el caso de los supuestos a que se refiere el artículo anterior, la dependenc
 
 Cuando el contratista haya concluido los trabajos que le fueron encomendados, lo comunicará oportunamente a la dependencia o entidad, para que ésta, dentro del plazo que se haya pactado, proceda junto con la Contraloría a verificar la debida terminación de los mismos, conforme a las condiciones establecidas en el contrato. Una vez hecha la verificación de los trabajos, la dependencia o entidad contará con un plazo máximo de diez días hábiles para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando la obra o los trabajos bajo responsabilidad de la dependencia o entidad contratante.
 
-Una vez recibidos físicamente los trabajos, las partes deben elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor y en contra que correspondan para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Una vez recibidos físicamente los trabajos, las partes deben elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor y en contra que correspondan para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante, lo que deberá realizarse en un plazo no mayor de sesenta días naturales.
 
 Si existe desacuerdo entre las partes respecto al finiquito o bien, el contratista no acude con la dependencia o entidad para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo, debiendo comunicar su resultado al contratista dentro de un plazo de cinco días hábiles, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de cinco días hábiles para alegar lo que a su derecho corresponda y transcurrido este plazo si no realiza ninguna gestión, se tendrá por aceptado.
 
@@ -1307,7 +1365,9 @@ La convocante debe conservar copia de los expedientes necesarios para los trámi
 
 Las dependencias y entidades controlarán el desarrollo de todas las fases de las obras y servicios relacionados con ellas, las cuales estén a su cargo; sujetándose a la normatividad que dicte la Contraloría o el Presidente en su caso, estableciendo para tal efecto los medios y procedimientos de control y supervisión que se requieran.
 
-En aquellas obras o servicios con participación de recursos de los Municipios, el Presidente Municipal por sí o por algún funcionario del Ayuntamiento supervisará la correcta ejecución de los trabajos o servicios contratados, debiendo informar de las anomalías a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para que por su conducto se ejecuten las medidas pertinentes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+En aquellas obras o servicios con participación de recursos de los Municipios, el Presidente Municipal por sí o por algún funcionario del Ayuntamiento supervisará la correcta ejecución de los trabajos o servicios contratados, debiendo informar de las anomalías a la Contraloría, para que por su conducto se ejecuten las medidas pertinentes.
 
 ###### ARTÍCULO 90.
 
@@ -1333,7 +1393,9 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 Los licitantes o contratistas que infrinjan las disposiciones contenidas en esta Ley o demás normas aplicables o que con base en ella se dicten, serán sancionados por la Contraloría, pudiendo consistir en:
 
-I.- Multa equivalente de cincuenta a mil veces el salario mínimo general diario vigente en la zona económica del Estado, en la fecha de la infracción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+I.- Multa equivalente de cincuenta a cinco mil veces el salario mínimo general diario vigente en la zona económica del Estado, en la fecha de la infracción.
 
 Las multas que imponga las autoridades estatales o municipales, una vez que sean notificadas y exigibles, se constituirán en créditos fiscales a favor del erario estatal o municipal según corresponda, y se turnará a la Secretaría de Finanzas y Administración o a la Tesorería Municipal para su cobro a través del Procedimiento Administrativo de Ejecución que establecen las disposiciones fiscales estatales o municipales;
 
@@ -1361,13 +1423,27 @@ La Contraloría impondrá las sanciones establecidas en el artículo anterior, a
 
 I.- Si los participantes en los procedimientos de adjudicación de contratos de obra pública o servicios relacionados con ésta, señalados en el artículo 23 de esta Ley, injustificadamente y por causas imputables a los mismos no formalizaren el contrato adjudicado por la convocante;
 
-II.- Los contratistas que se encuentren en los supuestos de la fracción III del artículo 55 de esta Ley, respecto de dos o más dependencias o entidades;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+II.- Los contratistas que se encuentren en los supuestos de la fracción III del artículo 55 de esta Ley;
 
 III.- En el caso de que los contratistas incumplan con una o más de sus obligaciones contractuales por causas imputables a ellos;
 
-IV.- Cuando los licitantes o contratistas proporcionen información falsa o actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, en el trámite para la obtención del registro, en el listado de contratistas calificados o para su revalidación o bien, en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-V.- Los contratistas que durante el proceso de ejecución, realicen cobros por conceptos de obra no ejecutados o consientan que las dependencias y entidades no efectúen las amortizaciones de los anticipos en la forma contratada.
+IV.- Cuando los licitantes o contratistas proporcionen información falsa o actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, en el trámite para la obtención del registro, en el listado de contratistas calificados o para su revalidación o bien, en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+V.- Los contratistas que durante el proceso de ejecución, realicen cobros por conceptos de obra no ejecutados o consientan que las dependencias y entidades no efectúen las amortizaciones de los anticipos en la forma contratada;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VI.- Aquellos quienes hayan celebrado contratos en contravención a lo dispuesto por esta Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VII.- Los contratistas que siendo contratados para realizar actividades de laboratorios o supervisión, hayan avalado conceptos que no cumplan con las especificaciones, o bien conceptos pagados en exceso o de mala calidad en la ejecución de la obra.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -1626,3 +1702,9 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
