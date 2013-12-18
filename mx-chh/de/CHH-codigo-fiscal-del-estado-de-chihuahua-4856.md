@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2012-10-06"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1063,7 +1063,7 @@ GRUPO QUINTO.- Con multa hasta de tres tantos de la prestación fiscal omitida, 
 
 I.- Si la infracción consiste en no presentar declaraciones dentro de los plazos legales, omitiéndose así el pago del impuesto; si las declaraciones se presentan con omisiones o falsedades; si se comprueba que el causante ha realizado maniobras tendientes a ocultar sus ingresos verdaderos o si la falta es la prevista en la fracción I del Artículo 89, además de la multa se clausurará preventivamente el establecimiento y de no ser posible esto por la naturaleza del negocio o por la situación del local, todos los bienes del mismo serán secuestrados y depositados en el lugar que designe el ministro ejecutor bajo su más estricta responsabilidad.
 
-II.- Independientemente de las medidas de carácter administrativo a que se refiere la fracción anterior, se impondrá por la autoridad judicial, en su caso, una pena de tres meses a tres años de prisión al causante que deliberadamente y con el fin de defraudar al Fisco, falsee sus declaraciones o realice maniobras tendientes a ocultar sus verdaderos ingresos, sin perjuicio de exigirse el pago del adeudo y de las sanciones fiscales procedentes.
+II.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2013)
 
 III.- No se llevará a cabo la clausura a que se refiere la fracción I, si el causante paga el importe del impuesto que adeude, más el monto de las sanciones y recargos a que se haya hecho acreedor. También serán a cargo del causante los gastos de ejecución ocasionados por esta diligencia.
 
@@ -1151,65 +1151,9 @@ Se entiende que hay reincidencia, cuando en el término de 5 años la misma pers
 
 Tratándose de funcionarios o empleados públicos que cometan infracciones graves, la falta podrá castigarse, también, con la destitución del cargo o empleo que ocupen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+98.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2013)
 
-98.- Para incoarse el procedimiento penal por los delitos previstos en este Código, es necesario denuncia precisamente del Secretario de Hacienda.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-Se extinguirá la acción penal y la Secretaría de Hacienda otorgará el perdón al presunto responsable, si antes de que se haya dictado sentencia de primera instancia se pagan las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la Secretaría de Hacienda se ha garantizado debidamente el interés fiscal.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-En los delitos fiscales no se aplicarán sanciones pecuniarias en el procedimiento penal; las autoridades fiscales harán efectivas las prestaciones omitidas y las sanciones administrativas correspondientes, con arreglo a las disposiciones de este Código.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-Para que se otorgue el beneficio de la libertad caucional, de la condena condicional o del juicio sumario, además de los requisitos señalados en el Código de la materia deberá acreditarse que el interés fiscal está satisfecho o garantizado.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-En todo lo no previsto en este artículo y el siguiente, serán aplicables las reglas de los Códigos de Defensa Social y de Procedimientos en Materia de Defensa Social.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-99.- Habrá lugar al procedimiento penal en los términos señalados en el artículo anterior, cuando se realicen las conductas que a continuación se describen:
-
-I.- Comete el delito de defraudación fiscal el contribuyente que realice cualquier hecho, aserción, omisión, simulación, ocultación o maniobra que tenga por objeto producir o facilitar la evasión total o parcial de los tributos, siempre y cuando el perjuicio resentido por el fisco exceda de veinticinco mil pesos. Salvo prueba en contrario, la intención de defraudar al fisco se presume en los casos siguientes:
-
-a).- Cuando haya contradicción entre los datos que consten en libros, documentos o demás antecedentes relativos, con los datos que surjan de las declaraciones fiscales.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-b).- Cuando las declaraciones fiscales contengan datos falsos, incluidas las presentadas por medio de la red electrónica mundial.
-
-c).- Proporcionar con falsedad, a las autoridades fiscales que lo requieran, los datos que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que se causen.
-
-d).- Excluir algún bien, actividad u operación gravable, que implique una declaración fiscal incompleta.
-
-e).- Informar inexactamente sobre negocios o actividades concernientes a ventas, compras, existencia o valuación de mercancía, capitales o factores análogos y similares.
-
-f).- No llevar o no exhibir a las autoridades fiscales los libros de contabilidad o documentos de comprobación suficiente, cuando la naturaleza o volumen de las operaciones desarrolladas no justifiquen esa omisión.
-
-g).- Llevar dos o más libros similares con distintos asientos o datos, aún cuando se trate de libros no autorizados.
-
-h).- Destruir, ordenar o permitir la destrucción total o parcial dejándolos ilegibles, de los libros de contabilidad que prevengan las disposiciones fiscales.
-
-i).- No enterar a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los causantes, por concepto de contribuciones.
-
-El delito de defraudación fiscal se sancionará con prisión de tres días a dos años de reclusión, si el monto de lo defraudado o de lo que se intentó defraudar importa de veinticinco mil pesos un centavo hasta cien mil pesos. Si es mayor de esta cantidad, se aplicarán de seis meses a diez años.
-
-Cuando no se pueda determinar la cuantía de lo que se defraudó o intentó defraudar, la pena será de tres días a tres años de prisión.
-
-II.- Se sancionará con prisión hasta de tres años, a los funcionarios o empleados públicos que practiquen o pretendan practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
-
-III.- Se sancionará con prisión de seis meses a seis años, al que sin derecho o autorización oficial, imprima, grave, manufacture, altere, destruya o mutile, compre, venda, posea, ponga en circulación, realice cualquier hecho jurídico o utilice, marbetes, calcomanías, placas o tarjetones, formas valoradas o numeradas y en general cualquier valor fiscal o documento comprobatorio de pago, exención, cancelación o reducción de algún tributo.
-
-IV.- Se sancionará con prisión de tres días a seis meses:
-
-a).- Al que sin causa justificada, por vías de hecho se oponga o resista a las visitas de inspección o a proporcionar datos, informes o documentos que soliciten las autoridades fiscales en el desempeño de sus funciones.
-
-b).- Al que viola, deteriore o destruya los sellos o marcas colocados con finalidad fiscal, con el propósito de que dejen de cumplir el objeto para el que fueron destinados.
+99.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2013)
 
 ## TITULO TERCERO. INGRESOS ORDINARIOS
 
@@ -1571,69 +1515,15 @@ DE LA BASE
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-169.- El monto mensual de las erogaciones a que se refiere el artículo 168, excepto las exentas que señala el artículo 171, se ubicará dentro de los límites establecidos en las columnas "A" y "B" de la tarifa contenida en el presente artículo. Al monto que se obtenga conforme a este procedimiento se le restará la cantidad prevista en el renglón correspondiente de la columna "A", y a la diferencia obtenida se le aplicará el porciento del renglón respectivo de la columna "D". Al resultado de esta última operación se le sumará la cuota mínima que para ese mismo renglón se establece en la columna "C" y el importe obtenido será el impuesto a pagar.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-La tarifa aplicable es la siguiente:
+169.- Al monto mensual de las erogaciones a que se refiere el artículo 168, excepto las exentas que señala el artículo 171, se le aplicará la tasa del 3% y el importe obtenido será el impuesto a pagar.
 
-"A" "B" "C" "D"
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-De Hasta Cuota Porciento para
-
-aplicarse al
-
-Mínima excedente de la
-
-cantidad
-
-(en pesos) (en pesos) (en pesos) consignada en la
-
-columna "A"
-
-0.00 16,000.00 0.00 1.0%
-
-16,000.01 32,000.00 160.00 1.1%
-
-32,000.01 48,000.00 336.0 1.2%
-
-48,000.01 64,000.00 528.00 1.3%
-
-64,000.01 80,000.00 736.00 1.4%
-
-80,000.01 96,000.00 960.00 1.5%
-
-96,000.01 112,000.00 1,200.00 1.6%
-
-112,000.01 128,000.00 1,456.00 1.7%
-
-128,000.01 144,000.00 1,728.00 1.8%
-
-144,000.01 160,000.00 2,016.00 1.9%
-
-160,000.01 176,000.00 2,320.00 2.0%
-
-176,000.01 192,000.00 2,640.00 2.1%
-
-192,000.01 208,000.00 2,976.00 2.2%
-
-208,000.01 224,000.00 3,328.00 2.3%
-
-224,000.01 240,000.00 3,696.00 2.4%
-
-240,000.01 256,000.00 4,080.00 2.5%
-
-256,000.01 en adelante 4,480.00 2.6%
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1999)</small>
-
-169 BIS.- Las cantidades establecidas en cada renglón de las columnas "A", "B" y "C" de la tarifa contenida en el artículo anterior, se actualizarán en la misma fecha y proporción en que se incremente el salario mínimo general que rija en la capital del Estado.
-
-Si en un mes rigen dos o más salarios mínimos generales en la capital del Estado, el cálculo del impuesto causado en dicho periodo se hará conforme a la tarifa obtenida de la última actualización efectuada durante ese mes en los términos del párrafo anterior.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, hará las operaciones aritméticas que se deriven del incremento al salario mínimo de referencia y publicará en el Periódico Oficial del Estado la tarifa actualizada, dentro de los diez días naturales siguientes al de la publicación del nuevo salario mínimo general en el Diario Oficial de la Federación.
+169-Bis. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -4808,3 +4698,19 @@ Las funciones, facultades, derechos y obligaciones establecidos en cualquier ord
 ###### ARTÍCULO CUARTO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Comisión Estatal de Gasto Financiamiento, se entenderá a la Secretaría de Hacienda.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 1307/201311 P.O., POR MEDIO DEL CUAL SE DEROGAN LA FRACCIÓN II DEL ARTÍCULO 94 Y LOS ARTÍCULOS 98 Y 99, DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NO. 206/2013 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 169 Y SE DEROGA EL ARTÍCULO 169-BIS, AMBOS DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2014.
