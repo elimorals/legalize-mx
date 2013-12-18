@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2012-09-26"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -915,6 +915,12 @@ Garantías.
 
 Los constructores y desarrolladores de vivienda, cuando ejecuten programas de vivienda que impliquen la utilización de suelo o recursos del Estado o de los municipios, otorgarán las garantías necesarias ante los organismos correspondientes, sobre los proyectos o viviendas que construyan, a efecto de responder de los vicios ocultos que pudieran existir.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 60 Bis.
+
+Las acciones previstas en el artículo 2032 del Código Civil del Estado a favor de los adquirentes para exigir el saneamiento por vicios ocultos se extinguirán a los cInco años, contados desde la entrega material del inmueble, en los casos de enajenación de primera venta. Para el resto de las viviendas que no encuadren en este supuesto la acción se extinguirá en un año.
+
 ###### Artículo 61.
 
 Derecho a la información.
@@ -1450,3 +1456,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
