@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-10-02"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -347,11 +347,17 @@ XV. Implementar programas de formación para y en el trabajo y la productividad 
 
 XVI. Vincular la educación con el sector productivo a efecto de que la planeación educativa responda a los requerimientos del desarrollo estatal y regional;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-XVII. Crear y sostener un Sistema Estatal de Becas, Créditos y Estímulos Educativos, en todos sus niveles y modalidades, con base en la partida presupuestal que determine el Poder Legislativo del Estado.
+XVII. Crear, operar y sostener un Sistema Estatal de Becas y Créditos Educativos, en todos sus niveles y modalidades, con base en la partida presupuestal que deberá estar señalada en el Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 El Sistema se regirá por la normatividad reglamentaria que al efecto se expida;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Las convocatorias para el otorgamiento de becas y créditos educativos, deberán ajustarse a los principios de objetividad, publicidad, transparencia, concurrencia e igualdad sustancial.
 
 XVIII. Prestar y fortalecer los servicios de formación, actualización, capacitación y superación profesional para los docentes de los diferentes tipos, niveles y modalidades de conformidad con las disposiciones generales que la Autoridad Educativa Federal determine;
 
@@ -469,13 +475,41 @@ XIV. Las demás que le señalen las leyes.
 
 El Gobierno del Estado y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN IV. DEL SISTEMA ESTATAL DE BECAS Y CRÉDITOS EDUCATIVOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 15 A.- El Sistema Estatal de Becas y Créditos Educativos tendrá por objeto promover, coordinar, difundir y ejecutar las acciones necesarias para otorgar becas y créditos educativos, de naturaleza educativa, científica o de investigación, a estudiantes de todos los niveles educativos, que sean de escasos recursos económicos y/o tengan un alto desempeño académico, que provengan de instituciones públicas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 15 B.- El Sistema Estatal de Becas y Créditos Educativos, para cumplir con su objeto, tendrá las siguientes atribuciones:
+
+I. Emitir la normatividad en la cual se establezcan los lineamientos y formas de organización.
+
+II. Realizar diagnósticos sobre las necesidades de apoyo en el área educativa en la Entidad.
+
+III. Fomentar la vinculación entre las instituciones de los sectores público, privado y social a través de convenios y acuerdos, a fin de ampliar el otorgamiento de becas y créditos educativos.
+
+IV. Las demás que se señalen en la presente Ley y en otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 15 C.- Las becas y créditos educativos se financiarán con cargo a una partida irreductible y ampliable, que figurará en los Presupuestos de Egresos de cada año.
+
+Ajustándose a los principios de objetividad, publicidad, transparencia, concurrencia e igualdad sustancial, las convocatorias respectivas establecerán el número, las modalidades y cuantías de las becas y créditos.
+
+Así mismo, deberá preverse en la convocatoria, el mecanismo para la entrega y recuperación de los montos por los cuales se hubieran otorgado los créditos educativos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 15 D.- La revisión y selección de solicitantes de becas o créditos educativos que se emiten mediante el Sistema Estatal de Educación, estará a cargo de un órgano de vigilancia integrado por representantes de las Secretarías de Educación, Cultura y Deporte, de Hacienda y de la Contraloría, todas de Gobierno del Estado.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN I. DE LA EDUCACIÓN INICIAL
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
-
-### CAPITULO III. DE LOS SERVICIOS EDUCATIVOS
+### CAPÍTULO III. DE LOS SERVICIOS EDUCATIVOS
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -693,7 +727,7 @@ Las escuelas de nueva creación llevarán el nombre que designe o elija la Autor
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN II. DE LA EDUCACIÓN PREESCOLAR
+#### SECCIÓN I. DE LA EDUCACIÓN INICIAL
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -729,7 +763,7 @@ V. Desarrollar propuestas de interacción en la familia y en la comunidad basada
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN III. DE LA EDUCACIÓN PRIMARIA
+#### SECCIÓN II. DE LA EDUCACIÓN PREESCOLAR
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -755,7 +789,7 @@ IV. Alcanzar los propósitos que señala el programa vigente.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN IV. DE LA EDUCACIÓN SECUNDARIA
+#### SECCIÓN III. DE LA EDUCACIÓN PRIMARIA
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -779,9 +813,9 @@ VI. Fomentar el conocimiento de las etnias para propiciar el respeto a su cultur
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN V. DE LA EDUCACIÓN INDÍGENA
+#### SECCIÓN IV. DE LA EDUCACIÓN SECUNDARIA
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 39.
 
@@ -837,9 +871,9 @@ La educación secundaria se sujetará al plan y programas, acuerdos y demás dis
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN VI. DE LA EDUCACIÓN ESPECIAL
+#### SECCIÓN V. DE LA EDUCACIÓN INDÍGENA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 ###### ARTÍCULO 45.
 
@@ -915,9 +949,9 @@ La Autoridad Educativa Estatal y los Ayuntamientos otorgarán becas a las y los 
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN VII. DE LA EDUCACIÓN FÍSICA Y ARTÍSTICA
+#### SECCIÓN VI. DE LA EDUCACIÓN ESPECIAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 51.
 
@@ -991,9 +1025,9 @@ IV. Incrementar los recursos económicos para becas dirigidos a las y los alumno
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN VIII. DE LA EDUCACIÓN TECNOLÓGICA
+#### SECCIÓN VII. DE LA EDUCACIÓN FÍSICA Y ARTÍSTICA
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 57.
 
@@ -1037,9 +1071,9 @@ La Autoridad Educativa Estatal fomentará la investigación en la educación fí
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN IX. DE LA EDUCACIÓN EN VALORES
+#### SECCIÓN VIII. DE LA EDUCACIÓN TECNOLÓGICA
 
-> <small>(REFORMADO, 24 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1069,9 +1103,9 @@ En el tipo superior orientado al dominio y desarrollo de nuevas tecnologías a t
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN X. DE LA EDUCACIÓN MEDIA SUPERIOR
+#### SECCIÓN IX. DE LA EDUCACIÓN EN VALORES
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, 24 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 67.
 
@@ -1111,7 +1145,7 @@ Así mismo, dichas autoridades establecerán e implementarán a la brevedad, pro
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN XI. DE LA EDUCACIÓN PARA ADULTOS
+#### SECCIÓN X. DE LA EDUCACIÓN MEDIA SUPERIOR
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1167,9 +1201,9 @@ Las instituciones y universidades públicas y privadas informarán a la Autorida
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN XII. DE LA EDUCACIÓN PARA Y EN EL TRABAJO Y LA PRODUCTIVIDAD
+#### SECCIÓN XI. DE LA EDUCACIÓN PARA ADULTOS
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 78.
 
@@ -1247,9 +1281,9 @@ La educación para adultos que impartan las empresas se hará conforme a lo disp
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN XIII. DE LA EDUCACIÓN SUPERIOR
+#### SECCIÓN XII. DE LA EDUCACIÓN PARA Y EN EL TRABAJO Y LA PRODUCTIVIDAD
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 89.
 
@@ -1311,7 +1345,7 @@ La instancia que atienda a la educación media superior y superior coordinará l
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-#### SECCIÓN I. DE LOS PADRES Y MADRES DE FAMILIA Y SUS ORGANIZACIONES
+#### SECCIÓN XIII. DE LA EDUCACIÓN SUPERIOR
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1619,7 +1653,13 @@ I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de
 
 II. Cumplir con el calendario escolar, planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-III. Proporcionar un mínimo del cinco por ciento de becas del total de la matrícula del período escolar a los alumnos que cumplan con los requisitos del reglamento respectivo;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+III. Proporcionar un mínimo del ocho por ciento de becas del total de la matricula del período escolar a los alumnos que cumplan con los requisitos del reglamento respectivo.
+
+Las becas señaladas en el párrafo anterior, no incluyen las otorgadas como parte de las prestaciones laborales de los trabajadores que prestan sus servicios en dichas instituciones.
+
+El Reglamento escolar de cada plantel educativo deberá contener, entre otros aspectos, lo relacionado al procedimiento de otorgamiento de becas autorizado por la instancia educativa responsable de la incorporación de instituciones particulares.
 
 IV. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia, que las autoridades competentes realicen u ordenen de acuerdo con la normatividad legal en la materia;
 
@@ -1627,15 +1667,21 @@ V. Cumplir los requisitos previstos en el artículo 121 de esta Ley;
 
 VI. Participar en los Programas que la Autoridad Educativa Estatal promueva, para elevar la calidad de la educación que imparten los docentes y directivos en servicio.
 
-(REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 125.
 
-Las autoridades que otorguen autorizaciones o reconocimientos de validez oficial de estudios, deberán inspeccionar y vigilar, de acuerdo con la normatividad vigente, los servicios educativos respecto de los cuales concedieron las autorizaciones o los reconocimientos.
+Las autoridades que otorguen autorizaciones o reconocimientos de validez oficial de estudios, deberán inspeccionar y vigilar, de acuerdo con la normatividad vigente, los servicios educativos respecto de los cuales concedieron las autorizaciones o los reconocimientos. Así como vigilar el cumplimiento de lo señalado en la fracción III del artículo anterior.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 Para realizar una visita de inspección, deberá mostrarse la orden correspondiente expedida por la autoridad competente. La visita se realizará en el lugar, fecha y sobre los asuntos específicos señalados en dicha orden. El encargado de la visita deberá identificarse adecuadamente.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y deberá ser signada por dos testigos. En su caso, se hará constar en dicha acta la negativa del visitado de suscribirla, sin que esta negativa afecte su validez. Un ejemplar del acta se pondrá a disposición del visitado.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 Los particulares podrán presentar a las autoridades educativas, documentación requerida y las inconformidades que a su derecho convengan relacionadas con la visita, dentro de los cinco días hábiles siguientes a la fecha de la inspección.
 
@@ -1685,7 +1731,7 @@ La Autoridad Educativa Estatal podrá efectuar supervisiones periódicas en lo p
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+#### SECCIÓN I. DE LOS PADRES Y MADRES DE FAMILIA Y SUS ORGANIZACIONES
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1777,7 +1823,7 @@ VI. Informar anualmente en asamblea, a los integrantes de la asociación por con
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN III. DE LA PARTICIPACIÓN DE LAS Y LOS ALUMNOS
+#### SECCIÓN II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1895,7 +1941,7 @@ Los Consejos de Participación Social en la Educación, se abstendrán de interv
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN IV. DE LOS MEDIOS DE COMUNICACIÓN Y DIFUSIÓN
+#### SECCIÓN III. DE LA PARTICIPACIÓN DE LAS Y LOS ALUMNOS
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1911,7 +1957,7 @@ Los derechos y obligaciones de las y los educandos serán determinados por el Po
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN I. DE LA PLANEACIÓN
+#### SECCIÓN IV. DE LOS MEDIOS DE COMUNICACIÓN Y DIFUSIÓN
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1955,7 +2001,7 @@ El Poder Ejecutivo Estatal planeará el desarrollo educativo del Estado, en los 
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN II. DE LA EVALUACIÓN
+#### SECCIÓN I. DE LA PLANEACIÓN
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2001,7 +2047,7 @@ VI. Instrumentos para prevenir la deserción escolar.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN I. DE LAS INFRACCIONES
+#### SECCIÓN II. DE LA EVALUACIÓN
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2049,7 +2095,7 @@ IV. Los resultados, para establecer el impacto social del proceso educativo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN II. DE LAS SANCIONES
+#### SECCIÓN I. DE LAS INFRACCIONES
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2147,7 +2193,7 @@ La Autoridad Educativa Estatal podrá instrumentar, en coordinación con institu
 
 ### CAPITULO I. SANCIONES
 
-#### SECCIÓN III. DEL PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+#### SECCIÓN II. DE LAS SANCIONES
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2207,7 +2253,9 @@ XXIV. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las 
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCION VII. GUIAS Y ESCALAS PARA VADOS
+#### SECCIÓN III. DEL PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 169.
 
@@ -3584,6 +3632,26 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A la entrada en vigor del presente Decreto, la autoridad responsable deberá realizar las modificaciones reglamentarias conducentes.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 1328/2013 XI P.E., POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN XVII DEL ARTÍCULO 13; Y SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN XVII DEL ARTÍCULO 13, ASÍ COMO UNA SECCIÓN IV DENOMINADA DEL SISTEMA ESTATAL DE BECAS Y CRÉDITOS EDUCATIVOS, AL CAPÍTULO II, CON LOS ARTÍCULOS 15-A, 15-B, 15-C Y 15-D, TODOS DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo, por conducto de la Autoridad Educativa, tendrá noventa días a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones reglamentarias correspondientes.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 1329/2013 XI P.E., POR EL QUE SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 124, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 125; Y SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN III DEL ARTÍCULO 124, DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO TERCERO.
 
