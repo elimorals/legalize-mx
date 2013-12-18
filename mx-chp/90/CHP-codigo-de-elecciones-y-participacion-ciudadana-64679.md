@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2011-11-24"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -621,7 +621,7 @@ III. Si después de aplicarse el cociente de distribución quedaren diputados po
 
 ###### Artículo 34.
 
-Cuando por razones de su votación, algún partido político estuviere en la hipótesis matemática de rebasar el total de diputados que como máximo le pueden ser reconocidos en los términos del ultimo párrafo del artículo 16 la Constitución Política del Estado, le será deducido el número de diputaciones de representación proporcional necesario, hasta ajustarse al límite establecido, conforme al procedimiento siguiente:
+Cuando por razones de su votación, algún partido político estuviere en la hipótesis matemática de rebasar el total de diputados que como máximo le pueden ser reconocidos en los términos del ultimo párrafo del artículo 16 la (sic) Constitución Política del Estado, le será deducido el número de diputaciones de representación proporcional necesario, hasta ajustarse al límite establecido, conforme al procedimiento siguiente:
 
 I. Se obtendrá el cociente de distribución, el cual resulta de dividir el total de votos obtenidos en el estado por el partido político que se halle en este supuesto, entre las diputaciones a asignarse al propio partido para completar el limite de 24 establecido por la Constitución Política del Estado.
 
@@ -2003,9 +2003,9 @@ Los Consejeros Electorales estarán sujetos al régimen de responsabilidades pre
 
 El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales y de los representantes de los partidos políticos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-Para la preparación del proceso electoral, el Consejo General se reunirá el primer día de marzo del año en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
+Para la preparación del proceso electoral, el Consejo General se reunirá la primera semana del mes de octubre del año anterior a aquel en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
 
 ###### Artículo 144.
 
@@ -2437,11 +2437,11 @@ XI. Las demás que le confiera este Código.
 
 ### Capítulo VIII. De los órganos desconcentrados
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 159.
 
-Los Consejos Distritales y Municipales electorales, funcionarán durante los procesos electorales y, en su caso, en aquellos procedimientos de participación ciudadana que lo requieran, así como en lo concerniente a los órganos auxiliares municipales, en términos de lo dispuesto en la Ley Orgánica Municipal del Estado; residirán en cada una de las cabeceras de distrito y municipios y se integrarán a más tardar el día trece de marzo del año de la elección.
+Los Consejos Distritales y Municipales electorales, funcionarán durante los procesos electorales y, en su caso, en aquellos procedimientos de participación ciudadana que lo requieran, así como en lo concerniente a los órganos auxiliares municipales, en términos de lo dispuesto en la Ley Orgánica Municipal del Estado; residirán en cada una de las cabeceras de distrito y municipios y se integrarán a más tardar el día treinta del mes de noviembre del año anterior al de la elección.
 
 ###### Artículo 160.
 
@@ -3351,7 +3351,7 @@ Las diferencias o conflictos entre el Instituto o la Comisión y sus respectivos
 
 ###### Artículo 219.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y este Código, que realizan los ciudadanos, los partidos políticos, los organismos electorales y las autoridades estatales y municipales con objeto de integrar los órganos de representación popular. El proceso electoral ordinario para elegir a Gobernador, a Diputados al Congreso del Estado y a miembros de los Ayuntamientos, inicia el primer día de marzo del año de la elección, con la primera sesión del Consejo General y concluye con las declaraciones que realicen los Consejos del Instituto, o las resoluciones que, en su caso, emitan las autoridades jurisdiccionales conducentes.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y este Código, que realizan los ciudadanos, los partidos políticos, los organismos electorales y las autoridades estatales y municipales con objeto de integrar los órganos de representación popular. El proceso electoral ordinario para elegir a Gobernador, a Diputados al Congreso del Estado y a miembros de los Ayuntamientos, inicia la primer semana del mes de octubre del año anterior a aquel en que se lleve a cabo la Jornada Electoral para las elecciones estatales ordinarias, con la primera sesión del Consejo General y concluye con las declaraciones que realicen los Consejos del Instituto, o las resoluciones que, en su caso, emitan las autoridades jurisdiccionales conducentes.
 
 El proceso electoral comprende las etapas siguientes:
 
@@ -3361,9 +3361,9 @@ II. Jornada electoral; y
 
 III. Resultados y declaraciones de validez o nulidad de las elecciones.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-La etapa de preparación de la elección, inicia con la primera sesión del Consejo General que celebre el primer día de marzo del año en que deban realizarse las elecciones, y concluye al iniciarse la jornada electoral.
+La etapa de preparación de la elección, inicia con la primera sesión del Consejo General que celebre en la primera semana del mes de octubre del año anterior a aquel en que se lleve a cabo la Jornada Electoral para las elecciones estatales ordinarias, y concluye al iniciarse la jornada electoral.
 
 La etapa de la jornada electoral se inicia a las 8:00 horas y concluye con la clausura de casilla.
 
@@ -3533,7 +3533,7 @@ Las resoluciones de fondo dictadas dentro de tales medios impugnativos partidist
 
 ###### Artículo 229.
 
-A más tardar en el mes marzo del año de la elección, el Instituto determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+A más tardar en el mes de noviembre del año previo al de la elección, el Instituto determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -3549,7 +3549,7 @@ Quedarán comprendidos dentro de los topes de gasto de precampaña los conceptos
 
 ### Capítulo Único
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 231.
 
@@ -3621,9 +3621,9 @@ Asimismo, en las zonas de predominancia en población indígena, los partidos po
 
 Ninguna persona podrá ser registrada como candidato a distintos cargos en el mismo proceso.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán durante sus campañas políticas. La plataforma electoral deberá presentarse para su registro ante el Consejo General dentro de la primera quincena del mes de marzo del año de la elección. Del registro se expedirá constancia.
+Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán durante sus campañas políticas. La plataforma electoral deberá presentarse para su registro ante el Consejo General dentro de los quince primeros días de febrero del año de la elección. Del registro se expedirá constancia.
 
 El procedimiento para el registro de las candidaturas es el siguiente:
 
@@ -3885,7 +3885,7 @@ V. La densidad poblacional y condiciones geográficas.
 
 ### Capítulo IV. Del tope de gastos de precampaña
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 251.
 
@@ -7098,3 +7098,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 Tercero.- Todos los procedimientos iniciados antes de la publicación y entrada en vigor de la presente reforma, se desahogarán y resolverán conforme a la legislación anterior.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá aprobar las adecuaciones que al efecto requiera su Reglamento Interior, para su publicación correspondiente.
