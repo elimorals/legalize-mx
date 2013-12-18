@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2013-03-16"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -85,9 +83,17 @@ IV.- Establecer las bases generales del Sistema Estatal Penitenciario, así como
 
 V.- Proporcionar los parámetros generales para la prevención especial a través del tratamiento derivado del sistema técnico progresivo, con estricto apego al principio de no discriminación de género.
 
-Los reglamentos deberán estar acordes con los protocolos internacionales y con perspectiva de género; y
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-VI.- Establecer los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades penitenciarias, durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior.
+Los reglamentos deberán estar acordes con los protocolos internacionales y con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VI. Establecer los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades penitenciarias, durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VII. Establecer las bases mínimas de asistencia postpenitenciaria.
 
 ###### Artículo 3.
 
@@ -1697,11 +1703,9 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 Artículo 104 bis. Restricciones a los beneficios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
-
-El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, extorsión, violación, homicidio doloso, de acuerdo a este Código (sic), no le será aplicable ninguno (sic) los siguientes beneficios:
+El reo que haya sido sentenciado, aun en grado de tentativa por el delito de robo en los supuestos contemplados en las fracciones I, II o III del artículo 212 del Código Penal; extorsión, violación u homicidio doloso, salvo que se trate en riña; así como por homicidio o lesiones imprudenciales contempladas en los artículos 138, segundo párrafo, 139 o 140 del Código Penal, no le será aplicable ninguno de los siguientes beneficios:
 
 I. Modalidad de la pena de prisión, tales como:
 
@@ -2437,15 +2441,23 @@ Asistencia y atención a liberados y externados.
 
 Para la asistencia y atención a liberados y externados, la Fiscalía se coordinará con instituciones, públicas o privadas, que presten estos servicios, las que procurarán fortalecer la reinserción social, auxiliándolos para canalizarlos y ubicarlos en fuentes de trabajo donde puedan desarrollar sus aptitudes y orientando su tiempo libre a determinadas actividades de esparcimiento familiar, social, deportivo, entre otros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 172.
 
 Patronato de Ayuda para la Reinserción Social.
 
-El Patronato de Ayuda para la Reinserción Social, dependiente de la Fiscalía, tiene por objeto prestar asistencia jurídica, moral, económica, medica, social y laboral, a las personas que gocen de cualesquiera de los beneficios previstos en esta Ley, o que hayan sido puestas en libertad definitiva.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+El Patronato de Ayuda para la Reinserción Social, dependiente de la Fiscalía, tiene por objeto prestar asistencia jurídica, moral, económica, médica, social y laboral, a las personas que gocen de cualquiera de los beneficios previstos en esta ley, o que hayan sido puestas en libertad definitiva; será un órgano auxiliar en el tratamiento post-penitenciario y además de las atribuciones anteriores tendrá la de estar en contacto periódico con las personas que gocen de un beneficio de libertad anticipada o definitiva, para lo cual podrá coordinarse con las autoridades correspondientes, así como con las organizaciones de la sociedad civil y de la iniciativa privada que le auxilien para concretar sus fines.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+La Fiscalía de Ejecución de Penas proporcionará al patronato los estudios de personalidad de los externados y liberados, así como el expediente respectivo en donde se contengan los informes de actividades penitenciarias y aptitudes respectivas, para efectos de que el patronato y de acuerdo al método que defina, establezca contacto y esté en posibilidad de prestar la asistencia necesaria.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+El patronato deberá contar con el personal especializado para la realización de sus fines y podrá contar con la participación de la sociedad civil organizada; su composición y funcionamiento se hará en base al reglamento de la presente ley.
 
 ## TÍTULO OCTAVO. EXTINCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -2720,6 +2732,12 @@ Los encargados de la ejecución de todas las sentencias firmes, dictadas en proc
 Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
 
 P.O. 16 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
