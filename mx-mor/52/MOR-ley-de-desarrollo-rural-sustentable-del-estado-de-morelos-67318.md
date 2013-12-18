@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2013-08-14"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -193,21 +193,31 @@ III. Los Ayuntamientos.
 
 Son autoridades concurrentes como Comisión Estatal Intersecretarial para efectos de esta Ley y su Reglamento, en el ámbito de sus respectivas competencias:
 
-I. Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-II. Secretaría de Desarrollo Humano y Social;
+I. Secretaría de Hacienda;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+II. Secretaría de Desarrollo Social;
 
 III. Secretaría de Salud;
 
 IV. Secretaría de Educación;
 
-V. Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-VI. Secretaría de Desarrollo Económico;
+V. Secretaría de Obras Públicas;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VI. Secretaría de Economía;
 
 VII. Secretaría de Turismo, y
 
-VIII. Comisión Estatal del Agua y Medio Ambiente (CEAMA) del Estado de Morelos.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+VIII. Secretaría de Desarrollo Sustentable.
 
 Las cuales serán coordinadas para los efectos de la presente Ley por la Secretaría de Desarrollo Agropecuario, como Comisión Estatal Intersecretarial que en su conjunto buscarán la concurrencia de sus programas, proyectos y acciones a favor del desarrollo rural sustentable.
 
@@ -1187,6 +1197,8 @@ Los bienes y servicios del medio rural, producidos por pequeños productores org
 
 ### CAPÍTULO II. DEL DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 106.
 
 La Secretaría desarrollará la política de formación, capacitación y asesoría, a través del Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral, atendiendo la demanda de la población rural y sus organizaciones.
@@ -1333,7 +1345,7 @@ IV. Con el propósito de mantener el dinamismo de estas formas de representació
 
 ###### Artículo 117.
 
-La Secretaría y la Secretaría de Desarrollo Humano y Social dentro de la Comisión Intersecretarial, darán atención prioritaria, mediante acciones de política social, a las personas, comunidades y organizaciones que enfrenten menor desarrollo o capacidades diferentes y vulnerables, de conformidad con los estudios que elaboren para el efecto, la Federación, el Estado y el Municipio correspondiente.
+La Secretaría y la Secretaría de Desarrollo Social, dentro de la Comisión Intersecretarial, darán atención prioritaria, mediante acciones de política social, a las personas, comunidades y organizaciones que enfrenten menor desarrollo o capacidades diferentes y vulnerables, de conformidad con los estudios que elaboren para el efecto, la Federación, el Estado y los Municipios correspondientemente.
 
 ###### Artículo 118.
 
@@ -1500,3 +1512,11 @@ Tercero.- Se le otorgan 90 días al Titular del Poder Ejecutivo del Estado, para
 Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Quinto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial, “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- En un plazo no mayor de 90 días, el Ejecutivo del Estado deberá realizar las reformas pertinentes al Reglamento de la Ley de Desarrollo Rural Sustentable del Estado de Morelos, en relación a las modificaciones realizadas.
