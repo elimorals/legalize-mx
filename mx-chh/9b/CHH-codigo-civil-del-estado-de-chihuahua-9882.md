@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2013-02-27"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1501,9 +1501,21 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 286.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-En la sentencia o convenio se establecerán los mecanismos para que el importe de la pensión alimenticia se vaya actualizando de manera automática. El juez cuidará el cumplimiento de esta disposición.
+En la resolución judicial o convenio, se establecerá un porcentaje de los ingresos del deudor para que el importe de la pensión alimenticia se vaya actualizando de manera automática. El Juez cuidará el cumplimiento de esta disposición tomando las medidas necesarias para ello.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Cuando no sea posible establecer un porcentaje de los ingresos del deudor, el Juez implementará los mecanismos para el cumplimiento de la obligación, tomando las medidas necesarias para garantizar su actualización automática.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+286 BIS.- Cuando se disponga que el cumplimiento de la obligación alimentaria sea mediante la asignación de una pensión, el deudor queda obligado a depositar la cantidad correspondiente en la cuenta bancaria que al efecto designe el acreedor, su representante o el Juez.
+
+Si el deudor alimentista es trabajador asalariado, el Juez ordenará al patrón realizar el descuento correspondiente del salario que aquel perciba y su depósito en la cuenta bancaria aperturada para tal efecto.
+
+Cuando en virtud de las disposiciones anteriores se retarde el cumplimiento de la obligación, el Juez tomará las medidas necesarias para garantizar que la pensión alimentaria sea oportunamente entregada a los acreedores.
 
 287.- El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
@@ -1537,11 +1549,15 @@ Durante la tramitación del juicio correspondiente, el Juez podrá decretar prov
 
 Toda persona a quien por su encargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, además de las sanciones que les sean aplicables de acuerdo con la Ley, responderá solidariamente con los obligados directos, de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-La pensión provisional alimenticia podrá ser modificada durante la tramitación del juicio, con base en el informe de la trabajadora social dependiente del Supremo Tribunal de Justicia del Estado, que de oficio se designará desde el auto que admita la demanda.
+La pensión alimenticia provisional podrá ser modificada durante la tramitación del juicio, en la vía incidental, con base en el informe de la trabajadora social dependiente del Supremo Tribunal de Justicia del Estado, que de oficio se designará desde el auto que admita la demanda y mediante los elementos de prueba que al efecto aporten las partes.
 
 295.- El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+En aquellos casos en los que la custodia de los acreedores alimentarios se encuentre a cargo de una institución gubernamental, esta podrá fungir como administradora de los alimentos, quedando exenta de garantizar el manejo del cargo.
 
 296.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
@@ -9011,9 +9027,9 @@ Tampoco está obligado a la entrega, aunque haya concedido un término para el p
 
 Si no pudiera determinarse esto último, se aplicará el artículo 1965.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
-2176.- Cuando la cosa vendida tenga vicios o defectos ocultos, el vendedor responderá en la forma y términos previstos en el Capítulo relativo a la Evicción y Saneamiento, de este Código.
+2176.- Cuando la cosa vendida tenga vicios o defectos ocultos, el vendedor responderá en la forma y términos previstos en el Capítulo relativo a la Evicción y Saneamiento, de este Código, o en las disposiciones especiales previstas en cualquier otra Ley.
 
 ### CAPITULO VI. DE LAS OBLIGACIONES DEL COMPRADOR
 
@@ -12892,3 +12908,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 1307/2013 II P.O. POR EL QUE SE REFORMAN LOS ARTÍCULOS 286, SEGUNDO PÁRRAFO, Y 294, CUARTO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 286, CON UN PÁRRAFO TERCERO, UN 286 BIS Y EL 295, CON UN SEGUNDO PÁRRAFO; TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
+
+DECRETO NÚMERO 1345/2013 XII P.E. POR EL QUE SE REFORMA EL ARTÍCULO 2176 DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
