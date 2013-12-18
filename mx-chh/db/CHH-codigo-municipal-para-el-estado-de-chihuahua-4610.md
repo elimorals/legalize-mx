@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-10-23"
+last_updated: "2013-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1259,7 +1261,9 @@ Son disposiciones administrativas de observancia general, las normas que no teni
 
 Los Bandos de Policía y Gobierno, así como las disposiciones administrativas de observancia general, deberán ser publicadas en el Periódico Oficial del Estado.
 
-Las normas que contengan los bandos, reglamentos y otras disposiciones municipales, deberán ser generales y obligatorias en el ámbito municipal y su aplicación corresponde a las autoridades municipales.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+
+Las normas que contengan los bandos, reglamentos y otras disposiciones municipales, deberán ser generales y obligatorias en el ámbito municipal y su aplicación corresponde a las autoridades municipales, mismas que deberán tomar en cuenta los principios de cultura de legalidad, valores cívicos y bienestar colectivo, al momento de su emisión.
 
 ### CAPITULO I. DE LA DECLARACION DE DESAPARICION DE AYUNTAMIENTOS
 
@@ -4502,6 +4506,12 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE OCTUBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
