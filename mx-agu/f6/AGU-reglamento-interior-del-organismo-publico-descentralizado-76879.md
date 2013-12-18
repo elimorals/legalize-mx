@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-organismo-publico-descentralizado-76879
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-04"
-last_updated: "2010-12-28"
+last_updated: "2013-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SERVICIOS DE SALUD -ANTES INSTITUTO DE SALUD- DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2010, EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES SE TRANSFORMA EN INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013 (DEROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de octubre de 2010.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2010, EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES SE TRANSFORMA EN INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES.</small>
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES
 
@@ -1257,7 +1259,7 @@ TERCERO.- Mándese publicar en el Periódico Oficial del Estado.
 
 Aprobado en la ciudad de Aguascalientes, Ags., a los 20 días del mes de agosto de 2010.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
@@ -1348,3 +1350,9 @@ La Secretaría de Finanzas, en coordinación con la Oficialía Mayor y la Secret
 Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía.
 
 Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+P.O. DE 18 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento Interior del Organismo Público Descentralizado denominado Instituto de Salud del Estado de Aguascalientes, publicado en el Periódico Oficial el 04 de octubre de 2010 así como su Fe de Erratas de fecha 25 de octubre de 2010.
