@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2012-10-11"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -1835,19 +1835,19 @@ Mientras no se expidan los reglamentos, manuales y demás normatividad, relativa
 
 ###### ARTICULO CUARTO.
 
-Las relaciones laborales entre el Gobierno del Estado de Durango y los Trabajadores de la Educación a su servicio, se regirán por la Ley que al efecto expida el Congreso del Estado con base en las facultades que expresamente le confieren la fracción V del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y la fracción XXXV del Artículo 55 de la Constitución Política del Estado de Durango; en la elaboración de esta Ley se atenderá la opinión de la Organización Sindical correspondiente.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO QUINTO.
 
-En tanto se expide la Ley Reglamentaria a que se refiere el Artículo anterior, y por lo que toca a los Trabajadores de la Educación que dependen de la SECyD, siguen vigentes los Artículos del 66 al 104 de la Ley de Educación del Primero de Julio de 1965 y de igual manera se seguirán observando íntegramente todas las disposiciones que tutelen derechos laborales y de seguridad social, contenidas en Leyes, Decretos, Reglamentos o Convenios que a la fecha de la expedición de la presente Ley le sean propias con motivo de su relación laboral con el Gobierno del Estado.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO SEXTO.
 
-En los mismos términos y disposiciones del artículo anterior, se estará en lo que respecta a los trabajadores federalizados que venían prestando servicios a la SEP del Gobierno Federal, a quienes les seguirán siendo aplicables todas las disposiciones contenidas en Leyes, Decretos, Reglamentos o Convenios de Trabajo y de Seguridad Social, vigentes hasta la fecha de la expedición de la presente Ley que regulan sus relaciones de trabajo y su régimen de seguridad social.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO SEPTIMO.
 
-En cuanto a los demás organismos públicos descentralizados dependientes del Gobierno del Estado de Durango, cuyas funciones se refieren a la prestación de servicios educativos en cualquiera de sus tipos y modalidades, continuarán regulando las relaciones laborales con los trabajadores a su servicio, con base en las Leyes o Decretos que les dieron origen y en los Contratos o Convenios pactados con las instituciones nacionales o locales de seguridad social.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO OCTAVO.
 
@@ -1926,3 +1926,15 @@ P.O. 11 DE OCTUBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La Secretaria de Educación en el Estado dictará las disposiciones necesarias para regular las condiciones de los trabajadores al servicio de la educación, con base en lo dispuesto en el artículo 3° Constitucional y sus disposiciones reglamentarias.
+
+TERCERO.- Los trabajadores del magisterio, por cada cinco años de servicios efectivos prestados hasta llegar a veinticinco, tendrán derecho al pago de una prima como complemento del salario en los mismos términos que el personal del sector federalizado y conforme a los criterios normativos que emita la Secretaría de Educación Pública.
+
+CUARTO.- Cualquier mención del Tribunal de Conciliación y Arbitraje en el presente decreto se entenderá como Tribunal Laboral Burocrático.
+
+QUINTO.- Se derogan todas las disposiciones legales en lo que se opongan a la presente iniciativa de decreto.
