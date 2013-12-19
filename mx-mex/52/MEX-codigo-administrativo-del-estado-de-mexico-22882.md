@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-12-02"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4041,6 +4041,10 @@ e) El ordenamiento de las regiones y zonas metropolitanas; y
 
 f) El impulso de centros de población que presenten condiciones favorables para absorber flujos de población.
 
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+g) La información sobre las regiones o zonas geográficas vulnerables a los efectos adversos del cambio climático contenida en los Atlas de Riesgos del Estado de México y en los Atlas municipales de riesgos.
+
 II. El desarrollo urbano de los centros de población garantizará:
 
 a) La vinculación armónica entre la ciudad y el campo, desde el punto de vista ambiental, social y cultural;
@@ -4063,7 +4067,9 @@ i) La construcción de obras de urbanización, infraestructura y equipamiento ur
 
 j) La prevención de asentamientos humanos irregulares;
 
-k) La prevención y control de riesgos y contingencias por causas antropogénicas y naturales;
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+k) La prevención y control de riesgos y contingencias por causas antropogénicas y naturales y la adaptación al cambio climático;
 
 l) El crecimiento de los centros de población hacia zonas física y geográficamente aptas para ser urbanizadas;
 
@@ -4419,7 +4425,7 @@ VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 ### CAPÍTULO PRIMERO. Del Sistema Estatal de Planes de Desarrollo Urbano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 5.
 
@@ -4483,7 +4489,9 @@ IX. Promover investigaciones científicas y tecnológicas sobre desarrollo urban
 
 ###### Artículo 5.
 
-16.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, tiene por objeto lograr una distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio estatal, así como mejorar la calidad de vida de sus habitantes, el desarrollo integral de sus comunidades y la competitividad de los centros de población.
+16.- La planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población, la cual tiene por objeto lograr una distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio estatal, así como mejorar la calidad de vida de sus habitantes, el desarrollo integral de sus comunidades y la competitividad de los centros de población y la adaptación al cambio climático.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los ciudadanos del Estado, en los términos de este Libro y su reglamentación, tienen derecho a participar en la formulación de propuestas en los procesos de elaboración de los planes de desarrollo urbano, así como coadyuvar con las autoridades estatales y municipales en la vigilancia de la normatividad prevista en ellos, para el caso de las comunidades indígenas de la entidad participarán en los términos previstos por la Ley de Derechos y Cultura Indígena del Estado de México.
 
@@ -4519,25 +4527,41 @@ b) De los planes municipales, en cuyo caso tendrán por objeto especificar en un
 
 18.- Los planes regionales, municipales y parciales deberán ser congruentes con las políticas, estrategias y objetivos previstos en el Plan Estatal de Desarrollo Urbano. Los planes municipales y los parciales que deriven de éstos deberán ser congruentes, además, con los planes regionales y los parciales de competencia estatal que incidan en la zona y, en lo conducente, con las declaratorias de las zonas metropolitanas decretadas por la Legislatura del Estado.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 5.
 
-19.- Los planes de desarrollo urbano tendrán un carácter integral y contendrán, por lo menos, lo siguiente:
+19.- Los planes de desarrollo urbano tendrán un carácter integral y contendrán por lo menos lo siguiente:
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. El diagnóstico de la situación urbana de su ámbito de aplicación, su problemática y sus tendencias;
 
-II. La determinación de sus objetivos, políticas y estrategias en materia de población, suelo, protección al ambiente, vialidad y transporte, comunicaciones, agua potable, alcantarillado, drenaje, tratamiento y disposición de aguas residuales y residuos sólidos, protección civil, vivienda, desarrollo agropecuario, salud, educación, seguridad pública, desarrollo económico, industria y conservación del patrimonio inmobiliario histórico, artístico y cultural, así como las demás materias que resulten necesarias, con el fin de imprimirles un carácter integral para propiciar el desarrollo urbano sustentable del Estado;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+II. La determinación de sus objetivos, políticas y estrategias en materia de población, suelo, protección al ambiente, vialidad y transporte, comunicaciones, agua potable, alcantarillado, drenaje, tratamiento y disposición de aguas residuales y residuos sólidos, protección civil, vivienda, desarrollo agropecuario, salud, educación, seguridad pública, desarrollo económico, industria y conservación del patrimonio inmobiliario histórico, artístico y cultural, adaptación a los efectos del cambio climático, así como las demás materias que resulten necesarias, con el fin de imprimirles un carácter integral para propiciar el desarrollo urbano sustentable del Estado;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. La programación de acciones y obras;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 IV. La definición de los instrumentos normativos, administrativos, financieros y programáticos en que se sustentará;
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 V. La zonificación, los destinos y usos del suelo y la normatividad para el aprovechamiento de los predios, tratándose de los planes de competencia municipal;
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 VI. La evaluación del plan que abroga o modifica, en su caso; y
 
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 VII. Los demás aspectos que prevean la reglamentación de este Libro y otras disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Dichos planes tendrán la estructura, terminología y demás elementos que establezca la reglamentación de este Libro.
 
@@ -5629,7 +5653,9 @@ IX. Informar al Sistema Nacional de Protección Civil de la ocurrencia de riesgo
 
 X. Apoyar la creación, desarrollo y consolidación de los Consejos Municipales de Protección Civil, grupos voluntarios y grupos de ayuda mutua, así como el fomento de acciones que mejoren y dignifiquen la actuación de los cuerpos de bomberos en la entidad, incluyendo la creación y/o el otorgamiento de reconocimientos en dinero o en especie; así mismo establecer el premio estatal de Protección Civil a quien por medios propios deba recibirlo;
 
-XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos, considerando los criterios que emita el Gobierno Federal en materia de adaptación al cambio climático;
 
 XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
 
@@ -5647,7 +5673,9 @@ XVIII. Asesorar y apoyar a las dependencias, organismos auxiliares y fideicomiso
 
 XIX. Establecer, operar y/o enlazarse con redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con otras autoridades en el que se consideren los efectos del cambio climático;
 
-XX. Desarrollar, actualizar y difundir el Atlas de Riesgos del Estado de México;
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XX. Desarrollar, actualizar y difundir los Atlas de Riesgos del Estado de México, de conformidad con los criterios que emita el Gobierno Federal en materia de adaptación al cambio climático;
 
 XXI. Expedir, actualizar y vigilar la aplicación de normas técnicas estatales y demás disposiciones en materia de protección civil;
 
@@ -5772,6 +5800,10 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 14.- Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos sistemas y consejos municipales.
 
 Los ayuntamientos promoverán la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos; debiendo difundirlos cuando menos tres veces al año; dichos instrumentos deberán ser tomados por las autoridades competentes como base en la definición de los usos de suelo que produzcan un impacto regional, así como para la autorización y construcción de obras de infraestructura o asentamientos humanos.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+La información sobre las regiones o zonas geográficas vulnerables a los efectos adversos del cambio climático deberá ser considerada por los ayuntamientos en la elaboración de los planes de desarrollo urbano y reglamentos de construcción.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6061,7 +6093,7 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 ### CAPITULO SEGUNDO. De los vehículos
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO TERCERO. De los conductores y propietarios
 
@@ -6161,7 +6193,9 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 ###### Artículo 7.
 
-6.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro y podrá, así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
+6.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro, incluyendo la eficiencia y sustentabilidad del transporte, y podrá así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo, individual y mixto, deberá contar con sistemas moderadores de velocidad, denominados gobernadores de velocidad.
 
@@ -7285,7 +7319,7 @@ b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológico
 
 c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
-VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
+VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien corneta cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
 
 IX. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
 
@@ -8095,9 +8129,11 @@ VIII. Los mecanismos que permitan la obtención de financiamientos con tasas pre
 
 IX. La utilización de instrumentos de mercado para la administración de riesgos. Lo anterior, sin perjuicio de gestionar recursos y apoyos ante los gobiernos federal y municipales para atender a los productores afectados por desastres naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 9.
 
-7.- El impulso del desarrollo agropecuario, acuícola y forestal tendrá presente en todo momento el desarrollo sustentable de la producción primaria, bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos, el agua, los bosques y demás recursos naturales, así como de prevención y mitigación del impacto ambiental de las actividades productivas en los ecosistemas y la biodiversidad.
+7.- El impulso del desarrollo agropecuario, acuícola y forestal tendrá presente en todo momento el desarrollo sustentable de la producción primaria, bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos, el agua, los bosques y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
 
 Para tal efecto, la Secretaría de Desarrollo Agropecuario promoverá:
 
@@ -16318,3 +16354,15 @@ Fiscal C1i,t C2i,t
 2014 50% 50%
 
 2015 40% 60%
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día en que inicie su vigencia el diverso por el que se reforma el párrafo tercero del artículo 18 de la Constitución Política del Estado Libre y Soberano de México, en materia de cambio climático.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en los artículos reformados.
+
+CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
+
+QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
