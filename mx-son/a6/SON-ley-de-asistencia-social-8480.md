@@ -4,7 +4,7 @@ identifier: "SON-ley-de-asistencia-social-8480"
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-16"
-last_updated: "2013-06-27"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE ASISTENCIA SOCIAL
 
-LEY DE ASISTENCIA SOCIAL
+LEY DE ASISTENCIA SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN LA BOLETÍN OFICIAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 16 de junio de 1986.
 
@@ -49,7 +49,7 @@ II.- Garantizar la coordinación y concurrencia de la Federación, del Estado y 
 
 ###### ARTICULO 2o.
 
-El Gobierno del Estado y los Gobiernos Municipales proporcionarán servicios de asistencia social, encamina dos al desarrollo integral de la familia y al apoyo en la formación, subsistencia y desenvolvimiento, de individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
+El Gobierno del Estado y los Gobiernos Municipales proporcionarán servicios de asistencia social, encaminados al desarrollo integral de la familia y al apoyo en la formación, subsistencia y desenvolvimiento, de individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
 
 ###### ARTICULO 3o.
 
@@ -521,7 +521,9 @@ La concertación de acciones en materia de asistencia social que se lleve a cabo
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado.
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevarán a cabo el Gobierno del Estado o los Gobiernos Municipales.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+II.- Determinación de las acciones en materia de orientación, estímulo y apoyo financiero que llevarán a cabo el Gobierno del Estado y los gobiernos municipales.
 
 III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes; y
 
@@ -550,6 +552,30 @@ III.- Notificación de la existencia de personas que requieran de asistencia soc
 IV.- Formulación de sugerencias para mejorar los servicios de asistencia social; y
 
 V.- Otras actividades que coadyuven a la protección de la salud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO V. DE LOS APOYOS FINANCIEROS A LAS INSTITUCIONES
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 48.
+
+El Gobierno del Estado, a través del Organismo, retribuirá con apoyos financieros, bajo un esquema de equidad y transparencia, la ayuda que las Organizaciones de la Sociedad Civil brindan a la población más vulnerable del Estado, de conformidad con lo dispuesto por el presupuesto de egresos autorizado por el Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 49.
+
+Para efectos de lo dispuesto en el artículo anterior, el Gobierno del Estado podrá realizar aportaciones paritarias, con base en los índices de vulnerabilidad previamente definidos para los municipios del Estado de Sonora, entendiéndose por éstas las que realice hasta por la misma cantidad del monto recaudado anual para los programas que presenten las Organizaciones de la Sociedad Civil que haya sido aportado por fundaciones, empresas, sociedad civil y personas físicas, ubicadas y radicadas en el Estado de Sonora, para la realización de obras y acciones asistenciales.
+
+Las aportaciones financieras a que se refiere el párrafo anterior se harán en forma directa, a través de convenios de operación que se celebren entre el Organismo y las Organizaciones de la Sociedad Civil que resulten beneficiarias, según el fallo de la convocatoria respetiva, sin que medien terceras personas o alguna otra institución que pudiera fungir como intermediaria.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 50.
+
+Con el propósito de lograr mayor equidad en la entrega de estos apoyos financieros, bajo un criterio incluyente y para impulsar el desarrollo de las instituciones con mayor grado de autogestión, éstas deberán comprobar su eficiencia, cobertura, capacidad financiera y población beneficiada, para lograr el aporte de recursos paritarios que les otorgue el Estado, en los términos de esta Ley y el reglamento que para tales efectos se expida.
 
 ## TRANSITORIOS
 
@@ -610,3 +636,13 @@ B.O. 27 DE JUNIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal deberá expedir el reglamento para la operación y funcionamiento del esquema de aportación de apoyo financiero del Gobierno del Estado a las Organizaciones de la Sociedad Civil, en un plazo no mayor a 120 días, contado a partir de la fecha de entrada en vigor del presente Decreto.
