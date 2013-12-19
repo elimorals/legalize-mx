@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-12-02"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN LA G.G. DE 19 DE DICIEMBRE DE 2013 Y 3 DE MARZO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 172, PUBLICADO EN LA G.G. DE 2 DE DICIEMBRE DE 2013, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. 19 DE DICIEMBRE DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1161,8 +1161,6 @@ Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal 
 
 Tratándose de fianza otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se estará a lo dispuesto por la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 41.
 
 Son responsables solidarios del pago de créditos fiscales:
@@ -1294,6 +1292,8 @@ XXVIII. Los servidores públicos que autoricen la inscripción de vehículos, pe
 En los supuestos de las fracciones IV, VI y XII, a que se refiere este artículo, el plazo para su determinación se extinguirá en cinco años contados a partir de que el contribuyente no sea localizado y/o no cuente con bienes para asegurar la recuperación del crédito fiscal, o que teniéndolos no sean suficientes.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -6059,15 +6059,23 @@ D). La compraventa a plazos, con reserva de dominio o cualquier otra condición 
 
 E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos.
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
 
-F). La inmatriculación judicial o administrativa de inmuebles, por cada predio. $63
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos. $63
 
-Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos.
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
 
-G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos. $556
+F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
-H). Otros actos inscribibles o anotables. $844
+Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos. $556
+
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos. $844
+
+> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+H). Otros actos inscribibles o anotables.
 
 Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $132, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
 
@@ -7097,6 +7105,12 @@ CONCEPTO
 
 Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagarán por concepto de derechos $830.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO, EL CUAL HACE REFERENCIA A LA REFORMA DEL PÁRRAFO TERCERO DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MÉXICO PUBLICADA EN LA G.G. EL 19 DE DICIEMBRE DE 2013, QUE ENTRA EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”.</small>
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+El Ejecutivo, a través de la Secretaría del Medio Ambiente emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el periódico oficial "Gaceta del Gobierno". El 10 % de lo que se obtenga del pago de dichas tarifas será destinado al Fondo Estatal de Cambio Climático, debiendo la Secretaría de Finanzas hacer los depósitos correspondientes dentro de los 10 días hábiles del mes siguiente en el que se generaron.
+
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 99.
@@ -7204,6 +7218,12 @@ IX. Por revocación, extinción y sustitución de poderes que se asienten en not
 X. Depósito de aviso de testamento, incluyendo el que se realiza por vía correo electrónico, por cada uno. $58
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO, EL CUAL HACE REFERENCIA A LA REFORMA DEL PÁRRAFO TERCERO DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MÉXICO PUBLICADA EN LA G.G. EL 19 DE DICIEMBRE DE 2013, QUE ENTRA EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+Los recursos recaudados del cobro de los derechos previstos en las fracciones I y III del presente artículo, se destinarán al Fondo Estatal de Cambio Climático.
 
 (REFORMADO, G.G. 6 DE DICIEMBRE DE 2002) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
@@ -11909,7 +11929,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216-D.
 
@@ -17116,3 +17136,15 @@ Fiscal C1i,t C2i,t
 2014 50% 50%
 
 2015 40% 60%
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día en que inicie su vigencia el diverso por el que se reforma el párrafo tercero del artículo 18 de la Constitución Política del Estado Libre y Soberano de México, en materia de cambio climático.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en los artículos reformados.
+
+CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
+
+QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
