@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2012-12-31"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -1195,11 +1195,13 @@ III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se compr
 
 IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 76.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Hacienda o de cualquier otra autoridad competente en materia de contribuciones.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Hacienda o de cualquier otra autoridad competente en materia de contribuciones estatales y federales.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1991,7 +1993,11 @@ III.- Por estrados, cuando la persona a quién deba notificarse no sea localizab
 
 IV.- Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión;
 
-V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo de la fracción IV del artículo 127 de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el tercer párrafo de la fracción IV del artículo 127 de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3538,3 +3544,21 @@ Para efectos del pago de la Contribución al Fortalecimiento Municipal, todos aq
 ###### ARTÍCULO QUINTO.
 
 Para efecto de la rendición del informe financiero señalado en el Impuesto por la Prestación de Servicios de Hospedaje, no se presentará este informe el tercer lunes del mes de mayo de 2013.
+
+B.O. 19 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Estado de Sonora, en el ejercicio fiscal del año 2014, el pago de derechos por concepto de revalidación vehicular incluirá la reposición de placas sin costo, previa entrega de las anteriores. Lo anterior, a efecto de dar cumplimiento a las disposiciones que en materia de seguridad se establecen en la Norma Oficial Mexicana NOM-001-CT-2-2000.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
