@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2012-08-30"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -149,7 +149,11 @@ XII. Se promoverá la divulgación de la ciencia y la tecnología, así como los
 
 XIII. Se promoverá la aplicación de los resultados de las investigaciones científicas y desarrollos tecnológicos en los sectores productivo y social;
 
-XIV. Las actividades de investigación científica y desarrollo tecnológico que realicen las dependencias y organismos auxiliares de la administración pública estatal, se orientarán preferentemente a procurar la identificación y solución de problemas y retos de interés general; contribuir significativamente en la generación del conocimiento; apoyar la formación de recursos humanos especializados en ciencia y tecnología; y mejorar la calidad de vida de la población en cuanto a educación, salud, alimentación, medio ambiente y protección civil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+XIV. Las actividades de investigación científica y desarrollo tecnológico que realicen las dependencias y organismos auxiliares de la administración pública estatal, se orientarán preferentemente a procurar la identificación y solución de problemas y retos de interés general, contribuir significativamente en la generación del conocimiento, apoyar la formación de recursos humanos especializados en ciencia y tecnología y mejorar la calidad de vida de la población en cuanto a educación, salud, alimentación, medio ambiente, cambio climático, eficiencia energética, energías renovables y protección civil;
 
 XV. Los apoyos a las actividades de ciencia y tecnología deberá procurarse sean oportunos y suficientes, para garantizar la continuidad de las investigaciones en beneficio de sus resultados, mismos que deberán ser evaluados;
 
@@ -403,7 +407,11 @@ VI. Orientar las actividades de investigación científica y desarrollo tecnoló
 
 VII. Emitir opinión respecto de los proyectos que requieran apoyos financieros;
 
-VIII. Coordinarse con los diversos sectores para promover acciones e identificar problemas y sus respectivas soluciones, así como retos de interés general; contribuir en la generación de conocimiento y mejorar la calidad de vida de la población, especialmente en educación, salud, alimentación, medio ambiente y protección civil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+
+VIII. Coordinarse con los diversos sectores para promover acciones e identificar problemas y sus respectivas soluciones, así como retos de interés general; contribuir en la generación de conocimiento y mejorar la calidad de vida de la población, especialmente en educación, salud, alimentación, medio ambiente, cambio climático, eficiencia energética, energías renovables y protección civil;
 
 IX. Promover el impulso, conservación, consolidación y actualización de la infraestructura de investigación en la entidad;
 
@@ -632,3 +640,15 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- En el 2018, los recursos que se asignen a investigación, ciencia y tecnología deberán representar como mínimo el 1% del presupuesto estatal.
 
 CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día en que inicie su vigencia el diverso por el que se reforma el párrafo tercero del artículo 18 de la Constitución Política del Estado Libre y Soberano de México, en materia de cambio climático.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en los artículos reformados.
+
+CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
+
+QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo. Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
