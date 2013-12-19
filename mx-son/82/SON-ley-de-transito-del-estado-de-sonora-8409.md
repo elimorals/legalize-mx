@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2013-11-21"
+last_updated: "2013-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -233,7 +233,7 @@ Las Policías de Tránsito Municipales podrán, previo acuerdo de los Ayuntamien
 
 ###### ARTICULO 11.
 
-Son de jurisdicción municipal, las vías públicas ubicadas dentro de los límites de las poblaciones y ciudades comprendidas en el territorio del Municipio, así como los caminos y demás vías que no atreviesen los límites de dos o más Municipalidades.
+Son de jurisdicción municipal, las vías públicas ubicadas dentro de los límites de las poblaciones y ciudades comprendidas en el territorio del Municipio, así como los caminos y demás vías que no atraviesen los límites de dos o más Municipalidades.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -274,6 +274,12 @@ En caso de duda sobre si un camino o calle deba ser o no considerado como vía p
 ###### ARTICULO 17.
 
 Las Leyes Fiscales respectivas, determinarán las características, vigencia y cuantía de los derechos por concepto de placas de circulación, expedición de licencias, calcomanías por revisados, permisos, estacionamientos exclusivos, estacionamientos públicos y estacionómetros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
 
 ## TITULO SEGUNDO. DE LAS REGLAS DE TRANSITO
 
@@ -843,7 +849,11 @@ Los vehículos destinados al servicio público o privado de transporte para circ
 
 La obtención de placas y tarjetas de circulación en los casos de vehículos nuevos o usados, deberá realizarse dentro de los quince días hábiles siguientes al de la fecha de adquisición o del pedimento de importación definitivo a la zona fronteriza o al interior del País o de la baja de placas.
 
-Tratándose de vehículos provenientes de otras entidades federativas cuyos propietarios establezcan su domicilio en el Estado de Sonora, tienen de plazo para adquirirlas hasta el 31 de enero del año siguiente al de dicho cambio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+
+Las placas que se expidan para la circulación de vehículos tendrán el carácter de permanentes por lo que sólo se efectuará la reposición de placas en caso de pérdida, robo o daño, en este último caso, cuando el deterioro sea tal que dificulte la identificación de éstas.
 
 El canje de placas se efectuará en el transcurso de los tres primeros meses del año de calendario que corresponda y tendrán una vigencia de tres años, contados a partir del último programa de canje que implemente el Gobierno.
 
@@ -1047,7 +1057,7 @@ g).- Cualquier vehículo podrá ir provisto de lámparas que se puedan utilizar 
 
 Cuando las condiciones atmosféricas por la noche sean normales, éstas luces de advertencia deberán ser visibles desde una distancia no menor de 500 metros.
 
-h).- Cualquier vehículo de 2 metros o menos de ancho total puede ir provisto de no más de 3 lámparas de identificación que emitan hacia delante una luz ámbar que no deslumbre y de no más de 3 lámparas de identificación que emitan una luz roja hacia atrás que no deslumbre como se indica en el Artículo 58, inciso e) de esta Ley.
+h).- Cualquier vehículo de 2 metros o menos de ancho total puede ir provisto de no más de 3 lámparas de identificación que emitan hacia adelante una luz ámbar que no deslumbre y de no más de 3 lámparas de identificación que emitan una luz roja hacia atrás que no deslumbre como se indica en el Artículo 58, inciso e) de esta Ley.
 
 ###### ARTICULO 61.
 
@@ -1833,7 +1843,7 @@ Se hará la aproximación tomando el extremo del carril izquierdo adyacente a la
 
 d).- Una vía de doble sentido a otra de un solo sentido:
 
-La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
+La aproximación deberá hacerse sobre la mitad derecha de la vía junto a la raya central y después de entrar a la intersección dará vuelta a (sic) izquierda de tal manera que al salir de aquella se coloque en el extremo del carril izquierdo adyacente a la acera o a la orilla de la vía a la que se ha incorporado.
 
 e).- Cuando sea practicable, la vuelta a la izquierda deberá efectuarse dejando a la derecha el centro de la intersección.
 
@@ -1903,7 +1913,7 @@ Los Ayuntamientos podrán modificar los límites máximos de velocidad que seña
 
 ###### ARTICULO 148.
 
-En todo caso, cuando un vehículo sea conducido en una vía la velocidad más lenta que la normal de tránsito, deberá circular por su extrema derecha, excepto cuando esté preparándose para dar vuelta a la izquierda.
+En todo caso, cuando un vehículo sea conducido en una vía a velocidad más lenta que la normal de tránsito, deberá circular por su extrema derecha, excepto cuando esté preparándose para dar vuelta a la izquierda.
 
 ###### ARTICULO 149.
 
@@ -2019,7 +2029,7 @@ III.- Frente a una entrada de vehículos.
 
 IV.- Entre una zona de seguridad y la acera adyacente o a menos de 10.00 metros atrás o adelante de ese lugar.
 
-V.- A menos de 5.00 metros atrás o delante de un hidrante.
+V.- A menos de 5.00 metros atrás o adelante de un hidrante.
 
 VI.- A menos de 5.00 metros de la entrada de una estación de bomberos o en la orilla opuesta a menos de 25.00 metros.
 
@@ -2289,7 +2299,7 @@ V.- Cuando el policía levante el brazo derecho en posición vertical:
 
 a) Indica a los conductores y peatones una situación de emergencia, motivada por la aproximación de vehículos de emergencia o algún otro servicio especial y que por lo tanto, deben despejar la vía e impedir su cruce.
 
-VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en las siguientes formas: ALTO. un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
+VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO, un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
 
 ###### ARTICULO 196.
 
@@ -2337,7 +2347,7 @@ Indican los caminos según el número que les haya sido asignado. Tienen forma d
 
 d) (sic) De destino.
 
-Indican las vías que pueden seguirse para llevar a determinados lugares y en algunos casos las distancias a que estos se encuentran. Son de forma rectangular con su mayor dimensión, horizontal de color blanco, con caracteres, símbolos y filetes negros. A excepción de las elevadas que son verdes con caracteres, símbolos y filetes blancos.
+Indican las vías que pueden seguirse para llevar a determinados lugares y en algunos casos las distancias a que éstos se encuentran. Son de forma rectangular con su mayor dimensión, horizontal de color blanco, con caracteres, símbolos y filetes negros. A excepción de las elevadas que son verdes con caracteres, símbolos y filetes blancos.
 
 c) De servicio.
 
@@ -2761,7 +2771,7 @@ Los vehículos destinados al transporte público de pasaje colectivo urbano, deb
 
 ###### ARTICULO 211.
 
-Los vehículos destinados al servicio público de transporte de pasaje colectivo, en los sistemas de suburbanos y foráneos, deberán ostentar el número del permiso y señalamiento de la ruta.
+Los vehículos destinados al servicio público de transporte de pasaje colectivo, en los sistemas suburbanos y foráneos, deberán ostentar el número del permiso y señalamiento de la ruta.
 
 Por lo que respecta al color de las unidades, éste deberá diferenciarse en los servicios de primera y segunda clase. Cuando la clase de servicio tenga el mismo origen y destino de ruta, las unidades deberán ser uniformes en cuanto al color, el cual se determinará por la Dirección de Transporte del Estado.
 
@@ -3161,7 +3171,7 @@ n) No disminuir la velocidad en intersecciones, puentes y lugares de gran afluen
 
 o) Permitir el acceso de animales en vehículos de servicio público de transporte de pasaje colectivo, exceptuando los utilizados por los invidentes, así como objetos voluminosos y no manuables que obstruyan la visibilidad de los operadores.
 
-p) Por falta de protectores en la llantas traseras de camiones remolques y semirremolques que tengan por finalidad evitar que éstos arrojen pequeños objetos hacia atrás.
+p) Por falta de protectores en las llantas traseras de camiones remolques y semirremolques que tengan por finalidad evitar que éstos arrojen pequeños objetos hacia atrás.
 
 q) Falta de aseo y cortesía de los operadores de los vehículos de servicio público de transporte de pasaje.
 
@@ -3408,3 +3418,21 @@ B.O. 21 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de enero del 2014 previa publicación del mismo en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, en todo el Estado de Sonora, a partir del 1 de enero de 2014, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 312, numeral 1, inciso b de la Ley de Hacienda del Estado de Sonora, en el ejercicio fiscal del año 2014, el pago de derechos por concepto de revalidación vehicular incluirá la reposición de placas sin costo, previa entrega de las anteriores. Lo anterior, a efecto de dar cumplimiento a las disposiciones que en materia de seguridad se establecen en la Norma Oficial Mexicana NOM-001-CT-2-2000.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de la reforma al artículo 42 de la Ley de Tránsito para el Estado de Sonora, los propietarios de los vehículos deberán reponer las placas de circulación en el año 2014 sin costo.
