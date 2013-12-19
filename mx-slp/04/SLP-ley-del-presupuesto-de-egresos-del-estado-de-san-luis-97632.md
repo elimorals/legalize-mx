@@ -1,0 +1,410 @@
+---
+title: "LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI, EJERCICIO FISCAL 2014"
+identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-97632"
+country: "mx"
+rank: "ley"
+publication_date: "2013-12-19"
+last_updated: "2013-12-19"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97632&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-slp"
+scjn_id: "97632"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "EDICION EXTRAORDINARIA"
+reform_count: "0"
+scjn_last_update: "2013-12-19"
+issue_date: "2013-12-18"
+state: "SLP"
+---
+# LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI, EJERCICIO FISCAL 2014
+
+LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ PARA EL EJERCICIO FISCAL 2014
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de diciembre de 2013.
+
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+
+DECRETO 399
+
+La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
+
+EXPOSICIÓN DE MOTIVOS…
+
+En este contexto, el Presupuesto de Egresos del Estado de San Luis Potosí para el Ejercicio Fiscal 2014, conserva la convicción del Ejecutivo Estatal en el seguimiento de los principios de solidaridad, subsidiariedad, equidad e igualdad en beneficio de todos los potosinos.
+
+LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO EJERCICIO (SIC) FISCAL 2014
+
+## TÍTULO PRIMERO. DE LAS ASIGNACIONES DEL PRESUPUESTO
+
+### Capítulo I. Disposiciones Generales
+
+###### ARTÍCULO 1°.
+
+La presente Ley tiene por objeto regular la asignación, ejercicio, seguimiento y control del gasto público del Gobierno del Estado de San Luis Potosí para el Ejercicio Fiscal 2014.
+
+Los Poderes Ejecutivo, Legislativo, Judicial del Estado, y los Organismos Públicos Autónomos, se sujetarán a las disposiciones de este Decreto en lo que no se contraponga a los ordenamientos legales que los rigen.
+
+El ejercicio presupuestal y el control de las erogaciones del Presupuesto de Egresos del Estado para el año 2014 se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados y se sujetarán a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de San Luis Potosí, Ley de Coordinación Fiscal, Ley de Coordinación Fiscal del Estado de San Luis Potosí, de esta Ley y sus Lineamientos; la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí, y su Reglamento, la Ley General de Contabilidad Gubernamental; y demás legislación aplicable.
+
+###### ARTÍCULO 2°.
+
+Para efectos de la presente Ley se entenderá por:
+
+I. CACESLP: Consejo de Armonización Contable del Estado de San Luis Potosí;
+
+II. Comisión: la Comisión Gasto-Financiamiento;
+
+III. CONAC: Consejo Nacional de Armonización Contable;
+
+IV. Contraloría: la Contraloría General del Estado;
+
+V. Dependencias: las que señala la fracción I del artículo 3° de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí, incluyendo sus respectivos órganos administrativos desconcentrados;
+
+VI. Entidades: las referidas en la fracción II del artículo 3° de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí, que son organismos descentralizados, empresas de participación estatal, y los fideicomisos públicos en los que el fideicomitente sea el Poder Ejecutivo o alguna de sus dependencias o entidades de las señaladas en esta fracción, que de conformidad con las disposiciones aplicables sean consideradas entidades paraestatales y aquéllas que en fecha posterior a la publicación de la ley precitada, hubieran sido creadas mediante decreto legal correspondiente, bajo cualquiera de dichas caracterizaciones;
+
+VII. Presupuesto de Libre Asignación: el que se constituye con los recursos provenientes de Impuestos, Derechos, Productos, Aprovechamientos, de Recaudación Local, así como las Participaciones e Ingresos pactados en el Convenio Administrativo de Coordinación Fiscal, y que el Estado tiene la libertad de asignar en las prioridades del desarrollo que determinen el Plan Estatal de Desarrollo y sus programas derivados, excluyendo los recursos que se transfieren a los Municipios;
+
+VIII. GpR: Gestión para Resultados;
+
+IX. Ley: la Ley del Presupuesto de Egresos del Estado de San Luis Potosí para el Ejercicio 2014;
+
+X. Ley de Presupuesto: la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí;
+
+XI. Ley de Planeación: la Ley de Planeación del Estado y Municipios de San Luis Potosí;
+
+XII. MIR: Matriz de Indicadores para resultados;
+
+XIII. MML: Metodología del Marco Lógico;
+
+XIV. Oficialía: la Oficialía Mayor del Poder Ejecutivo;
+
+XV. Organismos autónomos: son aquéllos creados por la Constitución Política del Estado Libre y Soberano de San Luis Potosí que tienen autonomía orgánica, administrativa y de gestión; con independencia de sus decisiones, funcionamiento y organización; y cuentan con personalidad jurídica y patrimonio propio;
+
+XVI. PED: Actualización del Plan Estatal de Desarrollo 2009-2015;
+
+XVII. Presupuesto: el que por mandato constitucional y a iniciativa del titular del Ejecutivo, apruebe el Honorable Congreso del Estado, para solventar, durante el periodo de un año, a partir del uno de enero y hasta el treinta y uno de diciembre de 2014, las actividades, obras y servicios públicos previstos en los programas a cargo de las dependencias, entidades y organismos que en el propio Presupuesto se señalen, y que estará contenido en la presente Ley;
+
+XVIII. PbR: Presupuesto en base a Resultados. Conjunto de procesos y herramientas que permiten apoyar las decisiones presupuestarias en información que sistemáticamente incorpora consideraciones sobre los resultados del ejercicio de los recursos públicos, y que motiva a los ejecutores del gasto a lograrlos, con el objeto de mejorar la calidad del gasto público y promover una adecuada transparencia y rendición de cuentas;
+
+XIX. Secretaría: la Secretaría de Finanzas;
+
+XX. SED: Sistema de Evaluación del Desempeño; y
+
+XXI. Titular del Ejecutivo: el Gobernador Constitucional del Estado.
+
+###### ARTÍCULO 3°.
+
+Con objeto de alinear la formulación y ejercicio del Presupuesto de Egresos a las disposiciones en la materia, establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Contabilidad Gubernamental, el PbR y el SED, así como las acciones para establecer la Contabilidad Armonizada, respectivamente, los tres Poderes del Estado y los Organismos Autónomos están obligados a revisar, rediseñar, desarrollar e incorporar los programas bajo su responsabilidad en apego a la normatividad citada.
+
+Los sujetos a la Ley, en el ejercicio de sus presupuestos aprobados, sin menoscabo de las responsabilidades y atribuciones que les correspondan, serán directamente responsables de que se alcancen con oportunidad y eficiencia las metas y acciones previstas; racionalizar y hacer eficiente su gasto corriente conforme con los lineamientos que emita el Titular del Ejecutivo a través de la Secretaría, en el caso del Poder Ejecutivo, y los que emitan las instancias que determinen los Poderes Judicial, Legislativo y los Organismos Autónomos; cubrir los compromisos contraídos con terceros con sujeción a este Decreto, y deberán de:
+
+I. Sujetarse a los montos autorizados en el Presupuesto de Egresos contenidos en esta Ley;
+
+II. Racionalizar y reducir selectiva y eficientemente los gastos de administración, sin detrimento de la realización oportuna de los programas a su cargo y la adecuada prestación de los servicios; y
+
+III. Cumplir en tiempo y forma con las obligaciones y compromisos de pago, legalmente adquiridas.
+
+La coordinación de los trabajos de homologación de la Contabilidad Gubernamental de los Poderes Ejecutivo, Legislativo y Judicial, Organismos Autónomos y Municipios, está a cargo del CACESLP, y en el seno del mismo se definirán las acciones a seguir para adecuar, armonizar, difundir y promover la aplicación de las normas contables y lineamientos emitidos por el CONAC con la finalidad de transparentar y armonizar la información financiera que facilite la consolidación y fiscalización de las cuentas públicas.
+
+###### ARTÍCULO 4°.
+
+La Secretaría, en el caso del Poder Ejecutivo, así como los órganos que determinen las leyes que los regulan en los casos de los Poderes Legislativo, Judicial y Organismos Autónomos tienen facultad para interpretar las disposiciones de la presente Ley, para efectos administrativos, y establecer los criterios, normas y lineamientos que orienten la aplicación pertinente de los recursos hacendarios y que esto coadyuve a generar valor público a través de los servicios, obras y acciones consignados en sus respectivos programas.
+
+En la celebración o suscripción de convenios o acuerdos en los que se comprometa al patrimonio económico, o al erario del Estado, será obligatoria la intervención de la Secretaría.
+
+Para el eficaz cumplimiento de este Decreto, los Poderes Ejecutivo, Legislativo y Judicial del Estado, en coordinación con los Municipios, colaborarán entre sí para asegurar las mejores condiciones de probidad y veracidad en el intercambio de información presupuestaria, contable y de gasto público.
+
+### Capítulo II. De las Erogaciones
+
+###### ARTÍCULO 5°.
+
+Las asignaciones previstas en este Presupuesto para el Ejercicio Fiscal del año 2014, se sustentan conforme a la recaudación prevista en la Ley de Ingresos para el mismo ejercicio fiscal, y estarán supeditadas a su captación efectiva; importando la cantidad de $34,039,039,878.00 (Treinta y cuatro mil treinta y nueve millones treinta y nueve mil ochocientos setenta y ocho pesos 00/100 M.N.), con el propósito de dar viabilidad a las políticas públicas de esta administración gubernamental asentadas en el PED y sus programas derivados; así como a las relacionadas con las actividades inherentes a los Poderes, Legislativo, Judicial, Organismos Autónomos y los propios Municipios, en el marco de sus atribuciones, al tenor de los siguientes:
+
+EJES DE DESARROLLO
+
+MONTO (Pesos corrientes)
+
+EJE RECTOR DEL DESARROLLO MONTO
+
+Política social y combate
+
+a la pobreza $18,005,263,120.00
+
+Economía competitiva y
+
+generadora de empleos $1,088,317,503.00
+
+Desarrollo regional Sustentable $1,200,416,807.00
+
+Seguridad y justicia $2,976,564,169.00
+
+Gobierno eficiente, transparente,
+
+honesto y austero $4,211,939,655.00
+
+Recursos municipales (Ramos 28, 33 y
+
+transferencias estatales) y
+
+pago de deuda $6,556,538,624.00
+
+TOTAL $34,039,039,878.00
+
+###### ARTÍCULO 6°.
+
+El Poder Legislativo administrará y ejercerá su respectivo presupuesto, de conformidad con lo dispuesto en la fracción X del artículo 57 de la Constitución Política del Estado de San Luis Potosí; la Ley de Presupuesto, y demás disposiciones aplicables. Las erogaciones previstas para el Poder Legislativo en el año 2014, importan la cantidad de $251,386,404.00 (Doscientos cincuenta y un millones trescientos ochenta y seis mil cuatrocientos cuatro pesos 00/100 M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
+
+###### ARTÍCULO 7°.
+
+La Auditoría Superior del Estado, órgano autónomo del Congreso del Estado, contará con una asignación de $153,744,102.00 (Ciento cincuenta y tres millones setecientos cuarenta y cuatro mil ciento dos pesos 00/100 M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
+
+###### ARTÍCULO 8°.
+
+El Poder Judicial del Estado administrará y ejercerá su respectivo presupuesto, de conformidad con lo dispuesto en el artículo 92 de la Constitución Política del Estado de San Luis Potosí, la Ley de Presupuesto y demás disposiciones aplicables.
+
+Las erogaciones previstas para el Poder Judicial en el año 2014 importan la cantidad de $820,068,613.00 (Ochocientos veinte millones sesenta y ocho mil seiscientos trece pesos 00/100 M.N.). Incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para la operación del propio Poder Judicial; y del Consejo de la Judicatura; así como incluye la cantidad de $23,162,616.00 (Veintitrés millones ciento sesenta y dos mil seiscientos dieciséis pesos 00/100 M.N.) para la aplicación de la Reforma Penal en el Estado.
+
+###### ARTÍCULO 9°.
+
+Para cumplir con lo dispuesto por la Ley Electoral del Estado de San Luis Potosí, las erogaciones asignadas a las autoridades electorales y partidos políticos, incluidas las previsiones para incrementos salariales, prestaciones económicas, repercusiones por concepto de seguridad social y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $73,546,379.00 (Setenta y tres millones quinientos cuarenta y seis mil trescientos setenta y nueve pesos 00/100 M.N.) distribuidas conforme con lo siguiente: Consejo Estatal Electoral $34,220,917.00 (Treinta y cuatro millones doscientos veinte mil novecientos diecisiete pesos 00/100 M.N.); financiamiento a partidos y agrupaciones políticas $39,325,462.00 (Treinta y nueve millones trescientos veinticinco mil cuatrocientos sesenta y dos pesos 00/100 M.N.).
+
+###### ARTÍCULO 10.
+
+Las erogaciones destinadas a la Comisión Estatal de Derechos Humanos, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $33,531,661.00 (Treinta y tres millones quinientos treinta y un mil seiscientos sesenta y un pesos 00/100 M.N.).
+
+###### ARTÍCULO 11.
+
+El subsidio federal destinado a la Universidad Autónoma de San Luis Potosí para el año 2014, será el que apruebe la Cámara de Diputados del H. Congreso de la Unión y será transferido a la Universidad por la Secretaría. En cumplimiento a lo establecido en el artículo 11 de la Constitución Política del Estado de San Luis Potosí. La asignación presupuestal estatal será de $197,320,579.00 (Ciento noventa y siete millones trescientos veinte mil quinientos setenta y nueve pesos 00/100 M.N.).
+
+###### ARTÍCULO 12.
+
+Las erogaciones destinadas a la Comisión Estatal de Garantía de Acceso a la Información Pública, incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por concepto de seguridad social y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación, suman la cantidad de $16,828,760.00 (Dieciséis millones ochocientos veintiocho mil setecientos sesenta pesos 00/100 M.N.).
+
+###### ARTÍCULO 13.
+
+Los subsidios para las instituciones en materia de asistencia social, salud, educativas y culturales importan la cantidad de $77,853,874.00 (Setenta y siete millones ochocientos cincuenta y tres mil ochocientos setenta y cuatro pesos 00/100 M.N.). Para su liberación, las coordinadoras de sector a que se refiere la Ley de Planeación, deberán presentar a la Secretaría un dictamen que permita asegurar el buen uso de los recursos mediante una autorización previa.
+
+Estas erogaciones deberán efectuarse conforme al calendario que se establezca para su liberación, por lo que no tendrán carácter acumulativo ni retroactivo.
+
+###### ARTÍCULO 14.
+
+Este presupuesto prevé erogaciones de saneamiento financiero para el pago de deuda de la administración pública estatal, por un monto de $391,586,547.00 (Trescientos noventa y un millones quinientos ochenta y seis mil quinientos cuarenta y siete pesos 00/100 M.N.); adicionalmente se consideran recursos por $197,015,981.00 (Ciento noventa y siete millones quince mil novecientos ochenta y un pesos 00/100 M.N), para cubrir el compromiso de la deuda de la obra “El Realito”.
+
+###### ARTÍCULO 15.
+
+A fin de cumplimentar las disposiciones contenidas en el artículo 9º de la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí, se establece una previsión presupuestal en un fondo de hasta $1,000,000.00 (Un millón de pesos 00/100 M.N.).
+
+## TÍTULO SEGUNDO. DE LA EJECUCIÓN Y CONTROL PRESUPUESTARIO DEL GASTO PÚBLICO
+
+### Capítulo I. Del Ejercicio del Presupuesto
+
+###### ARTÍCULO 16.
+
+El ámbito temporal de aplicación de los recursos presupuestarios que se citan en este instrumento es de un año natural y abarca del 1 de enero al 31 de diciembre del año 2014. Los sujetos a la Ley no podrán ejercer los recursos del presupuesto anterior, recibidos pero no devengados, debiendo reintegrarlos a la Secretaría a más tardar el 31 de enero del 2014.
+
+Los recursos asignados a capítulos de inversión no son objeto de reducción para complementar erogaciones destinadas a los capítulos 1000, 2000, 3000, salvo que los mismos estén considerados en el expediente técnico de la obra o programa.
+
+En lo referente a la aprobación de recursos para la realización de obra pública en la que, según la normatividad aplicable, sea procedente la aplicación de gastos indirectos, éstos sólo podrán ser ejercidos cuando el ejecutor presente el desglose pormenorizado a nivel naturaleza de gasto, y su liberación procederá con la proporcionalidad que guarde su respectivo avance físico.
+
+###### ARTÍCULO 17.
+
+Si durante el transcurso del ejercicio existiera una reorientación en las prioridades estatales, o una disminución de recursos, la Secretaría, en coordinación con la entidad o dependencia ejecutora, podrá cancelar o modificar algunas de las obras, servicios o acciones del programa respectivo, siempre y cuando no presenten obligaciones contractuales con terceros o personas beneficiadas.
+
+###### ARTÍCULO 18.
+
+Los recursos de inversión deberán atender preferentemente la obra pública y su equipamiento, así como todas aquellas acciones que generen valor público en los servicios de atención a la población, en apego a las prioridades establecidas en el PED y sus programas derivados, teniendo como herramientas la MML, la MIR, el PbR y el SED.
+
+### Capítulo II. De las Modificaciones al Presupuesto
+
+###### ARTÍCULO 19.
+
+Las solicitudes de modificaciones al calendario presupuestal que tengan por finalidad anticipar la disposición de los recursos de meses futuros, los sujetos de presupuesto deben tramitarlas ante la Dirección General de Egresos.
+
+Para el caso de modificaciones a calendario entre cuentas presupuestales, se atenderán preferentemente aquellas que supongan un movimiento compensado de una cuenta con liquidez presupuestal en el mismo mes tratándose de que la naturaleza beneficiada tenga la misma disponibilidad en un mes futuro y sea factible su transferencia a la naturaleza afectada, a criterio de la Dirección General de Egresos.
+
+En la adecuación presupuestal de capítulos de inversión, la Secretaría considerará reducciones en un programa, siempre y cuando se beneficie otro de mayor impacto social, aun cuando su aplicación no corresponda al mismo ejecutor del gasto.
+
+Cuando la modificación presupuestal se refiere a recursos de los estipulados en el artículo 6° de la Ley de Presupuesto, la Secretaría podrá autorizar ampliaciones líquidas hasta por el monto que el ejecutor del gasto solicitante respalde ante la Dirección General de Ingresos, instancia que debe precisar el origen del recurso, informando a la Dirección General de Planeación y Presupuesto, para su asignación en presupuesto de egresos mediante clave presupuestal específica.
+
+###### ARTÍCULO 20.
+
+En el presupuesto asignado al Poder Ejecutivo, se podrá disponer de los saldos de los capítulos de gasto corriente y/o programas que no estén agotados ni comprometidos, a efecto de transferirlos para atender los ejes estratégicos del PED. Si dichos ajustes al Presupuesto afectan naturalezas de gasto cuyo presupuesto esté comprometido mediante contrato, o se trate de gastos efectuados con documentación comprobatoria debidamente justificada en tránsito, el ejecutor del gasto, después de aplicado el ajuste, cuenta con diez días naturales para solicitar a la Secretaría el reintegro de los recursos ajustados.
+
+En ningún caso será viable el reintegro presupuestal por periodos, importes y naturalezas de gasto distintas a las que fueron objeto de ajuste.
+
+En el Poder Ejecutivo no serán materia de ajuste presupuestal las naturalezas de gasto que de manera consensuada determinen como irreductibles la Secretaría, la Oficialía y la Contraloría; sin embargo, cuando la dinámica del gasto en estas partidas genere economías, las mismas serán canalizadas a atender las necesidades planteadas en los ejes estratégicos del PED.
+
+En el presupuesto asignado a los Poderes Legislativo, Judicial y los Organismos Autónomos, las medidas inherentes a hacer eficiente y eficaz su manejo, las determinarán las instancias que su normatividad determine.
+
+### Capítulo III. De los Servicios Personales
+
+###### ARTÍCULO 21.
+
+En el caso del Poder Ejecutivo, la Oficialía es la instancia responsable del análisis y, en su caso, de la validación o aprobación de los movimientos que origine cualquier asignación presupuestal a naturalezas del capítulo de servicios personales, siempre y cuando no contravenga el escenario financiero previsto por la Secretaría, y no contribuya a generar un desequilibrio presupuestal. En los Poderes Legislativo y Judicial y en los Organismos Autónomos, estas facultades las tendrán los órganos que determinen las leyes que los regulan.
+
+Los sujetos a la Ley están obligados a enviar a los órganos que determinen las leyes que los regulan, el registro de personas contratadas para la prestación de un servicio eventual, a fin de que dichos órganos integren un inventario de capital humano. La Oficialía es la obligada, en el caso del Poder Ejecutivo, a la creación de dicho inventario.
+
+Los sujetos a la Ley deben coordinar la operación de los mecanismos necesarios para hacer eficientes sus estructuras orgánicas, de tal manera que se asegure su viabilidad presupuestal y se mantengan mecanismos que garanticen el alineamiento organizacional de la Administración Pública a su marco legal, así como para que la estructura orgánica responda a las exigencias de la innovación y modernización en los procesos de presupuesto y gasto público.
+
+###### ARTÍCULO 22.
+
+Los sujetos a la Ley deben abstenerse de cubrir gastos por concepto de contratación de personas por obra o tiempo determinado, salvo que se cumpla con los siguientes requisitos:
+
+I. Que se encuentren previstos y su pago sea cubierto con su presupuesto correspondiente o, en el proyecto o programa específico. Las contrataciones que se realicen serán invariablemente de carácter temporal, y en el objeto de los contratos se señalarán de manera clara y específica los servicios a realizar, así como la fecha de terminación de los mismos; los que se originen a través de gastos indirectos se sujetarán a lo dispuesto en el Titulo Cuarto de esta Ley;
+
+II. Que los servicios que se pretendan contratar no puedan ser realizados por personal adscrito al sujeto a la Ley, salvo los casos debidamente justificados ante la Oficialía, en el caso del Ejecutivo; en el caso de los Poderes Legislativo y Judicial y en los organismos autónomos, ante los órganos que determinen las leyes que los regulan; y
+
+III. Que el monto mensual a cubrir a las personas físicas que se contraten, no rebase la remuneración ordinaria mensual que corresponda a la plaza presupuestaria o el puesto con el que guarde mayor semejanza.
+
+En el Poder Ejecutivo, la Oficialía y, en el caso de los Poderes Legislativo, Judicial, y de los organismos autónomos, los órganos que determinen las leyes que los regulan, tendrán a su cargo la operación de los mecanismos necesarios para que los sujetos a la Ley no incrementen, en el ejercicio 2014, la contratación de personas para la prestación de servicios eventuales, aun cuando dichas contrataciones sean financiadas con otros ingresos. Los casos en que, a criterio de dichos órganos, los sujetos a la Ley no observen esta limitación y contraten personas sin la autorización de dichas instancias, se considera como conducta que daña el erario público y se sancionará conforme a las leyes que sean aplicables.
+
+### Capítulo IV. De los Fideicomisos
+
+###### ARTÍCULO 23.
+
+La asignación de recursos al Fondo para el Desarrollo Turístico estará subordinada a la captación efectiva del impuesto por hospedaje, y la correspondiente al Fondo para el Desarrollo Económico, con base en la recaudación del impuesto sobre nómina, correspondiendo al Comité Técnico la administración del Fideicomiso Público de Inversión y Administración para el Desarrollo Económico del Estado de San Luis Potosí, el cual se integrará con el 20% del monto recaudado del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; tanto éstos, como el Fondo Estatal para la Seguridad Pública, deben sujetarse a sus respectivas reglas de operación y sus órganos de autoridad deben mantener actualizado el programa detallado de las acciones que realizan en el ejercicio fiscal, equitativamente distribuidas en las regiones del Estado y validado por las áreas normativas del Gobierno.
+
+Tanto éstos como los demás fideicomisos en que participen dependencias y entidades de la Administración Pública Estatal, están obligados a presentar mensualmente sus estados financieros ante la Secretaría y a la Contraloría.
+
+## TÍTULO TERCERO. DE LA INFORMACIÓN, SEGUIMIENTO Y EVALUACIÓN
+
+### Capítulo I. De la Evaluación y Seguimiento del Presupuesto
+
+###### ARTÍCULO 24.
+
+Los sujetos a la Ley, en el marco de la metodología del PbR, deben implementar mecanismos de evaluación que aseguren el cumplimiento de los principios de legalidad, transparencia, eficiencia, eficacia y calidad, conforme a lo estipulado en sus respectivos objetivos, estrategias y metas, definidos en sus instrumentos de planeación, con el objeto de dar cabida a la identificación y posterior implementación de mecanismos de mejora en sus políticas públicas.
+
+Para ello deberán observar lo siguiente:
+
+I. Realizar procesos de evaluación externa, y con base en los resultados emanados, deberán revisar la estructura de sus programas y proponer mejoras;
+
+II. Hacer públicos a la ciudadanía los resultados esperados de sus Programas relativos a obras y acciones, así como el resultado de las respectivas evaluaciones;
+
+III. Mantener la capacitación y especialización de los servidores públicos involucrados en las funciones de planeación, presupuestación y evaluación de políticas y programas;
+
+IV. Las evaluaciones de los programas y proyectos de inversión, financiadas con el erario público estatal, se llevarán a cabo en los términos que determine el Programa Anual de Evaluación (PAE), por lo cual los servicios de evaluación externa deberán estar contratados antes del 31 de diciembre del ejercicio fiscal; y
+
+V. En los términos que así lo determine, la Secretaría coordinará la integración del PAE, y las Dependencias y Entidades están obligadas a remitir la información que la Secretaría considere necesaria para realizar las correspondientes evaluaciones.
+
+###### ARTÍCULO 25.
+
+Con el propósito de dar un mejor seguimiento a los recursos del erario, las transferencias que se otorguen mediante el capítulo 4000, así como recursos del Ramo 33 que administren los sujetos a la Ley, dichas instancias tienen obligación de presentar el estado financiero del mes inmediato anterior para la ministración del recurso en el siguiente mes, dentro de los 10 primeros días naturales.
+
+### Capítulo II. De la fiscalización del gasto y las medidas de apremio
+
+###### ARTÍCULO 26.
+
+Los órganos de fiscalización de los sujetos a la Ley, en el ámbito de sus funciones y atribuciones y en apego a la normatividad vigente, en coordinación con las instancias que juzguen pertinentes, desarrollarán programas supervisores de obras, servicios y acciones, que permitan llevar a cabo la verificación de su avance físico y financiero, asegurando su impacto social.
+
+###### ARTÍCULO 27.
+
+La Secretaría suspenderá las ministraciones de los recursos cuando así lo soliciten los órganos de fiscalización de los sujetos a la Ley, como consecuencia de las irregularidades que éstos detecten mediante las acciones de fiscalización que realicen sobre la aplicación de los recursos, o por la omisión de información sobre el ejercicio de los mismos. Dicha suspensión surtirá efecto hasta en tanto los órganos de fiscalización notifiquen la debida solventación de las irregularidades.
+
+## TÍTULO CUARTO. DE LA DISCIPLINA PRESUPUESTAL
+
+### Capítulo I. Del Gasto de Operación
+
+###### ARTÍCULO 28.
+
+Derivado y para estar acorde con la economía nacional, el incremento al salario base de los trabajadores adscritos al gobierno estatal en todas las dependencias y entidades, los poderes legislativo, judicial y organismos descentralizados y autónomos, por ningún motivo y en ningún caso podrá ser superior al incremento al salario mínimo aplicable a la zona geográfica determinado por la comisión nacional de salarios mínimos; asimismo, las prestaciones que complementan dicho salario base, bajo ningún nombre ni esquema será sujeto de incremento alguno.
+
+###### ARTÍCULO 29.
+
+Los Poderes, dependencias, entidades y organismos públicos optimizarán sus estructuras orgánicas y ocupacionales en todos los niveles y categorías tabulares. Consecuentemente, quedan restringidos al mínimo necesario los servicios de asesoría; de igual manera, queda prohibida la contratación de personal bajo la modalidad de honorarios asimilables a salarios, excepto, los celebrados hasta esta fecha y aquellos en los que sea necesario la ampliación de su vigencia; los contratos por interinato sólo procederán cuando el servicio que presta el servidor público que se ausenta sea imprescindible dentro del área o departamento en el que esté adscrito; por otra parte, la contratación de personal de confianza será procedente solo en los casos de sustitución de aquellas plazas vacantes generadas por cualquier motivo, siempre y cuando se cuente con suficiencia presupuestal.
+
+###### ARTÍCULO 30.
+
+Previo a que se decreten por ministerio de Ley modificaciones a la estructura orgánica de los sujetos a la Ley, que repercutan en incrementos al Gasto Público en materia de servicios personales, la instancia promotora de tal modificación deberá analizar con la Secretaría la factibilidad financiera para el financiamiento de tal estructura, para cuyo efecto debe contar con la revisión del esquema organizacional en conjunto con la Oficialía, quien dictaminará respecto a la funcionalidad del mismo y estimará el impacto presupuestal que revista el cambio; con esos elementos, la Secretaría analizará y, en su caso, aprobará la adecuación.
+
+###### ARTÍCULO 31.
+
+Los sujetos a la Ley tienen la responsabilidad de la creación, seguimiento y evaluación del Programa de Austeridad aplicable a su institución, con el objeto de promover las medidas para agilizar procesos y reducir los costos de operación y administración con respecto al ejercicio del año anterior, dando seguimiento principalmente a los renglones de gasto que a continuación se mencionan:
+
+I. Materiales y útiles de oficina, de limpieza, didáctico, estadísticos, geográficos, de impresión y reproducción, de información, para el procesamiento en equipos y bienes informáticos;
+
+II. Alimentación de personas, utensilios para el servicio de alimentación: limitarse a los estrictamente necesarios, siempre y cuando sean en horario de labores adicionales, durante el desempeño de las funciones de los servidores públicos;
+
+III. Refacciones, accesorios y herramientas menores, refacciones y accesorios para equipo de cómputo, materiales de construcción, complementario, eléctrico y electrónico;
+
+IV. Combustibles, lubricantes y aditivos;
+
+V. Telefonía convencional: utilizar dispositivos de protección y red gubernamental para racionalizar los recursos. Los servicios de telefonía celular y satelital deben restringirse al mínimo necesario y utilizar los planes más idóneos, ya sean individuales o generales; asimismo, tele servicios deben ser utilizados únicamente en los casos indispensables para el desempeño de las funciones del servidor público y sin rebasar los límites máximos establecidos;
+
+VI. Servicios: postal, telegráfico, energía eléctrica y agua potable. Conducción de señales analógicas y digitales: como televisión por cable, satelital y radiolocalización, entre otros;
+
+VII. Servicios de arrendamientos: de edificios y locales, terrenos, maquinaria y equipo, bienes informáticos, otros arrendamientos, subrogaciones y vehículos; solo en casos fortuitos y de fuerza mayor se podrán arrendar aeronaves privadas;
+
+VIII. Mantenimiento y conservación de maquinaria y equipo; de mobiliario y equipo; y en general de los servicios de mantenimiento, conservación e instalación;
+
+IX. Gastos de propaganda, publicidad, publicaciones oficiales y servicios de telecomunicaciones como Internet, de suscripción e información, y en general, actividades relacionadas con la comunicación social: utilizar preferentemente los medios de difusión del sector público;
+
+X. Viajes y pasajes, tanto nacionales como al extranjero; gastos de ceremonial y orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales, simposios, asambleas, reuniones, capacitación o cualquier tipo de foro o evento análogo, en todos los casos se debe reducir el número de integrantes al estrictamente necesario para la atención de asuntos de su competencia;
+
+XI. Las adquisiciones de vehículos y equipo de transporte sólo se realizarán por las siguientes razones: sustitución de los siniestrados; ampliación de operaciones; y en los casos que, por las condiciones que guarden éstos, se haga oneroso el gasto de mantenimiento;
+
+XII. Promover la enajenación de bienes muebles que se consideren como improductivos u obsoletos, ociosos, innecesarios o de desecho. El recurso obtenido de dicha enajenación deberá ser depositado a la Tesorería del Estado; y
+
+XIII. Otros renglones del gasto que permitan dar mayor transparencia a la gestión pública y la utilización racional de los servicios vinculados al desempeño de las funciones que tengan encomendadas, a efecto de generar óptimos resultados; y que se apeguen a la normatividad correspondiente.
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor a partir del uno de enero de 2014 y concluirá sus efectos el treinta y uno de diciembre del mismo año, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los sujetos a la Ley emitirán, publicarán y presentarán las disposiciones y criterios que determinen las medidas de disciplina presupuestal y de gasto que operarán en el ámbito de su competencia, en un lapso no mayor de 45 días a partir de la entrada en vigor de esta Ley y se constituye como prueba documental ante las instancias de fiscalización.
+
+TERCERO. Los sujetos a la Ley publicarán en el Periódico Oficial del Estado, las reglas de operación, normas, disposiciones y criterios que complementen esta Ley.
+
+CUARTO. El Ejecutivo del Estado, en un plazo no mayor a noventa días, contado a partir de la publicación del presente Decreto, deberá constituir el Fideicomiso Público de Inversión y Administración para el Desarrollo Económico del Estado de San Luis Potosí, así como el Comité Técnico, a que hace referencia el artículo 23 del presente Decreto.
+
+El Comité Técnico del Fideicomiso deberá estar integrado por trece miembros, de la siguiente forma:
+
+I. El Gobernador del Estado, quien fungirá como Presidente y, en su ausencia, tendrá como suplente al Secretario de Desarrollo Económico del Gobierno del Estado;
+
+II. Tres de los Vocales que serán propuestos por el Fideicomitente, correspondiendo inicialmente esta función a las personas que ocupen dentro del Gobierno del Estado de San Luis Potosí los cargos de:
+
+- Secretario de Finanzas.
+
+- Secretario de Trabajo y Previsión Social.
+
+- Director del Sistema de Financiamiento para el Desarrollo del Estado.
+
+III. Seis vocales que serán empresarios distinguidos en el Estado designados por el Presidente del Comité Técnico, y
+
+IV. Tres vocales que serán representantes del Honorable Congreso del Estado de San Luis Potosí, correspondiendo esta función a las personas que ocupen los cargos siguientes:
+
+- Presidente de la Directiva del Honorable Congreso del Estado.
+
+- Presidente de la Comisión de Desarrollo Económico y Social
+
+- Presidente del Comité de Competitividad
+
+Cada uno de los vocales miembros del Comité Técnico nombrará su Suplente, quien tendrá voto en ausencia del Titular y únicamente voz en el caso de que éste asista.
+
+Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
+
+D A D O en el salón “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el quince de diciembre de dos mil trece.
+
+Diputado Presidente, Fernando Pérez Espinosa; Diputada Segunda Prosecretaria, Delia Guerrero Coronado; Diputado Segundo Secretario, Crisógono Sánchez Lara. (Rúbricas).
+
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+
+D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los dieciocho días del mes de diciembre del año dos mil trece.
+
+El Gobernador Constitucional del Estado
+
+Dr. Fernando Toranzo Fernández
+
+(Rúbrica)
+
+El Secretario General de Gobierno
+
+Lic. Cándido Ochoa Rojas
+
+(Rúbrica)
+
+> <small>N. DE E. VÉASE ANEXOS EN EL P.O. DE 19 DE DICIEMBRE DE 2013, PÁGINAS DE LA 22 A LA 137.</small>
